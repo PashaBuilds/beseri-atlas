@@ -1,0 +1,88 @@
+---
+/**
+ * Tartışma haritasının kalbi (§7, İlke 3).
+ * Pozisyonlar EŞİT ağırlıkta sunulur — sıra, boyut veya renk hiçbirini
+ * öne çıkarmaz. Her pozisyon güçlü ve zayıf yanıyla birlikte verilir.
+ * "Hangisi doğru" sorusunun cevabı bu sayfada yoktur; olmaması tasarımdır.
+ */
+export interface Props {
+  pozisyonlar: Array<{ ad: string; savunanlar: string[]; tez: string; guclu_yani: string; zayif_yani: string }>;
+}
+const { pozisyonlar } = Astro.props;
+---
+<section class="pozisyonlar" aria-labelledby="pozisyonlar-baslik">
+  <h2 id="pozisyonlar-baslik">Rakip pozisyonlar</h2>
+  <p class="pozisyonlar__not">
+    Bu {pozisyonlar.length} pozisyon eşit ağırlıkta sunulur. Aralarında hakemlik
+    yapılmaz — her birinin güçlü ve zayıf yanı yan yana verilir.
+  </p>
+
+  <ol class="pozisyonlar__liste">
+    {pozisyonlar.map((p, i) => (
+      <li class="pozisyon">
+        <div class="pozisyon__no" aria-hidden="true">{String(i + 1).padStart(2, '0')}</div>
+        <div class="pozisyon__govde">
+          <h3 class="pozisyon__ad">{p.ad}</h3>
+          <p class="pozisyon__savunanlar">
+            <span class="veri-etiket">Savunanlar</span>
+            {p.savunanlar.join(' · ')}
+          </p>
+          <p class="pozisyon__tez">{p.tez}</p>
+          <div class="pozisyon__terazi">
+            <div class="terazi terazi--guclu">
+              <span class="veri-etiket">Güçlü yanı</span>
+              <p>{p.guclu_yani}</p>
+            </div>
+            <div class="terazi terazi--zayif">
+              <span class="veri-etiket">Zayıf yanı</span>
+              <p>{p.zayif_yani}</p>
+            </div>
+          </div>
+        </div>
+      </li>
+    ))}
+  </ol>
+
+  <p class="pozisyonlar__hakem">
+    <strong>Hakem yok.</strong> Bu sayfa bir sonuca bağlanmaz. Tarihin dürüst hâli
+    tartışmalıdır; site kimin ne dediğini, hangi delile dayandığını ve zayıf
+    noktasının ne olduğunu gösterir.
+  </p>
+</section>
+
+<style>
+  .pozisyonlar { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--cizgi); }
+  .pozisyonlar__not { font-size: .92rem; color: var(--golge); margin-bottom: 1.75rem; }
+  .pozisyonlar__liste { list-style: none; margin: 0; padding: 0; display: grid; gap: 1px; background: var(--cizgi-ince); border: 1px solid var(--cizgi-ince); border-radius: var(--yuvarlak-buyuk); overflow: hidden; }
+
+  .pozisyon { display: grid; grid-template-columns: 3.25rem 1fr; background: var(--yuzey); }
+  .pozisyon__no {
+    font-family: var(--f-veri); font-size: .78rem; font-weight: 600;
+    letter-spacing: .06em; color: var(--golge);
+    padding: 1.15rem .5rem 0 1rem;
+    border-inline-end: 1px solid var(--cizgi-ince);
+  }
+  .pozisyon__govde { padding: 1.1rem 1.2rem 1.25rem; min-width: 0; }
+  .pozisyon__ad {
+    font-family: var(--f-display); font-variation-settings: 'opsz' 24, 'SOFT' 0, 'WONK' 0;
+    font-size: 1.1rem; margin: 0 0 .5rem;
+  }
+  .pozisyon__savunanlar { font-size: .87rem; color: var(--golge); margin: 0 0 .7rem; display: flex; flex-wrap: wrap; gap: .5rem; align-items: baseline; }
+  .pozisyon__tez { margin: 0 0 1rem; font-size: .97rem; }
+
+  .pozisyon__terazi { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: var(--cizgi-ince); border: 1px solid var(--cizgi-ince); border-radius: var(--yuvarlak); overflow: hidden; }
+  @media (max-width: 640px) { .pozisyon__terazi { grid-template-columns: 1fr; } }
+  .terazi { background: var(--tabaka); padding: .7rem .8rem; }
+  .terazi p { margin: .28rem 0 0; font-size: .88rem; line-height: 1.5; }
+  .terazi--guclu { box-shadow: inset 2px 0 0 var(--bakir); }
+  .terazi--guclu .veri-etiket { color: var(--bakir); }
+  .terazi--zayif { box-shadow: inset 2px 0 0 var(--zincifre); }
+  .terazi--zayif .veri-etiket { color: var(--zincifre); }
+
+  .pozisyonlar__hakem {
+    margin: 1.75rem 0 0; padding: .9rem 1.1rem;
+    border: 1px dashed var(--cizgi); border-radius: var(--yuvarlak-buyuk);
+    font-size: .9rem; color: var(--golge); line-height: 1.6;
+  }
+  .pozisyonlar__hakem strong { color: var(--zincifre); }
+</style>

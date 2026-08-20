@@ -1,0 +1,54 @@
+---
+import Temel from '../../layouts/Temel.astro';
+import { tumOnayliIcerik, TIP_ADLARI, TIPLER, yol, GUVEN_ADLARI } from '../../lib/icerik';
+
+export async function getStaticPaths() {
+  const korpus = await tumOnayliIcerik();
+  return TIPLER.map((tip) => ({
+    params: { tip },
+    props: { tip, liste: korpus.filter((e: any) => e.data.tip === tip) },
+  }));
+}
+const { tip, liste } = Astro.props;
+const sirali = [...liste].sort((a: any, b: any) =>
+  tip === 'donem'
+    ? String(a.data.donem).localeCompare(String(b.data.donem))
+    : a.data.baslik.localeCompare(b.data.baslik, 'tr'));
+---
+<Temel baslik={TIP_ADLARI[tip]} ozet={`${TIP_ADLARI[tip]} tipindeki yayımlanmış makaleler.`}>
+  <main id="ana" class="liste-sayfa">
+    <p class="veri-etiket">İçerik tipi</p>
+    <h1>{TIP_ADLARI[tip]}</h1>
+    <p class="liste-sayfa__sayi">{sirali.length} yayımlanmış makale</p>
+    {sirali.length === 0 && <p class="bos">Bu tipte henüz yayımlanmış makale yok.</p>}
+    <ul class="liste">
+      {sirali.map((e: any) => (
+        <li>
+          <a href={yol(e.data.id)}>
+            <span class="liste__baslik">
+              {tip === 'donem' && <span class="liste__no">{e.data.donem}</span>}
+              {e.data.baslik}
+            </span>
+            <span class="liste__ozet">{e.data.ozet}</span>
+            <span class={`guven guven--${e.data.guven_geneli}`}>{GUVEN_ADLARI[e.data.guven_geneli]}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </main>
+</Temel>
+
+<style>
+  .liste-sayfa { max-width: 58rem; margin: 0 auto; padding: 2.5rem 2rem 6rem; }
+  .liste-sayfa__sayi { color: var(--golge); font-size: .92rem; margin: -.5rem 0 2rem; }
+  .liste { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--cizgi); }
+  .liste li { border-bottom: 1px solid var(--cizgi-ince); }
+  .liste a { display: grid; gap: .3rem; padding: 1.1rem .5rem; text-decoration: none; color: inherit; transition: background var(--gecis); }
+  .liste a:hover { background: var(--yuzey); }
+  .liste__baslik { font-family: var(--f-display); font-variation-settings: 'opsz' 28, 'SOFT' 0, 'WONK' 0; font-weight: 600; font-size: 1.1rem; display: flex; gap: .65rem; align-items: baseline; }
+  .liste__no { font-family: var(--f-veri); font-size: .78rem; color: var(--golge); letter-spacing: .1em; }
+  .liste__ozet { font-size: .92rem; color: var(--golge); line-height: 1.5; }
+  .liste .guven { justify-self: start; margin-top: .25rem; }
+  .bos { color: var(--golge); }
+  @media (max-width: 900px) { .liste-sayfa { padding-inline: 1.15rem; } }
+</style>

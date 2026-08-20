@@ -1,0 +1,87 @@
+---
+import Temel from '../layouts/Temel.astro';
+import ZamanSeridi from '../components/ZamanSeridi.astro';
+import { tumOnayliIcerik, TIP_ADLARI, yol } from '../lib/icerik';
+
+const korpus = await tumOnayliIcerik();
+const donemler = korpus
+  .filter((e: any) => e.data.tip === 'donem')
+  .sort((a: any, b: any) => a.data.donem.localeCompare(b.data.donem))
+  .map((e: any) => ({
+    id: e.data.id, no: e.data.donem, baslik: e.data.baslik,
+    aralik: `${e.data.tarih_baslangic ?? ''}–${e.data.tarih_bitis ?? ''}`,
+    serit: e.data.serit ?? [],
+  }));
+const sayim = Object.fromEntries(
+  Object.keys(TIP_ADLARI).map((t) => [t, korpus.filter((e: any) => e.data.tip === t).length])
+);
+const sonEklenen = [...korpus].sort((a: any, b: any) => String(b.data.son_denetim).localeCompare(String(a.data.son_denetim))).slice(0, 6);
+const toplamKaynak = korpus.reduce((a: number, e: any) => a + e.data.kaynaklar.length, 0);
+---
+<Temel baslik="Ana sayfa" ozet="Türkçe, kaynak-zorunlu beşeri bilimler bilgi atlası.">
+  <main id="ana">
+    <section class="giris">
+      <div class="giris__ic">
+        <p class="veri-etiket">Kaynak-zorunlu beşeri bilimler atlası</p>
+        <h1 class="giris__baslik">İnsanlık tarihini <em>aynı anda</em> okumak</h1>
+        <p class="giris__metin">
+          Kronolojik bir omurga; üstüne bindirilmiş kültür, ekonomi, siyaset, askerî
+          tarih, felsefe, mitoloji ve demografi katmanları. Her iddia bir kaynağa
+          bağlıdır — "bunu nereden biliyorsun?" sorusunun cevabı iki tık uzaktadır.
+        </p>
+        <dl class="sayaclar">
+          <div><dt>Yayımlanmış makale</dt><dd>{korpus.length}</dd></div>
+          <div><dt>Kaynak künyesi</dt><dd>{toplamKaynak}</dd></div>
+          <div><dt>Dönem</dt><dd>{sayim.donem} / 16</dd></div>
+        </dl>
+      </div>
+    </section>
+
+    <div class="genis">
+      {donemler.length > 0
+        ? <ZamanSeridi donemler={donemler} baslik="Paralel zaman şeridi" />
+        : <p class="bos">Zaman şeridi, dönem makaleleri yayımlandıkça dolar.</p>}
+
+      <section class="bolum">
+        <h2>Son denetlenenler</h2>
+        <div class="izgara">
+          {sonEklenen.map((e: any) => (
+            <a class="kart" href={yol(e.data.id)}>
+              <span class="kart__tip">{TIP_ADLARI[e.data.tip]}</span>
+              <span class="kart__baslik">{e.data.baslik}</span>
+              <span class="kart__ozet">{e.data.ozet}</span>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="bolum">
+        <h2>İçerik tipleri</h2>
+        <div class="izgara">
+          {Object.entries(TIP_ADLARI).map(([t, ad]) => (
+            <a class="kart" href={`/${t}/`}>
+              <span class="kart__tip">{sayim[t]} makale</span>
+              <span class="kart__baslik">{ad}</span>
+            </a>
+          ))}
+        </div>
+      </section>
+    </div>
+  </main>
+</Temel>
+
+<style>
+  .giris { border-bottom: 1px solid var(--cizgi); }
+  .giris__ic { max-width: 78rem; margin: 0 auto; padding: 4.5rem 2rem 3.25rem; }
+  .giris__baslik { font-size: clamp(2.4rem, 6.5vw, 4.4rem); font-variation-settings: 'opsz' 144, 'SOFT' 0, 'WONK' 0; max-width: 18ch; margin: .5rem 0 1.15rem; }
+  .giris__baslik em { font-style: normal; color: var(--bakir); }
+  .giris__metin { max-width: 56ch; font-size: 1.1rem; color: var(--golge); margin: 0; }
+  .sayaclar { display: flex; flex-wrap: wrap; gap: 2.5rem; margin: 2.5rem 0 0; }
+  .sayaclar dt { font-family: var(--f-veri); font-size: .68rem; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--golge); }
+  .sayaclar dd { margin: .2rem 0 0; font-family: var(--f-display); font-variation-settings: 'opsz' 48, 'SOFT' 0, 'WONK' 0; font-size: 2rem; line-height: 1; }
+  .genis { max-width: 78rem; margin: 0 auto; padding: 0 2rem 5rem; }
+  .bolum { margin-top: 3.25rem; }
+  .bolum h2 { font-size: 1.3rem; margin: 0 0 1rem; }
+  .bos { color: var(--golge); font-size: .95rem; padding: 2rem 0; }
+  @media (max-width: 900px) { .giris__ic, .genis { padding-inline: 1.15rem; } }
+</style>

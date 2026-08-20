@@ -1,0 +1,64 @@
+---
+import '../styles/temel.css';
+export interface Props { baslik: string; ozet?: string; }
+const { baslik, ozet = 'Türkçe, kaynak-zorunlu beşeri bilimler bilgi atlası.' } = Astro.props;
+const yol = Astro.url.pathname;
+const menu = [
+  { ad: 'Zaman şeridi', h: '/zaman-seridi/' },
+  { ad: 'Dönemler', h: '/donem/' },
+  { ad: 'Tartışmalar', h: '/tartisma/' },
+  { ad: 'Dizin', h: '/dizin/' },
+  { ad: 'Hakkında', h: '/hakkinda/' },
+];
+---
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{baslik} — Beşeri Atlas</title>
+    <meta name="description" content={ozet} />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    {/* Tema seçimi boyanmadan önce uygulanmalı — aksi hâlde yanıp söner. */}
+    <script is:inline>
+      (function () {
+        document.documentElement.classList.add('js');
+        try {
+          var t = localStorage.getItem('beseri-tema');
+          if (t) document.documentElement.dataset.tema = t;
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <a class="atla" href="#ana">İçeriğe atla</a>
+    <header class="ust">
+      <div class="ust__ic">
+        <a class="marka" href="/">Beşeri <em>Atlas</em></a>
+        <nav aria-label="Ana gezinme">
+          {menu.map((m) => (
+            <a href={m.h} aria-current={yol.startsWith(m.h) ? 'page' : undefined}>{m.ad}</a>
+          ))}
+          <button class="tema-dugme" type="button" data-tema-degistir aria-live="polite">Tema</button>
+        </nav>
+      </div>
+    </header>
+    <div class="kabuk">
+      <slot />
+    </div>
+    <script is:inline>
+      document.querySelectorAll('[data-tema-degistir]').forEach(function (d) {
+        d.addEventListener('click', function () {
+          var k = document.documentElement;
+          var suan = k.dataset.tema
+            || (matchMedia('(prefers-color-scheme: dark)').matches ? 'koyu' : 'acik');
+          var yeni = suan === 'koyu' ? 'acik' : 'koyu';
+          k.dataset.tema = yeni;
+          try { localStorage.setItem('beseri-tema', yeni); } catch (e) {}
+          d.setAttribute('aria-label', yeni === 'koyu' ? 'Açık temaya geç' : 'Koyu temaya geç');
+        });
+      });
+    </script>
+  </body>
+</html>

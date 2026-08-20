@@ -1,0 +1,75 @@
+---
+/** Sol aygıt rayı — kesitin derinlik ölçeği. Dönem, bölge, güven, bağlar. */
+import { BOLGE_ADLARI, GUVEN_ADLARI, TIP_ADLARI, yol } from '../lib/icerik';
+export interface Props { veri: any; ilgili?: any[]; okuma?: any[]; }
+const { veri, ilgili = [], okuma = [] } = Astro.props;
+const EKSEN_ADLARI: Record<string, string> = {
+  siyasi: 'Siyasi', askeri: 'Askerî', ekonomik: 'Ekonomik', kulturel: 'Kültürel',
+  felsefi: 'Felsefi', dini: 'Dinî', demografik: 'Demografik', mitolojik: 'Mitolojik',
+};
+const tarih = [veri.tarih_baslangic, veri.tarih_bitis].filter(Boolean).join(' – ');
+---
+<aside class="ray" aria-label="Makale künyesi">
+  <div class="ray__blok">
+    <div class="ray__baslik">Tip</div>
+    <div class="ray__deger">{TIP_ADLARI[veri.tip] ?? veri.tip}</div>
+  </div>
+
+  {tarih && (
+    <div class="ray__blok">
+      <div class="ray__baslik">Tarih</div>
+      <div class="ray__deger" style="font-family:var(--f-veri);letter-spacing:.02em">{tarih}</div>
+    </div>
+  )}
+
+  {veri.donem && (
+    <div class="ray__blok">
+      <div class="ray__baslik">Dönem</div>
+      <div class="ray__deger"><a href={`/donem/${veri.donem}/`}>Dönem {veri.donem}</a></div>
+    </div>
+  )}
+
+  <div class="ray__blok">
+    <div class="ray__baslik">Bölge</div>
+    <div class="ray__deger">{veri.bolge.map((b: string) => BOLGE_ADLARI[b] ?? b).join(', ')}</div>
+  </div>
+
+  <div class="ray__blok">
+    <div class="ray__baslik">Eksen</div>
+    <div class="ray__deger">{veri.eksen.map((e: string) => EKSEN_ADLARI[e] ?? e).join(', ')}</div>
+  </div>
+
+  <div class="ray__blok">
+    <div class="ray__baslik">Güven seviyesi</div>
+    <div class="ray__deger">
+      <span class={`guven guven--${veri.guven_geneli}`}>{GUVEN_ADLARI[veri.guven_geneli]}</span>
+    </div>
+  </div>
+
+  {ilgili.length > 0 && (
+    <div class="ray__blok">
+      <div class="ray__baslik">İlgili</div>
+      <ul class="ray__deger">
+        {ilgili.map((i: any) => <li><a href={yol(i.data.id)}>{i.data.baslik}</a></li>)}
+      </ul>
+    </div>
+  )}
+
+  {okuma.length > 0 && (
+    <div class="ray__blok">
+      <div class="ray__baslik">Okuma önerisi</div>
+      <ul class="ray__deger">
+        {okuma.map((i: any) => <li><a href={yol(i.data.id)}>{i.data.baslik}</a></li>)}
+      </ul>
+    </div>
+  )}
+
+  <div class="ray__blok">
+    <div class="ray__baslik">Son denetim</div>
+    <div class="ray__deger" style="font-family:var(--f-veri);font-size:.8rem">
+      {veri.son_denetim}
+      <br />
+      <span style="color:var(--bakir)">{veri.kaynaklar.length} kaynak</span>
+    </div>
+  </div>
+</aside>

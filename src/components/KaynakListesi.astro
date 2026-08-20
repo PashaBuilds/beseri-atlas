@@ -1,0 +1,36 @@
+---
+/**
+ * Kaynak listesi. Projenin tek cümlelik testi burada sınanır:
+ * herhangi bir iddiadan iki tıkla asıl kaynağa ulaşılabilmeli.
+ * Birinci tık: gövdedeki üst simge. İkinci tık: buradaki dış bağ.
+ */
+export interface Props {
+  kaynaklar: Array<{ anahtar: string; tur: string; ad: string; url: string; erisim_tarihi: string; not?: string }>;
+}
+const { kaynaklar } = Astro.props;
+const TUR_ADLARI: Record<string, string> = {
+  ansiklopedi: 'Ansiklopedi', akademik: 'Akademik', birincil: 'Birincil',
+  veri: 'Veri', ders: 'Ders', kitap: 'Kitap',
+};
+---
+<section class="kaynaklar" aria-labelledby="kaynaklar-baslik">
+  <h2 id="kaynaklar-baslik" class="veri-etiket" style="margin:0 0 .75rem">
+    Kaynaklar ({kaynaklar.length})
+  </h2>
+  <ol>
+    {kaynaklar.map((k) => (
+      <li id={`kaynak-${k.anahtar}`}>
+        <span class="kaynaklar__no">{k.anahtar.replace('k', '')}</span>
+        <span>
+          <span class="kaynaklar__tur">{TUR_ADLARI[k.tur] ?? k.tur}</span>
+          <a href={k.url} rel="noopener noreferrer external">{k.ad}</a>
+          {k.not && <span class="kaynaklar__erisim"> — {k.not}</span>}
+          <br />
+          <span class="kaynaklar__erisim">Erişim: {k.erisim_tarihi}</span>
+          {' · '}
+          <a class="kaynaklar__erisim" href={`#atif-${k.anahtar}`} aria-label="Bu kaynağın gövdedeki atfına dön">↩ metne dön</a>
+        </span>
+      </li>
+    ))}
+  </ol>
+</section>

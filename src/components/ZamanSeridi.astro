@@ -1,0 +1,225 @@
+---
+/**
+ * İMZA ÖĞESİ — Paralel Zaman Şeridi (§12)
+ *
+ * Altı bölge tek zaman ekseninde yan yana. Seçili dönem, altı şeridi birden
+ * kesen dikey bir banttır — imza tam olarak bu kesittir: "aynı an, altı yer".
+ *
+ * Eksen SIRALI'dır, doğrusal değil (gerekçe: plan/tasarim-plani.md).
+ * JS'siz çalışır: semantik tablo + CSS grid; dönem seçimi bir URL rotasıdır.
+ */
+export interface Props {
+  donemler: Array<{
+    id: string;
+    no: string;
+    baslik: string;
+    aralik: string;
+    serit: Array<{ bolge: string; baslik: string; satir: string }>;
+  }>;
+  aktif?: string | null;
+  baslik?: string;
+}
+const { donemler, aktif = null, baslik = 'Paralel zaman şeridi' } = Astro.props;
+
+const BOLGELER = [
+  { anahtar: 'avrupa', ad: 'Avrupa' },
+  { anahtar: 'islam-dunyasi', ad: 'İslam dünyası' },
+  { anahtar: 'dogu-asya', ad: 'Doğu Asya' },
+  { anahtar: 'guney-asya', ad: 'Güney Asya' },
+  { anahtar: 'afrika', ad: 'Afrika' },
+  { anahtar: 'amerika', ad: 'Amerika' },
+];
+const hucre = (d: Props['donemler'][number], bolge: string) =>
+  d.serit?.find((s) => s.bolge === bolge) ?? null;
+---
+
+<figure class="serit" role="group" aria-labelledby="serit-baslik">
+  <figcaption class="serit__ust">
+    <h2 id="serit-baslik" class="serit__baslik">{baslik}</h2>
+    <p class="serit__aciklama">
+      Altı bölge, tek eksen. Bir dönem sütunu altı şeridi birden keser — aynı anda
+      dünyada ne olduğunu yan yana okumak için. Eksen <strong>sıralı</strong>dır:
+      sütunlar eşit genişliktedir, süre bilgisi başlıkta verilir.
+    </p>
+  </figcaption>
+
+  <div class="serit__kaydir">
+    <table class="serit__tablo">
+      <caption class="gizli-gorsel">
+        Satırlar altı dünya bölgesi, sütunlar on altı kronolojik dönem.
+        Her hücre o bölgenin o dönemde yaşadığını özetler.
+      </caption>
+      <thead>
+        <tr>
+          <th scope="col" class="serit__kose"><span class="gizli-gorsel">Bölge</span></th>
+          {donemler.map((d) => (
+            <th scope="col" class:list={['serit__basSut', aktif === d.id && 'serit__basSut--aktif']}>
+              <a href={`/donem/${d.no}/`} class="serit__basBag">
+                <span class="serit__no">{d.no}</span>
+                <span class="serit__aralik">{d.aralik}</span>
+                <span class="gizli-gorsel">{d.baslik}</span>
+              </a>
+            </th>
+          ))}
+        </tr>
+      </thead>
+      <tbody>
+        {BOLGELER.map((b) => (
+          <tr class="serit__satir">
+            <th scope="row" class="serit__bolge">{b.ad}</th>
+            {donemler.map((d) => {
+              const h = hucre(d, b.anahtar);
+              return (
+                <td class:list={['serit__hucre', aktif === d.id && 'serit__hucre--aktif', !h && 'serit__hucre--bos']}>
+                  {h ? (
+                    <>
+                      <span class="serit__hucreBaslik">{h.baslik}</span>
+                      <span class="serit__hucreSatir">{h.satir}</span>
+                    </>
+                  ) : (
+                    <span class="serit__yok" aria-label="bu dönem için şerit verisi henüz üretilmedi">—</span>
+                  )}
+                </td>
+              );
+            })}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+</figure>
+
+<style>
+  .serit {
+    margin: 3rem 0;
+    /* Izgarayı kıran tek öğe: raydan taşar. */
+    margin-inline-start: calc(-1 * (var(--ray) + 3rem));
+    padding: 1.5rem 0 0;
+    border-top: 1px solid var(--cizgi);
+    border-bottom: 1px solid var(--cizgi);
+  }
+  @media (max-width: 900px) { .serit { margin-inline-start: 0; } }
+
+  .serit__ust { max-width: 46rem; margin-bottom: 1.4rem; }
+  .serit__baslik {
+    font-family: var(--f-display);
+    font-variation-settings: 'opsz' 32, 'SOFT' 0, 'WONK' 0;
+    font-size: 1.35rem; margin: 0 0 0.5rem;
+  }
+  .serit__aciklama { font-size: 0.92rem; color: var(--golge); margin: 0; line-height: 1.6; }
+
+  .serit__kaydir {
+    overflow-x: auto;
+    padding-bottom: 1rem;
+    scrollbar-width: thin;
+  }
+
+  .serit__tablo { border-collapse: separate; border-spacing: 0; min-width: 62rem; }
+
+  .serit__kose {
+    position: sticky; inset-inline-start: 0; z-index: 2;
+    background: var(--tabaka);
+    width: 8.5rem; min-width: 8.5rem;
+    border-bottom: 1px solid var(--cizgi);
+  }
+
+  /* Sütun başlığı: mesaha çizimi lejantı. */
+  .serit__basSut {
+    padding: 0; text-align: start; font-weight: 400;
+    border-bottom: 1px solid var(--cizgi);
+    /* Tik işareti — derinlik ölçeği. */
+    border-inline-start: 1px solid var(--cizgi-ince);
+    min-width: 8.6rem;
+  }
+  .serit__basBag {
+    display: flex; flex-direction: column; gap: 0.12rem;
+    padding: 0.5rem 0.6rem 0.55rem;
+    text-decoration: none; color: inherit;
+    transition: background var(--gecis);
+  }
+  .serit__basBag:hover { background: var(--yuzey-2); }
+  .serit__no {
+    font-family: var(--f-veri); font-size: 0.66rem; font-weight: 600;
+    letter-spacing: 0.14em; color: var(--golge);
+  }
+  .serit__aralik {
+    font-family: var(--f-veri); font-size: 0.82rem; font-weight: 600;
+    letter-spacing: 0.02em; color: var(--murekkep); white-space: nowrap;
+  }
+  .serit__basSut--aktif { border-bottom: 2px solid var(--bakir); }
+  .serit__basSut--aktif .serit__aralik { color: var(--bakir); }
+
+  .serit__bolge {
+    position: sticky; inset-inline-start: 0; z-index: 2;
+    background: var(--tabaka);
+    text-align: start; vertical-align: top;
+    padding: 0.7rem 0.9rem 0.7rem 0;
+    font-family: var(--f-veri); font-size: 0.74rem; font-weight: 600;
+    letter-spacing: 0.08em; text-transform: uppercase; color: var(--golge);
+    border-bottom: 1px solid var(--cizgi-ince);
+    white-space: nowrap;
+  }
+
+  .serit__hucre {
+    vertical-align: top;
+    padding: 0.7rem 0.75rem;
+    border-bottom: 1px solid var(--cizgi-ince);
+    border-inline-start: 1px solid var(--cizgi-ince);
+    font-size: 0.83rem; line-height: 1.45;
+    transition: background var(--gecis);
+  }
+  .serit__hucreBaslik {
+    display: block;
+    font-family: var(--f-veri); font-size: 0.7rem; font-weight: 600;
+    letter-spacing: 0.06em; text-transform: uppercase;
+    color: var(--bakir); margin-bottom: 0.22rem;
+  }
+  .serit__hucreSatir { display: block; color: var(--murekkep); }
+  .serit__hucre--bos { text-align: center; }
+  .serit__yok { color: var(--cizgi); font-family: var(--f-veri); }
+
+  /* İMZA: seçili dönem altı şeridi birden kesen dikey bant. */
+  .serit__hucre--aktif {
+    background: var(--bakir-zemin);
+    box-shadow: inset 2px 0 0 var(--bakir);
+  }
+  .serit__satir:last-child .serit__hucre--aktif { box-shadow: inset 2px 0 0 var(--bakir), inset 0 -2px 0 var(--bakir); }
+
+  /* Şerit vurgusu: bir satırın üstündeyken kardeşleri hafifçe geri çekilir. */
+  .serit__tablo tbody:hover .serit__satir { opacity: 0.62; transition: opacity var(--gecis); }
+  .serit__tablo tbody:hover .serit__satir:hover { opacity: 1; }
+  .serit__tablo tbody:focus-within .serit__satir { opacity: 1; }
+
+  /* Yükleme koreografisi: önce gratikül çizilir, sonra içerik kademeli belirir. */
+  @media (prefers-reduced-motion: no-preference) {
+    .serit__hucre, .serit__basSut { animation: seritCiz 420ms cubic-bezier(0.2, 0, 0.2, 1) backwards; }
+    .serit__satir:nth-child(1) .serit__hucre { animation-delay: 40ms; }
+    .serit__satir:nth-child(2) .serit__hucre { animation-delay: 90ms; }
+    .serit__satir:nth-child(3) .serit__hucre { animation-delay: 140ms; }
+    .serit__satir:nth-child(4) .serit__hucre { animation-delay: 190ms; }
+    .serit__satir:nth-child(5) .serit__hucre { animation-delay: 240ms; }
+    .serit__satir:nth-child(6) .serit__hucre { animation-delay: 290ms; }
+    @keyframes seritCiz {
+      from { opacity: 0; transform: translateY(4px); }
+      to { opacity: 1; transform: none; }
+    }
+  }
+</style>
+
+<script>
+  // İlerlemeli geliştirme: klavye ile dönem sütunları arasında gezinme.
+  // JS yokken tablo zaten okunur ve her başlık düz bir bağdır.
+  document.querySelectorAll<HTMLElement>('.serit__tablo').forEach((tablo) => {
+    const baglar = [...tablo.querySelectorAll<HTMLAnchorElement>('.serit__basBag')];
+    tablo.addEventListener('keydown', (e) => {
+      const i = baglar.indexOf(document.activeElement as HTMLAnchorElement);
+      if (i < 0) return;
+      const yon = e.key === 'ArrowRight' ? 1 : e.key === 'ArrowLeft' ? -1 : 0;
+      if (!yon) return;
+      e.preventDefault();
+      const hedef = baglar[Math.min(baglar.length - 1, Math.max(0, i + yon))];
+      hedef?.focus();
+      hedef?.scrollIntoView({ inline: 'center', block: 'nearest', behavior: 'smooth' });
+    });
+  });
+</script>

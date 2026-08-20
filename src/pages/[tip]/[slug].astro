@@ -1,0 +1,115 @@
+---
+import { render } from 'astro:content';
+import Temel from '../../layouts/Temel.astro';
+import AygitRayi from '../../components/AygitRayi.astro';
+import KaynakListesi from '../../components/KaynakListesi.astro';
+import ZamanSeridi from '../../components/ZamanSeridi.astro';
+import Pozisyonlar from '../../components/Pozisyonlar.astro';
+import VeriGrafigi from '../../components/VeriGrafigi.astro';
+import { tumOnayliIcerik, baglariCoz, TIP_ADLARI, GUVEN_ADLARI } from '../../lib/icerik';
+
+export async function getStaticPaths() {
+  const korpus = await tumOnayliIcerik();
+  const donemler = korpus
+    .filter((e: any) => e.data.tip === 'donem')
+    .sort((a: any, b: any) => a.data.donem.localeCompare(b.data.donem))
+    .map((e: any) => ({
+      id: e.data.id, no: e.data.donem, baslik: e.data.baslik,
+      aralik: e.data.eksen_cumlesi ? `${e.data.tarih_baslangic ?? ''}–${e.data.tarih_bitis ?? ''}` : '',
+      serit: e.data.serit ?? [],
+    }));
+
+  return korpus.map((girdi: any) => {
+    const [tip, ...rest] = girdi.data.id.split('-');
+    return {
+      params: { tip, slug: rest.join('-') },
+      props: { girdi, korpus, donemler },
+    };
+  });
+}
+
+const { girdi, korpus, donemler } = Astro.props;
+const v = girdi.data;
+const { Content } = await render(girdi);
+const ilgili = baglariCoz(v.ilgili, korpus);
+const okuma = baglariCoz(v.okuma_onerisi, korpus);
+---
+<Temel baslik={v.baslik} ozet={v.ozet}>
+  <div class="sayfa">
+    <AygitRayi veri={v} ilgili={ilgili} okuma={okuma} />
+    <main class="govde" id="ana">
+      <p class="veri-etiket" style="margin-bottom:.6rem">
+        {TIP_ADLARI[v.tip]}
+        {v.donem && <> · Dönem {v.donem}</>}
+      </p>
+      <h1>{v.baslik}</h1>
+      <p class="ozet">{v.ozet}</p>
+
+      {v.tip === 'kaynak' && (
+        <dl class="kunye">
+          <div><dt>Yazar</dt><dd>{v.yazar}</dd></div>
+          <div><dt>Eser</dt><dd>{v.eser_adi}</dd></div>
+          <div><dt>Yayın</dt><dd>{v.yayin_yili}</dd></div>
+          <div>
+            <dt>Telif</dt>
+            <dd>{v.telif_durumu === 'kamu-mali' ? 'Kamu malı' : 'Telifli — tam metin veya bölüm çevirisi üretilmez'}</dd>
+          </div>
+        </dl>
+      )}
+
+      {v.tip === 'kaynak' && (
+        <blockquote class="tez">
+          <span class="veri-etiket" style="display:block;margin-bottom:.35rem">Tezi</span>
+          {v.tez_ozeti}
+        </blockquote>
+      )}
+
+      {v.tip === 'tartisma' && (
+        <div class="soru-blok">
+          <span class="veri-etiket">Soru</span>
+          <p class="soru">{v.soru}</p>
+          <span class="veri-etiket">Neden önemli</span>
+          <p class="neden">{v.neden_onemli}</p>
+        </div>
+      )}
+
+      {v.tip === 'veri' && <VeriGrafigi veri={v} />}
+
+      <Content />
+
+      {v.tip === 'tartisma' && <Pozisyonlar pozisyonlar={v.pozisyonlar} />}
+
+      {v.tip === 'donem' && donemler.length > 0 && (
+        <ZamanSeridi donemler={donemler} aktif={v.id} baslik="Bu dönemde, altı bölgede" />
+      )}
+
+      <KaynakListesi kaynaklar={v.kaynaklar} />
+
+      <p class="beyan">
+        Bu makale otonom olarak üretildi ve otonom olarak denetlendi
+        (son denetim: {v.son_denetim}, {v.kaynaklar.length} kaynak,
+        güven seviyesi: {GUVEN_ADLARI[v.guven_geneli].toLocaleLowerCase('tr')}).
+        Ölçülen doğrulama oranı ve bilinen sınırlar için <a href="/hakkinda/">Hakkında</a>.
+      </p>
+    </main>
+  </div>
+</Temel>
+
+<style>
+  .ozet {
+    font-size: 1.16rem; line-height: 1.6; color: var(--golge);
+    margin: 0 0 2rem; padding-bottom: 1.4rem;
+    border-bottom: 1px solid var(--cizgi-ince);
+    text-wrap: pretty;
+  }
+  .kunye { display: grid; gap: 0; margin: 0 0 1.75rem; border: 1px solid var(--cizgi-ince); border-radius: var(--yuvarlak-buyuk); overflow: hidden; }
+  .kunye > div { display: grid; grid-template-columns: 7rem 1fr; gap: 1rem; padding: .6rem .9rem; background: var(--yuzey); }
+  .kunye > div + div { border-top: 1px solid var(--cizgi-ince); }
+  .kunye dt { font-family: var(--f-veri); font-size: .68rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--golge); padding-top: .2rem; }
+  .kunye dd { margin: 0; font-size: .95rem; }
+  .tez { margin: 0 0 2rem !important; padding: 1rem 1.15rem !important; background: var(--yuzey); border-inline-start: 2px solid var(--bakir) !important; border-radius: 0 var(--yuvarlak-buyuk) var(--yuvarlak-buyuk) 0; font-style: normal !important; color: var(--murekkep) !important; }
+  .soru-blok { margin: 0 0 2.25rem; padding: 1.15rem 1.25rem; background: var(--yuzey); border: 1px solid var(--cizgi-ince); border-radius: var(--yuvarlak-buyuk); }
+  .soru { font-family: var(--f-display); font-variation-settings: 'opsz' 28, 'SOFT' 0, 'WONK' 0; font-size: 1.24rem; line-height: 1.35; margin: .3rem 0 1.1rem; }
+  .neden { margin: .3rem 0 0; font-size: .95rem; color: var(--golge); }
+  .beyan { margin-top: 2.5rem; padding-top: 1.1rem; border-top: 1px solid var(--cizgi-ince); font-size: .84rem; line-height: 1.6; color: var(--golge); }
+</style>

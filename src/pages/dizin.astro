@@ -1,0 +1,49 @@
+---
+import Temel from '../layouts/Temel.astro';
+import { tumOnayliIcerik, TIP_ADLARI, BOLGE_ADLARI, yol } from '../lib/icerik';
+const korpus = await tumOnayliIcerik();
+const sirali = [...korpus].sort((a: any, b: any) => a.data.baslik.localeCompare(b.data.baslik, 'tr'));
+const harfler = new Map<string, any[]>();
+for (const e of sirali) {
+  const h = e.data.baslik.charAt(0).toLocaleUpperCase('tr');
+  if (!harfler.has(h)) harfler.set(h, []);
+  harfler.get(h)!.push(e);
+}
+---
+<Temel baslik="Dizin" ozet="Yayımlanmış bütün makaleler, alfabetik.">
+  <main id="ana" class="dizin">
+    <p class="veri-etiket">Tam liste</p>
+    <h1>Dizin</h1>
+    <p class="dizin__sayi">{korpus.length} yayımlanmış makale</p>
+    <nav class="dizin__harfler" aria-label="Harfe atla">
+      {[...harfler.keys()].map((h) => <a href={`#h-${encodeURIComponent(h)}`}>{h}</a>)}
+    </nav>
+    {[...harfler.entries()].map(([h, liste]) => (
+      <section class="dizin__grup">
+        <h2 id={`h-${encodeURIComponent(h)}`}>{h}</h2>
+        <ul>
+          {liste.map((e: any) => (
+            <li>
+              <a href={yol(e.data.id)}>{e.data.baslik}</a>
+              <span class="dizin__meta">
+                {TIP_ADLARI[e.data.tip]} · {e.data.bolge.map((b: string) => BOLGE_ADLARI[b] ?? b).join(', ')}
+              </span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </main>
+</Temel>
+
+<style>
+  .dizin { max-width: 54rem; margin: 0 auto; padding: 2.5rem 2rem 6rem; }
+  .dizin__sayi { color: var(--golge); margin: -.5rem 0 1.5rem; font-size: .92rem; }
+  .dizin__harfler { display: flex; flex-wrap: wrap; gap: .35rem; padding: .75rem 0 1.5rem; border-bottom: 1px solid var(--cizgi); }
+  .dizin__harfler a { font-family: var(--f-veri); font-weight: 600; font-size: .82rem; text-decoration: none; border: 1px solid var(--cizgi); border-radius: var(--yuvarlak); padding: .18rem .5rem; }
+  .dizin__grup h2 { font-size: 1.1rem; color: var(--bakir); margin: 2rem 0 .5rem; scroll-margin-top: 5rem; }
+  .dizin__grup ul { list-style: none; margin: 0; padding: 0; }
+  .dizin__grup li { display: flex; flex-wrap: wrap; gap: .6rem; align-items: baseline; padding: .4rem 0; border-bottom: 1px solid var(--cizgi-ince); }
+  .dizin__meta { font-family: var(--f-veri); font-size: .7rem; letter-spacing: .06em; text-transform: uppercase; color: var(--golge); margin-inline-start: auto; }
+  @media (max-width: 900px) { .dizin { padding-inline: 1.15rem; } }
+</style>

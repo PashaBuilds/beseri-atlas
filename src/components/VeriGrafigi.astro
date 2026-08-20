@@ -1,0 +1,104 @@
+---
+/**
+ * Veri grafiği — build-time üretilen satır içi SVG.
+ *
+ * Kütüphane yok, runtime'da dış istek yok, JS kapalıyken de görünür (§11).
+ * CSV repoda tutulur; bu bileşen onu build sırasında okur.
+ */
+import fs from 'node:fs';
+import path from 'node:path';
+export interface Props { veri: any; }
+const { veri } = Astro.props;
+
+const csvYolu = path.join(process.cwd(), veri.veri_dosyasi);
+const satirlar = fs.readFileSync(csvYolu, 'utf8').trim().split(/\r?\n/);
+const basliklar = satirlar[0].split(',').map((s) => s.trim());
+const kayitlar = satirlar.slice(1).map((s) => {
+  const h = s.split(',');
+  return { x: Number(h[0]), y: Number(h[1]), not: (h[2] || '').trim() };
+}).filter((k) => Number.isFinite(k.x) && Number.isFinite(k.y));
+
+const G = 720, Y = 300, PL = 62, PR = 16, PU = 18, PA = 40;
+const xMin = Math.min(...kayitlar.map((k) => k.x));
+const xMax = Math.max(...kayitlar.map((k) => k.x));
+const yMax = Math.max(...kayitlar.map((k) => k.y));
+const sx = (x: number) => PL + ((x - xMin) / (xMax - xMin)) * (G - PL - PR);
+const sy = (y: number) => Y - PA - (y / yMax) * (Y - PA - PU);
+
+const cizgi = kayitlar.map((k, i) => `${i ? 'L' : 'M'}${sx(k.x).toFixed(1)},${sy(k.y).toFixed(1)}`).join(' ');
+const alan = `${cizgi} L${sx(xMax).toFixed(1)},${(Y - PA).toFixed(1)} L${sx(xMin).toFixed(1)},${(Y - PA).toFixed(1)} Z`;
+
+const yTik = [0, 0.25, 0.5, 0.75, 1].map((f) => ({ deger: yMax * f, py: sy(yMax * f) }));
+const xTik = kayitlar.filter((_, i) => i % Math.max(1, Math.ceil(kayitlar.length / 8)) === 0 || i === kayitlar.length - 1);
+const bicim = (n: number) => n >= 1000 ? `${(n / 1000).toLocaleString('tr-TR', { maximumFractionDigits: 1 })} mr` : n.toLocaleString('tr-TR', { maximumFractionDigits: 0 });
+---
+<figure class="grafik">
+  <svg viewBox={`0 0 ${G} ${Y}`} role="img" aria-labelledby="grafik-baslik grafik-aciklama" class="grafik__svg">
+    <title id="grafik-baslik">{veri.baslik}</title>
+    <desc id="grafik-aciklama">
+      {basliklar[0]} ekseninde {xMin}–{xMax} arası, {basliklar[1]} ekseninde
+      en yüksek {bicim(yMax)} {veri.birim}. Tam sayısal değerler aşağıdaki tabloda.
+    </desc>
+
+    {yTik.map((t) => (
+      <>
+        <line x1={PL} y1={t.py} x2={G - PR} y2={t.py} class="grafik__izgara" />
+        <text x={PL - 8} y={t.py + 4} text-anchor="end" class="grafik__etiket">{bicim(t.deger)}</text>
+      </>
+    ))}
+
+    <path d={alan} class="grafik__alan" />
+    <path d={cizgi} class="grafik__cizgi" />
+
+    {kayitlar.map((k) => <circle cx={sx(k.x)} cy={sy(k.y)} r="2.6" class="grafik__nokta" />)}
+
+    {xTik.map((k) => (
+      <text x={sx(k.x)} y={Y - PA + 18} text-anchor="middle" class="grafik__etiket">{k.x}</text>
+    ))}
+
+    <line x1={PL} y1={Y - PA} x2={G - PR} y2={Y - PA} class="grafik__eksen" />
+    <text x={PL} y={Y - 6} class="grafik__eksenAd">{basliklar[0]}</text>
+    <text x={PL - 8} y={12} text-anchor="end" class="grafik__eksenAd">{veri.birim}</text>
+  </svg>
+
+  <figcaption class="grafik__alt">
+    <span class="veri-etiket">Kaynak</span>
+    {veri.veri_lisansi} · <code>{veri.veri_dosyasi}</code> ·
+    künye <a href={`#kaynak-${veri.veri_kaynagi_anahtari}`}>{veri.veri_kaynagi_anahtari}</a>
+  </figcaption>
+
+  <details class="grafik__tablo">
+    <summary>Sayısal değerler ({kayitlar.length} satır)</summary>
+    <table>
+      <thead><tr><th>{basliklar[0]}</th><th>{basliklar[1]}</th>{basliklar[2] && <th>{basliklar[2]}</th>}</tr></thead>
+      <tbody>
+        {kayitlar.map((k) => (
+          <tr>
+            <td>{k.x}</td>
+            <td>{k.y.toLocaleString('tr-TR')}</td>
+            {basliklar[2] && <td>{k.not}</td>}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </details>
+</figure>
+
+<style>
+  .grafik { margin: 0 0 2.25rem; }
+  .grafik__svg { width: 100%; height: auto; display: block; background: var(--yuzey); border: 1px solid var(--cizgi-ince); border-radius: var(--yuvarlak-buyuk); }
+  .grafik__izgara { stroke: var(--cizgi-ince); stroke-width: 1; }
+  .grafik__eksen { stroke: var(--cizgi); stroke-width: 1; }
+  .grafik__alan { fill: var(--bakir); opacity: .12; }
+  .grafik__cizgi { fill: none; stroke: var(--bakir); stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+  .grafik__nokta { fill: var(--tabaka); stroke: var(--bakir); stroke-width: 1.5; }
+  .grafik__etiket { font-family: var(--f-veri); font-size: 11px; fill: var(--golge); }
+  .grafik__eksenAd { font-family: var(--f-veri); font-size: 10px; fill: var(--golge); letter-spacing: .1em; text-transform: uppercase; }
+  .grafik__alt { font-size: .82rem; color: var(--golge); margin-top: .6rem; display: flex; flex-wrap: wrap; gap: .45rem; align-items: baseline; }
+  .grafik__alt code { font-size: .78rem; }
+  .grafik__tablo { margin-top: .75rem; font-size: .88rem; }
+  .grafik__tablo summary { font-family: var(--f-veri); font-size: .72rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--golge); cursor: pointer; padding: .35rem 0; }
+  .grafik__tablo table { width: 100%; border-collapse: collapse; }
+  .grafik__tablo th, .grafik__tablo td { text-align: start; padding: .3rem .6rem; border-bottom: 1px solid var(--cizgi-ince); }
+  .grafik__tablo th { font-family: var(--f-veri); font-size: .68rem; letter-spacing: .08em; text-transform: uppercase; color: var(--golge); }
+</style>

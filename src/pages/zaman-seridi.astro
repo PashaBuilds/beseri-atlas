@@ -1,0 +1,33 @@
+---
+import Temel from '../layouts/Temel.astro';
+import ZamanSeridi from '../components/ZamanSeridi.astro';
+import { onayliIcerik } from '../lib/icerik';
+const donemler = (await onayliIcerik('donem'))
+  .sort((a: any, b: any) => a.data.donem.localeCompare(b.data.donem))
+  .map((e: any) => ({
+    id: e.data.id, no: e.data.donem, baslik: e.data.baslik,
+    aralik: `${e.data.tarih_baslangic ?? ''}–${e.data.tarih_bitis ?? ''}`,
+    serit: e.data.serit ?? [],
+  }));
+---
+<Temel baslik="Zaman şeridi" ozet="Altı bölge, on altı dönem, tek eksen.">
+  <main id="ana" class="serit-sayfa">
+    <p class="veri-etiket">İmza görünüm</p>
+    <h1>Paralel zaman şeridi</h1>
+    <p class="aciklama">
+      Bu sitenin ana etkileşimi zamandır. Bir dönem sütunu altı bölgenin şeridini
+      birden keser: aynı anda Avrupa'da, İslam dünyasında, Doğu Asya'da, Güney
+      Asya'da, Afrika'da ve Amerika'da ne olduğunu yan yana okumak için.
+    </p>
+    {donemler.length === 0
+      ? <p class="bos">Dönem makaleleri yayımlandıkça şerit dolar.</p>
+      : <ZamanSeridi donemler={donemler} />}
+  </main>
+</Temel>
+
+<style>
+  .serit-sayfa { max-width: 78rem; margin: 0 auto; padding: 2.5rem 2rem 6rem; --ray: 0rem; }
+  .aciklama { max-width: 60ch; color: var(--golge); font-size: 1.02rem; }
+  .bos { color: var(--golge); }
+  @media (max-width: 900px) { .serit-sayfa { padding-inline: 1.15rem; } }
+</style>
