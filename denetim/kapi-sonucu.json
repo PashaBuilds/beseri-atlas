@@ -1,8 +1,8 @@
 {
   "mod": "--lint",
-  "zaman": "2026-08-20T20:50:46.771Z",
-  "gecti": false,
-  "makale_sayisi": 20,
+  "zaman": "2026-08-20T20:55:21.885Z",
+  "gecti": true,
+  "makale_sayisi": 22,
   "kapilar": [
     {
       "kapi": "KAPI 1 — Zod sema dogrulamasi",
@@ -27,19 +27,10 @@
     },
     {
       "kapi": "KAPI 5 — link butunlugu",
-      "gecti": false,
-      "hata": 2,
-      "uyari": 4,
-      "hatalar": [
-        {
-          "dosya": "icerik/donem/donem-10.md",
-          "mesaj": "ilgili: \"donem-11\" diye bir makale yok (kirik ic link)"
-        },
-        {
-          "dosya": "icerik/donem/donem-10.md",
-          "mesaj": "kirik ic link: /donem/11"
-        }
-      ]
+      "gecti": true,
+      "hata": 0,
+      "uyari": 6,
+      "hatalar": []
     },
     {
       "kapi": "KAPI 7 — telif siniri",
