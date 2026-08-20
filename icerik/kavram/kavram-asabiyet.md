@@ -31,7 +31,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "İBN HALDÛN"
 son_denetim: 2026-08-20
-denetim_durumu: bekliyor
+denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
@@ -77,8 +77,9 @@ kişinin haksız olmasına rağmen kendi kavmine yardım etmesidir.[^k1] Soy
 
 ## İbn Haldûn'un dönüştürmesi
 
-Kavramı ilk defa ilmî ve nesnel bir yöntemle inceleyen ve tarih ile devlet
-felsefesini açıklarken ona en büyük ağırlığı veren düşünür İbn Haldûn'dur.[^k1]
+TDV İslâm Ansiklopedisi, kavramı ilk defa ilmî ve nesnel bir yöntemle inceleyen
+ve tarih ile devlet felsefesini açıklarken ona en büyük ağırlığı veren İslam
+mütefekkirinin İbn Haldûn olduğunu belirtir.[^k1]
 Kendisi kavramın felsefesindeki anlamını tam karşılayan bir tanım vermemiştir; bu
 yüzden araştırmacılar terimi dayanışma ruhu, cemaat ruhu, grup duygusu,
 kabilecilik, kan bağı veya toplumsal dayanışma karşılıklarıyla okumuşlardır.[^k1]

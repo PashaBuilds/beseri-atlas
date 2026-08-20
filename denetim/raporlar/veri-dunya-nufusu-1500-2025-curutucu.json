@@ -1,0 +1,35 @@
+{
+  "id": "veri-dunya-nufusu-1500-2025",
+  "gecis": 3,
+  "zaman": "2026-08-20T20:05:55.241Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yukarıdaki eğri tek bir ölçümün sonucu değildir. Seri, Our World in Data'nın uzun dönemli nüfus veri setinden alınmıştır ve iki farklı türde sayı içerir.[^k1] 1500–2023 aralığındak",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Serinin en çarpıcı özelliği ilk üç yüz yılının ne kadar düz olmasıdır. 1500'de yaklaşık 503 milyon olan dünya nüfusu, 1600'de yaklaşık 516 milyondu — bir yüzyılda yüzde üçün altınd",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Erken dönem değerleri tarihsel demografi tahminleridir; sayım kaydına değil, kısmi kanıtlardan yapılan yeniden kurgulara dayanır.[^k2] Bu yüzden 1500 veya 1700 için verilen rakamla",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Erken dönem değerleri tarihsel demografi tahminleridir; sayım kaydına değil, kısmi kanıtlardan yapılan yeniden kurgulara dayanır.[^k2] Bu yüzden 1500 veya 1700 için verilen rakamla",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "kavram-asabiyet",
+  "gecis": 3,
+  "zaman": "2026-08-20T20:05:55.238Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Düzenli bir siyasi birlikten ve hukuki yapıdan yoksun olan Câhiliye toplumunda asabiyet, bir kabilenin ya da bir kabile mensubunun saldırıya uğramasını önleyen veya doğan zararın t",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kavramı ilk defa ilmî ve nesnel bir yöntemle inceleyen ve tarih ile devlet felsefesini açıklarken ona en büyük ağırlığı veren düşünür İbn Haldûn'dur.[^k1] Kendisi kavramın felsefes",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Kavramın en keskin sonucu, yerleşiklikle kurduğu ters ilişkidir. Asabiyet en güçlü hâliyle bedevî topluluklarda bulunur ve topluluklar yerleşik, medeni hayata geçtikleri ölçüde güc",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İbn Haldûn asabiyeti tek yönlü olarak da değerlendirmez. Onu öfke veya şehvet gibi, olumlu ve olumsuz yönleri birlikte bulunan bir yeti sayar; kınanan asabiyet, haksız ve yanlış uy",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

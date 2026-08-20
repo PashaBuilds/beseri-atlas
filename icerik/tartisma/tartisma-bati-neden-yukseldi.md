@@ -90,7 +90,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "Population Growth"
 son_denetim: 2026-08-20
-denetim_durumu: bekliyor
+denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
@@ -180,5 +180,5 @@ ama belirleyici sayılan kanıt türü farklı olduğu için tek bir ölçüte
 indirgenemezler.
 
 Bu sayfa bir sonuca bağlanmaz. Pozisyonlar arasındaki tercih, hangi zamanlamanın
-kabul edildiğine ve hangi veri serisinin ne kadar güvenilir sayıldığına bağlıdır;
-bu iki tercih de kendi başına tartışma konusudur.
+kabul edildiğine ve hangi veri serisinin ne kadar güvenilir sayıldığına bağlıdır —
+ayrışmanın ne zaman başladığı da tarihçiler arasında halen tartışmalıdır.[^k1]

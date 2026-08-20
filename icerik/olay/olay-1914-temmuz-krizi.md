@@ -38,7 +38,7 @@ kaynaklar:
     dogrulama_dizesi: "German white book"
     not: "Alman hükümetinin kendi resmî belge derlemesi — kendi gerekçesini kendi diliyle sunar"
 son_denetim: 2026-08-20
-denetim_durumu: bekliyor
+denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 

@@ -97,16 +97,17 @@ kaynaklar:
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "The Versailles Treaty"
 son_denetim: 2026-08-20
-denetim_durumu: bekliyor
+denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
 Bu dönemin sınırları savaş ilanlarıyla çizilir, ama içeriği savaşlardan ibaret
-değildir. Otuz bir yılda dört büyük imparatorluk dağıldı, dünya ticareti bir kez
-çöktü, sömürge yönetimi ilk kez sistematik biçimde meşruiyet kaybetti ve
-devletlerin toplumdan talep edebileceği şeyin sınırı kalıcı olarak değişti.
-Aşağıdaki beş bölüm, bütün dönem makalelerinde olduğu gibi aynı sırayla okunur;
-amaç, dönemleri birbiriyle karşılaştırılabilir kılmaktır.
+değildir. Otuz bir yıl içinde Osmanlı Devleti sona erdi,[^k3] 1929'da başlayan
+buhranla birlikte dünya ticareti çöktü ve demokratik rejimler birer birer
+yıkıldı,[^k1] emperyalizm giderek olumsuz görülmeye başlandı ve birçok sömürgede
+bağımsızlık hareketleri ortaya çıktı.[^k1] Aşağıdaki beş bölüm, bütün dönem
+makalelerinde olduğu gibi aynı sırayla okunur; amaç, dönemleri birbiriyle
+karşılaştırılabilir kılmaktır.
 
 ## Aynı anda dünyada
 

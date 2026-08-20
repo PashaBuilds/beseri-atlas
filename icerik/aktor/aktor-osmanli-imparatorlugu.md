@@ -45,7 +45,7 @@ kaynaklar:
     dogrulama_dizesi: "Ottoman Empire"
     not: "Dönemlendirme ve tarih yazımı tartışması için giriş kapısı"
 son_denetim: 2026-08-20
-denetim_durumu: bekliyor
+denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 

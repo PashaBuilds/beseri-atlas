@@ -1,0 +1,56 @@
+{
+  "id": "dusunur-ibn-haldun",
+  "gecis": 3,
+  "zaman": "2026-08-20T20:05:55.237Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tarih yazımı uzun süre iki işi birden yapmaya çalıştı: olup biteni kaydetmek ve olup bitenden ahlaki bir ders çıkarmak. İbn Haldûn'un yaptığı şey bu ikisini birbirinden ayırmaktı. ",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tam adı Ebû Zeyd Veliyyüddîn Abdurrahmân b. Muhammed el-Hadramî el-Mağribî et-Tûnisî'dir; 1 Ramazan 732'de, yani 27 Mayıs 1332'de Tunus'ta doğdu ve 808/1406'da öldü.[^k1] Ailesi as",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "İbn Haldûn'un yeniliği kavramı icat etmek değil, onu bilimsel ve nesnel bir yöntemle inceleyen ilk düşünür olmak ve tarih ile devlet felsefesinde ona en büyük ağırlığı vermektir.[^",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İbn Haldûn'un yeniliği kavramı icat etmek değil, onu bilimsel ve nesnel bir yöntemle inceleyen ilk düşünür olmak ve tarih ile devlet felsefesinde ona en büyük ağırlığı vermektir.[^",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Stanford Felsefe Ansiklopedisi'nin özetlediği biçimiyle asabiyet, kendini savunma, karşı koyma, koruma ve hak talep etme yeteneğidir; onu yitiren, bunların hiçbirini yapamayacak ka",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "İbn Haldûn'a göre insanlık bir kez uygarlık kuran toplumsal örgütlenmeye ulaştığında, insanların doğal saldırganlığı ve haksızlık eğilimi yüzünden onları birbirinden ayrı tutacak s",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Asabiyet ile mülk arasındaki ilişki tek yönlü de değildir. Asabiyet en ilkel biçimiyle bedevî topluluklarda en güçlü hâldedir ve topluluklar yerleşik, medeni (hadarî) hayata geçtik",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

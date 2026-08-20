@@ -20,6 +20,10 @@ const NEDENSELLIK = /(nedeniyle|yüzünden|sonucunda|sayesinde|dolayısıyla|ned
 const YIL = /(^|[^\d])\d{3,4}([^\d]|$)/;
 const YUZDE = /(%\s?\d|yüzde\s\d)/i;
 const SAYI = /(\d{1,3}([.,]\d{3})+|\d+([.,]\d+)?\s?(milyon|milyar|bin|kişi|km))/i;
+// Yaziyla yazilmis nicelik de bir iddiadir: "dort buyuk imparatorluk dagildi".
+// Cürütücü geçişi bu boşluğu bulduğu için eklendi.
+const YAZIYLA_SAYI = /(?<![\p{L}])(iki|üç|dört|beş|altı|yedi|sekiz|dokuz|yirmi|otuz|kırk|elli|yüz|bin|milyon|milyar)\s+(\p{L}+\s+)?(\p{L}+)/u;
+const NICELIK_ADI = /(imparatorluk|devlet|ülke|kıta|bölge|savaş|devrim|yüzyıl|yıl|kat|misli|kişi|milyon|milyar)/iu;
 
 const OZEL_ISIM_RE = new RegExp(`^[${BUYUK}][${KUCUK}${BUYUK}’'-]{2,}$`);
 
@@ -52,6 +56,7 @@ export function iddiaGerekcesi(paragraf) {
   if (YIL.test(m)) return 'yil/tarih';
   if (YUZDE.test(m)) return 'yuzde';
   if (SAYI.test(m)) return 'sayi';
+  if (YAZIYLA_SAYI.test(m) && NICELIK_ADI.test(m)) return 'yaziyla nicelik';
   if (NEDENSELLIK.test(m)) return 'nedensellik';
   const oi = ozelIsimVar(m);
   if (oi) return `ozel isim (${oi})`;

@@ -53,7 +53,7 @@ kaynaklar:
       çizildiği için programatik doğrulanamıyor; bu yüzden künyede o adres yerine
       doğrulanabilir bu uç nokta kullanıldı.
 son_denetim: 2026-08-20
-denetim_durumu: bekliyor
+denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 

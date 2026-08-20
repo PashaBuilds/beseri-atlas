@@ -1,0 +1,28 @@
+{
+  "id": "tartisma-1914-savas-sorumlulugu",
+  "gecis": 3,
+  "zaman": "2026-08-20T20:05:55.239Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Derlemelerin anlatıyı nerede bitirdiği bile seçimlidir: Sırp belge kitabı 28 Temmuz'daki Avusturya-Macaristan–Sırbistan savaş ilanıyla, Alman, Avusturya ve Rus kitapları 1 Ağustos'",
+      "sorun": "Nedensellik iddiası tek kaynağa (k4) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Savaş sonrasının ilk yıllarında İngilizce dünyada üretilen akademik çalışmalar katılımcıları aşağı yukarı eşit biçimde suçlama eğilimindeydi.[^k1] İki savaş arası dönemde gizli itt",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Zihniyet düzeyine bakan okumalar da var. James Joll, Avrupa seçkinlerinin altta yatan inanç ve zihniyetlerini — kültürel kadercilik, militarizm ve ortak yanlış algıları — öne çıkar",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

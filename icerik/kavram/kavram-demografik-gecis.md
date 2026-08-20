@@ -32,8 +32,8 @@ kaynaklar:
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "Population Growth"
 son_denetim: 2026-08-20
-denetim_durumu: bekliyor
-onarim_turu: 0
+denetim_durumu: onaylandi
+onarim_turu: 1
 ---
 
 Nüfus artışı doğum ve ölümlerin farkıyla belirlenir. Her ülke bu iki büyüklükte
@@ -91,9 +91,13 @@ sayesindedir.[^k1]
 
 ## Modelin kaynağı
 
-Kuram, Amerikalı demograf Warren Thompson'ın 1930'da geliştirdiği bir demografi
-tarihi yorumuna dayanır.[^k2] Fransa'dan Adolphe Landry 1934 civarında demografik
-örüntüler ve nüfus artış potansiyeli üzerine benzer gözlemler yaptı.[^k2]
+Kuram, Amerikalı demograf Warren Thompson'ın demografi tarihi yorumuna
+dayanır.[^k2] Thompson'ın bu çalışmasının tarihi kaynaklar arasında ayrışır: bu
+makalenin dayandığı künye 1930'u verirken, bağımsız yeniden türetme geçişinde
+karşılaşılan Türkçe akademik literatür 1929'u vermektedir. Ayrışma çözülemediği
+için burada yıl verilmemiştir; ayrıntı `denetim/raporlar/gecis4-turetme.json`
+kaydındadır. Fransa'dan Adolphe Landry de demografik örüntüler ve nüfus artış
+potansiyeli üzerine benzer gözlemler yaptı.[^k2]
 1940'lar ve 1950'lerde Frank W. Notestein daha biçimsel bir demografik geçiş
 kuramı geliştirdi.[^k2] 2000'lerde Oded Galor, geçişin olası tetikleyicileri
 olarak öne sürülen çeşitli mekanizmaları, bunların ampirik geçerliliğini ve

@@ -1,0 +1,71 @@
+# Çürütücü itirazlarına verilen kararlar (Geçiş 3, §10)
+#
+# Çürütücü oturum itirazı üretir; üretici oturum ya DÜZELTİR ya da GEREKÇELENDİRİR.
+# Cevapsız bırakmak yasaktır — "şimdilik böyle kalsın" notu §15'te açıkça yasak.
+#
+# karar: duzeltildi | gerekcelendirildi | yanlis-pozitif
+#
+# Faz 0 turu: 2026-08-20
+
+kararlar:
+  - tip: tek-kaynakli-nedensellik
+    kapsam: genel
+    karar: gerekcelendirildi
+    gerekce: >-
+      İtirazların büyük çoğunluğu, bir referans eserin KENDİ ifadesini aktaran ve
+      o esere açıkça atfedilen cümlelerde tetikleniyor ("TDV İslâm Ansiklopedisi
+      … belirtir", "Stanford Felsefe Ansiklopedisi'nin özetlediği biçimiyle").
+      Böyle bir cümlede iddia "X olduğu için Y oldu" değil, "K kaynağı şunu
+      söylüyor"dur; ikinci kaynak eklemek iddiayı güçlendirmez, farklı bir iddia
+      yapar. §10'un hedeflediği zayıflık — tek dipnotla ayakta duran bağımsız bir
+      nedensellik yargısı — bu on makalede bulunmadı.
+    istisna_incelendi:
+      - donem-13 "muharip ölümleri" paragrafı: kapsam sınırı zaten metinde açıkça
+        beyan ediliyor, ek kaynak gerekmiyor.
+      - kavram-demografik-gecis "eşzamanlı olmayan zamanlama": model tanımı,
+        kaynağın kendi formülasyonu.
+
+  - tip: ustunluk-iddiasi
+    kapsam: genel
+    karar: kismen-duzeltildi
+    gerekce: >-
+      İki gerçek zayıflık bulundu ve düzeltildi: dusunur-ibn-haldun ve
+      kavram-asabiyet dosyalarındaki "ilk defa ilmî ve nesnel yöntemle inceleyen
+      düşünür" iddiası, kaynağa atfedilmeden düz cümle olarak kuruluyordu; her iki
+      yerde de açık atıf çerçevesine ("TDV İslâm Ansiklopedisi'ne göre") alındı.
+      Kalan tetiklenmeler Türkçedeki "ilk" kelimesinin sıra sayısı olarak
+      kullanımından kaynaklanıyor ("ilk üç yüz yıl", "kuruluş yıllarında ilk
+      düzenli birlikler") ve üstünlük iddiası değil.
+
+  - tip: kapsam-carpitmasi
+    kapsam: genel
+    karar: yanlis-pozitif
+    gerekce: >-
+      Üç tetiklenmenin üçü de özel ad kullanımıydı: "Birinci Dünya Savaşı",
+      "evrensel tarih" (Kitâbü'l-İber'in türü) ve "İngilizce dünyada" (dil
+      coğrafyası). Dedektör bu kalıpları hariç tutacak biçimde daraltıldı;
+      küresel dil kullanan bölgesel iddia arayışı korundu.
+
+  - tip: anakronizm
+    kapsam: genel
+    karar: tetiklenmedi
+    gerekce: >-
+      On makalenin hiçbirinde, kavramın doğduğu tarihten önce biten bir dönemde
+      o kavramın kullanımı bulunmadı.
+
+  - tip: kesinlik-dili
+    kapsam: genel
+    karar: tetiklenmedi
+    gerekce: >-
+      Atıf çerçevesi olmadan kullanılan kesinlik ifadesi bulunmadı.
+
+# Çürütücünün kendisinin bulduğu ve hatta düzelttirdiği kusur
+hat_duzeltmesi:
+  - bulgu: >-
+      Çürütücü geçişi sırasında donem-13 girişindeki "dört büyük imparatorluk
+      dağıldı" cümlesinin dipnotsuz geçtiği görüldü. KAPI 2 yalnızca rakamla
+      yazılmış sayıları arıyordu; yazıyla yazılmış nicelikler gözden kaçıyordu.
+    aksiyon: >-
+      araclar/linter-dipnot.mjs'e YAZIYLA_SAYI dedektörü eklendi. Kapı
+      sıkılaştırıldı; iki makalede kaynaksız nicelik iddiası bulundu ve
+      düzeltildi.

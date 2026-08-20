@@ -1,0 +1,61 @@
+{
+  "zaman": "2026-08-20T20:22:00.002Z",
+  "makale_sayisi": 10,
+  "celiskiler": [],
+  "incelenecek": [
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-13",
+        "tartisma-1914-savas-sorumlulugu"
+      ],
+      "detay": "\"Fransa\" — donem-13: 1923 / tartisma-1914-savas-sorumlulugu: 2013"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-1914-temmuz-krizi",
+        "kaynak-clark-uyurgezerler"
+      ],
+      "detay": "\"Balkanlar\" — olay-1914-temmuz-krizi: 1908 / kaynak-clark-uyurgezerler: 1912"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-1914-temmuz-krizi",
+        "tartisma-1914-savas-sorumlulugu"
+      ],
+      "detay": "\"Alman\" — olay-1914-temmuz-krizi: 1914 / tartisma-1914-savas-sorumlulugu: 1920"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-1914-temmuz-krizi",
+        "tartisma-1914-savas-sorumlulugu"
+      ],
+      "detay": "\"Sırbistan\" — olay-1914-temmuz-krizi: 1914 / tartisma-1914-savas-sorumlulugu: 1912"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-1914-temmuz-krizi",
+        "kaynak-clark-uyurgezerler"
+      ],
+      "detay": "\"Sırbistan\" — olay-1914-temmuz-krizi: 1914 / kaynak-clark-uyurgezerler: 1912"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-osmanli-imparatorlugu",
+        "kaynak-clark-uyurgezerler"
+      ],
+      "detay": "\"Rusya\" — aktor-osmanli-imparatorlugu: 1792 / kaynak-clark-uyurgezerler: 1912"
+    }
+  ]
+}

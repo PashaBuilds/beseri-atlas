@@ -1,0 +1,14 @@
+{
+  "id": "kaynak-clark-uyurgezerler",
+  "gecis": 3,
+  "zaman": "2026-08-20T20:05:55.241Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kitap, [1914'te savaşın sorumluluğu](/tartisma/1914-savas-sorumlulugu/) haritasındaki \"sorumluluk büyük güçler arasında dağılmıştır\" pozisyonunun ana referansıdır. Fischer tezinin ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

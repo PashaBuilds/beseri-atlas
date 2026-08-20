@@ -1,0 +1,35 @@
+{
+  "id": "aktor-osmanli-imparatorlugu",
+  "gecis": 3,
+  "zaman": "2026-08-20T20:05:55.236Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Benzer bir belirsizlik Edirne'nin fethi için de geçerlidir: 1361, 1362, 1367 ve 1369 gibi farklı tarihler öne sürülmüştür.[^k4] Orhan Gazi henüz hayattayken Murad ve Lala Şahin'in ",
+      "sorun": "Nedensellik iddiası tek kaynağa (k4) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Klasik dönem Osmanlı toplumunda nüfusun ezici çoğunluğu geçimini tarımdan sağlıyor, devlet gelirleri de büyük ölçüde tarım ürünlerinden alınan vergilere dayanıyordu; bu yüzden nüfu",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Ordunun başlangıcı çok daha mütevazıydı: kuruluş yıllarında Osmanlı Devleti'nin düzenli askerî birlikleri yoktu ve ilk düzenli birlikler Orhan Bey zamanında kuruldu.[^k1] Denizcili",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Şemanın kendisinin bir yorum olduğu, aynı maddenin Osmanlı devleti üzerine ayrı bir tarih yazımı tartışması bölümü taşımasından da anlaşılır.[^k4] Bir devletin yüzyıllarını \"durakl",
+      "sorun": "Nedensellik iddiası tek kaynağa (k4) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

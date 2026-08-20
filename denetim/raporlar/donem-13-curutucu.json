@@ -1,0 +1,42 @@
+{
+  "id": "donem-13",
+  "gecis": 3,
+  "zaman": "2026-08-20T20:05:55.232Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "**Güney Asya.** Hindistan Birinci Dünya Savaşı'nda İmparatorluğu güçlü biçimde destekledi.[^k1] Savaşın getirdiği yeni dünya düzeni — özellikle ABD ile Japonya'nın deniz gücü olara",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "**Bu bölümün sınırı.** Kaynak dengesi bu dönemde eşit değildir. Kullanılan ara dönem maddesi, Çin bölümünün eksik olduğunu kendi metninde bildirir.[^k1] Doğu Asya, Güney Asya ve Af",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dönemin çatışma bilançosu, insanlık tarihindeki savaş ölümlerinin dağılımını tek başına belirleyecek ölçüdedir. Birinci Dünya Savaşı'nda yedi milyondan fazla asker öldü; yalnızca İ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bu rakamların kapsamı dikkatle okunmalıdır: verilen sayılar **muharip** ölümleridir. Çarpışmalar nedeniyle ölen siviller, çatışmaların yol açtığı açlık ve hastalıktan kaynaklanan a",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Çatışmanın biçimi kadar devletler arası ilişkilerin dokusu da değişti. Bir asırdan uzun süre önce, 1900'de, ülkelerin çoğu birbirine karşı şiddet kullanmıyordu ama hiçbirinin yükse",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

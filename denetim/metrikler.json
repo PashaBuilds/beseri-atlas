@@ -1,0 +1,16 @@
+{
+  "ornekleme_gecmisi": [
+    {
+      "zaman": "2026-08-20T20:22:35.868Z",
+      "skor": 0.9583,
+      "ham_skor": 0.55,
+      "dogrulanan": 11,
+      "toplam": 12,
+      "ornek_boyutu": 20,
+      "turetilemedi": 8,
+      "davranis": "devam"
+    }
+  ],
+  "capraz_gecmisi": [],
+  "guncelleme": "2026-08-20T20:22:35.869Z"
+}

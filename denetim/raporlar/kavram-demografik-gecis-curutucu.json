@@ -1,0 +1,35 @@
+{
+  "id": "kavram-demografik-gecis",
+  "gecis": 3,
+  "zaman": "2026-08-20T20:05:55.239Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Nüfus artışı doğum ve ölümlerin farkıyla belirlenir. Her ülke bu iki büyüklükte çok köklü değişimler yaşadı: ölümlülük ve doğurganlık hızları dünya genelinde düştü.[^k1] Ama tek ba",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Model, iki temel demografik değişimin **eşzamanlı olmayan** zamanlaması üzerinden işler: önce ölüm hızı düşer, doğum hızının düşüşü onu izler.[^k1] İki eğri arasında açılan makas, ",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "**İsveç.** Kayıt tutmanın başlamasından bu yana, yani iki yüz elli yılı aşkın süredir doğum ve ölüm verisi yayımlanmıştır.[^k1] Bu kayıtlar, 1800 yılı civarında İsveç'te ölüm hızın",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "**İsveç.** Kayıt tutmanın başlamasından bu yana, yani iki yüz elli yılı aşkın süredir doğum ve ölüm verisi yayımlanmıştır.[^k1] Bu kayıtlar, 1800 yılı civarında İsveç'te ölüm hızın",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

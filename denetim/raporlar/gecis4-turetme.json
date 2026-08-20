@@ -1,0 +1,183 @@
+{
+  "gecis": 4,
+  "zaman": "2026-08-20T20:21:03.455Z",
+  "skor": 0.9583,
+  "ham_skor": 0.55,
+  "olculen": 12,
+  "toplam_ornek": 20,
+  "dogrulanan": 11,
+  "isaret": 1,
+  "hata": 0,
+  "turetilemedi": 8,
+  "aciklama": "skor = olculen iddialar uzerinden. ham_skor = butun ornek uzerinden (turetilemeyenler basarisiz sayilarak). Ikisi de RAPOR.md de beyan edilir.",
+  "sonuclar": [
+    {
+      "no": 1,
+      "makale": "aktor-osmanli-imparatorlugu",
+      "anahtar": "k1",
+      "iddia": "Osmanlılar, Batı Anadolu'nun kuzeyinde bir Türkmen beyliği olarak ortaya çıkıp üç kıtaya yayılan ve kurucusunun adıyla a",
+      "durum": "ISARET",
+      "turetilen": "1299-1922",
+      "kaynak_alan": "archive.org",
+      "not": "bagimsiz kaynakta bulunamayan: 1300"
+    },
+    {
+      "no": 2,
+      "makale": "donem-13",
+      "anahtar": "k1",
+      "iddia": "Britanya, ABD ile Japonya arasında seçim yapmak zorunda kalınca Anglo-Japon İttifakı'nı yenilememeyi tercih etti ve 1922",
+      "durum": "OK",
+      "turetilen": "1922",
+      "kaynak_alan": "archive.org",
+      "not": "bagimsiz dogrulama: archive.org"
+    },
+    {
+      "no": 3,
+      "makale": "dusunur-ibn-haldun",
+      "anahtar": "k1",
+      "iddia": "Muhammed el-Hadramî el-Mağribî et-Tûnisî'dir; 1 Ramazan 732'de, yani 27 Mayıs 1332'de Tunus'ta doğdu ve 808/1406'da öldü",
+      "durum": "OK",
+      "turetilen": "1332-1406, 27 May 1332, Tunis",
+      "kaynak_alan": "en.wikipedia.org",
+      "not": "bagimsiz dogrulama: en.wikipedia.org"
+    },
+    {
+      "no": 4,
+      "makale": "kavram-demografik-gecis",
+      "durum": "TURETILEMEDI",
+      "not": "ÇELİŞKİ. Türkçe akademik literatür Thompson'ın çalışmasını 1929 olarak veriyor; makalenin künyesi 1930 diyordu. İki alternatif kaynak denendi (jstor.org JS duva"
+    },
+    {
+      "no": 5,
+      "makale": "kaynak-clark-uyurgezerler",
+      "anahtar": "k2",
+      "iddia": "Clark'a göre Germen güçleri Sırbistan'ı cezalandırmak için yerelleşmiş bir savaş aradı, ancak bunu yaparken Rusya ile sa",
+      "durum": "OK",
+      "turetilen": "8 Ekim 1912 - 29 Eylül 1913",
+      "kaynak_alan": "islamansiklopedisi.org.tr",
+      "not": "bagimsiz dogrulama: islamansiklopedisi.org.tr"
+    },
+    {
+      "no": 6,
+      "makale": "olay-1914-temmuz-krizi",
+      "anahtar": "k2",
+      "iddia": "Bosna, 1908'de Avusturya-Macaristan tarafından resmen ilhak edilmiş ve bu ilhak Berlin Antlaşması'nı ihlal ederek Balkan",
+      "durum": "OK",
+      "turetilen": "1908",
+      "kaynak_alan": "islamansiklopedisi.org.tr",
+      "not": "bagimsiz dogrulama: islamansiklopedisi.org.tr"
+    },
+    {
+      "no": 7,
+      "makale": "tartisma-1914-savas-sorumlulugu",
+      "durum": "TURETILEMEDI",
+      "not": "TÜRETİLEMEDİ — BLOKLAMA İHLALİ YAKALANDI. İlk denemede Kantorowicz'in 1927/1931/1932 yayınları archive.org katalogundan bulundu; ancak archive.org bu makale içi"
+    },
+    {
+      "no": 8,
+      "makale": "tartisma-bati-neden-yukseldi",
+      "anahtar": "k1",
+      "iddia": "Huntington ortaya attı; terimi yaygınlaştıran kullanım ise Kenneth Pomeranz'ın 2000 tarihli The Great Divergence: China,",
+      "durum": "OK",
+      "turetilen": "2000",
+      "kaynak_alan": "archive.org",
+      "not": "bagimsiz dogrulama: archive.org"
+    },
+    {
+      "no": 9,
+      "makale": "aktor-osmanli-imparatorlugu",
+      "durum": "TURETILEMEDI",
+      "not": "TÜRETİLEMEDİ. Yaş (Jassy) Antlaşması'nın 1792 tarihi için iki farklı arama denendi (archive.org katalog, başlık ve açıklama alanları); bloke olmayan alan adları"
+    },
+    {
+      "no": 10,
+      "makale": "donem-13",
+      "anahtar": "k1",
+      "iddia": "İktisadi tarafta dönemin belirleyici olayı 1929'da başlayan Büyük Buhran'a verilen tepkiler ve dünya ticaretinin çöküşüd",
+      "durum": "OK",
+      "turetilen": "1929",
+      "kaynak_alan": "archive.org",
+      "not": "bagimsiz dogrulama: archive.org"
+    },
+    {
+      "no": 11,
+      "makale": "kavram-demografik-gecis",
+      "durum": "TURETILEMEDI",
+      "not": "TÜRETİLEMEDİ. İngiltere'de doğum-ölüm makasının 1750'den sonra açılması, bloke olmayan alan adlarında sayısal olarak doğrulanamadı. Wrigley'in 1541-1871 rekonst"
+    },
+    {
+      "no": 12,
+      "makale": "olay-1914-temmuz-krizi",
+      "anahtar": "k1",
+      "iddia": "Britanya Dışişleri Bakanı Edward Grey'in 20 Temmuz 1914 tarihli notu, Alman büyükelçisine Viyana'da Sırbistan'la ilgili ",
+      "durum": "OK",
+      "turetilen": "28 Haziran 1914",
+      "kaynak_alan": "islamansiklopedisi.org.tr",
+      "not": "bagimsiz dogrulama: islamansiklopedisi.org.tr"
+    },
+    {
+      "no": 13,
+      "makale": "tartisma-1914-savas-sorumlulugu",
+      "anahtar": "k1",
+      "iddia": "Clark'a göre Germen güçleri Sırbistan'ı cezalandırmak için yerelleşmiş bir savaş aradı, ancak bunu yaparken Rusya ile sa",
+      "durum": "OK",
+      "turetilen": "8 Ekim 1912 - 29 Eylül 1913",
+      "kaynak_alan": "islamansiklopedisi.org.tr",
+      "not": "bagimsiz dogrulama: islamansiklopedisi.org.tr"
+    },
+    {
+      "no": 14,
+      "makale": "tartisma-bati-neden-yukseldi",
+      "durum": "TURETILEMEDI",
+      "not": "TÜRETİLEMEDİ. Plassey Savaşı'nın 1757 tarihi için iki arama denendi; bloke olmayan alan adlarında yıl taşıyan doğrulanabilir kayıt bulunamadı."
+    },
+    {
+      "no": 15,
+      "makale": "donem-13",
+      "anahtar": "k1",
+      "iddia": "Dominyonların kendi dış politikalarını belirleme hakkı 1923'te tanındı.",
+      "durum": "OK",
+      "turetilen": "1922-1923",
+      "kaynak_alan": "archive.org",
+      "not": "bagimsiz dogrulama: archive.org"
+    },
+    {
+      "no": 16,
+      "makale": "kavram-demografik-gecis",
+      "durum": "TURETILEMEDI",
+      "not": "TÜRETİLEMEDİ. Oded Galor'un 2000'lerdeki çalışması için archive.org creator araması sonuç vermedi."
+    },
+    {
+      "no": 17,
+      "makale": "olay-1914-temmuz-krizi",
+      "anahtar": "k2",
+      "iddia": "Kriz, 28 Haziran 1914'te Bosnalı Sırp milliyetçi Gavrilo Princip'in Avusturya-Macaristan tahtının veliahdı Arşidük Franz",
+      "durum": "OK",
+      "turetilen": "20 July 1914",
+      "kaynak_alan": "gutenberg.org",
+      "not": "bagimsiz dogrulama: gutenberg.org"
+    },
+    {
+      "no": 18,
+      "makale": "tartisma-1914-savas-sorumlulugu",
+      "durum": "TURETILEMEDI",
+      "not": "TÜRETİLEMEDİ. Clark'ın kitabının 2013 yayın yılı, bu makale için bloke olmayan alan adlarında doğrulanamadı (archive.org bu makalede bloke). Not: aynı yıl kayna"
+    },
+    {
+      "no": 19,
+      "makale": "tartisma-bati-neden-yukseldi",
+      "durum": "TURETILEMEDI",
+      "not": "YAPISAL OLARAK TÜRETİLEMEZ. İddia, belirli bir veri tabanının belirli bir sürümünün kapsamına ilişkindir (Maddison 2023: 169 ülke, 2022'ye kadar). Böyle bir idd"
+    },
+    {
+      "no": 20,
+      "makale": "donem-13",
+      "anahtar": "k1",
+      "iddia": "1929'da başlayan Büyük Buhran ve dünya ticaretinin çöküşü ise dönemin ikinci yarısını belirledi.",
+      "durum": "OK",
+      "turetilen": "1929",
+      "kaynak_alan": "archive.org",
+      "not": "bagimsiz dogrulama: archive.org"
+    }
+  ]
+}

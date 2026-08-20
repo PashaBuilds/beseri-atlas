@@ -35,7 +35,7 @@ kaynaklar:
     dogrulama_dizesi: "ASABİYET"
     not: "Müellif: Mustafa Çağrıcı"
 son_denetim: 2026-08-20
-denetim_durumu: bekliyor
+denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
@@ -98,9 +98,9 @@ için, aynı soydan olanlar arasındaki organik yakınlık arttıkça güçlenir
 aileden aşirete, aşiretten kabileye doğru yayıldıkça zayıflar.[^k3] Kan bağına
 dayanmayan, akit veya antlaşma yoluyla kurulan bir asabiyet biçimi de vardır.[^k3]
 
-İbn Haldûn'un yeniliği kavramı icat etmek değil, onu bilimsel ve nesnel bir
-yöntemle inceleyen ilk düşünür olmak ve tarih ile devlet felsefesinde ona en
-büyük ağırlığı vermektir.[^k3] İlginç biçimde, kendi felsefesindeki anlamı tam
+TDV İslâm Ansiklopedisi'ne göre onun yeniliği kavramı icat etmek değil, asabiyeti
+ilmî ve nesnel bir yöntemle inceleyen ilk İslam mütefekkiri olmak ve tarih ile
+devlet felsefesini açıklarken bu kavrama en büyük ağırlığı vermektir.[^k3] İlginç biçimde, kendi felsefesindeki anlamı tam
 olarak karşılayan bir tanımını hiçbir yerde vermez; bu yüzden araştırmacılar
 terimi dayanışma ruhu, cemaat ruhu, grup duygusu, kabilecilik, kan bağı ya da
 toplumsal dayanışma karşılıklarından biriyle okumuşlardır.[^k3]

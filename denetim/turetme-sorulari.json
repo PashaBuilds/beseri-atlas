@@ -1,0 +1,349 @@
+{
+  "zaman": "2026-08-20T20:17:16.265Z",
+  "protokol": "GECIS-4",
+  "toplam_aday": 28,
+  "secilen": 20,
+  "sorular": [
+    {
+      "no": 1,
+      "makale": "aktor-osmanli-imparatorlugu",
+      "cumle": "Osmanlılar, Batı Anadolu'nun kuzeyinde bir Türkmen beyliği olarak ortaya çıkıp üç kıtaya yayılan ve kurucusunun adıyla anılan devlettir; TDV İslâm Ansiklopedisi onu Türk-İslam dünyasındaki en uzun ömürlü devlet olarak ni",
+      "degerler": [
+        "1300",
+        "1922"
+      ],
+      "bloklu_alanlar": [
+        "islamansiklopedisi.org.tr",
+        "en.wikipedia.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Osmanlılar, Batı Anadolu'nun kuzeyinde bir Türkmen beyliği olarak ortaya çıkıp üç kıtaya yayılan ve kurucusunun adıyla anılan devlettir; TDV İslâm Ansiklopedisi onu Türk-İslam düny\" cümlesindeki şu değer(ler) doğru mu: 1300, 1922? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: islamansiklopedisi.org.tr, en.wikipedia.org."
+    },
+    {
+      "no": 2,
+      "makale": "donem-13",
+      "cumle": "Britanya, ABD ile Japonya arasında seçim yapmak zorunda kalınca Anglo-Japon İttifakı'nı yenilememeyi tercih etti ve 1922 Washington Deniz Antlaşması'nı imzalayarak ABD ile deniz gücünde eşitliği kabul etti.",
+      "degerler": [
+        "1922"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "ourworldindata.org",
+        "islamansiklopedisi.org.tr",
+        "rug.nl",
+        "avalon.law.yale.edu"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Britanya, ABD ile Japonya arasında seçim yapmak zorunda kalınca Anglo-Japon İttifakı'nı yenilememeyi tercih etti ve 1922 Washington Deniz Antlaşması'nı imzalayarak ABD ile deniz gü\" cümlesindeki şu değer(ler) doğru mu: 1922? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org, islamansiklopedisi.org.tr, rug.nl, avalon.law.yale.edu."
+    },
+    {
+      "no": 3,
+      "makale": "dusunur-ibn-haldun",
+      "cumle": "Muhammed el-Hadramî el-Mağribî et-Tûnisî'dir; 1 Ramazan 732'de, yani 27 Mayıs 1332'de Tunus'ta doğdu ve 808/1406'da öldü.",
+      "degerler": [
+        "1332",
+        "1406"
+      ],
+      "bloklu_alanlar": [
+        "islamansiklopedisi.org.tr",
+        "plato.stanford.edu"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Muhammed el-Hadramî el-Mağribî et-Tûnisî'dir; 1 Ramazan 732'de, yani 27 Mayıs 1332'de Tunus'ta doğdu ve 808/1406'da öldü.\" cümlesindeki şu değer(ler) doğru mu: 1332, 1406? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: islamansiklopedisi.org.tr, plato.stanford.edu."
+    },
+    {
+      "no": 4,
+      "makale": "kavram-demografik-gecis",
+      "cumle": "Kuram, Amerikalı demograf Warren Thompson'ın 1930'da geliştirdiği bir demografi tarihi yorumuna dayanır.",
+      "degerler": [
+        "1930"
+      ],
+      "bloklu_alanlar": [
+        "ourworldindata.org",
+        "en.wikipedia.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k2"
+      ],
+      "soru": "\"Kuram, Amerikalı demograf Warren Thompson'ın 1930'da geliştirdiği bir demografi tarihi yorumuna dayanır.\" cümlesindeki şu değer(ler) doğru mu: 1930? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: ourworldindata.org, en.wikipedia.org."
+    },
+    {
+      "no": 5,
+      "makale": "kaynak-clark-uyurgezerler",
+      "cumle": "Clark'a göre Germen güçleri Sırbistan'ı cezalandırmak için yerelleşmiş bir savaş aradı, ancak bunu yaparken Rusya ile savaşı bile bile göze aldılar; Rusya ise 1912–13'te Balkanlar'daki güç dengesini bozarak ve Avusturya ",
+      "degerler": [
+        "1912"
+      ],
+      "bloklu_alanlar": [
+        "archive.org",
+        "en.wikipedia.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k2"
+      ],
+      "soru": "\"Clark'a göre Germen güçleri Sırbistan'ı cezalandırmak için yerelleşmiş bir savaş aradı, ancak bunu yaparken Rusya ile savaşı bile bile göze aldılar; Rusya ise 1912–13'te Balkanlar'\" cümlesindeki şu değer(ler) doğru mu: 1912? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: archive.org, en.wikipedia.org."
+    },
+    {
+      "no": 6,
+      "makale": "olay-1914-temmuz-krizi",
+      "cumle": "Bosna, 1908'de Avusturya-Macaristan tarafından resmen ilhak edilmiş ve bu ilhak Berlin Antlaşması'nı ihlal ederek Balkanlar'daki kırılgan güç dengesini sarsmıştı.",
+      "degerler": [
+        "1908"
+      ],
+      "bloklu_alanlar": [
+        "archive.org",
+        "en.wikipedia.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k2"
+      ],
+      "soru": "\"Bosna, 1908'de Avusturya-Macaristan tarafından resmen ilhak edilmiş ve bu ilhak Berlin Antlaşması'nı ihlal ederek Balkanlar'daki kırılgan güç dengesini sarsmıştı.\" cümlesindeki şu değer(ler) doğru mu: 1908? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: archive.org, en.wikipedia.org."
+    },
+    {
+      "no": 7,
+      "makale": "tartisma-1914-savas-sorumlulugu",
+      "cumle": "1920'lerde Almanya'nın sorumlu olduğunu savunan az sayıda Alman tarihçiden biri olan Hermann Kantorowicz, Dışişleri Bakanlığı'nın çalışmasının yayımlanmasını engellemek ve kendisini Kiel Üniversitesi'ndeki görevinden uza",
+      "degerler": [
+        "1920"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "avalon.law.yale.edu",
+        "archive.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"1920'lerde Almanya'nın sorumlu olduğunu savunan az sayıda Alman tarihçiden biri olan Hermann Kantorowicz, Dışişleri Bakanlığı'nın çalışmasının yayımlanmasını engellemek ve kendisin\" cümlesindeki şu değer(ler) doğru mu: 1920? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, avalon.law.yale.edu, archive.org."
+    },
+    {
+      "no": 8,
+      "makale": "tartisma-bati-neden-yukseldi",
+      "cumle": "Huntington ortaya attı; terimi yaygınlaştıran kullanım ise Kenneth Pomeranz'ın 2000 tarihli The Great Divergence: China, Europe, and the Making of the Modern World Economy adlı kitabıdır.",
+      "degerler": [
+        "2000"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "rug.nl",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Huntington ortaya attı; terimi yaygınlaştıran kullanım ise Kenneth Pomeranz'ın 2000 tarihli The Great Divergence: China, Europe, and the Making of the Modern World Economy adlı kit\" cümlesindeki şu değer(ler) doğru mu: 2000? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, rug.nl, ourworldindata.org."
+    },
+    {
+      "no": 9,
+      "makale": "aktor-osmanli-imparatorlugu",
+      "cumle": "Bu dönemin kırılma noktalarından biri Rusya ile 10 Ocak 1792'de imzalanan Yaş Antlaşması'dır; Kırım'ın geri alınmasının imkânsızlığı kesin olarak görülmüş, Turla (Dinyester) nehri sınır kabul edilmiş ve Kafkaslar'daki Ru",
+      "degerler": [
+        "1792"
+      ],
+      "bloklu_alanlar": [
+        "islamansiklopedisi.org.tr",
+        "en.wikipedia.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Bu dönemin kırılma noktalarından biri Rusya ile 10 Ocak 1792'de imzalanan Yaş Antlaşması'dır; Kırım'ın geri alınmasının imkânsızlığı kesin olarak görülmüş, Turla (Dinyester) nehri \" cümlesindeki şu değer(ler) doğru mu: 1792? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: islamansiklopedisi.org.tr, en.wikipedia.org."
+    },
+    {
+      "no": 10,
+      "makale": "donem-13",
+      "cumle": "İktisadi tarafta dönemin belirleyici olayı 1929'da başlayan Büyük Buhran'a verilen tepkiler ve dünya ticaretinin çöküşüdür.",
+      "degerler": [
+        "1929"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "ourworldindata.org",
+        "islamansiklopedisi.org.tr",
+        "rug.nl",
+        "avalon.law.yale.edu"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"İktisadi tarafta dönemin belirleyici olayı 1929'da başlayan Büyük Buhran'a verilen tepkiler ve dünya ticaretinin çöküşüdür.\" cümlesindeki şu değer(ler) doğru mu: 1929? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org, islamansiklopedisi.org.tr, rug.nl, avalon.law.yale.edu."
+    },
+    {
+      "no": 11,
+      "makale": "kavram-demografik-gecis",
+      "cumle": "Bu seride doğum ve ölüm hızları arasında 1750'den sonra giderek genişleyen bir boşluk açılır ve nüfus bu dönemde hızla büyümeye başlar.",
+      "degerler": [
+        "1750"
+      ],
+      "bloklu_alanlar": [
+        "ourworldindata.org",
+        "en.wikipedia.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Bu seride doğum ve ölüm hızları arasında 1750'den sonra giderek genişleyen bir boşluk açılır ve nüfus bu dönemde hızla büyümeye başlar.\" cümlesindeki şu değer(ler) doğru mu: 1750? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: ourworldindata.org, en.wikipedia.org."
+    },
+    {
+      "no": 12,
+      "makale": "olay-1914-temmuz-krizi",
+      "cumle": "Britanya Dışişleri Bakanı Edward Grey'in 20 Temmuz 1914 tarihli notu, Alman büyükelçisine Viyana'da Sırbistan'la ilgili neler olduğunu sorduğunu ve elinde yeni bir haber olmadığını kaydeder.",
+      "degerler": [
+        "1914"
+      ],
+      "bloklu_alanlar": [
+        "archive.org",
+        "en.wikipedia.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Britanya Dışişleri Bakanı Edward Grey'in 20 Temmuz 1914 tarihli notu, Alman büyükelçisine Viyana'da Sırbistan'la ilgili neler olduğunu sorduğunu ve elinde yeni bir haber olmadığını\" cümlesindeki şu değer(ler) doğru mu: 1914? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: archive.org, en.wikipedia.org."
+    },
+    {
+      "no": 13,
+      "makale": "tartisma-1914-savas-sorumlulugu",
+      "cumle": "Clark'a göre Germen güçleri Sırbistan'ı cezalandırmak için yerelleşmiş bir savaş aradı, ancak bunu yaparken Rusya ile savaşı bile bile göze aldılar; Rusya ise 1912–13'te Balkanlar'daki güç dengesini bozarak, Avusturya ka",
+      "degerler": [
+        "1912"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "avalon.law.yale.edu",
+        "archive.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Clark'a göre Germen güçleri Sırbistan'ı cezalandırmak için yerelleşmiş bir savaş aradı, ancak bunu yaparken Rusya ile savaşı bile bile göze aldılar; Rusya ise 1912–13'te Balkanlar'\" cümlesindeki şu değer(ler) doğru mu: 1912? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, avalon.law.yale.edu, archive.org."
+    },
+    {
+      "no": 14,
+      "makale": "tartisma-bati-neden-yukseldi",
+      "cumle": "Hindistan örneğinde ise 1757'deki Plassey Savaşı'nın ardından Bengal'den biriken sermayenin Britanya sanayisine yatırıldığı ileri sürülür.",
+      "degerler": [
+        "1757"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "rug.nl",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Hindistan örneğinde ise 1757'deki Plassey Savaşı'nın ardından Bengal'den biriken sermayenin Britanya sanayisine yatırıldığı ileri sürülür.\" cümlesindeki şu değer(ler) doğru mu: 1757? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, rug.nl, ourworldindata.org."
+    },
+    {
+      "no": 15,
+      "makale": "donem-13",
+      "cumle": "Dominyonların kendi dış politikalarını belirleme hakkı 1923'te tanındı.",
+      "degerler": [
+        "1923"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "ourworldindata.org",
+        "islamansiklopedisi.org.tr",
+        "rug.nl",
+        "avalon.law.yale.edu"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Dominyonların kendi dış politikalarını belirleme hakkı 1923'te tanındı.\" cümlesindeki şu değer(ler) doğru mu: 1923? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org, islamansiklopedisi.org.tr, rug.nl, avalon.law.yale.edu."
+    },
+    {
+      "no": 16,
+      "makale": "kavram-demografik-gecis",
+      "cumle": "2000'lerde Oded Galor, geçişin olası tetikleyicileri olarak öne sürülen çeşitli mekanizmaları, bunların ampirik geçerliliğini ve rollerini araştırdı.",
+      "degerler": [
+        "2000"
+      ],
+      "bloklu_alanlar": [
+        "ourworldindata.org",
+        "en.wikipedia.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k2"
+      ],
+      "soru": "\"2000'lerde Oded Galor, geçişin olası tetikleyicileri olarak öne sürülen çeşitli mekanizmaları, bunların ampirik geçerliliğini ve rollerini araştırdı.\" cümlesindeki şu değer(ler) doğru mu: 2000? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: ourworldindata.org, en.wikipedia.org."
+    },
+    {
+      "no": 17,
+      "makale": "olay-1914-temmuz-krizi",
+      "cumle": "Kriz, 28 Haziran 1914'te Bosnalı Sırp milliyetçi Gavrilo Princip'in Avusturya-Macaristan tahtının veliahdı Arşidük Franz Ferdinand'ı Saraybosna'da öldürmesiyle başladı.",
+      "degerler": [
+        "1914"
+      ],
+      "bloklu_alanlar": [
+        "archive.org",
+        "en.wikipedia.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k2"
+      ],
+      "soru": "\"Kriz, 28 Haziran 1914'te Bosnalı Sırp milliyetçi Gavrilo Princip'in Avusturya-Macaristan tahtının veliahdı Arşidük Franz Ferdinand'ı Saraybosna'da öldürmesiyle başladı.\" cümlesindeki şu değer(ler) doğru mu: 1914? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: archive.org, en.wikipedia.org."
+    },
+    {
+      "no": 18,
+      "makale": "tartisma-1914-savas-sorumlulugu",
+      "cumle": "2013'te Christopher Clark'ın The Sleepwalkers adlı kitabı kökenleri yeniden Balkanlar'a odakladı ve fail olma niteliğini diplomatlara geri dağıttı; Clark sorumluluğu, Almanya, Avusturya-Macaristan, Fransa ve Rusya'ya öze",
+      "degerler": [
+        "2013"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "avalon.law.yale.edu",
+        "archive.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"2013'te Christopher Clark'ın The Sleepwalkers adlı kitabı kökenleri yeniden Balkanlar'a odakladı ve fail olma niteliğini diplomatlara geri dağıttı; Clark sorumluluğu, Almanya, Avus\" cümlesindeki şu değer(ler) doğru mu: 2013? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, avalon.law.yale.edu, archive.org."
+    },
+    {
+      "no": 19,
+      "makale": "tartisma-bati-neden-yukseldi",
+      "cumle": "Uzun dönemli karşılaştırmalı büyüme ve gelir düzeyi verisi sunan Maddison Project Database'in 2023 sürümü 169 ülkeyi ve 2022'ye kadarki dönemi kapsar.",
+      "degerler": [
+        "2023",
+        "2022"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "rug.nl",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k2"
+      ],
+      "soru": "\"Uzun dönemli karşılaştırmalı büyüme ve gelir düzeyi verisi sunan Maddison Project Database'in 2023 sürümü 169 ülkeyi ve 2022'ye kadarki dönemi kapsar.\" cümlesindeki şu değer(ler) doğru mu: 2023, 2022? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, rug.nl, ourworldindata.org."
+    },
+    {
+      "no": 20,
+      "makale": "donem-13",
+      "cumle": "1929'da başlayan Büyük Buhran ve dünya ticaretinin çöküşü ise dönemin ikinci yarısını belirledi.",
+      "degerler": [
+        "1929"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "ourworldindata.org",
+        "islamansiklopedisi.org.tr",
+        "rug.nl",
+        "avalon.law.yale.edu"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"1929'da başlayan Büyük Buhran ve dünya ticaretinin çöküşü ise dönemin ikinci yarısını belirledi.\" cümlesindeki şu değer(ler) doğru mu: 1929? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org, islamansiklopedisi.org.tr, rug.nl, avalon.law.yale.edu."
+    }
+  ]
+}

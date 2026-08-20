@@ -1,46 +1,11 @@
 {
-  "mod": "--lint",
-  "zaman": "2026-08-20T20:00:14.993Z",
+  "mod": "--post",
+  "zaman": "2026-08-20T20:24:09.277Z",
   "gecti": true,
   "makale_sayisi": 10,
   "kapilar": [
     {
-      "kapi": "KAPI 1 — Zod sema dogrulamasi",
-      "gecti": true,
-      "hata": 0,
-      "uyari": 0,
-      "hatalar": []
-    },
-    {
-      "kapi": "KAPI 2+3 — dipnot butunlugu / kaynak anahtari",
-      "gecti": true,
-      "hata": 0,
-      "uyari": 0,
-      "hatalar": []
-    },
-    {
-      "kapi": "KAPI 4 — terim kilidi",
-      "gecti": true,
-      "hata": 0,
-      "uyari": 0,
-      "hatalar": []
-    },
-    {
-      "kapi": "KAPI 5 — link butunlugu",
-      "gecti": true,
-      "hata": 0,
-      "uyari": 0,
-      "hatalar": []
-    },
-    {
-      "kapi": "KAPI 7 — telif siniri",
-      "gecti": true,
-      "hata": 0,
-      "uyari": 0,
-      "hatalar": []
-    },
-    {
-      "kapi": "KAPI 9 — hakemlik dedektoru",
+      "kapi": "KAPI 6 — onay filtresi (dist/)",
       "gecti": true,
       "hata": 0,
       "uyari": 0,

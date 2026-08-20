@@ -8,7 +8,7 @@ isler:
   - id: donem-13
     tip: donem
     baslik: 1914–1945 — Felaket Dönemi
-    durum: bekliyor
+    durum: onaylandi
     faz: 0
     bagimlilik: []
     atanan_parti: B01
@@ -20,7 +20,7 @@ isler:
   - id: olay-1914-temmuz-krizi
     tip: olay
     baslik: 1914 Temmuz Krizi
-    durum: bekliyor
+    durum: onaylandi
     faz: 0
     bagimlilik: [donem-13]
     atanan_parti: B01
@@ -32,7 +32,7 @@ isler:
   - id: aktor-osmanli-imparatorlugu
     tip: aktor
     baslik: Osmanlı İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 0
     bagimlilik: []
     atanan_parti: B01
@@ -44,7 +44,7 @@ isler:
   - id: dusunur-ibn-haldun
     tip: dusunur
     baslik: İbn Haldun
-    durum: bekliyor
+    durum: onaylandi
     faz: 0
     bagimlilik: []
     atanan_parti: B02
@@ -54,7 +54,7 @@ isler:
   - id: kavram-asabiyet
     tip: kavram
     baslik: Asabiyet
-    durum: bekliyor
+    durum: onaylandi
     faz: 0
     bagimlilik: [dusunur-ibn-haldun]
     atanan_parti: B02
@@ -63,7 +63,7 @@ isler:
   - id: kavram-demografik-gecis
     tip: kavram
     baslik: Demografik geçiş
-    durum: bekliyor
+    durum: onaylandi
     faz: 0
     bagimlilik: []
     atanan_parti: B02
@@ -73,7 +73,7 @@ isler:
   - id: tartisma-1914-savas-sorumlulugu
     tip: tartisma
     baslik: 1914'te savaşın sorumluluğu kimde?
-    durum: bekliyor
+    durum: onaylandi
     faz: 0
     bagimlilik: []
     atanan_parti: B02
@@ -85,7 +85,7 @@ isler:
   - id: tartisma-bati-neden-yukseldi
     tip: tartisma
     baslik: Batı neden yükseldi?
-    durum: bekliyor
+    durum: onaylandi
     faz: 0
     bagimlilik: []
     atanan_parti: B02
@@ -95,7 +95,7 @@ isler:
   - id: veri-dunya-nufusu-1500-2025
     tip: veri
     baslik: Dünya nüfusu, 1500–2025
-    durum: bekliyor
+    durum: onaylandi
     faz: 0
     bagimlilik: []
     atanan_parti: B02
@@ -107,7 +107,7 @@ isler:
   - id: kaynak-clark-uyurgezerler
     tip: kaynak
     baslik: Christopher Clark — The Sleepwalkers
-    durum: bekliyor
+    durum: onaylandi
     faz: 0
     bagimlilik: []
     atanan_parti: B02
