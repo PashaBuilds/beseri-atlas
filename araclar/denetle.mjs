@@ -28,6 +28,9 @@ export function iddiaCumleleri(govde) {
     .replace(/```[\s\S]*?```/g, ' ')
     .replace(/^#{1,6}\s.*$/gm, ' ')
     .replace(/::[a-zçğıöşü]+\[[^\]]*\]\{[^}]*\}/gi, ' ')
+    // Site içi gezinme bağları APARAT'tır, iddia değil. Bağ metni bir başlık
+    // olduğu için ("1650–1789") içindeki yıl, cümlenin iddiası sanılıyordu.
+    .replace(/\[[^\]]*\]\(\/[^)]*\)/g, ' ')
     .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
     .replace(/[*_`>]/g, '')
     .replace(/\r?\n/g, ' ');
@@ -123,6 +126,10 @@ export async function makaleyiDenetle(m) {
 
   const sonuclar = [];
   for (const { cumle, refs } of iddiaCumleleri(m.govde)) {
+    // Birden fazla kaynak gösteren bir cümle, o kaynakların BİRLİKTE desteklediği
+    // bir iddiadır. Bir sayısal değerin, cümlenin kaynaklarından herhangi birinde
+    // bulunması yeterlidir; her kaynakta ayrı ayrı aranması yanlış HATA üretir.
+    const birlesikMetin = refs.map((r) => metinler.get(r)).filter(Boolean).join(' ');
     for (const ref of refs) {
       const kaynakMetni = metinler.get(ref);
       if (kaynakMetni === undefined) {
@@ -135,7 +142,8 @@ export async function makaleyiDenetle(m) {
       }
       const { sayisal, isimler } = atomlar(cumle);
       const kaynakTurkce = turkceMi(kaynakMetni);
-      const eksikSayisal = sayisal.filter((a) => !kaynakMetni.includes(normalize(a.deger)));
+      const sayisalHavuz = refs.length > 1 ? birlesikMetin : kaynakMetni;
+      const eksikSayisal = sayisal.filter((a) => !sayisalHavuz.includes(normalize(a.deger)));
       const isimSonuclari = isimler.map((a) => ({ ...a, sonuc: isimDurumu(kaynakMetni, a.deger, kaynakTurkce) }));
       const eksikIsim = isimSonuclari.filter((a) => a.sonuc === 'yok');
       const olculemezIsim = isimSonuclari.filter((a) => a.sonuc === 'olculemez');

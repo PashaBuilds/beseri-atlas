@@ -1,7 +1,7 @@
 {
   "id": "tartisma-bati-neden-yukseldi",
   "gecis": 2,
-  "zaman": "2026-08-20T19:59:27.140Z",
+  "zaman": "2026-08-20T20:51:42.188Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -102,6 +102,12 @@
     {
       "anahtar": "k3",
       "iddia": "Uzun dönemli nüfus serilerinin bu tartışmada arka planda durmasının sebebi budur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Pozisyonlar arasındaki tercih, hangi zamanlamanın kabul edildiğine ve hangi veri serisinin ne kadar güvenilir sayıldığına bağlıdır — ayrışmanın ne zaman başladı",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

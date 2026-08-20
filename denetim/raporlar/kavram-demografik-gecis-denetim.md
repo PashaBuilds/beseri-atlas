@@ -1,5 +1,5 @@
 ## kavram-demografik-gecis
-_Geçiş 2 — kaynak denetimi · 2026-08-20T19:59:27.041Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-20T20:51:42.085Z_
 
 - undefined k1 → "Her ülke bu iki büyüklükte çok köklü değişimler yaşadı: ölümlülük ve doğurganlık hızları dünya genelinde düştü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - undefined k1 → "Ama tek başına bu iki düşüş, nüfusun neden arttığını açıklamaz — eğer ikisi aynı anda gerçekleşseydi nüfusun b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -19,8 +19,8 @@ _Geçiş 2 — kaynak denetimi · 2026-08-20T19:59:27.041Z_
 - undefined k1 → "Kayıt tutmanın başlamasından bu yana, yani iki yüz elli yılı aşkın süredir doğum ve ölüm verisi yayımlanmıştır…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Bu kayıtlar, 1800 yılı civarında İsveç'te ölüm hızının düşmeye başladığını gösterir; başlıca sebep sağlık ve y…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - undefined k1 → "yüzyılın ilk yarısına kadar ölümler ile doğumlar arasında sürekli bir boşluk oluştu; İsveç nüfusunun artışı bu…" — programatik olarak ölçülemedi (ad karşılığı yok): İsveç
-- [OK]      k2 → "Kuram, Amerikalı demograf Warren Thompson'ın 1930'da geliştirdiği bir demografi tarihi yorumuna dayanır."
-- [OK]      k2 → "Fransa'dan Adolphe Landry 1934 civarında demografik örüntüler ve nüfus artış potansiyeli üzerine benzer gözlem…"
+- [OK]      k2 → "Kuram, Amerikalı demograf Warren Thompson'ın demografi tarihi yorumuna dayanır."
+- [OK]      k2 → "Fransa'dan Adolphe Landry de demografik örüntüler ve nüfus artış potansiyeli üzerine benzer gözlemler yaptı."
 - undefined k2 → "Notestein daha biçimsel bir demografik geçiş kuramı geliştirdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "2000'lerde Oded Galor, geçişin olası tetikleyicileri olarak öne sürülen çeşitli mekanizmaları, bunların ampiri…"
 - undefined k1 → "Demografik geçiş bir tanımlama modelidir: dünya çapındaki ülkelerde gözlenen örüntüyü tarif eder ve demografin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

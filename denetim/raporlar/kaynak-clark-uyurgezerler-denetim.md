@@ -1,5 +1,5 @@
 ## kaynak-clark-uyurgezerler
-_Geçiş 2 — kaynak denetimi · 2026-08-20T19:59:27.192Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-20T20:51:42.248Z_
 
 - [OK]      k1 → "Clark, The sleepwalkers: how Europe went to war in 1914, New York: Harper, 2013."
 - [OK]      k1 → "Katalog kaydında ISBN 9780061146664 ve LCCN 2012038473 verilir; konu başlıkları arasında Birinci Dünya Savaşı'…" — 2 atom doğrulandı; 2 ad ölçülemedi

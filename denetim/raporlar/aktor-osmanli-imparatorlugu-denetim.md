@@ -1,5 +1,5 @@
 ## aktor-osmanli-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-20T19:59:26.943Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-20T20:51:41.984Z_
 
 - [OK]      k1 → "Osmanlılar, Batı Anadolu'nun kuzeyinde bir Türkmen beyliği olarak ortaya çıkıp üç kıtaya yayılan ve kurucusunu…"
 - [OK]      k1 → "Aynı ansiklopedi siyasi tarihi iki büyük bölüme ayırır: klasik dönem (1300–1774) ve yakın dönemler (1774–1922)…"

@@ -1,5 +1,5 @@
 ## tartisma-1914-savas-sorumlulugu
-_Geçiş 2 — kaynak denetimi · 2026-08-20T19:59:27.110Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-20T20:51:42.156Z_
 
 - [OK]      k2 → "maddesi, İtilaf ve ortak hükümetlerin, savaşın Almanya ve müttefiklerinin saldırganlığıyla kendilerine dayatıl…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "1920'lerde Almanya'nın sorumlu olduğunu savunan az sayıda Alman tarihçiden biri olan Hermann Kantorowicz, Dışi…" — 4 atom doğrulandı; 1 ad ölçülemedi

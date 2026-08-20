@@ -1,7 +1,7 @@
 {
   "id": "dusunur-ibn-haldun",
   "gecis": 2,
-  "zaman": "2026-08-20T19:59:26.996Z",
+  "zaman": "2026-08-20T20:51:42.041Z",
   "sonuclar": [
     {
       "anahtar": "k2",
@@ -101,9 +101,9 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "İbn Haldûn'un yeniliği kavramı icat etmek değil, onu bilimsel ve nesnel bir yöntemle inceleyen ilk düşünür olmak ve tarih ile devlet felsefesinde ona en büyük a",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "TDV İslâm Ansiklopedisi'ne göre onun yeniliği kavramı icat etmek değil, asabiyeti ilmî ve nesnel bir yöntemle inceleyen ilk İslam mütefekkiri olmak ve tarih ile",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",

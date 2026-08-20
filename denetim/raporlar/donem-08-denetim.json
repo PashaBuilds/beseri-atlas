@@ -1,0 +1,127 @@
+{
+  "id": "donem-08",
+  "gecis": 2,
+  "zaman": "2026-08-20T20:51:41.522Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kara Ölüm, Avrupa'da 1346'dan 1353'e kadar süren bir veba pandemisiydi ve insanlık tarihinin en ölümcül pandemilerinden biri olarak kabul edilir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Salgının tahmini ölü sayısı 25 ile 50 milyon arasındadır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl ortasındaki bu olguyu diğer bulaşıcı hastalıklardan ayırmak için ilk salgın ifadesi kullanıldı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mors nigra yani kara ölüm ifadesi 1350'de Belçikalı gökbilimci Simon de Covino tarafından bir şiirde kullanıldı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yüzyıllarda Osmanlılar, Batı Anadolu'nun kuzeyinde bir Türkmen beyliği olarak ortaya çıkıp üç kıtaya yayılan bir devlete dönüşüyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Salgının coğrafyası Avrasya ve Kuzey Afrika olarak tanımlanır; Batı Asya ve Kuzey Afrika salgını ayrı bir başlık altında incelenir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kara Ölüm'ün kökeni tartışmalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ölüm"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Genetik analiz, Yersinia pestis bakterisinin yaklaşık yedi bin yıl önce, Neolitik'in başında evrildiğini; pire aracılığıyla bulaşan suşların ise yaklaşık üç bin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Salgının en erken kurbanları, bugünkü Kırgızistan'da Issık Göl yakınındaki Çüy Vadisi'nde iki mezarlıkta bulunmuştur; buradaki mezar taşları Süryanice kitabeler",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kırgızistan, Issık, Göl, Çüy"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1500 yılında yaklaşık 503,1 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Pandeminin ekonomik, çevresel ve kültürel sonuçları ayrı ayrı incelenen başlıklardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Salgın, Geç Orta Çağ'da Avrupa'yı vuran ikinci büyük doğal felaket olarak sınıflandırılır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin siyasi biçimi iki karşıt hareketle tanımlanır: Avrupa'da salgının parçaladığı düzen ve İslam dünyasında yeni bir imparatorluğun kuruluşu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Dönemin siyasi biçimi iki karşıt hareketle tanımlanır: Avrupa'da salgının parçaladığı düzen ve İslam dünyasında yeni bir imparatorluğun kuruluşu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Osmanlı örneği, bir beylikten imparatorluğa geçişin kurumsal adımlarını gösterir: Türk-İslam dünyasındaki en uzun ömürlü devlet olarak nitelenen yapı, siyasi ta",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Pandeminin ekonomik sonuçları bu yüzden ayrı bir inceleme başlığıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynaklar hıyarcıklı veba, akciğer vebası ve septisemik veba biçimlerini ayrı ayrı ele alır; bu ayrımlar, salgının farklı bölgelerde neden farklı hızlarda yayıl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Olayın çağdaş adları — büyük salgın, büyük ölüm — ölçeği vurgular; sonradan gelen ilk salgın adlandırması ise onu bir dizi içine yerleştirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mors nigra ifadesinin bir gökbilimcinin şiirinde, güneşin Satürn şölenindeki hükmü üzerine yazılmış bir metinde geçmesi dönemin açıklama çerçevesini de gösterir",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Satürn"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Salgının ikinci veba pandemisi olarak sınıflandırılması ve bu salgınların yaklaşık 500-600 yıl arayla gerçekleşmiş olması, bugünkü tarih yazımının olayı uzun bi",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

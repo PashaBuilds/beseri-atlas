@@ -1,6 +1,9 @@
 ## donem-13
-_Geçiş 2 — kaynak denetimi · 2026-08-20T19:59:26.743Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-20T20:51:41.787Z_
 
+- [OK]      k3 → "Otuz bir yıl içinde Osmanlı Devleti sona erdi, 1929'da başlayan buhranla birlikte dünya ticareti çöktü ve demo…"
+- [OK]      k1 → "Otuz bir yıl içinde Osmanlı Devleti sona erdi, 1929'da başlayan buhranla birlikte dünya ticareti çöktü ve demo…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Otuz bir yıl içinde Osmanlı Devleti sona erdi, 1929'da başlayan buhranla birlikte dünya ticareti çöktü ve demo…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Ara dönem, siyasi olarak komünizmin yükselişiyle başladı — Rusya'da Ekim Devrimi ve Rus İç Savaşı ile — ve faş…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Arada Weimar Cumhuriyeti, 1933 sonrası Nazi dönemi ve 1936–1939 arasındaki İspanya İç Savaşı yer alır." — 6 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k3 → "Osmanlı Devleti bu dönemin ortasında sona erdi; TDV İslâm Ansiklopedisi devletin ömrünü 1300–1922 olarak verir…"
@@ -37,4 +40,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-20T19:59:26.743Z_
 - undefined k1 → "Aynı yıllarda dünya genelinde pasifizmde bir gerileme ve bir başka dünya savaşının yakın olduğu — ve uğruna sa…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - undefined k1 → "Emperyalizmin giderek olumsuz görülmesi ve sömürgelerde bağımsızlık hareketlerinin ortaya çıkması, bir yönetim…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 24 OK · 0 ISARET · 0 HATA
+**Özet:** 27 OK · 0 ISARET · 0 HATA

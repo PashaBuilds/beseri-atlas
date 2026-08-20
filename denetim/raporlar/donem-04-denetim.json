@@ -1,7 +1,7 @@
 {
   "id": "donem-04",
   "gecis": 2,
-  "zaman": "2026-08-20T20:43:26.346Z",
+  "zaman": "2026-08-20T20:51:41.218Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -125,9 +125,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Dönemin sonunda kurulan evrensellik iddialı düşünsel çerçeveler, sonraki dönemin din temelli imparatorluk düzenlerinin zeminini oluşturacaktır; o dönem 200–650 ",
-      "durum": "OK",
-      "not": ""
+      "iddia": "Dönemin sonunda kurulan evrensellik iddialı düşünsel çerçeveler, sonraki dönemin din temelli imparatorluk düzenlerinin zeminini oluşturacaktır; o dönem dosyasın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }
   ]
 }

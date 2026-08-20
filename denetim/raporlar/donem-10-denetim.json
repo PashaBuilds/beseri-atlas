@@ -1,0 +1,115 @@
+{
+  "id": "donem-10",
+  "gecis": 2,
+  "zaman": "2026-08-20T20:51:41.692Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Aydınlanma, Avrupa'da ve Batı uygarlığında düşünsel ve kültürel bir serpilme dönemiydi ve \"Akıl Çağı\" adıyla da anılır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hareketin savunduğu ilkeler arasında kilise ile devletin ayrılması ve akılcı ilkelerin toplumsal ve siyasi reforma uygulanması sayılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılların Bilimsel Devrimi'nden doğdu ve onun üzerine kuruldu; Bilimsel Devrim yeni yöntemler kurmuştu.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Bilimsel, Devrimi, Devrim"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin önderleri arasında Jean-Jacques Rousseau, Voltaire, Immanuel Kant, Johann Wolfgang von Goethe, David Hume, Adam Smith, Benjamin Franklin ve Roger Willia",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Stanislaus anılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "yüzyılın sonlarına doğru başlayan dönemde Osmanlı Devleti kaçınılmaz olarak yapısal değişimler içine girdi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kullanılan Aydınlanma kaynağı hareketi \"Avrupa ve Batı uygarlığı\" ile sınırlı tanımlar; bu üç bölge orada kendi başlıkları altında ele alınmaz.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1600'de yaklaşık 516,1 milyon, 1790'da yaklaşık 942,3 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Adam Smith'in Ulusların Zenginliğinin Doğası ve Nedenleri Üzerine Bir İnceleme adlı eseri 1776'da yayımlandı ve klasik iktisadın temel yapıtlarından biri sayılı",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Smith'in yaşam yılları 1723-1790'dır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aydınlanma'nın savunduğu kilise-devlet ayrımı ve akılcı ilkelerin siyasi reforma uygulanması, geleneksel meşruiyetin yerine sınanabilir bir ölçüt koyma girişimi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu girişimin çelişkisi, aynı dönemin monark listesinde görünür: Aydınlanma düşünürleri mutlak monarklarla aynı yüzyıllarda yaşadı ve bazıları onların himayesind",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Aydınlanma"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dönemin savaşları ilk kez birden fazla kıtada eşzamanlı yürütüldü; nüfus ve ticaret hacminin bu ölçekte artmış olması bu eşzamanlılığı mümkün kılan lojistik ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Akılcı ilkelerin toplumsal ve siyasi reforma uygulanması iddiası, bir sonraki dönemde devrim programına dönüşecektir; o dönem dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aydınlanma'nın temel iddiası, aklın toplumsal ve siyasi reforma uygulanabileceğidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Smith'in yapıtı bu yaklaşımın iktisada uygulanmış hâlidir: bir ulusun zenginliği, verili bir düzen olarak değil, nedenleri araştırılabilir bir olgu olarak ele a",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kitabın başlığındaki \"doğası ve nedenleri\" ifadesi bu yöntemsel tercihi doğrudan bildirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hareketin Bilimsel Devrim üzerine kurulmuş olması, fikir dünyasındaki süreklilik zincirini gösterir: yöntem önce doğa üzerinde denenmiş, sonra topluma taşınmışt",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Bilimsel, Devrim"
+    }
+  ]
+}

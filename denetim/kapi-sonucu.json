@@ -1,8 +1,8 @@
 {
   "mod": "--lint",
-  "zaman": "2026-08-20T20:51:35.042Z",
+  "zaman": "2026-08-20T20:50:46.771Z",
   "gecti": false,
-  "makale_sayisi": 18,
+  "makale_sayisi": 20,
   "kapilar": [
     {
       "kapi": "KAPI 1 — Zod sema dogrulamasi",
@@ -29,15 +29,15 @@
       "kapi": "KAPI 5 — link butunlugu",
       "gecti": false,
       "hata": 2,
-      "uyari": 3,
+      "uyari": 4,
       "hatalar": [
         {
-          "dosya": "icerik/donem/donem-08.md",
-          "mesaj": "ilgili: \"donem-09\" diye bir makale yok (kirik ic link)"
+          "dosya": "icerik/donem/donem-10.md",
+          "mesaj": "ilgili: \"donem-11\" diye bir makale yok (kirik ic link)"
         },
         {
-          "dosya": "icerik/donem/donem-08.md",
-          "mesaj": "kirik ic link: /donem/09"
+          "dosya": "icerik/donem/donem-10.md",
+          "mesaj": "kirik ic link: /donem/11"
         }
       ]
     },

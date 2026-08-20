@@ -1,5 +1,5 @@
 ## tartisma-bati-neden-yukseldi
-_Geçiş 2 — kaynak denetimi · 2026-08-20T19:59:27.140Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-20T20:51:42.188Z_
 
 - [OK]      k1 → "Huntington ortaya attı; terimi yaygınlaştıran kullanım ise Kenneth Pomeranz'ın 2000 tarihli The Great Divergen…"
 - [OK]      k1 → "Aynı olgu daha önce Eric Jones tarafından da ele alınmıştı; onun 1981 tarihli The European Miracle adlı kitabı…"
@@ -18,5 +18,6 @@ _Geçiş 2 — kaynak denetimi · 2026-08-20T19:59:27.140Z_
 - [OK]      k1 → "Aynı kaynak karşı kanıtı da kaydeder: Hindistan'da kişi başına gelirdeki gerçek düşüş Britanya sömürgeciliğind…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Hindistan'ın dünya üretimindeki payının (%24,9) büyük ölçüde 1600 civarındaki nüfus payının bir işlevi olduğu …"
 - undefined k3 → "Uzun dönemli nüfus serilerinin bu tartışmada arka planda durmasının sebebi budur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Pozisyonlar arasındaki tercih, hangi zamanlamanın kabul edildiğine ve hangi veri serisinin ne kadar güvenilir …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
 **Özet:** 14 OK · 0 ISARET · 0 HATA

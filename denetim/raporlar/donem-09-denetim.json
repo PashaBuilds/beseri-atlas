@@ -1,0 +1,133 @@
+{
+  "id": "donem-09",
+  "gecis": 2,
+  "zaman": "2026-08-20T20:51:41.605Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dönemin başlangıcı için birden fazla dönüm noktası önerilir: Rönesans'ın sonu, 1440'larda başlayan matbaa devrimi, 1453'te Konstantinopolis'in düşüşü, Keşifl",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Amerika'nın Avrupa tarafından sömürgeleştirilmesi erken modern dönemde başladı; aynı dönemde Avrupa'nın Asya ve Afrika'da ticaret merkezleri kurması da başladı ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin başında kıtada İnka uygarlığı, Maya uygarlığı ve şehirleri ile Muisca bulunuyordu.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlantik köle ticareti ve Amerika'nın yerli halklarının sömürgeleştirilmesi bu dönemde başladı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dünyanın çeşitli bölgelerindeki gelişmeler, siyasi ve iktisadi olarak ortaçağ örgütlenme biçimlerinden uzaklaşmayı temsil ediyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Avrupa'da feodalite geriledi ve Hristiyan dünyası Haçlı Seferleri'nin sonunu ve Batı Avrupa'da Roma Katolik Kilisesi altındaki dinî birliğin sonunu gördü; eski ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Osmanlı İmparatorluğu Güneydoğu Avrupa'yı, Batı Asya ve Kuzey Afrika'nın bazı kısımlarını fethetti.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu genişlemenin kurumsal zemini, merkeze bağlı tımarlı eyaletler ile özel statülü birimleri bir arada tutan kademeli bir egemenlik yapısıydı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin büyük Asya imparatorlukları, stratejik ticaret yolları üzerindeki denetim ve etnik ile dinî bakımdan çeşitli toplumların idaresiyle tanımlanır; bu impar",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eski Dünya ile Yeni Dünya arasındaki değişim, insan çevresini büyük ölçüde değiştirdi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1500'de yaklaşık 503,1 milyon, 1600'de yaklaşık 516,1 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İktisadi tarafta dönem, ticari kapitalizmin ve yeni ekonominin ortaya çıkışıyla tanımlanır; ticaret ve yeni ekonomi, korsanlığın altın çağıyla birlikte aynı baş",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin siyasi biçimi, ortaçağ düzeninden kopuşla tanımlanır: feodalitenin gerilemesi ve dinî birliğin sona ermesi, siyasi otoritenin dayanağını değiştirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Rusya Çarlığı'nın kuruluşu, Fransız gücünün yükselişi ve erken İngiliz devrimleri bu yeni düzenin ayrı ayrı incelenen bileşenleridir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çarlığı, Fransız, İngiliz"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Asya tarafında ise imparatorluk biçimi farklı bir çözüm üretti: stratejik ticaret yollarının denetimi ve çeşitli toplumların idaresi üzerine kurulu bir yapı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin askerî dönüşümü barut ve ateşli silahlarla tanımlanır; Avrupa incelemelerinde barut ve ateşli silahlar ayrı bir başlıktır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Benzer askerî araçları kullanmasına rağmen farklı sonuçlara ulaşan örnekler vardır — Sûrî İmparatorluğu bunlardan biri olarak anılır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İmparatorluğu"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin fikir dünyası dört büyük başlıkla tanımlanır: Protestan Reformu, Karşı-Reform ve Cizvitler, Bilimsel Devrim ve teknoloji.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bunlara Aydınlanma ile akıl ve hümanizm eklenir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Aydınlanma"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Matbaa devriminin 1440'larda başlaması, bu tartışmanın neden bu ölçekte yayılabildiğini açıklar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl sonlarında Sanayi Devrimi'nin getirdiği büyük gelişmelerle işaretlenir; o geçiş dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sanayi, Devrimi"
+    }
+  ]
+}

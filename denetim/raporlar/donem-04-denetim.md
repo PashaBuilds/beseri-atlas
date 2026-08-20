@@ -1,5 +1,5 @@
 ## donem-04
-_Geçiş 2 — kaynak denetimi · 2026-08-20T20:43:26.346Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-20T20:51:41.218Z_
 
 - undefined k1 → "yüzyıla kadar çeşitli yerlerde meydana gelen dinî ve felsefi düşüncedeki geniş değişimleri anlatır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Jaspers'e göre bu dönemde evrenselleştirici düşünce biçimleri Pers'te, Hindistan'da, Çin'de, Levant'ta ve Yuna…" — 3 atom doğrulandı; 1 ad ölçülemedi
@@ -21,6 +21,6 @@ _Geçiş 2 — kaynak denetimi · 2026-08-20T20:43:26.346Z_
 - undefined k1 → "Kuramın tarihsel geçerliliği tartışmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - undefined k1 → "Jaspers'e yöneltilen eleştiriler arasında şunlar sayılır: eşzamanlı ortaya çıktığı varsayılan düşünsel gelişme…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - undefined k1 → "Buna karşılık, insanlık kültür tarihinde böyle bir geçiş olduğu ve bu dönemin Eksen Çağı diye adlandırılabilec…" — programatik olarak ölçülemedi (ad karşılığı yok): Eksen, Çağı
-- [OK]      k1 → "Dönemin sonunda kurulan evrensellik iddialı düşünsel çerçeveler, sonraki dönemin din temelli imparatorluk düze…"
+- undefined k1 → "Dönemin sonunda kurulan evrensellik iddialı düşünsel çerçeveler, sonraki dönemin din temelli imparatorluk düze…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 11 OK · 0 ISARET · 0 HATA
+**Özet:** 10 OK · 0 ISARET · 0 HATA

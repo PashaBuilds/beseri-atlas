@@ -1,7 +1,7 @@
 {
   "id": "kavram-demografik-gecis",
   "gecis": 2,
-  "zaman": "2026-08-20T19:59:27.041Z",
+  "zaman": "2026-08-20T20:51:42.085Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -113,13 +113,13 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Kuram, Amerikalı demograf Warren Thompson'ın 1930'da geliştirdiği bir demografi tarihi yorumuna dayanır.",
+      "iddia": "Kuram, Amerikalı demograf Warren Thompson'ın demografi tarihi yorumuna dayanır.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Fransa'dan Adolphe Landry 1934 civarında demografik örüntüler ve nüfus artış potansiyeli üzerine benzer gözlemler yaptı.",
+      "iddia": "Fransa'dan Adolphe Landry de demografik örüntüler ve nüfus artış potansiyeli üzerine benzer gözlemler yaptı.",
       "durum": "OK",
       "not": ""
     },
