@@ -1,8 +1,5 @@
 # plan/kuyruk.yaml — merkezi iş listesi (§9)
 # durum: bekliyor|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
-#
-# Faz 0 kalibrasyon partisi: her tipten en az bir tane, biri mutlaka dönem
-# makalesi (§14, madde 7). Bu 10 makale geri kalan 300'ün kalite referansıdır.
 
 isler:
   - id: donem-13
@@ -14,21 +11,20 @@ isler:
     atanan_parti: B01
     deneme: 0
     yonerge: >
-      §4'teki beş bölüm aynı sırayla. Altı bölgenin tamamı `serit` alanında
-      temsil edilmeli — zaman şeridi bileşeni bu alandan besleniyor.
-
+      §4'teki beş bölüm aynı sırayla. Altı bölgenin tamamı `serit` alanında temsil edilmeli — zaman
+      şeridi bileşeni bu alandan besleniyor.
   - id: olay-1914-temmuz-krizi
     tip: olay
     baslik: 1914 Temmuz Krizi
     durum: onaylandi
     faz: 0
-    bagimlilik: [donem-13]
+    bagimlilik:
+      - donem-13
     atanan_parti: B01
     deneme: 0
     yonerge: >
-      Suikast ile genel seferberlik arasındaki 37 gün. Savaş sorumluluğu
-      tartışmasına hakemlik YAPMA; tartisma-1914-savas-sorumlulugu'na yönlendir.
-
+      Suikast ile genel seferberlik arasındaki 37 gün. Savaş sorumluluğu tartışmasına hakemlik
+      YAPMA; tartisma-1914-savas-sorumlulugu'na yönlendir.
   - id: aktor-osmanli-imparatorlugu
     tip: aktor
     baslik: Osmanlı İmparatorluğu
@@ -38,9 +34,8 @@ isler:
     atanan_parti: B01
     deneme: 0
     yonerge: >
-      §2 istisnası: Türkçe kaynaklar (TDV İslam Ansiklopedisi) birincil tercih.
-      Altı yüzyılı tek makaleye sıkıştırma — kurumsal yapı ve dönüşüm ekseninde yaz.
-
+      §2 istisnası: Türkçe kaynaklar (TDV İslam Ansiklopedisi) birincil tercih. Altı yüzyılı tek
+      makaleye sıkıştırma — kurumsal yapı ve dönüşüm ekseninde yaz.
   - id: dusunur-ibn-haldun
     tip: dusunur
     baslik: İbn Haldun
@@ -50,16 +45,15 @@ isler:
     atanan_parti: B02
     deneme: 0
     yonerge: Fikri ve etkisi. asabiyet ve umran kavram dosyalarına bağla.
-
   - id: kavram-asabiyet
     tip: kavram
     baslik: Asabiyet
     durum: onaylandi
     faz: 0
-    bagimlilik: [dusunur-ibn-haldun]
+    bagimlilik:
+      - dusunur-ibn-haldun
     atanan_parti: B02
     deneme: 0
-
   - id: kavram-demografik-gecis
     tip: kavram
     baslik: Demografik geçiş
@@ -69,7 +63,6 @@ isler:
     atanan_parti: B02
     deneme: 0
     yonerge: veri-dunya-nufusu-1500-2025 ile çift yönlü bağlanmalı.
-
   - id: tartisma-1914-savas-sorumlulugu
     tip: tartisma
     baslik: 1914'te savaşın sorumluluğu kimde?
@@ -79,9 +72,8 @@ isler:
     atanan_parti: B02
     deneme: 0
     yonerge: >
-      En az 3 rakip pozisyon. hakem_yok daima true. Fischer tezi, Clark'ın
-      çoklu-sorumluluk okuması ve ittifak sistemi/yapısal açıklama ayrı ayrı.
-
+      En az 3 rakip pozisyon. hakem_yok daima true. Fischer tezi, Clark'ın çoklu-sorumluluk okuması
+      ve ittifak sistemi/yapısal açıklama ayrı ayrı.
   - id: tartisma-bati-neden-yukseldi
     tip: tartisma
     baslik: Batı neden yükseldi?
@@ -91,7 +83,6 @@ isler:
     atanan_parti: B02
     deneme: 0
     yonerge: §7'deki dört pozisyon örneği zorunlu taban; genişletilebilir.
-
   - id: veri-dunya-nufusu-1500-2025
     tip: veri
     baslik: Dünya nüfusu, 1500–2025
@@ -101,9 +92,8 @@ isler:
     atanan_parti: B02
     deneme: 0
     yonerge: >
-      Gerçek veri seti indirilecek (OWID/UN WPP), veri-setleri/ altında lisans
-      dosyasıyla saklanacak. Runtime'da dış istek yok.
-
+      Gerçek veri seti indirilecek (OWID/UN WPP), veri-setleri/ altında lisans dosyasıyla
+      saklanacak. Runtime'da dış istek yok.
   - id: kaynak-clark-uyurgezerler
     tip: kaynak
     baslik: Christopher Clark — The Sleepwalkers
@@ -113,6 +103,126 @@ isler:
     atanan_parti: B02
     deneme: 0
     yonerge: >
-      TELİFLİ. Sadece künye, tezinin 2-3 cümlelik atıflı özeti, hangi
-      tartışmada nerede durduğu ve okuma yönlendirmesi. Bölüm çevirisi veya
-      yeniden yapılandırılmış anlatı ÜRETİLMEZ (İlke 4). Sınır: 700 kelime.
+      TELİFLİ. Sadece künye, tezinin 2-3 cümlelik atıflı özeti, hangi tartışmada nerede durduğu ve
+      okuma yönlendirmesi. Bölüm çevirisi veya yeniden yapılandırılmış anlatı ÜRETİLMEZ (İlke 4).
+      Sınır: 700 kelime.
+  - id: donem-01
+    tip: donem
+    baslik: MÖ 10000–3000 — Tarım devrimi ve yerleşiklik
+    durum: uretiliyor
+    faz: 1
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: donem-02
+    tip: donem
+    baslik: MÖ 3000–1200 — Tunç Çağı imparatorlukları ve yazı
+    durum: uretiliyor
+    faz: 1
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: donem-03
+    tip: donem
+    baslik: MÖ 1200–500 — Çöküş, Demir Çağı, alfabe
+    durum: uretiliyor
+    faz: 1
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: donem-04
+    tip: donem
+    baslik: MÖ 500–MS 200 — Eksen Çağı ve klasik imparatorluklar
+    durum: uretiliyor
+    faz: 1
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: donem-05
+    tip: donem
+    baslik: 200–650 — Geç antikite ve Roma–Sasani düellosu
+    durum: uretiliyor
+    faz: 1
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: donem-06
+    tip: donem
+    baslik: 650–1000 — İslam'ın yayılışı, Abbasi, Karolenj, Tang
+    durum: bekliyor
+    faz: 1
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: donem-07
+    tip: donem
+    baslik: 1000–1350 — Selçuklu, Haçlılar, Song, Moğol dünya sistemi
+    durum: bekliyor
+    faz: 1
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: donem-08
+    tip: donem
+    baslik: 1350–1500 — Kara Ölüm, Osmanlı yükselişi, Rönesans, Ming
+    durum: bekliyor
+    faz: 1
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: donem-09
+    tip: donem
+    baslik: 1500–1650 — Keşifler, Reform, barut imparatorlukları
+    durum: bekliyor
+    faz: 1
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: donem-10
+    tip: donem
+    baslik: 1650–1789 — Aydınlanma ve ilk küresel savaşlar
+    durum: bekliyor
+    faz: 1
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: donem-11
+    tip: donem
+    baslik: 1789–1848 — Devrim Çağı
+    durum: bekliyor
+    faz: 1
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: donem-12
+    tip: donem
+    baslik: 1848–1914 — Sermaye ve İmparatorluk Çağı
+    durum: bekliyor
+    faz: 1
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: donem-14
+    tip: donem
+    baslik: 1945–1991 — Soğuk Savaş ve sömürgesizleşme
+    durum: bekliyor
+    faz: 1
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: donem-15
+    tip: donem
+    baslik: 1991–2008 — Tek kutupluluk ve küreselleşme
+    durum: bekliyor
+    faz: 1
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: donem-16
+    tip: donem
+    baslik: 2008–bugün — Çok kutupluluğa dönüş
+    durum: bekliyor
+    faz: 1
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0

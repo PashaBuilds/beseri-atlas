@@ -1,0 +1,94 @@
+# Beşeri Atlas — Nihai Rapor
+
+_Üretim tarihi: 2026-08-20 · Bu dosya `npm run rapor` ile ölçümlerden üretilir, elle yazılmaz._
+
+## Kapsam
+
+Üretilen: **11** | Onaylanan: **10** | Karantinada: **0**
+
+Planlanan tam kapsam **226** makaledir; bu raporun yazıldığı anda
+**%4.4**'i yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
+birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
+
+| Tip | Yayımlanan |
+|---|---|
+| aktor | 1 |
+| donem | 1 |
+| dusunur | 1 |
+| kavram | 2 |
+| kaynak | 1 |
+| olay | 1 |
+| tartisma | 2 |
+| veri | 1 |
+
+Toplam gövde: **6.604** kelime.
+
+## Doğrulama
+
+Örnekleme kapısı geçmişi: 0.9583
+Nihai skor: **0.9583** (11/12 ölçülen iddia)
+Ham skor: **0.55** (20 iddialık örneklem, 8 iddia bağımsız olarak türetilemedi)
+
+Geçiş 2 (kaynak denetimi): 144 OK · 1 ISARET · 0 HATA · 84 programatik olarak ölçülemedi
+Kaynak doğrulama oranı: **0.9966**
+Makale başına ortalama kaynak: **3.60**
+Çürütücünün ürettiği itiraz adayı: **34**
+Çapraz tutarlılık çelişkisi: **0**
+
+### İki skorun anlamı
+
+İki sayı ayrı ayrı verilir çünkü aynı şeyi ölçmezler:
+
+- **Ölçülen skor**, bağımsız olarak yeniden türetilebilen iddialar arasında
+  doğrulananların oranıdır.
+- **Ham skor**, örneklemin tamamı üzerinden hesaplanır ve türetilemeyen her
+  iddiayı başarısız sayar.
+
+Aradaki fark, korpusun yanlışlığını değil **ölçüm kapasitesinin sınırını**
+gösterir. Türetilemeyen iddialar çürütülmemiştir; hiç ölçülememiştir.
+Bu ayrımı gizlemek, hattın kendi kendini kandırması olurdu.
+
+## Zayıf noktalar
+
+Ayrıntılı liste `denetim/MUDAHALE-GEREKLI.md` dosyasındadır. Başlıklar:
+
+- 1. Bağımsız yeniden türetme için doğrulanabilir kaynak yetersiz
+- 2. Çözülemeyen tarih ayrışması: Warren Thompson
+- 3. Osmanlı kuruluş tarihi: 1299 mu 1300 mü?
+
+Karantinaya alınan makale yok.
+
+## Hattın kendi bulduğu kusurlar
+
+Doğrulama geçişlerinin değeri, ne yakaladıklarıyla ölçülür. Bu koşuda:
+
+- Geçiş 2, cümle bölücüsündeki bir hatayı ve `normalize()` fonksiyonundaki
+  Türkçe yerel küçültme sorununu ortaya çıkardı; ikisi de referansların
+  yanlış iddialara atfedilmesine yol açıyordu.
+- Geçiş 2, grafik sayfalarının sayısal değerleri taşımadığını gösterdi;
+  künyeler değerlerin gerçekten bulunduğu CSV uç noktalarına taşındı.
+- Geçiş 3, KAPI 2'nin yazıyla yazılmış nicelikleri kaçırdığını buldu;
+  linter sıkılaştırıldı ve iki kaynaksız iddia yakalandı.
+- Geçiş 4, bir tarihte kaynaklar arası ayrışma buldu ve iddia çıkarıldı.
+- Geçiş 4, türetme cevabının bloke bir alan adından geldiğini yakalayıp
+  reddetti — bağımsızlık şartı fiilen zorlanıyor.
+
+## Güvenilirlik beyanı
+
+Bu korpus otonom olarak üretildi ve otonom olarak denetlendi.
+Ölçülen doğrulama oranı %96'tir; yani her 20 iddiadan yaklaşık
+1 tanesinin kaynağa gidildiğinde
+doğrulanamaması beklenir. Örneklemin bir bölümü ise bağımsız olarak hiç
+türetilemedi; bu iddialar hakkında ölçülmüş bir güvence yoktur.
+Ortak kaynaklı hatalar bu ölçümde görünmez: üreten ve denetleyen oturum aynı
+hatalı kaynağa dayanıyorsa ikisi de aynı yanlışa varır.
+
+**Site, kitapların yerine değil, onlara giden yol olarak kullanılmalıdır.**
+
+## Hattın durduğu nokta
+
+Aktif faz: **1** · Aktif parti: **B01**
+Harcanan bütçe: 580.000 / 40.000.000 token
+
+`npm run otonom` yeniden çalıştırıldığında hat `DURUM.md`yi okuyup aynı
+noktadan sürer.

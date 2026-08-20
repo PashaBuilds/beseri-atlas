@@ -1,8 +1,8 @@
 ---
-aktif_faz: 0
+aktif_faz: 1
 aktif_parti: B01
-son_commit: 6f8a583
-son_guncelleme: 2026-08-20T20:24:50.795Z
+son_commit: ef159f7
+son_guncelleme: 2026-08-20T20:27:33.938Z
 sayaclar:
   uretilen: 0
   onaylanan: 0
@@ -27,7 +27,8 @@ onarim:
   tur: 0
   hedef_faz: null
   kok_neden: null
-faz_parti_sayaci: {}
+faz_parti_sayaci:
+  "1": 1
 ---
 
 # DURUM — otonom döngünün hafızası
@@ -35,10 +36,10 @@ faz_parti_sayaci: {}
 > Bu dosya orkestratör tarafından yazılır. Elle düzenlenmez.
 > Hat durduğunda `npm run otonom` bu dosyayı okuyup aynı noktadan sürer.
 
-**Aktif faz:** 0 — Altyapı + kalibrasyon
+**Aktif faz:** 1 — Kronolojik omurga
 **Aktif parti:** B01
-**Son güncelleme:** 2026-08-20T20:24:50.795Z
-**Son commit:** 6f8a583
+**Son güncelleme:** 2026-08-20T20:27:33.938Z
+**Son commit:** ef159f7
 
 | Sayaç | Değer |
 |---|---|
@@ -49,7 +50,7 @@ faz_parti_sayaci: {}
 
 | Metrik | Değer | Eşik |
 |---|---|---|
-| Kaynak doğrulama oranı | 0.9966 | 0.95 |
+| Kaynak doğrulama oranı | 0.9966 | 0.92 |
 | Makale başına ortalama kaynak | 3.6 | 3 |
 | Örnekleme kapısı son skor | - | 0.9 |
 

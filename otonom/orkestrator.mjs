@@ -102,6 +102,29 @@ export function kuyrukYaz(isler) {
   yaz(KUYRUK_YOLU, `# plan/kuyruk.yaml — merkezi iş listesi (§9)\n# durum: bekliyor|uretiliyor|denetleniyor|onarimda|onaylandi|karantina\n\n${YAML.stringify({ isler }, { lineWidth: 100 })}`);
 }
 
+/** plan/kapsam.yaml — projenin tam iş kapsamı, faza göre gruplanmış. */
+export function kapsamOku() {
+  const y = yamlOku(path.join(KOK, 'plan', 'kapsam.yaml'));
+  if (!y?.fazlar) return {};
+  const cikti = {};
+  for (const [faz, liste] of Object.entries(y.fazlar)) cikti[Number(faz)] = liste || [];
+  return cikti;
+}
+
+/** Kapsamdaki işleri kuyruğa ekler (zaten varsa atlar). */
+export function kuyrugaEkle(isler, faz, kapsamIsleri) {
+  const varOlan = new Set(isler.map((i) => i.id));
+  for (const k of kapsamIsleri) {
+    if (varOlan.has(k.id)) continue;
+    isler.push({
+      id: k.id, tip: k.id.split('-')[0], baslik: k.baslik,
+      durum: 'bekliyor', faz, bagimlilik: k.bagimlilik || [],
+      atanan_parti: null, deneme: 0, ...(k.yonerge ? { yonerge: k.yonerge } : {}),
+    });
+  }
+  return isler;
+}
+
 /** Bağımlılıkları çözülmüş, en fazla `parti_boyutu` kadar iş döndürür. */
 export function sonrakiParti(isler, faz, boyut = BUTCE.limitler.parti_boyutu) {
   const bitmis = new Set(isler.filter((i) => i.durum === 'onaylandi').map((i) => i.id));
@@ -247,7 +270,18 @@ async function dongu(secilenFaz = null) {
     return 3;
   }
 
-  const isler = kuyrukOku();
+  let isler = kuyrukOku();
+
+  // Boş kuyruk "faz bitti" DEMEK DEĞİLDİR — kuyruk henüz doldurulmamış olabilir.
+  // Bu ayrım olmadan hat, hiçbir şey üretmeden "tüm fazlar tamamlandı" diyebilir.
+  const kapsam = kapsamOku();
+  const fazIsleri = isler.filter((i) => i.faz === d.aktif_faz);
+  if (fazIsleri.length === 0 && kapsam[d.aktif_faz]?.length) {
+    isler = kuyrugaEkle(isler, d.aktif_faz, kapsam[d.aktif_faz]);
+    kuyrukYaz(isler);
+    console.log(RENK.yesil(`\nFaz ${d.aktif_faz} kuyrugu dolduruldu: ${kapsam[d.aktif_faz].length} is\n`));
+  }
+
   const parti = sonrakiParti(isler, d.aktif_faz);
 
   if (parti.length === 0) {
@@ -256,6 +290,16 @@ async function dongu(secilenFaz = null) {
     kapiYazdir(sonuc, d.aktif_faz);
     d.metrikler.kaynak_dogrulama_orani = sonuc.met.kaynak_dogrulama_orani;
     d.metrikler.ortalama_kaynak_sayisi = sonuc.met.ortalama_kaynak_sayisi;
+
+    // Kapı geçse bile faz hedefi tutmuyorsa faz BİTMEMİŞTİR.
+    const hedef = KAPILAR.faz_kapsamlari[d.aktif_faz]?.hedef ?? 0;
+    const uretilen = kuyrukOku().filter((i) => i.faz === d.aktif_faz && i.durum === 'onaylandi').length;
+    if (sonuc.gecti && uretilen < hedef) {
+      console.log(RENK.sari(`\nFaz ${d.aktif_faz} kapisi gecti ama hedef tutmadi: ${uretilen}/${hedef}. `
+        + 'Kuyruk doldurulmali; faz ILERLEMEZ.\n'));
+      durumYaz(d);
+      return 1;
+    }
 
     if (sonuc.gecti) {
       d.onarim = { tur: 0, hedef_faz: null, kok_neden: null };

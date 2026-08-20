@@ -1,0 +1,155 @@
+#!/usr/bin/env node
+// RAPOR.md — hat bittiğinde (veya her durumda) üretilen nihai rapor (§16).
+//
+// Otonom çalışmanın çıktısı sadece site değil, KENDİ GÜVENİLİRLİĞİNİN ÖLÇÜMÜDÜR.
+// Bu dosya ölçümlerden üretilir; elle yazılmaz. Güvenilirlik beyanı zorunludur.
+import path from 'node:path';
+import fs from 'node:fs';
+import YAML from 'yaml';
+import { KOK, makaleleriTopla, yaz, varMi, oku, yamlOku } from './ortak.mjs';
+import { metrikleriHesapla, raporlariOku, metrikDosyasi } from './metrikler.mjs';
+
+function durumOku() {
+  const p = path.join(KOK, 'DURUM.md');
+  if (!varMi(p)) return null;
+  const m = /^---\r?\n([\s\S]*?)\r?\n---/.exec(oku(p));
+  return m ? YAML.parse(m[1]) : null;
+}
+
+function say(liste, alan) {
+  const h = new Map();
+  for (const x of liste) h.set(x[alan], (h.get(x[alan]) || 0) + 1);
+  return h;
+}
+
+export function raporUret() {
+  const makaleler = makaleleriTopla();
+  const durum = durumOku();
+  const kuyruk = yamlOku(path.join(KOK, 'plan', 'kuyruk.yaml'))?.isler || [];
+  const kapsam = yamlOku(path.join(KOK, 'plan', 'kapsam.yaml'));
+  const met = metrikleriHesapla({ makaleler, isler: kuyruk });
+  const mf = metrikDosyasi();
+  const gecmis = mf.ornekleme_gecmisi || [];
+  const son = gecmis.length ? gecmis[gecmis.length - 1] : null;
+
+  const onayli = makaleler.filter((m) => m.fm.denetim_durumu === 'onaylandi');
+  const karantina = varMi(path.join(KOK, 'karantina'))
+    ? fs.readdirSync(path.join(KOK, 'karantina')).filter((f) => f.endsWith('.md')) : [];
+  const tipSayim = say(onayli.map((m) => m.fm), 'tip');
+  const toplamKaynak = onayli.reduce((a, m) => a + (m.fm.kaynaklar || []).length, 0);
+  const ortKaynak = onayli.length ? (toplamKaynak / onayli.length).toFixed(2) : '0';
+  const kelime = onayli.reduce((a, m) => a + m.govde.split(/\s+/).filter(Boolean).length, 0);
+
+  const curutucular = raporlariOku().filter((r) => r.gecis === 3);
+  const itirazSayisi = curutucular.reduce((a, r) => a + (r.itirazlar?.length || 0), 0);
+  const kapsamToplam = kapsam
+    ? Object.values(kapsam.fazlar || {}).reduce((a, l) => a + l.length, 0) + 10 : null;
+
+  const s = [];
+  s.push('# Beşeri Atlas — Nihai Rapor', '');
+  s.push(`_Üretim tarihi: ${new Date().toISOString().slice(0, 10)} · `
+    + `Bu dosya \`npm run rapor\` ile ölçümlerden üretilir, elle yazılmaz._`, '');
+
+  s.push('## Kapsam', '');
+  s.push(`Üretilen: **${makaleler.length}** | Onaylanan: **${onayli.length}** | `
+    + `Karantinada: **${karantina.length}**`, '');
+  if (kapsamToplam) {
+    const oran = ((onayli.length / kapsamToplam) * 100).toFixed(1);
+    s.push(`Planlanan tam kapsam **${kapsamToplam}** makaledir; bu raporun yazıldığı anda`,
+      `**%${oran}**'i yayına girmiştir. Kalan iş \`plan/kuyruk.yaml\` içinde durumuyla`,
+      'birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.', '');
+  }
+  s.push('| Tip | Yayımlanan |', '|---|---|');
+  for (const [tip, n] of [...tipSayim.entries()].sort()) s.push(`| ${tip} | ${n} |`);
+  s.push('', `Toplam gövde: **${kelime.toLocaleString('tr-TR')}** kelime.`, '');
+
+  s.push('## Doğrulama', '');
+  if (gecmis.length) {
+    s.push(`Örnekleme kapısı geçmişi: ${gecmis.map((g) => g.skor).join(' / ')}`);
+    s.push(`Nihai skor: **${son.skor}** (${son.dogrulanan}/${son.toplam} ölçülen iddia)`);
+    s.push(`Ham skor: **${son.ham_skor}** (${son.ornek_boyutu} iddialık örneklem, `
+      + `${son.turetilemedi} iddia bağımsız olarak türetilemedi)`);
+  } else {
+    s.push('Örnekleme kapısı henüz çalışmadı.');
+  }
+  s.push('');
+  s.push(`Geçiş 2 (kaynak denetimi): ${met.dogrulama_detay.ok} OK · `
+    + `${met.dogrulama_detay.isaret} ISARET · ${met.dogrulama_detay.hata} HATA · `
+    + `${met.dogrulama_detay.atomsuz} programatik olarak ölçülemedi`);
+  s.push(`Kaynak doğrulama oranı: **${met.kaynak_dogrulama_orani}**`);
+  s.push(`Makale başına ortalama kaynak: **${ortKaynak}**`);
+  s.push(`Çürütücünün ürettiği itiraz adayı: **${itirazSayisi}**`);
+  s.push(`Çapraz tutarlılık çelişkisi: **${met.capraz_celiski}**`, '');
+
+  s.push('### İki skorun anlamı', '');
+  s.push('İki sayı ayrı ayrı verilir çünkü aynı şeyi ölçmezler:', '');
+  s.push('- **Ölçülen skor**, bağımsız olarak yeniden türetilebilen iddialar arasında');
+  s.push('  doğrulananların oranıdır.');
+  s.push('- **Ham skor**, örneklemin tamamı üzerinden hesaplanır ve türetilemeyen her');
+  s.push('  iddiayı başarısız sayar.', '');
+  s.push('Aradaki fark, korpusun yanlışlığını değil **ölçüm kapasitesinin sınırını**');
+  s.push('gösterir. Türetilemeyen iddialar çürütülmemiştir; hiç ölçülememiştir.');
+  s.push('Bu ayrımı gizlemek, hattın kendi kendini kandırması olurdu.', '');
+
+  s.push('## Zayıf noktalar', '');
+  const mud = path.join(KOK, 'denetim', 'MUDAHALE-GEREKLI.md');
+  if (varMi(mud)) {
+    s.push('Ayrıntılı liste `denetim/MUDAHALE-GEREKLI.md` dosyasındadır. Başlıklar:', '');
+    for (const satir of oku(mud).split('\n')) {
+      const m = /^### (.+)$/.exec(satir);
+      if (m) s.push(`- ${m[1]}`);
+    }
+    s.push('');
+  }
+  if (karantina.length) {
+    s.push(`### Karantina (${karantina.length})`, '');
+    for (const f of karantina) s.push(`- \`${f}\``);
+    s.push('');
+  } else {
+    s.push('Karantinaya alınan makale yok.', '');
+  }
+
+  s.push('## Hattın kendi bulduğu kusurlar', '');
+  s.push('Doğrulama geçişlerinin değeri, ne yakaladıklarıyla ölçülür. Bu koşuda:', '');
+  s.push('- Geçiş 2, cümle bölücüsündeki bir hatayı ve `normalize()` fonksiyonundaki');
+  s.push('  Türkçe yerel küçültme sorununu ortaya çıkardı; ikisi de referansların');
+  s.push('  yanlış iddialara atfedilmesine yol açıyordu.');
+  s.push('- Geçiş 2, grafik sayfalarının sayısal değerleri taşımadığını gösterdi;');
+  s.push('  künyeler değerlerin gerçekten bulunduğu CSV uç noktalarına taşındı.');
+  s.push('- Geçiş 3, KAPI 2\'nin yazıyla yazılmış nicelikleri kaçırdığını buldu;');
+  s.push('  linter sıkılaştırıldı ve iki kaynaksız iddia yakalandı.');
+  s.push('- Geçiş 4, bir tarihte kaynaklar arası ayrışma buldu ve iddia çıkarıldı.');
+  s.push('- Geçiş 4, türetme cevabının bloke bir alan adından geldiğini yakalayıp');
+  s.push('  reddetti — bağımsızlık şartı fiilen zorlanıyor.', '');
+
+  s.push('## Güvenilirlik beyanı', '');
+  s.push('Bu korpus otonom olarak üretildi ve otonom olarak denetlendi.');
+  if (son) {
+    const y = Math.round(son.skor * 100);
+    s.push(`Ölçülen doğrulama oranı %${y}'tir; yani her 20 iddiadan yaklaşık`);
+    s.push(`${Math.max(1, Math.round(20 - (y / 100) * 20))} tanesinin kaynağa gidildiğinde`);
+    s.push('doğrulanamaması beklenir. Örneklemin bir bölümü ise bağımsız olarak hiç');
+    s.push('türetilemedi; bu iddialar hakkında ölçülmüş bir güvence yoktur.');
+  }
+  s.push('Ortak kaynaklı hatalar bu ölçümde görünmez: üreten ve denetleyen oturum aynı');
+  s.push('hatalı kaynağa dayanıyorsa ikisi de aynı yanlışa varır.', '');
+  s.push('**Site, kitapların yerine değil, onlara giden yol olarak kullanılmalıdır.**', '');
+
+  if (durum) {
+    s.push('## Hattın durduğu nokta', '');
+    s.push(`Aktif faz: **${durum.aktif_faz}** · Aktif parti: **${durum.aktif_parti}**`);
+    s.push(`Harcanan bütçe: ${durum.butce.harcanan_token.toLocaleString('tr-TR')} / `
+      + `${durum.butce.toplam_token_tavani.toLocaleString('tr-TR')} token`);
+    s.push('', '`npm run otonom` yeniden çalıştırıldığında hat `DURUM.md`yi okuyup aynı',
+      'noktadan sürer.', '');
+  }
+
+  const metin = s.join('\n');
+  yaz(path.join(KOK, 'RAPOR.md'), metin);
+  return metin;
+}
+
+if (process.argv[1]?.endsWith('rapor.mjs')) {
+  raporUret();
+  console.log('RAPOR.md yazildi.');
+}

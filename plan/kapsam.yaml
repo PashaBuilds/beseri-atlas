@@ -1,0 +1,242 @@
+# plan/kapsam.yaml — projenin tam iş kapsamı (§3, §4)
+#
+# Orkestratör bir faz açıldığında bu dosyadan kuyruğu doldurur.
+# Boş kuyruk "faz bitti" demek değildir; kuyruk doldurulmamış demektir.
+
+hedefler:
+  1: 16   # dönem — kronolojik omurga
+  2: 150  # ~100 olay + ~50 aktör
+  3: 100  # ~40 düşünür + ~60 kavram
+  4: 80   # ~25 tartışma + ~15 veri + ~40 kaynak
+
+fazlar:
+  1:
+    - { id: donem-01, baslik: "MÖ 10000–3000 — Tarım devrimi ve yerleşiklik" }
+    - { id: donem-02, baslik: "MÖ 3000–1200 — Tunç Çağı imparatorlukları ve yazı" }
+    - { id: donem-03, baslik: "MÖ 1200–500 — Çöküş, Demir Çağı, alfabe" }
+    - { id: donem-04, baslik: "MÖ 500–MS 200 — Eksen Çağı ve klasik imparatorluklar" }
+    - { id: donem-05, baslik: "200–650 — Geç antikite ve Roma–Sasani düellosu" }
+    - { id: donem-06, baslik: "650–1000 — İslam'ın yayılışı, Abbasi, Karolenj, Tang" }
+    - { id: donem-07, baslik: "1000–1350 — Selçuklu, Haçlılar, Song, Moğol dünya sistemi" }
+    - { id: donem-08, baslik: "1350–1500 — Kara Ölüm, Osmanlı yükselişi, Rönesans, Ming" }
+    - { id: donem-09, baslik: "1500–1650 — Keşifler, Reform, barut imparatorlukları" }
+    - { id: donem-10, baslik: "1650–1789 — Aydınlanma ve ilk küresel savaşlar" }
+    - { id: donem-11, baslik: "1789–1848 — Devrim Çağı" }
+    - { id: donem-12, baslik: "1848–1914 — Sermaye ve İmparatorluk Çağı" }
+    - { id: donem-14, baslik: "1945–1991 — Soğuk Savaş ve sömürgesizleşme" }
+    - { id: donem-15, baslik: "1991–2008 — Tek kutupluluk ve küreselleşme" }
+    - { id: donem-16, baslik: "2008–bugün — Çok kutupluluğa dönüş" }
+
+  2:
+    # ─── Olaylar ────────────────────────────────────────────────────────────
+    - { id: olay-neolitik-devrim, baslik: "Neolitik Devrim", bagimlilik: [donem-01] }
+    - { id: olay-gobeklitepe, baslik: "Göbeklitepe", bagimlilik: [donem-01] }
+    - { id: olay-yazinin-icadi, baslik: "Yazının icadı", bagimlilik: [donem-02] }
+    - { id: olay-tunc-cagi-cokusu, baslik: "Tunç Çağı çöküşü", bagimlilik: [donem-03] }
+    - { id: olay-pers-yunan-savaslari, baslik: "Pers–Yunan savaşları", bagimlilik: [donem-04] }
+    - { id: olay-iskender-seferleri, baslik: "İskender'in seferleri", bagimlilik: [donem-04] }
+    - { id: olay-pön-savaslari, baslik: "Pön Savaşları", bagimlilik: [donem-04] }
+    - { id: olay-han-hanedani-kurulusu, baslik: "Han hanedanının kuruluşu", bagimlilik: [donem-04] }
+    - { id: olay-roma-cumhuriyetinin-sonu, baslik: "Roma Cumhuriyeti'nin sonu", bagimlilik: [donem-04] }
+    - { id: olay-kavimler-gocu, baslik: "Kavimler Göçü", bagimlilik: [donem-05] }
+    - { id: olay-justinyen-vebasi, baslik: "Justinianus vebası", bagimlilik: [donem-05] }
+    - { id: olay-islam-fetihleri, baslik: "İlk İslam fetihleri", bagimlilik: [donem-06] }
+    - { id: olay-talas-savasi, baslik: "Talas Savaşı", bagimlilik: [donem-06] }
+    - { id: olay-malazgirt, baslik: "Malazgirt Savaşı", bagimlilik: [donem-07] }
+    - { id: olay-hacli-seferleri, baslik: "Haçlı Seferleri", bagimlilik: [donem-07] }
+    - { id: olay-mogol-fetihleri, baslik: "Moğol fetihleri", bagimlilik: [donem-07] }
+    - { id: olay-kara-olum, baslik: "Kara Ölüm", bagimlilik: [donem-08] }
+    - { id: olay-istanbulun-fethi, baslik: "İstanbul'un fethi", bagimlilik: [donem-08] }
+    - { id: olay-cheng-ho-seferleri, baslik: "Zheng He seferleri", bagimlilik: [donem-08] }
+    - { id: olay-amerikanin-kesfi, baslik: "Amerika'ya ulaşma", bagimlilik: [donem-09] }
+    - { id: olay-reform, baslik: "Protestan Reformu", bagimlilik: [donem-09] }
+    - { id: olay-vestfalya-barisi, baslik: "Vestfalya Barışı", bagimlilik: [donem-09] }
+    - { id: olay-otuz-yil-savaslari, baslik: "Otuz Yıl Savaşları", bagimlilik: [donem-09] }
+    - { id: olay-ingiliz-ic-savasi, baslik: "İngiliz İç Savaşı", bagimlilik: [donem-10] }
+    - { id: olay-yedi-yil-savasi, baslik: "Yedi Yıl Savaşı", bagimlilik: [donem-10] }
+    - { id: olay-amerikan-devrimi, baslik: "Amerikan Devrimi", bagimlilik: [donem-10] }
+    - { id: olay-fransiz-devrimi, baslik: "Fransız Devrimi", bagimlilik: [donem-11] }
+    - { id: olay-haiti-devrimi, baslik: "Haiti Devrimi", bagimlilik: [donem-11] }
+    - { id: olay-viyana-kongresi, baslik: "Viyana Kongresi", bagimlilik: [donem-11] }
+    - { id: olay-1848-devrimleri, baslik: "1848 Devrimleri", bagimlilik: [donem-11] }
+    - { id: olay-tanzimat-fermani, baslik: "Tanzimat Fermanı", bagimlilik: [donem-12] }
+    - { id: olay-taiping-isyani, baslik: "Taiping İsyanı", bagimlilik: [donem-12] }
+    - { id: olay-1857-hint-ayaklanmasi, baslik: "1857 Hint Ayaklanması", bagimlilik: [donem-12] }
+    - { id: olay-meiji-restorasyonu, baslik: "Meiji Restorasyonu", bagimlilik: [donem-12] }
+    - { id: olay-berlin-konferansi, baslik: "Berlin Konferansı ve Afrika paylaşımı", bagimlilik: [donem-12] }
+    - { id: olay-1905-rus-devrimi, baslik: "1905 Rus Devrimi", bagimlilik: [donem-12] }
+    - { id: olay-balkan-savaslari, baslik: "Balkan Savaşları", bagimlilik: [donem-12] }
+    - { id: olay-ekim-devrimi, baslik: "Ekim Devrimi", bagimlilik: [donem-13] }
+    - { id: olay-versailles-antlasmasi, baslik: "Versailles Antlaşması", bagimlilik: [donem-13] }
+    - { id: olay-buyuk-buhran, baslik: "Büyük Buhran", bagimlilik: [donem-13] }
+    - { id: olay-ispanya-ic-savasi, baslik: "İspanya İç Savaşı", bagimlilik: [donem-13] }
+    - { id: olay-ikinci-dunya-savasi, baslik: "İkinci Dünya Savaşı", bagimlilik: [donem-13] }
+    - { id: olay-bretton-woods, baslik: "Bretton Woods", bagimlilik: [donem-14] }
+    - { id: olay-hindistan-bolunmesi, baslik: "Hindistan'ın bölünmesi", bagimlilik: [donem-14] }
+    - { id: olay-cin-devrimi-1949, baslik: "Çin Devrimi (1949)", bagimlilik: [donem-14] }
+    - { id: olay-bandung-konferansi, baslik: "Bandung Konferansı", bagimlilik: [donem-14] }
+    - { id: olay-suveys-krizi, baslik: "Süveyş Krizi", bagimlilik: [donem-14] }
+    - { id: olay-kuba-fuze-krizi, baslik: "Küba Füze Krizi", bagimlilik: [donem-14] }
+    - { id: olay-1973-petrol-krizi, baslik: "1973 petrol krizi", bagimlilik: [donem-14] }
+    - { id: olay-sovyetler-dagilmasi, baslik: "Sovyetler Birliği'nin dağılması", bagimlilik: [donem-15] }
+    - { id: olay-2008-finansal-krizi, baslik: "2008 finansal krizi", bagimlilik: [donem-16] }
+    # ─── Aktörler ───────────────────────────────────────────────────────────
+    - { id: aktor-sumer-sehir-devletleri, baslik: "Sümer şehir devletleri", bagimlilik: [donem-02] }
+    - { id: aktor-misir-yeni-kralligi, baslik: "Mısır Yeni Krallığı", bagimlilik: [donem-02] }
+    - { id: aktor-hitit-imparatorlugu, baslik: "Hitit İmparatorluğu", bagimlilik: [donem-02] }
+    - { id: aktor-asur-imparatorlugu, baslik: "Asur İmparatorluğu", bagimlilik: [donem-03] }
+    - { id: aktor-ahameniş-imparatorlugu, baslik: "Ahameniş İmparatorluğu", bagimlilik: [donem-04] }
+    - { id: aktor-roma-imparatorlugu, baslik: "Roma İmparatorluğu", bagimlilik: [donem-04] }
+    - { id: aktor-han-imparatorlugu, baslik: "Han İmparatorluğu", bagimlilik: [donem-04] }
+    - { id: aktor-maurya-imparatorlugu, baslik: "Maurya İmparatorluğu", bagimlilik: [donem-04] }
+    - { id: aktor-sasani-imparatorlugu, baslik: "Sasani İmparatorluğu", bagimlilik: [donem-05] }
+    - { id: aktor-bizans-imparatorlugu, baslik: "Bizans İmparatorluğu", bagimlilik: [donem-05] }
+    - { id: aktor-abbasi-hilafeti, baslik: "Abbasi Hilafeti", bagimlilik: [donem-06] }
+    - { id: aktor-tang-hanedani, baslik: "Tang hanedanı", bagimlilik: [donem-06] }
+    - { id: aktor-karolenj-imparatorlugu, baslik: "Karolenj İmparatorluğu", bagimlilik: [donem-06] }
+    - { id: aktor-buyuk-selcuklu, baslik: "Büyük Selçuklu Devleti", bagimlilik: [donem-07] }
+    - { id: aktor-song-hanedani, baslik: "Song hanedanı", bagimlilik: [donem-07] }
+    - { id: aktor-mogol-imparatorlugu, baslik: "Moğol İmparatorluğu", bagimlilik: [donem-07] }
+    - { id: aktor-mali-imparatorlugu, baslik: "Mali İmparatorluğu", bagimlilik: [donem-07] }
+    - { id: aktor-hansa-birligi, baslik: "Hansa Birliği", bagimlilik: [donem-08] }
+    - { id: aktor-ming-hanedani, baslik: "Ming hanedanı", bagimlilik: [donem-08] }
+    - { id: aktor-safevi-devleti, baslik: "Safevi Devleti", bagimlilik: [donem-09] }
+    - { id: aktor-babur-imparatorlugu, baslik: "Babür İmparatorluğu", bagimlilik: [donem-09] }
+    - { id: aktor-ispanyol-imparatorlugu, baslik: "İspanyol İmparatorluğu", bagimlilik: [donem-09] }
+    - { id: aktor-hollanda-doguhindistan-sirketi, baslik: "Hollanda Doğu Hindistan Şirketi", bagimlilik: [donem-10] }
+    - { id: aktor-ingiliz-doguhindistan-sirketi, baslik: "İngiliz Doğu Hindistan Şirketi", bagimlilik: [donem-10] }
+    - { id: aktor-qing-hanedani, baslik: "Qing hanedanı", bagimlilik: [donem-10] }
+    - { id: aktor-rus-imparatorlugu, baslik: "Rus İmparatorluğu", bagimlilik: [donem-11] }
+    - { id: aktor-britanya-imparatorlugu, baslik: "Britanya İmparatorluğu", bagimlilik: [donem-12] }
+    - { id: aktor-alman-imparatorlugu, baslik: "Alman İmparatorluğu", bagimlilik: [donem-12] }
+    - { id: aktor-avusturya-macaristan, baslik: "Avusturya-Macaristan", bagimlilik: [donem-12] }
+    - { id: aktor-japonya-imparatorlugu, baslik: "Japonya İmparatorluğu", bagimlilik: [donem-13] }
+    - { id: aktor-sovyetler-birligi, baslik: "Sovyetler Birliği", bagimlilik: [donem-14] }
+    - { id: aktor-birlesmis-milletler, baslik: "Birleşmiş Milletler", bagimlilik: [donem-14] }
+    - { id: aktor-imf, baslik: "Uluslararası Para Fonu", bagimlilik: [donem-14] }
+    - { id: aktor-dunya-bankasi, baslik: "Dünya Bankası", bagimlilik: [donem-14] }
+    - { id: aktor-avrupa-birligi, baslik: "Avrupa Birliği", bagimlilik: [donem-15] }
+    - { id: aktor-dunya-ticaret-orgutu, baslik: "Dünya Ticaret Örgütü", bagimlilik: [donem-15] }
+    - { id: aktor-cin-halk-cumhuriyeti, baslik: "Çin Halk Cumhuriyeti", bagimlilik: [donem-16] }
+
+  3:
+    # ─── Düşünürler ─────────────────────────────────────────────────────────
+    - { id: dusunur-herodotos, baslik: "Herodotos" }
+    - { id: dusunur-thukydides, baslik: "Thukydides" }
+    - { id: dusunur-konfucyus, baslik: "Konfüçyüs" }
+    - { id: dusunur-platon, baslik: "Platon" }
+    - { id: dusunur-aristoteles, baslik: "Aristoteles" }
+    - { id: dusunur-kautilya, baslik: "Kautilya" }
+    - { id: dusunur-sima-qian, baslik: "Sima Qian" }
+    - { id: dusunur-tacitus, baslik: "Tacitus" }
+    - { id: dusunur-augustinus, baslik: "Augustinus" }
+    - { id: dusunur-farabi, baslik: "Fârâbî" }
+    - { id: dusunur-gazali, baslik: "Gazâlî" }
+    - { id: dusunur-ibn-rusd, baslik: "İbn Rüşd" }
+    - { id: dusunur-machiavelli, baslik: "Machiavelli" }
+    - { id: dusunur-hobbes, baslik: "Thomas Hobbes" }
+    - { id: dusunur-locke, baslik: "John Locke" }
+    - { id: dusunur-montesquieu, baslik: "Montesquieu" }
+    - { id: dusunur-smith, baslik: "Adam Smith" }
+    - { id: dusunur-kant, baslik: "Immanuel Kant" }
+    - { id: dusunur-malthus, baslik: "Thomas Malthus" }
+    - { id: dusunur-hegel, baslik: "G. W. F. Hegel" }
+    - { id: dusunur-clausewitz, baslik: "Carl von Clausewitz" }
+    - { id: dusunur-tocqueville, baslik: "Alexis de Tocqueville" }
+    - { id: dusunur-marx, baslik: "Karl Marx" }
+    - { id: dusunur-mill, baslik: "John Stuart Mill" }
+    - { id: dusunur-durkheim, baslik: "Émile Durkheim" }
+    - { id: dusunur-weber, baslik: "Max Weber" }
+    - { id: dusunur-mahan, baslik: "Alfred Thayer Mahan" }
+    - { id: dusunur-mackinder, baslik: "Halford Mackinder" }
+    - { id: dusunur-keynes, baslik: "John Maynard Keynes" }
+    - { id: dusunur-braudel, baslik: "Fernand Braudel" }
+    - { id: dusunur-polanyi, baslik: "Karl Polanyi" }
+    - { id: dusunur-carr, baslik: "E. H. Carr" }
+    - { id: dusunur-arendt, baslik: "Hannah Arendt" }
+    - { id: dusunur-foucault, baslik: "Michel Foucault" }
+    - { id: dusunur-wallerstein, baslik: "Immanuel Wallerstein" }
+    # ─── Kavramlar ──────────────────────────────────────────────────────────
+    - { id: kavram-guc-dengesi, baslik: "Güç dengesi" }
+    - { id: kavram-hegemonya, baslik: "Hegemonya" }
+    - { id: kavram-egemenlik, baslik: "Egemenlik" }
+    - { id: kavram-mesruiyet, baslik: "Meşruiyet" }
+    - { id: kavram-umran, baslik: "Umran" }
+    - { id: kavram-longue-duree, baslik: "Longue durée" }
+    - { id: kavram-eksen-cagi, baslik: "Eksen Çağı" }
+    - { id: kavram-goksel-yetki, baslik: "Göksel Yetki" }
+    - { id: kavram-feodalite, baslik: "Feodalite" }
+    - { id: kavram-timar, baslik: "Tımar" }
+    - { id: kavram-millet-sistemi, baslik: "Millet sistemi" }
+    - { id: kavram-merkantilizm, baslik: "Merkantilizm" }
+    - { id: kavram-kapitalizm, baslik: "Kapitalizm" }
+    - { id: kavram-ilkel-birikim, baslik: "İlkel birikim" }
+    - { id: kavram-dunya-sistemi, baslik: "Dünya sistemi" }
+    - { id: kavram-bagimlilik-kurami, baslik: "Bağımlılık kuramı" }
+    - { id: kavram-malthus-tuzagi, baslik: "Malthus tuzağı" }
+    - { id: kavram-buyuk-ayrisma, baslik: "Büyük Ayrışma" }
+    - { id: kavram-askeri-devrim, baslik: "Askerî devrim" }
+    - { id: kavram-barut-imparatorluklari, baslik: "Barut imparatorlukları" }
+    - { id: kavram-topyekun-savas, baslik: "Topyekûn savaş" }
+    - { id: kavram-caydiricilik, baslik: "Caydırıcılık" }
+    - { id: kavram-surtunme, baslik: "Sürtünme (Clausewitz)" }
+    - { id: kavram-milliyetcilik, baslik: "Milliyetçilik" }
+    - { id: kavram-ulus-devlet, baslik: "Ulus-devlet" }
+    - { id: kavram-emperyalizm, baslik: "Emperyalizm" }
+    - { id: kavram-somurgesizlesme, baslik: "Sömürgesizleşme" }
+    - { id: kavram-kuresellesme, baslik: "Küreselleşme" }
+    - { id: kavram-sekulerlesme, baslik: "Sekülerleşme" }
+    - { id: kavram-ideal-tip, baslik: "İdeal tip" }
+    - { id: kavram-kamusal-alan, baslik: "Kamusal alan" }
+    - { id: kavram-sivil-toplum, baslik: "Sivil toplum" }
+    - { id: kavram-tarihsel-materyalizm, baslik: "Tarihsel materyalizm" }
+    - { id: kavram-anakronizm, baslik: "Anakronizm" }
+    - { id: kavram-donemlendirme, baslik: "Dönemlendirme" }
+    - { id: kavram-kentlesme, baslik: "Kentleşme" }
+    - { id: kavram-yasam-beklentisi, baslik: "Yaşam beklentisi" }
+    - { id: kavram-gini-katsayisi, baslik: "Gini katsayısı" }
+
+  4:
+    # ─── Tartışmalar ────────────────────────────────────────────────────────
+    - { id: tartisma-tarim-devrimi-ilerleme-mi, baslik: "Tarım devrimi bir ilerleme miydi?" }
+    - { id: tartisma-tunc-cagi-cokusunun-nedeni, baslik: "Tunç Çağı çöküşünün nedeni neydi?" }
+    - { id: tartisma-eksen-cagi-gercek-mi, baslik: "Eksen Çağı gerçek bir olgu mu?" }
+    - { id: tartisma-romanin-cokus-nedeni, baslik: "Roma neden çöktü?" }
+    - { id: tartisma-feodalite-kavrami, baslik: "Feodalite kullanışlı bir kavram mı?" }
+    - { id: tartisma-mogol-etkisi, baslik: "Moğol istilası yıkım mı entegrasyon mu?" }
+    - { id: tartisma-kara-olumun-sonuclari, baslik: "Kara Ölüm Avrupa'yı dönüştürdü mü?" }
+    - { id: tartisma-osmanli-gerileme-tezi, baslik: "Osmanlı gerileme tezi geçerli mi?" }
+    - { id: tartisma-sanayi-devrimi-neden-ingiltere, baslik: "Sanayi Devrimi neden İngiltere'de?" }
+    - { id: tartisma-somurgeciligin-ekonomik-bilancosu, baslik: "Sömürgeciliğin ekonomik bilançosu" }
+    - { id: tartisma-fransiz-devrimi-yorumlari, baslik: "Fransız Devrimi nasıl yorumlanmalı?" }
+    - { id: tartisma-milliyetcilik-ne-zaman, baslik: "Milliyetçilik ne zaman doğdu?" }
+    - { id: tartisma-ikinci-dunya-savasi-sorumlulugu, baslik: "İkinci Dünya Savaşı'nın sorumluluğu" }
+    - { id: tartisma-soguk-savasin-baslangici, baslik: "Soğuk Savaş'ı kim başlattı?" }
+    - { id: tartisma-kalkinma-neden-basarisiz, baslik: "Kalkınma politikaları neden başarısız oldu?" }
+    - { id: tartisma-demografik-donum-sonuclari, baslik: "Nüfus daralması ne anlama geliyor?" }
+    # ─── Veri ───────────────────────────────────────────────────────────────
+    - { id: veri-yasam-beklentisi-1770-2023, baslik: "Yaşam beklentisi, 1770–2023" }
+    - { id: veri-kisi-basi-gsyh-1-2022, baslik: "Kişi başına GSYH, MS 1–2022" }
+    - { id: veri-savas-kayiplari-1800-2023, baslik: "Savaş kayıpları, 1800–2023" }
+    - { id: veri-kentlesme-orani-1500-2023, baslik: "Kentleşme oranı, 1500–2023" }
+    - { id: veri-dogurganlik-hizi-1950-2023, baslik: "Toplam doğurganlık hızı, 1950–2023" }
+    - { id: veri-okuryazarlik-1475-2023, baslik: "Okuryazarlık, 1475–2023" }
+    - { id: veri-enerji-tuketimi-1800-2023, baslik: "Enerji tüketimi, 1800–2023" }
+    - { id: veri-kuresel-esitsizlik, baslik: "Küresel gelir eşitsizliği" }
+    # ─── Kaynak dosyaları ───────────────────────────────────────────────────
+    - { id: kaynak-thukydides-peloponnesos, baslik: "Thukydides — Peloponnesos Savaşı" }
+    - { id: kaynak-ibn-haldun-mukaddime, baslik: "İbn Haldûn — Mukaddime" }
+    - { id: kaynak-machiavelli-prens, baslik: "Machiavelli — Prens" }
+    - { id: kaynak-hobbes-leviathan, baslik: "Hobbes — Leviathan" }
+    - { id: kaynak-smith-uluslarin-zenginligi, baslik: "Adam Smith — Ulusların Zenginliği" }
+    - { id: kaynak-clausewitz-savas-uzerine, baslik: "Clausewitz — Savaş Üzerine" }
+    - { id: kaynak-gibbon-roma, baslik: "Gibbon — Roma İmparatorluğu'nun Gerileyiş ve Çöküşü" }
+    - { id: kaynak-mackinder-cografi-eksen, baslik: "Mackinder — Tarihin Coğrafi Ekseni" }
+    - { id: kaynak-mahan-deniz-gucu, baslik: "Mahan — Deniz Gücünün Tarihe Etkisi" }
+    - { id: kaynak-braudel-akdeniz, baslik: "Braudel — Akdeniz" }
+    - { id: kaynak-polanyi-buyuk-donusum, baslik: "Polanyi — Büyük Dönüşüm" }
+    - { id: kaynak-carr-tarih-nedir, baslik: "E. H. Carr — Tarih Nedir?" }
+    - { id: kaynak-hobsbawm-caglar, baslik: "Hobsbawm — Çağlar dörtlemesi" }
+    - { id: kaynak-pomeranz-buyuk-ayrisma, baslik: "Pomeranz — The Great Divergence" }
+    - { id: kaynak-tooze-felaketin-bedeli, baslik: "Tooze — The Wages of Destruction" }
+    - { id: kaynak-milanovic-kuresel-esitsizlik, baslik: "Milanović — Global Inequality" }
