@@ -1,0 +1,28 @@
+{
+  "id": "donem-16",
+  "gecis": 3,
+  "zaman": "2026-08-20T21:01:26.362Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bu dönem, kronolojik omurganın hem sonu hem de en belirsiz halkasıdır: hakkında yazdığımız süreçler henüz kapanmamıştır. Demograflar dünya nüfusunun bu yüzyılın sonunda tepe noktas",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "**Bu bölümün sınırı.** Bu dönem için kullanılan kaynaklar demografik ve iktisadi niteliktedir: nüfus artış hızı serisi tarihsel BM tahminlerine ve 2100'e kadarki orta projeksiyona ",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Dönemin siyasi biçimi hakkında kesin bir şey söylemek için erkendir; bu makale bu yüzden bir dönem tanısı koymaz. Söylenebilecek olan, önceki dönemin bütünleşme sürecinin kendi kar",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

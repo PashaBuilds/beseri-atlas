@@ -9,6 +9,7 @@ guven_geneli: yaygin
 etiketler: [demografik-gecis, nufus, olumluluk, dogurganlik, malthus]
 ilgili:
   - veri-dunya-nufusu-1500-2025
+  - donem-16
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

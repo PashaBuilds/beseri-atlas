@@ -1,0 +1,85 @@
+{
+  "id": "donem-15",
+  "gecis": 2,
+  "zaman": "2026-08-20T21:01:11.371Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Küreselleşme, dünya çapındaki farklı ülkelerin ekonomileri, toplumları ve kültürleri arasındaki bütünleşmeyi anlatır ve bir dizi etkene bağlanır: uluslararası t",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Süreç, Sanayi Devrimi'nin ardından ulaşım ve iletişim teknolojilerindeki ilerlemelerle hızlandı; bu gelişmeler küresel etkileşimleri artırdı, uluslararası ticar",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sanayi, Devrimi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dört bölgenin dönemdeki rolleri, aynı mekanizmanın farklı uçlarıdır: ticaret engellerinin azalması, sermaye hareketlerinin serbestleşmesi ve ulaşım altyapısı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bölgenin dönemdeki en belirgin özelliği demografiktir; küresel nüfus artışının ağırlık merkezi bu yıllarda kaymaya başlamıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kullanılan kaynak küreselleşmeyi ülkelerin ekonomileri, toplumları ve kültürleri arasındaki bütünleşme olarak tematik biçimde tanımlar, bölgesel başlıklar altın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1991'de yaklaşık 5,42 milyar, 2008'de yaklaşık 6,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1990 ile 2010 arasındaki küresel eğilimleri ayrı bir çerçevede ele alır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Küreselleşmenin kurumsal simgelerinden biri, uluslararası toprak statüsündeki Birleşmiş Milletler genel merkezidir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ticaret engellerinin azaltılması ve sermaye hareketlerinin serbestleşmesi birer teknik düzenleme gibi görünür; ama hangi ülkenin neyi üretebileceğini belirledik",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "yüzyılın çoğu döneminden daha azdır; 1990'larda çok daha düşük düzeylere inen çatışma ölümleri, izleyen on yıllarda önceki zirvelerin altında kalmıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çatışma ölümlerinin sayısı yıldan yıla çok değişebilir: 2005'te silahlı çatışmalarda 20.000'den az insan ölürken, 1994'te Ruanda'daki soykırımın ardından bu say",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Küreselleşme insanları yabancı insanlar ve kültürlerle temasa geçirme eğilimindedir; kaynak, bu süreçlerin altında yatan kültürel asimilasyon ve kültürel temell",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, dönemin en önemli iç gerilimidir: aynı süreç hem bir birleşme anlatısı hem de yabancı korkusuyla beslenen bir tepki üretir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

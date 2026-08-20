@@ -1,5 +1,5 @@
 # Çürütücü raporu — kaynak-clark-uyurgezerler
-_2026-08-20T20:05:55.241Z_
+_2026-08-20T21:01:26.369Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 

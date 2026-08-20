@@ -1,5 +1,5 @@
 # Çürütücü raporu — olay-1914-temmuz-krizi
-_2026-08-20T20:05:55.235Z_
+_2026-08-20T21:01:26.362Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 

@@ -82,7 +82,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "OSMANLILAR"
 son_denetim: 2026-08-20
-denetim_durumu: bekliyor
+denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 

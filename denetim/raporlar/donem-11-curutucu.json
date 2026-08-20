@@ -1,0 +1,21 @@
+{
+  "id": "donem-11",
+  "gecis": 3,
+  "zaman": "2026-08-20T21:01:26.357Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dönemin açılış belgesi, siyasi meşruiyetin dayanağını tek cümlede değiştirir: insanlar haklar bakımından özgür ve eşit doğar ve öyle kalır; toplumsal ayrımlar ancak genel iyilik",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Bu formülün dinî çerçeveden tamamen kopmadığını da not etmek gerekir: metin, hakların Yüce Varlık'ın huzurunda ve onun himayesinde ilan edildiğini yazar.[^k1] Yeni meşruiyet dili, ",
+      "sorun": "Kesinlik ifadesi \"tamamen\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    }
+  ]
+}

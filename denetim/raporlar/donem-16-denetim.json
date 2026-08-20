@@ -1,0 +1,85 @@
+{
+  "id": "donem-16",
+  "gecis": 2,
+  "zaman": "2026-08-20T21:01:11.413Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Demograflar dünya nüfusunun bu yüzyılın sonunda tepe noktasına ulaşmasını bekliyor; yani dönemin tanımlayıcı eğilimi bile henüz gerçekleşmemiş bir projeksiyondu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bugün dünyada sekiz milyardan fazla insan var; ancak çok hızlı bir nüfus artışı döneminin ardından demograflar dünya nüfusunun bu yüzyılın sonunda tepe noktasın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yaygın bir yanlış kanının aksine küresel nüfus üstel olarak büyümüyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nüfus mutlak sayılarla artmayı sürdürse de artış hızı onlarca yıl önce zirve yaptı: küresel nüfus artış hızı 1960'larda yılda yüzde ikinin üzerinde tepe noktası",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birleşmiş Milletler bu hızların yüzyıl sonuna kadar düşmeye devam etmesini bekliyor.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Milletler"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dünya \"çocuk zirvesini\" geçmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dönem için kullanılan kaynaklar demografik ve iktisadi niteliktedir: nüfus artış hızı serisi tarihsel BM tahminlerine ve 2100'e kadarki orta projeksiyona day",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli seride dünya nüfusu 2008'de yaklaşık 6,84 milyar, 2023'te yaklaşık 8,09 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu yavaşlamanın ardındaki veri, yıllık artış hızının 1960'lardaki yüzde iki zirvesinden yüzde birin altına inmesidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Serinin kendisi tarihsel BM tahminlerine ve 2100'e kadarki orta projeksiyona dayanır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Söylenebilecek olan, önceki dönemin bütünleşme sürecinin kendi karşıtını da ürettiğidir: küreselleşme insanları yabancı insanlar ve kültürlerle temasa geçirme e",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nüfusun yüzyıl sonunda tepe yapması beklentisi, iki yüzyıldır sürekli büyüyen bir dünyaya göre kurulmuş iktisadi ve siyasi kurumların varsayımını değiştirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı zamanda, küreselleşmenin kültürel sonuçları üzerine tartışma da bu dönemde yoğunlaştı; kültürel asimilasyon ve temellük tartışmaları, bütünleşmenin kaçınıl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -18,6 +18,9 @@ guven_geneli: tartismali
 etiketler: [buyuk-ayrisma, sanayi-devrimi, kurumlar, somurgecilik, kalifornia-okulu]
 ilgili:
   - aktor-osmanli-imparatorlugu
+  - donem-04
+  - donem-09
+  - donem-16
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

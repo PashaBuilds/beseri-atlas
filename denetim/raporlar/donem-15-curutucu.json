@@ -1,0 +1,28 @@
+{
+  "id": "donem-15",
+  "gecis": 3,
+  "zaman": "2026-08-20T21:01:26.361Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "**Bu bölümün sınırı.** Kullanılan kaynak küreselleşmeyi ülkelerin ekonomileri, toplumları ve kültürleri arasındaki bütünleşme olarak tematik biçimde tanımlar, bölgesel başlıklar al",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dönemin siyasi biçimi, iki kutuplu düzenin sona ermesinin ardından kurulan tek merkezli düzendir. Küreselleşmenin kurumsal simgelerinden biri, uluslararası toprak statüsündeki Birl",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, dönemin en önemli iç gerilimidir: aynı süreç hem bir birleşme anlatısı hem de yabancı korkusuyla beslenen bir tepki üretir.[^k1] Bu gerilimin siyasi biçim kazanması bir sonraki",
+      "sorun": "\"en önemli\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

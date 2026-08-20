@@ -1,0 +1,85 @@
+{
+  "id": "donem-14",
+  "gecis": 2,
+  "zaman": "2026-08-20T21:01:11.318Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Soğuk Savaş, 1947 ile 1991 arasında ABD ile SSCB arasındaki jeopolitik rekabeti anlatır ve kırk dört yıl dokuz ay sürmüştür.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kıta iki askerî bloka bölündü; NATO ve Varşova Paktı devletlerinin 1988'deki dağılımı dönemin standart haritasıdır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İlk kriz hatları Demir Perde, İran, Türkiye, Yunanistan ve Polonya başlıkları altında ele alınır; Marshall Planı, Çekoslovakya darbesi ve iki Alman devletinin k",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin ilk evresi çevreleme, Truman Doktrini ve Kore Savaşı başlığıyla 1947-1953 arasına yerleştirilir.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin kapanışı 1985-1991 arasına yerleştirilir ve Gorbaçov'un reformları, ilişkilerde yumuşama, Doğu Avrupa'nın ayrılması ve Sovyet dağılması başlıklarını içe",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu üç bölge dönemin sömürgesizleşme dalgasının merkezindeydi; kullanılan Soğuk Savaş kaynağı onları kendi başlıkları altında ele almadığı için şerit satırları n",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "NATO ve Varşova Paktı'nın karşılıklı dizilişi bu yapının kurumsal ifadesidir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Varşova, Paktı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Marshall Planı örneğinde görüldüğü gibi, hâkim güç, müttefiklerini fetihle değil yeniden inşa finansmanıyla bağlar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Planı"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İkinci Dünya Savaşı'ndan sonraki yıllarda çatışmalarda birkaç milyon insan öldü; 1950'lerde çok daha düşük düzeylere indikten sonra çatışma ölümleri 1970'ler ve",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çatışmaların iki dünya savaşı ve Soğuk Savaş'ın ilk yıllarında zirve yapması, dönemin rekabetinin doğrudan çarpışmaya dönüşmediği ama üçüncü bölgelerde sürdürül",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin fikir dünyası, ABD ile SSCB arasındaki jeopolitik rekabetin iki rakip kalkınma modeline dönüşmesiyle kurulur.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): ABD, SSCB"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sovyet dağılması ve Doğu Avrupa'nın ayrılmasıyla bu ikili çerçeve sona erdi; yerine kurulan düzen bir sonraki dönemin konusudur ve dosyasında ele alınıyor.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    }
+  ]
+}

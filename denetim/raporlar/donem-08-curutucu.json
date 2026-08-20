@@ -1,0 +1,42 @@
+{
+  "id": "donem-08",
+  "gecis": 3,
+  "zaman": "2026-08-20T21:01:26.347Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "**Avrupa.** Salgının tahmini ölü sayısı 25 ile 50 milyon arasındadır.[^k1] Çağdaşları olayı *salgın* ya da *büyük salgın*, *veba* ya da *büyük ölüm* diye adlandırdı; pandeminin ard",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "**Doğu Asya ve Orta Avrasya.** Kara Ölüm'ün kökeni tartışmalıdır.[^k1] Genetik analiz, *Yersinia pestis* bakterisinin yaklaşık yedi bin yıl önce, Neolitik'in başında evrildiğini; p",
+      "sorun": "\"en erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Osmanlı örneği, bir beylikten imparatorluğa geçişin kurumsal adımlarını gösterir: Türk-İslam dünyasındaki en uzun ömürlü devlet olarak nitelenen yapı, siyasi tarihini klasik dönem ",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Salgının kendisi, dönemin çatışma tarihinin arka planını oluşturur: nüfusun azalması hem orduları küçültür hem de emeğin pazarlık gücünü artırır. Pandeminin ekonomik sonuçları bu y",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kara Ölüm'ün fikir dünyasındaki izi, adlandırmanın kendisinden okunabilir. Olayın çağdaş adları — *büyük salgın*, *büyük ölüm* — ölçeği vurgular; sonradan gelen *ilk salgın* adland",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 # plan/kuyruk.yaml — merkezi iş listesi (§9)
-# durum: bekliyor|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
+# durum: onaylandi|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
 
 isler:
   - id: donem-13
@@ -149,7 +149,7 @@ isler:
   - id: donem-06
     tip: donem
     baslik: 650–1000 — İslam'ın yayılışı, Abbasi, Karolenj, Tang
-    durum: bekliyor
+    durum: onaylandi
     faz: 1
     bagimlilik: []
     atanan_parti: null
@@ -157,7 +157,7 @@ isler:
   - id: donem-07
     tip: donem
     baslik: 1000–1350 — Selçuklu, Haçlılar, Song, Moğol dünya sistemi
-    durum: bekliyor
+    durum: onaylandi
     faz: 1
     bagimlilik: []
     atanan_parti: null
@@ -165,7 +165,7 @@ isler:
   - id: donem-08
     tip: donem
     baslik: 1350–1500 — Kara Ölüm, Osmanlı yükselişi, Rönesans, Ming
-    durum: bekliyor
+    durum: onaylandi
     faz: 1
     bagimlilik: []
     atanan_parti: null
@@ -173,7 +173,7 @@ isler:
   - id: donem-09
     tip: donem
     baslik: 1500–1650 — Keşifler, Reform, barut imparatorlukları
-    durum: bekliyor
+    durum: onaylandi
     faz: 1
     bagimlilik: []
     atanan_parti: null
@@ -181,7 +181,7 @@ isler:
   - id: donem-10
     tip: donem
     baslik: 1650–1789 — Aydınlanma ve ilk küresel savaşlar
-    durum: bekliyor
+    durum: onaylandi
     faz: 1
     bagimlilik: []
     atanan_parti: null
@@ -189,7 +189,7 @@ isler:
   - id: donem-11
     tip: donem
     baslik: 1789–1848 — Devrim Çağı
-    durum: bekliyor
+    durum: onaylandi
     faz: 1
     bagimlilik: []
     atanan_parti: null
@@ -197,7 +197,7 @@ isler:
   - id: donem-12
     tip: donem
     baslik: 1848–1914 — Sermaye ve İmparatorluk Çağı
-    durum: bekliyor
+    durum: onaylandi
     faz: 1
     bagimlilik: []
     atanan_parti: null
@@ -205,7 +205,7 @@ isler:
   - id: donem-14
     tip: donem
     baslik: 1945–1991 — Soğuk Savaş ve sömürgesizleşme
-    durum: bekliyor
+    durum: onaylandi
     faz: 1
     bagimlilik: []
     atanan_parti: null
@@ -213,7 +213,7 @@ isler:
   - id: donem-15
     tip: donem
     baslik: 1991–2008 — Tek kutupluluk ve küreselleşme
-    durum: bekliyor
+    durum: onaylandi
     faz: 1
     bagimlilik: []
     atanan_parti: null
@@ -221,7 +221,7 @@ isler:
   - id: donem-16
     tip: donem
     baslik: 2008–bugün — Çok kutupluluğa dönüş
-    durum: bekliyor
+    durum: onaylandi
     faz: 1
     bagimlilik: []
     atanan_parti: null

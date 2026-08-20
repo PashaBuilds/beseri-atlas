@@ -1,0 +1,127 @@
+{
+  "id": "donem-12",
+  "gecis": 2,
+  "zaman": "2026-08-20T21:01:11.246Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Yeni Emperyalizm çağında Avrupa güçleri ve Japonya, Afrika'nın neredeyse tamamını ve Asya'nın bazı kısımlarını tek tek fethetti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kıtanın paylaşımı dönemin en yoğun incelenen olgusudur; Berlin Konferansı, Britanya sömürgeleri ve Kongo Serbest Devleti ayrı başlıklar altında ele alınır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Konferansın hedeflerinden biri Orta Afrika'nın ticareti, seyrüseferi ve sınırları konusunda anlaşmalara varmaktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Leopold Uluslararası Afrika Derneği'ni kurdu.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dernek, uluslararası bir bilim ve hayırseverlik kuruluşu görüntüsü altında çalışıyordu; gerçekte Leopold'a ait özel bir holding şirketiydi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sömürge yönetiminin şiddeti kayıt altındadır: 1904-1907 arasında Alman Güneybatı Afrikası'nda Herero savaşları, 1905-1907 arasında Alman Doğu Afrikası'nda Maji ",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin iktisadi arka planı uzun bir fiyat deflasyonudur; ağır iş daralmalarıyla kesilen bu dönem hükümetleri yerli sanayiyi desteklemeye zorladı ve Avrupa güçl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yeni Emperyalizm incelemeleri Güney Asya'yı Hindistan, Doğu Asya'yı Çin, Okyanusya'yı ise Şili genişlemesi başlığıyla ayrı ayrı ele alır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mahmud ve Tanzimat devirleri, devletin idari, siyasi, sosyal, kültürel ve ekonomik açılardan âdeta yeni bir şekle dönüştürüldüğü dönem olarak tanımlanır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yaklaşık 1,82 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İktisadi tarafta belirleyici olan, fiyat deflasyonunun yarattığı baskıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yeni emperyalizm dalgası, büyük güçler arasındaki süregelen rekabetleri, yeni kaynak ve pazarlara duyulan iktisadi arzuyu ve bir medenileştirme söylemini bir ar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Berlin Konferansı örneği, bu biçimin nasıl kurulduğunu gösterir: Orta Afrika'nın ticareti, seyrüseferi ve sınırları üzerine anlaşmaya varmayı hedefleyen bir top",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kongo örneği bu biçimin en uç hâlidir: özel bir holding şirketinin bilimsel ve hayırsever bir dernek görüntüsü altında bir toprağı yönetmesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birincisi sömürge savaşlarıdır: Herero savaşları ve Maji Maji İsyanı bu düzeyin kayıtlı örnekleridir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkincisi büyük güçler arasındaki emperyal rekabetlerdir; bu rekabetler ayrı bir inceleme başlığı oluşturur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki düzey birbirini besler: yeni emperyalizm dalgası, büyük güçler arasındaki süregelen rekabetleri ve yeni kaynak ile pazarlara duyulan iktisadi arzuyu bir ara",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yeni emperyalizm dalgasının bileşenleri arasında bir medenileştirme söylemi sayılır; insancıllık, motivasyon başlığı altında ayrıca incelenir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yeni emperyalizm dalgasının bileşenleri arasında bir medenileştirme söylemi sayılır; insancıllık, motivasyon başlığı altında ayrıca incelenir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin kuram başlığı altında İngiltere'nin Genişlemesi, centilmen kapitalizmi, serbest ticaret emperyalizmi, Emperyalizm: Bir İnceleme ve Emperyalizm, Kapitali",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    }
+  ]
+}

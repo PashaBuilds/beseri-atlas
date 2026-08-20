@@ -1,5 +1,5 @@
 # Çürütücü raporu — kavram-asabiyet
-_2026-08-20T20:05:55.238Z_
+_2026-08-20T21:01:26.365Z_
 
 ## İtiraz 1 — [ciddiyet: orta] tek-kaynakli-nedensellik
 
@@ -11,7 +11,7 @@ _2026-08-20T20:05:55.238Z_
 
 ## İtiraz 2 — [ciddiyet: dusuk] ustunluk-iddiasi
 
-**Cümle:** "Kavramı ilk defa ilmî ve nesnel bir yöntemle inceleyen ve tarih ile devlet felsefesini açıklarken ona en büyük ağırlığı veren düşünür İbn Haldûn'dur.[^k1] Kendisi kavramın felsefes"
+**Cümle:** "TDV İslâm Ansiklopedisi, kavramı ilk defa ilmî ve nesnel bir yöntemle inceleyen ve tarih ile devlet felsefesini açıklarken ona en büyük ağırlığı veren İslam mütefekkirinin İbn Hald"
 
 **Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
 

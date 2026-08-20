@@ -1,5 +1,5 @@
 # Çürütücü raporu — donem-04
-_2026-08-20T20:43:26.596Z_
+_2026-08-20T21:01:26.343Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 

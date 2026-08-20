@@ -1,0 +1,21 @@
+{
+  "id": "donem-06",
+  "gecis": 3,
+  "zaman": "2026-08-20T21:01:26.345Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "**İslam dünyası.** Râşidîn ve Emevî hilafetleri Roma topraklarının güney kısmını fethetti.[^k2] Ardından gelen Abbasi hanedanı, adını Hz. Muhammed'in amcası Abbas b. Abdülmuttalib ",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dönemin fikir dünyasının en çarpıcı özelliği, tek bir siyasi çatı altında birden fazla dinin bir arada bulunmasıdır. Tang'da çoğunluk dinleri Çin Budizmi, Taoizm ve Çin halk diniyk",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

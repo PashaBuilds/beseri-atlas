@@ -1,0 +1,35 @@
+{
+  "id": "donem-09",
+  "gecis": 3,
+  "zaman": "2026-08-20T21:01:26.355Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "yuksek",
+      "tip": "anakronizm",
+      "cumle": "İktisadi tarafta dönem, ticari kapitalizmin ve yeni ekonominin ortaya çıkışıyla tanımlanır; ticaret ve yeni ekonomi, korsanlığın altın çağıyla birlikte aynı başlık altında inceleni",
+      "sorun": "\"kapitalizm\" kavramı yaklaşık 1750'den itibaren kullanılıyor; makale 1650'te bitiyor.",
+      "oneri": "Kavramı dönemin kendi diliyle değiştir ya da geriye dönük okuma olduğunu açıkça belirt."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Ateşli silahın belirleyiciliği konusunda dikkatli olmak gerekir. Benzer askerî araçları kullanmasına rağmen farklı sonuçlara ulaşan örnekler vardır — Sûrî İmparatorluğu bunlardan b",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu listenin ilk üçü aynı olgunun farklı yüzleridir: dinî otoritenin parçalanmasının açtığı boşlukta hem yeni bir dinî düzen hem de yeni bir bilgi düzeni kurulmaya çalışılır. Matbaa",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "yuksek",
+      "tip": "anakronizm",
+      "cumle": "Dönemin geç modern döneme geçişi, 18. yüzyıl sonlarında Sanayi Devrimi'nin getirdiği büyük gelişmelerle işaretlenir;[^k1] o geçiş [1650–1789](/donem/10/) dosyasında ele alınıyor.",
+      "sorun": "\"sanayi devrimi\" kavramı yaklaşık 1760'den itibaren kullanılıyor; makale 1650'te bitiyor.",
+      "oneri": "Kavramı dönemin kendi diliyle değiştir ya da geriye dönük okuma olduğunu açıkça belirt."
+    }
+  ]
+}

@@ -1,8 +1,35 @@
 {
-  "zaman": "2026-08-20T20:22:00.002Z",
-  "makale_sayisi": 10,
+  "zaman": "2026-08-20T21:02:13.470Z",
+  "makale_sayisi": 25,
   "celiskiler": [],
   "incelenecek": [
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-03",
+        "donem-13"
+      ],
+      "detay": "\"Libya\" — donem-03: 1200 / donem-13: 1923"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-03",
+        "donem-16"
+      ],
+      "detay": "\"Nüfus\" — donem-03: 1000 / donem-16: 1960"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-osmanli-imparatorlugu",
+        "kaynak-clark-uyurgezerler"
+      ],
+      "detay": "\"Rusya\" — aktor-osmanli-imparatorlugu: 1792 / kaynak-clark-uyurgezerler: 1912"
+    },
     {
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
@@ -47,15 +74,6 @@
         "kaynak-clark-uyurgezerler"
       ],
       "detay": "\"Sırbistan\" — olay-1914-temmuz-krizi: 1914 / kaynak-clark-uyurgezerler: 1912"
-    },
-    {
-      "tur": "varlik-yil-ayrismasi",
-      "seviye": "incele",
-      "makaleler": [
-        "aktor-osmanli-imparatorlugu",
-        "kaynak-clark-uyurgezerler"
-      ],
-      "detay": "\"Rusya\" — aktor-osmanli-imparatorlugu: 1792 / kaynak-clark-uyurgezerler: 1912"
     }
   ]
 }

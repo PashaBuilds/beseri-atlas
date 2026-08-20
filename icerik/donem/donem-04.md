@@ -83,7 +83,7 @@ kaynaklar:
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "The origin and goal of history"
 son_denetim: 2026-08-20
-denetim_durumu: bekliyor
+denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 

@@ -1,5 +1,5 @@
 # Çürütücü raporu — donem-13
-_2026-08-20T20:05:55.231Z_
+_2026-08-20T21:01:26.358Z_
 
 ## İtiraz 1 — [ciddiyet: orta] tek-kaynakli-nedensellik
 

@@ -19,6 +19,8 @@ ilgili:
   - olay-1914-temmuz-krizi
   - tartisma-1914-savas-sorumlulugu
   - aktor-osmanli-imparatorlugu
+  - donem-12
+  - donem-14
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 serit:

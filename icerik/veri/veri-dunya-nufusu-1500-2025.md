@@ -13,6 +13,7 @@ guven_geneli: yaygin
 etiketler: [nufus, demografik-gecis, veri-seti, projeksiyon]
 ilgili:
   - kavram-demografik-gecis
+  - donem-16
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/dunya-nufusu.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

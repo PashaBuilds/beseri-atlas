@@ -77,7 +77,7 @@ kaynaklar:
     dogrulama_dizesi: "The Peloponnesian War"
     not: "Salgın anlatısının klasik öncülü için karşılaştırma kaynağı"
 son_denetim: 2026-08-20
-denetim_durumu: bekliyor
+denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 

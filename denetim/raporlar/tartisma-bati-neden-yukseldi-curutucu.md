@@ -1,5 +1,5 @@
 # Çürütücü raporu — tartisma-bati-neden-yukseldi
-_2026-08-20T20:05:55.240Z_
+_2026-08-20T21:01:26.367Z_
 
 ## İtiraz 1 — [ciddiyet: orta] tek-kaynakli-nedensellik
 

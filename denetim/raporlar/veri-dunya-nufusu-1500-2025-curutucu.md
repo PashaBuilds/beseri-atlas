@@ -1,5 +1,5 @@
 # Çürütücü raporu — veri-dunya-nufusu-1500-2025
-_2026-08-20T20:05:55.240Z_
+_2026-08-20T21:01:26.368Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 

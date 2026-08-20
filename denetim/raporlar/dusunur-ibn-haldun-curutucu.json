@@ -1,7 +1,7 @@
 {
   "id": "dusunur-ibn-haldun",
   "gecis": 3,
-  "zaman": "2026-08-20T20:05:55.237Z",
+  "zaman": "2026-08-20T21:01:26.364Z",
   "itirazlar": [
     {
       "ciddiyet": "dusuk",
@@ -20,16 +20,9 @@
     {
       "ciddiyet": "orta",
       "tip": "tek-kaynakli-nedensellik",
-      "cumle": "İbn Haldûn'un yeniliği kavramı icat etmek değil, onu bilimsel ve nesnel bir yöntemle inceleyen ilk düşünür olmak ve tarih ile devlet felsefesinde ona en büyük ağırlığı vermektir.[^",
+      "cumle": "TDV İslâm Ansiklopedisi'ne göre onun yeniliği kavramı icat etmek değil, asabiyeti ilmî ve nesnel bir yöntemle inceleyen ilk İslam mütefekkiri olmak ve tarih ile devlet felsefesini ",
       "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
       "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "İbn Haldûn'un yeniliği kavramı icat etmek değil, onu bilimsel ve nesnel bir yöntemle inceleyen ilk düşünür olmak ve tarih ile devlet felsefesinde ona en büyük ağırlığı vermektir.[^",
-      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     },
     {
       "ciddiyet": "orta",

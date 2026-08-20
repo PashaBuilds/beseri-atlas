@@ -1,0 +1,21 @@
+{
+  "id": "donem-14",
+  "gecis": 3,
+  "zaman": "2026-08-20T21:01:26.359Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "**Amerika ve Doğu Asya.** Dönemin ilk evresi çevreleme, Truman Doktrini ve Kore Savaşı başlığıyla 1947-1953 arasına yerleştirilir.[^k1] Rekabetin sıcak çatışmaya dönüştüğü yer Avru",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Çatışmaların iki dünya savaşı ve Soğuk Savaş'ın ilk yıllarında zirve yapması,[^k3] dönemin rekabetinin doğrudan çarpışmaya dönüşmediği ama üçüncü bölgelerde sürdürüldüğü tezini des",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

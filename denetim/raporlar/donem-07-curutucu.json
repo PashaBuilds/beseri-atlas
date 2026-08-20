@@ -1,0 +1,49 @@
+{
+  "id": "donem-07",
+  "gecis": 3,
+  "zaman": "2026-08-20T21:01:26.346Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dönemin ayırt edici özelliği, Avrasya'nın uçlarının ilk kez tek bir siyasi yapı üzerinden birbirine bağlanmasıdır: Moğol İmparatorluğu 1206 ile 1368 arasında Avrasya'da varlığın",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "**İslam dünyası.** Selçuklular, Türklerin İslami devirde kurdukları en büyük hanedanlardan biridir ve 1040-1308 yılları arasında hüküm sürmüştür.[^k1] Oğuzların Kınık boyuna mensup",
+      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "**Güney Asya, Afrika ve Amerika.** Moğol genişlemesinin Orta Asya'ya doğru itilimi Güney Asya güzergâhlarını etkiledi;[^k2] Kuzey Afrika İslam dünyasının batı ucu olarak Selçuklu-H",
+      "sorun": "Kesinlik ifadesi \"tamamen\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu büyümenin bir bölümü, Avrasya'yı tek bir siyasi çatı altında birleştiren sistemin ticareti kolaylaştırmasıyla açıklanır; imparatorluk 1206'dan 1368'e kadar bu çatıyı ayakta tutt",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İkincisi Selçuklu-Bizans-Haçlı eksenidir. Selçuklu hanedanının askerî temeli başlangıçta aile fertlerine bağlı süvari kuvvetleriydi; Arslan Yabgu'nun yanı sıra Selçuk Bey'in oğulla",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Avrasya'nın tek bir bağlantı ağına girmesi, fikirlerin de mal gibi dolaşması demektir. Moğol İmparatorluğu'nun 1206'dan 1368'e uzanan ömrü boyunca[^k2] Çin, İran, Rusya ve Orta Avr",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -14,6 +14,9 @@ etiketler: [osmanli, timar, devsirme, tanzimat, imparatorluk]
 ilgili:
   - donem-13
   - tartisma-bati-neden-yukseldi
+  - donem-06
+  - donem-08
+  - donem-12
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

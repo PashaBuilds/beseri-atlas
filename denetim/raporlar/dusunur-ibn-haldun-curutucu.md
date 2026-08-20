@@ -1,5 +1,5 @@
 # Çürütücü raporu — dusunur-ibn-haldun
-_2026-08-20T20:05:55.237Z_
+_2026-08-20T21:01:26.364Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 
@@ -19,21 +19,13 @@ _2026-08-20T20:05:55.237Z_
 
 ## İtiraz 3 — [ciddiyet: orta] tek-kaynakli-nedensellik
 
-**Cümle:** "İbn Haldûn'un yeniliği kavramı icat etmek değil, onu bilimsel ve nesnel bir yöntemle inceleyen ilk düşünür olmak ve tarih ile devlet felsefesinde ona en büyük ağırlığı vermektir.[^"
+**Cümle:** "TDV İslâm Ansiklopedisi'ne göre onun yeniliği kavramı icat etmek değil, asabiyeti ilmî ve nesnel bir yöntemle inceleyen ilk İslam mütefekkiri olmak ve tarih ile devlet felsefesini "
 
 **Sorun:** Nedensellik iddiası tek kaynağa (k3) dayanıyor.
 
 **Öneri:** İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla.
 
-## İtiraz 4 — [ciddiyet: dusuk] ustunluk-iddiasi
-
-**Cümle:** "İbn Haldûn'un yeniliği kavramı icat etmek değil, onu bilimsel ve nesnel bir yöntemle inceleyen ilk düşünür olmak ve tarih ile devlet felsefesinde ona en büyük ağırlığı vermektir.[^"
-
-**Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
-
-**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
-
-## İtiraz 5 — [ciddiyet: orta] tek-kaynakli-nedensellik
+## İtiraz 4 — [ciddiyet: orta] tek-kaynakli-nedensellik
 
 **Cümle:** "Stanford Felsefe Ansiklopedisi'nin özetlediği biçimiyle asabiyet, kendini savunma, karşı koyma, koruma ve hak talep etme yeteneğidir; onu yitiren, bunların hiçbirini yapamayacak ka"
 
@@ -41,7 +33,7 @@ _2026-08-20T20:05:55.237Z_
 
 **Öneri:** İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla.
 
-## İtiraz 6 — [ciddiyet: orta] tek-kaynakli-nedensellik
+## İtiraz 5 — [ciddiyet: orta] tek-kaynakli-nedensellik
 
 **Cümle:** "İbn Haldûn'a göre insanlık bir kez uygarlık kuran toplumsal örgütlenmeye ulaştığında, insanların doğal saldırganlığı ve haksızlık eğilimi yüzünden onları birbirinden ayrı tutacak s"
 
@@ -49,7 +41,7 @@ _2026-08-20T20:05:55.237Z_
 
 **Öneri:** İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla.
 
-## İtiraz 7 — [ciddiyet: dusuk] ustunluk-iddiasi
+## İtiraz 6 — [ciddiyet: dusuk] ustunluk-iddiasi
 
 **Cümle:** "Asabiyet ile mülk arasındaki ilişki tek yönlü de değildir. Asabiyet en ilkel biçimiyle bedevî topluluklarda en güçlü hâldedir ve topluluklar yerleşik, medeni (hadarî) hayata geçtik"
 
