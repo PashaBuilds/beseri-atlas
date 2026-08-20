@@ -92,7 +92,11 @@ export async function getir(url, { taze = false, metinSakla = true, deneme = 3 }
 /** Turkce ve aksanli karakterleri normalize ederek karsilastirmaya hazirlar. */
 export function normalize(s) {
   return (s || '')
+    // Turkce yerel kucultme, Ingilizce metindeki "I" harfini "i" degil "i"
+    // (noktasiz) yapar; "India" -> "india" olur ve eslesme kacar. Iki tarafta
+    // birden uygulanan noktali/noktasiz i katlamasi bunu simetrik olarak cozer.
     .toLocaleLowerCase('tr')
+    .replace(/ı/g, 'i').replace(/İ/g, 'i').replace(/i̇/g, 'i')
     .replace(/[’'`´]/g, "'")
     .replace(/[—–−]/g, '-')
     .replace(/[^\p{L}\p{N}\s'-]/gu, ' ')

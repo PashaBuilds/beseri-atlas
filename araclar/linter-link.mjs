@@ -62,11 +62,18 @@ export function linkDenetimi(makaleler) {
   }
 
   // Cift yonlu bag kontrolu — tek yonlu bag uyaridir, capraz gecisinde hataya donusur.
+  // `okuma_onerisi` bir kaynak dosyasina isaret ettiginde, o kaynagin `ilgili`
+  // alanindaki geri bagin mesru karsiligidir: iki alan ayni iliskinin iki ucudur.
+  const geriBagVar = (hedefMakale, id) =>
+    (hedefMakale.fm.ilgili || []).includes(id)
+    || (hedefMakale.fm.okuma_onerisi || []).includes(id)
+    || (hedefMakale.fm.hangi_tartismada || []).includes(id);
+
   for (const m of makaleler) {
     if (m.ayristirmaHatasi || !m.fm.id) continue;
     for (const hedef of m.fm.ilgili || []) {
       const h = idHaritasi.get(hedef);
-      if (h && !(h.fm.ilgili || []).includes(m.fm.id)) {
+      if (h && !geriBagVar(h, m.fm.id)) {
         r.uyari(m.goreli, `tek yonlu ilgili bagi: ${m.fm.id} -> ${hedef} (geri bag yok)`);
       }
     }

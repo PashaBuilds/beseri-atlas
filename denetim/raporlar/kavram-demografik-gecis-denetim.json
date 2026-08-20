@@ -1,0 +1,145 @@
+{
+  "id": "kavram-demografik-gecis",
+  "gecis": 2,
+  "zaman": "2026-08-20T19:59:27.041Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Her ülke bu iki büyüklükte çok köklü değişimler yaşadı: ölümlülük ve doğurganlık hızları dünya genelinde düştü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ama tek başına bu iki düşüş, nüfusun neden arttığını açıklamaz — eğer ikisi aynı anda gerçekleşseydi nüfusun büyüklüğü değişmezdi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Model, iki temel demografik değişimin eşzamanlı olmayan zamanlaması üzerinden işler: önce ölüm hızı düşer, doğum hızının düşüşü onu izler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu yüzden hızlı nüfus artışı, modele göre kalıcı bir durum değil, geçici bir evredir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu sıralamanın dikkate değer bir özelliği vardır: ölüm hızının düşüşünü doğum hızının düşüşünün izlemesi büyük bir düzenlilikle gözlenir ve büyük ölçüde nüfusun",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Modelin gücü de buradan gelir — Avrupa'da, Latin Amerika'da, Afrika'da ve Asya'da birbirinden çok farklı ülkelerde aynı örüntü görülür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Demografik geçiş beş aşamalı bir dizi olarak tarif edilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birinci aşamada doğum hızları yüksektir, ama ölümlülük hızları da yüksek olduğu için nüfus artışı ya hiç görülmez ya da çok küçüktür; bu, tarihimizin büyük bölü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu aşamada nüfus piramidi tabanda geniştir, çünkü çok sayıda çocuk doğar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Uzun dönemli nüfus verisinin gösterdiği son derece yavaş artış, birinci aşamanın ne kadar uzun sürdüğünün kanıtıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı veri, hızlı nüfus artışının insanlık tarihinde ne kadar yeni bir olgu olduğunu da görünür kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Modelin sonraki aşamaları, ölüm hızının düşmeye başlaması, ardından doğum hızının onu izlemesi ve nihayet ikisinin düşük düzeyde yeniden dengelenmesiyle ilerler",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1600'den önce başlayan birkaç bin kilise kaydına dayanan seri, bu ülkeyi geçişin en iyi belgelenmiş örneği yapar; Wrigley ve Schofield'ın 1541–1861 verisi iki b",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu seride doğum ve ölüm hızları arasında 1750'den sonra giderek genişleyen bir boşluk açılır ve nüfus bu dönemde hızla büyümeye başlar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1870'ler civarında, doğum hızının da düşmeye başlamasıyla geçişin üçüncü aşaması görünür hâle gelir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayıt tutmanın başlamasından bu yana, yani iki yüz elli yılı aşkın süredir doğum ve ölüm verisi yayımlanmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu kayıtlar, 1800 yılı civarında İsveç'te ölüm hızının düşmeye başladığını gösterir; başlıca sebep sağlık ve yaşam standartlarındaki iyileşme, özellikle de çocu",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılın ilk yarısına kadar ölümler ile doğumlar arasında sürekli bir boşluk oluştu; İsveç nüfusunun artışı bu boşluk sayesindedir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İsveç"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kuram, Amerikalı demograf Warren Thompson'ın 1930'da geliştirdiği bir demografi tarihi yorumuna dayanır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Fransa'dan Adolphe Landry 1934 civarında demografik örüntüler ve nüfus artış potansiyeli üzerine benzer gözlemler yaptı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Notestein daha biçimsel bir demografik geçiş kuramı geliştirdi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "2000'lerde Oded Galor, geçişin olası tetikleyicileri olarak öne sürülen çeşitli mekanizmaları, bunların ampirik geçerliliğini ve rollerini araştırdı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Demografik geçiş bir tanımlama modelidir: dünya çapındaki ülkelerde gözlenen örüntüyü tarif eder ve demografinin büyük kavrayışlarından biri sayılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

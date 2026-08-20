@@ -10,6 +10,9 @@ const TELIFLI_MAX_KELIME = 700;
 // Turkce tirnak varyantlari: "...", uzun tirnak, ac-kapa tirnak.
 const TIRNAK = /"([^"\n]{10,})"|“([^”\n]{10,})”|«([^»\n]{10,})»/g;
 
+// Tam metin gostergeleri: bunlar bir kunye kaydi degil, eserin kendisidir.
+const TAM_METIN = /\.pdf(\?|$)|_djvu\.txt|\/stream\/|\/download\/|\/fulltext/i;
+
 export function telifDenetimi(makaleler) {
   const r = new Rapor('KAPI 7 — telif siniri');
   for (const m of makaleler) {
@@ -43,6 +46,13 @@ export function telifDenetimi(makaleler) {
       const kelime = m.govde.replace(/\[\^k\d+\]/g, '').split(/\s+/).filter(Boolean).length;
       if (kelime > TELIFLI_MAX_KELIME) {
         r.hata(m.goreli, `telifli eser dosyasi ${kelime} kelime — sinir ${TELIFLI_MAX_KELIME} (Ilke 4)`);
+      }
+      // Telifli bir eserin TAM METNINE isaret eden kunye yasaktir (§15: korsan
+      // PDF hicbir kosulda). Katalog/kunye kaydi serbest, tam metin degil.
+      for (const k of m.fm.kaynaklar || []) {
+        if (TAM_METIN.test(k.url || '')) {
+          r.hata(m.goreli, `${k.anahtar}: telifli eserin tam metnine isaret eden URL — yalnizca katalog/kunye kaydi kullanilabilir (§15)`);
+        }
       }
     }
   }

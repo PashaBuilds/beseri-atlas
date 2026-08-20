@@ -1,0 +1,127 @@
+{
+  "id": "tartisma-1914-savas-sorumlulugu",
+  "gecis": 2,
+  "zaman": "2026-08-20T19:59:27.110Z",
+  "sonuclar": [
+    {
+      "anahtar": "k2",
+      "iddia": "maddesi, İtilaf ve ortak hükümetlerin, savaşın Almanya ve müttefiklerinin saldırganlığıyla kendilerine dayatılmasının sonucu olarak uğradıkları bütün kayıp ve h",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1920'lerde Almanya'nın sorumlu olduğunu savunan az sayıda Alman tarihçiden biri olan Hermann Kantorowicz, Dışişleri Bakanlığı'nın çalışmasının yayımlanmasını en",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Holger Herwig, Fritz Fischer'in kitabından önce Almanya'da savaşın kökenleri üzerine yayımlanan çalışmaların büyük bölümünü sözde-tarihsel bir sahtelikten ibare",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Alman Beyaz Kitabı, Alman hükümetinin Avusturya-Macaristan'a, Monarşi'nin varlığına yönelik hareketi sona erdirmek için gerekli görülen her eylemin onayını alac",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Britanya derlemesi ise aynı günleri Londra'nın yazışmalarından kurar ve Kont Berchtold'un 24 Temmuz'da notayı bir ültimatom değil süre sınırlı bir girişim olara",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Derlemelerin anlatıyı nerede bitirdiği bile seçimlidir: Sırp belge kitabı 28 Temmuz'daki Avusturya-Macaristan–Sırbistan savaş ilanıyla, Alman, Avusturya ve Rus ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sırp, Temmuz, Alman, Avusturya"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaş sonrasının ilk yıllarında İngilizce dünyada üretilen akademik çalışmalar katılımcıları aşağı yukarı eşit biçimde suçlama eğilimindeydi.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngilizce"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki savaş arası dönemde gizli ittifak ağı, saldırının hızına yapılan vurgu, katı askerî planlama, Darwinci düşünceler ve çözüm mekanizmalarının yokluğu birçok t",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alman tarihçi Fritz Fischer Griff nach der Weltmacht adlı tartışmalı kitabını yayımladı ve tartışmanın merkezi Almanya'nın kendi hedeflerine kaydı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fischer'e karşı çıkanlar ile onu izleyenler arasındaki ayrım, bugün de sürüyor: bazı tarihçiler Almanya'nın bilerek savaş aradığını savunur, bazıları savunmaz.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkinci grubun içindeki temel ayrım ise, büyük güçler arasındaki savaşın planlanmamış ama esas olarak Almanya ile Avusturya-Macaristan'ın risk almasından kaynakl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "2013'te Christopher Clark'ın The Sleepwalkers adlı kitabı kökenleri yeniden Balkanlar'a odakladı ve fail olma niteliğini diplomatlara geri dağıttı; Clark soruml",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Clark'a göre Germen güçleri Sırbistan'ı cezalandırmak için yerelleşmiş bir savaş aradı, ancak bunu yaparken Rusya ile savaşı bile bile göze aldılar; Rusya ise 1",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ruslar çatışmanın Lahey'deki tahkim mahkemesine götürülmesini önerdi, bu öneri Almanya ve Avusturya-Macaristan tarafından reddedildi; Bogdanor'a göre dört güç k",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Holger Herwig'in değerlendirmesine göre Berchtold Temmuz boyunca Berlin ile bilgi paylaşmakta isteksizdi; çünkü Berlin'in frene basıp krize son dakikada diploma",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Herwig'in formülasyonunda Viyana önce savaşa karar verdi, sonra Alman güvencelerini aradı ve bunları aldıktan sonra kullandı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "de esas sorumluluğu, Sırbistan üzerinde üstünlük kurmak için savaşı seçen Avusturya-Macaristan seçkinlerine yükler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "James Joll, Avrupa seçkinlerinin altta yatan inanç ve zihniyetlerini — kültürel kadercilik, militarizm ve ortak yanlış algıları — öne çıkardı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Lebow ile Thomas Lindemann, savaşın kısmen Sosyal Darwinci fikirler nedeniyle çıktığını savunur: Avusturyalılar Slav oldukları için Sırpları kendilerinden aşağı",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "The Hundred-Year Debate on the Origins of World War I\".",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

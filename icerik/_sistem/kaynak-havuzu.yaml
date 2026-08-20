@@ -91,7 +91,11 @@ whitelist:
     lisans: CC-BY
   - alan: population.un.org
     tur: veri
-    dogrulanabilir: true
+    dogrulanabilir: false
+    engel: >-
+      Sayfa istemci tarafında çiziliyor; sunucudan dönen gövdede doğrulanabilir
+      metin yok (2026-08-20 ölçümünde 53 karakter). Araştırmada okunabilir,
+      künyede kullanılamaz — verinin künyesi için OWID metadata uç noktası tercih edilir.
   - alan: rug.nl
     tur: veri
     dogrulanabilir: true

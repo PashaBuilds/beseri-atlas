@@ -1,0 +1,79 @@
+{
+  "id": "veri-dunya-nufusu-1500-2025",
+  "gecis": 2,
+  "zaman": "2026-08-20T20:00:36.082Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Seri, Our World in Data'nın uzun dönemli nüfus veri setinden alınmıştır ve iki farklı türde sayı içerir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Our, World, Data"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1500–2023 aralığındaki değerler tarihsel tahminlerdir, 2025 değeri ise bir projeksiyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Projeksiyonun asıl kaynağı Birleşmiş Milletler'in World Population Prospects çalışmasıdır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Birleşmiş Milletler'in projeksiyonları varyantlara göre üretilir ve buradaki değer orta varyanttan alınmıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1500'de yaklaşık 503 milyon olan dünya nüfusu, 1600'de yaklaşık 516 milyondu — bir yüzyılda yüzde üçün altında bir artış.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1700'e gelindiğinde yaklaşık 595 milyona, 1800'de yaklaşık 983 milyona çıktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1900'de yaklaşık 1,63 milyar olan nüfus 1950'de yaklaşık 2,49 milyara, 1970'te yaklaşık 3,69 milyara, 2000'de yaklaşık 6,17 milyara ulaştı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "2023'teki tarihsel tahmin yaklaşık 8,09 milyardır; 2025 için projeksiyon değeri yaklaşık 8,23 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Model, önce ölüm hızının düştüğünü, doğum hızının düşüşünün ise onu gecikmeli olarak izlediğini söyler; iki eğri arasında açılan makas hızlı nüfus artışının kay",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Serinin uzun düz kısmı, toplumların bin yıllar boyunca yüksek doğum ve yüksek ölüm hızlarının birbirini dengelediği birinci aşamada kalmasına karşılık gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı mekanizma, artışın neden geçici olduğunu da söyler: doğum hızı da düştüğünde makas kapanır ve büyüme yavaşlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Erken dönem değerleri tarihsel demografi tahminleridir; sayım kaydına değil, kısmi kanıtlardan yapılan yeniden kurgulara dayanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

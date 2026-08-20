@@ -1,0 +1,55 @@
+{
+  "id": "kaynak-clark-uyurgezerler",
+  "gecis": 2,
+  "zaman": "2026-08-20T19:59:27.192Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Clark, The sleepwalkers: how Europe went to war in 1914, New York: Harper, 2013.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Katalog kaydında ISBN 9780061146664 ve LCCN 2012038473 verilir; konu başlıkları arasında Birinci Dünya Savaşı'nın nedenleri ve diplomasi tarihi yer alır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yayıncı tanıtımı, kitabın yeni kaynaklara dayandığını ve savaşa giden yolları Viyana, Berlin, Petersburg, Paris, Londra ve Belgrad'daki karar merkezleri arasınd",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tarih yazımı açısından konumu şudur: kitap, kökenleri yeniden Balkanlar'a odaklar ve fail olma niteliğini diplomatlara geri dağıtır; sorumluluğu Almanya, Avustu",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Clark'a göre Germen güçleri Sırbistan'ı cezalandırmak için yerelleşmiş bir savaş aradı, ancak bunu yaparken Rusya ile savaşı bile bile göze aldılar; Rusya ise 1",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Fischer tezinin karşı kutbunda yer alır: tek aktörün kasıtlı arayışı yerine çoklu risk alma davranışını öne çıkarır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Vernon Bogdanor, dört güç konferansı ve Lahey tahkimi seçeneklerinin Almanya ve Avusturya-Macaristan tarafından reddedilmesinin, savaşın nedenleri aranırken bu ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Karşı pozisyonlar için tartışma haritasındaki Fischer ve Viyana-öncelikli okumalara bakılabilir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Fischer, Viyana-öncelikli"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "id": "donem-13",
+  "gecis": 2,
+  "zaman": "2026-08-20T19:59:26.743Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Ara dönem, siyasi olarak komünizmin yükselişiyle başladı — Rusya'da Ekim Devrimi ve Rus İç Savaşı ile — ve faşizmin, özellikle Almanya ile İtalya'da yükselişiyl",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arada Weimar Cumhuriyeti, 1933 sonrası Nazi dönemi ve 1936–1939 arasındaki İspanya İç Savaşı yer alır.",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Osmanlı Devleti bu dönemin ortasında sona erdi; TDV İslâm Ansiklopedisi devletin ömrünü 1300–1922 olarak verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1920'den beri Britanya mandası olan Irak, Kral Faysal'ın askerî ittifak ve güvenceli petrol akışı yönündeki Britanya şartlarını kabul etmesiyle 1932'de Irak Kra",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Filistin'de Britanya, Filistinli Araplar ile artan sayıdaki Yahudi yerleşimciler arasında arabuluculuk sorunuyla karşılaştı; manda şartlarına dahil edilmiş olan",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çin, Kuomintang, Çin Komünist Partisi ve çok sayıda savaş ağası arasındaki iç savaşla birlikte yarım yüzyıllık bir istikrarsızlığın ortasındaydı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Japonya Mançurya'yı ele geçirdi ve Çin'in fethine doğru ilerledi; Japon saldırganlığı Çin ve Tayvan'a yönelirken geniş Çin toprakları işgal edildi, ayrıca Sovye",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hindistan Birinci Dünya Savaşı'nda İmparatorluğu güçlü biçimde destekledi.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Birinci, Dünya, Savaşı, İmparatorluğu"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaşın getirdiği yeni dünya düzeni — özellikle ABD ile Japonya'nın deniz gücü olarak büyümesi ve Hindistan ile İrlanda'da bağımsızlık hareketlerinin yükselişi ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İtalya'nın Afrika Boynuzu'nda Habeşistan'ı istila edip işgal etmesi ara dönem diplomasisinin dönüm noktalarından biri oldu.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuzey Afrika'da İspanya ve Fransa'ya karşı isyan çıktı; Libya üzerindeki İtalyan idaresi 1923 Lozan Antlaşması'nda, Osmanlı Devleti'nin ardılı olan Türkiye'ye y",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Güney Afrika ise Kanada, Avustralya, Yeni Zelanda ve diğerleriyle birlikte kendi kendini yöneten Dominyonlar arasındaydı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Britanya, ABD ile Japonya arasında seçim yapmak zorunda kalınca Anglo-Japon İttifakı'nı yenilememeyi tercih etti ve 1922 Washington Deniz Antlaşması'nı imzalaya",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1929'da başlayan Büyük Buhran ve dünya ticaretinin çöküşü ise dönemin ikinci yarısını belirledi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kullanılan ara dönem maddesi, Çin bölümünün eksik olduğunu kendi metninde bildirir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1900'de yaklaşık 1,63 milyar, 1950'de yaklaşık 2,49 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İktisadi tarafta dönemin belirleyici olayı 1929'da başlayan Büyük Buhran'a verilen tepkiler ve dünya ticaretinin çöküşüdür.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Buna eşlik eden şey iktisadi otarşi çabalarının büyümesiydi: devletler dış ticarete bağımlılığı azaltmayı siyasi bir hedef hâline getirdi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Dönemin karşılaştırmalı gelir seviyelerini ölçmek isteyenler için uzun dönemli seri, 169 ülkeyi ve 2022'ye kadarki dönemi kapsayan Maddison Project Database'dir",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "maddesi, savaşın Almanya ve müttefiklerinin saldırganlığıyla dayatılmasının sonucu olarak uğranan bütün kayıp ve hasardan onların sorumluluğunu teyit eder ve Al",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ara dönem diplomasisinin gündemi, Milletler Cemiyeti'nden beklenenler ve onun başarısızlıkları, yeni ülkelerin eskilerle ilişkisi, Sovyetler Birliği'nin kapital",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Britanya, Fransa ve diğerlerinin imparatorlukları, emperyalizm giderek olumsuz görüldükçe ve birçok sömürgede bağımsızlık hareketleri ortaya çıktıkça meydan oku",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kendi kendini yöneten Dominyonlar — Kanada, Newfoundland, Avustralya, Yeni Zelanda, Güney Afrika ve İrlanda Hür Devleti — savaş sırasında yarı bağımsızlık kazan",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dominyonların kendi dış politikalarını belirleme hakkı 1923'te tanındı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Birinci Dünya Savaşı'nda yedi milyondan fazla asker öldü; yalnızca İkinci Dünya Savaşı'nda ise yirmi bir milyondan fazla muharip hayatını kaybetti.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Dünya, Savaşı, İkinci"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "1800'den bu yana gerçekleşen bütün savaş ölümlerinin dörtte üçü yalnızca bu iki savaşta, yüzde doksanı ise en büyük on savaşta yaşandı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Çarpışmalar nedeniyle ölen siviller, çatışmaların yol açtığı açlık ve hastalıktan kaynaklanan artan ölümler ve savaş sayılmayan küçük çatışmalardaki ölümler hes",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki dünya savaşı sırasında silahlı çatışma başlıca ölüm nedenlerinden biriydi ve yılda birkaç milyon ölüme yol açıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir asırdan uzun süre önce, 1900'de, ülkelerin çoğu birbirine karşı şiddet kullanmıyordu ama hiçbirinin yüksek düzeyde işbirlikçi ilişkisi de yoktu; ilişkilerin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Çatışma iki dünya savaşı sırasında ve Soğuk Savaş'ın ilk yıllarında zirve yaptı.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Dönemin bir başka özelliği, savaşın nasıl başladığına dair sorunun kendisinin kalıcı bir tartışma konusu hâline gelmesidir; Versailles Antlaşması'nın sorumluluğ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çağ, siyasi olarak komünizmin yükselişiyle açıldı ve faşizmin yükselişiyle kapandı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İspanya İç Savaşı daha büyük bir çatışmaya tırmanmadı, ama bütün komünistleri ve birçok sosyalist ile liberali Katoliklerin, muhafazakârların ve faşistlerin kar",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Savaşı, Katoliklerin"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yıllarda dünya genelinde pasifizmde bir gerileme ve bir başka dünya savaşının yakın olduğu — ve uğruna savaşmaya değeceği — yönünde büyüyen bir his vardı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Emperyalizmin giderek olumsuz görülmesi ve sömürgelerde bağımsızlık hareketlerinin ortaya çıkması, bir yönetim biçiminin meşruiyetini kaybetmesinin nasıl göründ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

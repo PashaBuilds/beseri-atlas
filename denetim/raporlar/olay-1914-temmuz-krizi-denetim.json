@@ -1,0 +1,175 @@
+{
+  "id": "olay-1914-temmuz-krizi",
+  "gecis": 2,
+  "zaman": "2026-08-20T19:59:26.879Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Britanya'nın resmî belge derlemesi, suikast ile Avusturya notasının sunulması arasındaki dönemi 28 Haziran – 23 Temmuz olarak ayrı bir başlık altında toplar; ay",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Avusturya, Haziran, Temmuz, Ağustos"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kriz, 28 Haziran 1914'te Bosnalı Sırp milliyetçi Gavrilo Princip'in Avusturya-Macaristan tahtının veliahdı Arşidük Franz Ferdinand'ı Saraybosna'da öldürmesiyle ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Franz Ferdinand, Bosna'da yapılacak askerî tatbikatlara katılmak üzere İmparator Franz Joseph tarafından görevlendirilmişti.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bosna, 1908'de Avusturya-Macaristan tarafından resmen ilhak edilmiş ve bu ilhak Berlin Antlaşması'nı ihlal ederek Balkanlar'daki kırılgan güç dengesini sarsmışt",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Avusturya-Macaristan'ın notası, katillere silah ve patlayıcıların Narodna Odbrana üyesi Sırp subay ve memurlarınca verildiğini, katillerin ve silahların Bosna'y",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Britanya'nın resmî belge derlemesi bu aralığı ayrı bir bölüm olarak ayırır: \"Arşidük'ün öldürülmesi ile Avusturya notasının Sırbistan'a sunulması arasındaki dön",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Britanya Dışişleri Bakanı Edward Grey'in 20 Temmuz 1914 tarihli notu, Alman büyükelçisine Viyana'da Sırbistan'la ilgili neler olduğunu sorduğunu ve elinde yeni ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Alman hükümeti kendi belge derlemesinde, Avusturya-Macaristan'a, Monarşi'nin varlığına yönelik Sırbistan kaynaklı hareketi sona erdirmek için gerekli görülen he",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı metin, Avusturya-Macaristan'ın Sırbistan'a karşı savaşçı bir tutumunun Rusya'yı sahaya çekebileceğinin ve müttefiklik yükümlülüğü gereği Almanya'nın da bir",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu destek beyanı tarih yazımına \"açık çek\" adıyla geçti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Nota 23 Temmuz'da verildi.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Temmuz"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İçeriği bir diplomatik protestodan çok bir iç politika programıydı: Narodna Odbrana'nın ve benzer derneklerin dağıtılması, Avusturya-Macaristan aleyhtarı propag",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Belge derlemesindeki metin ayrıca 28 Haziran komplosunun Sırp topraklarındaki taraftarlarına karşı adli soruşturma açılmasını ve bu soruşturmaya Avusturya-Macar",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "24 Temmuz'da Kont Berchtold, Londra'daki büyükelçisi Kont Mensdorff'a notanın bir ültimatom olmadığını, \"süre sınırlı bir girişim\" olduğunu telgrafla bildirdi v",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Alman derlemesi cevabın bazı noktalarda Avusturya-Macaristan'ın koşullarını karşıladığını, ancak esas noktaların tamamında Sırbistan'ın oyalama ve yeni müzakere",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı kaynak, notanın iletilmesinden bir gün sonra Sırp hükümetinin ordusunun seferberliğine başladığını kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sırp"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Britanya'nın Belgrad'dan aldığı bilgi de aynı yöndedir: cevap tatmin edici bulunmamış, Avusturya-Macaristan elçisi Belgrad'ı terk etmiştir ve savaş yakın görülm",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "26 Temmuz öğleden sonra Avusturya hükümeti Petersburg'daki büyükelçisi aracılığıyla fetih arzusu taşımadığını ve yalnızca sınırlarında barış istediğini yeniden ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı gün Berlin'e Rus seferberliğine dair ilk haberler ulaştı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "27 Temmuz'da ise Rus Harbiye Nâzırı, Alman ataşesine henüz hiçbir seferberlik emri verilmediğini namusu üzerine söylemişti.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sırp belge kitabı, 28 Temmuz'da Avusturya-Macaristan ile Sırbistan arasındaki savaş ilanıyla sona erer.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alman, Avusturya ve Rus kitapları fiilen 1 Ağustos'ta Almanya ile Rusya arasındaki savaş ilanıyla biter; Rus kitabı Avusturya-Macaristan'a karşı resmî savaş ila",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Britanya ve Fransa'nın derlemeleri anlatıyı 4 Ağustos gece yarısı İngiltere ile Almanya arasındaki savaş ilanına kadar taşır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Belçika'nın kitabı 5 Ağustos'ta Belçika'nın Almanya ile savaşa girmesine, ardından Avusturya-Macaristan'ın 28 Ağustos'ta Belçika'ya savaş ilanına uzanır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Britanya, Almanya'nın Fransa'yı ezmesi ihtimali karşısında 4 Ağustos'ta savaşa girdi ve kamuoyu desteğini toplamak için Almanya'nın Belçika'yı işgalini kullandı",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ağustos başında, silahlı çatışmanın görünürdeki sebebi — bir Avusturya-Macaristan arşidükünün öldürülmesi — çoktan daha büyük bir Avrupa savaşının dipnotu hâlin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Alman Beyaz Kitabı Almanya'nın Avusturya-Macaristan'a verdiği desteği kendi gerekçesiyle anlatır; Britanya derlemesi aynı günleri Londra'nın yazışmalarından kur",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alman Beyaz Kitabı Almanya'nın Avusturya-Macaristan'a verdiği desteği kendi gerekçesiyle anlatır; Britanya derlemesi aynı günleri Londra'nın yazışmalarından kur",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    }
+  ]
+}

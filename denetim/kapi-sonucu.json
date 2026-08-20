@@ -1,8 +1,8 @@
 {
   "mod": "--lint",
-  "zaman": "2026-08-20T19:30:04.945Z",
+  "zaman": "2026-08-20T20:00:14.993Z",
   "gecti": true,
-  "makale_sayisi": 2,
+  "makale_sayisi": 10,
   "kapilar": [
     {
       "kapi": "KAPI 1 — Zod sema dogrulamasi",

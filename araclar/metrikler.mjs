@@ -38,16 +38,24 @@ export function metrikYaz(guncelle) {
  * ISARET yarım sayılır: ne doğrulanmış ne çürütülmüştür.
  */
 export function dogrulamaOrani(raporlar) {
-  let ok = 0, isaret = 0, hata = 0;
+  let ok = 0, isaret = 0, hata = 0, atomsuz = 0;
   for (const r of raporlar) {
     for (const s of r.sonuclar || []) {
       if (s.durum === 'OK') ok += 1;
       else if (s.durum === 'ISARET') isaret += 1;
       else if (s.durum === 'HATA') hata += 1;
+      else if (s.durum === 'ATOMSUZ') atomsuz += 1;
     }
   }
+  // ATOMSUZ = programatik olarak olculemeyen iddia. Ne dogrulanmis ne
+  // curutulmustur; orana KATILMAZ ama gizlenmez de — RAPOR.md'de ayrica
+  // beyan edilir. Olculemeyeni dogrulanmis saymak, hattin kendini
+  // kandirmasi olurdu (§16).
   const toplam = ok + isaret + hata;
-  return { oran: toplam ? Number(((ok + isaret * 0.5) / toplam).toFixed(4)) : null, ok, isaret, hata, toplam };
+  return {
+    oran: toplam ? Number(((ok + isaret * 0.5) / toplam).toFixed(4)) : null,
+    ok, isaret, hata, atomsuz, toplam, olculen_oran: toplam + atomsuz ? Number((toplam / (toplam + atomsuz)).toFixed(4)) : null,
+  };
 }
 
 export function metrikleriHesapla({ makaleler = null, isler = [] } = {}) {
