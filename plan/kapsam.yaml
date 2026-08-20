@@ -28,9 +28,13 @@ fazlar:
     - { id: donem-16, baslik: "2008–bugün — Çok kutupluluğa dönüş" }
 
   2:
+    # NOT: `tartismali` etiketli olay makaleleri, bagli olduklari tartisma
+    # haritasindan SONRA uretilmelidir (KAPI 9, Ilke 2). Bu yuzden asagidaki
+    # harita Faz 4'ten Faz 2'ye tasindi — bkz. plan/faz-notlari.md.
+    - { id: tartisma-tarim-devrimi-ilerleme-mi, baslik: "Tarım devrimi bir ilerleme miydi?", bagimlilik: [donem-01] }
     # ─── Olaylar ────────────────────────────────────────────────────────────
-    - { id: olay-neolitik-devrim, baslik: "Neolitik Devrim", bagimlilik: [donem-01] }
-    - { id: olay-gobeklitepe, baslik: "Göbeklitepe", bagimlilik: [donem-01] }
+    - { id: olay-neolitik-devrim, baslik: "Neolitik Devrim", bagimlilik: [donem-01, tartisma-tarim-devrimi-ilerleme-mi] }
+    - { id: olay-gobeklitepe, baslik: "Göbeklitepe", bagimlilik: [donem-01, tartisma-tarim-devrimi-ilerleme-mi] }
     - { id: olay-yazinin-icadi, baslik: "Yazının icadı", bagimlilik: [donem-02] }
     - { id: olay-tunc-cagi-cokusu, baslik: "Tunç Çağı çöküşü", bagimlilik: [donem-03] }
     - { id: olay-pers-yunan-savaslari, baslik: "Pers–Yunan savaşları", bagimlilik: [donem-04] }
@@ -198,7 +202,6 @@ fazlar:
 
   4:
     # ─── Tartışmalar ────────────────────────────────────────────────────────
-    - { id: tartisma-tarim-devrimi-ilerleme-mi, baslik: "Tarım devrimi bir ilerleme miydi?" }
     - { id: tartisma-tunc-cagi-cokusunun-nedeni, baslik: "Tunç Çağı çöküşünün nedeni neydi?" }
     - { id: tartisma-eksen-cagi-gercek-mi, baslik: "Eksen Çağı gerçek bir olgu mu?" }
     - { id: tartisma-romanin-cokus-nedeni, baslik: "Roma neden çöktü?" }

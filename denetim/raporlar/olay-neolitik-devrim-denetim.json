@@ -1,0 +1,103 @@
+{
+  "id": "olay-neolitik-devrim",
+  "gecis": 2,
+  "zaman": "2026-08-20T21:09:21.119Z",
+  "sonuclar": [
+    {
+      "anahtar": "k2",
+      "iddia": "Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı; terimi Orta Doğu tarihindeki bir dizi tarımsal devrimin ilki olarak tanıttı ve sürecin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı; terimi Orta Doğu tarihindeki bir dizi tarımsal devrimin ilki olarak tanıttı ve sürecin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynaklar birbirinden bağımsız birkaç köken bölgesi sayar ve Bereketli Hilal bunların en erkenidir; bölgedeki Çanak Çömleksiz Neolitik yerleşmeleri MÖ 7500 dola",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Doğu Bereketli Hilal'de, İran'daki Choga Golan'da yabani bitkilerin ekimine dair kanıt günümüzden 12.000 yıl öncesine uzanır; evcilleştirilmiş gernik buğdayı is",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aswad'a yerleşenlerin evcilleştirmeyi yerinde yapmadıkları, ekim için tohumla birlikte geldikleri ileri sürülmüştür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Neolitik Çin'de pirinç, darı ve karma tarım yerleşmelerinin mekânsal dağılımı ayrı bir araştırma alanıdır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mısır'da ekim kanıtı günümüzden yaklaşık 7.000 yıl öncesine uzanır, ama bu bir yalancı şafak olarak görünür: yerleşmeler sonradan terk edilmiş, kalıcı tarım 6.5",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Etiyopya yaylalarında kahve, kat, ensete, noog, tef ve parmak darısı; Sahel'de sorgum ve inci darısı evcilleştirildi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Her ikisi de ayrı tarımsal köken bölgeleri olarak sınıflandırılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu iki bölge köken değil, yayılma güzergâhıdır; tarımın Avrupa'ya yayılması karbon 14 ve mitokondriyal DNA kanıtlarıyla ayrı ayrı incelenir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tarımın doğuşunun Younger Dryas soğuk döneminin sonundaki hızlı sıcaklık artışı ve Holosen'in uzun, sıcak döneminin başlangıcıyla çakıştığını belirtir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu ayrım, bölgedeki anıtsal yapı alanlarının neden tartışma yarattığını da açıklar: Bereketli Hilal'deki Çanak Çömleksiz Neolitik yerleşmeleri MÖ 7500 dolayları",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu MÖ 10000'de yaklaşık 4,5 milyon, MÖ 3000'de yaklaşık 44,6 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Daha yüksek nüfus ve besin bolluğu, sağlığın iyileşmesiyle zorunlu olarak ilişkili değildir; çok sınırlı sayıda temel ürüne bağımlılık, daha fazla insanı beslem",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Uzun vadeli bir başka sonuç bağışıklık tarihindedir: sığır gibi hayvanlarla yaklaşık on bin yıllık ortak yaşam boyunca Avrasyalılar ve Afrikalılar bu hayvanlard",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Childe bunu bir dizi tarımsal devrimin ilki olarak sunmuştu; yani terim baştan itibaren karşılaştırmalı bir çerçevenin parçasıydı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

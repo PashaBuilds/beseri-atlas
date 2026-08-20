@@ -292,8 +292,15 @@ async function dongu(secilenFaz = null) {
     d.metrikler.ortalama_kaynak_sayisi = sonuc.met.ortalama_kaynak_sayisi;
 
     // Kapı geçse bile faz hedefi tutmuyorsa faz BİTMEMİŞTİR.
-    const hedef = KAPILAR.faz_kapsamlari[d.aktif_faz]?.hedef ?? 0;
-    const uretilen = kuyrukOku().filter((i) => i.faz === d.aktif_faz && i.durum === 'onaylandi').length;
+    // Hedef, kuyruk satırlarıyla değil KORPUSTAKİ onaylı makalelerle ölçülür:
+    // bir makale önceki bir fazda üretilmiş olabilir (donem-13 Faz 0'da üretildi
+    // ama kronolojik omurganın parçasıdır) ve kuyruk satırı sayısı yanıltır.
+    const kapsamTanimi = KAPILAR.faz_kapsamlari[d.aktif_faz] || {};
+    const hedef = kapsamTanimi.hedef ?? 0;
+    const tipler = kapsamTanimi.tipler;
+    const uretilen = tipler?.length
+      ? makaleleriTopla().filter((m) => tipler.includes(m.fm.tip) && m.fm.denetim_durumu === 'onaylandi').length
+      : kuyrukOku().filter((i) => i.faz === d.aktif_faz && i.durum === 'onaylandi').length;
     if (sonuc.gecti && uretilen < hedef) {
       console.log(RENK.sari(`\nFaz ${d.aktif_faz} kapisi gecti ama hedef tutmadi: ${uretilen}/${hedef}. `
         + 'Kuyruk doldurulmali; faz ILERLEMEZ.\n'));

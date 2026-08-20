@@ -1,0 +1,109 @@
+{
+  "id": "olay-gobeklitepe",
+  "gecis": 2,
+  "zaman": "2026-08-20T21:09:21.057Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Yapı yaklaşık MÖ 9500'de (günümüzden 11.450 yıl önce) inşa edilmiş ve yaklaşık MÖ 8000'de (günümüzden 9.950 yıl önce) terk edilmiştir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yerleşim Türkiye'nin Şanlıurfa ilinde, Güneydoğu Anadolu bölgesindedir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yapı malzemesi kireç taşı ve yanmış kireçten terrazzodur; muhtemelen ahşap çatı kirişleri de kullanılmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kazılar 1995'ten bu yana sürmektedir ve alanda çalışan arkeologlar arasında Klaus Schmidt, Necmi Karul ve Lee Clare sayılır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alan ilk kez 1963'teki bir arkeolojik yüzey araştırmasında not edilmişti; Alman arkeolog Klaus Schmidt onun önemini 1994'te fark etti.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alanın incelemesi büyük çevrelemeler, konut yapıları, gömüler ve diğer yapılar başlıkları altında yürütülür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mimari ve ikonografi, yakın çevredeki Karahan Tepe gibi çağdaş alanlarınkine benzer.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yapıların bir bölümü sonradan onarılmış ya da yeniden inşa edilmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alan yaklaşık MÖ 8000'e, belki biraz sonrasına — erken Çanak Çömleksiz Neolitik B evresine — kadar kullanımda kalmıştır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Neolitik yapılar terk edildikten sonra daha küçük grupların kalıntılar arasında yaşamaya döndüğüne dair kanıt vardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bereketli Hilal'deki Çanak Çömleksiz Neolitik yerleşmeleri MÖ 7500 dolaylarına tarihlenir; Göbeklitepe ise MÖ 9500'de inşa edilmiştir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bereketli Hilal'deki Çanak Çömleksiz Neolitik yerleşmeleri MÖ 7500 dolaylarına tarihlenir; Göbeklitepe ise MÖ 9500'de inşa edilmiştir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alanın inşa tarihi ile bölgedeki Çanak Çömleksiz Neolitik yerleşmelerin tarihi arasındaki iki bin yıllık fark tersi bir sıralamaya da izin verir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Alanın inşa tarihi ile bölgedeki Çanak Çömleksiz Neolitik yerleşmelerin tarihi arasındaki iki bin yıllık fark tersi bir sıralamaya da izin verir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ölçek karşılaştırması bu tartışmanın çerçevesini verir: dünya nüfusu MÖ 10000'de yaklaşık 4,5 milyondu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Schmidt alanı başlangıçta buluntu tipolojisine dayanarak Çanak Çömleksiz Neolitik dönemine tarihlendirmişti.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu belirsizlik, makalenin genel güven seviyesinin tartismali işaretlenmesinin sebebidir: alan yaklaşık MÖ 9500'de inşa edilip MÖ 8000 dolaylarında terk edilmişt",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

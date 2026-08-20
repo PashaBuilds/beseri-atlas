@@ -1,0 +1,14 @@
+{
+  "id": "tartisma-tarim-devrimi-ilerleme-mi",
+  "gecis": 3,
+  "zaman": "2026-08-20T21:09:21.388Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "yuksek",
+      "tip": "kesinlik-dili",
+      "cumle": "Dördüncü pozisyon soruyu tamamen başka bir yere taşır. Peter Richerson, Robert Boyd ve Robert Bettinger, tarımın gelişiminin Holosen'in başındaki giderek istikrarlı hâle gelen ikli",
+      "sorun": "Kesinlik ifadesi \"tamamen\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    }
+  ]
+}

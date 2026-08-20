@@ -1,5 +1,5 @@
 # plan/kuyruk.yaml — merkezi iş listesi (§9)
-# durum: onaylandi|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
+# durum: bekliyor|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
 
 isler:
   - id: donem-13
@@ -109,7 +109,7 @@ isler:
   - id: donem-01
     tip: donem
     baslik: MÖ 10000–3000 — Tarım devrimi ve yerleşiklik
-    durum: uretiliyor
+    durum: onaylandi
     faz: 1
     bagimlilik: []
     atanan_parti: null
@@ -117,7 +117,7 @@ isler:
   - id: donem-02
     tip: donem
     baslik: MÖ 3000–1200 — Tunç Çağı imparatorlukları ve yazı
-    durum: uretiliyor
+    durum: onaylandi
     faz: 1
     bagimlilik: []
     atanan_parti: null
@@ -125,7 +125,7 @@ isler:
   - id: donem-03
     tip: donem
     baslik: MÖ 1200–500 — Çöküş, Demir Çağı, alfabe
-    durum: uretiliyor
+    durum: onaylandi
     faz: 1
     bagimlilik: []
     atanan_parti: null
@@ -133,7 +133,7 @@ isler:
   - id: donem-04
     tip: donem
     baslik: MÖ 500–MS 200 — Eksen Çağı ve klasik imparatorluklar
-    durum: uretiliyor
+    durum: onaylandi
     faz: 1
     bagimlilik: []
     atanan_parti: null
@@ -141,7 +141,7 @@ isler:
   - id: donem-05
     tip: donem
     baslik: 200–650 — Geç antikite ve Roma–Sasani düellosu
-    durum: uretiliyor
+    durum: onaylandi
     faz: 1
     bagimlilik: []
     atanan_parti: null
@@ -224,5 +224,797 @@ isler:
     durum: onaylandi
     faz: 1
     bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: olay-neolitik-devrim
+    tip: olay
+    baslik: Neolitik Devrim
+    durum: onaylandi
+    faz: 2
+    bagimlilik:
+      - donem-01
+    atanan_parti: null
+    deneme: 0
+  - id: olay-gobeklitepe
+    tip: olay
+    baslik: Göbeklitepe
+    durum: onaylandi
+    faz: 2
+    bagimlilik:
+      - donem-01
+    atanan_parti: null
+    deneme: 0
+  - id: olay-yazinin-icadi
+    tip: olay
+    baslik: Yazının icadı
+    durum: uretiliyor
+    faz: 2
+    bagimlilik:
+      - donem-02
+    atanan_parti: null
+    deneme: 0
+  - id: olay-tunc-cagi-cokusu
+    tip: olay
+    baslik: Tunç Çağı çöküşü
+    durum: uretiliyor
+    faz: 2
+    bagimlilik:
+      - donem-03
+    atanan_parti: null
+    deneme: 0
+  - id: olay-pers-yunan-savaslari
+    tip: olay
+    baslik: Pers–Yunan savaşları
+    durum: uretiliyor
+    faz: 2
+    bagimlilik:
+      - donem-04
+    atanan_parti: null
+    deneme: 0
+  - id: olay-iskender-seferleri
+    tip: olay
+    baslik: İskender'in seferleri
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-04
+    atanan_parti: null
+    deneme: 0
+  - id: olay-pön-savaslari
+    tip: olay
+    baslik: Pön Savaşları
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-04
+    atanan_parti: null
+    deneme: 0
+  - id: olay-han-hanedani-kurulusu
+    tip: olay
+    baslik: Han hanedanının kuruluşu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-04
+    atanan_parti: null
+    deneme: 0
+  - id: olay-roma-cumhuriyetinin-sonu
+    tip: olay
+    baslik: Roma Cumhuriyeti'nin sonu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-04
+    atanan_parti: null
+    deneme: 0
+  - id: olay-kavimler-gocu
+    tip: olay
+    baslik: Kavimler Göçü
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-05
+    atanan_parti: null
+    deneme: 0
+  - id: olay-justinyen-vebasi
+    tip: olay
+    baslik: Justinianus vebası
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-05
+    atanan_parti: null
+    deneme: 0
+  - id: olay-islam-fetihleri
+    tip: olay
+    baslik: İlk İslam fetihleri
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-06
+    atanan_parti: null
+    deneme: 0
+  - id: olay-talas-savasi
+    tip: olay
+    baslik: Talas Savaşı
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-06
+    atanan_parti: null
+    deneme: 0
+  - id: olay-malazgirt
+    tip: olay
+    baslik: Malazgirt Savaşı
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-07
+    atanan_parti: null
+    deneme: 0
+  - id: olay-hacli-seferleri
+    tip: olay
+    baslik: Haçlı Seferleri
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-07
+    atanan_parti: null
+    deneme: 0
+  - id: olay-mogol-fetihleri
+    tip: olay
+    baslik: Moğol fetihleri
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-07
+    atanan_parti: null
+    deneme: 0
+  - id: olay-kara-olum
+    tip: olay
+    baslik: Kara Ölüm
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-08
+    atanan_parti: null
+    deneme: 0
+  - id: olay-istanbulun-fethi
+    tip: olay
+    baslik: İstanbul'un fethi
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-08
+    atanan_parti: null
+    deneme: 0
+  - id: olay-cheng-ho-seferleri
+    tip: olay
+    baslik: Zheng He seferleri
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-08
+    atanan_parti: null
+    deneme: 0
+  - id: olay-amerikanin-kesfi
+    tip: olay
+    baslik: Amerika'ya ulaşma
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-09
+    atanan_parti: null
+    deneme: 0
+  - id: olay-reform
+    tip: olay
+    baslik: Protestan Reformu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-09
+    atanan_parti: null
+    deneme: 0
+  - id: olay-vestfalya-barisi
+    tip: olay
+    baslik: Vestfalya Barışı
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-09
+    atanan_parti: null
+    deneme: 0
+  - id: olay-otuz-yil-savaslari
+    tip: olay
+    baslik: Otuz Yıl Savaşları
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-09
+    atanan_parti: null
+    deneme: 0
+  - id: olay-ingiliz-ic-savasi
+    tip: olay
+    baslik: İngiliz İç Savaşı
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-10
+    atanan_parti: null
+    deneme: 0
+  - id: olay-yedi-yil-savasi
+    tip: olay
+    baslik: Yedi Yıl Savaşı
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-10
+    atanan_parti: null
+    deneme: 0
+  - id: olay-amerikan-devrimi
+    tip: olay
+    baslik: Amerikan Devrimi
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-10
+    atanan_parti: null
+    deneme: 0
+  - id: olay-fransiz-devrimi
+    tip: olay
+    baslik: Fransız Devrimi
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-11
+    atanan_parti: null
+    deneme: 0
+  - id: olay-haiti-devrimi
+    tip: olay
+    baslik: Haiti Devrimi
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-11
+    atanan_parti: null
+    deneme: 0
+  - id: olay-viyana-kongresi
+    tip: olay
+    baslik: Viyana Kongresi
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-11
+    atanan_parti: null
+    deneme: 0
+  - id: olay-1848-devrimleri
+    tip: olay
+    baslik: 1848 Devrimleri
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-11
+    atanan_parti: null
+    deneme: 0
+  - id: olay-tanzimat-fermani
+    tip: olay
+    baslik: Tanzimat Fermanı
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-12
+    atanan_parti: null
+    deneme: 0
+  - id: olay-taiping-isyani
+    tip: olay
+    baslik: Taiping İsyanı
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-12
+    atanan_parti: null
+    deneme: 0
+  - id: olay-1857-hint-ayaklanmasi
+    tip: olay
+    baslik: 1857 Hint Ayaklanması
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-12
+    atanan_parti: null
+    deneme: 0
+  - id: olay-meiji-restorasyonu
+    tip: olay
+    baslik: Meiji Restorasyonu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-12
+    atanan_parti: null
+    deneme: 0
+  - id: olay-berlin-konferansi
+    tip: olay
+    baslik: Berlin Konferansı ve Afrika paylaşımı
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-12
+    atanan_parti: null
+    deneme: 0
+  - id: olay-1905-rus-devrimi
+    tip: olay
+    baslik: 1905 Rus Devrimi
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-12
+    atanan_parti: null
+    deneme: 0
+  - id: olay-balkan-savaslari
+    tip: olay
+    baslik: Balkan Savaşları
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-12
+    atanan_parti: null
+    deneme: 0
+  - id: olay-ekim-devrimi
+    tip: olay
+    baslik: Ekim Devrimi
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-13
+    atanan_parti: null
+    deneme: 0
+  - id: olay-versailles-antlasmasi
+    tip: olay
+    baslik: Versailles Antlaşması
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-13
+    atanan_parti: null
+    deneme: 0
+  - id: olay-buyuk-buhran
+    tip: olay
+    baslik: Büyük Buhran
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-13
+    atanan_parti: null
+    deneme: 0
+  - id: olay-ispanya-ic-savasi
+    tip: olay
+    baslik: İspanya İç Savaşı
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-13
+    atanan_parti: null
+    deneme: 0
+  - id: olay-ikinci-dunya-savasi
+    tip: olay
+    baslik: İkinci Dünya Savaşı
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-13
+    atanan_parti: null
+    deneme: 0
+  - id: olay-bretton-woods
+    tip: olay
+    baslik: Bretton Woods
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-14
+    atanan_parti: null
+    deneme: 0
+  - id: olay-hindistan-bolunmesi
+    tip: olay
+    baslik: Hindistan'ın bölünmesi
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-14
+    atanan_parti: null
+    deneme: 0
+  - id: olay-cin-devrimi-1949
+    tip: olay
+    baslik: Çin Devrimi (1949)
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-14
+    atanan_parti: null
+    deneme: 0
+  - id: olay-bandung-konferansi
+    tip: olay
+    baslik: Bandung Konferansı
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-14
+    atanan_parti: null
+    deneme: 0
+  - id: olay-suveys-krizi
+    tip: olay
+    baslik: Süveyş Krizi
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-14
+    atanan_parti: null
+    deneme: 0
+  - id: olay-kuba-fuze-krizi
+    tip: olay
+    baslik: Küba Füze Krizi
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-14
+    atanan_parti: null
+    deneme: 0
+  - id: olay-1973-petrol-krizi
+    tip: olay
+    baslik: 1973 petrol krizi
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-14
+    atanan_parti: null
+    deneme: 0
+  - id: olay-sovyetler-dagilmasi
+    tip: olay
+    baslik: Sovyetler Birliği'nin dağılması
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-15
+    atanan_parti: null
+    deneme: 0
+  - id: olay-2008-finansal-krizi
+    tip: olay
+    baslik: 2008 finansal krizi
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-16
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-sumer-sehir-devletleri
+    tip: aktor
+    baslik: Sümer şehir devletleri
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-02
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-misir-yeni-kralligi
+    tip: aktor
+    baslik: Mısır Yeni Krallığı
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-02
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-hitit-imparatorlugu
+    tip: aktor
+    baslik: Hitit İmparatorluğu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-02
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-asur-imparatorlugu
+    tip: aktor
+    baslik: Asur İmparatorluğu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-03
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-ahameniş-imparatorlugu
+    tip: aktor
+    baslik: Ahameniş İmparatorluğu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-04
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-roma-imparatorlugu
+    tip: aktor
+    baslik: Roma İmparatorluğu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-04
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-han-imparatorlugu
+    tip: aktor
+    baslik: Han İmparatorluğu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-04
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-maurya-imparatorlugu
+    tip: aktor
+    baslik: Maurya İmparatorluğu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-04
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-sasani-imparatorlugu
+    tip: aktor
+    baslik: Sasani İmparatorluğu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-05
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-bizans-imparatorlugu
+    tip: aktor
+    baslik: Bizans İmparatorluğu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-05
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-abbasi-hilafeti
+    tip: aktor
+    baslik: Abbasi Hilafeti
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-06
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-tang-hanedani
+    tip: aktor
+    baslik: Tang hanedanı
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-06
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-karolenj-imparatorlugu
+    tip: aktor
+    baslik: Karolenj İmparatorluğu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-06
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-buyuk-selcuklu
+    tip: aktor
+    baslik: Büyük Selçuklu Devleti
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-07
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-song-hanedani
+    tip: aktor
+    baslik: Song hanedanı
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-07
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-mogol-imparatorlugu
+    tip: aktor
+    baslik: Moğol İmparatorluğu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-07
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-mali-imparatorlugu
+    tip: aktor
+    baslik: Mali İmparatorluğu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-07
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-hansa-birligi
+    tip: aktor
+    baslik: Hansa Birliği
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-08
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-ming-hanedani
+    tip: aktor
+    baslik: Ming hanedanı
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-08
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-safevi-devleti
+    tip: aktor
+    baslik: Safevi Devleti
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-09
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-babur-imparatorlugu
+    tip: aktor
+    baslik: Babür İmparatorluğu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-09
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-ispanyol-imparatorlugu
+    tip: aktor
+    baslik: İspanyol İmparatorluğu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-09
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-hollanda-doguhindistan-sirketi
+    tip: aktor
+    baslik: Hollanda Doğu Hindistan Şirketi
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-10
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-ingiliz-doguhindistan-sirketi
+    tip: aktor
+    baslik: İngiliz Doğu Hindistan Şirketi
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-10
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-qing-hanedani
+    tip: aktor
+    baslik: Qing hanedanı
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-10
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-rus-imparatorlugu
+    tip: aktor
+    baslik: Rus İmparatorluğu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-11
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-britanya-imparatorlugu
+    tip: aktor
+    baslik: Britanya İmparatorluğu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-12
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-alman-imparatorlugu
+    tip: aktor
+    baslik: Alman İmparatorluğu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-12
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-avusturya-macaristan
+    tip: aktor
+    baslik: Avusturya-Macaristan
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-12
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-japonya-imparatorlugu
+    tip: aktor
+    baslik: Japonya İmparatorluğu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-13
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-sovyetler-birligi
+    tip: aktor
+    baslik: Sovyetler Birliği
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-14
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-birlesmis-milletler
+    tip: aktor
+    baslik: Birleşmiş Milletler
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-14
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-imf
+    tip: aktor
+    baslik: Uluslararası Para Fonu
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-14
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-dunya-bankasi
+    tip: aktor
+    baslik: Dünya Bankası
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-14
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-avrupa-birligi
+    tip: aktor
+    baslik: Avrupa Birliği
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-15
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-dunya-ticaret-orgutu
+    tip: aktor
+    baslik: Dünya Ticaret Örgütü
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-15
+    atanan_parti: null
+    deneme: 0
+  - id: aktor-cin-halk-cumhuriyeti
+    tip: aktor
+    baslik: Çin Halk Cumhuriyeti
+    durum: bekliyor
+    faz: 2
+    bagimlilik:
+      - donem-16
     atanan_parti: null
     deneme: 0

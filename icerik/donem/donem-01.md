@@ -17,6 +17,9 @@ guven_geneli: tartismali
 etiketler: [neolitik, evcillestirme, yerlesiklik, holosen, arkeoloji]
 ilgili:
   - donem-02
+  - olay-gobeklitepe
+  - olay-neolitik-devrim
+  - tartisma-tarim-devrimi-ilerleme-mi
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

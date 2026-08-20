@@ -1,8 +1,8 @@
 ---
-aktif_faz: 1
+aktif_faz: 2
 aktif_parti: B01
-son_commit: c0efe10
-son_guncelleme: 2026-08-20T21:02:46.126Z
+son_commit: f25bb8e
+son_guncelleme: 2026-08-20T21:11:21.338Z
 sayaclar:
   uretilen: 0
   onaylanan: 0
@@ -18,7 +18,7 @@ butce:
   makale_basina_max_deneme: 3
   faz_basina_max_parti: 40
   toplam_token_tavani: 40000000
-  harcanan_token: 840000
+  harcanan_token: 930000
 engeller:
   ardisik_ayni_hata: 0
   son_hata_imzasi: null
@@ -29,6 +29,7 @@ onarim:
   kok_neden: null
 faz_parti_sayaci:
   "1": 1
+  "2": 1
 ---
 
 # DURUM — otonom döngünün hafızası
@@ -36,10 +37,10 @@ faz_parti_sayaci:
 > Bu dosya orkestratör tarafından yazılır. Elle düzenlenmez.
 > Hat durduğunda `npm run otonom` bu dosyayı okuyup aynı noktadan sürer.
 
-**Aktif faz:** 1 — Kronolojik omurga
+**Aktif faz:** 2 — Ana gövde
 **Aktif parti:** B01
-**Son güncelleme:** 2026-08-20T21:02:46.126Z
-**Son commit:** c0efe10
+**Son güncelleme:** 2026-08-20T21:11:21.338Z
+**Son commit:** f25bb8e
 
 | Sayaç | Değer |
 |---|---|
@@ -54,6 +55,6 @@ faz_parti_sayaci:
 | Makale başına ortalama kaynak | 3.4 | 3 |
 | Örnekleme kapısı son skor | - | 0.9 |
 
-**Bütçe:** 840.000 / 40.000.000 token
+**Bütçe:** 930.000 / 40.000.000 token
 **Ardışık aynı hata:** 0 / 5
 **Onarım turu:** 0 / 3

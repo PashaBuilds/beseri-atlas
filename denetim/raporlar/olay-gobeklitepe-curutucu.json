@@ -1,0 +1,21 @@
+{
+  "id": "olay-gobeklitepe",
+  "gecis": 3,
+  "zaman": "2026-08-20T21:09:21.384Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Alan ilk kez 1963'teki bir arkeolojik yüzey araştırmasında not edilmişti; Alman arkeolog Klaus Schmidt onun önemini 1994'te fark etti.[^k1] Yani buluntunun kendisi otuz yıl boyunca",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Alanın incelemesi büyük çevrelemeler, konut yapıları, gömüler ve diğer yapılar başlıkları altında yürütülür.[^k1] Mimari ve ikonografi, yakın çevredeki Karahan Tepe gibi çağdaş ala",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}
