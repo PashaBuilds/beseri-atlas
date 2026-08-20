@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.astro/
+denetim/.onbellek/
+otonom/is-emri.md
+*.log

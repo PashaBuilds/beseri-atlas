@@ -1,0 +1,159 @@
+# Beşeri Atlas — kaynak havuzu (§8)
+#
+# `dogrulanabilir: false` işaretli alanlar bot koruması nedeniyle programatik
+# olarak fetch edilemez. KAPI 8 ve KAPI 10 bu alanları künyede reddeder.
+# Bu bir gevşetme değil sıkılaştırmadır: doğrulanamayan bir künye, doğrulanmış
+# gibi görünen bir künyeden daha tehlikelidir (§15 "İlerlemek için kaynak
+# uydurmak" yasağı). Bu alanlar araştırma sırasında okunabilir; künyeye
+# yazılamaz — okunan bilgi doğrulanabilir bir kaynakla teyit edilip o kaynak
+# künyeye girer.
+#
+# Ölçüm tarihi: 2026-08-20 (araclar/kaynak-canlilik.mjs ile)
+
+surum: 1
+
+whitelist:
+  # ─── Genel referans ───────────────────────────────────────────────────────
+  - alan: en.wikipedia.org
+    tur: ansiklopedi
+    dogrulanabilir: true
+    kullanim: giris_kapisi
+    not: >
+      Yalnızca giriş kapısı olarak. Makalenin kendi dipnotundaki asıl kaynağa
+      inilir ve künyeye o kaynak yazılır. Tek başına kaynak gösterilemez —
+      her makalede en fazla bir Wikipedia künyesi bulunabilir.
+  - alan: islamansiklopedisi.org.tr
+    tur: ansiklopedi
+    dogrulanabilir: true
+    kullanim: birincil_tercih
+    kapsam: [osmanli, islam-dunyasi, turkiye]
+  - alan: britannica.com
+    tur: ansiklopedi
+    dogrulanabilir: false
+    engel: HTTP 403 — bot koruması, User-Agent değişimiyle de aşılamıyor
+  - alan: iranicaonline.org
+    tur: ansiklopedi
+    dogrulanabilir: false
+    engel: HTTP 403 — bot koruması
+
+  # ─── Akademik / hakemli ───────────────────────────────────────────────────
+  - alan: plato.stanford.edu
+    tur: akademik
+    dogrulanabilir: true
+    kullanim: birincil_tercih
+    kapsam: [felsefe]
+    not: Aralıklı bağlantı zaman aşımı verebilir; getir.mjs 3 deneme yapar.
+  - alan: iep.utm.edu
+    tur: akademik
+    dogrulanabilir: true
+    kapsam: [felsefe]
+  - alan: dergipark.org.tr
+    tur: akademik
+    dogrulanabilir: true
+    kapsam: [turkce-akademik]
+  - alan: jstor.org
+    tur: akademik
+    dogrulanabilir: true
+    kullanim: sadece_acik_erisim
+    not: Yalnızca açık erişim koleksiyonu. Paywall arkasındaki metin künyeye yazılmaz.
+  - alan: ssrn.com
+    tur: akademik
+    dogrulanabilir: true
+  - alan: arxiv.org
+    tur: akademik
+    dogrulanabilir: true
+    kapsam: [ekonomi, kwantitatif-tarih]
+
+  # ─── Birincil metinler (kamu malı) ────────────────────────────────────────
+  - alan: gutenberg.org
+    tur: birincil
+    dogrulanabilir: true
+  - alan: archive.org
+    tur: birincil
+    dogrulanabilir: true
+  - alan: perseus.tufts.edu
+    tur: birincil
+    dogrulanabilir: true
+    kapsam: [klasik-metinler]
+  - alan: avalon.law.yale.edu
+    tur: birincil
+    dogrulanabilir: true
+    kapsam: [antlasmalar, hukuki-belgeler]
+  - alan: marxists.org
+    tur: birincil
+    dogrulanabilir: true
+    not: Birincil metin arşivi olarak kullanılır; Marksist olmayan metinler dahil.
+
+  # ─── Veri ─────────────────────────────────────────────────────────────────
+  - alan: ourworldindata.org
+    tur: veri
+    dogrulanabilir: true
+    lisans: CC-BY
+  - alan: population.un.org
+    tur: veri
+    dogrulanabilir: true
+  - alan: rug.nl
+    tur: veri
+    dogrulanabilir: true
+    kapsam: [maddison-project]
+  - alan: correlatesofwar.org
+    tur: veri
+    dogrulanabilir: true
+    kapsam: [catisma-verisi]
+  - alan: data.worldbank.org
+    tur: veri
+    dogrulanabilir: true
+  - alan: clio-infra.eu
+    tur: veri
+    dogrulanabilir: true
+
+  # ─── Ders / anlatı ────────────────────────────────────────────────────────
+  - alan: oyc.yale.edu
+    tur: ders
+    dogrulanabilir: true
+  - alan: ocw.mit.edu
+    tur: ders
+    dogrulanabilir: true
+
+blacklist:
+  - alan: medium.com
+    gerekce: blog platformu
+  - alan: reddit.com
+    gerekce: forum
+  - alan: quora.com
+    gerekce: forum
+  - alan: blogspot.com
+    gerekce: blog platformu
+  - alan: wordpress.com
+    gerekce: blog platformu
+  - alan: substack.com
+    gerekce: blog platformu
+  - alan: youtube.com
+    gerekce: kaynak gostermeyen video icerigi
+  - alan: pinterest.com
+    gerekce: icerik ciftligi
+  - alan: tr.wikipedia.org
+    gerekce: >
+      Bu konularda EN sürümünden belirgin biçimde zayıf ve dipnot yoğunluğu
+      düşük (§2 dil politikası). Giriş kapısı olarak bile kullanılmaz.
+  - alan: libgen
+    gerekce: telifli kitaplarin korsan kopyalari — hicbir kosulda
+  - alan: z-lib
+    gerekce: telifli kitaplarin korsan kopyalari — hicbir kosulda
+  - alan: sci-hub
+    gerekce: telifli makalelerin korsan kopyalari
+  - alan: historyhit.com
+    gerekce: SEO agirlikli tarih sitesi
+  - alan: thoughtco.com
+    gerekce: icerik ciftligi
+  - alan: study.com
+    gerekce: icerik ciftligi
+
+# Kaynak çeşitliliği kuralı (Geçiş 4 için zorunlu)
+cesitlilik:
+  makale_basina_min_alan: 2
+  wikipedia_max_kunye: 1
+  yeniden_turetme_bloklama: >
+    Geçiş 4'te türetici oturuma, orijinal makalenin kullandığı alan adlarının
+    tamamı bloke edilerek verilir. En az bir farklı alan adından doğrulama
+    zorunludur (§10 Geçiş 4, madde 3).

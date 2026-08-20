@@ -1,0 +1,445 @@
+# Beşeri Atlas — kilitli terim sözlüğü
+#
+# Bu dosya Faz 0'da kilitlenir. 300 makale boyunca terminoloji tutarlılığının
+# tek garantisi budur. `yasak_varyantlar` altındaki bir dize gövdede, özette
+# veya başlıkta geçerse KAPI 4 build'i kırar.
+#
+# kullanim değerleri:
+#   zorunlu             — Türkçe karşılık kullanılır, varyantları yasaktır
+#   orijinal_birakilir  — terim çevrilmez, ilk geçtiğinde parantez içi açıklanır
+#   tercih_edilen       — yazım/kısaltma birliği için sabitlenmiştir
+#
+# Sürüm: 1 (Faz 0'da kilitlendi)
+surum: 1
+kilit_tarihi: 2026-08-20
+
+terimler:
+  # ─── Tarih yazımı / yöntem ────────────────────────────────────────────────
+  - tr: longue durée
+    en: longue durée
+    kullanim: orijinal_birakilir
+    aciklama: Braudel terimi; Türkçeleştirilmez, ilk geçtiğinde "uzun süre" olarak parantez içi açıklanır.
+    yasak_varyantlar: [uzun süreç tarihi, uzun vade tarihi]
+  - tr: konjonktür
+    en: conjoncture
+    kullanim: zorunlu
+    yasak_varyantlar: [konjonktur, konjönktür]
+  - tr: olay tarihi
+    en: histoire événementielle
+    kullanim: zorunlu
+    aciklama: Braudel'in üç katmanlı zaman şemasının en yüzeydeki katmanı.
+    yasak_varyantlar: [vaka tarihi, hadise tarihi]
+  - tr: anakronizm
+    en: anachronism
+    kullanim: zorunlu
+    yasak_varyantlar: [anakronizim, zaman uyumsuzluğu]
+  - tr: tarih yazımı
+    en: historiography
+    kullanim: zorunlu
+    yasak_varyantlar: [historiyografi, tarihyazımı, tarih yazıcılığı]
+  - tr: teleolojik okuma
+    en: teleological reading
+    kullanim: zorunlu
+    aciklama: Geçmişi bugünün sonucuna doğru zorunlu bir ilerleme gibi okuma hatası.
+    yasak_varyantlar: [gayeci okuma, erekbilimsel okuma]
+  - tr: dönemlendirme
+    en: periodisation
+    kullanim: zorunlu
+    yasak_varyantlar: [periyodizasyon, periodizasyon, devirleme]
+  - tr: birincil kaynak
+    en: primary source
+    kullanim: zorunlu
+    yasak_varyantlar: [asli kaynak, ana kaynak]
+  - tr: ikincil kaynak
+    en: secondary source
+    kullanim: zorunlu
+    yasak_varyantlar: [tali kaynak, ikinci el kaynak]
+  - tr: MÖ
+    en: BCE
+    kullanim: tercih_edilen
+    aciklama: Noktasız yazılır.
+    yasak_varyantlar: [M.Ö., MÖ., İ.Ö., İÖ]
+  - tr: MS
+    en: CE
+    kullanim: tercih_edilen
+    yasak_varyantlar: [M.S., MS., İ.S., İS]
+  - tr: yüzyıl
+    en: century
+    kullanim: tercih_edilen
+    yasak_varyantlar: [yy, asır]
+
+  # ─── Siyaset ve devlet ────────────────────────────────────────────────────
+  - tr: güç dengesi
+    en: balance of power
+    kullanim: zorunlu
+    yasak_varyantlar: [kuvvet dengesi, güç muvazenesi, kudret dengesi]
+  - tr: hegemonya
+    en: hegemony
+    kullanim: zorunlu
+    yasak_varyantlar: [hegemonizm, hegemonlук]
+  - tr: egemenlik
+    en: sovereignty
+    kullanim: zorunlu
+    yasak_varyantlar: [hükümranlık, süveränlik, hakimiyet hakkı]
+  - tr: meşruiyet
+    en: legitimacy
+    kullanim: zorunlu
+    yasak_varyantlar: [legitimasyon, meşruluk, haklılık zemini]
+  - tr: ulus-devlet
+    en: nation-state
+    kullanim: zorunlu
+    aciklama: Kısa çizgiyle yazılır.
+    yasak_varyantlar: [ulus devlet, millet devleti, milli devlet]
+  - tr: milliyetçilik
+    en: nationalism
+    kullanim: zorunlu
+    yasak_varyantlar: [nasyonalizm, ulusçuluk]
+  - tr: imparatorluk
+    en: empire
+    kullanim: zorunlu
+    yasak_varyantlar: [emperyum]
+  - tr: patrimonyal devlet
+    en: patrimonial state
+    kullanim: zorunlu
+    aciklama: Weber'in tipolojisi; yöneticinin devleti hane malı gibi yönetmesi.
+    yasak_varyantlar: [babaerkil devlet, patrimonyalist devlet]
+  - tr: bürokrasi
+    en: bureaucracy
+    kullanim: zorunlu
+    yasak_varyantlar: [kırtasiyecilik, memuriyet düzeni]
+  - tr: feodalite
+    en: feudalism
+    kullanim: zorunlu
+    yasak_varyantlar: [feodalizm, derebeylik, timar düzeni]
+  - tr: vasallık
+    en: vassalage
+    kullanim: zorunlu
+    yasak_varyantlar: [tabiiyet bağı, bağımlılık akdi]
+  - tr: ittifak sistemi
+    en: alliance system
+    kullanim: zorunlu
+    yasak_varyantlar: [bloklaşma sistemi, ittifaklar ağı]
+  - tr: sivil toplum
+    en: civil society
+    kullanim: zorunlu
+    yasak_varyantlar: [medeni toplum, sivil cemiyet]
+  - tr: kamusal alan
+    en: public sphere
+    kullanim: zorunlu
+    aciklama: Habermas terimi.
+    yasak_varyantlar: [kamu alanı, umumi alan]
+  - tr: iki kutupluluk
+    en: bipolarity
+    kullanim: zorunlu
+    yasak_varyantlar: [çift kutupluluk, bipolarite]
+  - tr: çok kutupluluk
+    en: multipolarity
+    kullanim: zorunlu
+    yasak_varyantlar: [multipolarite, çoklu kutupluluk]
+  - tr: tek kutupluluk
+    en: unipolarity
+    kullanim: zorunlu
+    yasak_varyantlar: [unipolarite, tekil kutupluluk]
+
+  # ─── Askerî ───────────────────────────────────────────────────────────────
+  - tr: topyekûn savaş
+    en: total war
+    kullanim: zorunlu
+    yasak_varyantlar: [total savaş, topyekün savaş, bütüncül savaş]
+  - tr: seferberlik
+    en: mobilisation
+    kullanim: zorunlu
+    yasak_varyantlar: [mobilizasyon, silah altına alma düzeni]
+  - tr: caydırıcılık
+    en: deterrence
+    kullanim: zorunlu
+    yasak_varyantlar: [caydırma gücü, deterans]
+  - tr: vekâlet savaşı
+    en: proxy war
+    kullanim: zorunlu
+    yasak_varyantlar: [vekalet savaşı, temsilci savaşı, proxy savaş]
+  - tr: askerî devrim
+    en: military revolution
+    kullanim: zorunlu
+    aciklama: Roberts–Parker tartışması; 16-17. yüzyıl ateşli silah ve tahkimat dönüşümü.
+    yasak_varyantlar: [askeri devrim, harp devrimi]
+  - tr: barut imparatorlukları
+    en: gunpowder empires
+    kullanim: zorunlu
+    aciklama: Osmanlı, Safevi, Babür için Hodgson–McNeill kategorisi.
+    yasak_varyantlar: [barutlu imparatorluklar, ateşli silah imparatorlukları]
+  - tr: sürtünme
+    en: friction
+    kullanim: zorunlu
+    aciklama: Clausewitz terimi; planla gerçeklik arasındaki fark.
+    yasak_varyantlar: [friksiyon, savaş sürtüşmesi]
+  - tr: mutlak savaş
+    en: absolute war
+    kullanim: zorunlu
+    aciklama: Clausewitz'in kavramsal sınır hâli; gerçek savaştan ayrılır.
+    yasak_varyantlar: [salt savaş, kesin savaş]
+  - tr: asimetrik savaş
+    en: asymmetric warfare
+    kullanim: zorunlu
+    yasak_varyantlar: [asimetrik harp, dengesiz savaş]
+  - tr: lojistik
+    en: logistics
+    kullanim: zorunlu
+    yasak_varyantlar: [ikmal düzeni, levazım]
+
+  # ─── Ekonomi ──────────────────────────────────────────────────────────────
+  - tr: merkantilizm
+    en: mercantilism
+    kullanim: zorunlu
+    yasak_varyantlar: [merkantalizm, ticaretçilik]
+  - tr: kapitalizm
+    en: capitalism
+    kullanim: zorunlu
+    yasak_varyantlar: [sermayecilik, kapitalist düzen sistemi]
+  - tr: Sanayi Devrimi
+    en: Industrial Revolution
+    kullanim: tercih_edilen
+    yasak_varyantlar: [endüstri devrimi, sanayii devrimi]
+  - tr: ilkel birikim
+    en: primitive accumulation
+    kullanim: zorunlu
+    yasak_varyantlar: [ilksel birikim, asli birikim]
+  - tr: dünya sistemi
+    en: world-system
+    kullanim: zorunlu
+    aciklama: Wallerstein terimi; merkez–yarı çevre–çevre şeması.
+    yasak_varyantlar: [dünya-sistemi, cihan sistemi]
+  - tr: çevre
+    en: periphery
+    kullanim: zorunlu
+    aciklama: Dünya sistemi şemasında merkeze hammadde sağlayan konum.
+    yasak_varyantlar: [periferi, çeper]
+  - tr: bağımlılık kuramı
+    en: dependency theory
+    kullanim: zorunlu
+    yasak_varyantlar: [bağımlılık teorisi, tabiiyet kuramı]
+  - tr: GSYH
+    en: GDP
+    kullanim: tercih_edilen
+    aciklama: Gayrisafi yurt içi hasıla. İlk geçtiğinde açık yazılır, sonra kısaltılır.
+    yasak_varyantlar: [GDP, G.S.Y.H., gayri safi yurtiçi hasıla]
+  - tr: satın alma gücü paritesi
+    en: purchasing power parity
+    kullanim: zorunlu
+    yasak_varyantlar: [alım gücü paritesi, PPP]
+  - tr: Gini katsayısı
+    en: Gini coefficient
+    kullanim: tercih_edilen
+    yasak_varyantlar: [Cini katsayısı, gini endeksi]
+  - tr: lonca
+    en: guild
+    kullanim: zorunlu
+    yasak_varyantlar: [esnaf birliği, gedik teşkilatı]
+  - tr: serflik
+    en: serfdom
+    kullanim: zorunlu
+    yasak_varyantlar: [toprak köleliği, serf düzeni]
+  - tr: ticaret hadleri
+    en: terms of trade
+    kullanim: zorunlu
+    yasak_varyantlar: [ticaret şartları, mübadele hadleri]
+  - tr: fiyat devrimi
+    en: price revolution
+    kullanim: zorunlu
+    aciklama: 16. yüzyılda Avrupa'da uzun süreli enflasyon dalgası.
+    yasak_varyantlar: [fiyat inkılabı, büyük enflasyon dalgası]
+
+  # ─── Demografi ────────────────────────────────────────────────────────────
+  - tr: demografik geçiş
+    en: demographic transition
+    kullanim: zorunlu
+    yasak_varyantlar: [demografik dönüşüm, nüfus geçişi, demografik değişim modeli]
+  - tr: Malthus tuzağı
+    en: Malthusian trap
+    kullanim: zorunlu
+    yasak_varyantlar: [Maltus tuzağı, Malthusçu kısıt]
+  - tr: toplam doğurganlık hızı
+    en: total fertility rate
+    kullanim: zorunlu
+    yasak_varyantlar: [toplam doğurganlık oranı, doğurganlık hızı katsayısı]
+  - tr: bebek ölümlülüğü
+    en: infant mortality
+    kullanim: zorunlu
+    yasak_varyantlar: [bebek ölüm oranı hızı, çocuk ölümlülüğü]
+  - tr: yaşam beklentisi
+    en: life expectancy
+    kullanim: zorunlu
+    yasak_varyantlar: [ortalama ömür beklentisi, hayat beklentisi]
+  - tr: bağımlılık oranı
+    en: dependency ratio
+    kullanim: zorunlu
+    yasak_varyantlar: [bağımlı nüfus oranı]
+  - tr: kentleşme
+    en: urbanisation
+    kullanim: zorunlu
+    yasak_varyantlar: [şehirleşme, urbanizasyon]
+  - tr: nüfus piramidi
+    en: population pyramid
+    kullanim: zorunlu
+    yasak_varyantlar: [yaş piramidi, nüfus ağacı]
+
+  # ─── İslam dünyası ve Osmanlı ─────────────────────────────────────────────
+  - tr: asabiyet
+    en: group solidarity / asabiyyah
+    kullanim: zorunlu
+    aciklama: İbn Haldun terimi; olduğu gibi kullanılır, "dayanışma" ile karşılanmaz.
+    yasak_varyantlar: [asabiye, asabiyye, grup dayanışması]
+  - tr: umran
+    en: civilisation / umran
+    kullanim: zorunlu
+    aciklama: İbn Haldun'un toplumsal örgütlenme bilimi; "medeniyet" ile birebir karşılanmaz.
+    yasak_varyantlar: [ümran, umran ilmi bilimi]
+  - tr: hilafet
+    en: caliphate
+    kullanim: zorunlu
+    yasak_varyantlar: [halifelik makamı, hilafat]
+  - tr: devşirme
+    en: devshirme
+    kullanim: zorunlu
+    yasak_varyantlar: [devşirmecilik, çocuk toplama sistemi]
+  - tr: millet sistemi
+    en: millet system
+    kullanim: zorunlu
+    yasak_varyantlar: [milletler sistemi, cemaat sistemi]
+  - tr: ulema
+    en: ulema
+    kullanim: zorunlu
+    yasak_varyantlar: [ülema, alimler sınıfı]
+  - tr: ictihad
+    en: ijtihad
+    kullanim: zorunlu
+    yasak_varyantlar: [içtihad, ictihat, içtihat]
+  - tr: tımar
+    en: timar
+    kullanim: zorunlu
+    yasak_varyantlar: [timar, tımar sistemi düzeni]
+  - tr: iltizam
+    en: tax farming
+    kullanim: zorunlu
+    yasak_varyantlar: [mültezimlik, vergi çiftliği]
+  - tr: kapitülasyon
+    en: capitulation
+    kullanim: zorunlu
+    yasak_varyantlar: [kapitülasyonlar rejimi, imtiyazat]
+  - tr: Tanzimat
+    en: Tanzimat
+    kullanim: tercih_edilen
+    yasak_varyantlar: [tanzimat fermanı dönemi, Tanzimatçılık]
+  - tr: vakıf
+    en: waqf
+    kullanim: zorunlu
+    yasak_varyantlar: [evkaf kurumu]
+
+  # ─── Doğu Asya ────────────────────────────────────────────────────────────
+  - tr: Göksel Yetki
+    en: Mandate of Heaven
+    kullanim: zorunlu
+    aciklama: Çin siyasi meşruiyet doktrini (tianming).
+    yasak_varyantlar: [Gök Buyruğu, Cennetin Emri, Semavi Yetki]
+  - tr: imparatorluk sınavı
+    en: imperial examination
+    kullanim: zorunlu
+    aciklama: Çin bürokrasisine giriş sınavı (keju).
+    yasak_varyantlar: [mandarin sınavı, devlet imtihanı sistemi]
+  - tr: Konfüçyüsçülük
+    en: Confucianism
+    kullanim: zorunlu
+    yasak_varyantlar: [Konfüçyanizm, Konfüçyusçuluk, Konfiçyüsçülük]
+  - tr: Legalizm
+    en: Legalism
+    kullanim: tercih_edilen
+    aciklama: Çin siyaset düşüncesi okulu (fajia).
+    yasak_varyantlar: [Kanuncular okulu, Yasacılık]
+
+  # ─── Fikir dünyası ────────────────────────────────────────────────────────
+  - tr: Eksen Çağı
+    en: Axial Age
+    kullanim: zorunlu
+    aciklama: Jaspers terimi; MÖ 800-200 arası eşzamanlı düşünsel dönüşüm tezi.
+    yasak_varyantlar: [Mihver Çağı, Eksenel Çağ, Aks Çağı]
+  - tr: Aydınlanma
+    en: Enlightenment
+    kullanim: tercih_edilen
+    yasak_varyantlar: [Tenvir, Işıklanma Çağı]
+  - tr: ideoloji
+    en: ideology
+    kullanim: zorunlu
+    yasak_varyantlar: [ideolojik dizge]
+  - tr: tarihsel materyalizm
+    en: historical materialism
+    kullanim: zorunlu
+    yasak_varyantlar: [tarihi maddecilik, tarihsel maddecilik]
+  - tr: ideal tip
+    en: ideal type
+    kullanim: zorunlu
+    aciklama: Weber'in yöntemsel kurgusu; gerçekliğin tarifi değil, ölçme aracıdır.
+    yasak_varyantlar: [ideal tür, örnek tip]
+  - tr: sekülerleşme
+    en: secularisation
+    kullanim: zorunlu
+    yasak_varyantlar: [laikleşme süreci, dünyevileşme]
+  - tr: teodise
+    en: theodicy
+    kullanim: zorunlu
+    yasak_varyantlar: [teodise problemi sorunu, ilahi adalet sorunu]
+
+  # ─── Modern dönem ─────────────────────────────────────────────────────────
+  - tr: emperyalizm
+    en: imperialism
+    kullanim: zorunlu
+    yasak_varyantlar: [empeyalizm, yayılmacılık siyaseti]
+  - tr: sömürgecilik
+    en: colonialism
+    kullanim: zorunlu
+    yasak_varyantlar: [kolonyalizm, müstemlekecilik]
+  - tr: sömürgesizleşme
+    en: decolonisation
+    kullanim: zorunlu
+    yasak_varyantlar: [dekolonizasyon, sömürgelikten çıkış]
+  - tr: küreselleşme
+    en: globalisation
+    kullanim: zorunlu
+    yasak_varyantlar: [globalleşme, cihanşümulleşme]
+  - tr: modernleşme kuramı
+    en: modernisation theory
+    kullanim: zorunlu
+    yasak_varyantlar: [modernizasyon teorisi, çağdaşlaşma kuramı]
+  - tr: Soğuk Savaş
+    en: Cold War
+    kullanim: tercih_edilen
+    yasak_varyantlar: [soğuk harp]
+  - tr: Büyük Ayrışma
+    en: Great Divergence
+    kullanim: zorunlu
+    aciklama: Pomeranz terimi; Batı Avrupa ile Doğu Asya'nın 18-19. yüzyıldaki ayrışması.
+    yasak_varyantlar: [Büyük Ayrılık, Büyük Farklılaşma]
+  - tr: Kara Ölüm
+    en: Black Death
+    kullanim: tercih_edilen
+    yasak_varyantlar: [Kara Veba, Büyük Veba salgını]
+  - tr: Vestfalya
+    en: Westphalia
+    kullanim: tercih_edilen
+    aciklama: 1648 barışı ve ondan türeyen egemenlik düzeni.
+    yasak_varyantlar: [Westfalya, Westphalia, Vestfalya'lı]
+  - tr: Tunç Çağı çöküşü
+    en: Late Bronze Age collapse
+    kullanim: zorunlu
+    yasak_varyantlar: [Bronz Çağı çöküşü, Tunç Devri çöküşü]
+  - tr: Deniz Kavimleri
+    en: Sea Peoples
+    kullanim: tercih_edilen
+    yasak_varyantlar: [Deniz Halkları, Deniz Göçmenleri]
+  - tr: Kavimler Göçü
+    en: Migration Period
+    kullanim: tercih_edilen
+    yasak_varyantlar: [Barbar İstilaları, Halklar Göçü]
+  - tr: Neolitik Devrim
+    en: Neolithic Revolution
+    kullanim: tercih_edilen
+    yasak_varyantlar: [Tarım Devrimi Neolitik, Cilalı Taş Devrimi]

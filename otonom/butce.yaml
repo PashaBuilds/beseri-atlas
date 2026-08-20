@@ -1,0 +1,32 @@
+# Döngü koruyucuları (§9). Otonom bir hattın en büyük riski sonsuz döngü ve
+# sessiz bozulmadır; bu limitler sert sınırlardır.
+
+limitler:
+  makale_basina_max_deneme: 3      # aşılırsa: karantina + kayıt, sonraki makaleye geç
+  kaynak_fetch_max_deneme: 2       # 2 farklı kaynak denenir, bulunamazsa iddia silinir
+  onarim_turu_max: 3               # aşılırsa: hat durur, MUDAHALE-GEREKLI.md yazılır
+  ardisik_ayni_hata_max: 5         # aşılırsa: hat durur
+  faz_basina_max_parti: 40         # aşılırsa: faz zorla kapatılır, kalan iş karantinaya
+  parti_boyutu: 5                  # kuyruktan bir seferde alınacak makale sayısı
+  toplam_token_tavani: 40000000    # aşılırsa: temiz çıkış, DURUM.md kaldığı yeri kaydeder
+
+# Üretim/denetim adımlarını hangi çalıştırıcı yürütecek.
+#
+#   is_emri  — orkestratör deterministik kontrolü yürütür, her adım için
+#              otonom/is-emri.json yazar; iş emrini yürüten model dosyaları
+#              üretir ve `npm run otonom -- --kayit` ile sonucu bildirir.
+#              Bağımsızlık şartı (İlke 6) iş emrinin İÇERİĞİYLE sağlanır:
+#              denetim iş emri yalnızca makaleyi ve kaynak URL'lerini taşır,
+#              üretim gerekçelerini taşımaz.
+#
+#   komut    — her adım ayrı bir işlemde, temiz context ile çalıştırılır.
+#              `model_komutu` alanındaki komut çağrılır; {SABLON} yer tutucusu
+#              iş emri dosyasının yolu ile değiştirilir. Gerçek oturum
+#              yalıtımı budur; kullanılabilir olduğunda tercih edilir.
+calistirici: is_emri
+model_komutu: "claude -p --permission-mode acceptEdits {SABLON}"
+
+# Token sayımı çalıştırıcı tarafından bildirilir; is_emri modunda kayıt
+# adımında elle geçilir (`--token <n>`).
+sayim:
+  kaynak: bildirilen

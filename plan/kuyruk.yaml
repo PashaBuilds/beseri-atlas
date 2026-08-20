@@ -1,0 +1,118 @@
+# plan/kuyruk.yaml — merkezi iş listesi (§9)
+# durum: bekliyor|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
+#
+# Faz 0 kalibrasyon partisi: her tipten en az bir tane, biri mutlaka dönem
+# makalesi (§14, madde 7). Bu 10 makale geri kalan 300'ün kalite referansıdır.
+
+isler:
+  - id: donem-13
+    tip: donem
+    baslik: 1914–1945 — Felaket Dönemi
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: B01
+    deneme: 0
+    yonerge: >
+      §4'teki beş bölüm aynı sırayla. Altı bölgenin tamamı `serit` alanında
+      temsil edilmeli — zaman şeridi bileşeni bu alandan besleniyor.
+
+  - id: olay-1914-temmuz-krizi
+    tip: olay
+    baslik: 1914 Temmuz Krizi
+    durum: bekliyor
+    faz: 0
+    bagimlilik: [donem-13]
+    atanan_parti: B01
+    deneme: 0
+    yonerge: >
+      Suikast ile genel seferberlik arasındaki 37 gün. Savaş sorumluluğu
+      tartışmasına hakemlik YAPMA; tartisma-1914-savas-sorumlulugu'na yönlendir.
+
+  - id: aktor-osmanli-imparatorlugu
+    tip: aktor
+    baslik: Osmanlı İmparatorluğu
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: B01
+    deneme: 0
+    yonerge: >
+      §2 istisnası: Türkçe kaynaklar (TDV İslam Ansiklopedisi) birincil tercih.
+      Altı yüzyılı tek makaleye sıkıştırma — kurumsal yapı ve dönüşüm ekseninde yaz.
+
+  - id: dusunur-ibn-haldun
+    tip: dusunur
+    baslik: İbn Haldun
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: B02
+    deneme: 0
+    yonerge: Fikri ve etkisi. asabiyet ve umran kavram dosyalarına bağla.
+
+  - id: kavram-asabiyet
+    tip: kavram
+    baslik: Asabiyet
+    durum: bekliyor
+    faz: 0
+    bagimlilik: [dusunur-ibn-haldun]
+    atanan_parti: B02
+    deneme: 0
+
+  - id: kavram-demografik-gecis
+    tip: kavram
+    baslik: Demografik geçiş
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: B02
+    deneme: 0
+    yonerge: veri-dunya-nufusu-1500-2025 ile çift yönlü bağlanmalı.
+
+  - id: tartisma-1914-savas-sorumlulugu
+    tip: tartisma
+    baslik: 1914'te savaşın sorumluluğu kimde?
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: B02
+    deneme: 0
+    yonerge: >
+      En az 3 rakip pozisyon. hakem_yok daima true. Fischer tezi, Clark'ın
+      çoklu-sorumluluk okuması ve ittifak sistemi/yapısal açıklama ayrı ayrı.
+
+  - id: tartisma-bati-neden-yukseldi
+    tip: tartisma
+    baslik: Batı neden yükseldi?
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: B02
+    deneme: 0
+    yonerge: §7'deki dört pozisyon örneği zorunlu taban; genişletilebilir.
+
+  - id: veri-dunya-nufusu-1500-2025
+    tip: veri
+    baslik: Dünya nüfusu, 1500–2025
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: B02
+    deneme: 0
+    yonerge: >
+      Gerçek veri seti indirilecek (OWID/UN WPP), veri-setleri/ altında lisans
+      dosyasıyla saklanacak. Runtime'da dış istek yok.
+
+  - id: kaynak-clark-uyurgezerler
+    tip: kaynak
+    baslik: Christopher Clark — The Sleepwalkers
+    durum: bekliyor
+    faz: 0
+    bagimlilik: []
+    atanan_parti: B02
+    deneme: 0
+    yonerge: >
+      TELİFLİ. Sadece künye, tezinin 2-3 cümlelik atıflı özeti, hangi
+      tartışmada nerede durduğu ve okuma yönlendirmesi. Bölüm çevirisi veya
+      yeniden yapılandırılmış anlatı ÜRETİLMEZ (İlke 4). Sınır: 700 kelime.

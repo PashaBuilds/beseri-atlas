@@ -1,0 +1,28 @@
+{
+  "name": "beseri-atlas",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Turkce, kaynak-zorunlu, statik beseri bilimler bilgi atlasi",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "node araclar/kapilar.mjs --pre && astro build && node araclar/kapilar.mjs --post",
+    "preview": "astro preview",
+    "otonom": "node otonom/orkestrator.mjs",
+    "durum": "node araclar/durum.mjs",
+    "lint": "node araclar/kapilar.mjs --lint",
+    "denetle": "node araclar/denetle.mjs",
+    "curut": "node araclar/curut.mjs",
+    "turet": "node araclar/turet.mjs",
+    "capraz": "node araclar/capraz-kontrol.mjs",
+    "ornekle": "node araclar/ornekle.mjs",
+    "rapor": "node araclar/rapor.mjs",
+    "canlilik": "node araclar/kaynak-canlilik.mjs"
+  },
+  "dependencies": {
+    "astro": "^5.14.1",
+    "yaml": "^2.6.1",
+    "zod": "^3.24.1"
+  }
+}

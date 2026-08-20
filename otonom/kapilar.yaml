@@ -1,0 +1,41 @@
+# Faz geçiş eşikleri (§9). Fazlar arası geçiş insan onayına değil,
+# ölçülen metriklere bağlıdır.
+#
+# UYARI: Bu dosyadaki eşikler yalnızca YUKARI çekilebilir. Metrik tutmuyorsa
+# eşik düşürülmez — kapı, düzeltilecek şeyin ne olduğunu söyleyen sinyaldir
+# (§15, "Kapıyı gevşetmek" yasağı). Eşik değişikliği git geçmişinde görünür
+# olsun diye bu dosya her commit'e dahildir.
+
+faz_0:
+  ornek_makale_sayisi: 10
+  kaynak_dogrulama_orani_min: 0.95
+  makale_basina_kaynak_min: 3
+  build_kapilari: hepsi_gecmeli
+  karantina_orani_max: 0.10
+  tasarim_plani_yazildi: true
+  zaman_seridi_prototipi_calisiyor: true
+  her_tipten_en_az_bir: true
+
+faz_1_5:
+  kaynak_dogrulama_orani_min: 0.92
+  karantina_orani_max: 0.15
+  ornekleme_kapisi_min: 0.90
+  capraz_celiski_sayisi_max: 0
+  makale_basina_kaynak_min: 3
+  build_kapilari: hepsi_gecmeli
+
+# Faz başına beklenen çıktı — orkestratör kuyruğu buna göre doldurur.
+faz_kapsamlari:
+  0: { ad: "Altyapı + kalibrasyon", hedef: 10 }
+  1: { ad: "Kronolojik omurga", hedef: 16, tipler: [donem] }
+  2: { ad: "Ana gövde", hedef: 150, tipler: [olay, aktor] }
+  3: { ad: "Kavramsal katman", hedef: 100, tipler: [dusunur, kavram] }
+  4: { ad: "Sentez katmanı", hedef: 80, tipler: [tartisma, veri, kaynak] }
+  5: { ad: "Çapraz denetim", hedef: 0, tipler: [] }
+
+# Örnekleme kapısı (§10) — projedeki tek koşulsuz durdurma kuralı.
+ornekleme:
+  tetik_araligi: 50          # her 50 onaylanmış makalede bir
+  ornek_sayisi: 20
+  devam_esigi: 0.95
+  uyari_esigi: 0.90          # bunun altı: HAT DURUR
