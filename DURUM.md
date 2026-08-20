@@ -4,16 +4,17 @@ aktif_parti: B01
 son_commit: f25bb8e
 son_guncelleme: 2026-08-20T21:11:21.338Z
 sayaclar:
-  uretilen: 0
-  onaylanan: 0
+  uretilen: 28
+  onaylanan: 28
   karantinada: 0
   onarim_dongusunde: 0
 metrikler:
   kaynak_dogrulama_orani: 0.9938
   ortalama_kaynak_sayisi: 3.4
-  ornekleme_kapisi_son_skor: null
-  ornekleme_kapisi_son_calisma: null
-  ornekleme_kapisi_gecmisi: []
+  ornekleme_kapisi_son_skor: 0.9583
+  ornekleme_kapisi_son_calisma: 2026-08-20T20:22:35.868Z
+  ornekleme_kapisi_gecmisi:
+    - 0.9583
 butce:
   makale_basina_max_deneme: 3
   faz_basina_max_parti: 40

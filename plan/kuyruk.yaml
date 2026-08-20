@@ -247,7 +247,7 @@ isler:
   - id: olay-yazinin-icadi
     tip: olay
     baslik: Yazının icadı
-    durum: uretiliyor
+    durum: bekliyor
     faz: 2
     bagimlilik:
       - donem-02
@@ -256,7 +256,7 @@ isler:
   - id: olay-tunc-cagi-cokusu
     tip: olay
     baslik: Tunç Çağı çöküşü
-    durum: uretiliyor
+    durum: bekliyor
     faz: 2
     bagimlilik:
       - donem-03
@@ -265,7 +265,7 @@ isler:
   - id: olay-pers-yunan-savaslari
     tip: olay
     baslik: Pers–Yunan savaşları
-    durum: uretiliyor
+    durum: bekliyor
     faz: 2
     bagimlilik:
       - donem-04

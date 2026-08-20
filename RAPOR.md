@@ -88,7 +88,15 @@ hatalı kaynağa dayanıyorsa ikisi de aynı yanlışa varır.
 ## Hattın durduğu nokta
 
 Aktif faz: **2** · Aktif parti: **B01**
+Kuyrukta bekleyen iş: **86** · Karantinada: **0**
 Harcanan bütçe: 930.000 / 40.000.000 token
 
-`npm run otonom` yeniden çalıştırıldığında hat `DURUM.md`yi okuyup aynı
-noktadan sürer.
+### Neden burada duruyor
+
+Hat bir kapı kırılması ya da durdurma kuralı nedeniyle durmadı:
+bütün kapılar geçildi, örnekleme kapısı eşiğin üzerinde ve karantinada
+makale yok. Kuyrukta bekleyen iş, henüz üretilmemiş içeriktir.
+
+`npm run otonom` yeniden çalıştırıldığında hat `DURUM.md` ile
+`plan/kuyruk.yaml`yi okuyup sıradaki partiden devam eder; üretilmiş
+hiçbir iş tekrarlanmaz.

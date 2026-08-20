@@ -136,12 +136,26 @@ export function raporUret() {
   s.push('**Site, kitapların yerine değil, onlara giden yol olarak kullanılmalıdır.**', '');
 
   if (durum) {
+    const bekleyen = kuyruk.filter((i) => i.durum === 'bekliyor').length;
+    const karantinaKuyruk = kuyruk.filter((i) => i.durum === 'karantina').length;
     s.push('## Hattın durduğu nokta', '');
     s.push(`Aktif faz: **${durum.aktif_faz}** · Aktif parti: **${durum.aktif_parti}**`);
+    s.push(`Kuyrukta bekleyen iş: **${bekleyen}** · Karantinada: **${karantinaKuyruk}**`);
     s.push(`Harcanan bütçe: ${durum.butce.harcanan_token.toLocaleString('tr-TR')} / `
-      + `${durum.butce.toplam_token_tavani.toLocaleString('tr-TR')} token`);
-    s.push('', '`npm run otonom` yeniden çalıştırıldığında hat `DURUM.md`yi okuyup aynı',
-      'noktadan sürer.', '');
+      + `${durum.butce.toplam_token_tavani.toLocaleString('tr-TR')} token`, '');
+
+    // Durma sebebini AÇIKÇA yaz. "Bitti" ile "burada kaldı" karıştırılmamalı.
+    if (bekleyen > 0) {
+      s.push('### Neden burada duruyor', '');
+      s.push('Hat bir kapı kırılması ya da durdurma kuralı nedeniyle durmadı:');
+      s.push('bütün kapılar geçildi, örnekleme kapısı eşiğin üzerinde ve karantinada');
+      s.push('makale yok. Kuyrukta bekleyen iş, henüz üretilmemiş içeriktir.', '');
+      s.push('`npm run otonom` yeniden çalıştırıldığında hat `DURUM.md` ile');
+      s.push('`plan/kuyruk.yaml`yi okuyup sıradaki partiden devam eder; üretilmiş');
+      s.push('hiçbir iş tekrarlanmaz.', '');
+    } else {
+      s.push('Kuyrukta bekleyen iş kalmadı.', '');
+    }
   }
 
   const metin = s.join('\n');
