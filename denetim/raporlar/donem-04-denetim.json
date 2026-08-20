@@ -1,0 +1,133 @@
+{
+  "id": "donem-04",
+  "gecis": 2,
+  "zaman": "2026-08-20T20:43:26.346Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıla kadar çeşitli yerlerde meydana gelen dinî ve felsefi düşüncedeki geniş değişimleri anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Jaspers'e göre bu dönemde evrenselleştirici düşünce biçimleri Pers'te, Hindistan'da, Çin'de, Levant'ta ve Yunan-Roma dünyasında, bu birbirinden farklı kültürler",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Jaspers'e göre insanlığın manevi temelleri Çin'de, Hindistan'da, Pers'te, Yahudiye'de ve Yunanistan'da eşzamanlı ve bağımsız olarak atılmıştı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Jaspers şemasının ilk taslağını bir dizi örnekle sundu: Çin'de Konfüçyüs ve Lao Tzu yaşıyordu.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hindistan, Pers, Yahudiye ve Yunanistan aynı listede yer alır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Thukydides, Peloponnesos ile Atinalılar arasındaki savaşın tarihini savaş patladığı anda yazmaya başladığını, bunun büyük bir savaş olacağına ve kendinden öncek",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Gerekçesini de verir: her iki tarafın hazırlıkları her alanda son mükemmellik hâlindeydi ve Helen ırkının geri kalanının kavgada taraf tuttuğunu görüyordu.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Helen"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuzey Afrika klasik Akdeniz sisteminin içindedir; Amerika kıtası ise bu eşzamanlılık iddiasının dışında bırakılır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli seride dünya nüfusu MÖ 1000'de yaklaşık 110,5 milyon, MS 200'de yaklaşık 240,8 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eksen Çağı'na yöneltilen eleştirilerden biri tam da budur — antik Yunanistan, Levant, Hindistan ve Çin'de birlikte ortaya çıktığı varsayılan düşünsel gelişmeler",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dönemin siyasi biçimi, Thukydides'in metninde görünen ölçek değişimiyle tanımlanabilir: savaş artık iki şehir arasındaki bir mesele değil, bütün bir kültürel dü",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Thukydides"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Thukydides bunu, tarihte o güne dek bilinen en büyük hareket olarak niteler — yalnızca Helenlerin değil, barbar dünyanın büyük bir kısmının, neredeyse insanlığı",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Helenlerin"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Thukydides'in kavgada taraf tutan bütün bir kültürel dünya tasviri, yönetimin artık yüz yüze ilişkilerle sürdürülemeyeceği bir eşiğin aşıldığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzak antikitenin olaylarının ve hatta savaştan hemen önce gelenlerin, zamanın geçmesi nedeniyle açıkça saptanamayacağını; ancak mümkün olduğunca geriye götürüle",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Jaspers, Eksen Çağı'nın bir disiplin olarak felsefeyi doğurduğunu savundu.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Eksen, Çağı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramı, Vom Ursprung und Ziel der Geschichte adlı kitabında ortaya koydu; eserin İngilizce çevirisi The Origin and Goal of History adıyla 1953'te yayımlandı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kavramı, Vom Ursprung und Ziel der Geschichte adlı kitabında ortaya koydu; eserin İngilizce çevirisi The Origin and Goal of History adıyla 1953'te yayımlandı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuramın tarihsel geçerliliği tartışmalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Jaspers'e yöneltilen eleştiriler arasında şunlar sayılır: eşzamanlı ortaya çıktığı varsayılan düşünsel gelişmeler arasında gösterilebilir ortak bir payda bulunm",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Buna karşılık, insanlık kültür tarihinde böyle bir geçiş olduğu ve bu dönemin Eksen Çağı diye adlandırılabileceği görüşünün evrensel olmasa da yaygın biçimde ka",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Eksen, Çağı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin sonunda kurulan evrensellik iddialı düşünsel çerçeveler, sonraki dönemin din temelli imparatorluk düzenlerinin zeminini oluşturacaktır; o dönem 200–650 ",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "donem-05",
+  "gecis": 2,
+  "zaman": "2026-08-20T20:43:26.415Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Geç antikite MS 285–700 aralığına yerleştirilir ve klasik antikite ile Erken Orta Çağ arasında durur.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Geç antikitenin coğrafyası Roma İmparatorluğu'nun ötesine uzanır: kralları İran ve Mezopotamya'yı yöneten ve Ermenistan, Kafkasya ile kuzey Mezopotamya için Rom",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı çerçeveye, Güney Arabistan, kuzey Arabistan ve doğu Arabistan toplumlarının Kızıldeniz ve Basra Körfezi ağlarına katıldığı Arabistan da dahildir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Theodosius'un ölümü, Sasani İmparatorluğu'nun ortaya çıkışı ve yüzyıllar süren Roma-Sasani savaşlarının başlaması, Got, Vandal, Burgond ve Frank gruplarının bat",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Doğu Roma İmparatorluğu batıdaki dönüşümlerden sağ çıktı ve Konstantinopolis'ten yönetildi; bu olaylar uluslararası siyasette derin bir değişime işaret etti.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sasani İmparatorluğu dönemin iki kutbundan biriydi.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İmparatorluğu"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin sonuna doğru Arabistan, geç antik dünyanın kendi başlığı altında incelenen bir bileşeni hâline gelir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aksum Krallığı, geç antik krallık ve imparatorluklar listesinde Bizans, Sasani ve barbar krallıklarıyla birlikte anılır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mısır, Suriye, Filistin ve Kuzey Afrika ayrı bölgesel incelemelerin konusudur.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu üç bölge geç antik çerçevenin merkezinde değildir; Güney Asya ticaret ağı üzerinden bağlanır, Doğu Asya ve Amerika ise ayrı çizgilerini sürdürür.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Geç antik devletin gücü, vergi toplama kapasitesine dayanır ve bu kapasite toprak, aristokrasi ve emek düzenlemeleriyle birlikte incelenir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli seride dünya nüfusu MS 200'de yaklaşık 240,8 milyon, MS 600'de yaklaşık 271,6 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu yavaşlamanın arkasındaki etkenlerden biri Justinianus vebasıdır; geç antikite literatüründe salgın, iklim ve demografi tek bir başlık altında birlikte ele al",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Salgının bir imparatorluğun kaderini değiştirebileceği fikri, klasik tarih yazımında Thukydides'in Atina vebası anlatısına kadar geri gider; geç antik dönemde b",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Thukydides, Atina"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Göç ve yerleşim, batı eyaletlerinde farklı sonuçlar üretti: Galya ve İspanya'da Romalı aristokratlar ve piskoposlar yeni yöneticilerle çalışmayı öğrendi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Attila'nın ölümünden sonra onun haraç, askerî ittifak ve diplomatik baskı üzerine kurulu gücü parçalandı; bu, başka grupların yeniden örgütlenmesine imkân verir",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hukuk tarafında dönem, Roma hukukunun kodifikasyonuyla tanımlanır; hukuk, idare ve kurumlar geç antik incelemelerin ayrı bir başlığıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu seferler imparatorluk ordularını, Arap müttefikleri, Ermeni soylularını, Kafkas krallıklarını ve sınır şehirlerini kapsıyordu; maliyetleri Justinianus'un bat",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "602-628 savaşı, daha önceki çatışmaların hiçbirinde görülmemiş bir ölçeğe ulaştı; Sasani kuvvetleri Suriye, Filistin ve Mısır dahil doğu Roma Yakın Doğusu'nun b",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Geç antik incelemeler Hristiyanlığı, Rabbinik Yahudiliği, Zerdüştlüğü ve Sasani dinî kültürünü, geleneksel kültleri ve felsefeyi, ayrıca İslam'ı ve geç antik Ar",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Edebiyat tarafında dönem, Yunanca ve Latince yazının yanı sıra Süryanice, Kıptice ve Ermenice edebî kültürleri de kapsar.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    }
+  ]
+}

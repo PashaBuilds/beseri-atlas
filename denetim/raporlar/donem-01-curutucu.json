@@ -1,0 +1,21 @@
+{
+  "id": "donem-01",
+  "gecis": 3,
+  "zaman": "2026-08-20T20:43:26.591Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bu dönemi anlatmanın zorluğu, yazılı kaynağın hiç olmamasıdır. Bilgi maddi kalıntıdan çıkarımla üretilir ve tarihlendirmeler kanıt biriktikçe değişir: Bereketli Hilal içinde bile b",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dönemin en önemli özelliği, dönüşümün tek bir merkezden yayılmamış olmasıdır. Tarımın kökeni haritası birbirinden bağımsız birkaç merkez gösterir; Bereketli Hilal bunların en er",
+      "sorun": "\"en önemli\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

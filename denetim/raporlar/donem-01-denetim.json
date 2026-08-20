@@ -1,0 +1,115 @@
+{
+  "id": "donem-01",
+  "gecis": 2,
+  "zaman": "2026-08-20T20:43:16.305Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bilgi maddi kalıntıdan çıkarımla üretilir ve tarihlendirmeler kanıt biriktikçe değişir: Bereketli Hilal içinde bile birden fazla evcilleştirme bölgesi bulunabil",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Bereketli, Hilal"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tarımın kökeni haritası birbirinden bağımsız birkaç merkez gösterir; Bereketli Hilal bunların en erkenidir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Bereketli, Hilal"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bereketli Hilal'deki Çanak Çömleksiz Neolitik yerleşmeleri MÖ 7500 dolaylarına tarihlenir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Doğu Bereketli Hilal'de, İran'daki Choga Golan'da yabani bitkilerin ekimine dair kanıt günümüzden 12.000 yıl öncesine tarihlenir; evcilleştirilmiş gernik buğday",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, Bereketli Hilal içinde bile birden fazla evcilleştirme bölgesi olabileceğine işaret eder.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Bereketli, Hilal"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aswad'a yerleşenlerin evcilleştirmeyi yerinde yapmadıkları, ekim için tohumla birlikte geldikleri ileri sürülmüştür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Neolitik Çin'de pirinç, darı ve karma tarım yerleşmelerinin mekânsal dağılımı ayrı bir araştırma alanıdır; bölge bağımsız bir evcilleştirme merkezi sayılır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mısır'da ekim kanıtı günümüzden yaklaşık 7.000 yıl öncesine uzanır, ama bu bir \"yalancı şafak\" olarak görünür: yerleşmeler sonradan terk edilmiş, kalıcı tarım 6",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Etiyopya yaylalarında kahve, kat, ensete, noog, tef ve parmak darısı evcilleştirildi; Sahel'de sorgum ve inci darısı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Her ikisi de ayrı tarımsal köken bölgeleri olarak sınıflandırılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu ayrılığın uzun vadeli sonucu bağışıklık tarihinde görünür: sığır gibi hayvanlarla yaklaşık on bin yıllık ortak yaşam boyunca Avrasyalılar ve Afrikalılar bu h",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu iki bölge dönemin kökeni değil, yayılma güzergâhıdır; tarımın Avrupa'ya yayılması karbon 14 ve mitokondriyal DNA kanıtlarıyla ayrı ayrı incelenir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tarımın doğuşu, Younger Dryas soğuk döneminin sonundaki hızlı sıcaklık artışı ve Holosen'in uzun, sıcak döneminin başlangıcıyla çakışır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli seride dünya nüfusu MÖ 10000'de yaklaşık 4,5 milyon, MÖ 3000'de yaklaşık 44,6 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Daha yüksek nüfus ve besin bolluğu, sağlığın iyileşmesiyle zorunlu olarak ilişkili değildir; çok sınırlı sayıda temel ürüne bağımlılık, daha fazla insanı beslem",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Childe bunu Orta Doğu tarihindeki bir dizi tarımsal devrimin ilki olarak tanıttı ve sürecin önemini vurgulamak için \"devrim\" kelimesini seçti.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Dönemin sonunda nüfus MÖ 10000'dekinin yaklaşık on katına ulaşmıştı; bu ölçek, yazının, şehrin ve devletin ortaya çıkacağı zemini hazırladı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

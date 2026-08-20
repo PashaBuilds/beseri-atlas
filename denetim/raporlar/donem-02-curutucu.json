@@ -1,0 +1,21 @@
+{
+  "id": "donem-02",
+  "gecis": 3,
+  "zaman": "2026-08-20T20:43:26.594Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dönemin ayırt edici özelliği, üç şeyin birbirine bağlı olarak ortaya çıkmasıdır: alaşım metalürjisi, yazı ve hanedan devleti. Tunç Çağı kültürleri yazıyı geliştiren ilk kültürle",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "**Doğu Asya.** Çin'de en erken tunç eserler bulunmuş, Erlitou kültürünü Shang hanedanı, Sanxingdui ve Alt Xiajiadian kültürü izlemiştir.[^k1] Shang hanedanına ait iki kulplu tunç k",
+      "sorun": "\"en erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "donem-03",
+  "gecis": 2,
+  "zaman": "2026-08-20T20:43:16.420Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıldan beri öne sürülmektedir ve çoğu, şehir ile kasabaların şiddetli biçimde yıkılmasını içerir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Geç Tunç Çağı'nı tanımlayan Miken Yunanistanı'nın, Ege bölgesinin ve Anadolu'nun saray ekonomisi dağıldı ve yerini MÖ 1200 ile MÖ 800 arasında süren Yunan Karan",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dönemi daha iyi bilinen Arkaik Çağ izledi.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Arkaik, Çağ"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bölgesel kronolojiler Anadolu, Elam, Levant, Mezopotamya, Sistan ve Kenan'ı Geç Tunç Çağı çöküşünün kapsamına yerleştirir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ramses'in saltanatı sırasında, MÖ 1145–1137 — toprak ve iktisadi güç bakımından belirgin biçimde geriledi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Daha önce, MÖ 1200 dolaylarına tarihlenen Merneptah Steli, bugünkü Libya'dan gelen Putrialılardan ve onlarla ilişkili Ekwesh ve Sherden gibi halklardan gelen sa",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bölgenin Tunç Çağı çerçevesi Xia, Shang ve Zhou hanedanlarını kapsayacak biçimde yaklaşık MÖ 3100–300 aralığına yerleştirilir.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Hint alt kıtasının Tunç Çağı çerçevesi yaklaşık MÖ 1200'de kapanır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Amerika kıtası ise Eski Dünya'nın metalürji ve ticaret ağının dışında kendi gelişim çizgisini sürdürdü.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Eski, Dünya"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çöküşün nedenleri arasında sayılan etkenler arasında iklim değişikliği, volkanik patlamalar, kuraklıklar, hastalık, Deniz Kavimleri'nin istilaları ve demir işçi",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Deniz, Kavimleri"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Demir işçiliğinin listede bir bozulma nedeni olarak geçmesi dikkate değerdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Nüfus tarafında uzun dönemli seri bu aralıkta bin yıllık çözünürlüktedir; MÖ 1000 için verilen değer yaklaşık 110,5 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin siyasi biçimi, öncekinin tersine çevrilmesiyle tanımlanır: merkezî saray ekonomisinin yerini küçük ve yalıtık köy kültürleri alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılda Yunan tarih öncesinin ilk döneminin bu sıralarda bittiği, Troya'nın düşüşünün MÖ 1190'a tarihlenmesine dayanarak ileri sürüldü; 1826'da Mısır'ın On Dok",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çoğu açıklama şehir ve kasabaların şiddetli yıkımını içerse de, arkeolojik kayıt her yerde aynı şeyi söylemez: Enkomi'de kazılan yapılarda yanma kanıtı sınırlıy",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çoğu açıklama şehir ve kasabaların şiddetli yıkımını içerse de, arkeolojik kayıt her yerde aynı şeyi söylemez: Enkomi'de kazılan yapılarda yanma kanıtı sınırlıy",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sinda'da ise yalnızca bir miktar kül bulunmuş, yıkılmış duvar ya da yanmış moloz gibi başka bir yıkım kanıtına rastlanmamıştır; bu yüzden şehrin tahrip edilip e",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, tarih yazımı açısından öğretici bir örnektir: yıkım anlatısı bazı kazı alanlarında desteklenir, bazılarında desteklenmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yunan Karanlık Çağı'nın \"karanlık\" sıfatı, dönemin kendisinden çok bu kayıt boşluğundan gelir: MÖ 1200 ile MÖ 800 arasındaki yüzyıllar için yazılı kaynak, önces",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu boşluğun ardından gelen Arkaik Çağ, daha erişilebilir bir yazı sistemine dayanır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Arkaik, Çağ"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "donem-04",
+  "gecis": 3,
+  "zaman": "2026-08-20T20:43:26.596Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "**Doğu Asya.** Jaspers şemasının ilk taslağını bir dizi örnekle sundu: Çin'de Konfüçyüs ve Lao Tzu yaşıyordu.[^k1]",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dönemin siyasi biçimi, Thukydides'in metninde görünen ölçek değişimiyle tanımlanabilir: savaş artık iki şehir arasındaki bir mesele değil, bütün bir kültürel dünyayı taraf tutmaya ",
+      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Thukydides'in yöntemsel uyarısı bu bölümün de çerçevesidir. Uzak antikitenin olaylarının ve hatta savaştan hemen önce gelenlerin, zamanın geçmesi nedeniyle açıkça saptanamayacağını",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

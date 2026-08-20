@@ -1,0 +1,139 @@
+{
+  "id": "donem-02",
+  "gecis": 2,
+  "zaman": "2026-08-20T20:43:16.368Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Tunç Çağı kültürleri yazıyı geliştiren ilk kültürlerdi.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çağı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tunç Çağı, Eski Dünya'nın büyük bölümünde MÖ 3000'e gelindiğinde başlamıştı; ancak farklı yerlerde farklı zamanlarda başladığı için her bölgenin tarihi farklı b",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metin, Hammurabi'nin Anu ve Bel tarafından adıyla çağrıldığını, ülkede doğruluğun hükmünü kurmak ve kötüleri yok etmek üzere görevlendirildiğini anlatır; amaç \"",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nil boyunca kurulan hanedan yapısı Tunç Çağı'nın en sürekli siyasi biçimlerinden biridir; dönemin bölgesel kronolojileri Mısır'ı Kenan ve Mezopotamya ile birlik",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çin'de en erken tunç eserler bulunmuş, Erlitou kültürünü Shang hanedanı, Sanxingdui ve Alt Xiajiadian kültürü izlemiştir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Shang hanedanına ait iki kulplu tunç kaplar MÖ 1600–1046 arasına tarihlenir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Doğu Asya'nın Tunç Çağı yaklaşık MÖ 3100–300 aralığıyla çerçevelenir ve Xia, Shang ve Zhou hanedanlarını kapsar.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hint alt kıtasının Tunç Çağı yaklaşık MÖ 3300–1200 aralığına yerleştirilir ve İndus Vadisi Uygarlığı'nı kapsar.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kıtanın Tunç Çağı, Ünětice, Tümülüs, Urnfield, Proto-Villanova, Hallstatt, Argar ve Nordik Tunç Çağı gibi birbirini izleyen kültürler dizisiyle tanımlanır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Seima-Turbino olgusu bu dönemin en geniş ölçekli hareket örneğidir: MÖ 2000 dolaylarında bölgedeki iklim değişikliklerinin ve bunu izleyen ekolojik, iktisadi ve",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin teknoloji listesi arsenikli tunç, yazı, edebiyat, kılıç ve savaş arabasını bir arada verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli seride dünya nüfusu MÖ 3000'de yaklaşık 44,6 milyon, MÖ 1000'de yaklaşık 110,5 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Hammurabi kanunları harman hayvanı kiralamanın bedelini on ka tahıl, öküz-araba-sürücü kiralamanın bedelini günde yüz seksen ka tahıl, yalnız araba kiralamanın ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Hammurabi kendisini, tanrılar tarafından adıyla çağrılmış, Tanrı'dan korkan yüce prens olarak sunar; ülkeyi Şamaş gibi yönetmek ve insanlığın esenliğini ilerlet",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tanrı, Şamaş"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı metinde Nippur ve Dur-ilu'yu zenginleştirdiğini, Eridu'yu yeniden kurduğunu ve dünyanın dört bir yanını fethettiğini belirtir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin kendisi bu meşruiyet formülünün üç bileşenini bir arada verir: ilahi kaynaklı yetki, adaleti sağlama iddiası ve imar faaliyetiyle kanıtlanan kudret.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin askerî teknolojisi kılıç ve savaş arabasıyla tanımlanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaş arabası, at yetiştiriciliği ve binicilikle birlikte, bozkır ile yerleşik bölgeler arasındaki askerî dengeyi kalıcı olarak değiştirdi; Seima-Turbino olgusu",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Güney Sibirya ve Kazakistan'daki (Andronovo ufku) yerleşimlerin genetik testleri, tunç teknolojisinin doğuya doğru Hint-Avrupa göçleriyle yayıldığı görüşünü des",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Geç Tunç Çağı çöküşü, Ege, Anadolu, Mısır, Mezopotamya, Sistan ve Kenan'ı kapsayan bölgesel bir kırılma olarak sınıflandırılır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Hammurabi metninin girişinde kurulan dünya tasavvuru şöyledir: gökle yerin temelleri kadar sağlam kurulmuş kalıcı bir krallık, tanrılar tarafından adıyla çağrıl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı dönemin Doğu Asya'sında tunç kapların hanedan törenselliğindeki merkezî yeri, benzer bir işlevin farklı bir maddi biçimde göründüğüne işaret eder: nesne, t",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    }
+  ]
+}

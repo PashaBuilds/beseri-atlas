@@ -1,0 +1,42 @@
+{
+  "id": "donem-03",
+  "gecis": 3,
+  "zaman": "2026-08-20T20:43:26.595Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "**İslam dünyası (Anadolu ve Levant).** Bölgesel kronolojiler Anadolu, Elam, Levant, Mezopotamya, Sistan ve Kenan'ı Geç Tunç Çağı çöküşünün kapsamına yerleştirir.[^k2] Bu, çöküşün t",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dönemin maddi kırılması, uzun mesafeli tedarik zincirine bağımlı bir üretim biçiminin çökmesidir. Çöküşün nedenleri arasında sayılan etkenler arasında iklim değişikliği, volkanik p",
+      "sorun": "\"en önemli\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dönemin siyasi biçimi, öncekinin tersine çevrilmesiyle tanımlanır: merkezî saray ekonomisinin yerini küçük ve yalıtık köy kültürleri alır.[^k1] Bu, ölçek küçülmesidir; ama aynı zam",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Çöküşün askerî boyutu, kanıtın en tartışmalı olduğu yerdir. Çoğu açıklama şehir ve kasabaların şiddetli yıkımını içerse de,[^k1] arkeolojik kayıt her yerde aynı şeyi söylemez: Enko",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bu, tarih yazımı açısından öğretici bir örnektir: yıkım anlatısı bazı kazı alanlarında desteklenir, bazılarında desteklenmez.[^k1] Genelleme, hangi alanların örnek alındığına bağlı",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

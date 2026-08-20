@@ -1,0 +1,28 @@
+{
+  "id": "donem-05",
+  "gecis": 3,
+  "zaman": "2026-08-20T20:43:26.597Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu yavaşlamanın arkasındaki etkenlerden biri Justinianus vebasıdır; geç antikite literatüründe salgın, iklim ve demografi tek bir başlık altında birlikte ele alınır.[^k1] Salgının ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dönemin siyasi yeniliği, imparatorluğun tek meşru siyasi biçim olmaktan çıkmasıdır. Göç ve yerleşim, batı eyaletlerinde farklı sonuçlar üretti: Galya ve İspanya'da Romalı aristokra",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Edebiyat tarafında dönem, Yunanca ve Latince yazının yanı sıra Süryanice, Kıptice ve Ermenice edebî kültürleri de kapsar.[^k1] Tek bir imparatorluk dilinin yerini alan bu çokluk, s",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}
