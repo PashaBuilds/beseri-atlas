@@ -32,6 +32,7 @@ ilgili:
   - olay-ronesans
   - aktor-majapahit
   - aktor-timur-imparatorlugu
+  - aktor-goryeo-choson
 okuma_onerisi: []
 serit:
   - bolge: avrupa

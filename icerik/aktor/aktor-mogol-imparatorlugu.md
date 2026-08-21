@@ -18,6 +18,7 @@ ilgili:
   - aktor-song-hanedani
   - aktor-memluk-devleti
   - aktor-majapahit
+  - aktor-goryeo-choson
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

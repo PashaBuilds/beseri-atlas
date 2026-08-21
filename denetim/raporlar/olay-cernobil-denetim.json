@@ -1,0 +1,79 @@
+{
+  "id": "olay-cernobil",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:08:35.433Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "26 Nisan 1986'da, yerel saatle 01:23'te, Çernobil Nükleer Santrali'nin 4 numaralı reaktörü patladı; yer Pripyat yakını, Ukrayna Sovyet Sosyalist Cumhuriyeti, So",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kronolojisi şu sırayı verir: 28 Nisan Pazartesi saat 09:30'da İsveç'teki Forsmark Nükleer Santrali'nin personeli radyoaktivitede tehlikeli bir artış sa",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ölçümün duyurudan yaklaşık on bir buçuk saat önce kaydedilmesi, atlasın \"kayıt\" ile \"olay\" arasındaki farkı neden ayrı tuttuğunun en açık örneklerinden biridir:",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak müdahalenin 500.000'den fazla personel gerektirdiğini ve tahminen 18 milyar ruble tuttuğunu yazar; aynı paragrafta toplam maliyet için 700 milyar ABD dol",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kaynakta iki farklı maliyet sayısının bulunması, bunların farklı şeyleri ölçtüğünü düşündürür; kaynak bu iki sayının kapsam farkını burada açıkça tanımlama",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak kazayı, Uluslararası Nükleer Olay Ölçeği'nde azami şiddet derecesi verilen iki nükleer kazadan biri olarak kaydeder; diğeri Japonya'daki 2011 Fukuşima ka",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı cümlenin devamındaki niteleme ise kaynağın kendi düzenleme işaretiyle şerhlidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak kazanın, ciddi bir arıza sırasında elektrik kesintisi koşullarında reaktörün soğutulmasını canlandıran bir test sırasında meydana geldiğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir güvenlik tatbikatının kazanın kendisine dönüşmesi, test koşullarının da gerçek koşullar olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kazanın gerçekleştiği devlet için kaynak Sovyetler Birliği'ni 1922-1991 arasına yerleştirir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1986 için yaklaşık 4,96 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kazanın teknik seyri, tahliye, sağlık sonuçları, örtbas tartışmaları ve sonraki onlarca yıl burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

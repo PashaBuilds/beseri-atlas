@@ -231,3 +231,16 @@ Bu bir esik dusurmesi degildir — kapi hala ayni sertlikte calisiyor, yalnizca
 denetimli sozluk gercek kapsami karsilayacak hale getirildi. `ZamanSeridi`
 bileseni bilerek alti satirda birakildi: o bilesen `donem.serit` alanindan
 beslenir ve hicbir donem dosyasi `orta-asya` seridi tanimlamaz.
+
+## Eksen sozlugu genisletilmedi (2026-08-21, B40)
+
+Cernobil yazilirken `teknolojik` ve `cevresel` eksenleri KAPI 1 tarafindan
+reddedildi. Bolge sozlugunden farkli olarak burada sozluk GENISLETILMEDI.
+
+Gerekce: bolge durumunda Ic Asya icin hicbir karsilik yoktu; eksen durumunda ise
+korpus zaten yerlesik bir donusum kullaniyor — olay-sanayi-devrimi
+`[ekonomik, kulturel, demografik]`, olay-yesil-devrim `[ekonomik, demografik]`,
+olay-uzay-yarisi `[siyasi, askeri, kulturel]`. Yeni eksen eklemek, yazilmis ~170
+makaleyi geriye donuk tutarsiz birakirdi. Cernobil `[siyasi, ekonomik,
+demografik]` olarak yazildi: makalenin fiilen tartistigi seyler duyuru zamani,
+maliyet sayilari ve etkilenen nufustur.

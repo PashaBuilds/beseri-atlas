@@ -1,0 +1,97 @@
+{
+  "id": "aktor-goryeo-choson",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:08:35.494Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Önceki hanedan 918-1392 arasına tarihlenir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak devlet biçimini tek bir satırda vermez: bağımsız devlet 918-1270 ve 1356-1392 arasında, Yuan hanedanının tabi devleti ise 1270-1356 arasında.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir devletin bağımsızlığının iki ayrı aralık halinde kaydedilmesi, atlasın \"bağımsız / bağımlı\" ikiliğine neden tek bir kutu ayırmadığını gösterir: durum, aynı ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yönetim biçimi monarşi olarak verilir, ama altına şu eklenir: 1170-1270 arasında askerî cunta yönetimi altında.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yüz yılın hem monarşi hem askerî yönetim olarak kaydedilebilmesi, resmî biçimle fiilî iktidarın ayrı ayrı yazılabildiğini gösterir; aynı ayrım dosyasında m",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak ayrıca bir not düşer: hanedan Çin hanedanlarıyla nominal haraçgüzarlık ilişkilerini sürdürdü.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nominal haraçgüzarlık ile tabi devlet durumunun ayrı ayrı kaydedilmesi, bölgede bağımlılığın tek bir derecesi olmadığını gösterir; biri protokol, diğeri yönetim",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "yüzyıl sonuna.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaynağın sonu ayrı iki başlıkta işlemesi dikkat çekicidir: hanedanın sonu ile imparatorluğun kurulması ve sömürgeleştirme ayrı bölümlerdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir hanedanın bitişi ile ülkenin bağımsızlığının bitişinin aynı olay olmaması, bu dosyanın 1897'de değil daha geç bir tarihte kapanmadığının gerekçesidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sonraki hanedanın yönetimi kaynakta kral, memurlar, Devlet Konseyi, Altı Bakanlık, Üç Daire ve yerel yönetim başlıklarına ayrılır; ordu için kara, deniz ve sara",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Devlet, Konseyi, Altı, Bakanlık"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir hanedanın yönetim şemasının bu ayrıntıda kaydedilmesi, atlasın kurumsal tarih için Doğu Asya'da neden görece zengin bir kayıt bulduğunu gösterir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1000 yılı için yaklaşık 314,7 milyon, 1500 yılı için yaklaşık 503,1 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaşlar, Moğol istilaları, kültür ve teknoloji burada ayrı başlıklar altında ele alınmamıştır; kaynaklar bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Moğol"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Savaşlar, Moğol istilaları, kültür ve teknoloji burada ayrı başlıklar altında ele alınmamıştır; kaynaklar bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Moğol"
+    }
+  ]
+}

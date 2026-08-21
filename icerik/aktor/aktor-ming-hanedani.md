@@ -17,6 +17,7 @@ ilgili:
   - olay-cheng-ho-seferleri
   - aktor-qing-hanedani
   - aktor-safevi-devleti
+  - aktor-goryeo-choson
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -20,6 +20,7 @@ ilgili:
   - aktor-nato
   - aktor-varsova-pakti
   - olay-uzay-yarisi
+  - olay-cernobil
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

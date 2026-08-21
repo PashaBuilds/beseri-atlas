@@ -1,0 +1,28 @@
+{
+  "id": "aktor-goryeo-choson",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:08:35.912Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak devlet biçimini tek bir satırda vermez: bağımsız devlet 918-1270 ve 1356-1392 arasında, Yuan hanedanının tabi devleti ise 1270-1356 arasında.[^k1]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir devletin bağımsızlığının iki ayrı aralık halinde kaydedilmesi,[^k1] atlasın \"bağımsız / bağımlı\" ikiliğine neden tek bir kutu ayırmadığını gösterir: durum, aynı hanedanın ömrü ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Nominal haraçgüzarlık ile tabi devlet durumunun ayrı ayrı kaydedilmesi,[^k1] bölgede bağımlılığın tek bir derecesi olmadığını gösterir; biri protokol, diğeri yönetim düzeyindedir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

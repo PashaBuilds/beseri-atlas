@@ -1439,7 +1439,7 @@ isler:
   - id: aktor-goryeo-choson
     tip: aktor
     baslik: Goryeo ve Joseon Kore
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-08
@@ -1556,7 +1556,7 @@ isler:
   - id: olay-cernobil
     tip: olay
     baslik: Çernobil kazası
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14

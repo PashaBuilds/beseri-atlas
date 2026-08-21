@@ -16,6 +16,7 @@ ilgili:
   - donem-14
   - aktor-sovyetler-birligi
   - olay-kuba-fuze-krizi
+  - olay-cernobil
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

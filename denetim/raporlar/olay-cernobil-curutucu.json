@@ -1,0 +1,14 @@
+{
+  "id": "olay-cernobil",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:08:35.909Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Uzun dönemli seride dünya nüfusu 1986 için yaklaşık 4,96 milyardır.[^k3] Kazadan etkilenen nüfusa dair tek bir toplam ölçüm kullanılan kaynak bölümünde bulunmadığı için bu değer iç",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

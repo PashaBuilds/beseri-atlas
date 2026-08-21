@@ -39,6 +39,7 @@ ilgili:
   - olay-nufus-patlamasi
   - olay-uzay-yarisi
   - olay-yesil-devrim
+  - olay-cernobil
 okuma_onerisi: []
 serit:
   - bolge: avrupa
