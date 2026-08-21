@@ -2877,7 +2877,7 @@ isler:
   - id: veri-kentli-nufus-sayisi
     tip: veri
     baslik: Kentli nüfus sayısı
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

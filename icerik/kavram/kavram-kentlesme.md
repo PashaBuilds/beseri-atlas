@@ -18,6 +18,7 @@ ilgili:
   - veri-kentlesme-orani-1500-2023
   - veri-ortalama-egitim-suresi
   - veri-tarim-istihdami
+  - veri-kentli-nufus-sayisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

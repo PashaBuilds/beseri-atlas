@@ -17,6 +17,7 @@ ilgili:
   - tartisma-tarim-devrimi-ilerleme-mi
   - olay-gobeklitepe
   - kavram-tarihsel-iklimbilim
+  - veri-kentli-nufus-sayisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
