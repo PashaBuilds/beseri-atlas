@@ -12,7 +12,7 @@ metrikler:
   kaynak_dogrulama_orani: 0.9986
   ortalama_kaynak_sayisi: 3.15
   ornekleme_kapisi_son_skor: 1
-  ornekleme_kapisi_son_calisma: 2026-08-21T06:31:26.395Z
+  ornekleme_kapisi_son_calisma: 2026-08-21T08:47:46.608Z
   ornekleme_kapisi_karar: devam
   ornekleme_kapisi_gecmisi:
     - 0.9583
@@ -22,6 +22,7 @@ metrikler:
     - 0.875
     - 0.875
     - 0.875
+    - 1
     - 1
     - 1
     - 1
