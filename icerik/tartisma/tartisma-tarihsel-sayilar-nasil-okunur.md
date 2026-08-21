@@ -50,6 +50,7 @@ ilgili:
   - dusunur-machiavelli
   - kavram-askeri-devrim
   - kavram-buyuk-ayrisma
+  - tartisma-kara-olumun-sonuclari
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

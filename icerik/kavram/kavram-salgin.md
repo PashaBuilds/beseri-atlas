@@ -13,6 +13,7 @@ ilgili:
   - olay-kara-olum
   - olay-covid-19-pandemisi
   - olay-justinyen-vebasi
+  - tartisma-kara-olumun-sonuclari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

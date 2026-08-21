@@ -1,0 +1,21 @@
+{
+  "id": "tartisma-kara-olumun-sonuclari",
+  "gecis": 3,
+  "zaman": "2026-08-21T11:04:49.426Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Kaynak, salgının 50 milyona varan ölüme yol açtığını ve bunun Avrupa'nın 14. yüzyıl nüfusunun yüzde 50'si olduğunu yazar; birkaç cümle sonra Avrupa nüfusunun yüzde 30 ile 60 arasın",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir salgının etkisinin, ondan otuz yıl önceki bir kıtlıkla birlikte kaydedilmesi,[^k1] ölü oranlarının tek bir nedene atfedilmesini zorlaştırır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

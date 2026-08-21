@@ -21,6 +21,7 @@ ilgili:
   - olay-covid-19-pandemisi
   - aktor-khmer-imparatorlugu
   - kavram-salgin
+  - tartisma-kara-olumun-sonuclari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

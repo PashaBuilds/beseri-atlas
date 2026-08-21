@@ -33,6 +33,7 @@ ilgili:
   - aktor-majapahit
   - aktor-timur-imparatorlugu
   - aktor-goryeo-choson
+  - tartisma-kara-olumun-sonuclari
 okuma_onerisi: []
 serit:
   - bolge: avrupa
