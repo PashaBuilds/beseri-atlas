@@ -32,6 +32,7 @@ ilgili:
   - olay-mansa-musa-haci
   - kavram-feodalite
   - tartisma-feodalite-kavrami
+  - tartisma-mogol-etkisi
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

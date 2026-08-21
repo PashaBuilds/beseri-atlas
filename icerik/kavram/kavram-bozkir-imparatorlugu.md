@@ -13,6 +13,7 @@ ilgili:
   - aktor-gokturk-kaganligi
   - aktor-hun-imparatorlugu
   - aktor-mogol-imparatorlugu
+  - tartisma-mogol-etkisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

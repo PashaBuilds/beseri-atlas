@@ -18,6 +18,7 @@ ilgili:
   - aktor-gokturk-kaganligi
   - kavram-kuresellesme
   - kavram-ticaret-diasporasi
+  - tartisma-mogol-etkisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

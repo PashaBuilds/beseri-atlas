@@ -20,6 +20,7 @@ ilgili:
   - aktor-majapahit
   - aktor-goryeo-choson
   - kavram-bozkir-imparatorlugu
+  - tartisma-mogol-etkisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

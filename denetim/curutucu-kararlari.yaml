@@ -985,3 +985,17 @@ hat_duzeltmesi:
       NOT: bu itiraz, yeni yazilan araclar/itiraz-ozet.mjs sayesinde ONAYDAN
       ONCE goruldu ve zincir cikis kodu 1 ile durdu. Arac ilk kullanimda ise
       yaradi.
+
+# Faz 4 turu B10: Mogol etkisi haritasi — 2026-08-21
+  - bulgu: Iki itiraz da dusuk ciddiyette ustunluk-iddiasi tipinde.
+    aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.
+  - bulgu: >-
+      Bu harita, kaynakta ADI GECEN tarihci pozisyonlari bulunmadigi icin
+      pozisyonlari kaynagin kendi BOLUM YAPISI uzerinden kurdu
+      ("Kaynagin Ipek Yolu bolumu", "Kaynagin miras bolumu").
+    aksiyon: >-
+      Yontem notu: bu, tartisma-eksen-cagi-gercek-mi'de kullanilan bicimin
+      ayni. Bir pozisyona kaynakta gecmeyen bir tarihci adi atfetmek yerine,
+      pozisyonun dayandigi kaydin nerede oldugu yaziliyor. Ucuncu pozisyon
+      acikca "Atlasin kendi kaydi" olarak isaretlendi — atlas kendi cerceve
+      onerisini bir tarihci gorusu gibi sunmuyor.

@@ -16,6 +16,7 @@ ilgili:
   - donem-07
   - olay-kara-olum
   - aktor-mogol-imparatorlugu
+  - tartisma-mogol-etkisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
