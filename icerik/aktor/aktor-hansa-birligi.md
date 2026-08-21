@@ -17,6 +17,7 @@ ilgili:
   - aktor-song-hanedani
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - kavram-sehir-devleti
+  - kavram-ticaret-diasporasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

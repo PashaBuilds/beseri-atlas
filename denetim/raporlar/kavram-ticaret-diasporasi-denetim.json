@@ -1,0 +1,61 @@
+{
+  "id": "kavram-ticaret-diasporasi",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:22:28.585Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tarihsel ticaret yollarını üçe ayırır: kara ve su yolu birleşimi olanlar (Tütsü Yolu, Kolomb öncesi ticaret), ağırlıkla karadan olanlar (İpek Yolu, Gran",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tütsü, Yolu, Kolomb, İpek"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yolların ulaşım biçimine göre üç kategoriye ayrılması, atlasın şu kuralının dayanağıdır: bu atlasta ticaret yolu adları, bir çizgi değil bir yollar demeti ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, erken yolların gelişimi başlığı altında erken gelişim, deniz ticareti ve görünür ticaret yolları alt başlıklarını tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Görünür ticaret yollarının ayrı bir alt başlık taşıması, bazı yolların arkeolojik ya da yazılı iz bıraktığını, bazılarının bırakmadığını düşündürür; atlas bu yü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İlk sırada sayılan kara yolu için tutulan kayıt, ağın Han hanedanının MÖ 114 civarında Orta Asya'ya yayılmasıyla başladığını yazar ve terimin bozkır göçebelerin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu MS 1 için yaklaşık 188,2 milyon, 1500 için yaklaşık 503,1 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu seriyi ticaret hacminin göstergesi olarak sunmaz; seri nüfus verir, ticaret vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu seriyi ticaret hacminin göstergesi olarak sunmaz; seri nüfus verir, ticaret vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yolların ayrıntısı, taşınan mallar ve ticaretin iktisadi etkileri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

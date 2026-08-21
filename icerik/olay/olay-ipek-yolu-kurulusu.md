@@ -17,6 +17,7 @@ ilgili:
   - aktor-han-imparatorlugu
   - aktor-gokturk-kaganligi
   - kavram-kuresellesme
+  - kavram-ticaret-diasporasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

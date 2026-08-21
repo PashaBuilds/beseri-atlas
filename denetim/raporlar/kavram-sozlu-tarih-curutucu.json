@@ -1,0 +1,14 @@
+{
+  "id": "kavram-sozlu-tarih",
+  "gecis": 3,
+  "zaman": "2026-08-21T10:22:29.137Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Anlatılana dayanan en eski kayıtlardan biri için tutulan madde, Herodotos'u MÖ yaklaşık 484-425 arasına yerleştirir ve tarihin babası diye anıldığını yazar.[^k2]",
+      "sorun": "\"en eski\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

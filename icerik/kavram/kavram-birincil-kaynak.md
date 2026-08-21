@@ -13,6 +13,8 @@ ilgili:
   - kavram-ikincil-kaynak
   - kavram-kaynak-elestirisi
   - dusunur-herodotos
+  - kavram-arkeolojik-kanit
+  - kavram-sozlu-tarih
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -18,6 +18,7 @@ ilgili:
   - olay-kara-olum
   - tartisma-tarihsel-sayilar-nasil-okunur
   - olay-paris-iklim-anlasmasi
+  - kavram-salgin
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

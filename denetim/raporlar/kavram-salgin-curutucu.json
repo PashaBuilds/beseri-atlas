@@ -1,0 +1,14 @@
+{
+  "id": "kavram-salgin",
+  "gecis": 3,
+  "zaman": "2026-08-21T10:22:29.136Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak ilk bölümünü tanıma ayırır ve altında parametreler diye ayrı bir alt başlık tutar; ardından önleme ve hazırlık, salgın yönetimi stratejileri ve grip salgınları için çerçevel",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

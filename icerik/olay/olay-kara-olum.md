@@ -20,6 +20,7 @@ ilgili:
   - olay-ronesans
   - olay-covid-19-pandemisi
   - aktor-khmer-imparatorlugu
+  - kavram-salgin
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

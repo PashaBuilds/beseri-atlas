@@ -16,6 +16,7 @@ ilgili:
   - donem-03
   - tartisma-tunc-cagi-cokusunun-nedeni
   - aktor-hitit-imparatorlugu
+  - kavram-tarihsel-iklimbilim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

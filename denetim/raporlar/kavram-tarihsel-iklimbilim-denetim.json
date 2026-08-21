@@ -1,0 +1,61 @@
+{
+  "id": "kavram-tarihsel-iklimbilim",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:22:28.542Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, okuryazar toplumlarda tarihçilerin yüzlerce ya da binlerce yıllık iklim değişimlerine dair yazılı kanıt bulabileceğini, örneğin üzüm hasadı tarihlerine ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, geçmiş nüfus düzeylerinin ve insanların ya da bitki ve hayvanların yaşanabilir alanlarının, bölgeye dair geçmiş iklim farklarının kanıtı olarak kullanıl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nüfusun bir iklim kanıtı olarak kullanılması, atlasın nüfus serisini kullanırken neden hangi soruya cevap verdiğini belirttiğinin dayanağıdır; aynı seri farklı ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Nüfusun bir iklim kanıtı olarak kullanılması, atlasın nüfus serisini kullanırken neden hangi soruya cevap verdiğini belirttiğinin dayanağıdır; aynı seri farklı ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, destanlar, kronikler, haritalar ve yerel tarih literatürü gibi yazılı kayıtların yanı sıra resimler, çizimler ve hatta kaya sanatı gibi görsel temsiller",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaya sanatının bir iklim kaynağı olarak sayılması, kanıt kavramının disiplinden disipline genişlediğini gösterir; arkeolojik kanıt tarafı dosyasında ele alınıyo",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tarihsel ve tarih öncesi toplumlar başlığı altında toplumsal büyüme ve kentleşme ile toplumsal çöküşü ayrı alt başlıklarda tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kanıt türlerinin tarihselliği üzerine yazan bir yazar için tutulan kayıt, onu 1926-1984 arasında yaşamış bir Fransız tarihçi ve filozof olarak verir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Buzul çağları, Orta Çağ Sıcak Dönemi, Küçük Buz Çağı ve insan kaynaklı iklim değişikliği kanıtları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunlar",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    }
+  ]
+}

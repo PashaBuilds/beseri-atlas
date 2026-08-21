@@ -16,6 +16,7 @@ ilgili:
   - donem-01
   - tartisma-tarim-devrimi-ilerleme-mi
   - olay-neolitik-devrim
+  - kavram-arkeolojik-kanit
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

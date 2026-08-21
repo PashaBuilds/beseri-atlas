@@ -19,6 +19,7 @@ ilgili:
   - tartisma-romanin-cokus-nedeni
   - tartisma-tarihsel-sayilar-nasil-okunur
   - olay-covid-19-pandemisi
+  - kavram-salgin
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,0 +1,49 @@
+{
+  "id": "kavram-sozlu-tarih",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:22:28.504Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, büyüme ve gelişme başlığı altında bölge bölge alt başlıklar tutar: Avrupa (Büyük Britanya ve İrlanda), İtalya, Sovyet sonrası ve Doğu Bloku devletleri (",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir yöntemin gelişiminin bu kadar çok bölgede ayrı ayrı işlenmesi, atlasın şu kuralının dayanağıdır: bu atlasta sözlü tarih, bir bölgeye ait bir yenilik olarak ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birleşik Devletler alt başlığının altında halkbilim kökleri ve sıradan insanlar diye ayrı bir alt başlık bulunması, yöntemin akademik olmayan bir gelenekten gel",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Devletler"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Anlatılana dayanan en eski kayıtlardan biri için tutulan madde, Herodotos'u MÖ yaklaşık 484-425 arasına yerleştirir ve tarihin babası diye anıldığını yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir tarihçinin gördüğünü ve kendisine anlatılanı bildirdiğini söylemesi, sözlü tanıklığın tarih yazımının başından beri bir kanıt türü olduğunu gösteren bir kay",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sözlü aktarımın metne dönüşmesine dair bir kayıt, erken metinlerdeki diyalog ve hikâyelerin çeşitli temsiller ve kaygılar yansıttığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yöntemin teknikleri, arşivleme ve etik kurallar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "kavram-arkeolojik-kanit",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:22:28.433Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, arkeolojik kaydın yerleşim, su ve toprak kullanımına dair kanıt oluşturmada aynı ölçüde önemli olduğunu yazar ve okuryazar olmayan toplumlarda araştırma",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir maddi kalıntının ancak bir teknikle kanıta dönüşmesi, atlasın şu kuralının dayanağıdır: bu atlasta arkeolojik iddialar, hangi teknikle üretildikleri belirti",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir başka kayıt, arkeolojide uzak tarih öncesinin dönemlendirilmesinde olağan yöntemin maddi kültür ve teknolojideki değişimlere dayanmak olduğunu yazar ve Taş ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Taş, Devri, Tunç, Çağı"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Dönem adlarının malzemeden türetilmesi, atlasın şu kuralının dayanağıdır: bu atlasta bu dönem adları, o dönemde yaşayanların kendilerini böyle adlandırdığı anla",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Terimin başka bir kullanımı için tutulan kayıt, bir yazarı 1926-1984 arasında yaşamış bir Fransız tarihçi ve filozof olarak verir ve onu yapısalcı ile post-yapı",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı sözcüğün hem bir kazı yöntemi hem bir düşünce çözümlemesi için kullanılması, atlasın terim kilidi kapısının neden var olduğunun bir başka örneğidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı sözcüğün hem bir kazı yöntemi hem bir düşünce çözümlemesi için kullanılması, atlasın terim kilidi kapısının neden var olduğunun bir başka örneğidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kazı teknikleri, tarihleme yöntemleri ve buluntu yorumlama tartışmaları burada ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak bölümlerinin kapsamı k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kazı teknikleri, tarihleme yöntemleri ve buluntu yorumlama tartışmaları burada ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak bölümlerinin kapsamı k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

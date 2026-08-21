@@ -12,6 +12,7 @@ ilgili:
   - kavram-birincil-kaynak
   - kavram-ikincil-kaynak
   - dusunur-herodotos
+  - kavram-sozlu-tarih
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

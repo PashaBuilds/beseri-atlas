@@ -2210,7 +2210,7 @@ isler:
     bagimlilik: []
     atanan_parti: null
     deneme: 0
-  - id: kavram-ictihat
+  - id: kavram-ictihad
     tip: kavram
     baslik: İctihat
     durum: uretiliyor
@@ -2293,7 +2293,7 @@ isler:
   - id: kavram-ticaret-diasporasi
     tip: kavram
     baslik: Ticaret diasporası
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2309,7 +2309,7 @@ isler:
   - id: kavram-salgin
     tip: kavram
     baslik: Salgın
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2317,7 +2317,7 @@ isler:
   - id: kavram-tarihsel-iklimbilim
     tip: kavram
     baslik: Tarihsel iklimbilim
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2349,7 +2349,7 @@ isler:
   - id: kavram-sozlu-tarih
     tip: kavram
     baslik: Sözlü tarih
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2357,7 +2357,7 @@ isler:
   - id: kavram-arkeolojik-kanit
     tip: kavram
     baslik: Arkeolojik kanıt
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

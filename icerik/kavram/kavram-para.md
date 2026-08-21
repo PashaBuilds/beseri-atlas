@@ -14,6 +14,7 @@ ilgili:
   - kavram-kapitalizm
   - aktor-song-hanedani
   - kavram-vergi
+  - kavram-ticaret-diasporasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

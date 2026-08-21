@@ -1,0 +1,67 @@
+{
+  "id": "kavram-salgin",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:22:28.488Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak ilk bölümünü tanıma ayırır ve altında parametreler diye ayrı bir alt başlık tutar; ardından önleme ve hazırlık, salgın yönetimi stratejileri ve grip salg",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tanımın altında parametrelerin ayrı bir alt başlık olarak tutulması ve grip salgınları için ayrı çerçevelerin sayılması, atlasın şu kuralının dayanağıdır: bu at",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, önleme ve hazırlık başlığı altında etik ve siyasi meseleleri ayrı bir alt başlık olarak tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir sağlık kavramının maddesinde siyasi meselelerin ayrı bir başlık taşıması, atlasın salgın dosyalarını neden siyasi eksene de bağladığının dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kayda değer salgınlar ve salgın olayları için ayrı bir bölüm tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "O örneklerden biri için tutulan ayrı kayıt, salgının 1346-1353 arasına tarihlendiğini yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1400 yılında yaklaşık 405,3 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu iki değeri bir salgın ölüm sayısı olarak sunmaz; seri toplam nüfusu verir, ölüm nedenini vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu iki değeri bir salgın ölüm sayısı olarak sunmaz; seri toplam nüfusu verir, ölüm nedenini vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yönetim stratejileri, çerçevelerin içeriği ve örneklerin ayrıntısı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -14,6 +14,7 @@ ilgili:
   - dusunur-sima-qian
   - dusunur-carr
   - kavram-ikincil-kaynak
+  - kavram-sozlu-tarih
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
