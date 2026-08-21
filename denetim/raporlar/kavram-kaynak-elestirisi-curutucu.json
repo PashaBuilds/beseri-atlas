@@ -1,0 +1,21 @@
+{
+  "id": "kavram-kaynak-elestirisi",
+  "gecis": 3,
+  "zaman": "2026-08-21T10:17:20.247Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak eleştirisinin en eski kayıtlı örneklerinden biri için tutulan madde, Herodotos'un kendi zamanında eserine efsaneler ve hayalî anlatılar kattığı için eleştirildiğini ve çağda",
+      "sorun": "\"en eski\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı kişinin bir kayıtta hikâye uydurmakla suçlanması, bir başkasında tarihin babası sayılması,[^k2][^k3] kaynak eleştirisinin neden tek bir kaynağa bakılarak yapılamayacağını göst",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -18,6 +18,7 @@ ilgili:
   - dusunur-konfucyus
   - dusunur-augustinus
   - kavram-eksen-cagi
+  - kavram-ikincil-kaynak
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

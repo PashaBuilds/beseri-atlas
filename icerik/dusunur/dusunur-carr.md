@@ -18,6 +18,7 @@ ilgili:
   - dusunur-arendt
   - kavram-anakronizm
   - kavram-guc-dengesi
+  - kavram-tarih-yazimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

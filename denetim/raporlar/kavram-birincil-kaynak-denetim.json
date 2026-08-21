@@ -1,0 +1,55 @@
+{
+  "id": "kavram-birincil-kaynak",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:17:19.651Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bölümlerini sıralar: kaynakları sınıflandırma, kaynak sınıflandırmasının önemi, birincil kaynakları bulma, birincil kaynakları kullanma, güçlü ve zayıf y",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın güçlü ve zayıf yanları tek bir başlıkta tutması ve sahteciliklere ayrı bir bölüm ayırması, atlasın şu kuralının dayanağıdır: bu atlasta bir kaynağın bi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın ilk bölümünü kaynakları sınıflandırmaya ayırması ve ardından sınıflandırmanın önemine ayrı bir bölüm tutması, bir kaynağın birincil sayılıp sayılmaması",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın ilk bölümünü kaynakları sınıflandırmaya ayırması ve ardından sınıflandırmanın önemine ayrı bir bölüm tutması, bir kaynağın birincil sayılıp sayılmaması",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sahteciliğin saptanmasına dair bir başka kayıt, bunu kendi bölümü olarak tutar ve anakronizmi bir saptama aracı olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yüz yıl önce yazılmış bir ansiklopedi maddesi, Herodotos'u MÖ yaklaşık 484-425 arasına yerleştirir ve tarihin babası diye anıldığını yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu maddeyi bir olgu kaynağı olarak değil, kendi dönemine ait bir kayıt olarak kullanır ve kaynak notunda bunu açıkça belirtir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bulma yöntemleri, alanlara göre farklar ve sahtecilik örnekleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

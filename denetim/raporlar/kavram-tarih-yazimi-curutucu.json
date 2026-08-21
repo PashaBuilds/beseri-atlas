@@ -1,0 +1,21 @@
+{
+  "id": "kavram-tarih-yazimi",
+  "gecis": 3,
+  "zaman": "2026-08-21T10:17:20.247Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı bölgenin iki ayrı dönem başlığı altında yeniden geçmesi,[^k1] atlasın şu kuralının dayanağıdır: bu atlasta tarih yazımı gelenekleri, tek bir çizgi olarak değil dönem dönem ayr",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynağın ilk bölümünü terminolojiye ayırması,[^k1] kavramın adının kendisinin de bir tartışma konusu olduğunu gösterir.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

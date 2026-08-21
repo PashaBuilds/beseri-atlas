@@ -1,0 +1,14 @@
+{
+  "id": "kavram-ikincil-kaynak",
+  "gecis": 3,
+  "zaman": "2026-08-21T10:17:20.246Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Karşıt kategori için tutulan kayıt, güçlü ve zayıf yanları tek bir başlıkta tutar ve sahteciliklere ayrı bir bölüm ayırır.[^k2] O kategori [Birincil kaynak](/kavram/birincil-kaynak",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

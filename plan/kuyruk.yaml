@@ -2325,7 +2325,7 @@ isler:
   - id: kavram-birincil-kaynak
     tip: kavram
     baslik: Birincil kaynak
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2333,7 +2333,7 @@ isler:
   - id: kavram-ikincil-kaynak
     tip: kavram
     baslik: İkincil kaynak
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2341,7 +2341,7 @@ isler:
   - id: kavram-tarih-yazimi
     tip: kavram
     baslik: Tarih yazımı
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2365,7 +2365,7 @@ isler:
   - id: kavram-kaynak-elestirisi
     tip: kavram
     baslik: Kaynak eleştirisi
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

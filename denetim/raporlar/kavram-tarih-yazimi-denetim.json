@@ -1,0 +1,43 @@
+{
+  "id": "kavram-tarih-yazimi",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:17:19.701Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı bölgenin iki ayrı dönem başlığı altında yeniden geçmesi, atlasın şu kuralının dayanağıdır: bu atlasta tarih yazımı gelenekleri, tek bir çizgi olarak değil ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın ilk bölümünü terminolojiye ayırması, kavramın adının kendisinin de bir tartışma konusu olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "yüzyıla kadar model olduğunu yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yunan geleneğinden bir yazar için tutulan bir başka madde, onu MÖ yaklaşık 484-425 arasına yerleştirir ve Halikarnassos'ta doğduğunu yazar.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl okulları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

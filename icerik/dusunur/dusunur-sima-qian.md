@@ -17,6 +17,7 @@ ilgili:
   - dusunur-kautilya
   - dusunur-tacitus
   - dusunur-clausewitz
+  - kavram-tarih-yazimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

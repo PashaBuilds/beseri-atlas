@@ -1,0 +1,73 @@
+{
+  "id": "kavram-kaynak-elestirisi",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:17:19.680Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, katkı sunan alanlar başlığı altında yedi alt başlık tutar: bilgi kuramı, araştırma yöntemi, bilim çalışmaları, metin eleştirisi, psikoloji, kütüphane ve",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir doğrulama yönteminin katkı alanları arasında etiğin sayılması, atlasın şu kuralının dayanağıdır: bu atlasta kaynak doğrulama, yalnızca teknik bir işlem olar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, anlam ve ilkelerin ardından genellik düzeyleri diye ayrı bir bölüm tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir yöntemin kendi genellik düzeyini ayrıca tartışması, aynı ilkelerin her kaynak türüne aynı biçimde uygulanamayacağını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, belirli alanlarda başlığı altında fotoğraflar, internet kaynakları ile arkeoloji gibi alt başlıklar tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İnternet kaynaklarının ayrı bir alt başlık taşıması, atlasın kaynak alanında neden erişim tarihi tuttuğunun dayanağıdır: bir internet kaynağı zamanla değişir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaynak eleştirisinin en eski kayıtlı örneklerinden biri için tutulan madde, Herodotos'un kendi zamanında eserine efsaneler ve hayalî anlatılar kattığı için eleş",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı kişi için yüz yıl önce yazılmış bir başka ansiklopedi maddesi, onu tarihin babası diye anılan Yunan tarihçi olarak tanıtır ve Halikarnassos'ta doğduğunu ya",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yunan, Halikarnassos"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı kişinin bir kayıtta hikâye uydurmakla suçlanması, bir başkasında tarihin babası sayılması, kaynak eleştirisinin neden tek bir kaynağa bakılarak yapılamayac",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı kişinin bir kayıtta hikâye uydurmakla suçlanması, bir başkasında tarihin babası sayılması, kaynak eleştirisinin neden tek bir kaynağa bakılarak yapılamayac",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İlkelerin ayrıntısı, alan alan uygulamalar ve yöntem tartışmaları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

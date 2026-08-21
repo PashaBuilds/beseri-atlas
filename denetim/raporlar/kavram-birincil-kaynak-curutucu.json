@@ -1,0 +1,14 @@
+{
+  "id": "kavram-birincil-kaynak",
+  "gecis": 3,
+  "zaman": "2026-08-21T10:17:20.243Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynağın güçlü ve zayıf yanları tek bir başlıkta tutması ve sahteciliklere ayrı bir bölüm ayırması,[^k1] atlasın şu kuralının dayanağıdır: bu atlasta bir kaynağın birincil olması, ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

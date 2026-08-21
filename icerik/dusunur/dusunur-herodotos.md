@@ -17,6 +17,9 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-sima-qian
   - dusunur-carr
+  - kavram-birincil-kaynak
+  - kavram-kaynak-elestirisi
+  - kavram-tarih-yazimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

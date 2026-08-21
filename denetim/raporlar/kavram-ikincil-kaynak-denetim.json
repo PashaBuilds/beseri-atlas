@@ -1,0 +1,49 @@
+{
+  "id": "kavram-ikincil-kaynak",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:17:19.667Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bölümlerini sıralar: kaynakların sınıflandırılması, ikincil literatür ve bilim, teknoloji ve tıp; sonuncusunun altında kütüphane ve bilgi bilimi, matemat",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın sınıflandırmayı alan alan bölümlemesi, atlasın şu kuralının dayanağıdır: bu atlasta bir kaynağın birincil ya da ikincil sayılması, kaynağın kendi nitel",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Otobiyografilerin beşerî bilimler ve tarih altında ayrı bir alt başlık taşıması, sınıflandırmanın sınır durumlarının kaynağın kendisi tarafından işaretlendiğini",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Karşıt kategori için tutulan kayıt, güçlü ve zayıf yanları tek bir başlıkta tutar ve sahteciliklere ayrı bir bölüm ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir düşünürün görüşüne yalnızca başkalarının ağzından ulaşılabildiği bir örnek için tutulan kayıt, Platon'un dolaylılığına ve Sokrates'in baskın konuşmacı oluşu",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir yazarın kendi görüşüne yalnızca kendi metnindeki başka kişiler üzerinden ulaşılabilmesi, birincil ile ikincil ayrımının metnin içinde de kurulabileceğini gö",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alan alan farklar, ikincil literatürün türleri ve kullanım kuralları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
