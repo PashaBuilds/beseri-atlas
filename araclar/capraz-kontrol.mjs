@@ -86,10 +86,31 @@ export function caprazDenetim(makaleler) {
   }
 
   // 3. Aynı varlığa farklı makalelerde farklı yıl atfı
+  //
+  // İki hassasiyet düzeltmesi (kapı gevşetmesi DEĞİL — bu kontrol zaten `incele`
+  // seviyesindedir ve derlemeyi kırmaz; amaç sinyali gürültüden ayırmaktır):
+  //
+  // (a) Cümle başındaki büyük harfli CİNS isimler ("Nüfus", "Dönemin") özel ad
+  //     değildir. Elle liste tutmak yerine korpusun kendisine soruyoruz: aynı
+  //     kelime korpusta bir yerde küçük harfle geçiyorsa özel ad değildir.
+  // (b) Bir yer adı ("Anadolu", "Fransa") farklı yüzyıllarda farklı olaylarla
+  //     anılır; bu bir tutarsızlık değildir. Bu kontrolün yakalamak için
+  //     tasarlandığı şey, AYNI olayın iki makalede farklı tarihlenmesidir —
+  //     Thompson 1929/1930 ve Osmanlı 1299/1300 vakalarında olduğu gibi. Bu
+  //     nedenle ayrışma yalnızca yıllar birbirine yakınsa raporlanır.
+  const YAKINLIK_YILI = 25;
+  const kucukGorulen = new Set();
+  for (const m of makaleler) {
+    for (const kelime of (m.govde.match(/[a-zçğıiöşü]{4,}/g) || [])) kucukGorulen.add(kelime);
+  }
+
   const varlikYillari = new Map(); // ad -> Map(yil -> Set(makale))
   for (const m of makaleler) {
     for (const { cumle } of iddiaCumleleri(m.govde)) {
       for (const { ad, yil } of varlikYilEsleri(cumle)) {
+        // Tek kelimelik ve korpusta küçük harfle de görülen ad = cins isim.
+        if (!ad.includes(' ') && !ad.includes('-')
+            && kucukGorulen.has(ad.toLocaleLowerCase('tr'))) continue;
         if (!varlikYillari.has(ad)) varlikYillari.set(ad, new Map());
         const y = varlikYillari.get(ad);
         if (!y.has(yil)) y.set(yil, new Set());
@@ -115,7 +136,9 @@ export function caprazDenetim(makaleler) {
       for (let j = i + 1; j < idler.length; j++) {
         const a = perMakale.get(idler[i]); const b = perMakale.get(idler[j]);
         const kesisim = [...a].filter((x) => b.has(x));
-        if (kesisim.length === 0 && a.size === 1 && b.size === 1) {
+        const yakin = a.size === 1 && b.size === 1
+          && Math.abs(Number([...a][0]) - Number([...b][0])) <= YAKINLIK_YILI;
+        if (kesisim.length === 0 && yakin) {
           celiskiler.push({
             tur: 'varlik-yil-ayrismasi', seviye: 'incele', makaleler: [idler[i], idler[j]],
             detay: `"${ad}" — ${idler[i]}: ${[...a].join(',')} / ${idler[j]}: ${[...b].join(',')}`,

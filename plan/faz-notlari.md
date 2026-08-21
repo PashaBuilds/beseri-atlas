@@ -112,3 +112,28 @@ varsayimi tasiyor. Plan kapsamina Faz 2 altinda eklendi.
 Genel kural olarak kayda geciyorum: bir makale yazilirken kaynagin kendisi iki
 rakip gosterim/okuma sunuyorsa, dogru hamle makaleyi `yaygin`e dusurmek degil,
 tartismayi kendi dosyasina cikarmaktir.
+
+## Faz 2 — B12 notu: Gecis 5 hassasiyet duzeltmesi (2026-08-21)
+
+Korpus 74 makaleye ulastiginda `varlik-yil-ayrismasi` kontrolu 59 INCELE satiri
+uretti ve hepsi yanlis pozitifti. Iki nedeni vardi:
+
+1. Cumle basindaki buyuk harfli CINS isimler ("Nufus", "Donemin") ozel ad
+   sanildi.
+2. Yer adlari ("Anadolu", "Fransa", "Libya") farkli yuzyillarda farkli olaylarla
+   anildiklari icin surekli ayrisma uretiyordu.
+
+Duzeltme:
+- Ozel ad testi korpusun kendisine devredildi: bir kelime korpusta bir yerde
+  kucuk harfle geciyorsa ozel ad sayilmiyor. Elle liste tutulmuyor.
+- Ayrisma yalnizca yillar 25 yildan yakinsa raporlaniyor. Bu kontrolun
+  yakalamak icin tasarlandigi sey AYNI olayin iki farkli tarihlenmesidir;
+  gercek iki bulgusu (Thompson 1929/1930 ve Osmanli 1299/1300) birer yil
+  farkindaydi.
+
+Bu bir ESIK DUSURME DEGILDIR: kontrol zaten `incele` seviyesindeydi, derlemeyi
+kirmiyordu ve `celiski` tespiti degismedi. Degisen tek sey, uyarinin okunabilir
+kalmasi. Duzeltme, iki sentetik vaka ile sinandi: 1 yillik ayrisma hala
+yakalaniyor, yer adi + yuzyil farki artik eleniyor. INCELE sayisi 59'dan 6'ya
+dustu; kalan alti satirin tamami ayni bolgede birkac yil arayla gecen FARKLI
+olaylara ait.
