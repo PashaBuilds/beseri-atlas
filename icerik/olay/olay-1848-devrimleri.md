@@ -17,6 +17,7 @@ ilgili:
   - donem-11
   - olay-viyana-kongresi
   - olay-fransiz-devrimi
+  - olay-arap-bahari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

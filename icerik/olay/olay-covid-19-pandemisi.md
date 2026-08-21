@@ -17,6 +17,7 @@ ilgili:
   - olay-justinyen-vebasi
   - olay-kara-olum
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - olay-paris-iklim-anlasmasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

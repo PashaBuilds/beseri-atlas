@@ -39,6 +39,7 @@ ilgili:
   - olay-covid-19-pandemisi
   - olay-atlantik-kole-ticareti
   - olay-irlanda-kitligi
+  - olay-arap-bahari
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

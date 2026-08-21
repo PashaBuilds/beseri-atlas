@@ -16,6 +16,7 @@ ilgili:
   - donem-15
   - olay-1973-petrol-krizi
   - aktor-safevi-devleti
+  - olay-arap-bahari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

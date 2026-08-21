@@ -20,6 +20,7 @@ ilgili:
   - aktor-imf
   - aktor-cin-halk-cumhuriyeti
   - olay-11-eylul
+  - olay-paris-iklim-anlasmasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

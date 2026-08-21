@@ -1,0 +1,61 @@
+{
+  "id": "olay-arap-bahari",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:49:14.032Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dalganın referans maddesi tek bir tarih vermez; ülke ülke ayrı tarihler sıralar: Tunus 2010-2011, Mısır 2011, Libya 2011, Suriye 2011-2024, Birleşik Arap Emi",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir ülkenin süresinin on dört yıla uzarken diğerlerinin tek bir yıl olarak verilmesi, \"dalga\" nitelemesinin başlangıçları birleştirdiğini ama sonuçları birleşti",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak sonuçları üç başlıkla verir: Arap Kışı, uzun vadeli sonuçlar ve bunun altında mezhepçilik ile devlet sistemlerinin çöküşü, ayrıca İkinci Arap Baharı.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Arap, Kışı, İkinci, Baharı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir hareketin sonuç bölümünde kendi karşıtının adının bir başlık olması, değerlendirmenin baştan iki yönlü kurulduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yapıda bir önceki dalga için de iki okuma kayıtlıdır: birçok tarihçi 1848 devrimlerini kalıcı yapısal değişikliklerin görünürdeki yokluğu nedeniyle bir baş",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki dalga arasındaki bu biçim benzerliği, atlasın karşılaştırma malzemesidir; önceki dalga dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki dalga arasındaki bu biçim benzerliği, atlasın karşılaştırma malzemesidir; önceki dalga dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 2008'de yaklaşık 6,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke ülke ayaklanmaların seyri, taleplerin içeriği, dış müdahaleler ve rejim değişiklikleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

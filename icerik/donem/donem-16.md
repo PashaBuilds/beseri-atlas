@@ -21,6 +21,8 @@ ilgili:
   - veri-dunya-nufusu-1500-2025
   - tartisma-bati-neden-yukseldi
   - olay-covid-19-pandemisi
+  - olay-arap-bahari
+  - olay-paris-iklim-anlasmasi
 okuma_onerisi: []
 serit:
   - bolge: kuresel

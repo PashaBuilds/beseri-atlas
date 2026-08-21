@@ -1,0 +1,21 @@
+{
+  "id": "olay-paris-iklim-anlasmasi",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:49:14.520Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı kayıt, katılmayan üç üye devletten yalnızca birinin büyük bir emisyon kaynağı olduğunu belirtir; en büyük ikinci emisyon kaynağı olan Amerika Birleşik Devletleri ise anlaşmada",
+      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu iki cümlenin yan yana durması,[^k1] atlas için önemli bir kayıttır: taraf sayısı yüksek bir anlaşma, en büyük aktörlerden birini kapsamayabilir. Sayı ile kapsam farklı şeylerdir",
+      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

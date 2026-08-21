@@ -1349,7 +1349,7 @@ isler:
   - id: olay-arap-bahari
     tip: olay
     baslik: Arap Baharı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-16
@@ -1520,7 +1520,7 @@ isler:
   - id: olay-paris-iklim-anlasmasi
     tip: olay
     baslik: Paris İklim Anlaşması
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-16
