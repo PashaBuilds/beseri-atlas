@@ -21,6 +21,7 @@ ilgili:
   - aktor-aztek-imparatorlugu
   - aktor-inka-imparatorlugu
   - olay-atlantik-kole-ticareti
+  - olay-meksika-fethi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

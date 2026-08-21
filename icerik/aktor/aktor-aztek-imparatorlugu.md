@@ -18,6 +18,7 @@ ilgili:
   - aktor-ispanyol-imparatorlugu
   - aktor-inka-imparatorlugu
   - olay-meksika-devrimi
+  - olay-meksika-fethi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

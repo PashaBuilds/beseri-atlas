@@ -1115,7 +1115,7 @@ isler:
   - id: olay-mansa-musa-haci
     tip: olay
     baslik: Mansa Musa'nın hac yolculuğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-08
@@ -1169,7 +1169,7 @@ isler:
   - id: olay-meksika-fethi
     tip: olay
     baslik: Meksika'nın fethi
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-09

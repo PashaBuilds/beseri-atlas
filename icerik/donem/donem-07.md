@@ -29,6 +29,7 @@ ilgili:
   - aktor-delhi-sultanligi
   - olay-kudus-fethi-1187
   - aktor-eyyubi-devleti
+  - olay-mansa-musa-haci
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

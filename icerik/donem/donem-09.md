@@ -27,6 +27,7 @@ ilgili:
   - aktor-ispanyol-imparatorlugu
   - aktor-safevi-devleti
   - aktor-songhay-imparatorlugu
+  - olay-meksika-fethi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

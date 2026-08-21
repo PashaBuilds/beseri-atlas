@@ -1,0 +1,79 @@
+{
+  "id": "olay-meksika-fethi",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:11:21.128Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak tarihi iki ayrı aralık olarak verir: Şubat 1519 - 13 Ağustos 1521 arası Aztek İmparatorluğu'na karşı, 1529 sonrası - 17 Şubat 1530 arası Purépecha İmpara",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak sonucu \"İspanyol-Yerli müttefik zaferi\" olarak kaydeder.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sonucun tek bir ulusa değil bir ittifaka atfedilmesi, \"fetih\" sözcüğünün tek bir dış gücün eylemi olarak okunmasını kaydın kendisinin zorlaştırdığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Purépecha İmparatorluğu müttefikler arasında 1522 tarihiyle, hasımlar arasında 1522-1529 ve 1533 sonrası tarihleriyle yer alır; Chalco ve Xochimilco da hem mütt",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir siyasi birimin aynı çatışmanın iki tarafında da kaydedilmesi, atlasın taraf kutularını neden tarih aralığıyla birlikte okuduğunu gösterir: taraf olmak, bir ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karşı tarafta Aztek Üçlü İttifakı 1519-1521 tarihleriyle kaydedilir; altında Tenochtitlan, Cholula, Tlatelolco, Chalco, Xochimilco ve Xaltocan sayılır, Tetzcoco",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir imparatorluğun kendi kaydında da kısmen katılan bir üye bulunması, merkezî denetimin çatışma anında ne kadar bölünebildiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İttifakın kendisi dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Toprak değişimi şöyle kaydedilir: Aztek İmparatorluğu'nun, Purépecha İmparatorluğu'nun ve diğerlerinin İspanyol İmparatorluğu tarafından ilhakı ve Yeni İspanya ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaydın hem ilhakı hem yeni bir krallığın kurulmasını aynı satırda vermesi, sömürge yönetiminin ilk adımının bir devlet biçimi olduğunu gösterir; aynı yapı dosya",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1500 yılında yaklaşık 503,1 milyon, 1600 yılında yaklaşık 516,1 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Seferin seyri, kuşatma, salgınlar ve sonraki sömürge düzeni burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

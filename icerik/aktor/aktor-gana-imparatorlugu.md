@@ -17,6 +17,7 @@ ilgili:
   - aktor-mali-imparatorlugu
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - aktor-songhay-imparatorlugu
+  - olay-mansa-musa-haci
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

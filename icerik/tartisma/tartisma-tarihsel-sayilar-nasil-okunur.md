@@ -40,6 +40,7 @@ ilgili:
   - olay-atlantik-kole-ticareti
   - olay-irlanda-kitligi
   - olay-arap-bahari
+  - olay-mansa-musa-haci
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:
