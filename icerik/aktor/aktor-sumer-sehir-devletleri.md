@@ -17,6 +17,7 @@ ilgili:
   - donem-02
   - olay-yazinin-icadi
   - aktor-maya-uygarligi
+  - kavram-sehir-devleti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

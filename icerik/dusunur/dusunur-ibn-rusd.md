@@ -16,6 +16,7 @@ ilgili:
   - dusunur-gazali
   - dusunur-farabi
   - dusunur-hobbes
+  - kavram-ictihad
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

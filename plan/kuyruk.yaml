@@ -2205,7 +2205,7 @@ isler:
   - id: kavram-kast
     tip: kavram
     baslik: Kast
-    durum: uretiliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2229,7 +2229,7 @@ isler:
   - id: kavram-sehir-devleti
     tip: kavram
     baslik: Şehir devleti
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2370,3 +2370,11 @@ isler:
     bagimlilik: []
     atanan_parti: null
     deneme: 0
+  - id: kavram-ictihad
+    tip: kavram
+    baslik: İctihad
+    durum: onaylandi
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1

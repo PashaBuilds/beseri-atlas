@@ -1,0 +1,55 @@
+{
+  "id": "kavram-sehir-devleti",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:05:18.871Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılda uluslararası gözetim altındaki şehirler; sonuncusunun altında Danzig ve Fiume ayrı ayrı işlenir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıla ait örneklerin ayrı alt başlıklar taşıması, atlasın şu kuralının dayanağıdır: bu dosyada şehir devleti, tamamlanmış bir tarihsel evre olarak anılmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın Güneydoğu Asya'yı ayrı bir alt başlık olarak tutması, kavramın Akdeniz'e özgü sayılmasının kaynağın kendi bölümlemesince desteklenmediğini gösterir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Şehirlerden oluşan bir başka siyasi biçim için tutulan kayıt, üyeliğinin Baltık ve Kuzey denizleri bölgesindeki çeşitli şehirlerden oluştuğunu ve gayriresmî baş",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir şehirler birliğinin ayrı bir kategori olarak kaydedilmesi, şehrin siyasi birim olmasının tek bir biçime bağlanamayacağını gösterir; en eski örnek dosyasında",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir şehirler birliğinin ayrı bir kategori olarak kaydedilmesi, şehrin siyasi birim olmasının tek bir biçime bağlanamayacağını gösterir; en eski örnek dosyasında",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "- 347 arasına yerleştirir ve siyaset konusunda fikrini değiştirip değiştirmediğini ayrı bir bölüm başlığı yapar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İtalyan şehir devletleri, çağdaş örnekler ve kavramın hukuki tanımı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

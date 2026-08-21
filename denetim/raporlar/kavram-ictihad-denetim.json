@@ -1,0 +1,61 @@
+{
+  "id": "kavram-ictihad",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:05:18.796Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Yunus Apaydın, baskı tarihi 2000 olarak kaydedilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir hukuk yönteminin tanımında ulaşılan bilginin zannî olarak nitelenmesi, atlasın şu kuralının dayanağıdır: bu dosyada ictihad sonuçları, kesin hüküm olarak de",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tanımın, nassın bulunmadığı durumu ayrıca içermesi, yöntemin bir metin yorumundan ibaret olmadığını, metnin sustuğu yerde de işlediğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı geleneğin bir fakihi için tutulan kayıt, onu yaklaşık 1056-1111 arasında yaşamış bir filozof, kelamcı, fakih ve mutasavvıf olarak verir ve son eserinde bir",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı geleneğin bir kadısı için tutulan kayıt ise, onu 1126-1198 arasında yaşamış Endülüslü bir filozof, hekim ve kadı olarak verir ve Aristotelesçi burhanın kat",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üç kaydın da kanıt derecesini ayrıca belirtmesi, atlasın güven düzeyi alanının bu gelenekteki karşılığıdır: bir sonucun hangi kesinlik derecesinde olduğu, sonuc",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Üç kaydın da kanıt derecesini ayrıca belirtmesi, atlasın güven düzeyi alanının bu gelenekteki karşılığıdır: bir sonucun hangi kesinlik derecesinde olduğu, sonuc",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Üç kaydın da kanıt derecesini ayrıca belirtmesi, atlasın güven düzeyi alanının bu gelenekteki karşılığıdır: bir sonucun hangi kesinlik derecesinde olduğu, sonuc",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İctihad türleri, ictihad kapısı tartışması ve mezhepler arası farklar burada ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak bölümünün kapsamı tanımd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

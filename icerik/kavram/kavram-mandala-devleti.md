@@ -13,6 +13,7 @@ ilgili:
   - aktor-srivijaya
   - kavram-haracguzarlik
   - tartisma-imparatorluk-siniri-nasil-cizilir
+  - kavram-sehir-devleti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,0 +1,55 @@
+{
+  "id": "kavram-kast",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:05:18.840Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tanımlar ve kavramlar başlığı altında üç terimi ayrı ayrı işler: varna, jāti ve kast; ayrıca 1932 tarihli bir betimlemeye, tanıma dair modern bakışa, ka",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın 1932 tarihli bir betimlemeye kendi alt başlığını ayırması, atlasın şu kuralının dayanağıdır: bu dosyada kast tanımları, hangi tarihte ve kimin tarafınd",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karmaşıklık ve esnekliğe ayrı bir alt başlık ayrılması, sistemin katı ve değişmez sayılmasının kaynağın kendi bölümlemesince desteklenmediğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sınıflandırmanın tarihselliği üzerine yazan bir yazar için tutulan kayıt, onu 1926-1984 arasında yaşamış bir Fransız tarihçi ve filozof olarak verir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı coğrafyanın siyasi kaydı, bir sultanlığın 25 Haziran 1206'da bağımsızlıkla başladığını ve 1526'da sona erdiğini yazar.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki kayıt arasında bir bağ kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas iki kayıt arasında bir bağ kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramın kökenleri, tarihsel gelişimi ve çağdaş tartışmalar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

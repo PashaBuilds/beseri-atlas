@@ -17,6 +17,7 @@ ilgili:
   - kavram-egemenlik
   - kavram-goksel-yetki
   - kavram-millet-sistemi
+  - kavram-ictihad
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

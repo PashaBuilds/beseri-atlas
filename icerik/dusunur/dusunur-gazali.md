@@ -16,6 +16,7 @@ ilgili:
   - dusunur-ibn-haldun
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-ibn-rusd
+  - kavram-ictihad
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

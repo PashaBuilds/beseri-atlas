@@ -16,6 +16,7 @@ ilgili:
   - donem-07
   - aktor-timur-imparatorlugu
   - aktor-babur-imparatorlugu
+  - kavram-kast
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

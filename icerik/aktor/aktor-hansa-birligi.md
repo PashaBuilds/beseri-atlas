@@ -16,6 +16,7 @@ ilgili:
   - donem-08
   - aktor-song-hanedani
   - tartisma-imparatorluk-siniri-nasil-cizilir
+  - kavram-sehir-devleti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

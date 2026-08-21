@@ -14,6 +14,7 @@ ilgili:
   - kavram-longue-duree
   - dusunur-carr
   - kavram-donemlendirme
+  - kavram-kast
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

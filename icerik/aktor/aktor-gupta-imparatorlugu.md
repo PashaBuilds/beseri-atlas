@@ -16,6 +16,7 @@ ilgili:
   - donem-05
   - aktor-maurya-imparatorlugu
   - olay-kavimler-gocu
+  - kavram-kast
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

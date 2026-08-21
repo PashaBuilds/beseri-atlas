@@ -1,0 +1,14 @@
+{
+  "id": "kavram-sehir-devleti",
+  "gecis": 3,
+  "zaman": "2026-08-21T10:05:38.555Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir şehirler birliğinin ayrı bir kategori olarak kaydedilmesi,[^k1][^k2] şehrin siyasi birim olmasının tek bir biçime bağlanamayacağını gösterir; en eski örnek [Sümer şehir devletl",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

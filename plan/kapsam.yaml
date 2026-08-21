@@ -300,7 +300,7 @@ fazlar:
     - { id: kavram-haracguzarlik, baslik: "Haraçgüzarlık" }
     - { id: kavram-bozkir-imparatorlugu, baslik: "Bozkır imparatorluğu" }
     - { id: kavram-kast, baslik: "Kast" }
-    - { id: kavram-ictihat, baslik: "İctihat" }
+    - { id: kavram-ictihad, baslik: "İctihad" }
     - { id: kavram-tasavvuf, baslik: "Tasavvuf" }
 
     # Kurumsal biçimler

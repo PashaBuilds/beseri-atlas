@@ -798,3 +798,12 @@ hat_duzeltmesi:
       degisikligi icerigi de guclendirdi.
   - bulgu: Kalan uc itiraz dusuk ciddiyette ustunluk-iddiasi tipinde.
     aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.
+
+# Faz 3 turu B22: ictihad, kast, sehir devleti — 2026-08-21
+  - bulgu: >-
+      KAPI 4 (terim kilidi), "ictihat" imlasini reddetti; kilitli sozlukteki
+      dogru bicim "ictihad".
+    aksiyon: >-
+      Makale kimligi, basligi, etiketleri ve govdesi duzeltildi; kapsam.yaml
+      da guncellendi. Kapinin terim kilidi bu turda ikinci kez fiilen devreye
+      girdi (birincisi "tarihsel maddecilik").
