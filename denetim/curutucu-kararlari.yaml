@@ -418,3 +418,31 @@ hat_duzeltmesi:
       KAPI 7, aktor-abd'de k1'den iki alinti saydi; ikincisi atlasin kendi
       ifadesiydi.
     aksiyon: Tirnak kaldirildi; alinti sayisi bire dustu.
+
+# Faz 2 turu B45: 1968 hareketleri — 2026-08-21
+  - bulgu: >-
+      Uc itiraz da ustunluk-iddiasi tipinde ve hepsinde "tek" sayi sifati
+      ("tek bir yili", "tek bir 1968 hareketi oznesi", "tek tek olaylarin").
+    aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.
+  - bulgu: >-
+      KAPI 7, k1'den uc alinti saydi; ikisi atlasin kendi ifadesiydi.
+    aksiyon: >-
+      Tirnaklar kaldirildi, kaynaktan yalnizca "ulkeye gore degisir" alintisi
+      birakildi.
+
+# Faz 2 gecis 5 (capraz kontrol) — 2026-08-21
+  - bulgu: >-
+      Capraz kontrol 1 CELISKI buldu: olay-iran-devrimi-1979 donem-15
+      (1991-2008) etiketliydi ama makale araligi 1978-1979.
+    aksiyon: >-
+      Itiraz HAKLIYDI ve duzeltildi: makale donem-14'e tasindi, ilgili bagi ve
+      kapanis linki guncellendi. Bu, Faz 1'de olay-amerikan-devrimi'nde
+      yakalanan hatanin ucuncu turu; kapinin fiilen calistigini gosteriyor.
+  - bulgu: >-
+      Iki yeni ayrisma isareti: "Mao Zedong" (1976 / 1975) ve "Deng Xiaoping"
+      (1979 / 1975), olay-cin-reformlari-1978 ile olay-kultur-devrimi arasinda.
+    aksiyon: >-
+      Ikisi de REDDEDILDI. olay-kultur-devrimi'ndeki 1975, Deng Xiaoping'in
+      itibarinin iadesine ait; Mao'nun olumu ayni cumlede yilsiz gecer ve
+      makalenin tarih_bitis alani zaten 1976'dir. Aracin yakinlik sezgisi en
+      yakin yili baglamis; celiski yok.

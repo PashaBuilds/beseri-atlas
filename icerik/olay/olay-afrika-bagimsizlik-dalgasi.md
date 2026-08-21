@@ -16,6 +16,7 @@ ilgili:
   - donem-14
   - aktor-baglantisizlar-hareketi
   - olay-berlin-konferansi
+  - olay-1968-hareketleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

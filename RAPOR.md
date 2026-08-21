@@ -4,10 +4,10 @@ _Üretim tarihi: 2026-08-21 · Bu dosya `npm run rapor` ile ölçümlerden üret
 
 ## Kapsam
 
-Üretilen: **176** | Onaylanan: **176** | Karantinada: **0**
+Üretilen: **177** | Onaylanan: **177** | Karantinada: **0**
 
 Planlanan tam kapsam **287** makaledir; bu raporun yazıldığı anda
-**%61.3**'i yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
+**%61.7**'i yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
 birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 
 | Tip | Yayımlanan |
@@ -17,11 +17,11 @@ birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 | dusunur | 1 |
 | kavram | 2 |
 | kaynak | 1 |
-| olay | 84 |
+| olay | 85 |
 | tartisma | 7 |
 | veri | 1 |
 
-Toplam gövde: **64.225** kelime.
+Toplam gövde: **64.610** kelime.
 
 ## Doğrulama
 
@@ -29,10 +29,10 @@ Toplam gövde: **64.225** kelime.
 Nihai skor: **1** (13 ölçülen değer: 13 doğrulandı, 0 çelişki)
 Ham skor: **0.4643** (28 değerlik örneklem, 15 değer bağımsız olarak türetilemedi)
 
-Geçiş 2 (kaynak denetimi): 1386 OK · 4 ISARET · 0 HATA · 761 programatik olarak ölçülemedi
+Geçiş 2 (kaynak denetimi): 1394 OK · 4 ISARET · 0 HATA · 767 programatik olarak ölçülemedi
 Kaynak doğrulama oranı: **0.9986**
 Makale başına ortalama kaynak: **3.15**
-Çürütücünün ürettiği itiraz adayı: **303**
+Çürütücünün ürettiği itiraz adayı: **306**
 Çapraz tutarlılık çelişkisi: **0**
 
 ### İki skorun anlamı
@@ -93,15 +93,7 @@ hatalı kaynağa dayanıyorsa ikisi de aynı yanlışa varır.
 ## Hattın durduğu nokta
 
 Aktif faz: **2** · Aktif parti: **B02**
-Kuyrukta bekleyen iş: **1** · Karantinada: **0**
+Kuyrukta bekleyen iş: **0** · Karantinada: **0**
 Harcanan bütçe: 1.320.000 / 40.000.000 token
 
-### Neden burada duruyor
-
-Hat bir kapı kırılması ya da durdurma kuralı nedeniyle durmadı:
-bütün kapılar geçildi, örnekleme kapısı eşiğin üzerinde ve karantinada
-makale yok. Kuyrukta bekleyen iş, henüz üretilmemiş içeriktir.
-
-`npm run otonom` yeniden çalıştırıldığında hat `DURUM.md` ile
-`plan/kuyruk.yaml`yi okuyup sıradaki partiden devam eder; üretilmiş
-hiçbir iş tekrarlanmaz.
+Kuyrukta bekleyen iş kalmadı.

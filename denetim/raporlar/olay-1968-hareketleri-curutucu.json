@@ -1,0 +1,28 @@
+{
+  "id": "olay-1968-hareketleri",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:22:53.741Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Olayın adı tek bir yılı gösterirken kaynağın verdiği aralık 1969 Mart'ına kadar uzanır.[^k1]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı listede hem kapitalizm karşıtlığının hem komünizm karşıtlığının yer alması,[^k1] tek bir 1968 hareketi öznesi varsayımını kaydın kendisinin desteklemediğini gösterir. Atlas bu",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir listede hem yapısal olguların hem tek tek olayların bulunması,[^k1] sebep alanının farklı ölçeklerdeki şeyleri aynı düzleme koyduğunu gösterir; atlas bu kalemleri eşit ağırlıkt",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

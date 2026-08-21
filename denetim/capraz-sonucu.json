@@ -1,6 +1,6 @@
 {
-  "zaman": "2026-08-21T07:30:01.498Z",
-  "makale_sayisi": 140,
+  "zaman": "2026-08-21T08:24:16.327Z",
+  "makale_sayisi": 177,
   "celiskiler": [],
   "incelenecek": [
     {
@@ -38,15 +38,6 @@
         "kaynak-clark-uyurgezerler"
       ],
       "detay": "\"Balkanlar\" — olay-1914-temmuz-krizi: 1908 / kaynak-clark-uyurgezerler: 1912"
-    },
-    {
-      "tur": "varlik-yil-ayrismasi",
-      "seviye": "incele",
-      "makaleler": [
-        "olay-1914-temmuz-krizi",
-        "tartisma-1914-savas-sorumlulugu"
-      ],
-      "detay": "\"Alman\" — olay-1914-temmuz-krizi: 1914 / tartisma-1914-savas-sorumlulugu: 1920"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -101,6 +92,24 @@
         "olay-yedi-yil-savasi"
       ],
       "detay": "\"Grenville\" — olay-amerikan-devrimi: 1763 / olay-yedi-yil-savasi: 1765"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-cin-reformlari-1978",
+        "olay-kultur-devrimi"
+      ],
+      "detay": "\"Mao Zedong\" — olay-cin-reformlari-1978: 1976 / olay-kultur-devrimi: 1975"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-cin-reformlari-1978",
+        "olay-kultur-devrimi"
+      ],
+      "detay": "\"Deng Xiaoping\" — olay-cin-reformlari-1978: 1979 / olay-kultur-devrimi: 1975"
     },
     {
       "tur": "varlik-yil-ayrismasi",

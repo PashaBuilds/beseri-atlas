@@ -42,6 +42,8 @@ ilgili:
   - olay-cernobil
   - olay-afrika-bagimsizlik-dalgasi
   - olay-cin-reformlari-1978
+  - olay-1968-hareketleri
+  - olay-iran-devrimi-1979
 okuma_onerisi: []
 serit:
   - bolge: avrupa

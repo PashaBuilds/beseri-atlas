@@ -1,0 +1,91 @@
+{
+  "id": "olay-1968-hareketleri",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:22:53.293Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak dalgayı 5 Ocak 1968 - 29 Mart 1969 arasına, yani bir yıl iki ay üç hafta üç güne yerleştirir; yer olarak dünya çapı verilir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Olayın adı tek bir yılı gösterirken kaynağın verdiği aralık 1969 Mart'ına kadar uzanır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir dalganın adının, kaydettiği süreden kısa olması, atlasın yıl adlı olaylara neden ayrıca tarih aralığı yazdığını gösterir: ad bir kısaltmadır, ölçüm değil.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak amaçları \"ülkeye göre değişir\" notuyla açar ve şunları sıralar: otoriterlik karşıtlığı, kapitalizm karşıtlığı, Doğu Avrupa'da komünizm karşıtlığı, empery",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı listede hem kapitalizm karşıtlığının hem komünizm karşıtlığının yer alması, tek bir 1968 hareketi öznesi varsayımını kaydın kendisinin desteklemediğini gös",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "suikastı sayılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir listede hem yapısal olguların hem tek tek olayların bulunması, sebep alanının farklı ölçeklerdeki şeyleri aynı düzleme koyduğunu gösterir; atlas bu kalemler",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak ayrı bölümler açar: Brezilya, Çekoslovakya ve Sovyetler Birliği, Fransa, İtalya, Japonya, Meksika, Pakistan, Polonya, Güney Afrika, İspanya, İsveç, Tunus",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "On sekiz ayrı ülke bölümünün açılması, \"dünya çapında\" nitelemesinin bir abartı değil bir bölümleme kararı olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak sonucu toplumsal devrimler olarak kaydeder ve parantez içinde 1974 Karanfil Devrimi'ni anar.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir dalganın sonucunun, bittiği tarihten beş yıl sonraki bir olayla gösterilmesi, etkinin kayıtta olayın süresinden uzun tutulduğu anlamına gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sebepler listesinin başında gelen savaş için kaynak Vietnam Savaşı'nı verir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1968 için yaklaşık 3,55 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke ülke hareketlerin seyri, savaş sonrası arka plan ve toplumsal hareketler burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olara",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

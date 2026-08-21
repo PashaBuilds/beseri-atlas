@@ -1421,7 +1421,7 @@ isler:
   - id: olay-1968-hareketleri
     tip: olay
     baslik: 1968 hareketleri
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14

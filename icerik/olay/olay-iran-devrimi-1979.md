@@ -5,7 +5,7 @@ baslik: İran Devrimi
 ozet: >-
   Kaynağın kendi bölümlemesinde on altı yıllık bir sürgün ile bir yıllık bir
   ayaklanmanın aynı başlık altında toplandığı devrim.
-donem: "15"
+donem: "14"
 tarih_baslangic: "1978"
 tarih_bitis: "1979"
 bolge: [islam-dunyasi, avrupa, amerika]
@@ -13,10 +13,11 @@ eksen: [siyasi, dini, ekonomik]
 guven_geneli: yaygin
 etiketler: [iran-devrimi, humeyni, beyaz-devrim, petrol, "1979"]
 ilgili:
-  - donem-15
+  - donem-14
   - olay-1973-petrol-krizi
   - aktor-safevi-devleti
   - olay-arap-bahari
+  - donem-15
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -91,5 +92,5 @@ değer içindeki pay burada hesaplanmamıştır.
 
 Devrimin seyri, kurulan rejimin yapısı, dış politika sonuçları ve sonraki
 dönemler burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
-bölümler olarak işler.[^k1] Dönemin bütünü [1991-2008](/donem/15/) dosyasında ele
+bölümler olarak işler.[^k1] Dönemin bütünü [1945-1991](/donem/14/) dosyasında ele
 alınıyor.

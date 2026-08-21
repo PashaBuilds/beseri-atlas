@@ -16,6 +16,7 @@ ilgili:
   - donem-14
   - olay-kore-savasi
   - aktor-cin-halk-cumhuriyeti
+  - olay-1968-hareketleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
