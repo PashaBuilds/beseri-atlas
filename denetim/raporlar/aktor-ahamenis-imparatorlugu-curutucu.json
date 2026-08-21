@@ -1,0 +1,21 @@
+{
+  "id": "aktor-ahamenis-imparatorlugu",
+  "gecis": 3,
+  "zaman": "2026-08-21T04:38:49.045Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu anlatıyı ne doğrular ne yalanlar. Kaydettiği şey şudur: elimizdeki ayrıntı zengin, ama tek taraflıdır. Karşılaşmanın kendisi MÖ 499–449 arasındaki Yunan-Pers Savaşları baş",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dışarıdan gelen tehdit tek sorun değildi. MÖ 484'teki Babil isyanları, MÖ 395–387 arasındaki Korint Savaşı ve MÖ 372–362 arasındaki Büyük Satraplar İsyanı, imparatorluğun kendi val",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

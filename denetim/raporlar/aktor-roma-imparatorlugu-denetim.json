@@ -1,0 +1,109 @@
+{
+  "id": "aktor-roma-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:38:48.761Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Roma İmparatorluğu, klasik dönemde Akdeniz'e ve Avrupa'nın, Batı Asya'nın ve Kuzey Afrika'nın büyük bölümüne hâkim olan bir devletti.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Roma Cumhuriyeti bu toprakların büyük bölümünü daha önce fethetmişti; bu topraklar ancak Octavianus'un iktidara yükselişi ve MÖ 27'de Augustus Principatus'unun ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cumhuriyet MÖ 509 ile MÖ 27 arasına, imparatorluk dönemi ise MÖ 27 ile MS 286 arasına yerleştirilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İmparatorun üstünlüğü birkaç cumhuriyet makamının yetkilerinin birleştirilmesine dayanıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İmparator kendisini pontifex maximus olarak merkezî dinî otorite haline getirdi ve savaş ilan etme, antlaşmaları onaylama ve yabancı liderlerle görüşme hakların",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ölen imparatorun tanrılaştırılmasını ifade eden apotheosis (consecratio) ayini bu birikimin dinî tamamlayıcısıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Roma İmparatorluğu en geniş toprak sınırlarına MS 117'de, Traianus'un ölümü sırasında ulaşmıştır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hadrianus (hükümdarlığı 117–138) özellikle imparatorluğun sınırlarını pekiştirmesi ve eyaletler boyunca iddialı inşa projelerine girişmesiyle bilinir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Uzun süre Yahudi ulusal ve dinî yaşamının merkezi olan Yahudiye'de Hadrianus'un saltanatı belirleyici bir dönüm noktası oldu; 129/130 yılında bölgeyi ziyaret et",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "MS 395'ten sonra batı kanadı 476/480'e, doğu kanadı ise 1453'e kadar sürer.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Doğu kanadının 1453'e kadar sürmesine karşılık batı kanadının 476/480'de kapanması, çöküşün coğrafi olarak eşit dağılmadığını gösterir; batıdaki kırılma dosyası",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ahameniş İmparatorluğu MÖ 550–330 arasında aynı coğrafyanın büyük bölümünü yönetmiş ve Makedonya'ya yenilerek sona ermişti.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki düzen arasındaki fark yalnızca ölçek değil süreklilik biçimidir: Ahameniş düzeni tek bir yenilgiyle, Roma düzeni ise yüzyıllara yayılan bir bölünmeyle kapan",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki düzen arasındaki fark yalnızca ölçek değil süreklilik biçimidir: Ahameniş düzeni tek bir yenilgiyle, Roma düzeni ise yüzyıllara yayılan bir bölünmeyle kapan",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İmparatorluğun kurulduğu dünyada nüfus, uzun dönemli seride MS 200 için yaklaşık 240,8 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Akdeniz'e ve Avrupa'nın, Batı Asya'nın ve Kuzey Afrika'nın büyük bölümüne hâkim olan bir devletin bu toplam içindeki payına dair bir ölçüm kullanılan kaynaklard",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İmparatorun pontifex maximus sıfatıyla merkezî dinî otorite haline gelmesi bu dosyada yalnızca rejim yapısı bakımından ele alınmıştır; Roma hukuku, ordu örgütle",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

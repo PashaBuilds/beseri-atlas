@@ -69,3 +69,30 @@ hat_duzeltmesi:
       araclar/linter-dipnot.mjs'e YAZIYLA_SAYI dedektörü eklendi. Kapı
       sıkılaştırıldı; iki makalede kaynaksız nicelik iddiası bulundu ve
       düzeltildi.
+
+# Faz 2 turu B09: MO aktor kumesi — 2026-08-21
+  - tip: ustunluk-iddiasi
+    kapsam: "aktor-sumer-sehir-devletleri, aktor-misir-yeni-kralligi, aktor-hitit-imparatorlugu, aktor-ahamenis-imparatorlugu, aktor-roma-imparatorlugu"
+    karar: yanlis-pozitif
+    gerekce: >-
+      Kalan itirazlarin tamami "tek" kelimesinin ustunluk anlaminda DEGIL sayi
+      anlaminda kullanildigi cumlelerde tetikleniyor: "tek kisi yonetimi",
+      "tek bir tarih degildir", "tek basina bir dilbilim ayrintisi degildir",
+      "tek bir hukuk duzeni", "tek sorun degildi". Bunlar bir onculuk ya da
+      ustunluk iddiasi tasimiyor; aksine bircogu OLUMSUZ cumlelerdir. Kalan iki
+      ornek ("en eski yazili Hint-Avrupa dili", "tarihteki ilk tektanricilik")
+      ise kaynaga acikca atfedilerek yazildi ("Kaynak bu dili … olarak
+      tanimlar", "kaynagin ifadesine gore … siklikla yorumlanir"), yani
+      itirazin istedigi atif cercevesi metinde zaten var. Dedektor kelime
+      duzeyinde calistigi icin bu ayrimi goremiyor; kapinin gevsetilmesi degil
+      kararin kayda gecirilmesi dogru cozumdur.
+  - bulgu: >-
+      Cürütücü, alti makalenin "Olcek" bolumunde dunya nufusu ile aktorun
+      hakimiyet alani arasinda kurulan orani kapsam-carpitmasi olarak isaretledi.
+      Itiraz hakliydi: kaynaklarda aktorlerin kendi nufuslarina dair olcum yok,
+      dolayisiyla "nufusun kayda deger bir bolumunu kapsiyordu" turu cumleler
+      kaynaksiz cikarimdi.
+    aksiyon: >-
+      Alti makalenin Olcek bolumu yeniden yazildi; oran iddiasi kaldirildi ve
+      yerine iki serinin neden karsilastirilamadigi acikca yazildi. Ayrica
+      aktor-asur-imparatorlugu'nda "tartismasiz" nitelemesi kaynaga atfedildi.

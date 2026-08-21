@@ -1,0 +1,79 @@
+{
+  "id": "aktor-hitit-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:38:48.625Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Hitit İmparatorluğu yaklaşık MÖ 1650 ile MÖ 1200 arasında Hattuşa merkezli olarak varlığını sürdürdü; nüfusu 200.000'in üzerinde tahmin edilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hitit dili, Hint-Avrupa dil ailesinin Anadolu koluna ait ayrı bir üyeydi ve konuşanları tarafından \"Nesa'nın dili\" anlamında nešili olarak adlandırılıyordu.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bu dili, en eski yazılı Hint-Avrupa dili olarak tanımlar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Hint-Avrupa"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hitit uygarlığının tarihi büyük ölçüde kendi topraklarında bulunan çivi yazılı metinlerden ve Asur, Babil, Mısır arşivlerindeki diplomatik ve ticari yazışmalard",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hitit devletinin başında kral, ardından veliaht bulunurdu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bilinen en eski anayasal monarşinin Hititler tarafından geliştirildiği ileri sürülmüştür.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Hititler"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bilim insanları bir zamanlar demir işlemenin gelişimini Hititlere atfetmiş ve onların Tunç Çağı boyunca demir işçiliğini tekellerinde tuttuklarını düşünmüşlerdi",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Hititlere, Tunç, Çağı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arnuwanda'yı öldürdü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıla dek varlığını sürdürdü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mısır Yeni Krallığı yaklaşık MÖ 1570 ile MÖ 1069 arasına tarihlenir ve Levant'a doğru genişleyerek en geniş toprak sınırlarına ulaşmıştır.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu imparatorluğun kurulduğu dünyada nüfus, uzun dönemli seride MÖ 3000 için yaklaşık 44,6 milyon, MÖ 1000 için yaklaşık 110,5 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hitit nüfusu için verilen 200.000'in üzeri tahmini ile bu dünya toplamları farklı serilerden gelir; ikisi arasında bir yüzde hesaplamak, dönem içi karşılaştırıl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

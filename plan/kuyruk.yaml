@@ -688,7 +688,7 @@ isler:
   - id: aktor-sumer-sehir-devletleri
     tip: aktor
     baslik: Sümer şehir devletleri
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-02
@@ -697,7 +697,7 @@ isler:
   - id: aktor-misir-yeni-kralligi
     tip: aktor
     baslik: Mısır Yeni Krallığı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-02
@@ -706,7 +706,7 @@ isler:
   - id: aktor-hitit-imparatorlugu
     tip: aktor
     baslik: Hitit İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-02
@@ -715,16 +715,16 @@ isler:
   - id: aktor-asur-imparatorlugu
     tip: aktor
     baslik: Asur İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-03
     atanan_parti: null
     deneme: 0
-  - id: aktor-ahameniş-imparatorlugu
+  - id: aktor-ahamenis-imparatorlugu
     tip: aktor
     baslik: Ahameniş İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-04
@@ -733,7 +733,7 @@ isler:
   - id: aktor-roma-imparatorlugu
     tip: aktor
     baslik: Roma İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-04

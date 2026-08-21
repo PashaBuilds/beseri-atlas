@@ -18,6 +18,7 @@ etiketler: [gec-antikite, kavimler-gocu, sasani, veba, hiristiyanlik]
 ilgili:
   - donem-04
   - donem-06
+  - aktor-roma-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: avrupa

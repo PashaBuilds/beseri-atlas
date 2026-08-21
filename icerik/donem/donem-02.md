@@ -19,6 +19,9 @@ ilgili:
   - donem-01
   - donem-03
   - olay-yazinin-icadi
+  - aktor-hitit-imparatorlugu
+  - aktor-misir-yeni-kralligi
+  - aktor-sumer-sehir-devletleri
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

@@ -14,6 +14,7 @@ guven_geneli: yaygin
 etiketler: [ahamenis, yunan-sehir-devletleri, herodotos, tarih-yazimi]
 ilgili:
   - donem-04
+  - aktor-ahamenis-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -90,7 +90,7 @@ fazlar:
     - { id: aktor-misir-yeni-kralligi, baslik: "Mısır Yeni Krallığı", bagimlilik: [donem-02] }
     - { id: aktor-hitit-imparatorlugu, baslik: "Hitit İmparatorluğu", bagimlilik: [donem-02] }
     - { id: aktor-asur-imparatorlugu, baslik: "Asur İmparatorluğu", bagimlilik: [donem-03] }
-    - { id: aktor-ahameniş-imparatorlugu, baslik: "Ahameniş İmparatorluğu", bagimlilik: [donem-04] }
+    - { id: aktor-ahamenis-imparatorlugu, baslik: "Ahameniş İmparatorluğu", bagimlilik: [donem-04] }
     - { id: aktor-roma-imparatorlugu, baslik: "Roma İmparatorluğu", bagimlilik: [donem-04] }
     - { id: aktor-han-imparatorlugu, baslik: "Han İmparatorluğu", bagimlilik: [donem-04] }
     - { id: aktor-maurya-imparatorlugu, baslik: "Maurya İmparatorluğu", bagimlilik: [donem-04] }

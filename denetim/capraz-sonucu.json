@@ -1,6 +1,6 @@
 {
-  "zaman": "2026-08-21T04:20:25.906Z",
-  "makale_sayisi": 43,
+  "zaman": "2026-08-21T04:40:39.978Z",
+  "makale_sayisi": 52,
   "celiskiler": [],
   "incelenecek": [
     {
@@ -71,9 +71,27 @@
       "seviye": "incele",
       "makaleler": [
         "donem-13",
+        "aktor-misir-yeni-kralligi"
+      ],
+      "detay": "\"Dönemin\" — donem-13: 2022 / aktor-misir-yeni-kralligi: 1000"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-13",
         "tartisma-1914-savas-sorumlulugu"
       ],
       "detay": "\"Fransa\" — donem-13: 1923 / tartisma-1914-savas-sorumlulugu: 2013"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-13",
+        "olay-ikinci-dunya-savasi"
+      ],
+      "detay": "\"Japonya\" — donem-13: 1922 / olay-ikinci-dunya-savasi: 1929"
     },
     {
       "tur": "varlik-yil-ayrismasi",

@@ -1,0 +1,103 @@
+{
+  "id": "aktor-ahamenis-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:38:48.508Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Ahameniş İmparatorluğu, Ahameniş hanedanından Büyük Kiros tarafından MÖ 550'de kurulmuş bir eski İran imparatorluğudur ve MÖ 550–330 arasına tarihlenir.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Med mirasına geçiş MÖ 550, Lidya'nın fethi MÖ 547, Babil'in fethi MÖ 539, İndus Vadisi'nin fethi MÖ 535–518, Mısır'ın fethi MÖ 525 ve İskitya seferi MÖ 513 olar",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı bölgede Yeni Asur İmparatorluğu MÖ 670'te yaklaşık 1.400.000 kilometrekare alan kaplıyordu ve Med-Babil fethiyle MÖ 626–609 arasında tasfiye edilmişti.",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kiros'un MÖ 539'da aldığı Babil, bu tasfiyenin mirasçısıydı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Asur'un geliştirdiği yönetim tekniklerinin de bir kısmı devralınabilir nitelikteydi: yabancı tebaa halklarının yönetime dahil edilmesi ve geç dönemde üst düzey ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İmparatorluğun bilinen anlatısının önemli bir bölümü, ona karşı savaşan tarafın metinlerinden gelir; söz konusu metin Herodotos'un Tarihler'idir ve dijital kütü",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Herodotos, Kambises'i Mısır halkına ve onların tanrılarına, kültlerine, tapınaklarına ve rahiplerine açıkça düşman olarak resmeder; özellikle kutsal boğa Apis'i",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı anlatı, bu eylemlerin Kambises'i kardeşini, kız kardeşi olan eşini ve Lidyalı Kroisos'u öldürmeye sürükleyen bir çılgınlığa yol açtığı sonucuna varır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kambises, Lidyalı, Kroisos"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karşılaşmanın kendisi MÖ 499–449 arasındaki Yunan-Pers Savaşları başlığı altında toplanır ve dosyasında ele alınıyor.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "MÖ 484'teki Babil isyanları, MÖ 395–387 arasındaki Korint Savaşı ve MÖ 372–362 arasındaki Büyük Satraplar İsyanı, imparatorluğun kendi valilerinin de bir istikr",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "MÖ 343'teki Mısır'ın yeniden fethi bu döngünün bir başka halkasıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Darius MÖ 336–330 arasında hüküm sürer.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İmparatorluk Makedonya'ya yenilerek sona erer.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Makedonya"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Darius'un saltanatları MÖ 358 ile MÖ 330 arasına sığar; bu kısalık, çöküşün askerî yenilgiden önce hanedan içinde başladığı okumasını destekler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu imparatorluğun kurulduğu dünyada nüfus, uzun dönemli seride MÖ 1000 için yaklaşık 110,5 milyon, MS 200 için yaklaşık 240,8 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hindistan'dan Mısır'a uzanan hâkimiyet alanının bu toplamlar içindeki payına dair bir ölçüm kullanılan kaynaklarda bulunmadığı için burada oran verilmemiştir.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

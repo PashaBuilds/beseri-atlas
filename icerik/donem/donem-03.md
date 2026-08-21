@@ -20,6 +20,7 @@ ilgili:
   - donem-04
   - olay-tunc-cagi-cokusu
   - tartisma-tunc-cagi-cokusunun-nedeni
+  - aktor-asur-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: avrupa

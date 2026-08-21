@@ -1,0 +1,67 @@
+{
+  "id": "aktor-sumer-sehir-devletleri",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:38:48.805Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Sümer, güney Mezopotamya'da yaklaşık MÖ 3300 ile MÖ 1900 arasına tarihlenir; öncesinde Ubeyd dönemi, sonrasında Akkad İmparatorluğu gelir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sümer'de ortak bir tanrılar listesi yoktu; her şehir devletinin kendi hâmileri, tapınakları ve rahip-kralları vardı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayıtlı tarihin başlangıcının hemen ardından orta Mezopotamya'daki Nippur, güneydeki Eridu'nun yerini başlıca tapınak şehri olarak aldı ve rahipleri diğer şehir",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nippur bu konumunu bütün Sümer dönemi boyunca korudu.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sümer"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yurttaşların tapınağa emek yükümlülüğü vardı; bu yükümlülük gümüş ödemesiyle karşılanabiliyordu ve sulama tarımının gerektirdiği ortak emek projeleri bu düzenle",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı şehirlerde evlilik sözleşmelerinin kil tabletlere kaydedilmesi bu soyutlama alışkanlığının hukuka da uzandığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sümerce, konuşulan dil olmaktan çıktıktan sonra yalnızca edebî ve ayin dili olarak kaldı — kaynağın kendi benzetmesiyle, ortaçağ Avrupa'sında Latincenin tuttuğu",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bölge daha sonra Amorit yönetimine geçti ve MÖ 1800 dolaylarında Hammurabi önderliğinde Babil yükseldi.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kanunların önsözünde hükümdar, Nippur'u zenginleştirdiğini ve Eridu'yu yeniden kurduğunu ilan eder; kendisini \"Sümer ve Akkad ülkesi\" üzerinde ışıyan Babil güne",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu MÖ 3000'de yaklaşık 44,6 milyondur.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

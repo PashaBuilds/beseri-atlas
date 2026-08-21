@@ -14,6 +14,7 @@ guven_geneli: yaygin
 etiketler: [yazi, civi-yazisi, hiyeroglif, mezopotamya, kayit]
 ilgili:
   - donem-02
+  - aktor-sumer-sehir-devletleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

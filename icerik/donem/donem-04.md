@@ -20,6 +20,8 @@ ilgili:
   - donem-05
   - tartisma-bati-neden-yukseldi
   - olay-pers-yunan-savaslari
+  - aktor-ahamenis-imparatorlugu
+  - aktor-roma-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: dogu-asya

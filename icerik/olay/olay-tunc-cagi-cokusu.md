@@ -15,6 +15,7 @@ etiketler: [tunc-cagi-cokusu, deniz-kavimleri, saray-ekonomisi, karanlik-cag]
 ilgili:
   - donem-03
   - tartisma-tunc-cagi-cokusunun-nedeni
+  - aktor-hitit-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
