@@ -16,6 +16,7 @@ ilgili:
   - donem-14
   - olay-nufus-patlamasi
   - kavram-demografik-gecis
+  - veri-tarim-istihdami
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

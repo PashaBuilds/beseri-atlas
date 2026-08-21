@@ -1,0 +1,14 @@
+{
+  "id": "veri-tarim-istihdami",
+  "gecis": 3,
+  "zaman": "2026-08-21T11:29:13.050Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tarımda istihdam payı düşerken kentsel nüfus payının artması,[^k1][^k2] atlasın bu iki seriyi tek bir nedene bağlamasını gerektirmez; iki ölçü farklı şeyler ölçer ve kullanılan ver",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

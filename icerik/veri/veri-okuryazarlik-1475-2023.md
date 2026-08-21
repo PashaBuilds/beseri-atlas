@@ -15,6 +15,7 @@ ilgili:
   - kavram-yazi-sistemi
   - kavram-birincil-kaynak
   - veri-dunya-nufusu-1500-2025
+  - veri-ortalama-egitim-suresi
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/okuryazarlik.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

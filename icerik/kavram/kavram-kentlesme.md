@@ -16,6 +16,8 @@ ilgili:
   - kavram-gini-katsayisi
   - kavram-yasam-beklentisi
   - veri-kentlesme-orani-1500-2023
+  - veri-ortalama-egitim-suresi
+  - veri-tarim-istihdami
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

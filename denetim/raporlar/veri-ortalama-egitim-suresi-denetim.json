@@ -1,0 +1,55 @@
+{
+  "id": "veri-ortalama-egitim-suresi",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:29:12.360Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Seri 1870'te 0,46026796 yıl ile başlar ve 2020'de 8,840671 yıl ile biter.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Veri kümesinin sütun adı ölçünün kapsadığı yaş grubunu taşır: gençler ve yetişkinler, 15-64 yaş.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir ölçünün adında yaş aralığının bulunması, atlasın şu kuralının dayanağıdır: bu seriden okunan değerler, hangi yaş grubu için hesaplandığı belirtilmeden aktar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı sağlayıcının okuryazarlık serisinde dünya değeri 1820 için yüzde 12,046689, 2024 için yüzde 87,74'tür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki serinin farklı birimlerde olması (biri yıl, diğeri yüzde), atlasın veri dosyalarında birim alanını neden ayrı tuttuğunun dayanağıdır; ilişkili dosya dosyası",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki serinin farklı birimlerde olması (biri yıl, diğeri yüzde), atlasın veri dosyalarında birim alanını neden ayrı tuttuğunun dayanağıdır; ilişkili dosya dosyası",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ölçünün konusu için tutulan kayıt, yazı sistemlerini iki ayrı ölçüte göre sınıflandırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke ülke değerler, cinsiyete göre dağılım ve eğitim tanımları burada ayrı başlıklar altında ele alınmamıştır; bu dosya yalnızca dünya toplamı serisini kaydeder",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

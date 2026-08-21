@@ -1,0 +1,67 @@
+{
+  "id": "veri-tarim-istihdami",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:29:12.435Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Seri 1991'de yüzde 42,822468 ile başlar ve 2025'te yüzde 25,763578 ile biter.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Veri kümesinde dünya toplamı için 1991'den önce gözlem bulunmaz.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir istihdam serisinin yalnızca son otuz beş yılı kapsaması, atlasın şu kuralının dayanağıdır: bu dosyadan sanayileşme öncesi ya da sanayileşme dönemine dair bi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sıklıkla bağlanan dönüşüm dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı sağlayıcının kentleşme serisinde dünya değeri 1950 için yüzde 28,7983, 2025 için yüzde 57,8335'tir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tarımda istihdam payı düşerken kentsel nüfus payının artması, atlasın bu iki seriyi tek bir nedene bağlamasını gerektirmez; iki ölçü farklı şeyler ölçer ve kull",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tarımda istihdam payı düşerken kentsel nüfus payının artması, atlasın bu iki seriyi tek bir nedene bağlamasını gerektirmez; iki ölçü farklı şeyler ölçer ve kull",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Serinin sütun adı istihdam payını tarım için verir; hangi işlerin tarım sayıldığı, ölçünün tanımına bağlıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlasın kuralı şudur: bu seriden okunan değerler, hangi sınıflandırmanın kullanıldığı belirtilmeden aktarılmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke ülke oranlar, kayıt dışı istihdam ve sektör tanımları burada ayrı başlıklar altında ele alınmamıştır; bu dosya yalnızca dünya toplamı serisini kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
