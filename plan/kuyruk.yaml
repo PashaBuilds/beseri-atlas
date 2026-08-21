@@ -2765,7 +2765,7 @@ isler:
   - id: tartisma-iklim-ve-cokus
     tip: tartisma
     baslik: İklim toplumları çökertir mi?
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

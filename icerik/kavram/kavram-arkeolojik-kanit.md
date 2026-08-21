@@ -13,6 +13,7 @@ ilgili:
   - olay-gobeklitepe
   - kavram-birincil-kaynak
   - kavram-tarihsel-iklimbilim
+  - tartisma-iklim-ve-cokus
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

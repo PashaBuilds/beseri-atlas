@@ -13,6 +13,7 @@ ilgili:
   - kavram-arkeolojik-kanit
   - olay-tunc-cagi-cokusu
   - olay-neolitik-devrim
+  - tartisma-iklim-ve-cokus
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

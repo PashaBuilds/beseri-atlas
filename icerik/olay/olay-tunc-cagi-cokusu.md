@@ -17,6 +17,7 @@ ilgili:
   - tartisma-tunc-cagi-cokusunun-nedeni
   - aktor-hitit-imparatorlugu
   - kavram-tarihsel-iklimbilim
+  - tartisma-iklim-ve-cokus
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

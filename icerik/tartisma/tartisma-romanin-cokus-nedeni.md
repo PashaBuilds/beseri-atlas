@@ -31,6 +31,7 @@ ilgili:
   - aktor-hun-imparatorlugu
   - kaynak-gibbon-roma
   - tartisma-osmanli-gerileme-tezi
+  - tartisma-iklim-ve-cokus
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

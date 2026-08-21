@@ -21,6 +21,7 @@ ilgili:
   - olay-tunc-cagi-cokusu
   - donem-03
   - aktor-khmer-imparatorlugu
+  - tartisma-iklim-ve-cokus
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:
