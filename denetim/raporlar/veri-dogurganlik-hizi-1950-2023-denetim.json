@@ -1,0 +1,91 @@
+{
+  "id": "veri-dogurganlik-hizi-1950-2023",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:32:37.145Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Seri 1950'de kadın başına 4,852 çocuk ile başlar ve 2023'te 2,251 ile biter; toplam 74 gözlem vardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Serinin ilk ve son değeri arasındaki fark, başlangıç değerinin yarısından büyüktür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu düşüşü bir nedene bağlamaz: veri kümesi doğurganlık hızını verir, nedenlerini vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Son gözlem 2,251'dir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu sayının demografik yazında sıkça anılan yenilenme düzeyine yakın olması, atlasın burada bir yorum yapmasını gerektirmez; kullanılan veri kümesi bir eşik değe",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Veri kümesinde dünya toplamı için 1950'den önce gözlem bulunmaz.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir demografik ölçünün yalnızca yirminci yüzyılın ikinci yarısını kapsaması, atlasın şu kuralının dayanağıdır: bu dosyadan sanayi öncesi doğurganlık hakkında bi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık 2,49 milyar, 2020 için yaklaşık 7,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Doğurganlık hızı düşerken nüfusun artmış olması, iki ölçünün farklı şeyler ölçtüğünü gösterir; atlas bu iki seriyi tek bir eğilim cümlesinde birleştirmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Doğurganlık hızı düşerken nüfusun artmış olması, iki ölçünün farklı şeyler ölçtüğünü gösterir; atlas bu iki seriyi tek bir eğilim cümlesinde birleştirmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Nüfus artışı üzerine erken bir model için tutulan kayıt, aile geçindirmenin güçlüklerinin sonunda nüfus artış hızını azalttığını öne süren bir döngüyü anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu seriyi o modelin doğrulanması olarak sunmaz: model gıda ve ücret üzerinden bir mekanizma önerir, seri ise yalnızca doğurganlık hızını verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu seriyi o modelin doğrulanması olarak sunmaz: model gıda ve ücret üzerinden bir mekanizma önerir, seri ise yalnızca doğurganlık hızını verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke ülke değerler, yaş gruplarına göre dağılım ve projeksiyonlar burada ayrı başlıklar altında ele alınmamıştır; bu dosya yalnızca dünya toplamı serisini kayde",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

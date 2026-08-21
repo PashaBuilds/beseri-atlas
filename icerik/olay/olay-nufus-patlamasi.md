@@ -19,6 +19,8 @@ ilgili:
   - olay-yesil-devrim
   - kavram-kentlesme
   - kavram-yasam-beklentisi
+  - veri-dogurganlik-hizi-1950-2023
+  - veri-kentlesme-orani-1500-2023
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

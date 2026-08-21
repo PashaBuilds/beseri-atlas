@@ -872,3 +872,24 @@ hat_duzeltmesi:
       alaninda savunan adiyla, tez, guclu ve zayif yanlariyla ayri ayri
       tutuluyor; govde yalnizca kaynagin kendi kaydini aktariyor. Bu bicim,
       hakemlik dedektorunu (KAPI 9) dogal olarak temiz birakiyor.
+
+# Faz 4 turu B02: yasam beklentisi, kentlesme orani, dogurganlik hizi (veri) — 2026-08-21
+  - bulgu: >-
+      Veri dosyalari icin `veri_dosyasi` alani gercek bir CSV gerektiriyor;
+      arastir.mjs cekimi 400.000 karakterde kesildigi icin OWID CSV'lerinde
+      "World" satiri pencerenin disinda kaliyordu.
+    aksiyon: >-
+      araclar/owid-indir.mjs yazildi: tam CSV'yi indirir, entity=World
+      satirlarini suzer, veri-setleri/ altina CSV + LISANS.md yazar. Uc veri
+      seti bu araca uretildi (yasam-beklentisi, kentlesme-orani,
+      dogurganlik-hizi). Lisans dosyalari indirme tarihi, uc nokta, satir
+      sayisi ve yil araligini kaydediyor.
+  - bulgu: >-
+      veri-kentlesme-orani-1500-2023 kimligi 1500'den baslayan bir aralik
+      adlandiriyor ama veri kumesinde 1950 oncesi dunya toplami gozlemi yok.
+    aksiyon: >-
+      Kimlik plandaki adiyla birakildi, baslik gercek araligi tasiyor
+      (1950-2025) ve GOVDE bu farki acikca kaydediyor. Kapsam listesindeki adi
+      degistirmek yerine farki gorunur kilmak tercih edildi.
+  - bulgu: Bes itirazin hepsi dusuk ciddiyette ustunluk-iddiasi tipinde.
+    aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.

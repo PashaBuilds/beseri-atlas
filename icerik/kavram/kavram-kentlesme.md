@@ -15,6 +15,7 @@ ilgili:
   - olay-nufus-patlamasi
   - kavram-gini-katsayisi
   - kavram-yasam-beklentisi
+  - veri-kentlesme-orani-1500-2023
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

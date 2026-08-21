@@ -1,0 +1,91 @@
+{
+  "id": "veri-yasam-beklentisi-1770-2023",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:32:37.327Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Seri 1770'te 28,5 yıl ile başlar ve 2023'te 73,1694 yıl ile biter; toplam 81 gözlem vardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Seride 1770, 1800 ve 1820 yılları art arda üç gözlemdir; yani ilk elli yıl yalnızca üç noktayla temsil edilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir serinin başında gözlem aralığının onlarca yıl olması, atlasın şu kuralının dayanağıdır: bu seriden çizilen eğrinin erken kısmı, ölçüm değil ölçümler arası d",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1770 ve 1800 için verilen değerlerin ikisi de 28,5'tir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Otuz yıl arayla iki gözlemin tam olarak aynı sayıyı vermesi, erken değerlerin tekil ölçümler değil dönemsel tahminler olduğunu düşündürür; atlas bu iki noktayı ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Seride 2021 için 70,865, 2022 için 72,6398 ve 2023 için 73,1694 verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir yıl içinde yaklaşık 1,77 yıllık artışın kaydedilmesi, serinin yıllık dalgalanmalara duyarlı olduğunu gösterir; atlas bu tür sıçramaları tek başına bir eğili",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1800 için yaklaşık 990,4 milyon, 2020 için yaklaşık 7,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki serinin birimi farklıdır: biri yıl, diğeri kişi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki serinin birimi farklıdır: biri yıl, diğeri kişi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Serinin başlangıç yıllarına çağdaş bir model için tutulan kayıt, emekçi nüfusu gıda üretiminden hızlı büyüdüğünde gerçek ücretlerin düştüğünü ve aile geçindirme",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu seriyi o modelin çürütülmesi olarak sunmaz: seri yaşam beklentisini verir, ücretleri ya da gıda üretimini vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu seriyi o modelin çürütülmesi olarak sunmaz: seri yaşam beklentisini verir, ücretleri ya da gıda üretimini vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke ülke değerler, alt gruplar arası farklar ve hesaplama yöntemi burada ayrı başlıklar altında ele alınmamıştır; bu dosya yalnızca dünya toplamı serisini kayd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

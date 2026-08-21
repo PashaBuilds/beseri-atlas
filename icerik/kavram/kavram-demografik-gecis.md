@@ -16,6 +16,8 @@ ilgili:
   - kavram-malthus-tuzagi
   - kavram-kentlesme
   - kavram-yasam-beklentisi
+  - veri-dogurganlik-hizi-1950-2023
+  - veri-yasam-beklentisi-1770-2023
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

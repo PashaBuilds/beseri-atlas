@@ -2485,7 +2485,7 @@ isler:
   - id: veri-yasam-beklentisi-1770-2023
     tip: veri
     baslik: Yaşam beklentisi, 1770–2023
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2509,7 +2509,7 @@ isler:
   - id: veri-kentlesme-orani-1500-2023
     tip: veri
     baslik: Kentleşme oranı, 1500–2023
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2517,7 +2517,7 @@ isler:
   - id: veri-dogurganlik-hizi-1950-2023
     tip: veri
     baslik: Toplam doğurganlık hızı, 1950–2023
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
