@@ -1,0 +1,21 @@
+{
+  "id": "kavram-milliyetcilik",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:29:16.033Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, 1772'de yayımlanan bir dil kökeni incelemesinde ortak dilin rolünün vurgulandığını ve yazarın milliyet ile yurtseverlik kavramlarına olağanüstü önem atfettiğini yazar; bir ",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı ad altında bu kadar çok türün sayılması,[^k1] atlasın bu kavramı tek bir tanımla kullanmamasının dayanağıdır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

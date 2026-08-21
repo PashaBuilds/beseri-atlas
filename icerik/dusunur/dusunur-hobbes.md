@@ -18,6 +18,7 @@ ilgili:
   - dusunur-kant
   - dusunur-locke
   - dusunur-montesquieu
+  - kavram-egemenlik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

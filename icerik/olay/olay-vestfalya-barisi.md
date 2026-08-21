@@ -17,6 +17,7 @@ ilgili:
   - olay-otuz-yil-savaslari
   - olay-reform
   - tartisma-imparatorluk-siniri-nasil-cizilir
+  - kavram-egemenlik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

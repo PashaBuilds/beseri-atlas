@@ -1893,7 +1893,7 @@ isler:
   - id: kavram-egemenlik
     tip: kavram
     baslik: Egemenlik
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2061,7 +2061,7 @@ isler:
   - id: kavram-milliyetcilik
     tip: kavram
     baslik: Milliyetçilik
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

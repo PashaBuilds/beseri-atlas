@@ -1,0 +1,67 @@
+{
+  "id": "kavram-milliyetcilik",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:29:15.535Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılın başına yerleştirdiğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1772'de yayımlanan bir dil kökeni incelemesinde ortak dilin rolünün vurgulandığını ve yazarın milliyet ile yurtseverlik kavramlarına olağanüstü önem atf",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavramın kökeninin bir dil incelemesine bağlanması, atlasın terim kilidi kapısının kavram düzeyindeki karşılığıdır: dil, siyasi bir iddia taşıyabilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak türler başlığı altında şunları sıralar: sömürgecilik karşıtı, yurttaş ve liberal, kreol, etnik, iktisadi, toplumsal cinsiyetli, bütüncül ve pan milliyetç",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı ad altında bu kadar çok türün sayılması, atlasın bu kavramı tek bir tanımla kullanmamasının dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak toplumbilim başlığı altında iki yorum tutar: ilkselci evrimsel yorum ve Marksçı yorumlar; ayrıca eleştiriye kendi bölümünü ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Marksçı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavramın yorum geleneklerinin ayrı ayrı adlandırılması, atlasın hakemlik etmeme ilkesinin kaynaklarda da uygulandığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yorum geleneklerinden birinin düşünürü dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kavramın uygulama örneklerinden biri için ayrı bir kayıt tutulur; o kayıt birleşmeyi bir dizi savaş, sefer ve yenilgi olarak bölümler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke ülke tarihler, siyaset bilimi tartışmaları ve eleştiriler burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

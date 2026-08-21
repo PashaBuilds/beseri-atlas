@@ -14,6 +14,7 @@ ilgili:
   - kavram-asabiyet
   - dusunur-ibn-haldun
   - kavram-ideal-tip
+  - kavram-egemenlik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

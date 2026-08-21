@@ -13,6 +13,7 @@ ilgili:
   - kavram-anakronizm
   - donem-07
   - aktor-karolenj-imparatorlugu
+  - kavram-milliyetcilik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

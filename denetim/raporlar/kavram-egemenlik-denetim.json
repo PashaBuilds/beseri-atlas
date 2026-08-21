@@ -1,0 +1,49 @@
+{
+  "id": "kavram-egemenlik",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:29:38.382Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tanım ve türler başlığı altında üç alt başlık tutar: mutlaklık, dışlayıcılık ile hukuken ve fiilen egemenlik; sonuncusunun altında egemenlik ve bağımsız",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kavram için hukuki ve fiilî durumların ayrı ayrı tanımlanması, atlasın aktör dosyalarında neden devlet biçimini kaynağın verdiği ifadeyle tuttuğunun dayana",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak tarih bölümünü beş alt başlığa ayırır: klasik, ortaçağ, Reform, Aydınlanma Çağı ve İkinci Dünya Savaşı sonrası dünya düzeni.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavramın tarihinin dönemlere ayrılması, atlasın şu kuralının dayanağıdır: bu atlasta egemenlik sözcüğü, hangi dönemde kullanıldığı belirtilmeden geçmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mutlak egemenliği savunduğu kaydedilen bir düşünür için ayrı bir kayıt tutulur; o kayıt, düşünürün on yıl sürgünde kaldığını ve sürgününün dönemin iç savaşlarıy",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir başka kayıt, belirli bir alan içinde meşru güç kullanımı tekelini kayda değer bir fikir olarak sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramın hukuki tanımları, uluslararası tanınma sorunu ve modern tartışmaları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olara",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
