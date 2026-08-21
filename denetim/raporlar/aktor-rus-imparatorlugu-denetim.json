@@ -1,0 +1,73 @@
+{
+  "id": "aktor-rus-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T06:50:21.670Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak üç ayrı biçim kaydeder: 1721-1906 arasında üniter mutlak monarşi, 1906-1917 arasında üniter parlamenter yarı anayasal monarşi ve 1917'de geçici hükümet.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üç evrenin süreleri arasındaki oran çarpıcıdır: mutlak monarşi 1721'den 1906'ya uzanır, yarı anayasal evre 1906-1917 arasındadır, geçici hükümet ise tek bir yıl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nikola ile kapanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Başbakanlık çizgisi ise 1810-1812 arasında Nikolay Rumyantsev ile başlar ve 1917'de Aleksandr Kerenski ile biter.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yasama organı Yönetici Senato olarak kaydedilir; üst kanadı Devlet Konseyi'dir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İmparatorluğun sonu, Rusya Cumhuriyeti'nin Petrograd şehrinde 7 Kasım 1917'de (eski takvimle 25 Ekim) yaşanan olayla gelir; sonuçlar arasında ikili iktidarın so",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Karşı tarafta Aleksandr Kerenski yer alıyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kerenski'nin hem son başbakan hem de son karşılaşmanın komutanı olarak kaydedilmesi, iki kaynağın aynı kişide kesiştiği bir noktadır; süreç dosyasında ele alını",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kerenski'nin hem son başbakan hem de son karşılaşmanın komutanı olarak kaydedilmesi, iki kaynağın aynı kişide kesiştiği bir noktadır; süreç dosyasında ele alını",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yaklaşık 1,82 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Toprak genişlemesi, serflik düzeni ve kaldırılması, milliyetler politikası ve 1905 sonrası anayasal deney burada ayrı başlıklar altında ele alınmamıştır; kaynak",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

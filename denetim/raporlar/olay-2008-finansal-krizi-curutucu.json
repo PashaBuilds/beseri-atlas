@@ -1,0 +1,14 @@
+{
+  "id": "olay-2008-finansal-krizi",
+  "gecis": 3,
+  "zaman": "2026-08-21T06:50:22.009Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu krizin en öğretici yanı, nedeninin **tek bir başlığa sığmamasıdır**. Kaynak nedenleri şu ayrı başlıklar altında inceler: eşik altı kredilendirme (ve uygun fiyatlı konut programl",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "aktor-dunya-bankasi",
+  "gecis": 2,
+  "zaman": "2026-08-21T06:50:21.566Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bretton Woods Konferansı Uluslararası İmar ve Kalkınma Bankası'nı kurdu; bu kurum bugün Dünya Bankası Grubu'nun parçasıdır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuruluş adındaki sıralama dikkat çekicidir: önce imar, sonra kalkınma.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bugünkü adında ise ne imar ne kalkınma geçer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Diğeri, döviz kurlarını izlemek ve ödemeler dengesi açığı olan ülkelere rezerv para birimi ödünç vermek üzere kurulan Uluslararası Para Fonu'dur.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Fon, Temmuz 1944'te kuruldu ve üyeliği 191 ülkedir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuruluşların ikisi de 1945'te, yeterli sayıda ülke anlaşmayı onayladıktan sonra faaliyete geçti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sovyet temsilcileri konferansa katıldılar ancak daha sonra nihai anlaşmaları onaylamayı reddettiler; kurdukları kurumları \"Wall Street'in şubeleri\" olarak nitel",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ticaret kanadı daha geç kurumsallaştı: Dünya Ticaret Örgütü'nün selefi Gümrük Tarifeleri ve Ticaret Genel Anlaşması'dır ve örgütün soyu Bretton Woods sistemine ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Dünya, Ticaret, Örgütü, Gümrük"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

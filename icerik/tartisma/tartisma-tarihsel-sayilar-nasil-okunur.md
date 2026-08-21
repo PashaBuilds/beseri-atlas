@@ -30,6 +30,7 @@ ilgili:
   - olay-haiti-devrimi
   - olay-hindistan-bolunmesi
   - aktor-dunya-ticaret-orgutu
+  - olay-2008-finansal-krizi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -17,6 +17,8 @@ ilgili:
   - olay-bretton-woods
   - aktor-birlesmis-milletler
   - aktor-dunya-ticaret-orgutu
+  - olay-2008-finansal-krizi
+  - aktor-dunya-bankasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

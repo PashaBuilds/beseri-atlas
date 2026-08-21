@@ -21,6 +21,7 @@ ilgili:
   - olay-sovyetler-dagilmasi
   - aktor-avrupa-birligi
   - aktor-dunya-ticaret-orgutu
+  - olay-2008-finansal-krizi
 okuma_onerisi: []
 serit:
   - bolge: kuresel

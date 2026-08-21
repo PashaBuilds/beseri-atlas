@@ -28,6 +28,8 @@ ilgili:
   - aktor-alman-imparatorlugu
   - aktor-avusturya-macaristan
   - aktor-britanya-imparatorlugu
+  - aktor-japonya-imparatorlugu
+  - aktor-rus-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: afrika

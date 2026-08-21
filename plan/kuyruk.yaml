@@ -679,7 +679,7 @@ isler:
   - id: olay-2008-finansal-krizi
     tip: olay
     baslik: 2008 finansal krizi
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-16
@@ -913,7 +913,7 @@ isler:
   - id: aktor-rus-imparatorlugu
     tip: aktor
     baslik: Rus İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-11
@@ -949,7 +949,7 @@ isler:
   - id: aktor-japonya-imparatorlugu
     tip: aktor
     baslik: Japonya İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-13
@@ -985,7 +985,7 @@ isler:
   - id: aktor-dunya-bankasi
     tip: aktor
     baslik: Dünya Bankası
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14

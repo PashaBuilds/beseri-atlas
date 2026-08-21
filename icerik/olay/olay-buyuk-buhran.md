@@ -16,6 +16,7 @@ ilgili:
   - donem-13
   - olay-ikinci-dunya-savasi
   - olay-bretton-woods
+  - olay-2008-finansal-krizi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

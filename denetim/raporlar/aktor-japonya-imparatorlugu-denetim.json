@@ -1,0 +1,55 @@
+{
+  "id": "aktor-japonya-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T06:50:21.612Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "3 Ocak 1868 tarihli olayın sonuçları arasında Tokugawa şogunluğunun devrilmesi, Japonya İmparatorluğu'nun kurulması, sanayileşme ve feodalitenin kaldırılması il",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Listenin yapısı olağandışıdır: bir devletin kurulması ile bir toplumsal sınıfın hukuken ortadan kaldırılması aynı maddede yer alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hareket, Japonya'da imparatorluk yönetimine dönüş olarak adlandırılır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kuruluşa giden yolu evrelere ayırır: 1854-1858 arasında Eşitsiz Antlaşmalara tepkiler, 1858-1864 arasında siyasi şiddet ve 1864-1867 arasında Tokugawa k",
+      "durum": "OK",
+      "not": "7 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Daha geniş çerçeve ise 1633-1854 arasındaki yabancı etkidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Devletin sonraki evresi, çağdaş kaynaklarda savaşlar arası dönemin gündem maddeleri arasında sayılır: Japonya'nın Çin ve Tayvan'a karşı saldırganlığı, aynı list",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu liste bir nedensellik zinciri değil, çağdaşların aynı anda izlediği krizlerin envanteridir; atlas buradan bir neden çıkarmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1945'te yaklaşık 2,38 milyardır.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

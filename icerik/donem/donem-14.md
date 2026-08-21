@@ -28,6 +28,7 @@ ilgili:
   - olay-suveys-krizi
   - aktor-birlesmis-milletler
   - aktor-imf
+  - aktor-dunya-bankasi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

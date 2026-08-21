@@ -15,6 +15,7 @@ etiketler: [meiji, tokugawa, samuray, japonya, restorasyon]
 ilgili:
   - donem-12
   - olay-1857-hint-ayaklanmasi
+  - aktor-japonya-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
