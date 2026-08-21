@@ -2757,7 +2757,7 @@ isler:
   - id: tartisma-kalkinma-yardimi-ise-yariyor-mu
     tip: tartisma
     baslik: Kalkınma yardımı işe yarıyor mu?
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

@@ -1,0 +1,61 @@
+{
+  "id": "tartisma-kalkinma-yardimi-ise-yariyor-mu",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:25:32.774Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yardım etkililiğine dair kaygının yüksek bir genellik düzeyinde olabileceğini — yardımın ortalamada kendisinden beklenen başlıca işlevleri yerine getiri",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir sorunun kaynağın tanım bölümünde ikiye ayrılması, atlasın şu kuralının dayanağıdır: cevabı aktarmadan önce sorunun hangi düzeyde sorulduğu yazılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl başında genel olarak daha olumlu sonuçlar verir göründüğünü, ancak tablonun karmaşık ve pek çok bakımdan açıklıktan uzak olduğunu yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kaynağın iki dönem için iki farklı yönelim bildirmesi, tek bir cevabın hangi yılların çalışmalarına dayandığı yazılmadan aktarılamayacağını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 2003-2011 arasında yardım etkililiği üzerine yaklaşık dört üst düzey forum yapıldığını ve bunların Paris Bildirgesi ile diğer sonuçlarının geniş bir uzl",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir tartışmanın sekiz yıl içinde dört uluslararası forumla yönetilmeye çalışılması, sorunun yalnızca ekonometrik değil kurumsal bir soru olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı ilişkiyi yapısal olarak ele alan kuram için tutulan kayıt, çevre devletlerden merkez devletlere doğru bir kaynak akışı bulunduğu ve zenginlerin yoksullar p",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yardımın yönünü tersine çeviren bir çerçevenin varlığı, \"işe yarıyor mu\" sorusunun ölçüm sorusu olduğu kadar çerçeve sorusu da olduğunu gösterir; kuram dosyasın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aşırı yoksulluk oranı serisinde dünya değeri 1990'da yaklaşık yüzde 43,41, 2000'de yaklaşık yüzde 36,20, 2010'da yaklaşık yüzde 20,98 ve 2026'da yaklaşık yüzde ",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

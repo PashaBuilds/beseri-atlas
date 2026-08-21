@@ -15,6 +15,7 @@ ilgili:
   - olay-afrika-bagimsizlik-dalgasi
   - veri-yoksulluk-orani
   - tartisma-somurgeciligin-ekonomik-bilancosu
+  - tartisma-kalkinma-yardimi-ise-yariyor-mu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

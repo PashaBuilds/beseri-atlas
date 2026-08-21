@@ -26,6 +26,7 @@ ilgili:
   - olay-berlin-duvarinin-yikilisi
   - olay-11-eylul
   - olay-internetin-yayginlasmasi
+  - tartisma-kalkinma-yardimi-ise-yariyor-mu
 okuma_onerisi: []
 serit:
   - bolge: kuresel

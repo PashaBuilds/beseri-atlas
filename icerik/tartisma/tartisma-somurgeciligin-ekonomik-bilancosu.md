@@ -27,6 +27,7 @@ ilgili:
   - kavram-bagimlilik-kurami
   - olay-afrika-bagimsizlik-dalgasi
   - donem-12
+  - tartisma-kalkinma-yardimi-ise-yariyor-mu
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

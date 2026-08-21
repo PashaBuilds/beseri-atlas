@@ -1,0 +1,14 @@
+{
+  "id": "tartisma-kalkinma-yardimi-ise-yariyor-mu",
+  "gecis": 3,
+  "zaman": "2026-08-21T12:25:39.155Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı kaynağın iki dönem için iki farklı yönelim bildirmesi,[^k1] tek bir cevabın hangi yılların çalışmalarına dayandığı yazılmadan aktarılamayacağını gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

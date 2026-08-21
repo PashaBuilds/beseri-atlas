@@ -15,6 +15,7 @@ ilgili:
   - kavram-gini-katsayisi
   - veri-kisi-basi-gsyh-1-2022
   - kavram-bagimlilik-kurami
+  - tartisma-kalkinma-yardimi-ise-yariyor-mu
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/yoksulluk-orani.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"
