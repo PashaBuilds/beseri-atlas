@@ -1,0 +1,67 @@
+{
+  "id": "kaynak-tooze-felaketin-bedeli",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:48:28.372Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kitabı Adam Tooze'un 2006'da Allen Lane tarafından ilk kez yayımlanan 799 sayfalık eseri olarak kaydeder; yayın tarihi 29 Haziran 2006'dır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayıt, kitabın Wolfson Tarih Ödülü'nü ve 2007 Longman/History Today Yılın Kitabı Ödülü'nü kazandığını yazar.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın şunu yazdığını kaydeder: Almanlar 1940'ta Britanya Muharebesi'nde Britanya'yı yenmeyi başaramadıktan sonra savaşın iktisadi mantığı onları Sovye",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kitabın Albert Speer yönetimindeki bir silahlanma mucizesi fikrine karşı çıktığını ve Nazi iktisadının savaş ekonomisi için çok daha fazla kadını seferb",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kitabın tezinden çok reddettikleriyle tanımlanabilmesi, atlasın şu kuralının dayanağıdır: bir kaynağın konumu, neyi savunduğu kadar neye karşı çıktığıyla da",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kitabın merkezine koyduğu harekât için tutulan kayıt, onu 22 Haziran 1941'de başlatılan Sovyetler Birliği işgali olarak tarihler.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki kaydın aynı yılı vermesi, atlasın çapraz doğrulama ölçütünü karşılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki kaydın aynı yılı vermesi, atlasın çapraz doğrulama ölçütünü karşılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Savaş ölümleri serisinde dünya değeri 1939'da 657.119, 1941'de 6.354.402, 1945'te 6.581.340'tır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Buradaki bütün ifadeler kaynak sayfasının kendi anlatımına dayanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

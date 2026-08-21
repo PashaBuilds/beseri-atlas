@@ -18,6 +18,7 @@ ilgili:
   - tartisma-ikinci-dunya-savasi-sorumlulugu
   - veri-savas-olumleri
   - veri-savas-kayiplari-1800-2023
+  - kaynak-tooze-felaketin-bedeli
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

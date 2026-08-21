@@ -26,6 +26,7 @@ ilgili:
   - tartisma-1914-savas-sorumlulugu
   - kavram-topyekun-savas
   - donem-13
+  - kaynak-tooze-felaketin-bedeli
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

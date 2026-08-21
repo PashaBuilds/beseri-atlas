@@ -31,6 +31,7 @@ ilgili:
   - tartisma-ikinci-dunya-savasi-sorumlulugu
   - kaynak-hobsbawm-caglar
   - tartisma-1929-krizinin-nedeni
+  - kaynak-tooze-felaketin-bedeli
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 serit:

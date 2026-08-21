@@ -16,6 +16,7 @@ ilgili:
   - veri-askeri-harcama
   - tartisma-tarihsel-sayilar-nasil-okunur
   - kavram-topyekun-savas
+  - kaynak-tooze-felaketin-bedeli
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/savas-kayiplari.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

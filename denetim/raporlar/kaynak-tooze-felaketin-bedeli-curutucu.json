@@ -1,0 +1,14 @@
+{
+  "id": "kaynak-tooze-felaketin-bedeli",
+  "gecis": 3,
+  "zaman": "2026-08-21T12:48:49.176Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, kitabı Adam Tooze'un 2006'da Allen Lane tarafından ilk kez yayımlanan 799 sayfalık eseri olarak kaydeder; yayın tarihi 29 Haziran 2006'dır.[^k1]",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}
