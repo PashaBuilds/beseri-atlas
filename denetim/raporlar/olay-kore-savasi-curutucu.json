@@ -1,7 +1,7 @@
 {
   "id": "olay-kore-savasi",
   "gecis": 3,
-  "zaman": "2026-08-21T07:21:15.596Z",
+  "zaman": "2026-08-21T07:21:56.224Z",
   "itirazlar": [
     {
       "ciddiyet": "dusuk",
@@ -9,13 +9,6 @@
       "cumle": "Rekabetin ilk evresi çevreleme, Truman Doktrini ve Kore Savaşı başlığıyla 1947-1953 arasına yerleştirilir.[^k2] Yani savaş, o evrenin adını taşıyan üç unsurdan biridir.[^k2]",
       "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "orta",
-      "tip": "kapsam-carpitmasi",
-      "cumle": "Bir bölgesel savaşın küresel bir dönemlendirmenin adına girmesi, çatışmanın kendisinden çok işaret ettiği düzenin önemsendiğini gösterir; dönem çerçevesi [1945-1991](/donem/14/) do",
-      "sorun": "Makale dogu-asya/amerika kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
-      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
     }
   ]
 }

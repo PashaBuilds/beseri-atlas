@@ -1,5 +1,5 @@
 # Çürütücü raporu — olay-kore-savasi
-_2026-08-21T07:21:15.595Z_
+_2026-08-21T07:21:56.223Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 
@@ -8,11 +8,3 @@ _2026-08-21T07:21:15.595Z_
 **Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
 
 **Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
-
-## İtiraz 2 — [ciddiyet: orta] kapsam-carpitmasi
-
-**Cümle:** "Bir bölgesel savaşın küresel bir dönemlendirmenin adına girmesi, çatışmanın kendisinden çok işaret ettiği düzenin önemsendiğini gösterir; dönem çerçevesi [1945-1991](/donem/14/) do"
-
-**Sorun:** Makale dogu-asya/amerika kapsamlı ama cümle küresel/evrensel dil kullanıyor.
-
-**Öneri:** Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster.

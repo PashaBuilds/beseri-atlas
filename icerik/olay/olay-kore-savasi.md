@@ -72,9 +72,9 @@ Rekabetin ilk evresi çevreleme, Truman Doktrini ve Kore Savaşı başlığıyla
 1947-1953 arasına yerleştirilir.[^k2] Yani savaş, o evrenin adını taşıyan üç
 unsurdan biridir.[^k2]
 
-Bir bölgesel savaşın küresel bir dönemlendirmenin adına girmesi, çatışmanın
-kendisinden çok işaret ettiği düzenin önemsendiğini gösterir; dönem çerçevesi
-[1945-1991](/donem/14/) dosyasında ele alınıyor.
+Bir bölgesel savaşın, bloklar arası rekabetin dönemlendirmesine adını
+vermesi,[^k2] çatışmanın kendisinden çok işaret ettiği düzenin önemsendiğini
+gösterir; dönem çerçevesi [1945-1991](/donem/14/) dosyasında ele alınıyor.
 
 ## Ölçek
 
