@@ -1,0 +1,61 @@
+{
+  "id": "aktor-memluk-devleti",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:26:08.214Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu devletin kuruluş biçimi, atlastaki başka hiçbir aktörde görülmez: Mısır'da Eyyûbî ordusundaki Türk asıllı âzatlı emîrler tarafından kurulmuştur ve dönemin ta",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Devlet 1250-1517 arasına tarihlenir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın âzatlı emîrler ifadesi, devletin kurucularının önceki düzende askerî köle statüsünden gelme kişiler olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir devletin, önceki devletin ordusundaki bu statüden doğması, siyasi meşruiyetin soy ya da seçim dışında üçüncü bir yoldan da kurulabildiğini gösterir: kurumsa",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin tarihçilerinin bu devleti Türk Devleti olarak adlandırması, atlas için değerli bir kayıttır: bu, sonradan yapılmış bir sınıflandırma değil çağdaş bir ad",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayıt sanat tarafında da sürer: hanedan Türk soyundan geldiği için Mısır ve Suriye'de oluşturdukları sanat Türk sanatı olarak algılanır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Devleti sona erdiren düzen, Batı Anadolu'nun kuzeyinde bir Türkmen beyliği olarak ortaya çıkıp üç kıtaya yayılan devletti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1500 yılında yaklaşık 503,1 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Devletin siyasi tarihi, sultan sıralaması, askerî örgütlenmesi ve mimarisi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak i",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

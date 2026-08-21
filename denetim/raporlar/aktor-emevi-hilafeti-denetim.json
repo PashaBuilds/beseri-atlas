@@ -1,0 +1,73 @@
+{
+  "id": "aktor-emevi-hilafeti",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:26:08.107Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Emevîler, Hulefâ-yi Râşidîn'den sonra 661-750 yılları arasında hüküm süren ilk İslâm hanedanıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak hanedanı doğrudan ilk İslâm hânedanı olarak niteler ve öncesindeki dönemi 632-661 arası ayrı bir evre olarak sayar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu ayrım kurumsal bir kırılmayı işaretler: seçimle gelen bir halifeler dizisinden babadan oğula geçen bir hanedana geçiş.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Devlet, Suriye'nin merkezi Dımaşk'ta kurulmuştur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Siyasi merkezin Arabistan'daki şehirlerden Suriye'ye taşınması, dinî merkez ile idari merkezin ayrışmasıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Hanedanın ömrü, kaynakların ayrı ayrı tarihlediği fetih dizisiyle örtüşür: Mağrib'in fethi 647-742, Hispanya ve Septimanya'nın fethi 711-721, Sind'in fethi 711-",
+      "durum": "OK",
+      "not": "7 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu genişleme, doğuda Sind'deki Hint alt kıtasından batıda Pireneler'deki İber Yarımadası'na uzanan bir alan üretti.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Üç kıtaya yayılan bir alanın tek bir hanedanın ömrü içinde tamamlanması, dönemin siyasi birleşme hızının ölçüsüdür; süreç dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hanedanın ardılı 750 ile 1258 yılları arasında hüküm süren Abbâsî hanedanıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu MS 600 için yaklaşık 271,6 milyon, 1000 yılı için yaklaşık 323,5 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hanedanın siyasi tarihi, halife sıralaması, idari düzeni ve düşüş süreci burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

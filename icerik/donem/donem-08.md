@@ -28,6 +28,7 @@ ilgili:
   - aktor-buyuk-zimbabve
   - aktor-aztek-imparatorlugu
   - aktor-inka-imparatorlugu
+  - aktor-memluk-devleti
 okuma_onerisi: []
 serit:
   - bolge: avrupa

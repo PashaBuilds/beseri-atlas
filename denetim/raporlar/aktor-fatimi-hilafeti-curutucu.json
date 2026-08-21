@@ -1,0 +1,21 @@
+{
+  "id": "aktor-fatimi-hilafeti",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:26:08.610Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki hilafet iddiasının aynı yüzyılları paylaşması,[^k1][^k2] İslam dünyasını tek bir siyasi merkez olarak düşünmeyi engeller. Rakip düzen [Abbasi Hilafeti](/aktor/abbasi-hilafeti/)",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Devletin üç bölgede birden hüküm sürmesi,[^k1] Akdeniz'in güney ve doğu kıyısını tek bir siyasi çatı altında toplar.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

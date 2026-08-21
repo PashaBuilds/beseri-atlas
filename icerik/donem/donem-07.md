@@ -24,6 +24,7 @@ ilgili:
   - aktor-song-hanedani
   - olay-malazgirt
   - olay-hacli-seferleri
+  - aktor-fatimi-hilafeti
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

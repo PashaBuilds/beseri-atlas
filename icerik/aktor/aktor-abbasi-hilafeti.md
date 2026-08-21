@@ -18,6 +18,8 @@ ilgili:
   - olay-islam-fetihleri
   - olay-talas-savasi
   - aktor-mali-imparatorlugu
+  - aktor-emevi-hilafeti
+  - aktor-fatimi-hilafeti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

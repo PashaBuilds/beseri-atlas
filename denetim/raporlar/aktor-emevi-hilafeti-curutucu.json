@@ -1,0 +1,28 @@
+{
+  "id": "aktor-emevi-hilafeti",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:26:08.607Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Emevîler, Hulefâ-yi Râşidîn'den sonra 661-750 yılları arasında hüküm süren ilk İslâm hanedanıdır.[^k1] Bu dosya, hanedanın **kurumsal yeniliğini** ele alır.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak hanedanı doğrudan ilk İslâm hânedanı olarak niteler ve öncesindeki dönemi 632-661 arası ayrı bir evre olarak sayar.[^k1]",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Üç kıtaya yayılan bir alanın tek bir hanedanın ömrü içinde tamamlanması,[^k2] dönemin siyasi birleşme hızının ölçüsüdür; süreç [İslam fetihleri](/olay/islam-fetihleri/) dosyasında ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

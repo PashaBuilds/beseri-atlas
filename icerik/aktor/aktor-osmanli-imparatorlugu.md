@@ -21,6 +21,7 @@ ilgili:
   - olay-istanbulun-fethi
   - aktor-safevi-devleti
   - aktor-etiyopya-imparatorlugu
+  - aktor-memluk-devleti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

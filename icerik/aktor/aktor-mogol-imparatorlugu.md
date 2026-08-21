@@ -16,6 +16,7 @@ ilgili:
   - donem-07
   - olay-mogol-fetihleri
   - aktor-song-hanedani
+  - aktor-memluk-devleti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

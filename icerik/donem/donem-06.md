@@ -25,6 +25,7 @@ ilgili:
   - olay-islam-fetihleri
   - olay-talas-savasi
   - aktor-gana-imparatorlugu
+  - aktor-emevi-hilafeti
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

@@ -1295,7 +1295,7 @@ isler:
   - id: aktor-emevi-hilafeti
     tip: aktor
     baslik: Emevi Hilafeti
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-06
@@ -1304,7 +1304,7 @@ isler:
   - id: aktor-fatimi-hilafeti
     tip: aktor
     baslik: Fatımi Hilafeti
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-07
@@ -1313,7 +1313,7 @@ isler:
   - id: aktor-memluk-devleti
     tip: aktor
     baslik: Memlük Devleti
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-08
