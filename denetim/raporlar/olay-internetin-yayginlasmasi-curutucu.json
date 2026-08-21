@@ -1,0 +1,21 @@
+{
+  "id": "olay-internetin-yayginlasmasi",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:20:49.875Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "ARPA, ARPANET projesinin geliştirilmesi için 1969'da sözleşmeler verdi; proje Robert Taylor'ın yönetiminde, Lawrence Roberts'ın idaresindeydi.[^k1] Bu dosya, kaydın **tek bir icat ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir fikrin sahibinin, fikrin gerçekleştiği anda kurumda bulunmaması,[^k1] atlasın buluş anlatılarına neden tek bir ad yazmadığını gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

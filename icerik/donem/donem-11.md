@@ -25,6 +25,7 @@ ilgili:
   - olay-napolyon-savaslari
   - olay-sanayi-devrimi
   - olay-latin-amerika-bagimsizligi
+  - aktor-abd
 okuma_onerisi: []
 serit:
   - bolge: avrupa

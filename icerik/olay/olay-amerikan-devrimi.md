@@ -18,6 +18,7 @@ ilgili:
   - olay-haiti-devrimi
   - olay-yedi-yil-savasi
   - olay-amerikan-ic-savasi
+  - aktor-abd
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

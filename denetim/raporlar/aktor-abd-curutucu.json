@@ -1,0 +1,14 @@
+{
+  "id": "aktor-abd",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:21:03.430Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Seçmen tanımının bu ayrıntıda kaydedilmesi,[^k1] seçim yapıldığını söylemenin tek başına kimin oy verdiğini söylemediğini gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

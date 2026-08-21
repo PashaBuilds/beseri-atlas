@@ -1,0 +1,85 @@
+{
+  "id": "olay-internetin-yayginlasmasi",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:20:43.525Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "ARPA, ARPANET projesinin geliştirilmesi için 1969'da sözleşmeler verdi; proje Robert Taylor'ın yönetiminde, Lawrence Roberts'ın idaresindeydi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak Paul Baran'ın 1960'ların başında mesaj bloklarındaki veriye dayalı dağıtık bir ağ önerdiğini, Donald Davies'in ise 1965'te Ulusal Fizik Laboratuvarı'nda ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir teknolojinin, onu hayata geçiren projeden yıllar önce ve başka bir ülkede tasarlanmış olarak kaydedilmesi, \"internetin icadı\" gibi tekil bir ifadeyi kaydın ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arayüz Mesaj İşlemcileri ağının Bolt, Beranek ve Newman'daki bir ekip tarafından kurulduğu, tasarım ve şartnamenin Bob Kahn önderliğinde yürütüldüğü, ana bilgis",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Protokolün lisansüstü öğrencilere atfedilmesi, teknik standartların kurumsal hiyerarşinin tepesinde değil çalışma düzeyinde belirlendiği bir örnek olarak kayda ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Licklider'in Ekim 1962'de ARPA içinde yeni kurulan Bilgi İşleme Teknikleri Ofisi'nin başına getirildiği ve görevinin Savunma Bakanlığı'nın Cheyenne Dağı, Pentag",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir fikrin sahibinin, fikrin gerçekleştiği anda kurumda bulunmaması, atlasın buluş anlatılarına neden tek bir ad yazmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak 1980'lerdeki küresel yayılmayı ayrı bir başlıkta işler ve altına Afrika, Asya ve Okyanusya, Latin Amerika ile bir sayısal uçurumun ortaya çıkışı alt başl",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yayılmanın yanına eşitsizliğin de bir başlık olarak yazılması, bir teknolojinin yaygınlaşmasının herkes için aynı anlama gelmediğini kaydın kendisinin belirttiğ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "ARPANET'in Birleşik Devletler genelinde hızla yayıldığı, Birleşik Krallık ve Norveç'e bağlantılar kurulduğu yazılır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Birleşik, Devletler, Krallık, Norveç"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ağın çıkış ülkesi dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1969 için yaklaşık 3,63 milyar, 2004 için yaklaşık 6,47 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "TCP/IP'nin geliştirilmesi, NSFNET'e geçiş, optik ağlar, Web'in tarihi ve 2004 sonrası burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölüml",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

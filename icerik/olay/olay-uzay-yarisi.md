@@ -17,6 +17,7 @@ ilgili:
   - aktor-sovyetler-birligi
   - olay-kuba-fuze-krizi
   - olay-cernobil
+  - olay-internetin-yayginlasmasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

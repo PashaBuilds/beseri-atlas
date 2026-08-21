@@ -1160,7 +1160,7 @@ isler:
   - id: aktor-abd
     tip: aktor
     baslik: Amerika Birleşik Devletleri
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-11
@@ -1511,7 +1511,7 @@ isler:
   - id: olay-internetin-yayginlasmasi
     tip: olay
     baslik: İnternetin yaygınlaşması
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-15

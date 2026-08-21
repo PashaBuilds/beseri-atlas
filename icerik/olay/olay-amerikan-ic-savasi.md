@@ -16,6 +16,7 @@ ilgili:
   - donem-12
   - tartisma-tarihsel-sayilar-nasil-okunur
   - olay-amerikan-devrimi
+  - aktor-abd
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

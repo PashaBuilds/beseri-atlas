@@ -1,0 +1,91 @@
+{
+  "id": "aktor-abd",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:20:43.617Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bağımsızlık Bildirisi 4 Temmuz 1776'da İkinci Kıta Kongresi tarafından kabul edildi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Thomas Jefferson'ın 11 Haziran 1776'da ya da sonrasında bir tarihte Bağımsızlık Bildirisi'nin bir müsveddesine \"United States of America\" yazdığını kayd",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir devletin adının, kuruluş belgesinden önce bir gazetede görülmüş olarak kaydedilmesi, adın belgeyle doğmadığını, belgeden önce dolaşımda olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak federal hükümet genelinde geçerli yazım kurallarını aktarır: uzun biçim her zaman kullanılır; başka bir ülkenin adının geçtiği bir cümlede uzun biçim kul",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir devletin kendi adının kullanımını yazım kılavuzuyla düzenlemesi, adın bir kimlik değil bir kurum işlemi olarak da yönetildiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alan sırası üçüncü olarak kaydedilir; ölçü 3.796.742 mil kare olarak verilir ve yalnızca iç sular dâhil edildiğinde 9.572.900 km² olarak ayrıca yazılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı ülkenin alanı için hangi suların sayıldığına göre iki farklı değer bulunması, atlasın alan sayılarını neden tek başına karşılaştırmadığını gösterir; ölçüt ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, sonradan bu devleti kuracak olan asıl On Üç Koloni'nin Britanya İmparatorluğu'nun mülkleri olarak, Kraliyet tarafından atanan valilerce yönetildiğini ya",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Seçmen tanımının bu ayrıntıda kaydedilmesi, seçim yapıldığını söylemenin tek başına kimin oy verdiğini söylemediğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak doğu kıyısı boyunca yerleşimcilerin, büyük ölçüde plantasyonlarda el emeği sağlamak üzere Afrikalıları Atlantik köle ticaretiyle taşıdığını yazar; koloni",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki kaydın aynı bölümde yan yana durması, nüfus artışının hangi kaynaklardan beslendiğini kaydın kendisinin gösterdiği anlamına gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kuruluşa giden süreç için kaynak Amerikan Devrimi'ni verir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 2020'de yaklaşık 7,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Siyasi tarih, iç savaş, dış politika, iktisat ve kültür burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
