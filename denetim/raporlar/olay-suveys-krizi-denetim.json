@@ -1,0 +1,73 @@
+{
+  "id": "olay-suveys-krizi",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:41:57.814Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, konuyu Süveyş Kanalı'nın millîleştirilmesi başlığı altında ele alır ve Britanya, Fransa ile Milletler Topluluğu tepkilerini ayrı alt başlıklar olarak sı",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kararın veriliş biçimine dair bir tarihçi değerlendirmesini doğrudan aktarır: Mısırlı tarihçi Abd el-Azim Ramazan, Nasır'ın Süveyş Kanalı'nı siyasi isti",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nasır'ın Amman'da desteklediği gösteriler Ürdün Kralı Hüseyin'in Arap Lejyonu'nun Britanyalı komutanı John Bagot Glubb'u Mart 1956'da görevden almasına yol açtı",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Glubb Paşa'nın görevden alınmasının ardından Britanya başbakanı Anthony Eden, Nasır'a karşı saplantılı bir nefretle doldu ve Mart 1956'dan itibaren özel olarak ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Eden'in 1956 başında ortalama beş saat uyuduğunu ve sürekli uyku yoksunluğunun ilgili etkilerini de kaydeder.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "16 Mayıs 1956'da Nasır Çin Halk Cumhuriyeti'ni resmen tanıdı; bu ABD'yi ve Dışişleri Bakanı Dulles'ı kızdırdı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu hamle, projenin Mısır'ın iktisadi kapasitesinin ötesinde olduğu izlenimiyle birleşince Eisenhower'ın Amerikan finansmanını geri çekmesine yol açtı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kriz, 1947 ile 1991 arasındaki jeopolitik rekabetin bölgesel bir tezahürüdür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Uyuşmazlığın hukuki cephesi de kayıtlıdır: Mısır Akabe Körfezi'ni abluka altına aldı ve bu, 1888 tarihli İstanbul Sözleşmesi'ne aykırıydı; birçok kişi bunun ayn",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Askerî harekâtın seyri, Sèvres Protokolü, ateşkes süreci ve krizin Britanya ile Fransa'nın konumu üzerindeki uzun vadeli sonuçları burada ayrı başlıklar altında",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

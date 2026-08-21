@@ -634,7 +634,7 @@ isler:
   - id: olay-bandung-konferansi
     tip: olay
     baslik: Bandung Konferansı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14
@@ -643,7 +643,7 @@ isler:
   - id: olay-suveys-krizi
     tip: olay
     baslik: Süveyş Krizi
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14
@@ -652,7 +652,7 @@ isler:
   - id: olay-kuba-fuze-krizi
     tip: olay
     baslik: Küba Füze Krizi
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14
@@ -661,7 +661,7 @@ isler:
   - id: olay-1973-petrol-krizi
     tip: olay
     baslik: 1973 petrol krizi
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14

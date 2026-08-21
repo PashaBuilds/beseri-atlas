@@ -1,0 +1,21 @@
+{
+  "id": "olay-bandung-konferansi",
+  "gecis": 3,
+  "zaman": "2026-08-21T05:41:58.130Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yani Bandung tek başına bir örgüt kurmadı: 1955'ten 1961'e uzanan bir dizi toplantının ilk halkası oldu.[^k1] Kurumsallaşma, ilk buluşmadan sonra gelir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Konferansın bildirisinin içeriği, katılımcı ülkelerin tek tek konumları, tartışmaların seyri ve Amerika Birleşik Devletleri'nin sürece dahli burada ayrı başlıklar altında ele alınm",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

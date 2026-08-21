@@ -1,6 +1,6 @@
 {
-  "zaman": "2026-08-21T05:37:58.336Z",
-  "makale_sayisi": 90,
+  "zaman": "2026-08-21T05:42:34.122Z",
+  "makale_sayisi": 94,
   "celiskiler": [],
   "incelenecek": [
     {
@@ -74,6 +74,15 @@
         "kaynak-clark-uyurgezerler"
       ],
       "detay": "\"Sırbistan\" — olay-1914-temmuz-krizi: 1914 / kaynak-clark-uyurgezerler: 1912"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-1973-petrol-krizi",
+        "olay-suveys-krizi"
+      ],
+      "detay": "\"Mart\" — olay-1973-petrol-krizi: 1974 / olay-suveys-krizi: 1956"
     },
     {
       "tur": "varlik-yil-ayrismasi",

@@ -16,6 +16,7 @@ ilgili:
   - donem-14
   - olay-sovyetler-dagilmasi
   - olay-ekim-devrimi
+  - olay-kuba-fuze-krizi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

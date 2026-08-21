@@ -1,0 +1,67 @@
+{
+  "id": "olay-kuba-fuze-krizi",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:41:57.744Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "22 Ekim'de Kennedy, Küba'ya daha fazla füze ulaşmasını önlemek için deniz ablukası emri verdi; ablukayı \"blokaj\" değil \"karantina\" olarak adlandırdı, böylece AB",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Abluka, uluslararası hukukta savaş haliyle ilişkilendirilen bir eylemdir; aynı fiilin karantina olarak adlandırılması, eylemi değiştirmeden hukuki sonucunu deği",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sürecin başlangıcı Temmuz 1962'ye tarihlenir: gelecekteki bir ABD işgalini caydırmak için Küba'ya nükleer füzeler yerleştirme kararı alındı ve fırlatma tesisler",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ekim'de bir U-2 casus uçağı orta ve uzun menzilli fırlatma tesislerinin fotoğraflı kanıtını yakaladı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kennedy, Ulusal Güvenlik Konseyi ve diğer kilit danışmanların katıldığı bir toplantı düzenleyerek Ulusal Güvenlik Konseyi Yürütme Komitesi'ni (EXCOMM) oluşturdu",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ulusal, Güvenlik, Konseyi, Yürütme"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "18 Ekim 1962'de Kennedy, silahların yalnızca savunma amaçlı olduğunu ileri süren Sovyet Dışişleri Bakanı Andrey Gromiko ile görüştü; halihazırda bildiklerini aç",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sonunda Kennedy ile Kruşçev arasında bir anlaşmaya varıldı: Sovyetler, saldırı silahlarını Birleşmiş Milletler doğrulamasına tabi olarak Küba'dan sökeceklerdi.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kriz, 1947 ile 1991 arasındaki ve kırk dört yıl dokuz ay süren jeopolitik rekabetin içindedir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Askerî harekât planları, füzelerin teknik özellikleri, krizin gün gün seyri ve sonrasındaki silahsızlanma görüşmeleri burada ayrı başlıklar altında ele alınmamı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "olay-suveys-krizi",
+  "gecis": 3,
+  "zaman": "2026-08-21T05:41:58.132Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Kriz ani değildir. Nasır'ın Amman'da desteklediği gösteriler Ürdün Kralı Hüseyin'in Arap Lejyonu'nun Britanyalı komutanı John Bagot Glubb'u Mart 1956'da görevden almasına yol açtı.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

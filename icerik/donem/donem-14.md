@@ -22,6 +22,10 @@ ilgili:
   - olay-bretton-woods
   - olay-cin-devrimi-1949
   - olay-hindistan-bolunmesi
+  - olay-1973-petrol-krizi
+  - olay-bandung-konferansi
+  - olay-kuba-fuze-krizi
+  - olay-suveys-krizi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

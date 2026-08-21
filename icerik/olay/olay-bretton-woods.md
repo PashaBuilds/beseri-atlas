@@ -17,6 +17,7 @@ ilgili:
   - donem-14
   - olay-buyuk-buhran
   - olay-ikinci-dunya-savasi
+  - olay-1973-petrol-krizi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
