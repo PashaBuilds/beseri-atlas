@@ -247,7 +247,7 @@ isler:
   - id: olay-yazinin-icadi
     tip: olay
     baslik: Yazının icadı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-02
@@ -256,7 +256,7 @@ isler:
   - id: olay-tunc-cagi-cokusu
     tip: olay
     baslik: Tunç Çağı çöküşü
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-03
@@ -265,7 +265,7 @@ isler:
   - id: olay-pers-yunan-savaslari
     tip: olay
     baslik: Pers–Yunan savaşları
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-04
@@ -1018,3 +1018,19 @@ isler:
       - donem-16
     atanan_parti: null
     deneme: 0
+  - id: tartisma-tarim-devrimi-ilerleme-mi
+    tip: tartisma
+    baslik: Tarım devrimi bir ilerleme miydi?
+    durum: onaylandi
+    faz: 2
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: tartisma-tunc-cagi-cokusunun-nedeni
+    tip: tartisma
+    baslik: Tunç Çağı çöküşünün nedeni neydi?
+    durum: onaylandi
+    faz: 2
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1

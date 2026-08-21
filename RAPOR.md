@@ -88,7 +88,7 @@ hatalı kaynağa dayanıyorsa ikisi de aynı yanlışa varır.
 ## Hattın durduğu nokta
 
 Aktif faz: **2** · Aktif parti: **B01**
-Kuyrukta bekleyen iş: **86** · Karantinada: **0**
+Kuyrukta bekleyen iş: **83** · Karantinada: **0**
 Harcanan bütçe: 1.050.000 / 40.000.000 token
 
 ### Neden burada duruyor
