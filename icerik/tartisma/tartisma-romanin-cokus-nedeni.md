@@ -29,6 +29,7 @@ ilgili:
   - olay-justinyen-vebasi
   - olay-ronesans
   - aktor-hun-imparatorlugu
+  - kaynak-gibbon-roma
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

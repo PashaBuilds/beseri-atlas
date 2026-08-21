@@ -1,0 +1,67 @@
+{
+  "id": "kaynak-polanyi-buyuk-donusum",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:48:44.443Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eseri The Great Transformation adıyla anar ve onun tarihsel toplumbilim için bir model hâline geldiğini yazar; yazarın disiplinlerini iktisat toplumbilim",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın eski iktisatlara yaklaşımının Kolomb öncesi Amerika ve eski Mezopotamya gibi çeşitli örneklere uygulandığını, ancak eski toplumların incelenmesi",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın kayda değer fikirleri arasında gömülülük, çift hareket, kurgusal metalar, iktisatçı yanılgısı ve biçimci-özcü tartışmasını sayar; çift hareket k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir eserin katkısının kavram listesiyle kaydedilmesi, atlasın kavram katmanının neden ayrı bir tip olarak kurulduğunun dayanağıdır; ilgili düzen dosyasında ele ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın modern Avrupa'daki piyasa temelli toplumların kaçınılmaz değil tarihsel olarak olumsal olduğunu savunduğunu yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuramın kendi konusunun kaçınılmaz olmadığını öne sürmesi, atlasın kaçınılmazlık cümlelerine neden temkinle yaklaştığıyla aynı soruna değinir; ilgili kavram",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın etkilendiği kişiler arasında Adam Smith ile Max Weber'i de sayar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Etki listesinde geçen yazarlardan biri için tutulan ayrı kayıt, onun ahlak felsefesinin kapsamlı ve alışılmadık bir sürümünü geliştirdiğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yıllarda iktisadi tarih yazan bir başka yazar için tutulan kayıt, onun kapitalistleri tekelciler olarak gördüğünü yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

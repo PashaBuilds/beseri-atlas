@@ -27,6 +27,7 @@ ilgili:
   - aktor-hun-imparatorlugu
   - dusunur-tacitus
   - dusunur-augustinus
+  - kaynak-gibbon-roma
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

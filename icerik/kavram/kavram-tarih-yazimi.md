@@ -17,6 +17,7 @@ ilgili:
   - kavram-sozlu-tarih
   - kaynak-thukydides-peloponnesos
   - kaynak-carr-tarih-nedir
+  - kaynak-gibbon-roma
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

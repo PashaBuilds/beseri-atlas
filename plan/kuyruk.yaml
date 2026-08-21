@@ -2597,7 +2597,7 @@ isler:
   - id: kaynak-gibbon-roma
     tip: kaynak
     baslik: Gibbon — Roma İmparatorluğu'nun Gerileyiş ve Çöküşü
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2629,7 +2629,7 @@ isler:
   - id: kaynak-polanyi-buyuk-donusum
     tip: kaynak
     baslik: Polanyi — Büyük Dönüşüm
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

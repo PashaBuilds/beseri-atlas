@@ -17,6 +17,7 @@ ilgili:
   - kavram-ilkel-birikim
   - kavram-para
   - kaynak-smith-uluslarin-zenginligi
+  - kaynak-polanyi-buyuk-donusum
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

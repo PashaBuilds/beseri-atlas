@@ -15,6 +15,7 @@ ilgili:
   - dusunur-smith
   - dusunur-braudel
   - dusunur-marx
+  - kaynak-polanyi-buyuk-donusum
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

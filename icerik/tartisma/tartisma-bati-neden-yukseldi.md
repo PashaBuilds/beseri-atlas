@@ -24,6 +24,7 @@ ilgili:
   - aktor-song-hanedani
   - olay-cheng-ho-seferleri
   - olay-sanayi-devrimi
+  - kaynak-polanyi-buyuk-donusum
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

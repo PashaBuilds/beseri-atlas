@@ -1,0 +1,55 @@
+{
+  "id": "kaynak-gibbon-roma",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:48:07.271Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "ciltlerin 1781'de, son üç cildin (IV-VI) 1788'de birlikte çıktığını kaydeder.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, birinci cildin 1776 ile 1789 arasında art arda altı gözden geçirilmiş baskı hâlinde yeniden yayımlandığını yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir cildin on üç yılda altı kez gözden geçirilmesi, atlasın şu kuralının dayanağıdır: bu dosyada esere yapılan her atıf, hangi baskıya ait olduğu belirtilerek v",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bury'nin yedi ciltlik iki baskısı (1896-1900 ve 1909-1914), Bury'nin dört ciltlik 1914 baskısı, Hugh Trevor-Roper'ın altı ciltlik 1993-1994 baskısı ve David Wom",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı eserin dört farklı editör tarafından farklı cilt bölünmeleriyle neşredilmesi, atlasın kaynak alanında neden erişilen sürümü tuttuğunun dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Eserin başlattığı tartışma için tutulan kayıt, 1984'te 210 farklı kuramın sayıldığını ve o tarihten sonra yeni kuramların ortaya çıktığını yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Eserin işlediği dönemin dinî tartışmalarına çağdaş bir yazar için tutulan kayıt, onu Antik Çağ'ın belki en büyük Hıristiyan filozofu olarak verir ve eserlerinin",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

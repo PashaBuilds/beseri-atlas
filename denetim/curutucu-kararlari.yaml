@@ -938,3 +938,16 @@ hat_duzeltmesi:
       Kayit icin not edildi. Telifli eserler (Braudel, Carr) icin kural
       uygulandi: dosya metinden alinti yapmaz, yalnizca eser hakkinda
       yazilani aktarir ve bunu "okuma yonlendirmesi" bolumunde acikca belirtir.
+
+# Faz 4 turu B07: Gibbon Roma, Polanyi Buyuk Donusum — 2026-08-21
+  - bulgu: >-
+      KAPI (Ilke 2), kaynak-polanyi-buyuk-donusum'de guven_geneli=tartismali
+      oldugu halde ne ::tartismali haritasi ne ilgili bir tartisma dosyasi
+      bulunmadigini bildirdi.
+    aksiyon: >-
+      Itiraz HAKLIYDI. Ilgili alanina tartisma-bati-neden-yukseldi eklendi ve
+      govdedeki cift kayit (model sayilmasi / yararinin sorgulanmasi) bir
+      ::tartismali yonergesine cevrildi. Ilke 2 boylece bicimsel olarak da
+      karsilandi: tartismali isaretli hicbir dosya tek bir cevapla sunulmuyor.
+  - bulgu: kaynak-gibbon-roma'da tek itiraz dusuk ciddiyette ustunluk-iddiasi.
+    aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.
