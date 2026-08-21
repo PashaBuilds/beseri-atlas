@@ -16,6 +16,7 @@ ilgili:
   - donem-12
   - aktor-qing-hanedani
   - aktor-britanya-imparatorlugu
+  - olay-boksor-isyani
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

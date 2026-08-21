@@ -1,0 +1,14 @@
+{
+  "id": "olay-italyan-birligi",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:54:03.884Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak birliği tek bir olay olarak değil bir dizi olarak bölümler: Cavour ve birleşme beklentileri, Pisacane başarısızlığı, 1859'daki İkinci İtalyan Bağımsızlık Savaşı ve sonrası, ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

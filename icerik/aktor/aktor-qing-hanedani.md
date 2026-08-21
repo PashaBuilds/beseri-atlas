@@ -20,6 +20,7 @@ ilgili:
   - aktor-ming-hanedani
   - aktor-cin-halk-cumhuriyeti
   - olay-afyon-savaslari
+  - olay-boksor-isyani
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

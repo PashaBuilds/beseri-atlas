@@ -1394,7 +1394,7 @@ isler:
   - id: olay-italyan-birligi
     tip: olay
     baslik: İtalyan birliği
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-12
@@ -1457,7 +1457,7 @@ isler:
   - id: olay-boksor-isyani
     tip: olay
     baslik: Boksör İsyanı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-12

@@ -36,6 +36,8 @@ ilgili:
   - olay-afyon-savaslari
   - olay-irlanda-kitligi
   - olay-kirim-savasi
+  - olay-boksor-isyani
+  - olay-italyan-birligi
 okuma_onerisi: []
 serit:
   - bolge: afrika
