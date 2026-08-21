@@ -15,6 +15,7 @@ ilgili:
   - dusunur-smith
   - kavram-demografik-gecis
   - olay-irlanda-kitligi
+  - kavram-malthus-tuzagi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

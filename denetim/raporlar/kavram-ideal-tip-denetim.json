@@ -1,0 +1,61 @@
+{
+  "id": "kavram-ideal-tip",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:23:06.814Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yöntem bölümünün altında dört alt başlık tutar ve bunlardan biri ideal tiptir; diğerleri Verstehen, yöntemsel bireycilik ve değerden bağımsızlıktır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Terimin kuramlar bölümünde değil yöntem bölümünde tutulması, atlasın bu dosyayı kavram katmanına neden yerleştirdiğinin dayanağıdır: bir yöntem aracı, bir tarih",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayıt, kavramı kayda değer fikirler listesinde de sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yöntem bölümünde değerden bağımsızlığın ayrı bir alt başlık olarak tutulması, araç ile tutum arasındaki ayrımın kaynakta da yapıldığını gösterir; ikisi ayr",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas her ikisini de bir doğruluk iddiası olarak değil bir yöntem tercihi olarak kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı dönemde yazan bir çağdaşı için tutulan kayıt, onun toplum biliminin bütüncül olması gerektiğini, yani bireylerin belirli eylemleriyle sınırlı kalmak yerine",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki yöntem kararının karşıt yönlerde durması, atlasın kavram dosyalarında neden rakip seçenekleri de kaydettiğinin dayanağıdır; karşı taraf dosyasında ele alını",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yüzyılın bir başka kuram biçimi için tutulan kayıt, toplum biçimlerinin üretici gücün gelişimine göre yükselip düştüğü fikri etrafında kurulu bir tarih kur",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramın tanımı, kullanım örnekleri ve eleştirileri burada ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak bölümünün kapsamı yöntem başlıklarının lis",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

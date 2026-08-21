@@ -15,6 +15,7 @@ ilgili:
   - dusunur-braudel
   - dusunur-marx
   - kavram-dunya-sistemi
+  - kavram-bagimlilik-kurami
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -17,6 +17,7 @@ ilgili:
   - aktor-britanya-imparatorlugu
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-malthus
+  - kavram-malthus-tuzagi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

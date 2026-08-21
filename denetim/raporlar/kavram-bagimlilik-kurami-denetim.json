@@ -1,0 +1,61 @@
+{
+  "id": "kavram-bagimlilik-kurami",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:23:06.777Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Baran, Paul Sweezy ve Andre Gunder Frank tarafından geliştirildiğini kaydeder.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Latin Amerika yapısalcı okulu ile Amerikan Marksist okulunun önemli farkları bulunduğunu yazar.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kuramın 1960'lar ve 1970'lerde modernleşme kuramının bir eleştirisi olarak popüler olduğunu ve modernleşme kuramının dünyanın büyük bölümündeki süren ya",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuramın popülerliğinin bir başka kuramın gözden düşmesiyle birlikte kaydedilmesi, atlasın kavram dosyalarında neden rakip seçenekleri de tuttuğunun dayanağı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Guyanalı Marksist tarihçi Walter Rodney'nin 1972'de bir kitabında Avrupalı emperyalistlerce bilinçli olarak sömürülmüş ve bunun kıtanın çoğunun bugünkü ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu betimlemeyi bir olgu olarak değil, kaynağın aktardığı bir konum olarak taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Okullardan birinin adını aldığı düşünür için tutulan kayıt, toplum biçimlerinin üretici gücün gelişimine göre yükselip düştüğü fikri etrafında kurulu bir tarih ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yakın bir kavram için tutulan kayıt, merkez, çevre ve yarı çevre terimlerini ayrı ayrı tanımlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuramın temel önermeleri, eleştiriler ve yardım bağımlılığı tartışması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

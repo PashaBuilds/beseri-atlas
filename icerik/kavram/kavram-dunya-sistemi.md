@@ -13,6 +13,8 @@ ilgili:
   - dusunur-wallerstein
   - dusunur-braudel
   - kavram-longue-duree
+  - kavram-bagimlilik-kurami
+  - kavram-tarihsel-materyalizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

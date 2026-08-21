@@ -14,6 +14,7 @@ ilgili:
   - dusunur-marx
   - donem-01
   - kavram-dunya-sistemi
+  - kavram-tarihsel-materyalizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

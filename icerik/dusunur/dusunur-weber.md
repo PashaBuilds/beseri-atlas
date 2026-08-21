@@ -15,6 +15,7 @@ ilgili:
   - dusunur-durkheim
   - dusunur-marx
   - kavram-mesruiyet
+  - kavram-ideal-tip
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

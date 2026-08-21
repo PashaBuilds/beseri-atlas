@@ -1,0 +1,73 @@
+{
+  "id": "kavram-malthus-tuzagi",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:23:06.866Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak kuramı şöyle tanımlar: nüfus artışı Malthusçu büyüme modeline göre potansiyel olarak üsteldir, gıda arzının ya da diğer kaynakların büyümesi ise doğrusal",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bu olayın adlarını sıralar: Malthusçu felaket, Malthus tuzağı, nüfus tuzağı, Malthusçu denetim, Malthusçu kapma, Malthusçu kriz, kriz noktası ve Malthusç",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak olayın, nüfus artışı tarımsal üretimi geçerse gerçekleşeceğinin öngörüldüğünü ve bunun kıtlığa ya da savaşa yol açacağını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir olgunun gerçekleşmiş değil öngörülmüş olarak kaydedilmesi, atlasın bu dosyayı bir olay değil bir kavram olarak tuttuğunun dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, bu kurama göre kıt malların fiyatı arttıkça yoksulluk ve eşitsizliğin artacağını, artan yoksulluğun doğum oranlarını düşürerek nüfus azalmasına yol açac",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu zinciri bir olgu olarak değil, kaynağın aktardığı bir kuram olarak taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kavramın adını aldığı yazar dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 990,4 milyon, 1900 için yaklaşık 1,65 milyar, 2020 için yaklaşık 7,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu seriyi kuramın çürütülmesi olarak sunmaz: kuram belirli koşullar altında bir sonuç öngörür, seri ise koşulların gerçekleşip gerçekleşmediğini kendi baş",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu seriyi kuramın çürütülmesi olarak sunmaz: kuram belirli koşullar altında bir sonuç öngörür, seri ise koşulların gerçekleşip gerçekleşmediğini kendi baş",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuramın tarihi, yeni-Malthusçuluk, eleştiriler ve çevre tartışmalarındaki yeri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

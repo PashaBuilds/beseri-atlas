@@ -1,0 +1,21 @@
+{
+  "id": "kavram-bagimlilik-kurami",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:23:07.363Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Kaynak, kuramın 1960'lar ve 1970'lerde modernleşme kuramının bir eleştirisi olarak popüler olduğunu ve modernleşme kuramının dünyanın büyük bölümündeki süren yaygın yoksulluk neden",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Kaynak, Guyanalı Marksist tarihçi Walter Rodney'nin 1972'de bir kitabında Avrupalı emperyalistlerce bilinçli olarak sömürülmüş ve bunun kıtanın çoğunun bugünkü geri kalmışlığına do",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

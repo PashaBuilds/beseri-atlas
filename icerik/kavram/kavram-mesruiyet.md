@@ -13,6 +13,7 @@ ilgili:
   - dusunur-weber
   - kavram-asabiyet
   - dusunur-ibn-haldun
+  - kavram-ideal-tip
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -17,6 +17,7 @@ ilgili:
   - aktor-baglantisizlar-hareketi
   - olay-berlin-konferansi
   - olay-1968-hareketleri
+  - kavram-bagimlilik-kurami
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

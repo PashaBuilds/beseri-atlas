@@ -16,6 +16,7 @@ ilgili:
   - dusunur-mill
   - dusunur-weber
   - dusunur-foucault
+  - kavram-ideal-tip
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
