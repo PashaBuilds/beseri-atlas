@@ -16,6 +16,7 @@ ilgili:
   - olay-pers-yunan-savaslari
   - kavram-asabiyet
   - dusunur-platon
+  - dusunur-tacitus
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

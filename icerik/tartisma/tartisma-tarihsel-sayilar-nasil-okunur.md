@@ -44,6 +44,7 @@ ilgili:
   - dusunur-herodotos
   - dusunur-konfucyus
   - dusunur-platon
+  - dusunur-kautilya
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

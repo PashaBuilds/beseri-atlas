@@ -1,0 +1,91 @@
+{
+  "id": "dusunur-sima-qian",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:42:04.952Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onu MÖ yaklaşık 145 - yaklaşık 86 arasında yaşamış, erken Han hanedanı döneminde bir Çinli tarihçi olarak kaydeder.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, eserin tasarısını ilk kez babası Sima Tan'ın düşündüğünü ve Sima Tan'ın Bahar ve Güz Yıllıkları'nı izlemek istediğini yazar; Sima Tan'ın ölmeden önce ya",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir eserin fikrinin bir kuşağa, yazımının bir başkasına atfedilmesi, atlasın yazar alanını neden tek bir ad olarak görmediğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tamamlanmış eserin sonsözünde altı felsefi okul üzerine kısa bir denemenin açıkça Sima Tan'a atfedildiğini yazar; bunun dışında Sima Tan'a ait olduğu ya",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir metnin içindeki tek bir bölümün başka bir yazara açıkça atfedilmiş olması, bu atlasın dipnot birimini neden paragraf düzeyinde tuttuğunu dışarıdan doğrular:",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eserin MÖ 91'den önce, muhtemelen MÖ 94 dolaylarında tamamlandığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir üst sınır ile bir tahmin yılının birlikte verilmesi, tarihlemenin kesinlik derecesini de kaydeden bir biçimdir; atlas bu biçimi korur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, babasının ölümünden üç yıl sonra onun eski görevi olan taishi makamını üstlendiğini ve MÖ 105'te takvimi düzenlemek üzere seçilen bilginler arasında yer",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı makamın babadan oğula geçmesi ile eserin de aynı yolu izlemesi, hanedan bürokrasisinde tarih yazımının kişisel bir uğraş değil bir görev olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Hanedanın kendisi dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıla kadar model olduğunu kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kapsamın başlangıcının efsanevi olarak nitelenmesi, eserin kendi içinde efsane ile kayıt arasında bir ayrım tuttuğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı geleneğin bir başka düşünürü için tutulan kayıtta tarihler geleneksel notuyla verilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hayatının seyri, cezalandırılması, Shiji'nin yapısı ve sonraki eleştiriler burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak i",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

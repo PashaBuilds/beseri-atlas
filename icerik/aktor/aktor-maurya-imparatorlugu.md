@@ -18,6 +18,7 @@ ilgili:
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - aktor-ahamenis-imparatorlugu
   - aktor-gupta-imparatorlugu
+  - dusunur-kautilya
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

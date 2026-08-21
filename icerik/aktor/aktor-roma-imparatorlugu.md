@@ -25,6 +25,7 @@ ilgili:
   - tartisma-romanin-cokus-nedeni
   - aktor-aksum-kralligi
   - aktor-hun-imparatorlugu
+  - dusunur-tacitus
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

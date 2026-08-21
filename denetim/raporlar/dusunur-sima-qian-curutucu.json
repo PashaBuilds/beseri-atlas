@@ -1,0 +1,35 @@
+{
+  "id": "dusunur-sima-qian",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:42:33.828Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, eserin tasarısını ilk kez babası Sima Tan'ın düşündüğünü ve Sima Tan'ın *Bahar ve Güz Yıllıkları*'nı izlemek istediğini yazar; Sima Tan'ın ölmeden önce yalnızca bir taslak ",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir eserin fikrinin bir kuşağa, yazımının bir başkasına atfedilmesi,[^k1] atlasın yazar alanını neden tek bir ad olarak görmediğini gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir metnin içindeki tek bir bölümün başka bir yazara açıkça atfedilmiş olması,[^k1] bu atlasın dipnot birimini neden paragraf düzeyinde tuttuğunu dışarıdan doğrular: yazarlık eser ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak *Shiji*'yi, efsanevi Sarı İmparator'un yükselişinden ve ilk Çin siyasi biriminin oluşumundan Sima'nın yazdığı sırada hüküm süren Han İmparatoru Wu'nun saltanatına kadar iki ",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

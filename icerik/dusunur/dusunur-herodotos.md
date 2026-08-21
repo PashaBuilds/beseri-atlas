@@ -15,6 +15,7 @@ ilgili:
   - dusunur-thukydides
   - olay-pers-yunan-savaslari
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - dusunur-sima-qian
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,0 +1,14 @@
+{
+  "id": "dusunur-kautilya",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:42:13.967Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki kaydın da tarih ve anlatı kaynağı konusunda çekince taşıması,[^k1][^k3] belirsizliğin tek bir bölgeye özgü olmadığını gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

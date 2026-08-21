@@ -18,6 +18,7 @@ ilgili:
   - olay-han-hanedani-kurulusu
   - olay-ipek-yolu-kurulusu
   - dusunur-konfucyus
+  - dusunur-sima-qian
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

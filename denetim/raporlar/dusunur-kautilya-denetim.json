@@ -1,0 +1,85 @@
+{
+  "id": "dusunur-kautilya",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:42:04.921Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl olarak verilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıldır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıllara ait Mudrarakshasa sürümü.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak doğum yerini tek bir satır olarak vermez: Güney Hindistan'daki Golla bölgesinde Chanaka köyü (Cayna efsanelerine göre) ya da Takşaşila (Budist efsaneleri",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı alanda iki birbirini dışlayan cevabın hangi geleneğe ait olduğu belirtilerek yazılması, atlasın tartışmalı alanlarda uyguladığı biçimin kaynaklarda da bulu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Arthashastra'nın yazarı Kautilya ile özdeşleştirilmesini miras bölümünün altında ayrı bir başlık olarak işler; adlandırma da ayrı bir alt başlıktır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kişinin bir eserin yazarı sayılmasının kendisinin başlık olması, atlasın \"filanca şunu yazdı\" cümlelerini neden temkinle kurduğunu gösterir: yazarlık bazen ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak ölüm yerini Maurya İmparatorluğu'ndaki Pataliputra olarak verir ve onu imparatorluğun kuruluşundaki belirgin rolüyle tanınır diye kaydeder.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Devletin kendisi dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Avrasya'nın doğu ucunda bir başka düşünürün tarihleri de geleneksel kaydıyla verilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki kaydın da tarih ve anlatı kaynağı konusunda çekince taşıması, belirsizliğin tek bir bölgeye özgü olmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki kaydın da tarih ve anlatı kaynağı konusunda çekince taşıması, belirsizliğin tek bir bölgeye özgü olmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arthashastra'nın içeriği, siyaset kuramı, efsane sürümlerinin ayrıntıları ve sonraki alımlanma burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ay",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

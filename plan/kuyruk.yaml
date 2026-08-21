@@ -1637,7 +1637,7 @@ isler:
   - id: dusunur-kautilya
     tip: dusunur
     baslik: Kautilya
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1645,7 +1645,7 @@ isler:
   - id: dusunur-sima-qian
     tip: dusunur
     baslik: Sima Qian
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1653,7 +1653,7 @@ isler:
   - id: dusunur-tacitus
     tip: dusunur
     baslik: Tacitus
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
