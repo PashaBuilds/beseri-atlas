@@ -11,9 +11,9 @@ sayaclar:
 metrikler:
   kaynak_dogrulama_orani: 0.9938
   ortalama_kaynak_sayisi: 3.4
-  ornekleme_kapisi_son_skor: 0.875
-  ornekleme_kapisi_son_calisma: 2026-08-21T05:54:58.624Z
-  ornekleme_kapisi_karar: dur
+  ornekleme_kapisi_son_skor: 1
+  ornekleme_kapisi_son_calisma: 2026-08-21T06:31:26.395Z
+  ornekleme_kapisi_karar: devam
   ornekleme_kapisi_gecmisi:
     - 0.9583
     - 0.8333
@@ -22,6 +22,9 @@ metrikler:
     - 0.875
     - 0.875
     - 0.875
+    - 1
+    - 1
+    - 1
 butce:
   makale_basina_max_deneme: 3
   faz_basina_max_parti: 40

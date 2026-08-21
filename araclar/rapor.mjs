@@ -66,18 +66,19 @@ export function raporUret() {
   s.push('## Doğrulama', '');
   if (gecmis.length) {
     s.push(`Örnekleme kapısı geçmişi: ${gecmis.map((g) => g.skor).join(' / ')}`);
+    // §16 birimi DEĞER'dir (2026-08-21 onaylı değişiklik). Kırılım, skorun
+    // neyden geldiğini gizlemeden yazılır: çelişki mi, ölçülemezlik mi.
     const kirilim = son.isaret === undefined
-      ? `${son.dogrulanan}/${son.toplam} ölçülen iddia`
-      : `${son.toplam} ölçülen iddia: ${son.dogrulanan} tam doğrulama, `
-        + `${son.isaret} kısmi doğrulama (yarım puan), ${son.hata} çelişki`;
+      ? `${son.dogrulanan}/${son.toplam} ölçülen değer`
+      : `${son.toplam} ölçülen değer: ${son.dogrulanan} doğrulandı, ${son.hata} çelişki`;
     s.push(`Nihai skor: **${son.skor}** (${kirilim})`);
     if (son.davranis === 'dur') {
       s.push('', '> **HAT DURDU.** Ölçülen skor 0,90 eşiğinin altına düştü ve §16 uyarınca',
         '> üretim durduruldu. Tanı, onarım denemesi ve bekleyen karar',
         '> `denetim/MUDAHALE-GEREKLI.md` dosyasındadır.');
     }
-    s.push(`Ham skor: **${son.ham_skor}** (${son.ornek_boyutu} iddialık örneklem, `
-      + `${son.turetilemedi} iddia bağımsız olarak türetilemedi)`);
+    s.push(`Ham skor: **${son.ham_skor}** (${son.ornek_boyutu} değerlik örneklem, `
+      + `${son.turetilemedi} değer bağımsız olarak türetilemedi)`);
   } else {
     s.push('Örnekleme kapısı henüz çalışmadı.');
   }

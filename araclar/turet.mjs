@@ -113,11 +113,22 @@ async function karsilastir() {
   const sorular = JSON.parse(fs.readFileSync(SORU_YOLU, 'utf8')).sorular;
   const cevaplar = yamlOku(CEVAP_YOLU)?.cevaplar || [];
   const sonuclar = [];
+  const degerSonuclari = [];
 
   for (const s of sorular) {
+    // ham_skor BUTUN ornek uzerinden hesaplanir; turetilemeyen sorularin
+    // degerleri de sayilmalidir, yoksa "olcemedigim seyi hic saymayarak" ham
+    // skoru iyilestirmis olurum. Bu yuzden her cikis yolunda degerler
+    // `olculemedi` olarak kaydediliyor.
+    const olculemediYaz = () => {
+      for (const d of s.degerler) {
+        degerSonuclari.push({ no: s.no, makale: s.makale, deger: String(d).split(' ')[0], sinif: 'olculemedi', kaynak_alan: null });
+      }
+    };
     const c = cevaplar.find((x) => x.no === s.no);
     if (!c) {
       sonuclar.push({ no: s.no, makale: s.makale, durum: 'CEVAPSIZ', not: 'turetici oturum yanitlamadi' });
+      olculemediYaz();
       continue;
     }
     // Türetilemeyen iddia bir ÇÜRÜTME DEĞİLDİR; orana katılmaz ama gizlenmez.
@@ -125,6 +136,7 @@ async function karsilastir() {
     // değil araştırma çabasını ölçer (§16 şeffaflık şartı).
     if (c.turetilen_deger === null || c.turetilen_deger === undefined) {
       sonuclar.push({ no: s.no, makale: s.makale, durum: 'TURETILEMEDI', not: (c.durum_notu || '').replace(/\s+/g, ' ').slice(0, 160) });
+      olculemediYaz();
       continue;
     }
     let alan = null;
@@ -132,53 +144,99 @@ async function karsilastir() {
     // Bloklama şartı: cevap, makalenin kullandığı alan adlarından gelemez.
     if (!alan || s.bloklu_alanlar.some((b) => alan.includes(b) || b.includes(alan))) {
       sonuclar.push({ no: s.no, makale: s.makale, durum: 'HATA', not: `bloklu alan adindan turetme: ${alan || c.kaynak_url}` });
+      olculemediYaz();
       continue;
     }
     // Kanıt: değer, türetici oturumun gösterdiği kaynakta gerçekten var mı?
     const r = await getir(c.kaynak_url);
     const metin = r.durum === 200 ? normalize(`${r.baslik || ''} ${r.metin || ''}`) : '';
-    const eksik = s.degerler.filter((d) => !metin.includes(normalize(String(d).split(' ')[0])));
-    const uyusuyor = c.turetilen_deger !== undefined
-      ? s.degerler.every((d) => String(c.turetilen_deger).includes(String(d).split(' ')[0]))
-      : eksik.length === 0;
+    const turetilenler = String(c.turetilen_deger).split(/[\s,;/]+/).filter(Boolean);
+    const celisenBeyan = (c.celisen_degerler || []).map(String);
+
+    // Türetici oturumun getirdiği ama korpusta OLMAYAN değerler. Bunlar,
+    // bağımsız kaynağın aynı yuvaya BAŞKA bir değer koyduğu anlamına gelir —
+    // yani sessizlik değil, çelişki adayı.
+    const fazlaDegerler = turetilenler.filter(
+      (t) => !s.degerler.some((d) => String(d).split(' ')[0] === t) && metin.includes(normalize(t)),
+    );
+
+    for (const d of s.degerler) {
+      const ham = String(d).split(' ')[0];
+      const kaynaktaVar = metin.includes(normalize(ham));
+      const turetildi = turetilenler.some((t) => t === ham);
+      let sinif;
+      if (turetildi && kaynaktaVar) sinif = 'dogrulandi';
+      else if (celisenBeyan.includes(ham)) sinif = 'celisti';
+      // Türetici, bu yuva için farklı bir değer getirdiyse bu bir çelişkidir.
+      else if (!kaynaktaVar && fazlaDegerler.length) sinif = 'celisti';
+      else sinif = 'olculemedi';
+      degerSonuclari.push({ no: s.no, makale: s.makale, deger: ham, sinif, kaynak_alan: alan });
+    }
+
+    const d1 = s.degerler.filter((d) => degerSonuclari.some(
+      (x) => x.no === s.no && x.deger === String(d).split(' ')[0] && x.sinif === 'dogrulandi')).length;
+    const c1 = s.degerler.filter((d) => degerSonuclari.some(
+      (x) => x.no === s.no && x.deger === String(d).split(' ')[0] && x.sinif === 'celisti')).length;
+    const o1 = s.degerler.length - d1 - c1;
 
     sonuclar.push({
       no: s.no, makale: s.makale, anahtar: s.kaynak_anahtarlari?.[0] || '-',
       iddia: s.cumle.slice(0, 120),
-      durum: (uyusuyor && eksik.length === 0) ? 'OK' : (eksik.length === s.degerler.length ? 'HATA' : 'ISARET'),
+      durum: c1 ? 'CELISKI' : (o1 === s.degerler.length ? 'TURETILEMEDI' : (o1 ? 'KISMI' : 'OK')),
       turetilen: c.turetilen_deger, kaynak_alan: alan,
-      not: eksik.length ? `bagimsiz kaynakta bulunamayan: ${eksik.join(', ')}` : `bagimsiz dogrulama: ${alan}`,
+      deger_dagilimi: { dogrulandi: d1, celisti: c1, olculemedi: o1 },
+      not: c1 ? `bagimsiz kaynak farkli deger veriyor: ${fazlaDegerler.join(', ') || celisenBeyan.join(', ')}`
+        : o1 ? `${d1} deger dogrulandi, ${o1} deger bagimsiz kaynakta yok (olculemedi)`
+          : `bagimsiz dogrulama: ${alan}`,
     });
   }
 
+  // §16 — DEĞER düzeyinde puanlama (kullanıcı onayıyla, 2026-08-21).
+  // Eski model soruyu tek birim sayıyordu: iki uçlu bir aralıkta bağımsız
+  // kaynak bir ucu doğrulayıp diğeri hakkında SESSİZ kaldığında soru 0,5 ile
+  // çarpılıyordu — yani sessizlik yarım çürütme olarak puanlanıyordu. Bu,
+  // aracın kendi ilkesiyle ("ölçemedim ≠ yanlış") çelişiyordu.
+  // Değişmeyenler: eşik 0,90; çelişkiler tam puanla aleyhte; ölçülemeyenler
+  // gizlenmez, ayrıca raporlanır.
+  const dogrulandi = degerSonuclari.filter((x) => x.sinif === 'dogrulandi').length;
+  const celisti = degerSonuclari.filter((x) => x.sinif === 'celisti').length;
+  const olculemedi = degerSonuclari.filter((x) => x.sinif === 'olculemedi').length;
+  const cevapsiz = sonuclar.filter((x) => x.durum === 'CEVAPSIZ' || x.durum === 'HATA').length;
+  const olculen = dogrulandi + celisti;
+  const skor = olculen ? Number((dogrulandi / olculen).toFixed(4)) : null;
+  const toplamDeger = degerSonuclari.length;
+  const hamSkor = toplamDeger ? Number((dogrulandi / toplamDeger).toFixed(4)) : null;
   const ok = sonuclar.filter((x) => x.durum === 'OK').length;
-  const isaret = sonuclar.filter((x) => x.durum === 'ISARET').length;
-  const hata = sonuclar.filter((x) => x.durum === 'HATA').length;
+  const isaret = sonuclar.filter((x) => x.durum === 'KISMI').length;
+  const hata = sonuclar.filter((x) => x.durum === 'CELISKI').length;
   const turetilemedi = sonuclar.filter((x) => x.durum === 'TURETILEMEDI' || x.durum === 'CEVAPSIZ').length;
-  const olculen = ok + isaret + hata;
-  const skor = olculen ? Number(((ok + isaret * 0.5) / olculen).toFixed(4)) : null;
-  const hamSkor = sonuclar.length ? Number((ok / sonuclar.length).toFixed(4)) : null;
 
   const rapor = {
-    gecis: 4, zaman: new Date().toISOString(),
+    gecis: 4, zaman: new Date().toISOString(), birim: 'deger',
     skor, ham_skor: hamSkor,
-    olculen, toplam_ornek: sonuclar.length,
-    dogrulanan: ok, isaret, hata, turetilemedi,
-    aciklama: 'skor = olculen iddialar uzerinden. ham_skor = butun ornek uzerinden '
-      + '(turetilemeyenler basarisiz sayilarak). Ikisi de RAPOR.md de beyan edilir.',
+    olculen, toplam_ornek: toplamDeger,
+    dogrulanan: dogrulandi, isaret: 0, hata: celisti, turetilemedi: olculemedi,
+    soru_dagilimi: { ok, kismi: isaret, celiski: hata, turetilemedi, cevapsiz },
+    aciklama: 'Puanlama birimi DEGER. skor = dogrulandi / (dogrulandi + celisti). '
+      + 'ham_skor = dogrulandi / butun ornek degerleri (olculemeyenler basarisiz sayilarak). '
+      + 'Olculemeyen deger, celiski DEGILDIR: orandan dusulur ama raporda gizlenmez.',
+    deger_sonuclari: degerSonuclari,
     sonuclar,
   };
   yaz(path.join(KOK, 'denetim', 'raporlar', 'gecis4-turetme.json'), JSON.stringify(rapor, null, 2));
 
   for (const x of sonuclar) {
     const im = x.durum === 'OK' ? RENK.yesil('OK          ')
-      : x.durum === 'ISARET' ? RENK.sari('ISARET      ')
-        : x.durum === 'HATA' ? RENK.kirmizi('HATA        ')
-          : RENK.gri('TURETILEMEDI');
+      : x.durum === 'KISMI' ? RENK.sari('KISMI       ')
+        : x.durum === 'CELISKI' ? RENK.kirmizi('CELISKI     ')
+          : x.durum === 'HATA' ? RENK.kirmizi('HATA        ')
+            : RENK.gri('TURETILEMEDI');
     console.log(`${im} ${String(x.no).padStart(2)} [${x.makale}] ${(x.not || '').slice(0, 96)}`);
   }
-  console.log(`\n${RENK.kalin(`Olculen skor : ${ok} OK + ${isaret} ISARET / ${olculen} olculen = ${skor}`)}`);
-  console.log(RENK.kalin(`Ham skor     : ${ok}/${sonuclar.length} = ${hamSkor}  (${turetilemedi} iddia turetilemedi)`));
+  console.log(`\n${RENK.kalin(`Olculen skor : ${dogrulandi} dogrulandi / ${olculen} olculen deger = ${skor}`)}`);
+  console.log(RENK.kalin(`             ( ${celisti} celiski, ${olculemedi} deger olculemedi )`));
+  console.log(RENK.kalin(`Ham skor     : ${dogrulandi}/${toplamDeger} deger = ${hamSkor}`));
+  console.log(RENK.gri(`Soru dagilimi: ${ok} tam, ${isaret} kismi, ${hata} celiskili, ${turetilemedi} turetilemedi`));
   return rapor;
 }
 

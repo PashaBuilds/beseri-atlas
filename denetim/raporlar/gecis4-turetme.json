@@ -1,25 +1,236 @@
 {
   "gecis": 4,
-  "zaman": "2026-08-21T05:50:50.540Z",
-  "skor": 0.875,
-  "ham_skor": 0.45,
-  "olculen": 12,
-  "toplam_ornek": 20,
-  "dogrulanan": 9,
-  "isaret": 3,
+  "zaman": "2026-08-21T06:31:03.568Z",
+  "birim": "deger",
+  "skor": 1,
+  "ham_skor": 0.4643,
+  "olculen": 13,
+  "toplam_ornek": 28,
+  "dogrulanan": 13,
+  "isaret": 0,
   "hata": 0,
-  "turetilemedi": 8,
-  "aciklama": "skor = olculen iddialar uzerinden. ham_skor = butun ornek uzerinden (turetilemeyenler basarisiz sayilarak). Ikisi de RAPOR.md de beyan edilir.",
+  "turetilemedi": 15,
+  "soru_dagilimi": {
+    "ok": 9,
+    "kismi": 3,
+    "celiski": 0,
+    "turetilemedi": 8,
+    "cevapsiz": 0
+  },
+  "aciklama": "Puanlama birimi DEGER. skor = dogrulandi / (dogrulandi + celisti). ham_skor = dogrulandi / butun ornek degerleri (olculemeyenler basarisiz sayilarak). Olculemeyen deger, celiski DEGILDIR: orandan dusulur ama raporda gizlenmez.",
+  "deger_sonuclari": [
+    {
+      "no": 1,
+      "makale": "aktor-abbasi-hilafeti",
+      "deger": "1040",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "en.wikisource.org"
+    },
+    {
+      "no": 1,
+      "makale": "aktor-abbasi-hilafeti",
+      "deger": "1308",
+      "sinif": "olculemedi",
+      "kaynak_alan": "en.wikisource.org"
+    },
+    {
+      "no": 2,
+      "makale": "aktor-bizans-imparatorlugu",
+      "deger": "1453",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "en.wikisource.org"
+    },
+    {
+      "no": 3,
+      "makale": "aktor-buyuk-selcuklu",
+      "deger": "1060",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 4,
+      "makale": "aktor-ingiliz-doguhindistan-sirketi",
+      "deger": "1621",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 4,
+      "makale": "aktor-ingiliz-doguhindistan-sirketi",
+      "deger": "1834",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 5,
+      "makale": "aktor-karolenj-imparatorlugu",
+      "deger": "1258",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "en.wikisource.org"
+    },
+    {
+      "no": 6,
+      "makale": "aktor-mogol-imparatorlugu",
+      "deger": "1206",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "en.wikisource.org"
+    },
+    {
+      "no": 6,
+      "makale": "aktor-mogol-imparatorlugu",
+      "deger": "1260",
+      "sinif": "olculemedi",
+      "kaynak_alan": "en.wikisource.org"
+    },
+    {
+      "no": 7,
+      "makale": "aktor-osmanli-imparatorlugu",
+      "deger": "1300",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 7,
+      "makale": "aktor-osmanli-imparatorlugu",
+      "deger": "1922",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 8,
+      "makale": "aktor-qing-hanedani",
+      "deger": "1644",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 8,
+      "makale": "aktor-qing-hanedani",
+      "deger": "1912",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 9,
+      "makale": "aktor-roma-imparatorlugu",
+      "deger": "1453",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "en.wikisource.org"
+    },
+    {
+      "no": 10,
+      "makale": "aktor-sasani-imparatorlugu",
+      "deger": "1453",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "en.wikisource.org"
+    },
+    {
+      "no": 11,
+      "makale": "aktor-song-hanedani",
+      "deger": "1127",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 11,
+      "makale": "aktor-song-hanedani",
+      "deger": "1279",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 12,
+      "makale": "aktor-sovyetler-birligi",
+      "deger": "1947",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "avalon.law.yale.edu"
+    },
+    {
+      "no": 12,
+      "makale": "aktor-sovyetler-birligi",
+      "deger": "1953",
+      "sinif": "olculemedi",
+      "kaynak_alan": "avalon.law.yale.edu"
+    },
+    {
+      "no": 13,
+      "makale": "aktor-sumer-sehir-devletleri",
+      "deger": "1800",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 14,
+      "makale": "aktor-tang-hanedani",
+      "deger": "1258",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "en.wikisource.org"
+    },
+    {
+      "no": 15,
+      "makale": "donem-01",
+      "deger": "1936",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "openlibrary.org"
+    },
+    {
+      "no": 16,
+      "makale": "donem-02",
+      "deger": "2000",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 17,
+      "makale": "donem-03",
+      "deger": "1200",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 18,
+      "makale": "donem-04",
+      "deger": "1953",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "openlibrary.org"
+    },
+    {
+      "no": 19,
+      "makale": "donem-06",
+      "deger": "1258",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "en.wikisource.org"
+    },
+    {
+      "no": 20,
+      "makale": "donem-07",
+      "deger": "1206",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "archive.org"
+    },
+    {
+      "no": 20,
+      "makale": "donem-07",
+      "deger": "1368",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "archive.org"
+    }
+  ],
   "sonuclar": [
     {
       "no": 1,
       "makale": "aktor-abbasi-hilafeti",
       "anahtar": "k3",
       "iddia": "Selçuklular, Türklerin İslami devirde kurdukları en büyük hanedanlardan biri olarak 1040–1308 arasında hüküm sürdü.",
-      "durum": "ISARET",
+      "durum": "KISMI",
       "turetilen": "1040",
       "kaynak_alan": "en.wikisource.org",
-      "not": "bagimsiz kaynakta bulunamayan: 1308"
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 1
+      },
+      "not": "1 deger dogrulandi, 1 deger bagimsiz kaynakta yok (olculemedi)"
     },
     {
       "no": 2,
@@ -29,6 +240,11 @@
       "durum": "OK",
       "turetilen": "1453",
       "kaynak_alan": "en.wikisource.org",
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 0
+      },
       "not": "bagimsiz dogrulama: en.wikisource.org"
     },
     {
@@ -51,6 +267,11 @@
       "durum": "OK",
       "turetilen": "1258",
       "kaynak_alan": "en.wikisource.org",
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 0
+      },
       "not": "bagimsiz dogrulama: en.wikisource.org"
     },
     {
@@ -58,10 +279,15 @@
       "makale": "aktor-mogol-imparatorlugu",
       "anahtar": "k1",
       "iddia": "Moğol örneği bu geçişin çok daha büyük ölçekte tekrarıdır; imparatorluğun 1206–1260 arasındaki birleşik döneminin ardınd",
-      "durum": "ISARET",
+      "durum": "KISMI",
       "turetilen": "1206",
       "kaynak_alan": "en.wikisource.org",
-      "not": "bagimsiz kaynakta bulunamayan: 1260"
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 1
+      },
+      "not": "1 deger dogrulandi, 1 deger bagimsiz kaynakta yok (olculemedi)"
     },
     {
       "no": 7,
@@ -83,6 +309,11 @@
       "durum": "OK",
       "turetilen": "1453",
       "kaynak_alan": "en.wikisource.org",
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 0
+      },
       "not": "bagimsiz dogrulama: en.wikisource.org"
     },
     {
@@ -93,6 +324,11 @@
       "durum": "OK",
       "turetilen": "1453",
       "kaynak_alan": "en.wikisource.org",
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 0
+      },
       "not": "bagimsiz dogrulama: en.wikisource.org"
     },
     {
@@ -106,10 +342,15 @@
       "makale": "aktor-sovyetler-birligi",
       "anahtar": "k1",
       "iddia": "Rekabetin ilk evresi çevreleme, Truman Doktrini ve Kore Savaşı başlığıyla 1947–1953 arasına yerleştirilir.",
-      "durum": "ISARET",
+      "durum": "KISMI",
       "turetilen": "1947",
       "kaynak_alan": "avalon.law.yale.edu",
-      "not": "bagimsiz kaynakta bulunamayan: 1953"
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 1
+      },
+      "not": "1 deger dogrulandi, 1 deger bagimsiz kaynakta yok (olculemedi)"
     },
     {
       "no": 13,
@@ -125,6 +366,11 @@
       "durum": "OK",
       "turetilen": "1258",
       "kaynak_alan": "en.wikisource.org",
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 0
+      },
       "not": "bagimsiz dogrulama: en.wikisource.org"
     },
     {
@@ -135,6 +381,11 @@
       "durum": "OK",
       "turetilen": "1936",
       "kaynak_alan": "openlibrary.org",
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 0
+      },
       "not": "bagimsiz dogrulama: openlibrary.org"
     },
     {
@@ -157,6 +408,11 @@
       "durum": "OK",
       "turetilen": "1953",
       "kaynak_alan": "openlibrary.org",
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 0
+      },
       "not": "bagimsiz dogrulama: openlibrary.org"
     },
     {
@@ -167,6 +423,11 @@
       "durum": "OK",
       "turetilen": "1258",
       "kaynak_alan": "en.wikisource.org",
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 0
+      },
       "not": "bagimsiz dogrulama: en.wikisource.org"
     },
     {
@@ -177,6 +438,11 @@
       "durum": "OK",
       "turetilen": "1206 1368",
       "kaynak_alan": "archive.org",
+      "deger_dagilimi": {
+        "dogrulandi": 2,
+        "celisti": 0,
+        "olculemedi": 0
+      },
       "not": "bagimsiz dogrulama: archive.org"
     }
   ]

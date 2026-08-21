@@ -77,8 +77,44 @@
       "ornek_boyutu": 20,
       "turetilemedi": 8,
       "davranis": "dur"
+    },
+    {
+      "zaman": "2026-08-21T06:31:03.692Z",
+      "skor": 1,
+      "ham_skor": 0.4643,
+      "dogrulanan": 13,
+      "isaret": 0,
+      "hata": 0,
+      "toplam": 13,
+      "ornek_boyutu": 28,
+      "turetilemedi": 15,
+      "davranis": "devam"
+    },
+    {
+      "zaman": "2026-08-21T06:31:26.216Z",
+      "skor": 1,
+      "ham_skor": 0.4643,
+      "dogrulanan": 13,
+      "isaret": 0,
+      "hata": 0,
+      "toplam": 13,
+      "ornek_boyutu": 28,
+      "turetilemedi": 15,
+      "davranis": "devam"
+    },
+    {
+      "zaman": "2026-08-21T06:31:26.393Z",
+      "skor": 1,
+      "ham_skor": 0.4643,
+      "dogrulanan": 13,
+      "isaret": 0,
+      "hata": 0,
+      "toplam": 13,
+      "ornek_boyutu": 28,
+      "turetilemedi": 15,
+      "davranis": "devam"
     }
   ],
   "capraz_gecmisi": [],
-  "guncelleme": "2026-08-21T05:54:58.623Z"
+  "guncelleme": "2026-08-21T06:31:26.394Z"
 }

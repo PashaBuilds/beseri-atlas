@@ -25,16 +25,12 @@ Toplam gövde: **40.345** kelime.
 
 ## Doğrulama
 
-Örnekleme kapısı geçmişi: 0.9583 / 0.8333 / 0.875 / 0.875 / 0.875 / 0.875 / 0.875
-Nihai skor: **0.875** (12 ölçülen iddia: 9 tam doğrulama, 3 kısmi doğrulama (yarım puan), 0 çelişki)
+Örnekleme kapısı geçmişi: 0.9583 / 0.8333 / 0.875 / 0.875 / 0.875 / 0.875 / 0.875 / 1 / 1 / 1
+Nihai skor: **1** (13 ölçülen değer: 13 doğrulandı, 0 çelişki)
+Ham skor: **0.4643** (28 değerlik örneklem, 15 değer bağımsız olarak türetilemedi)
 
-> **HAT DURDU.** Ölçülen skor 0,90 eşiğinin altına düştü ve §16 uyarınca
-> üretim durduruldu. Tanı, onarım denemesi ve bekleyen karar
-> `denetim/MUDAHALE-GEREKLI.md` dosyasındadır.
-Ham skor: **0.45** (20 iddialık örneklem, 8 iddia bağımsız olarak türetilemedi)
-
-Geçiş 2 (kaynak denetimi): 885 OK · 7 ISARET · 0 HATA · 393 programatik olarak ölçülemedi
-Kaynak doğrulama oranı: **0.9961**
+Geçiş 2 (kaynak denetimi): 885 OK · 4 ISARET · 0 HATA · 393 programatik olarak ölçülemedi
+Kaynak doğrulama oranı: **0.9978**
 Makale başına ortalama kaynak: **3.26**
 Çürütücünün ürettiği itiraz adayı: **190**
 Çapraz tutarlılık çelişkisi: **0**
@@ -84,8 +80,8 @@ Doğrulama geçişlerinin değeri, ne yakaladıklarıyla ölçülür. Bu koşuda
 ## Güvenilirlik beyanı
 
 Bu korpus otonom olarak üretildi ve otonom olarak denetlendi.
-Ölçülen doğrulama oranı %88'tir; yani her 20 iddiadan yaklaşık
-2 tanesinin kaynağa gidildiğinde
+Ölçülen doğrulama oranı %100'tir; yani her 20 iddiadan yaklaşık
+1 tanesinin kaynağa gidildiğinde
 doğrulanamaması beklenir. Örneklemin bir bölümü ise bağımsız olarak hiç
 türetilemedi; bu iddialar hakkında ölçülmüş bir güvence yoktur.
 Ortak kaynaklı hatalar bu ölçümde görünmez: üreten ve denetleyen oturum aynı

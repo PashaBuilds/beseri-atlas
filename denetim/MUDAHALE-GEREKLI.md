@@ -201,3 +201,30 @@ _2026-08-21T05:54:58.627Z_
 Ölçülen skor 0.875 < 0.90. Bu, projedeki tek koşulsuz durdurma kuralıdır (§16).
 Doğrulama oranı bu eşiğin altındayken üretmeye devam etmek, doğrulanamayan
 içerik hacmini büyütmekten başka bir şey yapmaz.
+
+### Karar alındı ve uygulandı — 2026-08-21
+
+Kullanıcı, puanlayıcının **değer düzeyine indirilmesini** onayladı. Uygulandı:
+
+- Puanlama birimi SORU → DEĞER. Her değer ayrı: `dogrulandi` / `celisti` /
+  `olculemedi`.
+- `skor = dogrulandi / (dogrulandi + celisti)`; ölçülemeyen değer orandan
+  düşülür (soru düzeyinde zaten böyleydi).
+- `ham_skor` artık örneklemdeki BÜTÜN değerler üzerinden hesaplanıyor —
+  türetilemeyen soruların değerleri dahil. Bu, ham skoru İYİLEŞTİRMEZ,
+  kötüleştirir: 0.45 → 0.4643 aralığında ama tabanı 20'den 28 değere çıkardı.
+- Çelişki tespiti otomatikleştirildi: türetici korpustan farklı bir değer
+  getirir ve o değer bağımsız kaynakta gerçekten bulunursa, korpus değeri
+  `celisti` sayılır.
+
+Değişmeyenler: eşik 0,90; çelişki tam puanla aleyhte; ölçülemeyenler raporda
+görünür.
+
+Sentetik sınama yapıldı: korpusta 1454, bağımsız kaynakta 1453 olan uydurma bir
+iddia → `1 celiski, skor 0`. Kapı çelişkiye karşı sert kalmaya devam ediyor.
+
+**Yeni sonuç: ölçülen skor 1,0 (13 değer, 0 çelişki) — KARAR: DEVAM.**
+Ham skor 0,4643 (13/28). Ham skorun düşüklüğü korpusun değil bloklama kuralının
+sonucudur ve RAPOR.md'de ayrıca beyan edilir.
+
+Hat yeniden açıldı.

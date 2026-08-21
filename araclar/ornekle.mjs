@@ -49,7 +49,10 @@ if (process.argv[1]?.endsWith('ornekle.mjs')) {
     d = d.replace(/^(  ornekleme_kapisi_son_skor: ).*$/m, `$1${s.skor}`);
     d = d.replace(/^(  ornekleme_kapisi_son_calisma: ).*$/m,
       `$1${new Date().toISOString()}\n  ornekleme_kapisi_karar: ${s.davranis}`);
-    d = d.replace(/^  ornekleme_kapisi_karar: .*\n(?=  ornekleme_kapisi_karar: )/m, '');
+    // Yeni satir hemen son_calisma'nin altina eklendi; ESKI satir bir alttadir
+    // ve silinmesi gereken odur. (Once yanlis yonde silip eski karari
+    // korumustum: dosya "dur" gosterirken kapi "devam" diyordu.)
+    d = d.replace(/^(  ornekleme_kapisi_karar: .*\n)  ornekleme_kapisi_karar: .*\n/m, '$1');
     d = d.replace(/^(  ornekleme_kapisi_gecmisi:\n)(?:    - .*\n)+/m,
       `$1${gecmis.map((g) => `    - ${g.skor}`).join('\n')}\n`);
     yaz(durumYolu, d);

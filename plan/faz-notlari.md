@@ -168,3 +168,37 @@ Bundan sonraki kural (uc secenek, bu sirayla):
 Yanlis harita baglamak, kapiyi susturmak icin yapilan bir hamledir ve
 yasaktir — kapinin kendisini bozar, cunku okuyucuyu ilgisiz bir dosyaya
 gonderir.
+
+## Örnekleme kapısı kırıldı ve onarıldı (2026-08-21)
+
+94 makalede kapı 0.875 ile kırıldı ve **üretim durduruldu**. Tanının tamamı
+`denetim/MUDAHALE-GEREKLI.md` içinde. Özet: 12 ölçülen iddiada 0 çelişki vardı;
+üç "kısmi doğrulama", bağımsız kaynağın bir aralığın bir ucunu doğrulayıp diğeri
+hakkında SESSİZ kalmasından geliyordu ve puanlayıcı bu sessizliği yarım çürütme
+olarak sayıyordu.
+
+Puanlayıcıyı kırılma anında değiştirmedim; karar kullanıcıya bırakıldı ve
+kullanıcı değer düzeyine indirmeyi onayladı. Uygulanan değişiklik:
+
+- Puanlama birimi SORU'dan DEĞER'e indi. Her değer ayrı sınıflanıyor:
+  `dogrulandi` / `celisti` / `olculemedi`.
+- `skor = dogrulandi / (dogrulandi + celisti)`. Ölçülemeyen değer orandan
+  düşülür — soru düzeyinde zaten böyleydi.
+- `ham_skor = dogrulandi / ÖRNEKLEMDEKİ BÜTÜN DEĞERLER`. Türetilemeyen
+  soruların değerleri de sayılıyor; aksi hâlde "ölçmediğimi hiç saymayarak"
+  ham skoru iyileştirmiş olurdum.
+- Çelişki tespiti OTOMATİK: türetici oturum korpustaki değerden farklı bir
+  değer getirir ve o değer bağımsız kaynakta gerçekten bulunursa, korpus değeri
+  `celisti` sayılır. Ayrıca `celisen_degerler:` alanıyla açık beyan da mümkün.
+
+**Değişmeyenler:** eşik 0,90; çelişkiler tam puanla aleyhte; ölçülemeyenler
+raporda gizlenmiyor.
+
+Değişiklik sentetik bir vakayla sınandı: korpusta 1454, bağımsız kaynakta 1453
+olan uydurma bir iddia → `1 celiski, skor 0`. Kapı hâlâ sert.
+
+Yeni skor: **ölçülen 1.0 (13 değer, 0 çelişki)**, ham skor **0.4643 (13/28)**.
+Ham skorun düşüklüğü korpusun değil bloklama kuralının sonucudur: makalenin
+kullandığı bütün alan adları bloklandığında geriye kalan havuz çoğu iddia için
+yetersiz kalıyor. Bu tura iki yeni bağımsız alan adı eklendi —
+`en.wikisource.org` (1911 Encyclopædia Britannica) ve `openlibrary.org`.
