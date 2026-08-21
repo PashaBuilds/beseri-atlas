@@ -22,6 +22,7 @@ ilgili:
   - olay-napolyon-savaslari
   - dusunur-montesquieu
   - dusunur-tocqueville
+  - tartisma-fransiz-devrimi-yorumlari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

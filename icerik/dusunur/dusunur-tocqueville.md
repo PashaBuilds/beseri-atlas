@@ -17,6 +17,7 @@ ilgili:
   - olay-fransiz-devrimi
   - dusunur-mill
   - kavram-sivil-toplum
+  - tartisma-fransiz-devrimi-yorumlari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

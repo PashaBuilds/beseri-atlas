@@ -18,6 +18,7 @@ ilgili:
   - kaynak-thukydides-peloponnesos
   - kaynak-carr-tarih-nedir
   - kaynak-gibbon-roma
+  - tartisma-fransiz-devrimi-yorumlari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

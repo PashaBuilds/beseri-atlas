@@ -28,6 +28,7 @@ ilgili:
   - aktor-abd
   - tartisma-milliyetcilik-ne-zaman
   - tartisma-sanayi-devrimi-neden-ingiltere
+  - tartisma-fransiz-devrimi-yorumlari
 okuma_onerisi: []
 serit:
   - bolge: avrupa

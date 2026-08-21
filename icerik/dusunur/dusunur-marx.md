@@ -25,6 +25,7 @@ ilgili:
   - kavram-tarihsel-materyalizm
   - kavram-kapitalizm
   - kavram-ilkel-birikim
+  - tartisma-fransiz-devrimi-yorumlari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

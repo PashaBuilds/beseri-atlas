@@ -1,0 +1,61 @@
+{
+  "id": "tartisma-fransiz-devrimi-yorumlari",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:11:17.514Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılda hiçbir tek açıklayıcı model yaygın kabul görmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıla gelindiğinde devrim tarihinin profesyonelleştiğini ve araştırmacıların kamu arşivlerindeki birincil kaynakların eleştirel çözümlemesine daha fazla dikka",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1920'lerin sonundan 1960'lara kadar toplumsal ve iktisadi yorumların, sıklıkla Marksçı bir bakış açısıyla, Fransa'da Devrim tarih yazımına hâkim olduğun",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl başlığı altında ise Adolphe Thiers, François Mignet, Thomas Carlyle, Jules Michelet, Alexis de Tocqueville ve Hippolyte Taine sayılır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir tartışmanın tarihçi adlarıyla bölümlenmesi, atlasın tartışma dosyalarında pozisyonları savunan adıyla tutmasının dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Adı geçen tarihçilerden biri için tutulan ayrı kayıt, onun başlıca eserlerini Amerika'da Demokrasi (1835) ve Eski Rejim ve Devrim (1856) künyeleriyle verir.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1980'lerden bugüne başlığı altında kültürel çalışmalar, kadınlar ve toplumsal cinsiyet, sömürgesizleşme ile Atlantik ötesi ve küresel tarihler alt başlı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tek bir modelin yerini konu başlıklarının alması, dördüncü pozisyonun dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İkinci pozisyonun bağlı olduğu gelenek için tutulan kayıt, tarihsel sürecin sınıf mücadeleleriyle nitelenen bir dizi üretim tarzı boyunca ilerlediğini anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
