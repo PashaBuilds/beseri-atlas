@@ -9,8 +9,28 @@
       "ornek_boyutu": 20,
       "turetilemedi": 8,
       "davranis": "devam"
+    },
+    {
+      "zaman": "2026-08-21T05:48:11.463Z",
+      "skor": 0.8333,
+      "ham_skor": 0.4,
+      "dogrulanan": 10,
+      "toplam": 12,
+      "ornek_boyutu": 20,
+      "turetilemedi": 8,
+      "davranis": "dur"
+    },
+    {
+      "zaman": "2026-08-21T05:50:50.681Z",
+      "skor": 0.875,
+      "ham_skor": 0.45,
+      "dogrulanan": 11,
+      "toplam": 12,
+      "ornek_boyutu": 20,
+      "turetilemedi": 8,
+      "davranis": "dur"
     }
   ],
   "capraz_gecmisi": [],
-  "guncelleme": "2026-08-20T20:22:35.869Z"
+  "guncelleme": "2026-08-21T05:50:50.682Z"
 }

@@ -1,181 +1,181 @@
 {
   "gecis": 4,
-  "zaman": "2026-08-20T20:21:03.455Z",
-  "skor": 0.9583,
-  "ham_skor": 0.55,
+  "zaman": "2026-08-21T05:50:50.540Z",
+  "skor": 0.875,
+  "ham_skor": 0.45,
   "olculen": 12,
   "toplam_ornek": 20,
-  "dogrulanan": 11,
-  "isaret": 1,
+  "dogrulanan": 9,
+  "isaret": 3,
   "hata": 0,
   "turetilemedi": 8,
   "aciklama": "skor = olculen iddialar uzerinden. ham_skor = butun ornek uzerinden (turetilemeyenler basarisiz sayilarak). Ikisi de RAPOR.md de beyan edilir.",
   "sonuclar": [
     {
       "no": 1,
-      "makale": "aktor-osmanli-imparatorlugu",
-      "anahtar": "k1",
-      "iddia": "Osmanlılar, Batı Anadolu'nun kuzeyinde bir Türkmen beyliği olarak ortaya çıkıp üç kıtaya yayılan ve kurucusunun adıyla a",
+      "makale": "aktor-abbasi-hilafeti",
+      "anahtar": "k3",
+      "iddia": "Selçuklular, Türklerin İslami devirde kurdukları en büyük hanedanlardan biri olarak 1040–1308 arasında hüküm sürdü.",
       "durum": "ISARET",
-      "turetilen": "1299-1922",
-      "kaynak_alan": "archive.org",
-      "not": "bagimsiz kaynakta bulunamayan: 1300"
+      "turetilen": "1040",
+      "kaynak_alan": "en.wikisource.org",
+      "not": "bagimsiz kaynakta bulunamayan: 1308"
     },
     {
       "no": 2,
-      "makale": "donem-13",
-      "anahtar": "k1",
-      "iddia": "Britanya, ABD ile Japonya arasında seçim yapmak zorunda kalınca Anglo-Japon İttifakı'nı yenilememeyi tercih etti ve 1922",
+      "makale": "aktor-bizans-imparatorlugu",
+      "anahtar": "k2",
+      "iddia": "Roma tarafında da aynı çizgi görülür: MS 395'ten sonra batı kanadı 476/480'e, doğu kanadı ise 1453'e kadar sürer.",
       "durum": "OK",
-      "turetilen": "1922",
-      "kaynak_alan": "archive.org",
-      "not": "bagimsiz dogrulama: archive.org"
+      "turetilen": "1453",
+      "kaynak_alan": "en.wikisource.org",
+      "not": "bagimsiz dogrulama: en.wikisource.org"
     },
     {
       "no": 3,
-      "makale": "dusunur-ibn-haldun",
-      "anahtar": "k1",
-      "iddia": "Muhammed el-Hadramî el-Mağribî et-Tûnisî'dir; 1 Ramazan 732'de, yani 27 Mayıs 1332'de Tunus'ta doğdu ve 808/1406'da öldü",
-      "durum": "OK",
-      "turetilen": "1332-1406, 27 May 1332, Tunis",
-      "kaynak_alan": "en.wikipedia.org",
-      "not": "bagimsiz dogrulama: en.wikipedia.org"
+      "makale": "aktor-buyuk-selcuklu",
+      "durum": "TURETILEMEDI",
+      "not": "Zilhicce 451 / Ocak 1060 tarihi (Besâsîrî'nin öldürülmesi). Bloklanmamış alan adlarında — 1911 EB'nin \"Seljuks\" ve \"Caliphate\" maddeleri dahil — bu yıl bulunama"
     },
     {
       "no": 4,
-      "makale": "kavram-demografik-gecis",
+      "makale": "aktor-ingiliz-doguhindistan-sirketi",
       "durum": "TURETILEMEDI",
-      "not": "ÇELİŞKİ. Türkçe akademik literatür Thompson'ın çalışmasını 1929 olarak veriyor; makalenin künyesi 1930 diyordu. İki alternatif kaynak denendi (jstor.org JS duva"
+      "not": "1621-1834 aralığı, kaynağın kendi bölüm başlığından (şirket ve kölelik) alınmış bir kapsam bilgisidir. Bloklanmamış alan adlarında aynı aralığı veren bir kayıt "
     },
     {
       "no": 5,
-      "makale": "kaynak-clark-uyurgezerler",
+      "makale": "aktor-karolenj-imparatorlugu",
       "anahtar": "k2",
-      "iddia": "Clark'a göre Germen güçleri Sırbistan'ı cezalandırmak için yerelleşmiş bir savaş aradı, ancak bunu yaparken Rusya ile sa",
+      "iddia": "Aynı yüzyıllarda İslam dünyasında Abbasi hanedanı 750'den itibaren hüküm sürüyordu ve 1258'e kadar sürecekti.",
       "durum": "OK",
-      "turetilen": "8 Ekim 1912 - 29 Eylül 1913",
-      "kaynak_alan": "islamansiklopedisi.org.tr",
-      "not": "bagimsiz dogrulama: islamansiklopedisi.org.tr"
+      "turetilen": "1258",
+      "kaynak_alan": "en.wikisource.org",
+      "not": "bagimsiz dogrulama: en.wikisource.org"
     },
     {
       "no": 6,
-      "makale": "olay-1914-temmuz-krizi",
-      "anahtar": "k2",
-      "iddia": "Bosna, 1908'de Avusturya-Macaristan tarafından resmen ilhak edilmiş ve bu ilhak Berlin Antlaşması'nı ihlal ederek Balkan",
-      "durum": "OK",
-      "turetilen": "1908",
-      "kaynak_alan": "islamansiklopedisi.org.tr",
-      "not": "bagimsiz dogrulama: islamansiklopedisi.org.tr"
+      "makale": "aktor-mogol-imparatorlugu",
+      "anahtar": "k1",
+      "iddia": "Moğol örneği bu geçişin çok daha büyük ölçekte tekrarıdır; imparatorluğun 1206–1260 arasındaki birleşik döneminin ardınd",
+      "durum": "ISARET",
+      "turetilen": "1206",
+      "kaynak_alan": "en.wikisource.org",
+      "not": "bagimsiz kaynakta bulunamayan: 1260"
     },
     {
       "no": 7,
-      "makale": "tartisma-1914-savas-sorumlulugu",
+      "makale": "aktor-osmanli-imparatorlugu",
       "durum": "TURETILEMEDI",
-      "not": "TÜRETİLEMEDİ — BLOKLAMA İHLALİ YAKALANDI. İlk denemede Kantorowicz'in 1927/1931/1932 yayınları archive.org katalogundan bulundu; ancak archive.org bu makale içi"
+      "not": "1300 ve 1922 birlikte isteniyor. 1911 EB'nin \"Turkey\" maddesi 1911'de basıldığı için 1922'yi içeremez; openlibrary katalog kaydı ise kuruluş yılını vermiyor. Te"
     },
     {
       "no": 8,
-      "makale": "tartisma-bati-neden-yukseldi",
-      "anahtar": "k1",
-      "iddia": "Huntington ortaya attı; terimi yaygınlaştıran kullanım ise Kenneth Pomeranz'ın 2000 tarihli The Great Divergence: China,",
-      "durum": "OK",
-      "turetilen": "2000",
-      "kaynak_alan": "archive.org",
-      "not": "bagimsiz dogrulama: archive.org"
+      "makale": "aktor-qing-hanedani",
+      "durum": "TURETILEMEDI",
+      "not": "1644 ve 1912 birlikte isteniyor. 1911 EB'nin \"China\" maddesi 1911'de basıldığı için hanedanın 1912'deki sonunu içeremez. Bloklanmamış başka bir alan adında iki "
     },
     {
       "no": 9,
-      "makale": "aktor-osmanli-imparatorlugu",
-      "durum": "TURETILEMEDI",
-      "not": "TÜRETİLEMEDİ. Yaş (Jassy) Antlaşması'nın 1792 tarihi için iki farklı arama denendi (archive.org katalog, başlık ve açıklama alanları); bloke olmayan alan adları"
+      "makale": "aktor-roma-imparatorlugu",
+      "anahtar": "k1",
+      "iddia": "Doğu kanadının 1453'e kadar sürmesine karşılık batı kanadının 476/480'de kapanması, çöküşün coğrafi olarak eşit dağılmad",
+      "durum": "OK",
+      "turetilen": "1453",
+      "kaynak_alan": "en.wikisource.org",
+      "not": "bagimsiz dogrulama: en.wikisource.org"
     },
     {
       "no": 10,
-      "makale": "donem-13",
-      "anahtar": "k1",
-      "iddia": "İktisadi tarafta dönemin belirleyici olayı 1929'da başlayan Büyük Buhran'a verilen tepkiler ve dünya ticaretinin çöküşüd",
+      "makale": "aktor-sasani-imparatorlugu",
+      "anahtar": "k2",
+      "iddia": "yüzyıldaki çöküşünden sonra ayakta kalmış ve 1453'e kadar sürmüştür.",
       "durum": "OK",
-      "turetilen": "1929",
-      "kaynak_alan": "archive.org",
-      "not": "bagimsiz dogrulama: archive.org"
+      "turetilen": "1453",
+      "kaynak_alan": "en.wikisource.org",
+      "not": "bagimsiz dogrulama: en.wikisource.org"
     },
     {
       "no": 11,
-      "makale": "kavram-demografik-gecis",
+      "makale": "aktor-song-hanedani",
       "durum": "TURETILEMEDI",
-      "not": "TÜRETİLEMEDİ. İngiltere'de doğum-ölüm makasının 1750'den sonra açılması, bloke olmayan alan adlarında sayısal olarak doğrulanamadı. Wrigley'in 1541-1871 rekonst"
+      "not": "Güney Song'un 1127-1279 aralığı isteniyor. 1911 EB \"China\" maddesi çok uzun ve hanedan tarihlerini anlatı içine gömüyor; iki yıl da bağlamı görülebilir biçimde "
     },
     {
       "no": 12,
-      "makale": "olay-1914-temmuz-krizi",
+      "makale": "aktor-sovyetler-birligi",
       "anahtar": "k1",
-      "iddia": "Britanya Dışişleri Bakanı Edward Grey'in 20 Temmuz 1914 tarihli notu, Alman büyükelçisine Viyana'da Sırbistan'la ilgili ",
-      "durum": "OK",
-      "turetilen": "28 Haziran 1914",
-      "kaynak_alan": "islamansiklopedisi.org.tr",
-      "not": "bagimsiz dogrulama: islamansiklopedisi.org.tr"
+      "iddia": "Rekabetin ilk evresi çevreleme, Truman Doktrini ve Kore Savaşı başlığıyla 1947–1953 arasına yerleştirilir.",
+      "durum": "ISARET",
+      "turetilen": "1947",
+      "kaynak_alan": "avalon.law.yale.edu",
+      "not": "bagimsiz kaynakta bulunamayan: 1953"
     },
     {
       "no": 13,
-      "makale": "tartisma-1914-savas-sorumlulugu",
-      "anahtar": "k1",
-      "iddia": "Clark'a göre Germen güçleri Sırbistan'ı cezalandırmak için yerelleşmiş bir savaş aradı, ancak bunu yaparken Rusya ile sa",
-      "durum": "OK",
-      "turetilen": "8 Ekim 1912 - 29 Eylül 1913",
-      "kaynak_alan": "islamansiklopedisi.org.tr",
-      "not": "bagimsiz dogrulama: islamansiklopedisi.org.tr"
+      "makale": "aktor-sumer-sehir-devletleri",
+      "durum": "TURETILEMEDI",
+      "not": "MÖ 1800 dolaylarında Hammurabi. Bloklanmamış tek kapsamlı kaynak 1911 EB'nin \"Babylonia and Assyria\" maddesi; ancak bu madde aşılmış bir uzun kronoloji kullanıy"
     },
     {
       "no": 14,
-      "makale": "tartisma-bati-neden-yukseldi",
-      "durum": "TURETILEMEDI",
-      "not": "TÜRETİLEMEDİ. Plassey Savaşı'nın 1757 tarihi için iki arama denendi; bloke olmayan alan adlarında yıl taşıyan doğrulanabilir kayıt bulunamadı."
+      "makale": "aktor-tang-hanedani",
+      "anahtar": "k2",
+      "iddia": "Aynı yüzyıllarda İslam dünyasında Abbasi hanedanı 750'den itibaren hüküm sürüyor ve 1258'e kadar sürecekti.",
+      "durum": "OK",
+      "turetilen": "1258",
+      "kaynak_alan": "en.wikisource.org",
+      "not": "bagimsiz dogrulama: en.wikisource.org"
     },
     {
       "no": 15,
-      "makale": "donem-13",
-      "anahtar": "k1",
-      "iddia": "Dominyonların kendi dış politikalarını belirleme hakkı 1923'te tanındı.",
+      "makale": "donem-01",
+      "anahtar": "k3",
+      "iddia": "Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı.",
       "durum": "OK",
-      "turetilen": "1922-1923",
-      "kaynak_alan": "archive.org",
-      "not": "bagimsiz dogrulama: archive.org"
+      "turetilen": "1936",
+      "kaynak_alan": "openlibrary.org",
+      "not": "bagimsiz dogrulama: openlibrary.org"
     },
     {
       "no": 16,
-      "makale": "kavram-demografik-gecis",
+      "makale": "donem-02",
       "durum": "TURETILEMEDI",
-      "not": "TÜRETİLEMEDİ. Oded Galor'un 2000'lerdeki çalışması için archive.org creator araması sonuç vermedi."
+      "not": "Seima-Turbino olgusu ve MÖ 2000 dolayları. Bu olgu 20. yüzyıl arkeolojisinin bulgusudur; 1911 EB'de yoktur ve bloklanmamış diğer alan adlarında (avalon, gutenbe"
     },
     {
       "no": 17,
-      "makale": "olay-1914-temmuz-krizi",
-      "anahtar": "k2",
-      "iddia": "Kriz, 28 Haziran 1914'te Bosnalı Sırp milliyetçi Gavrilo Princip'in Avusturya-Macaristan tahtının veliahdı Arşidük Franz",
-      "durum": "OK",
-      "turetilen": "20 July 1914",
-      "kaynak_alan": "gutenberg.org",
-      "not": "bagimsiz dogrulama: gutenberg.org"
+      "makale": "donem-03",
+      "durum": "TURETILEMEDI",
+      "not": "Yunan Karanlık Çağı için MÖ 1200-800 aralığı. 1911 EB \"Greece\" maddesinde bu aralık dönemin kendi adlandırmasıyla verilmiyor; bloklanmamış başka bir alan adında"
     },
     {
       "no": 18,
-      "makale": "tartisma-1914-savas-sorumlulugu",
-      "durum": "TURETILEMEDI",
-      "not": "TÜRETİLEMEDİ. Clark'ın kitabının 2013 yayın yılı, bu makale için bloke olmayan alan adlarında doğrulanamadı (archive.org bu makalede bloke). Not: aynı yıl kayna"
+      "makale": "donem-04",
+      "anahtar": "k1",
+      "iddia": "Kavramı, Vom Ursprung und Ziel der Geschichte adlı kitabında ortaya koydu; eserin İngilizce çevirisi The Origin and Goal",
+      "durum": "OK",
+      "turetilen": "1953",
+      "kaynak_alan": "openlibrary.org",
+      "not": "bagimsiz dogrulama: openlibrary.org"
     },
     {
       "no": 19,
-      "makale": "tartisma-bati-neden-yukseldi",
-      "durum": "TURETILEMEDI",
-      "not": "YAPISAL OLARAK TÜRETİLEMEZ. İddia, belirli bir veri tabanının belirli bir sürümünün kapsamına ilişkindir (Maddison 2023: 169 ülke, 2022'ye kadar). Böyle bir idd"
+      "makale": "donem-06",
+      "anahtar": "k1",
+      "iddia": "Hâşim'den alır ve 750 ile 1258 yılları arasında hüküm sürmüştür; ilk atalarına nispetle bu hanedana Hâşimîler de denilmi",
+      "durum": "OK",
+      "turetilen": "1258",
+      "kaynak_alan": "en.wikisource.org",
+      "not": "bagimsiz dogrulama: en.wikisource.org"
     },
     {
       "no": 20,
-      "makale": "donem-13",
-      "anahtar": "k1",
-      "iddia": "1929'da başlayan Büyük Buhran ve dünya ticaretinin çöküşü ise dönemin ikinci yarısını belirledi.",
+      "makale": "donem-07",
+      "anahtar": "k2",
+      "iddia": "Bu dönemin ayırt edici özelliği, Avrasya'nın uçlarının ilk kez tek bir siyasi yapı üzerinden birbirine bağlanmasıdır: Mo",
       "durum": "OK",
-      "turetilen": "1929",
+      "turetilen": "1206 1368",
       "kaynak_alan": "archive.org",
       "not": "bagimsiz dogrulama: archive.org"
     }

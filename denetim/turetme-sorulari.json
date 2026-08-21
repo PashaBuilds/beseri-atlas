@@ -1,11 +1,112 @@
 {
-  "zaman": "2026-08-20T20:17:16.265Z",
+  "zaman": "2026-08-21T05:42:52.842Z",
   "protokol": "GECIS-4",
-  "toplam_aday": 28,
+  "toplam_aday": 243,
   "secilen": 20,
   "sorular": [
     {
       "no": 1,
+      "makale": "aktor-abbasi-hilafeti",
+      "cumle": "Selçuklular, Türklerin İslami devirde kurdukları en büyük hanedanlardan biri olarak 1040–1308 arasında hüküm sürdü.",
+      "degerler": [
+        "1040",
+        "1308"
+      ],
+      "bloklu_alanlar": [
+        "islamansiklopedisi.org.tr",
+        "en.wikipedia.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k3"
+      ],
+      "soru": "\"Selçuklular, Türklerin İslami devirde kurdukları en büyük hanedanlardan biri olarak 1040–1308 arasında hüküm sürdü.\" cümlesindeki şu değer(ler) doğru mu: 1040, 1308? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: islamansiklopedisi.org.tr, en.wikipedia.org."
+    },
+    {
+      "no": 2,
+      "makale": "aktor-bizans-imparatorlugu",
+      "cumle": "Roma tarafında da aynı çizgi görülür: MS 395'ten sonra batı kanadı 476/480'e, doğu kanadı ise 1453'e kadar sürer.",
+      "degerler": [
+        "1453"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k2"
+      ],
+      "soru": "\"Roma tarafında da aynı çizgi görülür: MS 395'ten sonra batı kanadı 476/480'e, doğu kanadı ise 1453'e kadar sürer.\" cümlesindeki şu değer(ler) doğru mu: 1453? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
+    },
+    {
+      "no": 3,
+      "makale": "aktor-buyuk-selcuklu",
+      "cumle": "Tuğrul Bey halifenin Bağdat'a getirilmesini sağladı ve Arslan el-Besâsîrî yakalanıp öldürüldü (Zilhicce 451 / Ocak 1060).",
+      "degerler": [
+        "1060"
+      ],
+      "bloklu_alanlar": [
+        "islamansiklopedisi.org.tr",
+        "en.wikipedia.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Tuğrul Bey halifenin Bağdat'a getirilmesini sağladı ve Arslan el-Besâsîrî yakalanıp öldürüldü (Zilhicce 451 / Ocak 1060).\" cümlesindeki şu değer(ler) doğru mu: 1060? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: islamansiklopedisi.org.tr, en.wikipedia.org."
+    },
+    {
+      "no": 4,
+      "makale": "aktor-ingiliz-doguhindistan-sirketi",
+      "cumle": "Aynı yapıda kölelik 1621–1834 ve Anglo-Babür Savaşı da ayrı başlıklardır.",
+      "degerler": [
+        "1621",
+        "1834"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Aynı yapıda kölelik 1621–1834 ve Anglo-Babür Savaşı da ayrı başlıklardır.\" cümlesindeki şu değer(ler) doğru mu: 1621, 1834? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
+    },
+    {
+      "no": 5,
+      "makale": "aktor-karolenj-imparatorlugu",
+      "cumle": "Aynı yüzyıllarda İslam dünyasında Abbasi hanedanı 750'den itibaren hüküm sürüyordu ve 1258'e kadar sürecekti.",
+      "degerler": [
+        "1258"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "islamansiklopedisi.org.tr",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k2"
+      ],
+      "soru": "\"Aynı yüzyıllarda İslam dünyasında Abbasi hanedanı 750'den itibaren hüküm sürüyordu ve 1258'e kadar sürecekti.\" cümlesindeki şu değer(ler) doğru mu: 1258? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, islamansiklopedisi.org.tr, ourworldindata.org."
+    },
+    {
+      "no": 6,
+      "makale": "aktor-mogol-imparatorlugu",
+      "cumle": "Moğol örneği bu geçişin çok daha büyük ölçekte tekrarıdır; imparatorluğun 1206–1260 arasındaki birleşik döneminin ardından dört ayrı hanlığa bölünmesi, geçişin tek bir merkezde tamamlanamadığını gösterir.",
+      "degerler": [
+        "1206",
+        "1260"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "islamansiklopedisi.org.tr",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Moğol örneği bu geçişin çok daha büyük ölçekte tekrarıdır; imparatorluğun 1206–1260 arasındaki birleşik döneminin ardından dört ayrı hanlığa bölünmesi, geçişin tek bir merkezde tam\" cümlesindeki şu değer(ler) doğru mu: 1206, 1260? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, islamansiklopedisi.org.tr, ourworldindata.org."
+    },
+    {
+      "no": 7,
       "makale": "aktor-osmanli-imparatorlugu",
       "cumle": "Osmanlılar, Batı Anadolu'nun kuzeyinde bir Türkmen beyliği olarak ortaya çıkıp üç kıtaya yayılan ve kurucusunun adıyla anılan devlettir; TDV İslâm Ansiklopedisi onu Türk-İslam dünyasındaki en uzun ömürlü devlet olarak ni",
       "degerler": [
@@ -22,328 +123,225 @@
       "soru": "\"Osmanlılar, Batı Anadolu'nun kuzeyinde bir Türkmen beyliği olarak ortaya çıkıp üç kıtaya yayılan ve kurucusunun adıyla anılan devlettir; TDV İslâm Ansiklopedisi onu Türk-İslam düny\" cümlesindeki şu değer(ler) doğru mu: 1300, 1922? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: islamansiklopedisi.org.tr, en.wikipedia.org."
     },
     {
-      "no": 2,
-      "makale": "donem-13",
-      "cumle": "Britanya, ABD ile Japonya arasında seçim yapmak zorunda kalınca Anglo-Japon İttifakı'nı yenilememeyi tercih etti ve 1922 Washington Deniz Antlaşması'nı imzalayarak ABD ile deniz gücünde eşitliği kabul etti.",
+      "no": 8,
+      "makale": "aktor-qing-hanedani",
+      "cumle": "Qing, Çin'in Mançu önderliğindeki hanedanıdır ve 1644–1912 arasına tarihlenir.",
       "degerler": [
-        "1922"
-      ],
-      "bloklu_alanlar": [
-        "en.wikipedia.org",
-        "ourworldindata.org",
-        "islamansiklopedisi.org.tr",
-        "rug.nl",
-        "avalon.law.yale.edu"
-      ],
-      "kaynak_anahtarlari": [
-        "k1"
-      ],
-      "soru": "\"Britanya, ABD ile Japonya arasında seçim yapmak zorunda kalınca Anglo-Japon İttifakı'nı yenilememeyi tercih etti ve 1922 Washington Deniz Antlaşması'nı imzalayarak ABD ile deniz gü\" cümlesindeki şu değer(ler) doğru mu: 1922? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org, islamansiklopedisi.org.tr, rug.nl, avalon.law.yale.edu."
-    },
-    {
-      "no": 3,
-      "makale": "dusunur-ibn-haldun",
-      "cumle": "Muhammed el-Hadramî el-Mağribî et-Tûnisî'dir; 1 Ramazan 732'de, yani 27 Mayıs 1332'de Tunus'ta doğdu ve 808/1406'da öldü.",
-      "degerler": [
-        "1332",
-        "1406"
-      ],
-      "bloklu_alanlar": [
-        "islamansiklopedisi.org.tr",
-        "plato.stanford.edu"
-      ],
-      "kaynak_anahtarlari": [
-        "k1"
-      ],
-      "soru": "\"Muhammed el-Hadramî el-Mağribî et-Tûnisî'dir; 1 Ramazan 732'de, yani 27 Mayıs 1332'de Tunus'ta doğdu ve 808/1406'da öldü.\" cümlesindeki şu değer(ler) doğru mu: 1332, 1406? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: islamansiklopedisi.org.tr, plato.stanford.edu."
-    },
-    {
-      "no": 4,
-      "makale": "kavram-demografik-gecis",
-      "cumle": "Kuram, Amerikalı demograf Warren Thompson'ın 1930'da geliştirdiği bir demografi tarihi yorumuna dayanır.",
-      "degerler": [
-        "1930"
-      ],
-      "bloklu_alanlar": [
-        "ourworldindata.org",
-        "en.wikipedia.org"
-      ],
-      "kaynak_anahtarlari": [
-        "k2"
-      ],
-      "soru": "\"Kuram, Amerikalı demograf Warren Thompson'ın 1930'da geliştirdiği bir demografi tarihi yorumuna dayanır.\" cümlesindeki şu değer(ler) doğru mu: 1930? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: ourworldindata.org, en.wikipedia.org."
-    },
-    {
-      "no": 5,
-      "makale": "kaynak-clark-uyurgezerler",
-      "cumle": "Clark'a göre Germen güçleri Sırbistan'ı cezalandırmak için yerelleşmiş bir savaş aradı, ancak bunu yaparken Rusya ile savaşı bile bile göze aldılar; Rusya ise 1912–13'te Balkanlar'daki güç dengesini bozarak ve Avusturya ",
-      "degerler": [
+        "1644",
         "1912"
       ],
       "bloklu_alanlar": [
-        "archive.org",
-        "en.wikipedia.org"
-      ],
-      "kaynak_anahtarlari": [
-        "k2"
-      ],
-      "soru": "\"Clark'a göre Germen güçleri Sırbistan'ı cezalandırmak için yerelleşmiş bir savaş aradı, ancak bunu yaparken Rusya ile savaşı bile bile göze aldılar; Rusya ise 1912–13'te Balkanlar'\" cümlesindeki şu değer(ler) doğru mu: 1912? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: archive.org, en.wikipedia.org."
-    },
-    {
-      "no": 6,
-      "makale": "olay-1914-temmuz-krizi",
-      "cumle": "Bosna, 1908'de Avusturya-Macaristan tarafından resmen ilhak edilmiş ve bu ilhak Berlin Antlaşması'nı ihlal ederek Balkanlar'daki kırılgan güç dengesini sarsmıştı.",
-      "degerler": [
-        "1908"
-      ],
-      "bloklu_alanlar": [
-        "archive.org",
-        "en.wikipedia.org"
-      ],
-      "kaynak_anahtarlari": [
-        "k2"
-      ],
-      "soru": "\"Bosna, 1908'de Avusturya-Macaristan tarafından resmen ilhak edilmiş ve bu ilhak Berlin Antlaşması'nı ihlal ederek Balkanlar'daki kırılgan güç dengesini sarsmıştı.\" cümlesindeki şu değer(ler) doğru mu: 1908? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: archive.org, en.wikipedia.org."
-    },
-    {
-      "no": 7,
-      "makale": "tartisma-1914-savas-sorumlulugu",
-      "cumle": "1920'lerde Almanya'nın sorumlu olduğunu savunan az sayıda Alman tarihçiden biri olan Hermann Kantorowicz, Dışişleri Bakanlığı'nın çalışmasının yayımlanmasını engellemek ve kendisini Kiel Üniversitesi'ndeki görevinden uza",
-      "degerler": [
-        "1920"
-      ],
-      "bloklu_alanlar": [
         "en.wikipedia.org",
-        "avalon.law.yale.edu",
-        "archive.org"
-      ],
-      "kaynak_anahtarlari": [
-        "k1"
-      ],
-      "soru": "\"1920'lerde Almanya'nın sorumlu olduğunu savunan az sayıda Alman tarihçiden biri olan Hermann Kantorowicz, Dışişleri Bakanlığı'nın çalışmasının yayımlanmasını engellemek ve kendisin\" cümlesindeki şu değer(ler) doğru mu: 1920? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, avalon.law.yale.edu, archive.org."
-    },
-    {
-      "no": 8,
-      "makale": "tartisma-bati-neden-yukseldi",
-      "cumle": "Huntington ortaya attı; terimi yaygınlaştıran kullanım ise Kenneth Pomeranz'ın 2000 tarihli The Great Divergence: China, Europe, and the Making of the Modern World Economy adlı kitabıdır.",
-      "degerler": [
-        "2000"
-      ],
-      "bloklu_alanlar": [
-        "en.wikipedia.org",
-        "rug.nl",
         "ourworldindata.org"
       ],
       "kaynak_anahtarlari": [
         "k1"
       ],
-      "soru": "\"Huntington ortaya attı; terimi yaygınlaştıran kullanım ise Kenneth Pomeranz'ın 2000 tarihli The Great Divergence: China, Europe, and the Making of the Modern World Economy adlı kit\" cümlesindeki şu değer(ler) doğru mu: 2000? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, rug.nl, ourworldindata.org."
+      "soru": "\"Qing, Çin'in Mançu önderliğindeki hanedanıdır ve 1644–1912 arasına tarihlenir.\" cümlesindeki şu değer(ler) doğru mu: 1644, 1912? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
     },
     {
       "no": 9,
-      "makale": "aktor-osmanli-imparatorlugu",
-      "cumle": "Bu dönemin kırılma noktalarından biri Rusya ile 10 Ocak 1792'de imzalanan Yaş Antlaşması'dır; Kırım'ın geri alınmasının imkânsızlığı kesin olarak görülmüş, Turla (Dinyester) nehri sınır kabul edilmiş ve Kafkaslar'daki Ru",
+      "makale": "aktor-roma-imparatorlugu",
+      "cumle": "Doğu kanadının 1453'e kadar sürmesine karşılık batı kanadının 476/480'de kapanması, çöküşün coğrafi olarak eşit dağılmadığını gösterir; batıdaki kırılma dosyasında ele alınıyor.",
       "degerler": [
-        "1792"
-      ],
-      "bloklu_alanlar": [
-        "islamansiklopedisi.org.tr",
-        "en.wikipedia.org"
-      ],
-      "kaynak_anahtarlari": [
-        "k1"
-      ],
-      "soru": "\"Bu dönemin kırılma noktalarından biri Rusya ile 10 Ocak 1792'de imzalanan Yaş Antlaşması'dır; Kırım'ın geri alınmasının imkânsızlığı kesin olarak görülmüş, Turla (Dinyester) nehri \" cümlesindeki şu değer(ler) doğru mu: 1792? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: islamansiklopedisi.org.tr, en.wikipedia.org."
-    },
-    {
-      "no": 10,
-      "makale": "donem-13",
-      "cumle": "İktisadi tarafta dönemin belirleyici olayı 1929'da başlayan Büyük Buhran'a verilen tepkiler ve dünya ticaretinin çöküşüdür.",
-      "degerler": [
-        "1929"
+        "1453"
       ],
       "bloklu_alanlar": [
         "en.wikipedia.org",
-        "ourworldindata.org",
-        "islamansiklopedisi.org.tr",
-        "rug.nl",
-        "avalon.law.yale.edu"
-      ],
-      "kaynak_anahtarlari": [
-        "k1"
-      ],
-      "soru": "\"İktisadi tarafta dönemin belirleyici olayı 1929'da başlayan Büyük Buhran'a verilen tepkiler ve dünya ticaretinin çöküşüdür.\" cümlesindeki şu değer(ler) doğru mu: 1929? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org, islamansiklopedisi.org.tr, rug.nl, avalon.law.yale.edu."
-    },
-    {
-      "no": 11,
-      "makale": "kavram-demografik-gecis",
-      "cumle": "Bu seride doğum ve ölüm hızları arasında 1750'den sonra giderek genişleyen bir boşluk açılır ve nüfus bu dönemde hızla büyümeye başlar.",
-      "degerler": [
-        "1750"
-      ],
-      "bloklu_alanlar": [
-        "ourworldindata.org",
-        "en.wikipedia.org"
-      ],
-      "kaynak_anahtarlari": [
-        "k1"
-      ],
-      "soru": "\"Bu seride doğum ve ölüm hızları arasında 1750'den sonra giderek genişleyen bir boşluk açılır ve nüfus bu dönemde hızla büyümeye başlar.\" cümlesindeki şu değer(ler) doğru mu: 1750? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: ourworldindata.org, en.wikipedia.org."
-    },
-    {
-      "no": 12,
-      "makale": "olay-1914-temmuz-krizi",
-      "cumle": "Britanya Dışişleri Bakanı Edward Grey'in 20 Temmuz 1914 tarihli notu, Alman büyükelçisine Viyana'da Sırbistan'la ilgili neler olduğunu sorduğunu ve elinde yeni bir haber olmadığını kaydeder.",
-      "degerler": [
-        "1914"
-      ],
-      "bloklu_alanlar": [
-        "archive.org",
-        "en.wikipedia.org"
-      ],
-      "kaynak_anahtarlari": [
-        "k1"
-      ],
-      "soru": "\"Britanya Dışişleri Bakanı Edward Grey'in 20 Temmuz 1914 tarihli notu, Alman büyükelçisine Viyana'da Sırbistan'la ilgili neler olduğunu sorduğunu ve elinde yeni bir haber olmadığını\" cümlesindeki şu değer(ler) doğru mu: 1914? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: archive.org, en.wikipedia.org."
-    },
-    {
-      "no": 13,
-      "makale": "tartisma-1914-savas-sorumlulugu",
-      "cumle": "Clark'a göre Germen güçleri Sırbistan'ı cezalandırmak için yerelleşmiş bir savaş aradı, ancak bunu yaparken Rusya ile savaşı bile bile göze aldılar; Rusya ise 1912–13'te Balkanlar'daki güç dengesini bozarak, Avusturya ka",
-      "degerler": [
-        "1912"
-      ],
-      "bloklu_alanlar": [
-        "en.wikipedia.org",
-        "avalon.law.yale.edu",
-        "archive.org"
-      ],
-      "kaynak_anahtarlari": [
-        "k1"
-      ],
-      "soru": "\"Clark'a göre Germen güçleri Sırbistan'ı cezalandırmak için yerelleşmiş bir savaş aradı, ancak bunu yaparken Rusya ile savaşı bile bile göze aldılar; Rusya ise 1912–13'te Balkanlar'\" cümlesindeki şu değer(ler) doğru mu: 1912? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, avalon.law.yale.edu, archive.org."
-    },
-    {
-      "no": 14,
-      "makale": "tartisma-bati-neden-yukseldi",
-      "cumle": "Hindistan örneğinde ise 1757'deki Plassey Savaşı'nın ardından Bengal'den biriken sermayenin Britanya sanayisine yatırıldığı ileri sürülür.",
-      "degerler": [
-        "1757"
-      ],
-      "bloklu_alanlar": [
-        "en.wikipedia.org",
-        "rug.nl",
         "ourworldindata.org"
       ],
       "kaynak_anahtarlari": [
         "k1"
       ],
-      "soru": "\"Hindistan örneğinde ise 1757'deki Plassey Savaşı'nın ardından Bengal'den biriken sermayenin Britanya sanayisine yatırıldığı ileri sürülür.\" cümlesindeki şu değer(ler) doğru mu: 1757? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, rug.nl, ourworldindata.org."
+      "soru": "\"Doğu kanadının 1453'e kadar sürmesine karşılık batı kanadının 476/480'de kapanması, çöküşün coğrafi olarak eşit dağılmadığını gösterir; batıdaki kırılma dosyasında ele alınıyor.\" cümlesindeki şu değer(ler) doğru mu: 1453? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
     },
     {
-      "no": 15,
-      "makale": "donem-13",
-      "cumle": "Dominyonların kendi dış politikalarını belirleme hakkı 1923'te tanındı.",
+      "no": 10,
+      "makale": "aktor-sasani-imparatorlugu",
+      "cumle": "yüzyıldaki çöküşünden sonra ayakta kalmış ve 1453'e kadar sürmüştür.",
       "degerler": [
-        "1923"
+        "1453"
       ],
       "bloklu_alanlar": [
         "en.wikipedia.org",
-        "ourworldindata.org",
-        "islamansiklopedisi.org.tr",
-        "rug.nl",
-        "avalon.law.yale.edu"
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k2"
+      ],
+      "soru": "\"yüzyıldaki çöküşünden sonra ayakta kalmış ve 1453'e kadar sürmüştür.\" cümlesindeki şu değer(ler) doğru mu: 1453? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
+    },
+    {
+      "no": 11,
+      "makale": "aktor-song-hanedani",
+      "cumle": "Güney Song (1127–1279), Song topraklarının kuzey yarısının Jurchen önderliğindeki Jin hanedanına Jin-Song savaşlarında kaybedilmesinin ardından gelen dönemi kapsar.",
+      "degerler": [
+        "1127",
+        "1279"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "ourworldindata.org"
       ],
       "kaynak_anahtarlari": [
         "k1"
       ],
-      "soru": "\"Dominyonların kendi dış politikalarını belirleme hakkı 1923'te tanındı.\" cümlesindeki şu değer(ler) doğru mu: 1923? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org, islamansiklopedisi.org.tr, rug.nl, avalon.law.yale.edu."
+      "soru": "\"Güney Song (1127–1279), Song topraklarının kuzey yarısının Jurchen önderliğindeki Jin hanedanına Jin-Song savaşlarında kaybedilmesinin ardından gelen dönemi kapsar.\" cümlesindeki şu değer(ler) doğru mu: 1127, 1279? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
+    },
+    {
+      "no": 12,
+      "makale": "aktor-sovyetler-birligi",
+      "cumle": "Rekabetin ilk evresi çevreleme, Truman Doktrini ve Kore Savaşı başlığıyla 1947–1953 arasına yerleştirilir.",
+      "degerler": [
+        "1947",
+        "1953"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Rekabetin ilk evresi çevreleme, Truman Doktrini ve Kore Savaşı başlığıyla 1947–1953 arasına yerleştirilir.\" cümlesindeki şu değer(ler) doğru mu: 1947, 1953? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
+    },
+    {
+      "no": 13,
+      "makale": "aktor-sumer-sehir-devletleri",
+      "cumle": "Bölge daha sonra Amorit yönetimine geçti ve MÖ 1800 dolaylarında Hammurabi önderliğinde Babil yükseldi.",
+      "degerler": [
+        "1800"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "avalon.law.yale.edu",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Bölge daha sonra Amorit yönetimine geçti ve MÖ 1800 dolaylarında Hammurabi önderliğinde Babil yükseldi.\" cümlesindeki şu değer(ler) doğru mu: 1800? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, avalon.law.yale.edu, ourworldindata.org."
+    },
+    {
+      "no": 14,
+      "makale": "aktor-tang-hanedani",
+      "cumle": "Aynı yüzyıllarda İslam dünyasında Abbasi hanedanı 750'den itibaren hüküm sürüyor ve 1258'e kadar sürecekti.",
+      "degerler": [
+        "1258"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "islamansiklopedisi.org.tr",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k2"
+      ],
+      "soru": "\"Aynı yüzyıllarda İslam dünyasında Abbasi hanedanı 750'den itibaren hüküm sürüyor ve 1258'e kadar sürecekti.\" cümlesindeki şu değer(ler) doğru mu: 1258? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, islamansiklopedisi.org.tr, ourworldindata.org."
+    },
+    {
+      "no": 15,
+      "makale": "donem-01",
+      "cumle": "Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı.",
+      "degerler": [
+        "1936"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "ourworldindata.org",
+        "archive.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k3"
+      ],
+      "soru": "\"Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı.\" cümlesindeki şu değer(ler) doğru mu: 1936? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org, archive.org."
     },
     {
       "no": 16,
-      "makale": "kavram-demografik-gecis",
-      "cumle": "2000'lerde Oded Galor, geçişin olası tetikleyicileri olarak öne sürülen çeşitli mekanizmaları, bunların ampirik geçerliliğini ve rollerini araştırdı.",
+      "makale": "donem-02",
+      "cumle": "Seima-Turbino olgusu bu dönemin en geniş ölçekli hareket örneğidir: MÖ 2000 dolaylarında bölgedeki iklim değişikliklerinin ve bunu izleyen ekolojik, iktisadi ve siyasi değişimlerin batıya doğru hızlı ve kitlesel bir göçü",
       "degerler": [
         "2000"
       ],
       "bloklu_alanlar": [
-        "ourworldindata.org",
-        "en.wikipedia.org"
-      ],
-      "kaynak_anahtarlari": [
-        "k2"
-      ],
-      "soru": "\"2000'lerde Oded Galor, geçişin olası tetikleyicileri olarak öne sürülen çeşitli mekanizmaları, bunların ampirik geçerliliğini ve rollerini araştırdı.\" cümlesindeki şu değer(ler) doğru mu: 2000? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: ourworldindata.org, en.wikipedia.org."
-    },
-    {
-      "no": 17,
-      "makale": "olay-1914-temmuz-krizi",
-      "cumle": "Kriz, 28 Haziran 1914'te Bosnalı Sırp milliyetçi Gavrilo Princip'in Avusturya-Macaristan tahtının veliahdı Arşidük Franz Ferdinand'ı Saraybosna'da öldürmesiyle başladı.",
-      "degerler": [
-        "1914"
-      ],
-      "bloklu_alanlar": [
-        "archive.org",
-        "en.wikipedia.org"
-      ],
-      "kaynak_anahtarlari": [
-        "k2"
-      ],
-      "soru": "\"Kriz, 28 Haziran 1914'te Bosnalı Sırp milliyetçi Gavrilo Princip'in Avusturya-Macaristan tahtının veliahdı Arşidük Franz Ferdinand'ı Saraybosna'da öldürmesiyle başladı.\" cümlesindeki şu değer(ler) doğru mu: 1914? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: archive.org, en.wikipedia.org."
-    },
-    {
-      "no": 18,
-      "makale": "tartisma-1914-savas-sorumlulugu",
-      "cumle": "2013'te Christopher Clark'ın The Sleepwalkers adlı kitabı kökenleri yeniden Balkanlar'a odakladı ve fail olma niteliğini diplomatlara geri dağıttı; Clark sorumluluğu, Almanya, Avusturya-Macaristan, Fransa ve Rusya'ya öze",
-      "degerler": [
-        "2013"
-      ],
-      "bloklu_alanlar": [
-        "en.wikipedia.org",
-        "avalon.law.yale.edu",
-        "archive.org"
-      ],
-      "kaynak_anahtarlari": [
-        "k1"
-      ],
-      "soru": "\"2013'te Christopher Clark'ın The Sleepwalkers adlı kitabı kökenleri yeniden Balkanlar'a odakladı ve fail olma niteliğini diplomatlara geri dağıttı; Clark sorumluluğu, Almanya, Avus\" cümlesindeki şu değer(ler) doğru mu: 2013? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, avalon.law.yale.edu, archive.org."
-    },
-    {
-      "no": 19,
-      "makale": "tartisma-bati-neden-yukseldi",
-      "cumle": "Uzun dönemli karşılaştırmalı büyüme ve gelir düzeyi verisi sunan Maddison Project Database'in 2023 sürümü 169 ülkeyi ve 2022'ye kadarki dönemi kapsar.",
-      "degerler": [
-        "2023",
-        "2022"
-      ],
-      "bloklu_alanlar": [
-        "en.wikipedia.org",
-        "rug.nl",
-        "ourworldindata.org"
-      ],
-      "kaynak_anahtarlari": [
-        "k2"
-      ],
-      "soru": "\"Uzun dönemli karşılaştırmalı büyüme ve gelir düzeyi verisi sunan Maddison Project Database'in 2023 sürümü 169 ülkeyi ve 2022'ye kadarki dönemi kapsar.\" cümlesindeki şu değer(ler) doğru mu: 2023, 2022? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, rug.nl, ourworldindata.org."
-    },
-    {
-      "no": 20,
-      "makale": "donem-13",
-      "cumle": "1929'da başlayan Büyük Buhran ve dünya ticaretinin çöküşü ise dönemin ikinci yarısını belirledi.",
-      "degerler": [
-        "1929"
-      ],
-      "bloklu_alanlar": [
         "en.wikipedia.org",
         "ourworldindata.org",
-        "islamansiklopedisi.org.tr",
-        "rug.nl",
         "avalon.law.yale.edu"
       ],
       "kaynak_anahtarlari": [
         "k1"
       ],
-      "soru": "\"1929'da başlayan Büyük Buhran ve dünya ticaretinin çöküşü ise dönemin ikinci yarısını belirledi.\" cümlesindeki şu değer(ler) doğru mu: 1929? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org, islamansiklopedisi.org.tr, rug.nl, avalon.law.yale.edu."
+      "soru": "\"Seima-Turbino olgusu bu dönemin en geniş ölçekli hareket örneğidir: MÖ 2000 dolaylarında bölgedeki iklim değişikliklerinin ve bunu izleyen ekolojik, iktisadi ve siyasi değişimlerin\" cümlesindeki şu değer(ler) doğru mu: 2000? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org, avalon.law.yale.edu."
+    },
+    {
+      "no": 17,
+      "makale": "donem-03",
+      "cumle": "Yunan Karanlık Çağı'nın \"karanlık\" sıfatı, dönemin kendisinden çok bu kayıt boşluğundan gelir: MÖ 1200 ile MÖ 800 arasındaki yüzyıllar için yazılı kaynak, öncesine ve sonrasına göre çok daha azdır.",
+      "degerler": [
+        "1200"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Yunan Karanlık Çağı'nın \"karanlık\" sıfatı, dönemin kendisinden çok bu kayıt boşluğundan gelir: MÖ 1200 ile MÖ 800 arasındaki yüzyıllar için yazılı kaynak, öncesine ve sonrasına gör\" cümlesindeki şu değer(ler) doğru mu: 1200? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
+    },
+    {
+      "no": 18,
+      "makale": "donem-04",
+      "cumle": "Kavramı, Vom Ursprung und Ziel der Geschichte adlı kitabında ortaya koydu; eserin İngilizce çevirisi The Origin and Goal of History adıyla 1953'te yayımlandı.",
+      "degerler": [
+        "1953"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "ourworldindata.org",
+        "perseus.tufts.edu",
+        "archive.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1",
+        "k4"
+      ],
+      "soru": "\"Kavramı, Vom Ursprung und Ziel der Geschichte adlı kitabında ortaya koydu; eserin İngilizce çevirisi The Origin and Goal of History adıyla 1953'te yayımlandı.\" cümlesindeki şu değer(ler) doğru mu: 1953? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org, perseus.tufts.edu, archive.org."
+    },
+    {
+      "no": 19,
+      "makale": "donem-06",
+      "cumle": "Hâşim'den alır ve 750 ile 1258 yılları arasında hüküm sürmüştür; ilk atalarına nispetle bu hanedana Hâşimîler de denilmiştir.",
+      "degerler": [
+        "1258"
+      ],
+      "bloklu_alanlar": [
+        "islamansiklopedisi.org.tr",
+        "en.wikipedia.org",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Hâşim'den alır ve 750 ile 1258 yılları arasında hüküm sürmüştür; ilk atalarına nispetle bu hanedana Hâşimîler de denilmiştir.\" cümlesindeki şu değer(ler) doğru mu: 1258? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: islamansiklopedisi.org.tr, en.wikipedia.org, ourworldindata.org."
+    },
+    {
+      "no": 20,
+      "makale": "donem-07",
+      "cumle": "Bu dönemin ayırt edici özelliği, Avrasya'nın uçlarının ilk kez tek bir siyasi yapı üzerinden birbirine bağlanmasıdır: Moğol İmparatorluğu 1206 ile 1368 arasında Avrasya'da varlığını sürdürdü.",
+      "degerler": [
+        "1206",
+        "1368"
+      ],
+      "bloklu_alanlar": [
+        "islamansiklopedisi.org.tr",
+        "en.wikipedia.org",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k2"
+      ],
+      "soru": "\"Bu dönemin ayırt edici özelliği, Avrasya'nın uçlarının ilk kez tek bir siyasi yapı üzerinden birbirine bağlanmasıdır: Moğol İmparatorluğu 1206 ile 1368 arasında Avrasya'da varlığın\" cümlesindeki şu değer(ler) doğru mu: 1206, 1368? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: islamansiklopedisi.org.tr, en.wikipedia.org, ourworldindata.org."
     }
   ]
 }

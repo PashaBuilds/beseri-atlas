@@ -25,12 +25,12 @@ Toplam gövde: **40.345** kelime.
 
 ## Doğrulama
 
-Örnekleme kapısı geçmişi: 0.9583
-Nihai skor: **0.9583** (11/12 ölçülen iddia)
-Ham skor: **0.55** (20 iddialık örneklem, 8 iddia bağımsız olarak türetilemedi)
+Örnekleme kapısı geçmişi: 0.9583 / 0.8333 / 0.875
+Nihai skor: **0.875** (11/12 ölçülen iddia)
+Ham skor: **0.45** (20 iddialık örneklem, 8 iddia bağımsız olarak türetilemedi)
 
-Geçiş 2 (kaynak denetimi): 887 OK · 5 ISARET · 0 HATA · 393 programatik olarak ölçülemedi
-Kaynak doğrulama oranı: **0.9972**
+Geçiş 2 (kaynak denetimi): 885 OK · 7 ISARET · 0 HATA · 393 programatik olarak ölçülemedi
+Kaynak doğrulama oranı: **0.9961**
 Makale başına ortalama kaynak: **3.26**
 Çürütücünün ürettiği itiraz adayı: **190**
 Çapraz tutarlılık çelişkisi: **0**
@@ -55,6 +55,10 @@ Ayrıntılı liste `denetim/MUDAHALE-GEREKLI.md` dosyasındadır. Başlıklar:
 - 1. Bağımsız yeniden türetme için doğrulanabilir kaynak yetersiz
 - 2. Çözülemeyen tarih ayrışması: Warren Thompson
 - 3. Osmanlı kuruluş tarihi: 1299 mu 1300 mü?
+- Tanı — neden 0.875?
+- Yapılan onarım denemesi
+- UYGULANMAYAN onarım — bilerek kullanıcıya bırakılıyor
+- Durum
 
 Karantinaya alınan makale yok.
 
@@ -76,8 +80,8 @@ Doğrulama geçişlerinin değeri, ne yakaladıklarıyla ölçülür. Bu koşuda
 ## Güvenilirlik beyanı
 
 Bu korpus otonom olarak üretildi ve otonom olarak denetlendi.
-Ölçülen doğrulama oranı %96'tir; yani her 20 iddiadan yaklaşık
-1 tanesinin kaynağa gidildiğinde
+Ölçülen doğrulama oranı %88'tir; yani her 20 iddiadan yaklaşık
+2 tanesinin kaynağa gidildiğinde
 doğrulanamaması beklenir. Örneklemin bir bölümü ise bağımsız olarak hiç
 türetilemedi; bu iddialar hakkında ölçülmüş bir güvence yoktur.
 Ortak kaynaklı hatalar bu ölçümde görünmez: üreten ve denetleyen oturum aynı
