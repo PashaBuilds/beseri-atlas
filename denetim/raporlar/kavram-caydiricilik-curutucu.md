@@ -1,5 +1,5 @@
 # Çürütücü raporu — kavram-caydiricilik
-_2026-08-21T09:42:47.868Z_
+_2026-08-21T09:53:17.443Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 

@@ -1885,7 +1885,7 @@ isler:
   - id: kavram-hegemonya
     tip: kavram
     baslik: Hegemonya
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1981,7 +1981,7 @@ isler:
   - id: kavram-ilkel-birikim
     tip: kavram
     baslik: İlkel birikim
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2053,7 +2053,7 @@ isler:
   - id: kavram-surtunme
     tip: kavram
     baslik: Sürtünme (Clausewitz)
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2149,7 +2149,7 @@ isler:
   - id: kavram-donemlendirme
     tip: kavram
     baslik: Dönemlendirme
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

@@ -1,9 +1,9 @@
 ## kavram-mesruiyet
-_Geçiş 2 — kaynak denetimi · 2026-08-21T09:14:39.231Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-21T09:52:50.714Z_
 
 - undefined k1 → "Kaynak, otoritenin üçlü bir sınıflandırmasını kayda değer fikirler arasında sayar ve üç türü adlandırır: kariz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - undefined k1 → "Üç türün ayrı ayrı adlandırılması, tek bir iktidarın birden çok gerekçeye dayanabileceğini ve gerekçe değiştiğ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Aynı kayıt, belirli bir alan içinde meşru güç kullanımı tekelini de ayrı bir fikir olarak sayar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Aynı kayıt Max Weber'i 1864-1920 arasına yerleştirir ve belirli bir alan içinde meşru güç kullanımı tekelini d…" — 8 atom doğrulandı; 1 ad ölçülemedi
 - undefined k2 → "Aynı soruya farklı bir gelenekten verilen cevap için ayrı bir kayıt tutulur: aynı soydan gelenlerin veya başka…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - undefined k1 → "Atlas iki cevabı karşılaştırmaz ve birini diğerinin öncülü saymaz; kullanılan kaynak bölümlerinde böyle bir ba…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - undefined k2 → "Atlas iki cevabı karşılaştırmaz ve birini diğerinin öncülü saymaz; kullanılan kaynak bölümlerinde böyle bir ba…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -12,4 +12,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-21T09:14:39.231Z_
 - undefined k1 → "Kavramın hukuk kuramındaki kullanımı, uluslararası tanınma sorunu ve modern demokrasi tartışmalarındaki yeri b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - undefined k2 → "Kavramın hukuk kuramındaki kullanımı, uluslararası tanınma sorunu ve modern demokrasi tartışmalarındaki yeri b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 0 OK · 0 ISARET · 0 HATA
+**Özet:** 1 OK · 0 ISARET · 0 HATA

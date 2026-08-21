@@ -16,6 +16,7 @@ ilgili:
   - kavram-bagimlilik-kurami
   - kavram-tarihsel-materyalizm
   - kavram-kuresellesme
+  - kavram-hegemonya
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

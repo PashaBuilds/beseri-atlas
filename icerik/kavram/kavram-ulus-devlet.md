@@ -73,12 +73,15 @@ kendi bölümünü ayırır.[^k1]
 
 ## Yakın kavram ve önceki yazar
 
-Yakın bir kavram için tutulan kayıt, o kavramın ortaya çıkışının
-tarihlendirilmesine ayrı bir bölüm ayırır.[^k3] O kavram
+Milliyetçilik için tutulan kayıt, araştırmacıların milliyetçiliğin başlangıcını
+sıklıkla 18. yüzyılın sonuna ya da 19. yüzyılın başına yerleştirdiğini yazar ve
+1772'de yayımlanan bir dil kökeni incelemesinde ortak dilin rolünün
+vurgulandığını kaydeder.[^k3] O kavram
 [Milliyetçilik](/kavram/milliyetcilik/) dosyasında ele alınıyor.
 
-Yönetim biçimleri üzerine yazan önceki bir yazar için tutulan kayıt, onun çeşitli
-yönetim biçimlerinin doğalcı bir açıklamasını kurduğunu yazar.[^k2] O yazar
+Montesquieu için tutulan kayıt, onun çeşitli yönetim biçimlerinin doğalcı bir
+açıklamasını kurduğunu ve despotizmi despot olmayan her yönetim için sürekli bir
+tehlike saydığını yazar.[^k2] O yazar
 [Montesquieu](/dusunur/montesquieu/) dosyasında ele alınıyor.
 
 ## Bu dosyanın sınırı

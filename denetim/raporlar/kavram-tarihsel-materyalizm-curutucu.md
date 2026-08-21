@@ -1,5 +1,5 @@
 # Çürütücü raporu — kavram-tarihsel-materyalizm
-_2026-08-21T09:23:07.368Z_
+_2026-08-21T09:53:17.449Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 

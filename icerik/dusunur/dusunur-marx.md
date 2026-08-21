@@ -24,6 +24,7 @@ ilgili:
   - dusunur-wallerstein
   - kavram-tarihsel-materyalizm
   - kavram-kapitalizm
+  - kavram-ilkel-birikim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

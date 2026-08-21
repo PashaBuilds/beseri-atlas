@@ -54,8 +54,10 @@ ve üç türü adlandırır: karizmatik, akılcı-yasal ve geleneksel.[^k1]
 dayanabileceğini ve gerekçe değiştiğinde iktidarın niteliğinin de değiştiğini
 düşündürür.
 
-Aynı kayıt, belirli bir alan içinde meşru güç kullanımı tekelini de ayrı bir fikir
-olarak sayar.[^k1] Meşruiyet ile şiddet tekelinin aynı listede yer alması, kavramın
+Aynı kayıt Max Weber'i 1864-1920 arasına yerleştirir ve belirli bir alan içinde
+meşru güç kullanımı tekelini de ayrı bir fikir olarak sayar; eserleri arasında
+*Siyaset Bir Meslek Olarak* (1919) ve *Ekonomi ve Toplum* (1921-1922) künyeleriyle
+verilir.[^k1] Meşruiyet ile şiddet tekelinin aynı listede yer alması, kavramın
 yalnızca bir onay değil bir yetki tanımı olduğunu gösterir. Sınıflandırmayı öneren
 düşünür [Max Weber](/dusunur/weber/) dosyasında ele alınıyor.
 

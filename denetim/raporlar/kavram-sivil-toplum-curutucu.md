@@ -1,5 +1,5 @@
 # Çürütücü raporu — kavram-sivil-toplum
-_2026-08-21T09:45:51.898Z_
+_2026-08-21T09:53:17.447Z_
 
 ## Zayıf bulunmayan alanlar
 

@@ -1,5 +1,5 @@
 # Çürütücü raporu — kavram-anakronizm
-_2026-08-21T09:27:04.652Z_
+_2026-08-21T09:53:17.438Z_
 
 ## Zayıf bulunmayan alanlar
 

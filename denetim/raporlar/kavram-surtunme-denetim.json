@@ -1,0 +1,43 @@
+{
+  "id": "kavram-surtunme",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:51:02.818Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bölümlerini sıralar: köken, askerî kullanım ve benzetimler ile oyunlar; sonuncusunun altında video oyunları ayrı bir alt başlıktır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir askerî kavramın maddesinde oyun tasarımının ayrı bir bölüm taşıması, atlasın şu kuralının dayanağıdır: bu dosyada sürtünme, yalnızca tarihsel bir askerî ter",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Carl von Clausewitz için tutulan kayıt, savaş sisi altında ortaya çıkan beklenmedik gelişmelerin uyanık komutanlardan hızlı kararlar gerektirdiğini ve bu durumu",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bilginin niteliğinin üç sıfatla birden tanımlanması, atlasın kaynak doğrulama kapısıyla aynı sorunu paylaşır: bir kaydın eksik mi şüpheli mi hatalı mı olduğu ay",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Thomas Hobbes için tutulan kayıt, onun siyaset felsefesinde mutlak egemenliği savunduğunu yazar ve 1588-1679 arasında yaşadığını verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramın kökeni, askerî uygulamaları ve oyun tasarımındaki biçimleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 # Çürütücü raporu — kavram-askeri-devrim
-_2026-08-21T09:35:06.741Z_
+_2026-08-21T09:53:17.442Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 

@@ -1,7 +1,7 @@
 {
   "id": "kavram-caydiricilik",
   "gecis": 2,
-  "zaman": "2026-08-21T09:42:47.276Z",
+  "zaman": "2026-08-21T09:52:50.645Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -41,9 +41,9 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Güç ve korku üzerine önceki bir yazar için tutulan kayıt, onun siyaset felsefesinde mutlak egemenliği savunduğunu yazar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Thomas Hobbes için tutulan kayıt, onu 1588-1679 arasına yerleştirir ve siyaset felsefesinde mutlak egemenliği savunduğunu yazar; Leviathan'ın 1651'de yayımlandı",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",

@@ -1,5 +1,5 @@
 # Çürütücü raporu — kavram-ulus-devlet
-_2026-08-21T09:43:12.206Z_
+_2026-08-21T09:53:17.449Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 

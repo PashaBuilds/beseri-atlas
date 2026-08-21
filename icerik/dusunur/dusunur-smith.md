@@ -23,6 +23,7 @@ ilgili:
   - dusunur-keynes
   - dusunur-polanyi
   - kavram-merkantilizm
+  - kavram-ilkel-birikim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,7 +1,7 @@
 {
   "id": "kavram-ulus-devlet",
   "gecis": 2,
-  "zaman": "2026-08-21T09:42:47.359Z",
+  "zaman": "2026-08-21T09:53:03.099Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -11,7 +11,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Tarih bölümünde ulus-devlet öncesi diye ayrı bir alt başlık bulunması, kavramın belirli bir tarihsel eşikten sonra geçerli sayıldığını gösterir; atlas bu yüzden",
+      "iddia": "Tarih bölümünde ulus-devlet öncesi diye ayrı bir alt başlık bulunması, atlasın şu kuralının dayanağıdır: bu terim, kaynağın eşik saydığı tarihten önceki dönem d",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -35,13 +35,13 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Yakın bir kavram için tutulan kayıt, o kavramın ortaya çıkışının tarihlendirilmesine ayrı bir bölüm ayırır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "yüzyılın başına yerleştirdiğini yazar ve 1772'de yayımlanan bir dil kökeni incelemesinde ortak dilin rolünün vurgulandığını kaydeder.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Yönetim biçimleri üzerine yazan önceki bir yazar için tutulan kayıt, onun çeşitli yönetim biçimlerinin doğalcı bir açıklamasını kurduğunu yazar.",
+      "iddia": "Montesquieu için tutulan kayıt, onun çeşitli yönetim biçimlerinin doğalcı bir açıklamasını kurduğunu ve despotizmi despot olmayan her yönetim için sürekli bir t",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

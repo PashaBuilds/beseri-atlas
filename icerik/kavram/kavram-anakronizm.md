@@ -13,6 +13,7 @@ ilgili:
   - kavram-feodalite
   - kavram-longue-duree
   - dusunur-carr
+  - kavram-donemlendirme
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -74,9 +75,9 @@ insanlarınca kullanılmamış olmasıdır.[^k3] O örnek
 
 ## Kavramların tarihselliği üzerine çalışan yazar
 
-Kavramların tarihselliği üzerine çalışan bir yazar için tutulan kayıt, onu hem
-tarihçi hem filozof olarak kaydeder ve iki akımla birden
-ilişkilendirir.[^k2] O yazar
+Michel Foucault için tutulan kayıt, onu 1926-1984 arasında yaşamış bir Fransız
+tarihçi ve filozof olarak kaydeder ve yapısalcı ile post-yapısalcı akımlarla
+ilişkilendirildiğini yazar.[^k2] O yazar
 [Michel Foucault](/dusunur/foucault/) dosyasında ele alınıyor.
 
 ## Bu dosyanın sınırı

@@ -40,8 +40,8 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Kaynak, kuramı doğrudan bir adla değil bir kayıtla anar: çoğu kez tarihsel
-materyalizm denen ve toplum biçimlerinin insanın üretici gücünün gelişimini önce
+Kaynak Karl Marx'ı 1818-1883 arasına yerleştirir ve kuramı doğrudan bir adla değil
+bir kayıtla anar: çoğu kez tarihsel materyalizm denen ve toplum biçimlerinin insanın üretici gücünün gelişimini önce
 ilerletip sonra engelledikçe yükselip düştüğü fikri etrafında kurulu etkili bir
 tarih kuramı.[^k1]
 

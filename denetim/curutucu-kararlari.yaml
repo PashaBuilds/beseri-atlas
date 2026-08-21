@@ -752,3 +752,18 @@ hat_duzeltmesi:
       Kayit icin not edildi. B09'da bulunan guvenli cikarim kalibinin
       ("... atlasin su kuralinin dayanagidir") yerlesmesiyle
       tek-kaynakli-nedensellik isaretleri bu turda hic gorulmedi.
+
+# Faz 3 turu B19: kalite taramasi — dogrulanabilir atom yoklugu — 2026-08-21
+  - bulgu: >-
+      Gecis 2 raporlari tarandi: 13 kavram dosyasi `0 OK · 0 ISARET · 0 HATA`
+      veriyordu, yani hicbir paragrafta denetlenebilir atom yoktu. Butun
+      kapilar yesil oldugu halde atlasin cekirdek testi karsilanmiyordu.
+    aksiyon: >-
+      Hepsi duzeltildi: her dosyaya kaynakta fiilen gecen somut atomlar eklendi
+      (ozel adlar, yasam tarihleri, eser kunyeleri, yuzdeler). Yeniden
+      denetlendi, hepsi en az 1 OK aldi. Yeni kural ve tam liste
+      plan/faz-notlari.md icinde kayitli.
+      NOT: bu bulgu hicbir kapinin kirilmasiyla degil, kapi ciktilarinin
+      okunmasiyla bulundu. Kapilar "gecti" demek "iyi" demek degildir.
+  - bulgu: Yedi itirazin hepsi dusuk ciddiyette ustunluk-iddiasi tipinde.
+    aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.

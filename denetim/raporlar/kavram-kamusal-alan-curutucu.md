@@ -1,5 +1,5 @@
 # Çürütücü raporu — kavram-kamusal-alan
-_2026-08-21T09:45:51.894Z_
+_2026-08-21T09:53:17.446Z_
 
 ## Zayıf bulunmayan alanlar
 

@@ -21,6 +21,7 @@ ilgili:
   - olay-neolitik-devrim
   - tartisma-tarim-devrimi-ilerleme-mi
   - kavram-longue-duree
+  - kavram-donemlendirme
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

@@ -1,0 +1,61 @@
+{
+  "id": "kavram-hegemonya",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:51:02.786Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak siyaset bilimi, uluslararası ilişkiler ile medya ve iletişim çalışmaları için ayrı bölümler tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı terimin üç ayrı disiplinde ayrı ayrı işlenmesi, atlasın şu kuralının dayanağıdır: bu dosyada hegemonya, hangi disiplinin anlamında kullanıldığı belirtilmed",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kültürel hegemonya kuramcısı olarak Antonio Gramsci'yi anar ve yaşam tarihlerini 1891-1937 olarak verir; aynı bölümde NATO ülkelerinin küresel askerî ha",
+      "durum": "OK",
+      "not": "8 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak tarihsel örnekler olarak Alman İmparatorluğu'nun (1871-1918) askerî ve kültürel bakımdan baskın eyaleti Prusya'yı ve Fransız Konsüllüğü (1799-1804) üzeri",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavramın ansiklopedi maddesinde hem bir kuramcının yaşam tarihlerinin hem güncel harcama yüzdelerinin bulunması, kavramın tarihsel ve çağdaş kullanımlarının",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yakın bir kavram için tutulan kayıt, merkez, çevre ve yarı çevre terimlerini ayrı ayrı tanımlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kültürel hegemonya tartışmasının bağlı olduğu gelenek için tutulan kayıt ise, ideoloji anlatısı ile sınıflara bölünmüş toplumların istikrarını açıklamaya çalışa",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tarihsel örneklerin ayrıntısı, disiplin içi tanımlar ve kültürel hegemonya tartışması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölüml",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

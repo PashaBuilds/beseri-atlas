@@ -1,13 +1,13 @@
 {
   "id": "kavram-tarihsel-materyalizm",
   "gecis": 2,
-  "zaman": "2026-08-21T09:23:06.886Z",
+  "zaman": "2026-08-21T09:52:50.762Z",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, kuramı doğrudan bir adla değil bir kayıtla anar: çoğu kez tarihsel materyalizm denen ve toplum biçimlerinin insanın üretici gücünün gelişimini önce iler",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Kaynak Karl Marx'ı 1818-1883 arasına yerleştirir ve kuramı doğrudan bir adla değil bir kayıtla anar: çoğu kez tarihsel materyalizm denen ve toplum biçimlerinin ",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",

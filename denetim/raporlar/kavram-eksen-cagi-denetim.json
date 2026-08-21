@@ -1,7 +1,7 @@
 {
   "id": "kavram-eksen-cagi",
   "gecis": 2,
-  "zaman": "2026-08-21T09:35:06.228Z",
+  "zaman": "2026-08-21T09:52:50.661Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -23,15 +23,15 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Kavramın kapsadığı yüzyıllarda yaşadığı söylenen bir düşünür için tutulan kayıt, tarihleri geleneksel kaydıyla verir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Konfüçyüs için tutulan kayıt, tarihleri geleneksel kaydıyla MÖ 551-479 olarak verir.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Aynı yüzyıllara yakın bir başka düşünür için tutulan kayıt ise doğum yılını soru işaretiyle verir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "- 347 aralığını, doğum yılının yanındaki soru işaretiyle birlikte verir.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",

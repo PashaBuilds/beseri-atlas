@@ -21,6 +21,7 @@ ilgili:
   - olay-irlanda-kitligi
   - dusunur-mackinder
   - dusunur-mahan
+  - kavram-hegemonya
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

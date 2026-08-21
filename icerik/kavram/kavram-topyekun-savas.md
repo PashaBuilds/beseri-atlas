@@ -13,6 +13,7 @@ ilgili:
   - olay-birinci-dunya-savasi
   - olay-ikinci-dunya-savasi
   - dusunur-clausewitz
+  - kavram-surtunme
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

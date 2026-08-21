@@ -75,8 +75,9 @@ Dönemin savaş ilkeleri yazarı için tutulan kayıt, katkı alanları arasınd
 ilkelerini sayar.[^k3] O yazar
 [Machiavelli](/dusunur/machiavelli/) dosyasında ele alınıyor.
 
-Sonraki yüzyılın savaş kuramcısı için tutulan kayıt ise, onun savaşta çeşitli
-etkenlerin çoklu etkileşimlerine dikkat çektiğini yazar.[^k2] O kuramcı
+Carl von Clausewitz için tutulan kayıt ise, onu 1 Temmuz 1780 - 16 Kasım 1831
+arasında yaşamış bir Prusya ordusu subayı ve askerî kuramcı olarak verir ve
+savaşta çeşitli etkenlerin çoklu etkileşimlerine dikkat çektiğini yazar.[^k2] O kuramcı
 [Carl von Clausewitz](/dusunur/clausewitz/) dosyasında ele alınıyor.
 
 ## Bu dosyanın sınırı

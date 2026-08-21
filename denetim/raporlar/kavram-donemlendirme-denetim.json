@@ -1,0 +1,61 @@
+{
+  "id": "kavram-donemlendirme",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:51:02.763Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bölümlerini sıralar: tarih, arka plan, üç çağ sistemi, tarih yazımı ve dünya tarihi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, arkeolojide uzak tarih öncesinin dönemlendirilmesinde olağan yöntemin maddi kültür ve teknolojideki değişimlere dayanmak olduğunu yazar ve Taş Devri, Tu",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Taş, Devri, Tunç, Çağı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bach'ın ölümüyle 1750 yılına koyduğunu, sanat tarihçilerinin ise çoğu alanda ana dönemi belirgin biçimde daha erken bitirdiğini yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı dönem için müzik tarihinin ve sanat tarihinin farklı bitiş noktaları vermesi, atlasın şu kuralının dayanağıdır: bu atlasta dönem adları evrensel değil bu a",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak dünya tarihi için ayrı bir bölüm tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dünya ölçeğindeki bölmenin ayrıca işlenmesi, atlasın paralel zaman şeridi bileşeninin dayanağıdır: bir bölgenin dönem adları başka bölgelere uymayabilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Rakip bir bölme önerisi için tutulan kayıt, zamanı katmanlara ayıran ve olayları en yüzeydeki katmana yerleştiren bir kurguyu anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kavramların tarihselliği üzerine yazan bir yazar için tutulan kayıt, onu hem tarihçi hem filozof olarak kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üç çağ sisteminin içeriği, tarih yazımı tartışmaları ve dünya tarihi bölmeleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

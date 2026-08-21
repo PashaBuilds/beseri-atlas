@@ -68,12 +68,13 @@ Kaynak, kamusal alanla bağlantıya ayrı bir bölüm ayırır.[^k1] O kavram
 
 ## İki düşünürün kaydı
 
-Kavramı kendi sistemine alan bir düşünür için tutulan kayıt, felsefesine dair üç
-ayrı okumayı alt başlıklar hâlinde sıralar.[^k2] O düşünür
+G. W. F. Hegel için tutulan kayıt, onu 1770-1831 arasına yerleştirir ve
+felsefesine dair üç ayrı okumayı alt başlıklar hâlinde sıralar.[^k2] O düşünür
 [G. W. F. Hegel](/dusunur/hegel/) dosyasında ele alınıyor.
 
-Gönüllü birlik kavramını kaydeden bir yazar için tutulan kayıt, kayda değer
-fikirleri arasında gönüllü birliği ve karşılıklı özgürlüğü sayar.[^k3] O yazar
+Alexis de Tocqueville için tutulan kayıt, başlıca eserlerini *Amerika'da
+Demokrasi* (1835) ve *Eski Rejim ve Devrim* (1856) künyeleriyle verir; kayda
+değer fikirleri arasında gönüllü birliği ve karşılıklı özgürlüğü sayar.[^k3] O yazar
 [Alexis de Tocqueville](/dusunur/tocqueville/) dosyasında ele alınıyor.
 
 ## Bu dosyanın sınırı

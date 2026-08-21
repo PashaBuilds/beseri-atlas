@@ -14,6 +14,7 @@ ilgili:
   - dusunur-braudel
   - dusunur-marx
   - kavram-buyuk-ayrisma
+  - kavram-ilkel-birikim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

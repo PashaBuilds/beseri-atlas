@@ -1,7 +1,7 @@
 {
   "id": "kavram-anakronizm",
   "gecis": 2,
-  "zaman": "2026-08-21T09:27:04.133Z",
+  "zaman": "2026-08-21T09:52:50.602Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -41,9 +41,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Kavramların tarihselliği üzerine çalışan bir yazar için tutulan kayıt, onu hem tarihçi hem filozof olarak kaydeder ve iki akımla birden ilişkilendirir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Michel Foucault için tutulan kayıt, onu 1926-1984 arasında yaşamış bir Fransız tarihçi ve filozof olarak kaydeder ve yapısalcı ile post-yapısalcı akımlarla iliş",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

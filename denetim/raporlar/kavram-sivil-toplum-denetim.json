@@ -1,7 +1,7 @@
 {
   "id": "kavram-sivil-toplum",
   "gecis": 2,
-  "zaman": "2026-08-21T09:45:51.354Z",
+  "zaman": "2026-08-21T09:52:50.741Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -41,15 +41,15 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Kavramı kendi sistemine alan bir düşünür için tutulan kayıt, felsefesine dair üç ayrı okumayı alt başlıklar hâlinde sıralar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Hegel için tutulan kayıt, onu 1770-1831 arasına yerleştirir ve felsefesine dair üç ayrı okumayı alt başlıklar hâlinde sıralar.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Gönüllü birlik kavramını kaydeden bir yazar için tutulan kayıt, kayda değer fikirleri arasında gönüllü birliği ve karşılıklı özgürlüğü sayar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Alexis de Tocqueville için tutulan kayıt, başlıca eserlerini Amerika'da Demokrasi (1835) ve Eski Rejim ve Devrim (1856) künyeleriyle verir; kayda değer fikirler",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

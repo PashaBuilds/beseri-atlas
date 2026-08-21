@@ -1,5 +1,5 @@
 # Çürütücü raporu — kavram-mesruiyet
-_2026-08-21T09:14:49.731Z_
+_2026-08-21T09:53:17.447Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 

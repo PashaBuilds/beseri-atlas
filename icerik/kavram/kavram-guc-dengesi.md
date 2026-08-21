@@ -14,6 +14,7 @@ ilgili:
   - dusunur-carr
   - olay-viyana-kongresi
   - kavram-caydiricilik
+  - kavram-hegemonya
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

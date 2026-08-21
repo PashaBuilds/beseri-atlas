@@ -1,7 +1,7 @@
 {
   "id": "kavram-mesruiyet",
   "gecis": 2,
-  "zaman": "2026-08-21T09:14:39.231Z",
+  "zaman": "2026-08-21T09:52:50.714Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -17,9 +17,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Aynı kayıt, belirli bir alan içinde meşru güç kullanımı tekelini de ayrı bir fikir olarak sayar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Aynı kayıt Max Weber'i 1864-1920 arasına yerleştirir ve belirli bir alan içinde meşru güç kullanımı tekelini de ayrı bir fikir olarak sayar; eserleri arasında S",
+      "durum": "OK",
+      "not": "8 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k2",

@@ -1,7 +1,7 @@
 {
   "id": "kavram-kamusal-alan",
   "gecis": 2,
-  "zaman": "2026-08-21T09:45:51.270Z",
+  "zaman": "2026-08-21T09:52:50.687Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -41,9 +41,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Kavram üzerine yazan bir düşünür için tutulan kayıt, onu yirminci yüzyılın en etkili siyaset filozoflarından biri olarak verir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Hannah Arendt için tutulan kayıt, onu 1906-1975 arasında yaşamış ve yirminci yüzyılın en etkili siyaset filozoflarından biri sayılan bir düşünür olarak verir.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",

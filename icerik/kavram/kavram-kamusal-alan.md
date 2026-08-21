@@ -72,8 +72,9 @@ alınıyor.[^k3]
 
 ## Kavram üzerine yazan düşünür
 
-Kavram üzerine yazan bir düşünür için tutulan kayıt, onu yirminci yüzyılın en
-etkili siyaset filozoflarından biri olarak verir.[^k2] O düşünür
+Hannah Arendt için tutulan kayıt, onu 1906-1975 arasında yaşamış ve yirminci
+yüzyılın en etkili siyaset filozoflarından biri sayılan bir düşünür olarak
+verir.[^k2] O düşünür
 [Hannah Arendt](/dusunur/arendt/) dosyasında, yakın kavram ise
 [Sivil toplum](/kavram/sivil-toplum/) dosyasında ele alınıyor.
 

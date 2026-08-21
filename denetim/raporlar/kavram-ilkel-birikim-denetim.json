@@ -1,0 +1,49 @@
+{
+  "id": "kavram-ilkel-birikim",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:51:02.805Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, köken ve tanım başlığı altında iki alt başlık tutar: Adam Smith'in önceki birikim terimi ve Marx'ın bu terime yönelttiği eleştiri.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, ilkel birikimin mekanizmaları başlığı altında çevirmeler ve toprak kamulaştırması, av yasaları ve toplumsal iş bölümü gibi alt başlıklar tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir iktisadi sürecin hukuki düzenlemelerle birlikte sayılması, atlasın şu kuralının dayanağıdır: bu dosyada birikim, yalnızca bir piyasa süreci olarak anılmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, klasik siyasal iktisadın rolüne ayrı bir bölüm ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Adam Smith için ayrı bir kayıt, onun ahlak felsefesinin kapsamlı ve alışılmadık bir sürümünü geliştirdiğini yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kavramı eleştirel biçimde kullanan yazar için tutulan kayıt ise, çağdaş kapitalist üretim tarzının kökenini sömürülen proletaryadan artı değer çıkarılmasında bu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mekanizmaların ayrıntısı, tarihsel örnekler ve sonraki tartışmalar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

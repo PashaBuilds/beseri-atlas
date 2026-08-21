@@ -13,6 +13,7 @@ ilgili:
   - olay-kuba-fuze-krizi
   - aktor-nato
   - kavram-guc-dengesi
+  - kavram-surtunme
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -72,8 +73,9 @@ Yakın bir kavram için tutulan kayıt, o kurama karşı tarihsel kanıtlara ayr
 alt başlık ayırır.[^k2] O kavram
 [Güç dengesi](/kavram/guc-dengesi/) dosyasında ele alınıyor.
 
-Güç ve korku üzerine önceki bir yazar için tutulan kayıt, onun siyaset
-felsefesinde mutlak egemenliği savunduğunu yazar.[^k3] O yazar
+Thomas Hobbes için tutulan kayıt, onu 1588-1679 arasına yerleştirir ve siyaset
+felsefesinde mutlak egemenliği savunduğunu yazar; *Leviathan*'ın 1651'de
+yayımlandığı da kaydedilir.[^k3] O yazar
 [Thomas Hobbes](/dusunur/hobbes/) dosyasında ele alınıyor.
 
 ## Bu dosyanın sınırı

@@ -61,12 +61,12 @@ Kaynağın düşünürler ve akımlar diye ayrı bir bölüm tutması,[^k1] kavr
 iddiasının farklı bölgelerde yaşamış düşünürlerin bir araya getirilmesi olduğunu
 gösterir.
 
-Kavramın kapsadığı yüzyıllarda yaşadığı söylenen bir düşünür için tutulan kayıt,
-tarihleri geleneksel kaydıyla verir.[^k2] O düşünür
+Konfüçyüs için tutulan kayıt, tarihleri geleneksel kaydıyla MÖ 551-479 olarak
+verir.[^k2] O düşünür
 [Konfüçyüs](/dusunur/konfucyus/) dosyasında ele alınıyor.
 
-Aynı yüzyıllara yakın bir başka düşünür için tutulan kayıt ise doğum yılını soru
-işaretiyle verir.[^k3] O düşünür
+Platon için tutulan kayıt ise MÖ 429? - 347 aralığını, doğum yılının yanındaki
+soru işaretiyle birlikte verir.[^k3] O düşünür
 [Platon](/dusunur/platon/) dosyasında ele alınıyor.
 
 ## Eşanlılık iddiası belirsiz tarihlere dayanır

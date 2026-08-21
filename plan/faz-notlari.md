@@ -282,3 +282,28 @@ ALTERNATIFLER REDDEDILDI:
   - terimler.yaml'dan `timar` varyantini cikarmak: kapiyi gercekten gevsetirdi.
   - Ic linki kaldirip yalnizca `ilgili` alaninda birakmak: atlasin iki tiklama
     testini zayiflatirdi.
+
+## ONEMLI: "bolum yapisi" makaleleri dogrulanabilir atom tasimiyordu (2026-08-21, B19)
+
+Faz 3'un kavram katmaninda hiz icin benimsedigim bir kalip — makaleyi kaynagin
+BOLUM YAPISI uzerinden yazmak — sessiz bir kalite acigi urettiy. Gecis 2 bu
+makalelerde `0 OK · 0 ISARET · 0 HATA` veriyordu: butun paragraflar ATOMSUZ
+("denetlenebilir atom yok") sayiliyordu.
+
+Butun kapilar yesildi, ama atlasin cekirdek testi karsilanmiyordu: "her iddia iki
+tiklamada kaynagina gitsin". Dogrulanacak bir sey yoksa, dipnot bir suslemedir.
+
+Tarama yapildi: 13 kavram dosyasi bu durumdaydi. Hepsi duzeltildi — her dosyaya
+kaynakta FIILEN gecen somut atomlar eklendi (ozel adlar, yasam tarihleri, eser
+kunyeleri, yuzdeler). Ornekler:
+  - kavram-hegemonya: Antonio Gramsci (1891-1937); NATO'nun kuresel askeri
+    harcamadaki %70 payi; ABD'nin 2009'da %43'u; Prusya / Alman Imparatorlugu
+    (1871-1918); Napolyon / Fransiz Konsullugu (1799-1804).
+  - kavram-donemlendirme: Tas Devri / Tunc Cagi / Demir Cagi; Barok'un 1600
+    dolayinda baslamasi; muzik tarihinin donemi J. S. Bach'in olumuyle 1750'de
+    bitirmesi.
+  - kavram-ilkel-birikim: "bir yazar" yerine dogrudan Adam Smith ve Marx.
+
+KURAL (bundan sonra): bir kavram dosyasi, Gecis 2'de en az bir OK almadan
+onaylanmaz. Bolum yapisi anlatmak mesrudur ama tek basina yeterli degildir;
+yaninda kaynakta dogrulanabilir en az bir somut kayit bulunmalidir.

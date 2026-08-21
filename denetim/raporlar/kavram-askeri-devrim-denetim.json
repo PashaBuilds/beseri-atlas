@@ -1,7 +1,7 @@
 {
   "id": "kavram-askeri-devrim",
   "gecis": 2,
-  "zaman": "2026-08-21T09:35:06.192Z",
+  "zaman": "2026-08-21T09:52:50.623Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -41,9 +41,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Sonraki yüzyılın savaş kuramcısı için tutulan kayıt ise, onun savaşta çeşitli etkenlerin çoklu etkileşimlerine dikkat çektiğini yazar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Carl von Clausewitz için tutulan kayıt ise, onu 1 Temmuz 1780 - 16 Kasım 1831 arasında yaşamış bir Prusya ordusu subayı ve askerî kuramcı olarak verir ve savaşt",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

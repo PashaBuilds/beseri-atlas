@@ -18,6 +18,7 @@ ilgili:
   - dusunur-hegel
   - dusunur-mahan
   - kavram-topyekun-savas
+  - kavram-surtunme
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
