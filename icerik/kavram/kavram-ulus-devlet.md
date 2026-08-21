@@ -14,6 +14,7 @@ ilgili:
   - kavram-egemenlik
   - olay-versailles-antlasmasi
   - tartisma-milliyetcilik-ne-zaman
+  - tartisma-vestfalya-miti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

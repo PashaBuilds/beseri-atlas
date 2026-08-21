@@ -1,0 +1,49 @@
+{
+  "id": "tartisma-vestfalya-miti",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:08:21.007Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu haritanın çıkış noktası bir yokluktur: kaynağın egemenlik tarihi bölümlemesinde 1648 kendi başına bir başlık değildir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tarih bölümünü beş alt başlığa ayırır: klasik, ortaçağ, Reform, Aydınlanma Çağı ve İkinci Dünya Savaşı sonrası dünya düzeni.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tanım ve türler başlığı altında mutlaklık, dışlayıcılık ile hukuken ve fiilen egemenlik alt başlıklarını tutar; sonuncusunun altında egemenlik ve bağıms",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üç ayrımın aynı anda geçerli olması, tek bir tarihte hepsinin birden değiştiğini söylemeyi zorlaştırır; kavram dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yüzyılda mutlak egemenliği savunan bir yazar için tutulan kayıt, onu 1588-1679 arasına yerleştirir ve siyaset felsefesinde mutlak egemenliği savunması nede",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir kavramın aynı yüzyılda hem savunulup hem tehlikeli sayılabilmesi, o yüzyılda kavramın yerleşmiş olmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kavramın sonraki biçimi için tutulan kayıt, ilk bölümünü doğrudan karmaşıklık başlığına ayırır ve tarih bölümünde ulus-devlet öncesi diye ayrı bir alt başlık tu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -2717,7 +2717,7 @@ isler:
   - id: tartisma-vestfalya-miti
     tip: tartisma
     baslik: Vestfalya bir dönüm noktası mı?
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

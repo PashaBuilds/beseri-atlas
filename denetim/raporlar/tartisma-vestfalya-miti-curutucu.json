@@ -1,0 +1,21 @@
+{
+  "id": "tartisma-vestfalya-miti",
+  "gecis": 3,
+  "zaman": "2026-08-21T12:08:48.013Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Üç ayrımın aynı anda geçerli olması,[^k1] tek bir tarihte hepsinin birden değiştiğini söylemeyi zorlaştırır; kavram [Egemenlik](/kavram/egemenlik/) dosyasında ele alınıyor.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kavramın sonraki biçimi için tutulan kayıt, ilk bölümünü doğrudan karmaşıklık başlığına ayırır ve tarih bölümünde ulus-devlet öncesi diye ayrı bir alt başlık tutar.[^k2] O kavram [",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

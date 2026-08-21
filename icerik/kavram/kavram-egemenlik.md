@@ -16,6 +16,7 @@ ilgili:
   - kavram-ulus-devlet
   - kavram-hukuk-devleti
   - kaynak-hobbes-leviathan
+  - tartisma-vestfalya-miti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

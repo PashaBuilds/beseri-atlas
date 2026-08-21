@@ -30,6 +30,7 @@ ilgili:
   - olay-meksika-fethi
   - tartisma-osmanli-gerileme-tezi
   - tartisma-kesif-mi-istila-mi
+  - tartisma-vestfalya-miti
 okuma_onerisi: []
 serit:
   - bolge: avrupa

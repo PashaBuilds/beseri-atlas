@@ -16,6 +16,7 @@ ilgili:
   - tartisma-eksen-cagi-gercek-mi
   - kaynak-braudel-akdeniz
   - tartisma-osmanli-gerileme-tezi
+  - tartisma-vestfalya-miti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

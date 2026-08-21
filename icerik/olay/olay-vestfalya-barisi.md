@@ -18,6 +18,7 @@ ilgili:
   - olay-reform
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - kavram-egemenlik
+  - tartisma-vestfalya-miti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
