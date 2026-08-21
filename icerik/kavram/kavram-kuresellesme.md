@@ -15,6 +15,7 @@ ilgili:
   - olay-internetin-yayginlasmasi
   - tartisma-sanayi-devrimi-neden-ingiltere
   - veri-internet-kullanimi
+  - tartisma-teknolojik-belirlenimcilik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,0 +1,67 @@
+{
+  "id": "tartisma-teknolojik-belirlenimcilik",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:59:01.118Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, felsefenin teknolojiyi göz ardı etmemesi gerektiğini yazar ve çağdaş toplumu bir arada tutanın büyük ölçüde teknoloji olduğunu kaydeder; teknolojiyi yal",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kaynak, son bir buçuk yüzyılda alanın çoğunlukla teknolojinin kendisini değil, teknolojinin toplum ve kültür bakımından anlamını konu edindiğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yerde Mitcham'ın 1994'te bu türü insani teknoloji felsefesi diye adlandırdığı kaydedilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Karşıt çerçeve için tutulan kayıt, özgün temel kavramları iki aşamada tutar: birinci aşama yorum esnekliğidir ve altında ilgili toplumsal gruplar, tasarım esnek",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı kayıt, yaklaşımın bilim sosyolojisindeki Güçlü Program'ın mirası olduğunu ve simetri ilkesini ayrı bir alt başlıkta tuttuğunu yazar.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir teknolojinin anlamının tartışmaya açık sayılıp bir kapanma aşamasıyla sabitlenmesi, atlasın şu kuralının dayanağıdır: bir teknolojinin sonucu aktarılırken, ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Karşıt çerçeve için tutulan kayıt, eleştiri başlığını ayrıca tutar; sonraki genişlemeler başlığı altında teknolojik çerçeve ile teknolojik nesnenin içeriğinin d",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki çerçevenin de kendi eleştirisini içermesi, tartışmanın kapanmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki çerçevenin de kendi eleştirisini içermesi, tartışmanın kapanmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İnternet kullanımı serisinde dünya değeri 2005'te yaklaşık yüzde 15,6, 2025'te yaklaşık yüzde 73,6'dır.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

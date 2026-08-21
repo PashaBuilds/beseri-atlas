@@ -2773,7 +2773,7 @@ isler:
   - id: tartisma-teknolojik-belirlenimcilik
     tip: tartisma
     baslik: Teknoloji tarihi belirler mi?
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

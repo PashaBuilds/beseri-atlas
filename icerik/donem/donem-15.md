@@ -27,6 +27,7 @@ ilgili:
   - olay-11-eylul
   - olay-internetin-yayginlasmasi
   - tartisma-kalkinma-yardimi-ise-yariyor-mu
+  - tartisma-teknolojik-belirlenimcilik
 okuma_onerisi: []
 serit:
   - bolge: kuresel

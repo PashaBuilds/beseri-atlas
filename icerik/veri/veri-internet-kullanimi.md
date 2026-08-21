@@ -15,6 +15,7 @@ ilgili:
   - olay-internetin-yayginlasmasi
   - kavram-kamusal-alan
   - kavram-kuresellesme
+  - tartisma-teknolojik-belirlenimcilik
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/internet-kullanimi.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

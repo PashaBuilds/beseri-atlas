@@ -26,6 +26,7 @@ ilgili:
   - kavram-kaynak-elestirisi
   - tartisma-buyuk-adam-kurami
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - tartisma-teknolojik-belirlenimcilik
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:
