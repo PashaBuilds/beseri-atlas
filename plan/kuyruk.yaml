@@ -2653,7 +2653,7 @@ isler:
   - id: kaynak-pomeranz-buyuk-ayrisma
     tip: kaynak
     baslik: Pomeranz — The Great Divergence
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2669,7 +2669,7 @@ isler:
   - id: kaynak-milanovic-kuresel-esitsizlik
     tip: kaynak
     baslik: Milanović — Global Inequality
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

@@ -13,6 +13,7 @@ ilgili:
   - olay-sanayi-devrimi
   - kavram-kapitalizm
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - kaynak-pomeranz-buyuk-ayrisma
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

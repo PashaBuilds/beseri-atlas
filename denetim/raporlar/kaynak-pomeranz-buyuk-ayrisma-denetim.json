@@ -1,0 +1,55 @@
+{
+  "id": "kaynak-pomeranz-buyuk-ayrisma",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:50:46.312Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eseri 2000 tarihli bir kurgu dışı kitap olarak künyeler; yazarını Kenneth Pomeranz, yayıncısını Princeton University Press olarak verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl başında karşılaştırılabilir iktisadi gelişme düzeylerine ulaştığını ve özellikle üretken toprak kullanımında benzer kaynak kısıtlarıyla karşılaştığını sa",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir tezin önce eşitlik sonra ayrışma olarak iki kanada bölünmesi, atlasın şu kuralının dayanağıdır: bu dosyada esere atfedilen önermeler, hangi tarihten önce ya",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Önceki kuşaktan bir iktisat yazarı için tutulan kayıt, onun ahlak felsefesinin kapsamlı ve alışılmadık bir sürümünü geliştirdiğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 990,4 milyon, 1900 için yaklaşık 1,65 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu seriyi tezin kanıtı olarak sunmaz; seri dünya toplamını verir, tez ise bölgeler arası bir karşılaştırma yapar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu seriyi tezin kanıtı olarak sunmaz; seri dünya toplamını verir, tez ise bölgeler arası bir karşılaştırma yapar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

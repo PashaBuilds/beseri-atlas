@@ -18,6 +18,7 @@ ilgili:
   - veri-dogurganlik-hizi-1950-2023
   - veri-kentlesme-orani-1500-2023
   - veri-yasam-beklentisi-1770-2023
+  - kaynak-milanovic-kuresel-esitsizlik
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/dunya-nufusu.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

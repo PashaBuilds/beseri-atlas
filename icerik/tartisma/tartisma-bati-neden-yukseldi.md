@@ -25,6 +25,7 @@ ilgili:
   - olay-cheng-ho-seferleri
   - olay-sanayi-devrimi
   - kaynak-polanyi-buyuk-donusum
+  - kaynak-pomeranz-buyuk-ayrisma
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

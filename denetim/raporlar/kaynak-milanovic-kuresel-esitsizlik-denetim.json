@@ -1,0 +1,67 @@
+{
+  "id": "kaynak-milanovic-kuresel-esitsizlik",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:50:46.272Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak yazarı Sırp-Amerikalı bir iktisatçı olarak künyeler; 24 Ekim 1953'te Yugoslavya, Sırbistan Halk Cumhuriyeti'nde, Belgrad'da doğduğunu ve Belgrad Üniversi",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak yazarın alanını iktisadi eşitsizlik ve iktisadi büyüme olarak verir; Luxembourg Income Study ile ilişkisini de kaydeder.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eşitsizliğin bir uzmanlık alanı olarak kaydedilmesi, atlasın şu kuralının dayanağıdır: bu dosyada eşitsizlik ölçüleri, hangi araştırma programından geldiği beli",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın 2018'de Hans-Matthöfer-Preis für Wirtschaftspublizistik ile Leontief Prize ödüllerini aldığını yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir araştırmacının ödüllerinin kaydedilmesi, atlasın kaynak dosyalarında neden alımlanma bilgisi tuttuğunun dayanağıdır; ödül, iddianın doğruluğunu değil alanda",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1953 için yaklaşık 2,68 milyar, 2020 için yaklaşık 7,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu seriyi eşitsizlik ölçüsüyle birleştirmez; nüfus toplamı bir dağılım ölçüsü değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu seriyi eşitsizlik ölçüsüyle birleştirmez; nüfus toplamı bir dağılım ölçüsü değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Eşitsizliği yapısal olarak ele alan önceki bir gelenek için tutulan kayıt, sınıflara bölünmüş toplumların istikrarını açıklamaya çalışan bir düşünme çizgisini a",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya yazarın eserlerinin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

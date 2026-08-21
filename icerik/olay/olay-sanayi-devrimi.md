@@ -19,6 +19,7 @@ ilgili:
   - dusunur-smith
   - kavram-buyuk-ayrisma
   - kavram-kentlesme
+  - kaynak-pomeranz-buyuk-ayrisma
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

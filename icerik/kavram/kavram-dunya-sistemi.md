@@ -18,6 +18,7 @@ ilgili:
   - kavram-kuresellesme
   - kavram-hegemonya
   - kavram-gini-katsayisi
+  - kaynak-milanovic-kuresel-esitsizlik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

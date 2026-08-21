@@ -1,0 +1,14 @@
+{
+  "id": "kaynak-pomeranz-buyuk-ayrisma",
+  "gecis": 3,
+  "zaman": "2026-08-21T10:50:46.911Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Kaynak, yazarın Avrupa ve Asya'nın en gelişmiş bölgelerinin 19. yüzyıl başında karşılaştırılabilir iktisadi gelişme düzeylerine ulaştığını ve özellikle üretken toprak kullanımında ",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

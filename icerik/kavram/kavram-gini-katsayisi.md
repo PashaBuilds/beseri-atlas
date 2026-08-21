@@ -13,6 +13,7 @@ ilgili:
   - kavram-yasam-beklentisi
   - kavram-kentlesme
   - kavram-dunya-sistemi
+  - kaynak-milanovic-kuresel-esitsizlik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
