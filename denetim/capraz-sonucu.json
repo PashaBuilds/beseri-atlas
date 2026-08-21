@@ -1,6 +1,6 @@
 {
-  "zaman": "2026-08-21T08:24:16.327Z",
-  "makale_sayisi": 177,
+  "zaman": "2026-08-21T10:24:11.812Z",
+  "makale_sayisi": 275,
   "celiskiler": [],
   "incelenecek": [
     {
@@ -16,10 +16,19 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
-        "olay-1848-devrimleri",
-        "olay-viyana-kongresi"
+        "donem-13",
+        "dusunur-keynes"
       ],
-      "detay": "\"Hollanda\" — olay-1848-devrimleri: 1847 / olay-viyana-kongresi: 1830"
+      "detay": "\"Büyük Buhran\" — donem-13: 1929 / dusunur-keynes: 1920"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-buyuk-buhran",
+        "dusunur-keynes"
+      ],
+      "detay": "\"Büyük Buhran\" — olay-buyuk-buhran: 1929 / dusunur-keynes: 1920"
     },
     {
       "tur": "varlik-yil-ayrismasi",

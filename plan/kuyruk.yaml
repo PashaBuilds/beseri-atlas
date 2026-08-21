@@ -2212,8 +2212,8 @@ isler:
     deneme: 0
   - id: kavram-ictihad
     tip: kavram
-    baslik: İctihat
-    durum: uretiliyor
+    baslik: İctihad
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

@@ -1,18 +1,18 @@
 ---
 aktif_faz: 3
 aktif_parti: B02
-son_commit: b778857
-son_guncelleme: 2026-08-21T09:59:23.647Z
+son_commit: 835a0bb
+son_guncelleme: 2026-08-21T10:24:03.634Z
 sayaclar:
   uretilen: 28
   onaylanan: 28
   karantinada: 0
   onarim_dongusunde: 0
 metrikler:
-  kaynak_dogrulama_orani: 0.9986
-  ortalama_kaynak_sayisi: 3.15
+  kaynak_dogrulama_orani: 0.9988
+  ortalama_kaynak_sayisi: 3.1
   ornekleme_kapisi_son_skor: 1
-  ornekleme_kapisi_son_calisma: 2026-08-21T08:47:46.608Z
+  ornekleme_kapisi_son_calisma: 2026-08-21T10:24:11.970Z
   ornekleme_kapisi_karar: devam
   ornekleme_kapisi_gecmisi:
     - 0.9583
@@ -22,6 +22,7 @@ metrikler:
     - 0.875
     - 0.875
     - 0.875
+    - 1
     - 1
     - 1
     - 1
@@ -52,8 +53,8 @@ faz_parti_sayaci:
 
 **Aktif faz:** 3 — Kavramsal katman
 **Aktif parti:** B02
-**Son güncelleme:** 2026-08-21T09:59:23.647Z
-**Son commit:** b778857
+**Son güncelleme:** 2026-08-21T10:24:03.634Z
+**Son commit:** 835a0bb
 
 | Sayaç | Değer |
 |---|---|
@@ -64,8 +65,8 @@ faz_parti_sayaci:
 
 | Metrik | Değer | Eşik |
 |---|---|---|
-| Kaynak doğrulama oranı | 0.9986 | 0.92 |
-| Makale başına ortalama kaynak | 3.15 | 3 |
+| Kaynak doğrulama oranı | 0.9988 | 0.92 |
+| Makale başına ortalama kaynak | 3.1 | 3 |
 | Örnekleme kapısı son skor | 1 | 0.9 |
 
 **Bütçe:** 1.320.000 / 40.000.000 token

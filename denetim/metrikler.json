@@ -125,8 +125,20 @@
       "ornek_boyutu": 28,
       "turetilemedi": 15,
       "davranis": "devam"
+    },
+    {
+      "zaman": "2026-08-21T10:24:11.968Z",
+      "skor": 1,
+      "ham_skor": 0.4643,
+      "dogrulanan": 13,
+      "isaret": 0,
+      "hata": 0,
+      "toplam": 13,
+      "ornek_boyutu": 28,
+      "turetilemedi": 15,
+      "davranis": "devam"
     }
   ],
   "capraz_gecmisi": [],
-  "guncelleme": "2026-08-21T08:47:46.608Z"
+  "guncelleme": "2026-08-21T10:24:11.969Z"
 }
