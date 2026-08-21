@@ -16,6 +16,10 @@ ilgili:
   - dusunur-smith
   - kavram-longue-duree
   - dusunur-polanyi
+  - dusunur-carr
+  - dusunur-foucault
+  - dusunur-wallerstein
+  - kavram-dunya-sistemi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

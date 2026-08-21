@@ -15,6 +15,7 @@ ilgili:
   - dusunur-marx
   - dusunur-mill
   - dusunur-weber
+  - dusunur-foucault
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

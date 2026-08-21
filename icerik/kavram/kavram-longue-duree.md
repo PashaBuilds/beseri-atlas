@@ -13,6 +13,7 @@ ilgili:
   - dusunur-braudel
   - dusunur-marx
   - donem-01
+  - kavram-dunya-sistemi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1845,7 +1845,7 @@ isler:
   - id: dusunur-carr
     tip: dusunur
     baslik: E. H. Carr
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1853,7 +1853,7 @@ isler:
   - id: dusunur-arendt
     tip: dusunur
     baslik: Hannah Arendt
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1861,7 +1861,7 @@ isler:
   - id: dusunur-foucault
     tip: dusunur
     baslik: Michel Foucault
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1869,7 +1869,7 @@ isler:
   - id: dusunur-wallerstein
     tip: dusunur
     baslik: Immanuel Wallerstein
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1989,7 +1989,7 @@ isler:
   - id: kavram-dunya-sistemi
     tip: kavram
     baslik: Dünya sistemi
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

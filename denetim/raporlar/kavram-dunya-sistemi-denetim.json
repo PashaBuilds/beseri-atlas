@@ -1,0 +1,61 @@
+{
+  "id": "kavram-dunya-sistemi",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:19:08.764Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak terimler ve tanımlar başlığı altında beş alt başlık tutar: kapitalist dünya sistemi, merkez ve çevre, yarı çevre, yarı tekeller ve Kondratiev dalgaları.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Merkez ve çevrenin yanına yarı çevrenin ayrı bir başlık olarak eklenmesi, ikili bir bölünme yerine üçlü bir sınıflandırma önerildiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu sınıflandırmayı doğru ya da yanlış saymaz; kaynağın kaydettiği bir kurgu olarak taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuram bölümünün altındaki ikinci alt başlığın doğrudan eleştiriye ayrılması, bu dosyanın güven düzeyinin gerekçesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı ölçekte çalışan önceki bir tarihçi için tutulan kayıt, kapitalistlerin rekabetçi piyasalarda çalışan girişimciler değil tekelciler olduğunu savunduğunu ve ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki kurgunun da tek tek devletlerin üstünde bir birim araması, atlasın kavram katmanında bu iki dosyayı yan yana tutmasının gerekçesidir; zaman ölçeği tarafı do",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1500 için yaklaşık 503,1 milyon, 1800 için yaklaşık 990,4 milyon, 2020 için yaklaşık 7,84 milyar verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Böyle bir serinin tek bir birim olarak tutulabilmesi, küresel ölçekli kurguların veri düzeyinde de bir karşılığı olduğunu gösterir; atlas bu karşılığın kuramı d",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuramın tarihsel uygulamaları, Kondratiev dalgalarının içeriği ve eleştirilerin ayrıntısı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bö",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

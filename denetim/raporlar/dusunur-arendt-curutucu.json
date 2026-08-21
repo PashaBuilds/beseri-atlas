@@ -1,0 +1,21 @@
+{
+  "id": "dusunur-arendt",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:19:09.244Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir düşünürün ailesinin dinsel ve ulusal aidiyetinin ansiklopedi maddesinin ilk cümlelerinde yer alması,[^k1] o yüzyılın siyasi tarihinin biyografiye girdiğini gösterir; ilgili ola",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki kaydın da tek bir meslek ya da tek bir konum vermemesi,[^k1][^k2] yirminci yüzyıl siyaset düşüncesinin akademik kürsülerden ibaret olmadığını gösteren bir kayıt örüntüsüdür.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

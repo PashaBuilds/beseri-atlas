@@ -1,0 +1,61 @@
+{
+  "id": "dusunur-wallerstein",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:19:08.727Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kuram bölümünün altında iki alt başlık tutar: modern dünya sistemi ve eleştiri.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kuram bölümünün ikinci alt başlığını doğrudan eleştiriye ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak terimler ve tanımlar başlığı altında beş alt başlık tutar: kapitalist dünya sistemi, merkez ve çevre, yarı çevre, yarı tekeller ve Kondratiev dalgaları.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuramın terimlerinin ansiklopedide ayrı ayrı tanımlanması, bu atlasın kavram katmanının neden ayrı bir tip olarak kurulduğunun dayanağıdır; kavram dosyasınd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1990'larda toplum bilimlerinin yeniden yapılandırılması üzerine bir komisyona başkanlık ettiğini ve komisyonun amacının önümüzdeki elli yıl için toplum ",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuramcının kariyerinin kurumlar ve ödüllerle kaydedilmesi, kuramların kurumsal ortamlarda üretildiğini gösteren bir başka örnektir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yakın dönemde aynı ölçekte çalışan bir tarihçi için tutulan kayıt, o yazarın kapitalistleri tekelciler olarak gördüğünü yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Önceki kuşağın yapısal kuramı için tutulan kayıt ise toplum biçimlerinin üretici gücün gelişimine göre yükselip düştüğü fikrini anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dünya sistemi kuramının içeriği, akademik kariyeri ve eleştirilerin ayrıntıları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler ola",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -21,6 +21,7 @@ ilgili:
   - aktor-varsova-pakti
   - olay-uzay-yarisi
   - olay-cernobil
+  - dusunur-carr
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

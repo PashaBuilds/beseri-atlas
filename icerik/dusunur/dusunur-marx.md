@@ -21,6 +21,7 @@ ilgili:
   - kavram-longue-duree
   - dusunur-polanyi
   - dusunur-weber
+  - dusunur-wallerstein
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

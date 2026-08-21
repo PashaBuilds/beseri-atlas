@@ -16,6 +16,7 @@ ilgili:
   - olay-pers-yunan-savaslari
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-sima-qian
+  - dusunur-carr
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,0 +1,67 @@
+{
+  "id": "dusunur-arendt",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:19:08.650Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onu 1906-1975 arasında yaşamış, yirminci yüzyılın en etkili siyaset filozoflarından biri olarak kaydeder ve bir Alman-Yahudi ailede doğduğunu yazar.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın nitelemesi hem bir yüzyıl kaydı hem bir çoğul kaydı taşır: yirminci yüzyıl ve en etkililerden biri.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir üstünlük ifadesinin iki koşulla birden sınırlandırılması, atlasın bu tür ifadeleri neden kaynağın koyduğu koşullarla birlikte taşıdığının bir başka örneğidi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, doğduğu ailenin niteliğini bir sıfat olarak değil bir bağlam kaydı olarak verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir düşünürün ailesinin dinsel ve ulusal aidiyetinin ansiklopedi maddesinin ilk cümlelerinde yer alması, o yüzyılın siyasi tarihinin biyografiye girdiğini göste",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir düşünürün ailesinin dinsel ve ulusal aidiyetinin ansiklopedi maddesinin ilk cümlelerinde yer alması, o yüzyılın siyasi tarihinin biyografiye girdiğini göste",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yüzyılın bir başka siyaset yazarı için tutulan kayıt, mesleğini dört ayrı sıfatla verir: tarihçi, diplomat, uluslararası ilişkiler kuramcısı ve gazeteci.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki kaydın da tek bir meslek ya da tek bir konum vermemesi, yirminci yüzyıl siyaset düşüncesinin akademik kürsülerden ibaret olmadığını gösteren bir kayıt örünt",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki kaydın da tek bir meslek ya da tek bir konum vermemesi, yirminci yüzyıl siyaset düşüncesinin akademik kürsülerden ibaret olmadığını gösteren bir kayıt örünt",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Totalitarizm çözümlemesi, kamusal alan kuramı, eylem ve emek ayrımı ile yargılama üzerine yazıları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunlar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

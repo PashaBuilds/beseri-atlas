@@ -1,0 +1,67 @@
+{
+  "id": "dusunur-carr",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:19:08.686Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onu 28 Haziran 1892'de Londra'da doğmuş, 3 Kasım 1982'de Londra'da ölmüş biri olarak kaydeder ve mesleğini dört sıfatla verir: tarihçi, diplomat, uluslar",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "adlı kitabında radikal tarih yazımı ilkelerini ortaya koyması.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kişinin hem bir devletin çok ciltli tarihini yazması hem o tarihin nasıl yazılacağına dair bir kitap kaleme alması, atlasın kaynak ile yöntem dosyalarını n",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bölüm başlıklarını sıralar: erken hayat, diplomatik kariyer, uluslararası ilişkiler akademisyeni, İkinci Dünya Savaşı, Soğuk Savaş, Sovyet Rusya tarihi v",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İkinci, Dünya, Savaşı, Soğuk"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir biyografinin savaş ve savaş sonrası dönemlerle bölümlenmesi, bu atlasın düşünür dosyalarını neden dönem dosyalarına bağladığının bir başka örneğidir; yazdığ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir biyografinin savaş ve savaş sonrası dönemlerle bölümlenmesi, bu atlasın düşünür dosyalarını neden dönem dosyalarına bağladığının bir başka örneğidir; yazdığ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kitabın adına ayrı bir bölüm ayırır ve bir dergi makalesine atıfla tarihsel gerçekçilik nitelemesini kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir tarih yöntemi kitabının bir ansiklopedi maddesinde kendi bölümünü taşıması, tarih yazımının kendisinin de bir kayıt konusu olduğunu gösterir; en eski örneği",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yüzyılın bir başka siyaset yazarı için tutulan kayıt, onu 1906-1975 arasına yerleştirir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Diplomatik kariyeri, uluslararası ilişkiler kuramına katkısı ve Sovyet tarihinin içeriği burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı böl",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sovyet"
+    }
+  ]
+}

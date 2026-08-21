@@ -1,0 +1,28 @@
+{
+  "id": "kavram-dunya-sistemi",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:19:09.249Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kavram, iktisadi ve siyasi çözümlemenin biriminin tek tek devletler değil bunları kapsayan bir bütün olduğu kurguya verilen addır. Kaynak terimler ve tanımlar başlığı altında beş a",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki kurgunun da tek tek devletlerin üstünde bir birim araması,[^k2] atlasın kavram katmanında bu iki dosyayı yan yana tutmasının gerekçesidir; zaman ölçeği tarafı [Longue durée](/k",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Böyle bir serinin tek bir birim olarak tutulabilmesi,[^k3] küresel ölçekli kurguların veri düzeyinde de bir karşılığı olduğunu gösterir; atlas bu karşılığın kuramı doğruladığını sö",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

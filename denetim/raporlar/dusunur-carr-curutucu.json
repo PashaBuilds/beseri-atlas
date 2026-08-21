@@ -1,0 +1,14 @@
+{
+  "id": "dusunur-carr",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:19:09.247Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir tarih yöntemi kitabının bir ansiklopedi maddesinde kendi bölümünü taşıması, [^k1] tarih yazımının kendisinin de bir kayıt konusu olduğunu gösterir; en eski örneği [Herodotos](/",
+      "sorun": "\"en eski\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

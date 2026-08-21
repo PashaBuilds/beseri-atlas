@@ -19,6 +19,7 @@ ilgili:
   - olay-cin-devrimi-1949
   - aktor-japonya-imparatorlugu
   - olay-ispanya-ic-savasi
+  - dusunur-arendt
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
