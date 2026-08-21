@@ -15,6 +15,7 @@ ilgili:
   - dusunur-kant
   - kavram-birincil-kaynak
   - dusunur-hegel
+  - kaynak-hegel-gorungubilim
 okuma_onerisi: []
 yazar: "Immanuel Kant"
 eser_adi: "Kritik der reinen Vernunft"

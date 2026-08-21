@@ -18,6 +18,7 @@ ilgili:
   - dusunur-marx
   - kavram-sivil-toplum
   - kaynak-kant-elestiri
+  - kaynak-hegel-gorungubilim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

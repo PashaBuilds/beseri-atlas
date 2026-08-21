@@ -27,6 +27,7 @@ ilgili:
   - kavram-ilkel-birikim
   - tartisma-fransiz-devrimi-yorumlari
   - kaynak-marx-kapital
+  - kaynak-hegel-gorungubilim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

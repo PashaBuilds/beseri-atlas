@@ -1,0 +1,61 @@
+{
+  "id": "kaynak-malthus-nufus",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:45:20.011Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eser için ayrı bir bölüm açar ve altında baskılar ile sürümler diye bir alt başlık tutar; yazarı 1766-1834 arasına yerleştirir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, ikinci ve sonraki baskılarda alt sınıfların yoksulluğunu hafifletmenin en iyi yolu olarak ahlaki kısıtlamaya daha fazla vurgu yapıldığını; birinci baskı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, nüfus ile iktisat arasındaki ilişki hakkında şunu yazdığını kaydeder: emekçi nüfusu gıda üretiminden hızlı büyüdüğünde gerçek ücretler düşer; aile geçin",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu zinciri bir olgu olarak değil, kaynağın aktardığı bir model olarak taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kavram dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Nüfus artış hızı serisinde sağlayıcının toplam satırı 1950 için yüzde 1,738, 2023 için yüzde 0,871 verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu seriyi modelin çürütülmesi olarak sunmaz: model belirli koşullar altında bir sonuç öngörür, seri ise yalnızca artış hızını verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu seriyi modelin çürütülmesi olarak sunmaz: model belirli koşullar altında bir sonuç öngörür, seri ise yalnızca artış hızını verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

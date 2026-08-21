@@ -1,0 +1,55 @@
+{
+  "id": "kaynak-hegel-gorungubilim",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:45:19.964Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın 1806 sonunda ilk büyük eserini tamamladığını ve eserin 1807'de yayımlandığını yazar; eserin daha önceki, görünüşte daha Schellingci yaklaşımında",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Schelling'in eserin önsözündeki iğneli bir eleştiriyi kendisine yönelik yorumladığını ve dostluklarının aniden sona erdiğini yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir metnin önsözünün bir ilişkiyi bitirmesi, atlasın şu kuralının dayanağıdır: bu esere yapılan atıflar, önsöz ile ana metnin ayrı ayrı belirtilmesini gerektiri",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, elyazmasını tamamlarken Napolyon'un birliklerinin Jena'yı işgalinin üniversitenin faaliyetlerini kısıtladığını ve yazarın oradan ayrıldığını yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İlgili savaşlar dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak okumaları şöyle adlandırır: geleneksel metafizik görüş, kimi zaman metafizik olmayan görüş de denen Kant sonrası görüş ve Kant sonrası görüşe karşı gözde",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Okumalardan birinin adını aldığı düşünür dosyasında, eseri ise dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

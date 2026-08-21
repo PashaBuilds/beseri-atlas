@@ -1,0 +1,14 @@
+{
+  "id": "kaynak-hegel-gorungubilim",
+  "gecis": 3,
+  "zaman": "2026-08-21T11:45:20.656Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, yazarın 1806 sonunda ilk büyük eserini tamamladığını ve eserin 1807'de yayımlandığını yazar; eserin daha önceki, görünüşte daha Schellingci yaklaşımından bir ayrışma göster",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -13,6 +13,7 @@ ilgili:
   - dusunur-malthus
   - kavram-demografik-gecis
   - olay-irlanda-kitligi
+  - kaynak-malthus-nufus
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
