@@ -17,6 +17,7 @@ ilgili:
   - olay-fransiz-devrimi
   - olay-1848-devrimleri
   - olay-napolyon-savaslari
+  - olay-kirim-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

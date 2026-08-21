@@ -34,6 +34,8 @@ ilgili:
   - aktor-etiyopya-imparatorlugu
   - olay-amerikan-ic-savasi
   - olay-afyon-savaslari
+  - olay-irlanda-kitligi
+  - olay-kirim-savasi
 okuma_onerisi: []
 serit:
   - bolge: afrika

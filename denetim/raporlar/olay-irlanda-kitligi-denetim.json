@@ -1,0 +1,61 @@
+{
+  "id": "olay-irlanda-kitligi",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:41:18.094Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu kıtlığın referans maddesi, bir doğa olayının değil bir yönetim sorununun bölümlemesini taşır: gıda ihracatı, hayır yardımı, tahliye, göç ve ölü sayısı ayrı a",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kıtlık maddesinde gıda ihracatının ayrı bir bölüm olarak yer alması, olayın yalnızca bir üretim düşüşü olarak anlatılmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı bölümlemede tahliyenin de kendi başlığını taşıması, mülkiyet ilişkilerinin olayın parçası sayıldığını kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, hükümetin rolünün çözümlenmesini ayrı bir bölüm olarak ele alır ve bunu çağdaş çözümleme, tarihsel çözümleme, Britanya hükümetinin konumu ve soykırım ba",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir olayın referans kaydında hem çağdaş hem tarihsel çözümlemenin ayrı ayrı verilmesi, değerlendirmenin zaman içinde değiştiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ölü sayısının kendi bölümünü taşıması, bu sayının tartışmalı olduğunun kurumsal işaretidir; yöntem haritasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Olayın gerçekleştiği düzen, dominyonlar, sömürgeler, himayeler, mandalar ve diğer toprakları kapsayan Britanya İmparatorluğu'ydu.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kıtlığın biyolojik nedeni, yıl yıl seyri, yardım programları ve kıtlık sonrası dönem burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümle",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

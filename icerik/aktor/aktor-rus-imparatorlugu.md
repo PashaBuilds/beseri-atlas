@@ -18,6 +18,7 @@ ilgili:
   - aktor-avusturya-macaristan
   - olay-1905-rus-devrimi
   - olay-yedi-yil-savasi
+  - olay-kirim-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

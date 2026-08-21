@@ -18,6 +18,7 @@ ilgili:
   - olay-1857-hint-ayaklanmasi
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - olay-afyon-savaslari
+  - olay-irlanda-kitligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

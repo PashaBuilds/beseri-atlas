@@ -1,0 +1,67 @@
+{
+  "id": "olay-kirim-savasi",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:41:18.149Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Savaşın sonu, bir askerî çöküşten çok bir yalıtılma hesabıyla gelir: diplomatik olarak yalıtılmış ve savaş sürerse batıdan işgal olasılığıyla karşı karşıya kala",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayıt, karşı tarafın da isteksizliğini not eder: Fransa ve Britanya, çatışmanın iç kamuoyundaki popülersizliği nedeniyle bu gelişmeyi memnuniyetle karşılad",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Her iki tarafın da savaşı sürdürmek istememesi, savaşın sonunu bir zafer değil bir uzlaşı yapar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "30 Mart 1856'da imzalanan Paris Antlaşması savaşı sona erdirdi ve Rusya'nın savaş gemisi bulundurmasını yasakladı.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir barış antlaşmasının yenilen tarafa donanma yasağı getirmesi, barışın askerî kapasiteyi kalıcı olarak sınırlayan bir araç olarak kullanıldığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Savaş, Viyana Kongresi düzenlemesinin doğurduğu ve siyasi sınırların korunmasını, güç dengesini ve nüfuz alanlarına saygıyı vurgulayan Avrupa Ahengi'nin içinde ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı kaynak, Viyana Kongresi'nin Kırım Savaşı'nı çözen 1856 barış konferansına ilham kaynağı olduğunu kaydeder.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir düzenin, kendi ürettiği savaşı yine kendi usulüyle kapatması, o düzenin dayanıklılığının ölçüsüdür; düzen dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yaklaşık 1,82 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaşın nedenleri, cephelerin seyri, sağlık hizmetlerindeki değişim ve antlaşmanın diğer maddeleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunlar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

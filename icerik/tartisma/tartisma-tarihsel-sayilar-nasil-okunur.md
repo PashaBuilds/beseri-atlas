@@ -38,6 +38,7 @@ ilgili:
   - olay-kultur-devrimi
   - olay-covid-19-pandemisi
   - olay-atlantik-kole-ticareti
+  - olay-irlanda-kitligi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

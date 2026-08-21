@@ -1385,7 +1385,7 @@ isler:
   - id: olay-kirim-savasi
     tip: olay
     baslik: Kırım Savaşı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-12
@@ -1403,7 +1403,7 @@ isler:
   - id: olay-irlanda-kitligi
     tip: olay
     baslik: İrlanda Kıtlığı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-12
