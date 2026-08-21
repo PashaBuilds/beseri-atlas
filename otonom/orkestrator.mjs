@@ -275,11 +275,18 @@ async function dongu(secilenFaz = null) {
   // Boş kuyruk "faz bitti" DEMEK DEĞİLDİR — kuyruk henüz doldurulmamış olabilir.
   // Bu ayrım olmadan hat, hiçbir şey üretmeden "tüm fazlar tamamlandı" diyebilir.
   const kapsam = kapsamOku();
-  const fazIsleri = isler.filter((i) => i.faz === d.aktif_faz);
-  if (fazIsleri.length === 0 && kapsam[d.aktif_faz]?.length) {
+  // Kuyruk, kapsamla HER TURDA eşitlenir. Eskiden yalnızca kuyruk tamamen
+  // boşken doldurulurdu; kapsam sonradan genişletildiğinde yeni işler asla
+  // kuyruğa girmiyor, orkestratör de "hedef tutmadi" deyip sonsuza kadar
+  // duruyordu. `kuyrugaEkle` zaten var olan id'leri atlıyor, bu yüzden
+  // koşulsuz çağrı güvenlidir.
+  const oncekiSayi = isler.length;
+  if (kapsam[d.aktif_faz]?.length) {
     isler = kuyrugaEkle(isler, d.aktif_faz, kapsam[d.aktif_faz]);
-    kuyrukYaz(isler);
-    console.log(RENK.yesil(`\nFaz ${d.aktif_faz} kuyrugu dolduruldu: ${kapsam[d.aktif_faz].length} is\n`));
+    if (isler.length > oncekiSayi) {
+      kuyrukYaz(isler);
+      console.log(RENK.yesil(`\nFaz ${d.aktif_faz} kuyruguna ${isler.length - oncekiSayi} yeni is eklendi\n`));
+    }
   }
 
   const parti = sonrakiParti(isler, d.aktif_faz);
