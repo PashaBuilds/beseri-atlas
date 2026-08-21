@@ -24,6 +24,7 @@ ilgili:
   - olay-2008-finansal-krizi
   - olay-iran-devrimi-1979
   - olay-berlin-duvarinin-yikilisi
+  - olay-11-eylul
 okuma_onerisi: []
 serit:
   - bolge: kuresel

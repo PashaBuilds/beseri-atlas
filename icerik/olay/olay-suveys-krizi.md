@@ -17,6 +17,7 @@ ilgili:
   - olay-bandung-konferansi
   - olay-1973-petrol-krizi
   - olay-kuba-fuze-krizi
+  - olay-11-eylul
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

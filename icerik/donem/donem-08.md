@@ -30,6 +30,7 @@ ilgili:
   - aktor-inka-imparatorlugu
   - aktor-memluk-devleti
   - olay-ronesans
+  - aktor-majapahit
 okuma_onerisi: []
 serit:
   - bolge: avrupa

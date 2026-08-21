@@ -1,0 +1,67 @@
+{
+  "id": "olay-11-eylul",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:47:08.500Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu olayın referans maddesi, saldırının anlatımından önce bir hazırlık bölümü taşır ve o bölümün alt başlıkları arasında planlama ile \"önceki istihbarat\" yer alı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir saldırının referans kaydında, saldırıdan önce elde bulunan bilginin ayrı bir alt başlık olarak ele alınması, olayın yalnızca bir eylem değil bir öngörülebil",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı bölümde güdüler ayrı bir alt başlık olarak verilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak saldırıyı çarpışmalar, kayıplar, hasar ve kurtarma çalışmaları olarak dörde ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayıpların ve kurtarma çalışmalarının ayrı ayrı sayılması, olayın bilanço ile müdahalenin ayrı ölçüldüğü bir kayıt biçimine sahip olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tepkiler bölümü acil yanıt ve iç tepkiler alt başlıklarını taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir olayın tepki bölümünün coğrafi olarak bölünmesi, sonuçlarının farklı ölçeklerde ölçüldüğünü gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Olayın gerçekleştiği dönemin küresel kurumsal çerçevesi, ana organları arasında Güvenlik Konseyi bulunan ve üyeliği 193 üye devlet ile 2 gözlemci devletten oluş",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 2008'de yaklaşık 6,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Saldırının seyri, failleri, sonrasındaki askerî harekâtlar ve güvenlik mevzuatındaki değişiklikler burada ayrı başlıklar altında ele alınmamıştır; kaynak bunlar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -27,6 +27,7 @@ ilgili:
   - aktor-aksum-kralligi
   - aktor-maya-uygarligi
   - aktor-gupta-imparatorlugu
+  - aktor-hun-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: avrupa

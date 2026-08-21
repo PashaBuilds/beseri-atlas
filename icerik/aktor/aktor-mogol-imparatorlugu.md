@@ -17,6 +17,7 @@ ilgili:
   - olay-mogol-fetihleri
   - aktor-song-hanedani
   - aktor-memluk-devleti
+  - aktor-majapahit
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

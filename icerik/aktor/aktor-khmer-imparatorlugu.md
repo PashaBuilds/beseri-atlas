@@ -16,6 +16,7 @@ ilgili:
   - donem-07
   - tartisma-tunc-cagi-cokusunun-nedeni
   - olay-kara-olum
+  - aktor-majapahit
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

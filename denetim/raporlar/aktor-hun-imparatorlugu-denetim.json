@@ -1,0 +1,61 @@
+{
+  "id": "aktor-hun-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:45:23.091Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu konfederasyonun tarihi, kaynağın kendisinde tek bir kişinin adıyla üçe bölünür: Attila'dan önce, Attila döneminde ve Attila'dan sonra.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir siyasi yapının bütün tarihinin tek bir hükümdarın adıyla bölümlenmesi, kayıt tabanının o kişi etrafında yoğunlaştığını gösterir: öncesi ve sonrası, ona göre",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak yaşam biçimi ve ekonomiyi dört alt başlıkla verir: pastoral göçebelik, atlar ve ulaşım, Romalılarla iktisadi ilişkiler ve İpek Yolu bağlantıları.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Romalılarla, İpek, Yolu"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir bozkır konfederasyonunun referans maddesinde ticaret bağlantılarının ayrı başlıklar taşıması, onu yalnızca askerî bir güç olarak okumayı zorlaştırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, fiziksel görünüm ve genetiği de ayrı başlıklar olarak ele alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir halkın referans maddesinde bu iki başlığın bulunması, kimlik sorusunun yazılı kayıt dışındaki yöntemlerle de araştırıldığını gösterir; atlas bu araştırmalar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kavimler Göçü'nün başlangıcı yaygın olarak Hunların yaklaşık 375'te Asya'dan Avrupa'ya girmesi sayılır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu MS 200 için yaklaşık 240,8 milyon, MS 600 için yaklaşık 271,6 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kökenleri, askerî örgütlenmesi, Roma ile savaşları ve dağılma süreci burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

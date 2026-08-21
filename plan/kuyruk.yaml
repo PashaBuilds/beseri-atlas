@@ -1232,7 +1232,7 @@ isler:
   - id: aktor-majapahit
     tip: aktor
     baslik: Majapahit
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-08
@@ -1277,7 +1277,7 @@ isler:
   - id: aktor-hun-imparatorlugu
     tip: aktor
     baslik: Hun İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-05
@@ -1493,7 +1493,7 @@ isler:
   - id: olay-11-eylul
     tip: olay
     baslik: 11 Eylül saldırıları
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-15

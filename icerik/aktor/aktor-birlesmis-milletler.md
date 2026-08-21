@@ -19,6 +19,7 @@ ilgili:
   - aktor-avrupa-birligi
   - aktor-imf
   - aktor-cin-halk-cumhuriyeti
+  - olay-11-eylul
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
