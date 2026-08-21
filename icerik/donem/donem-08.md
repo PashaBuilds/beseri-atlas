@@ -23,6 +23,8 @@ ilgili:
   - olay-cheng-ho-seferleri
   - olay-istanbulun-fethi
   - aktor-ming-hanedani
+  - aktor-hansa-birligi
+  - aktor-mali-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: avrupa

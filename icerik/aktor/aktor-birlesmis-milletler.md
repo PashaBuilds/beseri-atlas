@@ -18,6 +18,7 @@ ilgili:
   - olay-kuba-fuze-krizi
   - aktor-avrupa-birligi
   - aktor-imf
+  - aktor-cin-halk-cumhuriyeti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

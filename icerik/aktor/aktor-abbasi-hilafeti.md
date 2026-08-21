@@ -17,6 +17,7 @@ ilgili:
   - aktor-buyuk-selcuklu
   - olay-islam-fetihleri
   - olay-talas-savasi
+  - aktor-mali-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -23,6 +23,7 @@ ilgili:
   - aktor-qing-hanedani
   - olay-ingiliz-ic-savasi
   - olay-yedi-yil-savasi
+  - aktor-hollanda-doguhindistan-sirketi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

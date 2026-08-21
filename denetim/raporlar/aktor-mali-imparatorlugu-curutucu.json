@@ -1,0 +1,21 @@
+{
+  "id": "aktor-mali-imparatorlugu",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:01:13.528Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak yönetim biçimini tek bir kelimeyle vermez: kalıtsal, parlamenter ve seçimli monarşi.[^k1] Meclisin adı Gbara'dır.[^k1]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak 1500 yılı için 400.000 kilometrekarelik bir alan verir.[^k1] Bu, tek bir yıla ait tek bir ölçümdür; imparatorluğun üç yüz yetmiş beş yıllık ömrü boyunca bu değerin nasıl değ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

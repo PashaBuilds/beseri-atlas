@@ -29,6 +29,7 @@ ilgili:
   - aktor-birlesmis-milletler
   - aktor-imf
   - aktor-dunya-bankasi
+  - aktor-cin-halk-cumhuriyeti
 okuma_onerisi: []
 serit:
   - bolge: avrupa

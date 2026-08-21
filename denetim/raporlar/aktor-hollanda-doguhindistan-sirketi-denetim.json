@@ -1,0 +1,61 @@
+{
+  "id": "aktor-hollanda-doguhindistan-sirketi",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:00:49.899Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Şirket 1602-1799 arasında faaliyet gösteren bir Hollanda ticaret şirketiydi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şirketin selefleri, 1594-1602 arasında faaliyet gösteren voorcompagnieën yani ön-şirketlerdir; bunlar arasında Compagnie van Verre, Brabantsche Compagnie ve Com",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın ön-şirketleri 1594-1602 arasına yerleştirmesi 1602'nin bir kuruluş değil bir birleşme olduğunu gösterir: birbiriyle rekabet eden şirketler tek bir yapı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak şirketin akıbetini açıkça kaydeder: feshedildi ve Hollanda Doğu Hint Adaları olarak millîleştirildi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yıllarda kurulan rakip şirketin girişimcileri 31 Aralık 1600'de toplanmıştı ve yatırımcılar yaklaşık yüzde 5.000'lik bir getiri elde etmişti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaynak, rakip şirketin tarihini tekel kurma, tekelin dayanağı ve tasfiye başlıkları altında ele alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Rakibin 1600'de, bu şirketin 1602'de kurulması, dönemin denizaşırı ticaretinin neden bir şirketler yarışı biçiminde örgütlendiğini gösterir; rakip dosyasında el",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Rakibin 1600'de, bu şirketin 1602'de kurulması, dönemin denizaşırı ticaretinin neden bir şirketler yarışı biçiminde örgütlendiğini gösterir; rakip dosyasında el",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1600'de yaklaşık 516,1 milyon, 1790'da yaklaşık 942,3 milyondur.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

@@ -16,6 +16,7 @@ ilgili:
   - donem-14
   - aktor-qing-hanedani
   - olay-ikinci-dunya-savasi
+  - aktor-cin-halk-cumhuriyeti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

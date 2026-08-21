@@ -27,6 +27,7 @@ ilgili:
   - olay-iskender-seferleri
   - olay-pon-savaslari
   - olay-roma-cumhuriyetinin-sonu
+  - olay-han-hanedani-kurulusu
 okuma_onerisi: []
 serit:
   - bolge: dogu-asya

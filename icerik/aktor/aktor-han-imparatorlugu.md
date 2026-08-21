@@ -15,6 +15,7 @@ etiketler: [han, cin, xiongnu, ipek-yolu, zhang-qian]
 ilgili:
   - donem-04
   - aktor-roma-imparatorlugu
+  - olay-han-hanedani-kurulusu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

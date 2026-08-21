@@ -17,6 +17,7 @@ ilgili:
   - olay-amerikanin-kesfi
   - olay-otuz-yil-savaslari
   - tartisma-imparatorluk-siniri-nasil-cizilir
+  - aktor-hollanda-doguhindistan-sirketi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

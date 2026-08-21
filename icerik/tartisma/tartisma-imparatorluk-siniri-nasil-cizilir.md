@@ -30,6 +30,8 @@ ilgili:
   - olay-vestfalya-barisi
   - aktor-ispanyol-imparatorlugu
   - aktor-britanya-imparatorlugu
+  - aktor-hansa-birligi
+  - aktor-mali-imparatorlugu
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

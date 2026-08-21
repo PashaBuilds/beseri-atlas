@@ -1,0 +1,14 @@
+{
+  "id": "aktor-hollanda-doguhindistan-sirketi",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:00:50.307Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynağın ön-şirketleri 1594-1602 arasına yerleştirmesi[^k1] 1602'nin bir kuruluş değil bir birleşme olduğunu gösterir: birbiriyle rekabet eden şirketler tek bir yapıda toplanmıştır",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -4,24 +4,24 @@ _Üretim tarihi: 2026-08-21 · Bu dosya `npm run rapor` ile ölçümlerden üret
 
 ## Kapsam
 
-Üretilen: **113** | Onaylanan: **113** | Karantinada: **0**
+Üretilen: **118** | Onaylanan: **118** | Karantinada: **0**
 
 Planlanan tam kapsam **228** makaledir; bu raporun yazıldığı anda
-**%49.6**'i yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
+**%51.8**'i yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
 birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 
 | Tip | Yayımlanan |
 |---|---|
-| aktor | 34 |
+| aktor | 38 |
 | donem | 16 |
 | dusunur | 1 |
 | kavram | 2 |
 | kaynak | 1 |
-| olay | 51 |
+| olay | 52 |
 | tartisma | 7 |
 | veri | 1 |
 
-Toplam gövde: **46.368** kelime.
+Toplam gövde: **47.793** kelime.
 
 ## Doğrulama
 
@@ -29,10 +29,10 @@ Toplam gövde: **46.368** kelime.
 Nihai skor: **1** (13 ölçülen değer: 13 doğrulandı, 0 çelişki)
 Ham skor: **0.4643** (28 değerlik örneklem, 15 değer bağımsız olarak türetilemedi)
 
-Geçiş 2 (kaynak denetimi): 1014 OK · 4 ISARET · 0 HATA · 444 programatik olarak ölçülemedi
-Kaynak doğrulama oranı: **0.998**
-Makale başına ortalama kaynak: **3.24**
-Çürütücünün ürettiği itiraz adayı: **213**
+Geçiş 2 (kaynak denetimi): 1050 OK · 4 ISARET · 0 HATA · 452 programatik olarak ölçülemedi
+Kaynak doğrulama oranı: **0.9981**
+Makale başına ortalama kaynak: **3.23**
+Çürütücünün ürettiği itiraz adayı: **217**
 Çapraz tutarlılık çelişkisi: **0**
 
 ### İki skorun anlamı
@@ -93,15 +93,7 @@ hatalı kaynağa dayanıyorsa ikisi de aynı yanlışa varır.
 ## Hattın durduğu nokta
 
 Aktif faz: **2** · Aktif parti: **B01**
-Kuyrukta bekleyen iş: **5** · Karantinada: **0**
+Kuyrukta bekleyen iş: **0** · Karantinada: **0**
 Harcanan bütçe: 1.320.000 / 40.000.000 token
 
-### Neden burada duruyor
-
-Hat bir kapı kırılması ya da durdurma kuralı nedeniyle durmadı:
-bütün kapılar geçildi, örnekleme kapısı eşiğin üzerinde ve karantinada
-makale yok. Kuyrukta bekleyen iş, henüz üretilmemiş içeriktir.
-
-`npm run otonom` yeniden çalıştırıldığında hat `DURUM.md` ile
-`plan/kuyruk.yaml`yi okuyup sıradaki partiden devam eder; üretilmiş
-hiçbir iş tekrarlanmaz.
+Kuyrukta bekleyen iş kalmadı.

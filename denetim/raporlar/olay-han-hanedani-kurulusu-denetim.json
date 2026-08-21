@@ -1,0 +1,67 @@
+{
+  "id": "olay-han-hanedani-kurulusu",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:00:49.726Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Hanedanın ilk imparatoru Gaozu'dur ve hükümdarlığı MÖ 202-195 arasına tarihlenir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, hükümdar listesinin yanında ayrı bir şansölye listesi de tutar: ilk şansölye Xiao He'dir ve görevi MÖ 206-193 arasındadır; ardından MÖ 193-190 arasında ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki tarihin sırası dikkat çekicidir: kaynağa göre şansölyenin görevi MÖ 206'da, imparatorunki MÖ 202'de başlar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı liste hanedanın bütün ömrünü kapsar: MÖ 141-87 arasında İmparator Wu, MÖ 74-48 arasında İmparator Xuan, MS 25-57 arasında İmparator Guangwu ve MS 189-220 a",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Son şansölyeler de kaydedilmiştir: MS 189-192 arasında Dong Zhuo, MS 208-220 arasında Cao Cao ve MS 220'de Cao Pi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ortak dil Eski Çince, dinler ise Çin halk dini, Taoizm ve Budizm olarak kaydedilir; yönetim biçimi monarşidir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Eski, Çince, Çin, Taoizm"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hanedanın çözülmesi bir dış istiladan çok bir iç çekişmeyle anlatılır: imparatorluk otoritesi, Sarı Sarıklılar İsyanı'nı ve Beş Ölçek Pirinç İsyanı'nı kışkırtan",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İmparator Ling'in hükümdarlığı MS 168-189 arasındadır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yüzyıllarda batıda Roma Cumhuriyeti MÖ 509 ile MÖ 27 arasına, imparatorluk dönemi ise MÖ 27 ile MS 286 arasına yerleştirilir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu MÖ 1000 için yaklaşık 110,5 milyon, MS 200 için yaklaşık 240,8 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

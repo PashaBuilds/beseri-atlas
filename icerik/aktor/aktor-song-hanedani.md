@@ -18,6 +18,7 @@ ilgili:
   - aktor-mogol-imparatorlugu
   - olay-cheng-ho-seferleri
   - aktor-qing-hanedani
+  - aktor-hansa-birligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

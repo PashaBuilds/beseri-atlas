@@ -17,6 +17,7 @@ ilgili:
   - olay-1857-hint-ayaklanmasi
   - olay-hindistan-bolunmesi
   - aktor-britanya-imparatorlugu
+  - aktor-hollanda-doguhindistan-sirketi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

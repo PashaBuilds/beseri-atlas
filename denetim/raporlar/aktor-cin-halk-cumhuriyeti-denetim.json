@@ -1,0 +1,55 @@
+{
+  "id": "aktor-cin-halk-cumhuriyeti",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:00:49.792Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak sonucu üç maddede toplar: komünist zafer, Çin Halk Cumhuriyeti'nin ilanı ve Çin Cumhuriyeti hükümetinin Tayvan'a çekilmesi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üçüncü maddenin ayrı yazılması belirleyicidir: yenilgiye uğrayan hükümet dağılmadı, yer değiştirdi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Süreç 1 Ağustos 1927 – 1 Ekim 1949 arasına yerleştirilir ve kaynağın kendi bölümlemesinde üç evre taşır: ayaklanmalar ve Çin Sovyeti, İkinci Çin-Japon Savaşı il",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak devrimi hem Çin İç Savaşı'nın hem de Soğuk Savaş'ın parçası olarak sınıflandırır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin, Savaşı, Soğuk, Savaş"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Soğuk Savaş 1947 ile 1991 arasındaki jeopolitik rekabeti anlatır ve kırk dört yıl dokuz ay sürmüştür.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1949'daki kuruluş ile 1947'de başlayan rekabetin örtüşmesi, yeni devletin doğduğu anda zaten iki kutuplu bir düzenin içinde olduğunu gösterir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "1949'daki kuruluş ile 1947'de başlayan rekabetin örtüşmesi, yeni devletin doğduğu anda zaten iki kutuplu bir düzenin içinde olduğunu gösterir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyar, 2008'de yaklaşık 6,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

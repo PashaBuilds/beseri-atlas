@@ -292,7 +292,7 @@ isler:
   - id: olay-han-hanedani-kurulusu
     tip: olay
     baslik: Han hanedanının kuruluşu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-04
@@ -832,7 +832,7 @@ isler:
   - id: aktor-mali-imparatorlugu
     tip: aktor
     baslik: Mali İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-07
@@ -841,7 +841,7 @@ isler:
   - id: aktor-hansa-birligi
     tip: aktor
     baslik: Hansa Birliği
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-08
@@ -886,7 +886,7 @@ isler:
   - id: aktor-hollanda-doguhindistan-sirketi
     tip: aktor
     baslik: Hollanda Doğu Hindistan Şirketi
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-10
@@ -1012,7 +1012,7 @@ isler:
   - id: aktor-cin-halk-cumhuriyeti
     tip: aktor
     baslik: Çin Halk Cumhuriyeti
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-16
