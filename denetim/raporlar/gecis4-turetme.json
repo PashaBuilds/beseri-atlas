@@ -1,287 +1,249 @@
 {
   "gecis": 4,
-  "zaman": "2026-08-21T06:31:03.568Z",
+  "zaman": "2026-08-21T13:12:06.240Z",
   "birim": "deger",
   "skor": 1,
-  "ham_skor": 0.4643,
-  "olculen": 13,
-  "toplam_ornek": 28,
-  "dogrulanan": 13,
+  "ham_skor": 0.2759,
+  "olculen": 8,
+  "toplam_ornek": 29,
+  "dogrulanan": 8,
   "isaret": 0,
   "hata": 0,
-  "turetilemedi": 15,
+  "turetilemedi": 21,
   "soru_dagilimi": {
-    "ok": 9,
-    "kismi": 3,
+    "ok": 2,
+    "kismi": 6,
     "celiski": 0,
-    "turetilemedi": 8,
+    "turetilemedi": 12,
     "cevapsiz": 0
   },
   "aciklama": "Puanlama birimi DEGER. skor = dogrulandi / (dogrulandi + celisti). ham_skor = dogrulandi / butun ornek degerleri (olculemeyenler basarisiz sayilarak). Olculemeyen deger, celiski DEGILDIR: orandan dusulur ama raporda gizlenmez.",
   "deger_sonuclari": [
     {
       "no": 1,
-      "makale": "aktor-abbasi-hilafeti",
-      "deger": "1040",
-      "sinif": "dogrulandi",
-      "kaynak_alan": "en.wikisource.org"
-    },
-    {
-      "no": 1,
-      "makale": "aktor-abbasi-hilafeti",
-      "deger": "1308",
+      "makale": "aktor-etiyopya-imparatorlugu",
+      "deger": "1589",
       "sinif": "olculemedi",
-      "kaynak_alan": "en.wikisource.org"
+      "kaynak_alan": null
     },
     {
       "no": 2,
-      "makale": "aktor-bizans-imparatorlugu",
-      "deger": "1453",
-      "sinif": "dogrulandi",
-      "kaynak_alan": "en.wikisource.org"
+      "makale": "kaynak-malthus-nufus",
+      "deger": "1950",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 2,
+      "makale": "kaynak-malthus-nufus",
+      "deger": "2023",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
     },
     {
       "no": 3,
-      "makale": "aktor-buyuk-selcuklu",
-      "deger": "1060",
+      "makale": "dusunur-arendt",
+      "deger": "1906",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "iep.utm.edu"
+    },
+    {
+      "no": 3,
+      "makale": "dusunur-arendt",
+      "deger": "1975",
       "sinif": "olculemedi",
-      "kaynak_alan": null
+      "kaynak_alan": "iep.utm.edu"
     },
     {
       "no": 4,
-      "makale": "aktor-ingiliz-doguhindistan-sirketi",
-      "deger": "1621",
-      "sinif": "olculemedi",
-      "kaynak_alan": null
-    },
-    {
-      "no": 4,
-      "makale": "aktor-ingiliz-doguhindistan-sirketi",
-      "deger": "1834",
+      "makale": "olay-1905-rus-devrimi",
+      "deger": "1917",
       "sinif": "olculemedi",
       "kaynak_alan": null
     },
     {
       "no": 5,
-      "makale": "aktor-karolenj-imparatorlugu",
-      "deger": "1258",
+      "makale": "aktor-cin-halk-cumhuriyeti",
+      "deger": "1947",
       "sinif": "dogrulandi",
-      "kaynak_alan": "en.wikisource.org"
+      "kaynak_alan": "avalon.law.yale.edu"
     },
     {
-      "no": 6,
-      "makale": "aktor-mogol-imparatorlugu",
-      "deger": "1206",
-      "sinif": "dogrulandi",
-      "kaynak_alan": "en.wikisource.org"
-    },
-    {
-      "no": 6,
-      "makale": "aktor-mogol-imparatorlugu",
-      "deger": "1260",
+      "no": 5,
+      "makale": "aktor-cin-halk-cumhuriyeti",
+      "deger": "1991",
       "sinif": "olculemedi",
-      "kaynak_alan": "en.wikisource.org"
+      "kaynak_alan": "avalon.law.yale.edu"
     },
     {
-      "no": 7,
-      "makale": "aktor-osmanli-imparatorlugu",
-      "deger": "1300",
+      "no": 6,
+      "makale": "veri-kentli-nufus-sayisi",
+      "deger": "2025",
       "sinif": "olculemedi",
       "kaynak_alan": null
     },
     {
       "no": 7,
-      "makale": "aktor-osmanli-imparatorlugu",
-      "deger": "1922",
-      "sinif": "olculemedi",
-      "kaynak_alan": null
+      "makale": "olay-taiping-isyani",
+      "deger": "1864",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "en.wikisource.org"
     },
     {
       "no": 8,
       "makale": "aktor-qing-hanedani",
       "deger": "1644",
-      "sinif": "olculemedi",
-      "kaynak_alan": null
+      "sinif": "dogrulandi",
+      "kaynak_alan": "en.wikisource.org"
     },
     {
       "no": 8,
       "makale": "aktor-qing-hanedani",
       "deger": "1912",
       "sinif": "olculemedi",
-      "kaynak_alan": null
+      "kaynak_alan": "en.wikisource.org"
     },
     {
       "no": 9,
-      "makale": "aktor-roma-imparatorlugu",
-      "deger": "1453",
+      "makale": "dusunur-hegel",
+      "deger": "1808",
       "sinif": "dogrulandi",
+      "kaynak_alan": "en.wikisource.org"
+    },
+    {
+      "no": 9,
+      "makale": "dusunur-hegel",
+      "deger": "1815",
+      "sinif": "olculemedi",
       "kaynak_alan": "en.wikisource.org"
     },
     {
       "no": 10,
-      "makale": "aktor-sasani-imparatorlugu",
-      "deger": "1453",
-      "sinif": "dogrulandi",
-      "kaynak_alan": "en.wikisource.org"
-    },
-    {
-      "no": 11,
-      "makale": "aktor-song-hanedani",
-      "deger": "1127",
+      "makale": "olay-paris-iklim-anlasmasi",
+      "deger": "2026",
       "sinif": "olculemedi",
       "kaynak_alan": null
     },
     {
       "no": 11,
-      "makale": "aktor-song-hanedani",
-      "deger": "1279",
-      "sinif": "olculemedi",
-      "kaynak_alan": null
-    },
-    {
-      "no": 12,
-      "makale": "aktor-sovyetler-birligi",
-      "deger": "1947",
-      "sinif": "dogrulandi",
-      "kaynak_alan": "avalon.law.yale.edu"
-    },
-    {
-      "no": 12,
-      "makale": "aktor-sovyetler-birligi",
-      "deger": "1953",
-      "sinif": "olculemedi",
-      "kaynak_alan": "avalon.law.yale.edu"
-    },
-    {
-      "no": 13,
       "makale": "aktor-sumer-sehir-devletleri",
       "deger": "1800",
       "sinif": "olculemedi",
       "kaynak_alan": null
     },
     {
-      "no": 14,
-      "makale": "aktor-tang-hanedani",
-      "deger": "1258",
-      "sinif": "dogrulandi",
+      "no": 12,
+      "makale": "olay-italyan-birligi",
+      "deger": "1859",
+      "sinif": "olculemedi",
       "kaynak_alan": "en.wikisource.org"
     },
     {
+      "no": 13,
+      "makale": "olay-yazinin-icadi",
+      "deger": "1990",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 14,
+      "makale": "veri-kentlesme-orani-1500-2023",
+      "deger": "1950",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 14,
+      "makale": "veri-kentlesme-orani-1500-2023",
+      "deger": "2025",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
       "no": 15,
-      "makale": "donem-01",
-      "deger": "1936",
+      "makale": "kavram-kamusal-alan",
+      "deger": "1906",
       "sinif": "dogrulandi",
-      "kaynak_alan": "openlibrary.org"
+      "kaynak_alan": "iep.utm.edu"
+    },
+    {
+      "no": 15,
+      "makale": "kavram-kamusal-alan",
+      "deger": "1975",
+      "sinif": "olculemedi",
+      "kaynak_alan": "iep.utm.edu"
     },
     {
       "no": 16,
-      "makale": "donem-02",
-      "deger": "2000",
+      "makale": "veri-dogurganlik-hizi-1950-2023",
+      "deger": "1950",
       "sinif": "olculemedi",
       "kaynak_alan": null
     },
     {
       "no": 17,
-      "makale": "donem-03",
-      "deger": "1200",
+      "makale": "veri-yasam-beklentisi-1770-2023",
+      "deger": "1800",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 17,
+      "makale": "veri-yasam-beklentisi-1770-2023",
+      "deger": "1820",
       "sinif": "olculemedi",
       "kaynak_alan": null
     },
     {
       "no": 18,
-      "makale": "donem-04",
-      "deger": "1953",
+      "makale": "tartisma-iklim-ve-cokus",
+      "deger": "1984",
       "sinif": "dogrulandi",
       "kaynak_alan": "openlibrary.org"
     },
     {
       "no": 19,
-      "makale": "donem-06",
-      "deger": "1258",
+      "makale": "veri-internet-kullanimi",
+      "deger": "2005",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 20,
+      "makale": "olay-ingiliz-ic-savasi",
+      "deger": "1635",
       "sinif": "dogrulandi",
       "kaynak_alan": "en.wikisource.org"
     },
     {
       "no": 20,
-      "makale": "donem-07",
-      "deger": "1206",
-      "sinif": "dogrulandi",
-      "kaynak_alan": "archive.org"
-    },
-    {
-      "no": 20,
-      "makale": "donem-07",
-      "deger": "1368",
-      "sinif": "dogrulandi",
-      "kaynak_alan": "archive.org"
+      "makale": "olay-ingiliz-ic-savasi",
+      "deger": "1648",
+      "sinif": "olculemedi",
+      "kaynak_alan": "en.wikisource.org"
     }
   ],
   "sonuclar": [
     {
       "no": 1,
-      "makale": "aktor-abbasi-hilafeti",
-      "anahtar": "k3",
-      "iddia": "Selçuklular, Türklerin İslami devirde kurdukları en büyük hanedanlardan biri olarak 1040–1308 arasında hüküm sürdü.",
-      "durum": "KISMI",
-      "turetilen": "1040",
-      "kaynak_alan": "en.wikisource.org",
-      "deger_dagilimi": {
-        "dogrulandi": 1,
-        "celisti": 0,
-        "olculemedi": 1
-      },
-      "not": "1 deger dogrulandi, 1 deger bagimsiz kaynakta yok (olculemedi)"
+      "makale": "aktor-etiyopya-imparatorlugu",
+      "durum": "TURETILEMEDI",
+      "not": "1911 EB \"Abyssinia\" maddesinde 1589 yılı da Sarsa Dengel adı da (ve Malak Sagad varyantı da) bulunamadı. Türetilemedi."
     },
     {
       "no": 2,
-      "makale": "aktor-bizans-imparatorlugu",
-      "anahtar": "k2",
-      "iddia": "Roma tarafında da aynı çizgi görülür: MS 395'ten sonra batı kanadı 476/480'e, doğu kanadı ise 1453'e kadar sürer.",
-      "durum": "OK",
-      "turetilen": "1453",
-      "kaynak_alan": "en.wikisource.org",
-      "deger_dagilimi": {
-        "dogrulandi": 1,
-        "celisti": 0,
-        "olculemedi": 0
-      },
-      "not": "bagimsiz dogrulama: en.wikisource.org"
+      "makale": "kaynak-malthus-nufus",
+      "durum": "TURETILEMEDI",
+      "not": "Nüfus artış hızının 1950 ve 2023 değerleri sağlayıcının kendi serisine ait ölçümlerdir; bağımsız alan adlarında aynı ondalıklı değerler bulunamadı. Türetilemedi"
     },
     {
       "no": 3,
-      "makale": "aktor-buyuk-selcuklu",
-      "durum": "TURETILEMEDI",
-      "not": "Zilhicce 451 / Ocak 1060 tarihi (Besâsîrî'nin öldürülmesi). Bloklanmamış alan adlarında — 1911 EB'nin \"Seljuks\" ve \"Caliphate\" maddeleri dahil — bu yıl bulunama"
-    },
-    {
-      "no": 4,
-      "makale": "aktor-ingiliz-doguhindistan-sirketi",
-      "durum": "TURETILEMEDI",
-      "not": "1621-1834 aralığı, kaynağın kendi bölüm başlığından (şirket ve kölelik) alınmış bir kapsam bilgisidir. Bloklanmamış alan adlarında aynı aralığı veren bir kayıt "
-    },
-    {
-      "no": 5,
-      "makale": "aktor-karolenj-imparatorlugu",
-      "anahtar": "k2",
-      "iddia": "Aynı yüzyıllarda İslam dünyasında Abbasi hanedanı 750'den itibaren hüküm sürüyordu ve 1258'e kadar sürecekti.",
-      "durum": "OK",
-      "turetilen": "1258",
-      "kaynak_alan": "en.wikisource.org",
-      "deger_dagilimi": {
-        "dogrulandi": 1,
-        "celisti": 0,
-        "olculemedi": 0
-      },
-      "not": "bagimsiz dogrulama: en.wikisource.org"
-    },
-    {
-      "no": 6,
-      "makale": "aktor-mogol-imparatorlugu",
+      "makale": "dusunur-arendt",
       "anahtar": "k1",
-      "iddia": "Moğol örneği bu geçişin çok daha büyük ölçekte tekrarıdır; imparatorluğun 1206–1260 arasındaki birleşik döneminin ardınd",
+      "iddia": "Kaynak onu 1906-1975 arasında yaşamış, yirminci yüzyılın en etkili siyaset filozoflarından biri olarak kaydeder ve bir A",
       "durum": "KISMI",
-      "turetilen": "1206",
-      "kaynak_alan": "en.wikisource.org",
+      "turetilen": "1906",
+      "kaynak_alan": "iep.utm.edu",
       "deger_dagilimi": {
         "dogrulandi": 1,
         "celisti": 0,
@@ -290,58 +252,16 @@
       "not": "1 deger dogrulandi, 1 deger bagimsiz kaynakta yok (olculemedi)"
     },
     {
-      "no": 7,
-      "makale": "aktor-osmanli-imparatorlugu",
+      "no": 4,
+      "makale": "olay-1905-rus-devrimi",
       "durum": "TURETILEMEDI",
-      "not": "1300 ve 1922 birlikte isteniyor. 1911 EB'nin \"Turkey\" maddesi 1911'de basıldığı için 1922'yi içeremez; openlibrary katalog kaydı ise kuruluş yılını vermiyor. Te"
+      "not": "7 Kasım 1917 tarihi ve Troçki'nin komuta listesi için Marksist İnternet Arşivi'nin dizin sayfalarında doğrudan eşleşme bulunamadı. Türetilemedi."
     },
     {
-      "no": 8,
-      "makale": "aktor-qing-hanedani",
-      "durum": "TURETILEMEDI",
-      "not": "1644 ve 1912 birlikte isteniyor. 1911 EB'nin \"China\" maddesi 1911'de basıldığı için hanedanın 1912'deki sonunu içeremez. Bloklanmamış başka bir alan adında iki "
-    },
-    {
-      "no": 9,
-      "makale": "aktor-roma-imparatorlugu",
-      "anahtar": "k1",
-      "iddia": "Doğu kanadının 1453'e kadar sürmesine karşılık batı kanadının 476/480'de kapanması, çöküşün coğrafi olarak eşit dağılmad",
-      "durum": "OK",
-      "turetilen": "1453",
-      "kaynak_alan": "en.wikisource.org",
-      "deger_dagilimi": {
-        "dogrulandi": 1,
-        "celisti": 0,
-        "olculemedi": 0
-      },
-      "not": "bagimsiz dogrulama: en.wikisource.org"
-    },
-    {
-      "no": 10,
-      "makale": "aktor-sasani-imparatorlugu",
+      "no": 5,
+      "makale": "aktor-cin-halk-cumhuriyeti",
       "anahtar": "k2",
-      "iddia": "yüzyıldaki çöküşünden sonra ayakta kalmış ve 1453'e kadar sürmüştür.",
-      "durum": "OK",
-      "turetilen": "1453",
-      "kaynak_alan": "en.wikisource.org",
-      "deger_dagilimi": {
-        "dogrulandi": 1,
-        "celisti": 0,
-        "olculemedi": 0
-      },
-      "not": "bagimsiz dogrulama: en.wikisource.org"
-    },
-    {
-      "no": 11,
-      "makale": "aktor-song-hanedani",
-      "durum": "TURETILEMEDI",
-      "not": "Güney Song'un 1127-1279 aralığı isteniyor. 1911 EB \"China\" maddesi çok uzun ve hanedan tarihlerini anlatı içine gömüyor; iki yıl da bağlamı görülebilir biçimde "
-    },
-    {
-      "no": 12,
-      "makale": "aktor-sovyetler-birligi",
-      "anahtar": "k1",
-      "iddia": "Rekabetin ilk evresi çevreleme, Truman Doktrini ve Kore Savaşı başlığıyla 1947–1953 arasına yerleştirilir.",
+      "iddia": "Soğuk Savaş 1947 ile 1991 arasındaki jeopolitik rekabeti anlatır ve kırk dört yıl dokuz ay sürmüştür.",
       "durum": "KISMI",
       "turetilen": "1947",
       "kaynak_alan": "avalon.law.yale.edu",
@@ -353,18 +273,18 @@
       "not": "1 deger dogrulandi, 1 deger bagimsiz kaynakta yok (olculemedi)"
     },
     {
-      "no": 13,
-      "makale": "aktor-sumer-sehir-devletleri",
+      "no": 6,
+      "makale": "veri-kentli-nufus-sayisi",
       "durum": "TURETILEMEDI",
-      "not": "MÖ 1800 dolaylarında Hammurabi. Bloklanmamış tek kapsamlı kaynak 1911 EB'nin \"Babylonia and Assyria\" maddesi; ancak bu madde aşılmış bir uzun kronoloji kullanıy"
+      "not": "2025 için kentli nüfus payı sağlayıcının kendi serisine ait bir ölçümdür; bağımsız alan adlarında aynı değer bulunamadı. Türetilemedi."
     },
     {
-      "no": 14,
-      "makale": "aktor-tang-hanedani",
-      "anahtar": "k2",
-      "iddia": "Aynı yüzyıllarda İslam dünyasında Abbasi hanedanı 750'den itibaren hüküm sürüyor ve 1258'e kadar sürecekti.",
+      "no": 7,
+      "makale": "olay-taiping-isyani",
+      "anahtar": "k1",
+      "iddia": "Nanjing'in 1864'te düşmesi Taiping rejiminin yıkılışını işaretlese de mücadele henüz bitmemişti; hâlâ birkaç yüz bin Tai",
       "durum": "OK",
-      "turetilen": "1258",
+      "turetilen": "1864",
       "kaynak_alan": "en.wikisource.org",
       "deger_dagilimi": {
         "dogrulandi": 1,
@@ -374,39 +294,108 @@
       "not": "bagimsiz dogrulama: en.wikisource.org"
     },
     {
-      "no": 15,
-      "makale": "donem-01",
-      "anahtar": "k3",
-      "iddia": "Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı.",
-      "durum": "OK",
-      "turetilen": "1936",
-      "kaynak_alan": "openlibrary.org",
+      "no": 8,
+      "makale": "aktor-qing-hanedani",
+      "anahtar": "k1",
+      "iddia": "Qing, Çin'in Mançu önderliğindeki hanedanıdır ve 1644–1912 arasına tarihlenir.",
+      "durum": "KISMI",
+      "turetilen": "1644",
+      "kaynak_alan": "en.wikisource.org",
       "deger_dagilimi": {
         "dogrulandi": 1,
         "celisti": 0,
-        "olculemedi": 0
+        "olculemedi": 1
       },
-      "not": "bagimsiz dogrulama: openlibrary.org"
+      "not": "1 deger dogrulandi, 1 deger bagimsiz kaynakta yok (olculemedi)"
+    },
+    {
+      "no": 9,
+      "makale": "dusunur-hegel",
+      "anahtar": "k1",
+      "iddia": "Kaynak, elyazmasını tamamlarken Napolyon'un birliklerinin Jena'yı işgalinin üniversitenin faaliyetlerini kısıtladığını v",
+      "durum": "KISMI",
+      "turetilen": "1808",
+      "kaynak_alan": "en.wikisource.org",
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 1
+      },
+      "not": "1 deger dogrulandi, 1 deger bagimsiz kaynakta yok (olculemedi)"
+    },
+    {
+      "no": 10,
+      "makale": "olay-paris-iklim-anlasmasi",
+      "durum": "TURETILEMEDI",
+      "not": "Ocak 2026 itibarıyla katılım tablosu, bağımsız alan adlarında karşılığı olmayan güncel bir durumdur. Türetilemedi."
+    },
+    {
+      "no": 11,
+      "makale": "aktor-sumer-sehir-devletleri",
+      "durum": "TURETILEMEDI",
+      "not": "MÖ 1800 dolaylarındaki Hammurabi tarihlemesi için 1911 EB kullanılamaz: 1911 kronolojisi MÖ tarihlerde aşılmıştır (bu dosyanın başındaki uyarı). Türetilemedi."
+    },
+    {
+      "no": 12,
+      "makale": "olay-italyan-birligi",
+      "anahtar": "k1",
+      "iddia": "Kaynak birliği tek bir olay olarak değil bir dizi olarak bölümler: Cavour ve birleşme beklentileri, Pisacane başarısızlı",
+      "durum": "TURETILEMEDI",
+      "turetilen": "1859",
+      "kaynak_alan": "en.wikisource.org",
+      "deger_dagilimi": {
+        "dogrulandi": 0,
+        "celisti": 0,
+        "olculemedi": 1
+      },
+      "not": "0 deger dogrulandi, 1 deger bagimsiz kaynakta yok (olculemedi)"
+    },
+    {
+      "no": 13,
+      "makale": "olay-yazinin-icadi",
+      "durum": "TURETILEMEDI",
+      "not": "1990'lardaki Abydos kazısı 1911 EB kapsamının dışında; Avalon belge koleksiyonunda da karşılığı yok. Türetilemedi."
+    },
+    {
+      "no": 14,
+      "makale": "veri-kentlesme-orani-1500-2023",
+      "durum": "TURETILEMEDI",
+      "not": "Kentleşme oranının 1950 ve 2025 değerleri sağlayıcının kendi serisine ait ölçümlerdir; bağımsız alan adlarında aynı değerler bulunamadı. Türetilemedi."
+    },
+    {
+      "no": 15,
+      "makale": "kavram-kamusal-alan",
+      "anahtar": "k2",
+      "iddia": "Hannah Arendt için tutulan kayıt, onu 1906-1975 arasında yaşamış ve yirminci yüzyılın en etkili siyaset filozoflarından ",
+      "durum": "KISMI",
+      "turetilen": "1906",
+      "kaynak_alan": "iep.utm.edu",
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 1
+      },
+      "not": "1 deger dogrulandi, 1 deger bagimsiz kaynakta yok (olculemedi)"
     },
     {
       "no": 16,
-      "makale": "donem-02",
+      "makale": "veri-dogurganlik-hizi-1950-2023",
       "durum": "TURETILEMEDI",
-      "not": "Seima-Turbino olgusu ve MÖ 2000 dolayları. Bu olgu 20. yüzyıl arkeolojisinin bulgusudur; 1911 EB'de yoktur ve bloklanmamış diğer alan adlarında (avalon, gutenbe"
+      "not": "\"Veri kümesinde 1950'den önce gözlem bulunmaz\" iddiası, o sağlayıcının dosyasının iç yapısına dairdir; başka bir alan adından türetilemez. Türetilemedi (tanım g"
     },
     {
       "no": 17,
-      "makale": "donem-03",
+      "makale": "veri-yasam-beklentisi-1770-2023",
       "durum": "TURETILEMEDI",
-      "not": "Yunan Karanlık Çağı için MÖ 1200-800 aralığı. 1911 EB \"Greece\" maddesinde bu aralık dönemin kendi adlandırmasıyla verilmiyor; bloklanmamış başka bir alan adında"
+      "not": "\"1770, 1800 ve 1820 art arda üç gözlemdir\" iddiası, o sağlayıcının dosyasının iç yapısına dairdir; başka bir alan adından türetilemez. Türetilemedi (tanım gereğ"
     },
     {
       "no": 18,
-      "makale": "donem-04",
-      "anahtar": "k1",
-      "iddia": "Kavramı, Vom Ursprung und Ziel der Geschichte adlı kitabında ortaya koydu; eserin İngilizce çevirisi The Origin and Goal",
+      "makale": "tartisma-iklim-ve-cokus",
+      "anahtar": "k3",
+      "iddia": "İkincisi için tutulan kayıt, 1984'te 210 farklı kuramın sayıldığını yazar.",
       "durum": "OK",
-      "turetilen": "1953",
+      "turetilen": "1984",
       "kaynak_alan": "openlibrary.org",
       "deger_dagilimi": {
         "dogrulandi": 1,
@@ -417,33 +406,24 @@
     },
     {
       "no": 19,
-      "makale": "donem-06",
+      "makale": "veri-internet-kullanimi",
+      "durum": "TURETILEMEDI",
+      "not": "\"İlk gözlem 2005 yılına aittir\" iddiası, o sağlayıcının dosyasının iç yapısına dairdir; başka bir alan adından türetilemez. Türetilemedi (tanım gereği)."
+    },
+    {
+      "no": 20,
+      "makale": "olay-ingiliz-ic-savasi",
       "anahtar": "k1",
-      "iddia": "Hâşim'den alır ve 750 ile 1258 yılları arasında hüküm sürmüştür; ilk atalarına nispetle bu hanedana Hâşimîler de denilmi",
-      "durum": "OK",
-      "turetilen": "1258",
+      "iddia": "Adalardaki üç savaş dizisi ile kıtadaki 1635–1648 evresinin örtüşmesi, 17.",
+      "durum": "KISMI",
+      "turetilen": "1635",
       "kaynak_alan": "en.wikisource.org",
       "deger_dagilimi": {
         "dogrulandi": 1,
         "celisti": 0,
-        "olculemedi": 0
+        "olculemedi": 1
       },
-      "not": "bagimsiz dogrulama: en.wikisource.org"
-    },
-    {
-      "no": 20,
-      "makale": "donem-07",
-      "anahtar": "k2",
-      "iddia": "Bu dönemin ayırt edici özelliği, Avrasya'nın uçlarının ilk kez tek bir siyasi yapı üzerinden birbirine bağlanmasıdır: Mo",
-      "durum": "OK",
-      "turetilen": "1206 1368",
-      "kaynak_alan": "archive.org",
-      "deger_dagilimi": {
-        "dogrulandi": 2,
-        "celisti": 0,
-        "olculemedi": 0
-      },
-      "not": "bagimsiz dogrulama: archive.org"
+      "not": "1 deger dogrulandi, 1 deger bagimsiz kaynakta yok (olculemedi)"
     }
   ]
 }

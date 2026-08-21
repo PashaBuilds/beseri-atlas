@@ -1,18 +1,18 @@
 ---
-aktif_faz: 4
-aktif_parti: B03
-son_commit: f11a780
-son_guncelleme: 2026-08-21T12:31:27.336Z
+aktif_faz: 5
+aktif_parti: B01
+son_commit: 5f1a783
+son_guncelleme: 2026-08-21T13:02:58.027Z
 sayaclar:
   uretilen: 28
   onaylanan: 28
   karantinada: 0
   onarim_dongusunde: 0
 metrikler:
-  kaynak_dogrulama_orani: 0.9989
+  kaynak_dogrulama_orani: 0.999
   ortalama_kaynak_sayisi: 3.08
   ornekleme_kapisi_son_skor: 1
-  ornekleme_kapisi_son_calisma: 2026-08-21T10:24:11.970Z
+  ornekleme_kapisi_son_calisma: 2026-08-21T13:12:38.938Z
   ornekleme_kapisi_karar: devam
   ornekleme_kapisi_gecmisi:
     - 0.9583
@@ -22,6 +22,10 @@ metrikler:
     - 0.875
     - 0.875
     - 0.875
+    - 1
+    - 1
+    - 1
+    - 1
     - 1
     - 1
     - 1
@@ -52,10 +56,10 @@ faz_parti_sayaci:
 > Bu dosya orkestratör tarafından yazılır. Elle düzenlenmez.
 > Hat durduğunda `npm run otonom` bu dosyayı okuyup aynı noktadan sürer.
 
-**Aktif faz:** 4 — Sentez katmanı
-**Aktif parti:** B03
-**Son güncelleme:** 2026-08-21T12:31:27.336Z
-**Son commit:** f11a780
+**Aktif faz:** 5 — Çapraz denetim
+**Aktif parti:** B01
+**Son güncelleme:** 2026-08-21T13:02:58.027Z
+**Son commit:** 5f1a783
 
 | Sayaç | Değer |
 |---|---|
@@ -66,7 +70,7 @@ faz_parti_sayaci:
 
 | Metrik | Değer | Eşik |
 |---|---|---|
-| Kaynak doğrulama oranı | 0.9989 | 0.92 |
+| Kaynak doğrulama oranı | 0.999 | 0.92 |
 | Makale başına ortalama kaynak | 3.08 | 3 |
 | Örnekleme kapısı son skor | 1 | 0.9 |
 

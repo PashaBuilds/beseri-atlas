@@ -418,3 +418,31 @@ kume kondu: `veri-fosil-elektrik-payi` (elektrik uretiminde fosil yakit payi,
 Ayrica: `share-of-electricity-production-from-fossil-fuels` adresi
 `electricity-mix.csv?...` adresine yonleniyor. KAPI 10 kuralinca kunyeye
 **varilan** adres yazildi.
+
+## Faz 5 — ornekleyici sapmasi duzeltildi (2026-08-21)
+
+`araclar/turet.mjs` orneklemi makale id'lerini **alfabetik** siralayip her turda
+her makaleden bir iddia aliyordu. 20'lik ornek hicbir zaman ilk turu asamadigi
+icin ornegin tamami alfabetik olarak ilk 20 makaleden — yani tamami `aktor-`
+dosyalarindan — geliyordu. Kapi 1.0 okuyordu ama **tek bir makale tipini**
+olcuyordu.
+
+Duzeltme: makale sirasi `tohum()` ile siralaniyor. Determinizm korunuyor (ayni
+korpus ayni ornegi verir), ornek yedi tipe yayiliyor.
+
+Bu bir esik gevsetmesi degil **siki lastirmadir**: kapi artik korpusun tamamini
+temsil eden bir ornegi olcuyor.
+
+Reddedilen alternatifler:
+- Ornegi buyutmek (20 -> 200): sapmayi gizler, kaldirmaz; ilk turlar yine
+  alfabetik onceligi tasir ve maliyeti cok artar.
+- Oldugu gibi birakip RAPOR'a dipnot dusmek: rapor dogru olurdu ama kapi yanlis
+  olcmeye devam ederdi.
+
+Sonuc (duzeltmeden sonra): olculen skor 1.0 (8/8 deger, 0 celiski), ham skor
+8/29 = 0.2759. Ham skorun dusmesinin nedeni kalite dususu degil ornegin
+degismesidir: yeni ornekte bes `veri` makalesi var ve bunlarin iddialari
+saglayicinin **kendi dosyasinin ic yapisina** dairdir (bir serinin ilk gozlem
+yili gibi). Gecis 4 tanimi geregi baska bir alan adi ister; bu tur iddialar
+tanim geregi baska alan adindan turetilemez. Onlar Gecis 2'de (denetle.mjs)
+dogrudan kaynak dosyasina karsi dogrulanir.

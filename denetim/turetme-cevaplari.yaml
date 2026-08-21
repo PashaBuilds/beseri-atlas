@@ -8,171 +8,173 @@
 # durum_notu: türetilemeyen iddialar için gerekçe. Bunlar "doğrulandı"
 # sayılmaz; orandan da düşülmez, ayrıca raporlanır (§16 şeffaflık şartı).
 #
-# Bu tur (94 makalelik korpus) iki yeni bağımsız alan adı kullanıyor:
-#   - en.wikisource.org — 1911 Encyclopædia Britannica'nın tam metni. Kamu malı,
-#     en.wikipedia.org'dan ayrı bir yayın ve ayrı bir editoryal gelenek.
-#     UYARI: 1911 kronolojisi bazı alanlarda (özellikle Tunç Çağı) aşılmıştır;
-#     bu nedenle MÖ tarihleri için türetme kaynağı olarak kullanılmadı.
-#   - openlibrary.org — bibliyografik katalog; yayın yılı türetmesi için.
+# ÖNEMLİ — bu tur (359 makalelik korpus, Faz 5 kapanış turu) örnekleyicinin
+# düzeltilmesinden SONRA alınmıştır. Önceki turlarda makale sırası alfabetikti;
+# 20'lik bir örnek hiçbir zaman ilk turu aşamadığı için örneğin tamamı
+# `aktor-` dosyalarından geliyordu. Sıralama tohumlandı; bu örnek yedi tipe
+# yayılıyor (aktor, olay, veri, dusunur, kavram, kaynak, tartisma).
+# bkz. plan/faz-notlari.md
+#
+# Kullanılan bağımsız alan adları:
+#   - en.wikisource.org — 1911 Encyclopædia Britannica tam metni (kamu malı).
+#     UYARI: 1911 kronolojisi MÖ tarihlerinde ve 1911 sonrası olaylarda
+#     kullanılamaz.
+#   - iep.utm.edu — Internet Encyclopedia of Philosophy (hakemli).
+#   - avalon.law.yale.edu — Avalon Project (Yale), belge tam metinleri.
+#   - openlibrary.org — bibliyografik katalog, yayın yılı türetmesi için.
+#
+# Veri kümesinin kendi iç yapısına dair iddialar (bir serinin ilk gözlem yılı,
+# bir dosyada kaç satır olduğu) tanımı gereği başka bir alan adından
+# türetilemez: bunlar o sağlayıcının dosyasına ait olgulardır. Bu tür sorular
+# türetilemedi olarak işaretlendi; §16'nın şeffaflık şartı gereği sayıları
+# raporda ayrıca verilir.
 
 zaman: 2026-08-21
 protokol: GECIS-4
 
 cevaplar:
   - no: 1
-    turetilen_deger: "1040"
-    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Seljuks
-    not: >-
-      1911 Encyclopædia Britannica'nın "Seljūks" maddesi, Merv yakınındaki
-      belirleyici muharebeyi (1040) ve galiplerin Merv'de bağımsızlıklarını ilan
-      etmelerini kaydediyor. 1308 bitiş yılı bu maddede bulunamadı; kısmi
-      doğrulama.
-
-  - no: 2
-    turetilen_deger: "1453"
-    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Constantinople
-    not: >-
-      "Constantinople is famous in history, first as the capital of the Roman
-      empire in the East for more than eleven centuries (330-1453), and secondly
-      as the capital of the Ottoman empire since 1453." — 1453 bağımsız olarak
-      doğrulandı.
-
-  - no: 3
     turetilen_deger: null
     durum_notu: >-
-      Zilhicce 451 / Ocak 1060 tarihi (Besâsîrî'nin öldürülmesi). Bloklanmamış
-      alan adlarında — 1911 EB'nin "Seljuks" ve "Caliphate" maddeleri dahil —
-      bu yıl bulunamadı. Olay, Türkçe ve Arapça kaynak geleneğinde ayrıntılı;
-      İngilizce kamu malı referans eserlerinde tarihlenmemiş.
+      1911 EB "Abyssinia" maddesinde 1589 yılı da Sarsa Dengel adı da (ve
+      Malak Sagad varyantı da) bulunamadı. Türetilemedi.
+
+  - no: 2
+    turetilen_deger: null
+    durum_notu: >-
+      Nüfus artış hızının 1950 ve 2023 değerleri sağlayıcının kendi serisine
+      ait ölçümlerdir; bağımsız alan adlarında aynı ondalıklı değerler
+      bulunamadı. Türetilemedi.
+
+  - no: 3
+    turetilen_deger: "1906"
+    kaynak_url: https://iep.utm.edu/arendt/
+    not: >-
+      Internet Encyclopedia of Philosophy maddesi başlığında Hannah Arendt'i
+      1906—1975 olarak veriyor ve onu yirminci yüzyıl siyaset filozofu olarak
+      tanımlıyor. Her iki yıl da bağımsız olarak doğrulandı.
 
   - no: 4
     turetilen_deger: null
     durum_notu: >-
-      1621-1834 aralığı, kaynağın kendi bölüm başlığından (şirket ve kölelik)
-      alınmış bir kapsam bilgisidir. Bloklanmamış alan adlarında aynı aralığı
-      veren bir kayıt bulunamadı; 1834 (Britanya İmparatorluğu'nda köleliğin
-      kaldırılması) tek başına doğrulanabilir ama iddia iki uçlu olduğu için
-      kısmi türetme yapılmadı.
+      7 Kasım 1917 tarihi ve Troçki'nin komuta listesi için Marksist İnternet
+      Arşivi'nin dizin sayfalarında doğrudan eşleşme bulunamadı. Türetilemedi.
 
   - no: 5
-    turetilen_deger: "1258"
-    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mongols
+    turetilen_deger: "1947"
+    kaynak_url: https://avalon.law.yale.edu/20th_century/trudoc.asp
     not: >-
-      1911 EB "Mongols" maddesi Hülagü'nün Bağdat'a yürüyüşünü ve son Abbasi
-      halifesine karşı kuşatmayı 1258'e tarihliyor.
+      Avalon Project, Truman Doktrini konuşmasını 12 Mart 1947 tarihiyle tam
+      metin olarak tutuyor; başlangıç yılı bağımsız olarak doğrulandı. 1991
+      bitiş yılı için bu koleksiyonda karşılık bulunamadı; kısmi doğrulama.
 
   - no: 6
-    turetilen_deger: "1206"
-    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Jenghiz_Khan
-    not: >-
-      "...until 1206, when he felt strong enough to proclaim himself the ruler of
-      an empire." 1206 bağımsız olarak doğrulandı; 1260 (birleşik dönemin sonu)
-      bu maddede bulunamadı — kısmi doğrulama.
+    turetilen_deger: null
+    durum_notu: >-
+      2025 için kentli nüfus payı sağlayıcının kendi serisine ait bir ölçümdür;
+      bağımsız alan adlarında aynı değer bulunamadı. Türetilemedi.
 
   - no: 7
-    turetilen_deger: null
-    durum_notu: >-
-      1300 ve 1922 birlikte isteniyor. 1911 EB'nin "Turkey" maddesi 1911'de
-      basıldığı için 1922'yi içeremez; openlibrary katalog kaydı ise kuruluş
-      yılını vermiyor. Tek bir bloklanmamış kaynakta iki uç birlikte
-      türetilemedi. Ayrıca kuruluş yılı (1299 / 1300) korpusta zaten kayıtlı bir
-      ayrışmadır (bkz. denetim/MUDAHALE-GEREKLI.md).
+    turetilen_deger: "1864"
+    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/China
+    not: >-
+      1911 EB "China" maddesi, Temmuz 1864'te imparatorluk kuvvetlerinin
+      Nanking'i yeniden ele geçirdiğini ve Tʽien Wang'ın başkentin düşüşü
+      üzerine intihar ettiğini yazıyor. Bağımsız olarak doğrulandı.
 
   - no: 8
-    turetilen_deger: null
-    durum_notu: >-
-      1644 ve 1912 birlikte isteniyor. 1911 EB'nin "China" maddesi 1911'de
-      basıldığı için hanedanın 1912'deki sonunu içeremez. Bloklanmamış başka bir
-      alan adında iki uç birlikte bulunamadı.
+    turetilen_deger: "1644"
+    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/China
+    not: >-
+      Aynı madde hanedanın 1644'te kurulduğunu ve Ta-tsʽing adının o yıl
+      alındığını yazıyor. 1912 bitiş yılı 1911 EB'nin yayın tarihinden sonra
+      olduğu için bu kaynaktan türetilemez; kısmi doğrulama.
 
   - no: 9
-    turetilen_deger: "1453"
-    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Constantinople
+    turetilen_deger: "1808"
+    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hegel,_Georg_Wilhelm_Friedrich
     not: >-
-      Aynı madde, doğu Roma imparatorluğunun başkentliğinin 330-1453 arasında
-      sürdüğünü ve 1453'ten itibaren Osmanlı başkenti olduğunu kaydediyor.
+      1911 EB "Hegel" maddesi, Bamberger Zeitung editörlüğünü 1807-1808 arasına
+      ve Nürnberg'deki rektörlüğü Aralık 1808 - Ağustos 1816 arasına
+      yerleştiriyor. 1808 bağımsız olarak doğrulandı; 1815 için maddede
+      doğrudan bir karşılık kurulamadı; kısmi doğrulama.
 
   - no: 10
-    turetilen_deger: "1453"
-    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Constantinople
-    not: >-
-      Aynı kayıt; doğu kanadının 1453'te sona erdiği bağımsız olarak
-      doğrulandı.
+    turetilen_deger: null
+    durum_notu: >-
+      Ocak 2026 itibarıyla katılım tablosu, bağımsız alan adlarında karşılığı
+      olmayan güncel bir durumdur. Türetilemedi.
 
   - no: 11
     turetilen_deger: null
     durum_notu: >-
-      Güney Song'un 1127-1279 aralığı isteniyor. 1911 EB "China" maddesi çok uzun
-      ve hanedan tarihlerini anlatı içine gömüyor; iki yıl da bağlamı görülebilir
-      biçimde saptanamadı. Yalnızca dizide geçmesi yeterli sayılmadı.
+      MÖ 1800 dolaylarındaki Hammurabi tarihlemesi için 1911 EB kullanılamaz:
+      1911 kronolojisi MÖ tarihlerde aşılmıştır (bu dosyanın başındaki uyarı).
+      Türetilemedi.
 
   - no: 12
-    turetilen_deger: "1947"
-    kaynak_url: https://avalon.law.yale.edu/20th_century/trudoc.asp
+    turetilen_deger: "1859"
+    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Italy
     not: >-
-      Truman Doktrini'nin birincil metni "MARCH 12, 1947" tarihini taşıyor;
-      dönemlendirmenin başlangıç yılı birincil kaynaktan bağımsız olarak
-      doğrulandı. 1953 (Kore Savaşı'nın sonu) aynı belgede yok — kısmi
-      doğrulama.
+      1911 EB "Italy" maddesi 1849-1859 arasını decennio della resistenza olarak
+      adlandırıyor ve 1 Ocak 1859'da Napolyon'un diplomatik dünyayı şaşırtan
+      açıklamasını kaydediyor. Bağımsız olarak doğrulandı.
 
   - no: 13
     turetilen_deger: null
     durum_notu: >-
-      MÖ 1800 dolaylarında Hammurabi. Bloklanmamış tek kapsamlı kaynak 1911
-      EB'nin "Babylonia and Assyria" maddesi; ancak bu madde aşılmış bir uzun
-      kronoloji kullanıyor (Naram-Sin'i MÖ 3750'ye yerleştiriyor). Aşılmış bir
-      kronolojiden yapılan türetme, ayrışmayı makalenin değil kaynağın
-      yaşından üretir; bu nedenle ölçüm yapılmadı.
+      1990'lardaki Abydos kazısı 1911 EB kapsamının dışında; Avalon belge
+      koleksiyonunda da karşılığı yok. Türetilemedi.
 
   - no: 14
-    turetilen_deger: "1258"
-    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mongols
-    not: >-
-      Abbasi hilafetinin Bağdat'taki sonu 1911 EB "Mongols" maddesinde
-      1258'e tarihleniyor.
+    turetilen_deger: null
+    durum_notu: >-
+      Kentleşme oranının 1950 ve 2025 değerleri sağlayıcının kendi serisine ait
+      ölçümlerdir; bağımsız alan adlarında aynı değerler bulunamadı.
+      Türetilemedi.
 
   - no: 15
-    turetilen_deger: "1936"
-    kaynak_url: https://openlibrary.org/search.json?q=man+makes+himself+childe&fields=title,author_name,first_publish_year&limit=3
+    turetilen_deger: "1906"
+    kaynak_url: https://iep.utm.edu/arendt/
     not: >-
-      OpenLibrary katalog kaydı: V. Gordon Childe, "Man makes himself",
-      first_publish_year 1936. Kitabın yayın yılı bağımsız katalogdan
-      doğrulandı.
+      Aynı IEP maddesi Arendt'i 1906-1975 arasına yerleştiriyor ve Hannover'de
+      seküler bir Yahudi ailenin tek çocuğu olarak doğduğunu yazıyor. Bağımsız
+      olarak doğrulandı.
 
   - no: 16
     turetilen_deger: null
     durum_notu: >-
-      Seima-Turbino olgusu ve MÖ 2000 dolayları. Bu olgu 20. yüzyıl
-      arkeolojisinin bulgusudur; 1911 EB'de yoktur ve bloklanmamış diğer alan
-      adlarında (avalon, gutenberg, openlibrary, perseus) karşılığı bulunmuyor.
+      "Veri kümesinde 1950'den önce gözlem bulunmaz" iddiası, o sağlayıcının
+      dosyasının iç yapısına dairdir; başka bir alan adından türetilemez.
+      Türetilemedi (tanım gereği).
 
   - no: 17
     turetilen_deger: null
     durum_notu: >-
-      Yunan Karanlık Çağı için MÖ 1200-800 aralığı. 1911 EB "Greece" maddesinde
-      bu aralık dönemin kendi adlandırmasıyla verilmiyor; bloklanmamış başka bir
-      alan adında da bulunamadı.
+      "1770, 1800 ve 1820 art arda üç gözlemdir" iddiası, o sağlayıcının
+      dosyasının iç yapısına dairdir; başka bir alan adından türetilemez.
+      Türetilemedi (tanım gereği).
 
   - no: 18
-    turetilen_deger: "1953"
-    kaynak_url: https://openlibrary.org/search.json?q=title%3A%22The+Origin+and+Goal+of+History%22&fields=title,author_name,first_publish_year,publish_year&limit=2
+    turetilen_deger: "1984"
+    kaynak_url: https://openlibrary.org/search.json?q=Der+Fall+Roms+Demandt
     not: >-
-      OpenLibrary katalog kaydı: Karl Jaspers, "The origin and goal of history",
-      first_publish_year 1953. İngilizce çevirinin yayın yılı bağımsız
-      katalogdan doğrulandı.
+      OpenLibrary kataloğu, Alexander Demandt'ın "Der Fall Roms" adlı eserini
+      first_publish_year 1984 ile kaydediyor. 210 kuram sayısı katalogdan
+      türetilemez; yıl bağımsız olarak doğrulandı.
 
   - no: 19
-    turetilen_deger: "1258"
-    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mongols
-    not: >-
-      Abbasi hanedanının 1258'de sona ermesi bağımsız olarak doğrulandı.
+    turetilen_deger: null
+    durum_notu: >-
+      "İlk gözlem 2005 yılına aittir" iddiası, o sağlayıcının dosyasının iç
+      yapısına dairdir; başka bir alan adından türetilemez. Türetilemedi
+      (tanım gereği).
 
   - no: 20
-    turetilen_deger: "1206 1368"
-    kaynak_url: https://archive.org/advancedsearch.php?q=title%3A%28%22imperio+mongol%22%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=4&output=json
+    turetilen_deger: "1635"
+    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Thirty_Years%27_War
     not: >-
-      Internet Archive katalog sorgusu — sorgu dizesinde HİÇBİR rakam yok, yani
-      dönen değerler sorgunun yankısı değil kaydın kendisidir. Dönen kayıtlardan
-      biri "2 - idade média (476 - 1455) 45 - império mongol (1206 -1368)"
-      başlığını taşıyor; Moğol İmparatorluğu'nun 1206-1368 aralığı bağımsız bir
-      katalogdan doğrulandı.
+      1911 EB "Thirty Years' War" maddesi savaşı 1618-1648 arasına
+      yerleştiriyor ve Fransa'nın 1635'te İspanya'ya savaş ilan ettiğini,
+      Prag Barışı'nın 20/30 Mayıs 1635'te imzalandığını yazıyor. Her iki yıl da
+      bağımsız olarak doğrulandı.

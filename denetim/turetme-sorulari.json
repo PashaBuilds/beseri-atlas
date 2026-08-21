@@ -1,65 +1,66 @@
 {
-  "zaman": "2026-08-21T05:42:52.842Z",
+  "zaman": "2026-08-21T13:09:35.646Z",
   "protokol": "GECIS-4",
-  "toplam_aday": 243,
+  "toplam_aday": 587,
   "secilen": 20,
   "sorular": [
     {
       "no": 1,
-      "makale": "aktor-abbasi-hilafeti",
-      "cumle": "Selçuklular, Türklerin İslami devirde kurdukları en büyük hanedanlardan biri olarak 1040–1308 arasında hüküm sürdü.",
+      "makale": "aktor-etiyopya-imparatorlugu",
+      "cumle": "Kaynak, bir başka gücün de burada durdurulduğunu kaydeder: Osmanlılar, İmparator Sarsa Dengel'in 1589'daki zaferi ve Arkiko'yu yağmalamasıyla dizginlendi ve dar bir kıyı şeridinde tutuldu.",
       "degerler": [
-        "1040",
-        "1308"
+        "1589"
       ],
       "bloklu_alanlar": [
+        "en.wikipedia.org",
         "islamansiklopedisi.org.tr",
-        "en.wikipedia.org"
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Kaynak, bir başka gücün de burada durdurulduğunu kaydeder: Osmanlılar, İmparator Sarsa Dengel'in 1589'daki zaferi ve Arkiko'yu yağmalamasıyla dizginlendi ve dar bir kıyı şeridinde \" cümlesindeki şu değer(ler) doğru mu: 1589? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, islamansiklopedisi.org.tr, ourworldindata.org."
+    },
+    {
+      "no": 2,
+      "makale": "kaynak-malthus-nufus",
+      "cumle": "Nüfus artış hızı serisinde sağlayıcının toplam satırı 1950 için yüzde 1,738, 2023 için yüzde 0,871 verir.",
+      "degerler": [
+        "1950",
+        "2023"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "ourworldindata.org"
       ],
       "kaynak_anahtarlari": [
         "k3"
       ],
-      "soru": "\"Selçuklular, Türklerin İslami devirde kurdukları en büyük hanedanlardan biri olarak 1040–1308 arasında hüküm sürdü.\" cümlesindeki şu değer(ler) doğru mu: 1040, 1308? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: islamansiklopedisi.org.tr, en.wikipedia.org."
-    },
-    {
-      "no": 2,
-      "makale": "aktor-bizans-imparatorlugu",
-      "cumle": "Roma tarafında da aynı çizgi görülür: MS 395'ten sonra batı kanadı 476/480'e, doğu kanadı ise 1453'e kadar sürer.",
-      "degerler": [
-        "1453"
-      ],
-      "bloklu_alanlar": [
-        "en.wikipedia.org",
-        "ourworldindata.org"
-      ],
-      "kaynak_anahtarlari": [
-        "k2"
-      ],
-      "soru": "\"Roma tarafında da aynı çizgi görülür: MS 395'ten sonra batı kanadı 476/480'e, doğu kanadı ise 1453'e kadar sürer.\" cümlesindeki şu değer(ler) doğru mu: 1453? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
+      "soru": "\"Nüfus artış hızı serisinde sağlayıcının toplam satırı 1950 için yüzde 1,738, 2023 için yüzde 0,871 verir.\" cümlesindeki şu değer(ler) doğru mu: 1950, 2023? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
     },
     {
       "no": 3,
-      "makale": "aktor-buyuk-selcuklu",
-      "cumle": "Tuğrul Bey halifenin Bağdat'a getirilmesini sağladı ve Arslan el-Besâsîrî yakalanıp öldürüldü (Zilhicce 451 / Ocak 1060).",
+      "makale": "dusunur-arendt",
+      "cumle": "Kaynak onu 1906-1975 arasında yaşamış, yirminci yüzyılın en etkili siyaset filozoflarından biri olarak kaydeder ve bir Alman-Yahudi ailede doğduğunu yazar.",
       "degerler": [
-        "1060"
+        "1906",
+        "1975"
       ],
       "bloklu_alanlar": [
-        "islamansiklopedisi.org.tr",
+        "plato.stanford.edu",
         "en.wikipedia.org"
       ],
       "kaynak_anahtarlari": [
         "k1"
       ],
-      "soru": "\"Tuğrul Bey halifenin Bağdat'a getirilmesini sağladı ve Arslan el-Besâsîrî yakalanıp öldürüldü (Zilhicce 451 / Ocak 1060).\" cümlesindeki şu değer(ler) doğru mu: 1060? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: islamansiklopedisi.org.tr, en.wikipedia.org."
+      "soru": "\"Kaynak onu 1906-1975 arasında yaşamış, yirminci yüzyılın en etkili siyaset filozoflarından biri olarak kaydeder ve bir Alman-Yahudi ailede doğduğunu yazar.\" cümlesindeki şu değer(ler) doğru mu: 1906, 1975? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: plato.stanford.edu, en.wikipedia.org."
     },
     {
       "no": 4,
-      "makale": "aktor-ingiliz-doguhindistan-sirketi",
-      "cumle": "Aynı yapıda kölelik 1621–1834 ve Anglo-Babür Savaşı da ayrı başlıklardır.",
+      "makale": "olay-1905-rus-devrimi",
+      "cumle": "Aynı isimlerden biri bir sonraki devrimde de görünür: Lev Troçki, 7 Kasım 1917'deki olayın komutanları arasında sayılır.",
       "degerler": [
-        "1621",
-        "1834"
+        "1917"
       ],
       "bloklu_alanlar": [
         "en.wikipedia.org",
@@ -68,59 +69,56 @@
       "kaynak_anahtarlari": [
         "k1"
       ],
-      "soru": "\"Aynı yapıda kölelik 1621–1834 ve Anglo-Babür Savaşı da ayrı başlıklardır.\" cümlesindeki şu değer(ler) doğru mu: 1621, 1834? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
+      "soru": "\"Aynı isimlerden biri bir sonraki devrimde de görünür: Lev Troçki, 7 Kasım 1917'deki olayın komutanları arasında sayılır.\" cümlesindeki şu değer(ler) doğru mu: 1917? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
     },
     {
       "no": 5,
-      "makale": "aktor-karolenj-imparatorlugu",
-      "cumle": "Aynı yüzyıllarda İslam dünyasında Abbasi hanedanı 750'den itibaren hüküm sürüyordu ve 1258'e kadar sürecekti.",
+      "makale": "aktor-cin-halk-cumhuriyeti",
+      "cumle": "Soğuk Savaş 1947 ile 1991 arasındaki jeopolitik rekabeti anlatır ve kırk dört yıl dokuz ay sürmüştür.",
       "degerler": [
-        "1258"
+        "1947",
+        "1991"
       ],
       "bloklu_alanlar": [
         "en.wikipedia.org",
-        "islamansiklopedisi.org.tr",
         "ourworldindata.org"
       ],
       "kaynak_anahtarlari": [
         "k2"
       ],
-      "soru": "\"Aynı yüzyıllarda İslam dünyasında Abbasi hanedanı 750'den itibaren hüküm sürüyordu ve 1258'e kadar sürecekti.\" cümlesindeki şu değer(ler) doğru mu: 1258? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, islamansiklopedisi.org.tr, ourworldindata.org."
+      "soru": "\"Soğuk Savaş 1947 ile 1991 arasındaki jeopolitik rekabeti anlatır ve kırk dört yıl dokuz ay sürmüştür.\" cümlesindeki şu değer(ler) doğru mu: 1947, 1991? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
     },
     {
       "no": 6,
-      "makale": "aktor-mogol-imparatorlugu",
-      "cumle": "Moğol örneği bu geçişin çok daha büyük ölçekte tekrarıdır; imparatorluğun 1206–1260 arasındaki birleşik döneminin ardından dört ayrı hanlığa bölünmesi, geçişin tek bir merkezde tamamlanamadığını gösterir.",
+      "makale": "veri-kentli-nufus-sayisi",
+      "cumle": "Seri MÖ 10000'de 0 ile başlar ve 2025'te yüzde 57,8335 ile biter.",
       "degerler": [
-        "1206",
-        "1260"
+        "2025"
       ],
       "bloklu_alanlar": [
-        "en.wikipedia.org",
-        "islamansiklopedisi.org.tr",
-        "ourworldindata.org"
-      ],
-      "kaynak_anahtarlari": [
-        "k1"
-      ],
-      "soru": "\"Moğol örneği bu geçişin çok daha büyük ölçekte tekrarıdır; imparatorluğun 1206–1260 arasındaki birleşik döneminin ardından dört ayrı hanlığa bölünmesi, geçişin tek bir merkezde tam\" cümlesindeki şu değer(ler) doğru mu: 1206, 1260? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, islamansiklopedisi.org.tr, ourworldindata.org."
-    },
-    {
-      "no": 7,
-      "makale": "aktor-osmanli-imparatorlugu",
-      "cumle": "Osmanlılar, Batı Anadolu'nun kuzeyinde bir Türkmen beyliği olarak ortaya çıkıp üç kıtaya yayılan ve kurucusunun adıyla anılan devlettir; TDV İslâm Ansiklopedisi onu Türk-İslam dünyasındaki en uzun ömürlü devlet olarak ni",
-      "degerler": [
-        "1300",
-        "1922"
-      ],
-      "bloklu_alanlar": [
-        "islamansiklopedisi.org.tr",
+        "ourworldindata.org",
         "en.wikipedia.org"
       ],
       "kaynak_anahtarlari": [
         "k1"
       ],
-      "soru": "\"Osmanlılar, Batı Anadolu'nun kuzeyinde bir Türkmen beyliği olarak ortaya çıkıp üç kıtaya yayılan ve kurucusunun adıyla anılan devlettir; TDV İslâm Ansiklopedisi onu Türk-İslam düny\" cümlesindeki şu değer(ler) doğru mu: 1300, 1922? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: islamansiklopedisi.org.tr, en.wikipedia.org."
+      "soru": "\"Seri MÖ 10000'de 0 ile başlar ve 2025'te yüzde 57,8335 ile biter.\" cümlesindeki şu değer(ler) doğru mu: 2025? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: ourworldindata.org, en.wikipedia.org."
+    },
+    {
+      "no": 7,
+      "makale": "olay-taiping-isyani",
+      "cumle": "Nanjing'in 1864'te düşmesi Taiping rejiminin yıkılışını işaretlese de mücadele henüz bitmemişti; hâlâ birkaç yüz bin Taiping askeri savaşmayı sürdürüyordu ve yalnızca Jiangxi ile Fujian sınır bölgelerinde çeyrek milyonda",
+      "degerler": [
+        "1864"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Nanjing'in 1864'te düşmesi Taiping rejiminin yıkılışını işaretlese de mücadele henüz bitmemişti; hâlâ birkaç yüz bin Taiping askeri savaşmayı sürdürüyordu ve yalnızca Jiangxi ile F\" cümlesindeki şu değer(ler) doğru mu: 1864? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
     },
     {
       "no": 8,
@@ -141,72 +139,39 @@
     },
     {
       "no": 9,
-      "makale": "aktor-roma-imparatorlugu",
-      "cumle": "Doğu kanadının 1453'e kadar sürmesine karşılık batı kanadının 476/480'de kapanması, çöküşün coğrafi olarak eşit dağılmadığını gösterir; batıdaki kırılma dosyasında ele alınıyor.",
+      "makale": "dusunur-hegel",
+      "cumle": "Kaynak, elyazmasını tamamlarken Napolyon'un birliklerinin Jena'yı işgalinin üniversitenin faaliyetlerini kısıtladığını ve Hegel'in oradan ayrıldığını yazar; üniversite görevi olmadan bir süre Bamberg'de gazete editörlüğü",
       "degerler": [
-        "1453"
+        "1808",
+        "1815"
       ],
       "bloklu_alanlar": [
-        "en.wikipedia.org",
-        "ourworldindata.org"
+        "plato.stanford.edu",
+        "en.wikipedia.org"
       ],
       "kaynak_anahtarlari": [
         "k1"
       ],
-      "soru": "\"Doğu kanadının 1453'e kadar sürmesine karşılık batı kanadının 476/480'de kapanması, çöküşün coğrafi olarak eşit dağılmadığını gösterir; batıdaki kırılma dosyasında ele alınıyor.\" cümlesindeki şu değer(ler) doğru mu: 1453? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
+      "soru": "\"Kaynak, elyazmasını tamamlarken Napolyon'un birliklerinin Jena'yı işgalinin üniversitenin faaliyetlerini kısıtladığını ve Hegel'in oradan ayrıldığını yazar; üniversite görevi olmad\" cümlesindeki şu değer(ler) doğru mu: 1808, 1815? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: plato.stanford.edu, en.wikipedia.org."
     },
     {
       "no": 10,
-      "makale": "aktor-sasani-imparatorlugu",
-      "cumle": "yüzyıldaki çöküşünden sonra ayakta kalmış ve 1453'e kadar sürmüştür.",
+      "makale": "olay-paris-iklim-anlasmasi",
+      "cumle": "Anlaşmanın katılım tablosu neredeyse evrenseldir: Ocak 2026 itibarıyla Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 194 üyesi anlaşmanın tarafıdır.",
       "degerler": [
-        "1453"
+        "2026"
       ],
       "bloklu_alanlar": [
         "en.wikipedia.org",
         "ourworldindata.org"
       ],
       "kaynak_anahtarlari": [
-        "k2"
+        "k1"
       ],
-      "soru": "\"yüzyıldaki çöküşünden sonra ayakta kalmış ve 1453'e kadar sürmüştür.\" cümlesindeki şu değer(ler) doğru mu: 1453? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
+      "soru": "\"Anlaşmanın katılım tablosu neredeyse evrenseldir: Ocak 2026 itibarıyla Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 194 üyesi anlaşmanın tarafıdır.\" cümlesindeki şu değer(ler) doğru mu: 2026? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
     },
     {
       "no": 11,
-      "makale": "aktor-song-hanedani",
-      "cumle": "Güney Song (1127–1279), Song topraklarının kuzey yarısının Jurchen önderliğindeki Jin hanedanına Jin-Song savaşlarında kaybedilmesinin ardından gelen dönemi kapsar.",
-      "degerler": [
-        "1127",
-        "1279"
-      ],
-      "bloklu_alanlar": [
-        "en.wikipedia.org",
-        "ourworldindata.org"
-      ],
-      "kaynak_anahtarlari": [
-        "k1"
-      ],
-      "soru": "\"Güney Song (1127–1279), Song topraklarının kuzey yarısının Jurchen önderliğindeki Jin hanedanına Jin-Song savaşlarında kaybedilmesinin ardından gelen dönemi kapsar.\" cümlesindeki şu değer(ler) doğru mu: 1127, 1279? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
-    },
-    {
-      "no": 12,
-      "makale": "aktor-sovyetler-birligi",
-      "cumle": "Rekabetin ilk evresi çevreleme, Truman Doktrini ve Kore Savaşı başlığıyla 1947–1953 arasına yerleştirilir.",
-      "degerler": [
-        "1947",
-        "1953"
-      ],
-      "bloklu_alanlar": [
-        "en.wikipedia.org",
-        "ourworldindata.org"
-      ],
-      "kaynak_anahtarlari": [
-        "k1"
-      ],
-      "soru": "\"Rekabetin ilk evresi çevreleme, Truman Doktrini ve Kore Savaşı başlığıyla 1947–1953 arasına yerleştirilir.\" cümlesindeki şu değer(ler) doğru mu: 1947, 1953? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
-    },
-    {
-      "no": 13,
       "makale": "aktor-sumer-sehir-devletleri",
       "cumle": "Bölge daha sonra Amorit yönetimine geçti ve MÖ 1800 dolaylarında Hammurabi önderliğinde Babil yükseldi.",
       "degerler": [
@@ -223,125 +188,154 @@
       "soru": "\"Bölge daha sonra Amorit yönetimine geçti ve MÖ 1800 dolaylarında Hammurabi önderliğinde Babil yükseldi.\" cümlesindeki şu değer(ler) doğru mu: 1800? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, avalon.law.yale.edu, ourworldindata.org."
     },
     {
-      "no": 14,
-      "makale": "aktor-tang-hanedani",
-      "cumle": "Aynı yüzyıllarda İslam dünyasında Abbasi hanedanı 750'den itibaren hüküm sürüyor ve 1258'e kadar sürecekti.",
+      "no": 12,
+      "makale": "olay-italyan-birligi",
+      "cumle": "Kaynak birliği tek bir olay olarak değil bir dizi olarak bölümler: Cavour ve birleşme beklentileri, Pisacane başarısızlığı, 1859'daki İkinci İtalyan Bağımsızlık Savaşı ve sonrası, Binlerin Seferi ile İki Sicilya Krallığı",
       "degerler": [
-        "1258"
+        "1859"
       ],
       "bloklu_alanlar": [
         "en.wikipedia.org",
-        "islamansiklopedisi.org.tr",
         "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Kaynak birliği tek bir olay olarak değil bir dizi olarak bölümler: Cavour ve birleşme beklentileri, Pisacane başarısızlığı, 1859'daki İkinci İtalyan Bağımsızlık Savaşı ve sonrası, \" cümlesindeki şu değer(ler) doğru mu: 1859? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
+    },
+    {
+      "no": 13,
+      "makale": "olay-yazinin-icadi",
+      "cumle": "1990'larda Abydos'ta MÖ 3400 ile 3200 arasına tarihlenen kazınmış semboller bulundu.",
+      "degerler": [
+        "1990"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "avalon.law.yale.edu",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"1990'larda Abydos'ta MÖ 3400 ile 3200 arasına tarihlenen kazınmış semboller bulundu.\" cümlesindeki şu değer(ler) doğru mu: 1990? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, avalon.law.yale.edu, ourworldindata.org."
+    },
+    {
+      "no": 14,
+      "makale": "veri-kentlesme-orani-1500-2023",
+      "cumle": "Seri 1950'de yüzde 28,80'den 2025'te yüzde 57,83'e çıkar; yani aralığın içinde bir noktada yüzde 50 eşiği aşılmıştır.",
+      "degerler": [
+        "1950",
+        "2025"
+      ],
+      "bloklu_alanlar": [
+        "ourworldindata.org",
+        "en.wikipedia.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Seri 1950'de yüzde 28,80'den 2025'te yüzde 57,83'e çıkar; yani aralığın içinde bir noktada yüzde 50 eşiği aşılmıştır.\" cümlesindeki şu değer(ler) doğru mu: 1950, 2025? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: ourworldindata.org, en.wikipedia.org."
+    },
+    {
+      "no": 15,
+      "makale": "kavram-kamusal-alan",
+      "cumle": "Hannah Arendt için tutulan kayıt, onu 1906-1975 arasında yaşamış ve yirminci yüzyılın en etkili siyaset filozoflarından biri sayılan bir düşünür olarak verir.",
+      "degerler": [
+        "1906",
+        "1975"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "plato.stanford.edu"
       ],
       "kaynak_anahtarlari": [
         "k2"
       ],
-      "soru": "\"Aynı yüzyıllarda İslam dünyasında Abbasi hanedanı 750'den itibaren hüküm sürüyor ve 1258'e kadar sürecekti.\" cümlesindeki şu değer(ler) doğru mu: 1258? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, islamansiklopedisi.org.tr, ourworldindata.org."
+      "soru": "\"Hannah Arendt için tutulan kayıt, onu 1906-1975 arasında yaşamış ve yirminci yüzyılın en etkili siyaset filozoflarından biri sayılan bir düşünür olarak verir.\" cümlesindeki şu değer(ler) doğru mu: 1906, 1975? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, plato.stanford.edu."
     },
     {
-      "no": 15,
-      "makale": "donem-01",
-      "cumle": "Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı.",
+      "no": 16,
+      "makale": "veri-dogurganlik-hizi-1950-2023",
+      "cumle": "Veri kümesinde dünya toplamı için 1950'den önce gözlem bulunmaz.",
       "degerler": [
-        "1936"
+        "1950"
+      ],
+      "bloklu_alanlar": [
+        "ourworldindata.org",
+        "en.wikipedia.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Veri kümesinde dünya toplamı için 1950'den önce gözlem bulunmaz.\" cümlesindeki şu değer(ler) doğru mu: 1950? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: ourworldindata.org, en.wikipedia.org."
+    },
+    {
+      "no": 17,
+      "makale": "veri-yasam-beklentisi-1770-2023",
+      "cumle": "Seride 1770, 1800 ve 1820 yılları art arda üç gözlemdir; yani ilk elli yıl yalnızca üç noktayla temsil edilir.",
+      "degerler": [
+        "1800",
+        "1820"
+      ],
+      "bloklu_alanlar": [
+        "ourworldindata.org",
+        "en.wikipedia.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Seride 1770, 1800 ve 1820 yılları art arda üç gözlemdir; yani ilk elli yıl yalnızca üç noktayla temsil edilir.\" cümlesindeki şu değer(ler) doğru mu: 1800, 1820? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: ourworldindata.org, en.wikipedia.org."
+    },
+    {
+      "no": 18,
+      "makale": "tartisma-iklim-ve-cokus",
+      "cumle": "İkincisi için tutulan kayıt, 1984'te 210 farklı kuramın sayıldığını yazar.",
+      "degerler": [
+        "1984"
       ],
       "bloklu_alanlar": [
         "en.wikipedia.org",
-        "ourworldindata.org",
-        "archive.org"
+        "ourworldindata.org"
       ],
       "kaynak_anahtarlari": [
         "k3"
       ],
-      "soru": "\"Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı.\" cümlesindeki şu değer(ler) doğru mu: 1936? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org, archive.org."
-    },
-    {
-      "no": 16,
-      "makale": "donem-02",
-      "cumle": "Seima-Turbino olgusu bu dönemin en geniş ölçekli hareket örneğidir: MÖ 2000 dolaylarında bölgedeki iklim değişikliklerinin ve bunu izleyen ekolojik, iktisadi ve siyasi değişimlerin batıya doğru hızlı ve kitlesel bir göçü",
-      "degerler": [
-        "2000"
-      ],
-      "bloklu_alanlar": [
-        "en.wikipedia.org",
-        "ourworldindata.org",
-        "avalon.law.yale.edu"
-      ],
-      "kaynak_anahtarlari": [
-        "k1"
-      ],
-      "soru": "\"Seima-Turbino olgusu bu dönemin en geniş ölçekli hareket örneğidir: MÖ 2000 dolaylarında bölgedeki iklim değişikliklerinin ve bunu izleyen ekolojik, iktisadi ve siyasi değişimlerin\" cümlesindeki şu değer(ler) doğru mu: 2000? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org, avalon.law.yale.edu."
-    },
-    {
-      "no": 17,
-      "makale": "donem-03",
-      "cumle": "Yunan Karanlık Çağı'nın \"karanlık\" sıfatı, dönemin kendisinden çok bu kayıt boşluğundan gelir: MÖ 1200 ile MÖ 800 arasındaki yüzyıllar için yazılı kaynak, öncesine ve sonrasına göre çok daha azdır.",
-      "degerler": [
-        "1200"
-      ],
-      "bloklu_alanlar": [
-        "en.wikipedia.org",
-        "ourworldindata.org"
-      ],
-      "kaynak_anahtarlari": [
-        "k1"
-      ],
-      "soru": "\"Yunan Karanlık Çağı'nın \"karanlık\" sıfatı, dönemin kendisinden çok bu kayıt boşluğundan gelir: MÖ 1200 ile MÖ 800 arasındaki yüzyıllar için yazılı kaynak, öncesine ve sonrasına gör\" cümlesindeki şu değer(ler) doğru mu: 1200? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
-    },
-    {
-      "no": 18,
-      "makale": "donem-04",
-      "cumle": "Kavramı, Vom Ursprung und Ziel der Geschichte adlı kitabında ortaya koydu; eserin İngilizce çevirisi The Origin and Goal of History adıyla 1953'te yayımlandı.",
-      "degerler": [
-        "1953"
-      ],
-      "bloklu_alanlar": [
-        "en.wikipedia.org",
-        "ourworldindata.org",
-        "perseus.tufts.edu",
-        "archive.org"
-      ],
-      "kaynak_anahtarlari": [
-        "k1",
-        "k4"
-      ],
-      "soru": "\"Kavramı, Vom Ursprung und Ziel der Geschichte adlı kitabında ortaya koydu; eserin İngilizce çevirisi The Origin and Goal of History adıyla 1953'te yayımlandı.\" cümlesindeki şu değer(ler) doğru mu: 1953? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org, perseus.tufts.edu, archive.org."
+      "soru": "\"İkincisi için tutulan kayıt, 1984'te 210 farklı kuramın sayıldığını yazar.\" cümlesindeki şu değer(ler) doğru mu: 1984? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
     },
     {
       "no": 19,
-      "makale": "donem-06",
-      "cumle": "Hâşim'den alır ve 750 ile 1258 yılları arasında hüküm sürmüştür; ilk atalarına nispetle bu hanedana Hâşimîler de denilmiştir.",
+      "makale": "veri-internet-kullanimi",
+      "cumle": "Veri kümesinde dünya toplamı için ilk gözlem 2005 yılına aittir.",
       "degerler": [
-        "1258"
+        "2005"
       ],
       "bloklu_alanlar": [
-        "islamansiklopedisi.org.tr",
-        "en.wikipedia.org",
-        "ourworldindata.org"
+        "ourworldindata.org",
+        "en.wikipedia.org"
       ],
       "kaynak_anahtarlari": [
         "k1"
       ],
-      "soru": "\"Hâşim'den alır ve 750 ile 1258 yılları arasında hüküm sürmüştür; ilk atalarına nispetle bu hanedana Hâşimîler de denilmiştir.\" cümlesindeki şu değer(ler) doğru mu: 1258? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: islamansiklopedisi.org.tr, en.wikipedia.org, ourworldindata.org."
+      "soru": "\"Veri kümesinde dünya toplamı için ilk gözlem 2005 yılına aittir.\" cümlesindeki şu değer(ler) doğru mu: 2005? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: ourworldindata.org, en.wikipedia.org."
     },
     {
       "no": 20,
-      "makale": "donem-07",
-      "cumle": "Bu dönemin ayırt edici özelliği, Avrasya'nın uçlarının ilk kez tek bir siyasi yapı üzerinden birbirine bağlanmasıdır: Moğol İmparatorluğu 1206 ile 1368 arasında Avrasya'da varlığını sürdürdü.",
+      "makale": "olay-ingiliz-ic-savasi",
+      "cumle": "Adalardaki üç savaş dizisi ile kıtadaki 1635–1648 evresinin örtüşmesi, 17.",
       "degerler": [
-        "1206",
-        "1368"
+        "1635",
+        "1648"
       ],
       "bloklu_alanlar": [
-        "islamansiklopedisi.org.tr",
         "en.wikipedia.org",
         "ourworldindata.org"
       ],
       "kaynak_anahtarlari": [
+        "k1",
         "k2"
       ],
-      "soru": "\"Bu dönemin ayırt edici özelliği, Avrasya'nın uçlarının ilk kez tek bir siyasi yapı üzerinden birbirine bağlanmasıdır: Moğol İmparatorluğu 1206 ile 1368 arasında Avrasya'da varlığın\" cümlesindeki şu değer(ler) doğru mu: 1206, 1368? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: islamansiklopedisi.org.tr, en.wikipedia.org, ourworldindata.org."
+      "soru": "\"Adalardaki üç savaş dizisi ile kıtadaki 1635–1648 evresinin örtüşmesi, 17.\" cümlesindeki şu değer(ler) doğru mu: 1635, 1648? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "zaman": "2026-08-21T10:24:11.812Z",
-  "makale_sayisi": 275,
+  "zaman": "2026-08-21T13:03:28.373Z",
+  "makale_sayisi": 359,
   "celiskiler": [],
   "incelenecek": [
     {
@@ -29,6 +29,15 @@
         "dusunur-keynes"
       ],
       "detay": "\"Büyük Buhran\" — olay-buyuk-buhran: 1929 / dusunur-keynes: 1920"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-cernobil",
+        "veri-savas-olumleri"
+      ],
+      "detay": "\"Nisan\" — olay-cernobil: 1986 / veri-savas-olumleri: 1994"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -70,10 +79,46 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
+        "olay-meiji-restorasyonu",
+        "tartisma-karsi-olgusal-tarih"
+      ],
+      "detay": "\"Ocak\" — olay-meiji-restorasyonu: 1868 / tartisma-karsi-olgusal-tarih: 1890"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-japonya-imparatorlugu",
+        "tartisma-karsi-olgusal-tarih"
+      ],
+      "detay": "\"Ocak\" — aktor-japonya-imparatorlugu: 1868 / tartisma-karsi-olgusal-tarih: 1890"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
         "olay-1973-petrol-krizi",
         "olay-suveys-krizi"
       ],
       "detay": "\"Mart\" — olay-1973-petrol-krizi: 1974 / olay-suveys-krizi: 1956"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-balkan-savaslari",
+        "tartisma-karsi-olgusal-tarih"
+      ],
+      "detay": "\"Mart\" — olay-balkan-savaslari: 1912 / tartisma-karsi-olgusal-tarih: 1890"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-fatimi-hilafeti",
+        "tartisma-hacli-seferlerinin-nedeni"
+      ],
+      "detay": "\"Suriye\" — aktor-fatimi-hilafeti: 1171 / tartisma-hacli-seferlerinin-nedeni: 1187"
     },
     {
       "tur": "varlik-yil-ayrismasi",

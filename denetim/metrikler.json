@@ -137,8 +137,56 @@
       "ornek_boyutu": 28,
       "turetilemedi": 15,
       "davranis": "devam"
+    },
+    {
+      "zaman": "2026-08-21T13:03:51.296Z",
+      "skor": 1,
+      "ham_skor": 0.4643,
+      "dogrulanan": 13,
+      "isaret": 0,
+      "hata": 0,
+      "toplam": 13,
+      "ornek_boyutu": 28,
+      "turetilemedi": 15,
+      "davranis": "devam"
+    },
+    {
+      "zaman": "2026-08-21T13:08:25.543Z",
+      "skor": 1,
+      "ham_skor": 0.4643,
+      "dogrulanan": 13,
+      "isaret": 0,
+      "hata": 0,
+      "toplam": 13,
+      "ornek_boyutu": 28,
+      "turetilemedi": 15,
+      "davranis": "devam"
+    },
+    {
+      "zaman": "2026-08-21T13:08:56.888Z",
+      "skor": 1,
+      "ham_skor": 0.4444,
+      "dogrulanan": 12,
+      "isaret": 0,
+      "hata": 0,
+      "toplam": 12,
+      "ornek_boyutu": 27,
+      "turetilemedi": 15,
+      "davranis": "devam"
+    },
+    {
+      "zaman": "2026-08-21T13:12:38.936Z",
+      "skor": 1,
+      "ham_skor": 0.2759,
+      "dogrulanan": 8,
+      "isaret": 0,
+      "hata": 0,
+      "toplam": 8,
+      "ornek_boyutu": 29,
+      "turetilemedi": 21,
+      "davranis": "devam"
     }
   ],
   "capraz_gecmisi": [],
-  "guncelleme": "2026-08-21T10:24:11.969Z"
+  "guncelleme": "2026-08-21T13:12:38.938Z"
 }

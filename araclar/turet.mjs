@@ -80,7 +80,12 @@ async function hazirla(ornekSayisi) {
     gruplar.get(a.makale).push(a);
   }
   const secilen = [];
-  const idler = [...gruplar.keys()].sort();
+  // Makale sirasi ALFABETIK DEGIL, tohumlu karisik olmalidir. Alfabetik siralamada
+  // 20'lik bir ornek hicbir zaman ilk turu asamiyor; dolayisiyla ornegin tamami
+  // ilk 20 makale id'sinden (hepsi `aktor-`) geliyordu. Kapi, korpusun tamamini
+  // degil tek bir tipi olcuyordu. Tohumlu siralama determinizmi korur (ayni
+  // korpus ayni ornegi verir) ama ornegi tiplere yayar. bkz. plan/faz-notlari.md
+  const idler = [...gruplar.keys()].sort((a, b) => tohum(a) - tohum(b));
   let tur = 0;
   while (secilen.length < ornekSayisi && tur < 40) {
     for (const id of idler) {
