@@ -1,0 +1,17 @@
+## dusunur-clausewitz
+_Geçiş 2 — kaynak denetimi · 2026-08-21T09:00:13.643Z_
+
+- [OK]      k1 → "Kaynak onu 1 Temmuz 1780 - 16 Kasım 1831 arasında yaşamış bir Prusya ordusu subayı ve askerî kuramcı olarak ka…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Kaynak, dul eşinin savaş felsefesi üzerine olan başyapıtını 1832'de düzenlediğini, yayımladığını ve giriş bölü…"
+- [OK]      k1 → "Dul eşinin ayrıca Savaş Üzerine'nin önsözünü yazdığı, 1835'e kadar toplu eserlerinin çoğunu yayımladığı ve Oca…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- undefined k1 → "Bir kuram metninin bugünkü biçiminin, yazarından sonra bir başkasının düzenleme kararlarıyla oluşması, atlasın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kaynak, Prusya'nın seferber edebildiği tek ordunun kurmay başkanı olarak atandığını ve komutanı Gneisenau'nun …" — 3 atom doğrulandı; 3 ad ölçülemedi
+- undefined k1 → "Bir askerî kuramcının bir salgın yönetimi görevinde ölmesi, askerî ve sivil kriz yönetiminin aynı kurum tarafı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Kaynak, onun savaş yapmanın moral (bugünkü terimlerle ruhsal) ve siyasi yönlerini vurguladığını yazar; savaşta…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Kaynağın bir terimi bugünkü karşılığıyla birlikte vermesi, atlasın terim kilidi kapısının kaynaklarda da bir k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kaynak katıldığı muharebeler arasında Borodino, Ligny ve Wavre'ı sayar."
+- undefined k3 → "O savaşlar dizisi dosyasında ele alınıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bir önceki yüzyılın savaş ilkeleri üzerine yazan yazarı için tutulan kayıt, onun katkı alanları arasında savaş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Savaş kuramının içeriği, siyaset-savaş ilişkisi, hayatının seyri ve sonraki alımlanması burada ayrı başlıklar …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+
+**Özet:** 5 OK · 0 ISARET · 0 HATA

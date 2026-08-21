@@ -16,6 +16,7 @@ ilgili:
   - donem-12
   - aktor-britanya-imparatorlugu
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - dusunur-malthus
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

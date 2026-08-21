@@ -16,6 +16,7 @@ ilgili:
   - olay-ronesans
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-locke
+  - dusunur-clausewitz
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

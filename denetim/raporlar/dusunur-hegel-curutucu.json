@@ -1,0 +1,21 @@
+{
+  "id": "dusunur-hegel",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:00:14.185Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Kaynak, Schelling ile yakın çalıştıklarını, birlikte bir dergiyi düzenleyip ona katkıda bulunduklarını ve bu ilişki nedeniyle Hegel'in uzun yıllar Schelling'in sıradan bir takipçis",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, 1806 sonunda ilk büyük eserini tamamladığını (1807'de yayımlandı) ve eserin daha önceki, görünüşte daha Schellingci yaklaşımından bir ayrışma gösterdiğini yazar; Schelling'",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

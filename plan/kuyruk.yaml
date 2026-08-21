@@ -1741,7 +1741,7 @@ isler:
   - id: dusunur-malthus
     tip: dusunur
     baslik: Thomas Malthus
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1749,7 +1749,7 @@ isler:
   - id: dusunur-hegel
     tip: dusunur
     baslik: G. W. F. Hegel
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1757,7 +1757,7 @@ isler:
   - id: dusunur-clausewitz
     tip: dusunur
     baslik: Carl von Clausewitz
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

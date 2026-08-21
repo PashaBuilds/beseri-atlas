@@ -12,6 +12,7 @@ ilgili:
   - donem-16
   - olay-nufus-patlamasi
   - olay-yesil-devrim
+  - dusunur-malthus
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

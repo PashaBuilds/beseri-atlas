@@ -16,6 +16,7 @@ ilgili:
   - dusunur-herodotos
   - dusunur-kautilya
   - dusunur-tacitus
+  - dusunur-clausewitz
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

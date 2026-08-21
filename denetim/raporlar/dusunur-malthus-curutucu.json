@@ -1,0 +1,14 @@
+{
+  "id": "dusunur-malthus",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:01:28.135Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu seriyi kuramın doğrulanması ya da yanlışlanması olarak sunmaz; kuram tek bir ülkeyle sınırlı bir mekanizma önerirken seri dünya toplamını verir.[^k1][^k3] İki ölçünün kaps",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

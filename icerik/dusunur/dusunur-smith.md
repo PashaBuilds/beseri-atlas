@@ -16,6 +16,7 @@ ilgili:
   - dusunur-montesquieu
   - olay-sanayi-devrimi
   - dusunur-kant
+  - dusunur-malthus
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

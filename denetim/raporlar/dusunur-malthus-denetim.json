@@ -1,0 +1,79 @@
+{
+  "id": "dusunur-malthus",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:00:13.734Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak Nüfus İlkesi Üzerine Bir Deneme için ayrı bir bölüm açar ve altında baskılar ve sürümler diye bir alt başlık tutar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Nüfus, İlkesi, Üzerine, Deneme"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, ikinci ve sonraki baskılarda alt sınıfların yoksulluğunu hafifletmenin en iyi yolu olarak ahlaki kısıtlamaya daha fazla vurgu yaptığını yazar; birinci b",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı başlığın birinci baskısında bulunan bir bölümün sonraki baskılarda ayrıca anılmaması, \"Malthus şöyle der\" biçimindeki cümlelerin hangi baskıya dayandığı be",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, nüfus ile iktisat arasındaki ilişki hakkında şunu yazdığını kaydeder: emekçi nüfusu gıda üretiminden hızlı büyüdüğünde, büyüyen nüfus geçim maliyetini y",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuramın döngüsel olarak kurulması, atlasın bunu bir öngörü değil bir model olarak kaydetmesini gerektirir; modelin sonraki verilerle ilişkisi dosyasında ele",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tarımsal iyileştirmelerin sınırsız biçimde genişleyebileceği düşüncesi gibi çeşitli düşünülebilir çözümlerin bulunduğunu yazar; ayrıca siyasal iktisat ü",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuramın yanına karşı görüşlerin ve bir tartışma başlığının kaydedilmesi, atlasın hakemlik etmeme ilkesinin kaynaklarda da uygulandığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 1834'te yaklaşık 1,14 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu seriyi kuramın doğrulanması ya da yanlışlanması olarak sunmaz; kuram tek bir ülkeyle sınırlı bir mekanizma önerirken seri dünya toplamını verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu seriyi kuramın doğrulanması ya da yanlışlanması olarak sunmaz; kuram tek bir ülkeyle sınırlı bir mekanizma önerirken seri dünya toplamını verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir önceki kuşağın iktisat yazarı için tutulan kayıt, onun ahlak kurallarının belirli örneklere verilen tepkilerden oluştuğunu savunduğunu yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hayatı, Tahıl Yasaları üzerine yazıları, siyasal iktisat ilkeleri ve sonraki alımlanması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı böl",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tahıl, Yasaları"
+    }
+  ]
+}

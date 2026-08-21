@@ -1,0 +1,79 @@
+{
+  "id": "dusunur-clausewitz",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:00:13.643Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onu 1 Temmuz 1780 - 16 Kasım 1831 arasında yaşamış bir Prusya ordusu subayı ve askerî kuramcı olarak kaydeder; en dikkate değer eseri Vom Kriege'nin ölüm",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, dul eşinin savaş felsefesi üzerine olan başyapıtını 1832'de düzenlediğini, yayımladığını ve giriş bölümünü yazdığını kaydeder; yazarın metin üzerinde 18",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dul eşinin ayrıca Savaş Üzerine'nin önsözünü yazdığı, 1835'e kadar toplu eserlerinin çoğunu yayımladığı ve Ocak 1836'da öldüğü yazılır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuram metninin bugünkü biçiminin, yazarından sonra bir başkasının düzenleme kararlarıyla oluşması, atlasın yazar alanını neden tek bir ad olarak görmediğini",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Prusya'nın seferber edebildiği tek ordunun kurmay başkanı olarak atandığını ve komutanı Gneisenau'nun Ağustos 1831'de koleradan ölmesi üzerine büyük kol",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir askerî kuramcının bir salgın yönetimi görevinde ölmesi, askerî ve sivil kriz yönetiminin aynı kurum tarafından yürütüldüğü bir dönemi gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, onun savaş yapmanın moral (bugünkü terimlerle ruhsal) ve siyasi yönlerini vurguladığını yazar; savaşta çeşitli etkenlerin çoklu etkileşimlerine dikkat ç",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın bir terimi bugünkü karşılığıyla birlikte vermesi, atlasın terim kilidi kapısının kaynaklarda da bir karşılığı olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak katıldığı muharebeler arasında Borodino, Ligny ve Wavre'ı sayar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "O savaşlar dizisi dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir önceki yüzyılın savaş ilkeleri üzerine yazan yazarı için tutulan kayıt, onun katkı alanları arasında savaş ilkelerini de sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaş kuramının içeriği, siyaset-savaş ilişkisi, hayatının seyri ve sonraki alımlanması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -570,3 +570,29 @@ hat_duzeltmesi:
     aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.
   - bulgu: dusunur-montesquieu ve dusunur-smith hicbir itiraz almadi.
     aksiyon: Kayit icin not edildi.
+
+# Faz 3 turu B06: Malthus, Clausewitz, Hegel — 2026-08-21
+  - bulgu: >-
+      dusunur-malthus'ta "demografik gecis" terimi YUKSEK ciddiyette anakronizm
+      olarak isaretlendi (terim ~1930'dan itibaren; makale 1834'te bitiyor).
+      Terim aslinda atlasin KENDI kavram dosyasinin adiydi ve prose icinde bir
+      ic link olarak geciyordu.
+    aksiyon: >-
+      Itiraz HAKLIYDI ve cozuldu. Once geriye donuk okuma oldugu acikca
+      yazildi, ama dedektor paragrafta terimi gormeye devam etti. Nihai cozum:
+      terim govdeden tamamen cikarildi, baglanti yalnizca ust verideki `ilgili`
+      alaninda birakildi ve govdede bunun neden boyle yapildigi yazildi.
+      ALTERNATIF REDDEDILDI: makalenin tarih_bitis alanini uzatmak dedektoru
+      susturur ama ust veriyi yanlislastirirdi — bu, kapiyi gevsetmek olurdu.
+  - bulgu: >-
+      dusunur-malthus'ta dunya nufus serisine atif kapsam-carpitmasi olarak
+      isaretlendi.
+    aksiyon: Etiket duzeltildi: bolge [avrupa, kuresel]. Metin degismedi.
+  - bulgu: >-
+      dusunur-hegel'de Schelling iliskisine dair cumle tek-kaynakli-nedensellik
+      olarak isaretlendi.
+    aksiyon: >-
+      Itiraz REDDEDILDI. Cumle "Kaynak ... yazar" kalibiyla atifli ve kaynagin
+      kendi anlatisini aktariyor; duragan karar kapsaminda.
+  - bulgu: Kalan uc itiraz ustunluk-iddiasi tipinde ve sayi sifati.
+    aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.

@@ -17,6 +17,8 @@ ilgili:
   - olay-fransiz-devrimi
   - olay-viyana-kongresi
   - olay-latin-amerika-bagimsizligi
+  - dusunur-clausewitz
+  - dusunur-hegel
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

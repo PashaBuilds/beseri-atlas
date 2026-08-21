@@ -1,0 +1,73 @@
+{
+  "id": "dusunur-hegel",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:00:13.692Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "von Schelling ile birlikte anılan bir düşünür olarak kaydeder; 1770'te Stuttgart'ta doğduğu ve 1788-1793 arasında Tübingen'de önce felsefe sonra ilahiyat okuduğ",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak felsefesine dair okumaları alt başlıklar hâlinde sıralar: geleneksel metafizik görüş, kimi zaman metafizik olmayan görüş de denen Kant sonrası görüş ve K",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Okumalardan birinin adını aldığı düşünür dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Schelling ile yakın çalıştıklarını, birlikte bir dergiyi düzenleyip ona katkıda bulunduklarını ve bu ilişki nedeniyle Hegel'in uzun yıllar Schelling'in ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir düşünürün ününün, kendi metinlerinden değil bir ilişkiden türemiş olarak kaydedilmesi, atlasın etki alanını neden ayrı tuttuğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1806 sonunda ilk büyük eserini tamamladığını (1807'de yayımlandı) ve eserin daha önceki, görünüşte daha Schellingci yaklaşımından bir ayrışma gösterdiği",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir metnin önsözünün bir ilişkiyi bitirmesi, eserlerin yalnızca içerikleriyle değil bulundukları bağlamla da kaydedilmesi gerektiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, elyazmasını tamamlarken Napolyon'un birliklerinin Jena'yı işgalinin üniversitenin faaliyetlerini kısıtladığını ve Hegel'in oradan ayrıldığını yazar; üni",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir başyapıtın yazılma koşulları arasında bir askerî işgalin sayılması, düşünce tarihini siyasi tarihten ayrı tutmanın güçlüğünü gösterir; ilgili savaşlar dosya",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir başyapıtın yazılma koşulları arasında bir askerî işgalin sayılması, düşünce tarihini siyasi tarihten ayrı tutmanın güçlüğünü gösterir; ilgili savaşlar dosya",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tinin Görüngübilimi ve Mantık Bilimi'nin içeriği, ansiklopedik sistem ve tin felsefesi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölüm",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    }
+  ]
+}

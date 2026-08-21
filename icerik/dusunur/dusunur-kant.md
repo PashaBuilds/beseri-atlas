@@ -15,6 +15,7 @@ ilgili:
   - dusunur-smith
   - dusunur-locke
   - dusunur-hobbes
+  - dusunur-hegel
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
