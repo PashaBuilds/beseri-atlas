@@ -19,6 +19,8 @@ ilgili:
   - dusunur-braudel
   - dusunur-durkheim
   - kavram-longue-duree
+  - dusunur-polanyi
+  - dusunur-weber
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

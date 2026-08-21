@@ -1,0 +1,73 @@
+{
+  "id": "dusunur-weber",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:14:39.208Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yöntem bölümünün altında dört alt başlık tutar: Verstehen, yöntemsel bireycilik, ideal tip ve değerden bağımsızlık.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak yöntem bölümünü kuramlar bölümünden önce yerleştirir; kuramlar bölümünde akılcılaşma, büyübozumu, Protestan ahlakı ve kapitalizmin ruhu, dünya dinlerinin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir düşünürün maddesinde yöntemin kuramlardan önce gelmesi, atlasın kendi yöntem notlarını neden içerikten ayrı bir dosyada tuttuğuyla aynı kararı yansıtır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak kayda değer fikirlerini uzun bir liste hâlinde verir; içinde ideal tip, karizma, büyübozumu, demir kafes, yaşam şansları, yöntemsel bireycilik, belirli b",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Otoritenin üçlü sınıflandırması karizmatik, akılcı-yasal ve geleneksel olarak; tabakalaşmanın üç bileşenli kuramı ise sınıf, parti ve statü olarak verilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir düşünürün katkısının kavram listesi biçiminde kaydedilmesi, atlasın kavram katmanının neden ayrı bir tip olarak kurulduğunu gösterir; meşruiyet kavramı dosy",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eserleri künyeleriyle sıralar: Protestan Ahlakı ve Kapitalizmin Ruhu (1904-1905), Dünya Dinlerinin İktisadi Ahlakı (1915-1921), Bilim Bir Meslek Olarak (",
+      "durum": "OK",
+      "not": "10 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Son üç eserin ölüm yılından sonraya tarihlenmesi, bunların ölümünden sonra yayımlandığı anlamına gelir; aynı durum dosyasında da görülür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yıllarda yazan bir çağdaşı için tutulan kayıt, onun toplumbilimi kurumlar bilimi olarak tanımladığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı soruya bir başka cevap için tutulan kayıt ise, toplum biçimlerinin üretici gücün gelişimine göre yükselip düştüğü fikrini anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Akılcılaşma tezi, din toplumbilimi, hukuk ve iktisat yazıları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

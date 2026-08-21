@@ -1,0 +1,67 @@
+{
+  "id": "dusunur-mahan",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:14:39.156Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onu 27 Eylül 1840'ta New York'ta doğmuş, 1 Aralık 1914'te Washington'da ölmüş biri olarak kaydeder ve Deniz Gücünün Tarih Üzerindeki Etkisi ile Deniz Güc",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak etki bölümünün altında ayrı alt başlıklar tutar: Almanya, Birleşik Krallık, Fransa, Japonya ve Birleşik Devletler.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuramın etkisinin tek bir başlık altında değil beş ayrı ülke başlığında işlenmesi, aynı metnin farklı yerlerde farklı biçimde okunabildiğini gösterir; atlas",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, stratejik görüşlerinin kökeni ve sınırlaması diye ayrı bir bölüm tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuramcının görüşlerinin sınırının bir ansiklopedi maddesinde kendi başlığını taşıması, atlasın her dosyada \"bu dosyanın sınırı\" bölümü tutmasının karşılığıd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak babasının Profesör Dennis Hart Mahan olduğunu ve bağlılığının Amerika Birleşik Devletleri ile Birlik olduğunu yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir askerî kuramcının babasının da bir askerî akademi hocası olarak kaydedilmesi, kuramların kurumsal ortamlarda üretildiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı on yıllarda kara gücü üzerine yazan bir başka yazar için ayrı bir kayıt tutulur; o yazarın kuramını 1904'te formüle ettiği belirtilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Savaş ilkeleri üzerine yazan bir önceki yüzyıl yazarı için tutulan kayıt, katkı alanları arasında savaş ilkelerini sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Deniz gücü tezinin içeriği, donanma kariyeri, dinî yaşamı ve sonraki alımlanması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler ol",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

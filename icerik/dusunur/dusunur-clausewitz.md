@@ -16,6 +16,7 @@ ilgili:
   - olay-napolyon-savaslari
   - dusunur-sima-qian
   - dusunur-hegel
+  - dusunur-mahan
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -14,6 +14,7 @@ etiketler: [durkheim, toplumsal-olgu, islevselcilik, mesruiyet, tartisma-basligi
 ilgili:
   - dusunur-marx
   - dusunur-mill
+  - dusunur-weber
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

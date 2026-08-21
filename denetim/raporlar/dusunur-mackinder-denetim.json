@@ -1,0 +1,85 @@
+{
+  "id": "dusunur-mackinder",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:14:39.137Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1904'te Kraliyet Coğrafya Cemiyeti'nde bir bildiri sunduğunu ve o bildiride kuramını formüle ettiğini yazar.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1903'e gelindiğinde siyasi konumunu değiştirdiğini ve artık serbest ticareti desteklemediğini, Liberal Parti'den ayrılıp korumacılığı savunduğunu ve Muh",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki tarihin yan yana kaydedilmesi, atlasın bir kuramın yazılma bağlamını neden ayrı bir alan saydığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki kayıt arasında bir neden bağı kurmaz; kaynakta böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bildirinin sıklıkla alanının kurucu metinlerinden biri, hatta kurucu metni sayıldığını yazar; ifade bir düzeltme kaydıyla verilmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir ansiklopedinin kendi üstünlük ifadesini cümle içinde düzeltmesi, atlasın bu tür ifadeleri neden kaynağın koyduğu çekinceyle birlikte taşıdığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1900 seçiminde Liberal aday olarak bir sandalye aradığını ve yenildiğini, 1909'da bir ara seçimde başarısız olduğunu, Ocak 1910'da milletvekili seçildiğ",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir coğrafya kuramcısının aynı kayıtta parti değiştirmeleriyle birlikte kaydedilmesi, kuramın hangi masada yazıldığını görünür kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı on yıllarda deniz gücü üzerine yazan bir başka yazar için ayrı bir kayıt tutulur; o yazarın 27 Eylül 1840'ta doğduğu ve 1 Aralık 1914'te öldüğü yazılır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kara gücü ile deniz gücü tezlerinin aynı on yıllara düşmesi, atlasın karşıt tezleri aynı dönem dosyasına bağlamasının gerekçesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kara gücü ile deniz gücü tezlerinin aynı on yıllara düşmesi, atlasın karşıt tezleri aynı dönem dosyasına bağlamasının gerekçesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir önceki yüzyılların yazarı için tutulan kayıt, onun yönetim biçimlerinin doğalcı bir açıklamasını kurduğunu yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuramın içeriği, coğrafya eğitimi alanındaki çalışmaları ve sonraki alımlanması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler ola",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

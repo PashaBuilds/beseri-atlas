@@ -13,6 +13,7 @@ ilgili:
   - kavram-asabiyet
   - dusunur-aristoteles
   - dusunur-gazali
+  - kavram-mesruiyet
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,0 +1,14 @@
+{
+  "id": "dusunur-mahan",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:15:09.460Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir kuramın etkisinin tek bir başlık altında değil beş ayrı ülke başlığında işlenmesi,[^k1] atlasın kendi kuralının dayanağıdır: bu dosyada etki cümleleri ülke belirtilmeden kurulm",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

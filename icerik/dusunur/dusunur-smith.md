@@ -21,6 +21,7 @@ ilgili:
   - dusunur-mill
   - dusunur-braudel
   - dusunur-keynes
+  - dusunur-polanyi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

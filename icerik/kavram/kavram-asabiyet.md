@@ -11,6 +11,7 @@ ilgili:
   - dusunur-ibn-haldun
   - dusunur-aristoteles
   - dusunur-thukydides
+  - kavram-mesruiyet
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

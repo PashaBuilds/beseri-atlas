@@ -19,6 +19,8 @@ ilgili:
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - olay-afyon-savaslari
   - olay-irlanda-kitligi
+  - dusunur-mackinder
+  - dusunur-mahan
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

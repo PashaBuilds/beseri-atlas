@@ -1,0 +1,73 @@
+{
+  "id": "dusunur-polanyi",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:14:39.170Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onun disiplinlerini iktisat toplumbilimi, iktisat tarihi, iktisadi antropoloji ve felsefe olarak sıralar; kayda değer fikirleri arasında gömülülük, çift ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, eski iktisatlara yaklaşımının Kolomb öncesi Amerika ve eski Mezopotamya gibi çeşitli örneklere uygulandığını, ancak eski toplumların incelenmesinde gene",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, onun iktisatların topluma ve kültüre nasıl gömülü olduğunu vurgulayan kültürel bir iktisat sürümünün kurucusu olarak hatırlandığını yazar; bu görüşün an",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir görüşün bir alanda karşı, başka alanlarda yaygın sayılması, disiplinlerin aynı iddia hakkında farklı yargılara varabileceğini gösterir; atlas bu yüzden kayn",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, çift hareket kavramının piyasalaşma ile ona karşı toplumsal korunma talebinin diyalektik sürecine gönderme yaptığını ve onun modern Avrupa'daki piyasa t",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuramın kendi konusunun kaçınılmaz olmadığını öne sürmesi, atlasın kaçınılmazlık cümlelerine neden temkinle yaklaştığıyla aynı soruna değinir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak etkilendiği kişiler arasında Karl Bücher, Ferdinand Tönnies, Adam Smith, Alfred Radcliffe-Brown, Werner Sombart, Max Weber, György Lukács ve Carl Menger'",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Etki listesinde hem kendi tezine karşı sayılabilecek hem yakın adların bulunması, etkinin onaylama anlamına gelmediğini gösterir; listede yer alan bir yazar dos",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Etki listesinde hem kendi tezine karşı sayılabilecek hem yakın adların bulunması, etkinin onaylama anlamına gelmediğini gösterir; listede yer alan bir yazar dos",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yüzyılda iktisadi tarih yazan bir başka yazar için tutulan kayıt, o yazarın kapitalistleri tekelciler olarak gördüğünü ve hem liberal hem Marksçı yorumlard",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Büyük Dönüşüm'ün içeriği, hayatının seyri ve substantivizm tartışmasının ayrıntıları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümle",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Dönüşüm"
+    }
+  ]
+}

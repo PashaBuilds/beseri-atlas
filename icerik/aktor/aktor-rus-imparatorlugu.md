@@ -19,6 +19,7 @@ ilgili:
   - olay-1905-rus-devrimi
   - olay-yedi-yil-savasi
   - olay-kirim-savasi
+  - dusunur-mackinder
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

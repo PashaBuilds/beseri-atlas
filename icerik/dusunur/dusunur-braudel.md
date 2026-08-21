@@ -15,6 +15,7 @@ ilgili:
   - dusunur-marx
   - dusunur-smith
   - kavram-longue-duree
+  - dusunur-polanyi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

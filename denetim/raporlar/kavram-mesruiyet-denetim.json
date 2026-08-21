@@ -1,0 +1,67 @@
+{
+  "id": "kavram-mesruiyet",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:14:39.231Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, otoritenin üçlü bir sınıflandırmasını kayda değer fikirler arasında sayar ve üç türü adlandırır: karizmatik, akılcı-yasal ve geleneksel.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üç türün ayrı ayrı adlandırılması, tek bir iktidarın birden çok gerekçeye dayanabileceğini ve gerekçe değiştiğinde iktidarın niteliğinin de değiştiğini düşündür",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayıt, belirli bir alan içinde meşru güç kullanımı tekelini de ayrı bir fikir olarak sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı soruya farklı bir gelenekten verilen cevap için ayrı bir kayıt tutulur: aynı soydan gelenlerin veya başka bir sebeple aralarında yakınlık bulunanların muha",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki cevabı karşılaştırmaz ve birini diğerinin öncülü saymaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas iki cevabı karşılaştırmaz ve birini diğerinin öncülü saymaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir başka kayıt, yönetimlerin yozlaşmadan nasıl korunabileceği sorusunu ve farklı organların yasama, yürütme ve yargı gücünü ayrı ayrı kullandığı bir düzen öner",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Meşruiyetin korunması ile yozlaşmanın önlenmesinin aynı çerçevede tartışılması, kavramın statik bir onay değil sürekli bir sorun olarak kaydedildiğini gösterir;",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramın hukuk kuramındaki kullanımı, uluslararası tanınma sorunu ve modern demokrasi tartışmalarındaki yeri burada ayrı başlıklar altında ele alınmamıştır; kul",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kavramın hukuk kuramındaki kullanımı, uluslararası tanınma sorunu ve modern demokrasi tartışmalarındaki yeri burada ayrı başlıklar altında ele alınmamıştır; kul",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

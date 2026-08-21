@@ -1797,7 +1797,7 @@ isler:
   - id: dusunur-weber
     tip: dusunur
     baslik: Max Weber
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1805,7 +1805,7 @@ isler:
   - id: dusunur-mahan
     tip: dusunur
     baslik: Alfred Thayer Mahan
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1813,7 +1813,7 @@ isler:
   - id: dusunur-mackinder
     tip: dusunur
     baslik: Halford Mackinder
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1837,7 +1837,7 @@ isler:
   - id: dusunur-polanyi
     tip: dusunur
     baslik: Karl Polanyi
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1901,7 +1901,7 @@ isler:
   - id: kavram-mesruiyet
     tip: kavram
     baslik: Meşruiyet
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
