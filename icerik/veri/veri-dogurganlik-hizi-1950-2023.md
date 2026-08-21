@@ -16,6 +16,7 @@ ilgili:
   - veri-dunya-nufusu-1500-2025
   - olay-nufus-patlamasi
   - veri-nufus-artis-hizi
+  - tartisma-demografik-donum-sonuclari
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/dogurganlik-hizi.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

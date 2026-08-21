@@ -17,6 +17,7 @@ ilgili:
   - kavram-demografik-gecis
   - kaynak-malthus-nufus
   - tartisma-nufus-artisi-tehdit-mi
+  - tartisma-demografik-donum-sonuclari
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/nufus-artis-hizi.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

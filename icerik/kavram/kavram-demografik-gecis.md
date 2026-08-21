@@ -21,6 +21,7 @@ ilgili:
   - veri-cocuk-olumleri
   - veri-nufus-artis-hizi
   - veri-bebek-olumleri
+  - tartisma-demografik-donum-sonuclari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

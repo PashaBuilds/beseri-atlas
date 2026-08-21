@@ -26,6 +26,7 @@ ilgili:
   - veri-nufus-artis-hizi
   - veri-tarimsal-verim
   - donem-16
+  - tartisma-demografik-donum-sonuclari
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

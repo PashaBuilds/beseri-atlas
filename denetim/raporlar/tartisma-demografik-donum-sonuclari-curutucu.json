@@ -1,0 +1,14 @@
+{
+  "id": "tartisma-demografik-donum-sonuclari",
+  "gecis": 3,
+  "zaman": "2026-08-21T12:53:26.904Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tek bir modelin dokuz ülke için ayrı ayrı incelenmesi,[^k1] modelin her yerde aynı biçimde işlemediğini gösterir.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

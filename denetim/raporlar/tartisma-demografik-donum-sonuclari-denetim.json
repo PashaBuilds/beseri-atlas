@@ -1,0 +1,85 @@
+{
+  "id": "tartisma-demografik-donum-sonuclari",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:53:04.810Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, demografik geçişi toplumsal bilimlerdeki — özellikle demografideki — bir olgu ve bir kuram olarak tanımlar; toplumlar daha fazla teknoloji, eğitim (özel",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, geçişin son iki yüzyılda dünyanın çoğunda gerçekleştiğini; Malthus sonrası dönemin benzeri görülmemiş nüfus artışını getirdiğini ve ardından dünyanın bü",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayıt, geçişin iktisadi büyüme sürecini üç değişim yoluyla güçlendirdiğini ve bunların ilkinin sermaye seyrelmesinin azalması olduğunu kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir modelin hem nüfus artışını hem azalışını açıklaması, atlasın şu kuralının dayanağıdır: bir eğilim cümlesi, modelin hangi evresine ait olduğu yazılmadan kuru",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, ikinci demografik geçiş için ayrı bir başlık; modelin değerlendirilmesi için ise ayrı bir eleştirel değerlendirme başlığı tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke bazlı tarihsel incelemeleri de ayrı ayrı sıralar: Britanya, İrlanda, Fransa, Hindistan, Kore, Çin, Madagaskar, Rusya ve Amerika Birleşik Devletleri.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tek bir modelin dokuz ülke için ayrı ayrı incelenmesi, modelin her yerde aynı biçimde işlemediğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Japonya'nın 1888-2019 arasındaki demografik geçişini örnek verir; nüfusun doğal olarak 38,6 milyondan 123,9 milyona çıktığını, ancak şu anda düşük doğur",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir ülkenin aynı model içinde hem artış hem azalış evresini yaşamış olması, modelin bir yön değil bir sıra öngördüğünü gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Doğurganlık serisinde dünya değeri 1950'de yaklaşık 4,86 çocuk, 2023'te yaklaşık 2,25 çocuktur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Nüfus artış hızı serisinde dünya değeri 1963'te yaklaşık yüzde 2,20, 2023'te yaklaşık yüzde 0,91'dir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki serinin farklı yıllarda zirve yapması, modelin iki ayağının aynı anda hareket etmediğini gösterir; seriler ve dosyalarında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki serinin farklı yıllarda zirve yapması, modelin iki ayağının aynı anda hareket etmediğini gösterir; seriler ve dosyalarında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

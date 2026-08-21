@@ -2477,7 +2477,7 @@ isler:
   - id: tartisma-demografik-donum-sonuclari
     tip: tartisma
     baslik: Nüfus daralması ne anlama geliyor?
-    durum: uretiliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
