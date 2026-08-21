@@ -1,0 +1,55 @@
+{
+  "id": "kavram-vergi",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:12:48.372Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tarih bölümünü dört alt başlığa ayırır: Roma ve medeni hukuk, İslam hukuku, modern tarih ve artık kullanılmayan biçimler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir maliye kavramının tarihinin iki ayrı hukuk geleneğiyle başlatılması, atlasın şu kuralının dayanağıdır: bu dosyada vergi, tek bir hukuk düzeninin kavramı ola",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın eskimiş vergi biçimlerine ayrı bir alt başlık ayırması, vergi türlerinin tarihsel olarak değiştiğini gösterir; atlas bu yüzden vergi adlarını dönemiyle",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, taksonomi ve sınıflandırma başlığı altında gelir vergisi, sosyal güvenlik katkıları, bordro, mülkiyet ve miras gibi alt başlıklar tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir tek kavram altında bu kadar çok türün sayılması, atlasın şu kuralının dayanağıdır: vergi yükü karşılaştırmaları, hangi türlerin sayıldığı belirtilmeden akta",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Toprak tahsisine dayalı bir kaynak aktarım sistemi için tutulan ayrı bir madde, sistemi Osmanlılar'da devlete ait toprakların askerî ve idarî gayelerle tahsisin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dönemin iktisat yazarı için tutulan kayıt, onun ahlak kuramının ahlaki pratiğe kılavuzluk etmesi gerektiğini düşündüğünü yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Vergi türlerinin ayrıntısı, oranlar ve iktisadi etkiler burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

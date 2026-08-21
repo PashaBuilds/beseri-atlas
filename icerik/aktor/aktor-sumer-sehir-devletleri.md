@@ -18,6 +18,7 @@ ilgili:
   - olay-yazinin-icadi
   - aktor-maya-uygarligi
   - kavram-sehir-devleti
+  - kavram-yazi-sistemi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

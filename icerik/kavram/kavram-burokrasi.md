@@ -14,6 +14,7 @@ ilgili:
   - kavram-imparatorluk
   - aktor-han-imparatorlugu
   - kavram-patrimonyalizm
+  - kavram-vergi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

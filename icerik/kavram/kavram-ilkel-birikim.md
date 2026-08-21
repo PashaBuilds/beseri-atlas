@@ -13,6 +13,7 @@ ilgili:
   - dusunur-marx
   - dusunur-smith
   - kavram-kapitalizm
+  - kavram-kolelik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

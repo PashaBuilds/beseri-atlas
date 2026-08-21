@@ -1,0 +1,49 @@
+{
+  "id": "kavram-yazi-sistemi",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:12:48.389Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, sistemleri iki ayrı ölçüte göre sınıflandırır: temel dilbilimsel birime göre (logografik sistemler, heceler, alfabeler ve özellikçi sistemler) ve grafik",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı nesnenin iki ayrı ölçüte göre sınıflandırılabilmesi, atlasın şu kuralının dayanağıdır: bu dosyada yazı sistemi adları, hangi sınıflandırmaya ait oldukları ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak ilk bölümünü dil ile ilişki başlığına ayırır ve ardından genel terminoloji için ayrı bir bölüm tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yazının dilden ayrı bir başlıkta ele alınması, bir dilin birden çok yazı sistemiyle yazılabileceğini ve bir yazı sisteminin birden çok dile uygulanabileceğini g",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yönetimde birden çok dilin kullanıldığı bir örnek için tutulan kayıt, bir kağanlığın ortak dillerini Eski Türkçe (resmî, hanedan ve gündelik), Soğdca (resm",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir adın Latinceleştirilmesine dair kayıt, Konfüçyüs adının Kong soyadı ile Usta anlamındaki fuzi onur ekinin Latinceleştirilmiş bir birleşimi olduğunu yazar.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yazının tarihi, sistemlerin ayrıntısı ve çözümleme yöntemleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

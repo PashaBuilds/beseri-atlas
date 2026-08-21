@@ -1,0 +1,43 @@
+{
+  "id": "kavram-kolelik",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:12:48.350Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, terminoloji başlığı altında altı alt başlık tutar: mal kölelik, borç emeği, bağımlılar, zorla çalıştırma (altında çocuk askerler ve çocuk emeği), zorla ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, hukuki yönler başlığı altında özel ile devlet eliyle uygulama ayrımını alt başlık olarak tutar; özellikler başlığı altında ise iktisat ve tanımlama alt ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir uygulamanın hukuki ve iktisadi yönlerinin ayrı ayrı işlenmesi, atlasın şu kuralının dayanağıdır: bu dosyada kölelik, yalnızca bir hukuki statü olarak değil ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kayıtta yer alan bir uygulama alanı için tutulan ayrı bir madde, doğu kıyısı boyunca yerleşimcilerin büyük ölçüde plantasyonlarda el emeği sağlamak üzere Afrika",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Zorla çalıştırmanın iktisadi çözümlemesi için tutulan kayıt, çağdaş kapitalist üretim tarzının kökenini sömürülen proletaryadan artı değer çıkarılmasında bulan ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Köleliğin tarihi, bölge bölge biçimleri ve kaldırılma süreçleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -18,6 +18,7 @@ ilgili:
   - olay-amerikan-ic-savasi
   - olay-internetin-yayginlasmasi
   - dusunur-tocqueville
+  - kavram-kolelik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

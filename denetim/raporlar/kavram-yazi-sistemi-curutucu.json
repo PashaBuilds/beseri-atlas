@@ -1,0 +1,14 @@
+{
+  "id": "kavram-yazi-sistemi",
+  "gecis": 3,
+  "zaman": "2026-08-21T10:12:48.940Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak ilk bölümünü dil ile ilişki başlığına ayırır ve ardından genel terminoloji için ayrı bir bölüm tutar.[^k1]",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

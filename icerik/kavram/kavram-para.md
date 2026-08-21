@@ -13,6 +13,7 @@ ilgili:
   - kavram-merkantilizm
   - kavram-kapitalizm
   - aktor-song-hanedani
+  - kavram-vergi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

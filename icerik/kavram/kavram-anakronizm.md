@@ -15,6 +15,7 @@ ilgili:
   - dusunur-carr
   - kavram-donemlendirme
   - kavram-kast
+  - kavram-yazi-sistemi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

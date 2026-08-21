@@ -15,6 +15,7 @@ etiketler: [yazi, civi-yazisi, hiyeroglif, mezopotamya, kayit]
 ilgili:
   - donem-02
   - aktor-sumer-sehir-devletleri
+  - kavram-yazi-sistemi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -13,6 +13,7 @@ ilgili:
   - aktor-osmanli-imparatorlugu
   - kavram-millet-sistemi
   - kavram-feodalite
+  - kavram-vergi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

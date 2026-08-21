@@ -19,6 +19,7 @@ ilgili:
   - aktor-ingiliz-doguhindistan-sirketi
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-locke
+  - kavram-kolelik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

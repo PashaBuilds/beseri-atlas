@@ -2261,7 +2261,7 @@ isler:
   - id: kavram-vergi
     tip: kavram
     baslik: Vergi
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2285,7 +2285,7 @@ isler:
   - id: kavram-yazi-sistemi
     tip: kavram
     baslik: Yazı sistemi
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2301,7 +2301,7 @@ isler:
   - id: kavram-kolelik
     tip: kavram
     baslik: Kölelik
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
