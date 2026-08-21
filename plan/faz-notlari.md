@@ -323,3 +323,19 @@ Orta/yuksek itirazlari ozetler ve cozulmemis itiraz varsa cikis kodu 1 verir.
 Zincir `&&` ile kuruldugu icin, cozulmemis bir itiraz varken onay adimi
 CALISMAZ. Bu, kapiyi gevsetmenin tam tersidir: insan dikkatine dayanan bir adim
 makineye devredildi.
+
+## Veri dosyalarinda turetilmis sayilar (2026-08-21, Faz 4 B19)
+
+veri-cocuk-olumleri'nde Gecis 2 iki HATA verdi: "225 gozlem" ve "224 yil"
+sayilari kaynakta bulunamadi. Haklıydi — bu sayilar CSV'yi indirdikten sonra
+BEN saydim; kaynagin metninde gecmiyorlar.
+
+Kural: veri dosyalarinda gozlem sayisi, yil sayisi gibi TURETILMIS sayilar
+govdede kaynaga atfedilerek yazilmaz. Bunlar indirilen dosyanin ozellikleridir
+ve `veri-setleri/<ad>.LISANS.md` icinde kayitlidir. Govdede yalnizca kaynakta
+FIILEN gecen degerler (ilk yil, son yil, uc degerler) kaynaga atfedilir.
+
+Onceki veri dosyalari tarandi: yalnizca bu dosya etkilenmisti; digerlerinde
+gozlem sayilari CSV metninde tesadufen bulunuyordu ve HATA vermemislerdi. Bu,
+kapinin bu turdeki isaretinin guvenilir oldugunu ama sessiz gecen durumlarin da
+olabilecegini gosteriyor — bu yuzden kural metne yazildi, kapiya birakilmadi.

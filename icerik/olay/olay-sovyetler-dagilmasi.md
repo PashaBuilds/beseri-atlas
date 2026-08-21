@@ -17,6 +17,7 @@ ilgili:
   - aktor-sovyetler-birligi
   - olay-ekim-devrimi
   - olay-berlin-duvarinin-yikilisi
+  - veri-askeri-harcama
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

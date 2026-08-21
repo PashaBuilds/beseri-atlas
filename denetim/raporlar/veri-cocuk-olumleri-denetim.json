@@ -1,0 +1,67 @@
+{
+  "id": "veri-cocuk-olumleri",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:24:46.233Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Seri 1800'de yüzde 42,8 ile başlar ve 2024'te yüzde 3,74 ile biter.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosyanın veri dosyası alanında kayıtlı CSV, kaynaktan indirilen dünya toplamı satırlarını içerir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): CSV"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın verdiği uç değerler 1800 için yüzde 42,8 ve 2024 için yüzde 3,74'tür; aynı sağlayıcının yaşam beklentisi serisinde uç değerler 1770 için 28,5 ve 2023 i",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaynağın verdiği uç değerler 1800 için yüzde 42,8 ve 2024 için yüzde 3,74'tür; aynı sağlayıcının yaşam beklentisi serisinde uç değerler 1770 için 28,5 ve 2023 i",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki serinin farklı başlangıç yıllarına sahip olması, atlasın veri dosyalarını neden aynı grafikte birleştirmediğinin dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki serinin farklı başlangıç yıllarına sahip olması, atlasın veri dosyalarını neden aynı grafikte birleştirmediğinin dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki ölçünün aynı yönde hareket etmesi, atlasın bunları tek bir nedene bağlamasını gerektirmez; iki ölçü farklı şeyler ölçer ve kullanılan veri kümeleri bir nede",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki ölçünün aynı yönde hareket etmesi, atlasın bunları tek bir nedene bağlamasını gerektirmez; iki ölçü farklı şeyler ölçer ve kullanılan veri kümeleri bir nede",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Nüfus artışı üzerine bir model için tutulan kayıt, aile geçindirmenin güçlüklerinin sonunda nüfus artış hızını azalttığını öne süren bir döngüyü anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke ülke oranlar, ölüm nedenleri ve hesaplama yöntemi burada ayrı başlıklar altında ele alınmamıştır; bu dosya yalnızca dünya toplamı serisini kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

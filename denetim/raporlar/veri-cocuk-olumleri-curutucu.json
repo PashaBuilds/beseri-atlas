@@ -1,0 +1,14 @@
+{
+  "id": "veri-cocuk-olumleri",
+  "gecis": 3,
+  "zaman": "2026-08-21T11:23:19.349Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki serinin aynı yönde hareket etmesi,[^k1][^k2] atlasın bunları tek bir nedene bağlamasını gerektirmez; iki ölçü farklı şeyler ölçer ve kullanılan veri kümeleri bir neden bilgisi ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

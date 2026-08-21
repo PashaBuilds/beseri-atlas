@@ -23,6 +23,7 @@ ilgili:
   - veri-kisi-basi-gsyh-1-2022
   - veri-okuryazarlik-1475-2023
   - tartisma-kara-olumun-sonuclari
+  - veri-cocuk-olumleri
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/dunya-nufusu.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

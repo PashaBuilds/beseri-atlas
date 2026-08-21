@@ -1,0 +1,79 @@
+{
+  "id": "veri-askeri-harcama",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:23:18.447Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Seri 1988'de yaklaşık 1.759.879.600.000 ile başlar ve 2025'te yaklaşık 2.771.294.000.000 ile biter; toplam 37 gözlem vardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Veri kümesinde dünya toplamı için 1988'den önce gözlem bulunmaz.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir askerî harcama serisinin yirminci yüzyılın son on yılından başlaması, atlasın şu kuralının dayanağıdır: bu dosyadan iki dünya savaşı dönemine ya da Soğuk Sa",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Serinin birimi sabit ABD dolarıdır; bu, farklı yılların değerlerini karşılaştırılabilir kılmak için enflasyondan arındırılmış bir hesap birimidir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): ABD"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir ölçünün biriminin doğrudan bir para birimi değil bir düzeltme kurgusu olması, atlasın şu kuralının dayanağıdır: bu seriden okunan değerler, birimin ne olduğ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli nüfus serisinde dünya nüfusu 1990 için yaklaşık 5,32 milyar, 2020 için yaklaşık 7,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki seriyi bölerek kişi başına askerî harcama üretmez; iki kümenin gözlem yılları aynı değildir ve böyle bir hesap kullanılan kaynak bölümlerinde verilmem",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas iki seriyi bölerek kişi başına askerî harcama üretmez; iki kümenin gözlem yılları aynı değildir ve böyle bir hesap kullanılan kaynak bölümlerinde verilmem",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Harcamanın gerekçelendirildiği kuramlardan biri için tutulan kayıt, kavramı orantılılık, karşılıklılık ve zorlayıcı inandırıcılık diye üç ölçüte ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu seriyi o kuramların doğrulanması olarak sunmaz: seri harcamayı verir, harcamanın etkisini vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu seriyi o kuramların doğrulanması olarak sunmaz: seri harcamayı verir, harcamanın etkisini vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke ülke harcamalar, GSYH'ye oran ve harcama kalemleri burada ayrı başlıklar altında ele alınmamıştır; bu dosya yalnızca dünya toplamı serisini kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): GSYH"
+    }
+  ]
+}

@@ -4,10 +4,10 @@ _Üretim tarihi: 2026-08-21 · Bu dosya `npm run rapor` ile ölçümlerden üret
 
 ## Kapsam
 
-Üretilen: **310** | Onaylanan: **310** | Karantinada: **0**
+Üretilen: **312** | Onaylanan: **312** | Karantinada: **0**
 
 Planlanan tam kapsam **358** makaledir; bu raporun yazıldığı anda
-**%86.6**'i yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
+**%87.2**'i yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
 birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 
 | Tip | Yayımlanan |
@@ -19,9 +19,9 @@ birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 | kaynak | 22 |
 | olay | 86 |
 | tartisma | 15 |
-| veri | 7 |
+| veri | 9 |
 
-Toplam gövde: **99.672** kelime.
+Toplam gövde: **100.134** kelime.
 
 ## Doğrulama
 
@@ -29,10 +29,10 @@ Toplam gövde: **99.672** kelime.
 Nihai skor: **1** (13 ölçülen değer: 13 doğrulandı, 0 çelişki)
 Ham skor: **0.4643** (28 değerlik örneklem, 15 değer bağımsız olarak türetilemedi)
 
-Geçiş 2 (kaynak denetimi): 1761 OK · 4 ISARET · 0 HATA · 1742 programatik olarak ölçülemedi
+Geçiş 2 (kaynak denetimi): 1767 OK · 4 ISARET · 0 HATA · 1758 programatik olarak ölçülemedi
 Kaynak doğrulama oranı: **0.9989**
 Makale başına ortalama kaynak: **3.09**
-Çürütücünün ürettiği itiraz adayı: **433**
+Çürütücünün ürettiği itiraz adayı: **434**
 Çapraz tutarlılık çelişkisi: **0**
 
 ### İki skorun anlamı
@@ -93,7 +93,7 @@ hatalı kaynağa dayanıyorsa ikisi de aynı yanlışa varır.
 ## Hattın durduğu nokta
 
 Aktif faz: **4** · Aktif parti: **B02**
-Kuyrukta bekleyen iş: **43** · Karantinada: **0**
+Kuyrukta bekleyen iş: **41** · Karantinada: **0**
 Harcanan bütçe: 1.320.000 / 40.000.000 token
 
 ### Neden burada duruyor

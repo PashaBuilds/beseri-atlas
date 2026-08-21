@@ -2805,7 +2805,7 @@ isler:
   - id: veri-cocuk-olumleri
     tip: veri
     baslik: Çocuk ölüm oranı
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2821,7 +2821,7 @@ isler:
   - id: veri-askeri-harcama
     tip: veri
     baslik: Askerî harcama
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

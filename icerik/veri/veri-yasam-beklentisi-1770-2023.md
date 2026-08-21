@@ -15,6 +15,7 @@ ilgili:
   - kavram-yasam-beklentisi
   - kavram-demografik-gecis
   - veri-dunya-nufusu-1500-2025
+  - veri-cocuk-olumleri
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/yasam-beklentisi.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

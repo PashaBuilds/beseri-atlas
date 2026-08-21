@@ -1,8 +1,8 @@
 {
   "mod": "--pre",
-  "zaman": "2026-08-21T11:20:59.989Z",
-  "gecti": true,
-  "makale_sayisi": 310,
+  "zaman": "2026-08-21T11:25:27.500Z",
+  "gecti": false,
+  "makale_sayisi": 312,
   "kapilar": [
     {
       "kapi": "KAPI 1 — Zod sema dogrulamasi",
@@ -62,10 +62,15 @@
     },
     {
       "kapi": "KAPI 10 — uydurma kaynak kontrolu",
-      "gecti": true,
-      "hata": 0,
+      "gecti": false,
+      "hata": 1,
       "uyari": 0,
-      "hatalar": []
+      "hatalar": [
+        {
+          "dosya": "icerik/veri/veri-askeri-harcama.md",
+          "mesaj": "k1: kunye dizesi sayfada bulunamadi (eslesme %0) — aranan: \"military_expenditure\""
+        }
+      ]
     }
   ]
 }

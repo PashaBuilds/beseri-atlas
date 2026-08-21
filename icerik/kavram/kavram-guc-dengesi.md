@@ -18,6 +18,7 @@ ilgili:
   - kaynak-mackinder-cografi-eksen
   - kaynak-mahan-deniz-gucu
   - kaynak-montesquieu-kanunlarin-ruhu
+  - veri-askeri-harcama
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -14,6 +14,7 @@ ilgili:
   - aktor-nato
   - kavram-guc-dengesi
   - kavram-surtunme
+  - veri-askeri-harcama
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

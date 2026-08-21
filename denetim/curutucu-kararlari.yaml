@@ -1097,3 +1097,15 @@ hat_duzeltmesi:
       gerekcelendiriyor. Yeniden denetlendi: 1 OK.
   - bulgu: Kalan itirazlar dusuk ciddiyette ustunluk-iddiasi tipinde.
     aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.
+
+# Faz 4 turu B19: cocuk olumleri, askeri harcama (veri) — 2026-08-21
+  - bulgu: >-
+      Gecis 2, veri-cocuk-olumleri'nde iki HATA verdi: "225" ve "224"
+      sayilari kaynakta bulunamadi.
+    aksiyon: >-
+      Itiraz HAKLIYDI. Bu sayilar CSV indirildikten sonra TURETILMISTI, kaynagin
+      metninde yoktu. Govdeden cikarildilar; sayilarin lisans dosyasinda
+      kayitli oldugu ve atlasin bunlari kaynaga atfetmedigi acikca yazildi.
+      Kural plan/faz-notlari.md icine yazildi.
+  - bulgu: Kalan itirazlar dusuk ciddiyette ustunluk-iddiasi tipinde.
+    aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.
