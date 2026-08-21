@@ -1,6 +1,6 @@
 {
-  "zaman": "2026-08-21T03:58:15.259Z",
-  "makale_sayisi": 32,
+  "zaman": "2026-08-21T04:16:14.189Z",
+  "makale_sayisi": 39,
   "celiskiler": [],
   "incelenecek": [
     {
@@ -52,10 +52,19 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
-        "aktor-osmanli-imparatorlugu",
-        "kaynak-clark-uyurgezerler"
+        "olay-balkan-savaslari",
+        "aktor-osmanli-imparatorlugu"
       ],
-      "detay": "\"Rusya\" — aktor-osmanli-imparatorlugu: 1792 / kaynak-clark-uyurgezerler: 1912"
+      "detay": "\"Rusya\" — olay-balkan-savaslari: 1912 / aktor-osmanli-imparatorlugu: 1792"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "kaynak-clark-uyurgezerler",
+        "aktor-osmanli-imparatorlugu"
+      ],
+      "detay": "\"Rusya\" — kaynak-clark-uyurgezerler: 1912 / aktor-osmanli-imparatorlugu: 1792"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -71,9 +80,27 @@
       "seviye": "incele",
       "makaleler": [
         "olay-1914-temmuz-krizi",
+        "olay-balkan-savaslari"
+      ],
+      "detay": "\"Balkanlar\" — olay-1914-temmuz-krizi: 1908 / olay-balkan-savaslari: 1912"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-1914-temmuz-krizi",
         "kaynak-clark-uyurgezerler"
       ],
       "detay": "\"Balkanlar\" — olay-1914-temmuz-krizi: 1908 / kaynak-clark-uyurgezerler: 1912"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-1914-temmuz-krizi",
+        "olay-balkan-savaslari"
+      ],
+      "detay": "\"Temmuz\" — olay-1914-temmuz-krizi: 1914 / olay-balkan-savaslari: 1912"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -101,6 +128,15 @@
         "kaynak-clark-uyurgezerler"
       ],
       "detay": "\"Sırbistan\" — olay-1914-temmuz-krizi: 1914 / kaynak-clark-uyurgezerler: 1912"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-abbasi-hilafeti",
+        "aktor-tang-hanedani"
+      ],
+      "detay": "\"Hanedanın\" — aktor-abbasi-hilafeti: 1258 / aktor-tang-hanedani: 1000"
     }
   ]
 }

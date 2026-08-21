@@ -1,0 +1,21 @@
+{
+  "id": "aktor-abbasi-hilafeti",
+  "gecis": 3,
+  "zaman": "2026-08-21T04:15:26.429Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Abbasi hanedanı, adını Hz. Muhammed'in amcası Abbas b. Abdülmuttalib b. Hâşim'den alır ve 750 ile 1258 yılları arasında hüküm sürmüştür; ilk atalarına nispetle bu hanedana Hâşimîle",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Hanedanın uzun ömrü, kesintisiz bir iktidar anlamına gelmez. Dönemin ikinci yarısında fiilî siyasi güç, hilafet kurumundan başka hanedanlara geçti. Selçuklular, Türklerin İslami de",
+      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

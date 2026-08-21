@@ -19,6 +19,8 @@ ilgili:
   - donem-11
   - donem-13
   - aktor-osmanli-imparatorlugu
+  - olay-balkan-savaslari
+  - olay-berlin-konferansi
 okuma_onerisi: []
 serit:
   - bolge: afrika

@@ -1,0 +1,28 @@
+{
+  "id": "olay-berlin-konferansi",
+  "gecis": 3,
+  "zaman": "2026-08-21T04:15:26.426Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yeni Emperyalizm çağında Avrupa güçleri ve Japonya, Afrika'nın neredeyse tamamını ve Asya'nın bazı kısımlarını tek tek fethetti.[^k1] Berlin Konferansı bu sürecin en görünür kurums",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Paylaşımın nedeni yalnızca siyasi hırs değildi. Dönemin iktisadi arka planı uzun bir fiyat deflasyonudur; ağır iş daralmalarıyla kesilen bu dönem hükümetleri yerli sanayiyi destekl",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Paylaşımın gerçekleştiği dünyada nüfus 1848'de yaklaşık 1,27 milyar, 1914'te yaklaşık 1,82 milyardı.[^k2] Bu artış, hem paylaşımı yapan güçlerin hem de paylaşılan bölgelerin nüfusu",
+      "sorun": "Makale afrika/avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    }
+  ]
+}

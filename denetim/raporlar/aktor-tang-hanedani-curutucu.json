@@ -1,0 +1,21 @@
+{
+  "id": "aktor-tang-hanedani",
+  "gecis": 3,
+  "zaman": "2026-08-21T04:15:59.862Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Hanedanın ilk imparatoru Gaozu 618–626 arasında hüküm sürdü; onu 626–649 arasında Taizong izledi.[^k1] Hanedanın kronolojisi kuruluş, Wu Zetian'ın gaspı, Xuanzong'un saltanatı, An ",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu liste, hanedanın konumunu tek başına anlatır: Nasturi Hristiyanlığı, Çin Maniheizmi, Zerdüştlük ve İslam aynı siyasi çatı altında azınlık dinleri olarak varlığını sürdürüyordu.[",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

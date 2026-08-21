@@ -364,7 +364,7 @@ isler:
   - id: olay-mogol-fetihleri
     tip: olay
     baslik: Moğol fetihleri
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-07
@@ -373,7 +373,7 @@ isler:
   - id: olay-kara-olum
     tip: olay
     baslik: Kara Ölüm
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-08
@@ -535,7 +535,7 @@ isler:
   - id: olay-berlin-konferansi
     tip: olay
     baslik: Berlin Konferansı ve Afrika paylaşımı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-12
@@ -553,7 +553,7 @@ isler:
   - id: olay-balkan-savaslari
     tip: olay
     baslik: Balkan Savaşları
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-12
@@ -778,7 +778,7 @@ isler:
   - id: aktor-abbasi-hilafeti
     tip: aktor
     baslik: Abbasi Hilafeti
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-06
@@ -787,7 +787,7 @@ isler:
   - id: aktor-tang-hanedani
     tip: aktor
     baslik: Tang hanedanı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-06
@@ -823,7 +823,7 @@ isler:
   - id: aktor-mogol-imparatorlugu
     tip: aktor
     baslik: Moğol İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-07

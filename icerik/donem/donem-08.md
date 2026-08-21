@@ -19,6 +19,7 @@ ilgili:
   - donem-07
   - donem-09
   - aktor-osmanli-imparatorlugu
+  - olay-kara-olum
 okuma_onerisi: []
 serit:
   - bolge: avrupa

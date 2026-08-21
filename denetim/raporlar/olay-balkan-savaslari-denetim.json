@@ -1,0 +1,67 @@
+{
+  "id": "olay-balkan-savaslari",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:15:26.048Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Balkan Savaşı, Osmanlı Devleti ile Balkan devletleri arasında iki safhada yapılan savaştır ve 8 Ekim 1912 ile 29 Eylül 1913 tarihleri arasında sürmüştür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Rusya'nın kışkırtmaları sonunda Osmanlı Devleti'ne ait toprakların taksimi esası üzerinde bir dizi antlaşma imzalandı: 13 Mart 1912'de Bulgaristan–Yunanistan, A",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Görüşmelerin konusu, Türkiye'ye ait Makedonya'nın taksimiydi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İttifakın kuruluş takvimiyle savaşın başlangıç tarihi arasındaki yakınlık dikkate değerdir: son antlaşma 6 Ekim 1912'de, savaş 8 Ekim 1912'de.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sofya elçiliğinden Hariciye nâzırlığına getirilen Âsım Bey, 15 Temmuz 1912'de Meclis-i Meb'ûsan'da yaptığı bir konuşmada Balkanlar'dan imanı kadar emin olduğunu",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir grup subayın siyasi grup kurup dağlara çıkması ve İstanbul'daki mensuplarının baskıları sonucunda Said Paşa kabinesi istifa etti; böylece İttihat ve Terakkî",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "22 Temmuz 1912'de Gazi Ahmed Muhtar Paşa'nın kurduğu, \"büyük kabine\" diye anılan hükümet göreve geldi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Savaş, büyük güçler arasındaki emperyal rekabetin yoğunlaştığı bir dönemde gerçekleşti; yeni emperyalizm dalgası bu rekabetleri ve yeni kaynak ile pazarlara duy",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mahmud ve Tanzimat devirlerinde başlayan kapsamlı yeniden yapılanmanın geç evresine denk gelir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaşın bitiş tarihi olan 29 Eylül 1913, Avrupa'nın büyük savaşından yalnızca on ay öncesidir.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

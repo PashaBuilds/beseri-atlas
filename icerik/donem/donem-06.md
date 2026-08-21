@@ -19,6 +19,8 @@ ilgili:
   - donem-05
   - donem-07
   - aktor-osmanli-imparatorlugu
+  - aktor-abbasi-hilafeti
+  - aktor-tang-hanedani
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

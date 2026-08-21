@@ -1,0 +1,14 @@
+{
+  "id": "olay-balkan-savaslari",
+  "gecis": 3,
+  "zaman": "2026-08-21T04:15:26.422Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Savaşın arifesinde Osmanlı iç siyaseti de çalkantılıydı. Bir grup subayın siyasi grup kurup dağlara çıkması ve İstanbul'daki mensuplarının baskıları sonucunda Said Paşa kabinesi is",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

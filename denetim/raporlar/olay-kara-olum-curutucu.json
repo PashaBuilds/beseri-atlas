@@ -1,0 +1,28 @@
+{
+  "id": "olay-kara-olum",
+  "gecis": 3,
+  "zaman": "2026-08-21T04:15:26.427Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kökeni tartışmalıdır.[^k1] En erken kurbanlar, bugünkü Kırgızistan'da Issık Göl yakınındaki Çüy Vadisi'nde iki mezarlıkta bulunmuştur; buradaki mezar taşları Süryanice kitabelerle ",
+      "sorun": "\"En erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yani etken yeni değildi; yeni olan, onu taşıyabilecek yoğunlukta bir bağlantı ağının varlığıydı. Salgının bir \"ikinci veba pandemisi\" olarak sınıflandırılması ve bu salgınların yak",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Çağdaşları olayı *salgın* ya da *büyük salgın*, *veba* ya da *büyük ölüm* diye adlandırdı; pandeminin ardından, 14. yüzyıl ortasındaki bu olguyu diğer bulaşıcı hastalıklardan ayırm",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

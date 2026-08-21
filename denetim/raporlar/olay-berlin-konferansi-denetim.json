@@ -1,0 +1,73 @@
+{
+  "id": "olay-berlin-konferansi",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:15:26.120Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Yeni Emperyalizm çağında Avrupa güçleri ve Japonya, Afrika'nın neredeyse tamamını ve Asya'nın bazı kısımlarını tek tek fethetti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Konferansın hedeflerinden biri Orta Afrika'nın ticareti, seyrüseferi ve sınırları konusunda anlaşmalara varmaktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kıtanın paylaşımı, Yeni Emperyalizm incelemelerinde Berlin Konferansı, Britanya sömürgeleri ve Kongo Serbest Devleti başlıkları altında ayrı ayrı ele alınır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Leopold Uluslararası Afrika Derneği'ni kurdu.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dernek, uluslararası bir bilim ve hayırseverlik kuruluşu görüntüsü altında çalışıyordu; gerçekte Leopold'a ait özel bir holding şirketiydi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin iktisadi arka planı uzun bir fiyat deflasyonudur; ağır iş daralmalarıyla kesilen bu dönem hükümetleri yerli sanayiyi desteklemeye zorladı ve Avrupa güçl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yeni emperyalizm dalgası, büyük güçler arasındaki süregelen rekabetleri, yeni kaynak ve pazarlara duyulan iktisadi arzuyu ve bir medenileştirme söylemini bir ar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sömürge yönetiminin şiddeti belgelenmiştir: 1904–1907 arasında Alman Güneybatı Afrikası'nda Herero savaşları, 1905–1907 arasında Alman Doğu Afrikası'nda Maji Ma",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Mahmud ve Tanzimat devirleri, devletin idari, siyasi, sosyal, kültürel ve ekonomik açılardan âdeta yeni bir şekle dönüştürüldüğü dönem olarak tanımlanır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Paylaşımın gerçekleştiği dünyada nüfus 1848'de yaklaşık 1,27 milyar, 1914'te yaklaşık 1,82 milyardı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, dosyanın kapsam sınırıdır: kullanılan kaynak süreci Berlin Konferansı, Britanya sömürgeleri ve Kongo Serbest Devleti gibi Avrupa merkezli başlıklar altında ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "olay-kara-olum",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:12:38.003Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kara Ölüm, Avrupa'da 1346'dan 1353'e kadar süren bir veba pandemisiydi ve insanlık tarihinin en ölümcül pandemilerinden biri olarak kabul edilir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tahmini ölü sayısı 25 ile 50 milyon arasındadır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Salgının yayılım alanı Avrupa ile sınırlı değildir: hastalık Avrasya ve Kuzey Afrika olarak tanımlanan bir coğrafyada görüldü.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Batı Asya ve Kuzey Afrika salgını, incelemelerde Avrupa salgınından ayrı bir başlık altında ele alınır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kökeni tartışmalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "En erken kurbanlar, bugünkü Kırgızistan'da Issık Göl yakınındaki Çüy Vadisi'nde iki mezarlıkta bulunmuştur; buradaki mezar taşları Süryanice kitabelerle ölenin ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kırgızistan, Issık, Göl, Çüy"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Genetik analiz, Yersinia pestis bakterisinin yaklaşık yedi bin yıl önce, Neolitik'in başında evrildiğini göstermektedir; pire aracılığıyla bulaşan suşlar ise ya",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Salgının bir \"ikinci veba pandemisi\" olarak sınıflandırılması ve bu salgınların yaklaşık 500–600 yıl arayla gerçekleşmiş olması, olayı tek seferlik bir felaket ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl ortasındaki bu olguyu diğer bulaşıcı hastalıklardan ayırmak için ilk salgın ifadesi kullanıldı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mors nigra yani kara ölüm ifadesi 1350'de Belçikalı gökbilimci Simon de Covino tarafından, güneşin Satürn şölenindeki hükmü üzerine yazdığı bir şiirde kullanıld",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynaklar hastalığın hıyarcıklı veba, akciğer vebası ve septisemik veba biçimlerini ayrı ayrı ele alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Pandeminin ölümler, iktisadi, çevresel ve kültürel etkileri ayrı ayrı incelenen başlıklardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Salgın, Geç Orta Çağ'da Avrupa'yı vuran ikinci büyük doğal felaket olarak sınıflandırılır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1500 yılında yaklaşık 503,1 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Salgının vurduğu coğrafyanın doğu ucunda, aynı yüzyıllarda Osmanlılar Batı Anadolu'nun kuzeyinde bir Türkmen beyliği olarak ortaya çıkıp üç kıtaya yayılan bir d",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

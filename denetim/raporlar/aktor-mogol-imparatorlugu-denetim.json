@@ -1,0 +1,67 @@
+{
+  "id": "aktor-mogol-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:12:38.169Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Moğol İmparatorluğu, 1206 ile 1368 arasında Avrasya'da varlığını sürdüren bir yapı olarak tanımlanır ve göçebe imparatorluk kategorisine yerleştirilir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Başkentleri arasında Avarga sayılır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birleşik dönem 1206–1260 arasına yerleştirilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İmparatorluk zamanla Altın Orda, Çağatay Hanlığı, İlhanlı ve Yuan hanedanı olarak ayrışan siyasi birimlere bölündü.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Selçuklular, Oğuzların Kınık boyuna mensup bir hanedandır ve adını Oğuz Devleti'nin ordu kumandanı Selçuk Bey'den alır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Askerî temeli başlangıçta aile fertlerine bağlı süvari kuvvetleriydi; Arslan Yabgu'nun doğrudan kendisine bağlı dört bin süvariden oluşan bir kuvveti vardı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Dandanakan zaferinin ardından Tuğrul Bey Büyük Selçuklu Devleti'nin ilk hükümdarı oldu (1040–1063) ve devrin geleneklerine uygun olarak çevredeki ülke hükümdarl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Moğol örneği bu geçişin çok daha büyük ölçekte tekrarıdır; imparatorluğun 1206–1260 arasındaki birleşik döneminin ardından dört ayrı hanlığa bölünmesi, geçişin ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İmparatorluğun 1206'dan 1368'e uzanan ömrü boyunca Çin, İran, Rusya ve Orta Avrupa aynı siyasi sistemin farklı uçları hâline geldi.",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı dönemde dünya nüfusu 1000'de yaklaşık 323,5 milyondan 1300'de yaklaşık 456,2 milyona çıktı.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

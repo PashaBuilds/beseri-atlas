@@ -1,0 +1,35 @@
+{
+  "id": "aktor-mogol-imparatorlugu",
+  "gecis": 3,
+  "zaman": "2026-08-21T04:15:26.430Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Birleşik dönem 1206–1260 arasına yerleştirilir.[^k1] Bu, imparatorluğun tek bir hanedan otoritesi altında işlediği elli dört yıldır; sonrası bölgesel yönetimlere uyarlanma dönemidi",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dandanakan zaferinin ardından Tuğrul Bey Büyük Selçuklu Devleti'nin ilk hükümdarı oldu (1040–1063) ve devrin geleneklerine uygun olarak çevredeki ülke hükümdarlarına fetihnâmeler g",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Moğol örneği bu geçişin çok daha büyük ölçekte tekrarıdır; imparatorluğun 1206–1260 arasındaki birleşik döneminin ardından dört ayrı hanlığa bölünmesi,[^k1] geçişin tek bir merkezd",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İmparatorluğun 1206'dan 1368'e uzanan ömrü boyunca[^k1] Çin, İran, Rusya ve Orta Avrupa aynı siyasi sistemin farklı uçları hâline geldi. Bu, farklı uygarlıkların birbirini doğrudan",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

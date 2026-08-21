@@ -18,6 +18,8 @@ etiketler: [selcuklu, mogol, hacli-seferleri, song, avrasya-agi]
 ilgili:
   - donem-06
   - donem-08
+  - olay-mogol-fetihleri
+  - aktor-mogol-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

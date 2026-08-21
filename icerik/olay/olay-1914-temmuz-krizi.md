@@ -13,6 +13,7 @@ etiketler: [ittifak-sistemi, seferberlik, diplomasi, balkanlar, ultimatom]
 ilgili:
   - donem-13
   - tartisma-1914-savas-sorumlulugu
+  - olay-balkan-savaslari
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 kaynaklar:
