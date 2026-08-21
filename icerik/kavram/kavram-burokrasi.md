@@ -15,6 +15,7 @@ ilgili:
   - aktor-han-imparatorlugu
   - kavram-patrimonyalizm
   - kavram-vergi
+  - tartisma-osmanli-gerileme-tezi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

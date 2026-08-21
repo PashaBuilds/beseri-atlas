@@ -28,6 +28,7 @@ ilgili:
   - aktor-safevi-devleti
   - aktor-songhay-imparatorlugu
   - olay-meksika-fethi
+  - tartisma-osmanli-gerileme-tezi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

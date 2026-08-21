@@ -26,6 +26,7 @@ ilgili:
   - kavram-barut-imparatorluklari
   - kavram-millet-sistemi
   - kavram-timar
+  - tartisma-osmanli-gerileme-tezi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

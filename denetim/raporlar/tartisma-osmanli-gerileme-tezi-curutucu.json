@@ -1,0 +1,14 @@
+{
+  "id": "tartisma-osmanli-gerileme-tezi",
+  "gecis": 3,
+  "zaman": "2026-08-21T10:55:28.947Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu haritanın çıkış noktası kaynağın tek bir cümlesidir: 17. yüzyıl bir zamanlar Osmanlılar için bir gerileme dönemi olarak nitelenmişti, ancak 1980'lerden bu yana Osmanlı İmparator",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

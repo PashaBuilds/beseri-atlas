@@ -14,6 +14,7 @@ ilgili:
   - kavram-somurgesizlesme
   - kavram-hegemonya
   - kavram-burokrasi
+  - tartisma-osmanli-gerileme-tezi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

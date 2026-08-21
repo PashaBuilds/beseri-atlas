@@ -30,6 +30,7 @@ ilgili:
   - olay-ronesans
   - aktor-hun-imparatorlugu
   - kaynak-gibbon-roma
+  - tartisma-osmanli-gerileme-tezi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

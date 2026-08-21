@@ -2413,7 +2413,7 @@ isler:
   - id: tartisma-osmanli-gerileme-tezi
     tip: tartisma
     baslik: Osmanlı gerileme tezi geçerli mi?
-    durum: uretiliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

@@ -15,6 +15,7 @@ ilgili:
   - donem-01
   - tartisma-eksen-cagi-gercek-mi
   - kaynak-braudel-akdeniz
+  - tartisma-osmanli-gerileme-tezi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

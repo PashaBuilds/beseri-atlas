@@ -1,0 +1,85 @@
+{
+  "id": "tartisma-osmanli-gerileme-tezi",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:55:51.053Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl bir zamanlar Osmanlılar için bir gerileme dönemi olarak nitelenmişti, ancak 1980'lerden bu yana Osmanlı İmparatorluğu tarihçileri bu nitelemeyi giderek r",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak dönemi yaklaşık 1550 ile yaklaşık 1700 arasına yerleştirir; Kanuni Sultan Süleyman'ın saltanatının sonundan Kutsal İttifak Savaşı'nın sonundaki Karlofça ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir tarih yazımı tartışmasının belirli bir yüz elli yıla bağlanması, atlasın şu kuralının dayanağıdır: bu haritadaki pozisyonlar, imparatorluğun bütünü için değ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, dönemin çok sayıda dramatik siyasi, toplumsal ve iktisadi değişimle nitelendiğini ve bunların imparatorluğu yayılmacı, patrimonyal bir devletten adaleti",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın bu geçişi adlandırmak için kullandığı iki terim, dönemin kendi sözcükleri değildir; atlas bu terimleri Türkçeye çevirirken dönemin diline yakın karşılı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, bir zayıflama değil bir tür değişimi tarifidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıllardaki bir dizi siyasi ve iktisadi krizden kaynaklandığını ve bu krizlerin enflasyon, savaş ve siyasi hizipleşmeden doğduğunu yazar; buna rağmen imparato",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı paragrafın hem krizi hem gücün sürdüğünü kaydetmesi, üçüncü pozisyonun dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Devletin kendisi için tutulan bağımsız bir kayıt, Osmanlılar maddesi olarak ayrı bir ansiklopedide bulunur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı kategori sorununun bir başka örneği için tutulan kayıt, 1984'te 210 farklı kuramın sayıldığını yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki tartışmanın da \"çöküş\" kavramının kendisine itiraz eden bir kanat içermesi, atlasın bu kategoriyi neden kavram katmanında ayrıca tuttuğunun dayanağıdır; kav",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki tartışmanın da \"çöküş\" kavramının kendisine itiraz eden bir kanat içermesi, atlasın bu kategoriyi neden kavram katmanında ayrıca tuttuğunun dayanağıdır; kav",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kendisi bir nitelemenin reddedildiğini kaydeder ama yerine geçen çerçevenin doğruluğu konusunda bir hüküm vermez; bu atlas da vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

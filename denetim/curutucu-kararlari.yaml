@@ -969,3 +969,19 @@ hat_duzeltmesi:
       `node araclar/itiraz-ozet.mjs <id...> && <onay>` zinciri, cozulmemis bir
       itiraz varken onay adimini calistirmaz. Bundan sonra onay bu zincirle
       yapiliyor.
+
+# Faz 4 turu B09: Osmanli gerileme tezi — 2026-08-21
+  - bulgu: >-
+      Curutucu iki YUKSEK ciddiyette anakronizm buldu: "ideoloji" (~1790) ve
+      "burokrasi" (~1750), makale 1700'de bitiyor. Iki terim de kaynagin KENDI
+      Ingilizce metninden ("ideology of upholding justice", "bureaucratic
+      empire") cevrilmisti.
+    aksiyon: >-
+      Itiraz HAKLIYDI. Terimler donemin diline yakin karsiliklarla degistirildi
+      ("ogretisine", "yonetim kadrosuna dayali") ve GOVDEDE bunun geriye donuk
+      bir adlandirma oldugu acikca yazildi. Kavram dosyasina ic link
+      kaldirildi, baglanti `ilgili` alaninda birakildi — kavram-malthus-tuzagi
+      ile ayni cozum.
+      NOT: bu itiraz, yeni yazilan araclar/itiraz-ozet.mjs sayesinde ONAYDAN
+      ONCE goruldu ve zincir cikis kodu 1 ile durdu. Arac ilk kullanimda ise
+      yaradi.
