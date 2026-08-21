@@ -21,6 +21,7 @@ ilgili:
   - tartisma-fransiz-devrimi-yorumlari
   - kaynak-sima-qian-shiji
   - kaynak-tacitus-annales
+  - tartisma-buyuk-adam-kurami
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

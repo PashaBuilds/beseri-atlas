@@ -2781,7 +2781,7 @@ isler:
   - id: tartisma-buyuk-adam-kurami
     tip: tartisma
     baslik: Tarihi bireyler mi yapar?
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

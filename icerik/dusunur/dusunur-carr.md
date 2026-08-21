@@ -21,6 +21,7 @@ ilgili:
   - kavram-tarih-yazimi
   - kaynak-carr-tarih-nedir
   - tartisma-soguk-savasin-baslangici
+  - tartisma-buyuk-adam-kurami
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

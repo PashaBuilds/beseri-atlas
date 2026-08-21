@@ -38,6 +38,7 @@ ilgili:
   - olay-kirim-savasi
   - olay-boksor-isyani
   - olay-italyan-birligi
+  - tartisma-buyuk-adam-kurami
 okuma_onerisi: []
 serit:
   - bolge: afrika

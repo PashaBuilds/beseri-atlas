@@ -22,6 +22,7 @@ ilgili:
   - kavram-dunya-sistemi
   - kavram-kapitalizm
   - kaynak-braudel-akdeniz
+  - tartisma-buyuk-adam-kurami
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

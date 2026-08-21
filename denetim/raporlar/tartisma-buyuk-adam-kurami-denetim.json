@@ -1,0 +1,31 @@
+{
+  "id": "tartisma-buyuk-adam-kurami",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:56:57.372Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu haritanın çıkış noktası kaynağın bölüm yapısıdır: kurama ve varsayımlarına ayrı alt başlıklar, ardından yanıtlar için ayrı bir bölüm.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yanıtlar başlığı altında üç alt başlık tutar: Herbert Spencer'ın eleştirisi, William James'in savunusu ve diğer yanıtlar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Dördüncü pozisyonun kaynağı için tutulan kayıt, üçüncü düzeyin olayların zamanı olduğunu, bunun adı olan bireylerin tarihi olduğunu ve yazar için yüzeylerin ve ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yapısal açıklamanın bir başka biçimi için tutulan kayıt, toplum biçimlerinin üretici gücün gelişimine göre yükselip düştüğü fikri etrafında kurulu bir tarih kur",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

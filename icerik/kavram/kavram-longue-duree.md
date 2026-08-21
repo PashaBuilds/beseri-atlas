@@ -19,6 +19,7 @@ ilgili:
   - kavram-donemlendirme
   - kavram-umran
   - kaynak-braudel-akdeniz
+  - tartisma-buyuk-adam-kurami
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
