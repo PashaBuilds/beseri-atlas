@@ -14,6 +14,7 @@ ilgili:
   - olay-ikinci-dunya-savasi
   - dusunur-clausewitz
   - kavram-surtunme
+  - kaynak-clausewitz-savas-uzerine
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -2589,7 +2589,7 @@ isler:
   - id: kaynak-clausewitz-savas-uzerine
     tip: kaynak
     baslik: Clausewitz — Savaş Üzerine
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2605,7 +2605,7 @@ isler:
   - id: kaynak-mackinder-cografi-eksen
     tip: kaynak
     baslik: Mackinder — Tarihin Coğrafi Ekseni
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

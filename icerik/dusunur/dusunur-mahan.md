@@ -15,6 +15,7 @@ ilgili:
   - dusunur-mackinder
   - dusunur-clausewitz
   - aktor-britanya-imparatorlugu
+  - kaynak-mackinder-cografi-eksen
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

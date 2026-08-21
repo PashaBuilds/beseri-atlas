@@ -1,0 +1,21 @@
+{
+  "id": "kaynak-clausewitz-savas-uzerine",
+  "gecis": 3,
+  "zaman": "2026-08-21T10:42:58.318Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir eserin bugünkü biçiminin yazarından sonra bir başkasının düzenleme kararlarıyla oluşması,[^k1] atlasın şu kuralının dayanağıdır: bu dosyada esere atfedilen hiçbir önerme, hangi",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, yazarın Prusya'nın seferber edebildiği tek ordunun kurmay başkanı olarak atandığını, büyük kolera salgınını sınırlamak için kurulan karantina hattının komutasını üstlendiği",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

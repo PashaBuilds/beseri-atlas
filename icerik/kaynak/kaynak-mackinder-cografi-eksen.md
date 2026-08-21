@@ -1,0 +1,98 @@
+---
+id: kaynak-mackinder-cografi-eksen
+tip: kaynak
+baslik: "Mackinder — Tarihin Coğrafi Ekseni"
+ozet: >-
+  1904'te bir cemiyette sunulan bildiri; kaynak, yazarın siyasi konumunu
+  değiştirmesinden bir yıl sonra formüle edildiğini kaydeder.
+tarih_baslangic: "1904"
+bolge: [avrupa, orta-asya]
+eksen: [siyasi, askeri]
+guven_geneli: yaygin
+etiketler: [cografi-eksen, kalpgah, bildiri, siyasi-konum, cemiyet]
+ilgili:
+  - dusunur-mackinder
+  - dusunur-mahan
+  - kavram-guc-dengesi
+okuma_onerisi: []
+yazar: "Halford Mackinder"
+eser_adi: "The Geographical Pivot of History"
+yayin_yili: 1904
+telif_durumu: kamu-mali
+tez_ozeti: >-
+  Kaynak, yazarın 1904'te Kraliyet Coğrafya Cemiyeti'nde bir bildiri sunduğunu ve
+  bu bildiride kuramını formüle ettiğini yazar; bildirinin sıklıkla alanının
+  kurucu metinlerinden biri, hatta kurucu metni sayıldığını da kaydeder. Aynı
+  kayıt yazarın 1903'e gelindiğinde siyasi konumunu değiştirdiğini ve artık
+  serbest ticareti desteklemediğini belirtir.
+hangi_tartismada:
+  - tartisma-imparatorluk-siniri-nasil-cizilir
+kaynaklar:
+  - anahtar: k1
+    tur: ansiklopedi
+    ad: "Wikipedia (EN) - Halford Mackinder"
+    url: https://en.wikipedia.org/wiki/Halford_Mackinder
+    erisim_tarihi: 2026-08-21
+    dogrulama_dizesi: "Mackinder"
+  - anahtar: k2
+    tur: ansiklopedi
+    ad: "Wikipedia (EN) - Alfred Thayer Mahan"
+    url: https://en.wikipedia.org/wiki/Alfred_Thayer_Mahan
+    erisim_tarihi: 2026-08-21
+    dogrulama_dizesi: "Mahan"
+    not: "Karsit tezin yazari"
+  - anahtar: k3
+    tur: akademik
+    ad: "Stanford Encyclopedia of Philosophy - Baron de Montesquieu"
+    url: https://plato.stanford.edu/entries/montesquieu/
+    erisim_tarihi: 2026-08-21
+    dogrulama_dizesi: "Montesquieu"
+    not: "Cografya ile yonetim bicimini birlikte ele alan onceki yazar; bagimsiz alan adi"
+son_denetim: 2026-08-21
+denetim_durumu: onaylandi
+onarim_turu: 0
+---
+
+## Künye
+
+Kaynak, yazarın 1904'te Kraliyet Coğrafya Cemiyeti'nde bir bildiri sunduğunu ve
+bu bildiride kuramını formüle ettiğini yazar.[^k1]
+
+## Bildiri bir siyasi dönüşün ardından gelir
+
+Kaynak, 1903'e gelindiğinde yazarın siyasi konumunu değiştirdiğini, artık serbest
+ticareti desteklemediğini, Liberal Parti'den ayrıldığını, korumacılığı
+savunduğunu ve Muhafazakâr Parti üyesi olduğunu yazar; kuramı 1904'te formüle
+ettiğini kaydeder.[^k1]
+
+İki tarihin bir yıl arayla kaydedilmesi,[^k1] atlasın şu kuralının dayanağıdır:
+bu dosyada bildiriye atfedilen önermeler, yazıldığı siyasi bağlam belirtilerek
+aktarılır. Atlas iki kayıt arasında bir neden bağı kurmaz; kaynakta böyle bir bağ
+belirtilmemiştir.[^k1]
+
+## Önem nitelemesi koşulludur
+
+Kaynak, bildirinin sıklıkla alanının kurucu metinlerinden biri, hatta kurucu
+metni sayıldığını yazar; ifade bir düzeltme kaydıyla verilmiştir.[^k1]
+
+Bir ansiklopedinin kendi üstünlük ifadesini cümle içinde düzeltmesi,[^k1] atlasın
+bu tür ifadeleri neden koşullarıyla birlikte taşıdığının dayanağıdır.
+
+## Karşıt tez aynı on yıllardadır
+
+Karşıt tezin yazarı için tutulan kayıt, onu 27 Eylül 1840 - 1 Aralık 1914 arasına
+yerleştirir ve deniz gücü üzerine iki eserin yazarı olduğunu belirtir.[^k2] O
+yazar [Alfred Thayer Mahan](/dusunur/mahan/) dosyasında ele alınıyor.
+
+## Coğrafya ve yönetim biçimi üzerine önceki yazar
+
+Önceki bir yazar için tutulan kayıt, onun çeşitli yönetim biçimlerinin doğalcı
+bir açıklamasını kurduğunu yazar.[^k3] O yazar
+[Montesquieu](/dusunur/montesquieu/) dosyasında, bildirinin yazarı ise
+[Halford Mackinder](/dusunur/mackinder/) dosyasında ele alınıyor.
+
+## Okuma yönlendirmesi
+
+Bu dosya bildirinin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
+ansiklopedi maddesidir.[^k1] Bildiri kamu malıdır; hangi baskının kullanıldığı
+her aktarımda belirtilmelidir.

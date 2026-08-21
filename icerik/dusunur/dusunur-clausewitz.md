@@ -19,6 +19,7 @@ ilgili:
   - dusunur-mahan
   - kavram-topyekun-savas
   - kavram-surtunme
+  - kaynak-clausewitz-savas-uzerine
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

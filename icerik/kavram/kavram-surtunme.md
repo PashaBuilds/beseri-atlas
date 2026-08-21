@@ -13,6 +13,7 @@ ilgili:
   - dusunur-clausewitz
   - kavram-topyekun-savas
   - kavram-caydiricilik
+  - kaynak-clausewitz-savas-uzerine
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

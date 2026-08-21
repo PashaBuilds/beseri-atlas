@@ -16,6 +16,7 @@ ilgili:
   - aktor-britanya-imparatorlugu
   - aktor-rus-imparatorlugu
   - kavram-guc-dengesi
+  - kaynak-mackinder-cografi-eksen
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

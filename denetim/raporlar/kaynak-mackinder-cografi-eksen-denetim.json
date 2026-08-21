@@ -1,0 +1,61 @@
+{
+  "id": "kaynak-mackinder-cografi-eksen",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:42:57.734Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın 1904'te Kraliyet Coğrafya Cemiyeti'nde bir bildiri sunduğunu ve bu bildiride kuramını formüle ettiğini yazar.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1903'e gelindiğinde yazarın siyasi konumunu değiştirdiğini, artık serbest ticareti desteklemediğini, Liberal Parti'den ayrıldığını, korumacılığı savundu",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki tarihin bir yıl arayla kaydedilmesi, atlasın şu kuralının dayanağıdır: bu dosyada bildiriye atfedilen önermeler, yazıldığı siyasi bağlam belirtilerek aktarı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki kayıt arasında bir neden bağı kurmaz; kaynakta böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, bildirinin sıklıkla alanının kurucu metinlerinden biri, hatta kurucu metni sayıldığını yazar; ifade bir düzeltme kaydıyla verilmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir ansiklopedinin kendi üstünlük ifadesini cümle içinde düzeltmesi, atlasın bu tür ifadeleri neden koşullarıyla birlikte taşıdığının dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Karşıt tezin yazarı için tutulan kayıt, onu 27 Eylül 1840 - 1 Aralık 1914 arasına yerleştirir ve deniz gücü üzerine iki eserin yazarı olduğunu belirtir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Önceki bir yazar için tutulan kayıt, onun çeşitli yönetim biçimlerinin doğalcı bir açıklamasını kurduğunu yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya bildirinin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -15,6 +15,7 @@ ilgili:
   - olay-viyana-kongresi
   - kavram-caydiricilik
   - kavram-hegemonya
+  - kaynak-mackinder-cografi-eksen
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

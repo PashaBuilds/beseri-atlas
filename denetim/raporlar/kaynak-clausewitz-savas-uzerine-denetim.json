@@ -1,0 +1,61 @@
+{
+  "id": "kaynak-clausewitz-savas-uzerine",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:42:57.718Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eseri Vom Kriege adıyla künyeler ve yazarın en dikkate değer eseri olduğunu, ölümünde tamamlanmamış olmasına rağmen askerî strateji ve bilim üzerine teme",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, dul eşinin savaş felsefesi üzerine olan başyapıtı 1832'de düzenlediğini, yayımladığını ve giriş bölümünü yazdığını kaydeder; yazarın metin üzerinde 1816",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dul eşinin ayrıca eserin önsözünü yazdığı ve 1835'e kadar toplu eserlerinin çoğunu yayımladığı yazılır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir eserin bugünkü biçiminin yazarından sonra bir başkasının düzenleme kararlarıyla oluşması, atlasın şu kuralının dayanağıdır: bu dosyada esere atfedilen hiçbi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın Prusya'nın seferber edebildiği tek ordunun kurmay başkanı olarak atandığını, büyük kolera salgınını sınırlamak için kurulan karantina hattının k",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eserin yayım yılı ile yazarın ölüm yılı arasındaki bir yıllık fark, künye alanında yayın yılının 1832 olarak tutulmasının gerekçesidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Eserden türetilen bir kavram için tutulan ayrı kayıt, kavramın köken, askerî kullanım ve benzetimler ile oyunlar bölümlerini tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Önceki yüzyılın savaş ilkeleri yazarı için tutulan kayıt, katkı alanları arasında savaş ilkelerini sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
