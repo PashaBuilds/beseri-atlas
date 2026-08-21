@@ -1,6 +1,6 @@
 {
   "mod": "--pre",
-  "zaman": "2026-08-21T12:23:17.759Z",
+  "zaman": "2026-08-21T12:24:02.362Z",
   "gecti": true,
   "makale_sayisi": 344,
   "kapilar": [
@@ -29,7 +29,7 @@
       "kapi": "KAPI 5 — link butunlugu",
       "gecti": true,
       "hata": 0,
-      "uyari": 5,
+      "uyari": 0,
       "hatalar": []
     },
     {

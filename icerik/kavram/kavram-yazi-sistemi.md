@@ -14,6 +14,7 @@ ilgili:
   - kavram-anakronizm
   - aktor-sumer-sehir-devletleri
   - veri-okuryazarlik-1475-2023
+  - tartisma-yazinin-icadi-nerede
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

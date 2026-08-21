@@ -22,6 +22,7 @@ ilgili:
   - aktor-hitit-imparatorlugu
   - aktor-misir-yeni-kralligi
   - aktor-sumer-sehir-devletleri
+  - tartisma-yazinin-icadi-nerede
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

@@ -1,7 +1,7 @@
 {
   "id": "tartisma-yazinin-icadi-nerede",
   "gecis": 3,
-  "zaman": "2026-08-21T12:23:28.674Z",
+  "zaman": "2026-08-21T12:23:49.099Z",
   "itirazlar": [
     {
       "ciddiyet": "dusuk",
@@ -23,13 +23,6 @@
       "cumle": "Bu sekizlinin üç ayrı kıtadan gelmesi,[^k1] tek köken varsayımının yanıtlaması gereken asıl güçlüğü gösterir: yayılma yolunun her biri için ayrı ayrı gösterilmesi gerekir.",
       "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "orta",
-      "tip": "tek-kaynakli-nedensellik",
-      "cumle": "Kaynak, yazı sistemlerinin genellikle üç ölçütü karşıladığını belirtir: yazının bir amacı ya da anlamı olması, belirli simgeler kullanılması ve bu simgelerin konuşulan dilin öğeler",
-      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
-      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
     },
     {
       "ciddiyet": "dusuk",

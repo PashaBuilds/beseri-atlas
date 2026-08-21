@@ -2677,7 +2677,7 @@ isler:
   - id: tartisma-yazinin-icadi-nerede
     tip: tartisma
     baslik: Yazı nerede icat edildi?
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

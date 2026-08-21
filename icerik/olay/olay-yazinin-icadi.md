@@ -16,6 +16,7 @@ ilgili:
   - donem-02
   - aktor-sumer-sehir-devletleri
   - kavram-yazi-sistemi
+  - tartisma-yazinin-icadi-nerede
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

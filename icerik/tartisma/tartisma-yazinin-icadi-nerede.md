@@ -84,7 +84,7 @@ kaynaklar:
     dogrulama_dizesi: "literacy"
     not: "Bagimsiz alan adi (Ilke 6); yazinin yayginligi ancak cok gec olculebiliyor"
 son_denetim: 2026-08-21
-denetim_durumu: bekliyor
+denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
@@ -124,8 +124,8 @@ bölümü ile tanım bölümü farklı kabuller taşıyabilir ve ikisi ayrı ayr
 Kaynak, yazı sistemlerinin genellikle üç ölçütü karşıladığını belirtir: yazının
 bir amacı ya da anlamı olması, belirli simgeler kullanılması ve bu simgelerin
 konuşulan dilin öğelerine karşılık gelmesi.[^k1] Ön-yazının dillerdeki
-dilbilgisini ve söz varlığını tam yansıtamadığı, bu yüzden çoğu kez yalnızca
-geniş ya da belirsiz bilgi kodlayabildiği kaydedilir.[^k1]
+dilbilgisini ve söz varlığını tam yansıtamadığı ayrıca kaydedilir; aynı yerde
+çoğu kez yalnızca geniş ya da belirsiz bilgi kodlayabildiği yazılır.[^k1]
 
 Eşiğin bu şekilde tanımlanması,[^k1] "yazı ne zaman icat edildi" sorusuna
 verilecek tarihin eşiğe göre değişeceğini gösterir; kavram

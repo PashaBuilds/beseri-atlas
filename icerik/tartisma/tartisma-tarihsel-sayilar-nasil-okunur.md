@@ -52,6 +52,7 @@ ilgili:
   - kavram-buyuk-ayrisma
   - tartisma-kara-olumun-sonuclari
   - veri-savas-olumleri
+  - tartisma-yazinin-icadi-nerede
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:
