@@ -180,3 +180,24 @@ _2026-08-21T05:52:39.711Z_
 Ölçülen skor 0.875 < 0.90. Bu, projedeki tek koşulsuz durdurma kuralıdır (§16).
 Doğrulama oranı bu eşiğin altındayken üretmeye devam etmek, doğrulanamayan
 içerik hacmini büyütmekten başka bir şey yapmaz.
+
+## Örnekleme kapısı kırıldı
+_2026-08-21T05:54:38.386Z_
+
+Ölçülen skor 0.875 < 0.90. Bu, projedeki tek koşulsuz durdurma kuralıdır (§16).
+Doğrulama oranı bu eşiğin altındayken üretmeye devam etmek, doğrulanamayan
+içerik hacmini büyütmekten başka bir şey yapmaz.
+
+## Örnekleme kapısı kırıldı
+_2026-08-21T05:54:49.810Z_
+
+Ölçülen skor 0.875 < 0.90. Bu, projedeki tek koşulsuz durdurma kuralıdır (§16).
+Doğrulama oranı bu eşiğin altındayken üretmeye devam etmek, doğrulanamayan
+içerik hacmini büyütmekten başka bir şey yapmaz.
+
+## Örnekleme kapısı kırıldı
+_2026-08-21T05:54:58.627Z_
+
+Ölçülen skor 0.875 < 0.90. Bu, projedeki tek koşulsuz durdurma kuralıdır (§16).
+Doğrulama oranı bu eşiğin altındayken üretmeye devam etmek, doğrulanamayan
+içerik hacmini büyütmekten başka bir şey yapmaz.

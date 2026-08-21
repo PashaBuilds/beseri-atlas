@@ -25,7 +25,7 @@ Toplam gövde: **40.345** kelime.
 
 ## Doğrulama
 
-Örnekleme kapısı geçmişi: 0.9583 / 0.8333 / 0.875 / 0.875
+Örnekleme kapısı geçmişi: 0.9583 / 0.8333 / 0.875 / 0.875 / 0.875 / 0.875 / 0.875
 Nihai skor: **0.875** (12 ölçülen iddia: 9 tam doğrulama, 3 kısmi doğrulama (yarım puan), 0 çelişki)
 
 > **HAT DURDU.** Ölçülen skor 0,90 eşiğinin altına düştü ve §16 uyarınca

@@ -40,6 +40,21 @@ if (process.argv[1]?.endsWith('ornekle.mjs')) {
   });
   metrikYaz({ ornekleme_gecmisi: gecmis });
 
+  // DURUM.md, hattin operasyonel durum dosyasidir. Kapi skoru buraya
+  // yazilmazsa dosya "0.9583 / devam" gosterirken hat fiilen durmus olabilir —
+  // yani durum dosyasi yalan soyler. Kapi kendi sonucunu kendisi yazar.
+  const durumYolu = path.join(KOK, 'DURUM.md');
+  if (varMi(durumYolu)) {
+    let d = oku(durumYolu);
+    d = d.replace(/^(  ornekleme_kapisi_son_skor: ).*$/m, `$1${s.skor}`);
+    d = d.replace(/^(  ornekleme_kapisi_son_calisma: ).*$/m,
+      `$1${new Date().toISOString()}\n  ornekleme_kapisi_karar: ${s.davranis}`);
+    d = d.replace(/^  ornekleme_kapisi_karar: .*\n(?=  ornekleme_kapisi_karar: )/m, '');
+    d = d.replace(/^(  ornekleme_kapisi_gecmisi:\n)(?:    - .*\n)+/m,
+      `$1${gecmis.map((g) => `    - ${g.skor}`).join('\n')}\n`);
+    yaz(durumYolu, d);
+  }
+
   console.log(RENK.kalin('\n── ÖRNEKLEME KAPISI (§16) ──'));
   console.log(`  Ölçülen skor       : ${s.skor}  (${s.olculen} ölçülen iddia üzerinden)`);
   console.log(`  Ham skor           : ${s.ham_skor}  (${s.toplam} iddialık örneklem)`);
