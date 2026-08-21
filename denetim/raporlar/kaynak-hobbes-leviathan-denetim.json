@@ -1,0 +1,73 @@
+{
+  "id": "kaynak-hobbes-leviathan",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:38:50.084Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eseri Leviathan başlığıyla işler ve içerik bölümünün altında başlık, ön kapak gravürü, giriş ile dört kısmı ayrı alt başlıklar olarak tutar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kitabın ön kapak gravürüne ayrı bir alt başlık ayrılması, atlasın şu kuralının dayanağıdır: bu dosyada eserin savunduğu şey, yalnızca cümlelerinden değil ki",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Devlet Üzerine kısmının altında türler, veraset, din ve vergilendirme alt başlıklarını tutar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Devlet, Üzerine"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir siyaset kuramının aynı kısımda hem veraseti hem vergilendirmeyi işlemesi, egemenlik kavramının hem hukuki hem mali bir içerik taşıdığını gösterir; o kavram ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir siyaset kuramının aynı kısımda hem veraseti hem vergilendirmeyi işlemesi, egemenlik kavramının hem hukuki hem mali bir içerik taşıdığını gösterir; o kavram ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, birinci kısımda yazarın duyu deneyciliği ve insan doğasına dair anlatısını verirken sözcükleri ve tanımlarını merkeze aldığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir felsefe metninin tanımlarla açılması, atlasın terim kilidi kapısının erken bir örneğidir: tartışma, terimlerin sabitlenmesiyle başlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yazar için tutulan ayrı bir kayıt, 1668'de eserin Latince bir baskısını yayımladığını ve bu baskıda Teslis ile Tanrı'nın doğası gibi tartışmalı konularla ilgili",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu yüzden bu dosyanın künyesinde 1651 yılını tutar ve eserden yapılacak her aktarımda hangi baskının kullanıldığının belirtilmesini şart koşar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu yüzden bu dosyanın künyesinde 1651 yılını tutar ve eserden yapılacak her aktarımda hangi baskının kullanıldığının belirtilmesini şart koşar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

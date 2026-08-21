@@ -24,6 +24,7 @@ ilgili:
   - dusunur-polanyi
   - kavram-merkantilizm
   - kavram-ilkel-birikim
+  - kaynak-smith-uluslarin-zenginligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

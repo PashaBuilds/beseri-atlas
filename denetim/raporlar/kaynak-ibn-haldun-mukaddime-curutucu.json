@@ -1,0 +1,21 @@
+{
+  "id": "kaynak-ibn-haldun-mukaddime",
+  "gecis": 3,
+  "zaman": "2026-08-21T10:39:56.279Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, müellifin düşünce sisteminin merkezini ilk defa kendisinin temellendirdiği umran ilminin oluşturduğunu yazar; maddenin Görüşleri bölümünün müellifi Tahsin Görgün'dür.[^k1]",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tek bir maddenin dört imza taşıması,[^k1] atlasın kaynak alanında neden müellif notu tuttuğunun dayanağıdır.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

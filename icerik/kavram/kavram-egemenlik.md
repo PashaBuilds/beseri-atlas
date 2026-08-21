@@ -15,6 +15,7 @@ ilgili:
   - dusunur-hobbes
   - kavram-ulus-devlet
   - kavram-hukuk-devleti
+  - kaynak-hobbes-leviathan
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

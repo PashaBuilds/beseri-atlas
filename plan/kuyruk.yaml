@@ -2557,7 +2557,7 @@ isler:
   - id: kaynak-ibn-haldun-mukaddime
     tip: kaynak
     baslik: İbn Haldûn — Mukaddime
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2573,7 +2573,7 @@ isler:
   - id: kaynak-hobbes-leviathan
     tip: kaynak
     baslik: Hobbes — Leviathan
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2581,7 +2581,7 @@ isler:
   - id: kaynak-smith-uluslarin-zenginligi
     tip: kaynak
     baslik: Adam Smith — Ulusların Zenginliği
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

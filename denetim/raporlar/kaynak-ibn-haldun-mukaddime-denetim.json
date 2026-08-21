@@ -1,0 +1,73 @@
+{
+  "id": "kaynak-ibn-haldun-mukaddime",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:38:50.120Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eseri şöyle künyeler: bir dünya tarihi niteliği taşıyan bu eser, önsöz ve giriş mahiyetinde kaleme alınan ve mukaddime adı verilen bölümle birlikte üç ki",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir yedi ciltlik dünya tarihinin önsözünün kendi adıyla anılır hâle gelmesi, atlasın şu kuralının dayanağıdır: bu dosyada Mukaddime'ye atfedilen önermeler, eser",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, müellifin düşünce sisteminin merkezini ilk defa kendisinin temellendirdiği umran ilminin oluşturduğunu yazar; maddenin Görüşleri bölümünün müellifi Tahs",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavramın bir ilim adı olarak kaydedilmesi, atlasın kavram katmanında o kavrama ayrı bir dosya açmasının dayanağıdır; kavram dosyasında, kardeş kavram ise do",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, maddenin dört bölümden oluştuğunu ve bölümlerin ayrı müellifler tarafından yazıldığını kaydeder; Ekonomi ve Toplum İlişkisi bölümünün müellifi İbrahim E",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tek bir maddenin dört imza taşıması, atlasın kaynak alanında neden müellif notu tuttuğunun dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bağımsız bir akademik kaynak, ortaçağ siyaset felsefesi maddesinde müellife ayrı bir bölüm ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı ölçekte çalışan sonraki bir tarihçi için tutulan kayıt, zamanı katmanlara ayıran ve olayları en yüzeydeki katmana yerleştiren bir kurguyu anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki yaklaşım arasında bir öncüllük bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas iki yaklaşım arasında bir öncüllük bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

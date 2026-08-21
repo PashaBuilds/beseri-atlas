@@ -908,3 +908,22 @@ hat_duzeltmesi:
       yonlendirmesi" bolumunde acikca yazilir. Boylece Ilke 4 (telif siniri)
       hem telifli hem kamu mali eserlerde ayni bicimde uygulanir ve dosya bir
       metin kopyasi degil bir kunye kaydi olur.
+
+# Faz 4 turu B04: Leviathan, Uluslarin Zenginligi, Mukaddime (kaynak) — 2026-08-21
+  - bulgu: >-
+      kaynak-smith-uluslarin-zenginligi Gecis 2'de 0 OK aldi — B19'da konan
+      kurala gore onaylanamazdi.
+    aksiyon: >-
+      Kunye bolumune kaynakta fiilen gecen somut atomlar eklendi: yayin tarihi
+      9 Mart 1776, yayinci W. Strahan ve T. Cadell, iki cilt ve kitap dagilimi
+      (I-III / IV-V), etkiledigi adlar. Yeniden denetlendi: 1 OK.
+      B19 kurali bu turda ilk kez fiilen uygulandi.
+  - bulgu: >-
+      kaynak-ibn-haldun-mukaddime'de iki cumle kapsam-carpitmasi olarak ORTA
+      ciddiyette isaretlendi ("dunya tarihi" ifadesi bolgesel bir dosyada).
+    aksiyon: >-
+      Itiraz HAKLIYDI ve etiket duzeltildi: bolge [islam-dunyasi, afrika,
+      kuresel]. Eser kaynakta dunya tarihi olarak nitelenmektedir; ust veri
+      icerige uydurulmustur. Metin degismedi.
+  - bulgu: Kalan itirazlar dusuk ciddiyette ustunluk-iddiasi tipinde.
+    aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.

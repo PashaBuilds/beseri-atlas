@@ -17,6 +17,7 @@ ilgili:
   - olay-otuz-yil-savaslari
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-hobbes
+  - kaynak-hobbes-leviathan
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

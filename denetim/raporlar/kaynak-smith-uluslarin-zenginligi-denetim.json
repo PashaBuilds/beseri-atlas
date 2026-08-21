@@ -1,0 +1,97 @@
+{
+  "id": "kaynak-smith-uluslarin-zenginligi",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:39:32.336Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Cadell, yayın tarihi 9 Mart 1776, yayın yeri İskoçya, Büyük Britanya Krallığı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "kitaplar yer alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir eserin iki cilt hâlinde ve kitapları bölüştürülerek yayımlanması, atlasın şu kuralının dayanağıdır: bu dosyada esere yapılan atıflar, cilt ve kitap numarası",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak kitapları şöyle sıralar: emeğin üretken güçlerindeki iyileşmenin nedenleri üzerine, sermayenin doğası, birikimi ve kullanımı üzerine, farklı uluslarda ze",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayıt, eserin İskoç Aydınlanması ve İskoç Tarım Devrimi sırasında yayımlandığını ve Karl Marx gibi yazarları etkilediğini yazar; Alexander Hamilton'ın da k",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İskoç, Aydınlanması, Tarım, Devrimi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kitap adlarının doğrudan konu cümleleri olması, atlasın şu kuralının dayanağıdır: bu dosyada esere atfedilen her önerme, hangi kitaptan geldiği belirtilerek akt",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, üçüncü kitabın altında uzun dönemli iktisadi büyüme ile tarım alt başlıklarını tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir iktisat metninin uzun dönemi ayrı bir başlık olarak işlemesi, atlasın uzun dönem kavramını kavram katmanında ayrı tutmasıyla aynı ayrımı yapar; o kavram dos",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yazar için tutulan ayrı bir kayıt, onun ahlak felsefesinin kapsamlı ve alışılmadık bir sürümünü geliştirdiğini yazar ve sempati anlatısıyla açılan bir kitabı iş",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yazarın iki eserinin iki ayrı ansiklopedi maddesinde işlenmesi, atlasın kaynak dosyalarını neden eser düzeyinde tuttuğunun dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yazarın iki eserinin iki ayrı ansiklopedi maddesinde işlenmesi, atlasın kaynak dosyalarını neden eser düzeyinde tuttuğunun dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Eserin karşısına aldığı politika geleneği için tutulan kayıt, o geleneğin bölümleri arasında savaşlar ve emperyalizm ile merkantilizmin sonunu sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas eserin bu geleneği çürüttüğü yönünde bir hüküm vermez; kullanılan kaynak bölümleri böyle bir sonuç kaydetmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas eserin bu geleneği çürüttüğü yönünde bir hüküm vermez; kullanılan kaynak bölümleri böyle bir sonuç kaydetmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

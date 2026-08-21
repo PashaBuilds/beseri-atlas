@@ -14,6 +14,7 @@ ilgili:
   - aktor-hollanda-doguhindistan-sirketi
   - dusunur-smith
   - kavram-para
+  - kaynak-smith-uluslarin-zenginligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -19,6 +19,7 @@ ilgili:
   - dusunur-locke
   - dusunur-montesquieu
   - kavram-egemenlik
+  - kaynak-hobbes-leviathan
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -13,6 +13,7 @@ ilgili:
   - dusunur-ibn-haldun
   - kavram-asabiyet
   - kavram-longue-duree
+  - kaynak-ibn-haldun-mukaddime
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

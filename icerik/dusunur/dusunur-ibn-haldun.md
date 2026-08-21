@@ -15,6 +15,7 @@ ilgili:
   - dusunur-gazali
   - kavram-mesruiyet
   - kavram-umran
+  - kaynak-ibn-haldun-mukaddime
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
