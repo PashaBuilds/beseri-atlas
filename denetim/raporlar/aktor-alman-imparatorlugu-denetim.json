@@ -1,0 +1,61 @@
+{
+  "id": "aktor-alman-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T06:46:14.875Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Bismarck'ın Alman devletleri boyunca Prusya hegemonyası tasavvur ettiğini ve bunun Alman devletlerinin birleşmesi ile Prusya'nın başlıca Alman rakibi Av",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayıt, tasavvurun içeriğini de verir: muhafazakâr, Prusya'nın hâkim olduğu bir Almanya.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Dışarıda bırakılan düzen dosyasında ele alınıyor ve kendi içinde on dörtten fazla yaygın dil barındırıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birleşme bir dizi çatışmayla geldi: 1864'te Danimarka'ya karşı İkinci Schleswig Savaşı, 1866'da Avusturya-Prusya Savaşı ve 1870-1871'de Fransa-Prusya Savaşı büy",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın verdiği sıra — 1864 Danimarka, 1866 Avusturya, 1870-1871 Fransa — önce kuzeydeki komşuyu, sonra Almanca konuşan rakibi, en sonunda batıdaki büyük gücü ",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İmparatorluğun selefi Kuzey Almanya Konfederasyonu'dur.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Wilhelm'in tahttan çekilmesiyle cumhuriyetin ilanı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1 Ağustos 1914 ile 9 Kasım 1918 arasındaki süre, kuruluşu üç savaş süren bir düzenin tek bir savaşla kapandığını gösterir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yaklaşık 1,82 milyardır.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

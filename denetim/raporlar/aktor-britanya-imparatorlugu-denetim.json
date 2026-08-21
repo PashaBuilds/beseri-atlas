@@ -1,0 +1,73 @@
+{
+  "id": "aktor-britanya-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T06:46:15.008Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılın sonlarında kurduğu denizaşırı mülkler ve ticaret karakollarıyla başladı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tanımın kendisi bir liste olarak verilir: dominyon, sömürge, himaye, manda ve \"diğer topraklar\".",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın tanımında beş ayrı statünün sayılması, atlasın imparatorluk gösterimi tartışmasının doğrudan malzemesidir: tek renkli bir harita bu kapları ayırt edeme",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "1857 ayaklanmasının ardından bazı prenslikler Britanya Hindistanı'na ilhak edildi, diğer prenslikler ise hâkimiyetlerini ve özerkliklerini korudu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı ayaklanmada karşı tarafta Birleşik Krallık ile onun altında Doğu Hindistan Şirketi, şirketin altında ise Rajputana Ajansı, Patiala, Kapurthala, Rampur ve J",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, imparatorluğun kendi kavramlarını ayrı bir başlık altında sıralar: enformel imparatorluk, küresel polis, Pax Britannica, İki Güç Standardı, Anglosfer ve",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yönetim biçimi anayasal monarşi olarak sınıflandırılır; başkent ve en büyük şehir Londra, birincil dil İngilizcedir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yasama organı Parlamento, üst kanadı Lordlar Kamarası'dır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Parlamento, Lordlar, Kamarası"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Elizabeth ile kapanır; başbakanlık çizgisi ise 1721-1742 arasında Robert Walpole ile başlar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1945'te yaklaşık 2,38 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Genişleme evreleri, sömürge yönetiminin ülke ülke biçimleri, köle ticareti ve sömürgesizleşme süreci burada ayrı başlıklar altında ele alınmamıştır; kaynak bunl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -25,6 +25,9 @@ ilgili:
   - olay-1857-hint-ayaklanmasi
   - olay-meiji-restorasyonu
   - olay-taiping-isyani
+  - aktor-alman-imparatorlugu
+  - aktor-avusturya-macaristan
+  - aktor-britanya-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: afrika

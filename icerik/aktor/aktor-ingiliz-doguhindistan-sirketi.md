@@ -16,6 +16,7 @@ ilgili:
   - donem-10
   - olay-1857-hint-ayaklanmasi
   - olay-hindistan-bolunmesi
+  - aktor-britanya-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

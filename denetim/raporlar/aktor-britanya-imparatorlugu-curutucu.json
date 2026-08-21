@@ -1,0 +1,21 @@
+{
+  "id": "aktor-britanya-imparatorlugu",
+  "gecis": 3,
+  "zaman": "2026-08-21T06:46:15.340Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynağın tanımında beş ayrı statünün sayılması,[^k1] atlasın imparatorluk gösterimi tartışmasının doğrudan malzemesidir: tek renkli bir harita bu kapları ayırt edemez. Gösterim sor",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yönetim biçimi anayasal monarşi olarak sınıflandırılır; başkent ve en büyük şehir Londra, birincil dil İngilizcedir.[^k1] Yasama organı Parlamento, üst kanadı Lordlar Kamarası'dır.",
+      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -922,7 +922,7 @@ isler:
   - id: aktor-britanya-imparatorlugu
     tip: aktor
     baslik: Britanya İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-12
@@ -931,7 +931,7 @@ isler:
   - id: aktor-alman-imparatorlugu
     tip: aktor
     baslik: Alman İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-12
@@ -940,7 +940,7 @@ isler:
   - id: aktor-avusturya-macaristan
     tip: aktor
     baslik: Avusturya-Macaristan
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-12

@@ -1,0 +1,73 @@
+{
+  "id": "aktor-avusturya-macaristan",
+  "gecis": 2,
+  "zaman": "2026-08-21T06:46:14.940Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Saray dili Almancaydı; Cisleithania'da resmî dil yoktu ve çoğunlukla bölgenin dili — genellikle Almanca — kullanılıyordu; Transleithania'da ise resmî dil Macarc",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Başkent Viyana'dır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı devletin iki yarısının dil rejimi yalnızca farklı değil, farklı TÜRDEDİR: biri resmî dil belirlememeyi, diğeri belirlemeyi seçmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): TÜRDEDİR"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın Cisleithania için resmî dil bulunmadığını, Transleithania için ise Macarcayı kaydetmesi, bir devletin içinde iki ayrı egemenlik felsefesinin yan yana d",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yaygın dilleri şöyle sayar: Almanca, Macarca, Hırvatça, Çekçe, Lehçe, Rutence, Romence, Boşnakça, Sırpça, Slovakça, Slovence, İtalyanca, Karpat Romanca ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu listenin uzunluğu, \"ulus-devlet\" kavramının bu yapıya neden uymadığını açıklar: burada bir çoğunluk dili etrafında kurulmuş bir siyasi birlik yoktur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1910 verileriyle nüfusun dinî dağılımı da tek bir gruba indirgenemez: yüzde 8,9 Protestan, yüzde 8,7 Doğu Ortodoks, yüzde 4,4 Yahudi ve yüzde 1,3 Müslüman.",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Müslüman nüfusun kaydedilmiş olması, monarşinin güney sınırındaki ilhakla ilgilidir; Bosna-Hersek'in tarihi ayrı bir kayıt geleneğinde ele alınır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Para birimi 1867-1892 arasında Gulden/florin, 1892-1918 arasında Krone'dur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yaklaşık 1,82 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1867 Uzlaşması'nın içeriği, iki yarının anayasal ilişkisi, milliyetçi hareketler ve monarşinin dağılma süreci burada ayrı başlıklar altında ele alınmamıştır; ka",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    }
+  ]
+}

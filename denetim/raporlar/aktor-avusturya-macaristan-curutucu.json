@@ -1,0 +1,21 @@
+{
+  "id": "aktor-avusturya-macaristan",
+  "gecis": 3,
+  "zaman": "2026-08-21T06:46:15.339Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu monarşinin en dikkat çekici özelliği, **tek bir dil politikasının bulunmamasıdır**. Saray dili Almancaydı; Cisleithania'da resmî dil yoktu ve çoğunlukla bölgenin dili — genellik",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "1910 verileriyle nüfusun dinî dağılımı da tek bir gruba indirgenemez: yüzde 8,9 Protestan, yüzde 8,7 Doğu Ortodoks, yüzde 4,4 Yahudi ve yüzde 1,3 Müslüman.[^k1]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

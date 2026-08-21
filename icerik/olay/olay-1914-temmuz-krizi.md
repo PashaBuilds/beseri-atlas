@@ -14,6 +14,8 @@ ilgili:
   - donem-13
   - tartisma-1914-savas-sorumlulugu
   - olay-balkan-savaslari
+  - aktor-alman-imparatorlugu
+  - aktor-avusturya-macaristan
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 kaynaklar:
