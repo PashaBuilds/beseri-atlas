@@ -16,6 +16,7 @@ ilgili:
   - donem-14
   - olay-suveys-krizi
   - aktor-sovyetler-birligi
+  - aktor-birlesmis-milletler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

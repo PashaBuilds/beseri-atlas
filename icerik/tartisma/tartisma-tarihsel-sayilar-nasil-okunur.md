@@ -29,6 +29,7 @@ ilgili:
   - olay-iskender-seferleri
   - olay-haiti-devrimi
   - olay-hindistan-bolunmesi
+  - aktor-dunya-ticaret-orgutu
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

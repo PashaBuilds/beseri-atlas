@@ -1,6 +1,6 @@
 {
-  "zaman": "2026-08-21T05:42:34.122Z",
-  "makale_sayisi": 94,
+  "zaman": "2026-08-21T06:37:28.784Z",
+  "makale_sayisi": 98,
   "celiskiler": [],
   "incelenecek": [
     {
@@ -92,6 +92,33 @@
         "olay-hindistan-bolunmesi"
       ],
       "detay": "\"Ağustos\" — olay-bretton-woods: 1971 / olay-hindistan-bolunmesi: 1947"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-imf",
+        "olay-hindistan-bolunmesi"
+      ],
+      "detay": "\"Ağustos\" — aktor-imf: 1971 / olay-hindistan-bolunmesi: 1947"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-birlesmis-milletler",
+        "aktor-dunya-ticaret-orgutu"
+      ],
+      "detay": "\"Bretton Woods Konferansı\" — aktor-birlesmis-milletler: 1943 / aktor-dunya-ticaret-orgutu: 1944"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-birlesmis-milletler",
+        "aktor-imf"
+      ],
+      "detay": "\"Bretton Woods Konferansı\" — aktor-birlesmis-milletler: 1943 / aktor-imf: 1944"
     }
   ]
 }

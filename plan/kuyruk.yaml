@@ -967,7 +967,7 @@ isler:
   - id: aktor-birlesmis-milletler
     tip: aktor
     baslik: Birleşmiş Milletler
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14
@@ -976,7 +976,7 @@ isler:
   - id: aktor-imf
     tip: aktor
     baslik: Uluslararası Para Fonu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14
@@ -994,7 +994,7 @@ isler:
   - id: aktor-avrupa-birligi
     tip: aktor
     baslik: Avrupa Birliği
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-15
@@ -1003,7 +1003,7 @@ isler:
   - id: aktor-dunya-ticaret-orgutu
     tip: aktor
     baslik: Dünya Ticaret Örgütü
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-15

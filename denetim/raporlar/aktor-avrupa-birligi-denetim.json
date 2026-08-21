@@ -1,0 +1,43 @@
+{
+  "id": "aktor-avrupa-birligi",
+  "gecis": 2,
+  "zaman": "2026-08-21T06:36:58.160Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kendi metnindeki editoryal not, birliği \"Staatenverbund\" olarak nitelemeye karşı uyarır: terimin yalnızca Alman Federal Anayasa Mahkemesi tarafından ta",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Karşılaştırma yardımcı olur: Birleşmiş Milletler kendi maddesinde açıkça \"hükümetler arası örgüt\" olarak sınıflandırılır ve üyeliği 193 üye devlet ile 2 gözlemc",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, birliğin tarihini kurumsal metinlerle evrelere ayırır: Roma Antlaşması (1958–1972), ilk genişleme ve Avrupa işbirliği (1973–1993), Maastricht, Amsterdam",
+      "durum": "OK",
+      "not": "10 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Siyaset bölümü üye devletler, alt bölümler, aday ülkeler, eski üyeler, yönetişim ve erkler ayrımı — yürütme ve yasama kolları — başlıklarını içerir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1991'de yaklaşık 5,42 milyar, 2008'de yaklaşık 6,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ortak pazar, para birliği, kurumların yetki dağılımı ve genişleme müzakerelerinin içeriği burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bö",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

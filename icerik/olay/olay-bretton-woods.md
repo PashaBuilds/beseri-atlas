@@ -18,6 +18,9 @@ ilgili:
   - olay-buyuk-buhran
   - olay-ikinci-dunya-savasi
   - olay-1973-petrol-krizi
+  - aktor-birlesmis-milletler
+  - aktor-dunya-ticaret-orgutu
+  - aktor-imf
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

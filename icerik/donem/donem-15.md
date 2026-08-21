@@ -19,6 +19,8 @@ ilgili:
   - donem-14
   - donem-16
   - olay-sovyetler-dagilmasi
+  - aktor-avrupa-birligi
+  - aktor-dunya-ticaret-orgutu
 okuma_onerisi: []
 serit:
   - bolge: kuresel

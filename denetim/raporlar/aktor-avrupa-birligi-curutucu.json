@@ -1,0 +1,21 @@
+{
+  "id": "aktor-avrupa-birligi",
+  "gecis": 3,
+  "zaman": "2026-08-21T06:36:58.650Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Karşılaştırma yardımcı olur: Birleşmiş Milletler kendi maddesinde açıkça \"hükümetler arası örgüt\" olarak sınıflandırılır ve üyeliği 193 üye devlet ile 2 gözlemci devlettir.[^k2] Av",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, birliğin tarihini kurumsal metinlerle evrelere ayırır: Roma Antlaşması (1958–1972), ilk genişleme ve Avrupa işbirliği (1973–1993), Maastricht, Amsterdam ve Nice antlaşmalar",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

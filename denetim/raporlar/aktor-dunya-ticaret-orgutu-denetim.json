@@ -1,0 +1,61 @@
+{
+  "id": "aktor-dunya-ticaret-orgutu",
+  "gecis": 2,
+  "zaman": "2026-08-21T06:36:58.274Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "İktisadi çalışmalar genel olarak Dünya Ticaret Örgütü'nün ticareti artırdığını ve ticaret engellerini azalttığını bulur.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Dünya, Ticaret, Örgütü"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı madde eleştirileri de sıralar: DTÖ'nün kolaylaştırdığı serbest ticaretin faydalarının eşit paylaşılmadığı, anlaşmalarının gelişmekte olan ülkeleri dezavant",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): DTÖ"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Örgütün selefi, Gümrük Tarifeleri ve Ticaret Genel Anlaşması'dır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak tarihi kendi turlarıyla bölümler: Uruguay öncesi GATT müzakereleri, 1986–1994 Uruguay Turu, bakanlar konferansları ve 2001'den bugüne Doha Turu.",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı madde, örgütün soyunu Bretton Woods sistemine ve Uluslararası İmar ve Kalkınma Bankası'na bağlar; Harry Dexter White ile John Maynard Keynes'in New Hampshi",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Doha Kalkınma Turu ile Temyiz Organı'nın felce uğramasının örgütün gelecekteki etkinliği hakkında sorular doğurduğunu kaydeder.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı ailenin para kanadı olan Fon, Temmuz 1944'te Bretton Woods Konferansı'nda kuruldu ve üyeliği 191 ülkedir.",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1991'de yaklaşık 5,42 milyar, 2008'de yaklaşık 6,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Örgütün karar alma usulü, uyuşmazlık çözüm mekanizmasının işleyişi, katılım süreçleri ve örgütsel yapısı burada ayrı başlıklar altında ele alınmamıştır; kaynak ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

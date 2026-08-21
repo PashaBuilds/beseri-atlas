@@ -1,8 +1,8 @@
 {
   "mod": "--pre",
-  "zaman": "2026-08-21T06:32:44.248Z",
+  "zaman": "2026-08-21T06:37:24.008Z",
   "gecti": true,
-  "makale_sayisi": 94,
+  "makale_sayisi": 98,
   "kapilar": [
     {
       "kapi": "KAPI 1 — Zod sema dogrulamasi",
@@ -15,7 +15,7 @@
       "kapi": "KAPI 2+3 — dipnot butunlugu / kaynak anahtari",
       "gecti": true,
       "hata": 0,
-      "uyari": 1,
+      "uyari": 3,
       "hatalar": []
     },
     {

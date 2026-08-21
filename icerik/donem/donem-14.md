@@ -26,6 +26,8 @@ ilgili:
   - olay-bandung-konferansi
   - olay-kuba-fuze-krizi
   - olay-suveys-krizi
+  - aktor-birlesmis-milletler
+  - aktor-imf
 okuma_onerisi: []
 serit:
   - bolge: avrupa
