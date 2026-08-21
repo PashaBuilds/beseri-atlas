@@ -1,0 +1,61 @@
+{
+  "id": "tartisma-sanayi-devrimi-neden-ingiltere",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:09:21.623Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu haritanın çıkış noktası kaynağın başlık seçimidir: nedenler kesin bir liste olarak değil olası etkenler başlığı altında sıralanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, olası etkenler başlığı altında şunları sayar: kömür, Yeni Dünya, köle ticareti, siyasi parçalanmışlık, diğer coğrafi etkenler, piyasaların etkinliği ve ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu kalemlerden birinin adı, listede yirminci yüzyılda ortaya çıkmış bir terimle verilmiştir; atlas o terimi burada anmaz ve kalemi tarif ederek geçer, çünkü dos",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, sanayi öncesi ileri bölgeler başlığı altında altı alt başlık tutar: Çin, Batı Avrupa, Hindistan, Orta Doğu, Japonya ve Sahra altı Afrika.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sorunun bu haliyle bir karşılaştırma sorusu olarak kurulmuş olması, atlasın şu kuralının dayanağıdır: bu dosyada soru, bir bölgenin üstünlüğü olarak değil bölge",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "yüzyıl başında karşılaştırılabilir iktisadi gelişme düzeylerine ulaştığını savunduğunu ve ayrışmanın ancak 1800'den sonra kömür ve sömürge mülkleri sonucunda ba",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Birincil enerji tüketimi serisinde dünya toplamı 1800 için 97 TWh, 2025 için 166.753,6 TWh'dir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu seriyi kömür pozisyonunun kanıtı olarak sunmaz: seri dünya toplamını verir, Britanya'yı ayrı vermez ve enerji kaynaklarına göre dağılımı bu dosyada kul",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu seriyi kömür pozisyonunun kanıtı olarak sunmaz: seri dünya toplamını verir, Britanya'yı ayrı vermez ve enerji kaynaklarına göre dağılımı bu dosyada kul",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

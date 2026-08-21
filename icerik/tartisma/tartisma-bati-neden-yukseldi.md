@@ -26,6 +26,7 @@ ilgili:
   - olay-sanayi-devrimi
   - kaynak-polanyi-buyuk-donusum
   - kaynak-pomeranz-buyuk-ayrisma
+  - tartisma-sanayi-devrimi-neden-ingiltere
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

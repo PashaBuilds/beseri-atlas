@@ -16,6 +16,7 @@ ilgili:
   - kaynak-pomeranz-buyuk-ayrisma
   - veri-enerji-tuketimi-1800-2023
   - veri-kisi-basi-gsyh-1-2022
+  - tartisma-sanayi-devrimi-neden-ingiltere
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -13,6 +13,7 @@ ilgili:
   - kavram-dunya-sistemi
   - olay-ipek-yolu-kurulusu
   - olay-internetin-yayginlasmasi
+  - tartisma-sanayi-devrimi-neden-ingiltere
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

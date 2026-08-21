@@ -27,6 +27,7 @@ ilgili:
   - olay-latin-amerika-bagimsizligi
   - aktor-abd
   - tartisma-milliyetcilik-ne-zaman
+  - tartisma-sanayi-devrimi-neden-ingiltere
 okuma_onerisi: []
 serit:
   - bolge: avrupa
