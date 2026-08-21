@@ -1,0 +1,28 @@
+{
+  "id": "veri-savas-olumleri",
+  "gecis": 3,
+  "zaman": "2026-08-21T12:14:59.968Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosyanın ilk özelliği bir sayı değil, bir sütun sayısıdır: sağlayıcının aynı yıl için tuttuğu tahmin sayısı birden fazladır.[^k1]",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tek bir yılın komşularının onlarca katı olması,[^k1] bu serinin ortalamayla özetlenmesini yanıltıcı kılar; bir ortalama, 1994'ü de 2005'i de temsil etmez.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki kaynağın aynı yıl için farklı büyüklükler vermesi,[^k1][^k3] tesadüf değil tanım farkıdır: biri dünya genelindeki tüm süregelen çatışmaları, diğeri tek bir ülkedeki tek bir ola",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

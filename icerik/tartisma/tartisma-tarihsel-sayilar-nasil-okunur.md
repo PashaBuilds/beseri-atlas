@@ -51,6 +51,7 @@ ilgili:
   - kavram-askeri-devrim
   - kavram-buyuk-ayrisma
   - tartisma-kara-olumun-sonuclari
+  - veri-savas-olumleri
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

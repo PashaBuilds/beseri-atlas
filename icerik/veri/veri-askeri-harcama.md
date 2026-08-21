@@ -15,6 +15,7 @@ ilgili:
   - kavram-caydiricilik
   - kavram-guc-dengesi
   - olay-sovyetler-dagilmasi
+  - veri-savas-olumleri
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/askeri-harcama.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

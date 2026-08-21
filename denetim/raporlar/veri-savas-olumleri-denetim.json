@@ -1,0 +1,79 @@
+{
+  "id": "veri-savas-olumleri",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:14:53.232Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosyanın ilk özelliği bir sayı değil, bir sütun sayısıdır: sağlayıcının aynı yıl için tuttuğu tahmin sayısı birden fazladır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sağlayıcının uç noktası, yıl sütunundan sonra üç ayrı ölüm sütunu taşır: numberdeathsongoingconflictshighconflicttypeall, numberdeathsongoingconflictsconflictty",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir sağlayıcının aynı olgu için alt ve üst sınır tutması, atlasın şu kuralının dayanağıdır: bir savaş ölüm sayısı, hangi tahmin sütunundan alındığı belirtilmede",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sağlayıcının toplam satırında seri 1989'da başlar ve 2025'te biter; 1989 değeri 108.225, 2025 değeri 350.592'dir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Serinin 1989'dan önce hiçbir değer taşımaması, bu dosyanın \"savaş ölümleri tarih boyunca azaldı mı\" sorusuna cevap veremeyeceğini gösterir: veri, sorunun kapsad",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Serinin en yüksek değeri 1994'te 1.701.127, en düşük değeri ise 2005'te 24.844'tür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tek bir yılın komşularının onlarca katı olması, bu serinin ortalamayla özetlenmesini yanıltıcı kılar; bir ortalama, 1994'ü de 2005'i de temsil etmez.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Serinin en yüksek yılını taşıyan olay için tutulan kayıt, olayı 7 Nisan – 19 Temmuz 1994 tarihleri arasına yerleştirir ve ölü sayısını yaklaşık 500.000 ile 800.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki kaynağın aynı yıl için farklı büyüklükler vermesi, tesadüf değil tanım farkıdır: biri dünya genelindeki tüm süregelen çatışmaları, diğeri tek bir ülkedeki t",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki kaynağın aynı yıl için farklı büyüklükler vermesi, tesadüf değil tanım farkıdır: biri dünya genelindeki tüm süregelen çatışmaları, diğeri tek bir ülkedeki t",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1994'te yaklaşık 5,68 milyar, 2025'te yaklaşık 8,23 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kişi başı bir oran burada hesaplanmamıştır: yüksek tahmin ile merkezî tahmin arasındaki fark, oranın kendisinden büyüktür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

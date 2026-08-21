@@ -2909,7 +2909,7 @@ isler:
   - id: veri-savas-olumleri
     tip: veri
     baslik: Savaşta ölümler
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

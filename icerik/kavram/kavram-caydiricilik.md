@@ -16,6 +16,7 @@ ilgili:
   - kavram-surtunme
   - veri-askeri-harcama
   - tartisma-soguk-savasin-baslangici
+  - veri-savas-olumleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

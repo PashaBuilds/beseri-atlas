@@ -16,6 +16,7 @@ ilgili:
   - kavram-surtunme
   - kaynak-clausewitz-savas-uzerine
   - tartisma-ikinci-dunya-savasi-sorumlulugu
+  - veri-savas-olumleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
