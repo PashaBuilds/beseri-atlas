@@ -339,3 +339,19 @@ Onceki veri dosyalari tarandi: yalnizca bu dosya etkilenmisti; digerlerinde
 gozlem sayilari CSV metninde tesadufen bulunuyordu ve HATA vermemislerdi. Bu,
 kapinin bu turdeki isaretinin guvenilir oldugunu ama sessiz gecen durumlarin da
 olabilecegini gosteriyor — bu yuzden kural metne yazildi, kapiya birakilmadi.
+
+## KAPI 10 yakaladi: yonlendirilen OWID adresi (2026-08-21, Faz 4 B19)
+
+veri-askeri-harcama'da KAPI 10 (uydurma kaynak kontrolu) kirildi: makalede
+yazili URL `military-expenditure-total`, dogrulama dizesi ise
+`military_expenditure` idi. Gercekte o adres 301 ile `military-spending-sipri`
+adresine yonleniyor ve varilan sayfanin sutun basligi `constant_usd`.
+
+Yani makale, ICINDE ARADIGI DIZEYI TASIMAYAN bir adresi kaynak gosteriyordu.
+Kapi bunu yakaladi. Duzeltme: URL yonlendirmenin VARDIGI adresle, dogrulama
+dizesi de o sayfanin gercek sutun basligiyla degistirildi; lisans dosyasina
+yonlendirme notu dusuldu.
+
+KURAL: araclar/owid-indir.mjs bir yonlendirme izlediginde, makaleye yazilacak
+kaynak URL'si indirilen adres degil VARILAN adrestir. Arac yonlendirmeyi
+stderr'e yaziyor; o cikti okunup makaleye o adres yazilmali.

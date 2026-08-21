@@ -23,10 +23,10 @@ birim: sabit ABD doları
 kaynaklar:
   - anahtar: k1
     tur: veri
-    ad: "Our World in Data - Military expenditure, total (CSV verisi)"
-    url: https://ourworldindata.org/grapher/military-expenditure-total.csv?csvType=full&useColumnShortNames=true
+    ad: "Our World in Data - Military spending, SIPRI (CSV verisi)"
+    url: https://ourworldindata.org/grapher/military-spending-sipri.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "military_expenditure"
+    dogrulama_dizesi: "constant_usd"
     not: "CSV uc noktasindan 2026-08-21'de indirildi; veri-setleri/askeri-harcama.LISANS.md"
   - anahtar: k2
     tur: veri

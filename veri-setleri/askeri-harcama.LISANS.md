@@ -1,6 +1,6 @@
 # askeri-harcama.csv — kaynak ve lisans
 
-**Kaynak:** Our World in Data, grapher slug `military-expenditure-total`
+**Kaynak:** Our World in Data, grapher slug `military-expenditure-total` (301 ile `military-spending-sipri` adresine yonlendiriyor)
 https://ourworldindata.org/grapher/military-expenditure-total
 
 **İndirilme tarihi:** 2026-08-21

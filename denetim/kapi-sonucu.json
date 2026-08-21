@@ -1,7 +1,7 @@
 {
   "mod": "--pre",
-  "zaman": "2026-08-21T11:25:27.500Z",
-  "gecti": false,
+  "zaman": "2026-08-21T11:27:20.030Z",
+  "gecti": true,
   "makale_sayisi": 312,
   "kapilar": [
     {
@@ -62,15 +62,10 @@
     },
     {
       "kapi": "KAPI 10 — uydurma kaynak kontrolu",
-      "gecti": false,
-      "hata": 1,
+      "gecti": true,
+      "hata": 0,
       "uyari": 0,
-      "hatalar": [
-        {
-          "dosya": "icerik/veri/veri-askeri-harcama.md",
-          "mesaj": "k1: kunye dizesi sayfada bulunamadi (eslesme %0) — aranan: \"military_expenditure\""
-        }
-      ]
+      "hatalar": []
     }
   ]
 }

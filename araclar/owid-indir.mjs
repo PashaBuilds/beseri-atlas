@@ -34,7 +34,12 @@ function cek(u, kalan = 5) {
     }).on('error', rd);
   });
 }
-const metin = await cek(url);
+let sonUrl = url;
+const metin = await cek(url).then((d) => d);
+// Yonlendirme izlenmisse makalede KAYNAK URL'si olarak VARILAN adres
+// yazilmalidir; aksi halde KAPI 10 (uydurma kaynak kontrolu) kirilir, cunku
+// eski adres farkli bir sutun basligi tasiyan bir sayfaya goturuyor olabilir.
+// bkz. veri-askeri-harcama, 2026-08-21.
 
 const satirlar = metin.split('\n');
 const dunya = satirlar.filter((l) => l.startsWith('World,OWID_WRL,'));
