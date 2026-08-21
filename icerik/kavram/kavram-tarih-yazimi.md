@@ -20,6 +20,7 @@ ilgili:
   - kaynak-gibbon-roma
   - tartisma-fransiz-devrimi-yorumlari
   - kaynak-sima-qian-shiji
+  - kaynak-tacitus-annales
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

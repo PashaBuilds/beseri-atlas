@@ -2957,7 +2957,7 @@ isler:
   - id: kaynak-tacitus-annales
     tip: kaynak
     baslik: Tacitus — Annales
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2981,7 +2981,7 @@ isler:
   - id: kaynak-montesquieu-kanunlarin-ruhu
     tip: kaynak
     baslik: Montesquieu — Kanunların Ruhu
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

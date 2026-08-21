@@ -1086,3 +1086,14 @@ hat_duzeltmesi:
 # Faz 4 turu B17: Platon Devlet, Aristoteles Politika, Konfucyus Lunyu — 2026-08-21
   - bulgu: Uc itiraz da dusuk ciddiyette ustunluk-iddiasi tipinde.
     aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.
+
+# Faz 4 turu B18: Tacitus Annales, Montesquieu Kanunlarin Ruhu — 2026-08-21
+  - bulgu: >-
+      kaynak-montesquieu-kanunlarin-ruhu Gecis 2'de 0 OK aldi (B19 kurali).
+    aksiyon: >-
+      Kunye bolumune kaynakta fiilen gecen somut atomlar eklendi: maddenin ilk
+      yayin (18 Temmuz 2003) ve esasli gozden gecirme (2 Nisan 2014) tarihleri.
+      Eklenen paragraf ayrica atlasin erisim tarihi tutma kuralini bu kayitla
+      gerekcelendiriyor. Yeniden denetlendi: 1 OK.
+  - bulgu: Kalan itirazlar dusuk ciddiyette ustunluk-iddiasi tipinde.
+    aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.

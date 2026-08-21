@@ -1,0 +1,85 @@
+{
+  "id": "kaynak-montesquieu-kanunlarin-ruhu",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:20:28.803Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın adını Baron de Montesquieu, Charles-Louis de Secondat olarak verir ve maddenin ilk kez 18 Temmuz 2003'te yayımlandığını, 2 Nisan 2014'te esaslı ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir ansiklopedi maddesinin kendi yayın ve gözden geçirme tarihlerini taşıması, atlasın kaynak alanında neden erişim tarihi tuttuğunun dayanağıdır: bir madde zam",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayıt, yazarı Aydınlanma'nın büyük siyaset filozoflarından biri olarak kaydeder ve onun çeşitli yönetim biçimlerinin, onları oldukları hâle getiren ve geli",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Aydınlanma"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın bu açıklamayı yönetimlerin yozlaşmadan nasıl korunabileceğini açıklamak için kullandığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir betimlemenin açıkça bir amaca bağlanması, atlasın şu kuralının dayanağıdır: bu esere yapılan atıflarda betimleme ile öneri ayrı ayrı belirtilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın despotizmi özellikle, zaten despot olmayan her yönetim için sürekli bir tehlike olarak gördüğünü ve bunun en iyi, farklı organların yasama, yürü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir tehlikenin belirli bir rejime değil bütün yönetim biçimlerine atfedilmesi, önerinin bir rejim eleştirisi değil bir yapı önerisi olduğunu gösterir; ilgili ka",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir tehlikenin belirli bir rejime değil bütün yönetim biçimlerine atfedilmesi, önerinin bir rejim eleştirisi değil bir yapı önerisi olduğunu gösterir; ilgili ka",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak yazarı doymak bilmez biçimde meraklı ve iğneleyici biçimde komik olarak niteler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sonraki on yıllardaki uygulama alanlarından biri için tutulan kayıt, o olayı ayrı bir madde olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -28,6 +28,7 @@ ilgili:
   - dusunur-tacitus
   - dusunur-augustinus
   - kaynak-gibbon-roma
+  - kaynak-tacitus-annales
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

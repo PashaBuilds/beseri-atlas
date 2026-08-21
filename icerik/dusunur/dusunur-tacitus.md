@@ -15,6 +15,7 @@ ilgili:
   - dusunur-thukydides
   - aktor-roma-imparatorlugu
   - dusunur-sima-qian
+  - kaynak-tacitus-annales
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

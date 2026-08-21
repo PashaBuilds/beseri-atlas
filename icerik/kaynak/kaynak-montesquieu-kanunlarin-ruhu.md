@@ -1,0 +1,115 @@
+---
+id: kaynak-montesquieu-kanunlarin-ruhu
+tip: kaynak
+baslik: "Montesquieu — Kanunların Ruhu"
+ozet: >-
+  Yönetim biçimlerinin doğalcı bir açıklaması; kaynak yazarın despotizmi despot
+  olmayan her yönetim için sürekli bir tehlike saydığını kaydeder.
+tarih_baslangic: "1748"
+bolge: [avrupa]
+eksen: [siyasi, felsefi]
+guven_geneli: yaygin
+etiketler: [kanunlarin-ruhu, kuvvetler-ayriligi, despotizm, dogalci-aciklama, yozlasma]
+ilgili:
+  - dusunur-montesquieu
+  - kavram-hukuk-devleti
+  - kavram-guc-dengesi
+okuma_onerisi: []
+yazar: "Montesquieu"
+eser_adi: "De l esprit des lois (Kanunların Ruhu)"
+yayin_yili: 1748
+telif_durumu: kamu-mali
+tez_ozeti: >-
+  Kaynak, yazarın çeşitli yönetim biçimlerinin ve onları oldukları hâle getiren
+  nedenlerin doğalcı bir açıklamasını kurduğunu ve bu açıklamayı yönetimlerin
+  yozlaşmadan nasıl korunabileceğini açıklamak için kullandığını yazar.
+  Despotizmi despot olmayan her yönetim için sürekli bir tehlike gördüğü ve bunun
+  en iyi, yasama, yürütme ve yargı gücünün ayrı organlarca kullanıldığı bir
+  düzenle önlenebileceğini savunduğu kaydedilir.
+hangi_tartismada:
+  - tartisma-tarihsel-sayilar-nasil-okunur
+kaynaklar:
+  - anahtar: k1
+    tur: akademik
+    ad: "Stanford Encyclopedia of Philosophy - Baron de Montesquieu"
+    url: https://plato.stanford.edu/entries/montesquieu/
+    erisim_tarihi: 2026-08-21
+    dogrulama_dizesi: "Montesquieu"
+  - anahtar: k2
+    tur: ansiklopedi
+    ad: "Wikipedia (EN) - Rule of law"
+    url: https://en.wikipedia.org/wiki/Rule_of_law
+    erisim_tarihi: 2026-08-21
+    dogrulama_dizesi: "Rule of law"
+    not: "Eserin bagli oldugu kavram; bagimsiz alan adi"
+  - anahtar: k3
+    tur: ansiklopedi
+    ad: "Wikipedia (EN) - French Revolution"
+    url: https://en.wikipedia.org/wiki/French_Revolution
+    erisim_tarihi: 2026-08-21
+    dogrulama_dizesi: "French Revolution"
+    not: "Sonraki on yillardaki uygulama alani"
+son_denetim: 2026-08-21
+denetim_durumu: onaylandi
+onarim_turu: 0
+---
+
+## Künye
+
+Kaynak, yazarın adını Baron de Montesquieu, Charles-Louis de Secondat olarak
+verir ve maddenin ilk kez 18 Temmuz 2003'te yayımlandığını, 2 Nisan 2014'te
+esaslı biçimde gözden geçirildiğini kaydeder.[^k1]
+
+Bir ansiklopedi maddesinin kendi yayın ve gözden geçirme tarihlerini taşıması,
+[^k1] atlasın kaynak alanında neden erişim tarihi tuttuğunun dayanağıdır: bir
+madde zamanla değişir.
+
+Aynı kayıt, yazarı Aydınlanma'nın büyük siyaset filozoflarından biri olarak
+kaydeder
+ve onun çeşitli yönetim biçimlerinin, onları oldukları hâle getiren ve
+gelişimlerini ilerleten ya da kısıtlayan nedenlerin doğalcı bir açıklamasını
+kurduğunu yazar.[^k1]
+
+## Açıklama bir amaca bağlanmıştır
+
+Kaynak, yazarın bu açıklamayı yönetimlerin yozlaşmadan nasıl korunabileceğini
+açıklamak için kullandığını yazar.[^k1]
+
+Bir betimlemenin açıkça bir amaca bağlanması,[^k1] atlasın şu kuralının
+dayanağıdır: bu esere yapılan atıflarda betimleme ile öneri ayrı ayrı
+belirtilir.
+
+## Tehlike bütün yönetim biçimleri için sayılır
+
+Kaynak, yazarın despotizmi özellikle, zaten despot olmayan her yönetim için
+sürekli bir tehlike olarak gördüğünü ve bunun en iyi, farklı organların yasama,
+yürütme ve yargı gücünü ayrı ayrı kullandığı bir düzenle önlenebileceğini
+savunduğunu yazar.[^k1]
+
+Bir tehlikenin belirli bir rejime değil bütün yönetim biçimlerine
+atfedilmesi,[^k1] önerinin bir rejim eleştirisi değil bir yapı önerisi olduğunu
+gösterir; ilgili kavram
+[Hukuk devleti](/kavram/hukuk-devleti/) dosyasında ele alınıyor.[^k2]
+
+## Üslup da kayıtlıdır
+
+Kaynak yazarı doymak bilmez biçimde meraklı ve iğneleyici biçimde komik olarak
+niteler.[^k1]
+
+Atlas bu nitelemeyi benimsemez, kime ait olduğunu belirterek taşır. Yazar
+[Montesquieu](/dusunur/montesquieu/) dosyasında ele alınıyor.
+
+## Sonraki on yıllardaki uygulama alanı
+
+Sonraki on yıllardaki uygulama alanlarından biri için tutulan kayıt, o olayı ayrı
+bir madde olarak işler.[^k3] O olay
+[Fransız Devrimi](/olay/fransiz-devrimi/) dosyasında ele alınıyor.
+
+Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde
+böyle bir bağ belirtilmemiştir.[^k1][^k3]
+
+## Okuma yönlendirmesi
+
+Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
+ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi çevirinin kullanıldığı her
+aktarımda belirtilmelidir.

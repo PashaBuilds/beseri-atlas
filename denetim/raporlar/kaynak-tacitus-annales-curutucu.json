@@ -1,0 +1,14 @@
+{
+  "id": "kaynak-tacitus-annales",
+  "gecis": 3,
+  "zaman": "2026-08-21T11:20:12.359Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, yazarın etkilendiği kişiler arasında ilk sırada Thukydides'i sayar; ardından Fabius Rusticus, Sallustius, Livius, Marcus Cluvius Rufus, Yaşlı Plinius ve Quintilianus gelir.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

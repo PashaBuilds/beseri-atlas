@@ -17,6 +17,7 @@ ilgili:
   - kavram-hegemonya
   - kaynak-mackinder-cografi-eksen
   - kaynak-mahan-deniz-gucu
+  - kaynak-montesquieu-kanunlarin-ruhu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

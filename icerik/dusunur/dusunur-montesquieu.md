@@ -18,6 +18,7 @@ ilgili:
   - dusunur-smith
   - dusunur-tocqueville
   - kavram-hukuk-devleti
+  - kaynak-montesquieu-kanunlarin-ruhu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

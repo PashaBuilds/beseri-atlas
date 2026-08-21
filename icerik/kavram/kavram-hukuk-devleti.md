@@ -13,6 +13,7 @@ ilgili:
   - kavram-mesruiyet
   - kavram-egemenlik
   - dusunur-montesquieu
+  - kaynak-montesquieu-kanunlarin-ruhu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
