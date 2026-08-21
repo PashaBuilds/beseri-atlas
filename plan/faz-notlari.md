@@ -307,3 +307,19 @@ kunyeleri, yuzdeler). Ornekler:
 KURAL (bundan sonra): bir kavram dosyasi, Gecis 2'de en az bir OK almadan
 onaylanmaz. Bolum yapisi anlatmak mesrudur ama tek basina yeterli degildir;
 yaninda kaynakta dogrulanabilir en az bir somut kayit bulunmalidir.
+
+## Surec onarimi: onay zinciri artik itirazla kapili (2026-08-21, Faz 4 B08)
+
+Iki kez ayni hata oldu: curutucu ciktisi ile onay adimi tek bir kabuk komutunda
+calistirildi, cikti onaydan SONRA goruldu ve cozulmemis bir ORTA itiraz
+onaylandi (kavram-vergi, kaynak-pomeranz-buyuk-ayrisma). Ikisi de sonradan
+incelendi; biri duzeltildi, biri duragan karar kapsaminda reddedildi.
+
+Kalici cozum bir aliskanlik degil bir arac: `araclar/itiraz-ozet.mjs`.
+Orta/yuksek itirazlari ozetler ve cozulmemis itiraz varsa cikis kodu 1 verir.
+
+    node araclar/itiraz-ozet.mjs <id...> && sed -i 's/bekliyor/onaylandi/' ...
+
+Zincir `&&` ile kuruldugu icin, cozulmemis bir itiraz varken onay adimi
+CALISMAZ. Bu, kapiyi gevsetmenin tam tersidir: insan dikkatine dayanan bir adim
+makineye devredildi.

@@ -955,3 +955,17 @@ hat_duzeltmesi:
 # Faz 4 turu B08: Pomeranz Buyuk Ayrisma, Milanovic kuresel esitsizlik — 2026-08-21
   - bulgu: Tek itiraz dusuk ciddiyette ustunluk-iddiasi tipinde.
     aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.
+  - bulgu: >-
+      kaynak-pomeranz-buyuk-ayrisma'daki ORTA ciddiyetli
+      tek-kaynakli-nedensellik itirazi, onaydan sonra okundu (kavram-vergi'de
+      olan surec hatasinin tekrari).
+    aksiyon: >-
+      Itiraz incelendi ve REDDEDILDI: cumle "Kaynak, yazarin ... savundugunu
+      yazar" kalibiyla tam atifli ve kaynagin aktardigi TEZIN kendi nedensel
+      yapisini tasiyor; duragan tek-kaynakli-nedensellik karari kapsaminda.
+      Metin degistirilmedi.
+      SUREC ONARIMI: araclar/itiraz-ozet.mjs yazildi. Orta/yuksek itirazlari
+      ozetler ve cozulmemis itiraz varsa 1 ile cikar; boylece
+      `node araclar/itiraz-ozet.mjs <id...> && <onay>` zinciri, cozulmemis bir
+      itiraz varken onay adimini calistirmaz. Bundan sonra onay bu zincirle
+      yapiliyor.
