@@ -39,6 +39,7 @@ ilgili:
   - olay-boksor-isyani
   - olay-italyan-birligi
   - tartisma-buyuk-adam-kurami
+  - tartisma-somurgeciligin-ekonomik-bilancosu
 okuma_onerisi: []
 serit:
   - bolge: afrika

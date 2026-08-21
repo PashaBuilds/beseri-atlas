@@ -19,6 +19,7 @@ ilgili:
   - olay-1968-hareketleri
   - kavram-bagimlilik-kurami
   - kavram-somurgesizlesme
+  - tartisma-somurgeciligin-ekonomik-bilancosu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

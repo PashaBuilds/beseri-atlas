@@ -1,0 +1,14 @@
+{
+  "id": "tartisma-somurgeciligin-ekonomik-bilancosu",
+  "gecis": 3,
+  "zaman": "2026-08-21T12:04:59.745Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Kaynak, Guyanalı Marksist tarihçi Walter Rodney'nin 1972'de bir kitabında Avrupalı emperyalistlerce bilinçli olarak sömürülmüş ve bunun kıtanın çoğunun bugünkü geri kalmışlığına do",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

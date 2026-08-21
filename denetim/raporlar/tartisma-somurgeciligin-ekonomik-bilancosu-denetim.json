@@ -1,0 +1,37 @@
+{
+  "id": "tartisma-somurgeciligin-ekonomik-bilancosu",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:04:59.069Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu haritanın çıkış noktası bir eksikliktir: kaynak sömürgeciliğe ayrı bir alt başlık ayırır ama iktisadi bilanço için bir sayı vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, gerekçelendirme ve sorunlar başlığı altında yayılmacılık, şarkiyatçılık ve hayalî coğrafya, haritacılık, kültürel emperyalizm, dinî emperyalizm, psikolo",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaynak, Guyanalı Marksist tarihçi Walter Rodney'nin 1972'de bir kitabında Avrupalı emperyalistlerce bilinçli olarak sömürülmüş ve bunun kıtanın çoğunun bugünkü ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kişi başına GSYH serisinde sağlayıcının toplam satırı 1820 için 1.127,73, 2022 için 16.676,75 verir; iki yüz iki yıl için 21 gözlem bulunur.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sömürge döneminin büyük bölümü için yıllık karşılaştırılabilir seri bulunmaması, üçüncü pozisyonun dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

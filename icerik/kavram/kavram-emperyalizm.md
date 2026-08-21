@@ -15,6 +15,7 @@ ilgili:
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - kavram-somurgesizlesme
   - tartisma-kesif-mi-istila-mi
+  - tartisma-somurgeciligin-ekonomik-bilancosu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -14,6 +14,7 @@ ilgili:
   - dusunur-wallerstein
   - olay-afrika-bagimsizlik-dalgasi
   - veri-yoksulluk-orani
+  - tartisma-somurgeciligin-ekonomik-bilancosu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

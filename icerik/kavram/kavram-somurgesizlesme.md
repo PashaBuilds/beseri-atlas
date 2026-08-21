@@ -14,6 +14,7 @@ ilgili:
   - olay-afrika-bagimsizlik-dalgasi
   - olay-hindistan-bolunmesi
   - kavram-imparatorluk
+  - tartisma-somurgeciligin-ekonomik-bilancosu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

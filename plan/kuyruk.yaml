@@ -2429,7 +2429,7 @@ isler:
   - id: tartisma-somurgeciligin-ekonomik-bilancosu
     tip: tartisma
     baslik: Sömürgeciliğin ekonomik bilançosu
-    durum: uretiliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
