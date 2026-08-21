@@ -53,6 +53,7 @@ ilgili:
   - tartisma-kara-olumun-sonuclari
   - veri-savas-olumleri
   - tartisma-yazinin-icadi-nerede
+  - tartisma-karsi-olgusal-tarih
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

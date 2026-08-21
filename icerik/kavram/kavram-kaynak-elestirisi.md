@@ -15,6 +15,7 @@ ilgili:
   - kavram-sozlu-tarih
   - kaynak-carr-tarih-nedir
   - kaynak-herodotos-tarihler
+  - tartisma-karsi-olgusal-tarih
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -13,6 +13,7 @@ ilgili:
   - dusunur-marx
   - kavram-dunya-sistemi
   - kavram-longue-duree
+  - tartisma-karsi-olgusal-tarih
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

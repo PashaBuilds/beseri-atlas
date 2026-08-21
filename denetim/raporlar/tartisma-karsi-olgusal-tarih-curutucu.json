@@ -1,0 +1,28 @@
+{
+  "id": "tartisma-karsi-olgusal-tarih",
+  "gecis": 3,
+  "zaman": "2026-08-21T12:29:33.315Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, aynı kitabın anlatı tonunun kaprise kaçtığını, ne tarihsel çözümleme ne de senaryoların ardındaki mantığı sunduğunu yazar.[^k1] Bir türün ilk örneğinin kendi kaynağınca bu ",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tarihsel bilginin doğası için tutulan kayıt, tarih felsefesi başlığının ilk kez 18 Şubat 2007'de yayımlandığını ve 14 Mayıs 2025'te esaslı biçimde gözden geçirildiğini verir; alanı",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Alanın kendi ansiklopedi maddesinde türdeş sayılmaması,[^k2] soruya tek bir ölçütle cevap verilemeyeceğini gösterir. Büyük adam sorusu [Büyük adam kuramı](/tartisma/buyuk-adam-kura",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

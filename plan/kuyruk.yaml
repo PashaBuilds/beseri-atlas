@@ -2789,7 +2789,7 @@ isler:
   - id: tartisma-karsi-olgusal-tarih
     tip: tartisma
     baslik: Karşı olgusal tarih meşru mu?
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

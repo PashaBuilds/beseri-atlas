@@ -22,6 +22,7 @@ ilgili:
   - kaynak-sima-qian-shiji
   - kaynak-tacitus-annales
   - tartisma-buyuk-adam-kurami
+  - tartisma-karsi-olgusal-tarih
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

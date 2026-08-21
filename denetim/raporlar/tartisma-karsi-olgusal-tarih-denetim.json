@@ -1,0 +1,79 @@
+{
+  "id": "tartisma-karsi-olgusal-tarih",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:29:32.607Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, karşı-olgusal tarihi — sanal tarih adıyla da anılır — karşı-olgusal koşullardan doğan \"ya olsaydı?\" sorularını cevaplamaya çalışan bir tarih yazımı biçi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, erken bir karşı-olgusal tarih kitabı olarak 1931 tarihli If It Had Happened Otherwise'ı verir; kitapta Winston Churchill'in Gettysburg Muharebesi üzerin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, aynı kitabın anlatı tonunun kaprise kaçtığını, ne tarihsel çözümleme ne de senaryoların ardındaki mantığı sunduğunu yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir türün ilk örneğinin kendi kaynağınca bu şekilde nitelenmesi, tür ayrımının neden gerekli görüldüğünü gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Robert Fogel'in Railroads and American Economic Growth: Essays in Econometric History adlı çalışmasında, ABD'de demiryolu hiç olmasaydı 1890 ekonomisini",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üç aylık bir farkın bir teknolojinin bütün katkısı olarak sunulabilmesi, atlasın şu kuralının dayanağıdır: bir teknolojinin belirleyici sayılması bir ölçüm deği",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1991'de Cambridge'li toplumbilimci Geoffrey Hawthorn'un Plausible Worlds: Possibility and Understanding in History and the Social Sciences adlı kitabınd",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Altmış yıl arayla iki kitabın aynı hattın kilometre taşları sayılması, tartışmanın süreklilikten çok aralıklı bir ilgi taşıdığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tarihsel bilginin doğası için tutulan kayıt, tarih felsefesi başlığının ilk kez 18 Şubat 2007'de yayımlandığını ve 14 Mayıs 2025'te esaslı biçimde gözden geçiri",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Alanın kendi ansiklopedi maddesinde türdeş sayılmaması, soruya tek bir ölçütle cevap verilemeyeceğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Alanın kendisi için tutulan kayıt, onu tarihçilerin tarihi akademik bir disiplin olarak geliştirirken kullandıkları yöntemlerin incelenmesi diye tanımlar ve kon",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Birleşik, Krallık, İkinci, Dünya"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaynak, akademik tarihin gelişiminin on dokuzuncu yüzyılda büyük bir tarih yazımı külliyatı ürettiğini; tarihçilerin kendi grup ve bağlılıklarından ne ölçüde et",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

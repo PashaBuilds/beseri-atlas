@@ -27,6 +27,7 @@ ilgili:
   - dusunur-carr
   - kavram-tarih-yazimi
   - donem-12
+  - tartisma-karsi-olgusal-tarih
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:
