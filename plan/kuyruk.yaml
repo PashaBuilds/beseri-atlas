@@ -508,7 +508,7 @@ isler:
   - id: olay-taiping-isyani
     tip: olay
     baslik: Taiping İsyanı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-12
@@ -517,7 +517,7 @@ isler:
   - id: olay-1857-hint-ayaklanmasi
     tip: olay
     baslik: 1857 Hint Ayaklanması
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-12
@@ -526,7 +526,7 @@ isler:
   - id: olay-meiji-restorasyonu
     tip: olay
     baslik: Meiji Restorasyonu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-12
@@ -895,7 +895,7 @@ isler:
   - id: aktor-ingiliz-doguhindistan-sirketi
     tip: aktor
     baslik: İngiliz Doğu Hindistan Şirketi
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-10
@@ -904,7 +904,7 @@ isler:
   - id: aktor-qing-hanedani
     tip: aktor
     baslik: Qing hanedanı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-10
@@ -1045,6 +1045,14 @@ isler:
   - id: tartisma-romanin-cokus-nedeni
     tip: tartisma
     baslik: Roma neden çöktü?
+    durum: onaylandi
+    faz: 2
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: tartisma-tarihsel-sayilar-nasil-okunur
+    tip: tartisma
+    baslik: Tarihsel bilanço sayıları nasıl okunmalı?
     durum: onaylandi
     faz: 2
     bagimlilik: []

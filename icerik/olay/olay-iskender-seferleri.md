@@ -15,6 +15,7 @@ etiketler: [iskender, makedonya, gaugamela, hydaspes, helenistik]
 ilgili:
   - donem-04
   - aktor-ahamenis-imparatorlugu
+  - tartisma-tarihsel-sayilar-nasil-okunur
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

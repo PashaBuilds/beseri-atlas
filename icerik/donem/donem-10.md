@@ -19,6 +19,8 @@ ilgili:
   - donem-09
   - donem-11
   - olay-amerikan-devrimi
+  - aktor-ingiliz-doguhindistan-sirketi
+  - aktor-qing-hanedani
 okuma_onerisi: []
 serit:
   - bolge: avrupa

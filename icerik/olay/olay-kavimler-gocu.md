@@ -17,6 +17,7 @@ ilgili:
   - aktor-roma-imparatorlugu
   - aktor-bizans-imparatorlugu
   - tartisma-romanin-cokus-nedeni
+  - tartisma-tarihsel-sayilar-nasil-okunur
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

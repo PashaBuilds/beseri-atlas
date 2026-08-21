@@ -1,0 +1,21 @@
+{
+  "id": "aktor-qing-hanedani",
+  "gecis": 3,
+  "zaman": "2026-08-21T05:30:41.636Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Hanedanın nüfus bileşimi tek bir etnik tanıma sığmaz. Kaynak, imparatorluğun etnik gruplarını Han, Miao, Mançu, Moğol, Tibetli, Uygur ve diğerleri olarak sıralar.[^k1]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Hanedanın karşılaştığı en büyük iç savaşın bilançosu, Çin tarihinin en tartışmalı sayılarındandır: Taiping İsyanı için toplam ölü 20–100 milyon olarak verilir.[^k2] İsyan sırasında",
+      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

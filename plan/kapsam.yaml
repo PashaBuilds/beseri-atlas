@@ -39,6 +39,7 @@ fazlar:
     - { id: tartisma-tunc-cagi-cokusunun-nedeni, baslik: "Tunç Çağı çöküşünün nedeni neydi?", bagimlilik: [donem-03] }
     - { id: tartisma-imparatorluk-siniri-nasil-cizilir, baslik: "İmparatorluk sınırı haritada nasıl gösterilmeli?", bagimlilik: [donem-04] }
     - { id: tartisma-romanin-cokus-nedeni, baslik: "Roma neden çöktü?", bagimlilik: [donem-05] }
+    - { id: tartisma-tarihsel-sayilar-nasil-okunur, baslik: "Tarihsel bilanço sayıları nasıl okunmalı?", bagimlilik: [donem-12] }
     - { id: olay-tunc-cagi-cokusu, baslik: "Tunç Çağı çöküşü", bagimlilik: [donem-03, tartisma-tunc-cagi-cokusunun-nedeni] }
     - { id: olay-pers-yunan-savaslari, baslik: "Pers–Yunan savaşları", bagimlilik: [donem-04] }
     - { id: olay-iskender-seferleri, baslik: "İskender'in seferleri", bagimlilik: [donem-04] }

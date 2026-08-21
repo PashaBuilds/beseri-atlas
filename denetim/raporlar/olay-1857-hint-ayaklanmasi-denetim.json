@@ -1,0 +1,55 @@
+{
+  "id": "olay-1857-hint-ayaklanmasi",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:30:31.774Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Ayaklanma 10 Mayıs 1857'de başladı ve 1 Kasım 1858'de sona erdi; toplam süre bir yıl altı aydır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, karşı tarafta Büyük Britanya ve İrlanda Birleşik Krallığı'nı ve onun altında Doğu Hindistan Şirketi'ni sayar; şirketin altında ise Rajputana Ajansı, Pat",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ayaklanan taraf da tek parça değildi: kaynak Babür İmparatorluğu'nu ve sipahi isyancılarını sayar.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak ayaklanmanın nedenlerini üç başlık altında toplar: Enfield tüfeği, sivil huzursuzluk ve Bengal Ordusu.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ayaklanmanın başlangıcı ise Mangal Pandey, Nisan 1857'deki huzursuzluk, Meerut ve Delhi başlıklarıyla ele alınır.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ayaklanma Britanya zaferiyle sonuçlandı ve toprak değişimi şu biçimde kaydedilir: bazı prenslikler Britanya Hindistanı'na ilhak edildi, diğer prenslikler hâkimi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaynak, şirketin tarihini tekel kurma (ticaret tekeli, güherçile ticareti), tekelin dayanağı (sömürge tekeli) ve tasfiye başlıkları altında ele alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyardır.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

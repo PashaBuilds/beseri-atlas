@@ -17,6 +17,7 @@ ilgili:
   - donem-11
   - olay-fransiz-devrimi
   - olay-amerikan-devrimi
+  - tartisma-tarihsel-sayilar-nasil-okunur
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,0 +1,79 @@
+{
+  "id": "olay-meiji-restorasyonu",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:30:31.839Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Meiji Restorasyonu 3 Ocak 1868 tarihine yerleştirilir ve dört sonuç birden kaydedilir: Tokugawa şogunluğunun devrilmesi, Japonya İmparatorluğu'nun kurulması, sa",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Listedeki maddeler farklı türdendir: biri bir rejim değişikliği, biri bir devlet kuruluşu, biri bir iktisadi dönüşüm, biri bir toplumsal sınıfın hukuken ortadan",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, şogunluğun sonunu kendi içinde evrelere ayırır: 1854–1858 arasında Eşitsiz Antlaşmalara tepkiler, 1858–1864 arasında siyasi şiddet, 1864–1867 arasında T",
+      "durum": "OK",
+      "not": "7 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Daha geriye giden çerçeve ise 1633–1854 arasındaki yabancı etkidir; kaynak bunu Rus İmparatorluğu, Batı Avrupa ve Amerika Birleşik Devletleri alt başlıklarıyla ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kendi bölümlemesinde 1633–1854 arasındaki uzun etki dosyasını, 1854–1867 arasına sıkışan kısa bir kriz dizisi izler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kendi bölümlemesinde 1633–1854 arasındaki uzun etki dosyasını, 1854–1867 arasına sıkışan kısa bir kriz dizisi izler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Adın kendisi bir siyasi iddiadır: hareket, Japonya'da imparatorluk yönetimine dönüş olarak adlandırılır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Benzer bir dış basınç altındaki komşu düzen farklı bir yol izledi: Qing hanedanı 1644–1912 arasında Çin'i yönetti ve kaynak onun ekonomisini gümüş, kentleşme, B",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Benzer bir dış basınç altındaki komşu düzen farklı bir yol izledi: Qing hanedanı 1644–1912 arasında Çin'i yönetti ve kaynak onun ekonomisini gümüş, kentleşme, B",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir tarafta 1868'de ilan edilen bütünsel bir program, öte tarafta 1912'ye kadar süren bir hanedan — iki düzenin aynı yüzyıldaki basınca farklı yanıtlar vermesi ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir tarafta 1868'de ilan edilen bütünsel bir program, öte tarafta 1912'ye kadar süren bir hanedan — iki düzenin aynı yüzyıldaki basınca farklı yanıtlar vermesi ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyardır.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

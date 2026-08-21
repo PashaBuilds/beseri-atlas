@@ -22,6 +22,9 @@ ilgili:
   - olay-balkan-savaslari
   - olay-berlin-konferansi
   - olay-tanzimat-fermani
+  - olay-1857-hint-ayaklanmasi
+  - olay-meiji-restorasyonu
+  - olay-taiping-isyani
 okuma_onerisi: []
 serit:
   - bolge: afrika

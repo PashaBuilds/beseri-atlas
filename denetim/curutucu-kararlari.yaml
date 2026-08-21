@@ -175,3 +175,28 @@ hat_duzeltmesi:
       olan sey yorumdur ve iki yorum da kaynagin kendi ifadeleriyle, hakemlik
       yapilmadan metinde yan yana verilmistir. Kapi gevsetilmedi, etiket
       duzeltildi.
+
+# Faz 2 turu B14: 19. yuzyil Asya kumesi — 2026-08-21
+  - bulgu: >-
+      Curutucu, olay-taiping-isyani'nda "tamamen" ifadesini YUKSEK ciddiyette
+      kesinlik dili saydi; olay-1857-hint-ayaklanmasi'nda bir cumleyi kapsam
+      carpitmasi, iki dosyada da nedensellik cumlelerini tek kaynakli olarak
+      isaretledi.
+    aksiyon: >-
+      "tamamen" -> "butunuyle" ve cumle "kaynaga gore" ile atfedildi; kapsam
+      itirazina konu olan cumle kaynagin kendi ifadesine baglandi; nedensellik
+      cumleleri "kaynagin anlatiminda" / "kullanilan veri kumesine gore"
+      cerceveleriyle acikca kaynaga atfedildi.
+  - bulgu: >-
+      B13'te yakalanan "yanlis haritaya baglama" hatasi B14'te bir kez daha
+      tekrar etti: olay-taiping-isyani'ndaki `::tartismali` yonergesi ilk
+      yazimda tartisma-imparatorluk-siniri-nasil-cizilir'e baglanmisti.
+    aksiyon: >-
+      Bunun yerine eksik olan harita yazildi:
+      `tartisma-tarihsel-sayilar-nasil-okunur`. Harita, atlasin bilanco
+      sayilariyla nasil calistigini dort pozisyonla ele aliyor ve Taiping
+      (20-100 milyon), Kavimler Gocu (500.000-1.000.000+), Justinyen vebasi
+      (2019 "abartildi" iddiasi) ve Haiti (eksik taraf) ornekleriyle
+      dogrulaniyor. Belirsiz bilanco tasiyan uc mevcut dosya bu haritaya
+      baglandi. Kural netlesti: `::tartismali` yonergesi KONUYA uygun bir
+      haritaya baglanmalidir; uygun harita yoksa harita yazilir.

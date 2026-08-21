@@ -17,6 +17,7 @@ ilgili:
   - tartisma-bati-neden-yukseldi
   - aktor-mogol-imparatorlugu
   - olay-cheng-ho-seferleri
+  - aktor-qing-hanedani
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

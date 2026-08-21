@@ -1,0 +1,85 @@
+{
+  "id": "aktor-ingiliz-doguhindistan-sirketi",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:30:31.953Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Şirketin kuruluşu bir sermaye toplantısıyla tarihlenir: girişimciler 31 Aralık 1600'de yeniden toplandılar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılın sonlarındaki doğu tasarımının önemli bir unsurunu başlattı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Toplanan sermaye 30.133 sterlin — bugünkü parayla 4.000.000 sterlinin üzerinde — olarak kaydedilir; girişimciler daha sonra yatırımlarını 68.373 sterline çıkard",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kaydettiği yaklaşık yüzde 5.000'lik getiri sonraki dönemin kurumsal biçimini açıklar: risk sermayesi, devlet imtiyazıyla birleştiğinde kendi kendini bü",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak ilk seferleri tablo halinde verir: 1603'te 3 gemi ve 60.450 sterlin toplam yatırım (11.160 sterlin külçe, 1.142 sterlin mal, 48.140 sterlin gemi ve lojis",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Elizabeth korsanlığa başvurdu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Girişimciler ise projeye destek için Kraliçe'ye başvurmaya karar verdiler ve resmî olmayan onayını aradılar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kraliçe"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaş nedeniyle kesilen ticaret, korsanlık ve krallık onayı arayışı aynı kayıtta art arda gelir; ticaret, savaş ve imtiyaz burada tek bir sürecin üç yüzüdür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak şirketin tekelini ayrı başlıklar altında çözümler: tekelin kurulması (ticaret tekeli, güherçile ticareti), tekelin dayanağı (sömürge tekeli) ve tasfiye.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yapıda kölelik 1621–1834 ve Anglo-Babür Savaşı da ayrı başlıklardır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "10 Mayıs 1857 – 1 Kasım 1858 arasındaki ayaklanmada karşı tarafta Büyük Britanya ve İrlanda Birleşik Krallığı ile onun altında Doğu Hindistan Şirketi yer alıyor",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1600'de yaklaşık 516,1 milyon, 1848'de yaklaşık 1,27 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak Çin ile ilişkileri ayrı bir başlık altında ele alır; bu dosya o başlığı kapsamaz.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin"
+    }
+  ]
+}

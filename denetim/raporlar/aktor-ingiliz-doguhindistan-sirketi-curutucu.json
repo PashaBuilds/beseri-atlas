@@ -1,0 +1,28 @@
+{
+  "id": "aktor-ingiliz-doguhindistan-sirketi",
+  "gecis": 3,
+  "zaman": "2026-08-21T05:30:41.635Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak ilk seferleri tablo halinde verir: 1603'te 3 gemi ve 60.450 sterlin toplam yatırım (11.160 sterlin külçe, 1.142 sterlin mal, 48.140 sterlin gemi ve lojistik); 1606'da 3 gemi",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Savaş nedeniyle kesilen ticaret, korsanlık ve krallık onayı arayışı aynı kayıtta art arda gelir;[^k1] ticaret, savaş ve imtiyaz burada tek bir sürecin üç yüzüdür.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Savaş nedeniyle kesilen ticaret, korsanlık ve krallık onayı arayışı aynı kayıtta art arda gelir;[^k1] ticaret, savaş ve imtiyaz burada tek bir sürecin üç yüzüdür.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

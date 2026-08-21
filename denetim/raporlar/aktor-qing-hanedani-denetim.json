@@ -1,0 +1,91 @@
+{
+  "id": "aktor-qing-hanedani",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:30:32.016Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Qing, Çin'in Mançu önderliğindeki hanedanıdır ve 1644–1912 arasına tarihlenir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alıntıladığı çalışmaya göre 1636 Qing hanedanının başlangıcıydı, ancak tarihçiler Qing hanedanının Mançuların Pekin'i ve kuzey Çin'i fethettiği 1644'te başladığ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki tarih arasındaki sekiz yıl teknik bir ayrıntı değildir: kaynağın kaydına göre 1636 hanedanın başlangıcı, 1644 ise Mançuların Pekin'i ve kuzey Çin'i fethetti",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, imparatorluğun etnik gruplarını Han, Miao, Mançu, Moğol, Tibetli, Uygur ve diğerleri olarak sıralar.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak dinî yapıyı da ayrı ayrı ele alır: Mançu ve imparatorluk dini, halk dini ile Hristiyanlık, Yahudilik ve İslam ayrı başlıklar altındadır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın ekonomi bölümü dört başlıktan oluşur: gümüş, kentleşme ve pazar kasabalarının çoğalması, Batı ile ticaret ve gelir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Batı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı bölümde nüfus artışı ve hareketlilik ayrı bir başlık olarak ele alınır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın ekonomi bölümünde gümüşün Batı ile ticaret başlığıyla birlikte yer alması, hanedanın mali düzeninin uluslararası maden dolaşımına bağlı olduğunu düşünd",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Batı"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Hanedanın karşılaştığı en büyük iç savaşın bilançosu, Çin tarihinin en tartışmalı sayılarındandır: Taiping İsyanı için toplam ölü 20–100 milyon olarak verilir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İsyan sırasında Nanjing'in 1864'te düşmesi rejimin yıkılışını işaretlese de son Taiping ordusu Ağustos 1871'de imha edilmiştir.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İsyanın 1871'de bastırılmasından sonra hanedanın 1912'ye kadar sürmesi, Qing'in kurumsal derinliğine dair bir bilgidir; isyanın kendisi dosyasında ele alınıyor.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İsyanın 1871'de bastırılmasından sonra hanedanın 1912'ye kadar sürmesi, Qing'in kurumsal derinliğine dair bir bilgidir; isyanın kendisi dosyasında ele alınıyor.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1600'de yaklaşık 516,1 milyon, 1848'de yaklaşık 1,27 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak Batı ile ticareti ayrı bir başlık altında ele alır; bu dosya o başlığı kapsamaz.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Batı"
+    }
+  ]
+}
