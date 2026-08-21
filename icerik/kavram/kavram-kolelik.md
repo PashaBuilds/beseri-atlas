@@ -13,6 +13,7 @@ ilgili:
   - olay-atlantik-kole-ticareti
   - aktor-abd
   - kavram-ilkel-birikim
+  - tartisma-antik-kolelik-ekonomisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

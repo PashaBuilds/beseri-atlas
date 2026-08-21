@@ -29,6 +29,7 @@ ilgili:
   - dusunur-augustinus
   - kaynak-gibbon-roma
   - kaynak-tacitus-annales
+  - tartisma-antik-kolelik-ekonomisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -2693,7 +2693,7 @@ isler:
   - id: tartisma-antik-kolelik-ekonomisi
     tip: tartisma
     baslik: Antik ekonomi köleliğe mi dayanıyordu?
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

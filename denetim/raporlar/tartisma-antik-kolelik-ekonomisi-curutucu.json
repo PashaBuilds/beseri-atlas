@@ -1,0 +1,14 @@
+{
+  "id": "tartisma-antik-kolelik-ekonomisi",
+  "gecis": 3,
+  "zaman": "2026-08-21T12:10:05.389Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu haritanın çıkış noktası kaynağın terminoloji bölümüdür: tek bir tanım yerine altı biçim.[^k1]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

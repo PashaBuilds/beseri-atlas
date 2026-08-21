@@ -1,0 +1,49 @@
+{
+  "id": "tartisma-antik-kolelik-ekonomisi",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:10:04.700Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu haritanın çıkış noktası kaynağın terminoloji bölümüdür: tek bir tanım yerine altı biçim.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, terminoloji başlığı altında mal kölelik, borç emeği, bağımlılar, zorla çalıştırma (altında çocuk askerler ve çocuk emeği), zorla evlendirme ve terimin d",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, özellikler başlığı altında iktisat ve tanımlama alt başlıklarını; hukuki yönler başlığı altında ise özel ile devlet eliyle uygulama ayrımını tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir olgunun iktisadi ve hukuki yönlerinin ayrı ayrı işlenmesi, sorunun iki farklı ölçütle sorulabileceğini gösterir; kaynak bu bölümlerde antik dönem için bir ü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sorunun sıklıkla sorulduğu düzen için tutulan kayıt, imparatorluk dönemini MÖ 27 ile MS 286 arasına yerleştirir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dönemin siyaset yazarı için tutulan kayıt, geride belki iki yüz kadar incelemeden oluşan bir külliyat bıraktığını ve bunlardan yaklaşık otuz birinin günümüze ul",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir dönemin siyaset metinlerinin çoğunun elimizde olmaması, antik iktisat sorularının neden dolaylı kanıtla yürüdüğünün dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

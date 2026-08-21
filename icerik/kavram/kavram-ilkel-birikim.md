@@ -15,6 +15,7 @@ ilgili:
   - kavram-kapitalizm
   - kavram-kolelik
   - kaynak-marx-kapital
+  - tartisma-antik-kolelik-ekonomisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

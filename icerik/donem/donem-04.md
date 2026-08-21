@@ -31,6 +31,7 @@ ilgili:
   - olay-ipek-yolu-kurulusu
   - kavram-eksen-cagi
   - tartisma-eksen-cagi-gercek-mi
+  - tartisma-antik-kolelik-ekonomisi
 okuma_onerisi: []
 serit:
   - bolge: dogu-asya

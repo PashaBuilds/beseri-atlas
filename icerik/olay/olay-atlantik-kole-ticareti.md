@@ -20,6 +20,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-locke
   - kavram-kolelik
+  - tartisma-antik-kolelik-ekonomisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
