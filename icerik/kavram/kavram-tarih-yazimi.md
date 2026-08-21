@@ -19,6 +19,7 @@ ilgili:
   - kaynak-carr-tarih-nedir
   - kaynak-gibbon-roma
   - tartisma-fransiz-devrimi-yorumlari
+  - kaynak-sima-qian-shiji
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

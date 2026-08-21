@@ -14,6 +14,7 @@ ilgili:
   - dusunur-herodotos
   - kavram-sozlu-tarih
   - kaynak-carr-tarih-nedir
+  - kaynak-herodotos-tarihler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

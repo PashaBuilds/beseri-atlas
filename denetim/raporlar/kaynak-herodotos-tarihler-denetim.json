@@ -1,0 +1,55 @@
+{
+  "id": "kaynak-herodotos-tarihler",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:14:35.859Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eseri Tarihler adıyla anar ve Yunan-Pers Savaşları'nın ayrıntılı bir anlatısı olarak tanımlar; başka konular arasında Kyros'un Ahameniş hanedanının yükse",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tarihler, Yunan-Pers, Savaşları, Kyros"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın kendi zamanında eserine efsaneler ve hayalî anlatılar kattığı için eleştirildiğini ve Peloponez Savaşı'nı yazan çağdaşının onu eğlence olsun diy",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın bu suçlamaya gördüğünü ve kendisine anlatılanı bildirdiğini söyleyerek karşılık verdiğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki kanıt türünün — taniklik ve aktarım — bir yöntem beyanı içinde ayrılması, atlasın kaynak eleştirisi dosyasında kaydettiği ayrımın en eski örneklerinden biri",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaynak, yazarın kronoloji yönteminin bir başka eserinkinden keskin biçimde ayrıldığını yazar; o eser için tutulan ayrı kayıt, yazarının olayları yıl yıl kaydett",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yüz yıl önce yazılmış bir başka ansiklopedi maddesi, yazarı tarihin babası diye anılan Yunan tarihçi olarak tanıtır ve Halikarnassos'ta doğduğunu yazar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yunan, Halikarnassos"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki ansiklopedi maddeleridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki ansiklopedi maddeleridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

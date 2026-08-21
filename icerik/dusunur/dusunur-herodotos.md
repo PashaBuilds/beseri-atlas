@@ -20,6 +20,7 @@ ilgili:
   - kavram-birincil-kaynak
   - kavram-kaynak-elestirisi
   - kavram-tarih-yazimi
+  - kaynak-herodotos-tarihler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

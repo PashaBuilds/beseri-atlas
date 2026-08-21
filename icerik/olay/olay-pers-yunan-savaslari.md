@@ -17,6 +17,7 @@ ilgili:
   - aktor-ahamenis-imparatorlugu
   - dusunur-herodotos
   - dusunur-thukydides
+  - kaynak-herodotos-tarihler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

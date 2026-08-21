@@ -1,0 +1,28 @@
+{
+  "id": "kaynak-sima-qian-shiji",
+  "gecis": 3,
+  "zaman": "2026-08-21T11:14:57.109Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir metnin içindeki tek bir bölümün başka bir yazara açıkça atfedilmiş olması, [^k1] atlasın şu kuralının dayanağıdır: bu dosyada esere yapılan atıflar, hangi bölümden geldiği beli",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, eserin tasarısını ilk kez Sima Tan'ın düşündüğünü ve onun *Bahar ve Güz Yıllıkları*'nı izlemek istediğini, ölmeden önce yalnızca bir taslak oluşturabilmiş göründüğünü yazar",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, eserin antik Çinlilerin bildiği dünyanın ilk evrensel tarihi olarak sonraki hanedanların resmî tarihleri için Sinosfer boyunca 20. yüzyıla kadar model olduğunu yazar.[^k1]",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

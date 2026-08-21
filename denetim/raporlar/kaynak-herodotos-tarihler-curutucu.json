@@ -1,0 +1,14 @@
+{
+  "id": "kaynak-herodotos-tarihler",
+  "gecis": 3,
+  "zaman": "2026-08-21T11:14:36.510Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki kanıt türünün — taniklik ve aktarım — bir yöntem beyanı içinde ayrılması, [^k1] atlasın kaynak eleştirisi dosyasında kaydettiği ayrımın en eski örneklerinden biridir; o dosya [",
+      "sorun": "\"en eski\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -2917,7 +2917,7 @@ isler:
   - id: kaynak-herodotos-tarihler
     tip: kaynak
     baslik: Herodotos — Tarihler
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2925,7 +2925,7 @@ isler:
   - id: kaynak-sima-qian-shiji
     tip: kaynak
     baslik: Sima Qian — Shiji
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

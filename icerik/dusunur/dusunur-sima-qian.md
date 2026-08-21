@@ -18,6 +18,7 @@ ilgili:
   - dusunur-tacitus
   - dusunur-clausewitz
   - kavram-tarih-yazimi
+  - kaynak-sima-qian-shiji
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

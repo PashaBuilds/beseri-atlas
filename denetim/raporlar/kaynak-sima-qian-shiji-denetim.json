@@ -1,0 +1,61 @@
+{
+  "id": "kaynak-sima-qian-shiji",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:14:35.889Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eseri Shiji adıyla anar ve bazen Records of the Grand Historian diye çevrildiğini yazar; eserin MÖ 91'den önce, muhtemelen MÖ 94 dolaylarında tamamlandığ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tamamlanmış eserin sonsözünde altı felsefi okul üzerine kısa bir denemenin açıkça yazarın babası Sima Tan'a atfedildiğini yazar; bunun dışında Sima Tan'",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir metnin içindeki tek bir bölümün başka bir yazara açıkça atfedilmiş olması, atlasın şu kuralının dayanağıdır: bu dosyada esere yapılan atıflar, hangi bölümde",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, eserin tasarısını ilk kez Sima Tan'ın düşündüğünü ve onun Bahar ve Güz Yıllıkları'nı izlemek istediğini, ölmeden önce yalnızca bir taslak oluşturabilmiş",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıla kadar model olduğunu yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir eserin iki bin yıl boyunca bir tür standardı olarak kalması, atlasın tarih yazımı dosyasında Doğu Asya'yı neden ayrı bir gelenek olarak tuttuğunun dayanağıd",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı geleneğin bir başka metni için tutulan kayıt, erken metinlerdeki diyalog ve hikâyelerin çeşitli temsiller ve kaygılar yansıttığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yazıldığı dönemin hanedanı için tutulan kayıt, Han'ı MÖ 202 - MS 220 arasına yerleştirir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

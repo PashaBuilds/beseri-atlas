@@ -21,6 +21,7 @@ ilgili:
   - dusunur-sima-qian
   - kavram-goksel-yetki
   - kavram-burokrasi
+  - kaynak-sima-qian-shiji
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
