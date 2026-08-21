@@ -16,6 +16,7 @@ ilgili:
   - dusunur-gazali
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-augustinus
+  - dusunur-ibn-rusd
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

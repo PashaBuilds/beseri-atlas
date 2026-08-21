@@ -1,0 +1,97 @@
+{
+  "id": "dusunur-ibn-rusd",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:51:15.746Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onu 1126-1198 arasında yaşamış Endülüslü bir filozof, hekim ve kadı olarak kaydeder.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, ona sıklıkla uygun olmayan biçimde Averroes dendiğini ve bunun adının Latincede aldığı bozulmuş biçim olduğunu yazar; Hıristiyan Avrupa'da yalnızca Şâri",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir düşünürün asırlarca kendi adıyla değil bir meslek sıfatıyla anılması, adın da bir alımlanma kaydı olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bağımsız bir ansiklopedinin madde listesi de aynı biçimi ayrı bir başlık olarak tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, modern araştırmaların çoğunun onun Hıristiyan Avrupa'daki alımlanması etrafında kurulduğunu ve bu yüzden kendi ayırt edici felsefesini takdir etmekte ye",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir ansiklopedi maddesinin kendi alanının yönelim hatasını kaydetmesi, atlasın kaynak seçiminde neden alan çeşitliliği aradığını gösterir: bir konuyu kimin okud",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, on dokuzuncu yüzyıla giden bir araştırma geleneğinin şerhleri üçe ayırdığını yazar: kariyerinin başında tercih ettiği cevâmi, kariyeri boyunca yazılmış ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şerhlerinin odağının Aristoteles olduğu, ayrıca Galen'in tıp incelemelerine ve Platon, İbn Sînâ ile İbn Bâcce gibi başka filozoflara da şerh yazdığı kaydedilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yazarın aynı metne üç farklı uzunlukta şerh yazması, şerhin tek bir tür değil bir ölçek seçimi olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Aristoteles'e odaklanmasının gerekçesini onun kendi ifadesiyle aktarır: ondan sonra gelen hiç kimse, aradan yaklaşık bin beş yüz yıl geçmesine rağmen sö",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir şerhçinin şerh gerekçesini kendi metnine yazması, atlasın kaynak notlarında neden \"neden bu kaynak\" alanı tuttuğunun eski bir örneğidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Şerh edilen külliyat dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Aristotelesçi burhanın katılığının pratik bir seçenek olmadığı bağlamlarda onun başka akıl yürütme ve ikna yöntemlerini incelikle öne çıkardığını yazar;",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kanıt biçiminin konuya ve muhataba göre değişmesi, bu atlasın kaynak türü alanının (ansiklopedi, akademik, birincil, veri) neden ayrı tutulduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metafiziği, akıl kuramı, din-felsefe ilişkisi ve hukuk yazıları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

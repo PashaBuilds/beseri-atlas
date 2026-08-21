@@ -1685,7 +1685,7 @@ isler:
   - id: dusunur-ibn-rusd
     tip: dusunur
     baslik: İbn Rüşd
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1693,7 +1693,7 @@ isler:
   - id: dusunur-machiavelli
     tip: dusunur
     baslik: Machiavelli
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1701,7 +1701,7 @@ isler:
   - id: dusunur-hobbes
     tip: dusunur
     baslik: Thomas Hobbes
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

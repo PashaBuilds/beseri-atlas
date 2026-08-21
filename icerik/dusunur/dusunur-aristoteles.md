@@ -16,6 +16,7 @@ ilgili:
   - dusunur-ibn-haldun
   - kavram-asabiyet
   - dusunur-farabi
+  - dusunur-ibn-rusd
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

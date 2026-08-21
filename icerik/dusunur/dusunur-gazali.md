@@ -15,6 +15,7 @@ ilgili:
   - dusunur-farabi
   - dusunur-ibn-haldun
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - dusunur-ibn-rusd
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

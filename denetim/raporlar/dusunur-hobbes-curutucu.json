@@ -1,0 +1,21 @@
+{
+  "id": "dusunur-hobbes",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:51:16.218Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, 1668'de *Leviathan*'ın Latince bir baskısını yayımladığını ve bu baskıda Teslis ile Tanrı'nın doğası gibi tartışmalı konularla ilgili bazı önemli değişiklikler ve eklemeler",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Kaynak, 1640 sonunda İngiltere'den ayrılıp 1651'e kadar dönmediğini, Paris'te on yıl sürgünde kaldığını ve sürgününün dönemin iç savaşlarıyla ilişkili olduğunu yazar; kralcı tarafl",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

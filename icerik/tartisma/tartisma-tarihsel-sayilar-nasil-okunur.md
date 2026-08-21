@@ -47,6 +47,7 @@ ilgili:
   - dusunur-kautilya
   - dusunur-farabi
   - dusunur-gazali
+  - dusunur-machiavelli
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

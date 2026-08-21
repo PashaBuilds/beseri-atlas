@@ -17,6 +17,7 @@ ilgili:
   - olay-kara-olum
   - olay-reform
   - tartisma-romanin-cokus-nedeni
+  - dusunur-machiavelli
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,0 +1,79 @@
+{
+  "id": "dusunur-machiavelli",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:51:15.772Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bir felsefe ansiklopedisinde onunla ilgili bir maddeye rastlayan herkesin bu soruyu doğal ve meşru biçimde sorabileceğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, onun kendisini hiçbir zaman filozof saymamış göründüğünü ve çoğu kez felsefi soruşturmayı konu dışı sayarak açıkça reddettiğini yazar; nitelikleri bakım",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak yazılarını çileden çıkaracak ve herkesçe bilinir ölçüde sistemsiz ve tutarsız olarak niteler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir külliyatın sistemsizliğinin maddenin kendisinde belirtilmesi, atlasın bu dosyada neden tek bir tez cümlesi kurmadığını açıklar: kaynak zaten böyle bir cümle",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Batı düşüncesindeki birçok önemli tartışmaya katkıda bulunduğunu yazar ve bunları sayar: özellikle siyaset kuramı, ayrıca tarih ve tarih yazımı, İtalyan",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Beş ayrı alanın aynı kişi için sayılması, disiplin sınırlarının yazarın kendisinden değil sonraki düzenlemelerden geldiğini gösterir; aynı örüntü dosyasında da ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak biyografi bölümünü, hakkında görece az şey bilindiği kaydıyla açar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bölüm başlıkları arasında iktidarın çözümlenmesi, ahlak-din-siyaset, devlet ve prens, Livius Üzerine Söylevler'de özgürlük ve çatışma, halk özgürlüğü ve ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yazarın hem prens hem cumhuriyet başlıkları altında okunabilmesi, atlasın bu dosyayı neden tartışmalı olarak işaretlediğinin ikinci gerekçesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sonraki yüzyılın siyaset düşünürü için tutulan kayıt, onun bugünkü ününün büyük ölçüde siyaset felsefesine dayandığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "O düşünür dosyasında, yazdığı dönem ise dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Prens'in içeriği, virtù ve fortuna kavramları, Söylevler ve Batı düşüncesindeki yeri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümle",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    }
+  ]
+}

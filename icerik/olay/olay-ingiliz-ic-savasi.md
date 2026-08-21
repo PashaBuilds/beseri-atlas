@@ -16,6 +16,7 @@ ilgili:
   - donem-10
   - olay-otuz-yil-savaslari
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - dusunur-hobbes
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

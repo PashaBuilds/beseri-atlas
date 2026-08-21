@@ -1,0 +1,79 @@
+{
+  "id": "dusunur-hobbes",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:51:15.707Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onu 1588-1679 arasında yaşamış, bugünkü ünü büyük ölçüde siyaset felsefesine dayanan ama geniş ilgi alanları olan bir düşünür olarak kaydeder; 4 Aralık 1",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1668'de Leviathan'ın Latince bir baskısını yayımladığını ve bu baskıda Teslis ile Tanrı'nın doğası gibi tartışmalı konularla ilgili bazı önemli değişikl",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı başlığın on yedi yıl arayla iki farklı içerikle çıkması, atlasın kaynak alanında neden yalnızca eser adını değil erişilen sürümü ve tarihi tuttuğunu göster",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1640 sonunda İngiltere'den ayrılıp 1651'e kadar dönmediğini, Paris'te on yıl sürgünde kaldığını ve sürgününün dönemin iç savaşlarıyla ilişkili olduğunu ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir düşünürün bulunduğu ülkenin bile bir siyasi olayla açıklanması, atlasın düşünür dosyalarını dönem dosyalarına neden bağladığını gösterir; ilgili olay dosyas",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir düşünürün bulunduğu ülkenin bile bir siyasi olayla açıklanması, atlasın düşünür dosyalarını dönem dosyalarına neden bağladığını gösterir; ilgili olay dosyas",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, The Elements of Law, Elements of Philosophy ve Leviathan'ın soyut düzeyde aynı yapıyı paylaştığını yazar: zihin ve dil sorularıyla başlayıp siyaset fels",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yazarın üç eserinde aynı sırayı izlemesi, siyaset felsefesinin onun kurgusunda bir başlangıç değil bir varış noktası olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1670'lerde Odysseia ve İlyada çevirilerini yayımladığını, 1660'ların sonunda iç savaşların tarihi olan Behemoth'u yazdığını ve bu eserin ölümünden sonra",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kişinin hem siyaset felsefesi hem destan çevirisi hem deneysel fizik tartışması içinde kaydedilmesi, uzmanlaşmanın sonradan geldiğini gösteren bir başka ör",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir önceki yüzyılın siyaset yazarı için tutulan kayıt, o kişinin kendisini filozof saymamış göründüğünü yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Zihin ve dil kuramı, doğa durumu, egemenlik kuramı ve din görüşleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
