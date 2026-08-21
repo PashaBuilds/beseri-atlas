@@ -57,6 +57,7 @@ ilgili:
   - veri-savas-kayiplari-1800-2023
   - veri-demokrasi-endeksi
   - tartisma-hacli-seferlerinin-nedeni
+  - tartisma-soykirim-kavrami
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

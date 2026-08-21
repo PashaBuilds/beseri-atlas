@@ -16,6 +16,7 @@ ilgili:
   - kavram-emperyalizm
   - kavram-ulus-devlet
   - tartisma-milliyetcilik-ne-zaman
+  - tartisma-soykirim-kavrami
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

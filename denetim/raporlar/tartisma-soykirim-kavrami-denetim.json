@@ -1,0 +1,67 @@
+{
+  "id": "tartisma-soykirim-kavrami",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:46:23.406Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, sözcüğün 1944'te Raphael Lemkin tarafından türetildiğini; eski Yunanca γένος ile Latince caedō sözcüklerinin bileşimi olduğunu kaydeder.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir terimin türetildiği yılın bilinmesi, ondan önceki olayların bu terimle adlandırılmasının geriye dönük bir işlem olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Terimi türeten kişi için tutulan kayıt, onu Polonyalı bir hukukçu olarak tanımlar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Polonyalı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, terimin çeşitli tanımları bulunmakla birlikte neredeyse bütün uluslararası hukuk organlarının soykırım suçunu 1948 tarihli Soykırım Suçunun Önlenmesi ve",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kaynak, uluslararası hukuki tanımın akademik tanımlardan daha dar olduğunu kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki tanım kümesinin genişliklerinin farklı olması, atlasın şu kuralının dayanağıdır: bu terim kullanıldığı her yerde hangi tanıma göre kullanıldığı yazılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, hukuki tanım başlığı altında tanımlardaki temalar alt başlığını; ayrıca tanımların listesi ve tanımların eleştirileri başlıklarını tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavramın tanımına, tanım listesine ve tanım eleştirisine ayrı başlıklar ayrılması, tartışmanın kapanmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Silahlı çatışma ölümleri veri kümesinde dünya değeri 1994'te 1.701.127'dir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu sayı bir soykırım sayımı değildir; sağlayıcının süregelen çatışma tanımına göre sayılmış yıllık bir toplamdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

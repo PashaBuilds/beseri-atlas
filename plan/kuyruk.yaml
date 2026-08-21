@@ -2741,7 +2741,7 @@ isler:
   - id: tartisma-soykirim-kavrami
     tip: tartisma
     baslik: Soykırım kavramı nasıl tanımlanır?
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

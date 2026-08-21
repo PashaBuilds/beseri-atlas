@@ -16,6 +16,7 @@ ilgili:
   - tartisma-milliyetcilik-ne-zaman
   - tartisma-vestfalya-miti
   - veri-demokrasi-endeksi
+  - tartisma-soykirim-kavrami
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

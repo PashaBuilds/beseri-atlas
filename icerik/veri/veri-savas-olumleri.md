@@ -17,6 +17,7 @@ ilgili:
   - kavram-topyekun-savas
   - kavram-caydiricilik
   - veri-savas-kayiplari-1800-2023
+  - tartisma-soykirim-kavrami
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/savas-olumleri.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"
