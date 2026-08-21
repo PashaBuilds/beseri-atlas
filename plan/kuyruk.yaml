@@ -1259,7 +1259,7 @@ isler:
   - id: aktor-gokturk-kaganligi
     tip: aktor
     baslik: Göktürk Kağanlığı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-05
@@ -1268,7 +1268,7 @@ isler:
   - id: aktor-timur-imparatorlugu
     tip: aktor
     baslik: Timur İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-08

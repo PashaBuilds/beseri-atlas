@@ -4,7 +4,10 @@
 import { z } from 'zod';
 
 export const TIPLER = ['donem','olay','aktor','dusunur','kavram','tartisma','veri','kaynak'];
-export const BOLGELER = ['avrupa','islam-dunyasi','dogu-asya','guney-asya','afrika','amerika','kuresel'];
+// 'orta-asya' 2026-08-21'de eklendi: Gokturk, Timur gibi Ic Asya siyasi
+// birimlerini 'dogu-asya' altina yazmak ust veriyi yanlislastiriyordu. Bu bir
+// kapi gevsetmesi degil, denetimli sozlugun genisletilmesidir.
+export const BOLGELER = ['avrupa','islam-dunyasi','orta-asya','dogu-asya','guney-asya','afrika','amerika','kuresel'];
 export const EKSENLER = ['siyasi','askeri','ekonomik','kulturel','felsefi','dini','demografik','mitolojik'];
 export const GUVEN = ['kesin','yaygin','tartismali'];
 export const KAYNAK_TURLERI = ['ansiklopedi','akademik','birincil','veri','ders','kitap'];

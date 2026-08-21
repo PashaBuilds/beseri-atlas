@@ -219,3 +219,15 @@ metinlerinde kayıtlı olan bölgesel sığlık. Eklenen 60 maddenin dağılım�
 Amerika 8, Güney/Güneydoğu Asya 6, Orta Asya 4, İslam dünyası 7, Avrupa 8,
 Doğu Asya 7, küresel/çağdaş 12. Yani genişletme, sayıyı tutturmak için değil
 kapsam boşluğunu kapatmak için yapıldı; sayı zaten o boşluğun ölçüsüydü.
+
+## Bolge sozlugune 'orta-asya' eklendi (2026-08-21, B37)
+
+Gokturk Kaganligi yazilirken KAPI 1 `orta-asya` degerini reddetti: sema yalnizca
+yedi bolge taniyordu ve Ic Asya'ya karsilik gelen bir deger yoktu. Gecici cozum
+`dogu-asya` yazmakti; bu, ust veriyi olgusal olarak yanlislastiriyordu.
+
+Karar: sozluk genisletildi (`icerik/_sistem/sema.mjs`, `src/lib/icerik.ts`).
+Bu bir esik dusurmesi degildir — kapi hala ayni sertlikte calisiyor, yalnizca
+denetimli sozluk gercek kapsami karsilayacak hale getirildi. `ZamanSeridi`
+bileseni bilerek alti satirda birakildi: o bilesen `donem.serit` alanindan
+beslenir ve hicbir donem dosyasi `orta-asya` seridi tanimlamaz.

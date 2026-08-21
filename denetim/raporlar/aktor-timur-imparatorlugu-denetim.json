@@ -1,0 +1,115 @@
+{
+  "id": "aktor-timur-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:59:05.573Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "İmparatorluk 1370-1507 arasına tarihlenir; devlet biçimi emirlik, yönetim biçimi mutlak monarşi, hükümdar unvanı emirdir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak kuruluştan önce ayrı bir olay kaydeder: Timur 1363'te fetihlere başladı; imparatorluğun kurulması 1370'tedir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fethin kuruluştan yedi yıl önce tarihlenmesi, burada da bir düzenin \"kurulmuş\" sayılmasının askerî başarıdan ayrı bir eşik olduğunu gösterir; aynı ayrım dosyası",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Başkentler tek bir şehir olarak değil aralıklarla verilir: Semerkant 1370-1405 ve 1447-1459 arasında, Herat 1405'ten itibaren.",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Semerkant'ın listeye iki ayrı aralıkla girmesi, merkezin bir kez taşınıp orada kalmadığını, geri döndüğünü gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak imparatorluğun ardıllarını sıralar: Buhara Hanlığı, Safevi İran'ı, Kara Koyunlu, Ak Koyunlu ve Babür İmparatorluğu; öncülleri ise Çağatay Hanlığı ve İlha",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Son olay Herat'ın düşüşü, sonrasındaki olay ise 21 Nisan 1526'daki Panipat Savaşı olarak kaydedilir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir imparatorluğun sonunun tek bir ardılla değil beş ayrı devletle kaydedilmesi, atlasın \"çöküş\" kategorisine karşı uyarısıdır: dağılan şey ortadan kalkmaz, böl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Diller işlevlerine göre ayrılır: Farsça, hanedan ve edebiyat dili olarak Çağatay Türkçesi, ilahiyat ve sikke dili olarak Arapça.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Devlet dini Sünni İslam'dır; diğer dinler arasında Şii İslam, Zerdüştlük, Hinduizm ve Hıristiyanlık sayılır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sikkenin dilinin ayrıca kaydedilmesi, paranın da bir yönetim belgesi sayıldığını gösterir; para birimi tenge olarak verilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sikkenin dilinin ayrıca kaydedilmesi, paranın da bir yönetim belgesi sayıldığını gösterir; para birimi tenge olarak verilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak 20 Temmuz 1402'yi Ankara Savaşı olarak kaydeder.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Karşı taraf için kaynak, Osmanlı İmparatorluğu'nu 1299-1922 arasına yerleştirir ve devlet dilini Osmanlı Türkçesi olarak verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki tarih dizisinin 1402'de kesişmesi, atlasın dönem içi karşılaştırmalarının somut düğüm noktalarından biridir; karşı taraf dosyasında ele alınıyor.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki tarih dizisinin 1402'de kesişmesi, atlasın dönem içi karşılaştırmalarının somut düğüm noktalarından biridir; karşı taraf dosyasında ele alınıyor.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1500 yılında yaklaşık 503,1 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Seferler, yükseliş ve gerileme dönemleri, mimari ve edebiyat burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

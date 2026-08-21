@@ -31,6 +31,7 @@ ilgili:
   - aktor-memluk-devleti
   - olay-ronesans
   - aktor-majapahit
+  - aktor-timur-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: avrupa

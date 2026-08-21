@@ -22,6 +22,7 @@ ilgili:
   - aktor-safevi-devleti
   - aktor-etiyopya-imparatorlugu
   - aktor-memluk-devleti
+  - aktor-timur-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

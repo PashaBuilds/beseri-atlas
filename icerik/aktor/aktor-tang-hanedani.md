@@ -15,6 +15,7 @@ etiketler: [tang, cin, imparatorluk-sinavi, changan, hanedan]
 ilgili:
   - donem-06
   - olay-talas-savasi
+  - aktor-gokturk-kaganligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

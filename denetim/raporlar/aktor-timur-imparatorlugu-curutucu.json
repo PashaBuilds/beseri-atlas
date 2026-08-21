@@ -1,0 +1,21 @@
+{
+  "id": "aktor-timur-imparatorlugu",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:59:12.142Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Başkentler tek bir şehir olarak değil aralıklarla verilir: Semerkant 1370-1405 ve 1447-1459 arasında, Herat 1405'ten itibaren.[^k1]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir imparatorluğun sonunun tek bir ardılla değil beş ayrı devletle kaydedilmesi,[^k1] atlasın \"çöküş\" kategorisine karşı uyarısıdır: dağılan şey ortadan kalkmaz, bölünür.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

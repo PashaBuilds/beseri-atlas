@@ -1,0 +1,28 @@
+{
+  "id": "aktor-gokturk-kaganligi",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:59:12.139Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kağanlık 552'de kuruldu ve 603'te sona erdi; ilk kağan Bumin Kağan'dır, son kağan 599-603 arasında Tardu'dur.[^k1] Bu dosya, kağanlığın **sayılabilir olmasını** ele alır.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kağanın yanında ayrı bir yabgu listesi tutulur: ilk yabgu 552-575 arasında İstemi, son yabgu 575-599 arasında Tardu'dur.[^k1]",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu iki nüfus sayısı yan yana konabilir çünkü ikisi de aynı türden ölçümdür; atlasın alan sayılarıyla nüfus payı hesaplamayı reddettiği durumdan farkı budur.[^k1][^k3] Yine de kulla",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

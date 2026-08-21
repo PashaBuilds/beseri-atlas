@@ -28,6 +28,7 @@ ilgili:
   - aktor-maya-uygarligi
   - aktor-gupta-imparatorlugu
   - aktor-hun-imparatorlugu
+  - aktor-gokturk-kaganligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

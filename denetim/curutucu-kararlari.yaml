@@ -277,3 +277,18 @@ hat_duzeltmesi:
       Itiraz REDDEDILDI. Her iki kullanimda "tek" sayi sifatidir (bir adet),
       oncelik ya da ustunluk iddiasi degil. Bu, dosyanin basindaki duragan
       ustunluk-iddiasi karari kapsamindadir; metin degistirilmedi.
+
+# Faz 2 turu B37: Gokturk + Timur — 2026-08-21
+  - bulgu: >-
+      Bes itirazin hepsi ustunluk-iddiasi tipinde: "ilk kagan", "ilk yabgu",
+      "tek bir yikimla degil", "tek bir sehir olarak degil", "tek bir ardilla".
+    aksiyon: >-
+      Itiraz REDDEDILDI. "ilk" kullanimlari dogrudan kaynagin kendi
+      etiketidir (leader1 ... "(first)", deputy1 ... "(first)"); "tek"
+      kullanimlari sayi sifatidir. Duragan ustunluk-iddiasi karari kapsaminda;
+      metin degistirilmedi.
+  - bulgu: >-
+      KAPI 1, Gokturk Kaganligi icin 'orta-asya' bolge degerini reddetti.
+    aksiyon: >-
+      Sema sozlugu genisletildi, kapi gevsetilmedi. Gerekce ve kapsam
+      plan/faz-notlari.md icinde kayitli.

@@ -17,6 +17,7 @@ ilgili:
   - olay-kavimler-gocu
   - aktor-roma-imparatorlugu
   - tartisma-romanin-cokus-nedeni
+  - aktor-gokturk-kaganligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

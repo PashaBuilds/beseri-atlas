@@ -1,0 +1,91 @@
+{
+  "id": "aktor-gokturk-kaganligi",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:59:05.499Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kağanlık 552'de kuruldu ve 603'te sona erdi; ilk kağan Bumin Kağan'dır, son kağan 599-603 arasında Tardu'dur.",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak kuruluştan önce bir olay kaydeder: Bumin Kağan 542'de Juan-juan Kağanlığı'na karşı ayaklandı; kuruluş 552'dedir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ayaklanma ile kuruluş arasındaki on yıl, bozkır siyasetinde bir hanedanın \"kurulmuş\" sayılması için yalnızca zaferin yetmediğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kağanın yanında ayrı bir yabgu listesi tutulur: ilk yabgu 552-575 arasında İstemi, son yabgu 575-599 arasında Tardu'dur.",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tardu'nun önce yabgu sonra kağan olarak görünmesi, iki makam arasında bir yükselme yolu bulunduğunu düşündürür; kaynak bu geçişi ayrıca yorumlamaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak sonu bir yıkım olarak değil bir bölünme olarak kaydeder: 581'de Göktürk iç savaşı, 603'te kısa bir yeniden birleşme ve yine 603'te Batı ile Doğu Göktürk ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yılda hem yeniden birleşme hem bölünme kaydedilmesi, merkezî otoritenin o noktada yıllık ölçekte gidip geldiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ortak diller Eski Türkçe (resmî, hanedan ve gündelik), Soğdca (resmî, diplomasi, sikke) ve Juan-juan dili (resmî) olarak sıralanır; dinler Tengricilik ve Budizm",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Diplomasi ve sikke dilinin hanedan dilinden ayrı olması, yönetimin yazılı işlerini kendi dilinden başka bir dile devrettiği anlamına gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl için nüfus 3 milyon.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu MS 600 için yaklaşık 271,6 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu iki nüfus sayısı yan yana konabilir çünkü ikisi de aynı türden ölçümdür; atlasın alan sayılarıyla nüfus payı hesaplamayı reddettiği durumdan farkı budur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu iki nüfus sayısı yan yana konabilir çünkü ikisi de aynı türden ölçümdür; atlasın alan sayılarıyla nüfus payı hesaplamayı reddettiği durumdan farkı budur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bölünmenin ardından doğuda yükselen düzen için kaynak Tang hanedanını 618-907 arasına yerleştirir ve başkenti Chang'an olarak kaydeder.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}
