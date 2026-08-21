@@ -14,6 +14,7 @@ ilgili:
   - dusunur-smith
   - kavram-kapitalizm
   - kavram-kolelik
+  - kaynak-marx-kapital
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

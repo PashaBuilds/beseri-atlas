@@ -18,6 +18,7 @@ ilgili:
   - kavram-para
   - kaynak-smith-uluslarin-zenginligi
   - kaynak-polanyi-buyuk-donusum
+  - kaynak-marx-kapital
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

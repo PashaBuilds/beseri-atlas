@@ -26,6 +26,7 @@ ilgili:
   - kavram-kapitalizm
   - kavram-ilkel-birikim
   - tartisma-fransiz-devrimi-yorumlari
+  - kaynak-marx-kapital
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

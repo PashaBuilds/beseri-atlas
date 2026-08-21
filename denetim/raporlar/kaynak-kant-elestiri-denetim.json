@@ -1,0 +1,49 @@
+{
+  "id": "kaynak-kant-elestiri",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:38:11.989Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak üç Eleştiri'yi künyeleriyle sıralar: Saf Aklın Eleştirisi (1781, 1787), Pratik Aklın Eleştirisi (1788) ve Yargı Gücünün Eleştirisi (1790).",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İlk eserin iki yılla birden verilmesi, aynı başlık altında iki farklı baskının bulunduğu anlamına gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı sorun dosyasında da kayıtlıdır; o eserin 1668 tarihli Latince baskısında tartışmalı konularla ilgili bazı önemli değişiklikler ve eklemeler bulunduğu yazıl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, eleştirel felsefenin özellikle üç Eleştiri'deki temel fikrinin insan özerkliği olduğunu; insan anlığının bütün deneyimimizi yapılandıran genel doğa yasa",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Eleştiri"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu özeti bir olgu olarak değil, kaynağın kendi özetleme kararı olarak taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sonraki kuşaktan bir düşünür için tutulan kayıt, o düşünürün felsefesine dair üç ayrı okumayı alt başlıklar hâlinde sıralar ve bunlardan birini Kant sonrası gör",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

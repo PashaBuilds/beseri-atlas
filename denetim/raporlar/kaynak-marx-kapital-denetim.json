@@ -1,0 +1,55 @@
+{
+  "id": "kaynak-marx-kapital",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:38:12.019Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarı 1818-1883 arasına yerleştirir ve onun çağdaş kapitalist üretim tarzını anlamaya giderek daha çok yöneldiğini yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, bu üretim tarzının kârın acımasız takibiyle sürüklendiğini ve kökeninin sömürülen proletaryadan artı değer çıkarılmasında bulunduğunu yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu özeti bir olgu olarak değil, kaynağın aktardığı bir tez olarak taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Eserin konusu dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, ahlakın ve ahlaki eleştirinin çağdaş kapitalist topluma yönelik eleştirideki tam rolünün çokça tartışıldığını ve bu meselelerde yerleşik bir bilimsel uz",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Eserde geliştirilen bir kavram için tutulan ayrı kayıt, kökenini iki alt başlıkta işler: Adam Smith'in önceki birikim terimi ve Marx'ın bu terime yönelttiği ele",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın erken yazılarına yabancılaşma anlayışının hâkim olduğunu ve ardından çoğu kez tarihsel materyalizm denen bir tarih kuramı geliştirdiğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

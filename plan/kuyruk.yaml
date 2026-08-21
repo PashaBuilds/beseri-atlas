@@ -2989,7 +2989,7 @@ isler:
   - id: kaynak-kant-elestiri
     tip: kaynak
     baslik: Kant — Saf Aklın Eleştirisi
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -3013,7 +3013,7 @@ isler:
   - id: kaynak-marx-kapital
     tip: kaynak
     baslik: Marx — Kapital
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

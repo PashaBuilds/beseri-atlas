@@ -17,6 +17,7 @@ ilgili:
   - olay-napolyon-savaslari
   - dusunur-marx
   - kavram-sivil-toplum
+  - kaynak-kant-elestiri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

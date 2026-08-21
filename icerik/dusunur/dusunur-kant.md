@@ -16,6 +16,7 @@ ilgili:
   - dusunur-locke
   - dusunur-hobbes
   - dusunur-hegel
+  - kaynak-kant-elestiri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
