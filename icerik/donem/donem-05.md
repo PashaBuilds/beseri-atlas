@@ -24,6 +24,7 @@ ilgili:
   - olay-justinyen-vebasi
   - olay-kavimler-gocu
   - tartisma-romanin-cokus-nedeni
+  - aktor-aksum-kralligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

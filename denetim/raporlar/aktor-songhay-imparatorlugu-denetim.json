@@ -1,0 +1,91 @@
+{
+  "id": "aktor-songhay-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:09:21.850Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu imparatorluğun para düzeni iki farklı ekonomiyi aynı anda taşır: kaynak para birimi olarak hem deniz kabuğu parayı hem altın sikkeleri kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Deniz kabuğunun ve altın sikkenin aynı listede yer alması, iç pazar ile uzun mesafeli ticaretin farklı araçlarla yürüdüğünü düşündürür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak dini Sünni İslam ve geleneksel Afrika dinleri olarak birlikte kaydeder.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yönetici unvanı imparatordur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Para düzeninde görülen ikilik dinde de tekrar eder: resmî inanç ile yerel inanç aynı kayıtta yan yana durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, imparatorluğun askerî yapısını ele alırken donanmayı ayrı bir alt başlık olarak verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kara imparatorluğunun kendi donanma başlığını taşıması, Nijer nehrinin ulaşımdaki merkezî rolüne işaret eder: burada nehir bir sınır değil bir omurgadır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Nijer"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak hükümdarları sıralar: Sunni Ali, Sonni Bāru, Büyük Askia ve Askia Musa.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Maddenin kendi bölümlemesinde Gao ve Mali, bağımsızlık, Sonni Ali, Büyük Askia ile gerileme ve Saadi istilası başlıkları bulunur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Son başlığın bir istilaya bağlanması, imparatorluğun içeriden değil dışarıdan gelen bir müdahaleyle sona erdiği okumasını taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İmparatorluğun kendi bölümlemesinde \"Gao ve Mali\" başlığının bulunması, öncesindeki düzenle sürekliliği gösterir: Mali İmparatorluğu yaklaşık 1235 ile 1610 aras",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İmparatorluğun kendi bölümlemesinde \"Gao ve Mali\" başlığının bulunması, öncesindeki düzenle sürekliliği gösterir: Mali İmparatorluğu yaklaşık 1235 ile 1610 aras",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1500'de yaklaşık 503,1 milyon, 1600'de yaklaşık 516,1 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İmparatorluğun idari örgütlenmesi, ceza hukuku, ekonomisi ve Timbuktu ile ilişkisi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler ",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

@@ -24,6 +24,7 @@ ilgili:
   - aktor-karolenj-imparatorlugu
   - olay-islam-fetihleri
   - olay-talas-savasi
+  - aktor-gana-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

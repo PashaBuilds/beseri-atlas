@@ -25,6 +25,7 @@ ilgili:
   - aktor-ming-hanedani
   - aktor-hansa-birligi
   - aktor-mali-imparatorlugu
+  - aktor-buyuk-zimbabve
 okuma_onerisi: []
 serit:
   - bolge: avrupa

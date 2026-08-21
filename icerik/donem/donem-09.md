@@ -26,6 +26,7 @@ ilgili:
   - aktor-babur-imparatorlugu
   - aktor-ispanyol-imparatorlugu
   - aktor-safevi-devleti
+  - aktor-songhay-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: avrupa

@@ -20,6 +20,7 @@ ilgili:
   - olay-tanzimat-fermani
   - olay-istanbulun-fethi
   - aktor-safevi-devleti
+  - aktor-etiyopya-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

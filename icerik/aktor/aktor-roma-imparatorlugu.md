@@ -23,6 +23,7 @@ ilgili:
   - olay-pon-savaslari
   - olay-roma-cumhuriyetinin-sonu
   - tartisma-romanin-cokus-nedeni
+  - aktor-aksum-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -17,6 +17,7 @@ ilgili:
   - aktor-roma-imparatorlugu
   - aktor-bizans-imparatorlugu
   - olay-islam-fetihleri
+  - aktor-aksum-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

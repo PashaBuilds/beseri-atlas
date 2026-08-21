@@ -16,6 +16,9 @@ ilgili:
   - donem-08
   - aktor-abbasi-hilafeti
   - tartisma-imparatorluk-siniri-nasil-cizilir
+  - aktor-buyuk-zimbabve
+  - aktor-gana-imparatorlugu
+  - aktor-songhay-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

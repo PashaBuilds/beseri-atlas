@@ -1061,7 +1061,7 @@ isler:
   - id: aktor-aksum-kralligi
     tip: aktor
     baslik: Aksum Krallığı
-    durum: uretiliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-05
@@ -1070,7 +1070,7 @@ isler:
   - id: aktor-gana-imparatorlugu
     tip: aktor
     baslik: Gana İmparatorluğu
-    durum: uretiliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-06
@@ -1079,7 +1079,7 @@ isler:
   - id: aktor-songhay-imparatorlugu
     tip: aktor
     baslik: Songhay İmparatorluğu
-    durum: uretiliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-09
@@ -1088,7 +1088,7 @@ isler:
   - id: aktor-buyuk-zimbabve
     tip: aktor
     baslik: Büyük Zimbabve
-    durum: uretiliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-08
@@ -1097,7 +1097,7 @@ isler:
   - id: aktor-etiyopya-imparatorlugu
     tip: aktor
     baslik: Etiyopya İmparatorluğu
-    durum: uretiliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-12

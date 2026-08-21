@@ -32,6 +32,7 @@ ilgili:
   - aktor-britanya-imparatorlugu
   - aktor-hansa-birligi
   - aktor-mali-imparatorlugu
+  - aktor-gana-imparatorlugu
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -31,6 +31,7 @@ ilgili:
   - aktor-japonya-imparatorlugu
   - aktor-rus-imparatorlugu
   - olay-1905-rus-devrimi
+  - aktor-etiyopya-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: afrika

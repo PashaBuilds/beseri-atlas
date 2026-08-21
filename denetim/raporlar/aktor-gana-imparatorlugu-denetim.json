@@ -1,0 +1,85 @@
+{
+  "id": "aktor-gana-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:09:21.809Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onu Wagadu olarak da kaydeder ve modern Gana ülkesiyle karıştırılmaması gerektiğini açıkça belirtir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Batı Afrika'da yaklaşık 200'lerden 1200'lere kadar varlığını sürdürmüştür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak başkenti Koumbi Saleh olarak verir ama yanına bir kayıt düşer: \"muhtemelen sonraki bir başkent\".",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu ihtiyat, bölgenin kayıt geleneğine dair bir bilgidir: yazılı kaynak azlığı, merkezin bile tereddütle verilmesine yol açar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıla tarihlenir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yönetim biçimi feodal monarşidir ve ortak diller Soninke, Malinke ve Mande'dir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuruluştan yaklaşık sekiz yüzyıl sonra gelen bir din değişimi, devletin kimliğinin kuruluş anında sabitlenmediğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak hükümdarları tarihleriyle sıralar: 700'de Kaya Magan Cissé, 790'larda Dyabe Cisse, 1040-1062 arasında Ghana Bassi ve 1203-1235 arasında Soumaba Cisse.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1000 yılı için 650.000 kilometrekarelik bir alan verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dört hükümdarın beş yüzyıla yayılması, listenin eksiksiz olmadığını gösterir; atlas bu boşluğu doldurmaz, kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İmparatorluğun sonu, bir başka düzenin başlangıcıyla örtüşür: Mali İmparatorluğu yaklaşık 1235 ile 1610 arasına tarihlenir ve ilk hükümdarı Mari Djata I 1235-12",
+      "durum": "OK",
+      "not": "7 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu MS 600 için yaklaşık 271,6 milyon, 1000 yılı için yaklaşık 323,5 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Altın ticareti, Sosso ile ilişkiler, çöküş süreci ve arkeolojik kanıt tabanı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

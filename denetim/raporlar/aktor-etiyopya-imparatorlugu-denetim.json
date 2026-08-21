@@ -1,0 +1,67 @@
+{
+  "id": "aktor-etiyopya-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:09:21.768Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu imparatorluğun kurumsal dönüşümü tek bir cümlede kaydedilir: hükümdar, bölgesel savaş ağalarının yerine idari memurlar koyarak imparatorluk otoritesini merke",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu değişimin mekanizması, atlasın başka dosyalarında da görülen bir örüntüdür: yerel askerî güç sahiplerinin yerine merkezden atanan görevlilerin konması.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı hamle, aynı kaynakta komşu topraklardaki genişlemeyle birlikte anılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Komşu Müslüman Adal Sultanlığı, imparatorluğu tekrar tekrar işgal etmeye çalışarak tehdit etmeye başladı ve nihayet İmam Mahfuz döneminde bunda başarılı oldu.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nâsır'ı Adal soylularının çekirdeğiyle birlikte yenilgiye uğrattı, esir aldı ve idam etti; bu, Adal'ın askerî güç olarak sonunu işaretledi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, bir başka gücün de burada durdurulduğunu kaydeder: Osmanlılar, İmparator Sarsa Dengel'in 1589'daki zaferi ve Arkiko'yu yağmalamasıyla dizginlendi ve dar",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu, atlas için önemli bir kayıttır: aynı yüzyıllarda üç kıtaya yayılan Osmanlı düzeninin genişlemesinin durduğu noktalardan biri burada tarihlenmiştir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılın dört büyük gücünden biri sayılan Aksum Krallığı'ydı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1500'de yaklaşık 503,1 milyon, 1848'de yaklaşık 1,27 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl modernleşmesi ve imparatorluğun sona erişi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

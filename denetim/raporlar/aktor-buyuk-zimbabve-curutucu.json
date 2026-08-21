@@ -1,0 +1,21 @@
+{
+  "id": "aktor-buyuk-zimbabve",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:09:32.965Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Taş şehir 7,22 kilometrekarelik bir alanı kaplar ve sömürge öncesi Güney Afrika'nın en büyük taş yapısıdır.[^k1]",
+      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı dönemde kıtanın batısında Mali İmparatorluğu yaklaşık 1235 ile 1610 arasında varlığını sürdürüyordu ve 1500 yılı için 400.000 kilometrekarelik bir alan verilir.[^k2] İki yapın",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}
