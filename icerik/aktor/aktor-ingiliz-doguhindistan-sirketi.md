@@ -15,6 +15,7 @@ etiketler: [dogu-hindistan-sirketi, tekel, imtiyaz, sirket-yonetimi, ticaret]
 ilgili:
   - donem-10
   - olay-1857-hint-ayaklanmasi
+  - olay-hindistan-bolunmesi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

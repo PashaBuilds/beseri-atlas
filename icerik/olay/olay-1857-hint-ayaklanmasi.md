@@ -16,6 +16,7 @@ ilgili:
   - donem-12
   - aktor-ingiliz-doguhindistan-sirketi
   - olay-meiji-restorasyonu
+  - olay-hindistan-bolunmesi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

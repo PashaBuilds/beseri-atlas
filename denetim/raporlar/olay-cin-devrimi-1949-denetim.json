@@ -1,0 +1,91 @@
+{
+  "id": "olay-cin-devrimi-1949",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:37:10.869Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Devrimin tarihi tek bir yıl değildir: 1 Ağustos 1927 – 1 Ekim 1949 arasına yerleştirilen, 1927–1949 tarihli bir toplumsal devrimdir.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak süreci kendi başlıklarıyla böler: ayaklanmalar ve Çin Sovyeti, İkinci Çin-Japon Savaşı ve İkinci Birleşik Cephe, ardından 1945–1949 arasındaki iç savaşın",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ortadaki başlık kritiktir: kaynak İkinci Çin-Japon Savaşı ile İkinci Birleşik Cephe'yi aynı başlık altında verir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İkinci, Çin-Japon, Savaşı, Birleşik"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Son evre kendi içinde ayrıntılandırılır: savaş sonrası durum, Japon teslimiyeti ve başarısız müzakere girişimleri, 1946–1948 arasındaki Mançurya seferleri ve 19",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ardından Halk Cumhuriyeti'nin kuruluşu gelir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Halk, Cumhuriyeti"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın son evreyi 1945–1949 arasına yerleştirmesi, önceki yılların hazırlık niteliğinde olduğu okumasını akla getirir; atlas bunu bir iddia olarak öne sürmez,",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak sonucu üç maddede toplar: komünist zafer, Çin Halk Cumhuriyeti'nin ilanı ve Çin Cumhuriyeti hükümetinin Tayvan'a çekilmesi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak devrimi hem Çin İç Savaşı'nın hem de Soğuk Savaş'ın parçası olarak sınıflandırır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin, Savaşı, Soğuk, Savaş"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Soğuk Savaş 1947 ile 1991 arasındaki jeopolitik rekabeti anlatır ve kırk dört yıl dokuz ay sürmüştür.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Devrimin sonuçlandığı 1949 ile Soğuk Savaş'ın başlangıcı olarak verilen 1947 arasındaki iki yıl, iki çerçevenin nasıl iç içe geçtiğini gösterir: aynı olay hem u",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Devrimin sonuçlandığı 1949 ile Soğuk Savaş'ın başlangıcı olarak verilen 1947 arasındaki iki yıl, iki çerçevenin nasıl iç içe geçtiğini gösterir: aynı olay hem u",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Devrimin devraldığı devlet düzeninin kökeni daha eskidir: Qing hanedanı 1644–1912 arasında Çin'i yöneten Mançu önderliğindeki hanedandı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak devrimin ardından gelen dönemi ayrı bir başlık altında ele alır; bu dosya o başlığı kapsamaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

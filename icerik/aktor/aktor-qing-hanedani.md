@@ -16,6 +16,7 @@ ilgili:
   - donem-10
   - olay-taiping-isyani
   - aktor-song-hanedani
+  - olay-cin-devrimi-1949
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

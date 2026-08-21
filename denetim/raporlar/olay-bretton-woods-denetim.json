@@ -1,0 +1,85 @@
+{
+  "id": "olay-bretton-woods",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:36:42.004Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bretton Woods sistemi, ülkelerin kendi para birimlerinin ABD dolarına çevrilebilirliğini güvence altına almasını gerektiriyordu; dolar ise yabancı hükümetler ve",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuralın asimetrisi kaynakta açıkça belirtilir: dünyanın altınının üçte ikisini elinde tutan Amerika Birleşik Devletleri, Bretton Woods sisteminin hem altına hem",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sistem, ülkeler arasında gelecekteki rekabetçi devalüasyonları önlemek için daha büyük işbirliği öngörüyordu ve bu nedenle döviz kurlarını izlemek ve ödemeler d",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı konferans Uluslararası İmar ve Kalkınma Bankası'nı da kurdu; bu kurum bugün Dünya Bankası Grubu'nun parçasıdır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuruluşların ikisi de 1945'te, yeterli sayıda ülke anlaşmayı onayladıktan sonra faaliyete geçti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sovyet temsilcileri konferansa katıldılar ancak daha sonra nihai anlaşmaları onaylamayı reddettiler; kurdukları kurumları \"Wall Street'in şubeleri\" olarak nitel",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yıllarda kurulan siyasi çerçeve, 1947 ile 1991 arasındaki jeopolitik rekabettir ve kırk dört yıl dokuz ay sürmüştür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Amerika Birleşik Devletleri, savaş harcamalarındaki ani bir düşüşün nüfusunu 1930'ların işsizlik düzeylerine geri döndürebileceğinden endişe ediyordu ve bu nede",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Altının ABD doları cinsinden fiyatı, 1970'lerin ortasında Bretton Woods sisteminin çöküşüne kadar istikrarlı kaldı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "15 Ağustos 1971'de Amerika Birleşik Devletleri çevrilebilirliği sona erdirdi.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı dönemde Eurodolar büyümesi sermaye akımlarını artırdı ve sermaye hareketlerinin düzenlenmesini zorladı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak savaş sonrası müzakereleri ayrı bir başlık altında ele alır; bu dosya o başlığı kapsamaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

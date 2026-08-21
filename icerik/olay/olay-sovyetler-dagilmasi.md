@@ -15,6 +15,7 @@ etiketler: [sovyetler, soguk-savas, gorbacov, cozulme]
 ilgili:
   - donem-15
   - aktor-sovyetler-birligi
+  - olay-ekim-devrimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

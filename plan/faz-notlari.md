@@ -149,3 +149,22 @@ guncellendi. Ders: kapsam.yaml'daki `bagimlilik` alani bir SIRALAMA ipucudur,
 donem atamasi degil. Donem, makalenin kendi tarih araligindan tureti1melidir.
 Gecis 5'in donem-tarih uyusmazligi kontrolu bu hatayi otomatik yakaliyor;
 yeni makale yazarken tarih araligi ile donem numarasi elle karsilastirilmali.
+
+## Yinelenen hata: `::tartismali` yonergesini yanlis haritaya baglamak
+
+B13, B14 ve B15'te ayni hata uc kez tekrar etti: bir makale `tartismali`
+isaretlendiginde KAPI 9 bagli bir tartisma haritasi istiyor; en yakin mevcut
+harita — konuyla ilgisi olmasa bile — refleks olarak baglaniyor.
+
+Bundan sonraki kural (uc secenek, bu sirayla):
+
+1. Konuya UYGUN bir harita varsa ona baglan.
+2. Yoksa ve tartisma atlas capinda tekrarlayan bir yontem sorunuysa, haritayi
+   YAZ (ornek: `tartisma-tarihsel-sayilar-nasil-okunur`).
+3. Tartisma yalnizca yorum duzeyindeyse ve makalenin olgusal tabani saglamsa,
+   `guven_geneli` `yaygin` olur; rakip yorumlar metinde kaynagin kendi
+   ifadeleriyle, hakemlik yapilmadan yan yana verilir. Yonerge kullanilmaz.
+
+Yanlis harita baglamak, kapiyi susturmak icin yapilan bir hamledir ve
+yasaktir — kapinin kendisini bozar, cunku okuyucuyu ilgisiz bir dosyaya
+gonderir.

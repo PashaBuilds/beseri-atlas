@@ -15,6 +15,7 @@ etiketler: [buyuk-buhran, otarsi, ticaret, deflasyon, kriz]
 ilgili:
   - donem-13
   - olay-ikinci-dunya-savasi
+  - olay-bretton-woods
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -15,6 +15,8 @@ etiketler: [ikinci-dunya-savasi, topyekun-savas, fasizm, kayiplar]
 ilgili:
   - donem-13
   - olay-buyuk-buhran
+  - olay-bretton-woods
+  - olay-cin-devrimi-1949
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

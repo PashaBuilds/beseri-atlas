@@ -1,0 +1,14 @@
+{
+  "id": "olay-hindistan-bolunmesi",
+  "gecis": 3,
+  "zaman": "2026-08-21T05:37:26.856Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Nüfus tarafında da aynı eksiklik vardır: kaynağa göre yaklaşık 14,5 milyon insan korkunç şiddet ortasında sınırları geçerken milyonlarca kişi her iki tarafta kaldı.[^k1] Hindistan ",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

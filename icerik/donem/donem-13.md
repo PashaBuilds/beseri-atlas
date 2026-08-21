@@ -24,6 +24,7 @@ ilgili:
   - olay-buyuk-buhran
   - olay-versailles-antlasmasi
   - olay-ikinci-dunya-savasi
+  - olay-ekim-devrimi
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 serit:

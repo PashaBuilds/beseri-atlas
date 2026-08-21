@@ -19,6 +19,9 @@ ilgili:
   - donem-13
   - donem-15
   - aktor-sovyetler-birligi
+  - olay-bretton-woods
+  - olay-cin-devrimi-1949
+  - olay-hindistan-bolunmesi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

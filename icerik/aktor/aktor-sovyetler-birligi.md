@@ -15,6 +15,7 @@ etiketler: [sovyetler, soguk-savas, iki-kutupluluk, kalkinma-modeli]
 ilgili:
   - donem-14
   - olay-sovyetler-dagilmasi
+  - olay-ekim-devrimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

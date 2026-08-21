@@ -1,0 +1,21 @@
+{
+  "id": "olay-ekim-devrimi",
+  "gecis": 3,
+  "zaman": "2026-08-21T05:36:42.525Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak sonucu tek bir cümleye sığdırmaz; art arda sıralar: Bolşevik zaferi, Sovyet Rusya'nın başlangıcı, ikili iktidarın sona ermesi, Rus Geçici Hükümeti'nin dağıtılması, İkinci So",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Çarpışan taraflar da tek blok değildi. Kaynak, bir yanda Bolşevikleri, Sol Sosyalist-Devrimcileri ve anarşistleri, diğer yanda Rusya Cumhuriyeti'ni sayar.[^k1] Komutanlar arasında ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "olay-ekim-devrimi",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:36:42.139Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Ekim Devrimi 7 Kasım 1917 (eski takvimle 25 Ekim) tarihine ve Rusya Cumhuriyeti'nin Petrograd şehrine yerleştirilir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak sonucu tek bir cümleye sığdırmaz; art arda sıralar: Bolşevik zaferi, Sovyet Rusya'nın başlangıcı, ikili iktidarın sona ermesi, Rus Geçici Hükümeti'nin da",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, bir yanda Bolşevikleri, Sol Sosyalist-Devrimcileri ve anarşistleri, diğer yanda Rusya Cumhuriyeti'ni sayar.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Komutanlar arasında Vladimir Lenin, Lev Troçki, Lev Kamenev, Vladimir Ovseenko, Pavel Dıbenko ve Yakov Sverdlov ile karşı tarafta Aleksandr Kerenski yer alır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın devrimci cephede üç ayrı akım sayması atlas için kayda değerdir; bu bileşimin sonraki gelişmelerle ilişkisi burada bir iddia olarak öne sürülmemektedir",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak tarih yazımını Sovyet tarih yazımı ve Batı tarih yazımı olarak ayırır; Batı tarafını da \"Totaliter\" tarihçiler ve \"Revizyonist\" tarihçiler alt başlıkları",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Devrimin kurduğu düzenin sonu da tarihlidir: Soğuk Savaş 1947 ile 1991 arasındaki jeopolitik rekabeti anlatır ve kırk dört yıl dokuz ay sürmüştür.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1914'te yaklaşık 1,82 milyardır.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

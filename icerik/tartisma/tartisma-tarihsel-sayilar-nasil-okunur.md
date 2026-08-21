@@ -28,6 +28,7 @@ ilgili:
   - olay-justinyen-vebasi
   - olay-iskender-seferleri
   - olay-haiti-devrimi
+  - olay-hindistan-bolunmesi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

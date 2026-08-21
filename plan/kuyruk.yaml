@@ -562,7 +562,7 @@ isler:
   - id: olay-ekim-devrimi
     tip: olay
     baslik: Ekim Devrimi
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-13
@@ -607,7 +607,7 @@ isler:
   - id: olay-bretton-woods
     tip: olay
     baslik: Bretton Woods
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14
@@ -616,7 +616,7 @@ isler:
   - id: olay-hindistan-bolunmesi
     tip: olay
     baslik: Hindistan'ın bölünmesi
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14
@@ -625,7 +625,7 @@ isler:
   - id: olay-cin-devrimi-1949
     tip: olay
     baslik: Çin Devrimi (1949)
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14
