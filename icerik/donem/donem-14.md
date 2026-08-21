@@ -32,6 +32,10 @@ ilgili:
   - aktor-cin-halk-cumhuriyeti
   - aktor-nato
   - aktor-varsova-pakti
+  - olay-kore-savasi
+  - olay-kultur-devrimi
+  - olay-vietnam-savasi
+  - aktor-baglantisizlar-hareketi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

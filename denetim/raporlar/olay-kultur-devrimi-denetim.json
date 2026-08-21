@@ -1,0 +1,73 @@
+{
+  "id": "olay-kultur-devrimi",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:21:15.015Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu sürecin referans maddesi, olayların anlatımından ayrı bir \"vahşetler\" bölümü taşır ve bu bölüm ölü sayısı, katliamlar ile şiddetli mücadeleler ve mücadele ot",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir sürecin ölü sayısının kendi alt başlığını taşıması, o sayının tartışmalı olduğunun kurumsal işaretidir; kesin bir rakam olsaydı metin içinde geçerdi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak süreci yıllara böler: 1967 iktidarın ele geçirilmesi, 1968 tasfiyeler, 1969-1971 Lin Biao dönemi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1968 bölümünün alt başlıkları arasında Mao'nun Temmuz'da Kızıl Muhafız önderleriyle görüşmesi, Ağustos'ta kişi kültü ve Aralık'ta Kırsala İniş Hareketi yer alır",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir yılın üç ayrı alt başlığa bölünmesi, sürecin hızını ve yön değişikliklerinin sıklığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kapanış evresi de ayrıntılı verilir: Deng Xiaoping'in 1975'teki itibarının iadesi, Zhou Enlai'nin ölümü, Tiananmen olayı ile Mao Zedong'un ölümü ve Dörtlü Çete'",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ardından geçiş dönemi ve Deng döneminde reddiye ile reform gelir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir siyasi hareketin, aynı partinin sonraki yönetimi tarafından reddedilmesinin ayrı bir başlık olması, rejim içi süreklilik ile politika kopuşunun aynı anda mü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı devletin kuruluş süreci 1 Ağustos 1927 - 1 Ekim 1949 arasına yerleştirilir ve sonuçları arasında Çin Halk Cumhuriyeti'nin ilanı sayılır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sürecin ideolojik içeriği, kurumsal tasfiyelerin ayrıntısı, eğitim ve kültür alanındaki uygulamalar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunla",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

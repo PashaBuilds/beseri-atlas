@@ -1,0 +1,67 @@
+{
+  "id": "aktor-baglantisizlar-hareketi",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:21:15.177Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak zinciri şöyle verir: Eylül 1957'de Kahire'deki Afro-Asya Halkları Dayanışma Konferansı ve ardından 1961'deki Belgrad Zirvesi; Belgrad Zirvesi Bağlantısız",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Zincirin başlangıcı, 18-24 Nisan 1955'te Endonezya'nın Bandung şehrinde toplanan ve 304 temsilcinin katıldığı Asya-Afrika Konferansı'dır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yani hareketin kuruluşu 1955'ten 1961'e uzanan altı yıla yayılır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Hareketin karşısında durduğu rekabet 1947 ile 1991 arasındaki jeopolitik mücadeleyi anlatır ve kırk dört yıl dokuz ay sürmüştür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kıta iki askerî bloka bölünmüştü ve blokların 1988'deki dağılımı dönemin standart haritasıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Standart haritada üçüncü bir renk bulunmaması, hareketin görünürlük sorununu özetler: blok dışı kalmak, blok haritasında bir yer değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hareketin kendisi de bir rekabet alanına dönüştü: 1960'ların başında Çin, Arap ülkelerinin desteğini Cezayir'de yapılması önerilen ikinci bir Bandung Konferansı",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Blok dışı kalma arayışının blok içi bir rekabet konusu haline gelmesi, hareketin yapısal zorluğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Hareketin üyelik ölçütleri, zirveleri, kurumsal yapısı ve rekabetin sona ermesinden sonraki dönüşümü burada ayrı başlıklar altında ele alınmamıştır; kullanılan ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -35,6 +35,7 @@ ilgili:
   - olay-ingiliz-ic-savasi
   - olay-ispanya-ic-savasi
   - olay-amerikan-ic-savasi
+  - olay-kultur-devrimi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

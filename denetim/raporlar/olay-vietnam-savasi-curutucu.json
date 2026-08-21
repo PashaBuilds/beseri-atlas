@@ -1,0 +1,14 @@
+{
+  "id": "olay-vietnam-savasi",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:21:15.600Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, kayıpları ayrı bir bölüm olarak ele alır ve tarafları da ayrı ayrı sıralar.[^k1] Atlas bu bölümden tek bir toplam üretmez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

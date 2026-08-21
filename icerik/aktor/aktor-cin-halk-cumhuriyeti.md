@@ -17,6 +17,9 @@ ilgili:
   - olay-cin-devrimi-1949
   - aktor-qing-hanedani
   - aktor-birlesmis-milletler
+  - olay-kore-savasi
+  - olay-kultur-devrimi
+  - olay-vietnam-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

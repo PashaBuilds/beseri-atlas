@@ -1250,7 +1250,7 @@ isler:
   - id: olay-vietnam-savasi
     tip: olay
     baslik: Vietnam Savaşı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14
@@ -1466,7 +1466,7 @@ isler:
   - id: olay-kore-savasi
     tip: olay
     baslik: Kore Savaşı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14
@@ -1475,7 +1475,7 @@ isler:
   - id: olay-kultur-devrimi
     tip: olay
     baslik: Kültür Devrimi
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14
@@ -1573,6 +1573,14 @@ isler:
   - id: aktor-varsova-pakti
     tip: aktor
     baslik: Varşova Paktı
+    durum: onaylandi
+    faz: 2
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: aktor-baglantisizlar-hareketi
+    tip: aktor
+    baslik: Bağlantısızlar Hareketi
     durum: onaylandi
     faz: 2
     bagimlilik: []

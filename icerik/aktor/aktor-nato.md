@@ -16,6 +16,8 @@ ilgili:
   - donem-14
   - aktor-varsova-pakti
   - aktor-sovyetler-birligi
+  - olay-kore-savasi
+  - aktor-baglantisizlar-hareketi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

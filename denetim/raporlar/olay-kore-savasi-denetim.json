@@ -1,0 +1,61 @@
+{
+  "id": "olay-kore-savasi",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:21:14.941Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "paralel çevresindeki çarpışmaları Ocak-Haziran 1951'e, tıkanıklığı Temmuz 1951-Temmuz 1953'e, ateşkesi Temmuz 1953-Kasım 1954'e ve süregelen bölünmeyi 1954'ten ",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bölümlemenin son maddesinin bir bitiş tarihi taşımaması, savaşın hukuken kapanmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ateşkes başlığının kendisinin on altı ay sürmesi de kayda değerdir: ateşkes bir an değil bir süreçtir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tıkanıklık evresi iki yıl sürer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bu dönem için somut bir kuvvet ölçüsü de verir: Kuzey Kore ordusunun mevcudu Ekim 1952'de on sekiz tümen ve altı bağımsız tugayda 266.600 kişiyle zirve y",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Rekabetin ilk evresi çevreleme, Truman Doktrini ve Kore Savaşı başlığıyla 1947-1953 arasına yerleştirilir.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yani savaş, o evrenin adını taşıyan üç unsurdan biridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaşın askerî seyri, hava ve deniz harekâtı, taraf devletlerin siyasi kararları ve ateşkes müzakereleri burada ayrı başlıklar altında ele alınmamıştır; kaynak ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

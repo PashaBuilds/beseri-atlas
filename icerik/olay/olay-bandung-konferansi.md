@@ -16,6 +16,7 @@ ilgili:
   - donem-14
   - olay-hindistan-bolunmesi
   - olay-suveys-krizi
+  - aktor-baglantisizlar-hareketi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
