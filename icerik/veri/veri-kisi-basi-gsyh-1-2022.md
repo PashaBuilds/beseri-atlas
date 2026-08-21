@@ -18,6 +18,7 @@ ilgili:
   - veri-yoksulluk-orani
   - veri-kuresel-esitsizlik
   - tartisma-1929-krizinin-nedeni
+  - tartisma-kalkinma-neden-basarisiz
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/kisi-basi-gsyh.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

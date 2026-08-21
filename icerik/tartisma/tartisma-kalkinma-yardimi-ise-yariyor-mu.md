@@ -25,6 +25,7 @@ ilgili:
   - veri-yoksulluk-orani
   - tartisma-somurgeciligin-ekonomik-bilancosu
   - donem-15
+  - tartisma-kalkinma-neden-basarisiz
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

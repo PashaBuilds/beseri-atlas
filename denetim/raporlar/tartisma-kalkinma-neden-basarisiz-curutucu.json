@@ -1,0 +1,14 @@
+{
+  "id": "tartisma-kalkinma-neden-basarisiz",
+  "gecis": 3,
+  "zaman": "2026-08-21T12:55:31.699Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynağın ilk sıraya koyduğu itiraz için tutulan kayıt, çevre devletlerden merkez devletlere doğru bir kaynak akışı bulunduğu ve zenginlerin yoksullar pahasına zenginleştiği önermes",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

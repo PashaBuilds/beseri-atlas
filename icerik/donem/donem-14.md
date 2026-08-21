@@ -45,6 +45,7 @@ ilgili:
   - olay-1968-hareketleri
   - olay-iran-devrimi-1979
   - tartisma-soguk-savasin-baslangici
+  - tartisma-kalkinma-neden-basarisiz
 okuma_onerisi: []
 serit:
   - bolge: avrupa

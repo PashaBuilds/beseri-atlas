@@ -1,0 +1,67 @@
+{
+  "id": "tartisma-kalkinma-neden-basarisiz",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:55:07.959Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu haritanın çıkış noktası kaynağın içindekiler yapısıdır: bir kuram ve onun karşısına konmuş dört itiraz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, modernleşme kuramını üç ayrı başlıkta ele alır: modernleşme ve demokrasi, modernleşme ve iktisadi gelişme, modernleşme ve küreselleşme.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kaynak, uygulamalar başlığı altında 1960'larda Amerika Birleşik Devletleri dış yardımını ayrı bir alt başlık olarak tutar.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuramın belirli bir onyılın dış yardım politikasına bağlanabilmesi, kuram ile politika arasındaki bağın kaynağın kendisinde kayıtlı olduğunu gösterir; yardı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, eleştiriler ve alternatifler başlığı altında dört alt başlık tutar: bağımlılık kuramı; Barrington Moore ve karşılaştırmalı tarihsel çözümleme; Guillermo",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuramın eleştiri bölümünün ana bölümleri kadar ayrıntılı olması, atlasın şu kuralının dayanağıdır: bir çerçeve aktarılırken kaynağın ona ayırdığı itiraz baş",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaynağın ilk sıraya koyduğu itiraz için tutulan kayıt, çevre devletlerden merkez devletlere doğru bir kaynak akışı bulunduğu ve zenginlerin yoksullar pahasına z",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki kaydın aynı itirazı farklı ayrıntıyla vermesi, atlasın çapraz doğrulama ölçütünü karşılar; kuram dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki kaydın aynı itirazı farklı ayrıntıyla vermesi, atlasın çapraz doğrulama ölçütünü karşılar; kuram dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kişi başı GSYH serisinde dünya değeri 1960'ta yaklaşık 3.762 uluslararası dolar, 1991'de yaklaşık 7.512 uluslararası dolardır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    }
+  ]
+}

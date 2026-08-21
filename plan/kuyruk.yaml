@@ -2469,7 +2469,7 @@ isler:
   - id: tartisma-kalkinma-neden-basarisiz
     tip: tartisma
     baslik: Kalkınma politikaları neden başarısız oldu?
-    durum: uretiliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

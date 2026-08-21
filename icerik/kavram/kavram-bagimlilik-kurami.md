@@ -16,6 +16,7 @@ ilgili:
   - veri-yoksulluk-orani
   - tartisma-somurgeciligin-ekonomik-bilancosu
   - tartisma-kalkinma-yardimi-ise-yariyor-mu
+  - tartisma-kalkinma-neden-basarisiz
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
