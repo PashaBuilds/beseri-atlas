@@ -21,6 +21,7 @@ ilgili:
   - olay-1914-temmuz-krizi
   - donem-13
   - olay-versailles-antlasmasi
+  - tartisma-ikinci-dunya-savasi-sorumlulugu
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 hakem_yok: true

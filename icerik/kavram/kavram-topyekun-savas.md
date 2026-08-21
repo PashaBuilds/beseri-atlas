@@ -15,6 +15,7 @@ ilgili:
   - dusunur-clausewitz
   - kavram-surtunme
   - kaynak-clausewitz-savas-uzerine
+  - tartisma-ikinci-dunya-savasi-sorumlulugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

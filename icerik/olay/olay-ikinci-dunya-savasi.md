@@ -21,6 +21,7 @@ ilgili:
   - olay-ispanya-ic-savasi
   - dusunur-arendt
   - kavram-topyekun-savas
+  - tartisma-ikinci-dunya-savasi-sorumlulugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

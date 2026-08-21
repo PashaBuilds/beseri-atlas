@@ -18,6 +18,7 @@ ilgili:
   - aktor-alman-imparatorlugu
   - olay-birinci-dunya-savasi
   - kavram-ulus-devlet
+  - tartisma-ikinci-dunya-savasi-sorumlulugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

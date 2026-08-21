@@ -28,6 +28,7 @@ ilgili:
   - olay-ispanya-ic-savasi
   - olay-meksika-devrimi
   - olay-birinci-dunya-savasi
+  - tartisma-ikinci-dunya-savasi-sorumlulugu
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 serit:

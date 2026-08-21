@@ -4,10 +4,10 @@ _Üretim tarihi: 2026-08-21 · Bu dosya `npm run rapor` ile ölçümlerden üret
 
 ## Kapsam
 
-Üretilen: **329** | Onaylanan: **329** | Karantinada: **0**
+Üretilen: **330** | Onaylanan: **330** | Karantinada: **0**
 
 Planlanan tam kapsam **358** makaledir; bu raporun yazıldığı anda
-**%91.9**'i yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
+**%92.2**'i yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
 birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 
 | Tip | Yayımlanan |
@@ -18,10 +18,10 @@ birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 | kavram | 64 |
 | kaynak | 31 |
 | olay | 86 |
-| tartisma | 16 |
+| tartisma | 17 |
 | veri | 16 |
 
-Toplam gövde: **103.839** kelime.
+Toplam gövde: **104.137** kelime.
 
 ## Doğrulama
 
@@ -29,10 +29,10 @@ Toplam gövde: **103.839** kelime.
 Nihai skor: **1** (13 ölçülen değer: 13 doğrulandı, 0 çelişki)
 Ham skor: **0.4643** (28 değerlik örneklem, 15 değer bağımsız olarak türetilemedi)
 
-Geçiş 2 (kaynak denetimi): 1813 OK · 4 ISARET · 0 HATA · 1863 programatik olarak ölçülemedi
+Geçiş 2 (kaynak denetimi): 1817 OK · 4 ISARET · 0 HATA · 1870 programatik olarak ölçülemedi
 Kaynak doğrulama oranı: **0.9989**
-Makale başına ortalama kaynak: **3.09**
-Çürütücünün ürettiği itiraz adayı: **446**
+Makale başına ortalama kaynak: **3.08**
+Çürütücünün ürettiği itiraz adayı: **447**
 Çapraz tutarlılık çelişkisi: **0**
 
 ### İki skorun anlamı

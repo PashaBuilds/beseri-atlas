@@ -1,0 +1,73 @@
+{
+  "id": "tartisma-ikinci-dunya-savasi-sorumlulugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:51:50.520Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu haritanın çıkış noktası kaynağın kendi bölümlemesidir: nedenler nihai ve yakın diye ikiye ayrılmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, nihai nedenler başlığı altında şunları sayar: Birinci Dünya Savaşı'nın mirasları, Milletler Cemiyeti'nin başarısızlığı, yayılmacılık ve militarizm, Alma",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yakın nedenler başlığı altında Nazi diktatörlüğü, Ren bölgesinin yeniden silahlandırılması, İtalya'nın Habeşistan istilası, İspanya İç Savaşı, İkinci Çi",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "On ayrı olayın yakın neden sayılması, atlasın olay dosyalarını neden dönem dosyalarına bağladığının dayanağıdır: bir savaşın öncesi bir olaylar dizisidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Japonya'nın Fransız Çinhindi'nin güneyini istila etmesi üzerine ABD başkanının Japonya'nın ABD'deki bütün varlıklarını dondurduğunu; amaçlanan sonucun A",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kararın etkisinin yüzdeyle kaydedilmesi, atlasın neden zincirlerini sayıyla izleyebildiği ender yerlerden biridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir önceki savaşın aynı sorusu için tutulan kayıt, sorumluluğun tek bir başkente mi yoksa bütün büyük güçlere mi yüklendiğini tartışan bir literatürü anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli nüfus serisinde sağlayıcının toplam satırı 1940 için yaklaşık 2,3 milyar verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu değeri hiçbir pozisyonun kanıtı olarak sunmaz; seri nüfusu verir, savaşın nedenini vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu değeri hiçbir pozisyonun kanıtı olarak sunmaz; seri nüfusu verir, savaşın nedenini vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kendisi nedenleri iki düzeyde tutar ve aralarında bir hüküm vermez; bu atlas da vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
