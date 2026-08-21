@@ -1,0 +1,14 @@
+{
+  "id": "kavram-buyuk-ayrisma",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:39:49.867Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak ilk bölümünü terminoloji ve tanıma ayırır.[^k1]",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

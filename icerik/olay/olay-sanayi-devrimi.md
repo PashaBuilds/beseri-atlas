@@ -17,6 +17,7 @@ ilgili:
   - tartisma-bati-neden-yukseldi
   - aktor-song-hanedani
   - dusunur-smith
+  - kavram-buyuk-ayrisma
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

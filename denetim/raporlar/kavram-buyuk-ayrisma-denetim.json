@@ -1,0 +1,73 @@
+{
+  "id": "kavram-buyuk-ayrisma",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:39:49.304Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, nedenleri kesin bir liste olarak değil olası etkenler başlığı altında on sekiz alt başlıkta sıralar: kömür, Yeni Dünya, köle ticareti, siyasi parçalanmı",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, sanayi öncesi ileri bölgeler başlığı altında altı alt başlık tutar: Çin, Batı Avrupa, Hindistan, Orta Doğu, Japonya ve Sahra altı Afrika.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karşılaştırmanın altı bölgeyi kapsaması, atlasın şu kuralının dayanağıdır: bu dosyada ayrışma, Avrupa'nın yükselişi olarak değil bölgeler arası bir fark olarak ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak ilk bölümünü terminoloji ve tanıma ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavramın tanımının ayrı bir bölüm olması, atlasın bu kavramı hangi anlamda kullandığını her seferinde belirtmesinin dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak iktisadi etkiler başlığı altında verimlilik, kişi başına gelir, tarım, yakıt ve kaynaklar ile ticaret alt başlıklarını tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1700 için yaklaşık 603,4 milyon, 1900 için yaklaşık 1,65 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu seriyi kavramın kanıtı olarak sunmaz; seri dünya toplamını verir, kavram ise bölgeler arası bir farkı öne sürer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu seriyi kavramın kanıtı olarak sunmaz; seri dünya toplamını verir, kavram ise bölgeler arası bir farkı öne sürer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Dönemin iktisat yazarı için tutulan kayıt, onun ahlak felsefesinin kapsamlı ve alışılmadık bir sürümünü geliştirdiğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Etkenlerin ayrıntısı, bölge bölge karşılaştırmalar ve iktisadi sonuçlar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işle",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

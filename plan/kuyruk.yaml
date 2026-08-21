@@ -1949,7 +1949,7 @@ isler:
   - id: kavram-timar
     tip: kavram
     baslik: Tımar
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1957,7 +1957,7 @@ isler:
   - id: kavram-millet-sistemi
     tip: kavram
     baslik: Millet sistemi
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2013,7 +2013,7 @@ isler:
   - id: kavram-buyuk-ayrisma
     tip: kavram
     baslik: Büyük Ayrışma
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

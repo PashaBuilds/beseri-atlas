@@ -1,0 +1,61 @@
+{
+  "id": "kavram-timar",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:39:49.367Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak sistemi şöyle tanımlar: Osmanlılar'da devlete ait toprakların askerî ve idarî gayelerle tahsisine dayalı sistem; maddenin müellifi Halil İnalcık, baskı t",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Türkçede sözcüğün dirlik ile eş anlamlı kullanıldığını yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kurumun adının bir başka sözcükle eş anlamlı kaydedilmesi, atlasın terim kilidi kapısında neden varyant listesi tuttuğunun dayanağıdır; kapı bu dosyanın yaz",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu sistemin sıklıkla karşılaştırıldığı Avrupa kavramı için tutulan kayıt, o kavramın ortaçağ toplumunu anlamak için yararlı bir kurgu olup olmadığına dair sonuç",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki kurumu birbirine çevirmez ve birini diğerinin karşılığı saymaz; kullanılan kaynak bölümlerinde böyle bir eşleme belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas iki kurumu birbirine çevirmez ve birini diğerinin karşılığı saymaz; kullanılan kaynak bölümlerinde böyle bir eşleme belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Maddenin müellifinin ve baskı tarihinin ayrıca kaydedilmesi, atlasın kaynak alanında neden erişim tarihi ve not tuttuğunun dayanağıdır: bir ansiklopedi maddesi ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sistemin uygulandığı devlet için tutulan kayıt, onu 1299-1922 arasına yerleştirir ve devlet dilini Osmanlı Türkçesi olarak verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sistemin işleyişi, tımar türleri, tahrir defterleri ve çözülme süreci burada ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak bölümünün kapsamı tanım ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

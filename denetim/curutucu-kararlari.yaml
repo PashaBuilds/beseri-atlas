@@ -722,3 +722,15 @@ hat_duzeltmesi:
       Yontem notu: bu tur kavramlar atlasta tartismali olarak isaretleniyor ve
       govdede ::tartismali yonergesiyle acikca kaydediliyor. Kavramin bir olgu
       adi degil bir arastirma onerisi oldugu her dosyada yaziliyor.
+
+# Faz 3 turu B16: Buyuk Ayrisma, millet sistemi, timar — 2026-08-21
+  - bulgu: >-
+      KAPI 4 (terim kilidi), kavram-millet-sistemi'nde `/kavram/timar/` link
+      YOLUNU yasak varyant sandi.
+    aksiyon: >-
+      Kapi KESINLESTIRILDI, gevsetilmedi: linter artik markdown link
+      hedeflerini ve URL'leri taramiyor, link metnini ve duz yaziyi taramaya
+      devam ediyor. Tam gerekce ve reddedilen alternatifler
+      plan/faz-notlari.md icinde kayitli.
+  - bulgu: Iki itiraz dusuk ciddiyette ustunluk-iddiasi tipinde.
+    aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.

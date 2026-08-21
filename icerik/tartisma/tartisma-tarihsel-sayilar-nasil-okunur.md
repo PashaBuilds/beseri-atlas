@@ -49,6 +49,7 @@ ilgili:
   - dusunur-gazali
   - dusunur-machiavelli
   - kavram-askeri-devrim
+  - kavram-buyuk-ayrisma
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

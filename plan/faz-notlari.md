@@ -262,3 +262,23 @@ Konfucyus'un "geleneksel", Farabi'nin "muhtemelen").
 Faz 3 bu ikinci kumeye yaziliyor. Bu bir kacinma degil, atlasin cekirdek testinin
 (her iddia iki tiklamada kaynagina gitsin) dusunur dosyalarinda ne anlama
 geldiginin cevabidir.
+
+## KAPI 4 kesinlestirmesi: link hedefleri taranmiyor (2026-08-21, B16)
+
+kavram-millet-sistemi, kavram-timar dosyasina `[Tımar](/kavram/timar/)` diye
+baglaninca KAPI 4 kirildi: yasak varyant listesi ASCII `timar` bicimini
+reddediyor, ama makale kimlikleri sema geregi ASCII olmak zorunda.
+
+Bu bir icerik hatasi degil, iki kural arasindaki gercek bir catismadir. Cozum:
+`araclar/linter-terim.mjs` artik markdown link HEDEFLERINI ve ciplak URL'leri
+taramanin disinda tutuyor. Link METNI (`[Tımar]`) hala taraniyor; duz yazidaki
+her yanlis imla hala build'i kiriyor.
+
+Bu bir esik dusurmesi DEGILDIR. Ayni sinifta bir onceki ornek, Faz 1'de
+`araclar/capraz-kontrol.mjs` icin yapilan kesinlestirmedir (59 yanlis pozitif
+-> 6). Kapinin ne yakalamasi gerektigi degismedi; nerede baktigi duzeltildi.
+
+ALTERNATIFLER REDDEDILDI:
+  - terimler.yaml'dan `timar` varyantini cikarmak: kapiyi gercekten gevsetirdi.
+  - Ic linki kaldirip yalnizca `ilgili` alaninda birakmak: atlasin iki tiklama
+    testini zayiflatirdi.

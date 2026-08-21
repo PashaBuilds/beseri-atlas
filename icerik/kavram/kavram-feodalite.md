@@ -14,6 +14,7 @@ ilgili:
   - donem-07
   - aktor-karolenj-imparatorlugu
   - kavram-milliyetcilik
+  - kavram-timar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -16,6 +16,7 @@ ilgili:
   - kavram-ideal-tip
   - kavram-egemenlik
   - kavram-goksel-yetki
+  - kavram-millet-sistemi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

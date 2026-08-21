@@ -1,0 +1,61 @@
+{
+  "id": "kavram-millet-sistemi",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:39:49.337Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bölümlerini sıralar: terim, kavram, Osmanlı hiyerarşisi içindeki konum, belirli milletler ve tarih.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir sözcüğün ve onun adlandırdığı düzenin ayrı bölümler olarak tutulması, atlasın terim kilidi kapısının kurumsal düzeydeki karşılığıdır: adın tarihi ile kurumu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl için ayrı bir alt başlık ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir Osmanlı kurumunun adının başka bir imparatorluk için de kullanılmış olarak kaydedilmesi, atlasın şu kuralının dayanağıdır: bu dosyada millet sözcüğü, hangi ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak belirli milletler başlığı altında Ortodoks Hıristiyanlar, Ermeniler, Süryaniler, Yahudiler, Roma Katolikleri (altında Marunîler) ve Protestanları ayrı al",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cemaatlerin ayrı ayrı sayılması, sistemin tek bir kalıp değil cemaat cemaat düzenlenmiş bir yapı olarak kaydedildiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uygulandığı devlet dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı devletin bir başka kurumu için bağımsız bir ansiklopedide ayrı bir madde tutulur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıldaki dönüşümü burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

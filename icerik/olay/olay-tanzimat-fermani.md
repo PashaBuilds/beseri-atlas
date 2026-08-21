@@ -15,6 +15,7 @@ etiketler: [tanzimat, osmanli, reform, esit-tebaa]
 ilgili:
   - donem-12
   - aktor-osmanli-imparatorlugu
+  - kavram-millet-sistemi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -13,6 +13,7 @@ ilgili:
   - kavram-merkantilizm
   - dusunur-braudel
   - dusunur-marx
+  - kavram-buyuk-ayrisma
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

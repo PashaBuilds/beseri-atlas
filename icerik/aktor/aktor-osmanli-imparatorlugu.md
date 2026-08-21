@@ -24,6 +24,8 @@ ilgili:
   - aktor-memluk-devleti
   - aktor-timur-imparatorlugu
   - kavram-barut-imparatorluklari
+  - kavram-millet-sistemi
+  - kavram-timar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
