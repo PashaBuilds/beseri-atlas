@@ -13,6 +13,7 @@ ilgili:
   - dusunur-weber
   - dusunur-durkheim
   - kavram-millet-sistemi
+  - tartisma-aydinlanmanin-sinirlari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -26,6 +26,7 @@ ilgili:
   - aktor-hollanda-doguhindistan-sirketi
   - aktor-tokugawa-sogunlugu
   - olay-atlantik-kole-ticareti
+  - tartisma-aydinlanmanin-sinirlari
 okuma_onerisi: []
 serit:
   - bolge: avrupa

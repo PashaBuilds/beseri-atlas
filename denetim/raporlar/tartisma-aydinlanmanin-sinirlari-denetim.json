@@ -1,0 +1,61 @@
+{
+  "id": "tartisma-aydinlanmanin-sinirlari",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:50:46.099Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak dönemi akla, deneysel kanıta ve bilimsel yönteme yapılan vurguyla niteler; bireysel özgürlük, dinî hoşgörü, ilerleme ve doğal haklar ideallerini destekle",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayıt, dönemin düşünürlerinin anayasal yönetimi, kilise ile devletin ayrılmasını ve akılcı ilkelerin toplumsal ve siyasal reforma uygulanmasını savunduğunu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılda zirveye ulaştığını ve fikirlerinin Avrupa'ya ve Amerika ile Okyanusya'daki Avrupa sömürgelerine yayıldığını yazar.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılların Bilim Devrimi'nden doğduğunu ve onun üzerine inşa edildiğini; Bilim Devrimi'nin deneysel araştırma için yeni yöntemler kurmuş olduğunu yazar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Bilim, Devrimi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir dönemin kendisinden önceki bir dönemin devamı sayılması, atlasın şu kuralının dayanağıdır: dönem adları kopuş ilan etmez, sınır çizer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, dönemin başlıca isimleri arasında Jean-Jacques Rousseau, Voltaire, Immanuel Kant, Johann Wolfgang von Goethe, David Hume, Adam Smith, Benjamin Franklin ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu isimlerden biri için tutulan ayrı kayıt, onu modern dönemin merkezî figürlerinden biri sayar ve 1724-1804 arasına yerleştirir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Okuryazarlık serisinde dünya değeri 1820'de yaklaşık yüzde 12,05'tir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dönemin hemen ardından ölçülen bu değer, evrensellik iddiasının kaç kişiye ulaşabileceği sorusunu sayısal bir zemine oturtur; seri dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

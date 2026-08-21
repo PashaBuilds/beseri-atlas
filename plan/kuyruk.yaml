@@ -2725,7 +2725,7 @@ isler:
   - id: tartisma-aydinlanmanin-sinirlari
     tip: tartisma
     baslik: Aydınlanma kimin için?
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

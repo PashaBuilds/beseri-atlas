@@ -17,6 +17,7 @@ ilgili:
   - dusunur-hobbes
   - dusunur-hegel
   - kaynak-kant-elestiri
+  - tartisma-aydinlanmanin-sinirlari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

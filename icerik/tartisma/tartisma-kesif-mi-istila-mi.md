@@ -26,6 +26,7 @@ ilgili:
   - kavram-emperyalizm
   - kavram-anakronizm
   - donem-09
+  - tartisma-aydinlanmanin-sinirlari
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:
