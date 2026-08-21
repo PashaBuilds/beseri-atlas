@@ -1586,3 +1586,11 @@ isler:
     bagimlilik: []
     atanan_parti: null
     deneme: 1
+  - id: olay-birinci-dunya-savasi
+    tip: olay
+    baslik: Birinci Dünya Savaşı
+    durum: onaylandi
+    faz: 2
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1

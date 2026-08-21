@@ -1,0 +1,21 @@
+{
+  "id": "olay-birinci-dunya-savasi",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:27:40.487Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak yeri tek bir bölge olarak değil sıralayarak verir: Avrupa, Orta Doğu, Afrika, Pasifik, Atlantik, Akdeniz ve Adriyatik.[^k1] Cephe dizininde Batı ve Doğu cephelerinin yanında",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Uzun dönemli seride dünya nüfusu 1914 için yaklaşık 1,82 milyar, 1918 için yaklaşık 1,83 milyardır.[^k3] Kaynağın verdiği 15-22 milyonluk ölü aralığı[^k1] bu nüfusun içinde yer alı",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

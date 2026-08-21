@@ -1,8 +1,8 @@
 ---
 aktif_faz: 2
 aktif_parti: B02
-son_commit: d88577d
-son_guncelleme: 2026-08-21T08:25:05.890Z
+son_commit: 9bda563
+son_guncelleme: 2026-08-21T08:25:48.305Z
 sayaclar:
   uretilen: 28
   onaylanan: 28
@@ -50,8 +50,8 @@ faz_parti_sayaci:
 
 **Aktif faz:** 2 — Ana gövde
 **Aktif parti:** B02
-**Son güncelleme:** 2026-08-21T08:25:05.890Z
-**Son commit:** d88577d
+**Son güncelleme:** 2026-08-21T08:25:48.305Z
+**Son commit:** 9bda563
 
 | Sayaç | Değer |
 |---|---|

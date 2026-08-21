@@ -16,6 +16,7 @@ ilgili:
   - donem-13
   - tartisma-1914-savas-sorumlulugu
   - aktor-alman-imparatorlugu
+  - olay-birinci-dunya-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

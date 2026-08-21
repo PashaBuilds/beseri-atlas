@@ -16,6 +16,7 @@ ilgili:
   - olay-balkan-savaslari
   - aktor-alman-imparatorlugu
   - aktor-avusturya-macaristan
+  - olay-birinci-dunya-savasi
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 kaynaklar:

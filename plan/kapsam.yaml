@@ -192,6 +192,8 @@ fazlar:
     - { id: aktor-goryeo-choson, baslik: "Goryeo ve Joseon Kore", bagimlilik: [donem-08] }
     - { id: olay-afyon-savaslari, baslik: "Afyon Savaşları", bagimlilik: [donem-12] }
     - { id: olay-boksor-isyani, baslik: "Boksör İsyanı", bagimlilik: [donem-12] }
+    # Faz 2 kapanisinda eklendi: korpusta savasin kendisi icin makale yoktu.
+    - { id: olay-birinci-dunya-savasi, baslik: "Birinci Dünya Savaşı", bagimlilik: [donem-13] }
     - { id: olay-kore-savasi, baslik: "Kore Savaşı", bagimlilik: [donem-14] }
     - { id: olay-kultur-devrimi, baslik: "Kültür Devrimi", bagimlilik: [donem-14] }
     - { id: olay-cin-reformlari-1978, baslik: "Çin'in 1978 reformları", bagimlilik: [donem-15] }
