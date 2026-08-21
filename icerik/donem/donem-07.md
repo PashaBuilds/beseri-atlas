@@ -33,6 +33,7 @@ ilgili:
   - kavram-feodalite
   - tartisma-feodalite-kavrami
   - tartisma-mogol-etkisi
+  - tartisma-hacli-seferlerinin-nedeni
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

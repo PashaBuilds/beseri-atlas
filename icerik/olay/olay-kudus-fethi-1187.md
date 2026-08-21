@@ -16,6 +16,7 @@ ilgili:
   - donem-07
   - aktor-eyyubi-devleti
   - olay-hacli-seferleri
+  - tartisma-hacli-seferlerinin-nedeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

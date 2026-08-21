@@ -1,0 +1,85 @@
+{
+  "id": "tartisma-hacli-seferlerinin-nedeni",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:42:09.788Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Haçlı seferlerini papalığın 1095 ile 1291 arasında Müslüman yöneticilere karşı Kutsal Toprakların geri alınması ve savunulması için başlattığı bir dizi ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Urban tarafından ilan edildiğini; bunun Hristiyanlara Kudüs'ü Müslümanlardan geri almaları için ruhani ödül vaatleriyle yapılmış bir silah çağrısı olduğunu yaza",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kaynak, o tarihte papalığın Katolik Kilisesi'nin başı olarak konumunun güçlenmiş olduğunu ve daha önceki dünyevi yöneticilerle çatışmalar ile Batı Hristiya",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, bu ölçekteki harekâtların örgütlenmesinin karmaşık dinî, toplumsal ve iktisadi kurumlar gerektirdiğini yazar ve üçünü sayar: haçlı endüljansları, askerî",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir hareketin sürmesi için ayrı kurumlar gerekmesi, atlasın şu kuralının dayanağıdır: başlangıç nedeni ile süreklilik nedeni ayrı ayrı yazılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıla dek sürdüğünü yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hedefin değişmesine rağmen adın aynı kalması, \"Haçlı seferlerinin nedeni\" ifadesinin tek bir olguya işaret etmediğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Haçlı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın dönüm noktası olarak andığı kişi için tutulan kayıt, onu Eyyûbî hanedanının kurucusu ve Mısır ile Suriye'nin ilk sultanı olarak tanımlar; kaynak, birle",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaynağın dönüm noktası olarak andığı kişi için tutulan kayıt, onu Eyyûbî hanedanının kurucusu ve Mısır ile Suriye'nin ilk sultanı olarak tanımlar; kaynak, birle",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki kaydın aynı yılı vermesi, atlasın çapraz doğrulama ölçütünü karşılar; olay dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki kaydın aynı yılı vermesi, atlasın çapraz doğrulama ölçütünü karşılar; olay dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1100'de yaklaşık 320,1 milyon, 1300'de yaklaşık 456,2 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas üç pozisyondan hiçbirini benimsemez; kaynağın kendisi hem başlangıç anını hem süreklilik kurumlarını ayrı ayrı kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

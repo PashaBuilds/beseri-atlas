@@ -2701,7 +2701,7 @@ isler:
   - id: tartisma-hacli-seferlerinin-nedeni
     tip: tartisma
     baslik: Haçlı seferlerinin nedeni neydi?
-    durum: uretiliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

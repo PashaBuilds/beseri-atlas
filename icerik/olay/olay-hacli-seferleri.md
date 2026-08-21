@@ -18,6 +18,7 @@ ilgili:
   - aktor-bizans-imparatorlugu
   - olay-malazgirt
   - olay-kudus-fethi-1187
+  - tartisma-hacli-seferlerinin-nedeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

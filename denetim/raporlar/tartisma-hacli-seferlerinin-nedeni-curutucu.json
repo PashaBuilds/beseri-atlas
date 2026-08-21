@@ -1,0 +1,21 @@
+{
+  "id": "tartisma-hacli-seferlerinin-nedeni",
+  "gecis": 3,
+  "zaman": "2026-08-21T12:42:19.442Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Hedefin değişmesine rağmen adın aynı kalması,[^k1] \"Haçlı seferlerinin nedeni\" ifadesinin tek bir olguya işaret etmediğini gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynağın dönüm noktası olarak andığı kişi için tutulan kayıt, onu Eyyûbî hanedanının kurucusu ve Mısır ile Suriye'nin ilk sultanı olarak tanımlar; kaynak, birleşik orduları 1187'de",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}
