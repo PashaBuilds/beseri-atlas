@@ -1,0 +1,55 @@
+{
+  "id": "kavram-barut-imparatorluklari",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:35:06.212Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak ilk bölümünü kavramı önerenlerin adıyla açar ve ikinci bölümünü kavrama dair güncel görüşlere ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak tarih bölümünü bölgelere ayırır: Müslüman dünyasının barut imparatorlukları (Osmanlı, Safevi ve Babür), Doğu Asya'nınkiler (Çin, Japonya ve Kore) ve Güne",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavramın üç ayrı bölgeye uygulanması, atlasın bu dosyayı neden üç bölge etiketiyle tuttuğunun dayanağıdır; kapsanan devletlerden ikisi ve dosyalarında ele a",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yakın bir kavram için tutulan kayıt, ordu büyüklüğü sorusunda idari ve anlatı kaynaklarını ayrı ayrı işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki kavramı birbirinin yerine kullanmaz; kullanılan kaynak bölümlerinde böyle bir eşleme belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas iki kavramı birbirinin yerine kullanmaz; kullanılan kaynak bölümlerinde böyle bir eşleme belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dönemin savaş ilkeleri yazarı için tutulan kayıt, katkı alanları arasında savaş ilkelerini sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramın önerdiği mekanizma, ülke ülke tarihler ve eleştiriler burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

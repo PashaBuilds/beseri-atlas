@@ -48,6 +48,7 @@ ilgili:
   - dusunur-farabi
   - dusunur-gazali
   - dusunur-machiavelli
+  - kavram-askeri-devrim
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

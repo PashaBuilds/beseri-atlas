@@ -1,0 +1,14 @@
+{
+  "id": "kavram-askeri-devrim",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:35:06.743Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı dönüşümün üç ayrı teknik değişimle tanımlanması,[^k1] kavramın tek bir buluşa değil bir demete karşılık geldiğini gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

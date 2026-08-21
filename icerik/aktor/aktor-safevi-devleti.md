@@ -18,6 +18,7 @@ ilgili:
   - aktor-ming-hanedani
   - aktor-babur-imparatorlugu
   - olay-iran-devrimi-1979
+  - kavram-barut-imparatorluklari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

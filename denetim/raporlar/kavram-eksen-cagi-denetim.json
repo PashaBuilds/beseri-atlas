@@ -1,0 +1,55 @@
+{
+  "id": "kavram-eksen-cagi",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:35:06.228Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bölümlerini sıralar: kavramın kökeni, özellikler, düşünürler ve akımlar, alımlanma.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir dönem adının hem nereden geldiğinin hem nasıl karşılandığının ayrı bölümler olarak tutulması, atlasın şu kuralının dayanağıdır: bu atlasta Eksen Çağı, bir d",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Eksen, Çağı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın düşünürler ve akımlar diye ayrı bir bölüm tutması, kavramın temel iddiasının farklı bölgelerde yaşamış düşünürlerin bir araya getirilmesi olduğunu göst",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kavramın kapsadığı yüzyıllarda yaşadığı söylenen bir düşünür için tutulan kayıt, tarihleri geleneksel kaydıyla verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yüzyıllara yakın bir başka düşünür için tutulan kayıt ise doğum yılını soru işaretiyle verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki düşünürün de tarihlerinin çekinceyle verilmesi, bir eşanlılık iddiasının hangi zeminde kurulduğunu görünür kılar; atlas bu yüzden kavramı bir dönem sınırı o",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki düşünürün de tarihlerinin çekinceyle verilmesi, bir eşanlılık iddiasının hangi zeminde kurulduğunu görünür kılar; atlas bu yüzden kavramı bir dönem sınırı o",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramın önerdiği özellikler, kapsadığı akımlar ve eleştirilerin ayrıntısı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak i",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -15,6 +15,7 @@ ilgili:
   - dusunur-platon
   - aktor-han-imparatorlugu
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - kavram-eksen-cagi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

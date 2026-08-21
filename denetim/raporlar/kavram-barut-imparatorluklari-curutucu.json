@@ -1,0 +1,14 @@
+{
+  "id": "kavram-barut-imparatorluklari",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:35:06.745Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak ilk bölümünü kavramı önerenlerin adıyla açar ve ikinci bölümünü kavrama dair güncel görüşlere ayırır.[^k1]",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

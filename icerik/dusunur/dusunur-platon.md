@@ -17,6 +17,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-konfucyus
   - dusunur-augustinus
+  - kavram-eksen-cagi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

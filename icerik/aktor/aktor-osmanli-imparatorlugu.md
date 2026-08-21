@@ -23,6 +23,7 @@ ilgili:
   - aktor-etiyopya-imparatorlugu
   - aktor-memluk-devleti
   - aktor-timur-imparatorlugu
+  - kavram-barut-imparatorluklari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,0 +1,55 @@
+{
+  "id": "kavram-askeri-devrim",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:35:06.192Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, ordu büyüklüğü başlığı altında idari kaynaklar ile anlatı kaynaklarını ayrı alt başlıklar olarak tutar; ayrıca toplam ordu büyüklüğü için ayrı bir alt b",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kavramın kökenine ayrı bir bölüm ayırır ve ardından bir kronoloji bölümü tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavramın kökeninin bir bölüm başlığı olması, atlasın şu kuralının dayanağıdır: bu dosyada askerî devrim, bir olgu adı olarak değil bir araştırma önerisi ola",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak taktikler başlığı altında üç alt başlık tutar: doğrusal taktikler, trace italienne ve piyade devrimi ile süvarinin gerilemesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı dönüşümün üç ayrı teknik değişimle tanımlanması, kavramın tek bir buluşa değil bir demete karşılık geldiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dönemin savaş ilkeleri yazarı için tutulan kayıt, katkı alanları arasında savaş ilkelerini sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sonraki yüzyılın savaş kuramcısı için tutulan kayıt ise, onun savaşta çeşitli etkenlerin çoklu etkileşimlerine dikkat çektiğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kronolojinin ayrıntıları, tahkimat tartışması ve kavrama yöneltilen eleştiriler burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler ola",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

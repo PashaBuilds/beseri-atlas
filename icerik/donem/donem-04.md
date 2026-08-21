@@ -29,6 +29,7 @@ ilgili:
   - olay-roma-cumhuriyetinin-sonu
   - olay-han-hanedani-kurulusu
   - olay-ipek-yolu-kurulusu
+  - kavram-eksen-cagi
 okuma_onerisi: []
 serit:
   - bolge: dogu-asya

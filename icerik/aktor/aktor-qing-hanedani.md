@@ -21,6 +21,7 @@ ilgili:
   - aktor-cin-halk-cumhuriyeti
   - olay-afyon-savaslari
   - olay-boksor-isyani
+  - kavram-goksel-yetki
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

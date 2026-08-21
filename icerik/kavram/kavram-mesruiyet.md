@@ -15,6 +15,7 @@ ilgili:
   - dusunur-ibn-haldun
   - kavram-ideal-tip
   - kavram-egemenlik
+  - kavram-goksel-yetki
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

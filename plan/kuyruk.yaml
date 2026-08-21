@@ -1925,7 +1925,7 @@ isler:
   - id: kavram-eksen-cagi
     tip: kavram
     baslik: Eksen Çağı
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1933,7 +1933,7 @@ isler:
   - id: kavram-goksel-yetki
     tip: kavram
     baslik: Göksel Yetki
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2021,7 +2021,7 @@ isler:
   - id: kavram-askeri-devrim
     tip: kavram
     baslik: Askerî devrim
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2029,7 +2029,7 @@ isler:
   - id: kavram-barut-imparatorluklari
     tip: kavram
     baslik: Barut imparatorlukları
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

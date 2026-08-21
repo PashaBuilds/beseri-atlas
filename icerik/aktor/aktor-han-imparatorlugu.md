@@ -19,6 +19,7 @@ ilgili:
   - olay-ipek-yolu-kurulusu
   - dusunur-konfucyus
   - dusunur-sima-qian
+  - kavram-goksel-yetki
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

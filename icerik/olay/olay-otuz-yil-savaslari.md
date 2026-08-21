@@ -18,6 +18,7 @@ ilgili:
   - olay-vestfalya-barisi
   - aktor-ispanyol-imparatorlugu
   - olay-ingiliz-ic-savasi
+  - kavram-askeri-devrim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,0 +1,61 @@
+{
+  "id": "kavram-goksel-yetki",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:35:06.253Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yönetme hakkı ile isyan hakkını tek bir bölüm başlığı altında birlikte tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir meşruiyet öğretisinin isyan hakkını da aynı başlıkta taşıması, atlasın şu kuralının dayanağıdır: bu dosyada Göksel Yetki, yalnızca bir iktidar gerekçesi ola",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Göksel, Yetki"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak tarih bölümünü alt başlıklara ayırır: Shang ile Zhou arasındaki geçiş, Doğu Zhou, Qin ve Han hanedanları, bölünme çağı, Beş Hanedan dönemi ve Qing haneda",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavramın tarihinin hanedan hanedan kaydedilmesi, kavramın her iktidar değişiminde yeniden uygulandığını gösterir; ilgili hanedanlar ve dosyalarında ele alın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir başka gelenekte otoritenin üçlü bir sınıflandırması kaydedilir: karizmatik, akılcı-yasal ve geleneksel.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki çerçeveyi birbirine çevirmez ve birini diğerinin özel hâli saymaz; kullanılan kaynak bölümlerinde böyle bir eşleme belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas iki çerçeveyi birbirine çevirmez ve birini diğerinin özel hâli saymaz; kullanılan kaynak bölümlerinde böyle bir eşleme belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı geleneğin bir düşünürü için tutulan kayıt, onun Çin tarihinin farklı dönemlerinde öğretmen, danışman, editör, filozof, reformcu ve peygamber olarak resmedi",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramın kökeni, hanedan geçişlerindeki uygulaması ve sonraki etkisi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
