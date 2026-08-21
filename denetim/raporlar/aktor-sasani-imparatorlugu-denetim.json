@@ -1,0 +1,85 @@
+{
+  "id": "aktor-sasani-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:49:22.797Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Sasani İmparatorluğu, 224–651 yılları arasındaki son İslam öncesi İran imparatorluğudur.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuruluş tek bir muharebeye bağlanır: Hürmüzgan Muharebesi 28 Nisan'da gerçekleşmiştir ve imparatorluğun başlangıç yılı 224'tür.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Başkent önce İstahr (224–226), ardından uzun süre Ktesifon (226–637) olmuştur.",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki başkentin arasındaki iki yıllık geçiş yönetsel bir tercihi gösterir: ağırlık merkezi, hanedanın çıkış bölgesinden imparatorluğun sınır hattına daha yakın bi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İmparatorluğun resmî dili Orta Farsça, resmî dini Zerdüştlüktü.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yönetim biçimi feodal monarşi olarak sınıflandırılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Resmî bir dinin bulunması, başka inançların yokluğu anlamına gelmez; kaynak Doğu Kilisesi'ni de imparatorluğun din başlığı altında sayar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Doğu, Kilisesi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Edessa Muharebesi 260'ta, İberya Savaşı ise 526–532 arasında gerçekleşmiştir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hüsrev döneminde ulaştığı kaydedilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "yüzyıldaki çöküşünden sonra ayakta kalmış ve 1453'e kadar sürmüştür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İmparatorluk 651'de sona erer ve Ktesifon 637'de başkent olmaktan çıkar.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İmparatorluk 651'de sona erer ve Ktesifon 637'de başkent olmaktan çıkar.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çağdaş dünya nüfusu, uzun dönemli seride MS 200 için yaklaşık 240,8 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

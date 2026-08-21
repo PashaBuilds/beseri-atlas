@@ -18,6 +18,8 @@ ilgili:
   - olay-pers-yunan-savaslari
   - aktor-asur-imparatorlugu
   - aktor-roma-imparatorlugu
+  - aktor-maurya-imparatorlugu
+  - tartisma-imparatorluk-siniri-nasil-cizilir
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

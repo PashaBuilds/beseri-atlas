@@ -21,6 +21,7 @@ ilgili:
   - donem-04
   - donem-09
   - donem-16
+  - aktor-song-hanedani
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

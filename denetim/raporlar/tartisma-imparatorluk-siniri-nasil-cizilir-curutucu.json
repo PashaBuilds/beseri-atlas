@@ -1,0 +1,21 @@
+{
+  "id": "tartisma-imparatorluk-siniri-nasil-cizilir",
+  "gecis": 3,
+  "zaman": "2026-08-21T04:49:31.143Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Üçüncü pozisyonun dayanağı Osmanlı taşra düzenidir: klasik dönemin tımarlı eyaletler düzeninin yanında özel statülü birimler de bulunuyordu.[^k4] Bu, tek renkli bir haritanın göste",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dördüncü pozisyon, tek bir haritanın yetersizliğini vurgular. Bizans için verilen alan değerleri 565'te yaklaşık 3.400.000, 775'te 880.000 ve 1025'te 1.675.000 kilometrekaredir.[^k",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

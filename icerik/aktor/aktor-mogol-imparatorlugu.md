@@ -15,6 +15,7 @@ etiketler: [mogol, gocebe-imparatorluk, altin-orda, ilhanli, yuan]
 ilgili:
   - donem-07
   - olay-mogol-fetihleri
+  - aktor-song-hanedani
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

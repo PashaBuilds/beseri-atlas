@@ -16,6 +16,7 @@ ilgili:
   - donem-03
   - aktor-hitit-imparatorlugu
   - aktor-ahamenis-imparatorlugu
+  - tartisma-imparatorluk-siniri-nasil-cizilir
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

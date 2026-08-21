@@ -742,7 +742,7 @@ isler:
   - id: aktor-han-imparatorlugu
     tip: aktor
     baslik: Han İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-04
@@ -751,7 +751,7 @@ isler:
   - id: aktor-maurya-imparatorlugu
     tip: aktor
     baslik: Maurya İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-04
@@ -760,7 +760,7 @@ isler:
   - id: aktor-sasani-imparatorlugu
     tip: aktor
     baslik: Sasani İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-05
@@ -769,7 +769,7 @@ isler:
   - id: aktor-bizans-imparatorlugu
     tip: aktor
     baslik: Bizans İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-05
@@ -805,7 +805,7 @@ isler:
   - id: aktor-buyuk-selcuklu
     tip: aktor
     baslik: Büyük Selçuklu Devleti
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-07
@@ -814,7 +814,7 @@ isler:
   - id: aktor-song-hanedani
     tip: aktor
     baslik: Song hanedanı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-07
@@ -1029,6 +1029,14 @@ isler:
   - id: tartisma-tunc-cagi-cokusunun-nedeni
     tip: tartisma
     baslik: Tunç Çağı çöküşünün nedeni neydi?
+    durum: onaylandi
+    faz: 2
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 1
+  - id: tartisma-imparatorluk-siniri-nasil-cizilir
+    tip: tartisma
+    baslik: İmparatorluk sınırı haritada nasıl gösterilmeli?
     durum: onaylandi
     faz: 2
     bagimlilik: []

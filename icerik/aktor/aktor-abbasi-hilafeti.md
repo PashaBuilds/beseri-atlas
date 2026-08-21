@@ -14,6 +14,7 @@ guven_geneli: yaygin
 etiketler: [abbasi, hilafet, hanedan, mesruiyet, bagdat]
 ilgili:
   - donem-06
+  - aktor-buyuk-selcuklu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

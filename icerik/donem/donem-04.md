@@ -22,6 +22,8 @@ ilgili:
   - olay-pers-yunan-savaslari
   - aktor-ahamenis-imparatorlugu
   - aktor-roma-imparatorlugu
+  - aktor-han-imparatorlugu
+  - aktor-maurya-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: dogu-asya

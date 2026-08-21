@@ -1,0 +1,55 @@
+{
+  "id": "aktor-maurya-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:49:22.727Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Maurya İmparatorluğu'nun başkenti, bugünkü Patna yakınlarındaki Pataliputra'ydı; ilk hükümdarı Çandragupta yaklaşık MÖ 321–298 arasında hüküm sürdü.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birincisi geleneksel gösterimdir: Aşoka dönemindeki Maurya İmparatorluğu, Maurya denetimindeki toprakların dolu bir kütlesi olarak resmedilir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkincisi ise farklı bir kavrayıştır: Maurya İmparatorluğu, iletişim ve ticaret ağlarıyla birbirine bağlanan çekirdek bölgelerden oluşan bir ağ olarak kavramsall",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Maurya ekonomisine, daha önce yükselmiş olan Budizm ve Jainizm yardımcı oldu — şiddetsizliği teşvik eden, gösterişi ya da gereksiz kurban ve ayinleri yasaklayan",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Verimli doğu Ganj ovasındaki kârlı yerleşik tarıma rağmen bu etkenler deniz ve nehir yoluyla ticarete yardımcı oldu.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ganj"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ahameniş İmparatorluğu MÖ 535–518 arasında İndus Vadisi'ni fethetmişti ve MÖ 330'da Makedonya'ya yenilerek sona ermişti.",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı ucun sonraki tarihi de kaydedilmiştir: Subhagasena MÖ 206'da, Hint-Yunan Krallığı'nın kuruluşu ise MÖ 180'de anılır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çağdaş dünya nüfusu, uzun dönemli seride MÖ 1000 için yaklaşık 110,5 milyon, MS 200 için yaklaşık 240,8 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

@@ -16,6 +16,9 @@ ilgili:
   - donem-04
   - donem-05
   - aktor-ahamenis-imparatorlugu
+  - aktor-bizans-imparatorlugu
+  - aktor-han-imparatorlugu
+  - aktor-sasani-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

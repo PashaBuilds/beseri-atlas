@@ -1,0 +1,79 @@
+{
+  "id": "aktor-bizans-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:49:22.549Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bizans İmparatorluğu terimi ancak devletin sona ermesinden sonra türetilmiştir; yurttaşları kendileri için \"Roman Empire\" terimini kullanıyor ve kendilerini Rom",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıldaki çöküşünden sonra ayakta kalmış ve Konstantinopolis'in 1453'te Osmanlı İmparatorluğu'na düşmesine kadar sürmüştür.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Roma tarafında da aynı çizgi görülür: MS 395'ten sonra batı kanadı 476/480'e, doğu kanadı ise 1453'e kadar sürer.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Roma İmparatorluğu'nun ilk yüzyıllarında batı eyaletleri Latinleşirken, doğu kesimleri Helenistik kültürlerini korumuştu.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 565 yılı için yaklaşık 20.000.000 nüfus ve 3.400.000 kilometrekare alan, 775 yılı için ise yaklaşık 7.000.000 nüfus ve 880.000 kilometrekare alan verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak 1025 için yeniden yaklaşık 12.000.000 nüfus ve 1.675.000 kilometrekare alan kaydeder.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu daralmanın yaşandığı yüzyıllarda doğuda Sasani İmparatorluğu 224–651 arasında varlığını sürdürüyordu ve 526–532 arasındaki İberya Savaşı iki taraf arasındaki",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Rakibin 651'de sona ermesi Bizans'ın rahatlaması anlamına gelmedi; kayıp verileri en dip noktasına o tarihten sonra, 775'te ulaşır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Rakibin 651'de sona ermesi Bizans'ın rahatlaması anlamına gelmedi; kayıp verileri en dip noktasına o tarihten sonra, 775'te ulaşır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Iustinianos 527–565 ve Herakleios 610–641 arasında hüküm sürer.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Çağdaş dünya nüfusu, uzun dönemli seride MS 600 için yaklaşık 271,6 milyon, 1000 yılı için yaklaşık 323,5 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Devletin kendi nüfusu için verilen değerler farklı bir seriden geldiği için burada iki seri arasında oran kurulmamıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

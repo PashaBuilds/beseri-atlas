@@ -1,6 +1,6 @@
 {
-  "zaman": "2026-08-21T04:40:39.978Z",
-  "makale_sayisi": 52,
+  "zaman": "2026-08-21T04:50:14.600Z",
+  "makale_sayisi": 59,
   "celiskiler": [],
   "incelenecek": [
     {
@@ -151,10 +151,28 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
+        "olay-balkan-savaslari",
+        "aktor-buyuk-selcuklu"
+      ],
+      "detay": "\"Mart\" — olay-balkan-savaslari: 1912 / aktor-buyuk-selcuklu: 1073"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
         "aktor-abbasi-hilafeti",
         "aktor-tang-hanedani"
       ],
       "detay": "\"Hanedanın\" — aktor-abbasi-hilafeti: 1258 / aktor-tang-hanedani: 1000"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-buyuk-selcuklu",
+        "aktor-osmanli-imparatorlugu"
+      ],
+      "detay": "\"Ocak\" — aktor-buyuk-selcuklu: 1060 / aktor-osmanli-imparatorlugu: 1792"
     }
   ]
 }

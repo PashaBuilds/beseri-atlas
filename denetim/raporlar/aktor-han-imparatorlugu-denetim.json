@@ -1,0 +1,73 @@
+{
+  "id": "aktor-han-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:49:22.662Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Han hanedanının kuzey sınırındaki ilişki bir yenilgiyle açılır: Xiongnu, MÖ 200'de Han'ı yendi ve bu, Han'ı Xiongnu'yu evlilik ittifakı ve haraç ödemeleri polit",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "MÖ 121'de Han kuvvetleri Xiongnu'yu Hexi Koridoru'ndan Lop Nur'a uzanan geniş bir bölgeden çıkardı; MÖ 111'de aynı kuzeybatı bölgesine yönelen ortak bir Xiongnu",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yıl Han sarayı denetimi pekiştirmek için bölgede dört yeni sınır komutanlığı kurdu: Jiuquan, Zhangyi, Dunhuang ve Wuwei.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Orta Asya'ya yayılmadan önce diplomat Zhang Qian'ın MÖ 139–125 arasındaki seyahatleri, Çin'in çevredeki birçok uygarlıkla temasını kurmuştu.",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Zhang; Dayuan (Fergana), Kangju (Sogdiana) ve Daxia (Baktriya) ile karşılaştı, ayrıca Shendu (İndus nehri vadisi) ve Anxi (Part İmparatorluğu) hakkında bilgi to",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, bu temasların sonraki bağlantıların başlangıcını işaretlediğini kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Han döneminde matematikte ilerlemeler, kabartma haritalar, astronomi için su gücüyle çalışan armiller küreler ve ters sarkaç kullanarak uzak depremlerin ana yön",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Wang Mang, ilahi Göksel Yetki'nin Han hanedanının sonunu ve kendi hanedanının başlangıcını gerektirdiğini ileri sürerek Xin hanedanını (MS 9–23) ilan etti.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yüzyıllarda batıda, Roma İmparatorluğu klasik dönemde Akdeniz'e ve Avrupa'nın, Batı Asya'nın ve Kuzey Afrika'nın büyük bölümüne hâkimdi.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki düzen doğrudan temas kurmadı; aralarındaki bağ, Zhang Qian'ın haritaladığı ara bölgelerden geçiyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çağdaş dünya nüfusu, uzun dönemli seride MS 200 için yaklaşık 240,8 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

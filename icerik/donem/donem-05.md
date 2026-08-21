@@ -19,6 +19,8 @@ ilgili:
   - donem-04
   - donem-06
   - aktor-roma-imparatorlugu
+  - aktor-bizans-imparatorlugu
+  - aktor-sasani-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: avrupa

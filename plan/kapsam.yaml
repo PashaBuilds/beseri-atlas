@@ -37,6 +37,7 @@ fazlar:
     - { id: olay-gobeklitepe, baslik: "Göbeklitepe", bagimlilik: [donem-01, tartisma-tarim-devrimi-ilerleme-mi] }
     - { id: olay-yazinin-icadi, baslik: "Yazının icadı", bagimlilik: [donem-02] }
     - { id: tartisma-tunc-cagi-cokusunun-nedeni, baslik: "Tunç Çağı çöküşünün nedeni neydi?", bagimlilik: [donem-03] }
+    - { id: tartisma-imparatorluk-siniri-nasil-cizilir, baslik: "İmparatorluk sınırı haritada nasıl gösterilmeli?", bagimlilik: [donem-04] }
     - { id: olay-tunc-cagi-cokusu, baslik: "Tunç Çağı çöküşü", bagimlilik: [donem-03, tartisma-tunc-cagi-cokusunun-nedeni] }
     - { id: olay-pers-yunan-savaslari, baslik: "Pers–Yunan savaşları", bagimlilik: [donem-04] }
     - { id: olay-iskender-seferleri, baslik: "İskender'in seferleri", bagimlilik: [donem-04] }

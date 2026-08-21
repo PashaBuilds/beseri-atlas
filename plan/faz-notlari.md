@@ -96,3 +96,19 @@ Faz 2'ye taşındı ve `plan/kapsam.yaml` içinde bağımlılık olarak kaydedil
 **Genel kural olarak çıkarılan ders:** `tartismali` etiketli bir olay/aktör
 makalesi, bağlı olduğu tartışma haritasından **sonra** üretilmelidir. Kalan
 fazlarda bu bağımlılık kuyruk sırasına yansıtılmalıdır.
+
+## Faz 2 — B10 notu (2026-08-21)
+
+`aktor-maurya-imparatorlugu` yazilirken kaynagin AYNI imparatorluk icin iki farkli
+harita sundugu ve ikisi arasindaki farki kendisinin not ettigi gorildu. Makale bu
+nedenle `tartismali` isaretlendi; KAPI 9 ise bagli bir tartisma haritasi olmadigi
+icin hata verdi.
+
+Cozum, guven duzeyini dusurmek DEGIL, eksik olan haritayi yazmak oldu:
+`tartisma-imparatorluk-siniri-nasil-cizilir`. Harita yalnizca Maurya'ya degil
+butun aktor dosyalarina hizmet ediyor — cunku her aktor dosyasi ortuk bir sinir
+varsayimi tasiyor. Plan kapsamina Faz 2 altinda eklendi.
+
+Genel kural olarak kayda geciyorum: bir makale yazilirken kaynagin kendisi iki
+rakip gosterim/okuma sunuyorsa, dogru hamle makaleyi `yaygin`e dusurmek degil,
+tartismayi kendi dosyasina cikarmaktir.

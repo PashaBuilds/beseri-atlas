@@ -20,6 +20,8 @@ ilgili:
   - donem-08
   - olay-mogol-fetihleri
   - aktor-mogol-imparatorlugu
+  - aktor-buyuk-selcuklu
+  - aktor-song-hanedani
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi
