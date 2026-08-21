@@ -17,6 +17,7 @@ ilgili:
   - kavram-mesruiyet
   - kavram-ideal-tip
   - kavram-sekulerlesme
+  - kavram-burokrasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

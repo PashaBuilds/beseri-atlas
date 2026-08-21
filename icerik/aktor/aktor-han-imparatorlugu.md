@@ -20,6 +20,7 @@ ilgili:
   - dusunur-konfucyus
   - dusunur-sima-qian
   - kavram-goksel-yetki
+  - kavram-burokrasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

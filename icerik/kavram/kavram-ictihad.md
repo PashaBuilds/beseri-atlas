@@ -13,6 +13,7 @@ ilgili:
   - dusunur-gazali
   - dusunur-ibn-rusd
   - kavram-mesruiyet
+  - kavram-tasavvuf
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

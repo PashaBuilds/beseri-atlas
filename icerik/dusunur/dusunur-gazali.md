@@ -17,6 +17,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-ibn-rusd
   - kavram-ictihad
+  - kavram-tasavvuf
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

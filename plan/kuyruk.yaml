@@ -2221,7 +2221,7 @@ isler:
   - id: kavram-tasavvuf
     tip: kavram
     baslik: Tasavvuf
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2237,7 +2237,7 @@ isler:
   - id: kavram-imparatorluk
     tip: kavram
     baslik: İmparatorluk
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2245,7 +2245,7 @@ isler:
   - id: kavram-burokrasi
     tip: kavram
     baslik: Bürokrasi
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

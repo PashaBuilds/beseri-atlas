@@ -36,6 +36,7 @@ ilgili:
   - aktor-srivijaya
   - kavram-emperyalizm
   - kavram-mandala-devleti
+  - kavram-imparatorluk
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

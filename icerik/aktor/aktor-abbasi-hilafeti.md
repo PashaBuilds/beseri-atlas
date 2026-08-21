@@ -20,6 +20,7 @@ ilgili:
   - aktor-mali-imparatorlugu
   - aktor-emevi-hilafeti
   - aktor-fatimi-hilafeti
+  - kavram-tasavvuf
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

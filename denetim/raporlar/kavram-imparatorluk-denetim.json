@@ -1,0 +1,49 @@
+{
+  "id": "kavram-imparatorluk",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:07:48.595Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bölümlerini sıralar: tanım, özellikler, tarih, imparatorlukların çöküşü ve imparatorluktan geçiş; tarih bölümü erken imparatorluklar, klasik dönem, post-",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, imparatorlukların çöküşü başlığı altında Roma İmparatorluğu'nu ve sömürgesizleşmeyi ayrı alt başlıklar olarak tutar.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çöküşün yanında imparatorluktan geçiş diye ayrı bir bölüm bulunması, atlasın şu kuralının dayanağıdır: bu atlasta imparatorlukların sonu, bir yıkım değil bir dö",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çöküşün yanında imparatorluktan geçiş diye ayrı bir bölüm bulunması, atlasın şu kuralının dayanağıdır: bu atlasta imparatorlukların sonu, bir yıkım değil bir dö",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın ilk bölümünü tanıma ayırması, atlasın imparatorluk sınırlarının haritada nasıl gösterileceğini neden ayrı bir tartışma dosyasında tuttuğunun dayanağıdı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Emperyalizm üzerine yazan bir düşünür için tutulan kayıt, onu 1906-1975 arasında yaşamış ve yirminci yüzyılın en etkili siyaset filozoflarından biri sayılan bir",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tanımın içeriği, özellikler ve dönem dönem tarihler burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

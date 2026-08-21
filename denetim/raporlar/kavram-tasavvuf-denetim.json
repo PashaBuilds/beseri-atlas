@@ -1,0 +1,49 @@
+{
+  "id": "kavram-tasavvuf",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:07:48.616Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak kavramı şöyle tanımlar: İslâm'ın zâhir ve bâtın hükümleri çerçevesinde yaşanan mânevî ve derunî hayat tarzı; maddenin müellifi Reşat Öngören, baskı tarih",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kavramı hayat tarzı olarak tanımlaması, atlasın şu kuralının dayanağıdır: bu dosyada tasavvuf, bir doktrin listesi olarak değil bir pratik olarak anılı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tanımın her iki hüküm türünü birlikte içermesi, kavramın hukukun dışında değil onunla birlikte konumlandırıldığını gösterir; hukuk yöntemi tarafı dosyasında ele",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tanımın her iki hüküm türünü birlikte içermesi, kavramın hukukun dışında değil onunla birlikte konumlandırıldığını gösterir; hukuk yöntemi tarafı dosyasında ele",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bağımsız bir akademik kaynak, bir düşünürü yaklaşık 1056-1111 arasında yaşamış, Sünni İslam'ın en önde gelen ve etkili filozof, kelamcı, fakih ve mutasavvıfları",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı kişinin dört sıfatla birden kaydedilmesi, atlasın düşünür dosyalarında neden tek bir kategori kullanmadığının dayanağıdır; o düşünür dosyasında ele alınıyo",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tasavvufun tarihi, tarikatlar, kavramları ve edebiyatı burada ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak bölümünün kapsamı tanımdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

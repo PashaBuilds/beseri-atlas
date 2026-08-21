@@ -13,6 +13,7 @@ ilgili:
   - kavram-emperyalizm
   - olay-afrika-bagimsizlik-dalgasi
   - olay-hindistan-bolunmesi
+  - kavram-imparatorluk
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

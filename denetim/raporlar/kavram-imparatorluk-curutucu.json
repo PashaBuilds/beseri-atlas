@@ -1,0 +1,14 @@
+{
+  "id": "kavram-imparatorluk",
+  "gecis": 3,
+  "zaman": "2026-08-21T10:07:49.162Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynağın ilk bölümünü tanıma ayırması,[^k1] atlasın imparatorluk sınırlarının haritada nasıl gösterileceğini neden ayrı bir tartışma dosyasında tuttuğunun dayanağıdır; o tartışma [",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

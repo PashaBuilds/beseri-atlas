@@ -1,0 +1,61 @@
+{
+  "id": "kavram-burokrasi",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:07:48.553Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tarih bölümünü antik ve modern diye ikiye ayırır; antik başlığı altında antik Çin ile antik Roma'yı, modern başlığı altında İran, Rusya, Aşanti İmparato",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın ilk bölümünü köken bilgisi ve kullanıma ayırması ve tarihi antikçağla başlatması, atlasın şu kuralının dayanağıdır: bu atlasta bürokrasi terimi, antik ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın modern örnekler arasında Aşanti İmparatorluğu'nu sayması, kavramın Avrupa devletlerine özgü sayılmasının kaynağın kendi bölümlemesince desteklenmediğin",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kuramlar başlığı altında Karl Marx ve Leon Troçki gibi adları ayrı alt başlıklar olarak tutar.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bunlardan biri için tutulan ayrı kayıt, o düşünürü 1818-1883 arasına yerleştirir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir yönetim biçiminin kuramlarının kişi adlarıyla bölümlenmesi, atlasın kavram dosyalarında neden düşünür bağlantısı tuttuğunun dayanağıdır; o düşünür dosyasınd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir yönetim biçiminin kuramlarının kişi adlarıyla bölümlenmesi, atlasın kavram dosyalarında neden düşünür bağlantısı tuttuğunun dayanağıdır; o düşünür dosyasınd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kavramı kendi kayda değer fikirler listesinde tutan bir yazar için ayrı bir kayıt bulunur; aynı kayıt onu 1864-1920 arasına yerleştirir ve otoritenin üçlü sınıf",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramın tanımı, ülke ülke tarihler ve kuramların içeriği burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

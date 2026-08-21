@@ -13,6 +13,7 @@ ilgili:
   - kavram-guc-dengesi
   - kavram-dunya-sistemi
   - aktor-britanya-imparatorlugu
+  - kavram-imparatorluk
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

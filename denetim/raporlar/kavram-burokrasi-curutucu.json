@@ -1,0 +1,14 @@
+{
+  "id": "kavram-burokrasi",
+  "gecis": 3,
+  "zaman": "2026-08-21T10:07:49.159Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynağın ilk bölümünü köken bilgisi ve kullanıma ayırması ve tarihi antikçağla başlatması,[^k1] atlasın şu kuralının dayanağıdır: bu atlasta bürokrasi terimi, antik dönem dosyaları",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}
