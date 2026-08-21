@@ -1,0 +1,67 @@
+{
+  "id": "kaynak-machiavelli-prens",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:35:44.440Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eseri Prens başlığıyla işler ve her bölümünün yüzyıllar boyunca kapsamlı yorum çektiğini yazar; yazarın metinlerinin liderlik ve yönetim üzerine inceleme",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Prens"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın eserini Urbino Dükü Lorenzo de' Medici'ye hitaben bir giriş mektubuyla öncelediğini yazar; mektupta yazarın, eserinin siyasi deneyimlerinden ve ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir siyaset metninin bir kişiye ithafla açılması, atlasın şu kuralının dayanağıdır: bu dosyada eserden çıkarılan hiçbir önerme, kimin için yazıldığı belirtilmed",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "bölüm).",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir siyasi metnin iktidara geliş biçimlerine göre bölümlenmesi, eserin bir öğüt kitabı olduğu kadar bir sınıflandırma denemesi de olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yazar için tutulan ayrı bir kayıt, bir felsefe ansiklopedisinde onunla ilgili bir maddeye rastlayan herkesin neden Machiavelli sorusunu sorabileceğini yazar ve ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yazarın bir eseri bölüm bölüm sınıflandırırken külliyatının bütününün sistemsiz sayılması, atlasın eser dosyaları ile düşünür dosyalarını neden ayrı tuttuğ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yazarın bir eseri bölüm bölüm sınıflandırırken külliyatının bütününün sistemsiz sayılması, atlasın eser dosyaları ile düşünür dosyalarını neden ayrı tuttuğ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yazar dosyasında, dönem ise dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

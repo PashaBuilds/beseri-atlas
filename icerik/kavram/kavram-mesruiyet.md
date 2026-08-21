@@ -20,6 +20,7 @@ ilgili:
   - kavram-ictihad
   - kavram-hukuk-devleti
   - kavram-patrimonyalizm
+  - kaynak-machiavelli-prens
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

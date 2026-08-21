@@ -1,0 +1,79 @@
+{
+  "id": "kaynak-thukydides-peloponnesos",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:35:44.459Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eseri Peloponez Savaşı'nın Tarihi başlığıyla işler ve yazarını batı tarih yazımının gelişimindeki kilit figürlerden biri sayar; bu nedenle yönteminin tar",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tarihsel yöntem başlığı altında beş alt başlık tutar: kronoloji, konuşmalar, tarafsızlık, dinin rolü ve mitin akılcılaştırılması.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir antik metnin yönteminin beş ayrı ölçüte göre değerlendirilmesi, atlasın kaynak dosyalarında neden yalnızca içeriği değil yöntemi de kaydettiğinin dayanağıdı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın katı bir kronoloji ölçütü uygulayan ilk batılı tarihçilerden biri olduğunu, olayları yıl yıl kaydettiğini ve her yılın bir yaz sefer mevsimi ile",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Karşılaştırılan yazar için tutulan bir başka madde, onu MÖ yaklaşık 484-425 arasına yerleştirir ve tarihin babası diye anıldığını yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın söz konusu olayı ayrıntılandırmak için konuşmalardan geniş biçimde yararlandığını; uzun birinci şahıs konuşmaların modern tarih yöntemine bir öl",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yunan"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bunlar arasında generallerin savaş öncesi birliklere hitapları, Atinalı ve Spartalı liderlerin siyasi konuşmaları ile taraflar arasındaki tartışmalar sayılır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir tarih metninin içindeki konuşmaların yazarın kendi kurgusu mu yoksa aktarım mı olduğu sorusu, atlasın birincil kaynak dosyasında kaydettiği güçlü ve zayıf y",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yüzyıllarda bir başka yazarın metinlerinde de görüşün yalnızca metindeki başka kişiler üzerinden aktarıldığı kaydedilir; kaynak o yazarın dolaylılığına ve ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yorumun bazı güçlükleri başlığı altında kompozisyon katmanları, kaynaklar ve eleştirel değerlendirmeler alt başlıklarını tutar; ayrıca elyazmalarına ve ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir eserin elyazması geleneğinin ayrı bir bölüm taşıması, atlasın kaynak alanında neden erişilen sürümü kaydettiğinin dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

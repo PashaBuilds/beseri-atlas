@@ -15,6 +15,7 @@ ilgili:
   - dusunur-herodotos
   - kavram-arkeolojik-kanit
   - kavram-sozlu-tarih
+  - kaynak-thukydides-peloponnesos
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

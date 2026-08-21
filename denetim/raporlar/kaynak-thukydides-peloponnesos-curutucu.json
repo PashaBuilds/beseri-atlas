@@ -1,0 +1,14 @@
+{
+  "id": "kaynak-thukydides-peloponnesos",
+  "gecis": 3,
+  "zaman": "2026-08-21T10:35:45.039Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, yazarın katı bir kronoloji ölçütü uygulayan ilk batılı tarihçilerden biri olduğunu, olayları yıl yıl kaydettiğini ve her yılın bir yaz sefer mevsimi ile daha az hareketli b",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

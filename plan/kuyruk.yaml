@@ -2549,7 +2549,7 @@ isler:
   - id: kaynak-thukydides-peloponnesos
     tip: kaynak
     baslik: Thukydides — Peloponnesos Savaşı
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2565,7 +2565,7 @@ isler:
   - id: kaynak-machiavelli-prens
     tip: kaynak
     baslik: Machiavelli — Prens
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

@@ -17,6 +17,7 @@ ilgili:
   - kavram-asabiyet
   - dusunur-platon
   - dusunur-tacitus
+  - kaynak-thukydides-peloponnesos
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

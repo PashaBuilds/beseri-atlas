@@ -17,6 +17,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-locke
   - dusunur-clausewitz
+  - kaynak-machiavelli-prens
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

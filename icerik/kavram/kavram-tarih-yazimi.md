@@ -15,6 +15,7 @@ ilgili:
   - dusunur-carr
   - kavram-ikincil-kaynak
   - kavram-sozlu-tarih
+  - kaynak-thukydides-peloponnesos
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
