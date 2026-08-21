@@ -1,0 +1,14 @@
+{
+  "id": "veri-demokrasi-endeksi",
+  "gecis": 3,
+  "zaman": "2026-08-21T12:37:37.879Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Ülke dağılımı, rejim türleri ve endeksin alt bileşenleri burada ele alınmamıştır; bu dosya tek bir sütunun yıl bazlı değerlerini taşır.[^k1]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

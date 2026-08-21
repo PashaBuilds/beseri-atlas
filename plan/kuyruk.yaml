@@ -2829,7 +2829,7 @@ isler:
   - id: veri-demokrasi-endeksi
     tip: veri
     baslik: Demokrasi endeksi
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

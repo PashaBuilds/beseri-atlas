@@ -15,6 +15,7 @@ ilgili:
   - olay-versailles-antlasmasi
   - tartisma-milliyetcilik-ne-zaman
   - tartisma-vestfalya-miti
+  - veri-demokrasi-endeksi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -24,6 +24,7 @@ ilgili:
   - kaynak-aristoteles-politika
   - kaynak-platon-devlet
   - kaynak-farabi-medinetul-fazila
+  - veri-demokrasi-endeksi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

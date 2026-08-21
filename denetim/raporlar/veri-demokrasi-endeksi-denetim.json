@@ -1,0 +1,73 @@
+{
+  "id": "veri-demokrasi-endeksi",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:37:28.272Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosyanın taşıdığı sayılar bir sayım değil, bir değerlendirmedir: sütun adı tahmin sözcüğünü içerir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sağlayıcının sütun adı electdemvdemestimatebest biçimindedir; adın kendisi değerin en iyi tahmin olduğunu kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir değerin adında tahmin sözcüğünün bulunması, atlasın şu kuralının dayanağıdır: endeks değerleri, üretim yöntemi yazılmadan aktarılmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sağlayıcının toplam satırında endeks 1789'da 0,0527, 1900'de 0,1422, 1945'te 0,1591, 1989'da 0,3602, 2000'de 0,4905 ve 2025'te 0,4828'dir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Serinin en yüksek değeri 2012'de 0,528'dir; 2025 değeri bunun altındadır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Zirvenin serinin sonunda değil ortasında bulunması, \"demokrasi sürekli yayıldı\" cümlesinin bu seriden çıkarılamayacağını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Endeksi üreten kurum için tutulan kayıt, onu İsveç'teki Göteborg Üniversitesi'nde bulunan bağımsız bir araştırma enstitüsü olarak tanımlar ve demokrasinin doğas",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İsveç, Göteborg, Üniversitesi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir endeksin belirli bir üniversitedeki belirli bir enstitüye bağlanabilmesi, değerlerin kurumsal bir yöntem tercihinin ürünü olduğunu gösterir; meşruiyetin ken",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1789'da yaklaşık 938,2 milyon, 2025'te yaklaşık 8,23 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Endeks bir orandır ve nüfusla ağırlıklandırılmamıştır; bu dosyada nüfusa göre yeniden hesaplama yapılmamıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke dağılımı, rejim türleri ve endeksin alt bileşenleri burada ele alınmamıştır; bu dosya tek bir sütunun yıl bazlı değerlerini taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

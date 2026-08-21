@@ -17,6 +17,7 @@ ilgili:
   - veri-dunya-nufusu-1500-2025
   - veri-ortalama-egitim-suresi
   - tartisma-yazinin-icadi-nerede
+  - veri-demokrasi-endeksi
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/okuryazarlik.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"
