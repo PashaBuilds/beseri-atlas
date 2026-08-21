@@ -2445,7 +2445,7 @@ isler:
   - id: tartisma-milliyetcilik-ne-zaman
     tip: tartisma
     baslik: Milliyetçilik ne zaman doğdu?
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

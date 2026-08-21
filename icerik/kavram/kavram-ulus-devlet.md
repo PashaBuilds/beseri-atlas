@@ -13,6 +13,7 @@ ilgili:
   - kavram-milliyetcilik
   - kavram-egemenlik
   - olay-versailles-antlasmasi
+  - tartisma-milliyetcilik-ne-zaman
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -17,6 +17,7 @@ ilgili:
   - kavram-kast
   - kavram-yazi-sistemi
   - tartisma-feodalite-kavrami
+  - tartisma-milliyetcilik-ne-zaman
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

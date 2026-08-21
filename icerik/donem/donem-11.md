@@ -26,6 +26,7 @@ ilgili:
   - olay-sanayi-devrimi
   - olay-latin-amerika-bagimsizligi
   - aktor-abd
+  - tartisma-milliyetcilik-ne-zaman
 okuma_onerisi: []
 serit:
   - bolge: avrupa

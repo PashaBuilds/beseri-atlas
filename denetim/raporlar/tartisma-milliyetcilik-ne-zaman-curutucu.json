@@ -1,0 +1,14 @@
+{
+  "id": "tartisma-milliyetcilik-ne-zaman",
+  "gecis": 3,
+  "zaman": "2026-08-21T11:06:45.266Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, 1772'de yayımlanan bir dil kökeni incelemesinde ortak dilin rolünün vurgulandığını ve yazarın milliyet ile yurtseverlik kavramlarına olağanüstü önem atfettiğini yazar; bir ",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

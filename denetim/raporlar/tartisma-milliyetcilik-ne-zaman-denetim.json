@@ -1,0 +1,61 @@
+{
+  "id": "tartisma-milliyetcilik-ne-zaman",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:06:44.655Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu haritanın çıkış noktası, kaynağın tarih bölümünde ayrı bir alt başlık olarak tuttuğu sorudur: milliyetçiliğin ortaya çıkışının tarihlendirilmesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılın başına yerleştirdiğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1772'de yayımlanan bir dil kökeni incelemesinde ortak dilin rolünün vurgulandığını ve yazarın milliyet ile yurtseverlik kavramlarına olağanüstü önem atf",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavramın fikirsel kökeninin belirli bir yıla ve metne bağlanması, tarihlendirme tartışmasının hangi zeminde yürüdüğünü gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak toplumbilim başlığı altında iki yorum tutar: ilkselci evrimsel yorum ve Marksçı yorumlar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Marksçı"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yorumlardan birinin adını aldığı düşünür için tutulan kayıt, toplum biçimlerinin üretici gücün gelişimine göre yükselip düştüğü fikri etrafında kurulu bir tarih",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Geriye dönük adlandırmaya dair bir kayıt, siyasi güdümlü anakronizm ile bilinçsiz anakronizmi ayrı başlıklar olarak tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu ayrımın kaydedilmesi, atlasın şu kuralının dayanağıdır: milliyetçilik terimi, bu atlasın 18.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kendisi bir tarihlendirme verirken \"sıklıkla\" kaydını düşer ve bir hüküm vermez; bu atlas da vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
