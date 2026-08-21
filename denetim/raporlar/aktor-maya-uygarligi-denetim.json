@@ -1,0 +1,79 @@
+{
+  "id": "aktor-maya-uygarligi",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:12:23.833Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bu uygarlığı tek bir devlet olarak değil, Mezoamerika'da var olmuş Maya şehir devletleri olarak tanımlar; tarih aralığı yaklaşık MÖ 2000 ile MS 1697 aras",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şehir devletleri çoğulunun kullanılması, Maya'yı Sümer örneğine yaklaştırır: ortak bir kültür, ortak bir yazı, ama tek bir merkez yok.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak başlıca yerleşim yerlerini de tek tek sayar: Chichen Itzá, Tikal, Tulum, El Mirador, Copán, Cobá, Uxmal ve Xunantunich.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın burada şehir devletleri çoğulunu kullanması, aynı siyasi biçimin Mezopotamya'da da görüldüğünü hatırlatır; dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Mezopotamya"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak dönemleri açıkça sıralar: Klasik öncesi dönem yaklaşık MÖ 2000 - MS 250, Klasik dönem yaklaşık MS 250-900, Klasik sonrası dönem yaklaşık MS 950-1539 ve t",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Klasik Maya çöküşü ayrı bir alt başlıktır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu bölümlemenin en öğretici yanı, \"çöküş\"ün ardından yedi yüzyıllık iki dönemin daha sayılmasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Maddenin bölümleri arasında \"Maya kültürünün sürekliliği\" ve \"Maya uygarlığının araştırılması\" ayrı başlıklar olarak yer alır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir uygarlığın referans maddesinde kendi sürekliliğine ayrılmış bir başlık bulunması, \"sona erme\" kavramının burada tartışmalı olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı bölgede sonra kurulan düzen, Texcoco, Tenochtitlan ve Tlacopan şehir devletlerinin oluşturduğu Üçlü İttifak'tı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu MS 200 için yaklaşık 240,8 milyon, 1500 yılında yaklaşık 503,1 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Maya yazısı, takvimi, mimarisi, dini ve şehir devletlerinin siyasi tarihi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak iş",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

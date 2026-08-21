@@ -18,6 +18,8 @@ ilgili:
   - olay-otuz-yil-savaslari
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - aktor-hollanda-doguhindistan-sirketi
+  - aktor-aztek-imparatorlugu
+  - aktor-inka-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

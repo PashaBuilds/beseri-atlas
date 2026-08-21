@@ -1,0 +1,79 @@
+{
+  "id": "aktor-inka-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:12:23.774Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl başı için yaklaşık 12 milyon kaydedilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "12 milyonluk değerin verilmesi, atlasın çoğu erken dönem aktöründe yapamadığı bir karşılaştırmayı mümkün kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1500 yılında yaklaşık 503,1 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak resmî dili Klasik Keçuva olarak verir ve ekler: Huayna Capac'ın saltanatından önce muhtemelen Aymara.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir imparatorluğun resmî dilinin, hanedanın son kuşaklarında değişmiş olabileceğinin kaydedilmesi dikkat çekicidir: dil politikası, fetihten sonra da sürmektedi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yaygın diller listesi tek bir dile indirgenemez: Keçuva dilleri, Aymara dilleri, Puquina, Mochica, Barbacoan ve daha küçük onlarca dil sayılır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu liste, imparatorluğun bir ulus-devlet olmadığını gösterir; resmî dil, konuşulanların yalnızca biridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak yönetim biçimini \"ilahi, mutlak monarşi\" olarak sınıflandırır; hükümdar unvanı Sapa İnka'dır ve hanedan listesi 1438'de başlar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Başkent Cusco'dur ve imparatorluk en geniş sınırlarına yaklaşık 1525'te ulaşmıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "En geniş sınıra ulaşma tarihi ile düzenin sonu arasındaki kısa aralık, çöküşün zirve noktasının hemen ardından geldiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Düzeni sona erdiren imparatorluk, en geniş noktasında 13,7 milyon kilometrekare alan kaplayan İspanyol İmparatorluğu'ydu.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yol ağı, kayıt tutma yöntemi, tarım düzeni ve fethin seyri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

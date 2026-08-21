@@ -16,6 +16,7 @@ etiketler: [sumer, mezopotamya, sehir-devleti, tapinak, civi-yazisi]
 ilgili:
   - donem-02
   - olay-yazinin-icadi
+  - aktor-maya-uygarligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

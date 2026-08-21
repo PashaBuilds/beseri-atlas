@@ -26,6 +26,8 @@ ilgili:
   - aktor-hansa-birligi
   - aktor-mali-imparatorlugu
   - aktor-buyuk-zimbabve
+  - aktor-aztek-imparatorlugu
+  - aktor-inka-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: avrupa

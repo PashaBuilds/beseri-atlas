@@ -1,0 +1,21 @@
+{
+  "id": "aktor-maya-uygarligi",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:12:24.217Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak bu uygarlığı tek bir devlet olarak değil, Mezoamerika'da var olmuş Maya şehir devletleri olarak tanımlar; tarih aralığı yaklaşık MÖ 2000 ile MS 1697 arasıdır.[^k1] Bu dosya,",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Şehir devletleri çoğulunun kullanılması,[^k1] Maya'yı Sümer örneğine yaklaştırır: ortak bir kültür, ortak bir yazı, ama tek bir merkez yok. Kaynak başlıca yerleşim yerlerini de tek",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

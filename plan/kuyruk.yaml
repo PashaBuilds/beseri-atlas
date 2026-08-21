@@ -1133,7 +1133,7 @@ isler:
   - id: aktor-maya-uygarligi
     tip: aktor
     baslik: Maya uygarlığı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-05
@@ -1142,7 +1142,7 @@ isler:
   - id: aktor-aztek-imparatorlugu
     tip: aktor
     baslik: Aztek İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-08
@@ -1151,7 +1151,7 @@ isler:
   - id: aktor-inka-imparatorlugu
     tip: aktor
     baslik: İnka İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-08

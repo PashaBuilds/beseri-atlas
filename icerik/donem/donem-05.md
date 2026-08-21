@@ -25,6 +25,7 @@ ilgili:
   - olay-kavimler-gocu
   - tartisma-romanin-cokus-nedeni
   - aktor-aksum-kralligi
+  - aktor-maya-uygarligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa
