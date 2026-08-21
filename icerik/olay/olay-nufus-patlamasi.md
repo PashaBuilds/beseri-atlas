@@ -16,6 +16,7 @@ ilgili:
   - donem-14
   - kavram-demografik-gecis
   - veri-dunya-nufusu-1500-2025
+  - olay-yesil-devrim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

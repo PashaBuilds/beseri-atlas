@@ -16,6 +16,7 @@ ilgili:
   - donem-15
   - aktor-sovyetler-birligi
   - olay-ekim-devrimi
+  - olay-berlin-duvarinin-yikilisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,0 +1,73 @@
+{
+  "id": "olay-yesil-devrim",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:43:34.483Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dönüşümün başlatıcıları devletler değil vakıflardır: hem Ford Vakfı hem Rockefeller Vakfı, programın Meksika'daki ilk gelişiminde yoğun biçimde yer almıştır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kıtasal ölçekli bir tarım programının iki özel vakıf tarafından başlatılması, 20.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kilit önderi tarım bilimci Norman Borlaug olarak verir; kendisi 1970'te Nobel Barış Ödülü almıştır ve bir milyardan fazla insanı kurtarmakla anılmaktadı",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir milyarı aşan bir sayının tek bir kişiye atfedilmesi, atlasın sayı okuma uyarısını gerektirir: bu, ölçülmüş bir sonuç değil bir atıf ifadesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak da \"anılmaktadır\" diyerek ifadeyi bir kayıt olarak sunar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yıllarda dünya nüfusu, uzun dönemli seride 1945'te yaklaşık 2,38 milyardan 1991'de yaklaşık 5,42 milyara çıkmıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı dönemin çatışma serisi ise 1970'ler ve 1980'lerde yılda 300.000 ölümle zirve yapmıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üç serinin — tarımsal dönüşüm, nüfus artışı ve çatışma bilançosu — aynı yıllara düşmesi, dönemin karakteristiğidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Üç serinin — tarımsal dönüşüm, nüfus artışı ve çatışma bilançosu — aynı yıllara düşmesi, dönemin karakteristiğidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Üç serinin — tarımsal dönüşüm, nüfus artışı ve çatışma bilançosu — aynı yıllara düşmesi, dönemin karakteristiğidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kullanılan tohum çeşitleri, gübre ve sulama teknolojileri, ülke ülke uygulama ve çevresel eleştiriler burada ayrı başlıklar altında ele alınmamıştır; kaynak bun",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

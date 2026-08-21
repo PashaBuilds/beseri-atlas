@@ -16,6 +16,7 @@ ilgili:
   - donem-14
   - aktor-nato
   - aktor-sovyetler-birligi
+  - olay-berlin-duvarinin-yikilisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

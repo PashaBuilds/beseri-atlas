@@ -23,6 +23,7 @@ ilgili:
   - aktor-dunya-ticaret-orgutu
   - olay-2008-finansal-krizi
   - olay-iran-devrimi-1979
+  - olay-berlin-duvarinin-yikilisi
 okuma_onerisi: []
 serit:
   - bolge: kuresel

@@ -1412,7 +1412,7 @@ isler:
   - id: olay-berlin-duvarinin-yikilisi
     tip: olay
     baslik: Berlin Duvarı'nın yıkılışı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-15
@@ -1529,7 +1529,7 @@ isler:
   - id: olay-yesil-devrim
     tip: olay
     baslik: Yeşil Devrim
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14

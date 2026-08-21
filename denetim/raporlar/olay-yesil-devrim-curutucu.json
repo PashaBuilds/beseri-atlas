@@ -1,0 +1,21 @@
+{
+  "id": "olay-yesil-devrim",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:43:34.932Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dönüşümün başlatıcıları devletler değil vakıflardır: hem Ford Vakfı hem Rockefeller Vakfı, programın Meksika'daki ilk gelişiminde yoğun biçimde yer almıştır.[^k1]",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir milyarı aşan bir sayının tek bir kişiye atfedilmesi,[^k1] atlasın sayı okuma uyarısını gerektirir: bu, ölçülmüş bir sonuç değil bir atıf ifadesidir. Kaynak da \"anılmaktadır\" di",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -38,6 +38,7 @@ ilgili:
   - aktor-baglantisizlar-hareketi
   - olay-nufus-patlamasi
   - olay-uzay-yarisi
+  - olay-yesil-devrim
 okuma_onerisi: []
 serit:
   - bolge: avrupa

@@ -11,6 +11,7 @@ ilgili:
   - veri-dunya-nufusu-1500-2025
   - donem-16
   - olay-nufus-patlamasi
+  - olay-yesil-devrim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
