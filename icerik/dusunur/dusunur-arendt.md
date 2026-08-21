@@ -15,6 +15,7 @@ ilgili:
   - dusunur-carr
   - dusunur-foucault
   - olay-ikinci-dunya-savasi
+  - kavram-kamusal-alan
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

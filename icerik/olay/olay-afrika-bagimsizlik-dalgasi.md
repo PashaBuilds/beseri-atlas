@@ -18,6 +18,7 @@ ilgili:
   - olay-berlin-konferansi
   - olay-1968-hareketleri
   - kavram-bagimlilik-kurami
+  - kavram-somurgesizlesme
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

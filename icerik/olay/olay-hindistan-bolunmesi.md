@@ -18,6 +18,7 @@ ilgili:
   - olay-1857-hint-ayaklanmasi
   - tartisma-tarihsel-sayilar-nasil-okunur
   - olay-bandung-konferansi
+  - kavram-somurgesizlesme
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

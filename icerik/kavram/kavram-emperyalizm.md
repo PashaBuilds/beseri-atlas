@@ -13,6 +13,7 @@ ilgili:
   - kavram-milliyetcilik
   - olay-berlin-konferansi
   - tartisma-imparatorluk-siniri-nasil-cizilir
+  - kavram-somurgesizlesme
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

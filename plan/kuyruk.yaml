@@ -2085,7 +2085,7 @@ isler:
   - id: kavram-somurgesizlesme
     tip: kavram
     baslik: Sömürgesizleşme
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2093,7 +2093,7 @@ isler:
   - id: kavram-kuresellesme
     tip: kavram
     baslik: Küreselleşme
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2117,7 +2117,7 @@ isler:
   - id: kavram-kamusal-alan
     tip: kavram
     baslik: Kamusal alan
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2125,7 +2125,7 @@ isler:
   - id: kavram-sivil-toplum
     tip: kavram
     baslik: Sivil toplum
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

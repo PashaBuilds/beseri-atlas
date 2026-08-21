@@ -16,6 +16,7 @@ ilgili:
   - aktor-abd
   - olay-fransiz-devrimi
   - dusunur-mill
+  - kavram-sivil-toplum
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

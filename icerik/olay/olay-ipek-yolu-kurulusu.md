@@ -16,6 +16,7 @@ ilgili:
   - donem-04
   - aktor-han-imparatorlugu
   - aktor-gokturk-kaganligi
+  - kavram-kuresellesme
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

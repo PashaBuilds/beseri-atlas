@@ -1,0 +1,55 @@
+{
+  "id": "kavram-kuresellesme",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:45:51.327Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, köken bilgisi ve kullanıma ayrı bir bölüm ayırır; tarih bölümünü dört alt başlığa böler: arkaik, erken modern, modern ve çağdaş.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak iktisadi, kültürel ve siyasi küreselleşmeyi ayrı bölümler olarak tutar; siyasi küreselleşme altında ordu ve toplumsal cinsiyet alt başlıkları vardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı olgunun üç ayrı boyutta işlenmesi, atlasın şu kuralının dayanağıdır: bu dosyada küreselleşme, hangi boyutun kastedildiği belirtilmeden bir eğilim olarak an",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yakın bir kavram için tutulan kayıt, merkez, çevre ve yarı çevre terimlerini ayrı ayrı tanımlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1500 için yaklaşık 503,1 milyon, 1900 için yaklaşık 1,65 milyar, 2020 için yaklaşık 7,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu seriyi kavramın kanıtı olarak sunmaz; nüfus toplamı bir bağlantılılık ölçüsü değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu seriyi kavramın kanıtı olarak sunmaz; nüfus toplamı bir bağlantılılık ölçüsü değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Boyutların içeriği, eleştiriler ve çağdaş tartışmalar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

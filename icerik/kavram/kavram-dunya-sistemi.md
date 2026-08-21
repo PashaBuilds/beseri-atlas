@@ -15,6 +15,7 @@ ilgili:
   - kavram-longue-duree
   - kavram-bagimlilik-kurami
   - kavram-tarihsel-materyalizm
+  - kavram-kuresellesme
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

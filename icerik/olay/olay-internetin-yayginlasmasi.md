@@ -16,6 +16,8 @@ ilgili:
   - donem-15
   - aktor-abd
   - olay-uzay-yarisi
+  - kavram-kamusal-alan
+  - kavram-kuresellesme
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

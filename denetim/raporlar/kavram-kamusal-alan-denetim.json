@@ -1,0 +1,55 @@
+{
+  "id": "kavram-kamusal-alan",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:45:51.270Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bölümlerini sıralar: tarih, tanımlar, burjuva kamusal alanı, karşı-kamular ile feminist eleştiriler ve genişletmeler, retorik ve medya.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak tanımlar bölümünü çoğul başlıkla verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavramın tanımının çoğul olarak kaydedilmesi, atlasın şu kuralının dayanağıdır: bu dosyada kamusal alan, hangi tanım kullanıldığı belirtilmeden bir iddianın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak medya başlığı altında siyasi kamusal alandaki aktörler, bir video platformu, medyanın ve internetin sınırları, sanal alan ve aracılı kamusallık alt başlı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir siyaset kavramının maddesinde teknoloji platformlarının ayrı alt başlıklar taşıması, kavramın taşıyıcısının zamanla değiştiğini gösterir; ilgili süreç dosya",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir siyaset kavramının maddesinde teknoloji platformlarının ayrı alt başlıklar taşıması, kavramın taşıyıcısının zamanla değiştiğini gösterir; ilgili süreç dosya",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kavram üzerine yazan bir düşünür için tutulan kayıt, onu yirminci yüzyılın en etkili siyaset filozoflarından biri olarak verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramın tarihi, burjuva kamusal alanı çözümlemesi ve retorik tartışması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
