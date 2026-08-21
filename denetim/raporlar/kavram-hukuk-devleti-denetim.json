@@ -1,0 +1,49 @@
+{
+  "id": "kavram-hukuk-devleti",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:10:19.325Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, erken tarih başlığı altında üç alt başlık tutar: antik Yunan, Çin ve İngiltere; modern dönemi 1500'den bugüne olarak ayrı bir alt başlıkta işler.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, hukuk kuramı ve felsefesi başlığı altında biçimci anlayış ile maddi anlayışı ayrı alt başlıklar olarak tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kavramın iki farklı anlayışla tanımlanması, atlasın şu kuralının dayanağıdır: bu dosyada hukuk devleti, hangi anlayışın kastedildiği belirtilmeden bir ölçü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, toplum bilimsel çözümlemeler başlığı altında iktisat, karşılaştırmalı yaklaşımlar ve eğitim alt başlıklarını tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kuvvetler ayrılığı önerisi için tutulan kayıt, farklı organların yasama, yürütme ve yargı gücünü ayrı ayrı kullandığı bir düzenin despotizmi önlemenin en iyi yo",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yakın bir kavram için tutulan kayıt, mutlaklık, dışlayıcılık ile hukuken ve fiilen egemenlik alt başlıklarını tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke ülke tarihler, kuramların içeriği ve ölçüm endeksleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

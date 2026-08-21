@@ -1,0 +1,37 @@
+{
+  "id": "kavram-patrimonyalizm",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:10:19.376Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bakker ve Francis Fukuyama.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kavrama dair bir zayıflık bölümü tutması, atlasın şu kuralının dayanağıdır: bu dosyada patrimonyalizm, bir yönetim biçiminin adı olarak kullanıldığında",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Listenin ilk adı için tutulan ayrı kayıt, o yazarı 1864-1920 arasına yerleştirir ve patrimonyalizmi kayda değer fikirleri arasında sayar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Devlet kuramı üzerine başka bir gelenek için tutulan kayıt, o düşünürün modern devlete dair tartışmalı bir anlatı geliştirdiğini ve daha genel olarak siyasi ile",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Betimlemelerin içeriği, örnekler ve çağdaş tartışmalar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

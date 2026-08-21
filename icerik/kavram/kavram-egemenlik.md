@@ -14,6 +14,7 @@ ilgili:
   - kavram-mesruiyet
   - dusunur-hobbes
   - kavram-ulus-devlet
+  - kavram-hukuk-devleti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

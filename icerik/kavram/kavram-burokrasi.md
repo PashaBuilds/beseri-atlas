@@ -13,6 +13,7 @@ ilgili:
   - dusunur-weber
   - kavram-imparatorluk
   - aktor-han-imparatorlugu
+  - kavram-patrimonyalizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

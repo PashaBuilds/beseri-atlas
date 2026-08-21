@@ -18,6 +18,8 @@ ilgili:
   - kavram-goksel-yetki
   - kavram-millet-sistemi
   - kavram-ictihad
+  - kavram-hukuk-devleti
+  - kavram-patrimonyalizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -20,6 +20,7 @@ ilgili:
   - aktor-qing-hanedani
   - aktor-hansa-birligi
   - olay-sanayi-devrimi
+  - kavram-para
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -15,6 +15,7 @@ ilgili:
   - dusunur-marx
   - kavram-buyuk-ayrisma
   - kavram-ilkel-birikim
+  - kavram-para
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

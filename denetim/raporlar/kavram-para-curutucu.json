@@ -1,0 +1,14 @@
+{
+  "id": "kavram-para",
+  "gecis": 3,
+  "zaman": "2026-08-21T10:10:19.928Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sekiz türün ayrı ayrı sayılması,[^k1] paranın tek bir maddi biçime bağlı olmadığını gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

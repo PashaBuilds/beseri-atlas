@@ -2253,7 +2253,7 @@ isler:
   - id: kavram-patrimonyalizm
     tip: kavram
     baslik: Patrimonyalizm
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2269,7 +2269,7 @@ isler:
   - id: kavram-hukuk-devleti
     tip: kavram
     baslik: Hukuk devleti
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2277,7 +2277,7 @@ isler:
   - id: kavram-para
     tip: kavram
     baslik: Para
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

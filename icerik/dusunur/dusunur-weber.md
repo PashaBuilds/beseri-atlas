@@ -18,6 +18,7 @@ ilgili:
   - kavram-ideal-tip
   - kavram-sekulerlesme
   - kavram-burokrasi
+  - kavram-patrimonyalizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

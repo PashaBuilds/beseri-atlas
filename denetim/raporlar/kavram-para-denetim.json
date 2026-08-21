@@ -1,0 +1,61 @@
+{
+  "id": "kavram-para",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:10:19.351Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, işlevler başlığı altında dört alt başlık tutar: değişim aracı, değer ölçüsü, ertelenmiş ödeme standardı ve değer saklama aracı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir nesnenin dört ayrı işlevle tanımlanması, atlasın şu kuralının dayanağıdır: bu dosyada para, hangi işlevinin kastedildiği belirtilmeden bir iddianın öznesi y",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, türler başlığı altında mal parası, temsilî para, itibarî para, demuraj, sikke, kâğıt para, ticari banka parası ile sayısal ya da elektronik parayı ayrı ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sekiz türün ayrı ayrı sayılması, paranın tek bir maddi biçime bağlı olmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, para arzı başlığı altında paranın yaratılması ile piyasa likiditesini ayrı alt başlıklar olarak tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Paranın yaratılmasının ayrı bir başlık olması, paranın verili bir miktar değil üretilen bir şey olarak kaydedildiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kâğıt paranın erken kaydı için tutulan ayrı bir madde, bir hanedanı 960-1279 arasına yerleştirir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dönemin iktisat yazarı için tutulan kayıt, onun ahlak kurallarının belirli örneklere verilen tepkilerden oluştuğunu savunduğunu yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Paranın tarihi, özellikleri ve türlerin ayrıntısı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -13,6 +13,7 @@ ilgili:
   - kavram-kapitalizm
   - aktor-hollanda-doguhindistan-sirketi
   - dusunur-smith
+  - kavram-para
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
