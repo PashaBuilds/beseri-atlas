@@ -16,6 +16,7 @@ ilgili:
   - donem-11
   - tartisma-bati-neden-yukseldi
   - aktor-song-hanedani
+  - dusunur-smith
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

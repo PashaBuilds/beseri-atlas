@@ -15,6 +15,9 @@ ilgili:
   - dusunur-machiavelli
   - olay-ingiliz-ic-savasi
   - dusunur-ibn-rusd
+  - dusunur-kant
+  - dusunur-locke
+  - dusunur-montesquieu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

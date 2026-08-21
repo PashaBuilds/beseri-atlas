@@ -1,0 +1,79 @@
+{
+  "id": "dusunur-montesquieu",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:56:38.564Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onu Aydınlanma'nın büyük siyaset filozoflarından biri olarak kaydeder ve çeşitli yönetim biçimlerinin, onları oldukları hâle getiren ve gelişimlerini ile",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Aydınlanma"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, onun bu açıklamayı yönetimlerin yozlaşmadan nasıl korunabileceğini açıklamak için kullandığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir siyaset kuramının önce nedenleri açıklayıp sonra bir sonuç çıkarması, bu atlasın kendi ayrımıyla örtüşür: betimleme ile öneri ayrı işlerdir ve ayrı kaydedil",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, onun despotizmi özellikle, zaten despot olmayan her yönetim için sürekli bir tehlike olarak gördüğünü ve bunun en iyi, farklı organların yasama, yürütme",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir tehlikenin bütün yönetim biçimleri için geçerli sayılması, kuramın belirli bir rejime karşı değil bir yapıya karşı kurulduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onu doymak bilmez biçimde meraklı ve iğneleyici biçimde komik olarak niteler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir ansiklopedinin bir düşünürün üslubunu ayrıca kaydetmesi, metnin nasıl yazıldığının da bir veri sayıldığını gösterir; atlas bu nitelemeyi benimsemez, kime ai",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kuvvetler ayrılığı tartışmasının sonraki uygulama alanlarından biri için ayrı bir kayıt tutulur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir önceki kuşağın düşünürü için tutulan kayıt, onu Britanyalı filozof, Oxford akademisyeni ve tıp araştırmacısı olarak verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kanunların Ruhu'nun içeriği, iklim kuramı, hukuk görüşleri ve sonraki alımlanması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler o",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ruhu"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dusunur-locke",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:56:39.055Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Kaynak, *İnsan Anlığı Üzerine Bir Deneme*'yi (1689) modern deneyciliğin ilk büyük savunmalarından biri olarak niteler ve eserin geniş bir konu yelpazesinde insan anlayışının sınırl",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, *İnsan Anlığı Üzerine Bir Deneme*'yi (1689) modern deneyciliğin ilk büyük savunmalarından biri olarak niteler ve eserin geniş bir konu yelpazesinde insan anlayışının sınırl",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

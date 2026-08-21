@@ -1,0 +1,79 @@
+{
+  "id": "dusunur-locke",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:56:38.531Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onu 1632 doğumlu, 1704'te ölmüş bir Britanyalı filozof, Oxford akademisyeni ve tıp araştırmacısı olarak kaydeder.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Anthony Ashley Cooper ile ilişkisinin onu sırasıyla ticaret ve sömürgeler hakkında bilgi toplamakla görevli bir devlet memuru hâline getirdiğini yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir filozofun ansiklopedi maddesinde görevlerinin ad ad sayılması, atlasın düşünür dosyalarında neden yalnızca metinlere değil kişinin bulunduğu kurumlara da ba",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yüzyıllarda söz konusu ticaret alanına dair ayrı bir kayıt tutulur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki kaydın yan yana durması, okurun kendi bağlantısını kurabilmesi için yeterlidir; hakemlik bu dosyanın işi değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki kaydın yan yana durması, okurun kendi bağlantısını kurabilmesi için yeterlidir; hakemlik bu dosyanın işi değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, İnsan Anlığı Üzerine Bir Deneme'yi (1689) modern deneyciliğin ilk büyük savunmalarından biri olarak niteler ve eserin geniş bir konu yelpazesinde insan ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir eserin konusunun bilginin sınırını çizmek olarak tanımlanması, bu atlasın kendi kurallarıyla aynı soruyu sorar: neyi söyleyebiliriz ve neyi söyleyemeyiz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir önceki kuşağın siyaset düşünürü için tutulan kayıt, onun 1640 sonunda İngiltere'den ayrıldığını ve 1651'e kadar dönmediğini yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki düşünürün de aynı yüzyılın siyasi çalkantılarıyla birlikte kaydedilmesi, siyaset felsefesinin bu yüzyılda soyut bir uğraş olarak yazılmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki düşünürün de aynı yüzyılın siyasi çalkantılarıyla birlikte kaydedilmesi, siyaset felsefesinin bu yüzyılda soyut bir uğraş olarak yazılmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bilgi kuramı, siyaset felsefesi, mülkiyet kuramı ve din görüşleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

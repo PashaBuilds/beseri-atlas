@@ -15,6 +15,7 @@ ilgili:
   - dusunur-hobbes
   - olay-ronesans
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - dusunur-locke
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

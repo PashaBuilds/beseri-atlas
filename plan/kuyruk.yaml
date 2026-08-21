@@ -1709,7 +1709,7 @@ isler:
   - id: dusunur-locke
     tip: dusunur
     baslik: John Locke
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1717,7 +1717,7 @@ isler:
   - id: dusunur-montesquieu
     tip: dusunur
     baslik: Montesquieu
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1725,7 +1725,7 @@ isler:
   - id: dusunur-smith
     tip: dusunur
     baslik: Adam Smith
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1733,7 +1733,7 @@ isler:
   - id: dusunur-kant
     tip: dusunur
     baslik: Immanuel Kant
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

@@ -18,6 +18,7 @@ ilgili:
   - aktor-ispanyol-imparatorlugu
   - aktor-ingiliz-doguhindistan-sirketi
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - dusunur-locke
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

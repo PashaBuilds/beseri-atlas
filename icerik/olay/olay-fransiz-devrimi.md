@@ -20,6 +20,7 @@ ilgili:
   - olay-viyana-kongresi
   - olay-1848-devrimleri
   - olay-napolyon-savaslari
+  - dusunur-montesquieu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

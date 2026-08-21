@@ -1,0 +1,91 @@
+{
+  "id": "dusunur-kant",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:56:38.479Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onu 1724-1804 arasında yaşamış, modern felsefenin merkezî figürü olarak kaydeder ve erken modern akılcılık ile deneyciliği sentezlediğini yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak üç Eleştiri'yi künyeleriyle sıralar: Saf Aklın Eleştirisi (1781, 1787), Pratik Aklın Eleştirisi (1788) ve Yargı Gücünün Eleştirisi (1790).",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İlk eserin iki yılla birden verilmesi, o eserin iki farklı baskısı bulunduğu anlamına gelir; atlasın kaynak alanında erişilen sürümü tutmasının nedeni budur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı örüntü dosyasında da görülür: kaynak orada da aynı eserin iki farklı baskısını ayrı ayrı kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, eleştirel felsefesinin özellikle üç Eleştiri'deki temel fikrinin insan özerkliği olduğunu yazar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Eleştiri"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir külliyatın tek bir kavrama indirgenmesi, kaynağın kendi özetleme kararıdır; atlas bu özeti bir olgu olarak değil, kaynağın yorumu olarak taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, insan anlığının bütün deneyimimizi yapılandıran genel doğa yasalarının kaynağı olduğunu ve insan aklının kendisine ahlak yasasını verdiğini savunduğunu ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üç ayrı alanın tek bir temele bağlanması, bir kuramın iddia yapısını gösterir; atlas bu yapıyı doğru ya da yanlış saymaz, aktarır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, bugün hâlâ metafizik, bilgi kuramı, etik, siyaset felsefesi, estetik ve başka alanlarda önemli bir etki uyguladığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Altı alanın sayılması, bir düşünürün etkisinin de bölümlenebilir bir kayıt olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Üç Eleştiri'nin yayımlandığı on yıllardaki siyasi olay için ayrı bir kayıt tutulur.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Eleştiri"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aşkınsal idealizm, kategoriler, ödev ahlakı ve estetik kuramı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

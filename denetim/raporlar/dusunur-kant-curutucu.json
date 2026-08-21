@@ -1,0 +1,21 @@
+{
+  "id": "dusunur-kant",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:56:39.052Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir külliyatın tek bir kavrama indirgenmesi,[^k1] kaynağın kendi özetleme kararıdır; atlas bu özeti bir olgu olarak değil, kaynağın yorumu olarak taşır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Üç ayrı alanın tek bir temele bağlanması,[^k1] bir kuramın iddia yapısını gösterir; atlas bu yapıyı doğru ya da yanlış saymaz, aktarır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

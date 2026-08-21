@@ -1,0 +1,79 @@
+{
+  "id": "dusunur-smith",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:56:38.606Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onun ahlak felsefesinin kapsamlı ve alışılmadık bir sürümünü geliştirdiğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, onun kitabına sempati anlatısıyla başladığını ve sempatiyi, başkalarının koşullarında nasıl hissedeceğimizi hayal ettiğimizde ortaya çıkan bir şey olara",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak iki anlatıya iki ayrı ad verir: biri bulaşma, diğeri yansıtma anlatısı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, onun eyleme yönelik iki tür normatif kılavuz ayırt ettiğini yazar: kurallar ve erdemler; ahlak kurallarının belirli örneklere verdiğimiz tepkiler temeli",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuralların örneklerden türetildiğinin yazılması, normların yukarıdan değil tepkilerden oluştuğu bir kurguyu gösterir; atlas bu kurguyu doğru ya da yanlış saymaz",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, onun ahlak kuramının ahlaki pratiğe kılavuzluk etmesi gerektiğini düşündüğünü ve çeşitli ahlaki yargı türlerini nasıl yürüttüğümüze dair ince ayrımlı bi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuramcının yöntem tercihini gerekçelendirmesi, bu atlasın yöntem notlarını neden ayrı bir dosyada tuttuğunun eski bir örneğidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı on yıllarda başlayan iktisadi dönüşüm için ayrı bir kayıt tutulur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki kayıt arasında bir neden bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas iki kayıt arasında bir neden bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir önceki kuşağın düşünürü için tutulan kayıt, eserinin insan anlayışının sınırlarını belirlemekle ilgilendiğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ulusların Zenginliği, iş bölümü, tarafsız gözlemci kavramı ve iktisat kuramı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Zenginliği"
+    }
+  ]
+}
