@@ -17,6 +17,7 @@ ilgili:
   - aktor-osmanli-imparatorlugu
   - aktor-ming-hanedani
   - aktor-babur-imparatorlugu
+  - olay-iran-devrimi-1979
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

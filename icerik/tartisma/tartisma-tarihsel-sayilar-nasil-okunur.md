@@ -37,6 +37,7 @@ ilgili:
   - olay-amerikan-ic-savasi
   - olay-kultur-devrimi
   - olay-covid-19-pandemisi
+  - olay-atlantik-kole-ticareti
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

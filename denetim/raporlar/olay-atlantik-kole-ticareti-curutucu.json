@@ -1,0 +1,14 @@
+{
+  "id": "olay-atlantik-kole-ticareti",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:39:09.929Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Üç aşamanın toplamı dört yüzyılı aşar.[^k1] Bu süre, atlasın kronolojik omurgasında birden fazla dönemi keser ve ticareti tek bir dönemin olayı olmaktan çıkarır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

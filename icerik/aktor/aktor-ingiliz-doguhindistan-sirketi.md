@@ -18,6 +18,7 @@ ilgili:
   - olay-hindistan-bolunmesi
   - aktor-britanya-imparatorlugu
   - aktor-hollanda-doguhindistan-sirketi
+  - olay-atlantik-kole-ticareti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

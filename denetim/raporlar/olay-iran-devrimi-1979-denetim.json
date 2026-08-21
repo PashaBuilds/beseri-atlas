@@ -1,0 +1,67 @@
+{
+  "id": "olay-iran-devrimi-1979",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:39:09.512Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu devrimin arka planı, kaynağın kendi bölümlemesinde uzun bir dizi olarak verilir: Anglo-İran Petrol Şirketi meselesi 1951-1952, İran darbesi ve ABD etkisi, Be",
+      "durum": "OK",
+      "not": "7 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Beyaz Devrim ile Humeyni'nin sürgünü aynı yılları — 1963-1979 — kaplar.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki sürecin aynı aralıkta ve ayrı başlıklar altında verilmesi, devrimin bir reform programı ile ona yönelen muhalefetin eş zamanlı olgunlaşması olarak kurguland",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, sürgün bölümünün altında devrimin ideolojisi ile muhalefet grupları ve örgütlerini ayrı alt başlıklar olarak verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Muhalefetin çoğul olarak sayılması, devrimin tek bir hareketin ürünü olmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1970-1977 için tek bir başlık, ardından patlak veriş için ayrı bir alt başlık ve 1978 için ayrı bir \"önsöz\" bölümü kullanır; protestoların başlangıcı bu",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "On yılın tek başlıkta, tek yılın birden fazla başlıkta toplanması, anlatının son evrede hızlandığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Devrimin öncesindeki on yıl, petrolün fiyatının küresel olarak yaklaşık yüzde 300 arttığı yıllardı: varil başına 3 ABD dolarından yaklaşık 12 ABD dolarına.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1991'de yaklaşık 5,42 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Devrimin seyri, kurulan rejimin yapısı, dış politika sonuçları ve sonraki dönemler burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

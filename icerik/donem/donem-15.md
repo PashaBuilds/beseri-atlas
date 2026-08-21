@@ -22,6 +22,7 @@ ilgili:
   - aktor-avrupa-birligi
   - aktor-dunya-ticaret-orgutu
   - olay-2008-finansal-krizi
+  - olay-iran-devrimi-1979
 okuma_onerisi: []
 serit:
   - bolge: kuresel

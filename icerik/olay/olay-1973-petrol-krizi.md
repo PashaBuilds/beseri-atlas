@@ -16,6 +16,7 @@ ilgili:
   - donem-14
   - olay-bretton-woods
   - olay-suveys-krizi
+  - olay-iran-devrimi-1979
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

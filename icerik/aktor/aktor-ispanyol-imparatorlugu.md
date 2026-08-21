@@ -20,6 +20,7 @@ ilgili:
   - aktor-hollanda-doguhindistan-sirketi
   - aktor-aztek-imparatorlugu
   - aktor-inka-imparatorlugu
+  - olay-atlantik-kole-ticareti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

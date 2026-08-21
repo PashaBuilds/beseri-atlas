@@ -25,6 +25,7 @@ ilgili:
   - olay-yedi-yil-savasi
   - aktor-hollanda-doguhindistan-sirketi
   - aktor-tokugawa-sogunlugu
+  - olay-atlantik-kole-ticareti
 okuma_onerisi: []
 serit:
   - bolge: avrupa

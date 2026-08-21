@@ -1,0 +1,55 @@
+{
+  "id": "olay-atlantik-kole-ticareti",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:39:09.432Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl boyunca sürdü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üç aşamanın toplamı dört yüzyılı aşar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ticaret hem Avrupa'dan hem Yeni Dünya'dan gelen köle gemileriyle yürütülüyordu; bazı seferler, özellikle erken evrelerde, üçgen ticaret rotasını ve Orta Geçiş'i",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir ticaretin kendi adlandırılmış rotasına sahip olması, onu tekil seferlerin toplamı değil kurumsallaşmış bir sistem yapar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı madde, kölelik başlığı altında başka düzenleri de sıralar: Abbâsî Hilafeti'nde, Endülüs'te, Râşidîn ve Emevî hilafetlerinde ve Memlük Sultanlığı'nda köleli",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ticaretin yöneldiği kıtadaki düzen, en geniş noktasında 13,7 milyon kilometrekare alan kaplayan ve Amerika, Afrika, Asya ile Okyanusya'da toprak taşıyan İspanyo",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1600'de yaklaşık 516,1 milyon, 1848'de yaklaşık 1,27 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ticaretin bölge bölge dökümü, gemi kayıtları, kaldırılma süreci ve toplumsal sonuçları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölüm",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

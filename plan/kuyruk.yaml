@@ -1106,7 +1106,7 @@ isler:
   - id: olay-atlantik-kole-ticareti
     tip: olay
     baslik: Atlantik köle ticareti
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-10
@@ -1340,7 +1340,7 @@ isler:
   - id: olay-iran-devrimi-1979
     tip: olay
     baslik: İran Devrimi
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-15
