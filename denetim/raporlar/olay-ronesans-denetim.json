@@ -1,0 +1,73 @@
+{
+  "id": "olay-ronesans",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:29:24.422Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dönemin referans maddesi, kendi varlığını sorgulayan bir başlık taşır: tarih ve çalışma bölümünde Keşifler Çağı ve Yüksek Rönesans ile birlikte bir süreklili",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Keşifler, Çağı, Yüksek, Rönesans"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir dönem adının, o dönemin referans maddesinde bir tez başlığıyla birlikte anılması, adın kendisinin bir yorum olduğunu gösterir: \"yeniden doğuş\" nitelemesi, ö",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kökenler bölümü dört alt başlık taşır: Rönesans hümanizminin Latin ve Yunan evreleri, İtalya'daki toplumsal ve siyasi yapılar, Kara Ölüm ve Floransa'da",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kültürel dönemin kökenleri arasında bir pandeminin sayılması, demografik kırılma ile kültürel değişim arasında bir bağ kurulduğunu gösterir; salgın dosyasın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın özellikler bölümü hümanizm, hümanizm ve kütüphaneler, sanat, matbaa, denizcilik ve coğrafya, din ile doğa felsefesini birlikte sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Listede bir düşünce akımı, bir kurum türü, bir teknoloji ve bir bilim alanı yan yana durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bölgeleri ayrı ayrı ele alır: İngiltere, Fransa, Almanya, İtalya, Polonya, Portekiz, İspanya, İskoçya, Kuzey Avrupa ve Aşağı Ülkeler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "On ayrı bölge başlığı, dönemin tek bir merkezden yayılan tekbiçimli bir olgu olmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı dönemde Doksan Beş Tez 1517'de yazıldı ve hareketin katkıda bulunan etkenleri arasında Kuzey Rönesansı, Hristiyan hümanizmi ve Johannes Gutenberg ile matba",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1600'de yaklaşık 516,1 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sanat tarihi, tek tek düşünürler, mimari ve bilim tarihi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -27,6 +27,7 @@ ilgili:
   - olay-kavimler-gocu
   - aktor-bizans-imparatorlugu
   - olay-justinyen-vebasi
+  - olay-ronesans
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

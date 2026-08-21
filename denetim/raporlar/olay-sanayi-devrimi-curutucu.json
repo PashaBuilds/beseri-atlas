@@ -1,0 +1,21 @@
+{
+  "id": "olay-sanayi-devrimi",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:29:24.896Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Üç bölgenin birlikte verilmesi,[^k1] olgunun tek bir ülkeye ait olmadığını gösterir; ancak sıralamada Britanya'nın önce gelmesi, başlangıç noktasına dair bir tercih taşır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Teknolojik yeniliklerin tek tek tarihi, çalışma koşulları, kentleşme ve çevresel sonuçlar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

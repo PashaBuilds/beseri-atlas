@@ -1,0 +1,85 @@
+{
+  "id": "olay-napolyon-savaslari",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:29:24.353Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu savaş dizisinin yapısı, kaynağın kendi bölümlemesinde koalisyon numaralarıyla verilir: Üçüncü Koalisyon Savaşı 1805, Dördüncü Koalisyon Savaşı 1806-1807, Yar",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir çatışma dizisinin koalisyon numaralarıyla anılması, karşı tarafın her seferinde yeniden kurulduğunu gösterir: aynı düşmana karşı art arda yedi ittifak.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, tek bir savaştan çok, tekrar eden bir ittifak kurma girişimidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak \"yan savaşlar\" başlığı altında 1812 Savaşı'nı, Latin Amerika devrimlerini ve Berberi Savaşları'nı sayar.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir Avrupa savaşının yan başlıklarında Amerika kıtası ve Kuzey Afrika'nın yer alması, çatışmanın coğrafi kapsamını Avrupa'nın ötesine taşır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın askerî miras bölümü üç alt başlık taşır: genişleyen kapsam, yenilikler ve topyekûn savaş.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı maddede askerî istihbaratın kullanımı da ayrı bir bölüm olarak ele alınır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Topyekûn savaş kavramının bu dönemin mirası olarak sayılması, 20.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, savaşın iktisadi boyutunu ayrı başlıklarla verir: Britanya'nın motivasyonları, iktisadi savaş ve savaşın finansmanı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Finansmanın ayrı bir başlık olması, uzun süreli savaşların bir mali kapasite sınavı olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Savaşların ardından kurulan düzenin çerçevesi kongreden önce çizilmişti: büyük güçler ortak konumlarını Chaumont Antlaşması'nda (Mart 1814) belirlemişti ve bu a",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 1848'de yaklaşık 1,27 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Muharebelerin seyri, komutanların kararları, Kıta Ablukası ve savaşların siyasi sonuçları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bö",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kıta, Ablukası"
+    }
+  ]
+}

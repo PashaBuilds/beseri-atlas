@@ -1,0 +1,14 @@
+{
+  "id": "olay-napolyon-savaslari",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:29:24.891Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, tek bir savaştan çok, tekrar eden bir ittifak kurma girişimidir.[^k1] Atlas bu okumayı kaynağın kendi numaralandırmasına dayandırır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

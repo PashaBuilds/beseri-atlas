@@ -16,6 +16,7 @@ ilgili:
   - donem-09
   - olay-otuz-yil-savaslari
   - olay-vestfalya-barisi
+  - olay-ronesans
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

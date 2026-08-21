@@ -23,6 +23,7 @@ ilgili:
   - donem-16
   - aktor-song-hanedani
   - olay-cheng-ho-seferleri
+  - olay-sanayi-devrimi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

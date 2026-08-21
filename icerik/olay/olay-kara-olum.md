@@ -17,6 +17,7 @@ ilgili:
   - olay-mogol-fetihleri
   - olay-justinyen-vebasi
   - olay-amerikanin-kesfi
+  - olay-ronesans
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

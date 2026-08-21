@@ -1,0 +1,67 @@
+{
+  "id": "olay-sanayi-devrimi",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:29:24.487Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bu olguyu bir olay olarak değil bir kayma olarak tanımlar: yaklaşık 1760-1840 arasında tarımsal çağdan sanayi çağına geçiş.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Adı \"devrim\" olan bir olgunun kendi tanımında \"kayma\" kelimesinin geçmesi, sürenin uzunluğuyla ilgilidir: seksen yıla yayılan bir dönüşüm, bir olayın zaman ölçe",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak konumu Büyük Britanya, Batı Avrupa ve Kuzey Amerika olarak verir; anahtar olay olarak mekanikleşmiş dokuma üretimini sayar.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üç bölgenin birlikte verilmesi, olgunun tek bir ülkeye ait olmadığını gösterir; ancak sıralamada Britanya'nın önce gelmesi, başlangıç noktasına dair bir tercih ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, olguyu proto-sanayileşme ve İkinci Sanayi Devrimi ile birlikte konumlandırır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İkinci, Sanayi, Devrimi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir sürecin hem öncesine hem sonrasına ayrı ad verilmesi, 1760-1840 aralığının bir başlangıç değil bir orta evre olduğunu düşündürür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "yüzyıldaki yeniliği olmasa sürecekti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı teknik geçişin çok daha erken ve başka bir kıtada gerçekleşmiş olması, \"neden burada ve neden o zaman\" sorusunu doğurur; soru haritasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 1848'de yaklaşık 1,27 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Teknolojik yeniliklerin tek tek tarihi, çalışma koşulları, kentleşme ve çevresel sonuçlar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bö",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

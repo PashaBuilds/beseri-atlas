@@ -19,6 +19,7 @@ ilgili:
   - olay-cheng-ho-seferleri
   - aktor-qing-hanedani
   - aktor-hansa-birligi
+  - olay-sanayi-devrimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

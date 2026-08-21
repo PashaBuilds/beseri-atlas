@@ -29,6 +29,7 @@ ilgili:
   - aktor-aztek-imparatorlugu
   - aktor-inka-imparatorlugu
   - aktor-memluk-devleti
+  - olay-ronesans
 okuma_onerisi: []
 serit:
   - bolge: avrupa

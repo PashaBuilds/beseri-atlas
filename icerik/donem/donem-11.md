@@ -22,6 +22,8 @@ ilgili:
   - olay-fransiz-devrimi
   - olay-haiti-devrimi
   - olay-viyana-kongresi
+  - olay-napolyon-savaslari
+  - olay-sanayi-devrimi
 okuma_onerisi: []
 serit:
   - bolge: avrupa
