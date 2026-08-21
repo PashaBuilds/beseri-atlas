@@ -19,6 +19,7 @@ ilgili:
   - donem-12
   - olay-tanzimat-fermani
   - olay-istanbulun-fethi
+  - aktor-safevi-devleti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -16,6 +16,7 @@ ilgili:
   - donem-09
   - olay-reform
   - olay-vestfalya-barisi
+  - aktor-ispanyol-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

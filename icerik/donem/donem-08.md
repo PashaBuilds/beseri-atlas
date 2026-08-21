@@ -22,6 +22,7 @@ ilgili:
   - olay-kara-olum
   - olay-cheng-ho-seferleri
   - olay-istanbulun-fethi
+  - aktor-ming-hanedani
 okuma_onerisi: []
 serit:
   - bolge: avrupa

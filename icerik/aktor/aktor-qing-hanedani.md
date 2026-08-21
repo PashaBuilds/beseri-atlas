@@ -17,6 +17,7 @@ ilgili:
   - olay-taiping-isyani
   - aktor-song-hanedani
   - olay-cin-devrimi-1949
+  - aktor-ming-hanedani
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

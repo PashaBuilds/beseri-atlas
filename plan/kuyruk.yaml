@@ -850,7 +850,7 @@ isler:
   - id: aktor-ming-hanedani
     tip: aktor
     baslik: Ming hanedanı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-08
@@ -859,7 +859,7 @@ isler:
   - id: aktor-safevi-devleti
     tip: aktor
     baslik: Safevi Devleti
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-09
@@ -868,7 +868,7 @@ isler:
   - id: aktor-babur-imparatorlugu
     tip: aktor
     baslik: Babür İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-09
@@ -877,7 +877,7 @@ isler:
   - id: aktor-ispanyol-imparatorlugu
     tip: aktor
     baslik: İspanyol İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-09

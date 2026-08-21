@@ -23,6 +23,9 @@ ilgili:
   - olay-reform
   - olay-vestfalya-barisi
   - olay-amerikanin-kesfi
+  - aktor-babur-imparatorlugu
+  - aktor-ispanyol-imparatorlugu
+  - aktor-safevi-devleti
 okuma_onerisi: []
 serit:
   - bolge: avrupa

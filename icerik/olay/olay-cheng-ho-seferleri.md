@@ -16,6 +16,7 @@ ilgili:
   - donem-08
   - aktor-song-hanedani
   - tartisma-bati-neden-yukseldi
+  - aktor-ming-hanedani
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

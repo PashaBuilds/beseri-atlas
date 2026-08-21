@@ -17,6 +17,7 @@ ilgili:
   - aktor-ingiliz-doguhindistan-sirketi
   - olay-meiji-restorasyonu
   - olay-hindistan-bolunmesi
+  - aktor-babur-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

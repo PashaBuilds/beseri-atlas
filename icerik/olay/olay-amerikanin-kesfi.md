@@ -16,6 +16,7 @@ etiketler: [kolomb-degisimi, "1492", misir, patates, salgin]
 ilgili:
   - donem-09
   - olay-kara-olum
+  - aktor-ispanyol-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,0 +1,55 @@
+{
+  "id": "aktor-babur-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T06:42:14.593Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bâbürlüler, 1526-1858 yılları arasında Hindistan'da hüküm süren bir Türk devletidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hanedanın kurucusu ve ilk hükümdarı Çağatay Türkleri'nden Bâbür'dür; Bâbür Şah 1526'da Pânîpet Meydan Savaşı'nı kazanarak Lûdî Sultanlığı'nı ortadan kaldırdı ve",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mart 1527'de Kânvâ'da bir başka karşılaşma gerçekleşti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir devletin kuruluşunun tek bir meydan savaşına bağlanabilmesi, o savaşın öncesindeki siyasi yapının kırılganlığını da anlatır: mevcut sultanlık, bir yenilgiyi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuruluş ile son arasındaki aralık 1526-1858'dir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "10 Mayıs 1857 – 1 Kasım 1858 arasındaki ayaklanmada Bâbür İmparatorluğu ve sipahi isyancıları karşı tarafta yer alıyordu; sonuç Britanya zaferiydi ve bazı prens",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yüzyıllarda batıdaki düzen, İran'da 1501-1736 yılları arasında hüküm süren Safevî hanedanıydı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hanedanın hükümdar sıralaması, idari düzeni, mimarisi ve din politikası burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları tek bir uzun bölümde işle",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "aktor-ispanyol-imparatorlugu",
+  "gecis": 3,
+  "zaman": "2026-08-21T06:42:15.022Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, ifadenin arkasındaki büyüklüğü verir: 1700'lerin sonu ve 1800'lerin başındaki en geniş noktasında İspanyol İmparatorluğu 13,7 milyon kilometrekare alan kaplıyordu ve bu onu",
+      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Saltanatının başında ilk İspanyol Bourbon'u Kral V. Felipe, hükümetin danışma niteliğindeki Polisinodyal Konseyler Sistemi'nin yerine, Fransa'da yapıldığı gibi hükümdarın yürütme g",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

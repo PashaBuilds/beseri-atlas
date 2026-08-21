@@ -1,0 +1,79 @@
+{
+  "id": "aktor-ming-hanedani",
+  "gecis": 2,
+  "zaman": "2026-08-21T06:39:36.905Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Ming hanedanı, resmî adıyla Büyük Ming, Moğol önderliğindeki Yuan hanedanının çöküşünün ardından 1368'den 1644'e kadar Çin'i yöneten bir imparatorluk hanedanıyd",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Başkent düzeni tekil değildir: Nanjing 1368-1644, Pekin ise 1403-1644 arası başkent olarak kaydedilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak Ming'i, Çin'in çoğunluk etnik grubu olan Han halkı tarafından yönetilen son imparatorluk hanedanı olarak niteler.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Buna karşılık imparatorluğun dilleri arasında resmî Mandarin'in yanında diğer Çin dilleri, Türki, Eski Uygurca, Tibetçe, Moğolca ve Jurchen sayılır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Din tarafında da aynı çokluk vardır: Gök ibadeti, Taoizm, Konfüçyüsçülük, Budizm, Çin halk dini, İslam ve Roma Katolikliği aynı listede yer alır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Gök, Taoizm, Konfüçyüsçülük, Budizm"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın hanedanı bir etnik gruba bağlarken tebaanın dillerini ve dinlerini uzun listeler hâlinde vermesi, nitelemenin yönetici katmanı anlattığını gösterir; yö",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yönetim biçimi mutlak monarşi olarak sınıflandırılır; ilk hükümdar Hongwu İmparatoru 1368-1398 arasında hüküm sürmüştür.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, hanedanın gerileme evresini Wanli İmparatoru'nun saltanatı ve hadımların rolü başlıklarıyla ele alır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Başlıca başkent Pekin 1644'te Li önderliğindeki bir isyana düştü.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Batı komşusundaki düzen, İran'da 1501-1736 yılları arasında hüküm süren Safevî hanedanıydı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1500'de yaklaşık 503,1 milyon, 1600'de yaklaşık 516,1 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hanedanın kuruluş savaşları, Tibet ile ilişkileri, Tumu krizi ve kuzey sınır seferleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölüm",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}
