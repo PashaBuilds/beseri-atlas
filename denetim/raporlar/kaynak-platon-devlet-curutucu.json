@@ -1,0 +1,14 @@
+{
+  "id": "kaynak-platon-devlet",
+  "gecis": 3,
+  "zaman": "2026-08-21T11:17:13.687Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak eseri *Devlet* adıyla anar ve ilk bölümünde eserin yazarın külliyatındaki yerini ayrıca işler.[^k1]",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

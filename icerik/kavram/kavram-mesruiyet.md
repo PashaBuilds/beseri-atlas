@@ -21,6 +21,8 @@ ilgili:
   - kavram-hukuk-devleti
   - kavram-patrimonyalizm
   - kaynak-machiavelli-prens
+  - kaynak-aristoteles-politika
+  - kaynak-platon-devlet
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

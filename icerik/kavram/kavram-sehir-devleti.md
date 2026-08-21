@@ -13,6 +13,8 @@ ilgili:
   - aktor-sumer-sehir-devletleri
   - aktor-hansa-birligi
   - kavram-mandala-devleti
+  - kaynak-aristoteles-politika
+  - kaynak-platon-devlet
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

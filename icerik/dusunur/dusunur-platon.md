@@ -20,6 +20,7 @@ ilgili:
   - kavram-eksen-cagi
   - kavram-ikincil-kaynak
   - tartisma-eksen-cagi-gercek-mi
+  - kaynak-platon-devlet
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

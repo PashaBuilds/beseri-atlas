@@ -1,0 +1,67 @@
+{
+  "id": "kaynak-aristoteles-politika",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:17:13.012Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eseri Politika adıyla anar; ilk bölümünü siyasi bağlama, ikincisini genel bakışa ayırır ve genel bakış altında yapı ile sekiz kitabı ayrı alt başlıklar o",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, anayasaların sınıflandırılmasına ayrı bir bölüm ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir siyaset metninin yönetim biçimlerini sınıflandırmasının ayrı bir başlık taşıması, atlasın aktör dosyalarında yönetim biçimi alanını neden ayrı tuttuğunun es",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, metnin kompozisyonuna ayrı bir bölüm ayırır ve çeviriler ile Yunanca metin için de ayrı bölümler tutar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yunanca"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir eserin kompozisyonunun kendi başlığını taşıması, metnin tek seferde ve tek elden yazılmamış olabileceğini düşündürür; aynı sorun yazarın külliyatı için de k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir eserin kompozisyonunun kendi başlığını taşıması, metnin tek seferde ve tek elden yazılmamış olabileceğini düşündürür; aynı sorun yazarın külliyatı için de k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, sekizinci kitabın altında eğitim ve müzik alt başlıklarını tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir siyaset kitabının müzikle bitmesi, siyaset kavramının kapsamının bugünkü kullanımdan farklı olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Hocasının aynı konudaki eseri için tutulan kayıt, o eserin kitaplarını konu ve satır aralığıyla birlikte sıraladığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

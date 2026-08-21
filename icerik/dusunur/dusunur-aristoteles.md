@@ -17,6 +17,7 @@ ilgili:
   - kavram-asabiyet
   - dusunur-farabi
   - dusunur-ibn-rusd
+  - kaynak-aristoteles-politika
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

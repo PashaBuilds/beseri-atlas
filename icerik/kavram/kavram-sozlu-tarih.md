@@ -13,6 +13,7 @@ ilgili:
   - kavram-birincil-kaynak
   - kavram-kaynak-elestirisi
   - kavram-tarih-yazimi
+  - kaynak-konfucyus-lunyu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

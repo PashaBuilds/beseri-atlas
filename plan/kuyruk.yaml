@@ -2933,7 +2933,7 @@ isler:
   - id: kaynak-aristoteles-politika
     tip: kaynak
     baslik: Aristoteles — Politika
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2941,7 +2941,7 @@ isler:
   - id: kaynak-platon-devlet
     tip: kaynak
     baslik: Platon — Devlet
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2949,7 +2949,7 @@ isler:
   - id: kaynak-konfucyus-lunyu
     tip: kaynak
     baslik: Konfüçyüs — Lunyu
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

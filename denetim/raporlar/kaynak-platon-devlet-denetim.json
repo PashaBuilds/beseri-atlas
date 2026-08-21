@@ -1,0 +1,55 @@
+{
+  "id": "kaynak-platon-devlet",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:17:13.054Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eseri Devlet adıyla anar ve ilk bölümünde eserin yazarın külliyatındaki yerini ayrıca işler.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Devlet"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak kitapları konu ve satır aralığıyla birlikte sıralar: birinci kitap yaşlanma, sevgi ve adaletin tanımları (327a-354c), ikinci kitap Gyges'in yüzüğü (357a-",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir metne yapılan atfın kitap adı yerine satır aralığıyla verilmesi, atlasın şu kuralının dayanağıdır: bu esere yapılan atıflar, çeviriye değil özgün metnin sat",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, birinci kitabın altında Kephalos (328e-331d), Polemarkhos (331d-336b) ve Thrasymakhos (336b-354c) için ayrı alt başlıklar tutar.",
+      "durum": "OK",
+      "not": "8 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir metnin konuşmacılarına ayrı başlık ayrılması, yazarın kendi görüşünün metinde doğrudan yer almadığı sorununu görünür kılar; o sorun dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir metnin konuşmacılarına ayrı başlık ayrılması, yazarın kendi görüşünün metinde doğrudan yer almadığı sorununu görünür kılar; o sorun dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Öğrencisinin aynı konudaki eseri için tutulan kayıt, o eserin kitap kitap bölümlendiğini ve anayasaların sınıflandırılmasına ayrı bir bölüm ayrıldığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -17,6 +17,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - kavram-eksen-cagi
   - tartisma-eksen-cagi-gercek-mi
+  - kaynak-konfucyus-lunyu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

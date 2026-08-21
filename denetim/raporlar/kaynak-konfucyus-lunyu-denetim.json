@@ -1,0 +1,55 @@
+{
+  "id": "kaynak-konfucyus-lunyu",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:17:13.033Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eseri Lunyu adıyla anar ve tarih bölümünün altında metnin oluşumu, metin tarihi, Konfüçyüsçülük içindeki önemi ve şerhler alt başlıklarını tutar.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, içerik başlığı altında toplumsal felsefe, siyaset felsefesi, eğitim ve bölümler alt başlıklarını tutar; ayrıca kayda değer çevirilere ayrı bir bölüm ayı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir metnin içeriğinin dört ayrı felsefe alanına bölünmesi, atlasın şu kuralının dayanağıdır: bu esere yapılan atıflar, hangi bölümden ve hangi konu başlığından ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yazar için tutulan ayrı bir kayıt, erken kaynakların biyografik ayrıntılar koruduğunu ama bu metindeki diyalog ve hikâyelerin çeşitli temsiller ve kaygılar yans",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı metnin hem birincil kaynak hem sonradan derlenmiş bir metin sayılabilmesi, atlasın kaynak sınıflandırması dosyasında kaydettiği sınır durumunun bir örneğid",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı metnin hem birincil kaynak hem sonradan derlenmiş bir metin sayılabilmesi, atlasın kaynak sınıflandırması dosyasında kaydettiği sınır durumunun bir örneğid",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı geleneğin bir başka metni için tutulan kayıt, sonsözdeki bir bölümün açıkça başka bir yazara atfedildiğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
