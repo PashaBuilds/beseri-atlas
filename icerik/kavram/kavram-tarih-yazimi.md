@@ -16,6 +16,7 @@ ilgili:
   - kavram-ikincil-kaynak
   - kavram-sozlu-tarih
   - kaynak-thukydides-peloponnesos
+  - kaynak-carr-tarih-nedir
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

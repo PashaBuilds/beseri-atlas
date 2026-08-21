@@ -2613,7 +2613,7 @@ isler:
   - id: kaynak-mahan-deniz-gucu
     tip: kaynak
     baslik: Mahan — Deniz Gücünün Tarihe Etkisi
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2621,7 +2621,7 @@ isler:
   - id: kaynak-braudel-akdeniz
     tip: kaynak
     baslik: Braudel — Akdeniz
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2637,7 +2637,7 @@ isler:
   - id: kaynak-carr-tarih-nedir
     tip: kaynak
     baslik: E. H. Carr — Tarih Nedir?
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

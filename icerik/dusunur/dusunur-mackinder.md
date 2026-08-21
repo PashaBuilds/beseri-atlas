@@ -17,6 +17,7 @@ ilgili:
   - aktor-rus-imparatorlugu
   - kavram-guc-dengesi
   - kaynak-mackinder-cografi-eksen
+  - kaynak-mahan-deniz-gucu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

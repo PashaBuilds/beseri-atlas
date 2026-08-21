@@ -1,0 +1,55 @@
+{
+  "id": "kaynak-carr-tarih-nedir",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:45:42.300Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarı 28 Haziran 1892'de Londra'da doğmuş, 3 Kasım 1982'de Londra'da ölmüş biri olarak kaydeder ve mesleğini tarihçi, diplomat, uluslararası ilişkiler ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "için ayrı bir bölüm tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir yöntem kitabının bir biyografi maddesinde kendi bölümünü taşıması, atlasın şu kuralının dayanağıdır: bu dosyada eser, yazarın hayatının bir ayrıntısı olarak",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, bir dergi makalesine atıfla tarihsel gerçekçilik nitelemesini kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir nitelemenin kaynağının ayrıca belirtilmesi, atlasın kaynak notlarında neden kimin söylediğini tuttuğunun dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "yüzyıl.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yüzyılın bir başka siyaset yazarı için tutulan kayıt, onu 1906-1975 arasında yaşamış bir düşünür olarak verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

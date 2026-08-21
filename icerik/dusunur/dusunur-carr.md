@@ -19,6 +19,7 @@ ilgili:
   - kavram-anakronizm
   - kavram-guc-dengesi
   - kavram-tarih-yazimi
+  - kaynak-carr-tarih-nedir
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

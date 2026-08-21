@@ -931,3 +931,10 @@ hat_duzeltmesi:
 # Faz 4 turu B05: Clausewitz Savas Uzerine, Mackinder Cografi Eksen — 2026-08-21
   - bulgu: Iki itiraz da dusuk ciddiyette ustunluk-iddiasi tipinde.
     aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.
+
+# Faz 4 turu B06: Mahan Deniz Gucu, Braudel Akdeniz, Carr Tarih Nedir — 2026-08-21
+  - bulgu: Uc kaynak dosyasi da hicbir itiraz almadi.
+    aksiyon: >-
+      Kayit icin not edildi. Telifli eserler (Braudel, Carr) icin kural
+      uygulandi: dosya metinden alinti yapmaz, yalnizca eser hakkinda
+      yazilani aktarir ve bunu "okuma yonlendirmesi" bolumunde acikca belirtir.

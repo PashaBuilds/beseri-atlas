@@ -1,0 +1,67 @@
+{
+  "id": "kaynak-mahan-deniz-gucu",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:45:42.315Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarı The Influence of Sea Power upon History ile The Influence of Sea Power upon the French Revolution and Empire adlı eserlerin yazarı olarak kaydede",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, etki bölümünün altında beş alt başlık tutar: Almanya, Birleşik Krallık, Fransa, Japonya ve Birleşik Devletler.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuramın etkisinin beş ayrı ülke başlığında işlenmesi, atlasın şu kuralının dayanağıdır: bu dosyada esere atfedilen etki cümleleri, hangi ülke için söylendiğ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, stratejik görüşlerinin kökeni ve sınırlaması diye ayrı bir bölüm tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuramcının görüşlerinin sınırının bir ansiklopedi maddesinde kendi başlığını taşıması, atlasın her dosyada bu dosyanın sınırı bölümü tutmasının karşılığıdır",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Karşıt tezin yazarı için tutulan kayıt, onun kuramını 1904'te bir bildiride formüle ettiğini yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kara gücü ile deniz gücü tezlerinin aynı on yıllara düşmesi, atlasın karşıt tezleri aynı dönem dosyasına bağlamasının dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kara gücü ile deniz gücü tezlerinin aynı on yıllara düşmesi, atlasın karşıt tezleri aynı dönem dosyasına bağlamasının dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Savaş ilkeleri üzerine önceki bir yazar için tutulan kayıt, katkı alanları arasında savaş ilkelerini sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

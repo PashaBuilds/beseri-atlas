@@ -18,6 +18,7 @@ ilgili:
   - kavram-anakronizm
   - kavram-donemlendirme
   - kavram-umran
+  - kaynak-braudel-akdeniz
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

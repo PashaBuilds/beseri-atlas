@@ -14,6 +14,7 @@ ilgili:
   - kavram-longue-duree
   - donem-01
   - tartisma-eksen-cagi-gercek-mi
+  - kaynak-braudel-akdeniz
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

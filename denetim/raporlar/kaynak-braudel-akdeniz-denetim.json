@@ -1,0 +1,67 @@
+{
+  "id": "kaynak-braudel-akdeniz",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:45:42.268Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eseri La Méditerranée adıyla anar ve ona ayrı bir bölüm ayırır; yazarın 1902-1985 arasında yaşadığı kaydedilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, ikinci düzeyde iktisadi, toplumsal ve kültürel tarihin bulunduğunu ve bu düzeyde değişimin çevreninkinden çok daha hızlı olduğunu yazar; üçüncü düzeyin ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eserin üçüncü bölümünün olaylar, siyaset ve insanları işlediği belirtilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir eserin bölümlerinin değişim hızına göre sıralanması, atlasın şu kuralının dayanağıdır: bu dosyada eserden yapılan aktarımlar, hangi katmandan geldiği belirt",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, eserin Akdeniz'inin denizin yanı sıra çöl ve dağlar olduğunu; çölün bütün topluluğun taşındığı göçebe bir toplumsal örgütlenme biçimi ürettiğini, dağ ya",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Akdeniz"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir deniz tarihinin çölle ve dağla birlikte tanımlanması, atlasın bölge alanını neden çoğul tuttuğunun dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Eserin dayandığı zaman katmanı kavramı dosyasında, dönem bölmesinin genel sorunu ise dosyasında ele alınıyor; ikinci dosya için tutulan kayıt üç çağ sistemine a",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın kapitalistlerin rekabetçi piyasalarda faaliyet gösteren girişimciler değil tekelciler olduğunu savunduğunu ve bunun hem liberal hem Marksçı yoru",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ayrıldığı yorumlardan biri için tutulan kayıt, toplum biçimlerinin üretici gücün gelişimine göre yükselip düştüğü fikrini anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

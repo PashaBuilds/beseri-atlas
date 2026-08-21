@@ -16,6 +16,7 @@ ilgili:
   - dusunur-clausewitz
   - aktor-britanya-imparatorlugu
   - kaynak-mackinder-cografi-eksen
+  - kaynak-mahan-deniz-gucu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

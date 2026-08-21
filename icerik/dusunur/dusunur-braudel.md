@@ -21,6 +21,7 @@ ilgili:
   - dusunur-wallerstein
   - kavram-dunya-sistemi
   - kavram-kapitalizm
+  - kaynak-braudel-akdeniz
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

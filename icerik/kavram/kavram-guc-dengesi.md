@@ -16,6 +16,7 @@ ilgili:
   - kavram-caydiricilik
   - kavram-hegemonya
   - kaynak-mackinder-cografi-eksen
+  - kaynak-mahan-deniz-gucu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
