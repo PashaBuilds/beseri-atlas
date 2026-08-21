@@ -1,0 +1,49 @@
+{
+  "id": "tartisma-imparatorluk-nufusu-nasil-sayilir",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:53:46.016Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl sonu için 7.200.000 kişilik bir tahmin verir; aynı kutunun dipnotunda Eyyûbî topraklarının toplam nüfusunun bilinmediğini ve bu sayının yalnızca Mısır, S",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "yüzyıl için nüfusu 3 milyon olarak verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Göçebe bir siyasi birim için hem alan hem nüfus kaydedilebilmesi, atlasın şu kuralının dayanağıdır: göçebe düzenler için sayı yokluğu bir kural değil bir kaynak",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli nüfus serisinde sağlayıcının toplam satırı MS 600 için yaklaşık 271,6 milyon, 1300 için yaklaşık 456,2 milyon verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu değerleri yalnızca ölçek bağlamı olarak kaydeder ve imparatorluk sayılarıyla bölmez: iki kayıt aynı sayım yöntemine dayanmaz ve kapsamları farklı tanım",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu değerleri yalnızca ölçek bağlamı olarak kaydeder ve imparatorluk sayılarıyla bölmez: iki kayıt aynı sayım yöntemine dayanmaz ve kapsamları farklı tanım",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu değerleri yalnızca ölçek bağlamı olarak kaydeder ve imparatorluk sayılarıyla bölmez: iki kayıt aynı sayım yöntemine dayanmaz ve kapsamları farklı tanım",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

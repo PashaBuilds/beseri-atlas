@@ -19,6 +19,7 @@ ilgili:
   - aktor-timur-imparatorlugu
   - olay-ipek-yolu-kurulusu
   - kavram-bozkir-imparatorlugu
+  - tartisma-imparatorluk-nufusu-nasil-sayilir
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

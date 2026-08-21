@@ -16,6 +16,7 @@ ilgili:
   - donem-07
   - olay-kudus-fethi-1187
   - aktor-memluk-devleti
+  - tartisma-imparatorluk-nufusu-nasil-sayilir
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

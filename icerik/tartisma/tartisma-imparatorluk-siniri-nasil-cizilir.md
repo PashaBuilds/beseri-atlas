@@ -37,6 +37,7 @@ ilgili:
   - kavram-emperyalizm
   - kavram-mandala-devleti
   - kavram-imparatorluk
+  - tartisma-imparatorluk-nufusu-nasil-sayilir
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

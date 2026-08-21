@@ -2797,7 +2797,7 @@ isler:
   - id: tartisma-imparatorluk-nufusu-nasil-sayilir
     tip: tartisma
     baslik: İmparatorluk nüfusu nasıl sayılır?
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
