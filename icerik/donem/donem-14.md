@@ -30,6 +30,8 @@ ilgili:
   - aktor-imf
   - aktor-dunya-bankasi
   - aktor-cin-halk-cumhuriyeti
+  - aktor-nato
+  - aktor-varsova-pakti
 okuma_onerisi: []
 serit:
   - bolge: avrupa

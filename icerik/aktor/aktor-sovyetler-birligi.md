@@ -17,6 +17,8 @@ ilgili:
   - olay-sovyetler-dagilmasi
   - olay-ekim-devrimi
   - olay-kuba-fuze-krizi
+  - aktor-nato
+  - aktor-varsova-pakti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

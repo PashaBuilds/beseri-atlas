@@ -1,0 +1,21 @@
+{
+  "id": "olay-meksika-devrimi",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:17:20.576Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bunların tek bir belgede toplanması, devrimin bir rejim değişikliği değil bir toplumsal yeniden kuruluş programı olarak tasarlandığını gösterir.[^k1]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Devrimin kendi kurduğu düzenin, halefiyet sorununda yine silahlı bir müdahaleyle karşılaşması,[^k1] anayasal düzenin ilk sınavını geçemediğini gösterir. Atlas bu gözlemi bir başarı",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

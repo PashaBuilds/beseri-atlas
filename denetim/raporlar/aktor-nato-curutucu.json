@@ -1,0 +1,28 @@
+{
+  "id": "aktor-nato",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:17:49.745Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu ittifakın atlastaki yeri, tek başına değil karşıtıyla birlikte tanımlanır. Kaynak, kıtanın iki askerî bloka bölündüğünü ve NATO ile Varşova Paktı devletlerinin 1988'deki dağılım",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynağın iki ittifakı tek bir harita üzerinden anlatması,[^k1] her birinin anlamının diğerine bağlı olduğunu gösterir: bir savunma ittifakı, kime karşı savunma yaptığıyla tanımlanı",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, rekabetin ilk evresini çevreleme, Truman Doktrini ve Kore Savaşı başlığıyla 1947-1953 arasına yerleştirir; aynı bölümde Marshall Planı, Çekoslovakya darbesi ve iki Alman de",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

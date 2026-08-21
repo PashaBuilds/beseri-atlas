@@ -17,6 +17,7 @@ ilgili:
   - olay-fransiz-devrimi
   - olay-haiti-devrimi
   - olay-yedi-yil-savasi
+  - olay-amerikan-ic-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

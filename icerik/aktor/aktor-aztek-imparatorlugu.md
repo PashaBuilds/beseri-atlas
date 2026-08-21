@@ -17,6 +17,7 @@ ilgili:
   - aktor-maya-uygarligi
   - aktor-ispanyol-imparatorlugu
   - aktor-inka-imparatorlugu
+  - olay-meksika-devrimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

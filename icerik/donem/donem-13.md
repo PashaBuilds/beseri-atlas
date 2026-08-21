@@ -26,6 +26,7 @@ ilgili:
   - olay-ikinci-dunya-savasi
   - olay-ekim-devrimi
   - olay-ispanya-ic-savasi
+  - olay-meksika-devrimi
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 serit:

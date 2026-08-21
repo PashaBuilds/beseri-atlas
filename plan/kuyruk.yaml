@@ -1187,7 +1187,7 @@ isler:
   - id: olay-amerikan-ic-savasi
     tip: olay
     baslik: Amerikan İç Savaşı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-12
@@ -1196,7 +1196,7 @@ isler:
   - id: olay-meksika-devrimi
     tip: olay
     baslik: Meksika Devrimi
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-13
@@ -1562,39 +1562,19 @@ isler:
       - donem-14
     atanan_parti: null
     deneme: 0
-  - id: olay-avrupa-somurge-paylasimi
-    tip: olay
-    baslik: Afrika'nın paylaşımı
-    durum: bekliyor
-    faz: 2
-    bagimlilik:
-      - donem-12
-    atanan_parti: null
-    deneme: 0
   - id: aktor-nato
     tip: aktor
     baslik: NATO
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
-    bagimlilik:
-      - donem-14
+    bagimlilik: []
     atanan_parti: null
-    deneme: 0
+    deneme: 1
   - id: aktor-varsova-pakti
     tip: aktor
     baslik: Varşova Paktı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
-    bagimlilik:
-      - donem-14
+    bagimlilik: []
     atanan_parti: null
-    deneme: 0
-  - id: aktor-baglantisizlar-hareketi
-    tip: aktor
-    baslik: Bağlantısızlar Hareketi
-    durum: bekliyor
-    faz: 2
-    bagimlilik:
-      - donem-14
-    atanan_parti: null
-    deneme: 0
+    deneme: 1

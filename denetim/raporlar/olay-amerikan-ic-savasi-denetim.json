@@ -1,0 +1,61 @@
+{
+  "id": "olay-amerikan-ic-savasi",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:17:19.980Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 2 Nisan 2012 tarihli bir gazete haberine dayanarak yeni bir çalışmanın ölü sayısını tahmini 650.000'den 850.000'e yükselttiğini aktarır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayıt devam eder: bu yeni sayı ne kadar korkunç olsa da, savaş sırasında eski kölelerin ölümlülüğünü yansıtmamaktadır; eski köleler bu rakama dahil edilsey",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu iki cümle, atlasın yöntem tartışmasının bütün unsurlarını taşır: bir sayı revize edilebilir, revize edilmiş sayı bile eksik olabilir ve eksiklik rastgele değ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı sorun savaş ölümleri verisinin genelinde de kayıtlıdır: verilen rakam muharip ölümleridir ve çarpışmalar nedeniyle ölen siviller ile çatışmaların yol açtığ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaş 12 Nisan 1861 ile 26 Mayıs 1865 arasında Amerika Birleşik Devletleri ve Atlas Okyanusu'nda geçti; sonuç Birlik zaferi ve Amerika Konfedere Devletleri'nin ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Grant ve Andrew Johnson sayılır; Lincoln suikaste kurban gitmiştir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir savaşın sonucunun \"dağıtılma\" olarak kaydedilmesi, karşı tarafın bir devlet olarak tanınıp tanınmadığı sorusunu doğurur; atlas bu soruyu karara bağlamaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yaklaşık 1,82 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaşın nedenleri, cephelerin seyri, kölelik düzeninin kaldırılması ve yeniden inşa dönemi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı b",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

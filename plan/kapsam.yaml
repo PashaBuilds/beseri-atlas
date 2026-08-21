@@ -205,7 +205,6 @@ fazlar:
     - { id: olay-nufus-patlamasi, baslik: "20. yüzyıl nüfus patlaması", bagimlilik: [donem-14] }
     - { id: olay-uzay-yarisi, baslik: "Uzay yarışı", bagimlilik: [donem-14] }
     - { id: olay-cernobil, baslik: "Çernobil kazası", bagimlilik: [donem-14] }
-    - { id: olay-avrupa-somurge-paylasimi, baslik: "Afrika'nın paylaşımı", bagimlilik: [donem-12] }
     - { id: aktor-nato, baslik: "NATO", bagimlilik: [donem-14] }
     - { id: aktor-varsova-pakti, baslik: "Varşova Paktı", bagimlilik: [donem-14] }
     - { id: aktor-baglantisizlar-hareketi, baslik: "Bağlantısızlar Hareketi", bagimlilik: [donem-14] }

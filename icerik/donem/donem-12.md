@@ -32,6 +32,7 @@ ilgili:
   - aktor-rus-imparatorlugu
   - olay-1905-rus-devrimi
   - aktor-etiyopya-imparatorlugu
+  - olay-amerikan-ic-savasi
 okuma_onerisi: []
 serit:
   - bolge: afrika

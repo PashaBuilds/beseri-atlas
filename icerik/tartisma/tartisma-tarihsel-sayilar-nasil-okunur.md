@@ -34,6 +34,7 @@ ilgili:
   - olay-1905-rus-devrimi
   - olay-ingiliz-ic-savasi
   - olay-ispanya-ic-savasi
+  - olay-amerikan-ic-savasi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:
