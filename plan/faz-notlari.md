@@ -371,3 +371,17 @@ Ikinci cozum benimsendi: ifade daraltildi. "dunya toplamini verir" yerine
 "saglayicinin toplam satirini verir". Bu daha DOGRU bir ifade — OWID CSV'sinde
 `World,OWID_WRL` bir satirdir, bir dunya iddiasi degil — ve kuresel kapsam
 iddiasi tasimaz. Bundan sonraki dosyalarda bu ifade kullaniliyor.
+
+## Yeniden dagitilamayan veri kumesi (2026-08-21, Faz 4)
+
+`democracy-index-eiu` grapher uc noktasi 403 doniyor ve govdesinde su yaziyor:
+bu grafik yeniden dagitmamiza izin verilmeyen veri iceriyor.
+
+Atlas bu kumeyi kullanmadi ve veri-setleri/ altina indirmedi. Kapsam listesindeki
+`veri-demokrasi-endeksi` kalemi, yerine indirilebilir ve CC BY 4.0 lisansli bir
+kume konarak degistirildi. Gerekce: Ilke 4 (telif siniri) yalnizca metin
+alintilari icin degil veri kumeleri icin de gecerlidir; lisansi elvermeyen bir
+kumeyi depoya koymak, atlasin kendi kuralini cignerdi.
+
+Bu bir hedef dusurmesi degildir: kalem sayisi ayni kaldi, yalnizca hangi kumenin
+kullanildigi degisti.

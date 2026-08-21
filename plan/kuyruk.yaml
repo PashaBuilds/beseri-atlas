@@ -2853,7 +2853,7 @@ isler:
   - id: veri-kisi-basi-enerji
     tip: veri
     baslik: Kişi başına enerji tüketimi
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

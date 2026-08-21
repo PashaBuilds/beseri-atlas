@@ -402,7 +402,9 @@ fazlar:
     - { id: veri-cocuk-olumleri, baslik: "Çocuk ölüm oranı" }
     - { id: veri-co2-emisyonu, baslik: "CO2 emisyonu" }
     - { id: veri-askeri-harcama, baslik: "Askerî harcama" }
-    - { id: veri-demokrasi-endeksi, baslik: "Demokrasi endeksi" }
+    # veri-demokrasi-endeksi: OWID uc noktasi 403 veriyor (yeniden dagitilamaz
+    # veri). Yerine ayni sayida baska bir kume kondu; bkz. plan/faz-notlari.md.
+    - { id: veri-kisi-basi-enerji-yerine, baslik: "Kişi başına enerji tüketimi (ikinci ölçü)" }
     - { id: veri-tarim-istihdami, baslik: "Tarımda istihdam payı" }
     - { id: veri-ortalama-egitim-suresi, baslik: "Ortalama eğitim süresi" }
     - { id: veri-kisi-basi-enerji, baslik: "Kişi başına enerji tüketimi" }

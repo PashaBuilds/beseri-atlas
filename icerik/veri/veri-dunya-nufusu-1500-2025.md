@@ -28,6 +28,7 @@ ilgili:
   - veri-nufus-artis-hizi
   - kaynak-durkheim-intihar
   - tartisma-imparatorluk-nufusu-nasil-sayilir
+  - veri-kisi-basi-enerji
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/dunya-nufusu.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

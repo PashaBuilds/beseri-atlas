@@ -1,0 +1,61 @@
+{
+  "id": "veri-kisi-basi-enerji",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:03:05.136Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Seri 1800'de 98,667 kWh ile başlar ve 2025'te 20.257,705 kWh ile biter.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı sağlayıcının toplam birincil enerji serisinde uç değerler 1800 için 97 TWh ve 2025 için 166.753,6 TWh'dir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Toplam yaklaşık bin yediyüz kat artarken kişi başına değerin yaklaşık iki yüz kat artması, iki ölçünün farklı soruları cevapladığını gösterir: biri ne kadar ene",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Toplam yaklaşık bin yediyüz kat artarken kişi başına değerin yaklaşık iki yüz kat artması, iki ölçünün farklı soruları cevapladığını gösterir: biri ne kadar ene",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu seri sağlayıcının kendi hesabıdır; atlas iki seriyi bölerek kendi kişi başı değerini üretmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu seri sağlayıcının kendi hesabıdır; atlas iki seriyi bölerek kendi kişi başı değerini üretmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Serinin birimi kilovatsaattir; farklı enerji kaynaklarının ortak bir birime çevrilmesi bir dönüştürme kararıdır ve dönüştürme katsayısı bu dosyada verilmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Serinin başlangıç yıllarına denk gelen dönüşüm için tutulan kayıt, o dönüşümü ayrı bir madde olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke ülke değerler, enerji kaynağı kırılımı ve dönüştürme yöntemi burada ayrı başlıklar altında ele alınmamıştır; bu dosya yalnızca sağlayıcının toplam satırını",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

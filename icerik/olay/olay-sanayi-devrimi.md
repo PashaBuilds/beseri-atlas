@@ -23,6 +23,7 @@ ilgili:
   - veri-enerji-tuketimi-1800-2023
   - tartisma-sanayi-devrimi-neden-ingiltere
   - veri-co2-emisyonu
+  - veri-kisi-basi-enerji
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
