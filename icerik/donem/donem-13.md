@@ -21,6 +21,8 @@ ilgili:
   - aktor-osmanli-imparatorlugu
   - donem-12
   - donem-14
+  - olay-buyuk-buhran
+  - olay-versailles-antlasmasi
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 serit:

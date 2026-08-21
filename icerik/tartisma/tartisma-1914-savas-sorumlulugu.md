@@ -20,6 +20,7 @@ etiketler: [savas-sorumlulugu, fischer-tezi, ittifak-sistemi, tarih-yazimi]
 ilgili:
   - olay-1914-temmuz-krizi
   - donem-13
+  - olay-versailles-antlasmasi
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 hakem_yok: true

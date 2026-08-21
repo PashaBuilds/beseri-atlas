@@ -1,0 +1,61 @@
+{
+  "id": "olay-buyuk-buhran",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:20:11.754Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Büyük Buhran 1929'da başladı ve dönemin diplomatik gündeminde \"1929'da başlayan buhrana verilen tepkiler\" ile \"dünya ticaretinin çöküşü\" ayrı ayrı maddeler olar",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bağımsız katalog kayıtları dönemi 1929–1941 olarak çerçeveler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ara dönem gündeminin listesi bu bağı doğrudan kurar: buhrana verilen tepkiler, dünya ticaretinin çöküşü, demokratik rejimlerin birer birer çökmesi ve iktisadi o",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İktisadi otarşi çabalarının büyümesi, dönemin tanımlayıcı başlıklarından biri olarak sayılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin en ağır siyasi sonucu, demokratik rejimlerin birer birer çökmesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yıllarda Weimar Cumhuriyeti'ni 1933 sonrası Nazi dönemi izledi ve 1936–1939 arasında İspanya İç Savaşı yaşandı.",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak ikisini aynı dönemin ayrı başlıkları olarak listeler; aradaki bağın gücü ve yönü tarih yazımının açık sorularındandır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Buhranın vurduğu dünyada nüfus 1914'te yaklaşık 1,82 milyar, 1945'te yaklaşık 2,38 milyardı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Katalog kayıtlarının dönemi 1941'de bitirmesi, iktisadi krizin savaş ekonomisiyle sona erdiği yönündeki yaygın çerçeveyi yansıtır.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

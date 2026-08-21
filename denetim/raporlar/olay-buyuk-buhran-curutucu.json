@@ -1,0 +1,21 @@
+{
+  "id": "olay-buyuk-buhran",
+  "gecis": 3,
+  "zaman": "2026-08-21T04:20:12.119Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Buhranın tarihteki yeri, iktisadi büyüklüğünden çok siyasi sonucundan gelir. Ara dönem gündeminin listesi bu bağı doğrudan kurar: buhrana verilen tepkiler, dünya ticaretinin çöküşü",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu makale buhran ile rejim çöküşleri arasında tek yönlü bir nedensellik iddia etmez. Kaynak ikisini aynı dönemin ayrı başlıkları olarak listeler;[^k1] aradaki bağın gücü ve yönü ta",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

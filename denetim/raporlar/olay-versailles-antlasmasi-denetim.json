@@ -1,0 +1,49 @@
+{
+  "id": "olay-versailles-antlasmasi",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:20:11.772Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "maddesi, İtilaf ve ortak hükümetlerin, savaşın Almanya ve müttefiklerinin saldırganlığıyla kendilerine dayatılmasının sonucu olarak uğradıkları bütün kayıp ve h",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "madde bir ahlak beyanı bölümünde değil, tazminat bölümünün başında durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "madde, İtilaf ve ortak hükümetlerin Almanya'nın kaynaklarının yeterli olmadığını kabul ettiğini belirtir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metin, savaşın kökenleri sorusunu akademik bir tartışma olmaktan çıkarıp hukuki bir hükme dönüştürdü: sorumluluk, tazminat yükümlülüğünün dayanağı olarak antlaş",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tartışmanın kendisi ayrı bir dosyada ele alınıyor: Ara dönem diplomasisinin gündemi, Milletler Cemiyeti'nden beklenenler ve onun başarısızlıkları, yeni ülkeleri",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Antlaşmanın imzalandığı savaşta yedi milyondan fazla asker ölmüştü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çarpışmalar nedeniyle ölen siviller, çatışmaların yol açtığı açlık ve hastalıktan kaynaklanan artan ölümler hesaba katılsaydı toplam çok daha yüksek olurdu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

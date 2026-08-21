@@ -571,7 +571,7 @@ isler:
   - id: olay-versailles-antlasmasi
     tip: olay
     baslik: Versailles Antlaşması
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-13
@@ -580,7 +580,7 @@ isler:
   - id: olay-buyuk-buhran
     tip: olay
     baslik: Büyük Buhran
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-13
@@ -796,7 +796,7 @@ isler:
   - id: aktor-karolenj-imparatorlugu
     tip: aktor
     baslik: Karolenj İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-06
@@ -958,7 +958,7 @@ isler:
   - id: aktor-sovyetler-birligi
     tip: aktor
     baslik: Sovyetler Birliği
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14

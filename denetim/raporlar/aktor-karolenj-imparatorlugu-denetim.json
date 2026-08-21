@@ -1,0 +1,61 @@
+{
+  "id": "aktor-karolenj-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:20:11.822Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "800 yılında imparator unvanı Batı Avrupa'da Şarlman ile yeniden canlandırıldı ve onun Karolenj İmparatorluğu sonraki Avrupa toplumsal yapısını, sanatlarını, kül",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Buradaki anahtar ifade yeniden canlandırmadır: unvan icat edilmedi, 800'de yeniden canlandırıldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin Avrupa'daki anahtar olayları arasında Müslümanların İber Yarımadası'nı fethi, Şarlman'ın taç giymesi, Viking yayılması, Macar istilaları ve Kutsal Roma ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İmparatorluğun kurulduğu Batı Avrupa, çöküş anlatısının önerdiğinden daha işlevsel bir yerdi: köylerde demir aletler bulunabiliyordu, su değirmenleri manzaraya ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yüzyıllarda İslam dünyasında Abbasi hanedanı 750'den itibaren hüküm sürüyordu ve 1258'e kadar sürecekti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Doğu Roma'da ise 867'de Makedon hanedanının yükselişi siyasi ve dinî çalkantı döneminin sonunu işaret etti ve imparatorluğa yeni bir altın çağ getirdi.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu üç merkez farklı meşruiyet çözümleri üretti: Abbasi hanedanı adını Peygamber'in amcası Abbas'tan alan bir soy zincirine, Karolenj ise diriltilmiş bir unvana ",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Karolenj"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu üç merkez farklı meşruiyet çözümleri üretti: Abbasi hanedanı adını Peygamber'in amcası Abbas'tan alan bir soy zincirine, Karolenj ise diriltilmiş bir unvana ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dönemde dünya nüfusu 600 yılında yaklaşık 271,6 milyon, 1000 yılında yaklaşık 323,5 milyondu.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

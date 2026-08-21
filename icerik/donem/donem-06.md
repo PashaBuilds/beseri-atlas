@@ -21,6 +21,7 @@ ilgili:
   - aktor-osmanli-imparatorlugu
   - aktor-abbasi-hilafeti
   - aktor-tang-hanedani
+  - aktor-karolenj-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

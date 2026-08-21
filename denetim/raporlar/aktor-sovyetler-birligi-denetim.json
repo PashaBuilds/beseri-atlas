@@ -1,0 +1,67 @@
+{
+  "id": "aktor-sovyetler-birligi",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:20:11.888Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya devleti iç tarihiyle değil, uluslararası sistemdeki konumuyla ele alır: Soğuk Savaş, 1947 ile 1991 arasında ABD ile SSCB arasındaki jeopolitik rekabeti",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Rekabetin ilk evresi çevreleme, Truman Doktrini ve Kore Savaşı başlığıyla 1947–1953 arasına yerleştirilir.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İlk kriz hatları Demir Perde, İran, Türkiye, Yunanistan ve Polonya başlıkları altında ele alınır; Marshall Planı, Çekoslovakya darbesi ve iki Alman devletinin k",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu liste, rekabetin coğrafyasını gösterir: kriz hatları Avrupa'nın ortasından geçerken ilk büyük sıcak çatışma Kore'de yaşandı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kıta iki askerî bloka bölündü; NATO ve Varşova Paktı devletlerinin 1988'deki dağılımı dönemin standart haritasıdır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin kapanışı 1985–1991 arasına yerleştirilir ve Gorbaçov'un reformları, ilişkilerde yumuşama, Doğu Avrupa'nın ayrılması ve Sovyet dağılması başlıklarını içe",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İkinci Dünya Savaşı'ndan sonraki yıllarda çatışmalarda birkaç milyon insan öldü; 1950'lerde çok daha düşük düzeylere indikten sonra çatışma ölümleri 1970'ler ve",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çatışmaların iki dünya savaşı ve Soğuk Savaş'ın ilk yıllarında zirve yapması, rekabetin doğrudan çarpışmaya dönüşmediği ama üçüncü bölgelerde sürdürüldüğü tezin",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Devletin varlığını sürdürdüğü dönemde dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak tabanı, rekabeti 1947–1991 arası jeopolitik çerçevede ele alan bir maddedir.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

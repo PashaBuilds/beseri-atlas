@@ -18,6 +18,7 @@ etiketler: [soguk-savas, iki-kutupluluk, somurgesizlesme, kalkinma, nato]
 ilgili:
   - donem-13
   - donem-15
+  - aktor-sovyetler-birligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

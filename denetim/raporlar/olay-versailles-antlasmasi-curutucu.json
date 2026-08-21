@@ -1,0 +1,21 @@
+{
+  "id": "olay-versailles-antlasmasi",
+  "gecis": 3,
+  "zaman": "2026-08-21T04:20:12.122Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu antlaşmanın tarihteki yeri, tek bir maddesinden gelir. VIII. Bölüm'ün 231. maddesi, İtilaf ve ortak hükümetlerin, savaşın Almanya ve müttefiklerinin saldırganlığıyla kendilerine",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Ölçüye dair bir uyarı da eklenmelidir: verilen sayı muharip ölümleridir. Çarpışmalar nedeniyle ölen siviller, çatışmaların yol açtığı açlık ve hastalıktan kaynaklanan artan ölümler",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}
