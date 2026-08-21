@@ -13,6 +13,7 @@ ilgili:
   - dusunur-arendt
   - kavram-sivil-toplum
   - olay-internetin-yayginlasmasi
+  - veri-internet-kullanimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

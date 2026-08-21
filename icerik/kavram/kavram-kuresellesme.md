@@ -14,6 +14,7 @@ ilgili:
   - olay-ipek-yolu-kurulusu
   - olay-internetin-yayginlasmasi
   - tartisma-sanayi-devrimi-neden-ingiltere
+  - veri-internet-kullanimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

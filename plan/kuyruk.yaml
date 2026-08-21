@@ -2813,7 +2813,7 @@ isler:
   - id: veri-co2-emisyonu
     tip: veri
     baslik: CO2 emisyonu
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2901,7 +2901,7 @@ isler:
   - id: veri-internet-kullanimi
     tip: veri
     baslik: İnternet kullanım oranı
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

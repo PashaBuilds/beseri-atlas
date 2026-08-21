@@ -16,6 +16,7 @@ ilgili:
   - donem-16
   - aktor-birlesmis-milletler
   - olay-covid-19-pandemisi
+  - veri-co2-emisyonu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

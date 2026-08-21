@@ -18,6 +18,7 @@ ilgili:
   - olay-uzay-yarisi
   - kavram-kamusal-alan
   - kavram-kuresellesme
+  - veri-internet-kullanimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

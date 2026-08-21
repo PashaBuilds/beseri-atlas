@@ -22,6 +22,7 @@ ilgili:
   - kaynak-pomeranz-buyuk-ayrisma
   - veri-enerji-tuketimi-1800-2023
   - tartisma-sanayi-devrimi-neden-ingiltere
+  - veri-co2-emisyonu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

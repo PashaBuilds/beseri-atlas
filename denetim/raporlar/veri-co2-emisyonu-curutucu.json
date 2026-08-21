@@ -1,0 +1,21 @@
+{
+  "id": "veri-co2-emisyonu",
+  "gecis": 3,
+  "zaman": "2026-08-21T11:34:32.318Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Veri kümesinde dünya toplamı için ilk gözlem 1750 yılına aittir.[^k1]",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki serinin aynı yönde ve benzer büyüklükte artması,[^k1][^k2] atlasın bunları tek bir nedene bağlamasını gerektirmez; iki ölçü farklı birimlerde farklı şeyleri ölçer. İlişkili dos",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

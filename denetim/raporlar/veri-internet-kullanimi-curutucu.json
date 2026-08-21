@@ -1,0 +1,28 @@
+{
+  "id": "veri-internet-kullanimi",
+  "gecis": 3,
+  "zaman": "2026-08-21T11:34:32.321Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Veri kümesinde dünya toplamı için ilk gözlem 2005 yılına aittir.[^k1] Oysa ağın kendisi için tutulan kayıt, ARPANET sözleşmelerinin 1969'da verildiğini yazar ve 1989-2004 arasını k",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Ölçümün, ölçtüğü olgudan otuz altı yıl sonra başlaması,[^k1][^k2] atlasın şu kuralının dayanağıdır: bu dosyadan ağın ilk otuz yılına dair bir kullanım oranı okunamaz. Ağın tarihi [",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir yayılma anlatısının yanında eşitsizliğin ayrı bir başlık taşıması,[^k2] atlasın bu seriden okunan dünya ortalamasını neden tek başına yeterli saymadığının dayanağıdır; kavram [",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

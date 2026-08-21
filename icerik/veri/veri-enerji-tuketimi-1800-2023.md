@@ -15,6 +15,7 @@ ilgili:
   - olay-sanayi-devrimi
   - kavram-buyuk-ayrisma
   - veri-dunya-nufusu-1500-2025
+  - veri-co2-emisyonu
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/enerji-tuketimi.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"
