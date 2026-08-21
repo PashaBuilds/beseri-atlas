@@ -1,0 +1,55 @@
+{
+  "id": "kavram-ulus-devlet",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:42:47.359Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak ilk bölümünü karmaşıklık başlığına ayırır; ardından tarih bölümünde kökenler ve ulus-devlet öncesi alt başlıklarını tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tarih bölümünde ulus-devlet öncesi diye ayrı bir alt başlık bulunması, kavramın belirli bir tarihsel eşikten sonra geçerli sayıldığını gösterir; atlas bu yüzden",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak belirli örnekler başlığı altında dört ülkeyi ayrı alt başlıklarda tutar ve ayrıca azınlıklar ile irredentizm için ayrı bölümler açar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavramın maddesinde uymayan durumlara ayrı bölümler ayrılması, atlasın şu kuralının dayanağıdır: bu dosyada ulus-devlet, bir betimleme değil bir ölçüt olara",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak gelecek başlığı altında bir alt başlık tutar ve ayrıca tarih yazımına kendi bölümünü ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yakın bir kavram için tutulan kayıt, o kavramın ortaya çıkışının tarihlendirilmesine ayrı bir bölüm ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yönetim biçimleri üzerine yazan önceki bir yazar için tutulan kayıt, onun çeşitli yönetim biçimlerinin doğalcı bir açıklamasını kurduğunu yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Özellikler, uygulamadaki durum ve ülke ülke örnekler burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

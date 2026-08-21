@@ -1,0 +1,55 @@
+{
+  "id": "kavram-caydiricilik",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:42:47.276Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kavram bölümünün altında üç alt başlık tutar: orantılılık, karşılıklılık ve zorlayıcı inandırıcılık.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir askerî kavramın üç ayrı ölçütle tanımlanması, atlasın şu kuralının dayanağıdır: bu dosyada caydırıcılık, tek bir yetenek olarak değil bir ölçüt demeti olara",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak akılcı caydırıcılık kuramına ayrı bir bölüm ayırır ve altında askerî denge, işaret verme ve pazarlık gücü, kararlılık şöhretleri, söz konusu çıkarlar ile",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kavramın hem genel hem akılcı bir sürümünün kaydedilmesi, kavramın tek bir kuramsal çerçeveye ait olmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak tarih bölümünü İkinci Dünya Savaşı ve Soğuk Savaş alt başlıklarına ayırır; Soğuk Savaş altında kavram ve örnekler ayrı ayrı işlenir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İkinci, Dünya, Savaşı, Soğuk"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yakın bir kavram için tutulan kayıt, o kurama karşı tarihsel kanıtlara ayrı bir alt başlık ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Güç ve korku üzerine önceki bir yazar için tutulan kayıt, onun siyaset felsefesinde mutlak egemenliği savunduğunu yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nükleer caydırıcılık kuramı, örnekler ve eleştiriler burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

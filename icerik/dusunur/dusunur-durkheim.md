@@ -17,6 +17,7 @@ ilgili:
   - dusunur-weber
   - dusunur-foucault
   - kavram-ideal-tip
+  - kavram-sekulerlesme
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

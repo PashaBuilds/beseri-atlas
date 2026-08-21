@@ -1,0 +1,21 @@
+{
+  "id": "kavram-caydiricilik",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:42:47.870Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir askerî kavramın üç ayrı ölçütle tanımlanması,[^k1] atlasın şu kuralının dayanağıdır: bu dosyada caydırıcılık, tek bir yetenek olarak değil bir ölçüt demeti olarak anılır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı kavramın hem genel hem akılcı bir sürümünün kaydedilmesi,[^k1] kavramın tek bir kuramsal çerçeveye ait olmadığını gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

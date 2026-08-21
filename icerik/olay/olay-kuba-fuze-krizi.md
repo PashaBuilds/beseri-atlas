@@ -18,6 +18,7 @@ ilgili:
   - aktor-sovyetler-birligi
   - aktor-birlesmis-milletler
   - olay-uzay-yarisi
+  - kavram-caydiricilik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -16,6 +16,7 @@ ilgili:
   - donem-13
   - olay-1914-temmuz-krizi
   - olay-versailles-antlasmasi
+  - kavram-topyekun-savas
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

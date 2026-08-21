@@ -17,6 +17,7 @@ ilgili:
   - tartisma-1914-savas-sorumlulugu
   - aktor-alman-imparatorlugu
   - olay-birinci-dunya-savasi
+  - kavram-ulus-devlet
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

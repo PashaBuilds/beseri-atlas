@@ -20,6 +20,7 @@ ilgili:
   - aktor-japonya-imparatorlugu
   - olay-ispanya-ic-savasi
   - dusunur-arendt
+  - kavram-topyekun-savas
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

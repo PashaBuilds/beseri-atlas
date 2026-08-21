@@ -17,6 +17,7 @@ ilgili:
   - dusunur-sima-qian
   - dusunur-hegel
   - dusunur-mahan
+  - kavram-topyekun-savas
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

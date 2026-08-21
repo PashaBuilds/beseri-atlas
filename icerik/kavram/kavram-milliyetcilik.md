@@ -14,6 +14,7 @@ ilgili:
   - olay-1848-devrimleri
   - olay-italyan-birligi
   - kavram-emperyalizm
+  - kavram-ulus-devlet
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

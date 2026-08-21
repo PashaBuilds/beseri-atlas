@@ -13,6 +13,7 @@ ilgili:
   - dusunur-mackinder
   - dusunur-carr
   - olay-viyana-kongresi
+  - kavram-caydiricilik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

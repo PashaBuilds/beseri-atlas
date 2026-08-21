@@ -14,6 +14,7 @@ ilgili:
   - olay-tanzimat-fermani
   - kavram-mesruiyet
   - kavram-timar
+  - kavram-sekulerlesme
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -13,6 +13,7 @@ ilgili:
   - olay-vestfalya-barisi
   - kavram-mesruiyet
   - dusunur-hobbes
+  - kavram-ulus-devlet
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -18,6 +18,7 @@ ilgili:
   - aktor-sovyetler-birligi
   - olay-kore-savasi
   - aktor-baglantisizlar-hareketi
+  - kavram-caydiricilik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

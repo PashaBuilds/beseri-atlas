@@ -2037,7 +2037,7 @@ isler:
   - id: kavram-topyekun-savas
     tip: kavram
     baslik: Topyekûn savaş
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2045,7 +2045,7 @@ isler:
   - id: kavram-caydiricilik
     tip: kavram
     baslik: Caydırıcılık
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2069,7 +2069,7 @@ isler:
   - id: kavram-ulus-devlet
     tip: kavram
     baslik: Ulus-devlet
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2101,7 +2101,7 @@ isler:
   - id: kavram-sekulerlesme
     tip: kavram
     baslik: Sekülerleşme
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

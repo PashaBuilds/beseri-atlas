@@ -1,0 +1,61 @@
+{
+  "id": "kavram-topyekun-savas",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:42:47.333Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl, Birinci Dünya Savaşı ve İkinci Dünya Savaşı alt başlıklarına ayrılır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Birinci, Dünya, Savaşı, İkinci"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, İkinci Dünya Savaşı alt başlığının altında Japonya İmparatorluğu, Birleşik Krallık, Nazi Almanyası, Kanada, Sovyetler Birliği ve Birleşik Devletler için",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı savaş içinde altı devletin ayrı ayrı işlenmesi, atlasın şu kuralının dayanağıdır: bu dosyada topyekûn savaş, bir savaşın tamamı için değil belirli bir devl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Birinci Dünya Savaşı alt başlığının altında hava savaşı, propaganda ve karne uygulamasını ayrı alt başlıklar olarak tutar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Birinci, Dünya, Savaşı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramın üç ayrı uygulama alanıyla tanımlanması, onun tek bir askerî ölçüt değil bir toplumsal seferberlik demeti olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tarih bölümünün Orta Çağ ile başlaması, kavramın yalnızca yirminci yüzyıla ait sayılmadığını gösterir; atlas bu yüzden kavramı dönem sınırı olarak kullanmaz.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Savaş kuramı yazarı için tutulan kayıt, onun savaş yapmanın moral ve siyasi yönlerini vurguladığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "O yazar dosyasında, savaş ilkeleri üzerine önceki yazar ise dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramın özellikleri, ülke ülke uygulamalar ve koşulsuz teslim tartışması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak iş",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
