@@ -24,6 +24,7 @@ ilgili:
   - olay-ingiliz-ic-savasi
   - olay-yedi-yil-savasi
   - aktor-hollanda-doguhindistan-sirketi
+  - aktor-tokugawa-sogunlugu
 okuma_onerisi: []
 serit:
   - bolge: avrupa

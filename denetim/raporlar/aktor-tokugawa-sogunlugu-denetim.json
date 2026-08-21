@@ -1,0 +1,61 @@
+{
+  "id": "aktor-tokugawa-sogunlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:36:51.628Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu düzenin başlangıcı ve sonu, kaynağın kendi kayıtlarında iki farklı türde olayla verilir: öncesinde 21 Ekim 1600'deki Sekigahara Muharebesi, sonunda ise 3 Oca",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir askerî zaferle kurulan bir düzenin bir siyasi ilanla sona ermesi, kuruluş ile çözülüşün farklı mekanizmalara dayandığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, şogunluğun kuruluşunu 24 Mart olarak ayrıca tarihler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, erken döneme ait iki olayı ayrıca sayar: 8 Kasım 1614'te Osaka Kuşatması ve Sakoku Fermanı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir dış temas rejiminin ferman olarak kaydedilmesi, dışa kapanmanın bir durum değil bir hukuki işlem olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Düzeni sona erdiren olayın sonuçları arasında Tokugawa şogunluğunun devrilmesi, Japonya İmparatorluğu'nun kurulması, sanayileşme ve feodalitenin kaldırılması il",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir düzenin sonunun, kendisini deviren olayın sonuç listesinde ilk madde olarak yer alması, o olayın kendi anlatısının nasıl kurulduğunu gösterir; olay dosyasın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1600'de yaklaşık 516,1 milyon, 1848'de yaklaşık 1,27 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şogunluğun idari yapısı, alan düzeni, iktisadi politikaları ve son yıllarındaki kriz burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümle",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

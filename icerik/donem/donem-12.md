@@ -33,6 +33,7 @@ ilgili:
   - olay-1905-rus-devrimi
   - aktor-etiyopya-imparatorlugu
   - olay-amerikan-ic-savasi
+  - olay-afyon-savaslari
 okuma_onerisi: []
 serit:
   - bolge: afrika

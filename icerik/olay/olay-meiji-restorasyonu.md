@@ -16,6 +16,7 @@ ilgili:
   - donem-12
   - olay-1857-hint-ayaklanmasi
   - aktor-japonya-imparatorlugu
+  - aktor-tokugawa-sogunlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

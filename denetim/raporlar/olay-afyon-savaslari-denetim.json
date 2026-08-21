@@ -1,0 +1,67 @@
+{
+  "id": "olay-afyon-savaslari",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:36:51.581Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılda Çin ile Avrupalı güçler arasındaki çatışmalar olarak tanımlar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin, Avrupalı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birinci Afyon Savaşı 4 Eylül 1839 ile 29 Ağustos 1842 arasındadır ve Nanking Antlaşması ile sonuçlanır; İkinci Afyon Savaşı ise Anglo-Fransız zaferiyle biter ve",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir savaş dizisinin sonucunun muharebelerle değil belgelerle sayılması, çatışmanın amacının toprak değil hukuki düzenleme olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İlk savaşta tek bir Avrupalı güç, ikincisinde iki güç kaydedilir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Avrupalı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Taraf sayısındaki bu artış, ilk savaşın sonucunun diğer güçler için de bir örnek oluşturduğu okumasını akla getirir; atlas bu okumayı bir iddia olarak öne sürme",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Savaşların karşı tarafı, 1644-1912 arasında Çin'i yöneten Mançu önderliğindeki Qing hanedanıydı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaynak, hanedanın ekonomisini gümüş, kentleşme, Batı ile ticaret ve gelir başlıkları altında ele alır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Batı"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ekonomi bölümünde Batı ile ticaretin ayrı bir başlık olması, savaşların konusunun hanedanın kendi kayıtlarında da bir başlık olduğunu gösterir; hanedan dosyasın",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Batı"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yaklaşık 1,82 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaşların askerî seyri, antlaşmaların madde madde içeriği, afyon ticaretinin düzeni ve sonraki yüzyıla etkisi burada ayrı başlıklar altında ele alınmamıştır; k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

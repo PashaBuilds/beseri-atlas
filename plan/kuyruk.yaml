@@ -1430,7 +1430,7 @@ isler:
   - id: aktor-tokugawa-sogunlugu
     tip: aktor
     baslik: Tokugawa Şogunluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-10
@@ -1448,7 +1448,7 @@ isler:
   - id: olay-afyon-savaslari
     tip: olay
     baslik: Afyon Savaşları
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-12

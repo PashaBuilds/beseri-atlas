@@ -1,0 +1,21 @@
+{
+  "id": "olay-afyon-savaslari",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:36:52.052Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İlk savaşta tek bir Avrupalı güç, ikincisinde iki güç kaydedilir.[^k1]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Taraf sayısındaki bu artış,[^k1] ilk savaşın sonucunun diğer güçler için de bir örnek oluşturduğu okumasını akla getirir; atlas bu okumayı bir iddia olarak öne sürmez.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

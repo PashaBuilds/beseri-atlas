@@ -17,6 +17,7 @@ ilgili:
   - aktor-ingiliz-doguhindistan-sirketi
   - olay-1857-hint-ayaklanmasi
   - tartisma-imparatorluk-siniri-nasil-cizilir
+  - olay-afyon-savaslari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

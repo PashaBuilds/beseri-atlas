@@ -16,6 +16,7 @@ ilgili:
   - donem-12
   - olay-meiji-restorasyonu
   - olay-ikinci-dunya-savasi
+  - aktor-tokugawa-sogunlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

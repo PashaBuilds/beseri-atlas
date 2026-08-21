@@ -19,6 +19,7 @@ ilgili:
   - olay-cin-devrimi-1949
   - aktor-ming-hanedani
   - aktor-cin-halk-cumhuriyeti
+  - olay-afyon-savaslari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,0 +1,21 @@
+{
+  "id": "aktor-tokugawa-sogunlugu",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:36:52.055Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, şogunluğun kuruluşunu 24 Mart olarak ayrıca tarihler.[^k1] Yani muharebe ile kurumsal kuruluş arasında yaklaşık iki buçuk yıllık bir aralık vardır: zafer tek başına devlet ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir düzenin sonunun, kendisini deviren olayın sonuç listesinde ilk madde olarak yer alması,[^k2] o olayın kendi anlatısının nasıl kurulduğunu gösterir; olay [Meiji Restorasyonu](/o",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}
