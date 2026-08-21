@@ -2501,7 +2501,7 @@ isler:
   - id: veri-savas-kayiplari-1800-2023
     tip: veri
     baslik: Savaş kayıpları, 1800–2023
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2541,7 +2541,7 @@ isler:
   - id: veri-kuresel-esitsizlik
     tip: veri
     baslik: Küresel gelir eşitsizliği
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2661,7 +2661,7 @@ isler:
   - id: kaynak-tooze-felaketin-bedeli
     tip: kaynak
     baslik: Tooze — The Wages of Destruction
-    durum: bekliyor
+    durum: uretiliyor
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2685,7 +2685,7 @@ isler:
   - id: tartisma-tarim-devrimi-neden
     tip: tartisma
     baslik: Tarım neden başladı?
-    durum: bekliyor
+    durum: uretiliyor
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2701,7 +2701,7 @@ isler:
   - id: tartisma-hacli-seferlerinin-nedeni
     tip: tartisma
     baslik: Haçlı seferlerinin nedeni neydi?
-    durum: bekliyor
+    durum: uretiliyor
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -3038,6 +3038,14 @@ isler:
     tip: kaynak
     baslik: Keynes — Genel Teori
     durum: onaylandi
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-kisi-basi-enerji-yerine
+    tip: veri
+    baslik: Kişi başına enerji tüketimi (ikinci ölçü)
+    durum: bekliyor
     faz: 4
     bagimlilik: []
     atanan_parti: null

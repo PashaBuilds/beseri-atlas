@@ -16,6 +16,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - kavram-topyekun-savas
   - kavram-caydiricilik
+  - veri-savas-kayiplari-1800-2023
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/savas-olumleri.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

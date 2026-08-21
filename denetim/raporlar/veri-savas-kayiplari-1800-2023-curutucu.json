@@ -1,0 +1,14 @@
+{
+  "id": "veri-savas-kayiplari-1800-2023",
+  "gecis": 3,
+  "zaman": "2026-08-21T12:34:40.086Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Savaş türleri, bölge dağılımı ve dolaylı ölümler burada ele alınmamıştır; bu dosya tek bir sütunun yıl bazlı değerlerini taşır.[^k1] Daha yeni yıllar için farklı bir sayım [Silahlı",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

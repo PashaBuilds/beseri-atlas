@@ -16,6 +16,7 @@ ilgili:
   - kavram-guc-dengesi
   - olay-sovyetler-dagilmasi
   - veri-savas-olumleri
+  - veri-savas-kayiplari-1800-2023
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/askeri-harcama.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

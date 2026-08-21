@@ -15,6 +15,7 @@ ilgili:
   - kavram-dunya-sistemi
   - kaynak-milanovic-kuresel-esitsizlik
   - veri-yoksulluk-orani
+  - veri-kuresel-esitsizlik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

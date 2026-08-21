@@ -54,6 +54,7 @@ ilgili:
   - veri-savas-olumleri
   - tartisma-yazinin-icadi-nerede
   - tartisma-karsi-olgusal-tarih
+  - veri-savas-kayiplari-1800-2023
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

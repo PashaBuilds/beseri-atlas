@@ -17,6 +17,7 @@ ilgili:
   - kaynak-clausewitz-savas-uzerine
   - tartisma-ikinci-dunya-savasi-sorumlulugu
   - veri-savas-olumleri
+  - veri-savas-kayiplari-1800-2023
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -16,6 +16,7 @@ ilgili:
   - veri-dunya-nufusu-1500-2025
   - kaynak-pomeranz-buyuk-ayrisma
   - veri-yoksulluk-orani
+  - veri-kuresel-esitsizlik
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/kisi-basi-gsyh.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

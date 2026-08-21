@@ -1,0 +1,79 @@
+{
+  "id": "veri-kuresel-esitsizlik",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:35:33.583Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosyanın taşıdığı sütun adı, değerlerinden önce okunmalıdır: ölçüm vergi öncesi gelire dayanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sağlayıcının toplam satırında Gini katsayısı 1820'de 0,5909, 1900'de 0,6917, 1950'de 0,654, 1980'de 0,6895, 2000'de 0,7144 ve 2024'te 0,6769'dur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Serinin 1900'den 1950'ye düşüp 1950'den 2000'e yükselmesi ve sonra yeniden düşmesi, iki yüz yıllık bir eğilim cümlesi kurmayı engeller: hangi iki yıl seçilirse ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sağlayıcının sütun adı ölçünün vergi öncesi refah türüne dayandığını kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Vergi öncesi ile vergi sonrası ölçümlerin farklı olması, atlasın şu kuralının dayanağıdır: bir eşitsizlik değeri, hangi refah tanımıyla ölçüldüğü yazılmadan akt",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ölçü için tutulan kayıt, onu bir ulusun ya da toplumsal grubun gelir ya da servet eşitsizliğinin ölçüsü olarak tanımlar ve İtalyan istatistikçi Corrado Gini'ye ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı kayıt, katsayının 0 ile 1 arasında değer aldığını ve 0'ın tam eşitliği gösterdiğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir ölçünün adını taşıdığı kişiye bağlanabilmesi, ölçünün doğal bir büyüklük değil bir tasarım olduğunu gösterir; kavram dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aşırı yoksulluk oranı serisinde dünya değeri 1990'da yaklaşık yüzde 43,41, 2000'de yaklaşık yüzde 36,20, 2010'da yaklaşık yüzde 20,98'dir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yoksulluk oranının bu yıllarda düşerken Gini katsayısının 2000'de en yüksek değerine ulaşması, iki ölçünün aynı şeyi ölçmediğini gösterir: biri alt eşiğin altın",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yoksulluk oranının bu yıllarda düşerken Gini katsayısının 2000'de en yüksek değerine ulaşması, iki ölçünün aynı şeyi ölçmediğini gösterir: biri alt eşiğin altın",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke ve bölge dağılımı, vergi sonrası ölçümler ve servet eşitsizliği burada ele alınmamıştır; bu dosya tek bir sütunun yıl bazlı değerlerini taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

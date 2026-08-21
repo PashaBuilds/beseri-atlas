@@ -1,16 +1,16 @@
 ---
 aktif_faz: 4
-aktif_parti: B02
-son_commit: a7907dc
-son_guncelleme: 2026-08-21T11:13:03.984Z
+aktif_parti: B03
+son_commit: f11a780
+son_guncelleme: 2026-08-21T12:31:27.336Z
 sayaclar:
   uretilen: 28
   onaylanan: 28
   karantinada: 0
   onarim_dongusunde: 0
 metrikler:
-  kaynak_dogrulama_orani: 0.9988
-  ortalama_kaynak_sayisi: 3.1
+  kaynak_dogrulama_orani: 0.9989
+  ortalama_kaynak_sayisi: 3.08
   ornekleme_kapisi_son_skor: 1
   ornekleme_kapisi_son_calisma: 2026-08-21T10:24:11.970Z
   ornekleme_kapisi_karar: devam
@@ -44,7 +44,7 @@ faz_parti_sayaci:
   "1": 1
   "2": 2
   "3": 2
-  "4": 2
+  "4": 3
 ---
 
 # DURUM — otonom döngünün hafızası
@@ -53,9 +53,9 @@ faz_parti_sayaci:
 > Hat durduğunda `npm run otonom` bu dosyayı okuyup aynı noktadan sürer.
 
 **Aktif faz:** 4 — Sentez katmanı
-**Aktif parti:** B02
-**Son güncelleme:** 2026-08-21T11:13:03.984Z
-**Son commit:** a7907dc
+**Aktif parti:** B03
+**Son güncelleme:** 2026-08-21T12:31:27.336Z
+**Son commit:** f11a780
 
 | Sayaç | Değer |
 |---|---|
@@ -66,8 +66,8 @@ faz_parti_sayaci:
 
 | Metrik | Değer | Eşik |
 |---|---|---|
-| Kaynak doğrulama oranı | 0.9988 | 0.92 |
-| Makale başına ortalama kaynak | 3.1 | 3 |
+| Kaynak doğrulama oranı | 0.9989 | 0.92 |
+| Makale başına ortalama kaynak | 3.08 | 3 |
 | Örnekleme kapısı son skor | 1 | 0.9 |
 
 **Bütçe:** 1.320.000 / 40.000.000 token
