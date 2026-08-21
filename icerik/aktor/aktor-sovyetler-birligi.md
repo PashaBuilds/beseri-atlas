@@ -19,6 +19,7 @@ ilgili:
   - olay-kuba-fuze-krizi
   - aktor-nato
   - aktor-varsova-pakti
+  - olay-uzay-yarisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

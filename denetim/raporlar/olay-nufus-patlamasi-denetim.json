@@ -1,0 +1,79 @@
+{
+  "id": "olay-nufus-patlamasi",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:32:37.887Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki ölçüm noktası arasındaki fark, atlasın kullandığı serideki en dik artıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karşılaştırma için aynı seride 1500'de yaklaşık 503,1 milyon, 1800'lerin ortasında yaklaşık 1,27 milyar değerleri verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılın ortasındaki kırk altı yıl, önceki üç buçuk yüzyıldan daha büyük bir mutlak artış üretmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı dönemin çatışma verisi, artışın savaşlara rağmen gerçekleştiğini gösterir: İkinci Dünya Savaşı'ndan sonraki yıllarda çatışmalarda birkaç milyon insan öldü;",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki serinin karşılaştırılması, 20.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki serinin karşılaştırılması, 20.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yıllar, 1947 ile 1991 arasındaki ve kırk dört yıl dokuz ay süren jeopolitik rekabetin yıllarıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nüfus artışının bu rekabetle örtüşmesi, dönemin \"kalkınma yarışı\" boyutunun demografik zeminini oluşturur; dönem dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Nüfus artışının bu rekabetle örtüşmesi, dönemin \"kalkınma yarışı\" boyutunun demografik zeminini oluşturur; dönem dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kullanılan seri, atlasın bütün dönem makalelerinde aynı kaynaktan alınır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bölgesel dağılım, doğum ve ölüm hızlarının ayrı seyri, kentleşme ve göç burada ayrı başlıklar altında ele alınmamıştır; kullanılan veri kümesi yalnızca toplam n",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

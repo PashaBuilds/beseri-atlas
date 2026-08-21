@@ -1502,7 +1502,7 @@ isler:
   - id: olay-covid-19-pandemisi
     tip: olay
     baslik: COVID-19 pandemisi
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-16
@@ -1538,7 +1538,7 @@ isler:
   - id: olay-nufus-patlamasi
     tip: olay
     baslik: 20. yüzyıl nüfus patlaması
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14
@@ -1547,7 +1547,7 @@ isler:
   - id: olay-uzay-yarisi
     tip: olay
     baslik: Uzay yarışı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14

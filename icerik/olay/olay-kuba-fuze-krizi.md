@@ -17,6 +17,7 @@ ilgili:
   - olay-suveys-krizi
   - aktor-sovyetler-birligi
   - aktor-birlesmis-milletler
+  - olay-uzay-yarisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

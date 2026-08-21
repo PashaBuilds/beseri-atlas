@@ -1,0 +1,67 @@
+{
+  "id": "olay-covid-19-pandemisi",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:32:37.824Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu pandeminin referans maddesi, olayı bir sağlık olayı olarak değil çok katmanlı bir toplumsal olay olarak bölümler: etki bölümü ekonomi (ve tedarik sıkıntıları",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir salgının referans kaydında sanat ve kültürel mirasa ayrı bir alt başlık ayrılması, pandeminin ölçülen sonuçlarının tıbbi alanla sınırlı olmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı bölümde siyaset başlığının ülke ülke alt başlıklara ayrılması, tepkinin tekbiçimli olmadığını kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kısıtlamaları ayrı bir bölüm olarak ele alır ve seyahat kısıtlamaları ile yabancı vatandaşların ülkelerine geri gönderilmesini alt başlıklar olarak veri",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sınır rejimlerinin bir salgın maddesinde ayrı bölüm olması, pandemiyi aynı zamanda bir hareketlilik olayı yapar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kıtalara göre bölümlemenin yanında Birleşmiş Milletler ve Dünya Sağlık Örgütü'nü ayrı başlıklar olarak sayar.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Uluslararası kurumların coğrafi bölümlerle aynı düzeyde listelenmesi, pandemide kurumsal yanıtın bölgesel yanıt kadar belirleyici sayıldığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Salgın bilançolarının tartışmalı olması bu pandemiye özgü değildir: 2019'da yayımlanan bir araştırma, 200 yıl süren Justinyen pandemisinin ölüm bilançosunun ve ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 2008'de yaklaşık 6,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Virüsün biyolojisi, aşı geliştirme süreci, ülke ülke salgın seyri ve sağlık sistemleri üzerindeki etki burada ayrı başlıklar altında ele alınmamıştır; kaynak bu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

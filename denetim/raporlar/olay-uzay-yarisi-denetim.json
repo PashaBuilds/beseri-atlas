@@ -1,0 +1,73 @@
+{
+  "id": "olay-uzay-yarisi",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:32:37.962Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu yarışın referans maddesi, teknik başarıların yanında bilgi yönetimini de ayrı başlıklarla ele alır: yapay uydu geliştirme bölümünün alt başlıkları Sovyet giz",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sovyet, ABD"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir teknoloji yarışının referans maddesinde gizliliğin ayrı bir alt başlık olması, rekabetin yalnızca kim önce ulaşacağı değil kimin ne bildiği üzerinden de yür",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yapı karşı tarafta da görülür: Sputnik'e ABD tepkisi bölümü, istihbarat değerlendirmesi ile kamuoyu tepkilerini ayrı alt başlıklara ayırır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Explorer bölümünün altında NASA'nın kuruluşunu ayrı bir başlık olarak verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir uzay ajansının kuruluşunun bir uydu programının alt başlığı olarak kaydedilmesi, kurumun rekabete verilen bir yanıt olarak doğduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, ilk evreyi uydu geliştirme ve ilk memelilerin uzaya gönderilmesi ile erken ay sondaları üzerinden verir; ikinci evre insanlı uzay uçuşu, uzay antlaşmala",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkinci evrenin adında bir antlaşma teriminin geçmesi, yarışın belirli bir noktadan sonra hukuki bir çerçeveye de kavuştuğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yarış, 1947 ile 1991 arasındaki ve kırk dört yıl dokuz ay süren jeopolitik rekabetin bir cephesidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı kaynak, rekabetin doğrudan çarpışmaya dönüşmediğini kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tek tek uçuşlar, teknik ayrıntılar, ay programının seyri ve yarışın sona erişi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

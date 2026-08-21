@@ -20,6 +20,7 @@ ilgili:
   - kavram-demografik-gecis
   - veri-dunya-nufusu-1500-2025
   - tartisma-bati-neden-yukseldi
+  - olay-covid-19-pandemisi
 okuma_onerisi: []
 serit:
   - bolge: kuresel

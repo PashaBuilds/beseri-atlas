@@ -36,6 +36,7 @@ ilgili:
   - olay-ispanya-ic-savasi
   - olay-amerikan-ic-savasi
   - olay-kultur-devrimi
+  - olay-covid-19-pandemisi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

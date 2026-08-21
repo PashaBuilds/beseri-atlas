@@ -18,6 +18,7 @@ ilgili:
   - olay-justinyen-vebasi
   - olay-amerikanin-kesfi
   - olay-ronesans
+  - olay-covid-19-pandemisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

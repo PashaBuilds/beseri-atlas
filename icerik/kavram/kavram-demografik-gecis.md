@@ -10,6 +10,7 @@ etiketler: [demografik-gecis, nufus, olumluluk, dogurganlik, malthus]
 ilgili:
   - veri-dunya-nufusu-1500-2025
   - donem-16
+  - olay-nufus-patlamasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

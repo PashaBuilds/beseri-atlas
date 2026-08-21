@@ -1,0 +1,21 @@
+{
+  "id": "olay-uzay-yarisi",
+  "gecis": 3,
+  "zaman": "2026-08-21T07:32:38.375Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, ilk evreyi uydu geliştirme ve ilk memelilerin uzaya gönderilmesi ile erken ay sondaları üzerinden verir; ikinci evre insanlı uzay uçuşu, uzay antlaşmaları ve gezegenler ara",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tek tek uçuşlar, teknik ayrıntılar, ay programının seyri ve yarışın sona erişi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

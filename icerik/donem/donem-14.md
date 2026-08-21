@@ -36,6 +36,8 @@ ilgili:
   - olay-kultur-devrimi
   - olay-vietnam-savasi
   - aktor-baglantisizlar-hareketi
+  - olay-nufus-patlamasi
+  - olay-uzay-yarisi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

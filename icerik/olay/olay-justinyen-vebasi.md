@@ -18,6 +18,7 @@ ilgili:
   - olay-kara-olum
   - tartisma-romanin-cokus-nedeni
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - olay-covid-19-pandemisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
