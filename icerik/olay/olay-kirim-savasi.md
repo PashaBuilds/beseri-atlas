@@ -48,7 +48,7 @@ Rusya, Mart 1856'da barış istedi.[^k1]
 
 ## Barışı isteyen taraf yalnız değildi
 
-Aynı kayıt, karşı tarafın da isteksizliğini not eder: Fransa ve Britanya,
+Aynı kayda göre karşı taraf da istekli değildi: Fransa ve Britanya,
 çatışmanın iç kamuoyundaki popülersizliği nedeniyle bu gelişmeyi memnuniyetle
 karşıladı.[^k1]
 

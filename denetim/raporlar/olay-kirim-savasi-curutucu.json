@@ -1,12 +1,12 @@
 {
   "id": "olay-kirim-savasi",
   "gecis": 3,
-  "zaman": "2026-08-21T07:41:18.579Z",
+  "zaman": "2026-08-21T07:49:57.298Z",
   "itirazlar": [
     {
       "ciddiyet": "orta",
       "tip": "tek-kaynakli-nedensellik",
-      "cumle": "Aynı kayıt, karşı tarafın da isteksizliğini not eder: Fransa ve Britanya, çatışmanın iç kamuoyundaki popülersizliği nedeniyle bu gelişmeyi memnuniyetle karşıladı.[^k1]",
+      "cumle": "Aynı kayda göre karşı taraf da istekli değildi: Fransa ve Britanya, çatışmanın iç kamuoyundaki popülersizliği nedeniyle bu gelişmeyi memnuniyetle karşıladı.[^k1]",
       "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
       "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
     }

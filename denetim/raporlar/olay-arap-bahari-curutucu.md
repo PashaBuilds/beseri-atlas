@@ -1,5 +1,5 @@
 # Çürütücü raporu — olay-arap-bahari
-_2026-08-21T07:49:14.515Z_
+_2026-08-21T07:49:57.294Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 
@@ -19,7 +19,7 @@ _2026-08-21T07:49:14.515Z_
 
 ## İtiraz 3 — [ciddiyet: orta] tek-kaynakli-nedensellik
 
-**Cümle:** "Aynı yapıda bir önceki dalga için de iki okuma kayıtlıdır: birçok tarihçi 1848 devrimlerini kalıcı yapısal değişikliklerin görünürdeki yokluğu nedeniyle bir başarısızlık saymış, da"
+**Cümle:** "Aynı yapıda bir önceki dalga için de iki okuma kayıtlıdır; o kayda göre birçok tarihçi 1848 devrimlerini kalıcı yapısal değişikliklerin görünürdeki yokluğu nedeniyle bir başarısızl"
 
 **Sorun:** Nedensellik iddiası tek kaynağa (k2) dayanıyor.
 

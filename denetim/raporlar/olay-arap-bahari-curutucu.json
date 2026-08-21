@@ -1,7 +1,7 @@
 {
   "id": "olay-arap-bahari",
   "gecis": 3,
-  "zaman": "2026-08-21T07:49:14.517Z",
+  "zaman": "2026-08-21T07:49:57.295Z",
   "itirazlar": [
     {
       "ciddiyet": "dusuk",
@@ -20,7 +20,7 @@
     {
       "ciddiyet": "orta",
       "tip": "tek-kaynakli-nedensellik",
-      "cumle": "Aynı yapıda bir önceki dalga için de iki okuma kayıtlıdır: birçok tarihçi 1848 devrimlerini kalıcı yapısal değişikliklerin görünürdeki yokluğu nedeniyle bir başarısızlık saymış, da",
+      "cumle": "Aynı yapıda bir önceki dalga için de iki okuma kayıtlıdır; o kayda göre birçok tarihçi 1848 devrimlerini kalıcı yapısal değişikliklerin görünürdeki yokluğu nedeniyle bir başarısızl",
       "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
       "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
     }

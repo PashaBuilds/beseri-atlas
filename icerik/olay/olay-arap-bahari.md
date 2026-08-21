@@ -70,7 +70,7 @@ değerlendirmenin baştan iki yönlü kurulduğunu gösterir.
 
 ## Yapısal benzeri
 
-Aynı yapıda bir önceki dalga için de iki okuma kayıtlıdır: birçok tarihçi 1848
+Aynı yapıda bir önceki dalga için de iki okuma kayıtlıdır; o kayda göre birçok tarihçi 1848
 devrimlerini kalıcı yapısal değişikliklerin görünürdeki yokluğu nedeniyle bir
 başarısızlık saymış, daha yakın zamanda ise dönem yönetimde bir devrimin hâkim
 olduğu bir dönem olarak nitelendirilmiştir.[^k2]
