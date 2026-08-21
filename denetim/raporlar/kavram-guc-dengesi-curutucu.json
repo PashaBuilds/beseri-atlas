@@ -1,0 +1,14 @@
+{
+  "id": "kavram-guc-dengesi",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:27:04.657Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı olguya dair birden çok davranış modelinin ayrı ayrı adlandırılması,[^k1] kavramın tek bir öngörü üretmediğini gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

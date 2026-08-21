@@ -1,0 +1,73 @@
+{
+  "id": "kavram-guc-dengesi",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:27:04.179Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kavramı bölüm başlıklarıyla açar: tarih, gerçekçilik ve dengeleme, dengeleme ile yandaşlık karşılaştırması, zincirleme sürüklenme, sorumluluk devri, sal",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tarih bölümünün altında güç dengesi kuramına karşı tarihsel kanıtlar diye ayrı bir alt başlık tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1946'da bir konuşmada eski güç dengesi öğretisinin sağlam olmadığının söylendiğini ve dar marjlarla çalışmanın bir güç sınamasına davetiye çıkardığının ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavramın hem kuram hem siyasi tartışma konusu olarak kaydedilmesi, atlasın kavram dosyalarında neden kullanım örneklerini de tuttuğunun dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak dengelemenin karşısına yandaşlığı koyar ve saldırgan ile savunmacı gerçekçiliği ayrı alt başlıklarda tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı olguya dair birden çok davranış modelinin ayrı ayrı adlandırılması, kavramın tek bir öngörü üretmediğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Klasik gerçekçiliğe katkılarıyla tanınan bir yazar için tutulan kayıt, mesleğini tarihçi, diplomat, uluslararası ilişkiler kuramcısı ve gazeteci olarak verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Devlet içindeki güç ayrımı için tutulan bir başka kayıt, farklı organların yasama, yürütme ve yargı gücünü ayrı ayrı kullandığı bir düzen önerisini anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı fikrin biri devletler arasında biri devlet içinde iki ayrı biçimde kaydedilmesi, atlasın kavram dosyalarını neden ölçek belirterek tuttuğunun dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı fikrin biri devletler arasında biri devlet içinde iki ayrı biçimde kaydedilmesi, atlasın kavram dosyalarını neden ölçek belirterek tuttuğunun dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuramın tarihi, İngiltere örneği, gerçekçilik tartışmaları ve modern uygulamaları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler o",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

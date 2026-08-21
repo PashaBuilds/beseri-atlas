@@ -30,6 +30,7 @@ ilgili:
   - olay-kudus-fethi-1187
   - aktor-eyyubi-devleti
   - olay-mansa-musa-haci
+  - kavram-feodalite
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

@@ -15,6 +15,7 @@ ilgili:
   - dusunur-mahan
   - aktor-britanya-imparatorlugu
   - aktor-rus-imparatorlugu
+  - kavram-guc-dengesi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

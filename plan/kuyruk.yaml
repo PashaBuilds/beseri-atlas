@@ -1877,7 +1877,7 @@ isler:
   - id: kavram-guc-dengesi
     tip: kavram
     baslik: Güç dengesi
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1941,7 +1941,7 @@ isler:
   - id: kavram-feodalite
     tip: kavram
     baslik: Feodalite
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2141,7 +2141,7 @@ isler:
   - id: kavram-anakronizm
     tip: kavram
     baslik: Anakronizm
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

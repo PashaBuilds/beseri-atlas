@@ -18,6 +18,7 @@ ilgili:
   - olay-1848-devrimleri
   - olay-napolyon-savaslari
   - olay-kirim-savasi
+  - kavram-guc-dengesi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -15,6 +15,7 @@ ilgili:
   - donem-01
   - kavram-dunya-sistemi
   - kavram-tarihsel-materyalizm
+  - kavram-anakronizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

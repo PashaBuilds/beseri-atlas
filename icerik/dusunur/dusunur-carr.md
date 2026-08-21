@@ -16,6 +16,8 @@ ilgili:
   - dusunur-herodotos
   - aktor-sovyetler-birligi
   - dusunur-arendt
+  - kavram-anakronizm
+  - kavram-guc-dengesi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

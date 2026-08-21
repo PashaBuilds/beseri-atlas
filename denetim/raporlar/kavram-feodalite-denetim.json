@@ -1,0 +1,67 @@
+{
+  "id": "kavram-feodalite",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:27:04.157Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, terimin ortaçağda kullanılan Latince feodum ya da feudum sözcüğünden türediğini, ancak feodalite teriminin ve tanımladığı sistemin, Orta Çağ'da yaşayan ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1974'te yayımlanan \"The Tyranny of a Construct\" ile 1994'te yayımlanan Fiefs and Vassals'tan bu yana ortaçağ tarihçileri arasında feodalitenin ortaçağ t",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Terimin, tanımladığı dönemde o dönemin insanlarınca kullanılmamış olması, atlasın anakronizm kapısının neden var olduğunun dayanağıdır; kapı dosyasında ele alın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tarih yazımı başlığı altında kavramın evrimi ile ayrı ayrı adlandırılmış tarihçi yaklaşımlarını alt başlıklar hâlinde tutar; ayrıca 1500-1850'ler arasın",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavramın kendi tarih yazımının ayrı bölümler hâlinde tutulması, atlasın kavram katmanında neden kavramın kim tarafından nasıl kullanıldığını da kaydettiğini",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kavramı bir üretim tarzı olarak kullanan gelenek için tutulan kayıt, tarihsel sürecin bir dizi üretim tarzı boyunca ilerlediğini ve bunların az çok açık sınıf m",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavramın hem varlığı tartışmalı hem bir kuramın basamağı olması, atlasın bu dosyayı tartışmalı olarak işaretlemesinin ikinci gerekçesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir kavramın hem varlığı tartışmalı hem bir kuramın basamağı olması, atlasın bu dosyayı tartışmalı olarak işaretlemesinin ikinci gerekçesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yapısal tarih yaklaşımı dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Klasik feodalite, vasallık, Fransa'daki feodal devrim ve feodal toplumun yapısı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler ola",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

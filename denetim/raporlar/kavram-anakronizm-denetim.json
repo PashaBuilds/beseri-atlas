@@ -1,0 +1,55 @@
+{
+  "id": "kavram-anakronizm",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:27:04.133Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kavramın türlerini üç alt başlıkta tutar: parakronizm, prokronizm ve metakronizm.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, siyasi güdümlü anakronizm ile bilinçsiz anakronizmi ayrı başlıklar olarak tutar; ayrıca sanat ve edebiyat başlığı altında komik anakronizm, gelecek anak",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir hatanın kasıtlı ve kasıtsız biçimlerinin ayrı ayrı adlandırılması, atlasın anakronizm dedektörünü neden bir hüküm değil bir işaret olarak kullandığının daya",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, sahteciliğin saptanması diye ayrı bir bölüm tutar ve akademideki kullanımına da ayrı bir başlık ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı olgunun hem bir üslup sorunu hem bir doğrulama aracı olarak kaydedilmesi, atlasın terim kilidi ve anakronizm kapılarını neden aynı denetim zincirinde tuttu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kapının yakaladığı örneklerden biri, bir kavramın tanımladığı dönemde o dönemin insanlarınca kullanılmamış olmasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kavramların tarihselliği üzerine çalışan bir yazar için tutulan kayıt, onu hem tarihçi hem filozof olarak kaydeder ve iki akımla birden ilişkilendirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Türlerin ayrıntıları, edebiyat örnekleri ve akademik tartışmalar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
