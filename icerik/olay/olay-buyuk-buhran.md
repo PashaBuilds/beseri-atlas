@@ -18,6 +18,7 @@ ilgili:
   - olay-bretton-woods
   - olay-2008-finansal-krizi
   - dusunur-keynes
+  - kaynak-keynes-genel-teori
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

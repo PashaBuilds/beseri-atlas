@@ -13,6 +13,7 @@ ilgili:
   - dusunur-weber
   - kavram-mesruiyet
   - dusunur-durkheim
+  - kaynak-durkheim-intihar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

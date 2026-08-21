@@ -3029,7 +3029,7 @@ isler:
   - id: kaynak-durkheim-intihar
     tip: kaynak
     baslik: Durkheim — İntihar
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -3037,7 +3037,7 @@ isler:
   - id: kaynak-keynes-genel-teori
     tip: kaynak
     baslik: Keynes — Genel Teori
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

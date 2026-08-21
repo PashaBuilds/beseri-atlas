@@ -15,6 +15,7 @@ ilgili:
   - olay-buyuk-buhran
   - olay-bretton-woods
   - dusunur-smith
+  - kaynak-keynes-genel-teori
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

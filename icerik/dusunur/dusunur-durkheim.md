@@ -18,6 +18,7 @@ ilgili:
   - dusunur-foucault
   - kavram-ideal-tip
   - kavram-sekulerlesme
+  - kaynak-durkheim-intihar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

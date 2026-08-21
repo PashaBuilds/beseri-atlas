@@ -1,0 +1,67 @@
+{
+  "id": "kaynak-keynes-genel-teori",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:43:25.849Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eserin sıklıkla modern makroiktisadın temeli olarak görüldüğünü yazar ve yazarı 1883-1946 arasına yerleştirir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1930'ların çoğunda az sayıda kıdemli Amerikalı iktisatçının yazarla aynı fikirde olduğunu; buna karşın fikirlerinin kısa süre sonra yaygın kabul göreceğ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuramın kabulünün yayımından yıllar sonraya tarihlenmesi, atlasın şu kuralının dayanağıdır: bu eserin etkisine dair cümleler, hangi yıl için söylendiği beli",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kitabın yüksek işsizlik dönemlerinde talebi canlandırmak için hükümetin etkin iktisadi politikasını, örneğin bayındırlık işlerine harcama yapılmasını sa",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu öneriyi doğru ya da yanlış saymaz; kaynağın aktardığı bir konum olarak kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Önceki kuşaktan bir iktisat yazarı için tutulan kayıt, onun ahlak kuramının ahlaki pratiğe kılavuzluk etmesi gerektiğini düşündüğünü yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dönemin iktisadi serisinde sağlayıcının toplam satırı 1940 için 3.190,7 verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu değeri eserin tezinin kanıtı olarak sunmaz; seri sağlayıcının toplam satırıdır, tez ise belirli ülkelerin işsizlik politikasına dairdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu değeri eserin tezinin kanıtı olarak sunmaz; seri sağlayıcının toplam satırıdır, tez ise belirli ülkelerin işsizlik politikasına dairdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

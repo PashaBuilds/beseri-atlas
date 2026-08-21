@@ -1,0 +1,67 @@
+{
+  "id": "kaynak-durkheim-intihar",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:43:25.783Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eseri, yazarın kuram bölümünde toplumsal patoloji ve suç başlığı altında sapma ile birlikte ayrı bir alt başlık olarak tutar; yazarı 1858-1917 arasına ye",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarın amacının yapısal toplumsal olguları keşfetmek olduğunu ve toplum biliminin bütüncül olması gerektiğini, yani bireylerin belirli eylemleriyle sın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir bireysel eylemin toplumsal bir olgu olarak incelenmesi, atlasın şu kuralının dayanağıdır: bu esere atfedilen önermeler, bireysel değil toplumsal düzeyde idd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yıllarda yazan bir çağdaşı için tutulan kayıt, onun yöntem bölümünde yöntemsel bireyciliği ayrı bir alt başlık olarak tuttuğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki yöntem kararının karşıt yönlerde durması, atlasın kavram katmanında ideal tip dosyasını neden açtığının dayanağıdır; o dosya dosyasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki yöntem kararının karşıt yönlerde durması, atlasın kavram katmanında ideal tip dosyasını neden açtığının dayanağıdır; o dosya dosyasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli nüfus serisinde sağlayıcının toplam satırı 1900 için yaklaşık 1,65 milyar verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu seriyi eserin verileriyle birleştirmez: eser belirli ülkelerin istatistiklerine dayanır, seri ise sağlayıcının toplam satırıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu seriyi eserin verileriyle birleştirmez: eser belirli ülkelerin istatistiklerine dayanır, seri ise sağlayıcının toplam satırıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

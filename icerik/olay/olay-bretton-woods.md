@@ -23,6 +23,7 @@ ilgili:
   - aktor-imf
   - aktor-dunya-bankasi
   - dusunur-keynes
+  - kaynak-keynes-genel-teori
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1156,3 +1156,13 @@ hat_duzeltmesi:
     aksiyon: >-
       k3 bagimsiz alan adiyla degistirildi ve ::tartismali yonergesi eklendi.
       Iki kapi da ayni turda devreye girdi.
+
+# Faz 4 turu B26: Durkheim Intihar, Keynes Genel Teori — 2026-08-21
+  - bulgu: >-
+      Uc ORTA ciddiyetli kapsam-carpitmasi: "dunya toplamini verir" ifadesi
+      bolgesel etiketli dosyalarda.
+    aksiyon: >-
+      Itiraz HAKLIYDI. Etiket genisletmek yerine IFADE daraltildi:
+      "saglayicinin toplam satirini verir". Bu daha dogru bir tarif — OWID
+      CSV'sinde World bir satirdir — ve kuresel kapsam iddiasi tasimaz.
+      Standart ifade plan/faz-notlari.md icine yazildi.

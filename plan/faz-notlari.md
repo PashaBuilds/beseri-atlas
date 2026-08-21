@@ -355,3 +355,19 @@ yonlendirme notu dusuldu.
 KURAL: araclar/owid-indir.mjs bir yonlendirme izlediginde, makaleye yazilacak
 kaynak URL'si indirilen adres degil VARILAN adrestir. Arac yonlendirmeyi
 stderr'e yaziyor; o cikti okunup makaleye o adres yazilmali.
+
+## Yinelenen kapsam-carpitmasi isareti icin standart ifade (2026-08-21, Faz 4 B26)
+
+Bolgesel etiketli bir dosya OWID nufus/GSYH serisine atif yaptiginda curutucu
+duzenli olarak ORTA ciddiyette kapsam-carpitmasi isaretliyordu: "dunya toplamini
+verir" ifadesi kuresel dil sayiliyor.
+
+Iki cozum vardi. Birincisi bolge etiketine `kuresel` eklemek — bazi dosyalarda
+dogru (kavram-konfucyus, kaynak-weber-protestan-ahlaki: kaynak fiilen kuresel
+bir kapsam anlatiyor), ama bir dusunur eserinin dosyasinda ust veriyi
+genisletmek yanlis olurdu.
+
+Ikinci cozum benimsendi: ifade daraltildi. "dunya toplamini verir" yerine
+"saglayicinin toplam satirini verir". Bu daha DOGRU bir ifade — OWID CSV'sinde
+`World,OWID_WRL` bir satirdir, bir dunya iddiasi degil — ve kuresel kapsam
+iddiasi tasimaz. Bundan sonraki dosyalarda bu ifade kullaniliyor.
