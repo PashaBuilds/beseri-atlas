@@ -23,6 +23,7 @@ ilgili:
   - aktor-tang-hanedani
   - aktor-karolenj-imparatorlugu
   - olay-islam-fetihleri
+  - olay-talas-savasi
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

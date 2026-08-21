@@ -19,6 +19,9 @@ ilgili:
   - donem-08
   - donem-10
   - tartisma-bati-neden-yukseldi
+  - olay-otuz-yil-savaslari
+  - olay-reform
+  - olay-vestfalya-barisi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

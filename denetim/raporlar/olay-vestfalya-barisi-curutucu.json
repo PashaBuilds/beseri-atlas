@@ -1,0 +1,14 @@
+{
+  "id": "olay-vestfalya-barisi",
+  "gecis": 3,
+  "zaman": "2026-08-21T05:10:10.841Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "\"Vestfalyan egemenlik\" anlatısının evrenselliğini sınamak için aynı yüzyıla başka bir yerden bakmak yeterlidir. Osmanlı taşrasında klasik dönemin tımarlı eyaletler düzeninin yanınd",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

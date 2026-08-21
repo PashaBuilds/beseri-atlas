@@ -1,0 +1,67 @@
+{
+  "id": "olay-reform",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:10:02.066Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Reform'un başlangıç işareti bellidir: Doksan Beş Tez, Martin Luther tarafından 1517'de yazılmıştır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Reform'un öncüllerini kendi başlığı altında sayar: Peter Waldo ve Valdocular, John Wycliffe ve Lollardlar, Jan Hus ve Hüsçüler, Girolamo Savonarola ve P",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın bu öncülleri ayrı bir başlık altında sayması, 1517'nin bir icat değil bir kırılma noktası olduğunu gösterir: aynı itirazlar daha önce de dile getirilmi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın katkıda bulunan etkenler başlığı altında saydıkları, olayı yalnızca teolojiye indirgemeyi engeller: Batı Ayrılığı, Avignon Papalığı, Bohemya Reformu, K",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, hareketin yayılmasını üç kanal altında ele alır: matbaa, vaizler ve şehirler; aynı bölümde çatışma ve denetim de yer alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak alternatifler başlığı altında Saksonya radikalleri ve isyancı şövalyeler, Zwingli, İsviçreli Kardeşler ve Köylüler Savaşı'nı sayar; ardından bir pekişme ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın bu alternatifleri ayrı ayrı sayması, hareketin tek bir öğretinin yerini başka tek bir öğretiye bırakması değil otoritenin parçalanması olduğunu gösteri",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yedi seçici prensin daha önce üç Protestan ve dört Katolik'ten oluşması nedeniyle, Ferdinand'ın yerine Frederick'in geçmesi dinî dengeyi değiştirecek ve Protest",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Vestfalya, Augsburg düzenlemesinin ius reformandi politikasını — tebaanın hükümdarının dinine uyması ilkesini — teyit etmek yerine, onun yerine egemen hükümdarl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Çağdaş dünya nüfusu, uzun dönemli seride 1500 yılı için yaklaşık 503,1 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

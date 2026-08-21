@@ -22,6 +22,7 @@ ilgili:
   - donem-09
   - donem-16
   - aktor-song-hanedani
+  - olay-cheng-ho-seferleri
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

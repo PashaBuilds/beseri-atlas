@@ -1,0 +1,61 @@
+{
+  "id": "olay-istanbulun-fethi",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:10:01.920Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bizans İmparatorluğu'nun başkenti Konstantinopolis, 6 Nisan'da başlayan elli üç günlük bir kuşatmanın doruk noktası olarak 29 Mayıs 1453'te Osmanlı İmparatorluğ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Konstantinopolis, 330'da Roma İmparatoru Büyük Konstantin döneminde kutsanmasından beri bir imparatorluk başkentiydi; izleyen on bir yüzyıl boyunca şehir birçok",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Konstantinos Palaiologos önderlik ediyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savunma tarafı çokuluslu bir birleşimdi: kaynak, savunucular arasında İtalyan şehir devletlerinden gelen birlikleri, Fransızları, İspanyolları, Almanları ve İsk",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Venedik'te Cumhuriyet'in Konstantinopolis'e ne tür bir yardım göndereceği görüşülüyordu; Senato Şubat 1453'te bir filo göndermeye karar verdi, ancak filonun har",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mehmed, Edirne'nin yerine Konstantinopolis'i yeni Osmanlı başkenti yaptı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Fetheden düzenin kurumsal tarihi dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak olayın anlamını açık biçimde nitelendirir: Konstantinopolis'in ve Bizans İmparatorluğu'nun düşüşü Geç Orta Çağ'ın bir dönüm anıydı ve kabaca MÖ 27'de baş",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "yüzyıldaki çöküşünden sonra ayakta kalmış ve 1453'e kadar sürmüştür.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

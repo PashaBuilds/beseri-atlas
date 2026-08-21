@@ -1,0 +1,61 @@
+{
+  "id": "olay-vestfalya-barisi",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:10:02.130Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Birçok uluslararası ilişkiler araştırmacısı Vestfalya Barışı'nı, topluca \"Vestfalyan egemenlik\" olarak bilinen ve modern uluslararası ilişkiler için belirleyici",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Vestfalya, Barışı, Vestfalyan"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karşı görüş de aynı kaynakta yer alır: bazı tarihçiler bu değerlendirmeye karşı çıkmış ve böyle görüşlerin, on dokuzuncu ve yirminci yüzyıllarda o dönemin egeme",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kendisi tartışmayı şöyle çerçeveler: Vestfalya Barışı'nın kritik bir dönüm noktası olup olmadığından bağımsız olarak, ona dair anlatılar sürmektedir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Vestfalya, Barışı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Vestfalya, Augsburg düzenlemesinin ius reformandi politikasını — tebaanın hükümdarının dinine uyması ilkesini — teyit etmek yerine, onun yerine egemen hükümdarl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin kendisi, itirazları da önceden geçersiz kılar: hükümlerin, ister ruhban ister sivil olsun, imparatorluk içinden ya da dışından herhangi birinin herhangi ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İsviçre, Kutsal Roma İmparatorluğu'ndan resmen ayrıldı — 1499 Basel Antlaşması'ndan beri fiilen bağımsız olmasına rağmen; savaş sırasında kurulan ticaret ve müb",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Antlaşmalar Otuz Yıl Savaşları'ndan doğan çatışmaları bütünüyle sona erdirmedi; Fransa ile İspanya arasındaki çarpışma 1659'daki Pireneler Antlaşması'na kadar s",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Savaşın kendisi dosyasında ele alınıyor; savaşın iki evresi 1618–1635 ve 1635–1648 olarak ayrılır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Osmanlı taşrasında klasik dönemin tımarlı eyaletler düzeninin yanında özel statülü birimler de bulunuyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

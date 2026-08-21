@@ -1,0 +1,67 @@
+{
+  "id": "olay-hacli-seferleri",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:10:01.861Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Aleksios Komnenos (1081-1118) arasında aynı konu yeniden ele alındı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Süleyman Şah'ın 1086 yılında ölümünden sonra Türk beyleri arasındaki anlaşmazlıklar yüzünden hâkimiyet bölünmüştü; Melikşah'ın vefatının (1092) ardından hânedan",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu sebeple Bizans imparatoru, güçlü ordularla yapılacak birkaç seferin Anadolu'daki Türk kudretini tamamen kıracağını düşünüyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Karşı taraftaki hanedan bölünmesinin mantığı dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İmparatorun yardım isteğini kabul eden Urbanus bu isteği farklı bir açıdan değerlendirdi: ona göre ücretli asker toplamak yerine Batı'nın şövalyeleri, topraksız",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayıt, çağrının hangi temalar üzerine oturtulacağını da belirtir: manevî bakımdan dinî hisleri tatmin edecek bir cazibe ile Doğu'ya yönlendirme, ve seferin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Urbanus, Clermont Konsili sırasında din adamlarından ve halktan oluşan büyük bir kalabalığa hitap ederek onları Haçlı seferine katılmaya çağırdı (27 Kasım 1095)",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Konuşmanın içeriği de kayıtlıdır: Batı hıristiyanlarına Doğu'daki din kardeşlerinin durumunu, bunun İstanbul için nasıl bir tehlike teşkil ettiğini ve Doğu hıri",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ona göre İspanya'da müslüman Araplar'a karşı sürdürülen savaşla Doğu'da Türkler'e karşı yapılacak mücadele aynı derecede kutsaldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Talepte bulunan devletin büyüklüğü kayıtlıdır: Bizans için 1025 yılında yaklaşık 12.000.000 nüfus ve 1.675.000 kilometrekare alan verilir.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "olay-cheng-ho-seferleri",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:10:01.815Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Ming hazine seferleri, 1405 ile 1433 arasındaki deniz yolculuklarıdır; proje, Güney Çin Denizi ile Hint Okyanusu'nun kıyı bölgelerine ve adalarına yönelik yedi ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Amiral Zheng He, seferler için filonun komutasıyla görevlendirildi; yolculukların altısı Yongle İmparatoru'nun saltanatında (hükümdarlığı 1402–1424), yedincisi ",
+      "durum": "OK",
+      "not": "7 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İlk üç sefer Hindistan'ın Malabar kıyısındaki Kalikut'a kadar ulaştı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Filonun üst düzey subayları — Amiral Zheng He gibi — hadım kurumundan geliyordu; Zheng, Saray Hizmetlileri Müdürlüğü'nde Baş Müdür olarak görev yapıyordu.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mürettebatın geri kalanı ağırlıklı olarak Ming ordusundandı ve çoğunlukla Fujian'dan devşiriliyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Filonun inşası için gerekli kaynakları sağlamak üzere Min Nehri boyunca ve Yangtze'nin yukarı kesimlerinde çok sayıda ağaç kesildi.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mevcut gemiler de seferlerde hizmet etmek üzere dönüştürüldü; ancak bu, yalnızca 1407'de sipariş edilen 249 gemi için kesin olarak söylenebilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ming hazine seferlerinin başlangıcında Çin hazine filosu Longjiang tersanesinden hareket etti ve Yangtze Nehri'nden aşağı Liujiagang'a doğru yol aldı; Zheng He ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "yüzyılda yüksek fırınlarda odun kömürü yerine taş kömürü kullanımına geçilmişti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çağdaş dünya nüfusu, uzun dönemli seride 1300 yılı için yaklaşık 456,2 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

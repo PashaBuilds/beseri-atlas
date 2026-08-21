@@ -1,0 +1,21 @@
+{
+  "id": "olay-reform",
+  "gecis": 3,
+  "zaman": "2026-08-21T05:10:34.611Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynağın bu alternatifleri ayrı ayrı sayması,[^k1] hareketin tek bir öğretinin yerini başka tek bir öğretiye bırakması değil otoritenin parçalanması olduğunu gösterir. Bu parçalanm",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bölünmenin kurumsal karşılığı imparatorluk siyasetinde görülür. Savaşı anlatan kaynağa göre yedi seçici prensin daha önce üç Protestan ve dört Katolik'ten oluşması nedeniyle, Ferdi",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

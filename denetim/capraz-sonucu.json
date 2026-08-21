@@ -1,6 +1,6 @@
 {
-  "zaman": "2026-08-21T05:00:32.210Z",
-  "makale_sayisi": 67,
+  "zaman": "2026-08-21T05:11:13.250Z",
+  "makale_sayisi": 74,
   "celiskiler": [],
   "incelenecek": [
     {
@@ -98,9 +98,54 @@
       "seviye": "incele",
       "makaleler": [
         "donem-13",
+        "olay-otuz-yil-savaslari"
+      ],
+      "detay": "\"Fransa\" — donem-13: 1923 / olay-otuz-yil-savaslari: 1659"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-13",
+        "olay-vestfalya-barisi"
+      ],
+      "detay": "\"Fransa\" — donem-13: 1923 / olay-vestfalya-barisi: 1659"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-13",
         "tartisma-1914-savas-sorumlulugu"
       ],
       "detay": "\"Fransa\" — donem-13: 1923 / tartisma-1914-savas-sorumlulugu: 2013"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-otuz-yil-savaslari",
+        "tartisma-1914-savas-sorumlulugu"
+      ],
+      "detay": "\"Fransa\" — olay-otuz-yil-savaslari: 1659 / tartisma-1914-savas-sorumlulugu: 2013"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-vestfalya-barisi",
+        "tartisma-1914-savas-sorumlulugu"
+      ],
+      "detay": "\"Fransa\" — olay-vestfalya-barisi: 1659 / tartisma-1914-savas-sorumlulugu: 2013"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-13",
+        "olay-vestfalya-barisi"
+      ],
+      "detay": "\"İspanya\" — donem-13: 1923 / olay-vestfalya-barisi: 1659"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -143,9 +188,27 @@
       "seviye": "incele",
       "makaleler": [
         "olay-1914-temmuz-krizi",
+        "olay-otuz-yil-savaslari"
+      ],
+      "detay": "\"Alman\" — olay-1914-temmuz-krizi: 1914 / olay-otuz-yil-savaslari: 1632"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-1914-temmuz-krizi",
         "tartisma-1914-savas-sorumlulugu"
       ],
       "detay": "\"Alman\" — olay-1914-temmuz-krizi: 1914 / tartisma-1914-savas-sorumlulugu: 1920"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-otuz-yil-savaslari",
+        "tartisma-1914-savas-sorumlulugu"
+      ],
+      "detay": "\"Alman\" — olay-otuz-yil-savaslari: 1632 / tartisma-1914-savas-sorumlulugu: 1920"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -187,6 +250,249 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
+        "olay-cheng-ho-seferleri",
+        "olay-iskender-seferleri"
+      ],
+      "detay": "\"Çağdaş\" — olay-cheng-ho-seferleri: 1300 / olay-iskender-seferleri: 1000"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-cheng-ho-seferleri",
+        "olay-pon-savaslari"
+      ],
+      "detay": "\"Çağdaş\" — olay-cheng-ho-seferleri: 1300 / olay-pon-savaslari: 1000"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-cheng-ho-seferleri",
+        "olay-roma-cumhuriyetinin-sonu"
+      ],
+      "detay": "\"Çağdaş\" — olay-cheng-ho-seferleri: 1300 / olay-roma-cumhuriyetinin-sonu: 1000"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-cheng-ho-seferleri",
+        "aktor-asur-imparatorlugu"
+      ],
+      "detay": "\"Çağdaş\" — olay-cheng-ho-seferleri: 1300 / aktor-asur-imparatorlugu: 1000"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-cheng-ho-seferleri",
+        "aktor-bizans-imparatorlugu"
+      ],
+      "detay": "\"Çağdaş\" — olay-cheng-ho-seferleri: 1300 / aktor-bizans-imparatorlugu: 1000"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-cheng-ho-seferleri",
+        "aktor-hitit-imparatorlugu"
+      ],
+      "detay": "\"Çağdaş\" — olay-cheng-ho-seferleri: 1300 / aktor-hitit-imparatorlugu: 1000"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-cheng-ho-seferleri",
+        "aktor-maurya-imparatorlugu"
+      ],
+      "detay": "\"Çağdaş\" — olay-cheng-ho-seferleri: 1300 / aktor-maurya-imparatorlugu: 1000"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-cheng-ho-seferleri",
+        "olay-otuz-yil-savaslari"
+      ],
+      "detay": "\"Çağdaş\" — olay-cheng-ho-seferleri: 1300 / olay-otuz-yil-savaslari: 1600"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-cheng-ho-seferleri",
+        "olay-reform"
+      ],
+      "detay": "\"Çağdaş\" — olay-cheng-ho-seferleri: 1300 / olay-reform: 1500"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-iskender-seferleri",
+        "olay-otuz-yil-savaslari"
+      ],
+      "detay": "\"Çağdaş\" — olay-iskender-seferleri: 1000 / olay-otuz-yil-savaslari: 1600"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-iskender-seferleri",
+        "olay-reform"
+      ],
+      "detay": "\"Çağdaş\" — olay-iskender-seferleri: 1000 / olay-reform: 1500"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-pon-savaslari",
+        "olay-otuz-yil-savaslari"
+      ],
+      "detay": "\"Çağdaş\" — olay-pon-savaslari: 1000 / olay-otuz-yil-savaslari: 1600"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-pon-savaslari",
+        "olay-reform"
+      ],
+      "detay": "\"Çağdaş\" — olay-pon-savaslari: 1000 / olay-reform: 1500"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-roma-cumhuriyetinin-sonu",
+        "olay-otuz-yil-savaslari"
+      ],
+      "detay": "\"Çağdaş\" — olay-roma-cumhuriyetinin-sonu: 1000 / olay-otuz-yil-savaslari: 1600"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-roma-cumhuriyetinin-sonu",
+        "olay-reform"
+      ],
+      "detay": "\"Çağdaş\" — olay-roma-cumhuriyetinin-sonu: 1000 / olay-reform: 1500"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-asur-imparatorlugu",
+        "olay-otuz-yil-savaslari"
+      ],
+      "detay": "\"Çağdaş\" — aktor-asur-imparatorlugu: 1000 / olay-otuz-yil-savaslari: 1600"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-asur-imparatorlugu",
+        "olay-reform"
+      ],
+      "detay": "\"Çağdaş\" — aktor-asur-imparatorlugu: 1000 / olay-reform: 1500"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-bizans-imparatorlugu",
+        "olay-otuz-yil-savaslari"
+      ],
+      "detay": "\"Çağdaş\" — aktor-bizans-imparatorlugu: 1000 / olay-otuz-yil-savaslari: 1600"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-bizans-imparatorlugu",
+        "olay-reform"
+      ],
+      "detay": "\"Çağdaş\" — aktor-bizans-imparatorlugu: 1000 / olay-reform: 1500"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-hitit-imparatorlugu",
+        "olay-otuz-yil-savaslari"
+      ],
+      "detay": "\"Çağdaş\" — aktor-hitit-imparatorlugu: 1000 / olay-otuz-yil-savaslari: 1600"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-hitit-imparatorlugu",
+        "olay-reform"
+      ],
+      "detay": "\"Çağdaş\" — aktor-hitit-imparatorlugu: 1000 / olay-reform: 1500"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-maurya-imparatorlugu",
+        "olay-otuz-yil-savaslari"
+      ],
+      "detay": "\"Çağdaş\" — aktor-maurya-imparatorlugu: 1000 / olay-otuz-yil-savaslari: 1600"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-maurya-imparatorlugu",
+        "olay-reform"
+      ],
+      "detay": "\"Çağdaş\" — aktor-maurya-imparatorlugu: 1000 / olay-reform: 1500"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-otuz-yil-savaslari",
+        "olay-reform"
+      ],
+      "detay": "\"Çağdaş\" — olay-otuz-yil-savaslari: 1600 / olay-reform: 1500"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-istanbulun-fethi",
+        "olay-malazgirt"
+      ],
+      "detay": "\"Mayıs\" — olay-istanbulun-fethi: 1453 / olay-malazgirt: 1071"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-istanbulun-fethi",
+        "olay-otuz-yil-savaslari"
+      ],
+      "detay": "\"Mayıs\" — olay-istanbulun-fethi: 1453 / olay-otuz-yil-savaslari: 1618"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-malazgirt",
+        "olay-otuz-yil-savaslari"
+      ],
+      "detay": "\"Mayıs\" — olay-malazgirt: 1071 / olay-otuz-yil-savaslari: 1618"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
         "olay-kavimler-gocu",
         "tartisma-romanin-cokus-nedeni"
       ],
@@ -200,6 +506,15 @@
         "tartisma-romanin-cokus-nedeni"
       ],
       "detay": "\"Roma\" — aktor-bizans-imparatorlugu: 1453 / tartisma-romanin-cokus-nedeni: 1984"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-otuz-yil-savaslari",
+        "kavram-demografik-gecis"
+      ],
+      "detay": "\"İsveç\" — olay-otuz-yil-savaslari: 1632 / kavram-demografik-gecis: 1800"
     },
     {
       "tur": "varlik-yil-ayrismasi",

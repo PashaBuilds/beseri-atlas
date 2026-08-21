@@ -134,3 +134,22 @@ hat_duzeltmesi:
       degildi", "tek bir cephede yurumedigini", "tek nedenli aciklamalarin",
       "tek bir sehirde") tetikleniyor. Bunlar onculuk/ustunluk iddiasi
       tasimiyor.
+
+# Faz 2 turu B12: ortacag-erken modern olay kumesi — 2026-08-21
+  - bulgu: >-
+      Curutucu, olay-hacli-seferleri'nde "tamamen" ifadesini atif cercevesi
+      olmadan kullanilmis kesinlik dili saydi; ayni makalede ve olay-reform'da
+      nedensellik iddialarinin tek kaynaga dayandigini isaretledi.
+    aksiyon: >-
+      Uc cumle de "kaynagin kaydina gore", "ayni kayda gore", "savasi anlatan
+      kaynaga gore" ile acikca kaynaga atfedildi. Iki tek-kaynakli-nedensellik
+      itirazi bu duzeltmeden sonra da tetikleniyor, cunku dedektor cumledeki
+      referans SAYISINA bakiyor; bunlar dosyanin basindaki genel
+      "tek-kaynakli-nedensellik / gerekcelendirildi" karari kapsamindadir:
+      iddia "X oldugu icin Y oldu" degil, "K kaynagi sunu soyluyor"dur.
+  - tip: ustunluk-iddiasi
+    kapsam: "faz-2 B12 kumesi"
+    karar: yanlis-pozitif
+    gerekce: >-
+      Onceki turlarla ayni: "tek bir ogretinin", "tek renkli", "tek dogrudan
+      karsilasma" gibi sayi anlaminda kullanilan ifadeler tetikliyor.

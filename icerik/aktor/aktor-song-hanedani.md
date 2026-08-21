@@ -16,6 +16,7 @@ ilgili:
   - donem-07
   - tartisma-bati-neden-yukseldi
   - aktor-mogol-imparatorlugu
+  - olay-cheng-ho-seferleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

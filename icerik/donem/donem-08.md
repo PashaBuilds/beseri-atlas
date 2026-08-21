@@ -20,6 +20,8 @@ ilgili:
   - donem-09
   - aktor-osmanli-imparatorlugu
   - olay-kara-olum
+  - olay-cheng-ho-seferleri
+  - olay-istanbulun-fethi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

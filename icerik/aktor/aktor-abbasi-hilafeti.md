@@ -16,6 +16,7 @@ ilgili:
   - donem-06
   - aktor-buyuk-selcuklu
   - olay-islam-fetihleri
+  - olay-talas-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

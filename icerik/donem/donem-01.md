@@ -167,7 +167,7 @@ tartışmaya taraf olmaz.
 Dönemin sonunda ortaya çıkan örgütlenme sorunları, sonraki dönemin şehir
 devletlerinde kurumsal biçimlerini alacaktır.
 
-::tartismali[Tarım devriminin insan refahını artırıp artırmadığı — ve bir "ilerleme" sayılıp sayılamayacağı — arkeoloji ve antropolojide açık bir tartışmadır.]{harita=tartisma-bati-neden-yukseldi}
+::tartismali[Tarım devriminin insan refahını artırıp artırmadığı — ve bir "ilerleme" sayılıp sayılamayacağı — arkeoloji ve antropolojide açık bir tartışmadır.]{harita=tartisma-tarim-devrimi-ilerleme-mi}
 
 ## Fikir dünyası
 

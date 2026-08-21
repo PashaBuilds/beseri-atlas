@@ -18,6 +18,7 @@ ilgili:
   - donem-08
   - donem-12
   - olay-tanzimat-fermani
+  - olay-istanbulun-fethi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

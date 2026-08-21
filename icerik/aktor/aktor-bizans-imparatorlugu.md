@@ -23,6 +23,8 @@ ilgili:
   - olay-kavimler-gocu
   - olay-malazgirt
   - tartisma-romanin-cokus-nedeni
+  - olay-hacli-seferleri
+  - olay-istanbulun-fethi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

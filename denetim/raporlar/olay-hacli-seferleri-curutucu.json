@@ -1,0 +1,14 @@
+{
+  "id": "olay-hacli-seferleri",
+  "gecis": 3,
+  "zaman": "2026-08-21T05:10:34.608Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bizans'ın beklentisi sınırlıydı ve somuttu. Kaynağın kaydına göre Anadolu'da, I. Süleyman Şah'ın 1086 yılında ölümünden sonra Türk beyleri arasındaki anlaşmazlıklar yüzünden hâkimi",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

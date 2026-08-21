@@ -337,7 +337,7 @@ isler:
   - id: olay-talas-savasi
     tip: olay
     baslik: Talas Savaşı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-06
@@ -355,7 +355,7 @@ isler:
   - id: olay-hacli-seferleri
     tip: olay
     baslik: Haçlı Seferleri
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-07
@@ -382,7 +382,7 @@ isler:
   - id: olay-istanbulun-fethi
     tip: olay
     baslik: İstanbul'un fethi
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-08
@@ -391,7 +391,7 @@ isler:
   - id: olay-cheng-ho-seferleri
     tip: olay
     baslik: Zheng He seferleri
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-08
@@ -409,7 +409,7 @@ isler:
   - id: olay-reform
     tip: olay
     baslik: Protestan Reformu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-09
@@ -418,7 +418,7 @@ isler:
   - id: olay-vestfalya-barisi
     tip: olay
     baslik: Vestfalya Barışı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-09
@@ -427,7 +427,7 @@ isler:
   - id: olay-otuz-yil-savaslari
     tip: olay
     baslik: Otuz Yıl Savaşları
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-09

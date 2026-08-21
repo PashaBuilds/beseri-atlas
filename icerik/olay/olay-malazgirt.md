@@ -16,6 +16,7 @@ ilgili:
   - donem-07
   - aktor-buyuk-selcuklu
   - aktor-bizans-imparatorlugu
+  - olay-hacli-seferleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

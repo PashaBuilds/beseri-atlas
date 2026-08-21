@@ -14,6 +14,7 @@ guven_geneli: yaygin
 etiketler: [tang, cin, imparatorluk-sinavi, changan, hanedan]
 ilgili:
   - donem-06
+  - olay-talas-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

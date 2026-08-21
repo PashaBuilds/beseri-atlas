@@ -23,6 +23,7 @@ ilgili:
   - aktor-buyuk-selcuklu
   - aktor-song-hanedani
   - olay-malazgirt
+  - olay-hacli-seferleri
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

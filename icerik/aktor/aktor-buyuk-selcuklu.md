@@ -17,6 +17,7 @@ ilgili:
   - aktor-abbasi-hilafeti
   - aktor-bizans-imparatorlugu
   - olay-malazgirt
+  - olay-hacli-seferleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

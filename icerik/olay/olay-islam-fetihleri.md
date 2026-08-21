@@ -17,6 +17,7 @@ ilgili:
   - aktor-sasani-imparatorlugu
   - aktor-bizans-imparatorlugu
   - aktor-abbasi-hilafeti
+  - olay-talas-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
