@@ -15,6 +15,7 @@ ilgili:
   - kavram-kentlesme
   - olay-yesil-devrim
   - veri-kentlesme-orani-1500-2023
+  - veri-tarimsal-verim
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/tarim-istihdami.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

@@ -14,6 +14,7 @@ ilgili:
   - kavram-demografik-gecis
   - olay-irlanda-kitligi
   - kaynak-malthus-nufus
+  - veri-tarimsal-verim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -17,6 +17,7 @@ ilgili:
   - olay-nufus-patlamasi
   - kavram-demografik-gecis
   - veri-tarim-istihdami
+  - veri-tarimsal-verim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -15,6 +15,7 @@ ilgili:
   - kavram-demografik-gecis
   - veri-yasam-beklentisi-1770-2023
   - veri-dunya-nufusu-1500-2025
+  - veri-bebek-olumleri
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/cocuk-olumleri.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

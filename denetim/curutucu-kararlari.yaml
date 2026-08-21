@@ -1209,3 +1209,14 @@ hat_duzeltmesi:
       kavram-malthus-tuzagi, tartisma-osmanli-gerileme-tezi ve
       tartisma-sanayi-devrimi-neden-ingiltere ile ayni cozum. Bu, ayni
       dedektorun dorduncu yakalamasi.
+
+# Faz 4 turu B35: bebek olumleri, tarimsal verim (veri) — 2026-08-21
+  - bulgu: Tek itiraz dusuk ciddiyette ustunluk-iddiasi tipinde.
+    aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.
+  - bulgu: >-
+      key-crop-yields kumesi ayni dosyada birden cok urun sutunu tasiyor;
+      owid-indir.mjs varsayilan olarak ilk deger sutununu aliyor.
+    aksiyon: >-
+      Alinan sutun (bugday) hem lisans dosyasinda hem makale govdesinde acikca
+      yazildi. Aksi halde "tarimsal verim" ifadesi hangi urunu kastettigi
+      belirsiz kalirdi.

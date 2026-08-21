@@ -1,0 +1,14 @@
+{
+  "id": "veri-tarimsal-verim",
+  "gecis": 3,
+  "zaman": "2026-08-21T12:01:40.483Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Veri kümesinin başlık satırı aynı dosyada birden çok ürün için verim sütunu tutar; bu dosya yalnızca ilk sütunu, buğday verimini kaydeder.[^k1]",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

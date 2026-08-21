@@ -1,0 +1,61 @@
+{
+  "id": "veri-bebek-olumleri",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:01:39.109Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Seri 1990'da 6,399028 ile başlar ve 2024'te 2,7679465 ile biter.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Veri kümesinin sütun adı, gözlem değerini bebek ölüm oranı göstergesi için ve cinsiyet ile varlık dilimi kırılımları toplam olarak tanımlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir ölçünün adında hangi alt grupların birleştirildiğinin yazması, atlasın şu kuralının dayanağıdır: bu seriden okunan değerler, hangi kırılımın toplandığı beli",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı sağlayıcının beş yaş altı ölüm oranı serisinde uç değerler 1800 için yüzde 42,8 ve 2024 için yüzde 3,74'tür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki serinin aynı yıl için farklı sayılar vermesi, iki ölçünün farklı yaş aralıklarını kapsadığını gösterir; atlas bu iki dosyayı ayrı tutar ve değerlerini birbi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki serinin aynı yıl için farklı sayılar vermesi, iki ölçünün farklı yaş aralıklarını kapsadığını gösterir; atlas bu iki dosyayı ayrı tutar ve değerlerini birbi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Veri kümesinde sağlayıcının toplam satırı için 1990'dan önce gözlem bulunmaz.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Nüfus artışı üzerine bir model için tutulan kayıt, aile geçindirmenin güçlüklerinin sonunda nüfus artış hızını azalttığını öne süren bir döngüyü anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke ülke oranlar, kırılımlara göre dağılım ve ölçüm yöntemi burada ayrı başlıklar altında ele alınmamıştır; bu dosya yalnızca sağlayıcının toplam satırını kayd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

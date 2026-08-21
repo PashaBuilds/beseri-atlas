@@ -2885,7 +2885,7 @@ isler:
   - id: veri-bebek-olumleri
     tip: veri
     baslik: Bebek ölüm oranı
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2893,7 +2893,7 @@ isler:
   - id: veri-tarimsal-verim
     tip: veri
     baslik: Tahıl verimi
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

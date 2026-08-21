@@ -20,6 +20,7 @@ ilgili:
   - veri-yasam-beklentisi-1770-2023
   - veri-cocuk-olumleri
   - veri-nufus-artis-hizi
+  - veri-bebek-olumleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
