@@ -499,7 +499,7 @@ isler:
   - id: olay-tanzimat-fermani
     tip: olay
     baslik: Tanzimat Fermanı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-12
@@ -598,7 +598,7 @@ isler:
   - id: olay-ikinci-dunya-savasi
     tip: olay
     baslik: İkinci Dünya Savaşı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-13
@@ -670,7 +670,7 @@ isler:
   - id: olay-sovyetler-dagilmasi
     tip: olay
     baslik: Sovyetler Birliği'nin dağılması
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-15

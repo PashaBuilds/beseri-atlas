@@ -1,0 +1,21 @@
+{
+  "id": "olay-ikinci-dunya-savasi",
+  "gecis": 3,
+  "zaman": "2026-08-21T04:23:37.151Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu savaşın ölçeği, tek bir karşılaştırmayla anlaşılır: yalnızca İkinci Dünya Savaşı'nda yirmi bir milyondan fazla muharip hayatını kaybetti.[^k1] Aynı kaynak, 1800'den bu yana gerç",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Verilen rakam **muharip** ölümleridir. Çarpışmalar nedeniyle ölen siviller, çatışmaların yol açtığı açlık ve hastalıktan kaynaklanan artan ölümler ve savaş sayılmayan küçük çatışma",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

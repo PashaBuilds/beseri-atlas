@@ -21,6 +21,7 @@ ilgili:
   - aktor-osmanli-imparatorlugu
   - olay-balkan-savaslari
   - olay-berlin-konferansi
+  - olay-tanzimat-fermani
 okuma_onerisi: []
 serit:
   - bolge: afrika

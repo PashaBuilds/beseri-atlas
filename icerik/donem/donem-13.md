@@ -23,6 +23,7 @@ ilgili:
   - donem-14
   - olay-buyuk-buhran
   - olay-versailles-antlasmasi
+  - olay-ikinci-dunya-savasi
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 serit:

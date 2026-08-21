@@ -1,0 +1,28 @@
+{
+  "id": "olay-sovyetler-dagilmasi",
+  "gecis": 3,
+  "zaman": "2026-08-21T04:23:37.155Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Yerine kurulan düzenin çerçevesi bütünleşmedir. Küreselleşme, dünya çapındaki farklı ülkelerin ekonomileri, toplumları ve kültürleri arasındaki bütünleşmeyi anlatır ve uluslararası",
+      "sorun": "Makale avrupa/dogu-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Ulaşım ve iletişim teknolojilerindeki ilerlemeler küresel etkileşimleri artırdı ve uluslararası ticaretin büyümesini destekledi;[^k2] bu hızlanma ile iki kutuplu düzenin sona ermes",
+      "sorun": "Makale avrupa/dogu-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Dağılmanın yaşandığı dünyada nüfus 1991'de yaklaşık 5,42 milyardı; 2008'de yaklaşık 6,84 milyara çıkacaktı.[^k3] Çözülme, hızla büyüyen bir dünyada gerçekleşti — bu, sonraki dönemi",
+      "sorun": "Makale avrupa/dogu-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    }
+  ]
+}

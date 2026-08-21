@@ -1,0 +1,55 @@
+{
+  "id": "olay-sovyetler-dagilmasi",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:23:36.872Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Soğuk Savaş'ın kapanışı 1985–1991 arasına yerleştirilir ve dört başlığı içerir: Gorbaçov'un reformları, ilişkilerde yumuşama, Doğu Avrupa'nın ayrılması ve Sovye",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kendi bölümlemesinde reformlar dağılmadan önce gelir; bu sıralama, çözülmenin kime atfedileceği sorusunu doğrudan etkiler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Soğuk Savaş, 1947 ile 1991 arasında ABD ile SSCB arasındaki jeopolitik rekabeti anlatır ve kırk dört yıl dokuz ay sürmüştür.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kıta iki askerî bloka bölünmüştü; NATO ve Varşova Paktı devletlerinin 1988'deki dağılımı dönemin standart haritasıdır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Küreselleşme, dünya çapındaki farklı ülkelerin ekonomileri, toplumları ve kültürleri arasındaki bütünleşmeyi anlatır ve uluslararası ticaretin önündeki engeller",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ulaşım ve iletişim teknolojilerindeki ilerlemeler küresel etkileşimleri artırdı ve uluslararası ticaretin büyümesini destekledi; bu hızlanma ile iki kutuplu düz",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dağılmanın yaşandığı dünyada nüfus 1991'de yaklaşık 5,42 milyardı; 2008'de yaklaşık 6,84 milyara çıkacaktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak tabanı, rekabeti 1947–1991 arası bir çerçevede ele alan maddedir.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

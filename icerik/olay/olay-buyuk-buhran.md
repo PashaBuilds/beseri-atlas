@@ -14,6 +14,7 @@ guven_geneli: yaygin
 etiketler: [buyuk-buhran, otarsi, ticaret, deflasyon, kriz]
 ilgili:
   - donem-13
+  - olay-ikinci-dunya-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

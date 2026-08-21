@@ -18,6 +18,7 @@ etiketler: [kuresellesme, tek-kutupluluk, ticaret, teknoloji, sermaye]
 ilgili:
   - donem-14
   - donem-16
+  - olay-sovyetler-dagilmasi
 okuma_onerisi: []
 serit:
   - bolge: kuresel

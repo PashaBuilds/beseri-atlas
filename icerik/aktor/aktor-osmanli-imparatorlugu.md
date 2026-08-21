@@ -17,6 +17,7 @@ ilgili:
   - donem-06
   - donem-08
   - donem-12
+  - olay-tanzimat-fermani
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
