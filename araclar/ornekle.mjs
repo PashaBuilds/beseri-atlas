@@ -23,7 +23,11 @@ export function ornekleme() {
       : skor >= 0.90 ? 'devam-uyari'
         : 'dur';
   return { skor, ham_skor: r.ham_skor, olculen: r.olculen, toplam: r.toplam_ornek,
-    turetilemedi: r.turetilemedi, davranis };
+    turetilemedi: r.turetilemedi, davranis,
+    // Ham sayimlar; skordan geri hesaplanamaz. `dogrulanan = round(skor*olculen)`
+    // 9 OK + 3 ISARET'i "11 dogrulandi" gibi gosteriyordu — kirilma sekli
+    // (celiski mi, kismi dogrulama mi) raporda gorunmez oluyordu.
+    ok: r.dogrulanan, isaret: r.isaret, hata: r.hata };
 }
 
 if (process.argv[1]?.endsWith('ornekle.mjs')) {
@@ -31,7 +35,7 @@ if (process.argv[1]?.endsWith('ornekle.mjs')) {
   const gecmis = metrikDosyasi().ornekleme_gecmisi || [];
   gecmis.push({
     zaman: new Date().toISOString(), skor: s.skor, ham_skor: s.ham_skor,
-    dogrulanan: Math.round(s.skor * s.olculen), toplam: s.olculen,
+    dogrulanan: s.ok, isaret: s.isaret, hata: s.hata, toplam: s.olculen,
     ornek_boyutu: s.toplam, turetilemedi: s.turetilemedi, davranis: s.davranis,
   });
   metrikYaz({ ornekleme_gecmisi: gecmis });

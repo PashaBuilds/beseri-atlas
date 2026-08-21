@@ -25,8 +25,12 @@ Toplam gövde: **40.345** kelime.
 
 ## Doğrulama
 
-Örnekleme kapısı geçmişi: 0.9583 / 0.8333 / 0.875
-Nihai skor: **0.875** (11/12 ölçülen iddia)
+Örnekleme kapısı geçmişi: 0.9583 / 0.8333 / 0.875 / 0.875
+Nihai skor: **0.875** (12 ölçülen iddia: 9 tam doğrulama, 3 kısmi doğrulama (yarım puan), 0 çelişki)
+
+> **HAT DURDU.** Ölçülen skor 0,90 eşiğinin altına düştü ve §16 uyarınca
+> üretim durduruldu. Tanı, onarım denemesi ve bekleyen karar
+> `denetim/MUDAHALE-GEREKLI.md` dosyasındadır.
 Ham skor: **0.45** (20 iddialık örneklem, 8 iddia bağımsız olarak türetilemedi)
 
 Geçiş 2 (kaynak denetimi): 885 OK · 7 ISARET · 0 HATA · 393 programatik olarak ölçülemedi

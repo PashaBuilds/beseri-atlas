@@ -173,3 +173,10 @@ başarısız olduğu anda değiştirme kararı üretici oturuma ait olamaz.
   bloklanmamış kaynak havuzu mu genişletilsin (aralıkların iki ucunu birlikte
   belgeleyen kaynaklar bulunana kadar), (c) yoksa aralık içeren cümleler
   makalelerde iki ayrı cümleye mi bölünsün.
+
+## Örnekleme kapısı kırıldı
+_2026-08-21T05:52:39.711Z_
+
+Ölçülen skor 0.875 < 0.90. Bu, projedeki tek koşulsuz durdurma kuralıdır (§16).
+Doğrulama oranı bu eşiğin altındayken üretmeye devam etmek, doğrulanamayan
+içerik hacmini büyütmekten başka bir şey yapmaz.

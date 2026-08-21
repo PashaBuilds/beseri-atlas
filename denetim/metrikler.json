@@ -29,8 +29,20 @@
       "ornek_boyutu": 20,
       "turetilemedi": 8,
       "davranis": "dur"
+    },
+    {
+      "zaman": "2026-08-21T05:52:39.707Z",
+      "skor": 0.875,
+      "ham_skor": 0.45,
+      "dogrulanan": 9,
+      "isaret": 3,
+      "hata": 0,
+      "toplam": 12,
+      "ornek_boyutu": 20,
+      "turetilemedi": 8,
+      "davranis": "dur"
     }
   ],
   "capraz_gecmisi": [],
-  "guncelleme": "2026-08-21T05:50:50.682Z"
+  "guncelleme": "2026-08-21T05:52:39.709Z"
 }
