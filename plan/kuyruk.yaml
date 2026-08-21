@@ -1909,7 +1909,7 @@ isler:
   - id: kavram-umran
     tip: kavram
     baslik: Umran
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2157,7 +2157,7 @@ isler:
   - id: kavram-kentlesme
     tip: kavram
     baslik: Kentleşme
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2165,7 +2165,7 @@ isler:
   - id: kavram-yasam-beklentisi
     tip: kavram
     baslik: Yaşam beklentisi
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2173,7 +2173,7 @@ isler:
   - id: kavram-gini-katsayisi
     tip: kavram
     baslik: Gini katsayısı
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

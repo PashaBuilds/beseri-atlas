@@ -17,6 +17,7 @@ ilgili:
   - kavram-tarihsel-materyalizm
   - kavram-kuresellesme
   - kavram-hegemonya
+  - kavram-gini-katsayisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

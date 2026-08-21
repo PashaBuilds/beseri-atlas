@@ -1,0 +1,61 @@
+{
+  "id": "kavram-yasam-beklentisi",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:57:03.265Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Veri kümesinin sütun adı ölçünün hangi yaşta hesaplandığını taşır: sıfır yaşta yaşam beklentisi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir ölçünün adında başlangıç yaşının bulunması, atlasın şu kuralının dayanağıdır: bu dosyada yaşam beklentisi, hangi yaşta hesaplandığı belirtilmeden aktarılmaz",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı veri kümesinde Afganistan için doğumdaki yaşam beklentisi 1950'de yaklaşık 28,16, 1960'ta yaklaşık 32,80, 1970'te yaklaşık 37,46'dır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı ülke için 1950 ile 1970 arasındaki üç kayıt arasındaki fark, verinin kendisinde okunabilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık 2,49 milyar, 2020 için yaklaşık 7,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki serinin farklı birimlerde olması (biri yıl, diğeri kişi), atlasın veri dosyalarında neden birim alanını ayrı tuttuğunun dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki serinin farklı birimlerde olması (biri yıl, diğeri kişi), atlasın veri dosyalarında neden birim alanını ayrı tuttuğunun dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Nüfus ve geçim ilişkisi üzerine erken bir kayıt, emekçi nüfusu gıda üretiminden hızlı büyüdüğünde gerçek ücretlerin düştüğünü öne süren bir modeli anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ölçünün hesaplanma yöntemi, ülke ülke seyri ve alt gruplar arası farklar burada ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak veri kümesidir, bir a",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

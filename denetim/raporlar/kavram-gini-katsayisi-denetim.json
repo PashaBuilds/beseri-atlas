@@ -1,0 +1,61 @@
+{
+  "id": "kavram-gini-katsayisi",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:57:03.096Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, sınırlamalar başlığı altında sekiz alt başlık tutar: görece olup mutlak olmaması, matematiksel sınırlamalar, gelir Gini'sinin servet eşitsizliğini gizle",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sınırlamalar listesinin ilk maddesinin görece olup mutlak olmaması olması, atlasın şu kuralının dayanağıdır: bu dosyada Gini değerleri, iki ülke ya da iki yıl k",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, gelir dağılımları başlığı altında bölgesel gelir Gini endeksleri ile 1800'lerden bu yana dünya gelir Gini endeksini ayrı alt başlıklarda tutar; toplumsa",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı ölçünün gelirden eğitime ve modern öncesi toplumlara kadar uygulanması, katsayının bir konu değil bir hesap yöntemi olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 990,4 milyon, 2020 için yaklaşık 7,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu seriyi katsayıyla birleştirmez; nüfus toplamı bir dağılım ölçüsü değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu seriyi katsayıyla birleştirmez; nüfus toplamı bir dağılım ölçüsü değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Eşitsizliği bir sistem özelliği sayan bir kuram için tutulan kayıt, merkez, çevre ve yarı çevre terimlerini ayrı ayrı tanımlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Katsayının hesaplanması, matematiksel biçimleri ve alternatif ölçüler burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

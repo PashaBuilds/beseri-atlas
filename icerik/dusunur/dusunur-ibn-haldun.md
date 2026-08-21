@@ -14,6 +14,7 @@ ilgili:
   - dusunur-aristoteles
   - dusunur-gazali
   - kavram-mesruiyet
+  - kavram-umran
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

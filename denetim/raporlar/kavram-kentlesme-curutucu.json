@@ -1,0 +1,14 @@
+{
+  "id": "kavram-kentlesme",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:58:02.546Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas burada tek bir ülkenin satırını örnek olarak verir; bu, iddianın kaynağa gidip doğrulanabilir olmasını sağlar. Aynı kümedeki dünya toplamı satırı, kullanılan çekme penceresin",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

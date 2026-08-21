@@ -14,6 +14,8 @@ ilgili:
   - olay-yesil-devrim
   - dusunur-malthus
   - kavram-malthus-tuzagi
+  - kavram-kentlesme
+  - kavram-yasam-beklentisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

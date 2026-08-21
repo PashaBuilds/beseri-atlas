@@ -12,6 +12,7 @@ ilgili:
   - dusunur-aristoteles
   - dusunur-thukydides
   - kavram-mesruiyet
+  - kavram-umran
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

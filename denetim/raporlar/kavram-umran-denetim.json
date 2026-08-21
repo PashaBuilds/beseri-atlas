@@ -1,0 +1,73 @@
+{
+  "id": "kavram-umran",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:57:50.015Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, İbn Haldûn'un düşünce sisteminin merkezini ilk defa kendisinin temellendirdiği umran ilminin oluşturduğunu yazar; maddenin Görüşleri bölümünün müellifi ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kavramı bir ilim olarak adlandırması, atlasın şu kuralının dayanağıdır: bu dosyada umran, bir konu başlığı olarak değil bir inceleme alanı önerisi olar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, maddenin dört bölümden oluştuğunu ve bölümlerin ayrı müellifler tarafından yazıldığını kaydeder; Ekonomi ve Toplum İlişkisi bölümünün müellifi İbrahim E",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tek bir ansiklopedi maddesinin dört ayrı imzayı taşıması, atlasın kaynak alanında neden müellif notu tuttuğunun dayanağıdır: bir madde içinde bile yazarlık bölü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, İbn Haldûn'un insanın varlığını devam ettirebilmesi için toplu hâlde yaşamak mecburiyetinde olduğunu belirttiğini yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu önermeyi bir olgu olarak değil, kaynağın aktardığı bir konum olarak taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bağımsız bir akademik kaynak, ortaçağ siyaset felsefesi maddesinde İbn Haldûn'a ayrı bir bölüm ayırır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Toplumu yapısal düzeyde okuyan sonraki bir yaklaşım için tutulan kayıt, zamanı katmanlara ayıran ve olayları en yüzeydeki katmana yerleştiren bir kurguyu anlatı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki yaklaşım arasında bir öncüllük bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas iki yaklaşım arasında bir öncüllük bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Umran ilminin içeriği, Mukaddime'nin yapısı ve sonraki alımlanması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

@@ -17,6 +17,8 @@ ilgili:
   - kavram-demografik-gecis
   - veri-dunya-nufusu-1500-2025
   - olay-yesil-devrim
+  - kavram-kentlesme
+  - kavram-yasam-beklentisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

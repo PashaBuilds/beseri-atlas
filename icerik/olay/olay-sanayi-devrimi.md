@@ -18,6 +18,7 @@ ilgili:
   - aktor-song-hanedani
   - dusunur-smith
   - kavram-buyuk-ayrisma
+  - kavram-kentlesme
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

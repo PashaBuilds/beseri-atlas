@@ -17,6 +17,7 @@ ilgili:
   - kavram-tarihsel-materyalizm
   - kavram-anakronizm
   - kavram-donemlendirme
+  - kavram-umran
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

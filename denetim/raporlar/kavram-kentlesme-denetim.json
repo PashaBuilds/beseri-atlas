@@ -1,0 +1,73 @@
+{
+  "id": "kavram-kentlesme",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:57:03.191Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Veri kümesinin sütun adı ölçümün ne olduğunu ve nasıl elde edildiğini birlikte taşır: kentsel alan türü için pay, veri türü tahminler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir ölçünün sütun adında hem alan türünün hem veri türünün belirtilmesi, atlasın şu kuralının dayanağıdır: bu dosyada kentleşme oranı, hangi kentsel tanımın ve ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı veri kümesinde Afganistan için kentsel nüfus payı 1950'de 5,78, 1960'ta yaklaşık 8,12'dir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kümedeki dünya toplamı satırı, kullanılan çekme penceresinin dışında kaldığı için bu dosyada kullanılmamıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık 2,49 milyar, 2020 için yaklaşık 7,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu iki kümeyi çarpmaz: kentleşme payı ülke ülke verilir, nüfus serisi ise dünya toplamını verir; kapsamları aynı değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu iki kümeyi çarpmaz: kentleşme payı ülke ülke verilir, nüfus serisi ise dünya toplamını verir; kapsamları aynı değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kentleşmenin sıklıkla bağlandığı dönüşüm için ayrı bir kayıt tutulur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki kayıt arasında bir neden bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas iki kayıt arasında bir neden bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kentleşmenin nedenleri, ülke ülke seyri ve kentsel tanımların ülkeler arasındaki farkı burada ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak veri kü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
