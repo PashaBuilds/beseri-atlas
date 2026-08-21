@@ -18,6 +18,7 @@ etiketler: [tunc-cagi, yazi, hanedan, hammurabi, ticaret-agi]
 ilgili:
   - donem-01
   - donem-03
+  - olay-yazinin-icadi
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

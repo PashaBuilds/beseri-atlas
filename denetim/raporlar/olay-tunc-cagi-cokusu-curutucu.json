@@ -1,0 +1,21 @@
+{
+  "id": "olay-tunc-cagi-cokusu",
+  "gecis": 3,
+  "zaman": "2026-08-21T03:55:50.671Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Çöküş tek bir devletin sorunu değildi. Bölgesel çerçeveler Anadolu, Elam, Levant, Mezopotamya, Sistan ve Kenan'ı aynı kırılmanın kapsamına yerleştirir.[^k1]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Şiddetli yıkım anlatısı, arkeolojik kayıtta her yerde doğrulanmaz. Enkomi'de kazılan yapılarda yanma kanıtı sınırlıydı ve odaların çoğunda herhangi bir hasar yoktu.[^k1] Sinda'da i",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

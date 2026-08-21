@@ -1,0 +1,121 @@
+{
+  "id": "olay-yazinin-icadi",
+  "gecis": 2,
+  "zaman": "2026-08-21T03:55:16.640Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıldan önce yazının kökenine dair akademik kuramların çoğu bir tür monogenez varsayımı içeriyordu: yazının yalnızca bir kez, eski Sümer'de çivi yazısı olarak",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sümer"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu varsayımın yalnızca kanıttan gelmediği kaydedilir: kuramlar, Tekvin kitabının değişmez bir yorumunu ve o anlatının Mezopotamya'daki yerlere verdiği göreli ağ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tekvin, Mezopotamya"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Zamanla Kolomb öncesi Mezoamerika sistemlerine dair farkındalığın artması, yazının birbirinden bağımsız olarak birden fazla kez icat edildiğini kesin olarak ort",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kolomb, Mezoamerika"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "En yaygın kabul gören sayı dörttür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tarihlendirmeleri şöyle verilir: Mezopotamya'da yaklaşık MÖ 3400'den itibaren, Mısır'da MÖ 3250'den önce, Çin'de MÖ 1250'den önce ve Mezoamerika'da MS 1'den önc",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mezopotamya ve Mısır sistemleri MÖ 3400 ile 3100 arasında ön-yazıdan kademeli olarak evrildi; ilk tutarlı metinler yaklaşık MÖ 2600'de görünür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mısır hiyeroglifleri için araştırmacılar, Sümer çivi yazısıyla arasındaki çok erken yapı ve üslup farklarına işaret eder; bu farklar iki sistemin bağımsız olara",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sümer"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eğer bir \"uyaran yayılımı\" gerçekleştiyse bile, bu yalnızca yazı fikrinin kültürler arasında aktarılmasına hizmet etmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yazının aktarımına dair doğrudan kanıt bulunmadığı için eski Mısır'da hiyerogliflerin kökeni konusunda kesin bir belirleme yapılmamıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Buna karşılık Geoffrey Sampson, Mısır hiyerogliflerinin Sümer yazısından biraz sonra ortaya çıktığını ve muhtemelen onun etkisiyle icat edildiğini belirtir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1990'larda Abydos'ta MÖ 3400 ile 3200 arasına tarihlenen kazınmış semboller bulundu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı bölgede bulunan jetonlar üzerindeki tasarımların, Uruk'tan gelen çağdaş kil etiketlere benzerlikler taşıdığı kaydedilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1977'de arkeolog Denise Schmandt-Besserat, çivi yazısının gelişimini güney Mezopotamya'da yaklaşık MÖ 8000'den itibaren malları izlemek ve değiş tokuş etmek içi",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuram itiraz da görmüştür; Geoffrey Sampson ve Christopher Woods gibi araştırmacılar nedensel bağı sorgulamıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Hammurabi kanunları harman hayvanı kiralamanın bedelini on ka tahıl, öküz-araba-sürücü kiralamanın bedelini günde yüz seksen ka tahıl olarak belirler; gündelikç",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı metin hükümdarın tanrılar tarafından adıyla çağrıldığını da kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yani yazı aynı anda iki iş yapar: ücreti sabitler ve meşruiyeti ilan eder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu MÖ 3000'de yaklaşık 44,6 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dört bağımsız icat arasındaki bu benzerlik, dönemin bütününe dair çerçevenin ele alındığı dosyasında da izlenebilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

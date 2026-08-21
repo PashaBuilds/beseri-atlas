@@ -18,6 +18,8 @@ etiketler: [tunc-cagi-cokusu, demir-cagi, deniz-kavimleri, karanlik-cag, alfabe]
 ilgili:
   - donem-02
   - donem-04
+  - olay-tunc-cagi-cokusu
+  - tartisma-tunc-cagi-cokusunun-nedeni
 okuma_onerisi: []
 serit:
   - bolge: avrupa

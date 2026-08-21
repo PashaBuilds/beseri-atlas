@@ -19,6 +19,7 @@ ilgili:
   - donem-03
   - donem-05
   - tartisma-bati-neden-yukseldi
+  - olay-pers-yunan-savaslari
 okuma_onerisi: []
 serit:
   - bolge: dogu-asya

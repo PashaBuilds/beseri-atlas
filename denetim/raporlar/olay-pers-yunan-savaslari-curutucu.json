@@ -1,0 +1,49 @@
+{
+  "id": "olay-pers-yunan-savaslari",
+  "gecis": 3,
+  "zaman": "2026-08-21T03:55:50.662Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bu çatışmanın tarihteki yeri, askerî sonucundan çok onu anlatmak için icat edilen yöntemden gelir. Herodotos, eserinin ilk cümlesinde amacını doğrudan bildirir: insanlar tarafından",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu çatışmanın tarihteki yeri, askerî sonucundan çok onu anlatmak için icat edilen yöntemden gelir. Herodotos, eserinin ilk cümlesinde amacını doğrudan bildirir: insanlar tarafından",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Thukydides ayrıca bir kanıt uyarısı ekler: uzak antikitenin olayları ve hatta savaştan hemen önce gelenler, zamanın geçmesi nedeniyle açıkça saptanamaz; ancak mümkün olduğunca geri",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Thukydides kendi savaşını, tarihte o güne dek bilinen en büyük hareket olarak niteler — yalnızca Helenlerin değil, barbar dünyanın büyük bir kısmının, neredeyse insanlığın hareketi",
+      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Thukydides kendi savaşını, tarihte o güne dek bilinen en büyük hareket olarak niteler — yalnızca Helenlerin değil, barbar dünyanın büyük bir kısmının, neredeyse insanlığın hareketi",
+      "sorun": "Makale avrupa/islam-dunyasi kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Pers ve Yunan dünyası bu listede yan yanadır; kurama göre bu bölgelerde evrenselleştirici düşünce biçimleri belirgin bir karışım olmaksızın paralel biçimde ortaya çıkmıştı.[^k3] Ça",
+      "sorun": "Makale avrupa/islam-dunyasi kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    }
+  ]
+}

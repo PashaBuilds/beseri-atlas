@@ -1,6 +1,6 @@
 {
-  "zaman": "2026-08-20T21:02:13.470Z",
-  "makale_sayisi": 25,
+  "zaman": "2026-08-21T03:58:15.259Z",
+  "makale_sayisi": 32,
   "celiskiler": [],
   "incelenecek": [
     {
@@ -16,10 +16,37 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
+        "olay-tunc-cagi-cokusu",
+        "donem-13"
+      ],
+      "detay": "\"Libya\" — olay-tunc-cagi-cokusu: 1200 / donem-13: 1923"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-tunc-cagi-cokusunun-nedeni",
+        "donem-13"
+      ],
+      "detay": "\"Libya\" — tartisma-tunc-cagi-cokusunun-nedeni: 1200 / donem-13: 1923"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
         "donem-03",
         "donem-16"
       ],
       "detay": "\"Nüfus\" — donem-03: 1000 / donem-16: 1960"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-tunc-cagi-cokusu",
+        "donem-16"
+      ],
+      "detay": "\"Nüfus\" — olay-tunc-cagi-cokusu: 1000 / donem-16: 1960"
     },
     {
       "tur": "varlik-yil-ayrismasi",

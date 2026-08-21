@@ -36,7 +36,8 @@ fazlar:
     - { id: olay-neolitik-devrim, baslik: "Neolitik Devrim", bagimlilik: [donem-01, tartisma-tarim-devrimi-ilerleme-mi] }
     - { id: olay-gobeklitepe, baslik: "Göbeklitepe", bagimlilik: [donem-01, tartisma-tarim-devrimi-ilerleme-mi] }
     - { id: olay-yazinin-icadi, baslik: "Yazının icadı", bagimlilik: [donem-02] }
-    - { id: olay-tunc-cagi-cokusu, baslik: "Tunç Çağı çöküşü", bagimlilik: [donem-03] }
+    - { id: tartisma-tunc-cagi-cokusunun-nedeni, baslik: "Tunç Çağı çöküşünün nedeni neydi?", bagimlilik: [donem-03] }
+    - { id: olay-tunc-cagi-cokusu, baslik: "Tunç Çağı çöküşü", bagimlilik: [donem-03, tartisma-tunc-cagi-cokusunun-nedeni] }
     - { id: olay-pers-yunan-savaslari, baslik: "Pers–Yunan savaşları", bagimlilik: [donem-04] }
     - { id: olay-iskender-seferleri, baslik: "İskender'in seferleri", bagimlilik: [donem-04] }
     - { id: olay-pön-savaslari, baslik: "Pön Savaşları", bagimlilik: [donem-04] }
@@ -202,7 +203,6 @@ fazlar:
 
   4:
     # ─── Tartışmalar ────────────────────────────────────────────────────────
-    - { id: tartisma-tunc-cagi-cokusunun-nedeni, baslik: "Tunç Çağı çöküşünün nedeni neydi?" }
     - { id: tartisma-eksen-cagi-gercek-mi, baslik: "Eksen Çağı gerçek bir olgu mu?" }
     - { id: tartisma-romanin-cokus-nedeni, baslik: "Roma neden çöktü?" }
     - { id: tartisma-feodalite-kavrami, baslik: "Feodalite kullanışlı bir kavram mı?" }

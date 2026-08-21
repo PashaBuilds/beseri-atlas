@@ -1,0 +1,21 @@
+{
+  "id": "tartisma-tunc-cagi-cokusunun-nedeni",
+  "gecis": 3,
+  "zaman": "2026-08-21T03:58:28.488Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, öne sürülen etkenleri tek bir listede toplar: iklim değişikliği, volkanik patlamalar, kuraklıklar, hastalık, Deniz Kavimleri'nin istilaları ve demir işçiliğinin artmasından",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Çöküşün coğrafyası tek bir devletin sınırlarını aşar: bölgesel çerçeveler Anadolu, Elam, Levant, Mezopotamya, Sistan ve Kenan'ı aynı kırılmanın kapsamına yerleştirir.[^k2] Ege ve A",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

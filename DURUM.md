@@ -1,8 +1,8 @@
 ---
 aktif_faz: 2
 aktif_parti: B01
-son_commit: f25bb8e
-son_guncelleme: 2026-08-20T21:11:21.338Z
+son_commit: 8fc15a6
+son_guncelleme: 2026-08-21T03:59:32.989Z
 sayaclar:
   uretilen: 28
   onaylanan: 28
@@ -19,7 +19,7 @@ butce:
   makale_basina_max_deneme: 3
   faz_basina_max_parti: 40
   toplam_token_tavani: 40000000
-  harcanan_token: 930000
+  harcanan_token: 1050000
 engeller:
   ardisik_ayni_hata: 0
   son_hata_imzasi: null
@@ -40,13 +40,13 @@ faz_parti_sayaci:
 
 **Aktif faz:** 2 — Ana gövde
 **Aktif parti:** B01
-**Son güncelleme:** 2026-08-20T21:11:21.338Z
-**Son commit:** f25bb8e
+**Son güncelleme:** 2026-08-21T03:59:32.989Z
+**Son commit:** 8fc15a6
 
 | Sayaç | Değer |
 |---|---|
-| Üretilen | 0 |
-| Onaylanan | 0 |
+| Üretilen | 28 |
+| Onaylanan | 28 |
 | Karantinada | 0 |
 | Onarım döngüsünde | 0 |
 
@@ -54,8 +54,8 @@ faz_parti_sayaci:
 |---|---|---|
 | Kaynak doğrulama oranı | 0.9938 | 0.92 |
 | Makale başına ortalama kaynak | 3.4 | 3 |
-| Örnekleme kapısı son skor | - | 0.9 |
+| Örnekleme kapısı son skor | 0.9583 | 0.9 |
 
-**Bütçe:** 930.000 / 40.000.000 token
+**Bütçe:** 1.050.000 / 40.000.000 token
 **Ardışık aynı hata:** 0 / 5
 **Onarım turu:** 0 / 3

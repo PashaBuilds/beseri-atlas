@@ -32,6 +32,11 @@ function govdeMetni(p) {
   return p
     .replace(/\[\^k\d+\]/g, '')
     .replace(/::[a-zçğıöşü]+\[[^\]]*\]\{[^}]*\}/gi, '')
+    // Site ici gezinme baglari APARAT'tir, iddia degil: bag metni bir makale
+    // basligidir ("MO 1200-500") ve icindeki yil cumlenin iddiasi degildir.
+    // Ayni duzeltme araclar/denetle.mjs'te de yapildi; iki taraf tutarli olmali.
+    // Paragraftaki gercek iddialar tetiklemeye devam eder.
+    .replace(/\[[^\]]*\]\(\/[^)]*\)/g, ' ')
     .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
     .replace(/[*_`>]/g, '');
 }

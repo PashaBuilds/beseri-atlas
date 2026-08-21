@@ -1,0 +1,73 @@
+{
+  "id": "tartisma-tunc-cagi-cokusunun-nedeni",
+  "gecis": 2,
+  "zaman": "2026-08-21T03:58:28.273Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıldan beri öne sürülmektedir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, öne sürülen etkenleri tek bir listede toplar: iklim değişikliği, volkanik patlamalar, kuraklıklar, hastalık, Deniz Kavimleri'nin istilaları ve demir işç",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Deniz, Kavimleri"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuramların çoğu ayrıca şehir ve kasabaların şiddetli biçimde yıkılmasını içerir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Enkomi'de kazılan yapılarda yanma kanıtı sınırlıydı ve odaların çoğunda herhangi bir hasar yoktu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sinda'da yalnızca bir miktar kül bulunmuş, yıkılmış duvar ya da yanmış moloz gibi başka bir yıkım kanıtına rastlanmamıştır; şehrin tahrip edilip edilmediği açık",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Buna karşılık dönem metinleri dışarıdan gelen saldırıları kaydeder: MÖ 1200 dolaylarına tarihlenen Merneptah Steli, bugünkü Libya'dan gelen Putrialılardan ve on",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Çöküşün coğrafyası tek bir devletin sınırlarını aşar: bölgesel çerçeveler Anadolu, Elam, Levant, Mezopotamya, Sistan ve Kenan'ı aynı kırılmanın kapsamına yerleş",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl ortasında toprak ve iktisadi güç bakımından geriledi ama yıkılmadı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Demir işçiliğinin bir bozulma nedeni olarak listede yer alması, tartışmanın en az sezgisel ama en yapısal kanadıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tunç, bakır ile kalayın birleşimidir ve bu iki madenin yatakları nadiren aynı yerdedir; dönemin teknoloji listesi arsenikli tuncu, yazıyı, kılıcı ve savaş araba",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli nüfus serisi bu aralıkta bin yıllık çözünürlüktedir; MÖ 1000 için verilen değer yaklaşık 110,5 milyondur.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

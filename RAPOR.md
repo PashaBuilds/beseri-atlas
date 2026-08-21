@@ -1,13 +1,13 @@
 # Beşeri Atlas — Nihai Rapor
 
-_Üretim tarihi: 2026-08-20 · Bu dosya `npm run rapor` ile ölçümlerden üretilir, elle yazılmaz._
+_Üretim tarihi: 2026-08-21 · Bu dosya `npm run rapor` ile ölçümlerden üretilir, elle yazılmaz._
 
 ## Kapsam
 
-Üretilen: **28** | Onaylanan: **28** | Karantinada: **0**
+Üretilen: **32** | Onaylanan: **32** | Karantinada: **0**
 
 Planlanan tam kapsam **226** makaledir; bu raporun yazıldığı anda
-**%12.4**'i yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
+**%14.2**'i yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
 birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 
 | Tip | Yayımlanan |
@@ -17,11 +17,11 @@ birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 | dusunur | 1 |
 | kavram | 2 |
 | kaynak | 1 |
-| olay | 3 |
-| tartisma | 3 |
+| olay | 6 |
+| tartisma | 4 |
 | veri | 1 |
 
-Toplam gövde: **16.169** kelime.
+Toplam gövde: **17.879** kelime.
 
 ## Doğrulama
 
@@ -29,10 +29,10 @@ Toplam gövde: **16.169** kelime.
 Nihai skor: **0.9583** (11/12 ölçülen iddia)
 Ham skor: **0.55** (20 iddialık örneklem, 8 iddia bağımsız olarak türetilemedi)
 
-Geçiş 2 (kaynak denetimi): 348 OK · 4 ISARET · 0 HATA · 210 programatik olarak ölçülemedi
-Kaynak doğrulama oranı: **0.9943**
-Makale başına ortalama kaynak: **3.36**
-Çürütücünün ürettiği itiraz adayı: **82**
+Geçiş 2 (kaynak denetimi): 369 OK · 4 ISARET · 0 HATA · 242 programatik olarak ölçülemedi
+Kaynak doğrulama oranı: **0.9946**
+Makale başına ortalama kaynak: **3.31**
+Çürütücünün ürettiği itiraz adayı: **94**
 Çapraz tutarlılık çelişkisi: **0**
 
 ### İki skorun anlamı
@@ -89,7 +89,7 @@ hatalı kaynağa dayanıyorsa ikisi de aynı yanlışa varır.
 
 Aktif faz: **2** · Aktif parti: **B01**
 Kuyrukta bekleyen iş: **86** · Karantinada: **0**
-Harcanan bütçe: 930.000 / 40.000.000 token
+Harcanan bütçe: 1.050.000 / 40.000.000 token
 
 ### Neden burada duruyor
 

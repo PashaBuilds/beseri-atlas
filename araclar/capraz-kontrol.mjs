@@ -40,21 +40,30 @@ export function caprazDenetim(makaleler) {
   const celiskiler = [];
   const idHaritasi = new Map(makaleler.filter((m) => m.fm.id).map((m) => [m.fm.id, m]));
 
-  // 1. Dönem ataması ile tarih aralığı tutarlılığı
+  // 1. Dönem ataması ile tarih aralığı tutarlılığı.
+  //
+  // Bir olay dönem sınırını AŞABİLİR — yazının ortaya çıkışı MÖ 3400'de başlayıp
+  // MÖ 2600'de tutarlı metinlere ulaşır ve 01/02 sınırını keser. Dönem sınırları
+  // birer sözleşmedir; geçişken olayı çelişki saymak yanlış pozitiftir.
+  // Gerçek hata, aralığın dönemle HİÇ kesişmemesidir (1914 olayının dönem 05'e
+  // atanması gibi) — kontrol bunu yakalamayı sürdürür.
+  const yilAl = (v) => {
+    if (!v) return null;
+    const n = Number(String(v).replace(/^(-?\d{1,5}).*$/, '$1'));
+    return Number.isFinite(n) ? n : null;
+  };
   for (const m of makaleler) {
     if (!m.fm.donem || !DONEM_ARALIKLARI[m.fm.donem]) continue;
     const [alt, ust] = DONEM_ARALIKLARI[m.fm.donem];
-    for (const alan of ['tarih_baslangic', 'tarih_bitis']) {
-      const ham = m.fm[alan];
-      if (!ham) continue;
-      const yil = Number(String(ham).replace(/^(-?\d{1,5}).*$/, '$1'));
-      if (!Number.isFinite(yil)) continue;
-      if (yil < alt - 5 || yil > ust + 5) {
-        celiskiler.push({
-          tur: 'donem-tarih-uyusmazligi', makaleler: [m.fm.id],
-          detay: `donem ${m.fm.donem} araligi ${alt}–${ust} ama ${alan}=${ham}`,
-        });
-      }
+    const bas = yilAl(m.fm.tarih_baslangic);
+    const bit = yilAl(m.fm.tarih_bitis) ?? bas;
+    if (bas === null) continue;
+    const kesisiyor = Math.max(bas, alt - 5) <= Math.min(bit, ust + 5);
+    if (!kesisiyor) {
+      celiskiler.push({
+        tur: 'donem-tarih-uyusmazligi', makaleler: [m.fm.id],
+        detay: `donem ${m.fm.donem} araligi ${alt}–${ust} ile makale araligi ${bas}–${bit} hic kesismiyor`,
+      });
     }
   }
 

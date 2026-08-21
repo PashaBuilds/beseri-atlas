@@ -1,0 +1,91 @@
+{
+  "id": "olay-tunc-cagi-cokusu",
+  "gecis": 2,
+  "zaman": "2026-08-21T03:58:28.218Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıldan beri öne sürülmektedir ve çoğu şehir ile kasabaların şiddetli biçimde yıkılmasını içerir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Geç Tunç Çağı'nı tanımlayan Miken Yunanistanı'nın, Ege bölgesinin ve Anadolu'nun saray ekonomisi dağıldı ve yerini MÖ 1200 ile MÖ 800 arasında süren Yunan Karan",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bölgesel çerçeveler Anadolu, Elam, Levant, Mezopotamya, Sistan ve Kenan'ı aynı kırılmanın kapsamına yerleştirir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ramses'in saltanatı sırasında, MÖ 1145–1137 — toprak ve iktisadi güç bakımından belirgin biçimde geriledi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Daha önce, MÖ 1200 dolaylarına tarihlenen Merneptah Steli, bugünkü Libya'dan gelen Putrialılardan ve onlarla ilişkili Ekwesh ve Sherden gibi halklardan gelen sa",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çöküşün nedenleri arasında sayılan etkenler şunlardır: iklim değişikliği, volkanik patlamalar, kuraklıklar, hastalık, Deniz Kavimleri'nin istilaları ve demir iş",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Deniz, Kavimleri"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Demir işçiliğinin bir bozulma nedeni olarak listede yer alması özellikle dikkate değerdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Enkomi'de kazılan yapılarda yanma kanıtı sınırlıydı ve odaların çoğunda herhangi bir hasar yoktu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sinda'da ise yalnızca bir miktar kül bulunmuş, yıkılmış duvar ya da yanmış moloz gibi başka bir yıkım kanıtına rastlanmamıştır; bu yüzden şehrin tahrip edilip e",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, tarih yazımı açısından öğretici bir örnektir: genelleme, hangi kazı alanlarının örnek alındığına bağlıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılda Yunan tarih öncesinin ilk döneminin bu sıralarda bittiği, Troya'nın düşüşünün MÖ 1190'a tarihlenmesine dayanarak ileri sürüldü; 1826'da Mısır'ın On Dok",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Saray ekonomisinin dağılması, saray kayıt sistemlerinin de dağılması demektir; MÖ 1200 ile MÖ 800 arasındaki yüzyıllar için yazılı kaynak, öncesine ve sonrasına",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Hammurabi kanunları öküz-araba-sürücü kiralamanın bedelini günde yüz seksen ka tahıl, yalnız araba kiralamanın bedelini günde kırk ka tahıl olarak belirleyebili",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Nüfus tarafında uzun dönemli seri bu aralıkta bin yıllık çözünürlüktedir; MÖ 1000 için verilen değer yaklaşık 110,5 milyondur.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}
