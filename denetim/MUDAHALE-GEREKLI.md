@@ -228,3 +228,23 @@ Ham skor 0,4643 (13/28). Ham skorun düşüklüğü korpusun değil bloklama kur
 sonucudur ve RAPOR.md'de ayrıca beyan edilir.
 
 Hat yeniden açıldı.
+
+## Kapanış — Faz 5 (2026-08-21)
+
+Yukarıdaki "neden 0.875?" tanısı **kapandı**. Örnekleme kapısı kırılması iki
+ayrı nedenden geliyordu ve ikisi de giderildi:
+
+1. Puanlayıcı değer düzeyine indirildi (kısmi doğrulamalar artık tek bir
+   başarısızlık olarak sayılmıyor).
+2. Faz 5'te örnekleyicinin kendisinde bir sapma bulundu: makale sırası
+   alfabetikti, 20 birimlik örnek ilk turu aşamıyordu ve örneğin tamamı
+   `aktor-` dosyalarından geliyordu. Sıralama tohumlandı; örnek yedi tipe
+   yayıldı ve Geçiş 4 yeniden koşuldu.
+
+Kapanış ölçümü: ölçülen skor **1.0** (8/8 değer, 0 çelişki), ham skor 0.2759,
+çapraz çelişki 0, karantina 0, build kapıları 9/9 (0 hata, 0 uyarı).
+
+Kalan **açık** madde: bu dosyadaki 2. ve 3. maddeler (Warren Thompson tarih
+ayrışması ve Osmanlı kuruluş tarihi) bilerek çözülmemiştir — ikisi de
+kaynaklar arası gerçek bir ayrışmadır ve İlke 3 gereği atlas hakemlik yapmaz.
+İlgili makaleler ayrışmayı metinde açıkça taşır.

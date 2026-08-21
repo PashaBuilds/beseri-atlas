@@ -130,16 +130,24 @@ export function raporUret() {
   s.push('  linter sıkılaştırıldı ve iki kaynaksız iddia yakalandı.');
   s.push('- Geçiş 4, bir tarihte kaynaklar arası ayrışma buldu ve iddia çıkarıldı.');
   s.push('- Geçiş 4, türetme cevabının bloke bir alan adından geldiğini yakalayıp');
-  s.push('  reddetti — bağımsızlık şartı fiilen zorlanıyor.', '');
+  s.push('  reddetti — bağımsızlık şartı fiilen zorlanıyor.');
+  s.push('- Faz 5 kapanış turunda örnekleyicinin kendisinde sapma bulundu: makale');
+  s.push('  sırası alfabetikti ve 20 birimlik örnek ilk turu aşamadığı için örneğin');
+  s.push('  tamamı `aktor-` dosyalarından geliyordu. Kapı 1.0 okuyordu ama tek bir');
+  s.push('  makale tipini ölçüyordu. Sıralama tohumlandı; örnek yedi tipe yayıldı');
+  s.push('  ve geçiş yeniden koşuldu.', '');
 
   s.push('## Güvenilirlik beyanı', '');
   s.push('Bu korpus otonom olarak üretildi ve otonom olarak denetlendi.');
   if (son) {
     const y = Math.round(son.skor * 100);
-    s.push(`Ölçülen doğrulama oranı %${y}'tir; yani her 20 iddiadan yaklaşık`);
-    s.push(`${Math.max(1, Math.round(20 - (y / 100) * 20))} tanesinin kaynağa gidildiğinde`);
-    s.push('doğrulanamaması beklenir. Örneklemin bir bölümü ise bağımsız olarak hiç');
-    s.push('türetilemedi; bu iddialar hakkında ölçülmüş bir güvence yoktur.');
+    const n = son.toplam ?? 0;
+    s.push(`Ölçülen doğrulama oranı %${y}'tir ve bu oran yalnızca ${n} ölçülebilen`);
+    s.push('değer üzerinden hesaplanmıştır. Bu kadar küçük bir örneklem, korpusta');
+    s.push('hata olmadığını göstermez: ancak yaygın bir hatayı yakalayabilir, seyrek');
+    s.push('hata bu ölçümün çözünürlüğünün altında kalır. Oranın kendisi bir güvence');
+    s.push('değil, bir alt sınır ölçüsüdür. Örneklemin bir bölümü ise bağımsız olarak');
+    s.push('hiç türetilemedi; o iddialar hakkında ölçülmüş bir güvence yoktur.');
   }
   s.push('Ortak kaynaklı hatalar bu ölçümde görünmez: üreten ve denetleyen oturum aynı');
   s.push('hatalı kaynağa dayanıyorsa ikisi de aynı yanlışa varır.', '');

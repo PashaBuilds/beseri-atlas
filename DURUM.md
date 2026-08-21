@@ -1,8 +1,8 @@
 ---
 aktif_faz: 5
 aktif_parti: B01
-son_commit: 5f1a783
-son_guncelleme: 2026-08-21T13:02:58.027Z
+son_commit: ae4d6aa
+son_guncelleme: 2026-08-21T13:15:04.153Z
 sayaclar:
   uretilen: 28
   onaylanan: 28
@@ -58,8 +58,8 @@ faz_parti_sayaci:
 
 **Aktif faz:** 5 — Çapraz denetim
 **Aktif parti:** B01
-**Son güncelleme:** 2026-08-21T13:02:58.027Z
-**Son commit:** 5f1a783
+**Son güncelleme:** 2026-08-21T13:15:04.153Z
+**Son commit:** ae4d6aa
 
 | Sayaç | Değer |
 |---|---|

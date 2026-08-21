@@ -77,14 +77,21 @@ Doğrulama geçişlerinin değeri, ne yakaladıklarıyla ölçülür. Bu koşuda
 - Geçiş 4, bir tarihte kaynaklar arası ayrışma buldu ve iddia çıkarıldı.
 - Geçiş 4, türetme cevabının bloke bir alan adından geldiğini yakalayıp
   reddetti — bağımsızlık şartı fiilen zorlanıyor.
+- Faz 5 kapanış turunda örnekleyicinin kendisinde sapma bulundu: makale
+  sırası alfabetikti ve 20 birimlik örnek ilk turu aşamadığı için örneğin
+  tamamı `aktor-` dosyalarından geliyordu. Kapı 1.0 okuyordu ama tek bir
+  makale tipini ölçüyordu. Sıralama tohumlandı; örnek yedi tipe yayıldı
+  ve geçiş yeniden koşuldu.
 
 ## Güvenilirlik beyanı
 
 Bu korpus otonom olarak üretildi ve otonom olarak denetlendi.
-Ölçülen doğrulama oranı %100'tir; yani her 20 iddiadan yaklaşık
-1 tanesinin kaynağa gidildiğinde
-doğrulanamaması beklenir. Örneklemin bir bölümü ise bağımsız olarak hiç
-türetilemedi; bu iddialar hakkında ölçülmüş bir güvence yoktur.
+Ölçülen doğrulama oranı %100'tir ve bu oran yalnızca 8 ölçülebilen
+değer üzerinden hesaplanmıştır. Bu kadar küçük bir örneklem, korpusta
+hata olmadığını göstermez: ancak yaygın bir hatayı yakalayabilir, seyrek
+hata bu ölçümün çözünürlüğünün altında kalır. Oranın kendisi bir güvence
+değil, bir alt sınır ölçüsüdür. Örneklemin bir bölümü ise bağımsız olarak
+hiç türetilemedi; o iddialar hakkında ölçülmüş bir güvence yoktur.
 Ortak kaynaklı hatalar bu ölçümde görünmez: üreten ve denetleyen oturum aynı
 hatalı kaynağa dayanıyorsa ikisi de aynı yanlışa varır.
 
