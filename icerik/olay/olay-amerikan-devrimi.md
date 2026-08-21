@@ -16,6 +16,7 @@ ilgili:
   - donem-10
   - olay-fransiz-devrimi
   - olay-haiti-devrimi
+  - olay-yedi-yil-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

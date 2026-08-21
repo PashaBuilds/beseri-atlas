@@ -17,6 +17,7 @@ ilgili:
   - aktor-sovyetler-birligi
   - olay-sovyetler-dagilmasi
   - aktor-rus-imparatorlugu
+  - olay-1905-rus-devrimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

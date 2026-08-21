@@ -1,0 +1,73 @@
+{
+  "id": "olay-1905-rus-devrimi",
+  "gecis": 2,
+  "zaman": "2026-08-21T06:55:11.996Z",
+  "sonuclar": [
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı devlet için kaydedilen yönetim biçimi 1721–1906 arasında üniter mutlak monarşi, 1906–1917 arasında üniter parlamenter yarı anayasal monarşidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak kayıpları tek bir toplamla değil, taraf taraf verir: bir tarafta 3.611 ölü ya da yaralı; diğer tarafta 15.000 ölü, 20.000 yaralı, 38.000 esir ve Romanya'",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın devrimciler tarafından öldürülen sivilleri ayrı bir kalem olarak kaydetmesi dikkat çekicidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak yılın görsel kronolojisini şu olaylarla verir: Kanlı Pazar, Potemkin İsyanı'nın ardından Odessa limanının görünümü, Moskova Ayaklanması sırasındaki barik",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kronolojinin son maddesinin 1906 ilkbaharına ait olması, manifesto ile bastırmanın aynı sürecin parçaları olduğunu ve sürecin ilan edilen yılda bitmediğini göst",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nikola, Sergey Vitte ve Dmitri Fyodoroviç Trepov; diğer yanda Viktor Çernov, Lev Troçki, Georgi Gapon ve Pavel Milyukov.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Devrimcileri destekleyenler arasında Petersburg Sovyeti, Moskova Şehir Duması, Çita Cumhuriyeti, Sosyalist Devrimciler Partisi, Rusya Sosyal Demokrat İşçi Parti",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın verdiği isim listesinde bir din adamı, bir liberal ve bir sosyalist yan yana durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı isimlerden biri bir sonraki devrimde de görünür: Lev Troçki, 7 Kasım 1917'deki olayın komutanları arasında sayılır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yaklaşık 1,82 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kronolojisinde sayılan olayların tek tek seyri, grev dalgaları, meclis seçimleri ve sonrasındaki bastırma süreci burada ayrı başlıklar altında ele alın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

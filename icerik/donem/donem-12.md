@@ -30,6 +30,7 @@ ilgili:
   - aktor-britanya-imparatorlugu
   - aktor-japonya-imparatorlugu
   - aktor-rus-imparatorlugu
+  - olay-1905-rus-devrimi
 okuma_onerisi: []
 serit:
   - bolge: afrika

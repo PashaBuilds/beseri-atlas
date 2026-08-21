@@ -16,6 +16,8 @@ ilgili:
   - donem-12
   - olay-ekim-devrimi
   - aktor-avusturya-macaristan
+  - olay-1905-rus-devrimi
+  - olay-yedi-yil-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

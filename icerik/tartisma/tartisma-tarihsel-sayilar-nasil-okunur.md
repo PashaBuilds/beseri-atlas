@@ -31,6 +31,9 @@ ilgili:
   - olay-hindistan-bolunmesi
   - aktor-dunya-ticaret-orgutu
   - olay-2008-finansal-krizi
+  - olay-1905-rus-devrimi
+  - olay-ingiliz-ic-savasi
+  - olay-ispanya-ic-savasi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

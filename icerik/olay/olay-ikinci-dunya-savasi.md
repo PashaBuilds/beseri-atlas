@@ -18,6 +18,7 @@ ilgili:
   - olay-bretton-woods
   - olay-cin-devrimi-1949
   - aktor-japonya-imparatorlugu
+  - olay-ispanya-ic-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,0 +1,14 @@
+{
+  "id": "olay-ispanya-ic-savasi",
+  "gecis": 3,
+  "zaman": "2026-08-21T06:55:40.328Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı madde ölüm sayısını da ayrı bir başlık olarak ele alır.[^k1] Atlas, bu başlığın varlığını kaydeder ve tek bir sayı üretmez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

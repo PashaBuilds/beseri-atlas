@@ -1,6 +1,6 @@
 {
-  "zaman": "2026-08-21T06:50:53.817Z",
-  "makale_sayisi": 109,
+  "zaman": "2026-08-21T06:56:21.564Z",
+  "makale_sayisi": 113,
   "celiskiler": [],
   "incelenecek": [
     {
@@ -92,6 +92,15 @@
         "olay-hindistan-bolunmesi"
       ],
       "detay": "\"Ağustos\" — aktor-imf: 1971 / olay-hindistan-bolunmesi: 1947"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-amerikan-devrimi",
+        "olay-yedi-yil-savasi"
+      ],
+      "detay": "\"Grenville\" — olay-amerikan-devrimi: 1763 / olay-yedi-yil-savasi: 1765"
     },
     {
       "tur": "varlik-yil-ayrismasi",

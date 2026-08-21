@@ -1,0 +1,21 @@
+{
+  "id": "olay-1905-rus-devrimi",
+  "gecis": 3,
+  "zaman": "2026-08-21T06:55:12.528Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak kayıpları tek bir toplamla değil, taraf taraf verir: bir tarafta 3.611 ölü ya da yaralı; diğer tarafta 15.000 ölü, 20.000 yaralı, 38.000 esir ve Romanya'ya teslim olan bir s",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynağın kronolojisinde sayılan olayların tek tek seyri,[^k1] grev dalgaları, meclis seçimleri ve sonrasındaki bastırma süreci burada ayrı başlıklar altında ele alınmamıştır. Dönem",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

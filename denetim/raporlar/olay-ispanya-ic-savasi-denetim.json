@@ -1,0 +1,73 @@
+{
+  "id": "olay-ispanya-ic-savasi",
+  "gecis": 2,
+  "zaman": "2026-08-21T06:55:12.121Z",
+  "sonuclar": [
+    {
+      "anahtar": "k2",
+      "iddia": "Bu savaşın çağdaş kaydı iki şeyi aynı anda söyler: İspanya İç Savaşı daha büyük bir çatışmaya tırmanmadı, ama bütün komünistleri ve birçok sosyalist ile liberal",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaynağın kurduğu karşıtlık dikkat çekicidir: askerî olarak yayılmayan bir savaş, siyasi olarak kıtasal bir bölünme üretmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yıllarda dünya genelinde pasifizmde bir gerileme ve bir başka dünya savaşının yakın olduğu — ve uğruna savaşmaya değeceği — yönünde büyüyen bir his vardı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaynağın bu iki kaydı yan yana vermesi savaşın neden bir prova olarak anıldığını açıklar; sonraki savaş dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak yabancı katılımı iki alt başlıkta ele alır: Milliyetçilere destek ve Cumhuriyetçilere destek.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cumhuriyetçi tarafta Madrid Savunma Konseyi, yabancı gönüllüler ve Enternasyonal Tugaylar ile Sovyetler Birliği, Meksika ve sınırlı ölçüde Fransa sayılır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın yapısı, atlasın hakemlik yapmama ilkesiyle örtüşür: vahşetler bölümü Milliyetçiler ve Cumhuriyetçiler olmak üzere iki alt başlığa ayrılır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı madde ölüm sayısını da ayrı bir başlık olarak ele alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak savaşı 1936, 1937, 1938 ve 1939 yıllarına bölerek anlatır; ayrıca çocukların tahliyesi, finansman, Cumhuriyetçi liderlik ile Katalonya arasındaki sürtüşm",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1914'te yaklaşık 1,82 milyar, 1945'te yaklaşık 2,38 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Darbenin seyri, cephelerin askerî tarihi, İspanyol Devrimi ve savaş sonrası rejim burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler o",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    }
+  ]
+}

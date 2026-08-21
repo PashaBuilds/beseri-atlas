@@ -25,6 +25,7 @@ ilgili:
   - olay-versailles-antlasmasi
   - olay-ikinci-dunya-savasi
   - olay-ekim-devrimi
+  - olay-ispanya-ic-savasi
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 serit:

@@ -436,7 +436,7 @@ isler:
   - id: olay-ingiliz-ic-savasi
     tip: olay
     baslik: İngiliz İç Savaşı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-10
@@ -445,7 +445,7 @@ isler:
   - id: olay-yedi-yil-savasi
     tip: olay
     baslik: Yedi Yıl Savaşı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-10
@@ -544,7 +544,7 @@ isler:
   - id: olay-1905-rus-devrimi
     tip: olay
     baslik: 1905 Rus Devrimi
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-12
@@ -589,7 +589,7 @@ isler:
   - id: olay-ispanya-ic-savasi
     tip: olay
     baslik: İspanya İç Savaşı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-13

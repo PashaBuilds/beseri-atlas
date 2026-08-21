@@ -21,6 +21,8 @@ ilgili:
   - olay-amerikan-devrimi
   - aktor-ingiliz-doguhindistan-sirketi
   - aktor-qing-hanedani
+  - olay-ingiliz-ic-savasi
+  - olay-yedi-yil-savasi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

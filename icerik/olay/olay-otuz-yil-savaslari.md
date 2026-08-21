@@ -17,6 +17,7 @@ ilgili:
   - olay-reform
   - olay-vestfalya-barisi
   - aktor-ispanyol-imparatorlugu
+  - olay-ingiliz-ic-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

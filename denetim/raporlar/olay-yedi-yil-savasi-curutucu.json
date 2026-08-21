@@ -1,0 +1,28 @@
+{
+  "id": "olay-yedi-yil-savasi",
+  "gecis": 3,
+  "zaman": "2026-08-21T06:55:40.331Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak savaşı tek bir cümleyle tanımlar: Avrupa güçleri arasında 1756–1763 yılları arasında yürüyen küresel bir savaş.[^k1] Bu dosya, o **küresellik nitelemesinin ne anlama geldiği",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Savaşın en somut kalıcı sonucu bir muharebe değil bir idari reformdur. Kaynağa göre savaşın Rusları kendi lojistik zayıflıklarına maruz bıraktığını ve İmparatorluk Rus Ordusu'nun l",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Savaşın maliyeti, sonraki on yılın siyasi krizini doğurdu. Grenville, ek gelir sağlamak için sömürgelere damga vergisi konmasının gerekli olabileceğini belirtti ve Parlamento Damga",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "olay-yedi-yil-savasi",
+  "gecis": 2,
+  "zaman": "2026-08-21T06:55:12.185Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak savaşı tek bir cümleyle tanımlar: Avrupa güçleri arasında 1756–1763 yılları arasında yürüyen küresel bir savaş.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, savaşın Rusları kendi lojistik zayıflıklarına maruz bıraktığını ve İmparatorluk Rus Ordusu'nun lojistik dairesinde büyük reformlara yol açtığını kaydede",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu reformun etkisi savaşın kendisinden uzun sürdü: kurulan ikmal sistemi, Rusların 1787–1792'deki Osmanlı savaşı sırasında Balkanlar'a ilerlemesini, Mareşal Ale",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın \"küresel savaş\" nitelemesi, savaşın Avrupa dışındaki cephelerini de kapsar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Grenville, ek gelir sağlamak için sömürgelere damga vergisi konmasının gerekli olabileceğini belirtti ve Parlamento Damga Yasası'nı Mart 1765'te kabul etti; yas",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı dönemde 1763 Kraliyet Bildirisi, Apalaş Dağları ile Mississippi Nehri arasındaki toprakları sömürge yerleşimine kapalı ilan etti.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyondur.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}
