@@ -5,7 +5,7 @@ baslik: Amerikan Devrimi
 ozet: >-
   Vergilendirme yetkisi üzerine bir anayasal tartışmadan doğan kopuş; itirazın
   konusu verginin miktarı değil, kimin koyduğuydu.
-donem: "11"
+donem: "10"
 tarih_baslangic: "1763"
 tarih_bitis: "1783"
 bolge: [amerika, avrupa]
@@ -13,7 +13,7 @@ eksen: [siyasi, ekonomik, askeri, felsefi]
 guven_geneli: yaygin
 etiketler: [amerikan-devrimi, damga-yasasi, temsil, koloni, "1765"]
 ilgili:
-  - donem-11
+  - donem-10
   - olay-fransiz-devrimi
   - olay-haiti-devrimi
 okuma_onerisi: []
@@ -105,5 +105,5 @@ için bu toplam içindeki pay burada hesaplanmamıştır.
 
 Bağımsızlık savaşının askerî seyri, anayasanın yapımı, kölelik sorununun devrim
 içindeki yeri ve yerli halkların savaş sırasındaki konumu burada ayrı başlıklar
-altında ele alınmamıştır. Dönemin bütünü [1789–1848](/donem/11/) dosyasında ele
+altında ele alınmamıştır. Dönemin bütünü [1650–1789](/donem/10/) dosyasında ele
 alınıyor.

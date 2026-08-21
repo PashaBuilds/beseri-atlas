@@ -19,7 +19,6 @@ ilgili:
   - donem-10
   - donem-12
   - olay-1848-devrimleri
-  - olay-amerikan-devrimi
   - olay-fransiz-devrimi
   - olay-haiti-devrimi
   - olay-viyana-kongresi

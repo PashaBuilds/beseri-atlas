@@ -18,6 +18,7 @@ etiketler: [aydinlanma, ticari-kapitalizm, akil, reform, kuresel-savas]
 ilgili:
   - donem-09
   - donem-11
+  - olay-amerikan-devrimi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

@@ -137,3 +137,15 @@ kalmasi. Duzeltme, iki sentetik vaka ile sinandi: 1 yillik ayrisma hala
 yakalaniyor, yer adi + yuzyil farki artik eleniyor. INCELE sayisi 59'dan 6'ya
 dustu; kalan alti satirin tamami ayni bolgede birkac yil arayla gecen FARKLI
 olaylara ait.
+
+## Faz 2 — B13 notu: donem atamasi hatasi (2026-08-21)
+
+`olay-amerikan-devrimi` 1763–1783 araligiyla yazildi ama plan/kapsam.yaml'daki
+bagimlilik satiri nedeniyle donem-11'e (1789–1848) atandi. Gecis 5 bunu CELISKI
+olarak yakaladi: iki aralik hic kesismiyor.
+
+Duzeltme: makale donem-10'a (1650–1789) tasindi, ic bag ve geri baglar
+guncellendi. Ders: kapsam.yaml'daki `bagimlilik` alani bir SIRALAMA ipucudur,
+donem atamasi degil. Donem, makalenin kendi tarih araligindan tureti1melidir.
+Gecis 5'in donem-tarih uyusmazligi kontrolu bu hatayi otomatik yakaliyor;
+yeni makale yazarken tarih araligi ile donem numarasi elle karsilastirilmali.

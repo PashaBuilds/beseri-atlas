@@ -33,7 +33,7 @@ Geçiş 2 (kaynak denetimi): 763 OK · 5 ISARET · 0 HATA · 357 programatik ola
 Kaynak doğrulama oranı: **0.9967**
 Makale başına ortalama kaynak: **3.26**
 Çürütücünün ürettiği itiraz adayı: **174**
-Çapraz tutarlılık çelişkisi: **1**
+Çapraz tutarlılık çelişkisi: **0**
 
 ### İki skorun anlamı
 

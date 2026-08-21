@@ -1,15 +1,7 @@
 {
-  "zaman": "2026-08-21T05:22:00.296Z",
+  "zaman": "2026-08-21T05:22:44.865Z",
   "makale_sayisi": 80,
-  "celiskiler": [
-    {
-      "tur": "donem-tarih-uyusmazligi",
-      "makaleler": [
-        "olay-amerikan-devrimi"
-      ],
-      "detay": "donem 11 araligi 1789–1848 ile makale araligi 1763–1783 hic kesismiyor"
-    }
-  ],
+  "celiskiler": [],
   "incelenecek": [
     {
       "tur": "varlik-yil-ayrismasi",
