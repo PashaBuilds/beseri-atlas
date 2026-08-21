@@ -17,6 +17,7 @@ ilgili:
   - aktor-hun-imparatorlugu
   - aktor-tang-hanedani
   - aktor-timur-imparatorlugu
+  - olay-ipek-yolu-kurulusu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

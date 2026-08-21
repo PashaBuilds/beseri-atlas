@@ -1286,7 +1286,7 @@ isler:
   - id: olay-ipek-yolu-kurulusu
     tip: olay
     baslik: İpek Yolu'nun kuruluşu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-04
@@ -1484,7 +1484,7 @@ isler:
   - id: olay-cin-reformlari-1978
     tip: olay
     baslik: Çin'in 1978 reformları
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-15

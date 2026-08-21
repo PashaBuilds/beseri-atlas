@@ -1,0 +1,14 @@
+{
+  "id": "olay-cin-reformlari-1978",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:17:41.736Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki programın aynı kayıtta ayrı ayrı izlenmesi,[^k1] \"reform\" sözcüğünün tek bir yön göstermediğini gösterir: aynı on yılda biri durmuş, diğeri sürmüştür.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

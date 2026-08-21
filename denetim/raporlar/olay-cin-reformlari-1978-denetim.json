@@ -1,0 +1,79 @@
+{
+  "id": "olay-cin-reformlari-1978",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:17:41.256Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Merkez Komitesi'nin üçüncü genel oturumunda başlatıldı; kaynak bunu Mao Zedong'un 1976'daki ölümünün ardından gelen bir dizi iktisadi reform olarak tanımlar.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak siyasi reformların 1980'lerde ayrı ama paralel bir dizi olarak başlatıldığını, bunların 1989 Tiananmen Meydanı protestoları ve katliamıyla sona erdiğini ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki programın aynı kayıtta ayrı ayrı izlenmesi, \"reform\" sözcüğünün tek bir yön göstermediğini gösterir: aynı on yılda biri durmuş, diğeri sürmüştür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak başlangıç için yuvarlak bir yıl değil bir oturum tarihi verir: 18 Aralık 1978, üçüncü genel oturum; program Boluan Fanzheng döneminin içine yerleştirilir",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir iktisadi dönüşümün başlangıcının bir parti toplantısıyla tarihlenmesi, kararın hangi kurumda alındığını da kayda geçirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak programı \"reform ve dışa açılım\" adıyla kaydeder; ayrıca Çin iktisadi reformu ya da Çin iktisadi mucizesi adlarıyla da anıldığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Deng Xiaoping'in 1979'da Çin ekonomisini modernleştirmeyi amaçlayan Dört Modernizasyon'u başlattığı kaydedilir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı sürecin üç ayrı adla anılması, adlandırmanın değerlendirme taşıdığını gösterir: \"mucize\" bir betimleme değil bir yargıdır ve atlas onu benimsemez, kaydeder",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, reformların Mao Zedong'un 1976'daki ölümünün ardından başladığını yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ölümünden önceki dönem dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1978 için yaklaşık 4,29 milyar, 1992 için yaklaşık 5,49 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Reformların içeriği, özel ekonomi bölgeleri, tarım ve sanayi düzenlemeleri ile iktisadi sonuçlar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

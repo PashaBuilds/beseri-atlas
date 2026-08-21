@@ -1,0 +1,14 @@
+{
+  "id": "olay-ipek-yolu-kurulusu",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:17:41.739Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak MÖ 2. binyıldan itibaren Yarkand ve Hotan bölgesindeki madenlerden Çin'e nefrit yeşimi ticareti yapıldığını yazar; Tarim Havzası'nda bulunan ve en erken MÖ 1600'e tarihlenen",
+      "sorun": "\"en erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -387,3 +387,18 @@ hat_duzeltmesi:
       KAPI 7, olay-latin-amerika-bagimsizligi'nda k1'den uc alinti saydi;
       ikisi atlasin kendi terimiydi.
     aksiyon: Tirnaklar kaldirildi; alinti sayisi bire dustu.
+
+# Faz 2 turu B43: Ipek Yolu + Cin 1978 reformlari — 2026-08-21
+  - bulgu: >-
+      Iki itiraz da ustunluk-iddiasi tipinde: "en erken MO 1600'e tarihlenen"
+      ve "tek bir yon gostermedigini".
+    aksiyon: >-
+      Itiraz REDDEDILDI. "en erken" dogrudan kaynagin kendi ifadesinin
+      cevirisidir ve zaten "Kaynak ... yazar" cercevesi icindedir; "tek" sayi
+      sifatidir. Duragan karar kapsaminda.
+  - bulgu: >-
+      plan/kapsam.yaml, olay-cin-reformlari-1978'i donem-15 bagimliligiyla
+      listeliyordu; donem-15 1991'de baslar, olay 1978'dedir.
+    aksiyon: >-
+      Makale donem-14'e yazildi. Mansa Musa'daki ayni turden kapsam/tarih
+      uyusmazligi; yazim aninda onlendi.

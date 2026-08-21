@@ -41,6 +41,7 @@ ilgili:
   - olay-yesil-devrim
   - olay-cernobil
   - olay-afrika-bagimsizlik-dalgasi
+  - olay-cin-reformlari-1978
 okuma_onerisi: []
 serit:
   - bolge: avrupa

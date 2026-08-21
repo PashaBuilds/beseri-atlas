@@ -1,0 +1,79 @@
+{
+  "id": "olay-ipek-yolu-kurulusu",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:17:41.316Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Ağ, Han hanedanının MÖ 114 civarında Orta Asya'ya yayılmasıyla, Çinli saray elçisi Zhang Qian'ın görevleri ve keşifleriyle başladı; bu yayılma bölgeyi tek bir d",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak \"İpek Yolu\" teriminin, Avrasya'nın iki ucundaki yerleşik ve okuryazar imparatorlukları ayrıcalıklı kıldığını ve bozkır göçebelerinin katkılarını göz ardı",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu itiraz, atlasın terim kilidi kapısının neden var olduğunu dışarıdan doğrular: adlandırma tarafsız bir işlem değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "binyıldan itibaren Yarkand ve Hotan bölgesindeki madenlerden Çin'e nefrit yeşimi ticareti yapıldığını yazar; Tarim Havzası'nda bulunan ve en erken MÖ 1600'e tar",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ticaretin, ağın kuruluş tarihinden bin yıldan uzun süre önce kaydedilmesi, bir kuruluş tarihinin ne anlama geldiğini belirsizleştirir: MÖ 114 bir başlangıç deği",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıldan itibaren Asya ticareti için bir lingua franca işlevi gördüğünü yazar; Part İmparatorluğu'nun ağı Akdeniz'e bağlayan hayatî bir köprü sağladığını kayde",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aracıların ayrı ayrı kaydedilmesi, ağın iki uçlu bir hat değil çok merkezli bir yapı olduğunu gösterir; aynı bölgenin sonraki siyasi düzeni dosyasında ele alını",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak Çinlilerin ticaret ürünlerinin güvenliğine büyük ilgi gösterdiğini ve ticaret yolunu korumak için Çin Seddi'ni uzattıklarını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çinlilerin, Çin, Seddi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir savunma yapısının ticaret gerekçesiyle uzatılması, askerî ve iktisadi altyapının aynı kararın iki yüzü olabildiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ağın açıldığı hanedan için kaynak Han'ı MÖ 202 - MS 220 arasına yerleştirir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu MÖ 1000 için yaklaşık 110,5 milyon, MS 200 için yaklaşık 240,8 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Güzergâhlar, deniz yolları, taşınan mallar, dinlerin yayılışı ve ağın çözülmesi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler ola",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -17,6 +17,7 @@ ilgili:
   - aktor-qing-hanedani
   - olay-ikinci-dunya-savasi
   - aktor-cin-halk-cumhuriyeti
+  - olay-cin-reformlari-1978
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

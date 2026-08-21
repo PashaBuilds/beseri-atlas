@@ -16,6 +16,7 @@ ilgili:
   - donem-04
   - aktor-roma-imparatorlugu
   - olay-han-hanedani-kurulusu
+  - olay-ipek-yolu-kurulusu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

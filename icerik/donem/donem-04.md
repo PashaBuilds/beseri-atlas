@@ -28,6 +28,7 @@ ilgili:
   - olay-pon-savaslari
   - olay-roma-cumhuriyetinin-sonu
   - olay-han-hanedani-kurulusu
+  - olay-ipek-yolu-kurulusu
 okuma_onerisi: []
 serit:
   - bolge: dogu-asya

@@ -16,6 +16,7 @@ ilgili:
   - donem-14
   - aktor-cin-halk-cumhuriyeti
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - olay-cin-reformlari-1978
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
