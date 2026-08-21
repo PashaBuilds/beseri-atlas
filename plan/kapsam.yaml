@@ -127,6 +127,89 @@ fazlar:
     - { id: aktor-dunya-ticaret-orgutu, baslik: "Dünya Ticaret Örgütü", bagimlilik: [donem-15] }
     - { id: aktor-cin-halk-cumhuriyeti, baslik: "Çin Halk Cumhuriyeti", bagimlilik: [donem-16] }
 
+    # ─── Faz 2 kapsam genişletmesi (2026-08-21) ────────────────────────────
+    # Faz 2 kapısı 6/6 geçti ama hedef 150'ye karşılık 90 makale üretilmişti:
+    # kapsam listesi plandaki hedefin altında kalmıştı. Hedefi düşürmek yerine
+    # kapsam genişletildi. Seçim ölçütü, RAPOR.md'de kayıtlı bölgesel
+    # dengesizliği kapatmaktır: Afrika, Amerika, Güneydoğu Asya ve Orta Asya
+    # satırları Avrupa ve Doğu Asya'ya göre sığ kalıyordu.
+
+    # Afrika
+    - { id: aktor-aksum-kralligi, baslik: "Aksum Krallığı", bagimlilik: [donem-05] }
+    - { id: aktor-gana-imparatorlugu, baslik: "Gana İmparatorluğu", bagimlilik: [donem-06] }
+    - { id: aktor-songhay-imparatorlugu, baslik: "Songhay İmparatorluğu", bagimlilik: [donem-09] }
+    - { id: aktor-buyuk-zimbabve, baslik: "Büyük Zimbabve", bagimlilik: [donem-08] }
+    - { id: aktor-etiyopya-imparatorlugu, baslik: "Etiyopya İmparatorluğu", bagimlilik: [donem-12] }
+    - { id: olay-atlantik-kole-ticareti, baslik: "Atlantik köle ticareti", bagimlilik: [donem-10] }
+    - { id: olay-mansa-musa-haci, baslik: "Mansa Musa'nın hac yolculuğu", bagimlilik: [donem-08] }
+    - { id: olay-afrika-bagimsizlik-dalgasi, baslik: "Afrika bağımsızlık dalgası", bagimlilik: [donem-14] }
+
+    # Amerika
+    - { id: aktor-maya-uygarligi, baslik: "Maya uygarlığı", bagimlilik: [donem-05] }
+    - { id: aktor-aztek-imparatorlugu, baslik: "Aztek İmparatorluğu", bagimlilik: [donem-08] }
+    - { id: aktor-inka-imparatorlugu, baslik: "İnka İmparatorluğu", bagimlilik: [donem-08] }
+    - { id: aktor-abd, baslik: "Amerika Birleşik Devletleri", bagimlilik: [donem-11] }
+    - { id: olay-meksika-fethi, baslik: "Meksika'nın fethi", bagimlilik: [donem-09] }
+    - { id: olay-latin-amerika-bagimsizligi, baslik: "Latin Amerika bağımsızlık savaşları", bagimlilik: [donem-11] }
+    - { id: olay-amerikan-ic-savasi, baslik: "Amerikan İç Savaşı", bagimlilik: [donem-12] }
+    - { id: olay-meksika-devrimi, baslik: "Meksika Devrimi", bagimlilik: [donem-13] }
+
+    # Güney ve Güneydoğu Asya
+    - { id: aktor-gupta-imparatorlugu, baslik: "Gupta İmparatorluğu", bagimlilik: [donem-05] }
+    - { id: aktor-khmer-imparatorlugu, baslik: "Khmer İmparatorluğu", bagimlilik: [donem-07] }
+    - { id: aktor-srivijaya, baslik: "Srivijaya", bagimlilik: [donem-06] }
+    - { id: aktor-majapahit, baslik: "Majapahit", bagimlilik: [donem-08] }
+    - { id: aktor-delhi-sultanligi, baslik: "Delhi Sultanlığı", bagimlilik: [donem-07] }
+    - { id: olay-vietnam-savasi, baslik: "Vietnam Savaşı", bagimlilik: [donem-14] }
+
+    # Orta Asya ve Bozkır
+    - { id: aktor-gokturk-kaganligi, baslik: "Göktürk Kağanlığı", bagimlilik: [donem-05] }
+    - { id: aktor-timur-imparatorlugu, baslik: "Timur İmparatorluğu", bagimlilik: [donem-08] }
+    - { id: aktor-hun-imparatorlugu, baslik: "Hun İmparatorluğu", bagimlilik: [donem-05] }
+    - { id: olay-ipek-yolu-kurulusu, baslik: "İpek Yolu'nun kuruluşu", bagimlilik: [donem-04] }
+
+    # İslam dünyası
+    - { id: aktor-emevi-hilafeti, baslik: "Emevi Hilafeti", bagimlilik: [donem-06] }
+    - { id: aktor-fatimi-hilafeti, baslik: "Fatımi Hilafeti", bagimlilik: [donem-07] }
+    - { id: aktor-memluk-devleti, baslik: "Memlük Devleti", bagimlilik: [donem-08] }
+    - { id: aktor-eyyubi-devleti, baslik: "Eyyûbî Devleti", bagimlilik: [donem-07] }
+    - { id: olay-kudus-fethi-1187, baslik: "Kudüs'ün 1187'de alınması", bagimlilik: [donem-07] }
+    - { id: olay-iran-devrimi-1979, baslik: "İran Devrimi", bagimlilik: [donem-15] }
+    - { id: olay-arap-bahari, baslik: "Arap Baharı", bagimlilik: [donem-16] }
+
+    # Avrupa
+    - { id: olay-ronesans, baslik: "Rönesans", bagimlilik: [donem-08] }
+    - { id: olay-sanayi-devrimi, baslik: "Sanayi Devrimi", bagimlilik: [donem-11] }
+    - { id: olay-napolyon-savaslari, baslik: "Napolyon Savaşları", bagimlilik: [donem-11] }
+    - { id: olay-kirim-savasi, baslik: "Kırım Savaşı", bagimlilik: [donem-12] }
+    - { id: olay-italyan-birligi, baslik: "İtalyan birliği", bagimlilik: [donem-12] }
+    - { id: olay-irlanda-kitligi, baslik: "İrlanda Kıtlığı", bagimlilik: [donem-12] }
+    - { id: olay-berlin-duvarinin-yikilisi, baslik: "Berlin Duvarı'nın yıkılışı", bagimlilik: [donem-15] }
+    - { id: olay-1968-hareketleri, baslik: "1968 hareketleri", bagimlilik: [donem-14] }
+
+    # Doğu Asya
+    - { id: aktor-tokugawa-sogunlugu, baslik: "Tokugawa Şogunluğu", bagimlilik: [donem-10] }
+    - { id: aktor-goryeo-choson, baslik: "Goryeo ve Joseon Kore", bagimlilik: [donem-08] }
+    - { id: olay-afyon-savaslari, baslik: "Afyon Savaşları", bagimlilik: [donem-12] }
+    - { id: olay-boksor-isyani, baslik: "Boksör İsyanı", bagimlilik: [donem-12] }
+    - { id: olay-kore-savasi, baslik: "Kore Savaşı", bagimlilik: [donem-14] }
+    - { id: olay-kultur-devrimi, baslik: "Kültür Devrimi", bagimlilik: [donem-14] }
+    - { id: olay-cin-reformlari-1978, baslik: "Çin'in 1978 reformları", bagimlilik: [donem-15] }
+
+    # Küresel ve çağdaş
+    - { id: olay-11-eylul, baslik: "11 Eylül saldırıları", bagimlilik: [donem-15] }
+    - { id: olay-covid-19-pandemisi, baslik: "COVID-19 pandemisi", bagimlilik: [donem-16] }
+    - { id: olay-internetin-yayginlasmasi, baslik: "İnternetin yaygınlaşması", bagimlilik: [donem-15] }
+    - { id: olay-paris-iklim-anlasmasi, baslik: "Paris İklim Anlaşması", bagimlilik: [donem-16] }
+    - { id: olay-yesil-devrim, baslik: "Yeşil Devrim", bagimlilik: [donem-14] }
+    - { id: olay-nufus-patlamasi, baslik: "20. yüzyıl nüfus patlaması", bagimlilik: [donem-14] }
+    - { id: olay-uzay-yarisi, baslik: "Uzay yarışı", bagimlilik: [donem-14] }
+    - { id: olay-cernobil, baslik: "Çernobil kazası", bagimlilik: [donem-14] }
+    - { id: olay-avrupa-somurge-paylasimi, baslik: "Afrika'nın paylaşımı", bagimlilik: [donem-12] }
+    - { id: aktor-nato, baslik: "NATO", bagimlilik: [donem-14] }
+    - { id: aktor-varsova-pakti, baslik: "Varşova Paktı", bagimlilik: [donem-14] }
+    - { id: aktor-baglantisizlar-hareketi, baslik: "Bağlantısızlar Hareketi", bagimlilik: [donem-14] }
+
   3:
     # ─── Düşünürler ─────────────────────────────────────────────────────────
     - { id: dusunur-herodotos, baslik: "Herodotos" }

@@ -202,3 +202,20 @@ Ham skorun düşüklüğü korpusun değil bloklama kuralının sonucudur: makal
 kullandığı bütün alan adları bloklandığında geriye kalan havuz çoğu iddia için
 yetersiz kalıyor. Bu tura iki yeni bağımsız alan adı eklendi —
 `en.wikisource.org` (1911 Encyclopædia Britannica) ve `openlibrary.org`.
+
+## Faz 2 kapsam genişletmesi (2026-08-21)
+
+Faz 2 kapısı 6/6 ölçütte geçti — build kapıları, kaynak doğrulama oranı 0.9981,
+makale başına 3.23 kaynak, 0 karantina, örnekleme kapısı 1.0, 0 çapraz çelişki.
+Ancak orkestratör ilerlemeyi reddetti: `otonom/kapilar.yaml` Faz 2 için 150
+makale hedefliyor, üretilen ise 90'dı.
+
+Sorun kapsamdaydı: `plan/kapsam.yaml`'ın Faz 2 listesi 93 madde içeriyordu ve
+plandaki hedefin altındaydı. Hedefi 90'a çekmek, ölçütü sonuca uydurmak olurdu.
+Bunun yerine kapsam 153 maddeye genişletildi.
+
+Seçim ölçütü keyfi değil: RAPOR.md'de ve donem-13/donem-14 makalelerinin kendi
+metinlerinde kayıtlı olan bölgesel sığlık. Eklenen 60 maddenin dağılımı Afrika 8,
+Amerika 8, Güney/Güneydoğu Asya 6, Orta Asya 4, İslam dünyası 7, Avrupa 8,
+Doğu Asya 7, küresel/çağdaş 12. Yani genişletme, sayıyı tutturmak için değil
+kapsam boşluğunu kapatmak için yapıldı; sayı zaten o boşluğun ölçüsüydü.
