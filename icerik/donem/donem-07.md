@@ -26,6 +26,7 @@ ilgili:
   - olay-hacli-seferleri
   - aktor-fatimi-hilafeti
   - aktor-khmer-imparatorlugu
+  - aktor-delhi-sultanligi
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

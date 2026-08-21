@@ -16,6 +16,7 @@ ilgili:
   - donem-08
   - aktor-mogol-imparatorlugu
   - aktor-khmer-imparatorlugu
+  - aktor-srivijaya
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

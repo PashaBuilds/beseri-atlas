@@ -1223,7 +1223,7 @@ isler:
   - id: aktor-srivijaya
     tip: aktor
     baslik: Srivijaya
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-06
@@ -1241,7 +1241,7 @@ isler:
   - id: aktor-delhi-sultanligi
     tip: aktor
     baslik: Delhi Sultanlığı
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-07

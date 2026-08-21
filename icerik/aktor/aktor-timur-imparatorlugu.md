@@ -16,6 +16,7 @@ ilgili:
   - donem-08
   - aktor-gokturk-kaganligi
   - aktor-osmanli-imparatorlugu
+  - aktor-delhi-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

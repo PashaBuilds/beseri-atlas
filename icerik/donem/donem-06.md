@@ -26,6 +26,7 @@ ilgili:
   - olay-talas-savasi
   - aktor-gana-imparatorlugu
   - aktor-emevi-hilafeti
+  - aktor-srivijaya
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

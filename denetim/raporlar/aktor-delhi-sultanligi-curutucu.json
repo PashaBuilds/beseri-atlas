@@ -1,0 +1,28 @@
+{
+  "id": "aktor-delhi-sultanligi",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:02:09.999Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sultanlık 25 Haziran 1206'da bağımsızlıkla başlar ve 1526'da Panipat Savaşı ile biter; devlet biçimi sultanlıktır.[^k1] Bu dosya, **tek ad altında sıralanan beş hanedanı** ele alır",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir hanedan değişiminin dört buçuk aya yayılmış olarak kaydedilmesi,[^k1] iktidar devrinin tek bir ana sıkışmadığını gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Ardıl listesinde hem bir imparatorluk hem bir sultanlıklar çoğulu bulunması,[^k1] burada da dağılmanın tek bir halefe değil birden çok yapıya gittiğini gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

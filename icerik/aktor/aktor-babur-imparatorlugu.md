@@ -16,6 +16,7 @@ ilgili:
   - donem-09
   - aktor-safevi-devleti
   - olay-1857-hint-ayaklanmasi
+  - aktor-delhi-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

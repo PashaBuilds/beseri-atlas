@@ -33,6 +33,7 @@ ilgili:
   - aktor-hansa-birligi
   - aktor-mali-imparatorlugu
   - aktor-gana-imparatorlugu
+  - aktor-srivijaya
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

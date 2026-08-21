@@ -1,0 +1,85 @@
+{
+  "id": "aktor-srivijaya",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:02:09.598Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak imparatorluğu Sumatra merkezli sayar ve tarihini yaklaşık 671 ile 1025 arasına koyar; ortak dil Eski Malayca, hükümdar unvanı maharaja'dır.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak yönetim biçimini \"monarşi, mandala devleti\" olarak verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak alan ölçümünü 1200 yılı tahmini olarak 1.200.000 km² verir; aynı kayıtta imparatorluğun bitişi 1025'tir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir alan tahmininin, aynı kutuda verilen bitiş yılından yaklaşık iki yüzyıl sonra tarihlenmesi atlasın kaydettiği türden bir tutarsızlıktır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hükümdarlar yaklaşık yıllarla sıralanır: yaklaşık 683'te Dapunta Hyang Sri Jayanasa, yaklaşık 775'te Dharmasetu, yaklaşık 792'de Samaratungga, yaklaşık 835'te B",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Beş hükümdarın da yaklaşık tarihle verilmesi, bu dosyanın genel güven düzeyinin neden tartışmalı olarak işaretlendiğinin gerekçesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılda Palembang'dan başlayıp Sumatra'nın çoğuna, ardından Java'ya yayıldığı kaydedilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Başkent için tek bir yer yerine bir bölümler listesi tutulması, mandala tanımıyla tutarlıdır: merkezi belirsiz olan bir yapının başkenti de tek satıra sığmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dinler Budizm ve Hinduizm olarak, para birimi erken Nusantara sikkeleri olarak kaydedilir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir deniz gücünün kendi sikkesinin kaydedilmesi, ticaretin takasla sınırlı kalmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı takımadalarda sonraki deniz gücü için kaynak Majapahit'i verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu MS 600 için yaklaşık 271,6 milyon, 1000 yılı için yaklaşık 314,7 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuruluş ve büyüme, altın çağ, ticaret ağı, gemi tipleri ve sanat burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
