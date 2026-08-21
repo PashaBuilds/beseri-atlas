@@ -18,6 +18,7 @@ ilgili:
   - aktor-tang-hanedani
   - aktor-timur-imparatorlugu
   - olay-ipek-yolu-kurulusu
+  - kavram-bozkir-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

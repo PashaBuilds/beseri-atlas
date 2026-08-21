@@ -288,6 +288,45 @@ fazlar:
     - { id: kavram-yasam-beklentisi, baslik: "Yaşam beklentisi" }
     - { id: kavram-gini-katsayisi, baslik: "Gini katsayısı" }
 
+    # ─── Faz 3 kapsam genişletmesi (2026-08-21) ─────────────────────────────
+    # Kuyruk 76/100'de boşaldı. Hedef düşürülmedi; kapsam genişletildi.
+    # Seçim ölçütü iki yönlü: (1) mevcut kavram listesi ağırlıklı olarak Avrupa
+    # kaynaklıydı, (2) atlasın kendi yöntemini adlandıran kavramlar eksikti.
+    # Yöntem kavramları özellikle önemli: bu atlas kaynak zorunluluğu üzerine
+    # kurulu ama "birincil kaynak" ya da "tarih yazımı" için dosyası yoktu.
+
+    # Avrupa dışı siyasi ve toplumsal biçimler
+    - { id: kavram-mandala-devleti, baslik: "Mandala devleti" }
+    - { id: kavram-haracguzarlik, baslik: "Haraçgüzarlık" }
+    - { id: kavram-bozkir-imparatorlugu, baslik: "Bozkır imparatorluğu" }
+    - { id: kavram-kast, baslik: "Kast" }
+    - { id: kavram-ictihat, baslik: "İctihat" }
+    - { id: kavram-tasavvuf, baslik: "Tasavvuf" }
+
+    # Kurumsal biçimler
+    - { id: kavram-sehir-devleti, baslik: "Şehir devleti" }
+    - { id: kavram-imparatorluk, baslik: "İmparatorluk" }
+    - { id: kavram-burokrasi, baslik: "Bürokrasi" }
+    - { id: kavram-patrimonyalizm, baslik: "Patrimonyalizm" }
+    - { id: kavram-vergi, baslik: "Vergi" }
+    - { id: kavram-hukuk-devleti, baslik: "Hukuk devleti" }
+
+    # Maddi ve teknik altyapı
+    - { id: kavram-para, baslik: "Para" }
+    - { id: kavram-yazi-sistemi, baslik: "Yazı sistemi" }
+    - { id: kavram-ticaret-diasporasi, baslik: "Ticaret diasporası" }
+    - { id: kavram-kolelik, baslik: "Kölelik" }
+    - { id: kavram-salgin, baslik: "Salgın" }
+    - { id: kavram-tarihsel-iklimbilim, baslik: "Tarihsel iklimbilim" }
+
+    # Atlasın kendi yöntemini adlandıran kavramlar
+    - { id: kavram-birincil-kaynak, baslik: "Birincil kaynak" }
+    - { id: kavram-ikincil-kaynak, baslik: "İkincil kaynak" }
+    - { id: kavram-tarih-yazimi, baslik: "Tarih yazımı" }
+    - { id: kavram-sozlu-tarih, baslik: "Sözlü tarih" }
+    - { id: kavram-arkeolojik-kanit, baslik: "Arkeolojik kanıt" }
+    - { id: kavram-kaynak-elestirisi, baslik: "Kaynak eleştirisi" }
+
   4:
     # ─── Tartışmalar ────────────────────────────────────────────────────────
     - { id: tartisma-eksen-cagi-gercek-mi, baslik: "Eksen Çağı gerçek bir olgu mu?" }

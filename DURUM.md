@@ -1,8 +1,8 @@
 ---
 aktif_faz: 3
-aktif_parti: B01
-son_commit: a3f5ac0
-son_guncelleme: 2026-08-21T08:28:30.225Z
+aktif_parti: B02
+son_commit: b778857
+son_guncelleme: 2026-08-21T09:59:23.647Z
 sayaclar:
   uretilen: 28
   onaylanan: 28
@@ -42,7 +42,7 @@ onarim:
 faz_parti_sayaci:
   "1": 1
   "2": 2
-  "3": 1
+  "3": 2
 ---
 
 # DURUM — otonom döngünün hafızası
@@ -51,9 +51,9 @@ faz_parti_sayaci:
 > Hat durduğunda `npm run otonom` bu dosyayı okuyup aynı noktadan sürer.
 
 **Aktif faz:** 3 — Kavramsal katman
-**Aktif parti:** B01
-**Son güncelleme:** 2026-08-21T08:28:30.225Z
-**Son commit:** a3f5ac0
+**Aktif parti:** B02
+**Son güncelleme:** 2026-08-21T09:59:23.647Z
+**Son commit:** b778857
 
 | Sayaç | Değer |
 |---|---|

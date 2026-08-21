@@ -2178,3 +2178,195 @@ isler:
     bagimlilik: []
     atanan_parti: null
     deneme: 0
+  - id: kavram-mandala-devleti
+    tip: kavram
+    baslik: Mandala devleti
+    durum: onaylandi
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-haracguzarlik
+    tip: kavram
+    baslik: Haraçgüzarlık
+    durum: onaylandi
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-bozkir-imparatorlugu
+    tip: kavram
+    baslik: Bozkır imparatorluğu
+    durum: onaylandi
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-kast
+    tip: kavram
+    baslik: Kast
+    durum: uretiliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-ictihat
+    tip: kavram
+    baslik: İctihat
+    durum: uretiliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-tasavvuf
+    tip: kavram
+    baslik: Tasavvuf
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-sehir-devleti
+    tip: kavram
+    baslik: Şehir devleti
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-imparatorluk
+    tip: kavram
+    baslik: İmparatorluk
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-burokrasi
+    tip: kavram
+    baslik: Bürokrasi
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-patrimonyalizm
+    tip: kavram
+    baslik: Patrimonyalizm
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-vergi
+    tip: kavram
+    baslik: Vergi
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-hukuk-devleti
+    tip: kavram
+    baslik: Hukuk devleti
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-para
+    tip: kavram
+    baslik: Para
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-yazi-sistemi
+    tip: kavram
+    baslik: Yazı sistemi
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-ticaret-diasporasi
+    tip: kavram
+    baslik: Ticaret diasporası
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-kolelik
+    tip: kavram
+    baslik: Kölelik
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-salgin
+    tip: kavram
+    baslik: Salgın
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-tarihsel-iklimbilim
+    tip: kavram
+    baslik: Tarihsel iklimbilim
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-birincil-kaynak
+    tip: kavram
+    baslik: Birincil kaynak
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-ikincil-kaynak
+    tip: kavram
+    baslik: İkincil kaynak
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-tarih-yazimi
+    tip: kavram
+    baslik: Tarih yazımı
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-sozlu-tarih
+    tip: kavram
+    baslik: Sözlü tarih
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-arkeolojik-kanit
+    tip: kavram
+    baslik: Arkeolojik kanıt
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-kaynak-elestirisi
+    tip: kavram
+    baslik: Kaynak eleştirisi
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0

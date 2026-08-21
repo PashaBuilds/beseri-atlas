@@ -16,6 +16,7 @@ ilgili:
   - donem-08
   - aktor-mogol-imparatorlugu
   - aktor-ming-hanedani
+  - kavram-haracguzarlik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

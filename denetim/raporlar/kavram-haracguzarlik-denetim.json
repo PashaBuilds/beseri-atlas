@@ -1,0 +1,61 @@
+{
+  "id": "kavram-haracguzarlik",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:01:57.267Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, uygulamada başlığı altında beş alt başlık tutar: meşruiyet, özerklik, haraç, kültür ve törenler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir bağlılık sisteminin ansiklopedi maddesinde özerkliğin ayrı bir alt başlık taşıması, atlasın şu kuralının dayanağıdır: bu dosyada haraçgüzarlık, bir egemenli",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın törenlere ayrı bir alt başlık ayırması, ilişkinin biçimsel yanının içeriği kadar kaydedildiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak tarih bölümünde Kore, Japonya, Tayland, Vietnam, Ryukyu Krallığı ve denizci Güneydoğu Asya alt başlıklarını tutar.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı sistemin altı ayrı ülke için ayrı ayrı işlenmesi, tek bir tanımın bütün örnekleri kapsamayabileceğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kore için tutulan ayrı kayıt, bir hanedanın 918-1270 ve 1356-1392 arasında bağımsız devlet, 1270-1356 arasında Yuan hanedanının tabi devleti olduğunu yazar ve Ç",
+      "durum": "OK",
+      "not": "7 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı devletin hem nominal haraçgüzar hem tabi devlet olarak ayrı ayrı kaydedilmesi, bağımlılığın tek bir derecesi olmadığını gösterir; o kayıt dosyasında, yakın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tören ve hiyerarşi geleneği için tutulan kayıt, Konfüçyüs'ün tarihlerini geleneksel kaydıyla MÖ 551-479 olarak verir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sistemin tanımı, haraç kalemleri ve ülke ülke tarihler burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

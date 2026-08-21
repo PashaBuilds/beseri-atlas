@@ -18,6 +18,7 @@ ilgili:
   - aktor-roma-imparatorlugu
   - tartisma-romanin-cokus-nedeni
   - aktor-gokturk-kaganligi
+  - kavram-bozkir-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

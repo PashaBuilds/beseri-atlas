@@ -18,6 +18,7 @@ ilgili:
   - aktor-qing-hanedani
   - aktor-safevi-devleti
   - aktor-goryeo-choson
+  - kavram-haracguzarlik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

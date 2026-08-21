@@ -35,6 +35,7 @@ ilgili:
   - aktor-gana-imparatorlugu
   - aktor-srivijaya
   - kavram-emperyalizm
+  - kavram-mandala-devleti
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

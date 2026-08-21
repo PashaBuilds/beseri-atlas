@@ -4,10 +4,10 @@ _Üretim tarihi: 2026-08-21 · Bu dosya `npm run rapor` ile ölçümlerden üret
 
 ## Kapsam
 
-Üretilen: **251** | Onaylanan: **251** | Karantinada: **0**
+Üretilen: **254** | Onaylanan: **254** | Karantinada: **0**
 
-Planlanan tam kapsam **288** makaledir; bu raporun yazıldığı anda
-**%87.2**'i yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
+Planlanan tam kapsam **312** makaledir; bu raporun yazıldığı anda
+**%81.4**'i yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
 birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 
 | Tip | Yayımlanan |
@@ -15,13 +15,13 @@ birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 | aktor | 64 |
 | donem | 16 |
 | dusunur | 36 |
-| kavram | 40 |
+| kavram | 43 |
 | kaynak | 1 |
 | olay | 86 |
 | tartisma | 7 |
 | veri | 1 |
 
-Toplam gövde: **85.024** kelime.
+Toplam gövde: **85.713** kelime.
 
 ## Doğrulama
 
@@ -29,10 +29,10 @@ Toplam gövde: **85.024** kelime.
 Nihai skor: **1** (13 ölçülen değer: 13 doğrulandı, 0 çelişki)
 Ham skor: **0.4643** (28 değerlik örneklem, 15 değer bağımsız olarak türetilemedi)
 
-Geçiş 2 (kaynak denetimi): 1600 OK · 4 ISARET · 0 HATA · 1341 programatik olarak ölçülemedi
+Geçiş 2 (kaynak denetimi): 1608 OK · 4 ISARET · 0 HATA · 1361 programatik olarak ölçülemedi
 Kaynak doğrulama oranı: **0.9988**
 Makale başına ortalama kaynak: **3.11**
-Çürütücünün ürettiği itiraz adayı: **381**
+Çürütücünün ürettiği itiraz adayı: **384**
 Çapraz tutarlılık çelişkisi: **0**
 
 ### İki skorun anlamı
@@ -92,8 +92,16 @@ hatalı kaynağa dayanıyorsa ikisi de aynı yanlışa varır.
 
 ## Hattın durduğu nokta
 
-Aktif faz: **3** · Aktif parti: **B01**
-Kuyrukta bekleyen iş: **0** · Karantinada: **0**
+Aktif faz: **3** · Aktif parti: **B02**
+Kuyrukta bekleyen iş: **19** · Karantinada: **0**
 Harcanan bütçe: 1.320.000 / 40.000.000 token
 
-Kuyrukta bekleyen iş kalmadı.
+### Neden burada duruyor
+
+Hat bir kapı kırılması ya da durdurma kuralı nedeniyle durmadı:
+bütün kapılar geçildi, örnekleme kapısı eşiğin üzerinde ve karantinada
+makale yok. Kuyrukta bekleyen iş, henüz üretilmemiş içeriktir.
+
+`npm run otonom` yeniden çalıştırıldığında hat `DURUM.md` ile
+`plan/kuyruk.yaml`yi okuyup sıradaki partiden devam eder; üretilmiş
+hiçbir iş tekrarlanmaz.

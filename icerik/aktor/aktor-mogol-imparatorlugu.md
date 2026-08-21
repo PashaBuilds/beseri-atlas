@@ -19,6 +19,7 @@ ilgili:
   - aktor-memluk-devleti
   - aktor-majapahit
   - aktor-goryeo-choson
+  - kavram-bozkir-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

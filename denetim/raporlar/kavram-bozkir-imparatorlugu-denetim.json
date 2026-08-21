@@ -1,0 +1,55 @@
+{
+  "id": "kavram-bozkir-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:01:57.242Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, antik tarih başlığı altında örnekleri ad ad sıralar: Xiongnu, Kuşan İmparatorluğu, Xianbei, Eftalit İmparatorluğu ve Hun İmparatorluğu; post-klasik tari",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir siyasi biçimin tanımının örnek listesiyle verilmesi, atlasın şu kuralının dayanağıdır: bu dosyada bozkır imparatorluğu, bir tanım değil bir örnekler kümesi ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "yüzyıl için nüfusu 3 milyon olarak verir ve ortak dilleri Eski Türkçe, Soğdca ve Juan-juan dili olarak sıralar.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir bozkır siyasi biriminin hem alan hem nüfus sayısıyla kaydedilebilmesi, göçebe düzenlerin ölçülemez sayılmasının kayıtlarla doğrulanmadığını gösterir; o kağa",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bozkır halklarına dair en eski yazılı kayıtları bırakan yazar için tutulan bir başka madde, onu MÖ yaklaşık 484-425 arasına yerleştirir ve tarihin babası diye a",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bozkır düzenlerine dair bilginin büyük ölçüde dışarıdan yazılmış kayıtlara dayanması, atlasın şu kuralının dayanağıdır: bu dosyada göçebe siyasi birimler, onlar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bozkır düzenlerine dair bilginin büyük ölçüde dışarıdan yazılmış kayıtlara dayanması, atlasın şu kuralının dayanağıdır: bu dosyada göçebe siyasi birimler, onlar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramın arka planı, örneklerin tarihleri ve göçebe düzenlerin iç yapısı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
