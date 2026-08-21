@@ -19,6 +19,7 @@ ilgili:
   - veri-okuryazarlik-1475-2023
   - kaynak-konfucyus-lunyu
   - kaynak-kant-elestiri
+  - kaynak-farabi-medinetul-fazila
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

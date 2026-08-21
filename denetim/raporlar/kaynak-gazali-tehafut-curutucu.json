@@ -1,0 +1,14 @@
+{
+  "id": "kaynak-gazali-tehafut",
+  "gecis": 3,
+  "zaman": "2026-08-21T11:47:37.696Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir düşünürün son eserinde bir soruyu açık bırakması,[^k1] atlasın hakemlik etmeme ilkesinin en eski örneklerinden biridir. Yazar [Gazâlî](/dusunur/gazali/) dosyasında ele alınıyor",
+      "sorun": "\"en eski\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -23,6 +23,7 @@ ilgili:
   - kaynak-machiavelli-prens
   - kaynak-aristoteles-politika
   - kaynak-platon-devlet
+  - kaynak-farabi-medinetul-fazila
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

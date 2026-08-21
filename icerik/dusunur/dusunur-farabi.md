@@ -17,6 +17,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-augustinus
   - dusunur-ibn-rusd
+  - kaynak-farabi-medinetul-fazila
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

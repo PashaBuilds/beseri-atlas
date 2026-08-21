@@ -1,0 +1,49 @@
+{
+  "id": "kaynak-gazali-tehafut",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:47:37.041Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak yazarı yaklaşık 1056-1111 arasına yerleştirir ve onu Sünni İslam'ın en önde gelen ve etkili filozof, kelamcı, fakih ve mutasavvıflarından biri olarak kay",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, eserden sonra yazarın belirgin biçimde okazyonalist bir kozmoloji savunduğu kitaplar yazdığını, ancak İhyâ'nın otuz beşinci kitabı ile Mişkâtü'l-envâr g",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, ölümünden yalnızca birkaç gün önce tamamladığı son eserinde Tanrı'nın yaratıklarının aracılığıyla yaratıp yaratmadığını tartıştığını ve meselenin kesin ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tanrı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir düşünürün son eserinde bir soruyu açık bırakması, atlasın hakemlik etmeme ilkesinin en eski örneklerinden biridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Esere cevap yazan düşünür için tutulan kayıt, onu 1126-1198 arasında yaşamış Endülüslü bir filozof, hekim ve kadı olarak verir ve şerhlerini üç türe ayırır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı geleneğin yöntem kavramı için tutulan kayıt, ulaşılan bilginin zannî olduğunu tanımın içine koyar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

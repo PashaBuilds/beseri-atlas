@@ -1,0 +1,14 @@
+{
+  "id": "kaynak-farabi-medinetul-fazila",
+  "gecis": 3,
+  "zaman": "2026-08-21T11:47:37.693Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Kaynak, 1980'lerden itibaren Fârâbî araştırmalarında çok şey olduğunu; yeni ve daha iyi neşirler ile yeni ve daha iyi çevirilerin düşüncesine dair daha derin incelemelere ve ilginç",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

@@ -18,6 +18,7 @@ ilgili:
   - dusunur-ibn-rusd
   - kavram-ictihad
   - kavram-tasavvuf
+  - kaynak-gazali-tehafut
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

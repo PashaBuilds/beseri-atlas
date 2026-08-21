@@ -2965,7 +2965,7 @@ isler:
   - id: kaynak-farabi-medinetul-fazila
     tip: kaynak
     baslik: Fârâbî — el-Medînetü'l-fâzıla
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2973,7 +2973,7 @@ isler:
   - id: kaynak-gazali-tehafut
     tip: kaynak
     baslik: Gazâlî — Tehâfütü'l-felâsife
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
