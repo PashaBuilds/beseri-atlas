@@ -2429,7 +2429,7 @@ isler:
   - id: tartisma-somurgeciligin-ekonomik-bilancosu
     tip: tartisma
     baslik: Sömürgeciliğin ekonomik bilançosu
-    durum: bekliyor
+    durum: uretiliyor
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2453,7 +2453,7 @@ isler:
   - id: tartisma-ikinci-dunya-savasi-sorumlulugu
     tip: tartisma
     baslik: İkinci Dünya Savaşı'nın sorumluluğu
-    durum: bekliyor
+    durum: uretiliyor
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2461,7 +2461,7 @@ isler:
   - id: tartisma-soguk-savasin-baslangici
     tip: tartisma
     baslik: Soğuk Savaş'ı kim başlattı?
-    durum: bekliyor
+    durum: uretiliyor
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2469,7 +2469,7 @@ isler:
   - id: tartisma-kalkinma-neden-basarisiz
     tip: tartisma
     baslik: Kalkınma politikaları neden başarısız oldu?
-    durum: bekliyor
+    durum: uretiliyor
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2477,7 +2477,7 @@ isler:
   - id: tartisma-demografik-donum-sonuclari
     tip: tartisma
     baslik: Nüfus daralması ne anlama geliyor?
-    durum: bekliyor
+    durum: uretiliyor
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2670,6 +2670,374 @@ isler:
     tip: kaynak
     baslik: Milanović — Global Inequality
     durum: onaylandi
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-yazinin-icadi-nerede
+    tip: tartisma
+    baslik: Yazı nerede icat edildi?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-tarim-devrimi-neden
+    tip: tartisma
+    baslik: Tarım neden başladı?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-antik-kolelik-ekonomisi
+    tip: tartisma
+    baslik: Antik ekonomi köleliğe mi dayanıyordu?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-hacli-seferlerinin-nedeni
+    tip: tartisma
+    baslik: Haçlı seferlerinin nedeni neydi?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-kesif-mi-istila-mi
+    tip: tartisma
+    baslik: Keşif mi, istila mı?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-vestfalya-miti
+    tip: tartisma
+    baslik: Vestfalya bir dönüm noktası mı?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-aydinlanmanin-sinirlari
+    tip: tartisma
+    baslik: Aydınlanma kimin için?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-1929-krizinin-nedeni
+    tip: tartisma
+    baslik: 1929 krizinin nedeni neydi?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-soykirim-kavrami
+    tip: tartisma
+    baslik: Soykırım kavramı nasıl tanımlanır?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-nufus-artisi-tehdit-mi
+    tip: tartisma
+    baslik: Nüfus artışı bir tehdit mi?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-kalkinma-yardimi-ise-yariyor-mu
+    tip: tartisma
+    baslik: Kalkınma yardımı işe yarıyor mu?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-iklim-ve-cokus
+    tip: tartisma
+    baslik: İklim toplumları çökertir mi?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-teknolojik-belirlenimcilik
+    tip: tartisma
+    baslik: Teknoloji tarihi belirler mi?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-buyuk-adam-kurami
+    tip: tartisma
+    baslik: Tarihi bireyler mi yapar?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-karsi-olgusal-tarih
+    tip: tartisma
+    baslik: Karşı olgusal tarih meşru mu?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-imparatorluk-nufusu-nasil-sayilir
+    tip: tartisma
+    baslik: İmparatorluk nüfusu nasıl sayılır?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-cocuk-olumleri
+    tip: veri
+    baslik: Çocuk ölüm oranı
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-co2-emisyonu
+    tip: veri
+    baslik: CO2 emisyonu
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-askeri-harcama
+    tip: veri
+    baslik: Askerî harcama
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-demokrasi-endeksi
+    tip: veri
+    baslik: Demokrasi endeksi
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-tarim-istihdami
+    tip: veri
+    baslik: Tarımda istihdam payı
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-ortalama-egitim-suresi
+    tip: veri
+    baslik: Ortalama eğitim süresi
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-kisi-basi-enerji
+    tip: veri
+    baslik: Kişi başına enerji tüketimi
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-yoksulluk-orani
+    tip: veri
+    baslik: Aşırı yoksulluk oranı
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-nufus-artis-hizi
+    tip: veri
+    baslik: Nüfus artış hızı
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-kentli-nufus-sayisi
+    tip: veri
+    baslik: Kentli nüfus sayısı
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-bebek-olumleri
+    tip: veri
+    baslik: Bebek ölüm oranı
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-tarimsal-verim
+    tip: veri
+    baslik: Tahıl verimi
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-internet-kullanimi
+    tip: veri
+    baslik: İnternet kullanım oranı
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-savas-olumleri
+    tip: veri
+    baslik: Savaşta ölümler
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-herodotos-tarihler
+    tip: kaynak
+    baslik: Herodotos — Tarihler
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-sima-qian-shiji
+    tip: kaynak
+    baslik: Sima Qian — Shiji
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-aristoteles-politika
+    tip: kaynak
+    baslik: Aristoteles — Politika
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-platon-devlet
+    tip: kaynak
+    baslik: Platon — Devlet
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-konfucyus-lunyu
+    tip: kaynak
+    baslik: Konfüçyüs — Lunyu
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-tacitus-annales
+    tip: kaynak
+    baslik: Tacitus — Annales
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-farabi-medinetul-fazila
+    tip: kaynak
+    baslik: Fârâbî — el-Medînetü'l-fâzıla
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-gazali-tehafut
+    tip: kaynak
+    baslik: Gazâlî — Tehâfütü'l-felâsife
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-montesquieu-kanunlarin-ruhu
+    tip: kaynak
+    baslik: Montesquieu — Kanunların Ruhu
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-kant-elestiri
+    tip: kaynak
+    baslik: Kant — Saf Aklın Eleştirisi
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-malthus-nufus
+    tip: kaynak
+    baslik: Malthus — Nüfus İlkesi Üzerine
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-hegel-gorungubilim
+    tip: kaynak
+    baslik: Hegel — Tinin Görüngübilimi
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-marx-kapital
+    tip: kaynak
+    baslik: Marx — Kapital
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-weber-protestan-ahlaki
+    tip: kaynak
+    baslik: Weber — Protestan Ahlakı
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-durkheim-intihar
+    tip: kaynak
+    baslik: Durkheim — İntihar
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-keynes-genel-teori
+    tip: kaynak
+    baslik: Keynes — Genel Teori
+    durum: bekliyor
     faz: 4
     bagimlilik: []
     atanan_parti: null

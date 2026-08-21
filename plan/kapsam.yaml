@@ -368,3 +368,66 @@ fazlar:
     - { id: kaynak-pomeranz-buyuk-ayrisma, baslik: "Pomeranz — The Great Divergence" }
     - { id: kaynak-tooze-felaketin-bedeli, baslik: "Tooze — The Wages of Destruction" }
     - { id: kaynak-milanovic-kuresel-esitsizlik, baslik: "Milanović — Global Inequality" }
+
+    # ─── Faz 4 kapsam genişletmesi (2026-08-21) ─────────────────────────────
+    # Faz 4 hedefi 80; kapsam listesi 37'de kalıyordu. Hedef düşürülmedi,
+    # kapsam genişletildi. Seçim ölçütleri:
+    #   (1) tartışma haritaları: atlasın zaten yazdığı olay ve kavram
+    #       dosyalarında açık kalan sorular — her biri mevcut bir dosyaya bağlı.
+    #   (2) veri dosyaları: OWID'de dünya toplamı serisi bulunan ve atlasın
+    #       başka dosyalarında atıf yapılan ölçüler.
+    #   (3) kaynak dosyaları: atlasın düşünür katmanında yazılmış her düşünürün
+    #       en çok atıf alan eseri — böylece düşünür ile eser ayrı ayrı
+    #       künyelenir ve "iki tıklama" testi eser düzeyinde de sağlanır.
+
+    # Tartışma haritaları
+    - { id: tartisma-yazinin-icadi-nerede, baslik: "Yazı nerede icat edildi?" }
+    - { id: tartisma-tarim-devrimi-neden, baslik: "Tarım neden başladı?" }
+    - { id: tartisma-antik-kolelik-ekonomisi, baslik: "Antik ekonomi köleliğe mi dayanıyordu?" }
+    - { id: tartisma-hacli-seferlerinin-nedeni, baslik: "Haçlı seferlerinin nedeni neydi?" }
+    - { id: tartisma-kesif-mi-istila-mi, baslik: "Keşif mi, istila mı?" }
+    - { id: tartisma-vestfalya-miti, baslik: "Vestfalya bir dönüm noktası mı?" }
+    - { id: tartisma-aydinlanmanin-sinirlari, baslik: "Aydınlanma kimin için?" }
+    - { id: tartisma-1929-krizinin-nedeni, baslik: "1929 krizinin nedeni neydi?" }
+    - { id: tartisma-soykirim-kavrami, baslik: "Soykırım kavramı nasıl tanımlanır?" }
+    - { id: tartisma-nufus-artisi-tehdit-mi, baslik: "Nüfus artışı bir tehdit mi?" }
+    - { id: tartisma-kalkinma-yardimi-ise-yariyor-mu, baslik: "Kalkınma yardımı işe yarıyor mu?" }
+    - { id: tartisma-iklim-ve-cokus, baslik: "İklim toplumları çökertir mi?" }
+    - { id: tartisma-teknolojik-belirlenimcilik, baslik: "Teknoloji tarihi belirler mi?" }
+    - { id: tartisma-buyuk-adam-kurami, baslik: "Tarihi bireyler mi yapar?" }
+    - { id: tartisma-karsi-olgusal-tarih, baslik: "Karşı olgusal tarih meşru mu?" }
+    - { id: tartisma-imparatorluk-nufusu-nasil-sayilir, baslik: "İmparatorluk nüfusu nasıl sayılır?" }
+
+    # Veri dosyaları
+    - { id: veri-cocuk-olumleri, baslik: "Çocuk ölüm oranı" }
+    - { id: veri-co2-emisyonu, baslik: "CO2 emisyonu" }
+    - { id: veri-askeri-harcama, baslik: "Askerî harcama" }
+    - { id: veri-demokrasi-endeksi, baslik: "Demokrasi endeksi" }
+    - { id: veri-tarim-istihdami, baslik: "Tarımda istihdam payı" }
+    - { id: veri-ortalama-egitim-suresi, baslik: "Ortalama eğitim süresi" }
+    - { id: veri-kisi-basi-enerji, baslik: "Kişi başına enerji tüketimi" }
+    - { id: veri-yoksulluk-orani, baslik: "Aşırı yoksulluk oranı" }
+    - { id: veri-nufus-artis-hizi, baslik: "Nüfus artış hızı" }
+    - { id: veri-kentli-nufus-sayisi, baslik: "Kentli nüfus sayısı" }
+    - { id: veri-bebek-olumleri, baslik: "Bebek ölüm oranı" }
+    - { id: veri-tarimsal-verim, baslik: "Tahıl verimi" }
+    - { id: veri-internet-kullanimi, baslik: "İnternet kullanım oranı" }
+    - { id: veri-savas-olumleri, baslik: "Savaşta ölümler" }
+
+    # Kaynak dosyaları — düşünür katmanındaki her düşünürün ana eseri
+    - { id: kaynak-herodotos-tarihler, baslik: "Herodotos — Tarihler" }
+    - { id: kaynak-sima-qian-shiji, baslik: "Sima Qian — Shiji" }
+    - { id: kaynak-aristoteles-politika, baslik: "Aristoteles — Politika" }
+    - { id: kaynak-platon-devlet, baslik: "Platon — Devlet" }
+    - { id: kaynak-konfucyus-lunyu, baslik: "Konfüçyüs — Lunyu" }
+    - { id: kaynak-tacitus-annales, baslik: "Tacitus — Annales" }
+    - { id: kaynak-farabi-medinetul-fazila, baslik: "Fârâbî — el-Medînetü'l-fâzıla" }
+    - { id: kaynak-gazali-tehafut, baslik: "Gazâlî — Tehâfütü'l-felâsife" }
+    - { id: kaynak-montesquieu-kanunlarin-ruhu, baslik: "Montesquieu — Kanunların Ruhu" }
+    - { id: kaynak-kant-elestiri, baslik: "Kant — Saf Aklın Eleştirisi" }
+    - { id: kaynak-malthus-nufus, baslik: "Malthus — Nüfus İlkesi Üzerine" }
+    - { id: kaynak-hegel-gorungubilim, baslik: "Hegel — Tinin Görüngübilimi" }
+    - { id: kaynak-marx-kapital, baslik: "Marx — Kapital" }
+    - { id: kaynak-weber-protestan-ahlaki, baslik: "Weber — Protestan Ahlakı" }
+    - { id: kaynak-durkheim-intihar, baslik: "Durkheim — İntihar" }
+    - { id: kaynak-keynes-genel-teori, baslik: "Keynes — Genel Teori" }
