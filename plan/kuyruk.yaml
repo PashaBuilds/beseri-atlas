@@ -1205,7 +1205,7 @@ isler:
   - id: aktor-gupta-imparatorlugu
     tip: aktor
     baslik: Gupta İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-05
@@ -1214,7 +1214,7 @@ isler:
   - id: aktor-khmer-imparatorlugu
     tip: aktor
     baslik: Khmer İmparatorluğu
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-07

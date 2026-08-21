@@ -1,0 +1,61 @@
+{
+  "id": "aktor-gupta-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:35:01.931Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Chandragupta'nın taç giyme töreni 26 Şubat 320 olarak gün gün tarihlenir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı maddede bir günün ve iki yüzyılın yan yana durması, kayıt yoğunluğunun olay türüne göre değiştiğini gösterir: bir tören belgeye geçer, bir devletin oluşumu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak üç savaş dizisini aralıklarla tarihler: Gupta-Saka savaşları yaklaşık 375-385, Gupta-Kidarit çatışmaları yaklaşık 390-450 ve Gupta-Hun savaşları yaklaşık",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üç dizinin art arda gelmesi ve sonuncusunun dağılma tarihine yaklaşması, kuzeybatıdan gelen basıncın süreklilik taşıdığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak 400 yılı için zirve alanın yüksek uçlu tahmini olarak 3.500.000 kilometrekare verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Değerin \"yüksek uçlu tahmin\" olarak nitelenmesi, atlasın alan ölçümlerine yaklaşımını doğrular: alan bir ölçüm değil bir tahmin aralığının ucudur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı coğrafyanın önceki büyük düzeni, başkenti Pataliputra olan ve ilk hükümdarı Çandragupta'nın yaklaşık MÖ 321-298 arasında hüküm sürdüğü Maurya İmparatorluğu",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu MS 200 için yaklaşık 240,8 milyon, MS 600 için yaklaşık 271,6 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hanedanın siyasi tarihi, hükümdar sıralaması, sanat ve bilim üretimi ile çöküş nedenleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı böl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

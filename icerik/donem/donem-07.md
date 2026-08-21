@@ -25,6 +25,7 @@ ilgili:
   - olay-malazgirt
   - olay-hacli-seferleri
   - aktor-fatimi-hilafeti
+  - aktor-khmer-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

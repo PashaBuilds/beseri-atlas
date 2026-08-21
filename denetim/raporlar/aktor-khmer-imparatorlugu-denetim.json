@@ -1,0 +1,61 @@
+{
+  "id": "aktor-khmer-imparatorlugu",
+  "gecis": 2,
+  "zaman": "2026-08-21T07:35:01.982Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıldan sonra Angkor.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Listede bir din değişimi, bir askerî basınç, bir çevre olayı ve bir salgın yan yana durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir imparatorluğun referans maddesinde çevresel bozulmanın kendi alt başlığını taşıması, atlas için kayda değerdir: bu, çoğu erken dönem düzeninde bulunmayan bi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Jayavarman dönemi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir dönemin anıtlarla bölümlenmesi, siyasi tarihin arkeolojik kayıt üzerinden kurulduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın çöküş nedenleri arasında salgını sayması, aynı yüzyıllarda başka kıtalarda da kaydedilen bir olguyla örtüşür: 1346-1353 arasında Avrupa'yı vuran pandem",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaynağın çöküş nedenleri arasında salgını sayması, aynı yüzyıllarda başka kıtalarda da kaydedilen bir olguyla örtüşür: 1346-1353 arasında Avrupa'yı vuran pandem",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1000 yılı için yaklaşık 323,5 milyon, 1300 yılı için yaklaşık 456,2 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İmparatorluğun kuruluşu, hükümdar sıralaması, sulama düzeni ve Angkor'un mimari tarihi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölüm",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

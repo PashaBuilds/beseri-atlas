@@ -26,6 +26,7 @@ ilgili:
   - tartisma-romanin-cokus-nedeni
   - aktor-aksum-kralligi
   - aktor-maya-uygarligi
+  - aktor-gupta-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: avrupa

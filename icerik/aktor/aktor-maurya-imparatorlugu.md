@@ -17,6 +17,7 @@ ilgili:
   - donem-04
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - aktor-ahamenis-imparatorlugu
+  - aktor-gupta-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

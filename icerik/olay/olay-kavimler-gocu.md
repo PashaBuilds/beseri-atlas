@@ -18,6 +18,7 @@ ilgili:
   - aktor-bizans-imparatorlugu
   - tartisma-romanin-cokus-nedeni
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - aktor-gupta-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

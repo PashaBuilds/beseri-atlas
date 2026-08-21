@@ -19,6 +19,7 @@ ilgili:
   - olay-amerikanin-kesfi
   - olay-ronesans
   - olay-covid-19-pandemisi
+  - aktor-khmer-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

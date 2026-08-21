@@ -20,6 +20,7 @@ etiketler: [tunc-cagi-cokusu, deniz-kavimleri, iklim, sistem-kirilganligi]
 ilgili:
   - olay-tunc-cagi-cokusu
   - donem-03
+  - aktor-khmer-imparatorlugu
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:
