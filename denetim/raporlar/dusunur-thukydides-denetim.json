@@ -1,0 +1,79 @@
+{
+  "id": "dusunur-thukydides",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:35:38.254Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onu MÖ yaklaşık 460'ta Atina'nın Halimous demosunda doğmuş, MÖ yaklaşık 400'de ölmüş bir tarihçi ve general olarak kaydeder; babası Oloros, başlıca eseri",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak hayat bölümünü ikiye böler: klasik dönemden gelen kanıtlar ve sonraki kaynaklar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir biyografinin, bilginin nereden geldiğine göre bölümlenmesi, atlasın kaynak türü alanının antik bir örneğidir: aynı olguyu çağdaş bir kayıttan mı yoksa yüzyı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Meslek alanı tek bir sözcük değildir: tarihçi ve general.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaşı yazan kişinin aynı savaşta komutan olarak kaydedilmesi, tanıklık ile taraflığın aynı kişide birleşebileceğini gösterir; atlas bunu bir kusur olarak değil",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak ayrı bir bölümü selefiyle karşılaştırmaya ayırır ve ayrıca felsefi görünüm ile eleştirel yorum başlıkları açar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki tarihçinin karşılaştırılmasının bir ansiklopedi maddesinde kendi başlığını taşıması, aralarındaki yöntem farkının antik bir ayrıntı değil süregelen bir tart",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Selefinin kaydı, Thukydides'in onu eğlence olsun diye hikâye uydurmakla suçladığını yazar; aynı kayıt Herodotos'un buna gördüğünü ve kendisine anlatılanı bildir",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yüz yıl önceki bir başka ansiklopedi maddesi ise aynı kişiyi tarihin babası diye anılan Yunan tarihçi olarak tanıtır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yunan"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak hem doğum hem ölüm yılını yaklaşık işaretiyle verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki ucun da yaklaşık olması, bu dosyanın genel güven düzeyinin neden tartışmalı işaretlendiğinin gerekçesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Peloponez Savaşı'nın Tarihi'nin içeriği, konuşmaların statüsü, etkilendiği düşünce akımları ve sonraki alımlanması burada ayrı başlıklar altında ele alınmamıştı",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Savaşı, Tarihi"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "dusunur-aristoteles",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:37:20.354Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onu MÖ 384-322 arasına yerleştirir ve geride belki iki yüz kadar incelemeden oluşan büyük bir külliyat bıraktığını, bunlardan yaklaşık otuz birinin günüm",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki sayı yan yana durur: belki iki yüz inceleme, yaklaşık otuz bir kalan.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir düşünürün yazdıklarının çoğunun elimizde olmadığının açıkça yazılması, atlasın bir eser üzerinden kurulan bütün genellemelere neden temkinle yaklaştığını gö",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak günümüze ulaşan yazıların kapsadığı alanları sıralar: mantık, metafizik ve zihin felsefesi, etik, siyaset kuramı, estetik ve retorik ile ampirik biyoloji",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir düşünürün aynı külliyatta hem metafizik hem hayvan gözlemi yapması, disiplin ayrımlarının sonradan çekildiğini gösterir; bugünkü bölümlere göre okumak, kayd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, felsefi etkisi bakımından yalnızca Platon'un onun dengi olduğunu ve eserlerinin Geç Antik Çağ'dan Rönesans'a kadar yüzyıllarca felsefeyi biçimlendirdiği",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Hocasının kendi kaydı da onu, derinlik ve kapsam bakımından kendisine yaklaşan az sayıda yazardan biri olarak ve kendisiyle çalışmış olarak anar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki maddenin birbirini karşılıklı anması, atlasın çift yönlü bağ kuralının kaynaklarda da bir karşılığı olduğunu gösterir; hocası dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki maddenin birbirini karşılıklı anması, atlasın çift yönlü bağ kuralının kaynaklarda da bir karşılığı olduğunu gösterir; hocası dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bağımsız bir ansiklopedinin madde listesi, İbn Rüşd adını taşıyan iki ayrı kişi kaydeder: biri Mâlikî fakihi ve kadısı, diğeri Meşşâî okulunun son temsilcisi sa",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı külliyatın Geç Antik Çağ'dan Rönesans'a kadar yüzyıllarca felsefeyi biçimlendirdiği ayrıca kaydedilir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Geç, Antik, Çağ, Rönesans"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı adın hem iki ayrı kişiye hem bir Batı diline ayrı ayrı kaydedilmesi, düşünür dosyalarında adın kendisinin de bir kayıt sorunu olduğunu gösterir; aynı sorun",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mantık, doğa felsefesi, etik ve siyaset kuramının içeriği burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

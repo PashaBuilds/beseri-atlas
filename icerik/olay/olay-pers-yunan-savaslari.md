@@ -15,6 +15,8 @@ etiketler: [ahamenis, yunan-sehir-devletleri, herodotos, tarih-yazimi]
 ilgili:
   - donem-04
   - aktor-ahamenis-imparatorlugu
+  - dusunur-herodotos
+  - dusunur-thukydides
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -17,6 +17,7 @@ ilgili:
   - aktor-roma-imparatorlugu
   - olay-han-hanedani-kurulusu
   - olay-ipek-yolu-kurulusu
+  - dusunur-konfucyus
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

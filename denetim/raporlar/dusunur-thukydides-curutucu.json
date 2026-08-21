@@ -1,0 +1,14 @@
+{
+  "id": "dusunur-thukydides",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:37:28.456Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Meslek alanı tek bir sözcük değildir: tarihçi ve general.[^k1]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

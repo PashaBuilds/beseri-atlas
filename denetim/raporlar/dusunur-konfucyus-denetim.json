@@ -1,0 +1,85 @@
+{
+  "id": "dusunur-konfucyus",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:35:38.209Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak tarihleri geleneksel kaydıyla verir: MÖ 551-479.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Konfüçyüs adının Kong soyadı ile Usta anlamındaki fuzi onur ekinin Latinceleştirilmiş bir birleşimi olduğunu yazar; aynı adın geleneksel Doğu Asya toplu",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir düşünürün en yaygın adının kendi dilinde bulunmaması, atlasın terim kilidi kapısının neden var olduğunu gösterir: ad, taşıdığı dilin izini taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Çin tarihinin farklı dönemlerinde onun öğretmen, danışman, editör, filozof, reformcu ve peygamber olarak resmedildiğini yazar; erken kaynakların biyogra",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Altı ayrı sıfatın aynı kişi için ve farklı dönemlere ait olarak kaydedilmesi, atlasın hiçbir düşünür dosyasında tek bir tanım cümlesi kurmamasının gerekçesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, onun Doğu Asya'daki kurucu kavram ve kültürel pratiklerin çoğuyla ilişkilendirilmesinin ve Erken Modern Avrupa'da Doğu düşüncesinin atası olarak sunulma",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu cümlenin savunulabilir kaydıyla verilmesi, bir üstünlük iddiasının bile kaynakta koşullu yazıldığını gösterir; atlas o koşulu düşürmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yüzyıllardan sonra kurulan hanedanın kaydında dinler arasında Çin halk dini, Taoizm ve Budizm sayılır; hanedanın ömrü MÖ 202 - MS 220 olarak verilir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu listede Konfüçyüsçülüğün bir din başlığı altında sayılmamış olması, öğretinin hangi kategoriye konacağının kaynaklarda da sabit olmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Konfüçyüsçülüğün"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Avrasya'nın diğer ucunda benzer yüzyıllara ait bir başka düşünürün kaydı, doğum yılını soru işaretiyle verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki kaydın da tarih konusunda çekince taşıması, belirsizliğin tek bir geleneğe özgü olmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki kaydın da tarih konusunda çekince taşıması, belirsizliğin tek bir geleneğe özgü olmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Öğretinin içeriği, Lunyu'nun metin tarihi, sonraki yorum gelenekleri ve kurumsal Konfüçyüsçülük burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları a",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    }
+  ]
+}

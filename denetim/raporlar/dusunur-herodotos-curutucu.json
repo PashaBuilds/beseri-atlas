@@ -1,0 +1,14 @@
+{
+  "id": "dusunur-herodotos",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:37:28.454Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas iki addan birini seçmez. Bir ansiklopedi maddesinin yüz yıl içinde tek bir özel adda değişmiş olması,[^k1][^k3] kaynağın erişim tarihiyle birlikte kaydedilmesinin neden zorun",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

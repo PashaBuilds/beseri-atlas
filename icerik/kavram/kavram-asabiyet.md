@@ -9,6 +9,8 @@ guven_geneli: yaygin
 etiketler: [asabiyet, kabile, mesruiyet, ibn-haldun, umran]
 ilgili:
   - dusunur-ibn-haldun
+  - dusunur-aristoteles
+  - dusunur-thukydides
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,0 +1,91 @@
+{
+  "id": "dusunur-platon",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:35:38.237Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "- 347 arasına yerleştirir; doğum yılının yanındaki soru işareti kaynağın kendi işaretidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bölüm başlıkları arasında şunları sayar: Platon'un zihnini bilebilir miyiz, formlar konusunda fikrini değiştirir mi, siyaset konusunda fikrini değiştirir",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir filozof maddesinin beş ayrı bölümünün soru cümlesi olması, konunun kapalılığının bir eksiklik değil maddenin yapısı olarak kaydedildiğini gösterir; atlas bu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Sokrates'i baskın konuşmacı olarak ayrı bir başlıkta işler ve Platon'un dolaylılığına da ayrı bir başlık ayırır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir düşünürün görüşlerinin yalnızca başkalarının ağzından aktarılmış olması, filanca şunu savundu biçimindeki cümlelerin bu dosyada neden kurulmadığını açıklar:",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak birçok kişinin Platon'u yazılarında savunulan birkaç merkezî öğretiyle ilişkilendirdiğini yazar ve bu öğretilerden birini şöyle özetler: duyularımıza gör",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Uzamda ve zamanda yer almadıkları için soyut nesneler denen şeyler arasında iyilik, güzellik, eşitlik, büyüklük, benzerlik, birlik, varlık, aynılık, farklılık, ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın öğretiyi doğrudan değil birçok kişinin onunla ilişkilendirdiği biçiminde vermesi, atlasın tartışmalı alanlarda kullandığı kalıbın aynısıdır: iddia kime",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, derinlik ve kapsam bakımından ona yaklaşan az sayıda yazardan biri olarak kendisiyle çalışmış olan Aristoteles'i anar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Öğrencisinin kendi kaydı onu MÖ 384-322 arasına yerleştirir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yüzyılın bir başka Atinalı yazarı için ayrı bir kayıt tarihçi ve general mesleklerini birlikte verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki maddenin de aynı şehri ve yakın yüzyılları paylaşması ama biri felsefe diğeri tarih başlığı altında tutulması, disiplin ayrımının kaynakların kendi düzenlem",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki maddenin de aynı şehri ve yakın yüzyılları paylaşması ama biri felsefe diğeri tarih başlığı altında tutulması, disiplin ayrımının kaynakların kendi düzenlem",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Diyalogların sırası, form kuramının ayrıntıları, siyaset felsefesi ve etkisi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

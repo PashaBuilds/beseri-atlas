@@ -1594,3 +1594,587 @@ isler:
     bagimlilik: []
     atanan_parti: null
     deneme: 1
+  - id: dusunur-herodotos
+    tip: dusunur
+    baslik: Herodotos
+    durum: onaylandi
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-thukydides
+    tip: dusunur
+    baslik: Thukydides
+    durum: onaylandi
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-konfucyus
+    tip: dusunur
+    baslik: Konfüçyüs
+    durum: onaylandi
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-platon
+    tip: dusunur
+    baslik: Platon
+    durum: onaylandi
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-aristoteles
+    tip: dusunur
+    baslik: Aristoteles
+    durum: onaylandi
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-kautilya
+    tip: dusunur
+    baslik: Kautilya
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-sima-qian
+    tip: dusunur
+    baslik: Sima Qian
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-tacitus
+    tip: dusunur
+    baslik: Tacitus
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-augustinus
+    tip: dusunur
+    baslik: Augustinus
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-farabi
+    tip: dusunur
+    baslik: Fârâbî
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-gazali
+    tip: dusunur
+    baslik: Gazâlî
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-ibn-rusd
+    tip: dusunur
+    baslik: İbn Rüşd
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-machiavelli
+    tip: dusunur
+    baslik: Machiavelli
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-hobbes
+    tip: dusunur
+    baslik: Thomas Hobbes
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-locke
+    tip: dusunur
+    baslik: John Locke
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-montesquieu
+    tip: dusunur
+    baslik: Montesquieu
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-smith
+    tip: dusunur
+    baslik: Adam Smith
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-kant
+    tip: dusunur
+    baslik: Immanuel Kant
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-malthus
+    tip: dusunur
+    baslik: Thomas Malthus
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-hegel
+    tip: dusunur
+    baslik: G. W. F. Hegel
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-clausewitz
+    tip: dusunur
+    baslik: Carl von Clausewitz
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-tocqueville
+    tip: dusunur
+    baslik: Alexis de Tocqueville
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-marx
+    tip: dusunur
+    baslik: Karl Marx
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-mill
+    tip: dusunur
+    baslik: John Stuart Mill
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-durkheim
+    tip: dusunur
+    baslik: Émile Durkheim
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-weber
+    tip: dusunur
+    baslik: Max Weber
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-mahan
+    tip: dusunur
+    baslik: Alfred Thayer Mahan
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-mackinder
+    tip: dusunur
+    baslik: Halford Mackinder
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-keynes
+    tip: dusunur
+    baslik: John Maynard Keynes
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-braudel
+    tip: dusunur
+    baslik: Fernand Braudel
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-polanyi
+    tip: dusunur
+    baslik: Karl Polanyi
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-carr
+    tip: dusunur
+    baslik: E. H. Carr
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-arendt
+    tip: dusunur
+    baslik: Hannah Arendt
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-foucault
+    tip: dusunur
+    baslik: Michel Foucault
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: dusunur-wallerstein
+    tip: dusunur
+    baslik: Immanuel Wallerstein
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-guc-dengesi
+    tip: kavram
+    baslik: Güç dengesi
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-hegemonya
+    tip: kavram
+    baslik: Hegemonya
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-egemenlik
+    tip: kavram
+    baslik: Egemenlik
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-mesruiyet
+    tip: kavram
+    baslik: Meşruiyet
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-umran
+    tip: kavram
+    baslik: Umran
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-longue-duree
+    tip: kavram
+    baslik: Longue durée
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-eksen-cagi
+    tip: kavram
+    baslik: Eksen Çağı
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-goksel-yetki
+    tip: kavram
+    baslik: Göksel Yetki
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-feodalite
+    tip: kavram
+    baslik: Feodalite
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-timar
+    tip: kavram
+    baslik: Tımar
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-millet-sistemi
+    tip: kavram
+    baslik: Millet sistemi
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-merkantilizm
+    tip: kavram
+    baslik: Merkantilizm
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-kapitalizm
+    tip: kavram
+    baslik: Kapitalizm
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-ilkel-birikim
+    tip: kavram
+    baslik: İlkel birikim
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-dunya-sistemi
+    tip: kavram
+    baslik: Dünya sistemi
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-bagimlilik-kurami
+    tip: kavram
+    baslik: Bağımlılık kuramı
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-malthus-tuzagi
+    tip: kavram
+    baslik: Malthus tuzağı
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-buyuk-ayrisma
+    tip: kavram
+    baslik: Büyük Ayrışma
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-askeri-devrim
+    tip: kavram
+    baslik: Askerî devrim
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-barut-imparatorluklari
+    tip: kavram
+    baslik: Barut imparatorlukları
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-topyekun-savas
+    tip: kavram
+    baslik: Topyekûn savaş
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-caydiricilik
+    tip: kavram
+    baslik: Caydırıcılık
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-surtunme
+    tip: kavram
+    baslik: Sürtünme (Clausewitz)
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-milliyetcilik
+    tip: kavram
+    baslik: Milliyetçilik
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-ulus-devlet
+    tip: kavram
+    baslik: Ulus-devlet
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-emperyalizm
+    tip: kavram
+    baslik: Emperyalizm
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-somurgesizlesme
+    tip: kavram
+    baslik: Sömürgesizleşme
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-kuresellesme
+    tip: kavram
+    baslik: Küreselleşme
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-sekulerlesme
+    tip: kavram
+    baslik: Sekülerleşme
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-ideal-tip
+    tip: kavram
+    baslik: İdeal tip
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-kamusal-alan
+    tip: kavram
+    baslik: Kamusal alan
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-sivil-toplum
+    tip: kavram
+    baslik: Sivil toplum
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-tarihsel-materyalizm
+    tip: kavram
+    baslik: Tarihsel materyalizm
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-anakronizm
+    tip: kavram
+    baslik: Anakronizm
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-donemlendirme
+    tip: kavram
+    baslik: Dönemlendirme
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-kentlesme
+    tip: kavram
+    baslik: Kentleşme
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-yasam-beklentisi
+    tip: kavram
+    baslik: Yaşam beklentisi
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kavram-gini-katsayisi
+    tip: kavram
+    baslik: Gini katsayısı
+    durum: bekliyor
+    faz: 3
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0

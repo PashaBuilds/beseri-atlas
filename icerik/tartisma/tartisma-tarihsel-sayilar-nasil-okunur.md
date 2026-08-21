@@ -41,6 +41,9 @@ ilgili:
   - olay-irlanda-kitligi
   - olay-arap-bahari
   - olay-mansa-musa-haci
+  - dusunur-herodotos
+  - dusunur-konfucyus
+  - dusunur-platon
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

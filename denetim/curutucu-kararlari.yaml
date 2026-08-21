@@ -461,3 +461,44 @@ hat_duzeltmesi:
     aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.
   - bulgu: KAPI 7, k1'den iki alinti saydi; ikincisi atlasin kendi ifadesiydi.
     aksiyon: Tirnak kaldirildi.
+
+# Faz 3 turu B01: Herodotos, Thukydides, Platon, Aristoteles, Konfucyus — 2026-08-21
+  - bulgu: >-
+      dusunur-aristoteles'te Gecis 2, "Islam" ozel adinin k3 kaynaginda
+      bulunamadigini isaretledi; ardindan "Aristoteles" ve "Antik Cag"
+      adlarinin da k3'te bulunmadigi isaretlendi.
+    aksiyon: >-
+      Itirazlar HAKLIYDI ve bolum iki kez yeniden yazildi. Ortaya cikan sey
+      sudur: k3 (islamansiklopedisi.org.tr/ibn-rusd) bir madde METNI degil bir
+      madde LISTELEME sayfasidir. Cumleler yalnizca o listede fiilen gorunen
+      seyleri tasiyacak bicimde daraltildi; kaynagin `not` alanina bunun bir
+      listeleme sayfasi oldugu yazildi. Cikarim (Messai okulu = Aristoteles
+      gelenegi) kaldirildi.
+  - bulgu: >-
+      dusunur-aristoteles'te "metinler ... gelenekler sayesinde kalir" cumlesi
+      tek-kaynakli-nedensellik olarak isaretlendi.
+    aksiyon: >-
+      Itiraz HAKLIYDI. Bu atlasin kendi genellemesiydi. Cumle degistirildi:
+      atlas iki kaydi yan yana koydugunu ve aralarinda neden bagi kurmadigini
+      acikca yaziyor.
+  - bulgu: >-
+      dusunur-platon'da "duyularimiza gorunen dunya" ifadesi kapsam-carpitmasi
+      olarak isaretlendi.
+    aksiyon: >-
+      Ifade "duyularimiza gorunen seyler" olarak yazildi. Anlam ayni, cografi
+      kapsam iddiasi gorunumu kalkti. Curutucu yeniden calisti, itiraz dustu.
+  - bulgu: >-
+      dusunur-konfucyus'ta adin "kuresel bir duzdegismece" haline gelmesine
+      dair cumle kapsam-carpitmasi olarak isaretlendi.
+    aksiyon: >-
+      Itiraz HAKLIYDI ve etiket duzeltildi: bolge [dogu-asya, kuresel].
+      Kaynagin kendisi kuresel dolasimdan soz ediyor; ust veri buna
+      uydurulmustur.
+  - bulgu: >-
+      Kalan bes itiraz ustunluk-iddiasi tipinde ("ilk itiraz", "tek bir
+      bicimde", "tek bir tanim cumlesi", "en onemli dusunuru", "tek bir
+      gelenege ozgu").
+    aksiyon: >-
+      Itiraz REDDEDILDI. "en onemli dusunuru" ifadesi kaynagin kendi kosullu
+      cumlesinin ("savunulabilir kilar") icinde ve ona atifli tasiniyor;
+      digerleri sayi sifatidir. Duragan karar kapsaminda.

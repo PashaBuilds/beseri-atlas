@@ -1,0 +1,28 @@
+{
+  "id": "dusunur-konfucyus",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:38:05.644Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Altı ayrı sıfatın aynı kişi için ve farklı dönemlere ait olarak kaydedilmesi,[^k1] atlasın hiçbir düşünür dosyasında tek bir tanım cümlesi kurmamasının gerekçesidir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, onun Doğu Asya'daki kurucu kavram ve kültürel pratiklerin çoğuyla ilişkilendirilmesinin ve Erken Modern Avrupa'da Doğu düşüncesinin atası olarak sunulmasının, onu Doğu Asya",
+      "sorun": "\"en önemli\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki kaydın da tarih konusunda çekince taşıması,[^k1][^k3] belirsizliğin tek bir geleneğe özgü olmadığını gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

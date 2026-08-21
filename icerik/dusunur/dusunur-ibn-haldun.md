@@ -11,6 +11,7 @@ guven_geneli: yaygin
 etiketler: [asabiyet, umran, mukaddime, tarih-felsefesi, magrib]
 ilgili:
   - kavram-asabiyet
+  - dusunur-aristoteles
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
