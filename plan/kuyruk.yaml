@@ -2493,7 +2493,7 @@ isler:
   - id: veri-kisi-basi-gsyh-1-2022
     tip: veri
     baslik: Kişi başına GSYH, MS 1–2022
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2525,7 +2525,7 @@ isler:
   - id: veri-okuryazarlik-1475-2023
     tip: veri
     baslik: Okuryazarlık, 1475–2023
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2533,7 +2533,7 @@ isler:
   - id: veri-enerji-tuketimi-1800-2023
     tip: veri
     baslik: Enerji tüketimi, 1800–2023
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

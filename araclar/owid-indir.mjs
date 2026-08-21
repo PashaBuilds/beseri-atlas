@@ -18,12 +18,23 @@ if (!slug || !dosya || !basligi) {
 }
 const url = `https://ourworldindata.org/grapher/${slug}.csv?csvType=full&useColumnShortNames=true`;
 
-const metin = await new Promise((cz, rd) => {
-  https.get(url, { headers: { 'user-agent': 'beseri-atlas/1.0' } }, (r) => {
-    if (r.statusCode !== 200) return rd(new Error(`durum ${r.statusCode}`));
-    let d = ''; r.on('data', (c) => { d += c; }); r.on('end', () => cz(d));
-  }).on('error', rd);
-});
+// 301/302 yonlendirmeleri izlenir: OWID bazi grapher slug'larini yeni adlara
+// tasiyor ve eski slug 301 donuyor. Yonlendirme izlenmezse arac hata veriyordu.
+function cek(u, kalan = 5) {
+  return new Promise((cz, rd) => {
+    https.get(u, { headers: { 'user-agent': 'beseri-atlas/1.0' } }, (r) => {
+      if ([301, 302, 307, 308].includes(r.statusCode) && r.headers.location && kalan > 0) {
+        const hedef = new URL(r.headers.location, u).toString();
+        console.error(`yonlendirme: ${r.statusCode} -> ${hedef}`);
+        r.resume();
+        return cz(cek(hedef, kalan - 1));
+      }
+      if (r.statusCode !== 200) return rd(new Error(`durum ${r.statusCode} (${u})`));
+      let d = ''; r.on('data', (c) => { d += c; }); r.on('end', () => cz(d));
+    }).on('error', rd);
+  });
+}
+const metin = await cek(url);
 
 const satirlar = metin.split('\n');
 const dunya = satirlar.filter((l) => l.startsWith('World,OWID_WRL,'));

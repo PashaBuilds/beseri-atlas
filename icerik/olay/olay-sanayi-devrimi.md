@@ -20,6 +20,7 @@ ilgili:
   - kavram-buyuk-ayrisma
   - kavram-kentlesme
   - kaynak-pomeranz-buyuk-ayrisma
+  - veri-enerji-tuketimi-1800-2023
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

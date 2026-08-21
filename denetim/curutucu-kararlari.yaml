@@ -999,3 +999,27 @@ hat_duzeltmesi:
       pozisyonun dayandigi kaydin nerede oldugu yaziliyor. Ucuncu pozisyon
       acikca "Atlasin kendi kaydi" olarak isaretlendi — atlas kendi cerceve
       onerisini bir tarihci gorusu gibi sunmuyor.
+
+# Faz 4 turu B11: kisi basi GSYH, okuryazarlik, enerji tuketimi (veri) — 2026-08-21
+  - bulgu: >-
+      araclar/owid-indir.mjs iki slug'da 301 aldi ve hata verdi
+      (gdp-per-capita-maddison, primary-energy-cons). OWID bu grapher
+      slug'larini yeni adlara tasimis.
+    aksiyon: >-
+      Arac yonlendirme izleyecek bicimde guncellendi (301/302/307/308, en fazla
+      5 adim) ve izledigi yonlendirmeyi stderr'e yaziyor. Ilgili makalelerin
+      kaynak URL'leri, yonlendirmenin VARDIGI adres olarak yazildi — boylece
+      Gecis 2 dogrudan dogru adresi cekiyor.
+  - bulgu: >-
+      veri-okuryazarlik-1475-2023'te bir cumle tek-kaynakli-nedensellik olarak
+      ORTA ciddiyette isaretlendi.
+    aksiyon: >-
+      Itiraz HAKLIYDI. Cumle guvenli kaliba cevrildi ve k3 atfi ayri bir
+      olgusal cumleye tasindi. itiraz-ozet.mjs onay zincirini durdurdu; ikinci
+      kez ise yaradi.
+  - bulgu: >-
+      veri-kisi-basi-gsyh-1-2022 ve veri-okuryazarlik-1475-2023 kimlikleri,
+      veri kumesinin gercek araligindan daha genis araliklari adlandiriyor.
+    aksiyon: >-
+      Kimlikler plandaki adiyla birakildi, basliklar gercek araligi tasiyor ve
+      govdeler farki acikca kaydediyor — veri-kentlesme-orani ile ayni cozum.

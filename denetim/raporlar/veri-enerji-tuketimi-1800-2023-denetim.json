@@ -1,0 +1,91 @@
+{
+  "id": "veri-enerji-tuketimi-1800-2023",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:02:06.374Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Seri 1800'de 97 TWh ile başlar ve 2025'te 166.753,6 TWh ile biter; toplam 78 gözlem vardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Serinin ilk ve son değeri arasındaki oran, atlasın diğer veri dosyalarında kaydedilen artışların hiçbirine benzemez: nüfus yaklaşık sekiz, okuryazarlık yaklaşık",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Serinin ilk ve son değeri arasındaki oran, atlasın diğer veri dosyalarında kaydedilen artışların hiçbirine benzemez: nüfus yaklaşık sekiz, okuryazarlık yaklaşık",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu farkı bir açıklamayla değil bir uyarıyla kaydeder: dört serinin aynı grafikte gösterilmesi, ölçek farkı nedeniyle üçünü görünmez kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu farkı bir açıklamayla değil bir uyarıyla kaydeder: dört serinin aynı grafikte gösterilmesi, ölçek farkı nedeniyle üçünü görünmez kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli nüfus serisinde dünya nüfusu 1800 için yaklaşık 990,4 milyon, 2020 için yaklaşık 7,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki seriyi bölerek kişi başına enerji tüketimi üretmez; iki kümenin gözlem yılları aynı değildir ve böyle bir hesap kullanılan kaynak bölümlerinde verilme",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas iki seriyi bölerek kişi başına enerji tüketimi üretmez; iki kümenin gözlem yılları aynı değildir ve böyle bir hesap kullanılan kaynak bölümlerinde verilme",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Serinin ölçtüğü şey birincil enerjidir; bu, dönüşüm kayıpları düşülmeden önceki toplam enerji girdisidir ve son kullanıcıya ulaşan enerjiden farklıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu ayrımı kaydeder çünkü iki ölçü aynı yıl için farklı sayılar verir; bu dosyadan okunan değerler hangi ölçünün kullanıldığı belirtilmeden aktarılmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Serinin başlangıç yıllarına denk gelen dönüşüm için tutulan kayıt, o dönüşümü ayrı bir madde olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki kayıt arasında bir neden bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas iki kayıt arasında bir neden bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Enerji kaynaklarına göre dağılım, ülke ülke tüketim ve dönüşüm verimliliği burada ayrı başlıklar altında ele alınmamıştır; bu dosya yalnızca dünya toplamı seris",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

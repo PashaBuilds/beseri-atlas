@@ -16,6 +16,7 @@ ilgili:
   - kavram-arkeolojik-kanit
   - kavram-sozlu-tarih
   - kaynak-thukydides-peloponnesos
+  - veri-okuryazarlik-1475-2023
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

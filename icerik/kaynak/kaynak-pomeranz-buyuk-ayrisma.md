@@ -14,6 +14,7 @@ ilgili:
   - kavram-buyuk-ayrisma
   - tartisma-bati-neden-yukseldi
   - olay-sanayi-devrimi
+  - veri-kisi-basi-gsyh-1-2022
 okuma_onerisi: []
 yazar: "Kenneth Pomeranz"
 eser_adi: "The Great Divergence: China, Europe, and the Making of the Modern World Economy"

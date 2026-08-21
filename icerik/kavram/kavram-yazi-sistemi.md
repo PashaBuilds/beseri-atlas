@@ -13,6 +13,7 @@ ilgili:
   - olay-yazinin-icadi
   - kavram-anakronizm
   - aktor-sumer-sehir-devletleri
+  - veri-okuryazarlik-1475-2023
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

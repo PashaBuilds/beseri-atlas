@@ -1,0 +1,14 @@
+{
+  "id": "veri-enerji-tuketimi-1800-2023",
+  "gecis": 3,
+  "zaman": "2026-08-21T11:02:07.357Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Serinin ilk ve son değeri arasındaki oran, atlasın diğer veri dosyalarında kaydedilen artışların hiçbirine benzemez: nüfus yaklaşık sekiz, okuryazarlık yaklaşık yedi kat artarken b",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

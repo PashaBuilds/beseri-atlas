@@ -14,6 +14,8 @@ ilgili:
   - kavram-kapitalizm
   - tartisma-tarihsel-sayilar-nasil-okunur
   - kaynak-pomeranz-buyuk-ayrisma
+  - veri-enerji-tuketimi-1800-2023
+  - veri-kisi-basi-gsyh-1-2022
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

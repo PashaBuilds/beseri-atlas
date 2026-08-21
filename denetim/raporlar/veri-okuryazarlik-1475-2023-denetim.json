@@ -1,0 +1,73 @@
+{
+  "id": "veri-okuryazarlik-1475-2023",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:02:49.676Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Seri 1820'de yüzde 12,046689 ile başlar ve 2024'te yüzde 87,74 ile biter; toplam 61 gözlem vardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosyanın kimliği 1475'ten başlayan bir aralığı adlandırır, ancak veri kümesinde 1820'den önce dünya toplamı için gözlem yoktur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Veri kümesinin kapsamadığı yıllar için bu dosyadan bir değer okunamaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Okuryazarlık, ölçüm biriminin tanımına bağlıdır: bir kişinin okuryazar sayılması için hangi yeterliğin arandığı, kullanılan tanım değiştiğinde sonucu da değişti",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ölçünün konusu için ayrı bir kayıt tutulur; o kayıt yazı sistemlerini iki ayrı ölçüte göre sınıflandırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Serinin ilk ve son değeri arasındaki oran yaklaşık yedi kattır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu artışı bir nedene bağlamaz: veri kümesi oranı verir, nedenlerini vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli nüfus serisinde dünya nüfusu 1820 için yaklaşık 1,04 milyar, 2020 için yaklaşık 7,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki seriyi çarparak okuryazar kişi sayısı üretmez; iki kümenin gözlem yılları ve tahmin yöntemi aynı değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas iki seriyi çarparak okuryazar kişi sayısı üretmez; iki kümenin gözlem yılları ve tahmin yöntemi aynı değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke ülke oranlar, cinsiyete göre dağılım ve tanım farkları burada ayrı başlıklar altında ele alınmamıştır; bu dosya yalnızca dünya toplamı serisini kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
