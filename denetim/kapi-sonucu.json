@@ -1,8 +1,8 @@
 {
   "mod": "--pre",
-  "zaman": "2026-08-21T12:20:00.997Z",
+  "zaman": "2026-08-21T12:23:17.759Z",
   "gecti": true,
-  "makale_sayisi": 343,
+  "makale_sayisi": 344,
   "kapilar": [
     {
       "kapi": "KAPI 1 — Zod sema dogrulamasi",
@@ -29,7 +29,7 @@
       "kapi": "KAPI 5 — link butunlugu",
       "gecti": true,
       "hata": 0,
-      "uyari": 0,
+      "uyari": 5,
       "hatalar": []
     },
     {

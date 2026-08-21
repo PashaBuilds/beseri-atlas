@@ -1,0 +1,63 @@
+{
+  "id": "tartisma-yazinin-icadi-nerede",
+  "gecis": 3,
+  "zaman": "2026-08-21T12:23:28.674Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu haritanın çıkış noktası, kaynağın kendi cümlesindeki bir zaman kaydıdır: tek köken varsayımı bir bulgu olarak değil, bir dönemin kabulü olarak sunulur.[^k1]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, 20. yüzyıl öncesinde yazının kökenine dair bilimsel kuramların çoğunun bir tür tek köken varsayımına dayandığını; yazının yalnızca bir kez, eski Sümer'de çivi yazısı olarak",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu sekizlinin üç ayrı kıtadan gelmesi,[^k1] tek köken varsayımının yanıtlaması gereken asıl güçlüğü gösterir: yayılma yolunun her biri için ayrı ayrı gösterilmesi gerekir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Kaynak, yazı sistemlerinin genellikle üç ölçütü karşıladığını belirtir: yazının bir amacı ya da anlamı olması, belirli simgeler kullanılması ve bu simgelerin konuşulan dilin öğeler",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tek köken kuramının merkeze koyduğu sistem için tutulan kayıt, tarihini aşamalara böler: Sümer piktografları yaklaşık MÖ 3300, arkaik çivi yazısı yaklaşık MÖ 2900, Erken Hanedan çi",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tek bir sistemin bile sekiz yüzyıla yayılan aşamalarla anlatılması,[^k2] \"icat\" sözcüğünün bir ana değil bir sürece işaret ettiğini gösterir; kaynak ayrıca bu yazının çözülmesine a",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir teknolojinin ilk işinin muhasebe olması,[^k1] atlasın yazıyı kültürel değil ekonomik eksende de etiketlemesinin dayanağıdır.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yazının icadı ile yaygınlığının ölçülebildiği ilk tarih arasındaki bu boşluk,[^k3] icat tartışmasının neden sayıyla değil kanıt yorumuyla yürüdüğünü gösterir; seri [Okuryazarlık, 1",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

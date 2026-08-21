@@ -1,0 +1,103 @@
+{
+  "id": "tartisma-yazinin-icadi-nerede",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:23:18.533Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu haritanın çıkış noktası, kaynağın kendi cümlesindeki bir zaman kaydıdır: tek köken varsayımı bir bulgu olarak değil, bir dönemin kabulü olarak sunulur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl öncesinde yazının kökenine dair bilimsel kuramların çoğunun bir tür tek köken varsayımına dayandığını; yazının yalnızca bir kez, eski Sümer'de çivi yazıs",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sümer"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, öne çıkan sekiz yazıyı bir arada sunar: Sümer çivi yazısı, Mısır hiyeroglifleri, Çin karakterleri, Maya yazısı, Devanagari, Latin alfabesi, Arap alfabes",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu sekizlinin üç ayrı kıtadan gelmesi, tek köken varsayımının yanıtlaması gereken asıl güçlüğü gösterir: yayılma yolunun her biri için ayrı ayrı gösterilmesi ge",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazının her tarihsel icadının ideografik ve anımsatıcı simgeler kullanan ön-yazı sistemlerinden doğduğunu yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tekil bir kökenden söz eden cümle ile çoğul icattan söz eden cümlenin aynı kaynakta bulunması, atlasın şu kuralının dayanağıdır: bir kaynağın tarih bölümü ile t",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazı sistemlerinin genellikle üç ölçütü karşıladığını belirtir: yazının bir amacı ya da anlamı olması, belirli simgeler kullanılması ve bu simgelerin ko",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ön-yazının dillerdeki dilbilgisini ve söz varlığını tam yansıtamadığı, bu yüzden çoğu kez yalnızca geniş ya da belirsiz bilgi kodlayabildiği kaydedilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eşiğin bu şekilde tanımlanması, \"yazı ne zaman icat edildi\" sorusuna verilecek tarihin eşiğe göre değişeceğini gösterir; kavram dosyasında, olayın kendisi ise d",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "yüzyıl.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tek bir sistemin bile sekiz yüzyıla yayılan aşamalarla anlatılması, \"icat\" sözcüğünün bir ana değil bir sürece işaret ettiğini gösterir; kaynak ayrıca bu yazını",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tek bir sistemin bile sekiz yüzyıla yayılan aşamalarla anlatılması, \"icat\" sözcüğünün bir ana değil bir sürece işaret ettiğini gösterir; kaynak ayrıca bu yazını",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazının erken kullanımları arasında tarımsal işlemlerin ve sözleşmelerin kaydedilmesini sayar; ardından maliye, din, yönetim ve hukuk alanlarında kullan",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir teknolojinin ilk işinin muhasebe olması, atlasın yazıyı kültürel değil ekonomik eksende de etiketlemesinin dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Okuryazarlık serisinde ölçüm çok geç başlar: dünya değeri 1820'de yaklaşık yüzde 12,05, 2022'de yaklaşık yüzde 87,42'dir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yazının icadı ile yaygınlığının ölçülebildiği ilk tarih arasındaki bu boşluk, icat tartışmasının neden sayıyla değil kanıt yorumuyla yürüdüğünü gösterir; seri d",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}
