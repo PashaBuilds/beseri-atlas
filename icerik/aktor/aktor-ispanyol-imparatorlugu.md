@@ -22,6 +22,7 @@ ilgili:
   - aktor-inka-imparatorlugu
   - olay-atlantik-kole-ticareti
   - olay-meksika-fethi
+  - olay-latin-amerika-bagimsizligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

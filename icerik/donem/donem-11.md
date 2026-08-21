@@ -24,6 +24,7 @@ ilgili:
   - olay-viyana-kongresi
   - olay-napolyon-savaslari
   - olay-sanayi-devrimi
+  - olay-latin-amerika-bagimsizligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

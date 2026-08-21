@@ -14,6 +14,7 @@ guven_geneli: yaygin
 etiketler: [berlin-konferansi, afrika-paylasimi, emperyalizm, kongo]
 ilgili:
   - donem-12
+  - olay-afrika-bagimsizlik-dalgasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

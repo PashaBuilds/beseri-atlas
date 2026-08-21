@@ -16,6 +16,7 @@ ilgili:
   - donem-11
   - olay-fransiz-devrimi
   - olay-viyana-kongresi
+  - olay-latin-amerika-bagimsizligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

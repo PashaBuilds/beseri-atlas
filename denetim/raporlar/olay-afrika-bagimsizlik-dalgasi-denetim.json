@@ -1,0 +1,97 @@
+{
+  "id": "olay-afrika-bagimsizlik-dalgasi",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:14:44.770Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bir bağımsızlık çizelgesi tutar: 1 Ocak 1956, 2 ve 20 Mart 1956, 6 Mart 1957, 2 Ekim 1958 ve 1960 yılı boyunca sıralanan tarihler.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fas satırında altı ayrı tarih sıralanır: 2 Mart 1956, 7 Nisan 1956, 10 Nisan 1958, 4 Ocak 1969, 14 Kasım 1975 ve 27 Şubat 1976; aynı satırda Fransız ve İspanyol",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir ülkenin bağımsızlığının yirmi yıla yayılmış altı tarihle kaydedilmesi, \"bağımsızlık yılı\" alanının bütün ülkeler için doldurulabilir olmadığını gösterir; bu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kamerun için 4 Mart 1916, 1 Ocak 1960 ve 1 Ekim 1961 tarihleri verilir; önceki yönetimler arasında Alman İmparatorluğu, Fransa ve Birleşik Krallık sayılır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı toprağın üç ayrı sömürge gücü altında kaydedilmesi, bağımsızlığın tek bir imparatorluktan ayrılma olarak anlatılamayacağını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı çizelgede 1960 yılına düşen tarihler ardışıktır: 1 Ocak Kamerun, 27 Nisan Togo, 20 Haziran Mali Federasyonu, 26 Haziran Malgaş Cumhuriyeti ve Somaliland De",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak kurucu adları da kaydeder: Sylvanus Olympio, Modibo Keïta, Philibert Tsiranana, Joseph Kasa-Vubu ve daha önce Kwame Nkrumah ile Ahmed Sékou Touré.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Altı ayın içine sıkışan bu tarihler, dalganın neden tek tek ülkelerin kararları olarak değil bir dizi olarak kaydedildiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak 1960 tarihli Birleşmiş Milletler Sömürge Ülkelere ve Halklara Bağımsızlık Verilmesine Dair Bildirisi'ni anar ve bildirinin sömürge sömürüsünü bir insan h",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir siyasi dalganın yanında belge tarihlerinin de tutulması, bağımsızlığın hem bir olay hem bir hukuki metin olarak kaydedildiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak İtalya'nın İkinci Dünya Savaşı sonucunda Afrika'daki imparatorluğunu kaybettiğini yazar ve İtalyan Doğu Afrikası, İtalyan Etiyopyası, İtalyan Eritresi, İ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu iki kaydın yan yana durması, dalganın yalnızca yerel bir hareket olarak değil imparatorluk kapasitesindeki bir değişimle birlikte anlatıldığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bölgenin sömürge sınırlarını düzenleyen önceki konferans için kaynak Berlin Konferansı'nı verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1960 için yaklaşık 3,03 milyar, 1976 için yaklaşık 4,15 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke ülke bağımsızlık süreçleri, savaşlar, sonraki iç çatışmalar ve iktisadi sonuçlar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölüml",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

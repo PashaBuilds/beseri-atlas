@@ -1124,7 +1124,7 @@ isler:
   - id: olay-afrika-bagimsizlik-dalgasi
     tip: olay
     baslik: Afrika bağımsızlık dalgası
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-14
@@ -1178,7 +1178,7 @@ isler:
   - id: olay-latin-amerika-bagimsizligi
     tip: olay
     baslik: Latin Amerika bağımsızlık savaşları
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-11

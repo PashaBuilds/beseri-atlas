@@ -16,6 +16,7 @@ ilgili:
   - donem-14
   - olay-bandung-konferansi
   - aktor-nato
+  - olay-afrika-bagimsizlik-dalgasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

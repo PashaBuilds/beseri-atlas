@@ -40,6 +40,7 @@ ilgili:
   - olay-uzay-yarisi
   - olay-yesil-devrim
   - olay-cernobil
+  - olay-afrika-bagimsizlik-dalgasi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

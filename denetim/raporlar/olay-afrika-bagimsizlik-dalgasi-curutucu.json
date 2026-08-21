@@ -1,0 +1,28 @@
+{
+  "id": "olay-afrika-bagimsizlik-dalgasi",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:15:22.025Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı toprağın üç ayrı sömürge gücü altında kaydedilmesi,[^k1] bağımsızlığın tek bir imparatorluktan ayrılma olarak anlatılamayacağını gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Altı ayın içine sıkışan bu tarihler,[^k1] dalganın neden tek tek ülkelerin kararları olarak değil bir dizi olarak kaydedildiğini gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Kaynak İtalya'nın İkinci Dünya Savaşı sonucunda Afrika'daki imparatorluğunu kaybettiğini yazar ve İtalyan Doğu Afrikası, İtalyan Etiyopyası, İtalyan Eritresi, İtalyan Somalisi ile ",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}
