@@ -17,6 +17,7 @@ ilgili:
   - donem-09
   - olay-kara-olum
   - aktor-ispanyol-imparatorlugu
+  - tartisma-kesif-mi-istila-mi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

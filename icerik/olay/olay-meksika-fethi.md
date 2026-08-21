@@ -16,6 +16,7 @@ ilgili:
   - donem-09
   - aktor-aztek-imparatorlugu
   - aktor-ispanyol-imparatorlugu
+  - tartisma-kesif-mi-istila-mi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

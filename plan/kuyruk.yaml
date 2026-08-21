@@ -2709,7 +2709,7 @@ isler:
   - id: tartisma-kesif-mi-istila-mi
     tip: tartisma
     baslik: Keşif mi, istila mı?
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

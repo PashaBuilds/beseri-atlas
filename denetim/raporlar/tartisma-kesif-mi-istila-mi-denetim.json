@@ -1,0 +1,55 @@
+{
+  "id": "tartisma-kesif-mi-istila-mi",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:58:49.583Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu haritanın çıkış noktası kaynağın sonuç satırıdır: İspanyol-Yerli müttefik zaferi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak sonucu İspanyol-Yerli müttefik zaferi olarak kaydeder ve toprak sonucunu şöyle yazar: Aztek İmparatorluğu'nun, Purépecha İmparatorluğu'nun ve diğerlerini",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynakta Purépecha İmparatorluğu müttefikler arasında 1522 tarihiyle, hasımlar arasında 1522-1529 ve 1533 sonrası tarihleriyle yer alır; Chalco ve Xochimilco da",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir siyasi birimin aynı çatışmanın iki tarafında da kaydedilmesi, üçüncü pozisyonun dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak tarihi iki aralık olarak yazar: Şubat 1519 - 13 Ağustos 1521 arası Aztek İmparatorluğu'na karşı, 1529 sonrası - 17 Şubat 1530 arası Purépecha İmparatorlu",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir olayın iki ayrı hasımla iki ayrı aralıkta kaydedilmesi, tek bir ad altında toplanan şeyin aslında bir dizi olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Geriye dönük adlandırmaya dair bir başka kayıt, siyasi güdümlü anakronizm ile bilinçsiz anakronizmi ayrı başlıklar olarak tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Adlandırmanın tarihselliği üzerine yazan bir yazar için tutulan kayıt, onu hem tarihçi hem filozof olarak kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

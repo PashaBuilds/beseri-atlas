@@ -1,0 +1,14 @@
+{
+  "id": "tartisma-kesif-mi-istila-mi",
+  "gecis": 3,
+  "zaman": "2026-08-21T11:59:14.483Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir olayın iki ayrı hasımla iki ayrı aralıkta kaydedilmesi,[^k1] tek bir ad altında toplanan şeyin aslında bir dizi olduğunu gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

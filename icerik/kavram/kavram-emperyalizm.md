@@ -14,6 +14,7 @@ ilgili:
   - olay-berlin-konferansi
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - kavram-somurgesizlesme
+  - tartisma-kesif-mi-istila-mi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

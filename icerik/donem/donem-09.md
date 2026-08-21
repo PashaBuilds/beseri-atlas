@@ -29,6 +29,7 @@ ilgili:
   - aktor-songhay-imparatorlugu
   - olay-meksika-fethi
   - tartisma-osmanli-gerileme-tezi
+  - tartisma-kesif-mi-istila-mi
 okuma_onerisi: []
 serit:
   - bolge: avrupa
