@@ -1,0 +1,61 @@
+{
+  "id": "tartisma-romanin-cokus-nedeni",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:59:31.591Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "1984'te Alexander Demandt, Roma'nın neden çöktüğüne dair 210 farklı kuram saydı ve o tarihten sonra yeni kuramlar ortaya çıktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Batı Roma İmparatorluğu'nun çöküşünün nedenleri ve mekanizmaları, tarihçi Edward Gibbon'ın 1776 tarihli kitabıyla gündeme getirilmiş bir tarihsel temadır; Gibbo",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gibbon'ın kendisi hem iç çöküş fikirlerini — iç savaşlar, siyasi, iktisadi, askerî ve diğer toplumsal kurumların çözülmesi — hem de imparatorluk dışından gelen ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tarihçilerin vardığı sonuçların genellikle iki geniş okuldan birine ait olduğunu belirtir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönüşümü sebep olarak savunanlar, imparatorluğun \"çöküşü\" nosyonunun bütününe meydan okur ve belirli bir siyasi düzenin kullanımdan kalkması ile toplumsal sürek",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bury'nin savunduğu okumada çöküş, birçoğu dönemin halklar göçüyle harekete geçirilmiş bir dizi olumsuz sürecin birleşik etkisine bağlanır; bu süreçler birlikte ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Göçün ölçüsü de kayıtlıdır: Roma topraklarına yönelen toplam göç kabaca 500.000 ile 1.000.000'un üzerinde bir aralıkta tahmin edilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "yüzyıldaki çöküşünden sonra varlığını sürdürdü ve Konstantinopolis'in 1453'te Osmanlı İmparatorluğu'na düşmesine kadar devam etti.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Doğu kanadının sonunu getiren düzenin kendisi ayrı bir kurumsal tarihe sahiptir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

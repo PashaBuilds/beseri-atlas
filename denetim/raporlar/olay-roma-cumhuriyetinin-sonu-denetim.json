@@ -1,0 +1,61 @@
+{
+  "id": "olay-roma-cumhuriyetinin-sonu",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:59:31.536Z",
+  "sonuclar": [
+    {
+      "anahtar": "k2",
+      "iddia": "Roma Cumhuriyeti MÖ 509 ile MÖ 27 arasına yerleştirilir ve kaynağın kendi bölümlemesinde son evre Marius'un yükselişi, ilk iç savaşlar, Sulla cumhuriyeti, Birin",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Roma Cumhuriyeti MÖ 509 ile MÖ 27 arasına yerleştirilir ve kaynağın kendi bölümlemesinde son evre Marius'un yükselişi, ilk iç savaşlar, Sulla cumhuriyeti, Birin",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cumhuriyetin anayasal düzeni bu sırada yerinde durur: senato, yasama meclisleri ve magistralıklar kaynağın kendi başlıkları altında sayılmaya devam eder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "MÖ 123'ten itibaren frumentatio adıyla bilinen, öğütülmemiş buğday tayını — 33 kilograma varan miktarlarda — Roma devleti tarafından her ay 200.000 kadar kişiye",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Pön Savaşları MÖ 264–146 arasında sürmüş, kara ve denizde toplam kırk üç yıllık çarpışma yaşanmış ve Numidia dışındaki bütün Kartaca toprakları Roma tarafından ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Topraklar Octavianus'un iktidara yükselişi ve MÖ 27'de Augustus Principatus'unun kurulmasının ardından kalıcı tek kişi yönetimi altına girdi; imparatorun üstünl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Topraklar Octavianus'un iktidara yükselişi ve MÖ 27'de Augustus Principatus'unun kurulmasının ardından kalıcı tek kişi yönetimi altına girdi; imparatorun üstünl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Çağdaş dünya nüfusu, uzun dönemli seride MÖ 1000 için yaklaşık 110,5 milyon, MS 200 için yaklaşık 240,8 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Her ay 200.000 kadar kişiye dağıtılan tayın, bu ölçekteki bir dünyada tek bir şehirde toplanmış bir kitleyi besliyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

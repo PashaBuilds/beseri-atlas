@@ -18,6 +18,11 @@ ilgili:
   - aktor-sasani-imparatorlugu
   - aktor-buyuk-selcuklu
   - tartisma-imparatorluk-siniri-nasil-cizilir
+  - olay-islam-fetihleri
+  - olay-justinyen-vebasi
+  - olay-kavimler-gocu
+  - olay-malazgirt
+  - tartisma-romanin-cokus-nedeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

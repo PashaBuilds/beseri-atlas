@@ -1,0 +1,28 @@
+{
+  "id": "olay-roma-cumhuriyetinin-sonu",
+  "gecis": 3,
+  "zaman": "2026-08-21T04:59:41.704Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir cumhuriyetin sonu, kurumlarının kaldırıldığı gün değildir. Roma Cumhuriyeti MÖ 509 ile MÖ 27 arasına yerleştirilir[^k2] ve kaynağın kendi bölümlemesinde son evre Marius'un yüks",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Son, bir yıkım değil bir devralmadır. Topraklar Octavianus'un iktidara yükselişi ve MÖ 27'de Augustus Principatus'unun kurulmasının ardından kalıcı tek kişi yönetimi altına girdi;[",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Çağdaş dünya nüfusu, uzun dönemli seride MÖ 1000 için yaklaşık 110,5 milyon, MS 200 için yaklaşık 240,8 milyon olarak verilir.[^k4] Her ay 200.000 kadar kişiye dağıtılan tayın,[^k1",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

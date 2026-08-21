@@ -1,0 +1,61 @@
+{
+  "id": "olay-iskender-seferleri",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:59:31.184Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Balkan seferi MÖ 335'te Haemus Dağı, Pelion ve Thebai muharebeleriyle başlar; Pers seferi MÖ 334'te Granikos, Miletos ve Halikarnassos, MÖ 333'te İssos, MÖ 332'",
+      "durum": "OK",
+      "not": "9 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Doğuya doğru ilerleyiş MÖ 329'da Kyropolis ve Yaksartes, MÖ 328'de Gabai, MÖ 327'de Sogd Kayası ve Kophen, MÖ 326'da Aornos, Hydaspes ve Malli seferiyle tamamla",
+      "durum": "OK",
+      "not": "7 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu duraklar rastgele değildir: Ahameniş İmparatorluğu'nun Mısır'dan (MÖ 525) İndus Vadisi'ne (MÖ 535–518) uzanan fetih hattıyla büyük ölçüde örtüşür.",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Darius MÖ 336–330 arasında hüküm sürmüştür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İmparatorluk Makedonya'ya yenilerek sona erer.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Makedonya"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Seferlerin insan bedeli için kaynak \"bir milyondan fazla\" kayıp verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Maurya İmparatorluğu'nun ilk hükümdarı Çandragupta yaklaşık MÖ 321–298 arasında hüküm sürdü ve Hint-Yunan Krallığı'nın kuruluşu MÖ 180'de anılır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Çağdaş dünya nüfusu, uzun dönemli seride MÖ 1000 için yaklaşık 110,5 milyon, MS 200 için yaklaşık 240,8 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Seferler için verilen \"bir milyondan fazla\" kayıp rakamı bu iki ölçüm arasındaki bir dünyaya aittir; iki seri farklı olduğu için burada oran kurulmamıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "olay-pon-savaslari",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:59:31.458Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Pön Savaşları, Roma Cumhuriyeti ile Kartaca İmparatorluğu arasında MÖ 264–146 arasında yürütülen savaşlardır; üç savaş yaşanmış, kara ve denizde toplam kırk üç ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki sayı arasındaki fark asıl bilgidir: dizi yüz on sekiz yıla yayılır ama fiilî çarpışma kırk üç yıl sürer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İlk savaş MÖ 264'te Akdeniz'deki Sicilya adasında, Roma'nın yayılmacı politikasının Kartaca'nın adaya ilişkin mülkiyetçi yaklaşımıyla çatışması sonucu patlak ve",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaşlar Roma zaferiyle sonuçlandı ve Numidia dışındaki bütün Kartaca topraklarının Roma tarafından fethiyle sonuçlanan bir toprak değişimi yaşandı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üçüncü Pön Savaşı MÖ 149–146 arasındadır ve Kartaca kuşatmasıyla kapanır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın toprak değişimini \"Numidia dışında\" kaydıyla vermesi önemlidir: fethin tam olmaması, bölgede tâbi ama fethedilmemiş bir siyasi alan bırakır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Roma Cumhuriyeti MÖ 509 ile MÖ 27 arasına yerleştirilir ve dönemin anayasal düzeni senato, yasama meclisleri ve magistralıklar üzerine kuruludur.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Roma Cumhuriyeti MÖ 509 ile MÖ 27 arasına yerleştirilir ve dönemin anayasal düzeni senato, yasama meclisleri ve magistralıklar üzerine kuruludur.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Roma Cumhuriyeti bu toprakların büyük bölümünü daha önce fethetmişti; topraklar ancak MÖ 27'de Augustus Principatus'unun kurulmasının ardından kalıcı tek kişi y",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Çağdaş dünya nüfusu, uzun dönemli seride MÖ 1000 için yaklaşık 110,5 milyon, MS 200 için yaklaşık 240,8 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, dizinin üç savaş ve dört yıllık bir isyandan oluştuğunu kaydeder; bu dosya yalnızca dizinin çerçevesini ele alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

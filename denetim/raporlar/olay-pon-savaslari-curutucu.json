@@ -1,0 +1,14 @@
+{
+  "id": "olay-pon-savaslari",
+  "gecis": 3,
+  "zaman": "2026-08-21T04:59:41.703Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, atlas için bir uyarı noktasıdır: Akdeniz'i fetheden düzen ile onu yöneten düzen aynı değildir. Roma Cumhuriyeti bu toprakların büyük bölümünü daha önce fethetmişti; topraklar a",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

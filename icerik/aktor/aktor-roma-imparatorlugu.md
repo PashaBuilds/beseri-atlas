@@ -19,6 +19,10 @@ ilgili:
   - aktor-bizans-imparatorlugu
   - aktor-han-imparatorlugu
   - aktor-sasani-imparatorlugu
+  - olay-kavimler-gocu
+  - olay-pon-savaslari
+  - olay-roma-cumhuriyetinin-sonu
+  - tartisma-romanin-cokus-nedeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

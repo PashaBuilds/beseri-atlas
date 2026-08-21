@@ -21,6 +21,9 @@ ilgili:
   - aktor-roma-imparatorlugu
   - aktor-bizans-imparatorlugu
   - aktor-sasani-imparatorlugu
+  - olay-justinyen-vebasi
+  - olay-kavimler-gocu
+  - tartisma-romanin-cokus-nedeni
 okuma_onerisi: []
 serit:
   - bolge: avrupa

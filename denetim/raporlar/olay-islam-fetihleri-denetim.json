@@ -1,0 +1,61 @@
+{
+  "id": "olay-islam-fetihleri",
+  "gecis": 2,
+  "zaman": "2026-08-21T04:59:31.229Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Genişlemenin sonucu doğuda Sind'deki Hint alt kıtasından batıda Pireneler'deki İber Yarımadası'na uzanan bir alandır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Seferler birbirini izleyen bölgesel evreler halinde kaydedilir: Suriye'nin fethi 634–641, Mısır'ın fethi 639–642, Mezopotamya ve İran'ın fethi 633–651, Sind'in ",
+      "durum": "OK",
+      "not": "8 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mezopotamya ve İran cephesi 633–651, Suriye cephesi 634–641 arasında tamamlanırken Mağrib cephesi 647–742 arasına yayılır.",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sürecin jeopolitik anlamı kaynakta açıkça yazılıdır: erken İslam fetihleri, doğuda Sasani İmparatorluğu'nun ve batıda Bizans İmparatorluğu'nun egemen olduğu mev",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sasani İmparatorluğu 224–651 arasındaki son İslam öncesi İran imparatorluğudur ve 651'de sona ermiştir; Bizans ise daralarak sürmüştür.",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Batı Asya ve Kuzey Afrika'da Sasani İmparatorluğu, Bizans İmparatorluğu, Makuria Krallığı ve Evres Krallığı'nı; Orta Asya'da Batı Göktürk Kağanlığı ve T",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu listenin genişliği sürecin tek bir cephede yürümediğini gösterir: kaynağın saydığı karşı taraflar arasında hem Orta Asya'daki Tang hanedanı hem Batı Avrupa'd",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 632'ye kadar ilk İslam devletini, 632–661 arasında Râşidîn Halifeliği'ni ve 661–750 arasında Emevî Halifeliği'ni ayrı ayrı sayar; Râşidîn Halifeliği'nin",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Fethin sonraki kurumsal karşılığı olan hilafet düzeni dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

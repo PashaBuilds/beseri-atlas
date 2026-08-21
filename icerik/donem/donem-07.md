@@ -22,6 +22,7 @@ ilgili:
   - aktor-mogol-imparatorlugu
   - aktor-buyuk-selcuklu
   - aktor-song-hanedani
+  - olay-malazgirt
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

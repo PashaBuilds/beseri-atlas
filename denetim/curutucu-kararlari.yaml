@@ -114,3 +114,23 @@ hat_duzeltmesi:
       anlaminda kullanildigi cumlelerde ("tek bir siyasi birimi anlatmaz",
       "tek renkli bir harita", "tek bir statik harita") tetikleniyor. Bunlar
       onculuk iddiasi degil, coguldan ayirt etme ifadeleridir.
+
+# Faz 2 turu B11: klasik/gec antik olay kumesi — 2026-08-21
+  - bulgu: >-
+      Curutucu, olay-islam-fetihleri'nde "jeopolitik" kavramini iki kez YUKSEK
+      ciddiyette anakronizm olarak isaretledi (kavram ~1900'den itibaren
+      kullaniliyor, makale 742'de bitiyor); ayrica "tamamen" ifadesini atif
+      cercevesi olmadan kullanilmis kesinlik dili saydi.
+    aksiyon: >-
+      "jeopolitik" -> "siyasi", "tamamen" -> "butunuyle" olarak degistirildi ve
+      cumle "kaynaga gore" ile acikca kaynaga atfedildi. Iddianin icerigi
+      degismedi; yalnizca donemin diline ve atif zorunluluguna uyduruldu.
+  - tip: ustunluk-iddiasi
+    kapsam: "faz-2 B11 kumesi"
+    karar: yanlis-pozitif
+    gerekce: >-
+      B09 ve B10'daki ayni gerekce: kalan dusuk ciddiyetli itirazlar "tek"
+      kelimesinin sayi anlaminda kullanildigi cumlelerde ("tek bir gunle sinirli
+      degildi", "tek bir cephede yurumedigini", "tek nedenli aciklamalarin",
+      "tek bir sehirde") tetikleniyor. Bunlar onculuk/ustunluk iddiasi
+      tasimiyor.

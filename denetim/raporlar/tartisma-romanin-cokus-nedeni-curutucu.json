@@ -1,0 +1,28 @@
+{
+  "id": "tartisma-romanin-cokus-nedeni",
+  "gecis": 3,
+  "zaman": "2026-08-21T04:59:41.705Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sorunun modern biçimi bir kitapla başlar. Batı Roma İmparatorluğu'nun çöküşünün nedenleri ve mekanizmaları, tarihçi Edward Gibbon'ın 1776 tarihli kitabıyla gündeme getirilmiş bir t",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Gibbon'ın kendisi hem iç çöküş fikirlerini — iç savaşlar, siyasi, iktisadi, askerî ve diğer toplumsal kurumların çözülmesi — hem de imparatorluk dışından gelen saldırıları incelemi",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Her açıklama tek bir olguyla sınanabilir: aynı yüzyıllarda doğu kanadı ayakta kaldı. Devlet, Batı Roma İmparatorluğu'nun 5. yüzyıldaki çöküşünden sonra varlığını sürdürdü ve Konsta",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

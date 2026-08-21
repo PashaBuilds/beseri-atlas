@@ -15,6 +15,7 @@ etiketler: [kara-olum, veba, salgin, demografi, ortacag]
 ilgili:
   - donem-08
   - olay-mogol-fetihleri
+  - olay-justinyen-vebasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

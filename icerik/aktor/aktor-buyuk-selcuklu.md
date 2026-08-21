@@ -16,6 +16,7 @@ ilgili:
   - donem-07
   - aktor-abbasi-hilafeti
   - aktor-bizans-imparatorlugu
+  - olay-malazgirt
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

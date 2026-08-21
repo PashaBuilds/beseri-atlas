@@ -24,6 +24,9 @@ ilgili:
   - aktor-roma-imparatorlugu
   - aktor-han-imparatorlugu
   - aktor-maurya-imparatorlugu
+  - olay-iskender-seferleri
+  - olay-pon-savaslari
+  - olay-roma-cumhuriyetinin-sonu
 okuma_onerisi: []
 serit:
   - bolge: dogu-asya

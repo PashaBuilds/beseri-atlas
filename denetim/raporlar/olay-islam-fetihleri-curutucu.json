@@ -1,0 +1,21 @@
+{
+  "id": "olay-islam-fetihleri",
+  "gecis": 3,
+  "zaman": "2026-08-21T04:59:56.124Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu listenin genişliği sürecin tek bir cephede yürümediğini gösterir: kaynağın saydığı karşı taraflar arasında hem Orta Asya'daki Tang hanedanı hem Batı Avrupa'daki Frank Krallığı b",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Fetihleri yürüten siyasi yapı da sabit değildir. Kaynak, 632'ye kadar ilk İslam devletini, 632–661 arasında Râşidîn Halifeliği'ni ve 661–750 arasında Emevî Halifeliği'ni ayrı ayrı ",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -20,6 +20,7 @@ ilgili:
   - aktor-roma-imparatorlugu
   - aktor-maurya-imparatorlugu
   - tartisma-imparatorluk-siniri-nasil-cizilir
+  - olay-iskender-seferleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

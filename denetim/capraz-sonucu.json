@@ -1,8 +1,26 @@
 {
-  "zaman": "2026-08-21T04:50:14.600Z",
-  "makale_sayisi": 59,
+  "zaman": "2026-08-21T05:00:32.210Z",
+  "makale_sayisi": 67,
   "celiskiler": [],
   "incelenecek": [
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-03",
+        "olay-malazgirt"
+      ],
+      "detay": "\"Anadolu\" — donem-03: 1200 / olay-malazgirt: 1071"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-tunc-cagi-cokusu",
+        "olay-malazgirt"
+      ],
+      "detay": "\"Anadolu\" — olay-tunc-cagi-cokusu: 1200 / olay-malazgirt: 1071"
+    },
     {
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
@@ -155,6 +173,33 @@
         "aktor-buyuk-selcuklu"
       ],
       "detay": "\"Mart\" — olay-balkan-savaslari: 1912 / aktor-buyuk-selcuklu: 1073"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-balkan-savaslari",
+        "olay-malazgirt"
+      ],
+      "detay": "\"Ağustos\" — olay-balkan-savaslari: 1912 / olay-malazgirt: 1071"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kavimler-gocu",
+        "tartisma-romanin-cokus-nedeni"
+      ],
+      "detay": "\"Roma\" — olay-kavimler-gocu: 1453 / tartisma-romanin-cokus-nedeni: 1984"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-bizans-imparatorlugu",
+        "tartisma-romanin-cokus-nedeni"
+      ],
+      "detay": "\"Roma\" — aktor-bizans-imparatorlugu: 1453 / tartisma-romanin-cokus-nedeni: 1984"
     },
     {
       "tur": "varlik-yil-ayrismasi",

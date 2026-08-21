@@ -15,6 +15,7 @@ etiketler: [abbasi, hilafet, hanedan, mesruiyet, bagdat]
 ilgili:
   - donem-06
   - aktor-buyuk-selcuklu
+  - olay-islam-fetihleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

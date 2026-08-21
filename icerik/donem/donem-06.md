@@ -22,6 +22,7 @@ ilgili:
   - aktor-abbasi-hilafeti
   - aktor-tang-hanedani
   - aktor-karolenj-imparatorlugu
+  - olay-islam-fetihleri
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

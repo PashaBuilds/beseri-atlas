@@ -16,6 +16,7 @@ ilgili:
   - donem-05
   - aktor-roma-imparatorlugu
   - aktor-bizans-imparatorlugu
+  - olay-islam-fetihleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

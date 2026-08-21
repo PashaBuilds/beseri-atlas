@@ -38,10 +38,11 @@ fazlar:
     - { id: olay-yazinin-icadi, baslik: "Yazının icadı", bagimlilik: [donem-02] }
     - { id: tartisma-tunc-cagi-cokusunun-nedeni, baslik: "Tunç Çağı çöküşünün nedeni neydi?", bagimlilik: [donem-03] }
     - { id: tartisma-imparatorluk-siniri-nasil-cizilir, baslik: "İmparatorluk sınırı haritada nasıl gösterilmeli?", bagimlilik: [donem-04] }
+    - { id: tartisma-romanin-cokus-nedeni, baslik: "Roma neden çöktü?", bagimlilik: [donem-05] }
     - { id: olay-tunc-cagi-cokusu, baslik: "Tunç Çağı çöküşü", bagimlilik: [donem-03, tartisma-tunc-cagi-cokusunun-nedeni] }
     - { id: olay-pers-yunan-savaslari, baslik: "Pers–Yunan savaşları", bagimlilik: [donem-04] }
     - { id: olay-iskender-seferleri, baslik: "İskender'in seferleri", bagimlilik: [donem-04] }
-    - { id: olay-pön-savaslari, baslik: "Pön Savaşları", bagimlilik: [donem-04] }
+    - { id: olay-pon-savaslari, baslik: "Pön Savaşları", bagimlilik: [donem-04] }
     - { id: olay-han-hanedani-kurulusu, baslik: "Han hanedanının kuruluşu", bagimlilik: [donem-04] }
     - { id: olay-roma-cumhuriyetinin-sonu, baslik: "Roma Cumhuriyeti'nin sonu", bagimlilik: [donem-04] }
     - { id: olay-kavimler-gocu, baslik: "Kavimler Göçü", bagimlilik: [donem-05] }
@@ -205,7 +206,6 @@ fazlar:
   4:
     # ─── Tartışmalar ────────────────────────────────────────────────────────
     - { id: tartisma-eksen-cagi-gercek-mi, baslik: "Eksen Çağı gerçek bir olgu mu?" }
-    - { id: tartisma-romanin-cokus-nedeni, baslik: "Roma neden çöktü?" }
     - { id: tartisma-feodalite-kavrami, baslik: "Feodalite kullanışlı bir kavram mı?" }
     - { id: tartisma-mogol-etkisi, baslik: "Moğol istilası yıkım mı entegrasyon mu?" }
     - { id: tartisma-kara-olumun-sonuclari, baslik: "Kara Ölüm Avrupa'yı dönüştürdü mü?" }
