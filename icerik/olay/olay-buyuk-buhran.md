@@ -19,6 +19,7 @@ ilgili:
   - olay-2008-finansal-krizi
   - dusunur-keynes
   - kaynak-keynes-genel-teori
+  - tartisma-1929-krizinin-nedeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

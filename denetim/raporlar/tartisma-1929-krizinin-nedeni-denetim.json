@@ -1,0 +1,73 @@
+{
+  "id": "tartisma-1929-krizinin-nedeni",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:44:16.094Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, genel kuramsal muhakeme başlığını ikiye ayırır: ana akım kuramlar ve heterodoks kuramlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ana akım başlığı altında Keynesyen ve Monetarist alt başlıkları; heterodoks başlığı altında ise Avusturya Okulu ve Marksist alt başlıkları bulunur.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, ana akım başlığı altında ayrıca modern parasal olmayan açıklamalara yer verir ve bunların altında borç deflasyonu ile beklentiler hipotezini ayrı ayrı k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı ailenin içinde birden çok mekanizmanın bulunması, \"Keynesyen açıklama\" ifadesinin de tek bir cümleye indirgenemeyeceğini gösterir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tikel neden kuramları başlığı altında dokuz mekanizma sayar: borç deflasyonu dışı açıklamalar, üretkenlik ya da teknoloji şoku, servet ve gelir eşitsizl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir tartışmanın dokuz ayrı mekanizmaya bölünebilmesi, atlasın şu kuralının dayanağıdır: neden cümlesi kurulurken hangi mekanizmanın kastedildiği yazılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Roosevelt 1933-45.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kaynağın Roosevelt dönemi için hem toparlanmanın anahtarı hem bunalımın uzaması yönünde savlar başlığı tutması, tek bir politikanın iki karşıt değerlendirm",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaynağın saydığı mekanizmalardan biri için tutulan kayıt, onu hesap biriminin sabit miktarda altına dayandığı bir parasal sistem olarak tanımlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir para sisteminin tanımının bu kadar dar olması, onu terk etme kararının neden bu kadar geniş sonuçlara bağlanabildiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kişi başı GSYH serisinde dünya değeri 1929'da yaklaşık 2.184 uluslararası dolar, 1932'de yaklaşık 1.947 uluslararası dolar, 1939'da yaklaşık 2.377 uluslararası ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    }
+  ]
+}

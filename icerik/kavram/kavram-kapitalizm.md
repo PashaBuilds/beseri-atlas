@@ -20,6 +20,7 @@ ilgili:
   - kaynak-polanyi-buyuk-donusum
   - kaynak-marx-kapital
   - kaynak-weber-protestan-ahlaki
+  - tartisma-1929-krizinin-nedeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

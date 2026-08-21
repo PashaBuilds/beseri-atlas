@@ -30,6 +30,7 @@ ilgili:
   - olay-birinci-dunya-savasi
   - tartisma-ikinci-dunya-savasi-sorumlulugu
   - kaynak-hobsbawm-caglar
+  - tartisma-1929-krizinin-nedeni
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 serit:

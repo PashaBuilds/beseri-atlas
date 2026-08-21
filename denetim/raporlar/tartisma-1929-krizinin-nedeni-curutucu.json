@@ -1,0 +1,28 @@
+{
+  "id": "tartisma-1929-krizinin-nedeni",
+  "gecis": 3,
+  "zaman": "2026-08-21T12:44:37.431Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu haritanın çıkış noktası kaynağın içindekiler yapısıdır: nedenler tek bir listede değil, ayrı katmanlarda durur.[^k1]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı ailenin içinde birden çok mekanizmanın bulunması,[^k1] \"Keynesyen açıklama\" ifadesinin de tek bir cümleye indirgenemeyeceğini gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı kaynağın Roosevelt dönemi için hem toparlanmanın anahtarı hem bunalımın uzaması yönünde savlar başlığı tutması,[^k1] tek bir politikanın iki karşıt değerlendirmeye konu olabil",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}
