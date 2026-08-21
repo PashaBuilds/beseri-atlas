@@ -1789,7 +1789,7 @@ isler:
   - id: dusunur-durkheim
     tip: dusunur
     baslik: Émile Durkheim
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1821,7 +1821,7 @@ isler:
   - id: dusunur-keynes
     tip: dusunur
     baslik: John Maynard Keynes
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1829,7 +1829,7 @@ isler:
   - id: dusunur-braudel
     tip: dusunur
     baslik: Fernand Braudel
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1917,7 +1917,7 @@ isler:
   - id: kavram-longue-duree
     tip: kavram
     baslik: Longue durée
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

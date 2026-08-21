@@ -19,6 +19,8 @@ ilgili:
   - dusunur-malthus
   - dusunur-marx
   - dusunur-mill
+  - dusunur-braudel
+  - dusunur-keynes
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

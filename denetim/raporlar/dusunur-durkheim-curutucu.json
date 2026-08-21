@@ -1,0 +1,14 @@
+{
+  "id": "dusunur-durkheim",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:10:03.901Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir yöntemin ölçek kararıyla tanımlanması,[^k1] atlasın bölge ve dönem alanlarını neden ayrı ayrı tuttuğuyla aynı sorunu paylaşır: neyi tek bir birim sayacağımız bir tercih meseles",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

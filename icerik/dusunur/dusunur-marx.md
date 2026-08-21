@@ -16,6 +16,9 @@ ilgili:
   - dusunur-smith
   - olay-1848-devrimleri
   - dusunur-mill
+  - dusunur-braudel
+  - dusunur-durkheim
+  - kavram-longue-duree
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

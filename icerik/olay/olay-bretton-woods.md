@@ -22,6 +22,7 @@ ilgili:
   - aktor-dunya-ticaret-orgutu
   - aktor-imf
   - aktor-dunya-bankasi
+  - dusunur-keynes
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

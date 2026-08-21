@@ -1,0 +1,85 @@
+{
+  "id": "dusunur-braudel",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:10:03.301Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, onun zamanı katmanlara ayırdığını yazar ve üçüncü katmanı olayların zamanı olarak tanımlar: adı olan bireylerin tarihi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, olayların zamanının onun için yüzeylerin ve aldatıcı etkilerin zamanı olduğunu ve Akdeniz'in üçüncü bölümünün odağını oluşturduğunu yazar; o bölümün ola",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Akdeniz"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkinci düzeyde iktisadi, toplumsal ve kültürel tarihin bulunduğu; bu düzeyde değişimin çevreninkinden çok daha hızlı olduğu ve iki üç yüzyıla bakarak çeşitli ar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir tarihçinin olayları yöntemsel olarak en az açıklayıcı katmana yerleştirmesi, bu atlasın olay dosyalarını neden her zaman bir dönem dosyasına bağladığını gös",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, onun kapitalistlerin genellikle varsayıldığı gibi rekabetçi piyasalarda faaliyet gösteren girişimciler değil tekelciler olduğunu savunduğunu yazar; kapi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir tarihçinin iki büyük yorum geleneğinden birden ayrıldığının kaydedilmesi, atlasın hakemlik etmeme ilkesine uygun bir örnektir: bu dosya üç konumu da kaydede",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ayrıldığı yorumların düşünürleri ve dosyalarında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ayrıldığı yorumların düşünürleri ve dosyalarında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, onun görüşünde kapitalist ülkelerde devletin, genellikle betimlendiği gibi rekabetin koruyucusu değil tekelcilerin güvencesi olarak hizmet ettiğini yaza",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu iddiayı bir olgu olarak değil, kaynağın aktardığı bir konum olarak taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, onun Akdeniz'inin denizin yanı sıra çöl ve dağlar olduğunu; çölün bütün topluluğun taşındığı göçebe bir toplumsal örgütlenme biçimi ürettiğini, dağ yaşa",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Akdeniz"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Coğrafyanın toplumsal biçime bağlanması, atlasın bölge alanını neden ayrı bir üst veri olarak tuttuğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hayatı, esaret dönemi, Akdeniz'in yazımı, Fransa'nın kimliği üzerine son eseri ve tarih yazımındaki yeri burada ayrı başlıklar altında ele alınmamıştır; kaynak ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "kavram-longue-duree",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:10:03.437Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bu kurguda üçüncü düzeyi olayların zamanı olarak tanımlar ve bunun adı olan bireylerin tarihi olduğunu, kendisi için yüzeylerin ve aldatıcı etkilerin zam",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak ikinci düzeyde iktisadi, toplumsal ve kültürel tarihin bulunduğunu ve bu düzeyde değişimin çevreninkinden çok daha hızlı olduğunu yazar; bu düzeyde iki ü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Katmanların içerikleriyle değil değişim hızlarıyla ayrılması, kavramın bir konu sınıflandırması değil bir zaman ölçeği önerisi olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramı öneren tarihçi dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu kullanımı bir doğruluk iddiası olarak değil bir düzenleme kararı olarak kaydeder; kaynak da kavramı bir yöntem tercihi olarak sunar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı soruya başka bir cevap için tutulan kayıt, toplum biçimlerinin insanın üretici gücünün gelişimini önce ilerletip sonra engelledikçe yükselip düştüğü fikri ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki kurgunun da olayların altında daha yavaş bir düzey araması, soruyu paylaştıklarını gösterir; cevapları ayrıdır ve atlas aralarında seçim yapmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki kurgunun da olayların altında daha yavaş bir düzey araması, soruyu paylaştıklarını gösterir; cevapları ayrıdır ve atlas aralarında seçim yapmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli nüfus serisi MÖ 10000 için yaklaşık 4,4 milyon, MS 1 için yaklaşık 188,2 milyon, 2020 için yaklaşık 7,84 milyar verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Böyle bir serinin tek bir grafikte on iki bin yılı kapsayabilmesi, kavramın neden veri katmanında da bir karşılığı olduğunu gösterir: bazı büyüklükler ancak bu ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramın Annales okulundaki gelişimi, eleştirileri ve sonraki tarih yazımındaki kullanımı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bö",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

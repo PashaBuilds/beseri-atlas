@@ -17,6 +17,7 @@ ilgili:
   - olay-ikinci-dunya-savasi
   - olay-bretton-woods
   - olay-2008-finansal-krizi
+  - dusunur-keynes
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

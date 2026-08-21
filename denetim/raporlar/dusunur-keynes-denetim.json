@@ -1,0 +1,79 @@
+{
+  "id": "dusunur-keynes",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:10:03.395Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Genel Teori'nin sıklıkla modern makroiktisadın temeli olarak görüldüğünü yazar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Genel, Teori"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, 1930'ların çoğunda az sayıda kıdemli Amerikalı iktisatçının onunla aynı fikirde olduğunu, buna karşın fikirlerinin kısa süre sonra yaygın kabul göreceği",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuramın kabulünün yayımından yıllar sonraya tarihlenmesi, atlasın etki alanını neden eserin tarihinden ayrı tuttuğunu gösterir: yayım tarihi ile etki tarihi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, yayımın ardından gelen kuramsal tartışmalara kendisinin yalnızca sınırlı biçimde katıldığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuramın kurucusunun kendi kuramının tartışmasına sınırlı katılması, kuramın sonraki biçiminin yazarına ait olmayabileceğini gösterir; aynı sorun dosyasında ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kitabın yüksek işsizlik dönemlerinde talebi canlandırmak için hükümetin etkin iktisadi politikasını, örneğin bayındırlık işlerine harcama yapılmasını sa",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu öneriyi doğru ya da yanlış saymaz; kaynağın aktardığı bir konum olarak kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak kariyer bölümünü olaylara göre ayırır: Birinci Dünya Savaşı, Versailles barış konferansı, 1920'ler, Büyük Buhran sırasında, İkinci Dünya Savaşı ve savaş ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir iktisatçının biyografisinin savaşlar ve krizlerle bölümlenmesi, atlasın düşünür dosyalarını neden olay dosyalarına bağladığını gösterir; ilgili olaylar ve d",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1883 için yaklaşık 1,49 milyar, 1946 için yaklaşık 2,38 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir önceki yüzyılların iktisat yazarı için tutulan kayıt, onun eyleme yönelik iki tür normatif kılavuz ayırt ettiğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Serbest ticaret ve korumacılık görüşleri, kariyerinin ayrıntıları ve iktisat kuramının içeriği burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ay",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

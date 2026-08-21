@@ -1,0 +1,67 @@
+{
+  "id": "dusunur-durkheim",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:10:03.333Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, onun toplumbilimin meşru bir bilim olarak kabul edilmesiyle meşgul olduğunu yazar ve toplumbilimi onun için kurumlar bilimi olarak tanımlar; kurumu, kol",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, onun bilimsel meşruiyet kaygısını ayrıca kaydeder ve Auguste Comte'un ortaya koyduğu olguculuğu inceltiğini, bilgi kuramsal gerçekçilik sayılabilecek bi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir düşünürün önce kendi alanının bilim sayılmasıyla uğraşması, bir disiplinin sınırlarının da tarihsel bir kayıt olduğunu gösterir; bu atlas kendi alan sınırla",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, onun görüşünde toplum biliminin bütüncül olması gerektiğini, yani toplumbilimin bireylerin belirli eylemleriyle sınırlı kalmak yerine bir bütün olarak t",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir yöntemin ölçek kararıyla tanımlanması, atlasın bölge ve dönem alanlarını neden ayrı ayrı tuttuğuyla aynı sorunu paylaşır: neyi tek bir birim sayacağımız bir",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak etki ve miras bölümünün altında iki alt başlık tutar: ona karşı bir çağdaş filozofun konumu ve onu savunan bir başkasının konumu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir düşünürün mirasının, kendisine karşı ve kendisini savunan iki başlıkla kaydedilmesi, atlasın tartışma dosyalarında uyguladığı biçimin ansiklopedilerde de bu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yüzyılda yazan bir başka toplum kuramcısı için tutulan kayıt, toplum biçimlerinin üretici gücün gelişimine göre yükselip düştüğü fikrini anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir önceki kuşağın yöntem yazarı için tutulan kayıt ise onu doğalcı, faydacı ve liberal olarak tanımlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Toplumsal olgu kuramı, intihar incelemesi, din toplumbilimi ve ahlak görüşleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "kavram-longue-duree",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:10:03.902Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu atlasın on altı dönemlik kronolojik omurgası ile her olay dosyasının bir dönem dosyasına bağlanması, aynı ayrımın uygulanmasıdır: olay tek başına bir açıklama sayılmaz. Kavramı ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Böyle bir serinin tek bir grafikte on iki bin yılı kapsayabilmesi,[^k3] kavramın neden veri katmanında da bir karşılığı olduğunu gösterir: bazı büyüklükler ancak bu ölçekte görünür",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

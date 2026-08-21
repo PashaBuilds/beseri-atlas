@@ -15,6 +15,7 @@ ilgili:
   - dusunur-smith
   - dusunur-tocqueville
   - dusunur-marx
+  - dusunur-durkheim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

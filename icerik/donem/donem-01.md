@@ -20,6 +20,7 @@ ilgili:
   - olay-gobeklitepe
   - olay-neolitik-devrim
   - tartisma-tarim-devrimi-ilerleme-mi
+  - kavram-longue-duree
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

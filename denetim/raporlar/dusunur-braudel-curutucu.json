@@ -1,0 +1,28 @@
+{
+  "id": "dusunur-braudel",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:10:35.991Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Bir tarihçinin olayları yöntemsel olarak en az açıklayıcı katmana yerleştirmesi, [^k1] bu atlasın olay dosyalarını neden her zaman bir dönem dosyasına bağladığını gösterir: olay te",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir tarihçinin olayları yöntemsel olarak en az açıklayıcı katmana yerleştirmesi, [^k1] bu atlasın olay dosyalarını neden her zaman bir dönem dosyasına bağladığını gösterir: olay te",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Kaynak, onun kapitalistlerin genellikle varsayıldığı gibi rekabetçi piyasalarda faaliyet gösteren girişimciler değil tekelciler olduğunu savunduğunu yazar; kapitalistlerin uzmanlaş",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}
