@@ -1,0 +1,55 @@
+{
+  "id": "tartisma-nufus-artisi-tehdit-mi",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:06:42.259Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu haritanın çıkış noktası kaynağın kendi kipi: olay gerçekleşmiş değil öngörülmüş olarak kaydedilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, nüfus artışının potansiyel olarak üstel, gıda arzının ya da diğer kaynakların büyümesinin ise doğrusal olduğunu ve bunun yaşam standartlarını sonunda bi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak olayın adlarını sıralar: Malthusçu felaket, Malthus tuzağı, nüfus tuzağı, Malthusçu denetim, Malthusçu kapma, Malthusçu kriz, kriz noktası ve Malthusçu d",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Nüfus artış hızı serisinde sağlayıcının toplam satırı 1950 için yüzde 1,738, 2023 için yüzde 0,871 verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Buğday verimi serisinde ise 1961 için hektar başına 1,0889001 ton, 2024 için 3,6374002 ton verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Artış hızı düşerken verimin artması, modelin öngördüğü koşulun bu dönemde gerçekleşmediğini düşündürür; atlas bundan modelin yanlışlandığı sonucunu çıkarmaz, çü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Artış hızı düşerken verimin artması, modelin öngördüğü koşulun bu dönemde gerçekleşmediğini düşündürür; atlas bundan modelin yanlışlandığı sonucunu çıkarmaz, çü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Artış hızı düşerken verimin artması, modelin öngördüğü koşulun bu dönemde gerçekleşmediğini düşündürür; atlas bundan modelin yanlışlandığı sonucunu çıkarmaz, çü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

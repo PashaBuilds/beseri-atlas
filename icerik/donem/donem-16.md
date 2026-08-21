@@ -23,6 +23,7 @@ ilgili:
   - olay-covid-19-pandemisi
   - olay-arap-bahari
   - olay-paris-iklim-anlasmasi
+  - tartisma-nufus-artisi-tehdit-mi
 okuma_onerisi: []
 serit:
   - bolge: kuresel

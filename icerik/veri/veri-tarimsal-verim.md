@@ -15,6 +15,7 @@ ilgili:
   - olay-yesil-devrim
   - kavram-malthus-tuzagi
   - veri-tarim-istihdami
+  - tartisma-nufus-artisi-tehdit-mi
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/tarimsal-verim.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

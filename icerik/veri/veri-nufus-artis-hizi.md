@@ -16,6 +16,7 @@ ilgili:
   - veri-dogurganlik-hizi-1950-2023
   - kavram-demografik-gecis
   - kaynak-malthus-nufus
+  - tartisma-nufus-artisi-tehdit-mi
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/nufus-artis-hizi.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

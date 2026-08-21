@@ -15,6 +15,7 @@ ilgili:
   - olay-irlanda-kitligi
   - kaynak-malthus-nufus
   - veri-tarimsal-verim
+  - tartisma-nufus-artisi-tehdit-mi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

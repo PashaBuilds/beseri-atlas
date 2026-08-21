@@ -2749,7 +2749,7 @@ isler:
   - id: tartisma-nufus-artisi-tehdit-mi
     tip: tartisma
     baslik: Nüfus artışı bir tehdit mi?
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
