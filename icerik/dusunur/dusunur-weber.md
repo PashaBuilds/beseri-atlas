@@ -19,6 +19,7 @@ ilgili:
   - kavram-sekulerlesme
   - kavram-burokrasi
   - kavram-patrimonyalizm
+  - kaynak-weber-protestan-ahlaki
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

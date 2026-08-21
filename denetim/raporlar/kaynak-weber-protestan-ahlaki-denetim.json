@@ -1,0 +1,49 @@
+{
+  "id": "kaynak-weber-protestan-ahlaki",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:40:14.014Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak eserleri künyeleriyle sıralar ve bu eseri 1904-1905 aralığıyla verir; aynı listede Dünya Dinlerinin İktisadi Ahlakı (1915-1921), Bilim Bir Meslek Olarak ",
+      "durum": "OK",
+      "not": "9 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir eserin künyesinin iki yılla verilmesi, metnin tek bir yayında değil bölümler hâlinde çıktığı anlamına gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kuramlar başlığı altında bu eserin yanı sıra Dünya Dinlerinin İktisadi Ahlakı'nı ayrı bir alt başlık olarak tutar ve onun altında Çin dini, Hindistan di",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Dünya, Dinlerinin, İktisadi, Ahlakı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir tezin tek bir din için değil bir karşılaştırma dizisi içinde kurulmuş olması, atlasın şu kuralının dayanağıdır: bu esere atfedilen önermeler, karşılaştırman",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Eserin bağlı olduğu kavram tartışması için tutulan kayıt, sekülerleşme kuramının eleştirisine ayrı bir bölüm ayırır ve bölgesel gelişmeleri ülke ülke işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Önceki kuşaktan bir yazar için tutulan kayıt, onun ahlak kurallarının belirli örneklere verilen tepkiler temelinde oluştuğunu savunduğunu yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

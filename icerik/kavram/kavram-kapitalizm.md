@@ -19,6 +19,7 @@ ilgili:
   - kaynak-smith-uluslarin-zenginligi
   - kaynak-polanyi-buyuk-donusum
   - kaynak-marx-kapital
+  - kaynak-weber-protestan-ahlaki
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

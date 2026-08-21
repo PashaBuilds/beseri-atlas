@@ -27,6 +27,7 @@ ilgili:
   - kaynak-polanyi-buyuk-donusum
   - kaynak-pomeranz-buyuk-ayrisma
   - tartisma-sanayi-devrimi-neden-ingiltere
+  - kaynak-weber-protestan-ahlaki
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

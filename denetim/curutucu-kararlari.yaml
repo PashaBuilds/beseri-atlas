@@ -1141,3 +1141,18 @@ hat_duzeltmesi:
       Kayit icin not edildi. Bu, atlasin veri dosyalarinda tekrar eden bir
       orunty: olcum baslangici ile olgu baslangici ayni degil ve bu fark her
       dosyada acikca yaziliyor.
+
+# Faz 4 turu B25: Kant Elestiri, Marx Kapital, Weber Protestan Ahlaki — 2026-08-21
+  - bulgu: >-
+      kaynak-weber-protestan-ahlaki'nda iki cumle kapsam-carpitmasi olarak ORTA
+      ciddiyette isaretlendi ("dunya dinleri", "Cin dini, Hindistan dini").
+    aksiyon: >-
+      Itiraz HAKLIYDI ve etiket duzeltildi: bolge [avrupa, dogu-asya,
+      guney-asya, kuresel]. Eserin kendisi bir karsilastirma dizisinin parcasi
+      ve kaynak bunu ad ad isliyor; ust veri icerige uydurulmustur.
+  - bulgu: >-
+      Ayni dosyada KAPI 5 (bagimsizlik sarti) ve Ilke 2 (tartismali isaret)
+      birlikte kirildi.
+    aksiyon: >-
+      k3 bagimsiz alan adiyla degistirildi ve ::tartismali yonergesi eklendi.
+      Iki kapi da ayni turda devreye girdi.
