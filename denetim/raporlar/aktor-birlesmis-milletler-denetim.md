@@ -1,5 +1,5 @@
 ## aktor-birlesmis-milletler
-_Geçiş 2 — kaynak denetimi · 2026-08-21T06:36:58.220Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-21T13:14:12.533Z_
 
 - [OK]      k1 → "Birleşmiş Milletler bir hükümetler arası örgüttür; üyeliği 193 üye devlet ve 2 gözlemci devletten oluşur."
 - [OK]      k1 → "Kaynak, örgütün "hazırlık yılları" başlığı altında bir toplantılar dizisi sıralar: St James's Sarayı Bildirisi…" — 3 atom doğrulandı; 2 ad ölçülemedi
@@ -11,6 +11,10 @@ _Geçiş 2 — kaynak denetimi · 2026-08-21T06:36:58.220Z_
 - undefined k1 → "Altı resmî dilin bileşimi, kurumun kuruluş dönemindeki güç dağılımını dil düzeyinde taşır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak örgütün tarihini kendi evrelerine ayırır; bunlar arasında Soğuk Savaş sonrası dönem (1991–1999) ve 2020…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır."
+- [OK]      k2 → "Aynı hazırlık dizisinin iktisadi kanadı için tutulan kayıt, düzenin 44 ülke arasındaki ticari ilişkilerin kura…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Aynı kayıt, düzenin 1976'daki Jamaika Anlaşmaları'na kadar sürdüğünü kaydeder." — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Güvenlik kanadının 1945'te, para kanadının 1944'te kurulmuş olması, savaş sonrası düzenin iki ayağının bir yıl…"
+- [OK]      k2 → "Güvenlik kanadının 1945'te, para kanadının 1944'te kurulmuş olması, savaş sonrası düzenin iki ayağının bir yıl…"
 - undefined k1 → "Barışı koruma operasyonları, insan hakları mekanizmaları, Güvenlik Konseyi veto düzeni ve reform tartışmaları …" — programatik olarak ölçülemedi (ad karşılığı yok): Güvenlik, Konseyi
 
-**Özet:** 7 OK · 0 ISARET · 0 HATA
+**Özet:** 11 OK · 0 ISARET · 0 HATA

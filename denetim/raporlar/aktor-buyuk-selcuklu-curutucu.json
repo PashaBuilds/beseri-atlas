@@ -1,7 +1,7 @@
 {
   "id": "aktor-buyuk-selcuklu",
   "gecis": 3,
-  "zaman": "2026-08-21T04:49:31.139Z",
+  "zaman": "2026-08-21T13:14:13.330Z",
   "itirazlar": [
     {
       "ciddiyet": "dusuk",
@@ -14,6 +14,13 @@
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
       "cumle": "Selçuklu adı tek bir siyasi birimi anlatmaz. Anadolu Selçukluları 1075–1308, Suriye Selçukluları ise 1079–1117 arasına tarihlenir; Büyük Selçuklu Sultanı Melikşah 471 (1078) yılınd",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı kayıt, önceki hanedanın sonunu 132 / Ağustos 750'ye yerleştirir.[^k3] Bir hanedanın adını verdiği hilafetin beş yüz yıl sürüp tek bir kuşatmayla sona ermesi,[^k3] Selçukluları",
       "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     }

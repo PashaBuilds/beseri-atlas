@@ -1,12 +1,10 @@
 # Çürütücü raporu — aktor-dunya-ticaret-orgutu
-_2026-08-21T06:36:58.653Z_
+_2026-08-21T13:14:13.330Z_
 
-## Zayıf bulunmayan alanlar
+## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 
-Programatik tarama, §10'da sayılan yedi zayıflık tipinde (tek kaynaklı
-nedensellik, atıfsız kesinlik dili, üstünlük iddiası, kapsam çarpıtması,
-anakronizm, yetersiz pozisyon, ince kanıt tabanı) itiraz adayı bulamadı.
+**Cümle:** "Ticaret örgütünün kuruluşunun bu düzenin sona ermesinden sonraya düşmesi,[^k2] savaş sonrası kurumsal mimarinin tek seferde değil aşamalarla kurulduğunu gösterir."
 
-Bu, makalenin doğru olduğu anlamına gelmez; bu yedi kalıptan hiçbirinin
-tetiklenmediği anlamına gelir. Sayısal ve ad düzeyindeki doğrulama Geçiş 2,
-bağımsız yeniden türetme Geçiş 4 raporlarındadır.
+**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
+
+**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.

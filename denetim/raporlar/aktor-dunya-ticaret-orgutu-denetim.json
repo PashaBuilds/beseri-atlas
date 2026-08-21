@@ -1,7 +1,7 @@
 {
   "id": "aktor-dunya-ticaret-orgutu",
   "gecis": 2,
-  "zaman": "2026-08-21T06:36:58.274Z",
+  "zaman": "2026-08-21T13:14:12.647Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -50,6 +50,18 @@
       "iddia": "Uzun dönemli seride dünya nüfusu 1991'de yaklaşık 5,42 milyar, 2008'de yaklaşık 6,84 milyardır.",
       "durum": "OK",
       "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Örgütün öncesindeki para düzeni için tutulan kayıt, düzenin 44 ülke arasındaki ticari ilişkilerin kurallarını belirlediğini; delegelerin 1-22 Temmuz 1944 arasın",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ticaret örgütünün kuruluşunun bu düzenin sona ermesinden sonraya düşmesi, savaş sonrası kurumsal mimarinin tek seferde değil aşamalarla kurulduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",

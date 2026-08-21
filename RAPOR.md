@@ -21,18 +21,18 @@ birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 | tartisma | 36 |
 | veri | 24 |
 
-Toplam gövde: **112.552** kelime.
+Toplam gövde: **112.729** kelime.
 
 ## Doğrulama
 
-Örnekleme kapısı geçmişi: 0.9583 / 0.8333 / 0.875 / 0.875 / 0.875 / 0.875 / 0.875 / 1 / 1 / 1 / 1 / 1
-Nihai skor: **1** (13 ölçülen değer: 13 doğrulandı, 0 çelişki)
-Ham skor: **0.4643** (28 değerlik örneklem, 15 değer bağımsız olarak türetilemedi)
+Örnekleme kapısı geçmişi: 0.9583 / 0.8333 / 0.875 / 0.875 / 0.875 / 0.875 / 0.875 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1
+Nihai skor: **1** (8 ölçülen değer: 8 doğrulandı, 0 çelişki)
+Ham skor: **0.2759** (29 değerlik örneklem, 21 değer bağımsız olarak türetilemedi)
 
-Geçiş 2 (kaynak denetimi): 1929 OK · 4 ISARET · 0 HATA · 2048 programatik olarak ölçülemedi
+Geçiş 2 (kaynak denetimi): 1929 OK · 4 ISARET · 0 HATA · 2050 programatik olarak ölçülemedi
 Kaynak doğrulama oranı: **0.999**
 Makale başına ortalama kaynak: **3.08**
-Çürütücünün ürettiği itiraz adayı: **485**
+Çürütücünün ürettiği itiraz adayı: **487**
 Çapraz tutarlılık çelişkisi: **0**
 
 ### İki skorun anlamı
@@ -92,7 +92,7 @@ hatalı kaynağa dayanıyorsa ikisi de aynı yanlışa varır.
 
 ## Hattın durduğu nokta
 
-Aktif faz: **4** · Aktif parti: **B03**
+Aktif faz: **5** · Aktif parti: **B01**
 Kuyrukta bekleyen iş: **0** · Karantinada: **0**
 Harcanan bütçe: 1.320.000 / 40.000.000 token
 

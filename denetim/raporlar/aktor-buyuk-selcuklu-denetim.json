@@ -1,7 +1,7 @@
 {
   "id": "aktor-buyuk-selcuklu",
   "gecis": 2,
-  "zaman": "2026-08-21T04:49:22.594Z",
+  "zaman": "2026-08-21T13:14:12.590Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -68,6 +68,24 @@
       "iddia": "Batıdaki rakibin büyüklüğü kayıtlıdır: Bizans için 1025 yılında yaklaşık 12.000.000 nüfus ve 1.675.000 kilometrekare alan verilir.",
       "durum": "OK",
       "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Meşruiyetin kaynağı olan kurum için tutulan bağımsız kayıt, Hülâgû'nün Bağdat önüne gelişini 11 Muharrem 656 / Ocak 1258 olarak verir ve halifenin barış için bo",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı kayıt, önceki hanedanın sonunu 132 / Ağustos 750'ye yerleştirir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir hanedanın adını verdiği hilafetin beş yüz yıl sürüp tek bir kuşatmayla sona ermesi, Selçukluların koruyuculuğunu üstlendiği kurumun ne kadar kırılgan olduğu",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Selçukluların"
     }
   ]
 }

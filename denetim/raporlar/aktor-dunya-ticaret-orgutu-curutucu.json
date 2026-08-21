@@ -1,6 +1,14 @@
 {
   "id": "aktor-dunya-ticaret-orgutu",
   "gecis": 3,
-  "zaman": "2026-08-21T06:36:58.654Z",
-  "itirazlar": []
+  "zaman": "2026-08-21T13:14:13.331Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Ticaret örgütünün kuruluşunun bu düzenin sona ermesinden sonraya düşmesi,[^k2] savaş sonrası kurumsal mimarinin tek seferde değil aşamalarla kurulduğunu gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
 }

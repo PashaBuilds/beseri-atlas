@@ -1,5 +1,5 @@
 ## aktor-buyuk-selcuklu
-_Geçiş 2 — kaynak denetimi · 2026-08-21T04:49:22.594Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-21T13:14:12.590Z_
 
 - [OK]      k1 → "Tuğrul Bey 434'te (1042-43) Hârizm'i Şah Melik'in elinden kurtardı ve aynı yıl Rey'i devletinin merkezi yaptı;…"
 - [OK]      k1 → "Tuğrul Bey 439 (1047-48) yılında Büveyhî hükümdarı Ebû Kâlîcâr ile barış antlaşması imzaladı ve onun kızıyla e…"
@@ -12,5 +12,8 @@ _Geçiş 2 — kaynak denetimi · 2026-08-21T04:49:22.594Z_
 - [OK]      k1 → "Anadolu Selçukluları 1075–1308, Suriye Selçukluları ise 1079–1117 arasına tarihlenir; Büyük Selçuklu Sultanı M…"
 - [OK]      k1 → "Aynı yöntem, Melikşah'ın genç yaşta tahta çıkmasını fırsat bilen hânedan mensuplarının tahtta hak iddia ederek…"
 - [OK]      k2 → "Batıdaki rakibin büyüklüğü kayıtlıdır: Bizans için 1025 yılında yaklaşık 12.000.000 nüfus ve 1.675.000 kilomet…"
+- [OK]      k3 → "Meşruiyetin kaynağı olan kurum için tutulan bağımsız kayıt, Hülâgû'nün Bağdat önüne gelişini 11 Muharrem 656 /…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Aynı kayıt, önceki hanedanın sonunu 132 / Ağustos 750'ye yerleştirir." — 2 atom doğrulandı; 1 ad ölçülemedi
+- undefined k3 → "Bir hanedanın adını verdiği hilafetin beş yüz yıl sürüp tek bir kuşatmayla sona ermesi, Selçukluların koruyucu…" — programatik olarak ölçülemedi (ad karşılığı yok): Selçukluların
 
-**Özet:** 11 OK · 0 ISARET · 0 HATA
+**Özet:** 13 OK · 0 ISARET · 0 HATA

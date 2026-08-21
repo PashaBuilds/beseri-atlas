@@ -34,12 +34,12 @@ kaynaklar:
     dogrulama_dizesi: "Byzantine Empire"
     not: "Batı sınırındaki karşı taraf"
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "TDV İslâm Ansiklopedisi — ABBÂSÎLER"
-    url: https://islamansiklopedisi.org.tr/abbasiler
+    tur: birincil
+    ad: "1911 Encyclopædia Britannica — Caliphate (Wikisource tam metin)"
+    url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Caliphate
     erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "ABBÂSÎLER"
-    not: "Meşruiyetin kaynağı olan hilafet"
+    dogrulama_dizesi: "Caliphate"
+    not: "Mesruiyetin kaynagi olan hilafet; bagimsiz alan adi (Ilke 6)"
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -102,6 +102,17 @@ ayaklanmasıyla riskini de gösterir.[^k1]
 Batıdaki rakibin büyüklüğü kayıtlıdır: Bizans için 1025 yılında yaklaşık
 12.000.000 nüfus ve 1.675.000 kilometrekare alan verilir.[^k2] Selçuklu
 akınlarının başladığı sınır, bu ölçekte bir devletin doğu kenarıydı.
+
+## Meşruiyetin kaynağı
+
+Meşruiyetin kaynağı olan kurum için tutulan bağımsız kayıt, Hülâgû'nün Bağdat
+önüne gelişini 11 Muharrem 656 / Ocak 1258 olarak verir ve halifenin barış için
+boşuna yalvardığını yazar.[^k3]
+
+Aynı kayıt, önceki hanedanın sonunu 132 / Ağustos 750'ye yerleştirir.[^k3] Bir
+hanedanın adını verdiği hilafetin beş yüz yıl sürüp tek bir kuşatmayla sona
+ermesi,[^k3] Selçukluların koruyuculuğunu üstlendiği kurumun ne kadar kırılgan
+olduğunu gösterir.
 
 ## Bu dosyanın sınırı
 

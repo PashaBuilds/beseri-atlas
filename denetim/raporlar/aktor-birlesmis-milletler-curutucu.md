@@ -1,5 +1,5 @@
 # Çürütücü raporu — aktor-birlesmis-milletler
-_2026-08-21T06:36:58.653Z_
+_2026-08-21T13:14:13.325Z_
 
 ## Zayıf bulunmayan alanlar
 

@@ -108,6 +108,17 @@ Uzun dönemli seride dünya nüfusu 1991'de yaklaşık 5,42 milyar, 2008'de yakl
 6,84 milyardır.[^k4] Örgütün kapsadığı ticaretin bu nüfusa oranına dair bir ölçüm
 kullanılan kaynaklarda bulunmadığı için burada oran verilmemiştir.
 
+## Öncesindeki para düzeni
+
+Örgütün öncesindeki para düzeni için tutulan kayıt, düzenin 44 ülke arasındaki
+ticari ilişkilerin kurallarını belirlediğini; delegelerin 1-22 Temmuz 1944
+arasında müzakere ettiğini ve düzenin 1976'daki Jamaika Anlaşmaları'na kadar
+sürdüğünü yazar.[^k2]
+
+Ticaret örgütünün kuruluşunun bu düzenin sona ermesinden sonraya düşmesi,[^k2]
+savaş sonrası kurumsal mimarinin tek seferde değil aşamalarla kurulduğunu
+gösterir.
+
 ## Bu dosyanın sınırı
 
 Örgütün karar alma usulü, uyuşmazlık çözüm mekanizmasının işleyişi, katılım

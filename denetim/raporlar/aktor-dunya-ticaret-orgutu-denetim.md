@@ -1,5 +1,5 @@
 ## aktor-dunya-ticaret-orgutu
-_Geçiş 2 — kaynak denetimi · 2026-08-21T06:36:58.274Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-21T13:14:12.647Z_
 
 - undefined k1 → "İktisadi çalışmalar genel olarak Dünya Ticaret Örgütü'nün ticareti artırdığını ve ticaret engellerini azalttığ…" — programatik olarak ölçülemedi (ad karşılığı yok): Dünya, Ticaret, Örgütü
 - undefined k1 → "Aynı madde eleştirileri de sıralar: DTÖ'nün kolaylaştırdığı serbest ticaretin faydalarının eşit paylaşılmadığı…" — programatik olarak ölçülemedi (ad karşılığı yok): DTÖ
@@ -9,6 +9,8 @@ _Geçiş 2 — kaynak denetimi · 2026-08-21T06:36:58.274Z_
 - [OK]      k1 → "Kaynak, Doha Kalkınma Turu ile Temyiz Organı'nın felce uğramasının örgütün gelecekteki etkinliği hakkında soru…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k3 → "Aynı ailenin para kanadı olan Fon, Temmuz 1944'te Bretton Woods Konferansı'nda kuruldu ve üyeliği 191 ülkedir." — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k4 → "Uzun dönemli seride dünya nüfusu 1991'de yaklaşık 5,42 milyar, 2008'de yaklaşık 6,84 milyardır."
+- [OK]      k2 → "Örgütün öncesindeki para düzeni için tutulan kayıt, düzenin 44 ülke arasındaki ticari ilişkilerin kurallarını …" — 3 atom doğrulandı; 2 ad ölçülemedi
+- undefined k2 → "Ticaret örgütünün kuruluşunun bu düzenin sona ermesinden sonraya düşmesi, savaş sonrası kurumsal mimarinin tek…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - undefined k1 → "Örgütün karar alma usulü, uyuşmazlık çözüm mekanizmasının işleyişi, katılım süreçleri ve örgütsel yapısı burad…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 6 OK · 0 ISARET · 0 HATA
+**Özet:** 7 OK · 0 ISARET · 0 HATA

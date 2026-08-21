@@ -105,6 +105,17 @@ Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yakl
 5,42 milyardır.[^k3] Üye devletlerin toplam nüfusuna dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
+## Aynı zincirin iktisadi kanadı
+
+Aynı hazırlık dizisinin iktisadi kanadı için tutulan kayıt, düzenin 44 ülke
+arasındaki ticari ilişkilerin kurallarını belirlediğini ve delegelerin 1-22
+Temmuz 1944 arasında müzakere edip anlaşmayı son gün imzaladığını yazar.[^k2]
+
+Aynı kayıt, düzenin 1976'daki Jamaika Anlaşmaları'na kadar sürdüğünü
+kaydeder.[^k2] Güvenlik kanadının 1945'te, para kanadının 1944'te kurulmuş
+olması,[^k1][^k2] savaş sonrası düzenin iki ayağının bir yıl arayla
+tasarlandığını gösterir.
+
 ## Bu dosyanın sınırı
 
 Barışı koruma operasyonları, insan hakları mekanizmaları, Güvenlik Konseyi veto
