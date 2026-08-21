@@ -2685,7 +2685,7 @@ isler:
   - id: tartisma-tarim-devrimi-neden
     tip: tartisma
     baslik: Tarım neden başladı?
-    durum: uretiliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

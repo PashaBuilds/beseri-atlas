@@ -21,6 +21,7 @@ ilgili:
   - olay-neolitik-devrim
   - donem-01
   - olay-gobeklitepe
+  - tartisma-tarim-devrimi-neden
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

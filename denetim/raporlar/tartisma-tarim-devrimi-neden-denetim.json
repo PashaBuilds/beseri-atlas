@@ -1,0 +1,79 @@
+{
+  "id": "tartisma-tarim-devrimi-neden",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:40:12.406Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, toplulukları tarım geliştirmeye iten etkenlere dair öne çıkan kuramları birbirini dışlamayan kuramlar olarak sunar ve dördünü adıyla sayar: Vaha Kuramı,",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Vaha, Kuramı, Tepelik, Yamaçlar"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gordon Childe tarafından yaygınlaştırıldığını ve Childe'ın Man Makes Himself adlı kitabında özetlendiğini yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tepelik Yamaçlar hipotezini 1948'de Robert John Braidwood'un önerdiğini ve tarımın Toros ile Zagros dağlarının tepelik yamaçlarında başladığını ileri sürdüğünü ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şölen modelini Brian Hayden'a, Demografik kuramları ise Carl Sauer'e ve bunları uyarlayan Lewis Binford ile Kent Flannery'ye bağlar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dört kuramın kırk yıldan uzun bir aralığa yayılması, tartışmanın tek bir kanıt kümesiyle kapanmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Vaha Kuramı'nın arkeologlar arasında artık az destek gördüğünü; sonraki iklim verilerinin bölgenin kuruduğunu değil nemlendiğini düşündürdüğünü yazar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Vaha, Kuramı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuramın kendi kanıtıyla zayıflatılabilmesi, atlasın şu kuralının dayanağıdır: bir kuram aktarılırken hangi kanıtın onu desteklediği ve hangisinin zayıflattı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kuramların ortak konusu için tutulan kayıt, evcilleştirmeyi insanlar ile bitkiler ya da hayvanlar arasında çok kuşaklı bir ilişki olarak tanımlar ve insanların ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sürecin çok kuşaklı olarak tanımlanması, \"tarım ne zaman başladı\" sorusuna tek bir yıl verilemeyeceğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ürün verimi serisinde dünya buğday verimi 1961'de yaklaşık 1,09 ton, 2023'te yaklaşık 3,86 tondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tarımın başlangıcı ile veriminin ölçülebildiği ilk yıl arasındaki bu boşluk, kuramların neden sayıyla değil kanıt yorumuyla tartışıldığını gösterir; seri dosyas",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas dört pozisyondan hiçbirini benimsemez; kaynağın kendi ifadesiyle bunlar birbirini dışlamayan kuramlardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

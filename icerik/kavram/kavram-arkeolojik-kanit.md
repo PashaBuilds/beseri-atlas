@@ -14,6 +14,7 @@ ilgili:
   - kavram-birincil-kaynak
   - kavram-tarihsel-iklimbilim
   - tartisma-iklim-ve-cokus
+  - tartisma-tarim-devrimi-neden
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

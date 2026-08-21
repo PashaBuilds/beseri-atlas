@@ -22,6 +22,7 @@ ilgili:
   - tartisma-tarim-devrimi-ilerleme-mi
   - kavram-longue-duree
   - kavram-donemlendirme
+  - tartisma-tarim-devrimi-neden
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

@@ -1,0 +1,28 @@
+{
+  "id": "tartisma-tarim-devrimi-neden",
+  "gecis": 3,
+  "zaman": "2026-08-21T12:40:23.697Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Şölen modelini Brian Hayden'a, Demografik kuramları ise Carl Sauer'e ve bunları uyarlayan Lewis Binford ile Kent Flannery'ye bağlar.[^k1] Dört kuramın kırk yıldan uzun bir aralığa ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sürecin çok kuşaklı olarak tanımlanması,[^k3] \"tarım ne zaman başladı\" sorusuna tek bir yıl verilemeyeceğini gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tarımın başlangıcı ile veriminin ölçülebildiği ilk yıl arasındaki bu boşluk,[^k2] kuramların neden sayıyla değil kanıt yorumuyla tartışıldığını gösterir; seri [Tarımsal verim](/ver",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}
