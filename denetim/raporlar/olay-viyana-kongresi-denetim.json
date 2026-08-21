@@ -1,0 +1,67 @@
+{
+  "id": "olay-viyana-kongresi",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:21:00.014Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Viyana Kongresi düzenlemesi, siyasi sınırların korunmasını, güç dengesini ve nüfuz alanlarına saygıyı vurgulayan ve Birinci Dünya Savaşı'nın patlak vermesine ka",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Büyük güçler daha önce Fransa'ya karşı savaşan uluslar birliği olan Altıncı Koalisyon'un çekirdeğini oluşturmuştu; Napolyon'un yenilgisinin eşiğinde ortak konum",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Chaumont Antlaşması, on yıllar boyunca güç dengesini oluşturan Avrupa İttifakı'nın temel taşı haline geldi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kısmi düzenlemelerin içeriği de kayıtlıdır: konfedere bir Almanya'nın kurulması, İtalya'nın bağımsız devletlere bölünmesi, İspanya'da Bourbon krallarının geri g",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Avusturya'yı Dışişleri Bakanı Prens von Metternich ve yardımcısı Baron Johann von Wessenberg temsil ediyordu; Avusturyalılar muhafazakâr ulusları desteklemeyi v",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birleşik Krallık önce Dışişleri Bakanı Vikont Castlereagh, ardından Castlereagh'ın Şubat 1815'te İngiltere'ye dönüşünden sonra Wellington Dükü tarafından temsil",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kurulan usul sonraki kuşaklarca da kullanıldı: Viyana Kongresi, Kırım Savaşı'nı çözen ve Fransa'nın aracılık ettiği 1856 barış konferansına (Paris Kongresi) ilh",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Düzenin karşılık verdiği süreç, Fransa'da 1789'daki Etats-Généraux ile başlayan ve 9 Kasım 1799'daki 18 Brumaire Darbesi ile sona eren siyasi ve toplumsal değiş",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kongrenin siyasi sınırların korunmasına verdiği ağırlık, bu sürecin ürettiği sınır değişikliklerine bir yanıttır; devrimin kendisi dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyardır.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

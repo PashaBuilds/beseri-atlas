@@ -1,0 +1,35 @@
+{
+  "id": "olay-fransiz-devrimi",
+  "gecis": 3,
+  "zaman": "2026-08-21T05:21:26.436Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Krizin teknik nedeni bir yönetim başarısızlığıdır. Kaynağın kaydına göre vergi oranları bölgeden bölgeye büyük ölçüde değişiyor, çoğu zaman resmî tutarlardan farklı oluyor ve tutar",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Aynı kayda göre sistemi basitleştirme girişimleri, mali politikayı onaylayan bölgesel Parlementolarca engellendi ve ortaya çıkan çıkmaz 1789 Etats-Généraux'sunun toplanmasına yol a",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Toplanmanın kendisi olağandışıydı. Kaynağa göre mali kriz ve yaygın toplumsal sıkıntı, Mayıs 1789'da Etats-Généraux'nun toplanmasına yol açtı; bu, meclisin 1614'ten beri ilk toplan",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu talebin fikrî zemini de kayıtlıdır: \"Üçüncü Sınıf Nedir?\" başlıklı metin ruhban sınıfının ve soyluluğun ayrıcalığını kınadı ve Üçüncü Sınıf'ın ulusu temsil ettiğini ve tek başın",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

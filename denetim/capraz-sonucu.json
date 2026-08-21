@@ -1,8 +1,25 @@
 {
-  "zaman": "2026-08-21T05:12:27.731Z",
-  "makale_sayisi": 74,
-  "celiskiler": [],
+  "zaman": "2026-08-21T05:22:00.296Z",
+  "makale_sayisi": 80,
+  "celiskiler": [
+    {
+      "tur": "donem-tarih-uyusmazligi",
+      "makaleler": [
+        "olay-amerikan-devrimi"
+      ],
+      "detay": "donem 11 araligi 1789–1848 ile makale araligi 1763–1783 hic kesismiyor"
+    }
+  ],
   "incelenecek": [
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-viyana-kongresi",
+        "aktor-osmanli-imparatorlugu"
+      ],
+      "detay": "\"Rusya\" — olay-viyana-kongresi: 1815 / aktor-osmanli-imparatorlugu: 1792"
+    },
     {
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
@@ -11,6 +28,15 @@
         "olay-ikinci-dunya-savasi"
       ],
       "detay": "\"Japonya\" — donem-13: 1922 / olay-ikinci-dunya-savasi: 1929"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-1848-devrimleri",
+        "olay-viyana-kongresi"
+      ],
+      "detay": "\"Hollanda\" — olay-1848-devrimleri: 1847 / olay-viyana-kongresi: 1830"
     },
     {
       "tur": "varlik-yil-ayrismasi",

@@ -1,0 +1,79 @@
+{
+  "id": "olay-amerikan-devrimi",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:20:59.768Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Grenville bakanlığı 1763 Kraliyet Bildirisi'ni yayımlayarak Apalaş Dağları ile Mississippi Nehri arasındaki toprakları sömürge yerleşimine kapalı bir Yerli Bölg",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Apalaş Dağları'nın ötesine artan Britanya göçü ve General Jeffery Amherst'in politikalarına yönelik Yerli Amerikalı öfkesi Pontiac Savaşı'na (1763–1766) yol açm",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mali sorun açık biçimde ifade edildi: Grenville, ek gelir sağlamak için sömürgelere damga vergisi konmasının gerekli olabileceğini belirtti ama sömürgelere geli",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Parlamento Damga Yasası'nı Mart 1765'te kabul etti; yasa sömürgelere ilk kez doğrudan vergi koyuyordu ve bütün resmî belgelerin, gazetelerin, almanakların ve br",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kaydettiği ayrım burada belirleyicidir: sömürgeciler verginin kendisine itiraz etmiyorlardı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, dönemin fikir dünyasını ayrı bir başlık altında sıralar: İngilizlerin hakları, Britanya anayasası, Amerikan Aydınlanması, cumhuriyetçilik ve liberalizm;",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı bölümde Şeker Yasası, Para Yasası, İskân Yasaları, 1765 Damga Yasası, \"temsilsiz vergi olmaz\" sloganı, Özgürlük Oğulları, Damga Yasası Kongresi, Haklar ve ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı on yılların sonunda Fransa'da bir metin yayımlandı: 1789 tarihli İnsan ve Yurttaş Hakları Bildirisi.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metin, her siyasi birliğin amacının insanın doğal ve zamanaşımına uğramaz haklarının korunması olduğunu ilan eder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki metnin aynı kavram dağarcığını paylaşması —bir yanda temsil ve haklar tartışması, öte yanda doğal ve zamanaşımına uğramaz haklar— dönemin fikir dolaşımının ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki metnin aynı kavram dağarcığını paylaşması —bir yanda temsil ve haklar tartışması, öte yanda doğal ve zamanaşımına uğramaz haklar— dönemin fikir dolaşımının ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyondur.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

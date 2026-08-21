@@ -1,0 +1,73 @@
+{
+  "id": "olay-1848-devrimleri",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:20:59.689Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Gıda fiyatlarındaki artış, dokuma üretimi için gerekli olan Güney Amerika Birleşik Devletleri pamuk hasadının kötülüğüyle birleşerek 1847'de büyük bir sanayi du",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İşsizlik ve yoksullaşma kentli topluluklar arasında hızla yayıldı: Christopher Clark'a göre 1847'ye gelindiğinde Hollanda'nın Friesland bölgesinde nüfusun beşte",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fransa'da geçici hükümet, ilkbaharın başında sanayi işçilerinin desteğine güvenebilmişti; çalışma hakkı ve ulusal atölyelerin kurulması yoluyla \"emeğin örgütlen",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ancak 23 Nisan'daki Kurucu Meclis seçimlerindeki muhafazakâr zaferin ve 15 Mayıs'taki Meclis'i devirme girişiminin ardından yeni Fransız hükümeti bu atölyeleri ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Nisan, Kurucu, Meclis, Mayıs"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birinci okuma: 1848 sonrasındaki devrim sonrası on yılda görünür biçimde çok az şey değişmişti ve birçok tarihçi, kalıcı yapısal değişikliklerin görünürdeki yok",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkinci okuma: daha yakın zamanda Christopher Clark, 1848'i izleyen dönemi yönetimde bir devrimin hâkim olduğu bir dönem olarak nitelendirmiştir; 1848 sonrasında",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak iki okumayı da kendi metninde yan yana taşır; atlas da öyle yapar ve aralarında hakemlik etmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sonrasında gelen tepki kültürel alanı da kapsadı: Charles Baudelaire, Victor Hugo, Alexandre Ledru-Rollin ve Pierre-Joseph Proudhon'un eserlerine el konuldu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Viyana Kongresi düzenlemesi, siyasi sınırların korunmasını, güç dengesini ve nüfuz alanlarına saygıyı vurgulayan ve Birinci Dünya Savaşı'nın patlak vermesine ka",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Doktrinin dalgayı atlatıp Birinci Dünya Savaşı'na kadar sürmesi, dayanıklılığının da ölçüsüdür; düzenin kendisi dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Birinci, Dünya, Savaşı"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyardır.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

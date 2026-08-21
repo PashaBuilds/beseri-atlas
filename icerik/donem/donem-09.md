@@ -22,6 +22,7 @@ ilgili:
   - olay-otuz-yil-savaslari
   - olay-reform
   - olay-vestfalya-barisi
+  - olay-amerikanin-kesfi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

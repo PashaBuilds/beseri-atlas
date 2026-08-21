@@ -153,3 +153,25 @@ hat_duzeltmesi:
     gerekce: >-
       Onceki turlarla ayni: "tek bir ogretinin", "tek renkli", "tek dogrudan
       karsilasma" gibi sayi anlaminda kullanilan ifadeler tetikliyor.
+
+# Faz 2 turu B13: Atlantik devrimleri kumesi — 2026-08-21
+  - bulgu: >-
+      Curutucu, olay-fransiz-devrimi ve olay-1848-devrimleri'nde bes ayri
+      nedensellik cumlesini tek kaynaga dayandigi icin isaretledi.
+    aksiyon: >-
+      Bes cumle de "kaynagin kaydina gore", "ayni kayda gore", "kaynaga gore",
+      "kaynagin aktardigi bicimiyle" ile acikca kaynaga atfedildi. Kalan
+      isaretler dosyanin basindaki genel tek-kaynakli-nedensellik karari
+      kapsamindadir: bunlar bagimsiz nedensellik iddialari degil, referans
+      eserin KENDI nedensellik anlatiminin aktarimidir.
+  - bulgu: >-
+      olay-1848-devrimleri yazilirken makale once `tartismali` isaretlenmis ve
+      KAPI 9'u gecmek icin `::tartismali` yonergesi ILGISIZ bir haritaya
+      (tartisma-romanin-cokus-nedeni) baglanmisti.
+    aksiyon: >-
+      Bag kaldirildi. Bu, Faz 0'da bir kez yasanan "kapiyi susturmak icin
+      yanlis bag kurma" hatasinin tekrariydi ve uretici oturum tarafindan
+      yakalandi. Dogru cozum: makalenin olgusal tabani `yaygin`dir; tartismali
+      olan sey yorumdur ve iki yorum da kaynagin kendi ifadeleriyle, hakemlik
+      yapilmadan metinde yan yana verilmistir. Kapi gevsetilmedi, etiket
+      duzeltildi.

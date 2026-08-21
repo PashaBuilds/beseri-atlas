@@ -1,0 +1,79 @@
+{
+  "id": "olay-haiti-devrimi",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:20:59.954Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Haiti Devrimi, köleleştirilmiş Afrikalıların Saint-Domingue'deki Fransız sömürge yönetimine karşı başarıya ulaşan bir ayaklanmasıydı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Devrim 21 Ağustos 1791'de başladı ve 1 Ocak 1804'te sona erdi; toplam süre 12 yıl, 4 ay, 1 hafta ve 4 gündür.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yer Hispaniola, sonuç Haiti zaferidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın verdiği on iki yılı aşkın süre, ayaklanma sözcüğünün çağrıştırdığı ani kopuştan farklıdır: bu, kesintili bir savaş dizisidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak karşı tarafı üç ayrı evrede sıralar: 1793–1798 arasında Fransız Cumhuriyeti, 1798–1802 arasında yine Fransız Cumhuriyeti, 1802–1804 arasında ise Armée In",
+      "durum": "OK",
+      "not": "8 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak devrimi Atlantik Devrimleri ile Fransız Devrim ve Napolyon Savaşları'nın parçası olarak sınıflandırır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayıp sayıları taraflara göre verilmiştir: Britanya için 100.000 ölü ya da yaralı, Fransa için 57.000–75.000 ölü (bunun 37.000'i muharebede), beyaz sömürgeciler",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "1789 tarihli İnsan ve Yurttaş Hakları Bildirisi, her siyasi birliğin amacının insanın doğal ve zamanaşımına uğramaz haklarının korunması olduğunu ilan eder.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, bu ilişkiyi kendi başlıklarında da izler: Aydınlanma düşüncesinde kölelik, Fransız Devrimi'nin etkileri ve Fransız ile Haiti devrimleri arasındaki ilişk",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, devrim sonrası dönemi bağımsızlık borcu, diğer kölelik karşıtı ve sömürgecilik sonrası hareketler üzerindeki etki ve Amerika kıtasındaki kölelik üzerind",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kullandığı bağımsızlık borcu ifadesi, bağımsızlığın mali bir yük karşılığında tanındığını işaret eder; bu, sonraki dönemlerin tartışma konularından bir",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyondur.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

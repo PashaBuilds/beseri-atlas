@@ -16,6 +16,7 @@ ilgili:
   - donem-08
   - olay-mogol-fetihleri
   - olay-justinyen-vebasi
+  - olay-amerikanin-kesfi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

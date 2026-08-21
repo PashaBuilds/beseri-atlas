@@ -1,0 +1,55 @@
+{
+  "id": "olay-amerikanin-kesfi",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:20:59.837Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kolomb değişimi bitkileri, hayvanları, hastalıkları ve kültürü aktardı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Crosby tarafından çevre tarihi kitabında kullanıldı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mısır, patates, domates, tütün, manyok, tatlı patates ve acı biber gibi Amerika kökenli ürünler dünya çapında önemli ürünler haline geldi; Eski Dünya'nın pirinc",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak bu aktarımın sonucunu açıkça yazar: birçok bitki ve hayvan türü, Eski Dünya'da gıda üretimindeki ve nüfustaki artışları destekledi.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Eski, Dünya"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, değişimin taşıdığı unsurlar arasında frengi ve çiçek hastalığını da sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1500'de yaklaşık 503,1 milyon, 1600'de yaklaşık 516,1 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yüzyıllar Eski Dünya'nın kendi içinde de dönüşüm dönemidir: Osmanlı Devleti'nin klasik taşra düzeni tımarlı eyaletler ve özel statülü birimlerden oluşuyord",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Atlantik köle ticaretini ayrı bir başlık altında ele alır; bu dosya o başlığı kapsamaz.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

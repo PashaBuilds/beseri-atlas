@@ -1,0 +1,21 @@
+{
+  "id": "olay-1848-devrimleri",
+  "gecis": 3,
+  "zaman": "2026-08-21T05:21:26.433Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Dalganın öncesinde bir iktisadi kriz vardır. Kaynağa göre gıda fiyatlarındaki artış, dokuma üretimi için gerekli olan Güney Amerika Birleşik Devletleri pamuk hasadının kötülüğüyle ",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Birinci okuma, kaynağın aktardığı biçimiyle: 1848 sonrasındaki devrim sonrası on yılda görünür biçimde çok az şey değişmişti ve birçok tarihçi, kalıcı yapısal değişikliklerin görün",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "olay-fransiz-devrimi",
+  "gecis": 2,
+  "zaman": "2026-08-21T05:20:59.899Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Fransız Devrimi, Fransa'da 1789'daki Etats-Généraux ile başlayan ve 9 Kasım 1799'daki 18 Brumaire Darbesi ile sona eren bir siyasi ve toplumsal değişim dönemidi",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Vergi oranları bölgeden bölgeye büyük ölçüde değişiyor, çoğu zaman resmî tutarlardan farklı oluyor ve tutarsız biçimde toplanıyordu; karmaşıklık ve hesap verebi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sistemi basitleştirme girişimleri, mali politikayı onaylayan bölgesel Parlementolarca engellendi ve ortaya çıkan çıkmaz 1789 Etats-Généraux'sunun toplanmasına y",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mali kriz ve yaygın toplumsal sıkıntı, Mayıs 1789'da Etats-Généraux'nun toplanmasına yol açtı; bu, meclisin 1614'ten beri ilk toplantısıydı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üçüncü Sınıf'ın temsilcileri ayrılarak Haziran'da kendilerini Ulusal Meclis olarak yeniden kurdular; 14 Temmuz'da Paris'te Bastille'in basılması buna yol açtı.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sınıf, Haziran, Ulusal, Meclis"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu talebin fikrî zemini de kayıtlıdır: \"Üçüncü Sınıf Nedir?\" başlıklı metin ruhban sınıfının ve soyluluğun ayrıcalığını kınadı ve Üçüncü Sınıf'ın ulusu temsil e",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Üçüncü, Sınıf, Nedir, Ulusal"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aralık'ta kral, Üçüncü Sınıf'ın temsilini iki katına çıkarmayı kabul etti ama oyların nasıl sayılacağı sorusunu açık bıraktı.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Üçüncü, Sınıf"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "1789 tarihli İnsan ve Yurttaş Hakları Bildirisi, her siyasi birliğin amacının insanın doğal ve zamanaşımına uğramaz haklarının korunması olduğunu ilan eder.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bildiri, bu hakları Yüce Varlık'ın huzurunda ve onun himayesinde ilan ettiğini belirtir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yüce, Varlık"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Louis'nin idamı, Fransız Devrim Savaşları ve Kasım 1799'da Fransız Konsüllüğü'nün kurulması.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak devrimin mirasını da not eder: devrimin birçok fikri liberal demokrasinin temel ilkeleri sayılır ve değerleri modern Fransız siyasi söyleminin merkezinde",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Fransız"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kronolojisinde savaşlar Konsüllük'ten önce gelir; bunların ardından kurulan düzen dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Konsüllük"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 1848'de yaklaşık 1,27 milyardır.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}
