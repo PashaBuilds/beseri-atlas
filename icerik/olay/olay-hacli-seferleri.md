@@ -17,6 +17,7 @@ ilgili:
   - aktor-buyuk-selcuklu
   - aktor-bizans-imparatorlugu
   - olay-malazgirt
+  - olay-kudus-fethi-1187
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

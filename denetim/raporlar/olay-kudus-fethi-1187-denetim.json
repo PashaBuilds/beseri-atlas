@@ -1,0 +1,79 @@
+{
+  "id": "olay-kudus-fethi-1187",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:04:47.072Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kuşatma 20 Eylül - 2 Ekim 1187 arasında, yani bir hafta beş gün sürdü; yeri Kudüs, sonucu Eyyûbî zaferidir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak karşı tarafta Kudüs Krallığı'nın yanı sıra Hospitalier Şövalyeleri, Tapınak Şövalyeleri, Aziz Lazarus Tarikatı, Montjoie Tarikatı ve Trablus Kontluğu'nu ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kuşatmada savunanların altı ayrı başlık altında sayılması, savunmanın tek bir hükümdarlık altında değil bir tarikatlar ve devletçikler bileşimi olarak örgüt",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuşatan tarafta Selahaddin, Âdil ve Efdal ile Mısırlı emirler sayılır; savunan tarafta İbelinli Balian ve Herakleios'un adları teslim işaretiyle kaydedilir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir komutanın adının yanına teslim kaydı düşülmesi, sonucun bir imha değil bir anlaşma olduğunu gösterir; kuşatmanın on iki günde bitmesi de bununla uyumludur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir komutanın adının yanına teslim kaydı düşülmesi, sonucun bir imha değil bir anlaşma olduğunu gösterir; kuşatmanın on iki günde bitmesi de bununla uyumludur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak toprak değişimini şöyle kaydeder: Kudüs teslim edildi ve Müslümanlara iade edildi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "\"İade\" sözcüğü bir hukuki iddiayı içerir ve kaynağın kendi çerçevesidir; atlas bu çerçeveyi benimsemez, aktarır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kaynak Kudüs'ün kendi tarih çizelgesinde 1099-1187 arasını Haçlı, 1187-1517 arasını Geç Ortaçağ dönemi olarak adlandırır.",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kuşatan taraf, 1171'de Selahaddin tarafından kurulan ve 1260'a kadar süren devlettir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1000 yılı için yaklaşık 314,7 milyon, 1300 yılı için yaklaşık 456,2 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuşatma öncesi durum, şehrin içindeki hazırlık, fetih günleri ve sonrası burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

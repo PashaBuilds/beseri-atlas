@@ -27,6 +27,8 @@ ilgili:
   - aktor-fatimi-hilafeti
   - aktor-khmer-imparatorlugu
   - aktor-delhi-sultanligi
+  - olay-kudus-fethi-1187
+  - aktor-eyyubi-devleti
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

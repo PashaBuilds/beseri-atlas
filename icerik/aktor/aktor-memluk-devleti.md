@@ -17,6 +17,7 @@ ilgili:
   - donem-08
   - aktor-osmanli-imparatorlugu
   - aktor-mogol-imparatorlugu
+  - aktor-eyyubi-devleti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

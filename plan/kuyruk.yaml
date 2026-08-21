@@ -1322,7 +1322,7 @@ isler:
   - id: aktor-eyyubi-devleti
     tip: aktor
     baslik: Eyyûbî Devleti
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-07
@@ -1331,7 +1331,7 @@ isler:
   - id: olay-kudus-fethi-1187
     tip: olay
     baslik: Kudüs'ün 1187'de alınması
-    durum: bekliyor
+    durum: onaylandi
     faz: 2
     bagimlilik:
       - donem-07
