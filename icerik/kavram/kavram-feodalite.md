@@ -15,6 +15,7 @@ ilgili:
   - aktor-karolenj-imparatorlugu
   - kavram-milliyetcilik
   - kavram-timar
+  - tartisma-feodalite-kavrami
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

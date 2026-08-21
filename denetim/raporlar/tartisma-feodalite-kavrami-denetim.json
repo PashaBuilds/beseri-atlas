@@ -1,0 +1,73 @@
+{
+  "id": "tartisma-feodalite-kavrami",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:28:13.898Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu haritanın çıkış noktası kaynağın kendi nitelemesidir: tartışma sürüyor ve sonuçsuz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak klasik tanımı 1944'e, geniş tanımı 1939'a tarihler; ilki savaşçı soyluluğun karşılıklı hukuki ve askerî yükümlülüklerini lord, vasal ve tımar kavramları ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı sözcüğün beş yıl arayla iki farklı kapsamla tanımlanması, atlasın şu kuralının dayanağıdır: bu atlasta feodalite sözcüğü, hangi tanımın kullanıldığı belirt",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, dar tanımın sahibinin kendi ele alışının yalnızca sözcüğün dar, teknik ve hukuki anlamıyla ilgili olduğunu belirttiğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir tanım sahibinin kendi tanımının kapsamını sınırlaması, sonraki tartışmanın bir yanlış anlamadan değil bir kapsam genişletmesinden doğduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sıklıkla karşılaştırılan bir başka toprak düzeni için tutulan kayıt, o düzeni Osmanlılar'da devlete ait toprakların askerî ve idarî gayelerle tahsisine dayalı s",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki düzeni birbirine çevirmez; kullanılan kaynak bölümlerinde böyle bir eşleme belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas iki düzeni birbirine çevirmez; kullanılan kaynak bölümlerinde böyle bir eşleme belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Geriye dönük adlandırmaya dair bir başka kayıt, siyasi güdümlü anakronizm ile bilinçsiz anakronizmi ayrı başlıklar olarak tutar ve sahteciliğin saptanmasına ayr",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu ayrımın kaydedilmesi, atlasın anakronizm kapısını neden bir hüküm değil bir işaret olarak kullandığının dayanağıdır; genel sorun dosyasında, kavramın kendisi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kendisi tartışmayı sonuçsuz diye niteler ve bir hüküm vermez; bu atlas da vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

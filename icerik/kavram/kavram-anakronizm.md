@@ -16,6 +16,7 @@ ilgili:
   - kavram-donemlendirme
   - kavram-kast
   - kavram-yazi-sistemi
+  - tartisma-feodalite-kavrami
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

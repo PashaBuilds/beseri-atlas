@@ -13,6 +13,7 @@ ilgili:
   - dusunur-konfucyus
   - dusunur-platon
   - donem-04
+  - tartisma-eksen-cagi-gercek-mi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

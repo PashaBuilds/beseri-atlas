@@ -2378,3 +2378,299 @@ isler:
     bagimlilik: []
     atanan_parti: null
     deneme: 1
+  - id: tartisma-eksen-cagi-gercek-mi
+    tip: tartisma
+    baslik: Eksen Çağı gerçek bir olgu mu?
+    durum: onaylandi
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-feodalite-kavrami
+    tip: tartisma
+    baslik: Feodalite kullanışlı bir kavram mı?
+    durum: onaylandi
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-mogol-etkisi
+    tip: tartisma
+    baslik: Moğol istilası yıkım mı entegrasyon mu?
+    durum: uretiliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-kara-olumun-sonuclari
+    tip: tartisma
+    baslik: Kara Ölüm Avrupa'yı dönüştürdü mü?
+    durum: uretiliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-osmanli-gerileme-tezi
+    tip: tartisma
+    baslik: Osmanlı gerileme tezi geçerli mi?
+    durum: uretiliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-sanayi-devrimi-neden-ingiltere
+    tip: tartisma
+    baslik: Sanayi Devrimi neden İngiltere'de?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-somurgeciligin-ekonomik-bilancosu
+    tip: tartisma
+    baslik: Sömürgeciliğin ekonomik bilançosu
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-fransiz-devrimi-yorumlari
+    tip: tartisma
+    baslik: Fransız Devrimi nasıl yorumlanmalı?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-milliyetcilik-ne-zaman
+    tip: tartisma
+    baslik: Milliyetçilik ne zaman doğdu?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-ikinci-dunya-savasi-sorumlulugu
+    tip: tartisma
+    baslik: İkinci Dünya Savaşı'nın sorumluluğu
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-soguk-savasin-baslangici
+    tip: tartisma
+    baslik: Soğuk Savaş'ı kim başlattı?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-kalkinma-neden-basarisiz
+    tip: tartisma
+    baslik: Kalkınma politikaları neden başarısız oldu?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: tartisma-demografik-donum-sonuclari
+    tip: tartisma
+    baslik: Nüfus daralması ne anlama geliyor?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-yasam-beklentisi-1770-2023
+    tip: veri
+    baslik: Yaşam beklentisi, 1770–2023
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-kisi-basi-gsyh-1-2022
+    tip: veri
+    baslik: Kişi başına GSYH, MS 1–2022
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-savas-kayiplari-1800-2023
+    tip: veri
+    baslik: Savaş kayıpları, 1800–2023
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-kentlesme-orani-1500-2023
+    tip: veri
+    baslik: Kentleşme oranı, 1500–2023
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-dogurganlik-hizi-1950-2023
+    tip: veri
+    baslik: Toplam doğurganlık hızı, 1950–2023
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-okuryazarlik-1475-2023
+    tip: veri
+    baslik: Okuryazarlık, 1475–2023
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-enerji-tuketimi-1800-2023
+    tip: veri
+    baslik: Enerji tüketimi, 1800–2023
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: veri-kuresel-esitsizlik
+    tip: veri
+    baslik: Küresel gelir eşitsizliği
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-thukydides-peloponnesos
+    tip: kaynak
+    baslik: Thukydides — Peloponnesos Savaşı
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-ibn-haldun-mukaddime
+    tip: kaynak
+    baslik: İbn Haldûn — Mukaddime
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-machiavelli-prens
+    tip: kaynak
+    baslik: Machiavelli — Prens
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-hobbes-leviathan
+    tip: kaynak
+    baslik: Hobbes — Leviathan
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-smith-uluslarin-zenginligi
+    tip: kaynak
+    baslik: Adam Smith — Ulusların Zenginliği
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-clausewitz-savas-uzerine
+    tip: kaynak
+    baslik: Clausewitz — Savaş Üzerine
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-gibbon-roma
+    tip: kaynak
+    baslik: Gibbon — Roma İmparatorluğu'nun Gerileyiş ve Çöküşü
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-mackinder-cografi-eksen
+    tip: kaynak
+    baslik: Mackinder — Tarihin Coğrafi Ekseni
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-mahan-deniz-gucu
+    tip: kaynak
+    baslik: Mahan — Deniz Gücünün Tarihe Etkisi
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-braudel-akdeniz
+    tip: kaynak
+    baslik: Braudel — Akdeniz
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-polanyi-buyuk-donusum
+    tip: kaynak
+    baslik: Polanyi — Büyük Dönüşüm
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-carr-tarih-nedir
+    tip: kaynak
+    baslik: E. H. Carr — Tarih Nedir?
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-hobsbawm-caglar
+    tip: kaynak
+    baslik: Hobsbawm — Çağlar dörtlemesi
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-pomeranz-buyuk-ayrisma
+    tip: kaynak
+    baslik: Pomeranz — The Great Divergence
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-tooze-felaketin-bedeli
+    tip: kaynak
+    baslik: Tooze — The Wages of Destruction
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0
+  - id: kaynak-milanovic-kuresel-esitsizlik
+    tip: kaynak
+    baslik: Milanović — Global Inequality
+    durum: bekliyor
+    faz: 4
+    bagimlilik: []
+    atanan_parti: null
+    deneme: 0

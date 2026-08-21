@@ -14,6 +14,7 @@ ilgili:
   - kavram-millet-sistemi
   - kavram-feodalite
   - kavram-vergi
+  - tartisma-feodalite-kavrami
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

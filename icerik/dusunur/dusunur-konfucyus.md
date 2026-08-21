@@ -16,6 +16,7 @@ ilgili:
   - aktor-han-imparatorlugu
   - tartisma-tarihsel-sayilar-nasil-okunur
   - kavram-eksen-cagi
+  - tartisma-eksen-cagi-gercek-mi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

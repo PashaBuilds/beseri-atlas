@@ -30,6 +30,7 @@ ilgili:
   - olay-han-hanedani-kurulusu
   - olay-ipek-yolu-kurulusu
   - kavram-eksen-cagi
+  - tartisma-eksen-cagi-gercek-mi
 okuma_onerisi: []
 serit:
   - bolge: dogu-asya

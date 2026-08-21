@@ -31,6 +31,7 @@ ilgili:
   - aktor-eyyubi-devleti
   - olay-mansa-musa-haci
   - kavram-feodalite
+  - tartisma-feodalite-kavrami
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

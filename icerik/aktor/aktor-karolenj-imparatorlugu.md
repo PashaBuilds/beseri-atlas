@@ -15,6 +15,7 @@ etiketler: [karolenj, sarlman, imparator-unvani, erken-ortacag]
 ilgili:
   - donem-06
   - kavram-feodalite
+  - tartisma-feodalite-kavrami
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

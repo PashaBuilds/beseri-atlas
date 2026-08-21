@@ -13,6 +13,7 @@ ilgili:
   - kavram-anakronizm
   - kavram-longue-duree
   - donem-01
+  - tartisma-eksen-cagi-gercek-mi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

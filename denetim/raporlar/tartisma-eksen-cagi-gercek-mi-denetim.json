@@ -1,0 +1,79 @@
+{
+  "id": "tartisma-eksen-cagi-gercek-mi",
+  "gecis": 2,
+  "zaman": "2026-08-21T10:28:13.882Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu haritanın çıkış noktası, kaynağın kendi cümlesidir: Eksen Çağı'nın tarihsel geçerliliği tartışmalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Eksen, Çağı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kavramı ortaya atan düşünürün bu çağdan kilit düşünürleri belirlediğini ve bu düşünürlerin ortaya çıktığı her bölgeye ortak özellikler saptadığını yazar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı madde, eleştirileri de ayrı ayrı sıralar: Yunanistan, Levant, Hindistan ve Çin'de eşzamanlı ortaya çıktığı varsayılan düşünsel gelişmeler arasında gösteril",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tanıma uymadıkları için dışarıda kalan figürlere örnek olarak İsa, Muhammed ve Akhenaton'u verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir dönem tanımının hangi figürleri dışarıda bıraktığının ad ad kaydedilmesi, atlasın bu haritayı neden açtığının dayanağıdır: bir kavramın sınırı, kapsadığı ka",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, bu eleştirilere rağmen Eksen Çağı'nın etkili bir fikir olmayı sürdürdüğünü ve birçok araştırmacının dinî ve felsefi söylemde derin değişimlerin gerçekte",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Eksen, Çağı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, atlasın sıkça karşılaştığı bir durumdur: olgu üzerinde uzlaşma, açıklama üzerinde uzlaşmazlık.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Çağın kapsadığı söylenen düşünürlerden biri için tutulan kayıt, tarihleri geleneksel kaydıyla MÖ 551-479 olarak verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "- 347 aralığını, doğum yılının yanındaki soru işaretiyle birlikte verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki düşünürün de tarihlerinin çekinceyle verilmesi, eşzamanlılık iddiasının hangi zeminde kurulduğunu görünür kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki düşünürün de tarihlerinin çekinceyle verilmesi, eşzamanlılık iddiasının hangi zeminde kurulduğunu görünür kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kendisi de kavramın tarihsel geçerliliğinin tartışmalı olduğunu yazar ve bir hüküm vermez; bu atlasın on altı dönemlik omurgasında da bu ad bir dönem s",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

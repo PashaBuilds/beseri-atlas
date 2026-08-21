@@ -19,6 +19,7 @@ ilgili:
   - dusunur-augustinus
   - kavram-eksen-cagi
   - kavram-ikincil-kaynak
+  - tartisma-eksen-cagi-gercek-mi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
