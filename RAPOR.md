@@ -29,7 +29,7 @@ Toplam gövde: **107.474** kelime.
 Nihai skor: **1** (13 ölçülen değer: 13 doğrulandı, 0 çelişki)
 Ham skor: **0.4643** (28 değerlik örneklem, 15 değer bağımsız olarak türetilemedi)
 
-Geçiş 2 (kaynak denetimi): 1861 OK · 4 ISARET · 0 HATA · 1933 programatik olarak ölçülemedi
+Geçiş 2 (kaynak denetimi): 1862 OK · 4 ISARET · 0 HATA · 1933 programatik olarak ölçülemedi
 Kaynak doğrulama oranı: **0.9989**
 Makale başına ortalama kaynak: **3.08**
 Çürütücünün ürettiği itiraz adayı: **458**

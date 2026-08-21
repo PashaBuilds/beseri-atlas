@@ -1,7 +1,7 @@
 {
   "id": "kaynak-hobsbawm-caglar",
   "gecis": 2,
-  "zaman": "2026-08-21T12:18:28.815Z",
+  "zaman": "2026-08-21T12:20:01.761Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -26,6 +26,12 @@
       "iddia": "yüzyıl üzerine bir üçlemenin ilki sayar; devamındaki ciltler The Age of Capital: 1848-1875 ve The Age of Empire: 1875-1914'tür.",
       "durum": "OK",
       "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynaktaki üç kitap adı sırasıyla 1789-1848, 1848-1875 ve 1875-1914 aralıklarını taşır; atlasın dönem listesindeki Devrim Çağı ile Sermaye ve İmparatorluk Çağı ",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 4 ad ölçülemedi"
     },
     {
       "anahtar": "k2",

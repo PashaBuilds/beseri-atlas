@@ -1,5 +1,5 @@
 # Çürütücü raporu — kaynak-hobsbawm-caglar
-_2026-08-21T12:18:38.148Z_
+_2026-08-21T12:20:02.458Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 

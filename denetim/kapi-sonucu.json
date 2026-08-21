@@ -1,7 +1,7 @@
 {
   "mod": "--pre",
-  "zaman": "2026-08-21T12:19:09.648Z",
-  "gecti": false,
+  "zaman": "2026-08-21T12:20:00.997Z",
+  "gecti": true,
   "makale_sayisi": 343,
   "kapilar": [
     {
@@ -13,15 +13,10 @@
     },
     {
       "kapi": "KAPI 2+3 — dipnot butunlugu / kaynak anahtari",
-      "gecti": false,
-      "hata": 1,
+      "gecti": true,
+      "hata": 0,
       "uyari": 3,
-      "hatalar": [
-        {
-          "dosya": "icerik/kaynak/kaynak-hobsbawm-caglar.md",
-          "mesaj": "kaynaksiz iddia paragrafi [yil/tarih]: \"Atlasın dönem listesinde 1789-1848 aralığı Devrim Çağı, 1848-1914 aralığı ise Sermaye ve İ...\""
-        }
-      ]
+      "hatalar": []
     },
     {
       "kapi": "KAPI 4 — terim kilidi",

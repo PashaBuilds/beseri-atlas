@@ -81,9 +81,9 @@ ciltler The Age of Capital: 1848-1875 ve The Age of Empire: 1875-1914'tür.[^k1]
 
 ::tartismali[Atlasın 11 ve 12 numaralı dönem adları bu kitap adlarıyla örtüşür. Bu bir doğrulama değil, bir miras alma durumudur ve burada kaydedilmiştir.]{harita=tartisma-vestfalya-miti}
 
-Atlasın dönem listesinde 1789-1848 aralığı Devrim Çağı, 1848-1914 aralığı ise
-Sermaye ve İmparatorluk Çağı adını taşır; ilk ad kitabın adının karşılığı,
-ikincisi ise iki cildin adlarının birleşimidir. Dönemler
+Kaynaktaki üç kitap adı sırasıyla 1789-1848, 1848-1875 ve 1875-1914
+aralıklarını taşır;[^k1] atlasın dönem listesindeki Devrim Çağı ile Sermaye ve
+İmparatorluk Çağı adları bu adların karşılığı ve birleşimidir. Dönemler
 [1789–1848](/donem/11/) ve [1848–1914](/donem/12/) dosyalarında ele alınıyor.
 
 ## Yirminci yüzyıl cildi
