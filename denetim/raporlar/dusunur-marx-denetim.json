@@ -1,0 +1,85 @@
+{
+  "id": "dusunur-marx",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:04:57.020Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onu 1818-1883 arasında yaşamış ve sıklıkla filozoftan çok eylemci, eserleri komünist rejimlerin kuruluşuna ilham vermiş bir devrimci olarak ele alınan bi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, ahlakın ve ahlaki eleştirinin onun çağdaş kapitalist topluma yönelik eleştirisindeki tam rolünün çokça tartışıldığını ve bu meselelerde yerleşik bir bil",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak toplumsal ve siyasal felsefe bakımından şu konuları sayar: felsefi antropolojisi, tarih kuramı, iktisadi çözümlemesi, çağdaş kapitalist toplumla eleştire",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Altı ayrı başlığın sıralanması, atlasın bu dosyada neden tek bir tez cümlesi kurmadığını gösterir; kaynak bile tek bir başlık kullanmamaktadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, erken yazılarına yabancılaşma anlayışının hâkim olduğunu ve bu teşhisin insan doğası ile onun serpilmesine dair tartışmalı bir anlatıya dayandığını yaza",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir düşünürün kavramlarının dönemlere göre sıralanması, \"Marx şöyle der\" cümlelerinin hangi döneme ait olduğu belirtilmeden kurulamayacağını gösterir; aynı soru",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir önceki kuşağın düşünürü için tutulan kayıt, felsefesine dair üç ayrı okumayı alt başlıklar hâlinde sıralar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki kaydın da yorum çokluğunu ayrı ayrı kaydetmesi, bu iki dosyanın neden tartışmalı olarak işaretlendiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki kaydın da yorum çokluğunu ayrı ayrı kaydetmesi, bu iki dosyanın neden tartışmalı olarak işaretlendiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yaşadığı on yıldaki siyasi dalga için ayrı bir kayıt tutulur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Artı değer kuramı, sınıf mücadelesi, ideoloji anlatısı ve devlet kuramı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işle",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -21,6 +21,7 @@ ilgili:
   - olay-1848-devrimleri
   - olay-napolyon-savaslari
   - dusunur-montesquieu
+  - dusunur-tocqueville
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

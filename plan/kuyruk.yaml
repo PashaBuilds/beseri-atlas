@@ -1765,7 +1765,7 @@ isler:
   - id: dusunur-tocqueville
     tip: dusunur
     baslik: Alexis de Tocqueville
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1773,7 +1773,7 @@ isler:
   - id: dusunur-marx
     tip: dusunur
     baslik: Karl Marx
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1781,7 +1781,7 @@ isler:
   - id: dusunur-mill
     tip: dusunur
     baslik: John Stuart Mill
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

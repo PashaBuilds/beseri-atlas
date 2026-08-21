@@ -1,0 +1,73 @@
+{
+  "id": "dusunur-tocqueville",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:04:57.100Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onun başlıca eserlerini künyeleriyle verir: Amerika'da Demokrasi (1835) ve Eski Rejim ve Devrim (1856); başlıca ilgi alanları tarih, siyaset felsefesi ve",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak Amerika'da Demokrasi altında şu alt başlıkları açar: sivil ve siyasi toplum ile birey, demokrasi ve yeni tiranlık biçimleri, Amerikan toplum sözleşmesi, ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sekiz alt başlığın aynı eser altında sıralanması, bir kitabın tek bir teze indirgenemeyeceğini gösterir; atlas bu dosyada da tek bir tez cümlesi kurmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak Cezayir'e dair görüşlerine ayrı bir bölüm ayırır ve altında 1837 tarihli Cezayir mektupları, 1841 tarihli Cezayir'in fethi üzerine söylev, Kabiliye istil",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yazarın demokrasi bölümleriyle sömürge bölümlerinin aynı maddede yan yana durması, atlasın bir düşünürü tek bir konumla özetlememesinin nedenidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, onun siyasi konumu için bir kaynaktan aktarımla muhafazakâr liberal nitelemesini taşır ve aynı yerde liberal muhafazakâr ile karşılaştırıldığını kaydede",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki sıfatın sırasının değişmesiyle farklı bir konum belirtilmesi, atlasın etiket alanlarını neden kaynaktan aktarılan biçimiyle tuttuğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak kayda değer fikirleri arasında gönüllü birlik, karşılıklı özgürlük, yumuşak despotizm, yumuşak tiranlık ve kendi adıyla anılan bir etkiyi sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İncelediği ülke için ayrı bir kayıt, bağımsızlık bildirisinin 4 Temmuz 1776'da kabul edildiğini yazar.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir önceki kuşağın Fransız siyaset düşünürü için tutulan kayıt, onun despotizmi despot olmayan her yönetim için sürekli bir tehlike saydığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Fransız"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hayatı, siyasi kariyeri, seyahatleri ve eserlerin içeriği burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

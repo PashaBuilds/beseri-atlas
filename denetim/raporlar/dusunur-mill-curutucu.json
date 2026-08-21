@@ -1,0 +1,21 @@
+{
+  "id": "dusunur-mill",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:04:57.554Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak üç niteliği ayrı ayrı değil tek bir cümlede sayar: doğalcı, faydacı ve liberal.[^k1]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Üç ayrı gelenek adının aynı kişi için birlikte kullanılması,[^k1] atlasın kişileri tek bir okulun üyesi olarak etiketlememesinin gerekçesidir; etiketler kaynağın verdiği demettir, ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

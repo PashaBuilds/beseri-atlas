@@ -1,0 +1,73 @@
+{
+  "id": "dusunur-mill",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:04:57.055Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onu 1806-73 arasında yaşamış, on dokuzuncu yüzyılın en etkili İngilizce yazan filozofu olarak kaydeder ve doğalcı, faydacı ve liberal olarak tanımlar.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak üç niteliği ayrı ayrı değil tek bir cümlede sayar: doğalcı, faydacı ve liberal.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üç ayrı gelenek adının aynı kişi için birlikte kullanılması, atlasın kişileri tek bir okulun üyesi olarak etiketlememesinin gerekçesidir; etiketler kaynağın ver",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, en etkili nitelemesini dil ve yüzyıl kaydıyla sınırlandırır: İngilizce yazan ve on dokuzuncu yüzyıl.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngilizce"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir üstünlük ifadesinin iki koşulla birden sınırlandırılması, atlasın bu tür ifadeleri neden koşullarıyla birlikte taşıdığını gösterir; koşul düşerse ifade başk",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı on yıllarda yazan bir çağdaşı için tutulan kayıt, siyasi konumunu muhafazakâr liberal olarak aktarır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yüzyılda yazan bir başka çağdaşı için tutulan kayıt ise, o düşünürün merkezî bir meselesinde yerleşik bir bilimsel uzlaşı bulunmadığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üç kaydın üç ayrı sınıflandırma sorunu göstermesi, on dokuzuncu yüzyıl düşüncesinin okullara ayrılmasının sonradan yapılmış bir düzenleme olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Üç kaydın üç ayrı sınıflandırma sorunu göstermesi, on dokuzuncu yüzyıl düşüncesinin okullara ayrılmasının sonradan yapılmış bir düzenleme olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Üç kaydın üç ayrı sınıflandırma sorunu göstermesi, on dokuzuncu yüzyıl düşüncesinin okullara ayrılmasının sonradan yapılmış bir düzenleme olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Faydacılık kuramı, özgürlük ilkesi, iktisat yazıları ve kadın hakları üzerine görüşleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

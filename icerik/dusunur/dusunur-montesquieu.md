@@ -16,6 +16,7 @@ ilgili:
   - dusunur-hobbes
   - olay-fransiz-devrimi
   - dusunur-smith
+  - dusunur-tocqueville
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

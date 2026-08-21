@@ -17,6 +17,7 @@ ilgili:
   - olay-amerikan-devrimi
   - olay-amerikan-ic-savasi
   - olay-internetin-yayginlasmasi
+  - dusunur-tocqueville
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -15,6 +15,7 @@ ilgili:
   - dusunur-kant
   - dusunur-clausewitz
   - olay-napolyon-savaslari
+  - dusunur-marx
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

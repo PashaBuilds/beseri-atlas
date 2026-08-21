@@ -17,6 +17,8 @@ ilgili:
   - olay-sanayi-devrimi
   - dusunur-kant
   - dusunur-malthus
+  - dusunur-marx
+  - dusunur-mill
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

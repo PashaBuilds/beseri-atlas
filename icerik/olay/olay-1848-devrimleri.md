@@ -19,6 +19,7 @@ ilgili:
   - olay-fransiz-devrimi
   - olay-arap-bahari
   - olay-italyan-birligi
+  - dusunur-marx
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

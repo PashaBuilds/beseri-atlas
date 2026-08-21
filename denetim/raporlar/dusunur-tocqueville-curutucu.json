@@ -1,0 +1,21 @@
+{
+  "id": "dusunur-tocqueville",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:04:57.555Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sekiz alt başlığın aynı eser altında sıralanması,[^k1] bir kitabın tek bir teze indirgenemeyeceğini gösterir; atlas bu dosyada da tek bir tez cümlesi kurmaz.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı yazarın demokrasi bölümleriyle sömürge bölümlerinin aynı maddede yan yana durması,[^k1] atlasın bir düşünürü tek bir konumla özetlememesinin nedenidir. Bu dosya iki bölümü de ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}
