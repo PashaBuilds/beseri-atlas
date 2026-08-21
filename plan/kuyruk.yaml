@@ -1965,7 +1965,7 @@ isler:
   - id: kavram-merkantilizm
     tip: kavram
     baslik: Merkantilizm
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -1973,7 +1973,7 @@ isler:
   - id: kavram-kapitalizm
     tip: kavram
     baslik: Kapitalizm
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null
@@ -2077,7 +2077,7 @@ isler:
   - id: kavram-emperyalizm
     tip: kavram
     baslik: Emperyalizm
-    durum: bekliyor
+    durum: onaylandi
     faz: 3
     bagimlilik: []
     atanan_parti: null

@@ -22,6 +22,7 @@ ilgili:
   - dusunur-braudel
   - dusunur-keynes
   - dusunur-polanyi
+  - kavram-merkantilizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -20,6 +20,7 @@ ilgili:
   - dusunur-foucault
   - dusunur-wallerstein
   - kavram-dunya-sistemi
+  - kavram-kapitalizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

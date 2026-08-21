@@ -1,0 +1,14 @@
+{
+  "id": "kavram-merkantilizm",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:32:20.532Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı politikanın ülke ülke ayrı ayrı işlenmesi,[^k1] tek bir merkantilizm tanımının bütün örnekleri kapsamayabileceğini gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

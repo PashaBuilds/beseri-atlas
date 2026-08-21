@@ -1,0 +1,49 @@
+{
+  "id": "kavram-kapitalizm",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:32:19.924Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kavramı tek bir cümleyle vermez: köken bilgisi ve tanım için ayrı bölümler, özellikler için ise sekiz alt başlık tutar — piyasa, ücretli emek, kâr güdüs",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavramın tanımına ayrı bir bölüm ayrılması, atlasın şu kuralının dayanağıdır: bu dosyada kapitalizm sözcüğü, hangi tanımın kullanıldığı belirtilmeden bir id",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak tarih bölümünü dört alt başlığa ayırır: tarımcılık, merkantilizm, Sanayi Devrimi ve modernlik; sonuncusunun altında demokrasiyle ilişki ayrıca işlenir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sanayi, Devrimi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavramın tarihinin öncüllerini de içermesi, atlasın bu dosyayı ve dosyalarına bağlamasının dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Karşıt tanım için tutulan kayıt, kapitalistlerin genellikle varsayıldığı gibi rekabetçi piyasalarda faaliyet gösteren girişimciler değil tekelciler olduğunu ve ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir başka tanım geleneği için tutulan kayıt ise, çağdaş kapitalist üretim tarzını kârın acımasız takibiyle sürüklenen ve kökeni sömürülen proletaryadan artı değ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Türler, eleştiriler, savunular ve ülke ülke uygulamalar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

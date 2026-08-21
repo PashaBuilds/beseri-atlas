@@ -1,0 +1,14 @@
+{
+  "id": "kavram-kapitalizm",
+  "gecis": 3,
+  "zaman": "2026-08-21T09:32:20.531Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, kavramı tek bir cümleyle vermez: köken bilgisi ve tanım için ayrı bölümler, özellikler için ise sekiz alt başlık tutar — piyasa, ücretli emek, kâr güdüsü, özel mülkiyet, pi",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

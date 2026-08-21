@@ -15,6 +15,7 @@ etiketler: [berlin-konferansi, afrika-paylasimi, emperyalizm, kongo]
 ilgili:
   - donem-12
   - olay-afrika-bagimsizlik-dalgasi
+  - kavram-emperyalizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

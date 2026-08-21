@@ -1,0 +1,55 @@
+{
+  "id": "kavram-emperyalizm",
+  "gecis": 2,
+  "zaman": "2026-08-21T09:32:19.894Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tanım bölümünün altında sömürgecilik alt başlığını tutar ve emperyalizm kuramlarına ayrı bir bölüm ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, gerekçelendirme ve sorunlar başlığı altında dokuz alt başlık tutar: yayılmacılık, şarkiyatçılık ve hayalî coğrafya, haritacılık, kültürel emperyalizm, d",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Haritacılığın bir gerekçelendirme başlığı olarak sayılması, atlasın harita gösterimini neden ayrı bir tartışma dosyası olarak tuttuğunun dayanağıdır; o tartışma",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sömürgeciliğin emperyalizmin altında bir alt başlık olarak kaydedilmesi, iki terimin eşanlamlı sayılmadığını gösterir; atlas bu ayrımı korur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak emperyalizm kuramlarına ayrı bir bölüm ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kuram geleneklerinden biri için tutulan kayıt, tarihsel sürecin sınıf mücadeleleriyle nitelenen bir dizi üretim tarzı boyunca ilerlediğini anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kavramın sona erdirilmesine dair bir kayıt, 1960 tarihli bir bildirinin sömürge sömürüsünü bir insan hakları ihlali saydığını ve iktidarın devredilmesi gerektiğ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Emperyalizm çağı, ülke ülke tarihler ve kuramların içeriği burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

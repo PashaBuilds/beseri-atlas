@@ -13,6 +13,7 @@ ilgili:
   - kavram-feodalite
   - olay-1848-devrimleri
   - olay-italyan-birligi
+  - kavram-emperyalizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

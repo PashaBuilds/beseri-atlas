@@ -23,6 +23,7 @@ ilgili:
   - dusunur-weber
   - dusunur-wallerstein
   - kavram-tarihsel-materyalizm
+  - kavram-kapitalizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

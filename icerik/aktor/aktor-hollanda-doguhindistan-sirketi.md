@@ -16,6 +16,7 @@ ilgili:
   - donem-10
   - aktor-ingiliz-doguhindistan-sirketi
   - aktor-ispanyol-imparatorlugu
+  - kavram-merkantilizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

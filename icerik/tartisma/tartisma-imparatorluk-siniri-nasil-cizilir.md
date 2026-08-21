@@ -34,6 +34,7 @@ ilgili:
   - aktor-mali-imparatorlugu
   - aktor-gana-imparatorlugu
   - aktor-srivijaya
+  - kavram-emperyalizm
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:
