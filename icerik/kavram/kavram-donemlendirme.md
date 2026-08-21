@@ -17,6 +17,7 @@ ilgili:
   - kaynak-braudel-akdeniz
   - tartisma-osmanli-gerileme-tezi
   - tartisma-vestfalya-miti
+  - kaynak-hobsbawm-caglar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

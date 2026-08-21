@@ -385,3 +385,20 @@ kumeyi depoya koymak, atlasin kendi kuralini cignerdi.
 
 Bu bir hedef dusurmesi degildir: kalem sayisi ayni kaldi, yalnizca hangi kumenin
 kullanildigi degisti.
+
+## Faz 4 — kitap sayfasi ile donem sayfasi ayrimi (2026-08-21)
+
+`en.wikipedia.org/wiki/The_Age_of_Revolution` adresi kitabin sayfasina degil
+**ayni adi tasiyan tarihsel donem** sayfasina yonleniyor. Kaynak olarak bu adres
+verildiginde Gecis 2, kitabin devam ciltlerine ait 1875 ve 1914 sayilarini
+"kaynakta bulunamadi" diye HATA isaretledi — dogru davranis, cunku o sayfada
+gercekten yoklar.
+
+Karar: kitap kunyeleri icin **kitabin kendi sayfasi** kullanilir
+(`The_Age_of_Revolution:_Europe_1789%E2%80%931848`). Kaynak `not:` alanina
+yonlendirmenin varligi yazilir.
+
+Reddedilen alternatif: iddiayi zayiflatip 1875/1914'i cikarmak. Bu, kaynagi
+degil makaleyi budardi; sorun makalenin degil kunyenin adresindeydi.
+
+Ayni kural veri kumelerinde de gecerlidir (bkz. veri-askeri-harcama, KAPI 10).

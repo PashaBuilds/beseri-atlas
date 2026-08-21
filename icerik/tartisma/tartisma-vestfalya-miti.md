@@ -26,6 +26,7 @@ ilgili:
   - kavram-donemlendirme
   - kavram-ulus-devlet
   - donem-09
+  - kaynak-hobsbawm-caglar
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

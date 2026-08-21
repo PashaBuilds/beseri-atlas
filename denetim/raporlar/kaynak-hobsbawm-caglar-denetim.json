@@ -1,0 +1,85 @@
+{
+  "id": "kaynak-hobsbawm-caglar",
+  "gecis": 2,
+  "zaman": "2026-08-21T12:18:28.815Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kitabı İngiliz tarihçi Eric Hobsbawm'ın 1962'de ilk kez yayımlanan eseri olarak kaydeder; 366 sayfadır ve Birleşik Krallık'ta Weidenfeld & Nicolson, Ame",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, kitabın çözümlemesini ikiz devrim tezine dayandırır: Fransız Devrimi ile Sanayi Devrimi, modern Avrupa tarihinin birlikte doğurtucusu sayılır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki ayrı olayın tek bir tezde birleştirilmesi, bir dönem adının bir betimleme değil bir sınıflandırma kararı olduğunu gösterir; Sanayi Devrimi dosyasında ele al",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sanayi, Devrimi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl üzerine bir üçlemenin ilki sayar; devamındaki ciltler The Age of Capital: 1848-1875 ve The Age of Empire: 1875-1914'tür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Dizinin dördüncü kitabı için tutulan kayıt, onu 1994'te yayımlanan 640 sayfalık bir eser olarak verir; kendisinden önce The Age of Empire: 1875-1914 gelmektedir",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "yüzyıl 1789'daki Fransız Devrimi'nin başlangıcından 1914'e uzanır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir yüzyılın takvim yüzyılından farklı sınırlarla tanımlanması, atlasın şu kuralının dayanağıdır: dönem sınırları takvimden değil tezden gelir ve hangi tezden g",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaynak, dördüncü kitabın Amerika Birleşik Devletleri baskısının farklı bir alt başlıkla çıktığını kaydeder: A History of the World, 1914-1991.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı kitabın iki ülkede iki farklı alt başlıkla yayımlanması, bir dönem adının yazarın tezi kadar yayıncının kararına da bağlı olabildiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1789'da yaklaşık 938,2 milyon, 1848'de yaklaşık 1,25 milyar, 1914'te yaklaşık 1,85 milyar ve 1991'de yaklaşık 5,44 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dört değer bir dönemlendirmeyi doğrulamaz; yalnızca 1789-1991 aralığında dünya nüfusunun yaklaşık beş buçuk kat arttığını gösterir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kitaplar telifli olduğu için bu dosyada metinlerinden alıntı yapılmamıştır; 1962 ve 1994 tarihli iki cildin içeriğine dair buradaki bütün ifadeler kaynak sayfal",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kitaplar telifli olduğu için bu dosyada metinlerinden alıntı yapılmamıştır; 1962 ve 1994 tarihli iki cildin içeriğine dair buradaki bütün ifadeler kaynak sayfal",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

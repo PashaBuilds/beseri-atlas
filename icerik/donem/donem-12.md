@@ -40,6 +40,7 @@ ilgili:
   - olay-italyan-birligi
   - tartisma-buyuk-adam-kurami
   - tartisma-somurgeciligin-ekonomik-bilancosu
+  - kaynak-hobsbawm-caglar
 okuma_onerisi: []
 serit:
   - bolge: afrika

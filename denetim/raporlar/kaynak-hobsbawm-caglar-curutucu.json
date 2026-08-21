@@ -1,0 +1,21 @@
+{
+  "id": "kaynak-hobsbawm-caglar",
+  "gecis": 3,
+  "zaman": "2026-08-21T12:18:38.149Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynak, kitabı İngiliz tarihçi Eric Hobsbawm'ın 1962'de ilk kez yayımlanan eseri olarak kaydeder; 366 sayfadır ve Birleşik Krallık'ta Weidenfeld & Nicolson, Amerika Birleşik Devlet",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki ayrı olayın tek bir tezde birleştirilmesi,[^k1] bir dönem adının bir betimleme değil bir sınıflandırma kararı olduğunu gösterir; Sanayi Devrimi [Sanayi Devrimi](/olay/sanayi-de",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}
