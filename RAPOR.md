@@ -4,10 +4,10 @@ _Üretim tarihi: 2026-08-21 · Bu dosya `npm run rapor` ile ölçümlerden üret
 
 ## Kapsam
 
-Üretilen: **358** | Onaylanan: **358** | Karantinada: **0**
+Üretilen: **359** | Onaylanan: **359** | Karantinada: **0**
 
 Planlanan tam kapsam **358** makaledir; bu raporun yazıldığı anda
-**%100.0**'i yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
+**%100.3**'i yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
 birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 
 | Tip | Yayımlanan |
@@ -19,9 +19,9 @@ birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 | kaynak | 33 |
 | olay | 86 |
 | tartisma | 36 |
-| veri | 23 |
+| veri | 24 |
 
-Toplam gövde: **112.313** kelime.
+Toplam gövde: **112.552** kelime.
 
 ## Doğrulama
 
@@ -29,10 +29,10 @@ Toplam gövde: **112.313** kelime.
 Nihai skor: **1** (13 ölçülen değer: 13 doğrulandı, 0 çelişki)
 Ham skor: **0.4643** (28 değerlik örneklem, 15 değer bağımsız olarak türetilemedi)
 
-Geçiş 2 (kaynak denetimi): 1925 OK · 4 ISARET · 0 HATA · 2041 programatik olarak ölçülemedi
+Geçiş 2 (kaynak denetimi): 1929 OK · 4 ISARET · 0 HATA · 2048 programatik olarak ölçülemedi
 Kaynak doğrulama oranı: **0.999**
 Makale başına ortalama kaynak: **3.08**
-Çürütücünün ürettiği itiraz adayı: **483**
+Çürütücünün ürettiği itiraz adayı: **485**
 Çapraz tutarlılık çelişkisi: **0**
 
 ### İki skorun anlamı
@@ -93,15 +93,7 @@ hatalı kaynağa dayanıyorsa ikisi de aynı yanlışa varır.
 ## Hattın durduğu nokta
 
 Aktif faz: **4** · Aktif parti: **B03**
-Kuyrukta bekleyen iş: **1** · Karantinada: **0**
+Kuyrukta bekleyen iş: **0** · Karantinada: **0**
 Harcanan bütçe: 1.320.000 / 40.000.000 token
 
-### Neden burada duruyor
-
-Hat bir kapı kırılması ya da durdurma kuralı nedeniyle durmadı:
-bütün kapılar geçildi, örnekleme kapısı eşiğin üzerinde ve karantinada
-makale yok. Kuyrukta bekleyen iş, henüz üretilmemiş içeriktir.
-
-`npm run otonom` yeniden çalıştırıldığında hat `DURUM.md` ile
-`plan/kuyruk.yaml`yi okuyup sıradaki partiden devam eder; üretilmiş
-hiçbir iş tekrarlanmaz.
+Kuyrukta bekleyen iş kalmadı.

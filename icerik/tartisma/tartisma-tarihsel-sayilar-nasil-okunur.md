@@ -58,6 +58,7 @@ ilgili:
   - veri-demokrasi-endeksi
   - tartisma-hacli-seferlerinin-nedeni
   - tartisma-soykirim-kavrami
+  - veri-fosil-elektrik-payi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

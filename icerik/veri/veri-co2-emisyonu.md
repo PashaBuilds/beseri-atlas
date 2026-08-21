@@ -15,6 +15,7 @@ ilgili:
   - veri-enerji-tuketimi-1800-2023
   - olay-sanayi-devrimi
   - olay-paris-iklim-anlasmasi
+  - veri-fosil-elektrik-payi
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/co2-emisyonu.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

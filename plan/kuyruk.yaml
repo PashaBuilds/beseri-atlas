@@ -3042,10 +3042,10 @@ isler:
     bagimlilik: []
     atanan_parti: null
     deneme: 0
-  - id: veri-kisi-basi-enerji-yerine
+  - id: veri-fosil-elektrik-payi
     tip: veri
-    baslik: Kişi başına enerji tüketimi (ikinci ölçü)
-    durum: bekliyor
+    baslik: Elektrik üretiminde fosil yakıt payı
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

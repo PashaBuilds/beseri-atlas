@@ -404,7 +404,10 @@ fazlar:
     - { id: veri-askeri-harcama, baslik: "Askerî harcama" }
     # veri-demokrasi-endeksi: OWID uc noktasi 403 veriyor (yeniden dagitilamaz
     # veri). Yerine ayni sayida baska bir kume kondu; bkz. plan/faz-notlari.md.
-    - { id: veri-kisi-basi-enerji-yerine, baslik: "Kişi başına enerji tüketimi (ikinci ölçü)" }
+    # Yer tutucu satir gercek bir kumeyle degistirildi (2026-08-21): EIU endeksi
+    # yerine V-Dem secimsel demokrasi endeksi uretildi, dolayisiyla yer tutucuya
+    # gerek kalmadi; yerine ikinci bir enerji olcusu kondu. bkz. plan/faz-notlari.md
+    - { id: veri-fosil-elektrik-payi, baslik: "Elektrik üretiminde fosil yakıt payı" }
     - { id: veri-tarim-istihdami, baslik: "Tarımda istihdam payı" }
     - { id: veri-ortalama-egitim-suresi, baslik: "Ortalama eğitim süresi" }
     - { id: veri-kisi-basi-enerji, baslik: "Kişi başına enerji tüketimi" }

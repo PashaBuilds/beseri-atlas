@@ -402,3 +402,19 @@ Reddedilen alternatif: iddiayi zayiflatip 1875/1914'i cikarmak. Bu, kaynagi
 degil makaleyi budardi; sorun makalenin degil kunyenin adresindeydi.
 
 Ayni kural veri kumelerinde de gecerlidir (bkz. veri-askeri-harcama, KAPI 10).
+
+## Faz 4 — kuyruk yer tutucusunun gercek kumeyle degistirilmesi (2026-08-21)
+
+`veri-demokrasi-endeksi` icin EIU ucu 403 dondugu icin kapsam satirina
+`veri-kisi-basi-enerji-yerine` adiyla bir **yer tutucu** konmustu. Sonradan ayni
+konu icin yeniden dagitilabilir bir kume bulundu (V-Dem secimsel demokrasi
+endeksi, `electoral-democracy-index`) ve `veri-demokrasi-endeksi` gercek
+verisiyle uretildi. Boylece yer tutucu satirin varlik nedeni ortadan kalkti.
+
+Karar: yer tutucu **silinmedi** — silmek hedefi bir dusururdu. Yerine gercek bir
+kume kondu: `veri-fosil-elektrik-payi` (elektrik uretiminde fosil yakit payi,
+1900-2025). Kapsam sayisi degismedi, teslimat gercek bir makaleye baglandi.
+
+Ayrica: `share-of-electricity-production-from-fossil-fuels` adresi
+`electricity-mix.csv?...` adresine yonleniyor. KAPI 10 kuralinca kunyeye
+**varilan** adres yazildi.

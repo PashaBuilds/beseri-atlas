@@ -1,0 +1,73 @@
+{
+  "id": "veri-fosil-elektrik-payi",
+  "gecis": 2,
+  "zaman": "2026-08-21T13:01:45.303Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Sağlayıcının toplam satırında pay 1900'de yaklaşık yüzde 58,78, 2025'te yaklaşık yüzde 57,39'dur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki uç değerin birbirine bu kadar yakın olması, atlasın şu kuralının dayanağıdır: bir seri iki uç değerle özetlenmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı seride pay 1918'de yaklaşık yüzde 52,88, 1950'de yaklaşık yüzde 64,35, 1973'te yaklaşık yüzde 75,13, 2000'de yaklaşık yüzde 64,66 ve 2010'da yaklaşık yüzde",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Serinin en yüksek değeri 1973'te, en düşük değeri ise 1919'da yaklaşık yüzde 49,04 olarak kayıtlıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Zirvenin serinin ortasında bulunması, payın tek yönlü hareket etmediğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Toplam birincil enerji tüketimi serisinde dünya değeri 1900'de yaklaşık 12.132 terawatt-saat, 2023'te yaklaşık 183.230 terawatt-saattir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Payın iki uçta neredeyse aynı kalmasına karşın toplam tüketimin bu ölçüde artması, oran ile miktarın ayrı ayrı okunması gerektiğini gösterir; toplam seri dosyas",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Payın iki uçta neredeyse aynı kalmasına karşın toplam tüketimin bu ölçüde artması, oran ile miktarın ayrı ayrı okunması gerektiğini gösterir; toplam seri dosyas",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ölçülen şey için tutulan kayıt, fosil yakıtı ölü organizmaların kalıntılarından doğal süreçlerle oluşan bir hidrokarbon içerikli malzeme olarak tanımlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tanımın oluşum sürecine dayanması, bu payın bir teknoloji ölçüsü değil bir kaynak ölçüsü olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke dağılımı, yakıt türleri ve elektrik dışındaki enerji kullanımları burada ele alınmamıştır; bu dosya tek bir sütunun yıl bazlı değerlerini taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

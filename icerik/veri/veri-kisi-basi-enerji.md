@@ -15,6 +15,7 @@ ilgili:
   - veri-enerji-tuketimi-1800-2023
   - veri-dunya-nufusu-1500-2025
   - olay-sanayi-devrimi
+  - veri-fosil-elektrik-payi
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/kisi-basi-enerji.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"
