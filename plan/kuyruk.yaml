@@ -2461,7 +2461,7 @@ isler:
   - id: tartisma-soguk-savasin-baslangici
     tip: tartisma
     baslik: Soğuk Savaş'ı kim başlattı?
-    durum: uretiliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null

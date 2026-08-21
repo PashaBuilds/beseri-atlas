@@ -44,6 +44,7 @@ ilgili:
   - olay-cin-reformlari-1978
   - olay-1968-hareketleri
   - olay-iran-devrimi-1979
+  - tartisma-soguk-savasin-baslangici
 okuma_onerisi: []
 serit:
   - bolge: avrupa

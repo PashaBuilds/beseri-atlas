@@ -1,0 +1,73 @@
+{
+  "id": "tartisma-soguk-savasin-baslangici",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:49:34.764Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu haritanın çıkış noktası kaynağın kendi uyarısıdır: üç okul adlandırılabilir ama tarih yazımının çoğu bu kategorileri iç içe geçirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tarihçilerin Soğuk Savaş çalışmalarında yaygın olarak üç farklı yaklaşımdan söz ettiğini yazar: ortodoks anlatılar, düzeltmecilik ve düzeltmecilik sonra",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı madde, kökenlere dair akademik tartışmalardaki açıklamaların karmaşık ve çeşitli olduğunu da belirtir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Soğuk Savaş dönemine dair Sovyet tarih yazımının ezici biçimde Sovyet devleti tarafından belirlendiğini ve Soğuk Savaş için Batı'yı suçladığını yazar.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir literatürün üretim koşulunun ayrıca kaydedilmesi, atlasın şu kuralının dayanağıdır: bu haritadaki pozisyonlar, kimin hangi koşullarda yazdığı belirtilerek t",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Britanya'da bir tarihçinin Sovyetler Birliği'nin on dört ciltlik bir tarihini yazdığını, çalışmanın 1920'lere odaklandığını ve 1950-1978 arasında yayıml",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "O tarihçi için tutulan ayrı bir kayıt, mesleğini tarihçi, diplomat, uluslararası ilişkiler kuramcısı ve gazeteci olarak verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Askerî harcama serisinde sağlayıcının toplam satırı 1988 için yaklaşık 1.759.879.600.000 verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu değeri hiçbir pozisyonun kanıtı olarak sunmaz: seri yalnızca dönemin son yıllarını kapsar ve harcamanın hangi tarafa ait olduğunu bu dosyada vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu değeri hiçbir pozisyonun kanıtı olarak sunmaz: seri yalnızca dönemin son yıllarını kapsar ve harcamanın hangi tarafa ait olduğunu bu dosyada vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kendisi üç okulu adlandırır ama aralarında bir hüküm vermez; bu atlas da vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -20,6 +20,7 @@ ilgili:
   - kavram-guc-dengesi
   - kavram-tarih-yazimi
   - kaynak-carr-tarih-nedir
+  - tartisma-soguk-savasin-baslangici
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

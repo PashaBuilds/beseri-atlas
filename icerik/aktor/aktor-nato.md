@@ -19,6 +19,7 @@ ilgili:
   - olay-kore-savasi
   - aktor-baglantisizlar-hareketi
   - kavram-caydiricilik
+  - tartisma-soguk-savasin-baslangici
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

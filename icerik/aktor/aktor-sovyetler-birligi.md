@@ -22,6 +22,7 @@ ilgili:
   - olay-uzay-yarisi
   - olay-cernobil
   - dusunur-carr
+  - tartisma-soguk-savasin-baslangici
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

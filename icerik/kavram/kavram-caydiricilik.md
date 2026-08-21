@@ -15,6 +15,7 @@ ilgili:
   - kavram-guc-dengesi
   - kavram-surtunme
   - veri-askeri-harcama
+  - tartisma-soguk-savasin-baslangici
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
