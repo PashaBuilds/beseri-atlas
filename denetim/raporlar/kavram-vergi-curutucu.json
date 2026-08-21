@@ -1,7 +1,7 @@
 {
   "id": "kavram-vergi",
   "gecis": 3,
-  "zaman": "2026-08-21T10:12:48.940Z",
+  "zaman": "2026-08-21T10:13:43.513Z",
   "itirazlar": [
     {
       "ciddiyet": "dusuk",
@@ -9,13 +9,6 @@
       "cumle": "Bir maliye kavramının tarihinin iki ayrı hukuk geleneğiyle başlatılması,[^k1] atlasın şu kuralının dayanağıdır: bu dosyada vergi, tek bir hukuk düzeninin kavramı olarak anılmaz.",
       "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "orta",
-      "tip": "tek-kaynakli-nedensellik",
-      "cumle": "Kaynağın eskimiş vergi biçimlerine ayrı bir alt başlık ayırması,[^k1] vergi türlerinin tarihsel olarak değiştiğini gösterir; atlas bu yüzden vergi adlarını dönemiyle birlikte yazar",
-      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
-      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
     },
     {
       "ciddiyet": "dusuk",

@@ -51,9 +51,9 @@ kavramı olarak anılmaz.
 
 ## Artık kullanılmayan biçimler ayrı bir alt başlıktır
 
-Kaynağın eskimiş vergi biçimlerine ayrı bir alt başlık ayırması,[^k1] vergi
-türlerinin tarihsel olarak değiştiğini gösterir; atlas bu yüzden vergi adlarını
-dönemiyle birlikte yazar.
+Kaynağın eskimiş vergi biçimlerine ayrı bir alt başlık ayırması,[^k1] atlasın şu
+kuralının dayanağıdır: bu atlasta vergi adları, ait oldukları dönem belirtilerek
+yazılır.
 
 ## Sınıflandırma kendi bölümüdür
 

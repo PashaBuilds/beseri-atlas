@@ -21,7 +21,7 @@ birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 | tartisma | 7 |
 | veri | 1 |
 
-Toplam gövde: **88.274** kelime.
+Toplam gövde: **88.273** kelime.
 
 ## Doğrulama
 
@@ -32,7 +32,7 @@ Ham skor: **0.4643** (28 değerlik örneklem, 15 değer bağımsız olarak türe
 Geçiş 2 (kaynak denetimi): 1637 OK · 4 ISARET · 0 HATA · 1422 programatik olarak ölçülemedi
 Kaynak doğrulama oranı: **0.9988**
 Makale başına ortalama kaynak: **3.11**
-Çürütücünün ürettiği itiraz adayı: **394**
+Çürütücünün ürettiği itiraz adayı: **393**
 Çapraz tutarlılık çelişkisi: **0**
 
 ### İki skorun anlamı
