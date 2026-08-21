@@ -1,0 +1,61 @@
+{
+  "id": "veri-yoksulluk-orani",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:32:04.854Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Seri 1990'da yüzde 43,41358244419098 ile başlar ve 2026'da yüzde 9,975934773683548 ile biter.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Veri kümesinin sütun adı, sayım oranını satın alma gücü paritesinin 2021 sürümüyle ve belirli bir yoksulluk sınırıyla birlikte tanımlar; ayrıca refah türünün ge",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Veri kümesinde dünya toplamı için 1990'dan önce gözlem bulunmaz.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir yoksulluk serisinin yalnızca son otuz beş yılı kapsaması, atlasın şu kuralının dayanağıdır: bu dosyadan sanayi öncesi ya da sömürge dönemine dair bir yoksul",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı sağlayıcının kişi başına GSYH serisinde dünya değeri 1820 için 1.127,73, 2022 için 16.676,75'tir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir ortalama ile bir dağılım ölçüsünün aynı yıl için farklı şeyler söyleyebilmesi, atlasın bu iki seriyi ayrı dosyalarda tutmasının dayanağıdır; ilişkili dosyal",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir ortalama ile bir dağılım ölçüsünün aynı yıl için farklı şeyler söyleyebilmesi, atlasın bu iki seriyi ayrı dosyalarda tutmasının dayanağıdır; ilişkili dosyal",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir ortalama ile bir dağılım ölçüsünün aynı yıl için farklı şeyler söyleyebilmesi, atlasın bu iki seriyi ayrı dosyalarda tutmasının dayanağıdır; ilişkili dosyal",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke ülke oranlar, eşik seçiminin etkisi ve anket yöntemleri burada ayrı başlıklar altında ele alınmamıştır; bu dosya yalnızca dünya toplamı serisini kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

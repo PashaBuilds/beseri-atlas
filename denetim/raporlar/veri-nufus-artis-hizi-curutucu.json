@@ -1,0 +1,14 @@
+{
+  "id": "veri-nufus-artis-hizi",
+  "gecis": 3,
+  "zaman": "2026-08-21T11:32:05.479Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Artış hızının yarıya düşmesine rağmen nüfusun üç katına çıkması,[^k1][^k2] hız ile düzey arasındaki farkı gösterir; atlas bu iki seriyi tek bir eğilim cümlesinde birleştirmez. Nüfu",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -13,6 +13,7 @@ ilgili:
   - kavram-dunya-sistemi
   - dusunur-wallerstein
   - olay-afrika-bagimsizlik-dalgasi
+  - veri-yoksulluk-orani
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

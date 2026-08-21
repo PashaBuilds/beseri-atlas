@@ -19,6 +19,7 @@ ilgili:
   - veri-dogurganlik-hizi-1950-2023
   - veri-yasam-beklentisi-1770-2023
   - veri-cocuk-olumleri
+  - veri-nufus-artis-hizi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -45,7 +45,14 @@ const satirlar = metin.split('\n');
 const dunya = satirlar.filter((l) => l.startsWith('World,OWID_WRL,'));
 if (!dunya.length) { console.error('World satiri bulunamadi'); process.exit(1); }
 
-const kayitlar = dunya.map((l) => { const p = l.split(','); return { yil: p[2], deger: p[3].trim() }; });
+// Bos degerli satirlar atilir. Bazi OWID kumelerinde ayni dosyada birden cok
+// sutun bulunuyor ve bir sutunun kapsamadigi yillar bos geliyor (or. asiri
+// yoksulluk kumesinde MO 10000 satiri yalnizca nufus tasiyor). Bos satiri
+// dosyaya yazmak, makalede "o yil icin deger var" izlenimi verirdi.
+const kayitlar = dunya
+  .map((l) => { const p = l.split(','); return { yil: p[2], deger: (p[3] || '').trim() }; })
+  .filter((k) => k.deger !== '');
+if (!kayitlar.length) { console.error('bos olmayan satir yok'); process.exit(1); }
 const csv = [`yil,${basligi}`, ...kayitlar.map((k) => `${k.yil},${k.deger}`)].join('\n') + '\n';
 
 const kok = path.join(process.cwd(), 'veri-setleri');

@@ -1113,3 +1113,20 @@ hat_duzeltmesi:
 # Faz 4 turu B20: tarim istihdami, ortalama egitim suresi (veri) — 2026-08-21
   - bulgu: Tek itiraz dusuk ciddiyette ustunluk-iddiasi tipinde.
     aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.
+
+# Faz 4 turu B21: yoksulluk orani, nufus artis hizi (veri) — 2026-08-21
+  - bulgu: >-
+      owid-indir.mjs, cok sutunlu kumelerde bos degerli satirlari da yaziyordu
+      (or. asiri yoksulluk kumesinde MO 10000 satiri yalnizca nufus tasiyor).
+    aksiyon: >-
+      Arac bos degerli satirlari atacak bicimde guncellendi. Bos satiri dosyaya
+      yazmak, makalede "o yil icin deger var" izlenimi verirdi; bu bir veri
+      hatasi degil bir sunum hatasi olurdu ve atlasin sayi disiplinine aykiriydi.
+  - bulgu: >-
+      veri-nufus-artis-hizi kumesi ayni dosyada hem tahmin hem projeksiyon
+      sutunu tasiyor.
+    aksiyon: >-
+      Dosya yalnizca tahmin sutununu kaydediyor ve bunu govdede acikca yaziyor;
+      boylece dosyadan okunan hicbir deger bir ongoru degil.
+  - bulgu: Tek itiraz dusuk ciddiyette ustunluk-iddiasi tipinde.
+    aksiyon: Itiraz REDDEDILDI; duragan karar kapsaminda.

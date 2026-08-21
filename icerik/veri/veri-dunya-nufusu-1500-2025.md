@@ -25,6 +25,7 @@ ilgili:
   - tartisma-kara-olumun-sonuclari
   - veri-cocuk-olumleri
   - veri-ortalama-egitim-suresi
+  - veri-nufus-artis-hizi
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/dunya-nufusu.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

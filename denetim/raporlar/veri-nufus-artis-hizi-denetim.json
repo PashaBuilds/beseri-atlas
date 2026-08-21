@@ -1,0 +1,67 @@
+{
+  "id": "veri-nufus-artis-hizi",
+  "gecis": 2,
+  "zaman": "2026-08-21T11:32:04.772Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Seri 1950'de yüzde 1,738 ile başlar ve 2023'te yüzde 0,871 ile biter.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Veri kümesinin sütun adları iki ayrı seriyi taşır: biri tahminler, diğeri orta varyant projeksiyonu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir sağlayıcının ölçülmüş değerler ile ileriye dönük hesapları ayrı sütunlarda tutması, atlasın şu kuralının dayanağıdır: bu dosya yalnızca tahmin sütununu kayd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık 2,49 milyar, 2020 için yaklaşık 7,84 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Artış hızının yarıya düşmesine rağmen nüfusun üç katına çıkması, hız ile düzey arasındaki farkı gösterir; atlas bu iki seriyi tek bir eğilim cümlesinde birleşti",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Artış hızının yarıya düşmesine rağmen nüfusun üç katına çıkması, hız ile düzey arasındaki farkı gösterir; atlas bu iki seriyi tek bir eğilim cümlesinde birleşti",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Nüfus artışı üzerine bir model için tutulan kayıt, nüfus artışının potansiyel olarak üstel, gıda arzının büyümesinin ise doğrusal olduğunu öne süren bir kuramı ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu seriyi o modelin çürütülmesi olarak sunmaz: model belirli koşullar altında bir sonuç öngörür, seri ise yalnızca artış hızını verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu seriyi o modelin çürütülmesi olarak sunmaz: model belirli koşullar altında bir sonuç öngörür, seri ise yalnızca artış hızını verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke ülke hızlar, yaş yapısı ve göç etkisi burada ayrı başlıklar altında ele alınmamıştır; bu dosya yalnızca dünya toplamı tahmin serisini kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

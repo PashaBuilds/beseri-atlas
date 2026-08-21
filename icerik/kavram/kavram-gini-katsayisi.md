@@ -14,6 +14,7 @@ ilgili:
   - kavram-kentlesme
   - kavram-dunya-sistemi
   - kaynak-milanovic-kuresel-esitsizlik
+  - veri-yoksulluk-orani
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

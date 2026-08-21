@@ -2861,7 +2861,7 @@ isler:
   - id: veri-yoksulluk-orani
     tip: veri
     baslik: Aşırı yoksulluk oranı
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
@@ -2869,7 +2869,7 @@ isler:
   - id: veri-nufus-artis-hizi
     tip: veri
     baslik: Nüfus artış hızı
-    durum: bekliyor
+    durum: onaylandi
     faz: 4
     bagimlilik: []
     atanan_parti: null
