@@ -244,3 +244,21 @@ olay-uzay-yarisi `[siyasi, askeri, kulturel]`. Yeni eksen eklemek, yazilmis ~170
 makaleyi geriye donuk tutarsiz birakirdi. Cernobil `[siyasi, ekonomik,
 demografik]` olarak yazildi: makalenin fiilen tartistigi seyler duyuru zamani,
 maliyet sayilari ve etkilenen nufustur.
+
+## Faz 3 yontemi: dusunur dosyalari metnin durumunu anlatir (2026-08-21)
+
+Faz 3'un ilk uc turunda su ortaya cikti: bir dusunurun NE DUSUNDUGU, kaynak
+metinlerinde nadiren tek bir dogrulanabilir cumleye indirgenebiliyor —
+SEP maddeleri bile "gorusu hicbir yerde acikca aciklanmamistir" (Gazali) ya da
+"hayati hakkinda guvenilir pek az sey biliyoruz" (Farabi) diye aciliyor.
+
+Buna karsilik su sorular kaynaklarda dogrudan dogrulanabilir kayitlara sahip:
+metinlerin kacinin gunumuze ulastigi (Aristoteles: ~200'den ~31), tenkitli
+nesirlerin bulunup bulunmadigi (Augustinus var, Farabi yok), yazarligin bolum
+bolum nasil bolusturuldugu (Sima Qian / Sima Tan), adin kac bicimde kaydedildigi
+(Konfucyus, Ibn Rusd), tarihlerin hangi cekinceyle verildigi (Platon'un "?",
+Konfucyus'un "geleneksel", Farabi'nin "muhtemelen").
+
+Faz 3 bu ikinci kumeye yaziliyor. Bu bir kacinma degil, atlasin cekirdek testinin
+(her iddia iki tiklamada kaynagina gitsin) dusunur dosyalarinda ne anlama
+geldiginin cevabidir.

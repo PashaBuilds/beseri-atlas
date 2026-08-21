@@ -1,0 +1,79 @@
+{
+  "id": "dusunur-augustinus",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:46:35.639Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onu Hippolu Augustinus başlığı altında işler ve Antik Çağ'ın belki en büyük Hıristiyan filozofu olduğunu yazar.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın nitelemesi \"belki\" ile açılır ve ardından bir kesinlik ifadesiyle sürer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir ansiklopedinin en büyük türünden bir niteleme yaparken bile tereddüt belirtmesi, atlasın bu tür ifadeleri neden yalnızca kime ait olduğunu belirterek taşıdı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, eserlerinin çoğunun bugün tenkitli neşirlerinin mevcut olduğunu; kitapların neredeyse tamamının, mektupların tümünün ve vaazların hatırı sayılır bir böl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir külliyatın neredeyse eksiksiz neşredilmiş olması, atlasın bir düşünür hakkında ne kadar şey söyleyebileceğinin sınırını belirleyen ilk koşuldur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yüzyıllara yakın bir başka düşünürün kaydı, hâlâ tenkitli neşirlerin ve tam çevirilerin bulunmadığını, hatta bazı metinlerin herhangi bir dile çevirisinin ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki kaydın yan yana konması, bugün bir düşünür hakkında ne kadar konuşulabildiğinin, düşüncesinin niteliğiyle değil metinlerinin başına gelenlerle belirlendiğin",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki kaydın yan yana konması, bugün bir düşünür hakkında ne kadar konuşulabildiğinin, düşüncesinin niteliğiyle değil metinlerinin başına gelenlerle belirlendiğin",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, hakkındaki bibliyografyaları ayrı ayrı sıralar ve İspanyolca yazılmış literatür için 1502-2006 ile 2007-2020 dönemlerini kapsayan iki ayrı derleme anar.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Beş yüzyıllık bir literatürün kendi başına derlenmiş olması, bir düşünür dosyasının yalnızca düşünüre değil onun hakkında yazılanlara da bakması gerektiğini gös",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yaşadığı yüzyıllardaki siyasi düzen için ayrı bir kayıt, imparatorluk dönemini MÖ 27 ile MS 286 arasına yerleştirir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hayatı, İtiraflar, teolojisi, irade ve zaman görüşleri ile sonraki etkisi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak iş",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İtiraflar"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "dusunur-farabi",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:46:36.213Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak maddesine şu cümleyle başlar: onun hayatı hakkında gerçekten güvenilir pek az şey biliyoruz; muhtemelen 870 yılında (hicri 257) doğduğu yazılır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, hâlâ tenkitli neşirlerin, tam İngilizce çevirilerin ve zaman zaman birkaç metnin herhangi bir dile çevirisinin bulunmadığını, ayrıca felsefesine sağlam ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir düşünürün bin yıl sonra bile bazı metinlerinin hiçbir modern dile aktarılmamış olması, atlasın kaynak alanına neden erişim tarihi yazdığını gösterir: bir me",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yüzyıllara yakın bir başka düşünürün kaydı, eserlerinin çoğunun bugün tenkitli neşirlerinin mevcut olduğunu, kitapların neredeyse tamamının, mektupların tü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki kaydın yan yana konması, bir düşünürün bugün ne kadar okunabildiğinin, onun değeriyle değil metinlerinin başına gelenlerle ilgili olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki kaydın yan yana konması, bir düşünürün bugün ne kadar okunabildiğinin, onun değeriyle değil metinlerinin başına gelenlerle ilgili olduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak Kitâbü'l-mûsîka'l-kebîr adlı büyük eserini İslam topraklarındaki en önemli ortaçağ musiki incelemesi olarak niteler ve eserin gelişkin felsefi bölümler d",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir musiki incelemesinin felsefi bölümler içermesi ve bu ilişkinin hâlâ açık bir araştırma sorusu sayılması, disiplin ayrımlarının geriye dönük uygulanmasının n",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bağımsız bir ansiklopedinin madde listesi aynı ada bağlı ayrı başlıklar tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir düşünürün adının farklı geleneklerde farklı biçimlerde kaydedilmesi, ve dosyalarında da görülen bir örüntüdür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mantık, metafizik, siyaset felsefesi ve musiki kuramının içeriği burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

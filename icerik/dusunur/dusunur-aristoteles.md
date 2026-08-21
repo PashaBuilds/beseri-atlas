@@ -15,6 +15,7 @@ ilgili:
   - dusunur-platon
   - dusunur-ibn-haldun
   - kavram-asabiyet
+  - dusunur-farabi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

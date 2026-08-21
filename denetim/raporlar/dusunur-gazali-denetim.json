@@ -1,0 +1,85 @@
+{
+  "id": "dusunur-gazali",
+  "gecis": 2,
+  "zaman": "2026-08-21T08:46:36.699Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak onu yaklaşık 1056-1111 arasında yaşamış, Sünni İslam'ın en önde gelen ve etkili filozof, kelamcı, fakih ve mutasavvıflarından biri olarak kaydeder.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, onun ilgili konumunun ne yazık ki hiçbir yerde açıkça açıklanmadığını ve ancak birbirinden kopuk ifadelerden derlenebileceğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, Tehâfüt'ten sonra belirgin biçimde okazyonalist bir kozmoloji savunduğu kitaplar yazdığını, İhyâ'nın otuz beşinci kitabı ile Mişkâtü'l-envâr gibi başka ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yazarın iki farklı yönde okunabilen metinler bırakmış olması, atlasın bir düşünüre tek bir tez atfetmemesinin nedenidir; hangi eserin okunduğuna göre sonuç",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, ölümünden yalnızca birkaç gün önce tamamladığı son eserinde Tanrı'nın yaratıklarının aracılığıyla yaratıp yaratmadığını tartıştığını ve meselenin kesin ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tanrı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir düşünürün son eserinde bir soruyu açık bırakması, atlasın hakemlik etmeme ilkesinin en eski örneklerinden biridir: kararsızlık da bir konumdur ve kaydedilir",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Eleştirisinin yöneldiği felsefe geleneğinin bir önceki halkası için tutulan kayıt, o düşünürün hayatı hakkında güvenilir pek az şey bilindiğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir eleştirinin, hakkında az şey bilinen bir düşünüre yöneltilmiş olması, tartışmanın kişilerle değil metinlerle yürüdüğünü gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir eleştirinin, hakkında az şey bilinen bir düşünüre yöneltilmiş olması, tartışmanın kişilerle değil metinlerle yürüdüğünü gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bağımsız bir ansiklopedinin madde listesi adı farklı bir imlayla tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı düşünürün adının iki ansiklopedide iki ayrı biçimde yazılması, atlasın kimlik alanını neden ad değil kimlik dizgesi üzerinden kurduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı düşünürün adının iki ansiklopedide iki ayrı biçimde yazılması, atlasın kimlik alanını neden ad değil kimlik dizgesi üzerinden kurduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hayatı, Nizâmiye'deki görevi, Tehâfüt'ün içeriği, tasavvufa yönelişi ve sonraki etkisi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölüm",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

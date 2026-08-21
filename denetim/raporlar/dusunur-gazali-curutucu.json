@@ -1,0 +1,14 @@
+{
+  "id": "dusunur-gazali",
+  "gecis": 3,
+  "zaman": "2026-08-21T08:46:45.455Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir düşünürün son eserinde bir soruyu açık bırakması,[^k1] atlasın hakemlik etmeme ilkesinin en eski örneklerinden biridir: kararsızlık da bir konumdur ve kaydedilir.",
+      "sorun": "\"en eski\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

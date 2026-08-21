@@ -45,6 +45,8 @@ ilgili:
   - dusunur-konfucyus
   - dusunur-platon
   - dusunur-kautilya
+  - dusunur-farabi
+  - dusunur-gazali
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

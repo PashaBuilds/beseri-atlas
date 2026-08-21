@@ -12,6 +12,7 @@ etiketler: [asabiyet, umran, mukaddime, tarih-felsefesi, magrib]
 ilgili:
   - kavram-asabiyet
   - dusunur-aristoteles
+  - dusunur-gazali
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

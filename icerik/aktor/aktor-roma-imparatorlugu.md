@@ -26,6 +26,7 @@ ilgili:
   - aktor-aksum-kralligi
   - aktor-hun-imparatorlugu
   - dusunur-tacitus
+  - dusunur-augustinus
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

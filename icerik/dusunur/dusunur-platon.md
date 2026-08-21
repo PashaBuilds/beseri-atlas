@@ -16,6 +16,7 @@ ilgili:
   - dusunur-thukydides
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-konfucyus
+  - dusunur-augustinus
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
