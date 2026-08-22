@@ -1,0 +1,61 @@
+# Beseri Atlas — GitHub Pages dagitimi.
+#
+# `npm run build` on build kapisinin tamamini calistirir; CI'da hicbiri
+# atlanmaz (§11). Yani buradaki dagitim, kapilardan gecmeyen icerigi
+# yayimlayamaz — kapi kirilirsa is basarisiz olur ve site guncellenmez.
+name: Pages
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Ayni anda tek dagitim; devam eden kosu iptal edilmez ki yarim yayin olmasin.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  derle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - run: npm ci
+
+      # KAPI 8/10 her kosuda 329 URL cekiyor. Onbellek hem kosuyu hizlandirir
+      # hem de kaynak sunuculari her push'ta yeniden yormamizi onler — hiz
+      # sinirlamasi zaten bu kapinin bir numarali yanlis pozitif kaynagiydi.
+      # TTL 7 gun oldugu icin bayat girdi kendi kendine duser; kapi gevsemez.
+      - uses: actions/cache@v4
+        with:
+          path: denetim/.onbellek
+          key: kaynak-onbellek-${{ hashFiles('icerik/**/*.md') }}
+          restore-keys: kaynak-onbellek-
+
+      - run: npm run build
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  dagit:
+    needs: derle
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.dagitim.outputs.page_url }}
+    steps:
+      - id: dagitim
+        uses: actions/deploy-pages@v4
