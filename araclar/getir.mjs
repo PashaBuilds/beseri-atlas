@@ -47,8 +47,11 @@ const bekle = (ms) => new Promise((r) => setTimeout(r, ms));
 
 /**
  * Tek denemede ag hatasi alan URL'i olu saymak yanlis pozitif uretir; bu kapiyi
- * gevsetmek degil, dogru olcmektir. HTTP durum kodu donduyse tekrar denenmez —
- * 404 gercekten 404'tur.
+ * gevsetmek degil, dogru olcmektir.
+ *
+ * 4xx donduyse tekrar denenmez — 404 gercekten 404'tur. 5xx ise sunucunun O ANKI
+ * durumudur, kaynagin kalici ozelligi degil: hiz sinirlamasi ve gecici kesinti
+ * bu sinifa duser, dolayisiyla ag hatasi gibi yeniden denenir.
  */
 export async function getir(url, { taze = false, metinSakla = true, deneme = 3 } = {}) {
   if (!taze) {
@@ -74,7 +77,9 @@ export async function getir(url, { taze = false, metinSakla = true, deneme = 3 }
         sonuc.metin = tip.includes('html') ? metneCevir(ham).slice(0, 400000) : ham.slice(0, 400000);
         sonuc.baslik = /<title[^>]*>([\s\S]*?)<\/title>/i.exec(ham)?.[1]?.trim().slice(0, 300) || '';
       }
-      break; // HTTP cevabi alindi
+      // 5xx: sunucu gecici olarak cevap veremiyor. Son deneme degilse bekle ve tekrar dene.
+      if (r.status >= 500 && i < deneme - 1) { await bekle(1500 * (i + 1)); continue; }
+      break; // kalici HTTP cevabi alindi
     } catch (e) {
       sonuc.durum = 0;
       sonuc.hata = e.name === 'AbortError' ? 'zaman asimi' : (e.cause?.code || e.message);
@@ -85,7 +90,10 @@ export async function getir(url, { taze = false, metinSakla = true, deneme = 3 }
   }
   fs.mkdirSync(ONBELLEK, { recursive: true });
   // Ag hatalari onbellege alinmaz; sonraki kosuda yeniden denenmelidir.
-  if (sonuc.durum !== 0) fs.writeFileSync(yol(url), JSON.stringify(sonuc));
+  // 5xx ayni sinifa girer. Onbelleklenirse tek bir hiz-sinirlama cevabi TTL
+  // boyunca (7 gun) geri donulur ve kapi, sunucu coktan duzeldigi halde kirik
+  // kalir — 2026-08-22'de gutenberg.org'da tam olarak bu yasandi.
+  if (sonuc.durum !== 0 && sonuc.durum < 500) fs.writeFileSync(yol(url), JSON.stringify(sonuc));
   return sonuc;
 }
 

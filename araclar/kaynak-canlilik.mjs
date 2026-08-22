@@ -5,9 +5,44 @@
 // Britannica) bu kapidan gecemez. Kapiyi gevsetmek yerine o siteler
 // kaynak-havuzu.yaml'da `dogrulanabilir: false` olarak isaretlenir ve
 // kunyede kullanilmazlar. Bkz. §15 "Kapiyi gevsetmek" yasagi.
+//
+// OLU ile OLCULEMEDI ayrimi (2026-08-23):
+//   4xx  -> kaynak erisilemez. HATA. Kunyede kullanilamaz.
+//   5xx / baglanti hatasi -> sunucunun O ANKI durumu. "Olu" degil "olcemedim".
+//
+// Bu ayrim projenin kendi ilkesidir; turet.mjs ayni cumleyi kuruyor:
+// "Turetilemeyen iddia bir CURUTME DEGILDIR." Gecici bir kesintiyi olu link
+// saymak, kapiyi sert degil YANLIS yapar — olcmedigi seyi olctugunu sanir.
+//
+// Ama "olcemedim" sonsuza kadar bedava degildir. Olculemeyen her URL
+// denetim/olculemeyen.json defterine ilk gorulme tarihiyle yazilir; OLCULEMEZ_
+// SABIR_GUN gun boyunca olculemeyen URL HATA olur. Bir haftadir erisilemeyen
+// kaynak gecici kesinti degil, kullanilamaz kaynaktir. Ayrica olculemeyenlerin
+// orani tavani asarsa kapi kirilir: o noktada basarisiz olan sey korpus degil
+// olcumun kendisidir ve "gecti" demek yanlis beyan olur.
 import path from 'node:path';
-import { Rapor, makaleleriTopla, yamlOku, ICERIK } from './ortak.mjs';
+import { Rapor, makaleleriTopla, yamlOku, oku, yaz, varMi, ICERIK, KOK } from './ortak.mjs';
 import { getir, normalize } from './getir.mjs';
+
+// Ayni alan adina paralel baglanmak sitenin hiz sinirlamasini tetikliyor ve
+// kapi kendi trafigi yuzunden kiriliyordu. Es zamanlilik artik FARKLI alan
+// adlari arasinda; ayni alana istekler sirayla ve araliklarla gider.
+const ESZAMANLI_ALAN = 6;
+const AYNI_ALAN_ARALIK_MS = 600;
+
+const OLCULEMEZ_SABIR_GUN = 7;
+const OLCULEMEZ_TAVAN_ORAN = 0.20;
+const DEFTER = path.join(KOK, 'denetim', 'olculemeyen.json');
+
+const bekle = (ms) => new Promise((r) => setTimeout(r, ms));
+
+function defterOku() {
+  if (!varMi(DEFTER)) return {};
+  try { return JSON.parse(oku(DEFTER)); } catch { return {}; }
+}
+function defterYaz(d) {
+  yaz(DEFTER, `${JSON.stringify(d, null, 2)}\n`);
+}
 
 /** Kunyeden sayfada aranacak dizeyi turetir. */
 export function dogrulamaDizesi(kaynak) {
@@ -61,26 +96,93 @@ export async function canlilikDenetimi(makaleler, { taze = false, izinliHavuz = 
   }
 
   const urller = [...gorulen.keys()];
-  const ESZAMANLI = 6;
-  for (let i = 0; i < urller.length; i += ESZAMANLI) {
-    const dilim = urller.slice(i, i + ESZAMANLI);
-    const sonuclar = await Promise.all(dilim.map((u) => getir(u, { taze })));
-    for (let j = 0; j < dilim.length; j++) {
-      const s = sonuclar[j];
-      for (const { m, k } of gorulen.get(dilim[j])) {
-        if (s.durum !== 200) {
-          r8.hata(m.goreli, `${k.anahtar}: HTTP ${s.durum || 'baglanti hatasi'}${s.hata ? ` (${s.hata})` : ''} — ${dilim[j]}`);
-          continue;
-        }
-        const dize = dogrulamaDizesi(k);
-        const kontrol = dizeGeciyorMu(`${s.baslik || ''} ${s.metin || ''}`, dize);
-        if (!kontrol.ok) {
-          r10.hata(m.goreli, `${k.anahtar}: kunye dizesi sayfada bulunamadi (eslesme %${Math.round(kontrol.oran * 100)}) — aranan: "${dize}"`);
-        }
+
+  // Alan adina gore kumele; her alanin kendi sirasi var.
+  const alanKuyruklari = new Map();
+  for (const u of urller) {
+    const a = new URL(u).hostname;
+    if (!alanKuyruklari.has(a)) alanKuyruklari.set(a, []);
+    alanKuyruklari.get(a).push(u);
+  }
+
+  const cevaplar = new Map();
+  const alanlar = [...alanKuyruklari.keys()];
+  let siradaki = 0;
+  async function isci() {
+    while (siradaki < alanlar.length) {
+      const liste = alanKuyruklari.get(alanlar[siradaki++]);
+      let oncekiAgdanGeldi = false;
+      for (const u of liste) {
+        // Onbellekten donen cevap sunucuya dokunmaz; bekleme yalnizca gercek
+        // istekler arasinda gerekir, aksi halde onbellekli kosu bosuna yavaslar.
+        if (oncekiAgdanGeldi) await bekle(AYNI_ALAN_ARALIK_MS);
+        const s = await getir(u, { taze });
+        oncekiAgdanGeldi = !s.onbellek;
+        cevaplar.set(u, s);
       }
     }
   }
-  return { r8, r10, kontrolEdilen: urller.length };
+  await Promise.all(Array.from({ length: Math.min(ESZAMANLI_ALAN, alanlar.length) }, isci));
+
+  const defter = defterOku();
+  const simdi = Date.now();
+  const olculemeyenler = [];
+
+  for (const u of urller) {
+    const s = cevaplar.get(u);
+    const olculemedi = s.durum === 0 || s.durum >= 500;
+
+    if (olculemedi) {
+      const kayit = defter[u] || { ilk_gorulme: new Date(simdi).toISOString(), kez: 0 };
+      kayit.kez += 1;
+      kayit.son_gorulme = new Date(simdi).toISOString();
+      kayit.son_durum = s.durum === 0 ? (s.hata || 'baglanti hatasi') : `HTTP ${s.durum}`;
+      defter[u] = kayit;
+
+      const gun = (simdi - Date.parse(kayit.ilk_gorulme)) / 86400000;
+      olculemeyenler.push({ url: u, gun, kayit });
+      if (gun > OLCULEMEZ_SABIR_GUN) {
+        for (const { m, k } of gorulen.get(u)) {
+          r8.hata(m.goreli, `${k.anahtar}: ${Math.floor(gun)} gundur olculemiyor (${kayit.son_durum}) — kaynak degistirilmeli: ${u}`);
+        }
+      }
+      continue;
+    }
+
+    // Olculdu: defterden dusur, sonucu yargila.
+    delete defter[u];
+    for (const { m, k } of gorulen.get(u)) {
+      if (s.durum !== 200) {
+        r8.hata(m.goreli, `${k.anahtar}: HTTP ${s.durum} — ${u}`);
+        continue;
+      }
+      const dize = dogrulamaDizesi(k);
+      const kontrol = dizeGeciyorMu(`${s.baslik || ''} ${s.metin || ''}`, dize);
+      if (!kontrol.ok) {
+        r10.hata(m.goreli, `${k.anahtar}: kunye dizesi sayfada bulunamadi (eslesme %${Math.round(kontrol.oran * 100)}) — aranan: "${dize}"`);
+      }
+    }
+  }
+
+  defterYaz(defter);
+
+  // Olculemeyenler sessizce gecmez: her kosuda gorunur.
+  const oran = urller.length ? olculemeyenler.length / urller.length : 0;
+  r8.ozetSatirlari = [
+    `${urller.length} benzersiz URL · ${alanlar.length} alan adi · olculemeyen ${olculemeyenler.length} (%${(oran * 100).toFixed(1)})`,
+    ...olculemeyenler
+      .sort((a, b) => b.gun - a.gun)
+      .slice(0, 10)
+      .map((o) => `  ${o.kayit.son_durum} · ${o.gun < 1 ? 'bugun' : `${Math.floor(o.gun)} gundur`} · ${o.url}`),
+  ];
+  r8.olcum = { url: urller.length, alan: alanlar.length, olculemeyen: olculemeyenler.length, oran: Number(oran.toFixed(4)) };
+
+  if (oran > OLCULEMEZ_TAVAN_ORAN) {
+    r8.hata('denetim/olculemeyen.json',
+      `URL'lerin %${(oran * 100).toFixed(1)}'i olculemedi (tavan %${OLCULEMEZ_TAVAN_ORAN * 100}) — basarisiz olan korpus degil olcumun kendisi; "gecti" demek yanlis beyan olur`);
+  }
+
+  return { r8, r10, kontrolEdilen: urller.length, olculemeyen: olculemeyenler.length };
 }
 
 if (import.meta.url === `file://${process.argv[1].replace(/\\/g, '/')}` || process.argv[1]?.endsWith('kaynak-canlilik.mjs')) {
@@ -89,6 +191,7 @@ if (import.meta.url === `file://${process.argv[1].replace(/\\/g, '/')}` || proce
   const { r8, r10, kontrolEdilen } = await canlilikDenetimi(makaleler, { taze });
   console.log(`${kontrolEdilen} benzersiz URL kontrol edildi\n`);
   r8.yazdir();
+  for (const s of r8.ozetSatirlari || []) console.log(`   ${s}`);
   r10.yazdir();
   process.exit(r8.gecti && r10.gecti ? 0 : 1);
 }
