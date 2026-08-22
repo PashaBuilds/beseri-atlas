@@ -34,6 +34,20 @@ import { Rapor, KOK, makaleleriTopla, varMi, oku } from './ortak.mjs';
 
 const DIST = path.join(KOK, 'dist');
 
+// Site GitHub Pages proje sayfasi olarak bir alt dizinde yayimlanir; derlenmis
+// href'ler o taban ile baslar ama dist/ agacinda taban dizini YOKTUR. Tabani
+// astro.config.mjs'den okuyup soyuyoruz — elle ikinci bir yere yazmak, iki
+// degerin ayrisabilecegi bir nokta yaratirdi.
+const TABAN = (/^const TABAN = ['"`]([^'"`]*)['"`]/m.exec(oku(path.join(KOK, 'astro.config.mjs')))?.[1] || '')
+  .replace(/\/+$/, '');
+
+/** Derlenmis bir href'i dist/ agacindaki yola cevirir. */
+export function tabaniSoy(href) {
+  if (!TABAN) return href;
+  if (href === TABAN) return '/';
+  return href.startsWith(`${TABAN}/`) ? href.slice(TABAN.length) : null;  // null: taban disi ic bag
+}
+
 /** Render sizintilari — sayfa METNINDE gorunurse hatadir. */
 const SIZINTI = [
   { re: /\bundefined\b/, ad: 'undefined' },
@@ -130,11 +144,16 @@ export function ciktiDenetimi({ makaleler = makaleleriTopla() } = {}) {
 
     // 2 — ic bag butunlugu (render edilmis href'ler)
     for (const m of html.matchAll(/<a\b[^>]*\shref="(\/[^"#?]*)"/g)) {
-      const hedef = m[1].endsWith('/') ? m[1] : `${m[1]}/`;
       bagSayisi += 1;
+      const ic = tabaniSoy(m[1]);
+      if (ic === null) {
+        r.hata(goreli, `taban disi ic bag: ${m[1]} — bag() yardimcisindan gecmemis`);
+        continue;
+      }
+      const hedef = ic.endsWith('/') ? ic : `${ic}/`;
       if (varOlanYollar.has(hedef)) continue;
       // Dosya olarak var mi (ornegin /favicon.svg, /veri-setleri/x.csv)?
-      if (varMi(path.join(DIST, m[1].replace(/^\//, '')))) continue;
+      if (varMi(path.join(DIST, ic.replace(/^\//, '')))) continue;
       r.hata(goreli, `kirik ic bag: ${m[1]}`);
     }
   }

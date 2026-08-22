@@ -4,3 +4,5 @@ dist/
 denetim/.onbellek/
 otonom/is-emri.md
 *.log
+
+.DS_Store

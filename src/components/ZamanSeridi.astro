@@ -1,4 +1,5 @@
 ---
+import { bag } from '../lib/icerik';
 /**
  * İMZA ÖĞESİ — Paralel Zaman Şeridi (§12)
  *
@@ -54,7 +55,7 @@ const hucre = (d: Props['donemler'][number], bolge: string) =>
           <th scope="col" class="serit__kose"><span class="gizli-gorsel">Bölge</span></th>
           {donemler.map((d) => (
             <th scope="col" class:list={['serit__basSut', aktif === d.id && 'serit__basSut--aktif']}>
-              <a href={`/donem/${d.no}/`} class="serit__basBag">
+              <a href={bag(`/donem/${d.no}/`)} class="serit__basBag">
                 <span class="serit__no">{d.no}</span>
                 <span class="serit__aralik">{d.aralik}</span>
                 <span class="gizli-gorsel">{d.baslik}</span>

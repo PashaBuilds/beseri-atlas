@@ -1,6 +1,6 @@
 {
-  "mod": "--pre",
-  "zaman": "2026-08-21T13:16:56.799Z",
+  "mod": "--ag",
+  "zaman": "2026-08-22T22:37:37.789Z",
   "gecti": true,
   "makale_sayisi": 359,
   "kapilar": [
@@ -47,18 +47,62 @@
       "hatalar": []
     },
     {
-      "kapi": "KAPI 6 — onay filtresi",
+      "kapi": "KAPI 11 — derinlik (§3 uzunluk hedefi)",
       "gecti": true,
       "hata": 0,
       "uyari": 0,
-      "hatalar": []
+      "hatalar": [],
+      "olcum": {
+        "olculen": 302,
+        "hedefTutan": 0,
+        "borclu": 302,
+        "eksikKelime": 258964,
+        "tipOzet": {
+          "donem": {
+            "n": 16,
+            "tutan": 0,
+            "eksik": 30661
+          },
+          "olay": {
+            "n": 86,
+            "tutan": 0,
+            "eksik": 74454
+          },
+          "aktor": {
+            "n": 64,
+            "tutan": 0,
+            "eksik": 56483
+          },
+          "dusunur": {
+            "n": 36,
+            "tutan": 0,
+            "eksik": 31639
+          },
+          "kavram": {
+            "n": 64,
+            "tutan": 0,
+            "eksik": 23195
+          },
+          "tartisma": {
+            "n": 36,
+            "tutan": 0,
+            "eksik": 42532
+          }
+        }
+      }
     },
     {
       "kapi": "KAPI 8 — kaynak canliligi",
       "gecti": true,
       "hata": 0,
       "uyari": 0,
-      "hatalar": []
+      "hatalar": [],
+      "olcum": {
+        "url": 329,
+        "alan": 10,
+        "olculemeyen": 0,
+        "oran": 0
+      }
     },
     {
       "kapi": "KAPI 10 — uydurma kaynak kontrolu",

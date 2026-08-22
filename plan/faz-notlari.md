@@ -498,3 +498,96 @@ KAPI 12 render *artıklarını* ve *sayısal tutarlılığı* yakalar; anlam
 düzeyindeki çelişkiyi (1 numaralı hata gibi) yakalayamaz. Onu yakalayan şey
 bir kapı değil, sayının nereden geldiğini sayfada beyan etme kuralı oldu.
 
+
+## KAPI 8 kendi trafigi yuzunden kiriliyordu (2026-08-23)
+
+Tam `npm run build` KAPI 8'de 19 hatayla kiriliyordu. Hatalarin tamami iki
+alan adindan geliyordu: `plato.stanford.edu` (UND_ERR_CONNECT_TIMEOUT) ve
+`gutenberg.org` (HTTP 503). Ayni URL'ler tek tek cekildiginde 200 donuyordu —
+curl 1,3 sn, Node fetch 861 ms.
+
+### Kok neden
+
+329 benzersiz URL yalnizca **10 alan adina** dagiliyor; alan basina ~33 istek.
+Cekici 6 eszamanli calisiyordu ve dilimleme URL sirasina gore yapildigi icin
+ayni alana altisi birden gidiyordu. Site bizi hiz sinirlamasina aliyordu.
+Kapi, olcmeye calistigi seyi kendi trafigiyle bozuyordu.
+
+Ikinci ve daha sinsi kusur: `getir.mjs` "ag hatalari onbellege alinmaz" diyordu
+ama kosul `durum !== 0` idi — 5xx bir durum kodu oldugu icin **onbellege
+giriyordu**, TTL 7 gun. Gutenberg'in gecici 503'u diske yazildi ve sonraki iki
+kosuda hic istek atilmadan geri dondu. Gecici bir kisitlama, bir haftalik
+build arizasina donusmustu. Onbellek girdisini elle silip dogruladim.
+
+### Yapilan
+
+1. **Alan adi bazli nezaket.** Es zamanlilik artik FARKLI alan adlari arasinda
+   (6 alan paralel); ayni alana istekler sirayla ve 600 ms araliklarla gider.
+   Onbellekten donen cevap sunucuya dokunmadigi icin bekleme yalnizca gercek
+   istekler arasinda uygulanir — onbellekli kosu yavaslamaz.
+2. **5xx onbelleklenmez** ve `getir()` icinde yeniden denenir (4xx denenmez;
+   404 gercekten 404'tur).
+3. **OLU ile OLCULEMEDI ayrildi.** 4xx -> HATA. 5xx/baglanti hatasi ->
+   "olcemedim". Bu ayrim projenin kendi ilkesidir; turet.mjs ayni cumleyi
+   kuruyor: "Turetilemeyen iddia bir CURUTME DEGILDIR."
+
+### Bu bir kapi gevsetmesi mi?
+
+Hayir — cunku "olcemedim" bedava birakilmadi. Olculemeyen her URL
+`denetim/olculemeyen.json` defterine ilk gorulme tarihiyle yazilir:
+
+- 7 gunden uzun suredir olculemeyen URL **HATA** olur. Bir haftadir
+  erisilemeyen kaynak gecici kesinti degil, kullanilamaz kaynaktir.
+- Olculemeyenlerin orani %20'yi asarsa kapi kirilir: o noktada basarisiz olan
+  korpus degil olcumun kendisidir ve "gecti" demek yanlis beyan olur.
+- Olculemeyenler her kosuda ozet satirlarinda gorunur; sessizce gecmez.
+
+Net etki eskisinden SERT: eskiden gecici bir 503 hatti kiriyor ama kalici
+olarak olu bir kaynak, onbellek suresi doldugunda ayni sekilde yalnizca "bir
+kosu" hatasi veriyordu. Simdi gecici kesinti gurultu yapmiyor, kalici kesinti
+tarihiyle birlikte kayda geciyor ve kacinilmaz olarak hataya donusuyor.
+
+Reddedilen alternatifler:
+- **Es zamanliligi 1'e dusurmek:** kosuyu ~10 kat yavaslatirdi ve sorunu
+  cozmezdi; sorun toplam hiz degil, ayni alana paralel baglanmakti.
+- **5xx'i basitce yok saymak:** kalici olu bir kaynak sonsuza kadar gecerdi.
+  Defter tam olarak bu bosluğu kapatiyor.
+- **Bot korumasi gibi `dogrulanabilir: false` isaretlemek:** gutenberg.org
+  bot korumali degil, hiz sinirli. Kalici bir yasak, gecici bir olcum
+  sorununa yanlis cevaptir.
+
+Sonuc: soguk onbellekle (CI senaryosu) tam kosu 3 dk 20 sn, 329 URL'in 328'i
+olculdu, KAPI 8 ve 10 gecti.
+
+## Site alt dizine tasindi — GitHub Pages proje sayfasi (2026-08-23)
+
+GitHub Pages proje sayfalari `kullanici.github.io/<repo>/` altinda yayimlanir.
+Astro `base` ayari KENDI urettigi varlik yollarini onekler ama **markup'ta elle
+yazilan href'leri oneklemez**. Site tamamen kok-goreli baglarla yazilmisti.
+
+Iki katman ayri ayri ele alindi:
+
+1. **Sablon baglari** — `src/lib/icerik.ts` icinde `bag()` yardimcisi.
+   Butun `href`/`src` degerleri buradan gecer; `yol()` de onu kullanir.
+   Taban degisirse tek yerde degisir.
+2. **Makale govdesindeki baglar** — 349 dosyada 945 kok-goreli bag vardi.
+   Bunlari elle onekleyip makalelere dagitim yolunu gommek yanlis olurdu:
+   icerik, nerede yayimlandigini bilmemelidir. Yerine `remarkTaban` eklentisi
+   yazildi; onek build sirasinda ekleniyor, makaleler `/kavram/asabiyet/`
+   yazmaya devam ediyor.
+
+**KAPI 12 bu gocun denetleyicisi oldu.** Derlenmis href'leri gercek sayfalara
+karsi dogruladigi icin, oneklenmemis her bagi tek tek yakaladi: once
+`[slug].astro`'daki eksik import, sonra 945 markdown bagi. Kapiya "taban disi
+ic bag" tanisi eklendi — kirik bagdan farkli bir sey soyluyor: bag var, hedefi
+dogru, ama `bag()` yardimcisindan gecmemis.
+
+Yakalanan iki yukleme sirasi hatasi:
+- `remark-eklentileri.mjs` tabani modul yuklenirken okuyordu; import'lar hoist
+  edildigi icin `astro.config.mjs` ortam degiskenini yazmadan once calisiyor ve
+  taban her zaman bos goruunuyordu. Okuma cagri anina alindi.
+- `linter-cikti.mjs` tabani `astro.config.mjs`'den regex ile okuyor; `base:`
+  satiri `base: TABAN` olunca regex tutmaz oldu, `const TABAN = '...'`
+  satirini okuyacak sekilde guncellendi. Taban hala tek yerde tanimli.
+
+Sonuc: 373 sayfa, 7305 ic bagin tamami cozuluyor, 9/9 kapi 0 hata 0 uyari.

@@ -1,15 +1,16 @@
 ---
 import '../styles/temel.css';
+import { bag } from '../lib/icerik';
 export interface Props { baslik: string; ozet?: string; }
 const { baslik, ozet = 'Türkçe, kaynak-zorunlu beşeri bilimler bilgi atlası.' } = Astro.props;
 const yol = Astro.url.pathname;
 const menu = [
-  { ad: 'Zaman şeridi', h: '/zaman-seridi/' },
-  { ad: 'Dönemler', h: '/donem/' },
-  { ad: 'Tartışmalar', h: '/tartisma/' },
-  { ad: 'Ara', h: '/ara/' },
-  { ad: 'Dizin', h: '/dizin/' },
-  { ad: 'Hakkında', h: '/hakkinda/' },
+  { ad: 'Zaman şeridi', h: bag('/zaman-seridi/') },
+  { ad: 'Dönemler', h: bag('/donem/') },
+  { ad: 'Tartışmalar', h: bag('/tartisma/') },
+  { ad: 'Ara', h: bag('/ara/') },
+  { ad: 'Dizin', h: bag('/dizin/') },
+  { ad: 'Hakkında', h: bag('/hakkinda/') },
 ];
 ---
 <!doctype html>
@@ -20,7 +21,7 @@ const menu = [
     <title>{baslik} — Beşeri Atlas</title>
     <meta name="description" content={ozet} />
     <meta name="color-scheme" content="light dark" />
-    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href={bag("/favicon.svg")} type="image/svg+xml" />
     {/* Tema seçimi boyanmadan önce uygulanmalı — aksi hâlde yanıp söner. */}
     <script is:inline>
       (function () {
@@ -36,7 +37,7 @@ const menu = [
     <a class="atla" href="#ana">İçeriğe atla</a>
     <header class="ust">
       <div class="ust__ic">
-        <a class="marka" href="/">Beşeri <em>Atlas</em></a>
+        <a class="marka" href={bag("/")}>Beşeri <em>Atlas</em></a>
         <nav aria-label="Ana gezinme">
           {menu.map((m) => (
             <a href={m.h} aria-current={yol.startsWith(m.h) ? 'page' : undefined}>{m.ad}</a>

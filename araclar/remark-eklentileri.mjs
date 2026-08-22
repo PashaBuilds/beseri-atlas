@@ -6,7 +6,31 @@
 //  2. ::tartismali[metin]{harita=tartisma-...} -> tartışma haritasına yönlendiren
 //               blok. Bu direktif harita parametresi olmadan kullanılamaz (§6);
 //               KAPI 2 bunu build'den önce yakalar, burada ikinci savunma vardır.
+//  3. Taban öneki -> site bir alt dizinde yayımlandığında (GitHub Pages proje
+//               sayfası) gövdedeki kök-göreli bağlar kırılır. Önek build
+//               sırasında burada eklenir; makaleler dağıtım yolundan habersiz
+//               kalır ve `/kavram/asabiyet/` yazmaya devam eder.
 import { visit } from 'unist-util-visit';
+
+// Taban ÇAĞRI ANINDA okunur, modül yüklenirken değil: astro.config.mjs bu
+// modülü import ettikten SONRA process.env'e yazar (import'lar hoist edilir),
+// yüklenme anında okunsaydı taban her zaman boş görünürdü.
+const taban = () => (process.env.BESERI_TABAN ?? '').replace(/\/+$/, '');
+
+/** Kök-göreli bir yola taban önekini ekler. Dış bağlara ve çapalara dokunmaz. */
+export function tabanla(yol) {
+  const t = taban();
+  if (!t || typeof yol !== 'string') return yol;
+  if (!yol.startsWith('/') || yol.startsWith('//')) return yol;
+  return yol.startsWith(`${t}/`) ? yol : `${t}${yol}`;
+}
+
+export function remarkTaban() {
+  return (agac) => {
+    if (!taban()) return;
+    visit(agac, ['link', 'image'], (dugum) => { dugum.url = tabanla(dugum.url); });
+  };
+}
 
 export function remarkDipnot() {
   return (agac) => {
@@ -45,7 +69,7 @@ export function remarkDirektif() {
         return;
       }
       const [tip, ...rest] = harita.split('-');
-      const yol = `/${tip}/${rest.join('-')}/`;
+      const yol = tabanla(`/${tip}/${rest.join('-')}/`);
       const metin = dugum.children?.map((c) => c.value || '').join('') || '';
       dugum.type = 'html';
       dugum.value = `<aside class="tartismali-cagri" role="note">`

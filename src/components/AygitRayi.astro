@@ -1,6 +1,6 @@
 ---
 /** Sol aygıt rayı — kesitin derinlik ölçeği. Dönem, bölge, güven, bağlar. */
-import { BOLGE_ADLARI, GUVEN_ADLARI, TIP_ADLARI, yol } from '../lib/icerik';
+import { BOLGE_ADLARI, GUVEN_ADLARI, TIP_ADLARI, yol, bag } from '../lib/icerik';
 export interface Props { veri: any; ilgili?: any[]; okuma?: any[]; }
 const { veri, ilgili = [], okuma = [] } = Astro.props;
 const EKSEN_ADLARI: Record<string, string> = {
@@ -25,7 +25,7 @@ const tarih = [veri.tarih_baslangic, veri.tarih_bitis].filter(Boolean).join(' �
   {veri.donem && (
     <div class="ray__blok">
       <div class="ray__baslik">Dönem</div>
-      <div class="ray__deger"><a href={`/donem/${veri.donem}/`}>Dönem {veri.donem}</a></div>
+      <div class="ray__deger"><a href={bag(`/donem/${veri.donem}/`)}>Dönem {veri.donem}</a></div>
     </div>
   )}
 

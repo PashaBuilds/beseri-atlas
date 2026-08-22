@@ -6,7 +6,7 @@ import KaynakListesi from '../../components/KaynakListesi.astro';
 import ZamanSeridi from '../../components/ZamanSeridi.astro';
 import Pozisyonlar from '../../components/Pozisyonlar.astro';
 import VeriGrafigi from '../../components/VeriGrafigi.astro';
-import { tumOnayliIcerik, baglariCoz, TIP_ADLARI, GUVEN_ADLARI } from '../../lib/icerik';
+import { tumOnayliIcerik, baglariCoz, TIP_ADLARI, GUVEN_ADLARI, bag } from '../../lib/icerik';
 
 export async function getStaticPaths() {
   const korpus = await tumOnayliIcerik();
@@ -91,7 +91,7 @@ const okuma = baglariCoz(v.okuma_onerisi, korpus);
         Bu makale otonom olarak üretildi ve otonom olarak denetlendi
         (son denetim: {v.son_denetim}, {v.kaynaklar.length} kaynak,
         güven seviyesi: {GUVEN_ADLARI[v.guven_geneli].toLocaleLowerCase('tr')}).
-        Ölçülen doğrulama oranı ve bilinen sınırlar için <a href="/hakkinda/">Hakkında</a>.
+        Ölçülen doğrulama oranı ve bilinen sınırlar için <a href={bag("/hakkinda/")}>Hakkında</a>.
       </p>
     </main>
   </div>

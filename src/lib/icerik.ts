@@ -34,9 +34,21 @@ export async function tumOnayliIcerik() {
   return gruplar.flat();
 }
 
+// Site GitHub Pages proje sayfasi olarak /beseri-atlas/ altinda yayimlanir.
+// Astro yalnizca KENDI urettigi varlik yollarini taban ile onekler; markup'ta
+// elle yazilan href'leri oneklemez. Bu yuzden BUTUN ic baglar bag()'dan gecer —
+// tek gecis noktasi olmasi, taban degisirse tek yerde degismesini saglar.
+// KAPI 12 (linter-cikti.mjs) derlenmis href'leri gercek sayfalara karsi
+// dogruladigi icin, buradan gecmeyi unutan bir bag build'i kirar.
+const TABAN = import.meta.env.BASE_URL.replace(/\/+$/, '');
+
+export function bag(p: string) {
+  return `${TABAN}${p.startsWith('/') ? p : `/${p}`}`;
+}
+
 export function yol(id: string) {
   const [tip, ...rest] = id.split('-');
-  return `/${tip}/${rest.join('-')}/`;
+  return bag(`/${tip}/${rest.join('-')}/`);
 }
 
 /** Bir makalenin `ilgili` id'lerini, yalnızca yayınlanmış olanlarla çözer. */

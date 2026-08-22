@@ -12,7 +12,7 @@
  * bir kutu göstermez: aynı korpusa götüren gezinme yollarını gösterir.
  */
 import Temel from '../layouts/Temel.astro';
-import { tumOnayliIcerik, TIPLER, TIP_ADLARI } from '../lib/icerik';
+import { tumOnayliIcerik, TIPLER, TIP_ADLARI, bag } from '../lib/icerik';
 
 const korpus = await tumOnayliIcerik();
 const tipSayisi = TIPLER.map((t) => ({
@@ -22,7 +22,7 @@ const tipSayisi = TIPLER.map((t) => ({
 })).filter((x) => x.n > 0);
 ---
 <Temel baslik="Ara" ozet="Yayımlanmış bütün makalelerde tam metin arama.">
-  <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+  <link rel="stylesheet" href={bag("/pagefind/pagefind-ui.css")} />
 
   <main id="ana" class="ara">
     <p class="veri-etiket">Tam metin</p>
@@ -42,10 +42,10 @@ const tipSayisi = TIPLER.map((t) => ({
           ulaşabilirsiniz — hepsi JS'siz çalışır:
         </p>
         <ul>
-          <li><a href="/dizin/">Dizin</a> — yayımlanmış bütün makaleler, alfabetik</li>
-          <li><a href="/zaman-seridi/">Zaman şeridi</a> — altı bölge, on altı dönem</li>
+          <li><a href={bag("/dizin/")}>Dizin</a> — yayımlanmış bütün makaleler, alfabetik</li>
+          <li><a href={bag("/zaman-seridi/")}>Zaman şeridi</a> — altı bölge, on altı dönem</li>
           {tipSayisi.map((x) => (
-            <li><a href={`/${x.tip}/`}>{x.ad}</a> — {x.n} makale</li>
+            <li><a href={bag(`/${x.tip}/`)}>{x.ad}</a> — {x.n} makale</li>
           ))}
         </ul>
       </div>
@@ -53,8 +53,8 @@ const tipSayisi = TIPLER.map((t) => ({
   </main>
 </Temel>
 
-<script is:inline src="/pagefind/pagefind-ui.js"></script>
-<script is:inline>
+<script is:inline src={bag("/pagefind/pagefind-ui.js")}></script>
+<script is:inline define:vars={{ DIZIN_BAGI: bag("/dizin/") }}>
   window.addEventListener('DOMContentLoaded', function () {
     if (typeof PagefindUI === 'undefined') {
       // Indeks yok (ornegin `astro dev` sirasinda): sessizce bosaltmak yerine
@@ -63,7 +63,7 @@ const tipSayisi = TIPLER.map((t) => ({
       if (k) {
         k.innerHTML = '<p class="ara__yok">Arama indeksi bulunamadı. '
           + 'Geliştirme sunucusunda indeks üretilmez; <code>npm run build</code> '
-          + 'sonrasında çalışır. Bu arada <a href="/dizin/">Dizin</a> kullanılabilir.</p>';
+          + 'sonrasında çalışır. Bu arada <a href="' + DIZIN_BAGI + '">Dizin</a> kullanılabilir.</p>';
       }
       return;
     }
