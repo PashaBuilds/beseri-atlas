@@ -446,3 +446,55 @@ saglayicinin **kendi dosyasinin ic yapisina** dairdir (bir serinin ilk gozlem
 yili gibi). Gecis 4 tanimi geregi baska bir alan adi ister; bu tur iddialar
 tanim geregi baska alan adindan turetilemez. Onlar Gecis 2'de (denetle.mjs)
 dogrudan kaynak dosyasina karsi dogrulanir.
+
+---
+
+## Faz 5 sonrası — kapı takımının kör noktası (2026-08-22)
+
+### Bulgu
+
+On build kapısının **tamamı** markdown kaynağı ve frontmatter üzerinde
+çalışıyordu. Tek istisna KAPI 6'nın dist tarafıydı ve o da yalnızca "onaysız
+içerik yayına girmiş mi" diye soruyordu. Okuyucunun gördüğü sayfayı denetleyen
+hiçbir kapı yoktu.
+
+Bu boşlukta üç gerçek hata yaşadı ve **üçü de on kapının hepsinden geçti**:
+
+1. `/hakkinda/` kendisiyle çelişen bir cümle yayımlıyordu: "Ölçülen doğrulama
+   oranı %100 — yani her 20 iddiadan yaklaşık 1 tanesinin doğrulanamaması
+   beklenir." Yanlış olan yuvarlama değil çıkarımın kendisiydi; oran 20 iddia
+   üzerinden değil, bağımsız türetilebilen 8 değer üzerinden ölçülmüştü.
+2. Grafik eksenleri bini aşan her değeri 1000'e bölüp " mr" ile etiketliyordu.
+   8,2 milyar kişi "8.231.613,1 mr" okunuyordu; 24 veri sayfasının 8'i etkilendi.
+3. Ölçeklenmeyen seriler tam sayıya yuvarlanıyordu. Aralığı 0–1 olan serilerin
+   ekseni tamamen çöküyordu: demokrasi endeksi `0 0 0 0 1`, Gini `0 0 0 1 1`.
+   Bu üçüncüsü **KAPI 12'nin ilk koşusunda bulundu** — 1 ve 2 elle bulunmuştu.
+
+### Ders
+
+Kaynağı denetleyen bir hat, okuyucunun gördüğünü denetlemiş olmuyor. Bir
+doğrulama hattının kapsamı, denetlediği **katman** kadardır: markdown doğru
+olabilir ve sayfa yine de yanlış bilgi gösterebilir.
+
+Aynı ders derinlik için de geçerliydi (KAPI 11): ölçülmeyen boyut tutulmaz.
+Korpus 359 makalede %100 "onaylandı" görünürken §3 uzunluk hedefini tutan
+makale sayısı 0/302'ydi, çünkü hiçbir kapı uzunluğa bakmıyordu.
+
+### Yapılan
+
+- **KAPI 11 — derinlik** (`araclar/linter-derinlik.mjs`): §3 uzunluk hedefi.
+- **KAPI 12 — çıktı denetimi** (`araclar/linter-cikti.mjs`): `dist/` üzerinde
+  render artığı, render edilmiş iç bağ bütünlüğü ve grafik ekseninin CSV
+  gerçeğiyle tutarlılığı. Sonuncusu 2 ve 3 numaralı hataları yakalayan tek
+  kontroldür.
+- **Pagefind** (§11): derleme anında üretilen tam metin araması. Kurulu değildi.
+
+KAPI 12 sentetik olarak sınandı: orijinal " mr" hatası geri konduğunda kapı 14
+hatayla kırıldı, geri alındığında temiz geçti.
+
+### Açık kalan
+
+KAPI 12 render *artıklarını* ve *sayısal tutarlılığı* yakalar; anlam
+düzeyindeki çelişkiyi (1 numaralı hata gibi) yakalayamaz. Onu yakalayan şey
+bir kapı değil, sayının nereden geldiğini sayfada beyan etme kuralı oldu.
+

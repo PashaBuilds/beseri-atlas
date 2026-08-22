@@ -19,6 +19,7 @@ import { hakemlikDenetimi } from './linter-hakemlik.mjs';
 import { linkDenetimi } from './linter-link.mjs';
 import { canlilikDenetimi } from './kaynak-canlilik.mjs';
 import { derinlikDenetimi } from './linter-derinlik.mjs';
+import { ciktiDenetimi } from './linter-cikti.mjs';
 
 export const YAYIN_DURUMU = 'onaylandi';
 
@@ -108,7 +109,10 @@ export async function kapilariCalistir(mod = '--lint') {
     const { r8, r10 } = await canlilikDenetimi(makaleler, { taze: mod === '--tam' });
     raporlar.push(r8, r10);
   }
-  if (mod === '--post') raporlar.push(ciktiFiltresi(makaleler));
+  if (mod === '--post') {
+    raporlar.push(ciktiFiltresi(makaleler));
+    raporlar.push(ciktiDenetimi({ makaleler }));
+  }
 
   for (const r of raporlar) {
     r.yazdir();

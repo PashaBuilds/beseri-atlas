@@ -39,9 +39,13 @@ const OLCEKLER = [
   { esik: 1e6, bol: 1e6, ad: 'milyon' },
 ];
 const olcek = OLCEKLER.find((o) => yMax >= o.esik) ?? { bol: 1, ad: '' };
+// Ondalik basamak, OLCEK'ten degil buyuklukten secilir. Eskiden olceklenmeyen
+// her seri tam sayiya yuvarlaniyordu; bu, araligi 0-1 olan serilerin eksenini
+// yok ediyordu (demokrasi endeksi "0 0 0 0 1", Gini "0 0 0 1 1" okuyordu).
+const ondalik = olcek.bol > 1 ? 1 : yMax >= 100 ? 0 : yMax >= 10 ? 1 : 2;
 /** Eksen tiki: olcege bolunmus ciplak sayi. */
 const bicim = (n: number) => (n / olcek.bol)
-  .toLocaleString('tr-TR', { maximumFractionDigits: olcek.bol === 1 ? 0 : 1 });
+  .toLocaleString('tr-TR', { maximumFractionDigits: ondalik });
 /** Duz metin: buyukluk adi ve birim ile birlikte ("8,2 milyar kisi"). */
 const tamBicim = (n: number) => `${bicim(n)}${olcek.ad ? ` ${olcek.ad}` : ''} ${veri.birim}`;
 /** Eksen basligi: olcek beyan edilir. Birimin kendisi zaten parantez
