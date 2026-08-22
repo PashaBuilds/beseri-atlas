@@ -8,6 +8,7 @@ import fs from 'node:fs';
 import YAML from 'yaml';
 import { KOK, makaleleriTopla, yaz, varMi, oku, yamlOku } from './ortak.mjs';
 import { metrikleriHesapla, raporlariOku, metrikDosyasi } from './metrikler.mjs';
+import { derinlikDenetimi, HEDEFLER } from './linter-derinlik.mjs';
 
 function durumOku() {
   const p = path.join(KOK, 'DURUM.md');
@@ -62,6 +63,24 @@ export function raporUret() {
   s.push('| Tip | Yayımlanan |', '|---|---|');
   for (const [tip, n] of [...tipSayim.entries()].sort()) s.push(`| ${tip} | ${n} |`);
   s.push('', `Toplam gövde: **${kelime.toLocaleString('tr-TR')}** kelime.`, '');
+
+  // §3 uzunluk hedefi — KAPI 11. Kelime toplamini hedefsiz vermek, korpusun
+  // ne kadarinin yazildigini degil yalnizca ne kadar yazildigini soyler.
+  const der = derinlikDenetimi(makaleler).olcum;
+  if (der && der.olculen > 0) {
+    s.push('### Derinlik (§3 uzunluk hedefi)', '');
+    s.push(`Hedefi tutan: **${der.hedefTutan}/${der.olculen}** · `
+      + `Eksik: **${der.eksikKelime.toLocaleString('tr-TR')}** kelime`, '');
+    s.push('| Tip | Hedefi tutan | Eksik kelime | §3 hedefi |', '|---|---|---|---|');
+    for (const [tip, o] of Object.entries(der.tipOzet).sort()) {
+      s.push(`| ${tip} | ${o.tutan}/${o.n} | ${o.eksik.toLocaleString('tr-TR')} | `
+        + `${HEDEFLER[tip].min}–${HEDEFLER[tip].max} |`);
+    }
+    s.push('', '`veri` ve `kaynak` tiplerinde §3 uzunluk hedefi vermediği için ölçüm',
+      'dışıdır. Borcun makale bazlı dökümü `denetim/derinlik-borcu.md` dosyasındadır;',
+      'neden kapatılamadığı ve hangi kararın beklendiği `denetim/MUDAHALE-GEREKLI.md`',
+      'içinde kayıtlıdır.', '');
+  }
 
   s.push('## Doğrulama', '');
   if (gecmis.length) {

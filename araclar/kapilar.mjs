@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // On build kapisinin tek calistiricisi.
 //
-//   node araclar/kapilar.mjs --lint   -> cevrimdisi kapilar (1,2,3,4,5,7,9)
+//   node araclar/kapilar.mjs --lint   -> cevrimdisi kapilar (1,2,3,4,5,7,9,11)
 //   node araclar/kapilar.mjs --ag     -> ag kapilari (8,10)
 //   node araclar/kapilar.mjs --pre    -> lint + onay filtresi (6) + ag kapilari
 //   node araclar/kapilar.mjs --post   -> build ciktisi uzerinde onay filtresi (6)
@@ -18,6 +18,7 @@ import { telifDenetimi } from './linter-telif.mjs';
 import { hakemlikDenetimi } from './linter-hakemlik.mjs';
 import { linkDenetimi } from './linter-link.mjs';
 import { canlilikDenetimi } from './kaynak-canlilik.mjs';
+import { derinlikDenetimi } from './linter-derinlik.mjs';
 
 export const YAYIN_DURUMU = 'onaylandi';
 
@@ -100,6 +101,7 @@ export async function kapilariCalistir(mod = '--lint') {
     raporlar.push(linkDenetimi(makaleler));
     raporlar.push(telifDenetimi(makaleler));
     raporlar.push(hakemlikDenetimi(makaleler));
+    raporlar.push(derinlikDenetimi(makaleler));
   }
   if (mod === '--pre' || mod === '--tam') raporlar.push(onayFiltresi(makaleler));
   if (mod === '--ag' || mod === '--pre' || mod === '--tam') {
@@ -108,13 +110,18 @@ export async function kapilariCalistir(mod = '--lint') {
   }
   if (mod === '--post') raporlar.push(ciktiFiltresi(makaleler));
 
-  for (const r of raporlar) r.yazdir();
+  for (const r of raporlar) {
+    r.yazdir();
+    // KAPI 11 gibi kapilar, hata uretmeseler de olctukleri seyi bildirir.
+    // Borcun her kosuda gorunmesi kapinin isinin yarisidir.
+    for (const satir of r.ozetSatirlari || []) console.log(`   ${RENK.gri(satir)}`);
+  }
   const gecti = ozet(raporlar);
 
   yaz(path.join(KOK, 'denetim', 'kapi-sonucu.json'), JSON.stringify({
     mod, zaman: new Date().toISOString(), gecti, makale_sayisi: makaleler.length,
     kapilar: raporlar.map((r) => ({ kapi: r.kapi, gecti: r.gecti, hata: r.hatalar.length, uyari: r.uyarilar.length,
-      hatalar: r.hatalar.slice(0, 50) })),
+      hatalar: r.hatalar.slice(0, 50), ...(r.olcum ? { olcum: r.olcum } : {}) })),
   }, null, 2));
   return { gecti, raporlar, makaleler };
 }

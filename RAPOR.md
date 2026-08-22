@@ -23,6 +23,24 @@ birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 
 Toplam gövde: **112.729** kelime.
 
+### Derinlik (§3 uzunluk hedefi)
+
+Hedefi tutan: **0/302** · Eksik: **258.964** kelime
+
+| Tip | Hedefi tutan | Eksik kelime | §3 hedefi |
+|---|---|---|---|
+| aktor | 0/64 | 56.483 | 1200–2000 |
+| donem | 0/16 | 30.661 | 2500–4000 |
+| dusunur | 0/36 | 31.639 | 1200–2000 |
+| kavram | 0/64 | 23.195 | 600–1000 |
+| olay | 0/86 | 74.454 | 1200–2000 |
+| tartisma | 0/36 | 42.532 | 1500–2500 |
+
+`veri` ve `kaynak` tiplerinde §3 uzunluk hedefi vermediği için ölçüm
+dışıdır. Borcun makale bazlı dökümü `denetim/derinlik-borcu.md` dosyasındadır;
+neden kapatılamadığı ve hangi kararın beklendiği `denetim/MUDAHALE-GEREKLI.md`
+içinde kayıtlıdır.
+
 ## Doğrulama
 
 Örnekleme kapısı geçmişi: 0.9583 / 0.8333 / 0.875 / 0.875 / 0.875 / 0.875 / 0.875 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1
@@ -60,6 +78,9 @@ Ayrıntılı liste `denetim/MUDAHALE-GEREKLI.md` dosyasındadır. Başlıklar:
 - UYGULANMAYAN onarım — bilerek kullanıcıya bırakılıyor
 - Durum
 - Karar alındı ve uygulandı — 2026-08-21
+- Bulgu
+- Yapılan
+- YAPILMAYAN — editoryal karar gerekiyor
 
 Karantinaya alınan makale yok.
 

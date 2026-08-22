@@ -248,3 +248,86 @@ Kalan **açık** madde: bu dosyadaki 2. ve 3. maddeler (Warren Thompson tarih
 ayrışması ve Osmanlı kuruluş tarihi) bilerek çözülmemiştir — ikisi de
 kaynaklar arası gerçek bir ayrışmadır ve İlke 3 gereği atlas hakemlik yapmaz.
 İlgili makaleler ayrışmayı metinde açıkça taşır.
+
+## KAPI 11 — derinlik kapısı devreye alındı, borç açık
+_2026-08-22_
+
+### Bulgu
+
+§3 her içerik tipi için bir uzunluk hedefi veriyor. On build kapısının hiçbiri
+bunu ölçmüyordu: kapıların tamamı şema, dipnot, terim, telif, link, hakemlik ve
+kaynak canlılığı üzerinde çalışıyor. Ölçülmeyen şey tutulmadı — korpus 359
+makalede %100 "onaylandı" görünürken hedefi tutan makale sayısı **0/302**.
+
+| tip | tutan | eksik kelime | §3 hedefi |
+|---|---|---|---|
+| donem | 0/16 | 30.661 | 2500–4000 |
+| olay | 0/86 | 74.454 | 1200–2000 |
+| aktor | 0/64 | 56.483 | 1200–2000 |
+| dusunur | 0/36 | 31.639 | 1200–2000 |
+| tartisma | 0/36 | 42.532 | 1500–2500 |
+| kavram | 0/64 | 23.195 | 600–1000 |
+
+Toplam eksik: **258.964 kelime**. `veri` ve `kaynak` tiplerinde §3 hedef
+vermediği için ölçüm dışıdır; bu araç onlara hedef uydurmaz.
+
+Bu, tek tek makalelerin kusuru değil, kapı takımının kör noktasıdır: hat
+ölçmediği bir boyutta ilerlediğini sanarak 359 makale üretti.
+
+### Yapılan
+
+`araclar/linter-derinlik.mjs` yazıldı ve KAPI 11 olarak hatta bağlandı.
+Eşik §3'te olduğu gibi bırakıldı — düşürülmedi. Zorlama biçimi:
+
+- **Yeni** makale §3 hedefinin altındaysa → HATA. Borç defterine giremez.
+- Var olan makale kendi tabanından **kısaldıysa** → HATA. Borç büyüyemez.
+- Var olan makale tabanı koruyup §3 altındaysa → borç sayılır ve **her koşuda**
+  toplu olarak raporlanır; sessizce geçmez.
+
+Gerekçe: kapı, korpus zaten üretilmişken devreye giriyor. Eşiği korpusa
+uydurmak §15'in "kapıyı gevşetmek" yasağıdır. Hemen sert kırmak ise 359
+makaleyi birden hatalı yapar, repo hiç derlenmez ve kapı sinyal olmaktan çıkıp
+gürültüye döner. Üçüncü yol seçildi: eşik yerinde, ölçüm görünür, borç kayıtlı.
+
+Sentetik sınama yapıldı: (1) var olan bir makaleden bölüm silindi → kapı
+kırıldı; (2) hedefin altında yeni makale eklendi → kapı kırıldı. İkisi de
+geri alındı.
+
+İş listesi: `denetim/derinlik-borcu.md` (302 satır, tip önceliğine göre sıralı —
+önce kronolojik omurga, sonra sentez katmanı, sonra ana gövde).
+`node araclar/linter-derinlik.mjs --liste` ile yeniden üretilir.
+
+### YAPILMAYAN — editoryal karar gerekiyor
+
+Borcun kapatılması, yani makalelerin §3 hedefine çekilmesi, **bu oturumda
+yapılamadı ve yapılmamalıydı.**
+
+Sebep teknik değil ilkeseldir. Eklenecek her paragraf İlke 1 gereği en az bir
+kaynak dipnotu taşımak zorundadır; dipnot, kaynağa gerçekten gidilerek
+doğrulanmış bir iddiaya bağlanmak zorundadır. Bu oturumun çalıştığı ortamda
+whitelist'teki bütün alan adlarına çıkış kapalıdır (`curl` bağlantı kuramıyor,
+`fetch` proxy'den 403 alıyor; en.wikipedia.org, plato.stanford.edu,
+islamansiklopedisi.org.tr, ourworldindata.org ayrı ayrı denendi). Kaynak
+araştırması yapılamayan bir ortamda 258.964 kelime üretmek, kaynaksız iddia
+yazmak veya künye uydurmak demektir — §15'in ilk iki yasağı tam olarak budur.
+
+Karantinaya almak da doğru değil: makaleler sığ, ama yanlış değil. Kaynak
+denetimi, çürütücü, çapraz tutarlılık ve telif kapılarının tamamından geçtiler.
+Sığlık bir doğruluk kusuru değil, bir kapsam borcudur.
+
+**Karar gerekiyor.** Seçenekler:
+
+1. Ağ erişimi olan bir ortamda `denetim/derinlik-borcu.md` sırasıyla yürütülür.
+   Borç, hattın kendi mekanizmasıyla kapatılır: her makale onarım kuyruğuna
+   alınır, Geçiş 2–4 yeniden koşar. Sayı büyük — 302 makale, ~259.000 kelime —
+   ama iş bölünebilir ve kapı ilerlemeyi ölçer.
+2. §3 hedefleri gözden geçirilir. Hedefler bir varsayıma dayanıyordu; korpus
+   üretildikten sonra o varsayımın hâlâ doğru olup olmadığı ayrı bir sorudur.
+   **Bu bir eşik düşürme olurdu ve ancak kullanıcı kararıyla yapılabilir** —
+   üretici oturum kendi ölçüsünü kendi lehine değiştiremez (aynı gerekçe
+   2026-08-21'de örnekleme puanlayıcısı için de geçerliydi).
+3. Borç açık bırakılır ve RAPOR.md'de beyan edilir. Hat çalışmaya devam eder,
+   yeni makaleler hedefi tutmak zorundadır, var olan borç büyüyemez.
+
+Karar verilene kadar mevcut davranış sürer: **3. seçenek**. Kapı borcu her
+koşuda raporlar, yeni içeriğe hedefi zorlar, var olanın kısalmasına izin vermez.
