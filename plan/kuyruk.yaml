@@ -2210,14 +2210,6 @@ isler:
     bagimlilik: []
     atanan_parti: null
     deneme: 0
-  - id: kavram-ictihad
-    tip: kavram
-    baslik: İctihad
-    durum: onaylandi
-    faz: 3
-    bagimlilik: []
-    atanan_parti: null
-    deneme: 0
   - id: kavram-tasavvuf
     tip: kavram
     baslik: Tasavvuf

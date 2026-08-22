@@ -20,10 +20,10 @@ kararlar:
       yapar. §10'un hedeflediği zayıflık — tek dipnotla ayakta duran bağımsız bir
       nedensellik yargısı — bu on makalede bulunmadı.
     istisna_incelendi:
-      - donem-13 "muharip ölümleri" paragrafı: kapsam sınırı zaten metinde açıkça
-        beyan ediliyor, ek kaynak gerekmiyor.
-      - kavram-demografik-gecis "eşzamanlı olmayan zamanlama": model tanımı,
-        kaynağın kendi formülasyonu.
+      - 'donem-13 "muharip ölümleri" paragrafı: kapsam sınırı zaten metinde açıkça
+        beyan ediliyor, ek kaynak gerekmiyor.'
+      - 'kavram-demografik-gecis "eşzamanlı olmayan zamanlama": model tanımı,
+        kaynağın kendi formülasyonu.'
 
   - tip: ustunluk-iddiasi
     kapsam: genel
@@ -587,7 +587,7 @@ hat_duzeltmesi:
   - bulgu: >-
       dusunur-malthus'ta dunya nufus serisine atif kapsam-carpitmasi olarak
       isaretlendi.
-    aksiyon: Etiket duzeltildi: bolge [avrupa, kuresel]. Metin degismedi.
+    aksiyon: 'Etiket duzeltildi: bolge [avrupa, kuresel]. Metin degismedi.'
   - bulgu: >-
       dusunur-hegel'de Schelling iliskisine dair cumle tek-kaynakli-nedensellik
       olarak isaretlendi.

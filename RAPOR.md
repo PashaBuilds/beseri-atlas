@@ -1,13 +1,13 @@
 # Beşeri Atlas — Nihai Rapor
 
-_Üretim tarihi: 2026-08-21 · Bu dosya `npm run rapor` ile ölçümlerden üretilir, elle yazılmaz._
+_Üretim tarihi: 2026-08-22 · Bu dosya `npm run rapor` ile ölçümlerden üretilir, elle yazılmaz._
 
 ## Kapsam
 
 Üretilen: **359** | Onaylanan: **359** | Karantinada: **0**
 
-Planlanan tam kapsam **358** makaledir; bu raporun yazıldığı anda
-**%100.3**'i yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
+Planlanan tam kapsam **359** makaledir; bu raporun yazıldığı anda
+**%100.0**'i yayına girmiştir. Kalan iş `plan/kuyruk.yaml` içinde durumuyla
 birlikte kayıtlıdır ve hat kaldığı yerden devam edebilir.
 
 | Tip | Yayımlanan |

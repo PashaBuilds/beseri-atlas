@@ -402,11 +402,14 @@ fazlar:
     - { id: veri-cocuk-olumleri, baslik: "Çocuk ölüm oranı" }
     - { id: veri-co2-emisyonu, baslik: "CO2 emisyonu" }
     - { id: veri-askeri-harcama, baslik: "Askerî harcama" }
-    # veri-demokrasi-endeksi: OWID uc noktasi 403 veriyor (yeniden dagitilamaz
-    # veri). Yerine ayni sayida baska bir kume kondu; bkz. plan/faz-notlari.md.
-    # Yer tutucu satir gercek bir kumeyle degistirildi (2026-08-21): EIU endeksi
-    # yerine V-Dem secimsel demokrasi endeksi uretildi, dolayisiyla yer tutucuya
-    # gerek kalmadi; yerine ikinci bir enerji olcusu kondu. bkz. plan/faz-notlari.md
+    # veri-demokrasi-endeksi once kapsamdan cikarilmisti: OWID'in EIU uc noktasi
+    # 403 veriyordu (yeniden dagitilamaz veri) ve yerine bir yer tutucu kondu.
+    # 2026-08-21'de yer tutucu gercek bir kumeyle degistirildi (fosil elektrik
+    # payi). Ayni gun demokrasi endeksi de BASKA bir kaynakla — EIU yerine V-Dem
+    # secimsel demokrasi endeksiyle — uretildi ve onaylandi, ama bu satir geri
+    # eklenmedi. Kapsam 358'de kalirken korpus 359'a cikti ve RAPOR.md kapsami
+    # "%100.3 tamamlandi" diye yazdi. Iki kume de yasadigi icin ikisi de burada.
+    - { id: veri-demokrasi-endeksi, baslik: "Secimsel demokrasi endeksi" }
     - { id: veri-fosil-elektrik-payi, baslik: "Elektrik üretiminde fosil yakıt payı" }
     - { id: veri-tarim-istihdami, baslik: "Tarımda istihdam payı" }
     - { id: veri-ortalama-egitim-suresi, baslik: "Ortalama eğitim süresi" }

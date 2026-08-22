@@ -27,7 +27,28 @@ function fazBul(id) {
   return null;
 }
 
-const satirlar = new Map(isler.map((i) => [i.id, i]));
+// MUKERRER SATIR — bu araç aramayı Map üzerinden yapıyordu; Map aynı id'nin
+// ikinci kaydını sessizce yutuyor ama geri yazılan DİZİ ikisini de taşıyordu.
+// `kavram-ictihad` bu yüzden kuyrukta iki kez durdu ve bütün sayımları bir
+// fazla gösterdi. Eşitleyicinin görevi kuyruğu korpusa uydurmaksa, kuyruğun
+// kendi içindeki çakışmayı da görmesi gerekir.
+const gorulen = new Map();
+const tekil = [];
+for (const i of isler) {
+  const onceki = gorulen.get(i.id);
+  if (!onceki) { gorulen.set(i.id, i); tekil.push(i); continue; }
+  // Daha çok deneme kaydeden satır korunur: deneme sayısı geriye alınırsa
+  // makale başına deneme limiti (§9) fiilen gevşer.
+  if ((i.deneme || 0) > (onceki.deneme || 0)) Object.assign(onceki, i);
+  console.log(`${RENK.sari('MUKERRER')}  ${i.id}: ikinci satir birlestirildi (deneme ${Math.max(i.deneme || 0, onceki.deneme || 0)})`);
+}
+if (tekil.length !== isler.length) {
+  console.log(`${RENK.sari('MUKERRER')}  ${isler.length - tekil.length} cakisan satir kaldirildi`);
+  isler.length = 0;
+  isler.push(...tekil);
+}
+
+const satirlar = gorulen;
 let guncellenen = 0;
 let eklenen = 0;
 
