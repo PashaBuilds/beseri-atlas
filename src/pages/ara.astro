@@ -1,0 +1,124 @@
+---
+/**
+ * Arama — §11'in şart koştuğu build-time tam metin araması.
+ *
+ * İndeks `pagefind --site dist` ile derleme sonrasında üretilir ve dist/
+ * içinde durur. Runtime'da dış istek yoktur: hem betik hem indeks kendi
+ * sunucumuzdan gelir (§11, bağımlılık disiplini).
+ *
+ * JS kapalıyken arama çalışmaz — bu, kaçınılabilir bir eksik değil, istemci
+ * tarafı aramanın tanımıdır. §12 içeriğin JS'siz OKUNABİLİR olmasını şart
+ * koşar, aramanın JS'siz çalışmasını değil. Bu yüzden JS yokken sayfa boş
+ * bir kutu göstermez: aynı korpusa götüren gezinme yollarını gösterir.
+ */
+import Temel from '../layouts/Temel.astro';
+import { tumOnayliIcerik, TIPLER, TIP_ADLARI } from '../lib/icerik';
+
+const korpus = await tumOnayliIcerik();
+const tipSayisi = TIPLER.map((t) => ({
+  tip: t,
+  ad: TIP_ADLARI[t],
+  n: korpus.filter((e: any) => e.data.tip === t).length,
+})).filter((x) => x.n > 0);
+---
+<Temel baslik="Ara" ozet="Yayımlanmış bütün makalelerde tam metin arama.">
+  <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+
+  <main id="ana" class="ara">
+    <p class="veri-etiket">Tam metin</p>
+    <h1>Ara</h1>
+    <p class="ara__ozet">
+      {korpus.length} makalenin tam metninde arama. İndeks derleme sırasında
+      üretilir; arama tarayıcınızda çalışır, hiçbir sorgu dışarı gitmez.
+    </p>
+
+    <div id="ara-kutusu" class="ara__kutu"></div>
+
+    <noscript>
+      <div class="ara__yok">
+        <p>
+          <strong>Arama JavaScript gerektirir.</strong> Tarayıcınızda kapalı
+          olduğu için kutu yüklenmedi. Korpusun tamamına şu yollardan
+          ulaşabilirsiniz — hepsi JS'siz çalışır:
+        </p>
+        <ul>
+          <li><a href="/dizin/">Dizin</a> — yayımlanmış bütün makaleler, alfabetik</li>
+          <li><a href="/zaman-seridi/">Zaman şeridi</a> — altı bölge, on altı dönem</li>
+          {tipSayisi.map((x) => (
+            <li><a href={`/${x.tip}/`}>{x.ad}</a> — {x.n} makale</li>
+          ))}
+        </ul>
+      </div>
+    </noscript>
+  </main>
+</Temel>
+
+<script is:inline src="/pagefind/pagefind-ui.js"></script>
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', function () {
+    if (typeof PagefindUI === 'undefined') {
+      // Indeks yok (ornegin `astro dev` sirasinda): sessizce bosaltmak yerine
+      // ne oldugunu soyle. Sessiz bosluk, calismayan bir aramadan daha kotudur.
+      var k = document.getElementById('ara-kutusu');
+      if (k) {
+        k.innerHTML = '<p class="ara__yok">Arama indeksi bulunamadı. '
+          + 'Geliştirme sunucusunda indeks üretilmez; <code>npm run build</code> '
+          + 'sonrasında çalışır. Bu arada <a href="/dizin/">Dizin</a> kullanılabilir.</p>';
+      }
+      return;
+    }
+    new PagefindUI({
+      element: '#ara-kutusu',
+      showSubResults: true,
+      showImages: false,
+      pageSize: 8,
+      translations: {
+        placeholder: 'Makalelerde ara',
+        clear_search: 'Temizle',
+        load_more: 'Daha fazla sonuç',
+        search_label: 'Bu sitede ara',
+        filters_label: 'Süzgeçler',
+        zero_results: '[SEARCH_TERM] için sonuç yok',
+        many_results: '[SEARCH_TERM] için [COUNT] sonuç',
+        one_result: '[SEARCH_TERM] için [COUNT] sonuç',
+        alt_search: '[SEARCH_TERM] için sonuç yok; bunun yerine [DIFFERENT_TERM] arandı',
+        search_suggestion: '[SEARCH_TERM] için sonuç yok. Şu aramalar sonuç veriyor:',
+        searching: '[SEARCH_TERM] aranıyor…',
+      },
+    });
+  });
+</script>
+
+<style>
+  .ara__ozet {
+    font-size: 1.06rem; line-height: 1.6; color: var(--golge);
+    margin: 0 0 1.75rem; padding-bottom: 1.3rem;
+    border-bottom: 1px solid var(--cizgi-ince); text-wrap: pretty;
+  }
+  .ara__kutu { margin-bottom: 2rem; }
+  .ara__yok {
+    padding: 1.1rem 1.25rem; background: var(--yuzey);
+    border: 1px solid var(--cizgi-ince); border-radius: var(--yuvarlak-buyuk);
+    font-size: .95rem; line-height: 1.6;
+  }
+  .ara__yok ul { margin: .8rem 0 0; padding-inline-start: 1.1rem; }
+  .ara__yok li { margin: .3rem 0; }
+
+  /* Pagefind'in kendi degiskenleri sitenin paletine baglanir; boylece arama
+     kutusu iki temada da govdeyle ayni dili konusur. */
+  .ara :global(.pagefind-ui) {
+    --pagefind-ui-primary: var(--bakir);
+    --pagefind-ui-text: var(--murekkep);
+    --pagefind-ui-background: var(--yuzey);
+    --pagefind-ui-border: var(--cizgi-ince);
+    --pagefind-ui-tag: var(--yuzey);
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: var(--yuvarlak-buyuk);
+    --pagefind-ui-font: var(--f-govde);
+  }
+  .ara :global(.pagefind-ui__result-title) { font-family: var(--f-display); }
+  .ara :global(.pagefind-ui__result-link) { color: var(--bakir); }
+  .ara :global(.pagefind-ui__search-input:focus-visible) {
+    outline: 2px solid var(--bakir); outline-offset: 2px;
+  }
+</style>

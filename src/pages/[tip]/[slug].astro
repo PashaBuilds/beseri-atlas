@@ -37,7 +37,9 @@ const okuma = baglariCoz(v.okuma_onerisi, korpus);
 <Temel baslik={v.baslik} ozet={v.ozet}>
   <div class="sayfa">
     <AygitRayi veri={v} ilgili={ilgili} okuma={okuma} />
-    <main class="govde" id="ana">
+    <main class="govde" id="ana" data-pagefind-body
+          data-pagefind-filter={`tip:${TIP_ADLARI[v.tip]}`}
+          data-pagefind-meta={`ozet:${v.ozet}`}>
       <p class="veri-etiket" style="margin-bottom:.6rem">
         {TIP_ADLARI[v.tip]}
         {v.donem && <> · Dönem {v.donem}</>}
@@ -85,7 +87,7 @@ const okuma = baglariCoz(v.okuma_onerisi, korpus);
 
       <KaynakListesi kaynaklar={v.kaynaklar} />
 
-      <p class="beyan">
+      <p class="beyan" data-pagefind-ignore>
         Bu makale otonom olarak üretildi ve otonom olarak denetlendi
         (son denetim: {v.son_denetim}, {v.kaynaklar.length} kaynak,
         güven seviyesi: {GUVEN_ADLARI[v.guven_geneli].toLocaleLowerCase('tr')}).
