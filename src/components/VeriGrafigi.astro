@@ -30,14 +30,34 @@ const alan = `${cizgi} L${sx(xMax).toFixed(1)},${(Y - PA).toFixed(1)} L${sx(xMin
 
 const yTik = [0, 0.25, 0.5, 0.75, 1].map((f) => ({ deger: yMax * f, py: sy(yMax * f) }));
 const xTik = kayitlar.filter((_, i) => i % Math.max(1, Math.ceil(kayitlar.length / 8)) === 0 || i === kayitlar.length - 1);
-const bicim = (n: number) => n >= 1000 ? `${(n / 1000).toLocaleString('tr-TR', { maximumFractionDigits: 1 })} mr` : n.toLocaleString('tr-TR', { maximumFractionDigits: 0 });
+// Eksen olcegi TEK katsayidir ve birim etiketinde beyan edilir — istatistik
+// grafiklerinin standart yolu. Eskiden her deger 1000'e bolunup " mr" ile
+// etiketleniyordu; bu, 8,2 milyar kisiyi "8.231.613,1 mr" diye yaziyordu.
+const OLCEKLER = [
+  { esik: 1e12, bol: 1e12, ad: 'trilyon' },
+  { esik: 1e9, bol: 1e9, ad: 'milyar' },
+  { esik: 1e6, bol: 1e6, ad: 'milyon' },
+];
+const olcek = OLCEKLER.find((o) => yMax >= o.esik) ?? { bol: 1, ad: '' };
+/** Eksen tiki: olcege bolunmus ciplak sayi. */
+const bicim = (n: number) => (n / olcek.bol)
+  .toLocaleString('tr-TR', { maximumFractionDigits: olcek.bol === 1 ? 0 : 1 });
+/** Duz metin: buyukluk adi ve birim ile birlikte ("8,2 milyar kisi"). */
+const tamBicim = (n: number) => `${bicim(n)}${olcek.ad ? ` ${olcek.ad}` : ''} ${veri.birim}`;
+/** Eksen basligi: olcek beyan edilir. Birimin kendisi zaten parantez
+ *  tasiyorsa ("... (yuksek tahmin)") ikinci parantez acilmaz. */
+const birimEtiketi = !olcek.ad
+  ? veri.birim
+  : String(veri.birim).includes('(')
+    ? `${veri.birim} — ${olcek.ad}`
+    : `${veri.birim} (${olcek.ad})`;
 ---
 <figure class="grafik">
   <svg viewBox={`0 0 ${G} ${Y}`} role="img" aria-labelledby="grafik-baslik grafik-aciklama" class="grafik__svg">
     <title id="grafik-baslik">{veri.baslik}</title>
     <desc id="grafik-aciklama">
       {basliklar[0]} ekseninde {xMin}–{xMax} arası, {basliklar[1]} ekseninde
-      en yüksek {bicim(yMax)} {veri.birim}. Tam sayısal değerler aşağıdaki tabloda.
+      en yüksek {tamBicim(yMax)}. Tam sayısal değerler aşağıdaki tabloda.
     </desc>
 
     {yTik.map((t) => (
@@ -58,7 +78,7 @@ const bicim = (n: number) => n >= 1000 ? `${(n / 1000).toLocaleString('tr-TR', {
 
     <line x1={PL} y1={Y - PA} x2={G - PR} y2={Y - PA} class="grafik__eksen" />
     <text x={PL} y={Y - 6} class="grafik__eksenAd">{basliklar[0]}</text>
-    <text x={PL - 8} y={12} text-anchor="end" class="grafik__eksenAd">{veri.birim}</text>
+    <text x={PL - 8} y={12} text-anchor="end" class="grafik__eksenAd">{birimEtiketi}</text>
   </svg>
 
   <figcaption class="grafik__alt">

@@ -8,9 +8,16 @@ const korpus = await tumOnayliIcerik();
 const metrikYolu = path.join(process.cwd(), 'denetim', 'metrikler.json');
 const m = fs.existsSync(metrikYolu) ? JSON.parse(fs.readFileSync(metrikYolu, 'utf8')) : {};
 const gecmis: any[] = m.ornekleme_gecmisi ?? [];
-const sonSkor = gecmis.length ? gecmis[gecmis.length - 1].skor : null;
+const son = gecmis.length ? gecmis[gecmis.length - 1] : null;
+const sonSkor = son ? son.skor : null;
 const yuzde = sonSkor === null ? null : Math.round(sonSkor * 100);
-const kacBir = yuzde === null ? 0 : Math.max(1, Math.round(20 - (yuzde / 100) * 20));
+// Oranin PAYDASI, orneklemin tamami degil BAGIMSIZ OLARAK TURETILEBILEN
+// degerlerdir. Bu sayilari gizlemek, oranin tasidigindan fazla guvence
+// vermesine yol acar; §16 bunun tersini sart kosar.
+const olculen = son?.toplam ?? 0;
+const ornekBoyutu = son?.ornek_boyutu ?? 0;
+const turetilemeyen = son?.turetilemedi ?? Math.max(0, ornekBoyutu - olculen);
+const hamYuzde = son && typeof son.ham_skor === 'number' ? Math.round(son.ham_skor * 100) : null;
 const ortKaynak = korpus.length
   ? (korpus.reduce((a: number, e: any) => a + e.data.kaynaklar.length, 0) / korpus.length).toFixed(1)
   : '0';
@@ -26,8 +33,13 @@ const ortKaynak = korpus.length
         Bu korpus <strong>otonom olarak üretildi ve otonom olarak denetlendi</strong>.
         {yuzde !== null ? (
           <span>
-            Ölçülen doğrulama oranı <strong>%{yuzde}</strong> — yani her 20 iddiadan
-            yaklaşık {kacBir} tanesinin kaynağa gidildiğinde doğrulanamaması beklenir.
+            Ölçülen doğrulama oranı <strong>%{yuzde}</strong>; bu oran, son örneklemdeki
+            {ornekBoyutu} değerin bağımsız olarak yeniden türetilebilen <strong>{olculen}</strong>
+            tanesi üzerinden hesaplandı. Kalan {turetilemeyen} değer çürütülmedi —
+            hiç ölçülemedi{hamYuzde !== null ? `; örneklemin tamamı üzerinden ham skor %${hamYuzde}` : ''}.
+            Bu kadar küçük bir örneklem korpusta hata olmadığını göstermez: yaygın bir
+            hatayı yakalayabilir, seyrek hata bu ölçümün çözünürlüğünün altında kalır.
+            Oran bir güvence değil, bir <strong>alt sınır ölçüsü</strong>dür.
           </span>
         ) : (
           <span>Örnekleme kapısı henüz çalışmadı; ölçülmüş bir doğrulama oranı yok.</span>
@@ -61,7 +73,11 @@ const ortKaynak = korpus.length
     <dl class="olcumler">
       <div><dt>Yayımlanmış makale</dt><dd>{korpus.length}</dd></div>
       <div><dt>Ortalama kaynak</dt><dd>{ortKaynak}</dd></div>
-      <div><dt>Örnekleme kapısı</dt><dd>{yuzde !== null ? `%${yuzde}` : '—'}</dd></div>
+      <div>
+        <dt>Örnekleme kapısı</dt>
+        <dd>{yuzde !== null ? `%${yuzde}` : '—'}</dd>
+        {yuzde !== null && <p class="olcumler__taban">{olculen}/{ornekBoyutu} değer ölçülebildi</p>}
+      </div>
     </dl>
 
     {gecmis.length > 0 && (
@@ -106,6 +122,7 @@ const ortKaynak = korpus.length
   .olcumler { display: flex; flex-wrap: wrap; gap: 2rem; margin: 2rem 0; padding: 1.15rem 0; border-block: 1px solid var(--cizgi); }
   .olcumler dt { font-family: var(--f-veri); font-size: .66rem; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--golge); }
   .olcumler dd { margin: .25rem 0 0; font-family: var(--f-display); font-size: 1.7rem; line-height: 1; }
+  .olcumler__taban { margin: .3rem 0 0; font-family: var(--f-veri); font-size: .7rem; letter-spacing: .04em; color: var(--golge); }
   .gecmis { list-style: none; padding: 0; font-size: .9rem; }
   .gecmis li { padding: .25rem 0; border-bottom: 1px solid var(--cizgi-ince); }
   @media (max-width: 900px) { .hk { padding-inline: 1.15rem; } }
