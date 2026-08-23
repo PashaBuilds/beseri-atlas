@@ -591,3 +591,48 @@ Yakalanan iki yukleme sirasi hatasi:
   satirini okuyacak sekilde guncellendi. Taban hala tek yerde tanimli.
 
 Sonuc: 373 sayfa, 7305 ic bagin tamami cozuluyor, 9/9 kapi 0 hata 0 uyari.
+
+## Zaman seridinin negatif marji iki yerde birden bozuyordu (2026-08-23)
+
+`.serit` "izgarayi kiran tek oge" niyetini su satirla uyguluyordu:
+
+    margin-inline-start: calc(-1 * (var(--ray) + 3rem));
+
+Marj `.sayfa` izgarasina gore olculmustu — okuma sutununun sol kenarindan
+raya kadar olan mesafe. Ama bilesen IKI ayri kapsayicida kullaniliyor ve
+ikisinde de yanlis sonuc veriyordu:
+
+| Kapsayici | Ne oluyordu |
+|---|---|
+| `.govde` (makale sayfasi) | `.ray` yapiskandir (`position: sticky`). Serit onun ALTINA kayiyor, ray metni ile serit basligi/tablosu ic ice giriyordu. |
+| `.genis` (ana sayfa) | Kapsayici zaten tam genislikte. Marj seridi gorunum alaninin SOLUNA itiyordu: olculen deger `sol: -216px`. Seridin ilk 216 pikseli ekran disinda ve erisilemez halde kirpiliyordu. |
+
+Ana sayfadaki hata daha agirdi ve fark edilmemisti: baslik paragrafi soldan
+kesiliyordu ("...n sutunu alti seridi birden keser"), yatay kaydirma ile de
+geri getirilemiyordu cunku tasma gorunum alaninin disindaydi.
+
+### Karar: negatif marj kaldirildi
+
+Tam genislik artik kapsayicinin isi. Ana sayfada `.genis` bunu zaten veriyor;
+makale sayfasinda serit okuma sutununda kaliyor.
+
+Olculen maliyet kucuk: makale sayfasinda serit 933px yerine 669px genisliginde.
+Ama serit tablosu **2371px** — yani her iki durumda da yatay kaydirma
+kacinilmaz. `.serit__kaydir` (overflow-x) ve yapiskan bolge sutunu tam olarak
+bunun icin var. Kazanilan 264px, 2371px'lik bir tabloda ~1,3 sutun demekti.
+
+Reddedilen alternatifler:
+- **Seridi rayin uzerine bindirmek** (`z-index` + opak arka plan): govde
+  gratikul gradyani tasiyor; opak bir bant o dokuyu bir dikdortgen boyunca
+  yok ederdi. Gorsel olarak yeni bir kusur uretirdi.
+- **Rayi serit olan sayfalarda yapiskanliktan cikarmak**
+  (`.sayfa:has(.serit) .ray { position: static }`): tasmayi korurdu ama
+  yapiskan rayi tam da en uzun makalelerde (16 donem makalesi) kaybederdik.
+- **Seridi kendi izgara satirina almak** (rayin yapiskan alani boylece biterdi):
+  layout acisindan en temizi, ama `<ZamanSeridi>`'yi `<main>` disina cikarmayi
+  gerektiriyor. Bu, seridi kaynak listesinin ALTINA dusurur ve
+  `data-pagefind-body` disinda birakir — okuma sirasi ve arama davranisi
+  degisir. Gorsel bir hata icin fazla buyuk bir bedel.
+
+Dogrulandi (375 / 1280 / 1920): cakisma yok, sola tasma yok, sayfa duzeyinde
+yatay kaydirma yok. Mobilde ray zaten statik, orada da temiz.

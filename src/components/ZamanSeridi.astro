@@ -93,13 +93,23 @@ const hucre = (d: Props['donemler'][number], bolge: string) =>
 <style>
   .serit {
     margin: 3rem 0;
-    /* Izgarayı kıran tek öğe: raydan taşar. */
-    margin-inline-start: calc(-1 * (var(--ray) + 3rem));
     padding: 1.5rem 0 0;
     border-top: 1px solid var(--cizgi);
     border-bottom: 1px solid var(--cizgi);
   }
-  @media (max-width: 900px) { .serit { margin-inline-start: 0; } }
+  /* Burada bir zamanlar `margin-inline-start: calc(-1 * (var(--ray) + 3rem))`
+     vardı — "ızgarayı kıran tek öğe" niyetinin uygulaması. Negatif marj
+     .sayfa ızgarasına göre olculmustu ama bilesen IKI ayri kapsayicida
+     kullaniliyor ve ikisinde de bozuyordu:
+
+       makale sayfasi (.govde) — .ray yapiskandir (position: sticky); serit
+         onun altina kayiyor, iki katman ic ice giriyordu.
+       ana sayfa (.genis)      — kapsayici zaten tam genislikte; marj seridi
+         gorunum alaninin SOLUNA itiyor, 216px erisilemez bicimde kirpiliyordu.
+
+     Tam genislik artik kapsayicinin isi: ana sayfada .genis bunu zaten
+     veriyor. Sutun genisligi kaybi onemsiz — tablo 2371px ve her kosulda
+     yatay kayiyor; .serit__kaydir ve yapiskan bolge sutunu bunun icin var. */
 
   .serit__ust { max-width: 46rem; margin-bottom: 1.4rem; }
   .serit__baslik {
