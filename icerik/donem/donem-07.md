@@ -37,6 +37,7 @@ ilgili:
   - aktor-karahanlilar
   - aktor-selcuklular
   - aktor-harizmsahlar
+  - aktor-gana-kralligi
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

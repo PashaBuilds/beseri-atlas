@@ -19,6 +19,7 @@ ilgili:
   - kavram-ticaret-diasporasi
   - tartisma-tarihsel-sayilar-nasil-okunur
   - olay-mansa-musa-haci
+  - aktor-gana-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

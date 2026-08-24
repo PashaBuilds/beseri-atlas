@@ -15,6 +15,7 @@ ilgili:
   - kavram-tarihsel-iklimbilim
   - tartisma-iklim-ve-cokus
   - tartisma-tarim-devrimi-neden
+  - aktor-gana-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

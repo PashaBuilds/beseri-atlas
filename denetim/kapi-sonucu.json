@@ -1,8 +1,8 @@
 {
   "mod": "--post",
-  "zaman": "2026-08-24T22:36:57.890Z",
+  "zaman": "2026-08-24T22:45:00.520Z",
   "gecti": true,
-  "makale_sayisi": 367,
+  "makale_sayisi": 368,
   "kapilar": [
     {
       "kapi": "KAPI 6 — onay filtresi (dist/)",
@@ -25,7 +25,7 @@
       "uyari": 0,
       "hatalar": [],
       "olcum": {
-        "olculen": 367,
+        "olculen": 368,
         "kayipli": 0
       }
     }

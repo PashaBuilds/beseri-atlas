@@ -60,6 +60,7 @@ ilgili:
   - tartisma-soykirim-kavrami
   - veri-fosil-elektrik-payi
   - dusunur-ibn-battuta
+  - aktor-gana-kralligi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

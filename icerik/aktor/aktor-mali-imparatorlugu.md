@@ -20,6 +20,7 @@ ilgili:
   - aktor-gana-imparatorlugu
   - aktor-songhay-imparatorlugu
   - dusunur-ibn-battuta
+  - aktor-gana-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
