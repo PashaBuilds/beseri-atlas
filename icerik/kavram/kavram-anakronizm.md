@@ -20,6 +20,7 @@ ilgili:
   - tartisma-milliyetcilik-ne-zaman
   - tartisma-kesif-mi-istila-mi
   - aktor-samaniler
+  - kavram-legalizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

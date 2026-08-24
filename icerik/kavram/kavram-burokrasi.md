@@ -20,6 +20,7 @@ ilgili:
   - aktor-selcuklular
   - aktor-chola
   - dusunur-han-feizi
+  - kavram-legalizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

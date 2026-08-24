@@ -18,6 +18,7 @@ ilgili:
   - dusunur-nizamulmulk
   - aktor-han-imparatorlugu
   - kavram-burokrasi
+  - kavram-legalizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

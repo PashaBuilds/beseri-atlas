@@ -29,6 +29,7 @@ ilgili:
   - aktor-selcuklular
   - aktor-kanem-bornu
   - dusunur-asoka
+  - kavram-legalizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

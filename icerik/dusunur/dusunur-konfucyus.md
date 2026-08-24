@@ -19,6 +19,7 @@ ilgili:
   - tartisma-eksen-cagi-gercek-mi
   - kaynak-konfucyus-lunyu
   - dusunur-han-feizi
+  - kavram-legalizm
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

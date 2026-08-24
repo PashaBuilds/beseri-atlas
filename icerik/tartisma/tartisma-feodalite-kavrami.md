@@ -26,6 +26,7 @@ ilgili:
   - kavram-timar
   - donem-07
   - aktor-karolenj-imparatorlugu
+  - kavram-legalizm
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

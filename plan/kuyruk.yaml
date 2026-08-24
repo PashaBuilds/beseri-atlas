@@ -2,6 +2,17 @@
 # durum: bekliyor|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
 
 isler:
+  - id: kavram-legalizm
+    tip: kavram
+    baslik: Legalizm
+    durum: onaylandi
+    faz: 6
+    bagimlilik: [dusunur-han-feizi]
+    atanan_parti: B16
+    deneme: 0
+    yonerge: >
+      Han Feizi dosyasinin isaret ettigi boslugu kapatir; Dogu Asya kavram
+      katmaninin ilk dosyasi. Adlandirma sorunu makalenin kendi konusu.
   - id: dusunur-han-feizi
     tip: dusunur
     baslik: Han Feizi
