@@ -18,6 +18,7 @@ ilgili:
   - dusunur-augustinus
   - dusunur-ibn-rusd
   - kaynak-farabi-medinetul-fazila
+  - dusunur-ibn-sina
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

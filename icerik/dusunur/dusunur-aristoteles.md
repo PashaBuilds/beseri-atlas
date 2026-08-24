@@ -18,6 +18,7 @@ ilgili:
   - dusunur-farabi
   - dusunur-ibn-rusd
   - kaynak-aristoteles-politika
+  - dusunur-ibn-sina
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

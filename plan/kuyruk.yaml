@@ -2,6 +2,18 @@
 # durum: bekliyor|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
 
 isler:
+  - id: dusunur-ibn-sina
+    tip: dusunur
+    baslik: İbn Sînâ
+    durum: onaylandi
+    faz: 6
+    bagimlilik: []
+    atanan_parti: B01
+    deneme: 0
+    yonerge: >
+      Orta Asya kapsam boslugunun ilk kapatma adimi. Kunyede giris kapisi
+      kaynagi bulunmaz; eserin kendi metnine baglanir. Faz 6 kaynak
+      standardinin ilk ornegi.
   - id: donem-13
     tip: donem
     baslik: 1914–1945 — Felaket Dönemi

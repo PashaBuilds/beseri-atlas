@@ -18,6 +18,7 @@ ilgili:
   - dusunur-hobbes
   - kavram-ictihad
   - kaynak-gazali-tehafut
+  - dusunur-ibn-sina
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
