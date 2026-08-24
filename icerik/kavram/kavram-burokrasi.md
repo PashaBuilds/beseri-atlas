@@ -18,6 +18,7 @@ ilgili:
   - tartisma-osmanli-gerileme-tezi
   - dusunur-nizamulmulk
   - aktor-selcuklular
+  - aktor-chola
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

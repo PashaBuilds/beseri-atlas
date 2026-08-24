@@ -18,6 +18,7 @@ ilgili:
   - kavram-yazi-sistemi
   - kavram-mesruiyet
   - dusunur-kautilya
+  - aktor-chola
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

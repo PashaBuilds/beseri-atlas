@@ -17,6 +17,7 @@ ilgili:
   - aktor-majapahit
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - kavram-mandala-devleti
+  - aktor-chola
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -38,6 +38,7 @@ ilgili:
   - aktor-selcuklular
   - aktor-harizmsahlar
   - aktor-gana-kralligi
+  - aktor-chola
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

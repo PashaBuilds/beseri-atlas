@@ -21,6 +21,7 @@ ilgili:
   - tartisma-yazinin-icadi-nerede
   - aktor-kilva
   - dusunur-asoka
+  - aktor-chola
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -2,6 +2,17 @@
 # durum: bekliyor|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
 
 isler:
+  - id: aktor-chola
+    tip: aktor
+    baslik: Chola İmparatorluğu
+    durum: onaylandi
+    faz: 6
+    bagimlilik: []
+    atanan_parti: B14
+    deneme: 0
+    yonerge: >
+      Guney Asya kumesine ucuncu birincil kaynak turunu ekler: islem kaydi.
+      Iki farkli editorun kitabe nesrine baglanir.
   - id: dusunur-asoka
     tip: dusunur
     baslik: Aşoka

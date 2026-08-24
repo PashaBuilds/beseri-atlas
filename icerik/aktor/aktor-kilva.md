@@ -23,6 +23,7 @@ ilgili:
   - kavram-arkeolojik-kanit
   - aktor-gana-kralligi
   - aktor-indus-vadisi
+  - aktor-chola
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
