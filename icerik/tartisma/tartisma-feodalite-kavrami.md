@@ -28,6 +28,7 @@ ilgili:
   - aktor-karolenj-imparatorlugu
   - kavram-legalizm
   - kavram-taoizm
+  - kavram-konfucyuscluk
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

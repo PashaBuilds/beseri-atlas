@@ -16,6 +16,7 @@ ilgili:
   - dusunur-han-feizi
   - kavram-anakronizm
   - tartisma-feodalite-kavrami
+  - kavram-konfucyuscluk
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

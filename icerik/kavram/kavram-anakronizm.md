@@ -22,6 +22,7 @@ ilgili:
   - aktor-samaniler
   - kavram-legalizm
   - kavram-taoizm
+  - kavram-konfucyuscluk
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
