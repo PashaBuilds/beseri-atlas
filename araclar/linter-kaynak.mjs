@@ -41,15 +41,32 @@ const BORC_YOLU = path.join(KOK, 'denetim', 'kaynak-borcu.md');
 export function havuzSiniflari(havuz) {
   const girisKapisi = new Set();
   const birincil = new Set();
+  const veri = new Set();
   for (const w of havuz?.whitelist || []) {
     if (!w?.alan) continue;
     if (w.kullanim === 'giris_kapisi') girisKapisi.add(w.alan);
     if (w.tur === 'birincil') birincil.add(w.alan);
+    if (w.tur === 'veri') veri.add(w.alan);
   }
   // Wikisource havuzda ayrı bir satır olarak bulunmayabilir; Wikipedia'nın
   // kardeş projesi olsa da tam metin taşır ve birincil sayılır.
   birincil.add('en.wikisource.org');
-  return { girisKapisi, birincil };
+  return { girisKapisi, birincil, veri };
+}
+
+/**
+ * Bir makale için "birincil" ne demek, TİPİNE bağlıdır.
+ *
+ * Bu ayrım 2026-08-25'te eklendi çünkü ölçüm yanlıştı: 24 veri makalesinin
+ * TAMAMI "birincil kaynağı yok" sayılıyordu, oysa 73 künyelerinin 49'u
+ * ourworldindata.org — yani veri setinin KENDİSİ. Bir veri makalesi için
+ * birincil kaynak bir kitap değil, sayıların geldiği seridir. Eski ölçüm
+ * korpusu değil, aracın kategori şemasını ölçüyordu ve borcu 24 makale
+ * fazla gösteriyordu.
+ */
+function birincilSayilirMi(tip, alanlar, { birincil, veri }) {
+  if (tip === 'veri') return alanlar.some((a) => veri.has(a) || birincil.has(a));
+  return alanlar.some((a) => birincil.has(a));
 }
 
 function alanAdi(url) {
@@ -59,7 +76,8 @@ function alanAdi(url) {
 export function kaynakDenetimi(makaleler, { havuz = null } = {}) {
   const r = new Rapor('KAPI 13 — kaynak bilesimi');
   const h = havuz || yamlOku(path.join(ICERIK, '_sistem', 'kaynak-havuzu.yaml'));
-  const { girisKapisi, birincil } = havuzSiniflari(h);
+  const siniflar = havuzSiniflari(h);
+  const { girisKapisi } = siniflar;
 
   const borclu = [];
   let olculen = 0;
@@ -74,18 +92,19 @@ export function kaynakDenetimi(makaleler, { havuz = null } = {}) {
     olculen += 1;
     toplamKunye += kaynaklar.length;
 
+    const tip = m.fm.tip || m.tip;
     const alanlar = kaynaklar.map((k) => alanAdi(k.url));
     const giris = alanlar.filter((a) => girisKapisi.has(a));
-    const bir = alanlar.filter((a) => birincil.has(a));
+    const birVar = birincilSayilirMi(tip, alanlar, siniflar);
     toplamGiris += giris.length;
-    if (bir.length > 0) birincilTasiyan += 1;
+    if (birVar) birincilTasiyan += 1;
 
     const sorunlar = [];
     if (giris.length > 1) sorunlar.push(`${giris.length} giris kapisi kunyesi (${giris.join(', ')}) — havuz en fazla 1 diyor`);
-    if (bir.length === 0) sorunlar.push('birincil kaynak yok');
+    if (!birVar) sorunlar.push(tip === 'veri' ? 'veri seti kaynagi yok' : 'birincil kaynak yok');
     if (sorunlar.length) {
-      borclu.push({ dosya: m.goreli, id: m.fm.id, tip: m.fm.tip || m.tip,
-        kunye: kaynaklar.length, giris: giris.length, birincil: bir.length, sorunlar });
+      borclu.push({ dosya: m.goreli, id: m.fm.id, tip,
+        kunye: kaynaklar.length, giris: giris.length, birincil: birVar ? 1 : 0, sorunlar });
     }
   }
 

@@ -14,7 +14,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Ölçülen makale | 359 |
 | Toplam künye | 1176 |
 | Giriş kapısı kuralını aşan makale | 226 |
-| Birincil kaynağı olmayan makale | 256 |
+| Birincil kaynağı olmayan makale | 232 |
 | Giriş kapısı künyesi payı | 50% |
 
 ## Tipe göre borçlu makale
@@ -26,7 +26,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | kavram | 59 |
 | tartisma | 34 |
 | kaynak | 27 |
-| veri | 24 |
 | dusunur | 18 |
 | donem | 9 |
 
@@ -313,30 +312,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `tartisma-mogol-etkisi` | 3 | 1 | 0 | birincil kaynak yok |
 | `tartisma-nufus-artisi-tehdit-mi` | 3 | 1 | 0 | birincil kaynak yok |
 | `tartisma-teknolojik-belirlenimcilik` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-askeri-harcama` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-bebek-olumleri` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-co2-emisyonu` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-cocuk-olumleri` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-demokrasi-endeksi` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-dogurganlik-hizi-1950-2023` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-dunya-nufusu-1500-2025` | 4 | 1 | 0 | birincil kaynak yok |
-| `veri-enerji-tuketimi-1800-2023` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-fosil-elektrik-payi` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-internet-kullanimi` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-kentlesme-orani-1500-2023` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-kentli-nufus-sayisi` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-kisi-basi-enerji` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-kisi-basi-gsyh-1-2022` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-kuresel-esitsizlik` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-nufus-artis-hizi` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-okuryazarlik-1475-2023` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-ortalama-egitim-suresi` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-savas-kayiplari-1800-2023` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-savas-olumleri` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-tarim-istihdami` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-tarimsal-verim` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-yasam-beklentisi-1770-2023` | 3 | 1 | 0 | birincil kaynak yok |
-| `veri-yoksulluk-orani` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-fatimi-hilafeti` | 3 | 0 | 0 | birincil kaynak yok |
 | `aktor-memluk-devleti` | 3 | 0 | 0 | birincil kaynak yok |
 | `aktor-safevi-devleti` | 3 | 0 | 0 | birincil kaynak yok |
