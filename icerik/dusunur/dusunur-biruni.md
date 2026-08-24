@@ -106,12 +106,10 @@ onu tek bir eksen altında sınıflamamasının dayanağıdır. Dosyanın eksen 
 felsefî, kültürel ve dinî etiketleri birlikte taşır; ölçüm çalışmaları bu
 dosyada ayrı bir başlık altında işlenmez ve bu sınır burada beyan edilir.
 
-:::tartismali
-Bîrûnî'nin yönteminin ne ölçüde "modern" sayılabileceği tartışmalıdır. Bir
+**Tartışmalı.** Bîrûnî'nin yönteminin ne ölçüde "modern" sayılabileceği tartışmalıdır. Bir
 metnin kendi kaynaklarını ayırt etmesi ile bugünün kaynak eleştirisi aynı şey
 değildir; aradaki sürekliliği kurmak da koparmak da yorumdur. Atlas bu konuda
 hüküm vermez; eserin ne yaptığını kaydeder, ne olduğunu adlandırmaz.[^k1][^k3]
-:::
 
 ## Aynı dönemde, aynı coğrafyada
 

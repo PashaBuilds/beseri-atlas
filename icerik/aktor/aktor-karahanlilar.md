@@ -125,12 +125,10 @@ yazılmıştır.[^k1][^k2][^k3]
 bu dosyaya birlikte eklemesinin dayanağıdır. Din değişimini kültürel kopuş
 olarak okumak, elimizdeki metinlerin varlığıyla çelişir.[^k2][^k3]
 
-:::tartismali
-Karahanlıların kökeni ve hangi Türk topluluğundan geldiği tartışmalıdır;
+**Tartışmalı.** Karahanlıların kökeni ve hangi Türk topluluğundan geldiği tartışmalıdır;
 kaynaklarda farklı görüşler birlikte aktarılır.[^k1] Atlas bu konuda bir
 görüşü öne çıkarmaz. Köken sorusunun siyasi kullanımları olduğu için,
 adlandırmanın kendisi de tarafsız değildir.
-:::
 
 ## Sâmânîlerden devralma
 

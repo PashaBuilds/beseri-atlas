@@ -2,6 +2,17 @@
 # durum: bekliyor|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
 
 isler:
+  - id: dusunur-ibn-battuta
+    tip: dusunur
+    baslik: İbn Battûta
+    durum: onaylandi
+    faz: 6
+    bagimlilik: []
+    atanan_parti: B08
+    deneme: 0
+    yonerge: >
+      Afrika kapsam boslugunda ilk adim. Rihle hem birincil kaynak hem
+      guvenilirligi tartismali bir metin; ikilik makalede islenir.
   - id: aktor-harizmsahlar
     tip: aktor
     baslik: Hârizmşahlar

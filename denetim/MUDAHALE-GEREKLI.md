@@ -406,3 +406,43 @@ biçimde vermedi. Tek eser kaldı ve borç defterinde açıkça duruyor.
 Dört eser "bulunamıyor" diye işaretlenmişti; üçü, bakılan yer değiştirilince
 ilk denemede bulundu. Bir ölçümün "yok" demesi, aracın oraya bakmadığı anlamına
 gelebilir.
+
+## İçerik kaybı: olay-cernobil'in gövdesi yayına girmiyor
+_2026-08-25 · KAPI 14 ilk koşusunda buldu_
+
+`icerik/olay/olay-cernobil.md` dosyasının **gövdesinin tamamı** derlenmiş
+sayfaya ulaşmıyor. Sayfa özetten doğrudan kaynak listesine geçiyor.
+
+| Ölçüm | Değer |
+|---|---|
+| Çernobil sayfası | 7.320 bayt |
+| Karşılaştırma (olay-kuba-fuze-krizi) | 11.854 bayt |
+| Gövdeden gelen kelime sayısı | 0 |
+
+Elenen olasılıklar:
+
+- Markdown yapısal olarak temiz: kod çiti, HTML yorumu, direktif, ikinci
+  frontmatter, satır başı `[^` ya da `>` yok; yedi başlık düzgün.
+- Bayt düzeyinde BOM ve CRLF yok; frontmatter kapanışı diğer dosyalarla
+  birebir aynı yapıda.
+- Astro içerik önbelleği (`.astro`, `node_modules/.astro`) silinip yeniden
+  derlendi — değişmedi.
+- Frontmatter sonrası boşluk normalize edildi — değişmedi.
+- Dosya farklı bir `id` ile kopyalanıp derlendi; **kopya da gövdesiz render
+  oldu**. Yani sorun rotada, id çakışmasında ya da önbellekte değil, dosya
+  içeriğindedir.
+
+**Kök neden Astro içerik katmanında aranmalıdır** ve bu dosya yazıldığında
+bulunamamıştır. Bisect (gövdeyi paragraf paragraf küçülterek hangi parçanın
+render'ı kestiğini bulmak) sıradaki adımdır.
+
+Bu vaka `araclar/linter-cikti.mjs` içindeki `BILINEN_KAYIP` listesine
+alınmıştır: yeni içerik kaybı build'i kırar, bu bilinen vaka uyarı olarak
+her koşuda görünür. Çözüldüğünde liste girdisi silinmelidir.
+
+**Neden önemli:** bu hata 2026-08-21'den beri yayında ve on üç kapının hiçbiri
+görmedi. KAPI 2/3 metni markdown gövdesinde görüp kaynaklı sayıyor, KAPI 11
+kelime sayımına katıyor (yani makale ölçüldüğünden kısa), KAPI 12 render
+artığı ve kırık bağ arıyordu — eksik içerik değil. Kaynağı denetleyen bir hat,
+okuyucunun gördüğü sayfayı denetlemiş olmuyor; KAPI 12'nin kendi gerekçesi
+buydu ve aynı kör nokta bir kez daha, farklı biçimde yaşandı.

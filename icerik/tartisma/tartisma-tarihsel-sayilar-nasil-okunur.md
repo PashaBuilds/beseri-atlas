@@ -59,6 +59,7 @@ ilgili:
   - tartisma-hacli-seferlerinin-nedeni
   - tartisma-soykirim-kavrami
   - veri-fosil-elektrik-payi
+  - dusunur-ibn-battuta
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

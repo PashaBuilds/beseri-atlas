@@ -13,6 +13,7 @@ ilgili:
   - olay-ipek-yolu-kurulusu
   - aktor-hansa-birligi
   - kavram-para
+  - dusunur-ibn-battuta
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

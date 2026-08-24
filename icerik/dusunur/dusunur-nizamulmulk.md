@@ -122,12 +122,10 @@ kavram düzeyinde ele alır. Bu dosya, o kavramın bir dönemdeki somut
 karşılığını verir: görevlilerin denetimi ve haber alma düzeni, Siyâsetnâme'nin
 kendi bölümleri arasındadır.[^k3]
 
-:::tartismali
-Nizâmiye medreselerinin belirli bir mezhebi yaymak amacıyla mı yoksa genel
+**Tartışmalı.** Nizâmiye medreselerinin belirli bir mezhebi yaymak amacıyla mı yoksa genel
 bir eğitim ihtiyacını karşılamak için mi kurulduğu tartışmalıdır. İki yorum da
 aynı kurumsal kayıtlara dayanır ve aradaki fark, kurucunun niyetine dair bir
 çıkarımdan doğar. Atlas bu konuda hüküm vermez.[^k1]
-:::
 
 ## Gazâlî ile bağlantı
 

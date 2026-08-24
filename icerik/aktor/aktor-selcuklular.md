@@ -113,12 +113,10 @@ Bu bağın sonuçları tek yönlü okunmamalıdır. Kurumların kurulması bilgi
 yansıtabilir.[^k2] Atlas ikisini birlikte kaydeder ve aralarında bir
 öncelik sırası kurmaz.
 
-:::tartismali
-Selçuklu döneminin Anadolu'daki uzun vadeli sonuçları, tarih yazımının en
+**Tartışmalı.** Selçuklu döneminin Anadolu'daki uzun vadeli sonuçları, tarih yazımının en
 çekişmeli konularından biridir. Aynı olaylar, farklı ulusal tarih
 anlatılarında farklı başlangıçlar olarak kurgulanır. Atlas bu anlatıların
 hiçbirini benimsemez ve olayların kendisini kaydetmekle yetinir.[^k1]
-:::
 
 ## Bölünme ve sonraki düzenler
 

@@ -16,6 +16,7 @@ ilgili:
   - donem-07
   - aktor-gana-imparatorlugu
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - dusunur-ibn-battuta
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

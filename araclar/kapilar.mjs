@@ -4,7 +4,7 @@
 //   node araclar/kapilar.mjs --lint   -> cevrimdisi kapilar (1,2,3,4,5,7,9,11,13)
 //   node araclar/kapilar.mjs --ag     -> ag kapilari (8,10)
 //   node araclar/kapilar.mjs --pre    -> lint + onay filtresi (6) + ag kapilari
-//   node araclar/kapilar.mjs --post   -> build ciktisi uzerinde onay filtresi (6)
+//   node araclar/kapilar.mjs --post   -> build ciktisi uzerinde onay filtresi (6), 12, 14
 //   node araclar/kapilar.mjs --tam    -> hepsi, onbellek atlanarak
 //
 // Hicbir kapi uyariya dusurulemez, hicbiri atlanamaz (§11).
@@ -19,7 +19,7 @@ import { hakemlikDenetimi } from './linter-hakemlik.mjs';
 import { linkDenetimi } from './linter-link.mjs';
 import { canlilikDenetimi } from './kaynak-canlilik.mjs';
 import { derinlikDenetimi } from './linter-derinlik.mjs';
-import { ciktiDenetimi } from './linter-cikti.mjs';
+import { ciktiDenetimi, icerikKaybi } from './linter-cikti.mjs';
 import { kaynakDenetimi } from './linter-kaynak.mjs';
 
 export const YAYIN_DURUMU = 'onaylandi';
@@ -114,6 +114,7 @@ export async function kapilariCalistir(mod = '--lint') {
   if (mod === '--post') {
     raporlar.push(ciktiFiltresi(makaleler));
     raporlar.push(ciktiDenetimi({ makaleler }));
+    raporlar.push(icerikKaybi({ makaleler }));
   }
 
   for (const r of raporlar) {

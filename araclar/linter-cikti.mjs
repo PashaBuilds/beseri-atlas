@@ -197,3 +197,90 @@ if (process.argv[1]?.endsWith('linter-cikti.mjs')) {
   for (const s of r.ozetSatirlari || []) console.log(`   ${RENK.gri(s)}`);
   process.exit(r.gecti ? 0 : 1);
 }
+
+/**
+ * 4 — Icerik kaybi. Kaynaktaki govde ciktiya ULASTI mi?
+ *
+ * NEDEN VAR (2026-08-25): sekiz makalede `:::tartismali` blok direktifi
+ * kullanildi. remark-directive bunu containerDirective olarak ayristiriyor;
+ * remark-eklentileri.mjs dugumu html'e cevirip children'i bosaltiyor ve metin
+ * gerekli `harita` parametresi olmadigi icin hicbir yere yazilmadan DUSUYOR.
+ *
+ * Sonuc: sekiz makalenin en onemli paragrafi — atlasin tartismayi ilan edip
+ * hukum vermeyi reddettigi yer — kaynakta duruyor, sayfada yoktu. On kapilarin
+ * hicbiri bunu goremezdi:
+ *   KAPI 2/3 markdown govdesinde metni GORUYOR ve kaynakli sayiyor
+ *   KAPI 11 metni kelime sayimina KATIYOR — makale olculdugunden kisa
+ *   KAPI 12 render artigi ve kirik bag ariyordu, EKSIK icerik degil
+ *
+ * OLCUM BICIMI: birebir dize eslesmesi kullanilmaz. Dipnot ust simgeleri
+ * ciktida rakama donustugu icin birebir karsilastirma 248 yanlis pozitif
+ * uretti. Bunun yerine her kaynak paragrafinin AYIRT EDICI kelimeleri
+ * (6 harften uzun) sayfada aranir; ortusme orani esigin altina duserse
+ * paragraf kayip sayilir.
+ */
+const KAYIP_ESIK = 0.5;
+
+/**
+ * Bilinen, kok nedeni henuz cozulmemis icerik kaybi.
+ *
+ * olay-cernobil: govdenin TAMAMI derlenmis sayfaya ulasmiyor (sayfa 7.320 bayt,
+ * benzer bir olay makalesi 11.854). Markdown yapisal olarak temiz — kod citi,
+ * html yorumu, direktif, ikinci frontmatter yok; bayt duzeyinde BOM ve CRLF
+ * yok. Kopya bir dosya farkli id ile de govdesiz render oluyor, yani sorun
+ * rotada ya da onbellekte degil dosya iceriginde. Kok neden Astro icerik
+ * katmaninda aranmalidir.
+ *
+ * Bu liste bir GEVSETME DEGIL, bilinen borcun acikca isaretlenmesidir: yeni
+ * icerik kaybi build'i kirar, bilinen tek vaka gorunur kalir ve
+ * denetim/MUDAHALE-GEREKLI.md'de kayitlidir. Cozuldugunde bu satir silinir.
+ */
+const BILINEN_KAYIP = new Set(['olay-cernobil']);
+
+export function icerikKaybi({ makaleler }) {
+  const r = new Rapor('KAPI 14 — icerik kaybi (kaynak -> dist)');
+  let olculen = 0;
+  let kayipli = 0;
+
+  for (const m of makaleler) {
+    if (m.ayristirmaHatasi || !m.fm.id) continue;
+    const [tip, ...rest] = m.fm.id.split('-');
+    const sayfa = path.join(DIST, tip, rest.join('-'), 'index.html');
+    if (!varMi(sayfa)) continue;
+    olculen += 1;
+    const ciktiKelimeler = new Set(kelimele(metneCevir(oku(sayfa))));
+
+    const paragraflar = m.govde
+      .replace(/```[\s\S]*?```/g, ' ')
+      .split(/\n\s*\n/)
+      .map((x) => x.trim())
+      .filter((x) => x && !x.startsWith('#') && !x.startsWith('|'));
+
+    for (const par of paragraflar) {
+      const kelimeler = [...new Set(kelimele(par))].filter((k) => k.length > 6);
+      if (kelimeler.length < 5) continue;
+      const bulunan = kelimeler.filter((k) => ciktiKelimeler.has(k)).length;
+      const oran = bulunan / kelimeler.length;
+      if (oran < KAYIP_ESIK) {
+        kayipli += 1;
+        const mesaj = `paragraf ciktida yok (%${Math.round(oran * 100)} ortusme): "${par.slice(0, 60).replace(/\s+/g, ' ')}…"`;
+        if (BILINEN_KAYIP.has(m.fm.id)) r.uyari(m.goreli, `${mesaj} — BILINEN, MUDAHALE-GEREKLI.md'de kayitli`);
+        else r.hata(m.goreli, mesaj);
+        break;
+      }
+    }
+  }
+
+  r.ozetSatirlari = [`${olculen} sayfa karsilastirildi · icerigi ciktiya ulasmayan makale: ${kayipli}`];
+  r.olcum = { olculen, kayipli };
+  return r;
+}
+
+/** Karsilastirilabilir kelime dizisi: kucuk harf, noktalama ve rakam yok. */
+function kelimele(s) {
+  return String(s || '')
+    .toLocaleLowerCase('tr')
+    .replace(/[^\p{L}\s]/gu, ' ')
+    .split(/\s+/)
+    .filter(Boolean);
+}

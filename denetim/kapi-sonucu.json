@@ -1,108 +1,32 @@
 {
-  "mod": "--lint",
-  "zaman": "2026-08-24T22:10:00.110Z",
+  "mod": "--post",
+  "zaman": "2026-08-24T22:28:35.783Z",
   "gecti": true,
-  "makale_sayisi": 366,
+  "makale_sayisi": 367,
   "kapilar": [
     {
-      "kapi": "KAPI 1 — Zod sema dogrulamasi",
+      "kapi": "KAPI 6 — onay filtresi (dist/)",
       "gecti": true,
       "hata": 0,
       "uyari": 0,
       "hatalar": []
     },
     {
-      "kapi": "KAPI 2+3 — dipnot butunlugu / kaynak anahtari",
+      "kapi": "KAPI 12 — cikti denetimi (dist/)",
       "gecti": true,
       "hata": 0,
       "uyari": 0,
       "hatalar": []
     },
     {
-      "kapi": "KAPI 4 — terim kilidi",
+      "kapi": "KAPI 14 — icerik kaybi (kaynak -> dist)",
       "gecti": true,
       "hata": 0,
-      "uyari": 0,
-      "hatalar": []
-    },
-    {
-      "kapi": "KAPI 5 — link butunlugu",
-      "gecti": true,
-      "hata": 0,
-      "uyari": 0,
-      "hatalar": []
-    },
-    {
-      "kapi": "KAPI 7 — telif siniri",
-      "gecti": true,
-      "hata": 0,
-      "uyari": 0,
-      "hatalar": []
-    },
-    {
-      "kapi": "KAPI 9 — hakemlik dedektoru",
-      "gecti": true,
-      "hata": 0,
-      "uyari": 0,
-      "hatalar": []
-    },
-    {
-      "kapi": "KAPI 11 — derinlik (§3 uzunluk hedefi)",
-      "gecti": true,
-      "hata": 0,
-      "uyari": 0,
+      "uyari": 1,
       "hatalar": [],
       "olcum": {
-        "olculen": 309,
-        "hedefTutan": 7,
-        "borclu": 302,
-        "eksikKelime": 257568,
-        "tipOzet": {
-          "donem": {
-            "n": 16,
-            "tutan": 0,
-            "eksik": 30661
-          },
-          "olay": {
-            "n": 86,
-            "tutan": 0,
-            "eksik": 74389
-          },
-          "aktor": {
-            "n": 68,
-            "tutan": 4,
-            "eksik": 56439
-          },
-          "dusunur": {
-            "n": 39,
-            "tutan": 3,
-            "eksik": 30871
-          },
-          "kavram": {
-            "n": 64,
-            "tutan": 0,
-            "eksik": 22719
-          },
-          "tartisma": {
-            "n": 36,
-            "tutan": 0,
-            "eksik": 42489
-          }
-        }
-      }
-    },
-    {
-      "kapi": "KAPI 13 — kaynak bilesimi",
-      "gecti": true,
-      "hata": 0,
-      "uyari": 0,
-      "hatalar": [],
-      "olcum": {
-        "olculen": 366,
-        "toplamKunye": 1197,
-        "kuralIhlali": 226,
-        "birincilsiz": 232,
-        "toplamGiris": 589
+        "olculen": 367,
+        "kayipli": 1
       }
     }
   ]

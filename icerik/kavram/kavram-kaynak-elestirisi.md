@@ -20,6 +20,7 @@ ilgili:
   - aktor-karahanlilar
   - dusunur-nizamulmulk
   - aktor-harizmsahlar
+  - dusunur-ibn-battuta
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

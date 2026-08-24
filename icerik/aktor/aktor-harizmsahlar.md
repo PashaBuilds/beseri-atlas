@@ -113,13 +113,11 @@ Böyle bir kaynağın kullanılamaz sayılması yanlış olurdu. Kullanılabilir
 için gereken şey, taraflılığın gizlenmemesidir; künyedeki not bu yüzden yazarın
 konumunu açıkça belirtir.[^k2][^k3]
 
-:::tartismali
-Moğol istilasının yol açtığı yıkımın ölçüsü tartışmalıdır. Çağdaş kaynakların
+**Tartışmalı.** Moğol istilasının yol açtığı yıkımın ölçüsü tartışmalıdır. Çağdaş kaynakların
 verdiği rakamlar ile arkeolojik ve demografik tahminler arasında büyük farklar
 bulunur; kaynakların abartma eğilimi ile modern tahminlerin eksik ölçme riski
 aynı anda tartışılır. Atlas bir rakamı benimsemez ve tartışmayı
 [Moğol etkisi](/tartisma/mogol-etkisi/) dosyasına havale eder.[^k1][^k2]
-:::
 
 ## Ticaret yolları ve ekonomik zemin
 

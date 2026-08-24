@@ -19,6 +19,7 @@ ilgili:
   - aktor-buyuk-zimbabve
   - aktor-gana-imparatorlugu
   - aktor-songhay-imparatorlugu
+  - dusunur-ibn-battuta
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -116,13 +116,11 @@ nefs üzerine yazan bir filozofun aynı kişi olması,[^k1][^k2] atlasın onu te
 bir eksen altında sınıflamamasının dayanağıdır; dosyanın eksen alanı hem
 felsefî hem kültürel hem dinî etiketleri birlikte taşır.
 
-:::tartismali
-İbn Sînâ'nın felsefesinin İslam düşüncesi içindeki yeri, kendi döneminden
+**Tartışmalı.** İbn Sînâ'nın felsefesinin İslam düşüncesi içindeki yeri, kendi döneminden
 başlayarak tartışma konusudur. [Gazâlî](/dusunur/gazali/), filozofların belirli
 tezlerini hedef alan bir reddiye yazmıştır.[^k1][^k2] Bu metnin İslam dünyasında
 felsefî etkinliği bitirip bitirmediği ayrı bir tartışmadır; atlas bu konuda
 hüküm vermez ve iki tarafın da kaydını tutar.[^k1][^k2]
-:::
 
 ## Latin skolastiğine geçiş
 

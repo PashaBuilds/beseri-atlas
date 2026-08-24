@@ -110,13 +110,11 @@ Aynı yapı Abbasi merkezinde de görülmüştür.[^k1] Bir kurumun iki ayrı si
 birimde benzer sonuçlar üretmesi, atlasın kurumları aktörlerden ayrı bir
 katmanda tutmasının gerekçelerinden biridir.
 
-:::tartismali
-Sâmânî döneminin "Fars rönesansı" olarak adlandırılması yaygın ama tartışmalı
+**Tartışmalı.** Sâmânî döneminin "Fars rönesansı" olarak adlandırılması yaygın ama tartışmalı
 bir yorumdur. Adlandırma, bir kesintinin ardından gelen bir canlanma varsayar;
 kesintinin gerçekten yaşanıp yaşanmadığı ve canlanmanın ne ölçüde yeni olduğu
 ayrı sorulardır. Atlas bu adlandırmayı kullanmaz ve olguyu adlandırmadan
 kaydeder.[^k1]
-:::
 
 ## Çözülme ve devralanlar
 
