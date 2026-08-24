@@ -15,6 +15,7 @@ etiketler: [buyuk-zimbabve, shona, tas-sehir, masvingo, arkeoloji]
 ilgili:
   - donem-08
   - aktor-mali-imparatorlugu
+  - aktor-kilva
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

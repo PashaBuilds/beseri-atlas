@@ -21,6 +21,7 @@ ilgili:
   - olay-mansa-musa-haci
   - aktor-gana-kralligi
   - aktor-kanem-bornu
+  - aktor-kilva
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

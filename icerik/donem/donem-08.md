@@ -35,6 +35,7 @@ ilgili:
   - aktor-goryeo-choson
   - tartisma-kara-olumun-sonuclari
   - aktor-kanem-bornu
+  - aktor-kilva
 okuma_onerisi: []
 serit:
   - bolge: avrupa

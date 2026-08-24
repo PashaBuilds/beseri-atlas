@@ -22,6 +22,7 @@ ilgili:
   - kavram-mesruiyet
   - kavram-tarihsel-iklimbilim
   - aktor-karahanlilar
+  - aktor-kilva
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

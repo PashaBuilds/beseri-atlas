@@ -15,6 +15,7 @@ ilgili:
   - kavram-mandala-devleti
   - kaynak-aristoteles-politika
   - kaynak-platon-devlet
+  - aktor-kilva
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

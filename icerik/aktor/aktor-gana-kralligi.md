@@ -22,6 +22,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - kavram-arkeolojik-kanit
   - aktor-kanem-bornu
+  - aktor-kilva
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
