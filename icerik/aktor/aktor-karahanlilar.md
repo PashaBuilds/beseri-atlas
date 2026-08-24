@@ -21,6 +21,7 @@ ilgili:
   - dusunur-biruni
   - kavram-kaynak-elestirisi
   - dusunur-nizamulmulk
+  - aktor-selcuklular
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

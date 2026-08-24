@@ -2,6 +2,17 @@
 # durum: bekliyor|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
 
 isler:
+  - id: aktor-selcuklular
+    tip: aktor
+    baslik: Selçuklular
+    durum: onaylandi
+    faz: 6
+    bagimlilik: []
+    atanan_parti: B06
+    deneme: 0
+    yonerge: >
+      Nizamulmulk dosyasinda isaretlenen boslugu kapatir. Donemin icinden
+      birincil kaynaga (Siyasetname) baglanan ilk aktor dosyasi.
   - id: dusunur-nizamulmulk
     tip: dusunur
     baslik: Nizâmülmülk

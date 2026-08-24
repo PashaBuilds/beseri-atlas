@@ -19,6 +19,7 @@ ilgili:
   - kavram-burokrasi
   - kavram-mesruiyet
   - kavram-kaynak-elestirisi
+  - aktor-selcuklular
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

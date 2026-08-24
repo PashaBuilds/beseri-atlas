@@ -35,6 +35,7 @@ ilgili:
   - tartisma-mogol-etkisi
   - tartisma-hacli-seferlerinin-nedeni
   - aktor-karahanlilar
+  - aktor-selcuklular
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

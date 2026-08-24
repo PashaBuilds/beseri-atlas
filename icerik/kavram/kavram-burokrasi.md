@@ -17,6 +17,7 @@ ilgili:
   - kavram-vergi
   - tartisma-osmanli-gerileme-tezi
   - dusunur-nizamulmulk
+  - aktor-selcuklular
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

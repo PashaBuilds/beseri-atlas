@@ -26,6 +26,7 @@ ilgili:
   - kaynak-farabi-medinetul-fazila
   - veri-demokrasi-endeksi
   - dusunur-nizamulmulk
+  - aktor-selcuklular
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

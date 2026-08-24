@@ -22,6 +22,7 @@ ilgili:
   - kavram-egemenlik
   - kavram-anakronizm
   - aktor-karahanlilar
+  - aktor-selcuklular
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
