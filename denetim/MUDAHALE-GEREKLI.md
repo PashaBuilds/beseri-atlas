@@ -332,7 +332,7 @@ Sığlık bir doğruluk kusuru değil, bir kapsam borcudur.
 Karar verilene kadar mevcut davranış sürer: **3. seçenek**. Kapı borcu her
 koşuda raporlar, yeni içeriğe hedefi zorlar, var olanın kısalmasına izin vermez.
 
-## Birincil metin bulunamayan üç eser
+## Birincil metin bulunamayan dört eser
 _2026-08-23 · Faz 6_
 
 21 kamu malı kitabın 18'i doğrulanmış tam metnine bağlandı. Üçü bağlanamadı:
@@ -342,14 +342,18 @@ _2026-08-23 · Faz 6_
 | Kitâbü'l-ʿİber (Mukaddime) | İbn Haldûn | gutenberg + archive.org, "Muqaddimah" |
 | Shiji | Sima Qian | gutenberg + archive.org, "Records of the Grand Historian" |
 | Ârâʾu ehli'l-medîneti'l-fâzıla | Fârâbî | gutenberg + archive.org, "virtuous city" |
+| Arthaşastra | Kautilya | gutenberg + archive.org, "Arthashastra" |
 
 Aramalar sonuç döndürdü ama hiçbiri katalog künyesinde doğru yazarı taşımıyordu.
 `archive.org` "Muqaddimah" sorgusuna İbn Ebî Cemre'nin AYNI ADLI ama BAŞKA olan
 eserini döndürüyor.
 
-**Bu tesadüf değil, yapısal bir eğilim.** Platon, Hobbes, Machiavelli, Malthus
-ve Gibbon'ın tam metinleri tek aramada bulunuyor; İbn Haldûn, Sima Qian ve
-Fârâbî bulunamıyor. Kamu malı dijital kütüphaneler Batı kanonunu yoğun,
+**Bu tesadüf değil, yapısal bir eğilim.** Platon, Hobbes, Machiavelli, Malthus,
+Gibbon, Locke, Mill, Tocqueville ve Augustinus'un tam metinleri tek aramada
+bulunuyor; İbn Haldûn, Sima Qian, Fârâbî ve Kautilya bulunamıyor. Kautilya
+sorgusu yalnızca ŞERH ve inceleme döndürüyor, Arthaşastra'nın kendisini değil.
+Batı-dışı dört eserin dördü de bulunamazken Batı kanonundan tek bir eser bile
+bulunamamış değil. Kamu malı dijital kütüphaneler Batı kanonunu yoğun,
 Batı-dışını seyrek kapsıyor. Bu, korpusta zaten ölçülen bölge dengesizliğini
 (Avrupa 218 makale, Orta Asya 12) kaynak katmanında da üretiyor: Batı-dışı
 makaleler ansiklopediye mahkûm kalıyor.

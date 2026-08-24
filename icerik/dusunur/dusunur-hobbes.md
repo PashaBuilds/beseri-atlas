@@ -42,7 +42,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Machiavelli"
     not: "Onceki siyaset dusunuru"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Leviathan (tam metin)"
+    url: https://www.gutenberg.org/ebooks/3207
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "Leviathan"
+    not: "Dusunurun baslica eserinin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -107,3 +114,8 @@ saymamış göründüğünü yazar.[^k3] O yazar
 Zihin ve dil kuramı, doğa durumu, egemenlik kuramı ve din görüşleri burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]
+
+## Eserine bağ
+
+Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Leviathan*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

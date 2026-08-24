@@ -39,7 +39,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Machiavelli"
     not: "Savas ilkeleri uzerine onceki yazar; bagimsiz alan adi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The Influence of Sea Power Upon History (tam metin)"
+    url: https://www.gutenberg.org/ebooks/13529
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "The Influence of Sea Power Upon History"
+    not: "Dusunurun baslica eserinin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -94,3 +101,8 @@ yazar ise [Carl von Clausewitz](/dusunur/clausewitz/) dosyasında ele alınıyor
 Deniz gücü tezinin içeriği, donanma kariyeri, dinî yaşamı ve sonraki alımlanması
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]
+
+## Eserine bağ
+
+Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Deniz Gucunun Tarihe Etkisi*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

@@ -47,7 +47,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Locke"
     not: "Onceki kusaktan dusunur"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "An Inquiry into the Nature and Causes of the Wealth of Nations (tam metin)"
+    url: https://www.gutenberg.org/ebooks/3300
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "An Inquiry into the Nature and Causes of the Wealth of Nations"
+    not: "Dusunurun baslica eserinin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -109,3 +116,8 @@ sınırlarını belirlemekle ilgilendiğini yazar.[^k3] O düşünür
 *Ulusların Zenginliği*, iş bölümü, tarafsız gözlemci kavramı ve iktisat kuramı
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]
+
+## Eserine bağ
+
+Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Uluslarin Zenginligi*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

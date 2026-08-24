@@ -40,7 +40,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Hobbes"
     not: "Sonraki siyaset dusunuru"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The Prince (tam metin)"
+    url: https://www.gutenberg.org/ebooks/1232
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "The Prince"
+    not: "Dusunurun baslica eserinin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -113,3 +120,8 @@ Sonraki yüzyılın siyaset düşünürü için tutulan kayıt, onun bugünkü �
 *Prens*'in içeriği, virtù ve fortuna kavramları, *Söylevler* ve Batı düşüncesindeki
 yeri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]
+
+## Eserine bağ
+
+Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Hukumdar*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

@@ -40,7 +40,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "French Revolution"
     not: "Yazdigi on yillardaki siyasi olay; bagimsiz alan adi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Kritik der reinen Vernunft (tam metin)"
+    url: https://www.gutenberg.org/ebooks/6343
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "Kritik der reinen Vernunft"
+    not: "Dusunurun baslica eserinin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -99,3 +106,8 @@ böyle bir bağ belirtilmemiştir.[^k1][^k3]
 Aşkınsal idealizm, kategoriler, ödev ahlakı ve estetik kuramı burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]
+
+## Eserine bağ
+
+Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Saf Aklin Elestirisi*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

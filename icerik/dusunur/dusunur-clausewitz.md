@@ -42,7 +42,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Napoleonic Wars"
     not: "Icinde gorev aldigi savaslar"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "On War (tam metin)"
+    url: https://www.gutenberg.org/ebooks/1946
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "On War"
+    not: "Dusunurun baslica eserinin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -103,3 +110,8 @@ katkı alanları arasında savaş ilkelerini de sayar.[^k2] O yazar
 Savaş kuramının içeriği, siyaset-savaş ilişkisi, hayatının seyri ve sonraki
 alımlanması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1]
+
+## Eserine bağ
+
+Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Savas Uzerine*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

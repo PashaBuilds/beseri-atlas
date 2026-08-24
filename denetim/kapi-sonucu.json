@@ -1,6 +1,6 @@
 {
   "mod": "--lint",
-  "zaman": "2026-08-24T20:45:53.041Z",
+  "zaman": "2026-08-24T20:52:14.013Z",
   "gecti": true,
   "makale_sayisi": 359,
   "kapilar": [
@@ -56,7 +56,7 @@
         "olculen": 302,
         "hedefTutan": 0,
         "borclu": 302,
-        "eksikKelime": 258964,
+        "eksikKelime": 258280,
         "tipOzet": {
           "donem": {
             "n": 16,
@@ -76,7 +76,7 @@
           "dusunur": {
             "n": 36,
             "tutan": 0,
-            "eksik": 31639
+            "eksik": 30955
           },
           "kavram": {
             "n": 64,
@@ -99,9 +99,9 @@
       "hatalar": [],
       "olcum": {
         "olculen": 359,
-        "toplamKunye": 1124,
+        "toplamKunye": 1146,
         "kuralIhlali": 226,
-        "birincilsiz": 307,
+        "birincilsiz": 285,
         "toplamGiris": 589
       }
     }

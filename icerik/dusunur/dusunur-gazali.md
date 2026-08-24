@@ -41,7 +41,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "al-Farabi"
     not: "Elestirdigi gelenegin bir onceki halkasi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The Incoherence of the Philosophers (tam metin)"
+    url: https://archive.org/details/the-incoherence-of-the-philosophers-2nd-edition-brigham-young-university-islamic
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "The Incoherence of the Philosophers"
+    not: "Dusunurun baslica eserinin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -102,3 +109,8 @@ atlasın kimlik alanını neden ad değil kimlik dizgesi üzerinden kurduğunu g
 Hayatı, Nizâmiye'deki görevi, *Tehâfüt*'ün içeriği, tasavvufa yönelişi ve sonraki
 etkisi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1]
+
+## Eserine bağ
+
+Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Tehafutu l-felasife*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

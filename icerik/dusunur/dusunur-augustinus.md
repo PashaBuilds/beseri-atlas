@@ -37,7 +37,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Roman Empire"
     not: "Yasadigi siyasi duzen; bagimsiz alan adi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The City of God, Volume I (tam metin)"
+    url: https://www.gutenberg.org/ebooks/45304
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "The City of God, Volume I"
+    not: "Dusunurun baslica eserinin kamu mali tam metni; Birinci cilt"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -98,3 +105,8 @@ Yaşadığı yüzyıllardaki siyasi düzen için ayrı bir kayıt, imparatorluk 
 Hayatı, *İtiraflar*, teolojisi, irade ve zaman görüşleri ile sonraki etkisi
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]
+
+## Eserine bağ
+
+Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Tanri Devleti*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

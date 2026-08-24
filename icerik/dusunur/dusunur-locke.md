@@ -40,7 +40,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Hobbes"
     not: "Onceki kusaktan siyaset dusunuru"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Two treatises of government (tam metin)"
+    url: https://archive.org/details/twotreatisesofgo0000lock_z7g8
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "Two treatises of government"
+    not: "Dusunurun baslica eserinin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -94,3 +101,8 @@ gösterir.
 Bilgi kuramı, siyaset felsefesi, mülkiyet kuramı ve din görüşleri burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]
+
+## Eserine bağ
+
+Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Yonetim Uzerine Iki Inceleme*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

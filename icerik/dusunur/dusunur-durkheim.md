@@ -41,7 +41,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Mill"
     not: "Onceki kusaktan yontem yazari"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Suicide, a study in sociology (tam metin)"
+    url: https://archive.org/details/suicidestudyinso0000durk
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "Suicide, a study in sociology"
+    not: "Dusunurun baslica eserinin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -99,3 +106,8 @@ liberal olarak tanımlar.[^k3] O düşünür
 Toplumsal olgu kuramı, intihar incelemesi, din toplumbilimi ve ahlak görüşleri
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]
+
+## Eserine bağ
+
+Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Intihar*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

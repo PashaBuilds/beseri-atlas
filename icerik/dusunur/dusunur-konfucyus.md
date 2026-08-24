@@ -40,7 +40,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Plato"
     not: "Ayni yuzyillarda bati ucundaki karsilastirma"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The Analects of Confucius (tam metin)"
+    url: https://www.gutenberg.org/ebooks/3330
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "The Analects of Confucius"
+    not: "Dusunurun baslica eserinin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -108,3 +115,8 @@ geleneğe özgü olmadığını gösterir.
 Öğretinin içeriği, *Lunyu*'nun metin tarihi, sonraki yorum gelenekleri ve
 kurumsal Konfüçyüsçülük burada ayrı başlıklar altında ele alınmamıştır; kaynak
 bunları ayrı bölümler olarak işler.[^k1]
+
+## Eserine bağ
+
+Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Lunyu*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.

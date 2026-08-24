@@ -40,7 +40,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "İBN RÜŞD"
     not: "Madde listeleme sayfasi; bagimsiz alan adi. Ayni adi tasiyan iki ayri madde ile Bati dillerindeki bicimi burada gorulur."
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Politics: A Treatise on Government (tam metin)"
+    url: https://www.gutenberg.org/ebooks/6762
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "Politics: A Treatise on Government"
+    not: "Dusunurun baslica eserinin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -101,3 +108,8 @@ sorun [Konfüçyüs](/dusunur/konfucyus/) dosyasında ele alınıyor.
 
 Mantık, doğa felsefesi, etik ve siyaset kuramının içeriği burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]
+
+## Eserine bağ
+
+Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Politika*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
+verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.
