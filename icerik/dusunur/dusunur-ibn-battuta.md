@@ -20,6 +20,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - olay-mansa-musa-haci
   - aktor-gana-kralligi
+  - aktor-kanem-bornu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

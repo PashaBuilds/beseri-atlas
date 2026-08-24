@@ -2,6 +2,17 @@
 # durum: bekliyor|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
 
 isler:
+  - id: aktor-kanem-bornu
+    tip: aktor
+    baslik: Kanem-Bornu
+    durum: onaylandi
+    faz: 6
+    bagimlilik: []
+    atanan_parti: B10
+    deneme: 0
+    yonerge: >
+      Afrika kapsaminda ucuncu adim. Leo Africanus'un cagdas tarifine baglanir;
+      Gana dosyasiyla karsilastirmali okunacak sekilde yazildi.
   - id: aktor-gana-kralligi
     tip: aktor
     baslik: Gana Krallığı

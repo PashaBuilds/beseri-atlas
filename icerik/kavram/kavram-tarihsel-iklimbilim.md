@@ -14,6 +14,7 @@ ilgili:
   - olay-tunc-cagi-cokusu
   - olay-neolitik-devrim
   - tartisma-iklim-ve-cokus
+  - aktor-kanem-bornu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

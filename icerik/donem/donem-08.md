@@ -34,6 +34,7 @@ ilgili:
   - aktor-timur-imparatorlugu
   - aktor-goryeo-choson
   - tartisma-kara-olumun-sonuclari
+  - aktor-kanem-bornu
 okuma_onerisi: []
 serit:
   - bolge: avrupa

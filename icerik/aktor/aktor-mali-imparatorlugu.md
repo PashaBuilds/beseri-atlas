@@ -21,6 +21,7 @@ ilgili:
   - aktor-songhay-imparatorlugu
   - dusunur-ibn-battuta
   - aktor-gana-kralligi
+  - aktor-kanem-bornu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

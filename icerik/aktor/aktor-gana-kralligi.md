@@ -21,6 +21,7 @@ ilgili:
   - kavram-kaynak-elestirisi
   - tartisma-tarihsel-sayilar-nasil-okunur
   - kavram-arkeolojik-kanit
+  - aktor-kanem-bornu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

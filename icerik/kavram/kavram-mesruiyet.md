@@ -27,6 +27,7 @@ ilgili:
   - veri-demokrasi-endeksi
   - dusunur-nizamulmulk
   - aktor-selcuklular
+  - aktor-kanem-bornu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
