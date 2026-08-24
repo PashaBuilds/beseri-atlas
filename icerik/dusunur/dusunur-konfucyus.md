@@ -18,6 +18,7 @@ ilgili:
   - kavram-eksen-cagi
   - tartisma-eksen-cagi-gercek-mi
   - kaynak-konfucyus-lunyu
+  - dusunur-han-feizi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

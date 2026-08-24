@@ -16,6 +16,7 @@ ilgili:
   - dusunur-sima-qian
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-asoka
+  - dusunur-han-feizi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

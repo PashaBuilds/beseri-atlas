@@ -2,6 +2,17 @@
 # durum: bekliyor|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
 
 isler:
+  - id: dusunur-han-feizi
+    tip: dusunur
+    baslik: Han Feizi
+    durum: onaylandi
+    faz: 6
+    bagimlilik: []
+    atanan_parti: B15
+    deneme: 0
+    yonerge: >
+      Dogu Asya dusunur katmaninin ucuncu dosyasi. Kautilya ve Nizamulmulk ile
+      birlikte uc uygarliktan uc devlet yonetme el kitabi karsilastirmasi kurar.
   - id: aktor-chola
     tip: aktor
     baslik: Chola İmparatorluğu

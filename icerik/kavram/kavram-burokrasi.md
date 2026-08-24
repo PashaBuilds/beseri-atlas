@@ -19,6 +19,7 @@ ilgili:
   - dusunur-nizamulmulk
   - aktor-selcuklular
   - aktor-chola
+  - dusunur-han-feizi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -20,6 +20,7 @@ ilgili:
   - kavram-mesruiyet
   - kavram-kaynak-elestirisi
   - aktor-selcuklular
+  - dusunur-han-feizi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
