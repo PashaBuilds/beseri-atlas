@@ -636,3 +636,52 @@ Reddedilen alternatifler:
 
 Dogrulandi (375 / 1280 / 1920): cakisma yok, sola tasma yok, sayfa duzeyinde
 yatay kaydirma yok. Mobilde ray zaten statik, orada da temiz.
+
+## Okuma hattı: bir dönemi sırayla okumak (2026-08-23)
+
+Site 359 makaleyi haritalıyordu ama hiçbirini bir SIRAYA koymuyordu. Dönem 14'e
+ait 31 makale vardı; dönem sayfası bunların yalnızca elle yazılmış `ilgili`
+listesindeki 10 tanesini gösteriyordu. Kalan 21'ine ancak arama ya da dizin
+üzerinden, tesadüfen ulaşılabiliyordu. Hiçbir makalede "sonraki" bağı yoktu.
+
+Sıranın verisi zaten korpustaydı (`donem` + `tarih_baslangic` + `tarih_bitis`),
+yalnızca hiçbir sayfada gösterilmiyordu.
+
+### Hangi makaleler hatta girer
+
+200 / 359. Dönemi olan tipler: olay (86), aktör (63), tartışma (35), dönem (16).
+Kavram (64), düşünür (36), kaynak (33) ve veri (24) makalelerinde `donem` alanı
+yoktur ve bu bir eksik değildir: İbn Haldûn'u ya da "asabiyet"i tek bir döneme
+koymak yanlış olurdu. Onlar hat boyunca bağlarla girilen derinlik olarak kalır.
+
+### İki sıralama kararı
+
+**MÖ tarihleri sayısal ayrıştırılır.** Metin olarak sıralamak yanlış sonuç
+veriyordu: korpusta dolgu tutarsız ("-0094", "-500", "-10000") ve
+"-0094" < "-500" karşılaştırması MÖ 94'ü MÖ 500'den önceye koyuyordu.
+
+**Tartışmalar dönemin sonuna alınır.** Bir tartışma dönemin içinde geçen bir
+olay değil, dönem hakkında sorulan bir sorudur; `tarih_baslangic` alanı da
+sorunun KONUSUNUN tarihini taşır. Düz kronolojide bu, 1888 tarihli
+"Demografik geçişin sonuçları ne?" makalesini 1945–1991 döneminin BAŞINA
+koyuyordu — okur, hakkında tartışılan malzemeyi görmeden tartışmayı okuyordu.
+Önce malzeme, sonra itirazlar.
+
+Yan bulgu: yalnızca başlangıç yılını göstermek yanıltıcıydı. "Çin Devrimi
+(1949)" makalesinin yanında `tarih_baslangic` gereği "1927" yazıyor ve başlıkla
+çelişiyor gibi duruyordu. Etiket artık aralık gösteriyor: "1927–1949".
+
+### Hat kopmaz
+
+Dönemin son makalesinden sonraki adım bir sonraki dönemin giriş makalesidir.
+Dönem 01'in girişinden başlayıp `sonraki` bağlarını takip ederek Dönem 16'nın
+sonuna kadar hiç geri dönmeden gidilebilir.
+
+Doğrulandı: hat baştan sona yürütüldü — 200 makaleye ulaşıldı (dönemi olan
+makale sayısıyla birebir), 16 dönem girişi sırayla, kırık bağ yok, döngü yok.
+
+### Arama indeksi
+
+Her iki bileşen de `data-pagefind-ignore` taşır. Bunlar gezinme, içerik değil;
+30 başlık + özet dönem sayfasının gövdesine girseydi arama sonuçları
+seyrelirdi. İndeks sözcük sayısı değişmedi (14.639), yani dışarıda kaldılar.

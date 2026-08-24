@@ -6,7 +6,9 @@ import KaynakListesi from '../../components/KaynakListesi.astro';
 import ZamanSeridi from '../../components/ZamanSeridi.astro';
 import Pozisyonlar from '../../components/Pozisyonlar.astro';
 import VeriGrafigi from '../../components/VeriGrafigi.astro';
-import { tumOnayliIcerik, baglariCoz, TIP_ADLARI, GUVEN_ADLARI, bag } from '../../lib/icerik';
+import OkumaHatti from '../../components/OkumaHatti.astro';
+import SiraSeridi from '../../components/SiraSeridi.astro';
+import { tumOnayliIcerik, baglariCoz, okumaHatti, komsular, TIP_ADLARI, GUVEN_ADLARI, bag } from '../../lib/icerik';
 
 export async function getStaticPaths() {
   const korpus = await tumOnayliIcerik();
@@ -33,6 +35,10 @@ const v = girdi.data;
 const { Content } = await render(girdi);
 const ilgili = baglariCoz(v.ilgili, korpus);
 const okuma = baglariCoz(v.okuma_onerisi, korpus);
+// Okuma hatti: donem sayfasi kendi makalelerini sirali listeler, her makale
+// de hattaki komsularini gosterir. Donemi olmayan tipler hatta girmez.
+const hat = v.tip === 'donem' ? okumaHatti(korpus, String(v.donem)).slice(1) : [];
+const komsu = komsular(korpus, girdi);
 ---
 <Temel baslik={v.baslik} ozet={v.ozet}>
   <div class="sayfa">
@@ -81,6 +87,8 @@ const okuma = baglariCoz(v.okuma_onerisi, korpus);
 
       {v.tip === 'tartisma' && <Pozisyonlar pozisyonlar={v.pozisyonlar} />}
 
+      {v.tip === 'donem' && hat.length > 0 && <OkumaHatti hat={hat} donemNo={String(v.donem)} />}
+
       {v.tip === 'donem' && donemler.length > 0 && (
         <ZamanSeridi donemler={donemler} aktif={v.id} baslik="Bu dönemde, altı bölgede" />
       )}
@@ -93,6 +101,11 @@ const okuma = baglariCoz(v.okuma_onerisi, korpus);
         güven seviyesi: {GUVEN_ADLARI[v.guven_geneli].toLocaleLowerCase('tr')}).
         Ölçülen doğrulama oranı ve bilinen sınırlar için <a href={bag("/hakkinda/")}>Hakkında</a>.
       </p>
+
+      {komsu && (
+        <SiraSeridi onceki={komsu.onceki} sonraki={komsu.sonraki}
+                    sira={komsu.sira} toplam={komsu.toplam} donemNo={komsu.donemNo} />
+      )}
     </main>
   </div>
 </Temel>

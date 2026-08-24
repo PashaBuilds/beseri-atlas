@@ -58,4 +58,82 @@ export function baglariCoz(idler: string[] = [], korpus: any[]) {
     .filter(Boolean);
 }
 
+// ─── Okuma hattı ────────────────────────────────────────────────────────────
+//
+// Bir dönemi baştan sona okuyabilmek için sıralı bir hat gerekir. Hattın
+// verisi zaten korpusta duruyordu (`donem` + `tarih_baslangic`), yalnızca
+// hiçbir sayfada gösterilmiyordu.
+//
+// Hatta yalnızca bir döneme ait olabilen tipler girer: olay, aktör, tartışma.
+// Kavram, düşünür, veri ve kaynak makalelerinde `donem` alanı YOKTUR ve bu
+// bir eksik değildir — İbn Haldûn'u ya da "asabiyet"i tek bir döneme koymak
+// yanlış olurdu. Onlar yol boyunca bağlarla girilen derinlik olarak kalır.
+
+/**
+ * Tarihi sıralanabilir bir sayıya çevirir.
+ *
+ * Metin olarak sıralamak MÖ tarihlerinde yanlış sonuç verir: korpusta dolgu
+ * tutarsız ("-0094", "-500", "-10000") ve "-0094" < "-500" karşılaştırması
+ * MÖ 94'ü MÖ 500'den önceye koyardı. Yıl negatif olduğunda ay/gün eklemesi
+ * yine ileri yönde çalışır: -500 yılının Mart'ı Temmuz'undan önce gelir.
+ */
+export function tariheSayi(t: unknown): number {
+  const m = /^(-?)(\d+)(?:-(\d{1,2}))?(?:-(\d{1,2}))?$/.exec(String(t ?? '').trim());
+  if (!m) return Number.POSITIVE_INFINITY;
+  const yil = (m[1] === '-' ? -1 : 1) * Number(m[2]);
+  return yil * 10000 + Number(m[3] ?? 1) * 100 + Number(m[4] ?? 1);
+}
+
+/**
+ * Bir dönemin okuma hattı: [dönem makalesi (giriş), ...kronolojik makaleler].
+ * Giriş başa sabitlenir; kendi tarihiyle araya karışması okuma sırasını bozardı.
+ */
+export function okumaHatti(korpus: any[], donemNo: string) {
+  const uyeler = korpus.filter((e: any) => String(e.data.donem ?? '') === String(donemNo));
+  const giris = uyeler.find((e: any) => e.data.tip === 'donem');
+  // Tartışmalar sona alınır. Bir tartışma dönemin İÇİNDE geçen bir olay değil,
+  // dönem hakkında sorulan bir sorudur; tarihi de sorunun konusunun tarihidir.
+  // Düz kronolojide bu, 1888 tarihli "Demografik geçişin sonuçları ne?"
+  // makalesini 1945–1991 döneminin BAŞINA koyuyordu: okur, hakkında tartışılan
+  // malzemeyi görmeden tartışmayı okuyordu. Önce malzeme, sonra itirazlar.
+  const sonaAl = (e: any) => (e.data.tip === 'tartisma' ? 1 : 0);
+  const govde = uyeler
+    .filter((e: any) => e.data.tip !== 'donem')
+    .sort((a: any, b: any) =>
+      sonaAl(a) - sonaAl(b)
+      || tariheSayi(a.data.tarih_baslangic) - tariheSayi(b.data.tarih_baslangic)
+      || String(a.data.baslik).localeCompare(String(b.data.baslik), 'tr'));
+  return giris ? [giris, ...govde] : govde;
+}
+
+/** On altı dönemin hatları uç uca: sitenin tek sürekli okuma sırası. */
+export function butunHat(korpus: any[]) {
+  return korpus
+    .filter((e: any) => e.data.tip === 'donem')
+    .map((e: any) => String(e.data.donem))
+    .sort()
+    .flatMap((no: string) => okumaHatti(korpus, no));
+}
+
+/**
+ * Bir makalenin hattaki komşuları. Dönemin son makalesinden sonraki adım,
+ * bir sonraki dönemin giriş makalesidir — hat 16 dönem boyunca kopmaz.
+ * Dönemi olmayan makaleler (kavram, düşünür, veri, kaynak) hatta değildir.
+ */
+export function komsular(korpus: any[], girdi: any) {
+  const no = girdi.data.donem;
+  if (!no) return null;
+  const hat = butunHat(korpus);
+  const i = hat.findIndex((e: any) => e.data.id === girdi.data.id);
+  if (i < 0) return null;
+  const kendi = okumaHatti(korpus, String(no));
+  return {
+    onceki: hat[i - 1] ?? null,
+    sonraki: hat[i + 1] ?? null,
+    sira: kendi.findIndex((e: any) => e.data.id === girdi.data.id), // 0 = giriş
+    toplam: kendi.length - 1,
+    donemNo: String(no),
+  };
+}
+
 export type Makale = CollectionEntry<'olay'>;
