@@ -2,6 +2,18 @@
 # durum: bekliyor|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
 
 isler:
+  - id: aktor-harizmsahlar
+    tip: aktor
+    baslik: Hârizmşahlar
+    durum: onaylandi
+    faz: 6
+    bagimlilik: []
+    atanan_parti: B07
+    deneme: 0
+    yonerge: >
+      Orta Asya kumesinin kronolojik olarak son halkasi. Cagdas kaynak
+      Cuveyni, Mogol yonetiminde gorevliydi; kaynak tarafliligi metinde
+      acikca islenir.
   - id: aktor-selcuklular
     tip: aktor
     baslik: Selçuklular

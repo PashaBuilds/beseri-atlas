@@ -27,6 +27,7 @@ ilgili:
   - kavram-bozkir-imparatorlugu
   - olay-ipek-yolu-kurulusu
   - donem-07
+  - aktor-harizmsahlar
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

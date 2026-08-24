@@ -36,6 +36,7 @@ ilgili:
   - tartisma-hacli-seferlerinin-nedeni
   - aktor-karahanlilar
   - aktor-selcuklular
+  - aktor-harizmsahlar
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

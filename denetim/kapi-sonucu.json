@@ -1,8 +1,8 @@
 {
   "mod": "--lint",
-  "zaman": "2026-08-24T22:01:06.721Z",
+  "zaman": "2026-08-24T22:10:00.110Z",
   "gecti": true,
-  "makale_sayisi": 365,
+  "makale_sayisi": 366,
   "kapilar": [
     {
       "kapi": "KAPI 1 — Zod sema dogrulamasi",
@@ -53,8 +53,8 @@
       "uyari": 0,
       "hatalar": [],
       "olcum": {
-        "olculen": 308,
-        "hedefTutan": 6,
+        "olculen": 309,
+        "hedefTutan": 7,
         "borclu": 302,
         "eksikKelime": 257568,
         "tipOzet": {
@@ -69,8 +69,8 @@
             "eksik": 74389
           },
           "aktor": {
-            "n": 67,
-            "tutan": 3,
+            "n": 68,
+            "tutan": 4,
             "eksik": 56439
           },
           "dusunur": {
@@ -98,8 +98,8 @@
       "uyari": 0,
       "hatalar": [],
       "olcum": {
-        "olculen": 365,
-        "toplamKunye": 1194,
+        "olculen": 366,
+        "toplamKunye": 1197,
         "kuralIhlali": 226,
         "birincilsiz": 232,
         "toplamGiris": 589

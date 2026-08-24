@@ -19,6 +19,7 @@ ilgili:
   - dusunur-biruni
   - aktor-karahanlilar
   - dusunur-nizamulmulk
+  - aktor-harizmsahlar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

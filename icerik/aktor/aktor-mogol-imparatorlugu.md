@@ -21,6 +21,7 @@ ilgili:
   - aktor-goryeo-choson
   - kavram-bozkir-imparatorlugu
   - tartisma-mogol-etkisi
+  - aktor-harizmsahlar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -21,6 +21,7 @@ ilgili:
   - kavram-burokrasi
   - kavram-mesruiyet
   - aktor-samaniler
+  - aktor-harizmsahlar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
