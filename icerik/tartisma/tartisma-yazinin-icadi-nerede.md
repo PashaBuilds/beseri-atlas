@@ -26,6 +26,7 @@ ilgili:
   - veri-okuryazarlik-1475-2023
   - donem-02
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - aktor-indus-vadisi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

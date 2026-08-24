@@ -19,6 +19,7 @@ ilgili:
   - veri-ortalama-egitim-suresi
   - veri-tarim-istihdami
   - veri-kentli-nufus-sayisi
+  - aktor-indus-vadisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

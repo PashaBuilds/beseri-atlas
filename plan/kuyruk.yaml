@@ -2,6 +2,17 @@
 # durum: bekliyor|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
 
 isler:
+  - id: aktor-indus-vadisi
+    tip: aktor
+    baslik: İndus Vadisi Uygarlığı
+    durum: onaylandi
+    faz: 6
+    bagimlilik: []
+    atanan_parti: B12
+    deneme: 0
+    yonerge: >
+      Guney Asya'nin en eski katmani. Iki bagimsiz kazi raporuna baglanir;
+      metin olmadan ne bilinebilir sorusu makalenin kendi konusudur.
   - id: aktor-kilva
     tip: aktor
     baslik: Kilva Sultanlığı

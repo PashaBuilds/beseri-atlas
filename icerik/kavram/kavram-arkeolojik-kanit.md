@@ -17,6 +17,7 @@ ilgili:
   - tartisma-tarim-devrimi-neden
   - aktor-gana-kralligi
   - aktor-kilva
+  - aktor-indus-vadisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

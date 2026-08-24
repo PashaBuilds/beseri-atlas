@@ -23,6 +23,7 @@ ilgili:
   - aktor-misir-yeni-kralligi
   - aktor-sumer-sehir-devletleri
   - tartisma-yazinin-icadi-nerede
+  - aktor-indus-vadisi
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

@@ -22,6 +22,7 @@ ilgili:
   - kavram-sehir-devleti
   - kavram-arkeolojik-kanit
   - aktor-gana-kralligi
+  - aktor-indus-vadisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

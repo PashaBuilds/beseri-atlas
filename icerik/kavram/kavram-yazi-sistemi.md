@@ -15,6 +15,7 @@ ilgili:
   - aktor-sumer-sehir-devletleri
   - veri-okuryazarlik-1475-2023
   - tartisma-yazinin-icadi-nerede
+  - aktor-indus-vadisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
