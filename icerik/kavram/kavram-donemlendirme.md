@@ -18,6 +18,7 @@ ilgili:
   - tartisma-osmanli-gerileme-tezi
   - tartisma-vestfalya-miti
   - kaynak-hobsbawm-caglar
+  - dusunur-biruni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

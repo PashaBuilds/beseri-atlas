@@ -20,6 +20,7 @@ ilgili:
   - kaynak-konfucyus-lunyu
   - kaynak-kant-elestiri
   - kaynak-farabi-medinetul-fazila
+  - dusunur-biruni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

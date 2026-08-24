@@ -16,6 +16,7 @@ ilgili:
   - kaynak-carr-tarih-nedir
   - kaynak-herodotos-tarihler
   - tartisma-karsi-olgusal-tarih
+  - dusunur-biruni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

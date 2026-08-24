@@ -2,6 +2,17 @@
 # durum: bekliyor|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
 
 isler:
+  - id: dusunur-biruni
+    tip: dusunur
+    baslik: Bîrûnî
+    durum: onaylandi
+    faz: 6
+    bagimlilik: []
+    atanan_parti: B02
+    deneme: 0
+    yonerge: >
+      Orta Asya boslugunda ikinci adim. Iki birincil metne baglanir; kaynak
+      bagimsizligindaki zayiflik makale metninde beyan edilir.
   - id: dusunur-ibn-sina
     tip: dusunur
     baslik: İbn Sînâ

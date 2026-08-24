@@ -19,6 +19,7 @@ ilgili:
   - dusunur-ibn-rusd
   - kaynak-farabi-medinetul-fazila
   - dusunur-ibn-sina
+  - dusunur-biruni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

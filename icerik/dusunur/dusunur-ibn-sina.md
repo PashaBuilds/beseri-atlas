@@ -18,6 +18,7 @@ ilgili:
   - dusunur-ibn-rusd
   - dusunur-aristoteles
   - kavram-ictihad
+  - dusunur-biruni
 okuma_onerisi:
   - kaynak-gazali-tehafut
 kaynaklar:
