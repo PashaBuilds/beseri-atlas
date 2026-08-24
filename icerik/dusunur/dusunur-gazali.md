@@ -20,6 +20,7 @@ ilgili:
   - kavram-tasavvuf
   - kaynak-gazali-tehafut
   - dusunur-ibn-sina
+  - dusunur-nizamulmulk
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

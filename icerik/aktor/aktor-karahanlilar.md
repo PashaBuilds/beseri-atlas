@@ -20,6 +20,7 @@ ilgili:
   - kavram-bozkir-imparatorlugu
   - dusunur-biruni
   - kavram-kaynak-elestirisi
+  - dusunur-nizamulmulk
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

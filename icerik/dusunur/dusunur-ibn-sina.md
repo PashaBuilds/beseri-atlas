@@ -20,6 +20,7 @@ ilgili:
   - kavram-ictihad
   - dusunur-biruni
   - aktor-samaniler
+  - dusunur-nizamulmulk
 okuma_onerisi:
   - kaynak-gazali-tehafut
 kaynaklar:

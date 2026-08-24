@@ -16,6 +16,7 @@ ilgili:
   - kavram-patrimonyalizm
   - kavram-vergi
   - tartisma-osmanli-gerileme-tezi
+  - dusunur-nizamulmulk
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

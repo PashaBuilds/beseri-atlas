@@ -25,6 +25,7 @@ ilgili:
   - kaynak-platon-devlet
   - kaynak-farabi-medinetul-fazila
   - veri-demokrasi-endeksi
+  - dusunur-nizamulmulk
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

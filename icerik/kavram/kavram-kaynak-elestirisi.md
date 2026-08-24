@@ -18,6 +18,7 @@ ilgili:
   - tartisma-karsi-olgusal-tarih
   - dusunur-biruni
   - aktor-karahanlilar
+  - dusunur-nizamulmulk
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
