@@ -41,7 +41,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "OSMANLILAR"
     not: "Aynı yüzyılda kademeli egemenlik örneği"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Treaty of Westphalia"
+    url: https://avalon.law.yale.edu/17th_century/westphal.asp
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "Treaty of Westphalia"
+    not: "Vestfalya Antlasmasi'nin metni; Avalon Project"
+son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -108,3 +115,8 @@ haritasında ele alınıyor.
 Antlaşmaların madde madde toprak düzenlemeleri, müzakere süreci ve tarafların tek
 tek kazanımları burada ayrı başlıklar altında ele alınmamıştır. Dönemin bütünü
 [1500–1650](/donem/09/) dosyasında ele alınıyor.
+
+## Belgeye bağ
+
+Bu dosya vestfalya antlasmasi'nin metnine bağlanır.[^k4] Belgeye yapılacak atıflar
+madde numarasıyla verilmelidir; ikincil özet yerine metnin kendisi esas alınır.

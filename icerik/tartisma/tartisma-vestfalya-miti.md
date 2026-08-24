@@ -85,7 +85,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Hobbes"
     not: "Ayni yuzyilda mutlak egemenligi savunan yazar; bagimsiz alan adi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Treaty of Westphalia"
+    url: https://avalon.law.yale.edu/17th_century/westphal.asp
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "Treaty of Westphalia"
+    not: "Tartismanin dayandigi antlasmanin metni; Avalon Project"
+son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -139,3 +146,8 @@ Atlas üç pozisyondan hiçbirini benimsemez. Kaynağın bölümlemesi bu eşiğ
 taşımadığı için,[^k1] atlasın kendi dönem bölmesinde de bu tarih bir sınır
 değildir; bu bir bulgu değil bir bölme kararıdır ve burada açıkça
 kaydedilmiştir.
+
+## Belgeye bağ
+
+Bu dosya tartismanin dayandigi antlasmanin metnine bağlanır.[^k4] Belgeye yapılacak atıflar
+madde numarasıyla verilmelidir; ikincil özet yerine metnin kendisi esas alınır.

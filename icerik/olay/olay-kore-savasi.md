@@ -38,7 +38,14 @@ kaynaklar:
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Mutual Defense Treaty"
+    url: https://avalon.law.yale.edu/20th_century/kor001.asp
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "Mutual Defense Treaty"
+    not: "ABD-Kore Karsilikli Savunma Antlasmasi'nin metni; Avalon Project"
+son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -87,3 +94,8 @@ bölümünde bulunmadığı için bu değerler içindeki pay burada hesaplanmam�
 Savaşın askerî seyri, hava ve deniz harekâtı, taraf devletlerin siyasi kararları
 ve ateşkes müzakereleri burada ayrı başlıklar altında ele alınmamıştır; kaynak
 bunları ayrı bölümler olarak işler.[^k1]
+
+## Belgeye bağ
+
+Bu dosya abd-kore karsilikli savunma antlasmasi'nin metnine bağlanır.[^k4] Belgeye yapılacak atıflar
+madde numarasıyla verilmelidir; ikincil özet yerine metnin kendisi esas alınır.

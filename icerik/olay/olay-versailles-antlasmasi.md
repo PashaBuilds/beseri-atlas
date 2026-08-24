@@ -39,7 +39,14 @@ kaynaklar:
     url: https://ourworldindata.org/war-and-peace
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "War and Peace"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The Versailles Treaty"
+    url: https://avalon.law.yale.edu/imt/parti.asp
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "The Versailles Treaty"
+    not: "Versailles Antlasmasi'nin metni; Avalon Project"
+son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -95,3 +102,8 @@ antlaşmanın adil olup olmadığı konusunda bir hüküm vermez.
 kaynaklanan artan ölümler hesaba katılsaydı toplam çok daha yüksek olurdu.[^k3]
 
 Dönemin bütününe dair çerçeve [1914–1945](/donem/13/) dosyasında ele alınıyor.
+
+## Belgeye bağ
+
+Bu dosya versailles antlasmasi'nin metnine bağlanır.[^k4] Belgeye yapılacak atıflar
+madde numarasıyla verilmelidir; ikincil özet yerine metnin kendisi esas alınır.

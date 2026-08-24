@@ -41,7 +41,14 @@ kaynaklar:
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "North Atlantic Treaty"
+    url: https://avalon.law.yale.edu/20th_century/nato.asp
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "North Atlantic Treaty"
+    not: "Kuzey Atlantik Antlasmasi'nin metni; Avalon Project"
+son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -98,3 +105,8 @@ sona ermesinden[^k1] sonraki dönüşümü burada ayrı başlıklar altında ele
 alınmamıştır; kullanılan kaynak
 bölümünün kapsamı blokların karşılıklı dizilişidir. Dönemin bütünü
 [1945-1991](/donem/14/) dosyasında ele alınıyor.
+
+## Belgeye bağ
+
+Bu dosya kuzey atlantik antlasmasi'nin metnine bağlanır.[^k4] Belgeye yapılacak atıflar
+madde numarasıyla verilmelidir; ikincil özet yerine metnin kendisi esas alınır.

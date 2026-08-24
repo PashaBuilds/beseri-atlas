@@ -93,7 +93,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "constant_usd"
     not: "Donemin sonuna ait harcama serisi; bagimsiz alan adi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Truman Doctrine"
+    url: https://avalon.law.yale.edu/20th_century/trudoc.asp
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "Truman Doctrine"
+    not: "Truman Doktrini'nin metni; Avalon Project"
+son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -151,3 +158,8 @@ vermez.[^k1][^k3] Seri
 
 Atlas dört pozisyondan hiçbirini benimsemez. Kaynağın kendisi üç okulu adlandırır
 ama aralarında bir hüküm vermez;[^k1] bu atlas da vermez.
+
+## Belgeye bağ
+
+Bu dosya truman doktrini'nin metnine bağlanır.[^k4] Belgeye yapılacak atıflar
+madde numarasıyla verilmelidir; ikincil özet yerine metnin kendisi esas alınır.

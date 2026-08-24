@@ -42,7 +42,14 @@ kaynaklar:
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Charter of the United Nations"
+    url: https://avalon.law.yale.edu/20th_century/unchart.asp
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "Charter of the United Nations"
+    not: "Birlesmis Milletler Sarti'nin metni; Avalon Project"
+son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -122,3 +129,8 @@ Barışı koruma operasyonları, insan hakları mekanizmaları, Güvenlik Konsey
 düzeni ve reform tartışmaları burada ayrı başlıklar altında ele alınmamıştır;
 kaynak bunları ayrı bölümler olarak işler.[^k1] Dönemin bütünü
 [1945–1991](/donem/14/) dosyasında ele alınıyor.
+
+## Belgeye bağ
+
+Bu dosya birlesmis milletler sarti'nin metnine bağlanır.[^k4] Belgeye yapılacak atıflar
+madde numarasıyla verilmelidir; ikincil özet yerine metnin kendisi esas alınır.
