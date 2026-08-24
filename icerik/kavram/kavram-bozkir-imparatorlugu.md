@@ -15,6 +15,7 @@ ilgili:
   - aktor-mogol-imparatorlugu
   - tartisma-mogol-etkisi
   - tartisma-imparatorluk-nufusu-nasil-sayilir
+  - aktor-karahanlilar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

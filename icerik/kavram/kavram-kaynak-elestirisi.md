@@ -17,6 +17,7 @@ ilgili:
   - kaynak-herodotos-tarihler
   - tartisma-karsi-olgusal-tarih
   - dusunur-biruni
+  - aktor-karahanlilar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

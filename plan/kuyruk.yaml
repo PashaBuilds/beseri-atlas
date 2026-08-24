@@ -2,6 +2,17 @@
 # durum: bekliyor|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
 
 isler:
+  - id: aktor-karahanlilar
+    tip: aktor
+    baslik: Karahanlılar
+    durum: onaylandi
+    faz: 6
+    bagimlilik: []
+    atanan_parti: B04
+    deneme: 0
+    yonerge: >
+      Orta Asya kumesinde ilk cift birincil metinli dosya; Kutadgu Bilig ve
+      Divanu Lugati't-Turk ceviri tam metinlerine baglanir.
   - id: aktor-samaniler
     tip: aktor
     baslik: Sâmânîler

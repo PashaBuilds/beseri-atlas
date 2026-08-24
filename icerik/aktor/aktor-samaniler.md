@@ -21,6 +21,7 @@ ilgili:
   - dusunur-farabi
   - kavram-egemenlik
   - kavram-anakronizm
+  - aktor-karahanlilar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

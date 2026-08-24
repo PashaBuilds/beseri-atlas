@@ -34,6 +34,7 @@ ilgili:
   - tartisma-feodalite-kavrami
   - tartisma-mogol-etkisi
   - tartisma-hacli-seferlerinin-nedeni
+  - aktor-karahanlilar
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

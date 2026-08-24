@@ -19,6 +19,7 @@ ilgili:
   - kavram-donemlendirme
   - kavram-birincil-kaynak
   - aktor-samaniler
+  - aktor-karahanlilar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
