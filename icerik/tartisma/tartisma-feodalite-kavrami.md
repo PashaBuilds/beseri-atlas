@@ -27,6 +27,7 @@ ilgili:
   - donem-07
   - aktor-karolenj-imparatorlugu
   - kavram-legalizm
+  - kavram-taoizm
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:
