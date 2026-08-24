@@ -685,3 +685,50 @@ makale sayısıyla birebir), 16 dönem girişi sırayla, kırık bağ yok, döng
 Her iki bileşen de `data-pagefind-ignore` taşır. Bunlar gezinme, içerik değil;
 30 başlık + özet dönem sayfasının gövdesine girseydi arama sonuçları
 seyrelirdi. İndeks sözcük sayısı değişmedi (14.639), yani dışarıda kaldılar.
+
+## Faz 6 — kaynakları gerçek metinlere bağlamak (2026-08-23)
+
+Ölçüldüğünde çıkan tablo:
+
+| Ölçüm | Değer |
+|---|---|
+| Kural ihlali (>1 giriş kapısı künyesi) | 226 / 359 makale (%63) |
+| Hiç birincil kaynağı olmayan makale | 326 / 359 (%91) |
+| en.wikipedia.org künyesi | 589 / 1105 (%53) |
+| Farklı alan adı sayısı | 10 |
+
+Kural yeni değil. Havuz `en.wikipedia.org` için 2026-08-20'den beri şunu
+yazıyordu: *"her makalede en fazla bir Wikipedia künyesi bulunabilir."*
+Hiçbir kontrol bunu ölçmüyordu.
+
+Havuz `gutenberg.org`, `archive.org`, `perseus.tufts.edu`, `avalon.law.yale.edu`,
+`marxists.org` alanlarını ZATEN birincil olarak onaylıyordu. İzin vardı,
+kullanılmadı: marxists.org korpusta sıfır kez, gutenberg.org bir kez geçiyor —
+üstelik 33 kaynak dosyasının 24'ü kamu malı kitaplar. Atlas kitapları
+listeliyor ama okumuyordu.
+
+### KAPI 13 — kaynak bileşimi
+
+Ölçer, hata vermez. Gerekçe KAPI 11'inkiyle aynı: bugün hata yapılsa 226 makale
+build'i kırardı ve tek çıkış ya kuralı gevşetmek ya da 226 makaleyi bir gecede
+yeniden kaynaklamak olurdu. Eşik düşürülmez, ölçüm susturulmaz, borç
+`denetim/kaynak-borcu.md` dosyasına yazılır. Borç sıfıra indiğinde kapı hataya
+çevrilecektir.
+
+### araclar/birincil-bul.mjs
+
+Bir eserin tam metnini gutenberg ve archive.org'da arar, bulduğu adayı fetch
+edip doğrular — KAPI 8 ve KAPI 10 build sırasında ne soracaksa onu önden sorar.
+Arama için gutendex.com kullanılır; havuz kuralı gereği o alan adı yalnızca
+OKUNUR, künyeye yalnızca birincil alan adları yazılır.
+
+### İlk yeniden kaynaklama
+
+`kaynak-smith-uluslarin-zenginligi` — eserin beş kitabının adları artık
+ansiklopedi özetinden değil eserin kendi içindekiler tablosundan alınıyor
+(gutenberg.org tam metni). Dosya bir zamanlar şunu yazıyordu: *"Bu dosya eserin
+metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir ansiklopedi
+maddesidir."* Beyan dürüsttü, durum kusurluydu. Bağ kuruldu.
+
+Yan onarım: `kaynak-canlilik.mjs` main-guard'ı `process.argv[1]`i korumasız
+okuyordu; modül `node -e` ile import edildiğinde import anında çöküyordu.

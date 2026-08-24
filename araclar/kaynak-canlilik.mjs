@@ -185,7 +185,9 @@ export async function canlilikDenetimi(makaleler, { taze = false, izinliHavuz = 
   return { r8, r10, kontrolEdilen: urller.length, olculemeyen: olculemeyenler.length };
 }
 
-if (import.meta.url === `file://${process.argv[1].replace(/\\/g, '/')}` || process.argv[1]?.endsWith('kaynak-canlilik.mjs')) {
+// process.argv[1], modul `node -e` ile import edildiginde TANIMSIZDIR; korumasiz
+// okuma modulu import aninda cokertiyordu. Iki kol da opsiyonel zincirle okur.
+if (import.meta.url === `file://${process.argv[1]?.replace(/\\/g, '/')}` || process.argv[1]?.endsWith('kaynak-canlilik.mjs')) {
   const taze = process.argv.includes('--taze');
   const makaleler = makaleleriTopla();
   const { r8, r10, kontrolEdilen } = await canlilikDenetimi(makaleler, { taze });

@@ -1,0 +1,371 @@
+# Kaynak borcu
+
+_Bu dosya `araclar/linter-kaynak.mjs` (KAPI 13) tarafından her koşuda
+yeniden yazılır. Elle düzenlenmez._
+
+Ölçülen kural, kaynak havuzunun kendi kuralıdır: bir makalede en fazla bir
+giriş kapısı (ansiklopedi) künyesi bulunabilir ve makale en az bir birincil
+kaynağa dayanmalıdır. Havuz `gutenberg.org`, `archive.org`, `perseus.tufts.edu`,
+`avalon.law.yale.edu`, `marxists.org` ve `en.wikisource.org` alanlarını birincil
+olarak zaten onaylıyor — izin vardı, kullanılmadı.
+
+| Ölçüm | Değer |
+|---|---|
+| Ölçülen makale | 359 |
+| Toplam künye | 1106 |
+| Giriş kapısı kuralını aşan makale | 226 |
+| Birincil kaynağı olmayan makale | 325 |
+| Giriş kapısı künyesi payı | 53% |
+
+## Tipe göre borçlu makale
+
+| Tip | Borçlu |
+|---|---|
+| olay | 76 |
+| kavram | 63 |
+| aktor | 62 |
+| dusunur | 36 |
+| tartisma | 34 |
+| kaynak | 31 |
+| veri | 24 |
+| donem | 9 |
+
+## Makale dökümü
+
+| Makale | Künye | Giriş kapısı | Birincil | Sorun |
+|---|---|---|---|---|
+| `tartisma-imparatorluk-siniri-nasil-cizilir` | 5 | 4 | 0 | 4 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-tarihsel-sayilar-nasil-okunur` | 5 | 4 | 0 | 4 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-bizans-imparatorlugu` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-dunya-bankasi` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-dunya-ticaret-orgutu` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-imf` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `dusunur-tacitus` | 4 | 3 | 1 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `olay-cin-devrimi-1949` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-iskender-seferleri` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-kavimler-gocu` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-otuz-yil-savaslari` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-pon-savaslari` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-reform` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-roma-cumhuriyetinin-sonu` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-romanin-cokus-nedeni` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-abd` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-ahamenis-imparatorlugu` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `aktor-aksum-kralligi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-alman-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-asur-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-avrupa-birligi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-aztek-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-baglantisizlar-hareketi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-birlesmis-milletler` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-britanya-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-buyuk-zimbabve` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-cin-halk-cumhuriyeti` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-delhi-sultanligi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-eyyubi-devleti` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-gana-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-gokturk-kaganligi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-goryeo-choson` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-gupta-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-han-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-hansa-birligi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-hitit-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-hollanda-doguhindistan-sirketi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-hun-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-ingiliz-doguhindistan-sirketi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-inka-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-ispanyol-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-japonya-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-khmer-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-majapahit` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-maurya-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-maya-uygarligi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-misir-yeni-kralligi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-nato` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-qing-hanedani` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-roma-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-rus-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-sasani-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-song-hanedani` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-songhay-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-srivijaya` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-timur-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-tokugawa-sogunlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-varsova-pakti` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `donem-03` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `donem-06` | 4 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `dusunur-arendt` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `dusunur-carr` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `dusunur-clausewitz` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `dusunur-herodotos` | 3 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `dusunur-kautilya` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `dusunur-mackinder` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `dusunur-mahan` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `dusunur-polanyi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `dusunur-sima-qian` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `dusunur-thukydides` | 3 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `dusunur-tocqueville` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `dusunur-wallerstein` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `dusunur-weber` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-anakronizm` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-arkeolojik-kanit` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-askeri-devrim` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-bagimlilik-kurami` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-barut-imparatorluklari` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-birincil-kaynak` | 3 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `kavram-bozkir-imparatorlugu` | 3 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `kavram-burokrasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-caydiricilik` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-donemlendirme` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-dunya-sistemi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-egemenlik` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-emperyalizm` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-feodalite` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-gini-katsayisi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-goksel-yetki` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-guc-dengesi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-haracguzarlik` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-hegemonya` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-hukuk-devleti` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-ideal-tip` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-ikincil-kaynak` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-imparatorluk` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-kamusal-alan` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-kapitalizm` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-kast` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-kaynak-elestirisi` | 3 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `kavram-kolelik` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-kuresellesme` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-malthus-tuzagi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-mandala-devleti` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-merkantilizm` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-millet-sistemi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-milliyetcilik` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-para` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-patrimonyalizm` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-salgin` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-sehir-devleti` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-sekulerlesme` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-sivil-toplum` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-somurgesizlesme` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-surtunme` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-tarih-yazimi` | 3 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `kavram-tarihsel-materyalizm` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-ticaret-diasporasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-timar` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-topyekun-savas` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-ulus-devlet` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kavram-yazi-sistemi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-aristoteles-politika` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-braudel-akdeniz` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-carr-tarih-nedir` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-clausewitz-savas-uzerine` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-durkheim-intihar` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-gibbon-roma` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-herodotos-tarihler` | 3 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `kaynak-hobbes-leviathan` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-hobsbawm-caglar` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-konfucyus-lunyu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-machiavelli-prens` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-mackinder-cografi-eksen` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-mahan-deniz-gucu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-malthus-nufus` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-marx-kapital` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-montesquieu-kanunlarin-ruhu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-platon-devlet` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-polanyi-buyuk-donusum` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-sima-qian-shiji` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-smith-uluslarin-zenginligi` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `kaynak-tacitus-annales` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-tooze-felaketin-bedeli` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-weber-protestan-ahlaki` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-11-eylul` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-1848-devrimleri` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-1857-hint-ayaklanmasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-1905-rus-devrimi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-1968-hareketleri` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-1973-petrol-krizi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-2008-finansal-krizi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-afrika-bagimsizlik-dalgasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-afyon-savaslari` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-arap-bahari` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-atlantik-kole-ticareti` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-bandung-konferansi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-berlin-duvarinin-yikilisi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-birinci-dunya-savasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-boksor-isyani` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-bretton-woods` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-cernobil` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-cheng-ho-seferleri` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-cin-reformlari-1978` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-covid-19-pandemisi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-ekim-devrimi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-gobeklitepe` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-han-hanedani-kurulusu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-hindistan-bolunmesi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-ingiliz-ic-savasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-internetin-yayginlasmasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-ipek-yolu-kurulusu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-iran-devrimi-1979` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-irlanda-kitligi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-islam-fetihleri` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-ispanya-ic-savasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-istanbulun-fethi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-italyan-birligi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-justinyen-vebasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-kirim-savasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-kore-savasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-kuba-fuze-krizi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-kudus-fethi-1187` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-kultur-devrimi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-latin-amerika-bagimsizligi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-mansa-musa-haci` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-meiji-restorasyonu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-meksika-devrimi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-meksika-fethi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-napolyon-savaslari` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-paris-iklim-anlasmasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-ronesans` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-sanayi-devrimi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-sovyetler-dagilmasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-suveys-krizi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-taiping-isyani` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-talas-savasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-uzay-yarisi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-vestfalya-barisi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-vietnam-savasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-viyana-kongresi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `olay-yedi-yil-savasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-1929-krizinin-nedeni` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-antik-kolelik-ekonomisi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-buyuk-adam-kurami` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-feodalite-kavrami` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-fransiz-devrimi-yorumlari` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-hacli-seferlerinin-nedeni` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-ikinci-dunya-savasi-sorumlulugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-iklim-ve-cokus` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-imparatorluk-nufusu-nasil-sayilir` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-kalkinma-neden-basarisiz` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-kalkinma-yardimi-ise-yariyor-mu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-kara-olumun-sonuclari` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-karsi-olgusal-tarih` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-kesif-mi-istila-mi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-milliyetcilik-ne-zaman` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-osmanli-gerileme-tezi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-sanayi-devrimi-neden-ingiltere` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-soguk-savasin-baslangici` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-somurgeciligin-ekonomik-bilancosu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-soykirim-kavrami` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-tarim-devrimi-neden` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-tunc-cagi-cokusunun-nedeni` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-vestfalya-miti` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `tartisma-yazinin-icadi-nerede` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `aktor-abbasi-hilafeti` | 3 | 1 | 0 | birincil kaynak yok |
+| `aktor-avusturya-macaristan` | 3 | 1 | 0 | birincil kaynak yok |
+| `aktor-babur-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
+| `aktor-emevi-hilafeti` | 3 | 1 | 0 | birincil kaynak yok |
+| `aktor-etiyopya-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
+| `aktor-karolenj-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
+| `aktor-mali-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
+| `aktor-ming-hanedani` | 3 | 1 | 0 | birincil kaynak yok |
+| `aktor-mogol-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
+| `aktor-osmanli-imparatorlugu` | 4 | 1 | 0 | birincil kaynak yok |
+| `aktor-sovyetler-birligi` | 3 | 1 | 0 | birincil kaynak yok |
+| `aktor-tang-hanedani` | 3 | 1 | 0 | birincil kaynak yok |
+| `donem-07` | 3 | 1 | 0 | birincil kaynak yok |
+| `donem-08` | 3 | 1 | 0 | birincil kaynak yok |
+| `donem-09` | 3 | 1 | 0 | birincil kaynak yok |
+| `donem-12` | 3 | 1 | 0 | birincil kaynak yok |
+| `donem-14` | 3 | 1 | 0 | birincil kaynak yok |
+| `donem-15` | 3 | 1 | 0 | birincil kaynak yok |
+| `donem-16` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-augustinus` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-braudel` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-durkheim` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-foucault` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-hegel` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-hobbes` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-kant` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-keynes` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-konfucyus` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-locke` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-machiavelli` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-malthus` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-marx` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-mill` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-montesquieu` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-platon` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-smith` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-buyuk-ayrisma` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-demografik-gecis` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-eksen-cagi` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-ilkel-birikim` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-kentlesme` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-longue-duree` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-mesruiyet` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-tarihsel-iklimbilim` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-umran` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-vergi` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-yasam-beklentisi` | 3 | 1 | 0 | birincil kaynak yok |
+| `kaynak-hegel-gorungubilim` | 3 | 1 | 0 | birincil kaynak yok |
+| `kaynak-ibn-haldun-mukaddime` | 3 | 1 | 0 | birincil kaynak yok |
+| `kaynak-kant-elestiri` | 3 | 1 | 0 | birincil kaynak yok |
+| `kaynak-keynes-genel-teori` | 3 | 1 | 0 | birincil kaynak yok |
+| `kaynak-milanovic-kuresel-esitsizlik` | 3 | 1 | 0 | birincil kaynak yok |
+| `kaynak-pomeranz-buyuk-ayrisma` | 3 | 1 | 0 | birincil kaynak yok |
+| `olay-amerikan-ic-savasi` | 3 | 1 | 0 | birincil kaynak yok |
+| `olay-amerikanin-kesfi` | 3 | 1 | 0 | birincil kaynak yok |
+| `olay-balkan-savaslari` | 3 | 1 | 0 | birincil kaynak yok |
+| `olay-berlin-konferansi` | 3 | 1 | 0 | birincil kaynak yok |
+| `olay-hacli-seferleri` | 3 | 1 | 0 | birincil kaynak yok |
+| `olay-ikinci-dunya-savasi` | 3 | 1 | 0 | birincil kaynak yok |
+| `olay-kara-olum` | 3 | 1 | 0 | birincil kaynak yok |
+| `olay-malazgirt` | 3 | 1 | 0 | birincil kaynak yok |
+| `olay-mogol-fetihleri` | 3 | 1 | 0 | birincil kaynak yok |
+| `olay-nufus-patlamasi` | 3 | 1 | 0 | birincil kaynak yok |
+| `olay-tanzimat-fermani` | 3 | 1 | 0 | birincil kaynak yok |
+| `olay-yesil-devrim` | 3 | 1 | 0 | birincil kaynak yok |
+| `tartisma-aydinlanmanin-sinirlari` | 3 | 1 | 0 | birincil kaynak yok |
+| `tartisma-bati-neden-yukseldi` | 3 | 1 | 0 | birincil kaynak yok |
+| `tartisma-demografik-donum-sonuclari` | 3 | 1 | 0 | birincil kaynak yok |
+| `tartisma-eksen-cagi-gercek-mi` | 3 | 1 | 0 | birincil kaynak yok |
+| `tartisma-mogol-etkisi` | 3 | 1 | 0 | birincil kaynak yok |
+| `tartisma-nufus-artisi-tehdit-mi` | 3 | 1 | 0 | birincil kaynak yok |
+| `tartisma-teknolojik-belirlenimcilik` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-askeri-harcama` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-bebek-olumleri` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-co2-emisyonu` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-cocuk-olumleri` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-demokrasi-endeksi` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-dogurganlik-hizi-1950-2023` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-dunya-nufusu-1500-2025` | 4 | 1 | 0 | birincil kaynak yok |
+| `veri-enerji-tuketimi-1800-2023` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-fosil-elektrik-payi` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-internet-kullanimi` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-kentlesme-orani-1500-2023` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-kentli-nufus-sayisi` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-kisi-basi-enerji` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-kisi-basi-gsyh-1-2022` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-kuresel-esitsizlik` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-nufus-artis-hizi` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-okuryazarlik-1475-2023` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-ortalama-egitim-suresi` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-savas-kayiplari-1800-2023` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-savas-olumleri` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-tarim-istihdami` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-tarimsal-verim` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-yasam-beklentisi-1770-2023` | 3 | 1 | 0 | birincil kaynak yok |
+| `veri-yoksulluk-orani` | 3 | 1 | 0 | birincil kaynak yok |
+| `aktor-fatimi-hilafeti` | 3 | 0 | 0 | birincil kaynak yok |
+| `aktor-memluk-devleti` | 3 | 0 | 0 | birincil kaynak yok |
+| `aktor-safevi-devleti` | 3 | 0 | 0 | birincil kaynak yok |
+| `dusunur-aristoteles` | 3 | 0 | 0 | birincil kaynak yok |
+| `dusunur-farabi` | 3 | 0 | 0 | birincil kaynak yok |
+| `dusunur-gazali` | 3 | 0 | 0 | birincil kaynak yok |
+| `dusunur-ibn-haldun` | 3 | 0 | 0 | birincil kaynak yok |
+| `dusunur-ibn-rusd` | 3 | 0 | 0 | birincil kaynak yok |
+| `kavram-asabiyet` | 3 | 0 | 0 | birincil kaynak yok |
+| `kavram-ictihad` | 3 | 0 | 0 | birincil kaynak yok |
+| `kavram-tasavvuf` | 3 | 0 | 0 | birincil kaynak yok |
+| `kaynak-farabi-medinetul-fazila` | 3 | 0 | 0 | birincil kaynak yok |
+| `kaynak-gazali-tehafut` | 3 | 0 | 0 | birincil kaynak yok |

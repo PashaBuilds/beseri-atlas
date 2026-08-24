@@ -47,7 +47,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Mercantilism"
     not: "Eserin karsisina aldigi politika gelenegi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Adam Smith - An Inquiry into the Nature and Causes of the Wealth of Nations (tam metin)"
+    url: https://www.gutenberg.org/cache/epub/3300/pg3300.txt
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "An Inquiry into the Nature and Causes of the Wealth of Nations"
+    not: "Eserin kamu mali tam metni; kitap bolumleri dogrudan bu metinden okunur"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -65,9 +72,13 @@ numarasıyla birlikte verilmelidir.
 
 ## Kitaplar konu başlıklarıyla adlandırılmıştır
 
-Kaynak kitapları şöyle sıralar: emeğin üretken güçlerindeki iyileşmenin
-nedenleri üzerine, sermayenin doğası, birikimi ve kullanımı üzerine, farklı
-uluslarda zenginliğin farklı ilerleyişi üzerine.[^k1] Aynı kayıt, eserin İskoç
+Eserin kendi metni beş kitabı şöyle adlandırır: emeğin üretken güçlerindeki
+iyileşmenin nedenleri üzerine, stokun doğası, birikimi ve kullanımı üzerine,
+farklı uluslarda refahın farklı ilerleyişi üzerine, siyasal iktisat sistemleri
+üzerine, egemenin ya da devletin geliri üzerine.[^k4] Bu beş başlık eserin
+kendi içindekiler tablosundan alınmıştır; ansiklopedi özetinden değil.
+
+Eser hakkındaki ansiklopedi kaydı, eserin İskoç
 Aydınlanması ve İskoç Tarım Devrimi sırasında yayımlandığını ve Karl Marx gibi
 yazarları etkilediğini yazar; Alexander Hamilton'ın da kısmen bu eserden
 etkilendiği kaydedilir.[^k1]
@@ -106,6 +117,11 @@ bölümleri böyle bir sonuç kaydetmez.[^k1][^k3]
 
 ## Okuma yönlendirmesi
 
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eserin kendisi kamu malıdır; hangi baskının ve
+Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Eserin bölümlerine
+yapılacak her atıf kitap ve bölüm numarasıyla verilmelidir; hangi baskının ve
 hangi çevirinin kullanıldığı her aktarımda belirtilmelidir.
+
+Bu dosya bir zamanlar eserin metnine bağlanmadığını, kullanılan kaynağın eser
+hakkındaki bir ansiklopedi maddesi olduğunu yazıyordu. Beyan dürüsttü ama durum
+kusurluydu: eser kamu malıyken atlas onun yerine onun hakkında yazılmış maddeyi
+okuyordu. Bağ artık kurulmuştur.
