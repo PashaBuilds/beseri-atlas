@@ -16,6 +16,7 @@ ilgili:
   - veri-okuryazarlik-1475-2023
   - tartisma-yazinin-icadi-nerede
   - aktor-indus-vadisi
+  - dusunur-asoka
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

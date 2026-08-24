@@ -20,6 +20,7 @@ ilgili:
   - kavram-kentlesme
   - tartisma-yazinin-icadi-nerede
   - aktor-kilva
+  - dusunur-asoka
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

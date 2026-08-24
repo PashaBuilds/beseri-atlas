@@ -15,6 +15,7 @@ ilgili:
   - aktor-maurya-imparatorlugu
   - dusunur-sima-qian
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - dusunur-asoka
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -28,6 +28,7 @@ ilgili:
   - dusunur-nizamulmulk
   - aktor-selcuklular
   - aktor-kanem-bornu
+  - dusunur-asoka
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

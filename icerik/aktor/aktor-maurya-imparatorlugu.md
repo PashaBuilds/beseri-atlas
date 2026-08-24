@@ -19,6 +19,7 @@ ilgili:
   - aktor-ahamenis-imparatorlugu
   - aktor-gupta-imparatorlugu
   - dusunur-kautilya
+  - dusunur-asoka
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

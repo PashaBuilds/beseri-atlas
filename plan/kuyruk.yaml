@@ -2,6 +2,18 @@
 # durum: bekliyor|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
 
 isler:
+  - id: dusunur-asoka
+    tip: dusunur
+    baslik: Aşoka
+    durum: onaylandi
+    faz: 6
+    bagimlilik: []
+    atanan_parti: B13
+    deneme: 0
+    yonerge: >
+      Indus dosyasinin tam karsiti kaynak durumu. Iki bagimsiz kitabe nesrine
+      baglanir; okunamayan alfabe / sonradan okunan alfabe karsilastirmasi
+      iki dosyayi birbirine baglar.
   - id: aktor-indus-vadisi
     tip: aktor
     baslik: İndus Vadisi Uygarlığı
