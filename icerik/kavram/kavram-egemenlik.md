@@ -17,6 +17,7 @@ ilgili:
   - kavram-hukuk-devleti
   - kaynak-hobbes-leviathan
   - tartisma-vestfalya-miti
+  - aktor-samaniler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

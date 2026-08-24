@@ -18,6 +18,7 @@ ilgili:
   - kavram-kaynak-elestirisi
   - kavram-donemlendirme
   - kavram-birincil-kaynak
+  - aktor-samaniler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

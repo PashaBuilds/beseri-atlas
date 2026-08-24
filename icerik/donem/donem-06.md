@@ -27,6 +27,7 @@ ilgili:
   - aktor-gana-imparatorlugu
   - aktor-emevi-hilafeti
   - aktor-srivijaya
+  - aktor-samaniler
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

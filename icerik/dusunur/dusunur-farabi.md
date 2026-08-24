@@ -20,6 +20,7 @@ ilgili:
   - kaynak-farabi-medinetul-fazila
   - dusunur-ibn-sina
   - dusunur-biruni
+  - aktor-samaniler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

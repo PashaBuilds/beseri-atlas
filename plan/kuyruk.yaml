@@ -2,6 +2,17 @@
 # durum: bekliyor|uretiliyor|denetleniyor|onarimda|onaylandi|karantina
 
 isler:
+  - id: aktor-samaniler
+    tip: aktor
+    baslik: Sâmânîler
+    durum: onaylandi
+    faz: 6
+    bagimlilik: []
+    atanan_parti: B03
+    deneme: 0
+    yonerge: >
+      Orta Asya kapsaminda ilk siyasi birim dosyasi. Birincil metin
+      bulunamadi; kisit makale metninde acikca beyan edildi.
   - id: dusunur-biruni
     tip: dusunur
     baslik: Bîrûnî

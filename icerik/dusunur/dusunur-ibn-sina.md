@@ -19,6 +19,7 @@ ilgili:
   - dusunur-aristoteles
   - kavram-ictihad
   - dusunur-biruni
+  - aktor-samaniler
 okuma_onerisi:
   - kaynak-gazali-tehafut
 kaynaklar:

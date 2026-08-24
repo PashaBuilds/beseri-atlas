@@ -19,6 +19,7 @@ ilgili:
   - tartisma-feodalite-kavrami
   - tartisma-milliyetcilik-ne-zaman
   - tartisma-kesif-mi-istila-mi
+  - aktor-samaniler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

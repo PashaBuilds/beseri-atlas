@@ -21,6 +21,7 @@ ilgili:
   - aktor-emevi-hilafeti
   - aktor-fatimi-hilafeti
   - kavram-tasavvuf
+  - aktor-samaniler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
