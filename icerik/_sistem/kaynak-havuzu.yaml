@@ -64,6 +64,37 @@ whitelist:
     dogrulanabilir: true
     kapsam: [ekonomi, kwantitatif-tarih]
 
+  # ─── Batı-dışı birincil metinler (kamu malı) ──────────────────────────────
+  # 2026-08-23'te eklendi. Gerekçe ölçümdür: birincil metni bulunamayan dört
+  # eserin dördü de Batı-dışıydı (İbn Haldûn, Sima Qian, Fârâbî, Kautilya);
+  # Batı kanonundan bulunamayan tek eser yoktu. Boşluk korpusun değil,
+  # kullanılan arşivlerin kapsamındaydı.
+  - alan: ctext.org
+    tur: birincil
+    dogrulanabilir: true
+    kapsam: [cin-klasikleri]
+    not: Chinese Text Project — sunucudan metin döndürür, JS duvarı yok.
+  - alan: ar.wikisource.org
+    tur: birincil
+    dogrulanabilir: true
+    kapsam: [arapca-klasikler]
+  - alan: zh.wikisource.org
+    tur: birincil
+    dogrulanabilir: true
+    kapsam: [cin-klasikleri]
+  - alan: shamela.ws
+    tur: birincil
+    dogrulanabilir: true
+    kapsam: [arapca-klasikler]
+    not: el-Mektebetü'ş-şâmile. Erişilebilir; eser bazında doğrulama gerekir.
+  - alan: sacred-texts.com
+    tur: birincil
+    dogrulanabilir: false
+    engel: HTTP 403 — bot koruması
+  - alan: al-maktaba.org
+    tur: birincil
+    dogrulanabilir: false
+    engel: HTTP 403 — bot koruması
   # ─── Birincil metinler (kamu malı) ────────────────────────────────────────
   - alan: gutenberg.org
     tur: birincil

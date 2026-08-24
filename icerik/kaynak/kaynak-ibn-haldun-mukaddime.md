@@ -48,7 +48,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Braudel"
     not: "Ayni olcekte calisan sonraki tarihci"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "مقدمة ابن خلدون (tam metin)"
+    url: https://ar.wikisource.org/wiki/%D9%85%D9%82%D8%AF%D9%85%D8%A9_%D8%A7%D8%A8%D9%86_%D8%AE%D9%84%D8%AF%D9%88%D9%86
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "مقدمة ابن خلدون"
+    not: "Eserin kamu mali tam metni; Arapca ozgun metin"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -106,3 +113,9 @@ bölümlerinde böyle bir bağ belirtilmemiştir.[^k1][^k3]
 Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir
 ansiklopedi maddesidir.[^k1] Eserin kendisi kamu malıdır; hangi neşrin ve hangi
 çevirinin kullanıldığı her aktarımda belirtilmelidir.
+
+## Metne bağ
+
+Bu dosya eserin kamu malı tam metnine bağlanır: *Mukaddime*.[^k4] Esere yapılacak
+her atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
+çevirinin kullanıldığı belirtilmelidir.

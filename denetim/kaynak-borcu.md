@@ -12,9 +12,9 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Ölçüm | Değer |
 |---|---|
 | Ölçülen makale | 359 |
-| Toplam künye | 1146 |
+| Toplam künye | 1151 |
 | Giriş kapısı kuralını aşan makale | 226 |
-| Birincil kaynağı olmayan makale | 285 |
+| Birincil kaynağı olmayan makale | 280 |
 | Giriş kapısı künyesi payı | 51% |
 
 ## Tipe göre borçlu makale
@@ -25,9 +25,9 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | kavram | 63 |
 | aktor | 62 |
 | tartisma | 34 |
-| kaynak | 28 |
+| kaynak | 27 |
 | veri | 24 |
-| dusunur | 19 |
+| dusunur | 18 |
 | donem | 9 |
 
 ## Makale dökümü
@@ -98,11 +98,11 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `dusunur-carr` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `dusunur-clausewitz` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `dusunur-herodotos` | 3 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
-| `dusunur-kautilya` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `dusunur-kautilya` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `dusunur-mackinder` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `dusunur-mahan` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `dusunur-polanyi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `dusunur-sima-qian` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `dusunur-sima-qian` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `dusunur-thukydides` | 3 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `dusunur-tocqueville` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `dusunur-wallerstein` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
@@ -174,7 +174,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `kaynak-montesquieu-kanunlarin-ruhu` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kaynak-platon-devlet` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kaynak-polanyi-buyuk-donusum` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `kaynak-sima-qian-shiji` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-sima-qian-shiji` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kaynak-smith-uluslarin-zenginligi` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kaynak-tacitus-annales` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kaynak-tooze-felaketin-bedeli` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
@@ -293,7 +293,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `kavram-umran` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-vergi` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-yasam-beklentisi` | 3 | 1 | 0 | birincil kaynak yok |
-| `kaynak-ibn-haldun-mukaddime` | 3 | 1 | 0 | birincil kaynak yok |
 | `kaynak-keynes-genel-teori` | 3 | 1 | 0 | birincil kaynak yok |
 | `kaynak-milanovic-kuresel-esitsizlik` | 3 | 1 | 0 | birincil kaynak yok |
 | `kaynak-pomeranz-buyuk-ayrisma` | 3 | 1 | 0 | birincil kaynak yok |
@@ -344,7 +343,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `aktor-memluk-devleti` | 3 | 0 | 0 | birincil kaynak yok |
 | `aktor-safevi-devleti` | 3 | 0 | 0 | birincil kaynak yok |
 | `dusunur-farabi` | 3 | 0 | 0 | birincil kaynak yok |
-| `dusunur-ibn-haldun` | 3 | 0 | 0 | birincil kaynak yok |
 | `kavram-asabiyet` | 3 | 0 | 0 | birincil kaynak yok |
 | `kavram-ictihad` | 3 | 0 | 0 | birincil kaynak yok |
 | `kavram-tasavvuf` | 3 | 0 | 0 | birincil kaynak yok |

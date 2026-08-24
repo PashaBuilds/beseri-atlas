@@ -39,7 +39,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "ASABİYET"
     not: "Müellif: Mustafa Çağrıcı"
-son_denetim: 2026-08-20
+  - anahtar: k4
+    tur: birincil
+    ad: "مقدمة ابن خلدون (tam metin)"
+    url: https://ar.wikisource.org/wiki/%D9%85%D9%82%D8%AF%D9%85%D8%A9_%D8%A7%D8%A8%D9%86_%D8%AE%D9%84%D8%AF%D9%88%D9%86
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "مقدمة ابن خلدون"
+    not: "Eserin kamu mali tam metni; Arapca ozgun metin"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -158,3 +165,9 @@ bulur ve bugün anlaşıldığı manada ırkçılığa göre daha dar çerçevel
 karakter taşıdığını belirtir.[^k3] Kavramın kendi tarihini ve İbn Haldûn'un ona
 yüklediği anlam katmanlarını ayrıntılı biçimde
 [asabiyet dosyası](/kavram/asabiyet/) ele alıyor.
+
+## Eserine bağ
+
+Bu dosya eserin kamu malı tam metnine bağlanır: *Mukaddime*.[^k4] Esere yapılacak
+her atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
+çevirinin kullanıldığı belirtilmelidir.

@@ -48,7 +48,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Han dynasty"
     not: "Yazildigi donemin hanedani"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Shiji (tam metin)"
+    url: https://ctext.org/shiji
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "Shiji"
+    not: "Eserin kamu mali tam metni; Chinese Text Project; Cince ozgun metin"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -105,3 +112,9 @@ yerleştirir.[^k3] O hanedan
 Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
 ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi çevirinin ve hangi
 neşrin kullanıldığı her aktarımda belirtilmelidir.
+
+## Metne bağ
+
+Bu dosya eserin kamu malı tam metnine bağlanır: *Shiji*.[^k4] Esere yapılacak
+her atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
+çevirinin kullanıldığı belirtilmelidir.

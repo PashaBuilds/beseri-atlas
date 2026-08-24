@@ -41,7 +41,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Han dynasty"
     not: "Yazdigi donemin hanedani"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Shiji (tam metin)"
+    url: https://ctext.org/shiji
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "Shiji"
+    not: "Eserin kamu mali tam metni; Chinese Text Project; Cince ozgun metin"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -110,3 +117,9 @@ verilir.[^k2] O düşünür [Konfüçyüs](/dusunur/konfucyus/) dosyasında ele 
 Hayatının seyri, cezalandırılması, *Shiji*'nin yapısı ve sonraki eleştiriler
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]
+
+## Eserine bağ
+
+Bu dosya eserin kamu malı tam metnine bağlanır: *Shiji*.[^k4] Esere yapılacak
+her atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
+çevirinin kullanıldığı belirtilmelidir.

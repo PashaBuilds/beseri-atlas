@@ -332,7 +332,7 @@ Sığlık bir doğruluk kusuru değil, bir kapsam borcudur.
 Karar verilene kadar mevcut davranış sürer: **3. seçenek**. Kapı borcu her
 koşuda raporlar, yeni içeriğe hedefi zorlar, var olanın kısalmasına izin vermez.
 
-## Birincil metin bulunamayan dört eser
+## Birincil metin bulunamayan eserler (çözüldü: 3/4)
 _2026-08-23 · Faz 6_
 
 21 kamu malı kitabın 18'i doğrulanmış tam metnine bağlandı. Üçü bağlanamadı:
@@ -371,3 +371,38 @@ makaleler ansiklopediye mahkûm kalıyor.
 
 Hat, karar verilene kadar mevcut davranışı sürdürür: bu üç dosya birincil
 kaynaksız kalır ve KAPI 13 borcunda görünür.
+
+### Çözüm — 2026-08-23, aynı gün
+
+Yukarıdaki 1. seçenek denendi ve işe yaradı. Batı-dışı kamu malı arşivleri
+ölçüldü:
+
+| Alan adı | Sonuç |
+|---|---|
+| `ctext.org` | HTTP 200, 14.211 karakter metin — kullanılabilir |
+| `ar.wikisource.org` | HTTP 200 — kullanılabilir |
+| `zh.wikisource.org` | HTTP 200 — kullanılabilir |
+| `shamela.ws` | HTTP 200 — kullanılabilir |
+| `sacred-texts.com` | HTTP 403 bot koruması — kullanılamaz |
+| `al-maktaba.org` | HTTP 403 bot koruması — kullanılamaz |
+
+Dördü havuza `tur: birincil` olarak eklendi, ikisi `dogrulanabilir: false`
+olarak işaretlendi.
+
+Kurtarılan üç eser:
+
+- **İbn Haldûn, Mukaddime** → `ar.wikisource.org`, Arapça özgün metin
+- **Sima Qian, Shiji** → `ctext.org/shiji`, Çince özgün metin
+- **Kautilya, Arthaşastra** → `en.wikisource.org`, Shamasastry çevirisi
+
+KAPI 8 ve KAPI 10 üçünü de doğruladı; Arapça ve Çince doğrulama dizeleri
+`normalize()` üzerinden sorunsuz eşleşiyor.
+
+**Hâlâ çözülemeyen: Fârâbî, Ârâʾu ehli'l-medîneti'l-fâzıla.** `ar.wikisource`
+sayfası 404 döndü; archive.org aramaları Walzer çevirisini künyede doğrulanmış
+biçimde vermedi. Tek eser kaldı ve borç defterinde açıkça duruyor.
+
+**Dersin kendisi kayda değer:** boşluk korpusun değil, ARAÇLARIN kapsamındaydı.
+Dört eser "bulunamıyor" diye işaretlenmişti; üçü, bakılan yer değiştirilince
+ilk denemede bulundu. Bir ölçümün "yok" demesi, aracın oraya bakmadığı anlamına
+gelebilir.
