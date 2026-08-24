@@ -48,7 +48,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Politics"
     not: "Ogrencisinin ayni konudaki eseri"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The Republic of Plato (tam metin)"
+    url: https://www.gutenberg.org/ebooks/55201
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "The Republic of Plato"
+    not: "Eserin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -85,8 +92,7 @@ bölümlendiğini ve anayasaların sınıflandırılmasına ayrı bir bölüm ay
 yazar.[^k3] O eser
 [Aristoteles — Politika](/kaynak/aristoteles-politika/) dosyasında ele alınıyor.
 
-## Okuma yönlendirmesi
+## Metne bağ
 
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi çevirinin kullanıldığı ve
+Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Eser kamu malıdır; hangi çevirinin kullanıldığı ve
 hangi satır aralığına atıf yapıldığı her aktarımda belirtilmelidir.

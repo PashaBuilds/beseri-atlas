@@ -47,7 +47,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Sima Qian"
     not: "Ayni gelenegin bir baska metin sorunu"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The Analects of Confucius (tam metin)"
+    url: https://www.gutenberg.org/ebooks/3330
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "The Analects of Confucius"
+    not: "Eserin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -94,8 +101,7 @@ Aynı geleneğin bir başka metni için tutulan kayıt, sonsözdeki bir bölüm�
 başka bir yazara atfedildiğini yazar.[^k3] O eser
 [Sima Qian — Shiji](/kaynak/sima-qian-shiji/) dosyasında ele alınıyor.
 
-## Okuma yönlendirmesi
+## Metne bağ
 
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi çevirinin kullanıldığı her
+Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Eser kamu malıdır; hangi çevirinin kullanıldığı her
 aktarımda belirtilmelidir.

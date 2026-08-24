@@ -1,6 +1,6 @@
 {
   "mod": "--lint",
-  "zaman": "2026-08-24T20:23:47.164Z",
+  "zaman": "2026-08-24T20:45:53.041Z",
   "gecti": true,
   "makale_sayisi": 359,
   "kapilar": [
@@ -99,9 +99,9 @@
       "hatalar": [],
       "olcum": {
         "olculen": 359,
-        "toplamKunye": 1106,
+        "toplamKunye": 1124,
         "kuralIhlali": 226,
-        "birincilsiz": 325,
+        "birincilsiz": 307,
         "toplamGiris": 589
       }
     }

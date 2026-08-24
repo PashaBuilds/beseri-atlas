@@ -50,7 +50,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Hegel"
     not: "Sonraki kusaktan okuma"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Kritik der reinen Vernunft (tam metin)"
+    url: https://www.gutenberg.org/ebooks/6343
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "Kritik der reinen Vernunft"
+    not: "Eserin kamu mali tam metni; Almanca ozgun metin"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -94,3 +101,9 @@ Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
 ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi baskının ve hangi çevirinin
 kullanıldığı her aktarımda belirtilmelidir. Kaynak sınıflandırması
 [Birincil kaynak](/kavram/birincil-kaynak/) dosyasında ele alınıyor.
+
+## Metne bağ
+
+Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
+atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
+çevirinin kullanıldığı her aktarımda belirtilmelidir.

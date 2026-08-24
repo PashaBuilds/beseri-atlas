@@ -47,7 +47,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Machiavelli"
     not: "Savas ilkeleri uzerine onceki yazar; bagimsiz alan adi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The Influence of Sea Power Upon History (tam metin)"
+    url: https://www.gutenberg.org/ebooks/13529
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "The Influence of Sea Power Upon History"
+    not: "Eserin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -98,3 +105,9 @@ arasında savaş ilkelerini sayar.[^k3] O yazar
 Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
 ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi baskının kullanıldığı her
 aktarımda belirtilmelidir.
+
+## Metne bağ
+
+Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
+atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
+çevirinin kullanıldığı her aktarımda belirtilmelidir.

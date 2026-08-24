@@ -49,7 +49,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Augustine"
     not: "Ayni donemin dini tartismalarina cagdas kaynak; bagimsiz alan adi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The History of the Decline and Fall of the Roman Empire (tam metin)"
+    url: https://www.gutenberg.org/ebooks/25717
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "The History of the Decline and Fall of the Roman Empire"
+    not: "Eserin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -98,8 +105,7 @@ onu Antik Çağ'ın belki en büyük Hıristiyan filozofu olarak verir ve eserle
 çoğunun bugün tenkitli neşirlerinin mevcut olduğunu yazar.[^k3] O yazar
 [Augustinus](/dusunur/augustinus/) dosyasında ele alınıyor.
 
-## Okuma yönlendirmesi
+## Metne bağ
 
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi baskının ve hangi editörün
+Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Eser kamu malıdır; hangi baskının ve hangi editörün
 neşrinin kullanıldığı her aktarımda belirtilmelidir.

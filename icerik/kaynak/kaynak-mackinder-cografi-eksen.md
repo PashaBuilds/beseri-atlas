@@ -48,7 +48,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Montesquieu"
     not: "Cografya ile yonetim bicimini birlikte ele alan onceki yazar; bagimsiz alan adi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The Geographical Pivot of History (tam metin)"
+    url: https://archive.org/details/the-geographical-pivot-of-history-by-halford-john-mackinder
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "The Geographical Pivot of History"
+    not: "Eserin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -96,3 +103,9 @@ bir açıklamasını kurduğunu yazar.[^k3] O yazar
 Bu dosya bildirinin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
 ansiklopedi maddesidir.[^k1] Bildiri kamu malıdır; hangi baskının kullanıldığı
 her aktarımda belirtilmelidir.
+
+## Metne bağ
+
+Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
+atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
+çevirinin kullanıldığı her aktarımda belirtilmelidir.

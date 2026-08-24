@@ -48,7 +48,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Capitalism"
     not: "Eserin konusu"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Capital: Volume One (tam metin)"
+    url: https://www.marxists.org/archive/marx/works/1867-c1/
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "Capital: Volume One"
+    not: "Eserin kamu mali tam metni; Ingilizce tam metin"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -98,3 +105,9 @@ ait olduğu belirtilerek aktarılır. Yazar
 Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
 ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi cildin, hangi baskının ve
 hangi çevirinin kullanıldığı her aktarımda belirtilmelidir.
+
+## Metne bağ
+
+Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
+atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
+çevirinin kullanıldığı her aktarımda belirtilmelidir.

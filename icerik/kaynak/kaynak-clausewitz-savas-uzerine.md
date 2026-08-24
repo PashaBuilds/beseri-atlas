@@ -48,7 +48,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Machiavelli"
     not: "Onceki yuzyilin savas ilkeleri yazari; bagimsiz alan adi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "On War (tam metin)"
+    url: https://www.gutenberg.org/ebooks/1946
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "On War"
+    not: "Eserin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -95,8 +102,7 @@ savaş ilkelerini sayar.[^k3] O yazar
 [Machiavelli](/dusunur/machiavelli/) dosyasında, yazarın kendisi ise
 [Carl von Clausewitz](/dusunur/clausewitz/) dosyasında ele alınıyor.
 
-## Okuma yönlendirmesi
+## Metne bağ
 
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eserin kendisi kamu malıdır; hangi baskının ve
+Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Eserin kendisi kamu malıdır; hangi baskının ve
 hangi çevirinin kullanıldığı her aktarımda belirtilmelidir.

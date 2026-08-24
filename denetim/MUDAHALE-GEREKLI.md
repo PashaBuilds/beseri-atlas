@@ -331,3 +331,39 @@ Sığlık bir doğruluk kusuru değil, bir kapsam borcudur.
 
 Karar verilene kadar mevcut davranış sürer: **3. seçenek**. Kapı borcu her
 koşuda raporlar, yeni içeriğe hedefi zorlar, var olanın kısalmasına izin vermez.
+
+## Birincil metin bulunamayan üç eser
+_2026-08-23 · Faz 6_
+
+21 kamu malı kitabın 18'i doğrulanmış tam metnine bağlandı. Üçü bağlanamadı:
+
+| Eser | Yazar | Denenen |
+|---|---|---|
+| Kitâbü'l-ʿİber (Mukaddime) | İbn Haldûn | gutenberg + archive.org, "Muqaddimah" |
+| Shiji | Sima Qian | gutenberg + archive.org, "Records of the Grand Historian" |
+| Ârâʾu ehli'l-medîneti'l-fâzıla | Fârâbî | gutenberg + archive.org, "virtuous city" |
+
+Aramalar sonuç döndürdü ama hiçbiri katalog künyesinde doğru yazarı taşımıyordu.
+`archive.org` "Muqaddimah" sorgusuna İbn Ebî Cemre'nin AYNI ADLI ama BAŞKA olan
+eserini döndürüyor.
+
+**Bu tesadüf değil, yapısal bir eğilim.** Platon, Hobbes, Machiavelli, Malthus
+ve Gibbon'ın tam metinleri tek aramada bulunuyor; İbn Haldûn, Sima Qian ve
+Fârâbî bulunamıyor. Kamu malı dijital kütüphaneler Batı kanonunu yoğun,
+Batı-dışını seyrek kapsıyor. Bu, korpusta zaten ölçülen bölge dengesizliğini
+(Avrupa 218 makale, Orta Asya 12) kaynak katmanında da üretiyor: Batı-dışı
+makaleler ansiklopediye mahkûm kalıyor.
+
+**Editoryal karar gerekiyor.** Seçenekler:
+
+1. Havuza Batı-dışı kamu malı arşivleri eklemek: `shamela.ws`, `al-maktaba.org`
+   (Arapça), `ctext.org` (Çince klasikler — Shiji tam metni burada), `sacred-
+   texts.com`. Doğrulanabilirlikleri ölçülmeli.
+2. Çeviri baskıları aramak: Rosenthal'ın Mukaddime çevirisi ve Watson'ın Shiji
+   çevirisi archive.org'da olabilir; başlık sorgusu yerine çevirmen sorgusu
+   denenmeli.
+3. Bu üçünü ansiklopedi kaynaklı bırakıp `kaynak-borcu.md` içinde açıkça
+   işaretlemek (mevcut davranış).
+
+Hat, karar verilene kadar mevcut davranışı sürdürür: bu üç dosya birincil
+kaynaksız kalır ve KAPI 13 borcunda görünür.

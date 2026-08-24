@@ -48,7 +48,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Sovereignty"
     not: "Eserin merkezindeki kavram"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Leviathan (tam metin)"
+    url: https://www.gutenberg.org/ebooks/3207
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "Leviathan"
+    not: "Eserin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -91,8 +98,7 @@ Atlas bu yüzden bu dosyanın künyesinde 1651 yılını tutar ve eserden yapıl
 her aktarımda hangi baskının kullanıldığının belirtilmesini şart koşar.[^k1][^k2]
 Yazar [Thomas Hobbes](/dusunur/hobbes/) dosyasında ele alınıyor.
 
-## Okuma yönlendirmesi
+## Metne bağ
 
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eserin kendisi kamu malıdır; hangi baskının
+Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Eserin kendisi kamu malıdır; hangi baskının
 kullanıldığı her aktarımda belirtilmelidir.

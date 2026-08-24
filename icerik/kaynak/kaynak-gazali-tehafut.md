@@ -48,7 +48,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "İCTİHAD"
     not: "Ayni gelenegin yontem kavrami; bagimsiz alan adi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The Incoherence of the Philosophers (tam metin)"
+    url: https://archive.org/details/the-incoherence-of-the-philosophers-2nd-edition-brigham-young-university-islamic
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "The Incoherence of the Philosophers"
+    not: "Eserin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -98,3 +105,9 @@ olduğunu tanımın içine koyar.[^k3] O kavram
 Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
 ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi neşrin ve hangi çevirinin
 kullanıldığı her aktarımda belirtilmelidir.
+
+## Metne bağ
+
+Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
+atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
+çevirinin kullanıldığı her aktarımda belirtilmelidir.

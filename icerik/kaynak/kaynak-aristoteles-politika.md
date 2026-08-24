@@ -46,7 +46,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Republic"
     not: "Hocasinin ayni konudaki eseri"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Politics: A Treatise on Government (tam metin)"
+    url: https://www.gutenberg.org/ebooks/6762
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "Politics: A Treatise on Government"
+    not: "Eserin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -89,8 +96,7 @@ Hocasının aynı konudaki eseri için tutulan kayıt, o eserin kitaplarını ko
 satır aralığıyla birlikte sıraladığını yazar.[^k3] O eser
 [Platon — Devlet](/kaynak/platon-devlet/) dosyasında ele alınıyor.
 
-## Okuma yönlendirmesi
+## Metne bağ
 
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi çevirinin kullanıldığı her
+Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Eser kamu malıdır; hangi çevirinin kullanıldığı her
 aktarımda belirtilmelidir.

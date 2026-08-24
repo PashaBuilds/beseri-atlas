@@ -49,7 +49,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Renaissance"
     not: "Yazildigi donem"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The Prince (tam metin)"
+    url: https://www.gutenberg.org/ebooks/1232
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "The Prince"
+    not: "Eserin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -98,9 +105,8 @@ neden ayrı tuttuğunun dayanağıdır. Yazar
 [Machiavelli](/dusunur/machiavelli/) dosyasında, dönem ise
 [Rönesans](/olay/ronesans/) dosyasında ele alınıyor.[^k3]
 
-## Okuma yönlendirmesi
+## Metne bağ
 
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eserin kendisi kamu malıdır; hangi çevirinin ve
+Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Eserin kendisi kamu malıdır; hangi çevirinin ve
 hangi baskının kullanıldığı, atlasın kaynak gösterme kuralına göre her alıntıda
 belirtilmelidir.

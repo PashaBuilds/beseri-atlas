@@ -54,13 +54,59 @@ export async function archiveAra(sorgu) {
 }
 
 /**
- * Bir adayı doğrular: HTTP 200 dönmeli ve aranan dize sayfa metninde geçmeli.
- * KAPI 8 ve KAPI 10 build sırasında aynı iki şeyi soracak; burada önceden
- * sorulması, kırık künyenin korpusa hiç girmemesini sağlar.
+ * Yapısal künye. Sayfa metni eşleşmesi TEK BAŞINA YETMEZ ve bu ders pahalıya
+ * öğrenildi (2026-08-23): gevşek eşleşme
+ *
+ *   Hegel'in Tinin Görüngübilimi yerine  -> Wilhelm Purpus, "Zur Dialektik des
+ *                                           Bewusstseins nach Hegel" (1908)
+ *   Weber'in Protestan Ahlakı yerine     -> "What's Left of Philosophy" adlı
+ *                                           bir PODCAST bölümü (2022)
+ *   İbn Haldûn'un Mukaddime'si yerine    -> İbn Ebî Cemre'nin Mukaddime'si
+ *   Marx'ın Kapital'i yerine             -> Gabriel Deville'in İspanyolca ÖZETİ
+ *
+ * kabul ediyordu; dördü de başlık kelimelerini sayfada taşıyor. Eser adı ve
+ * yazar adı, sayfa metninden değil kataloğun kendi künyesinden okunmalıdır.
  */
-export async function adayiDogrula(aday, dize) {
+export async function yapisalKunye(url) {
+  const arsiv = /archive\.org\/details\/([^/?#]+)/.exec(url);
+  if (arsiv) {
+    const s = await getir(`https://archive.org/metadata/${arsiv[1]}`, { metinSakla: true });
+    if (s.durum !== 200) return null;
+    try {
+      const m = JSON.parse(s.metin).metadata || {};
+      return { ad: String(m.title || ''), yazar: String(m.creator || ''), yil: m.year || m.date || null };
+    } catch { return null; }
+  }
+  const gut = /gutenberg\.org\/ebooks\/(\d+)/.exec(url);
+  if (gut) {
+    const s = await getir(`https://gutendex.com/books/${gut[1]}`, { metinSakla: true });
+    if (s.durum !== 200) return null;
+    try {
+      const j = JSON.parse(s.metin);
+      return { ad: String(j.title || ''), yazar: (j.authors || []).map((a) => a.name).join(', '), yil: null };
+    } catch { return null; }
+  }
+  return null;
+}
+
+/**
+ * Bir adayı doğrular: HTTP 200 dönmeli, aranan dize sayfa metninde geçmeli ve
+ * — katalog künyesi varsa — YAZAR ADI künyede geçmeli. KAPI 8 ve KAPI 10 build
+ * sırasında ilk ikisini soracak; yazar şartı buranın kendi sıkılığıdır.
+ */
+export async function adayiDogrula(aday, dize, { yazar = null } = {}) {
   const s = await getir(aday.url, { metinSakla: true });
   if (s.durum !== 200) return { ...aday, ok: false, neden: `HTTP ${s.durum || 'baglanti hatasi'}` };
+  if (yazar) {
+    const k = await yapisalKunye(aday.url);
+    if (k) {
+      const soyad = normalize(yazar).split(' ').filter((w) => w.length > 2).pop() || '';
+      if (soyad && !normalize(`${k.ad} ${k.yazar}`).includes(soyad)) {
+        return { ...aday, ok: false, kunye: k, neden: `katalog yazari uyusmuyor: "${k.yazar}"` };
+      }
+      aday = { ...aday, kunye: k, ad: k.ad || aday.ad };
+    }
+  }
   const metin = normalize(`${s.baslik || ''} ${s.metin || ''}`);
   const hedef = normalize(dize);
   if (metin.includes(hedef)) return { ...aday, ok: true, oran: 1 };
@@ -80,7 +126,7 @@ export async function birincilBul(yazar, eser, { dogrulamaDizesi = null } = {}) 
 
   const sonuc = [];
   for (const a of adaylar) {
-    sonuc.push(await adayiDogrula(a, dize));
+    sonuc.push(await adayiDogrula(a, dize, { yazar }));
     await bekle(600);
   }
   return sonuc.sort((a, b) => (b.ok - a.ok) || ((b.oran || 0) - (a.oran || 0)));

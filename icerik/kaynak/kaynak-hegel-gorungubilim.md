@@ -48,7 +48,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Kant"
     not: "Okumalardan birinin adini aldigi dusunur"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The phenomenology of mind (tam metin)"
+    url: https://archive.org/details/phenomenologyofm0000hege
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "The phenomenology of mind"
+    not: "Eserin kamu mali tam metni; Hegel, Georg Wilhelm Friedrich (1770-1831) kunyeli 1949 baskisi"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -92,3 +99,9 @@ alınıyor.[^k3] Yazar
 Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
 ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi baskının ve hangi çevirinin
 kullanıldığı her aktarımda belirtilmelidir.
+
+## Metne bağ
+
+Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
+atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
+çevirinin kullanıldığı her aktarımda belirtilmelidir.

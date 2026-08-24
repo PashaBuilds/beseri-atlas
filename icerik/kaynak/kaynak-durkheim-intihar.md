@@ -48,7 +48,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
     not: "Oran hesaplarinin uzerine uygulandigi toplam; bagimsiz alan adi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Suicide, a study in sociology (tam metin)"
+    url: https://archive.org/details/suicidestudyinso0000durk
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "Suicide, a study in sociology"
+    not: "Eserin kamu mali tam metni"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -94,3 +101,9 @@ istatistiklerine dayanır, seri ise sağlayıcının toplam satırıdır.[^k1][^
 Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
 ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi baskının ve hangi çevirinin
 kullanıldığı her aktarımda belirtilmelidir.
+
+## Metne bağ
+
+Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
+atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
+çevirinin kullanıldığı her aktarımda belirtilmelidir.

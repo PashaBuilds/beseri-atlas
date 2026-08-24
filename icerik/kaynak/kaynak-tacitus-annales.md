@@ -46,7 +46,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Augustine"
     not: "Ayni imparatorlugun sonraki yuzyillari; bagimsiz alan adi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The Reign of Tiberius, Out of the First Six Annals of Tacitus (tam metin)"
+    url: https://www.gutenberg.org/ebooks/7959
+    erisim_tarihi: 2026-08-23
+    dogrulama_dizesi: "The Reign of Tiberius, Out of the First Six Annals of Tacitus"
+    not: "Eserin kamu mali tam metni; Annales in ilk alti kitabini kapsayan cevirisi; eserin tamami degildir"
+son_denetim: 2026-08-23
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -97,3 +104,9 @@ yazar [Augustinus](/dusunur/augustinus/) dosyasında ele alınıyor.
 Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir
 ansiklopedi maddesidir.[^k1] Eser kamu malıdır; hangi çevirinin kullanıldığı her
 aktarımda belirtilmelidir.
+
+## Metne bağ
+
+Bu dosya eserin kamu malı tam metnine bağlanır.[^k4] Esere yapılacak her
+atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
+çevirinin kullanıldığı her aktarımda belirtilmelidir.

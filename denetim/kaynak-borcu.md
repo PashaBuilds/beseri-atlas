@@ -12,10 +12,10 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Ölçüm | Değer |
 |---|---|
 | Ölçülen makale | 359 |
-| Toplam künye | 1106 |
+| Toplam künye | 1124 |
 | Giriş kapısı kuralını aşan makale | 226 |
-| Birincil kaynağı olmayan makale | 325 |
-| Giriş kapısı künyesi payı | 53% |
+| Birincil kaynağı olmayan makale | 307 |
+| Giriş kapısı künyesi payı | 52% |
 
 ## Tipe göre borçlu makale
 
@@ -26,7 +26,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | aktor | 62 |
 | dusunur | 36 |
 | tartisma | 34 |
-| kaynak | 31 |
+| kaynak | 28 |
 | veri | 24 |
 | donem | 9 |
 
@@ -156,29 +156,29 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `kavram-topyekun-savas` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `kavram-ulus-devlet` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `kavram-yazi-sistemi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `kaynak-aristoteles-politika` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-aristoteles-politika` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kaynak-braudel-akdeniz` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `kaynak-carr-tarih-nedir` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `kaynak-clausewitz-savas-uzerine` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `kaynak-durkheim-intihar` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `kaynak-gibbon-roma` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-clausewitz-savas-uzerine` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `kaynak-durkheim-intihar` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `kaynak-gibbon-roma` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kaynak-herodotos-tarihler` | 3 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
-| `kaynak-hobbes-leviathan` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-hobbes-leviathan` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kaynak-hobsbawm-caglar` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `kaynak-konfucyus-lunyu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `kaynak-machiavelli-prens` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `kaynak-mackinder-cografi-eksen` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `kaynak-mahan-deniz-gucu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `kaynak-malthus-nufus` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `kaynak-marx-kapital` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `kaynak-montesquieu-kanunlarin-ruhu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `kaynak-platon-devlet` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-konfucyus-lunyu` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `kaynak-machiavelli-prens` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `kaynak-mackinder-cografi-eksen` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `kaynak-mahan-deniz-gucu` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `kaynak-malthus-nufus` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `kaynak-marx-kapital` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `kaynak-montesquieu-kanunlarin-ruhu` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
+| `kaynak-platon-devlet` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kaynak-polanyi-buyuk-donusum` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `kaynak-sima-qian-shiji` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `kaynak-smith-uluslarin-zenginligi` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
-| `kaynak-tacitus-annales` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-tacitus-annales` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kaynak-tooze-felaketin-bedeli` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `kaynak-weber-protestan-ahlaki` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `kaynak-weber-protestan-ahlaki` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `olay-11-eylul` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-1848-devrimleri` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-1857-hint-ayaklanmasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
@@ -307,9 +307,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `kavram-umran` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-vergi` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-yasam-beklentisi` | 3 | 1 | 0 | birincil kaynak yok |
-| `kaynak-hegel-gorungubilim` | 3 | 1 | 0 | birincil kaynak yok |
 | `kaynak-ibn-haldun-mukaddime` | 3 | 1 | 0 | birincil kaynak yok |
-| `kaynak-kant-elestiri` | 3 | 1 | 0 | birincil kaynak yok |
 | `kaynak-keynes-genel-teori` | 3 | 1 | 0 | birincil kaynak yok |
 | `kaynak-milanovic-kuresel-esitsizlik` | 3 | 1 | 0 | birincil kaynak yok |
 | `kaynak-pomeranz-buyuk-ayrisma` | 3 | 1 | 0 | birincil kaynak yok |
@@ -368,4 +366,3 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `kavram-ictihad` | 3 | 0 | 0 | birincil kaynak yok |
 | `kavram-tasavvuf` | 3 | 0 | 0 | birincil kaynak yok |
 | `kaynak-farabi-medinetul-fazila` | 3 | 0 | 0 | birincil kaynak yok |
-| `kaynak-gazali-tehafut` | 3 | 0 | 0 | birincil kaynak yok |
