@@ -58,6 +58,35 @@ export function remarkDirektif() {
   return (agac, dosya) => {
     visit(agac, (dugum) => {
       if (!['textDirective', 'leafDirective', 'containerDirective'].includes(dugum.type)) return;
+
+      // METIN DIREKTIFI (tek iki nokta) — 2026-08-25'te eklendi.
+      //
+      // remark-directive `:ad` bicimini metin direktifi olarak ayristirir. Turkce
+      // duz yazida iki nokta sik gecer: saat ("01:23'te"), oran ("2:1"), ayet
+      // numarasi. Bunlarin hicbiri direktif degildir, ama eklenti hepsini
+      // "bilinmeyen direktif" sayip dosya.fail() cagiriyordu.
+      //
+      // Astro bu hatayi dosya bazinda yakalayip GOVDEYI BOS render ediyor:
+      // build kirilmiyor, sayfa sessizce icerigini kaybediyor. olay-cernobil
+      // dosyasi 2026-08-21'den beri bu yuzden govdesiz yayindaydi ve on uc
+      // kapinin hicbiri gormedi; KAPI 14 bulup bisect ile buraya kadar indi.
+      //
+      // Proje `::tartismali[...]{harita=...}` bicimini kullanir; bu bir LEAF
+      // direktiftir. Tek iki noktali metin direktifi hicbir zaman kasitli
+      // degildir, dolayisiyla duz metne geri cevrilir. Tek istisna: adi
+      // "tartismali" ise bu bir yazim hatasidir ve build kirilir.
+      if (dugum.type === 'textDirective') {
+        if (dugum.name === 'tartismali') {
+          dosya.fail('::tartismali tek iki nokta ile yazilmis; leaf direktif icin `::` gerekir', dugum);
+          return;
+        }
+        const etiket = dugum.children?.map((c) => c.value || '').join('') || '';
+        dugum.type = 'text';
+        dugum.value = `:${dugum.name}${etiket ? `[${etiket}]` : ''}`;
+        dugum.children = [];
+        return;
+      }
+
       if (dugum.name !== 'tartismali') {
         dosya.fail(`bilinmeyen direktif: ::${dugum.name}`, dugum);
         return;

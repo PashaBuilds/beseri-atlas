@@ -407,7 +407,7 @@ Dört eser "bulunamıyor" diye işaretlenmişti; üçü, bakılan yer değiştir
 ilk denemede bulundu. Bir ölçümün "yok" demesi, aracın oraya bakmadığı anlamına
 gelebilir.
 
-## İçerik kaybı: olay-cernobil'in gövdesi yayına girmiyor
+## İçerik kaybı: olay-cernobil'in gövdesi yayına girmiyordu (ÇÖZÜLDÜ)
 _2026-08-25 · KAPI 14 ilk koşusunda buldu_
 
 `icerik/olay/olay-cernobil.md` dosyasının **gövdesinin tamamı** derlenmiş
@@ -446,3 +446,42 @@ kelime sayımına katıyor (yani makale ölçüldüğünden kısa), KAPI 12 rend
 artığı ve kırık bağ arıyordu — eksik içerik değil. Kaynağı denetleyen bir hat,
 okuyucunun gördüğü sayfayı denetlemiş olmuyor; KAPI 12'nin kendi gerekçesi
 buydu ve aynı kör nokta bir kez daha, farklı biçimde yaşandı.
+
+### Çözüm — 2026-08-25, aynı gün
+
+Bisect ile kök nedene inildi. Gövde bölüm bölüm kısaltıldı; render ilk
+paragrafta bile kesiliyordu. Frontmatter aynı kalıp gövde basitleştirildiğinde
+render düzeldi, yani sorun gövdedeydi. Satır içinde daralttıkça şu tabloya
+ulaşıldı:
+
+| Gövde | Render |
+|---|---|
+| `26 Nisan sinama.` | var |
+| `Nisan 1986'da sinama.` | var |
+| `Bir sey 4 numarali sinama.` | var |
+| `26 Nisan 1986'da, yerel saatle 01:23'te sinama.` | **yok** |
+| `Saat 01:23 idi.` | **yok** |
+| `Saat 01:ab oldu.` | **yok** |
+
+Yani herhangi bir `X:Y` deseni gövdeyi düşürüyordu.
+
+**Kök neden.** `remark-directive`, `:ad` biçimini bir METİN DİREKTİFİ olarak
+ayrıştırır. Türkçe düz yazıda iki nokta sık geçer — saat, oran, ayet numarası.
+`araclar/remark-eklentileri.mjs` bunların hepsini "bilinmeyen direktif" sayıp
+`dosya.fail()` çağırıyordu. Astro bu hatayı dosya bazında yakalayıp **gövdeyi
+boş render ediyor**: build kırılmıyor, sayfa sessizce içeriğini kaybediyor.
+
+**Onarım.** Metin direktifleri (tek iki nokta) artık düz metne geri çevriliyor;
+proje zaten `::tartismali[...]{harita=...}` yani LEAF direktif kullanıyor ve tek
+iki noktalı biçim hiçbir zaman kasıtlı değil. Tek istisna korunuyor: adı
+`tartismali` ise bu bir yazım hatasıdır ve build kırılır. Leaf ve container
+direktiflerdeki sertlik hiç değişmedi.
+
+Sonuç: Çernobil sayfası 7.320 bayttan 11.817 bayta çıktı; gövde tamamen
+yayında. `BILINEN_KAYIP` listesi boşaltıldı.
+
+**Neden bu kadar uzun süre görünmedi.** Hata 2026-08-21'den beri yayındaydı.
+Kaynağı denetleyen on üç kapının hiçbiri çıktıdaki eksikliği ölçmüyordu;
+KAPI 12 bile render artığı ve kırık bağ arıyordu, eksik içerik değil. Kayıp
+ancak kaynak ile çıktıyı karşılaştıran bir kapı (KAPI 14) yazıldığında
+görünür oldu.

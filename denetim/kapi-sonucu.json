@@ -1,6 +1,6 @@
 {
   "mod": "--post",
-  "zaman": "2026-08-24T22:28:35.783Z",
+  "zaman": "2026-08-24T22:36:57.890Z",
   "gecti": true,
   "makale_sayisi": 367,
   "kapilar": [
@@ -22,11 +22,11 @@
       "kapi": "KAPI 14 — icerik kaybi (kaynak -> dist)",
       "gecti": true,
       "hata": 0,
-      "uyari": 1,
+      "uyari": 0,
       "hatalar": [],
       "olcum": {
         "olculen": 367,
-        "kayipli": 1
+        "kayipli": 0
       }
     }
   ]

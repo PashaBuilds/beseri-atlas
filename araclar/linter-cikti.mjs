@@ -222,20 +222,15 @@ if (process.argv[1]?.endsWith('linter-cikti.mjs')) {
 const KAYIP_ESIK = 0.5;
 
 /**
- * Bilinen, kok nedeni henuz cozulmemis icerik kaybi.
+ * Bilinen, kok nedeni cozulmemis icerik kaybi.
  *
- * olay-cernobil: govdenin TAMAMI derlenmis sayfaya ulasmiyor (sayfa 7.320 bayt,
- * benzer bir olay makalesi 11.854). Markdown yapisal olarak temiz — kod citi,
- * html yorumu, direktif, ikinci frontmatter yok; bayt duzeyinde BOM ve CRLF
- * yok. Kopya bir dosya farkli id ile de govdesiz render oluyor, yani sorun
- * rotada ya da onbellekte degil dosya iceriginde. Kok neden Astro icerik
- * katmaninda aranmalidir.
- *
- * Bu liste bir GEVSETME DEGIL, bilinen borcun acikca isaretlenmesidir: yeni
- * icerik kaybi build'i kirar, bilinen tek vaka gorunur kalir ve
- * denetim/MUDAHALE-GEREKLI.md'de kayitlidir. Cozuldugunde bu satir silinir.
+ * Su an BOS. Tek kayit olan olay-cernobil 2026-08-25'te cozuldu: kok neden
+ * remark-directive'in `:X` desenini metin direktifi saymasiydi (bkz.
+ * araclar/remark-eklentileri.mjs). Liste, ileride kok nedeni hemen
+ * cozulemeyen bir kayip cikarsa diye duruyor; doldurmak bir gevsetme degil,
+ * borcun isaretlenmesidir ve MUDAHALE-GEREKLI.md'ye de yazilir.
  */
-const BILINEN_KAYIP = new Set(['olay-cernobil']);
+const BILINEN_KAYIP = new Set();
 
 export function icerikKaybi({ makaleler }) {
   const r = new Rapor('KAPI 14 — icerik kaybi (kaynak -> dist)');
