@@ -40,6 +40,7 @@ kaynaklar:
     not: "Donemin veziri ve idari duzeni uzerine ayri madde"
   - anahtar: k3
     tur: birincil
+    birincil_tur: eser
     ad: "The Book of Government, or Rules for Kings — tam metin"
     url: https://archive.org/details/the-book-of-government-or-rules-for-kings
     erisim_tarihi: 2026-08-25

@@ -28,6 +28,7 @@ kaynaklar:
     dogrulama_dizesi: "Late Bronze Age collapse"
   - anahtar: k2
     tur: birincil
+    birincil_tur: belge
     ad: "The Code of Hammurabi (Avalon Project, Yale Law School)"
     url: https://avalon.law.yale.edu/ancient/hamcode.asp
     erisim_tarihi: 2026-08-21

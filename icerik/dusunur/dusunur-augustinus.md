@@ -39,6 +39,7 @@ kaynaklar:
     not: "Yasadigi siyasi duzen; bagimsiz alan adi"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "The City of God, Volume I (tam metin)"
     url: https://www.gutenberg.org/ebooks/45304
     erisim_tarihi: 2026-08-23

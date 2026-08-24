@@ -39,6 +39,7 @@ kaynaklar:
     not: "Turkce akademik ansiklopedi maddesi; bagimsiz alan adi"
   - anahtar: k3
     tur: birincil
+    birincil_tur: eser
     ad: "The Metaphysics of the Book of Healing by Avicenna (tam metin)"
     url: https://archive.org/details/the-metaphysics-of-the-book-of-Healing
     erisim_tarihi: 2026-08-25

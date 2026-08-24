@@ -22,6 +22,7 @@ okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
     tur: birincil
+    birincil_tur: tanik
     ad: "Herodotus, The Histories, Book 1 (Perseus Digital Library)"
     url: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0126
     erisim_tarihi: 2026-08-21
@@ -29,6 +30,7 @@ kaynaklar:
     not: "A. D. Godley çevirisi"
   - anahtar: k2
     tur: birincil
+    birincil_tur: tanik
     ad: "Thucydides, The Peloponnesian War, Book 1 (Perseus Digital Library)"
     url: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0200
     erisim_tarihi: 2026-08-21

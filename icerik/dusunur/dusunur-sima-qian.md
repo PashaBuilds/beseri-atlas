@@ -43,6 +43,7 @@ kaynaklar:
     not: "Yazdigi donemin hanedani"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "Shiji (tam metin)"
     url: https://ctext.org/shiji
     erisim_tarihi: 2026-08-23

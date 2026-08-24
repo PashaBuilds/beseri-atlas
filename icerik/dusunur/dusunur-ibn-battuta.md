@@ -33,6 +33,7 @@ kaynaklar:
     not: "Turkce akademik ansiklopedi maddesi"
   - anahtar: k2
     tur: birincil
+    birincil_tur: tanik
     ad: "The Travels of Ibn Battuta, Volume I — tam metin"
     url: https://archive.org/details/travels-of-ibn-battuta
     erisim_tarihi: 2026-08-25

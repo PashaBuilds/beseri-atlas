@@ -44,6 +44,7 @@ kaynaklar:
     not: "Onceki siyaset dusunuru"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "Leviathan (tam metin)"
     url: https://www.gutenberg.org/ebooks/3207
     erisim_tarihi: 2026-08-23

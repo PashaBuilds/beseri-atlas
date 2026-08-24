@@ -41,6 +41,7 @@ kaynaklar:
     not: "Hanedanin merkezi uzerine ayri madde"
   - anahtar: k3
     tur: birincil
+    birincil_tur: eser
     ad: "The Chronology of Ancient Nations (tam metin)"
     url: https://archive.org/details/biruni-1879-sachau-chronology-ancient-nations
     erisim_tarihi: 2026-08-25

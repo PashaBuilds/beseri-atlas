@@ -45,6 +45,7 @@ kaynaklar:
     not: "Ayni yuzyilin baska bir Atinali yazari; bagimsiz alan adi"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "The Republic of Plato (tam metin)"
     url: https://www.gutenberg.org/ebooks/55201
     erisim_tarihi: 2026-08-23

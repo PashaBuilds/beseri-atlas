@@ -35,6 +35,7 @@ kaynaklar:
     not: "Batı sınırındaki karşı taraf"
   - anahtar: k3
     tur: birincil
+    birincil_tur: eser
     ad: "1911 Encyclopædia Britannica — Caliphate (Wikisource tam metin)"
     url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Caliphate
     erisim_tarihi: 2026-08-21

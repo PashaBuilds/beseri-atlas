@@ -49,6 +49,7 @@ kaynaklar:
     not: "Eserin karsisina aldigi politika gelenegi"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "Adam Smith - An Inquiry into the Nature and Causes of the Wealth of Nations (tam metin)"
     url: https://www.gutenberg.org/cache/epub/3300/pg3300.txt
     erisim_tarihi: 2026-08-23

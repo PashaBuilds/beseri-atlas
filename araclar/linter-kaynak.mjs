@@ -84,6 +84,9 @@ export function kaynakDenetimi(makaleler, { havuz = null } = {}) {
   let birincilTasiyan = 0;
   let toplamKunye = 0;
   let toplamGiris = 0;
+  // birincil_tur alani 2026-08-25'te eklendi; doldurulmamis kunyeler borctur.
+  let birincilKunye = 0;
+  let turlenmemis = 0;
 
   for (const m of makaleler) {
     if (m.ayristirmaHatasi) continue;
@@ -93,6 +96,11 @@ export function kaynakDenetimi(makaleler, { havuz = null } = {}) {
     toplamKunye += kaynaklar.length;
 
     const tip = m.fm.tip || m.tip;
+    for (const k of kaynaklar) {
+      if (k.tur !== 'birincil') continue;
+      birincilKunye += 1;
+      if (!k.birincil_tur) turlenmemis += 1;
+    }
     const alanlar = kaynaklar.map((k) => alanAdi(k.url));
     const giris = alanlar.filter((a) => girisKapisi.has(a));
     const birVar = birincilSayilirMi(tip, alanlar, siniflar);
@@ -116,8 +124,9 @@ export function kaynakDenetimi(makaleler, { havuz = null } = {}) {
     `giris kapisi kuralini asan: ${kuralIhlali} makale (%${olculen ? Math.round(100 * kuralIhlali / olculen) : 0})`,
     `birincil kaynagi olmayan: ${birincilsiz} makale (%${olculen ? Math.round(100 * birincilsiz / olculen) : 0})`,
     `giris kapisi kunyesi toplami: ${toplamGiris} / ${toplamKunye} (%${toplamKunye ? Math.round(100 * toplamGiris / toplamKunye) : 0})`,
+    `birincil kunye ${birincilKunye} · alt turu yazilmamis ${turlenmemis}`,
   ];
-  r.olcum = { olculen, toplamKunye, kuralIhlali, birincilsiz, toplamGiris };
+  r.olcum = { olculen, toplamKunye, kuralIhlali, birincilsiz, toplamGiris, birincilKunye, turlenmemis };
 
   borcYaz(borclu, r.olcum);
   return r;

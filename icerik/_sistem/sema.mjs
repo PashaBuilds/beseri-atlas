@@ -11,6 +11,32 @@ export const BOLGELER = ['avrupa','islam-dunyasi','orta-asya','dogu-asya','guney
 export const EKSENLER = ['siyasi','askeri','ekonomik','kulturel','felsefi','dini','demografik','mitolojik'];
 export const GUVEN = ['kesin','yaygin','tartismali'];
 export const KAYNAK_TURLERI = ['ansiklopedi','akademik','birincil','veri','ders','kitap'];
+
+// Bir kaynagin `birincil` olmasi tek bir sey demek degildir. 2026-08-25'te
+// yazilan uc Guney Asya dosyasi ayni boslugu isaret etti:
+//
+//   Indus Vadisi — kazi raporu; metin yok, yalnizca nesne
+//   Asoka        — kamuya kazinmis duyuru; yonetim kendini anlatir
+//   Chola        — tapinak duvarindaki islem kaydi; yonetim ne yaptigini yazar
+//
+// Ucu de kunyede `tur: birincil` etiketini tasiyordu ve kunye aralarindaki
+// farki gostermiyordu. Oysa fark ONEMLIDIR: her tur farkli bir soruya cevap
+// verir ve hicbiri otekinin yerine gecmez. Bir duyurudan yonetim pratigi,
+// bir islem kaydindan yonetim soylemi okunamaz.
+//
+// Alan ZORUNLU DEGILDIR; yalnizca tur: birincil kunyelerde anlamlidir ve
+// doldurulmasi tesvik edilir. Zorunlu yapilmasi 373 makaleyi bir anda
+// bozardi; borc olarak olculur (KAPI 13).
+export const BIRINCIL_TURLERI = ['eser', 'belge', 'kitabe', 'kazi', 'tanik'];
+
+/** Okur icin Turkce karsiliklar. */
+export const BIRINCIL_TUR_ADLARI = {
+  eser: 'Eserin kendisi',
+  belge: 'Belge',
+  kitabe: 'Kitabe',
+  kazi: 'Kazı raporu',
+  tanik: 'Tanıklık',
+};
 export const DENETIM_DURUMLARI = ['bekliyor','gecti','isaretli','onaylandi','onarimda','karantina'];
 
 // MO tarihleri icin isaretli yil: "-10000", "-0500-03-15", "1914-06-28".
@@ -29,6 +55,8 @@ const isoGun = z.preprocess((v) => {
 export const kaynakSemasi = z.object({
   anahtar: z.string().regex(/^k\d+$/, 'kaynak anahtari k1, k2 ... formatinda olmali'),
   tur: z.enum(KAYNAK_TURLERI),
+  // Yalnizca tur: birincil kunyelerde anlamlidir; bkz. BIRINCIL_TURLERI.
+  birincil_tur: z.enum(BIRINCIL_TURLERI).optional(),
   ad: z.string().min(8),
   url: z.string().url(),
   erisim_tarihi: isoGun,

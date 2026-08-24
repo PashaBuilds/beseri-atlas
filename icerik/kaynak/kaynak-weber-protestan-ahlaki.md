@@ -50,6 +50,7 @@ kaynaklar:
     not: "Onceki kusaktan ahlak ve iktisat baglantisi; bagimsiz alan adi"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "The Protestant ethic and the spirit of capitalism (tam metin)"
     url: https://archive.org/details/protestantethics0000webe
     erisim_tarihi: 2026-08-23

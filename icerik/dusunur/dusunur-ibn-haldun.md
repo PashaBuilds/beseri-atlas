@@ -42,6 +42,7 @@ kaynaklar:
     not: "Müellif: Mustafa Çağrıcı"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "مقدمة ابن خلدون (tam metin)"
     url: https://ar.wikisource.org/wiki/%D9%85%D9%82%D8%AF%D9%85%D8%A9_%D8%A7%D8%A8%D9%86_%D8%AE%D9%84%D8%AF%D9%88%D9%86
     erisim_tarihi: 2026-08-23

@@ -74,6 +74,7 @@ kaynaklar:
     dogrulama_dizesi: "Age of Enlightenment"
   - anahtar: k2
     tur: birincil
+    birincil_tur: eser
     ad: "Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations (Project Gutenberg)"
     url: https://www.gutenberg.org/ebooks/3300
     erisim_tarihi: 2026-08-20

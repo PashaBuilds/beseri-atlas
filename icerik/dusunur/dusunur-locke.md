@@ -42,6 +42,7 @@ kaynaklar:
     not: "Onceki kusaktan siyaset dusunuru"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "Two treatises of government (tam metin)"
     url: https://archive.org/details/twotreatisesofgo0000lock_z7g8
     erisim_tarihi: 2026-08-23

@@ -34,6 +34,7 @@ kaynaklar:
     not: "Turkce akademik ansiklopedi maddesi"
   - anahtar: k2
     tur: birincil
+    birincil_tur: tanik
     ad: "A geographical historie of Africa — tam metin"
     url: https://archive.org/details/b30334627
     erisim_tarihi: 2026-08-25

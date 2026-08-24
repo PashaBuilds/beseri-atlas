@@ -42,6 +42,7 @@ kaynaklar:
     not: "Ayni kiyi seridindeki bir baska liman uzerine ayri madde"
   - anahtar: k3
     tur: birincil
+    birincil_tur: tanik
     ad: "The Travels of Ibn Battuta — tam metin"
     url: https://archive.org/details/travels-of-ibn-battuta
     erisim_tarihi: 2026-08-25

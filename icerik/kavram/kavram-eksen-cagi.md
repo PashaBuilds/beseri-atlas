@@ -38,6 +38,7 @@ kaynaklar:
     not: "Ayni donemin bati ucundaki dusunuru"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "The origin and goal of history (tam metin)"
     url: https://archive.org/details/origingoalofhist0000jasp
     erisim_tarihi: 2026-08-25

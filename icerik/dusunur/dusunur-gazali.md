@@ -45,6 +45,7 @@ kaynaklar:
     not: "Elestirdigi gelenegin bir onceki halkasi"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "The Incoherence of the Philosophers (tam metin)"
     url: https://archive.org/details/the-incoherence-of-the-philosophers-2nd-edition-brigham-young-university-islamic
     erisim_tarihi: 2026-08-23

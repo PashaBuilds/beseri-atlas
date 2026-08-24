@@ -43,6 +43,7 @@ kaynaklar:
     not: "Madde listeleme sayfasi; bagimsiz alan adi. Ayni adi tasiyan iki ayri madde ile Bati dillerindeki bicimi burada gorulur."
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "Politics: A Treatise on Government (tam metin)"
     url: https://www.gutenberg.org/ebooks/6762
     erisim_tarihi: 2026-08-23

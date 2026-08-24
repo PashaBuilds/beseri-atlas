@@ -40,6 +40,7 @@ kaynaklar:
     not: "Ayni turden 'geleneksel kayit' sorununun baska bir ornegi; bagimsiz alan adi"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "Arthashastra (tam metin)"
     url: https://en.wikisource.org/wiki/Arthashastra
     erisim_tarihi: 2026-08-23

@@ -82,6 +82,7 @@ kaynaklar:
     dogrulama_dizesi: "population_historical"
   - anahtar: k3
     tur: birincil
+    birincil_tur: tanik
     ad: "Thucydides, The Peloponnesian War, Book 1 (Perseus Digital Library)"
     url: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0200
     erisim_tarihi: 2026-08-20

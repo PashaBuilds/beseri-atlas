@@ -50,6 +50,7 @@ kaynaklar:
     not: "Onceki yuzyilin savas ilkeleri yazari; bagimsiz alan adi"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "On War (tam metin)"
     url: https://www.gutenberg.org/ebooks/1946
     erisim_tarihi: 2026-08-23

@@ -87,6 +87,7 @@ kaynaklar:
     not: "Ayni yuzyilda mutlak egemenligi savunan yazar; bagimsiz alan adi"
   - anahtar: k4
     tur: birincil
+    birincil_tur: belge
     ad: "Treaty of Westphalia"
     url: https://avalon.law.yale.edu/17th_century/westphal.asp
     erisim_tarihi: 2026-08-25

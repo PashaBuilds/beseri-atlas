@@ -43,6 +43,7 @@ kaynaklar:
     not: "Serhettigi kulliyat"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "The Incoherence of the Incoherence (tam metin)"
     url: https://archive.org/details/the-incoherence-of-the-incoherence
     erisim_tarihi: 2026-08-23

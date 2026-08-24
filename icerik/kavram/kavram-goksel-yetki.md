@@ -37,6 +37,7 @@ kaynaklar:
     not: "Ayni gelenegin dusunuru; bagimsiz alan adi"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "Shang Shu (tam metin)"
     url: https://ctext.org/shang-shu
     erisim_tarihi: 2026-08-25

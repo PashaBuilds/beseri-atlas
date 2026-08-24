@@ -49,6 +49,7 @@ kaynaklar:
     not: "Ayni gelenegin bir baska metin sorunu"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "The Analects of Confucius (tam metin)"
     url: https://www.gutenberg.org/ebooks/3330
     erisim_tarihi: 2026-08-23

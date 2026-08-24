@@ -33,6 +33,7 @@ kaynaklar:
     not: "Turkce akademik ansiklopedi maddesi; bolgenin genel cercevesi"
   - anahtar: k2
     tur: birincil
+    birincil_tur: kazi
     ad: "Mohenjo-daro and the Indus Civilization, Vol I — tam metin"
     url: https://archive.org/details/dli.ernet.15269
     erisim_tarihi: 2026-08-25
@@ -40,6 +41,7 @@ kaynaklar:
     not: "1931 kazi raporu; katalog yazari Marshall John"
   - anahtar: k3
     tur: birincil
+    birincil_tur: kazi
     ad: "Excavations at Harappa — tam metin"
     url: https://archive.org/details/in.ernet.dli.2015.210462
     erisim_tarihi: 2026-08-25

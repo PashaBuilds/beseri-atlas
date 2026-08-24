@@ -50,6 +50,7 @@ kaynaklar:
     not: "Oran hesaplarinin uzerine uygulandigi toplam; bagimsiz alan adi"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "Suicide, a study in sociology (tam metin)"
     url: https://archive.org/details/suicidestudyinso0000durk
     erisim_tarihi: 2026-08-23

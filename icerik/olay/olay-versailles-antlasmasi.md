@@ -23,6 +23,7 @@ okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
     tur: birincil
+    birincil_tur: belge
     ad: "The Versailles Treaty, June 28, 1919 — Part VIII (Avalon Project)"
     url: https://avalon.law.yale.edu/imt/partviii.asp
     erisim_tarihi: 2026-08-21
@@ -41,6 +42,7 @@ kaynaklar:
     dogrulama_dizesi: "War and Peace"
   - anahtar: k4
     tur: birincil
+    birincil_tur: belge
     ad: "The Versailles Treaty"
     url: https://avalon.law.yale.edu/imt/parti.asp
     erisim_tarihi: 2026-08-25

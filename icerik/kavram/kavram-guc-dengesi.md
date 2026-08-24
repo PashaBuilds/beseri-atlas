@@ -43,6 +43,7 @@ kaynaklar:
     not: "Guc ayrimi fikrinin bir baska bicimi; bagimsiz alan adi"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "The Geographical Pivot of History (tam metin)"
     url: https://archive.org/details/the-geographical-pivot-of-history-by-halford-john-mackinder
     erisim_tarihi: 2026-08-25

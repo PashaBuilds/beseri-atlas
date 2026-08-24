@@ -31,6 +31,7 @@ kaynaklar:
     not: "Turkce akademik ansiklopedi maddesi"
   - anahtar: k2
     tur: birincil
+    birincil_tur: eser
     ad: "The Chronology of Ancient Nations (tam metin)"
     url: https://archive.org/details/biruni-1879-sachau-chronology-ancient-nations
     erisim_tarihi: 2026-08-25
@@ -38,6 +39,7 @@ kaynaklar:
     not: "Asaru'l-bakiye'nin Sachau cevirisi, 1879"
   - anahtar: k3
     tur: birincil
+    birincil_tur: eser
     ad: "Alberunis India (tam metin)"
     url: https://archive.org/details/in.ernet.dli.2015.38304
     erisim_tarihi: 2026-08-25

@@ -22,6 +22,7 @@ okuma_onerisi:
 kaynaklar:
   - anahtar: k1
     tur: birincil
+    birincil_tur: belge
     ad: "Collected diplomatic documents relating to the outbreak of the European War (HMSO, 1915)"
     url: https://archive.org/stream/collecteddiploma00grea/collecteddiploma00grea_djvu.txt
     erisim_tarihi: 2026-08-20
@@ -36,6 +37,7 @@ kaynaklar:
     not: "Giriş kapısı olarak; olay sırası ve ültimatom maddeleri için"
   - anahtar: k3
     tur: birincil
+    birincil_tur: belge
     ad: "The German White Book: Documents relating to the outbreak of the war (1914)"
     url: https://archive.org/stream/germanwhitebooka00germ/germanwhitebooka00germ_djvu.txt
     erisim_tarihi: 2026-08-20

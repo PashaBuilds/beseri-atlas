@@ -44,6 +44,7 @@ kaynaklar:
     dogrulama_dizesi: "population_historical"
   - anahtar: k4
     tur: birincil
+    birincil_tur: tanik
     ad: "Herodotus, The Histories, Book 1 (Perseus Digital Library)"
     url: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0126
     erisim_tarihi: 2026-08-21

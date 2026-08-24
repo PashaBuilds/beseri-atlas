@@ -24,6 +24,7 @@ okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
     tur: birincil
+    birincil_tur: kitabe
     ad: "South-Indian Inscriptions, Tamil Inscriptions — tam metin"
     url: https://archive.org/details/india.history.resource.93073
     erisim_tarihi: 2026-08-25
@@ -31,6 +32,7 @@ kaynaklar:
     not: "Kitabe nesri; katalog yazari Hultzsch, E. (Ed. and Tr.)"
   - anahtar: k2
     tur: birincil
+    birincil_tur: kitabe
     ad: "South Indian Inscriptions, vol. 12 — tam metin"
     url: https://archive.org/details/in.gov.ignca.34752
     erisim_tarihi: 2026-08-25

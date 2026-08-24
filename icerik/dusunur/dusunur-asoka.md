@@ -23,6 +23,7 @@ okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
     tur: birincil
+    birincil_tur: kitabe
     ad: "Inscriptions of Asoka, Vol I — tam metin"
     url: https://archive.org/details/in.gov.ignca.23132
     erisim_tarihi: 2026-08-25
@@ -30,6 +31,7 @@ kaynaklar:
     not: "Fermanlarin metni ve cevirisi; katalog yazari Hultzsch"
   - anahtar: k2
     tur: birincil
+    birincil_tur: kitabe
     ad: "Edicts of Asoka in Mysore — tam metin"
     url: https://archive.org/details/india.history.resource.117017
     erisim_tarihi: 2026-08-25

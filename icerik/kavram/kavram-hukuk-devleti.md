@@ -38,6 +38,7 @@ kaynaklar:
     not: "Yakin kavram"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "The spirit of laws (tam metin)"
     url: https://archive.org/details/spiritoflaws0038mont
     erisim_tarihi: 2026-08-25

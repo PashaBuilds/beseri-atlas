@@ -30,6 +30,7 @@ kaynaklar:
     not: "Turkce akademik ansiklopedi maddesi"
   - anahtar: k2
     tur: birincil
+    birincil_tur: tanik
     ad: "The History of the World-Conqueror, vol 1 — tam metin"
     url: https://archive.org/details/dli.pahar.3131
     erisim_tarihi: 2026-08-25
@@ -37,6 +38,7 @@ kaynaklar:
     not: "Cuveyni'nin cagdas kaydi, Boyle cevirisi; yazar Mogol yonetiminde gorevliydi"
   - anahtar: k3
     tur: birincil
+    birincil_tur: tanik
     ad: "The History of the World-Conqueror, vol 2 — tam metin"
     url: https://archive.org/details/dli.pahar.3132
     erisim_tarihi: 2026-08-25

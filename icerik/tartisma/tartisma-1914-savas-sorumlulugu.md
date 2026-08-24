@@ -83,18 +83,21 @@ kaynaklar:
     dogrulama_dizesi: "Historiography of the causes of World War I"
   - anahtar: k2
     tur: birincil
+    birincil_tur: belge
     ad: "The Versailles Treaty, June 28, 1919 — Part VIII, Article 231 (Avalon Project)"
     url: https://avalon.law.yale.edu/imt/partviii.asp
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "The Versailles Treaty"
   - anahtar: k3
     tur: birincil
+    birincil_tur: belge
     ad: "The German White Book: Documents relating to the outbreak of the war (1914)"
     url: https://archive.org/stream/germanwhitebooka00germ/germanwhitebooka00germ_djvu.txt
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "German white book"
   - anahtar: k4
     tur: birincil
+    birincil_tur: belge
     ad: "Collected diplomatic documents relating to the outbreak of the European War (HMSO, 1915)"
     url: https://archive.org/stream/collecteddiploma00grea/collecteddiploma00grea_djvu.txt
     erisim_tarihi: 2026-08-20

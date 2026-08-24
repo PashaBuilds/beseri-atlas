@@ -34,6 +34,7 @@ kaynaklar:
     not: "Turkce akademik ansiklopedi maddesi"
   - anahtar: k2
     tur: birincil
+    birincil_tur: eser
     ad: "Wisdom of Royal Glory (Kutadgu Bilig) — tam metin"
     url: https://archive.org/details/wisdom-of-royal-glory-kutadgu-bilig-a-turko-islamic-mirror-for-princes
     erisim_tarihi: 2026-08-25
@@ -41,6 +42,7 @@ kaynaklar:
     not: "Yusuf Has Hacib'in eserinin Ingilizce cevirisi; katalog yazari Yusuf Hass Hajib"
   - anahtar: k3
     tur: birincil
+    birincil_tur: eser
     ad: "Compendium of the Turkic Dialects, Part I — tam metin"
     url: https://archive.org/details/CompendiumOfTheTurkicDialectsPart1-MahmudAl-Kashghari
     erisim_tarihi: 2026-08-25

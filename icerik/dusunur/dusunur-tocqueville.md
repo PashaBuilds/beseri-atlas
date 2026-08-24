@@ -42,6 +42,7 @@ kaynaklar:
     not: "Incelediği ulke"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "Democracy in America (tam metin)"
     url: https://www.gutenberg.org/ebooks/815
     erisim_tarihi: 2026-08-23

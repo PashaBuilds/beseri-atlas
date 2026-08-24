@@ -5,12 +5,19 @@
  * Birinci tık: gövdedeki üst simge. İkinci tık: buradaki dış bağ.
  */
 export interface Props {
-  kaynaklar: Array<{ anahtar: string; tur: string; ad: string; url: string; erisim_tarihi: string; not?: string }>;
+  kaynaklar: Array<{ anahtar: string; tur: string; birincil_tur?: string; ad: string; url: string; erisim_tarihi: string; not?: string }>;
 }
 const { kaynaklar } = Astro.props;
 const TUR_ADLARI: Record<string, string> = {
   ansiklopedi: 'Ansiklopedi', akademik: 'Akademik', birincil: 'Birincil',
   veri: 'Veri', ders: 'Ders', kitap: 'Kitap',
+};
+// "Birincil" tek bir sey degildir: bir kazi raporu ile bir islem kaydi ayni
+// etiketi tasidiginda okur aralarindaki farki goremez. Alt tur bu yuzden
+// kunyede ayrica gosterilir.
+const BIRINCIL_TUR_ADLARI: Record<string, string> = {
+  eser: 'eserin kendisi', belge: 'belge', kitabe: 'kitabe',
+  kazi: 'kazı raporu', tanik: 'tanıklık',
 };
 ---
 <section class="kaynaklar" aria-labelledby="kaynaklar-baslik">
@@ -22,7 +29,10 @@ const TUR_ADLARI: Record<string, string> = {
       <li id={`kaynak-${k.anahtar}`}>
         <span class="kaynaklar__no">{k.anahtar.replace('k', '')}</span>
         <span>
-          <span class="kaynaklar__tur">{TUR_ADLARI[k.tur] ?? k.tur}</span>
+          <span class="kaynaklar__tur">
+            {TUR_ADLARI[k.tur] ?? k.tur}{k.birincil_tur && BIRINCIL_TUR_ADLARI[k.birincil_tur]
+              ? ` · ${BIRINCIL_TUR_ADLARI[k.birincil_tur]}` : ''}
+          </span>
           <a href={k.url} rel="noopener noreferrer external">{k.ad}</a>
           {k.not && <span class="kaynaklar__erisim"> — {k.not}</span>}
           <br />

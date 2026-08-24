@@ -105,6 +105,7 @@ kaynaklar:
     dogrulama_dizesi: "Maddison Project Database"
   - anahtar: k6
     tur: birincil
+    birincil_tur: belge
     ad: "The Versailles Treaty, June 28, 1919 — Part VIII (Avalon Project)"
     url: https://avalon.law.yale.edu/imt/partviii.asp
     erisim_tarihi: 2026-08-20

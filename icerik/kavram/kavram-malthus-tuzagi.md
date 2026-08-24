@@ -40,6 +40,7 @@ kaynaklar:
     not: "Kavramin sinandigi seri"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "An Essay on the Principle of Population (tam metin)"
     url: https://www.gutenberg.org/ebooks/4239
     erisim_tarihi: 2026-08-25

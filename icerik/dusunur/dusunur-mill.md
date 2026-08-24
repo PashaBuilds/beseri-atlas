@@ -40,6 +40,7 @@ kaynaklar:
     not: "Ayni yuzyilda yazan cagdasi"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "On Liberty (tam metin)"
     url: https://www.gutenberg.org/ebooks/34901
     erisim_tarihi: 2026-08-23

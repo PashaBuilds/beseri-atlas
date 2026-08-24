@@ -732,3 +732,44 @@ maddesidir."* Beyan dürüsttü, durum kusurluydu. Bağ kuruldu.
 
 Yan onarım: `kaynak-canlilik.mjs` main-guard'ı `process.argv[1]`i korumasız
 okuyordu; modül `node -e` ile import edildiğinde import anında çöküyordu.
+
+## birincil_tur: bir kaynağın "birincil" olması tek bir şey değil (2026-08-25)
+
+Üç Güney Asya dosyası art arda aynı boşluğu işaret etti:
+
+| Dosya | Kaynak | Ne söyler |
+|---|---|---|
+| İndus Vadisi | kazı raporu | metin yok, yalnızca nesne |
+| Aşoka | kamuya kazınmış duyuru | yönetim kendini anlatır |
+| Chola | tapınak duvarındaki işlem kaydı | yönetim ne yaptığını yazar |
+
+Üçü de künyede `tur: birincil` taşıyordu ve künye aralarındaki farkı
+göstermiyordu. Oysa fark belirleyicidir: bir duyurudan yönetim pratiği, bir
+işlem kaydından yönetim söylemi okunamaz. Her tür farklı bir soruya cevap
+verir ve hiçbiri ötekinin yerine geçmez.
+
+### Denetimli sözlük
+
+`eser` (eserin kendisi) · `belge` · `kitabe` · `kazi` (kazı raporu) ·
+`tanik` (tanıklık)
+
+Beşi de korpusta gerçek örneklere sahiptir; sözlük varsayımla değil eldeki
+malzemeyle kuruldu.
+
+### Alan neden zorunlu değil
+
+Zorunlu yapılması 373 makaleyi bir anda bozardı. Alan opsiyoneldir; KAPI 13
+doldurulmamış künyeleri her koşuda sayar ve borç olarak raporlar. Şu an
+112 birincil künyenin tamamı sınıflandırılmıştır.
+
+### Alt tür künye başınadır, eser başına değil
+
+Aynı eser farklı makalelerde farklı alt tür taşıyabilir ve bu doğrudur.
+Thukydides'in eseri, kendi kaynak dosyasında `eser`dir; Pers-Yunan savaşları
+makalesinde olayların `tanik`ıdır. Ayrım, metnin ne olduğuyla değil o
+makalede ne için kullanıldığıyla ilgilidir.
+
+### Okur tarafı
+
+Künye listesinde tür artık "Birincil · kazı raporu" biçiminde görünür.
+Okur, bir iddianın hangi türden bir kayda dayandığını künyeden okuyabilir.

@@ -43,6 +43,7 @@ kaynaklar:
     dogrulama_dizesi: "population_historical"
   - anahtar: k4
     tur: birincil
+    birincil_tur: belge
     ad: "North Atlantic Treaty"
     url: https://avalon.law.yale.edu/20th_century/nato.asp
     erisim_tarihi: 2026-08-25

@@ -45,6 +45,7 @@ kaynaklar:
     not: "Karsit bir tanim"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "An Inquiry into the Nature and Causes of the Wealth of Nations (tam metin)"
     url: https://www.gutenberg.org/ebooks/3300
     erisim_tarihi: 2026-08-25

@@ -33,6 +33,7 @@ kaynaklar:
     dogrulama_dizesi: "French Revolution"
   - anahtar: k2
     tur: birincil
+    birincil_tur: belge
     ad: "Declaration of the Rights of Man, 1789 (Avalon Project, Yale Law School)"
     url: https://avalon.law.yale.edu/18th_century/rightsof.asp
     erisim_tarihi: 2026-08-21

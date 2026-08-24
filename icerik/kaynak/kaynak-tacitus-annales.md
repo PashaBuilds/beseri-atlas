@@ -48,6 +48,7 @@ kaynaklar:
     not: "Ayni imparatorlugun sonraki yuzyillari; bagimsiz alan adi"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "The Reign of Tiberius, Out of the First Six Annals of Tacitus (tam metin)"
     url: https://www.gutenberg.org/ebooks/7959
     erisim_tarihi: 2026-08-23

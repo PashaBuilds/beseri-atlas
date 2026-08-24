@@ -50,6 +50,7 @@ kaynaklar:
     not: "Okumalardan birinin adini aldigi dusunur"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "The phenomenology of mind (tam metin)"
     url: https://archive.org/details/phenomenologyofm0000hege
     erisim_tarihi: 2026-08-23

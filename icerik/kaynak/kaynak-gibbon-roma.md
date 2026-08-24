@@ -51,6 +51,7 @@ kaynaklar:
     not: "Ayni donemin dini tartismalarina cagdas kaynak; bagimsiz alan adi"
   - anahtar: k4
     tur: birincil
+    birincil_tur: eser
     ad: "The History of the Decline and Fall of the Roman Empire (tam metin)"
     url: https://www.gutenberg.org/ebooks/25717
     erisim_tarihi: 2026-08-23

@@ -95,6 +95,7 @@ kaynaklar:
     not: "Donemin sonuna ait harcama serisi; bagimsiz alan adi"
   - anahtar: k4
     tur: birincil
+    birincil_tur: belge
     ad: "Truman Doctrine"
     url: https://avalon.law.yale.edu/20th_century/trudoc.asp
     erisim_tarihi: 2026-08-25
