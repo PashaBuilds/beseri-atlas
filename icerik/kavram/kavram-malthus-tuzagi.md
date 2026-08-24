@@ -38,7 +38,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "population_historical"
     not: "Kavramin sinandigi seri"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "An Essay on the Principle of Population (tam metin)"
+    url: https://www.gutenberg.org/ebooks/4239
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "An Essay on the Principle of Population"
+    not: "Kavramin formule edildigi eserin kamu mali tam metni"
+son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -93,3 +100,9 @@ söylemez.[^k1][^k3]
 Kuramın tarihi, yeni-Malthusçuluk, eleştiriler ve çevre tartışmalarındaki yeri
 burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler
 olarak işler.[^k1]
+
+## Kaynak metin
+
+Bu kavramın formüle edildiği eser Malthus, *Nüfus İlkesi Üzerine Deneme*'dir; dosya o eserin kamu malı
+tam metnine bağlanır.[^k4] Kavrama yapılacak atıflar, kavramı tanımlayan
+bölüm belirtilerek verilmelidir.

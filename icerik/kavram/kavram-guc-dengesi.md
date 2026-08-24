@@ -41,7 +41,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Montesquieu"
     not: "Guc ayrimi fikrinin bir baska bicimi; bagimsiz alan adi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The Geographical Pivot of History (tam metin)"
+    url: https://archive.org/details/the-geographical-pivot-of-history-by-halford-john-mackinder
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "The Geographical Pivot of History"
+    not: "Kavramin formule edildigi eserin kamu mali tam metni"
+son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -100,3 +107,9 @@ tuttuğunun dayanağıdır.
 Kuramın tarihi, İngiltere örneği, gerçekçilik tartışmaları ve modern
 uygulamaları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
 bölümler olarak işler.[^k1]
+
+## Kaynak metin
+
+Bu kavramın formüle edildiği eser Mackinder, *Tarihin Coğrafi Ekseni*'dir; dosya o eserin kamu malı
+tam metnine bağlanır.[^k4] Kavrama yapılacak atıflar, kavramı tanımlayan
+bölüm belirtilerek verilmelidir.

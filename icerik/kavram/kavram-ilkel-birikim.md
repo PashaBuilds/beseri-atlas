@@ -38,7 +38,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Adam Smith"
     not: "Onceki terimin sahibi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Capital: Volume One (tam metin)"
+    url: https://www.marxists.org/archive/marx/works/1867-c1/
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "Capital: Volume One"
+    not: "Kavramin formule edildigi eserin kamu mali tam metni"
+son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -84,3 +91,9 @@ bir çözümlemeyi anlatır.[^k2] O yazar
 Mekanizmaların ayrıntısı, tarihsel örnekler ve sonraki tartışmalar burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]
+
+## Kaynak metin
+
+Bu kavramın formüle edildiği eser Marx, *Kapital* I. cilt, sekizinci kısım'dir; dosya o eserin kamu malı
+tam metnine bağlanır.[^k4] Kavrama yapılacak atıflar, kavramı tanımlayan
+bölüm belirtilerek verilmelidir.

@@ -36,7 +36,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Augustine"
     not: "Din ve felsefe iliskisi uzerine erken kayit; bagimsiz alan adi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The Protestant ethic and the spirit of capitalism (tam metin)"
+    url: https://archive.org/details/protestantethics0000webe
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "The Protestant ethic and the spirit of capitalism"
+    not: "Kavramin formule edildigi eserin kamu mali tam metni"
+son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -84,3 +91,9 @@ Din ile felsefe ilişkisi üzerine erken bir kayıt için tutulan madde, eserler
 
 Kuramın içeriği, güncel meseleler ve ülke ülke gelişmeler burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]
+
+## Kaynak metin
+
+Bu kavramın formüle edildiği eser Weber, *Protestan Ahlakı*'dir; dosya o eserin kamu malı
+tam metnine bağlanır.[^k4] Kavrama yapılacak atıflar, kavramı tanımlayan
+bölüm belirtilerek verilmelidir.

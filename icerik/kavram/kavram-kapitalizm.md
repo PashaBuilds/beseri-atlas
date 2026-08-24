@@ -43,7 +43,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Braudel"
     not: "Karsit bir tanim"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "An Inquiry into the Nature and Causes of the Wealth of Nations (tam metin)"
+    url: https://www.gutenberg.org/ebooks/3300
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "An Inquiry into the Nature and Causes of the Wealth of Nations"
+    not: "Kavramin formule edildigi eserin kamu mali tam metni"
+son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -91,3 +98,9 @@ haritasında ele alınıyor.
 
 Türler, eleştiriler, savunular ve ülke ülke uygulamalar burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]
+
+## Kaynak metin
+
+Bu kavramın formüle edildiği eser Smith, *Ulusların Zenginliği*'dir; dosya o eserin kamu malı
+tam metnine bağlanır.[^k4] Kavrama yapılacak atıflar, kavramı tanımlayan
+bölüm belirtilerek verilmelidir.

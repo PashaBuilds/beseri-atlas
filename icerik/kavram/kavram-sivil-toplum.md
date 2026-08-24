@@ -35,7 +35,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Tocqueville"
     not: "Gonullu birlik kavramini kaydeden yazar"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Democracy in America (tam metin)"
+    url: https://www.gutenberg.org/ebooks/815
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "Democracy in America"
+    not: "Kavramin formule edildigi eserin kamu mali tam metni"
+son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -82,3 +89,9 @@ değer fikirleri arasında gönüllü birliği ve karşılıklı özgürlüğü 
 Demokrasi ile ilişkisi, iktisadi boyutu ve kurumların ayrıntısı burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]
+
+## Kaynak metin
+
+Bu kavramın formüle edildiği eser Tocqueville, *Amerika'da Demokrasi*'dir; dosya o eserin kamu malı
+tam metnine bağlanır.[^k4] Kavrama yapılacak atıflar, kavramı tanımlayan
+bölüm belirtilerek verilmelidir.

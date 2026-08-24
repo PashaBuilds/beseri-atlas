@@ -35,7 +35,14 @@ kaynaklar:
     url: https://islamansiklopedisi.org.tr/ibn-haldun
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "İBN HALDÛN"
-son_denetim: 2026-08-20
+  - anahtar: k4
+    tur: birincil
+    ad: "مقدمة ابن خلدون (tam metin)"
+    url: https://ar.wikisource.org/wiki/%D9%85%D9%82%D8%AF%D9%85%D8%A9_%D8%A7%D8%A8%D9%86_%D8%AE%D9%84%D8%AF%D9%88%D9%86
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "مقدمة ابن خلدون"
+    not: "Kavramin formule edildigi eserin kamu mali tam metni"
+son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -119,3 +126,9 @@ ayırır; onu yalnızca soy birliğinden kaynaklanan kavmiyete daha yakın bulur
 bugünkü anlamıyla ırkçılığa göre daha dar çerçeveli, kabilevî bir karakter
 taşıdığını belirtir.[^k1] Kavramı modern milliyetçilikle özdeşleştirmek bu
 ayrımı silmek anlamına gelir.
+
+## Kaynak metin
+
+Bu kavramın formüle edildiği eser İbn Haldûn, *Mukaddime*'dir; dosya o eserin kamu malı
+tam metnine bağlanır.[^k4] Kavrama yapılacak atıflar, kavramı tanımlayan
+bölüm belirtilerek verilmelidir.

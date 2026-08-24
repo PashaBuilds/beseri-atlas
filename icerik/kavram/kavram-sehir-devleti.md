@@ -37,7 +37,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Plato"
     not: "Sehir devleti dusuncesinin klasik kaydi; bagimsiz alan adi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "Politics: A Treatise on Government (tam metin)"
+    url: https://www.gutenberg.org/ebooks/6762
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "Politics: A Treatise on Government"
+    not: "Kavramin formule edildigi eserin kamu mali tam metni"
+son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -82,3 +89,9 @@ ayrı bir bölüm başlığı yapar.[^k3] O düşünür
 İtalyan şehir devletleri, çağdaş örnekler ve kavramın hukuki tanımı burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]
+
+## Kaynak metin
+
+Bu kavramın formüle edildiği eser Aristoteles, *Politika*'dir; dosya o eserin kamu malı
+tam metnine bağlanır.[^k4] Kavrama yapılacak atıflar, kavramı tanımlayan
+bölüm belirtilerek verilmelidir.

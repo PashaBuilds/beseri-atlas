@@ -36,7 +36,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Plato"
     not: "Ayni donemin bati ucundaki dusunuru"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The origin and goal of history (tam metin)"
+    url: https://archive.org/details/origingoalofhist0000jasp
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "The origin and goal of history"
+    not: "Kavramin formule edildigi eserin kamu mali tam metni"
+son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -81,3 +88,9 @@ dönem sınırı olarak kullanmaz.
 Kavramın önerdiği özellikler, kapsadığı akımlar ve eleştirilerin ayrıntısı burada
 ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1]
+
+## Kaynak metin
+
+Bu kavramın formüle edildiği eser Jaspers, *Tarihin Kökeni ve Hedefi*'dir; dosya o eserin kamu malı
+tam metnine bağlanır.[^k4] Kavrama yapılacak atıflar, kavramı tanımlayan
+bölüm belirtilerek verilmelidir.

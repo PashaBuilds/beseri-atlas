@@ -38,7 +38,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Ibn Rushd"
     not: "Ayni gelenegin bir kadisi"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The Incoherence of the Philosophers (tam metin)"
+    url: https://archive.org/details/the-incoherence-of-the-philosophers-2nd-edition-brigham-young-university-islamic
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "The Incoherence of the Philosophers"
+    not: "Kavramin formule edildigi eserin kamu mali tam metni"
+son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -83,3 +90,9 @@ derecesinde olduğu, sonucun kendisi kadar kaydedilir. Meşruiyet tarafı
 
 İctihad türleri, ictihad kapısı tartışması ve mezhepler arası farklar burada ayrı
 başlıklar altında ele alınmamıştır; kullanılan kaynak bölümünün kapsamı tanımdır.[^k1]
+
+## Kaynak metin
+
+Bu kavramın formüle edildiği eser Gazâlî, *Tehâfütü'l-felâsife*'dir; dosya o eserin kamu malı
+tam metnine bağlanır.[^k4] Kavrama yapılacak atıflar, kavramı tanımlayan
+bölüm belirtilerek verilmelidir.

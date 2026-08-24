@@ -36,7 +36,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Sovereignty"
     not: "Yakin kavram"
-son_denetim: 2026-08-21
+  - anahtar: k4
+    tur: birincil
+    ad: "The spirit of laws (tam metin)"
+    url: https://archive.org/details/spiritoflaws0038mont
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "The spirit of laws"
+    not: "Kavramin formule edildigi eserin kamu mali tam metni"
+son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -83,3 +90,9 @@ fiilen egemenlik alt başlıklarını tutar.[^k3] O kavram
 
 Ülke ülke tarihler, kuramların içeriği ve ölçüm endeksleri burada ayrı başlıklar
 altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]
+
+## Kaynak metin
+
+Bu kavramın formüle edildiği eser Montesquieu, *Kanunların Ruhu*'dir; dosya o eserin kamu malı
+tam metnine bağlanır.[^k4] Kavrama yapılacak atıflar, kavramı tanımlayan
+bölüm belirtilerek verilmelidir.
