@@ -108,7 +108,7 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Bu dönem bir salgınla açılır. Kara Ölüm, Avrupa'da 1346'dan 1353'e kadar süren bir
+Bu dönem, yüz elli yıllık bir aralığı kapsar ve bir salgınla açılır. Kara Ölüm, Avrupa'da 1346'dan 1353'e kadar süren bir
 veba pandemisiydi ve insanlık tarihinin en ölümcül pandemilerinden biri olarak
 kabul edilir.[^k1] Aşağıdaki beş bölüm, bütün dönem makalelerinde olduğu gibi aynı
 sırayla okunur.

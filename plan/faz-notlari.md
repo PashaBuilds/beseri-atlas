@@ -2197,3 +2197,45 @@ bir dalgalanma gibi duruyor.
 metin üç yıl diyor. Düzeltildi. Özet ile gövde arasındaki tutarlılığı
 hiçbir kapı denetlemiyor — bu, borç defterine yazılması gereken bir
 denetim boşluğu.
+
+## Tur — KAPI 17: özet/gövde tutarlılık denetimi (25 Ağustos 2026)
+
+Yeni kapı: `araclar/linter-ozet.mjs`. Düzeltilen: 6 makale.
+Toplam 445 makale (yeni makale yok; bu tur bakım turu).
+
+**Neden.** Geçen tur Fiji dosyasının özetinde "yirmi yıl süren" yazdığımı
+elle yakalamıştım; gövde üç yıl diyordu. Hiçbir kapı özet ile gövde
+arasındaki tutarlılığı denetlemiyordu ve bu, borç defterine yazılmıştı.
+Özet, makale kartlarında ve arama sonuçlarında gövdeden önce okunur —
+oradaki yanlış bir sayı, gövdeye hiç bakmayan okurun aklında kalan tek
+sayı olur.
+
+**İlk deneme başarısız oldu ve nedeni kaydedildi.** "Özette geçen her
+sayı gövdede de geçmeli" kuralı 445 makalede 76 bulgu verdi. Bulguların
+büyük bölümü yanlış pozitifti: ondalık ayırıcı yüzünden bölünmüş sayı
+parçaları (42,82 → "82") ve veri dosyalarının CSV'den gelen değerleri.
+Bu, dar bir ölçütün neden gerekli olduğunun somut ölçümüdür.
+
+**Daraltılmış ölçüt.** Kapı yalnızca SÜRE iddialarını denetliyor: özette
+bir sayı ifadesinin hemen ardından zaman birimi geliyorsa (yıl, yüzyıl,
+kuşak), o sayı gövdede de geçmeli. 76 → 15 bulgu.
+
+**İki ayarlama daha gerekti:**
+- `ay` ve `gün` birim listesinden çıkarıldı; "ay" sözcüğü "ayrı", "ayak"
+  gibi sözcüklerin başına denk gelip yanlış pozitif üretiyordu. 15 → 10.
+- "yüz yıl" ile "yüzyıl" aynı şeyi söyler; özet ayrı, gövde bitişik
+  yazmış olabilir. Bitişik biçim de kabul edildi. 10 → 5.
+
+**Kalan beş bulgunun beşi de gerçekti.** Beş makalenin özeti, gövdenin
+hiç söylemediği bir süre iddia ediyordu: Kara Ölüm dönemi (yüz elli yıl),
+Fransız Devrimi (on yıl), Bizans (sekiz yüzyıl), Hollanda Doğu Hindistan
+Şirketi (sekiz yıl), Maori (beş yüzyıl). Beşi de gövdeye eklendi.
+
+**Ölçümün kendisi bir bulgu.** 39 süre iddiasından 5'i gövdede
+karşılıksızdı — yaklaşık sekizde bir. Bu oran, özetlerin gövdeden bağımsız
+yazıldığını gösteriyor ve kapı artık bunu engelliyor.
+
+**Kapının bilinen sınırı.** Yalnızca süre iddialarını görür. Özetteki
+öteki nicelik iddiaları (nüfus, oran, mesafe) hâlâ denetimsiz ve daha
+geniş bir ölçüt yanlış pozitif üretiyor. Bu, borç defterinde açık
+kalıyor.

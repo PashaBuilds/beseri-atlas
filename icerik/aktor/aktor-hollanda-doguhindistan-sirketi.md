@@ -44,7 +44,8 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Şirket 1602-1799 arasında faaliyet gösteren bir Hollanda ticaret şirketiydi.[^k1]
+Şirket 1602-1799 arasında faaliyet gösteren bir Hollanda ticaret şirketiydi ve
+kuruluşundan önce sekiz yıl süren bir ön-şirketler dönemi vardı.[^k1]
 Bu dosya, şirketin **doğuşunu ve sonunun biçimini** ele alır.
 
 ## Öncesinde bir şirketler çokluğu vardı

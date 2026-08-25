@@ -49,7 +49,8 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Fransız Devrimi, Fransa'da 1789'daki Etats-Généraux ile başlayan ve 9 Kasım
+Fransız Devrimi, Fransa'da 1789'daki Etats-Généraux ile başlayan ve on yıl
+sonra, 9 Kasım
 1799'daki 18 Brumaire Darbesi ile sona eren bir siyasi ve toplumsal değişim
 dönemidir.[^k1] Bu dosya, sürecin **maliyeden anayasaya nasıl geçtiğini** ele
 alır.

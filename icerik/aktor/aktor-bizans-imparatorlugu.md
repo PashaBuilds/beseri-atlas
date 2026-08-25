@@ -59,7 +59,8 @@ denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Bu devletin adı, kendisine ait değildir. Bizans İmparatorluğu terimi ancak
+Bu devlet, yedinci yüzyıldaki büyük toprak kaybından sonra sekiz yüzyıl daha
+sürdü. Adı ise kendisine ait değildir. Bizans İmparatorluğu terimi ancak
 devletin sona ermesinden sonra türetilmiştir; yurttaşları kendileri için
 "Roman Empire" terimini kullanıyor ve kendilerini Romalı olarak
 adlandırıyorlardı.[^k1] Bu

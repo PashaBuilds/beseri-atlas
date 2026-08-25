@@ -67,8 +67,8 @@ onarim_turu: 0
 
 ## Nerede durduğu
 
-Maori, güney Pasifik'teki büyük bir takımadaya yerleşen ve orada kendi
-siyasi düzenini kuran topluluktur.[^k1] Atlasın bölge şemasında Okyanusya
+Maori, güney Pasifik'teki büyük bir takımadaya yerleşen ve orada beş yüzyıl
+içinde kendi siyasi düzenini kuran topluluktur.[^k1] Atlasın bölge şemasında Okyanusya
 etiketi taşır.
 
 Takımada, Avustronezya yayılmasının en geç yerleşilen büyük
