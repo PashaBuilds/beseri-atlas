@@ -1859,3 +1859,52 @@ bu sözcükte tetiklendi.
 **Yöntem değişikliği.** Bu turdan itibaren tur başına 3 makale
 hedefleniyor. Kapı çalıştırma, derleme ve doğrulama maliyeti tur başına
 sabit; makale başına maliyet, tur başına makale sayısı arttıkça düşüyor.
+
+## Tur — geçen turun iki borcu kapatıldı (25 Ağustos 2026)
+
+Eklenen: `aktor-hokand-hanligi`, `tartisma-orta-asya-neden-cekildi`.
+Toplam 432 → 434. Orta Asya 35 → 37.
+
+**Borç kapatma.** Geçen tur iki borç açılmıştı: üçlünün eksik ayağı ve
+gerileme tartışmasının dosyası. İkisi de bu turda kapatıldı. Bir turda
+açılan borcun bir sonraki turda kapatılması artık üçüncü kez oluyor.
+
+**Hokand'ın kattığı soru.** Üç hanlık aynı gücün karşısındaydı ve aynı
+yıllarda baskı altına girdi; ikisi hanedanını korudu (himaye), biri
+korumadı (doğrudan ilhak). Aynı güç komşu üç devlete bilinçli olarak iki
+farklı araç uyguladı. Dosya üç cevap adayı sıralıyor — coğrafi (sınır
+bölgesi), iktisadi (pamuk), siyasi (istikrarsız hanedan) — ve üçünün de
+aynı olguya uyduğunu, yani hiçbirinin sınanmadığını yazıyor. Sonucu
+bilerek gerekçe aramak atlasın kaçındığı işlem.
+
+**Meşruiyet kuralının üçüncü başa çıkma biçimi.** Hokand hanedanı soy
+şartını karşılamıyordu ve kuruluşundan uzun süre sonra han unvanını
+kullanmaya başladı — soyunu kurucu soya bağlayan bir iddia üreterek.
+Böylece atlas üç seçeneği birden kaydetmiş oldu: **uymak** (Şeybânîler),
+**unvanı değiştirmek** (Buhara 1785), **kurala uyduğunu iddia etmek**
+(Hokand). Kural karşısında güç sahibinin bulduğu seçenek kümesi artık
+tam.
+
+**Tartışma dosyasının yapısı.** Dört konum: deniz yolu kayması / bozkır
+koridorunun kapanması / iç kurumsal değişim / öncül yanlış. Dosya
+hiçbirini seçmiyor; her birinin hangi noktada veri eksiği taşıdığını
+işaretliyor. Dördüncü konum — "çekilme, kayıtların çekilmesidir" — atlasın
+başka dosyalarında zaten ölçülmüş bir mekanizmaya dayanıyor ve bu dosyada
+da doğrulanıyor: dört künyenin dördü de ansiklopedi maddesi, bölgenin
+dönem kaynakları künyelenebilir hâlde bulunamadı.
+
+**Dosyanın en özgün bölümü.** Görece küçülme ile mutlak daralma ayrımı.
+Bir bölge hiç değişmeden de dünya toplamındaki payını kaybedebilir;
+bunun için başka bölgelerin büyümesi yeterlidir. Atlantik ekonomisinin
+büyümesi bütün öteki bölgelerin payını matematiksel olarak düşürür ve
+payın düşmesi o bölgede bir şeyin kötüleştiğini göstermez. Bu ayrım
+atlasın bütün pay hesaplarına uygulanacak.
+
+**İkinci özgün bölüm.** Bölge içi ticaret dört konumun hiçbirinde
+anılmıyor, çünkü uzun mesafeli ticaret sınırlarda kayda geçiyor, bölge
+içi ticaret geçmiyor. Ölçülebilen kalem tartışılıyor, ölçülemeyen kalem
+tartışmanın dışında kalıyor — ve dışarıda kalması küçük olduğu anlamına
+gelmiyor.
+
+**Uygulanan kural.** *Gerileme sözcüğü, ölçüt belirtilmeden
+kullanılmaz.* Bu turda ve geçen turda yazılan beş dosyada uygulandı.

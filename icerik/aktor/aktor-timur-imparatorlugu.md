@@ -21,6 +21,7 @@ ilgili:
   - aktor-cagatay-hanligi
   - aktor-buhara-hanligi
   - aktor-seybaniler
+  - tartisma-orta-asya-neden-cekildi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

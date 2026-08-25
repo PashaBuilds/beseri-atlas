@@ -23,6 +23,8 @@ ilgili:
   - kavram-mesruiyet
   - kavram-bozkir-imparatorlugu
   - olay-ipek-yolu-kurulusu
+  - aktor-hokand-hanligi
+  - tartisma-orta-asya-neden-cekildi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

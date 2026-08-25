@@ -11,10 +11,10 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 432 |
-| Toplam künye | 1425 |
+| Ölçülen makale | 434 |
+| Toplam künye | 1433 |
 | Giriş kapısı kuralını aşan makale | 227 |
-| Birincil kaynağı olmayan makale | 243 |
+| Birincil kaynağı olmayan makale | 245 |
 | Giriş kapısı künyesi payı | 45% |
 
 ## Tipe göre borçlu makale
@@ -22,9 +22,9 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Tip | Borçlu |
 |---|---|
 | olay | 77 |
-| aktor | 69 |
+| aktor | 70 |
 | kavram | 61 |
-| tartisma | 34 |
+| tartisma | 35 |
 | kaynak | 27 |
 | dusunur | 20 |
 | donem | 9 |
@@ -270,6 +270,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `aktor-etiyopya-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-gana-imparatorlugu` | 4 | 1 | 0 | birincil kaynak yok |
 | `aktor-hive-hanligi` | 4 | 1 | 0 | birincil kaynak yok |
+| `aktor-hokand-hanligi` | 4 | 1 | 0 | birincil kaynak yok |
 | `aktor-karolenj-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-mali-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-ming-hanedani` | 3 | 1 | 0 | birincil kaynak yok |
@@ -323,6 +324,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `tartisma-eksen-cagi-gercek-mi` | 3 | 1 | 0 | birincil kaynak yok |
 | `tartisma-mogol-etkisi` | 3 | 1 | 0 | birincil kaynak yok |
 | `tartisma-nufus-artisi-tehdit-mi` | 3 | 1 | 0 | birincil kaynak yok |
+| `tartisma-orta-asya-neden-cekildi` | 4 | 1 | 0 | birincil kaynak yok |
 | `tartisma-teknolojik-belirlenimcilik` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-fatimi-hilafeti` | 3 | 0 | 0 | birincil kaynak yok |
 | `aktor-memluk-devleti` | 3 | 0 | 0 | birincil kaynak yok |

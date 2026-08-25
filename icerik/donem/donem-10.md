@@ -30,6 +30,7 @@ ilgili:
   - olay-plassey-1757
   - aktor-buhara-hanligi
   - aktor-hive-hanligi
+  - aktor-hokand-hanligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

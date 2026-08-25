@@ -28,6 +28,7 @@ ilgili:
   - kaynak-pomeranz-buyuk-ayrisma
   - tartisma-sanayi-devrimi-neden-ingiltere
   - kaynak-weber-protestan-ahlaki
+  - tartisma-orta-asya-neden-cekildi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

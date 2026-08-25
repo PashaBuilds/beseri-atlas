@@ -23,6 +23,8 @@ ilgili:
   - kavram-bozkir-imparatorlugu
   - kavram-mesruiyet
   - tartisma-imparatorluk-nufusu-nasil-sayilir
+  - aktor-hokand-hanligi
+  - tartisma-orta-asya-neden-cekildi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

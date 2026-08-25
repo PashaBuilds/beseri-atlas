@@ -32,6 +32,7 @@ ilgili:
   - kaynak-camiut-tevarih
   - dusunur-sankara
   - dusunur-wang-yangming
+  - tartisma-orta-asya-neden-cekildi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

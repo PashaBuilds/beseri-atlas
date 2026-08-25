@@ -23,6 +23,30 @@
 # Dogrulanamiyorsa kisi adi yerine cizgi/yaklasim adi kullan.
 
 adlar:
+  - ad: "Deniz yolu kaymasini esas alan ticaret tarihi cizgisi"
+    durum: kisi-degil
+    gectigi: [tartisma-orta-asya-neden-cekildi]
+  - ad: "Ulasim maliyeti karsilastirmasina dayanan yaklasim"
+    durum: kisi-degil
+    gectigi: [tartisma-orta-asya-neden-cekildi]
+  - ad: "Bozkir koridorunun kapanmasini esas alan cizgi"
+    durum: kisi-degil
+    gectigi: [tartisma-orta-asya-neden-cekildi]
+  - ad: "Barut imparatorluklari cercevesine dayanan yaklasim"
+    durum: kisi-degil
+    gectigi: [tartisma-orta-asya-neden-cekildi]
+  - ad: "Ic kurumsal degisimi esas alan cizgi"
+    durum: kisi-degil
+    gectigi: [tartisma-orta-asya-neden-cekildi]
+  - ad: "Vergi ve sulama duzenine dayanan aciklama"
+    durum: kisi-degil
+    gectigi: [tartisma-orta-asya-neden-cekildi]
+  - ad: "Oncul elestirisi cizgisi"
+    durum: kisi-degil
+    gectigi: [tartisma-orta-asya-neden-cekildi]
+  - ad: "Kaynak erisilebilirligini esas alan yaklasim"
+    durum: kisi-degil
+    gectigi: [tartisma-orta-asya-neden-cekildi]
   - ad: "İmzalayanın anlayışını esas alan antlaşma yorumu çizgisi"
     durum: kisi-degil
     gectigi: [tartisma-waitangi-hangi-metin]

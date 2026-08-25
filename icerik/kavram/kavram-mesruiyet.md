@@ -45,6 +45,7 @@ ilgili:
   - aktor-buhara-hanligi
   - aktor-hive-hanligi
   - aktor-seybaniler
+  - aktor-hokand-hanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -26,6 +26,7 @@ ilgili:
   - kaynak-camiut-tevarih
   - aktor-buhara-hanligi
   - aktor-seybaniler
+  - aktor-hokand-hanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

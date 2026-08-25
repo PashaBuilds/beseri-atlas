@@ -23,6 +23,7 @@ ilgili:
   - aktor-uygur-kaganligi
   - aktor-kusan-imparatorlugu
   - aktor-buhara-hanligi
+  - tartisma-orta-asya-neden-cekildi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

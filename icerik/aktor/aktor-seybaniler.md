@@ -25,6 +25,8 @@ ilgili:
   - kavram-bozkir-imparatorlugu
   - kaynak-baburname
   - aktor-hive-hanligi
+  - aktor-hokand-hanligi
+  - tartisma-orta-asya-neden-cekildi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

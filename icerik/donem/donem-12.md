@@ -44,6 +44,7 @@ ilgili:
   - dusunur-du-bois
   - aktor-hawai-kralligi
   - aktor-tonga-kralligi
+  - aktor-hokand-hanligi
 okuma_onerisi: []
 serit:
   - bolge: afrika

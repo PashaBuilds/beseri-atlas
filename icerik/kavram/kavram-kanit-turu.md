@@ -29,6 +29,7 @@ ilgili:
   - tartisma-waitangi-hangi-metin
   - aktor-hazarlar
   - dusunur-sankara
+  - tartisma-orta-asya-neden-cekildi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

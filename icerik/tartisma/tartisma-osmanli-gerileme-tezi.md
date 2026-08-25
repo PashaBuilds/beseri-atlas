@@ -28,6 +28,7 @@ ilgili:
   - kavram-donemlendirme
   - kavram-burokrasi
   - donem-09
+  - tartisma-orta-asya-neden-cekildi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:
