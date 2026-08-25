@@ -29,6 +29,7 @@ ilgili:
   - tartisma-sozlu-gelenek-kaynak-mi
   - kavram-kanit-turu
   - aktor-ilhanlilar
+  - kaynak-camiut-tevarih
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

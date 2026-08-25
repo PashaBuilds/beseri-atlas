@@ -1536,3 +1536,43 @@ her biri o bolgeden gelen kaynaklarla) **ama kapsam ile taraflilik ayri
 degerlendirilmeli** — metin hanedanin mesruiyetini kurmak uzere yazilmis.
 
 Toplam makale 419 -> 420.
+
+## Tur 53 — Cami'u't-Tevarih; atlasin kendi yontemine en yakin ornek (2026-08-25)
+
+**kaynak-camiut-tevarih** eklendi. Bir onceki turda Ilhanlilar dosyasinda
+"eser icin ayri bir kaynak dosyasi gerekir ve bu dosya yazildiginda atlasta
+bulunmuyordu" diye yazilan acik kapatildi.
+
+### Neden atlas icin ozel
+
+Eser, atlasin kendi kaynak ilkesini yedi yuzyil once uygulamis gorunuyor:
+her bolum icin o bolgeden gelen bilgi tasiyicilariyla calisilmis, yerel
+kaynaklara dayanilmis.
+
+Ama benzerlik sinirli ve dosyada ayrildi: **yerel kaynaga dayanmak ile o
+kaynagin cercevesini benimsemek ayri seyler.** Eser bilgiyi yerelden aliyor,
+duzenlemeyi merkezden yapiyor. Bu ayrim atlasin kendi pratigine de uygulanir
+— bir bolgenin kendi metnini kunyelemek, o bolgenin bakis acisini
+benimsemek anlamina gelmez.
+
+### Eserin kendisi bir kanit
+
+Ikinci bir okuma kaydedildi: boyle bir derleme ancak kitalar arasi bir siyasi
+agin icinden yazilabilirdi. Metnin varligi, yazildigi donemde bolgeler arasi
+bilgi akisinin hangi duzeye ulastigini gosteriyor.
+
+**Bir eser, iceriginden bagimsiz olarak da bilgi tasir**; kim tarafindan,
+nerede ve hangi imkanlarla yazilabildigi ayri bir veridir.
+
+### Ibn Haldun ile karsilastirma
+
+Ayni yuzyildan iki metin atlasta yan yana duruyor ve farkli isler yapiyorlar:
+biri yontem onerisi gelistirip tarihin nasil yazilmasi gerektigini
+tartisiyor, oteki yontemi uygulayarak gosteriyor. Kuram ureten metin ile
+malzeme sunan metin farkli sorulara cevap verir.
+
+KAPI 9 bir eksik yakaladi: guven_geneli=tartismali oldugu halde ne
+::tartismali haritasi ne ilgili tartisma dosyasi vardi. Eserin Mogol
+yonetimini nasil degerlendirdigi tartismasi eklendi.
+
+Toplam makale 420 -> 421.

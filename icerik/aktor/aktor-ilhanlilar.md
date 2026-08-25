@@ -21,6 +21,7 @@ ilgili:
   - kavram-tarih-yazimi
   - kavram-mesruiyet
   - tartisma-mogol-etkisi
+  - kaynak-camiut-tevarih
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

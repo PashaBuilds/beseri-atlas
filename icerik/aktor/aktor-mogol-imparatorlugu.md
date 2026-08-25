@@ -25,6 +25,7 @@ ilgili:
   - olay-bagdat-kusatmasi-1258
   - aktor-altin-orda
   - aktor-ilhanlilar
+  - kaynak-camiut-tevarih
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

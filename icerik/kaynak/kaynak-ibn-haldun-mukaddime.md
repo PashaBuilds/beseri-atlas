@@ -14,6 +14,7 @@ ilgili:
   - dusunur-ibn-haldun
   - kavram-umran
   - kavram-asabiyet
+  - kaynak-camiut-tevarih
 okuma_onerisi: []
 yazar: "İbn Haldûn"
 eser_adi: "Kitâbü'l-ʿİber (Mukaddime)"

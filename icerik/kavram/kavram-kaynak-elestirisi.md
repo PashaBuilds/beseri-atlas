@@ -26,6 +26,7 @@ ilgili:
   - dusunur-nagarjuna
   - tartisma-sozlu-gelenek-kaynak-mi
   - kavram-kanit-turu
+  - kaynak-camiut-tevarih
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

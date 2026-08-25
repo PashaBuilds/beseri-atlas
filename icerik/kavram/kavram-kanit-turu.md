@@ -23,6 +23,7 @@ ilgili:
   - aktor-maori
   - aktor-avustralya-yerli-halklari
   - aktor-kusan-imparatorlugu
+  - kaynak-camiut-tevarih
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
