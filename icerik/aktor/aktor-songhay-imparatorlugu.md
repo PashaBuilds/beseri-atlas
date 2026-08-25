@@ -16,6 +16,7 @@ ilgili:
   - donem-09
   - aktor-mali-imparatorlugu
   - aktor-gana-imparatorlugu
+  - kaynak-timbuktu-tarihleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

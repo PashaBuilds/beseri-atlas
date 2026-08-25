@@ -24,6 +24,7 @@ ilgili:
   - kavram-taoizm
   - kavram-konfucyuscluk
   - kaynak-kautilya-arthasastra
+  - kaynak-popol-vuh
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

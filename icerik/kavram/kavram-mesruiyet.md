@@ -33,6 +33,7 @@ ilgili:
   - kaynak-kautilya-arthasastra
   - kaynak-orhon-yazitlari
   - kaynak-yusuf-has-hacib-kutadgu-bilig
+  - kaynak-guaman-poma-nueva-coronica
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

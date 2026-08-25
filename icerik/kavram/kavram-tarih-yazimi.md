@@ -23,6 +23,8 @@ ilgili:
   - kaynak-tacitus-annales
   - tartisma-buyuk-adam-kurami
   - tartisma-karsi-olgusal-tarih
+  - kaynak-guaman-poma-nueva-coronica
+  - kaynak-timbuktu-tarihleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -27,6 +27,8 @@ ilgili:
   - kavram-anakronizm
   - donem-09
   - tartisma-aydinlanmanin-sinirlari
+  - kaynak-guaman-poma-nueva-coronica
+  - kaynak-popol-vuh
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

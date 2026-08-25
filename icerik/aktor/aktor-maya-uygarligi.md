@@ -16,6 +16,7 @@ ilgili:
   - donem-05
   - aktor-sumer-sehir-devletleri
   - aktor-aztek-imparatorlugu
+  - kaynak-popol-vuh
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

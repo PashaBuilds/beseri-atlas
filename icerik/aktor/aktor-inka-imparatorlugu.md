@@ -16,6 +16,7 @@ ilgili:
   - donem-08
   - aktor-aztek-imparatorlugu
   - aktor-ispanyol-imparatorlugu
+  - kaynak-guaman-poma-nueva-coronica
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

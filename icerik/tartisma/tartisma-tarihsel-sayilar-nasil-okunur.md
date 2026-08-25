@@ -61,6 +61,7 @@ ilgili:
   - veri-fosil-elektrik-payi
   - dusunur-ibn-battuta
   - aktor-gana-kralligi
+  - kaynak-timbuktu-tarihleri
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

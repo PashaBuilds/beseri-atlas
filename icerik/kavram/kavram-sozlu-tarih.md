@@ -14,6 +14,9 @@ ilgili:
   - kavram-kaynak-elestirisi
   - kavram-tarih-yazimi
   - kaynak-konfucyus-lunyu
+  - kaynak-guaman-poma-nueva-coronica
+  - kaynak-popol-vuh
+  - kaynak-timbuktu-tarihleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

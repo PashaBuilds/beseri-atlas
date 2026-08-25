@@ -17,6 +17,7 @@ ilgili:
   - aktor-gana-imparatorlugu
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-ibn-battuta
+  - kaynak-timbuktu-tarihleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
