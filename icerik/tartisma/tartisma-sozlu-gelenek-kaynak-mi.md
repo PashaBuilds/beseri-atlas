@@ -30,6 +30,7 @@ ilgili:
   - aktor-benin-kralligi
   - aktor-moche
   - kavram-kipu
+  - aktor-maori
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

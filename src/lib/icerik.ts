@@ -15,7 +15,8 @@ export const TIP_ADLARI: Record<Tip, string> = {
 export const BOLGE_ADLARI: Record<string, string> = {
   avrupa: 'Avrupa', 'islam-dunyasi': 'İslam dünyası', 'orta-asya': 'Orta Asya',
   'dogu-asya': 'Doğu Asya',
-  'guney-asya': 'Güney Asya', afrika: 'Afrika', amerika: 'Amerika', kuresel: 'Küresel',
+  'guney-asya': 'Güney Asya', afrika: 'Afrika', amerika: 'Amerika',
+  okyanusya: 'Okyanusya', kuresel: 'Küresel',
 };
 
 export const GUVEN_ADLARI: Record<string, string> = {

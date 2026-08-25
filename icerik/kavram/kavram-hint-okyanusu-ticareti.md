@@ -27,6 +27,7 @@ ilgili:
   - aktor-gucerat-sultanligi
   - olay-malaka-fethi-1511
   - kavram-silahli-ticaret
+  - kavram-avustronezya-yayilmasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

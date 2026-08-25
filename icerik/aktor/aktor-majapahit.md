@@ -18,6 +18,7 @@ ilgili:
   - aktor-khmer-imparatorlugu
   - aktor-srivijaya
   - aktor-malaka-sultanligi
+  - kavram-avustronezya-yayilmasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

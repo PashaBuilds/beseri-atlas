@@ -7,7 +7,11 @@ export const TIPLER = ['donem','olay','aktor','dusunur','kavram','tartisma','ver
 // 'orta-asya' 2026-08-21'de eklendi: Gokturk, Timur gibi Ic Asya siyasi
 // birimlerini 'dogu-asya' altina yazmak ust veriyi yanlislastiriyordu. Bu bir
 // kapi gevsetmesi degil, denetimli sozlugun genisletilmesidir.
-export const BOLGELER = ['avrupa','islam-dunyasi','orta-asya','dogu-asya','guney-asya','afrika','amerika','kuresel'];
+// 'okyanusya' 2026-08-25'te eklendi. Gerekce: atlasin bolge listesi kurulurken
+// Avustralya, Yeni Zelanda ve Pasifik adalari hicbir etikete karsilik
+// gelmiyordu — yani sema, bir dunya bolgesini temsil etmeyi yapisal olarak
+// imkansiz kiliyordu. Eksik, kapsam eksigi degil sema eksigiydi.
+export const BOLGELER = ['avrupa','islam-dunyasi','orta-asya','dogu-asya','guney-asya','afrika','amerika','okyanusya','kuresel'];
 export const EKSENLER = ['siyasi','askeri','ekonomik','kulturel','felsefi','dini','demografik','mitolojik'];
 export const GUVEN = ['kesin','yaygin','tartismali'];
 export const KAYNAK_TURLERI = ['ansiklopedi','akademik','birincil','veri','ders','kitap'];

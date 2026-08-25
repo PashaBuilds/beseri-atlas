@@ -21,6 +21,7 @@ ilgili:
   - kavram-svahili-kiyisi
   - aktor-gana-imparatorlugu
   - kavram-ticaret-diasporasi
+  - kavram-avustronezya-yayilmasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

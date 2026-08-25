@@ -42,6 +42,7 @@ ilgili:
   - aktor-maldiv-sultanligi
   - dusunur-zhu-xi
   - olay-bagdat-kusatmasi-1258
+  - aktor-maori
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

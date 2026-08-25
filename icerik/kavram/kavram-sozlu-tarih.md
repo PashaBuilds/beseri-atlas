@@ -19,6 +19,7 @@ ilgili:
   - kaynak-timbuktu-tarihleri
   - tartisma-sozlu-gelenek-kaynak-mi
   - aktor-benin-kralligi
+  - aktor-maori
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

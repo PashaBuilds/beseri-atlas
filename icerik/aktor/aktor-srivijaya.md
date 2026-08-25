@@ -20,6 +20,7 @@ ilgili:
   - aktor-chola
   - kavram-hint-okyanusu-ticareti
   - aktor-malaka-sultanligi
+  - kavram-avustronezya-yayilmasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

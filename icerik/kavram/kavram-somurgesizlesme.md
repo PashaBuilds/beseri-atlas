@@ -18,6 +18,7 @@ ilgili:
   - dusunur-fanon
   - dusunur-du-bois
   - aktor-sokoto-hilafeti
+  - aktor-maori
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

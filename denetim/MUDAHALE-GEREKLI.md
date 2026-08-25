@@ -548,3 +548,24 @@ Havuza `collectionapi.metmuseum.org` eklendi.
 Kalan is: yalnizca bir muzenin API'si havuzda. Afrika, Amerika ve Okyanusya
 dosyalarinin kanit tabanini genisletmek icin baska koleksiyonlarin API'leri
 de denenmeli. Oncelik: orta.
+
+## Okyanusya bolgesi acildi ama neredeyse bos (2026-08-25)
+
+Atlasin bolge listesi kurulurken **Avustralya, Yeni Zelanda ve Pasifik
+adalari hicbir etikete karsilik gelmiyordu.** Yani eksik bir kapsam eksigi
+degil, bir sema eksigiydi: atlas bu bolgeyi temsil etmeyi yapisal olarak
+imkansiz kiliyordu.
+
+`okyanusya` etiketi semaya, okur bilesenine ve zaman seridine eklendi. Iki
+dosya yazildi (kavram-avustronezya-yayilmasi, aktor-maori) ve bolge artik
+kullanilabilir durumda.
+
+**Kalan is buyuk.** Iki dosya bir bolgeyi temsil etmez. Eksikler:
+- Avustralya'nin yerli halklari icin tek bir dosya yok
+- Melanezya ve Mikronezya icin hicbir dosya yok
+- Bolgenin olay, kaynak ve dusunur katmanlari tumuyle bos
+- 16 donem dosyasinin `serit` alanlarinda Okyanusya satiri yok
+
+Oncelik: yuksek. Bir bolgeyi acip bos birakmak, hic acmamaktan daha
+yaniltici olabilir: okur bolge filtresinde bir etiket gorur ve arkasinda
+iki dosya bulur.

@@ -25,6 +25,8 @@ ilgili:
   - aktor-moche
   - aktor-teotihuacan
   - aktor-olmek
+  - kavram-avustronezya-yayilmasi
+  - aktor-maori
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
