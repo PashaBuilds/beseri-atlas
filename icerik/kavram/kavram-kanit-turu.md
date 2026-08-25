@@ -27,6 +27,8 @@ ilgili:
   - olay-waitangi-antlasmasi-1840
   - aktor-hawai-kralligi
   - tartisma-waitangi-hangi-metin
+  - aktor-hazarlar
+  - dusunur-sankara
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

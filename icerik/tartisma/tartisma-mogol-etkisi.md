@@ -32,6 +32,7 @@ ilgili:
   - aktor-altin-orda
   - aktor-ilhanlilar
   - kaynak-camiut-tevarih
+  - aktor-cagatay-hanligi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

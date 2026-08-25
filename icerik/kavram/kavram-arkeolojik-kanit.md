@@ -29,6 +29,7 @@ ilgili:
   - aktor-maori
   - aktor-avustralya-yerli-halklari
   - kavram-kanit-turu
+  - aktor-hazarlar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

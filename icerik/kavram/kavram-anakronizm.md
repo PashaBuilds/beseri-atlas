@@ -28,6 +28,7 @@ ilgili:
   - dusunur-zhu-xi
   - dusunur-nagarjuna
   - aktor-olmek
+  - dusunur-wang-yangming
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

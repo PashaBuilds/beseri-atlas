@@ -30,6 +30,7 @@ ilgili:
   - aktor-samaniler
   - aktor-uygur-kaganligi
   - dusunur-sankara
+  - aktor-hazarlar
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

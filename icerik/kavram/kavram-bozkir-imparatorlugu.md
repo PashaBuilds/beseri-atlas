@@ -20,6 +20,8 @@ ilgili:
   - kaynak-yusuf-has-hacib-kutadgu-bilig
   - aktor-uygur-kaganligi
   - aktor-altin-orda
+  - aktor-hazarlar
+  - aktor-cagatay-hanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

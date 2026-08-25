@@ -24,6 +24,7 @@ ilgili:
   - kaynak-orhon-yazitlari
   - aktor-sogdlular
   - aktor-uygur-kaganligi
+  - aktor-hazarlar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

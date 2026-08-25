@@ -25,6 +25,7 @@ ilgili:
   - aktor-hawai-kralligi
   - tartisma-waitangi-hangi-metin
   - aktor-tonga-kralligi
+  - dusunur-sankara
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

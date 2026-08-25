@@ -26,6 +26,7 @@ ilgili:
   - aktor-altin-orda
   - aktor-ilhanlilar
   - kaynak-camiut-tevarih
+  - aktor-cagatay-hanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

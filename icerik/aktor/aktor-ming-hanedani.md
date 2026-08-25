@@ -19,6 +19,7 @@ ilgili:
   - aktor-safevi-devleti
   - aktor-goryeo-choson
   - kavram-haracguzarlik
+  - dusunur-wang-yangming
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

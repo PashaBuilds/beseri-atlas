@@ -1749,3 +1749,60 @@ okunmasından farklı kurallara tabidir ve bu dosyada açıkça yazıldı.
 **Beyan edilen sınır.** İki örnekten kural çıkarılamaz. Ölçülebilir bir
 iddia için aynı okyanustan daha çok örnek gerekiyor; bu açık borç olarak
 dosyanın kendi metnine yazıldı.
+
+## Tur — Orta Asya: ertelenmiş dosya ve dördüncü ardıl devlet (25 Ağustos 2026)
+
+Eklenen: `aktor-hazarlar`, `aktor-cagatay-hanligi`. Toplam 427 → 429.
+Orta Asya 30 → 32 makale (bölgeler arasında Okyanusya'dan sonra en ince
+katman).
+
+**Hazarlar — neden ertelenmişti, neden şimdi yazıldı.** Bu dosya
+turlar önce kuyruğa alınmış ve "dikkatli kaynaklandırma gerekiyor" notuyla
+bekletilmişti. Nedeni: açık arama, konu hakkında güvenilir olmayan
+malzeme döndürüyordu. Atlasın kuralı ilerlemek için kaynak uydurmamaktır
+ve bu, kaynak bulunamadığında dosyayı ertelemeyi de kapsar. Dosya, alanın
+standart akademik monografisi (Dunlop 1954, Princeton) archive.org
+kütüphane kaydı üzerinden künyelenebilir hâle gelince yazıldı. Künye
+kitabın tam metnini değil ödünç verme kaydını gösteriyor ve bu kısıt
+dosyada beyan edildi.
+
+**Dosyanın kaydettiği kural.** *Yalnızca dışarıdan yazılmış bir düzen
+hakkında bilinenler, o düzenin özelliği değil gözlemcilerin ilgisinin
+haritasıdır.* Somut hâli: İslam coğrafyacıları ticaret ve yönetim ihtiyacı
+için yazdıkları için yollar, mallar ve vergiler ayrıntılı; hanedan tarihi
+ve iç siyaset neredeyse yok. Yani Hazarlar hakkında hangi soruların
+cevaplanabildiğini belirleyen şey Hazarların kendisi değil, onları yazanların
+ne aradığı.
+
+Karşılaştırma dosyada açıkça kuruluyor: aynı bozkır geleneğinden çıkan
+Göktürk Kağanlığı kendi dilinde uzun yazıtlar bıraktı, Hazarlar bırakmadı.
+Fark, iki düzenin gelişmişliğini değil kayıt pratiğini gösteriyor.
+
+Modern politik iddialar konusunda dosya tek bir şey yapıyor: bunların
+akademik yazında karşılık bulmadığını ve atlasın konusu olmadığını yazıp
+pratik sonucu kaydediyor — açık aramanın güvenilir olmayan sonuç
+döndürmesi, yani doğrudan bir kaynak sorunu.
+
+**Çağatay Hanlığı — Moğol ardıl dörtlüsü tamamlandı.** Altın Orda ve
+İlhanlılar zaten vardı; bu dosyayla dört birim de yazılmış oldu ve
+karşılaştırma mümkün hâle geldi. Çıkan örüntü: tek bir ekonomik temele
+oturan birimler bütünleşti, iki temeli (yerleşik + bozkır) birlikte
+taşıyan birim bölündü. Dosya bunu kural değil, dört örnekle sınırlı bir
+hipotez olarak yazıyor.
+
+**İkinci kayıt — meşruiyet kuralının ömrü.** Han unvanı belirli bir soya
+bağlıydı ve kural, onu uygulatan zor gücü çöktükten sonra da bağlayıcı
+kaldı: bölgeye hâkim olan güç, askerî üstünlüğü tartışmasız olduğu hâlde
+unvanı almadı, yönetimi soy şartını taşıyanlar adına yürüttü. *Bir
+meşruiyet kuralı, onu kuran gücün çöküşünden sonra da bağlayıcı kalabilir
+ve onu çiğneyebilecek olanları da bağlar.* Dosya nedenini de yazıyor:
+kurala uymak, aynı geleneği paylaşan bütün bölgelerde tanınabilirlik
+sağlıyordu; çiğnemek o tanınırlığı kaybetmekti.
+
+**Bakım işi.** Son turlarda biriken 30 tek yönlü `ilgili` bağı toplu
+olarak kapatıldı; uyarı sayısı 20 → 0. Bağ grafiği artık tümüyle
+karşılıklı.
+
+**Kalibrasyon teyidi.** İki dosya da ilk hâlde %82 ve %71'de kaldı.
+Aktör dosyaları için 22 bölüm hedefi doğru; 18 bölüm sistematik olarak
+yetmiyor.

@@ -22,6 +22,7 @@ ilgili:
   - aktor-rus-imparatorlugu
   - tartisma-mogol-etkisi
   - aktor-ilhanlilar
+  - aktor-cagatay-hanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

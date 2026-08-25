@@ -19,6 +19,7 @@ ilgili:
   - aktor-mogol-imparatorlugu
   - kavram-kanit-turu
   - tartisma-mogol-etkisi
+  - aktor-cagatay-hanligi
 okuma_onerisi: []
 yazar: "Reşîdüddin Fazlullah Hemedânî"
 eser_adi: "Câmiu't-Tevârîh"

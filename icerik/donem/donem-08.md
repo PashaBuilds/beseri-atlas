@@ -41,6 +41,7 @@ ilgili:
   - aktor-bengal-sultanligi
   - aktor-gucerat-sultanligi
   - aktor-benin-kralligi
+  - aktor-cagatay-hanligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

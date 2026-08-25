@@ -45,6 +45,7 @@ ilgili:
   - aktor-maori
   - aktor-altin-orda
   - aktor-ilhanlilar
+  - aktor-cagatay-hanligi
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

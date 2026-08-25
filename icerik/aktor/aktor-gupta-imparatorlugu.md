@@ -19,6 +19,7 @@ ilgili:
   - kavram-kast
   - dusunur-nagarjuna
   - aktor-kusan-imparatorlugu
+  - dusunur-sankara
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

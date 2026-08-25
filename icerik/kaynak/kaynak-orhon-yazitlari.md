@@ -20,6 +20,7 @@ ilgili:
   - kaynak-yusuf-has-hacib-kutadgu-bilig
   - aktor-uygur-kaganligi
   - tartisma-sozlu-gelenek-kaynak-mi
+  - aktor-hazarlar
 okuma_onerisi: []
 yazar: "Göktürk kağanlık yazıcıları"
 eser_adi: "Orhon Yazıtları"

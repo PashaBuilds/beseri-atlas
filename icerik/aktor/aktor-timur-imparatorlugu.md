@@ -18,6 +18,7 @@ ilgili:
   - aktor-osmanli-imparatorlugu
   - aktor-delhi-sultanligi
   - kaynak-baburname
+  - aktor-cagatay-hanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -41,6 +41,7 @@ ilgili:
   - aktor-sokoto-hilafeti
   - aktor-kusan-imparatorlugu
   - aktor-ilhanlilar
+  - aktor-cagatay-hanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

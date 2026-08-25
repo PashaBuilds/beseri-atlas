@@ -25,6 +25,7 @@ ilgili:
   - tartisma-romanin-cokus-nedeni
   - olay-hacli-seferleri
   - olay-istanbulun-fethi
+  - aktor-hazarlar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

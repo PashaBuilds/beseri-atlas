@@ -22,6 +22,7 @@ ilgili:
   - kavram-mesruiyet
   - kavram-goksel-yetki
   - dusunur-nagarjuna
+  - dusunur-wang-yangming
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

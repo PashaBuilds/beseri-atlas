@@ -22,6 +22,7 @@ ilgili:
   - kavram-mesruiyet
   - tartisma-mogol-etkisi
   - kaynak-camiut-tevarih
+  - aktor-cagatay-hanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

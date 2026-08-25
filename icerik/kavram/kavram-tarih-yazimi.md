@@ -30,6 +30,8 @@ ilgili:
   - kavram-kanit-turu
   - aktor-ilhanlilar
   - kaynak-camiut-tevarih
+  - dusunur-sankara
+  - dusunur-wang-yangming
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
