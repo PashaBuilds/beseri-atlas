@@ -13,6 +13,7 @@ ilgili:
   - kavram-mandala-devleti
   - aktor-goryeo-choson
   - aktor-ming-hanedani
+  - aktor-altin-orda
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

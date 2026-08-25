@@ -1474,3 +1474,31 @@ izlenimini verir. Gerekce: degerlendirilemeyen bir iddia bir kayit degil bir
 beyandir.
 
 Toplam makale 417 -> 418.
+
+## Tur 51 — Altin Orda; fatihin fethettigine donusmesi (2026-08-25)
+
+**aktor-altin-orda** (1215 kelime) eklendi. Orta Asya aktor katmani 9 dosya.
+
+Dosyanin secilme gerekcesi gosterdigi donusum: bir fetih hanedaninin
+yonettigi nufusun dilini ve dinini benimsemesi. Sürec **olculebilir** cunku
+iki uc da kayitli — gelenlerin dili ve inanci biliniyor, iki kusak
+sonrasininki de biliniyor; aradaki fark dogrudan okunabilir.
+
+Belirleyici olan sayi orani: gelen hanedan ve askeri cevre, yonettigi nufusun
+yaninda cok kucuk kaldi. Karsi ornek de atlasta var — ayni hanedanin dogudaki
+kollari farkli yonlerde donustu. **Ayni cikis noktasindan yola cikan
+duzenler, yerlestikleri nufusa gore farkli sonlara vardi.**
+
+Iki nokta ayrica kaydedildi:
+- Din degisimi tek adimda olmadi; ilk benimseme ile kurumsallasma arasinda
+  yaklasik yetmis yil var ve arada geri donusler kayitli. Bir din degisimini
+  tek tarihe baglamak sureci bir karara indirger.
+- Inanc bagi kan baginin onune gecti: din degisiminden sonra kurulan ittifak,
+  ayni hanedandan gelen dogudaki bir duzene karsiydi.
+
+Kaynak durumu: dort kaynagin **hicbiri birincil degil.** Duzenin yarlik adi
+verilen yetki belgeleri arsivlerde duruyor ama dogrulanabilir tam metin
+derlemesi bulunamadi. Bu belgeler dil degisimini dogrudan olcebilecek seri;
+yoklugu dosyada beyan edildi.
+
+Toplam makale 418 -> 419.

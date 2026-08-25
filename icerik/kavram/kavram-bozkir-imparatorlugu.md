@@ -19,6 +19,7 @@ ilgili:
   - kaynak-orhon-yazitlari
   - kaynak-yusuf-has-hacib-kutadgu-bilig
   - aktor-uygur-kaganligi
+  - aktor-altin-orda
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

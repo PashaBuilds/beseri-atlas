@@ -20,6 +20,7 @@ ilgili:
   - olay-yedi-yil-savasi
   - olay-kirim-savasi
   - dusunur-mackinder
+  - aktor-altin-orda
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

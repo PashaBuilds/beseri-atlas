@@ -11,10 +11,10 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 418 |
-| Toplam künye | 1372 |
+| Ölçülen makale | 419 |
+| Toplam künye | 1376 |
 | Giriş kapısı kuralını aşan makale | 227 |
-| Birincil kaynağı olmayan makale | 238 |
+| Birincil kaynağı olmayan makale | 239 |
 | Giriş kapısı künyesi payı | 45% |
 
 ## Tipe göre borçlu makale
@@ -22,7 +22,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Tip | Borçlu |
 |---|---|
 | olay | 77 |
-| aktor | 64 |
+| aktor | 65 |
 | kavram | 61 |
 | tartisma | 34 |
 | kaynak | 27 |
@@ -261,6 +261,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `tartisma-vestfalya-miti` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `tartisma-yazinin-icadi-nerede` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-abbasi-hilafeti` | 3 | 1 | 0 | birincil kaynak yok |
+| `aktor-altin-orda` | 4 | 1 | 0 | birincil kaynak yok |
 | `aktor-avusturya-macaristan` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-babur-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-emevi-hilafeti` | 3 | 1 | 0 | birincil kaynak yok |

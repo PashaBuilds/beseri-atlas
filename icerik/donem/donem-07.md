@@ -43,6 +43,7 @@ ilgili:
   - dusunur-zhu-xi
   - olay-bagdat-kusatmasi-1258
   - aktor-maori
+  - aktor-altin-orda
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

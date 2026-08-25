@@ -29,6 +29,7 @@ ilgili:
   - donem-07
   - aktor-harizmsahlar
   - olay-bagdat-kusatmasi-1258
+  - aktor-altin-orda
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:
