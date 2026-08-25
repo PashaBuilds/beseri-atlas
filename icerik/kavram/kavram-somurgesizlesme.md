@@ -29,6 +29,7 @@ ilgili:
   - aktor-fiji-kralligi
   - kavram-vesayet-yonetimi
   - kaynak-insan-haklari-beyannamesi
+  - kaynak-hindistan-anayasasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

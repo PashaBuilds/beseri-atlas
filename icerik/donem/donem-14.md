@@ -48,6 +48,7 @@ ilgili:
   - tartisma-kalkinma-neden-basarisiz
   - dusunur-fanon
   - kaynak-insan-haklari-beyannamesi
+  - kaynak-hindistan-anayasasi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

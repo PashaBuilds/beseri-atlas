@@ -11,8 +11,8 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 455 |
-| Toplam künye | 1499 |
+| Ölçülen makale | 457 |
+| Toplam künye | 1505 |
 | Giriş kapısı kuralını aşan makale | 227 |
 | Birincil kaynağı olmayan makale | 247 |
 | Giriş kapısı künyesi payı | 44% |

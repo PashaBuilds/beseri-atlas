@@ -53,6 +53,7 @@ ilgili:
   - kaynak-magna-carta
   - kaynak-gulhane-hatti
   - kaynak-kanunuesasi-1876
+  - kaynak-meiji-anayasasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

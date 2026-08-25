@@ -17,6 +17,7 @@ ilgili:
   - olay-meiji-restorasyonu
   - olay-ikinci-dunya-savasi
   - aktor-tokugawa-sogunlugu
+  - kaynak-meiji-anayasasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

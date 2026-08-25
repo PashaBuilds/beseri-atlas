@@ -21,6 +21,7 @@ ilgili:
   - kavram-mesruiyet
   - kavram-birincil-kaynak
   - tartisma-osmanli-gerileme-tezi
+  - kaynak-meiji-anayasasi
 okuma_onerisi: []
 yazar: "Osmanli hukumdari adina ilan edilmistir"
 eser_adi: "Gulhane Hatt-i Serifi"

@@ -2510,3 +2510,60 @@ Osmanlı, dördü başka gelenekler. Doğu Asya, Güney Asya ve Afrika
 geleneklerinden hiçbir hukuk belgesi künyelenmedi. Bu, atlasın öteki
 katmanlarındakinden daha keskin bir dengesizlik ve doğrudan kaynak
 erişilebilirliğiyle ilgili; borç defterine yazıldı.
+
+## Tur — Belge katmanının bölge dengesizliği kapatıldı (25 Ağustos 2026)
+
+Eklenen: `kaynak-meiji-anayasasi`, `kaynak-hindistan-anayasasi`.
+Toplam 455 → 457. Belge türü 6 → 8 dosya.
+
+**Geçen turda beyan edilen borç kapatıldı.** Doğu Asya ve Güney Asya
+geleneklerinden hiçbir hukuk belgesi künyelenmemişti. İkisi de bu turda
+eklendi; Afrika hâlâ eksik ve defterde duruyor.
+
+**Meiji Anayasası — aynı aracın iki farklı sonucu.** İki anayasa aynı on
+yıllarda, benzer dış baskı altında, hükümdarın onayıyla ve yukarıdan
+aşağıya hazırlandı. Biri iki yıl sonra işlemez hâle geldi, öteki elli
+altı yıl sürdü.
+
+Dosya farkın nerede aranmayacağını önce yazıyor: metinlerin
+sınırlayıcılığında değil. Meiji metni de hükümdara geniş yetki tanıyor,
+hakları kanunla sınırlandırılabilir kaydıyla veriyor ve orduyu doğrudan
+hükümdara bağlıyor — bu son madde Kânûn-ı Esâsî'de yok, yani bu metin
+bazı ölçütlerle daha az sınırlayıcı.
+
+Kayda geçen ölçüm: **bir anayasa, iktidarı elinde tutanların işine
+yarıyorsa sürer; onlara karşı hazırlanmışsa onların elindeki araçlarla
+durdurulur.** İki örnekle sınırlı olduğu ve başka etkenlerin de
+ayrıldığı ayrıca yazıldı.
+
+İkinci kayıt — denetim dışı alan: bir anayasa okunurken hangi hakların
+tanındığı kadar hangi alanın düzenleme dışında bırakıldığı sorulmalı.
+Meiji metninde askerî komuta denetim dışıydı ve bu, sonraki yarım
+yüzyılın en belirleyici maddesi oldu. Ölçüt bütün anayasa künyelerine
+uygulanacak.
+
+Üçüncü kayıt: yazılı hukuk düzeninin varlığı, yabancıların yerel yargıdan
+muaf tutulmasına son verme talebinin gerekçesi olarak kullanıldı ve
+kabul gördü. Bir hukuki biçimin benimsenmesi doğrudan bir egemenlik
+kazanımına dönüşebiliyor — biçimin iç işlevinden bağımsız bir sonuç.
+
+**Hindistan Anayasası — hak kapsamının dördüncü biçimi.** Dizide üç biçim
+ölçülmüştü: eşitsizliği açıkça yazmak, kapsamı sessizce daraltmak,
+kapsamı açıkça genişletmek. Bu metin dördüncüsünü kullanıyor: kapsamı
+genişletmekle kalmıyor, genişlemenin karşısındaki somut engeli
+adlandırıp hedef alıyor.
+
+Kayda geçen kural: **bir eşitlik ilanı, karşısındaki eşitsizliği
+adlandırmadığı sürece o eşitsizliği hedef almaz; adlandırma, ilanı bir
+uygulama aygıtına bağlar.**
+
+İki ek gözlem: (1) bir anayasanın uzunluğu, kapsamlı olmasından çok
+belirsizliğe ne kadar tahammül ettiğinin göstergesi; (2) sömürge
+yönetiminin sona ermesi, o yönetimin kurduğu idari aygıtın ortadan
+kalkması anlamına gelmiyor — önceki yönetim kanununun birçok maddesi
+metne aktarıldı ve iki olgu ayrı ayrı izlenmeli.
+
+**Belge katmanı artık üç anayasa taşıyor.** İkisi hükümdarın onayıyla ve
+yukarıdan aşağıya, biri seçilmiş kurucu meclisle hazırlandı. Üç örnek,
+hazırlık usulü ile ömür arasında ilişki kurmaya yetmiyor ve dosya bunu
+yazıyor.

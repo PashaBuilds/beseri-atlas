@@ -32,6 +32,8 @@ ilgili:
   - kaynak-insan-haklari-beyannamesi
   - kaynak-gulhane-hatti
   - kaynak-kanunuesasi-1876
+  - kaynak-hindistan-anayasasi
+  - kaynak-meiji-anayasasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

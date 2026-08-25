@@ -52,6 +52,7 @@ ilgili:
   - aktor-samoa-kralligi
   - kaynak-gulhane-hatti
   - kaynak-kanunuesasi-1876
+  - kaynak-meiji-anayasasi
 okuma_onerisi: []
 serit:
   - bolge: afrika

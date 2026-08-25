@@ -19,6 +19,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - olay-bandung-konferansi
   - kavram-somurgesizlesme
+  - kaynak-hindistan-anayasasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

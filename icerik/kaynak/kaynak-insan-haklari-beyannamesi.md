@@ -21,6 +21,7 @@ ilgili:
   - kavram-egemenlik
   - kavram-birincil-kaynak
   - kaynak-gulhane-hatti
+  - kaynak-hindistan-anayasasi
 okuma_onerisi: []
 yazar: "Birlesmis Milletler Genel Kurulu"
 eser_adi: "Universal Declaration of Human Rights"

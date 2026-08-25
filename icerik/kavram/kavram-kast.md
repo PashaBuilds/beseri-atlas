@@ -13,6 +13,7 @@ ilgili:
   - aktor-gupta-imparatorlugu
   - aktor-delhi-sultanligi
   - kavram-anakronizm
+  - kaynak-hindistan-anayasasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

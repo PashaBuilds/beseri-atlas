@@ -20,6 +20,8 @@ ilgili:
   - kavram-milliyetcilik
   - kavram-birincil-kaynak
   - tartisma-osmanli-gerileme-tezi
+  - kaynak-hindistan-anayasasi
+  - kaynak-meiji-anayasasi
 okuma_onerisi: []
 yazar: "Osmanli Devleti (ilan eden)"
 eser_adi: "Kanun-i Esasi"

@@ -25,6 +25,7 @@ ilgili:
   - kaynak-tordesillas-antlasmasi
   - kaynak-gulhane-hatti
   - kaynak-kanunuesasi-1876
+  - kaynak-hindistan-anayasasi
 okuma_onerisi: []
 yazar: "Ingiltere Krali John ve baronlar (taraflar)"
 eser_adi: "Magna Carta Libertatum"
