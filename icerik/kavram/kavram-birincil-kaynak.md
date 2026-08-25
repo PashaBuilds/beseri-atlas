@@ -45,6 +45,7 @@ ilgili:
   - kavram-kurulus-anlatisi
   - kaynak-gilgamis-destani
   - kaynak-kojiki
+  - kaynak-cook-guney-seyir-defteri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

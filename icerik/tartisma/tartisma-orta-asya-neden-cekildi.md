@@ -30,6 +30,7 @@ ilgili:
   - kavram-kanit-turu
   - tartisma-bati-neden-yukseldi
   - tartisma-osmanli-gerileme-tezi
+  - olay-talas-savasi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

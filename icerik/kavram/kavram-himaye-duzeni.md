@@ -24,6 +24,7 @@ ilgili:
   - aktor-samoa-kralligi
   - kavram-vesayet-yonetimi
   - olay-adva-1896
+  - kavram-pasifik-isci-toplama
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

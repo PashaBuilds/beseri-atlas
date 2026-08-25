@@ -25,6 +25,7 @@ ilgili:
   - tartisma-karsi-olgusal-tarih
   - kavram-kuresellesme
   - donem-15
+  - olay-talas-savasi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

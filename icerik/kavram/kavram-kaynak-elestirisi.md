@@ -39,6 +39,7 @@ ilgili:
   - kaynak-ibn-battuta-rihle
   - kavram-kurulus-anlatisi
   - kaynak-gilgamis-destani
+  - kavram-pasifik-isci-toplama
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

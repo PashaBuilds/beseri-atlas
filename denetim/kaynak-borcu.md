@@ -11,9 +11,9 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 478 |
-| Toplam künye | 1569 |
-| Giriş kapısı kuralını aşan makale | 227 |
+| Ölçülen makale | 480 |
+| Toplam künye | 1575 |
+| Giriş kapısı kuralını aşan makale | 226 |
 | Birincil kaynağı olmayan makale | 251 |
 | Giriş kapısı künyesi payı | 43% |
 
@@ -230,7 +230,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `olay-sovyetler-dagilmasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-suveys-krizi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-taiping-isyani` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `olay-talas-savasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-uzay-yarisi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-vestfalya-barisi` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `olay-vietnam-savasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
@@ -322,6 +321,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `olay-mogol-fetihleri` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-nufus-patlamasi` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-plassey-1757` | 3 | 1 | 0 | birincil kaynak yok |
+| `olay-talas-savasi` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-tanzimat-fermani` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-yesil-devrim` | 3 | 1 | 0 | birincil kaynak yok |
 | `tartisma-aydinlanmanin-sinirlari` | 3 | 1 | 0 | birincil kaynak yok |

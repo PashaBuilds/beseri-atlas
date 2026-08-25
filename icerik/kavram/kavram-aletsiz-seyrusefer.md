@@ -18,6 +18,7 @@ ilgili:
   - kavram-kipu
   - kavram-yazi-sistemi
   - kavram-kula-halkasi
+  - kaynak-cook-guney-seyir-defteri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

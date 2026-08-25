@@ -58,6 +58,7 @@ ilgili:
   - olay-mfecane
   - aktor-zulu-kralligi
   - aktor-komance
+  - kaynak-cook-guney-seyir-defteri
 okuma_onerisi: []
 serit:
   - bolge: afrika

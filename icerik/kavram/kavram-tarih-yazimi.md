@@ -40,6 +40,7 @@ ilgili:
   - dusunur-katib-celebi
   - kavram-kurulus-anlatisi
   - kaynak-kojiki
+  - kavram-pasifik-isci-toplama
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

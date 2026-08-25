@@ -24,6 +24,7 @@ ilgili:
   - aktor-kusan-imparatorlugu
   - aktor-buhara-hanligi
   - tartisma-orta-asya-neden-cekildi
+  - olay-talas-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -28,6 +28,7 @@ ilgili:
   - aktor-rapa-nui
   - aktor-samoa-kralligi
   - aktor-nauru
+  - kaynak-cook-guney-seyir-defteri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

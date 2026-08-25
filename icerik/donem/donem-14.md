@@ -52,6 +52,7 @@ ilgili:
   - kaynak-afrika-birligi-sarti
   - aktor-nauru
   - olay-pasifik-nukleer-denemeleri
+  - kavram-pasifik-isci-toplama
 okuma_onerisi: []
 serit:
   - bolge: avrupa

@@ -3146,3 +3146,25 @@ Künye notu: iki birincil metin de `en.wikisource.org` üzerinden kamu
 malı çevirilerle künyelendi (Chamberlain 1882, Thompson). Her ikisi de
 erken çeviri olduğu için sonraki yayınlardaki eklemeleri içermez;
 kısıt her iki dosyada da beyan edildi.
+
+## 2026-08-26 — Pasifik emek düzeni ve Talas birleştirmesi
+
+- `kavram-pasifik-isci-toplama` — on dokuzuncu yüzyılda ada
+  topluluklarından plantasyonlara işçi taşıyan düzen. Ölçüm: bir
+  uygulamanın kaydı yalnızca uygulayan tarafça tutulmuşsa, o kayıttaki
+  rıza ifadeleri bağımsız kanıt sayılmaz. İki birincil kaynak da
+  toplayan taraftan geliyor; bu, dosyanın ölçümünün kendisi.
+- `kaynak-cook-guney-seyir-defteri` — ikinci Pasifik seferinin resmî
+  anlatısı. Ölçüm: bir karşılaşmanın tek tarafça tutulmuş kaydı, o
+  karşılaşmanın değil kaydı tutanın beklentilerinin de kaynağıdır.
+  Bir yüzyıl sonraki işçi toplama kaydıyla karşılaştırmalı okunuyor.
+- `olay-talas-savasi` BİRLEŞTİRİLDİ. Eski dosya 301 kelimeydi (hedefin
+  %25'i) ve künyesinde iki Wikipedia vardı. Yeni gövde yazıldı, eski
+  dosyanın adları ve yer bilgisi taşıyan iki bölümü korundu, künye tek
+  Wikipedia'ya indirildi (yerine TDV SEMERKANT). 1205 kelime.
+
+İş kazası: yeni Talas dosyası ile eski dosyayı birleştirmek için
+yazdığım betik hata verdi ama `rm` ayrı bir komut olduğu için yine de
+çalıştı; henüz commit'lenmemiş yeni dosya silindi ve içerik elle
+yeniden yazıldı. Ders: silme işlemi, birleştirmenin başarısına bağlı
+olmalı (`&&`), ayrı komut olmamalı.

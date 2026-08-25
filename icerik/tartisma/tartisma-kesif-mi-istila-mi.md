@@ -33,6 +33,7 @@ ilgili:
   - olay-malaka-fethi-1511
   - aktor-mapuche
   - kaynak-tordesillas-antlasmasi
+  - kaynak-cook-guney-seyir-defteri
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

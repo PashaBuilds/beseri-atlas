@@ -23,6 +23,7 @@ ilgili:
   - kaynak-insan-haklari-beyannamesi
   - aktor-nauru
   - olay-pasifik-nukleer-denemeleri
+  - kavram-pasifik-isci-toplama
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

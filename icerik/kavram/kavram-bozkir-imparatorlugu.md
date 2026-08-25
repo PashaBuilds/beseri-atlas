@@ -28,6 +28,7 @@ ilgili:
   - aktor-hokand-hanligi
   - aktor-karluklar
   - aktor-kirgizlar
+  - olay-talas-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

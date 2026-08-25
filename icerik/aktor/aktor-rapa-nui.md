@@ -23,6 +23,8 @@ ilgili:
   - kavram-arkeolojik-kanit
   - tartisma-iklim-ve-cokus
   - kavram-tarih-yazimi
+  - kavram-pasifik-isci-toplama
+  - kaynak-cook-guney-seyir-defteri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

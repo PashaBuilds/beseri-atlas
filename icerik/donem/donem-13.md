@@ -33,6 +33,7 @@ ilgili:
   - tartisma-1929-krizinin-nedeni
   - kaynak-tooze-felaketin-bedeli
   - aktor-nauru
+  - kavram-pasifik-isci-toplama
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 serit:

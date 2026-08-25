@@ -39,6 +39,7 @@ ilgili:
   - olay-mfecane
   - aktor-zulu-kralligi
   - olay-tupac-amaru-ayaklanmasi-1780
+  - kaynak-cook-guney-seyir-defteri
 okuma_onerisi: []
 serit:
   - bolge: avrupa

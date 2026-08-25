@@ -24,6 +24,7 @@ ilgili:
   - kavram-emperyalizm
   - aktor-samoa-kralligi
   - aktor-nauru
+  - kavram-pasifik-isci-toplama
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

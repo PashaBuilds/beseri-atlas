@@ -27,6 +27,7 @@ ilgili:
   - tartisma-waitangi-hangi-metin
   - aktor-tonga-kralligi
   - aktor-rapa-nui
+  - kaynak-cook-guney-seyir-defteri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
