@@ -21,6 +21,7 @@ ilgili:
   - kavram-kolelik
   - aktor-hawai-kralligi
   - aktor-haudenosaunee
+  - aktor-komance
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

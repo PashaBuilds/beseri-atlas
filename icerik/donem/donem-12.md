@@ -57,6 +57,7 @@ ilgili:
   - olay-adva-1896
   - olay-mfecane
   - aktor-zulu-kralligi
+  - aktor-komance
 okuma_onerisi: []
 serit:
   - bolge: afrika

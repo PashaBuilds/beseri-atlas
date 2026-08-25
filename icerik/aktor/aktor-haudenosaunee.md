@@ -25,6 +25,7 @@ ilgili:
   - kavram-birincil-kaynak
   - aktor-cahokia
   - aktor-mapuche
+  - aktor-komance
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

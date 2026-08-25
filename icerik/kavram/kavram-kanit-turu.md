@@ -46,6 +46,7 @@ ilgili:
   - aktor-karluklar
   - aktor-kirgizlar
   - olay-mfecane
+  - aktor-komance
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

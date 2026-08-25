@@ -26,6 +26,7 @@ ilgili:
   - aktor-mapuche
   - kaynak-tordesillas-antlasmasi
   - olay-tupac-amaru-ayaklanmasi-1780
+  - aktor-komance
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

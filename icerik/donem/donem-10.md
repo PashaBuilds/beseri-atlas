@@ -35,6 +35,7 @@ ilgili:
   - aktor-haudenosaunee
   - aktor-marathalar
   - olay-tupac-amaru-ayaklanmasi-1780
+  - aktor-komance
 okuma_onerisi: []
 serit:
   - bolge: avrupa

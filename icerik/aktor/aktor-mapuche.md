@@ -24,6 +24,7 @@ ilgili:
   - kavram-sozlu-tarih
   - tartisma-kesif-mi-istila-mi
   - olay-tupac-amaru-ayaklanmasi-1780
+  - aktor-komance
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

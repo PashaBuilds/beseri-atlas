@@ -1,33 +1,164 @@
 {
-  "mod": "--post",
-  "zaman": "2026-08-25T21:33:08.658Z",
-  "gecti": true,
-  "makale_sayisi": 468,
+  "mod": "--pre",
+  "zaman": "2026-08-25T21:38:30.745Z",
+  "gecti": false,
+  "makale_sayisi": 469,
   "kapilar": [
     {
-      "kapi": "KAPI 6 — onay filtresi (dist/)",
+      "kapi": "KAPI 1 — Zod sema dogrulamasi",
       "gecti": true,
       "hata": 0,
       "uyari": 0,
       "hatalar": []
     },
     {
-      "kapi": "KAPI 12 — cikti denetimi (dist/)",
+      "kapi": "KAPI 2+3 — dipnot butunlugu / kaynak anahtari",
       "gecti": true,
       "hata": 0,
       "uyari": 0,
       "hatalar": []
     },
     {
-      "kapi": "KAPI 14 — icerik kaybi (kaynak -> dist)",
+      "kapi": "KAPI 4 — terim kilidi",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 5 — link butunlugu",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 7 — telif siniri",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 9 — hakemlik dedektoru",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 11 — derinlik (§3 uzunluk hedefi)",
+      "gecti": false,
+      "hata": 1,
+      "uyari": 0,
+      "hatalar": [
+        {
+          "dosya": "icerik/aktor/aktor-komance.md",
+          "mesaj": "1187 kelime — §3 hedefi 1200-2000, 13 kelime eksik (yeni makale; borc defterine giremez)"
+        }
+      ],
+      "olcum": {
+        "olculen": 392,
+        "hedefTutan": 91,
+        "borclu": 301,
+        "eksikKelime": 255689,
+        "tipOzet": {
+          "donem": {
+            "n": 16,
+            "tutan": 0,
+            "eksik": 30456
+          },
+          "olay": {
+            "n": 93,
+            "tutan": 7,
+            "eksik": 74386
+          },
+          "aktor": {
+            "n": 116,
+            "tutan": 53,
+            "eksik": 54768
+          },
+          "dusunur": {
+            "n": 49,
+            "tutan": 13,
+            "eksik": 30871
+          },
+          "kavram": {
+            "n": 78,
+            "tutan": 14,
+            "eksik": 22719
+          },
+          "tartisma": {
+            "n": 40,
+            "tutan": 4,
+            "eksik": 42489
+          }
+        }
+      }
+    },
+    {
+      "kapi": "KAPI 13 — kaynak bilesimi",
       "gecti": true,
       "hata": 0,
       "uyari": 0,
       "hatalar": [],
       "olcum": {
-        "olculen": 468,
-        "kayipli": 0
+        "olculen": 469,
+        "toplamKunye": 1542,
+        "kuralIhlali": 227,
+        "birincilsiz": 249,
+        "toplamGiris": 671,
+        "birincilKunye": 240,
+        "turlenmemis": 0
       }
+    },
+    {
+      "kapi": "KAPI 15 — ayni konunun iki dosyasi",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 16 — savunan adlari kutugu",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 17 — ozet sure iddiasi",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 6 — onay filtresi",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 8 — kaynak canliligi",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": [],
+      "olcum": {
+        "url": 641,
+        "alan": 15,
+        "olculemeyen": 0,
+        "oran": 0
+      }
+    },
+    {
+      "kapi": "KAPI 10 — uydurma kaynak kontrolu",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
     }
   ]
 }

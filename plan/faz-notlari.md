@@ -2983,3 +2983,46 @@ karşılaştırılmasından çıkan bir gözlem.
 
 **Yeni borçlar.** Hareketin önderleri ve bölgedeki sömürge idari düzeni
 için ayrı dosya yok; ikisi de dosyanın metninde beyan edildi.
+
+## Tur — Komançe: teknolojinin askerî etkisi türevdir (26 Ağustos 2026)
+
+Eklenen: `aktor-komance`. Toplam 468 → 469. Amerika 90 → 91.
+
+**Dosyanın asıl ölçümü at hakkında.** Yaygın anlatı atı bir askerî
+üstünlük aracı olarak sunuyor — süvari hareketliliği, baskın kapasitesi.
+Bu doğru ama eksik: atın asıl etkisi bizonun avlanma verimini birkaç kat
+artırmasıydı. Verim artışı bir fazla üretiyor, fazla ticarete ve nüfus
+artışına dönüşüyor; askerî kapasite bu zeminden doğuyor, onu üretmiyor.
+
+Kayda geçen ölçüm: **bir teknolojinin askerî etkisi, çoğu zaman onun
+ekonomik etkisinin türevidir; sıralamayı tersine çevirmek, mekanizmayı
+görünmez kılar.**
+
+**Simetri, ölçümü güçlendiriyor.** Sonun doğrudan nedeni de ekonomik:
+bizon sürüleri birkaç onyılda yok edildi ve askerî kapasite dayandığı
+ekonomik temel yok olunca kendiliğinden çöktü. Yükseliş ve çöküş
+açıklamaları aynı mekanizmaya dayanıyorsa, mekanizma daha güçlü bir
+aday.
+
+**Mapuçe ile ikinci ölçüm.** İki dosya arasında üç ortak unsur var:
+merkezsiz örgütlenme, atın hızlı benimsenmesi, karşı tarafın tek muhatap
+bulamaması. "Merkezî bir aygıtın bulunmaması, o düzeni merkezine vurarak
+yenme yöntemini ortadan kaldırır" ölçümü artık iki yarımkürede bağımsız
+olarak ölçülmüş durumda.
+
+İkisi aynı onyıllarda sona erdi — karşı tarafın demiryolu ve telgrafa
+erişmesiyle. Merkezsiz örgütlenmenin avantajı, karşı tarafın lojistik ve
+haberleşme kapasitesi belirli bir eşiği geçene kadar sürüyor. Atlas
+bunu rastlantı saymıyor ama nedensellik de iddia etmiyor.
+
+**Üçüncü kayıt — alternatif sayısı yine belirleyici.** Gruplar üç ayrı
+devletin genişleme yönünün kesiştiği bölgedeydi ve üçü de birbirinin
+rakibiydi. Yüzyıl ortasında güneydeki iki devlet arasındaki savaş bölgeyi
+tek yönetim altına soktuğunda pazarlık kapasitesi doğrudan düştü. Aynı
+ölçüm Zulu ve Karluklar dosyalarında da yapılmıştı; artık üç örnekte
+ölçülmüş bir eğilim.
+
+**Dördüncü kayıt — esir ticaretinin iki yönü.** Esirlerin bir bölümü
+satılıyor, bir bölümü gruplara katılıyor ve zamanla tam üye
+sayılabiliyordu. Aynı uygulama hem bir şiddet biçimi hem bir nüfus
+stratejisi; ikisi ayrı ayrı ölçülmeli.
