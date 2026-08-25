@@ -24,6 +24,7 @@ ilgili:
   - kavram-hegemonya
   - olay-waitangi-antlasmasi-1840
   - tartisma-waitangi-hangi-metin
+  - aktor-zulu-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

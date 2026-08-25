@@ -2885,3 +2885,54 @@ kanıt tartışmalıyken bile işlevi sayesinde ayakta kalabiliyor.
 
 **Yeni borç.** Bölgedeki siyasi birimlerin hiçbiri için ayrı bir aktör
 dosyası yok. Dosya bunu kendi metninde beyan ediyor.
+
+## Tur — Zulu Krallığı: zafer neden yetmedi (26 Ağustos 2026)
+
+Eklenen: `aktor-zulu-kralligi`. Toplam 466 → 467.
+
+**Geçen turda açılan borç kapatıldı.** Mfecane dosyası, bölgedeki siyasi
+birimlerin hiçbiri için aktör dosyası bulunmadığını beyan etmişti.
+
+**Dosyanın sorusu bir karşılaştırmadan doğuyor.** İki tur önce yazılan
+Adva dosyasında bir Afrika devleti bir Avrupa ordusunu yenmiş ve zafer
+tanınmış bağımsızlığa dönüşmüştü. Burada da bir Avrupa ordusu ağır
+yenilgiye uğradı — ve krallık altı ay içinde ilhak edildi. Aynı tür
+askerî sonuç, iki bambaşka siyasi sonuç üretti.
+
+**Dört fark ölçüldü:**
+
+1. *Silah tedariki.* Adva'da tedarikçi çokluğu vardı; burada tedarik tek
+   yönlü ve sınırlıydı. Zafer ateşli silahla değil sayı ve arazi
+   kullanımıyla kazanıldı.
+2. *İkmalin yönü.* Adva'da giren ordunun ikmal hattı uzun ve kırılgandı;
+   burada saldıran taraf komşu sömürge bölgesinden ilerliyordu ve kısa
+   hat, yeni kuvvetin altı ay içinde gönderilmesini mümkün kıldı.
+3. *Rekabetin yokluğu.* Adva'da bölgeye ilgi duyan birden çok Avrupa
+   devleti vardı; burada tek bir güç vardı ve yenilgiden sonra
+   başvurulacak üçüncü taraf yoktu.
+4. *İç bölünme.* Adva'da seferberlik bölgesel önderlerin katılımıyla
+   savaştan önce sağlanmıştı; burada iç rekabet sürüyordu ve saldıran
+   taraf bunu kullandı.
+
+Kayda geçen ölçüm: **bir askerî zaferin siyasi sonuca dönüşmesi,
+kazananın zaferden sonra başvurabileceği alternatiflerin sayısına
+bağlıdır.** Bu, Karluklar dosyasında ölçülen "özerklik komşu sayısına
+bağlı" gözlemiyle aynı aileden; alternatif sayısı hem barış zamanında
+hem savaş sonrasında belirleyici bir değişken.
+
+**İkinci kayıt — dış tehdidin birleştirici etkisi bir varsayım.** İki
+örnek arasındaki dördüncü fark zamanlamayla ilgili: ortak düşman iç
+rekabeti kendiliğinden askıya almıyor, ve bu her örnekte ayrıca
+sınanmalı.
+
+**Üçüncü kayıt — yenilginin tırmandırıcı etkisi.** İlk muharebedeki
+yenilgi geri çekilmeye değil çok daha büyük bir kuvvetin
+gönderilmesine yol açtı. Bir yenilgi, kaybeden tarafın kapasitesi
+yüksekse tırmandırma üretiyor; sonucu belirleyen ilk muharebe değil
+kapasite farkı.
+
+**Dördüncü kayıt — parçalama bir yönetim aracı.** Bir siyasi birimi
+ortadan kaldırmanın iki yolu var: yerine geçmek ya da parçalamak.
+Parçalama, doğrudan yönetim maliyetini üstlenmeden merkezî otoriteyi
+ortadan kaldırıyor; karşılığında bölgeyi istikrarsız bırakıyor ve o
+maliyet parçalayan tarafa gecikmeli dönüyor.

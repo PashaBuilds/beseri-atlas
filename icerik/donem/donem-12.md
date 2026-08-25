@@ -56,6 +56,7 @@ ilgili:
   - kaynak-liberya-bagimsizlik-bildirisi
   - olay-adva-1896
   - olay-mfecane
+  - aktor-zulu-kralligi
 okuma_onerisi: []
 serit:
   - bolge: afrika

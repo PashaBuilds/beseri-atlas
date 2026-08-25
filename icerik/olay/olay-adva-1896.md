@@ -22,6 +22,7 @@ ilgili:
   - kavram-himaye-duzeni
   - kavram-egemenlik
   - kavram-belge-okumasi
+  - aktor-zulu-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

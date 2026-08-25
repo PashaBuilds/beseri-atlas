@@ -33,6 +33,7 @@ ilgili:
   - kaynak-afrika-birligi-sarti
   - kaynak-liberya-bagimsizlik-bildirisi
   - aktor-nauru
+  - aktor-zulu-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

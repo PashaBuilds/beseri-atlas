@@ -37,6 +37,7 @@ ilgili:
   - aktor-marathalar
   - kaynak-gulhane-hatti
   - olay-mfecane
+  - aktor-zulu-kralligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

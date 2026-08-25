@@ -27,6 +27,7 @@ ilgili:
   - aktor-haudenosaunee
   - aktor-mapuche
   - olay-mfecane
+  - aktor-zulu-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

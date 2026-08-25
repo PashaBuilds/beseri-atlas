@@ -23,6 +23,7 @@ ilgili:
   - kavram-kanit-turu
   - kavram-sozlu-tarih
   - tartisma-sozlu-gelenek-kaynak-mi
+  - aktor-zulu-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -25,6 +25,7 @@ ilgili:
   - aktor-asanti-imparatorlugu
   - olay-adva-1896
   - olay-mfecane
+  - aktor-zulu-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
