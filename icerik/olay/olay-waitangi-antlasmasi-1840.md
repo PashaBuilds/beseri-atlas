@@ -26,6 +26,7 @@ ilgili:
   - tartisma-waitangi-hangi-metin
   - aktor-tonga-kralligi
   - aktor-fiji-kralligi
+  - olay-adva-1896
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

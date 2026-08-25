@@ -2782,3 +2782,57 @@ olabilir.
 uygulanabilir görünüyor — Çağatay dosyasındaki meşruiyet kuralı örnek:
 biçimsel dayanağı yoktu, uygulanıyordu ve talep dayanağıydı. Öneri
 olarak kaydedildi, sınanması gerektiği yazıldı.
+
+## Tur — Adva: Waitangi kuralının ikinci ölçümü (26 Ağustos 2026)
+
+Eklenen: `olay-adva-1896`. Toplam 464 → 465.
+
+**Neden bu.** Olay katmanı 90 dosyaydı ve Afrika'da yalnızca dört dosya
+vardı: köle ticareti, Berlin Konferansı, bağımsızlık dalgası ve Mansa
+Musa'nın haccı. Dördü de ya paylaşım ya sömürgecilik ekseninde; kıtadan
+bir askerî sonuç yoktu.
+
+**Asıl bulgu — aynı yapının ikinci ölçümü.** Savaşın nedeni, yedi yıl
+önce imzalanmış iki dilli bir antlaşmanın iki metninin aynı maddede
+farklı şey söylemesiydi. Avrupa dilindeki metin dış ilişkilerin karşı
+taraf aracılığıyla yürütülmesini zorunlu kılıyor, yerel dildeki metin
+bunu bir seçenek olarak tanımlıyordu — yani biri himaye kuruyor, öteki
+kurmuyor.
+
+Atlas bu yapıyı Waitangi dosyasında ölçmüştü. İki örnek arasında elli
+altı yıl ve iki kıta var. Kayda geçen ölçüm: **sömürge dönemi
+antlaşmalarının iki metinli olması bir kaza değil, tekrar eden bir
+düzenlemedir; çeviriyi hazırlayan taraf kendi metnine daha geniş bir
+yetki yazabilir.**
+
+**İki örneğin ayrıldığı yer.** Yapı aynı, sonuç zıt. Waitangi'de çelişki
+hukuki tartışmaya dönüştü ve sürüyor; burada savaşa dönüştü ve savaşı
+metni dar yorumlayan taraf kazandı, antlaşma feshedildi. Yani aynı belge
+sorunu, tarafların askerî kapasitesine göre bambaşka sonuç üretiyor —
+belgenin metni sonucun yalnızca bir bileşeni.
+
+**İkinci kayıt — tedarikçi çokluğu.** İmparatorluk silahı birden çok
+Avrupa devletinden alıyordu; bir tedarikçi ambargo uyguladığında
+ötekiler devreye giriyordu. Ölçüm: **birden çok tedarikçinin bulunması,
+alıcının pazarlık gücünü artırır ve bu, silah ticaretinde doğrudan
+askerî kapasiteye dönüşür.**
+
+Bu, silahlı ticaret dosyasındaki döngüye bir ek getiriyor: orada döngü
+alıcıyı bağımlı kılıyordu, burada tedarikçi çokluğu bağımlılığı
+azaltıyor. Aynı ticaret biçimi, piyasa yapısına göre bağımlılık da
+özerklik de üretebiliyor.
+
+**Üçüncü kayıt — çelişkinin görünürlük anı.** İki metinli bir belgede
+çelişki imza anında değil, taraflardan biri o metne dayanarak işlem
+yaptığında görünür hâle geliyor.
+
+**Sonucun sınırı yazıldı.** Bağımsızlık kalıcı olmadı: aynı Avrupa
+devleti kırk yıl sonra yeniden saldırdı ve bu kez işgal gerçekleşti.
+İlk savaşı kazandıran iki etken — teknolojik yakınlık ve tedarikçi
+çokluğu — ikinci savaşta ikisi de ortadan kalkmıştı. Bir savaşın
+kazanılması, aynı sorunun kapandığı anlamına gelmiyor.
+
+**Beyan edilen eksik.** Antlaşmanın iki metni künyelenemedi; dosya
+çelişki hakkında konuşuyor ve iki metne atıf yapamıyor. Aynı kısıt
+Waitangi dosyasında aşılabilmişti — fark doğrudan kaynak
+erişilebilirliğinden geliyor.

@@ -54,6 +54,7 @@ ilgili:
   - kaynak-kanunuesasi-1876
   - kaynak-meiji-anayasasi
   - kaynak-liberya-bagimsizlik-bildirisi
+  - olay-adva-1896
 okuma_onerisi: []
 serit:
   - bolge: afrika

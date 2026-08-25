@@ -23,6 +23,7 @@ ilgili:
   - aktor-kongo-kralligi
   - aktor-murabitlar
   - aktor-asanti-imparatorlugu
+  - olay-adva-1896
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

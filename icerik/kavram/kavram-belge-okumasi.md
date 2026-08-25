@@ -22,6 +22,7 @@ ilgili:
   - kaynak-tordesillas-antlasmasi
   - kaynak-liberya-bagimsizlik-bildirisi
   - tartisma-belge-ne-zaman-yururlukte
+  - olay-adva-1896
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

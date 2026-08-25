@@ -17,6 +17,7 @@ ilgili:
   - donem-12
   - aktor-aksum-kralligi
   - aktor-osmanli-imparatorlugu
+  - olay-adva-1896
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

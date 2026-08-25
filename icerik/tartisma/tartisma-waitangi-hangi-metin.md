@@ -30,6 +30,7 @@ ilgili:
   - kavram-kanit-turu
   - kavram-somurgesizlesme
   - aktor-tonga-kralligi
+  - olay-adva-1896
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -21,6 +21,7 @@ ilgili:
   - aktor-samoa-kralligi
   - kaynak-tordesillas-antlasmasi
   - kaynak-afrika-birligi-sarti
+  - olay-adva-1896
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

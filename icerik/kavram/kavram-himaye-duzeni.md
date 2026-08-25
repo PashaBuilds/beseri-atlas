@@ -23,6 +23,7 @@ ilgili:
   - aktor-fiji-kralligi
   - aktor-samoa-kralligi
   - kavram-vesayet-yonetimi
+  - olay-adva-1896
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
