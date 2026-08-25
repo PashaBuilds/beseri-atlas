@@ -38,6 +38,7 @@ ilgili:
   - kavram-mandala-devleti
   - kavram-imparatorluk
   - tartisma-imparatorluk-nufusu-nasil-sayilir
+  - kaynak-orhon-yazitlari
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -30,6 +30,9 @@ ilgili:
   - aktor-kanem-bornu
   - dusunur-asoka
   - kavram-legalizm
+  - kaynak-kautilya-arthasastra
+  - kaynak-orhon-yazitlari
+  - kaynak-yusuf-has-hacib-kutadgu-bilig
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

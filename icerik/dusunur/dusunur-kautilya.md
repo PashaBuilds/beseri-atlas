@@ -17,6 +17,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-asoka
   - dusunur-han-feizi
+  - kaynak-kautilya-arthasastra
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

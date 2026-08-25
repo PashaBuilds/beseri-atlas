@@ -23,6 +23,7 @@ ilgili:
   - kavram-legalizm
   - kavram-taoizm
   - kavram-konfucyuscluk
+  - kaynak-kautilya-arthasastra
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -17,6 +17,7 @@ ilgili:
   - aktor-tang-hanedani
   - aktor-abbasi-hilafeti
   - olay-islam-fetihleri
+  - kaynak-orhon-yazitlari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

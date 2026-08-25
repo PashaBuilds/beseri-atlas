@@ -21,6 +21,7 @@ ilgili:
   - kavram-kaynak-elestirisi
   - aktor-selcuklular
   - dusunur-han-feizi
+  - kaynak-yusuf-has-hacib-kutadgu-bilig
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

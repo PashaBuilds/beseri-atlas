@@ -16,6 +16,8 @@ ilgili:
   - tartisma-mogol-etkisi
   - tartisma-imparatorluk-nufusu-nasil-sayilir
   - aktor-karahanlilar
+  - kaynak-orhon-yazitlari
+  - kaynak-yusuf-has-hacib-kutadgu-bilig
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -23,6 +23,7 @@ ilgili:
   - dusunur-nizamulmulk
   - aktor-selcuklular
   - aktor-kanem-bornu
+  - kaynak-yusuf-has-hacib-kutadgu-bilig
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -28,6 +28,7 @@ ilgili:
   - kavram-tarih-yazimi
   - donem-12
   - tartisma-karsi-olgusal-tarih
+  - kaynak-kautilya-arthasastra
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

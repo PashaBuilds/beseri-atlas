@@ -21,6 +21,7 @@ ilgili:
   - kavram-bozkir-imparatorlugu
   - tartisma-imparatorluk-nufusu-nasil-sayilir
   - aktor-karahanlilar
+  - kaynak-orhon-yazitlari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

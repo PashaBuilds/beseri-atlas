@@ -21,6 +21,7 @@ ilgili:
   - aktor-chola
   - dusunur-han-feizi
   - kavram-legalizm
+  - kaynak-kautilya-arthasastra
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

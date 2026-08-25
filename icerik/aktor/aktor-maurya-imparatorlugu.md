@@ -20,6 +20,7 @@ ilgili:
   - aktor-gupta-imparatorlugu
   - dusunur-kautilya
   - dusunur-asoka
+  - kaynak-kautilya-arthasastra
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
