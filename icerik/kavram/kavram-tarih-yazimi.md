@@ -36,6 +36,7 @@ ilgili:
   - aktor-kus-kralligi
   - aktor-rapa-nui
   - kaynak-magna-carta
+  - olay-mfecane
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

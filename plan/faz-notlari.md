@@ -2836,3 +2836,52 @@ kazanılması, aynı sorunun kapandığı anlamına gelmiyor.
 çelişki hakkında konuşuyor ve iki metne atıf yapamıyor. Aynı kısıt
 Waitangi dosyasında aşılabilmişti — fark doğrudan kaynak
 erişilebilirliğinden geliyor.
+
+## Tur — Mfecane: adlandırmanın kendisi tartışma (26 Ağustos 2026)
+
+Eklenen: `olay-mfecane`. Toplam 465 → 466.
+
+**Dosyanın asıl bulgusu adda.** Sürecin bugün kullanılan adı yerel bir
+dilden geliyor ve dağılma/ezilme anlamı taşıyor — yani yaşananları
+mağdurun konumundan tanımlıyor. Aynı süreç için kullanılan başka adlar
+ise olayı belirli bir topluluğun eseri olarak adlandırıyor ve fail
+seçimini adın içine yerleştiriyor.
+
+Kayda geçen ölçüm: **bir olayın adı, o olay hakkında bir iddia
+taşıyabilir; adlandırma tarafsız bir işlem değildir.**
+
+Atlas yerel dilden gelen adı kullanıyor ama tercihi gerekçelendiriyor:
+adın tarafsız olduğu için değil, alternatiflerin daha güçlü bir fail
+iddiası taşıdığı için. Kullanılan ad da bir çerçeve taşıyor ve dosya
+bunu belirtmeden kullanmıyor.
+
+**İkinci bulgu — fail seçiminin yeri.** Yerleşmiş anlatı süreci tek bir
+siyasi birimin yükselişine bağlıyor. İtirazlar faili bölgenin içinden
+dışına taşıyor: kıyı limanlarından yürütülen ticaret ve güneydeki
+yerleşim bölgesinden gelen emek talebi.
+
+Bu, Rapa Nui dosyasında ölçülen örüntünün ikinci ölçümü. Ölçüm: **bir
+çöküş ya da altüst oluş anlatısında failin bölgenin içinde mi dışında mı
+arandığı, kanıttan önce yapılan bir seçim olabilir.**
+
+**Üçüncü bulgu — birleşik okumanın riski.** Üçüncü bir açıklama iklime
+dayanıyor ve kanıt durumu ötekilerden farklı: iklim verisi bağımsız
+üretilebiliyor, sözlü aktarımdan ya da gözlemci kaydından gelmiyor. Yeni
+bir kanıt türünün devreye girmesi tartışmayı çözmüyor ama sınanabilir
+hâle getiriyor.
+
+Buna karşılık üç açıklamayı birleştiren okuma en makul görünen ve en az
+sınanabilir olanı. Kayda geçen uyarı: **her etkeni kapsayan bir
+açıklama, hiçbirini sınamayan bir açıklama olabilir.**
+
+**Dördüncü kayıt — boşluk anlatısının işlevi.** Gözlemciler boşalmış
+alanlar gördü ve boşluğu bir yıkımla açıkladı; açıklama gözlemin kendisi
+değil bir çıkarımdı. Boşalmış toprak anlatısı, sonraki yerleşim
+hareketlerinin boş sayılan toprağa yerleşme olarak sunulmasını
+kolaylaştırdı. Dosya bunu suçlama değil işlev tespiti olarak kaydediyor:
+bir anlatının belirli bir sonucu kolaylaştırması, o amaçla üretildiğini
+göstermiyor — ama işlev yine de kaydedilmeli, çünkü bir anlatı dayandığı
+kanıt tartışmalıyken bile işlevi sayesinde ayakta kalabiliyor.
+
+**Yeni borç.** Bölgedeki siyasi birimlerin hiçbiri için ayrı bir aktör
+dosyası yok. Dosya bunu kendi metninde beyan ediyor.

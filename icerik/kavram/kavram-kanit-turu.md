@@ -45,6 +45,7 @@ ilgili:
   - kavram-belge-okumasi
   - aktor-karluklar
   - aktor-kirgizlar
+  - olay-mfecane
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

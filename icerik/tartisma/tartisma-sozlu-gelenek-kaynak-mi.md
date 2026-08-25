@@ -37,6 +37,7 @@ ilgili:
   - aktor-asanti-imparatorlugu
   - aktor-haudenosaunee
   - aktor-kus-kralligi
+  - olay-mfecane
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -23,6 +23,7 @@ ilgili:
   - kavram-sozlu-tarih
   - kavram-kanit-turu
   - tartisma-sozlu-gelenek-kaynak-mi
+  - olay-mfecane
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

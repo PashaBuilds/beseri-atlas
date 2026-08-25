@@ -36,6 +36,7 @@ ilgili:
   - aktor-tonga-kralligi
   - aktor-marathalar
   - kaynak-gulhane-hatti
+  - olay-mfecane
 okuma_onerisi: []
 serit:
   - bolge: avrupa

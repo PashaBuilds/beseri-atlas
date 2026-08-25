@@ -24,6 +24,7 @@ ilgili:
   - aktor-murabitlar
   - aktor-asanti-imparatorlugu
   - olay-adva-1896
+  - olay-mfecane
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

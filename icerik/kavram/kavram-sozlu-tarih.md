@@ -26,6 +26,7 @@ ilgili:
   - aktor-asanti-imparatorlugu
   - aktor-haudenosaunee
   - aktor-mapuche
+  - olay-mfecane
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

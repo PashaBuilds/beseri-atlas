@@ -25,6 +25,7 @@ ilgili:
   - aktor-kongo-kralligi
   - aktor-asanti-imparatorlugu
   - kaynak-liberya-bagimsizlik-bildirisi
+  - olay-mfecane
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
