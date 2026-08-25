@@ -19,7 +19,7 @@ ilgili:
   - kavram-burokrasi
   - kavram-mesruiyet
   - kavram-kaynak-elestirisi
-  - aktor-selcuklular
+  - aktor-buyuk-selcuklu
   - dusunur-han-feizi
   - kaynak-yusuf-has-hacib-kutadgu-bilig
 okuma_onerisi: []

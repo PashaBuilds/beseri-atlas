@@ -35,9 +35,8 @@ ilgili:
   - tartisma-mogol-etkisi
   - tartisma-hacli-seferlerinin-nedeni
   - aktor-karahanlilar
-  - aktor-selcuklular
   - aktor-harizmsahlar
-  - aktor-gana-kralligi
+  - aktor-gana-imparatorlugu
   - aktor-chola
 okuma_onerisi: []
 serit:

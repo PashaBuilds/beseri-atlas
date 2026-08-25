@@ -14,7 +14,7 @@ ilgili:
   - aktor-hansa-birligi
   - kavram-para
   - dusunur-ibn-battuta
-  - aktor-gana-kralligi
+  - aktor-gana-imparatorlugu
   - aktor-kanem-bornu
   - aktor-kilva
 okuma_onerisi: []

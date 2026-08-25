@@ -22,7 +22,6 @@ ilgili:
   - aktor-fatimi-hilafeti
   - kavram-tasavvuf
   - aktor-samaniler
-  - aktor-selcuklular
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -15,7 +15,7 @@ guven_geneli: yaygin
 etiketler: [kanem, bornu, cad-golu, sayfava, sahra-ticareti]
 ilgili:
   - donem-08
-  - aktor-gana-kralligi
+  - aktor-gana-imparatorlugu
   - aktor-mali-imparatorlugu
   - dusunur-ibn-battuta
   - kavram-ticaret-diasporasi
@@ -90,7 +90,7 @@ Düzenin ekonomik temeli, Sahra'yı geçen kuzey-güney ticaret yollarının
 denetimidir.[^k1][^k2] Tuz, at ve çeşitli mallar bu güzergâhta yer değiştirir;
 geçişten alınan pay siyasi düzenin gelirini oluşturur.
 
-Bu, [Gana Krallığı](/aktor/gana-kralligi/) dosyasında kaydedilen yapının bir
+Bu, [Gana İmparatorluğu](/aktor/gana-imparatorlugu/) dosyasında kaydedilen yapının bir
 başka örneğidir. İki dosya birlikte okunduğunda, Sahra'nın güney kıyısında
 kurulan siyasi düzenlerin ortak bir ekonomik biçimi paylaştığı görünür:
 üretimden değil geçişten beslenmek.[^k1]
@@ -107,7 +107,7 @@ olmasıdır.[^k2] On altıncı yüzyılda Kuzey Afrika'yı ve Sahra'nın güneyi
 dolaşmış bir coğrafyacının eseri, bölgeye dair doğrudan gözlem içeren ender
 kayıtlardandır.
 
-Bu, atlasın [Gana Krallığı](/aktor/gana-kralligi/) dosyasındaki durumdan
+Bu, atlasın [Gana İmparatorluğu](/aktor/gana-imparatorlugu/) dosyasındaki durumdan
 farklıdır: orada elimizdeki tarifler, bölgeye hiç gitmemiş derleyicilerin
 aktarımlarıydı.[^k1] Burada aktarım zinciri bir halka kısalır.
 
@@ -213,7 +213,7 @@ bu dosyada işlenmez;[^k3] iklim ve yerleşim ilişkisi atlasın
 
 ## İki Afrika dosyasının karşılaştırılması
 
-Bu dosya ile [Gana Krallığı](/aktor/gana-kralligi/) dosyası, atlasın Afrika
+Bu dosya ile [Gana İmparatorluğu](/aktor/gana-imparatorlugu/) dosyası, atlasın Afrika
 kümesinde kaynak durumu bakımından iki uçta durur. Biri yalnızca uzaktan
 derlenmiş aktarımlara dayanır; öteki, bölgeyi gezmiş bir yazarın kaydına
 bağlanabilir.[^k1][^k2]
@@ -232,7 +232,7 @@ arşivlere bağlı olduğunu gösterir.
 
 ## Okuma yönlendirmesi
 
-Aynı ekonomik biçimin batıdaki örnekleri için [Gana Krallığı](/aktor/gana-kralligi/)
+Aynı ekonomik biçimin batıdaki örnekleri için [Gana İmparatorluğu](/aktor/gana-imparatorlugu/)
 ve [Mali İmparatorluğu](/aktor/mali-imparatorlugu/) dosyaları okunmalıdır.
 Bölgeyi gezip yazan bir başka kaynak için [İbn Battûta](/dusunur/ibn-battuta/)
 dosyası uygundur; iki gezginin kayıtları arasındaki fark, aynı bölgenin iki

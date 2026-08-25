@@ -17,6 +17,7 @@ ilgili:
   - kavram-mesruiyet
   - kavram-bozkir-imparatorlugu
   - kaynak-orhon-yazitlari
+  - aktor-buyuk-selcuklu
 okuma_onerisi: []
 yazar: "Yûsuf Has Hâcib"
 eser_adi: "Kutadgu Bilig"

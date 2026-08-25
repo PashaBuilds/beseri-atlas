@@ -18,6 +18,7 @@ ilgili:
   - kavram-tarih-yazimi
   - kavram-sozlu-tarih
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - aktor-gana-imparatorlugu
 okuma_onerisi: []
 yazar: "Abdurrahman es-Sa'dî ve devamcıları"
 eser_adi: "Târîhu's-Sûdân / Târîhu'l-Fettâş"

@@ -60,7 +60,7 @@ ilgili:
   - tartisma-soykirim-kavrami
   - veri-fosil-elektrik-payi
   - dusunur-ibn-battuta
-  - aktor-gana-kralligi
+  - aktor-gana-imparatorlugu
   - kaynak-timbuktu-tarihleri
 okuma_onerisi: []
 hakem_yok: true

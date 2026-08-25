@@ -19,7 +19,7 @@ ilgili:
   - kavram-ticaret-diasporasi
   - tartisma-tarihsel-sayilar-nasil-okunur
   - olay-mansa-musa-haci
-  - aktor-gana-kralligi
+  - aktor-gana-imparatorlugu
   - aktor-kanem-bornu
   - aktor-kilva
 okuma_onerisi: []

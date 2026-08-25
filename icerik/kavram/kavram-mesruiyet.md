@@ -26,7 +26,7 @@ ilgili:
   - kaynak-farabi-medinetul-fazila
   - veri-demokrasi-endeksi
   - dusunur-nizamulmulk
-  - aktor-selcuklular
+  - aktor-buyuk-selcuklu
   - aktor-kanem-bornu
   - dusunur-asoka
   - kavram-legalizm

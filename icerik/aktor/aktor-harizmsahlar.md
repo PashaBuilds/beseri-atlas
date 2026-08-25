@@ -15,7 +15,7 @@ guven_geneli: yaygin
 etiketler: [harizmsahlar, harizm, mogol, cuveyni, kaynak-tarafliligi]
 ilgili:
   - donem-07
-  - aktor-selcuklular
+  - aktor-buyuk-selcuklu
   - aktor-mogol-imparatorlugu
   - kavram-kaynak-elestirisi
   - tartisma-mogol-etkisi
@@ -55,7 +55,7 @@ Hârizmşahlar, Ceyhun'un aşağı havzasındaki Hârizm bölgesinde kurulan ve
 zamanla İran ile Mâverâünnehir'e uzanan bir siyasi düzendir.[^k1] Atlasın bölge
 şemasında Orta Asya ile İslam dünyasının kesiştiği yerde durur.
 
-Hanedan, başlangıçta [Selçuklular](/aktor/selcuklular/) adına bölgeyi yöneten
+Hanedan, başlangıçta [Selçuklular](/aktor/buyuk-selcuklu/) adına bölgeyi yöneten
 bir valilik olarak ortaya çıkmış, sonraki kuşaklarda bağımsız bir siyasi güce
 dönüşmüştür.[^k1] Bu geçiş, atlasın aktör dosyalarında sık rastlanan bir
 biçimdir: bir görevin zamanla bir hanedana dönüşmesi.
@@ -231,7 +231,7 @@ Aynı olayları karşı taraftan okumak için
 [Moğol İmparatorluğu](/aktor/mogol-imparatorlugu/), yıkımın ölçüsü tartışması
 için [Moğol etkisi](/tartisma/mogol-etkisi/) dosyaları okunmalıdır.
 
-Hanedanın çıktığı siyasi düzen için [Selçuklular](/aktor/selcuklular/) dosyası,
+Hanedanın çıktığı siyasi düzen için [Selçuklular](/aktor/buyuk-selcuklu/) dosyası,
 bu dosyanın kaynak sorununun genel biçimi için
 [Kaynak eleştirisi](/kavram/kaynak-elestirisi/) dosyası uygundur.
 

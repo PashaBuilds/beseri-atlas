@@ -17,7 +17,7 @@ ilgili:
   - kavram-vergi
   - tartisma-osmanli-gerileme-tezi
   - dusunur-nizamulmulk
-  - aktor-selcuklular
+  - aktor-buyuk-selcuklu
   - aktor-chola
   - dusunur-han-feizi
   - kavram-legalizm

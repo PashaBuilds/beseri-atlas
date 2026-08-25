@@ -11,10 +11,10 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 383 |
-| Toplam künye | 1249 |
-| Giriş kapısı kuralını aşan makale | 226 |
-| Birincil kaynağı olmayan makale | 233 |
+| Ölçülen makale | 381 |
+| Toplam künye | 1246 |
+| Giriş kapısı kuralını aşan makale | 225 |
+| Birincil kaynağı olmayan makale | 232 |
 | Giriş kapısı künyesi payı | 48% |
 
 ## Tipe göre borçlu makale
@@ -22,7 +22,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Tip | Borçlu |
 |---|---|
 | olay | 76 |
-| aktor | 63 |
+| aktor | 62 |
 | kavram | 59 |
 | tartisma | 34 |
 | kaynak | 27 |
@@ -62,7 +62,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `aktor-cin-halk-cumhuriyeti` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-delhi-sultanligi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-eyyubi-devleti` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `aktor-gana-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-gokturk-kaganligi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-goryeo-choson` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-gupta-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
@@ -264,7 +263,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `aktor-babur-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-emevi-hilafeti` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-etiyopya-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
-| `aktor-gana-kralligi` | 3 | 1 | 0 | birincil kaynak yok |
+| `aktor-gana-imparatorlugu` | 4 | 1 | 0 | birincil kaynak yok |
 | `aktor-karolenj-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-mali-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-ming-hanedani` | 3 | 1 | 0 | birincil kaynak yok |

@@ -20,7 +20,6 @@ ilgili:
   - aktor-gana-imparatorlugu
   - aktor-songhay-imparatorlugu
   - dusunur-ibn-battuta
-  - aktor-gana-kralligi
   - aktor-kanem-bornu
   - kaynak-timbuktu-tarihleri
 okuma_onerisi: []

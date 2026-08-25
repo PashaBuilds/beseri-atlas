@@ -21,7 +21,7 @@ ilgili:
   - dusunur-nizamulmulk
   - aktor-harizmsahlar
   - dusunur-ibn-battuta
-  - aktor-gana-kralligi
+  - aktor-gana-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

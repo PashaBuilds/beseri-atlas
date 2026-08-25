@@ -21,7 +21,7 @@ ilgili:
   - kavram-ticaret-diasporasi
   - kavram-sehir-devleti
   - kavram-arkeolojik-kanit
-  - aktor-gana-kralligi
+  - aktor-gana-imparatorlugu
   - aktor-indus-vadisi
   - aktor-chola
 okuma_onerisi: []
@@ -139,7 +139,7 @@ sınır olarak okunmamalıdır.
 
 Kırılmanın biçimi kayda değerdir: ticaret ağı ortadan kalkmamış, ağdaki
 aracılık payı el değiştirmiştir.[^k1] Aynı örüntü atlasın
-[Gana Krallığı](/aktor/gana-kralligi/) ve [Kanem-Bornu](/aktor/kanem-bornu/)
+[Gana İmparatorluğu](/aktor/gana-imparatorlugu/) ve [Kanem-Bornu](/aktor/kanem-bornu/)
 dosyalarında da kaydedilmişti; geçiş gelirine dayanan düzenler, akış yön
 değiştirdiğinde değil, akışın denetimi el değiştirdiğinde zayıflar.
 
@@ -242,7 +242,7 @@ Ticaret zincirinin iç bölgedeki ucu için [Büyük Zimbabve](/aktor/buyuk-zimb
 kıyıyı gezip yazan kaynağın kendisi için [İbn Battûta](/dusunur/ibn-battuta/)
 dosyaları okunmalıdır.
 
-Aynı ekonomik biçimin batıdaki örnekleri için [Gana Krallığı](/aktor/gana-kralligi/)
+Aynı ekonomik biçimin batıdaki örnekleri için [Gana İmparatorluğu](/aktor/gana-imparatorlugu/)
 ve [Kanem-Bornu](/aktor/kanem-bornu/), tüccar toplulukları için
 [Ticaret diasporası](/kavram/ticaret-diasporasi/) dosyaları uygundur.
 

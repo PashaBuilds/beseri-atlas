@@ -21,7 +21,7 @@ ilgili:
   - dusunur-biruni
   - kavram-kaynak-elestirisi
   - dusunur-nizamulmulk
-  - aktor-selcuklular
+  - aktor-buyuk-selcuklu
   - aktor-kanem-bornu
   - kaynak-yusuf-has-hacib-kutadgu-bilig
 okuma_onerisi: []
