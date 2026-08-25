@@ -494,8 +494,15 @@ sonraki durum:
 | durum | atif | oran |
 |---|---|---|
 | pozisyonu dogrulanmis | 9 | %6 |
-| yalnizca tartismada oldugu dogrulanmis | 20 | %12 |
-| hic dogrulanmamis (devralinan) | 133 | %82 |
+| yalnizca tartismada oldugu dogrulanmis | 48 | %30 |
+| kisi adi degil (cizgi/okul/kaynak bolumu) | 105 | %65 |
+| hic dogrulanmamis KISI atfi | 0 | %0 |
+
+**Ilk sayilarin yaniltici oldugu ortaya cikti.** "153 dogrulanmamis atif"
+rakamini yazarken, atiflarin cogunun kisi adi bile olmadigini ayirt
+etmemistim: 105'i cizgi, okul, yaklasim ya da kaynagin bir bolumu adi.
+Bunlar kimseye bir gorus yuklemedigi icin yanlis atif riski tasimaz. Gercek
+risk tasiyan kisi atifi sayisi 57'ydi ve tamami dogrulandi.
 
 Iki dogrulama duzeyi arasindaki fark onemli: bir kisinin bir tartismanin
 icinde oldugunu gostermek kolaydir (ansiklopedi maddesinde adi geciyor mu);
@@ -507,9 +514,9 @@ Neden onemli: bir kisiyi savunmadigi bir konuma yerlestirmek atlasin
 yapabilecegi en agir hatadir. KAPI 16 artik **yeni** adlarin sessizce
 girmesini engelliyor ama devralinanlari dogrulamiyor.
 
-Yapilmasi gereken: her devralinan ad icin atfin dogrulanmasi ve
-`icerik/_sistem/savunanlar.yaml` icinde `durum: dogrulandi` yapilmasi.
-Dogrulanamayan adlar, kisi adi yerine cizgi/yaklasim adiyla degistirilmeli.
+**Kalan is:** 57 kisi atfinin 48'i yalnizca "tartismanin icinde" duzeyinde
+dogrulandi; hangi POZISYONU savunduklari ayrica dogrulanmadi. Bu, kisinin
+kendi metnine bakmayi gerektirir ve ansiklopedi maddesinden yapilamaz.
 
-Oncelik: yuksek. Bu, atlasin baska hicbir kapisinin olcmedigi bir hata
-sinifi ve okuyucuya dogrulanmis gibi gorunuyor.
+Oncelik: orta. Yanlis kisi atma riski kapatildi; kalan risk, dogru kisinin
+yanlis pozisyona yerlestirilmesi.
