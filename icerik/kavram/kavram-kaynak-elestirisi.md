@@ -23,6 +23,7 @@ ilgili:
   - dusunur-ibn-battuta
   - aktor-gana-imparatorlugu
   - aktor-sogdlular
+  - dusunur-nagarjuna
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

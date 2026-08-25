@@ -17,6 +17,7 @@ ilgili:
   - tartisma-kesif-mi-istila-mi
   - tartisma-somurgeciligin-ekonomik-bilancosu
   - dusunur-fanon
+  - dusunur-du-bois
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

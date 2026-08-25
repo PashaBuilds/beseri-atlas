@@ -21,6 +21,7 @@ ilgili:
   - kavram-legalizm
   - kavram-mesruiyet
   - kavram-goksel-yetki
+  - dusunur-nagarjuna
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

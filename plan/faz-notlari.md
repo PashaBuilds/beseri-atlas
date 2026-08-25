@@ -1041,3 +1041,40 @@ bolum basina kelime 62'den 47'ye dustu. Dogru kural: bolum sayisi degil,
 paragraf basina 40-45 kelime hedeflenmeli.
 
 Toplam makale 394 -> 397.
+
+## Tur 35 — dusunur katmani: iki dosya, bir reddedilen kaynak (2026-08-25)
+
+- **dusunur-du-bois** (1218 kelime): kavramsal cerceve ile saha arastirmasini
+  ayni kiside birlestiren ornek. Dosyanin en dikkate deger kaydi, dusunurun
+  kendi beklentisini kendi verisiyle curutmus olmasi: bilimsel arastirmanin
+  ayrimciligi azaltacagi beklentisini, topladigi veri ayrimciligin bilgi
+  eksikliginden kaynaklanmadigini gosterince acikca terk etmis. Atlas bunu
+  bir tutarsizlik degil bir bulgu olarak kaydediyor.
+- **dusunur-nagarjuna** (1214 kelime): olumlu bir tez savunmadan ilerleyen
+  bir yontemin kendi konumunun ne oldugu sorusu; cizginin kendi icindeki
+  yuzyillik bolunme tam bu noktadan cikiyor.
+
+### Reddedilen kaynak: ctext.org/wang-yangming
+
+Wang Yangming icin ctext.org'daki metin denendi ve sayfa **CAPTCHA
+dondurdu** ("Please confirm that you are human"). Kunyeye alinmadi ve dosya
+bu turda yazilmadi.
+
+Bu, beyaz listedeki bir alan adinin her sayfasinin erisilebilir olmadigini
+gosteriyor. ctext.org atlasin en cok kullandigi birincil kaynak alanlarindan
+biri (Analects, Mengzi, Dao De Jing, Zhuangzi, Hanfeizi, Shiji, Zhuzi Yulei)
+ve bu sayfalarin hepsi calisiyor; ama alan adi duzeyinde bir garanti yok.
+KAPI 10 zaten sayfa metnini kontrol ettigi icin boyle bir kunye derlemede
+kirilirdi — yani kapi is gorurdu. Yine de kunyeye almadan once elle
+kontrol etmek daha ucuz.
+
+### Nagarjuna dosyasinda beyan edilen kisit
+
+Dosyanin uc kaynagindan **hicbiri birincil degil.** archive.org'da bulunan
+kayitlarin yazar, tarih ve dil alanlari bostu; atlasin kaynak sarti
+karsilanmadi. Dosya yine de yazildi cunku boslugun kendisi bir bilgi:
+Guney Asya felsefe gelenegin en cok atif alan figurlerinden birinin
+dogrulanabilir bir dijital metninin bulunmamasi, dijital erisimin nasil
+dagildigina dair bir kayit. Kisit dosyanin govdesinde acikca yazili.
+
+Toplam makale 397 -> 399.

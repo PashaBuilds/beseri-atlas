@@ -17,6 +17,7 @@ ilgili:
   - aktor-maurya-imparatorlugu
   - olay-kavimler-gocu
   - kavram-kast
+  - dusunur-nagarjuna
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

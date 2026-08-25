@@ -14,6 +14,7 @@ ilgili:
   - kavram-mesruiyet
   - dusunur-durkheim
   - kaynak-durkheim-intihar
+  - dusunur-du-bois
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

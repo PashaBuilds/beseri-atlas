@@ -16,6 +16,7 @@ ilgili:
   - kavram-imparatorluk
   - tartisma-somurgeciligin-ekonomik-bilancosu
   - dusunur-fanon
+  - dusunur-du-bois
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

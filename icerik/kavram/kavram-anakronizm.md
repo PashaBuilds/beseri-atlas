@@ -26,6 +26,7 @@ ilgili:
   - kaynak-kautilya-arthasastra
   - kaynak-popol-vuh
   - dusunur-zhu-xi
+  - dusunur-nagarjuna
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

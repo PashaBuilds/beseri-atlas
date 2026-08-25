@@ -41,6 +41,7 @@ ilgili:
   - tartisma-buyuk-adam-kurami
   - tartisma-somurgeciligin-ekonomik-bilancosu
   - kaynak-hobsbawm-caglar
+  - dusunur-du-bois
 okuma_onerisi: []
 serit:
   - bolge: afrika

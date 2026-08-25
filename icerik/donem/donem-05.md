@@ -30,6 +30,7 @@ ilgili:
   - aktor-hun-imparatorlugu
   - aktor-gokturk-kaganligi
   - aktor-sogdlular
+  - dusunur-nagarjuna
 okuma_onerisi: []
 serit:
   - bolge: avrupa

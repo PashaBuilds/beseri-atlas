@@ -17,6 +17,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - olay-amerikan-devrimi
   - aktor-abd
+  - dusunur-du-bois
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
