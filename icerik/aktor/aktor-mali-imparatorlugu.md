@@ -24,6 +24,8 @@ ilgili:
   - kaynak-timbuktu-tarihleri
   - aktor-murabitlar
   - aktor-muvahhidler
+  - kaynak-ibn-battuta-rihle
+  - kaynak-kurukan-fuga-sarti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

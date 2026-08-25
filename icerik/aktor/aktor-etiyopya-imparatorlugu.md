@@ -18,6 +18,7 @@ ilgili:
   - aktor-aksum-kralligi
   - aktor-osmanli-imparatorlugu
   - olay-adva-1896
+  - kaynak-fetha-nagast
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

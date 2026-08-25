@@ -23,6 +23,7 @@ ilgili:
   - kavram-belge-okumasi
   - dusunur-ibn-haldun
   - kavram-tarih-yazimi
+  - kaynak-fetha-nagast
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

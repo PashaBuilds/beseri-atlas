@@ -48,6 +48,7 @@ ilgili:
   - olay-mfecane
   - aktor-komance
   - kaynak-piri-reis-kitab-i-bahriye
+  - kaynak-ibn-battuta-rihle
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

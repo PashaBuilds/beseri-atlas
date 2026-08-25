@@ -18,6 +18,7 @@ ilgili:
   - aktor-roma-imparatorlugu
   - aktor-etiyopya-imparatorlugu
   - aktor-kus-kralligi
+  - kaynak-fetha-nagast
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -32,6 +32,8 @@ ilgili:
   - kavram-birincil-kaynak
   - kavram-mesruiyet
   - kavram-kaynak-elestirisi
+  - kaynak-fetha-nagast
+  - kaynak-kurukan-fuga-sarti
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

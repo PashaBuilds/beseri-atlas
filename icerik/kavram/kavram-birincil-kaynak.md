@@ -39,6 +39,9 @@ ilgili:
   - tartisma-belge-ne-zaman-yururlukte
   - dusunur-katib-celebi
   - kaynak-piri-reis-kitab-i-bahriye
+  - kaynak-fetha-nagast
+  - kaynak-ibn-battuta-rihle
+  - kaynak-kurukan-fuga-sarti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

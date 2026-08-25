@@ -18,6 +18,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - dusunur-ibn-battuta
   - kaynak-timbuktu-tarihleri
+  - kaynak-ibn-battuta-rihle
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

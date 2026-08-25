@@ -47,6 +47,9 @@ ilgili:
   - aktor-cahokia
   - aktor-rapa-nui
   - aktor-vijayanagara
+  - kaynak-fetha-nagast
+  - kaynak-ibn-battuta-rihle
+  - kaynak-kurukan-fuga-sarti
 okuma_onerisi: []
 serit:
   - bolge: avrupa

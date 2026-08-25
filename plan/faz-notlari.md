@@ -3096,3 +3096,33 @@ kapısı olarak (dosya başına bir tane). İki eserin de doğrulanabilir
 çevrimiçi tam metni bulunamadı; kısıt her iki dosyada da beyan edildi.
 
 Açık borç: iki eserin tam metni künyelenemedi.
+
+## 2026-08-26 — Afrika birincil kaynak katmanı
+
+Denetim defterindeki "sömürge öncesi Afrika hukuk belgesi yok" borcu
+kapatıldı; yanına iki dosya daha kondu.
+
+- `kaynak-fetha-nagast` — Mısır'da Arapça derlenip Etiyopya'da Geez'e
+  çevrilerek yüzyıllarca yürürlükte kalan kanun kitabı. Ölçüm: bir
+  düzenin temel hukuku dışarıdan çeviriyle gelmiş olabilir; yürürlükte
+  olması yerli olmasını gerektirmez.
+- `kaynak-kurukan-fuga-sarti` — on üçüncü yüzyılda ilan edildiği
+  aktarılan, yazılı metni yirminci yüzyılda derlenen düzen belgesi.
+  Ölçüm: bir belgenin ilan tarihi ile elde bulunan metninin tarihi ayrı
+  iki veridir. `guven_geneli: tartismali`, iki tartışma dosyasına bağlı.
+- `kaynak-ibn-battuta-rihle` — atlasta on'dan fazla dosyada tanık
+  olarak anılan metnin kendi güvenilirlik kuralları. Ölçüm: bir eserin
+  bütünü için verilen güven derecesi her bölümü için geçerli değildir.
+
+Künye notu: Ibn Battûta'nın 1829 Lee çevirisinin Royal College of
+Physicians / Wellcome taraması (`archive.org/details/b28406084`)
+birincil-tanık olarak künyelendi; kurum taraması olduğu için
+provenansı doğrulanabilir.
+
+Reddedilen: `fetha-nagast-english-translation` (archive.org) — tek
+kullanımlık e-posta adresli yükleyici, yayıncı ve çevirmen bilgisi yok,
+büyük olasılıkla hâlâ telifli bir çevirinin izinsiz kopyası.
+
+Açık borç: Fetha Nagast'ın kölelik hükümleri ayrı dosya bekliyor;
+Kurukan Fuga'nın derlenmiş sürümlerinin doğrulanabilir tam metni
+künyelenemedi.

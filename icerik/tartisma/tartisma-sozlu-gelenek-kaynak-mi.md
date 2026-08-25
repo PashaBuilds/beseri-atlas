@@ -38,6 +38,8 @@ ilgili:
   - aktor-haudenosaunee
   - aktor-kus-kralligi
   - olay-mfecane
+  - kaynak-ibn-battuta-rihle
+  - kaynak-kurukan-fuga-sarti
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -26,6 +26,7 @@ ilgili:
   - aktor-chola
   - kavram-hint-okyanusu-ticareti
   - kavram-svahili-kiyisi
+  - kaynak-ibn-battuta-rihle
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

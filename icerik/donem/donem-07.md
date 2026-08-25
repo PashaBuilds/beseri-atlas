@@ -52,6 +52,9 @@ ilgili:
   - kaynak-magna-carta
   - aktor-karluklar
   - aktor-kirgizlar
+  - kaynak-fetha-nagast
+  - kaynak-ibn-battuta-rihle
+  - kaynak-kurukan-fuga-sarti
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

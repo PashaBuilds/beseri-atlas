@@ -24,6 +24,8 @@ ilgili:
   - tartisma-belge-ne-zaman-yururlukte
   - olay-adva-1896
   - dusunur-katib-celebi
+  - kaynak-fetha-nagast
+  - kaynak-kurukan-fuga-sarti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

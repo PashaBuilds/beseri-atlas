@@ -36,6 +36,7 @@ ilgili:
   - tartisma-belge-ne-zaman-yururlukte
   - dusunur-katib-celebi
   - kaynak-piri-reis-kitab-i-bahriye
+  - kaynak-ibn-battuta-rihle
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
