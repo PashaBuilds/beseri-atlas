@@ -15,6 +15,7 @@ ilgili:
   - olay-hindistan-bolunmesi
   - kavram-imparatorluk
   - tartisma-somurgeciligin-ekonomik-bilancosu
+  - dusunur-fanon
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

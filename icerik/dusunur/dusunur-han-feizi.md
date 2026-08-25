@@ -21,6 +21,7 @@ ilgili:
   - kavram-legalizm
   - kavram-taoizm
   - kavram-konfucyuscluk
+  - dusunur-mengzi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

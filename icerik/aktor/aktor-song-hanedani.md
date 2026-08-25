@@ -21,6 +21,7 @@ ilgili:
   - aktor-hansa-birligi
   - olay-sanayi-devrimi
   - kavram-para
+  - dusunur-zhu-xi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

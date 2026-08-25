@@ -993,3 +993,51 @@ hedef gecerli bir dosya. **Kendine giden bag icin kapi yok.** Kuyruga
 eklendi: KAPI 4'e oz-bag denetimi.
 
 Toplam makale 390 -> 394.
+
+## Tur 34 — KAPI 5'e oz-bag denetimi + dusunur katmaninin dengesi (2026-08-25)
+
+### KAPI 5 genisletildi
+
+Onceki turda yakalanan hata (dosyanin govdesinde kendisine giden bag) icin
+denetim eklendi. `ilgili` ve `okuma_onerisi` alanlarinda oz-referans zaten
+denetleniyordu; **govdedeki markdown baglarinda denetlenmiyordu.** Hedef
+gecerli bir dosya oldugu icin kirik-link denetiminden geciyordu.
+
+Dogrulama: gercek korpusta 0 hata; kendine bag veren sahte bir makalede
+yakaliyor.
+
+### Dusunur katmaninin dengesi
+
+42 dosyanin yaklasik 24'u Avrupa kokenliydi. Uc dosya eklendi:
+
+- **dusunur-zhu-xi** (1221 kelime): bin bes yuz yillik bir metin gelenegini
+  yeniden duzenleyip sinav mufredati haline getirmesi. Bir yorumun resmi
+  dogru sayilmasinin sonucu ikili: yorum hem korunur hem tartisilamaz hale
+  gelir; ikisi ayni kurumun eseri.
+- **dusunur-mengzi** (1206 kelime): mesruiyeti yonetilenlerin refahina
+  baglamasi. Atlasta metni zaten kunyeliydi ama kisisi icin dosya yoktu —
+  sik kullanilan bir kaynagin arkasindaki kisi kendi dosyasini hak eder,
+  aksi halde kaynak gorunmez bir otoriteye donusur.
+- **dusunur-fanon** (1215 kelime): somurgesizlesme tartismasini kisi
+  duzeyinde ilk kez temsil ediyor.
+
+### Fanon dosyasinda dikkat edilen nokta
+
+Atlasta somurgesizlesme kavram ve olay dosyalari vardi ama **duzenin
+yonetilen tarafindan yazan bir dusunur yoktu.** Kaynak bilesimi denetimi bu
+dengesizligi olcmez: kunye cesitliligi saglanmis olabilir ama kimin yazdigi
+sorusu ayri bir olcum gerektirir. Bu, dosyanin icinde de kaydedildi.
+
+Siddet bolumleri konusunda atlas iki okumayi da kaydediyor ve metni bir
+taraf lehine ozetlemiyor. Uc ayri elestiri grubu (yontemsel, kadinlarin
+konumu, siyasi sonuclar) ayri ayri kaydedildi; farkli gerekcelerle
+yoneltilmis itirazlari tek basliga toplamak tartismayi gizler.
+
+### Uzunluk kalibrasyonu duzeltildi
+
+Onceki turda "22 bolum ~1250 kelime" yazmistim; bu turda 21 bolum 997 kelime
+verdi. Sebep bolum sayisi degil **paragraf uzunlugu**: paragraflar kisaldikca
+bolum basina kelime 62'den 47'ye dustu. Dogru kural: bolum sayisi degil,
+paragraf basina 40-45 kelime hedeflenmeli.
+
+Toplam makale 394 -> 397.

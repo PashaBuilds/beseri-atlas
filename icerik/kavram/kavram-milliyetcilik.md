@@ -17,6 +17,7 @@ ilgili:
   - kavram-ulus-devlet
   - tartisma-milliyetcilik-ne-zaman
   - tartisma-soykirim-kavrami
+  - dusunur-fanon
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

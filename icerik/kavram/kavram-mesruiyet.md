@@ -36,6 +36,7 @@ ilgili:
   - kaynak-guaman-poma-nueva-coronica
   - aktor-pagan-kralligi
   - kaynak-baburname
+  - dusunur-mengzi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

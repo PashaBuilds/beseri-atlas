@@ -25,6 +25,7 @@ ilgili:
   - tartisma-karsi-olgusal-tarih
   - kaynak-guaman-poma-nueva-coronica
   - kaynak-timbuktu-tarihleri
+  - dusunur-zhu-xi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

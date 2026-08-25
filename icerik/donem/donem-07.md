@@ -40,6 +40,7 @@ ilgili:
   - aktor-chola
   - aktor-pagan-kralligi
   - aktor-maldiv-sultanligi
+  - dusunur-zhu-xi
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

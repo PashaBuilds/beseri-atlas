@@ -17,6 +17,7 @@ ilgili:
   - olay-hindistan-bolunmesi
   - olay-suveys-krizi
   - aktor-baglantisizlar-hareketi
+  - dusunur-fanon
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

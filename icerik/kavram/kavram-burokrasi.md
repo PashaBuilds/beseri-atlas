@@ -23,6 +23,7 @@ ilgili:
   - kavram-legalizm
   - kaynak-kautilya-arthasastra
   - kaynak-ain-i-akbari
+  - dusunur-zhu-xi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -13,6 +13,7 @@ ilgili:
   - kavram-mesruiyet
   - aktor-han-imparatorlugu
   - aktor-qing-hanedani
+  - dusunur-mengzi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

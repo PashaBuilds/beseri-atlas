@@ -32,6 +32,7 @@ ilgili:
   - kavram-eksen-cagi
   - tartisma-eksen-cagi-gercek-mi
   - tartisma-antik-kolelik-ekonomisi
+  - dusunur-mengzi
 okuma_onerisi: []
 serit:
   - bolge: dogu-asya

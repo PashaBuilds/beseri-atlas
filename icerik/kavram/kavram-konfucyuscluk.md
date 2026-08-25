@@ -17,6 +17,8 @@ ilgili:
   - dusunur-han-feizi
   - kavram-anakronizm
   - tartisma-feodalite-kavrami
+  - dusunur-zhu-xi
+  - dusunur-mengzi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

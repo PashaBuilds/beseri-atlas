@@ -20,6 +20,7 @@ ilgili:
   - kavram-bagimlilik-kurami
   - kavram-somurgesizlesme
   - tartisma-somurgeciligin-ekonomik-bilancosu
+  - dusunur-fanon
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

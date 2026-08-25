@@ -41,6 +41,10 @@ export function linkDenetimi(makaleler) {
       const parca = l[1].split('/').filter(Boolean);
       const hedef = `${parca[0]}-${parca[1]}`;
       if (!idler.has(hedef)) r.hata(m.goreli, `kirik ic link: ${l[1]}`);
+      // Kendine giden bag: hedef gecerli bir dosya oldugu icin yukaridaki
+      // denetimden gecer ama okuyucu icin islevsizdir. 2026-08-25'te
+      // aktor-gucerat-sultanligi dosyasinda bir ornegi elle yakalandi.
+      else if (hedef === kendi) r.hata(m.goreli, `govde kendine bag veriyor: ${l[1]}`);
     }
 
     // donem alani gercek bir donem makalesine baglanmali

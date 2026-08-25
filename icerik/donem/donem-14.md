@@ -46,6 +46,7 @@ ilgili:
   - olay-iran-devrimi-1979
   - tartisma-soguk-savasin-baslangici
   - tartisma-kalkinma-neden-basarisiz
+  - dusunur-fanon
 okuma_onerisi: []
 serit:
   - bolge: avrupa

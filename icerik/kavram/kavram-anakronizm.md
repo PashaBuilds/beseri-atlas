@@ -25,6 +25,7 @@ ilgili:
   - kavram-konfucyuscluk
   - kaynak-kautilya-arthasastra
   - kaynak-popol-vuh
+  - dusunur-zhu-xi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

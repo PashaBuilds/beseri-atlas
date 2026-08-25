@@ -30,6 +30,7 @@ ilgili:
   - tartisma-kalkinma-yardimi-ise-yariyor-mu
   - veri-kuresel-esitsizlik
   - aktor-ace-sultanligi
+  - dusunur-fanon
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

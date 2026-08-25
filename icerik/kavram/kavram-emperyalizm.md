@@ -16,6 +16,7 @@ ilgili:
   - kavram-somurgesizlesme
   - tartisma-kesif-mi-istila-mi
   - tartisma-somurgeciligin-ekonomik-bilancosu
+  - dusunur-fanon
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
