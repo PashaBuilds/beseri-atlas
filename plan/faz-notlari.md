@@ -1576,3 +1576,46 @@ KAPI 9 bir eksik yakaladi: guven_geneli=tartismali oldugu halde ne
 yonetimini nasil degerlendirdigi tartismasi eklendi.
 
 Toplam makale 420 -> 421.
+
+## Tur — düşünür katmanının Doğu Asya ve Güney Asya kolu (25 Ağustos 2026)
+
+Eklenen: `dusunur-wang-yangming`, `dusunur-sankara`. Toplam 421 → 423.
+
+**Neden bu ikisi.** Düşünür katmanı 47 dosyaydı ve ağırlığı Avrupa'daydı.
+Doğu Asya'da yalnızca Konfüçyüs, Mengzi, Han Feizi, Sima Qian ve Zhu Xi;
+Güney Asya'da Kautilya, Aşoka ve Nagarjuna vardı. İki dosya da mevcut bir
+dosyanın karşı tarafını tamamlıyor: Wang Yangming olmadan Zhu Xi dosyası
+tek taraflı kalıyordu, Şankara olmadan Nagarjuna'nın hangi konuma karşı
+okunacağı görünmüyordu.
+
+**Wang Yangming'in atlasa kattığı soru.** Resmî bir doğru ilan edildiğinde
+ne olur. Dosya üç adımlı bir örüntü kaydediyor: yorum kurumsallaşır,
+kurumsallaşma onu tartışılmaz kılar, tartışılmazlık ona en iyi hâkim olanın
+itirazını üretir. Örüntü bir yasa olarak değil tekrar eden bir gözlem
+olarak yazıldı.
+
+**Şankara'nın atlasa kattığı soru.** Yazar kendi konumunu yalnızca
+başkasının metnine yazdığı şerhin içinde kurduğunda, ona ait olanı nasıl
+ayırt ederiz. Dosya iki kayda bağlanıyor: (1) şerh türünün kuralı karşı
+görüşü kendi gerekçeleriyle kurmayı zorunlu kılar, bu yüzden metin
+kaybolmuş rakip görüşlerin tek kaynağı olabilir; (2) bu düşünüre atfedilen
+metinlerin çoğu ona ait değildir ve künye şemasındaki `yazar` alanı bu
+durumda bir kesinlik izlenimi üretir — kural olarak katalog atfı künyeye
+yazıldı, atfın tartışmalı olduğu metinde belirtildi.
+
+**Kaynak durumu.** Wang Yangming için birincil metin (Chuanxilu)
+künyelenemedi; ctext.org'da doğrulanabilir bir kayıt bulunamadı ve dosyada
+bu kısıt beyan edildi. Şankara için 1890 tarihli Thibaut çevirisi
+(`archive.org/details/vedntasutrastr01bdar`) künyelendi; katalogda yaratıcı
+alanında Sankaracarya ve Thibaut görünüyor, erişim kısıtı yok, PDF ve metin
+indirilebilir. Altı künyenin altısı da taze ağ denetiminden geçti.
+
+**Reddedilenler.** `plato.stanford.edu/entries/vedanta/` ve
+`.../advaita-vedanta/` 404 döndü; `sacred-texts.com/hin/sbe34/` 403 döndü
+(otomasyon engeli); `archive.org/details/vedantasutraswit01badauoft` 404.
+`ctext.org/wiki.pl?if=en&res=195345` 200 döndü ama içeriğinin Chuanxilu
+olduğu doğrulanamadığı için künyelenmedi.
+
+**Tekrar eden kalibrasyon.** İki dosyanın da ilk hâli hedefin %82 ve
+%89'unda kaldı. Düşünür dosyaları için 18 bölüm yetmiyor; 22 bölüm
+gerekiyor. Bu, üçüncü kez aynı yerde ölçülüyor.

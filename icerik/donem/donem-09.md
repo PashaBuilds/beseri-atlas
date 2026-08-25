@@ -33,6 +33,7 @@ ilgili:
   - tartisma-vestfalya-miti
   - aktor-ace-sultanligi
   - olay-malaka-fethi-1511
+  - dusunur-wang-yangming
 okuma_onerisi: []
 serit:
   - bolge: avrupa

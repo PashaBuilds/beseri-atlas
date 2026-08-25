@@ -29,6 +29,7 @@ ilgili:
   - aktor-srivijaya
   - aktor-samaniler
   - aktor-uygur-kaganligi
+  - dusunur-sankara
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

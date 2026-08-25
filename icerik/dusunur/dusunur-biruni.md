@@ -20,6 +20,7 @@ ilgili:
   - kavram-birincil-kaynak
   - aktor-samaniler
   - aktor-karahanlilar
+  - dusunur-sankara
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

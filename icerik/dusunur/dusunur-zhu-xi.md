@@ -21,6 +21,7 @@ ilgili:
   - kavram-burokrasi
   - kavram-tarih-yazimi
   - kavram-anakronizm
+  - dusunur-wang-yangming
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

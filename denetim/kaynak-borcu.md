@@ -11,10 +11,10 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 421 |
-| Toplam künye | 1383 |
+| Ölçülen makale | 423 |
+| Toplam künye | 1389 |
 | Giriş kapısı kuralını aşan makale | 227 |
-| Birincil kaynağı olmayan makale | 239 |
+| Birincil kaynağı olmayan makale | 240 |
 | Giriş kapısı künyesi payı | 45% |
 
 ## Tipe göre borçlu makale
@@ -26,7 +26,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | kavram | 61 |
 | tartisma | 34 |
 | kaynak | 27 |
-| dusunur | 19 |
+| dusunur | 20 |
 | donem | 10 |
 
 ## Makale dökümü
@@ -286,6 +286,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `dusunur-foucault` | 3 | 1 | 0 | birincil kaynak yok |
 | `dusunur-keynes` | 3 | 1 | 0 | birincil kaynak yok |
 | `dusunur-nagarjuna` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-wang-yangming` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-buyuk-ayrisma` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-demografik-gecis` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-kanit-turu` | 3 | 1 | 0 | birincil kaynak yok |

@@ -21,6 +21,7 @@ ilgili:
   - kavram-kaynak-elestirisi
   - dusunur-mengzi
   - aktor-kusan-imparatorlugu
+  - dusunur-sankara
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

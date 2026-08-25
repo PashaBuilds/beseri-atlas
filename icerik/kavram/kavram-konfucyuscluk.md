@@ -19,6 +19,7 @@ ilgili:
   - tartisma-feodalite-kavrami
   - dusunur-zhu-xi
   - dusunur-mengzi
+  - dusunur-wang-yangming
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
