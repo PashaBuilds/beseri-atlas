@@ -28,6 +28,7 @@ ilgili:
   - dusunur-zhu-xi
   - tartisma-sozlu-gelenek-kaynak-mi
   - kavram-kanit-turu
+  - aktor-ilhanlilar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

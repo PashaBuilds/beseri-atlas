@@ -1502,3 +1502,37 @@ derlemesi bulunamadi. Bu belgeler dil degisimini dogrudan olcebilecek seri;
 yoklugu dosyada beyan edildi.
 
 Toplam makale 418 -> 419.
+
+## Tur 52 — Ilhanlilar; atlasin en net dogal deneyi (2026-08-25)
+
+**aktor-ilhanlilar** (1213 kelime) eklendi. Orta Asya aktor katmani 10 dosya.
+
+Bir onceki turda yazilan Altin Orda dosyasiyla birlikte okunmak uzere
+yazildi. Ikisi **ayni hanedandan, ayni on yilda, ayni fetih dalgasindan**
+cikti ve ters yonlerde donustu:
+
+- Altin Orda: bozkir nufusunun diline ve gocer duzenle bagina.
+- Ilhanlilar: yerlesik bir devlet gelenegin burokrasisine ve diline.
+
+Bu, atlasin en net dogal deneyi. Ama dosyada **sinirlari da yazildi**:
+baslangic kosullari tam ayni degildi (farkli buyuklukte kuvvet, farkli
+komutan) ve cevre kosullari tek degiskene indirgenemez (yerlesik burokrasi,
+nufus orani, iklim, guzergah ayni anda farkli). Atlas karsilastirmayi bir
+kanit degil bir soru olarak sunuyor.
+
+### Din degisiminin iki bicimi
+
+Iki dosyada ayni sureç farkli isledi: kuzeyde kademeli ve geri donusluydu
+(ilk benimseme ile kurumsallasma arasi ~70 yil), burada tek bir hukumdarin
+karariyla ve hizli. Bir yonetimin inanc degistirmesi ile nufusun
+degistirmesi ayri surecler ve hizlari ayni olmak zorunda degil.
+
+### Kunyedeki birincil kaynak
+
+Duzenin veziri tarafindan sarayin gorevlendirmesiyle yazilmis kitalar arasi
+tarih derlemesi kunyelendi (1310). Dosyada iki nokta ayrildi: eserin kapsami
+olaganustu (Cin, Hindistan, Islam dunyasi ve Avrupa ayri bolumler halinde,
+her biri o bolgeden gelen kaynaklarla) **ama kapsam ile taraflilik ayri
+degerlendirilmeli** — metin hanedanin mesruiyetini kurmak uzere yazilmis.
+
+Toplam makale 419 -> 420.

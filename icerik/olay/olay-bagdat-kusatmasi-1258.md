@@ -21,6 +21,7 @@ ilgili:
   - aktor-buyuk-selcuklu
   - kavram-mesruiyet
   - tartisma-mogol-etkisi
+  - aktor-ilhanlilar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

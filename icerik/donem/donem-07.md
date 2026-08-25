@@ -44,6 +44,7 @@ ilgili:
   - olay-bagdat-kusatmasi-1258
   - aktor-maori
   - aktor-altin-orda
+  - aktor-ilhanlilar
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi
