@@ -18,6 +18,7 @@ ilgili:
   - kaynak-popol-vuh
   - kaynak-timbuktu-tarihleri
   - tartisma-sozlu-gelenek-kaynak-mi
+  - aktor-benin-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -30,6 +30,7 @@ ilgili:
   - tartisma-sanayi-devrimi-neden-ingiltere
   - tartisma-fransiz-devrimi-yorumlari
   - kaynak-hobsbawm-caglar
+  - aktor-sokoto-hilafeti
 okuma_onerisi: []
 serit:
   - bolge: avrupa

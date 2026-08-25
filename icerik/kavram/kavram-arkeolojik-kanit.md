@@ -21,6 +21,7 @@ ilgili:
   - kavram-svahili-kiyisi
   - aktor-pagan-kralligi
   - tartisma-sozlu-gelenek-kaynak-mi
+  - aktor-benin-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

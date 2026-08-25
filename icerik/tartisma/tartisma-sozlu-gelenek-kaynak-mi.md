@@ -27,6 +27,7 @@ ilgili:
   - kaynak-popol-vuh
   - kaynak-orhon-yazitlari
   - dusunur-ibn-battuta
+  - aktor-benin-kralligi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

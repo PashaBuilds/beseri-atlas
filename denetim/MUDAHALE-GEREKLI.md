@@ -520,3 +520,24 @@ kendi metnine bakmayi gerektirir ve ansiklopedi maddesinden yapilamaz.
 
 Oncelik: orta. Yanlis kisi atma riski kapatildi; kalan risk, dogru kisinin
 yanlis pozisyona yerlestirilmesi.
+
+## Nesne kanitlari icin kunye alani yok (2026-08-25)
+
+Benin Kralligi dosyasi yazilirken ortaya cikti: atlasin kunye semasi
+**metin kaynaklarina gore tasarlanmis.** Bir dosyanin en guclu kaniti bir
+metin degil bir nesne ise (dokum levha, kazi buluntusu, yapi kalintisi),
+bunun kunyede yeri yok.
+
+Sonuc: Benin dosyasinin uc kaynagi da ansiklopedi maddesi ve hicbiri birincil
+degil — oysa krallik hakkindaki en somut kanit dokum eserler. Kanit var,
+kunye alani yok.
+
+Yapilmasi gereken: muze koleksiyonlarinin cevrimici kataloglarina kunye
+verilebilmesi icin sema genisletilmeli. `birincil_tur` alanina `nesne`
+eklenebilir ve dogrulama_dizesi katalog numarasi olabilir.
+
+Etkisi: atlasin Afrika, Amerika ve Okyanusya dosyalarinda kanit tabanini
+dogrudan genisletir. Bu bolgelerin dosyalarinda "birincil kaynak
+bulunamadi" notu, cogu zaman "metin bulunamadi" demek.
+
+Oncelik: orta.

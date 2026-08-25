@@ -17,6 +17,8 @@ ilgili:
   - aktor-mali-imparatorlugu
   - aktor-gana-imparatorlugu
   - kaynak-timbuktu-tarihleri
+  - aktor-sokoto-hilafeti
+  - aktor-benin-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

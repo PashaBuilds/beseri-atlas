@@ -24,6 +24,7 @@ ilgili:
   - kaynak-kautilya-arthasastra
   - kaynak-ain-i-akbari
   - dusunur-zhu-xi
+  - aktor-sokoto-hilafeti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

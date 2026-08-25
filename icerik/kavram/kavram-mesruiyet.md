@@ -38,6 +38,7 @@ ilgili:
   - kaynak-baburname
   - dusunur-mengzi
   - olay-bagdat-kusatmasi-1258
+  - aktor-sokoto-hilafeti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

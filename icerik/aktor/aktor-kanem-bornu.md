@@ -23,6 +23,7 @@ ilgili:
   - kavram-tarihsel-iklimbilim
   - aktor-karahanlilar
   - aktor-kilva
+  - aktor-sokoto-hilafeti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

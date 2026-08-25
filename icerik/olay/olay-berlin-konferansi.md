@@ -16,6 +16,8 @@ ilgili:
   - donem-12
   - olay-afrika-bagimsizlik-dalgasi
   - kavram-emperyalizm
+  - aktor-sokoto-hilafeti
+  - aktor-benin-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
