@@ -31,6 +31,7 @@ ilgili:
   - aktor-gokturk-kaganligi
   - aktor-sogdlular
   - dusunur-nagarjuna
+  - aktor-moche
 okuma_onerisi: []
 serit:
   - bolge: avrupa

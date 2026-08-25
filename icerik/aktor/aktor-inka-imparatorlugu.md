@@ -17,6 +17,8 @@ ilgili:
   - aktor-aztek-imparatorlugu
   - aktor-ispanyol-imparatorlugu
   - kaynak-guaman-poma-nueva-coronica
+  - aktor-moche
+  - kavram-kipu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

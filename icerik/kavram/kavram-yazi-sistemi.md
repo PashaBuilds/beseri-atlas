@@ -17,6 +17,8 @@ ilgili:
   - tartisma-yazinin-icadi-nerede
   - aktor-indus-vadisi
   - dusunur-asoka
+  - aktor-moche
+  - kavram-kipu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

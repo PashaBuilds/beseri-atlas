@@ -22,6 +22,7 @@ ilgili:
   - aktor-pagan-kralligi
   - tartisma-sozlu-gelenek-kaynak-mi
   - aktor-benin-kralligi
+  - aktor-moche
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

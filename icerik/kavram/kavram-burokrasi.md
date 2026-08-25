@@ -25,6 +25,7 @@ ilgili:
   - kaynak-ain-i-akbari
   - dusunur-zhu-xi
   - aktor-sokoto-hilafeti
+  - kavram-kipu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

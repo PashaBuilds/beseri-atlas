@@ -18,6 +18,8 @@ ilgili:
   - kavram-tarih-yazimi
   - kavram-mesruiyet
   - kaynak-popol-vuh
+  - aktor-moche
+  - kavram-kipu
 okuma_onerisi: []
 yazar: "Felipe Guamán Poma de Ayala"
 eser_adi: "Primer Nueva Corónica y Buen Gobierno"

@@ -28,6 +28,8 @@ ilgili:
   - kaynak-orhon-yazitlari
   - dusunur-ibn-battuta
   - aktor-benin-kralligi
+  - aktor-moche
+  - kavram-kipu
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

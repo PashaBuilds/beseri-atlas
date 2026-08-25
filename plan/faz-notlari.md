@@ -1173,3 +1173,35 @@ ile basladi ve tek genisletmeyle 1244'e ulasti — onceki turlarda uc tur
 gerekiyordu. Kural: kavram icin 10 bolum, olay icin 20 bolum.
 
 Toplam makale 402 -> 404.
+
+## Tur 41 — nesne kunyesi is basinda (2026-08-25)
+
+Onceki turda semaya eklenen `nesne` alt turu bu turda iki dosyada
+kullanildi ve amacini gosterdi.
+
+- **aktor-moche** (1217 kelime): atlasin **tumuyle nesne kanitina dayanan
+  ilk dosyasi.** Yazi birakmamis bir duzen; iki MET katalog kaydi birincil
+  kunye olarak kullanildi. Dosya, nesne kanitinin hangi sorulari
+  cevapladigini (yapi, sureklilik, uretim orgutlenmesi) ve hangilerini
+  cevaplayamadigini (karar, ad, yonetim bicimi) her bolumde ayri ayri
+  yaziyor.
+- **kavram-kipu** (650 kelime): sayi kaydettigi kesin, dil kaydedip
+  kaydetmedigi tartismali bir kayit sistemi.
+
+### Kipu dosyasinin bulgusu
+
+Dosya atlasin bir varsayimini sinamak icin yazildi: bir toplum hakkinda ne
+kadar bilgi edinilebilecegi, o toplumun kayit tutup tutmadigina baglidir.
+Varsayim kismen curutuluyor — toplum kayit tutuyordu, kayitlar ayrintiliydi
+ve bir imparatorlugun muhasebesini tasiyordu; buna ragmen bugun buyuk olcude
+okunamiyor.
+
+Belirleyici olan kayit tutmak degil, **kaydin okunma usulunun de
+aktarilabilir olmasi.** Yazi bu usulu metnin icine gomer; kipu gomez ve
+gorevli sinifi ortadan kalktiginda anahtar da kaybolur.
+
+Ayni ayrim sayisal okumanin neden cozulup renk kodlamasinin neden
+cozulemedigini de acikliyor: bir toplami sinayabilirsiniz, bir rengin ne
+demek oldugunu disaridan bir anahtar olmadan bilemezsiniz.
+
+Toplam makale 406 -> 408. Birincil kunye 160 -> 163.
