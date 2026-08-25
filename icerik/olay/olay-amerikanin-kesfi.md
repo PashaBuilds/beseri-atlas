@@ -18,6 +18,7 @@ ilgili:
   - olay-kara-olum
   - aktor-ispanyol-imparatorlugu
   - tartisma-kesif-mi-istila-mi
+  - kaynak-tordesillas-antlasmasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

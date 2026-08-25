@@ -22,6 +22,7 @@ ilgili:
   - olay-11-eylul
   - olay-paris-iklim-anlasmasi
   - kavram-vesayet-yonetimi
+  - kaynak-insan-haklari-beyannamesi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

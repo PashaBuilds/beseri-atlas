@@ -32,6 +32,7 @@ ilgili:
   - aktor-malaka-sultanligi
   - olay-malaka-fethi-1511
   - aktor-mapuche
+  - kaynak-tordesillas-antlasmasi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

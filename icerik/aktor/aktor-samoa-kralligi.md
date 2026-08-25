@@ -23,6 +23,7 @@ ilgili:
   - kavram-egemenlik
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - kavram-vesayet-yonetimi
+  - kaynak-tordesillas-antlasmasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

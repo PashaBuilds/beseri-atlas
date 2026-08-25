@@ -28,6 +28,7 @@ ilgili:
   - kavram-himaye-duzeni
   - aktor-fiji-kralligi
   - kavram-vesayet-yonetimi
+  - kaynak-insan-haklari-beyannamesi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -44,6 +44,7 @@ ilgili:
   - kavram-himaye-duzeni
   - aktor-marathalar
   - aktor-samoa-kralligi
+  - kaynak-tordesillas-antlasmasi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

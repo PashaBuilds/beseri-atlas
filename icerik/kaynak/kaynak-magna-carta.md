@@ -21,6 +21,8 @@ ilgili:
   - kavram-anakronizm
   - kavram-mesruiyet
   - tartisma-feodalite-kavrami
+  - kaynak-insan-haklari-beyannamesi
+  - kaynak-tordesillas-antlasmasi
 okuma_onerisi: []
 yazar: "Ingiltere Krali John ve baronlar (taraflar)"
 eser_adi: "Magna Carta Libertatum"

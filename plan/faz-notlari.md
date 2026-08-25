@@ -2401,3 +2401,56 @@ gerçekten genelmiş gibi okunabilir.
 **Kapı geri bildirimi.** KAPI 5 dönem bağlantısını yakaladı: doğru biçim
 `/donem/02/`, `/donem/donem-02/` değil. Kaynak dosyalarında ilk kez
 dönem bağlantısı kullanıldığı için bu turda ortaya çıktı.
+
+## Tur — Belge katmanı: Tordesillas ve İnsan Hakları Beyannamesi
+## (25 Ağustos 2026)
+
+Eklenen: `kaynak-tordesillas-antlasmasi`,
+`kaynak-insan-haklari-beyannamesi`. Toplam 451 → 453. Kaynak katmanı
+43 → 47, belge türü 4 dosya.
+
+**Tordesillas — ölçülemeyen hüküm.** İki devlet, çoğunu görmedikleri
+toprakları bir boylam çizgisiyle paylaştı. Sorun şu: bir boylamın
+denizde belirlenmesi gemide doğru zamanın bilinmesini gerektirir ve bu,
+ancak iki buçuk yüzyıl sonra mümkün oldu. Antlaşmanın merkezî hükmü,
+imzalandığı tarihte ölçülemiyordu.
+
+Kayda geçen kural: **bir belgenin merkezî hükmü, o belgenin yazıldığı
+dönemin tekniğiyle ölçülemiyorsa, hüküm bağlayıcı değil müzakere
+edilebilir hâle gelir.** Nitekim Pasifik tarafındaki uyuşmazlık ölçümle
+değil ödemeyle çözüldü — bir taraf iddiasından bedel karşılığı
+vazgeçti. Belge bir sınır tespiti değil, bir pazarlık çerçevesi
+kuruyordu.
+
+İkinci kayıt — üçüncü ölçüm: paylaşımın tarafları arasında bölünen
+halkın bulunmaması. Aynı yapı Tordesillas (1494), Berlin (1885) ve
+Samoa (1899) dosyalarında üç kez ölçüldü; aralarında dört yüzyıl var,
+yani yapı bir döneme özgü değil.
+
+**İnsan Hakları Beyannamesi — üçlü dizinin tamamlanması.** Bu turla
+birlikte atlas hak kapsamının üç biçimini de künyelemiş oldu:
+
+- Hammurabi (MÖ 1754): eşitsizliği **açıkça yazar**, konumu adlandırır.
+- Magna Carta (1215): eşitsizliği yazmaz, **kapsamı daraltarak** uygular.
+- Beyanname (1948): kapsamı daraltmaz, **açıkça genişletir**.
+
+Kayda geçen kural: **hak kapsamı üç biçimde kurulabilir — açıkça
+sınırlandırarak, sessizce daraltarak ya da açıkça genişleterek.**
+Aralarında üç bin yedi yüz yıl var.
+
+Dosya kapsam ile bağlayıcılığı ayrıca ayırıyor: bu metinde ikisi zıt
+yönde ayrışıyor — kapsam en geniş, bağlayıcılık en zayıf hâlde. İkisi
+arasında bir bağ olup olmadığı tek örnekten çıkarılamayacağı için açık
+soru bırakıldı.
+
+**Bir çelişki kaydedildi, çözülmedi.** Aynı örgüt aynı yıllarda hem
+statüden bağımsız eşitlik ilan eden bu metni hem toprakları hazırlık
+derecesine göre sıralayan vesayet düzenini taşıyordu. Atlas çelişkiyi
+kaydediyor ve şunu ekliyor: bir kurumun aynı anda iki zıt ilkeyi
+taşıması olağandır ve bu, ilkelerden birinin sahte olduğunu göstermez.
+
+**Magna Carta ile ters örüntü.** Orada bağlayıcı bir uzlaşma sonradan
+genel bir ilkeye dönüştürülmüştü; burada genel bir ilke sonradan
+bağlayıcı sözleşmelere dönüştürüldü. İki yön de aynı mekanizmayı
+kullanıyor: bir metnin sonraki hukuki değeri, metnin kendisinden değil
+sonraki kullanımından geliyor.

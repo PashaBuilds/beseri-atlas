@@ -24,6 +24,7 @@ ilgili:
   - olay-meksika-fethi
   - olay-latin-amerika-bagimsizligi
   - aktor-mapuche
+  - kaynak-tordesillas-antlasmasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -20,6 +20,7 @@ ilgili:
   - olay-birinci-dunya-savasi
   - kavram-milliyetcilik
   - kaynak-hammurabi-kanunlari
+  - kaynak-insan-haklari-beyannamesi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

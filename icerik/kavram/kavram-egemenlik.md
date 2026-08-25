@@ -28,6 +28,8 @@ ilgili:
   - aktor-fiji-kralligi
   - aktor-samoa-kralligi
   - kavram-vesayet-yonetimi
+  - kaynak-insan-haklari-beyannamesi
+  - kaynak-tordesillas-antlasmasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

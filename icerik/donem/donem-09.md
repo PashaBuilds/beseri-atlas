@@ -40,6 +40,7 @@ ilgili:
   - aktor-kongo-kralligi
   - aktor-mapuche
   - aktor-vijayanagara
+  - kaynak-tordesillas-antlasmasi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

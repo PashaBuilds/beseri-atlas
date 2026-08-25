@@ -47,6 +47,7 @@ ilgili:
   - tartisma-soguk-savasin-baslangici
   - tartisma-kalkinma-neden-basarisiz
   - dusunur-fanon
+  - kaynak-insan-haklari-beyannamesi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

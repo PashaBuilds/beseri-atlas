@@ -29,6 +29,7 @@ ilgili:
   - aktor-haudenosaunee
   - kaynak-hammurabi-kanunlari
   - kaynak-magna-carta
+  - kaynak-insan-haklari-beyannamesi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

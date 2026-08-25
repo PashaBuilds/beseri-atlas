@@ -19,6 +19,7 @@ ilgili:
   - aktor-sokoto-hilafeti
   - aktor-benin-kralligi
   - aktor-samoa-kralligi
+  - kaynak-tordesillas-antlasmasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

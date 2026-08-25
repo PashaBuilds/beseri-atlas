@@ -19,6 +19,7 @@ ilgili:
   - kavram-birincil-kaynak
   - kaynak-magna-carta
   - kavram-mesruiyet
+  - kaynak-insan-haklari-beyannamesi
 okuma_onerisi: []
 yazar: "Hammurabi (adina yazdirilmistir)"
 eser_adi: "Hammurabi Kanunlari"
