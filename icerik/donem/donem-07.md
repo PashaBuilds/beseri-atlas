@@ -80,6 +80,14 @@ serit:
     satir: >-
       Amerika kıtası Avrasya'yı birbirine bağlayan bu ağın tamamen dışındaydı.
     anahtar: k3
+  - bolge: okyanusya
+    baslik: Pasifik'in son büyük yerleşimi
+    satir: >-
+      Aotearoa'ya yerleşim bu dönemde gerçekleşti; Avustronezya yayılmasının en
+      geç ulaştığı büyük kara parçası, beş yüzyıl içinde kendi siyasi düzenini
+      kurdu.
+    anahtar: k4
+
 kaynaklar:
   - anahtar: k1
     tur: ansiklopedi
@@ -100,6 +108,13 @@ kaynaklar:
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "population_historical"
+  - anahtar: k4
+    tur: ansiklopedi
+    ad: "Wikipedia (EN) - Māori people"
+    url: https://en.wikipedia.org/wiki/M%C4%81ori_people
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "Māori"
+    not: "Okyanusya seridi icin"
 son_denetim: 2026-08-20
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -188,3 +203,13 @@ yerleştirildiğini gösterir.
 Dönemin fikir dünyasına dair en somut miras, bu bağlantı ağının ürettiği
 karşılaştırma imkânıdır: farklı uygarlıkların birbirini doğrudan gözlemleyebildiği
 ilk uzun dönem budur.
+
+## Şeridin Okyanusya satırı
+
+Bu dönemin şeridine Okyanusya satırı, Aotearoa'ya yerleşimin bu yüzyıllarda
+gerçekleşmesi nedeniyle eklendi.[^k4] Avustronezya yayılmasının en geç
+ulaştığı büyük kara parçası, beş yüzyıl içinde kendi siyasi düzenini kurdu.
+
+Atlasın Okyanusya kapsamı bu dönemde de eksiktir ve satır bir başlangıçtır,
+bir temsil değil.[^k4] Bölgenin öteki ada gruplarının bu yüzyıllardaki
+durumu atlasta henüz kayıtlı değildir.

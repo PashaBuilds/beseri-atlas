@@ -62,6 +62,14 @@ serit:
       Güney Asya, tarımın yayılma güzergâhlarından biri olarak neolitikleşti;
       bölgenin kendi merkezleri ayrı bir araştırma konusudur.
     anahtar: k1
+  - bolge: okyanusya
+    baslik: Kesintisiz yerleşim sürüyor
+    satir: >-
+      Avustralya kıtasında insan yerleşimi bu dönemden on binlerce yıl önce
+      başlamıştı ve kesintisiz sürüyordu; atlasın dönem şeması bu sürekliliğin
+      yalnızca son bölümünü kapsar.
+    anahtar: k4
+
 kaynaklar:
   - anahtar: k1
     tur: ansiklopedi
@@ -81,6 +89,13 @@ kaynaklar:
     url: https://archive.org/details/in.ernet.dli.2015.536081
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "Man Makes Himself"
+  - anahtar: k4
+    tur: ansiklopedi
+    ad: "Wikipedia (EN) - Aboriginal Australians"
+    url: https://en.wikipedia.org/wiki/Aboriginal_Australians
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "Aboriginal"
+    not: "Okyanusya seridi icin"
 son_denetim: 2026-08-20
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -187,3 +202,13 @@ başına soruyu kapatmaya yetmemektedir.
 
 Dönemin sonunda nüfus MÖ 10000'dekinin yaklaşık on katına ulaşmıştı;[^k2] bu
 ölçek, yazının, şehrin ve devletin ortaya çıkacağı zemini hazırladı.
+
+## Şeridin dışında kalan
+
+Bu dönemin şeridinde Okyanusya satırı, bir olayı değil bir sürekliliği
+kaydeder.[^k4] Avustralya kıtasındaki insan yerleşimi bu dönemden on binlerce
+yıl önce başlamıştı ve kesintisiz sürüyordu.
+
+Atlasın dönem şeması tarımın yaygınlaşmasıyla başlar; bu tercih, o tarihten
+önceki uzun süreyi tek bir başlangıç noktasına sıkıştırır.[^k4] Şeritteki
+satır, sıkıştırmanın kendisini görünür kılmak için yazıldı.

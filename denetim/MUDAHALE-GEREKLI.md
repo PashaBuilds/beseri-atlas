@@ -564,8 +564,21 @@ kullanilabilir durumda.
 - Avustralya'nin yerli halklari icin tek bir dosya yok
 - Melanezya ve Mikronezya icin hicbir dosya yok
 - Bolgenin olay, kaynak ve dusunur katmanlari tumuyle bos
-- 16 donem dosyasinin `serit` alanlarinda Okyanusya satiri yok
+- 16 donem dosyasinin `serit` alanlarinda Okyanusya satiri: **2/16 dolduruldu**
+  (donem-01 ve donem-07). Kalan 14 donem bos.
 
 Oncelik: yuksek. Bir bolgeyi acip bos birakmak, hic acmamaktan daha
 yaniltici olabilir: okur bolge filtresinde bir etiket gorur ve arkasinda
-iki dosya bulur.
+bes dosya bulur.
+
+### 2026-08-25 — kendi actigim gorunur kusur duzeltildi
+
+Bolge semaya eklendiginde zaman seridine de bir "Okyanusya" satiri
+eklenmisti ama **hicbir donemde o bolgeye ait serit girdisi yoktu**; satir
+on alti sutun boyunca bos goruntuleniyordu. Ayrica bilesenin metni hala
+"Alti bolge" diyordu ve artik yedi satir vardi.
+
+Duzeltme: bilesendeki dort ifade "Yedi bolge" olarak guncellendi; donem-01
+ve donem-07'ye kaynakli serit girdisi ve govde paragrafi eklendi. Kalan 14
+donemde hucre bos kaliyor — bu, atlasin o donemde Okyanusya icin kaydi
+olmadiginin durust gosterimi.

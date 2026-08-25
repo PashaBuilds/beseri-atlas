@@ -3,7 +3,7 @@ import { bag } from '../lib/icerik';
 /**
  * İMZA ÖĞESİ — Paralel Zaman Şeridi (§12)
  *
- * Altı bölge tek zaman ekseninde yan yana. Seçili dönem, altı şeridi birden
+ * Yedi bölge tek zaman ekseninde yan yana. Seçili dönem, yedi şeridi birden
  * kesen dikey bir banttır — imza tam olarak bu kesittir: "aynı an, altı yer".
  *
  * Eksen SIRALI'dır, doğrusal değil (gerekçe: plan/tasarim-plani.md).
@@ -39,7 +39,7 @@ const hucre = (d: Props['donemler'][number], bolge: string) =>
   <figcaption class="serit__ust">
     <h2 id="serit-baslik" class="serit__baslik">{baslik}</h2>
     <p class="serit__aciklama">
-      Altı bölge, tek eksen. Bir dönem sütunu altı şeridi birden keser — aynı anda
+      Yedi bölge, tek eksen. Bir dönem sütunu yedi şeridi birden keser — aynı anda
       dünyada ne olduğunu yan yana okumak için. Eksen <strong>sıralı</strong>dır:
       sütunlar eşit genişliktedir, süre bilgisi başlıkta verilir.
     </p>
@@ -48,7 +48,7 @@ const hucre = (d: Props['donemler'][number], bolge: string) =>
   <div class="serit__kaydir">
     <table class="serit__tablo">
       <caption class="gizli-gorsel">
-        Satırlar altı dünya bölgesi, sütunlar on altı kronolojik dönem.
+        Satırlar yedi dünya bölgesi, sütunlar on altı kronolojik dönem.
         Her hücre o bölgenin o dönemde yaşadığını özetler.
       </caption>
       <thead>
@@ -190,7 +190,7 @@ const hucre = (d: Props['donemler'][number], bolge: string) =>
   .serit__hucre--bos { text-align: center; }
   .serit__yok { color: var(--cizgi); font-family: var(--f-veri); }
 
-  /* İMZA: seçili dönem altı şeridi birden kesen dikey bant. */
+  /* İMZA: seçili dönem yedi şeridi birden kesen dikey bant. */
   .serit__hucre--aktif {
     background: var(--bakir-zemin);
     box-shadow: inset 2px 0 0 var(--bakir);

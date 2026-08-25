@@ -12,10 +12,10 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Ölçüm | Değer |
 |---|---|
 | Ölçülen makale | 415 |
-| Toplam künye | 1361 |
-| Giriş kapısı kuralını aşan makale | 225 |
+| Toplam künye | 1363 |
+| Giriş kapısı kuralını aşan makale | 227 |
 | Birincil kaynağı olmayan makale | 237 |
-| Giriş kapısı künyesi payı | 45% |
+| Giriş kapısı künyesi payı | 46% |
 
 ## Tipe göre borçlu makale
 
@@ -27,7 +27,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | tartisma | 34 |
 | kaynak | 27 |
 | dusunur | 19 |
-| donem | 9 |
+| donem | 10 |
 
 ## Makale dökümü
 
@@ -90,8 +90,10 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `aktor-timur-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-tokugawa-sogunlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-varsova-pakti` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `donem-01` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `donem-03` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `donem-06` | 4 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
+| `donem-07` | 4 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `dusunur-arendt` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `dusunur-carr` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `dusunur-clausewitz` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
@@ -273,7 +275,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `aktor-sokoto-hilafeti` | 4 | 1 | 0 | birincil kaynak yok |
 | `aktor-sovyetler-birligi` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-tang-hanedani` | 3 | 1 | 0 | birincil kaynak yok |
-| `donem-07` | 3 | 1 | 0 | birincil kaynak yok |
 | `donem-08` | 3 | 1 | 0 | birincil kaynak yok |
 | `donem-09` | 3 | 1 | 0 | birincil kaynak yok |
 | `donem-12` | 3 | 1 | 0 | birincil kaynak yok |
