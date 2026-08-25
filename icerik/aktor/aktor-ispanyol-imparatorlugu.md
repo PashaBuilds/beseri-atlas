@@ -23,6 +23,7 @@ ilgili:
   - olay-atlantik-kole-ticareti
   - olay-meksika-fethi
   - olay-latin-amerika-bagimsizligi
+  - aktor-mapuche
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

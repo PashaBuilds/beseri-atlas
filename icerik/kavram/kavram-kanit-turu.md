@@ -24,6 +24,8 @@ ilgili:
   - aktor-avustralya-yerli-halklari
   - aktor-kusan-imparatorlugu
   - kaynak-camiut-tevarih
+  - aktor-kus-kralligi
+  - aktor-haudenosaunee
   - olay-waitangi-antlasmasi-1840
   - aktor-hawai-kralligi
   - tartisma-waitangi-hangi-metin
@@ -34,6 +36,8 @@ ilgili:
   - aktor-asanti-imparatorlugu
   - aktor-haudenosaunee
   - aktor-kus-kralligi
+  - aktor-cahokia
+  - aktor-mapuche
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -104,6 +108,34 @@ Dördü birbirinin yerine geçmez.[^k1] Bir türü ötekinin eksik biçimi sayma
 atlasın kaçındığı en yaygın hatadır; nesne kanıtı yazının ilkel hâli
 değildir.
 
+## Yazılı kaydın kendi içinde bölünmesi
+
+Dört türden birincisi, atlasın Kuş dosyasında yazıldıktan sonra ikiye
+ayrılması gereken bir tür olarak görüldü.[^k1] Ayrım, yazının
+okunabilirliğine dayanır.
+
+Okunabilen yazılı kayıt, olay sırası, karar ve niyet sorularına cevap
+verir.[^k1] Okunamayan yazılı kayıt bu soruların hiçbirine cevap
+veremez; geriye yalnızca yazının varlığı, dağılımı ve biçimi kalır.
+
+Kural tek cümleyle ifade edilebilir.[^k3] **Bir yazının varlığı, o
+yazının okunabildiği anlamına gelmez; okunamayan yazı bir metin değil
+bir nesnedir.**
+
+## Ayrımın pratik sonucu
+
+Okunamayan yazı, kanıt değeri bakımından nesne kanıtına yakın
+durur.[^k3] Nerede bulunduğu, kimlerin kullandığı ve ne kadar yaygın
+olduğu sorulabilir; ne dediği sorulamaz.
+
+Bu, bölge karşılaştırmalarını doğrudan etkiler.[^k1] Bir bölge hakkında
+"yazılı kayıt var" demek, o bölgenin olay tarihinin yazılabileceği
+anlamına gelmez.
+
+Atlas bu nedenle künyelerinde okunabilirliği ayrıca
+belirtir.[^k2] Çözülmemiş bir yazı sistemine ait metinler, birincil
+kaynak olarak künyelenmez; onlara ilişkin kazı raporları künyelenir.
+
 ## Atlasın kendi ölçümü
 
 Bu dosya, atlasın yedi dosyasında ölçülen sonucu toplar.[^k3] Moche,
@@ -164,9 +196,10 @@ iddia bir kayıt değil bir beyandır.
 Dosya bir yöntem tarifi değildir ve bir yöntem önermez.[^k1] Kanıt
 türlerinin nasıl birleştirileceği, her konuda ayrı bir karardır.
 
-Kanıt türlerinin listesi de kapalı değildir.[^k3] Atlasın şeması beş alt tür
+Kanıt türlerinin listesi de kapalı değildir.[^k3] Atlasın şeması altı alt tür
 tanır ve bunlar atlasın bugüne kadar karşılaştıklarıdır; yenileri
-eklenebilir ve biri bu yıl eklendi.
+eklenebilir, biri bu yıl eklendi ve birinci tür bu yıl kendi içinde
+ikiye ayrıldı.
 
 Farklı türlerin ağırlıklandırılması burada işlenmez.[^k2] İki kanıt
 çeliştiğinde hangisinin tercih edileceği,

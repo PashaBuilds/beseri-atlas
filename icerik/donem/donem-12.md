@@ -46,6 +46,7 @@ ilgili:
   - aktor-tonga-kralligi
   - aktor-hokand-hanligi
   - aktor-asanti-imparatorlugu
+  - aktor-mapuche
 okuma_onerisi: []
 serit:
   - bolge: afrika

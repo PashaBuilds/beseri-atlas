@@ -23,6 +23,7 @@ ilgili:
   - kavram-sehir-devleti
   - aktor-olmek
   - kavram-kanit-turu
+  - aktor-cahokia
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

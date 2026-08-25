@@ -2077,3 +2077,63 @@ olabiliyor ve bu bağlılık belgenin kendisinden okunmuyor.
 olduğu iddiası kaydedildi, sonuçlandırılmadı. Atlasın kuralı yazıldı:
 iki kurum arasındaki benzerlik birinin ötekinden alındığını göstermez;
 aktarım zinciri gösterilmeden benzerlik yalnızca benzerliktir.
+
+## Tur — Amerika: Mapuçe, Cahokia ve bir borç kapatma (25 Ağustos 2026)
+
+Eklenen: `aktor-mapuche`, `aktor-cahokia`. Güncellenen:
+`kavram-kanit-turu`. Toplam 441 → 443. Amerika 87 → 89.
+
+**Önce borç kapatıldı.** Geçen tur Kuş dosyasında "yazılı kayıt türü
+ikiye ayrılmalı" diye kaydedilmişti. Kanıt dosyasına iki bölüm eklendi
+ve kural yazıldı: *bir yazının varlığı, o yazının okunabildiği anlamına
+gelmez; okunamayan yazı bir metin değil bir nesnedir.* Ayrıca künye
+kuralı eklendi: çözülmemiş bir yazı sistemine ait metinler birincil
+kaynak olarak künyelenmez, onlara ilişkin kazı raporları künyelenir.
+
+**Mapuçe — merkezsizliğin savunma değeri.** Aynı nehir hattı iki kez,
+birbirinden bağımsız iki güç için sınır oldu. Dosyanın ölçümü:
+**merkezî bir aygıtın bulunmaması, o düzeni merkezine vurarak yenme
+yöntemini de ortadan kaldırır.** Merkezî bir düzeni yenmenin olağan yolu
+merkezi ele geçirmektir; burada ele geçirilecek merkez yoktu.
+
+Ölçümün sınırı da yazıldı: aynı yapı saldırı ve uzun süreli seferler
+için elverişsizdir. Merkezsiz bir düzen kendi topraklarında dayanıklı,
+dışarıda etkisizdir — iki özellik aynı yapının iki yüzü.
+
+İkinci gözlem: merkezsiz bir tarafla yapılan antlaşma imzayla değil
+tekrarla ayakta duruyor. Antlaşmalar her kuşakta büyük toplantılarla
+yenileniyordu ve bu bir formalite değil, muhatabın sürekli yeniden
+kurulması işlemiydi.
+
+Üçüncü gözlem: sömürge yönetiminin sona ermesi, sömürge sınırları
+içindeki her grup için bağımsızlık anlamına gelmedi. Yeni devletler
+toprak iddiasını devraldı, antlaşma yükümlülüğünü değil.
+
+**Kaynak durumu — dosyanın kendi zayıflığı beyan edildi.** Üç künyenin
+ikisi karşı taraftan gelen dönem tanıklığı, biri giriş kapısı. Direnen
+tarafın kendi kaydı künyelenemedi. Dosya bunu "konusuna göre en zayıf
+kaynak bileşimi" diye açıkça yazıyor.
+
+**Cahokia — ölçek ile bilgi arasında ilişki yok.** Kıtanın en büyük
+yerleşimi hakkında onu yönetenlerin adı bile bilinmiyor; bugün
+kullanılan ad bile yerleşimi kuranlardan değil, yüzyıllar sonra bölgede
+yaşayan başka bir topluluktan geliyor. Ölçüm: **bir düzenin ölçeği, o
+düzen hakkında ne bilinebileceğini belirlemez; belirleyen şey hangi
+kayıt pratiğini sürdürdüğüdür.**
+
+Kuş ile karşılaştırma dosyada kuruldu: orada yazı vardı ama
+okunamıyordu, burada yazı hiç yok. Fark önemli — okunamayan yazı ileride
+okunabilir, olmayan yazı için böyle bir ihtimal yok.
+
+**Ondokuzuncu yüzyıl sınıflandırması kaydedildi.** Höyüklerin bölgedeki
+halklardan başka bir topluluk tarafından yapıldığı görüşü uzun süre
+savunuldu ve varsayımla kurulmuştu. Atlas örüntüyü kaydediyor: bir
+kanıtın nasıl sınıflandırıldığı, sınıflandıranın ne istediğiyle ilişkili
+olabilir. Aynı dosyada künyelenen 1848 tarihli çalışma için de ayrım
+yapıldı — ölçüm verisi kullanılabilir, sınıflandırma önerisi
+kullanılamaz.
+
+**Kapı geri bildirimi.** KAPI 4 "nüfus geçişi" ifadesini reddetti;
+terim, "demografik geçiş" için ayrılmış. Kastettiğim şey insan hareketi
+olduğu için ifade değiştirildi. Terim kilidi bu turda ikinci kez farklı
+bir sözcükte tetiklendi.

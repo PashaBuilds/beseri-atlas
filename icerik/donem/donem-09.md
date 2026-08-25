@@ -38,6 +38,7 @@ ilgili:
   - aktor-hive-hanligi
   - aktor-seybaniler
   - aktor-kongo-kralligi
+  - aktor-mapuche
 okuma_onerisi: []
 serit:
   - bolge: avrupa

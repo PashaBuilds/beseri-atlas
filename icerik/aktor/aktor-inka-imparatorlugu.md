@@ -19,6 +19,7 @@ ilgili:
   - kaynak-guaman-poma-nueva-coronica
   - aktor-moche
   - kavram-kipu
+  - aktor-mapuche
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

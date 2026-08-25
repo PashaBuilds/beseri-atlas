@@ -48,6 +48,7 @@ ilgili:
   - aktor-cagatay-hanligi
   - aktor-murabitlar
   - aktor-muvahhidler
+  - aktor-cahokia
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

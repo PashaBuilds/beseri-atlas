@@ -24,6 +24,7 @@ ilgili:
   - aktor-tonga-kralligi
   - kavram-himaye-duzeni
   - aktor-haudenosaunee
+  - aktor-mapuche
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

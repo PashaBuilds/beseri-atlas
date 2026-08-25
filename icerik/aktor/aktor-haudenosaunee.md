@@ -23,6 +23,8 @@ ilgili:
   - kavram-mesruiyet
   - aktor-abd
   - kavram-birincil-kaynak
+  - aktor-cahokia
+  - aktor-mapuche
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -31,6 +31,7 @@ ilgili:
   - kaynak-popol-vuh
   - aktor-malaka-sultanligi
   - olay-malaka-fethi-1511
+  - aktor-mapuche
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -21,6 +21,7 @@ ilgili:
   - kavram-kipu
   - kavram-aletsiz-seyrusefer
   - aktor-kus-kralligi
+  - aktor-cahokia
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

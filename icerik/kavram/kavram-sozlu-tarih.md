@@ -25,6 +25,7 @@ ilgili:
   - kavram-kanit-turu
   - aktor-asanti-imparatorlugu
   - aktor-haudenosaunee
+  - aktor-mapuche
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
