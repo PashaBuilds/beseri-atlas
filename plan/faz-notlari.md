@@ -1355,3 +1355,35 @@ Bir de sinanabilirlik farki var: bu yontem bugun dogrudan sinanabiliyor ve
 sinandi. Atlasin oteki kayit sistemi dosyalarinda bu imkan yok.
 
 Toplam makale 413 -> 415. Okyanusya bolgesi 5 dosya.
+
+## Tur 48 — veri katmani; kapi bir kunye hatasi yakaladi (2026-08-25)
+
+**veri-ticaret-payi** eklendi (1970-2024, dunya toplaminda ihracat+ithalatin
+GSYH'ye orani: %25,8 -> %56,7). Veri katmani 24 -> 25.
+
+Dosyanin merkezindeki sinir kaydedildi: seri 1970'ten basliyor ve **daha
+onceki kuresellesme dalgalarini gostermiyor.** Serinin gosterdigi yukselis
+tarihteki tek yukselis degil; atlasin kavram dosyalari daha erken dalgalari
+kaydediyor ama bu seri onlari desteklemiyor.
+
+### KAPI 10 bir kunye hatasi yakaladi
+
+Kunyeye `dogrulama_dizesi: "trade_openness"` yazmistim — bu, indirme
+aracinin **yerel dosyaya verdigi** sutun adi. Uzak CSV'de sutun adi
+`ne_trd_gnfs_zs`. Kapi, dizeyi uzak sayfada aradi ve bulamadi.
+
+Duzeltme: dogrulama dizesi kaynaktaki gercek sutun adiyla degistirildi ve
+yerel CSV'nin sutun basligi da kaynaktakiyle ayni yapildi. Boylece kunye,
+yerel dosya ve uzak kaynak uc yerde de ayni adi tasiyor.
+
+Ders: indirme araci sutunlari yeniden adlandirdiginda, kunye kaynaktaki adi
+tasimali. Aksi halde dosya yerel olarak tutarli gorunur ama kunye uzak
+kaynagi dogrulamaz.
+
+### Bir sayi duzeltildi
+
+Metinde 2020 dunya nufusunu "yaklasik 7,84 milyar" yazmistim; CSV'de deger
+7.887.001.289, yani 7,89. Duzeltildi. Kucuk bir fark ama veri dosyasinda
+sayilar CSV'den dogrulanmali ve bu kez dogrulama elle yapildi.
+
+Toplam makale 415 -> 416.

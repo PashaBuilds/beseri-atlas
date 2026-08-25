@@ -19,6 +19,7 @@ ilgili:
   - veri-kuresel-esitsizlik
   - tartisma-1929-krizinin-nedeni
   - tartisma-kalkinma-neden-basarisiz
+  - veri-ticaret-payi
 okuma_onerisi: []
 veri_dosyasi: veri-setleri/kisi-basi-gsyh.csv
 veri_lisansi: "CC BY 4.0 — Our World in Data"

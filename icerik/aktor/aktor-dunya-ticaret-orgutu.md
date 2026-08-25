@@ -18,6 +18,7 @@ ilgili:
   - aktor-imf
   - tartisma-tarihsel-sayilar-nasil-okunur
   - aktor-avrupa-birligi
+  - veri-ticaret-payi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

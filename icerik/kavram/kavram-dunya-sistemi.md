@@ -20,6 +20,7 @@ ilgili:
   - kavram-gini-katsayisi
   - kaynak-milanovic-kuresel-esitsizlik
   - kavram-hint-okyanusu-ticareti
+  - veri-ticaret-payi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -24,6 +24,7 @@ ilgili:
   - aktor-dunya-bankasi
   - dusunur-keynes
   - kaynak-keynes-genel-teori
+  - veri-ticaret-payi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

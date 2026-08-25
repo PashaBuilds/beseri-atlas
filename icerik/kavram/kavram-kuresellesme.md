@@ -16,6 +16,7 @@ ilgili:
   - tartisma-sanayi-devrimi-neden-ingiltere
   - veri-internet-kullanimi
   - tartisma-teknolojik-belirlenimcilik
+  - veri-ticaret-payi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

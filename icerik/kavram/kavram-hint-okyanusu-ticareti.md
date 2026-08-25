@@ -30,6 +30,7 @@ ilgili:
   - kavram-avustronezya-yayilmasi
   - kavram-kula-halkasi
   - kavram-aletsiz-seyrusefer
+  - veri-ticaret-payi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
