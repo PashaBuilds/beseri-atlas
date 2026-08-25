@@ -37,6 +37,7 @@ ilgili:
   - aktor-rapa-nui
   - kaynak-magna-carta
   - olay-mfecane
+  - dusunur-katib-celebi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -23,6 +23,7 @@ ilgili:
   - kaynak-liberya-bagimsizlik-bildirisi
   - tartisma-belge-ne-zaman-yururlukte
   - olay-adva-1896
+  - dusunur-katib-celebi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

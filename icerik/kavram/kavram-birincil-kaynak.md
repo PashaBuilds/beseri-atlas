@@ -37,6 +37,8 @@ ilgili:
   - kaynak-liberya-bagimsizlik-bildirisi
   - kavram-belge-okumasi
   - tartisma-belge-ne-zaman-yururlukte
+  - dusunur-katib-celebi
+  - kaynak-piri-reis-kitab-i-bahriye
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

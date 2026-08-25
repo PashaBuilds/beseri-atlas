@@ -19,6 +19,7 @@ ilgili:
   - dusunur-ibn-battuta
   - aktor-murabitlar
   - aktor-muvahhidler
+  - dusunur-katib-celebi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -30,6 +30,8 @@ ilgili:
   - aktor-ace-sultanligi
   - kaynak-gulhane-hatti
   - kaynak-kanunuesasi-1876
+  - dusunur-katib-celebi
+  - kaynak-piri-reis-kitab-i-bahriye
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

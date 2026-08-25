@@ -36,6 +36,7 @@ ilgili:
   - aktor-marathalar
   - olay-tupac-amaru-ayaklanmasi-1780
   - aktor-komance
+  - dusunur-katib-celebi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

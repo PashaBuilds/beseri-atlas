@@ -33,6 +33,7 @@ ilgili:
   - veri-ticaret-payi
   - aktor-kusan-imparatorlugu
   - aktor-vijayanagara
+  - kaynak-piri-reis-kitab-i-bahriye
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

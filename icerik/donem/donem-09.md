@@ -41,6 +41,8 @@ ilgili:
   - aktor-mapuche
   - aktor-vijayanagara
   - kaynak-tordesillas-antlasmasi
+  - dusunur-katib-celebi
+  - kaynak-piri-reis-kitab-i-bahriye
 okuma_onerisi: []
 serit:
   - bolge: avrupa

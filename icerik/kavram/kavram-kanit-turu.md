@@ -47,6 +47,7 @@ ilgili:
   - aktor-kirgizlar
   - olay-mfecane
   - aktor-komance
+  - kaynak-piri-reis-kitab-i-bahriye
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

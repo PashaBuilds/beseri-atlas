@@ -3077,3 +3077,22 @@ doğrudan etkileyen kararlar bölgenin dışında ve katılımı olmadan
 alındı. Ölçüm: **bir bölgenin nasıl kullanılacağına o bölgede
 yaşamayanların karar vermesi, sınır çizmekle aynı yapıdadır ve aynı
 sonuçları üretir.**
+
+## 2026-08-26 — Kâtib Çelebi ve Kitâb-ı Bahriye
+
+İki dosya birlikte yazıldı: aynı imparatorlukta, bir yüzyıl arayla,
+kendi geleneğinin dışından kaynak kullanan iki eser. Fark, tercihin
+yazıyla gerekçelendirilip gerekçelendirilmediğidir.
+
+- `dusunur-katib-celebi` — çeviriyle dışarıdan kaynak katmayı
+  gerekçelendiren âlim. Ölçüm: bilginin doğruluğu ile kaynağının
+  geleneği ayrı iki sorudur.
+- `kaynak-piri-reis-kitab-i-bahriye` — bir eserin kaynak listesinin
+  kendisi, o tarihte o yerde hangi kayıtların erişilebilir olduğunu
+  gösteren bir kanıttır.
+
+Künye: TDV maddeleri birincil tercih olarak, Wikipedia yalnızca giriş
+kapısı olarak (dosya başına bir tane). İki eserin de doğrulanabilir
+çevrimiçi tam metni bulunamadı; kısıt her iki dosyada da beyan edildi.
+
+Açık borç: iki eserin tam metni künyelenemedi.

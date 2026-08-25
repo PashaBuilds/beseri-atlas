@@ -11,10 +11,10 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 470 |
-| Toplam künye | 1545 |
+| Ölçülen makale | 472 |
+| Toplam künye | 1551 |
 | Giriş kapısı kuralını aşan makale | 227 |
-| Birincil kaynağı olmayan makale | 249 |
+| Birincil kaynağı olmayan makale | 251 |
 | Giriş kapısı künyesi payı | 43% |
 
 ## Tipe göre borçlu makale
@@ -25,8 +25,8 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | aktor | 74 |
 | kavram | 61 |
 | tartisma | 35 |
-| kaynak | 27 |
-| dusunur | 20 |
+| kaynak | 28 |
+| dusunur | 21 |
 | donem | 9 |
 
 ## Makale dökümü
@@ -292,6 +292,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `donem-16` | 3 | 1 | 0 | birincil kaynak yok |
 | `dusunur-braudel` | 3 | 1 | 0 | birincil kaynak yok |
 | `dusunur-foucault` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-katib-celebi` | 3 | 1 | 0 | birincil kaynak yok |
 | `dusunur-keynes` | 3 | 1 | 0 | birincil kaynak yok |
 | `dusunur-nagarjuna` | 3 | 1 | 0 | birincil kaynak yok |
 | `dusunur-wang-yangming` | 3 | 1 | 0 | birincil kaynak yok |
@@ -308,6 +309,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `kavram-yasam-beklentisi` | 3 | 1 | 0 | birincil kaynak yok |
 | `kaynak-keynes-genel-teori` | 3 | 1 | 0 | birincil kaynak yok |
 | `kaynak-milanovic-kuresel-esitsizlik` | 3 | 1 | 0 | birincil kaynak yok |
+| `kaynak-piri-reis-kitab-i-bahriye` | 3 | 1 | 0 | birincil kaynak yok |
 | `kaynak-pomeranz-buyuk-ayrisma` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-amerikan-ic-savasi` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-amerikanin-kesfi` | 3 | 1 | 0 | birincil kaynak yok |
