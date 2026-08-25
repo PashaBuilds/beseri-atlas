@@ -21,6 +21,7 @@ ilgili:
   - tartisma-mogol-etkisi
   - aktor-sogdlular
   - aktor-uygur-kaganligi
+  - aktor-kusan-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

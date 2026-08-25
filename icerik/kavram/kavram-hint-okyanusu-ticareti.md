@@ -31,6 +31,7 @@ ilgili:
   - kavram-kula-halkasi
   - kavram-aletsiz-seyrusefer
   - veri-ticaret-payi
+  - aktor-kusan-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

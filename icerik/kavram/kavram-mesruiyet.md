@@ -39,6 +39,7 @@ ilgili:
   - dusunur-mengzi
   - olay-bagdat-kusatmasi-1258
   - aktor-sokoto-hilafeti
+  - aktor-kusan-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

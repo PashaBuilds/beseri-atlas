@@ -33,6 +33,7 @@ ilgili:
   - dusunur-nagarjuna
   - aktor-moche
   - aktor-teotihuacan
+  - aktor-kusan-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: avrupa

@@ -20,6 +20,7 @@ ilgili:
   - kavram-anakronizm
   - kavram-kaynak-elestirisi
   - dusunur-mengzi
+  - aktor-kusan-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

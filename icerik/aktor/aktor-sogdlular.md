@@ -22,6 +22,7 @@ ilgili:
   - aktor-tang-hanedani
   - kavram-kaynak-elestirisi
   - tartisma-imparatorluk-siniri-nasil-cizilir
+  - aktor-kusan-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

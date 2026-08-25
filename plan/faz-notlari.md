@@ -1387,3 +1387,42 @@ Metinde 2020 dunya nufusunu "yaklasik 7,84 milyar" yazmistim; CSV'de deger
 sayilar CSV'den dogrulanmali ve bu kez dogrulama elle yapildi.
 
 Toplam makale 415 -> 416.
+
+## Tur 49 — Kusan; "sentez" adlandirmasinin ayristirilmasi (2026-08-25)
+
+**aktor-kusan-imparatorlugu** (1226 kelime) eklendi. Orta Asya aktor katmani
+8 dosyaya cikti.
+
+### Sentez ile bir arada durma ayrimi
+
+Dosyanin en dikkate deger kaydi bir adlandirma ayrimi. Dort gelenegin
+unsurlarinin bir arada bulunmasi cogu zaman "sentez" diye anilir; dosya bunu
+ikiye ayiriyor:
+
+- **bir arada durma**: unsurlar ayri ayri korunup yan yana kullanilir.
+  Sikkelerde boyle — tanrilar birbirine karistirilmaz, sirayla basilir.
+- **sentez**: iki gelenek birlesip ucuncusunu uretir ve ayristirilamaz hale
+  gelir. Heykel gelenegi boyle — bicim ile konu gercekten birlesir.
+
+Ayrimin sonucu farkli: bir arada durma, taraflardan biri cekildiginde
+otekini oldugu gibi birakir; sentez geri dondurulemez bir degisim uretir.
+
+**Ayni imparatorluk, bir alanda unsurlari yan yana tutup baska bir alanda
+birlestirebiliyor.** Bu, atlasin kulturel aktarim kaydeden butun dosyalarina
+uygulanabilecek bir ayrim ve cogunda belirtilmeden geciliyor.
+
+### Iki nesne turu farkli sorulara cevap veriyor
+
+Dosyanin kanit tabani sikke ve heykel. Sikke devletin ne iddia ettigini
+gosterir (seri uretim, tarihlenebilir, resmi mesaj); heykel bir atolye
+gelenegin ne yaptigini gosterir (resmi mesaj tasimak zorunda degil). Ikisinin
+farkli surecler gostermesi bu yuzden sasirtici degil — devletin mesruiyet
+hesabi ile atolyenin bicim tercihi ayri ayri isler.
+
+### Onceki turlarla baglanti
+
+Buda tasvirinin onceligi tartismasi, Olmek dosyasindaki yontemsel sorunun
+aynisi: en erken tarih, kazilmis alanlarin en erken tarihidir. Iki dosya
+birbirine baglandi.
+
+Toplam makale 416 -> 417.

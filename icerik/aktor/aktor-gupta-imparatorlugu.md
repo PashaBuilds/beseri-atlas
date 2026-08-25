@@ -18,6 +18,7 @@ ilgili:
   - olay-kavimler-gocu
   - kavram-kast
   - dusunur-nagarjuna
+  - aktor-kusan-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
