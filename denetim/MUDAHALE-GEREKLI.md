@@ -488,9 +488,20 @@ görünür oldu.
 
 ## Savunan atiflarinin dogrulanmasi (2026-08-25, KAPI 16 ile acildi)
 
-Tartisma dosyalarindaki `savunanlar` alaninda **162 atif** var; bunlarin
-yalnizca **9'u dogrulanmis** durumda (%6). Kalan 153 atif, kutuk kurulmadan
-once yazilmis dosyalardan geliyor ve `durum: devralinan` olarak isaretlendi.
+Tartisma dosyalarindaki `savunanlar` alaninda **162 atif** var. Ilk turdan
+sonraki durum:
+
+| durum | atif | oran |
+|---|---|---|
+| pozisyonu dogrulanmis | 9 | %6 |
+| yalnizca tartismada oldugu dogrulanmis | 20 | %12 |
+| hic dogrulanmamis (devralinan) | 133 | %82 |
+
+Iki dogrulama duzeyi arasindaki fark onemli: bir kisinin bir tartismanin
+icinde oldugunu gostermek kolaydir (ansiklopedi maddesinde adi geciyor mu);
+hangi pozisyonu savundugunu gostermek ayri bir istir ve kisinin kendi
+metnine bakmayi gerektirir. Ilk turda 18 ad birinci duzeyde dogrulandi ve
+her biri icin `dogrulama_kaynagi` alani yazildi.
 
 Neden onemli: bir kisiyi savunmadigi bir konuma yerlestirmek atlasin
 yapabilecegi en agir hatadir. KAPI 16 artik **yeni** adlarin sessizce

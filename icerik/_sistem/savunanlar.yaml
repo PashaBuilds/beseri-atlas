@@ -6,9 +6,15 @@
 # ad eklemeyi gorunur ve kasitli bir islem haline getirir.
 #
 # durum alani:
-#   dogrulandi  — atif, dosyanin kunyesindeki kaynaklardan dogrulandi
-#   devralinan  — kutuk kurulmadan once yazilmis dosyalardan gelen ad;
-#                 dogrulanmadi, borc defterinde duruyor
+#   dogrulandi          — kisinin bu POZISYONU savundugu dogrulandi
+#   tartismada-dogrulandi — kisinin bu TARTISMANIN icinde oldugu dogrulandi;
+#                           hangi pozisyonda oldugu ayrica dogrulanmadi
+#   devralinan          — kutuk kurulmadan once yazilmis dosyalardan gelen ad;
+#                         hicbir yonu dogrulanmadi, borc defterinde duruyor
+#
+# Iki dogrulama duzeyi arasindaki fark onemlidir: bir kisinin bir tartismanin
+# icinde oldugunu gostermek kolaydir; hangi pozisyonu savundugunu gostermek
+# ayri bir istir ve metnin kendisine bakmayi gerektirir.
 #
 # Yeni ad eklerken: once atfi dogrula, sonra durum: dogrulandi ile ekle.
 # Dogrulanamiyorsa kisi adi yerine cizgi/yaklasim adi kullan.
@@ -45,7 +51,8 @@ adlar:
     durum: devralinan
     gectigi: [tartisma-fransiz-devrimi-yorumlari]
   - ad: "Andre Gunder Frank"
-    durum: devralinan
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: https://en.wikipedia.org/wiki/Great_Divergence
     gectigi: [tartisma-bati-neden-yukseldi]
   - ad: "anlatı çözümlemesi yaklaşımı"
     durum: dogrulandi
@@ -84,13 +91,15 @@ adlar:
     durum: devralinan
     gectigi: [tartisma-tarim-devrimi-neden]
   - ad: "Christopher Clark"
-    durum: devralinan
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: https://en.wikipedia.org/wiki/July_Crisis
     gectigi: [tartisma-1914-savas-sorumlulugu]
   - ad: "Çevresel açıklama literatürü"
     durum: devralinan
     gectigi: [tartisma-tunc-cagi-cokusunun-nedeni]
   - ad: "Daron Acemoğlu"
-    durum: devralinan
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: https://en.wikipedia.org/wiki/Great_Divergence
     gectigi: [tartisma-bati-neden-yukseldi]
   - ad: "Demografik kapasite yaklaşımı"
     durum: devralinan
@@ -99,7 +108,8 @@ adlar:
     durum: devralinan
     gectigi: [tartisma-tarihsel-sayilar-nasil-okunur]
   - ad: "Douglass North"
-    durum: devralinan
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: https://en.wikipedia.org/wiki/New_institutional_economics
     gectigi: [tartisma-bati-neden-yukseldi]
   - ad: "Edward Gibbon"
     durum: devralinan
@@ -111,16 +121,19 @@ adlar:
     durum: devralinan
     gectigi: [tartisma-feodalite-kavrami]
   - ad: "Eric Jones"
-    durum: devralinan
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: https://en.wikipedia.org/wiki/Great_Divergence
     gectigi: [tartisma-bati-neden-yukseldi]
   - ad: "Eric Williams"
-    durum: devralinan
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: https://en.wikipedia.org/wiki/Capitalism_and_Slavery
     gectigi: [tartisma-bati-neden-yukseldi]
   - ad: "Eyyûbî kaydı"
     durum: devralinan
     gectigi: [tartisma-imparatorluk-nufusu-nasil-sayilir]
   - ad: "Fernand Braudel"
-    durum: devralinan
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: https://en.wikipedia.org/wiki/Fernand_Braudel
     gectigi: [tartisma-buyuk-adam-kurami]
   - ad: "Folklor ve edebiyat incelemesi çizgisi"
     durum: dogrulandi
@@ -132,7 +145,8 @@ adlar:
     durum: devralinan
     gectigi: [tartisma-feodalite-kavrami]
   - ad: "Fritz Fischer"
-    durum: devralinan
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: https://en.wikipedia.org/wiki/Fischer_thesis
     gectigi: [tartisma-1914-savas-sorumlulugu]
   - ad: "Geç Antikite yaklaşımı"
     durum: devralinan
@@ -159,37 +173,44 @@ adlar:
     durum: devralinan
     gectigi: [tartisma-romanin-cokus-nedeni]
   - ad: "Herbert Spencer"
-    durum: devralinan
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: https://en.wikipedia.org/wiki/Social_Darwinism
     gectigi: [tartisma-buyuk-adam-kurami]
   - ad: "Holger H. Herwig"
     durum: devralinan
     gectigi: [tartisma-1914-savas-sorumlulugu]
   - ad: "Imanuel Geiss"
-    durum: devralinan
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: https://en.wikipedia.org/wiki/Fischer_thesis
     gectigi: [tartisma-1914-savas-sorumlulugu]
   - ad: "Immanuel Wallerstein"
-    durum: devralinan
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: https://en.wikipedia.org/wiki/World-systems_theory
     gectigi: [tartisma-bati-neden-yukseldi]
   - ad: "İktisadi bozulma açıklaması"
     durum: devralinan
     gectigi: [tartisma-tunc-cagi-cokusunun-nedeni]
   - ad: "James Joll"
-    durum: devralinan
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: https://en.wikipedia.org/wiki/Causes_of_World_War_I
     gectigi: [tartisma-1914-savas-sorumlulugu]
   - ad: "James Robinson"
-    durum: devralinan
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: https://en.wikipedia.org/wiki/Great_Divergence
     gectigi: [tartisma-bati-neden-yukseldi]
   - ad: "Jan Vansina"
     durum: dogrulandi
     gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
   - ad: "Jared Diamond"
-    durum: devralinan
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: https://en.wikipedia.org/wiki/Great_Divergence
     gectigi: [tartisma-bati-neden-yukseldi]
   - ad: "Joachim Remak"
     durum: devralinan
     gectigi: [tartisma-1914-savas-sorumlulugu]
   - ad: "John Röhl"
-    durum: devralinan
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: https://en.wikipedia.org/wiki/Fischer_thesis
     gectigi: [tartisma-1914-savas-sorumlulugu]
   - ad: "Joseph Ki-Zerbo"
     durum: dogrulandi
@@ -345,7 +366,8 @@ adlar:
     durum: devralinan
     gectigi: [tartisma-aydinlanmanin-sinirlari]
   - ad: "Kenneth Pomeranz"
-    durum: devralinan
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: https://en.wikipedia.org/wiki/Great_Divergence
     gectigi: [tartisma-bati-neden-yukseldi, tartisma-sanayi-devrimi-neden-ingiltere]
   - ad: "Kenneth Pomeranz (kısmen)"
     durum: devralinan
@@ -387,7 +409,8 @@ adlar:
     durum: devralinan
     gectigi: [tartisma-imparatorluk-siniri-nasil-cizilir]
   - ad: "Paul Kennedy"
-    durum: devralinan
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: https://en.wikipedia.org/wiki/Causes_of_World_War_I
     gectigi: [tartisma-1914-savas-sorumlulugu]
   - ad: "Peter Heather"
     durum: devralinan
@@ -441,7 +464,8 @@ adlar:
     durum: devralinan
     gectigi: [tartisma-tarim-devrimi-ilerleme-mi, tartisma-tarim-devrimi-neden]
   - ad: "William James"
-    durum: devralinan
+    durum: tartismada-dogrulandi
+    dogrulama_kaynagi: https://en.wikipedia.org/wiki/Great_Man_theory
     gectigi: [tartisma-buyuk-adam-kurami]
   - ad: "Yaygın anlatı"
     durum: devralinan

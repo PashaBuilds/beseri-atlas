@@ -40,7 +40,7 @@ export function savunanDenetimi(makaleler) {
     return r;
   }
 
-  let toplam = 0; let dogrulanmis = 0; const eksik = new Set();
+  let toplam = 0; let dogrulanmis = 0; let kismi = 0; const eksik = new Set();
   for (const m of makaleler) {
     if (m.fm?.tip !== 'tartisma') continue;
     for (const p of m.fm.pozisyonlar ?? []) {
@@ -48,12 +48,15 @@ export function savunanDenetimi(makaleler) {
         toplam++;
         if (!kutuk.has(s)) { eksik.add(s); r.hata(m.goreli, `savunan "${s}" kutukte yok — once icerik/_sistem/savunanlar.yaml dosyasina, atfi dogrulayarak ekleyin`); }
         else if (kutuk.get(s) === 'dogrulandi') dogrulanmis++;
+        else if (kutuk.get(s) === 'tartismada-dogrulandi') kismi++;
       }
     }
   }
+  const yuzde = (n) => (toplam ? Math.round((n / toplam) * 100) : 0);
   r.ozetSatirlari = [
-    `kutukte ${kutuk.size} ad · makalelerde ${toplam} atif · dogrulanmis ${dogrulanmis} (%${toplam ? Math.round((dogrulanmis / toplam) * 100) : 0})`,
-    `devralinan (dogrulanmamis) atif: ${toplam - dogrulanmis}`,
+    `kutukte ${kutuk.size} ad · makalelerde ${toplam} atif`,
+    `pozisyonu dogrulanmis ${dogrulanmis} (%${yuzde(dogrulanmis)}) · yalnizca tartismada oldugu dogrulanmis ${kismi} (%${yuzde(kismi)})`,
+    `hic dogrulanmamis (devralinan) atif: ${toplam - dogrulanmis - kismi}`,
   ];
   return r;
 }
