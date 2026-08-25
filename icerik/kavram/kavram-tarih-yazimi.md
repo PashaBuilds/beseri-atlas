@@ -34,6 +34,7 @@ ilgili:
   - dusunur-wang-yangming
   - tartisma-orta-asya-neden-cekildi
   - aktor-kus-kralligi
+  - aktor-rapa-nui
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

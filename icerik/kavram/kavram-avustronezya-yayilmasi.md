@@ -20,6 +20,7 @@ ilgili:
   - aktor-avustralya-yerli-halklari
   - kavram-kula-halkasi
   - kavram-aletsiz-seyrusefer
+  - aktor-rapa-nui
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

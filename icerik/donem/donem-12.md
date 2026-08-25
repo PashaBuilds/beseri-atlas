@@ -47,6 +47,8 @@ ilgili:
   - aktor-hokand-hanligi
   - aktor-asanti-imparatorlugu
   - aktor-mapuche
+  - aktor-fiji-kralligi
+  - aktor-rapa-nui
 okuma_onerisi: []
 serit:
   - bolge: afrika

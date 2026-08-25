@@ -20,6 +20,7 @@ ilgili:
   - aktor-hokand-hanligi
   - aktor-hawai-kralligi
   - tartisma-imparatorluk-siniri-nasil-cizilir
+  - aktor-fiji-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -38,6 +38,7 @@ ilgili:
   - aktor-kus-kralligi
   - aktor-cahokia
   - aktor-mapuche
+  - aktor-rapa-nui
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

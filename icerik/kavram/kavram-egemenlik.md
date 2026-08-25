@@ -25,6 +25,7 @@ ilgili:
   - kavram-himaye-duzeni
   - aktor-haudenosaunee
   - aktor-mapuche
+  - aktor-fiji-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

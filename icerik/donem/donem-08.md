@@ -45,6 +45,7 @@ ilgili:
   - aktor-kongo-kralligi
   - aktor-haudenosaunee
   - aktor-cahokia
+  - aktor-rapa-nui
 okuma_onerisi: []
 serit:
   - bolge: avrupa

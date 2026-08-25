@@ -32,6 +32,7 @@ ilgili:
   - aktor-hazarlar
   - aktor-kus-kralligi
   - aktor-cahokia
+  - aktor-rapa-nui
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

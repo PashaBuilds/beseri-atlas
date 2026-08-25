@@ -2137,3 +2137,63 @@ kullanılamaz.
 terim, "demografik geçiş" için ayrılmış. Kastettiğim şey insan hareketi
 olduğu için ifade değiştirildi. Terim kilidi bu turda ikinci kez farklı
 bir sözcükte tetiklendi.
+
+## Tur — Okyanusya: Rapa Nui ve Fiji (25 Ağustos 2026)
+
+Eklenen: `aktor-rapa-nui`, `aktor-fiji-kralligi`. Toplam 443 → 445.
+Okyanusya 10 → 12.
+
+**Rapa Nui — bir anlatının çürütülmesinin kaydı.** Yerleşmiş çöküş
+anlatısı (orman kesildi, açlık, iç savaş, toplum kendini yok etti) son
+yirmi yılda her adımında sorgulandı: kemirgenlerin ormanın yenilenmesini
+engellemesi, heykellerin kütük kullanılmadan taşınabildiğinin
+gösterilmesi, ve en önemlisi büyük nüfus kaybının Avrupa temasından
+*sonra* yoğunlaşması.
+
+Dosyanın kaydettiği kural: **bir çöküş anlatısı, kanıttan önce bir fail
+seçtiğinde, kanıt o failin çevresinde toplanır.** Birinci okuma adalıları
+sorumlu tutuyor ve kaynak yönetimi hakkında ders veriyor; ikinci okuma
+dışarıdan geleni sorumlu tutuyor ve temas hakkında ders veriyor. Fail
+seçimi, dersi de belirliyor.
+
+**Künye seçimi bilinçli.** Dört künyeden ikisi eski anlatının kaynakları
+(Routledge 1920 ve 1911 Britannica), biri itirazı temsil eden akademik
+çalışma (Hunt & Lipo 2011). Bir tartışmayı kaydederken yalnızca kazanan
+tarafı künyelemek, tartışmanın nasıl kurulduğunu görünmez kılar — bu
+dosyada açıkça yazıldı.
+
+**İkinci gözlem — laboratuvar varsayımının maliyeti.** Kapalı sistem
+varsayımı dış etkenleri baştan devre dışı bırakıyor ve bu, çöküş
+anlatısının kurulmasındaki belirleyici adım. Varsayım kaldırıldığında
+açıklama kümesi genişliyor.
+
+**Üçüncü gözlem — anlatının ömrü.** İtirazlar akademik yazında yerleşmiş
+olmasına rağmen yaygın anlatı değişmedi. *Bir anlatı, dayandığı kanıt
+çürütüldükten sonra da işlevini sürdürebilir ve işlev, kanıttan daha uzun
+ömürlüdür.*
+
+**Fiji — mali yoldan ilhak.** Egemenlik askerî yenilgiyle değil,
+ödenemeyen bir borç yüzünden devredildi. **Bir egemenlik devri, askerî
+yenilgi olmadan da gerçekleşebilir; ödenemeyen bir borç aynı sonucu
+üretir.**
+
+**Okyanusya üçlüsü tamamlandı.** Tonga toprağı kapattı ve bağımsız kaldı;
+Hawai toprağı açtı ve devrildi; Fiji toprağı açtı ve devretti. Üç örnek
+aynı yöne işaret ediyor: toprağın devredilebilirliği, dış sermayenin ve
+dış nüfusun yerleşmesini belirleyen ilk halka. Üç örnek kural kurmaya
+yetmiyor ve dosyada bu yazılı.
+
+**Dördüncü kez ölçülen örüntü.** Dış ticarete erişimi olan tarafın aynı
+takımadadaki rakiplerine üstünlük kurması, artık Hawai, Tonga ve Fiji'de
+ölçüldü. Üç takımadada da birleşme dış temasla aynı yıllara denk geliyor
+ve bu, iç gelişmeyle dış etkenin ayrıştırılmasını zorlaştırıyor.
+
+**Uzak bağlantı.** Fiji'deki pamuk plantasyonlarının çöküşü, bambaşka bir
+kıtadaki iç savaşın bitmesine bağlı. Bağlantı ancak iki bölge birlikte
+okunduğunda görünüyor; tek bir bölgenin dosyasında talep düşüşü nedensiz
+bir dalgalanma gibi duruyor.
+
+**Yakalanan hata.** Fiji dosyasının özetinde "yirmi yıl süren" yazmıştım;
+metin üç yıl diyor. Düzeltildi. Özet ile gövde arasındaki tutarlılığı
+hiçbir kapı denetlemiyor — bu, borç defterine yazılması gereken bir
+denetim boşluğu.

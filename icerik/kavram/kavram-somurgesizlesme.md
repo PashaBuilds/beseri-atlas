@@ -26,6 +26,7 @@ ilgili:
   - aktor-hokand-hanligi
   - aktor-kongo-kralligi
   - kavram-himaye-duzeni
+  - aktor-fiji-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

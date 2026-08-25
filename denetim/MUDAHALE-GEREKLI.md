@@ -627,3 +627,15 @@ alanlarina bolmeyi oneren ve sorunu devletler hukukuna tasiyan
 yaklasimlar, kunyelenebilir kaynak bulunamadigi icin dosyaya alinmadi.
 Dort konum alanin tamami degil ve bu dosyanin metninde de yazili.
 Oncelik: dusuk.
+
+### 2026-08-25 (dorduncu tur) — kapilarin denetlemedigi bir alan
+
+Fiji dosyasinin ozetinde "yirmi yil suren" yaziyordu; govde uc yil diyor.
+Elle yakalandi ve duzeltildi.
+
+**Denetim bosluğu.** Hicbir kapi, `ozet` alanindaki iddialarla govdedeki
+iddialar arasindaki tutarliligi denetlemiyor. Ayni bosluk
+`tarih_baslangic`/`tarih_bitis` ile govdedeki tarih ifadeleri arasinda da
+var. Oncelik: orta. Bir kapi yazilabilir (ozet icindeki sayi ve tarih
+ifadelerini govdeyle karsilastiran bir denetim), ama yanlis pozitif
+orani yuksek olabilir.

@@ -25,6 +25,7 @@ ilgili:
   - aktor-hawai-kralligi
   - tartisma-waitangi-hangi-metin
   - aktor-tonga-kralligi
+  - aktor-fiji-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

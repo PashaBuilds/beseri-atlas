@@ -28,6 +28,7 @@ ilgili:
   - kavram-arkeolojik-kanit
   - tartisma-romanin-cokus-nedeni
   - aktor-pagan-kralligi
+  - aktor-rapa-nui
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

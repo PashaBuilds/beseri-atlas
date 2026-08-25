@@ -24,6 +24,8 @@ ilgili:
   - kavram-birincil-kaynak
   - kavram-somurgesizlesme
   - kavram-himaye-duzeni
+  - aktor-fiji-kralligi
+  - aktor-rapa-nui
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

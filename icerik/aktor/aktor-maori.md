@@ -26,6 +26,7 @@ ilgili:
   - olay-waitangi-antlasmasi-1840
   - tartisma-waitangi-hangi-metin
   - aktor-tonga-kralligi
+  - aktor-rapa-nui
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
