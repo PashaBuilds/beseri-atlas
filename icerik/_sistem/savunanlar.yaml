@@ -1,0 +1,448 @@
+# Tartisma dosyalarinda kullanilabilecek 'savunanlar' adlari.
+#
+# Gerekce: tartisma semasi her pozisyon icin en az bir savunan adi zorunlu
+# kiliyor ve hicbir kapi bu alani denetlemiyordu. Bir kisiyi savunmadigi bir
+# konuma yerlestirmek atlasin yapabilecegi en agir hatadir; bu kutuk, yeni bir
+# ad eklemeyi gorunur ve kasitli bir islem haline getirir.
+#
+# durum alani:
+#   dogrulandi  — atif, dosyanin kunyesindeki kaynaklardan dogrulandi
+#   devralinan  — kutuk kurulmadan once yazilmis dosyalardan gelen ad;
+#                 dogrulanmadi, borc defterinde duruyor
+#
+# Yeni ad eklerken: once atfi dogrula, sonra durum: dogrulandi ile ekle.
+# Dogrulanamiyorsa kisi adi yerine cizgi/yaklasim adi kullan.
+
+adlar:
+  - ad: "19. yüzyıldan bu yana süregelen ana akım okuma"
+    durum: devralinan
+    gectigi: [tartisma-tunc-cagi-cokusunun-nedeni]
+  - ad: "1980 öncesi tarih yazımı"
+    durum: devralinan
+    gectigi: [tartisma-osmanli-gerileme-tezi]
+  - ad: "1980 sonrası Osmanlı tarih yazımı"
+    durum: devralinan
+    gectigi: [tartisma-osmanli-gerileme-tezi]
+  - ad: "20. yüzyıl öncesi kuramların çoğu"
+    durum: devralinan
+    gectigi: [tartisma-yazinin-icadi-nerede]
+  - ad: "20. yüzyıl sonu ekonometrik çalışmaları"
+    durum: devralinan
+    gectigi: [tartisma-kalkinma-yardimi-ise-yariyor-mu]
+  - ad: "21. yüzyıl başı çalışmaları"
+    durum: devralinan
+    gectigi: [tartisma-kalkinma-yardimi-ise-yariyor-mu]
+  - ad: "Ağ temelli imparatorluk okuması"
+    durum: devralinan
+    gectigi: [tartisma-imparatorluk-siniri-nasil-cizilir]
+  - ad: "Albert Mathiez"
+    durum: devralinan
+    gectigi: [tartisma-fransiz-devrimi-yorumlari]
+  - ad: "Albert Soboul"
+    durum: devralinan
+    gectigi: [tartisma-fransiz-devrimi-yorumlari]
+  - ad: "Alfred Cobban"
+    durum: devralinan
+    gectigi: [tartisma-fransiz-devrimi-yorumlari]
+  - ad: "Andre Gunder Frank"
+    durum: devralinan
+    gectigi: [tartisma-bati-neden-yukseldi]
+  - ad: "anlatı çözümlemesi yaklaşımı"
+    durum: dogrulandi
+    gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
+  - ad: "Anlatı temelli tarih yazımı"
+    durum: devralinan
+    gectigi: [tartisma-tarihsel-sayilar-nasil-okunur]
+  - ad: "Atlasın kendi kaydı"
+    durum: devralinan
+    gectigi: [tartisma-ikinci-dunya-savasi-sorumlulugu, tartisma-iklim-ve-cokus, tartisma-imparatorluk-nufusu-nasil-sayilir, tartisma-kesif-mi-istila-mi, tartisma-mogol-etkisi, tartisma-nufus-artisi-tehdit-mi, tartisma-somurgeciligin-ekonomik-bilancosu]
+  - ad: "Atlasın uyguladığı yöntem"
+    durum: devralinan
+    gectigi: [tartisma-tarihsel-sayilar-nasil-okunur]
+  - ad: "Avusturya Okulu"
+    durum: devralinan
+    gectigi: [tartisma-1929-krizinin-nedeni]
+  - ad: "Bağımlılık kuramı"
+    durum: devralinan
+    gectigi: [tartisma-kalkinma-neden-basarisiz]
+  - ad: "Belge merkezli tarihçilik geleneği"
+    durum: dogrulandi
+    gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
+  - ad: "Beslenme ve iskelet patolojisi literatürü"
+    durum: devralinan
+    gectigi: [tartisma-tarim-devrimi-ilerleme-mi]
+  - ad: "Bin Wong"
+    durum: devralinan
+    gectigi: [tartisma-bati-neden-yukseldi]
+  - ad: "Brian Hayden"
+    durum: devralinan
+    gectigi: [tartisma-tarim-devrimi-neden]
+  - ad: "Bryan Ward-Perkins"
+    durum: devralinan
+    gectigi: [tartisma-romanin-cokus-nedeni]
+  - ad: "Carl Sauer"
+    durum: devralinan
+    gectigi: [tartisma-tarim-devrimi-neden]
+  - ad: "Christopher Clark"
+    durum: devralinan
+    gectigi: [tartisma-1914-savas-sorumlulugu]
+  - ad: "Çevresel açıklama literatürü"
+    durum: devralinan
+    gectigi: [tartisma-tunc-cagi-cokusunun-nedeni]
+  - ad: "Daron Acemoğlu"
+    durum: devralinan
+    gectigi: [tartisma-bati-neden-yukseldi]
+  - ad: "Demografik kapasite yaklaşımı"
+    durum: devralinan
+    gectigi: [tartisma-tarim-devrimi-ilerleme-mi]
+  - ad: "Ders kitabı ve popüler tarih anlatımı"
+    durum: devralinan
+    gectigi: [tartisma-tarihsel-sayilar-nasil-okunur]
+  - ad: "Douglass North"
+    durum: devralinan
+    gectigi: [tartisma-bati-neden-yukseldi]
+  - ad: "Edward Gibbon"
+    durum: devralinan
+    gectigi: [tartisma-romanin-cokus-nedeni]
+  - ad: "Ekonometrik tarih örneği"
+    durum: devralinan
+    gectigi: [tartisma-karsi-olgusal-tarih]
+  - ad: "Elizabeth A. R. Brown"
+    durum: devralinan
+    gectigi: [tartisma-feodalite-kavrami]
+  - ad: "Eric Jones"
+    durum: devralinan
+    gectigi: [tartisma-bati-neden-yukseldi]
+  - ad: "Eric Williams"
+    durum: devralinan
+    gectigi: [tartisma-bati-neden-yukseldi]
+  - ad: "Eyyûbî kaydı"
+    durum: devralinan
+    gectigi: [tartisma-imparatorluk-nufusu-nasil-sayilir]
+  - ad: "Fernand Braudel"
+    durum: devralinan
+    gectigi: [tartisma-buyuk-adam-kurami]
+  - ad: "Folklor ve edebiyat incelemesi çizgisi"
+    durum: dogrulandi
+    gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
+  - ad: "François Furet"
+    durum: devralinan
+    gectigi: [tartisma-fransiz-devrimi-yorumlari]
+  - ad: "François Louis Ganshof"
+    durum: devralinan
+    gectigi: [tartisma-feodalite-kavrami]
+  - ad: "Fritz Fischer"
+    durum: devralinan
+    gectigi: [tartisma-1914-savas-sorumlulugu]
+  - ad: "Geç Antikite yaklaşımı"
+    durum: devralinan
+    gectigi: [tartisma-romanin-cokus-nedeni]
+  - ad: "Geleneksel adlandırma"
+    durum: devralinan
+    gectigi: [tartisma-kesif-mi-istila-mi]
+  - ad: "Geleneksel ders kitabı gösterimi"
+    durum: devralinan
+    gectigi: [tartisma-imparatorluk-siniri-nasil-cizilir]
+  - ad: "Georges Duby"
+    durum: devralinan
+    gectigi: [tartisma-feodalite-kavrami]
+  - ad: "Georges Lefebvre"
+    durum: devralinan
+    gectigi: [tartisma-fransiz-devrimi-yorumlari]
+  - ad: "Göktürk kaydı"
+    durum: devralinan
+    gectigi: [tartisma-imparatorluk-nufusu-nasil-sayilir]
+  - ad: "Hastalık temelli açıklama"
+    durum: devralinan
+    gectigi: [tartisma-tunc-cagi-cokusunun-nedeni]
+  - ad: "Henri Pirenne"
+    durum: devralinan
+    gectigi: [tartisma-romanin-cokus-nedeni]
+  - ad: "Herbert Spencer"
+    durum: devralinan
+    gectigi: [tartisma-buyuk-adam-kurami]
+  - ad: "Holger H. Herwig"
+    durum: devralinan
+    gectigi: [tartisma-1914-savas-sorumlulugu]
+  - ad: "Imanuel Geiss"
+    durum: devralinan
+    gectigi: [tartisma-1914-savas-sorumlulugu]
+  - ad: "Immanuel Wallerstein"
+    durum: devralinan
+    gectigi: [tartisma-bati-neden-yukseldi]
+  - ad: "İktisadi bozulma açıklaması"
+    durum: devralinan
+    gectigi: [tartisma-tunc-cagi-cokusunun-nedeni]
+  - ad: "James Joll"
+    durum: devralinan
+    gectigi: [tartisma-1914-savas-sorumlulugu]
+  - ad: "James Robinson"
+    durum: devralinan
+    gectigi: [tartisma-bati-neden-yukseldi]
+  - ad: "Jan Vansina"
+    durum: dogrulandi
+    gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
+  - ad: "Jared Diamond"
+    durum: devralinan
+    gectigi: [tartisma-bati-neden-yukseldi]
+  - ad: "Joachim Remak"
+    durum: devralinan
+    gectigi: [tartisma-1914-savas-sorumlulugu]
+  - ad: "John Röhl"
+    durum: devralinan
+    gectigi: [tartisma-1914-savas-sorumlulugu]
+  - ad: "Joseph Ki-Zerbo"
+    durum: dogrulandi
+    gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
+  - ad: "Karşılaştırmalı tarihsel çözümleme"
+    durum: devralinan
+    gectigi: [tartisma-kalkinma-neden-basarisiz]
+  - ad: "Kaynağın 19. yüzyıl bölümü"
+    durum: devralinan
+    gectigi: [tartisma-fransiz-devrimi-yorumlari]
+  - ad: "Kaynağın 21. yüzyıl kaydı"
+    durum: devralinan
+    gectigi: [tartisma-fransiz-devrimi-yorumlari]
+  - ad: "Kaynağın açılış anlatısı"
+    durum: devralinan
+    gectigi: [tartisma-hacli-seferlerinin-nedeni]
+  - ad: "Kaynağın ad listesi"
+    durum: devralinan
+    gectigi: [tartisma-nufus-artisi-tehdit-mi]
+  - ad: "Kaynağın aktardığı ara konum"
+    durum: devralinan
+    gectigi: [tartisma-osmanli-gerileme-tezi]
+  - ad: "Kaynağın aktardığı araştırmacı çoğunluğu"
+    durum: devralinan
+    gectigi: [tartisma-eksen-cagi-gercek-mi]
+  - ad: "Kaynağın aktardığı bağımlılık literatürü"
+    durum: devralinan
+    gectigi: [tartisma-somurgeciligin-ekonomik-bilancosu]
+  - ad: "Kaynağın aktardığı eleştiriler"
+    durum: devralinan
+    gectigi: [tartisma-eksen-cagi-gercek-mi]
+  - ad: "Kaynağın aktardığı yaygın konum"
+    durum: devralinan
+    gectigi: [tartisma-milliyetcilik-ne-zaman]
+  - ad: "Kaynağın ana bölümleri"
+    durum: devralinan
+    gectigi: [tartisma-kalkinma-neden-basarisiz]
+  - ad: "Kaynağın arka plan anlatısı"
+    durum: devralinan
+    gectigi: [tartisma-hacli-seferlerinin-nedeni]
+  - ad: "Kaynağın ayrım uyarısı"
+    durum: devralinan
+    gectigi: [tartisma-karsi-olgusal-tarih]
+  - ad: "Kaynağın doğuş bölümü"
+    durum: devralinan
+    gectigi: [tartisma-yazinin-icadi-nerede]
+  - ad: "Kaynağın düzeltmecilik bölümü"
+    durum: devralinan
+    gectigi: [tartisma-soguk-savasin-baslangici]
+  - ad: "Kaynağın düzeltmecilik sonrası bölümü"
+    durum: devralinan
+    gectigi: [tartisma-soguk-savasin-baslangici]
+  - ad: "Kaynağın eleştirel değerlendirme bölümü"
+    durum: devralinan
+    gectigi: [tartisma-demografik-donum-sonuclari]
+  - ad: "Kaynağın eleştiriler bölümü"
+    durum: devralinan
+    gectigi: [tartisma-soykirim-kavrami]
+  - ad: "Kaynağın genel bakış bölümü"
+    durum: devralinan
+    gectigi: [tartisma-buyuk-adam-kurami]
+  - ad: "Kaynağın gerekçelendirme bölümü"
+    durum: devralinan
+    gectigi: [tartisma-somurgeciligin-ekonomik-bilancosu]
+  - ad: "Kaynağın Herder kaydı"
+    durum: devralinan
+    gectigi: [tartisma-milliyetcilik-ne-zaman]
+  - ad: "Kaynağın hukuki yönler bölümü"
+    durum: devralinan
+    gectigi: [tartisma-antik-kolelik-ekonomisi]
+  - ad: "Kaynağın iktisadi bölümü"
+    durum: devralinan
+    gectigi: [tartisma-demografik-donum-sonuclari]
+  - ad: "Kaynağın İpek Yolu bölümü"
+    durum: devralinan
+    gectigi: [tartisma-mogol-etkisi]
+  - ad: "Kaynağın kendi başlığı"
+    durum: devralinan
+    gectigi: [tartisma-kesif-mi-istila-mi, tartisma-sanayi-devrimi-neden-ingiltere]
+  - ad: "Kaynağın kuram anlatımı"
+    durum: devralinan
+    gectigi: [tartisma-nufus-artisi-tehdit-mi]
+  - ad: "Kaynağın Mason-Overy tartışması bölümü"
+    durum: devralinan
+    gectigi: [tartisma-ikinci-dunya-savasi-sorumlulugu]
+  - ad: "Kaynağın miras bölümü"
+    durum: devralinan
+    gectigi: [tartisma-mogol-etkisi]
+  - ad: "Kaynağın nihai nedenler bölümü"
+    durum: devralinan
+    gectigi: [tartisma-ikinci-dunya-savasi-sorumlulugu]
+  - ad: "Kaynağın olası etkenler listesi"
+    durum: devralinan
+    gectigi: [tartisma-sanayi-devrimi-neden-ingiltere]
+  - ad: "Kaynağın Orta Doğu kaydı"
+    durum: devralinan
+    gectigi: [tartisma-kara-olumun-sonuclari]
+  - ad: "Kaynağın ortodoks bölümü"
+    durum: devralinan
+    gectigi: [tartisma-soguk-savasin-baslangici]
+  - ad: "Kaynağın örgütlenme anlatısı"
+    durum: devralinan
+    gectigi: [tartisma-hacli-seferlerinin-nedeni]
+  - ad: "Kaynağın özellikler bölümü"
+    durum: devralinan
+    gectigi: [tartisma-antik-kolelik-ekonomisi]
+  - ad: "Kaynağın sonuçlar bölümü"
+    durum: devralinan
+    gectigi: [tartisma-kara-olumun-sonuclari]
+  - ad: "Kaynağın Sovyet tarih yazımı bölümü"
+    durum: devralinan
+    gectigi: [tartisma-soguk-savasin-baslangici]
+  - ad: "Kaynağın süreklilik cümlesi"
+    durum: devralinan
+    gectigi: [tartisma-aydinlanmanin-sinirlari]
+  - ad: "Kaynağın tanım bölümü"
+    durum: devralinan
+    gectigi: [tartisma-kalkinma-yardimi-ise-yariyor-mu, tartisma-karsi-olgusal-tarih, tartisma-vestfalya-miti]
+  - ad: "Kaynağın tanım cümlesi"
+    durum: devralinan
+    gectigi: [tartisma-aydinlanmanin-sinirlari, tartisma-demografik-donum-sonuclari]
+  - ad: "Kaynağın taraf listeleri"
+    durum: devralinan
+    gectigi: [tartisma-kesif-mi-istila-mi]
+  - ad: "Kaynağın tarih bölümü"
+    durum: devralinan
+    gectigi: [tartisma-vestfalya-miti]
+  - ad: "Kaynağın terminoloji bölümü"
+    durum: devralinan
+    gectigi: [tartisma-antik-kolelik-ekonomisi, tartisma-yazinin-icadi-nerede]
+  - ad: "Kaynağın tikel nedenler bölümü"
+    durum: devralinan
+    gectigi: [tartisma-1929-krizinin-nedeni]
+  - ad: "Kaynağın toplumbilim bölümü"
+    durum: devralinan
+    gectigi: [tartisma-milliyetcilik-ne-zaman]
+  - ad: "Kaynağın toplumsal büyüme alt başlığı"
+    durum: devralinan
+    gectigi: [tartisma-iklim-ve-cokus]
+  - ad: "Kaynağın toplumsal çöküş alt başlığı"
+    durum: devralinan
+    gectigi: [tartisma-iklim-ve-cokus]
+  - ad: "Kaynağın verdiği aralık"
+    durum: devralinan
+    gectigi: [tartisma-kara-olumun-sonuclari]
+  - ad: "Kaynağın verdiği ilk sayı"
+    durum: devralinan
+    gectigi: [tartisma-kara-olumun-sonuclari]
+  - ad: "Kaynağın yakın nedenler bölümü"
+    durum: devralinan
+    gectigi: [tartisma-ikinci-dunya-savasi-sorumlulugu]
+  - ad: "Kaynağın yayılma cümlesi"
+    durum: devralinan
+    gectigi: [tartisma-aydinlanmanin-sinirlari]
+  - ad: "Kenneth Pomeranz"
+    durum: devralinan
+    gectigi: [tartisma-bati-neden-yukseldi, tartisma-sanayi-devrimi-neden-ingiltere]
+  - ad: "Kenneth Pomeranz (kısmen)"
+    durum: devralinan
+    gectigi: [tartisma-bati-neden-yukseldi]
+  - ad: "Kent Flannery"
+    durum: devralinan
+    gectigi: [tartisma-tarim-devrimi-neden]
+  - ad: "Keynesyen yaklaşım"
+    durum: devralinan
+    gectigi: [tartisma-1929-krizinin-nedeni]
+  - ad: "kurumsal iktisat"
+    durum: devralinan
+    gectigi: [tartisma-kalkinma-neden-basarisiz]
+  - ad: "Leopold von Ranke çizgisi"
+    durum: dogrulandi
+    gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
+  - ad: "Lewis Binford"
+    durum: devralinan
+    gectigi: [tartisma-tarim-devrimi-neden]
+  - ad: "maddi kanıt önceliği yaklaşımı"
+    durum: dogrulandi
+    gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
+  - ad: "Marc Bloch"
+    durum: devralinan
+    gectigi: [tartisma-feodalite-kavrami]
+  - ad: "Marksist yaklaşım"
+    durum: devralinan
+    gectigi: [tartisma-1929-krizinin-nedeni]
+  - ad: "Monetarist yaklaşım"
+    durum: devralinan
+    gectigi: [tartisma-1929-krizinin-nedeni]
+  - ad: "Nicel tarih yazımı"
+    durum: devralinan
+    gectigi: [tartisma-imparatorluk-siniri-nasil-cizilir]
+  - ad: "Nicel ve eleştirel tarih yazımı"
+    durum: devralinan
+    gectigi: [tartisma-tarihsel-sayilar-nasil-okunur]
+  - ad: "Osmanlı taşra düzeni literatürü"
+    durum: devralinan
+    gectigi: [tartisma-imparatorluk-siniri-nasil-cizilir]
+  - ad: "Paul Kennedy"
+    durum: devralinan
+    gectigi: [tartisma-1914-savas-sorumlulugu]
+  - ad: "Peter Heather"
+    durum: devralinan
+    gectigi: [tartisma-romanin-cokus-nedeni]
+  - ad: "Peter Richerson"
+    durum: devralinan
+    gectigi: [tartisma-tarim-devrimi-ilerleme-mi]
+  - ad: "Prasannan Parthasarathi"
+    durum: devralinan
+    gectigi: [tartisma-bati-neden-yukseldi]
+  - ad: "Raphael Pumpelly"
+    durum: devralinan
+    gectigi: [tartisma-tarim-devrimi-neden]
+  - ad: "Robert Bettinger"
+    durum: devralinan
+    gectigi: [tartisma-tarim-devrimi-ilerleme-mi]
+  - ad: "Robert Boyd"
+    durum: devralinan
+    gectigi: [tartisma-tarim-devrimi-ilerleme-mi]
+  - ad: "Robert John Braidwood"
+    durum: devralinan
+    gectigi: [tartisma-tarim-devrimi-neden]
+  - ad: "Samuel R. Williamson Jr."
+    durum: devralinan
+    gectigi: [tartisma-1914-savas-sorumlulugu]
+  - ad: "Soykırım araştırmaları literatürü"
+    durum: devralinan
+    gectigi: [tartisma-soykirim-kavrami]
+  - ad: "Susan Reynolds"
+    durum: devralinan
+    gectigi: [tartisma-feodalite-kavrami]
+  - ad: "Süreçsel arkeoloji çizgisi"
+    durum: dogrulandi
+    gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
+  - ad: "Teknoloji felsefesinin insani hattı"
+    durum: devralinan
+    gectigi: [tartisma-teknolojik-belirlenimcilik]
+  - ad: "Teknoloji felsefesinin kendi tarihi"
+    durum: devralinan
+    gectigi: [tartisma-teknolojik-belirlenimcilik]
+  - ad: "Teknolojinin toplumsal inşası yaklaşımı"
+    durum: devralinan
+    gectigi: [tartisma-teknolojik-belirlenimcilik]
+  - ad: "Uluslararası hukuk kurumları"
+    durum: devralinan
+    gectigi: [tartisma-soykirim-kavrami]
+  - ad: "UNESCO Genel Afrika Tarihi ekibi"
+    durum: dogrulandi
+    gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
+  - ad: "V. Gordon Childe"
+    durum: devralinan
+    gectigi: [tartisma-tarim-devrimi-ilerleme-mi, tartisma-tarim-devrimi-neden]
+  - ad: "William James"
+    durum: devralinan
+    gectigi: [tartisma-buyuk-adam-kurami]
+  - ad: "Yaygın anlatı"
+    durum: devralinan
+    gectigi: [tartisma-vestfalya-miti]

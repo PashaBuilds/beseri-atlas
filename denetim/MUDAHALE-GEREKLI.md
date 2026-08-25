@@ -485,3 +485,20 @@ Kaynağı denetleyen on üç kapının hiçbiri çıktıdaki eksikliği ölçmü
 KAPI 12 bile render artığı ve kırık bağ arıyordu, eksik içerik değil. Kayıp
 ancak kaynak ile çıktıyı karşılaştıran bir kapı (KAPI 14) yazıldığında
 görünür oldu.
+
+## Savunan atiflarinin dogrulanmasi (2026-08-25, KAPI 16 ile acildi)
+
+Tartisma dosyalarindaki `savunanlar` alaninda **162 atif** var; bunlarin
+yalnizca **9'u dogrulanmis** durumda (%6). Kalan 153 atif, kutuk kurulmadan
+once yazilmis dosyalardan geliyor ve `durum: devralinan` olarak isaretlendi.
+
+Neden onemli: bir kisiyi savunmadigi bir konuma yerlestirmek atlasin
+yapabilecegi en agir hatadir. KAPI 16 artik **yeni** adlarin sessizce
+girmesini engelliyor ama devralinanlari dogrulamiyor.
+
+Yapilmasi gereken: her devralinan ad icin atfin dogrulanmasi ve
+`icerik/_sistem/savunanlar.yaml` icinde `durum: dogrulandi` yapilmasi.
+Dogrulanamayan adlar, kisi adi yerine cizgi/yaklasim adiyla degistirilmeli.
+
+Oncelik: yuksek. Bu, atlasin baska hicbir kapisinin olcmedigi bir hata
+sinifi ve okuyucuya dogrulanmis gibi gorunuyor.
