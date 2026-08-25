@@ -25,6 +25,7 @@ ilgili:
   - kavram-kanit-turu
   - olay-waitangi-antlasmasi-1840
   - tartisma-waitangi-hangi-metin
+  - aktor-tonga-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

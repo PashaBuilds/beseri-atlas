@@ -43,6 +43,7 @@ ilgili:
   - kaynak-hobsbawm-caglar
   - dusunur-du-bois
   - aktor-hawai-kralligi
+  - aktor-tonga-kralligi
 okuma_onerisi: []
 serit:
   - bolge: afrika

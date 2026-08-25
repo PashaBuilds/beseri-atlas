@@ -24,6 +24,7 @@ ilgili:
   - kavram-kanit-turu
   - kavram-somurgesizlesme
   - tartisma-waitangi-hangi-metin
+  - aktor-tonga-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

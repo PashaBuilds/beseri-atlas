@@ -21,6 +21,7 @@ ilgili:
   - olay-waitangi-antlasmasi-1840
   - aktor-hawai-kralligi
   - tartisma-waitangi-hangi-metin
+  - aktor-tonga-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

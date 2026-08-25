@@ -33,6 +33,7 @@ ilgili:
   - aktor-sokoto-hilafeti
   - olay-waitangi-antlasmasi-1840
   - aktor-hawai-kralligi
+  - aktor-tonga-kralligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

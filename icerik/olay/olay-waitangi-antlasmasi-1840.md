@@ -24,6 +24,7 @@ ilgili:
   - kavram-somurgesizlesme
   - aktor-hawai-kralligi
   - tartisma-waitangi-hangi-metin
+  - aktor-tonga-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

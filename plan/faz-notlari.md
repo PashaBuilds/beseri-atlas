@@ -1710,3 +1710,42 @@ dosyanın metninde hem defterde yazılı.
 **Kalibrasyon.** Tartışma dosyalarında ilk gövde %32'de kaldı — pozisyon
 blokları uzunluk sayımına girmiyor. Tartışma dosyası için gövde tek
 başına 22-24 bölüm gerektiriyor; bu ilk ölçüm.
+
+## Tur — Tonga: karşılaştırmalı Okyanusya dosyası (25 Ağustos 2026)
+
+Eklenen: `aktor-tonga-kralligi`. Toplam 426 → 427. Okyanusya 9 makale.
+
+**Neden bu.** Hawai dosyası tek başına bir vaka anlatısıydı. Tonga onunla
+birlikte bir karşılaştırma kuruyor: aynı okyanus, aynı yüzyıl, benzer
+baskı, aynı araç (yazılı anayasa, meclis, tanınma arayışı) — karşıt
+sonuç. Biri devrildi ve ilhak edildi, öteki hanedanını ve toprak düzenini
+korudu.
+
+**Karşılaştırmanın verdiği.** Aynı araç karşıt sonuç verdiyse, sonucu
+belirleyen araç değildir. Bu, "yazılı anayasa kabul etmek koruma sağlar"
+varsayımını doğrudan bozuyor. Fark aranacak yer belgelerin varlığı değil
+içeriği — ve iki metin karşılaştırıldığında en keskin ayrım toprak
+hükümlerinde: Tonga anayasası toprağın yabancılara satılmasını yasaklıyor,
+Hawai'de toprak yüzyıl ortasında alınıp satılabilir hâle getirilmişti.
+
+Zincir hukuki bir kararla başlıyor: toprak toplanamazsa plantasyon
+ekonomisi kurulamaz, kurulamazsa o sermayeyi taşıyan nüfus siyasi ağırlık
+kazanamaz. Dosya bunu tek neden saymıyor — konum, büyüklük ve ekonomik
+çekicilik farkları da yazılı — ama izlenebilir en keskin ve en doğrudan
+fark olarak kaydediyor.
+
+**İkinci gözlem — savunma amaçlı anayasa.** Dönemin uluslararası
+pratiğinde bir düzenin devlet sayılması belirli kurumsal biçimleri
+taşımasına bağlıydı; taşımayanlar ilhak edilebilir sayılıyordu. Anayasa bu
+nedenle savunma amaçlı da okunabilir: devlet kendini dışarıdakilerin
+tanıyabileceği biçime sokarak korunmayı umdu. Ama Hawai de aynı biçimi
+taşıyordu — biçime uyum bir koşul, güvence değil.
+
+**Yeni künye alt türü kullanımı.** 1911 Britannica maddesi `birincil_tur:
+tanik` olarak künyelendi — olgu kaynağı olarak değil dönem tanıklığı
+olarak. Bir metnin tanıklık olarak okunması, olgu bildirimi olarak
+okunmasından farklı kurallara tabidir ve bu dosyada açıkça yazıldı.
+
+**Beyan edilen sınır.** İki örnekten kural çıkarılamaz. Ölçülebilir bir
+iddia için aynı okyanustan daha çok örnek gerekiyor; bu açık borç olarak
+dosyanın kendi metnine yazıldı.

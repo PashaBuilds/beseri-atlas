@@ -29,6 +29,7 @@ ilgili:
   - kavram-kaynak-elestirisi
   - kavram-kanit-turu
   - kavram-somurgesizlesme
+  - aktor-tonga-kralligi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:
