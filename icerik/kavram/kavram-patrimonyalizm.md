@@ -13,6 +13,7 @@ ilgili:
   - dusunur-weber
   - kavram-burokrasi
   - kavram-mesruiyet
+  - kaynak-ain-i-akbari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

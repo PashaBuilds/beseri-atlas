@@ -27,6 +27,7 @@ ilgili:
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - veri-dunya-nufusu-1500-2025
   - kavram-bozkir-imparatorlugu
+  - kaynak-ain-i-akbari
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

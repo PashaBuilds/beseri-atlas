@@ -38,6 +38,8 @@ ilgili:
   - aktor-kilva
   - aktor-malaka-sultanligi
   - aktor-ayutthaya-kralligi
+  - aktor-bengal-sultanligi
+  - aktor-gucerat-sultanligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

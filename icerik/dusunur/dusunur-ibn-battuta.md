@@ -26,6 +26,7 @@ ilgili:
   - kavram-svahili-kiyisi
   - aktor-ace-sultanligi
   - aktor-maldiv-sultanligi
+  - aktor-bengal-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

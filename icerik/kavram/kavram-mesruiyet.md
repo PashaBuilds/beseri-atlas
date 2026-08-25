@@ -35,6 +35,7 @@ ilgili:
   - kaynak-yusuf-has-hacib-kutadgu-bilig
   - kaynak-guaman-poma-nueva-coronica
   - aktor-pagan-kralligi
+  - kaynak-baburname
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

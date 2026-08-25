@@ -17,6 +17,7 @@ ilgili:
   - aktor-timur-imparatorlugu
   - aktor-babur-imparatorlugu
   - kavram-kast
+  - aktor-bengal-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

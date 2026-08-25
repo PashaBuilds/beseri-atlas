@@ -29,6 +29,7 @@ ilgili:
   - donem-12
   - tartisma-karsi-olgusal-tarih
   - kaynak-kautilya-arthasastra
+  - kaynak-baburname
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -17,6 +17,7 @@ ilgili:
   - aktor-gokturk-kaganligi
   - aktor-osmanli-imparatorlugu
   - aktor-delhi-sultanligi
+  - kaynak-baburname
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

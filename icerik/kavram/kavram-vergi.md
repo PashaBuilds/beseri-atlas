@@ -13,6 +13,9 @@ ilgili:
   - kavram-timar
   - kavram-para
   - kavram-burokrasi
+  - kaynak-ain-i-akbari
+  - aktor-bengal-sultanligi
+  - aktor-gucerat-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

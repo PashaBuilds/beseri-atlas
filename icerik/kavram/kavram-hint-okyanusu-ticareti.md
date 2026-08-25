@@ -23,6 +23,8 @@ ilgili:
   - aktor-ayutthaya-kralligi
   - aktor-ace-sultanligi
   - aktor-maldiv-sultanligi
+  - aktor-bengal-sultanligi
+  - aktor-gucerat-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

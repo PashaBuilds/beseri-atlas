@@ -17,6 +17,10 @@ ilgili:
   - aktor-safevi-devleti
   - olay-1857-hint-ayaklanmasi
   - aktor-delhi-sultanligi
+  - kaynak-ain-i-akbari
+  - kaynak-baburname
+  - aktor-bengal-sultanligi
+  - aktor-gucerat-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

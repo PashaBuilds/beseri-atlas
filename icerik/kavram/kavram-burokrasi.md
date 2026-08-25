@@ -22,6 +22,7 @@ ilgili:
   - dusunur-han-feizi
   - kavram-legalizm
   - kaynak-kautilya-arthasastra
+  - kaynak-ain-i-akbari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

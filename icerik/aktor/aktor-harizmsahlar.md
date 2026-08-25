@@ -19,6 +19,7 @@ ilgili:
   - aktor-mogol-imparatorlugu
   - kavram-kaynak-elestirisi
   - tartisma-mogol-etkisi
+  - kaynak-baburname
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -959,3 +959,37 @@ ya da nicelik geciyorsa kunye gerekiyor. Sonraki turlarda bu bolume de dipnot
 konmali.
 
 Toplam makale 386 -> 390.
+
+## Tur 33 — Guney Asya: kaynak once, aktor sonra (2026-08-25)
+
+Bu turda yontem degistirildi: once iki **kaynak** dosyasi yazildi, sonra o
+kaynaklara dayanan aktor dosyalari. Onceki turlarda tersi yapiliyordu ve
+aktor dosyalari kaynak bulunamadigi icin ansiklopedi maddelerine
+sikisiyordu.
+
+- **kaynak-ain-i-akbari**: bir imparatorlugun kendi kendini saydigi idari
+  envanter. Modern oncesi donemde tablo bicimli kaynak seyrektir; cogu kayit
+  olay anlatisidir. Gelir rakamlarinin tahsilat mi tahakkuk mu oldugu
+  ::tartismali olarak isaretlendi — iki okuma cok farkli ekonomik tablolar
+  uretiyor.
+- **kaynak-baburname**: bir hukumdarin kendi yenilgilerini de yazdigi
+  hatirat. Bir kaydin yazarinin aleyhine bilgi tasimasi guvenilirlik
+  isaretidir ama mutlak degil; yenilgiyi kabul etmek de bir anlati teknigi
+  olabilir. Dosyada bu ikisi ayri tutuldu.
+- **aktor-bengal-sultanligi** (1207 kelime): delta cografyasinin ayni anda
+  hem savunmayi kolaylastirip hem merkezilesmeyi engellemesi.
+- **aktor-gucerat-sultanligi** (1211 kelime): donanma kurmadan deniz
+  ticaretinden zenginlesen liman duzeni. Ace ile karsilastirmasi dosyada
+  acikca kuruldu: iki tercih, iki farkli son.
+
+Dort dosyanin hicbirinde Wikipedia kunyesi yok. TDV maddeleri ve birincil
+metinler yeterli oldu.
+
+### Yakalanan kendi hatam
+
+Gucerat dosyasinin okuma yonlendirmesinde `[Malva](/aktor/gucerat-sultanligi/)`
+yazmisim — dosyanin kendisine giden bir bag. KAPI 4 bunu yakalamadi cunku
+hedef gecerli bir dosya. **Kendine giden bag icin kapi yok.** Kuyruga
+eklendi: KAPI 4'e oz-bag denetimi.
+
+Toplam makale 390 -> 394.
