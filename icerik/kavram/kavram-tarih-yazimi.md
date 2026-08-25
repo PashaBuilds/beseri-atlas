@@ -35,6 +35,7 @@ ilgili:
   - tartisma-orta-asya-neden-cekildi
   - aktor-kus-kralligi
   - aktor-rapa-nui
+  - kaynak-magna-carta
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

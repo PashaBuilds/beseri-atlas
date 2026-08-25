@@ -29,6 +29,7 @@ ilgili:
   - dusunur-nagarjuna
   - aktor-olmek
   - dusunur-wang-yangming
+  - kaynak-magna-carta
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -2344,3 +2344,60 @@ toleransı yüzünden eşleşiyor ve yanlış bir çakışma uyarısı üretebil
 dosyasında aynı kaynaktan iki alıntı yakaladı. İlke 4 kaynak başına en
 fazla bir alıntıya izin veriyor; ikinci ifade tırnaksız hâle getirildi.
 Bu kapı ilk kez bu turda tetiklendi.
+
+## Tur — Kaynak katmanında belge türünün açılması (25 Ağustos 2026)
+
+Eklenen: `kaynak-hammurabi-kanunlari`, `kaynak-magna-carta`.
+Toplam 449 → 451.
+
+**Neden bu ikisi.** Kaynak katmanı 43 dosyaydı ve neredeyse tamamı
+yazarlı kitaplardan oluşuyordu — büyük ölçüde batı kuramı. Hukuk ve
+belge türünden tek bir kaynak yoktu: anayasa, antlaşma, kanun metni hiç
+künyelenmemişti. Bu, atlasın kendi ilkesiyle çelişen bir boşluktu.
+
+**Şema değişikliği gerekti.** `yayin_yili` alanının alt sınırı -500'dü.
+Kaynak katmanı kurulurken yalnızca yazarlı kitaplar düşünülmüş ve en
+eski örnek MÖ 5. yüzyıl olmuştu. Belge türü eklenmeye başlayınca sınır
+gerçek bir engel hâline geldi; -4000'e çekildi ve gerekçe dosyaya
+yazıldı. Atlasın dönem katmanı MÖ 10000'e uzanıyor, kaynak katmanının
+MÖ 500'de başlaması için bir gerekçe yoktu.
+
+**Hammurabi — eşitsizliğin açıkça yazılması.** Metnin en belirgin
+özelliği cezanın taraflara göre değişmesi ve bunun gizlenmemesi. Hüküm
+metinleri konumu doğrudan adlandırıyor ve farklı bedeli açıkça yazıyor.
+Metnin kendi adalet anlayışı: *adalet, herkese aynı ölçüyle davranmak
+değil, herkese konumuna uygun ölçüyle davranmaktır.*
+
+Bu, geçen tur vesayet dosyasında kaydedilen gözlemin ikinci ölçümü — bir
+hiyerarşinin belgede yazılı olması onu tartışılabilir kılıyor. İki belge
+arasında üç bin yedi yüz yıl var, yani gözlem artık bir döneme özgü
+değil.
+
+İkinci kayıt: metnin kanun mu yoksa hükümdar övgüsü mü olduğu
+tartışmalı, çünkü dönemin mahkeme kayıtlarında ona atıf
+gösterilememiş. Buradan çıkan künye kuralı: bir metnin kanun sayılması
+uygulandığının gösterilmesine bağlı; yazılmış olması yetmiyor.
+
+**Magna Carta — metin ile ona yüklenen anlam.** Maddelerin büyük bölümü
+feodal yükümlülükleri düzenliyor; bugün en çok alıntılanan iki madde,
+altmışı aşkın maddeden ikisi. Belge imzalandıktan üç ay sonra geçersiz
+ilan edilmiş.
+
+Buradan iki künye kuralı çıktı:
+- Bu belgeye atıf yapılırken **hangi yılın metninin** kastedildiği
+  yazılmalı; bugün yürürlükte sayılan maddeler 1215 metninden değil
+  sonraki bir yayımdan geliyor.
+- Kural, Waitangi dosyasındaki dil kuralıyla aynı aileden. İkisi
+  birlikte: çok dilli ya da çok sürümlü bir belgeye atıf yapılırken
+  hangi dil ve hangi tarih kastedildiği yazılmalı.
+
+**İki belgenin karşılaştırılması — turun asıl bulgusu.** Hammurabi
+eşitsizliği açıkça yazıyor; Magna Carta yazmıyor, kapsamı daraltarak
+uyguluyor. **Bir eşitsizlik, açıkça yazılabileceği gibi kapsam tanımıyla
+da kurulabilir; ikinci biçim daha zor görülür** — çünkü metinde bir
+ayrım maddesi bırakmaz ve kapsam daraltması unutulduğunda hüküm
+gerçekten genelmiş gibi okunabilir.
+
+**Kapı geri bildirimi.** KAPI 5 dönem bağlantısını yakaladı: doğru biçim
+`/donem/02/`, `/donem/donem-02/` değil. Kaynak dosyalarında ilk kez
+dönem bağlantısı kullanıldığı için bu turda ortaya çıktı.

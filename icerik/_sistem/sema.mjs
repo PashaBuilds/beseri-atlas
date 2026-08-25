@@ -143,7 +143,13 @@ const kaynakDosyasiSemasi = z.object({
   tip: z.literal('kaynak'),
   yazar: z.string().min(3),
   eser_adi: z.string().min(3),
-  yayin_yili: z.number().int().min(-500).max(2100),
+  // Alt sinir 2026-08-25'te -500'den -4000'e cekildi. Gerekce: kaynak
+  // katmani kurulurken yalnizca yazarli kitaplar dusunulmustu ve en eski
+  // ornek MO 5. yuzyildi. Belge turu kaynaklar (kanun metni, ferman,
+  // antlasma) eklenmeye baslayinca sinir gercek bir engel haline geldi;
+  // atlasin donem katmani MO 10000'e uzaniyor ve kaynak katmaninin
+  // MO 500'de baslamasi icin bir gerekce yok.
+  yayin_yili: z.number().int().min(-4000).max(2100),
   telif_durumu: z.enum(['kamu-mali','telifli']),
   tez_ozeti: z.string().min(80).max(900),
   hangi_tartismada: z.array(z.string()).default([]),

@@ -49,6 +49,7 @@ ilgili:
   - aktor-murabitlar
   - aktor-muvahhidler
   - aktor-cahokia
+  - kaynak-magna-carta
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

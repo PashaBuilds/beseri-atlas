@@ -49,6 +49,8 @@ ilgili:
   - aktor-murabitlar
   - aktor-muvahhidler
   - aktor-haudenosaunee
+  - kaynak-hammurabi-kanunlari
+  - kaynak-magna-carta
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

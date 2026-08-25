@@ -40,6 +40,7 @@ ilgili:
   - aktor-mapuche
   - aktor-rapa-nui
   - aktor-vijayanagara
+  - kaynak-hammurabi-kanunlari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

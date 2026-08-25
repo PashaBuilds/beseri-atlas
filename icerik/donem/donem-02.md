@@ -24,6 +24,7 @@ ilgili:
   - aktor-sumer-sehir-devletleri
   - tartisma-yazinin-icadi-nerede
   - aktor-indus-vadisi
+  - kaynak-hammurabi-kanunlari
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

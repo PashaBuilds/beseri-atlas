@@ -29,6 +29,7 @@ ilgili:
   - kavram-legalizm
   - kavram-taoizm
   - kavram-konfucyuscluk
+  - kaynak-magna-carta
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

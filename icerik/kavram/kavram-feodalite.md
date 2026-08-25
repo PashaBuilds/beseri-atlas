@@ -16,6 +16,7 @@ ilgili:
   - kavram-milliyetcilik
   - kavram-timar
   - tartisma-feodalite-kavrami
+  - kaynak-magna-carta
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

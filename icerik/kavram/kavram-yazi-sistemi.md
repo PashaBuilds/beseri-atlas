@@ -22,6 +22,7 @@ ilgili:
   - kavram-aletsiz-seyrusefer
   - aktor-kus-kralligi
   - aktor-cahokia
+  - kaynak-hammurabi-kanunlari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

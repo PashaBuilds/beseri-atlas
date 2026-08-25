@@ -19,6 +19,7 @@ ilgili:
   - aktor-birlesmis-milletler
   - olay-birinci-dunya-savasi
   - kavram-milliyetcilik
+  - kaynak-hammurabi-kanunlari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
