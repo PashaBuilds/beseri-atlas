@@ -23,6 +23,7 @@ ilgili:
   - olay-waitangi-antlasmasi-1840
   - kavram-emperyalizm
   - aktor-samoa-kralligi
+  - aktor-nauru
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

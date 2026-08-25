@@ -32,6 +32,7 @@ ilgili:
   - kaynak-tordesillas-antlasmasi
   - kaynak-afrika-birligi-sarti
   - kaynak-liberya-bagimsizlik-bildirisi
+  - aktor-nauru
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

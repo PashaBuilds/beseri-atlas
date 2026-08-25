@@ -20,6 +20,7 @@ ilgili:
   - kavram-somurgesizlesme
   - kavram-egemenlik
   - kavram-birincil-kaynak
+  - kavram-belge-okumasi
 okuma_onerisi: []
 yazar: "Liberya Kurucu Meclisi"
 eser_adi: "Declaration of Independence of Liberia"

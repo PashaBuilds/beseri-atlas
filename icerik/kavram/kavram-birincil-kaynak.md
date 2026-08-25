@@ -35,6 +35,7 @@ ilgili:
   - kaynak-hindistan-anayasasi
   - kaynak-meiji-anayasasi
   - kaynak-liberya-bagimsizlik-bildirisi
+  - kavram-belge-okumasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -32,6 +32,7 @@ ilgili:
   - tartisma-waitangi-hangi-metin
   - aktor-hazarlar
   - dusunur-sankara
+  - kavram-belge-okumasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

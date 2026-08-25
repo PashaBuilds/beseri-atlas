@@ -21,6 +21,7 @@ ilgili:
   - kavram-milliyetcilik
   - kaynak-hammurabi-kanunlari
   - kaynak-insan-haklari-beyannamesi
+  - aktor-nauru
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

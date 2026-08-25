@@ -23,6 +23,7 @@ ilgili:
   - kaynak-gulhane-hatti
   - kaynak-hindistan-anayasasi
   - kaynak-liberya-bagimsizlik-bildirisi
+  - kavram-belge-okumasi
 okuma_onerisi: []
 yazar: "Birlesmis Milletler Genel Kurulu"
 eser_adi: "Universal Declaration of Human Rights"

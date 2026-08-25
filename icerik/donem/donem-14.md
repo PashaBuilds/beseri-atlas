@@ -50,6 +50,7 @@ ilgili:
   - kaynak-insan-haklari-beyannamesi
   - kaynak-hindistan-anayasasi
   - kaynak-afrika-birligi-sarti
+  - aktor-nauru
 okuma_onerisi: []
 serit:
   - bolge: avrupa

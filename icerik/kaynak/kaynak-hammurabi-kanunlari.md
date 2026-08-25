@@ -20,6 +20,7 @@ ilgili:
   - kaynak-magna-carta
   - kavram-mesruiyet
   - kaynak-insan-haklari-beyannamesi
+  - kavram-belge-okumasi
 okuma_onerisi: []
 yazar: "Hammurabi (adina yazdirilmistir)"
 eser_adi: "Hammurabi Kanunlari"

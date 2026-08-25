@@ -22,6 +22,7 @@ ilgili:
   - tartisma-kesif-mi-istila-mi
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - kaynak-afrika-birligi-sarti
+  - kavram-belge-okumasi
 okuma_onerisi: []
 yazar: "Kastilya ve Portekiz krallikları (taraflar)"
 eser_adi: "Tratado de Tordesillas"

@@ -24,6 +24,7 @@ ilgili:
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - kavram-vesayet-yonetimi
   - kaynak-tordesillas-antlasmasi
+  - aktor-nauru
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -22,6 +22,7 @@ ilgili:
   - tartisma-osmanli-gerileme-tezi
   - kaynak-hindistan-anayasasi
   - kaynak-meiji-anayasasi
+  - kavram-belge-okumasi
 okuma_onerisi: []
 yazar: "Osmanli Devleti (ilan eden)"
 eser_adi: "Kanun-i Esasi"

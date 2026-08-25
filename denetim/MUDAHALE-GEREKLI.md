@@ -639,3 +639,15 @@ iddialar arasindaki tutarliligi denetlemiyor. Ayni bosluk
 var. Oncelik: orta. Bir kapi yazilabilir (ozet icindeki sayi ve tarih
 ifadelerini govdeyle karsilastiran bir denetim), ama yanlis pozitif
 orani yuksek olabilir.
+
+### 2026-08-25 — KAPI 15'te tek sozcuklu cekirdek sorunu
+
+`kavram-hukuk-devleti` ile `kavram-hukuki-belge-okumasi` cakisma uyarisi
+verdi. Cekirdekler {hukuk} ve {hukuki, belge, okumasi}; tek sozcuklu
+kucuk cekirdek buyugun icinde kaldigi icin kapsam testi gecti.
+
+Tek sozcuklu bir cekirdegin daha buyuk bir cekirdegin icinde bulunmasi
+zayif kanittir. Kapi, kucuk cekirdek tek sozcukten olusuyorsa ek bir
+kosul aramali (ornegin tarih araliklarinin da ortusmesi ya da tip
+esitligi). Dosya adi degistirilerek gecildi; kapi degistirilmedi.
+Oncelik: dusuk.

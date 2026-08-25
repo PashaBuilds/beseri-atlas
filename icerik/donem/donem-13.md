@@ -32,6 +32,7 @@ ilgili:
   - kaynak-hobsbawm-caglar
   - tartisma-1929-krizinin-nedeni
   - kaynak-tooze-felaketin-bedeli
+  - aktor-nauru
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 serit:

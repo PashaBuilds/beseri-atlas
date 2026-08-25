@@ -27,6 +27,7 @@ ilgili:
   - aktor-fiji-kralligi
   - aktor-rapa-nui
   - aktor-samoa-kralligi
+  - aktor-nauru
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

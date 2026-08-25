@@ -41,6 +41,7 @@ ilgili:
   - aktor-rapa-nui
   - aktor-vijayanagara
   - kaynak-hammurabi-kanunlari
+  - kavram-belge-okumasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

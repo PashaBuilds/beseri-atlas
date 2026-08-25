@@ -2621,3 +2621,60 @@ sömürge öncesi hüküm derlemelerinden ve antlaşmalardan — hiçbiri
 künyelenemedi. İki dosya da sömürgecilikle temas noktasında duruyor. Bu,
 atlasın kendi ölçtüğü dijital erişim eşitsizliğinin doğrudan bir
 örneği ve defterde duruyor.
+
+## Tur — Belge dizisinin kapak taşı ve Nauru (25 Ağustos 2026)
+
+Eklenen: `kavram-belge-okumasi`, `aktor-nauru`. Toplam 459 → 461.
+
+**Belge okuması — beş turun toplanması.** Son beş turda on hukuki belge
+künyelendi ve her birinde ayrı bir kısıt ölçüldü. Bu dosya yedisini bir
+listede topluyor. `kavram-kanit-turu` dosyasının kanıt türleri için
+yaptığını, bu dosya hukuki metinler için yapıyor.
+
+Yedi kısıt ve ölçüldükleri yer:
+
+1. **Kapsam dört biçimde kurulur** — eşitsizliği açıkça yaz, kapsamı
+   sessizce daralt, kapsamı açıkça genişlet, engeli adlandırıp hedef al.
+   (Hammurabi, Magna Carta, Gülhane–Beyanname, Hindistan)
+2. **İlan ile uygulama ayrı ölçülür** — yazılmış olmak yetmez.
+   (Hammurabi)
+3. **Metnin sustuğu yer, konuştuğu yer kadar belirleyici** — ve iki ilke
+   sıralanmadan yan yana konduğunda sıralamayı uygulama belirler.
+   (Meiji, OAU Şartı)
+4. **Hangi sürüm, hangi dil yazılmalı** — atlasın altı künyesinde
+   uygulandı, beşinde metin çeviri. (Waitangi, Magna Carta)
+5. **Kabul koşulları metinden okunamaz.** (Himaye, Fiji, Tordesillas,
+   OAU Şartı)
+6. **Sonraki hukuki değer sonraki kullanımdan gelir** — üç yönde de
+   işliyor. (Magna Carta, Beyanname, Kânûn-ı Esâsî)
+7. **Merkezî hüküm ölçülemiyorsa müzakere zeminine döner.**
+   (Tordesillas)
+
+Liste kapalı değil ve kısıtların ağırlığı sıralanmadı.
+
+**Nauru — kaynak ile yaşam alanının örtüşmesi.** Atlasta bir kaynağın
+hem gelir hem yaşam alanı olduğu tek örnek. Ölçüm: **bir kaynak,
+çıkarıldığı yerin kendisiyse, gelir ile yaşam alanı arasında doğrudan
+bir değiş tokuş kurulur ve bu değiş tokuş geri alınamaz.**
+
+İkinci kayıt — vesayet eleştirisinin en somut hâli: emanetçi devletler
+aynı zamanda fosfatın alıcısıydı. Bir denetim düzeninin, denetlenen
+kaynağın alıcısına emanet edilmesi denetimi işlevsiz kılıyor.
+
+Üçüncü kayıt: **bir gelir kaynağı, onu yönetecek kurum kurulmadan önce
+akmaya başlarsa, kurumun kurulması için gereken teşvik de ortadan
+kalkar.** Kural değil, eğilim olarak yazıldı; karşı örneklerin
+incelenmediği belirtildi.
+
+Dördüncü kayıt — Okyanusya beşinci örneği farklı eksende: önceki dördünde
+belirleyici etken toprağın devredilebilirliğiydi, burada toprağın
+kendisinin ihraç malı olması. Toprağın mülkiyeti ile maddi varlığı ayrı
+ayrı sorulmalı.
+
+**KAPI 15 yanlış pozitif verdi ve dosya adı değiştirildi.** İlk ad
+`kavram-hukuki-belge-okumasi` idi; kapı bunu mevcut
+`kavram-hukuk-devleti` ile çakıştırdı — "hukuk" çekirdeği Türkçe ek
+toleransıyla "hukuki"ye eşleşiyor ve tek sözcüklü çekirdek daha büyük
+çekirdeğin içinde kalıyor. Ad `kavram-belge-okumasi` olarak değiştirildi.
+Kapının muhafazakârlığı bir kusur değil; ama tek sözcüklü çekirdeklerin
+zayıf kanıt olduğu borç defterine yazılmalı.
