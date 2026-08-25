@@ -17,6 +17,7 @@ ilgili:
   - aktor-sumer-sehir-devletleri
   - aktor-aztek-imparatorlugu
   - kaynak-popol-vuh
+  - aktor-teotihuacan
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

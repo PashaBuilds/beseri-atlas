@@ -21,6 +21,7 @@ ilgili:
   - kavram-yazi-sistemi
   - kaynak-guaman-poma-nueva-coronica
   - kavram-kipu
+  - aktor-teotihuacan
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

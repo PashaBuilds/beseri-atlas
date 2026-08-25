@@ -20,6 +20,7 @@ ilgili:
   - veri-tarim-istihdami
   - veri-kentli-nufus-sayisi
   - aktor-indus-vadisi
+  - aktor-teotihuacan
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

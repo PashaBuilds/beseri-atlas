@@ -16,6 +16,7 @@ ilgili:
   - kaynak-aristoteles-politika
   - kaynak-platon-devlet
   - aktor-kilva
+  - aktor-teotihuacan
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

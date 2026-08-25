@@ -1205,3 +1205,33 @@ cozulemedigini de acikliyor: bir toplami sinayabilirsiniz, bir rengin ne
 demek oldugunu disaridan bir anahtar olmadan bilemezsiniz.
 
 Toplam makale 406 -> 408. Birincil kunye 160 -> 163.
+
+## Tur 42 — Teotihuacan: olcek ile kayit arasindaki kopukluk (2026-08-25)
+
+**aktor-teotihuacan** (1200 kelime) eklendi. Atlasin **nesne kanitina en cok
+dayanan dosyasi**: dort kunyenin ucu muze katalog kaydi.
+
+Dosyanin merkezindeki gozlem, atlasin genel bir varsayimini siniyor. Sehir,
+kuruldugu donemde dunyanin en kalabalik yerlesimlerinden biriydi; buna ragmen
+tek bir yoneticisinin adi, tek bir hanedanin sirasi ve sehrin kendi adi
+bilinmiyor. Atlasin kaydettigi benzer olcekli sehirlerin hepsinde hukumdar
+listeleri, yilliklar ya da idari kayitlar var.
+
+Yani "buyuk olcekli kentsel duzen ayrintili yazili kayit gerektirir"
+varsayimi bu ornekle zayifliyor. Uc alternatif aciklama kaydedildi ve secim
+yapilmadi: kayitlar tutulup yok olmus olabilir, baska bir ortamda tutulmus
+olabilir, ya da sistem kaydi gerektirmeyecek bicimde islemis olabilir.
+
+### Nesne kanitindan yapilabilen en guclu siyasi cikarim
+
+Dosyanin son bolumu bunu kaydediyor: sehrin izgara duzeni tek bir plana gore
+ve yuzyillar boyunca uygulanmis. Bir plana kusaklar boyunca uyulmasi, plani
+koruyan ve uygulatan surekli bir otoritenin varligini gosterir — bicimini
+degil, varligini. Tek tek yapilar bir donemin urunudur; bir planin
+surdurulmesi, donemler arasi bir kurumun urunudur.
+
+Bu, nesne kanitinin karar mekanizmasini gosteremedigi seklindeki genel
+kisitin sinirini da belirliyor: yonetim bicimi okunamiyor ama yonetimin
+surekliligi okunabiliyor.
+
+Toplam makale 408 -> 409. Birincil kunye 163 -> 166.

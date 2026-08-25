@@ -32,6 +32,7 @@ ilgili:
   - aktor-sogdlular
   - dusunur-nagarjuna
   - aktor-moche
+  - aktor-teotihuacan
 okuma_onerisi: []
 serit:
   - bolge: avrupa

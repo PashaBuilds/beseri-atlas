@@ -23,6 +23,7 @@ ilgili:
   - tartisma-sozlu-gelenek-kaynak-mi
   - aktor-benin-kralligi
   - aktor-moche
+  - aktor-teotihuacan
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
