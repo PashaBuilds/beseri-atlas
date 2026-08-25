@@ -32,6 +32,7 @@ ilgili:
   - kavram-kipu
   - aktor-maori
   - aktor-avustralya-yerli-halklari
+  - kavram-kanit-turu
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -1426,3 +1426,51 @@ aynisi: en erken tarih, kazilmis alanlarin en erken tarihidir. Iki dosya
 birbirine baglandi.
 
 Toplam makale 416 -> 417.
+
+## Tur 50 — atlasin kendi olcumunu bir kavram dosyasina cevirmek (2026-08-25)
+
+**kavram-kanit-turu** (615 kelime) eklendi. Bu dosya bir tarihsel olguyu
+degil, **atlasin kendi dosyalarini yazarken tekrar tekrar karsilastigi bir
+kisiti** tanimliyor: elde bulunan kanitin turu, o konuda sorulabilecek
+sorulari da belirler.
+
+Dosya yedi ayri bolge dosyasindaki olcumu topluyor — Moche, Teotihuacan,
+Olmek, Benin, Maori, Avustralya ve Kusan — ve hepsine karsilikli bag verdi.
+
+### Dort kanit turu ve cevapladiklari
+
+| tur | cevapladigi soru |
+|---|---|
+| cagdas yazili kayit | olay sirasi, tarih, karar |
+| nesne ve yapi | uretim orgutlenmesi, sureklilik, hiyerarsi |
+| sozlu aktarim | soy, hak iddiasi, toplulugun kendini anlatisi |
+| taniklik | duzenin disaridan nasil gorundugu |
+
+Dordu birbirinin yerine gecmiyor ve **bir turu otekinin eksik bicimi
+saymak** atlasin kacindigi en yaygin hata: nesne kaniti yazinin ilkel hali
+degil.
+
+### Yanliligin iki bicimi tek yerde toplandi
+
+- **Dijital erisim esitsizligi** (metin kaynaklarinda): ayni donemin bazi
+  bolge metinleri tek aramada bulunurken bazilari hic bulunamadi.
+- **Kazi yogunlugu esitsizligi** (nesne kaynaklarinda): bir bolgede daha
+  erken tarihli bulgu cikmasi, orada daha cok kazi yapildigini da
+  gosterebilir.
+
+Ikisi ayni sonucu uretiyor: kaynagi bol gorunen bolgeler daha ayrintili
+yazilabiliyor ve **ayrinti, onem saniliyor.**
+
+Iki cumle formule edildi ve oncelik iddialarinin yanina yazilacak:
+- En erken tarih, kazilmis alanlarin en erken tarihidir.
+- En erken kayit, korunmus kayitlarin en erkenidir.
+
+### Bedelin acikca yazilmasi
+
+Dosya, atlasin bu tutumunun bedelini de kaydediyor: surekli kanitin ne
+soyleyip ne soylemedigini yazmak okuma akiciligini dusuruyor. Alternatif
+metni akici kilar ama okura kanitin gercekte oldugundan guclu oldugu
+izlenimini verir. Gerekce: degerlendirilemeyen bir iddia bir kayit degil bir
+beyandir.
+
+Toplam makale 417 -> 418.

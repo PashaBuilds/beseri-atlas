@@ -20,6 +20,7 @@ ilgili:
   - kavram-arkeolojik-kanit
   - kavram-anakronizm
   - aktor-moche
+  - kavram-kanit-turu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

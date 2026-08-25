@@ -22,6 +22,7 @@ ilgili:
   - kavram-somurgesizlesme
   - aktor-avustralya-yerli-halklari
   - kavram-aletsiz-seyrusefer
+  - kavram-kanit-turu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

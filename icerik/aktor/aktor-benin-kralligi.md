@@ -21,6 +21,7 @@ ilgili:
   - tartisma-sozlu-gelenek-kaynak-mi
   - olay-berlin-konferansi
   - olay-atlantik-kole-ticareti
+  - kavram-kanit-turu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

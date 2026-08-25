@@ -11,11 +11,11 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 417 |
-| Toplam künye | 1369 |
+| Ölçülen makale | 418 |
+| Toplam künye | 1372 |
 | Giriş kapısı kuralını aşan makale | 227 |
-| Birincil kaynağı olmayan makale | 237 |
-| Giriş kapısı künyesi payı | 46% |
+| Birincil kaynağı olmayan makale | 238 |
+| Giriş kapısı künyesi payı | 45% |
 
 ## Tipe göre borçlu makale
 
@@ -23,7 +23,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 |---|---|
 | olay | 77 |
 | aktor | 64 |
-| kavram | 60 |
+| kavram | 61 |
 | tartisma | 34 |
 | kaynak | 27 |
 | dusunur | 19 |
@@ -287,6 +287,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `dusunur-nagarjuna` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-buyuk-ayrisma` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-demografik-gecis` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-kanit-turu` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-kentlesme` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-longue-duree` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-mesruiyet` | 3 | 1 | 0 | birincil kaynak yok |

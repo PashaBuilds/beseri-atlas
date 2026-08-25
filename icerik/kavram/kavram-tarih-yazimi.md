@@ -27,6 +27,7 @@ ilgili:
   - kaynak-timbuktu-tarihleri
   - dusunur-zhu-xi
   - tartisma-sozlu-gelenek-kaynak-mi
+  - kavram-kanit-turu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

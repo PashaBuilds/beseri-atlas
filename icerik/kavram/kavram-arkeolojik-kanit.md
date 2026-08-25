@@ -28,6 +28,7 @@ ilgili:
   - kavram-avustronezya-yayilmasi
   - aktor-maori
   - aktor-avustralya-yerli-halklari
+  - kavram-kanit-turu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

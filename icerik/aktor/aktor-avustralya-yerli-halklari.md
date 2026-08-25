@@ -20,6 +20,7 @@ ilgili:
   - tartisma-sozlu-gelenek-kaynak-mi
   - kavram-donemlendirme
   - kavram-arkeolojik-kanit
+  - kavram-kanit-turu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

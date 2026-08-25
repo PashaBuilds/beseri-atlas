@@ -21,6 +21,7 @@ ilgili:
   - dusunur-nagarjuna
   - kavram-mesruiyet
   - aktor-gupta-imparatorlugu
+  - kavram-kanit-turu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

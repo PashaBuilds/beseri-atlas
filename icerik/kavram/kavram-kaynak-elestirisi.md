@@ -25,6 +25,7 @@ ilgili:
   - aktor-sogdlular
   - dusunur-nagarjuna
   - tartisma-sozlu-gelenek-kaynak-mi
+  - kavram-kanit-turu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

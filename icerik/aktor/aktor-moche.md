@@ -23,6 +23,7 @@ ilgili:
   - kavram-kipu
   - aktor-teotihuacan
   - aktor-olmek
+  - kavram-kanit-turu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

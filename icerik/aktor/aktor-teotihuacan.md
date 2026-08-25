@@ -22,6 +22,7 @@ ilgili:
   - kavram-kentlesme
   - kavram-sehir-devleti
   - aktor-olmek
+  - kavram-kanit-turu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
