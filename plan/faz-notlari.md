@@ -2567,3 +2567,57 @@ metne aktarıldı ve iki olgu ayrı ayrı izlenmeli.
 yukarıdan aşağıya, biri seçilmiş kurucu meclisle hazırlandı. Üç örnek,
 hazırlık usulü ile ömür arasında ilişki kurmaya yetmiyor ve dosya bunu
 yazıyor.
+
+## Tur — Afrika belgeleri: OAU Şartı ve Liberya Bildirisi (25 Ağustos 2026)
+
+Eklenen: `kaynak-afrika-birligi-sarti`,
+`kaynak-liberya-bagimsizlik-bildirisi`. Toplam 457 → 459. Belge türü
+8 → 10 dosya.
+
+**Geçen turda beyan edilen borç kapatıldı.** Belge katmanında Afrika
+geleneğinden hiçbir metin yoktu; iki dosya eklendi.
+
+**OAU Şartı — paylaşım dizisinin dördüncü halkası.** Dizi Tordesillas
+(1494), Berlin (1885) ve Samoa (1899) dosyalarında üç kez ölçülmüştü ve
+üçünde de bölünen taraf masada yoktu. Dördüncüde masadakiler,
+kendilerini bölmüş olan çizgileri koruma kararı aldı.
+
+Kayda geçen ölçüm: **bir paylaşım masasının sonucu, o masada bulunmayan
+tarafların sonraki onayıyla kalıcılaşabilir; onay, masayı meşru kılmaz
+ama sonucu değiştirilemez hâle getirir.**
+
+Dosya gerekçeyi de kaydediyor ve bir ayrım yapıyor: bir düzenin haksız
+kurulduğunu kabul etmek ile onu değiştirmenin daha maliyetli olacağını
+kabul etmek ayrı iki yargı, ve ikisi bir arada tutulabilir.
+
+Dizinin tamamından çıkan sonuç: bir sınırın kalıcılığı, çizildiği andaki
+gerekçesinden çok sonraki her kuşağın onu değiştirme maliyetine bağlı ve
+bu maliyet zamanla artıyor.
+
+İkinci kayıt — yazılmamış sıralamanın gücü: metin hem toprak
+bütünlüğüne saygıyı hem halkların kendi geleceğini belirlemesini
+sıralıyor ama aralarında öncelik yazmıyor. Uygulama birinciyi önceledi.
+Bir metinde iki ilke sıralanmadan yan yana konduğunda, sıralamayı
+uygulama belirliyor ve o sıralama metnin kendisi kadar bağlayıcı hâle
+gelebiliyor.
+
+**Liberya Bildirisi — kapsam sorusunun en keskin hâli.** Metin, köleliğin
+mağdurları tarafından yazıldı ve maruz kalınan hukuki dışlanmayı tek tek
+sayıyor — atlasın en doğrudan tanıklık metinlerinden. Kurulan devletin
+anayasası ise yerleşim bölgesinde zaten yaşayan halkları yurttaşlık
+kapsamının dışında bıraktı ve bu sınırlama yüzyılı aşkın süre yürürlükte
+kaldı.
+
+Kayda geçen ölçüm: **bir hak talebinin haklılığı, o talebi ileri
+sürenlerin kuracağı düzenin kapsamını belirlemez; iki soru ayrı ayrı
+sorulmalıdır.**
+
+Dosya bunu suçlama olarak yazmıyor; olguyu kaydedip şunu da soruyor:
+neden şaşırtıcı bulunuyor. Şaşırma, kapsamın yazanın kimliğinden
+çıkarılabileceği varsayımından doğuyor.
+
+**Beyan edilen kalıcı eksik.** Kıtanın kendi hukuk geleneklerinden —
+sömürge öncesi hüküm derlemelerinden ve antlaşmalardan — hiçbiri
+künyelenemedi. İki dosya da sömürgecilikle temas noktasında duruyor. Bu,
+atlasın kendi ölçtüğü dijital erişim eşitsizliğinin doğrudan bir
+örneği ve defterde duruyor.

@@ -21,6 +21,7 @@ ilgili:
   - kavram-vesayet-yonetimi
   - kaynak-kanunuesasi-1876
   - kaynak-meiji-anayasasi
+  - kaynak-afrika-birligi-sarti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -26,6 +26,7 @@ ilgili:
   - kaynak-gulhane-hatti
   - kaynak-kanunuesasi-1876
   - kaynak-hindistan-anayasasi
+  - kaynak-liberya-bagimsizlik-bildirisi
 okuma_onerisi: []
 yazar: "Ingiltere Krali John ve baronlar (taraflar)"
 eser_adi: "Magna Carta Libertatum"

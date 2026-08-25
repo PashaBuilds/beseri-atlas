@@ -21,6 +21,7 @@ ilgili:
   - kavram-egemenlik
   - tartisma-kesif-mi-istila-mi
   - tartisma-imparatorluk-siniri-nasil-cizilir
+  - kaynak-afrika-birligi-sarti
 okuma_onerisi: []
 yazar: "Kastilya ve Portekiz krallikları (taraflar)"
 eser_adi: "Tratado de Tordesillas"

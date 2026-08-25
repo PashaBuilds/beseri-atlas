@@ -49,6 +49,7 @@ ilgili:
   - dusunur-fanon
   - kaynak-insan-haklari-beyannamesi
   - kaynak-hindistan-anayasasi
+  - kaynak-afrika-birligi-sarti
 okuma_onerisi: []
 serit:
   - bolge: avrupa

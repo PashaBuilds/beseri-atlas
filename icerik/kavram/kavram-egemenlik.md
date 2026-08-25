@@ -30,6 +30,8 @@ ilgili:
   - kavram-vesayet-yonetimi
   - kaynak-insan-haklari-beyannamesi
   - kaynak-tordesillas-antlasmasi
+  - kaynak-afrika-birligi-sarti
+  - kaynak-liberya-bagimsizlik-bildirisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

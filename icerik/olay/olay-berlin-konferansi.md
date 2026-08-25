@@ -20,6 +20,7 @@ ilgili:
   - aktor-benin-kralligi
   - aktor-samoa-kralligi
   - kaynak-tordesillas-antlasmasi
+  - kaynak-afrika-birligi-sarti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

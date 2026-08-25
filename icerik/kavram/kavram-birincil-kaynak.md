@@ -34,6 +34,7 @@ ilgili:
   - kaynak-kanunuesasi-1876
   - kaynak-hindistan-anayasasi
   - kaynak-meiji-anayasasi
+  - kaynak-liberya-bagimsizlik-bildirisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

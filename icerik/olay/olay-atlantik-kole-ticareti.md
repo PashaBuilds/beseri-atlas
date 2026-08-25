@@ -24,6 +24,7 @@ ilgili:
   - aktor-benin-kralligi
   - aktor-kongo-kralligi
   - aktor-asanti-imparatorlugu
+  - kaynak-liberya-bagimsizlik-bildirisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

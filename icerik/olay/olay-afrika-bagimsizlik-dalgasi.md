@@ -21,6 +21,7 @@ ilgili:
   - kavram-somurgesizlesme
   - tartisma-somurgeciligin-ekonomik-bilancosu
   - dusunur-fanon
+  - kaynak-afrika-birligi-sarti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

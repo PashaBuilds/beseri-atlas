@@ -45,6 +45,7 @@ ilgili:
   - aktor-marathalar
   - aktor-samoa-kralligi
   - kaynak-tordesillas-antlasmasi
+  - kaynak-afrika-birligi-sarti
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:
