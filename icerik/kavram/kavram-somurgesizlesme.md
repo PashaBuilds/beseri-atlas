@@ -34,6 +34,7 @@ ilgili:
   - kaynak-liberya-bagimsizlik-bildirisi
   - aktor-nauru
   - aktor-zulu-kralligi
+  - olay-tupac-amaru-ayaklanmasi-1780
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -2936,3 +2936,50 @@ ortadan kaldırmanın iki yolu var: yerine geçmek ya da parçalamak.
 Parçalama, doğrudan yönetim maliyetini üstlenmeden merkezî otoriteyi
 ortadan kaldırıyor; karşılığında bölgeyi istikrarsız bırakıyor ve o
 maliyet parçalayan tarafa gecikmeli dönüyor.
+
+## Tur — Amerika olay katmanı: Túpac Amaru Ayaklanması (26 Ağustos 2026)
+
+Eklenen: `olay-tupac-amaru-ayaklanmasi-1780`. Toplam 467 → 468.
+
+**Neden bu.** Olay katmanında Amerika bölgesi 33 dosyaya bağlıydı ama
+sömürge dönemi yerli hareketlerinden hiçbiri künyelenmemişti; katman
+keşif, fetih, bağımsızlık ve yirminci yüzyıl olaylarından oluşuyordu.
+
+**Dosyanın asıl bulgusu talep çerçevesinin değişmesi.** Hareket bir
+vergi ve idare şikâyetiyle başladı, bağımsızlık talebiyle bitti. İlk
+bildiriler kralı hedef almıyor, kral adına ve kralın kanunlarını
+uygulatmak üzere hareket edildiğini bildiriyordu.
+
+Kayda geçen ölçüm: **bir ayaklanma, merkezî otoritenin kendi
+kurallarına dayanarak yerel uygulamayı hedef alabilir; bu, talebi baştan
+meşru kılar ve katılımı genişletir.**
+
+Bastırma sertleştikçe çerçeve değişti. İkinci ölçüm: **bir hareketin
+talebi, bastırmanın sertliğine göre değişebilir; başlangıçtaki talebe
+bakarak hareketin ne olduğuna karar vermek, sürecin kendisini görmezden
+gelmektir.**
+
+**Çerçeve değişiminin bedeli ölçüldü.** Kentli melez ve yerleşik nüfus
+ilk aşamada tarafsızdı, ikinci aşamada karşı tarafa geçti — geçiş,
+talep çerçevesinin değişmesiyle aynı döneme denk geliyor. Ölçüm: **bir
+talebin genişletilmesi, kazandırdığı kadar kaybettirebilir; net etkisi
+ancak iki yön birlikte ölçüldüğünde görülür.**
+
+**Üçüncü kayıt — yasağın hedefi.** Bastırmadan sonra hanedan unvanları
+kaldırıldı. Bu doğrudan bir kayıt müdahalesi: bir hakkın kaldırılması, o
+hakkı taşıyan kaydın geçersiz kılınmasıyla yapılıyor. Bir talebin
+dayandığı belge ya da statü ortadan kaldırıldığında, talep yeniden
+formüle edilmek zorunda kalıyor.
+
+**Dördüncü kayıt — arşiv yanlılığı.** Hareketin kendi belgeleri yalnızca
+ele geçirilmiş oldukları için korunmuş. Aynı mekanizma kadınların
+kayda girmesi için de geçerli: bir grubun tarihsel kayda girmesi çoğu
+zaman yargılanmış olmasına bağlı ve bu, kaydın kendisinde bir yanlılık
+üretiyor.
+
+Buna karşılık aynı arşiv, dosyanın asıl bulgusunu mümkün kıldı: talep
+çerçevesindeki değişim bir yorum değil, tarihli iki bildiri kümesinin
+karşılaştırılmasından çıkan bir gözlem.
+
+**Yeni borçlar.** Hareketin önderleri ve bölgedeki sömürge idari düzeni
+için ayrı dosya yok; ikisi de dosyanın metninde beyan edildi.

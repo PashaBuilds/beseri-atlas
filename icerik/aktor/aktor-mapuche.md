@@ -23,6 +23,7 @@ ilgili:
   - kavram-kanit-turu
   - kavram-sozlu-tarih
   - tartisma-kesif-mi-istila-mi
+  - olay-tupac-amaru-ayaklanmasi-1780
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

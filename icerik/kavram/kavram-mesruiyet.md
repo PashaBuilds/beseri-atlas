@@ -55,6 +55,7 @@ ilgili:
   - kaynak-kanunuesasi-1876
   - kaynak-meiji-anayasasi
   - tartisma-belge-ne-zaman-yururlukte
+  - olay-tupac-amaru-ayaklanmasi-1780
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -34,6 +34,7 @@ ilgili:
   - aktor-asanti-imparatorlugu
   - aktor-haudenosaunee
   - aktor-marathalar
+  - olay-tupac-amaru-ayaklanmasi-1780
 okuma_onerisi: []
 serit:
   - bolge: avrupa

@@ -25,6 +25,7 @@ ilgili:
   - olay-latin-amerika-bagimsizligi
   - aktor-mapuche
   - kaynak-tordesillas-antlasmasi
+  - olay-tupac-amaru-ayaklanmasi-1780
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

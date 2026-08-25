@@ -38,6 +38,7 @@ ilgili:
   - kaynak-gulhane-hatti
   - olay-mfecane
   - aktor-zulu-kralligi
+  - olay-tupac-amaru-ayaklanmasi-1780
 okuma_onerisi: []
 serit:
   - bolge: avrupa

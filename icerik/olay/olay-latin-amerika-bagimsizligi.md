@@ -16,6 +16,7 @@ ilgili:
   - donem-11
   - aktor-ispanyol-imparatorlugu
   - olay-napolyon-savaslari
+  - olay-tupac-amaru-ayaklanmasi-1780
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

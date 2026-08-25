@@ -20,6 +20,7 @@ ilgili:
   - kaynak-popol-vuh
   - aktor-moche
   - kavram-kipu
+  - olay-tupac-amaru-ayaklanmasi-1780
 okuma_onerisi: []
 yazar: "Felipe Guamán Poma de Ayala"
 eser_adi: "Primer Nueva Corónica y Buen Gobierno"

@@ -20,6 +20,7 @@ ilgili:
   - aktor-moche
   - kavram-kipu
   - aktor-mapuche
+  - olay-tupac-amaru-ayaklanmasi-1780
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
