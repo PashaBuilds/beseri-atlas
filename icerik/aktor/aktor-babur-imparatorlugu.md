@@ -23,6 +23,8 @@ ilgili:
   - aktor-gucerat-sultanligi
   - olay-plassey-1757
   - aktor-seybaniler
+  - aktor-marathalar
+  - aktor-vijayanagara
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

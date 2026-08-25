@@ -14,6 +14,8 @@ ilgili:
   - aktor-goryeo-choson
   - aktor-ming-hanedani
   - aktor-altin-orda
+  - aktor-marathalar
+  - aktor-vijayanagara
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

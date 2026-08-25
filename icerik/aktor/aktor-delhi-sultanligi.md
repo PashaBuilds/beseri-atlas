@@ -18,6 +18,7 @@ ilgili:
   - aktor-babur-imparatorlugu
   - kavram-kast
   - aktor-bengal-sultanligi
+  - aktor-vijayanagara
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

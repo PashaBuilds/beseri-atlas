@@ -17,6 +17,8 @@ ilgili:
   - aktor-malaka-sultanligi
   - aktor-ayutthaya-kralligi
   - aktor-pagan-kralligi
+  - aktor-marathalar
+  - aktor-vijayanagara
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -39,6 +39,7 @@ ilgili:
   - aktor-cahokia
   - aktor-mapuche
   - aktor-rapa-nui
+  - aktor-vijayanagara
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

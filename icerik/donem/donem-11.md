@@ -34,6 +34,7 @@ ilgili:
   - olay-waitangi-antlasmasi-1840
   - aktor-hawai-kralligi
   - aktor-tonga-kralligi
+  - aktor-marathalar
 okuma_onerisi: []
 serit:
   - bolge: avrupa

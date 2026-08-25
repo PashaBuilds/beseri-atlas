@@ -21,6 +21,7 @@ ilgili:
   - kavram-silahli-ticaret
   - tartisma-somurgeciligin-ekonomik-bilancosu
   - olay-1857-hint-ayaklanmasi
+  - aktor-marathalar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

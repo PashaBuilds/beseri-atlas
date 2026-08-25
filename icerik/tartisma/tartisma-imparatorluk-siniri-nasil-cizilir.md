@@ -42,6 +42,7 @@ ilgili:
   - aktor-sogdlular
   - aktor-hive-hanligi
   - kavram-himaye-duzeni
+  - aktor-marathalar
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

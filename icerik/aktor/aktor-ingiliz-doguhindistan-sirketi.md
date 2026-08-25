@@ -21,6 +21,7 @@ ilgili:
   - olay-atlantik-kole-ticareti
   - kavram-silahli-ticaret
   - olay-plassey-1757
+  - aktor-marathalar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

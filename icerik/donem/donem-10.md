@@ -33,6 +33,7 @@ ilgili:
   - aktor-hokand-hanligi
   - aktor-asanti-imparatorlugu
   - aktor-haudenosaunee
+  - aktor-marathalar
 okuma_onerisi: []
 serit:
   - bolge: avrupa

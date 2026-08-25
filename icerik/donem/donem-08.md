@@ -46,6 +46,7 @@ ilgili:
   - aktor-haudenosaunee
   - aktor-cahokia
   - aktor-rapa-nui
+  - aktor-vijayanagara
 okuma_onerisi: []
 serit:
   - bolge: avrupa

@@ -2239,3 +2239,53 @@ yazıldığını gösteriyor ve kapı artık bunu engelliyor.
 öteki nicelik iddiaları (nüfus, oran, mesafe) hâlâ denetimsiz ve daha
 geniş bir ölçüt yanlış pozitif üretiyor. Bu, borç defterinde açık
 kalıyor.
+
+## Tur — Güney Asya: Vijayanagara ve Marathalar (25 Ağustos 2026)
+
+Eklenen: `aktor-vijayanagara`, `aktor-marathalar`. Toplam 445 → 447.
+Güney Asya 74 → 76.
+
+**Vijayanagara — iki kanıt türünün bölünmesi.** İmparatorluk kendi
+diliyle binlerce yazıt bıraktı; yazıtların içeriği neredeyse tümüyle
+bağış, vakıf ve toprak tahsisi. Gündelik hayat, pazar, ordu, tören ise
+yalnızca yabancı ziyaretçilerin anlatılarından biliniyor. Bölünme
+rastlantı değil: taşa yazmanın amacı kalıcılık istenen şeyi
+sabitlemektir ve kalıcılık istenen şey mülkiyettir.
+
+Kayda geçen kural: **bir toplumun neyi taşa yazdığı, o toplumun neyi
+kalıcı kılmak istediğini gösterir; geri kalanı başka kaynak
+gerektirir.**
+
+İkinci gözlem — malzeme seçiminin hukuki anlamı: taş yazıt kamuya açık
+ve taşınamaz, bakır levha taşınabilir ve sahibinin elinde. Biri ilan,
+öteki tapu işlevi taşıyor.
+
+Üçüncü gözlem: at ithalatı askerî gücün temel unsuruydu ve iklim
+nedeniyle yerel üretim yetersizdi. Bu, kıyı limanlarını denetleyenlere
+toprak fethetmeden siyasi etki kurma imkânı verdi.
+
+**Marathalar — yönetim ile gelir hakkının ayrışması.** Düzenin yayılma
+aracı, başka bir yöneticinin topraklarından gelir payı talep etmekti ve
+talep o toprağın yönetimini üstlenmeyi gerektirmiyordu. Kayda geçen
+kural: **bir düzen, toprağı yönetmeden gelirinden pay alabilir; bu
+durumda etki alanı yönetim alanından çok daha geniş olur.**
+
+Doğrudan sonucu: bu düzenin haritada sınırı çizilemez. Aynı toprak
+üzerinde bir taraf yönetiyor, başka bir taraf gelir payı alıyor
+olabilir; yaygın haritalar bunu tek renkle gösterip iki ayrı ilişkiyi
+tek bir hâkimiyet ilişkisine indirgiyor. Bu, mevcut
+`tartisma-imparatorluk-siniri-nasil-cizilir` dosyasına en somut örneği
+sağlıyor.
+
+Dosya bir çözüm de öneriyor: sınırı çizilemeyen bir düzenin kapsamı,
+toprak haritasıyla değil gelir defteriyle gösterilebilir. Düzen ayrıntılı
+gelir kayıtları tutmuştu.
+
+**İki dosyanın ortak kısıtı.** Her ikisinde de asıl bulgunun dayandığı
+kaynak künyelenemedi — Vijayanagara'da yazıt derlemeleri, Marathalar'da
+gelir defterleri. İki dosya da bunu metninde beyan ediyor. Künyelerin
+çoğu karşı taraftan gelen dönem tanıklığı.
+
+**KAPI 17 çalıştı.** Yeni kapı 422 makale tarayıp 39 süre iddiası
+buldu, hepsi tutarlı. Bu turda yazılan iki dosyanın özetinde süre
+iddiası yok, dolayısıyla tetiklenmedi.

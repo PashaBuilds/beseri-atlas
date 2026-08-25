@@ -39,6 +39,7 @@ ilgili:
   - aktor-seybaniler
   - aktor-kongo-kralligi
   - aktor-mapuche
+  - aktor-vijayanagara
 okuma_onerisi: []
 serit:
   - bolge: avrupa

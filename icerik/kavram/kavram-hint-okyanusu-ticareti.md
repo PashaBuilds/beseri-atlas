@@ -32,6 +32,7 @@ ilgili:
   - kavram-aletsiz-seyrusefer
   - veri-ticaret-payi
   - aktor-kusan-imparatorlugu
+  - aktor-vijayanagara
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
