@@ -60,8 +60,9 @@ Kuzey Amerika'nın güney ovalarında etkili olan bir güçtür.[^k1] Merkezî
 bir yönetimi ve tek bir önderi yoktu.
 
 Örgütlenme, birbirinden bağımsız hareket eden gruplar biçimindeydi.[^k2]
-Gruplar ortak dil ve akrabalık bağları taşıyordu, ortak bir karar organı
-taşımıyordu.
+Gruplar ortak dil ve akrabalık bağları taşıyordu; ortak bir karar organı
+ya da tek bir başkent taşımıyordu ve bu, dosyanın bütün gözlemlerini
+etkiler.
 
 Bu dosyanın asıl konusu at ve ticarettir.[^k3] Atın bölgeye girişi bir
 askerî değişimden çok bir ekonomik dönüşüm üretti.
@@ -104,7 +105,7 @@ Genelleştirme için başka örneklerde ayrıca sınanmalıdır.
 ## At sürüsünün büyüklüğü
 
 Grupların elindeki at sayısı, bölgedeki öteki topluluklarınkinden
-belirgin biçimde yüksekti.[^k1] Fazla atlar ticaret malıydı.
+belirgin biçimde yüksekti.[^k1] Fazla atlar doğrudan bir ticaret malıydı.
 
 At yetiştirmek ovanın belirli bölgelerinde mümkündü.[^k2] Kışlık otlak
 ve su, sürünün büyüklüğünü sınırlıyordu.
