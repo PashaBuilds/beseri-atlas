@@ -54,6 +54,7 @@ ilgili:
   - kaynak-gulhane-hatti
   - kaynak-kanunuesasi-1876
   - kaynak-meiji-anayasasi
+  - tartisma-belge-ne-zaman-yururlukte
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

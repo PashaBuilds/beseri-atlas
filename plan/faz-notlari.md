@@ -2732,3 +2732,53 @@ dosya ya `::tartismali` haritası ya ilgili bir tartışma dosyası
 gerektiriyor. Doğru değer `yaygin`: dosyaların çekirdek olguları
 (varlık, tarih, bölge) yaygın kabul görüyor; tartışmalı noktalar zaten
 paragraf paragraf işaretli.
+
+## Tur — Yürürlük tartışması ve kanıt dosyası onarımı (26 Ağustos 2026)
+
+Eklenen: `tartisma-belge-ne-zaman-yururlukte`. Güncellenen:
+`kavram-kanit-turu`. Toplam 463 → 464.
+
+**Önce borç kapatıldı.** Kırgızlar dosyasında ölçülen üçüncü ayrım
+kanıt dosyasına eklendi. Kanıt dosyası yazılı kaydı okunabilir/okunamaz
+diye ikiye ayırıyordu; artık üçüncü bir kırılım var: metnin uzunluğu ve
+amacı. Kural: **bir metnin ne söyleyebileceği, okunabilirliği kadar
+hangi amaçla yazıldığına da bağlıdır.** Doğrudan künyeleme sonucu: bir
+bölge için yazılı kaynak bulunduğunu söylemek, o bölgenin olay tarihinin
+yazılabileceği anlamına gelmiyor.
+
+**Yürürlük tartışması — belge katmanının doğal sorusu.** On belge
+künyesinden en az dördü bu soruda birbirine düşüyor. Magna Carta
+imzalandıktan üç ay sonra geçersiz ilan edildi ve bugün hâlâ bazı
+maddeleri yürürlükte sayılıyor. Kânûn-ı Esâsî otuz yıl uygulanmadı ama
+yayımlanmayı sürdürdü ve bir hareketin bayrağı oldu. Beyanname kabul
+edildiği anda hiçbir devlet için bağlayıcı değildi ve bugün temel
+metinlerden sayılıyor.
+
+Dört konum: biçimsel geçerlilik / uygulama / talep dayanağı / soru tek
+ölçütle cevaplanamaz.
+
+**Dosyanın asıl bulgusu.** Üç ölçüt birbirini kapsamıyor ve dört
+kombinasyonun dördü de atlasın künyelerinde fiilen görülüyor. Dört
+durumda tek bir soru sorulsaydı, üçünde yanlış cevap alınırdı.
+
+Kayda geçen ölçüm: **bir belge üç ayrı düzlemde var olabilir — hukuki,
+fiilî ve siyasi — ve bir düzlemde yok olması ötekilerde de yok olduğu
+anlamına gelmez.**
+
+**İki künyeleme kuralı çıktı:**
+- Belge künyelerinde iki tarih tutulmalı: kabul tarihi ve (biliniyorsa)
+  uygulamanın başladığı tarih. Aradaki fark, metnin karşılaştığı direnci
+  gösteriyor.
+- Kısmi yürürlük nedeniyle üç ölçüt madde düzeyinde uygulanmalı; metnin
+  tamamı için verilen bir cevap maddelerin çoğu için yanlış olabilir.
+
+**Atlasın kendi konumu yazıldı.** Atlas uyuşmazlık çözmek için değil
+kaydı doğru tutmak için ölçüt arıyor; bu nedenle uygulama ölçütüne
+ağırlık verip öteki ikisini ayrıca kaydediyor. Bir hukukçu için
+kullanışsız olan bir ayrım, bir kayıt tutucu için tam da aranan ayrım
+olabilir.
+
+**Genişletme önerisi kaydedildi.** Üç ölçüt hukuk dışı kurallara da
+uygulanabilir görünüyor — Çağatay dosyasındaki meşruiyet kuralı örnek:
+biçimsel dayanağı yoktu, uygulanıyordu ve talep dayanağıydı. Öneri
+olarak kaydedildi, sınanması gerektiği yazıldı.

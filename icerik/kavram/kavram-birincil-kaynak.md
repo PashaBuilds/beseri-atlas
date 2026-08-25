@@ -36,6 +36,7 @@ ilgili:
   - kaynak-meiji-anayasasi
   - kaynak-liberya-bagimsizlik-bildirisi
   - kavram-belge-okumasi
+  - tartisma-belge-ne-zaman-yururlukte
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

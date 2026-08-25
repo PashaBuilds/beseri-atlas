@@ -33,6 +33,7 @@ ilgili:
   - aktor-hazarlar
   - dusunur-sankara
   - kavram-belge-okumasi
+  - tartisma-belge-ne-zaman-yururlukte
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

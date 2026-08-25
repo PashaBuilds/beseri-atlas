@@ -23,6 +23,7 @@ ilgili:
   - aktor-maori
   - aktor-avustralya-yerli-halklari
   - aktor-kusan-imparatorlugu
+  - aktor-kirgizlar
   - kaynak-camiut-tevarih
   - aktor-kus-kralligi
   - aktor-haudenosaunee
@@ -141,6 +142,32 @@ anlamına gelmez.
 Atlas bu nedenle künyelerinde okunabilirliği ayrıca
 belirtir.[^k2] Çözülmemiş bir yazı sistemine ait metinler, birincil
 kaynak olarak künyelenmez; onlara ilişkin kazı raporları künyelenir.
+
+## Okunabilir kaydın kendi içinde bölünmesi
+
+Okunabilir yazılı kayıt da tek bir tür değildir.[^k1] Atlasın Kırgızlar
+dosyasında üçüncü bir ayrım ölçüldü: metnin uzunluğu ve amacı.
+
+Aynı yazı sistemiyle yazılmış iki metin kümesi bambaşka soruları
+cevaplayabilir.[^k3] Uzun ve resmî yazıtlar tarih, hükümdar adı ve karar
+kaydı verir; kısa ve kişisel yazıtlar bunların hiçbirini vermez.
+
+Kısa ve kişisel metinler başka sorulara cevap verir.[^k2] Akrabalık
+düzeni, unvanlar, yaş dağılımı ve gömü pratikleri bu metinlerden
+okunabilir.
+
+## Üçüncü ayrımın kuralı
+
+Kural tek cümleyle ifade edilebilir.[^k1] **Bir metnin ne söyleyebileceği,
+okunabilirliği kadar hangi amaçla yazıldığına da bağlıdır.**
+
+Bu, künyeleme pratiğini doğrudan etkiler.[^k3] Bir bölge için yazılı
+kaynak bulunduğunu söylemek, o bölgenin olay tarihinin yazılabileceği
+anlamına gelmez; metnin türü ayrıca sorulmalıdır.
+
+Atlas bu nedenle künyelerinde metin türünü belirtir.[^k2] Yazıt, ferman,
+vakayiname ve mektup farklı soruları cevaplar ve aynı torbaya
+konulamaz.
 
 ## Atlasın kendi ölçümü
 

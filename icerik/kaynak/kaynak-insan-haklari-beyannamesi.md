@@ -24,6 +24,7 @@ ilgili:
   - kaynak-hindistan-anayasasi
   - kaynak-liberya-bagimsizlik-bildirisi
   - kavram-belge-okumasi
+  - tartisma-belge-ne-zaman-yururlukte
 okuma_onerisi: []
 yazar: "Birlesmis Milletler Genel Kurulu"
 eser_adi: "Universal Declaration of Human Rights"

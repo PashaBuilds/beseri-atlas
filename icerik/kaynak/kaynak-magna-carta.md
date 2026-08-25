@@ -28,6 +28,7 @@ ilgili:
   - kaynak-hindistan-anayasasi
   - kaynak-liberya-bagimsizlik-bildirisi
   - kavram-belge-okumasi
+  - tartisma-belge-ne-zaman-yururlukte
 okuma_onerisi: []
 yazar: "Ingiltere Krali John ve baronlar (taraflar)"
 eser_adi: "Magna Carta Libertatum"

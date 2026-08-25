@@ -23,6 +23,30 @@
 # Dogrulanamiyorsa kisi adi yerine cizgi/yaklasim adi kullan.
 
 adlar:
+  - ad: "Bicimsel gecerlilik olcutune dayanan cizgi"
+    durum: kisi-degil
+    gectigi: [tartisma-belge-ne-zaman-yururlukte]
+  - ad: "Usul onceligi yaklasimi"
+    durum: kisi-degil
+    gectigi: [tartisma-belge-ne-zaman-yururlukte]
+  - ad: "Uygulama olcutune dayanan cizgi"
+    durum: kisi-degil
+    gectigi: [tartisma-belge-ne-zaman-yururlukte]
+  - ad: "Fiili duzen onceligi yaklasimi"
+    durum: kisi-degil
+    gectigi: [tartisma-belge-ne-zaman-yururlukte]
+  - ad: "Referans noktasi olcutune dayanan cizgi"
+    durum: kisi-degil
+    gectigi: [tartisma-belge-ne-zaman-yururlukte]
+  - ad: "Talep dayanagi yaklasimi"
+    durum: kisi-degil
+    gectigi: [tartisma-belge-ne-zaman-yururlukte]
+  - ad: "Dereceli yururluk yaklasimi"
+    durum: kisi-degil
+    gectigi: [tartisma-belge-ne-zaman-yururlukte]
+  - ad: "Tek olcut elestirisi cizgisi"
+    durum: kisi-degil
+    gectigi: [tartisma-belge-ne-zaman-yururlukte]
   - ad: "Deniz yolu kaymasini esas alan ticaret tarihi cizgisi"
     durum: kisi-degil
     gectigi: [tartisma-orta-asya-neden-cekildi]
