@@ -815,3 +815,37 @@ Kunyelerde katalog basliklari **oldugu gibi** birakildi ve durum dosyanin
 govdesinde kaydedildi. Duzeltmek karisikligi cozmek degil gizlemek olurdu.
 
 Birincil kunye sayisi 119 -> 131. Toplam makale 377 -> 383.
+
+## Tur 29 — ayni konunun iki dosyasi (2026-08-25)
+
+Kaynak katmanini genisletirken aktor katmaninda iki cift dosyanin ayni siyasi
+birimi anlattigi gorüldü. Ikisi de bu oturumda benim actigim dosyalardi:
+mevcut dosyayi kontrol etmeden yenisini yazmisim.
+
+Onemli olan sudur: **her dosya tek tek butun kapilardan geciyordu.** Sema,
+dipnot, terim kilidi, bag butunlugu, telif, hakemlik, derinlik, kaynak
+bilesimi — hicbiri "bu konu zaten var mi" diye sormuyordu. Kapilar dosyanin
+kendi ic tutarliligini olcuyordu, korpusun tutarliligini degil.
+
+Birlestirme yontemi: eski id korunur (donem okuma hattinda ve capraz
+atiflarda gomulu oldugu icin), govde iki dosyanin birlesimi olur, kaynak
+kunyeleri sadelestirilir, atiflar yonlendirilir, eski dosya silinir.
+
+Yan kazanc: iki birlesmis dosya da §3 hedefini tutuyor (1597 ve 1716 kelime).
+Onceden dordunun hicbiri tutmuyordu. Gana'da giris kapisi kunyesi ucten bire
+indi.
+
+KAPI 15 yazildi. Ilk olcut ("ayni tipte iki dosya bir sozcuk paylasiyorsa")
+139 yanlis pozitif verdi:
+- bitisik donem dosyalari yil sayilarini paylasiyordu,
+- "Devrimi", "Savaslari", "Cagi", "Dunya" gibi sozcukler ayirt edici degil.
+Duzeltme: (a) donem ve veri tipleri kapsam disi, (b) genel sozcuk listesi
+genisletildi, (c) olcut tek ortak sozcukten **kapsama iliskisine** cevrildi —
+kucuk cekirdegin her sozcugu buyuk cekirdekte karsilik bulmali, (d) eslesme
+Turkce eklere toleransli (selcuklu ~ selcuklular).
+
+Dogrulama: gercek korpusta 0 hata; birlestirdigim iki cifti iceren sahte
+korpusta 2 hata. Kapinin yakalamasi gerekeni yakaladigi ancak ikinci testle
+gosterilebilirdi — sifir hata tek basina kapinin calistiginin kaniti degil.
+
+Toplam makale 383 -> 381. Sayi dustu; atlas duzeldi.
