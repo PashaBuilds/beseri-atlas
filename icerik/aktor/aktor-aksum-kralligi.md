@@ -17,6 +17,7 @@ ilgili:
   - aktor-sasani-imparatorlugu
   - aktor-roma-imparatorlugu
   - aktor-etiyopya-imparatorlugu
+  - aktor-kus-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -20,6 +20,7 @@ ilgili:
   - dusunur-tocqueville
   - kavram-kolelik
   - aktor-hawai-kralligi
+  - aktor-haudenosaunee
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

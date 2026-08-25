@@ -23,6 +23,7 @@ ilgili:
   - tartisma-waitangi-hangi-metin
   - aktor-tonga-kralligi
   - kavram-himaye-duzeni
+  - aktor-haudenosaunee
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

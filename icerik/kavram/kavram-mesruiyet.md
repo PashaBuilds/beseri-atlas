@@ -48,6 +48,7 @@ ilgili:
   - aktor-hokand-hanligi
   - aktor-murabitlar
   - aktor-muvahhidler
+  - aktor-haudenosaunee
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

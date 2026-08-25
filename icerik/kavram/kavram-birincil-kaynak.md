@@ -26,6 +26,7 @@ ilgili:
   - tartisma-waitangi-hangi-metin
   - aktor-tonga-kralligi
   - dusunur-sankara
+  - aktor-haudenosaunee
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

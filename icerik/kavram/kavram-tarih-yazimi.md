@@ -33,6 +33,7 @@ ilgili:
   - dusunur-sankara
   - dusunur-wang-yangming
   - tartisma-orta-asya-neden-cekildi
+  - aktor-kus-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -24,6 +24,7 @@ ilgili:
   - kavram-aletsiz-seyrusefer
   - kavram-kanit-turu
   - aktor-asanti-imparatorlugu
+  - aktor-haudenosaunee
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

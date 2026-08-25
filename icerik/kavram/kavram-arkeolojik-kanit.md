@@ -30,6 +30,7 @@ ilgili:
   - aktor-avustralya-yerli-halklari
   - kavram-kanit-turu
   - aktor-hazarlar
+  - aktor-kus-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

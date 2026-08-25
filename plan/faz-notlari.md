@@ -2014,3 +2014,66 @@ karakteri reddetti; etiketler ASCII olmalı. İlk kez bu turda tetiklendi.
 **Kalibrasyon.** İki dosya da 26 bölümle yazıldığında %75-81'de kaldı.
 Bölüm sayısını artırmak yerine paragrafları uzatmak daha verimli:
 4 satırlık paragraflarla 30 bölüm hedefi tutuyor.
+
+## Tur — Kuş Krallığı ve Haudenosaunee (25 Ağustos 2026)
+
+Eklenen: `aktor-kus-kralligi`, `aktor-haudenosaunee`.
+Toplam 439 → 441. Afrika 97, Amerika 87.
+
+**Kuş — kanıt sınıflandırmasında bir bölünme.** Atlasın kanıt dosyası
+dört tür tanıyordu ve biri "çağdaş yazılı kayıt"tı. Bu dosya o türün
+ikiye ayrılması gerektiğini gösterdi: Meroitik yazının işaretlerinin ses
+değerleri biliniyor, metinler seslendirilebiliyor ama dil bilinmediği
+için anlaşılamıyor.
+
+**Bir yazının varlığı, o yazının okunabildiği anlamına gelmez;
+okunamayan yazı bir metin değil bir nesnedir.** Okunamayan yazı, kanıt
+değeri bakımından nesne kanıtına yakın duruyor — nerede bulunduğu,
+kimlerin kullandığı, ne kadar yaygın olduğu sorulabiliyor; ne dediği
+sorulamıyor. Bu, atlasın kanıt dosyasına eklenmesi gereken bir alt
+ayrım ve borç defterine yazıldı.
+
+**İkinci kayıt — kaydın yönü.** Krallık bir yüzyıl boyunca kuzeydeki
+komşusunu yönetti ama bu dönemin kaydı büyük ölçüde kuzeyden, yani
+yönetilen taraftan geliyor. Hazarlar dosyasındaki mekanizmanın bir
+varyantı: orada bir düzen yalnızca komşularının kaydından biliniyordu,
+burada bir yönetim dönemi yalnızca yönetilenin kaydından biliniyor.
+
+**Üçüncü kayıt — kalıcı kayıp.** Bölgenin bir bölümü baraj yapımı
+nedeniyle su altında. Bu, atlasın olağan kısıtlarından farklı: öteki
+kısıtlar zamanla azalabilir, bu azalmaz. Ayrım kaydedildi — bir bilginin
+şu anda bulunmaması ile bulunmasının imkânsız hâle gelmiş olması aynı
+cümleyle ifade ediliyor ama aynı şey değil. Birincisi bir borç,
+ikincisi bir sınır; borç defterine yalnızca birincisi yazılabilir.
+
+**Haudenosaunee — atlasın kendi kategorisinin sınanması.** Amerika
+bölgesinde Kuzey Amerika yerli siyasi düzeni hiç yoktu. Bu dosya o
+boşluğu açıyor ve aynı zamanda atlasın "aktör" kategorisini sınıyor:
+konfederasyonda merkezî bir zor aygıtı yok, kararlar uzlaşmayla
+alınıyor, ortak konseyin kararlarını zorla uygulatacak bir merci
+bulunmuyor. **Bir siyasi birliğin sürekliliği, merkezî bir zor aygıtına
+sahip olmasını gerektirmez; bu iki özellik ayrı ayrı sorulmalıdır.**
+
+**Kaynak durumu — atlasta seyrek.** Üç künyeden ikisi birincil belge:
+Wikisource'taki Great Law of Peace metni ve Parker–Newhouse 1916 baskısı
+(archive.org, erişim kısıtı yok, katalogda yaratıcı alanında hem
+araştırmacı hem konfederasyon üyesi görünüyor). Amerika bölgesindeki
+dosyalar için bu olağandışı.
+
+İkisi de geç transkripsiyon ve dosya bunu açıkça yazıyor. Metin
+yüzyıllarca wampum dizileri ve sözlü aktarımla taşındı; yazıya geçirilmiş
+birden çok sürüm var ve hangisinin bağlayıcı olduğu konfederasyon içinde
+de tartışılıyor. Atlas künyeledi ve konumunu belirtti: seçilen sürüm
+doğrulanabilir olduğu için seçildi, en doğru sürüm olduğu iddia
+edilmiyor.
+
+**Waitangi ile bağ.** Aynı sorunun bir başka biçimi. Orada iki dilli bir
+belgenin hangi metninin bağlayıcı olduğu sorusu vardı; burada soru bir
+dil farkından değil bir ortam farkından (sözlü/yazılı) doğuyor. Ortak
+yan: bir belgenin ne söylediği hangi sürümünün okunduğuna bağlı
+olabiliyor ve bu bağlılık belgenin kendisinden okunmuyor.
+
+**Etki tartışması.** Kurucu metnin sonraki bir anayasa üzerinde etkili
+olduğu iddiası kaydedildi, sonuçlandırılmadı. Atlasın kuralı yazıldı:
+iki kurum arasındaki benzerlik birinin ötekinden alındığını göstermez;
+aktarım zinciri gösterilmeden benzerlik yalnızca benzerliktir.

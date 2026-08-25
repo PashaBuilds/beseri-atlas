@@ -32,6 +32,7 @@ ilgili:
   - aktor-hive-hanligi
   - aktor-hokand-hanligi
   - aktor-asanti-imparatorlugu
+  - aktor-haudenosaunee
 okuma_onerisi: []
 serit:
   - bolge: avrupa

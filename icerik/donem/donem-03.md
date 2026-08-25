@@ -22,6 +22,7 @@ ilgili:
   - tartisma-tunc-cagi-cokusunun-nedeni
   - aktor-asur-imparatorlugu
   - aktor-olmek
+  - aktor-kus-kralligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

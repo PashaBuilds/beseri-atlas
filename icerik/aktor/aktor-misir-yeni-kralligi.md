@@ -16,6 +16,7 @@ etiketler: [misir, yeni-krallik, hiksos, aten, ramses]
 ilgili:
   - donem-02
   - aktor-hitit-imparatorlugu
+  - aktor-kus-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

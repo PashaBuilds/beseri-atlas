@@ -20,6 +20,7 @@ ilgili:
   - aktor-moche
   - kavram-kipu
   - kavram-aletsiz-seyrusefer
+  - aktor-kus-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -35,6 +35,8 @@ ilgili:
   - kavram-kanit-turu
   - aktor-hazarlar
   - aktor-asanti-imparatorlugu
+  - aktor-haudenosaunee
+  - aktor-kus-kralligi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

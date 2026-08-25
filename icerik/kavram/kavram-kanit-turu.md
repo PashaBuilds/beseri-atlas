@@ -32,6 +32,8 @@ ilgili:
   - tartisma-orta-asya-neden-cekildi
   - aktor-kongo-kralligi
   - aktor-asanti-imparatorlugu
+  - aktor-haudenosaunee
+  - aktor-kus-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

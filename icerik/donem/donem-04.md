@@ -33,6 +33,7 @@ ilgili:
   - tartisma-eksen-cagi-gercek-mi
   - tartisma-antik-kolelik-ekonomisi
   - dusunur-mengzi
+  - aktor-kus-kralligi
 okuma_onerisi: []
 serit:
   - bolge: dogu-asya

@@ -43,6 +43,7 @@ ilgili:
   - aktor-benin-kralligi
   - aktor-cagatay-hanligi
   - aktor-kongo-kralligi
+  - aktor-haudenosaunee
 okuma_onerisi: []
 serit:
   - bolge: avrupa
