@@ -31,6 +31,8 @@ ilgili:
   - tartisma-fransiz-devrimi-yorumlari
   - kaynak-hobsbawm-caglar
   - aktor-sokoto-hilafeti
+  - olay-waitangi-antlasmasi-1840
+  - aktor-hawai-kralligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa
@@ -69,6 +71,13 @@ serit:
       Doğu Asya bu dönemde sanayileşmenin ilk dalgasının dışında kaldı; bölgenin
       dönüşümü sonraki döneme kalacaktı.
     anahtar: k2
+  - bolge: okyanusya
+    baslik: İki metinli antlaşma
+    satir: >-
+      Şubat 1840'ta imzalanan Waitangi Antlaşması'nın Maori ve İngilizce
+      metinleri aynı maddelerde farklı şeyler söyler; imzaların büyük
+      çoğunluğu Maori metnine atılmıştır.
+    anahtar: k5
 kaynaklar:
   - anahtar: k1
     tur: birincil
@@ -95,6 +104,13 @@ kaynaklar:
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "population_historical"
+  - anahtar: k5
+    tur: birincil
+    birincil_tur: belge
+    ad: "Waitangi Antlasmasi — Maori ve Ingilizce metinler, Colenso (1890) eki, Wikisource"
+    url: https://en.wikisource.org/wiki/The_authentic_and_genuine_history_of_the_signing_of_the_Treaty_of_Waitangi,_New_Zealand,_February_5_and_6,_1840/Appendix
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "Ko Wikitoria"
 son_denetim: 2026-08-20
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -121,6 +137,13 @@ Birleşik Devletleri'ne yayılmıştı.[^k2]
 yapısal değişim,[^k3] bu dönemde II. Mahmud devriyle birlikte devletin idari,
 siyasi, sosyal, kültürel ve ekonomik açılardan yeniden şekillendirilmesine
 dönüştü.[^k3]
+
+**Okyanusya.** Şubat 1840'ta imzalanan Waitangi Antlaşması'nın iki metni
+vardır; İngilizce metinde önderlerin kraliçeye egemenlik devrettiği yazılıdır,
+Maori metninde devredilen yetki İngilizceden ödünç alınmış ve valilik
+karşılığına yakın bir sözcükle adlandırılır; aynı metinde önderlerin toprakları
+üzerindeki tam ve mutlak önderliğinin kendilerinde kaldığı yazılıdır.[^k5] İmzaların büyük çoğunluğu Maori metnine atılmıştır ve
+iki metnin farkı sonraki tartışmaların zeminidir.[^k5]
 
 **Güney Asya, Afrika ve Doğu Asya.** Bu üç bölge dönemin sanayileşme dalgasının
 dışında kaldı; Britanya tekstil sanayisinin yükselişi[^k2] bu bölgelerin küresel

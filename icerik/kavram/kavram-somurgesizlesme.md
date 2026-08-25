@@ -19,6 +19,8 @@ ilgili:
   - dusunur-du-bois
   - aktor-sokoto-hilafeti
   - aktor-maori
+  - olay-waitangi-antlasmasi-1840
+  - aktor-hawai-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

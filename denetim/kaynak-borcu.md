@@ -11,10 +11,10 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 423 |
-| Toplam künye | 1389 |
+| Ölçülen makale | 425 |
+| Toplam künye | 1399 |
 | Giriş kapısı kuralını aşan makale | 227 |
-| Birincil kaynağı olmayan makale | 240 |
+| Birincil kaynağı olmayan makale | 239 |
 | Giriş kapısı künyesi payı | 45% |
 
 ## Tipe göre borçlu makale
@@ -27,7 +27,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | tartisma | 34 |
 | kaynak | 27 |
 | dusunur | 20 |
-| donem | 10 |
+| donem | 9 |
 
 ## Makale dökümü
 
@@ -278,7 +278,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `aktor-tang-hanedani` | 3 | 1 | 0 | birincil kaynak yok |
 | `donem-08` | 3 | 1 | 0 | birincil kaynak yok |
 | `donem-09` | 3 | 1 | 0 | birincil kaynak yok |
-| `donem-12` | 3 | 1 | 0 | birincil kaynak yok |
 | `donem-14` | 3 | 1 | 0 | birincil kaynak yok |
 | `donem-15` | 3 | 1 | 0 | birincil kaynak yok |
 | `donem-16` | 3 | 1 | 0 | birincil kaynak yok |

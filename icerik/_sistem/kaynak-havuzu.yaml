@@ -74,6 +74,21 @@ whitelist:
     dogrulanabilir: true
     kapsam: [cin-klasikleri]
     not: Chinese Text Project — sunucudan metin döndürür, JS duvarı yok.
+  - alan: en.wikisource.org
+    tur: birincil
+    dogrulanabilir: true
+    kapsam: [antlasma-metinleri, anayasa-metinleri, ingilizce-klasikler]
+    not: >
+      Antlasma ve anayasa metinlerinin transkripsiyonlari icin. Kunyeye
+      yazilmadan once sayfanin ilgili metni gercekten icerdigi dogrulanir;
+      ayni baslikta ozet veya tartisma sayfasi bulunabilir.
+  - alan: waitangitribunal.govt.nz
+    tur: akademik
+    dogrulanabilir: true
+    kapsam: [yeni-zelanda, waitangi]
+    not: >
+      Antlasma iddialarini inceleyen resmi kurul. Taraf konumundadir;
+      raporlari kurulun kendi degerlendirmesi olarak kunyelenir.
   - alan: ar.wikisource.org
     tur: birincil
     dogrulanabilir: true

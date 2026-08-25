@@ -18,6 +18,8 @@ ilgili:
   - kaynak-hobbes-leviathan
   - tartisma-vestfalya-miti
   - aktor-samaniler
+  - olay-waitangi-antlasmasi-1840
+  - aktor-hawai-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1619,3 +1619,52 @@ olduğu doğrulanamadığı için künyelenmedi.
 **Tekrar eden kalibrasyon.** İki dosyanın da ilk hâli hedefin %82 ve
 %89'unda kaldı. Düşünür dosyaları için 18 bölüm yetmiyor; 22 bölüm
 gerekiyor. Bu, üçüncü kez aynı yerde ölçülüyor.
+
+## Tur — Okyanusya: iki belge dosyasi (25 Ağustos 2026)
+
+Eklenen: `olay-waitangi-antlasmasi-1840`, `aktor-hawai-kralligi`.
+Toplam 423 → 425. Okyanusya 5 → 7 makale, şerit 2/16 → 4/16.
+
+**Neden bu ikisi.** Okyanusya borcu denetim defterinde en yüksek öncelikli
+maddeydi ve nedeni ilgisizlik değil erişimdi: bölgenin resmî kaynak
+siteleri otomatik erişime kapalı. Bu turda çözüm bulundu — kurum sitesi
+yerine aynı metnin açık transkripsiyonunu aramak. Wikisource'ta hem
+antlaşmanın iki metni hem Hawai anayasalarının üçü bulundu.
+
+**İki dosyanın ortak sorusu.** İkisi de belgenin metniyle belgenin
+koşulu arasındaki farkı işliyor:
+
+- Waitangi'de sorun **iki metnin farkı**. Aynı günlerde imzalanan iki
+  metin aynı maddede farklı şey söylüyor ve imzaların çoğu yerel metne
+  atılmış. Kayda geçirilen kural: *bir belgenin ne söylediği, hangi
+  metninin okunduğuna bağlı olabilir.*
+- Hawai'de sorun **tek metnin arkasındaki koşul**. 1887 anayasası silahlı
+  baskı altında kabul ettirilmiş ama metin sıradan bir anayasa gibi
+  okunuyor. Kayda geçirilen kural: *bir belgenin hangi koşullarda kabul
+  edildiği, belgenin metninden okunamaz.*
+
+**Hawai dosyasının ikinci gözlemi.** Atlasın Okyanusya dosyaları arasında
+en çok birincil belgeye sahip olan dosya bu — ve nedeni bölgeye ilginin
+fazlalığı değil, sürecin her adımının bir hukuki belgeye bağlanmış
+olması. Belge üreten bir süreç arkasında belge bırakır. Bu, `kanit-turu`
+dosyasındaki ölçümü tersinden doğruluyor: kayıt bolluğu, kaydedilen süreç
+hakkında tek başına bir şey söylemez.
+
+**Üçüncü gözlem — ilke ile ölçüt.** 1840 metni bütün insanların eşit
+olduğunu ilan ediyor; 1887 metni aynı ilkeyi değiştirmeden oy hakkı
+ölçütlerini değiştirerek sonucu tersine çeviriyor. Bir belgenin ne
+yaptığını anlamak için ilan ettiği ilkeye değil ölçütlerine bakmak
+gerekir.
+
+**Reddedilenler.** `nzhistory.govt.nz`, `teara.govt.nz`, `whc.unesco.org`,
+`loc.gov`, `britannica.com` — hepsi 403. `legislation.govt.nz` 202 ile boş
+gövde döndürdü. `mi.wikisource.org` API'si sonuç vermedi.
+`en.wikisource.org/wiki/Treaty_of_Waitangi` yalnızca İngilizce metni
+veriyor; Maori metni için Colenso ekine inildi ve bu, olay dosyasında
+"erişimin ürettiği varsayılan okuma" bölümünün somut kaynağı oldu.
+
+**Kapı geri bildirimi.** `hukuki` eksen değeri şemada yok (KAPI 1 yakaladı);
+şerit girdisindeki `anahtar` gövde kullanımı saymıyor, kaynak gövdede de
+anılmalı (KAPI 2+3); aynı kaynaktan iki tırnaklı alıntı telif sınırını
+aşıyor (KAPI 7) — Maori terimlerinin ikisini birden tırnak içinde vermek
+yerine parafraz edildi.

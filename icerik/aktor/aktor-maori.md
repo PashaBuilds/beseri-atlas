@@ -23,6 +23,7 @@ ilgili:
   - aktor-avustralya-yerli-halklari
   - kavram-aletsiz-seyrusefer
   - kavram-kanit-turu
+  - olay-waitangi-antlasmasi-1840
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -27,6 +27,8 @@ ilgili:
   - tartisma-sozlu-gelenek-kaynak-mi
   - kavram-kanit-turu
   - kaynak-camiut-tevarih
+  - olay-waitangi-antlasmasi-1840
+  - aktor-hawai-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

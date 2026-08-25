@@ -24,6 +24,8 @@ ilgili:
   - aktor-avustralya-yerli-halklari
   - aktor-kusan-imparatorlugu
   - kaynak-camiut-tevarih
+  - olay-waitangi-antlasmasi-1840
+  - aktor-hawai-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

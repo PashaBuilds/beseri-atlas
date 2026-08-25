@@ -21,6 +21,8 @@ ilgili:
   - kaynak-kant-elestiri
   - kaynak-farabi-medinetul-fazila
   - dusunur-biruni
+  - olay-waitangi-antlasmasi-1840
+  - aktor-hawai-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

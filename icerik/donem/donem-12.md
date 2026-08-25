@@ -42,6 +42,7 @@ ilgili:
   - tartisma-somurgeciligin-ekonomik-bilancosu
   - kaynak-hobsbawm-caglar
   - dusunur-du-bois
+  - aktor-hawai-kralligi
 okuma_onerisi: []
 serit:
   - bolge: afrika
@@ -80,6 +81,13 @@ serit:
       Okyanusya ve Amerika kıtasındaki genişleme, Şili örneğiyle birlikte aynı
       dönemin parçası olarak incelenir.
     anahtar: k1
+  - bolge: okyanusya
+    baslik: Anayasayla el değiştiren yetki
+    satir: >-
+      Hawai Krallığı'nda 1887'de kabul ettirilen anayasa, hükümdarın
+      yetkilerini daralttı ve oy hakkını mülkiyet ölçütüne bağlayarak
+      nüfusun büyük bölümünü seçmen olmaktan çıkardı.
+    anahtar: k4
 kaynaklar:
   - anahtar: k1
     tur: ansiklopedi
@@ -99,6 +107,13 @@ kaynaklar:
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "population_historical"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: belge
+    ad: "1887 Constitution of the Kingdom of Hawaii — Wikisource"
+    url: https://en.wikisource.org/wiki/1887_Constitution_of_the_Kingdom_of_Hawaii
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "Constitution of the Kingdom of Hawaii"
 son_denetim: 2026-08-20
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -133,6 +148,11 @@ açtı — Almanya'da 1879'dan, Fransa'da 1881'den itibaren.[^k1]
 **Güney Asya, Doğu Asya ve Amerika.** Yeni Emperyalizm incelemeleri Güney Asya'yı
 Hindistan, Doğu Asya'yı Çin, Okyanusya'yı ise Şili genişlemesi başlığıyla ayrı
 ayrı ele alır.[^k1]
+
+**Okyanusya.** Hawai Krallığı'nda 1887'de kabul ettirilen anayasa, hükümdarın
+yetkilerini daralttı ve oy hakkını mülkiyet ile gelir ölçütlerine bağladı.[^k4]
+Metnin kendisi bu ölçütleri sıradan maddeler hâlinde yazar; belgenin silahlı
+baskı altında kabul ettirildiği metinden okunamaz.[^k4]
 
 **İslam dünyası.** Osmanlı Devleti'nde II. Mahmud ve Tanzimat devirleri, devletin
 idari, siyasi, sosyal, kültürel ve ekonomik açılardan âdeta yeni bir şekle

@@ -22,6 +22,7 @@ ilgili:
   - dusunur-mackinder
   - dusunur-mahan
   - kavram-hegemonya
+  - olay-waitangi-antlasmasi-1840
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -582,3 +582,32 @@ Duzeltme: bilesendeki dort ifade "Yedi bolge" olarak guncellendi; donem-01
 ve donem-07'ye kaynakli serit girdisi ve govde paragrafi eklendi. Kalan 14
 donemde hucre bos kaliyor — bu, atlasin o donemde Okyanusya icin kaydi
 olmadiginin durust gosterimi.
+
+### 2026-08-25 (ikinci tur) — Okyanusya borcunun ilk gercek odemesi
+
+Eklenen: `olay-waitangi-antlasmasi-1840` (bolgenin ilk olay dosyasi),
+`aktor-hawai-kralligi` (bolgenin ilk devlet dosyasi). Serit satiri
+donem-11 ve donem-12'ye eklendi.
+
+Okyanusya sayimi: 5 -> 7 makale · serit 2/16 -> **4/16**.
+
+**Yontem notu — kapali kurum sitesi sorununun cozumu.** Bolgenin resmi
+kaynaklari programatik erisime kapali: `nzhistory.govt.nz` 403,
+`teara.govt.nz` 403, `whc.unesco.org` 403, `legislation.govt.nz` bos govde
+donduruyor, `loc.gov` 403. Bu, bolgenin uzun sure yazilamamasinin asil
+nedeniydi. Cozum: kurum sitesi yerine ayni metnin acik transkripsiyonunu
+aramak. `en.wikisource.org` uzerinde hem Waitangi Antlasmasi'nin iki metni
+(Colenso 1890 ekinde) hem Hawai Kralligi'nin 1840, 1887 ve 1893
+anayasalari bulundu ve dogrulandi.
+
+Havuza eklenen alanlar: `en.wikisource.org` (birincil),
+`waitangitribunal.govt.nz` (akademik, taraf konumunda oldugu notta
+yazili).
+
+**Kalan borc.** Melanezya ve Mikronezya icin hala hicbir dosya yok.
+Bolgenin kaynak ve dusunur katmanlari bos. 12 donemde serit hucresi bos.
+
+**Yeni borc.** `tartisma-waitangi-hangi-metin` yazilmadi. Iki metinden
+hangisinin baglayici sayilacagi atlasin en somut kaynak-elestirisi
+tartismasidir ve olay dosyasi bu tartismayi ac ik birakip tartisma
+dosyasina havale ediyor — ama dosya henuz yok. Oncelik: yuksek.

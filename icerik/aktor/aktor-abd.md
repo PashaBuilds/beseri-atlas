@@ -19,6 +19,7 @@ ilgili:
   - olay-internetin-yayginlasmasi
   - dusunur-tocqueville
   - kavram-kolelik
+  - aktor-hawai-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
