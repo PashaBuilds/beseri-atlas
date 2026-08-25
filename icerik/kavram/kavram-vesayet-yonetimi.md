@@ -22,6 +22,7 @@ ilgili:
   - kaynak-hammurabi-kanunlari
   - kaynak-insan-haklari-beyannamesi
   - aktor-nauru
+  - olay-pasifik-nukleer-denemeleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

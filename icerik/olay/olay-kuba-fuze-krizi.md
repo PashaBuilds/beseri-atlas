@@ -19,6 +19,7 @@ ilgili:
   - aktor-birlesmis-milletler
   - olay-uzay-yarisi
   - kavram-caydiricilik
+  - olay-pasifik-nukleer-denemeleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -28,6 +28,7 @@ ilgili:
   - olay-internetin-yayginlasmasi
   - tartisma-kalkinma-yardimi-ise-yariyor-mu
   - tartisma-teknolojik-belirlenimcilik
+  - olay-pasifik-nukleer-denemeleri
 okuma_onerisi: []
 serit:
   - bolge: kuresel

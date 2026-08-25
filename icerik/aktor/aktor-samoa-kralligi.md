@@ -25,6 +25,7 @@ ilgili:
   - kavram-vesayet-yonetimi
   - kaynak-tordesillas-antlasmasi
   - aktor-nauru
+  - olay-pasifik-nukleer-denemeleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

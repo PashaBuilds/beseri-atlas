@@ -3026,3 +3026,54 @@ tek yönetim altına soktuğunda pazarlık kapasitesi doğrudan düştü. Aynı
 satılıyor, bir bölümü gruplara katılıyor ve zamanla tam üye
 sayılabiliyordu. Aynı uygulama hem bir şiddet biçimi hem bir nüfus
 stratejisi; ikisi ayrı ayrı ölçülmeli.
+
+## Tur — Commit kancası ve Pasifik nükleer denemeleri (26 Ağustos 2026)
+
+Eklenen: `olay-pasifik-nukleer-denemeleri`. Eklenen araç:
+`.git/hooks/pre-commit`. Toplam 469 → 470. Okyanusya 15 → 16.
+
+**Önce geçen turun hatası kalıcı olarak kapatıldı.** KAPI 11'i geçmeyen
+bir dosya commit'lenmişti. Kapılar zaten yazılıydı; eksik olan onların
+commit anına bağlanmasıydı. Artık `npm run lint` commit öncesinde
+çalışıyor ve geçmezse commit duruyor. Kanca gerçek bir bozuk dosyayla
+sınandı: commit engellendi ve hata satırları basıldı. Kopyası
+`araclar/git-kancalari/` altında tutuluyor ki yeni bir klonda
+kurulabilsin.
+
+**KAPI 17 kendi metnimde tetiklendi.** Bu dosyanın özeti "elli yıllık"
+diyordu, gövde bu sayıyı hiç anmıyordu — kapının yazılma nedeni tam da
+buydu. Düzeltildi.
+
+**Dosyanın asıl konusu vesayetin sınanması.** Deneme alanlarının önemli
+bölümü vesayet ya da sömürge statüsündeki adalardı ve o adaların halkı
+karar süreçlerinin hiçbirinde temsil edilmiyordu. Emanetçi devlet,
+emanet ettiği toprağı kendi silah programı için kullandı.
+
+Kayda geçen ölçüm: **bir emanet ilişkisinde emanetçinin kendi çıkarı ile
+emanet edilenin çıkarı çatıştığında, ilişkinin kendisi bir denetim
+mekanizması sağlamıyorsa emanetçinin çıkarı üstün gelir.**
+
+**İkinci ölçüm — alan seçiminin siyasi sonucu.** Seçim ölçütleri
+teknikti: düşük nüfus yoğunluğu, ana karadan uzaklık, hâkim rüzgâr yönü.
+Üçünün de ortak sonucu, riskin taşıyıcısı ile kararın vericisi
+arasındaki mesafeyi artırması. Ve mesafe yalnızca fiziksel değil —
+vesayet statüsü siyasi mesafeyi hukuki olarak kurumsallaştırıyor:
+temsil edilmeyen bir nüfusun yaşadığı alan, riskin yerleştirilmesi için
+sistematik olarak daha düşük maliyetli görünüyor.
+
+**Üçüncü ölçüm — belirsizliğin yüklenmesi.** Rüzgâr hesabının yanılma
+payı vardı ve payı taşıyan, hesabı yapan taraf değildi. Bu, Samoa
+dosyasındaki "bir belirsizlik taraflardan birine sistematik olarak
+yükleniyorsa, o belirsizlik bir kusur değil bir düzenlemedir" ölçümünün
+ikinci hâli — biri hukuki, öteki teknik belirsizlik, yüklenme yapısı
+aynı.
+
+**Dördüncü ölçüm — yasağın kapsamı ölçme kapasitesine göre çizilir.**
+1963 antlaşması yer altı denemelerini kapsam dışında bıraktı; ölçüt
+ahlaki bir sınır değil, uzaktan doğrulanabilirlikti.
+
+**Okyanusya'da altıncı ölçüm.** Altı dosyada da aynı yapı: bölgeyi
+doğrudan etkileyen kararlar bölgenin dışında ve katılımı olmadan
+alındı. Ölçüm: **bir bölgenin nasıl kullanılacağına o bölgede
+yaşamayanların karar vermesi, sınır çizmekle aynı yapıdadır ve aynı
+sonuçları üretir.**

@@ -51,6 +51,7 @@ ilgili:
   - kaynak-hindistan-anayasasi
   - kaynak-afrika-birligi-sarti
   - aktor-nauru
+  - olay-pasifik-nukleer-denemeleri
 okuma_onerisi: []
 serit:
   - bolge: avrupa

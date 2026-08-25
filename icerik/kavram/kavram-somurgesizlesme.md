@@ -35,6 +35,7 @@ ilgili:
   - aktor-nauru
   - aktor-zulu-kralligi
   - olay-tupac-amaru-ayaklanmasi-1780
+  - olay-pasifik-nukleer-denemeleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -35,6 +35,7 @@ ilgili:
   - aktor-nauru
   - olay-adva-1896
   - aktor-zulu-kralligi
+  - olay-pasifik-nukleer-denemeleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

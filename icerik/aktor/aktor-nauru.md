@@ -22,6 +22,7 @@ ilgili:
   - aktor-samoa-kralligi
   - kavram-egemenlik
   - kavram-somurgesizlesme
+  - olay-pasifik-nukleer-denemeleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
