@@ -11,19 +11,19 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 402 |
-| Toplam künye | 1315 |
+| Ölçülen makale | 404 |
+| Toplam künye | 1321 |
 | Giriş kapısı kuralını aşan makale | 225 |
-| Birincil kaynağı olmayan makale | 234 |
+| Birincil kaynağı olmayan makale | 236 |
 | Giriş kapısı künyesi payı | 46% |
 
 ## Tipe göre borçlu makale
 
 | Tip | Borçlu |
 |---|---|
-| olay | 76 |
+| olay | 77 |
 | aktor | 63 |
-| kavram | 59 |
+| kavram | 60 |
 | tartisma | 34 |
 | kaynak | 27 |
 | dusunur | 19 |
@@ -288,6 +288,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `kavram-kentlesme` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-longue-duree` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-mesruiyet` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-silahli-ticaret` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-tarihsel-iklimbilim` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-umran` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-vergi` | 3 | 1 | 0 | birincil kaynak yok |
@@ -305,6 +306,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `olay-malazgirt` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-mogol-fetihleri` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-nufus-patlamasi` | 3 | 1 | 0 | birincil kaynak yok |
+| `olay-plassey-1757` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-tanzimat-fermani` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-yesil-devrim` | 3 | 1 | 0 | birincil kaynak yok |
 | `tartisma-aydinlanmanin-sinirlari` | 3 | 1 | 0 | birincil kaynak yok |

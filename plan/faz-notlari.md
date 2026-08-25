@@ -1146,3 +1146,30 @@ KAPI 11 iki dosyayi da uc kez geri cevirdi (943/916 -> 1158/1138 ->
 uc tur genisletme yaptirdi.
 
 Toplam makale 400 -> 402.
+
+## Tur 39 — silahli ticaret zinciri tamamlandi (2026-08-25)
+
+Uc turdur ayri ayri yazilan dosyalar bu turda bir zincire baglandi:
+
+  kavram-hint-okyanusu-ticareti  (silahsiz, coklu-merkezli duzen)
+        v
+  olay-malaka-fethi-1511         (duzenege ilk sistemli darbe)
+        v
+  kavram-silahli-ticaret         (duzenegin kendisi; 639 kelime)
+        v
+  olay-plassey-1757              (son asama: ticaret geliri -> askeri guc ->
+                                  ticaret ayricaligi -> VERGI YETKISI; 1244 kelime)
+
+Plassey dosyasinin ayirt edici kaydi, muharebenin askeri olarak kucuk
+olmasidir: sonucu belirleyen sey ates gucu degil karsi taraf icinde onceden
+yapilmis anlasmaydi. Ayrica anlasmanin taraflarindan birinin **yerel finans
+haneleri** oldugu kaydedildi — bu, olayi yalnizca yabanci guc ile yerel
+yonetim arasindaki karsilasma olarak okumayi zorlastirir.
+
+### Uzunluk kalibrasyonu tuttu
+
+kavram dosyasi ilk yazimda hedefte cikti (639/600-1000). olay dosyasi 1032
+ile basladi ve tek genisletmeyle 1244'e ulasti — onceki turlarda uc tur
+gerekiyordu. Kural: kavram icin 10 bolum, olay icin 20 bolum.
+
+Toplam makale 402 -> 404.

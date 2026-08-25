@@ -27,6 +27,7 @@ ilgili:
   - aktor-tokugawa-sogunlugu
   - olay-atlantik-kole-ticareti
   - tartisma-aydinlanmanin-sinirlari
+  - olay-plassey-1757
 okuma_onerisi: []
 serit:
   - bolge: avrupa

@@ -26,6 +26,7 @@ ilgili:
   - aktor-bengal-sultanligi
   - aktor-gucerat-sultanligi
   - olay-malaka-fethi-1511
+  - kavram-silahli-ticaret
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

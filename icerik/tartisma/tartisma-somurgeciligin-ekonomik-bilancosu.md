@@ -31,6 +31,7 @@ ilgili:
   - veri-kuresel-esitsizlik
   - aktor-ace-sultanligi
   - dusunur-fanon
+  - olay-plassey-1757
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

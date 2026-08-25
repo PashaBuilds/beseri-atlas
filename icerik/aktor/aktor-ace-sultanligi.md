@@ -22,6 +22,7 @@ ilgili:
   - dusunur-ibn-battuta
   - tartisma-somurgeciligin-ekonomik-bilancosu
   - olay-malaka-fethi-1511
+  - kavram-silahli-ticaret
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -19,6 +19,8 @@ ilgili:
   - aktor-britanya-imparatorlugu
   - aktor-hollanda-doguhindistan-sirketi
   - olay-atlantik-kole-ticareti
+  - kavram-silahli-ticaret
+  - olay-plassey-1757
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

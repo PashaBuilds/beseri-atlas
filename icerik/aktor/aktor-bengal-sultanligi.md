@@ -22,6 +22,7 @@ ilgili:
   - dusunur-ibn-battuta
   - kavram-vergi
   - aktor-gucerat-sultanligi
+  - olay-plassey-1757
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

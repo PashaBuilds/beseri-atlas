@@ -21,6 +21,7 @@ ilgili:
   - kaynak-baburname
   - aktor-bengal-sultanligi
   - aktor-gucerat-sultanligi
+  - olay-plassey-1757
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

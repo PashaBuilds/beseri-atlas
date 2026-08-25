@@ -19,6 +19,7 @@ ilgili:
   - olay-hindistan-bolunmesi
   - aktor-babur-imparatorlugu
   - aktor-britanya-imparatorlugu
+  - olay-plassey-1757
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

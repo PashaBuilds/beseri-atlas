@@ -15,6 +15,7 @@ ilgili:
   - dusunur-smith
   - kavram-para
   - kaynak-smith-uluslarin-zenginligi
+  - kavram-silahli-ticaret
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -21,6 +21,7 @@ ilgili:
   - tartisma-kesif-mi-istila-mi
   - kavram-ticaret-diasporasi
   - aktor-gucerat-sultanligi
+  - kavram-silahli-ticaret
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

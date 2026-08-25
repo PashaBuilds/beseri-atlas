@@ -17,6 +17,7 @@ ilgili:
   - aktor-ingiliz-doguhindistan-sirketi
   - aktor-ispanyol-imparatorlugu
   - kavram-merkantilizm
+  - kavram-silahli-ticaret
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
