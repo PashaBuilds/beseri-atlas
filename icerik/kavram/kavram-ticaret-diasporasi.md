@@ -17,6 +17,7 @@ ilgili:
   - aktor-gana-imparatorlugu
   - aktor-kanem-bornu
   - aktor-kilva
+  - aktor-sogdlular
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

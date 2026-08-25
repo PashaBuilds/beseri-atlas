@@ -22,6 +22,8 @@ ilgili:
   - tartisma-imparatorluk-nufusu-nasil-sayilir
   - aktor-karahanlilar
   - kaynak-orhon-yazitlari
+  - aktor-sogdlular
+  - aktor-uygur-kaganligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

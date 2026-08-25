@@ -39,6 +39,7 @@ ilgili:
   - kavram-imparatorluk
   - tartisma-imparatorluk-nufusu-nasil-sayilir
   - kaynak-orhon-yazitlari
+  - aktor-sogdlular
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

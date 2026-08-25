@@ -18,6 +18,7 @@ ilgili:
   - kavram-mesruiyet
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - kaynak-yusuf-has-hacib-kutadgu-bilig
+  - aktor-uygur-kaganligi
 okuma_onerisi: []
 yazar: "Göktürk kağanlık yazıcıları"
 eser_adi: "Orhon Yazıtları"

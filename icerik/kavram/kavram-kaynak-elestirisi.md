@@ -22,6 +22,7 @@ ilgili:
   - aktor-harizmsahlar
   - dusunur-ibn-battuta
   - aktor-gana-imparatorlugu
+  - aktor-sogdlular
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -18,6 +18,7 @@ ilgili:
   - aktor-abbasi-hilafeti
   - olay-islam-fetihleri
   - kaynak-orhon-yazitlari
+  - aktor-uygur-kaganligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

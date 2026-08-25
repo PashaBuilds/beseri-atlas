@@ -18,6 +18,7 @@ ilgili:
   - aktor-karahanlilar
   - kaynak-orhon-yazitlari
   - kaynak-yusuf-has-hacib-kutadgu-bilig
+  - aktor-uygur-kaganligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

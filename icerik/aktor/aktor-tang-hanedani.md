@@ -16,6 +16,8 @@ ilgili:
   - donem-06
   - olay-talas-savasi
   - aktor-gokturk-kaganligi
+  - aktor-sogdlular
+  - aktor-uygur-kaganligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

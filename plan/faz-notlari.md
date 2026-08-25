@@ -849,3 +849,39 @@ korpusta 2 hata. Kapinin yakalamasi gerekeni yakaladigi ancak ikinci testle
 gosterilebilirdi — sifir hata tek basina kapinin calistiginin kaniti degil.
 
 Toplam makale 383 -> 381. Sayi dustu; atlas duzeldi.
+
+## Tur 30 — Orta Asya aktor katmani; Hazarlar ertelendi (2026-08-25)
+
+Iki dosya eklendi:
+
+- **aktor-uygur-kaganligi** (1220 kelime): bozkirdan yerlesiklige gecisin
+  atlastaki en acik ornegi. Iki birincil kaynak: onceki duzenin tas kaydi
+  (Orhon) ve bolgeden cikan elyazmalari (Muller, Uigurica 1908). Bolgenin
+  **kendi kaydina baglanan ilk aktor dosyasi**.
+- **aktor-sogdlular** (1219 kelime): devlet kurmadan kitalar arasi ticaret
+  agini yuruten topluluk. Aktor katmanina siyasi birim olmayan bir konunun
+  konmasi bilincli bir tercih; gerekcesi dosyanin icinde yazili. Birincil
+  metin bulunamadi ve bu dosyada acikca beyan edildi.
+
+### Hazarlar ertelendi — gerekce kayda gecirilmelidir
+
+Bu tur ucuncu dosya olarak Hazarlar planlanmisti. archive.org'da "khazar
+correspondence" aramasi bes sonuc dondurdu ve **besinin dordu Holokost
+inkarcisi yayinlardi**; "Hazar" terimi antisemitik bir komplo teorisinin
+anahtar kelimesi oldugu icin arama uzayi kirli.
+
+Karar: konu yasakli degil — Hazarlar mesru bir tarih konusudur ve atlasa
+girmelidir. Ama kaynak secimi burada normalden daha dikkatli yapilmalidir:
+TDV HAZARLAR maddesi (dogrulandi, 200) + akademik bir kaynak + Hazar
+Yazismalari'nin **bilimsel bir baskisi**. Ilk turda ne cikarsa onunla
+yazilamaz.
+
+Bu, atlasin kaynak havuzu icin genel bir ders tasir: beyaz listede olan bir
+alan adi (archive.org) icindeki her ogenin guvenilir oldugu anlamina gelmez.
+Havuz alan adini onaylar, tek tek ogeyi degil. Katalog kunyesi dogrulamasi
+(tur 27'de eklendi) bu isi kismen yapar ama konu bazli kirlilige karsi tek
+basina yetmez.
+
+Kuyruga eklendi: aktor-hazarlar (dikkatli kaynak secimiyle).
+
+Toplam makale 381 -> 383.

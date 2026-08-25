@@ -19,6 +19,8 @@ ilgili:
   - kavram-kuresellesme
   - kavram-ticaret-diasporasi
   - tartisma-mogol-etkisi
+  - aktor-sogdlular
+  - aktor-uygur-kaganligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

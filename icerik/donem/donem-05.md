@@ -29,6 +29,7 @@ ilgili:
   - aktor-gupta-imparatorlugu
   - aktor-hun-imparatorlugu
   - aktor-gokturk-kaganligi
+  - aktor-sogdlular
 okuma_onerisi: []
 serit:
   - bolge: avrupa

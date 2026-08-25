@@ -28,6 +28,7 @@ ilgili:
   - aktor-emevi-hilafeti
   - aktor-srivijaya
   - aktor-samaniler
+  - aktor-uygur-kaganligi
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi
