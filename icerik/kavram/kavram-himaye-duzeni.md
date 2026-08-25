@@ -27,6 +27,7 @@ ilgili:
   - kavram-pasifik-isci-toplama
   - olay-rus-turkistan-fethi
   - kavram-pamuk-tek-urun
+  - aktor-yeni-hebridler-ortak-yonetimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

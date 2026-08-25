@@ -59,6 +59,8 @@ ilgili:
   - kaynak-kurukan-fuga-sarti
   - kavram-kurulus-anlatisi
   - kaynak-kojiki
+  - aktor-banaba
+  - aktor-yeni-hebridler-ortak-yonetimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -21,6 +21,7 @@ ilgili:
   - tartisma-kalkinma-neden-basarisiz
   - kavram-bagimlilik-kurami
   - kavram-kaynak-elestirisi
+  - aktor-banaba
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -34,6 +34,7 @@ ilgili:
   - olay-plassey-1757
   - olay-rus-turkistan-fethi
   - kavram-pamuk-tek-urun
+  - aktor-banaba
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

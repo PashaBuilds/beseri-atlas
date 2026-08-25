@@ -3190,3 +3190,30 @@ Bölge sayımında en zayıf ikinci sıradaydı (41). Üç dosya eklendi.
 İki kapı bu turda kırıldı ve düzeltildi: KAPI 17 (özette "otuz yıl"
 diyip gövdede hiç anmamak) ve KAPI 5 (henüz yazılmamış bir kavram
 dosyasına link). İkincisi kasıtlıydı — dosyalar aynı turda yazılıyordu.
+
+## 2026-08-26 — Okyanusya turu
+
+Bölge sayımında en zayıf sıradaydı (16). İki dosya eklendi; ikisi de
+geçen turda künyelenen Pasifik birincil kaynaklarına dayanıyor.
+
+- `aktor-yeni-hebridler-ortak-yonetimi` — iki imparatorluğun aynı
+  adaları paralel iki idareyle yönettiği düzen. Ölçüm: iki yönetimin
+  birlikte kurulduğu yerde, hiçbirine ait olmayanlar iki hukukun
+  kesişiminde değil dışında kalır. Adalıların vatandaş sayılmaması
+  bunun somut hâli.
+- `aktor-banaba` — fosfat madenciliği yüzünden yaşanmaz hâle gelen
+  ada. Ölçüm: bir imza, iki tarafın aynı şeye rıza gösterdiğini
+  kanıtlamaz. Topluluğun kendi fosfat gelirinden ayrılan parayla
+  satın alınan bir adaya taşınması, tazminat değil yer değiştirme
+  finansmanı olarak kaydedildi. Nauru ile karşılaştırma: aynı kaynak,
+  aynı şirketler, farklı sonuç — belirleyici olan geliri kimin ne
+  zaman denetlediği.
+
+Yeni birincil kaynak: Albert Ellis'in 1936 tarihli anlatısı (McGill
+Library taraması) — fosfatı bulan ve işleten tarafın kendi kaydı.
+Cook 1777 ve Wawn 1893 taramaları da bu dosyalarda yeniden kullanıldı.
+
+Reddedilen alan: `britannica.com` havuzda beyaz listede ama otomatik
+isteklere 403 dönüyor; canlılık kapısını geçemeyeceği için künyeye
+alınmadı. Aynı durum daha önce nzhistory.govt.nz ve teara.govt.nz
+için de kaydedilmişti.

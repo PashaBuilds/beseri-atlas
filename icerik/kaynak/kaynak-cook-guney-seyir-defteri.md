@@ -21,6 +21,7 @@ ilgili:
   - kavram-pasifik-isci-toplama
   - kavram-birincil-kaynak
   - tartisma-kesif-mi-istila-mi
+  - aktor-yeni-hebridler-ortak-yonetimi
 okuma_onerisi: []
 yazar: "James Cook"
 eser_adi: "A Voyage towards the South Pole, and Round the World"

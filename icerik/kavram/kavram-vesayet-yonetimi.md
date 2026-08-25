@@ -24,6 +24,8 @@ ilgili:
   - aktor-nauru
   - olay-pasifik-nukleer-denemeleri
   - kavram-pasifik-isci-toplama
+  - aktor-banaba
+  - aktor-yeni-hebridler-ortak-yonetimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

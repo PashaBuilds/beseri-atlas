@@ -54,6 +54,8 @@ ilgili:
   - olay-pasifik-nukleer-denemeleri
   - kavram-pasifik-isci-toplama
   - kavram-pamuk-tek-urun
+  - aktor-banaba
+  - aktor-yeni-hebridler-ortak-yonetimi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

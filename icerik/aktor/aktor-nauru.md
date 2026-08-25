@@ -23,6 +23,7 @@ ilgili:
   - kavram-egemenlik
   - kavram-somurgesizlesme
   - olay-pasifik-nukleer-denemeleri
+  - aktor-banaba
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

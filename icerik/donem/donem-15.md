@@ -29,6 +29,8 @@ ilgili:
   - tartisma-kalkinma-yardimi-ise-yariyor-mu
   - tartisma-teknolojik-belirlenimcilik
   - olay-pasifik-nukleer-denemeleri
+  - aktor-banaba
+  - aktor-yeni-hebridler-ortak-yonetimi
 okuma_onerisi: []
 serit:
   - bolge: kuresel

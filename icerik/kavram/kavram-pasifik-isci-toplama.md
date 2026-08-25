@@ -23,6 +23,8 @@ ilgili:
   - kavram-kaynak-elestirisi
   - kaynak-cook-guney-seyir-defteri
   - kavram-pamuk-tek-urun
+  - aktor-banaba
+  - aktor-yeni-hebridler-ortak-yonetimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
