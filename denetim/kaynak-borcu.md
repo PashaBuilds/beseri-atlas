@@ -11,22 +11,22 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 480 |
-| Toplam künye | 1575 |
+| Ölçülen makale | 483 |
+| Toplam künye | 1584 |
 | Giriş kapısı kuralını aşan makale | 226 |
-| Birincil kaynağı olmayan makale | 251 |
+| Birincil kaynağı olmayan makale | 253 |
 | Giriş kapısı künyesi payı | 43% |
 
 ## Tipe göre borçlu makale
 
 | Tip | Borçlu |
 |---|---|
-| olay | 77 |
+| olay | 78 |
 | aktor | 74 |
 | kavram | 61 |
 | tartisma | 35 |
 | kaynak | 28 |
-| dusunur | 21 |
+| dusunur | 22 |
 | donem | 9 |
 
 ## Makale dökümü
@@ -294,6 +294,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `dusunur-katib-celebi` | 3 | 1 | 0 | birincil kaynak yok |
 | `dusunur-keynes` | 3 | 1 | 0 | birincil kaynak yok |
 | `dusunur-nagarjuna` | 3 | 1 | 0 | birincil kaynak yok |
+| `dusunur-ulug-bey` | 3 | 1 | 0 | birincil kaynak yok |
 | `dusunur-wang-yangming` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-buyuk-ayrisma` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-demografik-gecis` | 3 | 1 | 0 | birincil kaynak yok |
@@ -321,6 +322,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `olay-mogol-fetihleri` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-nufus-patlamasi` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-plassey-1757` | 3 | 1 | 0 | birincil kaynak yok |
+| `olay-rus-turkistan-fethi` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-talas-savasi` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-tanzimat-fermani` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-yesil-devrim` | 3 | 1 | 0 | birincil kaynak yok |

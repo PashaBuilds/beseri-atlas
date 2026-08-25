@@ -22,6 +22,7 @@ ilgili:
   - kavram-tarih-yazimi
   - kavram-kaynak-elestirisi
   - kaynak-cook-guney-seyir-defteri
+  - kavram-pamuk-tek-urun
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

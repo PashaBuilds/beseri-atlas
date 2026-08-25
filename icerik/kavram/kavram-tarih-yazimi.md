@@ -41,6 +41,7 @@ ilgili:
   - kavram-kurulus-anlatisi
   - kaynak-kojiki
   - kavram-pasifik-isci-toplama
+  - dusunur-ulug-bey
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -26,6 +26,7 @@ ilgili:
   - aktor-hokand-hanligi
   - tartisma-orta-asya-neden-cekildi
   - kavram-himaye-duzeni
+  - olay-rus-turkistan-fethi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

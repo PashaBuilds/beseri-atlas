@@ -32,6 +32,8 @@ ilgili:
   - aktor-ace-sultanligi
   - dusunur-fanon
   - olay-plassey-1757
+  - olay-rus-turkistan-fethi
+  - kavram-pamuk-tek-urun
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

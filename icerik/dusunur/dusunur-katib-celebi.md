@@ -24,6 +24,7 @@ ilgili:
   - dusunur-ibn-haldun
   - kavram-tarih-yazimi
   - kaynak-fetha-nagast
+  - dusunur-ulug-bey
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

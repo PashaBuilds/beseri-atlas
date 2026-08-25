@@ -21,6 +21,7 @@ ilgili:
   - aktor-samaniler
   - aktor-karahanlilar
   - dusunur-sankara
+  - dusunur-ulug-bey
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

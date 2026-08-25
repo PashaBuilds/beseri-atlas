@@ -31,6 +31,7 @@ ilgili:
   - tartisma-bati-neden-yukseldi
   - tartisma-osmanli-gerileme-tezi
   - olay-talas-savasi
+  - olay-rus-turkistan-fethi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

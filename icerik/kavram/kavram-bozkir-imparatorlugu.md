@@ -29,6 +29,7 @@ ilgili:
   - aktor-karluklar
   - aktor-kirgizlar
   - olay-talas-savasi
+  - olay-rus-turkistan-fethi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

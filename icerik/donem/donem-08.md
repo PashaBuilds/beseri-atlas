@@ -50,6 +50,7 @@ ilgili:
   - kaynak-fetha-nagast
   - kaynak-ibn-battuta-rihle
   - kaynak-kurukan-fuga-sarti
+  - dusunur-ulug-bey
 okuma_onerisi: []
 serit:
   - bolge: avrupa

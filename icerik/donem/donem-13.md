@@ -34,6 +34,8 @@ ilgili:
   - kaynak-tooze-felaketin-bedeli
   - aktor-nauru
   - kavram-pasifik-isci-toplama
+  - olay-rus-turkistan-fethi
+  - kavram-pamuk-tek-urun
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 serit:

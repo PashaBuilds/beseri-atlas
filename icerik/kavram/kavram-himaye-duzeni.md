@@ -25,6 +25,8 @@ ilgili:
   - kavram-vesayet-yonetimi
   - olay-adva-1896
   - kavram-pasifik-isci-toplama
+  - olay-rus-turkistan-fethi
+  - kavram-pamuk-tek-urun
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -46,6 +46,7 @@ ilgili:
   - kaynak-gilgamis-destani
   - kaynak-kojiki
   - kaynak-cook-guney-seyir-defteri
+  - dusunur-ulug-bey
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

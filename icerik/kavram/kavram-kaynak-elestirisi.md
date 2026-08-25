@@ -40,6 +40,8 @@ ilgili:
   - kavram-kurulus-anlatisi
   - kaynak-gilgamis-destani
   - kavram-pasifik-isci-toplama
+  - dusunur-ulug-bey
+  - kavram-pamuk-tek-urun
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

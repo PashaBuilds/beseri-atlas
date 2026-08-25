@@ -24,6 +24,7 @@ ilgili:
   - tartisma-kalkinma-yardimi-ise-yariyor-mu
   - veri-kisi-basi-gsyh-1-2022
   - donem-14
+  - kavram-pamuk-tek-urun
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

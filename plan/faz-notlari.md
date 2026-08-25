@@ -3168,3 +3168,25 @@ yazdığım betik hata verdi ama `rm` ayrı bir komut olduğu için yine de
 çalıştı; henüz commit'lenmemiş yeni dosya silindi ve içerik elle
 yeniden yazıldı. Ders: silme işlemi, birleştirmenin başarısına bağlı
 olmalı (`&&`), ayrı komut olmamalı.
+
+## 2026-08-26 — Orta Asya turu
+
+Bölge sayımında en zayıf ikinci sıradaydı (41). Üç dosya eklendi.
+
+- `dusunur-ulug-bey` — Semerkant rasathanesi ve yeni gözleme dayanan
+  yıldız kataloğu. İki ölçüm: (1) bir kaydın uzun süredir
+  tekrarlanıyor olması doğruluğunun değil aktarımının kanıtıdır;
+  (2) bir ölçüm onu yaptıran kurumdan uzun yaşayabilir, taşınabilir
+  olması bunun koşuludur. Rasathane yıkıldı, zîc kaldı.
+- `olay-rus-turkistan-fethi` — üç hanlığın üç farklı akıbeti. Ölçüm:
+  aynı fetih dalgasında farklı hukuki biçim seçilmesi yönetim
+  maliyetiyle ilgili bir hesaptır, direnişin şiddetiyle orantılı
+  değildir.
+- `kavram-pamuk-tek-urun` — fethin tarım sonucu. Ölçüm: bir bölgenin
+  ne ektiği, toprağının neye elverişli olduğundan çok bağlandığı
+  pazarın ne istediğiyle belirlenebilir. Aral'ın kuruması bu dosyada
+  bir çevre kararı değil bir tarım kararı sonucu olarak kaydedildi.
+
+İki kapı bu turda kırıldı ve düzeltildi: KAPI 17 (özette "otuz yıl"
+diyip gövdede hiç anmamak) ve KAPI 5 (henüz yazılmamış bir kavram
+dosyasına link). İkincisi kasıtlıydı — dosyalar aynı turda yazılıyordu.

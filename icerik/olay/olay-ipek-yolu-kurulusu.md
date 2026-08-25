@@ -25,6 +25,7 @@ ilgili:
   - aktor-buhara-hanligi
   - tartisma-orta-asya-neden-cekildi
   - olay-talas-savasi
+  - dusunur-ulug-bey
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

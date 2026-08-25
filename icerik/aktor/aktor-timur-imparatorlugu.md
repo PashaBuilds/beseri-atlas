@@ -22,6 +22,7 @@ ilgili:
   - aktor-buhara-hanligi
   - aktor-seybaniler
   - tartisma-orta-asya-neden-cekildi
+  - dusunur-ulug-bey
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

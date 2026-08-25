@@ -53,6 +53,7 @@ ilgili:
   - aktor-nauru
   - olay-pasifik-nukleer-denemeleri
   - kavram-pasifik-isci-toplama
+  - kavram-pamuk-tek-urun
 okuma_onerisi: []
 serit:
   - bolge: avrupa
