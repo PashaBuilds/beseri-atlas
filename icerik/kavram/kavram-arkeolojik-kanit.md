@@ -24,6 +24,7 @@ ilgili:
   - aktor-benin-kralligi
   - aktor-moche
   - aktor-teotihuacan
+  - aktor-olmek
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

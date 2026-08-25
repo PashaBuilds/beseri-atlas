@@ -21,6 +21,7 @@ ilgili:
   - olay-tunc-cagi-cokusu
   - tartisma-tunc-cagi-cokusunun-nedeni
   - aktor-asur-imparatorlugu
+  - aktor-olmek
 okuma_onerisi: []
 serit:
   - bolge: avrupa

@@ -21,6 +21,7 @@ ilgili:
   - kavram-arkeolojik-kanit
   - kavram-kentlesme
   - kavram-sehir-devleti
+  - aktor-olmek
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

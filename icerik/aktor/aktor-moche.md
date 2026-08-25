@@ -22,6 +22,7 @@ ilgili:
   - kaynak-guaman-poma-nueva-coronica
   - kavram-kipu
   - aktor-teotihuacan
+  - aktor-olmek
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

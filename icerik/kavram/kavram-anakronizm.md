@@ -27,6 +27,7 @@ ilgili:
   - kaynak-popol-vuh
   - dusunur-zhu-xi
   - dusunur-nagarjuna
+  - aktor-olmek
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1235,3 +1235,42 @@ kisitin sinirini da belirliyor: yonetim bicimi okunamiyor ama yonetimin
 surekliligi okunabiliyor.
 
 Toplam makale 408 -> 409. Birincil kunye 163 -> 166.
+
+## Tur 43 — Olmek: ana kultur tartismasi ve kazi yogunlugu sorunu (2026-08-25)
+
+**aktor-olmek** (1204 kelime) eklendi. Atlasin Amerika aktor katmanindaki en
+erken tarihli dosyasi; oteki dosyalar en az bin yil sonrasina ait.
+
+Dosyanin merkezindeki tartisma: duzen sonraki Orta Amerika uygarliklarinin
+kaynagi mi (ana kultur) yoksa onlarla eszamanli gelisen bir bileseni mi
+(kardes kultur)?
+
+### Tartismanin neden kapanmadigi — yontemsel bulgu
+
+Dosyada kaydedilen en onemli nokta su: tartisma kanit yoklugundan degil
+**kazi yogunlugunun esitsiz dagilmasindan** kapanmiyor. Bir unsurun hangi
+bolgede once ortaya ciktigi, ancak her iki bolgede de yeterince kazi
+yapilmissa belirlenebilir.
+
+Formul olarak: **en erken tarih, kazilmis alanlarin en erken tarihidir;
+kazilmamis alanlar hakkinda bir sey soylemez.**
+
+Bu, atlasin baska bolgelerde de kaydettigi bir yanliligin arkeolojik
+karsiligidir. Dijital erisim esitsizligi metin kaynaklarinda ne yapiyorsa,
+kazi yogunlugu esitsizligi nesne kaynaklarinda ayni seyi yapiyor.
+
+### Teotihuacan ile karsit gozlem
+
+Iki dosya bilincli olarak karsilastirildi. Teotihuacan'da bireysel portre
+yoktu ve bu kurumsal bir yonetim bicimine dayanak yapilmisti; Olmek'te
+anitsal baslarin her biri farkli yuz ozellikleri tasiyor ve tersi cikarima
+dayanak veriyor. Ayni kanit turu, iki yonde de okunabiliyor.
+
+### Kunyede beyan edilen kisit
+
+Dosyanin en cok atifta bulundugu eser grubu — anitsal bazalt baslar —
+kunyeye alinamadi. Bulunduklari yerde ve bolgesel muzelerde duruyorlar;
+dogrulanabilir bir cevrimici katalog kaydi bulunamadi. Kunyedeki uc nesne
+daha kucuk olcekli buluntular. Bu, dosyada acikca yazildi.
+
+Toplam makale 409 -> 410. Birincil kunye 166 -> 169.
