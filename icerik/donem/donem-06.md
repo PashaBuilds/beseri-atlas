@@ -31,6 +31,8 @@ ilgili:
   - aktor-uygur-kaganligi
   - dusunur-sankara
   - aktor-hazarlar
+  - aktor-karluklar
+  - aktor-kirgizlar
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

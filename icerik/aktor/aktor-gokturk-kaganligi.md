@@ -25,6 +25,8 @@ ilgili:
   - aktor-sogdlular
   - aktor-uygur-kaganligi
   - aktor-hazarlar
+  - aktor-karluklar
+  - aktor-kirgizlar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -649,5 +649,7 @@ kucuk cekirdek buyugun icinde kaldigi icin kapsam testi gecti.
 Tek sozcuklu bir cekirdegin daha buyuk bir cekirdegin icinde bulunmasi
 zayif kanittir. Kapi, kucuk cekirdek tek sozcukten olusuyorsa ek bir
 kosul aramali (ornegin tarih araliklarinin da ortusmesi ya da tip
-esitligi). Dosya adi degistirilerek gecildi; kapi degistirilmedi.
-Oncelik: dusuk.
+esitligi). KAPATILDI (ayni gun): kucuk cekirdek tek sozcukten olusuyorsa ek
+toleransi kapatildi, tam esitlik araniyor. Gercek korpusta 0 hata;
+sentetik sinamada eski birlestirme ciftleri (Gana, Selcuklu) hala
+yakalaniyor.

@@ -90,7 +90,16 @@ export function tekrarDenetimi(makaleler) {
           ? [a.cekirdek, b.cekirdek] : [b.cekirdek, a.cekirdek];
         // Kucuk cekirdegin her sozcugu buyuk cekirdekte karsilik buluyorsa
         // iki baslik ayni konuyu adlandiriyor demektir.
-        const kapsiyor = kucuk.every((w) => buyuk.some((v) => ayniSozcuk(w, v)));
+        // Tek sozcuklu kucuk cekirdek, daha genis bir cekirdegin icinde
+        // bulundugunda zayif kanittir: 2026-08-25'te "Hukuk devleti" ile
+        // "Hukuki belge okumasi" bu yoldan yanlis eslesti ({hukuk} ~ {hukuki}).
+        // Bu durumda ek toleransi kapatiliyor; tam esitlik araniyor.
+        // Gercek birlestirme vakalari (Gana Kralligi/Imparatorlugu, Buyuk
+        // Selcuklu/Selcuklular) iki tarafta da tek sozcuklu cekirdege indigi
+        // icin bu daralmadan etkilenmez.
+        const zayif = kucuk.length === 1 && buyuk.length > 1;
+        const esles = zayif ? ((w, v) => w === v) : ayniSozcuk;
+        const kapsiyor = kucuk.every((w) => buyuk.some((v) => esles(w, v)));
         if (!kapsiyor) continue;
         if (!araliklarKesisiyor(a, b)) continue;
         cift++;

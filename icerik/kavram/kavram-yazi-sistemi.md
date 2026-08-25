@@ -23,6 +23,7 @@ ilgili:
   - aktor-kus-kralligi
   - aktor-cahokia
   - kaynak-hammurabi-kanunlari
+  - aktor-kirgizlar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

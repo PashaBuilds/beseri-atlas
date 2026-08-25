@@ -42,6 +42,8 @@ ilgili:
   - aktor-vijayanagara
   - kaynak-hammurabi-kanunlari
   - kavram-belge-okumasi
+  - aktor-karluklar
+  - aktor-kirgizlar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

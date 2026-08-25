@@ -22,6 +22,8 @@ ilgili:
   - olay-talas-savasi
   - olay-ipek-yolu-kurulusu
   - aktor-sogdlular
+  - aktor-karluklar
+  - aktor-kirgizlar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

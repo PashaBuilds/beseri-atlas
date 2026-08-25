@@ -2678,3 +2678,57 @@ toleransıyla "hukuki"ye eşleşiyor ve tek sözcüklü çekirdek daha büyük
 çekirdeğin içinde kalıyor. Ad `kavram-belge-okumasi` olarak değiştirildi.
 Kapının muhafazakârlığı bir kusur değil; ama tek sözcüklü çekirdeklerin
 zayıf kanıt olduğu borç defterine yazılmalı.
+
+## Tur — KAPI 15 onarımı ve Orta Asya: Karluklar, Kırgızlar
+## (25 Ağustos 2026)
+
+Eklenen: `aktor-karluklar`, `aktor-kirgizlar`. Onarılan:
+`araclar/linter-tekrar.mjs`. Toplam 461 → 463. Orta Asya 38 → 40.
+
+**Geçen turda açılan kapı borcu kapatıldı.** KAPI 15, tek sözcüklü
+küçük çekirdek daha geniş bir çekirdeğin içinde kaldığında Türkçe ek
+toleransıyla yanlış eşleşiyordu. Bu durumda tolerans kapatıldı, tam
+eşitlik aranıyor. Sınama: gerçek korpusta 0 hata; sentetik sınamada eski
+birleştirme çiftleri (Gana Krallığı/İmparatorluğu, Büyük
+Selçuklu/Selçuklular) hâlâ yakalanıyor — ikisinde de çekirdek her iki
+tarafta tek sözcüğe indiği için daralma onları etkilemiyor.
+
+**Karluklar — bir topluluğun başkasının dipnotuna sıkışması.** Dört
+yüzyıllık varlık, tek bir günün tek bir kararına indirgeniyor: bir
+savaşın ortasında taraf değiştirdikleri iddiası. İddia, olaydan sonra ve
+olayın taraflarından biri tarafından yazılmış kaynaklara dayanıyor.
+
+Kayda geçen ölçüm: **bir topluluk hakkındaki kaydın tamamı başkalarının
+kayıtlarından geliyorsa, o topluluk yalnızca başkalarını etkilediği
+anlarda görünür.**
+
+Dosya bir alternatif okuma da öneriyor ve kanıtlanmadığını yazıyor:
+Karluklar tek boy değil boy birliğiydi; bir boyun kararı dışarıdan bakan
+için bütün birliğin kararı gibi görünebilir. Önerinin değeri iddiayı
+çürütmesinde değil, tek okumaya bağlı kalmanın dayanakları
+sorgulanamaz kılmasını engellemesinde.
+
+**Kırgızlar — açıklanmayan durma.** 840'ta güneydeki kağanlığı yıktılar
+ve yerine geçmediler; kendi havzalarına döndüler. Bozkır tarihinde olağan
+örüntü yıkanın yıkılanın yerine geçmesidir. Kaynaklar nedeni
+açıklamıyor.
+
+Kayda geçen ölçüm: **bir zaferin genişlemeye dönüşmemesi açıklanması
+gereken bir olgudur; olağan sayılan yön, açıklanması gerekmeyen yön
+değildir.** Anlatılar genellikle genişlemeyi açıklar ve durmayı
+açıklamaz; hangi yönün açıklama gerektirdiği, o anlatının hangi yönü
+olağan saydığını gösteriyor.
+
+**Kanıt dosyasına üçüncü ayrım eklendi.** Kanıt dosyası yazılı kaydı
+okunabilir/okunamaz diye ikiye ayırmıştı. Kırgız yazıtları okunabilir
+ama kısa ve kişisel: tarih, hükümdar adı ve karar kaydı içermiyorlar;
+buna karşılık akrabalık düzeni, unvanlar ve gömü pratikleri okunabiliyor.
+Yani yazılı kayıt yalnızca okunabilirliğine göre değil, uzunluğuna ve
+amacına göre de sınıflandırılmalı.
+
+**Şema alanı düzeltmesi.** İki dosya da başta `guven_geneli: tartismali`
+yazılmıştı ve KAPI 9 haklı olarak reddetti — tartışmalı işaretlenen bir
+dosya ya `::tartismali` haritası ya ilgili bir tartışma dosyası
+gerektiriyor. Doğru değer `yaygin`: dosyaların çekirdek olguları
+(varlık, tarih, bölge) yaygın kabul görüyor; tartışmalı noktalar zaten
+paragraf paragraf işaretli.

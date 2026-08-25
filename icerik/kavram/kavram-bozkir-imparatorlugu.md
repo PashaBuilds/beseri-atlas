@@ -26,6 +26,8 @@ ilgili:
   - aktor-hive-hanligi
   - aktor-seybaniler
   - aktor-hokand-hanligi
+  - aktor-karluklar
+  - aktor-kirgizlar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

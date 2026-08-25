@@ -11,10 +11,10 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 461 |
-| Toplam künye | 1517 |
+| Ölçülen makale | 463 |
+| Toplam künye | 1523 |
 | Giriş kapısı kuralını aşan makale | 227 |
-| Birincil kaynağı olmayan makale | 247 |
+| Birincil kaynağı olmayan makale | 249 |
 | Giriş kapısı künyesi payı | 44% |
 
 ## Tipe göre borçlu makale
@@ -22,7 +22,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Tip | Borçlu |
 |---|---|
 | olay | 77 |
-| aktor | 72 |
+| aktor | 74 |
 | kavram | 61 |
 | tartisma | 35 |
 | kaynak | 27 |
@@ -271,7 +271,9 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `aktor-gana-imparatorlugu` | 4 | 1 | 0 | birincil kaynak yok |
 | `aktor-hive-hanligi` | 4 | 1 | 0 | birincil kaynak yok |
 | `aktor-hokand-hanligi` | 4 | 1 | 0 | birincil kaynak yok |
+| `aktor-karluklar` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-karolenj-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
+| `aktor-kirgizlar` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-mali-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-ming-hanedani` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-mogol-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |

@@ -24,6 +24,7 @@ ilgili:
   - aktor-buyuk-selcuklu
   - aktor-kanem-bornu
   - kaynak-yusuf-has-hacib-kutadgu-bilig
+  - aktor-karluklar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -21,6 +21,8 @@ ilgili:
   - aktor-uygur-kaganligi
   - tartisma-sozlu-gelenek-kaynak-mi
   - aktor-hazarlar
+  - aktor-karluklar
+  - aktor-kirgizlar
 okuma_onerisi: []
 yazar: "Göktürk kağanlık yazıcıları"
 eser_adi: "Orhon Yazıtları"

@@ -19,6 +19,7 @@ ilgili:
   - olay-islam-fetihleri
   - kaynak-orhon-yazitlari
   - aktor-uygur-kaganligi
+  - aktor-karluklar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -50,6 +50,8 @@ ilgili:
   - aktor-muvahhidler
   - aktor-cahokia
   - kaynak-magna-carta
+  - aktor-karluklar
+  - aktor-kirgizlar
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi
