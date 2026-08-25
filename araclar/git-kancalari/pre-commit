@@ -1,0 +1,17 @@
+#!/bin/sh
+# Atlasin yerel kapilarini commit oncesinde calistirir.
+#
+# Gerekce: 2026-08-26'da KAPI 11'i gecmeyen bir dosya (13 kelime eksik)
+# commit'lendi ve bir sonraki turda fark edildi. Kapilar zaten yaziliydi;
+# eksik olan, onlarin commit anina baglanmasiydi.
+#
+# Hizli olmasi icin yalnizca --lint kosulur (ag denetimi ve derleme haric).
+# Atlanmasi gerekirse: git commit --no-verify
+npm run --silent lint > /tmp/beseri-lint.log 2>&1
+if [ $? -ne 0 ]; then
+  echo "COMMIT DURDURULDU — yerel kapilar gecmedi:"
+  grep -E "KIRILDI|HATA" /tmp/beseri-lint.log | head -20
+  echo "(tam cikti: /tmp/beseri-lint.log · atlamak icin: git commit --no-verify)"
+  exit 1
+fi
+exit 0
