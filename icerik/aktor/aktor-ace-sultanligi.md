@@ -21,6 +21,7 @@ ilgili:
   - kavram-ticaret-diasporasi
   - dusunur-ibn-battuta
   - tartisma-somurgeciligin-ekonomik-bilancosu
+  - olay-malaka-fethi-1511
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

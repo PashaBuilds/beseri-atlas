@@ -1119,3 +1119,30 @@ Orta Asya dosyalarinda uygulanmisti; artik gerekcesi tek bir yerde yazili
 ve o dosyalardan buraya bag var.
 
 Toplam makale 399 -> 400.
+
+## Tur 38 — olay katmani: iki kurum sonu (2026-08-25)
+
+- **olay-bagdat-kusatmasi-1258** (1204 kelime): bes yuzyillik bir hilafet
+  merkezinin haftalar icinde dusmesi. Dosyanin merkezi soru sembolik guc ile
+  fiili guc arasindaki fark. Dort kaynagin ucu TDV, biri Wikisource; sifir
+  Wikipedia kunyesi.
+- **olay-malaka-fethi-1511** (1204 kelime): bir gecidi denetlemenin ticareti
+  denetlemeye yetmedigi. Kaybeden tarafin kendi saray anlatisi birincil kaynak
+  olarak kullanildi — olay dosyalarinda seyrek bir durum.
+
+### Ikisinde de uygulanan ayrim
+
+Her iki dosyada da sayilar (olu sayisi, gemi ve asker mevcudu) **verilmedi**
+ve gerekce metinde yazildi: bir felaketin buyuklugunu bildiren sayilar
+olcum degil vurgu tasir, ve az gemiyle buyuk sehir almak kaydi tutanin
+basarisini buyuttugu icin savunan tarafin sayisi yuksek gosterilmeye
+egilimlidir. Kaynaklarin yonu belli oldugunda sayi aktarmak, yonun kendisini
+aktarmak olur.
+
+### Kapi is gordu
+
+KAPI 11 iki dosyayi da uc kez geri cevirdi (943/916 -> 1158/1138 ->
+1181/1178 -> 1204/1204). Yeni makalelerin borcla dogamamasi kurali, bu turda
+uc tur genisletme yaptirdi.
+
+Toplam makale 400 -> 402.

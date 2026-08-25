@@ -25,6 +25,7 @@ ilgili:
   - aktor-maldiv-sultanligi
   - aktor-bengal-sultanligi
   - aktor-gucerat-sultanligi
+  - olay-malaka-fethi-1511
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

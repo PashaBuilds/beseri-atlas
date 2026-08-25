@@ -32,6 +32,7 @@ ilgili:
   - tartisma-kesif-mi-istila-mi
   - tartisma-vestfalya-miti
   - aktor-ace-sultanligi
+  - olay-malaka-fethi-1511
 okuma_onerisi: []
 serit:
   - bolge: avrupa

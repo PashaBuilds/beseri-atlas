@@ -22,6 +22,7 @@ ilgili:
   - kavram-bozkir-imparatorlugu
   - tartisma-mogol-etkisi
   - aktor-harizmsahlar
+  - olay-bagdat-kusatmasi-1258
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -24,6 +24,7 @@ ilgili:
   - tartisma-kesif-mi-istila-mi
   - aktor-ayutthaya-kralligi
   - aktor-ace-sultanligi
+  - olay-malaka-fethi-1511
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

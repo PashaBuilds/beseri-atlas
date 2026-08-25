@@ -26,6 +26,7 @@ ilgili:
   - olay-malazgirt
   - olay-hacli-seferleri
   - kaynak-yusuf-has-hacib-kutadgu-bilig
+  - olay-bagdat-kusatmasi-1258
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

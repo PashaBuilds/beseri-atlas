@@ -30,6 +30,7 @@ ilgili:
   - kaynak-guaman-poma-nueva-coronica
   - kaynak-popol-vuh
   - aktor-malaka-sultanligi
+  - olay-malaka-fethi-1511
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

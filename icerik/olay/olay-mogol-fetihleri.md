@@ -18,6 +18,7 @@ ilgili:
   - aktor-mogol-imparatorlugu
   - tartisma-mogol-etkisi
   - aktor-pagan-kralligi
+  - olay-bagdat-kusatmasi-1258
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

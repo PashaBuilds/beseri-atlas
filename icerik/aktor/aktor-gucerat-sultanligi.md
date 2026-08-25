@@ -21,6 +21,7 @@ ilgili:
   - kaynak-ain-i-akbari
   - aktor-bengal-sultanligi
   - kavram-vergi
+  - olay-malaka-fethi-1511
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

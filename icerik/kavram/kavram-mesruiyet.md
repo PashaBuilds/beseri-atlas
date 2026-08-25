@@ -37,6 +37,7 @@ ilgili:
   - aktor-pagan-kralligi
   - kaynak-baburname
   - dusunur-mengzi
+  - olay-bagdat-kusatmasi-1258
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

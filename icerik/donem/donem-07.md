@@ -41,6 +41,7 @@ ilgili:
   - aktor-pagan-kralligi
   - aktor-maldiv-sultanligi
   - dusunur-zhu-xi
+  - olay-bagdat-kusatmasi-1258
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi
