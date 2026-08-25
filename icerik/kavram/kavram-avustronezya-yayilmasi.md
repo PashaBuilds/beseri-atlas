@@ -17,6 +17,7 @@ ilgili:
   - kavram-hint-okyanusu-ticareti
   - kavram-arkeolojik-kanit
   - aktor-maldiv-sultanligi
+  - aktor-avustralya-yerli-halklari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

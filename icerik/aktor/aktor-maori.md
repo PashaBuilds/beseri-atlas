@@ -20,6 +20,7 @@ ilgili:
   - tartisma-sozlu-gelenek-kaynak-mi
   - kavram-arkeolojik-kanit
   - kavram-somurgesizlesme
+  - aktor-avustralya-yerli-halklari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

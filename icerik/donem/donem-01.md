@@ -23,6 +23,7 @@ ilgili:
   - kavram-longue-duree
   - kavram-donemlendirme
   - tartisma-tarim-devrimi-neden
+  - aktor-avustralya-yerli-halklari
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

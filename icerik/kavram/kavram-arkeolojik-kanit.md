@@ -27,6 +27,7 @@ ilgili:
   - aktor-olmek
   - kavram-avustronezya-yayilmasi
   - aktor-maori
+  - aktor-avustralya-yerli-halklari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

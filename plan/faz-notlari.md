@@ -1274,3 +1274,43 @@ dogrulanabilir bir cevrimici katalog kaydi bulunamadi. Kunyedeki uc nesne
 daha kucuk olcekli buluntular. Bu, dosyada acikca yazildi.
 
 Toplam makale 409 -> 410. Birincil kunye 166 -> 169.
+
+## Tur 45 — Okyanusya dolduruluyor; sema siniri gorunur oldu (2026-08-25)
+
+**aktor-avustralya-yerli-halklari** (1215 kelime) eklendi. Bolgenin ucuncu
+dosyasi.
+
+### Atlasin donem semasinin kapsayamadigi tek konu
+
+Dosyanin ayirt edici yani konusunun buyuklugu degil, **atlasin kendi
+semasinin onu kapsayamamasi.** Atlasin en erken donemi (donem-01) tarimin
+yayginlasmasiyla, MO 10000'de basliyor; bu dosyanin konusu o tarihten on
+binlerce yil once basliyor.
+
+Kunyeye `donem: "01"` ve `tarih_baslangic: "-50000"` yazildi. Tutarsizlik
+gizlenmedi; semanin kapsayamadigi bir konuyu semaya sigdirmanin baska yolu
+yok ve dosya bunu acikca yaziyor.
+
+Sema `-50000` degerini kabul etti (tarih regex'i sinirsiz) ve zaman seridi
+kirilmadi. Yine de kaydedilmeli: 16 donemlik sema, tarim oncesi on binlerce
+yili tek bir baslangic noktasina sikistirir.
+
+### Kayit sistemleri zinciri tamamlandi
+
+Uc turdur yazilan dosyalar bir kavramsal zincir olusturdu:
+
+  yazi (metnin icine gomulu usul, tasiyicidan bagimsiz okunur)
+  kipu (usul gorevlide; gorevli sinifi giderse anahtar kaybolur)
+  sarki yollari (usul arazide; araziye erisim kesilirse aktarilamaz)
+
+Ucu de kayit tutar, ucu de yazi degildir ve ucunun kayip mekanizmasi
+farklidir. Genel gozlem: **bir kayit, tasiyicisi yok edildiginde kaybolur;
+tasiyici bir nesne, bir kisi ya da bir arazi olabilir.**
+
+### Bilerek birakilan sinir
+
+Topluluklarin bilgi duzeninde kapali tutulan bolumler var. Atlas bunu konu
+etmiyor ve etmeye calismiyor; sinir dosyada acikca beyan edildi. Bu bir
+eksiklik degil bir sinir ve oyle kaydedildi.
+
+Toplam makale 412 -> 413.

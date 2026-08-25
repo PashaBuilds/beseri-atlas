@@ -19,6 +19,7 @@ ilgili:
   - tartisma-vestfalya-miti
   - kaynak-hobsbawm-caglar
   - dusunur-biruni
+  - aktor-avustralya-yerli-halklari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

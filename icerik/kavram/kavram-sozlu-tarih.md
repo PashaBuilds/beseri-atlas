@@ -20,6 +20,7 @@ ilgili:
   - tartisma-sozlu-gelenek-kaynak-mi
   - aktor-benin-kralligi
   - aktor-maori
+  - aktor-avustralya-yerli-halklari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

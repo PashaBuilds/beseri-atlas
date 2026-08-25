@@ -31,6 +31,7 @@ ilgili:
   - aktor-moche
   - kavram-kipu
   - aktor-maori
+  - aktor-avustralya-yerli-halklari
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:
