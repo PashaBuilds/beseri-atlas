@@ -38,6 +38,8 @@ ilgili:
   - aktor-harizmsahlar
   - aktor-gana-imparatorlugu
   - aktor-chola
+  - aktor-pagan-kralligi
+  - aktor-maldiv-sultanligi
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

@@ -24,6 +24,8 @@ ilgili:
   - aktor-kilva
   - kavram-hint-okyanusu-ticareti
   - kavram-svahili-kiyisi
+  - aktor-ace-sultanligi
+  - aktor-maldiv-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

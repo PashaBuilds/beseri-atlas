@@ -22,6 +22,8 @@ ilgili:
   - kavram-ticaret-diasporasi
   - olay-cheng-ho-seferleri
   - tartisma-kesif-mi-istila-mi
+  - aktor-ayutthaya-kralligi
+  - aktor-ace-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

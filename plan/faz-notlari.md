@@ -927,3 +927,35 @@ gordugu duz metindir. Sonraki turlarda direktif metni de govde prozasiyla ayni
 ozende yazilmali.
 
 Toplam makale 383 -> 386.
+
+## Tur 32 — Guneydogu Asya ve Hint Okyanusu'nun dort kosesi (2026-08-25)
+
+Dort aktor dosyasi eklendi; hepsi bir onceki turda yazilan
+kavram-hint-okyanusu-ticareti dosyasina baglaniyor ve her biri o duzenin
+farkli bir isleyisini gosteriyor:
+
+| dosya | kelime | gosterdigi mekanizma |
+|---|---|---|
+| aktor-ayutthaya-kralligi | 1273 | karma gelir (tarim + liman); Avrupa devletlerini dengeleme |
+| aktor-pagan-kralligi | 1201 | dini bagisin vergi tabanini kalici olarak asindirmasi |
+| aktor-ace-sultanligi | 1229 | ablukanin alternatif guzergahla asilmasi; uretici liman |
+| aktor-maldiv-sultanligi | 1263 | iki kitada para olarak kullanilan tek kaynakli mal |
+
+Ace ve Maldivler dosyalarinda **sifir Wikipedia kunyesi** var: ucu de TDV
+maddeleri ve birincil metinler. Giris kapisi orani boylece dususe gecti.
+
+### Uzunluk kalibrasyonu (olculdu, tahmin degil)
+
+Uc paragrafli bir bolum ortalama ~62 kelime tutuyor. Aktor hedefi (1200-2000)
+icin **20-22 bolum** gerekiyor. Onceki turlarda 9-15 bolumle yazip sonradan
+genisletiyordum; bu, dosyayi ikinci kez yazmak demek ve gereksiz.
+
+### Tekrar eden hata: okuma yonlendirmesi kaynaksiz kaliyor
+
+Uc dosyada birden KAPI 2, son bolumdeki "Avrupa", "Afrika", "yuz elli yil"
+gibi ifadeleri kaynaksiz paragrafta yakaladi. Okuma yonlendirmesi bolumu
+yonlendirme oldugu icin kaynaksiz yazma egilimindeyim; ama icinde ozel isim
+ya da nicelik geciyorsa kunye gerekiyor. Sonraki turlarda bu bolume de dipnot
+konmali.
+
+Toplam makale 386 -> 390.

@@ -17,6 +17,7 @@ ilgili:
   - olay-kara-olum
   - aktor-mogol-imparatorlugu
   - tartisma-mogol-etkisi
+  - aktor-pagan-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -18,6 +18,7 @@ ilgili:
   - dusunur-ibn-battuta
   - kavram-arkeolojik-kanit
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - aktor-maldiv-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

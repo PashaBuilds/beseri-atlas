@@ -34,6 +34,7 @@ ilgili:
   - kaynak-orhon-yazitlari
   - kaynak-yusuf-has-hacib-kutadgu-bilig
   - kaynak-guaman-poma-nueva-coronica
+  - aktor-pagan-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

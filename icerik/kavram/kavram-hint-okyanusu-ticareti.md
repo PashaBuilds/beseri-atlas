@@ -20,6 +20,9 @@ ilgili:
   - dusunur-ibn-battuta
   - aktor-malaka-sultanligi
   - kavram-svahili-kiyisi
+  - aktor-ayutthaya-kralligi
+  - aktor-ace-sultanligi
+  - aktor-maldiv-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

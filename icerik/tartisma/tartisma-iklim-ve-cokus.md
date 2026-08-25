@@ -27,6 +27,7 @@ ilgili:
   - tartisma-tunc-cagi-cokusunun-nedeni
   - kavram-arkeolojik-kanit
   - tartisma-romanin-cokus-nedeni
+  - aktor-pagan-kralligi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

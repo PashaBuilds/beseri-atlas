@@ -19,6 +19,7 @@ ilgili:
   - aktor-kilva
   - aktor-indus-vadisi
   - kavram-svahili-kiyisi
+  - aktor-pagan-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

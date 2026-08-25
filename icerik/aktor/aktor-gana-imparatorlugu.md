@@ -28,6 +28,7 @@ ilgili:
   - olay-mansa-musa-haci
   - kaynak-timbuktu-tarihleri
   - donem-07
+  - aktor-maldiv-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

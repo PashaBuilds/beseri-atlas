@@ -27,6 +27,7 @@ ilgili:
   - kavram-millet-sistemi
   - kavram-timar
   - tartisma-osmanli-gerileme-tezi
+  - aktor-ace-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

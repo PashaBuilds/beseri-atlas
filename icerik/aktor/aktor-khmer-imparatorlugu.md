@@ -17,6 +17,8 @@ ilgili:
   - tartisma-tunc-cagi-cokusunun-nedeni
   - olay-kara-olum
   - aktor-majapahit
+  - aktor-ayutthaya-kralligi
+  - aktor-pagan-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

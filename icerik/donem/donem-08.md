@@ -37,6 +37,7 @@ ilgili:
   - aktor-kanem-bornu
   - aktor-kilva
   - aktor-malaka-sultanligi
+  - aktor-ayutthaya-kralligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

@@ -21,6 +21,9 @@ ilgili:
   - kavram-hint-okyanusu-ticareti
   - aktor-malaka-sultanligi
   - kavram-svahili-kiyisi
+  - aktor-ayutthaya-kralligi
+  - aktor-ace-sultanligi
+  - aktor-maldiv-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

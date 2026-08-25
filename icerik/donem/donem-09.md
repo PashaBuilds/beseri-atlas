@@ -31,6 +31,7 @@ ilgili:
   - tartisma-osmanli-gerileme-tezi
   - tartisma-kesif-mi-istila-mi
   - tartisma-vestfalya-miti
+  - aktor-ace-sultanligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

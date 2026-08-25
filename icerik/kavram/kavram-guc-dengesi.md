@@ -19,6 +19,7 @@ ilgili:
   - kaynak-mahan-deniz-gucu
   - kaynak-montesquieu-kanunlarin-ruhu
   - veri-askeri-harcama
+  - aktor-ayutthaya-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

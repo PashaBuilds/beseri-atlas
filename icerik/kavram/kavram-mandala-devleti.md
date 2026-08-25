@@ -15,6 +15,8 @@ ilgili:
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - kavram-sehir-devleti
   - aktor-malaka-sultanligi
+  - aktor-ayutthaya-kralligi
+  - aktor-pagan-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

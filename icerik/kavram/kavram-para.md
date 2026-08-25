@@ -15,6 +15,7 @@ ilgili:
   - aktor-song-hanedani
   - kavram-vergi
   - kavram-ticaret-diasporasi
+  - aktor-maldiv-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
