@@ -18,6 +18,7 @@ ilgili:
   - kavram-mesruiyet
   - tartisma-buyuk-adam-kurami
   - aktor-harizmsahlar
+  - aktor-seybaniler
 okuma_onerisi: []
 yazar: "Zahîrüddin Muhammed Bâbür"
 eser_adi: "Bâbürnâme"

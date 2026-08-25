@@ -23,6 +23,7 @@ ilgili:
   - tartisma-mogol-etkisi
   - aktor-ilhanlilar
   - aktor-cagatay-hanligi
+  - aktor-seybaniler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -19,6 +19,7 @@ ilgili:
   - aktor-babur-imparatorlugu
   - olay-iran-devrimi-1979
   - kavram-barut-imparatorluklari
+  - aktor-seybaniler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

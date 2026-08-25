@@ -24,6 +24,8 @@ ilgili:
   - kavram-mesruiyet
   - tartisma-mogol-etkisi
   - kaynak-camiut-tevarih
+  - aktor-buhara-hanligi
+  - aktor-seybaniler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -22,6 +22,7 @@ ilgili:
   - aktor-sogdlular
   - aktor-uygur-kaganligi
   - aktor-kusan-imparatorlugu
+  - aktor-buhara-hanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

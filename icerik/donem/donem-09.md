@@ -34,6 +34,9 @@ ilgili:
   - aktor-ace-sultanligi
   - olay-malaka-fethi-1511
   - dusunur-wang-yangming
+  - aktor-buhara-hanligi
+  - aktor-hive-hanligi
+  - aktor-seybaniler
 okuma_onerisi: []
 serit:
   - bolge: avrupa

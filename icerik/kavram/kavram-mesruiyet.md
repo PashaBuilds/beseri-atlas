@@ -42,6 +42,9 @@ ilgili:
   - aktor-kusan-imparatorlugu
   - aktor-ilhanlilar
   - aktor-cagatay-hanligi
+  - aktor-buhara-hanligi
+  - aktor-hive-hanligi
+  - aktor-seybaniler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

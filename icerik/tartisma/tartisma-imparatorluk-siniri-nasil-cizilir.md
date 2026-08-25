@@ -40,6 +40,7 @@ ilgili:
   - tartisma-imparatorluk-nufusu-nasil-sayilir
   - kaynak-orhon-yazitlari
   - aktor-sogdlular
+  - aktor-hive-hanligi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

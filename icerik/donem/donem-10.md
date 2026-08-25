@@ -28,6 +28,8 @@ ilgili:
   - olay-atlantik-kole-ticareti
   - tartisma-aydinlanmanin-sinirlari
   - olay-plassey-1757
+  - aktor-buhara-hanligi
+  - aktor-hive-hanligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

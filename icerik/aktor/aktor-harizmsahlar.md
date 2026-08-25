@@ -20,6 +20,7 @@ ilgili:
   - kavram-kaynak-elestirisi
   - tartisma-mogol-etkisi
   - kaynak-baburname
+  - aktor-hive-hanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

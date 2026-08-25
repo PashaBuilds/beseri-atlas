@@ -19,6 +19,8 @@ ilgili:
   - aktor-delhi-sultanligi
   - kaynak-baburname
   - aktor-cagatay-hanligi
+  - aktor-buhara-hanligi
+  - aktor-seybaniler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -22,6 +22,7 @@ ilgili:
   - aktor-bengal-sultanligi
   - aktor-gucerat-sultanligi
   - olay-plassey-1757
+  - aktor-seybaniler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

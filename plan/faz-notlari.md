@@ -1806,3 +1806,56 @@ karşılıklı.
 **Kalibrasyon teyidi.** İki dosya da ilk hâlde %82 ve %71'de kaldı.
 Aktör dosyaları için 22 bölüm hedefi doğru; 18 bölüm sistematik olarak
 yetmiyor.
+
+## Tur — Orta Asya: Şeybânî sonrası üçlü (25 Ağustos 2026)
+
+Eklenen: `aktor-seybaniler`, `aktor-buhara-hanligi`, `aktor-hive-hanligi`.
+Toplam 429 → 432. Orta Asya 32 → 35.
+
+**Neden bu üçlü.** Timurlular ile Rus fethi arasındaki dört yüzyıl,
+atlasta tümüyle boştu. Bu dönem, "Orta Asya deniz yolları açılınca
+kenara düştü" cümlesinin dayandığı dönemdir ve atlasta o cümleyi
+sınayacak hiçbir dosya yoktu.
+
+**Tur boyunca üç ayrı ölçüm yapıldı:**
+
+1. *Meşruiyet kuralının dördüncü ölçümü.* Han unvanı belirli bir soya
+   bağlıydı. Şeybânîler soy şartını karşıladıkları için unvanı aldı;
+   1785'te Buhara'da iktidara gelen hanedan karşılamadığı için alamadı ve
+   devlet emirliğe dönüştü. Kuralı uygulatan zor gücü beş yüzyıl önce
+   ortadan kalkmıştı. **Bir meşruiyet kuralı, onu kuran gücün çöküşünden
+   sonra yüzyıllarca bağlayıcı kalabilir ve bunu bir zor gücü olmadan
+   yapar.** Kuralın işleme biçimi de kaydedildi: yeni hanedan kuralı
+   çiğnemedi, unvanı değiştirdi — kural kimin yöneteceğini değil kimin
+   hangi adla yöneteceğini belirliyordu.
+
+2. *Yenilginin başka kıtada devlet kurması.* Şeybânîlerin Mâverâünnehir'i
+   almasıyla oradan çıkarılan hanedan mensubunun güneye çekilip
+   Hindistan'da devlet kurması arasında doğrudan bağ var. Bağlantı ancak
+   iki bölge birlikte okunduğunda görünüyor; atlasın bölge katmanları
+   ayrı ayrı okunduğunda kayboluyor.
+
+3. *Yüzölçümünün neyi ölçmediği.* Hîve haritada geniş görünür; yerleşik
+   nüfusu ve üretimi tek bir vahaya sıkışmıştı. **Bir devletin haritadaki
+   yüzölçümü, o devletin kaynaklarını değil iddia ettiği alanı ölçer.**
+   Bu, mevcut `tartisma-imparatorluk-siniri-nasil-cizilir` dosyasına
+   somut bir örnek ekliyor.
+
+**Gerileme iddiası konusunda alınan tutum.** Üç dosya da iddiayı
+sonuçlandırmıyor ama dayanağını görünür kılıyor: kara ticaretinin hacmi
+doğrudan ölçülemez, gümrük kayıtları düzensizdir, ve aynı dönem için hem
+gerileme hem büyük ölçekli imar kaydı vardır. Atlas gerileme sözcüğünü
+ölçüt belirtmeden kullanmamayı kural hâline getirdi.
+
+**Yeni borç.** `tartisma-orta-asya-neden-cekildi` yazılmadı. Üç dosya da
+soruyu açık bırakıp bir tartışma dosyasına havale ediyor ama dosya henüz
+yok. Ayrıca Hokand Hanlığı yazılmadı; TDV maddesi doğrulandı
+(`hokand-hanligi`, 200) ve üçlü ancak onunla tamamlanır.
+
+**Kapı geri bildirimi.** KAPI 4 "şehirleşme" varyantını iki dosyada
+yakaladı; doğru terim "kentleşme". Terim kilidi listesi bu turda ilk kez
+bu sözcükte tetiklendi.
+
+**Yöntem değişikliği.** Bu turdan itibaren tur başına 3 makale
+hedefleniyor. Kapı çalıştırma, derleme ve doğrulama maliyeti tur başına
+sabit; makale başına maliyet, tur başına makale sayısı arttıkça düşüyor.

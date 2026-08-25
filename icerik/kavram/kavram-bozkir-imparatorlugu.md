@@ -22,6 +22,9 @@ ilgili:
   - aktor-altin-orda
   - aktor-hazarlar
   - aktor-cagatay-hanligi
+  - aktor-buhara-hanligi
+  - aktor-hive-hanligi
+  - aktor-seybaniler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

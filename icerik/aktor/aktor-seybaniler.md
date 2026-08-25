@@ -1,0 +1,344 @@
+---
+id: aktor-seybaniler
+tip: aktor
+baslik: Şeybânîler
+ozet: >-
+  Timurlu düzenini Mâverâünnehir'den çıkaran ve bölgenin siyasi
+  merkezini üç yüzyıllık yeni bir düzene bağlayan hanedan; atlasta bir
+  yenilginin başka bir kıtada devlet kurduğunun örneği.
+donem: "09"
+tarih_baslangic: "1500"
+tarih_bitis: "1599"
+bolge: [orta-asya, islam-dunyasi]
+eksen: [siyasi, askeri, ekonomik, dini]
+guven_geneli: yaygin
+etiketler: [seybaniler, ozbek, maveraunnehir, timurlu, mesruiyet, orta-asya]
+ilgili:
+  - donem-09
+  - aktor-timur-imparatorlugu
+  - aktor-babur-imparatorlugu
+  - aktor-cagatay-hanligi
+  - aktor-altin-orda
+  - aktor-safevi-devleti
+  - aktor-buhara-hanligi
+  - kavram-mesruiyet
+  - kavram-bozkir-imparatorlugu
+  - kaynak-baburname
+  - aktor-hive-hanligi
+okuma_onerisi: []
+kaynaklar:
+  - anahtar: k1
+    tur: ansiklopedi
+    ad: "TDV Islam Ansiklopedisi - SEYBANILER"
+    url: https://islamansiklopedisi.org.tr/seybaniler
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "ŞEYBÂNÎLER"
+    not: "Bolgenin birincil tercih kaynagi"
+  - anahtar: k2
+    tur: ansiklopedi
+    ad: "TDV Islam Ansiklopedisi - MAVERAUNNEHIR"
+    url: https://islamansiklopedisi.org.tr/maveraunnehir
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "MÂVERÂÜNNEHİR"
+    not: "Hanedanin hakim oldugu bolgenin cografi ve iktisadi cercevesi"
+  - anahtar: k3
+    tur: ansiklopedi
+    ad: "TDV Islam Ansiklopedisi - TIMURLULAR"
+    url: https://islamansiklopedisi.org.tr/timurlular
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "TİMURLULAR"
+    not: "Yerini alinan duzenin ayri maddesi"
+  - anahtar: k4
+    tur: ansiklopedi
+    ad: "Wikipedia (EN) - Shaybanids"
+    url: https://en.wikipedia.org/wiki/Shaybanids
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "Shaybanid"
+    not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane"
+son_denetim: 2026-08-25
+denetim_durumu: onaylandi
+onarim_turu: 0
+---
+
+## Ne olduğu
+
+Şeybânîler, on altıncı yüzyıl başında Mâverâünnehir'e girip bölgedeki
+yerleşik hanedanı iktidardan çıkaran bozkır kökenli bir hanedandır.[^k1]
+Geldikleri yön kuzey bozkırlarıdır.
+
+Hanedanın soyu, bölgeye iki yüzyıl önce hâkim olmuş imparatorluğun
+kurucusuna dayandırılır.[^k1] Bu, iktidar iddiasının hukuki temelidir.
+
+Yerini aldıkları düzen ise başka bir soydan geliyordu.[^k3] İki soy
+arasındaki fark, yalnızca hanedan meselesi değildir.
+
+## İki meşruiyet çizgisi
+
+Bölgede on beşinci yüzyıl boyunca hâkim olan hanedan, kurucusunun kendi
+adına dayanan bir meşruiyet kurmuştu.[^k3] Kurucu, bozkır geleneğinin han
+unvanını almamış, ayrı bir unvan kullanmıştı.
+
+Şeybânîler ise doğrudan han unvanını taşıdı.[^k1] Soy şartını
+karşıladıkları için buna hakları vardı.
+
+Bu, atlasın Çağatay dosyasında kaydedilen kuralın aynı bölgede ikinci
+kez ölçülmesidir.[^k4] Soy şartı, onu kuran imparatorluk yıkıldıktan
+iki yüzyıl sonra da geçerliydi.
+
+## Yenilginin başka yerde devlet kurması
+
+Bölgeden çıkarılan hanedanın bir mensubu, güneye çekildi ve sonunda
+Hindistan'da yeni bir devlet kurdu.[^k3] Bu devlet üç yüzyıl sürdü.
+
+Bağlantı doğrudandır.[^k1] Mâverâünnehir'deki yenilgi olmasaydı, güneye
+yönelme de olmayacaktı.
+
+Atlas bu tür bağlantıları ayrıca işaretler.[^k4] Bir bölgedeki iktidar
+değişimi, başka bir kıtada devlet kuruluşunun nedeni olabilir ve
+bağlantı ancak iki bölge birlikte okunduğunda görünür.
+
+## Bağlantının kaynağı
+
+Bağlantının en ayrıntılı kaydı, güneye çekilen kişinin kendi
+anılarındadır.[^k3] Metin, atlasın kaynak katmanında ayrıca
+künyelenmiştir.
+
+Kaydın tek taraflı olduğu belirtilmelidir.[^k1] Yenilen tarafın kendi
+anlatısıdır ve karşı tarafın kaydı aynı ayrıntıda değildir.
+
+Atlas iki tarafın kayıt yoğunluğunu ayrı ayrı ölçer.[^k2] Ayrıntı
+farkı, olayın önemini değil kimin yazdığını gösterir.
+
+## Batıdaki rakip
+
+Aynı yıllarda batıda yeni bir devlet kuruldu ve bu devlet farklı bir
+mezhebi resmî kabul etti.[^k1] İki düzen arasındaki çatışma yüzyıl boyu
+sürdü.
+
+Çatışma yalnızca askerî değildi.[^k2] Ticaret yollarının hangi hattan
+geçeceği, hac yollarının güvenliği ve nüfus hareketleri de bu ayrımdan
+etkilendi.
+
+Bölünmenin ekonomik sonucu doğrudandır.[^k2] Mâverâünnehir ile batıdaki
+pazarlar arasındaki bağ zayıfladı ve bu, bölgenin dış ticaretinin
+yönünü değiştirdi.
+
+## Kuzeye ve doğuya yönelme
+
+Batı hattı zorlaşınca ticaret kuzeye ve doğuya yöneldi.[^k2] Kuzeydeki
+büyüyen devletle ve doğudaki hanedanla ilişkiler ağırlık kazandı.
+
+Bu yönelme bir tercih değil bir zorunluluktu.[^k1] Alternatif hatlar
+kapandığında kalan hatlar kullanılır.
+
+Atlas bu tür kaymaları ayrıca kaydeder.[^k2] Bir ticaret hattının
+değişmesi, çoğu zaman ticaretin azalması değil yön değiştirmesidir ve
+ikisi karıştırılır.
+
+## Yerleşik düzenle ilişki
+
+Hanedan bozkırdan geldi ama yerleşik bölgeleri yönetti.[^k1] Bu, bölgenin
+tarihinde tekrar eden bir durumdur.
+
+Yönetim, önceki düzenin kurumlarını büyük ölçüde devraldı.[^k3] Vergi
+düzeni, kadılık ve vakıf yapısı sürdürüldü.
+
+Süreklilik, hanedan değişiminin toplumsal etkisini sınırlar.[^k2] Atlas
+hanedan değişimi ile düzen değişimini ayrı ayrı ölçer; ikisi her zaman
+birlikte gerçekleşmez.
+
+## Şehirlerin durumu
+
+Bölgenin büyük şehirleri hanedan döneminde de merkez olarak
+kaldı.[^k2] İmar faaliyeti sürdü ve yeni yapılar eklendi.
+
+Bu, bölgenin bu dönemde çöktüğü yolundaki yaygın anlatıyı
+zorlaştırır.[^k1] Çöken bir bölgede büyük ölçekli imar beklenmez.
+
+Atlas çelişkiyi çözmez, kaydeder.[^k4] Aynı dönem için hem gerileme hem
+imar kaydı bulunması, ölçütün ne olduğu sorusunu gündeme getirir.
+
+## Toprak ve askerî düzen
+
+Askerî güç, bozkır kökenli boy örgütlenmesine dayanıyordu.[^k1] Boylara
+toprak ve gelir tahsis edilmesi, merkezin yetkisini sınırlıyordu.
+
+Bu yapı, hanedanın parçalanmasını kolaylaştırdı.[^k2] Tahsis edilen
+gelirler zamanla kalıcı hâle geldi ve merkeze bağlılık zayıfladı.
+
+Yapı, atlasın bozkır dosyasında tanımlanan örüntünün bir
+örneğidir.[^k4] Bozkır düzenleri fetih için etkili, merkezî yönetim
+için kırılgan bir örgütlenme kullanır.
+
+## Parçalanma
+
+Yüzyıl sonunda hanedanın merkezî otoritesi zayıfladı.[^k1] İktidar,
+akraba hanedanlar ve yerel güçler arasında dağıldı.
+
+Bölge bundan sonra tek merkezden yönetilmedi.[^k2] Üç ayrı hanlık
+biçimindeki düzen bu dağılmadan doğdu.
+
+Atlas bu geçişi bir çöküş olarak değil bir yeniden yapılanma olarak
+kaydeder.[^k4] Siyasi birimin küçülmesi, bölgenin küçülmesi anlamına
+gelmez.
+
+## Din ve hukuk
+
+Hanedan, bölgenin yerleşik mezhebini benimsedi ve hukuk düzenini
+sürdürdü.[^k1] Bu, batıdaki rakiple aradaki farkı belirginleştirdi.
+
+Medreseler ve vakıflar dönem boyunca desteklendi.[^k2] Bu kurumlar,
+hanedan değişimlerinden görece bağımsız olarak sürdü.
+
+Kurumsal süreklilik, siyasi süreksizlikle birlikte
+okunmalıdır.[^k3] Atlas ikisini ayrı ayrı kaydeder çünkü aynı dönemde
+farklı yönlerde işlerler.
+
+## Bozkırdan gelişin koşulu
+
+Hanedanın güneye inmesi, kuzey bozkırlarındaki siyasi dağılmayla aynı
+döneme denk gelir.[^k1] Kuzeydeki büyük düzenin çözülmesi, boyların
+yeni bir merkez arayışını hızlandırdı.
+
+Bu, bozkır tarihinde tekrar eden bir harekettir.[^k4] Kuzeyde bir düzen
+dağıldığında, boy birlikleri güneydeki yerleşik bölgelere yönelir.
+
+Hareketin yönü coğrafi olarak belirlenmiştir.[^k2] Otlak ile sulama
+tarımı arasındaki geçiş hattı, bu yönelmelerin tekrar tekrar izlediği
+güzergâhtır.
+
+## Adlandırma sorunu
+
+Hanedanın dayandığı boy birliğinin adı, sonraki yüzyıllarda bölgenin
+büyük bir nüfus grubunun adı hâline geldi.[^k1] İki kullanım aynı şeyi
+göstermez.
+
+On altıncı yüzyıldaki ad, siyasi bir birliği karşılar.[^k4] Sonraki
+kullanım, yerleşik hâle gelmiş bir nüfusu karşılar.
+
+Atlas iki kullanımı ayırır.[^k2] Bir adın zaman içinde kapsam
+değiştirmesi olağandır ve iki dönemi aynı adla birleştirmek anakronizm
+üretir.
+
+## Kuzeydeki devletle ilişki
+
+Aynı yüzyılda kuzeyde büyüyen devlet, bozkır hanlıklarını birer birer
+ortadan kaldırdı.[^k4] Bu, güneydeki düzenin kuzey sınırını doğrudan
+etkiledi.
+
+İlişki başlangıçta ticariydi.[^k2] Kürk, kumaş ve maden karşılığında
+güneyden dokuma ve işlenmiş mal gidiyordu.
+
+Askerî baskı sonraki yüzyıllarda arttı.[^k1] Bu dosya o dönemi
+kapsamaz; kuzey ilişkisi burada yalnızca başlangıç hâliyle
+kaydedilir.
+
+## Deniz yollarının açılması sorusu
+
+Hanedanın kuruluşu, Avrupa gemilerinin Hint Okyanusu'na girmesiyle
+neredeyse aynı yıllardadır.[^k2] İki olayın ilişkilendirilmesi
+yaygındır.
+
+İlişkilendirme çoğu zaman tek yönlü kurulur.[^k4] Deniz yollarının
+açılması, kara ticaretinin çöküşünün nedeni sayılır.
+
+Atlas bu çıkarımı otomatik saymaz.[^k1] İki olayın aynı yıllarda olması,
+birinin ötekinin nedeni olduğunu göstermez ve iddia ayrı bir tartışma
+dosyasında ele alınır.
+
+## Kara ticaretinin ölçülmesi sorunu
+
+Kara ticaretinin hacmi doğrudan ölçülemez.[^k2] Gümrük kayıtları
+düzensizdir ve dönem boyunca aynı ölçütle tutulmamıştır.
+
+Bu, gerileme iddiasının dayandığı verinin niteliğini
+belirler.[^k1] Ölçülemeyen bir hacmin azaldığı iddiası, dolaylı
+göstergelere dayanmak zorundadır.
+
+Atlas dolaylı göstergeleri reddetmez ama dolaylı olduklarını
+yazar.[^k4] Şehirlerin durumu, imar faaliyeti ve sikke bulguları böyle
+göstergelerdir.
+
+## Kaynakların dili ve kapsamı
+
+Dönemin tarih metinleri Farsça ve Çağatayca yazılmıştır.[^k3] İki dil,
+iki farklı okur kitlesine ve iki farklı geleneğe işaret eder.
+
+Metinlerin çoğu saray himayesinde üretilmiştir.[^k1] Bu, hangi
+olayların ayrıntılı yazıldığını doğrudan belirler.
+
+Atlas bu kısıtı bütün hanedan dosyalarında aynı biçimde
+uygular.[^k2] Saray kaynağı, saray dışındaki hayat hakkında ancak
+dolaylı bilgi verir.
+
+## Nüfus ve kentleşme
+
+Dönemin nüfusu için güvenilir sayım yoktur.[^k2] Bilinenler, vergi
+kayıtlarından ve şehir büyüklüğü tahminlerinden çıkarılır.
+
+Bu tür tahminler geniş aralıklar verir.[^k4] Atlas sayı vermek yerine
+yöntemin ne olduğunu yazar.
+
+Sayısız bir dönem hakkında sayısal iddia kurmak, atlasın
+kaçındığı hatalardandır.[^k1] Tahmin edilebilir olan ile ölçülmüş olan
+ayrı ayrı işaretlenir.
+
+## Kaynak durumu
+
+Bu dosyanın dört künyesinin üçü ansiklopedi maddesidir.[^k1] Birincil
+kaynak künyelenememiştir.
+
+Dönemin Farsça ve Çağatayca tarih metinleri mevcuttur.[^k3]
+Doğrulanabilir çevrimiçi baskıları bu dosya yazıldığında
+bulunamamıştır.
+
+Eksik borç defterine yazılmıştır.[^k2] Dosya, birincil kaynağı olmayan
+makaleler grubundadır ve bu künyesinden görülebilir.
+
+## Kapsam dışı
+
+Hanların tek tek listesi ve saltanat süreleri verilmez.[^k1] Kaynaklar
+bu konuda örtüşmez.
+
+Askerî seferlerin ayrıntısı kapsam dışıdır.[^k2] Dosya yalnızca iktidar
+değişiminin ve meşruiyet kuralının kaydını tutar. Seferlerin güzergâhı, süresi
+ve tarafların kayıpları ayrı bir çalışma gerektirir ve bu dosyanın
+sorusuyla doğrudan ilgili değildir.
+
+Hanedanın edebî ve sanatsal himayesi ayrı bir çalışma
+gerektirir.[^k3] Bu dosya yazıldığında atlasta bulunmuyordu ve dönemin
+el yazması üretimi hiç işlenmemişti.
+
+## Bu dosyanın sınırı
+
+Dosya hanedan değişiminin bölgeyi gerilettiğini ileri sürmez.[^k4]
+Gerileme iddiası ayrı bir tartışma gerektirir ve o tartışma ayrı bir
+dosyadadır.
+
+Batıdaki rakiple çatışmanın tek neden olduğu da
+söylenmez.[^k2] Ticaret yönündeki değişim birden çok etkenin
+sonucudur.
+
+Bağlantıların tamamı burada kurulmaz.[^k1] Bölgenin güney ve kuzey
+komşularıyla ilişkileri ayrı dosyalar gerektirir ve bu dosya
+yazıldığında bu ilişkilerin bir bölümü atlasta hiç işlenmemişti; eksik,
+dosyanın kapsamını daraltan bir kısıt olarak burada beyan edilir.
+
+## Okuma yönlendirmesi
+
+Yerini alınan düzen için
+[Timur İmparatorluğu](/aktor/timur-imparatorlugu/), yenilginin sonucunda
+kurulan devlet için
+[Bâbür İmparatorluğu](/aktor/babur-imparatorlugu/) dosyaları
+okunmalıdır; ikinci bağlantı bu dosyanın asıl bulgusudur.[^k3]
+
+Bağlantının en ayrıntılı kaydı için
+[Bâbürnâme](/kaynak/baburname/) dosyası uygundur.[^k1]
+
+Soy şartının nasıl işlediği için
+[Çağatay Hanlığı](/aktor/cagatay-hanligi/) ve
+[Meşruiyet](/kavram/mesruiyet/), batıdaki rakip için
+[Safevî Devleti](/aktor/safevi-devleti/) dosyaları okunabilir.[^k2]
+
+Hanedanın dağılmasından doğan düzen için
+[Buhara Hanlığı](/aktor/buhara-hanligi/) dosyası okunmalıdır.[^k4]

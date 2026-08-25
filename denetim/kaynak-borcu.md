@@ -11,10 +11,10 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 429 |
-| Toplam künye | 1413 |
+| Ölçülen makale | 432 |
+| Toplam künye | 1425 |
 | Giriş kapısı kuralını aşan makale | 227 |
-| Birincil kaynağı olmayan makale | 240 |
+| Birincil kaynağı olmayan makale | 243 |
 | Giriş kapısı künyesi payı | 45% |
 
 ## Tipe göre borçlu makale
@@ -22,7 +22,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Tip | Borçlu |
 |---|---|
 | olay | 77 |
-| aktor | 66 |
+| aktor | 69 |
 | kavram | 61 |
 | tartisma | 34 |
 | kaynak | 27 |
@@ -264,15 +264,18 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `aktor-altin-orda` | 4 | 1 | 0 | birincil kaynak yok |
 | `aktor-avusturya-macaristan` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-babur-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
+| `aktor-buhara-hanligi` | 4 | 1 | 0 | birincil kaynak yok |
 | `aktor-cagatay-hanligi` | 4 | 1 | 0 | birincil kaynak yok |
 | `aktor-emevi-hilafeti` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-etiyopya-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-gana-imparatorlugu` | 4 | 1 | 0 | birincil kaynak yok |
+| `aktor-hive-hanligi` | 4 | 1 | 0 | birincil kaynak yok |
 | `aktor-karolenj-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-mali-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-ming-hanedani` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-mogol-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-osmanli-imparatorlugu` | 4 | 1 | 0 | birincil kaynak yok |
+| `aktor-seybaniler` | 4 | 1 | 0 | birincil kaynak yok |
 | `aktor-sogdlular` | 4 | 1 | 0 | birincil kaynak yok |
 | `aktor-sokoto-hilafeti` | 4 | 1 | 0 | birincil kaynak yok |
 | `aktor-sovyetler-birligi` | 3 | 1 | 0 | birincil kaynak yok |
