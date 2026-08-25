@@ -22,6 +22,8 @@ ilgili:
   - kavram-bagimlilik-kurami
   - kavram-kaynak-elestirisi
   - aktor-banaba
+  - olay-bengal-kitligi-1943
+  - dusunur-gandhi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

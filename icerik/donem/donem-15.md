@@ -31,6 +31,9 @@ ilgili:
   - olay-pasifik-nukleer-denemeleri
   - aktor-banaba
   - aktor-yeni-hebridler-ortak-yonetimi
+  - olay-bengal-kitligi-1943
+  - dusunur-ambedkar
+  - dusunur-gandhi
 okuma_onerisi: []
 serit:
   - bolge: kuresel

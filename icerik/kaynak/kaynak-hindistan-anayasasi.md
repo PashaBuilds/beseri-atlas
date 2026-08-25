@@ -20,6 +20,7 @@ ilgili:
   - olay-hindistan-bolunmesi
   - kavram-somurgesizlesme
   - kavram-birincil-kaynak
+  - dusunur-ambedkar
 okuma_onerisi: []
 yazar: "Hindistan Kurucu Meclisi"
 eser_adi: "Constitution of India"

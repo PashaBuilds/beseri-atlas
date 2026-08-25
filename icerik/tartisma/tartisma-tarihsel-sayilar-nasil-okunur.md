@@ -64,6 +64,7 @@ ilgili:
   - kaynak-timbuktu-tarihleri
   - kavram-svahili-kiyisi
   - kaynak-ain-i-akbari
+  - olay-bengal-kitligi-1943
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

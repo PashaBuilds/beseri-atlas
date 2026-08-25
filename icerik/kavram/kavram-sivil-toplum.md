@@ -13,6 +13,7 @@ ilgili:
   - kavram-kamusal-alan
   - dusunur-tocqueville
   - dusunur-hegel
+  - dusunur-gandhi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

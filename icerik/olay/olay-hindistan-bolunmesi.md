@@ -20,6 +20,9 @@ ilgili:
   - olay-bandung-konferansi
   - kavram-somurgesizlesme
   - kaynak-hindistan-anayasasi
+  - olay-bengal-kitligi-1943
+  - dusunur-ambedkar
+  - dusunur-gandhi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

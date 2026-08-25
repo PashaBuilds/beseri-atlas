@@ -61,6 +61,8 @@ ilgili:
   - kaynak-kojiki
   - aktor-banaba
   - aktor-yeni-hebridler-ortak-yonetimi
+  - dusunur-ambedkar
+  - dusunur-gandhi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -26,6 +26,8 @@ ilgili:
   - dusunur-katib-celebi
   - kaynak-fetha-nagast
   - kaynak-kurukan-fuga-sarti
+  - olay-bengal-kitligi-1943
+  - dusunur-ambedkar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -3217,3 +3217,40 @@ Reddedilen alan: `britannica.com` havuzda beyaz listede ama otomatik
 isteklere 403 dönüyor; canlılık kapısını geçemeyeceği için künyeye
 alınmadı. Aynı durum daha önce nzhistory.govt.nz ve teara.govt.nz
 için de kaydedilmişti.
+
+## 2026-08-26 — Güney Asya turu
+
+Atlasta ne Gandhi ne Ambedkar dosyası vardı; adları hiçbir dosyada
+geçmiyordu. Bir dünya atlası için bu büyük bir boşluktu.
+
+- `dusunur-ambedkar` — dışlandığı düzenin kurucu metnini yazan
+  hukukçu. Ölçüm: bir toplumsal düzenin adil olup olmadığı, ondan en
+  çok yararlananlara sorularak belirlenemez. Atlas bu ölçütü kendine de
+  uyguluyor: bir kaydın eksikliği, kaydı tutanlara değil kayda
+  geçmeyenlere bakılarak görülür.
+- `dusunur-gandhi` — ölçüm: bir yönetimin gücü, kullandığı zorla değil
+  zor kullanmadan sağladığı iş birliğinin miktarıyla ölçülür. Yöntemin
+  sınırı da açıkça yazıldı: karşı tarafın kendi kamuoyuna gerekçe
+  vermek zorunda olduğu yerlerde işler.
+- `olay-bengal-kitligi-1943` — ölçüm: kıtlıkta ölenler gıdanın
+  bulunmadığı kişiler değil, bulunan gıdayı satın alamayan kişilerdir.
+  Raporun kendi meslek gruplarına göre ölüm dağılımı bunu doğrudan
+  gösteriyor.
+
+İki dosya birbirinin karşı tarafını kaydediyor: temsil biçimi
+anlaşmazlığı (ayrı seçmen listesi mi ayrılmış koltuk mu) her iki
+dosyada da, kendi ağırlığıyla ele alındı. Aynı olayın iki dosyada
+farklı ağırlık taşıması ayrıca beyan edildi.
+
+Yeni birincil belgeler: Famine Inquiry Commission'ın 1945 tarihli iki
+raporu (Government Printing New Delhi ve Madras Government Press).
+Dosyada raporlar hem kaynak hem inceleme nesnesi: bir yönetimin kendi
+felaketini soruşturması kanıt üretir ama tarafsız kanıt üretmez.
+
+Reddedilen: archive.org'daki bütün "Annihilation of Caste" yüklemeleri
+— hiçbirinde yayıncı, baskı yılı veya doğrulanabilir yükleyici bilgisi
+yok. Ambedkar'ın metinleri künyeye giremedi; kısıt dosyada beyan
+edildi.
+
+Açık borç: `kavram-kast` künyesinde iki Wikipedia var (Caste system in
+India + Delhi Sultanate). Bir sonraki turda düzeltilmeli.

@@ -25,6 +25,9 @@ ilgili:
   - olay-waitangi-antlasmasi-1840
   - tartisma-waitangi-hangi-metin
   - aktor-zulu-kralligi
+  - olay-bengal-kitligi-1943
+  - dusunur-ambedkar
+  - dusunur-gandhi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -35,6 +35,7 @@ ilgili:
   - olay-rus-turkistan-fethi
   - kavram-pamuk-tek-urun
   - aktor-banaba
+  - olay-bengal-kitligi-1943
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -14,6 +14,8 @@ ilgili:
   - aktor-delhi-sultanligi
   - kavram-anakronizm
   - kaynak-hindistan-anayasasi
+  - dusunur-ambedkar
+  - dusunur-gandhi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

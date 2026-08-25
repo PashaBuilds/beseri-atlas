@@ -42,6 +42,7 @@ ilgili:
   - kavram-pasifik-isci-toplama
   - dusunur-ulug-bey
   - kavram-pamuk-tek-urun
+  - olay-bengal-kitligi-1943
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
