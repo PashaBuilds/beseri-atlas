@@ -19,6 +19,7 @@ ilgili:
   - kaynak-timbuktu-tarihleri
   - aktor-sokoto-hilafeti
   - aktor-benin-kralligi
+  - aktor-murabitlar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

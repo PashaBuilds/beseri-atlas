@@ -1908,3 +1908,52 @@ gelmiyor.
 
 **Uygulanan kural.** *Gerileme sözcüğü, ölçüt belirtilmeden
 kullanılmaz.* Bu turda ve geçen turda yazılan beş dosyada uygulandı.
+
+## Tur — Afrika ve bir kavram dosyası (25 Ağustos 2026)
+
+Eklenen: `kavram-himaye-duzeni`, `aktor-murabitlar`,
+`aktor-kongo-kralligi`. Toplam 434 → 437. Afrika 91 → 94.
+
+**Himaye düzeni — neden ayrı dosya.** Beş ayrı dosyada (Tonga, Buhara,
+Hîve, Hokand, Hawai) aynı düzenle karşılaşıldı ve her defasında yeniden
+tarif edilmesi gerekiyordu. Dosya düzeni tarif ediyor ve iki gözlem
+ekliyor: (1) himaye korunan devletin varlığını garanti etmez — atlasta
+iki örnek himaye altındayken sona erdi, bir örnek yetkiyi geri alarak
+bağımsızlaştı; (2) iki sonucu ayıran etkenlerden biri yerleşimci
+nüfustur ve yerleşim toprağın satın alınabilmesine bağlıdır. Yani hukuki
+bir hüküm, demografik bir sonucu ve onun üzerinden siyasi bir sonucu
+belirleyebiliyor.
+
+**Murâbıtlar — çölün bağlayan yüzey olması.** Haritada çöl bir ayırıcı
+gibi görünür; bu hanedan çölün iki kıyısını ve ardından bir denizin iki
+yakasını aynı yönetim altında topladı. Kayda geçen kural: **bir yüzeyin
+ayırıcı mı bağlayıcı mı olduğu, coğrafyasından değil o yüzeyde işleyen
+ulaşım düzeninden okunur.**
+
+İkinci kayıt: meşruiyet biçiminin sonucu. Bu hanedan yetkisini soya
+değil dinî ıslah iddiasına dayandırdı. Soy iddiası sınanamaz, öğreti
+iddiası sınanabilir — ve hanedanın sonu tam bu yoldan geldi: aynı
+bölgeden çıkan ikinci bir hareket, birincisini yeterince tutarlı
+olmamakla suçlayarak yerini aldı. *Öğretiye dayanan bir meşruiyet,
+kendisini yıkacak aracı da beraberinde getirir.* Bu, Orta Asya
+turlarında ölçülen soy şartıyla doğrudan karşıtlık kuruyor.
+
+**Kongo Krallığı — kanıt kısıtının kısmen aşıldığı yer.** Krallığın
+hükümdarlarının yazdırdığı mektuplar, Afrika'dan yazılmış diplomatik
+kaydın en erken örneklerinden. Dosya bunu üç adımda işliyor: kayıt var
+ve erken; kayıt aracılıdır (yerel dilde değil, gelen din adamlarının
+kaleminden); ve kaydın az bilinmesi ile var olmaması ayrı iki olgu.
+
+Dosyanın kaydettiği kural: **bir düzenin kendi kaydını bırakması, o
+düzenin başına gelenleri değiştirmez; yalnızca ne olduğunu bilinebilir
+kılar.** Kaynak zenginliği ile siyasi sonuç arasında ilişki yok.
+
+**En rahatsız edici kısıt.** Kongo dosyasının asıl konusu olan mektuplar
+künyelenemedi — yayımlanmışlar ama açık erişimde değiller. Dosya onlar
+hakkında konuşuyor ve onlara atıf yapamıyor. Bu, dosyanın kendi metnine
+bu ifadeyle yazıldı.
+
+**Reddedilen kaynak.** archive.org'da "kingdom of kongo" aramasında iki
+üst sonuç yapay zekâ üretimi yüklemeydi (yaratıcı alanında
+"Claude/Anthropic" ibaresi). Künyelenmedi. Bu, arama sonuçlarının
+katalog verisiyle doğrulanması gerektiğinin yeni bir örneği.

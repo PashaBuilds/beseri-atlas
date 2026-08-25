@@ -22,6 +22,7 @@ ilgili:
   - aktor-hawai-kralligi
   - tartisma-waitangi-hangi-metin
   - aktor-tonga-kralligi
+  - kavram-himaye-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

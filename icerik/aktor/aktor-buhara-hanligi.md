@@ -25,6 +25,7 @@ ilgili:
   - olay-ipek-yolu-kurulusu
   - aktor-hokand-hanligi
   - tartisma-orta-asya-neden-cekildi
+  - kavram-himaye-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

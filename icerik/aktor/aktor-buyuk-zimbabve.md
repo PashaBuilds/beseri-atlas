@@ -17,6 +17,7 @@ ilgili:
   - aktor-mali-imparatorlugu
   - aktor-kilva
   - kavram-svahili-kiyisi
+  - aktor-kongo-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -15,6 +15,7 @@ ilgili:
   - kavram-umran
   - kavram-asabiyet
   - kaynak-camiut-tevarih
+  - aktor-murabitlar
 okuma_onerisi: []
 yazar: "İbn Haldûn"
 eser_adi: "Kitâbü'l-ʿİber (Mukaddime)"

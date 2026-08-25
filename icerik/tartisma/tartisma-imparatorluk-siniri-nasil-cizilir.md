@@ -41,6 +41,7 @@ ilgili:
   - kaynak-orhon-yazitlari
   - aktor-sogdlular
   - aktor-hive-hanligi
+  - kavram-himaye-duzeni
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

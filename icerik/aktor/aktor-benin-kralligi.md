@@ -22,6 +22,7 @@ ilgili:
   - olay-berlin-konferansi
   - olay-atlantik-kole-ticareti
   - kavram-kanit-turu
+  - aktor-kongo-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

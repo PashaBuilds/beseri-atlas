@@ -30,6 +30,7 @@ ilgili:
   - aktor-hazarlar
   - dusunur-sankara
   - tartisma-orta-asya-neden-cekildi
+  - aktor-kongo-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

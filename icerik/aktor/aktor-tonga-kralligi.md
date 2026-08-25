@@ -23,6 +23,7 @@ ilgili:
   - kavram-egemenlik
   - kavram-birincil-kaynak
   - kavram-somurgesizlesme
+  - kavram-himaye-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -14,6 +14,7 @@ ilgili:
   - kavram-asabiyet
   - kavram-longue-duree
   - kaynak-ibn-haldun-mukaddime
+  - aktor-murabitlar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

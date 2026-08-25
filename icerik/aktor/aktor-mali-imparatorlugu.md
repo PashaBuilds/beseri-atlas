@@ -22,6 +22,7 @@ ilgili:
   - dusunur-ibn-battuta
   - aktor-kanem-bornu
   - kaynak-timbuktu-tarihleri
+  - aktor-murabitlar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

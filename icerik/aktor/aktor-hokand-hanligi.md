@@ -24,6 +24,7 @@ ilgili:
   - kavram-bozkir-imparatorlugu
   - kavram-somurgesizlesme
   - tartisma-orta-asya-neden-cekildi
+  - kavram-himaye-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

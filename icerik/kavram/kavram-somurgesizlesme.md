@@ -24,6 +24,8 @@ ilgili:
   - tartisma-waitangi-hangi-metin
   - aktor-tonga-kralligi
   - aktor-hokand-hanligi
+  - aktor-kongo-kralligi
+  - kavram-himaye-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

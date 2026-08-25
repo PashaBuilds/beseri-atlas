@@ -30,6 +30,7 @@ ilgili:
   - donem-07
   - aktor-maldiv-sultanligi
   - tartisma-sozlu-gelenek-kaynak-mi
+  - aktor-murabitlar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

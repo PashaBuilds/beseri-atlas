@@ -20,6 +20,8 @@ ilgili:
   - olay-malaka-fethi-1511
   - olay-plassey-1757
   - veri-ticaret-payi
+  - aktor-kongo-kralligi
+  - aktor-murabitlar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

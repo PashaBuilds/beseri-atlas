@@ -22,6 +22,7 @@ ilgili:
   - kavram-kolelik
   - tartisma-antik-kolelik-ekonomisi
   - aktor-benin-kralligi
+  - aktor-kongo-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

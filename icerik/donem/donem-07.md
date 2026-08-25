@@ -46,6 +46,7 @@ ilgili:
   - aktor-altin-orda
   - aktor-ilhanlilar
   - aktor-cagatay-hanligi
+  - aktor-murabitlar
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

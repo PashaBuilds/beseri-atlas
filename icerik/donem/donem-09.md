@@ -37,6 +37,7 @@ ilgili:
   - aktor-buhara-hanligi
   - aktor-hive-hanligi
   - aktor-seybaniler
+  - aktor-kongo-kralligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

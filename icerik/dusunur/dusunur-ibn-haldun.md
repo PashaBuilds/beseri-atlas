@@ -17,6 +17,7 @@ ilgili:
   - kavram-umran
   - kaynak-ibn-haldun-mukaddime
   - dusunur-ibn-battuta
+  - aktor-murabitlar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

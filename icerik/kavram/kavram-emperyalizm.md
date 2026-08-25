@@ -18,6 +18,8 @@ ilgili:
   - tartisma-somurgeciligin-ekonomik-bilancosu
   - dusunur-fanon
   - dusunur-du-bois
+  - aktor-kongo-kralligi
+  - kavram-himaye-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
