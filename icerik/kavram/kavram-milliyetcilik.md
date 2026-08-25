@@ -19,6 +19,7 @@ ilgili:
   - tartisma-soykirim-kavrami
   - dusunur-fanon
   - kavram-vesayet-yonetimi
+  - kaynak-kanunuesasi-1876
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

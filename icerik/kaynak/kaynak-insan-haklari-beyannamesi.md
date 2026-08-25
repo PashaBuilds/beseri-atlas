@@ -20,6 +20,7 @@ ilgili:
   - kavram-somurgesizlesme
   - kavram-egemenlik
   - kavram-birincil-kaynak
+  - kaynak-gulhane-hatti
 okuma_onerisi: []
 yazar: "Birlesmis Milletler Genel Kurulu"
 eser_adi: "Universal Declaration of Human Rights"

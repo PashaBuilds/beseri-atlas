@@ -35,6 +35,7 @@ ilgili:
   - aktor-hawai-kralligi
   - aktor-tonga-kralligi
   - aktor-marathalar
+  - kaynak-gulhane-hatti
 okuma_onerisi: []
 serit:
   - bolge: avrupa

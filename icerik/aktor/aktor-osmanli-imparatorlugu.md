@@ -28,6 +28,8 @@ ilgili:
   - kavram-timar
   - tartisma-osmanli-gerileme-tezi
   - aktor-ace-sultanligi
+  - kaynak-gulhane-hatti
+  - kaynak-kanunuesasi-1876
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -50,6 +50,8 @@ ilgili:
   - aktor-fiji-kralligi
   - aktor-rapa-nui
   - aktor-samoa-kralligi
+  - kaynak-gulhane-hatti
+  - kaynak-kanunuesasi-1876
 okuma_onerisi: []
 serit:
   - bolge: afrika

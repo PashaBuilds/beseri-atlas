@@ -2454,3 +2454,59 @@ genel bir ilkeye dönüştürülmüştü; burada genel bir ilke sonradan
 bağlayıcı sözleşmelere dönüştürüldü. İki yön de aynı mekanizmayı
 kullanıyor: bir metnin sonraki hukuki değeri, metnin kendisinden değil
 sonraki kullanımından geliyor.
+
+## Tur — Osmanlı belgeleri: Gülhane ve Kânûn-ı Esâsî (25 Ağustos 2026)
+
+Eklenen: `kaynak-gulhane-hatti`, `kaynak-kanunuesasi-1876`.
+Toplam 453 → 455. Belge türü 4 → 6 dosya.
+
+**Neden bu ikisi.** Son iki tur belge katmanına ayrılmıştı ve dört
+dosyanın dördü de Avrupa ya da küresel kaynaklıydı. İslam dünyası
+katmanında tek bir hukuk belgesi yoktu. Wikisource'ta hem 1876
+anayasasının metni hem 1839 fermanının dönem Fransızcası bulundu; TDV'de
+üç ilgili madde de doğrulandı.
+
+**Gülhane — kendini sınırlamanın ikinci biçimi.** Metnin ayırt edici
+yanı, hükümdarın kendi koyduğu kurala kendisinin de bağlı olduğunu
+bildirmesi ve bağın dışarıdan bir zorlamayla değil kendi iradesiyle
+kurulması. Bu, Magna Carta'nın tam tersi: orada sınırlama bir yenilginin
+ardından ve zorlamayla gerçekleşmişti.
+
+Kayda geçen kural: **hükümdarın kendini sınırlaması iki yoldan olabilir
+— bir güç dengesi onu zorlayarak ya da kendi hesabı onu buna
+yönlendirerek.** İkisinin de kendine özgü kırılganlığı var: zorlamayla
+kurulan sınır zorlayan taraf zayıflayınca, kendi iradesiyle kurulan sınır
+aynı iradeyle kalkabiliyor.
+
+**Hak kapsamı dizisi dörde çıktı.** Sıralama artık şöyle: Hammurabi
+(MÖ 1754) eşitsizliği açıkça yazıyor; Magna Carta (1215) kapsamı
+daraltarak uyguluyor; Gülhane (1839) kapsamı açıkça genişletiyor;
+Beyanname (1948) aynı genişletmeyi bir yüzyıl sonra ve küresel ölçekte
+yapıyor. Kânûn-ı Esâsî beşinci ölçüm noktası.
+
+**Kânûn-ı Esâsî — kendini geçersiz kılan madde.** Meclis, anayasanın
+ihlal edilmesiyle değil anayasanın kendi maddesi kullanılarak kapatıldı.
+Kayda geçen kural: **bir belge, kendini geçersiz kılacak yetkiyi kendi
+içinde taşıyabilir; bu durumda ihlal gerekmez, madde yeterlidir.**
+
+Dosya ikinci bir kısıt daha kaydediyor: yürürlüğe girmesi mevcut
+iktidarın onayına bağlı olan bir metin, o iktidarı sınırlandırma
+kapasitesini baştan sınırlıyor.
+
+Üçüncü kayıt — uykudaki belgenin işlevi. Metin otuz yıl uygulanmadı ama
+ortadan kaldırılmadı ve 1908'de bir hareketin temel talebi oldu. Var
+olan ama işlemeyen bir belge, yeni bir belge yazmaya gerek kalmadan bir
+talep formüle etmeyi mümkün kılıyor. Bir belgenin siyasi değeri,
+yürürlükte olup olmamasından bağımsız ölçülmeli.
+
+**Waitangi kuralı iki kez uygulandı.** İki dosyada da künyelenen metin
+çeviri: biri dönem Fransızcası, biri İngilizce. Özgün Osmanlıca metinler
+künyelenemedi ve iki dosya da bunu açıkça beyan ediyor — dosyalardaki
+madde göndermeleri çeviri metne dayanıyor ve özgün metinle
+karşılaştırılmadı.
+
+**Beyan edilen dengesizlik.** Belge türü altı dosyaya çıktı: ikisi
+Osmanlı, dördü başka gelenekler. Doğu Asya, Güney Asya ve Afrika
+geleneklerinden hiçbir hukuk belgesi künyelenmedi. Bu, atlasın öteki
+katmanlarındakinden daha keskin bir dengesizlik ve doğrudan kaynak
+erişilebilirliğiyle ilgili; borç defterine yazıldı.

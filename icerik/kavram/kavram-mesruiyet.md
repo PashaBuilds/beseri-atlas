@@ -51,6 +51,8 @@ ilgili:
   - aktor-haudenosaunee
   - kaynak-hammurabi-kanunlari
   - kaynak-magna-carta
+  - kaynak-gulhane-hatti
+  - kaynak-kanunuesasi-1876
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

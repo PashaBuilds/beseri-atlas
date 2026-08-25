@@ -23,6 +23,8 @@ ilgili:
   - tartisma-feodalite-kavrami
   - kaynak-insan-haklari-beyannamesi
   - kaynak-tordesillas-antlasmasi
+  - kaynak-gulhane-hatti
+  - kaynak-kanunuesasi-1876
 okuma_onerisi: []
 yazar: "Ingiltere Krali John ve baronlar (taraflar)"
 eser_adi: "Magna Carta Libertatum"

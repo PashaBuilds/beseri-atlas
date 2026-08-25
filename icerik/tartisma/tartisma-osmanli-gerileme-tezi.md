@@ -29,6 +29,8 @@ ilgili:
   - kavram-burokrasi
   - donem-09
   - tartisma-orta-asya-neden-cekildi
+  - kaynak-gulhane-hatti
+  - kaynak-kanunuesasi-1876
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -30,6 +30,8 @@ ilgili:
   - kaynak-hammurabi-kanunlari
   - kaynak-magna-carta
   - kaynak-insan-haklari-beyannamesi
+  - kaynak-gulhane-hatti
+  - kaynak-kanunuesasi-1876
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
