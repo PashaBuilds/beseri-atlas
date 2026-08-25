@@ -885,3 +885,45 @@ basina yetmez.
 Kuyruga eklendi: aktor-hazarlar (dikkatli kaynak secimiyle).
 
 Toplam makale 381 -> 383.
+
+## Tur 31 — Hint Okyanusu: atlasin en buyuk yapisal bosluğu (2026-08-25)
+
+Atlasta Atlantik ekonomisi uzerine dosyalar vardi (kole ticareti, merkantilizm,
+dunya sistemi, buyuk ayrisma). Ondan yuzyillar once ve daha genis bir cografyada
+isleyen Hint Okyanusu duzeni icin **tek bir yapisal dosya yoktu**. Kilva,
+Srivijaya, Chola ve Cheng Ho dosyalari atlasta ayri ayri duruyordu; onlari
+birbirine baglayan sey yazilmamisti.
+
+Uc dosya eklendi:
+
+- **kavram-hint-okyanusu-ticareti** (694 kelime): duzenin kendisi. Iki birincil
+  kaynak arasinda yaklasik bin uc yuz yil var — Periplus (MS 1. yy, tuccar
+  rehberi) ve Ibn Battuta (14. yy, yerinde gozlem). Ikisinin ayni limanlari,
+  ayni mallari ve ayni ruzgar takvimini anlatmasi, surekliligin yorum degil
+  iki bagimsiz kaydin ortusmesi oldugunu gosteriyor.
+- **aktor-malaka-sultanligi** (1202 kelime): toprak degil gecit uzerine kurulmus
+  devletin en acik ornegi. Kendi saray anlatisini birakmis (Sejarah Melayu) —
+  atlasin Guneydogu Asya dosyalari arasinda tek. Yuz yillik omru dosyanin
+  gerekcesini zayiflatmaz: kisa omurlu ornekler, uzun omurlu devletlerde
+  yuzyillara yayildigi icin gorunmez olan yapiyi tek seferde gosterir.
+- **kavram-svahili-kiyisi** (661 kelime): siyasi birlik olmadan kulturel birlik.
+  Kokeni ::tartismali — yazili kayitlar okyanus baglantisini, kazilar ic bolgeyi
+  one cikariyor; iki kanit turu ayni yone isaret etmiyor.
+
+### Kapilar bu turda is gordu
+
+KAPI 11 (derinlik) yeni bir dosyayi 568 kelimede reddetti — "yeni makale; borc
+defterine giremez". Bu kural onceki turlarda yazilmisti ve ilk kez burada
+devreye girdi. Eski dosyalarin borcu birikebilir ama yeni dosya borcla dogamaz.
+
+KAPI 2 (terim kilidi) "iki ucundaki" ifadesini kaynaksiz paragrafta yakaladi.
+Yaziyla yazilmis nicelik bildiren ifadeler de sayidir.
+
+### Tekrar eden hata: direktif metinlerini ASCII yazmak
+
+Uc dosyanin da ::tartismali direktifini once diyakritiksiz yazdim, sonra
+duzelttim. Sebep: direktif govdesi kod gibi hissettiriyor ama okuyucunun
+gordugu duz metindir. Sonraki turlarda direktif metni de govde prozasiyla ayni
+ozende yazilmali.
+
+Toplam makale 383 -> 386.

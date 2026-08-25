@@ -29,6 +29,7 @@ ilgili:
   - tartisma-aydinlanmanin-sinirlari
   - kaynak-guaman-poma-nueva-coronica
   - kaynak-popol-vuh
+  - aktor-malaka-sultanligi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

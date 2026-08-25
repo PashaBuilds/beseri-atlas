@@ -18,6 +18,7 @@ ilgili:
   - aktor-gana-imparatorlugu
   - aktor-kilva
   - aktor-indus-vadisi
+  - kavram-svahili-kiyisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

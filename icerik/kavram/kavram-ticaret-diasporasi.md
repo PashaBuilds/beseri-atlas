@@ -18,6 +18,9 @@ ilgili:
   - aktor-kanem-bornu
   - aktor-kilva
   - aktor-sogdlular
+  - kavram-hint-okyanusu-ticareti
+  - aktor-malaka-sultanligi
+  - kavram-svahili-kiyisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

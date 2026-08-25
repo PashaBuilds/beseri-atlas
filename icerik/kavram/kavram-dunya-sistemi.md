@@ -19,6 +19,7 @@ ilgili:
   - kavram-hegemonya
   - kavram-gini-katsayisi
   - kaynak-milanovic-kuresel-esitsizlik
+  - kavram-hint-okyanusu-ticareti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

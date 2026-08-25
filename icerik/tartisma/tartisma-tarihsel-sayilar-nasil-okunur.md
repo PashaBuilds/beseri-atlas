@@ -62,6 +62,7 @@ ilgili:
   - dusunur-ibn-battuta
   - aktor-gana-imparatorlugu
   - kaynak-timbuktu-tarihleri
+  - kavram-svahili-kiyisi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

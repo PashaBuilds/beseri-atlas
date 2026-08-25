@@ -17,6 +17,8 @@ ilgili:
   - aktor-song-hanedani
   - tartisma-bati-neden-yukseldi
   - aktor-ming-hanedani
+  - kavram-hint-okyanusu-ticareti
+  - aktor-malaka-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

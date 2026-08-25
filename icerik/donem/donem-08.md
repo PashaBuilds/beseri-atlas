@@ -36,6 +36,7 @@ ilgili:
   - tartisma-kara-olumun-sonuclari
   - aktor-kanem-bornu
   - aktor-kilva
+  - aktor-malaka-sultanligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

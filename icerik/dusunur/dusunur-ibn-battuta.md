@@ -22,6 +22,8 @@ ilgili:
   - aktor-gana-imparatorlugu
   - aktor-kanem-bornu
   - aktor-kilva
+  - kavram-hint-okyanusu-ticareti
+  - kavram-svahili-kiyisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

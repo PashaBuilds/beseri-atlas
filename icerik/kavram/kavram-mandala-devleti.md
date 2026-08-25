@@ -14,6 +14,7 @@ ilgili:
   - kavram-haracguzarlik
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - kavram-sehir-devleti
+  - aktor-malaka-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

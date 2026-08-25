@@ -24,6 +24,8 @@ ilgili:
   - aktor-gana-imparatorlugu
   - aktor-indus-vadisi
   - aktor-chola
+  - kavram-hint-okyanusu-ticareti
+  - kavram-svahili-kiyisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

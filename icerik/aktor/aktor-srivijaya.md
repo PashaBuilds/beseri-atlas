@@ -18,6 +18,8 @@ ilgili:
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - kavram-mandala-devleti
   - aktor-chola
+  - kavram-hint-okyanusu-ticareti
+  - aktor-malaka-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -16,6 +16,7 @@ ilgili:
   - donem-08
   - aktor-mali-imparatorlugu
   - aktor-kilva
+  - kavram-svahili-kiyisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

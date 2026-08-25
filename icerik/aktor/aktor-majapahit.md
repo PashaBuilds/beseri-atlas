@@ -17,6 +17,7 @@ ilgili:
   - aktor-mogol-imparatorlugu
   - aktor-khmer-imparatorlugu
   - aktor-srivijaya
+  - aktor-malaka-sultanligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
