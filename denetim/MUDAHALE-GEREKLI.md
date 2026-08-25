@@ -653,3 +653,26 @@ esitligi). KAPATILDI (ayni gun): kucuk cekirdek tek sozcukten olusuyorsa ek
 toleransi kapatildi, tam esitlik araniyor. Gercek korpusta 0 hata;
 sentetik sinamada eski birlestirme ciftleri (Gana, Selcuklu) hala
 yakalaniyor.
+
+## 2026-08-26 — kapanan ve yeni açılan borçlar
+
+KAPANDI: "sömürge öncesi Afrika hukuk belgesi künyelenmemiş" borcu.
+`kaynak-fetha-nagast` (Geez kanun kitabı) ve `kaynak-kurukan-fuga-sarti`
+(sözlü aktarılan düzen belgesi) eklendi; ikisi farklı türde belge
+olduğu için borç iki ayrı yönden kapandı.
+
+KAPANDI: şemada tanımlı `mitolojik` ekseni hiçbir dosyada
+kullanılmıyordu. `kavram-kurulus-anlatisi`, `kaynak-kojiki` ve
+`kaynak-gilgamis-destani` ile açıldı.
+
+YENİ: Fetha Nagast'ın kölelik hükümleri ayrı bir dosya bekliyor.
+Bu dosyada bilerek geçiştirilmedi, ayrıca ele alınacağı beyan edildi.
+
+YENİ: Kurukan Fuga'nın yirminci yüzyıl derlemelerinin doğrulanabilir
+tam metni bulunamadı. Sürümler arası fark, atlasta yalnızca genel
+olarak anıldı; madde düzeyinde karşılaştırma yapılamadı.
+
+AÇIK KALAN: Gılgamış Destanı'nın künyesindeki çeviri erken bir
+çeviridir ve yirmi birinci yüzyılda yayımlanan tablet parçalarını
+içermez. Kamu malı ve doğrulanabilir güncel bir çeviri bulunursa
+künye yenilenmeli.

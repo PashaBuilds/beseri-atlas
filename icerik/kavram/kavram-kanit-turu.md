@@ -49,6 +49,7 @@ ilgili:
   - aktor-komance
   - kaynak-piri-reis-kitab-i-bahriye
   - kaynak-ibn-battuta-rihle
+  - kaynak-gilgamis-destani
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

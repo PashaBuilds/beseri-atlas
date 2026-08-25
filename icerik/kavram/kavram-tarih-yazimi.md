@@ -38,6 +38,8 @@ ilgili:
   - kaynak-magna-carta
   - olay-mfecane
   - dusunur-katib-celebi
+  - kavram-kurulus-anlatisi
+  - kaynak-kojiki
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

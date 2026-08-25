@@ -17,6 +17,7 @@ ilgili:
   - aktor-hitit-imparatorlugu
   - aktor-ahamenis-imparatorlugu
   - tartisma-imparatorluk-siniri-nasil-cizilir
+  - kaynak-gilgamis-destani
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

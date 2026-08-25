@@ -30,6 +30,7 @@ ilgili:
   - aktor-olmek
   - dusunur-wang-yangming
   - kaynak-magna-carta
+  - kavram-kurulus-anlatisi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

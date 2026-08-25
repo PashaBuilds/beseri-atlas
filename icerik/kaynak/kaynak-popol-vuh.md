@@ -18,6 +18,7 @@ ilgili:
   - tartisma-kesif-mi-istila-mi
   - kaynak-guaman-poma-nueva-coronica
   - tartisma-sozlu-gelenek-kaynak-mi
+  - kavram-kurulus-anlatisi
 okuma_onerisi: []
 yazar: "Quiché Maya yazıcıları"
 eser_adi: "Popol Vuh"

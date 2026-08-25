@@ -33,6 +33,7 @@ ilgili:
   - aktor-hazarlar
   - aktor-karluklar
   - aktor-kirgizlar
+  - kaynak-kojiki
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

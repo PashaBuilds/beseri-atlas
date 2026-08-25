@@ -22,6 +22,7 @@ ilgili:
   - kaynak-insan-haklari-beyannamesi
   - kavram-belge-okumasi
   - tartisma-belge-ne-zaman-yururlukte
+  - kaynak-gilgamis-destani
 okuma_onerisi: []
 yazar: "Hammurabi (adina yazdirilmistir)"
 eser_adi: "Hammurabi Kanunlari"

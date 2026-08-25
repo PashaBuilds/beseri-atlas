@@ -57,6 +57,8 @@ ilgili:
   - tartisma-belge-ne-zaman-yururlukte
   - olay-tupac-amaru-ayaklanmasi-1780
   - kaynak-kurukan-fuga-sarti
+  - kavram-kurulus-anlatisi
+  - kaynak-kojiki
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -23,6 +23,7 @@ ilgili:
   - aktor-asur-imparatorlugu
   - aktor-olmek
   - aktor-kus-kralligi
+  - kaynak-gilgamis-destani
 okuma_onerisi: []
 serit:
   - bolge: avrupa

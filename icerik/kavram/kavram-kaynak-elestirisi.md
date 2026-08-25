@@ -37,6 +37,8 @@ ilgili:
   - dusunur-katib-celebi
   - kaynak-piri-reis-kitab-i-bahriye
   - kaynak-ibn-battuta-rihle
+  - kavram-kurulus-anlatisi
+  - kaynak-gilgamis-destani
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

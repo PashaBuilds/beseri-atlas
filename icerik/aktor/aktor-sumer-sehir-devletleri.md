@@ -19,6 +19,7 @@ ilgili:
   - aktor-maya-uygarligi
   - kavram-sehir-devleti
   - kavram-yazi-sistemi
+  - kaynak-gilgamis-destani
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

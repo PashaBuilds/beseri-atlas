@@ -40,6 +40,8 @@ ilgili:
   - olay-mfecane
   - kaynak-ibn-battuta-rihle
   - kaynak-kurukan-fuga-sarti
+  - kavram-kurulus-anlatisi
+  - kaynak-kojiki
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

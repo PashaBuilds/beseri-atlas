@@ -55,6 +55,7 @@ ilgili:
   - kaynak-fetha-nagast
   - kaynak-ibn-battuta-rihle
   - kaynak-kurukan-fuga-sarti
+  - kaynak-kojiki
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

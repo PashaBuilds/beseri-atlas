@@ -14,6 +14,7 @@ ilgili:
   - dusunur-sima-qian
   - aktor-han-imparatorlugu
   - kavram-tarih-yazimi
+  - kaynak-kojiki
 okuma_onerisi: []
 yazar: "Sima Qian"
 eser_adi: "Shiji (Records of the Grand Historian)"

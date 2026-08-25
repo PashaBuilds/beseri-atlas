@@ -25,6 +25,7 @@ ilgili:
   - tartisma-yazinin-icadi-nerede
   - aktor-indus-vadisi
   - kaynak-hammurabi-kanunlari
+  - kaynak-gilgamis-destani
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

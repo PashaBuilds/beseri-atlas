@@ -3126,3 +3126,23 @@ büyük olasılıkla hâlâ telifli bir çevirinin izinsiz kopyası.
 Açık borç: Fetha Nagast'ın kölelik hükümleri ayrı dosya bekliyor;
 Kurukan Fuga'nın derlenmiş sürümlerinin doğrulanabilir tam metni
 künyelenemedi.
+
+## 2026-08-26 — Mitolojik eksen açıldı
+
+Şemada tanımlı sekiz eksenden biri (`mitolojik`) bugüne kadar hiçbir
+dosyada kullanılmamıştı. Üç dosyayla açıldı.
+
+- `kavram-kurulus-anlatisi` — kural: bir kuruluş anlatısı, anlattığı
+  dönemin değil, yazıya geçirildiği dönemin kaynağıdır.
+- `kaynak-kojiki` — saray buyruğuyla derlenen, hanedanı tanrılara
+  bağlayan kayıt. Ölçüm: rakip kuruluş anlatıları silinmez, hâkim
+  anlatının alt dalı yapılarak etkisizleştirilir.
+- `kaynak-gilgamis-destani` — ölçüm: bir metnin "aslı" sorusu her zaman
+  anlamlı değildir; bazı metinler bir asıldan değil bir kopyalama
+  geleneğinden gelir. Hem `eser` hem kazı buluntusu olduğu için kanıt
+  türü dosyasına bağlandı.
+
+Künye notu: iki birincil metin de `en.wikisource.org` üzerinden kamu
+malı çevirilerle künyelendi (Chamberlain 1882, Thompson). Her ikisi de
+erken çeviri olduğu için sonraki yayınlardaki eklemeleri içermez;
+kısıt her iki dosyada da beyan edildi.

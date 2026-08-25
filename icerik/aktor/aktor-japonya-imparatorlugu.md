@@ -18,6 +18,7 @@ ilgili:
   - olay-ikinci-dunya-savasi
   - aktor-tokugawa-sogunlugu
   - kaynak-meiji-anayasasi
+  - kaynak-kojiki
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

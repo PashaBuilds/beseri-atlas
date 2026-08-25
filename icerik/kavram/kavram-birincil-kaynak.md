@@ -42,6 +42,9 @@ ilgili:
   - kaynak-fetha-nagast
   - kaynak-ibn-battuta-rihle
   - kaynak-kurukan-fuga-sarti
+  - kavram-kurulus-anlatisi
+  - kaynak-gilgamis-destani
+  - kaynak-kojiki
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
