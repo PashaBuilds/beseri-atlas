@@ -17,6 +17,7 @@ ilgili:
   - kavram-burokrasi
   - aktor-moche
   - tartisma-sozlu-gelenek-kaynak-mi
+  - kavram-aletsiz-seyrusefer
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

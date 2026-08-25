@@ -1314,3 +1314,44 @@ etmiyor ve etmeye calismiyor; sinir dosyada acikca beyan edildi. Bu bir
 eksiklik degil bir sinir ve oyle kaydedildi.
 
 Toplam makale 412 -> 413.
+
+## Tur 46 — Okyanusya bes dosyaya cikti; mubadelenin ucuncu kategorisi (2026-08-25)
+
+Iki kavram dosyasi eklendi ve birbirine baglandi.
+
+- **kavram-kula-halkasi** (608 kelime): degeri kullanimindan degil
+  dolasimindan gelen nesnelerin, ada gruplari arasinda zit yonlerde surekli
+  el degistirdigi duzen. Malinowski'nin 1922 alan calismasi (kamu mali tam
+  metin) ve iki Massim nesnesi kunyelendi.
+- **kavram-aletsiz-seyrusefer** (606 kelime): pusula, kronometre ve harita
+  olmadan acik okyanusta yon bulma.
+
+### Mubadelenin ucuncu kategorisi
+
+Kula dosyasi atlasin ekonomik kavram katmanindaki bir varsayimi siniyor.
+Katmandaki dosyalarin cogu mubadeleyi ya **pazar** ya **harac** olarak
+siniflandiriyor. Bu duzen ikisine de girmiyor: pazar degil cunku fiyat ve
+pazarlik yok; harac degil cunku zorlama ve tabiiyet yok. Atlas dosyayi bir
+ucuncu kategori olarak tutuyor — bir duzeni iki kategoriden birine zorlamak
+onu gorunmez kilar.
+
+Ayrica kaydedildi: **degeri dolasimindan gelen bir nesne, dolasimdan
+cikarilip vitrine konduğunda tam olarak degerini olusturan seyi kaybeder.**
+Kunyelenen iki nesne bolgenin disindaki bir muzede.
+
+### Kayit sistemleri zincirine dorduncu halka
+
+  yazi          — usul metnin icinde
+  kipu          — usul gorevlide
+  sarki yollari — usul arazide
+  seyrusefer    — usul egitilmis bellekte
+
+Seyrusefer dosyasinin farki: zincir tam kopmadan yakalandi ve yontem
+canlandirilabildi. Oteki uc sistemde zincir kirildiginda geri donus olmadi.
+**Bir bilgi sisteminin kurtarilabilmesi, kaybin hangi asamada fark
+edildigine bagli.**
+
+Bir de sinanabilirlik farki var: bu yontem bugun dogrudan sinanabiliyor ve
+sinandi. Atlasin oteki kayit sistemi dosyalarinda bu imkan yok.
+
+Toplam makale 413 -> 415. Okyanusya bolgesi 5 dosya.

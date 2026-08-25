@@ -16,6 +16,7 @@ ilgili:
   - kavram-vergi
   - kavram-ticaret-diasporasi
   - aktor-maldiv-sultanligi
+  - kavram-kula-halkasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

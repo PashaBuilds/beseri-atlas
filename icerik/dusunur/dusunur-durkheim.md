@@ -20,6 +20,7 @@ ilgili:
   - kavram-sekulerlesme
   - kaynak-durkheim-intihar
   - dusunur-du-bois
+  - kavram-kula-halkasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

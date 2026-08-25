@@ -26,6 +26,7 @@ ilgili:
   - aktor-maldiv-sultanligi
   - aktor-gucerat-sultanligi
   - olay-malaka-fethi-1511
+  - kavram-kula-halkasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

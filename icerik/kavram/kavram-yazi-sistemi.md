@@ -19,6 +19,7 @@ ilgili:
   - dusunur-asoka
   - aktor-moche
   - kavram-kipu
+  - kavram-aletsiz-seyrusefer
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

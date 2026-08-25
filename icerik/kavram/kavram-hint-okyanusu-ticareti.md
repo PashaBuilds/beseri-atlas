@@ -28,6 +28,8 @@ ilgili:
   - olay-malaka-fethi-1511
   - kavram-silahli-ticaret
   - kavram-avustronezya-yayilmasi
+  - kavram-kula-halkasi
+  - kavram-aletsiz-seyrusefer
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

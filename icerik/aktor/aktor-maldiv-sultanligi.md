@@ -22,6 +22,7 @@ ilgili:
   - aktor-gana-imparatorlugu
   - kavram-ticaret-diasporasi
   - kavram-avustronezya-yayilmasi
+  - kavram-kula-halkasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

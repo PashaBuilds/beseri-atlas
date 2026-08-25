@@ -21,6 +21,7 @@ ilgili:
   - aktor-benin-kralligi
   - aktor-maori
   - aktor-avustralya-yerli-halklari
+  - kavram-aletsiz-seyrusefer
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

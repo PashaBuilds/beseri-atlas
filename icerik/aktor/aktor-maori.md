@@ -21,6 +21,7 @@ ilgili:
   - kavram-arkeolojik-kanit
   - kavram-somurgesizlesme
   - aktor-avustralya-yerli-halklari
+  - kavram-aletsiz-seyrusefer
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -18,6 +18,8 @@ ilgili:
   - kavram-arkeolojik-kanit
   - aktor-maldiv-sultanligi
   - aktor-avustralya-yerli-halklari
+  - kavram-kula-halkasi
+  - kavram-aletsiz-seyrusefer
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
