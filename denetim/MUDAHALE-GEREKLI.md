@@ -532,12 +532,19 @@ Sonuc: Benin dosyasinin uc kaynagi da ansiklopedi maddesi ve hicbiri birincil
 degil — oysa krallik hakkindaki en somut kanit dokum eserler. Kanit var,
 kunye alani yok.
 
-Yapilmasi gereken: muze koleksiyonlarinin cevrimici kataloglarina kunye
-verilebilmesi icin sema genisletilmeli. `birincil_tur` alanina `nesne`
-eklenebilir ve dogrulama_dizesi katalog numarasi olabilir.
+**KAPATILDI (2026-08-25, ayni gun).** `birincil_tur` alanina `nesne`
+eklendi; sema, okur bileseni ve kaynak havuzu guncellendi. Benin dosyasi iki
+nesne kunyesi aldi ve artik birincil kaynakli.
 
-Etkisi: atlasin Afrika, Amerika ve Okyanusya dosyalarinda kanit tabanini
-dogrudan genisletir. Bu bolgelerin dosyalarinda "birincil kaynak
-bulunamadi" notu, cogu zaman "metin bulunamadi" demek.
+Kapatirken cikan engel: **muzelerin insan arayuzlu sayfalari otomatik
+istekleri engelliyor.** Dordu de denendi ve dordu de reddetti —
+britishmuseum.org 403, metmuseum.org 429 (Vercel kontrol noktasi), si.edu
+403, europeana.eu 403. Bu sayfalar atlasin canlilik kapisindan gecemez.
 
-Oncelik: orta.
+Cozum: koleksiyon **API uc noktasi** kunyelendi. API engellemiyor ve makine
+okunur kunye donduruyor (baslik, kultur, tarih, insan sayfasi baglantisi).
+Havuza `collectionapi.metmuseum.org` eklendi.
+
+Kalan is: yalnizca bir muzenin API'si havuzda. Afrika, Amerika ve Okyanusya
+dosyalarinin kanit tabanini genisletmek icin baska koleksiyonlarin API'leri
+de denenmeli. Oncelik: orta.

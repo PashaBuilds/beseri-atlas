@@ -12,9 +12,9 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Ölçüm | Değer |
 |---|---|
 | Ölçülen makale | 406 |
-| Toplam künye | 1328 |
+| Toplam künye | 1330 |
 | Giriş kapısı kuralını aşan makale | 225 |
-| Birincil kaynağı olmayan makale | 238 |
+| Birincil kaynağı olmayan makale | 237 |
 | Giriş kapısı künyesi payı | 46% |
 
 ## Tipe göre borçlu makale
@@ -22,7 +22,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Tip | Borçlu |
 |---|---|
 | olay | 77 |
-| aktor | 65 |
+| aktor | 64 |
 | kavram | 60 |
 | tartisma | 34 |
 | kaynak | 27 |
@@ -261,7 +261,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `aktor-abbasi-hilafeti` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-avusturya-macaristan` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-babur-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
-| `aktor-benin-kralligi` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-emevi-hilafeti` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-etiyopya-imparatorlugu` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-gana-imparatorlugu` | 4 | 1 | 0 | birincil kaynak yok |

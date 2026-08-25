@@ -44,6 +44,22 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "Benin"
     not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: nesne
+    ad: "Atli oba ve maiyetini gosteren dokum levha (Edo, yak. 1540-70) — MET 310752"
+    url: https://collectionapi.metmuseum.org/public/collection/v1/objects/310752
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "Edo peoples"
+    not: "Muze katalog kaydi; baslik, kultur, tarih ve insan sayfasi baglantisi makine okunur"
+  - anahtar: k5
+    tur: birincil
+    birincil_tur: nesne
+    ad: "Bir oba basi, Ùhúnmwèlaò (Edo, 15.-16. yy) — MET 312290"
+    url: https://collectionapi.metmuseum.org/public/collection/v1/objects/312290
+    erisim_tarihi: 2026-08-25
+    dogrulama_dizesi: "Edo peoples"
+    not: "Ikinci nesne kaydi; dokum gelenegin sureklilgini gostermek icin"
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -232,17 +248,18 @@ ziyaretçi kayıtlarından tanınan bir konu olarak kalırdı.
 
 ## Kaynak durumu
 
-Bu dosya üç kaynağa dayanır ve hiçbiri birincil değildir.[^k1][^k2][^k3]
-Kanıtın kendisi — döküm eserler — bir metin olmadığı için atlasın künye
-şemasına doğrudan girmez.
+Bu dosya beş kaynağa dayanır ve ikisi birincildir.[^k4][^k5] İki birincil
+künye, döküm eserlerin müze katalog kayıtlarıdır ve atlasın künye şemasına
+bu dosya için eklenen `nesne` alt türünü taşır.
 
-Bu, şemanın bir sınırıdır ve burada beyan edilir.[^k3] Atlasın kaynak
-alanları metin kaynaklarına göre tasarlanmıştır; nesne kanıtları için bir
-alan yoktur.
+Eklemenin gerekçesi bu dosyada ortaya çıktı.[^k3] Şema metin kaynaklarına göre
+tasarlanmıştı; bir dosyanın en güçlü kanıtı bir metin değil bir nesne
+olduğunda künyede yeri yoktu ve dosya birincil kaynaksız görünüyordu.
 
-Kuyruğa alınması gereken bir eksiktir.[^k1] Müze koleksiyonlarının çevrimiçi
-kataloglarına künye verilebilmesi, atlasın Afrika ve Amerika dosyalarında
-kanıt tabanını genişletirdi.
+Erişimde bir kısıt vardır ve beyan edilmelidir.[^k4] Müzelerin insan arayüzlü
+sayfaları otomatik istekleri engellediği için künyeler katalog API'sine
+verilmiştir; API kaydı başlık, kültür, tarih ve insan sayfasının bağlantısını
+makine okunur biçimde döndürür.
 
 ## Bu dosyanın kapsamadıkları
 

@@ -27,7 +27,11 @@ export const KAYNAK_TURLERI = ['ansiklopedi','akademik','birincil','veri','ders'
 // Alan ZORUNLU DEGILDIR; yalnizca tur: birincil kunyelerde anlamlidir ve
 // doldurulmasi tesvik edilir. Zorunlu yapilmasi 373 makaleyi bir anda
 // bozardi; borc olarak olculur (KAPI 13).
-export const BIRINCIL_TURLERI = ['eser', 'belge', 'kitabe', 'kazi', 'tanik'];
+// 'nesne' 2026-08-25'te eklendi. Gerekce: Benin Kralligi dosyasi yazilirken
+// semanin metin kaynaklarina gore tasarlandigi ortaya cikti. Bir dosyanin en
+// guclu kaniti bir metin degil bir nesne ise (dokum levha, heykel, kazi
+// buluntusu) kunyede yeri yoktu ve dosya "birincil kaynagi yok" gorunuyordu.
+export const BIRINCIL_TURLERI = ['eser', 'belge', 'kitabe', 'kazi', 'tanik', 'nesne'];
 
 /** Okur icin Turkce karsiliklar. */
 export const BIRINCIL_TUR_ADLARI = {
@@ -36,6 +40,7 @@ export const BIRINCIL_TUR_ADLARI = {
   kitabe: 'Kitabe',
   kazi: 'Kazı raporu',
   tanik: 'Tanıklık',
+  nesne: 'Nesnenin kendisi',
 };
 export const DENETIM_DURUMLARI = ['bekliyor','gecti','isaretli','onaylandi','onarimda','karantina'];
 

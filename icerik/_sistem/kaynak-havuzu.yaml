@@ -102,6 +102,13 @@ whitelist:
   - alan: archive.org
     tur: birincil
     dogrulanabilir: true
+  # Muze koleksiyon API'leri. Muzelerin insan arayuzlu sayfalari (britishmuseum.org,
+  # metmuseum.org, si.edu, europeana.eu) otomatik istekleri engelliyor — 2026-08-25'te
+  # dordu de 403/429 dondurdu. API uc noktalari engellemiyor ve makine okunur
+  # kunye (baslik, kultur, tarih, insan sayfasi baglantisi) veriyor.
+  - alan: collectionapi.metmuseum.org
+    tur: birincil
+    dogrulanabilir: true
   - alan: perseus.tufts.edu
     tur: birincil
     dogrulanabilir: true
