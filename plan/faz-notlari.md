@@ -2289,3 +2289,58 @@ gelir defterleri. İki dosya da bunu metninde beyan ediyor. Künyelerin
 **KAPI 17 çalıştı.** Yeni kapı 422 makale tarayıp 39 süre iddiası
 buldu, hepsi tutarlı. Bu turda yazılan iki dosyanın özetinde süre
 iddiası yok, dolayısıyla tetiklenmedi.
+
+## Tur — Okyanusya: Samoa ve vesayet yönetimi (25 Ağustos 2026)
+
+Eklenen: `aktor-samoa-kralligi`, `kavram-vesayet-yonetimi`.
+Toplam 447 → 449. Okyanusya 12 → 14.
+
+**Samoa — üçüncü taraflar arasında yapılan paylaşım.** Takımada 1900'de
+ikiye bölündü ve bölünme adalarda değil uzaktaki başkentlerde
+kararlaştırıldı; adaların halkı anlaşmanın tarafı değildi. Bu, Berlin
+Konferansı dosyasında kaydedilen yapının Pasifik'teki karşılığı.
+
+Üç ölçüm çıktı:
+
+1. *Dış tanımanın iç mücadeleye etkisi.* Üç dış güç üç farklı adayı
+   destekledi ve her destek silah ve tanıma biçimindeydi. **Dışarıdan
+   gelen tanıma, iç mücadelede bir tarafa kaynak aktardığında,
+   mücadeleyi bitirmez; sürdürülebilir kılar.** Fark üçlü yapıda: tek
+   tedarikçi olsa mücadele daha hızlı biterdi.
+
+2. *Yargı yetkisinin uyrukluğa göre bölünmesi.* Üç konsolosluk kendi
+   vatandaşları üzerinde yargı yetkisi kullanıyordu — aynı takımadada üç
+   ayrı hukuk düzeni eşzamanlı işliyordu. Toprak satışlarının
+   geçerliliği hangi mahkemenin baktığına göre değişiyordu, ve bu
+   belirsizlik satın alan tarafa sistematik olarak yarıyordu. Dosyanın
+   kaydı: bir hukuki belirsizlik taraflardan birine sistematik olarak
+   yarıyorsa, o belirsizlik bir kusur değil bir düzenlemedir.
+
+3. *Okyanusya'da dördüncü toprak ölçümü.* Tonga toprağı kapattı ve
+   bağımsız kaldı; Hawai, Fiji ve Samoa toprağı açtı ve üçü de
+   egemenliğini kaybetti. Dört örnek aynı yöne işaret ediyor ama kural
+   kurmuyor; dosya karşı örnek aranması gerektiğini yazıyor.
+
+**Vesayet yönetimi — hiyerarşinin belgeye yazılması.** Milletler
+Cemiyeti Misakı'nın 22. maddesi, emanet edilen toprakları üç dereceye
+ayırıyor ve dereceyi bağımsızlığa yakınlığa bağlıyor. Atlas için değeri
+şu: **bir hiyerarşinin belgede yazılı olması, onu tartışılabilir kılar;
+yazılmadığı yerde aynı hiyerarşi işler ama gösterilemez.** Sömürge
+dönemi belgelerinin çoğu böyle bir sıralamayı gerekçe olarak kullanır
+ama metne dökmez.
+
+İki ek gözlem: emanetçiler örgüt tarafından değil savaşın galipleri
+tarafından belirlendi ve çoğu durumda emanet o toprağı işgal etmiş
+devlete verildi; ve metin emanetin ne zaman sona ereceğini
+tanımlamıyor — süre, o düzenden yararlanan tarafın değerlendirmesine
+bırakılmış.
+
+**Adlandırma kararı.** Dosya `kavram-manda-sistemi` yerine
+`kavram-vesayet-yonetimi` adıyla açıldı. Nedeni KAPI 15: "manda" çekirdeği,
+mevcut `kavram-mandala-devleti` dosyasının çekirdeğiyle Türkçe ek
+toleransı yüzünden eşleşiyor ve yanlış bir çakışma uyarısı üretebilirdi.
+
+**Kapı geri bildirimi.** KAPI 7 (telif) `kavram-vesayet-yonetimi`
+dosyasında aynı kaynaktan iki alıntı yakaladı. İlke 4 kaynak başına en
+fazla bir alıntıya izin veriyor; ikinci ifade tırnaksız hâle getirildi.
+Bu kapı ilk kez bu turda tetiklendi.

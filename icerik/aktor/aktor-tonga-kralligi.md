@@ -26,6 +26,7 @@ ilgili:
   - kavram-himaye-duzeni
   - aktor-fiji-kralligi
   - aktor-rapa-nui
+  - aktor-samoa-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

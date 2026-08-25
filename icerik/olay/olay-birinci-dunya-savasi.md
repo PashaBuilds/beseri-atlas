@@ -17,6 +17,7 @@ ilgili:
   - olay-1914-temmuz-krizi
   - olay-versailles-antlasmasi
   - kavram-topyekun-savas
+  - kavram-vesayet-yonetimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

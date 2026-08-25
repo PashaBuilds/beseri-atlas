@@ -21,6 +21,8 @@ ilgili:
   - aktor-kongo-kralligi
   - kavram-himaye-duzeni
   - aktor-fiji-kralligi
+  - aktor-samoa-kralligi
+  - kavram-vesayet-yonetimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

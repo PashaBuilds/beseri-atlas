@@ -18,6 +18,7 @@ ilgili:
   - tartisma-milliyetcilik-ne-zaman
   - tartisma-soykirim-kavrami
   - dusunur-fanon
+  - kavram-vesayet-yonetimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

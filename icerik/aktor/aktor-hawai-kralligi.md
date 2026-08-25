@@ -27,6 +27,7 @@ ilgili:
   - aktor-tonga-kralligi
   - kavram-himaye-duzeni
   - aktor-fiji-kralligi
+  - aktor-samoa-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

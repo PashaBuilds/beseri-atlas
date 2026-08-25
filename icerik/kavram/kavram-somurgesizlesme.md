@@ -27,6 +27,7 @@ ilgili:
   - aktor-kongo-kralligi
   - kavram-himaye-duzeni
   - aktor-fiji-kralligi
+  - kavram-vesayet-yonetimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

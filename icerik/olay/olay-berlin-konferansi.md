@@ -18,6 +18,7 @@ ilgili:
   - kavram-emperyalizm
   - aktor-sokoto-hilafeti
   - aktor-benin-kralligi
+  - aktor-samoa-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

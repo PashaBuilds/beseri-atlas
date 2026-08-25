@@ -43,6 +43,7 @@ ilgili:
   - aktor-hive-hanligi
   - kavram-himaye-duzeni
   - aktor-marathalar
+  - aktor-samoa-kralligi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

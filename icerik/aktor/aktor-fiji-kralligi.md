@@ -22,6 +22,7 @@ ilgili:
   - kavram-somurgesizlesme
   - olay-waitangi-antlasmasi-1840
   - kavram-emperyalizm
+  - aktor-samoa-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

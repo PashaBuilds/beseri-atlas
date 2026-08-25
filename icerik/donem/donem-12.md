@@ -49,6 +49,7 @@ ilgili:
   - aktor-mapuche
   - aktor-fiji-kralligi
   - aktor-rapa-nui
+  - aktor-samoa-kralligi
 okuma_onerisi: []
 serit:
   - bolge: afrika

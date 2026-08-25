@@ -21,6 +21,7 @@ ilgili:
   - aktor-cin-halk-cumhuriyeti
   - olay-11-eylul
   - olay-paris-iklim-anlasmasi
+  - kavram-vesayet-yonetimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

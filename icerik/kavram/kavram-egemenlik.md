@@ -26,6 +26,8 @@ ilgili:
   - aktor-haudenosaunee
   - aktor-mapuche
   - aktor-fiji-kralligi
+  - aktor-samoa-kralligi
+  - kavram-vesayet-yonetimi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
