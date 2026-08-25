@@ -773,3 +773,45 @@ makalede ne için kullanıldığıyla ilgilidir.
 
 Künye listesinde tür artık "Birincil · kazı raporu" biçiminde görünür.
 Okur, bir iddianın hangi türden bir kayda dayandığını künyeden okuyabilir.
+
+## Tur 28 — kaynak katmaninin bolge acigi kapatildi (2026-08-25)
+
+Kaynak katmani 33 dosyaydi ve dagilimi soyleydi: Avrupa agirlikli, birkac
+Cin ve Islam dunyasi metni. Guney Asya, Orta Asya, Afrika ve Amerika'dan
+**tek bir metin yoktu**. Oysa bu dort bolgenin aktor ve dusunur katmanlarinda
+toplam 200'e yakin dosya bulunuyordu.
+
+Tespit edilen sorun: bir bolge hakkinda dosya bulunmasi ile o bolgenin kendi
+metninin atlasa girmesi ayri seylerdir. Ikincisi olmadan bolge, baskalarinin
+anlattigi bir konu olarak kalir. Bu, atlasin kendi ilkesine (iki tiklamada
+kaynaga inmek) sadik kalirken bile ortaya cikabilen bir yanlilik bicimidir.
+
+Eklenen alti dosya:
+
+| dosya | bolge | birincil_tur | metin |
+|---|---|---|---|
+| kaynak-kautilya-arthasastra | guney-asya | eser | Shamasastry 1915 + Sanskritce 1919 |
+| kaynak-orhon-yazitlari | orta-asya | kitabe | Ross 1930 + Thomsen 1892 |
+| kaynak-yusuf-has-hacib-kutadgu-bilig | orta-asya | eser | Vambery 1870 (Uygurca + Almanca) |
+| kaynak-guaman-poma-nueva-coronica | amerika | belge | 1615, iki cilt |
+| kaynak-popol-vuh | amerika | eser | Recinos-Goetz-Morley |
+| kaynak-timbuktu-tarihleri | afrika | eser | Houdas 1898 + Fr. ceviri |
+
+Reddedilen adaylar ve gerekcesi:
+- `anonimo-popol-vuh` (archive.org): katalogda yazar, tarih ve dil alanlari
+  bos. Dogrulanamaz kunye; reddedildi.
+- Gutenberg 56550 "The Popol Vuh" (Lewis Spence): metnin kendisi degil,
+  yeniden anlatimi. Birincil sayilamaz; reddedildi.
+- `florentine-codex` (archive.org): indirilebilir metin dosyasi yok.
+  Okuyucunun metne inememesi kaynak sartini bozar; reddedildi.
+- `islamansiklopedisi.org.tr/orhun-yazitlari`, `/gokturkler`, `/bilge-kagan`:
+  ucu de arama sonucu sayfasi dondurdu (baslik "Arama - TDV..."). Dogru slug
+  `/orhon-yazitlari` olarak bulundu. TDV slug'lari her seferinde baslik
+  denetiminden gecirilmelidir.
+
+Acik birakilan: Timbuktu tarihlerinin iki kitabinin katalog kayitlari
+birbirine karismis durumda (bir kitabin adi otekinin yazariyla eslesiyor).
+Kunyelerde katalog basliklari **oldugu gibi** birakildi ve durum dosyanin
+govdesinde kaydedildi. Duzeltmek karisikligi cozmek degil gizlemek olurdu.
+
+Birincil kunye sayisi 119 -> 131. Toplam makale 377 -> 383.
