@@ -34,6 +34,7 @@ ilgili:
   - aktor-avustralya-yerli-halklari
   - kavram-kanit-turu
   - aktor-hazarlar
+  - aktor-asanti-imparatorlugu
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -18,6 +18,7 @@ ilgili:
   - kaynak-ibn-haldun-mukaddime
   - dusunur-ibn-battuta
   - aktor-murabitlar
+  - aktor-muvahhidler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

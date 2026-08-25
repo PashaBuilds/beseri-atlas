@@ -24,6 +24,7 @@ ilgili:
   - kavram-kanit-turu
   - kavram-emperyalizm
   - kavram-somurgesizlesme
+  - aktor-asanti-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

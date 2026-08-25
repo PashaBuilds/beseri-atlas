@@ -15,6 +15,7 @@ ilgili:
   - kavram-longue-duree
   - kaynak-ibn-haldun-mukaddime
   - aktor-murabitlar
+  - aktor-muvahhidler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

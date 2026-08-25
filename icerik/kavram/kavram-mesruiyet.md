@@ -47,6 +47,7 @@ ilgili:
   - aktor-seybaniler
   - aktor-hokand-hanligi
   - aktor-murabitlar
+  - aktor-muvahhidler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -23,6 +23,7 @@ ilgili:
   - tartisma-antik-kolelik-ekonomisi
   - aktor-benin-kralligi
   - aktor-kongo-kralligi
+  - aktor-asanti-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -23,6 +23,7 @@ ilgili:
   - aktor-avustralya-yerli-halklari
   - kavram-aletsiz-seyrusefer
   - kavram-kanit-turu
+  - aktor-asanti-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

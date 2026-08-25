@@ -22,6 +22,7 @@ ilgili:
   - veri-ticaret-payi
   - aktor-kongo-kralligi
   - aktor-murabitlar
+  - aktor-asanti-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1957,3 +1957,60 @@ bu ifadeyle yazıldı.
 üst sonuç yapay zekâ üretimi yüklemeydi (yaratıcı alanında
 "Claude/Anthropic" ibaresi). Künyelenmedi. Bu, arama sonuçlarının
 katalog verisiyle doğrulanması gerektiğinin yeni bir örneği.
+
+## Tur — Afrika: iki hanedan, iki meşruiyet modeli (25 Ağustos 2026)
+
+Eklenen: `aktor-muvahhidler`, `aktor-asanti-imparatorlugu`.
+Toplam 437 → 439. Afrika 94 → 96.
+
+**Muvahhidler — bir kaydın ikinci ölçümü.** Geçen tur Murâbıtlar
+dosyasında bir kural yazılmıştı: öğretiye dayanan bir meşruiyet,
+kendisini yıkacak aracı da beraberinde getirir. Muvahhidler bu kuralın
+ikinci ölçümü — seleflerini inanç konusunda yeterince tutarlı olmamakla
+suçlayarak iktidara geldiler ve bir buçuk yüzyıl sonra kendi tutarlılık
+iddiasını sürdüremediklerinde çözüldüler. Örüntü iki kez üst üste
+işledi.
+
+**İki modelin karşılaştırılması — turun asıl kazancı.** Orta Asya
+turlarında soya dayanan meşruiyet ölçülmüştü; burada öğretiye dayanan
+meşruiyet ölçüldü. İkisi yan yana konduğunda net bir karşıtlık çıkıyor:
+
+- Soya dayanan meşruiyet **sınanamaz** (bir kişi ya o soydandır ya
+  değildir), yavaş değişir, ve onu kuran devlet dağıldıktan sonra da
+  tanınabilirliğini korur — Orta Asya'da dört yüzyıl sürdüğü ölçüldü.
+- Öğretiye dayanan meşruiyet **sınanabilir** (uygulama öğretiye uygun
+  mu), hızlı değişir, her değişimi bir ıslah iddiası hâline getirir, ve
+  taşıyıcı aygıt dağıldığında öğreti de dağılır.
+
+Atlas ikisini üstünlük sıralaması olarak yazmıyor: öğreti modeli hanedan
+dışı kişilere iktidar yolu açıyor, soy modeli istikrar sağlıyor ama
+yetkiyi kapalı bir kümede tutuyor.
+
+**Aşanti — yazısız devlet aygıtı.** Kanıt dosyasındaki kısıtın öteki
+yüzü. Yazının bulunmaması karmaşık bir devlet aygıtının bulunmadığı
+anlamına gelmiyor: vergi, yargı, elçilik ve askerlik düzenleri işliyordu;
+hukuk kuralları ve protokol ezberleyicilerin sorumluluğundaydı ve
+sorumluluk kalıtsaldı. Bu, sözlü gelenek tartışmasındaki ölçütü doğrudan
+karşılıyor — aktarımın kuralları biliniyorsa güvenilirlik derecesi de
+değerlendirilebilir.
+
+İki ek gözlem: (1) altın tozu için standart ağırlık takımlarının
+kullanılması, yazıya gerek duymadan işleyen bir standardizasyon örneği
+— atlas bunu sikke ile aynı aileden sayıyor; (2) ilhak sonrası sembolün
+teslim edilmesi talebi geniş bir direniş üretti ve sembol teslim
+edilmedi: bir kurumun ortadan kaldırılması ile sembolünün ele
+geçirilmesi ayrı iki şey.
+
+**Üçüncü gözlem — taşıma maliyetinin ihracat bileşimini belirlemesi.**
+Orman kuşağında tekerlekli taşıma yoktu, yükler insan sırtındaydı. Altın
+ve esir bu kısıtın dışındaydı çünkü ikisi de birim ağırlık başına yüksek
+değer taşıyordu. Yani bir bölgenin hangi malı ihraç ettiği, o malın
+orada bol olmasından çok taşıma maliyetinin hangi malları elediğiyle
+açıklanabiliyor.
+
+**Kapı geri bildirimi.** KAPI 1, `batı-afrika` etiketindeki Türkçe
+karakteri reddetti; etiketler ASCII olmalı. İlk kez bu turda tetiklendi.
+
+**Kalibrasyon.** İki dosya da 26 bölümle yazıldığında %75-81'de kaldı.
+Bölüm sayısını artırmak yerine paragrafları uzatmak daha verimli:
+4 satırlık paragraflarla 30 bölüm hedefi tutuyor.

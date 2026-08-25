@@ -19,6 +19,7 @@ ilgili:
   - kavram-ictihad
   - kaynak-gazali-tehafut
   - dusunur-ibn-sina
+  - aktor-muvahhidler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

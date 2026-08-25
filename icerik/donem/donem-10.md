@@ -31,6 +31,7 @@ ilgili:
   - aktor-buhara-hanligi
   - aktor-hive-hanligi
   - aktor-hokand-hanligi
+  - aktor-asanti-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: avrupa

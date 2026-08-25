@@ -23,6 +23,7 @@ ilgili:
   - dusunur-ibn-haldun
   - kaynak-ibn-haldun-mukaddime
   - kavram-mesruiyet
+  - aktor-muvahhidler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

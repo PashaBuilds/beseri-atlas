@@ -23,6 +23,7 @@ ilgili:
   - aktor-kanem-bornu
   - kaynak-timbuktu-tarihleri
   - aktor-murabitlar
+  - aktor-muvahhidler
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

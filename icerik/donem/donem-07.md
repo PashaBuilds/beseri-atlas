@@ -47,6 +47,7 @@ ilgili:
   - aktor-ilhanlilar
   - aktor-cagatay-hanligi
   - aktor-murabitlar
+  - aktor-muvahhidler
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

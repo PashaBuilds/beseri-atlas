@@ -23,6 +23,7 @@ ilgili:
   - olay-atlantik-kole-ticareti
   - kavram-kanit-turu
   - aktor-kongo-kralligi
+  - aktor-asanti-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -45,6 +45,7 @@ ilgili:
   - aktor-hawai-kralligi
   - aktor-tonga-kralligi
   - aktor-hokand-hanligi
+  - aktor-asanti-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: afrika

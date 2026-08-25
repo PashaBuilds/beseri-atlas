@@ -31,6 +31,7 @@ ilgili:
   - dusunur-sankara
   - tartisma-orta-asya-neden-cekildi
   - aktor-kongo-kralligi
+  - aktor-asanti-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
