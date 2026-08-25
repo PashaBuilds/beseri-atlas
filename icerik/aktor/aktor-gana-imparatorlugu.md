@@ -29,6 +29,7 @@ ilgili:
   - kaynak-timbuktu-tarihleri
   - donem-07
   - aktor-maldiv-sultanligi
+  - tartisma-sozlu-gelenek-kaynak-mi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

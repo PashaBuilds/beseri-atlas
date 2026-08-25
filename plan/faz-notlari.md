@@ -1078,3 +1078,44 @@ dogrulanabilir bir dijital metninin bulunmamasi, dijital erisimin nasil
 dagildigina dair bir kayit. Kisit dosyanin govdesinde acikca yazili.
 
 Toplam makale 397 -> 399.
+
+## Tur 36 — tartisma katmani: atlasin kendi yontemini konu eden dosya (2026-08-25)
+
+**tartisma-sozlu-gelenek-kaynak-mi** (1506 kelime) yazildi. Bu, atlasin
+tartisma katmanindaki 37. dosya ama ilk kez **atlasin kendi yontemini**
+dogrudan konu ediyor: oteki tartisma dosyalari gecmis hakkindaki sorulari
+ele alir, bu dosya gecmisin nasil yazilabilecegini ele alir.
+
+Dort pozisyon kaydedildi. En dikkate deger bulgu, ikisinin — belge onceligi
+ile anlati cozumlemesi — birbirine taban tabana karsit gorunmesine ragmen
+**pratikte ayni sonucu uretmesi**: ikisi de sozlu aktarimdan olgu cikarmayi
+reddediyor, biri guvenilmez buldugu icin oteki yanlis soru saydigi icin.
+Konumlarin gerekcesiyle sonuclarinin ayri ayri degerlendirilmesi gerektigini
+gosteren bir ornek.
+
+### savunanlar alani ve uydurma atif riski
+
+Tartisma semasi her pozisyon icin en az bir `savunanlar` girdisi zorunlu
+kiliyor. Bu, dogrulanmamis atif riski tasiyor: bir kisiyi savunmadigi bir
+konuma yerlestirmek, atlasin en agir hatasi olur.
+
+Bu turda uygulanan kural: **yalnizca guvenle dogrulanabilen kisi adlari
+yazildi** (Vansina ve Ki-Zerbo icin sozlu gelenek yontemi, Ranke icin belge
+onceligi). Kalan iki pozisyonda kisi adi yerine **cizgi/yaklasim adi**
+kullanildi ("Surecsel arkeoloji cizgisi", "Folklor ve edebiyat incelemesi
+cizgisi"). Sema string kabul ettigi icin bu gecerli ve dogrulanamayan bir
+atiftan daha durust.
+
+Kuyruga eklendi: `savunanlar` alanina yazilan kisi adlarinin dogrulanmasi
+icin bir kapi dusunulmeli. Su an hicbir kapi bu alani denetlemiyor ve
+uydurma bir ad sessizce gecer.
+
+### Dosyanin atlas icin sonucu
+
+Dosyanin sonunda atlasin kendi uygulama tercihi de yazildi: sozlu aktarima
+dayanan bilgiler "kaynagin ne aktardiginin kaydi" olarak yazilir,
+"dogrulanmis olgu" olarak degil. Bu tercih zaten Bati Afrika, Amerika ve
+Orta Asya dosyalarinda uygulanmisti; artik gerekcesi tek bir yerde yazili
+ve o dosyalardan buraya bag var.
+
+Toplam makale 399 -> 400.

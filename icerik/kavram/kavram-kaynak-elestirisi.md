@@ -24,6 +24,7 @@ ilgili:
   - aktor-gana-imparatorlugu
   - aktor-sogdlular
   - dusunur-nagarjuna
+  - tartisma-sozlu-gelenek-kaynak-mi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

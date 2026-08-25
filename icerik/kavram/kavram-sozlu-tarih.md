@@ -17,6 +17,7 @@ ilgili:
   - kaynak-guaman-poma-nueva-coronica
   - kaynak-popol-vuh
   - kaynak-timbuktu-tarihleri
+  - tartisma-sozlu-gelenek-kaynak-mi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

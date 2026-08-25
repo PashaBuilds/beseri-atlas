@@ -26,6 +26,7 @@ ilgili:
   - kaynak-guaman-poma-nueva-coronica
   - kaynak-timbuktu-tarihleri
   - dusunur-zhu-xi
+  - tartisma-sozlu-gelenek-kaynak-mi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -27,6 +27,7 @@ ilgili:
   - aktor-ace-sultanligi
   - aktor-maldiv-sultanligi
   - aktor-bengal-sultanligi
+  - tartisma-sozlu-gelenek-kaynak-mi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

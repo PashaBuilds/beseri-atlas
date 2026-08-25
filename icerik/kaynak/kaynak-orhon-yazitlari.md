@@ -19,6 +19,7 @@ ilgili:
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - kaynak-yusuf-has-hacib-kutadgu-bilig
   - aktor-uygur-kaganligi
+  - tartisma-sozlu-gelenek-kaynak-mi
 okuma_onerisi: []
 yazar: "Göktürk kağanlık yazıcıları"
 eser_adi: "Orhon Yazıtları"
