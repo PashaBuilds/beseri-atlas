@@ -24,6 +24,7 @@ ilgili:
   - kavram-aletsiz-seyrusefer
   - kavram-kanit-turu
   - olay-waitangi-antlasmasi-1840
+  - tartisma-waitangi-hangi-metin
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

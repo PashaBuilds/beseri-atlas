@@ -23,6 +23,7 @@ ilgili:
   - kavram-kaynak-elestirisi
   - kavram-kanit-turu
   - kavram-somurgesizlesme
+  - tartisma-waitangi-hangi-metin
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

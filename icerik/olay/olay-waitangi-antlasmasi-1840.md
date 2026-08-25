@@ -23,6 +23,7 @@ ilgili:
   - kavram-kanit-turu
   - kavram-somurgesizlesme
   - aktor-hawai-kralligi
+  - tartisma-waitangi-hangi-metin
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

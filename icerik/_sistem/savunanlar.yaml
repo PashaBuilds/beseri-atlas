@@ -23,6 +23,30 @@
 # Dogrulanamiyorsa kisi adi yerine cizgi/yaklasim adi kullan.
 
 adlar:
+  - ad: "İmzalayanın anlayışını esas alan antlaşma yorumu çizgisi"
+    durum: kisi-degil
+    gectigi: [tartisma-waitangi-hangi-metin]
+  - ad: "Waitangi inceleme kurulunun yerleşik yaklaşımı"
+    durum: kisi-degil
+    gectigi: [tartisma-waitangi-hangi-metin]
+  - ad: "Sözleşme hukukunda belirsizlik kuralı çizgisi"
+    durum: kisi-degil
+    gectigi: [tartisma-waitangi-hangi-metin]
+  - ad: "Zayıf tarafı koruyan yorum yaklaşımı"
+    durum: kisi-degil
+    gectigi: [tartisma-waitangi-hangi-metin]
+  - ad: "Devlet egemenliğini kurulmuş bir olgu sayan yaklaşım"
+    durum: kisi-degil
+    gectigi: [tartisma-waitangi-hangi-metin]
+  - ad: "Yürürlük önceliği çizgisi"
+    durum: kisi-degil
+    gectigi: [tartisma-waitangi-hangi-metin]
+  - ad: "Antlaşmayı süregelen siyasi ilişki olarak okuyan yaklaşım"
+    durum: kisi-degil
+    gectigi: [tartisma-waitangi-hangi-metin]
+  - ad: "İki metinliliği veri sayan çizgi"
+    durum: kisi-degil
+    gectigi: [tartisma-waitangi-hangi-metin]
   - ad: "19. yüzyıldan bu yana süregelen ana akım okuma"
     durum: kisi-degil
     gectigi: [tartisma-tunc-cagi-cokusunun-nedeni]

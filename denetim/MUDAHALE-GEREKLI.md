@@ -611,3 +611,19 @@ Bolgenin kaynak ve dusunur katmanlari bos. 12 donemde serit hucresi bos.
 hangisinin baglayici sayilacagi atlasin en somut kaynak-elestirisi
 tartismasidir ve olay dosyasi bu tartismayi ac ik birakip tartisma
 dosyasina havale ediyor — ama dosya henuz yok. Oncelik: yuksek.
+
+### 2026-08-25 (ucuncu tur) — bir onceki turda acilan borc kapatildi
+
+`tartisma-waitangi-hangi-metin` yazildi. Okyanusya 7 -> 8 makale ve
+bolgenin ilk tartisma dosyasi.
+
+**Yeni borc — atlas geneline yayilan.** Dosyanin kaydettigi kural bir
+kunye kurali doguruyor: cok dilli bir belgeye atif yapilirken hangi
+dildeki metnin kastedildigi yazilmali. Atlasta bu bilgiyi tasimayan
+antlasma ve anayasa kunyeleri var; taranmadi. Oncelik: orta.
+
+**Yeni borc — tartisma dosyasinin acik ucu.** Iki metni ayri uygulama
+alanlarina bolmeyi oneren ve sorunu devletler hukukuna tasiyan
+yaklasimlar, kunyelenebilir kaynak bulunamadigi icin dosyaya alinmadi.
+Dort konum alanin tamami degil ve bu dosyanin metninde de yazili.
+Oncelik: dusuk.

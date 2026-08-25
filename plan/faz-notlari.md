@@ -1668,3 +1668,45 @@ veriyor; Maori metni için Colenso ekine inildi ve bu, olay dosyasında
 anılmalı (KAPI 2+3); aynı kaynaktan iki tırnaklı alıntı telif sınırını
 aşıyor (KAPI 7) — Maori terimlerinin ikisini birden tırnak içinde vermek
 yerine parafraz edildi.
+
+## Tur — Waitangi tartışma dosyası (25 Ağustos 2026)
+
+Eklenen: `tartisma-waitangi-hangi-metin`. Toplam 425 → 426.
+Okyanusya 7 → 8 makale, bölgenin ilk tartışma dosyası.
+
+**Neden bu.** Bir önceki turda olay dosyasını yazarken "bu konu için ayrı
+bir tartışma dosyası gereklidir" diye yazıp borç defterine kaydetmiştim.
+Bir turda açılan borcu bir sonraki turda kapatmak, defterin işe
+yaradığının somut kanıtı.
+
+**Dört konum.** İmzalayanın anladığı metin bağlar / belirsizlik
+hazırlayanın aleyhine yorumlanır / yürürlükteki düzeni kuran metin
+geçerlidir / soru hukuki değil siyasidir ve metin seçimiyle çözülmez.
+İlk ikisi aynı sonuca varıyor, üçüncüsü tersine gidiyor, dördüncüsü
+seçim yapmıyor — bu yapı dosyada ayrıca işlendi.
+
+**Savunanlar.** Sekiz adın sekizi de çizgi/yaklaşım adı, kişi adı yok.
+Bu bilinçli: kişi atfı için pozisyon düzeyinde doğrulama gerekiyor ve bu
+tartışmada doğrulanabilir kaynakla künyeleyebileceğim kişi atfı
+bulamadım. Kütüğe sekiz ad `kisi-degil` durumuyla eklendi. Kural dosyanın
+kendi metninde de açıkça yazıldı.
+
+**Dosyanın kaydettiği kural.** *Bir belgenin ne söylediği, hangi metninin
+okunduğuna bağlı olabilir ve bu bağlılık belgenin kendisinden okunmaz.*
+Kanıt dosyasındaki ölçümlerle aynı aileden: kaynağın biçimsel özelliği,
+içeriğinden bağımsız olarak sonucu etkiliyor ve bu etki ancak ayrıca
+sorulduğunda görünüyor.
+
+**Atlasa dönük somut sonuç.** Çok dilli bir belgeye atıf yapılırken hangi
+dildeki metnin kastedildiği künyede yazılmalı. Kural bu dosyadan sonra
+bütün antlaşma künyelerine uygulanacak; önceki künyelerdeki eksik borç
+defterine yazıldı.
+
+**Beyan edilen eksik.** Dört konum alanın tamamı değil. İki metni ayrı
+uygulama alanlarına bölmeyi öneren ve sorunu devletler hukukuna taşıyan
+yaklaşımlar künyelenebilir kaynak bulunamadığı için alınmadı; bu, hem
+dosyanın metninde hem defterde yazılı.
+
+**Kalibrasyon.** Tartışma dosyalarında ilk gövde %32'de kaldı — pozisyon
+blokları uzunluk sayımına girmiyor. Tartışma dosyası için gövde tek
+başına 22-24 bölüm gerektiriyor; bu ilk ölçüm.

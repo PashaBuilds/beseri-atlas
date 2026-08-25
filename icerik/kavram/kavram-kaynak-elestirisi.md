@@ -29,6 +29,7 @@ ilgili:
   - kaynak-camiut-tevarih
   - olay-waitangi-antlasmasi-1840
   - aktor-hawai-kralligi
+  - tartisma-waitangi-hangi-metin
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
