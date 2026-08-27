@@ -189,6 +189,21 @@ Atlas bu işlevi ayrıca kaydeder.[^k3] Bir sikkenin üzerindeki değişim,
 çoğu zaman bir iktidar değişiminin en hızlı yayılan
 duyurusudur.
 
+
+## Kredinin önceliği
+
+Kayıtlar, borcun paradan önce geldiğini
+gösterir.[^k1] En erken tabletlerin çoğu borç ve alacak
+kaydıdır.
+
+Bu, paranın takasın yerini aldığı anlatısını
+zayıflatır.[^k2] Ara aşama takas değil kayıtlı borç
+olabilir.
+
+Atlas bu tartışmayı ayrıca kaydeder.[^k3] Bir kurumun kökeni
+hakkındaki yaygın anlatı, en erken kayıtlarla her zaman
+uyuşmaz.
+
 ## Bu dosyanın sınırı
 
 Paranın tarihi, özellikleri ve türlerin ayrıntısı burada ayrı başlıklar altında

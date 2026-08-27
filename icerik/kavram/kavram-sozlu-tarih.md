@@ -187,6 +187,21 @@ Atlas bu karşılaştırmayı yeğler.[^k3] İki bağımsız kanıt türünün
 örtüşmesi, tek tek her birinden güçlü bir
 bulgudur.
 
+
+## Yakın dönemde kullanımı
+
+Kavram yalnızca eski dönemler için değildir.[^k1] Yakın dönemde
+kayıtlı görüşme, kayıt tutmayan kesimlerin tek
+kaynağıdır.
+
+Bu kayıtlar, resmî arşivin dışında kalanları
+gösterir.[^k2] Yazılı kaydın sessiz kaldığı yerde
+konuşurlar.
+
+Atlas bu işlevi ayrıca kaydeder.[^k3] Sözlü kayıt, kaydı olmayanların
+kaydını üretmenin en doğrudan
+yoludur.
+
 ## Bu dosyanın sınırı
 
 Yöntemin teknikleri, arşivleme ve etik kurallar burada ayrı başlıklar altında ele
