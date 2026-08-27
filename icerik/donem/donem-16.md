@@ -662,6 +662,18 @@ Kuralın gerekçesi izlenebilirliktir.[^k5] Bir dosyanın nasıl
 değiştiğinin kaydı, dosyanın kendi içeriği kadar bilgi
 taşır.[^k3][^k4]
 
+
+## Dosyanın bıraktığı soru
+
+Dosya bir soruyla kapanır.[^k3] Önceki dönemin eğilimi tersine mi
+döndü, yoksa yalnızca yavaşladı mı.
+
+İki cevap farklı sonuçlar doğurur.[^k1] Tersine dönmüşse yeni bir
+dönem başlamıştır; yavaşlamışsa aynı dönemin geç aşamasındayız.
+
+Atlas cevabı vermez ve soruyu açık tutar.[^k5] Bu, açık uçlu bir dönem
+dosyasının verebileceği en dürüst kapanıştır.[^k2][^k4]
+
 ## Fikir dünyası
 
 Dönemin fikir dünyasının merkezinde, büyüme varsayımının kendisinin sorgulanması
