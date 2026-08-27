@@ -671,7 +671,7 @@ Talep dönem içinde karşılık bulmadı.[^k2] Yeni kurulan düzenlerin
 neredeyse tamamı oy hakkını erkeklerle sınırladı.
 
 Atlas bu sonucu ayrıca kaydeder.[^k4] Bir metnin evrensel ifadeyle
-yazılması, uygulamada evrensel olacağını
+yazılması, o metnin uygulamada da evrensel olacağını
 göstermez.
 
 ## İşçi örgütlenmesinin başlangıcı
