@@ -25,6 +25,7 @@ ilgili:
   - aktor-portekiz-imparatorlugu
   - olay-kongo-serbest-devleti
   - kavram-apartheid
+  - olay-herero-nama-1904
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

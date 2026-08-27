@@ -26,6 +26,7 @@ ilgili:
   - kavram-ulus-devlet
   - tartisma-tarihsel-sayilar-nasil-okunur
   - kavram-apartheid
+  - olay-herero-nama-1904
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

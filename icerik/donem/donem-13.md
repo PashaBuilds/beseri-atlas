@@ -37,6 +37,7 @@ ilgili:
   - olay-rus-turkistan-fethi
   - kavram-pamuk-tek-urun
   - olay-kongo-serbest-devleti
+  - olay-herero-nama-1904
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 serit:

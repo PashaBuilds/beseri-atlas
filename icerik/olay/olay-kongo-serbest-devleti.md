@@ -23,6 +23,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - kavram-belge-okumasi
   - kavram-pamuk-tek-urun
+  - olay-herero-nama-1904
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

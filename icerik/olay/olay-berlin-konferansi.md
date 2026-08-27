@@ -24,6 +24,7 @@ ilgili:
   - olay-adva-1896
   - olay-kongo-serbest-devleti
   - aktor-dahomey-kralligi
+  - olay-herero-nama-1904
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

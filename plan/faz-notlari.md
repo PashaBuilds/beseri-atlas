@@ -3554,3 +3554,39 @@ durum.
 
 Afrika'da kalan: Herero-Nama. Blue Book 1918 (Wellcome taraması)
 doğrulandı.
+
+## 2026-08-26 — Herero ve Nama (1904–1908)
+
+Afrika listesindeki son eksik kapatıldı.
+
+Üç ölçüm:
+
+1. Bir kararın yazılı olması, uygulamayı değil kanıt durumunu
+   değiştirir. Bu olayda yazılı bir emir var; benzer olayların
+   çoğunda böyle bir metin bulunmuyor. Ayrıca üç ayrı tarih ayrı ayrı
+   kaydedildi: emrin verilmesi, geri alınması, uygulamanın fiilen
+   durması.
+2. Bir raporun varlığı, onu üretenin çıkarının sürmesine bağlıdır.
+   1918'de hazırlanan resmî rapor, on yıl sonra iki devlet arasındaki
+   ilişkiler düzelince dolaşımdan çekildi ve nüshaları toplatıldı.
+   Kongo dosyasıyla birlikte okunduğunda simetri ortaya çıkıyor: aynı
+   mekanizma (soruşturan devletin kendi çıkarı) bir kaydı üretebiliyor
+   da ortadan kaldırabiliyor da.
+3. Bir haksızlığın tanınması iki devlet arasında görüşülüyorsa,
+   tanınan taraf o görüşmede yine muhatap sayılmamıştır. Etkilenen
+   toplulukların temsilcileri 21. yüzyıldaki tanıma görüşmelerinde
+   taraf değildi.
+
+Üçüncüsü atlasta tekrar eden bir ölçümün yeni bir örneği: bölgede
+yaşamayanlarca çizilen sınırlar, orada bulunmayanlarca alınan
+kararlar, ve şimdi etkilenenler olmadan yapılan tanıma görüşmeleri.
+Dosyada bu üçlü açıkça birbirine bağlandı ve tekrarın kendisinin ayrı
+bir bulgu olduğu yazıldı.
+
+Terim tartışması dosyada karara bağlanmadı; `tartisma-soykirim-kavrami`
+dosyasına bağlandı.
+
+Yeni birincil belge: 1918 tarihli HMSO raporu (Wellcome Library
+taraması) — geri çekilme işleminden kurtulan nüshalardan biri.
+
+Afrika listesi tamamlandı. Sonraki turlarda başka bölgelere geçilecek.

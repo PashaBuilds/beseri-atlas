@@ -36,6 +36,7 @@ ilgili:
   - kavram-apartheid
   - kavram-vatandaslik
   - olay-cezayir-savasi
+  - olay-herero-nama-1904
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

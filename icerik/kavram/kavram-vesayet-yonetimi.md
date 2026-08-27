@@ -27,6 +27,7 @@ ilgili:
   - aktor-banaba
   - aktor-yeni-hebridler-ortak-yonetimi
   - kavram-vatandaslik
+  - olay-herero-nama-1904
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -72,6 +72,7 @@ ilgili:
   - kavram-toplumsal-cinsiyet-duzeni
   - olay-kongo-serbest-devleti
   - olay-cezayir-savasi
+  - olay-herero-nama-1904
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

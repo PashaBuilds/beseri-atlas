@@ -18,6 +18,7 @@ ilgili:
   - olay-1914-temmuz-krizi
   - olay-versailles-antlasmasi
   - olay-italyan-birligi
+  - olay-herero-nama-1904
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
