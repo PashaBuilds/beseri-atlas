@@ -663,6 +663,21 @@ Atlas bu bağı açıkça kurar.[^k2] Bir tüketim alışkanlığının
 yaygınlaşması, onu mümkün kılan üretim düzeninin de
 yaygınlaşmasıdır.
 
+
+## Zaman ölçümü
+
+Dönemde saat üretimi ve zaman ölçümü belirgin biçimde
+yaygınlaştı.[^k1] Deniz seyri için gereken hassasiyet, taşınabilir
+saatlerde de karşılık buldu.
+
+Zamanın ortak biçimde ölçülmesi, işin ve ulaşımın düzenlenmesini
+değiştirdi.[^k2] Gün, olaylara göre değil sayıya göre bölünmeye
+başladı.
+
+Atlas bu değişimi ayrıca kaydeder.[^k4] Ortak bir ölçü biriminin
+yaygınlaşması, o birimi kullananlar arasında yeni bir eşgüdüm
+imkânı üretir.[^k3]
+
 ## Fikir dünyası
 
 Aydınlanma'nın temel iddiası, aklın toplumsal ve siyasi reforma
