@@ -626,6 +626,47 @@ Atlas bu ayrışmayı ayrıca kaydeder.[^k1] Benzer bir çözülmeden
 farklı sonuçlar çıkması, sonucun çözülmenin kendisiyle değil
 zeminiyle belirlendiğini gösterir.
 
+
+## İklim kaydı
+
+Dönemin ortasında birkaç yıl süren belirgin bir soğuma
+kaydedilmiştir.[^k5] Kayıt, ağaç halkalarından ve buz
+çekirdeklerinden gelir.
+
+Bu kanıt türü yazılı kayıttan bağımsızdır.[^k4] Aynı yıllar için yazılı
+kaynaklarda da olağandışı hava anlatıları
+bulunur.
+
+Atlas bu yakınsamayı ayrıca kaydeder.[^k1] Birbirinden bağımsız iki
+kanıt türünün aynı yılı işaret etmesi, tek tek her ikisinden de güçlü
+bir bulgudur.
+
+## İklim ile olay arasındaki bağ
+
+Soğumanın hangi sonuçları doğurduğu tartışmalıdır.[^k5] Hasat
+kaybı, kıtlık ve göç arasındaki zincir savunulur.
+
+Zincirin her halkası ayrı ayrı gösterilmelidir.[^k4] Zaman olarak
+çakışma tek başına yeterli değildir.
+
+Atlas bu ihtiyatı ayrıca kaydeder.[^k1] Bir iklim olayıyla bir siyasi
+olayın aynı yıllara denk gelmesi, aralarındaki bağın
+kanıtı değildir.
+
+## Yazının sürekliliği
+
+Bölgeye göre yazılı kaydın sürekliliği farklıdır.[^k3] Bazı yerlerde
+kayıt hiç kesilmedi, bazılarında yüzyıllarca
+seyreldi.
+
+Kesintinin olduğu yerlerde sonraki dönemler için bilgi büyük ölçüde
+arkeolojiye dayanır.[^k5] Bu, sorulabilecek soruları da
+sınırlar.
+
+Atlas bu bağı ayrıca kaydeder.[^k4] Bir bölge hakkında hangi soruların
+sorulabileceği, o bölgenin bıraktığı kanıt türüyle
+belirlenir.
+
 ## Fikir dünyası
 
 Dönemin fikir dünyası, dinî değişimin siyasi düzenle iç içe geçmesiyle tanımlanır.
