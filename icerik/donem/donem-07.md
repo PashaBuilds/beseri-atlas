@@ -708,6 +708,19 @@ Atlas bu durumu ayrıca kaydeder.[^k2] Bir düzen hakkındaki kaydın
 tabi olanlarca tutulması, o düzenin anlatısını da onların
 konumundan kurar.
 
+
+## Dönemin adlandırılması
+
+Dönem için kullanılan adlar bölgeye göre değişir.[^k1] Bir bölgede
+hanedan adıyla, başka bölgede sefer adıyla anılır.
+
+Atlas dört ayrı adı bir arada kullanır.[^k2] Tek bir bölgenin adını
+seçmek, dönemin ekseninin o bölgede kurulduğu izlenimi
+verir.
+
+Oysa eksen bağlantının kendisidir.[^k5] Bağlantı hiçbir bölgeye ait
+değildir; hepsini birbirine bağlayan şeydir.[^k3]
+
 ## Fikir dünyası
 
 Avrasya'nın tek bir bağlantı ağına girmesi, fikirlerin de mal gibi dolaşması
