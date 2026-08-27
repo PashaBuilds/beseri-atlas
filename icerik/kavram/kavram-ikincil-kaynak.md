@@ -187,6 +187,20 @@ Atlas bu devralmadan kaçınır.[^k3] Bir derlemenin yapısı, dayandığı
 tek kaynağın içindekiler sayfası hâline
 gelmemelidir.
 
+
+## Aktarım hatasının birikmesi
+
+Zincirin her halkasında küçük bir sapma
+olabilir.[^k1] Sapmalar birikir.
+
+Uzun bir zincirin sonundaki metin, başındakinden belirgin biçimde
+farklı olabilir.[^k2] Fark kasıtlı olmak zorunda
+değildir.
+
+Atlas bu birikmeyi ayrıca kaydeder.[^k3] Kasıt olmadan da bozulan bir
+aktarım, kasıtlı bir çarpıtma kadar yanıltıcı
+olabilir.
+
 ## Bu dosyanın sınırı
 
 Alan alan farklar, ikincil literatürün türleri ve kullanım kuralları burada ayrı

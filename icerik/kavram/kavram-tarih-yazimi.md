@@ -214,6 +214,20 @@ Atlas bu sınırı her dosyada yineler.[^k3] Bir topluluğun yalnızca
 dışarıdan kaydedilmiş olması, o topluluğun kendi kaydını tutmadığını
 göstermez.
 
+
+## Sonradan yazılan tarih
+
+Sekizinci soru zamanlamadır.[^k1] Bir metin olaydan ne kadar sonra
+yazılmıştır.
+
+Aradaki süre, hem bellek kaybını hem sonraki bilginin geriye
+yansıtılmasını üretir.[^k2] İkisi ters yönde
+işler.
+
+Atlas bu aralığı her kaynak künyesinde belirtir.[^k3] Bir metnin
+yazılış tarihi, anlattığı olayın tarihinden ayrı bir
+veridir.
+
 ## Bu dosyanın sınırı
 
 Gelenek gelenek ayrıntılar, yöntem tartışmaları ve 20. yüzyıl okulları burada

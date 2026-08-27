@@ -224,6 +224,21 @@ Atlas bu durumu ayrıca kaydeder.[^k3] İki kanıtın çelişmesi, birinin
 yanlış olduğunu değil ikisinin farklı şeyleri kaydettiğini
 gösterebilir.
 
+
+## Sahiciliğin sınanması
+
+Bir birincil kaynağın sahici olup olmadığı ayrı bir
+sorudur.[^k1] Malzeme, dil ve içerik tutarlılığı sınama
+araçlarıdır.
+
+Sahtecilik çoğu zaman kendi dönemini ele verir.[^k2] Sahte bir belge,
+yapıldığı dönemin varsayımlarını
+taşır.
+
+Atlas bu sınamayı künye kapısında otomatik
+yürütür.[^k3] Doğrulanamayan bir künye, atlasa
+giremez.
+
 ## Bu dosyanın sınırı
 
 Kaynak bulma yöntemleri, alanlara göre farklar ve sahtecilik örnekleri burada
