@@ -164,6 +164,33 @@ Atlas bu genellemeyi ayrıca kaydeder.[^k3] Bir caydırıcılık aracının
 kullanılması, o aracın amacına ulaşmadığının
 kaydıdır.
 
+
+## Tarihsel öncüller
+
+Kavram yirminci yüzyılda adlandırıldı ama mekanizma çok daha
+eskidir.[^k1] Sur, kale ve gösterişli askerî geçit aynı mantığı
+kullanır.
+
+Ortak yan, kapasitenin görünür kılınmasıdır.[^k2] Görünmeyen bir
+kapasite caydırmaz.
+
+Atlas bu sürekliliği ayrıca kaydeder.[^k3] Bir mekanizmanın
+adlandırılması, o mekanizmanın ortaya çıkış tarihi değildir.
+
+## Yanlış hesap riski
+
+Mekanizma karşı tarafın doğru hesap yapmasına
+bağlıdır.[^k1] Yanlış bilgi ya da yanlış okuma, caydırıcılığı
+başarısız kılar.
+
+Bu, iletişimi mekanizmanın parçası hâline
+getirir.[^k2] Kapasitenin bilinmesi, kapasitenin kendisi kadar
+önemlidir.
+
+Atlas bu bağı ayrıca kaydeder.[^k3] Gizli tutulan bir kapasite
+caydırmaz; caydırıcılık gizlilikle değil görünürlükle
+işler.
+
 ## Bu dosyanın sınırı
 
 Nükleer caydırıcılık kuramı, örnekler ve eleştiriler burada ayrı başlıklar

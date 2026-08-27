@@ -166,6 +166,29 @@ Atlas bu yanlılığı ayrıca kaydeder.[^k3] Bir yazı geleneğinin az
 bilinmesi, o geleneğin az üretim yaptığını
 göstermez.
 
+
+## Yazının ilk işi
+
+En erken yazılı belgeler edebî ya da dinî değildir.[^k1] Muhasebe
+kayıtlarıdır: kaç ölçek tahıl, kaç baş hayvan, kimden kime.
+
+Bu, yazının neden icat edildiğini gösterir.[^k2] Anlatı için değil
+sayma ve izleme için.
+
+Atlas bu sırayı ayrıca kaydeder.[^k3] Bir aracın ilk kullanımı,
+sonraki kullanımlarının hiçbirini önceden belirlemez.
+
+## Bağımsız icat
+
+Yazının birden çok yerde bağımsız icat edildiği kabul
+edilir.[^k1] Aktarım gösterilemeyen örnekler vardır.
+
+Bağımsızlık, sistemlerin yapısal farkından ve coğrafi uzaklıktan
+çıkarılır.[^k2] Kanıt dolaylıdır.
+
+Atlas bu bulguyu ayrıca kaydeder.[^k3] Aynı çözümün birden çok yerde
+bulunması, aktarımı değil ortak bir ihtiyacı gösterir.
+
 ## Bu dosyanın sınırı
 
 Yazının tarihi, sistemlerin ayrıntısı ve çözümleme yöntemleri burada ayrı

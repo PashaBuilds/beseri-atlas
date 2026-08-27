@@ -4391,3 +4391,31 @@ Yöntem notu: künye değiştiren yardımcı betik `tur:` alanını
 atlıyordu çünkü o alan `ad:` satırından önce geliyor. Üç dosyada
 yanlış tür kaldı ve elle düzeltildi. Betik bir sonraki kullanımda
 düzeltilmeli.
+
+## 2026-08-26 — Dört kavram dosyası daha
+
+`kavram-salgin` 207→607, `kavram-kuresellesme` 208→603,
+`kavram-yazi-sistemi` 210→600, `kavram-caydiricilik` 211→600.
+
+Kalibrasyon notu: kavram dosyalarında bir bölüm (üç kısa paragraf)
+yaklaşık 45 kelime tutuyor. +400 kelime için ~9 bölüm gerekiyor;
+önceki tahminim 8'di ve iki geçiş gerektirdi.
+
+Öne çıkan kayıtlar:
+- Salgın üç koşula bağlandı (bulaşıcılık, yoğunluk, bağlantı) ve
+  salgının bir hastalık özelliği değil, hastalık ile yerleşim
+  düzeninin kesişimi olduğu yazıldı.
+- Küreselleşme tek bir döneme ait olmaktan çıkarıldı: iki dalga ayrı
+  ayrı ele alındı ve farkları (bitmiş ürün ticareti vs. parçalanmış
+  üretim) kaydedildi. Tersine dönebilirlik ayrıca ele alındı — bazı
+  bileşenler tersinir, iletişim maliyetindeki düşüş değil.
+- Yazı sistemi: işaret sayısı teknik bir ayrıntı değil bir erişim
+  ölçütü. Bir dilin başka bir yazı sistemiyle kaydedilmesinin o dilin
+  bir bölümünü kayıt dışı bıraktığı kaydedildi.
+- Caydırıcılık: mekanizmanın sınanamazlık sorunu açıkça yazıldı —
+  saldırı olmadığında caydırıcılığın işlediği mi yoksa niyet hiç
+  bulunmadığı mı bilinmiyor. Hiç sınanmamış bir mekanizma başarılı
+  değil, yalnızca çürütülmemiş sayılır. Gizli tutulan bir kapasitenin
+  caydırmayacağı da ayrıca kaydedildi.
+
+Durum: 505 dosya, hedefin altında 265.
