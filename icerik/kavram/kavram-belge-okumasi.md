@@ -35,6 +35,7 @@ ilgili:
   - olay-kongo-serbest-devleti
   - kavram-apartheid
   - kavram-vatandaslik
+  - olay-cezayir-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

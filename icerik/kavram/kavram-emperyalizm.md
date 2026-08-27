@@ -24,6 +24,7 @@ ilgili:
   - aktor-samoa-kralligi
   - kavram-vesayet-yonetimi
   - olay-kongo-serbest-devleti
+  - olay-cezayir-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

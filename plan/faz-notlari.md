@@ -3488,3 +3488,34 @@ yapıyı sabitlemesi) aynı olmak anlamına gelmiyor.
 
 Afrika'da kalan eksikler: Cezayir savaşı, Herero-Nama, Oyo, Dahomey.
 Cezayir için TDV CEZAYİR ve marxists.org Fanon arşivi doğrulandı.
+
+## 2026-08-26 — Cezayir Savaşı (500. makale)
+
+Ana ölçüm: bir çatışmaya verilen ad, karşı tarafa hangi hukuki konumun
+tanındığını belirler; savaş demek karşı tarafı taraf saymaktır.
+Yöneten devlet otuz yedi yıl boyunca "savaş" demedi, ve bunun somut
+sonucu vardı — savaş hukukunun (esir statüsü, tarafsız gözlem, savaş
+suçu çerçevesi) uygulanmaması.
+
+Bu, atlasta adlandırma ölçümünün üçüncü örneği: Kongo Serbest Devleti
+("serbest" ve "devlet"), zorunlu emek biçimleri (köleliğe
+çevrilmemesi) ve burada. Üçünde de ad, karşılanması gereken itirazı
+belirliyor. Dosyada bu üçlü açıkça birbirine bağlandı: bir düzenin adı,
+hangi hukuka tabi olmak istemediğini gösterir.
+
+İkinci ölçüm — vatandaşlık dosyasının doğrudan uygulaması: bir toprağı
+içeri almak ile orada yaşayanları içeri almak ayrı iki karardır ve biri
+diğerini gerektirmez. Cezayir hukuken il olarak yönetiliyordu ama
+nüfusun büyük bölümü tam vatandaş sayılmıyordu. Oy hakkının kimlere
+tanınacağının ilkeden değil aritmetikten belirlendiği ayrıca yazıldı.
+
+Üçüncü: Gandhi dosyasındaki koşulun doğrulaması — sorgu yöntemlerinin
+yöneten devletin kendi kamuoyunda tartışılması savaşın seyrini
+etkiledi. Yöntem, karşı tarafın kendi kamuoyuna hesap vermek zorunda
+olduğu yerde işliyor.
+
+Ayrıca kaydedildi: bir olayın kaydına erişim tarihi, o olay hakkındaki
+bilginin tarihidir; arşivlerin kademeli açılması önceki tanıklıkların
+bir bölümünü doğruladı bir bölümünü değiştirdi.
+
+Afrika'da kalan: Herero-Nama, Oyo, Dahomey.

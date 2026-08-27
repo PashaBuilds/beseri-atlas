@@ -24,6 +24,7 @@ ilgili:
   - olay-arap-bahari
   - olay-paris-iklim-anlasmasi
   - tartisma-nufus-artisi-tehdit-mi
+  - olay-cezayir-savasi
 okuma_onerisi: []
 serit:
   - bolge: kuresel

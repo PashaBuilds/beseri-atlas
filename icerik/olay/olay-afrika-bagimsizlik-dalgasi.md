@@ -23,6 +23,7 @@ ilgili:
   - dusunur-fanon
   - kaynak-afrika-birligi-sarti
   - kavram-apartheid
+  - olay-cezayir-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

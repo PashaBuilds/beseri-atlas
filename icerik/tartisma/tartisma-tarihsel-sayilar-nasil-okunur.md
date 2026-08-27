@@ -71,6 +71,7 @@ ilgili:
   - kavram-takvim
   - kavram-toplumsal-cinsiyet-duzeni
   - olay-kongo-serbest-devleti
+  - olay-cezayir-savasi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

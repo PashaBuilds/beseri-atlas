@@ -18,6 +18,7 @@ ilgili:
   - olay-1973-petrol-krizi
   - olay-kuba-fuze-krizi
   - olay-11-eylul
+  - olay-cezayir-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

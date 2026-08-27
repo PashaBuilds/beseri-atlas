@@ -22,6 +22,7 @@ ilgili:
   - kavram-mesruiyet
   - kavram-sehir-devleti
   - kaynak-insan-haklari-beyannamesi
+  - olay-cezayir-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -24,6 +24,7 @@ ilgili:
   - olay-bandung-konferansi
   - dusunur-du-bois
   - kavram-apartheid
+  - olay-cezayir-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -38,6 +38,7 @@ ilgili:
   - olay-pasifik-nukleer-denemeleri
   - dusunur-ambedkar
   - dusunur-gandhi
+  - olay-cezayir-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
