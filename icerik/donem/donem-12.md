@@ -735,6 +735,16 @@ Atlas bu yöntemi ayrıca kaydeder.[^k1] Bir düzenin denetimi, kurumları
 kaldırmadan da ele geçirilebilir; oy hakkının koşulunu değiştirmek
 yeterli olabilir.[^k5]
 
+
+## Dönemin adlandırılması
+
+Dönem için kullanılan adlar farklıdır.[^k1] Bazı adlandırmalar sermaye
+birikimini, bazıları imparatorluk genişlemesini öne
+çıkarır.
+
+Atlas ikisini birlikte adlandırır.[^k5] İki olgu aynı yıllarda ve aynı
+mekanizmayla birbirine bağlıdır.[^k6]
+
 ## Fikir dünyası
 
 Dönemin fikir dünyasının merkezinde emperyalizmin gerekçelendirilmesi durur.
