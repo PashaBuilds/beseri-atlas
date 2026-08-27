@@ -629,6 +629,43 @@ Atlas bu bağı ayrıca kaydeder.[^k4] Demirin etkisi savaş alanından çok
 tarla açmada görülür ve bu, kaydın daha az
 gösterdiği yandır.
 
+
+## Yazının iki geleneği
+
+Dönemde iki ayrı yazı geleneği bir arada işledi.[^k1] Biri işaret
+sayısı çok olan eski düzenler, diğeri az işaretli ses temelli
+düzen.
+
+İkincisi birincinin yerini hemen almadı.[^k4] İki gelenek yüzyıllarca
+yan yana kullanıldı.
+
+Atlas bu birlikteliği ayrıca kaydeder.[^k3] Daha kolay bir aracın
+ortaya çıkması, mevcut aracı kendiliğinden ortadan kaldırmaz; iki
+düzen farklı işlerde sürebilir.
+
+## Kimin yazdığı değişiyor
+
+Değişimin asıl sonucu, yazanın kimliğindedir.[^k1] Eski düzende yazı,
+saraya bağlı kâtiplerin işiydi.
+
+Yeni düzende tüccar, denizci ve zanaatkâr da yazabiliyordu.[^k3]
+Buluntularda gündelik yazışma ve mülkiyet işaretleri
+artar.
+
+Atlas bu genişlemeyi ayrıca kaydeder.[^k4] Bir yazı düzeninin
+yaygınlaşması, o düzende hangi konuların kayda geçtiğini de
+değiştirir.
+
+## Dönemin adlandırılması
+
+Dönem için kullanılan adlar malzemeye göredir.[^k1] Bu adlandırma,
+teknolojinin belirleyici sayıldığı bir çerçeveyi
+taşır.
+
+Atlas bu çerçeveyi kullanır ama tek başına yeterli
+saymaz.[^k3] Malzeme değişimi dönemin nedeni değil, dönemi tanımlayan
+sonuçlardan biridir.[^k4]
+
 ## Fikir dünyası
 
 Saray ekonomisinin çöküşü, saray kayıt sistemlerinin de çöküşü demektir. Yunan
