@@ -622,6 +622,19 @@ Bu bir yorumdur ve mutlaklaştırılmaz.[^k5] Aradaki yılları bağımsız
 bir dönem sayan okuma da aynı kayıtlarla
 uyumludur.[^k2]
 
+
+## Önceki dönemle bağ
+
+Dönem, önceki dönemin kurduğu ittifak ve silahlanma düzeninden
+doğdu.[^k1] Kriz, o düzenin içinde birikmişti.
+
+Bu bağ, savaşın kaçınılmaz olduğunu göstermez.[^k5] Aynı düzen içinde
+başka kararlar da mümkündü.
+
+Atlas iki iddiayı ayrı tutar.[^k6] Bir sonucun zeminini göstermek,
+o sonucun zorunlu olduğunu göstermekle aynı şey
+değildir.[^k2]
+
 ## Fikir dünyası
 
 Dönemin fikir haritası iki kutup arasında gerildi. Çağ, siyasi olarak komünizmin
