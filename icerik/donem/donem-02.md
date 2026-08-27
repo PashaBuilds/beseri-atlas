@@ -678,6 +678,21 @@ Atlas soruyu açık tutar.[^k4] İki olgunun aynı yüzyıllara düşmesi,
 hangisinin diğerini öncelediğini
 göstermez.
 
+
+## Kentin iç düzeni
+
+Kazılar kentlerin planlı bölümlere ayrıldığını
+gösterir.[^k1] Tapınak, saray, zanaat mahallesi ve konut alanları
+ayrıdır.
+
+Bu ayrım bir yönetim kararının izidir.[^k3] Planlı bir kent, planı
+uygulatacak bir otorite
+gerektirir.
+
+Atlas bu izi ayrıca kaydeder.[^k4] Bir yerleşimin planlı olması,
+orada merkezî bir yetkinin bulunduğunun doğrudan maddi
+kanıtıdır.
+
 ## Fikir dünyası
 
 Yazının ortaya çıkışı bu dönemin fikir dünyasını, önceki dönemden niteliksel
