@@ -3657,3 +3657,35 @@ adları `ne_trd_gnfs_zs` ve `it_net_user_zs`; atlasın veri
 dosyalarındaki dizeler alınarak düzeltildi.
 
 Plan: her turda bir dönem dosyası. 15 dosya kaldı.
+
+## 2026-08-26 — donem-14 onarıldı (452 → 2517)
+
+İkinci dönem dosyası. Aynı yöntem: uzunluk değil, atlasın kendi
+ölçütlerinin döneme uygulanması.
+
+Öne çıkan kayıtlar:
+- İki büyük eğilim (iki kutuplu rekabet ve sömürgesizleşme) aynı
+  yıllara sığıyor ve bağımsız değil: bağımsızlaşan her yeni devlet iki
+  tarafın da kazanmak istediği bir taraf hâline geldi. Aynı olay bir
+  tarafta kurtuluş, diğerinde nüfuz alanı genişlemesi olarak kayıtlı.
+- Vekâlet savaşlarının maliyet dağılımı ölçüm olarak yazıldı: bir
+  rekabetin maliyetinin nerede biriktiği, kimin adına yürütüldüğünden
+  ayrı bir veri.
+- Sınırların devralınması, atlasın "dışarıda alınan karar" ölçümüne
+  bağlandı: karar bir kez dışarıda alındığında etkisi kendi
+  kaldırılmasından sonra da sürer.
+- Kalkınma yarışının sayıları: iki taraf da kendi istatistik düzeniyle
+  ölçüyordu. İki tarafın kendi ölçtüğü sayılarla yürüttüğü bir yarışta
+  sayılar da yarışın parçasıdır.
+- Üçüncü yol ayrıca kaydedildi — bir dönemi iki seçenekle anlatmak,
+  denenen üçüncü yolları görünmez kılar.
+- Blok içi çatışmalar da kaydedildi: iki kutuplu anlatı bunları
+  görünmez kılıp dönemi olduğundan basit gösteriyor.
+- Nüfus artışının nedeni doğum değil ölüm oranındaki düşüş olarak
+  ayrıştırıldı.
+
+İki yeni veri kaynağı künyelendi (kişi başına gelir ve kentleşme
+serileri). Bu kez doğrulama dizeleri baştan atlasın veri
+dosyalarından alındı; KAPI 10 ilk seferde geçti.
+
+Kalan dönem dosyaları: 01–13 ve 16.
