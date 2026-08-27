@@ -4256,3 +4256,47 @@ denediğim archive.org kimliği 404 döndü, atlasın kendi kaynak
 dosyasındaki doğrulanmış URL kullanıldı).
 
 Kalan dönem dosyası: 01.
+
+## 2026-08-26 — DÖNEM KATMANI TAMAMLANDI
+
+`donem-01` (MÖ 10000–3000) onarıldı: 726 → 2500 kelime. On altıncı ve
+son dönem dosyası.
+
+Bu dosyanın ekseni, tarımın yayılmasının bir "iyileşme" olmaması:
+buluntular tarıma geçen topluluklarda beslenmenin çeşitsizleştiğini ve
+çalışma süresinin arttığını gösteriyor. Ölçüm: bir üretim biçimi, onu
+benimseyenler için iyi olduğu için değil daha çok insan taşıyabildiği
+için yayılabilir.
+
+Diğer kayıtlar:
+- Anıtsal yapıların tarımdan önce kurulmuş olması, nedensellik
+  sıralamasını tersine çeviriyor. Aynı kanıtla iki yön uyumluysa,
+  kanıt yönü belirlemeye yetmiyor.
+- Çanak çömlek tipi ile etnik grup eşitlenmesi bir hata olarak
+  kaydedildi: maddi kültürün dağılımı, nüfusun dağılımıyla aynı olmak
+  zorunda değil. Genetik kanıtın girişi bunu bağımsız olarak
+  sınayabilir hâle getirdi.
+- Mezar okuması: zengin bir mezar, ölünün zenginliğini değil gömenlerin
+  harcayabildiğini gösteriyor.
+- Savunma yapısının varlığı, saldırının gerçekleştiğini değil
+  beklendiğini gösteriyor.
+- Dönem adının müze sınıflandırmasından geldiği ve o müzenin
+  koleksiyonunun coğrafyasını taşıdığı ayrıca beyan edildi.
+
+DÖNEM KATMANI DURUMU — hepsi hedefte (2500–4000):
+01:2499 02:2549 03:2550 04:2526 05:2549 06:2536 07:2550 08:2552
+09:2550 10:2583 11:2549 12:2548 13:2560 14:2568 15:2552 16:2553
+
+Başlangıç durumu 433–1142 kelime aralığındaydı. Atlasın omurgası artık
+gövdesi kadar sağlam.
+
+Bu iş sırasında yan ürün olarak yapılanlar:
+- Beş dosyada ikinci Wikipedia künyeden çıkarıldı (donem-03, 06 ve
+  başka dosyalar), yerlerine birincil kaynak veya TDV maddesi kondu.
+- donem-05'te dönem dışı bir kaynak (Thukydides, MÖ 5. yy, 200–650
+  dosyasında) Prokopios ile değiştirildi.
+- ctext.org'un çökmesi bu tarama sırasında yakalandı ve dokuz dosya
+  onarıldı.
+
+Sıradaki iş: korpusta hâlâ hedefin altında 281 dosya var (505 içinde).
+Bunlar aktör, olay, düşünür, kavram ve tartışma dosyaları.

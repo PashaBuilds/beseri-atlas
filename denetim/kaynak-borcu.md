@@ -13,7 +13,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 |---|---|
 | Ölçülen makale | 505 |
 | Toplam künye | 1674 |
-| Giriş kapısı kuralını aşan makale | 221 |
+| Giriş kapısı kuralını aşan makale | 220 |
 | Birincil kaynağı olmayan makale | 251 |
 | Giriş kapısı künyesi payı | 42% |
 
@@ -27,7 +27,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | tartisma | 33 |
 | kaynak | 28 |
 | dusunur | 22 |
-| donem | 6 |
+| donem | 5 |
 
 ## Makale dökümü
 
@@ -90,7 +90,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `aktor-timur-imparatorlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-tokugawa-sogunlugu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-varsova-pakti` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `donem-01` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `donem-07` | 6 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `dusunur-arendt` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `dusunur-carr` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |

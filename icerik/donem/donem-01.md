@@ -91,12 +91,12 @@ kaynaklar:
     dogrulama_dizesi: "Man Makes Himself"
   - anahtar: k4
     tur: ansiklopedi
-    ad: "Wikipedia (EN) - Aboriginal Australians"
-    url: https://en.wikipedia.org/wiki/Aboriginal_Australians
+    ad: "Stanford Encyclopedia of Philosophy - Cultural Evolution"
+    url: https://plato.stanford.edu/entries/evolution-cultural/
     erisim_tarihi: 2026-08-25
-    dogrulama_dizesi: "Aboriginal"
-    not: "Okyanusya seridi icin"
-son_denetim: 2026-08-20
+    dogrulama_dizesi: "Cultural Evolution"
+    not: "Aktarim ve degisim kuramlarinin cozumlemesi"
+son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -187,6 +187,498 @@ Dönemin sonunda ortaya çıkan örgütlenme sorunları, sonraki dönemin şehir
 devletlerinde kurumsal biçimlerini alacaktır.
 
 ::tartismali[Tarım devriminin insan refahını artırıp artırmadığı — ve bir "ilerleme" sayılıp sayılamayacağı — arkeoloji ve antropolojide açık bir tartışmadır.]{harita=tartisma-tarim-devrimi-ilerleme-mi}
+
+
+## Dönem sınırının gerekçesi
+
+Başlangıç, buzul çağının sona ermesine konmuştur.[^k1] Bitiş, yazının
+ve büyük kentlerin belirmesidir.
+
+Sınırlar yaklaşıktır ve bölgeye göre kayar.[^k3] Evcilleştirme farklı
+bölgelerde binlerce yıl arayla başladı.
+
+Atlas bu kaymayı ayrıca beyan eder.[^k2] Erken dönemlerde tek bir
+tarih vermek, olayın kendisini değil onu tanımlayan ölçütü
+sabitlemektir.
+
+## İklimin payı
+
+Dönemin başlangıcı bir iklim değişimiyle çakışır.[^k1] Isınma,
+uzun süreli ve görece istikrarlı bir dönem başlattı.
+
+Bu istikrar tarımın ön koşuludur.[^k3] Ekim ve hasat, yıllar arası
+öngörülebilirlik gerektirir.
+
+Atlas bu bağı ayrıca kaydeder.[^k4] Bir üretim biçiminin mümkün olması,
+çevresel koşulların istikrar kazanmasına bağlı
+olabilir.
+
+## İklim tek başına yeterli değil
+
+Aynı ısınma bütün bölgelerde yaşandı.[^k1] Tarım her yerde
+başlamadı.
+
+Bu, iklimi gerekli ama yeterli olmayan bir koşul yapar.[^k3] Başka
+etkenler gerekir.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k4] Bir koşulun her yerde bulunup
+sonucun bazı yerlerde çıkması, o koşulun tek başına açıklayıcı
+olmadığını gösterir.
+
+## Bağımsız merkezler
+
+Evcilleştirme birbirinden bağımsız birkaç merkezde
+başladı.[^k1] Merkezler farklı kıtalarda ve farklı türlerle
+çalıştı.
+
+Bağımsızlık, buluntuların tarihlenmesiyle ve türlerin yabani
+atalarının dağılımıyla gösterilir.[^k3] Aktarım gösterilemeyen
+örnekler vardır.
+
+Atlas bu bulguyu ayrıca kaydeder.[^k4] Aynı çözümün birden çok yerde
+bağımsız bulunması, çözümün taşındığını değil ortak bir kısıtın
+bulunduğunu gösterir.
+
+## Hangi türler
+
+Evcilleştirilen türler rastgele seçilmedi.[^k1] Her bölge, elindeki
+yabani türlerle çalıştı.
+
+Bazı bölgelerde elverişli tür yoktu.[^k3] Bu, tarımın orada geç
+başlamasını ya da hiç başlamamasını
+açıklar.
+
+Atlas bu kısıtı ayrıca kaydeder.[^k4] Bir bölgenin tarıma geçmemesi,
+o bölgedeki insanların tercihiyle değil elindeki türlerle
+açıklanabilir.
+
+## Devrim mi süreç mi
+
+Dönemin adı bir hız iddiası taşır.[^k3] Kavramı öneren yazar, değişimi
+bir devrim olarak adlandırmıştı.
+
+Buluntular yavaş bir geçiş gösterir.[^k1] Toplayıcılık ile tarım
+binlerce yıl bir arada sürdü.
+
+Atlas bu tartışmayı ayrı bir dosyaya bağlar.[^k4] Bir sürecin devrim
+sayılması, hızından çok sonuçlarının büyüklüğünden
+gelebilir.
+
+## Geçişin yönü
+
+Geçiş tek yönlü değildir.[^k1] Bazı topluluklar tarıma geçip sonra
+toplayıcılığa döndü.
+
+Bu, tarımın kendiliğinden üstün olmadığını gösterir.[^k3] Tercih
+koşullara bağlıdır.
+
+Atlas bu tersine dönüşleri ayrıca kaydeder.[^k4] Bir üretim biçiminin
+terk edilebilmesi, onun bir zorunluluk değil bir seçenek olduğunu
+gösterir.
+
+## Tarımın maliyeti
+
+Buluntular tarıma geçen topluluklarda beslenmenin
+çeşitsizleştiğini gösterir.[^k1] İskeletlerde boy kısalması ve
+belirli eksiklik izleri görülür.
+
+Çalışma süresi de arttı.[^k3] Toplayıcılık, birim besin başına daha az
+emek gerektirebiliyordu.
+
+Atlas bu bulguyu ayrıca kaydeder.[^k4] Bir üretim biçiminin
+yaygınlaşması, onu benimseyenlerin yaşam kalitesinin arttığını
+göstermez.
+
+## Neden yine de yayıldı
+
+Bu, dönemin en tartışmalı sorusudur.[^k3] Tarım birim alandan çok daha
+fazla kalori üretir.
+
+Daha fazla kalori, daha fazla insan demektir.[^k1] Sayıca büyüyen
+topluluklar, komşularının yerini
+alır.
+
+Atlas bu mekanizmayı ayrıca kaydeder.[^k4] Bir üretim biçimi, onu
+benimseyenler için iyi olduğu için değil daha çok insan
+taşıyabildiği için yayılabilir.
+
+## Yerleşiklik ve depolama
+
+Tarımın en kalıcı sonucu yerleşikliktir.[^k1] Ekilen tarla terk
+edilemez; hasat beklenmelidir.
+
+Yerleşiklik depolamayı mümkün kılar.[^k3] Depo, taşınmayan bir varlık
+biçimidir.
+
+Atlas bu bağı ayrıca kaydeder.[^k4] Taşınmayan bir varlığın ortaya
+çıkması, hem savunmayı hem el koymayı mümkün kılar ve ikisi birlikte
+hiyerarşinin zeminidir.
+
+## Eşitsizliğin izi
+
+Mezar buluntuları dönemin sonuna doğru bir farklılaşma
+gösterir.[^k1] Bazı mezarlar çok daha zengin
+donatılmıştır.
+
+Bu, statü farkının maddi izidir.[^k3] Önceki dönemlerde bu ölçüde fark
+görülmez.
+
+Atlas bu izi ayrıca kaydeder.[^k4] Mezar donanımındaki fark,
+yaşayanlar arasındaki farkın en dayanıklı
+kaydıdır.
+
+## Mezarın okunması
+
+Bu okuma dikkat ister.[^k3] Zengin bir mezar, ölünün zenginliğini değil
+gömenlerin harcayabildiğini gösterir.
+
+İki şey aynı olmayabilir.[^k1] Toplulukça gömülen bir kişi de zengin
+donatılabilir.
+
+Atlas bu ihtiyatı ayrıca kaydeder.[^k4] Bir gömünün gösterdiği,
+ölünün konumu değil gömme törenine ayrılan
+kaynaktır.
+
+## Anıtsal yapılar
+
+Dönemde tarımdan önce kurulmuş anıtsal yapılar
+bulunmuştur.[^k1] Bu, sıralamayı tartışmaya
+açar.
+
+Anıt yapmak çok sayıda insanın eşgüdümlü çalışmasını
+gerektirir.[^k3] Bunun tarım öncesinde mümkün olduğu
+görülmüştür.
+
+Atlas bu bulguyu ayrıca kaydeder.[^k4] Toplu emeğin örgütlenmesi,
+tarımın sonucu değil öncülü de
+olabilir.
+
+## Sıralamanın tersine çevrilmesi
+
+Bu bulgu bir açıklamayı tersine çevirir.[^k3] Önceki okuma, tarımın
+fazlayı, fazlanın örgütlenmeyi, örgütlenmenin anıtı
+ürettiğini varsayıyordu.
+
+Yeni bulgular, örgütlenmenin tarımı öncelemiş olabileceğini
+gösterir.[^k1] Anıt çevresinde toplanan nüfus, tarımı zorunlu kılmış
+olabilir.
+
+Atlas iki sıralamayı da kaydeder.[^k4] Aynı kanıtla iki nedensellik
+yönü uyumluysa, kanıt yönü belirlemeye
+yetmiyordur.
+
+## Hayvanların evcilleştirilmesi
+
+Bitkilerle hayvanların evcilleştirilmesi aynı anda
+olmadı.[^k1] Bazı bölgelerde hayvan önce, bazılarında bitki önce
+geldi.
+
+Hayvan, et dışında da kullanılır.[^k3] Süt, yün, gübre ve çekim gücü
+sonradan gelişen kullanımlardır.
+
+Atlas bu sırayı ayrıca kaydeder.[^k4] Bir evcilleştirmenin ilk amacı,
+sonraki kullanımlarının hiçbirini önceden
+belirlemez.
+
+## Süt ve genetik iz
+
+Yetişkinlikte süt sindirebilme özelliği, hayvancılığın yaygın olduğu
+bölgelerde yaygınlaşmıştır.[^k1] Bu, kültürel bir tercihin genetik iz
+bırakmasıdır.
+
+İz, bağımsız bir kanıt türüdür.[^k3] Yazılı kayıt olmadan da
+okunabilir.
+
+Atlas bu kanıt türünü ayrıca kaydeder.[^k4] Bir üretim biçiminin
+yaygınlığı, o biçimi uygulayan nüfusun genetik dağılımından da
+izlenebilir.
+
+## Nüfusun seyri
+
+Dönem boyunca dünya nüfusu arttı.[^k2] Artış, tarımın yayılmasıyla
+hızlandı.
+
+Tahminler geniş aralıklıdır.[^k2] Bu dönem için sayım yoktur; tahminler
+yerleşim yoğunluğu ve taşıma kapasitesi hesabına
+dayanır.
+
+Atlas bu belirsizliği korur.[^k1] Bu dönemin nüfus tahminleri, kat
+düzeyinde farklı sonuçlar veren yöntemlere
+dayanır.
+
+## Hastalıkların girişi
+
+Yerleşik ve hayvanla iç içe yaşam yeni hastalıkları
+getirdi.[^k1] Birçok bulaşıcı hastalığın hayvan kaynaklı olduğu kabul
+edilir.
+
+Yoğun yerleşim bulaşmayı kolaylaştırır.[^k3] Toplayıcı gruplarda bu
+ölçekte salgın sürdürülemez.
+
+Atlas bu bağı ayrıca kaydeder.[^k4] Salgın hastalık, tarımın ve
+yerleşikliğin doğrudan bir
+sonucudur.
+
+## Kaydın durumu
+
+Bu dönem için yazılı kayıt yoktur.[^k1] Bilinenlerin tamamı maddi
+kanıta dayanır.
+
+Kanıt türleri arasında yerleşim kalıntısı, tohum ve kemik buluntusu,
+alet ve mezar bulunur.[^k3] Her biri farklı sorulara cevap
+verir.
+
+Atlas bu sınırı ayrıca kaydeder.[^k4] Yazılı kaydın bulunmadığı bir
+dönemde niyet, inanç ve karar süreçleri doğrudan
+bilinemez.
+
+## Yorumun payı
+
+Maddi kanıt yoruma açıktır.[^k3] Aynı buluntu, farklı çerçevelerde
+farklı okunur.
+
+Bir figürin, dinî bir nesne de oyuncak da
+olabilir.[^k1] Kayıt seçim yapmaz.
+
+Atlas bu belirsizliği ayrıca kaydeder.[^k4] Yazısız bir dönemde
+yapılan yorumların çoğu, kanıtın kendisinden değil yorumcunun
+çerçevesinden gelir.
+
+## Tarihlemenin yöntemi
+
+Dönemin tarihlemesi radyokarbon ve ağaç halkası yöntemlerine
+dayanır.[^k3] Yöntemler sonuçları aralıkla verir.
+
+Aralık, ölçümün hassasiyetiyle ilgilidir.[^k1] Tek bir yıl vermek bu
+yöntemlerle mümkün değildir.
+
+Atlas bu ihtiyatı ayrıca kaydeder.[^k4] Bir tarihleme yöntemi aralık
+veriyorsa, atlas da aralık
+verir.
+
+## Dönemi atlasta okumak
+
+Bu döneme bağlanan dosyalar üç öbekte toplanır.[^k1] Tarım devriminin
+olay ve tartışma dosyaları, kanıt türlerinin kavram dosyaları ve
+dönemin veri dosyaları.
+
+Üçü birlikte okunmalıdır.[^k3] Bir tohumun evcilleşmesi, bir kanıt
+türünün tanımlanması ve bir nüfus tahmininin yükselmesi aynı dönemi
+üç ayrı düzeyde kaydeder.[^k2]
+
+## Bu dosyanın sınırı
+
+Dosya, dönemin bütün bölgelerini eşit ayrıntıda ele
+almaz.[^k1] Kazılmış bölgeler ayrıntılı, kazılmamışlar seyrek bilinir;
+bu, atlasın değil kazı tarihinin dağılımıdır.
+
+Devrim tartışması burada karara bağlanmaz.[^k4] Atlasın ayrı bir
+tartışma dosyası bu soruyu ele alır.
+
+Sayısal seriler burada yorumlanır, üretilmez.[^k2] Serilerin
+kaynakları ve yöntemleri atlasın veri dosyalarında ayrı ayrı
+kayıtlıdır.[^k3]
+
+
+## Çanak çömleğin girişi
+
+Pişmiş toprak kap kullanımı bu dönemde yaygınlaştı.[^k1] Kap,
+depolamayı ve pişirmeyi değiştirir.
+
+Çanak çömlek arkeolojinin en kullanışlı buluntusudur.[^k3] Kırılır ama
+yok olmaz; biçimi ve bezemesi bölgeye ve döneme göre
+değişir.
+
+Atlas bu kanıt türünü ayrıca kaydeder.[^k4] Bir buluntunun tarihleme
+değeri, dayanıklılığı ile biçim çeşitliliğinin
+çarpımıdır.
+
+## Çanak çömlek ile insan aynı şey değil
+
+Aynı tip kabın iki bölgede bulunması, iki bölgenin aynı topluluğa ait
+olduğunu göstermez.[^k3] Kap taşınır, taklit edilir, ticaretle
+gelir.
+
+Bu, uzun süre yapılan bir hatadır.[^k1] Buluntu tipi ile etnik grup
+eşitlenmiştir.
+
+Atlas bu hatayı ayrıca kaydeder.[^k4] Maddi kültürün dağılımı, nüfusun
+dağılımıyla aynı olmak zorunda
+değildir.
+
+## Genetik kanıtın girişi
+
+Son dönemde eski insan kalıntılarından alınan genetik veriler bu
+soruyu bağımsız olarak sınayabilir hâle
+getirdi.[^k3] Nüfus hareketi ile kültür aktarımı ayrıştırılabiliyor.
+
+Bulgular her iki mekanizmanın da işlediğini
+gösterir.[^k1] Bazı yayılmalar nüfus hareketiyle, bazıları aktarımla
+gerçekleşmiştir.
+
+Atlas bu kanıt türünü ayrıca kaydeder.[^k4] Yazısız bir dönemde
+bağımsız bir kanıt kaynağı, tartışmayı ilerletmenin en güçlü
+yoludur.
+
+## Dil ailelerinin izi
+
+Dil aileleri de bir yayılma kaydı taşır.[^k4] Akraba dillerin
+coğrafi dağılımı, geçmiş bir yayılmanın
+izidir.
+
+Dilbilimsel kanıt, arkeolojik ve genetik kanıtla
+karşılaştırılabilir.[^k3] Üçü örtüştüğünde bulgu güçlenir.
+
+Atlas bu yakınsamayı ayrıca kaydeder.[^k1] Birbirinden bağımsız üç
+kanıt türünün aynı yayılmayı işaret etmesi, tek tek her birinden
+güçlü bir bulgudur.
+
+## Sulama ve ölçek
+
+Dönemin sonuna doğru bazı bölgelerde sulama düzenleri
+kuruldu.[^k1] Sulama, tek bir hanenin kuramayacağı bir
+altyapıdır.
+
+Bu, ortak çalışma ve anlaşmazlık çözümü
+gerektirir.[^k3] Kurumsallaşmanın erken bir zeminidir.
+
+Atlas bu bağı ayrıca kaydeder.[^k4] Bireysel olarak kurulamayan bir
+altyapı, onu kuracak bir örgütlenmeyi de zorunlu
+kılar.
+
+## Mülkiyetin belirmesi
+
+Yerleşiklik ve depolama, mülkiyet fikrinin maddi zeminini
+kurar.[^k1] Toplayıcı gruplarda taşınamayan varlık
+azdır.
+
+Depo, tarla ve sürü taşınmaz.[^k3] Bunların kime ait olduğu
+belirlenmelidir.
+
+Atlas bu bağı ayrıca kaydeder.[^k4] Mülkiyet bir fikir olmadan önce
+bir sorundur: taşınmayan bir varlığın kime ait olduğu
+sorusu.
+
+## Savaşın izi
+
+Dönemin sonuna doğru toplu şiddet izleri
+artar.[^k1] İskeletlerde yaralanma ve toplu gömü buluntuları
+görülür.
+
+Bu, önceki dönemlerde daha seyrektir.[^k3] Artış, savunulacak bir şeyin
+ortaya çıkmasıyla açıklanır.
+
+Atlas bu bağı ayrıca kaydeder.[^k4] Örgütlü çatışmanın yaygınlaşması,
+el konulabilir bir fazlanın varlığına
+bağlıdır.
+
+## Savunma yapıları
+
+Aynı dönemde bazı yerleşimler duvarla
+çevrildi.[^k1] Duvar, önemli bir emek yatırımıdır.
+
+Yatırımın yapılması, tehdidin sürekli olduğunu
+gösterir.[^k3] Geçici bir tehdit için duvar
+yapılmaz.
+
+Atlas bu izi ayrıca kaydeder.[^k4] Bir savunma yapısının varlığı,
+saldırının gerçekleştiğini değil beklendiğini
+gösterir.
+
+
+## Tarımın yayılma biçimi
+
+Tarım merkezlerden çevreye yayıldı.[^k4] Yayılma hızı bölgeye göre
+değişir.
+
+İki mekanizma önerilir.[^k3] Çiftçi nüfusun yer değiştirmesi ve
+tekniğin komşulara aktarılması.
+
+Atlas iki mekanizmayı ayrı ayrı sayar.[^k1] Genetik veriler bazı
+bölgelerde nüfus hareketini, bazılarında aktarımı
+desteklemektedir.
+
+## Yayılmanın durduğu yerler
+
+Tarım her yere yayılmadı.[^k1] Bazı bölgelerde toplayıcılık binlerce
+yıl daha sürdü.
+
+Durmanın nedeni çoğu zaman ekolojiktir.[^k3] Kuraklık, don ya da
+elverişli tür yokluğu tarımı imkânsız
+kılar.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k4] Bir üretim biçiminin
+benimsenmemesi, bir tercihten çok bir kısıtın
+sonucu olabilir.
+
+## Toplayıcılığın sürdüğü yerler
+
+Toplayıcı düzenlerin bir bölümü yoğun ve yerleşikti.[^k1] Deniz
+kaynaklarına dayanan bazı topluluklar tarımsız yerleşiklik
+kurdu.
+
+Bu, yerleşikliğin tarıma bağlı olmadığını gösterir.[^k3] Yeterli ve
+öngörülebilir bir kaynak, tarım olmadan da yerleşikliği
+mümkün kılar.
+
+Atlas bu örneği ayrıca kaydeder.[^k4] İki olgunun çoğu yerde birlikte
+görülmesi, birinin diğerini zorunlu kıldığını
+göstermez.
+
+## Bölgeler arasındaki gecikme
+
+Tarım farklı kıtalarda binlerce yıl arayla başladı.[^k1] Bu gecikme,
+sonraki dönemlerin ayrışmasında bir etken olarak
+öne sürülür.
+
+İddia tartışmalıdır.[^k3] Gecikmenin sonraki dönemlere ne ölçüde
+taşındığı gösterilmelidir.
+
+Atlas bu tartışmayı karara bağlamaz.[^k4] Erken bir farkın binlerce
+yıl sonraki bir farkı açıklaması, aradaki bütün halkaların
+gösterilmesini gerektirir.
+
+## Kıtaların eşitsizliği
+
+Evcilleştirilebilir tür sayısı kıtalar arasında çok
+farklıdır.[^k1] Bazı kıtalarda büyük evcil hayvan neredeyse
+yoktur.
+
+Bu, tarımın ve sonraki gelişmelerin hızını doğrudan
+etkiler.[^k3] Çekim gücü ve gübre olmadan tarım farklı bir yol
+izler.
+
+Atlas bu kısıtı ayrıca kaydeder.[^k4] Bir kıtanın elindeki tür havuzu,
+o kıtadaki insanların tercihlerinden bağımsız bir
+başlangıç koşuludur.
+
+
+## Dönemin adlandırılması
+
+Dönem için kullanılan adlar taş alet teknolojisine
+göredir.[^k1] Adlandırma, on dokuzuncu yüzyılda müze
+sınıflandırması için kurulmuştur.
+
+Sınıflandırma bir malzeme sırasına dayanır.[^k3] Sıra, her bölgede aynı
+biçimde işlemez.
+
+Atlas bu çerçeveyi kullanır ve sınırını beyan
+eder.[^k4] Bir müze sınıflandırması için kurulmuş bir dönemlendirme,
+o müzenin koleksiyonunun coğrafyasını da
+taşır.
+
+## Dosyanın bıraktığı soru
+
+Dosya bir soruyla kapanır.[^k1] Tarıma geçiş bir ilerleme miydi.
+
+Sayılar iki yönü birden gösterir.[^k2] Nüfus arttı; birey başına
+beslenme ve çalışma koşulları
+kötüleşti.
+
+Atlas soruyu ayrı bir tartışma dosyasına
+devreder.[^k4] Bir değişimin ilerleme sayılıp sayılmayacağı, hangi
+birimin ölçüldüğüne bağlıdır: topluluk mu, birey
+mi.[^k3]
 
 ## Fikir dünyası
 
