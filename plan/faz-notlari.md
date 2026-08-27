@@ -4419,3 +4419,24 @@ yaklaşık 45 kelime tutuyor. +400 kelime için ~9 bölüm gerekiyor;
   caydırmayacağı da ayrıca kaydedildi.
 
 Durum: 505 dosya, hedefin altında 265.
+
+## 2026-08-26 — Onarım durumu ve gerçekçi hesap
+
+`kavram-somurgesizlesme` 213→619, `kavram-vergi` 216→603.
+
+Hedefin altındaki dosya sayısı 281'den 263'e indi. Tip dağılımı:
+olay 84, aktör 62, kavram 47, düşünür 36, tartışma 34.
+
+Kavram katmanı 63'ten 47'ye indi.
+
+Gerçekçi hesap: kalan 263 dosya, dosya başına ortalama 6-7 bin token
+tutuyor. Toplam ~1,7 milyon token. Kalan bütçe 14,3 milyon. Yani
+onarımın tamamlanması bütçe içinde.
+
+Buna karşılık 3000 makale hedefi ulaşılabilir değil. 505'ten 3000'e
+2495 yeni makale gerekiyor; makale başına ~10 bin token ile 25 milyon
+token eder. Bu, kalan bütçenin çok üzerinde.
+
+Karar: onarımı tamamlamak, sonra kalan bütçeyle yeni makale yazmaya
+devam etmek. Her dosyası kendi standardını karşılayan 600-700 makalelik
+bir atlas, yarısı boş 1000 makalelik bir atlastan daha iyi bir teslim.
