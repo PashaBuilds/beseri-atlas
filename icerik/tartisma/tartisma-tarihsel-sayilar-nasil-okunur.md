@@ -65,6 +65,8 @@ ilgili:
   - kavram-svahili-kiyisi
   - kaynak-ain-i-akbari
   - olay-bengal-kitligi-1943
+  - kavram-kast
+  - tartisma-somurgeciligin-ekonomik-bilancosu
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -573,3 +573,15 @@ adlar:
   - ad: "Yaygın anlatı"
     durum: kisi-degil
     gectigi: [tartisma-vestfalya-miti]
+  - ad: "Kaynak aktarimini esas alan cizgi"
+    durum: kisi-degil
+    gectigi: [tartisma-somurgeciligin-ekonomik-bilancosu]
+  - ad: "Karsi-olgusal karsilastirmayi esas alan cizgi"
+    durum: kisi-degil
+    gectigi: [tartisma-somurgeciligin-ekonomik-bilancosu]
+  - ad: "Devralinan kurumlari esas alan cizgi"
+    durum: kisi-degil
+    gectigi: [tartisma-somurgeciligin-ekonomik-bilancosu]
+  - ad: "Somurgelestirenin maliyetini esas alan cizgi"
+    durum: kisi-degil
+    gectigi: [tartisma-somurgeciligin-ekonomik-bilancosu]

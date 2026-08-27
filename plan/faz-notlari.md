@@ -3254,3 +3254,32 @@ edildi.
 
 Açık borç: `kavram-kast` künyesinde iki Wikipedia var (Caste system in
 India + Delhi Sultanate). Bir sonraki turda düzeltilmeli.
+
+## 2026-08-26 — İki eski dosyanın onarımı
+
+Bu tur yeni makale yazmak yerine, atlasın en zayıf iki eski dosyası
+yeniden yazıldı. Tarama sonucu: 488 makalenin 298'i hedef uzunluğun
+altında; en kötüleri %14–16 bandında.
+
+- `kavram-kast` 226 → 626 kelime. Künyedeki ikinci Wikipedia (Delhi
+  Sultanate) çıkarıldı, yerine 1921 nüfus sayımı raporu (Government of
+  India, Calcutta) birincil belge olarak kondu. Yeni ölçüm: bir
+  sınıflandırma resmî hâle geldiğinde, sınıflandırılanlar kendi
+  konumlarını iyileştirmek için sınıflandırmanın diline geçmek zorunda
+  kalır. Eski dosya üç terimi (varna / jāti / kast) ayırıyordu ama
+  gerekçesini vermiyordu; şimdi veriyor.
+- `tartisma-somurgeciligin-ekonomik-bilancosu` 220 → 1505 kelime.
+  Pozisyonlar üçten beşe çıkarıldı ve gerçek ölçüt adlarıyla yeniden
+  yazıldı: aktarım, karşı-olgusal, kurumsal miras, sömürgeleştirenin
+  kendi hesabı, ölçülemezlik. Dördüncü pozisyon için Adam Smith'in
+  1776 metni (Wikisource tam metin) birincil kaynak olarak eklendi ve
+  ikinci Wikipedia (Dependency theory) çıkarıldı.
+
+Eski dosyaların ortak kusuru şuydu: pozisyonlar "Kaynağın şu bölümü"
+diye adlandırılıyor, yani tartışmanın kendisi değil kaynağın
+bölümlenmesi anlatılıyordu. Yeni sürümlerde pozisyonlar ölçüt adıyla
+anılıyor ve dördü savunanlar kütüğüne `kisi-degil` olarak yazıldı.
+
+Dosyanın kapanışı bir rakam değil, bir soru listesi: hangi ölçüt,
+hangi dönem, hangi tarafın defteri, hangi karşılaştırma noktası,
+neyin kaydı yok.

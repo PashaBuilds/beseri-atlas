@@ -63,6 +63,7 @@ ilgili:
   - aktor-yeni-hebridler-ortak-yonetimi
   - dusunur-ambedkar
   - dusunur-gandhi
+  - kavram-kast
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

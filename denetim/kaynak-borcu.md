@@ -13,8 +13,8 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 |---|---|
 | Ölçülen makale | 488 |
 | Toplam künye | 1599 |
-| Giriş kapısı kuralını aşan makale | 225 |
-| Birincil kaynağı olmayan makale | 252 |
+| Giriş kapısı kuralını aşan makale | 224 |
+| Birincil kaynağı olmayan makale | 251 |
 | Giriş kapısı künyesi payı | 43% |
 
 ## Tipe göre borçlu makale
@@ -24,7 +24,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | olay | 78 |
 | aktor | 74 |
 | kavram | 60 |
-| tartisma | 35 |
+| tartisma | 34 |
 | kaynak | 28 |
 | dusunur | 22 |
 | donem | 9 |
@@ -252,7 +252,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `tartisma-osmanli-gerileme-tezi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-sanayi-devrimi-neden-ingiltere` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-soguk-savasin-baslangici` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
-| `tartisma-somurgeciligin-ekonomik-bilancosu` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-soykirim-kavrami` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-tarim-devrimi-neden` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-tunc-cagi-cokusunun-nedeni` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |

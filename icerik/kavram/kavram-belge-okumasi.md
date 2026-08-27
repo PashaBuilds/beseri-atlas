@@ -28,6 +28,7 @@ ilgili:
   - kaynak-kurukan-fuga-sarti
   - olay-bengal-kitligi-1943
   - dusunur-ambedkar
+  - kavram-kast
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
