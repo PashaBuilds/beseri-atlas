@@ -496,7 +496,8 @@ bağlanmaz.
 ## Bu dosyanın sınırı
 
 Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
-dosyasında ele alınır.
+dosyasında ayrıntılı ele alınır ve burada yalnızca döneme
+bağlanır.
 
 Bölgesel ayrıntı sınırlıdır.[^k3] Şerit satırları, bölgelerin kendi
 tarihlerinden çok ortak mekanizmanın onlardaki görünümünü verir.
