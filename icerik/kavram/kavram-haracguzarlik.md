@@ -187,6 +187,17 @@ Atlas bu ölçütleri her dosyada uygular.[^k3] Bir ödemeyi haraç saymak,
 onun ne karşılığında yapıldığının
 gösterilmesini gerektirir.
 
+
+## Atlasta kullanımı
+
+Atlas kavramı bir aşağılama olarak kullanmaz.[^k1] Haraç ödeyen bir
+düzen bağımsızlığını koruyor
+olabilir.
+
+Belirleyici olan, ödemenin karşılığında elde edilenin ödenenden
+büyük olup olmadığıdır.[^k2] Bu hesap her dosyada ayrı
+yapılır.[^k3]
+
 ## Bu dosyanın sınırı
 
 Sistemin tanımı, haraç kalemleri ve ülke ülke tarihler burada ayrı başlıklar

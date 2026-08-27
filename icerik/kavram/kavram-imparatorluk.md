@@ -188,6 +188,16 @@ Atlas bu tutumu ayrıca kaydeder.[^k3] Bir düzenin kendini nasıl
 adlandırdığı, ölçütleri karşılayıp karşılamadığından ayrı bir
 veridir.
 
+
+## Kaydın yönü
+
+İmparatorluklar hakkındaki kaydın büyük bölümü merkezden
+gelir.[^k1] Çevre bölgeler hakkında bilinen, merkezin onlar hakkında
+yazdığıdır.
+
+Atlas bu dengesizliği her dosyada beyan eder.[^k2] Bir düzenin
+merkezleri, o düzenin kaydını da merkezîleştirir.[^k3]
+
 ## Bu dosyanın sınırı
 
 Tanımın içeriği, özellikler ve dönem dönem tarihler burada ayrı başlıklar altında
