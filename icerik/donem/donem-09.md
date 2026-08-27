@@ -501,8 +501,10 @@ dosyasında ele alınır.
 Bölgesel ayrıntı sınırlıdır.[^k3] Şerit satırları ortak mekanizmanın
 bölgelerdeki görünümünü verir.
 
-Sayısal seriler burada yorumlanır, üretilmez.[^k5] Serilerin kaynakları
-ve yöntemleri atlasın veri dosyalarında ayrı ayrı kayıtlıdır.[^k2]
+Sayısal seriler burada yorumlanır, üretilmez.[^k5] Serilerin
+kaynakları, yöntemleri ve başlangıç tarihleri atlasın veri
+dosyalarında ayrı ayrı kayıtlıdır ve bu dosya onların yerine
+geçmez.[^k2]
 
 
 ## Haritanın değişmesi
