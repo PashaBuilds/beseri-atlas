@@ -585,3 +585,7 @@ adlar:
   - ad: "Somurgelestirenin maliyetini esas alan cizgi"
     durum: kisi-degil
     gectigi: [tartisma-somurgeciligin-ekonomik-bilancosu]
+  - ad: "Thomas Carlyle"
+    durum: dogrulandi
+    gectigi: [tartisma-buyuk-adam-kurami]
+    not: "1841 tarihli On Heroes konferanslarinda konumu dogrudan savunur"

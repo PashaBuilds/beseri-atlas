@@ -12,9 +12,9 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Ölçüm | Değer |
 |---|---|
 | Ölçülen makale | 488 |
-| Toplam künye | 1599 |
-| Giriş kapısı kuralını aşan makale | 224 |
-| Birincil kaynağı olmayan makale | 251 |
+| Toplam künye | 1600 |
+| Giriş kapısı kuralını aşan makale | 223 |
+| Birincil kaynağı olmayan makale | 250 |
 | Giriş kapısı künyesi payı | 43% |
 
 ## Tipe göre borçlu makale
@@ -24,7 +24,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | olay | 78 |
 | aktor | 74 |
 | kavram | 60 |
-| tartisma | 34 |
+| tartisma | 33 |
 | kaynak | 28 |
 | dusunur | 22 |
 | donem | 9 |
@@ -236,7 +236,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `olay-yedi-yil-savasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-1929-krizinin-nedeni` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-antik-kolelik-ekonomisi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `tartisma-buyuk-adam-kurami` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-feodalite-kavrami` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-fransiz-devrimi-yorumlari` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `tartisma-hacli-seferlerinin-nedeni` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
