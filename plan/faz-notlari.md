@@ -4300,3 +4300,32 @@ Bu iş sırasında yan ürün olarak yapılanlar:
 
 Sıradaki iş: korpusta hâlâ hedefin altında 281 dosya var (505 içinde).
 Bunlar aktör, olay, düşünür, kavram ve tartışma dosyaları.
+
+## 2026-08-26 — Kaynak kuramı üçlüsü onarıldı
+
+Dönem katmanından sonra hedefin altındaki 281 dosyaya geçildi. İlk
+parti, atlasın kendi yöntemini tanımlayan üç kavram dosyası:
+
+- `kavram-birincil-kaynak` 205 → 600+ : üç ölçüt (zaman, konum,
+  aktarım) ve dördüncüsü olarak erişilebilirlik yazıldı. Erişim
+  ölçütünün gerekçesi pratik: ulaşılamayan bir kaynağa yapılan atıf
+  sınanamaz. Nesne kanıtı ayrıca ele alındı — metin yazan bir düzen
+  istediğini yazabilir, ürettiği nesne bunu her zaman doğrulamaz.
+- `kavram-ikincil-kaynak` 208 → 600+ : zincir uzunluğu, aynı zincirin
+  tekrarı (iki ikincil kaynağın aynı şeyi söylemesi bağımsız doğrulama
+  değil), ve atlasın kendi konumu. Atlas kendisinin de ikincil kaynak
+  olduğunu ve kendi ölçütlerine tabi olduğunu açıkça yazıyor. Tek
+  Wikipedia kuralının gerekçesi de buraya kaydedildi: bir derlemenin
+  yapısı, dayandığı tek kaynağın içindekiler sayfası hâline
+  gelmemelidir.
+- `kavram-tarih-yazimi` 208 → 600+ : bir tarih metnine sorulacak yedi
+  soru (yöntem, muhatap, bölümleme, kapsam, sayılar, sonuç, simetri)
+  tanımlandı.
+
+Künye onarımı: iki dosyada ikinci Wikipedia vardı. `ikincil-kaynak`ta
+yerine SEP "Epistemological Problems of Testimony", `tarih-yazimi`nde
+Chavannes'ın Shiji çevirisi kondu — ikincisi ctext onarımında
+doğrulanmıştı ve burada da işe yaradı.
+
+Bu üçlü atlasın kendi kurallarını taşıyor; en zayıf hâlde bırakılmaları
+diğer bütün dosyaların dayanağını zayıflatıyordu.

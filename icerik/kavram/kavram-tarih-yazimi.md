@@ -52,11 +52,11 @@ kaynaklar:
     dogrulama_dizesi: "Historiography"
   - anahtar: k2
     tur: ansiklopedi
-    ad: "Wikipedia (EN) - Sima Qian"
-    url: https://en.wikipedia.org/wiki/Sima_Qian
+    ad: "Sima Qian - Les Memoires historiques (Chavannes cevirisi, 1900)"
+    url: https://archive.org/details/SimaQianChavannesMemoiresHistoriquesV6
     erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Sima Qian"
-    not: "Dogu Asya baslığinin altinda gecen gelenek"
+    dogrulama_dizesi: "memoires"
+    not: "Dogu Asya tarih yazimi geleneginin kurucu metni"
   - anahtar: k3
     tur: ansiklopedi
     ad: "1911 Encyclopaedia Britannica - Herodotus (Wikisource)"
@@ -99,6 +99,120 @@ Yunan geleneğinden bir yazar için tutulan bir başka madde, onu MÖ yaklaşık
 484-425 arasına yerleştirir ve Halikarnassos'ta doğduğunu yazar.[^k3] O yazar
 [Herodotos](/dusunur/herodotos/) dosyasında, yöntem tartışmasının yirminci
 yüzyıldaki hâli ise [E. H. Carr](/dusunur/carr/) dosyasında ele alınıyor.
+
+
+## Yöntemin bildirilmesi
+
+Atlasın bir tarih metnine bakarken sorduğu ilk soru
+yöntemdir.[^k1] Yazar hangi kaynağa neden güvendiğini
+yazmış mı.
+
+Bu bildirim erken dönemlerde de görülür.[^k3] Bazı yazarlar, bir
+iddiayı kimden duyduklarını ve neden şüphe ettiklerini
+kaydeder.
+
+Atlas bu tutumu ölçüt sayar.[^k2] Yöntemini bildiren bir metin,
+yalnızca sonucunu bildirenden daha
+güçlüdür.
+
+## Kimin için yazıldığı
+
+İkinci soru muhataptır.[^k1] Bir tarih metni saray için mi, geniş bir
+okur için mi, bir mahkeme için mi
+yazılmıştır.
+
+Muhatap, neyin vurgulanacağını ve neyin atlanacağını
+belirler.[^k2] Aynı olay iki farklı muhatap için iki farklı biçimde
+anlatılır.
+
+Atlas bu soruyu her kaynak dosyasında sorar.[^k3] Bir metnin muhatabı
+bilinmeden, seçimleri
+değerlendirilemez.
+
+## Dönemlendirmenin kendisi
+
+Üçüncü soru bölümlemedir.[^k1] Bir tarih metninin dönemleri nereden
+başlatıp nerede bitirdiği bir
+yorumdur.
+
+Bölümleme, hangi olayın dönüm noktası sayıldığını
+gösterir.[^k2] Farklı bölümlemeler farklı nedensellikler
+kurar.
+
+Atlas kendi bölümlemesini bu yüzden açıkça
+gerekçelendirir.[^k3] Bir atlasın dönem sınırları, anlattığı içerik
+kadar kendi konumunun da kaydıdır.
+
+## Kimin tarihi
+
+Dördüncü soru kapsamdır.[^k1] Bir tarih metni kimi anlatıyor: hanedanı
+mı, kenti mi, sıradan haneyi
+mi.
+
+Kapsam, kaynak seçimini de belirler.[^k2] Hanedan tarihi saray
+kayıtlarıyla, gündelik hayat mahkeme sicilleriyle
+yazılır.
+
+Atlas bu bağı ayrıca kaydeder.[^k3] Bir metnin kimi anlattığı, hangi
+kaynakların kullanıldığından geriye doğru
+okunabilir.
+
+
+## Sayıların yeri
+
+Beşinci soru sayılardır.[^k1] Bir tarih metni sayı veriyorsa, o sayının
+nasıl üretildiği belirtilmiş
+mi.
+
+Yöntemi belirtilmemiş bir sayı, bir izlenimin sayıya
+çevrilmiş hâli olabilir.[^k2] Dönemin anlatı geleneğinde büyük sayılar
+çokluğu belirtir.
+
+Atlas bu ayrımı her dosyada uygular.[^k3] Sayı, yöntemiyle birlikte
+verilmediğinde atlasta veri
+sayılmaz.
+
+## Anlatının kapanışı
+
+Altıncı soru sonuçtur.[^k1] Bir tarih metni olayları bir sona doğru mu
+anlatıyor.
+
+Sona doğru kurulan bir anlatı, aradaki bütün olayları o sonun
+hazırlığı olarak okur.[^k2] Bu, seçimi de
+belirler.
+
+Atlas bu kalıptan kaçınmaya çalışır.[^k3] Bir dönemin sonunu bilerek
+yazmak kaçınılmazdır; o sonu kaçınılmaz göstermek
+kaçınılabilir.
+
+
+## Karşı tarafın kaydı
+
+Yedinci soru simetridir.[^k1] Bir çatışma anlatılıyorsa, karşı tarafın
+kendi kaydı var mı ve kullanılmış
+mı.
+
+Çoğu durumda iki taraftan yalnızca biri kayıt
+bırakmıştır.[^k2] Bu, anlatıyı kaçınılmaz olarak tek yönlü
+kılar.
+
+Atlas bu eksikliği beyan eder.[^k3] Tek taraflı bir kayda dayanan
+anlatı, o tarafın anlatısıdır ve dosyada bu
+yazılır.
+
+## Kaydın hiç olmadığı yerler
+
+Bazı topluluklar hakkında hiçbir yazılı kayıt
+yoktur.[^k1] Bilinenler yalnızca komşularının kayıtlarından
+gelir.
+
+Bu durumda tarih yazımı bir başkasının bakışını aktarır.[^k2] Adlar,
+sınırlar ve nitelemeler o bakıştan
+gelir.
+
+Atlas bu sınırı her dosyada yineler.[^k3] Bir topluluğun yalnızca
+dışarıdan kaydedilmiş olması, o topluluğun kendi kaydını tutmadığını
+göstermez.
 
 ## Bu dosyanın sınırı
 

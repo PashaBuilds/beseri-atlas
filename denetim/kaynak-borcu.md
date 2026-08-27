@@ -13,7 +13,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 |---|---|
 | Ölçülen makale | 505 |
 | Toplam künye | 1674 |
-| Giriş kapısı kuralını aşan makale | 219 |
+| Giriş kapısı kuralını aşan makale | 217 |
 | Birincil kaynağı olmayan makale | 250 |
 | Giriş kapısı künyesi payı | 42% |
 
@@ -23,7 +23,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 |---|---|
 | olay | 77 |
 | aktor | 74 |
-| kavram | 65 |
+| kavram | 64 |
 | tartisma | 33 |
 | kaynak | 28 |
 | dusunur | 22 |
@@ -125,7 +125,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `kavram-hegemonya` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `kavram-hukuk-devleti` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kavram-ideal-tip` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
-| `kavram-ikincil-kaynak` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `kavram-imparatorluk` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `kavram-kamusal-alan` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `kavram-kapitalizm` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
@@ -145,7 +144,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `kavram-sivil-toplum` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kavram-somurgesizlesme` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `kavram-surtunme` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
-| `kavram-tarih-yazimi` | 3 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kavram-tarihsel-materyalizm` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kavram-ticaret-diasporasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `kavram-timar` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
@@ -291,6 +289,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `kavram-akrabalik` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-buyuk-ayrisma` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-demografik-gecis` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-ikincil-kaynak` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-kanit-turu` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-kentlesme` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-longue-duree` | 3 | 1 | 0 | birincil kaynak yok |
