@@ -711,6 +711,21 @@ dönemde kurulmuştur.
 Atlas bu ayrımı yineler.[^k2] Bir eğrinin başladığı nokta, olgunun
 değil kaydın başlangıcıdır.
 
+
+## Dönemin adlandırılması
+
+Dönem için kullanılan ad, siyasi kırılmayı öne çıkarır.[^k1] Aynı
+yıllar, üretim düzenindeki değişimle de
+adlandırılabilirdi.
+
+İki adlandırma farklı eksenler seçer.[^k2] Biri anayasa metinlerini,
+diğeri fabrika kayıtlarını merkeze koyar.
+
+Atlas ikisini birlikte adlandırır ve tercihini beyan
+eder.[^k6] İki dönüşüm aynı yıllarda ve birbirine bağlı biçimde
+yürümüştür; birini seçmek diğerini arka plana
+atar.[^k4]
+
 ## Fikir dünyası
 
 Dönemin fikir dünyası, hakların kaynağı sorusunda yoğunlaşır. Bildiri hakları
