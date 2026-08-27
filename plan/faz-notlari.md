@@ -4173,3 +4173,46 @@ Bu, atlasın kaynak katmanının en geniş tek seferlik onarımıdır.
 alan sayısına değil o alanların tek tek erişilebilirliğine bağlıdır
 ve tek bir alanın kapanması bütün bir bölgenin kaynak tabanını
 düşürebilir.
+
+## 2026-08-26 — donem-03 onarıldı (623 → 2300+)
+
+On dördüncü dönem dosyası. MÖ 1200–500.
+
+Dosyanın ekseni bir ölçüme bağlandı: bir hammaddenin coğrafi dağılımı,
+onu işleyen düzenin merkezî mi dağınık mı olacağını belirler. Tunç iki
+uzak kaynağın aynı anda ulaşmasını gerektiriyordu; demir cevheri geniş
+bir alanda bulunuyor. Çöküşten sonra düzenin dağınıklaşması buradan
+okundu.
+
+Buna bağlı ikinci ölçüm: demirin yaygınlaşmasının nedeni üstünlüğü
+değil, tuncun tedarik zincirinin kopması. Bir teknolojinin
+benimsenmesi, üstünlüğünden değil alternatifin ortadan kalkmasından da
+gelebilir.
+
+Diğer kayıtlar:
+- Bağlantının kendisi bir risk: birbirine bağımlı düzenlerden oluşan
+  bir sistem, tek tek düzenlerden hem daha verimli hem daha kırılgan.
+- Alfabenin işaret sayısı ile kimin yazabileceği arasındaki doğrudan
+  bağ kaydedildi.
+- "Karanlık çağ" terimi: bir dönemin karanlık sayılması, o dönem
+  hakkındaki bilgimizin değil o dönemin kayıt kapasitesinin kaydıdır.
+- Deniz kavimleri: yalnızca düşmanının kaydında görünen bir topluluk,
+  o kaydın çerçevesiyle tanımlanır. Neden mi sonuç mu oldukları
+  belirsiz bırakıldı.
+- Behistun kitabesi iki yönüyle ele alındı: üç dilli olması yöneten
+  düzenin nüfus çeşitliliğini kabul ettiğinin kaydı, ve aynı özellik
+  yüzyıllar sonra çivi yazısının çözülmesini sağladı — bir belgenin
+  sonraki değeri, yazıldığı andaki amacından tamamen bağımsız
+  olabilir.
+- Sözlü geleneğin yazıya geçişi bir değiş tokuş olarak yazıldı: yazıya
+  geçirmek bir metni korur ve aynı anda değişme kapasitesini sona
+  erdirir.
+- Demirin etkisinin savaş alanından çok tarla açmada görüldüğü, ve
+  bunun kaydın daha az gösterdiği yan olduğu kaydedildi.
+
+Künye onarımı: k2 ikinci bir Wikipedia'ydı (Bronze Age), yerine
+Herodotos'un tam metni (Project Gutenberg) kondu; Behistun kitabesi
+(Wikisource) k4 olarak eklendi. Dosya artık tek Wikipedia kuralına
+uygun ve iki birincil kaynağı var.
+
+Kalan dönem dosyaları: 01–02.

@@ -71,18 +71,26 @@ kaynaklar:
     dogrulama_dizesi: "Late Bronze Age collapse"
   - anahtar: k2
     tur: ansiklopedi
-    ad: "Wikipedia (EN) — Bronze Age"
-    url: https://en.wikipedia.org/wiki/Bronze_Age
+    ad: "Herodotos - The History of Herodotus, Cilt 1 (Macaulay cevirisi, Project Gutenberg)"
+    url: https://www.gutenberg.org/ebooks/2707
     erisim_tarihi: 2026-08-20
-    dogrulama_dizesi: "Bronze Age"
-    not: "Bölgesel kronolojik çerçeveler için"
+    dogrulama_dizesi: "Herodotus"
+    not: "Donemin sonuna dair en kapsamli anlati; cercevesi dosyada ele alinir"
   - anahtar: k3
     tur: veri
     ad: "Our World in Data — Population, long-run with projections (CSV verisi)"
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "population_historical"
-son_denetim: 2026-08-20
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: kitabe
+    ad: "Behistun Kitabesi - Darius'un kaya yaziti (Wikisource)"
+    url: https://en.wikisource.org/wiki/Behistun_Inscription
+    erisim_tarihi: 2026-08-26
+    dogrulama_dizesi: "Behist"
+    not: "Uc dilde yazilmis kaya yaziti; donemin sonuna ait"
+son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -164,6 +172,462 @@ Bu, tarih yazımı açısından öğretici bir örnektir: yıkım anlatısı baz
 alanlarında desteklenir, bazılarında desteklenmez.[^k1] Genelleme, hangi
 alanların örnek alındığına bağlıdır; bu dosya bu yüzden çöküşün nedeni konusunda
 bir pozisyon almaz.
+
+
+## Dönem sınırının gerekçesi
+
+Başlangıç, doğu Akdeniz'deki saray düzenlerinin kısa bir aralıkta
+çökmesine konmuştur.[^k1] Bitiş, yeni bir imparatorluk düzeninin ve
+onunla birlikte yeni bir yazılı kayıt geleneğinin kurulmasıdır.
+
+İki sınır da doğu Akdeniz merkezlidir.[^k3] Başka bölgeler için bu
+tarihler dönüm noktası değildir.
+
+Atlas bu tercihi ayrıca beyan eder.[^k2] Bir dönemlendirme, seçtiği
+eksenin coğrafyasını da taşır.
+
+## Çöküşün kapsamı
+
+Dönemin başındaki çöküş, birbirine bağlı birçok düzeni aynı kuşakta
+etkiledi.[^k1] Saraylar yakıldı ya da terk edildi.
+
+Çöküş her yeri aynı ölçüde vurmadı.[^k3] Bazı bölgelerde yerleşim
+kesintisiz sürdü.
+
+Atlas bu dağılımı ayrıca kaydeder.[^k2] Bölgesel bir çöküşün bütün
+kıtaya uzatılması, en sık yapılan
+genellemelerdendir.
+
+## Nedenin belirsizliği
+
+Çöküşün nedeni tartışmalıdır.[^k1] Öne sürülen etkenler arasında
+kuraklık, deprem, dışarıdan gelen saldırı, iç ayaklanma ve ticaret
+ağının kesilmesi vardır.
+
+Hiçbiri tek başına yeterli görünmez.[^k3] Aynı etkenler başka
+dönemlerde de bulunur ve bu ölçekte çöküş
+üretmez.
+
+Atlas bu yetersizliği ayrıca kaydeder.[^k2] Bir çöküşün açıklanması,
+bir etken göstermekle bitmez; o etkenin neden başka dönemlerde aynı
+sonucu vermediği de gösterilmelidir.
+
+## Bağlantının kendisi bir risk
+
+Bir açıklama, çöküşün nedenini bağlantının kendisinde
+arar.[^k1] Saray düzenleri birbirine bağımlıydı; bakır ve kalay farklı
+bölgelerden geliyordu.
+
+Zincirin bir halkası koptuğunda hepsi etkilendi.[^k3] Tunç üretimi iki
+uzak kaynağın aynı anda ulaşmasını gerektirir.
+
+Atlas bu yapıyı ayrıca kaydeder.[^k2] Birbirine bağımlı düzenlerden
+oluşan bir sistem, tek tek düzenlerden daha verimli ve daha kırılgan
+olur.
+
+## Demirin yaygınlaşması
+
+Çöküşten sonra demir kullanımı yaygınlaştı.[^k1] Demir cevheri tunç
+girdilerinin aksine geniş bir alanda bulunur.
+
+Bu, üretimi merkezden ayırdı.[^k3] Tunç, uzun mesafeli tedarik ve saray
+denetimi gerektiriyordu; demir gerektirmiyordu.
+
+Atlas bu bağı dosyanın ekseni sayar.[^k2] **Bir hammaddenin coğrafi
+dağılımı, onu işleyen düzenin merkezî mi dağınık mı olacağını
+belirler.**
+
+## Demir daha iyi olduğu için değil
+
+Yaygınlaşmanın nedeni demirin üstünlüğü değildir.[^k1] Erken demir,
+iyi tunçtan üstün değildi.
+
+Neden, tuncun tedarik zincirinin kopmasıdır.[^k3] Elde bulunan
+malzemeyle çalışmak zorunluydu.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k2] Bir teknolojinin
+benimsenmesi, üstünlüğünden değil alternatifin
+ortadan kalkmasından da gelebilir.
+
+## Alfabenin yayılması
+
+Aynı yüzyıllarda ses temelli bir yazı düzeni yaygınlaştı.[^k1] Düzen,
+önceki hece ve işaret sistemlerinden çok daha az işaret
+kullanıyordu.
+
+Az işaret, öğrenmeyi kısaltır.[^k3] Yazı, uzman kâtip sınıfının
+tekelinden çıkmaya başladı.
+
+Atlas bu bağı ayrıca kaydeder.[^k2] Bir yazı sisteminin işaret sayısı,
+o yazıyı kimin öğrenebileceğini doğrudan
+belirler.
+
+## Alfabe ve ticaret
+
+Alfabenin yayılmasını taşıyan şey ticarettir.[^k1] Deniz ticaretiyle
+uğraşan topluluklar arasında yayıldı.
+
+Ticari kayıt, saray kaydından farklı bir ihtiyaçtır.[^k3] Hızlı,
+taşınabilir ve az eğitimle tutulabilir olması
+gerekir.
+
+Atlas bu bağı ayrıca kaydeder.[^k2] Bir yazı düzeninin biçimi, onu
+kullanan kaydın türüne göre
+seçilir.
+
+## Karanlık çağ terimi
+
+Çöküşü izleyen yüzyıllar için kullanılan terim
+tartışmalıdır.[^k1] Terim, kaydın azlığını anlatır.
+
+Kaydın azlığı, olayların azlığı değildir.[^k3] Kayıt üreten kurumlar
+çöktüğü için kayıt seyrelmiştir.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k2] Bir dönemin karanlık sayılması,
+o dönem hakkındaki bilgimizin değil o dönemin kayıt kapasitesinin
+kaydıdır.
+
+## Arkeolojinin payı
+
+Bu dönem için arkeolojik kanıtın payı yüksektir.[^k3] Yerleşim
+yoğunluğu, yapı büyüklüğü ve mezar buluntuları başlıca
+kaynaklardır.
+
+Bu kanıt farklı sorulara cevap verir.[^k1] Tek tek olayları değil uzun
+süreli eğilimleri gösterir.
+
+Atlas bu farkı ayrıca kaydeder.[^k2] Kanıt türü değiştiğinde,
+sorulabilecek soru da değişir.
+
+## Yeni siyasi ölçek
+
+Çöküşten sonra kurulan birimler daha küçüktü.[^k1] Saray yerine kent
+ve bölge ölçeğinde düzenler kuruldu.
+
+Küçük ölçek, farklı bir siyasi biçime de imkân verdi.[^k3] Kent
+ölçeğinde ortak karar mekanizmaları geliştirildi.
+
+Atlas bu bağı ayrıca kaydeder.[^k2] Siyasi birimin küçülmesi, katılımı
+kendiliğinden getirmez ama fiilen mümkün
+kılar.
+
+## Kolonizasyon dalgası
+
+Dönemin ortasında Akdeniz kıyıları boyunca yeni yerleşimler
+kuruldu.[^k1] Kuran topluluklar birbirinden bağımsız hareket
+etti.
+
+Kuruluşun nedeni çoğu zaman toprak kısıtıydı.[^k3] Ana yerleşimin
+taşıyabileceğinden fazla nüfus, yeni yerleşim
+kuruyordu.
+
+Atlas bu mekanizmayı ayrıca kaydeder.[^k2] Bir yayılma dalgası, fetih
+kadar nüfus baskısının da sonucu
+olabilir.
+
+## Yeni imparatorluklar
+
+Dönemin sonuna doğru yeniden büyük ölçekli imparatorluklar
+kuruldu.[^k1] Bunlar önceki saray düzenlerinden farklıydı.
+
+Fark, ölçek ve kayıt kapasitesindedir.[^k4] Yeni düzenler çok dilli ve
+çok halklıydı; yazışma için ortak bir idari dil
+kullandılar.
+
+Atlas bu farkı ayrıca kaydeder.[^k3] Bir imparatorluğun büyüklüğü,
+tek bir dilde yönetilemeyecek kadar çeşitli bir nüfusu kaydedebilme
+kapasitesine bağlıdır.
+
+## Behistun kitabesi
+
+Dönemin sonuna ait bir kaya yazıtı, bu kapasiteyi doğrudan
+gösterir.[^k4] Metin üç dilde ve üç yazıyla
+yazılmıştır.
+
+Üç dilli olması bir tercih değil bir zorunluluktu.[^k4] Metnin
+ulaşması istenen kitleler farklı diller
+konuşuyordu.
+
+Atlas bu ayrıntıyı ayrıca kaydeder.[^k1] Çok dilli bir resmî metin,
+yöneten düzenin kendi nüfusunun çeşitliliğini kabul ettiğinin
+kaydıdır.
+
+## Kitabenin çözülmesi
+
+Aynı metnin üç dilde bulunması, yüzyıllar sonra çivi yazısının
+çözülmesini sağladı.[^k4] Bilinen bir dil, bilinmeyen ikisine anahtar
+oldu.
+
+Bu, atlasın kanıt dosyalarında ayrıca ele alınan bir yöntem
+örneğidir.[^k1] Çok dilli bir metin, kendi içinde bir çeviri sözlüğü
+taşır.
+
+Atlas bu değeri ayrıca kaydeder.[^k3] Bir belgenin sonraki değeri,
+yazıldığı andaki amacından tamamen bağımsız
+olabilir.
+
+## Metnin içeriği ve güvenilirliği
+
+Kitabe bir hükümdarın kendi tahta çıkışını
+anlatır.[^k4] Anlatı, rakiplerini gayrimeşru gösterir.
+
+Metin bir kayıt olduğu kadar bir iddiadır.[^k1] Olayların o sırayla
+gerçekleştiği metnin kendisinden
+çıkarılamaz.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir hükümdarın kendi meşruiyetini
+anlattığı metin, meşruiyet iddiasının kaydıdır; olayların
+değil.
+
+## Herodotos'un konumu
+
+Dönemin sonuna dair en kapsamlı anlatı, olayların üzerinden bir kuşak
+geçtikten sonra yazıldı.[^k2] Yazar, kendi kaynaklarını çoğu yerde
+belirtir.
+
+Belirtme, sınanabilirlik sağlar.[^k1] Yazarın hangi iddiaya neden
+güvendiği izlenebilir.
+
+Atlas bu tutumu kendi ilkesine bağlar.[^k3] Yöntemini bildiren bir
+kayıt, yalnızca sonucunu bildiren bir kayıttan daha
+güçlüdür.
+
+## Anlatının çerçevesi
+
+Aynı anlatı bir tarafın konumundan yazılmıştır.[^k2] Karşı tarafın
+kendi kaydı bu ölçüde ayrıntılı değildir.
+
+Bu, dönemin bilgi dağılımını doğrudan belirler.[^k4] Bir çatışmanın
+iki tarafından biri ayrıntılı, diğeri özet
+bilinir.
+
+Atlas bu dengesizliği ayrıca kaydeder.[^k1] Bir çatışma hakkındaki
+bilginin kaynağı tek taraflıysa, o çatışmanın anlatısı da tek
+taraflıdır.
+
+## Nüfusun seyri
+
+Dönem boyunca dünya nüfusu arttı.[^k3] Artış, çöküş bölgelerindeki
+düşüşe rağmen gerçekleşti.
+
+Küresel toplam, bölgesel kayıpları gizler.[^k1] Aynı yüzyıllarda başka
+bölgelerde yoğun bir tarımsal genişleme
+yaşandı.
+
+Atlas bu bileşkeyi ayrıca kaydeder.[^k2] Bir küresel eğrinin
+yükselmesi, hiçbir bölgede düşüş olmadığını
+göstermez.
+
+## Diğer bölgelerdeki eşzamanlı gelişmeler
+
+Aynı yüzyıllarda başka bölgelerde de büyük değişimler
+yaşandı.[^k3] Doğuda yeni hanedanlar, güneyde yeni kentler ve yeni
+metin gelenekleri kuruldu.
+
+Bunlar Akdeniz'deki çöküşten bağımsızdır.[^k1] Aralarında doğrudan bir
+bağ gösterilememektedir.
+
+Atlas bu bağımsızlığı ayrıca kaydeder.[^k2] Bir dönemin bütün
+bölgelerinin aynı eğilimi izlemesi
+beklenmez.
+
+## Kaydın durumu
+
+Bu dönem için yazılı kayıt çok seyrektir.[^k1] Çöküş dönemi için
+neredeyse hiç yoktur.
+
+Dönemin sonuna doğru kayıt yeniden yoğunlaşır.[^k4] Yeni
+imparatorlukların idari kayıtları ve yazıtları bu
+yoğunlaşmayı sağlar.
+
+Atlas bu dalgalanmayı ayrıca kaydeder.[^k3] Kayıt yoğunluğundaki
+dalgalanma, dönemin siyasi merkezîleşme derecesinin dolaylı
+göstergesidir.
+
+## Dönemi atlasta okumak
+
+Bu döneme bağlanan dosyalar dört öbekte toplanır.[^k1] Çöküşün olay ve
+tartışma dosyaları, yeni düzenlerin aktör dosyaları, yazı ve demir
+kavram dosyaları, dönemin veri dosyaları.
+
+Dördü birlikte okunmalıdır.[^k4] Bir sarayın yakılması, bir alfabenin
+yayılması, bir yazıtın dikilmesi ve bir yerleşim yoğunluğunun düşmesi
+aynı dönemi dört ayrı düzeyde kaydeder.[^k3]
+
+## Bu dosyanın sınırı
+
+Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
+dosyasında ayrıntılı ele alınır ve burada yalnızca döneme
+bağlanır.
+
+Çöküşün nedeni burada karara bağlanmaz.[^k3] Atlasın ayrı bir
+tartışma dosyası bu soruyu ele alır.
+
+Sayısal seriler burada yorumlanır, üretilmez.[^k3] Serilerin
+kaynakları ve yöntemleri atlasın veri dosyalarında ayrı ayrı
+kayıtlıdır.[^k2]
+
+
+## Deniz kavimleri sorunu
+
+Çöküş anlatısında sık anılan bir grup vardır.[^k1] Dönemin
+kayıtlarında saldıran topluluklar olarak
+geçerler.
+
+Kayıt, saldırıya uğrayan tarafındır.[^k4] Grupların kendi kaydı
+yoktur; adları bile karşı taraftan
+gelir.
+
+Atlas bu durumu ayrıca kaydeder.[^k3] Yalnızca düşmanının kaydında
+görünen bir topluluk, o kaydın çerçevesiyle
+tanımlanır.
+
+## Neden mi sonuç mu
+
+Bu grupların çöküşün nedeni mi sonucu mu olduğu
+tartışmalıdır.[^k1] Yerinden edilmiş nüfusların hareketi olabilecekleri
+ileri sürülür.
+
+İki okuma aynı kayıtlarla uyumludur.[^k3] Kayıt, saldırıyı gösterir;
+saldıranların neden yola çıktığını
+göstermez.
+
+Atlas bu belirsizliği korur.[^k4] Bir hareketin kaydedilmesi,
+o hareketin nedeninin kaydedildiği anlamına
+gelmez.
+
+## Ticaretin toparlanması
+
+Çöküşten sonra deniz ticareti bir süre daraldı, sonra yeniden
+genişledi.[^k1] Genişlemeyi yürüten topluluklar öncekilerden
+farklıydı.
+
+Yeni ağ saraylara değil kent limanlarına dayanıyordu.[^k3] Örgütlenme
+merkezî değil dağınıktı.
+
+Atlas bu farkı ayrıca kaydeder.[^k4] Aynı işlev, bambaşka bir
+örgütlenme biçimiyle yeniden
+kurulabilir.
+
+## Sikke öncesi ödeme
+
+Dönemde ödeme büyük ölçüde tartılan maden ve mal takasıyla
+yapılıyordu.[^k3] Standart sikke dönemin sonuna doğru
+ortaya çıktı.
+
+Sikkenin çıkışı, ticaretin hacminden çok devletin garanti verme
+kapasitesine bağlıdır.[^k1] Damga, ayarın devletçe onaylandığını
+gösterir.
+
+Atlas bu bağı ayrıca kaydeder.[^k4] Bir para biriminin ortaya çıkışı,
+bir teknik yenilik değil bir güven
+düzenlemesidir.
+
+## Tapınak ve kent
+
+Yeni kurulan kentlerde tapınak, hem dinî hem idari bir merkez
+oldu.[^k3] Depolama ve kayıt işleri burada
+yürütüldü.
+
+Bu, önceki saray düzeninin işlevlerinin bir bölümünün devralınmasıdır.[^k1]
+Kurum değişti, işlev sürdü.
+
+Atlas bu sürekliliği ayrıca kaydeder.[^k4] Bir düzenin çökmesi,
+yürüttüğü işlevlerin ortadan kalkması anlamına
+gelmez; işlevler başka kurumlara
+dağılır.
+
+## Sözlü geleneğin yazıya geçişi
+
+Dönemin sonuna doğru, uzun süre sözlü aktarılan anlatılar yazıya
+geçirildi.[^k1] Yazıya geçiş, aktarımı dondurur.
+
+Dondurma bir kayıp da üretir.[^k3] Sözlü aktarımın her seferinde
+yenilenen esnekliği sona
+erer.
+
+Atlas bu değiş tokuşu ayrıca kaydeder.[^k4] Yazıya geçirmek bir metni
+korur ve aynı anda onun değişme kapasitesini
+sona erdirir.
+
+## Metnin katmanları
+
+Bu yolla yazıya geçen metinler katmanlıdır.[^k2] Farklı dönemlerin dil
+özellikleri aynı metinde bulunur.
+
+Katmanlar dilbilimsel yöntemlerle kısmen ayrılabilir.[^k1] Bu, metnin
+hangi bölümünün ne kadar eski olduğunu tahmin
+etmeyi sağlar.
+
+Atlas bu yöntemi ayrıca kaydeder.[^k3] Bir metnin yazıya geçiş tarihi
+ile içindeki en eski katmanın tarihi ayrı iki
+veridir.
+
+
+## Ordu düzeninin değişimi
+
+Saray düzenlerinin ordusu savaş arabalarına dayanıyordu.[^k1] Araba
+pahalıydı ve bakımı uzman gerektiriyordu.
+
+Çöküşten sonra piyade öne çıktı.[^k3] Demir silahın ucuzlaması, daha
+çok kişinin silahlanmasını mümkün
+kıldı.
+
+Atlas bu bağı ayrıca kaydeder.[^k4] Silahın maliyeti düştüğünde,
+askerî güç daha geniş bir kesime dağılır ve siyasi katılım talebi de
+buna eşlik edebilir.
+
+## Katılım ile silah arasındaki bağ
+
+Bu bağ dönemin sonundaki siyasi biçimlerde
+izlenebilir.[^k1] Ağır piyade düzenine dayanan kentlerde karar
+mekanizmaları daha geniş katılımlıydı.
+
+Bağ zorunlu değildir.[^k3] Aynı askerî düzenin dar bir seçkinle
+sürdüğü örnekler de vardır.
+
+Atlas bu yüzden bağı kural değil eğilim sayar.[^k4] Bir askerî
+düzenin siyasi sonucu, o düzenin kimlerce finanse edildiğine
+bağlıdır.
+
+## Sömürgeleşme ve yazı
+
+Yeni kurulan yerleşimler ana yerleşimle yazışıyordu.[^k1] Bu, alfabenin
+yayılmasını hızlandırdı.
+
+Yazı, ticaret kadar bağ kurmanın da aracıydı.[^k3] Uzak bir yerleşimle
+ilişki, yazılı iletişim olmadan
+sürdürülemez.
+
+Atlas bu bağı ayrıca kaydeder.[^k4] Bir yayılma dalgasının menzili,
+onu taşıyan iletişim aracının menzilini
+aşamaz.
+
+## Doğuda eş zamanlı düzen
+
+Aynı yüzyıllarda doğuda uzun süreli bir hanedan düzeni
+işliyordu.[^k3] Bu düzen de merkezî otoritenin zayıfladığı bir aşamaya
+girdi.
+
+Sonuç, çok sayıda rakip beyliğin ortaya çıkmasıydı.[^k1] Rekabet,
+düşünce çeşitliliğini de besledi.
+
+Atlas bu benzerliği ayrıca kaydeder.[^k4] Merkezî otoritenin
+zayıflaması, iki ayrı kıtada benzer bir siyasi parçalanma ve benzer
+bir düşünce canlanması üretti.
+
+## Güney Asya'da eş zamanlı gelişme
+
+Aynı yüzyıllarda güneyde de yeni kentler ve yeni siyasi birimler
+kuruldu.[^k3] Demir kullanımı burada da yaygınlaştı.
+
+Ormanlık alanların tarıma açılması demir aletlerle
+hızlandı.[^k1] Bu, nüfus artışını doğrudan
+besledi.
+
+Atlas bu bağı ayrıca kaydeder.[^k4] Demirin etkisi savaş alanından çok
+tarla açmada görülür ve bu, kaydın daha az
+gösterdiği yandır.
 
 ## Fikir dünyası
 
