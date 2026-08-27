@@ -189,6 +189,20 @@ Atlas bu farkı ayrıca kaydeder.[^k2] Bir uygulamanın kabul görmesi,
 öğretiden çok yerel geleneğe
 bağlıdır.
 
+
+## Kaydın durumu
+
+Gelenek hakkındaki kayıt iki türdür.[^k1] Kendi içinden yazılmış
+menkıbe ve öğreti metinleri, ve dışarıdan yazılmış idari ve fıkhî
+kayıtlar.
+
+İkisi farklı sorulara cevap verir.[^k3] Biri öğretiyi, diğeri kurumun
+mülkünü ve konumunu gösterir.
+
+Atlas ikisini birlikte kullanır.[^k2] Bir hareketin öğretisi kendi
+metinlerinden, ağırlığı ise vergi ve vakıf kayıtlarından
+okunur.
+
 ## Bu dosyanın sınırı
 
 Tasavvufun tarihi, tarikatlar, kavramları ve edebiyatı burada ayrı başlıklar

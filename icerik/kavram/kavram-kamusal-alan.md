@@ -185,6 +185,17 @@ yürüyordu.
 değişir.[^k2] Cevaplar dosyalarda ayrı ayrı
 kaydedilir.[^k3]
 
+
+## Kavramın sınırı
+
+Kavram, tartışmanın niteliğini değil koşullarını
+ölçer.[^k1] Bir kamusal alanın varlığı, orada iyi kararlar alındığını
+göstermez.
+
+Atlas bu ayrımı korur.[^k2] Koşulların sağlanması ile sonucun iyi
+olması ayrı iki sorudur ve ikincisi bu kavramın konusu
+değildir.[^k3]
+
 ## Bu dosyanın sınırı
 
 Kavramın tarihi, burjuva kamusal alanı çözümlemesi ve retorik tartışması burada

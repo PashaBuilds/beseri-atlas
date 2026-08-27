@@ -197,6 +197,21 @@ Bu, kavramın tartışmalı olmasından
 doğar.[^k3] Tartışmalı bir kavram, ancak ölçütleri açıkça
 yazıldığında kullanılabilir.
 
+
+## Kavramın öncülleri
+
+Terim yirminci yüzyılda yaygınlaştı ama tanımladığı ilişki çok daha
+eskidir.[^k1] Atlasın erken dönem dosyalarında da aynı üç ölçüt
+uygulanabilir.
+
+Bu, kavramın geriye taşınabilir olduğunu
+göstermez.[^k2] Ölçütler geriye taşınabilir; terimin kendisi o
+dönemlerin diline ait değildir.
+
+Atlas bu ayrımı korur.[^k3] Bir ölçütü geçmişe uygulamak ile bir
+terimi geçmişe yüklemek ayrı iki
+işlemdir.
+
 ## Bu dosyanın sınırı
 
 Emperyalizm çağı, ülke ülke tarihler ve kuramların içeriği burada ayrı başlıklar

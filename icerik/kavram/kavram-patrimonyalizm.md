@@ -197,6 +197,13 @@ Bu, ideal tip yönteminin kendisidir.[^k3] Ölçüt gerçekte bulunmaz;
 gerçek durumlar ona olan mesafeyle
 ölçülür.
 
+
+## Kavramın kaynağı
+
+Kavramı bugünkü biçimiyle tanımlayan yazar, onu bir ideal tip olarak
+kurdu.[^k2] Amaç betimlemek değil karşılaştırma ölçütü
+üretmekti.[^k1][^k3]
+
 ## Bu dosyanın sınırı
 
 Betimlemelerin içeriği, örnekler ve çağdaş tartışmalar burada ayrı başlıklar
