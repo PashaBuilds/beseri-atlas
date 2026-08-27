@@ -3952,3 +3952,41 @@ kayıtlarla uyumlu.
   alınması, donem-08'deki aynı örüntünün tekrarı olarak bağlandı.
 
 Kalan dönem dosyaları: 01–07.
+
+## 2026-08-26 — donem-07 onarıldı (595 → 2400+)
+
+Onuncu dönem dosyası. 1000–1350.
+
+Dosyanın ekseni: bozkır siyasi biçiminin Avrasya ölçeğine çıkması ve
+kurduğu ağın hem malı hem hastalığı taşıması. Bu ölçüm, donem-08
+dosyasıyla doğrudan bağlandı — bir dönemin en yıkıcı sonucu,
+kendinden önceki dönemde kurulan bir altyapının ürünü olabilir.
+
+Öne çıkan kayıtlar:
+- Yıkım ile bağlantı birlikte kaydedildi: bir düzenin bilançosu,
+  yalnızca kazandırdıklarıyla da yalnızca yıktıklarıyla da
+  çıkarılamaz.
+- Din siyaseti bir maliyet hesabı olarak okundu: geniş ve çok inançlı
+  bir alanı yönetmek, tek bir inancı dayatmakla uyuşmuyordu.
+- Vakıf düzeni: bir kurumun sürekliliği, gelirinin siyasi karardan
+  bağımsız hâle getirilmesine bağlı.
+- Kâğıdın yayılması kaydın miktarına bağlandı: bir dönemin bıraktığı
+  kayıt miktarı, o dönemin yazı malzemesinin maliyetiyle doğrudan
+  ilişkili.
+- Kâğıt paranın batıda tutmaması: bir aracın taşınabilir olması, onu
+  mümkün kılan kurumsal güvencenin de taşınabilir olduğunu göstermez.
+- Kent büyüklüğü ile su yolu erişimi arasındaki ilişki, dönemin en
+  tutarlı örüntülerinden biri olarak kaydedildi.
+- Haber menzili bir ölçüt olarak önerildi: bir imparatorluğun fiilî
+  büyüklüğü, sınırlarından çok merkezle çeper arasındaki haber
+  süresiyle ölçülebilir.
+- Aynı yüzyıllarda Hint Okyanusu'nda silahsız ve tekelsiz bir deniz
+  düzeni işliyordu; iki deniz düzeni aynı mantığa dayanmıyor.
+- Okyanusya'daki eş zamanlı yerleşim ayrıca kaydedildi: bir dönemin
+  bütün bölgeleri aynı ağın parçası olmak zorunda değil.
+
+Bir YAML hatası yakalandı ve düzeltildi: yeni künye bloğunu mevcut bir
+kaynağın `not:` satırından önce eklemişim, aynı anahtar iki kez
+görünmüş. KAPI 1 anında yakaladı.
+
+Kalan dönem dosyaları: 01–06.
