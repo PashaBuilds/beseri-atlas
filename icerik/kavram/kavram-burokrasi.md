@@ -194,6 +194,17 @@ cevabı verilir.
 Sonuç dereceli olarak kaydedilir.[^k3] Bir düzen bazı ölçütlerde
 bürokratik, bazılarında değildir.
 
+
+## Yazının biçimi
+
+Bürokratik bir düzen kendi belge biçimlerini
+üretir.[^k1] Standart form, numaralandırma ve arşiv düzeni bunun
+parçasıdır.
+
+Bu biçimler sonraki okur için doğrudan bir
+kanıttır.[^k2] Standartlaşmış bir belge dizisi, arkasındaki kurumun
+düzenliliğini gösterir.[^k3]
+
 ## Bu dosyanın sınırı
 
 Kavramın tanımı, ülke ülke tarihler ve kuramların içeriği burada ayrı başlıklar

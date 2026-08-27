@@ -194,6 +194,16 @@ Atlas bu ölçütleri her dosyada uygular.[^k3] Bir ağın varlığı,
 düğümlerin sayısı kadar aralarındaki bağlantının düzenliliğiyle de
 ölçülür.
 
+
+## Dilin izi
+
+Uzun süren ağlar kendi ticaret dillerini
+üretir.[^k1] Karma diller, ağın coğrafi menzilinin doğrudan
+kaydıdır.
+
+Bu diller siyasi denetim sona erdikten sonra da
+sürebilir.[^k2] Bir ağın en uzun ömürlü kalıntısı çoğu zaman dilidir.[^k3]
+
 ## Bu dosyanın sınırı
 
 Yolların ayrıntısı, taşınan mallar ve ticaretin iktisadi etkileri burada ayrı
