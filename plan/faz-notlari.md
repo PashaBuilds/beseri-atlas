@@ -3876,3 +3876,42 @@ Diğer kayıtlar:
   yazıldı.
 
 Kalan dönem dosyaları: 01–07, 11, 13.
+
+## 2026-08-26 — donem-11 onarıldı (567 → 2500+)
+
+Sekizinci dönem dosyası. 1789–1848.
+
+Dosyanın ekseni üç dönüşümün altmış yıla sığması: meşruiyetin halka,
+üretimin makineye, kimliğin ulusa bağlanması. Üçü bağımsız değil —
+makineye dayalı üretim yeni bir kentli nüfus üretti, o nüfus siyasi
+katılım talebinin tabanı oldu.
+
+Dönemin iç gerilimi ayrıca yazıldı: aynı yıllarda hakların evrensel
+olduğu yazılırken sınırlar hanedan hakkına göre çiziliyordu. Ölçüm:
+bir düzenlemenin görmezden geldiği ilke, birkaç kuşak sonra o
+düzenlemenin kendisini hedef alır (1815 düzeni → 1848 dalgası).
+
+Öne çıkan kayıtlar:
+- Haiti: bağımsızlığın tanınma koşulu, eski sahiplerine tazminat
+  ödenmesiydi. Bir bağımsızlığın tanınması için tazminat istenmesi,
+  hangi tarafın hak sahibi sayıldığını gösterir.
+- Köleliğin kaldırılmasında tazminat köleleştirilenlere değil köle
+  sahiplerine ödendi; gerekçe mülkiyet hakkıydı. Bir haksızlığın
+  kaldırılmasında kime tazminat ödendiği, o düzende kimin hak sahibi
+  sayıldığını gösterir.
+- Ticaretin yasaklanması ile köleliğin kaldırılması ayrı iki adım ve
+  aralarında onlarca yıl var: bir uygulamanın beslenme kanalının
+  kesilmesi, uygulamanın sona ermesi değil.
+- Fabrika düzeninin saate göre kurulması, önceki dönem dosyasında
+  kaydedilen zaman ölçümü yaygınlaşmasına bağlandı: bir örgütlenme
+  biçimi, kendinden önce kurulmuş bir ölçüm altyapısını gerektirebilir.
+- Makine kırıcılığı: hedef makinenin kendisi değil, onunla kurulan
+  çalışma düzeniydi.
+- Bir bölgede sanayi kurulurken başka bölgede el dokumacılığının
+  çözülmesi, aynı sürecin iki ucu olarak birlikte kaydedildi.
+- Ulus anlatılarının derlenmesi: bir ulusun geçmişi keşfedilmez,
+  mevcut malzemeden seçilerek kurulur.
+- Düzenli nüfus sayımının bu dönemde kurulması, atlasın veri
+  katmanındaki birçok serinin neden burada başladığını açıklıyor.
+
+Kalan dönem dosyaları: 01–07, 13.
