@@ -462,8 +462,8 @@ dosyasında ayrıntılı ele alınır; burada yalnızca döneme bağlanır ve
 dönemin eksenine katkısıyla anılır.
 
 Bölgesel ayrıntı sınırlıdır.[^k2] Şerit satırları, bölgelerin kendi
-tarihlerinden çok ortak mekanizmanın onlardaki görünümünü
-verir.
+tarihlerinden çok ortak mekanizmanın onlardaki görünümünü verir ve
+her bölge kendi dosyalarında ayrıca ele alınır.
 
 Sayısal seriler burada yorumlanır, üretilmez.[^k3] Serilerin
 kaynakları, yöntemleri ve başlangıç tarihleri atlasın veri
