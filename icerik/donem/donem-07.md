@@ -688,8 +688,8 @@ Ağı kuran düzen, bir kuşak içinde birkaç ayrı hanedanlığa
 bölündü.[^k2] Her biri bulunduğu bölgenin yerleşik geleneğini
 benimsedi.
 
-Bu benimseme hızlıydı.[^k1] Bir kuşak içinde yönetim dili, hukuk düzeni
-ve inanç tercihi değişti.
+Bu benimseme şaşırtıcı ölçüde hızlıydı.[^k1] Bir kuşak içinde yönetim
+dili, hukuk düzeni ve inanç tercihi büyük ölçüde değişti.
 
 Atlas bu hızı ayrıca kaydeder.[^k6] Fetheden tarafın fethedilen
 bölgenin düzenini benimsemesi, bozkır kökenli düzenlerde tekrar eden

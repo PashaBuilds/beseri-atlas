@@ -3990,3 +3990,41 @@ kaynağın `not:` satırından önce eklemişim, aynı anahtar iki kez
 görünmüş. KAPI 1 anında yakaladı.
 
 Kalan dönem dosyaları: 01–06.
+
+## 2026-08-26 — donem-07 onarıldı (595 → 2500)
+
+Onuncu dönem dosyası. 1000–1350.
+
+Dosyanın ekseni: bozkır siyasi biçiminin Avrasya ölçeğine çıkması ve
+kurduğu ağın hem malı hem hastalığı taşıması. Bu, donem-08 dosyasına
+doğrudan bağlandı — bir dönemin en yıkıcı sonucu, kendinden önceki
+dönemde kurulan bir altyapının ürünü olabilir.
+
+Öne çıkan kayıtlar:
+- Yıkım ile bağlantı birlikte kaydedildi: bir düzenin bilançosu,
+  yalnızca kazandırdıklarıyla da yalnızca yıktıklarıyla da
+  çıkarılamaz.
+- Din siyaseti bir maliyet hesabı olarak okundu: geniş ve çok inançlı
+  bir alanı yönetmek, tek bir inancı dayatmakla uyuşmuyordu.
+- Vakıf düzeni: bir kurumun sürekliliği, gelirinin siyasi karardan
+  bağımsız hâle getirilmesine bağlı.
+- Kâğıdın yayılması kaydın miktarına bağlandı: bir dönemin bıraktığı
+  kayıt miktarı, yazı malzemesinin maliyetiyle doğrudan ilişkili.
+- Kâğıt paranın batıda tutmaması: bir aracın taşınabilir olması, onu
+  mümkün kılan kurumsal güvencenin de taşınabilir olduğunu göstermez.
+- Haber menzili bir ölçüt olarak önerildi: bir imparatorluğun fiilî
+  büyüklüğü, sınırlarından çok merkezle çevre arasındaki haber
+  süresiyle ölçülebilir.
+- Aynı yüzyıllarda Hint Okyanusu'nda silahsız ve tekelsiz bir deniz
+  düzeni işliyordu; iki deniz düzeni aynı mantığa dayanmıyor.
+- Fetheden düzenin bir kuşakta fethedilen bölgenin düzenini
+  benimsemesi ve kaydın yerleşik gelenekte tutulması: bir düzen
+  hakkındaki kaydın tabi olanlarca tutulması, o düzenin anlatısını da
+  onların konumundan kurar.
+
+İki kapı bu turda işe yaradı: KAPI 1 bir YAML hatasını (yeni künye
+bloğunu mevcut bir kaynağın `not:` satırından önce eklemişim, anahtar
+iki kez görünmüş) ve KAPI 4 kilitli bir terimi ("çeper" yerine
+"çevre") yakaladı.
+
+Kalan dönem dosyaları: 01–06.
