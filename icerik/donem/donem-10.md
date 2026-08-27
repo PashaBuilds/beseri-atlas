@@ -105,7 +105,7 @@ kaynaklar:
     url: https://islamansiklopedisi.org.tr/osmanlilar
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "OSMANLILAR"
-son_denetim: 2026-08-20
+son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -175,6 +175,493 @@ olması[^k3] bu eşzamanlılığı mümkün kılan lojistik tabanı sağladı.
 Akılcı ilkelerin toplumsal ve siyasi reforma uygulanması iddiası,[^k1] bir
 sonraki dönemde devrim programına dönüşecektir; o dönem
 [1789–1848](/donem/11/) dosyasında ele alınıyor.
+
+
+## Dönem sınırının gerekçesi
+
+Başlangıç, kıtadaki uzun din savaşlarının bitişinden birkaç yıl
+sonrasına konmuştur.[^k1] Bitiş, kıtanın en büyük siyasi kırılmasının
+başladığı yıldır.
+
+İki sınır da tartışmalıdır.[^k2] Düşünce hareketinin köklerini bir
+yüzyıl daha geriye götüren okumalar vardır.
+
+Atlas bu tartışmayı kaydeder ve karara bağlamaz.[^k3] Bir dönemin
+sınırı, o dönemi tanımlayan eğilimin en görünür olduğu ana konur.
+
+## İki eğilimin aynı yıllara denk gelmesi
+
+Dönemin ayırt edici yanı, iki ayrı eğilimin aynı yıllara sığmasıdır.[^k1]
+Biri meşruiyetin kaynağını yeniden tanımlayan düşünce hareketi,
+diğeri ticaretin ve savaşın kıtalar arası ölçeğe çıkması.
+
+İkisi bağımsız değildir.[^k2] Ticari genişleme, düşünce hareketinin
+maddi tabanını ve yayılma kanallarını sağladı.
+
+Atlas bu kesişimi dosyanın ekseni sayar.[^k4] Aynı yıllarda yazılan
+metinlerle aynı yıllarda kurulan ticaret ağları birbirini
+besledi.
+
+## Meşruiyetin kaynağı sorusu
+
+Dönemin merkezî sorusu şudur.[^k1] Bir yönetimin dayanağı gelenek ve
+sırasıyla kutsal bir kaynak mı, yoksa akıl yürütmeyle ulaşılabilir
+ilkeler mi.
+
+Soru yeni değildi ama bu dönemde yaygın biçimde ve basılı olarak
+tartışıldı.[^k2] Tartışmanın yayılması, sorunun kendisinden ayrı bir
+olgudur.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir fikrin ortaya çıkışı ile
+geniş bir okur kitlesine ulaşması, farklı tarihlerde gerçekleşir.
+
+## Basımın rolü
+
+Dönemin fikir hareketinin taşıyıcısı basımdır.[^k1] Kitap, broşür ve
+süreli yayın sayısı belirgin biçimde arttı.
+
+Basım aynı zamanda bir denetim konusuydu.[^k4] Sansür düzenleri,
+neyin basılabileceğini belirliyordu.
+
+Atlas bu gerilimi ayrıca kaydeder.[^k2] Yayılan bir fikrin hangi
+biçimde yayıldığı, sansürün hangi biçimleri kolay denetlediğine
+bağlıdır.
+
+## Ansiklopedi girişimi
+
+Dönemin en belirgin yayın girişimi, bilgiyi tek bir düzende toplamayı
+amaçlayan bir ansiklopedidir.[^k1] Girişim uzun yıllar sürdü ve
+kesintiye uğradı.
+
+Amaç yalnızca derleme değildi.[^k2] Bilginin dinî otoriteden bağımsız
+bir düzende sınıflandırılması da hedefleniyordu.
+
+Atlas bu tercihi ayrıca kaydeder.[^k3] Bir derlemenin sınıflandırma
+düzeni, derleyenin bilgi anlayışının doğrudan kaydıdır.
+
+## Sınıflandırmanın kendisi bir iddia
+
+Atlas bu noktayı kendi çalışmasına da bağlar.[^k1] Hangi konunun hangi
+başlık altında toplandığı, bir yorumdur.
+
+Aynı bilgi farklı düzenlerde farklı ilişkiler kurar.[^k2] Din başlığı
+altında toplanan bir konu ile ahlak başlığı altında toplanan aynı
+konu, farklı sorular doğurur.
+
+Atlas bu yüzden kendi bölümlemesini açıkça bildirir.[^k4] Bir atlasın
+bölümlemesi, anlattığı içerik kadar kendi konumunun da
+kaydıdır.
+
+## Ticari genişlemenin biçimi
+
+Dönemin ticareti şirket biçiminde örgütlendi.[^k2] Ayrıcalıklı
+şirketler, belirli bölgelerde tekel hakkı aldı.
+
+Bu şirketler yalnızca ticari değildi.[^k4] Ordu bulundurma, kale
+kurma ve antlaşma yapma yetkileri vardı.
+
+Atlas bu yapıyı ayrıca kaydeder.[^k1] Zor kullanma yetkisinin bir
+ticari kuruluşa devredilmesi, sorumluluğun kime ait olduğunu da
+belirsizleştirir.
+
+## Şirket ile devlet arasındaki sınır
+
+Ayrıcalıklı şirketler devletten ayrıydı ama bağımsız değildi.[^k2] Kâr
+paylaşımı, imtiyaz yenilemesi ve donanma desteği bu bağı
+kuruyordu.
+
+Sınır her iki yönde de geçirgendi.[^k4] Şirket görevlileri devlet
+görevine, devlet görevlileri şirket yönetimine geçebiliyordu.
+
+Atlas bu geçişkenliği ayrıca kaydeder.[^k3] Bir yetkinin kime ait
+olduğu, kimin kararı verdiğinden çok kimin sonucundan kazandığından
+okunabilir.
+
+## İlk kıtalar arası savaş
+
+Dönemin ortasında, birden çok kıtada eşzamanlı yürütülen bir savaş
+yaşandı.[^k1] Çarpışmalar aynı yıllarda farklı kıtalarda
+gerçekleşti.
+
+Bu, savaşın ölçeğinde bir değişimdir.[^k4] Önceki savaşlar tek bir
+bölgeyle sınırlıydı; sömürge bağlantıları savaşı da
+küreselleştirdi.
+
+Atlas bu değişimi ayrıca kaydeder.[^k2] Bir savaşın ölçeği, tarafların
+gücünden çok bağlantılarının menzilinden belirlenir.
+
+## Savaşın finansmanı
+
+Kıtalar arası savaş, önceki savaşlardan çok daha pahalıydı.[^k2]
+Finansman büyük ölçüde borçlanmayla sağlandı.
+
+Borç, sonraki dönemin siyasi krizlerinin doğrudan kaynağı oldu.[^k1]
+Vergi artırma girişimleri, temsil talebini doğurdu.
+
+Atlas bu zinciri ayrıca kaydeder.[^k4] Bir savaşın siyasi sonucu, çoğu
+zaman muharebe alanında değil bütçe görüşmesinde belirir.
+
+## Vergi ve temsil
+
+Dönemin en tekrarlanan siyasi formülü, verginin temsile bağlanmasıdır.[^k1]
+Formül, önce yerleşimci bölgelerde ileri sürüldü.
+
+Talebin gerekçesi hukukiydi.[^k2] Karar süreçlerinde yer almayanlardan
+vergi alınamayacağı savunuldu.
+
+Atlas bu formülü ayrıca kaydeder.[^k4] Aynı formül, atlasın vatandaşlık
+dosyasında tanımlanan ayrımın erken bir ifadesidir: yönetilen ile
+üye sayılan aynı kişi değildir.
+
+## Kölelik düzeni
+
+Aynı dönemde Atlantik köle ticareti en yüksek hacmine ulaştı.[^k3] Bu,
+dönemin fikir hareketiyle aynı yıllara denk gelir.
+
+İki olgunun aynı yıllara sığması ayrıca kaydedilmelidir.[^k1] Eşitlik
+ve doğal hak üzerine yazılan metinlerle taşınan insan sayısı aynı
+dönemde arttı.
+
+Atlas bu çelişkiyi gizlemez.[^k2] Bir dönemin ürettiği ilkelerle o
+dönemde yürüttüğü uygulamalar arasındaki fark, dönemin kendi
+kaydıdır.
+
+## İlkenin kapsamı
+
+Dönemin metinlerinde kapsam sorusu açıkça tartışılmadı.[^k1] Kimin
+"insan" sayıldığı çoğu metinde varsayılmıştır.
+
+Kapsam tartışması sonraki dönemin konusudur.[^k4] O tartışma, bu
+dönemin metinlerini kendi silahı olarak kullandı.
+
+Atlas bu kullanımı ayrıca kaydeder.[^k2] Bir ilkenin dar kapsamla
+formüle edilmesi, kapsamının genişletilmesine karşı bir engel
+değil bir dayanak olabilir.
+
+## Nüfusun seyri
+
+Dönem boyunca dünya nüfusu artmaya devam etti.[^k3] Artış, önceki
+yüzyıllara göre daha düzenlidir.
+
+Salgın kaynaklı büyük düşüşler bu dönemde seyrekleşti.[^k3] Bu,
+demografik geçişin ön aşaması sayılır.
+
+Atlas bu eğilimi ayrıca kaydeder.[^k1] Bir eğrinin dalgalanmasının
+azalması, ortalamasının yükselmesinden ayrı bir bulgudur.
+
+## Tarımsal değişim
+
+Nüfus artışını taşıyan şey tarımsal verimdeki değişimdir.[^k2] Ekim
+nöbeti, yeni ürünler ve arazi düzenlemeleri verimi artırdı.
+
+Yeni ürünlerin bir bölümü başka kıtalardan geldi.[^k1] Patates ve
+mısır bu dönemde yaygınlaştı.
+
+Atlas bu bağı ayrıca kaydeder.[^k3] Kıtalar arası bitki aktarımı,
+nüfus artışının doğrudan maddi tabanıdır.
+
+## Arazi düzenlemeleri
+
+Verim artışının bir aracı ortak arazilerin bölünmesiydi.[^k2] Ortak
+kullanım hakkı kaldırıldı, arazi tek tek sahiplere yazıldı.
+
+Düzenleme verimi artırdı ve aynı zamanda bir nüfus grubunu topraktan
+kopardı.[^k1] Kopan nüfus, sonraki dönemin sanayi işgücünü
+oluşturdu.
+
+Atlas iki sonucu birlikte kaydeder.[^k4] Bir düzenlemenin verimlilik
+sonucu ile mülkiyet sonucu ayrı ayrı hesaplanmalıdır.
+
+## Ticari kapitalizmin çerçevesi
+
+Dönemin iktisadi düşüncesi, ticaretin devlet gücüyle bağını
+tartıştı.[^k2] Hâkim görüş, ihracat fazlasını ve değerli maden
+birikimini hedefliyordu.
+
+Dönemin sonunda bu görüşe kapsamlı bir itiraz yazıldı.[^k2] İtiraz,
+zenginliğin madende değil üretim kapasitesinde olduğunu savundu.
+
+Atlas bu itirazı ayrıca kaydeder.[^k1] Bir ölçütün değişmesi, aynı
+verinin bambaşka bir sonuca yorumlanmasını sağlar.
+
+## Sömürge tekelinin hesabı
+
+Aynı metin, sömürge tekelinin ana ülkeye maliyetini de
+tartışır.[^k2] Sonuç, tekelin net bir yük olduğu yönündedir.
+
+Bu, atlasın bilanço tartışmasında ayrı bir konum olarak
+kayıtlıdır.[^k1] Konumun kendi döneminde ve tekeli kuran taraf
+içinde yazılmış olması ayrıca önemlidir.
+
+Atlas bu kaydı ayrıca değerlendirir.[^k4] Bir düzenin maliyet hesabının
+o düzen sürerken yapılmış olması, hesabın doğruluğunu değil
+kaydın bağımsızlığını artırır.
+
+## Diğer bölgelerdeki eşzamanlı düzenler
+
+Dönem, yalnızca bir kıtanın dönemi değildir.[^k4] Aynı yıllarda başka
+bölgelerde de büyük düzenler ayaktaydı.
+
+Bu düzenlerin bir bölümü aynı dönemde mali ve askerî sıkışma
+yaşadı.[^k1] Sıkışmanın nedenleri her bölgede aynı değildir.
+
+Atlas bu eş zamanlılığı ayrıca kaydeder.[^k3] Farklı bölgelerde aynı
+yıllarda benzer sorunların görülmesi, ortak bir neden bulunduğunu
+kanıtlamaz ama aramayı gerektirir.
+
+## Merkezîleşme eğilimi
+
+Birçok bölgede yönetimler merkezîleşmeye çalıştı.[^k4] Vergi toplama,
+ordu ve hukuk alanlarında merkezin payı arttırılmak istendi.
+
+Girişimler her yerde başarılı olmadı.[^k1] Yerel güç odaklarının
+direnci, sonucu belirledi.
+
+Atlas bu farkı ayrıca kaydeder.[^k2] Aynı yönde bir girişimin farklı
+bölgelerde farklı sonuç vermesi, girişimin değil zeminin farkını
+gösterir.
+
+## Ordu düzeninin değişimi
+
+Dönem boyunca ordular sürekli hâle geldi ve büyüdü.[^k1] Mevsimlik
+toplanan güçlerin yerini daimî birlikler aldı.
+
+Sürekli ordu sürekli gelir ister.[^k4] Bu, vergi düzeninin
+yeniden kurulmasını zorunlu kıldı.
+
+Atlas bu bağı ayrıca kaydeder.[^k2] Askerî bir tercih, mali bir yapı
+gerektirir ve mali yapı siyasi sonuç doğurur.
+
+## Bilimsel çalışmanın kurumsallaşması
+
+Dönemde bilimsel çalışma akademiler ve dergiler etrafında
+örgütlendi.[^k1] Bulgular yayımlanarak sınanabilir hâle geldi.
+
+Bu, önceki dönemlerden bir farktır.[^k2] Sonucun değil yöntemin de
+bildirilmesi kural hâline geldi.
+
+Atlas bu kuralı kendi ilkesine bağlar.[^k3] Yöntemini bildiren bir
+kayıt, yalnızca sonucunu bildiren bir kayıttan daha güçlüdür.
+
+## Kaydın durumu
+
+Bu dönem için yazılı kaynak bolluğu vardır.[^k1] Basılı eser, mahkeme
+sicili, ticaret defteri ve mektup bir arada bulunur.
+
+Bolluk, kapsamla karıştırılmamalıdır.[^k4] Kaydın büyük bölümü kentli,
+okuryazar ve mülk sahibi kesimlerden gelir.
+
+Atlas bu sınırı ayrıca kaydeder.[^k2] Bir dönemin çok kaynak bırakması,
+o dönemin bütün kesimlerinin kaydedildiğini göstermez.
+
+## Dönemin bıraktığı soru
+
+Dosya bir soruyla kapanır.[^k1] Aklın ölçüt olarak öne sürülmesi,
+kimin akıl yürütmeye ehil sayıldığı sorusunu da doğurur.
+
+Bu soru dönem içinde cevaplanmadı.[^k2] Cevap, sonraki iki yüzyılın
+siyasi mücadelelerinde arandı.
+
+Atlas soruyu bir sonraki döneme devreder.[^k4] Bir ilkenin ilan
+edilmesi ile kapsamının belirlenmesi, ayrı ayrı yürütülen iki
+süreçtir.
+
+## Bu dosyanın sınırı
+
+Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
+dosyasında ele alınır.
+
+Bölgesel ayrıntı sınırlıdır.[^k4] Şerit satırları ortak mekanizmanın
+bölgelerdeki görünümünü verir.
+
+Sayısal seriler burada yorumlanır, üretilmez.[^k3] Serilerin
+kaynakları ve yöntemleri atlasın veri dosyalarında ayrı ayrı
+kayıtlıdır.[^k2]
+
+
+## Salon ve kahvehane
+
+Fikirlerin dolaştığı yerler kurumsal değildi.[^k1] Salonlar,
+kahvehaneler ve okuma kulüpleri başlıca ortamlardı.
+
+Bu ortamlar üniversitelerden farklı işledi.[^k2] Katılım, unvana değil
+davete ve ödenen bedele bağlıydı.
+
+Atlas bu farkı ayrıca kaydeder.[^k4] Bir fikrin hangi ortamda
+tartışıldığı, kimlerin tartışmaya katılabildiğini de
+belirler.
+
+## Kadınların konumu
+
+Bazı salonların düzenleyicileri kadınlardı.[^k1] Bu, dönemin resmî
+kurumlarında bulunmayan bir konumdur.
+
+Düzenleyici, kimin davet edileceğine ve tartışmanın çerçevesine karar
+veriyordu.[^k2] Yetki, resmî bir unvana bağlı değildi.
+
+Atlas bu konumu ayrıca kaydeder.[^k3] Bu, atlasın toplumsal cinsiyet
+dosyasındaki ölçütün bir örneğidir: resmî listede görünmeyen bir
+görev, akışı denetliyorsa fiilî bir güç konumudur.
+
+## Mektuplaşma ağı
+
+Dönemin bilgi ağı büyük ölçüde mektupla işledi.[^k1] Farklı ülkelerdeki
+yazarlar düzenli yazışıyordu.
+
+Ağ, siyasi sınırlardan bağımsız bir topluluk üretti.[^k2] Ortak dil ve
+ortak sorular bu topluluğu bir arada tutuyordu.
+
+Atlas bu yapıyı ayrıca kaydeder.[^k4] Siyasi sınırlarla örtüşmeyen bir
+bilgi topluluğunun varlığı, dönemin fikir hareketinin kıta ölçeğinde
+yayılmasını açıklar.
+
+## Yayılmanın sınırları
+
+Ağ, kıtanın belirli kentleriyle sınırlıydı.[^k1] Kırsal nüfusun büyük
+bölümü bu tartışmalara erişmedi.
+
+Erişim dile de bağlıydı.[^k2] Ortak yazışma dili, o dili bilmeyenleri
+dışarıda bırakıyordu.
+
+Atlas bu sınırı ayrıca kaydeder.[^k3] Bir dönemin fikir hareketi,
+o dönemin nüfusunun tamamını değil dar bir kesimini
+kapsıyordu.
+
+## Din ile ilişki
+
+Dönemin metinleri dini bütünüyle reddetmedi.[^k1] Çoğu, dinî otoritenin
+siyasi alandaki yetkisini tartıştı.
+
+Ayrım önemlidir.[^k2] İnancın kendisine yönelen eleştiri ile kurumun
+siyasi yetkisine yönelen eleştiri farklı sonuçlar doğurur.
+
+Atlas bu ayrımı korur.[^k4] Bir dönemi tek bir tutuma indirgemek,
+içindeki farklı konumları görünmez kılar.
+
+## Hoşgörü tartışması
+
+Dönemin en yaygın tartışma başlıklarından biri hoşgörüdür.[^k1] Farklı
+inançların bir arada yaşamasının koşulları tartışıldı.
+
+Tartışmanın pratik bir gerekçesi vardı.[^k2] Uzun din savaşlarının
+maliyeti, hoşgörüyü ahlaki olduğu kadar mali bir mesele hâline
+getirmişti.
+
+Atlas bu gerekçeyi ayrıca kaydeder.[^k4] Bir ilkenin savunulması,
+ahlaki gerekçeyle birlikte maliyet hesabına da dayanabilir.
+
+## Farklı bölgelerdeki karşılıkları
+
+Birlikte yaşama sorununa başka bölgelerde farklı çözümler
+üretilmişti.[^k4] Bazı düzenlerde topluluklar kendi hukuklarıyla
+yönetiliyordu.
+
+İki çözüm aynı sorunu farklı biçimde ele alır.[^k1] Biri ortak bir
+hukuk altında farklı inançları, diğeri farklı hukuklar altında
+farklı toplulukları öngörür.
+
+Atlas ikisini karşılaştırır ama biri diğerinin öncülü
+saymaz.[^k2] Farklı zeminlerde doğan çözümler, aynı çizginin aşamaları
+değildir.
+
+## Reform girişimleri
+
+Dönemde birçok yönetim kapsamlı reform girişiminde bulundu.[^k4] Hukuk,
+maliye ve eğitim başlıca alanlardı.
+
+Girişimlerin bir bölümü yukarıdan yürütüldü.[^k1] Reformu yürüten,
+reformun sınırlayacağı yetkinin sahibiydi.
+
+Atlas bu çelişkiyi ayrıca kaydeder.[^k2] Kendi yetkisini sınırlayan bir
+reformu yürüten yönetim, sınırın nerede duracağını da kendisi
+belirler.
+
+## Ordu ve teknoloji
+
+Askerî teknolojideki değişim dönem boyunca sürdü.[^k1] Ateşli silahların
+atış hızı ve topçunun hareketliliği arttı.
+
+Değişim, eğitimli ve sürekli birlikleri daha da gerekli kıldı.[^k4]
+Silahın kendisi değil, onu düzenli kullanabilen birlik
+belirleyiciydi.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k2] Bir teknolojinin üstünlük
+sağlaması, onu kullanacak örgütlenmenin kurulmuş olmasına
+bağlıdır.
+
+## Deniz gücünün payı
+
+Kıtalar arası savaş, deniz gücünü belirleyici hâle getirdi.[^k1] Sömürge
+bağlantıları ancak deniz yoluyla korunabiliyordu.
+
+Deniz gücü pahalıydı ve uzun vadeli yatırım gerektiriyordu.[^k4] Tersane,
+kereste tedariki ve eğitimli mürettebat aynı anda gerekliydi.
+
+Atlas bu maliyeti ayrıca kaydeder.[^k2] Bir üstünlük biçiminin yıllar
+süren yatırım gerektirmesi, onu kısa vadede taklit edilemez
+kılar.
+
+## Bilgi ve harita
+
+Dönemde seyir ve haritacılık belirgin biçimde ilerledi.[^k1] Boylam
+ölçümündeki gelişme, uzun seferleri güvenli hâle getirdi.
+
+Bu ilerleme devlet destekli yürütüldü.[^k4] Ödüller ve resmî
+kurumlar yoluyla teşvik edildi.
+
+Atlas bu bağı ayrıca kaydeder.[^k2] Bir teknik sorunun çözümü, o
+sorunun çözülmesinden kazanacak tarafın yatırımıyla
+hızlanır.
+
+## Dönemi atlasta okumak
+
+Bu döneme bağlanan dosyalar üç öbekte toplanır.[^k1] Fikir hareketinin
+düşünür ve kaynak dosyaları, ticaretin ve savaşın aktör ve olay
+dosyaları, dönemin ölçülerini taşıyan veri dosyaları.
+
+Üçü birlikte okunmalıdır.[^k2] Bir metnin yazılışı, bir şirketin
+kuruluşu ve bir nüfus eğrisinin seyri aynı dönemi üç ayrı düzeyde
+kaydeder.[^k3]
+
+
+## Sigorta ve risk
+
+Uzun mesafeli ticaretin büyümesi, riski dağıtan araçları da
+yaygınlaştırdı.[^k2] Deniz sigortası ve ortaklık payı bu araçlar
+arasındadır.
+
+Bu araçlar tek başına ticaret hacmini artırmaz.[^k1] Yaptıkları şey,
+tek bir kaybın bir tüccarı iflasa götürmesini önlemektir.
+
+Atlas bu işlevi ayrıca kaydeder.[^k4] Bir ticaretin büyümesi, kârın
+artmasından çok riskin dağıtılabilir hâle gelmesine bağlı
+olabilir.
+
+## Bankacılık ve kamu borcu
+
+Aynı dönemde kamu borcu düzenli bir kuruma bağlandı.[^k2] Devlet, tek
+tek borç almak yerine sürekli bir piyasadan borçlanabilir hâle
+geldi.
+
+Bu, savaş finansmanını doğrudan değiştirdi.[^k1] Uzun savaşlar,
+bütçenin bir yıllık kapasitesiyle sınırlı olmaktan çıktı.
+
+Atlas bu bağı ayrıca kaydeder.[^k4] Borçlanma kapasitesindeki bir
+artış, askerî kapasitede doğrudan bir artıştır ve iki alan ayrı ayrı
+ölçülemez.
+
+## Kahve, şeker ve çay
+
+Dönemin tüketim alışkanlıkları değişti.[^k1] Kahve, şeker, çay ve tütün
+gündelik tüketime girdi.
+
+Dördü de uzak bölgelerden geliyordu ve üçü plantasyon düzenine
+dayanıyordu.[^k3] Gündelik bir alışkanlık ile kıtalar arası bir emek
+düzeni doğrudan bağlantılıydı.
+
+Atlas bu bağı açıkça kurar.[^k2] Bir tüketim alışkanlığının
+yaygınlaşması, onu mümkün kılan üretim düzeninin de
+yaygınlaşmasıdır.
 
 ## Fikir dünyası
 

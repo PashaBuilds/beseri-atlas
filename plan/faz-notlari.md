@@ -3689,3 +3689,41 @@ serileri). Bu kez doğrulama dizeleri baştan atlasın veri
 dosyalarından alındı; KAPI 10 ilk seferde geçti.
 
 Kalan dönem dosyaları: 01–13 ve 16.
+
+## 2026-08-26 — donem-10 onarıldı (481 → 2500+)
+
+Üçüncü dönem dosyası. 1650–1789.
+
+Dosyanın ekseni iki eğilimin aynı yıllara sığması: meşruiyetin
+kaynağını yeniden tanımlayan düşünce hareketi ile ticaretin ve savaşın
+kıtalar arası ölçeğe çıkması. İkisi bağımsız değil — ticari genişleme
+düşünce hareketinin maddi tabanını ve yayılma kanallarını sağladı.
+
+Öne çıkan kayıtlar:
+- Aynı dönemde Atlantik köle ticareti en yüksek hacmine ulaştı.
+  Eşitlik ve doğal hak üzerine yazılan metinlerle taşınan insan sayısı
+  aynı yıllarda arttı. Bu çelişki gizlenmedi: bir dönemin ürettiği
+  ilkelerle yürüttüğü uygulamalar arasındaki fark, dönemin kendi
+  kaydıdır.
+- İlkenin kapsamı ayrıca ele alındı: dönemin metinlerinde kimin
+  "insan" sayıldığı varsayılmış, tartışılmamış. Kapsam tartışması
+  sonraki dönemin konusu ve o tartışma bu dönemin metinlerini kendi
+  silahı olarak kullandı — bir ilkenin dar kapsamla formüle edilmesi,
+  genişletilmesine karşı engel değil dayanak olabilir.
+- Ansiklopedi girişimi üzerinden atlas kendi bölümlemesini sorguladı:
+  bir derlemenin sınıflandırma düzeni, derleyenin bilgi anlayışının
+  doğrudan kaydıdır. Atlas kendi bölümlemesini bu yüzden açıkça
+  bildiriyor.
+- Ayrıcalıklı şirketlerin zor kullanma yetkisi Kongo dosyasındaki
+  ölçüme bağlandı: yetki bir ticari kuruluşa devredildiğinde
+  sorumluluğun kime ait olduğu belirsizleşir.
+- Vergi-temsil formülü vatandaşlık dosyasına bağlandı: yönetilen ile
+  üye sayılan aynı kişi değil.
+- Salon düzenleyicilerinin konumu, toplumsal cinsiyet dosyasındaki
+  "resmî listede görünmeyen ama akışı denetleyen görev" ölçütünün bir
+  örneği olarak kaydedildi.
+- Kaydın bolluğu ile kapsamı ayrıldı: bu dönem çok kaynak bıraktı ama
+  kaynağın büyük bölümü kentli, okuryazar ve mülk sahibi kesimlerden
+  geliyor.
+
+Kalan dönem dosyaları: 01–09, 11, 12, 13, 16.
