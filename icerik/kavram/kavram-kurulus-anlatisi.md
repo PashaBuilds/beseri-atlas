@@ -22,6 +22,7 @@ ilgili:
   - kavram-anakronizm
   - kavram-takvim
   - kavram-veraset
+  - aktor-oyo-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -22,6 +22,8 @@ ilgili:
   - kavram-timar
   - kavram-akrabalik
   - kavram-toplumsal-cinsiyet-duzeni
+  - aktor-dahomey-kralligi
+  - aktor-oyo-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

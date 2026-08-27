@@ -29,6 +29,8 @@ ilgili:
   - dusunur-las-casas
   - kavram-zorunlu-emek-duzeni
   - aktor-portekiz-imparatorlugu
+  - aktor-dahomey-kralligi
+  - aktor-oyo-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

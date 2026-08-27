@@ -21,6 +21,7 @@ ilgili:
   - kavram-burokrasi
   - olay-berlin-konferansi
   - kavram-somurgesizlesme
+  - aktor-oyo-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

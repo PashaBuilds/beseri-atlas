@@ -67,6 +67,7 @@ ilgili:
   - kavram-veraset
   - kavram-akrabalik
   - kavram-vatandaslik
+  - aktor-oyo-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

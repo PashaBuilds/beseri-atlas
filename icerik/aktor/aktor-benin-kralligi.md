@@ -24,6 +24,8 @@ ilgili:
   - kavram-kanit-turu
   - aktor-kongo-kralligi
   - aktor-asanti-imparatorlugu
+  - aktor-dahomey-kralligi
+  - aktor-oyo-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

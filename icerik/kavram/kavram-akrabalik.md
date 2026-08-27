@@ -20,6 +20,7 @@ ilgili:
   - aktor-haudenosaunee
   - kaynak-kurukan-fuga-sarti
   - kavram-mesruiyet
+  - aktor-oyo-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

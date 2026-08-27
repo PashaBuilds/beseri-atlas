@@ -3519,3 +3519,38 @@ bilginin tarihidir; arşivlerin kademeli açılması önceki tanıklıkların
 bir bölümünü doğruladı bir bölümünü değiştirdi.
 
 Afrika'da kalan: Herero-Nama, Oyo, Dahomey.
+
+## 2026-08-26 — Batı Afrika: Oyo ve Dahomey
+
+İki komşu düzen, iki zıt yönetim biçimi olarak birlikte yazıldı.
+
+- `aktor-oyo-imparatorlugu` — hükümdarı görevden alabilen bir meclisin
+  bulunduğu düzen. Ölçüm: yetkinin en tepede sınırlandırılması,
+  sınırı uygulayacak bir kurulun ve uygulamanın tanınmış bir biçiminin
+  bulunmasına bağlıdır. İki koşul ayrıca yazıldı: kurulun gücü
+  hükümdardan bağımsız olmalı, ve işlem isyan değil usul sayılmalı.
+  Kurumun kendi krizi de kaydedildi — bir denetim aracı sık
+  kullanıldığında denetlediği makamı işlevsiz bırakabilir.
+- `aktor-dahomey-kralligi` — tersi: yetki tek merkezde, görevler
+  soydan geçmiyor. Ölçüm: geliri tek bir dış talebe bağlı bir düzen,
+  o talep kesildiğinde yalnızca yoksullaşmaz, iç düzenini de yeniden
+  kurmak zorunda kalır. Palmiye yağına geçiş merkezî otoriteyi
+  zayıflattı çünkü yeni gelir merkezde değil yaygın olarak
+  toplanıyordu.
+
+Yeni birincil kaynak, atlasın kaynak ilkesi açısından önemli: Samuel
+Johnson'ın 1921 tarihli Yoruba tarihi — bölgenin kendi içinden, sözlü
+aktarıcılardan derlenerek yazılmış bir tarih. Dosyada hem kullanıldı
+hem çerçevesi kaydedildi: yazarın kenti ve mesleği anlatının merkezini
+belirliyor. Burton'ın 1864 tarihli elçilik raporu da (Cornell taraması)
+aynı biçimde kullanıldı — bir elçilik raporu, gözlenen düzen kadar
+gönderen devletin beklentisini de kaydeder.
+
+Dahomey dosyasında kipu ölçümünün başka kıtadaki karşılığı kaydedildi:
+düzen yazılı kayıt tutmuyordu ama sayaçlarla sayım tutuyordu. Kayıt
+yazıya bağlı değil, aktarılabilirliğe bağlı. Bu kayıtlar günümüze
+ulaşmadı — kayıt tutmuş olmak ile kaydın korunmuş olması ayrı iki
+durum.
+
+Afrika'da kalan: Herero-Nama. Blue Book 1918 (Wellcome taraması)
+doğrulandı.

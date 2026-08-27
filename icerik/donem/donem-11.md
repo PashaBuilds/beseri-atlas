@@ -41,6 +41,8 @@ ilgili:
   - olay-tupac-amaru-ayaklanmasi-1780
   - kaynak-cook-guney-seyir-defteri
   - kavram-zorunlu-emek-duzeni
+  - aktor-dahomey-kralligi
+  - aktor-oyo-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: avrupa

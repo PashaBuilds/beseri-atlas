@@ -59,6 +59,8 @@ ilgili:
   - aktor-zulu-kralligi
   - aktor-komance
   - kaynak-cook-guney-seyir-defteri
+  - aktor-dahomey-kralligi
+  - aktor-oyo-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: afrika

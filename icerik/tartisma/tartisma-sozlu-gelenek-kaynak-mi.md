@@ -43,6 +43,7 @@ ilgili:
   - kavram-kurulus-anlatisi
   - kaynak-kojiki
   - kavram-okuryazarlik
+  - aktor-oyo-imparatorlugu
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:
