@@ -12,7 +12,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Ölçüm | Değer |
 |---|---|
 | Ölçülen makale | 505 |
-| Toplam künye | 1652 |
+| Toplam künye | 1654 |
 | Giriş kapısı kuralını aşan makale | 223 |
 | Birincil kaynağı olmayan makale | 255 |
 | Giriş kapısı künyesi payı | 42% |
@@ -284,7 +284,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `donem-08` | 3 | 1 | 0 | birincil kaynak yok |
 | `donem-09` | 3 | 1 | 0 | birincil kaynak yok |
 | `donem-14` | 3 | 1 | 0 | birincil kaynak yok |
-| `donem-15` | 3 | 1 | 0 | birincil kaynak yok |
+| `donem-15` | 5 | 1 | 0 | birincil kaynak yok |
 | `donem-16` | 3 | 1 | 0 | birincil kaynak yok |
 | `dusunur-braudel` | 3 | 1 | 0 | birincil kaynak yok |
 | `dusunur-foucault` | 3 | 1 | 0 | birincil kaynak yok |

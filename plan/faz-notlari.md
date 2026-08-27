@@ -3622,3 +3622,38 @@ Afrika listesi tamamlandı. Sonraki turlarda başka bölgelere geçilecek.
 Kalibrasyon notu: kavram dosyasını 16 bölümle yazdığımda ilk taslak
 hedefte çıktı (779/600-1000). Aktör dosyaları için ~30 bölüm gerekiyor;
 bu turda da iki ek geçiş gerekti.
+
+## 2026-08-26 — Dönem katmanı: en büyük eksik bulundu
+
+Veri ve dönem katmanı tarandı. Atlasın en zayıf yeri ortaya çıktı:
+**16 dönem dosyasının hepsi hedefin çok altında** (433–1142 kelime,
+hedef 2500–4000). Bunlar atlasın omurgası — her makale bir dönem
+dosyasına bağlanıyor — ve hepsi %20 civarında.
+
+Bu turda en kötüsü onarıldı: `donem-15` (1991–2008), 433 → 2506
+kelime.
+
+Eklenen bölümler yalnızca uzunluk değil, atlasın kendi ölçütlerini
+döneme uyguluyor:
+- Dönem sınırının gerekçesi ve o sınıra yapılan itiraz ayrı ayrı
+  yazıldı (ticaret payı 19. yüzyıl sonunda da yüksekti; fark hacimde
+  değil iletişim maliyetinde).
+- Serbestleşmenin asimetrisi: mal, sermaye ve bilgi için engeller
+  düştü, emek için düşmedi. Bir serbestleşme düzeninin kimin lehine
+  işlediği, hangi faktörün serbest bırakıldığına bakılarak okunur.
+- Eşitsizliğin iki ölçüsü: ülkeler arası fark daraldı, ülke içi fark
+  açıldı. Aynı döneme dair "eşitsizlik arttı" ve "azaldı" ifadeleri
+  farklı ölçülerle ikisi de doğru olabilir.
+- Ölçme kapasitesi tuzağı: daha iyi ölçülen bir olgu artmış gibi
+  görünür. Bir serideki artışın ne kadarının olguya ne kadarının
+  ölçmeye ait olduğu ayrıca sorulmalı.
+- Dönemin kendi anlatısı bir veri olarak kaydedildi: kaçınılmazlık
+  iddiası, alınan kararları tercih olmaktan çıkarır ve yürütenlerin
+  sorumluluğunu görünmez kılar.
+
+İki yeni veri kaynağı künyelendi (ticaret payı ve internet kullanımı
+serileri). KAPI 10 iki kez doğrulama dizesini reddetti — CSV sütun
+adları `ne_trd_gnfs_zs` ve `it_net_user_zs`; atlasın veri
+dosyalarındaki dizeler alınarak düzeltildi.
+
+Plan: her turda bir dönem dosyası. 15 dosya kaldı.
