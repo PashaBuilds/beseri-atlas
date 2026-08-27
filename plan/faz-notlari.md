@@ -4110,3 +4110,42 @@ KAPI 7 bir telif hatası yakaladı — aynı kaynaktan iki alıntı; ikincisi
 tırnaktan çıkarıldı.
 
 Kalan dönem dosyaları: 01–04.
+
+## 2026-08-26 — donem-04 onarıldı (584 → 2400+)
+
+On üçüncü dönem dosyası. MÖ 500 – MS 200.
+
+Dosya, adını aldığı kavramı bir hipotez olarak kullanıyor ve
+doğruluğunu varsaymıyor. Kavrama yönelen iki eleştiri ayrı ayrı
+yazıldı; ikincisi atlas için daha önemli: seçilen bölgeler kavramı
+önerenin bildiği bölgeler. Ölçüm: bir örüntünün kapsamı, örüntüyü
+tanımlayanın bilgi sınırıyla çakışıyorsa, örüntü kısmen o sınırın
+kendisidir.
+
+Diğer kayıtlar:
+- Eş zamanlılık açıklamaları yetersiz bulundu: aynı koşullar başka
+  dönemlerde de var. Bir eş zamanlılığın açıklanması, ortak bir koşul
+  göstermekle bitmez; o koşulun neden başka dönemlerde aynı sonucu
+  vermediği de gösterilmeli.
+- Yazı açıklaması ayrıca ele alındı: örüntünün kendisi düşüncenin
+  değil kaydın örüntüsü olabilir.
+- Dosyanın iki ekseni arasındaki gerilim yazıldı: düşünce hareketleri
+  bölünmüş dönemde belirdi, imparatorluklar onları sonradan devraldı.
+  Bir öğretinin devlet tarafından benimsenmesi yayılmasını sağlar ve
+  eleştirel kenarını törpüler.
+- Aşoka yazıtları bir kanıt türü olarak ele alındı: taşa yazılmış bir
+  metin kopyalanma sürecinden geçmemiştir, içeriğini doğrulamaz ama
+  metnin bozulmadığını güvence altına alır.
+- Kanonun oluşması: bir öğretinin bugünkü içeriği, öğretinin
+  kendisinden çok kanonu belirleyenlerin tercihlerini yansıtıyor.
+- Sınır yapılarının işlevi: amaç çoğu zaman kapatmak değil geçişi
+  kayda bağlamak.
+- Köleliğin yaygınlığı, dönemin evrenselci metinleriyle aynı yıllara
+  denk geldiği için ayrıca kaydedildi ve gizlenmedi.
+
+Künye sorunu: `ctext.org` (havuzda beyaz listede) artık otomatik
+isteklere CAPTCHA sayfası döndürüyor. Konfüçyüs birincil metni bu
+yüzden künyeye alınamadı; yerine SEP Confucius maddesi kondu. Havuz
+notu: ctext.org canlılık kapısını geçemiyor.
+
+Kalan dönem dosyaları: 01–03.

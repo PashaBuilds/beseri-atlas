@@ -1,7 +1,7 @@
 {
-  "mod": "--lint",
-  "zaman": "2026-08-27T21:17:20.705Z",
-  "gecti": true,
+  "mod": "--pre",
+  "zaman": "2026-08-27T21:24:04.278Z",
+  "gecti": false,
   "makale_sayisi": 505,
   "kapilar": [
     {
@@ -56,12 +56,12 @@
         "olculen": 421,
         "hedefTutan": 136,
         "borclu": 285,
-        "eksikKelime": 228783,
+        "eksikKelime": 226934,
         "tipOzet": {
           "donem": {
             "n": 16,
             "tutan": 11,
-            "eksik": 7409
+            "eksik": 5560
           },
           "olay": {
             "n": 99,
@@ -99,11 +99,11 @@
       "hatalar": [],
       "olcum": {
         "olculen": 505,
-        "toplamKunye": 1670,
+        "toplamKunye": 1672,
         "kuralIhlali": 222,
         "birincilsiz": 252,
         "toplamGiris": 701,
-        "birincilKunye": 283,
+        "birincilKunye": 284,
         "turlenmemis": 0
       }
     },
@@ -127,6 +127,42 @@
       "hata": 0,
       "uyari": 0,
       "hatalar": []
+    },
+    {
+      "kapi": "KAPI 6 — onay filtresi",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 8 — kaynak canliligi",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": [],
+      "olcum": {
+        "url": 734,
+        "alan": 15,
+        "olculemeyen": 0,
+        "oran": 0
+      }
+    },
+    {
+      "kapi": "KAPI 10 — uydurma kaynak kontrolu",
+      "gecti": false,
+      "hata": 2,
+      "uyari": 0,
+      "hatalar": [
+        {
+          "dosya": "icerik/dusunur/dusunur-mengzi.md",
+          "mesaj": "k3: kunye dizesi sayfada bulunamadi (eslesme %0) — aranan: \"The Analects\""
+        },
+        {
+          "dosya": "icerik/kavram/kavram-konfucyuscluk.md",
+          "mesaj": "k2: kunye dizesi sayfada bulunamadi (eslesme %0) — aranan: \"The Analects\""
+        }
+      ]
     }
   ]
 }
