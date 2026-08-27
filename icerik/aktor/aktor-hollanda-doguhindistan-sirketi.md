@@ -18,6 +18,7 @@ ilgili:
   - aktor-ispanyol-imparatorlugu
   - kavram-merkantilizm
   - kavram-silahli-ticaret
+  - aktor-portekiz-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

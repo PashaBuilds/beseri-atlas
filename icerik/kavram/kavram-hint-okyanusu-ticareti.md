@@ -34,6 +34,7 @@ ilgili:
   - aktor-kusan-imparatorlugu
   - aktor-vijayanagara
   - kaynak-piri-reis-kitab-i-bahriye
+  - aktor-portekiz-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

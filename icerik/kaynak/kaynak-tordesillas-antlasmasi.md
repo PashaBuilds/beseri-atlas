@@ -24,6 +24,7 @@ ilgili:
   - kaynak-afrika-birligi-sarti
   - kavram-belge-okumasi
   - tartisma-belge-ne-zaman-yururlukte
+  - aktor-portekiz-imparatorlugu
 okuma_onerisi: []
 yazar: "Kastilya ve Portekiz krallikları (taraflar)"
 eser_adi: "Tratado de Tordesillas"

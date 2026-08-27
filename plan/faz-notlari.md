@@ -3320,3 +3320,37 @@ de reddedilmişti).
 
 Açık borç: `aktor-portekiz-imparatorlugu` hâlâ yok. TDV PORTEKİZ maddesi
 ve Tordesillas metni hazır, bir sonraki turda yazılacak.
+
+## 2026-08-26 — Portekiz İmparatorluğu
+
+Geçen turda kaydedilen borç kapatıldı. Atlasta İspanyol, Britanya ve
+Hollanda düzenleri vardı ama Portekiz yoktu — hem en uzun ömürlü hem
+de biçim olarak en farklı olanı.
+
+Dosyanın ekseni: bu bir toprak imparatorluğu değil, bir ağ. Uzun deniz
+yolları üzerinde tahkimli düğüm noktaları tutuluyor. Toplam yüzölçümü
+küçük, denetlenen ticaret hacmi büyük.
+
+Ana ölçüm: bir gücün kapsamı, tuttuğu toprakla değil, başkalarının
+hangi işlemler için ondan izin almak zorunda kaldığıyla ölçülür.
+Kartaz düzeni bunun somut hâli — yüzyıllardır süren bir ticareti
+kurmadan, üzerine bir ücret koymak.
+
+İkinci ölçüm: ağ tipi hâkimiyet yüksek getiri ve yüksek kırılganlığı
+aynı anda üretir. Kara imparatorluklarında toprak kaybı kademelidir;
+burada tek bir düğümün kaybı bütün hattı etkisiz kılabilir.
+
+Üçüncü ölçüm: aynı imparatorluk aynı dönemde iki farklı biçim kullandı
+— Hint Okyanusu'nda ağ, Brezilya'da yerleşim. Fark ideolojiden değil
+üründen geliyor: şeker ve maden geniş arazi ve yoğun emek istiyor.
+
+Bitiş de ayrıca kaydedildi: sömürge düzeni sömürgede değil merkezde
+alınan bir kararla sona erdi, ama karar sömürgedeki direnişin ana
+ülkeye yüklediği maliyetten doğdu.
+
+Künye: Wikipedia Portuguese Empire (giriş kapısı), Tordesillas
+Wikisource tam metni (birincil belge), TDV PORTEKİZ ve TDV MELAKA —
+ikincisi ele geçirilen düğüm noktasını karşı taraftan kaydeden madde.
+
+Açık borç: Portekizce birincil kayıttan doğrulanabilir metin
+künyelenemedi; dosyada beyan edildi.

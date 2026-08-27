@@ -27,6 +27,7 @@ ilgili:
   - olay-mfecane
   - aktor-zulu-kralligi
   - aktor-komance
+  - aktor-portekiz-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

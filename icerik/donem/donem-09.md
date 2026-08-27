@@ -44,6 +44,7 @@ ilgili:
   - dusunur-katib-celebi
   - kaynak-piri-reis-kitab-i-bahriye
   - dusunur-ulug-bey
+  - aktor-portekiz-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: avrupa

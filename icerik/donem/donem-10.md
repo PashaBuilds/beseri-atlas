@@ -39,6 +39,7 @@ ilgili:
   - dusunur-katib-celebi
   - dusunur-las-casas
   - kavram-zorunlu-emek-duzeni
+  - aktor-portekiz-imparatorlugu
 okuma_onerisi: []
 serit:
   - bolge: avrupa

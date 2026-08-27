@@ -29,6 +29,7 @@ ilgili:
   - aktor-komance
   - dusunur-las-casas
   - kavram-zorunlu-emek-duzeni
+  - aktor-portekiz-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

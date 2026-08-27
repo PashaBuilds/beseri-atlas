@@ -22,6 +22,7 @@ ilgili:
   - olay-atlantik-kole-ticareti
   - kavram-pamuk-tek-urun
   - tartisma-somurgeciligin-ekonomik-bilancosu
+  - aktor-portekiz-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

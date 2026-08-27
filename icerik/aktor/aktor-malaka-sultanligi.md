@@ -26,6 +26,7 @@ ilgili:
   - aktor-ace-sultanligi
   - olay-malaka-fethi-1511
   - kavram-silahli-ticaret
+  - aktor-portekiz-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

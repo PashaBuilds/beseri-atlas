@@ -27,6 +27,7 @@ ilgili:
   - kavram-hint-okyanusu-ticareti
   - kavram-svahili-kiyisi
   - kaynak-ibn-battuta-rihle
+  - aktor-portekiz-imparatorlugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
