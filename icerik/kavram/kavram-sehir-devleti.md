@@ -17,6 +17,7 @@ ilgili:
   - kaynak-platon-devlet
   - aktor-kilva
   - aktor-teotihuacan
+  - kavram-vatandaslik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

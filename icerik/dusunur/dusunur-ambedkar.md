@@ -26,6 +26,7 @@ ilgili:
   - olay-bengal-kitligi-1943
   - kavram-okuryazarlik
   - kavram-toplumsal-cinsiyet-duzeni
+  - kavram-apartheid
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

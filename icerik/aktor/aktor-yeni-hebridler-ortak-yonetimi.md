@@ -23,6 +23,7 @@ ilgili:
   - kavram-mesruiyet
   - tartisma-belge-ne-zaman-yururlukte
   - aktor-fiji-kralligi
+  - kavram-vatandaslik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

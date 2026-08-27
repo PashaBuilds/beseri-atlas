@@ -25,6 +25,7 @@ ilgili:
   - kavram-milliyetcilik
   - kavram-ulus-devlet
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - kavram-apartheid
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

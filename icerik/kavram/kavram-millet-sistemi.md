@@ -15,6 +15,7 @@ ilgili:
   - kavram-mesruiyet
   - kavram-timar
   - kavram-sekulerlesme
+  - kavram-vatandaslik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

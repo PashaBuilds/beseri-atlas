@@ -17,6 +17,7 @@ ilgili:
   - tartisma-vestfalya-miti
   - veri-demokrasi-endeksi
   - tartisma-soykirim-kavrami
+  - kavram-vatandaslik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -66,6 +66,7 @@ ilgili:
   - kavram-kast
   - kavram-veraset
   - kavram-akrabalik
+  - kavram-vatandaslik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

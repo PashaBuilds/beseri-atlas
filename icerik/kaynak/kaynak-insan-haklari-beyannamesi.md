@@ -25,6 +25,7 @@ ilgili:
   - kaynak-liberya-bagimsizlik-bildirisi
   - kavram-belge-okumasi
   - tartisma-belge-ne-zaman-yururlukte
+  - kavram-vatandaslik
 okuma_onerisi: []
 yazar: "Birlesmis Milletler Genel Kurulu"
 eser_adi: "Universal Declaration of Human Rights"

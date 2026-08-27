@@ -21,6 +21,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - kavram-akrabalik
   - kavram-toplumsal-cinsiyet-duzeni
+  - kavram-apartheid
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

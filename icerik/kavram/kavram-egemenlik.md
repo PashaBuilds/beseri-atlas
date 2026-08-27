@@ -37,6 +37,7 @@ ilgili:
   - aktor-zulu-kralligi
   - olay-pasifik-nukleer-denemeleri
   - kavram-veraset
+  - kavram-vatandaslik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

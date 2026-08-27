@@ -22,6 +22,7 @@ ilgili:
   - tartisma-somurgeciligin-ekonomik-bilancosu
   - dusunur-fanon
   - kaynak-afrika-birligi-sarti
+  - kavram-apartheid
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

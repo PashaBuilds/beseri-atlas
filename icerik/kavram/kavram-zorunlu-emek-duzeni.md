@@ -24,6 +24,7 @@ ilgili:
   - tartisma-somurgeciligin-ekonomik-bilancosu
   - aktor-portekiz-imparatorlugu
   - olay-kongo-serbest-devleti
+  - kavram-apartheid
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

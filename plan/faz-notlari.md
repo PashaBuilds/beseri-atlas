@@ -3457,3 +3457,34 @@ Yeni birincil belge: Roger Casement'ın 1904 tarihli konsolosluk raporu
 Açık borç — Afrika'da hâlâ eksik: apartheid düzeni, Cezayir savaşı,
 Herero-Nama, Oyo ve Dahomey. Apartheid için Güney Afrika anayasası
 (Wikisource) doğrulandı, sonraki turda yazılacak.
+
+## 2026-08-26 — Apartheid ve vatandaşlık
+
+Apartheid dosyası yazılırken `kavram-vatandaslik` bağı kırık çıktı;
+kavram katmanında büyük bir eksik daha ortaya çıktı ve aynı turda
+kapatıldı. İkisi birbirini tamamlıyor.
+
+- `kavram-apartheid` — ana ölçüm: bir sınıflandırmanın ölçütünün
+  belirsiz olması uygulanmasını engellemez, kararı verenin yetkisini
+  artırır. Görünüş, soy ve çevrenin kabulü gibi birbirinden bağımsız
+  ölçütler bir arada kullanıldı; sonuç, kişide hiçbir değişiklik
+  olmadan sınıfın değiştirilebilmesiydi. İkinci ölçüm: bir kişiyi
+  yerinden etmeden yabancı hâline getirmek, yalnızca sınırı yeniden
+  çizmekle mümkündür. Geçiş belgesi düzeni ayrıca zorunlu emek
+  dosyasına bağlandı — reddin mümkün olmadığı bir emek tahsisi.
+- `kavram-vatandaslik` — ölçüm: bir kişinin hangi hukukun koruması
+  altında olduğu, kim olduğundan değil hangi düzenin onu üyesi
+  saydığından gelir. Haklar evrensel ilan edilebilir; uygulanmaları
+  için bir düzenin o kişiyi kendi işi sayması gerekir.
+
+İki dosya, Yeni Hebridler dosyasındaki ölçümü de geriye dönük olarak
+sağlamlaştırdı: adalıların iki devletten hiçbirinin vatandaşı
+sayılmaması, artık genel bir kavramın sınav durumu olarak
+okunabiliyor.
+
+Kast dosyasıyla karşılaştırma ayrıca yazıldı ve iki dosya aynı kefeye
+konmadı: ortak bir mekanizma paylaşmak (resmî sayımın akışkan bir
+yapıyı sabitlemesi) aynı olmak anlamına gelmiyor.
+
+Afrika'da kalan eksikler: Cezayir savaşı, Herero-Nama, Oyo, Dahomey.
+Cezayir için TDV CEZAYİR ve marxists.org Fanon arşivi doğrulandı.

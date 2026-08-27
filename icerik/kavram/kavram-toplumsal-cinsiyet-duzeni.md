@@ -21,6 +21,7 @@ ilgili:
   - kavram-belge-okumasi
   - kavram-vergi
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - kavram-apartheid
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -26,6 +26,7 @@ ilgili:
   - kavram-pasifik-isci-toplama
   - aktor-banaba
   - aktor-yeni-hebridler-ortak-yonetimi
+  - kavram-vatandaslik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -23,6 +23,7 @@ ilgili:
   - kavram-milliyetcilik
   - olay-bandung-konferansi
   - dusunur-du-bois
+  - kavram-apartheid
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
