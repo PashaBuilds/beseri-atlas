@@ -666,6 +666,17 @@ Atlas bu çerçeveyi kullanır ama tek başına yeterli
 saymaz.[^k3] Malzeme değişimi dönemin nedeni değil, dönemi tanımlayan
 sonuçlardan biridir.[^k4]
 
+
+## Dönemin bıraktığı soru
+
+Dosya bir soruyla kapanır.[^k1] Çöküş, sonraki dönemin daha geniş
+katılımlı siyasi biçimlerinin nedeni miydi yoksa yalnızca zeminini mi
+kurdu.
+
+İki cevap savunulabilir.[^k3] Çöküş merkezî yapıları ortadan kaldırdı;
+yerlerine ne konacağı sonraki kuşakların
+kararıydı.[^k4]
+
 ## Fikir dünyası
 
 Saray ekonomisinin çöküşü, saray kayıt sistemlerinin de çöküşü demektir. Yunan
