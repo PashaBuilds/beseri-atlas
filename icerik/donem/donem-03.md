@@ -464,8 +464,9 @@ dönemin eksenine katkısıyla anılır.
 tartışma dosyası bu soruyu ele alır.
 
 Sayısal seriler burada yorumlanır, üretilmez.[^k3] Serilerin
-kaynakları ve yöntemleri atlasın veri dosyalarında ayrı ayrı
-kayıtlıdır.[^k2]
+kaynakları, yöntemleri ve başlangıç tarihleri atlasın veri
+dosyalarında ayrı ayrı kayıtlıdır ve bu dosya onların yerine
+geçmez.[^k2]
 
 
 ## Deniz kavimleri sorunu
