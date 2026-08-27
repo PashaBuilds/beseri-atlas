@@ -667,8 +667,8 @@ Hakların evrensel ifadesi, kadınların da kapsama girip girmediğini
 gündeme getirdi.[^k1] Dönemin ilk yıllarında bu yönde metinler
 yazıldı.
 
-Talep dönem içinde karşılık bulmadı.[^k2] Yeni kurulan düzenlerin çoğu
-oy hakkını erkeklerle sınırladı.
+Talep dönem içinde karşılık bulmadı.[^k2] Yeni kurulan düzenlerin
+neredeyse tamamı oy hakkını erkeklerle sınırladı.
 
 Atlas bu sonucu ayrıca kaydeder.[^k4] Bir metnin evrensel ifadeyle
 yazılması, uygulamada evrensel olacağını
