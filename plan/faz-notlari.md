@@ -3283,3 +3283,40 @@ anılıyor ve dördü savunanlar kütüğüne `kisi-degil` olarak yazıldı.
 Dosyanın kapanışı bir rakam değil, bir soru listesi: hangi ölçüt,
 hangi dönem, hangi tarafın defteri, hangi karşılaştırma noktası,
 neyin kaydı yok.
+
+## 2026-08-26 — Amerika: emek düzeni ve içeriden eleştiri
+
+Amerika katmanında büyük bir boşluk vardı: `olay-atlantik-kole-ticareti`
+ve `olay-tupac-amaru-ayaklanmasi-1780` dosyaları vardı ama aralarındaki
+emek düzenini adlandıran hiçbir kavram dosyası yoktu.
+
+- `kavram-zorunlu-emek-duzeni` — encomienda ve mita'nın ortak adı.
+  Üç ölçüt: reddin mümkün olup olmaması, kişinin satılabilir olup
+  olmaması, karşılığın kim tarafından belirlendiği. Ölçüm: yerleşik bir
+  yükümlülüğün adını koruyup içeriğini değiştirmek, yeni bir yükümlülük
+  kurmaktan daha az direnç doğurur. İkinci ölçüm: topluluk başına sabit
+  bir yükümlülük, nüfus azaldıkça kendiliğinden ağırlaşır.
+- `dusunur-las-casas` — düzenin dönemindeki en ayrıntılı eleştirmeni.
+  İki ölçüm: (1) bir düzeni en ayrıntılı biçimde eleştirenler çoğu
+  zaman o düzenin içinden çıkar, ayrıntı bilgisinin kaynağı katılımın
+  kendisidir — Las Casas önce encomienda sahibiydi; (2) bir
+  eleştirinin kimin elinde dolaştığı, doğruluğunu değiştirmez ama neye
+  hizmet ettiğini belirler — metni, aynı işi başka yerde yapan rakip
+  imparatorluklarca propaganda olarak basıldı.
+
+Sayı sorunu ayrıca ele alındı: metnin ölüm rakamları veri olarak
+kullanılmıyor, ama bu metnin bütününü geçersiz kılmıyor. İki hatadan
+da kaçınıldı — metni propaganda sayıp içeriğini reddetmek ve metni tam
+kayıt sayıp sayılarını doğrudan kullanmak.
+
+Yeni birincil kaynak: 1656 tarihli "The Tears of the Indians"
+(Brevísima relación'un erken İngilizce baskısı, archive.org kurum
+taraması). Guamán Poma el yazması da zorunlu emek dosyasında yeniden
+kullanıldı — düzeni tabi kılınan tarafın konumundan anlatan tek
+birincil kayıt.
+
+Reddedilen: `es.wikisource.org` (havuzda beyaz listede değil, daha önce
+de reddedilmişti).
+
+Açık borç: `aktor-portekiz-imparatorlugu` hâlâ yok. TDV PORTEKİZ maddesi
+ve Tordesillas metni hazır, bir sonraki turda yazılacak.

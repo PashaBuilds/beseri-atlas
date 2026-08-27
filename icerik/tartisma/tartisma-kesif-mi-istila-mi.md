@@ -34,6 +34,7 @@ ilgili:
   - aktor-mapuche
   - kaynak-tordesillas-antlasmasi
   - kaynak-cook-guney-seyir-defteri
+  - dusunur-las-casas
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

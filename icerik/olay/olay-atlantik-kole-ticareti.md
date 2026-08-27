@@ -26,6 +26,8 @@ ilgili:
   - aktor-asanti-imparatorlugu
   - kaynak-liberya-bagimsizlik-bildirisi
   - olay-mfecane
+  - dusunur-las-casas
+  - kavram-zorunlu-emek-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

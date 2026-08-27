@@ -20,6 +20,7 @@ ilgili:
   - tartisma-kesif-mi-istila-mi
   - kaynak-tordesillas-antlasmasi
   - kaynak-piri-reis-kitab-i-bahriye
+  - dusunur-las-casas
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

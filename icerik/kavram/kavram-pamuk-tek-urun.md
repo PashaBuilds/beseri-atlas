@@ -24,6 +24,7 @@ ilgili:
   - aktor-banaba
   - olay-bengal-kitligi-1943
   - dusunur-gandhi
+  - kavram-zorunlu-emek-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

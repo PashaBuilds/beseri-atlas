@@ -21,6 +21,8 @@ ilgili:
   - aktor-moche
   - kavram-kipu
   - olay-tupac-amaru-ayaklanmasi-1780
+  - dusunur-las-casas
+  - kavram-zorunlu-emek-duzeni
 okuma_onerisi: []
 yazar: "Felipe Guamán Poma de Ayala"
 eser_adi: "Primer Nueva Corónica y Buen Gobierno"

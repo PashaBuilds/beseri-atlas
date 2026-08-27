@@ -25,6 +25,7 @@ ilgili:
   - kavram-pamuk-tek-urun
   - aktor-banaba
   - aktor-yeni-hebridler-ortak-yonetimi
+  - kavram-zorunlu-emek-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

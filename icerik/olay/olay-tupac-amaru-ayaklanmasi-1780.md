@@ -23,6 +23,7 @@ ilgili:
   - kavram-mesruiyet
   - kavram-somurgesizlesme
   - kaynak-guaman-poma-nueva-coronica
+  - kavram-zorunlu-emek-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

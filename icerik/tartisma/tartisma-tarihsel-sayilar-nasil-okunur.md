@@ -67,6 +67,7 @@ ilgili:
   - olay-bengal-kitligi-1943
   - kavram-kast
   - tartisma-somurgeciligin-ekonomik-bilancosu
+  - dusunur-las-casas
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

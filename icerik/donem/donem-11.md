@@ -40,6 +40,7 @@ ilgili:
   - aktor-zulu-kralligi
   - olay-tupac-amaru-ayaklanmasi-1780
   - kaynak-cook-guney-seyir-defteri
+  - kavram-zorunlu-emek-duzeni
 okuma_onerisi: []
 serit:
   - bolge: avrupa

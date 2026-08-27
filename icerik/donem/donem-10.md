@@ -37,6 +37,8 @@ ilgili:
   - olay-tupac-amaru-ayaklanmasi-1780
   - aktor-komance
   - dusunur-katib-celebi
+  - dusunur-las-casas
+  - kavram-zorunlu-emek-duzeni
 okuma_onerisi: []
 serit:
   - bolge: avrupa

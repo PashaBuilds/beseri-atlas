@@ -27,6 +27,8 @@ ilgili:
   - kaynak-tordesillas-antlasmasi
   - olay-tupac-amaru-ayaklanmasi-1780
   - aktor-komance
+  - dusunur-las-casas
+  - kavram-zorunlu-emek-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

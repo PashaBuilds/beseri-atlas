@@ -17,6 +17,7 @@ ilgili:
   - aktor-aztek-imparatorlugu
   - aktor-ispanyol-imparatorlugu
   - tartisma-kesif-mi-istila-mi
+  - dusunur-las-casas
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
