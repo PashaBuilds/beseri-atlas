@@ -466,8 +466,9 @@ tarihlerinden çok ortak mekanizmanın onlardaki görünümünü
 verir.
 
 Sayısal seriler burada yorumlanır, üretilmez.[^k3] Serilerin
-kaynakları ve yöntemleri atlasın veri dosyalarında ayrı ayrı
-kayıtlıdır.[^k5]
+kaynakları, yöntemleri ve başlangıç tarihleri atlasın veri
+dosyalarında ayrı ayrı kayıtlıdır ve bu dosya onların yerine
+geçmez.[^k5]
 
 
 ## Selçuklu düzeni
