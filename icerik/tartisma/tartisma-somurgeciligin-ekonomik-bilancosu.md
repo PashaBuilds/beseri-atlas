@@ -38,6 +38,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - aktor-ace-sultanligi
   - kavram-zorunlu-emek-duzeni
+  - olay-kongo-serbest-devleti
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -70,6 +70,7 @@ ilgili:
   - dusunur-las-casas
   - kavram-takvim
   - kavram-toplumsal-cinsiyet-duzeni
+  - olay-kongo-serbest-devleti
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

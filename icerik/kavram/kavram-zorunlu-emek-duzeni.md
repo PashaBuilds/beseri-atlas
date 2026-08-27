@@ -23,6 +23,7 @@ ilgili:
   - kavram-pamuk-tek-urun
   - tartisma-somurgeciligin-ekonomik-bilancosu
   - aktor-portekiz-imparatorlugu
+  - olay-kongo-serbest-devleti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -25,6 +25,7 @@ ilgili:
   - kavram-emperyalizm
   - kavram-somurgesizlesme
   - aktor-asanti-imparatorlugu
+  - olay-kongo-serbest-devleti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

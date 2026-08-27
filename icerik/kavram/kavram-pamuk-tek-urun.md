@@ -25,6 +25,7 @@ ilgili:
   - olay-bengal-kitligi-1943
   - dusunur-gandhi
   - kavram-zorunlu-emek-duzeni
+  - olay-kongo-serbest-devleti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

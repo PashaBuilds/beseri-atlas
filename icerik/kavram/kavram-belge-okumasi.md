@@ -32,6 +32,7 @@ ilgili:
   - kavram-takvim
   - kavram-okuryazarlik
   - kavram-toplumsal-cinsiyet-duzeni
+  - olay-kongo-serbest-devleti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

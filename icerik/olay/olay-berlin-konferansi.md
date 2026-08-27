@@ -22,6 +22,7 @@ ilgili:
   - kaynak-tordesillas-antlasmasi
   - kaynak-afrika-birligi-sarti
   - olay-adva-1896
+  - olay-kongo-serbest-devleti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

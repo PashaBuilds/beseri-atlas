@@ -36,6 +36,7 @@ ilgili:
   - kavram-pasifik-isci-toplama
   - olay-rus-turkistan-fethi
   - kavram-pamuk-tek-urun
+  - olay-kongo-serbest-devleti
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 serit:
