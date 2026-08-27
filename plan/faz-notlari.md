@@ -4216,3 +4216,43 @@ Herodotos'un tam metni (Project Gutenberg) kondu; Behistun kitabesi
 uygun ve iki birincil kaynağı var.
 
 Kalan dönem dosyaları: 01–02.
+
+## 2026-08-26 — donem-02 onarıldı (700 → 2400+)
+
+On beşinci dönem dosyası. MÖ 3000–1200.
+
+Dosyanın ana ölçümü: belirli bir ölçeğin üzerindeki bir yönetim, kaydı
+olmadan işleyemez; devletin sınırı, kayıt kapasitesinin sınırıdır.
+Yazının ve devletin aynı yüzyıllara düşmesi tesadüf değil.
+
+İkinci ölçüm tunç üzerine: bir alaşımın girdilerinin coğrafi dağılımı,
+onu kullanan düzenlerin birbirine ne kadar bağımlı olacağını belirler.
+Bu, donem-03'teki çöküşün doğrudan zemini olarak bağlandı.
+
+Öne çıkan kayıtlar:
+- Yazının ilk işi muhasebe: anlatı için değil sayma ve izleme için
+  icat edildi. Bir aracın ilk kullanımı sonraki kullanımlarını
+  belirlemiyor.
+- Kilin dayanıklılığı bir kayıt yanlılığı üretiyor: kil kullanan
+  bölgeler ayrıntılı, papirüs kullananlar seyrek biliniyor. Bir
+  bölgenin daha iyi bilinmesi, daha önemli olduğunu değil kaydının
+  daha dayanıklı olduğunu gösteriyor.
+- Diplomatik yazışmada hitap biçimi hiyerarşiyi kaydediyor:
+  hükümdarlar birbirine "kardeş", küçük düzenlere farklı hitap.
+- Hediye ile ticaret ayrımı: aynı mal akışının nasıl adlandırıldığı,
+  taraflar arasındaki ilişkinin niteliğini belirliyor.
+- Hukuk metinleri eşitlik değil öngörülebilirlik iddia ediyor —
+  cezalar failin ve mağdurun statüsüne göre değişiyor.
+- Düzenli tekrarlanan borç silme ilanları, borçlanmanın da düzenli
+  olarak sürdürülemez hâle geldiğini gösteriyor.
+- Batıklar bir kanıt türü olarak kaydedildi: bir batık, kayıt
+  tutulmamış bir işlemin kesitini koruyor.
+- İki taraflı antlaşma metinlerinin ikisinin birden korunması,
+  atlasın tekrar eden "iki metin" sorununu sınamak için en elverişli
+  durum olarak işaretlendi.
+
+Künye: Gilgamış Destanı Wikisource tam metni k4 olarak eklendi (ilk
+denediğim archive.org kimliği 404 döndü, atlasın kendi kaynak
+dosyasındaki doğrulanmış URL kullanıldı).
+
+Kalan dönem dosyası: 01.
