@@ -647,6 +647,21 @@ Atlas bu farkı beyan eder.[^k2] Aynı biçimde yazılmış iki dosya, aynı
 güçte olmayabilir; dayandıkları kanıt türü farklıysa
 sonuçları da farklı ağırlık taşır.[^k4]
 
+
+## Bu dosyanın gözden geçirilme kuralı
+
+Açık uçlu bir dosya, kapalı bir dosyadan farklı bir bakım
+gerektirir.[^k1] Eksen cümlesi ve dönem adı düzenli olarak yeniden
+sınanmalıdır.
+
+Atlas bu dosya için bir kural koyar.[^k2] Yeni bir eksen belirginleşirse
+dosyanın adı ve eksen cümlesi değiştirilir, önceki hâli faz
+notlarında kayıtlı kalır.
+
+Kuralın gerekçesi izlenebilirliktir.[^k5] Bir dosyanın nasıl
+değiştiğinin kaydı, dosyanın kendi içeriği kadar bilgi
+taşır.[^k3][^k4]
+
 ## Fikir dünyası
 
 Dönemin fikir dünyasının merkezinde, büyüme varsayımının kendisinin sorgulanması
