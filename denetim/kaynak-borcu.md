@@ -13,15 +13,15 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 |---|---|
 | Ölçülen makale | 505 |
 | Toplam künye | 1674 |
-| Giriş kapısı kuralını aşan makale | 220 |
-| Birincil kaynağı olmayan makale | 251 |
+| Giriş kapısı kuralını aşan makale | 219 |
+| Birincil kaynağı olmayan makale | 250 |
 | Giriş kapısı künyesi payı | 42% |
 
 ## Tipe göre borçlu makale
 
 | Tip | Borçlu |
 |---|---|
-| olay | 78 |
+| olay | 77 |
 | aktor | 74 |
 | kavram | 65 |
 | tartisma | 33 |
@@ -189,7 +189,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `olay-bandung-konferansi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-berlin-duvarinin-yikilisi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-birinci-dunya-savasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `olay-boksor-isyani` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-bretton-woods` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-cernobil` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-cheng-ho-seferleri` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |

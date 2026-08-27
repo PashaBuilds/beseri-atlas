@@ -26,11 +26,11 @@ kaynaklar:
     dogrulama_dizesi: "Boxer Rebellion"
   - anahtar: k2
     tur: ansiklopedi
-    ad: "Wikipedia (EN) - Qing dynasty"
-    url: https://en.wikipedia.org/wiki/Qing_dynasty
+    ad: "Boxer Protocol (1901) - Wikisource tam metin"
+    url: https://en.wikisource.org/wiki/Boxer_Protocol
     erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Qing dynasty"
-    not: "Isyanin gerceklestigi hanedan duzeni"
+    dogrulama_dizesi: "Boxer Protocol"
+    not: "Isyanin sonucunu kayda geciren belge"
   - anahtar: k3
     tur: veri
     ad: "Our World in Data - Population, long-run with projections (CSV verisi)"
@@ -81,3 +81,286 @@ bölümünde bulunmadığı için bu değerler içindeki pay burada hesaplanmam�
 İsyanın nedenleri, seyri, kuşatma dönemi ve protokolün maddeleri burada ayrı
 başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
 işler.[^k1] Dönemin bütünü [1848-1914](/donem/12/) dosyasında ele alınıyor.
+
+## Nasıl başladı
+
+İsyan, kuzeydeki bir eyalette yerel bir hareket olarak
+başladı.[^k1] Hareketin hedefi önce yabancı misyonlar ve onlara bağlı
+yerel gruplardı.
+
+Bölgede aynı yıllarda kuraklık ve sel yaşanmıştı.[^k3] Geçim koşulları
+bozulmuş, işsiz genç nüfus artmıştı.
+
+Atlas bu zemini ayrıca kaydeder.[^k2] Bir hareketin hedefi ile onu
+mümkün kılan koşullar ayrı ayrı
+incelenmelidir.
+
+## Demiryolu ve telgraf
+
+Hareketin ilk hedeflerinden biri demiryolu hattı ve telgraf
+teliydi.[^k1] Bunlar yabancı sermayeyle kurulmuştu.
+
+Saldırı simgesel değildi.[^k3] Hat, kervan taşımacılığında çalışan
+büyük bir nüfusun işini
+ortadan kaldırmıştı.
+
+Atlas bu bağı ayrıca kaydeder.[^k2] Bir altyapıya yönelen tepki, çoğu
+zaman o altyapının ortadan kaldırdığı geçim biçiminin
+tepkisidir.
+
+## Merkezin konumu
+
+Merkezî yönetim hareket karşısında bölünmüştü.[^k1] Bir kesim
+bastırmayı, bir kesim desteklemeyi savunuyordu.
+
+Sonunda destekleme yönünde karar verildi.[^k3] Yönetim, yabancı
+devletlere karşı savaş ilan etti.
+
+Atlas bu kararı ayrıca kaydeder.[^k2] Bir yönetimin kendi ülkesindeki
+bir halk hareketini dış politikada araç olarak kullanması, o hareketi
+denetleyebildiği varsayımına
+dayanır.
+
+## Varsayımın çökmesi
+
+Varsayım tutmadı.[^k1] Hareket merkezî komutaya girmedi ve kendi
+hedeflerini izlemeye devam
+etti.
+
+Sonuç, yönetimin hem hareketi hem savaşı denetleyememesi
+oldu.[^k3] İki başarısızlık üst üste bindi.
+
+Atlas bu sonucu ayrıca kaydeder.[^k2] Kendiliğinden doğmuş bir hareketi
+araca çevirmek, onu yönlendirebilmeyi
+gerektirir.
+
+## Sekiz devletin ittifakı
+
+Karşı taraf sekiz devletin oluşturduğu bir kuvvetti.[^k1] İttifak,
+o güne kadar görülmemiş bir bileşimdi.
+
+Aralarında birbiriyle rekabet hâlinde olanlar da vardı.[^k3] Ortak
+hareket, ortak çıkarın geçici olarak öne
+geçmesiyle mümkün oldu.
+
+Atlas bu geçiciliği ayrıca kaydeder.[^k2] Rakip güçlerin ortak hareket
+etmesi, aralarındaki rekabetin sona erdiğini
+göstermez.
+
+## Başkentin işgali
+
+Kuvvetler başkenti aldı ve yönetim kenti terk etti.[^k1] İşgal
+sırasında geniş çaplı yağma yaşandı.
+
+Yağma, kuvvetlerin kendi kayıtlarında da
+geçer.[^k3] Alınan nesnelerin bir bölümü bugün de merkez ülkelerin
+koleksiyonlarındadır.
+
+Atlas bu ayrıntıyı ayrıca kaydeder.[^k2] Bir nesnenin bugün nerede
+tutulduğu, o nesnenin hangi çerçevede okunacağını da
+belirler.
+
+## Protokolün maddeleri
+
+Sonuç bir protokolle kayda geçti.[^k2] Metin ağır bir tazminat, silah
+ithalatı yasağı ve belirli kalelerin yıkılmasını
+öngörüyordu.
+
+Ayrıca yabancı devletlere başkentte asker bulundurma hakkı
+tanındı.[^k2] Bu, egemenliğin doğrudan
+sınırlanmasıdır.
+
+Atlas bu maddeleri ayrıca kaydeder.[^k1] Bu, atlasın eşitsiz
+antlaşmalar dosyasında tanımlanan kalıbın en ileri
+örneklerindendir.
+
+## Tazminatın büyüklüğü
+
+Tazminat, yıllık devlet gelirinin katları düzeyindeydi.[^k2] Ödeme
+otuz dokuz yıla yayıldı ve faiz
+eklendi.
+
+Ödeme, gümrük ve tuz gelirlerine bağlandı.[^k1] Bu gelirler fiilen
+alacaklıların denetimine geçti.
+
+Atlas bu düzenlemeyi ayrıca kaydeder.[^k3] Bu, atlasın aynı dönemde
+başka bölgelerde de kaydettiği bir yapıdır: egemenliğin sınırlanması
+için toprak kaybı gerekmez, gelirin denetimi
+yeterlidir.
+
+## Tazminatın geri dönüşü
+
+Ödenen tazminatın bir bölümü sonradan eğitim fonlarına
+aktarıldı.[^k1] Fonlar, öğrenci gönderme programlarını
+finanse etti.
+
+Bu, ödeyen taraf için bir kazanç sayılmaz.[^k3] Aktarım, alan tarafın
+kendi kararıyla ve kendi öncelikleriyle
+yapıldı.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k2] Bir tazminatın bir bölümünün geri
+harcanması, tazminatın kendisini
+hafifletmez.
+
+## Sayılar
+
+Ölü sayıları için verilen tahminler farklıdır.[^k3] Fark, kimlerin
+sayıldığına göre değişir.
+
+Yabancı ölümleri ayrıntılı kayıtlıdır.[^k1] Yerel ölümler, özellikle
+bastırma sırasında yaşananlar, çok daha az
+kayıtlıdır.
+
+Atlas bu dengesizliği ayrıca kaydeder.[^k2] Bir olayın kayıp
+kaydındaki ayrıntı farkı, kaydı kimin tuttuğunun doğrudan
+göstergesidir.
+
+## Adlandırma
+
+Harekete verilen ad, karşı tarafın kaydından
+gelir.[^k1] Hareketin kendi adlandırması farklıydı.
+
+Ad, hareketi bir isyan olarak konumlandırır.[^k3] Bu, karşı tarafın
+meşru yönetim olduğu varsayımını da
+taşır.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k2] Bir olaya verilen ad, o olayı
+kimin kaydettiğini gösterir; atlas yaygın adı kullanır ve bu kaydı
+düşer.
+
+## Sonraki dönemde etkisi
+
+Protokolün koşulları, yönetimin meşruiyetini daha da
+zayıflattı.[^k2] On yıl içinde hanedan sona erdi.
+
+İki olay arasında doğrudan bir neden sonuç bağı kurmak
+zordur.[^k1] Aradaki halkalar ayrıca gösterilmelidir.
+
+Atlas bu ihtiyatı ayrıca kaydeder.[^k3] İki olayın kısa aralıkla
+gerçekleşmesi, birinin diğerinin nedeni olduğunu
+göstermez.
+
+## Reform girişimleri
+
+İsyandan sonra yönetim kapsamlı bir reform programı
+başlattı.[^k1] Ordu, eğitim ve idare yeniden
+düzenlendi.
+
+Reformun tetikleyicisi bir yenilgiydi.[^k3] Bu, atlasın başka
+dosyalarında da kaydedilen bir
+örüntüdür.
+
+Atlas bu tekrarı ayrıca kaydeder.[^k2] Bir kurumsal reformun
+tetikleyicisi çoğu zaman iç talep değil, dış bir yenilgi
+karşılaştırmasıdır.
+
+## Bu dosyanın sınırı
+
+Dosya, askerî harekâtın ayrıntısını vermez.[^k1] Bu ayrı bir
+çalışmanın konusudur.
+
+Hareketin iç örgütlenmesi burada çözümlenmez.[^k3] Kaynaklar bu
+düzeyde büyük ölçüde dışarıdan gelen
+gözlemlerdir.
+
+Yerel kayıttan doğrulanabilir birincil bir metin
+künyelenememiştir.[^k2] Künyedeki birincil belge, sekiz devletle
+imzalanan protokoldür ve bu kısıt burada beyan
+edilir.
+
+
+## Elçilik kuşatması
+
+Başkentteki elçilik bölgesi yaklaşık iki ay
+kuşatıldı.[^k1] Kuşatma, dönemin basınında günü gününe
+izlendi.
+
+Bu, olayın uluslararası kamuoyundaki yerini
+belirledi.[^k3] Kuşatma anlatısı, isyanın nedenlerinden çok daha
+geniş yer buldu.
+
+Atlas bu dengesizliği ayrıca kaydeder.[^k2] Bir olayın hangi
+bölümünün anlatıldığı, o bölümün önemine değil izlenebilirliğine
+bağlı olabilir.
+
+## Güney eyaletlerinin tutumu
+
+Güneydeki eyalet valileri merkezin savaş ilanını
+uygulamadı.[^k1] Kendi bölgelerinde yabancılarla ayrı düzenlemeler
+yaptılar.
+
+Bu, merkezin taşra üzerindeki denetiminin ne kadar zayıfladığını
+gösterir.[^k3] Valiler fiilen kendi dış politikalarını
+yürüttü.
+
+Atlas bu durumu ayrıca kaydeder.[^k2] Bir savaş ilanının ülkenin bir
+bölümünde uygulanmaması, merkezî otoritenin doğrudan
+ölçüsüdür.
+
+## Dinî boyut
+
+Hareketin hedefleri arasında yerel Hristiyan topluluklar da
+vardı.[^k1] Bu topluluklar, yabancı misyonların koruması altında
+sayılıyordu.
+
+Koruma, onları hem güvence altına aldı hem hedef
+hâline getirdi.[^k3] İki sonuç aynı düzenlemeden
+doğar.
+
+Atlas bu ikiliği ayrıca kaydeder.[^k2] Bir topluluğa dışarıdan
+sağlanan koruma, o topluluğun konumunu güçlendirirken aynı zamanda
+onu dış bir güçle özdeşleştirir.
+
+## Misyon ayrıcalıkları
+
+Misyonlar önceki antlaşmalarla belirli ayrıcalıklar
+edinmişti.[^k1] Toprak edinme ve dava açma hakları bunlar
+arasındaydı.
+
+Bu ayrıcalıklar yerel yönetimlerle sürtüşme
+üretiyordu.[^k3] Anlaşmazlıklarda yerel mahkeme yetkisiz
+kalıyordu.
+
+Atlas bu bağı ayrıca kaydeder.[^k2] Yargı ayrıcalığının gündelik
+sonucu, aynı toprakta iki hukukun işlemesidir ve sürtüşme buradan
+doğar.
+
+
+## Bastırma sonrası cezalandırma
+
+Protokol, belirli görevlilerin cezalandırılmasını da
+öngörüyordu.[^k2] Liste dışarıdan verildi.
+
+Bu, iç hukukun dışarıdan belirlenmesi
+demektir.[^k1] Kimin suçlu sayılacağı, yargılayan tarafın değil
+antlaşmanın konusuydu.
+
+Atlas bu düzenlemeyi ayrıca kaydeder.[^k3] Bir barış metninin
+karşı tarafın kendi görevlilerini cezalandırmasını şart koşması,
+egemenliğin en doğrudan sınırlanmasıdır.
+
+## Anıt maddesi
+
+Protokol, öldürülen bir elçi için anıt dikilmesini de
+şart koşuyordu.[^k2] Anıt, olayın hangi anlatısının resmî sayılacağını
+belirliyordu.
+
+Anıt sonraki dönemde kaldırıldı.[^k1] Kaldırma da ayrı bir siyasi
+işlemdi.
+
+Atlas iki işlemi birlikte kaydeder.[^k3] Bir anıtın dikilmesi ve
+kaldırılması, aynı olayın iki farklı dönemde nasıl
+adlandırıldığının kaydıdır.
+
+## Okuma yönlendirmesi
+
+Dönemin antlaşma düzeni için
+[Eşitsiz antlaşmalar](/kavram/esitsiz-antlasmalar/) dosyası
+okunmalıdır.[^k2]
+
+Dönemin genel çerçevesi için [1848–1914](/donem/12/) dosyası
+uygundur.[^k1]
+
+Sayıların neden verilmediği için
+[Tarihsel sayılar nasıl okunur](/tartisma/tarihsel-sayilar-nasil-okunur/)
+dosyası okunabilir.[^k3]
