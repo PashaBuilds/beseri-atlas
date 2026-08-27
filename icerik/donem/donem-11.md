@@ -506,8 +506,9 @@ tarihlerinden çok ortak mekanizmanın onlardaki görünümünü verir ve
 her bölge kendi dosyalarında ayrıca ele alınır.
 
 Sayısal seriler burada yorumlanır, üretilmez.[^k6] Serilerin
-kaynakları ve yöntemleri atlasın veri dosyalarında ayrı ayrı
-kayıtlıdır.[^k4]
+kaynakları, yöntemleri ve başlangıç tarihleri atlasın veri
+dosyalarında ayrı ayrı kayıtlıdır ve bu dosya onların yerine
+geçmez.[^k4]
 
 
 ## Kıta ölçeğinde savaş
