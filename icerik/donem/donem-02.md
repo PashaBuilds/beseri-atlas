@@ -650,6 +650,34 @@ iki metninin de korunması, atlasın tekrar eden iki metin sorununu
 sınamak için en elverişli
 durumdur.
 
+
+## Dönemin adlandırılması
+
+Dönem adını bir alaşımdan alır.[^k1] Adlandırma, malzemenin belirleyici
+sayıldığı bir çerçeveyi taşır.
+
+Aynı yüzyıllar yazının ya da kentin adıyla da
+anılabilirdi.[^k3] Üç adlandırma üç ayrı ekseni öne
+çıkarır.
+
+Atlas malzeme adını kullanır ve gerekçesini yazar.[^k4] Tunç, hem
+askerî hem ticari hem siyasi sonucu olan tek girdidir; diğer iki
+eksen ondan bağımsız açıklanamaz.
+
+## Dönemin bıraktığı soru
+
+Dosya bir soruyla kapanır.[^k1] Kayıt tutma kapasitesi devleti mi
+mümkün kıldı, yoksa devlet mi kaydı
+zorunlu kıldı.
+
+İki cevap aynı kayıtlarla uyumludur.[^k3] En erken tabletler hem
+yönetimin varlığını hem de yönetimin ihtiyacını
+gösterir.
+
+Atlas soruyu açık tutar.[^k4] İki olgunun aynı yüzyıllara düşmesi,
+hangisinin diğerini öncelediğini
+göstermez.
+
 ## Fikir dünyası
 
 Yazının ortaya çıkışı bu dönemin fikir dünyasını, önceki dönemden niteliksel
