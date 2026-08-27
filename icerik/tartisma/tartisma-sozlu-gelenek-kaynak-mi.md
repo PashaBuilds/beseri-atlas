@@ -42,6 +42,7 @@ ilgili:
   - kaynak-kurukan-fuga-sarti
   - kavram-kurulus-anlatisi
   - kaynak-kojiki
+  - kavram-okuryazarlik
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

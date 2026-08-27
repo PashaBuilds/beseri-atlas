@@ -14,6 +14,7 @@ ilgili:
   - kavram-mesruiyet
   - kavram-umran
   - kaynak-ibn-haldun-mukaddime
+  - kavram-akrabalik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

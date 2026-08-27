@@ -69,6 +69,7 @@ ilgili:
   - tartisma-somurgeciligin-ekonomik-bilancosu
   - dusunur-las-casas
   - kavram-takvim
+  - kavram-toplumsal-cinsiyet-duzeni
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -31,6 +31,7 @@ ilgili:
   - olay-talas-savasi
   - olay-rus-turkistan-fethi
   - kavram-veraset
+  - kavram-akrabalik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

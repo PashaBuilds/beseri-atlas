@@ -22,6 +22,7 @@ ilgili:
   - veri-nufus-artis-hizi
   - veri-bebek-olumleri
   - tartisma-demografik-donum-sonuclari
+  - kavram-toplumsal-cinsiyet-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

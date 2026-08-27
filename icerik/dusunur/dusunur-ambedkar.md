@@ -24,6 +24,8 @@ ilgili:
   - olay-hindistan-bolunmesi
   - kavram-somurgesizlesme
   - olay-bengal-kitligi-1943
+  - kavram-okuryazarlik
+  - kavram-toplumsal-cinsiyet-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

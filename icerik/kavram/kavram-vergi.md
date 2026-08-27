@@ -16,6 +16,7 @@ ilgili:
   - kaynak-ain-i-akbari
   - aktor-bengal-sultanligi
   - aktor-gucerat-sultanligi
+  - kavram-toplumsal-cinsiyet-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

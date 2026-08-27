@@ -22,6 +22,7 @@ ilgili:
   - tartisma-belge-ne-zaman-yururlukte
   - kavram-mesruiyet
   - kaynak-fetha-nagast
+  - kavram-akrabalik
 okuma_onerisi: []
 yazar: "Manden meclisi (aktarima gore); yirminci yuzyil derleyicileri"
 eser_adi: "Kurukan Fuga / Manden Sarti"

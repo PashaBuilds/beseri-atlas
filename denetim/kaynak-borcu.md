@@ -11,10 +11,10 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 493 |
-| Toplam künye | 1616 |
+| Ölçülen makale | 496 |
+| Toplam künye | 1625 |
 | Giriş kapısı kuralını aşan makale | 223 |
-| Birincil kaynağı olmayan makale | 252 |
+| Birincil kaynağı olmayan makale | 255 |
 | Giriş kapısı künyesi payı | 43% |
 
 ## Tipe göre borçlu makale
@@ -23,7 +23,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 |---|---|
 | olay | 78 |
 | aktor | 74 |
-| kavram | 62 |
+| kavram | 65 |
 | tartisma | 33 |
 | kaynak | 28 |
 | dusunur | 22 |
@@ -293,15 +293,18 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `dusunur-nagarjuna` | 3 | 1 | 0 | birincil kaynak yok |
 | `dusunur-ulug-bey` | 3 | 1 | 0 | birincil kaynak yok |
 | `dusunur-wang-yangming` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-akrabalik` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-buyuk-ayrisma` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-demografik-gecis` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-kanit-turu` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-kentlesme` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-longue-duree` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-mesruiyet` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-okuryazarlik` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-silahli-ticaret` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-takvim` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-tarihsel-iklimbilim` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-toplumsal-cinsiyet-duzeni` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-umran` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-veraset` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-vergi` | 3 | 1 | 0 | birincil kaynak yok |

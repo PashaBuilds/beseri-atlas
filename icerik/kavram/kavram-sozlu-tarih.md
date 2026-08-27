@@ -29,6 +29,7 @@ ilgili:
   - olay-mfecane
   - aktor-zulu-kralligi
   - aktor-komance
+  - kavram-okuryazarlik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

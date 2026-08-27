@@ -18,6 +18,7 @@ ilgili:
   - kavram-hint-okyanusu-ticareti
   - dusunur-durkheim
   - kavram-aletsiz-seyrusefer
+  - kavram-akrabalik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

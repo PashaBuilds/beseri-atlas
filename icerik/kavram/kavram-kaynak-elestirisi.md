@@ -44,6 +44,8 @@ ilgili:
   - kavram-pamuk-tek-urun
   - olay-bengal-kitligi-1943
   - kavram-takvim
+  - kavram-okuryazarlik
+  - kavram-toplumsal-cinsiyet-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

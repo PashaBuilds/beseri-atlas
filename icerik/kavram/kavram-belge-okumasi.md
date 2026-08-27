@@ -30,6 +30,8 @@ ilgili:
   - dusunur-ambedkar
   - kavram-kast
   - kavram-takvim
+  - kavram-okuryazarlik
+  - kavram-toplumsal-cinsiyet-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

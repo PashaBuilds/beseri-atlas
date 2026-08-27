@@ -48,6 +48,7 @@ ilgili:
   - kaynak-cook-guney-seyir-defteri
   - dusunur-ulug-bey
   - kavram-takvim
+  - kavram-okuryazarlik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

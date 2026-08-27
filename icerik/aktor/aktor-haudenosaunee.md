@@ -26,6 +26,7 @@ ilgili:
   - aktor-cahokia
   - aktor-mapuche
   - aktor-komance
+  - kavram-akrabalik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

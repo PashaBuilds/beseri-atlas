@@ -65,6 +65,7 @@ ilgili:
   - dusunur-gandhi
   - kavram-kast
   - kavram-veraset
+  - kavram-akrabalik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

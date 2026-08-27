@@ -25,6 +25,7 @@ ilgili:
   - kaynak-hammurabi-kanunlari
   - aktor-kirgizlar
   - kavram-takvim
+  - kavram-okuryazarlik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

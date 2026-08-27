@@ -3389,3 +3389,36 @@ HİCRÎ TAKVİM) dayanıyor, dosya başına tek Wikipedia kuralına uygun.
 
 Kavram katmanında görülen diğer eksikler (sonraki turlar için):
 toplumsal cinsiyet düzeni, okuryazarlık, akrabalık.
+
+## 2026-08-26 — Kavram katmanı: kayıt üreten üç yapı
+
+Geçen turda not edilen üç eksik kapatıldı. Üçü de aynı soruya bağlandı:
+bir dönemden hangi kayıtların kaldığını ne belirliyor.
+
+- `kavram-okuryazarlik` — ölçüm: bir dönemin kaynak havuzu, o dönemin
+  okuryazar nüfusunun bileşimini yansıtır, nüfusun bileşimini değil.
+  Yazıcılık katmanı ayrıca kaydedildi: yazıcı aracılığıyla üretilmiş
+  bir belge, başvuranın kendi ifadesi sayılamaz; kalıp metinler
+  belgeleri birbirine benzetir ve benzerlik olayların değil kalemin
+  aynılığından gelebilir.
+- `kavram-toplumsal-cinsiyet-duzeni` — kimlik konusu olarak değil kayıt
+  konusu olarak ele alındı. Üç sınanabilir ölçüt: kim mülk edinebilir,
+  kim tanıklık edebilir, kim kendi adına belge imzalayabilir. Ölçüm:
+  bir düzende kimin belge imzalayabildiği, o düzenden kimin sesinin
+  kalacağını belirler. Hane içi emeğin kayda girmemesi yönlü bir hata
+  olarak işaretlendi — rastgele hata ortalamada kaybolur, yönlü hata
+  kaybolmaz.
+- `kavram-akrabalik` — ölçüm: akrabalığın hangi yoldan sayıldığı,
+  toprağın kaç kuşakta parçalanacağını belirler. Soy listelerinin
+  işlevi ayrıca kaydedildi: bir soy ağacı çoğu zaman geçmişi
+  kaydetmez, bugünkü bir hak iddiasını gerekçelendirir.
+
+KAPI 9 bir kez daha işe yaradı: cinsiyet dosyasını önce
+`guven_geneli: tartismali` yazmıştım ama ne tartışma haritası ne bağlı
+tartışma dosyası vardı. Doğru düzeltme `yaygin`di — dosyanın üç ölçütü
+tartışmalı değil; tartışmalı olan, kayda girmeyen emeğin geriye dönük
+tahmini. O nokta ayrı bir ::tartismali direktifiyle sayılar
+tartışmasına bağlandı.
+
+Künye: üç dosya da tek Wikipedia kuralına uygun; TDV KADIN, MEHİR,
+AİLE, NİKÂH, MEDRESE maddeleri ve OWID okuryazarlık serisi kullanıldı.

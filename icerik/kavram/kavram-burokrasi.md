@@ -27,6 +27,7 @@ ilgili:
   - aktor-sokoto-hilafeti
   - kavram-kipu
   - kavram-veraset
+  - kavram-okuryazarlik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

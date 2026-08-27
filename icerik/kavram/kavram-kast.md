@@ -19,6 +19,8 @@ ilgili:
   - kavram-mesruiyet
   - kavram-belge-okumasi
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - kavram-akrabalik
+  - kavram-toplumsal-cinsiyet-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

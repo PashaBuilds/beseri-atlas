@@ -20,6 +20,8 @@ ilgili:
   - tartisma-buyuk-adam-kurami
   - kavram-imparatorluk
   - kavram-timar
+  - kavram-akrabalik
+  - kavram-toplumsal-cinsiyet-duzeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

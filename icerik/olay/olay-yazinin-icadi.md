@@ -17,6 +17,7 @@ ilgili:
   - aktor-sumer-sehir-devletleri
   - kavram-yazi-sistemi
   - tartisma-yazinin-icadi-nerede
+  - kavram-okuryazarlik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
