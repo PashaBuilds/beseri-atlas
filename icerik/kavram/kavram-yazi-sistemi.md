@@ -189,6 +189,16 @@ Bağımsızlık, sistemlerin yapısal farkından ve coğrafi uzaklıktan
 Atlas bu bulguyu ayrıca kaydeder.[^k3] Aynı çözümün birden çok yerde
 bulunması, aktarımı değil ortak bir ihtiyacı gösterir.
 
+
+## Sayı yazımı
+
+Sayılar çoğu sistemde ayrı bir işaret dizisiyle
+yazılır.[^k1] Sayı yazımı, dil yazımından önce de ortaya
+çıkabilir.
+
+Bu, yazının muhasebe kökenini destekler.[^k2] Sayılmak, anlatılmaktan
+önce gelmiştir.[^k3]
+
 ## Bu dosyanın sınırı
 
 Yazının tarihi, sistemlerin ayrıntısı ve çözümleme yöntemleri burada ayrı

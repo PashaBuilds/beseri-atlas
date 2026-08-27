@@ -191,6 +191,21 @@ Atlas bu bağı ayrıca kaydeder.[^k3] Gizli tutulan bir kapasite
 caydırmaz; caydırıcılık gizlilikle değil görünürlükle
 işler.
 
+
+## Savunma ile farkı
+
+Caydırıcılık savunmadan ayrıdır.[^k1] Savunma saldırıyı durdurmayı,
+caydırıcılık saldırıyı başlatmamayı
+hedefler.
+
+İki strateji farklı yatırım gerektirir.[^k2] Biri dayanıklılığa, diğeri
+karşılık verme kapasitesine
+yatırım yapar.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir düzenin hangi stratejiyi
+seçtiği, askerî harcamasının nereye gittiğinden
+okunur.
+
 ## Bu dosyanın sınırı
 
 Nükleer caydırıcılık kuramı, örnekler ve eleştiriler burada ayrı başlıklar
