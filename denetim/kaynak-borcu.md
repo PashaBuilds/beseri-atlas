@@ -13,8 +13,8 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 |---|---|
 | Ölçülen makale | 488 |
 | Toplam künye | 1599 |
-| Giriş kapısı kuralını aşan makale | 226 |
-| Birincil kaynağı olmayan makale | 253 |
+| Giriş kapısı kuralını aşan makale | 225 |
+| Birincil kaynağı olmayan makale | 252 |
 | Giriş kapısı künyesi payı | 43% |
 
 ## Tipe göre borçlu makale
@@ -23,7 +23,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 |---|---|
 | olay | 78 |
 | aktor | 74 |
-| kavram | 61 |
+| kavram | 60 |
 | tartisma | 35 |
 | kaynak | 28 |
 | dusunur | 22 |
@@ -132,7 +132,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `kavram-imparatorluk` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `kavram-kamusal-alan` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `kavram-kapitalizm` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
-| `kavram-kast` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `kavram-kaynak-elestirisi` | 3 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kavram-kolelik` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `kavram-kuresellesme` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |

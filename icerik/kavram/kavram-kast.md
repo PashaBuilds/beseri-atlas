@@ -3,12 +3,12 @@ id: kavram-kast
 tip: kavram
 baslik: Kast
 ozet: >-
-  Kaynak, kavramı tek bir terimle değil üç ayrı terimle işler ve karmaşıklık ile
-  esnekliğe kendi alt başlığını ayırır.
+  Üç ayrı terimin tek bir adla toplandığı düzen; atlasta bir
+  sınıflandırmanın kaydedilerek sabitlendiği örnek.
 bolge: [guney-asya]
-eksen: [kulturel, siyasi, ekonomik]
+eksen: [kulturel, siyasi, ekonomik, demografik, dini]
 guven_geneli: tartismali
-etiketler: [kast, varna, jati, tanim, esneklik]
+etiketler: [kast, varna, jati, siniflandirma, sayim, esneklik]
 ilgili:
   - aktor-gupta-imparatorlugu
   - aktor-delhi-sultanligi
@@ -16,74 +16,177 @@ ilgili:
   - kaynak-hindistan-anayasasi
   - dusunur-ambedkar
   - dusunur-gandhi
+  - kavram-mesruiyet
+  - kavram-belge-okumasi
+  - tartisma-tarihsel-sayilar-nasil-okunur
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
     tur: ansiklopedi
     ad: "Wikipedia (EN) - Caste system in India"
     url: https://en.wikipedia.org/wiki/Caste_system_in_India
-    erisim_tarihi: 2026-08-21
+    erisim_tarihi: 2026-08-26
     dogrulama_dizesi: "Caste system in India"
+    not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane"
   - anahtar: k2
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Michel Foucault"
     url: https://plato.stanford.edu/entries/foucault/
-    erisim_tarihi: 2026-08-21
+    erisim_tarihi: 2026-08-26
     dogrulama_dizesi: "Foucault"
     not: "Siniflandirmanin tarihselligi uzerine yazar; bagimsiz alan adi"
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Delhi Sultanate"
-    url: https://en.wikipedia.org/wiki/Delhi_Sultanate
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Delhi Sultanate"
-    not: "Ayni cografyanin siyasi kaydi"
-son_denetim: 2026-08-21
+    tur: birincil
+    birincil_tur: belge
+    ad: "Census of India 1921, Vol. I, Part I - Report (Government of India, Calcutta)"
+    url: https://archive.org/details/india.history.resource.109688
+    erisim_tarihi: 2026-08-26
+    dogrulama_dizesi: "Census of India"
+    not: "Kategoriyi idari olarak kaydeden ve sabitleyen belge"
+son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-Kaynak, tanımlar ve kavramlar başlığı altında üç terimi ayrı ayrı işler: varna,
-jāti ve kast; ayrıca 1932 tarihli bir betimlemeye, tanıma dair modern bakışa,
-karmaşıklık ve esnekliğe ve çağdaş yaygınlık ile sayıma ayrı alt başlıklar
-tutar.[^k1]
+## Üç terim, tek bir kavram değil
 
-## Üç terim tek bir kavrama indirgenmemiştir
+Bu alanda üç ayrı terim kullanılır ve atlas bunları birbirinin
+çevirisi saymaz.[^k1] Birincisi, klasik metinlerdeki dört bölümlü
+şemadır.
 
-::tartismali[Kaynak, tek bir "kast" kavramı yerine varna, jāti ve kast terimlerini ayrı ayrı işliyor. Atlas bu üçünü birbirinin çevirisi saymaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+İkincisi, gündelik hayatta işleyen birimdir.[^k1] Bunlar yerel,
+meslekle bağlantılı ve içine kapalı evlilik düzenine sahip binlerce
+gruptur.
 
-Kavram tartışmalarının nasıl taşınacağı
-[Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
-haritasında ele alınıyor.
+Üçüncüsü, Avrupa dillerinden gelen ve ilk ikisini birden karşılamak
+üzere kullanılan terimdir.[^k2] Bu terim, iki ayrı yapıyı tek bir ad
+altında topladı.
 
-## Bir tarihli betimleme ayrı başlık taşır
+::tartismali[Şemanın mı yoksa yerel grupların mı asıl birim olduğu, metin merkezli okuma ile saha merkezli okuma arasındaki ayrımdan doğar.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
-Kaynağın 1932 tarihli bir betimlemeye kendi alt başlığını ayırması,[^k1] atlasın
-şu kuralının dayanağıdır: bu dosyada kast tanımları, hangi tarihte ve kimin
-tarafından yapıldığı belirtilmeden aktarılmaz.
+## Şema ile uygulamanın farkı
 
-## Esneklik de bir alt başlıktır
+Klasik şema düzenli ve sayılabilirdir.[^k1] Dört bölüm, açık bir
+sıralama ve her bölüme atanmış işlevler içerir.
 
-Karmaşıklık ve esnekliğe ayrı bir alt başlık ayrılması,[^k1] sistemin katı ve
-değişmez sayılmasının kaynağın kendi bölümlemesince desteklenmediğini gösterir.
+Gündelik hayattaki düzen bu şemaya oturmaz.[^k3] Grup sayısı çok daha
+fazladır, sıralama bölgeden bölgeye değişir ve bazı gruplar şemaya
+hiç yerleştirilemez.
 
-## Sınıflandırmanın tarihselliği
+Atlas bu farkı ayrıca kaydeder.[^k2] Bir metindeki düzenli şema, o
+metnin yazıldığı toplumda uygulandığının kanıtı değildir.
 
-Sınıflandırmanın tarihselliği üzerine yazan bir yazar için tutulan kayıt, onu
-1926-1984 arasında yaşamış bir Fransız tarihçi ve filozof olarak verir.[^k2] O
-yazar [Michel Foucault](/dusunur/foucault/) dosyasında, geriye dönük adlandırma
-sorunu ise [Anakronizm](/kavram/anakronizm/) dosyasında ele alınıyor.
+## Sayımın etkisi
 
-## Aynı coğrafyanın siyasi kaydı
+On dokuzuncu yüzyılın sonundan itibaren yönetim, nüfus sayımlarında
+grubu da kaydetmeye başladı.[^k3] Sayım, o güne kadar yerel olan
+adlandırmaları tek bir listede topladı.
 
-Aynı coğrafyanın siyasi kaydı, bir sultanlığın 25 Haziran 1206'da bağımsızlıkla
-başladığını ve 1526'da sona erdiğini yazar.[^k3] O düzen
-[Delhi Sultanlığı](/aktor/delhi-sultanligi/) dosyasında ele alınıyor.
+Bir sayımda grupları toplumsal önceliğe göre sıralama denemesi
+yapıldı.[^k3] Deneme, gruplardan gelen itirazlar ve yeniden
+sınıflandırma talepleriyle karşılandı.
 
-Atlas iki kayıt arasında bir bağ kurmaz; kullanılan kaynak bölümlerinde böyle bir
-bağ belirtilmemiştir.[^k1][^k3]
+Atlas bu tepkiyi ölçüm sayar.[^k1] **Bir sınıflandırma resmî hâle
+geldiğinde, sınıflandırılanlar kendi konumlarını iyileştirmek için
+sınıflandırmanın diline geçmek zorunda kalır.**
+
+## Kaydın kalıcılaştırdığı şey
+
+Sayım kategorileri idari işlemlere bağlandı.[^k3] Kimin hangi hakka,
+hangi göreve ve hangi tedbire tabi olacağı bu kayıtla belirlendi.
+
+Kayıt, akışkan olabilen bir yapıyı sabitledi.[^k1] Grup değiştirme ve
+yerel sıralamadaki oynaklık, resmî kayıt karşısında zorlaştı.
+
+Atlas bu etkiyi ölçmenin genel sorunu olarak kaydeder.[^k2] Bir
+eşitsizliği gidermek için onu ölçmek gerekir; ölçmek ise ölçülen
+ayrımı kayıtta kalıcılaştırır.
+
+## Ne kadarı sömürge ürünü
+
+Bu noktada gerçek bir anlaşmazlık vardır.[^k1] Bir görüş, bugün
+bilinen biçimin büyük ölçüde sömürge yönetiminin sınıflandırma
+çalışmasıyla kurulduğunu savunur.
+
+Karşı görüş, yapının çok daha eski olduğunu ve yönetimin yalnızca
+kaydettiğini ileri sürer.[^k3] İki görüş de aynı belgelere
+başvurur.
+
+Atlas taraf tutmaz ve ayrımı korur.[^k2] Bir yapının kaydedilmesi, o
+yapının kaydeden tarafından yaratıldığını da göstermez.
+
+## Ekonomik boyut
+
+Düzen yalnızca bir saygı sıralaması değildir.[^k1] Hangi işin kime
+açık olduğunu ve toprağın kimin elinde tutulacağını da belirler.
+
+Bu boyut, çözümü değiştirir.[^k3] Statü sorunu ise saygı, ekonomik
+sorun ise mülkiyet ve iş imkânı gerekir.
+
+Atlas bu ayrımı Ambedkar dosyasına bağlar.[^k2] Bir eşitsizliğin hangi
+alanda tanımlandığı, hangi araçla giderileceğini belirler.
+
+## Evlilik düzeninin işlevi
+
+Grupların sürekliliğini sağlayan asıl kural evliliktir.[^k1] Grup içi
+evlilik, sınırın nesiller boyunca korunmasını sağlar.
+
+Bu kural, diğer bütün kuralların taşıyıcısıdır.[^k3] İş bölümü ve
+temas kuralları gevşediğinde bile evlilik kuralı sürebilir.
+
+Atlas bu yüzden değişimi burada ölçer.[^k2] Bir düzenin gerçekten
+gevşeyip gevşemediği, en iyi grup dışı evlilik oranından
+izlenir.
+
+## Hukuki kaldırma
+
+Bağımsızlıktan sonra kabul edilen anayasa, dokunulmazlık uygulamasını
+kaldırdı ve ayrımcılığı yasakladı.[^k2] Aynı metin, dezavantajlı
+gruplar için ayrılmış kontenjanlar da tanımladı.
+
+Yasal kaldırma ile fiilî sona erme aynı şey değildir.[^k1] Evlilik
+düzeni, yerleşim ayrımı ve iş dağılımı yasadan bağımsız olarak
+sürebilir.
+
+Atlas bu ayrımı belge kuralına bağlar.[^k3] Bir metnin resmî konumu
+ile fiilî uygulanma alanı ayrı iki veridir.
+
+## Bölge farkı
+
+Düzen ülkenin her yerinde aynı biçimde işlemez.[^k1] Grup sayısı,
+sıralama ve katılık bölgeden bölgeye belirgin biçimde değişir.
+
+Bu, tek bir ülke ölçeğinde konuşmayı zorlaştırır.[^k3] Ortalama bir
+tablo, hiçbir bölgeyi doğru anlatmayabilir.
+
+Atlas bu yüzden bölge belirtmeden genelleme yapmaz.[^k2] Bir ortalama,
+altındaki dağılım verilmeden bilgi taşımaz.
 
 ## Bu dosyanın sınırı
 
-Kavramın kökenleri, tarihsel gelişimi ve çağdaş tartışmalar burada ayrı başlıklar
-altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^k1]
+Dosya, düzenin kökenini karara bağlamaz.[^k1] Kökene dair
+anlaşmazlık burada kaydedilmiştir, çözülmemiştir.
+
+Diğer bölgelerdeki benzer yapılarla karşılaştırma yapılmaz.[^k3] Bu,
+ayrı bir çalışma gerektirir.
+
+Klasik metinlerden doğrulanabilir bir birincil künye
+verilmemiştir.[^k2] Bu dosya, şema metinlerini değil şemanın
+kayıtlanma biçimini konu aldığı için künyedeki birincil belge bir
+sayım raporudur; kısıt burada beyan edilir.
+
+## Okuma yönlendirmesi
+
+Düzeni bütünüyle kaldırmayı savunan isim için
+[B. R. Ambedkar](/dusunur/ambedkar/), farklı bir tutum için
+[Gandhi](/dusunur/gandhi/) dosyaları okunmalıdır.[^k1]
+
+Hukuki çerçeve için
+[Hindistan Anayasası](/kaynak/hindistan-anayasasi/), belgelerin nasıl
+okunacağı için [Belge okuması](/kavram/belge-okumasi/) dosyaları
+uygundur.[^k2]
+
+Geriye dönük adlandırma sorunu için
+[Anakronizm](/kavram/anakronizm/), sayıların nasıl okunacağı için
+[Tarihsel sayılar nasıl okunur](/tartisma/tarihsel-sayilar-nasil-okunur/)
+dosyaları okunabilir.[^k3]
