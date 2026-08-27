@@ -3422,3 +3422,38 @@ tartışmasına bağlandı.
 
 Künye: üç dosya da tek Wikipedia kuralına uygun; TDV KADIN, MEHİR,
 AİLE, NİKÂH, MEDRESE maddeleri ve OWID okuryazarlık serisi kullanıldı.
+
+## 2026-08-26 — Kongo Serbest Devleti
+
+Afrika taraması: `olay-berlin-konferansi` ve `aktor-kongo-kralligi`
+vardı ama ikisinin arasındaki dönem yoktu.
+
+Ana ölçüm: bir düzene verilen ad, hukuki konumunu değil, o konumun
+hangi itirazları karşılamak üzere seçildiğini gösterir. Adında hem
+"serbest" hem "devlet" geçen bir düzen, bir kralın kişisel mülküydü;
+ad, rakip devletlerin itirazını baştan karşılıyordu.
+
+İkinci ölçüm — denetimin yan etkisi: mermi tüketimi denetlenip her
+mermi için ispat istendiğinde, kural amaçladığından başka bir davranışı
+ödüllendirdi. Bir denetim kuralının yarattığı teşvik, kuralın amacından
+bağımsız işler.
+
+Üçüncü ölçüm: yatırım gerektirmeyen bir çıkarma düzeninde (ormandan
+toplama, ekim değil) üretimi artırmanın tek yolu emeği artırmaktır ve
+bu doğrudan zorlamaya çevrilir. Bu, plantasyon düzeninden ayrı bir
+mekanizma.
+
+Kaynak türü olarak yeni bir ayrım kaydedildi: bir devletin başka bir
+devletin yönetimini soruşturması (Casement raporu, 1904), kendi
+kendini soruşturmasından (Bengal komisyonu, 1945) farklı bir kanıt
+üretir. İkisinin zayıflıkları da farklı: birincisinin kendi çıkarı
+olabilir, ikincisi kendi kararlarını sorgulamakta isteksizdir.
+Raporu hazırlayan devletin kendi sömürgelerinde benzer uygulamalar
+yürüttüğü ayrıca kaydedildi — Las Casas dosyasındaki ölçümün tekrarı.
+
+Yeni birincil belge: Roger Casement'ın 1904 tarihli konsolosluk raporu
+(Gutenberg üzerinden archive.org).
+
+Açık borç — Afrika'da hâlâ eksik: apartheid düzeni, Cezayir savaşı,
+Herero-Nama, Oyo ve Dahomey. Apartheid için Güney Afrika anayasası
+(Wikisource) doğrulandı, sonraki turda yazılacak.
