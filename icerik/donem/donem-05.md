@@ -667,6 +667,19 @@ Atlas bu bağı ayrıca kaydeder.[^k4] Bir bölge hakkında hangi soruların
 sorulabileceği, o bölgenin bıraktığı kanıt türüyle
 belirlenir.
 
+
+## Dönemin adlandırılması
+
+Dönem için kullanılan adlar birbirinden çok farklıdır.[^k1] Bir kısmı
+çöküşü, bir kısmı geçişi öne çıkarır.
+
+Atlas geçiş adlandırmasını seçmiştir.[^k5] Gerekçe, göstergelerin
+karşıt yönlerde hareket etmesidir.
+
+Bu bir yorumdur ve mutlaklaştırılmaz.[^k4] Çöküş adlandırmasını
+seçenlerin dayandığı göstergeler de aynı dosyada
+kayıtlıdır.[^k3]
+
 ## Fikir dünyası
 
 Dönemin fikir dünyası, dinî değişimin siyasi düzenle iç içe geçmesiyle tanımlanır.
