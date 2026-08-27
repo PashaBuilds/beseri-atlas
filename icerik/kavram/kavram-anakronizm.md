@@ -31,6 +31,7 @@ ilgili:
   - dusunur-wang-yangming
   - kaynak-magna-carta
   - kavram-kurulus-anlatisi
+  - kavram-takvim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -11,10 +11,10 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 491 |
-| Toplam künye | 1610 |
+| Ölçülen makale | 493 |
+| Toplam künye | 1616 |
 | Giriş kapısı kuralını aşan makale | 223 |
-| Birincil kaynağı olmayan makale | 250 |
+| Birincil kaynağı olmayan makale | 252 |
 | Giriş kapısı künyesi payı | 43% |
 
 ## Tipe göre borçlu makale
@@ -23,7 +23,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 |---|---|
 | olay | 78 |
 | aktor | 74 |
-| kavram | 60 |
+| kavram | 62 |
 | tartisma | 33 |
 | kaynak | 28 |
 | dusunur | 22 |
@@ -300,8 +300,10 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `kavram-longue-duree` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-mesruiyet` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-silahli-ticaret` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-takvim` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-tarihsel-iklimbilim` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-umran` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-veraset` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-vergi` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-yasam-beklentisi` | 3 | 1 | 0 | birincil kaynak yok |
 | `kaynak-keynes-genel-teori` | 3 | 1 | 0 | birincil kaynak yok |

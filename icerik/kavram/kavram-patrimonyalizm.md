@@ -14,6 +14,7 @@ ilgili:
   - kavram-burokrasi
   - kavram-mesruiyet
   - kaynak-ain-i-akbari
+  - kavram-veraset
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

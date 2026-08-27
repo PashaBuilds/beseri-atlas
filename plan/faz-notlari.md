@@ -3354,3 +3354,38 @@ ikincisi ele geçirilen düğüm noktasını karşı taraftan kaydeden madde.
 
 Açık borç: Portekizce birincil kayıttan doğrulanabilir metin
 künyelenemedi; dosyada beyan edildi.
+
+## 2026-08-26 — Kavram katmanında iki yapısal eksik
+
+Kavram listesi tarandı. Atlas her olayı tarihliyor ve her hanedan
+dosyasında yetki devrinden söz ediyordu, ama ikisinin de kuralını
+tanımlayan dosya yoktu.
+
+- `kavram-takvim` — atlas her olayı tek ölçekle tarihliyor; bu tarafsız
+  bir işlem değil. Ana kural: bir kaynaktaki tarih o kaynağın takvimine
+  aittir, çevrilmiş bir tarih özgününden daha kesin değildir. Somut üç
+  atlas kuralı yazıldı: çeviri olduğu belirtilir, kaynağın kesinliği
+  aşılmaz, geçiş dönemlerinde iki tarih birlikte verilir. Ayrıca:
+  iki kaynağın aynı tarihi vermesi doğrulama değildir, ikisi de aynı
+  çeviriyi kullanmış olabilir.
+- `kavram-veraset` — ölüm anında yetkinin nasıl devredildiği. Ana
+  ölçüm: bir ölümün geçiş mi kriz mi olacağını belirleyen şey kuralın
+  adaleti değil, tarafların kurala uymaktan kârlı çıkıp çıkmadığıdır.
+  Dört biçim (birinci doğan / yatay / seçim / açık yarış) ve aralarındaki
+  değiş tokuş: açık kural savaşı azaltır ama yetersiz kişiyi başa
+  getirebilir; açık yarış yetkin olanı seçer ama her geçişte iç savaş
+  maliyeti doğurur.
+
+İkisi de atlasın tekrar eden "seçenek sayısı" ölçütüne bağlandı: aday
+sayısı, hem özerkliğin hem veraset istikrarının ortak değişkeni.
+
+Kayıt dengesizliği veraset dosyasında da çıktı: çekişmeli geçişler çok
+belge üretir, sorunsuz geçişler az iz bırakır. Kaynakların çekişmeli
+geçişlerle dolu olması, geçişlerin çoğunun çekişmeli olduğunu
+göstermez.
+
+Künye: her iki dosya da TDV maddelerine (SALTANAT, MİRAS, TAKVİM,
+HİCRÎ TAKVİM) dayanıyor, dosya başına tek Wikipedia kuralına uygun.
+
+Kavram katmanında görülen diğer eksikler (sonraki turlar için):
+toplumsal cinsiyet düzeni, okuryazarlık, akrabalık.

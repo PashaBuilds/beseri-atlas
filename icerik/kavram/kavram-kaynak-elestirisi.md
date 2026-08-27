@@ -43,6 +43,7 @@ ilgili:
   - dusunur-ulug-bey
   - kavram-pamuk-tek-urun
   - olay-bengal-kitligi-1943
+  - kavram-takvim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

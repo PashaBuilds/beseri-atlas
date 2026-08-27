@@ -24,6 +24,7 @@ ilgili:
   - aktor-cahokia
   - kaynak-hammurabi-kanunlari
   - aktor-kirgizlar
+  - kavram-takvim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

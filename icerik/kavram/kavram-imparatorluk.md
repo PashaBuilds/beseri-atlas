@@ -15,6 +15,7 @@ ilgili:
   - kavram-hegemonya
   - kavram-burokrasi
   - tartisma-osmanli-gerileme-tezi
+  - kavram-veraset
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

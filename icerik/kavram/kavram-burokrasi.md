@@ -26,6 +26,7 @@ ilgili:
   - dusunur-zhu-xi
   - aktor-sokoto-hilafeti
   - kavram-kipu
+  - kavram-veraset
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

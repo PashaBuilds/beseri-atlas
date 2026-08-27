@@ -29,6 +29,7 @@ ilgili:
   - olay-bengal-kitligi-1943
   - dusunur-ambedkar
   - kavram-kast
+  - kavram-takvim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -64,6 +64,7 @@ ilgili:
   - dusunur-ambedkar
   - dusunur-gandhi
   - kavram-kast
+  - kavram-veraset
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

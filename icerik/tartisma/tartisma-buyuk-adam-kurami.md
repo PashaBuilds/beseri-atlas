@@ -30,6 +30,7 @@ ilgili:
   - tartisma-karsi-olgusal-tarih
   - kaynak-kautilya-arthasastra
   - kaynak-baburname
+  - kavram-veraset
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

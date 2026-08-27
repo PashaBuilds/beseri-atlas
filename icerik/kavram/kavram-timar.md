@@ -15,6 +15,7 @@ ilgili:
   - kavram-feodalite
   - kavram-vergi
   - tartisma-feodalite-kavrami
+  - kavram-veraset
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

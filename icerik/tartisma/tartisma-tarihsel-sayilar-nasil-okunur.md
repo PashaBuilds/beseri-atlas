@@ -68,6 +68,7 @@ ilgili:
   - kavram-kast
   - tartisma-somurgeciligin-ekonomik-bilancosu
   - dusunur-las-casas
+  - kavram-takvim
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

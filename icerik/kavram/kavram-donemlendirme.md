@@ -20,6 +20,7 @@ ilgili:
   - kaynak-hobsbawm-caglar
   - dusunur-biruni
   - aktor-avustralya-yerli-halklari
+  - kavram-takvim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

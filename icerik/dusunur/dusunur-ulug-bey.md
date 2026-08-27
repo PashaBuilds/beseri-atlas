@@ -23,6 +23,7 @@ ilgili:
   - kavram-birincil-kaynak
   - kavram-tarih-yazimi
   - olay-ipek-yolu-kurulusu
+  - kavram-takvim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -30,6 +30,7 @@ ilgili:
   - aktor-kirgizlar
   - olay-talas-savasi
   - olay-rus-turkistan-fethi
+  - kavram-veraset
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

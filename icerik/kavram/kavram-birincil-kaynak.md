@@ -47,6 +47,7 @@ ilgili:
   - kaynak-kojiki
   - kaynak-cook-guney-seyir-defteri
   - dusunur-ulug-bey
+  - kavram-takvim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

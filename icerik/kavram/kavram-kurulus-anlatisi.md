@@ -20,6 +20,8 @@ ilgili:
   - kaynak-popol-vuh
   - tartisma-sozlu-gelenek-kaynak-mi
   - kavram-anakronizm
+  - kavram-takvim
+  - kavram-veraset
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

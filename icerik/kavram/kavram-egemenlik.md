@@ -36,6 +36,7 @@ ilgili:
   - olay-adva-1896
   - aktor-zulu-kralligi
   - olay-pasifik-nukleer-denemeleri
+  - kavram-veraset
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
