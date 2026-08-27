@@ -3767,3 +3767,38 @@ ağırlık merkezi henüz kaymamıştı.
 kişi başına gelir serisi.
 
 Kalan dönem dosyaları: 01–08, 11, 12, 13, 16.
+
+## 2026-08-26 — donem-16 onarıldı (530 → 2400+)
+
+Beşinci dönem dosyası. 2008–bugün; açık uçlu.
+
+Açık uçlu dosyanın özel sorunu baştan yazıldı: bir dönemin eksenini
+belirlemek, o dönem bitmeden yapılan bir tahmindir. Bu dosyanın eksen
+cümlesi, atlasta değiştirilmesi en olası cümledir. Ayrıca: yakın
+dönemde sorun kaynak azlığı değil kaynak bolluğu; hangi olayın önemli
+olduğu ancak sonuçları görüldükten sonra belirlenebiliyor.
+
+Öne çıkan kayıtlar:
+- Demografik dönüm: düşüş yeni değil, onlarca yıldır sürüyor. Dönemi
+  tanımlayan şey yön değil belirli bir çizginin (yenilenme düzeyi)
+  geçilmesi.
+- Karşılıklı bağımlılığın silaha dönüşmesi: yaptırım ve ödeme
+  sisteminden çıkarma, bağımlılık ne kadar yüksekse o kadar etkili.
+  Bağımlılığın barışı sağladığı varsayımı bunu hesaba katmıyor.
+- Verimlilik–dayanıklılık değiş tokuşu: en verimli tedarik zinciri en
+  kırılgan olanıdır; stok tutmamak bir tasarruf olduğu kadar bir
+  sigortadan vazgeçmedir.
+- Emisyon sorumluluğu dört ayrı ölçütle verilebiliyor (yıllık, kişi
+  başına, birikimli, üretim/tüketim) ve dördü dört farklı tarafı
+  sorumlu gösteriyor. Üretim/tüketim ayrımının önceki dönemin üretim
+  kaymasının doğrudan sonucu olduğu ayrıca kaydedildi.
+- Kaydın yeni kırılganlığı: basılı bir belge yüzyıllarca kalabiliyor,
+  çevrimiçi bir kayıt sunucu kapandığında yok oluyor. Erişilebilir
+  olmak ile kalıcı olmak ayrı iki özellik ve ikincisi azalıyor.
+- Veri sahipliği: dönemin en kapsamlı kaydı kamu kurumlarında değil
+  özel şirketlerde birikiyor ve erişim şirketin kararına bağlı.
+- Dosyanın kendi kısıtı beyan edildi: aynı biçimde yazılmış iki dosya
+  aynı güçte olmayabilir; önceki dönemler birincil belgeye, bu dönem
+  sayısal seriye dayanıyor.
+
+Kalan dönem dosyaları: 01–08, 11, 12, 13.
