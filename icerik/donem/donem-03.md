@@ -457,8 +457,8 @@ aynı dönemi dört ayrı düzeyde kaydeder.[^k3]
 ## Bu dosyanın sınırı
 
 Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
-dosyasında ayrıntılı ele alınır ve burada yalnızca döneme
-bağlanır.
+dosyasında ayrıntılı ele alınır; burada yalnızca döneme bağlanır ve
+dönemin eksenine katkısıyla anılır.
 
 Çöküşün nedeni burada karara bağlanmaz.[^k3] Atlasın ayrı bir
 tartışma dosyası bu soruyu ele alır.
