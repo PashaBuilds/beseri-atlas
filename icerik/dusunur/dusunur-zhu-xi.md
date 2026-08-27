@@ -34,11 +34,11 @@ kaynaklar:
   - anahtar: k2
     tur: birincil
     birincil_tur: eser
-    ad: "Zhuzi Yulei — tam metin (Chinese Text Project)"
-    url: https://ctext.org/zhuzi-yulei
+    ad: "Zhu Xi - The Philosophy of Human Nature (Bruce cevirisi, 1922)"
+    url: https://archive.org/details/philosophyofhuma00chuh
     erisim_tarihi: 2026-08-25
-    dogrulama_dizesi: "Chinese Text Project"
-    not: "Dusunurun ogrencileriyle konusmalarinin derlemesi; Cince ozgun metin"
+    dogrulama_dizesi: "philosophy of human nature"
+    not: "Dusunurun eserlerinden secilmis bolumlerin cevirisi; tam kulliyat degil"
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Japanese Confucian Philosophy"

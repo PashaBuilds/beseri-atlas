@@ -39,10 +39,10 @@ kaynaklar:
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
-    ad: "Shang Shu (tam metin)"
-    url: https://ctext.org/shang-shu
+    ad: "Shu King - Sacred Books of the East vol 3 (Legge, 1899)"
+    url: https://archive.org/details/sacredbooksofeas0003jame
     erisim_tarihi: 2026-08-25
-    dogrulama_dizesi: "Shang Shu"
+    dogrulama_dizesi: "Sacred Books"
     not: "Kavramin formule edildigi eserin kamu mali tam metni"
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi

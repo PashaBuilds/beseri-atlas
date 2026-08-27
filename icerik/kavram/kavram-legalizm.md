@@ -32,18 +32,18 @@ kaynaklar:
   - anahtar: k2
     tur: birincil
     birincil_tur: eser
-    ad: "Hanfeizi — tam metin (Chinese Text Project)"
-    url: https://ctext.org/hanfeizi
+    ad: "Han Fei - E. R. Hughes, Chinese Philosophy in Classical Times (1942) icindeki cevrilmis bolumler"
+    url: https://archive.org/details/dli.ministry.25502
     erisim_tarihi: 2026-08-25
-    dogrulama_dizesi: "Hanfeizi"
+    dogrulama_dizesi: "Chinese philosophy"
     not: "Cizginin en gelismis metni; Cince ozgun ve Ingilizce ceviri"
   - anahtar: k3
     tur: birincil
     birincil_tur: eser
-    ad: "Shang Jun Shu — tam metin (Chinese Text Project)"
-    url: https://ctext.org/shang-jun-shu
+    ad: "Shang Jun Shu - The Book of Lord Shang (Duyvendak cevirisi, 1928)"
+    url: https://archive.org/details/in.ernet.dli.2015.283023
     erisim_tarihi: 2026-08-25
-    dogrulama_dizesi: "Shang Jun Shu"
+    dogrulama_dizesi: "Lord Shang"
     not: "Ayni cizginin daha erken metni"
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi

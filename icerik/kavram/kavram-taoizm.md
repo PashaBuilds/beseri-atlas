@@ -29,18 +29,18 @@ kaynaklar:
   - anahtar: k2
     tur: birincil
     birincil_tur: eser
-    ad: "Dao De Jing — tam metin (Chinese Text Project)"
-    url: https://ctext.org/dao-de-jing
+    ad: "Laozi - The Tao Teh King (Legge cevirisi, Project Gutenberg)"
+    url: https://www.gutenberg.org/ebooks/216
     erisim_tarihi: 2026-08-25
-    dogrulama_dizesi: "Dao De Jing"
+    dogrulama_dizesi: "Tao"
     not: "Cince ozgun metin ve Ingilizce ceviri"
   - anahtar: k3
     tur: birincil
     birincil_tur: eser
-    ad: "Zhuangzi — tam metin (Chinese Text Project)"
-    url: https://ctext.org/zhuangzi
+    ad: "Zhuangzi - The Texts of Taoism (Legge, Sacred Books of the East 40, 1891)"
+    url: https://archive.org/details/wg940
     erisim_tarihi: 2026-08-25
-    dogrulama_dizesi: "Zhuangzi"
+    dogrulama_dizesi: "Taoism"
     not: "Ayni cizginin ikinci temel metni"
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi

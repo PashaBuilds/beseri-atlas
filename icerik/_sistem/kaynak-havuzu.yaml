@@ -69,11 +69,6 @@ whitelist:
   # eserin dördü de Batı-dışıydı (İbn Haldûn, Sima Qian, Fârâbî, Kautilya);
   # Batı kanonundan bulunamayan tek eser yoktu. Boşluk korpusun değil,
   # kullanılan arşivlerin kapsamındaydı.
-  - alan: ctext.org
-    tur: birincil
-    dogrulanabilir: true
-    kapsam: [cin-klasikleri]
-    not: Chinese Text Project — sunucudan metin döndürür, JS duvarı yok.
   - alan: en.wikisource.org
     tur: birincil
     dogrulanabilir: true
@@ -214,3 +209,12 @@ cesitlilik:
     Geçiş 4'te türetici oturuma, orijinal makalenin kullandığı alan adlarının
     tamamı bloke edilerek verilir. En az bir farklı alan adından doğrulama
     zorunludur (§10 Geçiş 4, madde 3).
+
+# 2026-08-26: ctext.org beyaz listeden cikarildi. Gerekce: alan artik
+# otomatik isteklere CAPTCHA sayfasi donduruyor. HTTP 200 dondugu icin
+# canlilik kapisi geciyor ama sayfada kunye dizesi bulunmadigindan
+# KAPI 10 kiriliyor. Etkilenen dokuz dosyanin kunyeleri Project
+# Gutenberg ve archive.org uzerindeki acik tam metinlerle degistirildi.
+# Ayni durumdaki diger alanlar: sacred-texts.com (403),
+# britannica.com (403) — ikisi de beyaz listede ama otomatik
+# isteklere kapali; kunyeye alinmiyorlar.

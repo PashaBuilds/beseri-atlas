@@ -4149,3 +4149,27 @@ yüzden künyeye alınamadı; yerine SEP Confucius maddesi kondu. Havuz
 notu: ctext.org canlılık kapısını geçemiyor.
 
 Kalan dönem dosyaları: 01–03.
+
+## 2026-08-26 — ctext.org onarımı: atlasın Doğu Asya kaynak tabanı
+
+Bir tur, dokuz dosyanın künye onarımına ayrıldı.
+
+Sorun: `ctext.org` artık otomatik isteklere CAPTCHA döndürüyor. HTTP
+200 döndüğü için canlılık kapısı geçiyor, ama sayfada künye dizesi
+bulunmadığından KAPI 10 kırılıyor. Atlasın bütün Çin klasik birincil
+metinleri bu alandaydı.
+
+Yedi metin için açık erişimli tam metin bulundu ve künyeler
+değiştirildi (Project Gutenberg ve archive.org). İki metin için
+(Hanfeizi, Zhuzi Yulei) açık tam metin bulunamadı; yerlerine çevrilmiş
+bölüm derlemeleri kondu ve künyede "tam eser değil" kaydı düşüldü.
+
+ctext.org havuzdan çıkarıldı, gerekçesi havuz dosyasına yazıldı. Aynı
+notta beyaz listede olup otomatik isteklere kapalı iki alan daha
+kaydedildi: sacred-texts.com ve britannica.com (ikisi de 403).
+
+Bu, atlasın kaynak katmanının en geniş tek seferlik onarımıdır.
+Ölçüm olarak da kaydedilmelidir: bir kaynak havuzunun sağlamlığı,
+alan sayısına değil o alanların tek tek erişilebilirliğine bağlıdır
+ve tek bir alanın kapanması bütün bir bölgenin kaynak tabanını
+düşürebilir.

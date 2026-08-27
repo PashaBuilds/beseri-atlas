@@ -32,18 +32,18 @@ kaynaklar:
   - anahtar: k2
     tur: birincil
     birincil_tur: eser
-    ad: "The Analects — tam metin (Chinese Text Project)"
-    url: https://ctext.org/analects
+    ad: "Konfucyus - The Analects (Legge cevirisi, Project Gutenberg)"
+    url: https://www.gutenberg.org/ebooks/3330
     erisim_tarihi: 2026-08-25
-    dogrulama_dizesi: "The Analects"
+    dogrulama_dizesi: "Analects"
     not: "Cizginin temel metni; Cince ozgun ve Ingilizce ceviri"
   - anahtar: k3
     tur: birincil
     birincil_tur: eser
-    ad: "Mengzi — tam metin (Chinese Text Project)"
-    url: https://ctext.org/mengzi
+    ad: "Mengzi - James Legge, The Chinese Classics (1876)"
+    url: https://archive.org/details/chineseclassics02chingoog
     erisim_tarihi: 2026-08-25
-    dogrulama_dizesi: "Mengzi"
+    dogrulama_dizesi: "Chinese Classics"
     not: "Ayni cizginin sonraki temel metni; ic farklilik icin"
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi

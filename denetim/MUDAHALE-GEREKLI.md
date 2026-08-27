@@ -677,7 +677,7 @@ AÇIK KALAN: Gılgamış Destanı'nın künyesindeki çeviri erken bir
 içermez. Kamu malı ve doğrulanabilir güncel bir çeviri bulunursa
 künye yenilenmeli.
 
-## 2026-08-26 — ctext.org artık doğrulanamıyor (ACİL)
+## 2026-08-26 — ctext.org artık doğrulanamıyor (ÇÖZÜLDÜ)
 
 `ctext.org` havuzda beyaz listede ama otomatik isteklere CAPTCHA
 sayfası döndürüyor. HTTP 200 dönüyor, dolayısıyla canlılık kapısı
@@ -703,3 +703,21 @@ ayrı doğrulanabilir tam metinler.
 
 Reddedilen: sacred-texts.com (403), Britannica (403) — ikisi de
 havuzda beyaz listede ama otomatik isteklere kapalı.
+
+**Çözüm (aynı gün):** dokuz dosyanın künyeleri değiştirildi ve
+ctext.org beyaz listeden çıkarıldı.
+
+| Metin | Yeni kaynak |
+|---|---|
+| Lunyu | Project Gutenberg 3330 (Legge çevirisi) |
+| Mengzi | Legge, Chinese Classics (1876, archive.org) |
+| Daodejing | Project Gutenberg 216 (Legge çevirisi) |
+| Zhuangzi | Legge, Texts of Taoism, SBE 40 (1891) |
+| Shang Jun Shu | Duyvendak çevirisi (1928) |
+| Shu King | Legge, SBE 3 (1899) |
+| Shiji | Chavannes, Les Mémoires historiques (1900) |
+| Hanfeizi | Hughes antolojisi (1942) — tam eser değil, beyan edildi |
+| Zhuzi Yulei | Bruce çevirisi (1922) — tam külliyat değil, beyan edildi |
+
+Son ikisi için açık erişimli tam metin bulunamadı; künyelerde kısıt
+açıkça yazıldı.

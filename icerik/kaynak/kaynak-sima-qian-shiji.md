@@ -52,10 +52,10 @@ kaynaklar:
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
-    ad: "Shiji (tam metin)"
-    url: https://ctext.org/shiji
+    ad: "Sima Qian - Les Memoires historiques (Chavannes cevirisi, 1900)"
+    url: https://archive.org/details/SimaQianChavannesMemoiresHistoriquesV6
     erisim_tarihi: 2026-08-23
-    dogrulama_dizesi: "Shiji"
+    dogrulama_dizesi: "memoires"
     not: "Eserin kamu mali tam metni; Chinese Text Project; Cince ozgun metin"
 son_denetim: 2026-08-23
 denetim_durumu: onaylandi
