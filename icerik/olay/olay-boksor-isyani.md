@@ -352,6 +352,21 @@ Atlas iki işlemi birlikte kaydeder.[^k3] Bir anıtın dikilmesi ve
 kaldırılması, aynı olayın iki farklı dönemde nasıl
 adlandırıldığının kaydıdır.
 
+
+## Rusya'nın ayrı hareketi
+
+İttifak üyelerinden biri, ortak harekâtın yanı sıra kendi başına
+kuzeydeki bir bölgeyi işgal etti.[^k1] İşgal, protokolde yer
+almıyordu.
+
+Bu, ittifakın geçiciliğini doğrudan gösterir.[^k3] Ortak düşman
+karşısında birleşen taraflar, aynı anda kendi ayrı hedeflerini de
+izliyordu.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k2] Ortak bir harekâtın içinde
+yürütülen ayrı bir işgal, ittifakın hangi çıkarlar üzerine kurulduğunu
+açığa çıkarır.
+
 ## Okuma yönlendirmesi
 
 Dönemin antlaşma düzeni için
