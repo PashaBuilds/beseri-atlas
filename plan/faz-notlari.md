@@ -3839,3 +3839,40 @@ Diğer kayıtlar:
   geri getirilmesi ayrı bir karardır.
 
 Kalan dönem dosyaları: 01–07, 11, 12, 13.
+
+## 2026-08-26 — donem-12 onarıldı (536 → 2500+)
+
+Yedinci dönem dosyası. 1848–1914.
+
+Dosyanın ekseni: sanayi kapasitesinin siyasi hâkimiyete çevrilmesi ve
+bu çevirmenin kendiliğinden olmadığı. Üç aracı gerekti — buharlı gemi,
+telgraf, seri üretilen ateşli silah — ve dördüncü olarak sıtma ilacı
+ayrıca kaydedildi: bir genişlemenin sınırı çoğu zaman askerî değil
+biyolojiktir.
+
+Dosyanın en önemli kaydı eş zamanlılık: aynı devletler kendi içinde
+temsili genişletirken dışarıda temsilsiz yönetim kurdu. İki uygulama
+çelişki olarak görülmedi çünkü kapsam sorusu — bir önceki dönemde
+olduğu gibi — varsayımla çözüldü. Ölçüm: bir ilkenin kimlere
+uygulanacağı belirtilmediğinde, kapsamı fiilen uygulayanın tercihine
+kalır.
+
+Diğer kayıtlar:
+- Berlin Konferansı paylaşımı yapmadı, kuralını koydu — ve fiilî
+  işgali tanınmanın koşulu sayan kural yarışı hızlandırdı. Bir yarışı
+  düzenlemek üzere konan kural, yarışın hızını artırabilir.
+- Borç yoluyla denetim: bir egemenliğin sınırlanması için toprak kaybı
+  gerekmez, gelirin denetimi yeterlidir. Osmanlı örneğinde egemenliği
+  sınırlayan kurumun aynı zamanda dönemin en düzenli kaydını üretmiş
+  olması ayrıca kaydedildi.
+- Sömürge savaşlarının savaş hukuku dışında kalması, Cezayir
+  dosyasındaki adlandırma ölçümünün erken biçimi olarak bağlandı.
+- Hawaii 1887 anayasası: bir düzenin denetimi kurumları kaldırmadan da
+  ele geçirilebilir — oy hakkının koşulunu değiştirmek yeterli.
+- Fotoğrafın kayda girmesi: görüntü kaydı doğrudan göründüğü için
+  tarafsız sanılır, oysa her fotoğraf bir seçim sonucudur.
+- Dönemin kıtlıkları Bengal dosyasındaki mekanizmaya bağlandı ve
+  mekanizmanın farklı kıtalarda tekrarlanmasının onu yapısal kıldığı
+  yazıldı.
+
+Kalan dönem dosyaları: 01–07, 11, 13.
