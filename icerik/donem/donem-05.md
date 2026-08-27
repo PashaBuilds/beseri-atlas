@@ -680,6 +680,16 @@ Bu bir yorumdur ve mutlaklaştırılmaz.[^k4] Çöküş adlandırmasını
 seçenlerin dayandığı göstergeler de aynı dosyada
 kayıtlıdır.[^k3]
 
+
+## Dönemin bıraktığı soru
+
+Dosya bir soruyla kapanır.[^k1] Akdeniz düzeninin çözülmesi, sonraki
+dönemin üç merkezli yapısının nedeni miydi yoksa yalnızca
+zeminini mi kurdu.
+
+İki cevap savunulabilir.[^k5] Çözülme bir boşluk bıraktı; boşluğun
+nasıl doldurulduğu ayrı kararlarla belirlendi.[^k4]
+
 ## Fikir dünyası
 
 Dönemin fikir dünyası, dinî değişimin siyasi düzenle iç içe geçmesiyle tanımlanır.
