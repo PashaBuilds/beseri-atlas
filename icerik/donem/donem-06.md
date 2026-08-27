@@ -678,6 +678,19 @@ Atlas dönemin kendi dağılımını kaydeder.[^k1] Bir dönemi sonraki
 dönemin merkezinden okumak, o dönemin ağırlık dağılımını yanlış
 gösterir.[^k3]
 
+
+## Kayıt dilinin seçimi
+
+Üç merkezde de idari kayıt tek bir dilde tutuldu.[^k1] Seçilen dil,
+konuşulan dillerin çoğundan farklıydı.
+
+Bu, kayda erişimi dar bir gruba bağladı.[^k5] Aynı zamanda geniş bir
+alanda tek bir idari dil sağladı.
+
+Atlas bu ikiliği ayrıca kaydeder.[^k2] Ortak bir kayıt dili, yönetimi
+kolaylaştırırken yönetilenlerin çoğunu kendi kaydının dışında
+bırakır.[^k3]
+
 ## Fikir dünyası
 
 Dönemin fikir dünyasının en çarpıcı özelliği, tek bir siyasi çatı altında birden

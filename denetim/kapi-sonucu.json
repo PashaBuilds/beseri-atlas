@@ -1,6 +1,6 @@
 {
   "mod": "--lint",
-  "zaman": "2026-08-27T21:08:32.056Z",
+  "zaman": "2026-08-27T21:08:48.946Z",
   "gecti": true,
   "makale_sayisi": 505,
   "kapilar": [
@@ -56,12 +56,12 @@
         "olculen": 421,
         "hedefTutan": 135,
         "borclu": 286,
-        "eksikKelime": 230691,
+        "eksikKelime": 230639,
         "tipOzet": {
           "donem": {
             "n": 16,
             "tutan": 10,
-            "eksik": 9317
+            "eksik": 9265
           },
           "olay": {
             "n": 99,
