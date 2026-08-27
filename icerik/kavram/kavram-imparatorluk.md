@@ -81,6 +81,113 @@ yaşamış ve yirminci yüzyılın en etkili siyaset filozoflarından biri sayı
 düşünür olarak verir.[^k2] O düşünür
 [Hannah Arendt](/dusunur/arendt/) dosyasında ele alınıyor.
 
+
+## Ölçütler
+
+Atlas bir düzeni üç ölçütle imparatorluk sayar.[^k1] Birincisi kapsam:
+birden çok halkı ve birden çok hukuk geleneğini bir arada
+yönetmek.
+
+İkincisi hiyerarşi: merkez ile çevre arasında hukuki ya da mali bir
+eşitsizlik bulunması.[^k2] Üçüncüsü kalıcılık: bu düzenin bir kuşaktan
+uzun sürmesi.
+
+Üçü birlikte bakılır.[^k3] Yalnızca büyük olmak bu kavramı
+gerektirmez.
+
+## Ulus-devletle farkı
+
+Ulus-devlet tek bir halkı ve tek bir hukuku
+varsayar.[^k1] İmparatorluk tersini varsayar.
+
+Bu, iki biçimin meşruiyet kaynağını da
+ayırır.[^k2] Biri ortaklığa, diğeri hiyerarşiye
+dayanır.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k3] İmparatorluğun eşitsizliği bir
+kusur değil tanımının parçasıdır; ulus-devletin eşitlik iddiası da
+uygulamayı garanti etmez.
+
+## Doğrudan ve dolaylı yönetim
+
+İmparatorluklar iki yönetim biçimini bir arada
+kullanır.[^k1] Merkeze yakın bölgeler doğrudan, uzak bölgeler yerel
+yöneticiler aracılığıyla yönetilir.
+
+Seçim maliyet hesabına dayanır.[^k2] Doğrudan yönetim pahalıdır;
+dolaylı yönetim maliyeti yerel yöneticiye
+devreder.
+
+Atlas bu hesabı ayrıca kaydeder.[^k3] Aynı imparatorluk aynı dönemde
+farklı biçimler kullanır ve fark ideolojiden değil maliyetten
+gelir.
+
+## Mesafe sorunu
+
+Her imparatorluğun temel sorunu mesafedir.[^k1] Merkezden uzak
+bölgeleri, haberin günlerce sürdüğü koşullarda
+yönetmek.
+
+Fiilî büyüklük, sınırlardan çok merkezle çevre arasındaki haber
+süresiyle ölçülebilir.[^k2] Bu ölçüt atlasın birçok dosyasında
+kullanılır.
+
+Atlas bu ölçütü ayrıca kaydeder.[^k3] İletişim hızındaki bir artış,
+doğrudan bir merkezîleşme
+aracıdır.
+
+## Çeşitliliğin yönetimi
+
+Birden çok halkı yönetmek bir çözüm gerektirir.[^k1] Üç yol
+görülür: tek hukuk dayatmak, yerel hukuku tanımak, ya da kişinin
+topluluğuna göre hukuk belirlemek.
+
+Üçü farklı sonuç verir.[^k2] Atlas her imparatorluk dosyasında hangi
+yolun seçildiğini kaydeder.
+
+Atlas bu tercihi ölçüm sayar.[^k3] Bir imparatorluğun çeşitliliği
+yönetme biçimi, onun kalıcılığının en iyi
+göstergelerindendir.
+
+## Çözülme örüntüsü
+
+İmparatorluklar benzer biçimlerde çözülür.[^k1] Vergi tabanının
+daralması, çevre yetkililerinin fiilen bağımsızlaşması ve askerî
+tabanın kendi çıkarını izlemesi.
+
+Üçü çoğu zaman birlikte görülür.[^k2] Sıra bölgeden bölgeye
+değişir.
+
+Atlas bu örüntüyü ayrıca kaydeder.[^k3] Aynı çözülme biçiminin farklı
+kıtalarda görülmesi, onu yapısal kılar.
+
+## Sonrası
+
+Bir imparatorluğun sona ermesi, kurumlarının sona ermesi anlamına
+gelmez.[^k1] Hukuk düzeni, idari bölünme ve dil çoğu zaman
+kalır.
+
+Ardıl devletler bu mirası devralır.[^k2] Devraldıkları sorunlar da
+mirasın parçasıdır.
+
+Atlas bu sürekliliği ayrıca kaydeder.[^k3] Bir düzenin siyasi olarak
+sona ermesi, kurumsal biçimlerinin de sona erdiği anlamına
+gelmez.
+
+## Terimin kullanımı
+
+Terim yirminci yüzyılda büyük ölçüde olumsuz bir anlam
+kazandı.[^k1] Kendini böyle adlandıran düzenler
+azaldı.
+
+Bu, kavramın çözümleyici değerini ortadan
+kaldırmaz.[^k2] Atlas terimi ölçütlerle uygular, kendi
+adlandırmalarına bakmaz.
+
+Atlas bu tutumu ayrıca kaydeder.[^k3] Bir düzenin kendini nasıl
+adlandırdığı, ölçütleri karşılayıp karşılamadığından ayrı bir
+veridir.
+
 ## Bu dosyanın sınırı
 
 Tanımın içeriği, özellikler ve dönem dönem tarihler burada ayrı başlıklar altında
