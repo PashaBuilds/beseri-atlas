@@ -3802,3 +3802,40 @@ olduğu ancak sonuçları görüldükten sonra belirlenebiliyor.
   sayısal seriye dayanıyor.
 
 Kalan dönem dosyaları: 01–08, 11, 12, 13.
+
+## 2026-08-26 — donem-08 onarıldı (519 → 2500+)
+
+Altıncı dönem dosyası. 1350–1500.
+
+Dosyanın ekseni: aynı ağ hem malı hem hastalığı taşıdı, ikisi ayrı
+sistem değil. Bağlantının artması, taşınan her şeyin hızını artırır ve
+seçim yapmaz.
+
+En önemli bulgu, dönemin kendi içindeki ayrışma: aynı demografik şok
+farklı bölgelerde karşıt kurumsal sonuçlar verdi. Bir yerde kişisel
+bağlılığa dayanan yükümlülükler gevşedi, başka yerde tersine
+sıkılaştırıldı. Belirleyici olan toprak sahiplerinin örgütlü olup
+olmaması. Ölçüm: bir şokun sonucu, şokun büyüklüğünden çok üzerine
+düştüğü kurumsal yapıdan belirlenir.
+
+Diğer kayıtlar:
+- Ücret tavanı yasaları: bir yasanın çıkarılması, engellemeye
+  çalıştığı eğilimin gücünün doğrudan kaydıdır.
+- Kişi başına gelirdeki yükselme, üretim artışından değil paydanın
+  küçülmesinden geliyor. Aynı gösterge iki bambaşka durumda
+  yükselebilir ve bu bir iyileşme değil.
+- Karantina: doğru bir tedbir yanlış bir kuramla birlikte var olabilir;
+  ikisi ayrı ayrı değerlendirilmeli.
+- Ming seferlerinin durdurulması: bir kapasitenin kullanılmaması,
+  kapasitenin bulunmadığı anlamına gelmez. Atlas iki açıklama arasında
+  taraf tutmuyor.
+- Rönesans anlatısındaki boşluk: metinlerin bir bölümü doğudan çeviri
+  ve şerh geleneğiyle geldi, ama hareketin kendi anlatısı aktarım
+  zincirini kısaltıyor.
+- Çift girişli defter tutma atlasın kendi yöntemine bağlandı: iyi bir
+  kayıt düzeni yalnızca bilgi saklamaz, kendi hatasını da gösterir.
+- Kadınların ücretli işe katılımı kıtlık döneminde arttı, nüfus
+  toparlanınca kısıtlar yeniden sıkılaştırıldı. Gevşeyen bir kısıtın
+  geri getirilmesi ayrı bir karardır.
+
+Kalan dönem dosyaları: 01–07, 11, 12, 13.
