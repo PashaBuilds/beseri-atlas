@@ -3727,3 +3727,43 @@ düşünce hareketinin maddi tabanını ve yayılma kanallarını sağladı.
   geliyor.
 
 Kalan dönem dosyaları: 01–09, 11, 12, 13, 16.
+
+## 2026-08-26 — donem-09 onarıldı (506 → 2500+)
+
+Dördüncü dönem dosyası. 1500–1650.
+
+Bu dosyada eksen seçiminin kendisi ayrıca gerekçelendirildi: dosyanın
+ekseni Avrupa'nın deniz yoluyla küresel ölçeğe çıkması, ve bu bir
+tercih. Gerekçe, o çıkışın diğer bölgelerin tarihini de doğrudan
+değiştirmesi. Ama tercih mutlaklaştırılmadı — aynı yıllarda başka
+bölgelerde kurulan düzenlerin nüfusu ve geliri daha büyüktü, küresel
+ağırlık merkezi henüz kaymamıştı.
+
+Öne çıkan kayıtlar:
+- Nüfusun yeniden dağılması: bir kıtada nüfus çökerken aynı yıllarda
+  oraya zorla insan taşındı. Emek açığı, zorla taşımanın gerekçesi
+  olarak sunuldu ve gerekçe açığın nasıl doğduğunu sormuyor. Bir
+  düzenin çözmek için kurulduğu sorun, çoğu zaman aynı düzenin kendi
+  ürettiği sorundur.
+- Tordesillas çizgisi ölçülemeyen bir sınırdı — boylam güvenilir
+  biçimde ölçülemiyordu. Bir sınırın hukuki kesinliği, onu ölçebilme
+  kapasitesinden bağımsız değil.
+- Barut imparatorluklarının ortak yanı teknoloji değil örgütlenme:
+  aynı teknolojiyi kullanan düzenlerin benzemesi, teknolojinin değil
+  onun gerektirdiği örgütlenmenin sonucu.
+- Vestfalya anlatısının sınırı yazıldı: metin modern devlet düzeninin
+  başlangıcı olduğunu iddia etmiyor, anlatı sonradan kuruldu.
+  Egemenlik ilkesinin erken biçimi birey haklarını değil hükümdarlar
+  arası müdahaleyi düzenliyordu.
+- Misyon kayıtları ikili nitelikleriyle kaydedildi: bir topluluğu
+  değiştirmek için üretilmiş bir kayıt, o topluluğa dair en ayrıntılı
+  kayıt olabilir. Dillerin başka bir alfabeyle yazılması, o dilin bazı
+  ayrımlarını kayıt dışı bıraktı.
+- Plantasyonun önce Atlantik adalarında denenip sonra kıtaya taşınması:
+  bir düzenin nerede denendiği, nerede yaygınlaştığından ayrı bir veri
+  ve ilki genellikle daha az kaydediliyor.
+
+İki yeni kaynak künyelendi: Tordesillas metni (birincil belge) ve
+kişi başına gelir serisi.
+
+Kalan dönem dosyaları: 01–08, 11, 12, 13, 16.
