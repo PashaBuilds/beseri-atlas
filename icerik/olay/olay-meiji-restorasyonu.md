@@ -17,6 +17,7 @@ ilgili:
   - olay-1857-hint-ayaklanmasi
   - aktor-japonya-imparatorlugu
   - aktor-tokugawa-sogunlugu
+  - kavram-esitsiz-antlasmalar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

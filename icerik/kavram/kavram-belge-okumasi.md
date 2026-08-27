@@ -37,6 +37,7 @@ ilgili:
   - kavram-vatandaslik
   - olay-cezayir-savasi
   - olay-herero-nama-1904
+  - kavram-esitsiz-antlasmalar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -20,6 +20,7 @@ ilgili:
   - aktor-goryeo-choson
   - kavram-haracguzarlik
   - dusunur-wang-yangming
+  - aktor-ryukyu-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

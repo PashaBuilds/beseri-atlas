@@ -35,6 +35,7 @@ ilgili:
   - kaynak-fetha-nagast
   - kaynak-kurukan-fuga-sarti
   - aktor-yeni-hebridler-ortak-yonetimi
+  - kavram-esitsiz-antlasmalar
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

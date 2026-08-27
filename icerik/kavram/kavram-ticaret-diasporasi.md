@@ -27,6 +27,7 @@ ilgili:
   - aktor-gucerat-sultanligi
   - olay-malaka-fethi-1511
   - kavram-kula-halkasi
+  - aktor-ryukyu-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -17,6 +17,7 @@ ilgili:
   - aktor-bengal-sultanligi
   - aktor-gucerat-sultanligi
   - kavram-toplumsal-cinsiyet-duzeni
+  - kavram-esitsiz-antlasmalar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

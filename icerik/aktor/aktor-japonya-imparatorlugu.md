@@ -19,6 +19,8 @@ ilgili:
   - aktor-tokugawa-sogunlugu
   - kaynak-meiji-anayasasi
   - kaynak-kojiki
+  - kavram-esitsiz-antlasmalar
+  - aktor-ryukyu-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

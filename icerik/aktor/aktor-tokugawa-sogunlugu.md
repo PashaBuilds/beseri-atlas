@@ -16,6 +16,7 @@ ilgili:
   - donem-10
   - olay-meiji-restorasyonu
   - aktor-japonya-imparatorlugu
+  - aktor-ryukyu-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

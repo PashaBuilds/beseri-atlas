@@ -40,6 +40,7 @@ ilgili:
   - dusunur-las-casas
   - kavram-zorunlu-emek-duzeni
   - aktor-portekiz-imparatorlugu
+  - aktor-ryukyu-kralligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

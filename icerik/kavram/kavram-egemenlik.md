@@ -38,6 +38,8 @@ ilgili:
   - olay-pasifik-nukleer-denemeleri
   - kavram-veraset
   - kavram-vatandaslik
+  - kavram-esitsiz-antlasmalar
+  - aktor-ryukyu-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

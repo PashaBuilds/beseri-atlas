@@ -14,6 +14,7 @@ ilgili:
   - kavram-egemenlik
   - dusunur-montesquieu
   - kaynak-montesquieu-kanunlarin-ruhu
+  - kavram-esitsiz-antlasmalar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

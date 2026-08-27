@@ -16,6 +16,7 @@ ilgili:
   - aktor-altin-orda
   - aktor-marathalar
   - aktor-vijayanagara
+  - aktor-ryukyu-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

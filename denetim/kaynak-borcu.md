@@ -11,11 +11,11 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 503 |
-| Toplam künye | 1646 |
+| Ölçülen makale | 505 |
+| Toplam künye | 1652 |
 | Giriş kapısı kuralını aşan makale | 223 |
 | Birincil kaynağı olmayan makale | 255 |
-| Giriş kapısı künyesi payı | 43% |
+| Giriş kapısı künyesi payı | 42% |
 
 ## Tipe göre borçlu makale
 

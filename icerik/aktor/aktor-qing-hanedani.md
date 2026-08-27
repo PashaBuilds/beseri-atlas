@@ -22,6 +22,7 @@ ilgili:
   - olay-afyon-savaslari
   - olay-boksor-isyani
   - kavram-goksel-yetki
+  - kavram-esitsiz-antlasmalar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

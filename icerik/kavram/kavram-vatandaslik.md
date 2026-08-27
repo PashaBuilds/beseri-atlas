@@ -23,6 +23,7 @@ ilgili:
   - kavram-sehir-devleti
   - kaynak-insan-haklari-beyannamesi
   - olay-cezayir-savasi
+  - kavram-esitsiz-antlasmalar
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

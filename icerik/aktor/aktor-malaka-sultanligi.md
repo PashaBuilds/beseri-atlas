@@ -27,6 +27,7 @@ ilgili:
   - olay-malaka-fethi-1511
   - kavram-silahli-ticaret
   - aktor-portekiz-imparatorlugu
+  - aktor-ryukyu-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

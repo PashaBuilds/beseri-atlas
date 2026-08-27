@@ -3590,3 +3590,35 @@ Yeni birincil belge: 1918 tarihli HMSO raporu (Wellcome Library
 taraması) — geri çekilme işleminden kurtulan nüshalardan biri.
 
 Afrika listesi tamamlandı. Sonraki turlarda başka bölgelere geçilecek.
+
+## 2026-08-26 — Doğu Asya: eşitsiz antlaşmalar ve Ryukyu
+
+- `kavram-esitsiz-antlasmalar` — kavram katmanında büyük bir eksik.
+  Dört tekrar eden madde tanımlandı: tazminat, liman/toprak, yargı
+  ayrıcalığı, en çok gözetilen ulus. Ana ölçüm dördüncüsü üzerine:
+  bir ayrıcalığın otomatik yayılmasını sağlayan bir madde, her yeni
+  antlaşmayı bütün önceki antlaşmaların da genişlemesi hâline getirir.
+  Aynı madde geri almayı da zorlaştırıyor — kolayca yayılan bir hak
+  aynı kolaylıkla geri alınmıyor.
+  İkinci ölçüm: yargı ayrıcalığının kalkması için karşı tarafın
+  tanıdığı bir hukuk düzeninin benimsenmesi isteniyordu; yani
+  egemenliği geri almanın bedeli, o egemenliğin biçimini karşı tarafın
+  belirlemesiydi.
+  İki metin sorunu burada üçüncü kez kaydedildi (Waitangi, Adva ve
+  şimdi bu düzen).
+- `aktor-ryukyu-kralligi` — üç yüz yıl boyunca aynı anda iki merkeze
+  bağlılık bildiren krallık. Ana ölçüm: bir küçük düzenin varlığını
+  sürdürmesi, kendi gücünden değil, onu ortadan kaldıracak tarafın o
+  düzene ihtiyacı olmasından gelebilir. İkinci bağlılık gizli tutuldu
+  ve gizleme kurumsaldı — elçilik kıyafeti, dili ve protokolü buna
+  göre düzenlenmişti.
+  Kaydın iki yüzü ayrıca kaydedildi: batıdaki kayıtlarda bağımsız
+  haraçgüzar, kuzeydeki kayıtlarda bağlı bölge. İki kaynağın
+  çeliştiği yerde biri yanlış olmak zorunda değil; ikisi de kendi
+  çerçevesinde doğru olabilir.
+  Dışarıdan gelen gözlemciler ikinci bağlılığı fark etmedi — bir
+  tanıklığın ayrıntılı olması kapsamlı olduğunu göstermez.
+
+Kalibrasyon notu: kavram dosyasını 16 bölümle yazdığımda ilk taslak
+hedefte çıktı (779/600-1000). Aktör dosyaları için ~30 bölüm gerekiyor;
+bu turda da iki ek geçiş gerekti.
