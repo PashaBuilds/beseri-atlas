@@ -84,6 +84,111 @@ Dönemin iktisat yazarı için tutulan kayıt, onun ahlak kurallarının belirli
 [Adam Smith](/dusunur/smith/) dosyasında, ilgili düzen ise
 [Kapitalizm](/kavram/kapitalizm/) dosyasında ele alınıyor.
 
+
+## Üç işlev
+
+Para üç işlev taşır.[^k1] Değişim aracı, hesap birimi ve değer
+saklama.
+
+Üçü aynı nesnede birleşmek zorunda değildir.[^k2] Bazı düzenlerde
+hesap birimi ile fiilen dolaşan nesne
+farklıdır.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir toplumun para düzeni,
+üç işlevin hangi nesnelerde toplandığına bakılarak
+tanımlanır.
+
+## Sikkenin işlevi
+
+Sikke, tartma ve ayar sınama işini ortadan
+kaldırır.[^k1] Damga, ayarın bir otorite tarafından onaylandığını
+bildirir.
+
+Bu, işlem maliyetini düşürür.[^k2] Ticaretin menzilini değil hızını
+artırır.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir para biriminin ortaya
+çıkışı bir teknik yenilik değil bir güven
+düzenlemesidir.
+
+## Ayar ve güven
+
+Bir sikkenin ayarı, onu basan düzenin mali durumunun doğrudan
+göstergesidir.[^k1] Ayarın düşürülmesi kısa vadede gelir
+sağlar.
+
+Uzun vadede sikkenin kabul gördüğü alanı
+daraltır.[^k2] Tüccarlar tartmaya geri döner.
+
+Atlas bu değiş tokuşu ayrıca kaydeder.[^k3] Bir para biriminin
+menzili, onu basan merkezin güvenilirliğinin
+ölçüsüdür.
+
+## Buluntunun anlamı
+
+Bir sikkenin bir bölgede bulunması, o bölgenin onu basan düzene bağlı
+olduğunu göstermez.[^k1] Ticari bağlantıyı gösterir.
+
+İki olgu sık karıştırılır.[^k2] Siyasi denetim ile ticari dolaşım ayrı
+ayrı kanıtlanmalıdır.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k3] Buluntu dağılımı, siyasi
+haritanın değil ticaret ağının
+kaydıdır.
+
+## Parasız düzenler
+
+Birçok düzen sikke olmadan da karmaşık ekonomi
+yürüttü.[^k1] Ayni vergi, tapınak deposu ve borç kaydı yeterli
+olabiliyordu.
+
+Bu düzenlerde hesap birimi vardı ama dolaşan nesne
+yoktu.[^k2] Ödeme, defterdeki bir kayıtla
+yapılıyordu.
+
+Atlas bu biçimi ayrıca kaydeder.[^k3] Paranın yokluğu, ekonominin
+basitliğini göstermez; kaydın parayı gereksiz kıldığını
+gösterebilir.
+
+## Kâğıt para
+
+Kâğıt para, dolaşan nesnenin değerinden bağımsız hâle
+gelmesidir.[^k1] Değer, üzerindeki garantiden
+gelir.
+
+Bu, merkezî bir güvence gerektirir.[^k2] Güvence zayıfladığında
+kabul de sona erer.
+
+Atlas bu bağı ayrıca kaydeder.[^k3] Bir aracın taşınabilir olması, onu
+mümkün kılan kurumsal güvencenin de taşınabilir olduğunu
+göstermez.
+
+## Enflasyonun kaydı
+
+Fiyat hareketleri, para düzeninin en doğrudan
+kaydıdır.[^k1] Aynı malın farklı yıllardaki fiyatı
+karşılaştırılabilir.
+
+Karşılaştırma dikkat ister.[^k2] Malın kalitesi, ölçü birimi ve
+bölge aynı olmalıdır.
+
+Atlas bu koşulu ayrıca kaydeder.[^k3] Bir fiyat serisinin
+karşılaştırılabilir olması, ölçülen malın sabit kalmasına
+bağlıdır.
+
+## Paranın siyasi yanı
+
+Para basmak bir egemenlik işaretidir.[^k1] Sikkenin üzerindeki ad ve
+simge, kimin hükmettiğini
+bildirir.
+
+Bu, sikkeyi bir iletişim aracı hâline
+getirir.[^k2] Okuma bilmeyen bir nüfusa bile ulaşır.
+
+Atlas bu işlevi ayrıca kaydeder.[^k3] Bir sikkenin üzerindeki değişim,
+çoğu zaman bir iktidar değişiminin en hızlı yayılan
+duyurusudur.
+
 ## Bu dosyanın sınırı
 
 Paranın tarihi, özellikleri ve türlerin ayrıntısı burada ayrı başlıklar altında

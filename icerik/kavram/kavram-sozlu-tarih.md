@@ -92,6 +92,101 @@ hikâyelerin çeşitli temsiller ve kaygılar yansıttığını yazar.[^k3] O ö
 [Konfüçyüs](/dusunur/konfucyus/) dosyasında, kaynak sınıflandırması ise
 [Birincil kaynak](/kavram/birincil-kaynak/) dosyasında ele alınıyor.
 
+
+## Aktarımın düzeni
+
+Sözlü aktarım rastgele değildir.[^k1] Çoğu gelenekte aktarım belirli
+kişilerin görevidir ve ezber düzenli olarak sınanır.
+
+Bu, aktarımı denetlenebilir kılar.[^k2] Yanlış aktaran, dinleyiciler
+tarafından düzeltilir.
+
+Atlas bu düzeni ayrıca kaydeder.[^k3] Sözlü aktarım, denetim
+mekanizması bulunduğunda yazılı aktarımdan daha az bozulabilir.
+
+## Biçimin işlevi
+
+Sözlü metinler çoğu zaman ölçülü ve kalıplıdır.[^k1] Uyak, tekrar ve
+sabit ifadeler ezberi kolaylaştırır.
+
+Biçim, içeriği koruyan bir kaptır.[^k2] Kalıp bozulursa hata fark
+edilir.
+
+Atlas bu işlevi ayrıca kaydeder.[^k3] Bir metnin edebî biçimi, süsleme
+değil bir koruma mekanizması olabilir.
+
+## Bozulmanın yönü
+
+Aktarım kayıpsız değildir.[^k1] Ayrıntılar düşer, anlatı sadeleşir ve
+güncel kaygılara uyarlanır.
+
+Uyarlama en belirgin bozulma biçimidir.[^k2] Anlatı, her kuşakta o
+kuşağın sorularına cevap verecek biçimde
+yeniden şekillenir.
+
+Atlas bu yönü ayrıca kaydeder.[^k3] Sözlü bir anlatı, geçmişi
+kaydettiği kadar anlatıldığı anı da kaydeder.
+
+## Yazıya geçirmenin etkisi
+
+Yazıya geçirme aktarımı dondurur.[^k1] Bu bir koruma ve bir kayıptır.
+
+Metin korunur; her seferinde yenilenen esneklik sona
+erer.[^k2] Yazıya geçirilen sürüm, o anın sürümüdür.
+
+Atlas bu değiş tokuşu ayrıca kaydeder.[^k3] Bir sözlü metnin yazılı
+hâli, geleneğin tamamı değil bir kesitidir.
+
+## Derleyicinin payı
+
+Yazıya geçiren kişi bir seçim yapar.[^k1] Hangi anlatıcıdan, hangi
+sürümü, hangi düzenle kaydedeceğine karar
+verir.
+
+Bu kararlar metne geçer.[^k2] Derleyicinin dili, sınıflandırması ve
+atlamaları metnin parçası olur.
+
+Atlas bu katmanı ayrıca kaydeder.[^k3] Yazıya geçirilmiş bir sözlü
+metin, iki kişinin ortak ürünüdür.
+
+## Ölçütler
+
+Atlas sözlü kaynağı üç ölçütle değerlendirir.[^k1] Aktarım zincirinin
+bilinip bilinmediği, denetim mekanizmasının bulunup bulunmadığı ve
+kayda geçiş koşulları.
+
+Üçü de bilinmiyorsa kaynak zayıftır.[^k2] Bilinen bir zincir, zayıf
+bir kaydı güçlendirebilir.
+
+Atlas bu ölçütleri künyeye taşır.[^k3] Sözlü kökenli bir kaynak,
+kökeninin belirtilmesiyle kullanılabilir.
+
+## Hangi bilgiyi taşır
+
+Sözlü aktarım her tür bilgiyi eşit taşımaz.[^k1] Soy listeleri, yer
+adları ve hukuki kurallar daha iyi
+korunur.
+
+Tarih ve sayı en hızlı bozulan bilgilerdir.[^k2] Kuşak sayısı,
+yıla çevrildiğinde geniş bir aralık verir.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k3] Sözlü bir kaynağın betimleyici
+iddiaları, sayısal iddialarından daha güçlüdür.
+
+## Yazılı kaynakla karşılaştırma
+
+İki kaynak türü birbirinin yerine geçmez.[^k1] Aynı olay için ikisi de
+varsa, karşılaştırma bir sınav
+imkânıdır.
+
+Örtüşme her ikisini de güçlendirir.[^k2] Çelişme, hangisinin hangi
+konuda güvenilir olduğunu sormaya
+yol açar.
+
+Atlas bu karşılaştırmayı yeğler.[^k3] İki bağımsız kanıt türünün
+örtüşmesi, tek tek her birinden güçlü bir
+bulgudur.
+
 ## Bu dosyanın sınırı
 
 Yöntemin teknikleri, arşivleme ve etik kurallar burada ayrı başlıklar altında ele
