@@ -680,6 +680,20 @@ devreder.[^k4] Bir değişimin ilerleme sayılıp sayılmayacağı, hangi
 birimin ölçüldüğüne bağlıdır: topluluk mu, birey
 mi.[^k3]
 
+
+## Ateşin ve pişirmenin payı
+
+Pişirme bu dönemden çok önce yaygınlaşmıştı.[^k1] Ama tahılın
+işlenmesi yeni teknikler gerektirdi.
+
+Öğütme taşları ve fırın kalıntıları bu tekniklerin
+izidir.[^k3] Tahıl, işlenmeden sindirilebilir bir besin
+değildir.
+
+Atlas bu ara adımı ayrıca kaydeder.[^k4] Bir besinin evcilleştirilmesi
+tek başına yetmez; onu yenebilir kılan işleme tekniği de
+gerekir.
+
 ## Fikir dünyası
 
 Bu dönemin fikir dünyası hakkında bildiklerimiz, kazılan yapılara ve gömü
