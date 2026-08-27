@@ -498,8 +498,8 @@ mücadelelerinde tek tek aranmıştır.
 ## Bu dosyanın sınırı
 
 Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
-dosyasında ayrıntılı ele alınır ve burada yalnızca döneme
-bağlanır.
+dosyasında ayrıntılı ele alınır; burada yalnızca döneme bağlanır ve
+dönemin eksenine katkısıyla anılır.
 
 Bölgesel ayrıntı sınırlıdır.[^k3] Şerit satırları, bölgelerin kendi
 tarihlerinden çok ortak mekanizmanın onlardaki görünümünü verir ve
