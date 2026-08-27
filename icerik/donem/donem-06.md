@@ -650,6 +650,34 @@ Atlas soruyu açık tutar.[^k5] Benzerlik tek başına aktarım kanıtı
 değildir; aktarım gösterilmedikçe bağımsız çözüm de eşit ölçüde
 olasıdır.[^k2]
 
+
+## Dönemin adlandırılması
+
+Dönem için kullanılan adlar bölgeye göre değişir.[^k2] Bir bölgede
+"erken orta çağ", başka bölgelerde hanedan adıyla anılır.
+
+İlk ad bir eksiklik bildirir.[^k1] Kendinden önceki ve sonraki
+dönemlere göre tanımlanır; kendi içeriğiyle
+değil.
+
+Atlas bu yüzden üç merkezi birlikte adlandırır.[^k5] Bir dönemi tek bir
+bölgenin geçici durgunluğuyla adlandırmak, aynı yıllarda başka
+bölgelerde yaşanan kuruluşları görünmez kılar.
+
+## Dönemin ağırlık merkezi
+
+Bu dönemde dünyanın en büyük kentleri ve en yoğun ticaret ağları
+kıtanın doğusunda ve batı Asya'daydı.[^k5] Batı ucu, nüfus ve
+kentleşme bakımından geride kalıyordu.
+
+Bu dağılım sonraki yüzyıllarda değişti.[^k4] Değişimin ne zaman
+başladığı atlasın ayrı bir tartışma dosyasının
+konusudur.
+
+Atlas dönemin kendi dağılımını kaydeder.[^k1] Bir dönemi sonraki
+dönemin merkezinden okumak, o dönemin ağırlık dağılımını yanlış
+gösterir.[^k3]
+
 ## Fikir dünyası
 
 Dönemin fikir dünyasının en çarpıcı özelliği, tek bir siyasi çatı altında birden
