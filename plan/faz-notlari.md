@@ -4329,3 +4329,32 @@ doğrulanmıştı ve burada da işe yaradı.
 
 Bu üçlü atlasın kendi kurallarını taşıyor; en zayıf hâlde bırakılmaları
 diğer bütün dosyaların dayanağını zayıflatıyordu.
+
+## 2026-08-26 — Dört kavram dosyası daha
+
+`kavram-tasavvuf` 159 → 608, `kavram-patrimonyalizm` 189 → 603,
+`kavram-emperyalizm` 195 → 600+, `kavram-kamusal-alan` 203 → 600+.
+
+Üç dosyada ikinci Wikipedia künyeden çıkarıldı; yerlerine SEP
+maddeleri kondu (Weber, Colonialism, Habermas).
+
+Yöntem notu: bu dört dosyada da kavramlar "sınıflandırma etiketi"
+olmaktan çıkarılıp ölçüt hâline getirildi. Her birine üç soruluk bir
+uygulama kuralı yazıldı ve sonucun dereceli olduğu belirtildi — ideal
+tip varlık yokluk değil mesafe ölçmeye yarıyor.
+
+Öne çıkan kayıtlar:
+- Tasavvuf: bir öğretinin coğrafi dağılımı, çoğu zaman onu taşıyan
+  ticaret ağının dağılımıdır. Kadın mutasavvıfların anılmakla aktarım
+  zincirine girmek arasındaki farkı ayrıca kaydedildi.
+- Patrimonyalizm: sadakat–ehliyet gerilimi ve devşirme düzeninin bunu
+  çözme denemesi; çözümün kendi sorununu üretmesi (bağımsız olsun diye
+  kurulan kurum, bağımsızlığını kuranına karşı da kullanabiliyor) —
+  aynı örüntü atlasın Abbasi ve Dahomey dosyalarında da kayıtlı.
+- Emperyalizm: sömürgecilikle farkı netleştirildi; biçimsel olmayan
+  biçimler (borç, ticaret anlaşması, üs) ayrıca tanımlandı.
+- Kamusal alan: biçimsel açıklık ile fiilî katılım ayrıldı; sansür
+  listesinin bir gösterge olduğu kaydedildi — neyin yasaklandığı,
+  neyin tehdit sayıldığını gösteriyor.
+
+Durum: 505 dosya, hedefin altında 273 (turun başında 276).

@@ -212,6 +212,20 @@ Atlas bu ayrımı korur.[^k3] Bir ölçütü geçmişe uygulamak ile bir
 terimi geçmişe yüklemek ayrı iki
 işlemdir.
 
+
+## Karşı tarafın kaydı
+
+Kavramın tanımladığı ilişkide iki taraf vardır ve ikisi de kayıt
+tutar.[^k1] Kayıtların ayrıntısı eşit değildir.
+
+Yöneten tarafın kaydı düzenli ve arşivlidir.[^k2] Yönetilen tarafın
+kaydı çoğu zaman sözlü ya da
+dağınıktır.
+
+Atlas bu dengesizliği her dosyada beyan eder.[^k3] Bir ilişkinin iki
+tarafından yalnızca birinin kaydı varsa, o ilişkinin anlatısı da tek
+taraflıdır.
+
 ## Bu dosyanın sınırı
 
 Emperyalizm çağı, ülke ülke tarihler ve kuramların içeriği burada ayrı başlıklar

@@ -196,6 +196,21 @@ Atlas bu ayrımı korur.[^k2] Koşulların sağlanması ile sonucun iyi
 olması ayrı iki sorudur ve ikincisi bu kavramın konusu
 değildir.[^k3]
 
+
+## Ölçmenin yolu
+
+Üç koşul dolaylı göstergelerle ölçülebilir.[^k1] Süreli yayın sayısı,
+tirajlar, okuma mekânlarının sayısı ve sansür kayıtları bunlar
+arasındadır.
+
+Göstergeler eksiktir ama karşılaştırmaya
+elverişlidir.[^k2] Aynı gösterge iki dönem ya da iki bölge için
+hesaplanabilir.
+
+Atlas bu yaklaşımı yeğler.[^k3] Doğrudan ölçülemeyen bir kavram,
+karşılaştırılabilir dolaylı göstergelerle yine de
+izlenebilir.
+
 ## Bu dosyanın sınırı
 
 Kavramın tarihi, burjuva kamusal alanı çözümlemesi ve retorik tartışması burada
