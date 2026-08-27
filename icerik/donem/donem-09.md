@@ -498,8 +498,8 @@ bağlanmaz.
 Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
 dosyasında ele alınır.
 
-Bölgesel ayrıntı sınırlıdır.[^k3] Şerit satırları ortak mekanizmanın
-bölgelerdeki görünümünü verir.
+Bölgesel ayrıntı sınırlıdır.[^k3] Şerit satırları, bölgelerin kendi
+tarihlerinden çok ortak mekanizmanın onlardaki görünümünü verir.
 
 Sayısal seriler burada yorumlanır, üretilmez.[^k5] Serilerin
 kaynakları, yöntemleri ve başlangıç tarihleri atlasın veri
