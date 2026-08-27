@@ -86,6 +86,86 @@ anlamındaki fuzi onur ekinin Latinceleştirilmiş bir birleşimi olduğunu
 yazar.[^k2] O örnek
 [Konfüçyüs](/dusunur/konfucyus/) dosyasında ele alınıyor.
 
+
+## Üç temel biçim
+
+Yazı sistemleri üç ana biçimde toplanır.[^k1] İşaret bir kavramı, bir
+heceyi ya da bir sesi karşılar.
+
+Üçü saf hâlde ender bulunur.[^k2] Çoğu sistem karışıktır ve birden çok
+ilkeyi bir arada kullanır.
+
+Atlas bu karışıklığı ayrıca kaydeder.[^k3] Bir yazı sistemini tek bir
+biçimle adlandırmak, içindeki karma yapıyı görünmez kılar.
+
+## İşaret sayısı ve erişim
+
+Bir sistemin işaret sayısı, onu öğrenmenin maliyetini
+belirler.[^k1] Az işaretli bir sistem daha kısa sürede
+öğrenilir.
+
+Bu, kimin yazabileceğini doğrudan etkiler.[^k2] Uzun eğitim gerektiren
+bir sistem, yazıyı uzman bir sınıfa
+bağlar.
+
+Atlas bu bağı ayrıca kaydeder.[^k3] Bir yazı sisteminin işaret sayısı,
+teknik bir ayrıntı değil bir erişim
+ölçütüdür.
+
+## Dil ile yazının ayrılması
+
+Bir yazı sistemi, geliştirildiği dilden başka diller için de
+kullanılabilir.[^k1] Uyarlama çoğu zaman eksik
+kalır.
+
+Kaynak dilde bulunmayan sesler yazılamaz.[^k2] Bu, uyarlanan dilin bazı
+ayrımlarını kayıt dışı bırakır.
+
+Atlas bu kaybı ayrıca kaydeder.[^k3] Bir dilin başka bir yazı
+sistemiyle kaydedilmesi, o dilin bir bölümünü kaydın dışına
+çıkarır.
+
+## Çözülememiş sistemler
+
+Bazı yazı sistemleri hâlâ çözülememiştir.[^k1] Çözülememenin en yaygın
+nedeni iki dilli metin bulunmamasıdır.
+
+Bilinen bir dile bağlanamayan bir yazı, kendi başına
+anlaşılamaz.[^k2] Metin uzunluğu tek başına
+yetmez.
+
+Atlas bu koşulu ayrıca kaydeder.[^k3] Bir yazının çözülmesi,
+metinlerin çokluğundan çok bilinen bir dille kurulan bağa
+bağlıdır.
+
+## Malzeme ile biçim
+
+Yazı yüzeyi, işaretlerin biçimini de belirler.[^k1] Kile baskı yapan
+bir kalem, taşa oyulan bir kalemden farklı biçimler
+üretir.
+
+Aynı sistem farklı malzemelerde farklı görünür.[^k2] Bu, sonraki
+okurlar için bir sınıflandırma sorunu
+doğurur.
+
+Atlas bu bağı ayrıca kaydeder.[^k3] Bir yazının biçimi, o yazının
+taşındığı malzemeden ayrı
+düşünülemez.
+
+## Bugüne ulaşmanın koşulu
+
+Bir yazı sisteminin bilinmesi, o sistemle yazılmış metinlerin
+korunmasına bağlıdır.[^k1] Dayanıklı malzeme kullanan sistemler daha
+iyi bilinir.
+
+Bu, coğrafi bir yanlılık üretir.[^k2] Kil kullanan bölgeler ayrıntılı,
+organik yüzey kullananlar seyrek
+bilinir.
+
+Atlas bu yanlılığı ayrıca kaydeder.[^k3] Bir yazı geleneğinin az
+bilinmesi, o geleneğin az üretim yaptığını
+göstermez.
+
 ## Bu dosyanın sınırı
 
 Yazının tarihi, sistemlerin ayrıntısı ve çözümleme yöntemleri burada ayrı

@@ -81,6 +81,89 @@ felsefesinde mutlak egemenliği savunduğunu yazar; *Leviathan*'ın 1651'de
 yayımlandığı da kaydedilir.[^k3] O yazar
 [Thomas Hobbes](/dusunur/hobbes/) dosyasında ele alınıyor.
 
+
+## Mekanizma
+
+Caydırıcılık, karşı tarafın hesabını değiştirmeye
+dayanır.[^k1] Amaç saldırıyı durdurmak değil, saldırının maliyetini
+kabul edilemez kılmaktır.
+
+Bu, fiilî kullanımı değil kullanılabilirlik algısını
+gerektirir.[^k2] Etki, envanterin varlığından ve inandırıcılığından
+gelir.
+
+Atlas bu ayrımı kavramın merkezine koyar.[^k3] Caydırıcılık bir
+kullanım değil bir iletişim
+biçimidir.
+
+## Üç koşul
+
+Kavram üç koşula bağlıdır.[^k1] Karşı tarafın tehdidi algılaması,
+inandırıcı bulması ve maliyet hesabı
+yapabilmesi.
+
+Üçünden biri eksikse mekanizma işlemez.[^k2] Hesap yapmayan ya da
+maliyeti kabul eden bir taraf
+caydırılamaz.
+
+Atlas bu koşulları ayrıca kaydeder.[^k3] Bir stratejinin işlemesi,
+karşı tarafın belirli bir biçimde davranmasını
+varsayar.
+
+## Sınanamazlık sorunu
+
+Caydırıcılığın en büyük yöntem sorunu budur.[^k1] Saldırı olmadığında,
+caydırıcılığın işlediği mi yoksa saldırı niyeti hiç bulunmadığı mı
+bilinmez.
+
+İki açıklama aynı gözlemle uyumludur.[^k2] Gözlem seçim yapmaya
+yetmez.
+
+Atlas bu belirsizliği korur.[^k3] Hiç sınanmamış bir mekanizma,
+başarılı sayılamaz; yalnızca çürütülmemiş
+sayılır.
+
+## Maliyet
+
+Caydırıcılık sürekli yatırım gerektirir.[^k1] Envanterin bakımı,
+yenilenmesi ve inandırıcılığının korunması
+maliyetlidir.
+
+Bu maliyet, kapasiteye oranlandığında taraflar için farklı ağırlık
+taşır.[^k2] Aynı mutlak harcama, küçük bir ekonomide çok daha büyük
+bir yüktür.
+
+Atlas bu oranı ayrıca kaydeder.[^k3] Bir yarışta belirleyici olan
+mutlak büyüklük değil, kapasiteye oranlanmış
+yüktür.
+
+## Yayılma sorunu
+
+Kavram, taraf sayısı arttıkça karmaşıklaşır.[^k1] İki taraflı bir
+hesap, çok taraflı bir hesaba
+dönüşür.
+
+Her yeni taraf, diğerlerinin hesabını değiştirir.[^k2] İstikrar
+varsayımı zayıflar.
+
+Atlas bu bağı ayrıca kaydeder.[^k3] İki taraf için kurulmuş bir
+mekanizmanın çok taraflı bir düzende aynı biçimde işleyeceği
+varsayılamaz.
+
+## Nükleer dışı biçimler
+
+Kavram nükleer silahla sınırlı değildir.[^k1] Yaptırım, ticari misilleme
+ve hukuki yaptırım tehdidi de aynı mantığı
+kullanır.
+
+Ortak yan, tehdidin kullanılmadan sonuç
+üretmesidir.[^k2] Kullanıldığında mekanizma başarısız olmuş
+demektir.
+
+Atlas bu genellemeyi ayrıca kaydeder.[^k3] Bir caydırıcılık aracının
+kullanılması, o aracın amacına ulaşmadığının
+kaydıdır.
+
 ## Bu dosyanın sınırı
 
 Nükleer caydırıcılık kuramı, örnekler ve eleştiriler burada ayrı başlıklar
