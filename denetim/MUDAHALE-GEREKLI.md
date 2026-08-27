@@ -676,3 +676,30 @@ AÇIK KALAN: Gılgamış Destanı'nın künyesindeki çeviri erken bir
 çeviridir ve yirmi birinci yüzyılda yayımlanan tablet parçalarını
 içermez. Kamu malı ve doğrulanabilir güncel bir çeviri bulunursa
 künye yenilenmeli.
+
+## 2026-08-26 — ctext.org artık doğrulanamıyor (ACİL)
+
+`ctext.org` havuzda beyaz listede ama otomatik isteklere CAPTCHA
+sayfası döndürüyor. HTTP 200 dönüyor, dolayısıyla canlılık kapısı
+geçiyor; ama sayfada künye dizesi bulunamadığı için KAPI 10 kırılıyor.
+
+Etkilenen dosyalar (9):
+- kavram-taoizm, kavram-goksel-yetki, kavram-konfucyuscluk,
+  kavram-legalizm
+- kaynak-sima-qian-shiji
+- dusunur-mengzi, dusunur-han-feizi, dusunur-sima-qian, dusunur-zhu-xi
+
+Bu, atlasın Doğu Asya birincil metin tabanının tamamı.
+
+Doğrulanmış alternatifler:
+- Analects: https://www.gutenberg.org/ebooks/3330 (Project Gutenberg)
+- Legge, Chinese Classics vol 1 (Analects, Büyük Öğreti, Ortalama
+  Öğretisi, Mencius, Chunqiu, Zuozhuan):
+  https://archive.org/details/chineseclassics01legg_0 (Princeton
+  taraması, 1861)
+
+Aranması gerekenler: Shiji, Hanfeizi, Shang Jun Shu, Daodejing için
+ayrı doğrulanabilir tam metinler.
+
+Reddedilen: sacred-texts.com (403), Britannica (403) — ikisi de
+havuzda beyaz listede ama otomatik isteklere kapalı.

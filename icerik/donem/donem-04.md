@@ -704,6 +704,20 @@ Atlas bu kırılganlığı ayrıca kaydeder.[^k1] Altyapıya dayanan bir
 nüfus yoğunluğu, altyapının bakımı kadar
 sürer.
 
+
+## Ticaret yollarının kurulması
+
+Dönemin sonuna doğru Avrasya boyunca uzanan kara yolları düzenli
+kullanıma girdi.[^k2] Yollar önce askerî ve diplomatik amaçla
+açıldı.
+
+Ticaret bu güzergâhları sonradan kullandı.[^k5] Mal, tek bir tüccarla
+değil aracılar zinciriyle taşınıyordu.
+
+Atlas bu sırayı ayrıca kaydeder.[^k1] Bir güzergâhın açılma amacı ile
+en çok kullanıldığı amaç aynı olmak zorunda
+değildir.
+
 ## Fikir dünyası
 
 Jaspers, Eksen Çağı'nın bir disiplin olarak felsefeyi doğurduğunu savundu.[^k1]
