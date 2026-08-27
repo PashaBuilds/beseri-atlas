@@ -4358,3 +4358,36 @@ tip varlık yokluk değil mesafe ölçmeye yarıyor.
   neyin tehdit sayıldığını gösteriyor.
 
 Durum: 505 dosya, hedefin altında 273 (turun başında 276).
+
+## 2026-08-26 — Beş kavram dosyası daha
+
+`kavram-barut-imparatorluklari` 201→600, `kavram-millet-sistemi`
+205→600, `kavram-kentlesme` 206→600, ve önceki turda başlanan
+`kavram-salgin` ile `kavram-kuresellesme` künyeleri onarıldı.
+
+Beş dosyada ikinci Wikipedia çıkarıldı. Yerlerine: TDV OSMANLILAR,
+TDV MİLLET, TDV ŞEHİR, Prokopios (birincil/tanık) ve OWID ticaret
+payı serisi.
+
+KAPI 1 bu turda yeni bir kural uyguladı ve iyi ki uyguladı:
+`kavram-kentlesme`de üç kaynağın da ourworldindata.org'dan olması
+"bağımsızlık şartı ihlali" olarak reddedildi. Üçüncü kaynak TDV ŞEHİR
+ile değiştirildi. Bu kural daha önce tetiklenmemişti.
+
+Öne çıkan kayıtlar:
+- Barut imparatorlukları: ortak yan teknoloji değil örgütlenme.
+  Sonraki dönemde geri kalmanın nedeni de teknolojiye erişim değil
+  üretim kapasitesi — silah satın alınabiliyordu, onu üreten sanayi
+  ve kullanan eğitim düzeni satın alınamıyordu.
+- Millet sistemi: düzen eşitlik değil ayrı ayrı yönetim öngörüyor;
+  ikisi karıştırılmamalı. Eşitsiz antlaşmalardaki yargı ayrıcalığıyla
+  farkı da netleştirildi — belirleyici olan hukukun çokluğu değil, o
+  hukuku kimin belirlediği.
+- Kentleşme: sanayisiz kentleşme ayrıca tanımlandı; aynı oran iki
+  bambaşka yapıyı gösterebiliyor. Tarihsel oranların çarpanla
+  üretildiği ve varsayımın sonucu belirlediği kaydedildi.
+
+Yöntem notu: künye değiştiren yardımcı betik `tur:` alanını
+atlıyordu çünkü o alan `ad:` satırından önce geliyor. Üç dosyada
+yanlış tür kaldı ve elle düzeltildi. Betik bir sonraki kullanımda
+düzeltilmeli.

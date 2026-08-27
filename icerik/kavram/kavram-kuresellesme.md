@@ -26,12 +26,12 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Globalization"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Immanuel Wallerstein"
-    url: https://en.wikipedia.org/wiki/Immanuel_Wallerstein
+    tur: veri
+    ad: "Our World in Data - Trade as share of GDP (CSV verisi)"
+    url: https://ourworldindata.org/grapher/trade-as-share-of-gdp.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Wallerstein"
-    not: "Yakin kavramin gelistiricisi"
+    dogrulama_dizesi: "ne_trd_gnfs_zs"
+    not: "Kavramin dogrudan olcusu"
   - anahtar: k3
     tur: veri
     ad: "Our World in Data - Population, long-run with projections (CSV verisi)"

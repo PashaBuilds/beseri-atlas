@@ -30,12 +30,13 @@ kaynaklar:
     dogrulama_dizesi: "population_historical"
     not: "Olcunun uygulandigi toplam; bagimsiz alan adi"
   - anahtar: k3
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Black Death"
-    url: https://en.wikipedia.org/wiki/Black_Death
+    tur: birincil
+    birincil_tur: tanik
+    ad: "Procopius - History of the Wars (Dewing cevirisi, 1914)"
+    url: https://archive.org/details/procopius0003proc
     erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Black Death"
-    not: "Kaynagin kayda deger salginlar arasinda saydigi ornek"
+    dogrulama_dizesi: "Procopius"
+    not: "Erken bir salgina dair dogrudan taniklik"
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
