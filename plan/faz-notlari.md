@@ -3658,7 +3658,7 @@ dosyalarındaki dizeler alınarak düzeltildi.
 
 Plan: her turda bir dönem dosyası. 15 dosya kaldı.
 
-## 2026-08-26 — donem-14 onarıldı (452 → 2517)
+## 2026-08-26 — donem-14 onarıldı (452 → 2500+)
 
 İkinci dönem dosyası. Aynı yöntem: uzunluk değil, atlasın kendi
 ölçütlerinin döneme uygulanması.

@@ -683,6 +683,20 @@ dosyaları.
 seyri ve bir serinin eğrisi aynı olguyu üç ayrı düzeyde
 kaydeder.[^k5]
 
+
+## Dönemin adlandırılması
+
+Dönemin yaygın adı, savaş sözcüğünü içerir ama iki taraf arasında
+savaş yaşanmamıştır.[^k1] Ad, doğrudan çarpışmanın yokluğunu değil
+sürekli hazırlık hâlini anlatır.
+
+Adın kendisi taraflardan birinin kullanımıyla yaygınlaştı.[^k3] Karşı
+taraf uzun süre farklı adlandırmalar kullandı.
+
+Atlas bu tercihi ayrıca kaydeder.[^k4] Bir dönemin yaygın adı, o adı
+üreten tarafın çerçevesini de taşır ve atlas adı kullanırken bu kaydı
+düşer.[^k5]
+
 ## Fikir dünyası
 
 Dönemin fikir dünyası, ABD ile SSCB arasındaki jeopolitik rekabetin[^k1] iki
