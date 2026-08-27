@@ -3915,3 +3915,40 @@ düzenlemenin kendisini hedef alır (1815 düzeni → 1848 dalgası).
   katmanındaki birçok serinin neden burada başladığını açıklıyor.
 
 Kalan dönem dosyaları: 01–07, 13.
+
+## 2026-08-26 — donem-13 onarıldı (1142 → 2500+)
+
+Dokuzuncu dönem dosyası. 1914–1945.
+
+Dosyanın adlandırma tercihi ayrıca gerekçelendirildi: iki savaş tek bir
+uzun krizin parçası sayılıyor, çünkü ikinci savaşın koşullarının önemli
+bölümü birincinin ardından kurulan düzenlemelerde kayıtlı. Ama tercih
+mutlaklaştırılmadı — aradaki yılları bağımsız dönem sayan okuma da aynı
+kayıtlarla uyumlu.
+
+Öne çıkan kayıtlar:
+- Ulus ölçütüne dayanan sınır çizimi, karışık yerleşim düzeninde
+  kaçınılmaz olarak azınlık üretir. Nüfus mübadelesi bu sorunun
+  çözümü olarak denendi ve tercih ayrıca kaydedildi: sınırı nüfusa
+  uydurmak yerine nüfusu sınıra uydurmak seçildi; hangi tarafın
+  taşınabilir sayıldığını gösteriyor.
+- Korumacılığa dönüş: her ülke için tek tek makul olan tedbir toplamda
+  zarar verdi. Tek tek akılcı kararların toplamı, hiçbir tarafın
+  istemediği bir sonuç üretebilir.
+- Sömürge askerleri iki savaşta da toplandı, savaş sonrası hakları
+  genişletilmedi. Bir yükümlülüğün paylaşılması, karşılığında hak
+  talebini meşrulaştırır — aynı ölçüm oy hakkının genişlemesinde de
+  işledi.
+- Altın standardını erken bırakanların daha hızlı toparlanması, dönemin
+  en net sayısal bulgusu olarak kaydedildi: aynı krize farklı
+  zamanlarda verilen aynı cevap, karşılaştırılabilir bir doğal deney
+  sunuyor.
+- Kamu harcaması payı her savaştan sonra savaş öncesine dönmedi:
+  olağanüstü koşullarda genişleyen kapasite, koşullar geçtikten sonra
+  tümüyle geri çekilmiyor.
+- 1918 salgını savaşın bilançosuyla birlikte kaydedildi — bir savaşın
+  bilançosu, kolaylaştırdığı salgını dışarıda bırakarak çıkarılamaz.
+- Kadınların savaş yıllarındaki istihdamının savaş sonrası geri
+  alınması, donem-08'deki aynı örüntünün tekrarı olarak bağlandı.
+
+Kalan dönem dosyaları: 01–07.
