@@ -696,6 +696,21 @@ Atlas bu zemini ayrıca kaydeder.[^k1] Bir dönemin olayları, o dönemin
 demografik durumu belirtilmeden tam olarak
 değerlendirilemez.
 
+
+## Kaydın bölgesel dengesizliği
+
+Bu dönem için kayıt bölgeler arasında çok eşitsiz dağılır.[^k1] Bazı
+bölgeler için ayrıntılı vergi ve mahkeme serisi varken, bazıları için
+yalnızca dolaylı anlatılar bulunur.
+
+Salgının etkisi bu yüzden her yerde aynı güvenle
+ölçülemez.[^k3] Kaydı zengin olan bölgelerin sayıları, kaydı zayıf
+bölgelere uzatılamaz.
+
+Atlas bu kısıtı ayrıca beyan eder.[^k5] Bir bölge için ölçülen bir
+oranı bütün kıtaya uygulamak, ölçümü değil varsayımı
+yaymaktır.
+
 ## Fikir dünyası
 
 Kara Ölüm'ün fikir dünyasındaki izi, adlandırmanın kendisinden okunabilir.
