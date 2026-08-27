@@ -4070,3 +4070,43 @@ KAPI 4 yine "çeper" terimini yakaladı — aynı hatayı iki dosyada
 yaptım.
 
 Kalan dönem dosyaları: 01–05.
+
+## 2026-08-26 — donem-05 onarıldı (652 → 2300+)
+
+On ikinci dönem dosyası. 200–650.
+
+Dosyanın en önemli kaydı göstergelerin çelişmesi: aynı dönem için
+kentleşme ve uzun mesafeli ticaret gerilerken, yerel üretim, kırsal
+yerleşim ve dinî kurum sayısı artıyor. Ölçüm: bir dönemi tek bir
+göstergeyle değerlendirmek, o göstergenin seçimini gizli bir yargıya
+çevirir. "Çöküş mü dönüşüm mü" tartışması bu çelişkiden doğuyor.
+
+Diğer kayıtlar:
+- Kavimler hareketi: itici ve çekici etkenler ayrı ayrı sayıldı;
+  istila mı yerleşme mi sorusunda arkeolojik kanıtın iki senaryoyla da
+  uyumlu olduğu kaydedildi — aynı kanıtla iki senaryo uyumluysa kanıt
+  seçim yapmaya yetmiyor.
+- Adlandırmanın etkisi: "barbar istilaları" bir tarafın kendi
+  kaydından geliyor ve o çerçeveyi taşıyor.
+- Denk güçler arasındaki uzun çatışma, sınırı değiştirmeden her iki
+  tarafın kaynağını tüketebilir — dönemin sonundaki hızlı genişleme bu
+  tükenmeyle birlikte okundu, ama genişleyen tarafın kendi kapasitesi
+  de görmezden gelinmedi.
+- Prokopios'un aynı hükümdar hakkında karşıt iki metin yazması ayrıca
+  kaydedildi: ikisinin de dönemin siyasi baskısı altında yazıldığını
+  gösteriyor.
+- Kaydın seyrekleşmesi dönem hakkında bir bilgi: az kayıt bırakmak, az
+  şey olduğunu değil kayıt kapasitesinin düştüğünü gösteriyor.
+- Hukuk derlemesi: bir derleme mevcut hukuku kaydetmekle kalmıyor,
+  hangisinin geçerli olduğuna da karar veriyor. Etkisi de derlendiği
+  dönemde değil, yüzyıllar sonra yeniden okunduğu dönemde ölçülüyor.
+
+Künye onarımı: k3 dönem dışı bir kaynaktı (Thukydides, MÖ 5. yy).
+Yerine Prokopios'un History of the Wars'ı (1914 Dewing çevirisi,
+birincil/tanık) kondu; TDV SÂSÂNÎLER ve TDV BİZANS k4 ve k5 olarak
+eklendi.
+
+KAPI 7 bir telif hatası yakaladı — aynı kaynaktan iki alıntı; ikincisi
+tırnaktan çıkarıldı.
+
+Kalan dönem dosyaları: 01–04.

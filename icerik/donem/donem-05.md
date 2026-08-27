@@ -88,12 +88,26 @@ kaynaklar:
   - anahtar: k3
     tur: birincil
     birincil_tur: tanik
-    ad: "Thucydides, The Peloponnesian War, Book 1 (Perseus Digital Library)"
-    url: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0200
+    ad: "Procopius - History of the Wars (Dewing cevirisi, 1914)"
+    url: https://archive.org/details/procopius0003proc
     erisim_tarihi: 2026-08-20
-    dogrulama_dizesi: "The Peloponnesian War"
-    not: "Salgın anlatısının klasik öncülü için karşılaştırma kaynağı"
-son_denetim: 2026-08-20
+    dogrulama_dizesi: "Procopius"
+    not: "Donemin savaslarina ve vebasina dair dogrudan taniklik"
+  - anahtar: k4
+    tur: ansiklopedi
+    ad: "TDV Islam Ansiklopedisi - SASANILER"
+    url: https://islamansiklopedisi.org.tr/sasaniler
+    erisim_tarihi: 2026-08-26
+    dogrulama_dizesi: "SÂSÂNÎLER"
+    not: "Duellonun dogu tarafinin kendi maddesi"
+  - anahtar: k5
+    tur: ansiklopedi
+    ad: "TDV Islam Ansiklopedisi - BIZANS"
+    url: https://islamansiklopedisi.org.tr/bizans
+    erisim_tarihi: 2026-08-26
+    dogrulama_dizesi: "BİZANS"
+    not: "Duellonun bati tarafinin kendi maddesi"
+son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -178,6 +192,439 @@ Sasani kuvvetleri Suriye, Filistin ve Mısır dahil doğu Roma Yakın Doğusu'nu
 büyük bölümünü işgal etti.[^k1] Bu düellonun her iki tarafı da tüketmesi, dönemin
 sonunda ortaya çıkacak yeni gücün karşısında bulacağı boşluğu açıklar; o gelişme
 [650–1000](/donem/06/) dosyasının konusudur.
+
+
+## Dönem sınırının gerekçesi
+
+Başlangıç, imparatorluğun idari olarak yeniden düzenlendiği yıllara
+yakın konmuştur.[^k1] Bitiş, yeni bir siyasi ve dinî düzenin bölgede
+yerleşmesidir.
+
+Sınırlar geniş bir aralıkta tartışılır.[^k4] Bazı okumalar dönemi iki
+yüzyıl daha geriye, bazıları bir yüzyıl daha ileriye
+taşır.
+
+Atlas bu aralığı ayrıca beyan eder.[^k5] Geçiş dönemlerinin sınırları,
+olay dönemlerininkinden daha tartışmalıdır.
+
+## Çöküş mü dönüşüm mü
+
+Dönemin okunma biçimi bir tartışma konusudur.[^k1] Bir okuma bunu bir
+çöküş, diğeri bir dönüşüm sayar.
+
+İki okuma aynı kayıtlara dayanır.[^k5] Fark, hangi göstergenin
+seçildiğindedir.
+
+Atlas iki okumayı da kaydeder.[^k4] Kent nüfusu ve ticaret hacmi
+düşerken, yerleşim sayısı ve dinî yapı inşası
+artmıştır.
+
+## Göstergelerin çelişmesi
+
+Bu çelişki dosyanın en önemli kaydıdır.[^k2] Aynı dönem için farklı
+göstergeler karşıt yönde hareket eder.
+
+Kentleşme ve uzun mesafeli ticaret geriler.[^k1] Yerel üretim, kırsal
+yerleşim ve dinî kurum sayısı artar.
+
+Atlas bu durumu ayrıca kaydeder.[^k5] Bir dönemi tek bir göstergeyle
+değerlendirmek, o göstergenin seçimini gizli bir yargıya
+çevirir.
+
+## Sikke ve ticaret
+
+Sikke buluntularının dağılımı dönemde belirgin biçimde
+daralır.[^k1] Uzun mesafeli ticaretin gerilediğine dair en güçlü
+kanıtlardan biridir.
+
+Daralma her yerde aynı ölçüde değildir.[^k5] Doğu Akdeniz'de ticaret
+daha uzun süre canlı kaldı.
+
+Atlas bu farkı ayrıca kaydeder.[^k4] Bir bölgesel gerilemenin bütün
+kıtaya uzatılması, en sık yapılan
+genellemelerdendir.
+
+## Vergi düzeninin çözülmesi
+
+Merkezî vergi toplama kapasitesi dönem boyunca azaldı.[^k1] Nakit
+vergi yerini ayni yükümlülüğe bıraktı.
+
+Bu, ordunun finansmanını da değiştirdi.[^k3] Ücretli asker yerine
+toprağa bağlı hizmet düzeni yaygınlaştı.
+
+Atlas bu zinciri ayrıca kaydeder.[^k5] Vergi kapasitesindeki bir
+düşüş, askerî örgütlenmeyi doğrudan yeniden
+biçimlendirir.
+
+## Ordu düzeninin değişimi
+
+Ordular küçüldü ve yerelleşti.[^k3] Merkezden ödenen ve merkeze bağlı
+birlikler yerini yerel güçlere bıraktı.
+
+Bu değişim, siyasi yetkiyi de yerelleştirdi.[^k1] Askerî gücü elinde
+tutan, vergi ve hukuk yetkisini de fiilen
+edindi.
+
+Atlas bu bağı ayrıca kaydeder.[^k5] Zor kullanma kapasitesi
+yerelleştiğinde, diğer yetkiler de aynı yöne
+kayar.
+
+## Kavimler hareketi
+
+Dönemde büyük nüfus grupları sınırlar boyunca yer
+değiştirdi.[^k1] Hareketin nedenleri tartışmalıdır.
+
+İtici etkenler arasında bozkırdan gelen baskı ve iklim değişimi
+sayılır.[^k4] Çekici etken, imparatorluk topraklarının
+zenginliğidir.
+
+Atlas iki tür etkeni ayrı ayrı sayar.[^k5] Bir göç dalgasının nedeni,
+kaynağın itmesi ile hedefin çekmesinin bileşkesidir ve ikisi ayrı
+ayrı ölçülmelidir.
+
+## İstila mı yerleşme mi
+
+Hareketin niteliği de tartışmalıdır.[^k1] Bir okuma silahlı istila,
+diğeri kademeli yerleşme sayar.
+
+Arkeolojik kanıt ikisini ayırt etmekte zorlanır.[^k4] Yerleşim
+biçimindeki değişim, her iki senaryoyla da
+uyumludur.
+
+Atlas bu belirsizliği korur.[^k5] Aynı kanıtla iki senaryo uyumluysa,
+kanıt seçim yapmaya yetmiyordur.
+
+## Adlandırmanın etkisi
+
+Kullanılan terim, okumayı da belirler.[^k1] Halkların yer değiştirmesi
+olarak adlandırmak ile dışarıdan gelen saldırı olarak adlandırmak,
+aynı olayı iki farklı çerçeveye yerleştirir.
+
+İkinci terim, bir tarafın kendi kaydından
+gelir.[^k3] Adlandırma o kaydın çerçevesini taşır.
+
+Atlas bu bağı ayrıca kaydeder.[^k5] Bir olaya verilen ad, o olayı
+kimin kaydettiğini de gösterir.
+
+## İki büyük gücün düellosu
+
+Doğuda iki büyük düzen yüzyıllar boyunca birbiriyle
+savaştı.[^k4] Savaşlar aralıklarla ve aynı hat üzerinde
+yürüdü.
+
+Hiçbiri diğerini kesin olarak yenemedi.[^k5] Sınır hattı yüzyıllar
+boyunca aynı bölgede kaldı.
+
+Atlas bu dengeyi ayrıca kaydeder.[^k3] Denk güçler arasındaki uzun bir
+çatışma, sınırı değiştirmeden her iki tarafın kaynağını
+tüketebilir.
+
+## Tükenmenin sonucu
+
+Dönemin sonundaki son büyük savaş her iki tarafı da
+tüketti.[^k4] Savaşın bitiminden kısa süre sonra bölgede yeni bir güç
+belirdi.
+
+İki olay arasındaki kısa aralık ayrıca kaydedilmelidir.[^k5] Yeni
+gücün hızlı genişlemesi, karşısındakilerin durumundan bağımsız
+açıklanamaz.
+
+Atlas bu bağı ihtiyatla kurar.[^k1] Bir genişlemenin karşı tarafın
+zayıflığıyla açıklanması, genişleyen tarafın kendi kapasitesini
+görmezden gelir.
+
+## Vebanın gelişi
+
+Dönemin ortasında büyük bir salgın yaşandı.[^k3] Salgın, Akdeniz
+ticaret ağını izleyerek yayıldı.
+
+Etkisi tartışmalıdır.[^k1] Bazı okumalar dönemin çözülmesinde
+belirleyici sayar, bazıları ikincil.
+
+Atlas bu tartışmayı karara bağlamaz.[^k5] Salgının kaydı büyük ölçüde
+tek bir tanığa dayanır ve bu, ölçmeyi
+zorlaştırır.
+
+## Tanıklığın konumu
+
+Salgının en ayrıntılı kaydı bir saray tarihçisine
+aittir.[^k3] Aynı yazar, aynı hükümdar hakkında birbirine karşıt iki
+metin yazmıştır.
+
+Bu, tanıklığın değerlendirilmesini zorlaştırır.[^k1] İki metinden
+hangisinin yazarın görüşünü taşıdığı
+tartışmalıdır.
+
+Atlas bu durumu ayrıca kaydeder.[^k5] Aynı yazarın karşıt iki metni,
+ikisinin de dönemin siyasi baskısı altında yazıldığını
+gösterir.
+
+## Nüfusun seyri
+
+Dönem boyunca bölgesel nüfus kayıpları yaşandı.[^k2] Kayıpların
+büyüklüğü tartışmalıdır.
+
+Kayıt zayıftır ve tahminler geniş aralıklarla
+verilir.[^k2] Arkeolojik yerleşim yoğunluğu başlıca dolaylı
+göstergedir.
+
+Atlas bu belirsizliği korur.[^k5] Bu dönem için nüfus tahminleri, kat
+düzeyinde farklı sonuçlar veren yöntemlere
+dayanır.
+
+## Dinin siyasi konumu
+
+Dönemin en kalıcı değişimi, dinin siyasi meşruiyetin ana kaynağı
+hâline gelmesidir.[^k1] Değişim üç bölgede de yaşandı.
+
+Bu, önceki dönemin çok tanrılı ve yerel düzeninden farklıdır.[^k4]
+Yeni düzende tek bir çerçeve, geniş bir alanda ortak bir hukuk dili
+sağlıyordu.
+
+Atlas bu işlevi ayrıca kaydeder.[^k5] Bir inanç çerçevesinin
+yaygınlaşması, yönetim için ortak bir kural dili sağlama ihtiyacıyla
+da açıklanır.
+
+## Konsil ve tanım
+
+Dinî çerçevenin içeriği toplantılarla belirlendi.[^k1] Toplantılarda
+kabul edilen tanımlar bağlayıcı sayıldı.
+
+Tanım dışında kalan gruplar ayrıldı.[^k4] Ayrılan gruplar kendi
+kurumlarını kurdu.
+
+Atlas bu işlemi ayrıca kaydeder.[^k5] Bir inanç çerçevesinin
+tanımlanması, aynı anda o tanımın dışında kalanların da
+tanımlanmasıdır.
+
+## Ayrılan grupların akıbeti
+
+Ayrılan gruplar çoğu zaman imparatorluk sınırlarının dışına ya da
+çeperine yerleşti.[^k4] Bazıları rakip düzenin himayesinde
+yaşadı.
+
+Bu, dinî ayrımın siyasi bir boyut kazanmasını sağladı.[^k3] Mezhep
+farkı, sınır ötesi bağlılık şüphesine
+dönüştü.
+
+Atlas bu dönüşümü ayrıca kaydeder.[^k1] Bir inanç ayrımının siyasi
+sonuç doğurması, ayrımın kendisinden çok tarafların onu nasıl
+okuduğuna bağlıdır.
+
+## Manastır düzeni
+
+Dönemde manastır kurumu yaygınlaştı.[^k1] Kurumlar hem üretim hem
+kayıt merkezi hâline geldi.
+
+Yazılı metinlerin korunması büyük ölçüde bu kurumlara
+bağlıydı.[^k5] Kopyalama işi burada yürütüldü.
+
+Atlas bu bağı ayrıca kaydeder.[^k4] Bu dönemden bugüne ulaşan
+metinlerin çoğu, bu kurumların seçtiği ve kopyaladığı
+metinlerdir.
+
+## Diğer bölgelerdeki eşzamanlı düzenler
+
+Aynı yüzyıllarda başka bölgelerde büyük düzenler kuruldu ya da
+sürdü.[^k4] Bunların bir bölümü Akdeniz'deki çözülmeden
+etkilenmedi.
+
+Doğuda ve güneyde kentleşme ve ticaret sürdü.[^k5] Bazı bölgelerde bu
+yüzyıllar bir yükseliş dönemidir.
+
+Atlas bu dengeyi ayrıca kaydeder.[^k1] Bir bölgenin gerileme dönemi,
+başka bir bölgenin yükseliş dönemi
+olabilir.
+
+## Kaydın durumu
+
+Bu dönem için yazılı kayıt önceki döneme göre
+azalır.[^k1] Azalma, kayıt üreten kurumların zayıflamasıyla
+açıklanır.
+
+Azalma, olayların azaldığını göstermez.[^k5] Kaydın seyrekleşmesi
+dönemin kendisi hakkında bir bilgidir.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k4] Bir dönemin az kayıt bırakması,
+o dönemde az şey olduğunu değil kayıt kapasitesinin düştüğünü
+gösterir.
+
+## Arkeolojinin payı
+
+Bu dönem için arkeolojik kanıtın payı yazılı kayda göre
+yüksektir.[^k5] Yerleşim yoğunluğu, çanak çömlek dağılımı ve yapı
+kalıntıları başlıca kaynaklardır.
+
+Bu kanıt türü farklı sorulara cevap verir.[^k1] Tek tek olayları değil,
+uzun süreli eğilimleri gösterir.
+
+Atlas bu farkı ayrıca kaydeder.[^k4] Kanıt türü değiştiğinde, sorulabilecek
+soru da değişir.
+
+## Dönemi atlasta okumak
+
+Bu döneme bağlanan dosyalar dört öbekte toplanır.[^k1] İki büyük gücün
+aktör dosyaları, salgın ve göç olay dosyaları, dinî ve idari kavram
+dosyaları, dönemin veri dosyaları.
+
+Dördü birlikte okunmalıdır.[^k4] Bir sınırın sabitlenmesi, bir
+salgının yayılması, bir tanımın kabul edilmesi ve bir yerleşim
+yoğunluğunun düşmesi aynı dönemi dört ayrı düzeyde
+kaydeder.[^k2]
+
+## Bu dosyanın sınırı
+
+Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
+dosyasında ayrıntılı ele alınır ve burada yalnızca döneme
+bağlanır.
+
+Çöküş tartışması burada karara bağlanmaz.[^k5] Atlasın ayrı bir
+tartışma dosyası bu soruyu ele alır.
+
+Sayısal seriler burada yorumlanır, üretilmez.[^k2] Serilerin
+kaynakları ve yöntemleri atlasın veri dosyalarında ayrı ayrı
+kayıtlıdır.[^k4]
+
+
+## Kentlerin küçülmesi
+
+Dönemde birçok kent belirgin biçimde küçüldü.[^k4] Sur içi alan
+daraldı, kamu yapıları başka amaçlarla kullanıldı.
+
+Küçülme her yerde aynı hızda olmadı.[^k5] Bazı kentler nüfusunu
+korudu, bazıları tümüyle terk edildi.
+
+Atlas bu dağılımı ayrıca kaydeder.[^k1] Bir bölgesel eğilim, o bölgedeki
+her yerleşim için geçerli değildir ve ortalama tek tek
+durumları gizler.
+
+## Yapı malzemesinin değişmesi
+
+Kalıntılar bir başka değişimi gösterir.[^k5] Taş yapının yerini ahşap
+ve kerpiç aldı.
+
+Bu, yalnızca yoksullaşma olarak okunmaz.[^k4] Malzeme değişimi, uzun
+mesafeli tedarik ağının çözülmesiyle de
+açıklanır.
+
+Atlas iki açıklamayı ayrı tutar.[^k1] Aynı kanıt, kaynak yokluğuyla da
+tedarik ağının kesilmesiyle de uyumludur.
+
+## Yol ağının durumu
+
+Dönemde yol ağı bakımsız kaldı.[^k1] Bakım, merkezî bir bütçe
+gerektiriyordu.
+
+Yollar kullanılmaya devam etti.[^k3] Kullanım sürdü, standart
+düştü.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k5] Bir altyapının bakımsız kalması,
+ortadan kalkması anlamına gelmez; menzilini ve kapasitesini
+düşürür.
+
+## Hukukun derlenmesi
+
+Dönemin ortasında kapsamlı bir hukuk derlemesi yapıldı.[^k3] Derleme,
+yüzyıllara yayılmış kararları tek bir düzende
+topladı.
+
+Derleme bir seçimdi.[^k5] Çelişen kararlar arasından biri
+seçiliyordu.
+
+Atlas bu işlemi ayrıca kaydeder.[^k1] Bir hukuk derlemesi, mevcut
+hukuku kaydetmekle kalmaz; hangisinin geçerli olduğuna da karar
+verir.
+
+## Derlemenin sonraki etkisi
+
+Bu derleme sonraki yüzyıllarda yeniden keşfedildi.[^k5] Batıda hukuk
+öğretiminin temeli hâline geldi.
+
+Etki, derlendiği dönemden çok sonraki dönemlerde
+görüldü.[^k4] Aradaki aralık birkaç yüzyıldır.
+
+Atlas bu gecikmeyi ayrıca kaydeder.[^k1] Bir metnin etkisi,
+yazıldığı dönemde değil yeniden okunduğu dönemde
+ölçülür.
+
+
+## İpek ve tekel
+
+Dönemde uzun mesafeli ipek ticareti iki büyük gücün arasındaki
+hattan geçiyordu.[^k4] Aracılık geliri, çatışmanın
+konularındandı.
+
+İpek üretiminin batıda başlaması bu bağımlılığı kısmen
+azalttı.[^k5] Aktarımın nasıl gerçekleştiği anlatılarda
+efsaneleştirilmiştir.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k1] Bir tekniğin aktarımına dair
+anlatı, aktarımın gerçekleştiğini doğrular ama nasıl
+gerçekleştiğini göstermez.
+
+## Deniz yolunun payı
+
+Aynı dönemde Kızıldeniz ve Hint Okyanusu üzerinden işleyen deniz
+ticareti sürdü.[^k4] Bu güzergâh, kara yolundaki çatışmalardan daha az
+etkileniyordu.
+
+Bölgedeki liman kentleri bu ticaretten pay aldı.[^k5] Bazıları bu
+dönemde belirgin biçimde büyüdü.
+
+Atlas bu alternatifi ayrıca kaydeder.[^k1] Bir güzergâhın kesilmesi,
+ticareti durdurmaz; başka bir güzergâha kaydırır ve o güzergâhtaki
+aktarları güçlendirir.
+
+## Aksum ve Güney Arabistan
+
+Aynı yüzyıllarda Kızıldeniz'in iki yakasında güçlü düzenler
+bulunuyordu.[^k4] Bunlar iki büyük gücün rekabetine de dâhil
+oldu.
+
+Bölge, dinî ayrımların da kesiştiği bir alandı.[^k5] Bağlılıklar hem
+ticari hem inanç eksenlerinde kuruluyordu.
+
+Atlas bu kesişimi ayrıca kaydeder.[^k1] Küçük düzenlerin büyük güçler
+arasındaki konumu, iki eksende birden pazarlık imkânı
+sağlayabilir.
+
+## Bozkırdan gelen baskı
+
+Dönem boyunca bozkırdan gelen gruplar hem batıya hem doğuya
+yöneldi.[^k4] Hareket, iki uçtaki yerleşik düzenleri aynı anda
+etkiledi.
+
+Bu, dönemin en geniş kapsamlı bağlantısıdır.[^k5] Bozkırdaki bir
+değişim, binlerce kilometre ötede sonuç
+üretiyordu.
+
+Atlas bu bağı ayrıca kaydeder.[^k1] Yerleşik düzenlerin tarihini
+bozkırdaki hareketlerden ayrı okumak, ortak nedeni görünmez
+kılar.
+
+## Doğu Asya'daki bölünme
+
+Doğuda uzun bir bölünme dönemi yaşandı.[^k5] Merkezî düzen dağıldı ve
+birçok hanedanlık kuruldu.
+
+Aynı yüzyıllarda batıda da benzer bir süreç işledi.[^k4] İki uçtaki
+çözülme birbirinden bağımsızdı.
+
+Atlas bu eş zamanlılığı ayrıca kaydeder.[^k1] Ortak bir neden aramak
+gerekir ama benzerlik tek başına ortak neden kanıtı
+değildir.
+
+## Yeniden birleşme
+
+Doğuda bölünme dönemin sonunda sona erdi.[^k5] Yeni bir merkezî düzen
+kuruldu ve büyük altyapı yatırımları yapıldı.
+
+Batıda benzer bir birleşme yaşanmadı.[^k4] İki uç, aynı süreçten
+farklı sonuçlarla çıktı.
+
+Atlas bu ayrışmayı ayrıca kaydeder.[^k1] Benzer bir çözülmeden
+farklı sonuçlar çıkması, sonucun çözülmenin kendisiyle değil
+zeminiyle belirlendiğini gösterir.
 
 ## Fikir dünyası
 
