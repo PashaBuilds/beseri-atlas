@@ -91,6 +91,109 @@ Atlas bu seriyi ticaret hacminin göstergesi olarak sunmaz; seri nüfus verir,
 ticaret vermez.[^k1][^k3] Ticaretle kurulmuş bir siyasi biçim
 [Hansa Birliği](/aktor/hansa-birligi/) dosyasında ele alınıyor.
 
+
+## Tanım
+
+Ticaret diasporası, aynı kökenden gelen tüccarların uzak limanlarda
+kurduğu yerleşik topluluklar ağıdır.[^k1] Topluluklar birbiriyle
+bağlantılıdır.
+
+Ağ siyasi bir birim değildir.[^k2] Üyeleri bulundukları yerin
+yönetimine tabidir.
+
+Atlas bu ayrımı kavramın merkezine koyar.[^k3] Bir ticaret ağı, siyasi
+sınırlardan bağımsız işleyebilir ve bu onun en belirgin
+özelliğidir.
+
+## Güvenin kaynağı
+
+Uzun mesafeli ticaret güven gerektirir.[^k1] Malı teslim eden ile
+ödemeyi alan çoğu zaman birbirini görmez.
+
+Ortak köken bu güveni sağlar.[^k2] Akrabalık, ortak dil ve ortak inanç
+bir yaptırım mekanizması üretir.
+
+Atlas bu mekanizmayı ayrıca kaydeder.[^k3] Hukuki yaptırımın
+ulaşmadığı bir mesafede, topluluk içi itibar tek yaptırım
+aracı olabilir.
+
+## İtibarın işleyişi
+
+Yaptırım, ticaretten dışlanma tehdididir.[^k1] Sözünde durmayan bir
+üye, ağın tamamıyla ilişkisini kaybeder.
+
+Bu, mahkemeden hızlı ve ucuzdur.[^k2] Bilgi ağ içinde hızla
+yayılır.
+
+Atlas bu düzeni ayrıca kaydeder.[^k3] Bir yaptırım mekanizmasının
+etkisi, bilginin ne kadar hızlı yayıldığına
+bağlıdır.
+
+## Aracılık işlevi
+
+Diaspora toplulukları iki tarafı da tanır.[^k1] Yerel dili ve yerel
+âdeti bilirler; aynı zamanda kendi kökenlerinin ağına
+bağlıdırlar.
+
+Bu, onları vazgeçilmez aracı yapar.[^k2] Aynı konum onları hedef de
+hâline getirir.
+
+Atlas bu ikiliği ayrıca kaydeder.[^k3] Aracı bir topluluğun konumu,
+onu hem gerekli hem kırılgan
+kılar.
+
+## Kırılganlığın kaynağı
+
+Aracılıktan doğan bir gelir, tarafların doğrudan ilişki kurması
+hâlinde yok olur.[^k1] Bu, atlasın birçok dosyasında
+kayıtlıdır.
+
+İkinci kırılganlık siyasidir.[^k2] Kriz dönemlerinde aracı topluluk,
+her iki tarafça da yabancı sayılabilir.
+
+Atlas bu riski ayrıca kaydeder.[^k3] İki tarafı da tanıyan bir
+topluluk, gerginlik arttığında ikisine de ait
+sayılmayabilir.
+
+## Yerel uyum
+
+Diaspora toplulukları bulundukları yere uyum sağlar.[^k1] Dil, giyim ve
+gündelik âdet yerelleşir.
+
+Ayırt edici bağ çoğu zaman inanç ve evlilik düzeniyle
+korunur.[^k2] Bu iki alan, uyumun sınırını
+belirler.
+
+Atlas bu sınırı ayrıca kaydeder.[^k3] Bir topluluğun sürekliliği,
+en çok grup içi evlilik kuralıyla
+korunur.
+
+## Kaydın durumu
+
+Bu topluluklar hakkındaki kayıt iki yerden
+gelir.[^k1] Kendi ticaret defterleri ve bulundukları yerin idari
+kayıtları.
+
+İki kayıt farklı şeyler gösterir.[^k2] Defter ağın işleyişini, idari
+kayıt topluluğun hukuki konumunu
+gösterir.
+
+Atlas ikisini birlikte kullanır.[^k3] Bir topluluğun ağırlığı,
+kendi kaydından değil bulunduğu yerin vergi kayıtlarından da
+okunabilir.
+
+## Ölçüt
+
+Kavram üç ölçütle uygulanır.[^k1] Ortak köken, birden çok limanda
+yerleşiklik ve limanlar arası düzenli bağlantı.
+
+Üçü birlikte gerekir.[^k2] Tek bir limanda yerleşik bir tüccar grubu bu
+kavramı gerektirmez.
+
+Atlas bu ölçütleri her dosyada uygular.[^k3] Bir ağın varlığı,
+düğümlerin sayısı kadar aralarındaki bağlantının düzenliliğiyle de
+ölçülür.
+
 ## Bu dosyanın sınırı
 
 Yolların ayrıntısı, taşınan mallar ve ticaretin iktisadi etkileri burada ayrı

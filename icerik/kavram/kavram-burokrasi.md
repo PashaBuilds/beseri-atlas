@@ -91,6 +91,109 @@ bulunur; aynı kayıt onu 1864-1920 arasına yerleştirir ve otoritenin üçlü
 sınıflandırmasını karizmatik, akılcı-yasal ve geleneksel olarak verir.[^k3] O
 yazar [Max Weber](/dusunur/weber/) dosyasında ele alınıyor.
 
+
+## Altı ölçüt
+
+Kavramı tanımlayan yazar altı ölçüt sayar.[^k1] Yetkinin göreve
+bağlanması, açık bir hiyerarşi, yazılı kural, uzmanlık, tam zamanlı
+görev ve göreve ehliyetle atanma.
+
+Altısı bir arada ender bulunur.[^k2] Gerçek düzenler bu ölçütlerin
+bazılarını karşılar.
+
+Atlas bu dereceli okumayı yeğler.[^k3] İdeal tip, varlık yokluk değil
+mesafe ölçmeye yarar.
+
+## Kayıt kapasitesiyle bağı
+
+Bürokrasi yazılı kayıt olmadan işleyemez.[^k1] Kural yazılı değilse,
+uygulama kişiye bağlı kalır.
+
+Bu, kavramı yazının yaygınlığına doğrudan
+bağlar.[^k2] Kayıt kapasitesi düşük bir düzen, bürokratik
+olamaz.
+
+Atlas bu bağı ayrıca kaydeder.[^k3] Bürokrasinin sınırı, o düzenin
+kayıt tutma kapasitesinin sınırıdır.
+
+## Görevin soydan geçmemesi
+
+En belirleyici ölçüt budur.[^k1] Görev soydan geçtiğinde, yetkinin
+kaynağı da kural olmaktan çıkar.
+
+Sınav düzenleri bu ölçütü karşılamak için
+kuruldu.[^k2] Atlasın Doğu Asya dosyalarında bu düzen
+kayıtlıdır.
+
+Atlas bu bağı ayrıca kaydeder.[^k3] İdari görevlerin soydan geçmemesi,
+hanedan verasetinden ayrı ve daha erken kurumsallaşabilen bir
+düzendir.
+
+## Denetim mekanizması
+
+Bürokrasi kendi kendini denetlemez.[^k1] Bir dış denetim katmanı
+gerekir.
+
+Tarihsel düzenlerde bu, ikinci bir görevli kanalıyla
+sağlandı.[^k2] Atlasın birçok dosyasında aynı düzenleme
+kayıtlıdır.
+
+Atlas bu tekrarı ayrıca kaydeder.[^k3] Bir merkezin taşradan iki
+bağımsız kanaldan bilgi alması, denetim kapasitesinin ortak
+ölçüsüdür.
+
+## Bürokrasinin kendi çıkarı
+
+Kavramın en sık anılan sorunu budur.[^k1] Bir görevli kadrosu zamanla
+kendi grup çıkarını geliştirir.
+
+Bu, kurumun kurulma amacına aykırı işleyebilir.[^k2] Kural,
+uygulanmaktan çok korunacak bir konum hâline
+gelebilir.
+
+Atlas bu örüntüyü ayrıca kaydeder.[^k3] Aynı bulgu atlasın askerî
+kadro dosyalarında da kayıtlıdır: bağımsız olsun diye kurulan bir
+kurum, bağımsızlığını kuranına karşı da
+kullanabilir.
+
+## Ölçek koşulu
+
+Bürokrasi küçük ölçekte pahalıdır.[^k1] Yazılı kural ve tam zamanlı
+görevli, küçük bir birim için gereksiz bir yük
+olabilir.
+
+Ölçek büyüdükçe alternatifi kalmaz.[^k2] Kişiye bağlı bir düzen
+belirli bir büyüklükten sonra işlemez.
+
+Atlas bu eşiği ayrıca kaydeder.[^k3] Bir yönetim biçiminin
+yeterliliği, yönettiği alanın büyüklüğüne göre
+değişir.
+
+## Ölçmenin yolu
+
+Kavram doğrudan ölçülemez ama izleri
+sayılabilir.[^k1] Görevlilerin görev süresi, atanma ölçütleri ve
+üretilen belge miktarı göstergedir.
+
+Uzun görev süreleri kurala bağlılığı, sık azil kişiye bağlılığı
+gösterir.[^k2] İki gösterge zıt yönde
+okunur.
+
+Atlas bu göstergeleri ayrıca kaydeder.[^k3] Doğrudan ölçülemeyen bir
+kavram, karşılaştırılabilir dolaylı göstergelerle izlenebilir.
+
+## Atlasta kullanımı
+
+Atlas kavramı bir övgü olarak kullanmaz.[^k1] Bürokratik bir düzen,
+patrimonyal bir düzenden zorunlu olarak iyi
+değildir.
+
+Kavram bir ölçüttür.[^k2] Altı ölçütün her düzen için ayrı ayrı
+cevabı verilir.
+
+Sonuç dereceli olarak kaydedilir.[^k3] Bir düzen bazı ölçütlerde
+bürokratik, bazılarında değildir.
+
 ## Bu dosyanın sınırı
 
 Kavramın tanımı, ülke ülke tarihler ve kuramların içeriği burada ayrı başlıklar
