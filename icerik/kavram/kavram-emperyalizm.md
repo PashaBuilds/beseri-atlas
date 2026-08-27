@@ -35,11 +35,11 @@ kaynaklar:
     dogrulama_dizesi: "Imperialism"
   - anahtar: k2
     tur: ansiklopedi
-    ad: "Wikipedia (EN) - Decolonisation of Africa"
-    url: https://en.wikipedia.org/wiki/Decolonisation_of_Africa
+    ad: "Stanford Encyclopedia of Philosophy - Colonialism"
+    url: https://plato.stanford.edu/entries/colonialism/
     erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Decolonisation of Africa"
-    not: "Kavramin sona erdirilme sureci"
+    dogrulama_dizesi: "Colonialism"
+    not: "Kavramin hukuki ve felsefi cercevesi"
   - anahtar: k3
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Karl Marx"
@@ -87,6 +87,115 @@ sömürüsünü bir insan hakları ihlali saydığını ve iktidarın devredilme
 gerektiğini belirttiğini yazar.[^k2] O süreç
 [Afrika bağımsızlık dalgası](/olay/afrika-bagimsizlik-dalgasi/) dosyasında ele
 alınıyor.
+
+
+## Kavramın sınırı
+
+Kavram her genişlemeyi kapsamaz.[^k1] Atlas üç ölçüt
+uygular.
+
+Birincisi, kararın nerede alındığıdır.[^k2] İkincisi, gelirin nereye
+aktığıdır. Üçüncüsü, yönetilenlerin karar sürecine katılıp
+katılmadığıdır.
+
+Üçü birlikte bakılır.[^k3] Yalnızca toprak genişlemesi bu kavramı
+gerektirmez.
+
+## Sömürgecilikle farkı
+
+İki kavram sık karıştırılır.[^k1] Sömürgecilik yerleşim ve doğrudan
+yönetim içerir.
+
+Emperyalizm daha geniştir.[^k2] Yerleşim olmadan da, doğrudan yönetim
+olmadan da kurulabilir.
+
+Atlas bu farkı ayrıca kaydeder.[^k3] Bir gelirin denetimi, bir toprağın
+işgali olmadan da bağımlılık
+üretebilir.
+
+## Biçimsel olmayan biçimler
+
+Kavramın en zor ölçülen biçimi budur.[^k1] Borç, ticaret anlaşması ve
+askerî üs yoluyla kurulan bağımlılık, hukuken egemen bir devlette de
+görülür.
+
+Bu biçim atlasın birçok dosyasında kayıtlıdır.[^k2] Gümrük denetimi ve
+yaptırım araçları bunlar arasındadır.
+
+Atlas bu biçimi ayrıca kaydeder.[^k3] Egemenliğin biçimsel olarak
+korunması, fiilî bağımlılığın bulunmadığını
+göstermez.
+
+## Kavramın kullanımı
+
+Terim, kendi döneminde bir eleştiri terimi olarak
+yaygınlaştı.[^k2] Kullananların çoğu, tanımladıkları düzene karşı
+çıkıyordu.
+
+Bu, terimi geçersiz kılmaz.[^k1] Ancak tanımın kimin elinde
+şekillendiğini gösterir.
+
+Atlas bu kaydı ayrıca düşer.[^k3] Bir kavramın eleştirel amaçla
+kurulmuş olması, çözümleyici değerini ortadan
+kaldırmaz.
+
+
+## Ölçülebilir izler
+
+Kavram soyut olsa da izleri sayılabilir.[^k1] Ticaretin yönü, sermaye
+akışının yönü ve karar mercilerinin konumu
+ölçülebilir.
+
+Bir bölgenin ihracatının tek bir ülkeye yönelmesi bir
+göstergedir.[^k2] Getirinin nereye döndüğü bir
+başkasıdır.
+
+Atlas bu göstergeleri ayrı ayrı kaydeder.[^k3] Bir bağımlılık iddiası,
+en az iki bağımsız göstergeyle
+desteklenmelidir.
+
+## Merkez ve çevre
+
+Kavramın yaygın bir çözümlemesi ikili bir yapı
+kurar.[^k2] Merkez sanayi ürünü, çevre hammadde
+üretir.
+
+Bu şema kullanışlıdır ve eksiktir.[^k1] Ara konumdaki bölgeleri ve
+zamanla yer değiştirenleri
+açıklamaz.
+
+Atlas şemayı ihtiyatla kullanır.[^k3] İkili bir model, gerçek
+dağılımın ancak uçlarını
+gösterir.
+
+## Sona ermesi
+
+Biçimsel emperyalizm yirminci yüzyılda büyük ölçüde sona
+erdi.[^k2] Biçimsel olmayan biçimlerin sona erip ermediği
+tartışmalıdır.
+
+Atlas bu tartışmayı karara bağlamaz.[^k1] Kaydettiği şey, ölçütlerin
+her dönem için ayrı ayrı uygulanması
+gerektiğidir.
+
+Ölçütler sabittir, sonuç dönemden döneme değişir.[^k3] Bir kavramın
+yararı, farklı dönemlere aynı soruyu sorabilmesinden
+gelir.
+
+
+## Atlasın kullanım kuralı
+
+Atlas kavramı her dosyada aynı üç soruyla
+uygular.[^k1] Karar nerede alındı, gelir nereye aktı, yönetilenler
+karara katıldı mı.
+
+Üç sorunun cevabı dosyada açıkça
+yazılır.[^k2] Etiket yapıştırmak yerine ölçüt
+uygulanır.
+
+Bu, kavramın tartışmalı olmasından
+doğar.[^k3] Tartışmalı bir kavram, ancak ölçütleri açıkça
+yazıldığında kullanılabilir.
 
 ## Bu dosyanın sınırı
 

@@ -31,11 +31,11 @@ kaynaklar:
     not: "Kamusal alan uzerine yazan dusunur; bagimsiz alan adi"
   - anahtar: k3
     tur: ansiklopedi
-    ad: "Wikipedia (EN) - History of the Internet"
-    url: https://en.wikipedia.org/wiki/History_of_the_Internet
+    ad: "Stanford Encyclopedia of Philosophy - Jurgen Habermas"
+    url: https://plato.stanford.edu/entries/habermas/
     erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "History of the Internet"
-    not: "Kavramin gunumuzdeki tartisma zemini"
+    dogrulama_dizesi: "Habermas"
+    not: "Kavrami tanimlayan yazarin cozumlemesi"
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -78,6 +78,112 @@ yüzyılın en etkili siyaset filozoflarından biri sayılan bir düşünür ola
 verir.[^k2] O düşünür
 [Hannah Arendt](/dusunur/arendt/) dosyasında, yakın kavram ise
 [Sivil toplum](/kavram/sivil-toplum/) dosyasında ele alınıyor.
+
+
+## Üç koşul
+
+Kavram üç koşula bağlanır.[^k1] Birincisi erişim: tartışmaya
+katılmanın önünde biçimsel engel
+bulunmaması.
+
+İkincisi konu: özel çıkarların değil ortak sorunların
+tartışılması.[^k2] Üçüncüsü ölçüt: tartışmanın statüyle değil
+gerekçeyle yürütülmesi.
+
+Üçü tam olarak karşılanmaz.[^k3] Kavram bir ideal tiptir ve gerçek
+durumlar ona olan mesafeyle
+ölçülür.
+
+## Erişimin fiilî sınırı
+
+Biçimsel engelin olmaması, herkesin katılabildiği anlamına
+gelmez.[^k1] Zaman, okuryazarlık ve ödenen bedel fiilî engellerdir.
+
+Erken örneklerde katılım dar bir kesimle
+sınırlıydı.[^k2] Mülk sahibi ve okuryazar bir kesim.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k3] Biçimsel açıklık ile fiilî
+katılım ayrı ayrı ölçülmelidir.
+
+## Taşıyıcı ortam
+
+Kavramın kurulduğu ortam basılı yayın ve yüz yüze
+tartışmaydı.[^k1] Ortam, tartışmanın hızını ve kapsamını
+belirliyordu.
+
+Ortam değiştiğinde koşullar da değişir.[^k2] Yayın maliyetinin
+düşmesi erişimi genişletir ve aynı anda doğrulamayı
+zorlaştırır.
+
+Atlas bu ikiliği ayrıca kaydeder.[^k3] Bir ortamın erişimi
+kolaylaştırması, taşınan tartışmanın niteliğini
+belirlemez.
+
+## Ölçüt olarak kullanımı
+
+Atlas kavramı bir sınıflandırma değil bir ölçüt olarak
+kullanır.[^k1] Bir dönem için üç koşulun ne ölçüde karşılandığı
+sorulur.
+
+Cevap derecelidir.[^k2] Hiçbir dönem tam karşılamaz, hiçbir dönem
+tümüyle yoksun değildir.
+
+Atlas bu dereceli okumayı yeğler.[^k3] Bir ideal tip, varlık yokluk
+değil mesafe ölçmeye
+yarar.
+
+
+## Devletten ve piyasadan ayrı
+
+Kavram üçüncü bir alan tanımlar.[^k1] Ne devlet aygıtı ne piyasa
+işlemi.
+
+Bu ayrım tam değildir.[^k2] Tartışmanın yürüdüğü ortamlar çoğu zaman
+piyasa içinde işler; gazete satılır, kahvehanede ödeme
+yapılır.
+
+Atlas bu iç içeliği ayrıca kaydeder.[^k3] Devletten ayrı olmak,
+piyasadan da ayrı olmak anlamına
+gelmez.
+
+## Denetim ve sansür
+
+Kamusal alanın sınırını çoğu zaman devlet çizer.[^k1] Sansür, hangi
+konuların tartışılabileceğini
+belirler.
+
+Sansürün biçimi de bilgi verir.[^k2] Neyin yasaklandığı, neyin tehdit
+sayıldığını gösterir.
+
+Atlas bu göstergeyi ayrıca kullanır.[^k3] Bir dönemin sansür listesi,
+o dönemin iktidarının neden korktuğunun doğrudan
+kaydıdır.
+
+## Kavramın tarihselliği
+
+Kavram belirli bir dönemin deneyiminden
+çıkarılmıştır.[^k2] Başka dönemlere uygulanması dikkat
+ister.
+
+Atlas kavramı ölçüt olarak taşır, model olarak
+değil.[^k1] Üç koşul her döneme sorulabilir; o dönemin bir kamusal
+alanı olduğu varsayılmaz.
+
+Bu, atlasın anakronizm kuralının doğrudan
+uygulamasıdır.[^k3] Bir kavramı geçmişe taşımak, o kavramın orada
+bulunduğunu varsaymadan
+yapılabilir.
+
+
+## Atlasta kullanımı
+
+Atlas kavramı üç soruyla uygular.[^k1] Kimler katılabiliyordu, hangi
+konular tartışılabiliyordu, tartışma hangi ölçütle
+yürüyordu.
+
+Üç sorunun cevabı dönemden döneme
+değişir.[^k2] Cevaplar dosyalarda ayrı ayrı
+kaydedilir.[^k3]
 
 ## Bu dosyanın sınırı
 

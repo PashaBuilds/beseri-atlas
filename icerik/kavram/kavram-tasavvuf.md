@@ -67,6 +67,128 @@ Aynı kişinin dört sıfatla birden kaydedilmesi,[^k2] atlasın düşünür dos
 neden tek bir kategori kullanmadığının dayanağıdır; o düşünür
 [Gazâlî](/dusunur/gazali/) dosyasında ele alınıyor.
 
+
+## Kurumsallaşma
+
+Tasavvuf başlangıçta bireysel bir tutumdu.[^k1] Zamanla tarikat
+biçiminde örgütlendi.
+
+Örgütlenme bir aktarım zinciri kurar.[^k3] Öğreti, şeyhten müride
+belirli bir silsile içinde
+aktarılır.
+
+Atlas bu yapıyı ayrıca kaydeder.[^k2] Bir öğretinin silsileye
+bağlanması, onu doğrulayan mekanizmanın metin değil kişi zinciri
+olduğunu gösterir.
+
+## Vakıf ve gelir
+
+Tarikatlar vakıf gelirleriyle finanse edildi.[^k1] Tekke, zaviye ve
+imaretler bu gelirlerle işletildi.
+
+Bu, tarikatları ekonomik birimler hâline
+getirdi.[^k3] Toprak ve gelir kayıtlarında düzenli
+görünürler.
+
+Atlas bu boyutu ayrıca kaydeder.[^k2] Bir dinî hareketin yayılma
+alanı, çoğu zaman onu finanse eden vakıf ağının
+alanıdır.
+
+## Siyasi konum
+
+Tarikatların siyasi konumu tek biçimli değildir.[^k1] Bazıları
+merkezî yönetimle yakın çalıştı, bazıları muhalefetin taşıyıcısı
+oldu.
+
+Aynı tarikat farklı dönemlerde farklı konumda
+bulunabildi.[^k3] Konum, öğretiden çok koşullara
+bağlıydı.
+
+Atlas bu değişkenliği ayrıca kaydeder.[^k2] Bir hareketin siyasi
+konumu, öğretisinden okunamaz; her dönem için ayrı
+belirlenmelidir.
+
+## Sınır bölgelerindeki işlevi
+
+Tarikatlar sınır bölgelerinde yerleşimi de örgütledi.[^k1] Zaviyeler
+yol üzerinde konaklama ve güvenlik sağlıyordu.
+
+Bu işlev dinî olduğu kadar idariydi.[^k3] Merkezin ulaşamadığı yerde
+bir düzen kuruyordu.
+
+Atlas bu bağı ayrıca kaydeder.[^k2] Bir dinî kurumun yayılması, çoğu
+zaman merkezî yönetimin boşluk bıraktığı yerlerde
+hızlanır.
+
+
+## Metin geleneği
+
+Tasavvuf geniş bir yazılı külliyat üretti.[^k1] Manzum ve mensur
+eserler, farklı dillerde yazıldı.
+
+Yerel dillerin yazılı hâle gelmesinde bu külliyatın payı
+büyüktür.[^k3] Halka seslenen metinler, âlim diliyle
+yazılmıyordu.
+
+Atlas bu bağı ayrıca kaydeder.[^k2] Bir öğretinin yerel dilde
+yazılması, hedeflediği okur kitlesinin doğrudan
+kaydıdır.
+
+## Eleştiriler
+
+Tasavvuf kendi geleneği içinde de eleştirildi.[^k1] Eleştiriler hem
+uygulamalara hem bazı öğreti iddialarına
+yöneldi.
+
+Tartışma yüzyıllar boyunca sürdü.[^k3] Aynı gelenek içinde birbirine
+karşıt konumlar bulunur.
+
+Atlas bu iç çeşitliliği ayrıca kaydeder.[^k2] Bir geleneği tek bir
+konumla anlatmak, içindeki tartışmayı görünmez
+kılar.
+
+## Yayılma alanı
+
+Öğreti, konuşulan dilden bağımsız olarak geniş bir alana
+yayıldı.[^k1] Batı Afrika'dan Güneydoğu Asya'ya uzanan bir dağılımı
+vardır.
+
+Yayılmayı taşıyan şey ticaret ağlarıydı.[^k3] Tüccarlar aynı zamanda
+öğretinin taşıyıcısıydı.
+
+Atlas bu bağı ayrıca kaydeder.[^k2] Bir öğretinin coğrafi dağılımı,
+çoğu zaman onu taşıyan ticaret ağının
+dağılımıdır.
+
+
+## Kadınların konumu
+
+Gelenekte kadın mutasavvıflar da vardır.[^k1] Bazılarının adları ve
+sözleri erken kaynaklarda
+kayıtlıdır.
+
+Buna karşılık silsilelerde ve kurumsal yapıda görünürlükleri
+sınırlıdır.[^k3] Aktarım zinciri büyük ölçüde erkekler üzerinden
+kurulmuştur.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k2] Bir gelenekte anılmak ile
+aktarım zincirine girmek ayrı iki şeydir; ikincisi kurumsal
+konumdur.
+
+## Müzik ve tören
+
+Bazı kollarda müzik ve hareket törenin parçasıydı.[^k1] Bu, gelenek
+içinde de tartışma konusu
+oldu.
+
+Tartışma yüzyıllara yayıldı ve bölgeden bölgeye farklı
+sonuçlandı.[^k3] Aynı uygulama bir yerde kabul, başka yerde ret
+gördü.
+
+Atlas bu farkı ayrıca kaydeder.[^k2] Bir uygulamanın kabul görmesi,
+öğretiden çok yerel geleneğe
+bağlıdır.
+
 ## Bu dosyanın sınırı
 
 Tasavvufun tarihi, tarikatlar, kavramları ve edebiyatı burada ayrı başlıklar
