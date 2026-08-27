@@ -198,6 +198,15 @@ Belirleyici olan, ödemenin karşılığında elde edilenin ödenenden
 büyük olup olmadığıdır.[^k2] Bu hesap her dosyada ayrı
 yapılır.[^k3]
 
+
+## Diğer bölgelerdeki karşılıkları
+
+Benzer düzenler farklı kıtalarda da kuruldu.[^k1] Ortak yan, ödeyenin
+kendi yönetimini korumasıdır.
+
+Farklar da vardır.[^k2] Bazı düzenlerde ödeme bir kereye mahsus, bazı
+düzenlerde nesillere yayılan bir yükümlülüktür.[^k3]
+
 ## Bu dosyanın sınırı
 
 Sistemin tanımı, haraç kalemleri ve ülke ülke tarihler burada ayrı başlıklar
