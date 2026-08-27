@@ -12,8 +12,8 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Ölçüm | Değer |
 |---|---|
 | Ölçülen makale | 505 |
-| Toplam künye | 1667 |
-| Giriş kapısı kuralını aşan makale | 223 |
+| Toplam künye | 1668 |
+| Giriş kapısı kuralını aşan makale | 222 |
 | Birincil kaynağı olmayan makale | 252 |
 | Giriş kapısı künyesi payı | 42% |
 
@@ -92,7 +92,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `aktor-varsova-pakti` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `donem-01` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `donem-03` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `donem-06` | 4 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `donem-07` | 6 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `dusunur-arendt` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `dusunur-carr` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
@@ -281,6 +280,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `aktor-sokoto-hilafeti` | 4 | 1 | 0 | birincil kaynak yok |
 | `aktor-sovyetler-birligi` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-tang-hanedani` | 3 | 1 | 0 | birincil kaynak yok |
+| `donem-06` | 5 | 1 | 0 | birincil kaynak yok |
 | `donem-14` | 5 | 1 | 0 | birincil kaynak yok |
 | `donem-15` | 5 | 1 | 0 | birincil kaynak yok |
 | `donem-16` | 5 | 1 | 0 | birincil kaynak yok |

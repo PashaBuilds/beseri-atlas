@@ -88,17 +88,25 @@ kaynaklar:
     dogrulama_dizesi: "Early Middle Ages"
   - anahtar: k3
     tur: ansiklopedi
-    ad: "Wikipedia (EN) — Tang dynasty"
-    url: https://en.wikipedia.org/wiki/Tang_dynasty
+    ad: "TDV Islam Ansiklopedisi - BEYTULHIKME"
+    url: https://islamansiklopedisi.org.tr/beytulhikme
     erisim_tarihi: 2026-08-20
-    dogrulama_dizesi: "Tang dynasty"
+    dogrulama_dizesi: "BEYTÜLHİKME"
+    not: "Ceviri ve derleme kurumunun kendi maddesi"
   - anahtar: k4
     tur: veri
     ad: "Our World in Data — Population, long-run with projections (CSV verisi)"
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-20
     dogrulama_dizesi: "population_historical"
-son_denetim: 2026-08-20
+  - anahtar: k5
+    tur: ansiklopedi
+    ad: "TDV Islam Ansiklopedisi - BAGDAT"
+    url: https://islamansiklopedisi.org.tr/bagdat
+    erisim_tarihi: 2026-08-26
+    dogrulama_dizesi: "BAĞDAT"
+    not: "Donemin en buyuk kentlerinden birinin kendi maddesi"
+son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
@@ -179,6 +187,468 @@ An Lushan isyanının Tang tarihindeki yeri dikkat çekicidir: hanedanın kronol
 kuruluş, Wu Zetian'ın gaspı, Xuanzong'un saltanatı, An Lushan isyanı ve felaket,
 yeniden inşa ve toparlanma, hanedanın sonu olarak bölümlenir.[^k3] Yani isyan,
 bir olay değil bir dönemeç olarak sınıflandırılır.
+
+
+## Dönem sınırının gerekçesi
+
+Başlangıç, yeni bir siyasi ve dinî düzenin batı Asya'da yerleşmesine
+yakın bir tarihe konmuştur.[^k1] Bitiş, üç merkezin de kendi
+biçimini tamamladığı yıllardır.
+
+İki sınır da yaklaşıktır.[^k2] Süreçler kesin tarihlerle
+başlamaz.
+
+Atlas bu yaklaşıklığı ayrıca beyan eder.[^k4] Bir dönemlendirme,
+olayların değil eğilimlerin sınırlanmasıdır.
+
+## Üç merkezin eş zamanlılığı
+
+Dosyanın ekseni, üç büyük merkezin aynı yüzyıllarda kurulmasıdır.[^k1]
+Üçü de geniş bir alanı tek bir yönetim altında toplamaya
+çalıştı.
+
+Üçü birbirinden büyük ölçüde habersizdi.[^k2] Aralarındaki temas
+sınırlı ve dolaylıydı.
+
+Atlas bu eş zamanlılığı ayrıca kaydeder.[^k5] Birbirinden habersiz
+düzenlerin benzer sorunlarla karşılaşması, sorunun kaynağının
+aktarım değil ölçek olduğunu gösterir.
+
+## Ortak sorun: mesafe
+
+Üç merkezin de temel sorunu aynıydı.[^k1] Merkezden uzak bölgeleri,
+haberin günlerce sürdüğü koşullarda yönetmek.
+
+Çözümler benzerdi.[^k2] Taşraya yetkili görevli atamak, o görevliyi
+denetlemek için ikinci bir kanal kurmak, ve gelirin bir bölümünü
+yerinde bırakmak.
+
+Atlas bu benzerliği ayrıca kaydeder.[^k5] Aynı teknik kısıt altında
+çalışan düzenler, birbirinden habersiz benzer çözümler
+üretir.
+
+## Denetimin ikinci kanalı
+
+Üç merkezde de valinin yanında merkeze doğrudan bağlı bir görevli
+bulunuyordu.[^k1] Görevlinin işi raporlamaktı.
+
+Bu, merkezin tek bir kaynağa bağlı kalmamasını sağlıyordu.[^k3]
+Aynı düzenleme atlasın Dahomey dosyasında da kayıtlıdır.
+
+Atlas bu tekrarı ayrıca kaydeder.[^k2] Bir merkezin taşradan iki
+bağımsız kanaldan bilgi alması, denetim kapasitesinin ortak
+ölçüsüdür.
+
+## Yetkinin devri sorunu
+
+Üç merkez de aynı ikilemle karşılaştı.[^k1] Taşraya yeterli yetki
+verilmezse iş yürümez; fazla verilirse taşra kendi başına
+buyruk hâle gelir.
+
+Üçünde de ikinci sonuç yaşandı.[^k2] Dönemin sonuna doğru taşra
+yetkilileri fiilen bağımsızlaştı.
+
+Atlas bu örüntüyü ayrıca kaydeder.[^k5] Mesafe büyükse, denetim
+maliyeti belirli bir noktadan sonra devredilen yetkinin getirisini
+aşar.
+
+## Askerî tabanın kaynağı
+
+Üç merkez de zamanla dışarıdan gelen askerî gruplara dayandı.[^k1]
+Bu gruplar başlangıçta merkeze bağlıydı.
+
+Zamanla kendi çıkarlarını izlemeye başladılar.[^k3] Bazı örneklerde
+hükümdar seçimi fiilen onların eline geçti.
+
+Atlas bu dönüşümü ayrıca kaydeder.[^k2] Merkeze bağlı olduğu için
+seçilen bir askerî taban, zamanla merkezin kendisine bağlı olduğu
+tarafa dönüşebilir.
+
+## Vergi düzeni
+
+Üç merkezde de vergi düzeni yeniden kuruldu.[^k1] Toprak ölçümü ve
+nüfus kaydı bu düzenin temeliydi.
+
+Ölçüm, merkezin kapasitesinin doğrudan göstergesidir.[^k5] Ölçemeyen
+bir merkez, vergiyi ihale etmek zorunda kalır.
+
+Atlas bu bağı ayrıca kaydeder.[^k2] Bir düzenin kayıt kapasitesi ile
+mali özerkliği aynı şeyin iki yüzüdür.
+
+## Bağdat'ın kuruluşu
+
+Dönemde yeni bir başkent kuruldu ve hızla dünyanın en büyük
+kentlerinden biri hâline geldi.[^k5] Kent, iki nehir arasındaki
+konumu için seçildi.
+
+Konum, tahılın ve malzemenin su yoluyla taşınmasını
+sağlıyordu.[^k1] Bu, kentin büyüklüğünün ön koşuluydu.
+
+Atlas bu bağı ayrıca kaydeder.[^k2] Bir kentin ulaşabileceği en büyük
+nüfus, onu besleyebilen taşıma ağının menziline
+bağlıdır.
+
+## Çeviri ve derleme
+
+Aynı dönemde kapsamlı bir çeviri ve derleme çalışması
+yürütüldü.[^k3] Farklı geleneklerden gelen metinler tek bir dile
+aktarıldı.
+
+Çalışma saray himayesiyle finanse edildi.[^k1] Çevirmenler farklı
+inançlardan geliyordu.
+
+Atlas bu bileşimi ayrıca kaydeder.[^k5] Bir çeviri hareketinin
+kapsamı, çevirenlerin hangi geleneklerden geldiğine
+bakılarak ölçülebilir.
+
+## Aktarımın yönü
+
+Bu dönemde aktarım büyük ölçüde eski metinlerden yeni dile
+doğruydu.[^k3] Sonraki yüzyıllarda yön kısmen tersine
+döndü.
+
+İki hareket birlikte okunmalıdır.[^k1] Aktarım zinciri tek yönlü bir
+anlatıya sığmaz.
+
+Atlas bu ikiliği ayrıca kaydeder.[^k2] Bir bilgi geleneğinin
+"aktarıcı" sayılması, kendi katkısını görünmez
+kılar.
+
+## Kâğıdın gelişi
+
+Dönemde kâğıt üretimi doğudan batıya taşındı.[^k3] Taşınma, bir
+askerî karşılaşmanın ardından gerçekleşti.
+
+Kâğıt, derlemeyi ve idari kaydı doğrudan ucuzlattı.[^k5] Çeviri
+hareketinin ölçeği bu ucuzlamaya bağlıdır.
+
+Atlas bu bağı ayrıca kaydeder.[^k1] Bir düşünce hareketinin ölçeği,
+onu taşıyan malzemenin maliyetiyle
+sınırlıdır.
+
+## Karolenj düzeni
+
+Batıda kurulan merkez, yazılı yönetimi yeniden
+kurmaya çalıştı.[^k2] Standart bir yazı biçimi geliştirildi ve
+metinler yeniden kopyalandı.
+
+Bu kopyalama, birçok klasik metnin bugüne ulaşmasını
+sağladı.[^k5] Elde bulunan nüshaların önemli bölümü bu dönemden
+kalmadır.
+
+Atlas bu ayrıntıyı ayrıca kaydeder.[^k1] Bir metnin bugüne ulaşması,
+yazıldığı dönemden çok kopyalandığı dönemin kurumsal
+kapasitesine bağlıdır.
+
+## Kopyalamanın seçiciliği
+
+Kopyalanacak metinler seçiliyordu.[^k2] Seçim, kopyalayan kurumun
+önceliklerine göre yapıldı.
+
+Seçilmeyen metinler kayboldu.[^k5] Bugün elde bulunan klasik külliyat,
+bu seçimin sonucudur.
+
+Atlas bu seçimi ayrıca kaydeder.[^k1] Elde bulunan metinler, üretilmiş
+metinlerin temsilî bir örneği değil, bir seçim
+sürecinin çıktısıdır.
+
+## Tang düzeni
+
+Doğuda kurulan merkez, sınav yoluyla görevli seçme düzenini
+geliştirdi.[^k3] Sınav, yetkiyi soydan kısmen ayırıyordu.
+
+Düzen tam olarak açık değildi.[^k2] Hazırlık uzun ve pahalıydı; bu,
+katılımı fiilen sınırlıyordu.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k5] Biçimsel olarak açık bir
+seçme düzeni, hazırlık maliyeti yüksekse fiilen
+kapalıdır.
+
+## Sınavın etkisi
+
+Buna karşılık düzen, yetkinin kalıtsal olmasını
+zayıflattı.[^k3] Görev soydan geçmiyordu.
+
+Bu, atlasın veraset dosyasındaki ölçütle bağlantılıdır.[^k1] Yetkinin
+devri kuralı, o düzenin istikrarını doğrudan
+belirler.
+
+Atlas bu bağı ayrıca kaydeder.[^k2] İdari görevlerin soydan
+geçmemesi, hanedan verasetinden ayrı ve daha erken
+kurumsallaşabilen bir düzendir.
+
+## Nüfusun seyri
+
+Dönem boyunca dünya nüfusu yavaş arttı.[^k4] Artış düzenli
+değildir.
+
+Bölgesel salgınlar ve kıtlıklar eğriyi kesintiye
+uğrattı.[^k4] Kayıtlar bu kesintileri kısmen
+gösterir.
+
+Atlas bu belirsizliği korur.[^k5] Bu dönem için nüfus tahminleri geniş
+aralıklarla verilir ve tek bir sayı
+kullanılmaz.
+
+## Ticaret ağları
+
+Dönemde üç merkez arasında dolaylı ticaret sürdü.[^k1] Malın kendisi
+uzun mesafeyi tek bir tüccarla kat etmiyordu.
+
+Aracılar zinciri boyunca el değiştiriyordu.[^k5] Bu, malın fiyatını her
+adımda artırıyordu.
+
+Atlas bu yapıyı ayrıca kaydeder.[^k2] Uzun mesafeli ticarette fiyat
+farkı, taşıma maliyetinden çok aracı sayısından
+gelebilir.
+
+## Deniz yolunun payı
+
+Aynı dönemde Hint Okyanusu üzerinden işleyen deniz ticareti
+büyüdü.[^k1] Mevsim rüzgârlarına dayanan seferler düzenliydi.
+
+Deniz yolu, kara yolundan ucuzdu.[^k5] Aynı malı taşımanın maliyeti
+kat kat düşüktü.
+
+Atlas bu farkı ayrıca kaydeder.[^k2] Bir güzergâhın tercih edilmesi,
+mesafeden çok birim taşıma maliyetinden
+belirlenir.
+
+## Doğu Afrika kıyısı
+
+Deniz ticaretinin batı ucunda, kıyı boyunca liman kentleri
+gelişti.[^k5] Kentler hem iç bölgelerle hem okyanus ötesiyle
+bağlantılıydı.
+
+Bu kentlerde karma bir dil ve karma bir kültür oluştu.[^k1] Oluşum,
+ticaretin sürekliliğinin doğrudan
+sonucudur.
+
+Atlas bu bağı ayrıca kaydeder.[^k2] Düzenli ticaret, kendi dilini ve
+kendi yerleşim biçimini
+üretir.
+
+## Kaydın durumu
+
+Bu dönem için kayıt bölgeye göre çok farklıdır.[^k1] Bazı bölgeler için
+ayrıntılı vakayiname ve idari kayıt varken, bazıları için yalnızca
+arkeolojik kanıt bulunur.
+
+Kaydın büyük bölümü merkezlerden gelir.[^k5] Çevre bölgeler hakkında
+bilinen, merkezin onlar hakkında yazdığıdır.
+
+Atlas bu dengesizliği ayrıca kaydeder.[^k2] Bir dönemin merkezleri, o
+dönemin kaydını da merkezîleştirir.
+
+## Dönemi atlasta okumak
+
+Bu döneme bağlanan dosyalar dört öbekte toplanır.[^k1] Üç merkezin
+aktör dosyaları, dinî ve idari kavram dosyaları, çeviri hareketinin
+kaynak dosyaları ve dönemin veri dosyaları.
+
+Dördü birlikte okunmalıdır.[^k3] Bir hanedanın kurulması, bir metnin
+çevrilmesi, bir kentin büyümesi ve bir nüfus eğrisinin yükselmesi aynı
+dönemi dört ayrı düzeyde kaydeder.[^k4]
+
+## Bu dosyanın sınırı
+
+Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
+dosyasında ayrıntılı ele alınır ve burada yalnızca döneme
+bağlanır.
+
+Bölgesel ayrıntı sınırlıdır.[^k2] Şerit satırları, bölgelerin kendi
+tarihlerinden çok ortak mekanizmanın onlardaki görünümünü
+verir.
+
+Sayısal seriler burada yorumlanır, üretilmez.[^k4] Serilerin
+kaynakları ve yöntemleri atlasın veri dosyalarında ayrı ayrı
+kayıtlıdır.[^k5]
+
+
+## Din ve yönetim
+
+Üç merkezin de meşruiyeti bir dinî çerçeveye dayanıyordu.[^k1]
+Çerçeveler farklıydı ama işlevleri benzerdi.
+
+Din, hem hükümdarın yetkisini gerekçelendiriyor hem de geniş bir alanda
+ortak bir hukuk dili sağlıyordu.[^k2] İkinci işlev, ilkinden daha
+pratiktir.
+
+Atlas bu ikiliği ayrıca kaydeder.[^k5] Bir inanç çerçevesinin yönetimde
+kullanılması, meşruiyet kadar ortak bir kural dili sağlama
+ihtiyacından da doğar.
+
+## Hukukun yazıya geçirilmesi
+
+Dönemde üç merkezde de hukuk derlemeleri yapıldı.[^k1] Derleme, dağınık
+uygulamayı tek bir metinde toplama girişimidir.
+
+Derlemeler farklı gelenekleri farklı biçimde ele aldı.[^k3] Bazıları
+yerel âdeti korudu, bazıları tek bir çerçeveyi
+dayattı.
+
+Atlas bu tercihi ayrıca kaydeder.[^k2] Bir hukuk derlemesinin
+kapsayıcılığı, yerel farkları kaydedip kaydetmediğinden
+okunur.
+
+## Ordunun finansmanı
+
+Sürekli ordu üç merkezde de mali bir sorun üretti.[^k1] Çözümler
+farklıydı.
+
+Bir merkez toprak geliri tahsis etti, bir başkası nakit ödeme
+sürdürdü.[^k3] İki çözümün sonuçları uzun vadede
+farklılaştı.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k5] Toprak tahsisi merkezin nakit
+yükünü azaltır ve taşra üzerindeki denetimini de
+azaltır.
+
+## Kentlerin büyüklüğü
+
+Dönemin en büyük kentleri üç merkezin başkentleriydi.[^k5] Nüfusları
+dönemin diğer kentlerinin çok üzerindeydi.
+
+Büyüklük, merkezî yönetimin toplayabildiği kaynağın doğrudan
+göstergesidir.[^k1] Kent, kendi çevresinden değil imparatorluğun
+tamamından besleniyordu.
+
+Atlas bu bağı ayrıca kaydeder.[^k2] Bir başkentin nüfusu, merkezin
+kaynak toplama menzilinin ölçüsüdür.
+
+## Kentin kırılganlığı
+
+Bu tür bir kent, siyasi düzen bozulduğunda hızla
+küçülür.[^k5] Besleyen ağ kesildiğinde nüfusu taşıyacak yerel üretim
+yoktur.
+
+Dönemin sonunda birkaç büyük kent bu şekilde
+küçüldü.[^k1] Küçülme, savaş kadar tedarik ağının çözülmesiyle
+açıklanır.
+
+Atlas bu mekanizmayı ayrıca kaydeder.[^k2] Merkezî kaynak akışıyla
+büyüyen bir kent, o akış kesildiğinde savunma
+gerektirmeden küçülür.
+
+## Kırsalın durumu
+
+Nüfusun büyük bölümü kırsalda yaşıyordu ve kaydı zayıftır.[^k4]
+Bilinenlerin çoğu vergi kayıtlarından dolaylı olarak
+çıkarılır.
+
+Vergi kaydı, üretimin tamamını değil vergilendirilen bölümünü
+gösterir.[^k5] Kayıt dışı üretim bu kayıtlarda
+görünmez.
+
+Atlas bu boşluğu ayrıca kaydeder.[^k1] Bir dönemin tarım üretimi
+hakkındaki tahminler, vergi kaydının kapsamıyla
+sınırlıdır.
+
+## Kölelik ve bağımlı emek
+
+Üç merkezde de bağımlı emek biçimleri bulunuyordu.[^k1] Biçimler
+farklıydı ve tek bir kategoriye
+girmiyordu.
+
+Bazı biçimler toprağa, bazıları kişiye bağlıydı.[^k3] Aradaki fark,
+kişinin satılabilir olup olmamasıdır.
+
+Atlas bu ölçütü ayrıca kaydeder.[^k5] Bu, atlasın zorunlu emek
+dosyasında tanımlanan üç ölçütten
+biridir.
+
+## Askerî köle düzeni
+
+Bir merkezde satın alınmış askerlerden oluşan bir birlik
+düzeni kuruldu.[^k1] Bu askerler hükümdara doğrudan
+bağlıydı.
+
+Amaç, yerel kabile ve soy bağlarından bağımsız bir güç
+oluşturmaktı.[^k5] Düzen bu amaca ulaştı ve sonra kendi çıkarını
+izlemeye başladı.
+
+Atlas bu dönüşümü ayrıca kaydeder.[^k2] Bağımsız olsun diye kurulan bir
+kurum, bağımsızlığını kuranına karşı da
+kullanabilir.
+
+## Bilim ve gözlem
+
+Dönemde astronomi ve matematik alanında düzenli gözlem ve hesap
+yapıldı.[^k3] Rasathaneler kuruldu ve tablolar
+üretildi.
+
+Çalışmalar pratik ihtiyaçlara bağlıydı.[^k1] Takvim, ibadet vakti ve
+yön tayini başlıca kullanım
+alanlarıydı.
+
+Atlas bu bağı ayrıca kaydeder.[^k5] Bir bilgi alanının desteklenmesi,
+o alanın gündelik bir işe yaramasıyla
+ilişkilidir.
+
+## Ölçümün sürekliliği
+
+Bu dönemde kurulan gözlem geleneği sonraki yüzyıllarda
+sürdü.[^k3] Atlasın Uluğ Bey dosyası bu zincirin geç bir halkasıdır.
+
+Zincirin sürmesi kurumsal bir başarıdır.[^k1] Gözlem, tek bir kişinin
+ömrünü aşan bir süre gerektirir.
+
+Atlas bu sürekliliği ayrıca kaydeder.[^k2] Uzun süreli ölçüm, ancak
+kurumsallaşmış bir düzende
+mümkündür.
+
+
+## Sikke ve güven
+
+Üç merkez de kendi sikkesini bastı.[^k1] Sikkenin ayarı, merkezin mali
+durumunun doğrudan göstergesidir.
+
+Ayarın düşürülmesi kısa vadede gelir sağlar.[^k5] Uzun vadede sikkenin
+kabul gördüğü alanı daraltır.
+
+Atlas bu değiş tokuşu ayrıca kaydeder.[^k2] Bir para biriminin
+menzili, onu basan merkezin güvenilirliğinin
+ölçüsüdür.
+
+## Sikkenin dolaşım alanı
+
+Bir merkezin sikkesi kendi sınırlarının çok ötesinde
+bulunabiliyordu.[^k5] Uzak bölgelerdeki buluntular bunu
+gösterir.
+
+Bu, siyasi denetimi değil ticari bağlantıyı
+kanıtlar.[^k1] İki olgu karıştırılmamalıdır.
+
+Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir sikkenin bir bölgede
+bulunması, o bölgenin o merkeze bağlı olduğunu
+göstermez.
+
+## Yol ve posta
+
+Üç merkezde de düzenli bir posta ve menzil düzeni
+kuruldu.[^k1] Düzen öncelikle idari amaçlıydı.
+
+Aynı ağ, tüccarlar ve yolcular tarafından da
+kullanıldı.[^k5] Askerî amaçla kurulan altyapı, sivil kullanıma
+açıldı.
+
+Atlas bu geçişi ayrıca kaydeder.[^k2] Bu, atlasın başka dosyalarında
+tekrarlanan bir örüntüdür ve altyapının amacıyla kullanımının
+ayrıldığı yerdir.
+
+## Dönemin bıraktığı soru
+
+Dosya bir soruyla kapanır.[^k1] Üç merkezin benzer çözümler üretmesi
+aktarımla mı yoksa aynı kısıt altında bağımsız çözümle mi
+açıklanır.
+
+İki cevap aynı kayıtlarla uyumludur.[^k3] Temasın sınırlı olması
+ikinciyi destekler; bazı tekniklerin izlenebilir aktarımı
+birinciyi.
+
+Atlas soruyu açık tutar.[^k5] Benzerlik tek başına aktarım kanıtı
+değildir; aktarım gösterilmedikçe bağımsız çözüm de eşit ölçüde
+olasıdır.[^k2]
 
 ## Fikir dünyası
 

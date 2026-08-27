@@ -4028,3 +4028,45 @@ iki kez görünmüş) ve KAPI 4 kilitli bir terimi ("çeper" yerine
 "çevre") yakaladı.
 
 Kalan dönem dosyaları: 01–06.
+
+## 2026-08-26 — donem-06 onarıldı (619 → 2400+)
+
+On birinci dönem dosyası. 650–1000.
+
+Dosyanın ekseni: üç büyük merkezin aynı yüzyıllarda, birbirinden büyük
+ölçüde habersiz kurulması ve benzer sorunlarla karşılaşması. Ana ölçüm:
+birbirinden habersiz düzenlerin benzer sorunlarla karşılaşması, sorunun
+kaynağının aktarım değil ölçek olduğunu gösterir.
+
+Ortak sorun mesafe olarak tanımlandı ve üç merkezin de benzer çözümler
+ürettiği kaydedildi: taşraya yetkili görevli, onu denetleyen ikinci bir
+kanal, gelirin bir bölümünün yerinde bırakılması. İkinci kanal Dahomey
+dosyasındaki aynı düzenlemeye bağlandı.
+
+Diğer kayıtlar:
+- Mesafe büyükse, denetim maliyeti belirli bir noktadan sonra
+  devredilen yetkinin getirisini aşar — üçünde de taşra fiilen
+  bağımsızlaştı.
+- Merkeze bağlı olduğu için seçilen bir askerî taban, zamanla merkezin
+  kendisine bağlı olduğu tarafa dönüşebilir.
+- Karolenj kopyalama hareketi: bir metnin bugüne ulaşması, yazıldığı
+  dönemden çok kopyalandığı dönemin kurumsal kapasitesine bağlı. Elde
+  bulunan klasik külliyat temsilî bir örnek değil, bir seçim sürecinin
+  çıktısı.
+- Sınav düzeni: biçimsel olarak açık bir seçme düzeni, hazırlık
+  maliyeti yüksekse fiilen kapalıdır.
+- Bir başkentin nüfusu merkezin kaynak toplama menzilinin ölçüsü — ve
+  akış kesildiğinde kent savunma gerektirmeden küçülüyor.
+- Sikke buluntuları siyasi denetimi değil ticari bağlantıyı kanıtlar.
+- Dosya bir soruyla kapanıyor: benzerlik aktarımla mı bağımsız çözümle
+  mi açıklanır. Atlas soruyu açık tutuyor — benzerlik tek başına
+  aktarım kanıtı değil.
+
+Künye onarımı: k3 ikinci bir Wikipedia'ydı (Tang dynasty), yerine TDV
+BEYTÜLHİKME kondu ve TDV BAĞDAT k5 olarak eklendi. Dosya artık tek
+Wikipedia kuralına uygun.
+
+KAPI 4 yine "çeper" terimini yakaladı — aynı hatayı iki dosyada
+yaptım.
+
+Kalan dönem dosyaları: 01–05.
