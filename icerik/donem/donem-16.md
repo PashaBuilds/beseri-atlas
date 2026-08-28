@@ -105,7 +105,9 @@ Bu dönem, kronolojik omurganın hem sonu hem de en belirsiz halkasıdır: hakk�
 yazdığımız süreçler henüz kapanmamıştır. Demograflar dünya nüfusunun bu yüzyılın
 sonunda tepe noktasına ulaşmasını bekliyor;[^k1] yani dönemin tanımlayıcı eğilimi
 bile henüz gerçekleşmemiş bir projeksiyondur. Genel güven seviyesi bu yüzden
-`tartismali` işaretlidir. Aşağıdaki beş bölüm, bütün dönem makalelerinde olduğu
+`tartismali` işaretlidir. Anlatının sayısal iskeleti, künyedeki serilerin
+ulaştığı son tam yıl olan 2025'te durur; sonrası izlenmeye devam eden
+açık uçtur. Aşağıdaki beş bölüm, bütün dönem makalelerinde olduğu
 gibi aynı sırayla okunur.
 
 ## Aynı anda dünyada
