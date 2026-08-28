@@ -284,11 +284,6 @@ html:not(.js) .tema-dugme { display: none; }
 .guven--tartismali  { color: var(--zincifre); background: var(--zincifre-zemin); }
 .guven--tartismali::before { content: '⁘'; }
 
-/* Metin içi güven işaretleri: çizgi stili anlamı ikinci kez taşır. */
-.iddia--kesin      { border-bottom: 1px solid var(--bakir); }
-.iddia--yaygin     { border-bottom: 1px dashed var(--oksit); }
-.iddia--tartismali { border-bottom: 3px double var(--zincifre); }
-
 /* ─── Dipnot ────────────────────────────────────────────────────────────── */
 
 sup.dipnot { line-height: 0; font-size: 0.7em; margin-inline-start: 0.1em; }
