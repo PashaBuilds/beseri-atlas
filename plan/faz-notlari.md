@@ -4481,3 +4481,36 @@ bir atlas, yarısı boş 1000 makalelik bir atlastan daha iyi bir teslim.
   yayın 1998 — bağımsız türetici bulgusu).
 - Faz 2 pilot: 4 onarım ajanı paralel çalışıyor (paris, cahokia,
   kus-kralligi, rapa-nui). Hakemlik ayrı ajanlarla yapılacak.
+
+## 2026-08-28 (gece) — Faz 2 pilot birinci parti tamam: 8/8 YAYINA UYGUN
+
+Boru: onarım ajanı → matris taslağı → kör hakem + düşman çürütücü
+(yazar ≠ hakem) → kapılar → tek entegrasyon commit'i. Süreç dersleri:
+
+1. **Hakem katmanı gerçek iş yapıyor**: yazarın soktuğu Nastasen
+   kronoloji hatası (kus), Parsons/Henderson çeviri düzeltmesi
+   (ideal-tip), Kindleberger süs dipnotu (hegemonya), Brackenridge
+   400k-pencere aşımının "dogrudan"dan düşürülmesi (cahokia), afyon
+   pasajının protesto yarısı (marx). Hiçbiri yazar turunda yakalanmadı.
+2. **Telif kör noktası sistematik**: onarım ajanları lint koşamadığı
+   için kaynak-başına-1-alıntı sınırını 4 dosyada aştı; hakem
+   şablonuna ön kontrol maddesi eklendi — kalıcı kural.
+3. **Ortak çalışma ağacı + kapı-bağlı pre-commit**: bir ajanın ara
+   durumu orkestratörün commit'ini bloke edebiliyor (rapa-nui telif
+   örneği). Kural: içerik commit'leri dalga sonunda, tek entegrasyon.
+4. **Wikisource ana sayfaları** transklüzyonu fetch'te boş dönebiliyor;
+   antlaşma metinlerinde `Page:` ad alanı künyelenir (paris dersi).
+5. **archive.org deseni**: details sayfası atom taşımaz; `_djvu.txt`
+   tam metin taşır ama 400k'da kesilir — dogrulama_dizesi ilk 400k'da
+   olmalı; kitaba yaslanan iddia ancak pencere İÇİNDE doğrulanırsa
+   "dogrudan" olabilir.
+6. **Kaynağın iç çelişkisi matrise yazılır** (imf: Wikipedia'nın
+   üyelik cümlesi kendi infobox'uyla çelişiyor; i26/i29 belgeli).
+7. KAPI 18 defteri ilk kez aşağı çekildi: kalıp taşıyan dosya 487→479;
+   "Atlas" 2752→2712, "ayrıca kaydeder" 1041→1034, şablon kapanış
+   558→546. Borç erimesi ölçülüyor.
+
+Parti 2 sahada: olay-covid, veri-fosil-elektrik-payi,
+tartisma-sozlu-gelenek-kaynak-mi, donem-06 (meta-dil + Tang atıf
+onarımı). Bunlar bitince pilot 12/12 tamamlanmış olacak; pilot
+değerlendirmesi ve Faz 3 ölçekleme kararı yazılacak.
