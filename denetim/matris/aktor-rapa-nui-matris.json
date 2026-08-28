@@ -1,0 +1,199 @@
+{
+  "id": "aktor-rapa-nui",
+  "govde_hash": "56544d130b5f",
+  "commit": "c9a3451",
+  "zaman": "2026-08-28",
+  "hakem": "kor-hakem-2026-08-28",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Rapa Nui, Pasifik'in güneydoğusunda en yakın yerleşik komşusuna iki bin kilometreden uzak bir adadır ve topluluğu bugün de bu adada yaşamaktadır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Adada bugün yedi binden fazla insan yaşar (2017 sayımı 7.750); Rapanui dili konuşulur ve ada Şili'ye bağlı anayasal özel bölge statüsündedir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Yerleşim, yaygın tahminlere göre on ikinci ile on üçüncü yüzyıllar arasında Avustronezya ağından gelen Polinezya denizcilerince gerçekleşti.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [{ "anahtar": "k1", "destek": "kismi" }],
+      "guven": "orta",
+      "inceleme": "Yerlesim tarihi icin one surulen araliklar kaynaklar arasinda degisir; govde bunu 'yaygin tahmin' diye isaretler."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Adada bine yakın moai vardır; büyük bölümü Rano Raraku tüfünden yontulmuştur ve bir kısmı tamamlanmadan ocakta bırakılmıştır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Kayıtlı ilk Avrupa teması 1722 Paskalya günü Jacob Roggeveen ile oldu ve adanın Avrupa dillerindeki adı buradan gelir.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        { "anahtar": "k3", "destek": "dogrudan" },
+        { "anahtar": "k1", "destek": "dogrudan" }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "1770 İspanyol seferi heykelleri ayakta gördü ve adayı San Carlos adıyla İspanya adına ilhak töreni düzenledi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        { "anahtar": "k3", "destek": "dogrudan" },
+        { "anahtar": "k1", "destek": "dogrudan" }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "1774'te James Cook bazı heykellerin devrilmiş olduğunu kaydetti; 1777'de yayımlanan sefer anlatısının ilk cildi ada bölümünü içerir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        { "anahtar": "k1", "destek": "dogrudan" },
+        { "anahtar": "k4", "destek": "dogrudan" }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4 tam metninde ada bolumu icindekiler tablosunda 'Eafter Ifland' (uzun s OCR'i) olarak gorunur."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Diamond'ın Collapse (2005) okuması adayı 'toplumların çökmeyi seçmesi' sorusunun baş örneği yapar: orman heykel taşımak ve tarla açmak için tüketildi, toplum Avrupa temasından önce iç çatışmayla çöktü.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        { "anahtar": "k6", "destek": "kismi" },
+        { "anahtar": "k1", "destek": "baglam" }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6 kitabin kendisidir ama archive.org kaydi odunc kisitli; fetch edilen sayfa baslik ve alt basligi ('how societies choose to fail or succeed') dogrular, tez icerigi kitaptan bilinir. k1 Diamond'in savini aktarir."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Hunt ve Lipo (The Statues That Walked, 2011) orman kaybında Polinezya sıçanına belirleyici pay verir, heykellerin dik konumda yürütülerek taşınabildiğini savunur ve asıl demografik yıkımı Avrupa temasının sonrasına koyar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        { "anahtar": "k5", "destek": "kismi" },
+        { "anahtar": "k1", "destek": "kismi" }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5 kitabin kendisidir ama archive.org kaydi odunc kisitli; fetch edilen sayfa kunyeyi dogrular. k1 sican-ormansizlasma bagini ve Hunt-Lipo atfini acikca tasir."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "1862-63 Peru köle akınlarında yaklaşık 1.500 adalı öldürüldü ya da kaçırıldı; 1.408'i Peru'da zorla çalıştırıldı ve dönem kayıtları Chincha guano yataklarını anar.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        { "anahtar": "k1", "destek": "dogrudan" },
+        { "anahtar": "k7", "destek": "kismi" }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k7 (1911 Britannica) akini 1863 yiliyla ve Chincha guano yataklariyla kaydeder; sayilar k1'den gelir."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Geri dönebilen bir düzine kadar kişi çiçek hastalığı getirdi; 1877'de adada 111 Rapanui sayıldı ve 1862-1888 arasında nüfusun yaklaşık yüzde 94'ü öldü ya da göç etti.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Akınlar ve salgın, aralarında tumu ivi 'atua'ların da öldüğü tarihlenebilir bir aktarım kopuşu yarattı; ama topluluk sürdü, nüfus yeniden büyüdü ve dil yaşadı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        { "anahtar": "k1", "destek": "kismi" },
+        { "anahtar": "k2", "destek": "baglam" }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 tumu ivi 'atua kaybini ve nufusun sonraki toparlanmasini ayri ayri dogrular; 'kopus ama olum degil' cercevesi bu iki olgunun birlikte okunmasidir. k2, kopustan elli yil sonra hala tanik bulunabildigini gosterir."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Rongorongo metinleri bütün girişimlere karşın çözülememiştir; günümüze yalnızca yirmi kadar metin ulaşmıştır, hiçbiri adada değildir ve işaretlerin gerçek bir yazı olduğu bile kesin değildir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "İlk sistematik saha çalışması 1914-15'te Katherine Routledge'ın Mana seferiyle yapıldı; sonuçlar 1919'da The Mystery of Easter Island adıyla yayımlandı ve yaşlı adalılarla görüşmeler içerir.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [{ "anahtar": "k2", "destek": "dogrudan" }],
+      "guven": "yuksek",
+      "inceleme": "k2 eserin tam metnidir; 1914, 1915, 1919 ve Mana adi metinde gecer, gorusme katmani kitabin kendisinde okunur."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Şili adayı 1888'de ilhak etti; Williamson-Balfour döneminde adalılar Hanga Roa ile sınırlandı, vatandaşlık 1966'da, anayasal özel bölge statüsü 2007'de geldi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "1911 Britannica maddesi adalıların yapıların inşası hakkında hiçbir şey bilmediğini yazar, konuyu gizem ilan eder ve Peru akınlarını tek cümleyle geçer.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [{ "anahtar": "k7", "destek": "dogrudan" }],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Bir çöküş anlatısının verdiği ders seçtiği faile bağlıdır ve fail çoğu zaman kanıttan önce seçilir.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        { "anahtar": "k6", "destek": "baglam" },
+        { "anahtar": "k5", "destek": "baglam" }
+      ],
+      "guven": "orta",
+      "inceleme": "Genellestirilmis yorum; iki tezin karsilastirilmasindan cikarilir, tek bir kaynakla olculemez."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Akarsuyu olmayan adada ekim, toprağı çakıl ve taşla örterek nemi tutan taş örtülü tarımla yapılıyordu; yöntem kurak bölgelerin bilinen tekniğidir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        { "anahtar": "k1", "destek": "dogrudan" },
+        { "anahtar": "k5", "destek": "baglam" }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    }
+  ],
+  "sayaclar": { "dogrudan": 13, "kismi": 4, "desteksiz": 0, "olculemez": 1 }
+}

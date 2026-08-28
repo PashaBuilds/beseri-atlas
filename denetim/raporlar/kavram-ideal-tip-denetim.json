@@ -1,69 +1,159 @@
 {
   "id": "kavram-ideal-tip",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:25.566Z",
-  "govde_hash": "a0609a435d1c",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T19:35:26.983Z",
+  "govde_hash": "ab1fe2c9c726",
+  "commit": "c9a3451",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, yöntem bölümünün altında dört alt başlık tutar ve bunlardan biri ideal tiptir; diğerleri Verstehen, yöntemsel bireycilik ve değerden bağımsızlıktır.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Terimin kuramlar bölümünde değil yöntem bölümünde tutulması, atlasın bu dosyayı kavram katmanına neden yerleştirdiğinin dayanağıdır: bir yöntem aracı, bir tarih",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Aynı kayıt, kavramı kayda değer fikirler listesinde de sayar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Aynı yöntem bölümünde değerden bağımsızlığın ayrı bir alt başlık olarak tutulması, araç ile tutum arasındaki ayrımın kaynakta da yapıldığını gösterir; ikisi ayr",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Atlas her ikisini de bir doğruluk iddiası olarak değil bir yöntem tercihi olarak kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Aynı dönemde yazan bir çağdaşı için tutulan kayıt, onun toplum biliminin bütüncül olması gerektiğini, yani bireylerin belirli eylemleriyle sınırlı kalmak yerine",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "İki yöntem kararının karşıt yönlerde durması, atlasın kavram dosyalarında neden rakip seçenekleri de kaydettiğinin dayanağıdır; karşı taraf dosyasında ele alını",
+      "anahtar": "k3",
+      "iddia": "İdeal tip, 'in toplumsal gerçekliği çözümlemek için önerdiği kavramsal ölçü aracıdır: gerçekliğin belli yönlerinin tek yanlı vurgulanmasıyla ve dağınık, tek tek",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Aynı yüzyılın bir başka kuram biçimi için tutulan kayıt, toplum biçimlerinin üretici gücün gelişimine göre yükselip düştüğü fikri etrafında kurulu bir tarih kur",
+      "iddia": "Kurgu, kavramsal saflığı içinde gerçeklikte hiçbir yerde ampirik olarak bulunamaz; Weber'in kendi ifadesiyle o bir ütopyadır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Araç betimlemek için değil ölçmek için vardır: araştırmacı her tekil durumda, tarihsel gerçekliğin bu kurguya ne ölçüde yaklaşıp ondan ne ölçüde uzaklaştığını b",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kavramın tanımı, kullanım örnekleri ve eleştirileri burada ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak bölümünün kapsamı yöntem başlıklarının lis",
+      "iddia": "Kavramın ağırlığı, sosyal bilimde nesnelliğin nasıl mümkün olacağı sorusuna verdiği cevaptan gelir: olayların sonsuz çeşitliliği ancak belirli bakış açılarından",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Protestan Ahlakı'ndan bürokrasi çözümlemesine, Weber'in en bilinen çalışmaları bu aracın uygulamalarıdır ve kavram onun yöntembiliminin merkezinde durur.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Weber örneğini dönemin iktisat tarihçiliğinden seçer: Orta Çağ \"kent ekonomisi\" kavramı, gözlenen bütün kentlerdeki iktisadi yapıların ortalaması olarak değil, ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Adındaki \"ideal\" de mükemmellik değil, düşünce dünyasına aitlik anlamına gelir; tip ne ahlaki bir ülküyü ne de istatistiksel bir ortalamayı gösterir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k4",
-      "iddia": "Bu kavramın formüle edildiği eser Weber, Protestan Ahlakı'dir; dosya o eserin kamu malı tam metnine bağlanır.",
+      "iddia": "Karşılaştırma tam bu keskinlik sayesinde çalışır: saf akılcı bir eylem seyri kurgulandığında, gerçek eylemin duygulardan ve yanılgılardan nasıl etkilendiği, bu ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Weber bu kurguyu, anlaşılırlığı en yüksek ve belirsizliği en düşük tip olduğu için sosyoloğun eline verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Saf iktisat kuramının kavramları ve yasaları da Weber'e göre bu türden ideal tiplerdir: eylemin katı biçimde akılcı olsaydı izleyeceği seyri söylerler, gerçek e",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavram, Protestan Ahlakı'nda değil, Weber'in 1904'te yayımlanan \"Sosyal Bilimde ve Sosyal Politikada 'Nesnellik'\" makalesinde sistemli biçimde ortaya konur.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kavram, Protestan Ahlakı'nda değil, Weber'in 1904'te yayımlanan \"Sosyal Bilimde ve Sosyal Politikada 'Nesnellik'\" makalesinde sistemli biçimde ortaya konur.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Makale İngilizceye 1949'da, Shils ile Finch'in derleyip çevirdiği The Methodology of the Social Sciences cildi içinde kazandırıldı ve ünlü tanım pasajı bu derle",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Makale İngilizceye 1949'da, Shils ile Finch'in derleyip çevirdiği The Methodology of the Social Sciences cildi içinde kazandırıldı ve ünlü tanım pasajı bu derle",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Protestan Ahlakı ise kavramın uygulamasıdır: 1904-1905'te yayımlanan çalışma, kapitalizmin ruhu gibi tarihsel olarak tekil bir oluşumu ideal tip yöntemiyle çözü",
       "durum": "OK",
       "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Protestan Ahlakı ise kavramın uygulamasıdır: 1904-1905'te yayımlanan çalışma, kapitalizmin ruhu gibi tarihsel olarak tekil bir oluşumu ideal tip yöntemiyle çözü",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ölümünden sonra derlenen Ekonomi ve Toplum, yöntemi işler hâlde gösterir: gündelik dilin feodal, patrimonyal, bürokratik ya da karizmatik dediği düzenlere kesin",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ekonomi, Toplum"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Henderson ile Talcott Parsons'ın 1947'de İngilizceye çevirdiği kesim, meşru otoritenin üç saf tipini birbirinden ayırır; yasal otoritenin en saf biçimi bürokrat",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Gerontokrasi, patriarkalizm ve aynı ciltte geleneksel otoritenin alt biçimleri olarak işlenir; ve üzerine bugünkü tartışmalar da bu tipolojiyi başlangıç noktası",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İtirazların en eskisi kurgunun keyfîliğine yönelir: vurgulanacak yönleri araştırmacının değer ilgisi seçiyorsa, aynı olgudan birbiriyle yarışan sayısız tip türe",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Weber'in cevabı bu suçlamayı reddetmek değil sahiplenmektir: ona göre tek yanlılık zaten kaçınılmazdır ve ideal tip, araştırmacının bakış açısını gizlemek yerin",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İkinci itiraz kümesi tipin gerçeklikle ilişkisini hedef alır: normal tip kuramının savunucularına göre ideal tip uç görüngülere odaklanır ve aralarındaki bağlan",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu itirazların zemininde kavramın statüsü yatar: ideal tip, toplumsal kuramda ve araştırmada öznel bir öğedir ve sosyolojiyi doğa bilimlerinden ayıran öznel öğe",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sonraki kuşaklar aracı Weber'den devraldı: karşılaştırmalı toplumbilim, kapitalizm gibi çağlar üstü görüngülerden tekil tarihsel oluşumlara kadar geniş bir alan",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İdealleştirmenin başka alanlardaki karşılığı da görünür hâle geldi: iktisadın homo economicus'u, yani yaşı, hevesleri ve toplumsal çevresi olmayan soyut karar a",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

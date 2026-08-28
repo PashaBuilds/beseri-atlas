@@ -3,317 +3,258 @@ id: aktor-kus-kralligi
 tip: aktor
 baslik: Kuş Krallığı
 ozet: >-
-  Bir dönem kuzeydeki komşusunu yöneten, kendi yazısını geliştiren ama o
-  yazı hâlâ okunamayan krallık; atlasta yazılı kaydın okunabilir ve
-  okunamaz diye ikiye ayrıldığı yer.
+  Kerma, Napata ve Meroe evreleriyle MÖ 2500'den MS 350'ye uzanan, MÖ 754-656
+  arasında Mısır'ı 25. hanedan olarak yöneten Nil krallığı; işaretleri
+  okunabilen ama dili hâlâ anlaşılamayan Meroitik yazının sahibi.
 donem: "03"
-tarih_baslangic: "-1070"
+tarih_baslangic: "-2500"
 tarih_bitis: "350"
 bolge: [afrika, islam-dunyasi]
 eksen: [siyasi, askeri, ekonomik, kulturel]
 guven_geneli: tartismali
-etiketler: [kus, meroe, nubya, yazi, nil, arkeoloji]
+etiketler: [kus, kerma, napata, meroe, nubya, yazi, nil, arkeoloji]
 ilgili:
+  - donem-02
   - donem-03
   - donem-04
+  - donem-05
   - aktor-misir-yeni-kralligi
+  - aktor-asur-imparatorlugu
+  - aktor-roma-imparatorlugu
   - aktor-aksum-kralligi
   - kavram-kanit-turu
   - kavram-arkeolojik-kanit
   - kavram-yazi-sistemi
-  - tartisma-sozlu-gelenek-kaynak-mi
   - kavram-tarih-yazimi
+  - tartisma-sozlu-gelenek-kaynak-mi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
     tur: ansiklopedi
     ad: "Wikipedia (EN) - Kingdom of Kush"
     url: https://en.wikipedia.org/wiki/Kingdom_of_Kush
-    erisim_tarihi: 2026-08-25
-    dogrulama_dizesi: "Kush"
-    not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane"
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "Kingdom of Kush"
+    not: "Giris kapisi; havuz kurali geregi makalede en fazla bir Wikipedia kunyesi"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "TDV Islam Ansiklopedisi - NUBE"
-    url: https://islamansiklopedisi.org.tr/nube
-    erisim_tarihi: 2026-08-25
-    dogrulama_dizesi: "NÛBE"
-    not: "Bolgenin sonraki donemlerini de kapsayan cografi ve tarihi cerceve"
+    tur: birincil
+    birincil_tur: tanik
+    ad: "1911 Encyclopaedia Britannica - Meroe maddesi (Wikisource transkripsiyonu)"
+    url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Meroe
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "Garstang"
+    not: "1911 tarihli ansiklopedi maddesi; modern arkeolojik olgu icin degil, kazilarin baslangic donemine (1905 tasima, 1910 Garstang kazisi) taniklik olarak kullanilir"
   - anahtar: k3
     tur: birincil
     birincil_tur: tanik
-    ad: "1911 Encyclopaedia Britannica — Nubia maddesi, Wikisource"
-    url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Nubia
-    erisim_tarihi: 2026-08-25
-    dogrulama_dizesi: "Nubia"
-    not: "Kazilarin baslangic donemine ait kayit; olgu kaynagi degil donem tanikligi"
-son_denetim: 2026-08-25
+    ad: "E. A. Wallis Budge - The Egyptian Sudan: Its History and Monuments, cilt 1 (1907), tam metin"
+    url: https://archive.org/download/egyptiansudanits01budg/egyptiansudanits01budg_djvu.txt
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "Piankhi"
+    not: "1907 tarihli donem tanigi; 20. yuzyil basinin bilgi durumunu gosterir, modern kronoloji icin tek basina kaynak degildir"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: kazi
+    ad: "G. A. Reisner - Excavations at Kerma I-III, Harvard African Studies V (1923), tam metin"
+    url: https://archive.org/download/excavationsatker0005geor/excavationsatker0005geor_djvu.txt
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "EXCAVATIONS AT KERMA"
+    not: "Kerma kazisinin birincil raporu; Reisner'in kendi yorumu sonradan terk edildi, rapor bulgu kaydi olarak kullanilir"
+  - anahtar: k5
+    tur: birincil
+    birincil_tur: nesne
+    ad: "Metropolitan Museum of Art koleksiyon kaydi - Shabti of Taharqo (obje 544883)"
+    url: https://collectionapi.metmuseum.org/public/collection/v1/objects/544883
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "Shabti of Taharqo"
+    not: "Muze API kaydi; Taharka saltanatinin nesne kaniti"
+  - anahtar: k6
+    tur: birincil
+    birincil_tur: tanik
+    ad: "Herodot - Tarihler II.29, Godley cevirisi (Perseus Digital Library)"
+    url: https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D2%3Achapter%3D29
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "Elephantine"
+    not: "MO 5. yuzyil antik tanigi; Elephantine otesini duyumla aktardigini kendisi soyler, cografi betimleme sinirli tanik olarak kullanilir"
+son_denetim: 2026-08-28
 denetim_durumu: onaylandi
-onarim_turu: 0
+onarim_turu: 1
 ---
 
-## Ne olduğu
+Kuş Krallığı, Nil'in Mısır'ın güneyinde kalan vadisinde, bugünkü Sudan
+topraklarında kurulmuş bir devletti.[^k1] Tarihi tek bir çizgi hâlinde değil üç
+evre olarak okunur: Kerma kentinin çevresinde MÖ 2500-1500 arasında serpilen
+ilk devlet, Napata merkezli krallığın Mısır tahtını da ele geçirdiği orta evre
+ve MS 350 civarına kadar süren Meroe evresi.[^k1]
 
-Kuş Krallığı, Nil'in yukarı havzasında kurulmuş ve bin yılı aşkın süre
-varlığını sürdürmüş devlettir.[^k1] Merkezi zaman içinde kuzeyden güneye
-doğru kaydı; bu kayma krallığın tarihini iki ayrı döneme böler ve iki
-dönem farklı kanıt kümelerine dayanır.
+Krallığı hem Afrika tarihinin hem kaynak eleştirisinin ortasına yerleştiren iki
+olgu vardır. İlki siyasidir: Kuşlu hanedan MÖ 754-656 arasında Mısır'ı 25.
+hanedan olarak yönetti ve bölgedeki olağan güç yönünü bir yüzyıl boyunca
+tersine çevirdi.[^k1] İkincisi kanıtla ilgilidir: krallık kendi yazısını
+geliştirdi, bu yazının işaretleri bugün okunabiliyor, ama arkasındaki dil hâlâ
+anlaşılamıyor; ortada seslendirilebilen fakat çevrilemeyen bir metin külliyatı
+duruyor.[^k1]
 
-Krallık, bir dönem kuzeydeki komşusunu da yönetti.[^k1] Bu, bölgedeki
-olağan güç yönünün tersine döndüğü bir aralıktır ve kaynaklarda bu
-tersine dönüş belirgin biçimde işlenir.
+## Kerma: ilk devlet
 
-Bu dosyanın asıl konusu krallığın kendi yazısıdır.[^k3] Yazı
-geliştirilmiş, kullanılmış ve bugüne ulaşmıştır; ama okunamamaktadır.
+İlk evrenin merkezi, Nil'in üçüncü çağlayanı yakınındaki Kerma kentiydi. Kerma
+kültürü MÖ 2500'den 1500'e kadar varlığını sürdürdü; dönemin Nil vadisinde yan
+yana yaşayan birkaç devletinden biriydi ve yukarı Nubya'da doğup etkisini
+kuzeye, Mısır sınırına kadar genişletti.[^k1]
+
+Kentin höyüğünü ilk sistemli biçimde kazan kişi George Reisner oldu; kazının
+raporu 1923'te Harvard African Studies dizisinin beşinci cildi olarak
+yayımlandı ve alanın 1913'teki hâlini ayrıntısıyla betimler.[^k4] Ana gömüde
+Assiut beyi Hepzefa ile eşi Sennuwy'nin heykellerini bulan Reisner, yerleşimi
+Mısırlı yöneticilerin oturduğu, ticaret karakolundan büyümüş bir sınır
+istasyonu olarak yorumladı.[^k4]
+
+Bu yorum sonradan tersine döndü: bugün Kerma, Mısır'ın bir uzantısı değil,
+dönemin Nil vadisi devletlerinden biri olan yerli bir krallığın merkezi
+sayılıyor.[^k1] Yorum değişse de Reisner'in bulgu kaydı geçerliliğini korur ve
+[Arkeolojik kanıt](/kavram/arkeolojik-kanit/) dosyasındaki ayrımı somutlar:
+kazı raporu ile kazıcının yorumu, aynı cildin içinde bile ayrı katmanlardır.
+
+İlk evreyi kapatan güç Mısır'dı. [Mısır Yeni
+Krallığı](/aktor/misir-yeni-kralligi/) orduları bölgeyi ele geçirdi; MÖ
+1504-1070 arasında Nubya, "Kuş'un kral oğlu" unvanını taşıyan valiler eliyle
+bir Mısır eyaleti olarak yönetildi.[^k1][^k4] Mısır çekildikten sonraki
+yüzyıllar kaynaklarda karanlıktır; krallık bu karanlığın içinden, MÖ 1070 ile
+754 arasında yeniden biçimlenerek çıktı.[^k1]
+
+## Mısır tahtında: 25. hanedan
+
+Yeni merkez, kutsal dağ Jebel Barkal'ın eteğindeki Napata'ydı. MÖ 8. yüzyılda
+kral Kashta, Yukarı Mısır'da kral olarak tanınmayı savaşsız elde etti; ardılı
+Piye Aşağı Mısır'ı fethederek Mısır kral listelerine 25. hanedan diye geçen
+Kuşlu hanedanı kurdu.[^k1] Hanedanın Mısır üzerindeki hükmü MÖ 754'ten 656'ya
+kadar, bir yüzyılı aşkın sürdü.[^k1] Hanedan gücünü yalnızca orduya değil dinî
+makamlara da yasladı: Kashta'nın kızı Amenirdis, Teb'de Amun'un tanrısal eşi
+makamına atandı ve aynı makam daha sonra Piye'nin kızı Shepenupet'e
+geçti.[^k1]
+
+Hanedanın en bilinen adı Taharka'dır. Metropolitan Museum koleksiyonundaki
+granit bir şabti figürü, Taharka'nın MÖ 690-664 aralığına tarihlenen
+saltanatına aittir; müze kaydı figürü Nuri'deki kral gömülerine ve Kuşlu 25.
+hanedana bağlar.[^k5] Tek bir nesnenin bile taşıdığı bilgi katmanı — hükümdar
+adı, tarih aralığı, gömü yeri — bu dönemin kaydının ne kadar okunabilir
+olduğunu gösterir; çünkü saray bu evrede kendi dilini değil Mısır yazısını
+kullanıyordu.
+
+Nitekim Budge, krallığın bu evredeki durumuna ışık tutan başlıca tanıklar
+olarak Tanutamon, Aspelta ve Nastasen gibi kralların Mısırca dikilitaşlarını
+sayar.[^k3] Okunamayan yazı sorunu bu evrenin değil, sonraki evrenin
+sorunudur.
+
+Hükümranlığı bitiren güç Mezopotamya'dan geldi. [Asur
+İmparatorluğu](/aktor/asur-imparatorlugu/) kralları Esarhaddon ve Ashurbanipal
+art arda Mısır'a girdi; son Kuşlu firavun Tantamani güneye çekildi ve Mısır MÖ
+656'da Psamtik yönetiminde yeniden kendi hanedanının eline geçti.[^k1]
+
+## Güneye dönüş: Meroe
+
+Mısır'dan çekilme krallığın sonu değil, merkezin kaydığı bir eşikti. Başkentin
+Meroe'ye taşınması için verilen tarih MÖ 591'dir; ama kayma tek bir yıla
+sığmaz: kral gömüleri MÖ 300 civarına kadar Napata bölgesindeki el-Kurru ve
+Nuri'de kalmayı sürdürdü, sonra onlar da güneye taşındı.[^k1] Diodorus'un aktardığı bir anlatıya göre kral
+Ergamenes, Napata rahiplerinin buyruğuna boyun eğmeyi reddedip onları kılıçtan
+geçirtmişti; gömülerin taşınması bu kopuşun mimarideki izi olarak
+yorumlanır.[^k1]
+
+Meroe bir demir kentiydi. Ormanları ocaklara yakılan Butana ovasında geriye
+cüruf yığınları kaldı; krallık Roma'ya demir ürünleri, altın, fildişi ve köle
+satıyor, konumu ona Kızıldeniz ticaret yollarına erişim veriyordu.[^k1] Uzun
+mesafe ticaretinin bu kalemlerde toplanması rastlantı değildir: taşıma
+maliyeti, ancak birim ağırlığı yüksek değer taşıyan malları uzağa gönderilebilir
+kılar.
+
+Meroe evresini çağdaşlarından ayıran bir başka özellik, kandake unvanını
+taşıyan kadın hükümdarlardır. Bunlardan Amanirenas, Roma'nın Mısır'ı ele
+geçirmesinin hemen ardından Roma ordusuyla savaşa girdi; savaş sırasında
+Napata yağmalandı, ama yıkım kandakeyi savaş alanından çekilmeye
+yetmedi.[^k1] Savaş fetihle değil pazarlıkla bitti: Kuş elçileri Roma'nın
+Mısır valisi Petronius'la masaya oturdu, Kuş lehine sayılan koşullarla bir
+barış antlaşması yapıldı ve iki ülke arasındaki ticaret savaşın ardından
+arttı.[^k1] Sınırın kuzeyindeki Nubya şeridi MÖ 3. yüzyıldan MS 3. yüzyıla
+kadar önce Ptolemaios krallığının, sonra Roma'nın elindeydi; Meroe bu altı yüz
+yıllık dönem boyunca sınırın güney yakasında ayakta kaldı.[^k1]
 
 ## Okunamayan yazı
 
-Atlasın kanıt dosyası dört kanıt türü tanır ve bunlardan biri
-çağdaş yazılı kayıttır.[^k1] Bu dosya o türün ikiye ayrılması
-gerektiğini gösterir.
-
-Yazılı kayıt okunabiliyorsa olay sırası, karar ve niyet sorularına cevap
-verir.[^k3] Okunamıyorsa bu soruların hiçbirine cevap veremez; geriye
-yalnızca yazının varlığı, dağılımı ve biçimi kalır.
-
-Okunamayan bir yazı, bu bakımdan nesne kanıtına yaklaşır.[^k2] Nerede
-bulunduğu, kimlerin kullandığı ve ne kadar yaygın olduğu sorulabilir;
-ne dediği sorulamaz.
-
-## Ayrımın atlas için sonucu
-
-Atlas bu ayrımı bir kural olarak kaydeder.[^k1] **Bir yazının varlığı, o
-yazının okunabildiği anlamına gelmez; okunamayan yazı bir metin değil bir
-nesnedir.**
-
-Kural, bu krallığa özgü değildir.[^k3] Atlasın kapsamındaki başka
-bölgelerde de çözülememiş yazı sistemleri bulunmaktadır ve aynı kısıt
-onlar için de geçerlidir.
-
-Sonucu doğrudan pratiktir.[^k2] Bir bölge hakkında "yazılı kayıt var"
-demek, o bölgenin olay tarihinin yazılabileceği anlamına gelmez.
-
-## Yazının niteliği
-
-Krallık, önce komşusunun yazı sistemini kullandı, sonra kendi sistemini
-geliştirdi.[^k1] İkinci sistem, ilkinden yapı olarak farklıdır ve daha az
-işaret kullanır.
-
-İşaretlerin ses değerleri büyük ölçüde belirlenebilmiştir.[^k3] Metinler
-seslendirilebilir ama anlaşılamaz; çünkü dilin kendisi bilinmemektedir.
-
-Bu, alışılmadık bir durumdur.[^k2] Çoğu çözülmemiş yazıda sorun
-işaretlerin ne olduğudur; burada işaretler biliniyor, dil bilinmiyor.
-
-## Neyin bilinebildiği
-
-Bilinemeyenlere karşılık bilinenler de vardır ve dosya ikisini ayrı ayrı
-yazar.[^k1] Kazılardan gelen bulgular, yapı kalıntıları ve gömü
-düzenleri geniş bir bilgi kümesi sağlar.
-
-Piramit biçimli mezar yapıları, hükümdar sıralamasının bir bölümünü
-çıkarmayı mümkün kılar.[^k3] Yapıların büyüklüğü ve konumu, hiyerarşi ve
-süreklilik hakkında bilgi verir.
-
-Bu, atlasın kanıt dosyasında tanımlanan dağılımı doğrudan
-örnekler.[^k2] Nesne kanıtı üretim örgütlenmesi ve süreklilik sorularına
-cevap verir; karar ve niyet sorularına veremez.
-
-## Kuzeyi yönetme dönemi
-
-Krallık, sekizinci yüzyılda kuzeydeki ülkeyi askerî olarak ele geçirdi ve
-bir hanedan kurdu.[^k1] Hanedan yaklaşık bir yüzyıl sürdü ve bölgenin
-hanedan sıralamasına dâhil edilir.
-
-Bu dönemin kaydı büyük ölçüde kuzeyden gelir.[^k3] Yani yöneten tarafın
-kaydı değil, yönetilen tarafın kaydı elimizdedir.
-
-Atlas bu durumu ayrıca işaretler.[^k2] Bir yönetim ilişkisinde kaydın
-hangi taraftan geldiği, o ilişkinin nasıl anlatıldığını da belirler ve
-burada anlatan taraf yönetilen taraftır.
-
-## Kaydın yönünün sonucu
-
-Yönetilen tarafın kaydı, yöneten tarafı kendi çerçevesine
-yerleştirir.[^k1] Hanedan, o çerçevenin kategorileriyle tanımlanır ve
-kendi kategorileriyle değil.
-
-Bu, atlasın Hazarlar dosyasında ölçülen mekanizmayla aynı
-ailedendir.[^k3] Orada bir düzen yalnızca komşularının kaydından
-biliniyordu; burada bir yönetim dönemi yalnızca yönetilenin kaydından
-biliniyor.
-
-İki durumun ortak yanı şudur.[^k2] Kaydı kimin tuttuğu, olgunun kendisini
-değil ama olgunun hangi terimlerle aktarıldığını belirler ve bu ikisi
-kolayca karıştırılır.
-
-## Kuzeyden çekilme
-
-Hanedan, kuzeyden gelen bir başka gücün baskısıyla güneye
-çekildi.[^k1] Çekilme, krallığın sonu değil merkezinin değişmesi
-oldu.
-
-Merkez daha güneye taşındı ve krallık burada bin yıla yakın daha
-sürdü.[^k3] Bu ikinci dönem, birinci dönemden farklı bir kültürel
-görünüm taşır.
-
-Atlas iki dönemi ayrı ayrı kaydeder.[^k2] Aynı ad altında sürmek, aynı
-düzenin sürdüğü anlamına gelmez ve iki dönem arasındaki fark yazı, gömü
-ve mimari bulgularından okunabilir.
-
-## İkinci dönemin özellikleri
-
-İkinci merkez, demir işleme ve uzun mesafeli ticaretle
-bilinir.[^k1] Bölgede bulunan cüruf yığınları, üretimin ölçeği hakkında
-doğrudan kanıt sağlar.
-
-Ticaret, hem kuzeye Akdeniz'e hem doğuya Kızıldeniz üzerinden
-yürüyordu.[^k3] Fildişi, altın, abanoz ve hayvan ihraç kalemleriydi.
-
-Bu kalemlerin ortak özelliği, birim ağırlık başına yüksek değer
-taşımalarıdır.[^k2] Atlas bu ölçütü Aşanti dosyasında da ölçmüştü; uzun
-mesafeli ticaret, taşıma maliyetinin elediği malları geride bırakır.
-
-## Kraliçelerin konumu
-
-Krallıkta hükümdarlık yapan kadınların sayısı, çevre bölgelere göre
-belirgin biçimde yüksektir.[^k1] Bu, yapı kabartmalarından ve gömü
-düzenlerinden okunabilir.
-
-Kanıt nesne kanıtıdır ve bu, ne söyleyebileceğini de sınırlar.[^k3]
-Kadınların hükümdarlık yaptığı gösterilebilir; hangi yetkilerle ve hangi
-kurallara göre yaptıkları gösterilemez.
-
-Atlas farkı ayrıca yazar.[^k2] Bir olgunun varlığını kanıtlamak ile o
-olgunun nasıl işlediğini açıklamak farklı kanıt türleri gerektirir.
-
-## Din ve tapınak düzeni
-
-Krallıkta kuzeydeki komşudan alınmış tanrılarla yerel tanrılar bir arada
-bulunuyordu.[^k1] Tapınak yapıları iki geleneğin unsurlarını birlikte
-taşır.
-
-Bu, atlasın Kuşan dosyasında kaydedilen ayrımın bir başka
-örneğidir.[^k3] Unsurların yan yana durması ile birleşmesi ayrı
-süreçlerdir ve nesne kanıtı çoğu zaman ikisini ayırmaya yetmez.
-
-İkinci dönemde yerel unsurların ağırlığı arttı.[^k2] Değişim, tapınak
-programlarından ve ikonografiden izlenebilir ama nedeni
-belirlenemez.
-
-## Çöküş
-
-Krallık dördüncü yüzyılda sona erdi.[^k1] Sona erişin nedeni kesin olarak
-bilinmemektedir.
-
-Öne sürülen etkenler arasında güneydeki bir devletin askerî baskısı,
-ticaret hatlarının değişmesi ve çevresel bozulma bulunur.[^k3] Üçü de
-aynı olguya uyar ve hiçbiri bağımsız olarak sınanmış değildir.
-
-Atlas bir sonuca bağlanmaz.[^k2] Sonucu bilerek gerekçe aramak, atlasın
-kaçındığı işlemdir ve burada üç gerekçe adayı da bu riski taşır.
-
-## Sonrasında bölge
-
-Krallığın ardından bölgede yeni siyasi birimler kuruldu.[^k2] Sonraki
-yüzyıllarda bu birimler Hristiyanlığı, daha sonra İslam'ı benimsedi.
-
-Bu dosya o dönemleri kapsamaz.[^k1] Ayrı dosyalar gerektirirler ve bu
-dosya yazıldığında atlasta bulunmuyorlardı.
-
-Bölgenin sonraki tarihi için künyelenen ansiklopedi maddesi bir başlangıç
-noktası sağlar.[^k2] Maddenin kapsamı bu dosyanınkinden geniştir ve
-sonraki dönemleri de içerir.
-
-## Kazı yoğunluğu sorunu
-
-Bölgede yapılan kazıların yoğunluğu, kuzeydeki komşu bölgeninkinden çok
-daha düşüktür.[^k3] Bu fark, bilinenlerin dağılımını doğrudan etkiler.
-
-Atlasın kanıt dosyasında formüle edilen ölçüt burada doğrudan
-geçerlidir.[^k1] En erken tarih, kazılmış alanların en erken tarihidir;
-kazılmamış alanlar hakkında bir şey söylemez.
-
-Bölgenin bir bölümü baraj yapımı nedeniyle su altında
-kalmıştır.[^k2] Bu, kazı imkânını kalıcı olarak ortadan kaldırmıştır ve
-kısıt geri alınamaz niteliktedir.
-
-## Kalıcı kayıp kavramı
-
-Kazı imkânının kalıcı olarak ortadan kalkması, atlasın olağan
-kısıtlarından farklıdır.[^k3] Öteki kısıtlar zamanla azalabilir; bu
-azalmaz.
-
-Ayrım kaydedilmelidir.[^k1] Bir bilginin şu anda bulunmaması ile
-bulunmasının imkânsız hâle gelmiş olması, aynı cümleyle ifade edilir ama
-aynı şey değildir.
-
-Atlas iki durumu ayrı işaretler.[^k2] Birincisi bir borç, ikincisi bir
-sınırdır ve borç defterine yalnızca birincisi yazılabilir.
-
-## Adlandırma sorunu
-
-Krallık, kaynaklarda birden çok adla anılır.[^k1] Adların bir bölümü
-komşularının verdiği adlardır, bir bölümü modern arkeolojinin
-kullandığı bölge adlarıdır.
-
-Krallığın kendisine ne dediği bilinmemektedir.[^k3] Yazı okunamadığı için
-kendi adlandırması da çıkarılamamıştır.
-
-Atlas bu durumu ayrıca yazar.[^k2] Bir düzeni yalnızca başkalarının
-verdiği adla anmak, o düzenin kendi kendini nasıl tanımladığı sorusunu
-cevapsız bırakır.
-
-## Kaynak durumu
-
-Bu dosyanın üç künyesinden biri giriş kapısı, biri ansiklopedi maddesi,
-biri dönem tanıklığıdır.[^k1] Krallığın kendi metinleri
-künyelenememiştir.
-
-Metinler mevcuttur ve yayımlanmıştır.[^k3] Okunamadıkları için içerik
-olarak künyelenmeleri de anlamlı olmazdı; künyelenmeleri gereken şey
-yayınlanmış kazı raporlarıdır.
-
-Kazı raporlarının doğrulanabilir çevrimiçi baskıları bu dosya
-yazıldığında bulunamamıştır.[^k2] Eksik borç defterine yazılmıştır.
-
-## Kapsam dışı
-
-Hükümdarların tam listesi ve tarihlemesi verilmez.[^k1] Sıralamanın bir
-bölümü gömü yapılarından çıkarılmıştır ve tartışmalıdır.
-
-Yazının çözülmesine yönelik çalışmaların ayrıntısı kapsam
-dışıdır.[^k3] Dosya yalnızca çözülmemiş olmasının kanıt değeri
-bakımından ne anlama geldiğini kaydeder.
-
-Bölgenin sonraki Hristiyan ve İslam dönemleri işlenmez.[^k2] Ayrı
-dosyalar gerektirirler.
-
-## Bu dosyanın sınırı
-
-Dosya, krallığın kuzeydeki komşusunun bir uzantısı olduğunu ileri
-sürmez.[^k1] Ortak unsurlar vardır ve ayrı unsurlar da vardır; ikisi
-birlikte kaydedilir.
-
-Çöküşün nedeni belirlenmez.[^k3] Üç gerekçe adayı sıralanır ve hiçbirinin
-sınanmadığı yazılır.
-
-Yazının okunmasıyla bu dosyanın büyük ölçüde değişeceği
-beklenmelidir.[^k2] Dosya bu ihtimali baştan kaydeder; bugünkü hâli,
-elde bulunan kanıtın hâlidir.
-
-## Okuma yönlendirmesi
-
-Krallığın bir dönem yönettiği ülke için
-[Mısır Yeni Krallığı](/aktor/misir-yeni-kralligi/), bölgenin güneyindeki
-sonraki güç için [Aksum Krallığı](/aktor/aksum-kralligi/) dosyaları
-okunmalıdır.[^k1]
-
-Kanıt türlerinin hangi soruya cevap verdiği için
-[Kanıt türü](/kavram/kanit-turu/) ve
-[Arkeolojik kanıt](/kavram/arkeolojik-kanit/) dosyaları uygundur; bu
-dosya o ayrımı bir alt başlıkla genişletir.[^k3]
-
-Yazının kendisi için [Yazı sistemi](/kavram/yazi-sistemi/), kaydı kimin
-tuttuğunun neyi değiştirdiği için
-[Tarih yazımı](/kavram/tarih-yazimi/) dosyaları okunabilir.[^k2]
+Meroe evresinin en kalıcı mirası ve en büyük bilmecesi yazıdır. Meroitik yazı
+23 işaretli alfabetik bir sistemdi; anıtlarda hiyeroglif biçimi, gündelik
+kullanımda ise el yazısı biçimi kullanılıyordu ve bu ikincisinden bugüne 1.278
+dolayında metin ulaştı.[^k1]
+
+İşaretlerin ses değerlerini Griffith çözdü; metinler bugün seslendirilebiliyor.
+Ama arkalarındaki dil bilinmiyor: anlamı belirlenebilmiş kelime sayısı bir
+avuçtur ve Meroitik dili bilinen başka bir dille bağlantılandırma girişimleri
+şimdiye dek sonuç vermedi.[^k1] Çoğu çözülmemiş yazıda sorun işaretlerin ne
+olduğudur; burada işaretler biliniyor, bilinmeyen dilin kendisidir.
+
+Bunun kanıt değeri açısından sonucu keskindir. Okunabilen yazılı kayıt olay
+sırası, karar ve niyet sorularına cevap verebilir; okunamayan yazı ise ancak
+bir nesne gibi konuşur — nerede bulunduğu, kimlerce kullanıldığı, ne kadar
+yaygın olduğu söylenebilir, ne dediği söylenemez. [Yazı
+sistemi](/kavram/yazi-sistemi/) ile [Kanıt türü](/kavram/kanit-turu/)
+dosyalarındaki ayrım burada sınanır: bir yazının varlığı, o yazının tarih
+yazımına katılabildiği anlamına gelmez.
+
+## Herodot'un duyduğu şehir
+
+Krallığın dış dünyadaki en eski betimlemelerinden biri MÖ 5. yüzyıldan,
+Herodot'tan gelir. Herodot, Nil boyunca ancak Elephantine'e kadar kendi
+gözüyle gördüğünü, ötesini soruşturarak ve duyumla aktardığını açıkça
+söyler.[^k6] Anlattığına göre Elephantine'in ötesinde kırk günlük bir kara
+yolculuğu, ardından on iki günlük bir nehir yolculuğu insanı Meroe denen büyük
+şehre getirir; burası ona "bütün Etiyopya'nın anakenti" diye tarif
+edilmiştir.[^k6]
+
+Bu tanıklığın değeri de sınırı da aynı cümlede durur: Herodot gördüğü yerde
+tanık, duyduğu yerde aktarıcıdır ve Meroe onun duyduğu yerdedir.[^k6]
+Adlandırma katmanları da üst üste biner: Mısır kaynakları Kuş, Yunanlar
+Aithiopia, modern arkeoloji Nubya der ve adların her biri bir dış bakışın
+izini taşır.[^k1] Dolaylı aktarımın kaynak değeri [Sözlü gelenek kaynak
+mı](/tartisma/sozlu-gelenek-kaynak-mi/) tartışmasının konusudur.
+
+## Aksum ve dağılma
+
+Son, kuzeyden değil güneydoğudan geldi. MS 4. yüzyılda krallık Noba ve Blemmi
+topluluklarının baskısı altındaydı; bu zayıflamayı fırsat bilen Aksumlular
+Meroe'yi ele geçirip altınını yağmaladı ve Aksum kralı Ezana, Etiyopya
+krallığını unvanları arasına kattı.[^k1] Aksum'un buradaki varlığı büyük
+olasılıkla kısa sürdü; ama krallık bir daha toparlanamadı ve Nobatia, Makuria
+ile Alodia adlı üç ayrı siyasi birime dağıldı.[^k1]
+
+Sefer için kayıtlara geçen tarih MS 330'dur; krallığın sonu için verilen
+yaklaşık tarih ise MS 350'dir.[^k1] İki tarihin arasındaki boşluk, çöküşün bir
+olay değil süreç olduğunu hatırlatır. Meroe'yi yıkan gücün sonraki yüzyıllarda
+yükselişi [Aksum Krallığı](/aktor/aksum-kralligi/) dosyasında anlatılıyor.
+
+## Kazmanın tarihi
+
+Krallık hakkında bilinenlerin çatısı, 20. yüzyıl başının birkaç on yılında
+kuruldu. E. A. Wallis Budge, 1907'de yayımladığı The Egyptian Sudan'da, 1905
+baharında Hartum'da yeni kurulan müzeye eser toplamak için Sudan'a
+gönderildiğini ve başlıca antik yerleşimleri dolaştığını anlatır.[^k3] Meroe
+piramitlerinde zengin gömü eşyası bulma beklentisinin boşa çıktığını, tonozlu
+odalardaki cesetlerin yakılmış olduğunu görür.[^k3]
+
+1911 Britannica'nın Meroe maddesi aynı yılların tanığıdır: 1905'te
+kabartmaların taş taş sökülüp bir bölümünün British Museum'a, bir bölümünün
+Hartum müzesine taşındığını, 1910'da ise Sayce'in raporu üzerine Garstang'ın
+Liverpool Üniversitesi adına höyükte kazıya başladığını ve bir saray ile
+birkaç tapınağın ortaya çıkarıldığını aktarır.[^k2]
+
+Bu erken katmanın kendisi de bir kaynak eleştirisi dersi taşır. Budge, Sudan'ın
+erken tarihini "yaklaşık MÖ 4000'den" Piankhi'nin yükselişine kadar Mısır
+anıtlarından izlediğini yazar ve bu yükselişi MÖ 750 civarına
+yerleştirir.[^k3] Buradaki çerçeve 1907'nin bilgi durumudur; iki eserin değeri
+olgu aktarmaktan çok, bilginin hangi kazılarla ve hangi varsayımlarla
+kurulduğunu göstermesindedir.[^k3]
+
+Yazının çözülmemişliği ile kazı tarihinin gençliği aynı yere çıkar: krallığın
+anlatısı, komşularının arşivlerine yaslanan bölümlerinde ayrıntılı, kendi
+sesiyle yazılması gereken bölümlerinde boşluklu kalır. Meroitik dilin
+çözülmesi bu dengeyi bir anda değiştirebilir; o güne kadar Kuş, eski dünyanın
+en iyi belgelenmiş okunamayanı olarak durmayı sürdürecek.[^k1]

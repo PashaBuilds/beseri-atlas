@@ -1,5 +1,5 @@
 ## kaynak-ibn-haldun-mukaddime
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.648Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T19:07:54.456Z_
 
 - [ATOMSUZ] k1 → "Kaynak eseri şöyle künyeler: bir dünya tarihi niteliği taşıyan bu eser, önsöz ve giriş mahiyetinde kaleme alın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Bir yedi ciltlik dünya tarihinin önsözünün kendi adıyla anılır hâle gelmesi, atlasın şu kuralının dayanağıdır:…"
@@ -11,7 +11,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.648Z_
 - [ATOMSUZ] k3 → "Aynı ölçekte çalışan sonraki bir tarihçi için tutulan kayıt, zamanı katmanlara ayıran ve olayları en yüzeydeki…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Atlas iki yaklaşım arasında bir öncüllük bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmem…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Atlas iki yaklaşım arasında bir öncüllük bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmem…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir ansiklopedi maddesidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Bu dosya eserin kamu malı tam metnine bağlanır: Mukaddime." — programatik olarak ölçülemedi (ad karşılığı yok): Mukaddime
+- [ATOMSUZ] k4 → "Künye, eserin kamu malı Arapça tam metnine bağlanır." — programatik olarak ölçülemedi (ad karşılığı yok): Arapça
+- [ATOMSUZ] k1 → "Eser hakkındaki çerçeve ise bir ansiklopedi maddesinden gelir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
 **Özet:** 3 OK · 0 ISARET · 0 HATA · 9 ATOMSUZ

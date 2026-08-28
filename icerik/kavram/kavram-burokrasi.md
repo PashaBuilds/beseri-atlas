@@ -28,6 +28,7 @@ ilgili:
   - kavram-kipu
   - kavram-veraset
   - kavram-okuryazarlik
+  - kavram-ideal-tip
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

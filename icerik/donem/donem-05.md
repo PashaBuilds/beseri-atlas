@@ -34,6 +34,7 @@ ilgili:
   - aktor-moche
   - aktor-teotihuacan
   - aktor-kusan-imparatorlugu
+  - aktor-kus-kralligi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

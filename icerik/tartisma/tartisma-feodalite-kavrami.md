@@ -30,6 +30,7 @@ ilgili:
   - kavram-taoizm
   - kavram-konfucyuscluk
   - kaynak-magna-carta
+  - kavram-hegemonya
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

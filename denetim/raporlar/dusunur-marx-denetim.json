@@ -1,93 +1,345 @@
 {
   "id": "dusunur-marx",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:24.174Z",
-  "govde_hash": "cca576e50bd8",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T19:42:12.909Z",
+  "govde_hash": "32503edda988",
+  "commit": "c9a3451",
   "sonuclar": [
     {
+      "anahtar": "k7",
+      "iddia": "Karl Marx, 5 Mayıs 1818'de Prusya'nın Trier kentinde doğdu; 14 Mart 1883'te, ömrünün son otuz dört yılını sürgün olarak geçirdiği Londra'da, hiçbir devletin vat",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
       "anahtar": "k1",
-      "iddia": "Kaynak onu 1818-1883 arasında yaşamış ve sıklıkla filozoftan çok eylemci, eserleri komünist rejimlerin kuruluşuna ilham vermiş bir devrimci olarak ele alınan bi",
+      "iddia": "Sıklıkla filozoftan çok bir eylemci, eserleri yirminci yüzyılda komünist rejimlerin kuruluşuna esin veren bir devrimci olarak anılır; oysa yetişmesi felsefeydi ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bu soruları izlerken geliştirdiği kavramlar — yabancılaşma, tarihsel materyalizm, sınıf mücadelesi, artı-değer — hem ölümünden sonra adına kurulan siyasal rejim",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Hukuk okumak için önce Bonn'a, sonra Berlin'e gitti; orada Hegel'in felsefesiyle ve 1837'den itibaren Genç Hegelciler çevresiyle tanıştı, 1841'de Jena Üniversit",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Akademik kariyerin kapıları siyasal iklim yüzünden kapanınca gazeteciliğe yöneldi: 1842'de Köln'de çıkan Rheinische Zeitung'un yazı işlerini üstlendi, gazete Pr",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Paris yılları iki belirleyici karşılaşmanın yeridir: ekonomi politikle — Adam Smith ve David Ricardo'yu burada okumaya başladı — ve 1844'te ömürlük çalışma arka",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Sürgün onu önce Brüksel'e savurdu; patlak verince Köln'e dönüp Neue Rheinische Zeitung'u çıkardı, karşı-devrim üstün gelince 1849'da Londra'ya geçti.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Hayatının geri kalanını orada, uzun süre yoksulluk içinde, British Museum'da araştırma yaparak ve gazetelere yazarak geçirdi; öldüğünde Londra'daki Highgate Mez",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Yabancılaşma, kişi ile ona aslında ait olan bir şey — emeği, ürünü, başka insanlar — arasındaki sorunlu ayrılığı adlandırır; kavramın modern tartışması büyük öl",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, ahlakın ve ahlaki eleştirinin onun çağdaş kapitalist topluma yönelik eleştirisindeki tam rolünün çokça tartışıldığını ve bu meselelerde yerleşik bir bil",
+      "iddia": "Marx'ın erken yazılarına bu teşhis hâkimdir ve teşhis, insan doğasına ve onun serpilmesine dair tartışmalı bir anlatıya dayanır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak toplumsal ve siyasal felsefe bakımından şu konuları sayar: felsefi antropolojisi, tarih kuramı, iktisadi çözümlemesi, çağdaş kapitalist toplumla eleştire",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Altı ayrı başlığın sıralanması, atlasın bu dosyada neden tek bir tez cümlesi kurmadığını gösterir; kaynak bile tek bir başlık kullanmamaktadır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, erken yazılarına yabancılaşma anlayışının hâkim olduğunu ve bu teşhisin insan doğası ile onun serpilmesine dair tartışmalı bir anlatıya dayandığını yaza",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir düşünürün kavramlarının dönemlere göre sıralanması, \"Marx şöyle der\" cümlelerinin hangi döneme ait olduğu belirtilmeden kurulamayacağını gösterir; aynı soru",
+      "anahtar": "k7",
+      "iddia": "Paris'te 1844'te kaleme aldığı elyazmaları sağlığında yayımlanmadı; metinler ancak 1932'de basıldı ve yirminci yüzyılın Marx okumasını derinden etkiledi.",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k3",
-      "iddia": "Bir önceki kuşağın düşünürü için tutulan kayıt, felsefesine dair üç ayrı okumayı alt başlıklar hâlinde sıralar.",
+      "anahtar": "k5",
+      "iddia": "Orada ücretli emek dört yönlü bir yabancılaşma olarak çözümlenir: işçi emeğinin ürününe, üretim etkinliğinin kendisine, türsel varlığına ve öteki insanlara yaba",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Çözümlemenin çıkış gözlemi serttir: işçi ne kadar çok zenginlik üretirse o kadar yoksullaşır, çünkü emeğinin ürünü karşısına kendisinden bağımsız, yabancı bir g",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "İki kaydın da yorum çokluğunu ayrı ayrı kaydetmesi, bu iki dosyanın neden tartışmalı olarak işaretlendiğini gösterir.",
+      "iddia": "Marx'a göre bunun kökeninde çalışmanın kendisi değil, çalışmanın özel mülkiyet altındaki biçimi vardır; emek aslında yaratıcı ve doyurucu olabilecek bir etkinli",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k3",
-      "iddia": "İki kaydın da yorum çokluğunu ayrı ayrı kaydetmesi, bu iki dosyanın neden tartışmalı olarak işaretlendiğini gösterir.",
+      "anahtar": "k1",
+      "iddia": "Çoğu kez tarihsel materyalizm denen tarih kuramının çekirdeği, toplum biçimlerinin insanın üretici gücünün gelişimini önce ilerlettikçe yükselip sonra engelledi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuramın klasikleşmiş formülasyonu Kapital'de değil, 1859'da yayımlanan Ekonomi Politiğin Eleştirisine Katkı'nın birkaç sayfalık önsözünde yer alır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kuramın klasikleşmiş formülasyonu Kapital'de değil, 1859'da yayımlanan Ekonomi Politiğin Eleştirisine Katkı'nın birkaç sayfalık önsözünde yer alır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Önsözün şeması iki katmanlıdır: üretim ilişkilerinin toplamı toplumun iktisadi yapısını, gerçek temelini oluşturur; hukuki ve siyasal üstyapı bu temelin üzerind",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Yaşadığı on yıldaki siyasi dalga için ayrı bir kayıt tutulur.",
+      "iddia": "En çok anılan cümle, bilinç ile varlık arasındaki ilişkiyi tersine çevirir: \"İnsanların varlığını belirleyen bilinçleri değil, tersine, bilinçlerini belirleyen ",
       "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İnsanların, Gelişimlerinin"
     },
     {
       "anahtar": "k2",
-      "iddia": "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "iddia": "En çok anılan cümle, bilinç ile varlık arasındaki ilişkiyi tersine çevirir: \"İnsanların varlığını belirleyen bilinçleri değil, tersine, bilinçlerini belirleyen ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İnsanların, Gelişimlerinin"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cohen'in savunduğu okuma önsözü işlevsel açıklamaya dayalı tutarlı bir kuram olarak kurtarmaya çalışır; başka yorumcular aynı metinde sınıf mücadelesinin adının",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Komünistler Birliği'nin görevlendirmesiyle Engels'le birlikte yazılan Komünist Manifesto 21 Şubat 1848'de yayımlandı; hemen ardından Avrupa'yı bir devrim dalgas",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metin, tarih yazımının en çok alıntılanan açılışlarından biriyle başlar: \"Şimdiye kadarki bütün toplumların tarihi, sınıf mücadeleleri tarihidir.\" Manifesto'ya ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metin, tarih yazımının en çok alıntılanan açılışlarından biriyle başlar: \"Şimdiye kadarki bütün toplumların tarihi, sınıf mücadeleleri tarihidir.\" Manifesto'ya ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Burjuvazi bu anlatıda çifte rol oynar: üretim araçlarını durmadan devrimcileştiren, görülmemiş bir üretici güç açığa çıkaran, ama kendi mezar kazıcısı olacak sı",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Artı değer kuramı, sınıf mücadelesi, ideoloji anlatısı ve devlet kuramı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işle",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Marx kendi konumunu, Fourier, Saint-Simon ve Owen çizgisine bağladığı ütopyacı sosyalizmden bilinçle ayırıyordu: ona göre sosyalizmi getirecek olan iyi niyetli ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Devrimlerin yenilgisi Marx'ı sokaktan çalışma masasına döndürdü; sınıf mücadelesi kavramı ise sonraki bütün eserlerinin siyasal omurgası olarak kaldı.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k4",
-      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Kapital.",
+      "iddia": "İktisadi çözümlemesinin başyapıtı olan Kapital'in birinci cildi 1867'de yayımlandı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "İktisadi çözümlemesinin başyapıtı olan Kapital'in birinci cildi 1867'de yayımlandı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çözümleme, Smith ve Ricardo'dan devralınan emek-değer kuramı üzerine kurulur: bir metanın değerini, onu üretmek için toplumsal olarak gerekli emek zamanı belirl",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kapital"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Smith, Ricardo"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İşçinin kapitaliste sattığı şey emeği değil emek gücüdür; işçiyi yaşatmanın maliyeti ile o gücün üretimde yarattığı değer arasındaki fark, artı-değer olarak ser",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "İşçinin kapitaliste sattığı şey emeği değil emek gücüdür; işçiyi yaşatmanın maliyeti ile o gücün üretimde yarattığı değer arasındaki fark, artı-değer olarak ser",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Marx bu farkı emeğin sömürülmesi olarak okur: kârın nihai kaynağı ödenmemiş emektir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Marx bu farkı emeğin sömürülmesi olarak okur: kârın nihai kaynağı ödenmemiş emektir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kitabın ilk büyük okur yankısı beklenmedik bir yerden geldi: Rusça çevirisine talep, kısa sürede 3.000 kopyalık bir basıma yol açtı.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Rusça"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "İkinci ve üçüncü ciltler sağlığında tamamlanmadı; Engels dağınık müsveddeleri derleyip 1885 ve 1894'te yayımladı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Din eleştirisi, 1844'te Paris'te çıkan bir dergide yayımladığı, Hegel'in hukuk felsefesinin eleştirisine yazdığı giriş yazısında en keskin ifadesini bulur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Metin, Almanya için din eleştirisinin esasta tamamlandığını ve din eleştirisinin her eleştirinin ön koşulu olduğunu söyleyerek açılır; din orada gerçek ıstırabı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Amaç dinle polemik değildir: eleştirinin asıl hedefi, insanları yanılsamaya muhtaç bırakan koşulların kendisidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Marx'a göre din, maddi hayattaki yabancılaşmaya bir cevaptır ve o hayat özgürleşmedikçe ortadan kalkmaz; göğün eleştirisi böylece yerin, ilahiyatın eleştirisi s",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Marx'a göre din, maddi hayattaki yabancılaşmaya bir cevaptır ve o hayat özgürleşmedikçe ortadan kalkmaz; göğün eleştirisi böylece yerin, ilahiyatın eleştirisi s",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Engels'le 1844'te başlayan ortaklık, düşünce tarihinin en uzun soluklu ortak yazarlıklarından biridir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1845-46'da birlikte yazdıkları Alman İdeolojisi tarih kuramının ilk geniş taslağını içerir; metin sağlıklarında yayımcı bulamadı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "1845-46'da birlikte yazdıkları Alman İdeolojisi tarih kuramının ilk geniş taslağını içerir; metin sağlıklarında yayımcı bulamadı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Aynı dönemin kısa notlarından oluşan Feuerbach Üzerine Tezler'in en bilineni on birinci tezdir: \"Filozoflar dünyayı yalnızca çeşitli biçimlerde yorumladılar; as",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Aynı dönemin kısa notlarından oluşan Feuerbach Üzerine Tezler'in en bilineni on birinci tezdir: \"Filozoflar dünyayı yalnızca çeşitli biçimlerde yorumladılar; as",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Marx'ın bugün okunan külliyatının hatırı sayılır bir bölümü, bu ortaklığın süzgecinden geçmiş metinlerdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Örgütçülüğü yazarlığına eşlik etti: 1864'te Londra'da kurulan Uluslararası İşçi Birliği'nin — Birinci Enternasyonal — önde gelen isimlerinden biri oldu.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Etkinin asıl ölçeği ise ölümünden sonra ortaya çıktı: özellikle 1917 Rus Devrimi'nin ardından adına bağlanan rejimler ve hareketler dünya siyasetini yüzyıl boyu",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Etki rejimlerle sınırlı da değildir: Durkheim ve Max Weber ile birlikte modern sosyolojinin kurucu mimarlarından sayılır; sınıf, ideoloji ve sermaye kavramları ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "En görüneni öngörü sorunudur: kurama göre komünizmin gelişi öngörülebilir olmalıdır, oysa kuramı geliştirmek için önerilen en iyi model olan evrimsel biyoloji t",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Beklenen devrimlerin ve çöküşün gerçekleşmemesi, bu kuramsal gerilimi tarihsel bir sınav sorusuna çevirdi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Değerlerin fiyatlara dönüştürülmesi sorununda Marx'ın kendi çözümü teknik güçlüklerle maluldür; Robert Nozick, kuram çürükse sömürü çözümlemesinin de çökeceğini",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Belirlenimcilik itirazı da buna eklenir: şemanın tarihi tek hatlı bir zorunluluk gibi okuması hem metne sadakat hem siyasal sonuçları bakımından sorgulanmış, yo",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ahlaki eleştirinin Marx'ın kapitalizm eleştirisindeki rolü ise çok tartışılmıştır ve bu konularda yerleşik bir bilimsel uzlaşı yoktur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Öngörülerinin aşınması ile çözümleyici kavramlarının kalıcılığı arasındaki bu açıklık yüzünden Marx okuması bugün de kapanmış değildir.",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

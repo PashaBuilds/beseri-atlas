@@ -1,369 +1,237 @@
 {
   "id": "aktor-kus-kralligi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:21.238Z",
-  "govde_hash": "1a5f8032ef4e",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T19:23:58.851Z",
+  "govde_hash": "ae0513ef0721",
+  "commit": "c9a3451",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kuş Krallığı, Nil'in yukarı havzasında kurulmuş ve bin yılı aşkın süre varlığını sürdürmüş devlettir.",
+      "iddia": "Kuş Krallığı, Nil'in Mısır'ın güneyinde kalan vadisinde, bugünkü Sudan topraklarında kurulmuş bir devletti.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Krallık, bir dönem kuzeydeki komşusunu da yönetti.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bu dosyanın asıl konusu krallığın kendi yazısıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Atlasın kanıt dosyası dört kanıt türü tanır ve bunlardan biri çağdaş yazılı kayıttır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Yazılı kayıt okunabiliyorsa olay sırası, karar ve niyet sorularına cevap verir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Okunamayan bir yazı, bu bakımdan nesne kanıtına yaklaşır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Atlas bu ayrımı bir kural olarak kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Kural, bu krallığa özgü değildir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Sonucu doğrudan pratiktir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Krallık, önce komşusunun yazı sistemini kullandı, sonra kendi sistemini geliştirdi.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "İşaretlerin ses değerleri büyük ölçüde belirlenebilmiştir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bu, alışılmadık bir durumdur.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bilinemeyenlere karşılık bilinenler de vardır ve dosya ikisini ayrı ayrı yazar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Piramit biçimli mezar yapıları, hükümdar sıralamasının bir bölümünü çıkarmayı mümkün kılar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bu, atlasın kanıt dosyasında tanımlanan dağılımı doğrudan örnekler.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Krallık, sekizinci yüzyılda kuzeydeki ülkeyi askerî olarak ele geçirdi ve bir hanedan kurdu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bu dönemin kaydı büyük ölçüde kuzeyden gelir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu durumu ayrıca işaretler.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Yönetilen tarafın kaydı, yöneten tarafı kendi çerçevesine yerleştirir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bu, atlasın Hazarlar dosyasında ölçülen mekanizmayla aynı ailedendir.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Hazarlar"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "İki durumun ortak yanı şudur.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Hanedan, kuzeyden gelen bir başka gücün baskısıyla güneye çekildi.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Merkez daha güneye taşındı ve krallık burada bin yıla yakın daha sürdü.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas iki dönemi ayrı ayrı kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "İkinci merkez, demir işleme ve uzun mesafeli ticaretle bilinir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Ticaret, hem kuzeye Akdeniz'e hem doğuya Kızıldeniz üzerinden yürüyordu.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Akdeniz, Kızıldeniz"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bu kalemlerin ortak özelliği, birim ağırlık başına yüksek değer taşımalarıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Krallıkta hükümdarlık yapan kadınların sayısı, çevre bölgelere göre belirgin biçimde yüksektir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Kanıt nesne kanıtıdır ve bu, ne söyleyebileceğini de sınırlar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas farkı ayrıca yazar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Krallıkta kuzeydeki komşudan alınmış tanrılarla yerel tanrılar bir arada bulunuyordu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bu, atlasın Kuşan dosyasında kaydedilen ayrımın bir başka örneğidir.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kuşan"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "İkinci dönemde yerel unsurların ağırlığı arttı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Krallık dördüncü yüzyılda sona erdi.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Öne sürülen etkenler arasında güneydeki bir devletin askerî baskısı, ticaret hatlarının değişmesi ve çevresel bozulma bulunur.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bir sonuca bağlanmaz.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Krallığın ardından bölgede yeni siyasi birimler kuruldu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bu dosya o dönemleri kapsamaz.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bölgenin sonraki tarihi için künyelenen ansiklopedi maddesi bir başlangıç noktası sağlar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bölgede yapılan kazıların yoğunluğu, kuzeydeki komşu bölgeninkinden çok daha düşüktür.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Atlasın kanıt dosyasında formüle edilen ölçüt burada doğrudan geçerlidir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bölgenin bir bölümü baraj yapımı nedeniyle su altında kalmıştır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Kazı imkânının kalıcı olarak ortadan kalkması, atlasın olağan kısıtlarından farklıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Ayrım kaydedilmelidir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas iki durumu ayrı işaretler.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Krallık, kaynaklarda birden çok adla anılır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Krallığın kendisine ne dediği bilinmemektedir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu durumu ayrıca yazar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bu dosyanın üç künyesinden biri giriş kapısı, biri ansiklopedi maddesi, biri dönem tanıklığıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Metinler mevcuttur ve yayımlanmıştır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Kazı raporlarının doğrulanabilir çevrimiçi baskıları bu dosya yazıldığında bulunamamıştır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Hükümdarların tam listesi ve tarihlemesi verilmez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Yazının çözülmesine yönelik çalışmaların ayrıntısı kapsam dışıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bölgenin sonraki Hristiyan ve İslam dönemleri işlenmez.",
+      "iddia": "Tarihi tek bir çizgi hâlinde değil üç evre olarak okunur: Kerma kentinin çevresinde MÖ 2500-1500 arasında serpilen ilk devlet, Napata merkezli krallığın Mısır t",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Dosya, krallığın kuzeydeki komşusunun bir uzantısı olduğunu ileri sürmez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Çöküşün nedeni belirlenmez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Yazının okunmasıyla bu dosyanın büyük ölçüde değişeceği beklenmelidir.",
+      "iddia": "hanedan olarak yönetti ve bölgedeki olağan güç yönünü bir yüzyıl boyunca tersine çevirdi.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Krallığın bir dönem yönettiği ülke için , bölgenin güneyindeki sonraki güç için dosyaları okunmalıdır.",
+      "iddia": "İkincisi kanıtla ilgilidir: krallık kendi yazısını geliştirdi, bu yazının işaretleri bugün okunabiliyor, ama arkasındaki dil hâlâ anlaşılamıyor; ortada seslendi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kerma kültürü MÖ 2500'den 1500'e kadar varlığını sürdürdü; dönemin Nil vadisinde yan yana yaşayan birkaç devletinden biriydi ve yukarı Nubya'da doğup etkisini k",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kentin höyüğünü ilk sistemli biçimde kazan kişi George Reisner oldu; kazının raporu 1923'te Harvard African Studies dizisinin beşinci cildi olarak yayımlandı ve",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ana gömüde Assiut beyi Hepzefa ile eşi Sennuwy'nin heykellerini bulan Reisner, yerleşimi Mısırlı yöneticilerin oturduğu, ticaret karakolundan büyümüş bir sınır ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu yorum sonradan tersine döndü: bugün Kerma, Mısır'ın bir uzantısı değil, dönemin Nil vadisi devletlerinden biri olan yerli bir krallığın merkezi sayılıyor.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "orduları bölgeyi ele geçirdi; MÖ 1504-1070 arasında Nubya, \"Kuş'un kral oğlu\" unvanını taşıyan valiler eliyle bir Mısır eyaleti olarak yönetildi.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "orduları bölgeyi ele geçirdi; MÖ 1504-1070 arasında Nubya, \"Kuş'un kral oğlu\" unvanını taşıyan valiler eliyle bir Mısır eyaleti olarak yönetildi.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mısır çekildikten sonraki yüzyıllar kaynaklarda karanlıktır; krallık bu karanlığın içinden, MÖ 1070 ile 754 arasında yeniden biçimlenerek çıktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "hanedan diye geçen Kuşlu hanedanı kurdu.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kuşlu"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hanedanın Mısır üzerindeki hükmü MÖ 754'ten 656'ya kadar, bir yüzyılı aşkın sürdü.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hanedan gücünü yalnızca orduya değil dinî makamlara da yasladı: Kashta'nın kızı Amenirdis, Teb'de Amun'un tanrısal eşi makamına atandı ve aynı makam daha sonra ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "hanedana bağlar.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Kanıt türlerinin hangi soruya cevap verdiği için ve dosyaları uygundur; bu dosya o ayrımı bir alt başlıkla genişletir.",
+      "iddia": "Nitekim Budge, krallığın bu evredeki durumuna ışık tutan başlıca tanıklar olarak Tanutamon, Aspelta ve Nastasen gibi kralların Mısırca dikilitaşlarını sayar.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "kralları Esarhaddon ve Ashurbanipal art arda Mısır'a girdi; son Kuşlu firavun Tantamani güneye çekildi ve Mısır MÖ 656'da Psamtik yönetiminde yeniden kendi hane",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Başkentin Meroe'ye taşınması için verilen tarih MÖ 591'dir; ama kayma tek bir yıla sığmaz: kral gömüleri MÖ 300 civarına kadar Napata bölgesindeki el-Kurru ve N",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Diodorus'un aktardığı bir anlatıya göre kral Ergamenes, Napata rahiplerinin buyruğuna boyun eğmeyi reddedip onları kılıçtan geçirtmişti; gömülerin taşınması bu ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ormanları ocaklara yakılan Butana ovasında geriye cüruf yığınları kaldı; krallık Roma'ya demir ürünleri, altın, fildişi ve köle satıyor, konumu ona Kızıldeniz t",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bunlardan Amanirenas, Roma'nın Mısır'ı ele geçirmesinin hemen ardından Roma ordusuyla savaşa girdi; savaş sırasında Napata yağmalandı, ama yıkım kandakeyi savaş",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaş fetihle değil pazarlıkla bitti: Kuş elçileri Roma'nın Mısır valisi Petronius'la masaya oturdu, Kuş lehine sayılan koşullarla bir barış antlaşması yapıldı ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıla kadar önce Ptolemaios krallığının, sonra Roma'nın elindeydi; Meroe bu altı yüz yıllık dönem boyunca sınırın güney yakasında ayakta kaldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Meroitik yazı 23 işaretli alfabetik bir sistemdi; anıtlarda hiyeroglif biçimi, gündelik kullanımda ise el yazısı biçimi kullanılıyordu ve bu ikincisinden bugüne",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ama arkalarındaki dil bilinmiyor: anlamı belirlenebilmiş kelime sayısı bir avuçtur ve Meroitik dili bilinen başka bir dille bağlantılandırma girişimleri şimdiye",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Herodot, Nil boyunca ancak Elephantine'e kadar kendi gözüyle gördüğünü, ötesini soruşturarak ve duyumla aktardığını açıkça söyler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Anlattığına göre Elephantine'in ötesinde kırk günlük bir kara yolculuğu, ardından on iki günlük bir nehir yolculuğu insanı Meroe denen büyük şehre getirir; bura",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bu tanıklığın değeri de sınırı da aynı cümlede durur: Herodot gördüğü yerde tanık, duyduğu yerde aktarıcıdır ve Meroe onun duyduğu yerdedir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Adlandırma katmanları da üst üste biner: Mısır kaynakları Kuş, Yunanlar Aithiopia, modern arkeoloji Nubya der ve adların her biri bir dış bakışın izini taşır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılda krallık Noba ve Blemmi topluluklarının baskısı altındaydı; bu zayıflamayı fırsat bilen Aksumlular Meroe'yi ele geçirip altınını yağmaladı ve Aksum kral",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aksum'un buradaki varlığı büyük olasılıkla kısa sürdü; ama krallık bir daha toparlanamadı ve Nobatia, Makuria ile Alodia adlı üç ayrı siyasi birime dağıldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sefer için kayıtlara geçen tarih MS 330'dur; krallığın sonu için verilen yaklaşık tarih ise MS 350'dir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Wallis Budge, 1907'de yayımladığı The Egyptian Sudan'da, 1905 baharında Hartum'da yeni kurulan müzeye eser toplamak için Sudan'a gönderildiğini ve başlıca antik",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Meroe piramitlerinde zengin gömü eşyası bulma beklentisinin boşa çıktığını, tonozlu odalardaki cesetlerin yakılmış olduğunu görür.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Yazının kendisi için , kaydı kimin tuttuğunun neyi değiştirdiği için dosyaları okunabilir.",
+      "iddia": "1911 Britannica'nın Meroe maddesi aynı yılların tanığıdır: 1905'te kabartmaların taş taş sökülüp bir bölümünün British Museum'a, bir bölümünün Hartum müzesine t",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Budge, Sudan'ın erken tarihini \"yaklaşık MÖ 4000'den\" Piankhi'nin yükselişine kadar Mısır anıtlarından izlediğini yazar ve bu yükselişi MÖ 750 civarına yerleşti",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Buradaki çerçeve 1907'nin bilgi durumudur; iki eserin değeri olgu aktarmaktan çok, bilginin hangi kazılarla ve hangi varsayımlarla kurulduğunu göstermesindedir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Meroitik dilin çözülmesi bu dengeyi bir anda değiştirebilir; o güne kadar Kuş, eski dünyanın en iyi belgelenmiş okunamayanı olarak durmayı sürdürecek.",
       "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kuş"
     }
   ]
 }

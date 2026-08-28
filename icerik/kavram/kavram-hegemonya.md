@@ -3,95 +3,160 @@ id: kavram-hegemonya
 tip: kavram
 baslik: Hegemonya
 ozet: >-
-  Kaynak tarihsel örnekleri altı zaman dilimine ayırır ve ilkini MÖ 30.-27.
-  yüzyıllara koyar.
+  Yunan ittifaklarının hegemon unvanından Gramsci'nin rıza ile zoru birleştiren
+  çözümlemesine ve hegemonik istikrar tartışmasına uzanan üç katmanlı kavram;
+  katmanı belirtilmeden kullanıldığında ölçütünü yitirir.
 bolge: [avrupa, kuresel]
 eksen: [siyasi, kulturel, askeri]
 guven_geneli: tartismali
-etiketler: [hegemonya, tarihsel-ornek, medya, uluslararasi-iliskiler, olcut]
+etiketler: [hegemonya, gramsci, riza, sivil-toplum, uluslararasi-iliskiler, hegemonik-istikrar]
 ilgili:
   - kavram-guc-dengesi
   - kavram-dunya-sistemi
   - aktor-britanya-imparatorlugu
   - kavram-imparatorluk
+  - tartisma-feodalite-kavrami
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
     tur: ansiklopedi
     ad: "Wikipedia (EN) - Hegemony"
     url: https://en.wikipedia.org/wiki/Hegemony
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Hegemony"
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "hegemonic stability theory"
+    not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Immanuel Wallerstein"
-    url: https://en.wikipedia.org/wiki/Immanuel_Wallerstein
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Wallerstein"
-    not: "Merkez-cevre kavraminin gelistiricisi"
-  - anahtar: k3
     tur: akademik
-    ad: "Stanford Encyclopedia of Philosophy - Karl Marx"
-    url: https://plato.stanford.edu/entries/marx/
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Marx"
-    not: "Kulturel hegemonya tartismasinin bagli oldugu gelenek; bagimsiz alan adi"
-son_denetim: 2026-08-21
+    ad: "Stanford Encyclopedia of Philosophy - Antonio Gramsci"
+    url: https://plato.stanford.edu/entries/gramsci/
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "Antonio Gramsci"
+    not: "Gramsci katmaninin, yayim tarihlerinin ve alimlama tartismasinin tasiyicisi; bagimsiz alan adi"
+  - anahtar: k3
+    tur: birincil
+    birincil_tur: eser
+    ad: "Antonio Gramsci, Selections from the Prison Notebooks, The Intellectuals (marxists.org)"
+    url: https://www.marxists.org/archive/gramsci/prison_notebooks/problems/intellectuals.htm
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "social hegemony and political government"
+    not: "Riza-zor pasajinin birincil metni; Hoare ve Nowell-Smith cevirisi"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: tanik
+    ad: "Thucydides, Historiae 1.96, Yunanca metin (Perseus Digital Library)"
+    url: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0199:book=1:chapter=96
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "ἡγεμονίαν"
+    not: "Atina'nin muttefiklerin istegiyle onderligi devralmasi; hegemonia sozcugunun antik kullanimi"
+  - anahtar: k5
+    tur: birincil
+    birincil_tur: eser
+    ad: "Charles P. Kindleberger, The World in Depression 1929-1939 (Internet Archive)"
+    url: https://archive.org/details/worldindepressio0000kind
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "The world in depression, 1929-1939"
+    not: "Hegemonik istikrar tartismasinin arka planindaki inceleme; kunye sayfasi"
+son_denetim: 2026-08-28
 denetim_durumu: onaylandi
-onarim_turu: 0
+onarim_turu: 1
 ---
 
-Kaynak, tarihsel örnekleri altı zaman dilimine ayırır: MÖ 30.-27. yüzyıllar, MÖ
-8.-3. yüzyıllar, MÖ 2. yüzyıl - MS 15. yüzyıl, 16.-19. yüzyıllar, 20. yüzyıl ve
-21. yüzyıl.[^k1]
+Hegemonya, bir devletin ya da toplumsal bir grubun ötekiler üzerindeki
+üstünlüğünü, önderliğinin kabul edilmesine dayanarak kurup sürdürmesidir;
+sözcük, Yunanca önder anlamındaki hēgemōn ile yetke ve siyasi üstünlük
+anlamındaki hēgemonia'dan gelir.[^k1] Uluslararası ilişkiler yazınında
+[imparatorluktan](/kavram/imparatorluk/) şu çizgiyle ayrılır: hegemon, öteki
+devletlerin dış ilişkilerini yönlendirir ama iç işlerini yönetmez.[^k1]
 
-## Kavram beş bin yıla yayılmıştır
+Kavramın gücü de güçlüğü de aynı yerdedir: tek sözcük üç ayrı katmanda iş
+görür. Antik Yunan'da bir ittifakın önderliğini yürüten devletin unvanıydı;
+Antonio Gramsci'nin elinde yönetici sınıfın rıza ile zoru birleştiren egemenlik
+biçiminin adı oldu; uluslararası ilişkilerde ise düzeni taşıyan baskın devleti
+anlatır.[^k1][^k2] Hangi katmanda konuşulduğu belirtilmeden kullanıldığında
+sözcük, üstünlüğün her türünü içine alan bir torbaya dönüşür.
 
-::tartismali[Kaynak aynı kavramı MÖ 30. yüzyıldan 21. yüzyıla kadar uygulanabilir sayıyor. Atlas bu kadar geniş bir uygulama alanını bir ölçüt sorunu olarak kaydeder ve kavramı tek bir tanımla kullanmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+## Önce bir unvan: ittifakın önderi
 
-Kavram tartışmalarının nasıl taşınacağı
-[Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
-haritasında ele alınıyor.
+Yunan şehir devletlerinin dünyasında hegemon, ortak savaş için kurulmuş bir
+birliğin önderliğini yürüten devletti: Sparta Peloponez Birliği'nin, Atina Pers
+savaşlarından sonra kurulan deniz birliğinin (MÖ 478-404), Makedonya kralı
+II. Filip ise MÖ 337'de kurdurduğu Korint Birliği'nin hegemonuydu.[^k1]
 
-## Üç ayrı disiplin ayrı bölümlerdir
+[Thukydides](/dusunur/thukydides/), Atinalıların bu önderliği müttefiklerin
+kendi istekleriyle devraldığını yazar; kullandığı sözcük hegemonia'dır ve
+fethedilmiş bir egemenlikten çok kabul görmüş bir öncülüğü anlatır.[^k4]
+Rızanın, terimin daha bu ilk kullanımında işin içinde olması, kavramın sonraki
+serüvenini hazırlayan ayrıntıdır.
 
-Kaynak siyaset bilimi, uluslararası ilişkiler ile medya ve iletişim çalışmaları
-için ayrı bölümler tutar.[^k1]
+## Gramsci: rıza ile zorun birleşimi
 
-Aynı terimin üç ayrı disiplinde ayrı ayrı işlenmesi,[^k1] atlasın şu kuralının
-dayanağıdır: bu dosyada hegemonya, hangi disiplinin anlamında kullanıldığı
-belirtilmeden anılmaz.
+Antonio Gramsci (1891-1937), İtalyan Komünist Partisi'nin başındayken 1926'da
+Mussolini rejimince tutuklandı; Hapishane Defterleri'ni 1929-1935 arasında,
+hücresinde kopardığı okuma ve yazma izniyle doldurdu.[^k2] Defterlerde
+hegemonya, yönetici sınıfın kendini topluma düşünsel ve ahlaki önderlik yoluyla
+kabul ettirme sürecinin adıdır: gelişmiş kapitalist devletlerde egemenlik,
+ordu, polis ve mahkemeler üzerinden işleyen zordan çok, sivil toplumda üretilen
+rızaya dayanır.[^k2]
 
-## Kuramcı ve sayılar adlarıyla kayıtlıdır
+Rıza ile zor bu kurguda iki ayrı madde olarak yan yana durur: bir yanda
+kitlelerin, egemen grubun toplumsal hayata verdiği yöne gösterdiği
+kendiliğinden rıza; öte yanda rıza vermeyenlere disiplini yasal yoldan dayatan
+ve rızanın çözüldüğü bunalım anları için bütün toplum adına hazırda tutulan
+devlet zoru.[^k3] Aydınlar da bu düzenekte egemen grubun toplumsal hegemonya
+ile siyasal yönetim işlevlerini yürüten görevlileridir.[^k3]
 
-Kaynak, kültürel hegemonya kuramcısı olarak Antonio Gramsci'yi anar ve yaşam
-tarihlerini 1891-1937 olarak verir; aynı bölümde NATO ülkelerinin küresel askerî
-harcamanın yüzde 70'inden fazlasını oluşturduğunu ve 2009'da yalnızca Birleşik
-Devletler'in küresel askerî harcamanın yüzde 43'ünü oluşturduğunu yazar.[^k1]
+Defterler yazarının sağlığında yayımlanmadı: İtalya'da 1948-1951 arasında altı
+tematik cilt olarak, İngilizcede 1971'de Selections from the Prison Notebooks
+seçkisiyle basıldı.[^k2] Kavramın dünya ölçeğindeki yayılışı bu gecikmeli
+baskıların üzerinden yürüdü; Gramsci'nin içinden konuştuğu gelenek
+[Karl Marx](/dusunur/marx/) dosyasında ele alınıyor.
 
-Kaynak tarihsel örnekler olarak Alman İmparatorluğu'nun (1871-1918) askerî ve
-kültürel bakımdan baskın eyaleti Prusya'yı ve Fransız Konsüllüğü (1799-1804)
-üzerinde Napolyon Bonapart'ın kişisel ve entelektüel üstünlüğünü verir; 1985'te
-yayımlanan *Hegemony and Socialist Strategy* adlı çalışmayı da anar.[^k1]
+## Devletler arasında: hegemonik istikrar
 
-Bir kavramın ansiklopedi maddesinde hem bir kuramcının yaşam tarihlerinin hem
-güncel harcama yüzdelerinin bulunması,[^k1] kavramın tarihsel ve çağdaş
-kullanımlarının aynı sayfada durduğunu gösterir.
+On dokuzuncu yüzyılın tarih yazımında sözcüğün anlamı, bir ülkenin öteki
+ülkeler üzerindeki baskınlığına genişledi.[^k1] Uluslararası ilişkiler bu
+anlamı devraldı ve en görünür önermesini hegemonik istikrar kuramında buldu:
+istikrarlı bir uluslararası siyasi ve iktisadi düzenin kurulup ayakta kalması,
+bir hegemonun varlığını gerektirir.[^k1] Kuram 1970'lerde Robert Gilpin ve
+Stephen Krasner gibi adlarca geliştirildi; arka planında Charles
+Kindleberger'in iki savaş arası buhranını konu alan The World in Depression,
+1929-1939 adlı incelemesi durur.[^k1][^k5] Bu katmanın alışıldık örnekleri de
+bellidir: on dokuzuncu yüzyıl için Britanya, yirminci yüzyıl için Birleşik
+Devletler anılır.[^k1]
 
-## Yakın kavramlar
+Kavramın bu katmandaki ağırlığını dönemin sayıları da gösterir: 2009
+verileriyle NATO ülkeleri küresel askeri harcamanın yüzde 70'inden fazlasını
+karşılıyor, yalnız Birleşik Devletler bu toplamın yüzde 43'ünü tek başına
+üstleniyordu.[^k1]
 
-Yakın bir kavram için tutulan kayıt, merkez, çevre ve yarı çevre terimlerini ayrı
-ayrı tanımlar.[^k2] O kavram
-[Dünya sistemi](/kavram/dunya-sistemi/) dosyasında ele alınıyor.
+Kuram hem kavramsal hem görgül gerekçelerle eleştirildi: Robert Keohane,
+önermelerinin gereksiz yinelemeler olduğunu ve öngörü üretmediğini savundu;
+hegemonun gerilemesine karşın devletler arası iş birliğinin sürebileceğini
+savunan çalışmalar da buna eklendi.[^k1] Baskınlığın düzen mi tehdit mi
+ürettiği sorusu [Güç dengesi](/kavram/guc-dengesi/) kaydıyla, üstünlüğün
+iktisadi zeminini arayan çizgi [Dünya sistemi](/kavram/dunya-sistemi/)
+kaydıyla yan yana okunabilir.
 
-Kültürel hegemonya tartışmasının bağlı olduğu gelenek için tutulan kayıt ise,
-ideoloji anlatısı ile sınıflara bölünmüş toplumların istikrarını açıklamaya
-çalışan bir düşünme çizgisini anlatır.[^k3] O gelenek
-[Karl Marx](/dusunur/marx/) dosyasında, rakip bir ölçüt ise
-[Güç dengesi](/kavram/guc-dengesi/) dosyasında ele alınıyor.
+## Esnekliğin bedeli
 
-## Bu dosyanın sınırı
+Aynı sözcük ittifak önderliğinden sınıf egemenliğine ve dünya düzenine
+taşınır; bu genişlemenin kavramı nerede ölçüsüzleştirdiği açık bir
+tartışmadır.[^k1][^k2]
 
-Tarihsel örneklerin ayrıntısı, disiplin içi tanımlar ve kültürel hegemonya
-tartışması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı
-bölümler olarak işler.[^k1]
+İlk itiraz esnekliğedir. Hapishane Defterleri parçalı metinlerdir, karşıt
+vurgulara açıktır ve taşıdıkları anlam, yayımlandıkları her ortamın kendi
+kaygılarıyla yeniden biçimlenmiştir.[^k2] Sparta'nın ittifak önderliği, bir
+sınıfın kültürel egemenliği ve bir süper gücün askeri üstünlüğü aynı ad altında
+toplandığında, hegemonyanın nerede bitip sıradan üstünlüğün nerede başladığını
+söyleyecek ölçüt zayıflar; benzer bir sınır sorunu
+[Feodalite yararlı bir kavram mı?](/tartisma/feodalite-kavrami/) haritasında
+işleniyor.
+
+İkinci itiraz kültürel indirgemedir. Kültür ve üstyapı üzerindeki
+yoğunlaşması, Gramsci'yi iktisadi koşullardan ve zordan çok ideolojik
+engellerle ilgilenen bir Batılı Marksist sayan okumalar doğurdu; Perry
+Anderson'ın 1976'da açtığı tartışmadan bu yana hegemonyanın kültürel ve
+ideolojik egemenliğin genel bir kuramına dönüştürülmesi, zoru ve iktisadı
+gözden kaçırdığı gerekçesiyle sorgulanır.[^k2] Oysa Defterlerin kendi
+kurgusunda rıza, zorun karşısına değil yanına konmuştur: zor aygıtı,
+kendiliğinden rızanın çözüldüğü anlar için hazırda bekletilir.[^k3]

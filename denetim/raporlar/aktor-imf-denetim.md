@@ -1,16 +1,59 @@
 ## aktor-imf
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:20.792Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T19:35:03.829Z_
 
-- [OK]      k1 → "Fon, Temmuz 1944'te Bretton Woods Konferansı'nda kuruldu ve ödemeler dengesi krizi yaşayan ya da yaşama ihtima…" — 3 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k2 → "Doğuran düzen, ülkeler arasında gelecekteki rekabetçi devalüasyonları önlemek için daha büyük işbirliği öngörü…" — programatik olarak ölçülemedi (ad karşılığı yok): Fon
-- [ATOMSUZ] k1 → "Fon'un beyan ettiği misyon ise küresel parasal işbirliğini geliştirmek, finansal istikrarı sağlamak, uluslarar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynağın yönetişim bölümü, kurumun kendi yapısal gerilimlerini başlık olarak sıralar: kota düzeninin etkileri,…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Operasyon bölümünün başlıkları da aynı biçimde ayrıntılıdır: küresel ekonominin gözetimi, kredilerin koşullulu…" — programatik olarak ölçülemedi (ad karşılığı yok): İstisnai, Erişim, Çerçevesi
-- [ATOMSUZ] k1 → "Koşulluluk başlığının altında hem yapısal uyumun hem faydaların ayrı ayrı sayılması, bu konunun kaynağın kendi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kurumun üyeliği 191 ülkedir: 190 BM ülkesi ve Kosova."
-- [OK]      k1 → "Kaynak ayrıca, IMF "üye ülkeleri"nin tamamının egemen devlet olmadığını ve dolayısıyla hepsinin Birleşmiş Mill…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k3 → "Karşılaştırma için: Birleşmiş Milletler'in üyeliği 193 üye devlet ve 2 gözlemci devlettir." — 2 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k4 → "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır."
-- [OK]      k2 → "Kurumu doğuran düzenin sonu — 15 Ağustos 1971'de çevrilebilirliğin sona erdirilmesi — dosyasında ele alınıyor." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Uluslararası Para Fonu, ödemeler dengesi krizi yaşayan ya da yaşama ihtimali olan üyelerine son kredi mercii o…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Temmuz 1944'te Bretton Woods Konferansı'nda tasarlandı, ilk 29 ülkenin kurucu anlaşmayı onaylamasıyla 27 Aralı…" — 5 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Üyeler kota adı verilen paylarla ortak bir havuza katkı yapar; bir ülkenin kotası hem çekebileceği krediyi hem…"
+- [ATOMSUZ] k1 → "Seksen yıllık tarihin hemen her kavgası bu iki mekanizmanın çevresinde dönmüştür: kimin kaç oyu olduğu, kredin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kurumu tasarlayan konferans, Temmuz 1944'te New Hampshire'daki Bretton Woods kasabasının Mount Washington Otel…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Amerikalı delege Harry Dexter White, borç alan devletlerin borçlarını zamanında ödemesini gözeten, bankaya ben…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Kabul edilen nihai metne ağırlıkla White'ın planı girdi."
+- [OK]      k5 → "İki adamın pazarlığı, yeni düzenin kimin parasıyla ve kimin kurallarıyla kurulacağı sorusunun ta kendisiydi; m…"
+- [OK]      k1 → "ABD Hazine Bakanı Henry Morgenthau merkezleri New York'ta istiyordu; halefi Fred Vinson, "uluslararası finans"…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Anlaşma metni (Articles of Agreement) 22 Temmuz 1944'te, konferansın kapanış gününde imzaya açıldı." — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k2 → "Birinci madde Fon'un amaçlarını sayar: uluslararası parasal işbirliğini kalıcı bir kurum üzerinden yürütmek, t…" — programatik olarak ölçülemedi (ad karşılığı yok): Fon
+- [ATOMSUZ] k2 → "Metin her üyeye bir kota atar ve her üyenin parasının değerini altın ya da ABD doları cinsinden tanımlanan sab…" — programatik olarak ölçülemedi (ad karşılığı yok): ABD
+- [OK]      k1 → "1930'ların buhranında ülkelerin birbirine karşı para değerini düşürme yarışı hâlâ taze bir anıydı; sabit kur v…"
+- [ATOMSUZ] k1 → "Tasarımın bütünü, uluslararası kapitalizmin yeniden inşasını ulusal iktisadi egemenlikle dengelemeyi amaçlıyor…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sonraki on yıllarda görev tanımı bu çekirdeğin çok ötesine genişleyecekti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Her üyenin az sayıda temel oyu vardır — toplam oyların yüzde 5,502'si bu kanaldan dağılır — ve kotasının her 1…"
+- [OK]      k1 → "Erişim tarihinde (Ağustos 2026) en büyük pay ABD'nindir: kotanın yüzde 17,42'si, oyların yüzde 16,49'u." — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Oy paylarını değiştirmek yüzde 85 çoğunluk gerektirdiği ve yüzde 16'nın üzerinde oy taşıyan tek üye ABD olduğu…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "G20'nin 2010'da kararlaştırdığı, yükselen ekonomilere pay aktaran reform paketi, ABD Kongresi onaylamadığı içi…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Eleştirinin özü de buradadır: Joseph Stiglitz'in sözleriyle, gelişmekte olan ülkeler 1944'e göre dünya ekonomi…"
+- [OK]      k4 → "Eleştirinin özü de buradadır: Joseph Stiglitz'in sözleriyle, gelişmekte olan ülkeler 1944'e göre dünya ekonomi…"
+- [OK]      k1 → "Özel Çekme Hakkı (SDR), 1969'da yaratılan hesap birimidir ve para birimleri üzerinde potansiyel bir alacağı te…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "İlk tanımında bir SDR 0,888671 gram altına — o günkü değeriyle aşağı yukarı bir ABD dolarına — eşitti; sabit k…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Kotalar, krediler ve oy hesabı bu birim üzerinden yürür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Fon'un ilk otuz yılında gözettiği sabit kur düzeni, ABD'nin 1971'de doların altına çevrilebilirliğini askıya a…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Kurum bu tarihten sonra kur bekçiliğinden, ödemeler dengesi güçlüklerini ve uluslararası finansal krizleri yön…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "1970'lerde petrol ihracatçılarının mevduatıyla dolan büyük ticari bankalar devletlere bol kredi açmıştı; 1980'…"
+- [OK]      k1 → "1980'lerin ortasında odak, dar kur istikrarından piyasa serbestleştirici reformların yapısal uyum programlarıy…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k6 → "Kurumun kendi yayımladığı dönem tarihi bu on yılı "sessiz devrim" diye adlandırır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Koşulluluk, Fon'un kaynak karşılığında şart koştuğu politikalar demetidir ve 1950'lerde yerleşmiştir: yardım i…"
+- [ATOMSUZ] k1 → "Yapısal uyumun tipik başlıkları bellidir: harcamaları kısmak ya da gelirleri artırmak — yani kemer sıkmak —, ü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Bu reçete Washington Mutabakatı adıyla anılır." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Krediye ihtiyaç duyan ülkelerin elinde çoğu zaman uluslararası değerde teminat yoktur; şartlar hem geri ödemey…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Üyelik ayrıca bilgiye erişim, teknik yardım ve ödeme güçlüğünde finansal destek getirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kemer sıkma şartlarının toparlanmayı geciktirdiği ve en kırılgan kesimleri vurduğu, koşulların borçlanan ülken…" — programatik olarak ölçülemedi (ad karşılığı yok): Batılı
+- [OK]      k4 → "Dünya Bankası'nın eski başekonomisti Stiglitz, Globalization and Its Discontents kitabında bu eleştiriyi kurum…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "1997 Asya krizi tartışmanın dönüm noktasıydı; Güney Kore kamuoyu, ekonomiyi kökten yeniden yapılandırmayı ve b…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Benzer bir itiraz 2020-21'de Oxfam'dan geldi: salgın sırasında düşük gelirli ülkelere dayatılan kemer sıkmanın…"
+- [ATOMSUZ] k1 → "İki taraf aynı olguya bakar; ayrıştıkları nokta, şartların krizin ilacı mı yoksa krizin büyütücüsü mü olduğudu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Üyelik ülkelere açıktır; her ülke başvurabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Erişim tarihinde (Ağustos 2026) üye sayısı 191'dir: 190 Birleşmiş Milletler üyesi ile, BM üyesi olmayan tek üy…" — 5 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "üye oldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "BM üyesi olup Fon'un dışında kalan üç devlet vardır: 1964'te ayrılan Küba, Monako ve Kuzey Kore." — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Hong Kong ve Makao gibi egemen olmayan alanlar ise üye değildir; Fon'un veri yayımlama standartlarına üyelik o…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Kümenin bugünkü genişliği Soğuk Savaş'ın izlerini örtmesin: Polonya 1950'de çekilip 1986'da döndü, Çekoslovaky…" — 5 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k1 → "Bretton Woods'un öbür kurumuyla üyelik karşılıklı şarttır: Fon'a üye olan her ülke Uluslararası İmar ve Kalkın…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k2 → "İki kurumun kurucu anlaşmaları aynı konferanstan çıkmış ve antlaşma serisinde yan yana basılmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Bugün de hesapları iç içedir: Dünya Bankası'nın borç istatistikleri, IMF kredisi kullanımını ülkelerin dış bor…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "2000'lerin ortasında kredi hacmi, dünya hasılasına oranla 1970'lerden beri en düşük düzeyine inmişti; kurumu y…"
+- [ATOMSUZ] k1 → "Aynı yıl, kota paylarını dinamik yükselen ekonomilere doğru kaydıran bir reform dizisi kabul edildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Avro krizinde Fon, Mayıs 2010'da toplamı 110 milyar avroyu bulan ilk Yunanistan kurtarma paketine 3:11 oranıyl…" — 6 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Ocak 2012 itibarıyla en büyük borçlular Yunanistan, Portekiz, İrlanda, Romanya ve Ukrayna'ydı; Mart 2020'de ku…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Seksen yılda görev tanımı kur istikrarından yoksulluğun azaltılmasına uzandı; kurumun bugünkü misyon beyanı pa…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kurucu maddenin dar hedefiyle bu geniş beyan arasındaki açı, kurumun tarihinin kısa özetidir; oy dağılımı ise …"
 
-**Özet:** 6 OK · 0 ISARET · 0 HATA · 5 ATOMSUZ
+**Özet:** 36 OK · 0 ISARET · 0 HATA · 18 ATOMSUZ

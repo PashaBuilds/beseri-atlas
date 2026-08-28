@@ -15,6 +15,7 @@ ilgili:
   - kavram-mesruiyet
   - kaynak-ain-i-akbari
   - kavram-veraset
+  - kavram-ideal-tip
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

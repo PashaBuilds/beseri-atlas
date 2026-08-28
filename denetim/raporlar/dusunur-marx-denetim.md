@@ -1,19 +1,61 @@
 ## dusunur-marx
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:24.174Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T19:42:12.909Z_
 
-- [OK]      k1 → "Kaynak onu 1818-1883 arasında yaşamış ve sıklıkla filozoftan çok eylemci, eserleri komünist rejimlerin kuruluş…"
-- [ATOMSUZ] k1 → "Kaynak, ahlakın ve ahlaki eleştirinin onun çağdaş kapitalist topluma yönelik eleştirisindeki tam rolünün çokça…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak toplumsal ve siyasal felsefe bakımından şu konuları sayar: felsefi antropolojisi, tarih kuramı, iktisad…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Altı ayrı başlığın sıralanması, atlasın bu dosyada neden tek bir tez cümlesi kurmadığını gösterir; kaynak bile…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, erken yazılarına yabancılaşma anlayışının hâkim olduğunu ve bu teşhisin insan doğası ile onun serpilme…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Bir düşünürün kavramlarının dönemlere göre sıralanması, "Marx şöyle der" cümlelerinin hangi döneme ait olduğu …"
-- [ATOMSUZ] k3 → "Bir önceki kuşağın düşünürü için tutulan kayıt, felsefesine dair üç ayrı okumayı alt başlıklar hâlinde sıralar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "İki kaydın da yorum çokluğunu ayrı ayrı kaydetmesi, bu iki dosyanın neden tartışmalı olarak işaretlendiğini gö…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "İki kaydın da yorum çokluğunu ayrı ayrı kaydetmesi, bu iki dosyanın neden tartışmalı olarak işaretlendiğini gö…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Yaşadığı on yıldaki siyasi dalga için ayrı bir kayıt tutulur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Artı değer kuramı, sınıf mücadelesi, ideoloji anlatısı ve devlet kuramı burada ayrı başlıklar altında ele alın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Kapital." — programatik olarak ölçülemedi (ad karşılığı yok): Kapital
+- [OK]      k7 → "Karl Marx, 5 Mayıs 1818'de Prusya'nın Trier kentinde doğdu; 14 Mart 1883'te, ömrünün son otuz dört yılını sürg…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Sıklıkla filozoftan çok bir eylemci, eserleri yirminci yüzyılda komünist rejimlerin kuruluşuna esin veren bir …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Bu soruları izlerken geliştirdiği kavramlar — yabancılaşma, tarihsel materyalizm, sınıf mücadelesi, artı-değer…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Hukuk okumak için önce Bonn'a, sonra Berlin'e gitti; orada Hegel'in felsefesiyle ve 1837'den itibaren Genç Heg…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k7 → "Akademik kariyerin kapıları siyasal iklim yüzünden kapanınca gazeteciliğe yöneldi: 1842'de Köln'de çıkan Rhein…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k7 → "Paris yılları iki belirleyici karşılaşmanın yeridir: ekonomi politikle — Adam Smith ve David Ricardo'yu burada…"
+- [OK]      k7 → "Sürgün onu önce Brüksel'e savurdu; patlak verince Köln'e dönüp Neue Rheinische Zeitung'u çıkardı, karşı-devrim…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k7 → "Hayatının geri kalanını orada, uzun süre yoksulluk içinde, British Museum'da araştırma yaparak ve gazetelere y…"
+- [OK]      k8 → "Yabancılaşma, kişi ile ona aslında ait olan bir şey — emeği, ürünü, başka insanlar — arasındaki sorunlu ayrılı…"
+- [ATOMSUZ] k1 → "Marx'ın erken yazılarına bu teşhis hâkimdir ve teşhis, insan doğasına ve onun serpilmesine dair tartışmalı bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Paris'te 1844'te kaleme aldığı elyazmaları sağlığında yayımlanmadı; metinler ancak 1932'de basıldı ve yirminci…"
+- [ATOMSUZ] k5 → "Orada ücretli emek dört yönlü bir yabancılaşma olarak çözümlenir: işçi emeğinin ürününe, üretim etkinliğinin k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Çözümlemenin çıkış gözlemi serttir: işçi ne kadar çok zenginlik üretirse o kadar yoksullaşır, çünkü emeğinin ü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Marx'a göre bunun kökeninde çalışmanın kendisi değil, çalışmanın özel mülkiyet altındaki biçimi vardır; emek a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Çoğu kez tarihsel materyalizm denen tarih kuramının çekirdeği, toplum biçimlerinin insanın üretici gücünün gel…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kuramın klasikleşmiş formülasyonu Kapital'de değil, 1859'da yayımlanan Ekonomi Politiğin Eleştirisine Katkı'nı…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k2 → "Kuramın klasikleşmiş formülasyonu Kapital'de değil, 1859'da yayımlanan Ekonomi Politiğin Eleştirisine Katkı'nı…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k2 → "Önsözün şeması iki katmanlıdır: üretim ilişkilerinin toplamı toplumun iktisadi yapısını, gerçek temelini oluşt…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "En çok anılan cümle, bilinç ile varlık arasındaki ilişkiyi tersine çevirir: "İnsanların varlığını belirleyen b…" — programatik olarak ölçülemedi (ad karşılığı yok): İnsanların, Gelişimlerinin
+- [ATOMSUZ] k2 → "En çok anılan cümle, bilinç ile varlık arasındaki ilişkiyi tersine çevirir: "İnsanların varlığını belirleyen b…" — programatik olarak ölçülemedi (ad karşılığı yok): İnsanların, Gelişimlerinin
+- [ATOMSUZ] k1 → "Cohen'in savunduğu okuma önsözü işlevsel açıklamaya dayalı tutarlı bir kuram olarak kurtarmaya çalışır; başka …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Komünistler Birliği'nin görevlendirmesiyle Engels'le birlikte yazılan Komünist Manifesto 21 Şubat 1848'de yayı…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Metin, tarih yazımının en çok alıntılanan açılışlarından biriyle başlar: "Şimdiye kadarki bütün toplumların ta…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Metin, tarih yazımının en çok alıntılanan açılışlarından biriyle başlar: "Şimdiye kadarki bütün toplumların ta…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k3 → "Burjuvazi bu anlatıda çifte rol oynar: üretim araçlarını durmadan devrimcileştiren, görülmemiş bir üretici güç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Marx kendi konumunu, Fourier, Saint-Simon ve Owen çizgisine bağladığı ütopyacı sosyalizmden bilinçle ayırıyord…"
+- [OK]      k1 → "Devrimlerin yenilgisi Marx'ı sokaktan çalışma masasına döndürdü; sınıf mücadelesi kavramı ise sonraki bütün es…"
+- [OK]      k4 → "İktisadi çözümlemesinin başyapıtı olan Kapital'in birinci cildi 1867'de yayımlandı." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k7 → "İktisadi çözümlemesinin başyapıtı olan Kapital'in birinci cildi 1867'de yayımlandı."
+- [ATOMSUZ] k1 → "Çözümleme, Smith ve Ricardo'dan devralınan emek-değer kuramı üzerine kurulur: bir metanın değerini, onu üretme…" — programatik olarak ölçülemedi (ad karşılığı yok): Smith, Ricardo
+- [ATOMSUZ] k1 → "İşçinin kapitaliste sattığı şey emeği değil emek gücüdür; işçiyi yaşatmanın maliyeti ile o gücün üretimde yara…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "İşçinin kapitaliste sattığı şey emeği değil emek gücüdür; işçiyi yaşatmanın maliyeti ile o gücün üretimde yara…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Marx bu farkı emeğin sömürülmesi olarak okur: kârın nihai kaynağı ödenmemiş emektir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Marx bu farkı emeğin sömürülmesi olarak okur: kârın nihai kaynağı ödenmemiş emektir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Kitabın ilk büyük okur yankısı beklenmedik bir yerden geldi: Rusça çevirisine talep, kısa sürede 3.000 kopyalı…" — programatik olarak ölçülemedi (ad karşılığı yok): Rusça
+- [OK]      k7 → "İkinci ve üçüncü ciltler sağlığında tamamlanmadı; Engels dağınık müsveddeleri derleyip 1885 ve 1894'te yayımla…"
+- [OK]      k6 → "Din eleştirisi, 1844'te Paris'te çıkan bir dergide yayımladığı, Hegel'in hukuk felsefesinin eleştirisine yazdı…"
+- [OK]      k6 → "Metin, Almanya için din eleştirisinin esasta tamamlandığını ve din eleştirisinin her eleştirinin ön koşulu old…"
+- [ATOMSUZ] k6 → "Amaç dinle polemik değildir: eleştirinin asıl hedefi, insanları yanılsamaya muhtaç bırakan koşulların kendisid…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Marx'a göre din, maddi hayattaki yabancılaşmaya bir cevaptır ve o hayat özgürleşmedikçe ortadan kalkmaz; göğün…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Marx'a göre din, maddi hayattaki yabancılaşmaya bir cevaptır ve o hayat özgürleşmedikçe ortadan kalkmaz; göğün…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Engels'le 1844'te başlayan ortaklık, düşünce tarihinin en uzun soluklu ortak yazarlıklarından biridir."
+- [OK]      k1 → "1845-46'da birlikte yazdıkları Alman İdeolojisi tarih kuramının ilk geniş taslağını içerir; metin sağlıklarınd…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k7 → "1845-46'da birlikte yazdıkları Alman İdeolojisi tarih kuramının ilk geniş taslağını içerir; metin sağlıklarınd…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k7 → "Aynı dönemin kısa notlarından oluşan Feuerbach Üzerine Tezler'in en bilineni on birinci tezdir: "Filozoflar dü…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k7 → "Aynı dönemin kısa notlarından oluşan Feuerbach Üzerine Tezler'in en bilineni on birinci tezdir: "Filozoflar dü…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k7 → "Marx'ın bugün okunan külliyatının hatırı sayılır bir bölümü, bu ortaklığın süzgecinden geçmiş metinlerdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Örgütçülüğü yazarlığına eşlik etti: 1864'te Londra'da kurulan Uluslararası İşçi Birliği'nin — Birinci Enternas…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k7 → "Etkinin asıl ölçeği ise ölümünden sonra ortaya çıktı: özellikle 1917 Rus Devrimi'nin ardından adına bağlanan r…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k7 → "Etki rejimlerle sınırlı da değildir: Durkheim ve Max Weber ile birlikte modern sosyolojinin kurucu mimarlarınd…"
+- [ATOMSUZ] k1 → "En görüneni öngörü sorunudur: kurama göre komünizmin gelişi öngörülebilir olmalıdır, oysa kuramı geliştirmek i…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Beklenen devrimlerin ve çöküşün gerçekleşmemesi, bu kuramsal gerilimi tarihsel bir sınav sorusuna çevirdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Değerlerin fiyatlara dönüştürülmesi sorununda Marx'ın kendi çözümü teknik güçlüklerle maluldür; Robert Nozick,…"
+- [ATOMSUZ] k1 → "Belirlenimcilik itirazı da buna eklenir: şemanın tarihi tek hatlı bir zorunluluk gibi okuması hem metne sadaka…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Ahlaki eleştirinin Marx'ın kapitalizm eleştirisindeki rolü ise çok tartışılmıştır ve bu konularda yerleşik bir…"
+- [OK]      k1 → "Öngörülerinin aşınması ile çözümleyici kavramlarının kalıcılığı arasındaki bu açıklık yüzünden Marx okuması bu…"
 
-**Özet:** 2 OK · 0 ISARET · 0 HATA · 12 ATOMSUZ
+**Özet:** 31 OK · 0 ISARET · 0 HATA · 25 ATOMSUZ

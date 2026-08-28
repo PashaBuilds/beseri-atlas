@@ -30,6 +30,7 @@ ilgili:
   - kaynak-gibbon-roma
   - kaynak-tacitus-annales
   - tartisma-antik-kolelik-ekonomisi
+  - aktor-kus-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,69 +1,60 @@
 ## aktor-rapa-nui
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:22.179Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T19:19:08.886Z_
 
-- [OK]      k1 → "Rapa Nui, Pasifik'in güneydoğusunda, en yakın yerleşik kara parçasına iki bin kilometreden uzak bir adadır."
-- [ATOMSUZ] k2 → "Yerleşimin en bilinen ürünü, adanın çevresine dizilmiş büyük taş heykellerdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Bu dosyanın asıl konusu heykeller değil, ada hakkında kurulan anlatıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Yerleşmiş anlatı şöyle işler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Anlatının çekiciliği açıktır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Atlas anlatının çekiciliğini ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Son yirmi yılda yapılan çalışmalar anlatının her adımını sorgulamıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Ormanın yok olmasında, insanlarla birlikte gelen kemirgenlerin payı öne sürülmüştür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Heykellerin taşınma biçimi de yeniden ele alınmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Anlatının en zayıf halkası zamanlamadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Kayıtlar, ciddi nüfus kaybının temas sonrasında yoğunlaştığını göstermektedir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Bu, anlatının yönünü tersine çevirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "İki okuma aynı adaya bakar ve farklı fail gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Fail seçimi, anlatının vereceği dersi de belirler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Dosyanın kaydettiği kural tek cümleyle ifade edilebilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kural bu adaya özgü değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Sonucu doğrudan pratiktir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Anlatının erken biçimi, adaya uğrayan gezginlerin raporlarına dayanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Açıklama, gözlemin kendisi değil bir çıkarımdı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Atlas bu ayrımı ayrıca yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Adanın ilk sistematik saha çalışması yirminci yüzyıl başında yapıldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Görüşmeler önemlidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Atlas bu kısıtı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Heykellerin ne için yapıldığı tartışmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Üçü de aynı bulgulara uyar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bir sonuca bağlanmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Adada, işaretlerden oluşan tahta levhalar bulunmuştur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Bu, atlasın Kuş dosyasında kaydedilen durumun bir başka örneğidir." — programatik olarak ölçülemedi (ad karşılığı yok): Kuş
-- [ATOMSUZ] k4 → "Ayrıca bir tartışma daha vardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Adada, akrabalık gruplarına dayanan bir bölünme bulunuyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Merkezî bir yönetim aygıtının varlığı gösterilememiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Bu, atlasın Cahokia dosyasında ölçtüğü kısıtla aynıdır." — programatik olarak ölçülemedi (ad karşılığı yok): Cahokia
-- [ATOMSUZ] k4 → "Ada, on sekizinci yüzyılda Avrupalı gemilerin uğrak yeri oldu." — programatik olarak ölçülemedi (ad karşılığı yok): Avrupalı
-- [ATOMSUZ] k1 → "On dokuzuncu yüzyıl ortasında yapılan köle baskınları, ada nüfusunun önemli bir bölümünü götürdü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Bu iki olayın ardından nüfus birkaç yüz kişiye indi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Ada, on dokuzuncu yüzyıl sonunda bir Güney Amerika devleti tarafından ilhak edildi." — 1 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k4 → "Adalılar bu dönemde adanın küçük bir bölümüne sınırlandırıldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Dosya bu dönemi ayrıntılandırmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "İtirazlar akademik yazında yerleşmiş olmasına rağmen, yaygın anlatı büyük ölçüde değişmemiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Gecikmenin nedeni anlatının işleviyle ilgilidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Atlas bu mekanizmayı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Ada, en yakın yerleşik kara parçasından iki bin kilometreden uzaktadır ve bu, yerleşimden sonra düzenli teması…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "İzolasyon, adayı bir laboratuvar gibi okumayı çekici kılar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Varsayım tam olarak doğru değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Kapalı sistem varsayımı, dış etkenleri baştan devre dışı bırakır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Aynı varsayım kaldırıldığında, açıklama kümesi genişler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu adımı ayrıca işaretler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Adada akarsu yoktur ve toprak volkaniktir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Yöntem, kazılarda geniş alanlarda saptanmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Atlas bulguyu ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Bu dosyanın dört künyesinden ikisi dönem tanıklığı, biri akademik kitap, biri giriş kapısıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Künye seçimi bilinçlidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Adalıların kendi kayıtları künyelenememiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Heykellerin tipolojisi ve yapım tekniği ayrıntılı olarak işlenmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Adanın yirminci yüzyıl ve sonrası tarihi kapsam dışıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Polinezya yerleşim tarihinin genel çerçevesi burada verilmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Dosya, orman kaybının olmadığını ileri sürmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "İkinci okumanın doğru olduğu da ileri sürülmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Fail seçimi hakkındaki gözlem bir suçlama değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Adaya yerleşimi mümkün kılan denizcilik için dosyası okunmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Çöküş açıklamalarının genel yapısı için dosyası uygundur; bu dosya oradaki soruya somut bir örnek ekler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Kanıt türlerinin hangi soruya cevap verdiği için ve , anlatının nasıl kurulduğu için dosyaları okunabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Aynı okyanustan öteki dosyalar için ve okunmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Rapa Nui, Pasifik'in güneydoğusunda, en yakın yerleşik komşusuna iki bin kilometreden uzak bir adanın ve o ada…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Adada bugün yedi binden fazla insan yaşar; Rapanui dili konuşulmaya devam eder ve ada, Şili'ye bağlı anayasal …" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Topluluk, geçmişi hakkında yürütülen tartışmanın nesnesi değil, giderek daha görünür bir tarafıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Aynı ada, dünya tarihinin en çok anlatılan çöküş hikâyelerinden birinin sahnesidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Ormanını tüketip kendi kendini yok eden toplum anlatısı yirminci yüzyılda ders verici bir mesel olarak yerleşt…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "İki taraf da aynı heykellere, aynı polen kayıtlarına ve aynı gemi günlüklerine bakar; ayrıştıkları nokta, yıkı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Adaya ilk yerleşenler, nın en doğu ucuna ulaşan Polinezya denizcileriydi; öne sürülen tarihler değişmekle birl…" — programatik olarak ölçülemedi (ad karşılığı yok): Polinezya
+- [OK]      k1 → "Aynı denizcilik ağının öteki uçlarında ve gibi akraba topluluklar kuruldu; Rapa Nui, bu ağın açık ara en yalıt…"
+- [OK]      k1 → "Adada bine yakın moai vardır; büyük bölümü Rano Raraku yanardağının tüfünden yontulmuştur ve bir kısmı tamamla…"
+- [OK]      k1 → "Heykellerin ne anlattığına dair en erken doğrudan tanıklık Cook seferinden gelir: gemideki Bora Boralı Hitihit…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Heykel dikme geleneğinin hangi toplumsal düzen içinde örgütlendiği ise nesne kanıtından okunamaz; taş, yapının…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Kayda geçen ilk Avrupa teması 1722'de gerçekleşti: Hollandalı Jacob Roggeveen, karşılaşma Paskalya gününe denk…"
+- [OK]      k3 → "Roggeveen'in resmî seyir defterinden alınan bölüm, 1770'te Peru genel valisinin gönderdiği Felipe González sef…"
+- [ATOMSUZ] k1 → "Roggeveen'in vardığı sırada adada iki ila üç bin kişinin yaşadığı tahmin edilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "İspanyol kayıtları, heykellerin 1770'te ayakta durduğunu yazar ve adanın San Carlos adıyla İspanya adına ilhak…"
+- [OK]      k1 → "Dört yıl sonra, 1774'te James Cook uğradığında bazı heykellerin devrilmiş olduğu kaydedildi."
+- [OK]      k4 → "Cook'un 1777'de yayımlanan sefer anlatısının ilk cildi, Yeni Zelanda'dan adaya geçişi ve oradaki temasları ayr…"
+- [OK]      k1 → "Ziyaretler 1786'da La Pérouse ile seyrek de olsa sürdü."
+- [OK]      k6 → "Yaygın çöküş anlatısının en işlenmiş hâli Jared Diamond'ın 2005 tarihli Collapse kitabındadır; kitabın "toplum…"
+- [ATOMSUZ] k6 → "Bu okumaya göre ada yerleşim sırasında ormanlıktı; nüfus büyüdü, ağaçlar heykel taşımak ve tarla açmak için ke…" — programatik olarak ölçülemedi (ad karşılığı yok): Avrupalılar
+- [ATOMSUZ] k6 → "Anlatı, kapalı bir sistemde kaynak tüketiminin sonucunu gösteren bir uyarı meseli olarak kuruldu ve bu ders ve…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Terry Hunt ile Carl Lipo, 2011'de yayımlanan The Statues That Walked'ta bu zincirin her halkasına itiraz etti."
+- [ATOMSUZ] k5 → "Ormanın yok oluşunda, yerleşimcilerin gemileriyle gelen Polinezya sıçanına belirleyici bir pay verirler: sıçan…" — programatik olarak ölçülemedi (ad karşılığı yok): Polinezya
+- [ATOMSUZ] k5 → "Heykellerin kütükler üzerinde sürüklenmek yerine dik konumda, halatlarla yürütülerek taşınabildiğini deneyle g…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Onlara göre asıl demografik yıkım Avrupa temasının ardından, hastalık ve köle akınlarıyla geldi; temas öncesi …"
+- [ATOMSUZ] k1 → "Kalıcı akarsuyu olmayan adada ekim, toprağı çakıl ve taşla örterek nemi tutan bir yöntemle yapılıyordu; taş ör…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Bir çevresel kısıtla karşılaşan topluluğun yöntem değiştirdiğini gösteren bu bulgu, iki okumanın hangi kanıtı …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Tartışmanın tartışma götürmeyen bölümü, on dokuzuncu yüzyılda yaşananlardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "1862-63'te Peru'dan gelen işçi avcısı gemiler, düzeninin en yıkıcı örneklerinden birinde yaklaşık 1.500 adalıy…"
+- [OK]      k7 → "Dönem kayıtları, götürülenlerin Chincha adalarındaki guano yataklarında çalıştırıldığını yazar."
+- [ATOMSUZ] k1 → "Sağ dönebilen bir düzine kadar insan yanında çiçek hastalığını getirdi ve salgın, adada kalmış nüfusu kırdı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "1877'de adada yalnızca 111 Rapanui sayıldı; 1862 ile 1888 arasında nüfusun yaklaşık yüzde 94'ü ölmüş ya da ada…"
+- [ATOMSUZ] k1 → "Ölenler arasında, adanın tarihinin, şecerelerinin ve rongorongo bilgisinin taşıyıcısı sayılan tumu ivi 'atua'l…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Aktarım zincirindeki kopuş gerçektir ve tarihi bellidir; ama bu bir kültürün ölümü değil, bir halkın elinden a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Nüfus sonraki kuşaklarda yeniden büyüdü, dil yaşadı ve bugünkü topluluk o yıllardan sağ çıkanların torunlarınd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Adadan çıkan tahta levhalara rongorongo denen bir işaret sistemi kazınmıştır; işaretler tahtaya her satırda yö…"
+- [ATOMSUZ] k1 → "Günümüze yalnızca yirmi küsur metin ulaşmıştır ve bunların hiçbiri adada değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Geleneğe göre okuryazarlık yönetici aileler ve rahiplerle sınırlıydı; bu kesim köle akınlarını izleyen salgın …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bütün çözme girişimlerine karşın metinler okunamamıştır ve elde bu kadar az metin varken işaretlerin gerçek bi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu belirsizlik örtülmeden söylenmelidir: rongorongo hakkında bugün söylenebilecek en sağlam cümle, ne söylediğ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Adanın ilk sistematik arkeolojik ve etnografik incelemesi, 1914-15'te Katherine Routledge'ın Mana seferiyle ya…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k2 → "Routledge heykelleri ölçtü ve kazılar yürüttü; ama kaydının bugün en değerli sayılan katmanı, akın öncesi düze…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Gözlemlerini 1919'da The Mystery of Easter Island adıyla yayımladı ve kitabın tam metni bugün açık erişimdedir…"
+- [ATOMSUZ] k2 → "Bu görüşmeler, kopuştan yarım yüzyıl sonra bile anlatacak insan bulunduğunu gösterir: aktarım incelmişti, ama …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Şili, adayı 1888'de ilhak etti."
+- [OK]      k1 → "Sonraki yarım yüzyılda ada fiilen bir koyun çiftliği olarak işletildi; Williamson-Balfour şirketinin kiracılığ…"
+- [OK]      k1 → "Rapanuiler Şili vatandaşlığını ancak 1966'da aldı; 2007'de ada anayasada tanımlı özel bölge statüsüne kavuştu." — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "2017 sayımında adada 7.750 kişi kaydedildi; yıllık Tapati festivali topluluğun kendi kültürel takvimini kurar …"
+- [OK]      k7 → "1911 tarihli Britannica maddesi, anlatının yerleşmeden önceki hâlini gösterir: madde, adalıların bu "olağanüst…"
+- [OK]      k7 → "Aynı madde Peru akınlarını tek cümleyle geçer; heykelleri diken halkın torunları oradayken, yapıların sahibi k…"
+- [ATOMSUZ] k7 → "Yıkımın belgeli kısmı, gizemin gölgesinde kalıyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Sonraki yüzyıl gizemi çözmedi, failini değiştirdi: ekolojik intihar okumasında yıkımın sorumlusu adalıların ke…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Fail seçimi, anlatının vereceği dersi de belirler; birinci okuma kaynak yönetimi, ikincisi sömürgecilik hakkın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Tartışmanın bugün bir tarafı da adanın kendisidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Heykeller ve levhalar yok olmuş bir uygarlığın kalıntıları değil, yaşayan bir topluluğun atalarından kalan var…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 2 OK · 0 ISARET · 0 HATA · 62 ATOMSUZ
+**Özet:** 26 OK · 0 ISARET · 0 HATA · 29 ATOMSUZ

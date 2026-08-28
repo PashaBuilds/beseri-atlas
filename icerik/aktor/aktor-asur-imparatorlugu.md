@@ -18,6 +18,7 @@ ilgili:
   - aktor-ahamenis-imparatorlugu
   - tartisma-imparatorluk-siniri-nasil-cizilir
   - kaynak-gilgamis-destani
+  - aktor-kus-kralligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

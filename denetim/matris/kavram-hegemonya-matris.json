@@ -1,0 +1,353 @@
+{
+  "id": "kavram-hegemonya",
+  "govde_hash": "0c7a73b474ca",
+  "commit": "c9a3451",
+  "zaman": "2026-08-28",
+  "hakem": "kor-hakem-2026-08-28",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Hegemonya, bir devletin ya da toplumsal bir grubun ötekiler üzerindeki üstünlüğünü, önderliğinin kabul edilmesine dayanarak kurup sürdürmesidir; sözcük, Yunanca önder anlamındaki hēgemōn ile yetke ve siyasi üstünlük anlamındaki hēgemonia'dan gelir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Etimoloji ve devletler arasi ustunluk tanimi k1'de dogrudan; onderligin kabulu vurgusu Gramsci katmanindan (k2) sentezlendigi icin kismi sayildi"
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Uluslararası ilişkiler yazınında imparatorluktan şu çizgiyle ayrılır: hegemon, öteki devletlerin dış ilişkilerini yönlendirir ama iç işlerini yönetmez.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Antik Yunan'da bir ittifakın önderliğini yürüten devletin unvanıydı; Antonio Gramsci'nin elinde yönetici sınıfın rıza ile zoru birleştiren egemenlik biçiminin adı oldu; uluslararası ilişkilerde ise düzeni taşıyan baskın devleti anlatır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Yunan şehir devletlerinin dünyasında hegemon, ortak savaş için kurulmuş bir birliğin önderliğini yürüten devletti: Sparta Peloponez Birliği'nin, Atina Pers savaşlarından sonra kurulan deniz birliğinin (MÖ 478-404), Makedonya kralı II. Filip ise MÖ 337'de kurdurduğu Korint Birliği'nin hegemonuydu.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Thukydides, Atinalıların bu önderliği müttefiklerin kendi istekleriyle devraldığını yazar; kullandığı sözcük hegemonia'dır ve fethedilmiş bir egemenlikten çok kabul görmüş bir öncülüğü anlatır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Thuk. 1.96: ἡγεμονίαν ve ἑκόντων τῶν ξυμμάχων metinde; son yan cumledeki niteleme yazarin ozeti"
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Rızanın, terimin daha bu ilk kullanımında işin içinde olması, kavramın sonraki serüvenini hazırlayan ayrıntıdır.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yazarin baglayici yorumu; kaynak yalnizca zemin sagliyor"
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Antonio Gramsci (1891-1937), İtalyan Komünist Partisi'nin başındayken 1926'da Mussolini rejimince tutuklandı; Hapishane Defterleri'ni 1929-1935 arasında, hücresinde kopardığı okuma ve yazma izniyle doldurdu.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Defterlerde hegemonya, yönetici sınıfın kendini topluma düşünsel ve ahlaki önderlik yoluyla kabul ettirme sürecinin adıdır: gelişmiş kapitalist devletlerde egemenlik, ordu, polis ve mahkemeler üzerinden işleyen zordan çok, sivil toplumda üretilen rızaya dayanır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Rıza ile zor bu kurguda iki ayrı madde olarak yan yana durur: bir yanda kitlelerin, egemen grubun toplumsal hayata verdiği yöne gösterdiği kendiliğinden rıza; öte yanda rıza vermeyenlere disiplini yasal yoldan dayatan ve rızanın çözüldüğü bunalım anları için bütün toplum adına hazırda tutulan devlet zoru.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Aydınlar da bu düzenekte egemen grubun toplumsal hegemonya ile siyasal yönetim işlevlerini yürüten görevlileridir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Defterler yazarının sağlığında yayımlanmadı: İtalya'da 1948-1951 arasında altı tematik cilt olarak, İngilizcede 1971'de Selections from the Prison Notebooks seçkisiyle basıldı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Kavramın dünya ölçeğindeki yayılışı bu gecikmeli baskıların üzerinden yürüdü.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "SEP, defterlerin anlaminin gecikmeli yayim baglamlarinca bicimlendigini yaziyor; dunya olcegi vurgusu yazarin"
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "On dokuzuncu yüzyılın tarih yazımında sözcüğün anlamı, bir ülkenin öteki ülkeler üzerindeki baskınlığına genişledi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Uluslararası ilişkiler bu anlamı devraldı ve en görünür önermesini hegemonik istikrar kuramında buldu: istikrarlı bir uluslararası siyasi ve iktisadi düzenin kurulup ayakta kalması, bir hegemonun varlığını gerektirir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Kuram 1970'lerde Robert Gilpin ve Stephen Krasner gibi adlarca geliştirildi; arka planında Charles Kindleberger'in iki savaş arası buhranını konu alan The World in Depression, 1929-1939 adlı incelemesi durur.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Gilpin-Krasner ve 1970'ler k1'de dogrudan; ancak k1 govdesi Kindleberger'i ve The World in Depression'i hic anmiyor (yalniz 1981 tarihli baska bir makalesi dipnotta), bu yuzden k1 kismi'ye dusuruldu. k5 kunye sayfasi kitabin adini ve 1929-1939 kapsamini veriyor; 'arka planinda durur' baglantisi yazarin sentezi."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Bu katmanın alışıldık örnekleri de bellidir: on dokuzuncu yüzyıl için Britanya, yirminci yüzyıl için Birleşik Devletler anılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Kavramın bu katmandaki ağırlığını dönemin sayıları da gösterir: 2009 verileriyle NATO ülkeleri küresel askeri harcamanın yüzde 70'inden fazlasını karşılıyor, yalnız Birleşik Devletler bu toplamın yüzde 43'ünü tek başına üstleniyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1'de birebir: 'NATO countries account for over 70% of global military expenditure, with the United States alone accounting for 43% of global military expenditure in 2009'. k1'in dipnotlari 2009/2010 tarihli; metindeki simdiki zaman hakemce 2009'a sabitlendi, cunku veri gunumuz icin dogrulanamaz."
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Kuram hem kavramsal hem görgül gerekçelerle eleştirildi: Robert Keohane, önermelerinin gereksiz yinelemeler olduğunu ve öngörü üretmediğini savundu; hegemonun gerilemesine karşın devletler arası iş birliğinin sürebileceğini savunan çalışmalar da buna eklendi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Hapishane Defterleri parçalı metinlerdir, karşıt vurgulara açıktır ve taşıdıkları anlam, yayımlandıkları her ortamın kendi kaygılarıyla yeniden biçimlenmiştir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Sparta'nın ittifak önderliği, bir sınıfın kültürel egemenliği ve bir süper gücün askeri üstünlüğü aynı ad altında toplandığında, hegemonyanın nerede bitip sıradan üstünlüğün nerede başladığını söyleyecek ölçüt zayıflar.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Esneklik itirazinin ozeti; ayni kaynagin uc disiplini ve bes bin yillik ornek dizisini ayni maddede tutmasi zemin sagliyor, cikarim yazarin"
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Kültür ve üstyapı üzerindeki yoğunlaşması, Gramsci'yi iktisadi koşullardan ve zordan çok ideolojik engellerle ilgilenen bir Batılı Marksist sayan okumalar doğurdu; Perry Anderson'ın 1976'da açtığı tartışmadan bu yana hegemonyanın kültürel ve ideolojik egemenliğin genel bir kuramına dönüştürülmesi, zoru ve iktisadı gözden kaçırdığı gerekçesiyle sorgulanır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Bati Marksisti kategorisi, Anderson 1976 ve 'kulturel-ideolojik egemenligin genel kurami' SEP'te dogrudan; 'zoru ve iktisadi gozden kacirma' gerekcesinin surekli sorgulanma bicimi yazarin toparlamasi"
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Oysa Defterlerin kendi kurgusunda rıza, zorun karşısına değil yanına konmuştur: zor aygıtı, kendiliğinden rızanın çözüldüğü anlar için hazırda bekletilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Aynı sözcük ittifak önderliğinden sınıf egemenliğine ve dünya düzenine taşınır; bu genişlemenin kavramı nerede ölçüsüzleştirdiği açık bir tartışmadır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yaniltici ::tartismali direktifinden (harita=tartisma-feodalite-kavrami, hegemonya haritasi degil) hakemce duz metne cevrildi. Uc katman gecisi k1'de dogrudan; 'acik bir tartismadir' nitelemesi yazarin cercevesi, k2'nin alimlama tartismasi zemin sagliyor."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 16,
+    "kismi": 5,
+    "desteksiz": 0,
+    "olculemez": 2
+  }
+}

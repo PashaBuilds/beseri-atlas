@@ -1,0 +1,697 @@
+{
+ "id": "dusunur-marx",
+ "govde_hash": "32503edda988",
+ "commit": "c9a3451",
+ "zaman": "2026-08-28",
+ "hakem": "kor-hakem-2026-08-28",
+ "iddialar": [
+  {
+   "iddia_id": "i001",
+   "cumle": "Karl Marx, 5 Mayıs 1818'de Prusya'nın Trier kentinde doğdu; 14 Mart 1883'te, ömrünün son otuz dört yılını sürgün olarak geçirdiği Londra'da, hiçbir devletin vatandaşı olmadan öldü.",
+   "onem": "merkezi",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Dogum-olum tarihleri, Trier, vatansizlik kaynakta dogrudan; otuz dort yil sayisi 1849-1883 araligindan turetilmis"
+  },
+  {
+   "iddia_id": "i002",
+   "cumle": "Sıklıkla filozoftan çok bir eylemci, eserleri yirminci yüzyılda komünist rejimlerin kuruluşuna esin veren bir devrimci olarak anılır; oysa yetişmesi felsefeydi ve düşüncesi felsefeyi, tarihi, iktisadı ve siyaseti tek bir eleştirel projede birleştirir.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i003",
+   "cumle": "Bu soruları izlerken geliştirdiği kavramlar — yabancılaşma, tarihsel materyalizm, sınıf mücadelesi, artı-değer — hem ölümünden sonra adına kurulan siyasal rejimlerin hem de ona hiç yakın durmayan sosyal bilim geleneklerinin sözlüğüne yerleşti.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Rejimlere ve sosyolojiye etki kaynakta dogrudan; sozluk metaforu yazarin"
+  },
+  {
+   "iddia_id": "i004",
+   "cumle": "Hukuk okumak için önce Bonn'a, sonra Berlin'e gitti; orada Hegel'in felsefesiyle ve 1837'den itibaren Genç Hegelciler çevresiyle tanıştı, 1841'de Jena Üniversitesi'nden felsefe doktorası aldı.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i005",
+   "cumle": "Akademik kariyerin kapıları siyasal iklim yüzünden kapanınca gazeteciliğe yöneldi: 1842'de Köln'de çıkan Rheinische Zeitung'un yazı işlerini üstlendi, gazete Prusya makamlarınca kapatılınca 1843'te Jenny von Westphalen ile evlenip Paris'e taşındı.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i006",
+   "cumle": "Paris yılları iki belirleyici karşılaşmanın yeridir: ekonomi politikle — Adam Smith ve David Ricardo'yu burada okumaya başladı — ve 1844'te ömürlük çalışma arkadaşı olacak Friedrich Engels'le.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i007",
+   "cumle": "Sürgün onu önce Brüksel'e savurdu; patlak verince Köln'e dönüp Neue Rheinische Zeitung'u çıkardı, karşı-devrim üstün gelince 1849'da Londra'ya geçti.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i008",
+   "cumle": "Hayatının geri kalanını orada, uzun süre yoksulluk içinde, British Museum'da araştırma yaparak ve gazetelere yazarak geçirdi; öldüğünde Londra'daki Highgate Mezarlığı'na gömüldü.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "British Museum arastirmasi ve Highgate kaynakta dogrudan; yoksulluk vurgusu kaynakta dagilmis pasajlardan"
+  },
+  {
+   "iddia_id": "i009",
+   "cumle": "Yabancılaşma, kişi ile ona aslında ait olan bir şey — emeği, ürünü, başka insanlar — arasındaki sorunlu ayrılığı adlandırır; kavramın modern tartışması büyük ölçüde Hegelci ve Marksist geleneklerden beslenir.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k8",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i010",
+   "cumle": "Marx'ın erken yazılarına bu teşhis hâkimdir ve teşhis, insan doğasına ve onun serpilmesine dair tartışmalı bir anlatıya dayanır.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i011",
+   "cumle": "Paris'te 1844'te kaleme aldığı elyazmaları sağlığında yayımlanmadı; metinler ancak 1932'de basıldı ve yirminci yüzyılın Marx okumasını derinden etkiledi.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "1844 ve 1932 tarihleri kaynakta; yirminci yuzyil okumasini derinden etkiledigi yorumu yazarin"
+  },
+  {
+   "iddia_id": "i012",
+   "cumle": "Orada ücretli emek dört yönlü bir yabancılaşma olarak çözümlenir: işçi emeğinin ürününe, üretim etkinliğinin kendisine, türsel varlığına ve öteki insanlara yabancılaşır.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i013",
+   "cumle": "Çözümlemenin çıkış gözlemi serttir: işçi ne kadar çok zenginlik üretirse o kadar yoksullaşır, çünkü emeğinin ürünü karşısına kendisinden bağımsız, yabancı bir güç olarak dikilir.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i014",
+   "cumle": "Marx'a göre bunun kökeninde çalışmanın kendisi değil, çalışmanın özel mülkiyet altındaki biçimi vardır; emek aslında yaratıcı ve doyurucu olabilecek bir etkinliktir.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i015",
+   "cumle": "Çoğu kez tarihsel materyalizm denen tarih kuramının çekirdeği, toplum biçimlerinin insanın üretici gücünün gelişimini önce ilerlettikçe yükselip sonra engelledikçe düştüğü fikridir.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i016",
+   "cumle": "Kuramın klasikleşmiş formülasyonu Kapital'de değil, 1859'da yayımlanan Ekonomi Politiğin Eleştirisine Katkı'nın birkaç sayfalık önsözünde yer alır.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i017",
+   "cumle": "Önsözün şeması iki katmanlıdır: üretim ilişkilerinin toplamı toplumun iktisadi yapısını, gerçek temelini oluşturur; hukuki ve siyasal üstyapı bu temelin üzerinde yükselir.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i018",
+   "cumle": "En çok anılan cümle, bilinç ile varlık arasındaki ilişkiyi tersine çevirir: \"İnsanların varlığını belirleyen bilinçleri değil, tersine, bilinçlerini belirleyen toplumsal varlıklarıdır.\" Gelişimlerinin belirli bir aşamasında üretici güçler mevcut üretim ilişkileriyle çatışmaya düşer; o ilişkiler gelişmenin biçimleri olmaktan çıkıp prangasına dönüşür ve bir toplumsal devrim çağı başlar.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i019",
+   "cumle": "Cohen'in savunduğu okuma önsözü işlevsel açıklamaya dayalı tutarlı bir kuram olarak kurtarmaya çalışır; başka yorumcular aynı metinde sınıf mücadelesinin adının bile geçmediğine dikkat çeker.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i020",
+   "cumle": "Komünistler Birliği'nin görevlendirmesiyle Engels'le birlikte yazılan Komünist Manifesto 21 Şubat 1848'de yayımlandı; hemen ardından Avrupa'yı bir devrim dalgası sardı.",
+   "onem": "merkezi",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i021",
+   "cumle": "Metin, tarih yazımının en çok alıntılanan açılışlarından biriyle başlar: \"Şimdiye kadarki bütün toplumların tarihi, sınıf mücadeleleri tarihidir.\" Manifesto'ya göre modern çağ sınıf karşıtlıklarını sadeleştirmiş, toplumu giderek iki büyük düşman kampa — burjuvazi ile proletarya — bölmüştür.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i022",
+   "cumle": "Burjuvazi bu anlatıda çifte rol oynar: üretim araçlarını durmadan devrimcileştiren, görülmemiş bir üretici güç açığa çıkaran, ama kendi mezar kazıcısı olacak sınıfı da bizzat yaratan bir güç.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i023",
+   "cumle": "Marx kendi konumunu, Fourier, Saint-Simon ve Owen çizgisine bağladığı ütopyacı sosyalizmden bilinçle ayırıyordu: ona göre sosyalizmi getirecek olan iyi niyetli toplum tasarımları değil, tarihin gerçek hareketi ve sınıf mücadelesidir.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Utopyaci ucluye baglanma ve ayrim kaynakta; tarihin gercek hareketi formulu yazarin ozeti"
+  },
+  {
+   "iddia_id": "i024",
+   "cumle": "Devrimlerin yenilgisi Marx'ı sokaktan çalışma masasına döndürdü; sınıf mücadelesi kavramı ise sonraki bütün eserlerinin siyasal omurgası olarak kaldı.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Sinif mucadelesinin kalici merkeziligi kaynakta islenir; sokaktan masaya imgesi yazarin"
+  },
+  {
+   "iddia_id": "i025",
+   "cumle": "İktisadi çözümlemesinin başyapıtı olan Kapital'in birinci cildi 1867'de yayımlandı.",
+   "onem": "merkezi",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i026",
+   "cumle": "Çözümleme, Smith ve Ricardo'dan devralınan emek-değer kuramı üzerine kurulur: bir metanın değerini, onu üretmek için toplumsal olarak gerekli emek zamanı belirler.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Toplumsal olarak gerekli emek zamani tanimi kaynakta dogrudan; Smith-Ricardo mirasi vurgusu kaynakta bu cumleyle birebir kurulmaz"
+  },
+  {
+   "iddia_id": "i027",
+   "cumle": "İşçinin kapitaliste sattığı şey emeği değil emek gücüdür; işçiyi yaşatmanın maliyeti ile o gücün üretimde yarattığı değer arasındaki fark, artı-değer olarak sermayeye kalır.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "SEP fark formulasyonunu birebir tasir (gunluk emek gucunun degeri = isciyi yasatan metalarin degeri; bunun ustundeki emek arti-deger uretir); k7 emek gucunun ucret karsiligi satisini ve odenmemis emegi tasir, maliyet-deger farki formulasyonunu kurmaz"
+  },
+  {
+   "iddia_id": "i028",
+   "cumle": "Marx bu farkı emeğin sömürülmesi olarak okur: kârın nihai kaynağı ödenmemiş emektir.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "SEP: arti-deger tum karin kaynagidir, cozum iscinin somurusu fikrine dayanir; k7: odenmemis emek arti-degerin nihai kaynagi. 'birikimin' yerine kaynaklarin tasidigi 'karin' yazildi (kor hakem duzeltmesi)"
+  },
+  {
+   "iddia_id": "i029",
+   "cumle": "Kitabın ilk büyük okur yankısı beklenmedik bir yerden geldi: Rusça çevirisine talep, kısa sürede 3.000 kopyalık bir basıma yol açtı.",
+   "onem": "renk",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i030",
+   "cumle": "İkinci ve üçüncü ciltler sağlığında tamamlanmadı; Engels dağınık müsveddeleri derleyip 1885 ve 1894'te yayımladı.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i031",
+   "cumle": "Din eleştirisi, 1844'te Paris'te çıkan bir dergide yayımladığı, Hegel'in hukuk felsefesinin eleştirisine yazdığı giriş yazısında en keskin ifadesini bulur.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i032",
+   "cumle": "Metin, Almanya için din eleştirisinin esasta tamamlandığını ve din eleştirisinin her eleştirinin ön koşulu olduğunu söyleyerek açılır; din orada gerçek ıstırabın hem ifadesi hem de ona karşı protesto, ezilen yaratığın iç çekişi ve kalpsiz bir dünyanın kalbi diye tarif edilir — \"halkın afyonu\"dur.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k6 birebir: 'the expression of real suffering and a protest against real suffering', 'the sigh of the oppressed creature, the heart of a heartless world', 'It is the opium of the people'. Teselli/protesto ikiligi tek yonlu kalmasin diye protesto yarisi eklendi (kor hakem duzeltmesi)"
+  },
+  {
+   "iddia_id": "i033",
+   "cumle": "Amaç dinle polemik değildir: eleştirinin asıl hedefi, insanları yanılsamaya muhtaç bırakan koşulların kendisidir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i034",
+   "cumle": "Marx'a göre din, maddi hayattaki yabancılaşmaya bir cevaptır ve o hayat özgürleşmedikçe ortadan kalkmaz; göğün eleştirisi böylece yerin, ilahiyatın eleştirisi siyasetin eleştirisine dönüşür.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "SEP: 'religion is a response to alienation in material life, and therefore cannot be removed until human material life is emancipated'; k6: gogun elestirisi yerin, ilahiyatin elestirisi siyasetin elestirisine donusur pasaji. Eski 'gec donem eserlerde surer / kusurlu toplumlarin teselli gereksinimi' formulasyonu guncel SEP metninde yoktu; kaynagin tasidigi cumleyle degistirildi (kor hakem duzeltmesi)"
+  },
+  {
+   "iddia_id": "i035",
+   "cumle": "Engels'le 1844'te başlayan ortaklık, düşünce tarihinin en uzun soluklu ortak yazarlıklarından biridir.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "1844 baslangici kaynakta; en uzun soluklu ortak yazarlik nitelemesi yazarin"
+  },
+  {
+   "iddia_id": "i036",
+   "cumle": "1845-46'da birlikte yazdıkları Alman İdeolojisi tarih kuramının ilk geniş taslağını içerir; metin sağlıklarında yayımcı bulamadı.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Yazim tarihi ve ortak yazarlik SEP kaynakta dogrudan; yayimci bulamama ayrintisi ansiklopedide dolayli"
+  },
+  {
+   "iddia_id": "i037",
+   "cumle": "Aynı dönemin kısa notlarından oluşan Feuerbach Üzerine Tezler'in en bilineni on birinci tezdir: \"Filozoflar dünyayı yalnızca çeşitli biçimlerde yorumladılar; asıl olan, onu değiştirmektir.\" Ortaklık yazıyla sınırlı kalmadı: Manifesto iki adı birlikte taşır ve Kapital'i tamamlayan iki cildi, Marx'ın ölümünden sonra onun müsveddelerinden Engels derledi.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i038",
+   "cumle": "Marx'ın bugün okunan külliyatının hatırı sayılır bir bölümü, bu ortaklığın süzgecinden geçmiş metinlerdir.",
+   "onem": "renk",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Engels in derleyici rolunden cikarim; kaynak bu genellemeyi kendisi kurmaz"
+  },
+  {
+   "iddia_id": "i039",
+   "cumle": "Örgütçülüğü yazarlığına eşlik etti: 1864'te Londra'da kurulan Uluslararası İşçi Birliği'nin — Birinci Enternasyonal — önde gelen isimlerinden biri oldu.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i040",
+   "cumle": "Etkinin asıl ölçeği ise ölümünden sonra ortaya çıktı: özellikle 1917 Rus Devrimi'nin ardından adına bağlanan rejimler ve hareketler dünya siyasetini yüzyıl boyunca biçimlendirdi.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "1917 sonrasi etki kaynakta dogrudan; yuzyil boyunca bicimlendirme genellemesi yazarin"
+  },
+  {
+   "iddia_id": "i041",
+   "cumle": "Etki rejimlerle sınırlı da değildir: Durkheim ve Max Weber ile birlikte modern sosyolojinin kurucu mimarlarından sayılır; sınıf, ideoloji ve sermaye kavramları sosyal bilimlerin ortak sözlüğüne onun elinden geçerek girdi.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Modern sosyal bilimin uc mimarindan biri nitelemesi ve sosyolojinin dogusuna katki k7'de dogrudan (dipnot aliniti Marx-Durkheim-Weber uclusunu acikca kurar); sinif-ideoloji-sermaye kavramlarinin ortak sozluge 'onun elinden gecerek' girdigi genellemesi yazarin sentezi (kor hakem indirimi: dogrudan -> kismi)"
+  },
+  {
+   "iddia_id": "i042",
+   "cumle": "En görüneni öngörü sorunudur: kurama göre komünizmin gelişi öngörülebilir olmalıdır, oysa kuramı geliştirmek için önerilen en iyi model olan evrimsel biyoloji tam da uzun vadeli öngörüye izin vermez; yorumcunun önündeki ikilem, ya açıklama modelinden ya öngörü iddiasından vazgeçmektir.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i043",
+   "cumle": "Beklenen devrimlerin ve çöküşün gerçekleşmemesi, bu kuramsal gerilimi tarihsel bir sınav sorusuna çevirdi.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Kaynak ongoru sorununu kuramsal duzeyde tartisir; beklenen devrimlerin gerceklesmemesi tarihsel gozlemi yazarin ozeti"
+  },
+  {
+   "iddia_id": "i044",
+   "cumle": "Değerlerin fiyatlara dönüştürülmesi sorununda Marx'ın kendi çözümü teknik güçlüklerle maluldür; Robert Nozick, kuram çürükse sömürü çözümlemesinin de çökeceğini savunmuş, buna karşılık sömürünün sezgisel çekirdeğinin emek-değer kuramından bağımsız olarak kurtarılabileceğini ileri sürenler olmuştur.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i045",
+   "cumle": "Belirlenimcilik itirazı da buna eklenir: şemanın tarihi tek hatlı bir zorunluluk gibi okuması hem metne sadakat hem siyasal sonuçları bakımından sorgulanmış, yorumcular üstyapının geri etkisine alan açan alternatif okumalar geliştirmiştir.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Alternatif okumalar ve tutarlilik tartismasi kaynakta; ustyapinin geri etkisi formulu yazarin"
+  },
+  {
+   "iddia_id": "i046",
+   "cumle": "Ahlaki eleştirinin Marx'ın kapitalizm eleştirisindeki rolü ise çok tartışılmıştır ve bu konularda yerleşik bir bilimsel uzlaşı yoktur.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i047",
+   "cumle": "Öngörülerinin aşınması ile çözümleyici kavramlarının kalıcılığı arasındaki bu açıklık yüzünden Marx okuması bugün de kapanmış değildir.",
+   "onem": "renk",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Kapanis sentezi; kaynagin genel cercevesinden cikarim"
+  }
+ ],
+ "sayaclar": {
+  "dogrudan": 33,
+  "kismi": 14,
+  "desteksiz": 0,
+  "olculemez": 0
+ }
+}

@@ -1,69 +1,49 @@
 ## aktor-cahokia
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:19.730Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T19:26:47.923Z_
 
-- [ATOMSUZ] k1 → "Cahokia, on birinci yüzyılda büyük bir nehrin kavşağına yakın bir ovada kurulmuş ve on dördüncü yüzyılda terk …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "En büyük höyük, hacim olarak kıtanın kuzeyindeki en büyük toprak yapıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Bu dosyanın asıl konusu bilinmeyenlerdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bugün kullanılan ad, yerleşimi kuranların adı değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Bu, atlasın Kuş dosyasında kaydedilen durumun bir başka biçimidir." — programatik olarak ölçülemedi (ad karşılığı yok): Kuş
-- [ATOMSUZ] k3 → "Atlas adı kullanır ve kaynağını belirtir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Yerleşimin en yoğun döneminde kaç kişinin yaşadığı tartışmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Tahminler, konut kalıntılarının yoğunluğundan ve kazılan alanın toplama oranından çıkarılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas bir sayı vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Yerleşim, sık sık aynı dönemin Avrupa şehirleriyle karşılaştırılır."
-- [ATOMSUZ] k3 → "Karşılaştırmanın bir sorunu vardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Farklı yöntemlerle üretilmiş sayılar aynı seriye konulamaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Höyüklerin yapımı, uzun süreli ve örgütlü bir işgücü gerektirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Otoritenin biçimi gösterilemez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Bu, atlasın kanıt dosyasında tanımlanan dağılımın doğrudan örneğidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kazılan gömülerden biri, çok sayıda birlikte gömülmüş insanla birlikte bulunmuştur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Kanıtın söyleyebileceği sınırlıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas bu ayrımı ayrıca yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Yerleşimde bulunan malzemeler, çok geniş bir alandan gelmektedir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Bu, düzenli bir değişim ağının varlığını gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas üç ihtimali de kaydeder ve seçmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Yerleşim on dördüncü yüzyılda terk edildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Öne sürülen nedenler arasında çevresel bozulma, iklim değişimi, kaynak tükenmesi ve iç çatışma bulunur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas bir sonuca bağlanmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bölge sonraki yüzyıllarda da yerleşim gördü ama aynı ölçekte değil." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Sonradan bölgeye gelenler, höyükleri kendi atalarının eseri olarak görmedi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas bu ayrıntıyı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Höyüklerin, bölgede yaşayan halklardan başka bir topluluk tarafından yapıldığı görüşü uzun süre savunuldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Varsayımın işlevi açıktı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas bu örüntüyü ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Bu dosyanın ikinci künyesi, bölgedeki höyüklerin ilk sistematik ölçümlerini yayımlayan çalışmadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Aynı çalışma, yorum bakımından dönemin varsayımlarını taşır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas metni tanıklık olarak künyeler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Yerleşimde yazı bulunmamıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Kuş dosyasında yazı vardı ama okunamıyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas iki durumu ayrı işaretler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Yerleşimin bir devlet olup olmadığı tartışılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Ölçüt nüfus ve yapı ölçeği alınırsa cevap olumludur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas tartışmayı kaydeder ve bir tanım dayatmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Dosya bir yerleşimin tarihini değil, bir kısıtın en saf hâlini kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bu, ölçek ile bilgi arasında bir ilişki bulunmadığını gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Ölçüm şudur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Yerleşim rastgele büyümemiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir plana kuşaklar boyunca uyulması, o planı uygulatan bir otoritenin varlığını gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Çıkarımın sınırı da aynıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Merkez tek başına değildi; çevresinde bağlı yerleşimler bulunuyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Yapı benzerliği bir hiyerarşiyi düşündürür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "İşaret bir kanıt değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Yerleşimin büyümesi, belirli bir tahılın yaygınlaşmasıyla aynı döneme denk gelir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Zamanlama örtüşmesi bir nedensellik kanıtı değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas iki yönü de kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bu dosyanın üç künyesinden biri giriş kapısı, biri dönem tanıklığı, biri kuramsal çerçevedir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Güncel kazı raporlarının doğrulanabilir çevrimiçi baskıları bu dosya yazıldığında bulunamamıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Bu, dosyanın ayrıntı düzeyini doğrudan sınırlar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bölgedeki öteki höyük merkezleri burada işlenmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Kazı tarihçesi ve yöntem tartışmaları kapsam dışıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Bölgenin sonraki yüzyıllardaki tarihi işlenmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Dosya, yerleşimin devlet olduğunu ya da olmadığını ileri sürmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Terk edilişin nedeni belirlenmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Nüfus için sayı verilmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Yazısız düzenlerin ölçüldüğü öteki dosyalar için ve okunmalıdır; üçü birlikte okunduğunda aynı kısıt üç kıtada…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Kanıt türlerinin hangi soruya cevap verdiği için ve dosyaları uygundur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Nüfus tahminlerinin nasıl okunacağı için dosyası okunabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Aynı kıtadan, merkezî zor aygıtı bulunmayan bir başka siyasi düzen için dosyası okunmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Louis'nin tam karşısında kurulmuş bir kentti; 1050 dolayında köy ölçeğinden kent ölçeğine sıçradı ve 1350'ye d…"
+- [OK]      k1 → "En geniş döneminde yaklaşık on altı kilometrekareye yayılıyor, aralarında Monks Mound'un da bulunduğu yüz yirm…"
+- [OK]      k1 → "Bu ölçek kıtanın kuzeyinde tekti: Cahokia, orta ve güneydoğu bölgelere yayılan Mississippi kültürünün en büyük…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Timothy Pauketat'ın anlatımıyla burası "Mississippi kıyısındaki büyük kent"tir; kuzeyde onunla karşılaştırılab…"
+- [ATOMSUZ] k1 → "Kent yazı bırakmadı; kurucularının kendilerine ve kentlerine ne dedikleri bilinmiyor, bugün taşıdığı ad ise yü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Bu iki bilinmeyen, Cahokia'yı yalnızca kıtanın en büyük yerleşimi değil, höyükleri kimin kurduğu sorusu etrafı…"
+- [OK]      k1 → "Arkeolojik dizilim 1050 dolayında ani bir dönüşüm kaydeder: köyler birleşti, dışarıdan sürekli göç geldi ve me…"
+- [ATOMSUZ] k1 → "Araştırmacılar bu evreye büyük patlama der ve kentin ani büyümesini yerel doğumla değil geniş bir bölgeden gel…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Doruk dönemin nüfusu için yaygın tahmin 15-20 bin arasıdır; ama yöntem ve sayılan alan değiştikçe 6 bin ile 40…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "En yüksek tahminler doğruysa Amerika Birleşik Devletleri'nde bu nüfusu aşan bir kent ancak 1780'lerde, Philade…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Büyümeyi taşıyan tarım yalnızca mısıra dayanmıyordu: mısır bölgeye 900 dolayında girmişti, ama yanında kaz aya…"
+- [OK]      k1 → "Kent aynı zamanda geniş bir değişim ağının merkezindeydi: kuzeydeki Büyük Göller bölgesinden bakır, güneydeki …" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Ağın hediye mi, ticaret mi yoksa haraç düzeni mi olduğu ise nesnelerden ayrıştırılamaz; bir malın uzaktan gelm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Merkezdeki Monks Mound, tabanı yaklaşık beş buçuk hektar tutan, otuz metre yükselen ve sepetlerle taşınmış top…"
+- [ATOMSUZ] k1 → "Tepesinde kentin her yerinden görülebilen büyük bir ahşap yapı duruyordu; tapınak ya da baş yöneticinin konutu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kent rastgele büyümedi; höyüklerin, meydanların ve yolların doğu-batı ekseni üzerinde hizalanması kuşaklar boy…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Höyüğün bugünkü adı bile kentin değil sonrakilerin tarihindendir: 1809 dolayında alanda bir grup Trappist keşi…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Monks Mound'un batısında Woodhenge denen ahşap direk çemberleri bulundu; ilk izler, 1960'ların başında otoyol …"
+- [OK]      k1 → "Sonraki kazılar beş ayrı çemberi doğruladı; çemberlerin gün doğumu gözlemiyle, ekinoks ve gündönümü hizalarıyl…"
+- [OK]      k1 → "Kentin güneyindeki Mound 72'de arkeologlar 270 dolayında bireyin kalıntısını ortaya çıkardı; aralarında, on bi…"
+- [ATOMSUZ] k1 → "İskeletlerin önemli bir bölümünün kurban edildiği düşünülür; elleri ve kafatasları alınmış genç erkekler, iki …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu gömüler keskin bir hiyerarşinin ve örgütlü şiddetin doğrudan kanıtıdır; ama gömülenlerin kim olduğunu, hang…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Mound 72'nin bulunuşu, kent hakkındaki modern sentezlerin de dönüm noktaları arasındadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Louis kesimindeki büyük bir yerleşim bölümü yandı ve 1175 dolayında merkezin çevresine ilk ahşap savunma duvar…"
+- [OK]      k1 → "On üçüncü yüzyılın ortasında nüfus en az yarıya inmişti; 1350 dolayında kent terk edildi."
+- [OK]      k1 → "Boşalma kentle sınırlı kalmadı; araştırmacıların Boş Çeyrek dediği geniş bir bölge aynı dönemde nüfusunu yitir…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Öne sürülen nedenler arasında çevresel bozulma, iklim dalgalanması, kaynak baskısı ve içeriden ya da dışarıdan…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Bugünkü ad on yedinci yüzyıldan gelir: Fransız kaşifler bölgeye vardığında burada Illinois Konfederasyonu'na b…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Cahokia halkı bölgeye kentin terk edilişinden yüzyıllar sonra gelmişti; ad, kuruculardan değil sonraki komşula…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Adı verenlerin sonradan gelmiş olması kentin torunsuz kaldığı anlamına gelmez: güncel arkeoloji ve sözlü gelen…"
+- [OK]      k1 → "Ponca sözlü geleneği ataların Cahokia'da geçirdiği dönemi anlatır ve kenti P’ahé’žíde, yani kızıl tepe adıyla …"
+- [OK]      k1 → "Louis yakasında ayakta kalan son Mississippi dönemi höyüklerinden Sugarloaf Mound'u satın alarak korumaya almı…"
+- [ATOMSUZ] k1 → "Alan yerli topluluklar için kutsal yer olmayı sürdürüyor ve tören ile dans için ziyaret ediliyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu bağın bugün kurulabilmesi bir tarih yazımı onarımıdır; çünkü on dokuzuncu yüzyılın büyük bölümünde höyükler…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Höyükleri ayrıntısıyla anlatan ilk gözlemcilerden Brackenridge, 1811 sonbaharında alanı gezdi; mezar ve höyük …" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k6 → "On dokuzuncu yüzyılın büyük bölümünde ağır basan görüş yine de tersiydi: 1848'de yayımlanan ve vadideki höyükl…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Varsayımın işlevi görmezden gelinemez; yerlilerin böyle yapılar kuramayacağı kabulü, onların topraklarından çı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Efsaneyi on dokuzuncu yüzyılın sonunda Smithsonian'a bağlı Etnoloji Bürosu'nun araştırmaları çürüttü: Cyrus Th…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Geriye kalan son şüphe höyüklerin insan yapımı olup olmadığıydı; kimi jeologlar Monks Mound'un doğal bir kalın…"
+- [OK]      k4 → "Moorehead'in 1921'de başlayıp yıllara yayılan kazıları, dolgunun derinliklerinde çanak çömlek parçaları, çakma…"
+- [ATOMSUZ] k1 → "Cahokia yazı bırakmadı; yöneticilerinin adları, kararların sırası ve düzenin kendini nasıl gerekçelendirdiği b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Höyükler ile gömüler örgütlü bir otoritenin varlığını gösterir ama biçimini göstermez; hangi soruya cevap vere…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Höyükleri kimin kurduğu sorusunun cevabı iki kez değişti: önce hayali bir kayıp ırka verildi, sonra kanıt yerl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Höyükler bugün, onları kuranların mirasçısı sayılan toplulukların da katıldığı bir bakımla ayakta duruyor ve k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 1 OK · 0 ISARET · 0 HATA · 63 ATOMSUZ
+**Özet:** 26 OK · 0 ISARET · 0 HATA · 18 ATOMSUZ

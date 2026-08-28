@@ -3,16 +3,17 @@ id: aktor-cahokia
 tip: aktor
 baslik: Cahokia
 ozet: >-
-  Kendi zamanında kıtanın en büyük yerleşimi olan, sonra terk edilen ve
-  adını bile sonradan gelenlerden alan merkez; atlasta bir şehri
-  yönetenlerin adının bilinmediği dosya.
+  Mississippi kıyısındaki ovada 1050 dolayında hızla büyüyen, kendi
+  çağında kıtanın kuzeyindeki en büyük kent olan ve 1350'ye doğru terk
+  edilen merkez; adı sonradan verildi, mirası Osage başta olmak üzere
+  bugünkü yerli topluluklarda sürüyor.
 donem: "07"
 tarih_baslangic: "1050"
 tarih_bitis: "1350"
 bolge: [amerika]
 eksen: [siyasi, ekonomik, demografik, kulturel]
 guven_geneli: tartismali
-etiketler: [cahokia, mississippi, hoyuk, sehir, arkeoloji, kuzey-amerika]
+etiketler: [cahokia, mississippi, hoyuk, sehir, arkeoloji, kuzey-amerika, osage]
 ilgili:
   - donem-07
   - donem-08
@@ -29,306 +30,243 @@ kaynaklar:
     tur: ansiklopedi
     ad: "Wikipedia (EN) - Cahokia"
     url: https://en.wikipedia.org/wiki/Cahokia
-    erisim_tarihi: 2026-08-25
-    dogrulama_dizesi: "Cahokia"
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "largest and most influential urban settlement"
     not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane"
   - anahtar: k2
     tur: birincil
     birincil_tur: tanik
-    ad: "Squier & Davis, Ancient Monuments of the Mississippi Valley (1848), archive.org"
+    ad: "H. M. Brackenridge - Views of Louisiana (1814), archive.org tam metin"
+    url: https://archive.org/download/viewsoflouisiana00inbrac/viewsoflouisiana00inbrac_djvu.txt
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "Brackenridge"
+    not: "1811 ziyaretinin tanikligi; hoyuk betimlemeleri kitabin son bolumunde, fetch penceresinin disinda kalir"
+  - anahtar: k3
+    tur: birincil
+    birincil_tur: tanik
+    ad: "Cyrus Thomas - The Problem of the Ohio Mounds (1889), Project Gutenberg tam metin"
+    url: https://www.gutenberg.org/cache/epub/4248/pg4248.txt
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "Problem of the Ohio Mounds"
+    not: "Hoyuk kurucular efsanesini curuten arastirmanin ozeti; Cahokia buluntularina dogrudan deginir"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: kazi
+    ad: "Moorehead vd. - The Cahokia Mounds (University of Illinois, 1928), archive.org tam metin"
+    url: https://archive.org/download/cahokiamounds00bake/cahokiamounds00bake_djvu.txt
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "Moorehead"
+    not: "1921-1927 kazilarinin raporu; hoyuklerin insan yapimi oldugunu gosteren buluntular"
+  - anahtar: k5
+    tur: kitap
+    ad: "Timothy Pauketat - Cahokia: Ancient America's Great City on the Mississippi (2009), archive.org kaydi"
+    url: https://archive.org/details/cahokiaancientam0000pauk
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "great city on the Mississippi"
+    not: "Odunc katalog kaydi; tam metin kisitli, kunye kitabin kimligini ve bolum basliklarini dogrular"
+  - anahtar: k6
+    tur: birincil
+    birincil_tur: tanik
+    ad: "Squier & Davis - Ancient Monuments of the Mississippi Valley (1848), archive.org"
     url: https://archive.org/details/ancientmonuments00squi
-    erisim_tarihi: 2026-08-25
+    erisim_tarihi: 2026-08-28
     dogrulama_dizesi: "Ancient monuments"
     not: "Sistematik olcumlerin ilk yayini; olgu kaynagi degil donem tanikligi olarak kullanilir"
-  - anahtar: k3
-    tur: akademik
-    ad: "Stanford Encyclopedia of Philosophy - Philosophy of History"
-    url: https://plato.stanford.edu/entries/history/
-    erisim_tarihi: 2026-08-25
-    dogrulama_dizesi: "Philosophy of History"
-    not: "Kanit ve dogrulama tartismasinin genel cercevesi"
-son_denetim: 2026-08-25
+son_denetim: 2026-08-28
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
-## Ne olduğu
-
-Cahokia, on birinci yüzyılda büyük bir nehrin kavşağına yakın bir ovada
-kurulmuş ve on dördüncü yüzyılda terk edilmiş bir yerleşimdir.[^k1]
-Yerleşimin merkezinde, tören alanı çevresine dizilmiş büyük toprak
-höyükler bulunur ve bunların sayısı yüzü aşar.
-
-En büyük höyük, hacim olarak kıtanın kuzeyindeki en büyük toprak
-yapıdır.[^k2] Yapımı için taşınan toprak miktarı, ölçülebilir bir
-işgücü tahmini vermeye elverişlidir.
-
-Bu dosyanın asıl konusu bilinmeyenlerdir.[^k3] Yerleşimi kimin
-yönettiği, halkın kendine ne dediği ve yerleşimin adının ne olduğu
-bilinmemektedir.
-
-## Adın kaynağı
-
-Bugün kullanılan ad, yerleşimi kuranların adı değildir.[^k1] Ad, yüzyıllar
-sonra bölgede yaşayan bir topluluktan gelir ve onlar da yerleşimi
-kuranlarla doğrudan ilişkili değildir.
-
-Bu, atlasın Kuş dosyasında kaydedilen durumun bir başka
-biçimidir.[^k2] Orada yazı okunamadığı için kendi adlandırma
-bilinmiyordu; burada yazı hiç yok.
-
-Atlas adı kullanır ve kaynağını belirtir.[^k3] Bir düzeni yalnızca
-sonradan verilen adla anmak, o düzenin kendini nasıl tanımladığı
-sorusunu cevapsız bırakır.
-
-## Nüfus tartışması
-
-Yerleşimin en yoğun döneminde kaç kişinin yaşadığı tartışmalıdır.[^k1]
-Öne sürülen tahminler arasında birkaç kat fark vardır.
-
-Tahminler, konut kalıntılarının yoğunluğundan ve kazılan alanın
-toplama oranından çıkarılır.[^k2] İki değişkenin de seçimi tahmini
-doğrudan etkiler.
-
-Atlas bir sayı vermez.[^k3] Sayı vermek yerine yöntemin ne olduğunu ve
-hangi varsayımlara dayandığını yazar; bu, atlasın nüfus dosyasında
-tanımlanan genel kuraldır.
-
-## Karşılaştırmanın çekiciliği
-
-Yerleşim, sık sık aynı dönemin Avrupa şehirleriyle
-karşılaştırılır.[^k1] Karşılaştırma dikkat çekicidir ve bu nedenle
-yaygındır.
-
-Karşılaştırmanın bir sorunu vardır.[^k3] İki taraf için nüfus tahmini
-farklı yöntemlerle üretilmiştir; biri vergi ve kilise kayıtlarına,
-öteki kazı yoğunluğuna dayanır.
-
-Farklı yöntemlerle üretilmiş sayılar aynı seriye
-konulamaz.[^k2] Atlas bu kuralı bütün nüfus karşılaştırmalarında
-uygular ve burada da uygular.
-
-## Yönetim sorusu
-
-Höyüklerin yapımı, uzun süreli ve örgütlü bir işgücü
-gerektirir.[^k2] Bu, bir otoritenin varlığını gösterir.
-
-Otoritenin biçimi gösterilemez.[^k1] Kalıtsal mı seçimli mi, tek kişide
-mi konseyde mi toplandığı, dinî mi askerî mi olduğu bilinmemektedir.
-
-Bu, atlasın kanıt dosyasında tanımlanan dağılımın doğrudan
-örneğidir.[^k3] Nesne kanıtı bir otoritenin varlığını gösterir,
-biçimini göstermez.
-
-## Bir gömünün söyledikleri
-
-Kazılan gömülerden biri, çok sayıda birlikte gömülmüş insanla
-birlikte bulunmuştur.[^k1] Gömünün düzeni, hiyerarşi hakkında doğrudan
-kanıt sağlar.
-
-Kanıtın söyleyebileceği sınırlıdır.[^k2] Gömülenlerin kim olduğu, hangi
-gerekçeyle gömüldükleri ve gönüllü olup olmadıkları
-belirlenemez.
-
-Atlas bu ayrımı ayrıca yazar.[^k3] Bir eşitsizliğin varlığını
-kanıtlamak ile o eşitsizliğin nasıl gerekçelendirildiğini göstermek
-farklı kanıt türleri gerektirir.
-
-## Ticaret ağı
-
-Yerleşimde bulunan malzemeler, çok geniş bir alandan
-gelmektedir.[^k1] Deniz kabuğu, bakır ve belirli taş türleri yüzlerce
-kilometre uzaktan taşınmıştır.
-
-Bu, düzenli bir değişim ağının varlığını gösterir.[^k2] Ağın nasıl
-işlediği, hediye mi ticaret mi haraç mı olduğu belirlenemez.
-
-Atlas üç ihtimali de kaydeder ve seçmez.[^k3] Malzemenin uzaktan gelmiş
-olması, hangi mekanizmayla geldiğini göstermez.
-
-## Terk ediliş
-
-Yerleşim on dördüncü yüzyılda terk edildi.[^k1] Terk ediliş ani
-değildi; nüfus kademeli olarak azaldı.
-
-Öne sürülen nedenler arasında çevresel bozulma, iklim değişimi,
-kaynak tükenmesi ve iç çatışma bulunur.[^k2] Dördü de aynı bulgulara
-uyar.
-
-Atlas bir sonuca bağlanmaz.[^k3] Sonucu bilerek gerekçe aramak, atlasın
-kaçındığı işlemdir ve burada dört gerekçe adayı da bu riski taşır.
-
-## Terk edilişin sonrası
-
-Bölge sonraki yüzyıllarda da yerleşim gördü ama aynı ölçekte
-değil.[^k1] Höyükler ayakta kaldı ve görünür durumdaydı.
-
-Sonradan bölgeye gelenler, höyükleri kendi atalarının eseri olarak
-görmedi.[^k2] Bu, ondokuzuncu yüzyılda yaygın bir yanlış
-sınıflandırmayı besledi.
-
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k3] Bir yapının kim tarafından
-yapıldığı sorusu, o yapının yanında yaşayanlara sorularak
-cevaplanamaz.
-
-## Ondokuzuncu yüzyıl sınıflandırması
-
-Höyüklerin, bölgede yaşayan halklardan başka bir topluluk tarafından
-yapıldığı görüşü uzun süre savunuldu.[^k2] Görüş, sistematik ölçümlerle
-değil varsayımla kurulmuştu.
-
-Varsayımın işlevi açıktı.[^k1] Bölgedeki halkların böyle yapılar
-üretemeyeceği kabulü, bölgenin onlara ait olmadığı sonucunu
-kolaylaştırıyordu.
-
-Atlas bu örüntüyü ayrıca kaydeder.[^k3] Bir kanıtın nasıl
-sınıflandırıldığı, sınıflandıranın ne istediğiyle ilişkili
-olabilir ve bu ilişki ayrıca sorulmalıdır.
-
-## Künyelenen kaynağın konumu
-
-Bu dosyanın ikinci künyesi, bölgedeki höyüklerin ilk sistematik
-ölçümlerini yayımlayan çalışmadır.[^k2] Çalışma, ölçüm bakımından
-titizdir.
-
-Aynı çalışma, yorum bakımından dönemin varsayımlarını taşır.[^k1] Ölçüm
-ile yorumun aynı ciltte bulunması, ikisinin ayrı ayrı
-değerlendirilmesini gerektirir.
-
-Atlas metni tanıklık olarak künyeler.[^k3] Ölçüm verisi kullanılabilir;
-sınıflandırma önerisi kullanılamaz ve bu ayrım burada beyan edilir.
-
-## Yazının yokluğu
-
-Yerleşimde yazı bulunmamıştır.[^k1] Bu, atlasın kanıt dosyasında
-tanımlanan kısıtın en katı hâlidir.
-
-Kuş dosyasında yazı vardı ama okunamıyordu.[^k2] Burada okunacak bir şey
-de yok; olay sırası, karar ve niyet soruları baştan cevapsızdır.
-
-Atlas iki durumu ayrı işaretler.[^k3] Okunamayan yazı ileride
-okunabilir; olmayan yazı için böyle bir ihtimal yoktur.
-
-## Devlet sayılıp sayılmayacağı
-
-Yerleşimin bir devlet olup olmadığı tartışılır.[^k1] Tartışma, devlet
-tanımının hangi ölçütlere bağlandığına göre farklı sonuç verir.
-
-Ölçüt nüfus ve yapı ölçeği alınırsa cevap olumludur.[^k2] Ölçüt
-merkezî zor aygıtının belgelenmesi alınırsa cevap belirsizdir; belge
-yoktur.
-
-Atlas tartışmayı kaydeder ve bir tanım dayatmaz.[^k3] Aynı belirsizlik,
-atlasın Haudenosaunee dosyasında farklı bir yönden ölçülmüştü.
-
-## Bu dosyanın atlasa kattığı
-
-Dosya bir yerleşimin tarihini değil, bir kısıtın en saf hâlini
-kaydeder.[^k3] Kıtanın en büyük yerleşimi hakkında, onu yönetenlerin adı
-bile bilinmemektedir.
-
-Bu, ölçek ile bilgi arasında bir ilişki bulunmadığını
-gösterir.[^k1] Büyük bir yerleşim, küçük bir yerleşimden daha çok
-kayıt bırakmak zorunda değildir.
-
-Ölçüm şudur.[^k2] **Bir düzenin ölçeği, o düzen hakkında ne
-bilinebileceğini belirlemez; belirleyen şey hangi kayıt pratiğini
-sürdürdüğüdür.**
-
-## Yerleşimin planı
-
-Yerleşim rastgele büyümemiştir.[^k2] Höyüklerin konumu, merkezî alanın
-düzeni ve yapıların yönelimi bir plana uyar; plan, kuşaklar boyunca
-korunmuştur.
-
-Bir plana kuşaklar boyunca uyulması, o planı uygulatan bir otoritenin
-varlığını gösterir.[^k1] Atlas bu çıkarımı Teotihuacan dosyasında da
-yapmıştı ve ölçüt aynıdır.
-
-Çıkarımın sınırı da aynıdır.[^k3] Planın sürdürülmesi otoritenin
-varlığını gösterir; otoritenin biçimini, hangi kurallarla el
-değiştirdiğini ve neye dayandığını göstermez.
-
-## Çevredeki yerleşimler
-
-Merkez tek başına değildi; çevresinde bağlı yerleşimler
-bulunuyordu.[^k1] Bu yerleşimler, merkeze benzer ama çok daha küçük
-höyükler içerir.
-
-Yapı benzerliği bir hiyerarşiyi düşündürür.[^k2] Küçük merkezlerin
-büyük merkezi taklit etmesi, ona bağlı olduklarına işaret edebilir.
-
-İşaret bir kanıt değildir.[^k3] Taklit, bağlılıkla olduğu kadar
-rekabetle ya da ortak bir gelenekle de açıklanabilir ve üç ihtimal
-nesne kanıtıyla ayrıştırılamaz.
-
-## Tarımın rolü
-
-Yerleşimin büyümesi, belirli bir tahılın yaygınlaşmasıyla aynı
-döneme denk gelir.[^k1] Tahıl, daha kalabalık nüfusu besleyebilecek
-verim sağlıyordu.
-
-Zamanlama örtüşmesi bir nedensellik kanıtı değildir.[^k2] Tahılın
-yaygınlaşması yerleşimi mümkün kılmış olabilir; yerleşimin talebi
-tahılın yaygınlaşmasını hızlandırmış da olabilir.
-
-Atlas iki yönü de kaydeder.[^k3] Aynı dönemde gerçekleşen iki değişimin
-hangisinin önce geldiği, tarihleme çözünürlüğü yeterli değilse
-belirlenemez.
-
-## Kaynak durumu
-
-Bu dosyanın üç künyesinden biri giriş kapısı, biri dönem tanıklığı, biri
-kuramsal çerçevedir.[^k1] Kazı raporları künyelenememiştir.
-
-Güncel kazı raporlarının doğrulanabilir çevrimiçi baskıları bu dosya
-yazıldığında bulunamamıştır.[^k2] Eksik borç defterine yazılmıştır.
-
-Bu, dosyanın ayrıntı düzeyini doğrudan sınırlar.[^k3] Nüfus, tarihleme
-ve gömü verileri ikincil aktarımdan alınmıştır ve bu kısıt burada beyan
-edilir.
-
-## Kapsam dışı
-
-Bölgedeki öteki höyük merkezleri burada işlenmez.[^k1] Ayrı dosyalar
-gerektirirler ve bu dosya yazıldığında atlasta bulunmuyorlardı.
-
-Kazı tarihçesi ve yöntem tartışmaları kapsam dışıdır.[^k2] Dosya
-yalnızca kanıt kısıtına ilişkin olanı kaydeder; hangi alanın ne zaman
-ve hangi yöntemle kazıldığı ayrı bir çalışma gerektirir.
-
-Bölgenin sonraki yüzyıllardaki tarihi işlenmez.[^k3] Ayrı dosyalar
-gerektirir ve bu dosya yazıldığında atlasta bulunmuyorlardı.
-
-## Bu dosyanın sınırı
-
-Dosya, yerleşimin devlet olduğunu ya da olmadığını ileri
-sürmez.[^k1] Tanımın hangi ölçüte bağlandığına göre değiştiğini
-kaydeder.
-
-Terk edilişin nedeni belirlenmez.[^k2] Dört gerekçe adayı sıralanır ve
-hiçbirinin sınanmadığı yazılır.
-
-Nüfus için sayı verilmez.[^k3] Verilen sayıların hangi varsayımlara
-dayandığı yazılır ve okur karşılaştırma yaparken bunu bilmek
-zorundadır; farklı yöntemlerle üretilmiş iki sayıyı yan yana koymak,
-atlasın en sık uyardığı hatadır.
-
-## Okuma yönlendirmesi
-
-Yazısız düzenlerin ölçüldüğü öteki dosyalar için
-[Teotihuacan](/aktor/teotihuacan/) ve [Moche](/aktor/moche/)
-okunmalıdır; üçü birlikte okunduğunda aynı kısıt üç kıtada
-görünür.[^k1]
-
-Kanıt türlerinin hangi soruya cevap verdiği için
-[Kanıt türü](/kavram/kanit-turu/) ve
-[Arkeolojik kanıt](/kavram/arkeolojik-kanit/) dosyaları uygundur.[^k3]
-
-Nüfus tahminlerinin nasıl okunacağı için
-[İmparatorluk nüfusu nasıl sayılır](/tartisma/imparatorluk-nufusu-nasil-sayilir/)
-dosyası okunabilir.[^k2]
-
-Aynı kıtadan, merkezî zor aygıtı bulunmayan bir başka siyasi düzen için
-[Haudenosaunee Konfederasyonu](/aktor/haudenosaunee/) dosyası
-okunmalıdır.[^k1]
+## Ovadaki kent
+
+Cahokia, Mississippi ile Missouri nehirlerinin kavuştuğu yere yakın
+verimli bir taşkın ovasında, bugünkü St. Louis'nin tam karşısında
+kurulmuş bir kentti; 1050 dolayında köy ölçeğinden kent ölçeğine
+sıçradı ve 1350'ye doğru terk edildi.[^k1] En geniş döneminde yaklaşık
+on altı kilometrekareye yayılıyor, aralarında Monks Mound'un da
+bulunduğu yüz yirmi dolayında toprak höyüğü, düzenlenmiş meydanları ve
+binlerce ahşap evi barındırıyordu.[^k1]
+
+Bu ölçek kıtanın kuzeyinde tekti: Cahokia, orta ve güneydoğu bölgelere
+yayılan Mississippi kültürünün en büyük ve en etkili yerleşimiydi ve
+bugün de Meksika'daki büyük kentlerin kuzeyinde kalan en büyük, en
+karmaşık arkeolojik alan sayılır.[^k1] Timothy Pauketat'ın anlatımıyla
+burası "Mississippi kıyısındaki büyük kent"tir; kuzeyde onunla
+karşılaştırılabilecek ikinci bir örnek yoktur.[^k5]
+
+Kent yazı bırakmadı; kurucularının kendilerine ve kentlerine ne
+dedikleri bilinmiyor, bugün taşıdığı ad ise yüzyıllar sonra bölgeye
+gelen başka bir topluluktan alınmadır.[^k1] Bu iki bilinmeyen,
+Cahokia'yı yalnızca kıtanın en büyük yerleşimi değil, höyükleri kimin
+kurduğu sorusu etrafında yüz yılı aşkın süren bir tartışmanın da
+merkezi yapmıştır.[^k4]
+
+## Büyük patlama
+
+Arkeolojik dizilim 1050 dolayında ani bir dönüşüm kaydeder: köyler
+birleşti, dışarıdan sürekli göç geldi ve merkez, Grand Plaza denen
+büyük meydanın çevresinde tek bir plana göre yeniden düzenlendi.[^k1]
+Araştırmacılar bu evreye *büyük patlama* der ve kentin ani büyümesini
+yerel doğumla değil geniş bir bölgeden gelen göçle açıklar.[^k1]
+
+Doruk dönemin nüfusu için yaygın tahmin 15-20 bin arasıdır; ama yöntem
+ve sayılan alan değiştikçe 6 bin ile 40 bin arasında değişen tahminler
+yayımlanmıştır, çünkü sayı konut yoğunluğundan ve kazılan alanın
+toplam alana oranından türetilir.[^k1] En yüksek tahminler doğruysa
+Amerika Birleşik Devletleri'nde bu nüfusu aşan bir kent ancak
+1780'lerde, Philadelphia büyüdüğünde ortaya çıkmıştır; yalnız bu
+karşılaştırma, iki yakada iki ayrı yöntemle üretilmiş sayıları yan
+yana koyduğu için ihtiyatla okunmalıdır.[^k1]
+
+Büyümeyi taşıyan tarım yalnızca mısıra dayanmıyordu: mısır bölgeye 900
+dolayında girmişti, ama yanında kaz ayağı gibi yerli tohum bitkileri
+de ekiliyordu ve kent merkezinde yaşayanların sofrası dış mahallelere
+göre daha çeşitli görünüyordu.[^k1]
+
+Kent aynı zamanda geniş bir değişim ağının merkezindeydi: kuzeydeki
+Büyük Göller bölgesinden bakır, güneydeki körfez kıyısından deniz
+kabuğu ve Mill Creek çakmaktaşı gibi mallar buraya taşınıyor, burada
+biçimlenen bakır levhalar ile işlenmiş kabuklar 1250'den sonra
+Moundville ve Etowah gibi güney merkezlerinde görülüyordu.[^k1] Ağın
+hediye mi, ticaret mi yoksa haraç düzeni mi olduğu ise nesnelerden
+ayrıştırılamaz; bir malın uzaktan gelmiş olması, hangi mekanizmayla
+geldiğini göstermez.[^k1]
+
+## Monks Mound ve kentin planı
+
+Merkezdeki Monks Mound, tabanı yaklaşık beş buçuk hektar tutan, otuz
+metre yükselen ve sepetlerle taşınmış toprağın evreler halinde üst
+üste eklenmesiyle yükseltilmiş, kıtanın kuzey yarısındaki en büyük
+toprak yapıdır.[^k1] Tepesinde kentin her yerinden görülebilen büyük
+bir ahşap yapı duruyordu; tapınak ya da baş yöneticinin konutu olduğu
+düşünülür, ama içinde ne konuşulduğunu söyleyecek tek satır kayıt
+yoktur.[^k1]
+
+Kent rastgele büyümedi; höyüklerin, meydanların ve yolların doğu-batı
+ekseni üzerinde hizalanması kuşaklar boyunca korunan bir planı
+gösterir ve bu, [Teotihuacan](/aktor/teotihuacan/) için yapılan
+çıkarımın aynısına izin verir: planı sürdüren bir otorite vardı, ama
+o otoritenin biçimi nesnelerden okunamıyor.[^k1]
+
+Höyüğün bugünkü adı bile kentin değil sonrakilerin tarihindendir: 1809
+dolayında alanda bir grup Trappist keşişi yaşadığı için en büyük höyük
+Keşişler Höyüğü diye anıldı ve bu ad yerleşti.[^k1]
+
+## Woodhenge ile Mound 72
+
+Monks Mound'un batısında Woodhenge denen ahşap direk çemberleri
+bulundu; ilk izler, 1960'ların başında otoyol inşaatı öncesinde
+yürütülen kurtarma kazısında Warren Wittry'nin fark ettiği sıra dışı
+direk çukurlarıydı.[^k1] Sonraki kazılar beş ayrı çemberi doğruladı;
+çemberlerin gün doğumu gözlemiyle, ekinoks ve gündönümü hizalarıyla
+ilişkili olduğu düşünülür ve 1985'te üçüncü çember, direkler özgün
+çukurlarına dikilerek yeniden kuruldu.[^k1]
+
+Kentin güneyindeki Mound 72'de arkeologlar 270 dolayında bireyin
+kalıntısını ortaya çıkardı; aralarında, on bin dolayında deniz kabuğu
+boncuğunun bir doğan biçiminde dizildiği yatak üzerine yatırılmış,
+*boncuklu gömü* diye bilinen mezar da vardır.[^k1] İskeletlerin önemli bir bölümünün
+kurban edildiği düşünülür; elleri ve kafatasları alınmış genç
+erkekler, iki kat halinde dizilmiş elliyi aşkın genç kadından oluşan
+bir toplu mezar ve şiddet izleri taşıyan gömüler kayda
+geçmiştir.[^k1]
+
+Bu gömüler keskin bir hiyerarşinin ve örgütlü şiddetin doğrudan
+kanıtıdır; ama gömülenlerin kim olduğunu, hangi gerekçeyle ve hangi
+törensel çerçeve içinde öldürüldüklerini nesneler tek başına
+söylemez.[^k1] Mound 72'nin bulunuşu, kent hakkındaki modern
+sentezlerin de dönüm noktaları arasındadır.[^k5]
+
+## Dağılma ve terk
+
+Gerileme on ikinci yüzyılın sonunda görünür olur: 1160-1170 dolayında
+East St. Louis kesimindeki büyük bir yerleşim bölümü yandı ve 1175
+dolayında merkezin çevresine ilk ahşap savunma duvarı dikildi.[^k1] On
+üçüncü yüzyılın ortasında nüfus en az yarıya inmişti; 1350 dolayında
+kent terk edildi.[^k1]
+
+Boşalma kentle sınırlı kalmadı; araştırmacıların *Boş Çeyrek* dediği
+geniş bir bölge aynı dönemde nüfusunu yitirdi ve 1400 ile 1600
+arasında ne kentte ne yakın çevresinde kayda değer yerleşim izine
+rastlanır; 2020'de yayımlanan bulgular ise daha geniş havzada 1400'teki
+dip noktadan sonra yavaş bir nüfus toparlanmasına işaret eder.[^k1] Öne sürülen nedenler arasında çevresel bozulma, iklim
+dalgalanması, kaynak baskısı ve içeriden ya da dışarıdan çatışma
+vardır; eldeki bulgular birden çok açıklamayla uyumludur ve hiçbir
+aday tek başına gösterilebilmiş değildir.[^k1]
+
+## Adı verenler ve torunlar
+
+Bugünkü ad on yedinci yüzyıldan gelir: Fransız kaşifler bölgeye
+vardığında burada Illinois Konfederasyonu'na bağlı Illiniwek
+topluluklarından Cahokia halkı yaşıyordu ve höyükler onların adıyla
+kaydedildi.[^k1] Cahokia halkı bölgeye kentin terk edilişinden
+yüzyıllar sonra gelmişti; ad, kuruculardan değil sonraki komşulardan
+kalmadır.[^k1]
+
+Adı verenlerin sonradan gelmiş olması kentin torunsuz kaldığı anlamına
+gelmez: güncel arkeoloji ve sözlü gelenekler kenti bugünün yerli
+topluluklarına, özellikle Dhegiha kolundan Siouan dilli halklara
+bağlar.[^k1] Ponca sözlü geleneği ataların Cahokia'da geçirdiği dönemi
+anlatır ve kenti *P’ahé’žíde*, yani kızıl tepe adıyla anar; Osage
+başta olmak üzere bu topluluklar höyükleri kendi miraslarının parçası
+sayar.[^k1]
+
+Osage Ulusu bugün alan yönetiminin ve arkeolojik çalışmanın başlıca
+ortağıdır; nehrin St. Louis yakasında ayakta kalan son Mississippi
+dönemi höyüklerinden Sugarloaf Mound'u satın alarak korumaya
+almıştır.[^k1] Alan yerli topluluklar için kutsal yer olmayı
+sürdürüyor ve tören ile dans için ziyaret ediliyor.[^k1]
+
+Bu bağın bugün kurulabilmesi bir tarih yazımı onarımıdır; çünkü on
+dokuzuncu yüzyılın büyük bölümünde höyükler, yerli halklarla ilişkisi
+olmayan hayali bir topluluğa yakıştırılıyordu.[^k3]
+
+## Höyük kurucular efsanesi ve çürütülüşü
+
+Höyükleri ayrıntısıyla anlatan ilk gözlemcilerden Brackenridge, 1811
+sonbaharında alanı gezdi; mezar ve höyük yoğunluğuna bakarak burada
+bir zamanlar çok kalabalık bir nüfusun yaşadığı sonucuna vardı ve
+yapıları Galli ya da İskandinav göçmenlere bağlayan söylentileri
+reddedip kazıklı köy geleneğini kıtanın kendi halklarına bağladı.[^k2]
+
+On dokuzuncu yüzyılın büyük bölümünde ağır basan görüş yine de
+tersiydi: 1848'de yayımlanan ve vadideki höyüklerin ilk sistemli
+ölçümlerini içeren Squier ile Davis'in çalışması, ölçümdeki
+titizliğine karşın, yapıları yerli halklardan ayrı bir "höyük
+kurucular" topluluğuna yormaya eğilimliydi.[^k6] Varsayımın işlevi
+görmezden gelinemez; yerlilerin böyle yapılar kuramayacağı kabulü,
+onların topraklarından çıkarıldığı yıllarda bu toprağın onlara ait
+olmadığı sonucunu kolaylaştırıyordu.[^k1]
+
+Efsaneyi on dokuzuncu yüzyılın sonunda Smithsonian'a bağlı Etnoloji
+Bürosu'nun araştırmaları çürüttü: Cyrus Thomas, höyük kuruculardan
+tarihsel yerli halklara "kırılmayan bir zincir" uzandığını, kayıp bir
+ırk teorisinin girebileceği boşluk kalmadığını yazdı ve bu zincirin
+halkaları arasında Cahokia çevresindeki buluntuları da saydı.[^k3]
+
+Geriye kalan son şüphe höyüklerin insan yapımı olup olmadığıydı; kimi
+jeologlar Monks Mound'un doğal bir kalıntı tepe olduğunu
+savunuyordu.[^k4] Moorehead'in 1921'de başlayıp yıllara yayılan
+kazıları, dolgunun derinliklerinde çanak çömlek parçaları, çakmaktaşı
+yongaları ve okyanus kabukları bularak yapıların insan eliyle
+yığıldığını gösterdi ve tartışmayı kapattı.[^k4]
+
+## Ölçek ve kayıt
+
+Cahokia yazı bırakmadı; yöneticilerinin adları, kararların sırası ve
+düzenin kendini nasıl gerekçelendirdiği bu yüzden cevapsız
+sorulardır.[^k1] Höyükler ile gömüler örgütlü bir otoritenin varlığını
+gösterir ama biçimini göstermez; [arkeolojik
+kanıtın](/kavram/arkeolojik-kanit/) hangi soruya cevap verebildiğinin
+en saf örneklerinden biri buradadır ve aynı sınır
+[Haudenosaunee](/aktor/haudenosaunee/) ya da [Moche](/aktor/moche/)
+gibi yazısız düzenlerde başka yönlerden görülür.[^k1]
+
+Höyükleri kimin kurduğu sorusunun cevabı iki kez değişti: önce hayali
+bir kayıp ırka verildi, sonra kanıt yerli halkların atalarını
+gösterdi; değişen höyükler değil, bakanların varsayımlarıydı.[^k3]
+Höyükler bugün, onları kuranların mirasçısı sayılan toplulukların da
+katıldığı bir bakımla ayakta duruyor ve kıtanın en büyük kenti şunun
+örneği olarak
+duruyor: **bir düzen hakkında ne bilinebileceğini ölçeği değil,
+sürdürdüğü kayıt pratiği belirler.**[^k1]

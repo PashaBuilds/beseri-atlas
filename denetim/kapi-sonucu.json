@@ -1,37 +1,156 @@
 {
-  "mod": "--post",
-  "zaman": "2026-08-28T19:05:23.095Z",
-  "gecti": false,
+  "mod": "--lint",
+  "zaman": "2026-08-28T19:43:50.071Z",
+  "gecti": true,
   "makale_sayisi": 505,
   "kapilar": [
     {
-      "kapi": "KAPI 6 — onay filtresi (dist/)",
+      "kapi": "KAPI 1 — Zod sema dogrulamasi",
       "gecti": true,
       "hata": 0,
       "uyari": 0,
       "hatalar": []
     },
     {
-      "kapi": "KAPI 12 — cikti denetimi (dist/)",
+      "kapi": "KAPI 2+3 — dipnot butunlugu / kaynak anahtari",
       "gecti": true,
       "hata": 0,
       "uyari": 0,
       "hatalar": []
     },
     {
-      "kapi": "KAPI 14 — icerik kaybi (kaynak -> dist)",
-      "gecti": false,
-      "hata": 1,
+      "kapi": "KAPI 4 — terim kilidi",
+      "gecti": true,
+      "hata": 0,
       "uyari": 0,
-      "hatalar": [
-        {
-          "dosya": "icerik/olay/olay-paris-iklim-anlasmasi.md",
-          "mesaj": "paragraf ciktida yok (%13 ortusme): \"Paris İklim Anlaşması, iklim değişikliğiyle mücadeleyi ilk k…\""
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 5 — link butunlugu",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 7 — telif siniri",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 9 — hakemlik dedektoru",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 11 — derinlik (§3 uzunluk hedefi)",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": [],
+      "olcum": {
+        "olculen": 421,
+        "hedefTutan": 167,
+        "borclu": 254,
+        "eksikKelime": 208274,
+        "tipOzet": {
+          "donem": {
+            "n": 16,
+            "tutan": 16,
+            "eksik": 0
+          },
+          "olay": {
+            "n": 99,
+            "tutan": 16,
+            "eksik": 71458
+          },
+          "aktor": {
+            "n": 122,
+            "tutan": 61,
+            "eksik": 53925
+          },
+          "dusunur": {
+            "n": 54,
+            "tutan": 19,
+            "eksik": 30038
+          },
+          "kavram": {
+            "n": 90,
+            "tutan": 49,
+            "eksik": 12937
+          },
+          "tartisma": {
+            "n": 40,
+            "tutan": 6,
+            "eksik": 39916
+          }
         }
-      ],
+      }
+    },
+    {
+      "kapi": "KAPI 13 — kaynak bilesimi",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": [],
       "olcum": {
         "olculen": 505,
-        "kayipli": 1
+        "toplamKunye": 1700,
+        "kuralIhlali": 206,
+        "birincilsiz": 244,
+        "toplamGiris": 683,
+        "birincilKunye": 310,
+        "turlenmemis": 0
+      }
+    },
+    {
+      "kapi": "KAPI 15 — ayni konunun iki dosyasi",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 16 — savunan adlari kutugu",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 17 — ozet sure iddiasi",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": []
+    },
+    {
+      "kapi": "KAPI 18 — dil borcu (sablon/meta-dil kaliplari)",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": [],
+      "olcum": {
+        "atlas_oz": 2712,
+        "bu_dosya": 1480,
+        "ayrica_kaydeder": 1034,
+        "sablon_kapanis": 546,
+        "borclu": 479
+      }
+    },
+    {
+      "kapi": "KAPI 19 — sayisal dogrulama (nufus kalip cumleleri)",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": [],
+      "olcum": {
+        "olculen": 293,
+        "dogru": 293
       }
     }
   ]

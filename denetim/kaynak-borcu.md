@@ -12,18 +12,18 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Ölçüm | Değer |
 |---|---|
 | Ölçülen makale | 505 |
-| Toplam künye | 1681 |
-| Giriş kapısı kuralını aşan makale | 209 |
-| Birincil kaynağı olmayan makale | 246 |
-| Giriş kapısı künyesi payı | 41% |
+| Toplam künye | 1700 |
+| Giriş kapısı kuralını aşan makale | 206 |
+| Birincil kaynağı olmayan makale | 244 |
+| Giriş kapısı künyesi payı | 40% |
 
 ## Tipe göre borçlu makale
 
 | Tip | Borçlu |
 |---|---|
 | olay | 76 |
-| aktor | 74 |
-| kavram | 62 |
+| aktor | 73 |
+| kavram | 60 |
 | tartisma | 33 |
 | kaynak | 28 |
 | dusunur | 22 |
@@ -38,7 +38,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `aktor-bizans-imparatorlugu` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-dunya-bankasi` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `aktor-dunya-ticaret-orgutu` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `aktor-imf` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `dusunur-tacitus` | 4 | 3 | 1 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `olay-cin-devrimi-1949` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-iskender-seferleri` | 4 | 3 | 0 | 3 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
@@ -120,9 +119,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `kavram-goksel-yetki` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kavram-guc-dengesi` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kavram-haracguzarlik` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `kavram-hegemonya` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `kavram-hukuk-devleti` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
-| `kavram-ideal-tip` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kavram-imparatorluk` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `kavram-kapitalizm` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kavram-kaynak-elestirisi` | 3 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |

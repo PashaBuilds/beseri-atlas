@@ -1,0 +1,583 @@
+{
+  "id": "aktor-imf",
+  "govde_hash": "4728af0bd35b",
+  "commit": "c9a3451",
+  "zaman": "2026-08-28",
+  "hakem": "kor-hakem-2026-08-28",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Uluslararası Para Fonu, ödemeler dengesi krizi yaşayan ya da yaşama ihtimali olan üyelerine son kredi mercii olarak borç veren uluslararası finans kurumudur; merkezi Washington'dadır ve üyeliği erişim tarihinde (Ağustos 2026) 191 ülkedir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uye sayisi degisebilir; govde erisim tarihiyle damgalar."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Temmuz 1944'te Bretton Woods Konferansı'nda tasarlandı, ilk 29 ülkenin onayıyla 27 Aralık 1945'te resmen var oldu, finansal işlemlerine 1 Mart 1947'de başladı ve ilk krediyi Mayıs 1947'de Fransa aldı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3 anlasma metnini 22 Temmuz 1944 tarihiyle tasir; onay ve islem tarihleri k1'den gelir."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Üyeler kota paylarıyla ortak havuza katkı yapar; kota hem çekilebilecek krediyi hem oy gücünü belirler ve Fon kredinin karşılığında yapısal uyum adıyla bilinen politika reformlarını şart koşar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "White borç alanların geri ödemesini gözeten bankaya benzer bir kurum, Keynes üyelerin serbestçe çekiş yapacağı kooperatif bir fon öngörüyordu; nihai metne ağırlıkla White'ın planı girdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5 kitabin kendisidir ama archive.org kaydi odunc kisitli; fetch edilen sayfa baslik ve alt basligi (Keynes, White, 'the making of a new world order') dogrular."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Morgenthau merkezleri New York'ta istiyordu; halefi Vinson, 'uluslararası finans' çağrışımı gerekçesiyle iki kurumu da tek taraflı kararla Washington'a yerleştirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Anlaşma metni 22 Temmuz 1944'te imzaya açıldı; birinci madde amaçları sayar: parasal işbirliğini kalıcı kurum üzerinden yürütmek, ticaretin dengeli büyümesi, kur istikrarı ve rekabetçi devalüasyondan kaçınma.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Metin her üyeye bir kota atar ve her üyenin parasının değerini altın ya da ABD doları cinsinden tanımlanan sabit bir par değere bağlar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde III (kotalar) ve Madde IV (par degerler) metinde okunur."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "1930'ların buhranında ülkelerin değer düşürme yarışı yakın geçmişteydi; sabit kur ve ortak havuz bu yarışın tekrarına karşı kurulmuş bir sigortaydı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2'nin amac maddesi rekabetci devaluasyondan kacinmayi acikca sayar; buhran baglami k1'den gelir."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Tasarımın uluslararası kapitalizmin yeniden inşasını ulusal iktisadi egemenlikle dengelemesi, iktisat yazınında 'yuvalanmış liberalizm' adıyla anılır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Temel oylar toplam oyların yüzde 5,502'sini dağıtır ve kotanın her 100.000 SDR'lik dilimi bir ek oy getirir; temel oyların küçük ülkeler lehine eğimini kotaya bağlı oylar fazlasıyla siler.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Erişim tarihinde (Ağustos 2026) ABD kotanın yüzde 17,42'sini ve oyların yüzde 16,49'unu tutar; oy payı değişikliği yüzde 85 çoğunluk gerektirdiği ve yüzde 16 üstünde oyu olan tek üye ABD olduğu için eşik tek ülkeye fiilî veto verir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Fiili veto cikarimi k1'in kendi anlatimindadir: 2010 reformlarinin, yuzde 85 oy gucu gerektigi ve ABD yuzde 16'nin ustunde oy tuttugu icin ABD Kongresi onayina takildigini acikca yazar ('since 85% of the Fund's voting power was required ... and the Americans held more than 16%'). Kor hakem fetch ile dogruladi."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "G20'nin 2010'da kararlaştırdığı, yükselen ekonomilere pay aktaran reform paketi ABD Kongresi onaylamadığı için bekledi ve ancak 2015 sonunda yürürlüğe girebildi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Stiglitz, gelişmekte olan ülkelerin 1944'e göre dünya ekonomisinin çok daha büyük bölümünü temsil ettiği hâlde karar mekanizmasındaki seslerinin aynı oranda büyümediğini savunur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 Stiglitz'in bu yondeki sozunu dogrudan aktarir; k4 yazarin ayni konumdaki kitabidir."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "SDR 1969'da yaratıldı; ilk tanımında 0,888671 gram altına, o günkü değeriyle aşağı yukarı bir dolara eşitti ve 1973'te dünya para birimlerinden oluşan bir sepet olarak yeniden tanımlandı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Sabit kur düzeni ABD'nin 1971'de doların altına çevrilebilirliğini askıya almasıyla çöktü; değişiklik 1976 Jamaika Mutabakatı'yla metne işlendi ve kurum ödemeler dengesi ile kriz yönetimine kaydı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "1970'lerde petrodolar mevduatıyla dolan ticari bankaların devlet kredileri 1980'lerin resesyonunda krize dönünce Fon geri döndü; 1980'lerin ortasında odak, resmî yeniden müzakere olmadan ve Reagan yönetiminin basıncıyla yapısal uyum programlarına genişledi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6 tam bu on yilin kurum tarihidir; archive.org kaydi odunc kisitli, fetch edilen sayfa kunyeyi dogrular. Anlatinin ayrintilari k1'den gelir."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Kurumun kendi yayımladığı dönem tarihi bu on yılı 'sessiz devrim' diye adlandırır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaydin basligi (Silent Revolution: The International Monetary Fund 1979-89, Boughton) adlandirmayi dogrudan tasir; 'kurumun kendi yayimladigi' bilgisi eserin IMF yayini olmasindan gelir, fetch edilen kayit sayfasi yayinevini ayrica dogrulamaz."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Koşulluluk 1950'lerde yerleşti: Fon kaynak karşılığında hükümetten makroekonomik dengesizlikleri politika reformuyla düzeltmesini ister; şartlar yerine getirilmezse para verilmez.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Yapısal uyumun tipik başlıkları kemer sıkma, üretimi ihracata ve kaynak çıkarımına yöneltme, devalüasyon, ticaretin serbestleştirilmesi, fiyat kontrolleri ile sübvansiyonların kaldırılması ve özelleştirmedir; reçete Washington Mutabakatı adıyla anılır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Savunma: kredi isteyen ülkelerde uluslararası değerde teminat çoğu zaman yoktur; şartlar geri ödemeyi güvenceler, sorunların küresel ekonomiye zarar veren yollarla çözülmesini önler ve ahlaki tehlikeyi teminat yerine koşullarla dizginler.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Eleştiri: kemer sıkma şartlarının toparlanmayı geciktirdiği ve en kırılgan kesimleri vurduğu, koşulların iktisadi egemenliği daralttığı ve yönetişimin oy gücünü elinde tutan Batılı ülkelerin denetiminde olduğu savunulur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Stiglitz, Globalization and Its Discontents'te Fon'un kriz reçetelerinin uygulandıkları ülkelerde krizi çoğu kez derinleştirdiğini savunur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4 kitabin kendisidir ama archive.org kaydi odunc kisitli; fetch edilen sayfa kunyeyi dogrular, tezin icerigi kitaptan bilinir. k1 ayni yondeki elestiri hattini (kemer sikma ve deregulasyonun krizleri agirlastirdigi savi) tasir."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "1997 Asya krizinde Güney Kore kamuoyu, ekonomiyi kökten yeniden yapılandırmayı ve borç bitene dek iktisadi kararları Fon'a danışmayı gerektiren şartları yaygın biçimde borç tuzağı olarak algıladı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 bu algiyi Jeremy Garlick'in calismasina atifla aktarir."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Oxfam 2020-21'de, salgın sırasında düşük gelirli ülkelere dayatılan kemer sıkmanın sağlık harcamalarını kısarak salgınla mücadeleyi zayıflattığını ileri sürdü.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "İki taraf aynı olguya bakar; ayrıştıkları nokta şartların krizin ilacı mı yoksa büyütücüsü mü olduğudur.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki pozisyonun karsilastirilmasindan cikarilan cerceve yorumu; tek kaynakla olculmez."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Üyelik ülkelere açıktır ve her ülke başvurabilir; erişim tarihinde (Ağustos 2026) üye sayısı 191'dir: 190 BM üyesi ile BM üyesi olmayan tek üye olarak Kosova.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onarimin merkezi: eski govde, k1'in kendi icinde celisen bir cumlesini (Aruba, Curacao, Hong Kong ve Makao'yu 'uye ulkeler' arasinda sayan) aktariyordu. Ayni maddenin infobox'u (191 = 190 BM + Kosova), uyelik bolumu ve veri standartlari bolumu (Hong Kong ile Makao'yu acikca 'uye olmayan' sayar) bu cumleyle celisir; govde dogru kumeyi kurar ve yanlis cumleyi almaz."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Son katılan Liechtenstein, Ekim 2024'te 191. üye oldu.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "BM üyesi olup Fon'un dışında kalan üç devlet vardır: 1964'te ayrılan Küba, Monako ve Kuzey Kore.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Hong Kong ve Makao gibi egemen olmayan alanlar üye değildir; Fon'un veri yayımlama standartlarına üyelik olmadan katkı sunarlar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1'in veri yayimlama bolumu Hong Kong (SDDS) ve Makao'yu (GDDS) 'uye olmayan katkicilar' olarak acikca sayar; ayni makalenin celisen cumlesi icin i26 incelemesine bakilir."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Polonya 1950'de çekilip 1986'da döndü, Çekoslovakya 1954'te çıkarılıp 1990'da yeniden alındı ve Tayvan'ın koltuğu 1980'de Çin Halk Cumhuriyeti'ne geçti.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Fon'a üye olan her ülke Uluslararası İmar ve Kalkınma Bankası'na da üyedir, tersi de geçerlidir; iki kurumun kurucu anlaşmaları aynı konferanstan çıkmış ve antlaşma serisinde yan yana basılmıştır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2'nin UNTS cildi iki anlasmayi ayni girdide icerir."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Dünya Bankası'nın borç istatistikleri, IMF kredisi kullanımını ülkelerin dış borç stokunun ayrı bir kalemi olarak izler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gosterge adi (Use of IMF credit, DOD, current US$) iddiayi tasir; seri degerleri istemci tarafinda cizildigi icin kunye sayi tasimaz ve govde sayi vermez."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "2000'lerin ortasında kredi hacmi dünya hasılasına oranla 1970'lerden beri en düşük düzeydeydi; 2008'de kota paylarını dinamik yükselen ekonomilere kaydıran bir reform dizisi kabul edildi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Govdedeki '2008 krizi kurumu yeniden merkeze tasidi' cumlesi, k1'in aktardigi dusuk hacim - kriz - buyuk kurtarma paketleri sirasinin okunmasidir. Hakem duzeltmesi: k1'in 2008 cumlesi 'yuzde 6 kayma' der ama ayni makale yuzde 6'dan fazla kaymayi 2010 reformlarina da baglar ve IMF'nin kendi hesabinda 2008 reformunun kaymasi daha kucuktur (~4,9 puan); sayi karisikliga acik oldugundan govde yuzde rakamini 2008'e baglamaz, reformun yonunu verir."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Fon, Mayıs 2010'da toplamı 110 milyar avroyu bulan ilk Yunanistan paketine 3:11 oranıyla katıldı; paket borç silme içermiyor, açığı 2014'e dek yüzde 3'ün altına indirecek kemer sıkma içeriyordu ve bileşim kurumun icra direktörleri arasında itiraz gördü.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Ocak 2012 itibarıyla en büyük borçlular Yunanistan, Portekiz, İrlanda, Romanya ve Ukrayna'ydı; Mart 2020'de kurum salgına karşı 1 trilyon dolarlık kaynağı seferber etmeye hazır olduğunu duyurdu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Kurumun bugünkü misyon beyanı parasal işbirliğiyle birlikte finansal istikrarı, ticareti, istihdamı, sürdürülebilir büyümeyi ve yoksulluğun azaltılmasını sayar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Kurucu maddenin dar hedefiyle bugünkü geniş beyan arasındaki açı kurumun tarihinin kısa özetidir; oy dağılımı hâlâ 1944 pazarlığının izini taşır.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kurucu metin ile guncel beyanin karsilastirilmasindan cikarilan yorum; tek kaynakla olculmez."
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Seksen yıllık tarihin hemen her kavgası kota ve koşulluluk mekanizmalarının çevresinde dönmüştür.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1'in yonetisim ve elestiri bolumlerinin genellemesi; cerceve yorumu olarak olculmez."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 33,
+    "kismi": 2,
+    "desteksiz": 0,
+    "olculemez": 3
+  }
+}

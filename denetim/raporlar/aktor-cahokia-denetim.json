@@ -1,391 +1,271 @@
 {
   "id": "aktor-cahokia",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:19.730Z",
-  "govde_hash": "e693fe5f5afc",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T19:26:47.923Z",
+  "govde_hash": "7ce3a82fbc36",
+  "commit": "c9a3451",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Cahokia, on birinci yüzyılda büyük bir nehrin kavşağına yakın bir ovada kurulmuş ve on dördüncü yüzyılda terk edilmiş bir yerleşimdir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "En büyük höyük, hacim olarak kıtanın kuzeyindeki en büyük toprak yapıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bu dosyanın asıl konusu bilinmeyenlerdir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bugün kullanılan ad, yerleşimi kuranların adı değildir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bu, atlasın Kuş dosyasında kaydedilen durumun bir başka biçimidir.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kuş"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Atlas adı kullanır ve kaynağını belirtir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Yerleşimin en yoğun döneminde kaç kişinin yaşadığı tartışmalıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Tahminler, konut kalıntılarının yoğunluğundan ve kazılan alanın toplama oranından çıkarılır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Atlas bir sayı vermez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Yerleşim, sık sık aynı dönemin Avrupa şehirleriyle karşılaştırılır.",
+      "iddia": "Louis'nin tam karşısında kurulmuş bir kentti; 1050 dolayında köy ölçeğinden kent ölçeğine sıçradı ve 1350'ye doğru terk edildi.",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k3",
-      "iddia": "Karşılaştırmanın bir sorunu vardır.",
+      "anahtar": "k1",
+      "iddia": "En geniş döneminde yaklaşık on altı kilometrekareye yayılıyor, aralarında Monks Mound'un da bulunduğu yüz yirmi dolayında toprak höyüğü, düzenlenmiş meydanları ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu ölçek kıtanın kuzeyinde tekti: Cahokia, orta ve güneydoğu bölgelere yayılan Mississippi kültürünün en büyük ve en etkili yerleşimiydi ve bugün de Meksika'dak",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Timothy Pauketat'ın anlatımıyla burası \"Mississippi kıyısındaki büyük kent\"tir; kuzeyde onunla karşılaştırılabilecek ikinci bir örnek yoktur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kent yazı bırakmadı; kurucularının kendilerine ve kentlerine ne dedikleri bilinmiyor, bugün taşıdığı ad ise yüzyıllar sonra bölgeye gelen başka bir topluluktan ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Farklı yöntemlerle üretilmiş sayılar aynı seriye konulamaz.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k4",
+      "iddia": "Bu iki bilinmeyen, Cahokia'yı yalnızca kıtanın en büyük yerleşimi değil, höyükleri kimin kurduğu sorusu etrafında yüz yılı aşkın süren bir tartışmanın da merkez",
+      "durum": "OK",
+      "not": ""
     },
     {
-      "anahtar": "k2",
-      "iddia": "Höyüklerin yapımı, uzun süreli ve örgütlü bir işgücü gerektirir.",
+      "anahtar": "k1",
+      "iddia": "Arkeolojik dizilim 1050 dolayında ani bir dönüşüm kaydeder: köyler birleşti, dışarıdan sürekli göç geldi ve merkez, Grand Plaza denen büyük meydanın çevresinde ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Araştırmacılar bu evreye büyük patlama der ve kentin ani büyümesini yerel doğumla değil geniş bir bölgeden gelen göçle açıklar.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Otoritenin biçimi gösterilemez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bu, atlasın kanıt dosyasında tanımlanan dağılımın doğrudan örneğidir.",
+      "iddia": "Doruk dönemin nüfusu için yaygın tahmin 15-20 bin arasıdır; ama yöntem ve sayılan alan değiştikçe 6 bin ile 40 bin arasında değişen tahminler yayımlanmıştır, çü",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kazılan gömülerden biri, çok sayıda birlikte gömülmüş insanla birlikte bulunmuştur.",
+      "iddia": "En yüksek tahminler doğruysa Amerika Birleşik Devletleri'nde bu nüfusu aşan bir kent ancak 1780'lerde, Philadelphia büyüdüğünde ortaya çıkmıştır; yalnız bu karş",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Büyümeyi taşıyan tarım yalnızca mısıra dayanmıyordu: mısır bölgeye 900 dolayında girmişti, ama yanında kaz ayağı gibi yerli tohum bitkileri de ekiliyordu ve ken",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kent aynı zamanda geniş bir değişim ağının merkezindeydi: kuzeydeki Büyük Göller bölgesinden bakır, güneydeki körfez kıyısından deniz kabuğu ve Mill Creek çakma",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ağın hediye mi, ticaret mi yoksa haraç düzeni mi olduğu ise nesnelerden ayrıştırılamaz; bir malın uzaktan gelmiş olması, hangi mekanizmayla geldiğini göstermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Merkezdeki Monks Mound, tabanı yaklaşık beş buçuk hektar tutan, otuz metre yükselen ve sepetlerle taşınmış toprağın evreler halinde üst üste eklenmesiyle yüksel",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tepesinde kentin her yerinden görülebilen büyük bir ahşap yapı duruyordu; tapınak ya da baş yöneticinin konutu olduğu düşünülür, ama içinde ne konuşulduğunu söy",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kent rastgele büyümedi; höyüklerin, meydanların ve yolların doğu-batı ekseni üzerinde hizalanması kuşaklar boyunca korunan bir planı gösterir ve bu, için yapıla",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Höyüğün bugünkü adı bile kentin değil sonrakilerin tarihindendir: 1809 dolayında alanda bir grup Trappist keşişi yaşadığı için en büyük höyük Keşişler Höyüğü di",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Monks Mound'un batısında Woodhenge denen ahşap direk çemberleri bulundu; ilk izler, 1960'ların başında otoyol inşaatı öncesinde yürütülen kurtarma kazısında War",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sonraki kazılar beş ayrı çemberi doğruladı; çemberlerin gün doğumu gözlemiyle, ekinoks ve gündönümü hizalarıyla ilişkili olduğu düşünülür ve 1985'te üçüncü çemb",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kentin güneyindeki Mound 72'de arkeologlar 270 dolayında bireyin kalıntısını ortaya çıkardı; aralarında, on bin dolayında deniz kabuğu boncuğunun bir doğan biçi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İskeletlerin önemli bir bölümünün kurban edildiği düşünülür; elleri ve kafatasları alınmış genç erkekler, iki kat halinde dizilmiş elliyi aşkın genç kadından ol",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu gömüler keskin bir hiyerarşinin ve örgütlü şiddetin doğrudan kanıtıdır; ama gömülenlerin kim olduğunu, hangi gerekçeyle ve hangi törensel çerçeve içinde öldü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Mound 72'nin bulunuşu, kent hakkındaki modern sentezlerin de dönüm noktaları arasındadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Louis kesimindeki büyük bir yerleşim bölümü yandı ve 1175 dolayında merkezin çevresine ilk ahşap savunma duvarı dikildi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "On üçüncü yüzyılın ortasında nüfus en az yarıya inmişti; 1350 dolayında kent terk edildi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Boşalma kentle sınırlı kalmadı; araştırmacıların Boş Çeyrek dediği geniş bir bölge aynı dönemde nüfusunu yitirdi ve 1400 ile 1600 arasında ne kentte ne yakın çe",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Öne sürülen nedenler arasında çevresel bozulma, iklim dalgalanması, kaynak baskısı ve içeriden ya da dışarıdan çatışma vardır; eldeki bulgular birden çok açıkla",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bugünkü ad on yedinci yüzyıldan gelir: Fransız kaşifler bölgeye vardığında burada Illinois Konfederasyonu'na bağlı Illiniwek topluluklarından Cahokia halkı yaşı",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cahokia halkı bölgeye kentin terk edilişinden yüzyıllar sonra gelmişti; ad, kuruculardan değil sonraki komşulardan kalmadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Adı verenlerin sonradan gelmiş olması kentin torunsuz kaldığı anlamına gelmez: güncel arkeoloji ve sözlü gelenekler kenti bugünün yerli topluluklarına, özellikl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ponca sözlü geleneği ataların Cahokia'da geçirdiği dönemi anlatır ve kenti P’ahé’žíde, yani kızıl tepe adıyla anar; Osage başta olmak üzere bu topluluklar höyük",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Louis yakasında ayakta kalan son Mississippi dönemi höyüklerinden Sugarloaf Mound'u satın alarak korumaya almıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alan yerli topluluklar için kutsal yer olmayı sürdürüyor ve tören ile dans için ziyaret ediliyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu bağın bugün kurulabilmesi bir tarih yazımı onarımıdır; çünkü on dokuzuncu yüzyılın büyük bölümünde höyükler, yerli halklarla ilişkisi olmayan hayali bir topl",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Kanıtın söyleyebileceği sınırlıdır.",
+      "iddia": "Höyükleri ayrıntısıyla anlatan ilk gözlemcilerden Brackenridge, 1811 sonbaharında alanı gezdi; mezar ve höyük yoğunluğuna bakarak burada bir zamanlar çok kalaba",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "On dokuzuncu yüzyılın büyük bölümünde ağır basan görüş yine de tersiydi: 1848'de yayımlanan ve vadideki höyüklerin ilk sistemli ölçümlerini içeren Squier ile Da",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Varsayımın işlevi görmezden gelinemez; yerlilerin böyle yapılar kuramayacağı kabulü, onların topraklarından çıkarıldığı yıllarda bu toprağın onlara ait olmadığı",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Atlas bu ayrımı ayrıca yazar.",
+      "iddia": "Efsaneyi on dokuzuncu yüzyılın sonunda Smithsonian'a bağlı Etnoloji Bürosu'nun araştırmaları çürüttü: Cyrus Thomas, höyük kuruculardan tarihsel yerli halklara \"",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Geriye kalan son şüphe höyüklerin insan yapımı olup olmadığıydı; kimi jeologlar Monks Mound'un doğal bir kalıntı tepe olduğunu savunuyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Moorehead'in 1921'de başlayıp yıllara yayılan kazıları, dolgunun derinliklerinde çanak çömlek parçaları, çakmaktaşı yongaları ve okyanus kabukları bularak yapıl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cahokia yazı bırakmadı; yöneticilerinin adları, kararların sırası ve düzenin kendini nasıl gerekçelendirdiği bu yüzden cevapsız sorulardır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Yerleşimde bulunan malzemeler, çok geniş bir alandan gelmektedir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bu, düzenli bir değişim ağının varlığını gösterir.",
+      "iddia": "Höyükler ile gömüler örgütlü bir otoritenin varlığını gösterir ama biçimini göstermez; hangi soruya cevap verebildiğinin en saf örneklerinden biri buradadır ve ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Atlas üç ihtimali de kaydeder ve seçmez.",
+      "iddia": "Höyükleri kimin kurduğu sorusunun cevabı iki kez değişti: önce hayali bir kayıp ırka verildi, sonra kanıt yerli halkların atalarını gösterdi; değişen höyükler d",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Yerleşim on dördüncü yüzyılda terk edildi.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Öne sürülen nedenler arasında çevresel bozulma, iklim değişimi, kaynak tükenmesi ve iç çatışma bulunur.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Atlas bir sonuca bağlanmaz.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bölge sonraki yüzyıllarda da yerleşim gördü ama aynı ölçekte değil.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Sonradan bölgeye gelenler, höyükleri kendi atalarının eseri olarak görmedi.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Atlas bu ayrıntıyı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Höyüklerin, bölgede yaşayan halklardan başka bir topluluk tarafından yapıldığı görüşü uzun süre savunuldu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Varsayımın işlevi açıktı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Atlas bu örüntüyü ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bu dosyanın ikinci künyesi, bölgedeki höyüklerin ilk sistematik ölçümlerini yayımlayan çalışmadır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Aynı çalışma, yorum bakımından dönemin varsayımlarını taşır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Atlas metni tanıklık olarak künyeler.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Yerleşimde yazı bulunmamıştır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Kuş dosyasında yazı vardı ama okunamıyordu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Atlas iki durumu ayrı işaretler.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Yerleşimin bir devlet olup olmadığı tartışılır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Ölçüt nüfus ve yapı ölçeği alınırsa cevap olumludur.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Atlas tartışmayı kaydeder ve bir tanım dayatmaz.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Dosya bir yerleşimin tarihini değil, bir kısıtın en saf hâlini kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bu, ölçek ile bilgi arasında bir ilişki bulunmadığını gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Ölçüm şudur.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Yerleşim rastgele büyümemiştir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir plana kuşaklar boyunca uyulması, o planı uygulatan bir otoritenin varlığını gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Çıkarımın sınırı da aynıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Merkez tek başına değildi; çevresinde bağlı yerleşimler bulunuyordu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Yapı benzerliği bir hiyerarşiyi düşündürür.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "İşaret bir kanıt değildir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Yerleşimin büyümesi, belirli bir tahılın yaygınlaşmasıyla aynı döneme denk gelir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Zamanlama örtüşmesi bir nedensellik kanıtı değildir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Atlas iki yönü de kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bu dosyanın üç künyesinden biri giriş kapısı, biri dönem tanıklığı, biri kuramsal çerçevedir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Güncel kazı raporlarının doğrulanabilir çevrimiçi baskıları bu dosya yazıldığında bulunamamıştır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bu, dosyanın ayrıntı düzeyini doğrudan sınırlar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bölgedeki öteki höyük merkezleri burada işlenmez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Kazı tarihçesi ve yöntem tartışmaları kapsam dışıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bölgenin sonraki yüzyıllardaki tarihi işlenmez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Dosya, yerleşimin devlet olduğunu ya da olmadığını ileri sürmez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Terk edilişin nedeni belirlenmez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Nüfus için sayı verilmez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Yazısız düzenlerin ölçüldüğü öteki dosyalar için ve okunmalıdır; üçü birlikte okunduğunda aynı kısıt üç kıtada görünür.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Kanıt türlerinin hangi soruya cevap verdiği için ve dosyaları uygundur.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Nüfus tahminlerinin nasıl okunacağı için dosyası okunabilir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Aynı kıtadan, merkezî zor aygıtı bulunmayan bir başka siyasi düzen için dosyası okunmalıdır.",
+      "iddia": "Höyükler bugün, onları kuranların mirasçısı sayılan toplulukların da katıldığı bir bakımla ayakta duruyor ve kıtanın en büyük kenti şunun örneği olarak duruyor:",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

@@ -1,11 +1,12 @@
 ## aktor-olmek
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:21.961Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T19:43:18.965Z_
 
 - [OK]      k1 → "Olmek, Orta Amerika'nın körfez kıyısındaki alçak ve sulak ovada yerleşmiş bir düzendir."
 - [ATOMSUZ] k2 → "Düzen, bölgenin bilinen en erken büyük ölçekli yerleşimlerini kurdu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Dosyanın ayırt edici yanı, düzenin sonraki uygarlıklarla ilişkisinin tartışmalı olmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Bir görüş, düzeni sonraki Orta Amerika uygarlıklarının kaynağı sayar."
 - [ATOMSUZ] k1 → "Karşı görüş, aynı unsurların bölgenin birden çok yerinde eşzamanlı geliştiğini savunur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Olmek düzeninin sonraki Orta Amerika uygarlıklarının kaynağı mı yoksa onlarla eşzamanlı gelişen bir bileşeni m…"
 - [ATOMSUZ] k2 → "Tartışma, kanıtın türünden dolayı kapanmıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Kazı yoğunluğu bölgeler arasında eşit değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Atlas bu yöntemsel sorunu ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -62,4 +63,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:21.961Z_
 - [ATOMSUZ] k4 → "Kanıt türlerinin değerlendirilmesi için , bugünün kavramlarının geçmişe yüklenmesi riski için dosyaları uygund…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Aynı kanıt durumundaki bir başka kıta düzeni için dosyası okunabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 3 OK · 3 ISARET · 0 HATA · 54 ATOMSUZ
+**Özet:** 4 OK · 3 ISARET · 0 HATA · 54 ATOMSUZ

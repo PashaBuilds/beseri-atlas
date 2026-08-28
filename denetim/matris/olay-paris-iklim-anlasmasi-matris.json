@@ -1,0 +1,649 @@
+{
+  "id": "olay-paris-iklim-anlasmasi",
+  "govde_hash": "2df16f9ef246",
+  "commit": "c9a3451",
+  "zaman": "2026-08-28",
+  "hakem": "kor-hakem-2026-08-28",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "12 Aralık 2015'te, Paris yakınlarındaki Le Bourget'de toplanan müzakere konferansının (COP21) kapanışında, çerçeve sözleşmeye katılan 195 üye devlet ile Avrupa Birliği metni oydaşmayla kabul etti.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "On altı giriş paragrafı ve 29 maddeden oluşan kısa bir belgedir; ağırlığı uzunluğundan değil, iki şeyi aynı metinde birleştirmesinden gelir: herkes için ortak bir sıcaklık hedefi ve o hedefe nasıl gidileceğini her devletin kendi beyanına bırakan bir mimari.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "En büyük ikinci emisyon kaynağının anlaşmadan iki kez çekilmesi, katılım tablosunun ne kadar hızlı değişebildiğini de gösterdi.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Olgusal ceyrek (iki cekilme, ikinci buyuk kaynak) kaynakta dogrudan; tablonun hizla degisebildigi cikarimi yazarin"
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "1992'de New York'ta kabul edilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin altında yer alır ve tarafları o sözleşmenin üyeleridir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Çerçeve sözleşme tarafların düzenli olarak toplanmasını öngörür; Paris metnini üreten konferans, bu toplantıların yirmi birincisiydi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Kyoto Protokolü 1997'de kabul edildi ama 2008–2012 arasında yalnızca sınırlı bir ülke kümesinin emisyonlarını düzenliyordu; 2012'deki Doha Değişikliği ile 2020'ye kadar uzatıldı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "2009'daki müzakereler Kyoto'nun yerini alacak bir antlaşma üretmeyi amaçlıyordu ama çöktü; ortaya çıkan Kopenhag Mutabakatı hukuken bağlayıcı değildi ve evrensel kabul görmedi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Yine de o başarısızlık boşa gitmedi: herkesin kendi katkısını kendisinin belirlediği aşağıdan yukarıya yaklaşımın çerçevesini, Paris'ten önce Kopenhag döşedi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynagin kendi yorumu aktariliyor: Kopenhag Mutabakati asagidan yukariya yaklasimin cercevesini kurdu"
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Yeniden ivme 2011'de geldi; o yılki konferansta kurulan Durban Platformu, iklim değişikliğini sınırlayacak hukuki bir aracın müzakeresi için görevlendirildi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Metin 22 Nisan 2016'da imzaya açıldı ve daha ilk gün 175 taraf imzaladı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "İmza öncesinde kritik eşik, en büyük iki emisyon kaynağının tutumuydu: küresel emisyonların yaklaşık yüzde 40'ını temsil eden Amerika Birleşik Devletleri ile Çin, 1 Nisan 2016'da imzalayacaklarını birlikte açıkladı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "İmza onay değildir: onaya giden ilk adımdır ve tarafı antlaşmanın amacına aykırı davranmamakla yükümlü kılar; imzalamadan katılmak da mümkündür.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Yürürlük için iki koşul konmuştu: en az 55 tarafın onaylaması ve bu tarafların küresel sera gazı emisyonlarının yüzde 55'ini temsil etmesi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "İki koşul da aynı yıl içinde sağlandı ve anlaşma 4 Kasım 2016'da yürürlüğe girdi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"Ayni yil icinde\" ifadesi imza (Nisan 2016) ve yururluk (Kasim 2016) tarihlerinden turetildi"
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Madde 2, küresel ortalama sıcaklık artışını sanayi öncesi düzeylerin 2°C üzerinin oldukça altında tutmayı ve artışı 1,5°C ile sınırlamak için çaba göstermeyi amaç olarak koyar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Aynı madde bu hedefi, sürdürülebilir kalkınma ve yoksulluğun ortadan kaldırılması çabaları bağlamına yerleştirir; sıcaklığın yanına iki bacak daha ekler: uyum kabiliyetini artırmak ve finans akışlarını düşük emisyonlu, iklime dirençli kalkınmayla uyumlu kılmak.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor-hakem turunda genisletildi: uyum ve finans bacaklari (Madde 2/1-b ve 1-c) k1 sayfasinda birebir (Increasing the ability to adapt... / Making finance flows consistent...). Kapsam boslugu kismen kapatildi."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Eşiğin düzeyi keyfî değildir: sıcaklık artışı ne kadar düşük tutulursa iklim değişikliğinin beklenen etkileri o kadar küçük kalır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Bu eşikler tek bir yılın sıcaklığıyla değil, yirmi yıllık dönemlerin ortalamasıyla tanımlanır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Ayrım artık soyut değildir: 2024 kayıtlardaki en sıcak yıl oldu ve küresel ortalama sıcaklık artışı 1,5°C'yi aştı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Madde 4, tarafların küresel emisyonları olabildiğince erken bir tepe noktasına ulaştırmayı ve yüzyılın ikinci yarısında insan kaynaklı salımlar ile yutakların emdiği miktar arasında denge kurmayı amaçladığını yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Aynı madde her tarafı, art arda ulusal katkı beyanları hazırlamak, iletmek ve sürdürmekle yükümlü kılar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Beyanlar beş yılda bir yenilenir ve her beyanın bir öncekinden ileri gitmesi beklenir; buna ilerleme ilkesi denir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Beyanlar çerçeve sözleşmenin sekretaryasınca kayıt altına alınır; uyumu sağlayan mekanizma ise mahkeme değil görünürlüktür ve geride kalan tarafın teşhirine dayanır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Bağlayıcılık usuldedir: beyan verme, bilgi sunma ve raporlama yükümlülükleri hukuken bağlayıcıdır ama beyanların içindeki hedefler değildir; bir devleti hedefini tutturmaya zorlayacak bir yaptırım mekanizması da yoktur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Kyoto'nun yalnızca bir ülke kümesini bağlayan modelinden farklı olarak, gelişmiş ile gelişmekte olan ülke ayrımı burada bulanıklaşır: azaltım planını herkes sunar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Beyanların toplamda yeterli olup olmadığı ise beş yılda bir yapılan küresel durum değerlendirmesiyle ölçülür; ilki 2023'te tamamlandı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Erişim tarihinde (Ağustos 2026) kaynağın Ocak 2026 kaydı şudur: çerçeve sözleşmenin 194 üyesi anlaşmanın tarafıdır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Degisebilir sayi; govdede erisim tarihi (Agustos 2026) ve kaynagin kayit tarihi (Ocak 2026) ile damgalandi"
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Aynı kayda göre taraflar, küresel sera gazı emisyonlarının yüzde 98'inden fazlasını temsil eder.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak cumleyi birebir tasiyor (The EU and 194 states, totalling over 98% of greenhouse gas emissions, have ratified or acceded) ama ayni sayfanin girisinde ABD cikisi (27 Ocak 2026) kayitli; %98 toplami buyuk olasilikla ABD cikisindan onceki durumu yansitan bayat bir kaynak-ici tutarsizlik. Metin bu yuzden kayda aktarimla cercevelendi, guven orta."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Onaylamayan üç üyeden en büyüğü, küresel toplamın yaklaşık yüzde 2'sini üreten İran'dır; Libya ve Yemen de anlaşmayı onaylamamıştır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Son katılım 2023'te Eritre'den geldi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Çekilme usulü anlaşmanın kendi metninde tanımlıdır: bir taraf, anlaşma kendisi için yürürlüğe girdikten en erken üç yıl sonra çekilme bildirimi verebilir ve çekilme, bildirimden bir yıl sonra hüküm doğurur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Trump yönetimi niyetini 2017'de açıkladı, resmî bildirimi ancak 4 Kasım 2019'da verebildi ve Amerika Birleşik Devletleri 4 Kasım 2020'de anlaşmadan çıktı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Dönüş daha hızlı oldu: Joe Biden görevdeki ilk gününde, 20 Ocak 2021'de yeniden katılım kararnamesini imzaladı ve ülke otuz günlük sürenin ardından yeniden taraf oldu.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "İkinci çekilme de aynı kapıdan geçti: 20 Ocak 2025'te imzalanan yeni bir kararnamenin ardından çekilme 27 Ocak 2026'da yürürlüğe girdi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Çin'den sonra en büyük ikinci emisyon kaynağı olan bir devletin on yıl içinde iki kez çıkıp bir kez dönmesi, anlaşmanın mimarisindeki gerilimi tek başına özetler: kapı herkese açıktır ama iki yöne birden açılır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Olgusal taban (Cin'den sonra ikinci buyuk kaynak; iki cikis bir donus) kaynakta dogrudan; \"kapi iki yone acilir\" degerlendirmesi yazarin"
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Çin, açık arayla dünyanın en büyük emisyon kaynağıdır ve küresel emisyonların dörtte birinden fazlasını tek başına üretir; kıta ölçeğinde Asya, küresel toplamın yaklaşık yarısını oluşturur.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "1900'de emisyonların yüzde 90'ından fazlası Avrupa ile Amerika Birleşik Devletleri'nde üretiliyordu; bugün bu iki bölgenin payı üçte birin altındadır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Kişi başına bakıldığında en yüksek salımlar, nüfusu görece küçük büyük petrol üreticilerindedir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "İklim adaleti tartışmasının merkezinde, iklim değişikliğiyle mücadelenin maliyetlerinin nasıl dağıtılacağı sorusu durur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Uzun süre 2°C'nin altında kalmak yeterli hedef sayılmış, daha düşük eşikler için yürütülen kampanyalar sonunda Paris metnindeki 1,5°C çabasına yansımıştır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Tartışmanın en çetin düğümü geçmiş emisyonlardır: bugün kalkınmakta olan ülkeler kalkınırken yaptıkları emisyonlar için cezalandırılmamalıysa, bugün zengin olan ülkelerin kendi kalkınma dönemlerindeki emisyonları için de aynı şeyin söylenip söylenemeyeceği sorulur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Uzun dönemli seride dünya nüfusu 2015'te yaklaşık 7,47 milyardır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV 2015 satiri 7.470.491.876; iki ondalikla 7,47 milyar olarak yuvarlandi"
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Anlaşmanın imzalanmasından sonra küresel emisyonlar düşmedi; artmaya devam etti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "1,5°C'nin altında kalmak için emisyonların 2030'a kadar kabaca yarıya inmesi gerektiği hesaplanır ve bu hesap, ülkelerin kayıtlı taahhütlerini de hesaba katar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Neredeyse bütün devletler, ortak bir sıcaklık hedefinin altına imza atmış ve bu imzayı düzenli beyan, raporlama ve değerlendirme usulüne bağlamıştır; aynı kayıt, en büyük aktörlerden birinin bu çerçeveden iki kez çıkabildiğini de gösterir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katilim ve usul olgulari kaynakta dogrudan; kapanis degerlendirmesi yazarin sentezi"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 42,
+    "kismi": 3,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

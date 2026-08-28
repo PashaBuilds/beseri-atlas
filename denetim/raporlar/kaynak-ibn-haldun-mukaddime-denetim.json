@@ -1,9 +1,9 @@
 {
   "id": "kaynak-ibn-haldun-mukaddime",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:30.648Z",
-  "govde_hash": "dd364cfc86b9",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T19:07:54.456Z",
+  "govde_hash": "26bc9b326316",
+  "commit": "c9a3451",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -66,16 +66,16 @@
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir ansiklopedi maddesidir.",
+      "anahtar": "k4",
+      "iddia": "Künye, eserin kamu malı Arapça tam metnine bağlanır.",
       "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Arapça"
     },
     {
-      "anahtar": "k4",
-      "iddia": "Bu dosya eserin kamu malı tam metnine bağlanır: Mukaddime.",
+      "anahtar": "k1",
+      "iddia": "Eser hakkındaki çerçeve ise bir ansiklopedi maddesinden gelir.",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Mukaddime"
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }
   ]
 }

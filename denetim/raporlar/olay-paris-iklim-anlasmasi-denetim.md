@@ -1,14 +1,51 @@
 ## olay-paris-iklim-anlasmasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:17.701Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T19:43:18.941Z_
 
-- [OK]      k1 → "Anlaşmanın katılım tablosu neredeyse evrenseldir: Ocak 2026 itibarıyla Birleşmiş Milletler İklim Değişikliği Ç…" — 3 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k1 → "Aynı kayıt, katılmayan üç üye devletten yalnızca birinin büyük bir emisyon kaynağı olduğunu belirtir; en büyük…" — 1 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bu iki cümlenin yan yana durması, atlas için önemli bir kayıttır: taraf sayısı yüksek bir anlaşma, en büyük ak…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Anlaşma, bir çerçeve sözleşmenin altında yer alır ve tarafları o sözleşmenin üyeleridir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Bu yapının bağlı olduğu küresel örgütün üyeliği ise 193 üye devlet ve 2 gözlemci devlettir."
-- [ATOMSUZ] k1 → "İki üyelik sayısının birbirinden farklı olması, uluslararası anlaşmaların taraf tanımının kurumdan kuruma deği…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "İki üyelik sayısının birbirinden farklı olması, uluslararası anlaşmaların taraf tanımının kurumdan kuruma deği…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 2008'de yaklaşık 6,84 milyardır."
-- [ATOMSUZ] k1 → "Anlaşmanın hedefleri, ulusal katkı beyanlarının içeriği, denetim mekanizması ve uygulama tartışmaları burada a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "12 Aralık 2015'te, Paris yakınlarındaki Le Bourget'de toplanan müzakere konferansının (COP21) kapanışında, çer…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k3 → "On altı giriş paragrafı ve 29 maddeden oluşan kısa bir belgedir; ağırlığı uzunluğundan değil, iki şeyi aynı me…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "En büyük ikinci emisyon kaynağının anlaşmadan iki kez çekilmesi, katılım tablosunun ne kadar hızlı değişebildi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "1992'de New York'ta kabul edilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin altında yer alır…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "1992'de New York'ta kabul edilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin altında yer alır…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Çerçeve sözleşme tarafların düzenli olarak toplanmasını öngörür; Paris metnini üreten konferans, bu toplantıla…"
+- [OK]      k3 → "Kyoto Protokolü 1997'de kabul edildi ama 2008–2012 arasında yalnızca sınırlı bir ülke kümesinin emisyonlarını …" — 7 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "2009'daki müzakereler Kyoto'nun yerini alacak bir antlaşma üretmeyi amaçlıyordu ama çöktü; ortaya çıkan Kopenh…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Yine de o başarısızlık boşa gitmedi: herkesin kendi katkısını kendisinin belirlediği aşağıdan yukarıya yaklaşı…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Yeniden ivme 2011'de geldi; o yılki konferansta kurulan Durban Platformu, iklim değişikliğini sınırlayacak huk…"
+- [OK]      k3 → "Metin 22 Nisan 2016'da imzaya açıldı ve daha ilk gün 175 taraf imzaladı." — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "İmza öncesinde kritik eşik, en büyük iki emisyon kaynağının tutumuydu: küresel emisyonların yaklaşık yüzde 40'…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k3 → "İmza onay değildir: onaya giden ilk adımdır ve tarafı antlaşmanın amacına aykırı davranmamakla yükümlü kılar; …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Yürürlük için iki koşul konmuştu: en az 55 tarafın onaylaması ve bu tarafların küresel sera gazı emisyonlarını…"
+- [OK]      k3 → "İki koşul da aynı yıl içinde sağlandı ve anlaşma 4 Kasım 2016'da yürürlüğe girdi." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Madde 2, küresel ortalama sıcaklık artışını sanayi öncesi düzeylerin 2°C üzerinin oldukça altında tutmayı ve a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Aynı madde bu hedefi, sürdürülebilir kalkınma ve yoksulluğun ortadan kaldırılması çabaları bağlamına yerleştir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Eşiğin düzeyi keyfî değildir: sıcaklık artışı ne kadar düşük tutulursa iklim değişikliğinin beklenen etkileri …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu eşikler tek bir yılın sıcaklığıyla değil, yirmi yıllık dönemlerin ortalamasıyla tanımlanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Ayrım artık soyut değildir: 2024 kayıtlardaki en sıcak yıl oldu ve küresel ortalama sıcaklık artışı 1,5°C'yi a…"
+- [ATOMSUZ] k2 → "Madde 4, tarafların küresel emisyonları olabildiğince erken bir tepe noktasına ulaştırmayı ve yüzyılın ikinci …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Aynı madde her tarafı, art arda ulusal katkı beyanları hazırlamak, iletmek ve sürdürmekle yükümlü kılar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Beyanlar beş yılda bir yenilenir ve her beyanın bir öncekinden ileri gitmesi beklenir; buna ilerleme ilkesi de…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Beyanlar çerçeve sözleşmenin sekretaryasınca kayıt altına alınır; uyumu sağlayan mekanizma ise mahkeme değil g…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bağlayıcılık usuldedir: beyan verme, bilgi sunma ve raporlama yükümlülükleri hukuken bağlayıcıdır ama beyanlar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Kyoto'nun yalnızca bir ülke kümesini bağlayan modelinden farklı olarak, gelişmiş ile gelişmekte olan ülke ayrı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Beyanların toplamda yeterli olup olmadığı ise beş yılda bir yapılan küresel durum değerlendirmesiyle ölçülür; …"
+- [OK]      k3 → "Erişim tarihinde (Ağustos 2026) kaynağın Ocak 2026 kaydı şudur: çerçeve sözleşmenin 194 üyesi anlaşmanın taraf…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Aynı kayda göre taraflar, küresel sera gazı emisyonlarının yüzde 98'inden fazlasını temsil eder."
+- [OK]      k3 → "Onaylamayan üç üyeden en büyüğü, küresel toplamın yaklaşık yüzde 2'sini üreten İran'dır; Libya ve Yemen de anl…"
+- [OK]      k3 → "Son katılım 2023'te Eritre'den geldi."
+- [ATOMSUZ] k3 → "Çekilme usulü anlaşmanın kendi metninde tanımlıdır: bir taraf, anlaşma kendisi için yürürlüğe girdikten en erk…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Trump yönetimi niyetini 2017'de açıkladı, resmî bildirimi ancak 4 Kasım 2019'da verebildi ve Amerika Birleşik …" — 4 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k3 → "Dönüş daha hızlı oldu: Joe Biden görevdeki ilk gününde, 20 Ocak 2021'de yeniden katılım kararnamesini imzaladı…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "İkinci çekilme de aynı kapıdan geçti: 20 Ocak 2025'te imzalanan yeni bir kararnamenin ardından çekilme 27 Ocak…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k3 → "Çin'den sonra en büyük ikinci emisyon kaynağı olan bir devletin on yıl içinde iki kez çıkıp bir kez dönmesi, a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Çin, açık arayla dünyanın en büyük emisyon kaynağıdır ve küresel emisyonların dörtte birinden fazlasını tek ba…"
+- [OK]      k4 → "1900'de emisyonların yüzde 90'ından fazlası Avrupa ile Amerika Birleşik Devletleri'nde üretiliyordu; bugün bu …" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k4 → "Kişi başına bakıldığında en yüksek salımlar, nüfusu görece küçük büyük petrol üreticilerindedir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "İklim adaleti tartışmasının merkezinde, iklim değişikliğiyle mücadelenin maliyetlerinin nasıl dağıtılacağı sor…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Uzun süre 2°C'nin altında kalmak yeterli hedef sayılmış, daha düşük eşikler için yürütülen kampanyalar sonunda…"
+- [ATOMSUZ] k6 → "Tartışmanın en çetin düğümü geçmiş emisyonlardır: bugün kalkınmakta olan ülkeler kalkınırken yaptıkları emisyo…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Uzun dönemli seride dünya nüfusu 2015'te yaklaşık 7,47 milyardır."
+- [ATOMSUZ] k3 → "Anlaşmanın imzalanmasından sonra küresel emisyonlar düşmedi; artmaya devam etti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "1,5°C'nin altında kalmak için emisyonların 2030'a kadar kabaca yarıya inmesi gerektiği hesaplanır ve bu hesap,…"
+- [ATOMSUZ] k3 → "Neredeyse bütün devletler, ortak bir sıcaklık hedefinin altına imza atmış ve bu imzayı düzenli beyan, raporlam…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 4 OK · 0 ISARET · 0 HATA · 5 ATOMSUZ
+**Özet:** 26 OK · 0 ISARET · 0 HATA · 20 ATOMSUZ

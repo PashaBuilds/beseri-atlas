@@ -1,9 +1,9 @@
 {
   "id": "aktor-olmek",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:21.961Z",
-  "govde_hash": "6296d562c49f",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T19:43:18.965Z",
+  "govde_hash": "e0ac7245b281",
+  "commit": "c9a3451",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -34,6 +34,12 @@
       "iddia": "Karşı görüş, aynı unsurların bölgenin birden çok yerinde eşzamanlı geliştiğini savunur.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Olmek düzeninin sonraki Orta Amerika uygarlıklarının kaynağı mı yoksa onlarla eşzamanlı gelişen bir bileşeni mi olduğu açık bir tartışmadır; tarihlendirme kanıt",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",

@@ -1,61 +1,283 @@
 {
   "id": "olay-paris-iklim-anlasmasi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:17.701Z",
-  "govde_hash": "06734cb6874f",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T19:43:18.941Z",
+  "govde_hash": "2df16f9ef246",
+  "commit": "c9a3451",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Anlaşmanın katılım tablosu neredeyse evrenseldir: Ocak 2026 itibarıyla Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 194 üyesi anlaşmanın tarafıd",
+      "anahtar": "k3",
+      "iddia": "12 Aralık 2015'te, Paris yakınlarındaki Le Bourget'de toplanan müzakere konferansının (COP21) kapanışında, çerçeve sözleşmeye katılan 195 üye devlet ile Avrupa ",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Aynı kayıt, katılmayan üç üye devletten yalnızca birinin büyük bir emisyon kaynağı olduğunu belirtir; en büyük ikinci emisyon kaynağı olan Amerika Birleşik Devl",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bu iki cümlenin yan yana durması, atlas için önemli bir kayıttır: taraf sayısı yüksek bir anlaşma, en büyük aktörlerden birini kapsamayabilir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Anlaşma, bir çerçeve sözleşmenin altında yer alır ve tarafları o sözleşmenin üyeleridir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bu yapının bağlı olduğu küresel örgütün üyeliği ise 193 üye devlet ve 2 gözlemci devlettir.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "İki üyelik sayısının birbirinden farklı olması, uluslararası anlaşmaların taraf tanımının kurumdan kuruma değiştiğini gösterir; kurum dosyasında ele alınıyor.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "İki üyelik sayısının birbirinden farklı olması, uluslararası anlaşmaların taraf tanımının kurumdan kuruma değiştiğini gösterir; kurum dosyasında ele alınıyor.",
+      "anahtar": "k3",
+      "iddia": "On altı giriş paragrafı ve 29 maddeden oluşan kısa bir belgedir; ağırlığı uzunluğundan değil, iki şeyi aynı metinde birleştirmesinden gelir: herkes için ortak b",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 2008'de yaklaşık 6,84 milyardır.",
+      "iddia": "En büyük ikinci emisyon kaynağının anlaşmadan iki kez çekilmesi, katılım tablosunun ne kadar hızlı değişebildiğini de gösterdi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1992'de New York'ta kabul edilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin altında yer alır ve tarafları o sözleşmenin üyeleridir.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "1992'de New York'ta kabul edilen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin altında yer alır ve tarafları o sözleşmenin üyeleridir.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çerçeve sözleşme tarafların düzenli olarak toplanmasını öngörür; Paris metnini üreten konferans, bu toplantıların yirmi birincisiydi.",
       "durum": "OK",
       "not": ""
     },
     {
+      "anahtar": "k3",
+      "iddia": "Kyoto Protokolü 1997'de kabul edildi ama 2008–2012 arasında yalnızca sınırlı bir ülke kümesinin emisyonlarını düzenliyordu; 2012'deki Doha Değişikliği ile 2020'",
+      "durum": "OK",
+      "not": "7 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "2009'daki müzakereler Kyoto'nun yerini alacak bir antlaşma üretmeyi amaçlıyordu ama çöktü; ortaya çıkan Kopenhag Mutabakatı hukuken bağlayıcı değildi ve evrense",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yine de o başarısızlık boşa gitmedi: herkesin kendi katkısını kendisinin belirlediği aşağıdan yukarıya yaklaşımın çerçevesini, Paris'ten önce Kopenhag döşedi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yeniden ivme 2011'de geldi; o yılki konferansta kurulan Durban Platformu, iklim değişikliğini sınırlayacak hukuki bir aracın müzakeresi için görevlendirildi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metin 22 Nisan 2016'da imzaya açıldı ve daha ilk gün 175 taraf imzaladı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İmza öncesinde kritik eşik, en büyük iki emisyon kaynağının tutumuydu: küresel emisyonların yaklaşık yüzde 40'ını temsil eden Amerika Birleşik Devletleri ile Çi",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İmza onay değildir: onaya giden ilk adımdır ve tarafı antlaşmanın amacına aykırı davranmamakla yükümlü kılar; imzalamadan katılmak da mümkündür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yürürlük için iki koşul konmuştu: en az 55 tarafın onaylaması ve bu tarafların küresel sera gazı emisyonlarının yüzde 55'ini temsil etmesi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki koşul da aynı yıl içinde sağlandı ve anlaşma 4 Kasım 2016'da yürürlüğe girdi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
       "anahtar": "k1",
-      "iddia": "Anlaşmanın hedefleri, ulusal katkı beyanlarının içeriği, denetim mekanizması ve uygulama tartışmaları burada ayrı başlıklar altında ele alınmamıştır; kaynak bun",
+      "iddia": "Madde 2, küresel ortalama sıcaklık artışını sanayi öncesi düzeylerin 2°C üzerinin oldukça altında tutmayı ve artışı 1,5°C ile sınırlamak için çaba göstermeyi am",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı madde bu hedefi, sürdürülebilir kalkınma ve yoksulluğun ortadan kaldırılması çabaları bağlamına yerleştirir; sıcaklığın yanına iki bacak daha ekler: uyum k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Eşiğin düzeyi keyfî değildir: sıcaklık artışı ne kadar düşük tutulursa iklim değişikliğinin beklenen etkileri o kadar küçük kalır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu eşikler tek bir yılın sıcaklığıyla değil, yirmi yıllık dönemlerin ortalamasıyla tanımlanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ayrım artık soyut değildir: 2024 kayıtlardaki en sıcak yıl oldu ve küresel ortalama sıcaklık artışı 1,5°C'yi aştı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Madde 4, tarafların küresel emisyonları olabildiğince erken bir tepe noktasına ulaştırmayı ve yüzyılın ikinci yarısında insan kaynaklı salımlar ile yutakların e",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı madde her tarafı, art arda ulusal katkı beyanları hazırlamak, iletmek ve sürdürmekle yükümlü kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Beyanlar beş yılda bir yenilenir ve her beyanın bir öncekinden ileri gitmesi beklenir; buna ilerleme ilkesi denir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Beyanlar çerçeve sözleşmenin sekretaryasınca kayıt altına alınır; uyumu sağlayan mekanizma ise mahkeme değil görünürlüktür ve geride kalan tarafın teşhirine day",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bağlayıcılık usuldedir: beyan verme, bilgi sunma ve raporlama yükümlülükleri hukuken bağlayıcıdır ama beyanların içindeki hedefler değildir; bir devleti hedefin",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kyoto'nun yalnızca bir ülke kümesini bağlayan modelinden farklı olarak, gelişmiş ile gelişmekte olan ülke ayrımı burada bulanıklaşır: azaltım planını herkes sun",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Beyanların toplamda yeterli olup olmadığı ise beş yılda bir yapılan küresel durum değerlendirmesiyle ölçülür; ilki 2023'te tamamlandı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Erişim tarihinde (Ağustos 2026) kaynağın Ocak 2026 kaydı şudur: çerçeve sözleşmenin 194 üyesi anlaşmanın tarafıdır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı kayda göre taraflar, küresel sera gazı emisyonlarının yüzde 98'inden fazlasını temsil eder.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Onaylamayan üç üyeden en büyüğü, küresel toplamın yaklaşık yüzde 2'sini üreten İran'dır; Libya ve Yemen de anlaşmayı onaylamamıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Son katılım 2023'te Eritre'den geldi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çekilme usulü anlaşmanın kendi metninde tanımlıdır: bir taraf, anlaşma kendisi için yürürlüğe girdikten en erken üç yıl sonra çekilme bildirimi verebilir ve çek",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Trump yönetimi niyetini 2017'de açıkladı, resmî bildirimi ancak 4 Kasım 2019'da verebildi ve Amerika Birleşik Devletleri 4 Kasım 2020'de anlaşmadan çıktı.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dönüş daha hızlı oldu: Joe Biden görevdeki ilk gününde, 20 Ocak 2021'de yeniden katılım kararnamesini imzaladı ve ülke otuz günlük sürenin ardından yeniden tara",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İkinci çekilme de aynı kapıdan geçti: 20 Ocak 2025'te imzalanan yeni bir kararnamenin ardından çekilme 27 Ocak 2026'da yürürlüğe girdi.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çin'den sonra en büyük ikinci emisyon kaynağı olan bir devletin on yıl içinde iki kez çıkıp bir kez dönmesi, anlaşmanın mimarisindeki gerilimi tek başına özetle",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Çin, açık arayla dünyanın en büyük emisyon kaynağıdır ve küresel emisyonların dörtte birinden fazlasını tek başına üretir; kıta ölçeğinde Asya, küresel toplamın",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "1900'de emisyonların yüzde 90'ından fazlası Avrupa ile Amerika Birleşik Devletleri'nde üretiliyordu; bugün bu iki bölgenin payı üçte birin altındadır.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kişi başına bakıldığında en yüksek salımlar, nüfusu görece küçük büyük petrol üreticilerindedir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "İklim adaleti tartışmasının merkezinde, iklim değişikliğiyle mücadelenin maliyetlerinin nasıl dağıtılacağı sorusu durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Uzun süre 2°C'nin altında kalmak yeterli hedef sayılmış, daha düşük eşikler için yürütülen kampanyalar sonunda Paris metnindeki 1,5°C çabasına yansımıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Tartışmanın en çetin düğümü geçmiş emisyonlardır: bugün kalkınmakta olan ülkeler kalkınırken yaptıkları emisyonlar için cezalandırılmamalıysa, bugün zengin olan",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Uzun dönemli seride dünya nüfusu 2015'te yaklaşık 7,47 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Anlaşmanın imzalanmasından sonra küresel emisyonlar düşmedi; artmaya devam etti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "1,5°C'nin altında kalmak için emisyonların 2030'a kadar kabaca yarıya inmesi gerektiği hesaplanır ve bu hesap, ülkelerin kayıtlı taahhütlerini de hesaba katar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Neredeyse bütün devletler, ortak bir sıcaklık hedefinin altına imza atmış ve bu imzayı düzenli beyan, raporlama ve değerlendirme usulüne bağlamıştır; aynı kayıt",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

@@ -1,391 +1,337 @@
 {
   "id": "aktor-rapa-nui",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:22.179Z",
-  "govde_hash": "16e8d8547c53",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T19:19:08.886Z",
+  "govde_hash": "56544d130b5f",
+  "commit": "c9a3451",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Rapa Nui, Pasifik'in güneydoğusunda, en yakın yerleşik kara parçasına iki bin kilometreden uzak bir adadır.",
+      "iddia": "Rapa Nui, Pasifik'in güneydoğusunda, en yakın yerleşik komşusuna iki bin kilometreden uzak bir adanın ve o adada yaşayan Polinezya topluluğunun ortak adıdır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Adada bugün yedi binden fazla insan yaşar; Rapanui dili konuşulmaya devam eder ve ada, Şili'ye bağlı anayasal \"özel bölge\" statüsüyle yönetilir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Topluluk, geçmişi hakkında yürütülen tartışmanın nesnesi değil, giderek daha görünür bir tarafıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı ada, dünya tarihinin en çok anlatılan çöküş hikâyelerinden birinin sahnesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Ormanını tüketip kendi kendini yok eden toplum anlatısı yirminci yüzyılda ders verici bir mesel olarak yerleşti; son yirmi yılda ise arkeolojik bulgular bu anla",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "İki taraf da aynı heykellere, aynı polen kayıtlarına ve aynı gemi günlüklerine bakar; ayrıştıkları nokta, yıkımın failinin adanın içinde mi dışında mı aranacağı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Adaya ilk yerleşenler, nın en doğu ucuna ulaşan Polinezya denizcileriydi; öne sürülen tarihler değişmekle birlikte yaygın tahminler yerleşimi on ikinci ile on ü",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Polinezya"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı denizcilik ağının öteki uçlarında ve gibi akraba topluluklar kuruldu; Rapa Nui, bu ağın açık ara en yalıtılmış üyesiydi ve yerleşimden sonra dış temas seyr",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Adada bine yakın moai vardır; büyük bölümü Rano Raraku yanardağının tüfünden yontulmuştur ve bir kısmı tamamlanmadan ocakta bırakılmıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Heykellerin ne anlattığına dair en erken doğrudan tanıklık Cook seferinden gelir: gemideki Bora Boralı Hitihiti adalılarla konuşabilmiş ve heykellerin eski yüks",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Heykel dikme geleneğinin hangi toplumsal düzen içinde örgütlendiği ise nesne kanıtından okunamaz; taş, yapının varlığını gösterir, gerekçesini göstermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kayda geçen ilk Avrupa teması 1722'de gerçekleşti: Hollandalı Jacob Roggeveen, karşılaşma Paskalya gününe denk geldiği için adaya Avrupa dillerinde kullanılan a",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Roggeveen'in resmî seyir defterinden alınan bölüm, 1770'te Peru genel valisinin gönderdiği Felipe González seferinin tutanaklarıyla birlikte sonradan tek ciltte",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Roggeveen'in vardığı sırada adada iki ila üç bin kişinin yaşadığı tahmin edilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İspanyol kayıtları, heykellerin 1770'te ayakta durduğunu yazar ve adanın San Carlos adıyla İspanya adına ilhakı için düzenlenen töreni anlatır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dört yıl sonra, 1774'te James Cook uğradığında bazı heykellerin devrilmiş olduğu kaydedildi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Cook'un 1777'de yayımlanan sefer anlatısının ilk cildi, Yeni Zelanda'dan adaya geçişi ve oradaki temasları ayrı bir bölümde işler; seferin bütünü ve kaynak değe",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ziyaretler 1786'da La Pérouse ile seyrek de olsa sürdü.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Yaygın çöküş anlatısının en işlenmiş hâli Jared Diamond'ın 2005 tarihli Collapse kitabındadır; kitabın \"toplumlar çökmeyi nasıl seçer\" sorusunun baş örneği bu a",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bu okumaya göre ada yerleşim sırasında ormanlıktı; nüfus büyüdü, ağaçlar heykel taşımak ve tarla açmak için kesildi, orman kendini yenileyemedi, toprak aşındı v",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Avrupalılar"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Anlatı, kapalı bir sistemde kaynak tüketiminin sonucunu gösteren bir uyarı meseli olarak kuruldu ve bu ders verme gücü ona geniş bir okur kitlesi kazandırdı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Terry Hunt ile Carl Lipo, 2011'de yayımlanan The Statues That Walked'ta bu zincirin her halkasına itiraz etti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Ormanın yok oluşunda, yerleşimcilerin gemileriyle gelen Polinezya sıçanına belirleyici bir pay verirler: sıçan, palmiye tohumlarını yiyerek ormanın kendini yeni",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Polinezya"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Heykellerin kütükler üzerinde sürüklenmek yerine dik konumda, halatlarla yürütülerek taşınabildiğini deneyle gösterdiler; bu da orman tüketiminin anlatıdaki baş",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Onlara göre asıl demografik yıkım Avrupa temasının ardından, hastalık ve köle akınlarıyla geldi; temas öncesi toplum çökmüş değil, kıt koşullara uyarlanmış bir ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kalıcı akarsuyu olmayan adada ekim, toprağı çakıl ve taşla örterek nemi tutan bir yöntemle yapılıyordu; taş örtülü tarım, kurak bölgelerin bilinen ve etkili bir",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bir çevresel kısıtla karşılaşan topluluğun yöntem değiştirdiğini gösteren bu bulgu, iki okumanın hangi kanıtı nasıl tarttığını sınamak için iyi bir ölçüdür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tartışmanın tartışma götürmeyen bölümü, on dokuzuncu yüzyılda yaşananlardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1862-63'te Peru'dan gelen işçi avcısı gemiler, düzeninin en yıkıcı örneklerinden birinde yaklaşık 1.500 adalıyı öldürdü ya da kaçırdı; kaçırılanlardan 1.408'i P",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Dönem kayıtları, götürülenlerin Chincha adalarındaki guano yataklarında çalıştırıldığını yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sağ dönebilen bir düzine kadar insan yanında çiçek hastalığını getirdi ve salgın, adada kalmış nüfusu kırdı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1877'de adada yalnızca 111 Rapanui sayıldı; 1862 ile 1888 arasında nüfusun yaklaşık yüzde 94'ü ölmüş ya da adayı terk etmişti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ölenler arasında, adanın tarihinin, şecerelerinin ve rongorongo bilgisinin taşıyıcısı sayılan tumu ivi 'atua'lar da vardı; sözlü aktarımın en donanımlı halkası ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aktarım zincirindeki kopuş gerçektir ve tarihi bellidir; ama bu bir kültürün ölümü değil, bir halkın elinden alınanların belgelenebilir dökümüdür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nüfus sonraki kuşaklarda yeniden büyüdü, dil yaşadı ve bugünkü topluluk o yıllardan sağ çıkanların torunlarından oluşur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Adadan çıkan tahta levhalara rongorongo denen bir işaret sistemi kazınmıştır; işaretler tahtaya her satırda yön değiştiren bir düzenle kazınır ve sistem ilk kez",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Günümüze yalnızca yirmi küsur metin ulaşmıştır ve bunların hiçbiri adada değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Geleneğe göre okuryazarlık yönetici aileler ve rahiplerle sınırlıydı; bu kesim köle akınlarını izleyen salgın yıllarında yok olduğundan, okuma bilgisi aktarılam",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bütün çözme girişimlerine karşın metinler okunamamıştır ve elde bu kadar az metin varken işaretlerin gerçek bir yazı mı, yoksa başka türden bir kayıt aracı mı o",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu belirsizlik örtülmeden söylenmelidir: rongorongo hakkında bugün söylenebilecek en sağlam cümle, ne söylediğinin bilinmediğidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Adanın ilk sistematik arkeolojik ve etnografik incelemesi, 1914-15'te Katherine Routledge'ın Mana seferiyle yapıldı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Routledge heykelleri ölçtü ve kazılar yürüttü; ama kaydının bugün en değerli sayılan katmanı, akın öncesi düzeni hatırlayan yaşlı adalılarla yaptığı uzun görüşm",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Gözlemlerini 1919'da The Mystery of Easter Island adıyla yayımladı ve kitabın tam metni bugün açık erişimdedir.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Yerleşimin en bilinen ürünü, adanın çevresine dizilmiş büyük taş heykellerdir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bu dosyanın asıl konusu heykeller değil, ada hakkında kurulan anlatıdır.",
+      "iddia": "Bu görüşmeler, kopuştan yarım yüzyıl sonra bile anlatacak insan bulunduğunu gösterir: aktarım incelmişti, ama kesilmemişti.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Yerleşmiş anlatı şöyle işler.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Anlatının çekiciliği açıktır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Atlas anlatının çekiciliğini ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Son yirmi yılda yapılan çalışmalar anlatının her adımını sorgulamıştır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Ormanın yok olmasında, insanlarla birlikte gelen kemirgenlerin payı öne sürülmüştür.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Heykellerin taşınma biçimi de yeniden ele alınmıştır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Anlatının en zayıf halkası zamanlamadır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Kayıtlar, ciddi nüfus kaybının temas sonrasında yoğunlaştığını göstermektedir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bu, anlatının yönünü tersine çevirir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "İki okuma aynı adaya bakar ve farklı fail gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Fail seçimi, anlatının vereceği dersi de belirler.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Atlas bu bağı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Dosyanın kaydettiği kural tek cümleyle ifade edilebilir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kural bu adaya özgü değildir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Sonucu doğrudan pratiktir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Anlatının erken biçimi, adaya uğrayan gezginlerin raporlarına dayanır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Açıklama, gözlemin kendisi değil bir çıkarımdı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Atlas bu ayrımı ayrıca yazar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Adanın ilk sistematik saha çalışması yirminci yüzyıl başında yapıldı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Görüşmeler önemlidir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Atlas bu kısıtı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Heykellerin ne için yapıldığı tartışmalıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Üçü de aynı bulgulara uyar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bir sonuca bağlanmaz.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Adada, işaretlerden oluşan tahta levhalar bulunmuştur.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bu, atlasın Kuş dosyasında kaydedilen durumun bir başka örneğidir.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kuş"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Ayrıca bir tartışma daha vardır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Adada, akrabalık gruplarına dayanan bir bölünme bulunuyordu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Merkezî bir yönetim aygıtının varlığı gösterilememiştir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bu, atlasın Cahokia dosyasında ölçtüğü kısıtla aynıdır.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Cahokia"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Ada, on sekizinci yüzyılda Avrupalı gemilerin uğrak yeri oldu.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Avrupalı"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "On dokuzuncu yüzyıl ortasında yapılan köle baskınları, ada nüfusunun önemli bir bölümünü götürdü.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bu iki olayın ardından nüfus birkaç yüz kişiye indi.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Ada, on dokuzuncu yüzyıl sonunda bir Güney Amerika devleti tarafından ilhak edildi.",
+      "iddia": "Şili, adayı 1888'de ilhak etti.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
-      "anahtar": "k4",
-      "iddia": "Adalılar bu dönemde adanın küçük bir bölümüne sınırlandırıldı.",
+      "anahtar": "k1",
+      "iddia": "Sonraki yarım yüzyılda ada fiilen bir koyun çiftliği olarak işletildi; Williamson-Balfour şirketinin kiracılığı döneminde adalılar Hanga Roa yerleşimiyle sınırl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Rapanuiler Şili vatandaşlığını ancak 1966'da aldı; 2007'de ada anayasada tanımlı özel bölge statüsüne kavuştu.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "2017 sayımında adada 7.750 kişi kaydedildi; yıllık Tapati festivali topluluğun kendi kültürel takvimini kurar ve yerli haklar hareketi adanın yönetiminde söz is",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "1911 tarihli Britannica maddesi, anlatının yerleşmeden önceki hâlini gösterir: madde, adalıların bu \"olağanüstü yapıların inşası hakkında hiçbir şey bilmediğini",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Aynı madde Peru akınlarını tek cümleyle geçer; heykelleri diken halkın torunları oradayken, yapıların sahibi kayıp bir geçmişe havale edilmişti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Yıkımın belgeli kısmı, gizemin gölgesinde kalıyordu.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Dosya bu dönemi ayrıntılandırmaz.",
+      "anahtar": "k5",
+      "iddia": "Sonraki yüzyıl gizemi çözmedi, failini değiştirdi: ekolojik intihar okumasında yıkımın sorumlusu adalıların kendisidir, karşı okumada sıçan ve dışarıdan gelen t",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k3",
-      "iddia": "İtirazlar akademik yazında yerleşmiş olmasına rağmen, yaygın anlatı büyük ölçüde değişmemiştir.",
+      "anahtar": "k6",
+      "iddia": "Fail seçimi, anlatının vereceği dersi de belirler; birinci okuma kaynak yönetimi, ikincisi sömürgecilik hakkında konuşur.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Gecikmenin nedeni anlatının işleviyle ilgilidir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Atlas bu mekanizmayı ayrıca kaydeder.",
+      "iddia": "Tartışmanın bugün bir tarafı da adanın kendisidir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Ada, en yakın yerleşik kara parçasından iki bin kilometreden uzaktadır ve bu, yerleşimden sonra düzenli temasın sürmediği anlamına gelir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "İzolasyon, adayı bir laboratuvar gibi okumayı çekici kılar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Varsayım tam olarak doğru değildir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Kapalı sistem varsayımı, dış etkenleri baştan devre dışı bırakır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Aynı varsayım kaldırıldığında, açıklama kümesi genişler.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu adımı ayrıca işaretler.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Adada akarsu yoktur ve toprak volkaniktir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Yöntem, kazılarda geniş alanlarda saptanmıştır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Atlas bulguyu ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bu dosyanın dört künyesinden ikisi dönem tanıklığı, biri akademik kitap, biri giriş kapısıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Künye seçimi bilinçlidir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Adalıların kendi kayıtları künyelenememiştir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Heykellerin tipolojisi ve yapım tekniği ayrıntılı olarak işlenmez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Adanın yirminci yüzyıl ve sonrası tarihi kapsam dışıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Polinezya yerleşim tarihinin genel çerçevesi burada verilmez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Dosya, orman kaybının olmadığını ileri sürmez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "İkinci okumanın doğru olduğu da ileri sürülmez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Fail seçimi hakkındaki gözlem bir suçlama değildir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Adaya yerleşimi mümkün kılan denizcilik için dosyası okunmalıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Çöküş açıklamalarının genel yapısı için dosyası uygundur; bu dosya oradaki soruya somut bir örnek ekler.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Kanıt türlerinin hangi soruya cevap verdiği için ve , anlatının nasıl kurulduğu için dosyaları okunabilir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Aynı okyanustan öteki dosyalar için ve okunmalıdır.",
+      "iddia": "Heykeller ve levhalar yok olmuş bir uygarlığın kalıntıları değil, yaşayan bir topluluğun atalarından kalan varlıklarıdır; anlatının bundan sonra nasıl kurulacağ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

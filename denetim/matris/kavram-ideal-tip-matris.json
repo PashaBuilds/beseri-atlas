@@ -1,0 +1,335 @@
+{
+  "id": "kavram-ideal-tip",
+  "govde_hash": "ab1fe2c9c726",
+  "commit": "c9a3451",
+  "zaman": "2026-08-28",
+  "hakem": "kor-hakem-2026-08-28",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "İdeal tip, Max Weber'in toplumsal gerçekliği çözümlemek için önerdiği kavramsal ölçü aracıdır: gerçekliğin belli yönlerinin tek yanlı vurgulanmasıyla ve dağınık, tek tek görüngülerin bu bakış açıları etrafında birleştirilmesiyle kurulan analitik bir kurgudur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Weber'in 'one-sided accentuation ... unified analytical construct' tanim pasajinin cevirisi"
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Kurgu, kavramsal saflığı içinde gerçeklikte hiçbir yerde ampirik olarak bulunamaz; Weber'in kendi ifadesiyle o bir ütopyadır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Araç betimlemek için değil ölçmek için vardır: araştırmacı her tekil durumda, tarihsel gerçekliğin bu kurguya ne ölçüde yaklaşıp ondan ne ölçüde uzaklaştığını belirlemekle yükümlüdür.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta 'Historical research faces the task of determining in each individual case, the extent to which this ideal-construct approximates to or diverges from reality'"
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Kavramın ağırlığı, sosyal bilimde nesnelliğin nasıl mümkün olacağı sorusuna verdiği cevaptan gelir: olayların sonsuz çeşitliliği ancak belirli bakış açılarından seçilerek bilgi nesnesine dönüşür ve ideal tip bu kaçınılmaz seçimi örtük bir önyargı olmaktan çıkarıp açık, denetlenebilir bir kurala bağlar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP'in tek yanlilik (Einseitigkeit) ve oz-bilincli oznellik okumasinin ozeti"
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Protestan Ahlakı'ndan bürokrasi çözümlemesine, Weber'in en bilinen çalışmaları bu aracın uygulamalarıdır ve kavram onun yöntembiliminin merkezinde durur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yontembilimdeki merkezi yer SEP'in 5.2 bolumunde dogrudan; 'en bilinen calismalari uygulamalaridir' genellemesi yazarin"
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Weber örneğini dönemin iktisat tarihçiliğinden seçer: Orta Çağ \"kent ekonomisi\" kavramı, gözlenen bütün kentlerdeki iktisadi yapıların ortalaması olarak değil, bir ideal tip olarak kurulur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta dogrulandi: \"the medieval city economy ... not as an average of the economic structures actually existing in all the cities observed but as an ideal-type\". Onceki \"ders kitaplarindaki\" nitelemesi kaynakta yoktu; hakem \"Orta Çağ\" olarak duzeltti."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Adındaki \"ideal\" de mükemmellik değil, düşünce dünyasına aitlik anlamına gelir; tip ne ahlaki bir ülküyü ne de istatistiksel bir ortalamayı gösterir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Karşılaştırma tam bu keskinlik sayesinde çalışır: saf akılcı bir eylem seyri kurgulandığında, gerçek eylemin duygulardan ve yanılgılardan nasıl etkilendiği, bu çizgiden sapmalar olarak anlaşılır hâle gelir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Weber bu kurguyu, anlaşılırlığı en yüksek ve belirsizliği en düşük tip olduğu için sosyoloğun eline verir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta 'the merit of clear understandability and lack of ambiguity'"
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Saf iktisat kuramının kavramları ve yasaları da Weber'e göre bu türden ideal tiplerdir: eylemin katı biçimde akılcı olsaydı izleyeceği seyri söylerler, gerçek eylem ise bu seyre ancak yaklaşır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Kavram, Protestan Ahlakı'nda değil, Weber'in 1904'te yayımlanan \"Sosyal Bilimde ve Sosyal Politikada 'Nesnellik'\" makalesinde sistemli biçimde ortaya konur.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP kaynakcasi makaleyi 1904/1949 olarak tarihler ve tanim alintilarini bu makaleye baglar; k3 makalenin tam metnini icerir. Kaynaklanmamis \"yaygin kaninin aksine\" cercevesi hakem tarafindan cikarildi."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Makale İngilizceye 1949'da, Shils ile Finch'in derleyip çevirdiği The Methodology of the Social Sciences cildi içinde kazandırıldı ve ünlü tanım pasajı bu derlemede yer alır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Protestan Ahlakı ise kavramın uygulamasıdır: 1904-1905'te yayımlanan çalışma, kapitalizmin ruhu gibi tarihsel olarak tekil bir oluşumu ideal tip yöntemiyle çözümler.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tarihler k1'de (1904-1905), uygulama iddiasi k2'de ('historically unique occurrences such as in Weber's Protestant Ethics analysis')"
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Ölümünden sonra derlenen Ekonomi ve Toplum, yöntemi işler hâlde gösterir: gündelik dilin feodal, patrimonyal, bürokratik ya da karizmatik dediği düzenlere kesin bir anlam vermek, sosyoloğun her biri için saf ideal tipler kurmasını gerektirir; gerçek bir görüngünün bu saf tiplerden birine tam olarak uyması ise enderdir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Saf tipler pasaji (feudal/patrimonial/bureaucratic/charismatic; tam uyan gercek gorungu ender) kaynakta dogrudan; 'olumunden sonra derlendi' bilgisi kaynagin disindan gelen baglam"
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "A. M. Henderson ile Talcott Parsons'ın 1947'de İngilizceye çevirdiği kesim, meşru otoritenin üç saf tipini birbirinden ayırır; yasal otoritenin en saf biçimi bürokratik bir kadroyla yürütülen yönetimdir ve tek merkezli bürokrasi tipi de burada kurulur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Fetch penceresi (400k) yalnizca on madde ve İçindekiler kesitini kapsiyor: \"The Three Pure Types of Legitimate Authority\", \"Legal Authority with a Bureaucratic Administrative Staff\", \"The Monocratic Type of Bureaucratic Administration\" basliklari ile Henderson-Parsons kunyesi dogrulandi; \"en saf bicim\" ifadesinin govde pasaji pencere disinda kaldigindan destek dogrudan degil kismi sayildi. Ceviri kunyesine Henderson hakem tarafindan eklendi."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Gerontokrasi, patriarkalizm ve patrimonyalizm aynı ciltte geleneksel otoritenin alt biçimleri olarak işlenir; bürokrasi ve meşruiyet üzerine bugünkü tartışmalar da bu tipolojiyi başlangıç noktası almayı sürdürür.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ilk yari kaynakta dogrudan ('Gerontocracy, Patriarchalism, and Patrimonialism' geleneksel otorite altinda); bugunku tartismalarin baslangic noktasi cikarimi yazarin"
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "İtirazların en eskisi kurgunun keyfîliğine yönelir: vurgulanacak yönleri araştırmacının değer ilgisi seçiyorsa, aynı olgudan birbiriyle yarışan sayısız tip türetilebilir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "SEP tek yanliligin oznelligini ve deger bagliligini dogrudan tartisir; 'en eski itiraz' cercevelemesi ve sayisiz tip cikarimi yazarin"
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Weber'in cevabı bu suçlamayı reddetmek değil sahiplenmektir: ona göre tek yanlılık zaten kaçınılmazdır ve ideal tip, araştırmacının bakış açısını gizlemek yerine açıkça ilan etmesini sağlar; geçerliliğini de gerçekliğe birebir karşılık gelmekte değil, çözümlemedeki yeterliliğinde arar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP: 'unavoidable and necessary', 'self-consciously subjective', 'validity can be ascertained only in terms of adequacy'"
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "İkinci itiraz kümesi tipin gerçeklikle ilişkisini hedef alır: normal tip kuramının savunucularına göre ideal tip uç görüngülere odaklanır ve aralarındaki bağlantıları gözden kaçırır; tiplerin ve öğelerinin bütünsel bir toplumsal sistem kuramına nasıl oturacağını göstermek de güçtür.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Bu itirazların zemininde kavramın statüsü yatar: ideal tip, toplumsal kuramda ve araştırmada öznel bir öğedir ve sosyolojiyi doğa bilimlerinden ayıran öznel öğeler arasında sayılır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta dogrulandi: \"The ideal type is therefore a subjective element in social theory and research, and one of the subjective elements distinguishing sociology from natural science\". Onceki \"tarih disilik\" cumlesinin k2'de hicbir karsiligi yoktu (sus dipnotu); hakem cumleyi kaynakli icerikle degistirdi."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Sonraki kuşaklar aracı Weber'den devraldı: karşılaştırmalı toplumbilim, kapitalizm gibi çağlar üstü görüngülerden tekil tarihsel oluşumlara kadar geniş bir alanda ideal tipler kurarak çalışmayı sürdürür.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "İdealleştirmenin başka alanlardaki karşılığı da görünür hâle geldi: iktisadın homo economicus'u, yani yaşı, hevesleri ve toplumsal çevresi olmayan soyut karar alıcı, tutarlı bir soyutlama ve idealleştirme sürecinin ürünüdür ve yöntemce Weber'in tiplerine akrabadır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta 'homo economicus is the result of a consistent abstraction-idealization process'; 'ageless, he has no whims', zaman ve cevre yoklugu"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 17,
+    "kismi": 5,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

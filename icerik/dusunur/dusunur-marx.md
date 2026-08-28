@@ -3,14 +3,16 @@ id: dusunur-marx
 tip: dusunur
 baslik: Karl Marx
 ozet: >-
-  Kaynak, ahlakın onun eleştirisindeki rolü konusunda yerleşik bir bilimsel
-  uzlaşı bulunmadığını açıkça yazar.
+  Kapitalizmi tarihsel bir üretim tarzı olarak çözümleyen, yabancılaşma, sınıf
+  mücadelesi ve artı-değer kavramlarıyla yirminci yüzyılın siyasetini ve sosyal
+  bilimlerini derinden etkileyen düşünür; öngörüleri, emek-değer kuramı ve
+  tarih şemasının belirlenimciliği ise güçlü eleştirilerin konusudur.
 tarih_baslangic: "1818"
 tarih_bitis: "1883"
 bolge: [avrupa]
 eksen: [ekonomik, felsefi, siyasi]
 guven_geneli: tartismali
-etiketler: [marx, yabancilasma, tarihsel-materyalizm, ideoloji, uzlasi-yoklugu]
+etiketler: [marx, yabancilasma, tarihsel-materyalizm, arti-deger, sinif-mucadelesi]
 ilgili:
   - dusunur-hegel
   - dusunur-smith
@@ -28,104 +30,248 @@ ilgili:
   - tartisma-fransiz-devrimi-yorumlari
   - kaynak-marx-kapital
   - kaynak-hegel-gorungubilim
+  - kavram-ideal-tip
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Karl Marx"
     url: https://plato.stanford.edu/entries/marx/
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Marx"
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "is often treated as an activist rather than a philosopher"
+    not: "Akademik cerceve; tarih kurami, iktisadi cozumleme ve elestiriler icin ana ikincil kaynak"
   - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Revolutions of 1848"
-    url: https://en.wikipedia.org/wiki/Revolutions_of_1848
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Revolutions of 1848"
-    not: "Yasadigi on yildaki siyasi dalga; bagimsiz alan adi"
+    tur: birincil
+    birincil_tur: eser
+    ad: "Marx - A Contribution to the Critique of Political Economy, Onsoz (1859, tam metin)"
+    url: https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface.htm
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "It is not the consciousness of men that determines their existence, but their social existence that determines their consciousness"
+    not: "Tarihsel materyalizmin klasik formulasyonunu iceren onsozun Ingilizce tam metni"
   - anahtar: k3
-    tur: akademik
-    ad: "Stanford Encyclopedia of Philosophy - Georg Wilhelm Friedrich Hegel"
-    url: https://plato.stanford.edu/entries/hegel/
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Hegel"
-    not: "Onceki kusaktan dusunur"
+    tur: birincil
+    birincil_tur: eser
+    ad: "Marx ve Engels - The Communist Manifesto (1888 Ingilizce baskisi, tam metin)"
+    url: https://www.gutenberg.org/cache/epub/61/pg61.txt
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "BOURGEOIS AND PROLETARIANS"
+    not: "Engels'in gozden gecirdigi 1888 Ingilizce cevirisinin kamu mali tam metni"
   - anahtar: k4
     tur: birincil
     birincil_tur: eser
-    ad: "Capital: Volume One (tam metin)"
+    ad: "Marx - Capital: Volume One (tam metin)"
     url: https://www.marxists.org/archive/marx/works/1867-c1/
-    erisim_tarihi: 2026-08-23
+    erisim_tarihi: 2026-08-28
     dogrulama_dizesi: "Capital: Volume One"
-    not: "Dusunurun baslica eserinin kamu mali tam metni"
-son_denetim: 2026-08-23
+    not: "Baslica eserinin kamu mali Ingilizce tam metni"
+  - anahtar: k5
+    tur: birincil
+    birincil_tur: eser
+    ad: "Marx - Economic and Philosophic Manuscripts of 1844, Estranged Labour (tam metin)"
+    url: https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "The worker becomes all the poorer the more wealth he produces"
+    not: "Yabancilasma cozumlemesinin birincil metni"
+  - anahtar: k6
+    tur: birincil
+    birincil_tur: eser
+    ad: "Marx - Hegel'in Hukuk Felsefesinin Elestirisine Katki, Giris (1844, tam metin)"
+    url: https://www.marxists.org/archive/marx/works/1843/critique-hpr/intro.htm
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "It is the opium of the people"
+    not: "Din elestirisinin birincil metni"
+  - anahtar: k7
+    tur: ansiklopedi
+    ad: "Wikipedia (EN) - Karl Marx"
+    url: https://en.wikipedia.org/wiki/Karl_Marx
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "The Communist Manifesto was first published on 21 February 1848"
+    not: "Giris kapisi; biyografik iskelet ve yayin kronolojisi icin erisim tarihli okunur"
+  - anahtar: k8
+    tur: akademik
+    ad: "Stanford Encyclopedia of Philosophy - Alienation"
+    url: https://plato.stanford.edu/entries/alienation/
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "The concept of alienation identifies a distinct kind of psychological or social ill"
+    not: "Yabancilasma kavraminin cagdas felsefi cercevesi"
+son_denetim: 2026-08-28
 denetim_durumu: onaylandi
-onarim_turu: 0
+onarim_turu: 1
 ---
 
-Kaynak onu 1818-1883 arasında yaşamış ve sıklıkla filozoftan çok eylemci, eserleri
-komünist rejimlerin kuruluşuna ilham vermiş bir devrimci olarak ele alınan bir
-düşünür diye kaydeder.[^k1] Bu dosya, öğretisini değil **kaynağın açıkça
-belirttiği uzlaşı yokluğunu** ele alır.
+Karl Marx, 5 Mayıs 1818'de Prusya'nın Trier kentinde doğdu; 14 Mart 1883'te,
+ömrünün son otuz dört yılını sürgün olarak geçirdiği Londra'da, hiçbir devletin
+vatandaşı olmadan öldü.[^k7] Sıklıkla filozoftan çok bir eylemci, eserleri
+yirminci yüzyılda komünist rejimlerin kuruluşuna esin veren bir devrimci olarak
+anılır; oysa yetişmesi felsefeydi ve düşüncesi felsefeyi, tarihi, iktisadı ve
+siyaseti tek bir eleştirel projede birleştirir.[^k1]
 
-## Kaynak, bir konuda uzlaşı olmadığını yazar
+O projenin konusu kapitalizmdir: nereden geldiği, nasıl işlediği ve neden
+kalıcı olamayacağı. Bu soruları izlerken geliştirdiği kavramlar — yabancılaşma,
+tarihsel materyalizm, sınıf mücadelesi, artı-değer — hem ölümünden sonra adına
+kurulan siyasal rejimlerin hem de ona hiç yakın durmayan sosyal bilim
+geleneklerinin sözlüğüne yerleşti.[^k7] Aşağıdaki bölümler önce hayatının
+iskeletini, sonra bu kavramları, en sonunda da mirasın karşısına dikilen güçlü
+eleştirileri izliyor.
 
-Kaynak, ahlakın ve ahlaki eleştirinin onun çağdaş kapitalist topluma yönelik
-eleştirisindeki tam rolünün çokça tartışıldığını ve bu meselelerde yerleşik bir
-bilimsel uzlaşı bulunmadığını yazar.[^k1]
+## Trier'den Londra'ya
 
-::tartismali[Kaynak, bir düşünürün merkezî bir meselesinde bilimsel uzlaşı olmadığını kendisi yazıyor. Atlas bu boşluğu bir yorumla doldurmaz; boşluğun kendisini kaydeder.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+Hukuk okumak için önce Bonn'a, sonra Berlin'e gitti; orada Hegel'in
+felsefesiyle ve 1837'den itibaren Genç Hegelciler çevresiyle tanıştı, 1841'de
+Jena Üniversitesi'nden felsefe doktorası aldı.[^k7] Akademik kariyerin kapıları
+siyasal iklim yüzünden kapanınca gazeteciliğe yöneldi: 1842'de Köln'de çıkan
+Rheinische Zeitung'un yazı işlerini üstlendi, gazete Prusya makamlarınca
+kapatılınca 1843'te Jenny von Westphalen ile evlenip Paris'e taşındı.[^k7]
 
-Bu tür uzlaşı boşluklarının nasıl taşınacağı
-[Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
-haritasında ele alınıyor.
+Paris yılları iki belirleyici karşılaşmanın yeridir: ekonomi politikle —
+Adam Smith ve David Ricardo'yu burada okumaya başladı — ve 1844'te ömürlük
+çalışma arkadaşı olacak Friedrich Engels'le.[^k7] Sürgün onu önce Brüksel'e
+savurdu; [1848 Devrimleri](/olay/1848-devrimleri/) patlak verince Köln'e dönüp
+Neue Rheinische Zeitung'u çıkardı, karşı-devrim üstün gelince 1849'da Londra'ya
+geçti.[^k7] Hayatının geri kalanını orada, uzun süre yoksulluk içinde, British
+Museum'da araştırma yaparak ve gazetelere yazarak geçirdi; öldüğünde Londra'daki
+Highgate Mezarlığı'na gömüldü.[^k7]
 
-## Konu listesi kaynağın kendi bölümlemesidir
+## Yabancılaşma: 1844 Elyazmaları
 
-Kaynak toplumsal ve siyasal felsefe bakımından şu konuları sayar: felsefi
-antropolojisi, tarih kuramı, iktisadi çözümlemesi, çağdaş kapitalist toplumla
-eleştirel ilişkisi, modern devlete dair anlatısı ve komünist bir gelecek
-öngörüsü.[^k1]
+Yabancılaşma, kişi ile ona aslında ait olan bir şey — emeği, ürünü, başka
+insanlar — arasındaki sorunlu ayrılığı adlandırır; kavramın modern tartışması
+büyük ölçüde Hegelci ve Marksist geleneklerden beslenir.[^k8] Marx'ın erken
+yazılarına bu teşhis hâkimdir ve teşhis, insan doğasına ve onun serpilmesine
+dair tartışmalı bir anlatıya dayanır.[^k1]
 
-Altı ayrı başlığın sıralanması,[^k1] atlasın bu dosyada neden tek bir tez cümlesi
-kurmadığını gösterir; kaynak bile tek bir başlık kullanmamaktadır.
+Paris'te 1844'te kaleme aldığı elyazmaları sağlığında yayımlanmadı; metinler
+ancak 1932'de basıldı ve yirminci yüzyılın Marx okumasını derinden
+etkiledi.[^k7] Orada ücretli emek dört yönlü bir yabancılaşma olarak çözümlenir:
+işçi emeğinin ürününe, üretim etkinliğinin kendisine, türsel varlığına ve öteki
+insanlara yabancılaşır.[^k5] Çözümlemenin çıkış gözlemi serttir: işçi ne kadar
+çok zenginlik üretirse o kadar yoksullaşır, çünkü emeğinin ürünü karşısına
+kendisinden bağımsız, yabancı bir güç olarak dikilir.[^k5] Marx'a göre bunun
+kökeninde çalışmanın kendisi değil, çalışmanın özel mülkiyet altındaki biçimi
+vardır; emek aslında yaratıcı ve doyurucu olabilecek bir etkinliktir.[^k1]
 
-## Kavramların da kendi sırası vardır
+## Tarih kuramı: 1859 Önsözü
 
-Kaynak, erken yazılarına yabancılaşma anlayışının hâkim olduğunu ve bu teşhisin
-insan doğası ile onun serpilmesine dair tartışmalı bir anlatıya dayandığını yazar;
-ardından çoğu kez tarihsel materyalizm denen ve toplum biçimlerinin insanın üretici
-gücünün gelişimini önce ilerletip sonra engelledikçe yükselip düştüğü fikri
-etrafında kurulu etkili bir tarih kuramı geliştirdiğini kaydeder.[^k1]
+Çoğu kez tarihsel materyalizm denen tarih kuramının çekirdeği, toplum
+biçimlerinin insanın üretici gücünün gelişimini önce ilerlettikçe yükselip
+sonra engelledikçe düştüğü fikridir.[^k1] Kuramın klasikleşmiş formülasyonu
+Kapital'de değil, 1859'da yayımlanan *Ekonomi Politiğin Eleştirisine Katkı*'nın
+birkaç sayfalık önsözünde yer alır.[^k1][^k2]
 
-Bir düşünürün kavramlarının dönemlere göre sıralanması,[^k1] "Marx şöyle der"
-cümlelerinin hangi döneme ait olduğu belirtilmeden kurulamayacağını gösterir; aynı
-sorun [Thomas Malthus](/dusunur/malthus/) dosyasında baskılar üzerinden görülür.
+Önsözün şeması iki katmanlıdır: üretim ilişkilerinin toplamı toplumun iktisadi
+yapısını, gerçek temelini oluşturur; hukuki ve siyasal üstyapı bu temelin
+üzerinde yükselir.[^k2] En çok anılan cümle, bilinç ile varlık arasındaki
+ilişkiyi tersine çevirir: "İnsanların varlığını belirleyen bilinçleri değil,
+tersine, bilinçlerini belirleyen toplumsal varlıklarıdır."[^k2] Gelişimlerinin
+belirli bir aşamasında üretici güçler mevcut üretim ilişkileriyle çatışmaya
+düşer; o ilişkiler gelişmenin biçimleri olmaktan çıkıp prangasına dönüşür ve
+bir toplumsal devrim çağı başlar.[^k2]
 
-## Bir önceki kuşak
+::tartismali[Önsözün şemasının ne kadar katı bir belirlenim öngördüğü — üretici güçlerin tarihi tek başına sürükleyip sürüklemediği — Marx yorumcuları arasında çözülmüş bir soru değildir.]{harita=tartisma-teknolojik-belirlenimcilik}
 
-Bir önceki kuşağın düşünürü için tutulan kayıt, felsefesine dair üç ayrı okumayı
-alt başlıklar hâlinde sıralar.[^k3] O düşünür
-[G. W. F. Hegel](/dusunur/hegel/) dosyasında ele alınıyor.
+Şemanın nasıl okunacağı yorumcular arasında bölünmüştür: G. A. Cohen'in
+savunduğu okuma önsözü işlevsel açıklamaya dayalı tutarlı bir kuram olarak
+kurtarmaya çalışır; başka yorumcular aynı metinde sınıf mücadelesinin adının
+bile geçmediğine dikkat çeker.[^k1] Kavramın sonraki serüveni
+[tarihsel materyalizm](/kavram/tarihsel-materyalizm/) dosyasında ele alınıyor.
 
-İki kaydın da yorum çokluğunu ayrı ayrı kaydetmesi,[^k1][^k3] bu iki dosyanın
-neden tartışmalı olarak işaretlendiğini gösterir.
+## Sınıf mücadelesi ve Manifesto
 
-## Yaşadığı on yıldaki dalga
+Komünistler Birliği'nin görevlendirmesiyle Engels'le birlikte yazılan
+*Komünist Manifesto* 21 Şubat 1848'de yayımlandı; hemen ardından Avrupa'yı bir
+devrim dalgası sardı.[^k7] Metin, tarih yazımının en çok alıntılanan
+açılışlarından biriyle başlar: "Şimdiye kadarki bütün toplumların tarihi,
+sınıf mücadeleleri tarihidir."[^k3]
 
-Yaşadığı on yıldaki siyasi dalga için ayrı bir kayıt tutulur.[^k2] O dalga
-[1848 Devrimleri](/olay/1848-devrimleri/) dosyasında ele alınıyor.
+Manifesto'ya göre modern çağ sınıf karşıtlıklarını sadeleştirmiş, toplumu
+giderek iki büyük düşman kampa — burjuvazi ile proletarya — bölmüştür.[^k3]
+Burjuvazi bu anlatıda çifte rol oynar: üretim araçlarını durmadan
+devrimcileştiren, görülmemiş bir üretici güç açığa çıkaran, ama kendi mezar
+kazıcısı olacak sınıfı da bizzat yaratan bir güç.[^k3] Marx kendi konumunu,
+Fourier, Saint-Simon ve Owen çizgisine bağladığı ütopyacı sosyalizmden bilinçle
+ayırıyordu: ona göre sosyalizmi getirecek olan iyi niyetli toplum tasarımları
+değil, tarihin gerçek hareketi ve sınıf mücadelesidir.[^k1] Devrimlerin
+yenilgisi Marx'ı sokaktan çalışma masasına döndürdü; sınıf mücadelesi kavramı
+ise sonraki bütün eserlerinin siyasal omurgası olarak kaldı.[^k1]
 
-Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde
-böyle bir bağ belirtilmemiştir.[^k1][^k2]
+## Artı-değer ve Kapital
 
-## Bu dosyanın sınırı
+İktisadi çözümlemesinin başyapıtı olan Kapital'in birinci cildi 1867'de
+yayımlandı.[^k4][^k7] Çözümleme, Smith ve Ricardo'dan devralınan emek-değer
+kuramı üzerine kurulur: bir metanın değerini, onu üretmek için toplumsal olarak
+gerekli emek zamanı belirler.[^k1]
 
-Artı değer kuramı, sınıf mücadelesi, ideoloji anlatısı ve devlet kuramı burada
-ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak
-işler.[^k1]
+Özgün katkı artı-değer kavramıdır. İşçinin kapitaliste sattığı şey emeği değil
+emek gücüdür; işçiyi yaşatmanın maliyeti ile o gücün üretimde yarattığı değer
+arasındaki fark, artı-değer olarak sermayeye kalır.[^k1][^k7] Marx bu farkı emeğin
+sömürülmesi olarak okur: kârın nihai kaynağı ödenmemiş emektir.[^k1][^k7]
+Kitabın ilk büyük okur yankısı beklenmedik bir yerden geldi: Rusça çevirisine
+talep, kısa sürede 3.000 kopyalık bir basıma yol açtı.[^k7] İkinci ve üçüncü
+ciltler sağlığında tamamlanmadı; Engels dağınık müsveddeleri derleyip 1885 ve
+1894'te yayımladı.[^k7] Eserin kendisi
+[Kapital](/kaynak/marx-kapital/) dosyasında ele alınıyor.
 
-## Eserine bağ
+## Din eleştirisi
 
-Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: *Kapital*.[^k4] Esere yapılacak her atıf bölüm ya da paragraf numarasıyla
-verilmeli; hangi baskının ve hangi çevirinin kullanıldığı belirtilmelidir.
+Din eleştirisi, 1844'te Paris'te çıkan bir dergide yayımladığı, Hegel'in hukuk
+felsefesinin eleştirisine yazdığı giriş yazısında en keskin ifadesini
+bulur.[^k6] Metin, Almanya için din eleştirisinin esasta tamamlandığını ve din
+eleştirisinin her eleştirinin ön koşulu olduğunu söyleyerek açılır; din orada
+gerçek ıstırabın hem ifadesi hem de ona karşı protesto, ezilen yaratığın iç
+çekişi ve kalpsiz bir dünyanın kalbi diye tarif edilir — "halkın
+afyonu"dur.[^k6] Amaç dinle polemik değildir: eleştirinin asıl hedefi,
+insanları yanılsamaya muhtaç bırakan koşulların kendisidir.[^k6] Marx'a göre
+din, maddi hayattaki yabancılaşmaya bir cevaptır ve o hayat özgürleşmedikçe
+ortadan kalkmaz; göğün eleştirisi böylece yerin, ilahiyatın eleştirisi
+siyasetin eleştirisine dönüşür.[^k1][^k6]
+
+## Engels'le ortaklık
+
+Engels'le 1844'te başlayan ortaklık, düşünce tarihinin en uzun soluklu ortak
+yazarlıklarından biridir.[^k7] 1845-46'da birlikte yazdıkları *Alman
+İdeolojisi* tarih kuramının ilk geniş taslağını içerir; metin sağlıklarında
+yayımcı bulamadı.[^k1][^k7] Aynı dönemin kısa notlarından oluşan *Feuerbach
+Üzerine Tezler*'in en bilineni on birinci tezdir: "Filozoflar dünyayı yalnızca
+çeşitli biçimlerde yorumladılar; asıl olan, onu değiştirmektir."[^k7]
+
+Ortaklık yazıyla sınırlı kalmadı: Manifesto iki adı birlikte taşır ve Kapital'i
+tamamlayan iki cildi, Marx'ın ölümünden sonra onun müsveddelerinden Engels
+derledi.[^k7] Marx'ın bugün okunan külliyatının hatırı sayılır bir bölümü, bu
+ortaklığın süzgecinden geçmiş metinlerdir.[^k7]
+
+## Enternasyonal ve yüzyıl sonrası
+
+Örgütçülüğü yazarlığına eşlik etti: 1864'te Londra'da kurulan Uluslararası
+İşçi Birliği'nin — Birinci Enternasyonal — önde gelen isimlerinden biri
+oldu.[^k7] Etkinin asıl ölçeği ise ölümünden sonra ortaya çıktı: özellikle
+1917 Rus Devrimi'nin ardından adına bağlanan rejimler ve hareketler dünya
+siyasetini yüzyıl boyunca biçimlendirdi.[^k7] Etki rejimlerle sınırlı da
+değildir: Durkheim ve Max Weber ile birlikte modern sosyolojinin kurucu
+mimarlarından sayılır; sınıf, ideoloji ve sermaye kavramları sosyal bilimlerin
+ortak sözlüğüne onun elinden geçerek girdi.[^k7]
+
+## Eleştiriler ve açık uçlar
+
+Bu etkiye baştan beri güçlü itirazlar eşlik eder ve itirazların bir bölümü
+kuramın merkezine yönelir. En görüneni öngörü sorunudur: kurama göre
+komünizmin gelişi öngörülebilir olmalıdır, oysa kuramı geliştirmek için
+önerilen en iyi model olan evrimsel biyoloji tam da uzun vadeli öngörüye izin
+vermez; yorumcunun önündeki ikilem, ya açıklama modelinden ya öngörü
+iddiasından vazgeçmektir.[^k1] Beklenen devrimlerin ve çöküşün
+gerçekleşmemesi, bu kuramsal gerilimi tarihsel bir sınav sorusuna çevirdi.[^k1]
+
+Emek-değer kuramı da ağır yük altındadır. Değerlerin fiyatlara dönüştürülmesi
+sorununda Marx'ın kendi çözümü teknik güçlüklerle maluldür; Robert Nozick,
+kuram çürükse sömürü çözümlemesinin de çökeceğini savunmuş, buna karşılık
+sömürünün sezgisel çekirdeğinin emek-değer kuramından bağımsız olarak
+kurtarılabileceğini ileri sürenler olmuştur.[^k1] Belirlenimcilik itirazı da
+buna eklenir: şemanın tarihi tek hatlı bir zorunluluk gibi okuması hem metne
+sadakat hem siyasal sonuçları bakımından sorgulanmış, yorumcular üstyapının
+geri etkisine alan açan alternatif okumalar geliştirmiştir.[^k1] Ahlaki
+eleştirinin Marx'ın kapitalizm eleştirisindeki rolü ise çok tartışılmıştır ve
+bu konularda yerleşik bir bilimsel uzlaşı yoktur.[^k1]
+
+Öngörülerinin aşınması ile çözümleyici kavramlarının kalıcılığı arasındaki bu
+açıklık yüzünden Marx okuması bugün de kapanmış değildir.[^k1] Kavramlarının
+sonraki kuşaklardaki yolculuğu [kapitalizm](/kavram/kapitalizm/) ve
+[ilkel birikim](/kavram/ilkel-birikim/) dosyalarında sürüyor.

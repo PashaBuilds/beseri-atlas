@@ -1,0 +1,631 @@
+{
+  "id": "aktor-cahokia",
+  "govde_hash": "7ce3a82fbc36",
+  "commit": "c9a3451",
+  "zaman": "2026-08-28",
+  "hakem": "kor-hakem-2026-08-28",
+  "iddialar": [
+    {
+      "iddia_id": "c01",
+      "cumle": "Louis'nin tam karşısında kurulmuş bir kentti; 1050 dolayında köy ölçeğinden kent ölçeğine sıçradı ve 1350'ye doğru terk edildi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem dogruladi: existed c. 1050-1350 AD wiki metninde"
+    },
+    {
+      "iddia_id": "c02",
+      "cumle": "En geniş döneminde yaklaşık on altı kilometrekareye yayılıyor, aralarında Monks Mound'un da bulunduğu yüz yirmi dolayında toprak höyüğü, düzenlenmiş meydanları ve binlerce ahşap evi barındırıyordu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "16 km2 ve 120 hoyuk wiki metninde acikca gecer"
+    },
+    {
+      "iddia_id": "c03",
+      "cumle": "Bu ölçek kıtanın kuzeyinde tekti: Cahokia, orta ve güneydoğu bölgelere yayılan Mississippi kültürünün en büyük ve en etkili yerleşimiydi ve bugün de Meksika'daki büyük kentlerin kuzeyinde kalan en büyük, en karmaşık arkeolojik alan sayılır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem dogruladi: largest and most complex archaeological site north of the great pre-Columbian cities in Mexico"
+    },
+    {
+      "iddia_id": "c04",
+      "cumle": "Timothy Pauketat'ın anlatımıyla burası \"Mississippi kıyısındaki büyük kent\"tir; kuzeyde onunla karşılaştırılabilecek ikinci bir örnek yoktur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kitap basligi katalog kaydinda aynen; kuzeyde essiz oldugu yargisi kayitta yok, k1 ile uyumlu"
+    },
+    {
+      "iddia_id": "c05",
+      "cumle": "Kent yazı bırakmadı; kurucularının kendilerine ve kentlerine ne dedikleri bilinmiyor, bugün taşıdığı ad ise yüzyıllar sonra bölgeye gelen başka bir topluluktan alınmadır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: inhabitants left no written records; original name is unknown"
+    },
+    {
+      "iddia_id": "c06",
+      "cumle": "Bu iki bilinmeyen, Cahokia'yı yalnızca kıtanın en büyük yerleşimi değil, höyükleri kimin kurduğu sorusu etrafında yüz yılı aşkın süren bir tartışmanın da merkezi yapmıştır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Moorehead: Discussion began with reference to Cahokia more than one hundred years ago"
+    },
+    {
+      "iddia_id": "c07",
+      "cumle": "Arkeolojik dizilim 1050 dolayında ani bir dönüşüm kaydeder: köyler birleşti, dışarıdan sürekli göç geldi ve merkez, Grand Plaza denen büyük meydanın çevresinde tek bir plana göre yeniden düzenlendi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem dogruladi: Big Bang, uc kentsel bolge ayni anda kuruldu, ordered city grid along the grand plaza"
+    },
+    {
+      "iddia_id": "c08",
+      "cumle": "Araştırmacılar bu evreye *büyük patlama* der ve kentin ani büyümesini yerel doğumla değil geniş bir bölgeden gelen göçle açıklar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki big bang terimini ve goc aciklamasini dogrudan verir; hakem dogruladi (big bang, immigration as essential contributor)"
+    },
+    {
+      "iddia_id": "c09",
+      "cumle": "Doruk dönemin nüfusu için yaygın tahmin 15-20 bin arasıdır; ama yöntem ve sayılan alan değiştikçe 6 bin ile 40 bin arasında değişen tahminler yayımlanmıştır, çünkü sayı konut yoğunluğundan ve kazılan alanın toplam alana oranından türetilir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: 15-20 bin (doruk) ve 6-40 bin arkeolog tahmin araligi"
+    },
+    {
+      "iddia_id": "c10",
+      "cumle": "En yüksek tahminler doğruysa Amerika Birleşik Devletleri'nde bu nüfusu aşan bir kent ancak 1780'lerde, Philadelphia büyüdüğünde ortaya çıkmıştır; yalnız bu karşılaştırma, iki yakada iki ayrı yöntemle üretilmiş sayıları yan yana koyduğu için ihtiyatla okunmalıdır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Philadelphia/1780ler karsilastirmasi wiki metninde; ihtiyat notu yorum"
+    },
+    {
+      "iddia_id": "c11",
+      "cumle": "Büyümeyi taşıyan tarım yalnızca mısıra dayanmıyordu: mısır bölgeye 900 dolayında girmişti, ama yanında kaz ayağı gibi yerli tohum bitkileri de ekiliyordu ve kent merkezinde yaşayanların sofrası dış mahallelere göre daha çeşitli görünüyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Misir ~900, kaz ayagi (goosefoot), merkez-dis beslenme farki wiki metninde"
+    },
+    {
+      "iddia_id": "c12",
+      "cumle": "Kent aynı zamanda geniş bir değişim ağının merkezindeydi: kuzeydeki Büyük Göller bölgesinden bakır, güneydeki körfez kıyısından deniz kabuğu ve Mill Creek çakmaktaşı gibi mallar buraya taşınıyor, burada biçimlenen bakır levhalar ile işlenmiş kabuklar 1250'den sonra Moundville ve Etowah gibi güney merkezlerinde görülüyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bakir, Mill Creek cakmaktasi, kabuk; Moundville/Etowah 1250 sonrasi"
+    },
+    {
+      "iddia_id": "c13",
+      "cumle": "Ağın hediye mi, ticaret mi yoksa haraç düzeni mi olduğu ise nesnelerden ayrıştırılamaz; bir malın uzaktan gelmiş olması, hangi mekanizmayla geldiğini göstermez.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Mekanizma ayristirilamazligi yazarin cikarimi; kaynak ag kanitini verir"
+    },
+    {
+      "iddia_id": "c14",
+      "cumle": "Merkezdeki Monks Mound, tabanı yaklaşık beş buçuk hektar tutan, otuz metre yükselen ve sepetlerle taşınmış toprağın evreler halinde üst üste eklenmesiyle yükseltilmiş, kıtanın kuzey yarısındaki en büyük toprak yapıdır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "14 akre ~5,7 ha; 100 ft ~30 m; evreli insa wiki metninde"
+    },
+    {
+      "iddia_id": "c15",
+      "cumle": "Tepesinde kentin her yerinden görülebilen büyük bir ahşap yapı duruyordu; tapınak ya da baş yöneticinin konutu olduğu düşünülür, ama içinde ne konuşulduğunu söyleyecek tek satır kayıt yoktur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tepe yapisi ve tapinak/yonetici konutu yorumu wiki metninde"
+    },
+    {
+      "iddia_id": "c16",
+      "cumle": "Kent rastgele büyümedi; höyüklerin, meydanların ve yolların doğu-batı ekseni üzerinde hizalanması kuşaklar boyunca korunan bir planı gösterir ve bu, için yapılan çıkarımın aynısına izin verir: planı sürdüren bir otorite vardı, ama o otoritenin biçimi nesnelerden okunamıyor.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Dogu-bati ekseni hizasi wiki metninde; otorite cikarimi yorumdur"
+    },
+    {
+      "iddia_id": "c17",
+      "cumle": "Höyüğün bugünkü adı bile kentin değil sonrakilerin tarihindendir: 1809 dolayında alanda bir grup Trappist keşişi yaşadığı için en büyük höyük Keşişler Höyüğü diye anıldı ve bu ad yerleşti.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Trappist kesisleri ~1809 ve adlandirma wiki metninde"
+    },
+    {
+      "iddia_id": "c18",
+      "cumle": "Monks Mound'un batısında Woodhenge denen ahşap direk çemberleri bulundu; ilk izler, 1960'ların başında otoyol inşaatı öncesinde yürütülen kurtarma kazısında Warren Wittry'nin fark ettiği sıra dışı direk çukurlarıydı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wittry, 1960lar kurtarma kazisi wiki metninde"
+    },
+    {
+      "iddia_id": "c19",
+      "cumle": "Sonraki kazılar beş ayrı çemberi doğruladı; çemberlerin gün doğumu gözlemiyle, ekinoks ve gündönümü hizalarıyla ilişkili olduğu düşünülür ve 1985'te üçüncü çember, direkler özgün çukurlarına dikilerek yeniden kuruldu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bes cember, ekinoks/gundonumu, 1985 rekonstruksiyonu wiki metninde"
+    },
+    {
+      "iddia_id": "c20",
+      "cumle": "Kentin güneyindeki Mound 72'de arkeologlar 270 dolayında bireyin kalıntısını ortaya çıkardı; aralarında, on bin dolayında deniz kabuğu boncuğunun bir doğan biçiminde dizildiği yatak üzerine yatırılmış, *boncuklu gömü* diye bilinen mezar da vardır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem dogruladi: about 270 individuals; a bed of 10,000 marine-shell disc beads arranged in the shape of a falcon; beaded burial. Metindeki 'on binden fazla' hakem tarafindan 'on bin dolayinda'ya cekildi (kaynak 10.000 der)"
+    },
+    {
+      "iddia_id": "c21",
+      "cumle": "İskeletlerin önemli bir bölümünün kurban edildiği düşünülür; elleri ve kafatasları alınmış genç erkekler, iki kat halinde dizilmiş elliyi aşkın genç kadından oluşan bir toplu mezar ve şiddet izleri taşıyan gömüler kayda geçmiştir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kurban yorumu, elsiz/kafatassiz erkekler, 50+ kadinli toplu mezar wiki metninde"
+    },
+    {
+      "iddia_id": "c22",
+      "cumle": "Bu gömüler keskin bir hiyerarşinin ve örgütlü şiddetin doğrudan kanıtıdır; ama gömülenlerin kim olduğunu, hangi gerekçeyle ve hangi törensel çerçeve içinde öldürüldüklerini nesneler tek başına söylemez.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kanit siniri yazarin cikarimi"
+    },
+    {
+      "iddia_id": "c23",
+      "cumle": "Mound 72'nin bulunuşu, kent hakkındaki modern sentezlerin de dönüm noktaları arasındadır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog kaydindaki bolum basligi Discovery at Mound 72 kitabin konumunu gosterir"
+    },
+    {
+      "iddia_id": "c24",
+      "cumle": "Louis kesimindeki büyük bir yerleşim bölümü yandı ve 1175 dolayında merkezin çevresine ilk ahşap savunma duvarı dikildi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1160-1170 yangini ve ~1175 palisadi wiki metninde"
+    },
+    {
+      "iddia_id": "c25",
+      "cumle": "On üçüncü yüzyılın ortasında nüfus en az yarıya inmişti; 1350 dolayında kent terk edildi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem dogruladi: 13. yy ortasinda decreased by half if not more; by 1350 CE the city was abandoned"
+    },
+    {
+      "iddia_id": "c26",
+      "cumle": "Boşalma kentle sınırlı kalmadı; araştırmacıların *Boş Çeyrek* dediği geniş bir bölge aynı dönemde nüfusunu yitirdi ve 1400 ile 1600 arasında ne kentte ne yakın çevresinde kayda değer yerleşim izine rastlanır; 2020'de yayımlanan bulgular ise daha geniş havzada 1400'teki dip noktadan sonra yavaş bir nüfus toparlanmasına işaret eder.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem dogruladi: no settlement of any substantial kind at Cahokia nor in the wider region from 1400 to 1600 CE; ayni kaynaktaki 2020 nufus toparlanmasi (minimum 1400, maksimum 1650) kaydi hakem tarafindan metne eklendi"
+    },
+    {
+      "iddia_id": "c27",
+      "cumle": "Öne sürülen nedenler arasında çevresel bozulma, iklim dalgalanması, kaynak baskısı ve içeriden ya da dışarıdan çatışma vardır; eldeki bulgular birden çok açıklamayla uyumludur ve hiçbir aday tek başına gösterilebilmiş değildir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Neden adaylari wiki metninde; hicbirinin kanitlanmadigi da"
+    },
+    {
+      "iddia_id": "c28",
+      "cumle": "Bugünkü ad on yedinci yüzyıldan gelir: Fransız kaşifler bölgeye vardığında burada Illinois Konfederasyonu'na bağlı Illiniwek topluluklarından Cahokia halkı yaşıyordu ve höyükler onların adıyla kaydedildi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Illiniwek/Illinois Konfederasyonu ve adlandirma wiki metninde"
+    },
+    {
+      "iddia_id": "c29",
+      "cumle": "Cahokia halkı bölgeye kentin terk edilişinden yüzyıllar sonra gelmişti; ad, kuruculardan değil sonraki komşulardan kalmadır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: not necessarily descended; terkten yuzyillar sonra gelis"
+    },
+    {
+      "iddia_id": "c30",
+      "cumle": "Adı verenlerin sonradan gelmiş olması kentin torunsuz kaldığı anlamına gelmez: güncel arkeoloji ve sözlü gelenekler kenti bugünün yerli topluluklarına, özellikle Dhegiha kolundan Siouan dilli halklara bağlar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: Dhegiha Siouan; city is the heritage of many contemporary Native American communities"
+    },
+    {
+      "iddia_id": "c31",
+      "cumle": "Ponca sözlü geleneği ataların Cahokia'da geçirdiği dönemi anlatır ve kenti *P’ahé’žíde*, yani kızıl tepe adıyla anar; Osage başta olmak üzere bu topluluklar höyükleri kendi miraslarının parçası sayar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ponca sozlu gelenegi ve Pahezide (red hill) wiki metninde"
+    },
+    {
+      "iddia_id": "c32",
+      "cumle": "Louis yakasında ayakta kalan son Mississippi dönemi höyüklerinden Sugarloaf Mound'u satın alarak korumaya almıştır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Osage Ulusunun Sugarloaf Mound alimi wiki metninde"
+    },
+    {
+      "iddia_id": "c33",
+      "cumle": "Alan yerli topluluklar için kutsal yer olmayı sürdürüyor ve tören ile dans için ziyaret ediliyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Toren ve dans icin ziyaret wiki metninde"
+    },
+    {
+      "iddia_id": "c34",
+      "cumle": "Bu bağın bugün kurulabilmesi bir tarih yazımı onarımıdır; çünkü on dokuzuncu yüzyılın büyük bölümünde höyükler, yerli halklarla ilişkisi olmayan hayali bir topluluğa yakıştırılıyordu.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Efsanenin varligini k3 belgeler; onarim cercevesi yorumdur"
+    },
+    {
+      "iddia_id": "c35",
+      "cumle": "Höyükleri ayrıntısıyla anlatan ilk gözlemcilerden Brackenridge, 1811 sonbaharında alanı gezdi; mezar ve höyük yoğunluğuna bakarak burada bir zamanlar çok kalabalık bir nüfusun yaşadığı sonucuna vardı ve yapıları Galli ya da İskandinav göçmenlere bağlayan söylentileri reddedip kazıklı köy geleneğini kıtanın kendi halklarına bağladı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hakem olctu: 400k fetch penceresi icinde yalnizca alakasiz bir Cahokias (kabile listesi) gecisi var; hoyuk betimlemesi, kalabalik nufus cikarimi ve Galli/Iskandinav reddi pencere DISINDA (monk, pyramid, Welsh, Wales, Madoc, Danes, teocalli: bulunamadi). Kunye notu da ayni siniri kaydeder; destek bu yuzden kismiye cekildi. Icerik donem yazini ile uyumlu, curutucu kanit yok"
+    },
+    {
+      "iddia_id": "c36",
+      "cumle": "On dokuzuncu yüzyılın büyük bölümünde ağır basan görüş yine de tersiydi: 1848'de yayımlanan ve vadideki höyüklerin ilk sistemli ölçümlerini içeren Squier ile Davis'in çalışması, ölçümdeki titizliğine karşın, yapıları yerli halklardan ayrı bir \"höyük kurucular\" topluluğuna yormaya eğilimliydi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "1848 ve eser kimligi katalog kaydinda; yorum egilimi nitelemesi kayit metninde yok, donem yazini ile uyumlu"
+    },
+    {
+      "iddia_id": "c37",
+      "cumle": "Varsayımın işlevi görmezden gelinemez; yerlilerin böyle yapılar kuramayacağı kabulü, onların topraklarından çıkarıldığı yıllarda bu toprağın onlara ait olmadığı sonucunu kolaylaştırıyordu.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wiki topragin gasbi ile hoyuk sahipligi arasindaki iliskiyi kurar; islev cikarimi yorumdur"
+    },
+    {
+      "iddia_id": "c38",
+      "cumle": "Efsaneyi on dokuzuncu yüzyılın sonunda Smithsonian'a bağlı Etnoloji Bürosu'nun araştırmaları çürüttü: Cyrus Thomas, höyük kuruculardan tarihsel yerli halklara \"kırılmayan bir zincir\" uzandığını, kayıp bir ırk teorisinin girebileceği boşluk kalmadığını yazdı ve bu zincirin halkaları arasında Cahokia çevresindeki buluntuları da saydı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "unbroken chain, lost race ve Cahokia grubu gecisleri Gutenberg tam metninde"
+    },
+    {
+      "iddia_id": "c39",
+      "cumle": "Geriye kalan son şüphe höyüklerin insan yapımı olup olmadığıydı; kimi jeologlar Monks Mound'un doğal bir kalıntı tepe olduğunu savunuyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Moorehead: opinion of several geologists that it might be natural"
+    },
+    {
+      "iddia_id": "c40",
+      "cumle": "Moorehead'in 1921'de başlayıp yıllara yayılan kazıları, dolgunun derinliklerinde çanak çömlek parçaları, çakmaktaşı yongaları ve okyanus kabukları bularak yapıların insan eliyle yığıldığını gösterdi ve tartışmayı kapattı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Moorehead: pottery, flint chips, charcoal, oceanic shells establishes the human origin"
+    },
+    {
+      "iddia_id": "c41",
+      "cumle": "Cahokia yazı bırakmadı; yöneticilerinin adları, kararların sırası ve düzenin kendini nasıl gerekçelendirdiği bu yüzden cevapsız sorulardır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wiki: left no written records beyond symbols"
+    },
+    {
+      "iddia_id": "c42",
+      "cumle": "Höyükler ile gömüler örgütlü bir otoritenin varlığını gösterir ama biçimini göstermez; hangi soruya cevap verebildiğinin en saf örneklerinden biri buradadır ve aynı sınır ya da gibi yazısız düzenlerde başka yönlerden görülür.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kanit turu cikarimi; ic baglantilar aparattir"
+    },
+    {
+      "iddia_id": "c43",
+      "cumle": "Höyükleri kimin kurduğu sorusunun cevabı iki kez değişti: önce hayali bir kayıp ırka verildi, sonra kanıt yerli halkların atalarını gösterdi; değişen höyükler değil, bakanların varsayımlarıydı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki degisimin kaydi k3 metninden izlenir; cerceve yorumdur"
+    },
+    {
+      "iddia_id": "c44",
+      "cumle": "Höyükler bugün, onları kuranların mirasçısı sayılan toplulukların da katıldığı bir bakımla ayakta duruyor ve kıtanın en büyük kenti şunun örneği olarak duruyor: bir düzen hakkında ne bilinebileceğini ölçeği değil, sürdürdüğü kayıt pratiği belirler.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kapanis tezi yazarin olcumu; hakem 'kuranlarin torunlari' ifadesini 'mirascisi sayilan topluluklar'a yumusatti (wiki: heritage of many contemporary Native American communities)"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 32,
+    "kismi": 8,
+    "desteksiz": 0,
+    "olculemez": 4
+  }
+}

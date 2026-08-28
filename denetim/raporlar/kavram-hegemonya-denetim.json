@@ -1,63 +1,147 @@
 {
   "id": "kavram-hegemonya",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:25.454Z",
-  "govde_hash": "4450497c6b47",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T19:39:03.779Z",
+  "govde_hash": "0c7a73b474ca",
+  "commit": "c9a3451",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl.",
+      "iddia": "Hegemonya, bir devletin ya da toplumsal bir grubun ötekiler üzerindeki üstünlüğünü, önderliğinin kabul edilmesine dayanarak kurup sürdürmesidir; sözcük, Yunanca",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yunanca"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Uluslararası ilişkiler yazınında şu çizgiyle ayrılır: hegemon, öteki devletlerin dış ilişkilerini yönlendirir ama iç işlerini yönetmez.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak siyaset bilimi, uluslararası ilişkiler ile medya ve iletişim çalışmaları için ayrı bölümler tutar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Antik Yunan'da bir ittifakın önderliğini yürüten devletin unvanıydı; Antonio Gramsci'nin elinde yönetici sınıfın rıza ile zoru birleştiren egemenlik biçiminin a",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Antik Yunan'da bir ittifakın önderliğini yürüten devletin unvanıydı; Antonio Gramsci'nin elinde yönetici sınıfın rıza ile zoru birleştiren egemenlik biçiminin a",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Aynı terimin üç ayrı disiplinde ayrı ayrı işlenmesi, atlasın şu kuralının dayanağıdır: bu dosyada hegemonya, hangi disiplinin anlamında kullanıldığı belirtilmed",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Filip ise MÖ 337'de kurdurduğu Korint Birliği'nin hegemonuydu.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, kültürel hegemonya kuramcısı olarak Antonio Gramsci'yi anar ve yaşam tarihlerini 1891-1937 olarak verir; aynı bölümde NATO ülkelerinin küresel askerî ha",
+      "anahtar": "k4",
+      "iddia": ", Atinalıların bu önderliği müttefiklerin kendi istekleriyle devraldığını yazar; kullandığı sözcük hegemonia'dır ve fethedilmiş bir egemenlikten çok kabul görmü",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Atinalıların"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Antonio Gramsci (1891-1937), İtalyan Komünist Partisi'nin başındayken 1926'da Mussolini rejimince tutuklandı; Hapishane Defterleri'ni 1929-1935 arasında, hücres",
       "durum": "OK",
       "not": "8 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak tarihsel örnekler olarak Alman İmparatorluğu'nun (1871-1918) askerî ve kültürel bakımdan baskın eyaleti Prusya'yı ve Fransız Konsüllüğü (1799-1804) üzeri",
-      "durum": "OK",
-      "not": "5 atom doğrulandı; 4 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir kavramın ansiklopedi maddesinde hem bir kuramcının yaşam tarihlerinin hem güncel harcama yüzdelerinin bulunması, kavramın tarihsel ve çağdaş kullanımlarının",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
       "anahtar": "k2",
-      "iddia": "Yakın bir kavram için tutulan kayıt, merkez, çevre ve yarı çevre terimlerini ayrı ayrı tanımlar.",
+      "iddia": "Defterlerde hegemonya, yönetici sınıfın kendini topluma düşünsel ve ahlaki önderlik yoluyla kabul ettirme sürecinin adıdır: gelişmiş kapitalist devletlerde egem",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Kültürel hegemonya tartışmasının bağlı olduğu gelenek için tutulan kayıt ise, ideoloji anlatısı ile sınıflara bölünmüş toplumların istikrarını açıklamaya çalışa",
+      "iddia": "Rıza ile zor bu kurguda iki ayrı madde olarak yan yana durur: bir yanda kitlelerin, egemen grubun toplumsal hayata verdiği yöne gösterdiği kendiliğinden rıza; ö",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aydınlar da bu düzenekte egemen grubun toplumsal hegemonya ile siyasal yönetim işlevlerini yürüten görevlileridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Defterler yazarının sağlığında yayımlanmadı: İtalya'da 1948-1951 arasında altı tematik cilt olarak, İngilizcede 1971'de Selections from the Prison Notebooks seç",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "On dokuzuncu yüzyılın tarih yazımında sözcüğün anlamı, bir ülkenin öteki ülkeler üzerindeki baskınlığına genişledi.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Tarihsel örneklerin ayrıntısı, disiplin içi tanımlar ve kültürel hegemonya tartışması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölüml",
+      "iddia": "Uluslararası ilişkiler bu anlamı devraldı ve en görünür önermesini hegemonik istikrar kuramında buldu: istikrarlı bir uluslararası siyasi ve iktisadi düzenin ku",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuram 1970'lerde Robert Gilpin ve Stephen Krasner gibi adlarca geliştirildi; arka planında Charles Kindleberger'in iki savaş arası buhranını konu alan The World",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kuram 1970'lerde Robert Gilpin ve Stephen Krasner gibi adlarca geliştirildi; arka planında Charles Kindleberger'in iki savaş arası buhranını konu alan The World",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu katmanın alışıldık örnekleri de bellidir: on dokuzuncu yüzyıl için Britanya, yirminci yüzyıl için Birleşik Devletler anılır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramın bu katmandaki ağırlığını dönemin sayıları da gösterir: 2009 verileriyle NATO ülkeleri küresel askeri harcamanın yüzde 70'inden fazlasını karşılıyor, ya",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuram hem kavramsal hem görgül gerekçelerle eleştirildi: Robert Keohane, önermelerinin gereksiz yinelemeler olduğunu ve öngörü üretmediğini savundu; hegemonun g",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı sözcük ittifak önderliğinden sınıf egemenliğine ve dünya düzenine taşınır; bu genişlemenin kavramı nerede ölçüsüzleştirdiği açık bir tartışmadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı sözcük ittifak önderliğinden sınıf egemenliğine ve dünya düzenine taşınır; bu genişlemenin kavramı nerede ölçüsüzleştirdiği açık bir tartışmadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Hapishane Defterleri parçalı metinlerdir, karşıt vurgulara açıktır ve taşıdıkları anlam, yayımlandıkları her ortamın kendi kaygılarıyla yeniden biçimlenmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Defterleri"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kültür ve üstyapı üzerindeki yoğunlaşması, Gramsci'yi iktisadi koşullardan ve zordan çok ideolojik engellerle ilgilenen bir Batılı Marksist sayan okumalar doğur",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Oysa Defterlerin kendi kurgusunda rıza, zorun karşısına değil yanına konmuştur: zor aygıtı, kendiliğinden rızanın çözüldüğü anlar için hazırda bekletilir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Defterlerin"
     }
   ]
 }

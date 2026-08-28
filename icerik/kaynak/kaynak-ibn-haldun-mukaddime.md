@@ -112,14 +112,10 @@ tarihçi [Fernand Braudel](/dusunur/braudel/) dosyasında ele alınıyor.
 Atlas iki yaklaşım arasında bir öncüllük bağı kurmaz; kullanılan kaynak
 bölümlerinde böyle bir bağ belirtilmemiştir.[^k1][^k3]
 
-## Okuma yönlendirmesi
-
-Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir
-ansiklopedi maddesidir.[^k1] Eserin kendisi kamu malıdır; hangi neşrin ve hangi
-çevirinin kullanıldığı her aktarımda belirtilmelidir.
-
 ## Metne bağ
 
-Bu dosya eserin kamu malı tam metnine bağlanır: *Mukaddime*.[^k4] Esere yapılacak
-her atıf bölüm ya da paragraf numarasıyla verilmeli; hangi baskının ve hangi
-çevirinin kullanıldığı belirtilmelidir.
+Künye, eserin kamu malı Arapça tam metnine bağlanır.[^k4] Eser hakkındaki
+çerçeve ise bir ansiklopedi maddesinden gelir.[^k1] Esere yapılacak her
+atıf bölüm ya da paragraf numarasıyla verilmeli; hangi neşrin ve hangi
+çevirinin kullanıldığı belirtilmelidir — Türkçe ve İngilizce çeviriler
+arasında terim seçimleri kayda değer ölçüde ayrışır.

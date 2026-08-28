@@ -26,6 +26,7 @@ ilgili:
   - aktor-indus-vadisi
   - kaynak-hammurabi-kanunlari
   - kaynak-gilgamis-destani
+  - aktor-kus-kralligi
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi
