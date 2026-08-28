@@ -113,604 +113,355 @@ kaynaklar:
     erisim_tarihi: 2026-08-28
     dogrulama_dizesi: "OUTLINES OF CHINESE HISTORY"
     not: "Tang bolumleri XIX-XXI; hanedanin 618 kurulusu ve 907 sonu metinde acikca yer alir"
-son_denetim: 2026-08-26
+son_denetim: 2026-08-29
 denetim_durumu: onaylandi
-onarim_turu: 0
+onarim_turu: 1
 ---
 
 Bu dönemin ayırt edici özelliği, üç büyük siyasi merkezin aynı yüzyıllarda
-kurulmasıdır: Abbasi hanedanı 750'de,[^k1] Tang 618'de,[^k6] Karolenj imparator
-unvanı ise 800'de.[^k2] Aşağıdaki beş bölüm, bütün dönem makalelerinde olduğu
-gibi aynı sırayla okunur.
+kurulmasıdır. Abbasi hanedanı 750'de iktidara geldi.[^k1] Tang 618'den beri
+Çin'i yönetiyordu.[^k6] Batı Avrupa'da imparator unvanı 800'de diriltildi.[^k2]
+Aşağıdaki beş bölüm, bütün dönem makalelerinde olduğu gibi aynı sırayla okunur.
 
 ## Aynı anda dünyada
 
-**İslam dünyası.** Râşidîn ve Emevî hilafetleri Roma topraklarının güney kısmını
-fethetti.[^k2] Ardından gelen Abbasi hanedanı, adını Hz. Muhammed'in amcası Abbas
-b. Abdülmuttalib b. Hâşim'den alır ve 750 ile 1258 yılları arasında hüküm
-sürmüştür; ilk atalarına nispetle bu hanedana Hâşimîler de denilmiştir.[^k1]
+**İslam dünyası.** Râşidîn ve Emevî hilafetleri, Roma topraklarının güney
+kısmını fethetti.[^k2] Emevîler zamanında imparatorluğun sınırları Türkistan
+içlerinden Pirene dağlarına, Kafkaslar'dan Hint Okyanusu'na ve Büyük Sahrâ
+içlerine kadar uzanıyordu.[^k1] Ardından gelen Abbasi hanedanı, adını Hz.
+Muhammed'in amcası Abbas b. Abdülmuttalib b. Hâşim'den alır ve 750 ile 1258
+yılları arasında hüküm sürmüştür; ilk atalarına nispetle bu hanedana Hâşimîler
+de denilmiştir.[^k1]
 
 **Avrupa.** Dönemin Avrupa'daki anahtar olayları arasında Müslümanların İber
-Yarımadası'nı fethi, Şarlman'ın taç giymesi, Viking yayılması, Macar istilaları ve
-Kutsal Roma İmparatorluğu'nun kuruluşu sayılır.[^k2] 800 yılında imparator unvanı
-Batı Avrupa'da Şarlman ile yeniden canlandırıldı; onun Karolenj İmparatorluğu
-sonraki Avrupa toplumsal yapısını, sanatlarını, kültürünü ve tarihini büyük ölçüde
-etkiledi.[^k2] Doğuda ise 867'de Makedon hanedanının yükselişi, siyasi ve dinî
-çalkantı döneminin sonunu işaret etti ve imparatorluğa yeni bir altın çağ
-getirdi.[^k2]
+Yarımadası'nı fethi, Şarlman'ın taç giymesi, Viking yayılması, Macar istilaları
+ve Kutsal Roma İmparatorluğu'nun kuruluşu sayılır.[^k2] 800 yılının Noel
+gününde papalık eliyle Şarlman'a imparator tacı giydirildi; taç, Batı
+Avrupa'da yüzyıllardır boş duran bir unvanı yeniden diriltiyordu.[^k2] Doğuda
+ise 867'de Makedon hanedanının yükselişi, siyasi ve dinî çalkantı döneminin
+sonunu işaret etti ve imparatorluğa yeni bir altın çağ getirdi.[^k2]
 
-**Doğu Asya.** Tang, 618-907 arasında hüküm süren Çin imparatorluk
-hanedanıdır; başkenti dönemin büyük bölümünde Chang'an'dı.[^k6] Resmî dili
-Orta Çince'ydi; çoğunluk dinleri Çin Budizmi, Taoizm ve Çin halk dini,
-azınlık dinleri ise Nasturi Hristiyanlığı, Çin Maniheizmi, Zerdüştlük ve
-İslam'dı.[^k3]
+**Doğu Asya.** Sui hanedanı 618'de dağıldığında Chang'an'da imparator ilan
+edilen Li Yuan, hanedanına Tang adını verdi; taht iddiasındaki on bir kadar
+rakibin tasfiyesinden sonra hanedan Çin'i 907'ye kadar yönetti.[^k6] Başkent
+Chang'an, dönem boyunca sınav adaylarının, keşişlerin ve kervanların aktığı
+bir çekim merkeziydi.
 
 **Güney Asya ve Afrika.** Kuzey Afrika bu dönemde Roma düzeninden çıkıp İslam
 siyasi coğrafyasının parçası hâline geldi.[^k2] Güney Asya ise Abbasi ticaret
-sistemine bağlanan uçlardan biri olarak dolaylı biçimde bu dünyaya dahil oldu.
-
-**Bu bölümün sınırı.** Kullanılan kaynaklar İslam dünyasını, Avrupa'yı ve Doğu
-Asya'yı kendi başlıkları altında ele alırken[^k1][^k2][^k3] Güney Asya ile
-Afrika için ayrı bir başlık taşımıyor; bu iki satır diğerlerinden belirgin
-biçimde sığdır ve bu, yorum tercihi değil kaynak kısıtıdır.
+sistemine bağlanan uçlardan biri olarak dolaylı biçimde bu dünyaya dahil
+oldu; elde tutulan kaynaklar üç merkezi kendi başlıkları altında ayrıntılı
+ele alırken bu iki bölgeye ayrı başlık ayırmıyor, satırların sığ kalması
+yorum tercihi değil kaynak kısıtıdır.
 
 ## Maddi taban
 
-Dönemin maddi tabanı, Batı Avrupa'da mütevazı ama gerçek bir teknik ilerlemeyle
-tanımlanır: köylerde demir aletler bulunabiliyordu, su değirmenleri manzaraya
-yayılmıştı ve tarlaya ekilen baklagiller protein açısından zengin bir beslenme
-sağlıyordu.[^k2] Bu üç unsur birlikte, çöküş anlatısının gözden kaçırdığı bir
-zemin oluşturur.
+Dönemin teknik tabanına dair en somut kayıt Bizans'tan gelir: Britannica'nın
+değerlendirmesine göre Bizans toplumunun teknik tabanı çağdaşı Batı
+Avrupa'nınkinden daha ileriydi; köylerde demir aletler bulunabiliyor, su
+değirmenleri manzaraya yayılıyor ve tarlaya ekilen baklagiller protein
+bakımından zengin bir beslenme sağlıyordu.[^k2] Batının tablosu daha yavaştır:
+eski Batı Roma coğrafyası sekizinci yüzyılın sonunda âdemi merkezî ve ezici
+ağırlıkla kırsal bir görünümdeydi.[^k2] Ağır tekerlekli saban ancak onuncu
+yüzyılın sonlarında yayılmaya başladı; Romalıların hafif sabanları kuzey
+Avrupa'nın ağır topraklarında çoğu kez yetersiz kalmıştı.[^k2]
 
 Nüfus tarafında dönem yavaş ama istikrarlı bir büyüme gösterir. Uzun dönemli
 seride dünya nüfusu MS 600'de yaklaşık 271,6 milyon, MS 1000'de yaklaşık 323,5
-milyondur.[^k4] Dört yüzyılda yaklaşık yüzde on dokuzluk bir artış.
+milyondur.[^k4] Dört yüzyılda yaklaşık yüzde on dokuzluk bir artış. Bu eğri
+bölgesel kayıplarla birlikte okunmalıdır: eski Roma coğrafyasında 400 ile 600
+arasında nüfus yüzde 20 daha azalmıştı ve toparlanma bölgeden bölgeye farklı
+hızda geldi.[^k2] Bölgesel salgınlar ve kıtlıklar eğriyi yer yer kesintiye
+uğrattığı için bu dönemin nüfus tahminleri tek sayılar olarak değil geniş
+aralıklar olarak okunmalıdır.
 
 ## Siyasi biçim
 
-Dönemin üç merkezi de aynı sorunu çözmeye çalışır: geniş bir toprağı, hükümdarın
-kişisel ağını aşan bir aygıtla yönetmek. Tang'ın sivil ve askerî idareyi ayrı
-ayrı örgütlemesi bu sorunun kurumsal cevaplarından biridir.[^k3] Verdikleri
-cevaplar farklıdır.
+Dönemin üç merkezi de aynı sorunu çözmeye çalışır — geniş bir toprağı,
+hükümdarın kişisel ağını aşan bir aygıtla yönetmek — ve verdikleri
+cevaplar farklıdır. Tang'ın cevabı sınavdır: edebî kültür memuriyete açılan tek kapıydı ve
+xiucai, mingjing ile jinshi dereceleri için sınavlar düzenli aralıklarla
+Chang'an'da yapılıyordu.[^k6] Taşra elemelerini geçen adaylar ile devlet
+okullarının mezunları bu sınavlara girebiliyordu.[^k6] Düzen Tang icadı da
+değildi; jinshi sınavı 606'da Sui hükümdarı Yangdi'nin saltanatında
+kurulmuştu ve Tang bu mirası devralıp genişletti.[^k6] Sınavın uzun vadeli
+etkisi, görevlerin soydan geçmesini zayıflatmasıdır; hazırlığın uzun ve pahalı
+olması ise katılımı fiilen dar bir tabana sınırlıyordu. Biçimsel olarak açık
+bir seçme düzeni, giriş maliyeti yüksekse fiilen kapalı kalabilir.
 
-Tang'ın cevabı sınav sistemi ve merkezî idaredir; hanedan mutlak monarşi olarak
-sınıflandırılır ve sivil ile askerî idareyi ayrı ayrı örgütler.[^k3] Abbasi'nin
-cevabı hilafet kurumudur — siyasi otoriteyi peygamber soyuna bağlayan bir
-meşruiyet zinciri.[^k1] Karolenj'in cevabı ise imparator unvanının
-diriltilmesidir: Batı Avrupa, kendi siyasi biçimini Roma'nın hafızasından
-türetir.[^k2]
+Abbasi'nin cevabı, siyasi otoriteyi peygamber soyuna bağlayan hilafet kurumu
+ile Bağdat'ta uzmanlaşmış divanlar etrafında örülen bir idaredir: maliyeden
+sorumlu Dîvânü'l-harâc, para basan Dîvânü dâri'd-darb, orduya bakan
+Dîvânü'l-ceyş ve posta ile gizli istihbaratı birlikte yürüten Dîvânü'l-berîd
+bu divanların en önemlileri arasındadır.[^k1] İdare merkeziyetçi bir karakter
+taşıyordu; eyaletler vali ve emîrler eliyle yönetiliyordu.[^k1]
 
-Üç çözümün de ortak yanı, meşruiyeti hükümdarın kişiliğinden başka bir yere —
-sınava, soya ya da unvana — bağlamasıdır.
+Karolenj'in cevabı ise imparator unvanının diriltilmesidir: Batı Avrupa kendi
+siyasi biçimini Roma'nın hafızasından türetti ve saray, sonradan Karolenj
+Rönesansı diye anılan kültürel canlanmanın merkezi oldu.[^k2] Üç çözümün ortak
+yanı, meşruiyeti hükümdarın kişiliğinden başka bir yere — sınava, soya ya da
+unvana — bağlamasıdır.
 
 ## Çatışma
 
-Dönemin çatışma haritası, üç merkezin de sınırlarında yoğunlaşır. Avrupa'da Viking
-yayılması ve Macar istilaları,[^k2] Doğu Asya'da An Lushan isyanı ve onu izleyen
-felaket,[^k3] İslam dünyasında ise hilafetin iç bölünmeleri dönemin belirleyici
-kırılmalarıdır.
+Dönemin çatışma haritası üç merkezin hem sınırlarında hem içinde yoğunlaşır.
+Avrupa'nın yüzyıllarını Viking yayılması ile Macar istilaları biçimlendirdi.[^k2]
+Çin'de belirleyici kırılma, arka arkaya gelen iki büyük iç isyandır; İslam
+dünyasında ise kırılma dış sınırdan değil ordunun kendisinden geldi ve aşağıda
+ayrı ele alınıyor.
 
-An Lushan isyanının Tang tarihindeki yeri dikkat çekicidir: hanedanın kronolojisi
-kuruluş, Wu Zetian'ın gaspı, Xuanzong'un saltanatı, An Lushan isyanı ve felaket,
-yeniden inşa ve toparlanma, hanedanın sonu olarak bölümlenir.[^k3] Yani isyan,
-bir olay değil bir dönemeç olarak sınıflandırılır.
-
+Tang'ın dönemeci An Lushan isyanıdır: Li Ung Bing'in dönemin diliyle "Tartar
+kökenli" diye nitelediği bu komutan imparatorun tam güvenini kazanmış, üç
+sınır kentinin valiliğini aynı anda elinde toplamıştı; başlattığı isyan
+Xuanzong'un saltanatını felaketle bitirdi.[^k6] Hanedanın sonu da bir taşra
+isyanıyla geldi: Shandong'da patlak veren ayaklanma, Huang Chao'nun
+önderliğinde bir salgın gibi ülkeyi sardı.[^k6] İsyan bastırıldıktan sonra
+saf değiştiren komutanlardan Zhu Wen'in 907'de kurduğu Sonraki Liang
+hanedanı, Beş Hanedan devrinin ilkiydi.[^k6] Beş Hanedan
+yılları (907-960), tahtın başarılı generaller arasında el değiştiren bir ödüle
+dönüştüğü bir askerî despotizm dönemi olarak anlatılır.[^k6] İsyan bu yüzden
+tek bir olay değil, hanedan kronolojisini ikiye bölen bir dönemeç olarak
+okunur.
 
 ## Dönem sınırının gerekçesi
 
-Başlangıç, yeni bir siyasi ve dinî düzenin batı Asya'da yerleşmesine
-yakın bir tarihe konmuştur.[^k1] Bitiş, üç merkezin de kendi
-biçimini tamamladığı yıllardır.
+Başlangıç, yeni bir evrensel dinin taşıdığı siyasi düzenin batı Asya'da
+yerleşmesine yakın bir tarihe konmuştur; bu düzenin ilk yüzyılını Râşidîn ve
+Emevî fetihleri, sonrasını Abbasi hilafeti doldurur.[^k1] Bitiş, üç merkezin
+kendi biçimini tamamladığı ya da kapattığı yıllara denk düşer: Çin'de Tang
+907'de bitmiş, ardından gelen parçalanma yeni bir birleşmeye dönmüştü.[^k6]
 
-İki sınır da yaklaşıktır.[^k2] Süreçler kesin tarihlerle
-başlamaz.
+İki sınır da yaklaşıktır; süreçler kesin tarihlerle başlamaz. Bir
+dönemlendirme, olayların değil eğilimlerin sınırlanmasıdır. Üç merkezin
+birbirinden büyük ölçüde habersiz olması bu dönemlendirmeyi ayrıca anlamlı
+kılar: aralarındaki temas sınırlı ve dolaylıydı, buna rağmen benzer yönetim
+sorunlarıyla karşılaştılar. Birbirinden habersiz düzenlerin benzer sorunlar
+üretmesi, sorunun kaynağının aktarım değil ölçek olduğunu düşündürür.
 
-Atlas bu yaklaşıklığı ayrıca beyan eder.[^k4] Bir dönemlendirme,
-olayların değil eğilimlerin sınırlanmasıdır.
+## Mesafe, denetim ve yetkinin devri
 
-## Üç merkezin eş zamanlılığı
+Üç merkezin temel yönetim sorunu aynıydı: merkezden uzak bölgeleri, haberin
+günlerce yolda olduğu koşullarda yönetmek. Abbasi idaresinde eyaletlere vali
+ve emîrler atanır, posta ile gizli istihbaratı aynı çatı altında toplayan
+Dîvânü'l-berîd merkeze taşradan ikinci bir bilgi kanalı sağlardı.[^k1]
+Merkezin tek bir kaynağa bağlı kalmaması, denetim kapasitesinin en somut
+ölçülerinden biridir.
 
-Dosyanın ekseni, üç büyük merkezin aynı yüzyıllarda kurulmasıdır.[^k1]
-Üçü de geniş bir alanı tek bir yönetim altında toplamaya
-çalıştı.
+Yetki devrinin ikilemi de üç merkezde ortaktır: taşraya yeterli yetki
+verilmezse iş yürümez, fazla verilirse taşra kendi başına buyruk hâle gelir.
+Dönemin sonuna doğru üçünde de ikinci sonuç ağır bastı. Bağdat'ta 936'da
+kurulan emîrülümerâlık, siyasi iktidarın komutanlara geçişini
+kurumsallaştırdı; emîrü'l-ümerânın adı hutbede ve sikkede halifenin adından
+hemen sonra anılıyordu.[^k1] Çin'de 907'yi izleyen yıllarda taht, ordu
+komutanlarının ödülü haline geldi.[^k6] Şarlman'ın ölümünden sonra ise
+imparatorluk düzenli bir veraset yerine paylaşımlarla bölündü.[^k2]
 
-Üçü birbirinden büyük ölçüde habersizdi.[^k2] Aralarındaki temas
-sınırlı ve dolaylıydı.
+Dönem kapanırken kurulan Song hanedanının kurucusu aynı dersi tersinden
+uyguladı: eski silah arkadaşlarını taşra valiliklerine dağıttı, vergileri
+doğrudan tahta rapor veren ayrı görevlilere toplattı ve askerî valilerin en
+iyi askerlerini merkez ordusuna aldırdı.[^k6] Mesafe büyükse denetim maliyeti
+belirli bir noktadan sonra devredilen yetkinin getirisini aşar; bu düzenlerin
+hepsi o noktayı kendi yolundan buldu.
 
-Atlas bu eş zamanlılığı ayrıca kaydeder.[^k5] Birbirinden habersiz
-düzenlerin benzer sorunlarla karşılaşması, sorunun kaynağının
-aktarım değil ölçek olduğunu gösterir.
+## Askerî tabanın dönüşümü
 
-## Ortak sorun: mesafe
+Üç merkez de zamanla ordusunu dışarıdan gelen gruplara dayandırdı; en iyi
+belgelenen örnek Abbasi ordusudur. Halife Mu'tasım, çeşitli Türk ülkelerinden
+birlikler getirterek ordunun büyük kısmını Türklerden oluşturdu ve 836'da
+kurduğu Sâmerrâ şehrine hilafet merkezini taşıdı; 892'ye kadar süren Sâmerrâ
+devrinde Türk kumandanları idari kadrolara da hâkim oldu.[^k1] Mütevekkil'den
+itibaren bu kumandanlar istediklerini halife yapar, istemediklerini indirir
+hale geldi.[^k1]
 
-Üç merkezin de temel sorunu aynıydı.[^k1] Merkezden uzak bölgeleri,
-haberin günlerce sürdüğü koşullarda yönetmek.
+Amaç, yerel kabile ve soy bağlarından bağımsız, yalnız hükümdara bağlı bir güç
+kurmaktı; sonuç bağımlılığın tersine dönmesi oldu. Tang'da da hanedanı sarsan
+isyanın önderi, imparatorun güvenini kazanmış ve orduyu sınır boylarında tutan
+yabancı kökenli bir komutandı.[^k6] Merkeze bağlı olsun diye seçilen bir
+askerî taban, zamanla merkezin kendisine bağımlı olduğu tarafa dönüşebilir.
 
-Çözümler benzerdi.[^k2] Taşraya yetkili görevli atamak, o görevliyi
-denetlemek için ikinci bir kanal kurmak, ve gelirin bir bölümünü
-yerinde bırakmak.
+Bağımlı emek yalnız orduda değildi. Savaş esirlerinden gelen köleler toplumun
+önemli bir bölümünü oluşturuyordu; çoğu Slav, Rum ve Zencî kökenliydi ve
+Mısır, Kuzey Afrika ile Kuzey Arabistan köle ticaretinin başlıca
+pazarlarıydı.[^k1] Yahudi ve hıristiyanlardan oluşan zimmîler ise devletin
+himayesinde din hürriyetiyle yaşıyordu.[^k1] Bağımlı emeğin bu biçimleri tek
+bir kategoriye sığmaz; kimi toprağa, kimi kişiye bağlıydı ve aradaki ayrım
+kişinin satılabilir olup olmamasıdır.
 
-Atlas bu benzerliği ayrıca kaydeder.[^k5] Aynı teknik kısıt altında
-çalışan düzenler, birbirinden habersiz benzer çözümler
-üretir.
+## Bağdat ve dönemin kentleri
 
-## Denetimin ikinci kanalı
+Yeni düzenin en görünür anıtı yeni başkentti. Halife Mansûr'un planını bizzat
+çizerek kurdurduğu Bağdat — resmî adıyla Medînetüsselâm — savunmaya elverişli
+dairevî planda inşa edildi ve çift surla çevrildi.[^k1] Dicle'nin iki
+yakasında 762'de kurulan şehir, 1258'deki yıkımına kadar hilafet merkezi
+olarak kaldı.[^k5] Taşınmanın anlamı coğrafiydi: idarenin ağırlık merkezi, bir
+Akdeniz ülkesi olan Suriye'den, sulanabilen zengin bir vadi ve birçok ticaret
+yolunun kavşağı olan Irak'a geçti; Bizans tesirinin yerini İran tesiri
+aldı.[^k1] Şehrin planı sosyal gayeler gözetilerek çizilmişti ve her bölge
+belirli bir etnik ya da meslekî grubun sorumluluğundaydı; kuruluşu izleyen
+yıllarda inşaat ve ticari faaliyet, zenginlik ve nüfus hızlı bir gelişme
+gösterdi.[^k5]
 
-Üç merkezde de valinin yanında merkeze doğrudan bağlı bir görevli
-bulunuyordu.[^k1] Görevlinin işi raporlamaktı.
+Avrupa yakasında ölçek bambaşkaydı. 626'da Avar ve Pers kuşatmasına direnen
+Konstantinopolis, erken orta çağ Avrupa'sının açık ara en büyük kentiydi.[^k2]
+MS 100 dolayında 450 bin dolayında nüfus barındırmış olan Roma ise bu dönemde
+20 bine kadar indi ve harabelerle bitki örtüsü arasında dağınık yerleşim
+adalarına bölündü.[^k2]
 
-Bu, merkezin tek bir kaynağa bağlı kalmamasını sağlıyordu.[^k3]
-Aynı düzenleme atlasın Dahomey dosyasında da kayıtlıdır.
+İki tablo aynı mekanizmanın iki yüzüdür: imparatorluğun tamamından beslenen
+bir başkent, onu besleyen ağ ayakta kaldığı sürece kendi çevresinin
+taşıyabileceğinin çok üstünde büyür; ağ çözüldüğünde, Roma örneğinin
+gösterdiği gibi, savunma yenilgisi gerekmeden küçülür.[^k2] Bir başkentin nüfusu bu
+yüzden merkezin kaynak toplama menzilinin dolaylı bir ölçüsü olarak
+okunabilir.
 
-Atlas bu tekrarı ayrıca kaydeder.[^k2] Bir merkezin taşradan iki
-bağımsız kanaldan bilgi alması, denetim kapasitesinin ortak
-ölçüsüdür.
+## Çeviri hareketi, kâğıt ve gözlem
 
-## Yetkinin devri sorunu
+Aynı dönemde Bağdat'ta kapsamlı bir çeviri ve derleme çalışması yürütüldü.
+Beytülhikme'yi ilk kez kimin ve ne zaman kurduğu tartışmalıdır; kaynakların
+çoğu kuruluşu 830'da Halife Me'mûn'a bağlar, düşünce ve teşebbüs olarak
+kökleri ise Mansûr dönemine (754-775) kadar iner.[^k3] Çevirmenler
+farklı dillerden ve inanç çevrelerinden geliyordu: Grekçe'den doğrudan ya da
+Süryânîce üzerinden çevirenlerin sayısı kırk yediyi, Farsça'dan çevirenler on
+altıyı buluyordu; Sanskritçe'den çeviren üç kişi vardı.[^k3] Çalışma saray
+himayesiyle finanse edildi: Me'mûn yalnız Grekçe'den yaptırdığı tercümeler
+için 300.000 dinar ödemiş, kimi çeviriler terazinin kefesinde altın tozuyla
+tartılarak ödüllendirilmişti.[^k3] Aktarımın yönü bu yüzyıllarda eski
+metinlerden Arapça'ya doğruydu: Batlamyus'un el-Mecistî'si, Öklid'in geometri
+külliyatı ve Hint rakamlarını taşıyan Sind-Hind bu kanaldan girdi.[^k3]
 
-Üç merkez de aynı ikilemle karşılaştı.[^k1] Taşraya yeterli yetki
-verilmezse iş yürümez; fazla verilirse taşra kendi başına
-buyruk hâle gelir.
+Çevirinin ve idari kaydın ölçeğini taşıyan malzeme de bu dönemde geldi.
+Kâğıdın 105 yılında Çin'de imal edilmeye başlandığı kabul edilir; 751'deki
+Talas Savaşı'nda ele geçen Çinli esirler arasında kâğıt yapımını bilen ustalar
+vardı, bu ustalar 756'da Semerkant'ta bir imalâthane kurdu ve 795'te
+Bağdat'ta kâğıt imalâthanesi açıldı.[^k1] Kâğıt kısa zamanda papirüs ile
+parşömenin yerini aldı; Avrupa kâğıt ihtiyacını müslümanlardan ithalatla
+karşılıyor, kendi imalatına ancak on üçüncü yüzyılda başlıyordu.[^k1] Bir
+düşünce hareketinin ölçeği, onu taşıyan malzemenin maliyetiyle sınırlıdır;
+çeviri hareketinin genişlemesi bu ucuzlamadan ayrı düşünülemez.
 
-Üçünde de ikinci sonuç yaşandı.[^k2] Dönemin sonuna doğru taşra
-yetkilileri fiilen bağımsızlaştı.
+Aynı çevre gözlem işine de koşuldu. Me'mûn'un Bağdat yakınlarındaki
+Şemmâsiye'de kurdurduğu rasathanede çalışan astronom ve matematikçilerin çoğu
+Beytülhikme kadrosundandı; geliştirilmiş gözlem aletleri yapıldı, kozmografik
+haritalar hazırlandı ve Benî Mûsâ kardeşler Sincar ile Kûfe ovalarındaki
+ölçümlerle dünyanın çevresini hesapladı.[^k3] Gözlem geleneği tek kuruluşla
+sınırlı kalmadı; daha sonra Benî Mûsâ ailesi ile Adudüddevle de Bağdat'ta
+birer rasathane yaptırdı.[^k5] Uzun süreli ölçüm, tek bir insan ömrünü aşan
+kurumsal bir taşıyıcı ister; Semerkant'ta sonraki yüzyıllarda kurulacak Uluğ
+Bey rasathanesi bu zincirin geç bir halkasıdır.
 
-Atlas bu örüntüyü ayrıca kaydeder.[^k5] Mesafe büyükse, denetim
-maliyeti belirli bir noktadan sonra devredilen yetkinin getirisini
-aşar.
+## Yazının korunması ve seçicilik
 
-## Askerî tabanın kaynağı
+Batıda metinlerin bugüne ulaşmasını sağlayan kurum manastırdı. Gezici
+keşişlere kitap satın almaları için para veriliyor, kopyalama işi manastırın
+yazı odasında yürütülüyordu.[^k2] İrlandalı başrahip Columbanus'un 614'te
+kurduğu İtalya'daki Bobbio manastırı, dokuzuncu yüzyılda din eserlerinin yanı
+sıra klasik metinleri, tarihleri ve matematik risalelerini de içeren 666
+elyazmalık bir kataloğa sahipti.[^k2] Bizans dünyasında dinî evler kendi
+kopyalama merkezlerini nadiren işletir, koleksiyonlarını bağışlarla
+beslerdi; onuncu yüzyılda en büyük koleksiyon, on bini aşkın kitabın
+toplandığı Athos Dağı manastırlarındaydı.[^k2]
 
-Üç merkez de zamanla dışarıdan gelen askerî gruplara dayandı.[^k1]
-Bu gruplar başlangıçta merkeze bağlıydı.
+Kopyalanacak metin seçilirdi ve seçim, kopyalayan kurumun önceliklerine göre
+yapılırdı; seçilmeyen metinler kayboldu. Bugün elde bulunan klasik külliyat,
+üretilmiş metinlerin temsilî bir örneği değil, bu seçim sürecinin çıktısıdır.
+Bir metnin bugüne ulaşması da yazıldığı dönemden çok kopyalandığı dönemin
+kurumsal kapasitesine bağlıdır. Kapasitenin kendisi dönemin ürünüdür: Roma
+idari altyapısı çözüldüğünde okullar çökmüş, yönetici katmanda bile
+okuryazarlık gerilemişti; toparlanma Karolenj sarayının çevresinde örgütlenen
+kültürel canlanmayla geldi.[^k2]
 
-Zamanla kendi çıkarlarını izlemeye başladılar.[^k3] Bazı örneklerde
-hükümdar seçimi fiilen onların eline geçti.
+## Ticaret ağları ve sikke
 
-Atlas bu dönüşümü ayrıca kaydeder.[^k2] Merkeze bağlı olduğu için
-seçilen bir askerî taban, zamanla merkezin kendisine bağlı olduğu
-tarafa dönüşebilir.
+Üç merkez arasında ticaret çoğunlukla dolaylıydı; mal, uzun mesafeyi tek bir
+tüccarın elinde değil aracılar zinciri boyunca el değiştirerek kat ederdi ve
+fiyat her adımda yükselirdi. Abbasi halifeleri ticarete önem verdi ve kervan
+yollarının emniyetini sağladı; başlangıçta yahudi, hıristiyan ve Mecûsî
+tüccarların elinde olan ticarette müslümanlar zamanla dünya ölçeğinde söz
+sahibi oldu.[^k1] Bağdat pamuklu ve ipekli dokumalar, cam eşya, yağ ve ilâç
+ihraç ediyor, deri ve kâğıt üretimiyle ün salıyordu; sarraf ve cehbezlerin
+faaliyeti, devrine göre gelişmiş bir tür bankacılığın varlığını gösterir.[^k5]
 
-## Vergi düzeni
-
-Üç merkezde de vergi düzeni yeniden kuruldu.[^k1] Toprak ölçümü ve
-nüfus kaydı bu düzenin temeliydi.
-
-Ölçüm, merkezin kapasitesinin doğrudan göstergesidir.[^k5] Ölçemeyen
-bir merkez, vergiyi ihale etmek zorunda kalır.
-
-Atlas bu bağı ayrıca kaydeder.[^k2] Bir düzenin kayıt kapasitesi ile
-mali özerkliği aynı şeyin iki yüzüdür.
-
-## Bağdat'ın kuruluşu
-
-Dönemde yeni bir başkent kuruldu ve hızla dünyanın en büyük
-kentlerinden biri hâline geldi.[^k5] Kent, iki nehir arasındaki
-konumu için seçildi.
-
-Konum, tahılın ve malzemenin su yoluyla taşınmasını
-sağlıyordu.[^k1] Bu, kentin büyüklüğünün ön koşuluydu.
-
-Atlas bu bağı ayrıca kaydeder.[^k2] Bir kentin ulaşabileceği en büyük
-nüfus, onu besleyebilen taşıma ağının menziline
-bağlıdır.
-
-## Çeviri ve derleme
-
-Aynı dönemde kapsamlı bir çeviri ve derleme çalışması
-yürütüldü.[^k3] Farklı geleneklerden gelen metinler tek bir dile
-aktarıldı.
-
-Çalışma saray himayesiyle finanse edildi.[^k1] Çevirmenler farklı
-inançlardan geliyordu.
-
-Atlas bu bileşimi ayrıca kaydeder.[^k5] Bir çeviri hareketinin
-kapsamı, çevirenlerin hangi geleneklerden geldiğine
-bakılarak ölçülebilir.
-
-## Aktarımın yönü
-
-Bu dönemde aktarım büyük ölçüde eski metinlerden yeni dile
-doğruydu.[^k3] Sonraki yüzyıllarda yön kısmen tersine
-döndü.
-
-İki hareket birlikte okunmalıdır.[^k1] Aktarım zinciri tek yönlü bir
-anlatıya sığmaz.
-
-Atlas bu ikiliği ayrıca kaydeder.[^k2] Bir bilgi geleneğinin
-"aktarıcı" sayılması, kendi katkısını görünmez
-kılar.
-
-## Kâğıdın gelişi
-
-Dönemde kâğıt üretimi doğudan batıya taşındı.[^k3] Taşınma, bir
-askerî karşılaşmanın ardından gerçekleşti.
-
-Kâğıt, derlemeyi ve idari kaydı doğrudan ucuzlattı.[^k5] Çeviri
-hareketinin ölçeği bu ucuzlamaya bağlıdır.
-
-Atlas bu bağı ayrıca kaydeder.[^k1] Bir düşünce hareketinin ölçeği,
-onu taşıyan malzemenin maliyetiyle
-sınırlıdır.
-
-## Karolenj düzeni
-
-Batıda kurulan merkez, yazılı yönetimi yeniden
-kurmaya çalıştı.[^k2] Standart bir yazı biçimi geliştirildi ve
-metinler yeniden kopyalandı.
-
-Bu kopyalama, birçok klasik metnin bugüne ulaşmasını
-sağladı.[^k5] Elde bulunan nüshaların önemli bölümü bu dönemden
-kalmadır.
-
-Atlas bu ayrıntıyı ayrıca kaydeder.[^k1] Bir metnin bugüne ulaşması,
-yazıldığı dönemden çok kopyalandığı dönemin kurumsal
-kapasitesine bağlıdır.
-
-## Kopyalamanın seçiciliği
-
-Kopyalanacak metinler seçiliyordu.[^k2] Seçim, kopyalayan kurumun
-önceliklerine göre yapıldı.
-
-Seçilmeyen metinler kayboldu.[^k5] Bugün elde bulunan klasik külliyat,
-bu seçimin sonucudur.
-
-Atlas bu seçimi ayrıca kaydeder.[^k1] Elde bulunan metinler, üretilmiş
-metinlerin temsilî bir örneği değil, bir seçim
-sürecinin çıktısıdır.
-
-## Tang düzeni
-
-Doğuda kurulan merkez, sınav yoluyla görevli seçme düzenini
-geliştirdi.[^k3] Sınav, yetkiyi soydan kısmen ayırıyordu.
-
-Düzen tam olarak açık değildi.[^k2] Hazırlık uzun ve pahalıydı; bu,
-katılımı fiilen sınırlıyordu.
-
-Atlas bu ayrımı ayrıca kaydeder.[^k5] Biçimsel olarak açık bir
-seçme düzeni, hazırlık maliyeti yüksekse fiilen
-kapalıdır.
-
-## Sınavın etkisi
-
-Buna karşılık düzen, yetkinin kalıtsal olmasını
-zayıflattı.[^k3] Görev soydan geçmiyordu.
-
-Bu, atlasın veraset dosyasındaki ölçütle bağlantılıdır.[^k1] Yetkinin
-devri kuralı, o düzenin istikrarını doğrudan
-belirler.
-
-Atlas bu bağı ayrıca kaydeder.[^k2] İdari görevlerin soydan
-geçmemesi, hanedan verasetinden ayrı ve daha erken
-kurumsallaşabilen bir düzendir.
-
-## Nüfusun seyri
-
-Dönem boyunca dünya nüfusu yavaş arttı.[^k4] Artış düzenli
-değildir.
-
-Bölgesel salgınlar ve kıtlıklar eğriyi kesintiye
-uğrattı.[^k4] Kayıtlar bu kesintileri kısmen
+Akdeniz'in batısında ritim farklıydı: ticaret hacmi sekizinci yüzyılda en
+düşük düzeyine indi ve bu yüzyıla tarihlenen batıkların azlığı düşüşün
+arkeolojik izidir.[^k2] Aynı yüzyıllarda doğu ile batı Asya arasındaki
+ağların işlemeye devam etmesi, daralmanın küresel değil bölgesel olduğunu
 gösterir.
 
-Atlas bu belirsizliği korur.[^k5] Bu dönem için nüfus tahminleri geniş
-aralıklarla verilir ve tek bir sayı
-kullanılmaz.
-
-## Ticaret ağları
-
-Dönemde üç merkez arasında dolaylı ticaret sürdü.[^k1] Malın kendisi
-uzun mesafeyi tek bir tüccarla kat etmiyordu.
-
-Aracılar zinciri boyunca el değiştiriyordu.[^k5] Bu, malın fiyatını her
-adımda artırıyordu.
-
-Atlas bu yapıyı ayrıca kaydeder.[^k2] Uzun mesafeli ticarette fiyat
-farkı, taşıma maliyetinden çok aracı sayısından
-gelebilir.
-
-## Deniz yolunun payı
-
-Aynı dönemde Hint Okyanusu üzerinden işleyen deniz ticareti
-büyüdü.[^k1] Mevsim rüzgârlarına dayanan seferler düzenliydi.
-
-Deniz yolu, kara yolundan ucuzdu.[^k5] Aynı malı taşımanın maliyeti
-kat kat düşüktü.
-
-Atlas bu farkı ayrıca kaydeder.[^k2] Bir güzergâhın tercih edilmesi,
-mesafeden çok birim taşıma maliyetinden
-belirlenir.
-
-## Doğu Afrika kıyısı
-
-Deniz ticaretinin batı ucunda, kıyı boyunca liman kentleri
-gelişti.[^k5] Kentler hem iç bölgelerle hem okyanus ötesiyle
-bağlantılıydı.
-
-Bu kentlerde karma bir dil ve karma bir kültür oluştu.[^k1] Oluşum,
-ticaretin sürekliliğinin doğrudan
-sonucudur.
-
-Atlas bu bağı ayrıca kaydeder.[^k2] Düzenli ticaret, kendi dilini ve
-kendi yerleşim biçimini
-üretir.
+Sikke bu ağın hem aracı hem belgesiydi. 936'dan sonra emîrü'l-ümerânın adının
+sikkelerde halifenin adıyla birlikte yer alması, paranın aynı zamanda bir
+siyasi bildiri yüzeyi olduğunu gösterir.[^k1] Uzak bölgelerde bulunan
+sikkeler ise ticari bağlantıyı kanıtlar, siyasi denetimi değil; bir sikkenin
+bir bölgede bulunması, o bölgenin o merkeze bağlı olduğunu göstermez.
 
 ## Kaydın durumu
 
-Bu dönem için kayıt bölgeye göre çok farklıdır.[^k1] Bazı bölgeler için
-ayrıntılı vakayiname ve idari kayıt varken, bazıları için yalnızca
-arkeolojik kanıt bulunur.
-
-Kaydın büyük bölümü merkezlerden gelir.[^k5] Çevre bölgeler hakkında
-bilinen, merkezin onlar hakkında yazdığıdır.
-
-Atlas bu dengesizliği ayrıca kaydeder.[^k2] Bir dönemin merkezleri, o
-dönemin kaydını da merkezîleştirir.
-
-## Dönemi atlasta okumak
-
-Bu döneme bağlanan dosyalar dört öbekte toplanır.[^k1] Üç merkezin
-aktör dosyaları, dinî ve idari kavram dosyaları, çeviri hareketinin
-kaynak dosyaları ve dönemin veri dosyaları.
-
-Dördü birlikte okunmalıdır.[^k3] Bir hanedanın kurulması, bir metnin
-çevrilmesi, bir kentin büyümesi ve bir nüfus eğrisinin yükselmesi aynı
-dönemi dört ayrı düzeyde kaydeder.[^k4]
-
-## Bu dosyanın sınırı
-
-Dosya, dönemin bütün olaylarını sıralamaz.[^k1] Her olay kendi
-dosyasında ayrıntılı ele alınır ve burada yalnızca döneme
-bağlanır.
-
-Bölgesel ayrıntı sınırlıdır.[^k2] Şerit satırları, bölgelerin kendi
-tarihlerinden çok ortak mekanizmanın onlardaki görünümünü
-verir.
-
-Sayısal seriler burada yorumlanır, üretilmez.[^k4] Serilerin
-kaynakları ve yöntemleri atlasın veri dosyalarında ayrı ayrı
-kayıtlıdır.[^k5]
-
-
-## Din ve yönetim
-
-Üç merkezin de meşruiyeti bir dinî çerçeveye dayanıyordu.[^k1]
-Çerçeveler farklıydı ama işlevleri benzerdi.
-
-Din, hem hükümdarın yetkisini gerekçelendiriyor hem de geniş bir alanda
-ortak bir hukuk dili sağlıyordu.[^k2] İkinci işlev, ilkinden daha
-pratiktir.
-
-Atlas bu ikiliği ayrıca kaydeder.[^k5] Bir inanç çerçevesinin yönetimde
-kullanılması, meşruiyet kadar ortak bir kural dili sağlama
-ihtiyacından da doğar.
-
-## Hukukun yazıya geçirilmesi
-
-Dönemde üç merkezde de hukuk derlemeleri yapıldı.[^k1] Derleme, dağınık
-uygulamayı tek bir metinde toplama girişimidir.
-
-Derlemeler farklı gelenekleri farklı biçimde ele aldı.[^k3] Bazıları
-yerel âdeti korudu, bazıları tek bir çerçeveyi
-dayattı.
-
-Atlas bu tercihi ayrıca kaydeder.[^k2] Bir hukuk derlemesinin
-kapsayıcılığı, yerel farkları kaydedip kaydetmediğinden
-okunur.
-
-## Ordunun finansmanı
-
-Sürekli ordu üç merkezde de mali bir sorun üretti.[^k1] Çözümler
-farklıydı.
-
-Bir merkez toprak geliri tahsis etti, bir başkası nakit ödeme
-sürdürdü.[^k3] İki çözümün sonuçları uzun vadede
-farklılaştı.
-
-Atlas bu ayrımı ayrıca kaydeder.[^k5] Toprak tahsisi merkezin nakit
-yükünü azaltır ve taşra üzerindeki denetimini de
-azaltır.
-
-## Kentlerin büyüklüğü
-
-Dönemin en büyük kentleri üç merkezin başkentleriydi.[^k5] Nüfusları
-dönemin diğer kentlerinin çok üzerindeydi.
-
-Büyüklük, merkezî yönetimin toplayabildiği kaynağın doğrudan
-göstergesidir.[^k1] Kent, kendi çevresinden değil imparatorluğun
-tamamından besleniyordu.
-
-Atlas bu bağı ayrıca kaydeder.[^k2] Bir başkentin nüfusu, merkezin
-kaynak toplama menzilinin ölçüsüdür.
-
-## Kentin kırılganlığı
-
-Bu tür bir kent, siyasi düzen bozulduğunda hızla
-küçülür.[^k5] Besleyen ağ kesildiğinde nüfusu taşıyacak yerel üretim
-yoktur.
-
-Dönemin sonunda birkaç büyük kent bu şekilde
-küçüldü.[^k1] Küçülme, savaş kadar tedarik ağının çözülmesiyle
-açıklanır.
-
-Atlas bu mekanizmayı ayrıca kaydeder.[^k2] Merkezî kaynak akışıyla
-büyüyen bir kent, o akış kesildiğinde savunma
-gerektirmeden küçülür.
-
-## Kırsalın durumu
-
-Nüfusun büyük bölümü kırsalda yaşıyordu ve kaydı zayıftır.[^k4]
-Bilinenlerin çoğu vergi kayıtlarından dolaylı olarak
-çıkarılır.
-
-Vergi kaydı, üretimin tamamını değil vergilendirilen bölümünü
-gösterir.[^k5] Kayıt dışı üretim bu kayıtlarda
-görünmez.
-
-Atlas bu boşluğu ayrıca kaydeder.[^k1] Bir dönemin tarım üretimi
-hakkındaki tahminler, vergi kaydının kapsamıyla
-sınırlıdır.
-
-## Kölelik ve bağımlı emek
-
-Üç merkezde de bağımlı emek biçimleri bulunuyordu.[^k1] Biçimler
-farklıydı ve tek bir kategoriye
-girmiyordu.
-
-Bazı biçimler toprağa, bazıları kişiye bağlıydı.[^k3] Aradaki fark,
-kişinin satılabilir olup olmamasıdır.
-
-Atlas bu ölçütü ayrıca kaydeder.[^k5] Bu, atlasın zorunlu emek
-dosyasında tanımlanan üç ölçütten
-biridir.
-
-## Askerî köle düzeni
-
-Bir merkezde satın alınmış askerlerden oluşan bir birlik
-düzeni kuruldu.[^k1] Bu askerler hükümdara doğrudan
-bağlıydı.
-
-Amaç, yerel kabile ve soy bağlarından bağımsız bir güç
-oluşturmaktı.[^k5] Düzen bu amaca ulaştı ve sonra kendi çıkarını
-izlemeye başladı.
-
-Atlas bu dönüşümü ayrıca kaydeder.[^k2] Bağımsız olsun diye kurulan bir
-kurum, bağımsızlığını kuranına karşı da
-kullanabilir.
-
-## Bilim ve gözlem
-
-Dönemde astronomi ve matematik alanında düzenli gözlem ve hesap
-yapıldı.[^k3] Rasathaneler kuruldu ve tablolar
-üretildi.
-
-Çalışmalar pratik ihtiyaçlara bağlıydı.[^k1] Takvim, ibadet vakti ve
-yön tayini başlıca kullanım
-alanlarıydı.
-
-Atlas bu bağı ayrıca kaydeder.[^k5] Bir bilgi alanının desteklenmesi,
-o alanın gündelik bir işe yaramasıyla
-ilişkilidir.
-
-## Ölçümün sürekliliği
-
-Bu dönemde kurulan gözlem geleneği sonraki yüzyıllarda
-sürdü.[^k3] Atlasın Uluğ Bey dosyası bu zincirin geç bir halkasıdır.
-
-Zincirin sürmesi kurumsal bir başarıdır.[^k1] Gözlem, tek bir kişinin
-ömrünü aşan bir süre gerektirir.
-
-Atlas bu sürekliliği ayrıca kaydeder.[^k2] Uzun süreli ölçüm, ancak
-kurumsallaşmış bir düzende
-mümkündür.
-
-
-## Sikke ve güven
-
-Üç merkez de kendi sikkesini bastı.[^k1] Sikkenin ayarı, merkezin mali
-durumunun doğrudan göstergesidir.
-
-Ayarın düşürülmesi kısa vadede gelir sağlar.[^k5] Uzun vadede sikkenin
-kabul gördüğü alanı daraltır.
-
-Atlas bu değiş tokuşu ayrıca kaydeder.[^k2] Bir para biriminin
-menzili, onu basan merkezin güvenilirliğinin
-ölçüsüdür.
-
-## Sikkenin dolaşım alanı
-
-Bir merkezin sikkesi kendi sınırlarının çok ötesinde
-bulunabiliyordu.[^k5] Uzak bölgelerdeki buluntular bunu
-gösterir.
-
-Bu, siyasi denetimi değil ticari bağlantıyı
-kanıtlar.[^k1] İki olgu karıştırılmamalıdır.
-
-Atlas bu ayrımı ayrıca kaydeder.[^k3] Bir sikkenin bir bölgede
-bulunması, o bölgenin o merkeze bağlı olduğunu
-göstermez.
-
-## Yol ve posta
-
-Üç merkezde de düzenli bir posta ve menzil düzeni
-kuruldu.[^k1] Düzen öncelikle idari amaçlıydı.
-
-Aynı ağ, tüccarlar ve yolcular tarafından da
-kullanıldı.[^k5] Askerî amaçla kurulan altyapı, sivil kullanıma
-açıldı.
-
-Atlas bu geçişi ayrıca kaydeder.[^k2] Bu, atlasın başka dosyalarında
-tekrarlanan bir örüntüdür ve altyapının amacıyla kullanımının
-ayrıldığı yerdir.
-
-## Dönemin bıraktığı soru
-
-Dosya bir soruyla kapanır.[^k1] Üç merkezin benzer çözümler üretmesi
-aktarımla mı yoksa aynı kısıt altında bağımsız çözümle mi
-açıklanır.
-
-İki cevap aynı kayıtlarla uyumludur.[^k3] Temasın sınırlı olması
-ikinciyi destekler; bazı tekniklerin izlenebilir aktarımı
-birinciyi.
-
-Atlas soruyu açık tutar.[^k5] Benzerlik tek başına aktarım kanıtı
-değildir; aktarım gösterilmedikçe bağımsız çözüm de eşit ölçüde
-olasıdır.[^k2]
-
-
-## Dönemin adlandırılması
-
-Dönem için kullanılan adlar bölgeye göre değişir.[^k2] Bir bölgede
-"erken orta çağ", başka bölgelerde hanedan adıyla anılır.
-
-İlk ad bir eksiklik bildirir.[^k1] Kendinden önceki ve sonraki
-dönemlere göre tanımlanır; kendi içeriğiyle
-değil.
-
-Atlas bu yüzden üç merkezi birlikte adlandırır.[^k5] Bir dönemi tek bir
-bölgenin geçici durgunluğuyla adlandırmak, aynı yıllarda başka
-bölgelerde yaşanan kuruluşları görünmez kılar.
-
-## Dönemin ağırlık merkezi
-
-Bu dönemde dünyanın en büyük kentleri ve en yoğun ticaret ağları
-kıtanın doğusunda ve batı Asya'daydı.[^k5] Batı ucu, nüfus ve
-kentleşme bakımından geride kalıyordu.
-
-Bu dağılım sonraki yüzyıllarda değişti.[^k4] Değişimin ne zaman
-başladığı atlasın ayrı bir tartışma dosyasının
-konusudur.
-
-Atlas dönemin kendi dağılımını kaydeder.[^k1] Bir dönemi sonraki
-dönemin merkezinden okumak, o dönemin ağırlık dağılımını yanlış
-gösterir.[^k3]
-
-
-## Kayıt dilinin seçimi
-
-Üç merkezde de idari kayıt tek bir dilde tutuldu.[^k1] Seçilen dil,
-konuşulan dillerin çoğundan farklıydı.
-
-Bu, kayda erişimi dar bir gruba bağladı.[^k5] Aynı zamanda geniş bir
-alanda tek bir idari dil sağladı.
-
-Bu ikilik, dönemin yönetim tarzının özüne dokunur.[^k2] Ortak bir kayıt
-dili, yönetimi kolaylaştırırken yönetilenlerin çoğunu kendi kaydının
-dışında bırakır;[^k3] bugün bu döneme dair okunan kaynakların büyük bölümü
-de o dar kayıt sınıfının elinden çıkmıştır.[^k1]
+Bu dönem için kayıt bölgeye göre çok farklıdır: bazı bölgeler için ayrıntılı
+vakayiname ve idari kayıt varken bazıları için yalnızca arkeolojik kanıt
+bulunur. Salgınlara dair ayrıntıların çoğunun kaybolması, hayatta kalan
+yazılı kaydın azlığına bağlanır.[^k2] Nüfusun büyük bölümü kırsalda yaşıyordu
+ve kaydı zayıftır; bilinenlerin çoğu vergi kayıtlarından dolaylı olarak
+çıkarılır. Vergi kaydı üretimin tamamını değil vergilendirilen bölümünü
+gösterir; kayıt dışı üretim görünmez kalır.
+
+Kaydın büyük bölümü merkezlerden gelir; çevre bölgeler hakkında bilinen, çoğu
+kez merkezin onlar hakkında yazdığıdır. Üç merkezde de idari kayıt, konuşulan
+dillerin çoğundan farklı tek bir yazı dilinde tutuldu; bu, geniş bir alanda
+ortak bir idari dil sağlarken kayda erişimi dar bir okuryazar sınıfına
+bağladı. Bugün bu döneme dair okunan kaynakların büyük bölümü o dar sınıfın
+elinden çıkmıştır. Bir dönemin merkezleri, o dönemin kaydını da
+merkezîleştirir.
 
 ## Fikir dünyası
 
-Dönemin fikir dünyasının en çarpıcı özelliği, tek bir siyasi çatı altında birden
-fazla dinin bir arada bulunmasıdır. Tang'da çoğunluk dinleri Çin Budizmi, Taoizm
-ve Çin halk diniyken; Nasturi Hristiyanlığı, Çin Maniheizmi, Zerdüştlük ve İslam
-azınlık dinleri olarak varlığını sürdürüyordu.[^k3]
+Dönemin fikir dünyasının en çarpıcı yanı, tek bir siyasi çatı altında birden
+fazla dinin bir arada bulunmasıdır; en iyi belgelenen örnek Tang Çin'idir.
+Çoğunluk Budizm ile Taoizm çevresinde toplanmıştı; Budizm'in hazırladığı
+zemin üzerinde Nasturi Hristiyanlığı ile İslam, Tang döneminde serpilme
+imkânı buldu.[^k6] Tian Shan'ın kuzeyinden ve güneyinden geçen iki büyük yol,
+İslam fetihlerinin önünden çekilen Zerdüştî, Nasturî ve Maniheist
+toplulukları Çin'e taşıdı; Taizong ile ardılları bu gelenleri iyi
+karşıladı.[^k6] Hristiyanlık 634'te Süryani keşiş Olopun eliyle Chang'an'daki
+saraya kadar girdi; Zerdüştî cemaatinin işlerine bakmak için Yao Cheng
+unvanlı özel bir görevli atandı; Maniheizm ise Uygurların Çin'e yerleşme
+izniyle birlikte geldi.[^k6]
 
-Bu çeşitlilik tesadüf değildir: dönemin üç merkezi de kıta ölçekli ticaret
-yollarının üzerindedir ve bu yollar mal kadar inanç da taşır. Abbasi hanedanının
-beş yüzyılı aşan ömrü,[^k1] bu ticaret ve fikir ağının ne kadar dayanıklı
-olduğunun göstergesidir.
+Bu çeşitlilik tesadüf değildir: üç merkez de kıta ölçekli ticaret yollarının
+üzerindedir ve bu yollar mal kadar inanç da taşır. Bağdat'taki çeviri
+sofrasında Süryânî, Hintli, Harranlı ve Nabatî çevirmenlerin yan yana
+çalışması aynı olgunun batı ucudur.[^k1] Din aynı zamanda yönetim diliydi:
+hükümdarın yetkisini gerekçelendiriyor ve geniş bir alanda ortak bir kural
+dili sağlıyordu; ikinci işlev ilkinden daha pratiktir ve bir inanç
+çerçevesinin yönetimde kullanılmasını meşruiyet kadar bu ihtiyaç da açıklar.
 
-Abbasi hanedanı 1258'e kadar sürecek,[^k1] Tang ise 907'de sona erecektir;[^k6]
-Avrasya'nın üç ucunda kurulan bu düzenlerin birbirleriyle doğrudan teması bir
-sonraki dönemin konusudur ve [1000–1350](/donem/07/) dosyasında ele alınıyor.
+## Dönemin adlandırılması
+
+Dönem için kullanılan adlar bölgeye göre değişir: Avrupa yazımında erken orta
+çağ, Çin yazımında hanedan adı esastır. İlk ad bir eksiklik bildirir;
+kendinden önceki ve sonraki dönemlere göre tanımlanır, kendi içeriğiyle
+değil. Ağırlık merkezine bakmak bu adın neden yanıltıcı olabileceğini
+gösterir: Wells Williams'ın, Li Ung Bing'in aktardığı yargısına göre Tang
+tahtta kaldığı yıllarda Çin muhtemelen yeryüzünün en uygar ülkesiydi ve
+Batı'nın en karanlık günleri Doğu'nun en parlak çağına denk düşüyordu.[^k6]
+
+Dönemin en büyük kentleri ve en yoğun ticaret ağları da kıtanın doğusunda ve
+batı Asya'daydı; Avrupa ucu nüfus ve kentleşme bakımından geride
+kalıyordu.[^k2]
+Bir dönemi tek bir bölgenin geçici durgunluğuyla adlandırmak, aynı yıllarda
+başka bölgelerde yaşanan kuruluşları görünmez kılar; üç merkezin burada
+birlikte adlandırılması bu yüzdendir.
+
+## Dönemin bıraktığı soru
+
+Dönem bir soruyla kapanır: üç merkezin benzer çözümler üretmesi aktarımla mı,
+yoksa aynı kısıt altında bağımsız buluşla mı açıklanır? İki cevap da aynı
+kayıtlarla uyumludur. Temasın sınırlı olması ikinciyi destekler; bazı
+tekniklerin izlenebilir aktarımı birinciyi. Kâğıdın yolculuğu izlenebilir
+aktarımın en net örneğidir: Talas'ta alınan esirlerle başlayan zincir, yarım
+yüzyıl içinde Semerkant üzerinden Bağdat'a ulaştı.[^k1] Yönetim
+biçimlerindeki benzerlikler için ise elde böyle bir zincir yoktur; benzerlik
+tek başına aktarım kanıtı değildir ve aktarım gösterilmedikçe bağımsız çözüm
+eşit ölçüde olasıdır. Soru açık kalır.
+
+Abbasi hilafeti 1258'e kadar sürecekti.[^k1] Tang 907'de kapanmıştı;[^k6] üç
+ucun birbiriyle doğrudan teması ise bir sonraki dönemin konusudur ve
+[1000–1350](/donem/07/) sayfasında ele alınıyor.

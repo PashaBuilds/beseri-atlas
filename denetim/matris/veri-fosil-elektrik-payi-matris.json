@@ -1,0 +1,209 @@
+{
+  "id": "veri-fosil-elektrik-payi",
+  "govde_hash": "ace0c03817f6",
+  "commit": "9d53473",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Dünyada üretilen elektriğin ne kadarının kömürden, petrolden ve doğal gazdan geldiğini sayan bu seri, 1900'den 2025'e dünya toplamını yıl yıl izler; pay bu aralıkta yalnızca bir kez, 1919'da yüzde 50'nin altına iner.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "veri-setleri/fosil-elektrik-payi.csv taramasi: 50'nin altindaki tek deger 1919 (49,04301); kapsam 1900-2025, 126 gozlem. Kaynak CSV'nin World satirlari yerel kopyayla birebir."
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Elektriği fosil yakıttan çıkarmak iklim tartışmasının en görünür başlığı olduğu için bu tek sütun sık sık bütün enerji dönüşümünün özeti gibi okunur; serinin kendisi böyle bir özetin neden yanıltacağını gösterir.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cerceve cumlesi; serinin yay bicimi zemin sagliyor, iklim tartismasindaki yeri yazarin cercevesi. Dipnotsuz birakildi."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Payın 1900 değeri yüzde 58,78, 2025 değeri yüzde 57,39'dur; yüz yirmi beş yılın iki ucu arasındaki fark 1,39 puandır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV: 1900=58,77555; 2025=57,390434; fark 1,385116 -> 1,39 puan."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "İki ucun bu kadar yakın düşmesi, bir serinin iki uç değerle özetlenmemesi gerektiğinin en açık dayanağıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Okuma kurali yazarin cikarimi; uc degerlerin yakinligi (i003) zemin sagliyor. Kor hakem: cumledeki [^k1] sus dipnotuydu (olgusal icerik i003te zaten dipnotlu, okuma kurali k1de yok) — govdeden kaldirildi, iddia dipnotsuz baglam olarak tutuldu."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Aynı seride pay 1918'de yüzde 52,88, 1950'de yüzde 64,35, 1973'te yüzde 75,13, 2000'de yüzde 64,66, 2010'da yüzde 67,46 ve 2023'te yüzde 60,58'dir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV: 1918=52,875854; 1950=64,353096; 1973=75,13027; 2000=64,65634; 2010=67,45997; 2023=60,582993."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "En düşük değer 1919'da yüzde 49,04, en yüksek değer 1973'te yüzde 75,13 olarak kayıtlıdır; yüzde 75 sınırını gören tek yıl da 1973'tür.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV taramasi: min 1919 (49,04301), max 1973 (75,13027); 75 ve ustunu goren tek yil 1973."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Dibin başlangıca yakın, zirvenin ortada durması payın tek yönlü hareket etmediğini gösterir; iki uçla kurulan her özet bu yayı siler.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Konum tespiti (dip 1919, zirve 1973) CSV'den dogrudan; 'her ozet bu yayi siler' yazarin cikarimi."
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Toplam enerji arzı serisinde dünya değeri 1900'de 5.990 terawatt-saat, 2025'te 166.753,6 terawatt-saattir; pay iki uçta neredeyse yerinde sayarken toplam yaklaşık 28 kat büyümüştür.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "veri-setleri/enerji-tuketimi.csv: 1900=5990; 2025=166753,6; oran 27,84 -> yaklasik 28 kat. Kaynak CSV World satirlari birebir ayni. Pay uclari k1'den (i003). Onceki surumdeki 12.132/183.230 degerleri ikame yontemli seriden geliyordu ve cikarildi."
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Bu toplam ikame yöntemli bir birincil enerji serisi değildir: fosil dışı elektriği fosil eşdeğerine çevirerek toplamı büyüten ikame hesabı burada uygulanmaz, sayılar doğrudan toplam enerji arzını verir ve geleneksel biyokütle toplamın dışında tutulur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k4 metadata.json'da 'Measured in terawatt-hours of total energy supply' ve 'Traditional biomass is not included.' dogrudan; 'ikame hesabi uygulanmaz' beyani, ikame/substitution teriminin kunyede hic anilmamasina ve olcunun toplam enerji arzi olarak tanimlanmasina dayanir (yokluk kaniti oldugu icin kismi). k2 sutun adi total_energy_supply_twh zemin sagliyor."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "İki seri aynı bütünü de bölmez: pay yalnızca elektrik üretimine, toplam ise elektriğin de içinde olduğu bütün enerji arzına aittir; oran ile miktarın ayrı ayrı okunması bu yüzden zorunludur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kapsam ayrimi sutun adlarindan okunuyor: fossil_share_of_electricity__pct yalniz elektrik uretim payi, total_energy_supply_twh butun enerji arzi. 'Zorunludur' sonucu yazarin okuma kurali."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Fosil yakıt, ölü organizmaların kalıntılarından yer kabuğunda doğal süreçlerle oluşan, hidrokarbon içeren yakıtların ortak adıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wikipedia tanimi: 'carbon compound- or hydrocarbon-containing material formed naturally in the Earth's crust from the buried remains of prehistoric organisms'."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Tanımın teknolojiye değil oluşum sürecine dayanması bu payı bir santral ölçüsü değil bir kaynak ölçüsü yapar: aynı türbini döndüren buhar kömürden geliyorsa paya girer, uranyumdan geliyorsa girmez.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tanimin kokene dayanmasi k3'te dogrudan; komur/uranyum somutlamasi yazarin, uranyumun fosil sayilmamasi tanimdan cikar."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Ülke dağılımı, fosil yakıtların kendi içindeki kırılımı ve elektrik dışındaki enerji kullanımı bu serinin dışında kalır; grafikte çizilen, tek bir sütunun 1900'den 2025'e aldığı yıllık değerlerdir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yerel CSV tek deger sutunu tasir (yil, fosil_elektrik_payi); kapsam 1900-2025."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 7,
+    "kismi": 4,
+    "desteksiz": 0,
+    "olculemez": 2
+  }
+}

@@ -1,6 +1,6 @@
 {
   "aciklama": "KAPI 18 dil borcu defteri. Kapinin devreye girdigi andaki kalip gecis sayilari. Yalnizca --dil-taban-yaz ile ve yalnizca asagi yonde guncellenir; onarim borcu eritir, defter borcu gizleyemez.",
-  "zaman": "2026-08-28T19:44:48.272Z",
+  "zaman": "2026-08-28T23:38:59.235Z",
   "makaleler": {
     "donem-01": {
       "atlas_oz": 39,
@@ -30,12 +30,6 @@
       "atlas_oz": 37,
       "bu_dosya": 1,
       "ayrica_kaydeder": 27,
-      "sablon_kapanis": 1
-    },
-    "donem-06": {
-      "atlas_oz": 37,
-      "bu_dosya": 1,
-      "ayrica_kaydeder": 31,
       "sablon_kapanis": 1
     },
     "donem-07": {
@@ -256,12 +250,6 @@
     },
     "olay-cin-reformlari-1978": {
       "atlas_oz": 0,
-      "bu_dosya": 2,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 1
-    },
-    "olay-covid-19-pandemisi": {
-      "atlas_oz": 1,
       "bu_dosya": 2,
       "ayrica_kaydeder": 0,
       "sablon_kapanis": 1
@@ -2336,12 +2324,6 @@
       "ayrica_kaydeder": 0,
       "sablon_kapanis": 0
     },
-    "tartisma-sozlu-gelenek-kaynak-mi": {
-      "atlas_oz": 16,
-      "bu_dosya": 4,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 1
-    },
     "tartisma-tarihsel-sayilar-nasil-okunur": {
       "atlas_oz": 2,
       "bu_dosya": 0,
@@ -2417,12 +2399,6 @@
     "veri-enerji-tuketimi-1800-2023": {
       "atlas_oz": 4,
       "bu_dosya": 2,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 1
-    },
-    "veri-fosil-elektrik-payi": {
-      "atlas_oz": 0,
-      "bu_dosya": 3,
       "ayrica_kaydeder": 0,
       "sablon_kapanis": 1
     },

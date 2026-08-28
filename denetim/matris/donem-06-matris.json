@@ -1,0 +1,610 @@
+{
+  "id": "donem-06",
+  "govde_hash": "d4262661da83",
+  "commit": "9d53473",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Abbasi hanedanı adını Hz. Muhammed'in amcası Abbas b. Abdülmuttalib b. Hâşim'den alır, 750 ile 1258 yılları arasında hüküm sürmüştür ve bu hanedana Hâşimîler de denilmiştir.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Sui hanedanı 618'de dağıldığında Chang'an'da imparator ilan edilen Li Yuan hanedanına Tang adını verdi; on bir kadar rakibin tasfiyesinden sonra hanedan Çin'i 907'ye kadar yönetti.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onceki surumde Tang iddialarinin cogu yanlislikla k3'e (Beytulhikme) bagliydi; k6 tam metniyle dogrulandi (Li Yuan became emperor in Chang An (618); eleven rivals; Five Dynasties A.D. 907). Kor hakem: govde yazimi Chang'an olarak birlestirildi (k6 yazimi Chang An)."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "800 yılının Noel gününde papalık eliyle Şarlman'a imparator tacı giydirildi; taç Batı Avrupa'da yüzyıllardır boş duran bir unvanı yeniden diriltiyordu.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2: On 25 December 800, Charlemagne was crowned emperor by Pope Leo III."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "867'de Makedon hanedanının yükselişi siyasi ve dinî çalkantı döneminin sonunu işaret etti ve imparatorluğa yeni bir altın çağ getirdi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Râşidîn ve Emevî hilafetleri, Roma topraklarının güney kısmını fethetti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k2 fetihlerin Roma cografyasini asindirmasini ve Iber fethini verir; Râşidîn/Emevî ayrimi k1'in anlatisindan gelir."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Emevîler zamanında imparatorluğun sınırları Türkistan içlerinden Pirene dağlarına, Kafkaslar'dan Hint Okyanusu'na ve Büyük Sahrâ içlerine kadar uzanıyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Dönemin Avrupa'daki anahtar olayları arasında İber fethi, Şarlman'ın taç giymesi, Viking yayılması, Macar istilaları ve Kutsal Roma İmparatorluğu'nun kuruluşu sayılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Britannica'nın değerlendirmesine göre Bizans toplumunun teknik tabanı çağdaşı Batı Avrupa'nınkinden ileriydi: köylerde demir aletler, su değirmenleri ve protein sağlayan baklagiller.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onceki surum bu olguyu Bati Avrupa'ya atfediyordu; k2'deki Britannica alintisi Bizans toplumu icindir — onarimda duzeltildi."
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Eski Batı Roma coğrafyası sekizinci yüzyılın sonunda âdemi merkezî ve ezici ağırlıkla kırsal bir görünümdeydi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Ağır tekerlekli saban ancak onuncu yüzyılın sonlarında yayılmaya başladı; Romalıların hafif sabanları kuzey Avrupa'nın ağır topraklarında çoğu kez yetersiz kalmıştı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Uzun dönemli seride dünya nüfusu MS 600'de yaklaşık 271,6 milyon, MS 1000'de yaklaşık 323,5 milyondur; dört yüzyılda yaklaşık yüzde on dokuzluk artış.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "OWID population_historical serisinden; yuzde hesap yazara ait basit orandir."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Eski Roma coğrafyasında 400 ile 600 arasında nüfus yüzde 20 daha azalmıştı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Tang'da edebî kültür memuriyete açılan tek kapıydı; xiucai, mingjing ve jinshi dereceleri için sınavlar düzenli aralıklarla Chang'an'da yapılıyordu ve taşra elemelerini geçen adaylar ile devlet okulu mezunları girebiliyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6 'System of Literary Examinations' bolumu. Onceki surumdeki k3 atfi kaldirildi; 'mutlak monarsi' ve 'sivil-askeri ayri orgutlenme' iddialari k6'da bulunamadigi icin govdeden cikarildi. Kor hakem: k6 tam metniyle dogrulandi (literary culture constituted the only passport to officialdom; held at regular intervals at the city of Chang An; Graduates of the Government Schools and successful candidates who had passed preliminary examinations in the provinces). Govde yazimi pinyine gecirildi; k6 yazimi Hsiu Ts'ai / Ming Ching / Chin Shih / Chang An."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Jinshi sınavı 606'da Sui hükümdarı Yangdi'nin saltanatında kurulmuştu; Tang bu mirası devralıp genişletti.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem: k6 Sui bolumunde (K. Giles aktarmasi) dogrulandi: it was under his reign, A.D. 606, that the examination for Chin Shih was instituted; Tang bolumunde based largely on those of the previous dynasty. Govde yazimi pinyine gecirildi (Chin Shih -> jinshi, Yang Ti -> Yangdi)."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Abbasi idaresi hilafet kurumu ile divanlar etrafında örülüydü (Dîvânü'l-harâc, Dîvânü dâri'd-darb, Dîvânü'l-ceyş, Dîvânü'l-berîd); idare merkeziyetçiydi ve eyaletler vali ve emîrler eliyle yönetiliyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Karolenj'in cevabı imparator unvanının diriltilmesidir; saray, sonradan Karolenj Rönesansı diye anılan kültürel canlanmanın merkezi oldu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Üç çözümün ortak yanı, meşruiyeti hükümdarın kişiliğinden başka bir yere — sınava, soya ya da unvana — bağlamasıdır.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [],
+      "guven": "orta",
+      "inceleme": "Yazarin karsilastirmali yorumu; dipnotsuz birakildi."
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "An Lushan — Li Ung Bing'in dönemin diliyle 'Tartar kökenli' diye nitelediği komutan — imparatorun tam güvenini kazanmış ve üç sınır kentinin valiliğini elinde toplamıştı; isyanı Xuanzong'un saltanatını felaketle bitirdi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6: Rebellion by An Lu-shan; man of Tartar descent; governorship of three frontier cities; unhappy termination of the reign. Kor hakem: k6 dogrulandi (the event that brought the reign of Yuan Tsung to an unhappy termination was the rebellion headed by a man of Tartar descent, named An Lu-shan; governorship of three frontier cities). 1914 kaynagindaki Tartar descent nitelemesi olgu gibi durmasin diye govdede Li Ung Bing e atfedildi; modern yazin An Lushan i Sogd-Turk kokenli sayar."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Shandong'da patlak veren ve Huang Chao'nun devraldığı ayaklanmanın ardından Zhu Wen'in 907'de kurduğu Sonraki Liang, Beş Hanedan devrinin (907-960) ilkiydi; bu yıllar tahtın generaller arasında el değiştirdiği askerî despotizm dönemi olarak anlatılır.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem: k6 dogrulandi (a rebellion broke out in what is now the province of Shantung; spread throughout the country like an epidemic; his able lieutenant, Huang Chao; The Posterior Liang Dynasty (A.D. 907-923) ... founded by Chu Wen; THE FIVE DYNASTIES (A.D. 907-960); a period of anarchy, or military despotism, when the Chinese throne became the prize among successful generals). Govde yazimi pinyine gecirildi (Chu Wen -> Zhu Wen, Shantung -> Shandong); isyani baslatan Wang Chih-hsien olup Huang Chao onderligi sonradan devralmistir."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Bağdat'ta 936'da kurulan emîrülümerâlık siyasi iktidarın komutanlara geçişini kurumsallaştırdı; emîrü'l-ümerânın adı hutbede ve sikkede halifenin adından hemen sonra anılıyordu.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Mu'tasım Türk ülkelerinden birlikler getirterek ordunun büyük kısmını Türklerden oluşturdu, 836'da Sâmerrâ'yı kurup merkezi taşıdı; 892'ye kadar süren Sâmerrâ devrinde Türk kumandanları Mütevekkil'den itibaren halife yapıp indirir hale geldi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Şarlman'ın ölümünden sonra imparatorluk düzenli bir veraset yerine paylaşımlarla bölündü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Song kurucusu eski silah arkadaşlarını taşra valiliklerine dağıttı, vergileri doğrudan tahta rapor veren görevlilere toplattı ve askerî valilerin en iyi askerlerini merkez ordusuna aldırdı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6 Sung bolumu (Chao K'uang-yin); donem sinirinin hemen icinde, 960 sonrasi kurumsallasma."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Savaş esirlerinden gelen köleler toplumun önemli bir bölümünü oluşturuyordu; çoğu Slav, Rum ve Zencî kökenliydi, pazarlar Mısır, Kuzey Afrika ve Kuzey Arabistan'dı; zimmîler devlet himayesinde din hürriyetiyle yaşıyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Mansûr'un planını bizzat çizdiği Bağdat (Medînetüsselâm) dairevî planda, çift surla inşa edildi; Dicle'nin iki yakasında 762'de kuruldu ve 1258'e kadar hilafet merkezi kaldı; planı sosyal gayeler gözetiyordu, her bölge bir etnik ya da meslekî grubun sorumluluğundaydı ve kent hızla gelişti.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Merkezin taşınmasıyla idarenin ağırlık merkezi Akdeniz ülkesi Suriye'den, sulanabilen ve ticaret yollarının kavşağı olan Irak'a geçti; Bizans tesirinin yerini İran tesiri aldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "626'da Avar ve Pers kuşatmasına direnen Konstantinopolis erken orta çağ Avrupa'sının açık ara en büyük kentiydi; Roma MS 100 dolayındaki yaklaşık 450 binden bu dönemde 20 bine indi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Beytülhikme'nin ilk kez kimin ve ne zaman kurulduğu tartışmalıdır; kaynakların çoğu kuruluşu 830'da Me'mûn'a bağlar, kökleri Mansûr dönemine (754-775) iner; Grekçe'den çevirenler kırk yedi, Farsça'dan on altı, Sanskritçe'den üç kişiydi; Me'mûn yalnız Grekçe tercümeler için 300.000 dinar ödedi ve kimi çeviriler altın tozuyla tartıldı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3'un tasidigi tek makale-iddia obegi budur; Tang atiflari k3'ten temizlendi. Kor hakem: k3 dogrulandi (Ilk defa kimin tarafindan ve ne zaman kuruldugu tartisma konusudur. Kaynaklarin cogunda ... Memun tarafindan 830 da Bagdat ta kuruldugu zikrediliyorsa da ... Mansur donemine (754-775) kadar uzandigi; kirk yediyi buluyordu; on alti; uc kisi; 300.000 dinar). Govdedeki kesin kurulus cumlesi TDV nin kendi ihtiyat kaydina uyacak bicimde yumusatildi."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Aktarımın yönü eski metinlerden Arapça'ya doğruydu: Batlamyus'un el-Mecistî'si, Öklid'in geometri külliyatı ve Hint rakamlarını taşıyan Sind-Hind bu kanaldan girdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Kâğıdın 105'te Çin'de imaline başlandığı kabul edilir; 751 Talas Savaşı'nda ele geçen Çinli ustalar 756'da Semerkant'ta imalâthane kurdu, 795'te Bağdat'ta imalâthane açıldı; kâğıt papirüs ile parşömenin yerini aldı ve Avrupa kendi imalatına ancak on üçüncü yüzyılda başladı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onceki surum bu zinciri k3'e dipnotluyordu; zincirin tamami k1'de acikca yer alir."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Me'mûn'un Şemmâsiye'de kurdurduğu rasathanede çalışanların çoğu Beytülhikme kadrosundandı; gözlem aletleri geliştirildi, kozmografik haritalar hazırlandı, Benî Mûsâ dünyanın çevresini ölçtü; sonra Benî Mûsâ ve Adudüddevle de Bağdat'ta rasathane yaptırdı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Kopyalama manastırın yazı odasında yürütülüyordu; Columbanus'un 614'te kurduğu Bobbio dokuzuncu yüzyılda klasik metinler dahil 666 elyazmalık kataloğa sahipti; Bizans'ta en büyük koleksiyon onuncu yüzyılda Athos'ta on bini aşkın kitaptı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Roma idari altyapısı çözüldüğünde okullar çöktü ve yönetici katmanda bile okuryazarlık geriledi; toparlanma Karolenj sarayının çevresinde örgütlenen kültürel canlanmayla geldi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cozulme ve okuryazarlik k2'de dogrudan; 'toparlanmanin Karolenj cevresinde gelmesi' k2'nin Karolenj Ronesansi anlatisindan cikarilan baglayici ozet."
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Abbasi halifeleri ticarete önem verip kervan yollarının emniyetini sağladı; başlangıçta yahudi, hıristiyan ve Mecûsî tüccarların elinde olan ticarette müslümanlar zamanla dünya ölçeğinde söz sahibi oldu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Bağdat pamuklu ve ipekli dokumalar, cam eşya, yağ ve ilâç ihraç ediyor, deri ve kâğıt üretimiyle ün salıyordu; sarraf ve cehbezlerin faaliyeti gelişmiş bir tür bankacılığı gösterir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Akdeniz ticaret hacmi sekizinci yüzyılda en düşük düzeyine indi; bu yüzyıla tarihlenen batıkların azlığı düşüşün arkeolojik izidir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Uzak bölgelerde bulunan sikkeler ticari bağlantıyı kanıtlar, siyasi denetimi değil.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [],
+      "guven": "orta",
+      "inceleme": "Numismatik okuma ilkesi; yazarin yorumu olarak dipnotsuz birakildi."
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Salgınlara dair ayrıntıların çoğunun kaybolması, hayatta kalan yazılı kaydın azlığına bağlanır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Tang'da çoğunluk Budizm ile Taoizm çevresindeydi; Budizm'in hazırladığı zeminde Nasturi Hristiyanlığı ile İslam serpildi; Zerdüştî, Nasturî ve Maniheist topluluklar Tian Shan yollarından Çin'e ulaşıp Taizong'ca iyi karşılandı; Hristiyanlık 634'te Olopun eliyle saraya girdi, Zerdüştîlere Yao Cheng unvanlı görevli atandı, Maniheizm Uygurlarla geldi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onceki surumde din cesitliligi listesi k3'e bagliydi ve 'Cin halk dini' ile 'resmi dil Orta Cince' gibi k6'da bulunmayan ogeler iceriyordu; liste k6'nin XVIII ve XXI. bolumlerindeki anlatiya gore yeniden kuruldu. Kor hakem: k6 dogrulandi (Buddhism actually prepared the way for the Nestorian Christianity and the Mohammedanism which flourished in the T ang Dynasty; two Great Routes north and south of the Tien Shan; received with open arms by T ai Tsung; in 634 ... by a Syrian monk, named Olopun; a special official, called Yao Cheng; not brought in until the Ouigurs were given leave to settle). Yao Cheng kitapta bir makam unvanidir; govde buna gore duzeltildi. Yazim pinyine gecirildi (T ai Tsung -> Taizong, Tien Shan -> Tian Shan)."
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Bağdat'taki çeviri faaliyetine Süryânî, Hintli, Harranlı ve Nabatî çevirmenler katıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Wells Williams'ın Li Ung Bing'in aktardığı yargısına göre Tang tahtta kaldığı yıllarda Çin muhtemelen yeryüzünün en uygar ülkesiydi; Batı'nın en karanlık günleri Doğu'nun en parlak çağına denk düşüyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6 icinde Wells Williams'tan aktarma; govdede dogrudan alinti yerine aktarim olarak verildi."
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Benzerlik tek başına aktarım kanıtı değildir; kâğıt izlenebilir aktarımın örneğidir, yönetim biçimlerindeki benzerlikler için böyle bir zincir yoktur ve soru açık kalır.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [],
+      "guven": "orta",
+      "inceleme": "Kapanis yorumu; kagit zincirinin kendisi i030'da kaynaklidir."
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Üç merkezde de idari kayıt konuşulan dillerin çoğundan farklı tek bir yazı dilinde tutuldu; bu, ortak idari dil sağlarken kayda erişimi dar bir okuryazar sınıfına bağladı.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [],
+      "guven": "dusuk",
+      "inceleme": "Genellestirici cerceve yorumu; kaynaklarda tek tek dogrulanmadigi icin dipnotsuz ve renk duzeyinde tutuldu."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 37,
+    "kismi": 2,
+    "desteksiz": 0,
+    "olculemez": 4
+  },
+  "not_orkestrator": "2026-08-29: hakem finalize sonrasi mekanik kapi onarimi (dipnotsuz paragraf birlesimi / kilitli terim); icerik iddialari degismedi, hash guncellendi."
+}

@@ -1,154 +1,77 @@
 ## donem-06
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:12.564Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T23:38:44.625Z_
 
-- [ISARET]  k1 → "Bu dönemin ayırt edici özelliği, üç büyük siyasi merkezin aynı yüzyıllarda kurulmasıdır: Abbasi hanedanı 750'd…" — özel isim kaynakta bulunamadı: Tang, Karolenj
-- [OK]      k6 → "Bu dönemin ayırt edici özelliği, üç büyük siyasi merkezin aynı yüzyıllarda kurulmasıdır: Abbasi hanedanı 750'd…" — 4 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k2 → "Bu dönemin ayırt edici özelliği, üç büyük siyasi merkezin aynı yüzyıllarda kurulmasıdır: Abbasi hanedanı 750'd…" — 4 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k2 → "Râşidîn ve Emevî hilafetleri Roma topraklarının güney kısmını fethetti."
+- [OK]      k1 → "Abbasi hanedanı 750'de iktidara geldi."
+- [OK]      k6 → "Tang 618'den beri Çin'i yönetiyordu." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Batı Avrupa'da imparator unvanı 800'de diriltildi."
+- [OK]      k2 → "Râşidîn ve Emevî hilafetleri, Roma topraklarının güney kısmını fethetti."
+- [OK]      k1 → "Emevîler zamanında imparatorluğun sınırları Türkistan içlerinden Pirene dağlarına, Kafkaslar'dan Hint Okyanusu…"
 - [OK]      k1 → "Hâşim'den alır ve 750 ile 1258 yılları arasında hüküm sürmüştür; ilk atalarına nispetle bu hanedana Hâşimîler …"
 - [OK]      k2 → "Dönemin Avrupa'daki anahtar olayları arasında Müslümanların İber Yarımadası'nı fethi, Şarlman'ın taç giymesi, …" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k2 → "800 yılında imparator unvanı Batı Avrupa'da Şarlman ile yeniden canlandırıldı; onun Karolenj İmparatorluğu son…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k2 → "800 yılının Noel gününde papalık eliyle Şarlman'a imparator tacı giydirildi; taç, Batı Avrupa'da yüzyıllardır …" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k2 → "Doğuda ise 867'de Makedon hanedanının yükselişi, siyasi ve dinî çalkantı döneminin sonunu işaret etti ve impar…" — 1 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k6 → "Tang, 618-907 arasında hüküm süren Çin imparatorluk hanedanıdır; başkenti dönemin büyük bölümünde Chang'an'dı." — 3 atom doğrulandı; 1 ad ölçülemedi
-- [ISARET]  k3 → "Resmî dili Orta Çince'ydi; çoğunluk dinleri Çin Budizmi, Taoizm ve Çin halk dini, azınlık dinleri ise Nasturi …" — özel isim kaynakta bulunamadı: Çince, Budizmi
+- [OK]      k6 → "Sui hanedanı 618'de dağıldığında Chang'an'da imparator ilan edilen Li Yuan, hanedanına Tang adını verdi; taht …" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Kuzey Afrika bu dönemde Roma düzeninden çıkıp İslam siyasi coğrafyasının parçası hâline geldi."
-- [OK]      k1 → "Kullanılan kaynaklar İslam dünyasını, Avrupa'yı ve Doğu Asya'yı kendi başlıkları altında ele alırken Güney Asy…"
-- [OK]      k2 → "Kullanılan kaynaklar İslam dünyasını, Avrupa'yı ve Doğu Asya'yı kendi başlıkları altında ele alırken Güney Asy…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [ISARET]  k3 → "Kullanılan kaynaklar İslam dünyasını, Avrupa'yı ve Doğu Asya'yı kendi başlıkları altında ele alırken Güney Asy…" — özel isim kaynakta bulunamadı: Avrupa, Asya
-- [OK]      k2 → "Dönemin maddi tabanı, Batı Avrupa'da mütevazı ama gerçek bir teknik ilerlemeyle tanımlanır: köylerde demir ale…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Dönemin teknik tabanına dair en somut kayıt Bizans'tan gelir: Britannica'nın değerlendirmesine göre Bizans top…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Batının tablosu daha yavaştır: eski Batı Roma coğrafyası sekizinci yüzyılın sonunda âdemi merkezî ve ezici ağı…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Ağır tekerlekli saban ancak onuncu yüzyılın sonlarında yayılmaya başladı; Romalıların hafif sabanları kuzey Av…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k4 → "Uzun dönemli seride dünya nüfusu MS 600'de yaklaşık 271,6 milyon, MS 1000'de yaklaşık 323,5 milyondur."
-- [ATOMSUZ] k3 → "Tang'ın sivil ve askerî idareyi ayrı ayrı örgütlemesi bu sorunun kurumsal cevaplarından biridir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Tang'ın cevabı sınav sistemi ve merkezî idaredir; hanedan mutlak monarşi olarak sınıflandırılır ve sivil ile a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Abbasi'nin cevabı hilafet kurumudur — siyasi otoriteyi peygamber soyuna bağlayan bir meşruiyet zinciri." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Karolenj'in cevabı ise imparator unvanının diriltilmesidir: Batı Avrupa, kendi siyasi biçimini Roma'nın hafıza…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k2 → "Avrupa'da Viking yayılması ve Macar istilaları, Doğu Asya'da An Lushan isyanı ve onu izleyen felaket, İslam dü…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ISARET]  k3 → "Avrupa'da Viking yayılması ve Macar istilaları, Doğu Asya'da An Lushan isyanı ve onu izleyen felaket, İslam dü…" — özel isim kaynakta bulunamadı: Viking, Macar, Asya
-- [ISARET]  k3 → "An Lushan isyanının Tang tarihindeki yeri dikkat çekicidir: hanedanın kronolojisi kuruluş, Wu Zetian'ın gaspı,…" — özel isim kaynakta bulunamadı: Lushan, Tang, Zetian, Xuanzong
-- [OK]      k1 → "Başlangıç, yeni bir siyasi ve dinî düzenin batı Asya'da yerleşmesine yakın bir tarihe konmuştur."
-- [ATOMSUZ] k2 → "İki sınır da yaklaşıktır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Atlas bu yaklaşıklığı ayrıca beyan eder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Dosyanın ekseni, üç büyük merkezin aynı yüzyıllarda kurulmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Üçü birbirinden büyük ölçüde habersizdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Atlas bu eş zamanlılığı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Üç merkezin de temel sorunu aynıydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Çözümler benzerdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Atlas bu benzerliği ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Üç merkezde de valinin yanında merkeze doğrudan bağlı bir görevli bulunuyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Bu, merkezin tek bir kaynağa bağlı kalmamasını sağlıyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu tekrarı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Üç merkez de aynı ikilemle karşılaştı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Üçünde de ikinci sonuç yaşandı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Atlas bu örüntüyü ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Üç merkez de zamanla dışarıdan gelen askerî gruplara dayandı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Zamanla kendi çıkarlarını izlemeye başladılar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu dönüşümü ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Üç merkezde de vergi düzeni yeniden kuruldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Ölçüm, merkezin kapasitesinin doğrudan göstergesidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Dönemde yeni bir başkent kuruldu ve hızla dünyanın en büyük kentlerinden biri hâline geldi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Konum, tahılın ve malzemenin su yoluyla taşınmasını sağlıyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Aynı dönemde kapsamlı bir çeviri ve derleme çalışması yürütüldü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Çalışma saray himayesiyle finanse edildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Atlas bu bileşimi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Bu dönemde aktarım büyük ölçüde eski metinlerden yeni dile doğruydu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "İki hareket birlikte okunmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu ikiliği ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Dönemde kâğıt üretimi doğudan batıya taşındı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Kâğıt, derlemeyi ve idari kaydı doğrudan ucuzlattı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Batıda kurulan merkez, yazılı yönetimi yeniden kurmaya çalıştı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Bu kopyalama, birçok klasik metnin bugüne ulaşmasını sağladı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Atlas bu ayrıntıyı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Kopyalanacak metinler seçiliyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Seçilmeyen metinler kayboldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Atlas bu seçimi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Doğuda kurulan merkez, sınav yoluyla görevli seçme düzenini geliştirdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Düzen tam olarak açık değildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Atlas bu ayrımı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Buna karşılık düzen, yetkinin kalıtsal olmasını zayıflattı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bu, atlasın veraset dosyasındaki ölçütle bağlantılıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Dönem boyunca dünya nüfusu yavaş arttı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Bölgesel salgınlar ve kıtlıklar eğriyi kesintiye uğrattı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Atlas bu belirsizliği korur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Dönemde üç merkez arasında dolaylı ticaret sürdü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Aracılar zinciri boyunca el değiştiriyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu yapıyı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Aynı dönemde Hint Okyanusu üzerinden işleyen deniz ticareti büyüdü."
-- [ATOMSUZ] k5 → "Deniz yolu, kara yolundan ucuzdu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu farkı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Deniz ticaretinin batı ucunda, kıyı boyunca liman kentleri gelişti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bu kentlerde karma bir dil ve karma bir kültür oluştu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bu dönem için kayıt bölgeye göre çok farklıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Kaydın büyük bölümü merkezlerden gelir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu dengesizliği ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bu döneme bağlanan dosyalar dört öbekte toplanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Dördü birlikte okunmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Bir hanedanın kurulması, bir metnin çevrilmesi, bir kentin büyümesi ve bir nüfus eğrisinin yükselmesi aynı dön…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Dosya, dönemin bütün olaylarını sıralamaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Bölgesel ayrıntı sınırlıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Sayısal seriler burada yorumlanır, üretilmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Serilerin kaynakları ve yöntemleri atlasın veri dosyalarında ayrı ayrı kayıtlıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Üç merkezin de meşruiyeti bir dinî çerçeveye dayanıyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Din, hem hükümdarın yetkisini gerekçelendiriyor hem de geniş bir alanda ortak bir hukuk dili sağlıyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Atlas bu ikiliği ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Dönemde üç merkezde de hukuk derlemeleri yapıldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Derlemeler farklı gelenekleri farklı biçimde ele aldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu tercihi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Sürekli ordu üç merkezde de mali bir sorun üretti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Bir merkez toprak geliri tahsis etti, bir başkası nakit ödeme sürdürdü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Atlas bu ayrımı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Dönemin en büyük kentleri üç merkezin başkentleriydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Büyüklük, merkezî yönetimin toplayabildiği kaynağın doğrudan göstergesidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Bu tür bir kent, siyasi düzen bozulduğunda hızla küçülür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Dönemin sonunda birkaç büyük kent bu şekilde küçüldü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu mekanizmayı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Nüfusun büyük bölümü kırsalda yaşıyordu ve kaydı zayıftır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Vergi kaydı, üretimin tamamını değil vergilendirilen bölümünü gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Atlas bu boşluğu ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Üç merkezde de bağımlı emek biçimleri bulunuyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Bazı biçimler toprağa, bazıları kişiye bağlıydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Atlas bu ölçütü ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir merkezde satın alınmış askerlerden oluşan bir birlik düzeni kuruldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Amaç, yerel kabile ve soy bağlarından bağımsız bir güç oluşturmaktı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu dönüşümü ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Dönemde astronomi ve matematik alanında düzenli gözlem ve hesap yapıldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Çalışmalar pratik ihtiyaçlara bağlıydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Bu dönemde kurulan gözlem geleneği sonraki yüzyıllarda sürdü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Zincirin sürmesi kurumsal bir başarıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu sürekliliği ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Üç merkez de kendi sikkesini bastı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Ayarın düşürülmesi kısa vadede gelir sağlar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu değiş tokuşu ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Bir merkezin sikkesi kendi sınırlarının çok ötesinde bulunabiliyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bu, siyasi denetimi değil ticari bağlantıyı kanıtlar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas bu ayrımı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Üç merkezde de düzenli bir posta ve menzil düzeni kuruldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Aynı ağ, tüccarlar ve yolcular tarafından da kullanıldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu geçişi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Dosya bir soruyla kapanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "İki cevap aynı kayıtlarla uyumludur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Atlas soruyu açık tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Benzerlik tek başına aktarım kanıtı değildir; aktarım gösterilmedikçe bağımsız çözüm de eşit ölçüde olasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Dönem için kullanılan adlar bölgeye göre değişir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "İlk ad bir eksiklik bildirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Atlas bu yüzden üç merkezi birlikte adlandırır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k5 → "Bu dönemde dünyanın en büyük kentleri ve en yoğun ticaret ağları kıtanın doğusunda ve batı Asya'daydı."
-- [ATOMSUZ] k4 → "Bu dağılım sonraki yüzyıllarda değişti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Atlas dönemin kendi dağılımını kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Bir dönemi sonraki dönemin merkezinden okumak, o dönemin ağırlık dağılımını yanlış gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Üç merkezde de idari kayıt tek bir dilde tutuldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Bu, kayda erişimi dar bir gruba bağladı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Bu ikilik, dönemin yönetim tarzının özüne dokunur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Ortak bir kayıt dili, yönetimi kolaylaştırırken yönetilenlerin çoğunu kendi kaydının dışında bırakır; bugün bu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Ortak bir kayıt dili, yönetimi kolaylaştırırken yönetilenlerin çoğunu kendi kaydının dışında bırakır; bugün bu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ISARET]  k3 → "Tang'da çoğunluk dinleri Çin Budizmi, Taoizm ve Çin halk diniyken; Nasturi Hristiyanlığı, Çin Maniheizmi, Zerd…" — özel isim kaynakta bulunamadı: Budizmi, Taoizm, Nasturi
-- [ATOMSUZ] k1 → "Abbasi hanedanının beş yüzyılı aşan ömrü, bu ticaret ve fikir ağının ne kadar dayanıklı olduğunun göstergesidi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ISARET]  k1 → "Abbasi hanedanı 1258'e kadar sürecek, Tang ise 907'de sona erecektir; Avrasya'nın üç ucunda kurulan bu düzenle…" — özel isim kaynakta bulunamadı: Tang, Avrasya
-- [OK]      k6 → "Abbasi hanedanı 1258'e kadar sürecek, Tang ise 907'de sona erecektir; Avrasya'nın üç ucunda kurulan bu düzenle…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Bu eğri bölgesel kayıplarla birlikte okunmalıdır: eski Roma coğrafyasında 400 ile 600 arasında nüfus yüzde 20 …"
+- [OK]      k6 → "Tang'ın cevabı sınavdır: edebî kültür memuriyete açılan tek kapıydı ve xiucai, mingjing ile jinshi dereceleri …"
+- [ATOMSUZ] k6 → "Taşra elemelerini geçen adaylar ile devlet okullarının mezunları bu sınavlara girebiliyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Düzen Tang icadı da değildi; jinshi sınavı 606'da Sui hükümdarı Yangdi'nin saltanatında kurulmuştu ve Tang bu …" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Abbasi'nin cevabı, siyasi otoriteyi peygamber soyuna bağlayan hilafet kurumu ile Bağdat'ta uzmanlaşmış divanla…"
+- [ATOMSUZ] k1 → "İdare merkeziyetçi bir karakter taşıyordu; eyaletler vali ve emîrler eliyle yönetiliyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Karolenj'in cevabı ise imparator unvanının diriltilmesidir: Batı Avrupa kendi siyasi biçimini Roma'nın hafızas…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Avrupa'nın yüzyıllarını Viking yayılması ile Macar istilaları biçimlendirdi." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Tang'ın dönemeci An Lushan isyanıdır: Li Ung Bing'in dönemin diliyle "Tartar kökenli" diye nitelediği bu komut…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Hanedanın sonu da bir taşra isyanıyla geldi: Shandong'da patlak veren ayaklanma, Huang Chao'nun önderliğinde b…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "İsyan bastırıldıktan sonra saf değiştiren komutanlardan Zhu Wen'in 907'de kurduğu Sonraki Liang hanedanı, Beş …" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k6 → "Beş Hanedan yılları (907-960), tahtın başarılı generaller arasında el değiştiren bir ödüle dönüştüğü bir asker…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Başlangıç, yeni bir evrensel dinin taşıdığı siyasi düzenin batı Asya'da yerleşmesine yakın bir tarihe konmuştu…"
+- [OK]      k6 → "Bitiş, üç merkezin kendi biçimini tamamladığı ya da kapattığı yıllara denk düşer: Çin'de Tang 907'de bitmiş, a…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Abbasi idaresinde eyaletlere vali ve emîrler atanır, posta ile gizli istihbaratı aynı çatı altında toplayan Dî…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Bağdat'ta 936'da kurulan emîrülümerâlık, siyasi iktidarın komutanlara geçişini kurumsallaştırdı; emîrü'l-ümerâ…"
+- [OK]      k6 → "Çin'de 907'yi izleyen yıllarda taht, ordu komutanlarının ödülü haline geldi."
+- [ATOMSUZ] k2 → "Şarlman'ın ölümünden sonra ise imparatorluk düzenli bir veraset yerine paylaşımlarla bölündü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Dönem kapanırken kurulan Song hanedanının kurucusu aynı dersi tersinden uyguladı: eski silah arkadaşlarını taş…" — programatik olarak ölçülemedi (ad karşılığı yok): Song
+- [OK]      k1 → "Halife Mu'tasım, çeşitli Türk ülkelerinden birlikler getirterek ordunun büyük kısmını Türklerden oluşturdu ve …"
+- [ATOMSUZ] k1 → "Mütevekkil'den itibaren bu kumandanlar istediklerini halife yapar, istemediklerini indirir hale geldi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Tang'da da hanedanı sarsan isyanın önderi, imparatorun güvenini kazanmış ve orduyu sınır boylarında tutan yaba…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Savaş esirlerinden gelen köleler toplumun önemli bir bölümünü oluşturuyordu; çoğu Slav, Rum ve Zencî kökenliyd…"
+- [ATOMSUZ] k1 → "Yahudi ve hıristiyanlardan oluşan zimmîler ise devletin himayesinde din hürriyetiyle yaşıyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Halife Mansûr'un planını bizzat çizerek kurdurduğu Bağdat — resmî adıyla Medînetüsselâm — savunmaya elverişli …"
+- [OK]      k5 → "Dicle'nin iki yakasında 762'de kurulan şehir, 1258'deki yıkımına kadar hilafet merkezi olarak kaldı."
+- [OK]      k1 → "Taşınmanın anlamı coğrafiydi: idarenin ağırlık merkezi, bir Akdeniz ülkesi olan Suriye'den, sulanabilen zengin…"
+- [ATOMSUZ] k5 → "Şehrin planı sosyal gayeler gözetilerek çizilmişti ve her bölge belirli bir etnik ya da meslekî grubun sorumlu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "626'da Avar ve Pers kuşatmasına direnen Konstantinopolis, erken orta çağ Avrupa'sının açık ara en büyük kentiy…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "MS 100 dolayında 450 bin dolayında nüfus barındırmış olan Roma ise bu dönemde 20 bine kadar indi ve harabelerl…"
+- [OK]      k2 → "İki tablo aynı mekanizmanın iki yüzüdür: imparatorluğun tamamından beslenen bir başkent, onu besleyen ağ ayakt…"
+- [OK]      k3 → "Beytülhikme'yi ilk kez kimin ve ne zaman kurduğu tartışmalıdır; kaynakların çoğu kuruluşu 830'da Halife Me'mûn…"
+- [OK]      k3 → "Çevirmenler farklı dillerden ve inanç çevrelerinden geliyordu: Grekçe'den doğrudan ya da Süryânîce üzerinden ç…"
+- [OK]      k3 → "Çalışma saray himayesiyle finanse edildi: Me'mûn yalnız Grekçe'den yaptırdığı tercümeler için 300.000 dinar öd…"
+- [OK]      k3 → "Aktarımın yönü bu yüzyıllarda eski metinlerden Arapça'ya doğruydu: Batlamyus'un el-Mecistî'si, Öklid'in geomet…"
+- [OK]      k1 → "Kâğıdın 105 yılında Çin'de imal edilmeye başlandığı kabul edilir; 751'deki Talas Savaşı'nda ele geçen Çinli es…"
+- [OK]      k1 → "Kâğıt kısa zamanda papirüs ile parşömenin yerini aldı; Avrupa kâğıt ihtiyacını müslümanlardan ithalatla karşıl…"
+- [OK]      k3 → "Me'mûn'un Bağdat yakınlarındaki Şemmâsiye'de kurdurduğu rasathanede çalışan astronom ve matematikçilerin çoğu …"
+- [OK]      k5 → "Gözlem geleneği tek kuruluşla sınırlı kalmadı; daha sonra Benî Mûsâ ailesi ile Adudüddevle de Bağdat'ta birer …"
+- [ATOMSUZ] k2 → "Gezici keşişlere kitap satın almaları için para veriliyor, kopyalama işi manastırın yazı odasında yürütülüyord…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "İrlandalı başrahip Columbanus'un 614'te kurduğu İtalya'daki Bobbio manastırı, dokuzuncu yüzyılda din eserlerin…"
+- [OK]      k2 → "Bizans dünyasında dinî evler kendi kopyalama merkezlerini nadiren işletir, koleksiyonlarını bağışlarla beslerd…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Kapasitenin kendisi dönemin ürünüdür: Roma idari altyapısı çözüldüğünde okullar çökmüş, yönetici katmanda bile…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Abbasi halifeleri ticarete önem verdi ve kervan yollarının emniyetini sağladı; başlangıçta yahudi, hıristiyan …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Bağdat pamuklu ve ipekli dokumalar, cam eşya, yağ ve ilâç ihraç ediyor, deri ve kâğıt üretimiyle ün salıyordu;…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Akdeniz'in batısında ritim farklıydı: ticaret hacmi sekizinci yüzyılda en düşük düzeyine indi ve bu yüzyıla ta…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "936'dan sonra emîrü'l-ümerânın adının sikkelerde halifenin adıyla birlikte yer alması, paranın aynı zamanda bi…"
+- [ATOMSUZ] k2 → "Salgınlara dair ayrıntıların çoğunun kaybolması, hayatta kalan yazılı kaydın azlığına bağlanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Çoğunluk Budizm ile Taoizm çevresinde toplanmıştı; Budizm'in hazırladığı zemin üzerinde Nasturi Hristiyanlığı …" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k6 → "Tian Shan'ın kuzeyinden ve güneyinden geçen iki büyük yol, İslam fetihlerinin önünden çekilen Zerdüştî, Nastur…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k6 → "Hristiyanlık 634'te Süryani keşiş Olopun eliyle Chang'an'daki saraya kadar girdi; Zerdüştî cemaatinin işlerine…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Bağdat'taki çeviri sofrasında Süryânî, Hintli, Harranlı ve Nabatî çevirmenlerin yan yana çalışması aynı olgunu…"
+- [OK]      k6 → "Ağırlık merkezine bakmak bu adın neden yanıltıcı olabileceğini gösterir: Wells Williams'ın, Li Ung Bing'in akt…"
+- [OK]      k2 → "Dönemin en büyük kentleri ve en yoğun ticaret ağları da kıtanın doğusunda ve batı Asya'daydı; Avrupa ucu nüfus…"
+- [OK]      k1 → "Kâğıdın yolculuğu izlenebilir aktarımın en net örneğidir: Talas'ta alınan esirlerle başlayan zincir, yarım yüz…"
+- [OK]      k1 → "Abbasi hilafeti 1258'e kadar sürecekti."
+- [OK]      k6 → "Tang 907'de kapanmıştı; üç ucun birbiriyle doğrudan teması ise bir sonraki dönemin konusudur ve sayfasında ele…"
 
-**Özet:** 19 OK · 7 ISARET · 0 HATA · 123 ATOMSUZ
+**Özet:** 58 OK · 0 ISARET · 0 HATA · 14 ATOMSUZ

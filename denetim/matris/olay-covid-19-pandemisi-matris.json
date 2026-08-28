@@ -1,0 +1,597 @@
+{
+  "id": "olay-covid-19-pandemisi",
+  "govde_hash": "a930f132dddd",
+  "commit": "9d53473",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Salgın, Aralık 2019'da Çin'in Wuhan kentinde görülen bir vaka kümesiyle başladı; 2020 başında önce Asya'nın öteki bölgelerine, oradan bütün dünyaya yayıldı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Dünya Sağlık Örgütü 30 Ocak 2020'de salgını uluslararası boyutta halk sağlığı acil durumu ilan etti, 11 Mart 2020'de pandemi olarak niteledi; acil durum çerçevesi 5 Mayıs 2023'e dek yürürlükte kaldı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Erişim tarihinde (Ağustos 2026) dünya genelinde 779 milyon doğrulanmış vaka ile 7,1 milyon kayıtlı ölüm sayılıyordu ve gerçek bilançonun bunun epey üzerinde olduğu tahmin ediliyordu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Degisebilir sayi; erisim tarihi damgasiyla verildi. Kaynak kaydi: 779.178.934 vaka, 7.115.203 olum, tahmin araligi 18,5-35,2 milyon."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Kapanmalar, seyahat kısıtlamaları ve karantinalar gündelik hayatı yeniden biçimlendirdi; dünya ekonomisi Büyük Buhran'dan bu yana en büyük küresel daralmayı yaşadı; yanlış bilgi sosyal medyada dolaşıma girdi ve siyasi gerilimler keskinleşti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta 'largest global recession since the Great Depression', kisitlama listesi ve misinformation/political tensions ifadeleri birebir."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Aynı salgın, ilk aşıların pandemi ilanından bir yıl geçmeden genel nüfusa ulaştığı bir seferberlik de üretti.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Aralik 2020 baslangici kaynakta dogrudan; 'pandemi ilanindan bir yil gecmeden' araligi Mart 2020 ilani ile Aralik 2020 tarihinden turetildi."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "İlk bilinen vakaların önemli bölümü, Wuhan'daki Huanan su ürünleri toptancı pazarını ziyaret etmiş kişilerle bağlantılıydı; ama insandan insana bulaşın daha erken başlamış olabileceği de kayıtlıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Moleküler saat analizleri, ilk vakaların büyük olasılıkla Ekim ile Kasım 2019 arasına düştüğünü öne sürer.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Resmî vaka sayıları yayılmanın hep gerisinde kaldı, çünkü sayım test edilip kayda geçen kişileri görür.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: 'official case counts refer to the number of people who have been tested', 'suspected cases far higher'."
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Erişim tarihindeki kayıt, 2022 sonuna kadar dünya nüfusunun yüzde 70'inin virüsle karşılaşmış olabileceği şüphesini not eder; doğrulanmış vaka sayısı bunun epey altındadır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak bilgi kutusu 'suspected cases far higher, 70% of the world population by the end of 2022' kaydini tasir; metinde tahmin/suphe oldugu acikca soylendi."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Örgüt salgını 30 Ocak 2020'de uluslararası boyutta halk sağlığı acil durumu ilan etti; 11 Mart 2020'de ise durumu pandemi olarak değerlendirdi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Acil durum üç yıldan uzun yürürlükte kaldı ve 5 Mayıs 2023'te sona erdi; kapanış açıklaması, hastalığın küresel bir sağlık tehdidi olmaya devam ettiğini de vurguluyordu.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Uc yildan uzun' ifadesi 30 Ocak 2020 - 5 Mayis 2023 araligindan turetildi; iki tarih de kaynakta."
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Virüs de bu süreçte sabit kalmadı: mutasyonlar, bulaşıcılığı ve şiddeti birbirinden farklı çok sayıda varyant üretti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem eklemesi (kapsam boslugu): kaynak 'Mutations have produced many strains (variants) with varying degrees of infectivity and virulence.'"
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Hastalık 2023'ten sonra da dolaşımda kaldı; 2025'e gelindiğinde uzmanların genel kanısı, pandeminin sona erip endemik faza geçtiği yönündeydi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Acil durum boyunca en yaygın önlemler seyahat kısıtlamaları, kapanmalar, iş yeri kapatmaları, maske zorunlulukları, karantinalar, test sistemleri ve temaslıların izlenmesiydi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Eğitim kurumları ve kamusal alanlar birçok yerde kısmen ya da tamamen kapatıldı; 2020 ve 2021 boyunca sayısız etkinlik iptal edildi ya da ertelendi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Ölçeği tek bir örnek verir: Hindistan 24 Mart 2020'de ülke çapında kapanmaya girdi ve kademeli açılma ancak 1 Haziran 2020'de başladı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Evden çalışma beyaz yakalı işlerde belirgin biçimde yaygınlaştı; insan hareketliliğinin azalması, kirlilikte daha önce görülmemiş geçici bir düşüş üretti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Aynı dönem pandemiyi bir bilgi sorununa da çevirdi: yanlış bilgi sosyal medyada ve zaman zaman ana akım medyada dolaştı, halk sağlığı zorunlulukları ile bireysel haklar arasındaki denge açık bir tartışma konusu oldu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Kapanma sonrası Hindistan hükümeti, temaslı takibini ve aşı dağıtımını yönetmek için Aarogya Setu adlı bir izleme uygulaması devreye soktu; salgın yönetimi böylece aynı zamanda kitlesel bir dijital altyapı sorusu hâline geldi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Aarogya Setu olgusu kaynakta dogrudan; 'dijital altyapi sorusu' cercevelemesi yazarin."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Pandemi, Büyük Buhran'dan bu yana en büyük küresel daralmayı tetikledi; tedarik zinciri kopmaları ve panik alımları, gıda dahil yaygın arz kıtlıklarına yol açtı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Amerika Birleşik Devletleri Kongresi'nin 27 Mart 2020'de yasalaştırdığı Koronavirüs Yardım, Rahatlama ve Ekonomik Güvenlik Yasası (CARES), ilk büyük bölümünün başlığını işçileri ücretli ve istihdamda tutma hedefiyle açar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yasanin adi, 'enacted March 27, 2020' kaydi ve 'DIVISION A—KEEPING WORKERS PAID AND EMPLOYED, HEALTH CARE SYSTEM ENHANCEMENTS, AND ECONOMIC STABILIZATION' basligi Wikisource tam metninde; baslik ucretlerle ACILIR ama saglik sistemi ve ekonomik istikrari da sayar, cumle buna gore 'aciyor' olarak duzeltildi (kor hakem, 2026-08-29)."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Aşılar salgının en hızlı işleyen cephesiydi: hızla geliştirildiler ve Aralık 2020'den itibaren genel nüfusa uygulanmaya başladılar.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Amerika Birleşik Devletleri'nde aşılar Aralık 2020'de acil kullanım kapsamında erişime açıldı; ilk aşının tam onayı ise 23 Ağustos 2021'de geldi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Dağıtım, hükümet programlarının yanı sıra COVAX gibi, amacı aşı eşitliği olarak tanımlanan uluslararası programlarla yürütüldü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Eşitliğin ayrıca bir amaç olarak anılması, dağılımın kendiliğinden eşit olmadığının kaydıdır: dozlar üretim kapasitesini ve satın alma gücünü izledi.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "COVAX'in asi esitligi amaci kaynakta dogrudan; dagilimin kapasite ve satin alma gucunu izledigi cikarimi yazarin."
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Uygulanan dozların yüz kişi başına birikimi, ülke ülke günlük seri hâlinde açık veri olarak derlenmiştir; ülkeler arasındaki açıklık bu seriden okunur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iddia serinin kendisi hakkinda; CSV sutunu total_vaccinations_per_hundred."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Ölçeğin öbür ucunu yine Hindistan gösterir: yurttaşların yüzde 90'ından fazlasına ulaşan aşı programı, dünyanın en büyüğü ve en başarılılarından biri sayıldı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin degerlendirmesi aktarildi: 'considered to be the world's largest and most successful with over 90% of citizens'."
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "En yüksek kayıtlı ölüm sayısını taşıyan Amerika Birleşik Devletleri'nde COVID-19, ülke tarihinin en ölümcül pandemisi oldu ve 2020'de kalp hastalığı ile kanserin ardından üçüncü ölüm nedeniydi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Aynı ülkede 2019'dan 2020'ye yaşam beklentisi Hispanik Amerikalılarda 3, Afrikalı Amerikalılarda 2,9, beyaz Amerikalılarda 1,2 yıl düştü.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Fark yalnızca ölüm sayılarında değildi: sağlık eşitliği ile ırk ve coğrafya temelli ayrımcılık, pandeminin gündeme taşıdığı sorular arasında kayıtlıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Erişim tarihinde (Ağustos 2026) kayıtlara geçmiş doğrulanmış ölüm sayısı 7,1 milyondu; aynı kaydın tahminî toplamı ise 18,5 ile 35,2 milyon arasında bir aralıktı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Degisebilir sayi; erisim tarihi damgasiyla verildi. Kaynak kaydi 7.115.203 olum, tahmin 18,5-35,2 milyon."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Doğrulanmış ölümlerin ülke ülke günlük birikimi açık seri olarak derlenir; ama bu sayım, tanımı gereği yalnızca test edilip kayda geçen ölümleri görür.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Serinin varligi k4'un kendisi (sutun total_deaths); dogrulanmis sayimin raporlanmayan olumleri kacirdigi k3'un asiri-olum gerekcesinde."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Aşırı ölüm, bu boşluğu ölçmek için kullanılan kavramdır: kriz sırasında bütün nedenlerden gerçekleşen ölümlerin, normal koşullarda beklenecek düzeyi aşan kısmıdır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Doğrulanmış ölüm sayısından daha kapsamlı bir ölçüdür, çünkü tanısı doğru konmamış ya da hiç raporlanmamış ölümleri de krizin dolaylı kayıplarını da yakalar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Dünya Sağlık Örgütü'nün Mayıs 2022'de yayımladığı tahmin bu yaklaşımın sonucudur: 2021 sonuna dek pandemiyle ilişkili yaklaşık 14,9 milyon aşırı ölüm — resmî kayıtlardaki 5,4 milyonun neredeyse üç katı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "14,9 ve 5,4 milyon kaynakta birebir; 'neredeyse uc kati' orani (2,76) bu iki sayidan hesaplandi."
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Kayıt dışı kalan 9,5 milyonluk farkın çoğunluğunun, dolaylı kayıplar değil doğrudan virüs ölümleri olduğu değerlendirilmektedir; Aralık 2022'de yayımlanan bir başka DSÖ çalışması, 14,8 milyonluk bir tahminle bu sonucu teyit etti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Bilimsel yazındaki ağırlıklı görüş, virüsün yarasalardan ya da onlara yakın bir memeliden insana doğal yolla, hayvan kaynaklı bir taşmayla geçtiği yönündedir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Virüsün bir laboratuvardan kazayla çıkmış olabileceği yönündeki açıklamalar da öne sürülmüştür; aynı kayıt, bu açıklamaların 2021 itibarıyla yeterli kanıtla desteklenmediğini not eder.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki hipotez de aktarildi; 2021 tarihli kanit degerlendirmesi kaynagin kendi kaydi olarak cercevelendi, metin taraf tutmuyor."
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Erken vakaların pazar bağlantısı ile moleküler saat bulguları doğal taşma hipotezinin başlıca dayanaklarıdır; laboratuvar hipotezi ise kamusal tartışmada canlılığını korumuştur ve kesin bir yanıt iki taraf için de ortaya konabilmiş değildir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Pazar baglantisi ve molekuler saat bulgulari kaynakta dogrudan; 'kamusal tartismada canliligini korudu' degerlendirmesi yazarin sentezi."
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Uzun dönemli seride dünya nüfusu 2019'da yaklaşık 7,81 milyardır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV 2019 satiri 7.811.293.699; iki ondalikla 7,81 milyar olarak yuvarlandi. KAPI 19 ile olculuyor."
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Kayıtlara geçen 7,1 milyon ölüm bu nüfusun kabaca binde birine, 14,9 milyonluk aşırı-ölüm tahmini kabaca binde ikisine karşılık gelir; oranı hangi sayının vereceği, sayım tartışmasının kendisidir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Oranlar yazarin aritmetigi: 7,1/7.811 = yaklasik binde bir, 14,9/7.811 = yaklasik binde iki; girdi sayilari k1 ve k6'da."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 36,
+    "kismi": 5,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

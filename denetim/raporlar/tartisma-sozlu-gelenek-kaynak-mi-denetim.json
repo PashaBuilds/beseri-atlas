@@ -1,373 +1,475 @@
 {
   "id": "tartisma-sozlu-gelenek-kaynak-mi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:28.465Z",
-  "govde_hash": "4e90a34560a7",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T23:38:44.826Z",
+  "govde_hash": "b9df050018b7",
+  "commit": "9d53473",
   "sonuclar": [
     {
-      "anahtar": "k2",
-      "iddia": "Soru, tarih yazımının bir meslek hâline geldiği ve belgeye dayanmayı ölçüt saydığı dönemde keskinleşti.",
+      "anahtar": "k3",
+      "iddia": "Sözlü gelenek, bir topluluğun geçmişine dair bilgiyi yazıya değil belleğe, kalıba ve tekrara emanet eden aktarım biçimlerinin ortak adıdır; şecereler, kral list",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Sözlü gelenek, bir topluluğun geçmişine dair bilgiyi yazıya değil belleğe, kalıba ve tekrara emanet eden aktarım biçimlerinin ortak adıdır; şecereler, kral list",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Sorunun siyasi bir tarafı vardı ve bugün de var.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bu, sorunun neden yalnızca yöntem sorusu olmadığını gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Yirminci yüzyılın ortasında bağımsızlığını kazanan devletler, kendi tarihlerinin yazılmasını istediler ve elde yeterli belge yoktu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bu dönemde geliştirilen yöntem önerileri, sözlü aktarımı reddetmek yerine ona uygulanacak bir eleştiri yöntemi kurmayı denedi.",
+      "iddia": "Tartışma, bu aktarımların geçmiş hakkında olgu bildiren birer kaynak mı, yoksa yalnızca anlatan topluluğun bugününü gösteren birer belge mi sayılacağı üzerinedi",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Atlas bu yöntem önerisini bir çözüm olarak değil bir konum olarak kaydeder.",
+      "iddia": "Tartışma, bu aktarımların geçmiş hakkında olgu bildiren birer kaynak mı, yoksa yalnızca anlatan topluluğun bugününü gösteren birer belge mi sayılacağı üzerinedi",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Belge önceliği konumunun merkezindeki iddia, yazının aktarımı sabitlediğidir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k5",
+      "iddia": "Sahra altı Afrika'nın, Amerikaların ve Okyanusya'nın geniş bölümleri yakın zamana kadar ya yazı kullanmadı ya da yazılı kayıtları fetih ve sömürge yönetimi altı",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Sözlü aktarımda böyle bir sabitleme yoktur ve bu fark inkâr edilmez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k5",
+      "iddia": "Sömürgeden çıkan devletlerin kendi geçmişlerini yazma talebi, soruyu akademik bir merak olmaktan çıkarıp uygulamalı bir sorun hâline getirdi ve UNESCO'nun Genel",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Derecelendirmenin kendisi bir sorun doğurur.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Sözlü aktarımı savunan konumun en güçlü karşı hamlesi, yazılı kaynakların da zincir taşıdığını göstermektir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Atlasın en çok kullandığı tanık kaynaklarından biri, gezginin kendi gördükleri kadar yolda dinlediklerini de içerir.",
+      "anahtar": "k3",
+      "iddia": "Bir ayrım baştan konmalıdır: buradaki soru, yaşayan tanıklarla yapılan görüşmeleri kasteden uygulamasından farklıdır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Aynı durum atlasın Batı Afrika dosyalarında da kayıtlıdır.",
+      "iddia": "Sözlü gelenekte anlatıcı, anlattığı olayın tanığı değildir; bilgi ona kuşaklar boyu süren bir zincirle ulaşmıştır ve tartışılan şey tam da bu zincirin taşıma gü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sözlü gelenekte anlatıcı, anlattığı olayın tanığı değildir; bilgi ona kuşaklar boyu süren bir zincirle ulaşmıştır ve tartışılan şey tam da bu zincirin taşıma gü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Robert Lowie 1915'te Amerikan antropolojisinin dergisinde yayımladığı kısa notta konumunu olabilecek yalınlıkta özetledi: \"sözlü geleneklere, hangi koşulda olur",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bu gözlem, iki kaynak türü arasındaki farkı bir tür farkından derece farkına indirir.",
+      "anahtar": "k6",
+      "iddia": "Gerekçesi bir ikilemdi; ona göre bir geleneğin doğruluğu ancak dil bilimi, etnoloji ya da arkeoloji gibi dış kanıtlarla bilinebilir, dış kanıt varsa gelenek ger",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı notta Sidney Hartland'ın 1914'te Baganda ve Bushongo gelenekleri üzerine yürüttüğü incelemeyi kendi görüşünün desteği olarak anar.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Karşı konum bu indirgemeyi kabul etmez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Bu ret kendi başına doğmadı; on dokuzuncu yüzyılda Leopold von Ranke'nin adıyla anılan belge merkezli tarihçilik, mesleğin ölçütünü arşivde sınanabilir kayda ba",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Atlas iki değerlendirmeyi de kaydeder ve bir sonuca bağlamaz.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k6",
+      "iddia": "Bu ret kendi başına doğmadı; on dokuzuncu yüzyılda Leopold von Ranke'nin adıyla anılan belge merkezli tarihçilik, mesleğin ölçütünü arşivde sınanabilir kayda ba",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Üçüncü konum, tartışmayı üçüncü bir kanıt türüne havale eder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Zeminin gücü, atlasın kendi dosyalarında görülebilir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Zeminin sınırı da aynı dosyada görülür.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Arkeolojik doğrulama şartının az konuşulan bir sonucu vardır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k5",
+      "iddia": "Ölçütün siyasi bir gölgesi de vardı: belge yoksa tarih de yoktur çıkarımı, sömürge yönetimlerinin bazı bölgeleri tarihsiz sayan söylemiyle rahatça birleşti ve A",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Sonuç şudur: şart uygulandığında, kazı imkânı olan bölgelerin geçmişi doğrulanmış, olmayanların ki doğrulanmamış sayılır.",
+      "iddia": "Ölçütün siyasi bir gölgesi de vardı: belge yoksa tarih de yoktur çıkarımı, sömürge yönetimlerinin bazı bölgeleri tarihsiz sayan söylemiyle rahatça birleşti ve A",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Belçika yönetiminin Kongo'daki ve Ruanda'daki araştırma kurumlarında çalışan Vansina kitabı 1961'de yayımladı; çalışma İngilizce yazına Oral Tradition: A Study ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Belçika yönetiminin Kongo'daki ve Ruanda'daki araştırma kurumlarında çalışan Vansina kitabı 1961'de yayımladı; çalışma İngilizce yazına Oral Tradition: A Study ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Önerinin özü, yazılı sorularını aktarım zincirine uyarlamaktı: anlatan kim, kimden öğrendi, hangi ortamda ve hangi kurumsal denetim altında aktarıyor, hangi böl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Önerinin özü, yazılı sorularını aktarım zincirine uyarlamaktı: anlatan kim, kimden öğrendi, hangi ortamda ve hangi kurumsal denetim altında aktarıyor, hangi böl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kitabın yankısını ölçmek için Genel Afrika Tarihi'nin açılış cildindeki tarih yazımı bölümüne bakmak yeter: bölüm, George Murdock'ın 1959'da yerli sözlü gelenek",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Cildin editörü Joseph Ki-Zerbo girişte konumu daha da öteye taşır; ona göre sözlü gelenek \"başka hiçbir şey kalmadığında başvurulan ikinci sınıf bir kaynak deği",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Vansina yöntemi yirmi yılı aşan saha ve arşiv deneyiminden sonra 1985'te Oral Tradition as History başlığıyla yeniden kurdu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Vansina yöntemi yirmi yılı aşan saha ve arşiv deneyiminden sonra 1985'te Oral Tradition as History başlığıyla yeniden kurdu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Sonraki kitap, geleneği arşivdeki belgenin sözlü bir eşdeğeri gibi görmekten uzaklaşır ve onu her kuşakta yeniden üretilen, bu üretim koşulları bilinirse eleşti",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Atlas bu sonucu kaydeder ve şartı reddetmez.",
+      "iddia": "Sonraki kitap, geleneği arşivdeki belgenin sözlü bir eşdeğeri gibi görmekten uzaklaşır ve onu her kuşakta yeniden üretilen, bu üretim koşulları bilinirse eleşti",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Dördüncü konum, soruyu yeniden kurar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bu konumun kazancı açıktır: doğrulama sorunu ortadan kalkar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Kaybı da açıktır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bu örtüşme, tartışmanın en dikkate değer yanıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Örtüşmenin sebebi, ikisinin de sözlü aktarımdan olgu çıkarmayı reddetmesidir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu örtüşmeyi kaydeder çünkü konumların gerekçeleriyle sonuçlarının ayrı ayrı değerlendirilmesi gerektiğini gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k9",
+      "iddia": "Jack Goody ile Ian Watt'ın 1963 tarihli ortak makalesi tartışmaya başka bir katman ekledi: yazı yalnızca bir kayıt tekniği değil, bilginin düzenlenme biçimini d",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Atlas bu tartışmada bir taraf tutmaz ama dosyalarını yazarken bir uygulama tercihi yapmak zorundadır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Bu tercih atlasın Batı Afrika, Amerika ve Orta Asya dosyalarında uygulanmıştır.",
+      "iddia": "Jack Goody ile Ian Watt'ın 1963 tarihli ortak makalesi tartışmaya başka bir katman ekledi: yazı yalnızca bir kayıt tekniği değil, bilginin düzenlenme biçimini d",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Tercihin bedeli de kaydedilmelidir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Tartışmanın en karmaşık durumu, sözlü bir geleneğin bir noktada yazıya geçirilmiş olmasıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Böyle bir metin hangi kategoriye girer?",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Atlas bu metinleri yazıya geçiriliş tarihiyle künyeler, anlatının kendi tarihiyle değil.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Yazıya geçirme işlemi tarafsız değildir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Atlasın Amerika kaynak dosyalarından biri bu durumun en açık örneğidir.",
+      "anahtar": "k8",
+      "iddia": "Goody bu tezi The Domestication of the Savage Mind ile genişletti; liste, tablo ve arşiv gibi biçimler yazıyla mümkün olur ve geçmişi bugünden bağımsız bir kayı",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bu üçlü durum — eski anlatı, yeni alfabe, değişmiş siyasi koşul — metni tek bir kategoriye yerleştirmeyi imkânsız kılar.",
+      "anahtar": "k9",
+      "iddia": "Goody bu tezi The Domestication of the Savage Mind ile genişletti; liste, tablo ve arşiv gibi biçimler yazıyla mümkün olur ve geçmişi bugünden bağımsız bir kayı",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Bir yandan belgeci şüpheciliğe kuramsal bir zemin verir: yazısız aktarımda geçmiş, bugünün ihtiyaçlarına göre sessizce yeniden hizalanır ve topluluk bu hizalama",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Tartışmanın soyut kalmaması için ölçülebilir bir gösterge kullanılabilir: bir bölge hakkındaki iddiaların kaç bağımsız kanıt türüne dayandığı.",
+      "anahtar": "k9",
+      "iddia": "Bir yandan belgeci şüpheciliğe kuramsal bir zemin verir: yazısız aktarımda geçmiş, bugünün ihtiyaçlarına göre sessizce yeniden hizalanır ve topluluk bu hizalama",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Üç kanıt türü — yazılı çağdaş kayıt, sözlü aktarım, maddi bulgu — bir arada bulunuyorsa iddia güçlüdür.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu göstergeyi dosyalarında elle uygular ve otomatik olarak ölçmez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Tartışma kapanmıyor çünkü taraflar farklı sorulara cevap veriyor.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "İki soru da meşrudur ve birbirini dışlamaz.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Atlas bu ikinci yolu izler ve tartışmayı çözmez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bu dosya, atlasın kendi yöntemini doğrudan ilgilendiren ilk tartışma dosyalarından biridir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Ayrımın pratik sonucu şudur: bu dosyada verilecek bir hüküm, atlasın yüzlerce dosyasını doğrudan etkilerdi.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Okur bu dosyayı, atlasın Afrika, Amerika ve Orta Asya dosyalarını okumadan önce okumalıdır.",
+      "anahtar": "k9",
+      "iddia": "Öte yandan tezin kendisi bir tarih yazımı yasağı içermez; Goody'nin derdi sözlü kültürü değersizleştirmek değil, iki iletişim rejiminin farklı bilgi düzenleri ü",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Sözlü geleneği savunan konumun teknik dayanaklarından biri, bazı aktarım biçimlerinin değişmeye karşı yapısal olarak dirençli olmasıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Öte yandan tezin kendisi bir tarih yazımı yasağı içermez; Goody'nin derdi sözlü kültürü değersizleştirmek değil, iki iletişim rejiminin farklı bilgi düzenleri ü",
+      "durum": "OK",
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "İddia sınanabilirdir ve sınanmıştır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k3",
+      "iddia": "David Henige'nin adıyla anılan geri besleme sorunu, sahadaki denetimin ne kadar kaygan olduğunu gösterir: yazılı eserlerden sızan ya da sonradan edinilen bilgi,",
+      "durum": "OK",
+      "not": ""
     },
     {
-      "anahtar": "k2",
-      "iddia": "Bulgunun sınırı da bellidir.",
+      "anahtar": "k3",
+      "iddia": "Bir anlatının arşivdeki kayıtla örtüşmesi bu durumda iki şeyin kanıtı olabilir; ya aktarım sadıktır ya da anlatı o kaydın kendisinden beslenmiştir ve iki ihtima",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Sözlü aktarımda kaydın sahibi bellidir ve bu, yazılı kayıtta çoğu zaman belirsizdir.",
+      "iddia": "Anlatıcı bir dinleyici topluluğunun karşısındadır, anlatı o toplulukla birlikte biçimlenir ve eğlendirme kaygısı doğruluk kaygısının önüne geçebilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ruth Finnegan'ın Afrika sözlü edebiyatı üzerine 1970 tarihli incelemesi bu gözlemi ilkeye yükseltir: sözlü ürün ancak bir icracının onu belirli bir vesileyle sö",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Milman Parry ile Albert Lord'un Homeros şiirinden yola çıkıp Balkan halk ozanları üzerinde sınadığı formül araştırması, uzun anlatıların kelimesi kelimesine ezb",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bulgu iki yöne birden çekilebilir: kalıplar aktarıma bir iskelet kazandırır ve serbest bölümlerden daha dayanıklıdır; ama aynı bulgu, kuşaklar boyu değişmeden t",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Bulgu iki yöne birden çekilebilir: kalıplar aktarıma bir iskelet kazandırır ve serbest bölümlerden daha dayanıklıdır; ama aynı bulgu, kuşaklar boyu değişmeden t",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Sözlü anlatı bu okumada geçmişteki olayların değil, onu bugün anlatan topluluğun kendini anlama biçiminin belgesidir; bir soy anlatısına sorulacak verimli soru,",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bu, sözlü aktarımın beklenmedik bir üstünlüğüdür.",
+      "iddia": "Sözlü anlatı bu okumada geçmişteki olayların değil, onu bugün anlatan topluluğun kendini anlama biçiminin belgesidir; bir soy anlatısına sorulacak verimli soru,",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Folklor ve edebiyat incelemesi çizgisinde yaygın olan bu yaklaşım doğrulama sorununu çözmez, sahneden kaldırır; bedeli, yazısız toplumların olay tarihini belge ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Üstünlüğün karşılığı da vardır.",
+      "iddia": "Folklor ve edebiyat incelemesi çizgisinde yaygın olan bu yaklaşım doğrulama sorununu çözmez, sahneden kaldırır; bedeli, yazısız toplumların olay tarihini belge ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Sözlü anlatıların çoğu, boş zamanda anlatılan hikâyeler değildir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bu işlev, anlatının içeriğini doğrudan etkiler.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu baskıyı yazılı kaynaklarda da kaydeder.",
+      "iddia": "Aktarım nadiren mutlak tarih taşır; araştırmacılar kral listelerini ve şecereleri kuşak ortalamalarıyla, yaygın uygulamada kuşak başına 27 yıl sayarak takvime b",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Tartışma bugün büyük ölçüde birinci ve üçüncü konumların birleşimi yönünde işliyor.",
+      "iddia": "Hesap kâğıt üzerinde zariftir ama atlanan kuşaklar, birleştirilen adaşlar ve paralel hatlar sonuca sessizce sızar; bu yüzden kuşak hesabına dayalı tarihler, bağ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Bu birleşim bir uzlaşma değil bir iş bölümüdür.",
+      "anahtar": "k11",
+      "iddia": "Hesap kâğıt üzerinde zariftir ama atlanan kuşaklar, birleştirilen adaşlar ve paralel hatlar sonuca sessizce sızar; bu yüzden kuşak hesabına dayalı tarihler, bağ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Atlas bu pratiği izler ve kuramsal ayrılığı künyede açık bırakır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k11",
+      "iddia": "Abraham Fornander 1878'de Polinezya soy zincirlerini tam bu işe koştu: Hawaii'nin geçmişini, David Malo ve Kamakau gibi yerli bilginlerin derlemelerine ve şecer",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kavramın kendisi için , kaynakların nasıl sınanacağı için dosyaları okunmalıdır.",
+      "anahtar": "k11",
+      "iddia": "Çalışma bugün iki şeyin birden kaydı olarak okunur; on dokuzuncu yüzyılın soy zincirine duyduğu güvenin ve o zincirler derlenmeseydi bugün erişilemeyecek bir ak",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Üçüncü kanıt türü için , kaydı kimin tuttuğunun neyi değiştirdiği için dosyaları uygundur.",
+      "iddia": "Çalışma bugün iki şeyin birden kaydı olarak okunur; on dokuzuncu yüzyılın soy zincirine duyduğu güvenin ve o zincirler derlenmeseydi bugün erişilemeyecek bir ak",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
+      "anahtar": "k10",
+      "iddia": "Bu şartın gücünü gösteren erken bir örnek Büyük Zimbabve'dir: kalıntılar yerleşimci yazınında Doğu'dan gelmiş kayıp bir uygarlığa yakıştırılıyordu; David Randal",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Kazı burada yerli geçmişi silen bir efsaneyi çürüttü ve bölge halklarının geçmişini tarihlenebilir bir zemine oturttu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Djibril Tamsir Niane'nin 1960'ta bir griot'tan derleyip yayımladığı Sunjata destanı, Mali'nin ortaçağ geçmişi üzerine çalışmanın başlıca girişlerinden biri oldu",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Djibril Tamsir Niane'nin 1960'ta bir griot'tan derleyip yayımladığı Sunjata destanı, Mali'nin ortaçağ geçmişi üzerine çalışmanın başlıca girişlerinden biri oldu",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bu iş bölümü bir uzlaşma sayılmamalıdır; anlatının kazı bulgusuyla kesiştiği yerde iki taraf da kendini doğrulanmış görür, ayrıştığı yerde hangisine öncelik ver",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu iş bölümü bir uzlaşma sayılmamalıdır; anlatının kazı bulgusuyla kesiştiği yerde iki taraf da kendini doğrulanmış görür, ayrıştığı yerde hangisine öncelik ver",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bilgi kuramındaki tanıklık tartışması, başkasının sözüne dayanan inancın ne zaman bilgi sayılacağını sorar; indirgemeci görüşe göre her tanıklık dinleyenin elin",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Lowie'nin dış kanıt şartı bu ayrımın indirgemeci kanadının tarih yöntemine çevirisi gibi okunabilir; Vansina'nın zincir eleştirisi ise tanıklığı reddetmeden der",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Vansina"
+    },
+    {
       "anahtar": "k2",
-      "iddia": "Tartışmanın somut hâllerini görmek için , ve dosyaları okunmalıdır; üçü, üç farklı kanıt durumunu temsil eder.",
+      "iddia": "Lowie'nin dış kanıt şartı bu ayrımın indirgemeci kanadının tarih yöntemine çevirisi gibi okunabilir; Vansina'nın zincir eleştirisi ise tanıklığı reddetmeden der",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Vansina"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "1304'te Tanca'da doğdu; 1354'te sona eren, çeyrek yüzyılı aşan yolculuğunun kaydı, dönüşünde anlattıklarının sultanın görevlendirdiği İbn Cüzeyy (Ibn Juzayy) el",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Gibb'in çeviriye yazdığı giriş bu kaydın niteliği konusunda açık sözlüdür: gezgin yol boyunca not tutan bir yazar değildi, gördüklerini ve dinlediklerini belleğ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k4",
-      "iddia": "Yazılı bir kaynağın ne kadarının sözlü aktarıma dayandığını görmek için dosyası okunabilir.",
+      "iddia": "Böyle bir metinde görgü tanıklığı ile yolda dinlenmiş aktarım iç içe geçer; hangi bilginin hangisine dayandığı çoğu yerde metnin kendisinden çıkarılamaz ve okur",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Böyle bir metinde görgü tanıklığı ile yolda dinlenmiş aktarım iç içe geçer; hangi bilginin hangisine dayandığı çoğu yerde metnin kendisinden çıkarılamaz ve okur",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Fornander'in yararlandığı Hawaii derlemeleri, Malo ve Kamakau gibi şecereleri kendi topluluklarının içinden yazıya geçiren bilginlerin elinden çıkmıştı; Niane'n",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Fornander'in yararlandığı Hawaii derlemeleri, Malo ve Kamakau gibi şecereleri kendi topluluklarının içinden yazıya geçiren bilginlerin elinden çıkmıştı; Niane'n",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu metinler hem yazılı hem sözlüdür; kaydın tarihi ile anlatının konu edindiği geçmiş ayrı katmanlar olarak okunduğunda, iki kaynak türü arasındaki fark bir tür",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu metinler hem yazılı hem sözlüdür; kaydın tarihi ile anlatının konu edindiği geçmiş ayrı katmanlar olarak okunduğunda, iki kaynak türü arasındaki fark bir tür",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aktarım kurumu bilinen gelenekler — kim aktarır, hangi eğitimle, hangi denetim altında — kurumu bilinmeyenlere göre daha güçlü kaynaklardır; ölçü ve kalıp taşıy",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aktarım kurumu bilinen gelenekler — kim aktarır, hangi eğitimle, hangi denetim altında — kurumu bilinmeyenlere göre daha güçlü kaynaklardır; ölçü ve kalıp taşıy",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bağımsız bir kanıt türüyle — kazı, dil bilimi, çağdaş yazılı kayıt — kesişen aktarım, kesişmeyenden farklı bir güven düzeyinde tutulur ve bu derecelendirmenin k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bağımsız bir kanıt türüyle — kazı, dil bilimi, çağdaş yazılı kayıt — kesişen aktarım, kesişmeyenden farklı bir güven düzeyinde tutulur ve bu derecelendirmenin k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Geri beslemenin tespiti çoğu durumda erken tarihli yazılı derlemelerin varlığına bağlıdır; oysa sorun tam da böyle derlemelerin olmadığı yerlerde büyür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aktarım kurallarının bilgisi çoğunlukla geleneğin kendi içinden gelir ve ölçüt, ölçtüğü şeye yaslanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kuşak hesabına dayalı kronolojiler bağımsız tarihleme olmadan sınanamaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Kuşak hesabına dayalı kronolojiler bağımsız tarihleme olmadan sınanamaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Taraflar üstelik aynı soruya cevap vermez: belge önceliği hangi iddianın doğrulanabilir olduğunu, karşı konum kimin geçmişinin yazılabilir olduğunu sorar ve iki",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Taraflar üstelik aynı soruya cevap vermez: belge önceliği hangi iddianın doğrulanabilir olduğunu, karşı konum kimin geçmişinin yazılabilir olduğunu sorar ve iki",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

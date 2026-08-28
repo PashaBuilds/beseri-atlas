@@ -4514,3 +4514,25 @@ Parti 2 sahada: olay-covid, veri-fosil-elektrik-payi,
 tartisma-sozlu-gelenek-kaynak-mi, donem-06 (meta-dil + Tang atıf
 onarımı). Bunlar bitince pilot 12/12 tamamlanmış olacak; pilot
 değerlendirmesi ve Faz 3 ölçekleme kararı yazılacak.
+
+## 2026-08-29 — Faz 2 PİLOT KAPANDI: 12/12 YAYINA UYGUN
+
+İkinci parti (covid, fosil-elektrik, sözlü-gelenek, donem-06) ilk
+denemede oturum limitine takıldı; dosyalar dokunulmamış çıktı, temiz
+yeniden başlatma sorunsuz. Hakem katmanının bu partide yakaladıkları:
+CARES başlık aşımı ve varyant boşluğu (covid), fosil süs dipnotu +
+20 sayının bağımsız yeniden türetimi, sözlü-gelenekte üç kaynaksız
+kesinlik (1354/1965/1977) ve iki destek düşürme, donem-06'da
+pinyin/Wade-Giles birleştirme + "Tartar" etnoniminin kaynağa
+atfedilmesi + Beytülhikme kuruluş ihtiyatı. Onarım sonrası donem-06
+ölçümü: meta-dil 70→0, bölüm 44→15, ATOMSUZ %83→%20 — dönem
+katmanının Faz 3 şablonu bu.
+
+Entegrasyon sonrası düzeltmeler (orkestratör): donem-06'da 4 dipnotsuz
+analitik paragraf birleştirme/dipnotla kapatıldı; "tarihyazımı" kilitli
+terim düzeltildi; iki matrisin hash'i notla güncellendi. who.int havuza
+gerekçeyle eklendi (K4). KAPI 18 defteri ikinci kez indi: dosya 479→475,
+"Atlas" 2712→2658, "ayrıca kaydeder" 1034→1003, şablon kapanış 546→542.
+
+Pilot bütçe ölçümü: 12 dosya ≈ 3,9M jeton (onarım+hakem; dosya başına
+~300k). Faz 3 P1 (tartışma en kötü 10) bununla planlandı.

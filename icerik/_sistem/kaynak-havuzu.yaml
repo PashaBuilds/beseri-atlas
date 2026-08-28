@@ -137,6 +137,16 @@ whitelist:
     tur: veri
     dogrulanabilir: true
     lisans: CC-BY
+  - alan: who.int
+    tur: akademik
+    dogrulanabilir: true
+    kapsam: [saglik, salgin, modern]
+    not: >
+      Dunya Saglik Orgutu resmi sayfalari. 2026-08-29 olcumu: iki sayfa
+      programatik fetch'te 200 + dogrulanabilir metin dondurdu (ornegin
+      asiri-olum tahmini haber sayfasi "14.9 million" dizesini birebir
+      tasiyor). Modern saglik/salgin iddialarinin resmi kaynagi olarak
+      Wikipedia'ya ustun tercih.
   - alan: population.un.org
     tur: veri
     dogrulanabilir: false

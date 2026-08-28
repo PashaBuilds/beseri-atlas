@@ -3,9 +3,10 @@ id: tartisma-sozlu-gelenek-kaynak-mi
 tip: tartisma
 baslik: Sözlü gelenek tarihsel kaynak sayılır mı?
 ozet: >-
-  Yazının kullanılmadığı ya da kayıtların yok olduğu toplumların geçmişi
-  nasıl yazılır — kuşaktan kuşağa aktarılan anlatılar bir kaynak mıdır,
-  yoksa yalnızca incelenecek bir konu mudur?
+  Lowie'nin kesin reddinden Vansina'nın yöntem önerisine, Goody-Watt
+  okuryazarlık tezinden kazıyla çapraz sınamaya: kuşaktan kuşağa aktarılan
+  anlatıların geçmiş hakkında olgu bildiren kaynak sayılıp sayılmayacağı
+  tartışmasının gerçek tarafları, dayanakları ve açık kalan soruları.
 soru: Kuşaktan kuşağa sözlü olarak aktarılan anlatılar, geçmiş hakkında olgu bildiren bir tarihsel kaynak sayılabilir mi?
 neden_onemli: >
   Bu sorunun cevabı, dünyanın hangi bölgelerinin tarihinin yazılabileceğini
@@ -120,320 +121,313 @@ kaynaklar:
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Epistemological Problems of Testimony"
     url: https://plato.stanford.edu/entries/testimony-episprob/
-    erisim_tarihi: 2026-08-25
+    erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "Testimony"
-    not: "Baskasindan alinan bilginin bilgi sayilip sayilamayacagi sorusunun genel cercevesi"
+    not: "Baskasinin sozune dayanan inancin bilgi sayilip sayilamayacagi sorusunun genel cercevesi; indirgemecilik tartismasi"
   - anahtar: k2
     tur: akademik
     ad: "Stanford Encyclopedia of Philosophy - Philosophy of History"
     url: https://plato.stanford.edu/entries/history/
-    erisim_tarihi: 2026-08-25
+    erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "Philosophy of History"
-    not: "Tarih yaziminda kanit ve dogrulama tartismasi"
+    not: "Tarih yaziminda kanit, arsiv ve dogrulama tartismasi; Ranke cizgisinin baglami"
   - anahtar: k3
     tur: ansiklopedi
     ad: "Wikipedia (EN) - Oral tradition"
     url: https://en.wikipedia.org/wiki/Oral_tradition
-    erisim_tarihi: 2026-08-25
+    erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "Oral tradition"
-    not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane"
+    not: "Giris kapisi; havuz kurali geregi makalede en fazla bir tane. Geri besleme, kusak ortalamasi ve arastirmaci adlari icin kullanildi"
   - anahtar: k4
     tur: birincil
     birincil_tur: tanik
     ad: "Ibn Battuta — Travels in Asia and Africa, Gibb cevirisi (1929)"
-    url: https://archive.org/details/dli.ernet.16353
-    erisim_tarihi: 2026-08-25
-    dogrulama_dizesi: "Ibn Battuta"
-    not: "Buyuk bolumu kulaktan aktarima dayanan yazili bir kaynak; iki turun sinirini gosterir"
-son_denetim: 2026-08-25
+    url: https://archive.org/download/dli.ernet.16353/16353-Ibn%20Battuta%20Travels%20In%20Asia%20And%20Africa_djvu.txt
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "Juzayy"
+    not: "Tam metin (djvu, 400k sinirinda kesilir); Gibb'in girisi metnin bellekten anlatima dayandigini aktarir"
+  - anahtar: k5
+    tur: akademik
+    ad: "UNESCO General History of Africa, cilt I: Methodology and African Prehistory (ed. J. Ki-Zerbo, 1981)"
+    url: https://archive.org/download/unesco_general_history_africa_i/general_history_africa_i_djvu.txt
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "Oral tradition and its methodology"
+    not: "Tam metin (djvu, 400k sinirinda kesilir); Ki-Zerbo'nun girisi ve tarihyazimi bolumu ilk 400k icindedir, Vansina'nin 7. bolumu sinirin otesindedir"
+  - anahtar: k6
+    tur: birincil
+    birincil_tur: eser
+    ad: "Robert H. Lowie — Oral Tradition and History, American Anthropologist 17 (1915)"
+    url: https://archive.org/download/jstor-660515/660515_djvu.txt
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "I cannot attach to oral traditions"
+    not: "Belgeci reddin kendi metni; tam metin"
+  - anahtar: k7
+    tur: birincil
+    birincil_tur: eser
+    ad: "Jan Vansina — Oral Tradition as History (1985), Internet Archive kaydi"
+    url: https://archive.org/stream/oraltraditionash0000vans/oraltraditionash0000vans_djvu.txt
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "Oral tradition as history"
+    not: "Odunc kisitli nusha; sayfa yalniz katalog kaydi tasir, bu kunyeye yaslanan iddialar kismi sayilir"
+  - anahtar: k8
+    tur: birincil
+    birincil_tur: eser
+    ad: "Jack Goody — The Domestication of the Savage Mind (1977), Internet Archive kaydi"
+    url: https://archive.org/stream/domesticationofs0000good/domesticationofs0000good_djvu.txt
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "savage mind"
+    not: "Odunc kisitli nusha; sayfa yalniz katalog kaydi tasir, bu kunyeye yaslanan iddialar kismi sayilir"
+  - anahtar: k9
+    tur: akademik
+    ad: "Ruth Finnegan — Oral Literature in Africa (1970; acik erisimli 2012 basimi)"
+    url: https://archive.org/download/OralLiteratureInAfrica/OralLiteratureInAfrica_djvu.txt
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "Oral Literature in Africa"
+    not: "Tam metin (djvu, 400k sinirinda kesilir); icra vurgusu ve Goody-Watt 1963 atfi icin kullanildi"
+  - anahtar: k10
+    tur: birincil
+    birincil_tur: kazi
+    ad: "David Randall-MacIver — Mediaeval Rhodesia (1906)"
+    url: https://archive.org/download/medivalrhodesia00rand/medivalrhodesia00rand_djvu.txt
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "RANDALL-MACIVER"
+    not: "Buyuk Zimbabve kazilarinin raporu; tam metin"
+  - anahtar: k11
+    tur: birincil
+    birincil_tur: eser
+    ad: "Abraham Fornander — An Account of the Polynesian Race, cilt I (1878)"
+    url: https://archive.org/download/accountofpolynes01fornuoft/accountofpolynes01fornuoft_djvu.txt
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "Polynesian"
+    not: "Soy zincirlerini kronoloji olarak kullanan on dokuzuncu yuzyil calismasinin kendisi; tam metin (400k sinirinda kesilir)"
+son_denetim: 2026-08-29
 denetim_durumu: onaylandi
-onarim_turu: 0
+onarim_turu: 1
 ---
 
-## Sorunun kendisi ne zaman soruldu
-
-Soru, tarih yazımının bir meslek hâline geldiği ve belgeye dayanmayı ölçüt
-saydığı dönemde keskinleşti.[^k2] Ölçüt konulduğunda, belge bırakmamış
-toplumların ne yapılacağı sorusu da beraberinde geldi.
-
-Sorunun siyasi bir tarafı vardı ve bugün de var.[^k3] Belge önceliği ölçütü,
-sömürge yönetimleri döneminde bazı bölgelerin tarihinin bulunmadığı
-iddiasına dayanak yapıldı; iddia, yönetimin gerekçesinin bir parçası hâline
-geldi.
-
-Bu, sorunun neden yalnızca yöntem sorusu olmadığını gösterir.[^k2] Bir ölçütün
-seçilmesi, kimin geçmişinin yazılabileceğini de seçmiş olur ve bu seçim
-tarafsız bir işlem değildir.
-
-## Yirminci yüzyılda soru neden geri geldi
-
-Yirminci yüzyılın ortasında bağımsızlığını kazanan devletler, kendi
-tarihlerinin yazılmasını istediler ve elde yeterli belge yoktu.[^k3] Soru
-akademik bir tartışma olmaktan çıkıp uygulamalı bir sorun hâline geldi.
-
-Bu dönemde geliştirilen yöntem önerileri, sözlü aktarımı reddetmek yerine ona
-uygulanacak bir eleştiri yöntemi kurmayı denedi.[^k3] Öneri, yazılı kaynak
-eleştirisinin sorularını sözlü aktarıma uyarlamaya dayanıyordu.
-
-Atlas bu yöntem önerisini bir çözüm olarak değil bir konum olarak
-kaydeder.[^k1] Önerinin kendi zayıf yanı vardır ve künyedeki pozisyon
-listesinde yazılıdır.
-
-## Aktarımın sabitlenmesi sorunu
-
-Belge önceliği konumunun merkezindeki iddia, yazının aktarımı sabitlediğidir.[^k2]
-Bir metin yazıldığı anda o hâliyle durur; sonraki değişiklikler nüsha
-karşılaştırmasıyla görünür hâle gelir.
-
-Sözlü aktarımda böyle bir sabitleme yoktur ve bu fark inkâr edilmez.[^k1]
-Karşı konum, farkı reddetmek yerine derecelendirir: bazı sözlü gelenekler
-katı aktarım kuralları taşır, bazıları taşımaz ve ikisi aynı güvenilirlikte
-sayılmamalıdır.
-
-Derecelendirmenin kendisi bir sorun doğurur.[^k1] Bir geleneğin ne kadar katı
-aktarım kuralı taşıdığı bilgisi, çoğu zaman aynı gelenekten öğrenilir; ölçüt,
-ölçeceği şeyin verdiği bilgiye dayanır.
-
-## Yazılı kaynağın da aktarım zinciri vardır
-
-Sözlü aktarımı savunan konumun en güçlü karşı hamlesi, yazılı kaynakların da
-zincir taşıdığını göstermektir.[^k4] Bu, atlasın kendi dosyalarında
-ölçülebilir bir olgudur.
-
-Atlasın en çok kullandığı tanık kaynaklarından biri, gezginin kendi gördükleri
-kadar yolda dinlediklerini de içerir.[^k4] Metin yazılıdır; içeriğinin önemli
-bir bölümü sözlüdür ve iki katman metinde her zaman ayrılmaz.
-
-Aynı durum atlasın Batı Afrika dosyalarında da kayıtlıdır.[^k3] Bölgeyi tarif
-eden ortaçağ coğrafya metinleri, bölgeye gitmemiş yazarların tüccarlardan
-dinlediklerini derlemesiyle oluşmuştur; yazılı olmaları, aktarım zincirini
-kısaltmaz.
-
-## Ayrımın derece farkına inmesi
-
-Bu gözlem, iki kaynak türü arasındaki farkı bir tür farkından derece farkına
-indirir.[^k1] Yazılı kaynak, zincirin son halkasını sabitler; önceki halkalar
-yine sözlüdür ve yine doğrulanmamıştır.
-
-Karşı konum bu indirgemeyi kabul etmez.[^k2] Son halkanın sabitlenmesi bile
-önemli bir kazançtır: en azından metnin ne zaman ve nasıl yazıldığı
-bilinebilir ve o noktadan sonrası izlenebilir.
-
-Atlas iki değerlendirmeyi de kaydeder ve bir sonuca bağlamaz.[^k1] Farkın tür
-farkı mı derece farkı mı olduğu, tartışmanın kendi merkezindeki sorudur.
-
-## Arkeolojinin konumu
-
-Üçüncü konum, tartışmayı üçüncü bir kanıt türüne havale eder.[^k3] Kazı
-bulguları ne yazılıdır ne sözlü; bağımsız bir doğrulama zemini sunar.
-
-Zeminin gücü, atlasın kendi dosyalarında görülebilir.[^k3] Doğu Afrika kıyısı
-dosyasında yazılı kayıtlar okyanus bağlantısını, kazılar iç bölgeyi öne
-çıkarır; iki kanıt türü çelişmez ama farklı ağırlıklar verir ve fark bir
-bilgidir.
-
-Zeminin sınırı da aynı dosyada görülür.[^k3] Kazı, bir yerleşimin varlığını
-ve zenginlik derecesini gösterir; kimin kime bağlı olduğunu, hangi anlaşmanın
-yapıldığını göstermez.
-
-## Kazının kendi eşitsizliği
-
-Arkeolojik doğrulama şartının az konuşulan bir sonucu vardır.[^k3] Kazı
-yapmak kaynak, izin, altyapı ve süreklilik gerektirir; bunlar bölgeler
-arasında eşit dağılmamıştır.
-
-Sonuç şudur: şart uygulandığında, kazı imkânı olan bölgelerin geçmişi
-doğrulanmış, olmayanların ki doğrulanmamış sayılır.[^k2] Ölçüt tarafsız
-görünür ama uygulaması bölgesel bir eşitsizliği yeniden üretir.
-
-Atlas bu sonucu kaydeder ve şartı reddetmez.[^k3] Bir ölçütün eşitsiz
-uygulanabilmesi, ölçütün yanlış olduğunu göstermez; ölçüt uygulanırken bu
-eşitsizliğin ayrıca beyan edilmesi gerektiğini gösterir.
-
-## Dördüncü konumun farkı
-
-Dördüncü konum, soruyu yeniden kurar.[^k1] Sözlü anlatıdan olgu çıkarmaya
-çalışmak yerine, anlatının kendisini inceleme nesnesi yapar.
-
-Bu konumun kazancı açıktır: doğrulama sorunu ortadan kalkar.[^k1] Bir soy
-anlatısının doğru olup olmadığı sorulmaz; o anlatının bugün ne işe yaradığı
-sorulur ve bu soru cevaplanabilir.
-
-Kaybı da açıktır.[^k2] Yazılı kaynağı bulunmayan toplumların olay tarihi
-yazılamaz hâle gelir; sonuç, belge önceliği konumuyla aynı yere varır ama
-farklı bir gerekçeyle.
-
-## İki konumun aynı yere varması
-
-Bu örtüşme, tartışmanın en dikkate değer yanıdır.[^k2] Birbirine taban tabana
-karşıt görünen iki konum — belge önceliği ve anlatı çözümlemesi — pratikte
-aynı sonucu üretir.
-
-Örtüşmenin sebebi, ikisinin de sözlü aktarımdan olgu çıkarmayı reddetmesidir.[^k1]
-Biri güvenilmez bulduğu için reddeder, öteki yanlış soru sayıldığı için;
-sonuç aynıdır.
-
-Atlas bu örtüşmeyi kaydeder çünkü konumların gerekçeleriyle sonuçlarının
-ayrı ayrı değerlendirilmesi gerektiğini gösterir.[^k2] İki görüş, farklı
-gerekçelerle aynı boşluğu üretebilir.
-
-## Atlasın kendi uygulaması
-
-Atlas bu tartışmada bir taraf tutmaz ama dosyalarını yazarken bir uygulama
-tercihi yapmak zorundadır.[^k3] Tercih şudur: sözlü aktarıma dayanan bilgiler,
-kaynağın ne aktardığının kaydı olarak yazılır; doğrulanmış olgu olarak
-değil.
-
-Bu tercih atlasın Batı Afrika, Amerika ve Orta Asya dosyalarında
-uygulanmıştır.[^k4] Dosyalarda "kaynaklarda kaydedilir" ve "aktarılır"
-ifadeleri, bu ayrımın metindeki karşılığıdır.
-
-Tercihin bedeli de kaydedilmelidir.[^k2] Böyle bir yazım, okuru sürekli olarak
-kaydın kendisine değil kaydın aktarımına yönlendirir ve okuma akıcılığını
-düşürür; atlas bunu kabul eder.
-
-## Yazıya geçirilmiş sözlü gelenek
-
-Tartışmanın en karmaşık durumu, sözlü bir geleneğin bir noktada yazıya
-geçirilmiş olmasıdır.[^k3] Atlasın kaynak katmanında bunun iki örneği
-bulunur.
-
-Böyle bir metin hangi kategoriye girer?[^k1] Yazılıdır ama yazıya geçiriliş
-anına kadar sözlüdür; sabitlenmiştir ama sabitleme, aktarımın kaçıncı
-kuşağında yapıldığı bilinmeden değerlendirilemez.
-
-Atlas bu metinleri yazıya geçiriliş tarihiyle künyeler, anlatının kendi
-tarihiyle değil.[^k3] Künyedeki yıl, kaydın tarihidir; anlatının değil ve bu
-ayrım dosyalarda ayrıca beyan edilir.
-
-## Yazıya geçirenin konumu
-
-Yazıya geçirme işlemi tarafsız değildir.[^k3] Kimin, hangi alfabeyle, hangi
-amaçla ve kime yazdığı, geçen metnin biçimini belirler.
-
-Atlasın Amerika kaynak dosyalarından biri bu durumun en açık örneğidir.[^k3]
-Anlatı fetih öncesine dayanır; yazıya geçirilişi fetihten sonradır ve
-fetheden tarafın alfabesiyle yapılmıştır.
-
-Bu üçlü durum — eski anlatı, yeni alfabe, değişmiş siyasi koşul — metni tek
-bir kategoriye yerleştirmeyi imkânsız kılar.[^k1] Atlas bu yüzden kategoriyi
-zorlamak yerine üç katmanı ayrı ayrı kaydeder.
-
-## Ölçülebilir bir gösterge
-
-Tartışmanın soyut kalmaması için ölçülebilir bir gösterge kullanılabilir:
-bir bölge hakkındaki iddiaların kaç bağımsız kanıt türüne dayandığı.[^k2]
-
-Üç kanıt türü — yazılı çağdaş kayıt, sözlü aktarım, maddi bulgu — bir arada
-bulunuyorsa iddia güçlüdür.[^k3] Yalnızca biri varsa, hangisinin bulunduğu
-iddianın hangi yönde zayıf olduğunu da belirler.
-
-Atlas bu göstergeyi dosyalarında elle uygular ve otomatik olarak
-ölçmez.[^k2] Bir denetim kuralına çevrilmesi, kanıt türlerinin künyede ayrı
-alanlarda işaretlenmesini gerektirir ve bu, şemada henüz yoktur.
-
-## Tartışmanın kapanmama sebebi
-
-Tartışma kapanmıyor çünkü taraflar farklı sorulara cevap veriyor.[^k1] Belge
-önceliği "hangi iddia doğrulanabilir" sorusuna, sözlü gelenek savunusu "bu
-bölgenin geçmişi nasıl yazılabilir" sorusuna cevap verir.
-
-İki soru da meşrudur ve birbirini dışlamaz.[^k2] Bir iddianın
-doğrulanamaması, o iddiadan vazgeçilmesini gerektirmez; doğrulanmamış olarak
-kaydedilmesini gerektirir.
-
-Atlas bu ikinci yolu izler ve tartışmayı çözmez.[^k3] Künyedeki pozisyon
-listesi, okurun kendi ölçütünü seçmesi için bırakılmıştır.
-
-## Bu tartışmanın atlastaki yeri
-
-Bu dosya, atlasın kendi yöntemini doğrudan ilgilendiren ilk tartışma
-dosyalarından biridir.[^k2] Öteki tartışma dosyaları geçmiş hakkındaki
-soruları ele alır; bu dosya, geçmişin nasıl yazılabileceğini ele alır.
-
-Ayrımın pratik sonucu şudur: bu dosyada verilecek bir hüküm, atlasın
-yüzlerce dosyasını doğrudan etkilerdi.[^k3] Atlas hüküm vermez ve bu, kolaycı
-bir tarafsızlık değil bir zorunluluktur.
-
-Okur bu dosyayı, atlasın Afrika, Amerika ve Orta Asya dosyalarını okumadan
-önce okumalıdır.[^k4] O dosyalardaki ihtiyatlı dilin gerekçesi burada
-yazılıdır.
-
-## Aktarımın biçimi bir güvence olabilir mi
-
-Sözlü geleneği savunan konumun teknik dayanaklarından biri, bazı aktarım
-biçimlerinin değişmeye karşı yapısal olarak dirençli olmasıdır.[^k3] Ölçülü
-söz, kafiye, ezgi ve sabit formüller, aktarıcının serbestçe değiştirebileceği
-alanı daraltır.
-
-İddia sınanabilirdir ve sınanmıştır.[^k1] Aynı anlatının birbirinden bağımsız
-aktarıcılardan alınmış kayıtları karşılaştırıldığında, biçimsel kısıt taşıyan
-bölümlerin daha az değiştiği, serbest anlatı bölümlerinin daha çok değiştiği
-gözlemlenmiştir.
-
-Bulgunun sınırı da bellidir.[^k2] Bir bölümün kuşaklar boyunca aynı kalması,
-o bölümün doğru olduğunu göstermez; yalnızca aktarımın sadık olduğunu
-gösterir. Sadık aktarılan bir hata da sadık aktarılır ve biçimsel kısıt,
-hatayı da korur.
-
-## Kimin aktardığı sorusu
-
-Sözlü aktarımda kaydın sahibi bellidir ve bu, yazılı kayıtta çoğu zaman
-belirsizdir.[^k3] Bir anlatıcının kim olduğu, hangi soydan geldiği ve
-anlattığı olaylarda kimin tarafında bulunduğu sorulabilir.
-
-Bu, sözlü aktarımın beklenmedik bir üstünlüğüdür.[^k1] Yazılı bir belgenin
-yazarı çoğu zaman bilinmez ya da yalnızca adı bilinir; sözlü aktarımda
-aktarıcı karşınızdadır ve konumu doğrudan sorgulanabilir.
-
-Üstünlüğün karşılığı da vardır.[^k2] Aktarıcının konumu bilindiği için
-aktarımın o konuma göre şekillenmiş olma ihtimali de yüksektir; bilgi, hem
-denetim imkânı hem çarpıtma kaynağıdır.
-
-## Toplumsal işlevin belirleyiciliği
-
-Sözlü anlatıların çoğu, boş zamanda anlatılan hikâyeler değildir.[^k3] Soy
-belirler, toprak hakkı dayandırır, evlilik kurallarını taşır ve yönetim
-iddialarını gerekçelendirir.
-
-Bu işlev, anlatının içeriğini doğrudan etkiler.[^k1] Bir toprak iddiasını
-taşıyan anlatı, o iddiayı destekleyecek biçimde düzenlenir; düzenleme
-kasıtlı olmak zorunda değildir, işlevin kendisi seçici bir baskı uygular.
-
-Atlas bu baskıyı yazılı kaynaklarda da kaydeder.[^k2] Saray tarihleri de
-hanedan meşruiyetini taşır ve aynı seçici baskı altındadır; fark, sözlü
-anlatıda baskının daha yakın ve daha sürekli olmasıdır.
-
-## Tartışmanın bugünkü hâli
-
-Tartışma bugün büyük ölçüde birinci ve üçüncü konumların birleşimi yönünde
-işliyor.[^k3] Sözlü aktarım hipotez üretir, maddi kanıt sınar ve
-doğrulanmayan bölümler doğrulanmamış olarak kaydedilir.
-
-Bu birleşim bir uzlaşma değil bir iş bölümüdür.[^k2] İki konumun kuramsal
-ayrılığı çözülmemiştir; yalnızca pratikte birlikte kullanılabilecekleri
-görülmüştür.
-
-Atlas bu pratiği izler ve kuramsal ayrılığı künyede açık bırakır.[^k1] Bir
-tartışmanın pratikte çözülmesi, kuramsal olarak çözüldüğü anlamına gelmez ve
-ikisini karıştırmak, ayrılığın yeniden ortaya çıkacağı yerleri görünmez
-kılar.
-
-## Okuma yönlendirmesi
-
-Kavramın kendisi için [Sözlü tarih](/kavram/sozlu-tarih/), kaynakların nasıl
-sınanacağı için [Kaynak eleştirisi](/kavram/kaynak-elestirisi/) dosyaları
-okunmalıdır.[^k1]
-
-Üçüncü kanıt türü için [Arkeolojik kanıt](/kavram/arkeolojik-kanit/), kaydı
-kimin tuttuğunun neyi değiştirdiği için
-[Tarih yazımı](/kavram/tarih-yazimi/) dosyaları uygundur.[^k3]
-
-Tartışmanın somut hâllerini görmek için
-[Gana İmparatorluğu](/aktor/gana-imparatorlugu/),
-[Popol Vuh](/kaynak/popol-vuh/) ve
-[Orhon Yazıtları](/kaynak/orhon-yazitlari/) dosyaları okunmalıdır; üçü, üç
-farklı kanıt durumunu temsil eder.[^k2]
-
-Yazılı bir kaynağın ne kadarının sözlü aktarıma dayandığını görmek için
-[İbn Battûta](/dusunur/ibn-battuta/) dosyası okunabilir.[^k4]
+## Tartışmanın konusu
+
+Sözlü gelenek, bir topluluğun geçmişine dair bilgiyi yazıya değil belleğe,
+kalıba ve tekrara emanet eden aktarım biçimlerinin ortak adıdır; şecereler,
+kral listeleri, destanlar, kuruluş anlatıları ve övgü şiirleri bu başlık
+altında toplanır.[^k3][^k9] Tartışma, bu aktarımların geçmiş hakkında olgu
+bildiren birer kaynak mı, yoksa yalnızca anlatan topluluğun bugününü
+gösteren birer belge mi sayılacağı üzerinedir ve iki cevap arasındaki
+mesafe, bir yöntem ayrıntısından çok daha fazlasını belirler.[^k3][^k1]
+
+Sorunun ağırlığı coğrafyasından gelir. Sahra altı Afrika'nın, Amerikaların
+ve Okyanusya'nın geniş bölümleri yakın zamana kadar ya yazı kullanmadı ya
+da yazılı kayıtları fetih ve sömürge yönetimi altında dağıldı; yalnızca
+belgeye dayanan bir tarihçilik bu bölgeleri tarihin dışına iter.[^k5]
+Sömürgeden çıkan devletlerin kendi geçmişlerini yazma talebi, soruyu
+akademik bir merak olmaktan çıkarıp uygulamalı bir sorun hâline getirdi ve
+UNESCO'nun Genel Afrika Tarihi gibi büyük ortak projeler bu sorunun
+üzerine kuruldu.[^k5]
+
+Bir ayrım baştan konmalıdır: buradaki soru, yaşayan tanıklarla yapılan
+görüşmeleri kasteden [sözlü tarih](/kavram/sozlu-tarih/) uygulamasından
+farklıdır.[^k3] Sözlü gelenekte anlatıcı, anlattığı olayın tanığı değildir;
+bilgi ona kuşaklar boyu süren bir zincirle ulaşmıştır ve tartışılan şey tam
+da bu zincirin taşıma gücüdür.[^k3][^k1]
+
+## Lowie'nin reddi
+
+Robert Lowie 1915'te Amerikan antropolojisinin dergisinde yayımladığı kısa
+notta konumunu olabilecek yalınlıkta özetledi: "sözlü geleneklere, hangi
+koşulda olursa olsun, hiçbir tarihsel değer atfedemem".[^k6] Gerekçesi bir
+ikilemdi; ona göre bir geleneğin doğruluğu ancak dil bilimi, etnoloji ya da
+arkeoloji gibi dış kanıtlarla bilinebilir, dış kanıt varsa gelenek
+gereksizleşir, yoksa gelenek doğrulanamaz.[^k6] Aynı notta Sidney
+Hartland'ın 1914'te Baganda ve Bushongo gelenekleri üzerine yürüttüğü
+incelemeyi kendi görüşünün desteği olarak anar.[^k6]
+
+Bu ret kendi başına doğmadı; on dokuzuncu yüzyılda Leopold von Ranke'nin
+adıyla anılan belge merkezli tarihçilik, mesleğin ölçütünü arşivde
+sınanabilir kayda bağlamıştı ve Lowie bu ölçütü yazısız toplumlara tavizsiz
+uygulamış oluyordu.[^k2][^k6] Ölçütün siyasi bir gölgesi de vardı: belge
+yoksa tarih de yoktur çıkarımı, sömürge yönetimlerinin bazı bölgeleri
+tarihsiz sayan söylemiyle rahatça birleşti ve Afrika tarihçiliği bu mirası
+sonradan ders kitaplarından ayıklamak zorunda kaldı.[^k5][^k2]
+
+## Vansina'nın yöntemi
+
+Jan Vansina karşı konumun yöntem kitabını yazdı. Belçika yönetiminin
+Kongo'daki ve Ruanda'daki araştırma kurumlarında çalışan Vansina kitabı
+1961'de yayımladı; çalışma İngilizce yazına Oral Tradition: A Study in
+Historical Methodology adıyla geçti.[^k5][^k3] Önerinin özü, yazılı
+[kaynak eleştirisinin](/kavram/kaynak-elestirisi/) sorularını aktarım
+zincirine uyarlamaktı: anlatan kim, kimden öğrendi, hangi ortamda ve hangi
+kurumsal denetim altında aktarıyor, hangi bölümler kalıpla sabitlenmiş,
+hangileri serbest.[^k3][^k5]
+
+Kitabın yankısını ölçmek için Genel Afrika Tarihi'nin açılış cildindeki
+tarih yazımı bölümüne bakmak yeter: bölüm, George Murdock'ın 1959'da yerli
+sözlü gelenekleri büsbütün güvenilmez sayan hükmünü hatırlatır, ardından
+1960'ların Vansina'nın kitabıyla açıldığını ve sözlü geleneğin güvenilir
+kaynağa dönüşmesi için gerekli eleştirel denetimleri gösterdiğini
+yazar.[^k5] Cildin editörü Joseph Ki-Zerbo girişte konumu daha da öteye
+taşır; ona göre sözlü gelenek "başka hiçbir şey kalmadığında başvurulan
+ikinci sınıf bir kaynak değil", kendi yöntemi kurulmuş ayrı bir
+kaynaktır.[^k5]
+
+Vansina yöntemi yirmi yılı aşan saha ve arşiv deneyiminden sonra 1985'te
+Oral Tradition as History başlığıyla yeniden kurdu.[^k7][^k3] Sonraki
+kitap, geleneği arşivdeki belgenin sözlü bir eşdeğeri gibi görmekten
+uzaklaşır ve onu her kuşakta yeniden üretilen, bu üretim koşulları
+bilinirse eleştirilebilen bir tanıklık olarak ele alır.[^k7][^k3]
+
+## Okuryazarlık tezi
+
+Jack Goody ile Ian Watt'ın 1963 tarihli ortak makalesi tartışmaya başka
+bir katman ekledi: yazı yalnızca bir kayıt tekniği değil, bilginin
+düzenlenme biçimini değiştiren bir teknolojidir.[^k9][^k3] Goody bu tezi
+The Domestication of the Savage Mind ile genişletti; liste, tablo ve
+arşiv gibi biçimler yazıyla mümkün olur ve geçmişi bugünden bağımsız bir
+kayıt olarak sabitleyen de bu biçimlerdir.[^k8][^k9]
+
+Bu çizginin tartışmadaki yeri iki yönlüdür. Bir yandan belgeci şüpheciliğe
+kuramsal bir zemin verir: yazısız aktarımda geçmiş, bugünün ihtiyaçlarına
+göre sessizce yeniden hizalanır ve topluluk bu hizalamayı görecek bir
+aynadan yoksundur.[^k8][^k9] Öte yandan tezin kendisi bir tarih yazımı
+yasağı içermez; Goody'nin derdi sözlü kültürü değersizleştirmek değil, iki
+iletişim rejiminin farklı bilgi düzenleri ürettiğini göstermekti ve bu
+fark, sözlü kaynağın nasıl okunacağına dair bir uyarı olarak da
+kullanılabilir.[^k9][^k3]
+
+## Geri besleme ve icranın baskısı
+
+David Henige'nin adıyla anılan geri besleme sorunu, sahadaki denetimin ne
+kadar kaygan olduğunu gösterir: yazılı eserlerden sızan ya da sonradan
+edinilen bilgi, birkaç kuşak içinde geleneğin kendi sesi gibi geri
+döner.[^k3] Bir anlatının arşivdeki kayıtla örtüşmesi bu durumda iki şeyin
+kanıtı olabilir; ya aktarım sadıktır ya da anlatı o kaydın kendisinden
+beslenmiştir ve iki ihtimali ayırt etmek, erken tarihli bağımsız derlemeler
+yoksa güçtür.[^k3]
+
+İcranın kendi baskısı da vardır. Anlatıcı bir dinleyici topluluğunun
+karşısındadır, anlatı o toplulukla birlikte biçimlenir ve eğlendirme
+kaygısı doğruluk kaygısının önüne geçebilir.[^k3] Ruth Finnegan'ın Afrika
+sözlü edebiyatı üzerine 1970 tarihli incelemesi bu gözlemi ilkeye
+yükseltir: sözlü ürün ancak bir icracının onu belirli bir vesileyle söze
+dökmesiyle var olur; icradan bağımsız, sabit bir asıl metin
+aranmamalıdır.[^k9]
+
+Biçimin koruyuculuğu bu noktada ayrı bir araştırma kolu oldu. Milman Parry
+ile Albert Lord'un Homeros şiirinden yola çıkıp Balkan halk ozanları
+üzerinde sınadığı formül araştırması, uzun anlatıların kelimesi kelimesine
+ezberlenmediğini, her icrada sabit kalıplardan yeniden kurulduğunu ortaya
+koydu.[^k3] Bulgu iki yöne birden çekilebilir: kalıplar aktarıma bir
+iskelet kazandırır ve serbest bölümlerden daha dayanıklıdır; ama aynı
+bulgu, kuşaklar boyu değişmeden taşınan bir asıl metin varsayımını da
+zayıflatır, çünkü her icra bir yeniden kuruluştur.[^k3][^k9]
+
+Buradan tartışmanın dördüncü konumu türer. Sözlü anlatı bu okumada
+geçmişteki olayların değil, onu bugün anlatan topluluğun kendini anlama
+biçiminin belgesidir; bir soy anlatısına sorulacak verimli soru, soyun
+gerçekten öyle kurulup kurulmadığı değil, o iddianın bugün hangi işi
+gördüğüdür.[^k9][^k1] Folklor ve edebiyat incelemesi çizgisinde yaygın olan
+bu yaklaşım doğrulama sorununu çözmez, sahneden kaldırır; bedeli, yazısız
+toplumların olay tarihini belge önceliği konumuyla aynı biçimde yazılamaz
+bırakmasıdır.[^k1][^k2]
+
+## Kronoloji sorunu
+
+Sözlü geleneğin belgeyle yarışamadığı yer kronolojidir. Aktarım nadiren
+mutlak tarih taşır; araştırmacılar kral listelerini ve şecereleri kuşak
+ortalamalarıyla, yaygın uygulamada kuşak başına 27 yıl sayarak takvime
+bağlamayı dener.[^k3] Hesap kâğıt üzerinde zariftir ama atlanan kuşaklar,
+birleştirilen adaşlar ve paralel hatlar sonuca sessizce sızar; bu yüzden
+kuşak hesabına dayalı tarihler, bağımsız bir tarihleme yöntemiyle
+kesişmedikçe geniş hata paylarıyla anılır.[^k3][^k11]
+
+Yöntemin iddialı bir erken örneği Pasifik'ten gelir. Abraham Fornander
+1878'de Polinezya soy zincirlerini tam bu işe koştu: Hawaii'nin geçmişini,
+David Malo ve Kamakau gibi yerli bilginlerin derlemelerine ve şecerelere
+dayanarak kuşak kuşak geriye doğru kurdu.[^k11] Çalışma bugün iki şeyin
+birden kaydı olarak okunur; on dokuzuncu yüzyılın soy zincirine duyduğu
+güvenin ve o zincirler derlenmeseydi bugün erişilemeyecek bir aktarım
+birikiminin.[^k11][^k3]
+
+## Kazıyla sınama
+
+Maddi kanıt önceliğini savunanlar için sözlü anlatı bir hipotez üretir ve
+hipotezi [arkeolojik kanıt](/kavram/arkeolojik-kanit/) sınar. Bu şartın
+gücünü gösteren erken bir örnek Büyük Zimbabve'dir: kalıntılar yerleşimci
+yazınında Doğu'dan gelmiş kayıp bir uygarlığa yakıştırılıyordu; David
+Randall-MacIver 1905'te yürüttüğü kazıların ardından 1906'da yayımladığı
+Mediaeval Rhodesia'da buluntuların ortaçağa ait ve karakteristik olarak
+Afrika tipinde olduğunu, ana yapının on dördüncü ya da on beşinci yüzyıldan
+erken tarihlenemeyeceğini yazdı.[^k10] Kazı burada yerli geçmişi silen bir
+efsaneyi çürüttü ve bölge halklarının geçmişini tarihlenebilir bir zemine
+oturttu.[^k10]
+
+Batı Afrika'da ise ilişki tersinden kuruldu: sözlü aktarım, öteki kanıt
+türlerinin yanına bir kaynak olarak eklendi. Djibril Tamsir Niane'nin
+1960'ta bir griot'tan derleyip yayımladığı Sunjata destanı, Mali'nin
+ortaçağ geçmişi üzerine çalışmanın başlıca girişlerinden biri oldu ve aynı
+yılların Afrika tarihçiliği, sözlü geleneğe dayanan çalışmaları arkeoloji
+ve dil bilimiyle birlikte kullanmayı olağan bir iş bölümüne
+çevirdi.[^k5][^k9] Bu iş bölümü bir uzlaşma sayılmamalıdır; anlatının kazı
+bulgusuyla kesiştiği yerde iki taraf da kendini doğrulanmış görür, ayrıştığı
+yerde hangisine öncelik verileceği sorusu olduğu gibi geri gelir.[^k5][^k1]
+
+## Tanıklık felsefesinin aynası
+
+Tartışmanın bir de felsefi zemin katı vardır. Bilgi kuramındaki tanıklık
+tartışması, başkasının sözüne dayanan inancın ne zaman bilgi sayılacağını
+sorar; indirgemeci görüşe göre her tanıklık dinleyenin elindeki bağımsız
+gerekçelerle desteklenmelidir, karşı görüşe göre ise tanıklık, algı ve
+bellek gibi kendi başına bir gerekçe kaynağıdır.[^k1] Lowie'nin dış kanıt
+şartı bu ayrımın indirgemeci kanadının tarih yöntemine çevirisi gibi
+okunabilir; Vansina'nın zincir eleştirisi ise tanıklığı reddetmeden
+derecelendirmeye çalışan bir ara konuma düşer.[^k1][^k2]
+
+## Yazılı kaynağın sözlü katmanı
+
+Sınırın öte yakası da göründüğü kadar sağlam değildir; yazılı kaynakların
+bir bölümü, sözlü anlatımın kâğıda geçirilmiş hâlidir.
+[İbn Battûta](/dusunur/ibn-battuta/) 1304'te Tanca'da doğdu; 1354'te sona
+eren, çeyrek yüzyılı aşan yolculuğunun kaydı, dönüşünde anlattıklarının
+sultanın görevlendirdiği İbn Cüzeyy (Ibn Juzayy) eliyle yazıya
+geçirilmesiyle oluştu.[^k4]
+Gibb'in çeviriye yazdığı giriş bu kaydın niteliği konusunda açık sözlüdür:
+gezgin yol boyunca not tutan bir yazar değildi, gördüklerini ve
+dinlediklerini belleğinde biriktirdi, dönüşünde sarayda anlattı ve
+anlattıkları önce genel bir kuşkuyla karşılandı.[^k4] Böyle bir metinde
+görgü tanıklığı ile yolda dinlenmiş aktarım iç içe geçer; hangi bilginin
+hangisine dayandığı çoğu yerde metnin kendisinden çıkarılamaz ve okurun
+elindeki yazılı kaynak, sözlü bir zincirin geç bir halkasını sabitlemiş
+olur.[^k4][^k3]
+
+Yazıya geçirilmiş gelenekler bu sınır sorusunu kalıcılaştırır. Fornander'in
+yararlandığı Hawaii derlemeleri, Malo ve Kamakau gibi şecereleri kendi
+topluluklarının içinden yazıya geçiren bilginlerin elinden çıkmıştı;
+Niane'nin yayımladığı destan, bir icracının belirli bir gündeki anlatımının
+kâğıda dökülmüş biçimidir.[^k11][^k5] Bu
+metinler hem yazılı hem sözlüdür; kaydın tarihi ile anlatının konu edindiği
+geçmiş ayrı katmanlar olarak okunduğunda, iki kaynak türü arasındaki fark
+bir tür farkından çok bir derece farkına benzemeye başlar.[^k3][^k1]
+
+## Hangi kullanım savunulabilir
+
+Yüzyıllık tartışmadan taraflardan birinin zaferi değil, koşullara bağlı bir
+kullanım haritası çıkar. Aktarım kurumu bilinen gelenekler — kim aktarır,
+hangi eğitimle, hangi denetim altında — kurumu bilinmeyenlere göre daha
+güçlü kaynaklardır; ölçü ve kalıp taşıyan bölümler serbest anlatıya göre
+daha az oynar; yakın kuşaklara ilişkin iddialar derin geçmişe ilişkin
+olanlara göre daha sınanabilirdir.[^k3][^k5] Bağımsız bir kanıt türüyle —
+kazı, dil bilimi, çağdaş yazılı kayıt — kesişen aktarım, kesişmeyenden
+farklı bir güven düzeyinde tutulur ve bu derecelendirmenin kendisi artık
+tarafların çoğunca paylaşılır.[^k5][^k3]
+
+Açık kalanlar da aynı dürüstlükle sıralanmalıdır. Geri beslemenin tespiti
+çoğu durumda erken tarihli yazılı derlemelerin varlığına bağlıdır; oysa
+sorun tam da böyle derlemelerin olmadığı yerlerde büyür.[^k3] Aktarım
+kurallarının bilgisi çoğunlukla geleneğin kendi içinden gelir ve ölçüt,
+ölçtüğü şeye yaslanır.[^k1] Kuşak hesabına dayalı kronolojiler bağımsız
+tarihleme olmadan sınanamaz.[^k3][^k11] Taraflar üstelik aynı soruya cevap
+vermez: belge önceliği hangi iddianın doğrulanabilir olduğunu, karşı konum
+kimin geçmişinin yazılabilir olduğunu sorar ve iki soru birbirinin yerine
+geçmediği için, hangi kullanımın savunulabilir olduğu her seferinde iddia
+türüne, aktarım kurumuna ve eldeki bağımsız kanıta bakılarak yeniden
+kararlaştırılır.[^k2][^k1]

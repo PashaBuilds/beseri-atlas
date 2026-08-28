@@ -1,66 +1,83 @@
 ## tartisma-sozlu-gelenek-kaynak-mi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.465Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T23:38:44.826Z_
 
-- [ATOMSUZ] k2 → "Soru, tarih yazımının bir meslek hâline geldiği ve belgeye dayanmayı ölçüt saydığı dönemde keskinleşti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Sorunun siyasi bir tarafı vardı ve bugün de var." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Bu, sorunun neden yalnızca yöntem sorusu olmadığını gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Yirminci yüzyılın ortasında bağımsızlığını kazanan devletler, kendi tarihlerinin yazılmasını istediler ve elde…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Bu dönemde geliştirilen yöntem önerileri, sözlü aktarımı reddetmek yerine ona uygulanacak bir eleştiri yöntemi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Atlas bu yöntem önerisini bir çözüm olarak değil bir konum olarak kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Belge önceliği konumunun merkezindeki iddia, yazının aktarımı sabitlediğidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Sözlü aktarımda böyle bir sabitleme yoktur ve bu fark inkâr edilmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Derecelendirmenin kendisi bir sorun doğurur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Sözlü aktarımı savunan konumun en güçlü karşı hamlesi, yazılı kaynakların da zincir taşıdığını göstermektir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Atlasın en çok kullandığı tanık kaynaklarından biri, gezginin kendi gördükleri kadar yolda dinlediklerini de i…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Aynı durum atlasın Batı Afrika dosyalarında da kayıtlıdır."
-- [ATOMSUZ] k1 → "Bu gözlem, iki kaynak türü arasındaki farkı bir tür farkından derece farkına indirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Karşı konum bu indirgemeyi kabul etmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Atlas iki değerlendirmeyi de kaydeder ve bir sonuca bağlamaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Üçüncü konum, tartışmayı üçüncü bir kanıt türüne havale eder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Zeminin gücü, atlasın kendi dosyalarında görülebilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Zeminin sınırı da aynı dosyada görülür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Arkeolojik doğrulama şartının az konuşulan bir sonucu vardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Sonuç şudur: şart uygulandığında, kazı imkânı olan bölgelerin geçmişi doğrulanmış, olmayanların ki doğrulanmam…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas bu sonucu kaydeder ve şartı reddetmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Dördüncü konum, soruyu yeniden kurar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bu konumun kazancı açıktır: doğrulama sorunu ortadan kalkar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Kaybı da açıktır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Bu örtüşme, tartışmanın en dikkate değer yanıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Örtüşmenin sebebi, ikisinin de sözlü aktarımdan olgu çıkarmayı reddetmesidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu örtüşmeyi kaydeder çünkü konumların gerekçeleriyle sonuçlarının ayrı ayrı değerlendirilmesi gerektiği…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas bu tartışmada bir taraf tutmaz ama dosyalarını yazarken bir uygulama tercihi yapmak zorundadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k4 → "Bu tercih atlasın Batı Afrika, Amerika ve Orta Asya dosyalarında uygulanmıştır." — 3 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k2 → "Tercihin bedeli de kaydedilmelidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Tartışmanın en karmaşık durumu, sözlü bir geleneğin bir noktada yazıya geçirilmiş olmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Böyle bir metin hangi kategoriye girer?" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas bu metinleri yazıya geçiriliş tarihiyle künyeler, anlatının kendi tarihiyle değil." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Yazıya geçirme işlemi tarafsız değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Atlasın Amerika kaynak dosyalarından biri bu durumun en açık örneğidir."
-- [ATOMSUZ] k1 → "Bu üçlü durum — eski anlatı, yeni alfabe, değişmiş siyasi koşul — metni tek bir kategoriye yerleştirmeyi imkân…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Tartışmanın soyut kalmaması için ölçülebilir bir gösterge kullanılabilir: bir bölge hakkındaki iddiaların kaç …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Üç kanıt türü — yazılı çağdaş kayıt, sözlü aktarım, maddi bulgu — bir arada bulunuyorsa iddia güçlüdür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu göstergeyi dosyalarında elle uygular ve otomatik olarak ölçmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Tartışma kapanmıyor çünkü taraflar farklı sorulara cevap veriyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "İki soru da meşrudur ve birbirini dışlamaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Atlas bu ikinci yolu izler ve tartışmayı çözmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Bu dosya, atlasın kendi yöntemini doğrudan ilgilendiren ilk tartışma dosyalarından biridir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Ayrımın pratik sonucu şudur: bu dosyada verilecek bir hüküm, atlasın yüzlerce dosyasını doğrudan etkilerdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k4 → "Okur bu dosyayı, atlasın Afrika, Amerika ve Orta Asya dosyalarını okumadan önce okumalıdır."
-- [ATOMSUZ] k3 → "Sözlü geleneği savunan konumun teknik dayanaklarından biri, bazı aktarım biçimlerinin değişmeye karşı yapısal …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "İddia sınanabilirdir ve sınanmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Bulgunun sınırı da bellidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Sözlü aktarımda kaydın sahibi bellidir ve bu, yazılı kayıtta çoğu zaman belirsizdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bu, sözlü aktarımın beklenmedik bir üstünlüğüdür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Üstünlüğün karşılığı da vardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Sözlü anlatıların çoğu, boş zamanda anlatılan hikâyeler değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bu işlev, anlatının içeriğini doğrudan etkiler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas bu baskıyı yazılı kaynaklarda da kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Tartışma bugün büyük ölçüde birinci ve üçüncü konumların birleşimi yönünde işliyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Bu birleşim bir uzlaşma değil bir iş bölümüdür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Atlas bu pratiği izler ve kuramsal ayrılığı künyede açık bırakır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kavramın kendisi için , kaynakların nasıl sınanacağı için dosyaları okunmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Üçüncü kanıt türü için , kaydı kimin tuttuğunun neyi değiştirdiği için dosyaları uygundur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Tartışmanın somut hâllerini görmek için , ve dosyaları okunmalıdır; üçü, üç farklı kanıt durumunu temsil eder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Yazılı bir kaynağın ne kadarının sözlü aktarıma dayandığını görmek için dosyası okunabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Sözlü gelenek, bir topluluğun geçmişine dair bilgiyi yazıya değil belleğe, kalıba ve tekrara emanet eden aktar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Sözlü gelenek, bir topluluğun geçmişine dair bilgiyi yazıya değil belleğe, kalıba ve tekrara emanet eden aktar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Tartışma, bu aktarımların geçmiş hakkında olgu bildiren birer kaynak mı, yoksa yalnızca anlatan topluluğun bug…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Tartışma, bu aktarımların geçmiş hakkında olgu bildiren birer kaynak mı, yoksa yalnızca anlatan topluluğun bug…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Sahra altı Afrika'nın, Amerikaların ve Okyanusya'nın geniş bölümleri yakın zamana kadar ya yazı kullanmadı ya …" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Sömürgeden çıkan devletlerin kendi geçmişlerini yazma talebi, soruyu akademik bir merak olmaktan çıkarıp uygul…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k3 → "Bir ayrım baştan konmalıdır: buradaki soru, yaşayan tanıklarla yapılan görüşmeleri kasteden uygulamasından far…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Sözlü gelenekte anlatıcı, anlattığı olayın tanığı değildir; bilgi ona kuşaklar boyu süren bir zincirle ulaşmış…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sözlü gelenekte anlatıcı, anlattığı olayın tanığı değildir; bilgi ona kuşaklar boyu süren bir zincirle ulaşmış…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Robert Lowie 1915'te Amerikan antropolojisinin dergisinde yayımladığı kısa notta konumunu olabilecek yalınlıkt…"
+- [ATOMSUZ] k6 → "Gerekçesi bir ikilemdi; ona göre bir geleneğin doğruluğu ancak dil bilimi, etnoloji ya da arkeoloji gibi dış k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Aynı notta Sidney Hartland'ın 1914'te Baganda ve Bushongo gelenekleri üzerine yürüttüğü incelemeyi kendi görüş…"
+- [OK]      k2 → "Bu ret kendi başına doğmadı; on dokuzuncu yüzyılda Leopold von Ranke'nin adıyla anılan belge merkezli tarihçil…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Bu ret kendi başına doğmadı; on dokuzuncu yüzyılda Leopold von Ranke'nin adıyla anılan belge merkezli tarihçil…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Ölçütün siyasi bir gölgesi de vardı: belge yoksa tarih de yoktur çıkarımı, sömürge yönetimlerinin bazı bölgele…"
+- [OK]      k2 → "Ölçütün siyasi bir gölgesi de vardı: belge yoksa tarih de yoktur çıkarımı, sömürge yönetimlerinin bazı bölgele…"
+- [OK]      k5 → "Belçika yönetiminin Kongo'daki ve Ruanda'daki araştırma kurumlarında çalışan Vansina kitabı 1961'de yayımladı;…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Belçika yönetiminin Kongo'daki ve Ruanda'daki araştırma kurumlarında çalışan Vansina kitabı 1961'de yayımladı;…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k3 → "Önerinin özü, yazılı sorularını aktarım zincirine uyarlamaktı: anlatan kim, kimden öğrendi, hangi ortamda ve h…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Önerinin özü, yazılı sorularını aktarım zincirine uyarlamaktı: anlatan kim, kimden öğrendi, hangi ortamda ve h…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Kitabın yankısını ölçmek için Genel Afrika Tarihi'nin açılış cildindeki tarih yazımı bölümüne bakmak yeter: bö…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Cildin editörü Joseph Ki-Zerbo girişte konumu daha da öteye taşır; ona göre sözlü gelenek "başka hiçbir şey ka…"
+- [OK]      k7 → "Vansina yöntemi yirmi yılı aşan saha ve arşiv deneyiminden sonra 1985'te Oral Tradition as History başlığıyla …"
+- [OK]      k3 → "Vansina yöntemi yirmi yılı aşan saha ve arşiv deneyiminden sonra 1985'te Oral Tradition as History başlığıyla …"
+- [ATOMSUZ] k7 → "Sonraki kitap, geleneği arşivdeki belgenin sözlü bir eşdeğeri gibi görmekten uzaklaşır ve onu her kuşakta yeni…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Sonraki kitap, geleneği arşivdeki belgenin sözlü bir eşdeğeri gibi görmekten uzaklaşır ve onu her kuşakta yeni…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Jack Goody ile Ian Watt'ın 1963 tarihli ortak makalesi tartışmaya başka bir katman ekledi: yazı yalnızca bir k…"
+- [OK]      k3 → "Jack Goody ile Ian Watt'ın 1963 tarihli ortak makalesi tartışmaya başka bir katman ekledi: yazı yalnızca bir k…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "Goody bu tezi The Domestication of the Savage Mind ile genişletti; liste, tablo ve arşiv gibi biçimler yazıyla…"
+- [OK]      k9 → "Goody bu tezi The Domestication of the Savage Mind ile genişletti; liste, tablo ve arşiv gibi biçimler yazıyla…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k8 → "Bir yandan belgeci şüpheciliğe kuramsal bir zemin verir: yazısız aktarımda geçmiş, bugünün ihtiyaçlarına göre …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Bir yandan belgeci şüpheciliğe kuramsal bir zemin verir: yazısız aktarımda geçmiş, bugünün ihtiyaçlarına göre …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Öte yandan tezin kendisi bir tarih yazımı yasağı içermez; Goody'nin derdi sözlü kültürü değersizleştirmek deği…"
+- [OK]      k3 → "Öte yandan tezin kendisi bir tarih yazımı yasağı içermez; Goody'nin derdi sözlü kültürü değersizleştirmek deği…"
+- [OK]      k3 → "David Henige'nin adıyla anılan geri besleme sorunu, sahadaki denetimin ne kadar kaygan olduğunu gösterir: yazı…"
+- [ATOMSUZ] k3 → "Bir anlatının arşivdeki kayıtla örtüşmesi bu durumda iki şeyin kanıtı olabilir; ya aktarım sadıktır ya da anla…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Anlatıcı bir dinleyici topluluğunun karşısındadır, anlatı o toplulukla birlikte biçimlenir ve eğlendirme kaygı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Ruth Finnegan'ın Afrika sözlü edebiyatı üzerine 1970 tarihli incelemesi bu gözlemi ilkeye yükseltir: sözlü ürü…"
+- [OK]      k3 → "Milman Parry ile Albert Lord'un Homeros şiirinden yola çıkıp Balkan halk ozanları üzerinde sınadığı formül ara…"
+- [ATOMSUZ] k3 → "Bulgu iki yöne birden çekilebilir: kalıplar aktarıma bir iskelet kazandırır ve serbest bölümlerden daha dayanı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Bulgu iki yöne birden çekilebilir: kalıplar aktarıma bir iskelet kazandırır ve serbest bölümlerden daha dayanı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Sözlü anlatı bu okumada geçmişteki olayların değil, onu bugün anlatan topluluğun kendini anlama biçiminin belg…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sözlü anlatı bu okumada geçmişteki olayların değil, onu bugün anlatan topluluğun kendini anlama biçiminin belg…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Folklor ve edebiyat incelemesi çizgisinde yaygın olan bu yaklaşım doğrulama sorununu çözmez, sahneden kaldırır…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Folklor ve edebiyat incelemesi çizgisinde yaygın olan bu yaklaşım doğrulama sorununu çözmez, sahneden kaldırır…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Aktarım nadiren mutlak tarih taşır; araştırmacılar kral listelerini ve şecereleri kuşak ortalamalarıyla, yaygı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Hesap kâğıt üzerinde zariftir ama atlanan kuşaklar, birleştirilen adaşlar ve paralel hatlar sonuca sessizce sı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k11 → "Hesap kâğıt üzerinde zariftir ama atlanan kuşaklar, birleştirilen adaşlar ve paralel hatlar sonuca sessizce sı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k11 → "Abraham Fornander 1878'de Polinezya soy zincirlerini tam bu işe koştu: Hawaii'nin geçmişini, David Malo ve Kam…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k11 → "Çalışma bugün iki şeyin birden kaydı olarak okunur; on dokuzuncu yüzyılın soy zincirine duyduğu güvenin ve o z…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Çalışma bugün iki şeyin birden kaydı olarak okunur; on dokuzuncu yüzyılın soy zincirine duyduğu güvenin ve o z…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k10 → "Bu şartın gücünü gösteren erken bir örnek Büyük Zimbabve'dir: kalıntılar yerleşimci yazınında Doğu'dan gelmiş …" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k10 → "Kazı burada yerli geçmişi silen bir efsaneyi çürüttü ve bölge halklarının geçmişini tarihlenebilir bir zemine …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Djibril Tamsir Niane'nin 1960'ta bir griot'tan derleyip yayımladığı Sunjata destanı, Mali'nin ortaçağ geçmişi …" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Djibril Tamsir Niane'nin 1960'ta bir griot'tan derleyip yayımladığı Sunjata destanı, Mali'nin ortaçağ geçmişi …" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k5 → "Bu iş bölümü bir uzlaşma sayılmamalıdır; anlatının kazı bulgusuyla kesiştiği yerde iki taraf da kendini doğrul…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu iş bölümü bir uzlaşma sayılmamalıdır; anlatının kazı bulgusuyla kesiştiği yerde iki taraf da kendini doğrul…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bilgi kuramındaki tanıklık tartışması, başkasının sözüne dayanan inancın ne zaman bilgi sayılacağını sorar; in…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Lowie'nin dış kanıt şartı bu ayrımın indirgemeci kanadının tarih yöntemine çevirisi gibi okunabilir; Vansina'n…" — programatik olarak ölçülemedi (ad karşılığı yok): Vansina
+- [ATOMSUZ] k2 → "Lowie'nin dış kanıt şartı bu ayrımın indirgemeci kanadının tarih yöntemine çevirisi gibi okunabilir; Vansina'n…" — programatik olarak ölçülemedi (ad karşılığı yok): Vansina
+- [OK]      k4 → "1304'te Tanca'da doğdu; 1354'te sona eren, çeyrek yüzyılı aşan yolculuğunun kaydı, dönüşünde anlattıklarının s…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k4 → "Gibb'in çeviriye yazdığı giriş bu kaydın niteliği konusunda açık sözlüdür: gezgin yol boyunca not tutan bir ya…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Böyle bir metinde görgü tanıklığı ile yolda dinlenmiş aktarım iç içe geçer; hangi bilginin hangisine dayandığı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Böyle bir metinde görgü tanıklığı ile yolda dinlenmiş aktarım iç içe geçer; hangi bilginin hangisine dayandığı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k11 → "Fornander'in yararlandığı Hawaii derlemeleri, Malo ve Kamakau gibi şecereleri kendi topluluklarının içinden ya…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Fornander'in yararlandığı Hawaii derlemeleri, Malo ve Kamakau gibi şecereleri kendi topluluklarının içinden ya…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k3 → "Bu metinler hem yazılı hem sözlüdür; kaydın tarihi ile anlatının konu edindiği geçmiş ayrı katmanlar olarak ok…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu metinler hem yazılı hem sözlüdür; kaydın tarihi ile anlatının konu edindiği geçmiş ayrı katmanlar olarak ok…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Aktarım kurumu bilinen gelenekler — kim aktarır, hangi eğitimle, hangi denetim altında — kurumu bilinmeyenlere…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Aktarım kurumu bilinen gelenekler — kim aktarır, hangi eğitimle, hangi denetim altında — kurumu bilinmeyenlere…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Bağımsız bir kanıt türüyle — kazı, dil bilimi, çağdaş yazılı kayıt — kesişen aktarım, kesişmeyenden farklı bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bağımsız bir kanıt türüyle — kazı, dil bilimi, çağdaş yazılı kayıt — kesişen aktarım, kesişmeyenden farklı bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Geri beslemenin tespiti çoğu durumda erken tarihli yazılı derlemelerin varlığına bağlıdır; oysa sorun tam da b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Aktarım kurallarının bilgisi çoğunlukla geleneğin kendi içinden gelir ve ölçüt, ölçtüğü şeye yaslanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Kuşak hesabına dayalı kronolojiler bağımsız tarihleme olmadan sınanamaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k11 → "Kuşak hesabına dayalı kronolojiler bağımsız tarihleme olmadan sınanamaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Taraflar üstelik aynı soruya cevap vermez: belge önceliği hangi iddianın doğrulanabilir olduğunu, karşı konum …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Taraflar üstelik aynı soruya cevap vermez: belge önceliği hangi iddianın doğrulanabilir olduğunu, karşı konum …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 4 OK · 0 ISARET · 0 HATA · 57 ATOMSUZ
+**Özet:** 30 OK · 0 ISARET · 0 HATA · 48 ATOMSUZ

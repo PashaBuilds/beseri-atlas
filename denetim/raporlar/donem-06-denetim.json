@@ -1,31 +1,37 @@
 {
   "id": "donem-06",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:12.564Z",
-  "govde_hash": "902e20674381",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T23:38:44.625Z",
+  "govde_hash": "d4262661da83",
+  "commit": "9d53473",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Bu dönemin ayırt edici özelliği, üç büyük siyasi merkezin aynı yüzyıllarda kurulmasıdır: Abbasi hanedanı 750'de, Tang 618'de, Karolenj imparator unvanı ise 800'",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Tang, Karolenj"
+      "iddia": "Abbasi hanedanı 750'de iktidara geldi.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k6",
-      "iddia": "Bu dönemin ayırt edici özelliği, üç büyük siyasi merkezin aynı yüzyıllarda kurulmasıdır: Abbasi hanedanı 750'de, Tang 618'de, Karolenj imparator unvanı ise 800'",
+      "iddia": "Tang 618'den beri Çin'i yönetiyordu.",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
-      "iddia": "Bu dönemin ayırt edici özelliği, üç büyük siyasi merkezin aynı yüzyıllarda kurulmasıdır: Abbasi hanedanı 750'de, Tang 618'de, Karolenj imparator unvanı ise 800'",
+      "iddia": "Batı Avrupa'da imparator unvanı 800'de diriltildi.",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Râşidîn ve Emevî hilafetleri Roma topraklarının güney kısmını fethetti.",
+      "iddia": "Râşidîn ve Emevî hilafetleri, Roma topraklarının güney kısmını fethetti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Emevîler zamanında imparatorluğun sınırları Türkistan içlerinden Pirene dağlarına, Kafkaslar'dan Hint Okyanusu'na ve Büyük Sahrâ içlerine kadar uzanıyordu.",
       "durum": "OK",
       "not": ""
     },
@@ -43,7 +49,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "800 yılında imparator unvanı Batı Avrupa'da Şarlman ile yeniden canlandırıldı; onun Karolenj İmparatorluğu sonraki Avrupa toplumsal yapısını, sanatlarını, kültü",
+      "iddia": "800 yılının Noel gününde papalık eliyle Şarlman'a imparator tacı giydirildi; taç, Batı Avrupa'da yüzyıllardır boş duran bir unvanı yeniden diriltiyordu.",
       "durum": "OK",
       "not": "2 atom doğrulandı; 3 ad ölçülemedi"
     },
@@ -55,15 +61,9 @@
     },
     {
       "anahtar": "k6",
-      "iddia": "Tang, 618-907 arasında hüküm süren Çin imparatorluk hanedanıdır; başkenti dönemin büyük bölümünde Chang'an'dı.",
+      "iddia": "Sui hanedanı 618'de dağıldığında Chang'an'da imparator ilan edilen Li Yuan, hanedanına Tang adını verdi; taht iddiasındaki on bir kadar rakibin tasfiyesinden so",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Resmî dili Orta Çince'ydi; çoğunluk dinleri Çin Budizmi, Taoizm ve Çin halk dini, azınlık dinleri ise Nasturi Hristiyanlığı, Çin Maniheizmi, Zerdüştlük ve İslam",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Çince, Budizmi"
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
@@ -72,26 +72,20 @@
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kullanılan kaynaklar İslam dünyasını, Avrupa'yı ve Doğu Asya'yı kendi başlıkları altında ele alırken Güney Asya ile Afrika için ayrı bir başlık taşımıyor; bu ik",
+      "anahtar": "k2",
+      "iddia": "Dönemin teknik tabanına dair en somut kayıt Bizans'tan gelir: Britannica'nın değerlendirmesine göre Bizans toplumunun teknik tabanı çağdaşı Batı Avrupa'nınkinde",
       "durum": "OK",
-      "not": ""
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
-      "iddia": "Kullanılan kaynaklar İslam dünyasını, Avrupa'yı ve Doğu Asya'yı kendi başlıkları altında ele alırken Güney Asya ile Afrika için ayrı bir başlık taşımıyor; bu ik",
+      "iddia": "Batının tablosu daha yavaştır: eski Batı Roma coğrafyası sekizinci yüzyılın sonunda âdemi merkezî ve ezici ağırlıkla kırsal bir görünümdeydi.",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Kullanılan kaynaklar İslam dünyasını, Avrupa'yı ve Doğu Asya'yı kendi başlıkları altında ele alırken Güney Asya ile Afrika için ayrı bir başlık taşımıyor; bu ik",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Avrupa, Asya"
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
-      "iddia": "Dönemin maddi tabanı, Batı Avrupa'da mütevazı ama gerçek bir teknik ilerlemeyle tanımlanır: köylerde demir aletler bulunabiliyordu, su değirmenleri manzaraya ya",
+      "iddia": "Ağır tekerlekli saban ancak onuncu yüzyılın sonlarında yayılmaya başladı; Romalıların hafif sabanları kuzey Avrupa'nın ağır topraklarında çoğu kez yetersiz kalm",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -102,802 +96,346 @@
       "not": ""
     },
     {
-      "anahtar": "k3",
-      "iddia": "Tang'ın sivil ve askerî idareyi ayrı ayrı örgütlemesi bu sorunun kurumsal cevaplarından biridir.",
+      "anahtar": "k2",
+      "iddia": "Bu eğri bölgesel kayıplarla birlikte okunmalıdır: eski Roma coğrafyasında 400 ile 600 arasında nüfus yüzde 20 daha azalmıştı ve toparlanma bölgeden bölgeye fark",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Tang'ın cevabı sınavdır: edebî kültür memuriyete açılan tek kapıydı ve xiucai, mingjing ile jinshi dereceleri için sınavlar düzenli aralıklarla Chang'an'da yapı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Taşra elemelerini geçen adaylar ile devlet okullarının mezunları bu sınavlara girebiliyordu.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Tang'ın cevabı sınav sistemi ve merkezî idaredir; hanedan mutlak monarşi olarak sınıflandırılır ve sivil ile askerî idareyi ayrı ayrı örgütler.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k6",
+      "iddia": "Düzen Tang icadı da değildi; jinshi sınavı 606'da Sui hükümdarı Yangdi'nin saltanatında kurulmuştu ve Tang bu mirası devralıp genişletti.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Abbasi'nin cevabı hilafet kurumudur — siyasi otoriteyi peygamber soyuna bağlayan bir meşruiyet zinciri.",
+      "iddia": "Abbasi'nin cevabı, siyasi otoriteyi peygamber soyuna bağlayan hilafet kurumu ile Bağdat'ta uzmanlaşmış divanlar etrafında örülen bir idaredir: maliyeden sorumlu",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İdare merkeziyetçi bir karakter taşıyordu; eyaletler vali ve emîrler eliyle yönetiliyordu.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Karolenj'in cevabı ise imparator unvanının diriltilmesidir: Batı Avrupa, kendi siyasi biçimini Roma'nın hafızasından türetir.",
-      "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Avrupa'da Viking yayılması ve Macar istilaları, Doğu Asya'da An Lushan isyanı ve onu izleyen felaket, İslam dünyasında ise hilafetin iç bölünmeleri dönemin beli",
+      "iddia": "Karolenj'in cevabı ise imparator unvanının diriltilmesidir: Batı Avrupa kendi siyasi biçimini Roma'nın hafızasından türetti ve saray, sonradan Karolenj Rönesans",
       "durum": "OK",
       "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Avrupa'da Viking yayılması ve Macar istilaları, Doğu Asya'da An Lushan isyanı ve onu izleyen felaket, İslam dünyasında ise hilafetin iç bölünmeleri dönemin beli",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Viking, Macar, Asya"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "An Lushan isyanının Tang tarihindeki yeri dikkat çekicidir: hanedanın kronolojisi kuruluş, Wu Zetian'ın gaspı, Xuanzong'un saltanatı, An Lushan isyanı ve felake",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Lushan, Tang, Zetian, Xuanzong"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Başlangıç, yeni bir siyasi ve dinî düzenin batı Asya'da yerleşmesine yakın bir tarihe konmuştur.",
+      "anahtar": "k2",
+      "iddia": "Avrupa'nın yüzyıllarını Viking yayılması ile Macar istilaları biçimlendirdi.",
       "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "İki sınır da yaklaşıktır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Atlas bu yaklaşıklığı ayrıca beyan eder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Dosyanın ekseni, üç büyük merkezin aynı yüzyıllarda kurulmasıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Üçü birbirinden büyük ölçüde habersizdi.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Atlas bu eş zamanlılığı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Üç merkezin de temel sorunu aynıydı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Çözümler benzerdi.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Atlas bu benzerliği ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Üç merkezde de valinin yanında merkeze doğrudan bağlı bir görevli bulunuyordu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bu, merkezin tek bir kaynağa bağlı kalmamasını sağlıyordu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu tekrarı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Üç merkez de aynı ikilemle karşılaştı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Üçünde de ikinci sonuç yaşandı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Atlas bu örüntüyü ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Üç merkez de zamanla dışarıdan gelen askerî gruplara dayandı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Zamanla kendi çıkarlarını izlemeye başladılar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu dönüşümü ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Üç merkezde de vergi düzeni yeniden kuruldu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Ölçüm, merkezin kapasitesinin doğrudan göstergesidir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu bağı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Dönemde yeni bir başkent kuruldu ve hızla dünyanın en büyük kentlerinden biri hâline geldi.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Konum, tahılın ve malzemenin su yoluyla taşınmasını sağlıyordu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu bağı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Aynı dönemde kapsamlı bir çeviri ve derleme çalışması yürütüldü.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Çalışma saray himayesiyle finanse edildi.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Atlas bu bileşimi ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bu dönemde aktarım büyük ölçüde eski metinlerden yeni dile doğruydu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "İki hareket birlikte okunmalıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu ikiliği ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Dönemde kâğıt üretimi doğudan batıya taşındı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Kâğıt, derlemeyi ve idari kaydı doğrudan ucuzlattı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Atlas bu bağı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Batıda kurulan merkez, yazılı yönetimi yeniden kurmaya çalıştı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Bu kopyalama, birçok klasik metnin bugüne ulaşmasını sağladı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Atlas bu ayrıntıyı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Kopyalanacak metinler seçiliyordu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Seçilmeyen metinler kayboldu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Atlas bu seçimi ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Doğuda kurulan merkez, sınav yoluyla görevli seçme düzenini geliştirdi.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Düzen tam olarak açık değildi.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Atlas bu ayrımı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Buna karşılık düzen, yetkinin kalıtsal olmasını zayıflattı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bu, atlasın veraset dosyasındaki ölçütle bağlantılıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu bağı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Dönem boyunca dünya nüfusu yavaş arttı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Bölgesel salgınlar ve kıtlıklar eğriyi kesintiye uğrattı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Atlas bu belirsizliği korur.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Dönemde üç merkez arasında dolaylı ticaret sürdü.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Aracılar zinciri boyunca el değiştiriyordu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu yapıyı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Aynı dönemde Hint Okyanusu üzerinden işleyen deniz ticareti büyüdü.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Deniz yolu, kara yolundan ucuzdu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu farkı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Deniz ticaretinin batı ucunda, kıyı boyunca liman kentleri gelişti.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bu kentlerde karma bir dil ve karma bir kültür oluştu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu bağı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bu dönem için kayıt bölgeye göre çok farklıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Kaydın büyük bölümü merkezlerden gelir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu dengesizliği ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bu döneme bağlanan dosyalar dört öbekte toplanır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Dördü birlikte okunmalıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Bir hanedanın kurulması, bir metnin çevrilmesi, bir kentin büyümesi ve bir nüfus eğrisinin yükselmesi aynı dönemi dört ayrı düzeyde kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Dosya, dönemin bütün olaylarını sıralamaz.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bölgesel ayrıntı sınırlıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Sayısal seriler burada yorumlanır, üretilmez.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Serilerin kaynakları ve yöntemleri atlasın veri dosyalarında ayrı ayrı kayıtlıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Üç merkezin de meşruiyeti bir dinî çerçeveye dayanıyordu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Din, hem hükümdarın yetkisini gerekçelendiriyor hem de geniş bir alanda ortak bir hukuk dili sağlıyordu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Atlas bu ikiliği ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Dönemde üç merkezde de hukuk derlemeleri yapıldı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Derlemeler farklı gelenekleri farklı biçimde ele aldı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu tercihi ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Sürekli ordu üç merkezde de mali bir sorun üretti.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bir merkez toprak geliri tahsis etti, bir başkası nakit ödeme sürdürdü.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Atlas bu ayrımı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Dönemin en büyük kentleri üç merkezin başkentleriydi.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Büyüklük, merkezî yönetimin toplayabildiği kaynağın doğrudan göstergesidir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu bağı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Bu tür bir kent, siyasi düzen bozulduğunda hızla küçülür.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Dönemin sonunda birkaç büyük kent bu şekilde küçüldü.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu mekanizmayı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Nüfusun büyük bölümü kırsalda yaşıyordu ve kaydı zayıftır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Vergi kaydı, üretimin tamamını değil vergilendirilen bölümünü gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Atlas bu boşluğu ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Üç merkezde de bağımlı emek biçimleri bulunuyordu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bazı biçimler toprağa, bazıları kişiye bağlıydı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Atlas bu ölçütü ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir merkezde satın alınmış askerlerden oluşan bir birlik düzeni kuruldu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Amaç, yerel kabile ve soy bağlarından bağımsız bir güç oluşturmaktı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu dönüşümü ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Dönemde astronomi ve matematik alanında düzenli gözlem ve hesap yapıldı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Çalışmalar pratik ihtiyaçlara bağlıydı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Atlas bu bağı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bu dönemde kurulan gözlem geleneği sonraki yüzyıllarda sürdü.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Zincirin sürmesi kurumsal bir başarıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu sürekliliği ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Üç merkez de kendi sikkesini bastı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Ayarın düşürülmesi kısa vadede gelir sağlar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu değiş tokuşu ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Bir merkezin sikkesi kendi sınırlarının çok ötesinde bulunabiliyordu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bu, siyasi denetimi değil ticari bağlantıyı kanıtlar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Atlas bu ayrımı ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Üç merkezde de düzenli bir posta ve menzil düzeni kuruldu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Aynı ağ, tüccarlar ve yolcular tarafından da kullanıldı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas bu geçişi ayrıca kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Dosya bir soruyla kapanır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "İki cevap aynı kayıtlarla uyumludur.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Atlas soruyu açık tutar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Benzerlik tek başına aktarım kanıtı değildir; aktarım gösterilmedikçe bağımsız çözüm de eşit ölçüde olasıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Dönem için kullanılan adlar bölgeye göre değişir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "İlk ad bir eksiklik bildirir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Atlas bu yüzden üç merkezi birlikte adlandırır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Bu dönemde dünyanın en büyük kentleri ve en yoğun ticaret ağları kıtanın doğusunda ve batı Asya'daydı.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Bu dağılım sonraki yüzyıllarda değişti.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Atlas dönemin kendi dağılımını kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bir dönemi sonraki dönemin merkezinden okumak, o dönemin ağırlık dağılımını yanlış gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Üç merkezde de idari kayıt tek bir dilde tutuldu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Bu, kayda erişimi dar bir gruba bağladı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bu ikilik, dönemin yönetim tarzının özüne dokunur.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Ortak bir kayıt dili, yönetimi kolaylaştırırken yönetilenlerin çoğunu kendi kaydının dışında bırakır; bugün bu döneme dair okunan kaynakların büyük bölümü de o ",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Ortak bir kayıt dili, yönetimi kolaylaştırırken yönetilenlerin çoğunu kendi kaydının dışında bırakır; bugün bu döneme dair okunan kaynakların büyük bölümü de o ",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Tang'da çoğunluk dinleri Çin Budizmi, Taoizm ve Çin halk diniyken; Nasturi Hristiyanlığı, Çin Maniheizmi, Zerdüştlük ve İslam azınlık dinleri olarak varlığını s",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Budizmi, Taoizm, Nasturi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Abbasi hanedanının beş yüzyılı aşan ömrü, bu ticaret ve fikir ağının ne kadar dayanıklı olduğunun göstergesidir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Abbasi hanedanı 1258'e kadar sürecek, Tang ise 907'de sona erecektir; Avrasya'nın üç ucunda kurulan bu düzenlerin birbirleriyle doğrudan teması bir sonraki döne",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Tang, Avrasya"
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k6",
-      "iddia": "Abbasi hanedanı 1258'e kadar sürecek, Tang ise 907'de sona erecektir; Avrasya'nın üç ucunda kurulan bu düzenlerin birbirleriyle doğrudan teması bir sonraki döne",
+      "iddia": "Tang'ın dönemeci An Lushan isyanıdır: Li Ung Bing'in dönemin diliyle \"Tartar kökenli\" diye nitelediği bu komutan imparatorun tam güvenini kazanmış, üç sınır ken",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Hanedanın sonu da bir taşra isyanıyla geldi: Shandong'da patlak veren ayaklanma, Huang Chao'nun önderliğinde bir salgın gibi ülkeyi sardı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "İsyan bastırıldıktan sonra saf değiştiren komutanlardan Zhu Wen'in 907'de kurduğu Sonraki Liang hanedanı, Beş Hanedan devrinin ilkiydi.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Beş Hanedan yılları (907-960), tahtın başarılı generaller arasında el değiştiren bir ödüle dönüştüğü bir askerî despotizm dönemi olarak anlatılır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Başlangıç, yeni bir evrensel dinin taşıdığı siyasi düzenin batı Asya'da yerleşmesine yakın bir tarihe konmuştur; bu düzenin ilk yüzyılını Râşidîn ve Emevî fetih",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bitiş, üç merkezin kendi biçimini tamamladığı ya da kapattığı yıllara denk düşer: Çin'de Tang 907'de bitmiş, ardından gelen parçalanma yeni bir birleşmeye dönmü",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Abbasi idaresinde eyaletlere vali ve emîrler atanır, posta ile gizli istihbaratı aynı çatı altında toplayan Dîvânü'l-berîd merkeze taşradan ikinci bir bilgi kan",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bağdat'ta 936'da kurulan emîrülümerâlık, siyasi iktidarın komutanlara geçişini kurumsallaştırdı; emîrü'l-ümerânın adı hutbede ve sikkede halifenin adından hemen",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Çin'de 907'yi izleyen yıllarda taht, ordu komutanlarının ödülü haline geldi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Şarlman'ın ölümünden sonra ise imparatorluk düzenli bir veraset yerine paylaşımlarla bölündü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Dönem kapanırken kurulan Song hanedanının kurucusu aynı dersi tersinden uyguladı: eski silah arkadaşlarını taşra valiliklerine dağıttı, vergileri doğrudan tahta",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Song"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Halife Mu'tasım, çeşitli Türk ülkelerinden birlikler getirterek ordunun büyük kısmını Türklerden oluşturdu ve 836'da kurduğu Sâmerrâ şehrine hilafet merkezini t",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mütevekkil'den itibaren bu kumandanlar istediklerini halife yapar, istemediklerini indirir hale geldi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Tang'da da hanedanı sarsan isyanın önderi, imparatorun güvenini kazanmış ve orduyu sınır boylarında tutan yabancı kökenli bir komutandı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaş esirlerinden gelen köleler toplumun önemli bir bölümünü oluşturuyordu; çoğu Slav, Rum ve Zencî kökenliydi ve Mısır, Kuzey Afrika ile Kuzey Arabistan köle ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yahudi ve hıristiyanlardan oluşan zimmîler ise devletin himayesinde din hürriyetiyle yaşıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Halife Mansûr'un planını bizzat çizerek kurdurduğu Bağdat — resmî adıyla Medînetüsselâm — savunmaya elverişli dairevî planda inşa edildi ve çift surla çevrildi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Dicle'nin iki yakasında 762'de kurulan şehir, 1258'deki yıkımına kadar hilafet merkezi olarak kaldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Taşınmanın anlamı coğrafiydi: idarenin ağırlık merkezi, bir Akdeniz ülkesi olan Suriye'den, sulanabilen zengin bir vadi ve birçok ticaret yolunun kavşağı olan I",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Şehrin planı sosyal gayeler gözetilerek çizilmişti ve her bölge belirli bir etnik ya da meslekî grubun sorumluluğundaydı; kuruluşu izleyen yıllarda inşaat ve ti",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "626'da Avar ve Pers kuşatmasına direnen Konstantinopolis, erken orta çağ Avrupa'sının açık ara en büyük kentiydi.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "MS 100 dolayında 450 bin dolayında nüfus barındırmış olan Roma ise bu dönemde 20 bine kadar indi ve harabelerle bitki örtüsü arasında dağınık yerleşim adalarına",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki tablo aynı mekanizmanın iki yüzüdür: imparatorluğun tamamından beslenen bir başkent, onu besleyen ağ ayakta kaldığı sürece kendi çevresinin taşıyabileceğini",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Beytülhikme'yi ilk kez kimin ve ne zaman kurduğu tartışmalıdır; kaynakların çoğu kuruluşu 830'da Halife Me'mûn'a bağlar, düşünce ve teşebbüs olarak kökleri ise ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çevirmenler farklı dillerden ve inanç çevrelerinden geliyordu: Grekçe'den doğrudan ya da Süryânîce üzerinden çevirenlerin sayısı kırk yediyi, Farsça'dan çeviren",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çalışma saray himayesiyle finanse edildi: Me'mûn yalnız Grekçe'den yaptırdığı tercümeler için 300.000 dinar ödemiş, kimi çeviriler terazinin kefesinde altın toz",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aktarımın yönü bu yüzyıllarda eski metinlerden Arapça'ya doğruydu: Batlamyus'un el-Mecistî'si, Öklid'in geometri külliyatı ve Hint rakamlarını taşıyan Sind-Hind",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kâğıdın 105 yılında Çin'de imal edilmeye başlandığı kabul edilir; 751'deki Talas Savaşı'nda ele geçen Çinli esirler arasında kâğıt yapımını bilen ustalar vardı,",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kâğıt kısa zamanda papirüs ile parşömenin yerini aldı; Avrupa kâğıt ihtiyacını müslümanlardan ithalatla karşılıyor, kendi imalatına ancak on üçüncü yüzyılda baş",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Me'mûn'un Bağdat yakınlarındaki Şemmâsiye'de kurdurduğu rasathanede çalışan astronom ve matematikçilerin çoğu Beytülhikme kadrosundandı; geliştirilmiş gözlem al",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Gözlem geleneği tek kuruluşla sınırlı kalmadı; daha sonra Benî Mûsâ ailesi ile Adudüddevle de Bağdat'ta birer rasathane yaptırdı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Gezici keşişlere kitap satın almaları için para veriliyor, kopyalama işi manastırın yazı odasında yürütülüyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İrlandalı başrahip Columbanus'un 614'te kurduğu İtalya'daki Bobbio manastırı, dokuzuncu yüzyılda din eserlerinin yanı sıra klasik metinleri, tarihleri ve matema",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bizans dünyasında dinî evler kendi kopyalama merkezlerini nadiren işletir, koleksiyonlarını bağışlarla beslerdi; onuncu yüzyılda en büyük koleksiyon, on bini aş",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kapasitenin kendisi dönemin ürünüdür: Roma idari altyapısı çözüldüğünde okullar çökmüş, yönetici katmanda bile okuryazarlık gerilemişti; toparlanma Karolenj sar",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Abbasi halifeleri ticarete önem verdi ve kervan yollarının emniyetini sağladı; başlangıçta yahudi, hıristiyan ve Mecûsî tüccarların elinde olan ticarette müslüm",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bağdat pamuklu ve ipekli dokumalar, cam eşya, yağ ve ilâç ihraç ediyor, deri ve kâğıt üretimiyle ün salıyordu; sarraf ve cehbezlerin faaliyeti, devrine göre gel",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Akdeniz'in batısında ritim farklıydı: ticaret hacmi sekizinci yüzyılda en düşük düzeyine indi ve bu yüzyıla tarihlenen batıkların azlığı düşüşün arkeolojik izid",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "936'dan sonra emîrü'l-ümerânın adının sikkelerde halifenin adıyla birlikte yer alması, paranın aynı zamanda bir siyasi bildiri yüzeyi olduğunu gösterir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Salgınlara dair ayrıntıların çoğunun kaybolması, hayatta kalan yazılı kaydın azlığına bağlanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Çoğunluk Budizm ile Taoizm çevresinde toplanmıştı; Budizm'in hazırladığı zemin üzerinde Nasturi Hristiyanlığı ile İslam, Tang döneminde serpilme imkânı buldu.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Tian Shan'ın kuzeyinden ve güneyinden geçen iki büyük yol, İslam fetihlerinin önünden çekilen Zerdüştî, Nasturî ve Maniheist toplulukları Çin'e taşıdı; Taizong ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Hristiyanlık 634'te Süryani keşiş Olopun eliyle Chang'an'daki saraya kadar girdi; Zerdüştî cemaatinin işlerine bakmak için Yao Cheng unvanlı özel bir görevli at",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bağdat'taki çeviri sofrasında Süryânî, Hintli, Harranlı ve Nabatî çevirmenlerin yan yana çalışması aynı olgunun batı ucudur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Ağırlık merkezine bakmak bu adın neden yanıltıcı olabileceğini gösterir: Wells Williams'ın, Li Ung Bing'in aktardığı yargısına göre Tang tahtta kaldığı yıllarda",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Dönemin en büyük kentleri ve en yoğun ticaret ağları da kıtanın doğusunda ve batı Asya'daydı; Avrupa ucu nüfus ve kentleşme bakımından geride kalıyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kâğıdın yolculuğu izlenebilir aktarımın en net örneğidir: Talas'ta alınan esirlerle başlayan zincir, yarım yüzyıl içinde Semerkant üzerinden Bağdat'a ulaştı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Abbasi hilafeti 1258'e kadar sürecekti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Tang 907'de kapanmıştı; üç ucun birbiriyle doğrudan teması ise bir sonraki dönemin konusudur ve sayfasında ele alınıyor.",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

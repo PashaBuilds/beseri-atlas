@@ -1,69 +1,267 @@
 {
   "id": "olay-covid-19-pandemisi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:15.929Z",
-  "govde_hash": "f988caef3e5d",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T23:17:28.944Z",
+  "govde_hash": "a930f132dddd",
+  "commit": "9d53473",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Bu pandeminin referans maddesi, olayı bir sağlık olayı olarak değil çok katmanlı bir toplumsal olay olarak bölümler: etki bölümü ekonomi (ve tedarik sıkıntıları",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir salgının referans kaydında sanat ve kültürel mirasa ayrı bir alt başlık ayrılması, pandeminin ölçülen sonuçlarının tıbbi alanla sınırlı olmadığını gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Aynı bölümde siyaset başlığının ülke ülke alt başlıklara ayrılması, tepkinin tekbiçimli olmadığını kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, kısıtlamaları ayrı bir bölüm olarak ele alır ve seyahat kısıtlamaları ile yabancı vatandaşların ülkelerine geri gönderilmesini alt başlıklar olarak veri",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Sınır rejimlerinin bir salgın maddesinde ayrı bölüm olması, pandemiyi aynı zamanda bir hareketlilik olayı yapar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, kıtalara göre bölümlemenin yanında Birleşmiş Milletler ve Dünya Sağlık Örgütü'nü ayrı başlıklar olarak sayar.",
+      "iddia": "Salgın, Aralık 2019'da Çin'in Wuhan kentinde görülen bir vaka kümesiyle başladı; 2020 başında önce Asya'nın öteki bölgelerine, oradan bütün dünyaya yayıldı.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Uluslararası kurumların coğrafi bölümlerle aynı düzeyde listelenmesi, pandemide kurumsal yanıtın bölgesel yanıt kadar belirleyici sayıldığını gösterir.",
+      "iddia": "Dünya Sağlık Örgütü 30 Ocak 2020'de salgını uluslararası boyutta halk sağlığı acil durumu ilan etti, 11 Mart 2020'de pandemi olarak niteledi; acil durum çerçeve",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Erişim tarihinde (Ağustos 2026) dünya genelinde 779 milyon doğrulanmış vaka ile 7,1 milyon kayıtlı ölüm sayılıyordu ve gerçek bilançonun bunun epey üzerinde old",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kapanmalar, seyahat kısıtlamaları ve karantinalar gündelik hayatı yeniden biçimlendirdi; dünya ekonomisi Büyük Buhran'dan bu yana en büyük küresel daralmayı yaş",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Büyük, Buhran"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı salgın, ilk aşıların pandemi ilanından bir yıl geçmeden genel nüfusa ulaştığı bir seferberlik de üretti.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İlk bilinen vakaların önemli bölümü, Wuhan'daki Huanan su ürünleri toptancı pazarını ziyaret etmiş kişilerle bağlantılıydı; ama insandan insana bulaşın daha erk",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Moleküler saat analizleri, ilk vakaların büyük olasılıkla Ekim ile Kasım 2019 arasına düştüğünü öne sürer.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Resmî vaka sayıları yayılmanın hep gerisinde kaldı, çünkü sayım test edilip kayda geçen kişileri görür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Erişim tarihindeki kayıt, 2022 sonuna kadar dünya nüfusunun yüzde 70'inin virüsle karşılaşmış olabileceği şüphesini not eder; doğrulanmış vaka sayısı bunun epey",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Örgüt salgını 30 Ocak 2020'de uluslararası boyutta halk sağlığı acil durumu ilan etti; 11 Mart 2020'de ise durumu pandemi olarak değerlendirdi.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Acil durum üç yıldan uzun yürürlükte kaldı ve 5 Mayıs 2023'te sona erdi; kapanış açıklaması, hastalığın küresel bir sağlık tehdidi olmaya devam ettiğini de vurg",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Virüs de bu süreçte sabit kalmadı: mutasyonlar, bulaşıcılığı ve şiddeti birbirinden farklı çok sayıda varyant üretti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hastalık 2023'ten sonra da dolaşımda kaldı; 2025'e gelindiğinde uzmanların genel kanısı, pandeminin sona erip endemik faza geçtiği yönündeydi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Acil durum boyunca en yaygın önlemler seyahat kısıtlamaları, kapanmalar, iş yeri kapatmaları, maske zorunlulukları, karantinalar, test sistemleri ve temaslıları",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eğitim kurumları ve kamusal alanlar birçok yerde kısmen ya da tamamen kapatıldı; 2020 ve 2021 boyunca sayısız etkinlik iptal edildi ya da ertelendi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ölçeği tek bir örnek verir: Hindistan 24 Mart 2020'de ülke çapında kapanmaya girdi ve kademeli açılma ancak 1 Haziran 2020'de başladı.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Evden çalışma beyaz yakalı işlerde belirgin biçimde yaygınlaştı; insan hareketliliğinin azalması, kirlilikte daha önce görülmemiş geçici bir düşüş üretti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı dönem pandemiyi bir bilgi sorununa da çevirdi: yanlış bilgi sosyal medyada ve zaman zaman ana akım medyada dolaştı, halk sağlığı zorunlulukları ile bireyse",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kapanma sonrası Hindistan hükümeti, temaslı takibini ve aşı dağıtımını yönetmek için Aarogya Setu adlı bir izleme uygulaması devreye soktu; salgın yönetimi böyl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Pandemi, Büyük Buhran'dan bu yana en büyük küresel daralmayı tetikledi; tedarik zinciri kopmaları ve panik alımları, gıda dahil yaygın arz kıtlıklarına yol açtı",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Büyük, Buhran"
     },
     {
       "anahtar": "k2",
-      "iddia": "Salgın bilançolarının tartışmalı olması bu pandemiye özgü değildir: 2019'da yayımlanan bir araştırma, 200 yıl süren Justinyen pandemisinin ölüm bilançosunun ve ",
+      "iddia": "Amerika Birleşik Devletleri Kongresi'nin 27 Mart 2020'de yasalaştırdığı Koronavirüs Yardım, Rahatlama ve Ekonomik Güvenlik Yasası (CARES), ilk büyük bölümünün b",
       "durum": "OK",
-      "not": ""
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 2008'de yaklaşık 6,84 milyardır.",
+      "anahtar": "k1",
+      "iddia": "Aşılar salgının en hızlı işleyen cephesiydi: hızla geliştirildiler ve Aralık 2020'den itibaren genel nüfusa uygulanmaya başladılar.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Amerika Birleşik Devletleri'nde aşılar Aralık 2020'de acil kullanım kapsamında erişime açıldı; ilk aşının tam onayı ise 23 Ağustos 2021'de geldi.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dağıtım, hükümet programlarının yanı sıra COVAX gibi, amacı aşı eşitliği olarak tanımlanan uluslararası programlarla yürütüldü.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Virüsün biyolojisi, aşı geliştirme süreci, ülke ülke salgın seyri ve sağlık sistemleri üzerindeki etki burada ayrı başlıklar altında ele alınmamıştır; kaynak bu",
+      "iddia": "Eşitliğin ayrıca bir amaç olarak anılması, dağılımın kendiliğinden eşit olmadığının kaydıdır: dozlar üretim kapasitesini ve satın alma gücünü izledi.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Uygulanan dozların yüz kişi başına birikimi, ülke ülke günlük seri hâlinde açık veri olarak derlenmiştir; ülkeler arasındaki açıklık bu seriden okunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ölçeğin öbür ucunu yine Hindistan gösterir: yurttaşların yüzde 90'ından fazlasına ulaşan aşı programı, dünyanın en büyüğü ve en başarılılarından biri sayıldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "En yüksek kayıtlı ölüm sayısını taşıyan Amerika Birleşik Devletleri'nde COVID-19, ülke tarihinin en ölümcül pandemisi oldu ve 2020'de kalp hastalığı ile kanseri",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı ülkede 2019'dan 2020'ye yaşam beklentisi Hispanik Amerikalılarda 3, Afrikalı Amerikalılarda 2,9, beyaz Amerikalılarda 1,2 yıl düştü.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fark yalnızca ölüm sayılarında değildi: sağlık eşitliği ile ırk ve coğrafya temelli ayrımcılık, pandeminin gündeme taşıdığı sorular arasında kayıtlıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Erişim tarihinde (Ağustos 2026) kayıtlara geçmiş doğrulanmış ölüm sayısı 7,1 milyondu; aynı kaydın tahminî toplamı ise 18,5 ile 35,2 milyon arasında bir aralıkt",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Doğrulanmış ölümlerin ülke ülke günlük birikimi açık seri olarak derlenir; ama bu sayım, tanımı gereği yalnızca test edilip kayda geçen ölümleri görür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Doğrulanmış ölümlerin ülke ülke günlük birikimi açık seri olarak derlenir; ama bu sayım, tanımı gereği yalnızca test edilip kayda geçen ölümleri görür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aşırı ölüm, bu boşluğu ölçmek için kullanılan kavramdır: kriz sırasında bütün nedenlerden gerçekleşen ölümlerin, normal koşullarda beklenecek düzeyi aşan kısmıd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Doğrulanmış ölüm sayısından daha kapsamlı bir ölçüdür, çünkü tanısı doğru konmamış ya da hiç raporlanmamış ölümleri de krizin dolaylı kayıplarını da yakalar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dünya Sağlık Örgütü'nün Mayıs 2022'de yayımladığı tahmin bu yaklaşımın sonucudur: 2021 sonuna dek pandemiyle ilişkili yaklaşık 14,9 milyon aşırı ölüm — resmî ka",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayıt dışı kalan 9,5 milyonluk farkın çoğunluğunun, dolaylı kayıplar değil doğrudan virüs ölümleri olduğu değerlendirilmektedir; Aralık 2022'de yayımlanan bir b",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bilimsel yazındaki ağırlıklı görüş, virüsün yarasalardan ya da onlara yakın bir memeliden insana doğal yolla, hayvan kaynaklı bir taşmayla geçtiği yönündedir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Virüsün bir laboratuvardan kazayla çıkmış olabileceği yönündeki açıklamalar da öne sürülmüştür; aynı kayıt, bu açıklamaların 2021 itibarıyla yeterli kanıtla des",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Erken vakaların pazar bağlantısı ile moleküler saat bulguları doğal taşma hipotezinin başlıca dayanaklarıdır; laboratuvar hipotezi ise kamusal tartışmada canlıl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Uzun dönemli seride dünya nüfusu 2019'da yaklaşık 7,81 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayıtlara geçen 7,1 milyon ölüm bu nüfusun kabaca binde birine, 14,9 milyonluk aşırı-ölüm tahmini kabaca binde ikisine karşılık gelir; oranı hangi sayının verec",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kayıtlara geçen 7,1 milyon ölüm bu nüfusun kabaca binde birine, 14,9 milyonluk aşırı-ölüm tahmini kabaca binde ikisine karşılık gelir; oranı hangi sayının verec",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }
