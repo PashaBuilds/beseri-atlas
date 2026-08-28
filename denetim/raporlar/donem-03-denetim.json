@@ -1,7 +1,7 @@
 {
   "id": "donem-03",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:35.631Z",
+  "zaman": "2026-08-28T18:24:29.341Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -40,19 +40,19 @@
       "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k2",
+      "anahtar": "k1",
       "iddia": "Bölgenin Tunç Çağı çerçevesi Xia, Shang ve Zhou hanedanlarını kapsayacak biçimde yaklaşık MÖ 3100–300 aralığına yerleştirilir.",
-      "durum": "HATA",
-      "not": "kaynakta bulunamayan sayısal değer: 3100, 300"
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k2",
+      "anahtar": "k1",
       "iddia": "Hint alt kıtasının Tunç Çağı çerçevesi yaklaşık MÖ 1200'de kapanır.",
-      "durum": "HATA",
-      "not": "kaynakta bulunamayan sayısal değer: 1200"
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k2",
+      "anahtar": "k1",
       "iddia": "Amerika kıtası ise Eski Dünya'nın metalürji ve ticaret ağının dışında kendi gelişim çizgisini sürdürdü.",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): Eski, Dünya"

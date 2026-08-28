@@ -1,7 +1,7 @@
 {
   "id": "kavram-salgin",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:46.417Z",
+  "zaman": "2026-08-28T18:23:24.800Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -34,10 +34,10 @@
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k3",
-      "iddia": "O örneklerden biri için tutulan ayrı kayıt, salgının 1346-1353 arasına tarihlendiğini yazar.",
-      "durum": "HATA",
-      "not": "kaynakta bulunamayan sayısal değer: 1346, 1353"
+      "anahtar": "k1",
+      "iddia": "Aynı kaynağın kayda değer örnekler listesi, bu salgını 1346-1353 arasına tarihler.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",

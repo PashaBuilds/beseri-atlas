@@ -67,7 +67,7 @@ Tientsin Antlaşması ve Pekin Sözleşmesi ile sonuçlanmıştı.[^k1] Önceki 
 ## Hanedan çerçevesi
 
 İsyanın gerçekleştiği düzen, 1644-1912 arasında Çin'i yöneten Mançu önderliğindeki
-Qing hanedanıydı.[^k2] Hanedan
+Qing hanedanıydı.[^k1] Hanedan
 [Qing hanedanı](/aktor/qing-hanedani/) dosyasında ele alınıyor.
 
 ## Ölçek

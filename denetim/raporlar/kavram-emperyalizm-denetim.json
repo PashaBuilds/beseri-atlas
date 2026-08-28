@@ -1,7 +1,7 @@
 {
   "id": "kavram-emperyalizm",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:45.564Z",
+  "zaman": "2026-08-28T18:23:24.755Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -40,10 +40,10 @@
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Kavramın sona erdirilmesine dair bir kayıt, 1960 tarihli bir bildirinin sömürge sömürüsünü bir insan hakları ihlali saydığını ve iktidarın devredilmesi gerektiğ",
-      "durum": "HATA",
-      "not": "kaynakta bulunamayan sayısal değer: 1960"
+      "anahtar": "k4",
+      "iddia": "Birleşmiş Milletler Genel Kurulu'nun 1960 tarihli bildirisi, halkların yabancı boyunduruğuna tabi tutulmasını temel insan haklarının inkârı sayar ve bütün iktid",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

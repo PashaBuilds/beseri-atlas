@@ -47,6 +47,14 @@ kaynaklar:
     erisim_tarihi: 2026-08-21
     dogrulama_dizesi: "Marx"
     not: "Kuram geleneklerinden biri; bagimsiz alan adi"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: belge
+    ad: "BM Genel Kurulu 1514 (XV) - Somurge Ulkelerine Bagimsizlik Bildirisi (1960, Wikisource)"
+    url: https://en.wikisource.org/wiki/Declaration_on_the_Granting_of_Independence_to_Colonial_Countries_and_Peoples
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "Declaration on the Granting of Independence"
+    not: "14 Aralik 1960 tarihli karar metninin tam cevirisi degil, Ingilizce asli"
 son_denetim: 2026-08-21
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -82,9 +90,9 @@ dizi üretim tarzı boyunca ilerlediğini anlatır.[^k3] O gelenek
 
 ## Sona erdirilme süreci
 
-Kavramın sona erdirilmesine dair bir kayıt, 1960 tarihli bir bildirinin sömürge
-sömürüsünü bir insan hakları ihlali saydığını ve iktidarın devredilmesi
-gerektiğini belirttiğini yazar.[^k2] O süreç
+Birleşmiş Milletler Genel Kurulu'nun 1960 tarihli bildirisi, halkların
+yabancı boyunduruğuna tabi tutulmasını temel insan haklarının inkârı sayar
+ve bütün iktidarın bu halklara devredilmesini ister.[^k4] O süreç
 [Afrika bağımsızlık dalgası](/olay/afrika-bagimsizlik-dalgasi/) dosyasında ele
 alınıyor.
 

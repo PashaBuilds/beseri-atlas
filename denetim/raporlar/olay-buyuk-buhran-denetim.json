@@ -1,7 +1,7 @@
 {
   "id": "olay-buyuk-buhran",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:38.577Z",
+  "zaman": "2026-08-28T18:23:24.721Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -11,9 +11,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Bağımsız katalog kayıtları dönemi 1929–1941 olarak çerçeveler.",
-      "durum": "HATA",
-      "not": "kaynakta bulunamayan sayısal değer: 1941"
+      "iddia": "Wecter'in klasik incelemesi de dönemi daha başlığında 1929–1941 olarak çerçeveler.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -53,9 +53,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Katalog kayıtlarının dönemi 1941'de bitirmesi, iktisadi krizin savaş ekonomisiyle sona erdiği yönündeki yaygın çerçeveyi yansıtır.",
-      "durum": "HATA",
-      "not": "kaynakta bulunamayan sayısal değer: 1941"
+      "iddia": "Bu çerçevenin dönemi 1941'de bitirmesi, iktisadi krizin savaş ekonomisiyle sona erdiği yönündeki yaygın görüşü yansıtır.",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

@@ -65,8 +65,8 @@ dayanağıdır.
 ## Kayda değer örnekler ayrı bir bölümdür
 
 Kaynak, kayda değer salgınlar ve salgın olayları için ayrı bir bölüm tutar.[^k1]
-O örneklerden biri için tutulan ayrı kayıt, salgının 1346-1353 arasına
-tarihlendiğini yazar.[^k3] O örnek
+Aynı kaynağın kayda değer örnekler listesi, bu salgını 1346-1353 arasına
+tarihler.[^k1] O örnek
 [Kara Ölüm](/olay/kara-olum/) dosyasında ele alınıyor.
 
 ## Ölçünün uygulandığı toplam

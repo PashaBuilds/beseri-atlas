@@ -1,7 +1,7 @@
 {
   "id": "donem-06",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:35.862Z",
+  "zaman": "2026-08-28T18:23:24.615Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -10,10 +10,10 @@
       "not": "özel isim kaynakta bulunamadı: Tang, Karolenj"
     },
     {
-      "anahtar": "k3",
+      "anahtar": "k6",
       "iddia": "Bu dönemin ayırt edici özelliği, üç büyük siyasi merkezin aynı yüzyıllarda kurulmasıdır: Abbasi hanedanı 750'de, Tang 618'de, Karolenj imparator unvanı ise 800'",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Abbasi, Tang, Karolenj"
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
@@ -52,10 +52,10 @@
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Tang, 618-907 arasında hüküm süren Çin imparatorluk hanedanıdır; başkenti 618-690 ve 705-904 arasında Chang'an, 904-907 arasında Luoyang olmuştur.",
-      "durum": "HATA",
-      "not": "kaynakta bulunamayan sayısal değer: 618, 907, 690, 705, 904"
+      "anahtar": "k6",
+      "iddia": "Tang, 618-907 arasında hüküm süren Çin imparatorluk hanedanıdır; başkenti dönemin büyük bölümünde Chang'an'dı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
@@ -888,14 +888,14 @@
     {
       "anahtar": "k1",
       "iddia": "Abbasi hanedanı 1258'e kadar sürecek, Tang ise 907'de sona erecektir; Avrasya'nın üç ucunda kurulan bu düzenlerin birbirleriyle doğrudan teması bir sonraki döne",
-      "durum": "HATA",
-      "not": "kaynakta bulunamayan sayısal değer: 907"
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Tang, Avrasya"
     },
     {
-      "anahtar": "k3",
+      "anahtar": "k6",
       "iddia": "Abbasi hanedanı 1258'e kadar sürecek, Tang ise 907'de sona erecektir; Avrasya'nın üç ucunda kurulan bu düzenlerin birbirleriyle doğrudan teması bir sonraki döne",
-      "durum": "HATA",
-      "not": "kaynakta bulunamayan sayısal değer: 907"
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     }
   ]
 }

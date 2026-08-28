@@ -53,7 +53,7 @@ serit:
     satir: >-
       618-907 arasında hüküm süren Tang, Chang'an başkentiyle ve imparatorluk
       sınav sistemiyle yönetildi; An Lushan isyanı dönemin kırılma noktasıdır.
-    anahtar: k3
+    anahtar: k6
   - bolge: guney-asya
     baslik: Ticaret ağının ucu
     satir: >-
@@ -106,13 +106,20 @@ kaynaklar:
     erisim_tarihi: 2026-08-26
     dogrulama_dizesi: "BAĞDAT"
     not: "Donemin en buyuk kentlerinden birinin kendi maddesi"
+  - anahtar: k6
+    tur: kitap
+    ad: "Li Ung Bing - Outlines of Chinese History (Sanghay 1914, tam metin)"
+    url: https://archive.org/stream/outlinesofchines00liun/outlinesofchines00liun_djvu.txt
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "OUTLINES OF CHINESE HISTORY"
+    not: "Tang bolumleri XIX-XXI; hanedanin 618 kurulusu ve 907 sonu metinde acikca yer alir"
 son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
 ---
 
 Bu dönemin ayırt edici özelliği, üç büyük siyasi merkezin aynı yüzyıllarda
-kurulmasıdır: Abbasi hanedanı 750'de,[^k1] Tang 618'de,[^k3] Karolenj imparator
+kurulmasıdır: Abbasi hanedanı 750'de,[^k1] Tang 618'de,[^k6] Karolenj imparator
 unvanı ise 800'de.[^k2] Aşağıdaki beş bölüm, bütün dönem makalelerinde olduğu
 gibi aynı sırayla okunur.
 
@@ -132,11 +139,11 @@ etkiledi.[^k2] Doğuda ise 867'de Makedon hanedanının yükselişi, siyasi ve d
 çalkantı döneminin sonunu işaret etti ve imparatorluğa yeni bir altın çağ
 getirdi.[^k2]
 
-**Doğu Asya.** Tang, 618-907 arasında hüküm süren Çin imparatorluk hanedanıdır;
-başkenti 618-690 ve 705-904 arasında Chang'an, 904-907 arasında Luoyang
-olmuştur.[^k3] Resmî dili Orta Çince'ydi; çoğunluk dinleri Çin Budizmi, Taoizm ve
-Çin halk dini, azınlık dinleri ise Nasturi Hristiyanlığı, Çin Maniheizmi,
-Zerdüştlük ve İslam'dı.[^k3]
+**Doğu Asya.** Tang, 618-907 arasında hüküm süren Çin imparatorluk
+hanedanıdır; başkenti dönemin büyük bölümünde Chang'an'dı.[^k6] Resmî dili
+Orta Çince'ydi; çoğunluk dinleri Çin Budizmi, Taoizm ve Çin halk dini,
+azınlık dinleri ise Nasturi Hristiyanlığı, Çin Maniheizmi, Zerdüştlük ve
+İslam'dı.[^k3]
 
 **Güney Asya ve Afrika.** Kuzey Afrika bu dönemde Roma düzeninden çıkıp İslam
 siyasi coğrafyasının parçası hâline geldi.[^k2] Güney Asya ise Abbasi ticaret
@@ -704,6 +711,6 @@ yollarının üzerindedir ve bu yollar mal kadar inanç da taşır. Abbasi haned
 beş yüzyılı aşan ömrü,[^k1] bu ticaret ve fikir ağının ne kadar dayanıklı
 olduğunun göstergesidir.
 
-Abbasi hanedanı 1258'e kadar sürecek,[^k1] Tang ise 907'de sona erecektir;[^k3]
+Abbasi hanedanı 1258'e kadar sürecek,[^k1] Tang ise 907'de sona erecektir;[^k6]
 Avrasya'nın üç ucunda kurulan bu düzenlerin birbirleriyle doğrudan teması bir
 sonraki dönemin konusudur ve [1000–1350](/donem/07/) dosyasında ele alınıyor.

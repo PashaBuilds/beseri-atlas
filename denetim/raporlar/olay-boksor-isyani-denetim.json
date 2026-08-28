@@ -1,7 +1,7 @@
 {
   "id": "olay-boksor-isyani",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:38.518Z",
+  "zaman": "2026-08-28T18:23:24.698Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -34,10 +34,10 @@
       "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
-      "anahtar": "k2",
+      "anahtar": "k1",
       "iddia": "İsyanın gerçekleştiği düzen, 1644-1912 arasında Çin'i yöneten Mançu önderliğindeki Qing hanedanıydı.",
-      "durum": "HATA",
-      "not": "kaynakta bulunamayan sayısal değer: 1644, 1912"
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k3",

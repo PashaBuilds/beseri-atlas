@@ -1,12 +1,12 @@
 ## olay-boksor-isyani
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:38.518Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:23:24.698Z_
 
 - [ATOMSUZ] k1 → "Bu isyanın süresi gün gün verilir: 1 yıl, 11 ay, 1 hafta ve 3 gün; yeri Kuzey Çin ve Sarı Deniz'dir." — programatik olarak ölçülemedi (ad karşılığı yok): Kuzey, Çin, Sarı, Deniz
 - [ATOMSUZ] k1 → "Sonuç, Sekiz Devlet İttifakı'nın zaferi ve Boksör Protokolü'nün imzalanması olarak kaydedilir; ittifakın üyele…" — programatik olarak ölçülemedi (ad karşılığı yok): Sekiz, Devlet, İttifakı, Boksör
 - [ATOMSUZ] k1 → "Sekiz devletin tek bir isyana karşı ittifak kurması, müdahalenin ikili bir çatışma değil çok taraflı bir harek…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir askerî zaferin sonucunun bir protokol olarak kaydedilmesi, önceki yüzyıldaki savaşlarda görülen örüntünün …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Aynı örüntü Afyon Savaşları'nda da görülür; o savaşlar Nanking Antlaşması, Tientsin Antlaşması ve Pekin Sözleş…" — 1 atom doğrulandı; 3 ad ölçülemedi
-- [HATA]    k2 → "İsyanın gerçekleştiği düzen, 1644-1912 arasında Çin'i yöneten Mançu önderliğindeki Qing hanedanıydı." — kaynakta bulunamayan sayısal değer: 1644, 1912
+- [OK]      k1 → "İsyanın gerçekleştiği düzen, 1644-1912 arasında Çin'i yöneten Mançu önderliğindeki Qing hanedanıydı." — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yaklaşık 1,82 milyardır."
 - [ATOMSUZ] k1 → "İsyanın nedenleri, seyri, kuşatma dönemi ve protokolün maddeleri burada ayrı başlıklar altında ele alınmamıştı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "İsyan, kuzeydeki bir eyalette yerel bir hareket olarak başladı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -76,4 +76,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:38.518Z_
 - [ATOMSUZ] k1 → "Dönemin genel çerçevesi için dosyası uygundur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Sayıların neden verilmediği için dosyası okunabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 3 OK · 0 ISARET · 1 HATA · 70 ATOMSUZ
+**Özet:** 4 OK · 0 ISARET · 0 HATA · 70 ATOMSUZ

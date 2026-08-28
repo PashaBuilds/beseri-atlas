@@ -49,19 +49,19 @@ serit:
     satir: >-
       Doğu Asya'nın Tunç Çağı çerçevesi Zhou hanedanını kapsar; bölge Batı
       Avrasya'daki çöküşten ayrı bir çizgi izledi.
-    anahtar: k2
+    anahtar: k1
   - bolge: guney-asya
     baslik: Tunç Çağı'nın sonu
     satir: >-
       Hint alt kıtasının Tunç Çağı çerçevesi yaklaşık MÖ 1200'de kapanır; İndus
       sonrası dönem ayrı bir kültürel diziyle devam eder.
-    anahtar: k2
+    anahtar: k1
   - bolge: amerika
     baslik: Bağımsız gelişim
     satir: >-
       Amerika kıtası Eski Dünya'nın çöküş ve demir geçişi dinamiğinin dışında
       kendi kültürel dizisini sürdürdü.
-    anahtar: k2
+    anahtar: k1
 kaynaklar:
   - anahtar: k1
     tur: ansiklopedi
@@ -119,12 +119,12 @@ tarihlenen Merneptah Steli, bugünkü Libya'dan gelen Putrialılardan ve onlarla
 ilişkili Ekwesh ve Sherden gibi halklardan gelen saldırıları anlatır.[^k1]
 
 **Doğu Asya.** Bölgenin Tunç Çağı çerçevesi Xia, Shang ve Zhou hanedanlarını
-kapsayacak biçimde yaklaşık MÖ 3100–300 aralığına yerleştirilir.[^k2] Doğu Asya
+kapsayacak biçimde yaklaşık MÖ 3100–300 aralığına yerleştirilir.[^k1] Doğu Asya
 bu dönemde Batı Avrasya'daki çöküş dinamiğinin dışında kaldı.
 
 **Güney Asya ve Amerika.** Hint alt kıtasının Tunç Çağı çerçevesi yaklaşık MÖ
-1200'de kapanır.[^k2] Amerika kıtası ise Eski Dünya'nın metalürji ve ticaret
-ağının dışında kendi gelişim çizgisini sürdürdü.[^k2]
+1200'de kapanır.[^k1] Amerika kıtası ise Eski Dünya'nın metalürji ve ticaret
+ağının dışında kendi gelişim çizgisini sürdürdü.[^k1]
 
 ## Maddi taban
 

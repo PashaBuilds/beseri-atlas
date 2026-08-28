@@ -12,9 +12,9 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Ölçüm | Değer |
 |---|---|
 | Ölçülen makale | 505 |
-| Toplam künye | 1674 |
+| Toplam künye | 1678 |
 | Giriş kapısı kuralını aşan makale | 210 |
-| Birincil kaynağı olmayan makale | 249 |
+| Birincil kaynağı olmayan makale | 247 |
 | Giriş kapısı künyesi payı | 41% |
 
 ## Tipe göre borçlu makale
@@ -23,11 +23,11 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 |---|---|
 | olay | 77 |
 | aktor | 74 |
-| kavram | 63 |
+| kavram | 62 |
 | tartisma | 33 |
 | kaynak | 28 |
 | dusunur | 22 |
-| donem | 5 |
+| donem | 4 |
 
 ## Makale dökümü
 
@@ -268,7 +268,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `aktor-sokoto-hilafeti` | 4 | 1 | 0 | birincil kaynak yok |
 | `aktor-sovyetler-birligi` | 3 | 1 | 0 | birincil kaynak yok |
 | `aktor-tang-hanedani` | 3 | 1 | 0 | birincil kaynak yok |
-| `donem-06` | 5 | 1 | 0 | birincil kaynak yok |
 | `donem-14` | 5 | 1 | 0 | birincil kaynak yok |
 | `donem-15` | 5 | 1 | 0 | birincil kaynak yok |
 | `donem-16` | 5 | 1 | 0 | birincil kaynak yok |
@@ -283,7 +282,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `kavram-barut-imparatorluklari` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-buyuk-ayrisma` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-demografik-gecis` | 3 | 1 | 0 | birincil kaynak yok |
-| `kavram-emperyalizm` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-ikincil-kaynak` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-kamusal-alan` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-kanit-turu` | 3 | 1 | 0 | birincil kaynak yok |

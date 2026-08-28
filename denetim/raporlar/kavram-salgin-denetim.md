@@ -1,12 +1,12 @@
 ## kavram-salgin
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:46.417Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:23:24.800Z_
 
 - [ATOMSUZ] k1 → "Kaynak ilk bölümünü tanıma ayırır ve altında parametreler diye ayrı bir alt başlık tutar; ardından önleme ve h…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Tanımın altında parametrelerin ayrı bir alt başlık olarak tutulması ve grip salgınları için ayrı çerçevelerin …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, önleme ve hazırlık başlığı altında etik ve siyasi meseleleri ayrı bir alt başlık olarak tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir sağlık kavramının maddesinde siyasi meselelerin ayrı bir başlık taşıması, atlasın salgın dosyalarını neden…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, kayda değer salgınlar ve salgın olayları için ayrı bir bölüm tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [HATA]    k3 → "O örneklerden biri için tutulan ayrı kayıt, salgının 1346-1353 arasına tarihlendiğini yazar." — kaynakta bulunamayan sayısal değer: 1346, 1353
+- [OK]      k1 → "Aynı kaynağın kayda değer örnekler listesi, bu salgını 1346-1353 arasına tarihler."
 - [OK]      k2 → "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1400 yılında yaklaşık 405,3 milyondur."
 - [ATOMSUZ] k1 → "Atlas bu iki değeri bir salgın ölüm sayısı olarak sunmaz; seri toplam nüfusu verir, ölüm nedenini vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Atlas bu iki değeri bir salgın ölüm sayısı olarak sunmaz; seri toplam nüfusu verir, ölüm nedenini vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -39,4 +39,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:46.417Z_
 - [ATOMSUZ] k2 → "Atlas bu örüntüyü ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Yönetim stratejileri, çerçevelerin içeriği ve örneklerin ayrıntısı burada ayrı başlıklar altında ele alınmamış…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 1 OK · 0 ISARET · 1 HATA · 35 ATOMSUZ
+**Özet:** 2 OK · 0 ISARET · 0 HATA · 35 ATOMSUZ

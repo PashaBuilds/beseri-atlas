@@ -30,11 +30,11 @@ kaynaklar:
     dogrulama_dizesi: "Interwar period"
   - anahtar: k2
     tur: kitap
-    ad: "Internet Archive katalog kaydı — The Age of the Great Depression: 1929–1941"
-    url: https://archive.org/advancedsearch.php?q=title%3A%28%22great+depression%22%29+AND+title%3A%28%221929%22%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=3&output=json
+    ad: "Dixon Wecter - The Age of the Great Depression 1929-1941 (Internet Archive)"
+    url: https://archive.org/details/ageofgreatdepres0000wect
     erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "great depression"
-    not: "Buhranın 1929–1941 çerçevesini bağımsız olarak doğrulayan katalog kaydı"
+    dogrulama_dizesi: "Wecter"
+    not: "Donemi basligiyla 1929-1941 olarak cerceveleyen klasik inceleme; History of American Life dizisi, c. XIII"
   - anahtar: k3
     tur: veri
     ad: "Our World in Data — Population, long-run with projections (CSV verisi)"
@@ -48,8 +48,8 @@ onarim_turu: 0
 
 Büyük Buhran 1929'da başladı ve dönemin diplomatik gündeminde "1929'da başlayan
 buhrana verilen tepkiler" ile "dünya ticaretinin çöküşü" ayrı ayrı maddeler
-olarak yer aldı.[^k1] Bağımsız katalog kayıtları dönemi 1929–1941 olarak
-çerçeveler.[^k2]
+olarak yer aldı.[^k1] Wecter'in klasik incelemesi de dönemi daha
+başlığında 1929–1941 olarak çerçeveler.[^k2]
 
 ## İktisadi olaydan siyasi olaya
 
@@ -89,8 +89,8 @@ ekonomileri vurdu — bu, işsizliğin siyasi ağırlığını artıran bir zemi
 
 ## Sonrasına bağlantı
 
-Buhranın açtığı dönem, İkinci Dünya Savaşı'yla kapandı. Katalog kayıtlarının
-dönemi 1941'de bitirmesi,[^k2] iktisadi krizin savaş ekonomisiyle sona erdiği
-yönündeki yaygın çerçeveyi yansıtır.
+Buhranın açtığı dönem, İkinci Dünya Savaşı'yla kapandı. Bu çerçevenin dönemi 1941'de
+bitirmesi,[^k2] iktisadi krizin savaş ekonomisiyle sona erdiği yönündeki
+yaygın görüşü yansıtır.
 
 Dönemin bütününe dair çerçeve [1914–1945](/donem/13/) dosyasında ele alınıyor.
