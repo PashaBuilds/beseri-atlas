@@ -43,7 +43,7 @@ const tipSayisi = TIPLER.map((t) => ({
         </p>
         <ul>
           <li><a href={bag("/dizin/")}>Dizin</a> — yayımlanmış bütün makaleler, alfabetik</li>
-          <li><a href={bag("/zaman-seridi/")}>Zaman şeridi</a> — altı bölge, on altı dönem</li>
+          <li><a href={bag("/zaman-seridi/")}>Zaman şeridi</a> — yedi bölge, on altı dönem</li>
           {tipSayisi.map((x) => (
             <li><a href={bag(`/${x.tip}/`)}>{x.ad}</a> — {x.n} makale</li>
           ))}
