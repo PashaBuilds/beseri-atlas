@@ -1,9 +1,9 @@
 {
   "id": "kaynak-milanovic-kuresel-esitsizlik",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:31.107Z",
-  "govde_hash": "80621a7cde4e",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:19.219Z",
+  "govde_hash": "bf4bd7eeae6d",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -37,7 +37,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1953 için yaklaşık 2,68 milyar, 2020 için yaklaşık 7,84 milyardır.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1953 için yaklaşık 2,63 milyar, 2020 için yaklaşık 7,89 milyardır.",
       "durum": "OK",
       "not": ""
     },

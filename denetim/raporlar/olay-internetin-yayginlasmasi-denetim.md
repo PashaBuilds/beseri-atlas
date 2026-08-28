@@ -1,5 +1,5 @@
 ## olay-internetin-yayginlasmasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:16.380Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:17.697Z_
 
 - [OK]      k1 → "ARPA, ARPANET projesinin geliştirilmesi için 1969'da sözleşmeler verdi; proje Robert Taylor'ın yönetiminde, La…"
 - [OK]      k1 → "Kaynak Paul Baran'ın 1960'ların başında mesaj bloklarındaki veriye dayalı dağıtık bir ağ önerdiğini, Donald Da…"
@@ -12,7 +12,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:16.380Z_
 - [ATOMSUZ] k1 → "Yayılmanın yanına eşitsizliğin de bir başlık olarak yazılması, bir teknolojinin yaygınlaşmasının herkes için a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "ARPANET'in Birleşik Devletler genelinde hızla yayıldığı, Birleşik Krallık ve Norveç'e bağlantılar kurulduğu ya…" — programatik olarak ölçülemedi (ad karşılığı yok): Birleşik, Devletler, Krallık, Norveç
 - [ATOMSUZ] k2 → "Ağın çıkış ülkesi dosyasında ele alınıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1969 için yaklaşık 3,63 milyar, 2004 için yaklaşık 6,47 milyardır."
+- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1969 için yaklaşık 3,62 milyar, 2004 için yaklaşık 6,50 milyardır."
 - [OK]      k1 → "TCP/IP'nin geliştirilmesi, NSFNET'e geçiş, optik ağlar, Web'in tarihi ve 2004 sonrası burada ayrı başlıklar al…"
 
 **Özet:** 7 OK · 0 ISARET · 0 HATA · 6 ATOMSUZ

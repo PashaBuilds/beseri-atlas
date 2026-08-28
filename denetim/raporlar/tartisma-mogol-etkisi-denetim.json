@@ -1,9 +1,9 @@
 {
   "id": "tartisma-mogol-etkisi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:28.047Z",
-  "govde_hash": "f60af601e1f0",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:18.467Z",
+  "govde_hash": "af29ffe1cff7",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -43,7 +43,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1200 yılında yaklaşık 400,3 milyon, 1300 yılında yaklaşık 456,2 milyondur.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1200 yılında yaklaşık 444,7 milyon, 1300 yılında yaklaşık 456,2 milyondur.",
       "durum": "OK",
       "not": ""
     },

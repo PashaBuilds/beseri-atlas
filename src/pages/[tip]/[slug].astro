@@ -8,7 +8,7 @@ import Pozisyonlar from '../../components/Pozisyonlar.astro';
 import VeriGrafigi from '../../components/VeriGrafigi.astro';
 import OkumaHatti from '../../components/OkumaHatti.astro';
 import SiraSeridi from '../../components/SiraSeridi.astro';
-import { tumOnayliIcerik, baglariCoz, okumaHatti, komsular, TIP_ADLARI, GUVEN_ADLARI, bag } from '../../lib/icerik';
+import { tumOnayliIcerik, baglariCoz, okumaHatti, komsular, TIP_ADLARI, GUVEN_ADLARI, bag, tipAdi } from '../../lib/icerik';
 
 export async function getStaticPaths() {
   const korpus = await tumOnayliIcerik();
@@ -44,10 +44,10 @@ const komsu = komsular(korpus, girdi);
   <div class="sayfa">
     <AygitRayi veri={v} ilgili={ilgili} okuma={okuma} />
     <main class="govde" id="ana" data-pagefind-body
-          data-pagefind-filter={`tip:${TIP_ADLARI[v.tip]}`}
+          data-pagefind-filter={`tip:${tipAdi(v.tip)}`}
           data-pagefind-meta={`ozet:${v.ozet}`}>
       <p class="veri-etiket" style="margin-bottom:.6rem">
-        {TIP_ADLARI[v.tip]}
+        {tipAdi(v.tip)}
         {v.donem && <> · Dönem {v.donem}</>}
       </p>
       <h1>{v.baslik}</h1>

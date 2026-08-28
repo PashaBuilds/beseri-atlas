@@ -1,5 +1,5 @@
 ## veri-dogurganlik-hizi-1950-2023
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:29.082Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:18.646Z_
 
 - [OK]      k1 → "Seri 1950'de kadın başına 4,852 çocuk ile başlar ve 2023'te 2,251 ile biter; toplam 74 gözlem vardır."
 - [ATOMSUZ] k1 → "Serinin ilk ve son değeri arasındaki fark, başlangıç değerinin yarısından büyüktür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

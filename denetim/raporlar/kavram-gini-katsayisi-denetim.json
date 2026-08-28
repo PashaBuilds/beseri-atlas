@@ -1,9 +1,9 @@
 {
   "id": "kavram-gini-katsayisi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:25.352Z",
-  "govde_hash": "8fa7e352281c",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:17.951Z",
+  "govde_hash": "cf5200ab976a",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -31,7 +31,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 990,4 milyon, 2020 için yaklaşık 7,84 milyardır.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 983,1 milyon, 2020 için yaklaşık 7,89 milyardır.",
       "durum": "OK",
       "not": ""
     },

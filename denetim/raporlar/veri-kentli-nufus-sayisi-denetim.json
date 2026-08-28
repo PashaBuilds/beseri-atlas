@@ -1,9 +1,9 @@
 {
   "id": "veri-kentli-nufus-sayisi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:29.409Z",
-  "govde_hash": "c9b4c54a2b89",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:18.895Z",
+  "govde_hash": "b3d4cdf701eb",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -25,7 +25,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Uzun dönemli nüfus serisi de benzer bir aralığı kapsar; o seride dünya nüfusu MÖ 10000 için yaklaşık 4,4 milyon, 2020 için yaklaşık 7,84 milyardır.",
+      "iddia": "Uzun dönemli nüfus serisi de benzer bir aralığı kapsar; o seride dünya nüfusu MÖ 10000 için yaklaşık 4,5 milyon, 2020 için yaklaşık 7,89 milyardır.",
       "durum": "OK",
       "not": ""
     },

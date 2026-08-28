@@ -1,5 +1,5 @@
 ## aktor-abd
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:18.793Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:17.764Z_
 
 - [OK]      k1 → "Bağımsızlık Bildirisi 4 Temmuz 1776'da İkinci Kıta Kongresi tarafından kabul edildi." — 1 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k1 → "Kaynak, Thomas Jefferson'ın 11 Haziran 1776'da ya da sonrasında bir tarihte Bağımsızlık Bildirisi'nin bir müsv…" — 4 atom doğrulandı; 2 ad ölçülemedi
@@ -13,7 +13,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:18.793Z_
 - [OK]      k1 → "Kaynak doğu kıyısı boyunca yerleşimcilerin, büyük ölçüde plantasyonlarda el emeği sağlamak üzere Afrikalıları …"
 - [ATOMSUZ] k1 → "İki kaydın aynı bölümde yan yana durması, nüfus artışının hangi kaynaklardan beslendiğini kaydın kendisinin gö…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Kuruluşa giden süreç için kaynak Amerikan Devrimi'ni verir." — 1 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 2020'de yaklaşık 7,84 milyardır."
+- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 2020'de yaklaşık 7,89 milyardır."
 - [ATOMSUZ] k1 → "Siyasi tarih, iç savaş, dış politika, iktisat ve kültür burada ayrı başlıklar altında ele alınmamıştır; kaynak…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
 **Özet:** 6 OK · 0 ISARET · 0 HATA · 8 ATOMSUZ

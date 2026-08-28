@@ -1,5 +1,5 @@
 ## tartisma-hacli-seferlerinin-nedeni
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.661Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:18.385Z_
 
 - [OK]      k1 → "Kaynak, Haçlı seferlerini papalığın 1095 ile 1291 arasında Müslüman yöneticilere karşı Kutsal Toprakların geri…" — 2 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k1 → "Urban tarafından ilan edildiğini; bunun Hristiyanlara Kudüs'ü Müslümanlardan geri almaları için ruhani ödül va…" — 1 atom doğrulandı; 2 ad ölçülemedi
@@ -12,7 +12,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.661Z_
 - [OK]      k3 → "Kaynağın dönüm noktası olarak andığı kişi için tutulan kayıt, onu Eyyûbî hanedanının kurucusu ve Mısır ile Sur…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "İki kaydın aynı yılı vermesi, atlasın çapraz doğrulama ölçütünü karşılar; olay dosyasında ele alınıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "İki kaydın aynı yılı vermesi, atlasın çapraz doğrulama ölçütünü karşılar; olay dosyasında ele alınıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Uzun dönemli seride dünya nüfusu 1100'de yaklaşık 320,1 milyon, 1300'de yaklaşık 456,2 milyondur."
+- [OK]      k2 → "Uzun dönemli seride dünya nüfusu 1100'de yaklaşık 397,9 milyon, 1300'de yaklaşık 456,2 milyondur."
 - [ATOMSUZ] k1 → "Atlas üç pozisyondan hiçbirini benimsemez; kaynağın kendisi hem başlangıç anını hem süreklilik kurumlarını ayr…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
 **Özet:** 6 OK · 0 ISARET · 0 HATA · 7 ATOMSUZ

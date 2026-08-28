@@ -1,5 +1,5 @@
 ## kaynak-hobsbawm-caglar
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.608Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:19.186Z_
 
 - [OK]      k1 → "Kaynak, kitabı İngiliz tarihçi Eric Hobsbawm'ın 1962'de ilk kez yayımlanan eseri olarak kaydeder; 366 sayfadır…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kaynak, kitabın çözümlemesini ikiz devrim tezine dayandırır: Fransız Devrimi ile Sanayi Devrimi, modern Avrupa…" — 1 atom doğrulandı; 3 ad ölçülemedi
@@ -11,7 +11,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.608Z_
 - [ATOMSUZ] k2 → "Bir yüzyılın takvim yüzyılından farklı sınırlarla tanımlanması, atlasın şu kuralının dayanağıdır: dönem sınırl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Kaynak, dördüncü kitabın Amerika Birleşik Devletleri baskısının farklı bir alt başlıkla çıktığını kaydeder: A …" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k2 → "Aynı kitabın iki ülkede iki farklı alt başlıkla yayımlanması, bir dönem adının yazarın tezi kadar yayıncının k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1789'da yaklaşık 938,2 milyon, 1848'de yaklaşık 1,25 milyar, 1914'te yaklaşık…"
+- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 1848'de yaklaşık 1,27 milyar, 1914'te yaklaşık…"
 - [OK]      k3 → "Bu dört değer bir dönemlendirmeyi doğrulamaz; yalnızca 1789-1991 aralığında dünya nüfusunun yaklaşık beş buçuk…"
 - [OK]      k1 → "Kitaplar telifli olduğu için bu dosyada metinlerinden alıntı yapılmamıştır; 1962 ve 1994 tarihli iki cildin iç…"
 - [OK]      k2 → "Kitaplar telifli olduğu için bu dosyada metinlerinden alıntı yapılmamıştır; 1962 ve 1994 tarihli iki cildin iç…"

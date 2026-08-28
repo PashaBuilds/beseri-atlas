@@ -1,9 +1,9 @@
 {
   "id": "tartisma-kara-olumun-sonuclari",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:27.929Z",
-  "govde_hash": "6489e7286929",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:18.424Z",
+  "govde_hash": "0038409bb252",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -43,7 +43,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1400 yılında yaklaşık 405,3 milyondur.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1400 yılında yaklaşık 442,3 milyondur.",
       "durum": "OK",
       "not": ""
     },

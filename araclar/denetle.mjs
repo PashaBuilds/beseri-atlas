@@ -209,6 +209,25 @@ function markdownYaz(rapor) {
   return satirlar.join('\n');
 }
 
+if (process.argv[1]?.endsWith('denetle.mjs') && process.argv.includes('--bayat')) {
+  // Bayat rapor tespiti: rapor uretildikten sonra govdesi degisen makaleler.
+  // Bayat rapor "gecerli dogrulama" sayilmaz (karar tablosu, risk 5).
+  const fs = await import('node:fs');
+  const makaleler = makaleleriTopla();
+  let bayat = 0, hashsiz = 0, guncel = 0, raporsuz = 0;
+  for (const m of makaleler) {
+    const yol = path.join(KOK, 'denetim', 'raporlar', `${m.fm.id}-denetim.json`);
+    if (!fs.existsSync(yol)) { raporsuz += 1; console.log(`RAPORSUZ  ${m.fm.id}`); continue; }
+    let rapor;
+    try { rapor = JSON.parse(fs.readFileSync(yol, 'utf8')); } catch { raporsuz += 1; continue; }
+    if (!rapor.govde_hash) { hashsiz += 1; console.log(`HASHSIZ   ${m.fm.id} (${rapor.zaman?.slice(0, 10) || '?'})`); continue; }
+    if (rapor.govde_hash !== govdeHash(m.govde)) { bayat += 1; console.log(`BAYAT     ${m.fm.id} (rapor: ${rapor.zaman?.slice(0, 10)})`); continue; }
+    guncel += 1;
+  }
+  console.log(`\nguncel ${guncel} · bayat ${bayat} · hashsiz ${hashsiz} · raporsuz ${raporsuz} / ${makaleler.length}`);
+  process.exit(bayat + hashsiz + raporsuz > 0 ? 1 : 0);
+}
+
 if (process.argv[1]?.endsWith('denetle.mjs')) {
   const hedefler = process.argv.slice(2).filter((a) => !a.startsWith('--'));
   const makaleler = makaleleriTopla().filter((m) => hedefler.length === 0 || hedefler.includes(m.fm.id));

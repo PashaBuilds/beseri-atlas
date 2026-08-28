@@ -6,7 +6,7 @@
  * yani şerit on altı dönem boyunca kopmaz: Dönem 01'in girişinden başlayıp
  * hiç geri dönmeden Dönem 16'nın sonuna kadar gidilebilir.
  */
-import { yol, TIP_ADLARI } from '../lib/icerik';
+import { yol, TIP_ADLARI, tipAdi } from '../lib/icerik';
 
 export interface Props {
   onceki: any | null;
@@ -23,7 +23,7 @@ const konum = sira === 0 ? `Dönem ${donemNo} · giriş` : `Dönem ${donemNo} ·
     <a class="sira__bag sira__bag--geri" href={yol(onceki.data.id)} rel="prev">
       <span class="sira__yon">← Önceki</span>
       <span class="sira__ad">{onceki.data.baslik}</span>
-      <span class="sira__tip">{TIP_ADLARI[onceki.data.tip]}</span>
+      <span class="sira__tip">{tipAdi(onceki.data.tip)}</span>
     </a>
   ) : <span class="sira__bos" />}
 
@@ -33,7 +33,7 @@ const konum = sira === 0 ? `Dönem ${donemNo} · giriş` : `Dönem ${donemNo} ·
     <a class="sira__bag sira__bag--ileri" href={yol(sonraki.data.id)} rel="next">
       <span class="sira__yon">Sonraki →</span>
       <span class="sira__ad">{sonraki.data.baslik}</span>
-      <span class="sira__tip">{TIP_ADLARI[sonraki.data.tip]}</span>
+      <span class="sira__tip">{tipAdi(sonraki.data.tip)}</span>
     </a>
   ) : <span class="sira__bos" />}
 </nav>

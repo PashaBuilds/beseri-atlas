@@ -12,6 +12,13 @@ export const TIP_ADLARI: Record<Tip, string> = {
   kavram: 'Kavram', tartisma: 'Tartışma', veri: 'Veri', kaynak: 'Kaynak',
 };
 
+// Sema .mjs'te oldugu icin koleksiyon verisi TS'e `any` olarak gelir; tip
+// alanini guvenle ada cevirmek icin tek gecis noktasi. Bilinmeyen deger
+// oldugu gibi doner (gizlemek yerine gorunur kilinir).
+export function tipAdi(tip: unknown): string {
+  return TIP_ADLARI[tip as Tip] ?? String(tip);
+}
+
 export const BOLGE_ADLARI: Record<string, string> = {
   avrupa: 'Avrupa', 'islam-dunyasi': 'İslam dünyası', 'orta-asya': 'Orta Asya',
   'dogu-asya': 'Doğu Asya',

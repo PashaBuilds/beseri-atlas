@@ -1,5 +1,5 @@
 ## olay-cin-reformlari-1978
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:15.878Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:17.642Z_
 
 - [OK]      k1 → "Merkez Komitesi'nin üçüncü genel oturumunda başlatıldı; kaynak bunu Mao Zedong'un 1976'daki ölümünün ardından …" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak siyasi reformların 1980'lerde ayrı ama paralel bir dizi olarak başlatıldığını, bunların 1989 Tiananmen …" — 4 atom doğrulandı; 1 ad ölçülemedi
@@ -11,7 +11,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:15.878Z_
 - [ATOMSUZ] k1 → "Aynı sürecin üç ayrı adla anılması, adlandırmanın değerlendirme taşıdığını gösterir: "mucize" bir betimleme de…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak, reformların Mao Zedong'un 1976'daki ölümünün ardından başladığını yazar."
 - [ATOMSUZ] k2 → "Ölümünden önceki dönem dosyasında ele alınıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1978 için yaklaşık 4,29 milyar, 1992 için yaklaşık 5,49 milyardır."
+- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1978 için yaklaşık 4,29 milyar, 1992 için yaklaşık 5,51 milyardır."
 - [ATOMSUZ] k1 → "Reformların içeriği, özel ekonomi bölgeleri, tarım ve sanayi düzenlemeleri ile iktisadi sonuçlar burada ayrı b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
 **Özet:** 6 OK · 0 ISARET · 0 HATA · 6 ATOMSUZ

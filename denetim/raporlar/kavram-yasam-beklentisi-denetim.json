@@ -1,9 +1,9 @@
 {
   "id": "kavram-yasam-beklentisi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:27.177Z",
-  "govde_hash": "a33958ba2f05",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:18.341Z",
+  "govde_hash": "28bb9e8ee1c4",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -31,7 +31,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık 2,49 milyar, 2020 için yaklaşık 7,84 milyardır.",
+      "iddia": "Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık 2,49 milyar, 2020 için yaklaşık 7,89 milyardır.",
       "durum": "OK",
       "not": ""
     },

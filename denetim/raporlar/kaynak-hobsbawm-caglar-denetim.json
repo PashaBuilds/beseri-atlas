@@ -1,9 +1,9 @@
 {
   "id": "kaynak-hobsbawm-caglar",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:30.608Z",
-  "govde_hash": "3b1aaea78cb7",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:19.186Z",
+  "govde_hash": "e1d9d86ffe92",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -67,7 +67,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1789'da yaklaşık 938,2 milyon, 1848'de yaklaşık 1,25 milyar, 1914'te yaklaşık 1,85 milyar ve 1991'de yaklaşık 5,44 milyardır.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 1848'de yaklaşık 1,27 milyar, 1914'te yaklaşık 1,82 milyar ve 1991'de yaklaşık 5,42 milyardır.",
       "durum": "OK",
       "not": ""
     },

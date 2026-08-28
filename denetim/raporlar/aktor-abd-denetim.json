@@ -1,9 +1,9 @@
 {
   "id": "aktor-abd",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:18.793Z",
-  "govde_hash": "a789fc209919",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:17.764Z",
+  "govde_hash": "9913057ed274",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -79,7 +79,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 2020'de yaklaşık 7,84 milyardır.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 2020'de yaklaşık 7,89 milyardır.",
       "durum": "OK",
       "not": ""
     },

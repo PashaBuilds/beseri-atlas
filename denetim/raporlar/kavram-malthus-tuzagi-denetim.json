@@ -1,9 +1,9 @@
 {
   "id": "kavram-malthus-tuzagi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:26.204Z",
-  "govde_hash": "725798a9e47e",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:18.170Z",
+  "govde_hash": "9a41913314f7",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -49,7 +49,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 990,4 milyon, 1900 için yaklaşık 1,65 milyar, 2020 için yaklaşık 7,84 milyardır.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 983,1 milyon, 1900 için yaklaşık 1,63 milyar, 2020 için yaklaşık 7,89 milyardır.",
       "durum": "OK",
       "not": ""
     },

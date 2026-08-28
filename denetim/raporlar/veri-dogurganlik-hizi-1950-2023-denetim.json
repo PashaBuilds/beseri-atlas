@@ -1,9 +1,9 @@
 {
   "id": "veri-dogurganlik-hizi-1950-2023",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:29.082Z",
-  "govde_hash": "3f63e2f700b1",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:18.646Z",
+  "govde_hash": "c9b3a95f2d06",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -49,7 +49,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık 2,49 milyar, 2020 için yaklaşık 7,84 milyardır.",
+      "iddia": "Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık 2,49 milyar, 2020 için yaklaşık 7,89 milyardır.",
       "durum": "OK",
       "not": ""
     },

@@ -1,6 +1,6 @@
 ---
 import Temel from '../layouts/Temel.astro';
-import { tumOnayliIcerik, TIP_ADLARI, BOLGE_ADLARI, yol } from '../lib/icerik';
+import { tumOnayliIcerik, TIP_ADLARI, BOLGE_ADLARI, yol, tipAdi } from '../lib/icerik';
 const korpus = await tumOnayliIcerik();
 const sirali = [...korpus].sort((a: any, b: any) => a.data.baslik.localeCompare(b.data.baslik, 'tr'));
 const harfler = new Map<string, any[]>();
@@ -26,7 +26,7 @@ for (const e of sirali) {
             <li>
               <a href={yol(e.data.id)}>{e.data.baslik}</a>
               <span class="dizin__meta">
-                {TIP_ADLARI[e.data.tip]} · {e.data.bolge.map((b: string) => BOLGE_ADLARI[b] ?? b).join(', ')}
+                {tipAdi(e.data.tip)} · {e.data.bolge.map((b: string) => BOLGE_ADLARI[b] ?? b).join(', ')}
               </span>
             </li>
           ))}

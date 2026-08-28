@@ -18,6 +18,10 @@ const olculen = son?.toplam ?? 0;
 const ornekBoyutu = son?.ornek_boyutu ?? 0;
 const turetilemeyen = son?.turetilemedi ?? Math.max(0, ornekBoyutu - olculen);
 const hamYuzde = son && typeof son.ham_skor === 'number' ? Math.round(son.ham_skor * 100) : null;
+// Olcumun kapsami: hangi tarihte, kac makalelik korpus uzerinde. Korpus
+// olcumden sonra buyudugunde beyanin eskidigi okura acikca soylenir.
+const olcumTarihi = son?.zaman ? String(son.zaman).slice(0, 10) : null;
+const olcumKorpusu = son?.korpus_boyutu ?? null;
 const ortKaynak = korpus.length
   ? (korpus.reduce((a: number, e: any) => a + e.data.kaynaklar.length, 0) / korpus.length).toFixed(1)
   : '0';
@@ -40,6 +44,12 @@ const ortKaynak = korpus.length
             Bu kadar küçük bir örneklem korpusta hata olmadığını göstermez: yaygın bir
             hatayı yakalayabilir, seyrek hata bu ölçümün çözünürlüğünün altında kalır.
             Oran bir güvence değil, bir <strong>alt sınır ölçüsü</strong>dür.
+            {olcumTarihi ? (
+              <span>
+                {' '}Bu ölçüm {olcumTarihi} tarihinde{olcumKorpusu ? `, ${olcumKorpusu} makalelik korpus üzerinde` : ''} yapıldı;
+                korpus bugün {korpus.length} makale{olcumKorpusu && korpus.length !== olcumKorpusu ? ' — ölçümden sonra eklenen makaleler bu orana dahil değildir' : ''}.
+              </span>
+            ) : null}
           </span>
         ) : (
           <span>Örnekleme kapısı henüz çalışmadı; ölçülmüş bir doğrulama oranı yok.</span>

@@ -1,9 +1,9 @@
 {
   "id": "olay-cin-reformlari-1978",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:15.878Z",
-  "govde_hash": "b626c97b16a1",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:17.642Z",
+  "govde_hash": "ca5edca4a898",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -67,7 +67,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1978 için yaklaşık 4,29 milyar, 1992 için yaklaşık 5,49 milyardır.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1978 için yaklaşık 4,29 milyar, 1992 için yaklaşık 5,51 milyardır.",
       "durum": "OK",
       "not": ""
     },

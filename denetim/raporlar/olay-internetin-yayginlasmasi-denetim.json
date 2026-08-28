@@ -1,9 +1,9 @@
 {
   "id": "olay-internetin-yayginlasmasi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:16.380Z",
-  "govde_hash": "7e854ea54e39",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:17.697Z",
+  "govde_hash": "719721cdfcc5",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -73,7 +73,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1969 için yaklaşık 3,63 milyar, 2004 için yaklaşık 6,47 milyardır.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1969 için yaklaşık 3,62 milyar, 2004 için yaklaşık 6,50 milyardır.",
       "durum": "OK",
       "not": ""
     },

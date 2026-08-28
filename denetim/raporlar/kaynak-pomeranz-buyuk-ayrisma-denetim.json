@@ -1,9 +1,9 @@
 {
   "id": "kaynak-pomeranz-buyuk-ayrisma",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:31.228Z",
-  "govde_hash": "84a2c77c5667",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:19.249Z",
+  "govde_hash": "434018a73a88",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -31,7 +31,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 990,4 milyon, 1900 için yaklaşık 1,65 milyardır.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 983,1 milyon, 1900 için yaklaşık 1,63 milyardır.",
       "durum": "OK",
       "not": ""
     },

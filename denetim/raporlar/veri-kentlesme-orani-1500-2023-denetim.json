@@ -1,9 +1,9 @@
 {
   "id": "veri-kentlesme-orani-1500-2023",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:29.354Z",
-  "govde_hash": "4aa4d9ff8282",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:18.841Z",
+  "govde_hash": "e19a93f6c39e",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -49,7 +49,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık 2,49 milyar, 2020 için yaklaşık 7,84 milyardır.",
+      "iddia": "Uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık 2,49 milyar, 2020 için yaklaşık 7,89 milyardır.",
       "durum": "OK",
       "not": ""
     },

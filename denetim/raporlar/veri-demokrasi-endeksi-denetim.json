@@ -1,9 +1,9 @@
 {
   "id": "veri-demokrasi-endeksi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:29.015Z",
-  "govde_hash": "dd9df1f16a6f",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:18.577Z",
+  "govde_hash": "e29262a56439",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -55,7 +55,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1789'da yaklaşık 938,2 milyon, 2025'te yaklaşık 8,23 milyardır.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 2025'te yaklaşık 8,23 milyardır.",
       "durum": "OK",
       "not": ""
     },

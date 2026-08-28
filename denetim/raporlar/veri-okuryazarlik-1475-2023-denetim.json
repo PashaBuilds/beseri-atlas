@@ -1,9 +1,9 @@
 {
   "id": "veri-okuryazarlik-1475-2023",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:29.655Z",
-  "govde_hash": "ce146f085e9a",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:19.042Z",
+  "govde_hash": "244fc52bdd21",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -49,7 +49,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Uzun dönemli nüfus serisinde dünya nüfusu 1820 için yaklaşık 1,04 milyar, 2020 için yaklaşık 7,84 milyardır.",
+      "iddia": "Uzun dönemli nüfus serisinde dünya nüfusu 1820 için yaklaşık 1,09 milyar, 2020 için yaklaşık 7,89 milyardır.",
       "durum": "OK",
       "not": ""
     },

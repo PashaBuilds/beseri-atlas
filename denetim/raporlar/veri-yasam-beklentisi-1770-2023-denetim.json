@@ -1,9 +1,9 @@
 {
   "id": "veri-yasam-beklentisi-1770-2023",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:30.030Z",
-  "govde_hash": "b1ff3e4d8b1b",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:19.157Z",
+  "govde_hash": "e5842f9b9ab0",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -49,7 +49,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1800 için yaklaşık 990,4 milyon, 2020 için yaklaşık 7,84 milyardır.",
+      "iddia": "Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1800 için yaklaşık 983,1 milyon, 2020 için yaklaşık 7,89 milyardır.",
       "durum": "OK",
       "not": ""
     },

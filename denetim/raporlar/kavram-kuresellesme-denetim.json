@@ -1,9 +1,9 @@
 {
   "id": "kavram-kuresellesme",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:26.099Z",
-  "govde_hash": "0000e00b4ed1",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:18.135Z",
+  "govde_hash": "639d6f56d0be",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -31,7 +31,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1500 için yaklaşık 503,1 milyon, 1900 için yaklaşık 1,65 milyar, 2020 için yaklaşık 7,84 milyardır.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1500 için yaklaşık 503,1 milyon, 1900 için yaklaşık 1,63 milyar, 2020 için yaklaşık 7,89 milyardır.",
       "durum": "OK",
       "not": ""
     },

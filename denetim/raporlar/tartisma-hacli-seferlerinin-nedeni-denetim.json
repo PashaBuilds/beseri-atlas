@@ -1,9 +1,9 @@
 {
   "id": "tartisma-hacli-seferlerinin-nedeni",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:27.661Z",
-  "govde_hash": "6a705b481e96",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:18.385Z",
+  "govde_hash": "f36ea10fb503",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -73,7 +73,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1100'de yaklaşık 320,1 milyon, 1300'de yaklaşık 456,2 milyondur.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1100'de yaklaşık 397,9 milyon, 1300'de yaklaşık 456,2 milyondur.",
       "durum": "OK",
       "not": ""
     },

@@ -9,7 +9,7 @@
 // Bu, projedeki tek koşulsuz durdurma kuralıdır.
 import path from 'node:path';
 import fs from 'node:fs';
-import { KOK, varMi, yaz, RENK, oku } from './ortak.mjs';
+import { KOK, varMi, yaz, RENK, oku, makaleleriTopla } from './ortak.mjs';
 import { metrikYaz, metrikDosyasi } from './metrikler.mjs';
 
 const TURETME = path.join(KOK, 'denetim', 'raporlar', 'gecis4-turetme.json');
@@ -37,6 +37,9 @@ if (process.argv[1]?.endsWith('ornekle.mjs')) {
     zaman: new Date().toISOString(), skor: s.skor, ham_skor: s.ham_skor,
     dogrulanan: s.ok, isaret: s.isaret, hata: s.hata, toplam: s.olculen,
     ornek_boyutu: s.toplam, turetilemedi: s.turetilemedi, davranis: s.davranis,
+    // Olcumun kapsami beyana yazilir: "N makalelik korpus uzerinde" satiri
+    // olmadan skor, olcumden sonra buyuyen korpusun guncel beyani sanilir.
+    korpus_boyutu: makaleleriTopla().length,
   });
   metrikYaz({ ornekleme_gecmisi: gecmis });
 

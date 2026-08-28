@@ -1,5 +1,5 @@
 ## olay-birinci-dunya-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:15.468Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:17.600Z_
 
 - [OK]      k1 → "Savaş 28 Temmuz 1914 - 11 Kasım 1918 arasında, yani dört yıl üç ay on dört gün sürdü; sonuç İtilaf Devletleri'…" — 2 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k1 → "Kaynak zayiatı 15-22 milyon ölü (askerî ve sivil) olarak verir ve ayrıntı için ayrı bir kayda yönlendirir."
@@ -14,7 +14,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:15.468Z_
 - [OK]      k1 → "Kaynak savaşın bitişini 11 Kasım 1918 olarak verir, ama sonrasında ayrı bir başlık altında savaşın resmî sonun…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k2 → "Antlaşmalardan biri dosyasında ele alınıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Mütarekenin savaşı bitirmesi ile antlaşmanın onu resmen sona erdirmesinin ayrı kaydedilmesi, savaşın bittiği g…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1914 için yaklaşık 1,82 milyar, 1918 için yaklaşık 1,83 milyardır."
+- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1914 için yaklaşık 1,82 milyar, 1918 için yaklaşık 1,87 milyardır."
 - [ATOMSUZ] k1 → "Kaynağın verdiği 15-22 milyonluk ölü aralığı bu nüfusun içinde yer alır; atlas bu iki kaydı tek bir oranda bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Savaşın nedenleri, yıl yıl seyri, teknoloji, diplomasi ve iktisadi etkiler burada ayrı başlıklar altında ele a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 

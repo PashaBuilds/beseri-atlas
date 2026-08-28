@@ -1,9 +1,9 @@
 {
   "id": "dusunur-keynes",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:23.942Z",
-  "govde_hash": "78d535c26a8f",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:17.810Z",
+  "govde_hash": "8e45f1d958bd",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -61,7 +61,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1883 için yaklaşık 1,49 milyar, 1946 için yaklaşık 2,38 milyardır.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1883 için yaklaşık 1,44 milyar, 1946 için yaklaşık 2,40 milyardır.",
       "durum": "OK",
       "not": ""
     },

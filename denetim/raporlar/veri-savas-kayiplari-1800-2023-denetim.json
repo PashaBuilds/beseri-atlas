@@ -1,9 +1,9 @@
 {
   "id": "veri-savas-kayiplari-1800-2023",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:29.724Z",
-  "govde_hash": "6284da1ea9f8",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:19.091Z",
+  "govde_hash": "48e7e75f44df",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -67,7 +67,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1800'de yaklaşık 989,7 milyon, 1945'te yaklaşık 2,3 milyar, 2011'de yaklaşık 7,04 milyardır.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1800'de yaklaşık 983,1 milyon, 1945'te yaklaşık 2,4 milyar, 2011'de yaklaşık 7,11 milyardır.",
       "durum": "OK",
       "not": ""
     },

@@ -1,7 +1,7 @@
 ---
 import Temel from '../layouts/Temel.astro';
 import ZamanSeridi from '../components/ZamanSeridi.astro';
-import { tumOnayliIcerik, TIP_ADLARI, yol, bag } from '../lib/icerik';
+import { tumOnayliIcerik, TIP_ADLARI, yol, bag, tipAdi } from '../lib/icerik';
 
 const korpus = await tumOnayliIcerik();
 const donemler = korpus
@@ -47,7 +47,7 @@ const toplamKaynak = korpus.reduce((a: number, e: any) => a + e.data.kaynaklar.l
         <div class="izgara">
           {sonEklenen.map((e: any) => (
             <a class="kart" href={yol(e.data.id)}>
-              <span class="kart__tip">{TIP_ADLARI[e.data.tip]}</span>
+              <span class="kart__tip">{tipAdi(e.data.tip)}</span>
               <span class="kart__baslik">{e.data.baslik}</span>
               <span class="kart__ozet">{e.data.ozet}</span>
             </a>

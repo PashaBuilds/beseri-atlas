@@ -1,5 +1,5 @@
 ## olay-afrika-bagimsizlik-dalgasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:14.896Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:17.540Z_
 
 - [OK]      k1 → "Kaynak bir bağımsızlık çizelgesi tutar: 1 Ocak 1956, 2 ve 20 Mart 1956, 6 Mart 1957, 2 Ekim 1958 ve 1960 yılı …" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Fas satırında altı ayrı tarih sıralanır: 2 Mart 1956, 7 Nisan 1956, 10 Nisan 1958, 4 Ocak 1969, 14 Kasım 1975 …" — 3 atom doğrulandı; 3 ad ölçülemedi
@@ -14,7 +14,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:14.896Z_
 - [OK]      k1 → "Kaynak İtalya'nın İkinci Dünya Savaşı sonucunda Afrika'daki imparatorluğunu kaybettiğini yazar ve İtalyan Doğu…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bu iki kaydın yan yana durması, dalganın yalnızca yerel bir hareket olarak değil imparatorluk kapasitesindeki …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Bölgenin sömürge sınırlarını düzenleyen önceki konferans için kaynak Berlin Konferansı'nı verir."
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1960 için yaklaşık 3,03 milyar, 1976 için yaklaşık 4,15 milyardır."
+- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1960 için yaklaşık 3,02 milyar, 1976 için yaklaşık 4,14 milyardır."
 - [ATOMSUZ] k1 → "Ülke ülke bağımsızlık süreçleri, savaşlar, sonraki iç çatışmalar ve iktisadi sonuçlar burada ayrı başlıklar al…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
 **Özet:** 9 OK · 0 ISARET · 0 HATA · 6 ATOMSUZ

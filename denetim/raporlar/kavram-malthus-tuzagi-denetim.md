@@ -1,5 +1,5 @@
 ## kavram-malthus-tuzagi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.204Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:18.170Z_
 
 - [OK]      k1 → "Kaynak kuramı şöyle tanımlar: nüfus artışı Malthusçu büyüme modeline göre potansiyel olarak üsteldir, gıda arz…"
 - [OK]      k1 → "Kaynak bu olayın adlarını sıralar: Malthusçu felaket, Malthus tuzağı, nüfus tuzağı, Malthusçu denetim, Malthus…"
@@ -8,7 +8,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.204Z_
 - [ATOMSUZ] k1 → "Kaynak, bu kurama göre kıt malların fiyatı arttıkça yoksulluk ve eşitsizliğin artacağını, artan yoksulluğun do…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Atlas bu zinciri bir olgu olarak değil, kaynağın aktardığı bir kuram olarak taşır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Kavramın adını aldığı yazar dosyasında ele alınıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 990,4 milyon, 1900 için yaklaşık 1,65 milyar, 2020 için ya…"
+- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 983,1 milyon, 1900 için yaklaşık 1,63 milyar, 2020 için ya…"
 - [ATOMSUZ] k1 → "Atlas bu seriyi kuramın çürütülmesi olarak sunmaz: kuram belirli koşullar altında bir sonuç öngörür, seri ise …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Atlas bu seriyi kuramın çürütülmesi olarak sunmaz: kuram belirli koşullar altında bir sonuç öngörür, seri ise …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kuramın tarihi, yeni-Malthusçuluk, eleştiriler ve çevre tartışmalarındaki yeri burada ayrı başlıklar altında e…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,9 +1,9 @@
 {
   "id": "olay-birinci-dunya-savasi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:15.468Z",
-  "govde_hash": "fa36c0d5e3e1",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:17.600Z",
+  "govde_hash": "be8b2670b53c",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -85,7 +85,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1914 için yaklaşık 1,82 milyar, 1918 için yaklaşık 1,83 milyardır.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1914 için yaklaşık 1,82 milyar, 1918 için yaklaşık 1,87 milyardır.",
       "durum": "OK",
       "not": ""
     },

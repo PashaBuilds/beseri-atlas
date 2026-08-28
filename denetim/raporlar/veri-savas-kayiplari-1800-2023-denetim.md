@@ -1,5 +1,5 @@
 ## veri-savas-kayiplari-1800-2023
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:29.724Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:19.091Z_
 
 - [OK]      k1 → "Sağlayıcının toplam satırında seri 1800'de başlar ve 2011'de biter; 1800 değeri 2.063, 2011 değeri 9.400'dür."
 - [OK]      k1 → "Planın kapsam satırı daha geç bir bitiş yılı öngörüyordu; sağlayıcının serisi 2011'de bittiği için bu dosyanın…"
@@ -11,7 +11,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:29.724Z_
 - [OK]      k3 → "Aynı yılları farklı bir tanımla sayan kayıt, İkinci Dünya Savaşı'nın toplam ölümlerini 70 ile 85 milyon arasın…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "İki kaydın aynı savaş için farklı büyüklükler vermesi, tanım farkından gelir: bu dosya yıl başına muharebe ölü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "İki kaydın aynı savaş için farklı büyüklükler vermesi, tanım farkından gelir: bu dosya yıl başına muharebe ölü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Uzun dönemli seride dünya nüfusu 1800'de yaklaşık 989,7 milyon, 1945'te yaklaşık 2,3 milyar, 2011'de yaklaşık …"
+- [OK]      k2 → "Uzun dönemli seride dünya nüfusu 1800'de yaklaşık 983,1 milyon, 1945'te yaklaşık 2,4 milyar, 2011'de yaklaşık …"
 - [ATOMSUZ] k1 → "Kişi başı bir oran burada hesaplanmamıştır; sağlayıcı bu dosyada yüksek ve düşük olmak üzere iki ayrı tahmin s…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Savaş türleri, bölge dağılımı ve dolaylı ölümler burada ele alınmamıştır; bu dosya tek bir sütunun yıl bazlı d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 

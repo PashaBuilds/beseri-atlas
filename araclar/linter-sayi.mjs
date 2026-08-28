@@ -38,7 +38,6 @@ const CIFT = /(MÖ|MS)?\s*(\d{1,5})(?:'\p{L}+|\s+yılında|\s+için)?\s+yaklaş�
 export function nufusIddialari(govde) {
   const iddialar = [];
   const metin = govde.replace(/\[\^k\d+\]/g, '').replace(/\s+/g, ' ');
-  let i = -1;
   const kalip = /dünya nüfusu/gi;
   let e;
   while ((e = kalip.exec(metin)) !== null) {
@@ -58,7 +57,6 @@ export function nufusIddialari(govde) {
         cumle: cumle.slice(0, 160),
       });
     }
-    i = e.index;
   }
   return iddialar;
 }

@@ -1,9 +1,9 @@
 {
   "id": "veri-internet-kullanimi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:29.281Z",
-  "govde_hash": "0f98b8ed8f24",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:18.767Z",
+  "govde_hash": "5b08dce7dedb",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -49,7 +49,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli nüfus serisinde dünya nüfusu 2020 için yaklaşık 7,84 milyardır.",
+      "iddia": "Uzun dönemli nüfus serisinde dünya nüfusu 2020 için yaklaşık 7,89 milyardır.",
       "durum": "OK",
       "not": ""
     },

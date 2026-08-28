@@ -1,9 +1,9 @@
 {
   "id": "kavram-buyuk-ayrisma",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:25.086Z",
-  "govde_hash": "2fe8d4b5e9d0",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:17.885Z",
+  "govde_hash": "ea3e5d0fe7b6",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -43,7 +43,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1700 için yaklaşık 603,4 milyon, 1900 için yaklaşık 1,65 milyardır.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1700 için yaklaşık 595,5 milyon, 1900 için yaklaşık 1,63 milyardır.",
       "durum": "OK",
       "not": ""
     },

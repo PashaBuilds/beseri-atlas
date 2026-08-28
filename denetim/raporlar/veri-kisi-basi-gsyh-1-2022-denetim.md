@@ -1,11 +1,11 @@
 ## veri-kisi-basi-gsyh-1-2022
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:29.524Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:18.951Z_
 
 - [OK]      k1 → "Seri 1820'de 1.127,73 ile başlar ve 2022'de 16.676,75 ile biter; iki yüz iki yıl için toplam 21 gözlem vardır."
 - [ATOMSUZ] k1 → "Gözlem sayısının yıl sayısına oranı yaklaşık on yılda bir noktaya karşılık gelir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Serinin birimi uluslararası dolardır; bu birim, farklı ülkelerin ve farklı yılların değerlerini karşılaştırıla…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir ölçünün biriminin doğrudan bir para birimi değil bir dönüştürme kurgusu olması, atlasın şu kuralının dayan…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1820 için yaklaşık 1,04 milyar, 2020 için yaklaşık…"
+- [OK]      k2 → "Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1820 için yaklaşık 1,09 milyar, 2020 için yaklaşık…"
 - [ATOMSUZ] k1 → "Atlas iki seriyi çarparak toplam hasıla üretmez; iki kümenin gözlem yılları ve yeniden kurma yöntemi aynı deği…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Atlas iki seriyi çarparak toplam hasıla üretmez; iki kümenin gözlem yılları ve yeniden kurma yöntemi aynı deği…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "yüzyıl başında karşılaştırılabilir iktisadi gelişme düzeylerine ulaştığını savunan bir kitabı anlatır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

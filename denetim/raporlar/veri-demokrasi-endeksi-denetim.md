@@ -1,5 +1,5 @@
 ## veri-demokrasi-endeksi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:29.015Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:18.577Z_
 
 - [ATOMSUZ] k1 → "Bu dosyanın taşıdığı sayılar bir sayım değil, bir değerlendirmedir: sütun adı tahmin sözcüğünü içerir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Sağlayıcının sütun adı electdemvdemestimatebest biçimindedir; adın kendisi değerin en iyi tahmin olduğunu kayd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -9,7 +9,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:29.015Z_
 - [ATOMSUZ] k1 → "Zirvenin serinin sonunda değil ortasında bulunması, "demokrasi sürekli yayıldı" cümlesinin bu seriden çıkarıla…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Endeksi üreten kurum için tutulan kayıt, onu İsveç'teki Göteborg Üniversitesi'nde bulunan bağımsız bir araştır…" — programatik olarak ölçülemedi (ad karşılığı yok): İsveç, Göteborg, Üniversitesi
 - [ATOMSUZ] k3 → "Bir endeksin belirli bir üniversitedeki belirli bir enstitüye bağlanabilmesi, değerlerin kurumsal bir yöntem t…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Uzun dönemli seride dünya nüfusu 1789'da yaklaşık 938,2 milyon, 2025'te yaklaşık 8,23 milyardır."
+- [OK]      k2 → "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 2025'te yaklaşık 8,23 milyardır."
 - [ATOMSUZ] k1 → "Endeks bir orandır ve nüfusla ağırlıklandırılmamıştır; bu dosyada nüfusa göre yeniden hesaplama yapılmamıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Ülke dağılımı, rejim türleri ve endeksin alt bileşenleri burada ele alınmamıştır; bu dosya tek bir sütunun yıl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 

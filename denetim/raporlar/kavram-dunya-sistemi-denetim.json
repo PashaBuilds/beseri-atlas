@@ -1,9 +1,9 @@
 {
   "id": "kavram-dunya-sistemi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:25.190Z",
-  "govde_hash": "c76ab43c6116",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:17.916Z",
+  "govde_hash": "e970a061ab15",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -43,7 +43,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1500 için yaklaşık 503,1 milyon, 1800 için yaklaşık 990,4 milyon, 2020 için yaklaşık 7,84 milyar verir.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1500 için yaklaşık 503,1 milyon, 1800 için yaklaşık 983,1 milyon, 2020 için yaklaşık 7,89 milyar verir.",
       "durum": "OK",
       "not": ""
     },

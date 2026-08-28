@@ -1,5 +1,5 @@
 ## kavram-salgin
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.519Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:18.225Z_
 
 - [ATOMSUZ] k1 → "Kaynak ilk bölümünü tanıma ayırır ve altında parametreler diye ayrı bir alt başlık tutar; ardından önleme ve h…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Tanımın altında parametrelerin ayrı bir alt başlık olarak tutulması ve grip salgınları için ayrı çerçevelerin …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -7,7 +7,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.519Z_
 - [ATOMSUZ] k1 → "Bir sağlık kavramının maddesinde siyasi meselelerin ayrı bir başlık taşıması, atlasın salgın dosyalarını neden…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, kayda değer salgınlar ve salgın olayları için ayrı bir bölüm tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Aynı kaynağın kayda değer örnekler listesi, bu salgını 1346-1353 arasına tarihler."
-- [OK]      k2 → "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1400 yılında yaklaşık 405,3 milyondur."
+- [OK]      k2 → "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1400 yılında yaklaşık 442,3 milyondur."
 - [ATOMSUZ] k1 → "Atlas bu iki değeri bir salgın ölüm sayısı olarak sunmaz; seri toplam nüfusu verir, ölüm nedenini vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Atlas bu iki değeri bir salgın ölüm sayısı olarak sunmaz; seri toplam nüfusu verir, ölüm nedenini vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir hastalığın salgına dönüşmesi üç koşula bağlıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

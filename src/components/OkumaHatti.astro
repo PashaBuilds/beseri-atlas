@@ -6,7 +6,7 @@
  * kutusunu gösteriyordu: Dönem 14 için 31 makalenin 10'u. Kalan 21'ine ancak
  * arama ya da dizin üzerinden, tesadüfen ulaşılabiliyordu.
  */
-import { yol, TIP_ADLARI } from '../lib/icerik';
+import { yol, TIP_ADLARI, tipAdi } from '../lib/icerik';
 
 export interface Props {
   hat: any[];        // dönemin makaleleri, giriş hariç, sıralı
@@ -44,7 +44,7 @@ function yilEtiketi(bas: unknown, bit: unknown) {
           <span class="hat__no">{String(i + 1).padStart(2, '0')}</span>
           <span class="hat__ic">
             <span class="hat__ust">
-              <span class="hat__tip">{TIP_ADLARI[e.data.tip]}</span>
+              <span class="hat__tip">{tipAdi(e.data.tip)}</span>
               <span class="hat__yil">{yilEtiketi(e.data.tarih_baslangic, e.data.tarih_bitis)}</span>
             </span>
             <span class="hat__ad">{e.data.baslik}</span>

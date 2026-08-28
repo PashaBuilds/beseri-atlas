@@ -1,9 +1,9 @@
 {
   "id": "kavram-salgin",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:26.519Z",
-  "govde_hash": "d464658ef96a",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:46:18.225Z",
+  "govde_hash": "ae629df64793",
+  "commit": "d04b692",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -43,7 +43,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1400 yılında yaklaşık 405,3 milyondur.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1400 yılında yaklaşık 442,3 milyondur.",
       "durum": "OK",
       "not": ""
     },

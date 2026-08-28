@@ -21,7 +21,8 @@
     "ornekle": "node araclar/ornekle.mjs",
     "rapor": "node araclar/rapor.mjs",
     "canlilik": "node araclar/kaynak-canlilik.mjs",
-    "arama": "pagefind --site dist"
+    "arama": "pagefind --site dist",
+    "test": "for f in testler/*.test.mjs; do node \"$f\" || exit 1; done"
   },
   "dependencies": {
     "@fontsource-variable/fraunces": "^5.3.0",
@@ -34,6 +35,9 @@
     "zod": "^3.24.1"
   },
   "devDependencies": {
-    "pagefind": "^1.5.2"
+    "@astrojs/check": "^0.9.10",
+    "@types/node": "^26.4.0",
+    "pagefind": "^1.5.2",
+    "typescript": "^5.9.3"
   }
 }

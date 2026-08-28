@@ -1,11 +1,11 @@
 ## kavram-kuresellesme
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.099Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:18.135Z_
 
 - [ATOMSUZ] k1 → "Kaynak, köken bilgisi ve kullanıma ayrı bir bölüm ayırır; tarih bölümünü dört alt başlığa böler: arkaik, erken…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak iktisadi, kültürel ve siyasi küreselleşmeyi ayrı bölümler olarak tutar; siyasi küreselleşme altında ord…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Aynı olgunun üç ayrı boyutta işlenmesi, atlasın şu kuralının dayanağıdır: bu dosyada küreselleşme, hangi boyut…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Yakın bir kavram için tutulan kayıt, merkez, çevre ve yarı çevre terimlerini ayrı ayrı tanımlar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1500 için yaklaşık 503,1 milyon, 1900 için yaklaşık 1,65 milyar, 2020 için ya…"
+- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1500 için yaklaşık 503,1 milyon, 1900 için yaklaşık 1,63 milyar, 2020 için ya…"
 - [ATOMSUZ] k1 → "Atlas bu seriyi kavramın kanıtı olarak sunmaz; nüfus toplamı bir bağlantılılık ölçüsü değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Atlas bu seriyi kavramın kanıtı olarak sunmaz; nüfus toplamı bir bağlantılılık ölçüsü değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Kavram üç ölçütle uygulanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

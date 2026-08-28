@@ -1,8 +1,8 @@
 {
-  "zaman": "2026-08-21T13:09:35.646Z",
+  "zaman": "2026-08-28T18:38:31.695Z",
   "protokol": "GECIS-4",
-  "toplam_aday": 587,
-  "secilen": 20,
+  "toplam_aday": 629,
+  "secilen": 30,
   "sorular": [
     {
       "no": 1,
@@ -31,12 +31,13 @@
       ],
       "bloklu_alanlar": [
         "en.wikipedia.org",
-        "ourworldindata.org"
+        "ourworldindata.org",
+        "gutenberg.org"
       ],
       "kaynak_anahtarlari": [
         "k3"
       ],
-      "soru": "\"Nüfus artış hızı serisinde sağlayıcının toplam satırı 1950 için yüzde 1,738, 2023 için yüzde 0,871 verir.\" cümlesindeki şu değer(ler) doğru mu: 1950, 2023? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
+      "soru": "\"Nüfus artış hızı serisinde sağlayıcının toplam satırı 1950 için yüzde 1,738, 2023 için yüzde 0,871 verir.\" cümlesindeki şu değer(ler) doğru mu: 1950, 2023? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org, gutenberg.org."
     },
     {
       "no": 3,
@@ -147,12 +148,13 @@
       ],
       "bloklu_alanlar": [
         "plato.stanford.edu",
-        "en.wikipedia.org"
+        "en.wikipedia.org",
+        "archive.org"
       ],
       "kaynak_anahtarlari": [
         "k1"
       ],
-      "soru": "\"Kaynak, elyazmasını tamamlarken Napolyon'un birliklerinin Jena'yı işgalinin üniversitenin faaliyetlerini kısıtladığını ve Hegel'in oradan ayrıldığını yazar; üniversite görevi olmad\" cümlesindeki şu değer(ler) doğru mu: 1808, 1815? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: plato.stanford.edu, en.wikipedia.org."
+      "soru": "\"Kaynak, elyazmasını tamamlarken Napolyon'un birliklerinin Jena'yı işgalinin üniversitenin faaliyetlerini kısıtladığını ve Hegel'in oradan ayrıldığını yazar; üniversite görevi olmad\" cümlesindeki şu değer(ler) doğru mu: 1808, 1815? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: plato.stanford.edu, en.wikipedia.org, archive.org."
     },
     {
       "no": 10,
@@ -239,6 +241,22 @@
     },
     {
       "no": 15,
+      "makale": "aktor-buhara-hanligi",
+      "cumle": "1785'te iktidarı alan hanedan bu soydan gelmiyordu.",
+      "degerler": [
+        "1785"
+      ],
+      "bloklu_alanlar": [
+        "islamansiklopedisi.org.tr",
+        "en.wikipedia.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"1785'te iktidarı alan hanedan bu soydan gelmiyordu.\" cümlesindeki şu değer(ler) doğru mu: 1785? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: islamansiklopedisi.org.tr, en.wikipedia.org."
+    },
+    {
+      "no": 16,
       "makale": "kavram-kamusal-alan",
       "cumle": "Hannah Arendt için tutulan kayıt, onu 1906-1975 arasında yaşamış ve yirminci yüzyılın en etkili siyaset filozoflarından biri sayılan bir düşünür olarak verir.",
       "degerler": [
@@ -255,7 +273,7 @@
       "soru": "\"Hannah Arendt için tutulan kayıt, onu 1906-1975 arasında yaşamış ve yirminci yüzyılın en etkili siyaset filozoflarından biri sayılan bir düşünür olarak verir.\" cümlesindeki şu değer(ler) doğru mu: 1906, 1975? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, plato.stanford.edu."
     },
     {
-      "no": 16,
+      "no": 17,
       "makale": "veri-dogurganlik-hizi-1950-2023",
       "cumle": "Veri kümesinde dünya toplamı için 1950'den önce gözlem bulunmaz.",
       "degerler": [
@@ -271,7 +289,7 @@
       "soru": "\"Veri kümesinde dünya toplamı için 1950'den önce gözlem bulunmaz.\" cümlesindeki şu değer(ler) doğru mu: 1950? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: ourworldindata.org, en.wikipedia.org."
     },
     {
-      "no": 17,
+      "no": 18,
       "makale": "veri-yasam-beklentisi-1770-2023",
       "cumle": "Seride 1770, 1800 ve 1820 yılları art arda üç gözlemdir; yani ilk elli yıl yalnızca üç noktayla temsil edilir.",
       "degerler": [
@@ -288,7 +306,7 @@
       "soru": "\"Seride 1770, 1800 ve 1820 yılları art arda üç gözlemdir; yani ilk elli yıl yalnızca üç noktayla temsil edilir.\" cümlesindeki şu değer(ler) doğru mu: 1800, 1820? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: ourworldindata.org, en.wikipedia.org."
     },
     {
-      "no": 18,
+      "no": 19,
       "makale": "tartisma-iklim-ve-cokus",
       "cumle": "İkincisi için tutulan kayıt, 1984'te 210 farklı kuramın sayıldığını yazar.",
       "degerler": [
@@ -304,7 +322,7 @@
       "soru": "\"İkincisi için tutulan kayıt, 1984'te 210 farklı kuramın sayıldığını yazar.\" cümlesindeki şu değer(ler) doğru mu: 1984? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
     },
     {
-      "no": 19,
+      "no": 20,
       "makale": "veri-internet-kullanimi",
       "cumle": "Veri kümesinde dünya toplamı için ilk gözlem 2005 yılına aittir.",
       "degerler": [
@@ -320,7 +338,7 @@
       "soru": "\"Veri kümesinde dünya toplamı için ilk gözlem 2005 yılına aittir.\" cümlesindeki şu değer(ler) doğru mu: 2005? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: ourworldindata.org, en.wikipedia.org."
     },
     {
-      "no": 20,
+      "no": 21,
       "makale": "olay-ingiliz-ic-savasi",
       "cumle": "Adalardaki üç savaş dizisi ile kıtadaki 1635–1648 evresinin örtüşmesi, 17.",
       "degerler": [
@@ -336,6 +354,161 @@
         "k2"
       ],
       "soru": "\"Adalardaki üç savaş dizisi ile kıtadaki 1635–1648 evresinin örtüşmesi, 17.\" cümlesindeki şu değer(ler) doğru mu: 1635, 1648? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
+    },
+    {
+      "no": 22,
+      "makale": "aktor-mali-imparatorlugu",
+      "cumle": "Kaynak 1500 yılı için 400.000 kilometrekarelik bir alan verir.",
+      "degerler": [
+        "1500"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "islamansiklopedisi.org.tr",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Kaynak 1500 yılı için 400.000 kilometrekarelik bir alan verir.\" cümlesindeki şu değer(ler) doğru mu: 1500? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, islamansiklopedisi.org.tr, ourworldindata.org."
+    },
+    {
+      "no": 23,
+      "makale": "dusunur-marx",
+      "cumle": "Kaynak onu 1818-1883 arasında yaşamış ve sıklıkla filozoftan çok eylemci, eserleri komünist rejimlerin kuruluşuna ilham vermiş bir devrimci olarak ele alınan bir düşünür diye kaydeder.",
+      "degerler": [
+        "1818",
+        "1883"
+      ],
+      "bloklu_alanlar": [
+        "plato.stanford.edu",
+        "en.wikipedia.org",
+        "marxists.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Kaynak onu 1818-1883 arasında yaşamış ve sıklıkla filozoftan çok eylemci, eserleri komünist rejimlerin kuruluşuna ilham vermiş bir devrimci olarak ele alınan bir düşünür diye kayde\" cümlesindeki şu değer(ler) doğru mu: 1818, 1883? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: plato.stanford.edu, en.wikipedia.org, marxists.org."
+    },
+    {
+      "no": 24,
+      "makale": "aktor-khmer-imparatorlugu",
+      "cumle": "Kaynağın çöküş nedenleri arasında salgını sayması, aynı yüzyıllarda başka kıtalarda da kaydedilen bir olguyla örtüşür: 1346-1353 arasında Avrupa'yı vuran pandemi ayrı bir kayıt geleneğinde ele alınır.",
+      "degerler": [
+        "1346",
+        "1353"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1",
+        "k2"
+      ],
+      "soru": "\"Kaynağın çöküş nedenleri arasında salgını sayması, aynı yüzyıllarda başka kıtalarda da kaydedilen bir olguyla örtüşür: 1346-1353 arasında Avrupa'yı vuran pandemi ayrı bir kayıt gel\" cümlesindeki şu değer(ler) doğru mu: 1346, 1353? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
+    },
+    {
+      "no": 25,
+      "makale": "olay-2008-finansal-krizi",
+      "cumle": "Krizin bir noktası sayıyla verilir: bir gösterge bir yıl boyunca yükseldikten sonra Eylül 2008'de daha da sıçradı ve 10 Ekim 2008'de yüzde 4,65 ile rekor düzeye ulaştı.",
+      "degerler": [
+        "2008"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Krizin bir noktası sayıyla verilir: bir gösterge bir yıl boyunca yükseldikten sonra Eylül 2008'de daha da sıçradı ve 10 Ekim 2008'de yüzde 4,65 ile rekor düzeye ulaştı.\" cümlesindeki şu değer(ler) doğru mu: 2008? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
+    },
+    {
+      "no": 26,
+      "makale": "tartisma-tarim-devrimi-ilerleme-mi",
+      "cumle": "Childe terimi 1936 tarihli Man Makes Himself adlı kitabında ortaya attı ve Orta Doğu tarihindeki bir dizi tarımsal devrimin ilki olarak tanıttı; sürecin önemini vurgulamak için \"devrim\" kelimesini seçmişti.",
+      "degerler": [
+        "1936"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "archive.org",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k2",
+        "k1"
+      ],
+      "soru": "\"Childe terimi 1936 tarihli Man Makes Himself adlı kitabında ortaya attı ve Orta Doğu tarihindeki bir dizi tarımsal devrimin ilki olarak tanıttı; sürecin önemini vurgulamak için \"de\" cümlesindeki şu değer(ler) doğru mu: 1936? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, archive.org, ourworldindata.org."
+    },
+    {
+      "no": 27,
+      "makale": "tartisma-hacli-seferlerinin-nedeni",
+      "cumle": "Kaynağın dönüm noktası olarak andığı kişi için tutulan kayıt, onu Eyyûbî hanedanının kurucusu ve Mısır ile Suriye'nin ilk sultanı olarak tanımlar; kaynak, birleşik orduları 1187'de Hattin Muharebesi'nde yok ettiğini yaza",
+      "degerler": [
+        "1187"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k1",
+        "k3"
+      ],
+      "soru": "\"Kaynağın dönüm noktası olarak andığı kişi için tutulan kayıt, onu Eyyûbî hanedanının kurucusu ve Mısır ile Suriye'nin ilk sultanı olarak tanımlar; kaynak, birleşik orduları 1187'de\" cümlesindeki şu değer(ler) doğru mu: 1187? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
+    },
+    {
+      "no": 28,
+      "makale": "kavram-burokrasi",
+      "cumle": "Bunlardan biri için tutulan ayrı kayıt, o düşünürü 1818-1883 arasına yerleştirir.",
+      "degerler": [
+        "1818",
+        "1883"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "plato.stanford.edu"
+      ],
+      "kaynak_anahtarlari": [
+        "k2"
+      ],
+      "soru": "\"Bunlardan biri için tutulan ayrı kayıt, o düşünürü 1818-1883 arasına yerleştirir.\" cümlesindeki şu değer(ler) doğru mu: 1818, 1883? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, plato.stanford.edu."
+    },
+    {
+      "no": 29,
+      "makale": "tartisma-nufus-artisi-tehdit-mi",
+      "cumle": "Buğday verimi serisinde ise 1961 için hektar başına 1,0889001 ton, 2024 için 3,6374002 ton verilir.",
+      "degerler": [
+        "1961",
+        "2024"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "ourworldindata.org"
+      ],
+      "kaynak_anahtarlari": [
+        "k3"
+      ],
+      "soru": "\"Buğday verimi serisinde ise 1961 için hektar başına 1,0889001 ton, 2024 için 3,6374002 ton verilir.\" cümlesindeki şu değer(ler) doğru mu: 1961, 2024? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, ourworldindata.org."
+    },
+    {
+      "no": 30,
+      "makale": "kaynak-carr-tarih-nedir",
+      "cumle": "Kaynak, yazarı 28 Haziran 1892'de Londra'da doğmuş, 3 Kasım 1982'de Londra'da ölmüş biri olarak kaydeder ve mesleğini tarihçi, diplomat, uluslararası ilişkiler kuramcısı ve gazeteci olarak verir; tanındığı alanlar arasın",
+      "degerler": [
+        "1892",
+        "1982"
+      ],
+      "bloklu_alanlar": [
+        "en.wikipedia.org",
+        "plato.stanford.edu"
+      ],
+      "kaynak_anahtarlari": [
+        "k1"
+      ],
+      "soru": "\"Kaynak, yazarı 28 Haziran 1892'de Londra'da doğmuş, 3 Kasım 1982'de Londra'da ölmüş biri olarak kaydeder ve mesleğini tarihçi, diplomat, uluslararası ilişkiler kuramcısı ve gazetec\" cümlesindeki şu değer(ler) doğru mu: 1892, 1982? Bu soruyu YALNIZCA şu alan adları DIŞINDA bir kaynaktan yanıtla: en.wikipedia.org, plato.stanford.edu."
     }
   ]
 }

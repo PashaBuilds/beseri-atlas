@@ -1,5 +1,5 @@
 ## dusunur-malthus
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:24.142Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:46:17.845Z_
 
 - [ATOMSUZ] k1 → "Kaynak Nüfus İlkesi Üzerine Bir Deneme için ayrı bir bölüm açar ve altında baskılar ve sürümler diye bir alt b…" — programatik olarak ölçülemedi (ad karşılığı yok): Nüfus, İlkesi, Üzerine, Deneme
 - [ATOMSUZ] k1 → "Kaynak, ikinci ve sonraki baskılarda alt sınıfların yoksulluğunu hafifletmenin en iyi yolu olarak ahlaki kısıt…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -9,7 +9,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:24.142Z_
 - [ATOMSUZ] k1 → "Modelin sonraki nüfus verileriyle ilişkisi için atlasın kavram katmanında ayrı bir dosya vardır; o dosyanın ad…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak, tarımsal iyileştirmelerin sınırsız biçimde genişleyebileceği düşüncesi gibi çeşitli düşünülebilir çözü…"
 - [ATOMSUZ] k1 → "Bir kuramın yanına karşı görüşlerin ve bir tartışma başlığının kaydedilmesi, atlasın hakemlik etmeme ilkesinin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 1834'te yaklaşık 1,14 milyardır."
+- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 1834'te yaklaşık 1,19 milyardır."
 - [ATOMSUZ] k1 → "Atlas bu seriyi kuramın doğrulanması ya da yanlışlanması olarak sunmaz; kuram tek bir ülkeyle sınırlı bir meka…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Atlas bu seriyi kuramın doğrulanması ya da yanlışlanması olarak sunmaz; kuram tek bir ülkeyle sınırlı bir meka…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Bir önceki kuşağın iktisat yazarı için tutulan kayıt, onun ahlak kurallarının belirli örneklere verilen tepkil…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
