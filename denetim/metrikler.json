@@ -185,8 +185,21 @@
       "ornek_boyutu": 29,
       "turetilemedi": 21,
       "davranis": "devam"
+    },
+    {
+      "zaman": "2026-08-28T18:55:11.401Z",
+      "skor": 1,
+      "ham_skor": 0.7045,
+      "dogrulanan": 31,
+      "isaret": 0,
+      "hata": 0,
+      "toplam": 31,
+      "ornek_boyutu": 44,
+      "turetilemedi": 13,
+      "davranis": "devam",
+      "korpus_boyutu": 505
     }
   ],
   "capraz_gecmisi": [],
-  "guncelleme": "2026-08-21T13:12:38.938Z"
+  "guncelleme": "2026-08-28T18:55:11.583Z"
 }

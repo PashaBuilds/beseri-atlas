@@ -1,18 +1,18 @@
 ---
-aktif_faz: 5
-aktif_parti: B01
-son_commit: ae4d6aa
-son_guncelleme: 2026-08-21T13:15:04.153Z
+aktif_faz: "Ultracode Faz 2 (pilot)"
+aktif_parti: pilot-01
+son_commit: 97e53c0
+son_guncelleme: 2026-08-28T18:55:34.666110+00:00
 sayaclar:
-  uretilen: 28
-  onaylanan: 28
+  uretilen: 505
+  onaylanan: 505
   karantinada: 0
   onarim_dongusunde: 0
 metrikler:
   kaynak_dogrulama_orani: 0.999
   ortalama_kaynak_sayisi: 3.08
   ornekleme_kapisi_son_skor: 1
-  ornekleme_kapisi_son_calisma: 2026-08-21T13:12:38.938Z
+  ornekleme_kapisi_son_calisma: 2026-08-28T18:55:11.583Z
   ornekleme_kapisi_karar: devam
   ornekleme_kapisi_gecmisi:
     - 0.9583
@@ -22,6 +22,7 @@ metrikler:
     - 0.875
     - 0.875
     - 0.875
+    - 1
     - 1
     - 1
     - 1

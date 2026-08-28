@@ -1,20 +1,20 @@
 {
   "gecis": 4,
-  "zaman": "2026-08-21T13:12:06.240Z",
+  "zaman": "2026-08-28T18:54:56.346Z",
   "birim": "deger",
   "skor": 1,
-  "ham_skor": 0.2759,
-  "olculen": 8,
-  "toplam_ornek": 29,
-  "dogrulanan": 8,
+  "ham_skor": 0.7045,
+  "olculen": 31,
+  "toplam_ornek": 44,
+  "dogrulanan": 31,
   "isaret": 0,
   "hata": 0,
-  "turetilemedi": 21,
+  "turetilemedi": 13,
   "soru_dagilimi": {
-    "ok": 2,
-    "kismi": 6,
+    "ok": 21,
+    "kismi": 0,
     "celiski": 0,
-    "turetilemedi": 12,
+    "turetilemedi": 9,
     "cevapsiz": 0
   },
   "aciklama": "Puanlama birimi DEGER. skor = dogrulandi / (dogrulandi + celisti). ham_skor = dogrulandi / butun ornek degerleri (olculemeyenler basarisiz sayilarak). Olculemeyen deger, celiski DEGILDIR: orandan dusulur ama raporda gizlenmez.",
@@ -23,8 +23,8 @@
       "no": 1,
       "makale": "aktor-etiyopya-imparatorlugu",
       "deger": "1589",
-      "sinif": "olculemedi",
-      "kaynak_alan": null
+      "sinif": "dogrulandi",
+      "kaynak_alan": "abjol.org.et"
     },
     {
       "no": 2,
@@ -51,29 +51,29 @@
       "no": 3,
       "makale": "dusunur-arendt",
       "deger": "1975",
-      "sinif": "olculemedi",
+      "sinif": "dogrulandi",
       "kaynak_alan": "iep.utm.edu"
     },
     {
       "no": 4,
       "makale": "olay-1905-rus-devrimi",
       "deger": "1917",
-      "sinif": "olculemedi",
-      "kaynak_alan": null
+      "sinif": "dogrulandi",
+      "kaynak_alan": "marxists.org"
     },
     {
       "no": 5,
       "makale": "aktor-cin-halk-cumhuriyeti",
       "deger": "1947",
       "sinif": "dogrulandi",
-      "kaynak_alan": "avalon.law.yale.edu"
+      "kaynak_alan": "online.norwich.edu"
     },
     {
       "no": 5,
       "makale": "aktor-cin-halk-cumhuriyeti",
       "deger": "1991",
-      "sinif": "olculemedi",
-      "kaynak_alan": "avalon.law.yale.edu"
+      "sinif": "dogrulandi",
+      "kaynak_alan": "online.norwich.edu"
     },
     {
       "no": 6,
@@ -87,55 +87,55 @@
       "makale": "olay-taiping-isyani",
       "deger": "1864",
       "sinif": "dogrulandi",
-      "kaynak_alan": "en.wikisource.org"
+      "kaynak_alan": "encyclopedia.com"
     },
     {
       "no": 8,
       "makale": "aktor-qing-hanedani",
       "deger": "1644",
       "sinif": "dogrulandi",
-      "kaynak_alan": "en.wikisource.org"
+      "kaynak_alan": "afe.easia.columbia.edu"
     },
     {
       "no": 8,
       "makale": "aktor-qing-hanedani",
       "deger": "1912",
-      "sinif": "olculemedi",
-      "kaynak_alan": "en.wikisource.org"
+      "sinif": "dogrulandi",
+      "kaynak_alan": "afe.easia.columbia.edu"
     },
     {
       "no": 9,
       "makale": "dusunur-hegel",
       "deger": "1808",
       "sinif": "dogrulandi",
-      "kaynak_alan": "en.wikisource.org"
+      "kaynak_alan": "hegel.net"
     },
     {
       "no": 9,
       "makale": "dusunur-hegel",
       "deger": "1815",
-      "sinif": "olculemedi",
-      "kaynak_alan": "en.wikisource.org"
+      "sinif": "dogrulandi",
+      "kaynak_alan": "hegel.net"
     },
     {
       "no": 10,
       "makale": "olay-paris-iklim-anlasmasi",
       "deger": "2026",
-      "sinif": "olculemedi",
-      "kaynak_alan": null
+      "sinif": "dogrulandi",
+      "kaynak_alan": "cfr.org"
     },
     {
       "no": 11,
       "makale": "aktor-sumer-sehir-devletleri",
       "deger": "1800",
-      "sinif": "olculemedi",
-      "kaynak_alan": null
+      "sinif": "dogrulandi",
+      "kaynak_alan": "openstax.org"
     },
     {
       "no": 12,
       "makale": "olay-italyan-birligi",
       "deger": "1859",
-      "sinif": "olculemedi",
+      "sinif": "dogrulandi",
       "kaynak_alan": "en.wikisource.org"
     },
     {
@@ -161,122 +161,245 @@
     },
     {
       "no": 15,
+      "makale": "aktor-buhara-hanligi",
+      "deger": "1785",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "encyclopedia.com"
+    },
+    {
+      "no": 16,
       "makale": "kavram-kamusal-alan",
       "deger": "1906",
       "sinif": "dogrulandi",
       "kaynak_alan": "iep.utm.edu"
     },
     {
-      "no": 15,
+      "no": 16,
       "makale": "kavram-kamusal-alan",
       "deger": "1975",
-      "sinif": "olculemedi",
+      "sinif": "dogrulandi",
       "kaynak_alan": "iep.utm.edu"
     },
     {
-      "no": 16,
+      "no": 17,
       "makale": "veri-dogurganlik-hizi-1950-2023",
       "deger": "1950",
       "sinif": "olculemedi",
       "kaynak_alan": null
     },
     {
-      "no": 17,
+      "no": 18,
       "makale": "veri-yasam-beklentisi-1770-2023",
       "deger": "1800",
       "sinif": "olculemedi",
       "kaynak_alan": null
     },
     {
-      "no": 17,
+      "no": 18,
       "makale": "veri-yasam-beklentisi-1770-2023",
       "deger": "1820",
       "sinif": "olculemedi",
       "kaynak_alan": null
     },
     {
-      "no": 18,
+      "no": 19,
       "makale": "tartisma-iklim-ve-cokus",
       "deger": "1984",
       "sinif": "dogrulandi",
-      "kaynak_alan": "openlibrary.org"
+      "kaynak_alan": "courses.washington.edu"
     },
     {
-      "no": 19,
+      "no": 20,
       "makale": "veri-internet-kullanimi",
       "deger": "2005",
       "sinif": "olculemedi",
       "kaynak_alan": null
     },
     {
-      "no": 20,
+      "no": 21,
       "makale": "olay-ingiliz-ic-savasi",
       "deger": "1635",
       "sinif": "dogrulandi",
       "kaynak_alan": "en.wikisource.org"
     },
     {
-      "no": 20,
+      "no": 21,
       "makale": "olay-ingiliz-ic-savasi",
       "deger": "1648",
-      "sinif": "olculemedi",
+      "sinif": "dogrulandi",
       "kaynak_alan": "en.wikisource.org"
+    },
+    {
+      "no": 22,
+      "makale": "aktor-mali-imparatorlugu",
+      "deger": "1500",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 23,
+      "makale": "dusunur-marx",
+      "deger": "1818",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "openlibrary.org"
+    },
+    {
+      "no": 23,
+      "makale": "dusunur-marx",
+      "deger": "1883",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "openlibrary.org"
+    },
+    {
+      "no": 24,
+      "makale": "aktor-khmer-imparatorlugu",
+      "deger": "1346",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "openlibrary.org"
+    },
+    {
+      "no": 24,
+      "makale": "aktor-khmer-imparatorlugu",
+      "deger": "1353",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "openlibrary.org"
+    },
+    {
+      "no": 25,
+      "makale": "olay-2008-finansal-krizi",
+      "deger": "2008",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "cfr.org"
+    },
+    {
+      "no": 26,
+      "makale": "tartisma-tarim-devrimi-ilerleme-mi",
+      "deger": "1936",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "openlibrary.org"
+    },
+    {
+      "no": 27,
+      "makale": "tartisma-hacli-seferlerinin-nedeni",
+      "deger": "1187",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "en.wikisource.org"
+    },
+    {
+      "no": 28,
+      "makale": "kavram-burokrasi",
+      "deger": "1818",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "openlibrary.org"
+    },
+    {
+      "no": 28,
+      "makale": "kavram-burokrasi",
+      "deger": "1883",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "openlibrary.org"
+    },
+    {
+      "no": 29,
+      "makale": "tartisma-nufus-artisi-tehdit-mi",
+      "deger": "1961",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 29,
+      "makale": "tartisma-nufus-artisi-tehdit-mi",
+      "deger": "2024",
+      "sinif": "olculemedi",
+      "kaynak_alan": null
+    },
+    {
+      "no": 30,
+      "makale": "kaynak-carr-tarih-nedir",
+      "deger": "1892",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "doinghistoryinpublic.org"
+    },
+    {
+      "no": 30,
+      "makale": "kaynak-carr-tarih-nedir",
+      "deger": "1982",
+      "sinif": "dogrulandi",
+      "kaynak_alan": "doinghistoryinpublic.org"
     }
   ],
   "sonuclar": [
     {
       "no": 1,
       "makale": "aktor-etiyopya-imparatorlugu",
-      "durum": "TURETILEMEDI",
-      "not": "1911 EB \"Abyssinia\" maddesinde 1589 yılı da Sarsa Dengel adı da (ve Malak Sagad varyantı da) bulunamadı. Türetilemedi."
+      "anahtar": "k1",
+      "iddia": "Kaynak, bir başka gücün de burada durdurulduğunu kaydeder: Osmanlılar, İmparator Sarsa Dengel'in 1589'daki zaferi ve Ark",
+      "durum": "OK",
+      "turetilen": "1589",
+      "kaynak_alan": "abjol.org.et",
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 0
+      },
+      "not": "bagimsiz dogrulama: abjol.org.et"
     },
     {
       "no": 2,
       "makale": "kaynak-malthus-nufus",
       "durum": "TURETILEMEDI",
-      "not": "Nüfus artış hızının 1950 ve 2023 değerleri sağlayıcının kendi serisine ait ölçümlerdir; bağımsız alan adlarında aynı ondalıklı değerler bulunamadı. Türetilemedi"
+      "not": "Nüfus artış hızının 1950 (yüzde 1,738) ve 2023 (yüzde 0,871) değerleri sağlayıcının toplam satırına ait iç ölçümlerdir; bağımsız alan adlarında aynı seri değerl"
     },
     {
       "no": 3,
       "makale": "dusunur-arendt",
       "anahtar": "k1",
       "iddia": "Kaynak onu 1906-1975 arasında yaşamış, yirminci yüzyılın en etkili siyaset filozoflarından biri olarak kaydeder ve bir A",
-      "durum": "KISMI",
-      "turetilen": "1906",
+      "durum": "OK",
+      "turetilen": "1906 1975",
       "kaynak_alan": "iep.utm.edu",
       "deger_dagilimi": {
-        "dogrulandi": 1,
+        "dogrulandi": 2,
         "celisti": 0,
-        "olculemedi": 1
+        "olculemedi": 0
       },
-      "not": "1 deger dogrulandi, 1 deger bagimsiz kaynakta yok (olculemedi)"
+      "not": "bagimsiz dogrulama: iep.utm.edu"
     },
     {
       "no": 4,
       "makale": "olay-1905-rus-devrimi",
-      "durum": "TURETILEMEDI",
-      "not": "7 Kasım 1917 tarihi ve Troçki'nin komuta listesi için Marksist İnternet Arşivi'nin dizin sayfalarında doğrudan eşleşme bulunamadı. Türetilemedi."
+      "anahtar": "k1",
+      "iddia": "Aynı isimlerden biri bir sonraki devrimde de görünür: Lev Troçki, 7 Kasım 1917'deki olayın komutanları arasında sayılır.",
+      "durum": "OK",
+      "turetilen": "1917",
+      "kaynak_alan": "marxists.org",
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 0
+      },
+      "not": "bagimsiz dogrulama: marxists.org"
     },
     {
       "no": 5,
       "makale": "aktor-cin-halk-cumhuriyeti",
       "anahtar": "k2",
       "iddia": "Soğuk Savaş 1947 ile 1991 arasındaki jeopolitik rekabeti anlatır ve kırk dört yıl dokuz ay sürmüştür.",
-      "durum": "KISMI",
-      "turetilen": "1947",
-      "kaynak_alan": "avalon.law.yale.edu",
+      "durum": "OK",
+      "turetilen": "1947 1991",
+      "kaynak_alan": "online.norwich.edu",
       "deger_dagilimi": {
-        "dogrulandi": 1,
+        "dogrulandi": 2,
         "celisti": 0,
-        "olculemedi": 1
+        "olculemedi": 0
       },
-      "not": "1 deger dogrulandi, 1 deger bagimsiz kaynakta yok (olculemedi)"
+      "not": "bagimsiz dogrulama: online.norwich.edu"
     },
     {
       "no": 6,
       "makale": "veri-kentli-nufus-sayisi",
       "durum": "TURETILEMEDI",
-      "not": "2025 için kentli nüfus payı sağlayıcının kendi serisine ait bir ölçümdür; bağımsız alan adlarında aynı değer bulunamadı. Türetilemedi."
+      "not": "2025 için yüzde 57,8335'lik kentli nüfus payı sağlayıcının kendi serisine ait bir ölçümdür; bağımsız alan adlarında aynı değer bulunamadı. Türetilemedi (tanım g"
     },
     {
       "no": 7,
@@ -285,6 +408,81 @@
       "iddia": "Nanjing'in 1864'te düşmesi Taiping rejiminin yıkılışını işaretlese de mücadele henüz bitmemişti; hâlâ birkaç yüz bin Tai",
       "durum": "OK",
       "turetilen": "1864",
+      "kaynak_alan": "encyclopedia.com",
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 0
+      },
+      "not": "bagimsiz dogrulama: encyclopedia.com"
+    },
+    {
+      "no": 8,
+      "makale": "aktor-qing-hanedani",
+      "anahtar": "k1",
+      "iddia": "Qing, Çin'in Mançu önderliğindeki hanedanıdır ve 1644–1912 arasına tarihlenir.",
+      "durum": "OK",
+      "turetilen": "1644 1912",
+      "kaynak_alan": "afe.easia.columbia.edu",
+      "deger_dagilimi": {
+        "dogrulandi": 2,
+        "celisti": 0,
+        "olculemedi": 0
+      },
+      "not": "bagimsiz dogrulama: afe.easia.columbia.edu"
+    },
+    {
+      "no": 9,
+      "makale": "dusunur-hegel",
+      "anahtar": "k1",
+      "iddia": "Kaynak, elyazmasını tamamlarken Napolyon'un birliklerinin Jena'yı işgalinin üniversitenin faaliyetlerini kısıtladığını v",
+      "durum": "OK",
+      "turetilen": "1808 1815",
+      "kaynak_alan": "hegel.net",
+      "deger_dagilimi": {
+        "dogrulandi": 2,
+        "celisti": 0,
+        "olculemedi": 0
+      },
+      "not": "bagimsiz dogrulama: hegel.net"
+    },
+    {
+      "no": 10,
+      "makale": "olay-paris-iklim-anlasmasi",
+      "anahtar": "k1",
+      "iddia": "Anlaşmanın katılım tablosu neredeyse evrenseldir: Ocak 2026 itibarıyla Birleşmiş Milletler İklim Değişikliği Çerçeve Söz",
+      "durum": "OK",
+      "turetilen": "2026",
+      "kaynak_alan": "cfr.org",
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 0
+      },
+      "not": "bagimsiz dogrulama: cfr.org"
+    },
+    {
+      "no": 11,
+      "makale": "aktor-sumer-sehir-devletleri",
+      "anahtar": "k1",
+      "iddia": "Bölge daha sonra Amorit yönetimine geçti ve MÖ 1800 dolaylarında Hammurabi önderliğinde Babil yükseldi.",
+      "durum": "OK",
+      "turetilen": "1800",
+      "kaynak_alan": "openstax.org",
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 0
+      },
+      "not": "bagimsiz dogrulama: openstax.org"
+    },
+    {
+      "no": 12,
+      "makale": "olay-italyan-birligi",
+      "anahtar": "k1",
+      "iddia": "Kaynak birliği tek bir olay olarak değil bir dizi olarak bölümler: Cavour ve birleşme beklentileri, Pisacane başarısızlı",
+      "durum": "OK",
+      "turetilen": "1859",
       "kaynak_alan": "en.wikisource.org",
       "deger_dagilimi": {
         "dogrulandi": 1,
@@ -294,108 +492,153 @@
       "not": "bagimsiz dogrulama: en.wikisource.org"
     },
     {
-      "no": 8,
-      "makale": "aktor-qing-hanedani",
-      "anahtar": "k1",
-      "iddia": "Qing, Çin'in Mançu önderliğindeki hanedanıdır ve 1644–1912 arasına tarihlenir.",
-      "durum": "KISMI",
-      "turetilen": "1644",
-      "kaynak_alan": "en.wikisource.org",
-      "deger_dagilimi": {
-        "dogrulandi": 1,
-        "celisti": 0,
-        "olculemedi": 1
-      },
-      "not": "1 deger dogrulandi, 1 deger bagimsiz kaynakta yok (olculemedi)"
-    },
-    {
-      "no": 9,
-      "makale": "dusunur-hegel",
-      "anahtar": "k1",
-      "iddia": "Kaynak, elyazmasını tamamlarken Napolyon'un birliklerinin Jena'yı işgalinin üniversitenin faaliyetlerini kısıtladığını v",
-      "durum": "KISMI",
-      "turetilen": "1808",
-      "kaynak_alan": "en.wikisource.org",
-      "deger_dagilimi": {
-        "dogrulandi": 1,
-        "celisti": 0,
-        "olculemedi": 1
-      },
-      "not": "1 deger dogrulandi, 1 deger bagimsiz kaynakta yok (olculemedi)"
-    },
-    {
-      "no": 10,
-      "makale": "olay-paris-iklim-anlasmasi",
-      "durum": "TURETILEMEDI",
-      "not": "Ocak 2026 itibarıyla katılım tablosu, bağımsız alan adlarında karşılığı olmayan güncel bir durumdur. Türetilemedi."
-    },
-    {
-      "no": 11,
-      "makale": "aktor-sumer-sehir-devletleri",
-      "durum": "TURETILEMEDI",
-      "not": "MÖ 1800 dolaylarındaki Hammurabi tarihlemesi için 1911 EB kullanılamaz: 1911 kronolojisi MÖ tarihlerde aşılmıştır (bu dosyanın başındaki uyarı). Türetilemedi."
-    },
-    {
-      "no": 12,
-      "makale": "olay-italyan-birligi",
-      "anahtar": "k1",
-      "iddia": "Kaynak birliği tek bir olay olarak değil bir dizi olarak bölümler: Cavour ve birleşme beklentileri, Pisacane başarısızlı",
-      "durum": "TURETILEMEDI",
-      "turetilen": "1859",
-      "kaynak_alan": "en.wikisource.org",
-      "deger_dagilimi": {
-        "dogrulandi": 0,
-        "celisti": 0,
-        "olculemedi": 1
-      },
-      "not": "0 deger dogrulandi, 1 deger bagimsiz kaynakta yok (olculemedi)"
-    },
-    {
       "no": 13,
       "makale": "olay-yazinin-icadi",
       "durum": "TURETILEMEDI",
-      "not": "1990'lardaki Abydos kazısı 1911 EB kapsamının dışında; Avalon belge koleksiyonunda da karşılığı yok. Türetilemedi."
+      "not": "Bağımsız kaynak (the-past.com, U-j mezarı kısa makalesi) mezarın 1988'de bulunduğunu ve buluntuların 1998'de yayımlandığını yazıyor; \"1990'larda bulundu\" ifades"
     },
     {
       "no": 14,
       "makale": "veri-kentlesme-orani-1500-2023",
       "durum": "TURETILEMEDI",
-      "not": "Kentleşme oranının 1950 ve 2025 değerleri sağlayıcının kendi serisine ait ölçümlerdir; bağımsız alan adlarında aynı değerler bulunamadı. Türetilemedi."
+      "not": "Kentleşme oranının 1950 (yüzde 28,80) ve 2025 (yüzde 57,83) değerleri sağlayıcının kendi serisine ait ölçümlerdir; bağımsız alan adlarında aynı değerler bulunam"
     },
     {
       "no": 15,
-      "makale": "kavram-kamusal-alan",
-      "anahtar": "k2",
-      "iddia": "Hannah Arendt için tutulan kayıt, onu 1906-1975 arasında yaşamış ve yirminci yüzyılın en etkili siyaset filozoflarından ",
-      "durum": "KISMI",
-      "turetilen": "1906",
-      "kaynak_alan": "iep.utm.edu",
+      "makale": "aktor-buhara-hanligi",
+      "anahtar": "k1",
+      "iddia": "1785'te iktidarı alan hanedan bu soydan gelmiyordu.",
+      "durum": "OK",
+      "turetilen": "1785",
+      "kaynak_alan": "encyclopedia.com",
       "deger_dagilimi": {
         "dogrulandi": 1,
         "celisti": 0,
-        "olculemedi": 1
+        "olculemedi": 0
       },
-      "not": "1 deger dogrulandi, 1 deger bagimsiz kaynakta yok (olculemedi)"
+      "not": "bagimsiz dogrulama: encyclopedia.com"
     },
     {
       "no": 16,
-      "makale": "veri-dogurganlik-hizi-1950-2023",
-      "durum": "TURETILEMEDI",
-      "not": "\"Veri kümesinde 1950'den önce gözlem bulunmaz\" iddiası, o sağlayıcının dosyasının iç yapısına dairdir; başka bir alan adından türetilemez. Türetilemedi (tanım g"
+      "makale": "kavram-kamusal-alan",
+      "anahtar": "k2",
+      "iddia": "Hannah Arendt için tutulan kayıt, onu 1906-1975 arasında yaşamış ve yirminci yüzyılın en etkili siyaset filozoflarından ",
+      "durum": "OK",
+      "turetilen": "1906 1975",
+      "kaynak_alan": "iep.utm.edu",
+      "deger_dagilimi": {
+        "dogrulandi": 2,
+        "celisti": 0,
+        "olculemedi": 0
+      },
+      "not": "bagimsiz dogrulama: iep.utm.edu"
     },
     {
       "no": 17,
+      "makale": "veri-dogurganlik-hizi-1950-2023",
+      "durum": "TURETILEMEDI",
+      "not": "\"Veri kümesinde dünya toplamı için 1950'den önce gözlem bulunmaz\" iddiası, o sağlayıcının dosyasının iç yapısına dairdir; başka bir alan adından türetilemez. Tü"
+    },
+    {
+      "no": 18,
       "makale": "veri-yasam-beklentisi-1770-2023",
       "durum": "TURETILEMEDI",
       "not": "\"1770, 1800 ve 1820 art arda üç gözlemdir\" iddiası, o sağlayıcının dosyasının iç yapısına dairdir; başka bir alan adından türetilemez. Türetilemedi (tanım gereğ"
     },
     {
-      "no": 18,
+      "no": 19,
       "makale": "tartisma-iklim-ve-cokus",
       "anahtar": "k3",
       "iddia": "İkincisi için tutulan kayıt, 1984'te 210 farklı kuramın sayıldığını yazar.",
       "durum": "OK",
       "turetilen": "1984",
+      "kaynak_alan": "courses.washington.edu",
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 0
+      },
+      "not": "bagimsiz dogrulama: courses.washington.edu"
+    },
+    {
+      "no": 20,
+      "makale": "veri-internet-kullanimi",
+      "durum": "TURETILEMEDI",
+      "not": "\"Dünya toplamı için ilk gözlem 2005 yılına aittir\" iddiası, o sağlayıcının dosyasının iç yapısına dairdir; başka bir alan adından türetilemez. Türetilemedi (tan"
+    },
+    {
+      "no": 21,
+      "makale": "olay-ingiliz-ic-savasi",
+      "anahtar": "k1",
+      "iddia": "Adalardaki üç savaş dizisi ile kıtadaki 1635–1648 evresinin örtüşmesi, 17.",
+      "durum": "OK",
+      "turetilen": "1635 1648",
+      "kaynak_alan": "en.wikisource.org",
+      "deger_dagilimi": {
+        "dogrulandi": 2,
+        "celisti": 0,
+        "olculemedi": 0
+      },
+      "not": "bagimsiz dogrulama: en.wikisource.org"
+    },
+    {
+      "no": 22,
+      "makale": "aktor-mali-imparatorlugu",
+      "durum": "TURETILEMEDI",
+      "not": "1500 yılı için 400.000 km2'lik Mali alanı, kaynak veri tablosunun (Taagepera tipi alan serisi) kendi iç değeridir; bağımsız kaynaklar yalnız zirve dönem için 1,"
+    },
+    {
+      "no": 23,
+      "makale": "dusunur-marx",
+      "anahtar": "k1",
+      "iddia": "Kaynak onu 1818-1883 arasında yaşamış ve sıklıkla filozoftan çok eylemci, eserleri komünist rejimlerin kuruluşuna ilham ",
+      "durum": "OK",
+      "turetilen": "1818 1883",
+      "kaynak_alan": "openlibrary.org",
+      "deger_dagilimi": {
+        "dogrulandi": 2,
+        "celisti": 0,
+        "olculemedi": 0
+      },
+      "not": "bagimsiz dogrulama: openlibrary.org"
+    },
+    {
+      "no": 24,
+      "makale": "aktor-khmer-imparatorlugu",
+      "anahtar": "k1",
+      "iddia": "Kaynağın çöküş nedenleri arasında salgını sayması, aynı yüzyıllarda başka kıtalarda da kaydedilen bir olguyla örtüşür: 1",
+      "durum": "OK",
+      "turetilen": "1346 1353",
+      "kaynak_alan": "openlibrary.org",
+      "deger_dagilimi": {
+        "dogrulandi": 2,
+        "celisti": 0,
+        "olculemedi": 0
+      },
+      "not": "bagimsiz dogrulama: openlibrary.org"
+    },
+    {
+      "no": 25,
+      "makale": "olay-2008-finansal-krizi",
+      "anahtar": "k1",
+      "iddia": "Krizin bir noktası sayıyla verilir: bir gösterge bir yıl boyunca yükseldikten sonra Eylül 2008'de daha da sıçradı ve 10 ",
+      "durum": "OK",
+      "turetilen": "2008",
+      "kaynak_alan": "cfr.org",
+      "deger_dagilimi": {
+        "dogrulandi": 1,
+        "celisti": 0,
+        "olculemedi": 0
+      },
+      "not": "bagimsiz dogrulama: cfr.org"
+    },
+    {
+      "no": 26,
+      "makale": "tartisma-tarim-devrimi-ilerleme-mi",
+      "anahtar": "k2",
+      "iddia": "Childe terimi 1936 tarihli Man Makes Himself adlı kitabında ortaya attı ve Orta Doğu tarihindeki bir dizi tarımsal devri",
+      "durum": "OK",
+      "turetilen": "1936",
       "kaynak_alan": "openlibrary.org",
       "deger_dagilimi": {
         "dogrulandi": 1,
@@ -405,25 +648,55 @@
       "not": "bagimsiz dogrulama: openlibrary.org"
     },
     {
-      "no": 19,
-      "makale": "veri-internet-kullanimi",
-      "durum": "TURETILEMEDI",
-      "not": "\"İlk gözlem 2005 yılına aittir\" iddiası, o sağlayıcının dosyasının iç yapısına dairdir; başka bir alan adından türetilemez. Türetilemedi (tanım gereği)."
-    },
-    {
-      "no": 20,
-      "makale": "olay-ingiliz-ic-savasi",
+      "no": 27,
+      "makale": "tartisma-hacli-seferlerinin-nedeni",
       "anahtar": "k1",
-      "iddia": "Adalardaki üç savaş dizisi ile kıtadaki 1635–1648 evresinin örtüşmesi, 17.",
-      "durum": "KISMI",
-      "turetilen": "1635",
+      "iddia": "Kaynağın dönüm noktası olarak andığı kişi için tutulan kayıt, onu Eyyûbî hanedanının kurucusu ve Mısır ile Suriye'nin il",
+      "durum": "OK",
+      "turetilen": "1187",
       "kaynak_alan": "en.wikisource.org",
       "deger_dagilimi": {
         "dogrulandi": 1,
         "celisti": 0,
-        "olculemedi": 1
+        "olculemedi": 0
       },
-      "not": "1 deger dogrulandi, 1 deger bagimsiz kaynakta yok (olculemedi)"
+      "not": "bagimsiz dogrulama: en.wikisource.org"
+    },
+    {
+      "no": 28,
+      "makale": "kavram-burokrasi",
+      "anahtar": "k2",
+      "iddia": "Bunlardan biri için tutulan ayrı kayıt, o düşünürü 1818-1883 arasına yerleştirir.",
+      "durum": "OK",
+      "turetilen": "1818 1883",
+      "kaynak_alan": "openlibrary.org",
+      "deger_dagilimi": {
+        "dogrulandi": 2,
+        "celisti": 0,
+        "olculemedi": 0
+      },
+      "not": "bagimsiz dogrulama: openlibrary.org"
+    },
+    {
+      "no": 29,
+      "makale": "tartisma-nufus-artisi-tehdit-mi",
+      "durum": "TURETILEMEDI",
+      "not": "Buğday veriminin 1961 (1,0889001 t/ha) ve 2024 (3,6374002 t/ha) değerleri sağlayıcının kendi serisine ait ondalıklı iç ölçümlerdir; bağımsız alan adlarında aynı"
+    },
+    {
+      "no": 30,
+      "makale": "kaynak-carr-tarih-nedir",
+      "anahtar": "k1",
+      "iddia": "Kaynak, yazarı 28 Haziran 1892'de Londra'da doğmuş, 3 Kasım 1982'de Londra'da ölmüş biri olarak kaydeder ve mesleğini ta",
+      "durum": "OK",
+      "turetilen": "1892 1982",
+      "kaynak_alan": "doinghistoryinpublic.org",
+      "deger_dagilimi": {
+        "dogrulandi": 2,
+        "celisti": 0,
+        "olculemedi": 0
+      },
+      "not": "bagimsiz dogrulama: doinghistoryinpublic.org"
     }
   ]
 }

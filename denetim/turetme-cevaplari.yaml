@@ -8,173 +8,288 @@
 # durum_notu: türetilemeyen iddialar için gerekçe. Bunlar "doğrulandı"
 # sayılmaz; orandan da düşülmez, ayrıca raporlanır (§16 şeffaflık şartı).
 #
-# ÖNEMLİ — bu tur (359 makalelik korpus, Faz 5 kapanış turu) örnekleyicinin
-# düzeltilmesinden SONRA alınmıştır. Önceki turlarda makale sırası alfabetikti;
-# 20'lik bir örnek hiçbir zaman ilk turu aşamadığı için örneğin tamamı
-# `aktor-` dosyalarından geliyordu. Sıralama tohumlandı; bu örnek yedi tipe
-# yayılıyor (aktor, olay, veri, dusunur, kavram, kaynak, tartisma).
-# bkz. plan/faz-notlari.md
+# ÖNEMLİ — bu tur 505 makalelik korpus üzerinde alınmıştır (2026-08-28).
+# Örnek 30 soruluk ve yedi tipe yayılıyor (aktor, olay, veri, dusunur,
+# kavram, kaynak, tartisma). bkz. plan/faz-notlari.md
 #
 # Kullanılan bağımsız alan adları:
 #   - en.wikisource.org — 1911 Encyclopædia Britannica tam metni (kamu malı).
 #     UYARI: 1911 kronolojisi MÖ tarihlerinde ve 1911 sonrası olaylarda
 #     kullanılamaz.
 #   - iep.utm.edu — Internet Encyclopedia of Philosophy (hakemli).
-#   - avalon.law.yale.edu — Avalon Project (Yale), belge tam metinleri.
-#   - openlibrary.org — bibliyografik katalog, yayın yılı türetmesi için.
+#   - openlibrary.org — bibliyografik katalog (yayın yılı ve yazar
+#     doğum/ölüm tarihleri, düz JSON).
+#   - encyclopedia.com — lisanslı ansiklopedi içerikleri.
+#   - cfr.org — Council on Foreign Relations arka plan/zaman çizelgesi.
+#   - afe.easia.columbia.edu — Columbia Üniversitesi Asia for Educators.
+#   - courses.washington.edu — Washington Üniversitesi ders sayfası
+#     (Demandt 1984 listesinin tam dökümü).
+#   - openstax.org — hakemli açık ders kitabı (World History Vol. 1).
+#   - hegel.net — Hegel biyografi arşivi.
+#   - marxists.org — Marksist İnternet Arşivi sözlüğü (yalnız bloke
+#     olmadığı sorularda).
+#   - online.norwich.edu — Norwich Üniversitesi kaynak kitaplığı.
+#   - abjol.org.et — Abyssinia Journal of Business and Social Sciences
+#     (hakemli makale özeti).
+#   - doinghistoryinpublic.org — tarihçilerin yürüttüğü kamu tarihi blogu.
 #
 # Veri kümesinin kendi iç yapısına dair iddialar (bir serinin ilk gözlem yılı,
-# bir dosyada kaç satır olduğu) tanımı gereği başka bir alan adından
-# türetilemez: bunlar o sağlayıcının dosyasına ait olgulardır. Bu tür sorular
-# türetilemedi olarak işaretlendi; §16'nın şeffaflık şartı gereği sayıları
-# raporda ayrıca verilir.
+# sağlayıcının toplam satırındaki ondalıklı değerler) tanımı gereği başka bir
+# alan adından türetilemez: bunlar o sağlayıcının dosyasına ait olgulardır.
+# Bu tür sorular türetilemedi olarak işaretlendi; §16'nın şeffaflık şartı
+# gereği sayıları raporda ayrıca verilir.
 
-zaman: 2026-08-21
+zaman: 2026-08-28
 protokol: GECIS-4
 
 cevaplar:
   - no: 1
-    turetilen_deger: null
+    turetilen_deger: "1589"
+    kaynak_url: https://abjol.org.et/index.php/ajbs/article/view/702
     durum_notu: >-
-      1911 EB "Abyssinia" maddesinde 1589 yılı da Sarsa Dengel adı da (ve
-      Malak Sagad varyantı da) bulunamadı. Türetilemedi.
+      Abyssinia Journal'daki hakemli makalenin özeti, Çewa birliklerinin
+      Osmanlı ordusunu Debarwa'da 1589'da püskürttüğünü yazıyor; Sarsa
+      Dengel'in 1589 zaferi bağımsız olarak doğrulandı. Arkiko yağması bu
+      sayfada yıl ile birlikte anılmıyor (bir başka bağımsız sayfa yağmayı
+      "1588'i izleyen yıl" diye veriyor); yıl doğrulandı, yağma ayrıntısı
+      kısmi.
 
   - no: 2
     turetilen_deger: null
     durum_notu: >-
-      Nüfus artış hızının 1950 ve 2023 değerleri sağlayıcının kendi serisine
-      ait ölçümlerdir; bağımsız alan adlarında aynı ondalıklı değerler
-      bulunamadı. Türetilemedi.
+      Nüfus artış hızının 1950 (yüzde 1,738) ve 2023 (yüzde 0,871)
+      değerleri sağlayıcının toplam satırına ait iç ölçümlerdir; bağımsız
+      alan adlarında aynı seri değerleri bulunamadı. Türetilemedi
+      (tanım gereği).
 
   - no: 3
-    turetilen_deger: "1906"
-    kaynak_url: https://iep.utm.edu/arendt/
-    not: >-
-      Internet Encyclopedia of Philosophy maddesi başlığında Hannah Arendt'i
-      1906—1975 olarak veriyor ve onu yirminci yüzyıl siyaset filozofu olarak
-      tanımlıyor. Her iki yıl da bağımsız olarak doğrulandı.
+    turetilen_deger: "1906 1975"
+    kaynak_url: https://iep.utm.edu/hannah-arendt/
+    durum_notu: >-
+      Internet Encyclopedia of Philosophy maddesi Arendt'i "Hannah Arendt
+      (1906—1975)" olarak veriyor, yirminci yüzyıl siyaset filozofu diye
+      tanımlıyor ve seküler bir Yahudi ailenin tek çocuğu olarak Almanya'da
+      doğduğunu yazıyor. Her iki yıl da bağımsız olarak doğrulandı.
 
   - no: 4
-    turetilen_deger: null
+    turetilen_deger: "1917"
+    kaynak_url: https://www.marxists.org/glossary/people/t/r.htm
     durum_notu: >-
-      7 Kasım 1917 tarihi ve Troçki'nin komuta listesi için Marksist İnternet
-      Arşivi'nin dizin sayfalarında doğrudan eşleşme bulunamadı. Türetilemedi.
+      Marksist İnternet Arşivi sözlüğünün Troçki maddesi, 1917'de Bolşevik
+      Parti'ye katıldığını ve hemen ardından Ekim Devrimi'nin örgütlenmesine
+      yardım ettiğini yazıyor. Yıl bağımsız olarak doğrulandı; 7 Kasım günü
+      bu sayfada geçmiyor (kısmi).
 
   - no: 5
-    turetilen_deger: "1947"
-    kaynak_url: https://avalon.law.yale.edu/20th_century/trudoc.asp
-    not: >-
-      Avalon Project, Truman Doktrini konuşmasını 12 Mart 1947 tarihiyle tam
-      metin olarak tutuyor; başlangıç yılı bağımsız olarak doğrulandı. 1991
-      bitiş yılı için bu koleksiyonda karşılık bulunamadı; kısmi doğrulama.
+    turetilen_deger: "1947 1991"
+    kaynak_url: https://online.norwich.edu/online/about/resource-library/5-key-cold-war-events
+    durum_notu: >-
+      Norwich Üniversitesi kaynak sayfası Soğuk Savaş'ı "between 1947 and
+      1991" diye tarihliyor ve 1991'de Sovyetler Birliği'nin dağılmasıyla
+      bittiğini yazıyor. Her iki yıl da bağımsız olarak doğrulandı.
 
   - no: 6
     turetilen_deger: null
     durum_notu: >-
-      2025 için kentli nüfus payı sağlayıcının kendi serisine ait bir ölçümdür;
-      bağımsız alan adlarında aynı değer bulunamadı. Türetilemedi.
+      2025 için yüzde 57,8335'lik kentli nüfus payı sağlayıcının kendi
+      serisine ait bir ölçümdür; bağımsız alan adlarında aynı değer
+      bulunamadı. Türetilemedi (tanım gereği).
 
   - no: 7
     turetilen_deger: "1864"
-    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/China
-    not: >-
-      1911 EB "China" maddesi, Temmuz 1864'te imparatorluk kuvvetlerinin
-      Nanking'i yeniden ele geçirdiğini ve Tʽien Wang'ın başkentin düşüşü
-      üzerine intihar ettiğini yazıyor. Bağımsız olarak doğrulandı.
+    kaynak_url: https://www.encyclopedia.com/history/asia-and-africa/chinese-and-taiwanese-history/taiping-rebellion
+    durum_notu: >-
+      Encyclopedia.com Taiping maddesi, 1864 yazında Zeng'in Hunan ordusunun
+      Nanjing'i ele geçirdiğini ve bunun isyanın sonunu işaretlediğini
+      yazıyor. Bağımsız olarak doğrulandı.
 
   - no: 8
-    turetilen_deger: "1644"
-    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/China
-    not: >-
-      Aynı madde hanedanın 1644'te kurulduğunu ve Ta-tsʽing adının o yıl
-      alındığını yazıyor. 1912 bitiş yılı 1911 EB'nin yayın tarihinden sonra
-      olduğu için bu kaynaktan türetilemez; kısmi doğrulama.
+    turetilen_deger: "1644 1912"
+    kaynak_url: http://afe.easia.columbia.edu/timelines/china_timeline.htm
+    durum_notu: >-
+      Columbia Üniversitesi Asia for Educators zaman çizelgesi Qing (Ch'ing)
+      hanedanını 1644-1912 olarak listeliyor. Her iki yıl da bağımsız olarak
+      doğrulandı.
 
   - no: 9
-    turetilen_deger: "1808"
-    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hegel,_Georg_Wilhelm_Friedrich
-    not: >-
-      1911 EB "Hegel" maddesi, Bamberger Zeitung editörlüğünü 1807-1808 arasına
-      ve Nürnberg'deki rektörlüğü Aralık 1808 - Ağustos 1816 arasına
-      yerleştiriyor. 1808 bağımsız olarak doğrulandı; 1815 için maddede
-      doğrudan bir karşılık kurulamadı; kısmi doğrulama.
+    turetilen_deger: "1808 1815"
+    kaynak_url: https://hegel.net/en/hegelbio.htm
+    durum_notu: >-
+      hegel.net biyografisi Bamberger Zeitung editörlüğünü 1807-1808'e,
+      Nürnberg rektörlüğünün başlangıcını Aralık 1808'e koyuyor ve
+      Napolyon'un 14 Ekim 1806'da Jena'ya girişini anlatıyor; 1815 sayfada
+      Württemberg meclisi yazısı (1815-1816) bağlamında geçiyor. 1808 doğrudan
+      doğrulandı; sorudaki cümle kesik olduğundan 1815'in makaledeki bağlamı
+      birebir eşleştirilemedi (aynı kaynak rektörlüğün bitişini 1816 verir);
+      kısmi doğrulama.
 
   - no: 10
-    turetilen_deger: null
+    turetilen_deger: "2026"
+    kaynak_url: https://www.cfr.org/backgrounders/paris-global-climate-change-agreements
     durum_notu: >-
-      Ocak 2026 itibarıyla katılım tablosu, bağımsız alan adlarında karşılığı
-      olmayan güncel bir durumdur. Türetilemedi.
+      CFR arka plan yazısı, ABD'nin çekilmesinin 27 Ocak 2026'da yürürlüğe
+      girdiğini ve anlaşmaya taraf 194 ülke kaldığını yazıyor; hem 2026 hem
+      194 sayfada düz metin olarak var. Bağımsız olarak doğrulandı.
 
   - no: 11
-    turetilen_deger: null
+    turetilen_deger: "1800"
+    kaynak_url: https://openstax.org/books/world-history-volume-1/pages/4-1-from-old-babylon-to-the-medes
     durum_notu: >-
-      MÖ 1800 dolaylarındaki Hammurabi tarihlemesi için 1911 EB kullanılamaz:
-      1911 kronolojisi MÖ tarihlerde aşılmıştır (bu dosyanın başındaki uyarı).
-      Türetilemedi.
+      OpenStax World History ders kitabı, MÖ 1800 dolaylarını Babil'in
+      yükseliş anlatısında eşik olarak kullanıyor ("by about 1800 BCE...")
+      ve hemen ardından Hammurabi dönemindeki genişlemeyi anlatıyor.
+      "MÖ 1800 dolayları" çerçevesi bağımsız olarak doğrulandı.
 
   - no: 12
     turetilen_deger: "1859"
-    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Italy
-    not: >-
-      1911 EB "Italy" maddesi 1849-1859 arasını decennio della resistenza olarak
-      adlandırıyor ve 1 Ocak 1859'da Napolyon'un diplomatik dünyayı şaşırtan
-      açıklamasını kaydediyor. Bağımsız olarak doğrulandı.
+    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Garibaldi,_Giuseppe
+    durum_notu: >-
+      1911 EB "Garibaldi" maddesi, 1859'da savaş çıktığında Garibaldi'nin
+      Alp birliklerinin komutasına verildiğini yazıyor (Avusturya'ya karşı
+      savaş = İkinci İtalyan Bağımsızlık Savaşı). Bağımsız olarak doğrulandı.
 
   - no: 13
     turetilen_deger: null
     durum_notu: >-
-      1990'lardaki Abydos kazısı 1911 EB kapsamının dışında; Avalon belge
-      koleksiyonunda da karşılığı yok. Türetilemedi.
+      Bağımsız kaynak (the-past.com, U-j mezarı kısa makalesi) mezarın
+      1988'de bulunduğunu ve buluntuların 1998'de yayımlandığını yazıyor;
+      "1990'larda bulundu" ifadesini düz metin olarak veren güvenilir
+      bağımsız sayfa bulunamadı. Türetilemedi; bağımsız kaynağın verdiği
+      keşif yılı çelişki olarak kaydedildi.
+    celisen_degerler: ["1988"]
 
   - no: 14
     turetilen_deger: null
     durum_notu: >-
-      Kentleşme oranının 1950 ve 2025 değerleri sağlayıcının kendi serisine ait
-      ölçümlerdir; bağımsız alan adlarında aynı değerler bulunamadı.
-      Türetilemedi.
+      Kentleşme oranının 1950 (yüzde 28,80) ve 2025 (yüzde 57,83) değerleri
+      sağlayıcının kendi serisine ait ölçümlerdir; bağımsız alan adlarında
+      aynı değerler bulunamadı. Türetilemedi (tanım gereği).
 
   - no: 15
-    turetilen_deger: "1906"
-    kaynak_url: https://iep.utm.edu/arendt/
-    not: >-
-      Aynı IEP maddesi Arendt'i 1906-1975 arasına yerleştiriyor ve Hannover'de
-      seküler bir Yahudi ailenin tek çocuğu olarak doğduğunu yazıyor. Bağımsız
-      olarak doğrulandı.
+    turetilen_deger: "1785"
+    kaynak_url: https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/bukhara-khanate-and-emirate
+    durum_notu: >-
+      Encyclopedia.com "Bukhara, Khanate and Emirate of" maddesi, Şah
+      Murad'ın (1785-1800) hanlığı kaldırıp emir unvanıyla yönettiğini
+      yazıyor; Mangıt hanedanının 1785'te iktidarı alması bağımsız olarak
+      doğrulandı.
 
   - no: 16
-    turetilen_deger: null
+    turetilen_deger: "1906 1975"
+    kaynak_url: https://iep.utm.edu/hannah-arendt/
     durum_notu: >-
-      "Veri kümesinde 1950'den önce gözlem bulunmaz" iddiası, o sağlayıcının
-      dosyasının iç yapısına dairdir; başka bir alan adından türetilemez.
-      Türetilemedi (tanım gereği).
+      IEP maddesi Arendt'i 1906-1975 arasına yerleştiriyor ve yirminci
+      yüzyıl siyaset filozofu olarak tanımlıyor. Her iki yıl da bağımsız
+      olarak doğrulandı.
 
   - no: 17
+    turetilen_deger: null
+    durum_notu: >-
+      "Veri kümesinde dünya toplamı için 1950'den önce gözlem bulunmaz"
+      iddiası, o sağlayıcının dosyasının iç yapısına dairdir; başka bir alan
+      adından türetilemez. Türetilemedi (tanım gereği).
+
+  - no: 18
     turetilen_deger: null
     durum_notu: >-
       "1770, 1800 ve 1820 art arda üç gözlemdir" iddiası, o sağlayıcının
       dosyasının iç yapısına dairdir; başka bir alan adından türetilemez.
       Türetilemedi (tanım gereği).
 
-  - no: 18
-    turetilen_deger: "1984"
-    kaynak_url: https://openlibrary.org/search.json?q=Der+Fall+Roms+Demandt
-    not: >-
-      OpenLibrary kataloğu, Alexander Demandt'ın "Der Fall Roms" adlı eserini
-      first_publish_year 1984 ile kaydediyor. 210 kuram sayısı katalogdan
-      türetilemez; yıl bağımsız olarak doğrulandı.
-
   - no: 19
-    turetilen_deger: null
+    turetilen_deger: "1984"
+    kaynak_url: https://courses.washington.edu/rome250/gallery/ROME%20250/210%20Reasons.htm
     durum_notu: >-
-      "İlk gözlem 2005 yılına aittir" iddiası, o sağlayıcının dosyasının iç
-      yapısına dairdir; başka bir alan adından türetilemez. Türetilemedi
-      (tanım gereği).
+      Washington Üniversitesi ders sayfası "210 Reasons for decline of Roman
+      Empire — Source: A. Demandt, Der Fall Roms (1984)" başlığıyla 210
+      kuramlık listeyi veriyor; hem 1984 hem 210 sayfada düz metin olarak
+      var. Bağımsız olarak doğrulandı.
 
   - no: 20
-    turetilen_deger: "1635"
+    turetilen_deger: null
+    durum_notu: >-
+      "Dünya toplamı için ilk gözlem 2005 yılına aittir" iddiası, o
+      sağlayıcının dosyasının iç yapısına dairdir; başka bir alan adından
+      türetilemez. Türetilemedi (tanım gereği).
+
+  - no: 21
+    turetilen_deger: "1635 1648"
     kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Thirty_Years%27_War
-    not: >-
-      1911 EB "Thirty Years' War" maddesi savaşı 1618-1648 arasına
-      yerleştiriyor ve Fransa'nın 1635'te İspanya'ya savaş ilan ettiğini,
-      Prag Barışı'nın 20/30 Mayıs 1635'te imzalandığını yazıyor. Her iki yıl da
-      bağımsız olarak doğrulandı.
+    durum_notu: >-
+      1911 EB "Thirty Years' War" maddesi Fransa'nın 1635'te İspanya'ya
+      savaş ilanını ve 1648 seferi ile Vestfalya barışını veriyor; kıtadaki
+      1635-1648 evresi bağımsız olarak doğrulandı.
+
+  - no: 22
+    turetilen_deger: null
+    durum_notu: >-
+      1500 yılı için 400.000 km2'lik Mali alanı, kaynak veri tablosunun
+      (Taagepera tipi alan serisi) kendi iç değeridir; bağımsız kaynaklar
+      yalnız zirve dönem için 1,1-1,24 milyon km2 veriyor, 1500 yılına
+      bağlanmış bir alan değeri bulunamadı. Türetilemedi.
+
+  - no: 23
+    turetilen_deger: "1818 1883"
+    kaynak_url: https://openlibrary.org/search/authors.json?q=karl%20marx
+    durum_notu: >-
+      OpenLibrary yazar kataloğu Karl Marx için birth_date "5 May 1818" ve
+      death_date "14 March 1883" veriyor (düz JSON). Her iki yıl da bağımsız
+      olarak doğrulandı.
+
+  - no: 24
+    turetilen_deger: "1346 1353"
+    kaynak_url: https://openlibrary.org/search.json?q=benedictow+black+death&fields=title,author_name,first_publish_year&limit=5
+    durum_notu: >-
+      OpenLibrary kataloğu Ole Benedictow'un standart monografisini
+      "The Black Death 1346-1353: The Complete History" başlığıyla
+      listeliyor; pandemi aralığı 1346-1353 bağımsız olarak doğrulandı.
+
+  - no: 25
+    turetilen_deger: "2008"
+    kaynak_url: https://www.cfr.org/timeline/us-financial-crisis
+    durum_notu: >-
+      CFR'nin ABD finansal krizi zaman çizelgesi Eylül-Ekim 2008 olaylarını
+      (Lehman Brothers iflası, 15 Eylül 2008 vb.) veriyor; kriz yılı 2008
+      bağımsız olarak doğrulandı. Yüzde 4,65'lik gösterge değeri bu sayfada
+      yer almıyor (sorunun işaretli değeri yalnız 2008).
+
+  - no: 26
+    turetilen_deger: "1936"
+    kaynak_url: https://openlibrary.org/search.json?q=man+makes+himself+childe&fields=title,author_name,first_publish_year&limit=5
+    durum_notu: >-
+      OpenLibrary kataloğu V. Gordon Childe'ın "Man Makes Himself" eserini
+      first_publish_year 1936 ile kaydediyor (düz JSON). Bağımsız olarak
+      doğrulandı.
+
+  - no: 27
+    turetilen_deger: "1187"
+    kaynak_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Saladin
+    durum_notu: >-
+      1911 EB "Saladin" maddesi onu Mısır'ın ilk Eyyûbî sultanı olarak
+      tanımlıyor ve 1187'de birleşik Hristiyan ordusunu Hittin'de ezici bir
+      yenilgiye uğrattığını yazıyor. Bağımsız olarak doğrulandı.
+
+  - no: 28
+    turetilen_deger: "1818 1883"
+    kaynak_url: https://openlibrary.org/search/authors.json?q=karl%20marx
+    durum_notu: >-
+      OpenLibrary yazar kataloğu Marx'ı 5 Mayıs 1818 - 14 Mart 1883 olarak
+      veriyor (düz JSON). Her iki yıl da bağımsız olarak doğrulandı.
+
+  - no: 29
+    turetilen_deger: null
+    durum_notu: >-
+      Buğday veriminin 1961 (1,0889001 t/ha) ve 2024 (3,6374002 t/ha)
+      değerleri sağlayıcının kendi serisine ait ondalıklı iç ölçümlerdir;
+      bağımsız alan adlarında aynı değerler bulunamadı. Türetilemedi
+      (tanım gereği).
+
+  - no: 30
+    turetilen_deger: "1892 1982"
+    kaynak_url: https://doinghistoryinpublic.org/2025/05/12/historian-highlight-edward-hallett-carr-1892-1982/
+    durum_notu: >-
+      Tarihçilerin yürüttüğü Doing History in Public sitesindeki portre
+      yazısı başlığında Carr'ı "Edward Hallett Carr (1892-1982)" olarak
+      veriyor ve diplomat/uluslararası ilişkiler yönlerini anlatıyor. Yıllar
+      bağımsız olarak doğrulandı; gün-ay ayrıntısı (28 Haziran / 3 Kasım)
+      bu sayfada yok (kısmi).
