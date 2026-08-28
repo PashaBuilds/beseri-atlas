@@ -28,6 +28,7 @@ ilgili:
   - aktor-safevi-devleti
   - aktor-songhay-imparatorlugu
   - olay-meksika-fethi
+  - dusunur-las-casas
   - tartisma-osmanli-gerileme-tezi
   - tartisma-kesif-mi-istila-mi
   - tartisma-vestfalya-miti

@@ -6,7 +6,7 @@ ozet: >-
   Kendi katıldığı düzeni içeriden ayrıntılandırarak eleştiren rahip;
   atlasta bir eleştiri metninin rakip güçlerin elinde silaha dönüşmesinin
   de örneği.
-donem: "10"
+donem: "09"
 tarih_baslangic: "1484"
 tarih_bitis: "1566"
 bolge: [amerika, avrupa]
@@ -14,7 +14,7 @@ eksen: [dini, siyasi, ekonomik, felsefi, demografik]
 etiketler: [las-casas, encomienda, valladolid, ispanyol-imparatorlugu, taniklik]
 guven_geneli: yaygin
 ilgili:
-  - donem-10
+  - donem-09
   - aktor-ispanyol-imparatorlugu
   - kavram-zorunlu-emek-duzeni
   - kaynak-guaman-poma-nueva-coronica

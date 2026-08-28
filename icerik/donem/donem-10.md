@@ -37,7 +37,6 @@ ilgili:
   - olay-tupac-amaru-ayaklanmasi-1780
   - aktor-komance
   - dusunur-katib-celebi
-  - dusunur-las-casas
   - kavram-zorunlu-emek-duzeni
   - aktor-portekiz-imparatorlugu
   - aktor-ryukyu-kralligi

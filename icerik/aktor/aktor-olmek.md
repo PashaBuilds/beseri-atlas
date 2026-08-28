@@ -82,10 +82,10 @@ Karşı görüş, aynı unsurların bölgenin birden çok yerinde eşzamanlı
 geliştiğini savunur.[^k1] Bu okumada düzen, komşularının kaynağı değil
 onlarla alışveriş içindeki eşitlerinden biridir.
 
-::tartismali[Olmek düzeninin sonraki Orta Amerika uygarlıklarının kaynağı mı
-yoksa onlarla eşzamanlı gelişen bir bileşeni mi olduğu tartışmalıdır;
+Olmek düzeninin sonraki Orta Amerika uygarlıklarının kaynağı mı yoksa
+onlarla eşzamanlı gelişen bir bileşeni mi olduğu açık bir tartışmadır;[^k1]
 tarihlendirme kanıtları iki okumaya da açıktır ve seçim, bölgenin bütün
-tarihinin nasıl anlatılacağını belirler.]{harita=tartisma-buyuk-adam-kurami}
+tarihinin nasıl anlatılacağını belirler.
 
 ## Tartışmanın neden kapanmadığı
 
@@ -196,6 +196,8 @@ Merkezlerin terk edilmesi, kaynaklarda kademeli olarak anlatılır.[^k1] Bir
 merkez sönerken başka bir merkez büyümüştür.
 
 Bu, tek bir çöküş olayı yerine bir ağırlık kayması anlamına gelir.[^k2]
+
+::tartismali[Merkezlerin terk edilmesinde çevresel değişimin payı, iklimin çöküşlerdeki genel rolü tartışmasının bir örneğidir; kanıt türü kesin bir yanıta izin vermez.]{harita=tartisma-iklim-ve-cokus}
 Düzenin sona ermesi ile merkezinin değişmesi ayrı şeylerdir.
 
 Atlas bu ayrımı korur.[^k3] Bir kültürel geleneğin sürmesi ile onu taşıyan

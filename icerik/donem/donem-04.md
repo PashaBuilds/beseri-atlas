@@ -734,7 +734,7 @@ figürlerin dışarıda bırakılması.[^k1] Buna karşılık, insanlık kültü
 böyle bir geçiş olduğu ve bu dönemin Eksen Çağı diye adlandırılabileceği görüşünün
 evrensel olmasa da yaygın biçimde kabul gördüğü belirtilir.[^k1]
 
-::tartismali[Eksen Çağı'nın gerçek bir tarihsel olgu mu yoksa sonradan kurulmuş bir çerçeve mi olduğu açık bir tartışmadır; bu dosya taraf tutmaz.]{harita=tartisma-bati-neden-yukseldi}
+::tartismali[Eksen Çağı'nın gerçek bir tarihsel olgu mu yoksa sonradan kurulmuş bir çerçeve mi olduğu açık bir tartışmadır; bu dosya taraf tutmaz.]{harita=tartisma-eksen-cagi-gercek-mi}
 
 Dönemin sonunda kurulan evrensellik iddialı düşünsel çerçeveler,[^k1] sonraki
 dönemin din temelli imparatorluk düzenlerinin zeminini oluşturacaktır; o dönem
