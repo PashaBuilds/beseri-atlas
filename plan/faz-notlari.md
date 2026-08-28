@@ -4440,3 +4440,44 @@ token eder. Bu, kalan bütçenin çok üzerinde.
 Karar: onarımı tamamlamak, sonra kalan bütçeyle yeni makale yazmaya
 devam etmek. Her dosyası kendi standardını karşılayan 600-700 makalelik
 bir atlas, yarısı boş 1000 makalelik bir atlastan daha iyi bir teslim.
+
+## 2026-08-28 — Ultracode Faz 0-1 kapanışı, Faz 2 pilot başlangıcı
+
+- Faz 0: 16 rollü keşif dalgası tamamlandı (0 hata, ~1,83M jeton).
+  Sentez: plan/2026-08-28-karar-tablosu.md (6 karar, plan, sahiplik, risk).
+- Kanonik tanımlar donduruldu (K6): kelimeSay + birincilSayilirMi.
+  İlk fotoğraftaki "iki kelime tanımı" notu yanlış alarmdı (uzunluk.mjs
+  zaten kelimeSay kullanıyor); sapan benim ham ölçümümdü.
+- Hat C: 146 raporsuz makaleye Geçiş 2+3 koşuldu → 505/505 raporlu.
+  zsh dersi: alıntısız $DEGISKEN kelime bölmez — xargs kullan.
+- ATOMSUZ görünürlüğü: denetle.mjs 4 sayaç; korpus gerçeği %84 ölçülmemiş.
+  10 gizli HATA çıktı ve onarıldı (Tang->Beytülhikme, Herodot->Çin
+  kronolojisi, Procopius->Kara Ölüm, arama-API kitap künyesi vb.).
+  Tang için kalıcı desen: archive.org `_djvu.txt` TAM METİN künyesi
+  (Li Ung Bing 1914) — details sayfası atom taşımaz, tam metin taşır.
+- Sahte pozitif dersi: alt-dize eşleşmesi tablo rakamına (22,618,000
+  içindeki 618) ve bibliyografyaya (kitap altbaşlığındaki 618-745)
+  takılıyor; kanonik doğrulama bağlam ister — hakem katmanı şart.
+- KAPI 18 (dil borcu): 4 kalıp, borç defteri yalnız aşağı yazılır;
+  487/505 dosya kayıtlı. Fikstür dersi: test, gerçek defter dosyasının
+  üstüne yazmasın — saf hesap (dilTabanHesapla) ayrıldı.
+- KAPI 19 (sayısal doğrulama): OWID World serisi yerel anlık görüntüye
+  alındı (dunya-nufusu-uzun.csv; OWID URL'sinde time=-10000..2100 şart,
+  yoksa yalnız 1800+ gelir; csvType=full 400k'da kesilip World'ü YUTAR).
+  57 sapan/olmayan-yıl nüfus değeri 34 dosyada seriden onarıldı.
+- getir.mjs 400k kesme bayrağı; denetle kesik kaynakta HATA yerine İŞARET.
+- Raporlara govde_hash+commit bağı; --bayat kipi; 505/505 güncel.
+- remark: aynı anahtara ikinci atıf benzersiz id (atif-kN-2) — 494
+  sayfadaki 12k+ çift id temizlendi. Ders: Astro içerik katmanı önbelleği
+  eklenti değişikliğinde eski HTML döndürür — rm -rf .astro + tam build.
+- strictNullChecks açıldı; kök neden @types/node eksikliğiydi; astro
+  check 0 hata; CI'a npm test + astro check eklendi.
+- Matris şeması + doğrulayıcı (araclar/matris.mjs, 10 fikstür).
+- Yeni örnekleme turu (bağımsız ajan): skor 1,0 (31/31), ham skor
+  0,2759 -> 0,7045. RAPOR.md/DURUM.md tazelendi; hakkinda.astro ölçüm
+  kapsamı beyanı eklendi.
+- Mekanik onarımlar: Las Casas donem 09; donem-04 ve aktor-olmek
+  tartışma haritaları; Abydos "1990'larda" ifadesi nötrlendi (kazı 1988,
+  yayın 1998 — bağımsız türetici bulgusu).
+- Faz 2 pilot: 4 onarım ajanı paralel çalışıyor (paris, cahokia,
+  kus-kralligi, rapa-nui). Hakemlik ayrı ajanlarla yapılacak.

@@ -86,8 +86,8 @@ hiyerogliflerin kökeni konusunda kesin bir belirleme yapılmamıştır.[^k1] Bu
 karşılık Geoffrey Sampson, Mısır hiyerogliflerinin Sümer yazısından biraz sonra
 ortaya çıktığını ve muhtemelen onun etkisiyle icat edildiğini belirtir.[^k1]
 
-1990'larda Abydos'ta MÖ 3400 ile 3200 arasına tarihlenen kazınmış semboller
-bulundu.[^k1] Aynı bölgede bulunan jetonlar üzerindeki tasarımların, Uruk'tan
+Abydos'taki kazılarda MÖ 3400 ile 3200 arasına tarihlenen kazınmış
+semboller bulundu.[^k1] Aynı bölgede bulunan jetonlar üzerindeki tasarımların, Uruk'tan
 gelen çağdaş kil etiketlere benzerlikler taşıdığı kaydedilir.[^k1]
 
 ## Muhasebeden yazıya

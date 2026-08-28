@@ -1,9 +1,9 @@
 {
   "id": "olay-yazinin-icadi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:18.614Z",
-  "govde_hash": "e52f8dcfcd21",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T18:58:35.355Z",
+  "govde_hash": "62e98678f652",
+  "commit": "f899570",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -67,7 +67,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "1990'larda Abydos'ta MÖ 3400 ile 3200 arasına tarihlenen kazınmış semboller bulundu.",
+      "iddia": "Abydos'taki kazılarda MÖ 3400 ile 3200 arasına tarihlenen kazınmış semboller bulundu.",
       "durum": "OK",
       "not": ""
     },

@@ -1,5 +1,5 @@
 ## olay-yazinin-icadi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:18.614Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:58:35.355Z_
 
 - [ATOMSUZ] k1 → "yüzyıldan önce yazının kökenine dair akademik kuramların çoğu bir tür monogenez varsayımı içeriyordu: yazının …" — programatik olarak ölçülemedi (ad karşılığı yok): Sümer
 - [ATOMSUZ] k1 → "Bu varsayımın yalnızca kanıttan gelmediği kaydedilir: kuramlar, Tekvin kitabının değişmez bir yorumunu ve o an…" — programatik olarak ölçülemedi (ad karşılığı yok): Tekvin, Mezopotamya
@@ -11,7 +11,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:18.614Z_
 - [ATOMSUZ] k1 → "Eğer bir "uyaran yayılımı" gerçekleştiyse bile, bu yalnızca yazı fikrinin kültürler arasında aktarılmasına hiz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Yazının aktarımına dair doğrudan kanıt bulunmadığı için eski Mısır'da hiyerogliflerin kökeni konusunda kesin b…"
 - [OK]      k1 → "Buna karşılık Geoffrey Sampson, Mısır hiyerogliflerinin Sümer yazısından biraz sonra ortaya çıktığını ve muhte…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "1990'larda Abydos'ta MÖ 3400 ile 3200 arasına tarihlenen kazınmış semboller bulundu."
+- [OK]      k1 → "Abydos'taki kazılarda MÖ 3400 ile 3200 arasına tarihlenen kazınmış semboller bulundu."
 - [OK]      k1 → "Aynı bölgede bulunan jetonlar üzerindeki tasarımların, Uruk'tan gelen çağdaş kil etiketlere benzerlikler taşıd…"
 - [OK]      k1 → "1977'de arkeolog Denise Schmandt-Besserat, çivi yazısının gelişimini güney Mezopotamya'da yaklaşık MÖ 8000'den…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kuram itiraz da görmüştür; Geoffrey Sampson ve Christopher Woods gibi araştırmacılar nedensel bağı sorgulamışt…"
