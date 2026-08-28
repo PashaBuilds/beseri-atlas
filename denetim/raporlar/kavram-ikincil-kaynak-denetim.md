@@ -1,12 +1,39 @@
 ## kavram-ikincil-kaynak
-_Geçiş 2 — kaynak denetimi · 2026-08-21T10:17:19.667Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:45.752Z_
 
-- undefined k1 → "Kaynak bölümlerini sıralar: kaynakların sınıflandırılması, ikincil literatür ve bilim, teknoloji ve tıp; sonun…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Kaynağın sınıflandırmayı alan alan bölümlemesi, atlasın şu kuralının dayanağıdır: bu atlasta bir kaynağın biri…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Otobiyografilerin beşerî bilimler ve tarih altında ayrı bir alt başlık taşıması, sınıflandırmanın sınır duruml…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k2 → "Karşıt kategori için tutulan kayıt, güçlü ve zayıf yanları tek bir başlıkta tutar ve sahteciliklere ayrı bir b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kaynak bölümlerini sıralar: kaynakların sınıflandırılması, ikincil literatür ve bilim, teknoloji ve tıp; sonun…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kaynağın sınıflandırmayı alan alan bölümlemesi, atlasın şu kuralının dayanağıdır: bu atlasta bir kaynağın biri…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Otobiyografilerin beşerî bilimler ve tarih altında ayrı bir alt başlık taşıması, sınıflandırmanın sınır duruml…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Karşıt kategori için tutulan kayıt, güçlü ve zayıf yanları tek bir başlıkta tutar ve sahteciliklere ayrı bir b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k3 → "Bir düşünürün görüşüne yalnızca başkalarının ağzından ulaşılabildiği bir örnek için tutulan kayıt, Platon'un d…" — 1 atom doğrulandı; 1 ad ölçülemedi
-- undefined k3 → "Bir yazarın kendi görüşüne yalnızca kendi metnindeki başka kişiler üzerinden ulaşılabilmesi, birincil ile ikin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Alan alan farklar, ikincil literatürün türleri ve kullanım kuralları burada ayrı başlıklar altında ele alınmam…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bir yazarın kendi görüşüne yalnızca kendi metnindeki başka kişiler üzerinden ulaşılabilmesi, birincil ile ikin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İkincil kaynak, birincil kaynağa dayanan kayıttır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Üçüncü ve dördüncü elden aktarımlar da vardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas zincirin uzunluğunu ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bazı durumlarda birincil kaynak kaybolmuştur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu durumda ikincil kaynak, birincilin tek izidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu durumu ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "İki ikincil kaynağın aynı şeyi söylemesi bağımsız doğrulama değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu, atlasta sık karşılaşılan bir tuzaktır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu yüzden zinciri geriye doğru izler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İkincil olmak zayıf olmak değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu, tek bir birincil kaynağın yapamayacağı bir iştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu katkıyı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlasın kendisi bir ikincil kaynaktır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu, atlası kendi ölçütlerine tabi kılar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu tabiiyeti açıkça yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlasın her dosyası künyelidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu, dosyayı sınanabilir kılar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu sınanabilirliği kendi varlık koşulu sayar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlasın en çok kullandığı ikincil kaynak türü ansiklopedi maddesidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu, zincire bir halka daha ekler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Kural somuttur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kural bir ölçümden doğdu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bölümleme bir yorumdur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu devralmadan kaçınır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Zincirin her halkasında küçük bir sapma olabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Uzun bir zincirin sonundaki metin, başındakinden belirgin biçimde farklı olabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu birikmeyi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Alan alan farklar, ikincil literatürün türleri ve kullanım kuralları burada ayrı başlıklar altında ele alınmam…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 1 OK · 0 ISARET · 0 HATA
+**Özet:** 1 OK · 0 ISARET · 0 HATA · 33 ATOMSUZ

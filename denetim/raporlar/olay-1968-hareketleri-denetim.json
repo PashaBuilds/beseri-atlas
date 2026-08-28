@@ -1,7 +1,7 @@
 {
   "id": "olay-1968-hareketleri",
   "gecis": 2,
-  "zaman": "2026-08-21T08:22:53.293Z",
+  "zaman": "2026-08-28T18:13:37.854Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -53,7 +53,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "On sekiz ayrı ülke bölümünün açılması, \"dünya çapında\" nitelemesinin bir abartı değil bir bölümleme kararı olduğunu gösterir.",
+      "iddia": "On sekiz ayrı ülke bölümünün açılması, dünya çapı nitelemesinin bir abartı değil bir bölümleme kararı olduğunu gösterir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

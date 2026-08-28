@@ -1,7 +1,7 @@
 {
   "id": "olay-vestfalya-barisi",
   "gecis": 2,
-  "zaman": "2026-08-21T05:10:02.130Z",
+  "zaman": "2026-08-28T18:13:40.740Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -54,6 +54,12 @@
     {
       "anahtar": "k3",
       "iddia": "Osmanlı taşrasında klasik dönemin tımarlı eyaletler düzeninin yanında özel statülü birimler de bulunuyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya vestfalya antlasmasi'nin metnine bağlanır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

@@ -1,7 +1,7 @@
 {
   "id": "kavram-sekulerlesme",
   "gecis": 2,
-  "zaman": "2026-08-21T09:42:47.314Z",
+  "zaman": "2026-08-28T18:13:46.454Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -50,6 +50,12 @@
       "iddia": "Kuramın içeriği, güncel meseleler ve ülke ülke gelişmeler burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu kavramın formüle edildiği eser Weber, Protestan Ahlakı'dir; dosya o eserin kamu malı tam metnine bağlanır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     }
   ]
 }

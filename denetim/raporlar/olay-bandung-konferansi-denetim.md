@@ -1,5 +1,5 @@
 ## olay-bandung-konferansi
-_Geçiş 2 — kaynak denetimi · 2026-08-21T05:41:57.664Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:38.284Z_
 
 - [OK]      k1 → "Asya–Afrika Konferansı 18–24 Nisan 1955 tarihleri arasında Endonezya'nın Bandung şehrinde toplandı; 304 temsil…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Ev sahibi ülke Endonezya, ana mekân ise 1955'te Merdeka Binası'ydı." — 2 atom doğrulandı; 2 ad ölçülemedi
@@ -12,4 +12,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-21T05:41:57.664Z_
 - [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır."
 - [OK]      k1 → "Konferansın bildirisinin içeriği, katılımcı ülkelerin tek tek konumları, tartışmaların seyri ve Amerika Birleş…" — 1 atom doğrulandı; 2 ad ölçülemedi
 
-**Özet:** 10 OK · 0 ISARET · 0 HATA
+**Özet:** 10 OK · 0 ISARET · 0 HATA · 0 ATOMSUZ

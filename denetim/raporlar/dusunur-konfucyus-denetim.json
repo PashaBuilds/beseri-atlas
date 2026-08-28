@@ -1,7 +1,7 @@
 {
   "id": "dusunur-konfucyus",
   "gecis": 2,
-  "zaman": "2026-08-21T08:35:38.209Z",
+  "zaman": "2026-08-28T18:13:44.720Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -80,6 +80,12 @@
       "iddia": "Öğretinin içeriği, Lunyu'nun metin tarihi, sonraki yorum gelenekleri ve kurumsal Konfüçyüsçülük burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları a",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Lunyu.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Lunyu"
     }
   ]
 }

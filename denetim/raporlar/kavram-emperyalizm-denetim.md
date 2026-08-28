@@ -1,13 +1,43 @@
 ## kavram-emperyalizm
-_Geçiş 2 — kaynak denetimi · 2026-08-21T09:32:19.894Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:45.564Z_
 
-- undefined k1 → "Kaynak, tanım bölümünün altında sömürgecilik alt başlığını tutar ve emperyalizm kuramlarına ayrı bir bölüm ayı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kaynak, tanım bölümünün altında sömürgecilik alt başlığını tutar ve emperyalizm kuramlarına ayrı bir bölüm ayı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak, gerekçelendirme ve sorunlar başlığı altında dokuz alt başlık tutar: yayılmacılık, şarkiyatçılık ve hay…"
-- undefined k1 → "Haritacılığın bir gerekçelendirme başlığı olarak sayılması, atlasın harita gösterimini neden ayrı bir tartışma…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Sömürgeciliğin emperyalizmin altında bir alt başlık olarak kaydedilmesi, iki terimin eşanlamlı sayılmadığını g…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Kaynak emperyalizm kuramlarına ayrı bir bölüm ayırır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k3 → "Kuram geleneklerinden biri için tutulan kayıt, tarihsel sürecin sınıf mücadeleleriyle nitelenen bir dizi üreti…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Kavramın sona erdirilmesine dair bir kayıt, 1960 tarihli bir bildirinin sömürge sömürüsünü bir insan hakları i…"
-- undefined k1 → "Emperyalizm çağı, ülke ülke tarihler ve kuramların içeriği burada ayrı başlıklar altında ele alınmamıştır; kay…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Haritacılığın bir gerekçelendirme başlığı olarak sayılması, atlasın harita gösterimini neden ayrı bir tartışma…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sömürgeciliğin emperyalizmin altında bir alt başlık olarak kaydedilmesi, iki terimin eşanlamlı sayılmadığını g…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kaynak emperyalizm kuramlarına ayrı bir bölüm ayırır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Kuram geleneklerinden biri için tutulan kayıt, tarihsel sürecin sınıf mücadeleleriyle nitelenen bir dizi üreti…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [HATA]    k2 → "Kavramın sona erdirilmesine dair bir kayıt, 1960 tarihli bir bildirinin sömürge sömürüsünü bir insan hakları i…" — kaynakta bulunamayan sayısal değer: 1960
+- [ATOMSUZ] k1 → "Kavram her genişlemeyi kapsamaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Birincisi, kararın nerede alındığıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Üçü birlikte bakılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İki kavram sık karıştırılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Emperyalizm daha geniştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu farkı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kavramın en zor ölçülen biçimi budur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu biçim atlasın birçok dosyasında kayıtlıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu biçimi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Terim, kendi döneminde bir eleştiri terimi olarak yaygınlaştı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu, terimi geçersiz kılmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu kaydı ayrıca düşer." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kavram soyut olsa da izleri sayılabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bir bölgenin ihracatının tek bir ülkeye yönelmesi bir göstergedir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu göstergeleri ayrı ayrı kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kavramın yaygın bir çözümlemesi ikili bir yapı kurar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu şema kullanışlıdır ve eksiktir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas şemayı ihtiyatla kullanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Biçimsel emperyalizm yirminci yüzyılda büyük ölçüde sona erdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu tartışmayı karara bağlamaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Ölçütler sabittir, sonuç dönemden döneme değişir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas kavramı her dosyada aynı üç soruyla uygular." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Üç sorunun cevabı dosyada açıkça yazılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu, kavramın tartışmalı olmasından doğar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Terim yirminci yüzyılda yaygınlaştı ama tanımladığı ilişki çok daha eskidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu, kavramın geriye taşınabilir olduğunu göstermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu ayrımı korur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kavramın tanımladığı ilişkide iki taraf vardır ve ikisi de kayıt tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Yöneten tarafın kaydı düzenli ve arşivlidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu dengesizliği her dosyada beyan eder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Emperyalizm çağı, ülke ülke tarihler ve kuramların içeriği burada ayrı başlıklar altında ele alınmamıştır; kay…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 2 OK · 0 ISARET · 0 HATA
+**Özet:** 1 OK · 0 ISARET · 1 HATA · 36 ATOMSUZ

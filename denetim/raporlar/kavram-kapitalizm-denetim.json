@@ -1,7 +1,7 @@
 {
   "id": "kavram-kapitalizm",
   "gecis": 2,
-  "zaman": "2026-08-21T09:32:19.924Z",
+  "zaman": "2026-08-28T18:13:45.888Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -44,6 +44,12 @@
       "iddia": "Türler, eleştiriler, savunular ve ülke ülke uygulamalar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu kavramın formüle edildiği eser Smith, Ulusların Zenginliği'dir; dosya o eserin kamu malı tam metnine bağlanır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     }
   ]
 }

@@ -1,15 +1,42 @@
 ## kavram-salgin
-_Geçiş 2 — kaynak denetimi · 2026-08-21T10:22:28.488Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:46.417Z_
 
-- undefined k1 → "Kaynak ilk bölümünü tanıma ayırır ve altında parametreler diye ayrı bir alt başlık tutar; ardından önleme ve h…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Tanımın altında parametrelerin ayrı bir alt başlık olarak tutulması ve grip salgınları için ayrı çerçevelerin …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Kaynak, önleme ve hazırlık başlığı altında etik ve siyasi meseleleri ayrı bir alt başlık olarak tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Bir sağlık kavramının maddesinde siyasi meselelerin ayrı bir başlık taşıması, atlasın salgın dosyalarını neden…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Kaynak, kayda değer salgınlar ve salgın olayları için ayrı bir bölüm tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "O örneklerden biri için tutulan ayrı kayıt, salgının 1346-1353 arasına tarihlendiğini yazar."
+- [ATOMSUZ] k1 → "Kaynak ilk bölümünü tanıma ayırır ve altında parametreler diye ayrı bir alt başlık tutar; ardından önleme ve h…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Tanımın altında parametrelerin ayrı bir alt başlık olarak tutulması ve grip salgınları için ayrı çerçevelerin …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kaynak, önleme ve hazırlık başlığı altında etik ve siyasi meseleleri ayrı bir alt başlık olarak tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bir sağlık kavramının maddesinde siyasi meselelerin ayrı bir başlık taşıması, atlasın salgın dosyalarını neden…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kaynak, kayda değer salgınlar ve salgın olayları için ayrı bir bölüm tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [HATA]    k3 → "O örneklerden biri için tutulan ayrı kayıt, salgının 1346-1353 arasına tarihlendiğini yazar." — kaynakta bulunamayan sayısal değer: 1346, 1353
 - [OK]      k2 → "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1400 yılında yaklaşık 405,3 milyondur."
-- undefined k1 → "Atlas bu iki değeri bir salgın ölüm sayısı olarak sunmaz; seri toplam nüfusu verir, ölüm nedenini vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k2 → "Atlas bu iki değeri bir salgın ölüm sayısı olarak sunmaz; seri toplam nüfusu verir, ölüm nedenini vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Yönetim stratejileri, çerçevelerin içeriği ve örneklerin ayrıntısı burada ayrı başlıklar altında ele alınmamış…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu iki değeri bir salgın ölüm sayısı olarak sunmaz; seri toplam nüfusu verir, ölüm nedenini vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Atlas bu iki değeri bir salgın ölüm sayısı olarak sunmaz; seri toplam nüfusu verir, ölüm nedenini vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bir hastalığın salgına dönüşmesi üç koşula bağlıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Üçü birlikte gerekir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu bağı kavramın merkezine koyar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bulaşıcı hastalıkların çoğu evcil hayvanlardan geçmiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Toplayıcı gruplarda bu ölçekte salgın sürdürülemez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Salgınlar ticaret yollarını izler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bağlantının artması, taşınan her şeyin hızını artırır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Atlas bu ölçümü tekrar eden bir bulgu sayar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Erken salgınların kaydı seyrektir ve çoğu tek bir tanığa dayanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Genetik çalışmalar bazı örneklerde etkeni tanımlayabildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Atlas iki kanıt türünü birlikte kullanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Salgın ölümlerinin sayısı neredeyse hiçbir dönem için kesin bilinmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Kayıt, ölümü çoğu zaman salgın kategorisinde tutmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu yüzden tek bir sayı vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Salgına karşı alınan tedbirler nedeni bilinmeden de geliştirildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu tedbirler işe yaradı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu ayrımı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Salgın dönemlerinde belirli gruplar suçlanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu, salgının doğrudan değil dolaylı bir sonucudur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Atlas bu örüntüyü ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Salgınlar nüfusu eşit vurmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu, ölüm dağılımını meslek ve gelir gruplarına göre farklılaştırır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu dağılımı ölçüm sayar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Büyük salgınlar kalıcı kurumlar bıraktı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Kurumlar salgın geçtikten sonra da kaldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Atlas bu örüntüyü ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Yönetim stratejileri, çerçevelerin içeriği ve örneklerin ayrıntısı burada ayrı başlıklar altında ele alınmamış…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 2 OK · 0 ISARET · 0 HATA
+**Özet:** 1 OK · 0 ISARET · 1 HATA · 35 ATOMSUZ

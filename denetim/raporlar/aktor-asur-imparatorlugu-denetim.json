@@ -1,7 +1,7 @@
 {
   "id": "aktor-asur-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-21T04:38:48.577Z",
+  "zaman": "2026-08-28T18:13:41.225Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -17,7 +17,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Aşurnasirpal döneminde (hükümdarlığı MÖ 883–859) Asur yeniden Yakın Doğu'nun başat gücü haline geldi; kaynağın ifadesiyle kuzeyi tartışmasız biçimde yönetiyordu",
+      "iddia": "Aşurnasirpal döneminde (hükümdarlığı MÖ 883–859) Asur yeniden Yakın Doğu'nun başat gücü haline geldi; kaynağa göre kuzeyi tartışmasız biçimde yönetiyordu.",
       "durum": "OK",
       "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -65,21 +65,15 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Bu imparatorluğun kurulduğu dünyada nüfus, uzun dönemli seride MÖ 1000 için yaklaşık 110,5 milyon olarak verilir.",
+      "iddia": "Çağdaş dünya nüfusu, uzun dönemli seride MÖ 1000 için yaklaşık 110,5 milyon olarak verilir.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Bu iki sayı — MÖ 670 için verilen 1.400.000 kilometrekare ve dünya nüfusu için verilen değer — farklı serilerden gelir; aralarında bir oran kurmak için Asur'un ",
+      "iddia": "Bu değer ile MÖ 670 için verilen 1.400.000 kilometrekarelik alan farklı serilerden gelir; aralarında oran kurmak için Asur'un kendi nüfusuna dair bir ölçüm gere",
       "durum": "OK",
       "not": ""
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bu iki sayı — MÖ 670 için verilen 1.400.000 kilometrekare ve dünya nüfusu için verilen değer — farklı serilerden gelir; aralarında bir oran kurmak için Asur'un ",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     }
   ]
 }

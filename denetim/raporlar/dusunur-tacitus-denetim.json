@@ -1,7 +1,7 @@
 {
   "id": "dusunur-tacitus",
   "gecis": 2,
-  "zaman": "2026-08-21T08:42:04.973Z",
+  "zaman": "2026-08-28T18:13:45.053Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -89,7 +89,7 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "Aynı yüzyıllara yakın bir başka imparatorluk bürokrasisinde tarih yazan bir yazar için tutulan kayıt, onu erken Han hanedanı döneminde bir Çinli tarihçi olarak ",
+      "iddia": "Aynı yüzyıllara yakın bir başka imparatorluğun yönetim kadrosunda tarih yazan bir yazar için tutulan kayıt, onu erken Han hanedanı döneminde bir Çinli tarihçi o",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },

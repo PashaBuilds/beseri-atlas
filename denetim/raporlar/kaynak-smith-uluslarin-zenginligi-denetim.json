@@ -1,7 +1,7 @@
 {
   "id": "kaynak-smith-uluslarin-zenginligi",
   "gecis": 2,
-  "zaman": "2026-08-21T10:39:32.336Z",
+  "zaman": "2026-08-28T18:13:49.864Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -22,14 +22,14 @@
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak kitapları şöyle sıralar: emeğin üretken güçlerindeki iyileşmenin nedenleri üzerine, sermayenin doğası, birikimi ve kullanımı üzerine, farklı uluslarda ze",
+      "anahtar": "k4",
+      "iddia": "Eserin kendi metni beş kitabı şöyle adlandırır: emeğin üretken güçlerindeki iyileşmenin nedenleri üzerine, stokun doğası, birikimi ve kullanımı üzerine, farklı ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Aynı kayıt, eserin İskoç Aydınlanması ve İskoç Tarım Devrimi sırasında yayımlandığını ve Karl Marx gibi yazarları etkilediğini yazar; Alexander Hamilton'ın da k",
+      "iddia": "Eser hakkındaki ansiklopedi kaydı, eserin İskoç Aydınlanması ve İskoç Tarım Devrimi sırasında yayımlandığını ve Karl Marx gibi yazarları etkilediğini yazar; Ale",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): İskoç, Aydınlanması, Tarım, Devrimi"
     },
@@ -88,8 +88,8 @@
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir ansiklopedi maddesidir.",
+      "anahtar": "k4",
+      "iddia": "Bu dosya eserin kamu malı tam metnine bağlanır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

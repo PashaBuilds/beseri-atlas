@@ -1,7 +1,7 @@
 {
   "id": "olay-amerikan-ic-savasi",
   "gecis": 2,
-  "zaman": "2026-08-21T07:17:19.980Z",
+  "zaman": "2026-08-28T18:13:38.088Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -23,7 +23,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Aynı sorun savaş ölümleri verisinin genelinde de kayıtlıdır: verilen rakam muharip ölümleridir ve çarpışmalar nedeniyle ölen siviller ile çatışmaların yol açtığ",
+      "iddia": "Aynı sorun savaş ölümleri verisinin genelinde de kayıtlıdır: kullanılan veri kümesine göre verilen rakam muharip ölümleridir ve çarpışmalar nedeniyle ölen sivil",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

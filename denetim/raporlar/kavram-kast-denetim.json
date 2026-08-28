@@ -1,53 +1,203 @@
 {
   "id": "kavram-kast",
   "gecis": 2,
-  "zaman": "2026-08-21T10:05:18.840Z",
+  "zaman": "2026-08-28T18:13:45.916Z",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, tanımlar ve kavramlar başlığı altında üç terimi ayrı ayrı işler: varna, jāti ve kast; ayrıca 1932 tarihli bir betimlemeye, tanıma dair modern bakışa, ka",
-      "durum": "OK",
-      "not": ""
+      "iddia": "Bu alanda üç ayrı terim kullanılır ve atlas bunları birbirinin çevirisi saymaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynağın 1932 tarihli bir betimlemeye kendi alt başlığını ayırması, atlasın şu kuralının dayanağıdır: bu dosyada kast tanımları, hangi tarihte ve kimin tarafınd",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Karmaşıklık ve esnekliğe ayrı bir alt başlık ayrılması, sistemin katı ve değişmez sayılmasının kaynağın kendi bölümlemesince desteklenmediğini gösterir.",
+      "iddia": "İkincisi, gündelik hayatta işleyen birimdir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Sınıflandırmanın tarihselliği üzerine yazan bir yazar için tutulan kayıt, onu 1926-1984 arasında yaşamış bir Fransız tarihçi ve filozof olarak verir.",
+      "iddia": "Üçüncüsü, Avrupa dillerinden gelen ve ilk ikisini birden karşılamak üzere kullanılan terimdir.",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Aynı coğrafyanın siyasi kaydı, bir sultanlığın 25 Haziran 1206'da bağımsızlıkla başladığını ve 1526'da sona erdiğini yazar.",
-      "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Atlas iki kayıt arasında bir bağ kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "iddia": "Klasik şema düzenli ve sayılabilirdir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Atlas iki kayıt arasında bir bağ kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
+      "iddia": "Gündelik hayattaki düzen bu şemaya oturmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu farkı ayrıca kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "On dokuzuncu yüzyılın sonundan itibaren yönetim, nüfus sayımlarında grubu da kaydetmeye başladı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir sayımda grupları toplumsal önceliğe göre sıralama denemesi yapıldı.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kavramın kökenleri, tarihsel gelişimi ve çağdaş tartışmalar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "iddia": "Atlas bu tepkiyi ölçüm sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sayım kategorileri idari işlemlere bağlandı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayıt, akışkan olabilen bir yapıyı sabitledi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu etkiyi ölçmenin genel sorunu olarak kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu noktada gerçek bir anlaşmazlık vardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Karşı görüş, yapının çok daha eski olduğunu ve yönetimin yalnızca kaydettiğini ileri sürer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas taraf tutmaz ve ayrımı korur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düzen yalnızca bir saygı sıralaması değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu boyut, çözümü değiştirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu ayrımı Ambedkar dosyasına bağlar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ambedkar"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Grupların sürekliliğini sağlayan asıl kural evliliktir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu kural, diğer bütün kuralların taşıyıcısıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu yüzden değişimi burada ölçer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bağımsızlıktan sonra kabul edilen anayasa, dokunulmazlık uygulamasını kaldırdı ve ayrımcılığı yasakladı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yasal kaldırma ile fiilî sona erme aynı şey değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu ayrımı belge kuralına bağlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düzen ülkenin her yerinde aynı biçimde işlemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu, tek bir ülke ölçeğinde konuşmayı zorlaştırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu yüzden bölge belirtmeden genelleme yapmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dosya, düzenin kökenini karara bağlamaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Diğer bölgelerdeki benzer yapılarla karşılaştırma yapılmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Klasik metinlerden doğrulanabilir bir birincil künye verilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düzeni bütünüyle kaldırmayı savunan isim için , farklı bir tutum için dosyaları okunmalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Hukuki çerçeve için , belgelerin nasıl okunacağı için dosyaları uygundur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Geriye dönük adlandırma sorunu için , sayıların nasıl okunacağı için dosyaları okunabilir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

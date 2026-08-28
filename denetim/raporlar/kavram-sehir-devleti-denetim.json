@@ -1,7 +1,7 @@
 {
   "id": "kavram-sehir-devleti",
   "gecis": 2,
-  "zaman": "2026-08-21T10:05:18.871Z",
+  "zaman": "2026-08-28T18:13:46.435Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -50,6 +50,12 @@
       "iddia": "İtalyan şehir devletleri, çağdaş örnekler ve kavramın hukuki tanımı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu kavramın formüle edildiği eser Aristoteles, Politika'dir; dosya o eserin kamu malı tam metnine bağlanır.",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

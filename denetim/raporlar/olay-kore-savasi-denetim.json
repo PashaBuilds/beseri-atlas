@@ -1,7 +1,7 @@
 {
   "id": "olay-kore-savasi",
   "gecis": 2,
-  "zaman": "2026-08-21T07:21:14.941Z",
+  "zaman": "2026-08-28T18:13:39.640Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -46,6 +46,12 @@
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
+      "anahtar": "k2",
+      "iddia": "Bir bölgesel savaşın, bloklar arası rekabetin dönemlendirmesine adını vermesi, çatışmanın kendisinden çok işaret ettiği düzenin önemsendiğini gösterir; dönem çe",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
       "anahtar": "k3",
       "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır.",
       "durum": "OK",
@@ -54,6 +60,12 @@
     {
       "anahtar": "k1",
       "iddia": "Savaşın askerî seyri, hava ve deniz harekâtı, taraf devletlerin siyasi kararları ve ateşkes müzakereleri burada ayrı başlıklar altında ele alınmamıştır; kaynak ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya abd-kore karsilikli savunma antlasmasi'nin metnine bağlanır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

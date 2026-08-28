@@ -1,7 +1,7 @@
 {
   "id": "aktor-eyyubi-devleti",
   "gecis": 2,
-  "zaman": "2026-08-21T08:04:47.773Z",
+  "zaman": "2026-08-28T18:13:41.944Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -101,7 +101,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynağın nüfus sayısını eksik ilan etmesi nedeniyle bu sayının dünya nüfusu içindeki payı burada hesaplanmamıştır.",
+      "iddia": "Gerekçe kaynağın kendi dipnotudur: verilen nüfus sayısının kapsamı eksik ilan edilmiştir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

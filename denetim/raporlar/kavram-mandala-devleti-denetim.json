@@ -1,7 +1,7 @@
 {
   "id": "kavram-mandala-devleti",
   "gecis": 2,
-  "zaman": "2026-08-21T10:01:57.286Z",
+  "zaman": "2026-08-28T18:13:46.213Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -53,13 +53,13 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "İki kaydın yan yana durması, egemenliğin tekil ve bölünmez sayılmasının evrensel değil belirli bir geleneğe ait bir varsayım olduğunu gösterir.",
+      "iddia": "İki kaydın yan yana durması, atlasın şu kuralının dayanağıdır: egemenliğin tekil ve bölünmez sayılması, bu atlasta belirli bir geleneğe ait bir varsayım olarak ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "İki kaydın yan yana durması, egemenliğin tekil ve bölünmez sayılmasının evrensel değil belirli bir geleneğe ait bir varsayım olduğunu gösterir.",
+      "iddia": "İki kaydın yan yana durması, atlasın şu kuralının dayanağıdır: egemenliğin tekil ve bölünmez sayılması, bu atlasta belirli bir geleneğe ait bir varsayım olarak ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

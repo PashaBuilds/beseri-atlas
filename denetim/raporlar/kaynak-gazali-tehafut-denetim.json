@@ -1,7 +1,7 @@
 {
   "id": "kaynak-gazali-tehafut",
   "gecis": 2,
-  "zaman": "2026-08-21T11:47:37.041Z",
+  "zaman": "2026-08-28T18:13:49.286Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -42,6 +42,12 @@
     {
       "anahtar": "k1",
       "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya eserin kamu malı tam metnine bağlanır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

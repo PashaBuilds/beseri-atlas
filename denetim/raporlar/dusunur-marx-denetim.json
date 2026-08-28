@@ -1,7 +1,7 @@
 {
   "id": "dusunur-marx",
   "gecis": 2,
-  "zaman": "2026-08-21T09:04:57.020Z",
+  "zaman": "2026-08-28T18:13:44.854Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -80,6 +80,12 @@
       "iddia": "Artı değer kuramı, sınıf mücadelesi, ideoloji anlatısı ve devlet kuramı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işle",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Kapital.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kapital"
     }
   ]
 }

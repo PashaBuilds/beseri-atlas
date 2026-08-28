@@ -1,26 +1,145 @@
 ## donem-05
-_Geçiş 2 — kaynak denetimi · 2026-08-20T20:51:41.287Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:35.796Z_
 
 - [OK]      k1 → "Geç antikite MS 285–700 aralığına yerleştirilir ve klasik antikite ile Erken Orta Çağ arasında durur." — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Geç antikitenin coğrafyası Roma İmparatorluğu'nun ötesine uzanır: kralları İran ve Mezopotamya'yı yöneten ve E…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Aynı çerçeveye, Güney Arabistan, kuzey Arabistan ve doğu Arabistan toplumlarının Kızıldeniz ve Basra Körfezi a…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Theodosius'un ölümü, Sasani İmparatorluğu'nun ortaya çıkışı ve yüzyıllar süren Roma-Sasani savaşlarının başlam…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Doğu Roma İmparatorluğu batıdaki dönüşümlerden sağ çıktı ve Konstantinopolis'ten yönetildi; bu olaylar uluslar…" — 1 atom doğrulandı; 2 ad ölçülemedi
-- undefined k1 → "Sasani İmparatorluğu dönemin iki kutbundan biriydi." — programatik olarak ölçülemedi (ad karşılığı yok): İmparatorluğu
+- [ATOMSUZ] k1 → "Sasani İmparatorluğu dönemin iki kutbundan biriydi." — programatik olarak ölçülemedi (ad karşılığı yok): İmparatorluğu
 - [OK]      k1 → "Dönemin sonuna doğru Arabistan, geç antik dünyanın kendi başlığı altında incelenen bir bileşeni hâline gelir."
 - [OK]      k1 → "Aksum Krallığı, geç antik krallık ve imparatorluklar listesinde Bizans, Sasani ve barbar krallıklarıyla birlik…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Mısır, Suriye, Filistin ve Kuzey Afrika ayrı bölgesel incelemelerin konusudur." — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Bu üç bölge geç antik çerçevenin merkezinde değildir; Güney Asya ticaret ağı üzerinden bağlanır, Doğu Asya ve …" — 2 atom doğrulandı; 2 ad ölçülemedi
-- undefined k1 → "Geç antik devletin gücü, vergi toplama kapasitesine dayanır ve bu kapasite toprak, aristokrasi ve emek düzenle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Geç antik devletin gücü, vergi toplama kapasitesine dayanır ve bu kapasite toprak, aristokrasi ve emek düzenle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Uzun dönemli seride dünya nüfusu MS 200'de yaklaşık 240,8 milyon, MS 600'de yaklaşık 271,6 milyondur."
 - [OK]      k1 → "Bu yavaşlamanın arkasındaki etkenlerden biri Justinianus vebasıdır; geç antikite literatüründe salgın, iklim v…"
-- undefined k3 → "Salgının bir imparatorluğun kaderini değiştirebileceği fikri, klasik tarih yazımında Thukydides'in Atina vebas…" — programatik olarak ölçülemedi (ad karşılığı yok): Thukydides, Atina
+- [ATOMSUZ] k3 → "Salgının bir imparatorluğun kaderini değiştirebileceği fikri, klasik tarih yazımında Thukydides'in Atina vebas…" — programatik olarak ölçülemedi (ad karşılığı yok): Thukydides, Atina
 - [OK]      k1 → "Göç ve yerleşim, batı eyaletlerinde farklı sonuçlar üretti: Galya ve İspanya'da Romalı aristokratlar ve piskop…" — 1 atom doğrulandı; 2 ad ölçülemedi
-- undefined k1 → "Attila'nın ölümünden sonra onun haraç, askerî ittifak ve diplomatik baskı üzerine kurulu gücü parçalandı; bu, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Attila'nın ölümünden sonra onun haraç, askerî ittifak ve diplomatik baskı üzerine kurulu gücü parçalandı; bu, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Hukuk tarafında dönem, Roma hukukunun kodifikasyonuyla tanımlanır; hukuk, idare ve kurumlar geç antik inceleme…"
 - [OK]      k1 → "Bu seferler imparatorluk ordularını, Arap müttefikleri, Ermeni soylularını, Kafkas krallıklarını ve sınır şehi…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "602-628 savaşı, daha önceki çatışmaların hiçbirinde görülmemiş bir ölçeğe ulaştı; Sasani kuvvetleri Suriye, Fi…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Başlangıç, imparatorluğun idari olarak yeniden düzenlendiği yıllara yakın konmuştur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Sınırlar geniş bir aralıkta tartışılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Atlas bu aralığı ayrıca beyan eder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Dönemin okunma biçimi bir tartışma konusudur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "İki okuma aynı kayıtlara dayanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Atlas iki okumayı da kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu çelişki dosyanın en önemli kaydıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kentleşme ve uzun mesafeli ticaret geriler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Atlas bu durumu ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sikke buluntularının dağılımı dönemde belirgin biçimde daralır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Daralma her yerde aynı ölçüde değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Atlas bu farkı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Merkezî vergi toplama kapasitesi dönem boyunca azaldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu, ordunun finansmanını da değiştirdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Atlas bu zinciri ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Ordular küçüldü ve yerelleşti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu değişim, siyasi yetkiyi de yerelleştirdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Dönemde büyük nüfus grupları sınırlar boyunca yer değiştirdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "İtici etkenler arasında bozkırdan gelen baskı ve iklim değişimi sayılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Atlas iki tür etkeni ayrı ayrı sayar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Hareketin niteliği de tartışmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Arkeolojik kanıt ikisini ayırt etmekte zorlanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Atlas bu belirsizliği korur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kullanılan terim, okumayı da belirler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "İkinci terim, bir tarafın kendi kaydından gelir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Doğuda iki büyük düzen yüzyıllar boyunca birbiriyle savaştı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Hiçbiri diğerini kesin olarak yenemedi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu dengeyi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Dönemin sonundaki son büyük savaş her iki tarafı da tüketti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "İki olay arasındaki kısa aralık ayrıca kaydedilmelidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu bağı ihtiyatla kurar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Dönemin ortasında büyük bir salgın yaşandı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Etkisi tartışmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Atlas bu tartışmayı karara bağlamaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Salgının en ayrıntılı kaydı bir saray tarihçisine aittir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu, tanıklığın değerlendirilmesini zorlaştırır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Atlas bu durumu ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Dönem boyunca bölgesel nüfus kayıpları yaşandı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kayıt zayıftır ve tahminler geniş aralıklarla verilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Atlas bu belirsizliği korur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Dönemin en kalıcı değişimi, dinin siyasi meşruiyetin ana kaynağı hâline gelmesidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Bu, önceki dönemin çok tanrılı ve yerel düzeninden farklıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Atlas bu işlevi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Dinî çerçevenin içeriği toplantılarla belirlendi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Tanım dışında kalan gruplar ayrıldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Atlas bu işlemi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Ayrılan gruplar çoğu zaman imparatorluk sınırlarının dışına ya da çeperine yerleşti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu, dinî ayrımın siyasi bir boyut kazanmasını sağladı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu dönüşümü ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Dönemde manastır kurumu yaygınlaştı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Yazılı metinlerin korunması büyük ölçüde bu kurumlara bağlıydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Aynı yüzyıllarda başka bölgelerde büyük düzenler kuruldu ya da sürdü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Doğuda ve güneyde kentleşme ve ticaret sürdü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu dengeyi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu dönem için yazılı kayıt önceki döneme göre azalır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Azalma, olayların azaldığını göstermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Atlas bu ayrımı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Bu dönem için arkeolojik kanıtın payı yazılı kayda göre yüksektir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu kanıt türü farklı sorulara cevap verir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Atlas bu farkı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu döneme bağlanan dosyalar dört öbekte toplanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Dördü birlikte okunmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bir sınırın sabitlenmesi, bir salgının yayılması, bir tanımın kabul edilmesi ve bir yerleşim yoğunluğunun düşm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Dosya, dönemin bütün olaylarını sıralamaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Çöküş tartışması burada karara bağlanmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Sayısal seriler burada yorumlanır, üretilmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Serilerin kaynakları ve yöntemleri atlasın veri dosyalarında ayrı ayrı kayıtlıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Dönemde birçok kent belirgin biçimde küçüldü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Küçülme her yerde aynı hızda olmadı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu dağılımı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Kalıntılar bir başka değişimi gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Bu, yalnızca yoksullaşma olarak okunmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas iki açıklamayı ayrı tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Dönemde yol ağı bakımsız kaldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Yollar kullanılmaya devam etti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Atlas bu ayrımı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Dönemin ortasında kapsamlı bir hukuk derlemesi yapıldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Derleme bir seçimdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu işlemi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Bu derleme sonraki yüzyıllarda yeniden keşfedildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Etki, derlendiği dönemden çok sonraki dönemlerde görüldü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu gecikmeyi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Dönemde uzun mesafeli ipek ticareti iki büyük gücün arasındaki hattan geçiyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "İpek üretiminin batıda başlaması bu bağımlılığı kısmen azalttı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu ayrımı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ISARET]  k4 → "Aynı dönemde Kızıldeniz ve Hint Okyanusu üzerinden işleyen deniz ticareti sürdü." — özel isim kaynakta bulunamadı: Kızıldeniz, Hint, Okyanusu
+- [ATOMSUZ] k5 → "Bölgedeki liman kentleri bu ticaretten pay aldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu alternatifi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ISARET]  k4 → "Aynı yüzyıllarda Kızıldeniz'in iki yakasında güçlü düzenler bulunuyordu." — özel isim kaynakta bulunamadı: Kızıldeniz
+- [ATOMSUZ] k5 → "Bölge, dinî ayrımların da kesiştiği bir alandı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu kesişimi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Dönem boyunca bozkırdan gelen gruplar hem batıya hem doğuya yöneldi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Bu, dönemin en geniş kapsamlı bağlantısıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Doğuda uzun bir bölünme dönemi yaşandı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Aynı yüzyıllarda batıda da benzer bir süreç işledi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu eş zamanlılığı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Doğuda bölünme dönemin sonunda sona erdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Batıda benzer bir birleşme yaşanmadı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu ayrışmayı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Dönemin ortasında birkaç yıl süren belirgin bir soğuma kaydedilmiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Bu kanıt türü yazılı kayıttan bağımsızdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu yakınsamayı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Soğumanın hangi sonuçları doğurduğu tartışmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Zincirin her halkası ayrı ayrı gösterilmelidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu ihtiyatı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bölgeye göre yazılı kaydın sürekliliği farklıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Kesintinin olduğu yerlerde sonraki dönemler için bilgi büyük ölçüde arkeolojiye dayanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Dönem için kullanılan adlar birbirinden çok farklıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Atlas geçiş adlandırmasını seçmiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Bu bir yorumdur ve mutlaklaştırılmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Çöküş adlandırmasını seçenlerin dayandığı göstergeler de aynı dosyada kayıtlıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Dosya bir soruyla kapanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "İki cevap savunulabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Çözülme bir boşluk bıraktı; boşluğun nasıl doldurulduğu ayrı kararlarla belirlendi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Geç antik incelemeler Hristiyanlığı, Rabbinik Yahudiliği, Zerdüştlüğü ve Sasani dinî kültürünü, geleneksel kül…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Edebiyat tarafında dönem, Yunanca ve Latince yazının yanı sıra Süryanice, Kıptice ve Ermenice edebî kültürleri…" — 1 atom doğrulandı; 3 ad ölçülemedi
 
-**Özet:** 17 OK · 0 ISARET · 0 HATA
+**Özet:** 17 OK · 2 ISARET · 0 HATA · 121 ATOMSUZ

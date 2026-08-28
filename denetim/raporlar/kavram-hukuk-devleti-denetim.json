@@ -1,7 +1,7 @@
 {
   "id": "kavram-hukuk-devleti",
   "gecis": 2,
-  "zaman": "2026-08-21T10:10:19.325Z",
+  "zaman": "2026-08-28T18:13:45.698Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -44,6 +44,12 @@
       "iddia": "Ülke ülke tarihler, kuramların içeriği ve ölçüm endeksleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu kavramın formüle edildiği eser Montesquieu, Kanunların Ruhu'dir; dosya o eserin kamu malı tam metnine bağlanır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     }
   ]
 }

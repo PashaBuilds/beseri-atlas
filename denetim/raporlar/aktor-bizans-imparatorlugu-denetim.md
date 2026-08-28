@@ -1,5 +1,5 @@
 ## aktor-bizans-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-21T04:49:22.549Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:41.540Z_
 
 - [OK]      k1 → "Bizans İmparatorluğu terimi ancak devletin sona ermesinden sonra türetilmiştir; yurttaşları kendileri için "Ro…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "yüzyıldaki çöküşünden sonra ayakta kalmış ve Konstantinopolis'in 1453'te Osmanlı İmparatorluğu'na düşmesine ka…" — 2 atom doğrulandı; 2 ad ölçülemedi
@@ -12,6 +12,6 @@ _Geçiş 2 — kaynak denetimi · 2026-08-21T04:49:22.549Z_
 - [OK]      k1 → "Rakibin 651'de sona ermesi Bizans'ın rahatlaması anlamına gelmedi; kayıp verileri en dip noktasına o tarihten …"
 - [OK]      k1 → "Iustinianos 527–565 ve Herakleios 610–641 arasında hüküm sürer." — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k4 → "Çağdaş dünya nüfusu, uzun dönemli seride MS 600 için yaklaşık 271,6 milyon, 1000 yılı için yaklaşık 323,5 mily…"
-- undefined k1 → "Devletin kendi nüfusu için verilen değerler farklı bir seriden geldiği için burada iki seri arasında oran kuru…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Devletin kendi nüfusu için verilen değerler farklı bir seriden geldiği için burada iki seri arasında oran kuru…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 11 OK · 0 ISARET · 0 HATA
+**Özet:** 11 OK · 0 ISARET · 0 HATA · 1 ATOMSUZ

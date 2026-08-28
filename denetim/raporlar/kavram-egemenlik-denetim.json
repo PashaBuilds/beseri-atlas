@@ -1,7 +1,7 @@
 {
   "id": "kavram-egemenlik",
   "gecis": 2,
-  "zaman": "2026-08-21T09:29:38.382Z",
+  "zaman": "2026-08-28T18:13:45.523Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -44,6 +44,12 @@
       "iddia": "Kavramın hukuki tanımları, uluslararası tanınma sorunu ve modern tartışmaları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olara",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu kavramın formüle edildiği eser Hobbes, Leviathan'dir; dosya o eserin kamu malı tam metnine bağlanır.",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "tartisma-vestfalya-miti",
   "gecis": 2,
-  "zaman": "2026-08-21T12:08:21.007Z",
+  "zaman": "2026-08-28T18:13:47.948Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -29,19 +29,31 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Aynı yüzyılda mutlak egemenliği savunan bir yazar için tutulan kayıt, onu 1588-1679 arasına yerleştirir ve siyaset felsefesinde mutlak egemenliği savunması nede",
+      "iddia": "Aynı yüzyılda mutlak egemenliği savunan bir yazar için tutulan kayıt, onu 1588-1679 arasına yerleştirir, 1640 sonunda İngiltere'den ayrıldığını ve 1651'e kadar ",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Bir kavramın aynı yüzyılda hem savunulup hem tehlikeli sayılabilmesi, o yüzyılda kavramın yerleşmiş olmadığını gösterir.",
+      "iddia": "Bir kavramın savunucusunun aynı yüzyılda on yıl sürgünde kalmış olarak kaydedilmesi, o yüzyılda kavramın yerleşmiş olmadığını düşündürür.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
       "iddia": "Kavramın sonraki biçimi için tutulan kayıt, ilk bölümünü doğrudan karmaşıklık başlığına ayırır ve tarih bölümünde ulus-devlet öncesi diye ayrı bir alt başlık tu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın bölümlemesi bu eşiği taşımadığı için, atlasın kendi dönem bölmesinde de bu tarih bir sınır değildir; bu bir bulgu değil bir bölme kararıdır ve burada a",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya tartismanin dayandigi antlasmanin metnine bağlanır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

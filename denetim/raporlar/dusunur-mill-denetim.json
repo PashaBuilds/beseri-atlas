@@ -1,7 +1,7 @@
 {
   "id": "dusunur-mill",
   "gecis": 2,
-  "zaman": "2026-08-21T09:04:57.055Z",
+  "zaman": "2026-08-28T18:13:44.888Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -68,6 +68,12 @@
       "iddia": "Faydacılık kuramı, özgürlük ilkesi, iktisat yazıları ve kadın hakları üzerine görüşleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölü",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Ozgurluk Uzerine.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ozgurluk, Uzerine"
     }
   ]
 }

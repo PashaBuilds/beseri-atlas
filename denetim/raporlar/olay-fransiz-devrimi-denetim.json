@@ -1,29 +1,29 @@
 {
   "id": "olay-fransiz-devrimi",
   "gecis": 2,
-  "zaman": "2026-08-21T05:20:59.899Z",
+  "zaman": "2026-08-28T18:13:38.868Z",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Fransız Devrimi, Fransa'da 1789'daki Etats-Généraux ile başlayan ve 9 Kasım 1799'daki 18 Brumaire Darbesi ile sona eren bir siyasi ve toplumsal değişim dönemidi",
+      "iddia": "Fransız Devrimi, Fransa'da 1789'daki Etats-Généraux ile başlayan ve on yıl sonra, 9 Kasım 1799'daki 18 Brumaire Darbesi ile sona eren bir siyasi ve toplumsal de",
       "durum": "OK",
       "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Vergi oranları bölgeden bölgeye büyük ölçüde değişiyor, çoğu zaman resmî tutarlardan farklı oluyor ve tutarsız biçimde toplanıyordu; karmaşıklık ve hesap verebi",
+      "iddia": "Kaynağın kaydına göre vergi oranları bölgeden bölgeye büyük ölçüde değişiyor, çoğu zaman resmî tutarlardan farklı oluyor ve tutarsız biçimde toplanıyordu; karma",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Sistemi basitleştirme girişimleri, mali politikayı onaylayan bölgesel Parlementolarca engellendi ve ortaya çıkan çıkmaz 1789 Etats-Généraux'sunun toplanmasına y",
+      "iddia": "Aynı kayda göre sistemi basitleştirme girişimleri, mali politikayı onaylayan bölgesel Parlementolarca engellendi ve ortaya çıkan çıkmaz 1789 Etats-Généraux'sunu",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Mali kriz ve yaygın toplumsal sıkıntı, Mayıs 1789'da Etats-Généraux'nun toplanmasına yol açtı; bu, meclisin 1614'ten beri ilk toplantısıydı.",
+      "iddia": "Kaynağa göre mali kriz ve yaygın toplumsal sıkıntı, Mayıs 1789'da Etats-Généraux'nun toplanmasına yol açtı; bu, meclisin 1614'ten beri ilk toplantısıydı.",
       "durum": "OK",
       "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },

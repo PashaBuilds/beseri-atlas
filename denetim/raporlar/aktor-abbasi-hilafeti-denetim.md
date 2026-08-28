@@ -1,5 +1,5 @@
 ## aktor-abbasi-hilafeti
-_Geçiş 2 — kaynak denetimi · 2026-08-21T04:12:38.109Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:40.947Z_
 
 - [OK]      k1 → "Hâşim'den alır ve 750 ile 1258 yılları arasında hüküm sürmüştür; ilk atalarına nispetle bu hanedana Hâşimîler …"
 - [OK]      k1 → "Hanedanın adını doğrudan Peygamber'in amcasından alması tesadüf değil, meşruiyetin taşıyıcısıdır."
@@ -10,4 +10,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-21T04:12:38.109Z_
 - [OK]      k3 → "Dandanakan zaferinin ardından Tuğrul Bey Büyük Selçuklu Devleti'nin ilk hükümdarı oldu (1040–1063) ve devrin g…"
 - [OK]      k1 → "Hanedanın 1258'de sona ermesi, Moğol genişlemesinin İslam dünyasındaki en görünür siyasi sonucudur."
 
-**Özet:** 8 OK · 0 ISARET · 0 HATA
+**Özet:** 8 OK · 0 ISARET · 0 HATA · 0 ATOMSUZ

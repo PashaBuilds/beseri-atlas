@@ -1,7 +1,7 @@
 {
   "id": "kaynak-tooze-felaketin-bedeli",
   "gecis": 2,
-  "zaman": "2026-08-21T12:48:28.372Z",
+  "zaman": "2026-08-28T18:13:49.900Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -56,6 +56,12 @@
       "iddia": "Savaş ölümleri serisinde dünya değeri 1939'da 657.119, 1941'de 6.354.402, 1945'te 6.581.340'tır.",
       "durum": "OK",
       "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu iki yıl arasındaki fark, kitabın açıklamaya çalıştığı dönüşümün ölçeğini gösterir; seri dosyasında ele alınıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",

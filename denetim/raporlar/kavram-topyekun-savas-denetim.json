@@ -1,7 +1,7 @@
 {
   "id": "kavram-topyekun-savas",
   "gecis": 2,
-  "zaman": "2026-08-21T09:42:47.333Z",
+  "zaman": "2026-08-28T18:13:46.705Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -35,7 +35,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Tarih bölümünün Orta Çağ ile başlaması, kavramın yalnızca yirminci yüzyıla ait sayılmadığını gösterir; atlas bu yüzden kavramı dönem sınırı olarak kullanmaz.",
+      "iddia": "Tarih bölümünün Orta Çağ ile başlaması, atlasın şu kuralının dayanağıdır: bu kavram bir dönem sınırı olarak kullanılmaz.",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -56,6 +56,12 @@
       "iddia": "Kavramın özellikleri, ülke ülke uygulamalar ve koşulsuz teslim tartışması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak iş",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu kavramın formüle edildiği eser Clausewitz, Savaş Üzerine'dir; dosya o eserin kamu malı tam metnine bağlanır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     }
   ]
 }

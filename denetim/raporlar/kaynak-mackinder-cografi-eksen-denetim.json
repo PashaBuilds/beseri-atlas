@@ -1,7 +1,7 @@
 {
   "id": "kaynak-mackinder-cografi-eksen",
   "gecis": 2,
-  "zaman": "2026-08-21T10:42:57.734Z",
+  "zaman": "2026-08-28T18:13:49.627Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -54,6 +54,12 @@
     {
       "anahtar": "k1",
       "iddia": "Bu dosya bildirinin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya eserin kamu malı tam metnine bağlanır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

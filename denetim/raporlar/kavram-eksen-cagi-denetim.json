@@ -1,7 +1,7 @@
 {
   "id": "kavram-eksen-cagi",
   "gecis": 2,
-  "zaman": "2026-08-21T09:52:50.661Z",
+  "zaman": "2026-08-28T18:13:45.531Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -50,6 +50,12 @@
       "iddia": "Kavramın önerdiği özellikler, kapsadığı akımlar ve eleştirilerin ayrıntısı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak i",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu kavramın formüle edildiği eser Jaspers, Tarihin Kökeni ve Hedefi'dir; dosya o eserin kamu malı tam metnine bağlanır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     }
   ]
 }

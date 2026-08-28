@@ -1,10 +1,40 @@
 ## kavram-patrimonyalizm
-_Geçiş 2 — kaynak denetimi · 2026-08-21T10:10:19.376Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:46.372Z_
 
 - [OK]      k1 → "Bakker ve Francis Fukuyama."
-- undefined k1 → "Kaynağın kavrama dair bir zayıflık bölümü tutması, atlasın şu kuralının dayanağıdır: bu dosyada patrimonyalizm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kaynağın kavrama dair bir zayıflık bölümü tutması, atlasın şu kuralının dayanağıdır: bu dosyada patrimonyalizm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Listenin ilk adı için tutulan ayrı kayıt, o yazarı 1864-1920 arasına yerleştirir ve patrimonyalizmi kayda değe…"
-- undefined k3 → "Devlet kuramı üzerine başka bir gelenek için tutulan kayıt, o düşünürün modern devlete dair tartışmalı bir anl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Betimlemelerin içeriği, örnekler ve çağdaş tartışmalar burada ayrı başlıklar altında ele alınmamıştır; kaynak …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Devlet kuramı üzerine başka bir gelenek için tutulan kayıt, o düşünürün modern devlete dair tartışmalı bir anl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kavram üç ölçütle uygulanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İkincisi, kamu geliri ile hükümdarın kişisel gelirinin ayrılıp ayrılmadığıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Üçü birlikte bakılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kavram, karşıtıyla birlikte tanımlanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İki biçim saf hâlde ender bulunur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu karışımı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kavramın çekirdeği bir ayrılmamadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu, saray görevlilerinin devlet görevlisi olmasını doğurur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu yapıyı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kavram doğrudan ölçülemez ama izleri sayılabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sık azil, konumun kurala değil kişiye bağlı olduğunu gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu göstergeyi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kavramın ürettiği temel gerilim budur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Ehliyet ikinci sıraya düşebilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu değiş tokuşu ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bazı düzenler bu gerilimi özel bir yolla çözdü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu kişilerin tek dayanağı hükümdardı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu çözümü ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu düzen de kendi sorununu üretti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlasın başka dosyalarında aynı sonuç kayıtlıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu tekrarı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kavram bir değer yargısı taşımaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Küçük ölçekte kişiye bağlı düzen daha hızlı işleyebilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu ölçek bağını ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Atlas kavramı bir sınıflandırma etiketi olarak kullanmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sonuç bir derecedir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu, ideal tip yönteminin kendisidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kavramı bugünkü biçimiyle tanımlayan yazar, onu bir ideal tip olarak kurdu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Amaç betimlemek değil karşılaştırma ölçütü üretmekti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Amaç betimlemek değil karşılaştırma ölçütü üretmekti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Betimlemelerin içeriği, örnekler ve çağdaş tartışmalar burada ayrı başlıklar altında ele alınmamıştır; kaynak …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 2 OK · 0 ISARET · 0 HATA
+**Özet:** 2 OK · 0 ISARET · 0 HATA · 33 ATOMSUZ

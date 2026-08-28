@@ -1,7 +1,7 @@
 {
   "id": "tartisma-yazinin-icadi-nerede",
   "gecis": 2,
-  "zaman": "2026-08-21T12:23:18.533Z",
+  "zaman": "2026-08-28T18:13:48.003Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -47,7 +47,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Ön-yazının dillerdeki dilbilgisini ve söz varlığını tam yansıtamadığı, bu yüzden çoğu kez yalnızca geniş ya da belirsiz bilgi kodlayabildiği kaydedilir.",
+      "iddia": "Ön-yazının dillerdeki dilbilgisini ve söz varlığını tam yansıtamadığı ayrıca kaydedilir; aynı yerde çoğu kez yalnızca geniş ya da belirsiz bilgi kodlayabildiği ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

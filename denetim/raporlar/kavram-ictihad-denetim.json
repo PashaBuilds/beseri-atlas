@@ -1,7 +1,7 @@
 {
   "id": "kavram-ictihad",
   "gecis": 2,
-  "zaman": "2026-08-21T10:05:18.796Z",
+  "zaman": "2026-08-28T18:13:45.713Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -54,6 +54,12 @@
     {
       "anahtar": "k1",
       "iddia": "İctihad türleri, ictihad kapısı tartışması ve mezhepler arası farklar burada ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak bölümünün kapsamı tanımd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu kavramın formüle edildiği eser Gazâlî, Tehâfütü'l-felâsife'dir; dosya o eserin kamu malı tam metnine bağlanır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

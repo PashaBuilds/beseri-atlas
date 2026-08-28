@@ -1,7 +1,7 @@
 {
   "id": "kavram-asabiyet",
   "gecis": 2,
-  "zaman": "2026-08-20T20:51:42.073Z",
+  "zaman": "2026-08-28T18:13:45.277Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -116,6 +116,12 @@
       "iddia": "TDV İslâm Ansiklopedisi de gerçek asabiyeti, vatan, tarih, kültür ve gelenek gibi müştereklere dayanan milliyet fikrinden ayırır; onu yalnızca soy birliğinden k",
       "durum": "OK",
       "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu kavramın formüle edildiği eser İbn Haldûn, Mukaddime'dir; dosya o eserin kamu malı tam metnine bağlanır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İbn, Mukaddime"
     }
   ]
 }

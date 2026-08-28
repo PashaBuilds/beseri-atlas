@@ -1,18 +1,69 @@
 ## aktor-gana-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-21T07:09:21.809Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:42.037Z_
 
-- [OK]      k1 → "Kaynak onu Wagadu olarak da kaydeder ve modern Gana ülkesiyle karıştırılmaması gerektiğini açıkça belirtir." — 1 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "Batı Afrika'da yaklaşık 200'lerden 1200'lere kadar varlığını sürdürmüştür."
-- [OK]      k1 → "Kaynak başkenti Koumbi Saleh olarak verir ama yanına bir kayıt düşer: "muhtemelen sonraki bir başkent"."
-- undefined k1 → "Bu ihtiyat, bölgenin kayıt geleneğine dair bir bilgidir: yazılı kaynak azlığı, merkezin bile tereddütle verilm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "yüzyıla tarihlenir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Yönetim biçimi feodal monarşidir ve ortak diller Soninke, Malinke ve Mande'dir."
-- undefined k1 → "Kuruluştan yaklaşık sekiz yüzyıl sonra gelen bir din değişimi, devletin kimliğinin kuruluş anında sabitlenmedi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak hükümdarları tarihleriyle sıralar: 700'de Kaya Magan Cissé, 790'larda Dyabe Cisse, 1040-1062 arasında G…"
-- [OK]      k1 → "1000 yılı için 650.000 kilometrekarelik bir alan verilir."
-- undefined k1 → "Dört hükümdarın beş yüzyıla yayılması, listenin eksiksiz olmadığını gösterir; atlas bu boşluğu doldurmaz, kayd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "İmparatorluğun sonu, bir başka düzenin başlangıcıyla örtüşür: Mali İmparatorluğu yaklaşık 1235 ile 1610 arasın…" — 7 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu MS 600 için yaklaşık 271,6 milyon, 1000 yılı için yaklaşık 323,5 milyon olara…"
-- [OK]      k1 → "Altın ticareti, Sosso ile ilişkiler, çöküş süreci ve arkeolojik kanıt tabanı burada ayrı başlıklar altında ele…"
+- [ISARET]  k1 → "Gana İmparatorluğu, Batı Afrika'da Sahra'nın güney kıyısında, çöl ticaret yollarının ulaştığı kuşakta kurulmuş…" — özel isim kaynakta bulunamadı: Sahra
+- [OK]      k3 → "Gana İmparatorluğu, Batı Afrika'da Sahra'nın güney kıyısında, çöl ticaret yollarının ulaştığı kuşakta kurulmuş…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Bu düzenin adı, bugünkü Gana devletinin bulunduğu coğrafyayla aynı yerde değildir."
+- [ATOMSUZ] k3 → "Bu düzenin adı, bugünkü Gana devletinin bulunduğu coğrafyayla aynı yerde değildir." — programatik olarak ölçülemedi (ad karşılığı yok): Gana
+- [ATOMSUZ] k1 → "dosyası aynı bölgede sonraki siyasi düzeni anlatır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ISARET]  k1 → "Kaynaklar onu Wagadu olarak da kaydeder ve bugünkü Gana devletiyle karıştırılmaması gerektiğini açıkça belirti…" — özel isim kaynakta bulunamadı: Wagadu
+- [OK]      k3 → "Kaynaklar onu Wagadu olarak da kaydeder ve bugünkü Gana devletiyle karıştırılmaması gerektiğini açıkça belirti…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Varlık süresi geniş bir aralıkla verilir: kaynaklar 200'ler ile 1200'ler arasını işaret eder ve künyedeki tari…"
+- [ATOMSUZ] k1 → "Bu düzenin ekonomik temeli, güneyden gelen altın ile kuzeyden gelen tuzun değişimidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu düzenin ekonomik temeli, güneyden gelen altın ile kuzeyden gelen tuzun değişimidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Birincisi, yolların güvenliği doğrudan maliye meselesidir; ikincisi, ticaretin yön değiştirmesi siyasi gücü do…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Kaynaklar başkenti Koumbi Saleh olarak verir ama yanına bir kayıt düşer: bunun muhtemelen sonraki bir başkent …"
+- [ATOMSUZ] k3 → "Bu ihtiyat, bölgenin kayıt geleneğine dair bir bilgidir: yazılı kaynak azlığı, merkezin bile tereddütle verilm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Elimizdeki en ayrıntılı çağdaş tarifler, bölgeye hiç gitmemiş coğrafyacıların derlediği aktarımlardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Elimizdeki en ayrıntılı çağdaş tarifler, bölgeye hiç gitmemiş coğrafyacıların derlediği aktarımlardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Bunlardan biri, Endülüs'te yaşamış ve eserini oradan derlemiş bir coğrafyacıdır."
+- [ATOMSUZ] k2 → "Burada somut hâli şudur: bu düzenin başkentinin tarifi, sarayın büyüklüğü ve altın miktarına dair sayılar, göz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Burada somut hâli şudur: bu düzenin başkentinin tarifi, sarayın büyüklüğü ve altın miktarına dair sayılar, göz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu sayılardan birini benimsemez; sayıların nasıl okunacağı sorusu dosyasında ayrıca ele alınır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu sayılardan birini benimsemez; sayıların nasıl okunacağı sorusu dosyasında ayrıca ele alınır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Kaynaklar hükümdarları tarihleriyle sıralar: 700'de Kaya Magan Cissé, 790'larda Dyabe Cisse, 1040-1062 arasınd…"
+- [OK]      k3 → "Yönetim biçimi bir monarşi olarak kaydedilir ve ortak diller Soninke, Malinke ve Mande olarak verilir."
+- [ATOMSUZ] k3 → "Dört hükümdarın beş yüzyıla yayılması, listenin eksiksiz olmadığını gösterir; atlas bu boşluğu doldurmaz, kayd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "yüzyıla tarihler; kuruluştan yüzyıllar sonra gelen bir değişim, bir devletin kimliğinin kuruluş anında sabitle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kaynaklar, hükümdar ailesinin ve halkın İslam'ı benimseme sürecinin kademeli olduğunu ve saray çevresiyle tücc…"
+- [OK]      k3 → "Kaynaklar, hükümdar ailesinin ve halkın İslam'ı benimseme sürecinin kademeli olduğunu ve saray çevresiyle tücc…"
+- [ATOMSUZ] k2 → "Bu tarifin kendisi de aktarımdır ve doğrulanmamıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bir kaydın neyi ayırt etmeye değer bulduğu, kaydı yazan çevrenin ilgisini gösterir: tüccar ile saray arasındak…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu düzenin sona erişi tek bir olayla açıklanmaz; kaynaklarda kuzeyden gelen askerî baskı, ticaret yollarının k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu düzenin sona erişi tek bir olayla açıklanmaz; kaynaklarda kuzeyden gelen askerî baskı, ticaret yollarının k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Hanedan değişimi, ticaret ağının kendisini ortadan kaldırmamış; ağın denetimi el değiştirmiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Künyede verilen başlangıç ve bitiş tarihleri geniş bir aralıktır ve kesin sınırlar olarak okunmamalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Künyede verilen başlangıç ve bitiş tarihleri geniş bir aralıktır ve kesin sınırlar olarak okunmamalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Uzun dönemli nüfus serisinde dünya nüfusu MS 600 için yaklaşık 271,6 milyon, 1000 yılı için yaklaşık 323,5 mil…"
+- [ATOMSUZ] k4 → "Elde bir ölçüm yokken pay hesaplamak, bilinmeyen bir sayıyı bilinen bir sayının yanına koyarak ona güvenilirli…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu dosya üç kaynağa dayanır: krallık üzerine bir madde, onu tarif eden coğrafyacı üzerine ayrı bir madde ve bi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu dosya üç kaynağa dayanır: krallık üzerine bir madde, onu tarif eden coğrafyacı üzerine ayrı bir madde ve bi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu dosya üç kaynağa dayanır: krallık üzerine bir madde, onu tarif eden coğrafyacı üzerine ayrı bir madde ve bi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ISARET]  k2 → "Krallığı tarif eden Arapça coğrafya metinlerinin standart derlemesi telifli olduğu için künyeye giremez; aynı …" — özel isim kaynakta bulunamadı: Arapça
+- [ATOMSUZ] k2 → "Bu durum atlasın başka dosyalarında da ölçülen bir eğilimin devamıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu düzenin idari yapısı, ordu düzeni ve vergi sistemi burada işlenmez; kaynaklarda bu başlıklara dair aktarıml…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu düzende yaşayan biri anlatır; bir tüccar ya da seyyah onu dinler; bir coğrafyacı o anlatıyı derler; sonraki…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu düzende yaşayan biri anlatır; bir tüccar ya da seyyah onu dinler; bir coğrafyacı o anlatıyı derler; sonraki…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlasın künye şemasında bir kaynağın kaç halka uzakta olduğunu gösteren bir alan yoktur; künye yalnızca son ha…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Dosya, kaynakların ne aktardığını kaydeder; aktarılanın doğruluğu hakkında bir güvence vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Dosya, kaynakların ne aktardığını kaydeder; aktarılanın doğruluğu hakkında bir güvence vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu düzenin kaynaklarda geçen adı, hükümdarın unvanından mı yoksa siyasi birimin kendi adından mı geldiği tartı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu düzenin kaynaklarda geçen adı, hükümdarın unvanından mı yoksa siyasi birimin kendi adından mı geldiği tartı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bir siyasi birim kendini nasıl adlandırıyorsa öyle mi kaydedilir, yoksa onu tarif edenlerin kullandığı ad mı k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sahra ticaretinin iki ucu, birbirini hiç görmeyen iki üretim bölgesidir: güneyde altın çıkarılan alanlar, kuze…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Sahra ticaretinin iki ucu, birbirini hiç görmeyen iki üretim bölgesidir: güneyde altın çıkarılan alanlar, kuze…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Denetlenen şey bir kaynak değil bir akıştır; akış yön değiştirdiğinde denetim de değersizleşir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Kaynaklar altının çıkarıldığı bölgelerin konumunun gizli tutulduğunu aktarır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bir konuda kayıt bulunmaması her zaman ihmalden gelmez; bazen kaydın tutulmaması kasıtlıdır ve o kasıt da bir …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Bu dosya, atlasın Afrika kapsamını genişletme çalışmasının ikinci adımıdır; birincisi bölgeyi gezip yazan bir …"
+- [ATOMSUZ] k1 → "Aynı bölgeyi biri duyarak biri görerek anlatan iki kaydın nerede ayrıştığı, tek başına her iki kaydın da verem…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlasın borç defterleri kapatılmayı bekleyen kayıtlar taşır ve bu dosyanın bıraktıkları da o listeye eklenir; …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Okur, aynı konuda farklı tarih aralıkları veren iki dosyayla karşılaşıyordu; bu, atlasın kendi ilkesine aykırı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Tarih aralığı iki kaydın uçları alınarak genişletilmiş ve genişliğin bir belirsizlik beyanı olduğu yukarıda ay…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Önceki iki dosyada toplam üç giriş kapısı künyesi bulunuyordu; birleşmiş dosyada bir tane vardır ve geri kalan…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Önceki iki dosyada toplam üç giriş kapısı künyesi bulunuyordu; birleşmiş dosyada bir tane vardır ve geri kalan…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu dosyayı okurken akılda tutulması gereken tek şey vardır: burada anlatılan her şey, olayları görmemiş kişile…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu dosyayı okurken akılda tutulması gereken tek şey vardır: burada anlatılan her şey, olayları görmemiş kişile…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sınama ancak iki yoldan yapılabilir: aynı dönemin başka kayıtlarıyla karşılaştırmak ya da arkeolojik bulgularl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 9 OK · 0 ISARET · 0 HATA
+**Özet:** 12 OK · 3 ISARET · 0 HATA · 49 ATOMSUZ

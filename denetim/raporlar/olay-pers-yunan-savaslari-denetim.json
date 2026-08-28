@@ -1,7 +1,7 @@
 {
   "id": "olay-pers-yunan-savaslari",
   "gecis": 2,
-  "zaman": "2026-08-21T03:55:16.529Z",
+  "zaman": "2026-08-28T18:13:40.195Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -53,9 +53,21 @@
     },
     {
       "anahtar": "k3",
+      "iddia": "Pers ve Yunan dünyası bu listede yan yanadır; kurama göre bu bölgelerde evrenselleştirici düşünce biçimleri belirgin bir karışım olmaksızın paralel biçimde orta",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yunan"
+    },
+    {
+      "anahtar": "k3",
       "iddia": "Kuramın tarihsel geçerliliğinin tartışmalı olduğu da kaydedilmelidir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bunun bir maliyeti vardır: Herodotos soruşturmasını Helenlerin ve barbarların işlerini birlikte anmak üzere kurduğunu yazsa da, metni yine de Yunan dünyasının i",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     }
   ]
 }

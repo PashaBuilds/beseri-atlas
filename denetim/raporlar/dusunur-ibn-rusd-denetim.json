@@ -1,7 +1,7 @@
 {
   "id": "dusunur-ibn-rusd",
   "gecis": 2,
-  "zaman": "2026-08-21T08:51:15.746Z",
+  "zaman": "2026-08-28T18:13:44.585Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -92,6 +92,12 @@
       "iddia": "Metafiziği, akıl kuramı, din-felsefe ilişkisi ve hukuk yazıları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Tehafutu t-tehafut.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tehafutu"
     }
   ]
 }

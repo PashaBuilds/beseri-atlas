@@ -1,7 +1,7 @@
 {
   "id": "kaynak-ibn-haldun-mukaddime",
   "gecis": 2,
-  "zaman": "2026-08-21T10:38:50.120Z",
+  "zaman": "2026-08-28T18:13:49.444Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -68,6 +68,12 @@
       "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir ansiklopedi maddesidir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya eserin kamu malı tam metnine bağlanır: Mukaddime.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Mukaddime"
     }
   ]
 }

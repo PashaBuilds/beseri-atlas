@@ -1,7 +1,7 @@
 {
   "id": "aktor-misir-yeni-kralligi",
   "gecis": 2,
-  "zaman": "2026-08-21T04:38:48.672Z",
+  "zaman": "2026-08-28T18:13:43.092Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -53,13 +53,13 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Dönemin kapanışına yakın dünyada nüfus, uzun dönemli seride MÖ 1000 için yaklaşık 110,5 milyon olarak verilir.",
+      "iddia": "Dönemin kapanışına yakın dünya nüfusu, uzun dönemli seride MÖ 1000 için yaklaşık 110,5 milyon olarak verilir.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Fırat'tan Nubya'ya uzanan hâkimiyet alanı ile bu dünya toplamı farklı serilerden gelir; Mısır'ın bu toplam içindeki payına dair bir ölçüm kullanılan kaynaklarda",
+      "iddia": "Fırat'tan Nubya'ya uzanan hâkimiyet alanı ile bu değer farklı serilerden gelir; Mısır'ın o toplam içindeki payına dair bir ölçüm kullanılan kaynaklarda bulunmad",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },

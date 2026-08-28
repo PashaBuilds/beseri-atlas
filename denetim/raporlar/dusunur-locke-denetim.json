@@ -1,7 +1,7 @@
 {
   "id": "dusunur-locke",
   "gecis": 2,
-  "zaman": "2026-08-21T08:56:38.531Z",
+  "zaman": "2026-08-28T18:13:44.778Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -74,6 +74,12 @@
       "iddia": "Bilgi kuramı, siyaset felsefesi, mülkiyet kuramı ve din görüşleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Yonetim Uzerine Iki Inceleme.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yonetim, Uzerine, Iki, Inceleme"
     }
   ]
 }

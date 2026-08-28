@@ -1,7 +1,7 @@
 {
   "id": "dusunur-smith",
   "gecis": 2,
-  "zaman": "2026-08-21T08:56:38.606Z",
+  "zaman": "2026-08-28T18:13:45.042Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -74,6 +74,12 @@
       "iddia": "Ulusların Zenginliği, iş bölümü, tarafsız gözlemci kavramı ve iktisat kuramı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): Zenginliği"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Uluslarin Zenginligi.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Uluslarin, Zenginligi"
     }
   ]
 }

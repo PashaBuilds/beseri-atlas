@@ -1,5 +1,5 @@
 ## olay-otuz-yil-savaslari
-_Geçiş 2 — kaynak denetimi · 2026-08-21T05:10:01.994Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:40.147Z_
 
 - [OK]      k1 → "Yedi seçici prens daha önce üç Protestan ve dört Katolik'ten oluştuğu için, Ferdinand'ın yerine Frederick'in g…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Ferdinand'ın Bohemya ve Macaristan kralı seçilmesini desteklemeyi kabul etti; karşılığında Ferdinand kuzey İta…" — 3 atom doğrulandı; 1 ad ölçülemedi
@@ -12,6 +12,6 @@ _Geçiş 2 — kaynak denetimi · 2026-08-21T05:10:01.994Z_
 - [OK]      k2 → "Antlaşmalar Otuz Yıl Savaşları'ndan doğan çatışmaları bütünüyle sona erdirmedi; Fransa ile İspanya arasındaki …" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k3 → "Savaşın dinî tabanı bir yüzyıl öncesine dayanır: Doksan Beş Tez, Martin Luther tarafından 1517'de yazılmıştı v…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k4 → "Çağdaş dünya nüfusu, uzun dönemli seride 1600 yılı için yaklaşık 516,1 milyon olarak verilir."
-- undefined k1 → "Savaşan ordular için verilen azami kuvvet sayıları bu ölçekteki bir dünyaya aittir; iki seri farklı olduğu içi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Savaşan ordular için verilen azami kuvvet sayıları bu ölçekteki bir dünyaya aittir; iki seri farklı olduğu içi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 11 OK · 0 ISARET · 0 HATA
+**Özet:** 11 OK · 0 ISARET · 0 HATA · 1 ATOMSUZ

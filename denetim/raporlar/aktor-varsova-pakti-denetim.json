@@ -1,7 +1,7 @@
 {
   "id": "aktor-varsova-pakti",
   "gecis": 2,
-  "zaman": "2026-08-21T07:17:20.186Z",
+  "zaman": "2026-08-28T18:13:44.033Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -31,7 +31,7 @@
       "anahtar": "k1",
       "iddia": "Kaynak, dönemin ilk evresini 1947-1953 arasına yerleştirir ve Çekoslovakya darbesi ile iki Alman devletinin kurulmasını aynı bölümde sayar.",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

@@ -1,13 +1,40 @@
 ## kavram-vergi
-_Geçiş 2 — kaynak denetimi · 2026-08-21T10:12:48.372Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:46.780Z_
 
 - [OK]      k1 → "Kaynak, tarih bölümünü dört alt başlığa ayırır: Roma ve medeni hukuk, İslam hukuku, modern tarih ve artık kull…"
-- undefined k1 → "Bir maliye kavramının tarihinin iki ayrı hukuk geleneğiyle başlatılması, atlasın şu kuralının dayanağıdır: bu …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Kaynağın eskimiş vergi biçimlerine ayrı bir alt başlık ayırması, vergi türlerinin tarihsel olarak değiştiğini …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Kaynak, taksonomi ve sınıflandırma başlığı altında gelir vergisi, sosyal güvenlik katkıları, bordro, mülkiyet …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Bir tek kavram altında bu kadar çok türün sayılması, atlasın şu kuralının dayanağıdır: vergi yükü karşılaştırm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bir maliye kavramının tarihinin iki ayrı hukuk geleneğiyle başlatılması, atlasın şu kuralının dayanağıdır: bu …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kaynağın eskimiş vergi biçimlerine ayrı bir alt başlık ayırması, atlasın şu kuralının dayanağıdır: bu atlasta …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kaynak, taksonomi ve sınıflandırma başlığı altında gelir vergisi, sosyal güvenlik katkıları, bordro, mülkiyet …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bir tek kavram altında bu kadar çok türün sayılması, atlasın şu kuralının dayanağıdır: vergi yükü karşılaştırm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Toprak tahsisine dayalı bir kaynak aktarım sistemi için tutulan ayrı bir madde, sistemi Osmanlılar'da devlete …"
-- undefined k3 → "Dönemin iktisat yazarı için tutulan kayıt, onun ahlak kuramının ahlaki pratiğe kılavuzluk etmesi gerektiğini d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Vergi türlerinin ayrıntısı, oranlar ve iktisadi etkiler burada ayrı başlıklar altında ele alınmamıştır; kaynak…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Dönemin iktisat yazarı için tutulan kayıt, onun ahlak kuramının ahlaki pratiğe kılavuzluk etmesi gerektiğini d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Vergi ayni ya da nakdi olabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Ayni vergi ürünün bir bölümünü alır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu farkı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Vergi kişi başına, hane başına ya da topluluk başına toplanabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Topluluk başına sabit bir yükümlülük, nüfus azaldıkça kişi başına ağırlaşır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu mekanizmayı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Vergiyi merkez doğrudan toplayabilir ya da toplama işini devredebilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "İhale merkeze garantili gelir sağlar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu değiş tokuşu ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Vergi toplamak ölçmeyi gerektirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Ölçemeyen bir merkez, ihaleye ya da götürü usule başvurur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Her vergi düzeninde muaf gruplar bulunur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Muafiyetin kapsamı, o düzendeki güç dağılımının doğrudan kaydıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu göstergeyi ayrıca kullanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Vergi artırma girişimleri en sık ayaklanma nedenidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Talep çoğu zaman verginin kaldırılması değil, eski düzeye dönülmesidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu ayrımı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Vergi ile temsil arasındaki bağ birçok düzende kurulmuştur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bağ zorunlu değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu ayrımı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Vergi kayıtları tarihçi için başlıca kaynaklardandır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kayıt, üretimin tamamını değil vergilendirilen bölümünü gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu sınırı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Toplanan verginin nereye harcandığı ayrı bir sorudur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Dağılım, o düzenin önceliklerinin doğrudan kaydıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bütçe, ilan edilen amaçlardan daha güvenilir bir göstergedir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Vergi türlerinin ayrıntısı, oranlar ve iktisadi etkiler burada ayrı başlıklar altında ele alınmamıştır; kaynak…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 2 OK · 0 ISARET · 0 HATA
+**Özet:** 2 OK · 0 ISARET · 0 HATA · 33 ATOMSUZ

@@ -1,7 +1,7 @@
 {
   "id": "aktor-tang-hanedani",
   "gecis": 2,
-  "zaman": "2026-08-21T04:15:26.188Z",
+  "zaman": "2026-08-28T18:13:43.872Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -70,12 +70,6 @@
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Muhammed'in amcası Abbas'tan alır.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
       "anahtar": "k2",
       "iddia": "Muhammed'in amcası Abbas'tan alır.",
       "durum": "OK",
@@ -83,7 +77,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Tang'ın cevabı ise sınav ve bürokrasidir.",
+      "iddia": "Tang'ın cevabı ise imparatorluk sınavı ve sivil idaredir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

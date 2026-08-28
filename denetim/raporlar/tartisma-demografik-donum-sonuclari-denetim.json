@@ -1,7 +1,7 @@
 {
   "id": "tartisma-demografik-donum-sonuclari",
   "gecis": 2,
-  "zaman": "2026-08-21T12:53:04.810Z",
+  "zaman": "2026-08-28T18:13:47.120Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -47,7 +47,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, Japonya'nın 1888-2019 arasındaki demografik geçişini örnek verir; nüfusun doğal olarak 38,6 milyondan 123,9 milyona çıktığını, ancak şu anda düşük doğur",
+      "iddia": "Kaynak, Japonya'nın 1888-2019 arasındaki demografik geçişini örnek verir; nüfusun doğal olarak 38,6 milyondan 123,9 milyona çıktığını, hâlihazırda azalmakta old",
       "durum": "OK",
       "not": ""
     },

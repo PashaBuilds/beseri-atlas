@@ -1,8 +1,14 @@
 {
   "id": "tartisma-1929-krizinin-nedeni",
   "gecis": 2,
-  "zaman": "2026-08-21T12:44:16.094Z",
+  "zaman": "2026-08-28T18:13:46.935Z",
   "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu haritanın çıkış noktası kaynağın içindekiler yapısıdır: nedenler tek bir listede değil, ayrı katmanlarda durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
     {
       "anahtar": "k1",
       "iddia": "Kaynak, genel kuramsal muhakeme başlığını ikiye ayırır: ana akım kuramlar ve heterodoks kuramlar.",

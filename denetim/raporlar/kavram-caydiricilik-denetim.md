@@ -1,13 +1,40 @@
 ## kavram-caydiricilik
-_Geçiş 2 — kaynak denetimi · 2026-08-21T09:52:50.645Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:45.474Z_
 
-- undefined k1 → "Kaynak, kavram bölümünün altında üç alt başlık tutar: orantılılık, karşılıklılık ve zorlayıcı inandırıcılık." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Bir askerî kavramın üç ayrı ölçütle tanımlanması, atlasın şu kuralının dayanağıdır: bu dosyada caydırıcılık, t…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Kaynak akılcı caydırıcılık kuramına ayrı bir bölüm ayırır ve altında askerî denge, işaret verme ve pazarlık gü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Aynı kavramın hem genel hem akılcı bir sürümünün kaydedilmesi, kavramın tek bir kuramsal çerçeveye ait olmadığ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Kaynak tarih bölümünü İkinci Dünya Savaşı ve Soğuk Savaş alt başlıklarına ayırır; Soğuk Savaş altında kavram v…" — programatik olarak ölçülemedi (ad karşılığı yok): İkinci, Dünya, Savaşı, Soğuk
-- undefined k2 → "Yakın bir kavram için tutulan kayıt, o kurama karşı tarihsel kanıtlara ayrı bir alt başlık ayırır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kaynak, kavram bölümünün altında üç alt başlık tutar: orantılılık, karşılıklılık ve zorlayıcı inandırıcılık." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bir askerî kavramın üç ayrı ölçütle tanımlanması, atlasın şu kuralının dayanağıdır: bu dosyada caydırıcılık, t…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kaynak akılcı caydırıcılık kuramına ayrı bir bölüm ayırır ve altında askerî denge, işaret verme ve pazarlık gü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Aynı kavramın hem genel hem akılcı bir sürümünün kaydedilmesi, kavramın tek bir kuramsal çerçeveye ait olmadığ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kaynak tarih bölümünü İkinci Dünya Savaşı ve Soğuk Savaş alt başlıklarına ayırır; Soğuk Savaş altında kavram v…" — programatik olarak ölçülemedi (ad karşılığı yok): İkinci, Dünya, Savaşı, Soğuk
+- [ATOMSUZ] k2 → "Yakın bir kavram için tutulan kayıt, o kurama karşı tarihsel kanıtlara ayrı bir alt başlık ayırır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k3 → "Thomas Hobbes için tutulan kayıt, onu 1588-1679 arasına yerleştirir ve siyaset felsefesinde mutlak egemenliği …"
-- undefined k1 → "Nükleer caydırıcılık kuramı, örnekler ve eleştiriler burada ayrı başlıklar altında ele alınmamıştır; kaynak bu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Caydırıcılık, karşı tarafın hesabını değiştirmeye dayanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu, fiilî kullanımı değil kullanılabilirlik algısını gerektirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu ayrımı kavramın merkezine koyar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kavram üç koşula bağlıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Üçünden biri eksikse mekanizma işlemez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu koşulları ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Caydırıcılığın en büyük yöntem sorunu budur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "İki açıklama aynı gözlemle uyumludur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu belirsizliği korur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Caydırıcılık sürekli yatırım gerektirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu maliyet, kapasiteye oranlandığında taraflar için farklı ağırlık taşır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu oranı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kavram, taraf sayısı arttıkça karmaşıklaşır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Her yeni taraf, diğerlerinin hesabını değiştirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kavram nükleer silahla sınırlı değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Ortak yan, tehdidin kullanılmadan sonuç üretmesidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu genellemeyi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kavram yirminci yüzyılda adlandırıldı ama mekanizma çok daha eskidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Ortak yan, kapasitenin görünür kılınmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu sürekliliği ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Mekanizma karşı tarafın doğru hesap yapmasına bağlıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu, iletişimi mekanizmanın parçası hâline getirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Caydırıcılık savunmadan ayrıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "İki strateji farklı yatırım gerektirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Atlas bu ayrımı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Nükleer caydırıcılık kuramı, örnekler ve eleştiriler burada ayrı başlıklar altında ele alınmamıştır; kaynak bu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 1 OK · 0 ISARET · 0 HATA
+**Özet:** 1 OK · 0 ISARET · 0 HATA · 34 ATOMSUZ

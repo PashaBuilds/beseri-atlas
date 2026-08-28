@@ -1,7 +1,7 @@
 {
   "id": "dusunur-malthus",
   "gecis": 2,
-  "zaman": "2026-08-21T09:00:13.734Z",
+  "zaman": "2026-08-28T18:13:44.832Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -29,7 +29,13 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir kuramın döngüsel olarak kurulması, atlasın bunu bir öngörü değil bir model olarak kaydetmesini gerektirir; modelin sonraki verilerle ilişkisi dosyasında ele",
+      "iddia": "Bir kuramın döngüsel olarak kurulması, atlasın bunu bir öngörü değil bir model olarak kaydetmesini gerektirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Modelin sonraki nüfus verileriyle ilişkisi için atlasın kavram katmanında ayrı bir dosya vardır; o dosyanın adı yirminci yüzyılda ortaya çıkmış bir terimdir ve ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -74,6 +80,12 @@
       "iddia": "Hayatı, Tahıl Yasaları üzerine yazıları, siyasal iktisat ilkeleri ve sonraki alımlanması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı böl",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tahıl, Yasaları"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Nufus Ilkesi Uzerine Deneme.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Nufus, Ilkesi, Uzerine, Deneme"
     }
   ]
 }

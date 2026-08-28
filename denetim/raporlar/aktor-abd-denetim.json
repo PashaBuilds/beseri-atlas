@@ -1,7 +1,7 @@
 {
   "id": "aktor-abd",
   "gecis": 2,
-  "zaman": "2026-08-21T08:20:43.617Z",
+  "zaman": "2026-08-28T18:13:41.007Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -23,7 +23,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak federal hükümet genelinde geçerli yazım kurallarını aktarır: uzun biçim her zaman kullanılır; başka bir ülkenin adının geçtiği bir cümlede uzun biçim kul",
+      "iddia": "Kaynak federal hükümet genelinde geçerli yazım kurallarını aktarır: kurala göre uzun biçimin kullanılması esastır ve başka bir ülkenin adının geçtiği bir cümled",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

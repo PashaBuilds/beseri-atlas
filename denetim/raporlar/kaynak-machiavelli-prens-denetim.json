@@ -1,7 +1,7 @@
 {
   "id": "kaynak-machiavelli-prens",
   "gecis": 2,
-  "zaman": "2026-08-21T10:35:44.440Z",
+  "zaman": "2026-08-28T18:13:49.620Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -58,8 +58,8 @@
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir ansiklopedi maddesidir.",
+      "anahtar": "k4",
+      "iddia": "Bu dosya eserin kamu malı tam metnine bağlanır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

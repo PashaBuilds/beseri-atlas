@@ -1,7 +1,7 @@
 {
   "id": "dusunur-mahan",
   "gecis": 2,
-  "zaman": "2026-08-21T09:14:39.156Z",
+  "zaman": "2026-08-28T18:13:44.809Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -17,7 +17,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir kuramın etkisinin tek bir başlık altında değil beş ayrı ülke başlığında işlenmesi, aynı metnin farklı yerlerde farklı biçimde okunabildiğini gösterir; atlas",
+      "iddia": "Bir kuramın etkisinin tek bir başlık altında değil beş ayrı ülke başlığında işlenmesi, atlasın kendi kuralının dayanağıdır: bu dosyada etki cümleleri ülke belir",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -62,6 +62,12 @@
       "iddia": "Deniz gücü tezinin içeriği, donanma kariyeri, dinî yaşamı ve sonraki alımlanması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler ol",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Deniz Gucunun Tarihe Etkisi.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Deniz, Gucunun, Tarihe, Etkisi"
     }
   ]
 }

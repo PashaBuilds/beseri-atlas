@@ -1,7 +1,7 @@
 {
   "id": "dusunur-montesquieu",
   "gecis": 2,
-  "zaman": "2026-08-21T08:56:38.564Z",
+  "zaman": "2026-08-28T18:13:44.906Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -74,6 +74,12 @@
       "iddia": "Kanunların Ruhu'nun içeriği, iklim kuramı, hukuk görüşleri ve sonraki alımlanması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler o",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ruhu"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Kanunlarin Ruhu.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kanunlarin, Ruhu"
     }
   ]
 }

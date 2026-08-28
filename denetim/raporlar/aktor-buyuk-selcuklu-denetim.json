@@ -1,8 +1,32 @@
 {
   "id": "aktor-buyuk-selcuklu",
   "gecis": 2,
-  "zaman": "2026-08-21T13:14:12.590Z",
+  "zaman": "2026-08-28T18:13:41.620Z",
   "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Büyük Selçuklu Devleti, Horasan bölgesinden başlayarak İran ve Irak üzerinden batıya uzanan bir siyasi düzen kurmuştur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu düzenin atlas açısından ayırt edici yanı, yönetim yapısının dönemin içinden yazılmış bir metin üzerinden okunabilmesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu düzenin atlas açısından ayırt edici yanı, yönetim yapısının dönemin içinden yazılmış bir metin üzerinden okunabilmesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "dosyası aynı yılların doğusunu, dosyası ise merkezî otorite tarafını anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
     {
       "anahtar": "k1",
       "iddia": "Tuğrul Bey 434'te (1042-43) Hârizm'i Şah Melik'in elinden kurtardı ve aynı yıl Rey'i devletinin merkezi yaptı; daha sonra Hemedan'ı aldı ve İsfahan hâkimini ver",
@@ -11,9 +35,15 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Tuğrul Bey 439 (1047-48) yılında Büveyhî hükümdarı Ebû Kâlîcâr ile barış antlaşması imzaladı ve onun kızıyla evlendi; Çağrı Bey'in kızlarından birini de Ebû Kâl",
+      "iddia": "Selçuklu düzeni, Abbasi halifeliğine bağlılığını korurken fiilî siyasi gücü elinde tutmuştur.",
       "durum": "OK",
       "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bağlılığın sembolik göstergeleri ile fiilî gücün dağılımı ayrı ayrı işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
@@ -35,6 +65,48 @@
     },
     {
       "anahtar": "k1",
+      "iddia": "Tuğrul Bey 439 (1047-48) yılında Büveyhî hükümdarı Ebû Kâlîcâr ile barış antlaşması imzaladı ve onun kızıyla evlendi; Çağrı Bey'in kızlarından birini de Ebû Kâl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Dönemin idari düzeninde vezirlik makamı belirleyici bir yer tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Vezirin yazdığı metin, idari düzenin nasıl olması gerektiğini anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Görevlilerin denetimi, haber alma düzeni ve saray teşkilatı gibi başlıkların metinde ayrı ayrı ele alınması, bu konuların yönetimin sorunları arasında sayıldığı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Dönemde kurulan medreseler, eğitim ile yönetim arasındaki bağın kurumsallaşmasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kurumların kurulması bilgi üretimini artırabilir; aynı kurumlar, finanse edenin tercihlerini de yansıtabilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu anlatıların hiçbirini benimsemez ve olayların kendisini kaydetmekle yetinir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
       "iddia": "Alparslan 1067 yılında yeniden Bizans ve Gürcistan sınırlarında göründü; Bizans'a ait Kars fethedildi ve Gürcü kralı Selçuklular'a tâbi oldu.",
       "durum": "OK",
       "not": ""
@@ -53,6 +125,18 @@
     },
     {
       "anahtar": "k1",
+      "iddia": "Siyasi düzenin zaman içinde kollara ayrılması, atlasın aktör dosyalarında tekrar eden bir sorunu doğurur: bölünen bir birim, tek dosyada mı yoksa ayrı dosyalard",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Künyede verilen başlangıç ve bitiş tarihleri, kaynaktaki genel çerçeveyi izler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
       "iddia": "Anadolu Selçukluları 1075–1308, Suriye Selçukluları ise 1079–1117 arasına tarihlenir; Büyük Selçuklu Sultanı Melikşah 471 (1078) yılında kardeşi Tutuş'a Suriye'",
       "durum": "OK",
       "not": ""
@@ -64,28 +148,166 @@
       "not": ""
     },
     {
-      "anahtar": "k2",
+      "anahtar": "k4",
       "iddia": "Batıdaki rakibin büyüklüğü kayıtlıdır: Bizans için 1025 yılında yaklaşık 12.000.000 nüfus ve 1.675.000 kilometrekare alan verilir.",
       "durum": "OK",
       "not": ""
     },
     {
+      "anahtar": "k1",
+      "iddia": "Bu dosyanın kaynak durumu, atlasın aynı bölge kümesindeki diğer dosyalarıyla karşılaştırıldığında ayrı bir yerde durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
       "anahtar": "k3",
+      "iddia": "Selçuklu düzeni için durum farklıdır: dönemin veziri tarafından, dönemin sultanı için yazılmış bir metin elimizdedir ve çevirisi erişilebilir durumdadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir vezirin yazdığı metin tarafsız bir kayıt değildir; yazar hem yönetimin içindedir hem de kendi konumunu savunmaktadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin toprak ve gelir düzeninde, hizmet karşılığı gelir tahsisi merkezî bir yer tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gelir tahsisi, merkezin nakit yükünü hafifletir; aynı düzen, tahsis edilen bölgede yerel gücün birikmesine de yol açabilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Vezirin yazdığı metin, görevlilerin denetlenmesine ayrı bir yer ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Siyasi düzenin kurucu unsurları ile yönetim dili arasındaki fark, bu dönemin kayda değer özelliklerinden biridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Orada Türkçe bir yazı dili olarak eser vermişti; burada yönetimin yazı dili farklı bir tercihi izler.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Türkçe"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya, dosyasında \"atlasta bulunmuyordu\" diye işaretlenen boşluğu kapatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yöntemle bu dosya da kendi boşluklarını bırakır: askerî teşkilat, toprak düzeninin ayrıntıları ve batıya doğru genişlemenin sonuçları burada işlenmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlasın borç defterleri uzun süredir kapatılmayı bekleyen kayıtlar taşıyor; bu dosyanın bıraktığı notlar da o listeye eklenir ve kendiliğinden kapanmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
       "iddia": "Meşruiyetin kaynağı olan kurum için tutulan bağımsız kayıt, Hülâgû'nün Bağdat önüne gelişini 11 Muharrem 656 / Ocak 1258 olarak verir ve halifenin barış için bo",
       "durum": "OK",
       "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k3",
+      "anahtar": "k5",
       "iddia": "Aynı kayıt, önceki hanedanın sonunu 132 / Ağustos 750'ye yerleştirir.",
       "durum": "OK",
       "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k3",
+      "anahtar": "k5",
       "iddia": "Bir hanedanın adını verdiği hilafetin beş yüz yıl sürüp tek bir kuşatmayla sona ermesi, Selçukluların koruyuculuğunu üstlendiği kurumun ne kadar kırılgan olduğu",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): Selçukluların"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya üç kaynağa dayanır: siyasi düzen üzerine bir madde, dönemin veziri üzerine ayrı bir madde, ve o vezirin yazdığı metnin çevirisi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya üç kaynağa dayanır: siyasi düzen üzerine bir madde, dönemin veziri üzerine ayrı bir madde, ve o vezirin yazdığı metnin çevirisi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya üç kaynağa dayanır: siyasi düzen üzerine bir madde, dönemin veziri üzerine ayrı bir madde, ve o vezirin yazdığı metnin çevirisi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya hazırlanırken iki ansiklopedi maddesi daha aday olarak sınandı ve reddedildi: sorgulanan adresler madde sayfası değil arama sonucu sayfası döndürüyordu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir sayfanın aranan dizeyi içermesi, o sayfanın aranan içerik olduğunu göstermez; dizinin sayfada bulunması ile sayfanın konusu olması ayrı şeylerdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Askerî teşkilat ve toprak düzeni ayrıntılı olarak işlenmez; Anadolu'daki gelişmeler ayrı dosyalar gerektirir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Okur, aynı yüzyıllar için farklı tarih aralıkları veren iki dosyayla karşılaşıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir dosya kuruluş tekniğini ve batı sınırındaki basıncı tarihleriyle veriyordu; öteki, idari düzeni dönemin kendi veziri tarafından yazılmış metin üzerinden oku",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir dosya kuruluş tekniğini ve batı sınırındaki basıncı tarihleriyle veriyordu; öteki, idari düzeni dönemin kendi veziri tarafından yazılmış metin üzerinden oku",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Genişlik, bir ölçüm değil bir belirsizlik beyanıdır; hanedanın hangi yılda kurulmuş sayılacağı kaynaklar arasında değişir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı coğrafyanın daha erken siyasi düzeni için dosyası okunmalıdır; iki dosya, katmanlı egemenliğin iki farklı ölçekteki örneğini kaydeder ve birlikte okundukla",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosyanın kurduğu iddiaların bir bölümü dönemin içinden bir metne dayanmaktadır; o metnin kendisini okumadan bu dosyadaki çıkarımlar sınanamaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }
   ]
 }

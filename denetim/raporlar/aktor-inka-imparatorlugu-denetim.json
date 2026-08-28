@@ -1,7 +1,7 @@
 {
   "id": "aktor-inka-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-21T07:12:23.774Z",
+  "zaman": "2026-08-28T18:13:42.528Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -41,7 +41,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Bu liste, imparatorluğun bir ulus-devlet olmadığını gösterir; resmî dil, konuşulanların yalnızca biridir.",
+      "iddia": "Bu liste, imparatorluğun tek bir dil topluluğu üzerine kurulmadığını gösterir; resmî dil, konuşulanların yalnızca biridir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

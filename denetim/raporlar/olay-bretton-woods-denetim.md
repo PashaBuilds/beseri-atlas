@@ -1,5 +1,5 @@
 ## olay-bretton-woods
-_Geçiş 2 — kaynak denetimi · 2026-08-21T05:36:42.004Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:38.555Z_
 
 - [OK]      k1 → "Bretton Woods sistemi, ülkelerin kendi para birimlerinin ABD dolarına çevrilebilirliğini güvence altına alması…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kuralın asimetrisi kaynakta açıkça belirtilir: dünyanın altınının üçte ikisini elinde tutan Amerika Birleşik D…" — 2 atom doğrulandı; 2 ad ölçülemedi
@@ -13,6 +13,6 @@ _Geçiş 2 — kaynak denetimi · 2026-08-21T05:36:42.004Z_
 - [OK]      k1 → "15 Ağustos 1971'de Amerika Birleşik Devletleri çevrilebilirliği sona erdirdi." — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Aynı dönemde Eurodolar büyümesi sermaye akımlarını artırdı ve sermaye hareketlerinin düzenlenmesini zorladı."
 - [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır."
-- undefined k1 → "Kaynak savaş sonrası müzakereleri ayrı bir başlık altında ele alır; bu dosya o başlığı kapsamaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kaynak savaş sonrası müzakereleri ayrı bir başlık altında ele alır; bu dosya o başlığı kapsamaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 12 OK · 0 ISARET · 0 HATA
+**Özet:** 12 OK · 0 ISARET · 0 HATA · 1 ATOMSUZ

@@ -1,7 +1,7 @@
 {
   "id": "tartisma-kesif-mi-istila-mi",
   "gecis": 2,
-  "zaman": "2026-08-21T11:58:49.583Z",
+  "zaman": "2026-08-28T18:13:47.411Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -48,6 +48,12 @@
     {
       "anahtar": "k3",
       "iddia": "Adlandırmanın tarihselliği üzerine yazan bir yazar için tutulan kayıt, onu hem tarihçi hem filozof olarak kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sömürge düzenini adlandıran kavram dosyası üst verideki ilgili alanında tutulmaktadır; adı on dokuzuncu yüzyıla ait olduğu için bu dosyanın gövdesinde anılmamış",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

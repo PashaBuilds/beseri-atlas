@@ -1,7 +1,7 @@
 {
   "id": "aktor-birlesmis-milletler",
   "gecis": 2,
-  "zaman": "2026-08-21T13:14:12.533Z",
+  "zaman": "2026-08-28T18:13:41.490Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -92,6 +92,12 @@
       "iddia": "Barışı koruma operasyonları, insan hakları mekanizmaları, Güvenlik Konseyi veto düzeni ve reform tartışmaları burada ayrı başlıklar altında ele alınmamıştır; ka",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): Güvenlik, Konseyi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya birlesmis milletler sarti'nin metnine bağlanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }
   ]
 }

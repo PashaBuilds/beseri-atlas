@@ -1,56 +1,56 @@
 ## aktor-kilva
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:07:25.044Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:42.667Z_
 
 - [OK]      k1 → "Kilva, Doğu Afrika kıyısında bir ada üzerinde kurulmuş liman şehridir ve kıyı boyunca uzanan şehir devletleri …"
 - [OK]      k2 → "Kilva, Doğu Afrika kıyısında bir ada üzerinde kurulmuş liman şehridir ve kıyı boyunca uzanan şehir devletleri …"
-- undefined k1 → "Şehir, karadan gelen mal ile denizden gelen mal arasındaki değişim noktasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Şehir, karadan gelen mal ile denizden gelen mal arasındaki değişim noktasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "İç bölgeden çıkan altın ve fildişi buradan Hint Okyanusu ağına girer; okyanustan gelen kumaş, seramik ve boncu…"
-- undefined k3 → "İç bölgeden çıkan altın ve fildişi buradan Hint Okyanusu ağına girer; okyanustan gelen kumaş, seramik ve boncu…" — programatik olarak ölçülemedi (ad karşılığı yok): Hint, Okyanusu
+- [ATOMSUZ] k3 → "İç bölgeden çıkan altın ve fildişi buradan Hint Okyanusu ağına girer; okyanustan gelen kumaş, seramik ve boncu…" — programatik olarak ölçülemedi (ad karşılığı yok): Hint, Okyanusu
 - [OK]      k1 → "Kilva'yı yalnızca Afrika etiketiyle kaydetmek onu Hint Okyanusu ağından koparırdı; yalnızca ticaret ağıyla kay…"
 - [OK]      k3 → "Kilva'yı yalnızca Afrika etiketiyle kaydetmek onu Hint Okyanusu ağından koparırdı; yalnızca ticaret ağıyla kay…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Hint Okyanusu ticareti mevsimlik rüzgârlarla işler."
-- undefined k3 → "Hint Okyanusu ticareti mevsimlik rüzgârlarla işler." — programatik olarak ölçülemedi (ad karşılığı yok): Okyanusu
-- undefined k1 → "Bir tüccarın aylarca beklemesi gerekiyorsa, limanın onu barındıracak, koruyacak ve anlaşmazlığını çözecek kuru…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Kıyıya gelen altının kaynağı sahil değil, iç bölgedeki yaylalardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "İki siyasi düzen ayrıdır, kayıtları ayrıdır ve biri hakkında bilinenler öbürü hakkında bilinenlerle aynı türde…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k3 → "Kıyıyı gezmiş bir seyyahın kaydı, bu dosyanın bağlandığı birincil metindir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k3 → "Aynı kayıt, dosyasında ayrıntılı olarak ele alınır ve güvenilirliği tartışılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k3 → "Bir gezginin bir şehri "büyük" ya da "güzel" bulması ölçülebilir bir bilgi değildir; nereden geldiğine ve neyl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Kıyıda konuşulan dil, yerel bir tabanla ticaret ağının getirdiği kelime dağarcığının birleşmesinden oluşur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k2 → "Kıyıda konuşulan dil, yerel bir tabanla ticaret ağının getirdiği kelime dağarcığının birleşmesinden oluşur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Kıyı, ne dışarıdan gelenlerin kurduğu bir koloni ne de dışarıya kapalı bir yerel düzendir; ikisinin de değil, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k2 → "Kıyı, ne dışarıdan gelenlerin kurduğu bir koloni ne de dışarıya kapalı bir yerel düzendir; ikisinin de değil, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Hint Okyanusu ticareti mevsimlik rüzgârlarla işler." — programatik olarak ölçülemedi (ad karşılığı yok): Okyanusu
+- [ATOMSUZ] k1 → "Bir tüccarın aylarca beklemesi gerekiyorsa, limanın onu barındıracak, koruyacak ve anlaşmazlığını çözecek kuru…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kıyıya gelen altının kaynağı sahil değil, iç bölgedeki yaylalardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İki siyasi düzen ayrıdır, kayıtları ayrıdır ve biri hakkında bilinenler öbürü hakkında bilinenlerle aynı türde…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Kıyıyı gezmiş bir seyyahın kaydı, bu dosyanın bağlandığı birincil metindir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Aynı kayıt, dosyasında ayrıntılı olarak ele alınır ve güvenilirliği tartışılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bir gezginin bir şehri "büyük" ya da "güzel" bulması ölçülebilir bir bilgi değildir; nereden geldiğine ve neyl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kıyıda konuşulan dil, yerel bir tabanla ticaret ağının getirdiği kelime dağarcığının birleşmesinden oluşur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kıyıda konuşulan dil, yerel bir tabanla ticaret ağının getirdiği kelime dağarcığının birleşmesinden oluşur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kıyı, ne dışarıdan gelenlerin kurduğu bir koloni ne de dışarıya kapalı bir yerel düzendir; ikisinin de değil, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kıyı, ne dışarıdan gelenlerin kurduğu bir koloni ne de dışarıya kapalı bir yerel düzendir; ikisinin de değil, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ISARET]  k1 → "Bölge etiketleri kümeler kurar ama gerçek düzenler çoğu zaman kümelerin sınırında oturur; Kilva'nın birden çok…" — özel isim kaynakta bulunamadı: Kilva
-- undefined k1 → "On altıncı yüzyıl başında okyanusa giren yeni bir deniz gücü, kıyı şehirlerinin ticaretteki aracılık konumunu …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k2 → "On altıncı yüzyıl başında okyanusa giren yeni bir deniz gücü, kıyı şehirlerinin ticaretteki aracılık konumunu …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Kırılmanın biçimi kayda değerdir: ticaret ağı ortadan kalkmamış, ağdaki aracılık payı el değiştirmiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Bu dosya üç kaynağa dayanır: şehir üzerine bir ansiklopedi maddesi, aynı kıyıdaki bir başka liman üzerine ayrı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k2 → "Bu dosya üç kaynağa dayanır: şehir üzerine bir ansiklopedi maddesi, aynı kıyıdaki bir başka liman üzerine ayrı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k3 → "Bu dosya üç kaynağa dayanır: şehir üzerine bir ansiklopedi maddesi, aynı kıyıdaki bir başka liman üzerine ayrı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Bu, atlasın son dönemde yazılan dosyalarında hedeflenen bileşimdir ve burada tutturulmuştur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k3 → "Bu, atlasın son dönemde yazılan dosyalarında hedeflenen bileşimdir ve burada tutturulmuştur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k3 → "Bir metnin söylediğini sınamak için ikinci bir çağdaş kayıt gerekir; bu dosya yazıldığında doğrulanabilir bir …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "On altıncı yüzyıl başında okyanusa giren yeni bir deniz gücü, kıyı şehirlerinin ticaretteki aracılık konumunu …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "On altıncı yüzyıl başında okyanusa giren yeni bir deniz gücü, kıyı şehirlerinin ticaretteki aracılık konumunu …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kırılmanın biçimi kayda değerdir: ticaret ağı ortadan kalkmamış, ağdaki aracılık payı el değiştirmiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu dosya üç kaynağa dayanır: şehir üzerine bir ansiklopedi maddesi, aynı kıyıdaki bir başka liman üzerine ayrı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu dosya üç kaynağa dayanır: şehir üzerine bir ansiklopedi maddesi, aynı kıyıdaki bir başka liman üzerine ayrı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu dosya üç kaynağa dayanır: şehir üzerine bir ansiklopedi maddesi, aynı kıyıdaki bir başka liman üzerine ayrı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu, atlasın son dönemde yazılan dosyalarında hedeflenen bileşimdir ve burada tutturulmuştur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu, atlasın son dönemde yazılan dosyalarında hedeflenen bileşimdir ve burada tutturulmuştur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bir metnin söylediğini sınamak için ikinci bir çağdaş kayıt gerekir; bu dosya yazıldığında doğrulanabilir bir …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Doğrulanabilir, makine okunur ve katalog künyesiyle teyit edilmiş tam metinleri bulunamadı; aynı kısıt atlasın…"
-- undefined k2 → "Kıyıdaki öteki şehir devletleri ayrı ayrı işlenmez; her biri kendi dosyasını gerektirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kıyıdaki öteki şehir devletleri ayrı ayrı işlenmez; her biri kendi dosyasını gerektirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k3 → "Hint Okyanusu ağının doğu ucu — Hindistan, Güneydoğu Asya ve Çin bağlantıları — burada yalnızca işaret edilir." — 2 atom doğrulandı; 2 ad ölçülemedi
-- undefined k1 → "Bu dosyanın atlasa kattığı asıl soru şudur: bir liman şehri hangi tarihe aittir — arkasındaki kıtanın tarihine…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k3 → "Bu dosyanın atlasa kattığı asıl soru şudur: bir liman şehri hangi tarihe aittir — arkasındaki kıtanın tarihine…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Kilva, iç bölgeyle olan bağını kaybederse elinde satacak mal kalmaz; okyanus ağıyla olan bağını kaybederse mal…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu dosyanın atlasa kattığı asıl soru şudur: bir liman şehri hangi tarihe aittir — arkasındaki kıtanın tarihine…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu dosyanın atlasa kattığı asıl soru şudur: bir liman şehri hangi tarihe aittir — arkasındaki kıtanın tarihine…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kilva, iç bölgeyle olan bağını kaybederse elinde satacak mal kalmaz; okyanus ağıyla olan bağını kaybederse mal…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Afrika tarihi anlatıları kıyıyı kıtanın kenarı sayar; Hint Okyanusu tarihi anlatıları kıyıyı ağın bir düğümü s…"
-- undefined k1 → "Bir dosyanın birden çok etiket taşıması, kararsızlık değil, düzenin kendi biçiminin kaydıdır; tek etiket seçme…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Kıyıda tek bir merkezî devlet değil, birbirinden bağımsız liman şehirleri dizisi bulunur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k2 → "Kıyıda tek bir merkezî devlet değil, birbirinden bağımsız liman şehirleri dizisi bulunur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bir dosyanın birden çok etiket taşıması, kararsızlık değil, düzenin kendi biçiminin kaydıdır; tek etiket seçme…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kıyıda tek bir merkezî devlet değil, birbirinden bağımsız liman şehirleri dizisi bulunur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kıyıda tek bir merkezî devlet değil, birbirinden bağımsız liman şehirleri dizisi bulunur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ISARET]  k1 → "Kavram Akdeniz örnekleri üzerinden tanımlanmıştır; burada aynı biçimin başka bir okyanus kıyısında ortaya çıkm…" — özel isim kaynakta bulunamadı: Akdeniz
-- undefined k1 → "Bir kavram yalnızca doğduğu bağlamda geçerliyse tanım değil betimlemedir; başka bağlamlarda da işliyorsa karşı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k2 → "Bir kavram yalnızca doğduğu bağlamda geçerliyse tanım değil betimlemedir; başka bağlamlarda da işliyorsa karşı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Sınamanın sonucu her zaman olumlu olmaz ve bu dosyada da tam bir eşleşme iddia edilmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "İki biçimin benzediğini söylemek için ikisinin iç düzenini aynı ayrıntıda bilmek gerekir; bu dosyanın kaynakla…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k2 → "İki biçimin benzediğini söylemek için ikisinin iç düzenini aynı ayrıntıda bilmek gerekir; bu dosyanın kaynakla…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bir kavram yalnızca doğduğu bağlamda geçerliyse tanım değil betimlemedir; başka bağlamlarda da işliyorsa karşı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bir kavram yalnızca doğduğu bağlamda geçerliyse tanım değil betimlemedir; başka bağlamlarda da işliyorsa karşı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sınamanın sonucu her zaman olumlu olmaz ve bu dosyada da tam bir eşleşme iddia edilmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İki biçimin benzediğini söylemek için ikisinin iç düzenini aynı ayrıntıda bilmek gerekir; bu dosyanın kaynakla…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "İki biçimin benzediğini söylemek için ikisinin iç düzenini aynı ayrıntıda bilmek gerekir; bu dosyanın kaynakla…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Bu dosya, atlasın Afrika kapsamını genişletme çalışmasının dördüncü adımıdır ve kümenin ilk doğu kıyısı dosyas…"
 - [OK]      k3 → "Doğu kıyısının eklenmesi, kümeye yeni bir bağ türü kazandırır: Hint Okyanusu üzerinden Asya'ya uzanan bağ." — 1 atom doğrulandı; 2 ad ölçülemedi
-- undefined k2 → "Kıyı boyunca uzanan öteki şehirler, iç bölgedeki öteki düzenler ve okyanusun doğu ucundaki bağlantılar kaydedi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Siyasi biçimin kavram karşılığı için dosyası okunmalıdır; bu dosya kavramı başka bir okyanus kıyısında sınar v…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k3 → "Son bir uyarı: bu dosya bir liman şehrini kaydeder ama şehrin bağlı olduğu ağın tamamını kapsamaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k2 → "Ağın tamamının kaydedilmesi, atlasın kapsam planında ayrı bir iş kalemidir ve bu dosyanın bıraktığı notlarla b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kıyı boyunca uzanan öteki şehirler, iç bölgedeki öteki düzenler ve okyanusun doğu ucundaki bağlantılar kaydedi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Siyasi biçimin kavram karşılığı için dosyası okunmalıdır; bu dosya kavramı başka bir okyanus kıyısında sınar v…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Son bir uyarı: bu dosya bir liman şehrini kaydeder ama şehrin bağlı olduğu ağın tamamını kapsamaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Ağın tamamının kaydedilmesi, atlasın kapsam planında ayrı bir iş kalemidir ve bu dosyanın bıraktığı notlarla b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 11 OK · 2 ISARET · 0 HATA
+**Özet:** 11 OK · 2 ISARET · 0 HATA · 38 ATOMSUZ

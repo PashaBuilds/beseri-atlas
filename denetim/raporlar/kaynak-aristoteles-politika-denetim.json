@@ -1,7 +1,7 @@
 {
   "id": "kaynak-aristoteles-politika",
   "gecis": 2,
-  "zaman": "2026-08-21T11:17:13.012Z",
+  "zaman": "2026-08-28T18:13:49.155Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -58,8 +58,8 @@
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak eser hakkındaki bir ansiklopedi maddesidir.",
+      "anahtar": "k4",
+      "iddia": "Bu dosya eserin kamu malı tam metnine bağlanır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

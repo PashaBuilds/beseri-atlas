@@ -1,7 +1,7 @@
 {
   "id": "kavram-sivil-toplum",
   "gecis": 2,
-  "zaman": "2026-08-21T09:52:50.741Z",
+  "zaman": "2026-08-28T18:13:46.471Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -56,6 +56,12 @@
       "iddia": "Demokrasi ile ilişkisi, iktisadi boyutu ve kurumların ayrıntısı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu kavramın formüle edildiği eser Tocqueville, Amerika'da Demokrasi'dir; dosya o eserin kamu malı tam metnine bağlanır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     }
   ]
 }

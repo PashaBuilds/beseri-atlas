@@ -1,7 +1,7 @@
 {
   "id": "olay-taiping-isyani",
   "gecis": 2,
-  "zaman": "2026-08-21T05:30:31.895Z",
+  "zaman": "2026-08-28T18:13:40.554Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -41,7 +41,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Son Taiping ordusu ise Ağustos 1871'de hükümet güçlerince tamamen imha edildi.",
+      "iddia": "Kaynağa göre son Taiping ordusu ise Ağustos 1871'de hükümet güçlerince bütünüyle imha edilmiştir.",
       "durum": "OK",
       "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },

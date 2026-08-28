@@ -1,7 +1,7 @@
 {
   "id": "kaynak-durkheim-intihar",
   "gecis": 2,
-  "zaman": "2026-08-21T11:43:25.783Z",
+  "zaman": "2026-08-28T18:13:49.252Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -60,6 +60,12 @@
     {
       "anahtar": "k1",
       "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya eserin kamu malı tam metnine bağlanır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

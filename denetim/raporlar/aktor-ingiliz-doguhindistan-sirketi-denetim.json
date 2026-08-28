@@ -1,7 +1,7 @@
 {
   "id": "aktor-ingiliz-doguhindistan-sirketi",
   "gecis": 2,
-  "zaman": "2026-08-21T05:30:31.953Z",
+  "zaman": "2026-08-28T18:13:42.497Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -47,7 +47,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Savaş nedeniyle kesilen ticaret, korsanlık ve krallık onayı arayışı aynı kayıtta art arda gelir; ticaret, savaş ve imtiyaz burada tek bir sürecin üç yüzüdür.",
+      "iddia": "Kaynağın anlatımında savaş nedeniyle kesilen ticaret, korsanlık ve krallık onayı arayışı art arda gelir; ticaret, savaş ve imtiyaz burada tek bir sürecin üç yüz",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

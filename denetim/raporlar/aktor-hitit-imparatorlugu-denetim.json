@@ -1,7 +1,7 @@
 {
   "id": "aktor-hitit-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-21T04:38:48.625Z",
+  "zaman": "2026-08-28T18:13:42.337Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -65,13 +65,13 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Bu imparatorluğun kurulduğu dünyada nüfus, uzun dönemli seride MÖ 3000 için yaklaşık 44,6 milyon, MÖ 1000 için yaklaşık 110,5 milyon olarak verilir.",
+      "iddia": "Çağdaş dünya nüfusu, uzun dönemli seride MÖ 3000 için yaklaşık 44,6 milyon, MÖ 1000 için yaklaşık 110,5 milyon olarak verilir.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Hitit nüfusu için verilen 200.000'in üzeri tahmini ile bu dünya toplamları farklı serilerden gelir; ikisi arasında bir yüzde hesaplamak, dönem içi karşılaştırıl",
+      "iddia": "Hitit nüfusu için verilen 200.000'in üzeri tahmini ile bu değerler farklı serilerden gelir; ikisi arasında bir yüzde hesaplamak, dönem içi karşılaştırılabilirli",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

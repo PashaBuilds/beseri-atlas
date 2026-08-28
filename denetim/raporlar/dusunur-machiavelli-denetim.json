@@ -1,7 +1,7 @@
 {
   "id": "dusunur-machiavelli",
   "gecis": 2,
-  "zaman": "2026-08-21T08:51:15.772Z",
+  "zaman": "2026-08-28T18:13:44.793Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -11,7 +11,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, onun kendisini hiçbir zaman filozof saymamış göründüğünü ve çoğu kez felsefi soruşturmayı konu dışı sayarak açıkça reddettiğini yazar; nitelikleri bakım",
+      "iddia": "Kaynak, onun kendisini filozof saymamış göründüğünü ve çoğu kez felsefi soruşturmayı konu dışı sayarak açıkça reddettiğini yazar; nitelikleri bakımından da stan",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -74,6 +74,12 @@
       "iddia": "Prens'in içeriği, virtù ve fortuna kavramları, Söylevler ve Batı düşüncesindeki yeri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümle",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Hukumdar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Hukumdar"
     }
   ]
 }

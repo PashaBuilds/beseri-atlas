@@ -1,7 +1,7 @@
 {
   "id": "olay-1857-hint-ayaklanmasi",
   "gecis": 2,
-  "zaman": "2026-08-21T05:30:31.774Z",
+  "zaman": "2026-08-28T18:13:37.699Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -38,6 +38,12 @@
       "iddia": "Ayaklanma Britanya zaferiyle sonuçlandı ve toprak değişimi şu biçimde kaydedilir: bazı prenslikler Britanya Hindistanı'na ilhak edildi, diğer prenslikler hâkimi",
       "durum": "OK",
       "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, tekbiçimli bir ilhak değildir: kaynağın kaydına göre bazı prenslikler ilhak edilirken diğerleri özerkliğini korumuştur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",

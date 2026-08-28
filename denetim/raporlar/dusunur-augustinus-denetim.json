@@ -1,7 +1,7 @@
 {
   "id": "dusunur-augustinus",
   "gecis": 2,
-  "zaman": "2026-08-21T08:46:35.639Z",
+  "zaman": "2026-08-28T18:13:44.205Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -74,6 +74,12 @@
       "iddia": "Hayatı, İtiraflar, teolojisi, irade ve zaman görüşleri ile sonraki etkisi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak iş",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): İtiraflar"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Tanri Devleti.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tanri, Devleti"
     }
   ]
 }

@@ -1,12 +1,42 @@
 ## kavram-tasavvuf
-_Geçiş 2 — kaynak denetimi · 2026-08-21T10:07:48.616Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:46.614Z_
 
 - [OK]      k1 → "Kaynak kavramı şöyle tanımlar: İslâm'ın zâhir ve bâtın hükümleri çerçevesinde yaşanan mânevî ve derunî hayat t…"
-- undefined k1 → "Kaynağın kavramı hayat tarzı olarak tanımlaması, atlasın şu kuralının dayanağıdır: bu dosyada tasavvuf, bir do…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Tanımın her iki hüküm türünü birlikte içermesi, kavramın hukukun dışında değil onunla birlikte konumlandırıldı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k3 → "Tanımın her iki hüküm türünü birlikte içermesi, kavramın hukukun dışında değil onunla birlikte konumlandırıldı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kaynağın kavramı hayat tarzı olarak tanımlaması, atlasın şu kuralının dayanağıdır: bu dosyada tasavvuf, bir do…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Tanımın her iki hüküm türünü birlikte içermesi, kavramın hukukun dışında değil onunla birlikte konumlandırıldı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Tanımın her iki hüküm türünü birlikte içermesi, kavramın hukukun dışında değil onunla birlikte konumlandırıldı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Bağımsız bir akademik kaynak, bir düşünürü yaklaşık 1056-1111 arasında yaşamış, Sünni İslam'ın en önde gelen v…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- undefined k2 → "Aynı kişinin dört sıfatla birden kaydedilmesi, atlasın düşünür dosyalarında neden tek bir kategori kullanmadığ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k1 → "Tasavvufun tarihi, tarikatlar, kavramları ve edebiyatı burada ayrı başlıklar altında ele alınmamıştır; kullanı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Aynı kişinin dört sıfatla birden kaydedilmesi, atlasın düşünür dosyalarında neden tek bir kategori kullanmadığ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Tasavvuf başlangıçta bireysel bir tutumdu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Örgütlenme bir aktarım zinciri kurar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Atlas bu yapıyı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Tarikatlar vakıf gelirleriyle finanse edildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu, tarikatları ekonomik birimler hâline getirdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Atlas bu boyutu ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Tarikatların siyasi konumu tek biçimli değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Aynı tarikat farklı dönemlerde farklı konumda bulunabildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Atlas bu değişkenliği ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Tarikatlar sınır bölgelerinde yerleşimi de örgütledi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu işlev dinî olduğu kadar idariydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Tasavvuf geniş bir yazılı külliyat üretti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Yerel dillerin yazılı hâle gelmesinde bu külliyatın payı büyüktür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Tasavvuf kendi geleneği içinde de eleştirildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Tartışma yüzyıllar boyunca sürdü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Atlas bu iç çeşitliliği ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Öğreti, konuşulan dilden bağımsız olarak geniş bir alana yayıldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Yayılmayı taşıyan şey ticaret ağlarıydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Gelenekte kadın mutasavvıflar da vardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Buna karşılık silsilelerde ve kurumsal yapıda görünürlükleri sınırlıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Atlas bu ayrımı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bazı kollarda müzik ve hareket törenin parçasıydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Tartışma yüzyıllara yayıldı ve bölgeden bölgeye farklı sonuçlandı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Atlas bu farkı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Gelenek hakkındaki kayıt iki türdür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "İkisi farklı sorulara cevap verir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Atlas ikisini birlikte kullanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Tasavvufun tarihi, tarikatlar, kavramları ve edebiyatı burada ayrı başlıklar altında ele alınmamıştır; kullanı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 2 OK · 0 ISARET · 0 HATA
+**Özet:** 2 OK · 0 ISARET · 0 HATA · 35 ATOMSUZ

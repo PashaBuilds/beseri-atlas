@@ -1,7 +1,7 @@
 {
   "id": "dusunur-polanyi",
   "gecis": 2,
-  "zaman": "2026-08-21T09:14:39.170Z",
+  "zaman": "2026-08-28T18:13:44.969Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -23,7 +23,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir görüşün bir alanda karşı, başka alanlarda yaygın sayılması, disiplinlerin aynı iddia hakkında farklı yargılara varabileceğini gösterir; atlas bu yüzden kayn",
+      "iddia": "Bir görüşün bir alanda karşı, başka alanlarda yaygın sayılması, atlasın kaynak türü alanını ayrı tutmasının dayanağıdır: bir iddianın nasıl karşılandığı, hangi ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

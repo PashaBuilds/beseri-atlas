@@ -1,85 +1,391 @@
 {
   "id": "aktor-gana-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-21T07:09:21.809Z",
+  "zaman": "2026-08-28T18:13:42.037Z",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak onu Wagadu olarak da kaydeder ve modern Gana ülkesiyle karıştırılmaması gerektiğini açıkça belirtir.",
+      "iddia": "Gana İmparatorluğu, Batı Afrika'da Sahra'nın güney kıyısında, çöl ticaret yollarının ulaştığı kuşakta kurulmuştur.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Sahra"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Gana İmparatorluğu, Batı Afrika'da Sahra'nın güney kıyısında, çöl ticaret yollarının ulaştığı kuşakta kurulmuştur.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu düzenin adı, bugünkü Gana devletinin bulunduğu coğrafyayla aynı yerde değildir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu düzenin adı, bugünkü Gana devletinin bulunduğu coğrafyayla aynı yerde değildir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Gana"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "dosyası aynı bölgede sonraki siyasi düzeni anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynaklar onu Wagadu olarak da kaydeder ve bugünkü Gana devletiyle karıştırılmaması gerektiğini açıkça belirtir.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Wagadu"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaynaklar onu Wagadu olarak da kaydeder ve bugünkü Gana devletiyle karıştırılmaması gerektiğini açıkça belirtir.",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Batı Afrika'da yaklaşık 200'lerden 1200'lere kadar varlığını sürdürmüştür.",
+      "anahtar": "k3",
+      "iddia": "Varlık süresi geniş bir aralıkla verilir: kaynaklar 200'ler ile 1200'ler arasını işaret eder ve künyedeki tarihler bu aralığın uçlarını yansıtır.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak başkenti Koumbi Saleh olarak verir ama yanına bir kayıt düşer: \"muhtemelen sonraki bir başkent\".",
+      "iddia": "Bu düzenin ekonomik temeli, güneyden gelen altın ile kuzeyden gelen tuzun değişimidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu düzenin ekonomik temeli, güneyden gelen altın ile kuzeyden gelen tuzun değişimidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birincisi, yolların güvenliği doğrudan maliye meselesidir; ikincisi, ticaretin yön değiştirmesi siyasi gücü doğrudan zayıflatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaynaklar başkenti Koumbi Saleh olarak verir ama yanına bir kayıt düşer: bunun muhtemelen sonraki bir başkent olduğu belirtilir.",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
+      "anahtar": "k3",
       "iddia": "Bu ihtiyat, bölgenin kayıt geleneğine dair bir bilgidir: yazılı kaynak azlığı, merkezin bile tereddütle verilmesine yol açar.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "yüzyıla tarihlenir.",
+      "anahtar": "k2",
+      "iddia": "Elimizdeki en ayrıntılı çağdaş tarifler, bölgeye hiç gitmemiş coğrafyacıların derlediği aktarımlardır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Yönetim biçimi feodal monarşidir ve ortak diller Soninke, Malinke ve Mande'dir.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kuruluştan yaklaşık sekiz yüzyıl sonra gelen bir din değişimi, devletin kimliğinin kuruluş anında sabitlenmediğini gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak hükümdarları tarihleriyle sıralar: 700'de Kaya Magan Cissé, 790'larda Dyabe Cisse, 1040-1062 arasında Ghana Bassi ve 1203-1235 arasında Soumaba Cisse.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "1000 yılı için 650.000 kilometrekarelik bir alan verilir.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Dört hükümdarın beş yüzyıla yayılması, listenin eksiksiz olmadığını gösterir; atlas bu boşluğu doldurmaz, kaydeder.",
+      "anahtar": "k3",
+      "iddia": "Elimizdeki en ayrıntılı çağdaş tarifler, bölgeye hiç gitmemiş coğrafyacıların derlediği aktarımlardır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "İmparatorluğun sonu, bir başka düzenin başlangıcıyla örtüşür: Mali İmparatorluğu yaklaşık 1235 ile 1610 arasına tarihlenir ve ilk hükümdarı Mari Djata I 1235-12",
+      "iddia": "Bunlardan biri, Endülüs'te yaşamış ve eserini oradan derlemiş bir coğrafyacıdır.",
       "durum": "OK",
-      "not": "7 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Burada somut hâli şudur: bu düzenin başkentinin tarifi, sarayın büyüklüğü ve altın miktarına dair sayılar, gözlemcinin değil derleyicinin cümleleridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu MS 600 için yaklaşık 271,6 milyon, 1000 yılı için yaklaşık 323,5 milyon olarak verilir.",
+      "iddia": "Burada somut hâli şudur: bu düzenin başkentinin tarifi, sarayın büyüklüğü ve altın miktarına dair sayılar, gözlemcinin değil derleyicinin cümleleridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu sayılardan birini benimsemez; sayıların nasıl okunacağı sorusu dosyasında ayrıca ele alınır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu sayılardan birini benimsemez; sayıların nasıl okunacağı sorusu dosyasında ayrıca ele alınır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaynaklar hükümdarları tarihleriyle sıralar: 700'de Kaya Magan Cissé, 790'larda Dyabe Cisse, 1040-1062 arasında Ghana Bassi ve 1203-1235 arasında Soumaba Cisse.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yönetim biçimi bir monarşi olarak kaydedilir ve ortak diller Soninke, Malinke ve Mande olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dört hükümdarın beş yüzyıla yayılması, listenin eksiksiz olmadığını gösterir; atlas bu boşluğu doldurmaz, kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "yüzyıla tarihler; kuruluştan yüzyıllar sonra gelen bir değişim, bir devletin kimliğinin kuruluş anında sabitlenmediğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynaklar, hükümdar ailesinin ve halkın İslam'ı benimseme sürecinin kademeli olduğunu ve saray çevresiyle tüccar toplulukları arasında bir ayrım bulunduğunu akt",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaynaklar, hükümdar ailesinin ve halkın İslam'ı benimseme sürecinin kademeli olduğunu ve saray çevresiyle tüccar toplulukları arasında bir ayrım bulunduğunu akt",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu tarifin kendisi de aktarımdır ve doğrulanmamıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir kaydın neyi ayırt etmeye değer bulduğu, kaydı yazan çevrenin ilgisini gösterir: tüccar ile saray arasındaki mesafe, ticaret ağının içinden bakan biri için ö",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu düzenin sona erişi tek bir olayla açıklanmaz; kaynaklarda kuzeyden gelen askerî baskı, ticaret yollarının kayması ve iç bölünmeler birlikte aktarılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu düzenin sona erişi tek bir olayla açıklanmaz; kaynaklarda kuzeyden gelen askerî baskı, ticaret yollarının kayması ve iç bölünmeler birlikte aktarılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hanedan değişimi, ticaret ağının kendisini ortadan kaldırmamış; ağın denetimi el değiştirmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Künyede verilen başlangıç ve bitiş tarihleri geniş bir aralıktır ve kesin sınırlar olarak okunmamalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Künyede verilen başlangıç ve bitiş tarihleri geniş bir aralıktır ve kesin sınırlar olarak okunmamalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Uzun dönemli nüfus serisinde dünya nüfusu MS 600 için yaklaşık 271,6 milyon, 1000 yılı için yaklaşık 323,5 milyon olarak verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Elde bir ölçüm yokken pay hesaplamak, bilinmeyen bir sayıyı bilinen bir sayının yanına koyarak ona güvenilirlik kazandırmak olurdu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya üç kaynağa dayanır: krallık üzerine bir madde, onu tarif eden coğrafyacı üzerine ayrı bir madde ve bir giriş kapısı maddesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya üç kaynağa dayanır: krallık üzerine bir madde, onu tarif eden coğrafyacı üzerine ayrı bir madde ve bir giriş kapısı maddesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya üç kaynağa dayanır: krallık üzerine bir madde, onu tarif eden coğrafyacı üzerine ayrı bir madde ve bir giriş kapısı maddesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Krallığı tarif eden Arapça coğrafya metinlerinin standart derlemesi telifli olduğu için künyeye giremez; aynı metinlerin doğrulanabilir, makine okunur ve katalo",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Arapça"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu durum atlasın başka dosyalarında da ölçülen bir eğilimin devamıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu düzenin idari yapısı, ordu düzeni ve vergi sistemi burada işlenmez; kaynaklarda bu başlıklara dair aktarımlar vardır ama hepsi aynı ikinci elden zincire daya",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu düzende yaşayan biri anlatır; bir tüccar ya da seyyah onu dinler; bir coğrafyacı o anlatıyı derler; sonraki yüzyıllarda bu derleme kopyalanır; bugün bir ansi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu düzende yaşayan biri anlatır; bir tüccar ya da seyyah onu dinler; bir coğrafyacı o anlatıyı derler; sonraki yüzyıllarda bu derleme kopyalanır; bugün bir ansi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlasın künye şemasında bir kaynağın kaç halka uzakta olduğunu gösteren bir alan yoktur; künye yalnızca son halkayı — kullanılan maddeyi — kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dosya, kaynakların ne aktardığını kaydeder; aktarılanın doğruluğu hakkında bir güvence vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dosya, kaynakların ne aktardığını kaydeder; aktarılanın doğruluğu hakkında bir güvence vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu düzenin kaynaklarda geçen adı, hükümdarın unvanından mı yoksa siyasi birimin kendi adından mı geldiği tartışılan bir konudur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu düzenin kaynaklarda geçen adı, hükümdarın unvanından mı yoksa siyasi birimin kendi adından mı geldiği tartışılan bir konudur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir siyasi birim kendini nasıl adlandırıyorsa öyle mi kaydedilir, yoksa onu tarif edenlerin kullandığı ad mı kalıcı olur?",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sahra ticaretinin iki ucu, birbirini hiç görmeyen iki üretim bölgesidir: güneyde altın çıkarılan alanlar, kuzeyde tuz çıkarılan yataklar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sahra ticaretinin iki ucu, birbirini hiç görmeyen iki üretim bölgesidir: güneyde altın çıkarılan alanlar, kuzeyde tuz çıkarılan yataklar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Denetlenen şey bir kaynak değil bir akıştır; akış yön değiştirdiğinde denetim de değersizleşir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaynaklar altının çıkarıldığı bölgelerin konumunun gizli tutulduğunu aktarır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir konuda kayıt bulunmaması her zaman ihmalden gelmez; bazen kaydın tutulmaması kasıtlıdır ve o kasıt da bir tarihsel olgudur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya, atlasın Afrika kapsamını genişletme çalışmasının ikinci adımıdır; birincisi bölgeyi gezip yazan bir kaynağın dosyasıydı.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Altın ticareti, Sosso ile ilişkiler, çöküş süreci ve arkeolojik kanıt tabanı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak",
-      "durum": "OK",
-      "not": ""
+      "iddia": "Aynı bölgeyi biri duyarak biri görerek anlatan iki kaydın nerede ayrıştığı, tek başına her iki kaydın da veremeyeceği bir bilgidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlasın borç defterleri kapatılmayı bekleyen kayıtlar taşır ve bu dosyanın bıraktıkları da o listeye eklenir; kapanmaları ancak ayrı turlarda mümkündür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Okur, aynı konuda farklı tarih aralıkları veren iki dosyayla karşılaşıyordu; bu, atlasın kendi ilkesine aykırıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tarih aralığı iki kaydın uçları alınarak genişletilmiş ve genişliğin bir belirsizlik beyanı olduğu yukarıda ayrıca yazılmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Önceki iki dosyada toplam üç giriş kapısı künyesi bulunuyordu; birleşmiş dosyada bir tane vardır ve geri kalanı akademik ansiklopedi maddeleri ile bir veri küme",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Önceki iki dosyada toplam üç giriş kapısı künyesi bulunuyordu; birleşmiş dosyada bir tane vardır ve geri kalanı akademik ansiklopedi maddeleri ile bir veri küme",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosyayı okurken akılda tutulması gereken tek şey vardır: burada anlatılan her şey, olayları görmemiş kişilerin derlediği aktarımlardan gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosyayı okurken akılda tutulması gereken tek şey vardır: burada anlatılan her şey, olayları görmemiş kişilerin derlediği aktarımlardan gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sınama ancak iki yoldan yapılabilir: aynı dönemin başka kayıtlarıyla karşılaştırmak ya da arkeolojik bulgularla yan yana koymak.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }
   ]
 }

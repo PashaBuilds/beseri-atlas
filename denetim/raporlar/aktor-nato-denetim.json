@@ -1,7 +1,7 @@
 {
   "id": "aktor-nato",
   "gecis": 2,
-  "zaman": "2026-08-21T07:17:20.122Z",
+  "zaman": "2026-08-28T18:13:43.232Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -41,9 +41,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Aynı yıllarda kurulan hükümetler arası örgütün üyeliği 193 üye devlet ve 2 gözlemci devlettir; ana organları arasında Güvenlik Konseyi bulunur.",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "iddia": "Aynı yıllarda kurulan hükümetler arası örgütün ana organları arasında Güvenlik Konseyi bulunur.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Güvenlik, Konseyi"
     },
     {
       "anahtar": "k3",
@@ -54,6 +54,12 @@
     {
       "anahtar": "k1",
       "iddia": "İttifakın kuruluş antlaşması, karar mekanizması, üye genişlemesi ve rekabetin sona ermesinden sonraki dönüşümü burada ayrı başlıklar altında ele alınmamıştır; k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya kuzey atlantik antlasmasi'nin metnine bağlanır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

@@ -1,5 +1,5 @@
 ## aktor-karolenj-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-21T04:20:11.822Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:42.636Z_
 
 - [OK]      k1 → "800 yılında imparator unvanı Batı Avrupa'da Şarlman ile yeniden canlandırıldı ve onun Karolenj İmparatorluğu s…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Buradaki anahtar ifade yeniden canlandırmadır: unvan icat edilmedi, 800'de yeniden canlandırıldı."
@@ -11,4 +11,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-21T04:20:11.822Z_
 - [OK]      k1 → "Bu üç merkez farklı meşruiyet çözümleri üretti: Abbasi hanedanı adını Peygamber'in amcası Abbas'tan alan bir s…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k3 → "Dönemde dünya nüfusu 600 yılında yaklaşık 271,6 milyon, 1000 yılında yaklaşık 323,5 milyondu."
 
-**Özet:** 8 OK · 1 ISARET · 0 HATA
+**Özet:** 8 OK · 1 ISARET · 0 HATA · 0 ATOMSUZ

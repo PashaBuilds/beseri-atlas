@@ -1,19 +1,56 @@
 ## aktor-buyuk-selcuklu
-_Geçiş 2 — kaynak denetimi · 2026-08-21T13:14:12.590Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:41.620Z_
 
+- [OK]      k1 → "Büyük Selçuklu Devleti, Horasan bölgesinden başlayarak İran ve Irak üzerinden batıya uzanan bir siyasi düzen k…"
+- [ATOMSUZ] k2 → "Bu düzenin atlas açısından ayırt edici yanı, yönetim yapısının dönemin içinden yazılmış bir metin üzerinden ok…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu düzenin atlas açısından ayırt edici yanı, yönetim yapısının dönemin içinden yazılmış bir metin üzerinden ok…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "dosyası aynı yılların doğusunu, dosyası ise merkezî otorite tarafını anlatır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Tuğrul Bey 434'te (1042-43) Hârizm'i Şah Melik'in elinden kurtardı ve aynı yıl Rey'i devletinin merkezi yaptı;…"
-- [OK]      k1 → "Tuğrul Bey 439 (1047-48) yılında Büveyhî hükümdarı Ebû Kâlîcâr ile barış antlaşması imzaladı ve onun kızıyla e…"
+- [OK]      k1 → "Selçuklu düzeni, Abbasi halifeliğine bağlılığını korurken fiilî siyasi gücü elinde tutmuştur."
+- [ATOMSUZ] k1 → "Bağlılığın sembolik göstergeleri ile fiilî gücün dağılımı ayrı ayrı işler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Tuğrul Bey halifenin Bağdat'a getirilmesini sağladı ve Arslan el-Besâsîrî yakalanıp öldürüldü (Zilhicce 451 / …"
 - [OK]      k1 → "Ardından Halife Kāim-Billâh'ın kızı Seyyide Hatun ile Şâban 454'te (Ağustos 1062) nikâhlandı; düğün ancak erte…"
 - [OK]      k1 → "Aynı bağ halefiyet devrinde de yenilendi: Abbâsî halifesi 8 Receb 465'te (20 Mart 1073) Sultan Melikşah adına …"
+- [OK]      k1 → "Tuğrul Bey 439 (1047-48) yılında Büveyhî hükümdarı Ebû Kâlîcâr ile barış antlaşması imzaladı ve onun kızıyla e…"
+- [ATOMSUZ] k2 → "Dönemin idari düzeninde vezirlik makamı belirleyici bir yer tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Vezirin yazdığı metin, idari düzenin nasıl olması gerektiğini anlatır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Görevlilerin denetimi, haber alma düzeni ve saray teşkilatı gibi başlıkların metinde ayrı ayrı ele alınması, b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Dönemde kurulan medreseler, eğitim ile yönetim arasındaki bağın kurumsallaşmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kurumların kurulması bilgi üretimini artırabilir; aynı kurumlar, finanse edenin tercihlerini de yansıtabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlas bu anlatıların hiçbirini benimsemez ve olayların kendisini kaydetmekle yetinir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Alparslan 1067 yılında yeniden Bizans ve Gürcistan sınırlarında göründü; Bizans'a ait Kars fethedildi ve Gürcü…"
 - [OK]      k1 → "Sultan Alparslan devrinde Anadolu'ya akınlar daha çok Sâlâr-ı Horasan unvanlı kumandanın idaresinde yapılıyord…"
 - [OK]      k1 → "Karşı tarafın tepkisi de kaynakta kayıtlıdır: Bizans'ta imparatorluğun başına, gittikçe artan Türk akınlarına …"
+- [ATOMSUZ] k1 → "Siyasi düzenin zaman içinde kollara ayrılması, atlasın aktör dosyalarında tekrar eden bir sorunu doğurur: bölü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Künyede verilen başlangıç ve bitiş tarihleri, kaynaktaki genel çerçeveyi izler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Anadolu Selçukluları 1075–1308, Suriye Selçukluları ise 1079–1117 arasına tarihlenir; Büyük Selçuklu Sultanı M…"
 - [OK]      k1 → "Aynı yöntem, Melikşah'ın genç yaşta tahta çıkmasını fırsat bilen hânedan mensuplarının tahtta hak iddia ederek…"
-- [OK]      k2 → "Batıdaki rakibin büyüklüğü kayıtlıdır: Bizans için 1025 yılında yaklaşık 12.000.000 nüfus ve 1.675.000 kilomet…"
-- [OK]      k3 → "Meşruiyetin kaynağı olan kurum için tutulan bağımsız kayıt, Hülâgû'nün Bağdat önüne gelişini 11 Muharrem 656 /…" — 3 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k3 → "Aynı kayıt, önceki hanedanın sonunu 132 / Ağustos 750'ye yerleştirir." — 2 atom doğrulandı; 1 ad ölçülemedi
-- undefined k3 → "Bir hanedanın adını verdiği hilafetin beş yüz yıl sürüp tek bir kuşatmayla sona ermesi, Selçukluların koruyucu…" — programatik olarak ölçülemedi (ad karşılığı yok): Selçukluların
+- [OK]      k4 → "Batıdaki rakibin büyüklüğü kayıtlıdır: Bizans için 1025 yılında yaklaşık 12.000.000 nüfus ve 1.675.000 kilomet…"
+- [ATOMSUZ] k1 → "Bu dosyanın kaynak durumu, atlasın aynı bölge kümesindeki diğer dosyalarıyla karşılaştırıldığında ayrı bir yer…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Selçuklu düzeni için durum farklıdır: dönemin veziri tarafından, dönemin sultanı için yazılmış bir metin elimi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bir vezirin yazdığı metin tarafsız bir kayıt değildir; yazar hem yönetimin içindedir hem de kendi konumunu sav…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Dönemin toprak ve gelir düzeninde, hizmet karşılığı gelir tahsisi merkezî bir yer tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Gelir tahsisi, merkezin nakit yükünü hafifletir; aynı düzen, tahsis edilen bölgede yerel gücün birikmesine de …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Vezirin yazdığı metin, görevlilerin denetlenmesine ayrı bir yer ayırır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Siyasi düzenin kurucu unsurları ile yönetim dili arasındaki fark, bu dönemin kayda değer özelliklerinden birid…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ISARET]  k1 → "Orada Türkçe bir yazı dili olarak eser vermişti; burada yönetimin yazı dili farklı bir tercihi izler." — özel isim kaynakta bulunamadı: Türkçe
+- [ATOMSUZ] k2 → "Bu dosya, dosyasında "atlasta bulunmuyordu" diye işaretlenen boşluğu kapatır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Aynı yöntemle bu dosya da kendi boşluklarını bırakır: askerî teşkilat, toprak düzeninin ayrıntıları ve batıya …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Atlasın borç defterleri uzun süredir kapatılmayı bekleyen kayıtlar taşıyor; bu dosyanın bıraktığı notlar da o …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Meşruiyetin kaynağı olan kurum için tutulan bağımsız kayıt, Hülâgû'nün Bağdat önüne gelişini 11 Muharrem 656 /…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Aynı kayıt, önceki hanedanın sonunu 132 / Ağustos 750'ye yerleştirir." — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k5 → "Bir hanedanın adını verdiği hilafetin beş yüz yıl sürüp tek bir kuşatmayla sona ermesi, Selçukluların koruyucu…" — programatik olarak ölçülemedi (ad karşılığı yok): Selçukluların
+- [ATOMSUZ] k1 → "Bu dosya üç kaynağa dayanır: siyasi düzen üzerine bir madde, dönemin veziri üzerine ayrı bir madde, ve o vezir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu dosya üç kaynağa dayanır: siyasi düzen üzerine bir madde, dönemin veziri üzerine ayrı bir madde, ve o vezir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu dosya üç kaynağa dayanır: siyasi düzen üzerine bir madde, dönemin veziri üzerine ayrı bir madde, ve o vezir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu dosya hazırlanırken iki ansiklopedi maddesi daha aday olarak sınandı ve reddedildi: sorgulanan adresler mad…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bir sayfanın aranan dizeyi içermesi, o sayfanın aranan içerik olduğunu göstermez; dizinin sayfada bulunması il…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Askerî teşkilat ve toprak düzeni ayrıntılı olarak işlenmez; Anadolu'daki gelişmeler ayrı dosyalar gerektirir."
+- [ATOMSUZ] k1 → "Okur, aynı yüzyıllar için farklı tarih aralıkları veren iki dosyayla karşılaşıyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bir dosya kuruluş tekniğini ve batı sınırındaki basıncı tarihleriyle veriyordu; öteki, idari düzeni dönemin ke…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bir dosya kuruluş tekniğini ve batı sınırındaki basıncı tarihleriyle veriyordu; öteki, idari düzeni dönemin ke…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Genişlik, bir ölçüm değil bir belirsizlik beyanıdır; hanedanın hangi yılda kurulmuş sayılacağı kaynaklar arası…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Aynı coğrafyanın daha erken siyasi düzeni için dosyası okunmalıdır; iki dosya, katmanlı egemenliğin iki farklı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu dosyanın kurduğu iddiaların bir bölümü dönemin içinden bir metne dayanmaktadır; o metnin kendisini okumadan…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 13 OK · 0 ISARET · 0 HATA
+**Özet:** 16 OK · 1 ISARET · 0 HATA · 34 ATOMSUZ

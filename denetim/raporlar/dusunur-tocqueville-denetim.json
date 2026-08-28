@@ -1,7 +1,7 @@
 {
   "id": "dusunur-tocqueville",
   "gecis": 2,
-  "zaman": "2026-08-21T09:04:57.100Z",
+  "zaman": "2026-08-28T18:13:45.088Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -68,6 +68,12 @@
       "iddia": "Hayatı, siyasi kariyeri, seyahatleri ve eserlerin içeriği burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Amerika da Demokrasi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     }
   ]
 }

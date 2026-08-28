@@ -1,7 +1,7 @@
 {
   "id": "kavram-malthus-tuzagi",
   "gecis": 2,
-  "zaman": "2026-08-21T09:23:06.866Z",
+  "zaman": "2026-08-28T18:13:46.203Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -68,6 +68,12 @@
       "iddia": "Kuramın tarihi, yeni-Malthusçuluk, eleştiriler ve çevre tartışmalarındaki yeri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olar",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu kavramın formüle edildiği eser Malthus, Nüfus İlkesi Üzerine Deneme'dir; dosya o eserin kamu malı tam metnine bağlanır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "dusunur-ibn-haldun",
   "gecis": 2,
-  "zaman": "2026-08-20T20:51:42.041Z",
+  "zaman": "2026-08-28T18:13:44.563Z",
   "sonuclar": [
     {
       "anahtar": "k2",
@@ -182,6 +182,12 @@
       "iddia": "TDV İslâm Ansiklopedisi, gerçek asabiyeti vatan, tarih, kültür ve gelenek gibi müştereklere dayanan milliyet fikrinden ayırır; onu yalnızca soy birliğinden kayn",
       "durum": "OK",
       "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya eserin kamu malı tam metnine bağlanır: Mukaddime.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Mukaddime"
     }
   ]
 }

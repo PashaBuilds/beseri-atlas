@@ -1,7 +1,7 @@
 {
   "id": "olay-versailles-antlasmasi",
   "gecis": 2,
-  "zaman": "2026-08-21T04:20:11.772Z",
+  "zaman": "2026-08-28T18:13:40.714Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -42,6 +42,12 @@
     {
       "anahtar": "k3",
       "iddia": "Çarpışmalar nedeniyle ölen siviller, çatışmaların yol açtığı açlık ve hastalıktan kaynaklanan artan ölümler hesaba katılsaydı toplam çok daha yüksek olurdu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya versailles antlasmasi'nin metnine bağlanır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

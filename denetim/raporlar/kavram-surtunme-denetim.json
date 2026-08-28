@@ -1,7 +1,7 @@
 {
   "id": "kavram-surtunme",
   "gecis": 2,
-  "zaman": "2026-08-21T09:51:02.818Z",
+  "zaman": "2026-08-28T18:13:46.525Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -36,6 +36,12 @@
     {
       "anahtar": "k1",
       "iddia": "Kavramın kökeni, askerî uygulamaları ve oyun tasarımındaki biçimleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "kitap'dir; dosya o eserin kamu malı tam metnine bağlanır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

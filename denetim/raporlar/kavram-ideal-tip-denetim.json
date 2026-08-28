@@ -1,7 +1,7 @@
 {
   "id": "kavram-ideal-tip",
   "gecis": 2,
-  "zaman": "2026-08-21T09:23:06.814Z",
+  "zaman": "2026-08-28T18:13:45.732Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -56,6 +56,12 @@
       "iddia": "Kavramın tanımı, kullanım örnekleri ve eleştirileri burada ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak bölümünün kapsamı yöntem başlıklarının lis",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu kavramın formüle edildiği eser Weber, Protestan Ahlakı'dir; dosya o eserin kamu malı tam metnine bağlanır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     }
   ]
 }

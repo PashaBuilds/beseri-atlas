@@ -1,7 +1,7 @@
 {
   "id": "kaynak-sima-qian-shiji",
   "gecis": 2,
-  "zaman": "2026-08-21T11:14:35.889Z",
+  "zaman": "2026-08-28T18:13:49.832Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -56,6 +56,12 @@
       "iddia": "Bu dosya eserin metnine bağlanmaz; kullanılan kaynak yazar hakkındaki bir ansiklopedi maddesidir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya eserin kamu malı tam metnine bağlanır: Shiji.",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

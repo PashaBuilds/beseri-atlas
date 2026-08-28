@@ -174,20 +174,22 @@ export async function makaleyiDenetle(m) {
 }
 
 function markdownYaz(rapor) {
-  const sim = { OK: '[OK]     ', ISARET: '[ISARET] ', HATA: '[HATA]   ' };
+  const sim = { OK: '[OK]     ', ISARET: '[ISARET] ', HATA: '[HATA]   ', ATOMSUZ: '[ATOMSUZ]' };
   const satirlar = [`## ${rapor.id}`, `_Geçiş 2 — kaynak denetimi · ${rapor.zaman}_`, ''];
   for (const s of rapor.sonuclar) {
     satirlar.push(`- ${sim[s.durum]} ${s.anahtar} → "${s.iddia.slice(0, 110)}${s.iddia.length > 110 ? '…' : ''}"${s.not ? ` — ${s.not}` : ''}`);
   }
   const say = (d) => rapor.sonuclar.filter((s) => s.durum === d).length;
-  satirlar.push('', `**Özet:** ${say('OK')} OK · ${say('ISARET')} ISARET · ${say('HATA')} HATA`, '');
+  // ATOMSUZ gizlenmez: dört sayaç birden yazılır ki "TEMIZ" etiketi
+  // ölçülemeyen çoğunluğu örtmesin (§ ATOMSUZ görünürlüğü).
+  satirlar.push('', `**Özet:** ${say('OK')} OK · ${say('ISARET')} ISARET · ${say('HATA')} HATA · ${say('ATOMSUZ')} ATOMSUZ`, '');
   return satirlar.join('\n');
 }
 
 if (process.argv[1]?.endsWith('denetle.mjs')) {
   const hedefler = process.argv.slice(2).filter((a) => !a.startsWith('--'));
   const makaleler = makaleleriTopla().filter((m) => hedefler.length === 0 || hedefler.includes(m.fm.id));
-  let toplamHata = 0, toplamIsaret = 0, toplamOk = 0;
+  let toplamHata = 0, toplamIsaret = 0, toplamOk = 0, toplamAtomsuz = 0;
   for (const m of makaleler) {
     const rapor = await makaleyiDenetle(m);
     yaz(path.join(KOK, 'denetim', 'raporlar', `${m.fm.id}-denetim.json`), JSON.stringify(rapor, null, 2));
@@ -195,10 +197,13 @@ if (process.argv[1]?.endsWith('denetle.mjs')) {
     const h = rapor.sonuclar.filter((s) => s.durum === 'HATA').length;
     const i = rapor.sonuclar.filter((s) => s.durum === 'ISARET').length;
     const o = rapor.sonuclar.filter((s) => s.durum === 'OK').length;
-    toplamHata += h; toplamIsaret += i; toplamOk += o;
+    const a = rapor.sonuclar.filter((s) => s.durum === 'ATOMSUZ').length;
+    toplamHata += h; toplamIsaret += i; toplamOk += o; toplamAtomsuz += a;
     const im = h > 0 ? RENK.kirmizi('HATA') : i > 1 ? RENK.sari('ISARET') : RENK.yesil('TEMIZ');
-    console.log(`${im}  ${m.fm.id.padEnd(34)} ${o} OK · ${i} ISARET · ${h} HATA`);
+    console.log(`${im}  ${m.fm.id.padEnd(34)} ${o} OK · ${i} ISARET · ${h} HATA · ${a} ATOMSUZ`);
   }
-  console.log(`\ntoplam: ${toplamOk} OK · ${toplamIsaret} ISARET · ${toplamHata} HATA`);
+  console.log(`\ntoplam: ${toplamOk} OK · ${toplamIsaret} ISARET · ${toplamHata} HATA · ${toplamAtomsuz} ATOMSUZ`);
+  const olcum = toplamOk + toplamIsaret + toplamHata + toplamAtomsuz;
+  if (olcum > 0) console.log(RENK.gri(`atomsuz orani: %${Math.round(100*toplamAtomsuz/olcum)} — bu iddialar DOGRULANMIS DEGIL, olculememis sayilir`));
   process.exit(0);
 }

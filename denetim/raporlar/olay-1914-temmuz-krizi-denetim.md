@@ -1,7 +1,7 @@
 ## olay-1914-temmuz-krizi
-_Geçiş 2 — kaynak denetimi · 2026-08-20T20:51:41.922Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:37.822Z_
 
-- undefined k1 → "Britanya'nın resmî belge derlemesi, suikast ile Avusturya notasının sunulması arasındaki dönemi 28 Haziran – 2…" — programatik olarak ölçülemedi (ad karşılığı yok): Avusturya, Haziran, Temmuz, Ağustos
+- [ATOMSUZ] k1 → "Britanya'nın resmî belge derlemesi, suikast ile Avusturya notasının sunulması arasındaki dönemi 28 Haziran – 2…" — programatik olarak ölçülemedi (ad karşılığı yok): Avusturya, Haziran, Temmuz, Ağustos
 - [OK]      k2 → "Kriz, 28 Haziran 1914'te Bosnalı Sırp milliyetçi Gavrilo Princip'in Avusturya-Macaristan tahtının veliahdı Arş…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k2 → "Franz Ferdinand, Bosna'da yapılacak askerî tatbikatlara katılmak üzere İmparator Franz Joseph tarafından görev…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Bosna, 1908'de Avusturya-Macaristan tarafından resmen ilhak edilmiş ve bu ilhak Berlin Antlaşması'nı ihlal ede…" — 4 atom doğrulandı; 1 ad ölçülemedi
@@ -10,13 +10,13 @@ _Geçiş 2 — kaynak denetimi · 2026-08-20T20:51:41.922Z_
 - [OK]      k1 → "Britanya Dışişleri Bakanı Edward Grey'in 20 Temmuz 1914 tarihli notu, Alman büyükelçisine Viyana'da Sırbistan'…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k3 → "Alman hükümeti kendi belge derlemesinde, Avusturya-Macaristan'a, Monarşi'nin varlığına yönelik Sırbistan kayna…"
 - [OK]      k3 → "Aynı metin, Avusturya-Macaristan'ın Sırbistan'a karşı savaşçı bir tutumunun Rusya'yı sahaya çekebileceğinin ve…"
-- undefined k2 → "Bu destek beyanı tarih yazımına "açık çek" adıyla geçti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- undefined k2 → "Nota 23 Temmuz'da verildi." — programatik olarak ölçülemedi (ad karşılığı yok): Temmuz
+- [ATOMSUZ] k2 → "Bu destek beyanı tarih yazımına "açık çek" adıyla geçti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Nota 23 Temmuz'da verildi." — programatik olarak ölçülemedi (ad karşılığı yok): Temmuz
 - [OK]      k2 → "İçeriği bir diplomatik protestodan çok bir iç politika programıydı: Narodna Odbrana'nın ve benzer derneklerin …"
 - [OK]      k1 → "Belge derlemesindeki metin ayrıca 28 Haziran komplosunun Sırp topraklarındaki taraftarlarına karşı adli soruşt…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "24 Temmuz'da Kont Berchtold, Londra'daki büyükelçisi Kont Mensdorff'a notanın bir ültimatom olmadığını, "süre …" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k3 → "Alman derlemesi cevabın bazı noktalarda Avusturya-Macaristan'ın koşullarını karşıladığını, ancak esas noktalar…"
-- undefined k3 → "Aynı kaynak, notanın iletilmesinden bir gün sonra Sırp hükümetinin ordusunun seferberliğine başladığını kayded…" — programatik olarak ölçülemedi (ad karşılığı yok): Sırp
+- [ATOMSUZ] k3 → "Aynı kaynak, notanın iletilmesinden bir gün sonra Sırp hükümetinin ordusunun seferberliğine başladığını kayded…" — programatik olarak ölçülemedi (ad karşılığı yok): Sırp
 - [OK]      k1 → "Britanya'nın Belgrad'dan aldığı bilgi de aynı yöndedir: cevap tatmin edici bulunmamış, Avusturya-Macaristan el…"
 - [OK]      k3 → "26 Temmuz öğleden sonra Avusturya hükümeti Petersburg'daki büyükelçisi aracılığıyla fetih arzusu taşımadığını …" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k3 → "Aynı gün Berlin'e Rus seferberliğine dair ilk haberler ulaştı."
@@ -30,4 +30,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-20T20:51:41.922Z_
 - [OK]      k3 → "Alman Beyaz Kitabı Almanya'nın Avusturya-Macaristan'a verdiği desteği kendi gerekçesiyle anlatır; Britanya der…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Alman Beyaz Kitabı Almanya'nın Avusturya-Macaristan'a verdiği desteği kendi gerekçesiyle anlatır; Britanya der…" — 2 atom doğrulandı; 2 ad ölçülemedi
 
-**Özet:** 24 OK · 0 ISARET · 0 HATA
+**Özet:** 24 OK · 0 ISARET · 0 HATA · 4 ATOMSUZ

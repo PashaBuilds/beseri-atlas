@@ -1,7 +1,7 @@
 {
   "id": "olay-buyuk-buhran",
   "gecis": 2,
-  "zaman": "2026-08-21T04:20:11.754Z",
+  "zaman": "2026-08-28T18:13:38.577Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -12,8 +12,8 @@
     {
       "anahtar": "k2",
       "iddia": "Bağımsız katalog kayıtları dönemi 1929–1941 olarak çerçeveler.",
-      "durum": "OK",
-      "not": ""
+      "durum": "HATA",
+      "not": "kaynakta bulunamayan sayısal değer: 1941"
     },
     {
       "anahtar": "k1",
@@ -54,8 +54,8 @@
     {
       "anahtar": "k2",
       "iddia": "Katalog kayıtlarının dönemi 1941'de bitirmesi, iktisadi krizin savaş ekonomisiyle sona erdiği yönündeki yaygın çerçeveyi yansıtır.",
-      "durum": "OK",
-      "not": ""
+      "durum": "HATA",
+      "not": "kaynakta bulunamayan sayısal değer: 1941"
     }
   ]
 }

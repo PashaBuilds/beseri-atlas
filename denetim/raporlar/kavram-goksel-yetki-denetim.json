@@ -1,7 +1,7 @@
 {
   "id": "kavram-goksel-yetki",
   "gecis": 2,
-  "zaman": "2026-08-21T09:35:06.253Z",
+  "zaman": "2026-08-28T18:13:45.620Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -56,6 +56,12 @@
       "iddia": "Kavramın kökeni, hanedan geçişlerindeki uygulaması ve sonraki etkisi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu kavramın formüle edildiği eser Shujing (Belgeler Kitabı)'dir; dosya o eserin kamu malı tam metnine bağlanır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Shujing, Belgeler"
     }
   ]
 }

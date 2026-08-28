@@ -1,7 +1,7 @@
 {
   "id": "dusunur-kant",
   "gecis": 2,
-  "zaman": "2026-08-21T08:56:38.479Z",
+  "zaman": "2026-08-28T18:13:44.640Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -86,6 +86,12 @@
       "iddia": "Aşkınsal idealizm, kategoriler, ödev ahlakı ve estetik kuramı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Saf Aklin Elestirisi.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Saf, Aklin, Elestirisi"
     }
   ]
 }

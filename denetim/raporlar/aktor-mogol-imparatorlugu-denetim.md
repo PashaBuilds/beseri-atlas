@@ -1,5 +1,5 @@
 ## aktor-mogol-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-21T04:12:38.169Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:43.137Z_
 
 - [OK]      k1 → "Moğol İmparatorluğu, 1206 ile 1368 arasında Avrasya'da varlığını sürdüren bir yapı olarak tanımlanır ve göçebe…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Başkentleri arasında Avarga sayılır."
@@ -12,4 +12,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-21T04:12:38.169Z_
 - [OK]      k1 → "İmparatorluğun 1206'dan 1368'e uzanan ömrü boyunca Çin, İran, Rusya ve Orta Avrupa aynı siyasi sistemin farklı…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k3 → "Aynı dönemde dünya nüfusu 1000'de yaklaşık 323,5 milyondan 1300'de yaklaşık 456,2 milyona çıktı."
 
-**Özet:** 10 OK · 0 ISARET · 0 HATA
+**Özet:** 10 OK · 0 ISARET · 0 HATA · 0 ATOMSUZ

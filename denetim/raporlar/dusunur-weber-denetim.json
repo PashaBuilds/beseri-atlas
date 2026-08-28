@@ -1,7 +1,7 @@
 {
   "id": "dusunur-weber",
   "gecis": 2,
-  "zaman": "2026-08-21T09:14:39.208Z",
+  "zaman": "2026-08-28T18:13:45.158Z",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -68,6 +68,12 @@
       "iddia": "Akılcılaşma tezi, din toplumbilimi, hukuk ve iktisat yazıları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Protestan Ahlaki.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     }
   ]
 }
