@@ -169,6 +169,10 @@ p:last-child { margin-bottom: 0; }
   margin: 0 auto;
   padding: 2.5rem 2rem 6rem;
 }
+/* Kunye rayi DOM'da govdeden SONRA gelir (mobilde h1 ilk ekranda kalsin
+   diye); masaustu iki sutunda yine solda durur. */
+.sayfa > .ray { grid-column: 1; grid-row: 1; }
+.sayfa > .govde { grid-column: 2; grid-row: 1; }
 
 /* Ray: tik işaretli dikey gratikül — kesitin derinlik ölçeği. */
 .ray {
@@ -207,13 +211,15 @@ p:last-child { margin-bottom: 0; }
 
 @media (max-width: 900px) {
   .sayfa { grid-template-columns: minmax(0, 1fr); gap: 0; padding: 1.5rem 1.15rem 4rem; }
+  /* Tek sutunda acik yerlesim sifirlanir: govde ustte (DOM sirasi), ray altta. */
+  .sayfa > .ray, .sayfa > .govde { grid-column: auto; grid-row: auto; }
   .ray {
     position: static; max-height: none; overflow: visible;
-    border-right: 0; border-bottom: 1px solid var(--cizgi);
+    border-right: 0; border-bottom: 0; border-top: 1px solid var(--cizgi);
     background-image: repeating-linear-gradient(to right, var(--cizgi) 0, var(--cizgi) 1px, transparent 1px, transparent 1.5rem);
     background-size: 1.5rem 6px; background-position: left bottom;
     background-repeat: repeat-x;
-    padding: 0 0 1.5rem; margin-bottom: 2rem;
+    padding: 1.5rem 0 0; margin-top: 2rem; margin-bottom: 0;
     display: grid; grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr)); gap: 1.25rem;
   }
   .ray__blok { margin-bottom: 0; }

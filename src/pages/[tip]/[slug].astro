@@ -46,7 +46,6 @@ const komsu = komsular(korpus, girdi);
 ---
 <Temel baslik={v.baslik} ozet={v.ozet}>
   <div class="sayfa">
-    <AygitRayi veri={v} ilgili={ilgili} okuma={okuma} />
     <main class="govde" id="ana" data-pagefind-body
           data-pagefind-filter={`tip:${tipAdi(v.tip)}`}
           data-pagefind-meta={`ozet:${v.ozet}`}>
@@ -124,6 +123,7 @@ const komsu = komsular(korpus, girdi);
                     sira={komsu.sira} toplam={komsu.toplam} donemNo={komsu.donemNo} />
       )}
     </main>
+    <AygitRayi veri={v} ilgili={ilgili} okuma={okuma} />
   </div>
 </Temel>
 

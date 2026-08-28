@@ -2,9 +2,9 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "beseri-atlas",
+      "name": "onizleme",
       "runtimeExecutable": "npx",
-      "runtimeArgs": ["astro", "preview"],
+      "runtimeArgs": ["astro", "preview", "--port", "4321"],
       "port": 4321
     }
   ]
