@@ -1,4 +1,5 @@
 import { defineConfig } from 'astro/config';
+import sitemap from '@astrojs/sitemap';
 import remarkDirective from 'remark-directive';
 import { remarkDipnot, remarkDirektif, remarkTaban } from './araclar/remark-eklentileri.mjs';
 
@@ -14,6 +15,8 @@ export default defineConfig({
   base: TABAN,
   output: 'static',
   trailingSlash: 'always',
+  // 505+ makalelik korpusun kesfedilebilirligi: sitemap + robots (public/).
+  integrations: [sitemap()],
   build: { format: 'directory' },
   markdown: {
     // remarkDirective once calisir, sonra kendi donusturucumuz devralir.

@@ -21,6 +21,12 @@ const menu = [
     <title>{baslik} — Beşeri Atlas</title>
     <meta name="description" content={ozet} />
     <meta name="color-scheme" content="light dark" />
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="Beşeri Atlas" />
+    <meta property="og:title" content={`${baslik} — Beşeri Atlas`} />
+    <meta property="og:description" content={ozet} />
+    <meta property="og:url" content={new URL(Astro.url.pathname, Astro.site)} />
     <link rel="icon" href={bag("/favicon.svg")} type="image/svg+xml" />
     {/* Tema seçimi boyanmadan önce uygulanmalı — aksi hâlde yanıp söner. */}
     <script is:inline>

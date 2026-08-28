@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pashabuilds.github.io/beseri-atlas/sitemap-index.xml
