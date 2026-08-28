@@ -1,9 +1,9 @@
 {
   "id": "kavram-merkantilizm",
   "gecis": 2,
-  "zaman": "2026-08-28T18:33:26.243Z",
-  "govde_hash": "c3890011c2fa",
-  "commit": "1d273c7",
+  "zaman": "2026-08-28T19:06:41.972Z",
+  "govde_hash": "8562e8007443",
+  "commit": "47afd7c",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -61,7 +61,7 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "kitap'dir; dosya o eserin kamu malı tam metnine bağlanır.",
+      "iddia": "kitabıdır; dosya o eserin kamu malı tam metnine bağlanır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

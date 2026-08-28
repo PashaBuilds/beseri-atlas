@@ -98,6 +98,9 @@ altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.[^
 
 ## Kaynak metin
 
-Bu kavramın formüle edildiği eser Smith, *Ulusların Zenginliği* IV. kitap'dir; dosya o eserin kamu malı
-tam metnine bağlanır.[^k4] Kavrama yapılacak atıflar, kavramı tanımlayan
-bölüm belirtilerek verilmelidir.
+Kavramı "merkantil sistem" adıyla bir araya toplayıp eleştiren eser,
+Smith'in *Ulusların Zenginliği*'nin IV. kitabıdır; dosya o eserin kamu
+malı tam metnine bağlanır.[^k4] Uygulamanın kendisi bu adlandırmadan
+eskidir: Smith kavramı icat etmedi, yürürlükteki bir düzeni adlandırıp
+karşısına geçti. Kavrama yapılacak atıflar, kavramı tanımlayan bölüm
+belirtilerek verilmelidir.

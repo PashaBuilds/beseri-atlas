@@ -1,5 +1,5 @@
 ## kavram-merkantilizm
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.243Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T19:06:41.972Z_
 
 - [ATOMSUZ] k1 → "Kaynak bölümlerini sıralar: tarih, kuram, politikalar, savaşlar ve emperyalizm, kökenler, merkantilizmin sonu …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir iktisat politikasının ansiklopedi maddesinde savaşlar ve emperyalizme ayrı bir bölüm ayrılması, atlasın ik…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -10,6 +10,6 @@ _Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.243Z_
 - [ATOMSUZ] k3 → "Dönemin şirket biçimi için tutulan kayıt, bir şirketin feshedildiğini ve yönettiği alanın devlete devrolduğunu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Aynı yüzyılda yazan bir iktisat yazarı için tutulan kayıt, onun ahlak felsefesinin kapsamlı ve alışılmadık bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kuramın içeriği, politikaların ayrıntıları ve kavramın sonu burada ayrı başlıklar altında ele alınmamıştır; ka…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "kitap'dir; dosya o eserin kamu malı tam metnine bağlanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "kitabıdır; dosya o eserin kamu malı tam metnine bağlanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
 **Özet:** 1 OK · 0 ISARET · 0 HATA · 9 ATOMSUZ
