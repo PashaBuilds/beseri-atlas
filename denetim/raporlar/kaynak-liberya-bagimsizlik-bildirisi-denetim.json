@@ -1,7 +1,9 @@
 {
   "id": "kaynak-liberya-bagimsizlik-bildirisi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:49.605Z",
+  "zaman": "2026-08-28T18:33:30.891Z",
+  "govde_hash": "f0fea7ee36ca",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

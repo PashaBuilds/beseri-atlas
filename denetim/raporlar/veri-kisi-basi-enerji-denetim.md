@@ -1,5 +1,5 @@
 ## veri-kisi-basi-enerji
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:48.626Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:29.469Z_
 
 - [OK]      k1 → "Seri 1800'de 98,667 kWh ile başlar ve 2025'te 20.257,705 kWh ile biter."
 - [OK]      k2 → "Aynı sağlayıcının toplam birincil enerji serisinde uç değerler 1800 için 97 TWh ve 2025 için 166.753,6 TWh'dir…"

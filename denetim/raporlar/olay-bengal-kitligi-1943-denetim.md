@@ -1,5 +1,5 @@
 ## olay-bengal-kitligi-1943
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:38.321Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:15.324Z_
 
 - [ATOMSUZ] k1 → "Yirminci yüzyılın ortasında, savaş yıllarında, bölgede geniş çaplı bir kıtlık yaşandı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Kıtlık, bir kuraklık ya da tam bir hasat kaybı sonrası değil, görece sınırlı bir üretim düşüşünün ardından gel…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

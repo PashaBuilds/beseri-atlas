@@ -1,7 +1,9 @@
 {
   "id": "kaynak-tooze-felaketin-bedeli",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:49.900Z",
+  "zaman": "2026-08-28T18:33:31.375Z",
+  "govde_hash": "e6548451eed7",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

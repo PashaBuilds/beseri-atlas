@@ -93,8 +93,8 @@ türlerini sayar.
 
 ## Ölçek
 
-Uzun dönemli seride dünya nüfusu 1800'de yaklaşık 989,7 milyon, 1945'te yaklaşık
-2,3 milyar, 2011'de yaklaşık 7,04 milyardır.[^k2] Kişi başı bir oran burada
+Uzun dönemli seride dünya nüfusu 1800'de yaklaşık 983,1 milyon, 1945'te yaklaşık
+2,4 milyar, 2011'de yaklaşık 7,11 milyardır.[^k2] Kişi başı bir oran burada
 hesaplanmamıştır; sağlayıcı bu dosyada yüksek ve düşük olmak üzere iki ayrı
 tahmin sütunu tutar ve oran hangi sütundan hesaplandığına göre değişir.[^k1]
 

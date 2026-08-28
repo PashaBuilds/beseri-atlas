@@ -1,5 +1,5 @@
 ## kavram-ictihad
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:45.713Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:25.536Z_
 
 - [OK]      k1 → "Yunus Apaydın, baskı tarihi 2000 olarak kaydedilir."
 - [ATOMSUZ] k1 → "Bir hukuk yönteminin tanımında ulaşılan bilginin zannî olarak nitelenmesi, atlasın şu kuralının dayanağıdır: b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -84,7 +84,7 @@ göçebelerinin katkılarını göz ardı ettiğini kaydeder.[^k2] O yol
 
 ## Yolların bağladığı nüfusun ölçeği
 
-Uzun dönemli seride dünya nüfusu MS 1 için yaklaşık 188,2 milyon, 1500 için
+Uzun dönemli seride dünya nüfusu MS 100 için yaklaşık 237,1 milyon, 1500 için
 yaklaşık 503,1 milyondur.[^k3]
 
 Atlas bu seriyi ticaret hacminin göstergesi olarak sunmaz; seri nüfus verir,

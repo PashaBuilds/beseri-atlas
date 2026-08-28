@@ -1,5 +1,5 @@
 ## olay-paris-iklim-anlasmasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:40.176Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:17.701Z_
 
 - [OK]      k1 → "Anlaşmanın katılım tablosu neredeyse evrenseldir: Ocak 2026 itibarıyla Birleşmiş Milletler İklim Değişikliği Ç…" — 3 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Aynı kayıt, katılmayan üç üye devletten yalnızca birinin büyük bir emisyon kaynağı olduğunu belirtir; en büyük…" — 1 atom doğrulandı; 2 ad ölçülemedi

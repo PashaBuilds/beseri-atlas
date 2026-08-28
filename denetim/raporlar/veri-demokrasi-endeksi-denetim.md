@@ -1,5 +1,5 @@
 ## veri-demokrasi-endeksi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:48.251Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:29.015Z_
 
 - [ATOMSUZ] k1 → "Bu dosyanın taşıdığı sayılar bir sayım değil, bir değerlendirmedir: sütun adı tahmin sözcüğünü içerir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Sağlayıcının sütun adı electdemvdemestimatebest biçimindedir; adın kendisi değerin en iyi tahmin olduğunu kayd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

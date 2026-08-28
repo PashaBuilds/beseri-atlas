@@ -1,5 +1,5 @@
 ## olay-1905-rus-devrimi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:37.729Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:14.574Z_
 
 - [OK]      k2 → "Aynı devlet için kaydedilen yönetim biçimi 1721–1906 arasında üniter mutlak monarşi, 1906–1917 arasında üniter…"
 - [OK]      k1 → "Kaynak kayıpları tek bir toplamla değil, taraf taraf verir: bir tarafta 3.611 ölü ya da yaralı; diğer tarafta …"

@@ -1,5 +1,5 @@
 ## aktor-buyuk-zimbabve
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:41.644Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:19.667Z_
 
 - [OK]      k1 → "yüzyıldan itibaren Büyük Zimbabve Krallığı'nın başkenti olarak hizmet etti." — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Taş şehir 7,22 kilometrekarelik bir alanı kaplar ve sömürge öncesi Güney Afrika'nın en büyük taş yapısıdır." — 1 atom doğrulandı; 1 ad ölçülemedi

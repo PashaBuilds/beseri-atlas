@@ -1,5 +1,5 @@
 ## tartisma-antik-kolelik-ekonomisi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:46.967Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.361Z_
 
 - [ATOMSUZ] k1 → "Bu haritanın çıkış noktası kaynağın terminoloji bölümüdür: tek bir tanım yerine altı biçim." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, terminoloji başlığı altında mal kölelik, borç emeği, bağımlılar, zorla çalıştırma (altında çocuk asker…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

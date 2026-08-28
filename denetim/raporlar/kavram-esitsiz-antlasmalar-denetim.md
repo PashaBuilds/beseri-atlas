@@ -1,5 +1,5 @@
 ## kavram-esitsiz-antlasmalar
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:45.571Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:25.298Z_
 
 - [ATOMSUZ] k1 → "Eşitsiz antlaşmalar, yükümlülüğün tek yöne aktığı antlaşmalardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Biçim olarak sıradan bir antlaşmadan ayırt edilemez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

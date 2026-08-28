@@ -1,5 +1,5 @@
 ## aktor-vijayanagara
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:44.055Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:23.013Z_
 
 - [OK]      k1 → "Vijayanagara, on dördüncü yüzyıl ortasında Hindistan yarımadasının güneyinde kurulan ve on yedinci yüzyıl orta…"
 - [ATOMSUZ] k3 → "Devlet, kuzeyden gelen askerî baskının yoğunlaştığı bir dönemde kuruldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

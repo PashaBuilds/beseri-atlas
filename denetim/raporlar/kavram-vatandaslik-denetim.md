@@ -1,5 +1,5 @@
 ## kavram-vatandaslik
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:46.758Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.063Z_
 
 - [ATOMSUZ] k1 → "Vatandaşlık, bir düzenin kimi kendi üyesi saydığını belirleyen bağdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Bağ hukuki bir işlemdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

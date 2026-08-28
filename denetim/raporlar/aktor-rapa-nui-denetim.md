@@ -1,5 +1,5 @@
 ## aktor-rapa-nui
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:43.440Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:22.179Z_
 
 - [OK]      k1 → "Rapa Nui, Pasifik'in güneydoğusunda, en yakın yerleşik kara parçasına iki bin kilometreden uzak bir adadır."
 - [ATOMSUZ] k2 → "Yerleşimin en bilinen ürünü, adanın çevresine dizilmiş büyük taş heykellerdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

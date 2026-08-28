@@ -1,5 +1,5 @@
 ## kavram-anakronizm
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:45.218Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:24.740Z_
 
 - [ATOMSUZ] k1 → "Kaynak, kavramın türlerini üç alt başlıkta tutar: parakronizm, prokronizm ve metakronizm." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, siyasi güdümlü anakronizm ile bilinçsiz anakronizmi ayrı başlıklar olarak tutar; ayrıca sanat ve edebi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

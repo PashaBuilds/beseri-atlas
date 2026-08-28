@@ -1,7 +1,9 @@
 {
   "id": "tartisma-somurgeciligin-ekonomik-bilancosu",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:47.731Z",
+  "zaman": "2026-08-28T18:33:28.381Z",
+  "govde_hash": "f3d7f6907c10",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

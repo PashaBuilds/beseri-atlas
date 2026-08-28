@@ -1,7 +1,9 @@
 {
   "id": "veri-tarimsal-verim",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:48.961Z",
+  "zaman": "2026-08-28T18:33:29.894Z",
+  "govde_hash": "2cc228cfa2d8",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

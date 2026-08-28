@@ -1,7 +1,9 @@
 {
   "id": "olay-malazgirt",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:39.814Z",
+  "zaman": "2026-08-28T18:33:17.233Z",
+  "govde_hash": "85210dfb0da7",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

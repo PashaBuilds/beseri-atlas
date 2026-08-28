@@ -1,5 +1,5 @@
 ## kaynak-smith-uluslarin-zenginligi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.864Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:31.305Z_
 
 - [OK]      k1 → "Cadell, yayın tarihi 9 Mart 1776, yayın yeri İskoçya, Büyük Britanya Krallığı." — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "kitaplar yer alır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

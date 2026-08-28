@@ -1,5 +1,5 @@
 ## olay-uzay-yarisi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:40.704Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:18.394Z_
 
 - [ATOMSUZ] k1 → "Bu yarışın referans maddesi, teknik başarıların yanında bilgi yönetimini de ayrı başlıklarla ele alır: yapay u…" — programatik olarak ölçülemedi (ad karşılığı yok): Sovyet, ABD
 - [ATOMSUZ] k1 → "Bir teknoloji yarışının referans maddesinde gizliliğin ayrı bir alt başlık olması, rekabetin yalnızca kim önce…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

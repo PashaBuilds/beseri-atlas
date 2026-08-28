@@ -1,5 +1,5 @@
 ## olay-meiji-restorasyonu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:39.869Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:17.306Z_
 
 - [OK]      k1 → "Meiji Restorasyonu 3 Ocak 1868 tarihine yerleştirilir ve dört sonuç birden kaydedilir: Tokugawa şogunluğunun d…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Listedeki maddeler farklı türdendir: biri bir rejim değişikliği, biri bir devlet kuruluşu, biri bir iktisadi d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

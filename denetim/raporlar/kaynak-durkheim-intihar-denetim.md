@@ -1,5 +1,5 @@
 ## kaynak-durkheim-intihar
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.252Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.317Z_
 
 - [OK]      k1 → "Kaynak eseri, yazarın kuram bölümünde toplumsal patoloji ve suç başlığı altında sapma ile birlikte ayrı bir al…"
 - [ATOMSUZ] k1 → "Kaynak, yazarın amacının yapısal toplumsal olguları keşfetmek olduğunu ve toplum biliminin bütüncül olması ger…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

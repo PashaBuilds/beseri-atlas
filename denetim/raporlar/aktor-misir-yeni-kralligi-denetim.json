@@ -1,7 +1,9 @@
 {
   "id": "aktor-misir-yeni-kralligi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:43.092Z",
+  "zaman": "2026-08-28T18:33:21.706Z",
+  "govde_hash": "fec8becf3429",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

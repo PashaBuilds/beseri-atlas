@@ -1,7 +1,9 @@
 {
   "id": "aktor-cahokia",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:41.689Z",
+  "zaman": "2026-08-28T18:33:19.730Z",
+  "govde_hash": "e693fe5f5afc",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

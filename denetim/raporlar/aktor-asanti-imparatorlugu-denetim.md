@@ -1,5 +1,5 @@
 ## aktor-asanti-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:41.188Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:19.029Z_
 
 - [OK]      k1 → "Aşanti İmparatorluğu, on sekizinci yüzyıl başında Batı Afrika'nın orman kuşağında kurulan ve yirminci yüzyıl b…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Devlet, çok sayıda ayrı topluluğun bir çatı altında birleşmesiyle kuruldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

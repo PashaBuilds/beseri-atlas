@@ -1,5 +1,5 @@
 ## dusunur-konfucyus
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:44.720Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:23.970Z_
 
 - [OK]      k1 → "Kaynak tarihleri geleneksel kaydıyla verir: MÖ 551-479."
 - [OK]      k1 → "Kaynak, Konfüçyüs adının Kong soyadı ile Usta anlamındaki fuzi onur ekinin Latinceleştirilmiş bir birleşimi ol…" — 2 atom doğrulandı; 2 ad ölçülemedi

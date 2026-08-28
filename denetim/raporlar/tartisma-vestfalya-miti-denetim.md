@@ -1,5 +1,5 @@
 ## tartisma-vestfalya-miti
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.948Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.648Z_
 
 - [OK]      k1 → "Bu haritanın çıkış noktası bir yokluktur: kaynağın egemenlik tarihi bölümlemesinde 1648 kendi başına bir başlı…"
 - [OK]      k1 → "Kaynak, tarih bölümünü beş alt başlığa ayırır: klasik, ortaçağ, Reform, Aydınlanma Çağı ve İkinci Dünya Savaşı…" — 1 atom doğrulandı; 3 ad ölçülemedi

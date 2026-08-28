@@ -1,5 +1,5 @@
 ## kaynak-hammurabi-kanunlari
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.339Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.477Z_
 
 - [ATOMSUZ] k1 → "Hammurabi Kanunları, Mezopotamya'da bir hükümdarın adına yazdırılmış ve bir taş dikilitaş üzerine kazınmış hük…" — programatik olarak ölçülemedi (ad karşılığı yok): Kanunları, Mezopotamya
 - [ATOMSUZ] k2 → "Dikilitaş bugün bir müzede bulunmaktadır ve metin tam olarak okunabilmektedir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

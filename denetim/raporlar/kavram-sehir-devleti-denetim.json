@@ -1,7 +1,9 @@
 {
   "id": "kavram-sehir-devleti",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:46.435Z",
+  "zaman": "2026-08-28T18:33:26.547Z",
+  "govde_hash": "09e73cc0624a",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

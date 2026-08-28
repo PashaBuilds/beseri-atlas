@@ -139,7 +139,7 @@ ele alınıyor.
 
 ## Ölçek
 
-Uzun dönemli seride dünya nüfusu 1100'de yaklaşık 320,1 milyon, 1300'de yaklaşık
+Uzun dönemli seride dünya nüfusu 1100'de yaklaşık 397,9 milyon, 1300'de yaklaşık
 456,2 milyondur.[^k2] Sefere katılanların sayısına dair bir ölçüm kullanılan
 kaynaklarda bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 

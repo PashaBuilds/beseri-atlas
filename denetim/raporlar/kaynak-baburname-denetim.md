@@ -1,5 +1,5 @@
 ## kaynak-baburname
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.157Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.157Z_
 
 - [ATOMSUZ] k1 → "Bâbürnâme, bir hükümdarın kendi hayatını birinci ağızdan anlattığı hatırattır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Bâbürnâme, bir hükümdarın kendi hayatını birinci ağızdan anlattığı hatırattır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

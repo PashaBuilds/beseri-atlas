@@ -81,7 +81,7 @@ yuvarlama kararına bağlıdır.[^k1]
 ## Payın üzerine uygulanacağı toplam
 
 Uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık 2,49 milyar, 2020
-için yaklaşık 7,84 milyardır.[^k2]
+için yaklaşık 7,89 milyardır.[^k2]
 
 Atlas iki seriyi çarparak kentsel nüfus sayısı üretmez; iki kümenin yıl kapsamı
 ve tahmin yöntemi aynı değildir.[^k1][^k2] Nüfus serisi

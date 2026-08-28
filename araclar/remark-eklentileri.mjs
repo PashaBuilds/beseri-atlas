@@ -34,6 +34,10 @@ export function remarkTaban() {
 
 export function remarkDipnot() {
   return (agac) => {
+    // Ayni anahtara ikinci atif, ayni id'yi tekrarlayamaz (HTML'de id tekildir;
+    // tekrar, "metne don" bagini ve erisilebilirlik agacini bozuyordu).
+    // Ilk gecis id="atif-kN" alir, sonrakiler "atif-kN-2", "atif-kN-3"...
+    const gecisler = new Map();
     visit(agac, 'text', (dugum, indis, ebeveyn) => {
       if (!ebeveyn || typeof indis !== 'number') return;
       const parcalar = String(dugum.value).split(/(\[\^k\d+\])/g);
@@ -42,9 +46,12 @@ export function remarkDipnot() {
       for (const p of parcalar) {
         const e = /^\[\^(k(\d+))\]$/.exec(p);
         if (!e) { if (p) yeni.push({ type: 'text', value: p }); continue; }
+        const n = (gecisler.get(e[1]) || 0) + 1;
+        gecisler.set(e[1], n);
+        const id = n === 1 ? `atif-${e[1]}` : `atif-${e[1]}-${n}`;
         yeni.push({
           type: 'html',
-          value: `<sup class="dipnot"><a href="#kaynak-${e[1]}" id="atif-${e[1]}" `
+          value: `<sup class="dipnot"><a href="#kaynak-${e[1]}" id="${id}" `
             + `aria-describedby="kaynak-${e[1]}" data-kaynak="${e[1]}">${e[2]}</a></sup>`,
         });
       }

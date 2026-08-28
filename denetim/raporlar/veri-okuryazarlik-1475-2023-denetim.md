@@ -1,5 +1,5 @@
 ## veri-okuryazarlik-1475-2023
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:48.771Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:29.655Z_
 
 - [OK]      k1 → "Seri 1820'de yüzde 12,046689 ile başlar ve 2024'te yüzde 87,74 ile biter; toplam 61 gözlem vardır."
 - [OK]      k1 → "Bu dosyanın kimliği 1475'ten başlayan bir aralığı adlandırır, ancak veri kümesinde 1820'den önce dünya toplamı…"

@@ -1,7 +1,9 @@
 {
   "id": "olay-reform",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:40.304Z",
+  "zaman": "2026-08-28T18:33:17.877Z",
+  "govde_hash": "ef95a52fdcc9",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

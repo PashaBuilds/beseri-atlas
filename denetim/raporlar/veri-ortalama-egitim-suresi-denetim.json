@@ -1,7 +1,9 @@
 {
   "id": "veri-ortalama-egitim-suresi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:48.782Z",
+  "zaman": "2026-08-28T18:33:29.675Z",
+  "govde_hash": "79401381493d",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

@@ -1,7 +1,9 @@
 {
   "id": "kavram-kipu",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:46.015Z",
+  "zaman": "2026-08-28T18:33:25.945Z",
+  "govde_hash": "995ffb76f94d",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

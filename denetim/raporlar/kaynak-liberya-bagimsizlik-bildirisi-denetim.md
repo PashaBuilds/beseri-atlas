@@ -1,5 +1,5 @@
 ## kaynak-liberya-bagimsizlik-bildirisi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.605Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.891Z_
 
 - [OK]      k1 → "Liberya Bağımsızlık Bildirisi, 1847'de Batı Afrika kıyısında kurulan bir yerleşimin bağımsızlığını ilan eden m…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k2 → "Yerleşim, bir dernek tarafından örgütlenmişti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,7 +1,9 @@
 {
   "id": "tartisma-soguk-savasin-baslangici",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:47.633Z",
+  "zaman": "2026-08-28T18:33:28.275Z",
+  "govde_hash": "f309074ee2a7",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

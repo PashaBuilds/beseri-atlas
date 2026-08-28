@@ -1,7 +1,9 @@
 {
   "id": "kaynak-hobbes-leviathan",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:49.403Z",
+  "zaman": "2026-08-28T18:33:30.579Z",
+  "govde_hash": "6aced54c6a8f",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

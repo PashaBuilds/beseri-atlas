@@ -1,5 +1,5 @@
 ## olay-1914-temmuz-krizi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:37.822Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:14.677Z_
 
 - [ATOMSUZ] k1 → "Britanya'nın resmî belge derlemesi, suikast ile Avusturya notasının sunulması arasındaki dönemi 28 Haziran – 2…" — programatik olarak ölçülemedi (ad karşılığı yok): Avusturya, Haziran, Temmuz, Ağustos
 - [OK]      k2 → "Kriz, 28 Haziran 1914'te Bosnalı Sırp milliyetçi Gavrilo Princip'in Avusturya-Macaristan tahtının veliahdı Arş…" — 3 atom doğrulandı; 2 ad ölçülemedi

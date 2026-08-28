@@ -1,7 +1,9 @@
 {
   "id": "kavram-millet-sistemi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:46.247Z",
+  "zaman": "2026-08-28T18:33:26.284Z",
+  "govde_hash": "32db071a4dec",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

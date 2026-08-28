@@ -1,5 +1,5 @@
 ## kaynak-gulhane-hatti
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.317Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.446Z_
 
 - [OK]      k1 → "Gülhane Hatt-ı Şerîfi, 1839'da bir saray bahçesinde toplanan kalabalığa okunan ve hükümdar adına ilan edilen m…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k2 → "Bildirilen esaslar üç başlıkta toplanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

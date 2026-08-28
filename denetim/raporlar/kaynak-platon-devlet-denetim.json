@@ -1,7 +1,9 @@
 {
   "id": "kaynak-platon-devlet",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:49.787Z",
+  "zaman": "2026-08-28T18:33:31.184Z",
+  "govde_hash": "4ab8200d43d9",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

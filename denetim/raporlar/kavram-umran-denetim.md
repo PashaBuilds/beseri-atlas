@@ -1,5 +1,5 @@
 ## kavram-umran
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:46.737Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.033Z_
 
 - [OK]      k1 → "Kaynak, İbn Haldûn'un düşünce sisteminin merkezini ilk defa kendisinin temellendirdiği umran ilminin oluşturdu…"
 - [ATOMSUZ] k1 → "Kaynağın kavramı bir ilim olarak adlandırması, atlasın şu kuralının dayanağıdır: bu dosyada umran, bir konu ba…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

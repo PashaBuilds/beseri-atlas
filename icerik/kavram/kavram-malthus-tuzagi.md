@@ -89,8 +89,8 @@ taşır.[^k1] Kavramın adını aldığı yazar
 
 ## Sınandığı seri
 
-Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 990,4 milyon, 1900 için
-yaklaşık 1,65 milyar, 2020 için yaklaşık 7,84 milyardır.[^k3]
+Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 983,1 milyon, 1900 için
+yaklaşık 1,63 milyar, 2020 için yaklaşık 7,89 milyardır.[^k3]
 
 Atlas bu seriyi kuramın çürütülmesi olarak sunmaz: kuram belirli koşullar altında
 bir sonuç öngörür, seri ise koşulların gerçekleşip gerçekleşmediğini kendi başına

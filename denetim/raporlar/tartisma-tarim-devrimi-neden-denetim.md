@@ -1,5 +1,5 @@
 ## tartisma-tarim-devrimi-neden
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.890Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.563Z_
 
 - [ATOMSUZ] k1 → "Kaynak, toplulukları tarım geliştirmeye iten etkenlere dair öne çıkan kuramları birbirini dışlamayan kuramlar …" — programatik olarak ölçülemedi (ad karşılığı yok): Vaha, Kuramı, Tepelik, Yamaçlar
 - [OK]      k1 → "Gordon Childe tarafından yaygınlaştırıldığını ve Childe'ın Man Makes Himself adlı kitabında özetlendiğini yaza…"

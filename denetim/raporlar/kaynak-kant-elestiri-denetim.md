@@ -1,5 +1,5 @@
 ## kaynak-kant-elestiri
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.483Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.702Z_
 
 - [OK]      k1 → "Kaynak üç Eleştiri'yi künyeleriyle sıralar: Saf Aklın Eleştirisi (1781, 1787), Pratik Aklın Eleştirisi (1788) …" — 4 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "İlk eserin iki yılla birden verilmesi, aynı başlık altında iki farklı baskının bulunduğu anlamına gelir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

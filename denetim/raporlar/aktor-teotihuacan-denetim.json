@@ -1,7 +1,9 @@
 {
   "id": "aktor-teotihuacan",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:43.891Z",
+  "zaman": "2026-08-28T18:33:22.789Z",
+  "govde_hash": "17e5e23afabb",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

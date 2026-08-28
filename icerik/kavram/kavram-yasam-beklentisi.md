@@ -71,7 +71,7 @@ sağlar, açıklama sağlamaz.
 ## Aynı sağlayıcının başka bir serisi
 
 Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık
-2,49 milyar, 2020 için yaklaşık 7,84 milyardır.[^k2]
+2,49 milyar, 2020 için yaklaşık 7,89 milyardır.[^k2]
 
 İki serinin farklı birimlerde olması (biri yıl, diğeri kişi),[^k1][^k2] atlasın
 veri dosyalarında neden birim alanını ayrı tuttuğunun dayanağıdır.

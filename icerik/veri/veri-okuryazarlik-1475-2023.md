@@ -82,8 +82,8 @@ vermez.[^k1]
 
 ## Oranın üzerine uygulanacağı toplam
 
-Uzun dönemli nüfus serisinde dünya nüfusu 1820 için yaklaşık 1,04 milyar, 2020
-için yaklaşık 7,84 milyardır.[^k2]
+Uzun dönemli nüfus serisinde dünya nüfusu 1820 için yaklaşık 1,09 milyar, 2020
+için yaklaşık 7,89 milyardır.[^k2]
 
 Atlas iki seriyi çarparak okuryazar kişi sayısı üretmez; iki kümenin gözlem
 yılları ve tahmin yöntemi aynı değildir.[^k1][^k2] Nüfus serisi

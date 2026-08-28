@@ -113,8 +113,8 @@ adının yazarın tezi kadar yayıncının kararına da bağlı olabildiğini g�
 
 ## Sınırların ölçülebilir çapası
 
-Uzun dönemli seride dünya nüfusu 1789'da yaklaşık 938,2 milyon, 1848'de yaklaşık
-1,25 milyar, 1914'te yaklaşık 1,85 milyar ve 1991'de yaklaşık 5,44 milyardır.[^k3]
+Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 1848'de yaklaşık
+1,27 milyar, 1914'te yaklaşık 1,82 milyar ve 1991'de yaklaşık 5,42 milyardır.[^k3]
 
 Bu dört değer bir dönemlendirmeyi doğrulamaz; yalnızca 1789-1991 aralığında
 dünya nüfusunun yaklaşık beş buçuk kat arttığını gösterir.[^k3]

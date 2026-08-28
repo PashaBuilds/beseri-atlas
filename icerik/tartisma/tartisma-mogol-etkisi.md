@@ -130,7 +130,7 @@ pozisyonun dayanağıdır: bağlantı iddiası kurumsal bir kayda dayanır.
 
 ## Dönemin nüfus serisi
 
-Uzun dönemli seride dünya nüfusu 1200 yılında yaklaşık 400,3 milyon, 1300 yılında
+Uzun dönemli seride dünya nüfusu 1200 yılında yaklaşık 444,7 milyon, 1300 yılında
 yaklaşık 456,2 milyondur.[^k2]
 
 Atlas bu iki değeri yıkım iddiasının kanıtı ya da çürütmesi olarak sunmaz: seri

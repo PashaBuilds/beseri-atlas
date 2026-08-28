@@ -1,7 +1,9 @@
 {
   "id": "kavram-salgin",
   "gecis": 2,
-  "zaman": "2026-08-28T18:23:24.800Z",
+  "zaman": "2026-08-28T18:33:26.519Z",
+  "govde_hash": "d464658ef96a",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

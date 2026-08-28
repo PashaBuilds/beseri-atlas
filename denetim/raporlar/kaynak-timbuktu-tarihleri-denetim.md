@@ -1,5 +1,5 @@
 ## kaynak-timbuktu-tarihleri
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.888Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:31.355Z_
 
 - [ATOMSUZ] k1 → "Bu dosya, Nijer kıvrımındaki bir şehirde ve o şehrin âlim çevresinde yazılmış iki tarih kitabını birlikte küny…" — programatik olarak ölçülemedi (ad karşılığı yok): Nijer
 - [ATOMSUZ] k2 → "Bu dosya, Nijer kıvrımındaki bir şehirde ve o şehrin âlim çevresinde yazılmış iki tarih kitabını birlikte küny…" — programatik olarak ölçülemedi (ad karşılığı yok): Nijer

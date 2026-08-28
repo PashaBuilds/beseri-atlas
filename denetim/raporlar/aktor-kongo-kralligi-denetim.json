@@ -1,7 +1,9 @@
 {
   "id": "aktor-kongo-kralligi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:42.732Z",
+  "zaman": "2026-08-28T18:33:21.214Z",
+  "govde_hash": "4fab112693ba",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

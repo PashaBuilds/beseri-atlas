@@ -1,5 +1,5 @@
 ## tartisma-iklim-ve-cokus
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.234Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.732Z_
 
 - [ATOMSUZ] k1 → "Bu haritanın çıkış noktası kaynağın bölüm yapısıdır: aynı başlık altında hem toplumsal büyüme ve kentleşme hem…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak, tarihsel ve tarih öncesi toplumlar başlığı altında toplumsal büyüme ve kentleşme ile toplumsal çöküşü …" — 1 atom doğrulandı; 3 ad ölçülemedi

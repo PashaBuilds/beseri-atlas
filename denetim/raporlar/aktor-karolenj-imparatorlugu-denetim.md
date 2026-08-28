@@ -1,5 +1,5 @@
 ## aktor-karolenj-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:42.636Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:21.075Z_
 
 - [OK]      k1 → "800 yılında imparator unvanı Batı Avrupa'da Şarlman ile yeniden canlandırıldı ve onun Karolenj İmparatorluğu s…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Buradaki anahtar ifade yeniden canlandırmadır: unvan icat edilmedi, 800'de yeniden canlandırıldı."

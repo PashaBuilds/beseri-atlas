@@ -1,5 +1,5 @@
 ## tartisma-feodalite-kavrami
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.136Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.594Z_
 
 - [ATOMSUZ] k1 → "Bu haritanın çıkış noktası kaynağın kendi nitelemesidir: tartışma sürüyor ve sonuçsuz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak klasik tanımı 1944'e, geniş tanımı 1939'a tarihler; ilki savaşçı soyluluğun karşılıklı hukuki ve askerî…"

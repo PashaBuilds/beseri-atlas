@@ -1,5 +1,5 @@
 ## olay-malaka-fethi-1511
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:39.797Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:17.206Z_
 
 - [ISARET]  k1 → "1511 yazında bir Avrupa donanması, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan boğazın kıyısındak…" — özel isim kaynakta bulunamadı: Okyanusu
 - [OK]      k3 → "1511 yazında bir Avrupa donanması, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan boğazın kıyısındak…" — 3 atom doğrulandı; 2 ad ölçülemedi

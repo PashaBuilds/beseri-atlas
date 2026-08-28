@@ -1,7 +1,9 @@
 {
   "id": "olay-tanzimat-fermani",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:40.584Z",
+  "zaman": "2026-08-28T18:33:18.247Z",
+  "govde_hash": "af88520c97fd",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

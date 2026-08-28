@@ -1,5 +1,5 @@
 ## dusunur-kautilya
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:44.666Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:23.897Z_
 
 - [ATOMSUZ] k1 → "yüzyıl olarak verilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "yüzyıldır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

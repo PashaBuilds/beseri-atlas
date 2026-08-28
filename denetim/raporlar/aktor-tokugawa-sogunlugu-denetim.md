@@ -1,5 +1,5 @@
 ## aktor-tokugawa-sogunlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:43.955Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:22.874Z_
 
 - [OK]      k1 → "Bu düzenin başlangıcı ve sonu, kaynağın kendi kayıtlarında iki farklı türde olayla verilir: öncesinde 21 Ekim …" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bir askerî zaferle kurulan bir düzenin bir siyasi ilanla sona ermesi, kuruluş ile çözülüşün farklı mekanizmala…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

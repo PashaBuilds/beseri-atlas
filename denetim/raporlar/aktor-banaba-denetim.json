@@ -1,7 +1,9 @@
 {
   "id": "aktor-banaba",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:41.432Z",
+  "zaman": "2026-08-28T18:33:19.358Z",
+  "govde_hash": "cdc77204aa8a",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

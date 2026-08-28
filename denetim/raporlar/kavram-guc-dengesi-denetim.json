@@ -1,7 +1,9 @@
 {
   "id": "kavram-guc-dengesi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:45.633Z",
+  "zaman": "2026-08-28T18:33:25.399Z",
+  "govde_hash": "4493351540d6",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

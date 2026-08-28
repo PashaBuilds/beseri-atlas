@@ -105,7 +105,7 @@ göre değiştiğini gösterir.
 ## Ölçek
 
 Uzun dönemli seride dünya nüfusu 1914 için yaklaşık 1,82 milyar, 1918 için
-yaklaşık 1,83 milyardır.[^k3] Kaynağın verdiği 15-22 milyonluk ölü aralığı[^k1]
+yaklaşık 1,87 milyardır.[^k3] Kaynağın verdiği 15-22 milyonluk ölü aralığı[^k1]
 bu nüfusun içinde yer alır; atlas bu iki kaydı tek bir oranda birleştirmez,
 çünkü kaynakta böyle bir oran verilmemiştir.
 

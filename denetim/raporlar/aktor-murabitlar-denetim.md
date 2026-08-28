@@ -1,5 +1,5 @@
 ## aktor-murabitlar
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:43.163Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:21.807Z_
 
 - [ATOMSUZ] k1 → "Murâbıtlar, on birinci yüzyılda büyük çölün batı kesiminde ortaya çıkan ve bir yüzyıl içinde çölün kuzey ve gü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Hanedanın hâkim olduğu alan, iki farklı iklimi ve iki farklı üretim düzenini kapsıyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

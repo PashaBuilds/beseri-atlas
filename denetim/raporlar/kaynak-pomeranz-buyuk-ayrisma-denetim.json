@@ -1,7 +1,9 @@
 {
   "id": "kaynak-pomeranz-buyuk-ayrisma",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:49.814Z",
+  "zaman": "2026-08-28T18:33:31.228Z",
+  "govde_hash": "84a2c77c5667",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

@@ -1,5 +1,5 @@
 ## kavram-ticaret-diasporasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:46.664Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.912Z_
 
 - [ATOMSUZ] k1 → "Kaynak, tarihsel ticaret yollarını üçe ayırır: kara ve su yolu birleşimi olanlar (Tütsü Yolu, Kolomb öncesi ti…" — programatik olarak ölçülemedi (ad karşılığı yok): Tütsü, Yolu, Kolomb, İpek
 - [ATOMSUZ] k1 → "Aynı yolların ulaşım biçimine göre üç kategoriye ayrılması, atlasın şu kuralının dayanağıdır: bu atlasta ticar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

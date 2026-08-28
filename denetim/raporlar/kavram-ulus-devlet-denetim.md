@@ -1,5 +1,5 @@
 ## kavram-ulus-devlet
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:46.719Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.006Z_
 
 - [ATOMSUZ] k1 → "Kaynak ilk bölümünü karmaşıklık başlığına ayırır; ardından tarih bölümünde kökenler ve ulus-devlet öncesi alt …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Tarih bölümünde ulus-devlet öncesi diye ayrı bir alt başlık bulunması, atlasın şu kuralının dayanağıdır: bu te…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

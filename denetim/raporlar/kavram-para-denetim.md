@@ -1,5 +1,5 @@
 ## kavram-para
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:46.337Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.409Z_
 
 - [ATOMSUZ] k1 → "Kaynak, işlevler başlığı altında dört alt başlık tutar: değişim aracı, değer ölçüsü, ertelenmiş ödeme standard…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir nesnenin dört ayrı işlevle tanımlanması, atlasın şu kuralının dayanağıdır: bu dosyada para, hangi işlevini…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

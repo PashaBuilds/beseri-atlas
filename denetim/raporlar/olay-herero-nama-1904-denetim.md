@@ -1,5 +1,5 @@
 ## olay-herero-nama-1904
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:39.006Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:16.200Z_
 
 - [ATOMSUZ] k1 → "Yirminci yüzyılın başında, kıtanın güneybatısındaki bir sömürge bölgesinde iki ayrı topluluk ayaklandı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Bastırma sırasında uygulanan yöntemler, dönemin sömürge uygulamalarından da ayrılıyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## tartisma-kara-olumun-sonuclari
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.381Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.929Z_
 
 - [OK]      k1 → "yüzyıl nüfusunun yüzde 50'si olduğunu yazar; birkaç cümle sonra Avrupa nüfusunun yüzde 30 ile 60 arasını ve Or…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak, hastalığın Yersinia pestis bakterisinden kaynaklandığını ve öncelikle pire ısırıklarıyla yayıldığını, …"

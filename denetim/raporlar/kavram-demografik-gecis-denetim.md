@@ -1,5 +1,5 @@
 ## kavram-demografik-gecis
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:45.481Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:25.137Z_
 
 - [ATOMSUZ] k1 → "Her ülke bu iki büyüklükte çok köklü değişimler yaşadı: ölümlülük ve doğurganlık hızları dünya genelinde düştü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Ama tek başına bu iki düşüş, nüfusun neden arttığını açıklamaz — eğer ikisi aynı anda gerçekleşseydi nüfusun b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

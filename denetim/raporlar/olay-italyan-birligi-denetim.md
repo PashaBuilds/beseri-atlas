@@ -1,5 +1,5 @@
 ## olay-italyan-birligi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:39.429Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:16.736Z_
 
 - [OK]      k1 → "Kaynak birliği tek bir olay olarak değil bir dizi olarak bölümler: Cavour ve birleşme beklentileri, Pisacane b…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bölümlemede bir başarısızlığın kendi başlığını taşıması, birleşme anlatısının yalnızca zaferlerden kurulmadığı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

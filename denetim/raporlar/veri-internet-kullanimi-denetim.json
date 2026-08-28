@@ -1,7 +1,9 @@
 {
   "id": "veri-internet-kullanimi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:48.470Z",
+  "zaman": "2026-08-28T18:33:29.281Z",
+  "govde_hash": "0f98b8ed8f24",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

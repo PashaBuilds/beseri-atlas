@@ -85,7 +85,7 @@ tarafı [Longue durée](/kavram/longue-duree/) dosyasında ele alınıyor.
 ## Küresel ölçeğin veri karşılığı
 
 Uzun dönemli seride dünya nüfusu 1500 için yaklaşık 503,1 milyon, 1800 için
-yaklaşık 990,4 milyon, 2020 için yaklaşık 7,84 milyar verir.[^k3]
+yaklaşık 983,1 milyon, 2020 için yaklaşık 7,89 milyar verir.[^k3]
 
 Böyle bir serinin tek bir birim olarak tutulabilmesi,[^k3] küresel ölçekli
 kurguların veri düzeyinde de bir karşılığı olduğunu gösterir; atlas bu karşılığın

@@ -1,7 +1,9 @@
 {
   "id": "donem-03",
   "gecis": 2,
-  "zaman": "2026-08-28T18:24:29.341Z",
+  "zaman": "2026-08-28T18:33:12.279Z",
+  "govde_hash": "dad0bcdeab48",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

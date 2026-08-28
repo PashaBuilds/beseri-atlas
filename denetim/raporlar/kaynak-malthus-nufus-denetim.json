@@ -1,7 +1,9 @@
 {
   "id": "kaynak-malthus-nufus",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:49.694Z",
+  "zaman": "2026-08-28T18:33:31.026Z",
+  "govde_hash": "e6160b8370aa",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

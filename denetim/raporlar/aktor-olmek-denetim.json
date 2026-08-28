@@ -1,7 +1,9 @@
 {
   "id": "aktor-olmek",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:43.277Z",
+  "zaman": "2026-08-28T18:33:21.961Z",
+  "govde_hash": "6296d562c49f",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

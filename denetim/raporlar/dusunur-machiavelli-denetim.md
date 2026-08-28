@@ -1,5 +1,5 @@
 ## dusunur-machiavelli
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:44.793Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:24.073Z_
 
 - [ATOMSUZ] k1 → "Bir felsefe ansiklopedisinde onunla ilgili bir maddeye rastlayan herkesin bu soruyu doğal ve meşru biçimde sor…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, onun kendisini filozof saymamış göründüğünü ve çoğu kez felsefi soruşturmayı konu dışı sayarak açıkça …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

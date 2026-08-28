@@ -1,7 +1,9 @@
 {
   "id": "aktor-dunya-ticaret-orgutu",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:41.843Z",
+  "zaman": "2026-08-28T18:33:19.943Z",
+  "govde_hash": "95ff7e10f726",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

@@ -72,7 +72,7 @@ tarihler.[^k1] O örnek
 ## Ölçünün uygulandığı toplam
 
 Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1400 yılında
-yaklaşık 405,3 milyondur.[^k2]
+yaklaşık 442,3 milyondur.[^k2]
 
 Atlas bu iki değeri bir salgın ölüm sayısı olarak sunmaz; seri toplam nüfusu
 verir, ölüm nedenini vermez.[^k1][^k2]

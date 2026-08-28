@@ -1,7 +1,9 @@
 {
   "id": "kaynak-gulhane-hatti",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:49.317Z",
+  "zaman": "2026-08-28T18:33:30.446Z",
+  "govde_hash": "e36c96fa604b",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

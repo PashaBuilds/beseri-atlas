@@ -1,5 +1,5 @@
 ## olay-pon-savaslari
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:40.261Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:17.824Z_
 
 - [OK]      k1 → "Pön Savaşları, Roma Cumhuriyeti ile Kartaca İmparatorluğu arasında MÖ 264–146 arasında yürütülen savaşlardır; …" — 3 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "İki sayı arasındaki fark asıl bilgidir: dizi yüz on sekiz yıla yayılır ama fiilî çarpışma kırk üç yıl sürer." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

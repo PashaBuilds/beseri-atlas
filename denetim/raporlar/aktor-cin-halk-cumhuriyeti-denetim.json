@@ -1,7 +1,9 @@
 {
   "id": "aktor-cin-halk-cumhuriyeti",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:41.732Z",
+  "zaman": "2026-08-28T18:33:19.792Z",
+  "govde_hash": "b625c0147197",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

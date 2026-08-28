@@ -1,7 +1,9 @@
 {
   "id": "olay-hacli-seferleri",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:38.918Z",
+  "zaman": "2026-08-28T18:33:16.083Z",
+  "govde_hash": "c62a1366a8cd",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

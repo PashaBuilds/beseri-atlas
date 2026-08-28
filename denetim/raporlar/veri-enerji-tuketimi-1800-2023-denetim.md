@@ -1,5 +1,5 @@
 ## veri-enerji-tuketimi-1800-2023
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:48.398Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:29.191Z_
 
 - [OK]      k1 → "Seri 1800'de 97 TWh ile başlar ve 2025'te 166.753,6 TWh ile biter; toplam 78 gözlem vardır."
 - [ATOMSUZ] k1 → "Serinin ilk ve son değeri arasındaki oran, atlasın diğer veri dosyalarında kaydedilen artışların hiçbirine ben…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

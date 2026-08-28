@@ -1,5 +1,5 @@
 ## kavram-avustronezya-yayilmasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:45.313Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:24.883Z_
 
 - [OK]      k1 → "Avustronezya yayılması, aynı dil ailesini konuşan toplulukların yaklaşık beş bin yıl içinde Pasifik ve Hint ok…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kapsanan alan, modern öncesi dünyanın en geniş insan yayılmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

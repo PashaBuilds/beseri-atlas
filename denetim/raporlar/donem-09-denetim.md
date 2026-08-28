@@ -1,5 +1,5 @@
 ## donem-09
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:36.349Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:13.085Z_
 
 - [OK]      k1 → "Bu dönemin başlangıcı için birden fazla dönüm noktası önerilir: Rönesans'ın sonu, 1440'larda başlayan matbaa d…" — 3 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Amerika'nın Avrupa tarafından sömürgeleştirilmesi erken modern dönemde başladı; aynı dönemde Avrupa'nın Asya v…"

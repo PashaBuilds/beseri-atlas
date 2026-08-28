@@ -80,7 +80,7 @@ bir değer okunamaz.
 ## Aynı sağlayıcının nüfus serisi
 
 Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık
-2,49 milyar, 2020 için yaklaşık 7,84 milyardır.[^k2]
+2,49 milyar, 2020 için yaklaşık 7,89 milyardır.[^k2]
 
 Doğurganlık hızı düşerken nüfusun artmış olması,[^k1][^k2] iki ölçünün farklı
 şeyler ölçtüğünü gösterir; atlas bu iki seriyi tek bir eğilim cümlesinde

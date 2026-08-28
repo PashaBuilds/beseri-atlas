@@ -1,5 +1,5 @@
 ## tartisma-soykirim-kavrami
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.748Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.408Z_
 
 - [OK]      k1 → "Kaynak, sözcüğün 1944'te Raphael Lemkin tarafından türetildiğini; eski Yunanca γένος ile Latince caedō sözcükl…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bir terimin türetildiği yılın bilinmesi, ondan önceki olayların bu terimle adlandırılmasının geriye dönük bir …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## aktor-songhay-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:43.735Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:22.585Z_
 
 - [ATOMSUZ] k1 → "Bu imparatorluğun para düzeni iki farklı ekonomiyi aynı anda taşır: kaynak para birimi olarak hem deniz kabuğu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Deniz kabuğunun ve altın sikkenin aynı listede yer alması, iç pazar ile uzun mesafeli ticaretin farklı araçlar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

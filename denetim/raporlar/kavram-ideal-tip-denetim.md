@@ -1,5 +1,5 @@
 ## kavram-ideal-tip
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:45.732Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:25.566Z_
 
 - [OK]      k1 → "Kaynak, yöntem bölümünün altında dört alt başlık tutar ve bunlardan biri ideal tiptir; diğerleri Verstehen, yö…"
 - [ATOMSUZ] k1 → "Terimin kuramlar bölümünde değil yöntem bölümünde tutulması, atlasın bu dosyayı kavram katmanına neden yerleşt…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

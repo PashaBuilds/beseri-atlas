@@ -1,7 +1,9 @@
 {
   "id": "kaynak-kojiki",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:49.562Z",
+  "zaman": "2026-08-28T18:33:30.819Z",
+  "govde_hash": "284842805a3c",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

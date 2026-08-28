@@ -1,5 +1,5 @@
 ## aktor-harizmsahlar
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:42.217Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:20.441Z_
 
 - [ISARET]  k1 → "Hârizmşahlar, Ceyhun'un aşağı havzasındaki Hârizm bölgesinde kurulan ve zamanla İran ile Mâverâünnehir'e uzana…" — özel isim kaynakta bulunamadı: Ceyhun
 - [ATOMSUZ] k1 → "Hanedan, başlangıçta adına bölgeyi yöneten bir valilik olarak ortaya çıkmış, sonraki kuşaklarda bağımsız bir s…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

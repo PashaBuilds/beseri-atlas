@@ -1,5 +1,5 @@
 ## olay-ikinci-dunya-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:39.073Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:16.285Z_
 
 - [ATOMSUZ] k1 → "Bu savaşın ölçeği, tek bir karşılaştırmayla anlaşılır: yalnızca İkinci Dünya Savaşı'nda yirmi bir milyondan fa…" — programatik olarak ölçülemedi (ad karşılığı yok): İkinci, Dünya, Savaşı
 - [OK]      k1 → "Aynı kaynak, 1800'den bu yana gerçekleşen bütün savaş ölümlerinin dörtte üçünün yalnızca iki dünya savaşında, …"

@@ -104,8 +104,8 @@ Norveç'e bağlantılar kurulduğu yazılır.[^k1] Ağın çıkış ülkesi
 
 ## Ölçek
 
-Uzun dönemli seride dünya nüfusu 1969 için yaklaşık 3,63 milyar, 2004 için
-yaklaşık 6,47 milyardır.[^k3] Ağa bağlı nüfusa dair bir ölçüm kullanılan kaynak
+Uzun dönemli seride dünya nüfusu 1969 için yaklaşık 3,62 milyar, 2004 için
+yaklaşık 6,50 milyardır.[^k3] Ağa bağlı nüfusa dair bir ölçüm kullanılan kaynak
 bölümünde bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
 ## Bu dosyanın sınırı

@@ -1,5 +1,5 @@
 ## tartisma-imparatorluk-siniri-nasil-cizilir
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.307Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.826Z_
 
 - [OK]      k1 → "Aynı referans eser, bu imparatorluk için iki ayrı harita sunar: birincisi Aşoka dönemini Maurya denetimindeki …" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Asur'da haberleşme yalnızca üst düzey görevlilerin gönderdiği mesajlarla sınırlıydı ve mühürsüz mesajlar siste…"

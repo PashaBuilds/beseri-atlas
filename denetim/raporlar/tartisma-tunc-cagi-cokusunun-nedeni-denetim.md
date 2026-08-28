@@ -1,5 +1,5 @@
 ## tartisma-tunc-cagi-cokusunun-nedeni
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.932Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.623Z_
 
 - [ATOMSUZ] k1 → "yüzyıldan beri öne sürülmektedir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, öne sürülen etkenleri tek bir listede toplar: iklim değişikliği, volkanik patlamalar, kuraklıklar, has…" — programatik olarak ölçülemedi (ad karşılığı yok): Deniz, Kavimleri

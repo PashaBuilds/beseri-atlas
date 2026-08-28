@@ -1,7 +1,9 @@
 {
   "id": "olay-covid-19-pandemisi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:38.806Z",
+  "zaman": "2026-08-28T18:33:15.929Z",
+  "govde_hash": "f988caef3e5d",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

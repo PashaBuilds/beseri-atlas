@@ -1,5 +1,5 @@
 ## aktor-cahokia
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:41.689Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:19.730Z_
 
 - [ATOMSUZ] k1 → "Cahokia, on birinci yüzyılda büyük bir nehrin kavşağına yakın bir ovada kurulmuş ve on dördüncü yüzyılda terk …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "En büyük höyük, hacim olarak kıtanın kuzeyindeki en büyük toprak yapıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

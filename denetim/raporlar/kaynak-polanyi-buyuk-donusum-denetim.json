@@ -1,7 +1,9 @@
 {
   "id": "kaynak-polanyi-buyuk-donusum",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:49.794Z",
+  "zaman": "2026-08-28T18:33:31.200Z",
+  "govde_hash": "85289d9f536c",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

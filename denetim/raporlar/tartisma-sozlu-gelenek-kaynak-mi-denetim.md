@@ -1,5 +1,5 @@
 ## tartisma-sozlu-gelenek-kaynak-mi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.798Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.465Z_
 
 - [ATOMSUZ] k2 → "Soru, tarih yazımının bir meslek hâline geldiği ve belgeye dayanmayı ölçüt saydığı dönemde keskinleşti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Sorunun siyasi bir tarafı vardı ve bugün de var." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

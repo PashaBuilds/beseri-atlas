@@ -1,7 +1,9 @@
 {
   "id": "dusunur-mill",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:44.888Z",
+  "zaman": "2026-08-28T18:33:24.226Z",
+  "govde_hash": "1298b0e55857",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

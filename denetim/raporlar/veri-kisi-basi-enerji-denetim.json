@@ -1,7 +1,9 @@
 {
   "id": "veri-kisi-basi-enerji",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:48.626Z",
+  "zaman": "2026-08-28T18:33:29.469Z",
+  "govde_hash": "bafe8af324d8",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

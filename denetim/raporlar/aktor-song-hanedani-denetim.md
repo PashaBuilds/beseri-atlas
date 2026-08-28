@@ -1,5 +1,5 @@
 ## aktor-song-hanedani
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:43.713Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:22.554Z_
 
 - [ATOMSUZ] k1 → "Song ekonomisi, yılda 100.000.000 kilogramdan fazla demir ürünü üretecek kadar istikrarlıydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Güney Song (1127–1279), Song topraklarının kuzey yarısının Jurchen önderliğindeki Jin hanedanına Jin-Song sava…"

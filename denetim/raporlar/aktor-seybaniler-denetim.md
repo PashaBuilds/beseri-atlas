@@ -1,5 +1,5 @@
 ## aktor-seybaniler
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:43.641Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:22.454Z_
 
 - [ATOMSUZ] k1 → "Şeybânîler, on altıncı yüzyıl başında Mâverâünnehir'e girip bölgedeki yerleşik hanedanı iktidardan çıkaran boz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Hanedanın soyu, bölgeye iki yüzyıl önce hâkim olmuş imparatorluğun kurucusuna dayandırılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

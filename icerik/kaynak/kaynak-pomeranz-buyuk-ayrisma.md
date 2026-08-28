@@ -89,8 +89,8 @@ kapsamlı ve alışılmadık bir sürümünü geliştirdiğini yazar.[^k2] O yaz
 
 ## İlgili dönemin nüfus serisi
 
-Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 990,4 milyon, 1900 için
-yaklaşık 1,65 milyardır.[^k3]
+Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 983,1 milyon, 1900 için
+yaklaşık 1,63 milyardır.[^k3]
 
 Atlas bu seriyi tezin kanıtı olarak sunmaz; seri dünya toplamını verir, tez ise
 bölgeler arası bir karşılaştırma yapar.[^k1][^k3] İlgili dönüşüm

@@ -1,5 +1,5 @@
 ## olay-kuba-fuze-krizi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:39.687Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:17.058Z_
 
 - [OK]      k1 → "22 Ekim'de Kennedy, Küba'ya daha fazla füze ulaşmasını önlemek için deniz ablukası emri verdi; ablukayı "bloka…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "Abluka, uluslararası hukukta savaş haliyle ilişkilendirilen bir eylemdir; aynı fiilin karantina olarak adlandı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

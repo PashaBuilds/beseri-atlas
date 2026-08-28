@@ -1,7 +1,9 @@
 {
   "id": "kaynak-meiji-anayasasi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:49.724Z",
+  "zaman": "2026-08-28T18:33:31.074Z",
+  "govde_hash": "18fa11aa67e0",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

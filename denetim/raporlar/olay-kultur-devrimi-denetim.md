@@ -1,5 +1,5 @@
 ## olay-kultur-devrimi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:39.746Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:17.137Z_
 
 - [ATOMSUZ] k1 → "Bu sürecin referans maddesi, olayların anlatımından ayrı bir "vahşetler" bölümü taşır ve bu bölüm ölü sayısı, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir sürecin ölü sayısının kendi alt başlığını taşıması, o sayının tartışmalı olduğunun kurumsal işaretidir; ke…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

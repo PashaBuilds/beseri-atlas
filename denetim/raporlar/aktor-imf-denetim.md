@@ -1,5 +1,5 @@
 ## aktor-imf
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:42.451Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:20.792Z_
 
 - [OK]      k1 → "Fon, Temmuz 1944'te Bretton Woods Konferansı'nda kuruldu ve ödemeler dengesi krizi yaşayan ya da yaşama ihtima…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k2 → "Doğuran düzen, ülkeler arasında gelecekteki rekabetçi devalüasyonları önlemek için daha büyük işbirliği öngörü…" — programatik olarak ölçülemedi (ad karşılığı yok): Fon

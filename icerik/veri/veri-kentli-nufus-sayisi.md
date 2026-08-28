@@ -71,7 +71,7 @@ kavram ise [Kentleşme](/kavram/kentlesme/) dosyasında ele alınıyor.
 ## Aynı uzunlukta başka bir seri
 
 Uzun dönemli nüfus serisi de benzer bir aralığı kapsar; o seride dünya nüfusu MÖ
-10000 için yaklaşık 4,4 milyon, 2020 için yaklaşık 7,84 milyardır.[^k2]
+10000 için yaklaşık 4,5 milyon, 2020 için yaklaşık 7,89 milyardır.[^k2]
 
 İki uzun serinin de erken bölümlerinin seyrek olması,[^k1][^k2] atlasın tarih
 öncesi dönem dosyalarında sayı kullanırken neden çekince koyduğunun

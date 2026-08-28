@@ -1,5 +1,5 @@
 ## kaynak-cook-guney-seyir-defteri
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.222Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.277Z_
 
 - [ATOMSUZ] k1 → "Eser, iki gemiyle yapılan üç yıllık bir seferin anlatısıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Anlatı gün gün ilerler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

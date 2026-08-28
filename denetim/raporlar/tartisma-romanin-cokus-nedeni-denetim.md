@@ -1,5 +1,5 @@
 ## tartisma-romanin-cokus-nedeni
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.585Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.207Z_
 
 - [OK]      k1 → "1984'te Alexander Demandt, Roma'nın neden çöktüğüne dair 210 farklı kuram saydı ve o tarihten sonra yeni kuram…"
 - [OK]      k1 → "Batı Roma İmparatorluğu'nun çöküşünün nedenleri ve mekanizmaları, tarihçi Edward Gibbon'ın 1776 tarihli kitabı…" — 4 atom doğrulandı; 1 ad ölçülemedi

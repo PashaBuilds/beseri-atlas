@@ -1,5 +1,5 @@
 ## kavram-burokrasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:45.419Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:25.046Z_
 
 - [OK]      k1 → "Kaynak, tarih bölümünü antik ve modern diye ikiye ayırır; antik başlığı altında antik Çin ile antik Roma'yı, m…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kaynağın ilk bölümünü köken bilgisi ve kullanıma ayırması ve tarihi antikçağla başlatması, atlasın şu kuralını…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

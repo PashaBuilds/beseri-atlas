@@ -1,7 +1,9 @@
 {
   "id": "aktor-samaniler",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:43.577Z",
+  "zaman": "2026-08-28T18:33:22.365Z",
+  "govde_hash": "d89a63956eb9",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

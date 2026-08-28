@@ -1,5 +1,5 @@
 ## tartisma-karsi-olgusal-tarih
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.397Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.955Z_
 
 - [ATOMSUZ] k1 → "Kaynak, karşı-olgusal tarihi — sanal tarih adıyla da anılır — karşı-olgusal koşullardan doğan "ya olsaydı?" so…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak, erken bir karşı-olgusal tarih kitabı olarak 1931 tarihli If It Had Happened Otherwise'ı verir; kitapta…"

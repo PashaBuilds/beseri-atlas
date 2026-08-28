@@ -1,5 +1,5 @@
 ## olay-amerikan-ic-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:38.088Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:15.020Z_
 
 - [OK]      k1 → "Kaynak, 2 Nisan 2012 tarihli bir gazete haberine dayanarak yeni bir çalışmanın ölü sayısını tahmini 650.000'de…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Aynı kayıt devam eder: bu yeni sayı ne kadar korkunç olsa da, savaş sırasında eski kölelerin ölümlülüğünü yans…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

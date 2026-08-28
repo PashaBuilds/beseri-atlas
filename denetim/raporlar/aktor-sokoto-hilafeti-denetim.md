@@ -1,5 +1,5 @@
 ## aktor-sokoto-hilafeti
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:43.683Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:22.514Z_
 
 - [ISARET]  k1 → "Sokoto Hilafeti, Batı Afrika'nın Sahra altı savan kuşağında, birbirinden bağımsız şehir devletlerinin bulunduğ…" — özel isim kaynakta bulunamadı: Hilafeti
 - [ISARET]  k3 → "Sokoto Hilafeti, Batı Afrika'nın Sahra altı savan kuşağında, birbirinden bağımsız şehir devletlerinin bulunduğ…" — özel isim kaynakta bulunamadı: Hilafeti, Sahra

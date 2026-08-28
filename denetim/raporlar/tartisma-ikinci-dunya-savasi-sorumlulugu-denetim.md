@@ -1,5 +1,5 @@
 ## tartisma-ikinci-dunya-savasi-sorumlulugu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.211Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.697Z_
 
 - [ATOMSUZ] k1 → "Bu haritanın çıkış noktası kaynağın kendi bölümlemesidir: nedenler nihai ve yakın diye ikiye ayrılmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak, nihai nedenler başlığı altında şunları sayar: Birinci Dünya Savaşı'nın mirasları, Milletler Cemiyeti'n…" — 1 atom doğrulandı; 3 ad ölçülemedi

@@ -1,5 +1,5 @@
 ## olay-kara-olum
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:39.499Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:16.824Z_
 
 - [OK]      k1 → "Kara Ölüm, Avrupa'da 1346'dan 1353'e kadar süren bir veba pandemisiydi ve insanlık tarihinin en ölümcül pandem…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Tahmini ölü sayısı 25 ile 50 milyon arasındadır."

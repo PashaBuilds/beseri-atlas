@@ -1,7 +1,9 @@
 {
   "id": "aktor-nato",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:43.232Z",
+  "zaman": "2026-08-28T18:33:21.896Z",
+  "govde_hash": "efb00c232d8e",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

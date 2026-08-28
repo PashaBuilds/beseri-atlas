@@ -1,5 +1,5 @@
 ## dusunur-ibn-haldun
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:44.563Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:23.746Z_
 
 - [OK]      k2 → "Kimi araştırmacılar onu, tarih ve siyaset incelemesini salt ahlaki değerlendirmelerden ayırdığı için ortaçağ İ…"
 - [OK]      k1 → "Muhammed el-Hadramî el-Mağribî et-Tûnisî'dir; 1 Ramazan 732'de, yani 27 Mayıs 1332'de Tunus'ta doğdu ve 808/14…"

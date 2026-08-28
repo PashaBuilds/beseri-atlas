@@ -1,5 +1,5 @@
 ## tartisma-aydinlanmanin-sinirlari
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:46.991Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.395Z_
 
 - [ATOMSUZ] k1 → "Kaynak dönemi akla, deneysel kanıta ve bilimsel yönteme yapılan vurguyla niteler; bireysel özgürlük, dinî hoşg…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Aynı kayıt, dönemin düşünürlerinin anayasal yönetimi, kilise ile devletin ayrılmasını ve akılcı ilkelerin topl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

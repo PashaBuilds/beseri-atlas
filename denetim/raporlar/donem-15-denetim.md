@@ -1,5 +1,5 @@
 ## donem-15
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:37.391Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:14.185Z_
 
 - [ATOMSUZ] k1 → "Küreselleşme, dünya çapındaki farklı ülkelerin ekonomileri, toplumları ve kültürleri arasındaki bütünleşmeyi a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Süreç, Sanayi Devrimi'nin ardından ulaşım ve iletişim teknolojilerindeki ilerlemelerle hızlandı; bu gelişmeler…" — programatik olarak ölçülemedi (ad karşılığı yok): Sanayi, Devrimi

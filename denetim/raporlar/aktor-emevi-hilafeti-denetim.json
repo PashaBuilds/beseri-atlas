@@ -1,7 +1,9 @@
 {
   "id": "aktor-emevi-hilafeti",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:41.869Z",
+  "zaman": "2026-08-28T18:33:19.978Z",
+  "govde_hash": "51be5f966e30",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

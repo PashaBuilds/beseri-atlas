@@ -1,5 +1,5 @@
 ## aktor-benin-kralligi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:41.452Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:19.395Z_
 
 - [ISARET]  k1 → "Benin Krallığı, Batı Afrika'nın orman kuşağında, Sahra ticaret yollarının güneyinde ve okyanus kıyısının iç ta…" — özel isim kaynakta bulunamadı: Sahra
 - [ISARET]  k2 → "Benin Krallığı, Batı Afrika'nın orman kuşağında, Sahra ticaret yollarının güneyinde ve okyanus kıyısının iç ta…" — özel isim kaynakta bulunamadı: Sahra

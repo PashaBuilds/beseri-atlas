@@ -99,7 +99,7 @@ atlasın hakemlik etmeme ilkesinin kaynaklarda da uygulandığını gösterir.
 ## Dönemin nüfus serisi
 
 Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 1834'te yaklaşık
-1,14 milyardır.[^k3]
+1,19 milyardır.[^k3]
 
 Atlas bu seriyi kuramın doğrulanması ya da yanlışlanması olarak sunmaz; kuram
 tek bir ülkeyle sınırlı bir mekanizma önerirken seri dünya toplamını

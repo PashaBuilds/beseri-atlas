@@ -79,7 +79,7 @@ birimin ne olduğu belirtilmeden aktarılmaz.
 ## Aynı sağlayıcının nüfus serisi
 
 Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1820 için yaklaşık
-1,04 milyar, 2020 için yaklaşık 7,84 milyardır.[^k2]
+1,09 milyar, 2020 için yaklaşık 7,89 milyardır.[^k2]
 
 Atlas iki seriyi çarparak toplam hasıla üretmez; iki kümenin gözlem yılları ve
 yeniden kurma yöntemi aynı değildir.[^k1][^k2] Nüfus serisi

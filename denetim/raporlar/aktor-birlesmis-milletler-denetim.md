@@ -1,5 +1,5 @@
 ## aktor-birlesmis-milletler
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:41.490Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:19.442Z_
 
 - [OK]      k1 → "Birleşmiş Milletler bir hükümetler arası örgüttür; üyeliği 193 üye devlet ve 2 gözlemci devletten oluşur."
 - [OK]      k1 → "Kaynak, örgütün "hazırlık yılları" başlığı altında bir toplantılar dizisi sıralar: St James's Sarayı Bildirisi…" — 3 atom doğrulandı; 2 ad ölçülemedi

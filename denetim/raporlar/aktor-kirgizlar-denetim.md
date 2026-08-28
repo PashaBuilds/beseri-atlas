@@ -1,5 +1,5 @@
 ## aktor-kirgizlar
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:42.673Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:21.138Z_
 
 - [ATOMSUZ] k1 → "Kırgızlar, bir büyük nehrin yukarı havzasında kaydedilen ve dokuzuncu yüzyılda bozkırın büyük bir bölümünü kıs…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Topluluk 840'ta güneydeki kağanlığı yıktı."

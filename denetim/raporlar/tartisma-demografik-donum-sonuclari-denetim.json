@@ -1,7 +1,9 @@
 {
   "id": "tartisma-demografik-donum-sonuclari",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:47.120Z",
+  "zaman": "2026-08-28T18:33:27.559Z",
+  "govde_hash": "972c317b277d",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

@@ -1,7 +1,9 @@
 {
   "id": "veri-tarim-istihdami",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:48.906Z",
+  "zaman": "2026-08-28T18:33:29.829Z",
+  "govde_hash": "86c5765b0b11",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

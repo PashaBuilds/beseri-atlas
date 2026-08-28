@@ -74,8 +74,8 @@ birimin ne olduğu belirtilmeden aktarılmaz.
 
 ## Kişi başı hesap kaynakta yoktur
 
-Uzun dönemli nüfus serisinde dünya nüfusu 1990 için yaklaşık 5,32 milyar, 2020
-için yaklaşık 7,84 milyardır.[^k2]
+Uzun dönemli nüfus serisinde dünya nüfusu 1990 için yaklaşık 5,33 milyar, 2020
+için yaklaşık 7,89 milyardır.[^k2]
 
 Atlas iki seriyi bölerek kişi başına askerî harcama üretmez; iki kümenin gözlem
 yılları aynı değildir ve böyle bir hesap kullanılan kaynak bölümlerinde

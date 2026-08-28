@@ -1,5 +1,5 @@
 ## olay-cheng-ho-seferleri
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:38.684Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:15.777Z_
 
 - [OK]      k1 → "Ming hazine seferleri, 1405 ile 1433 arasındaki deniz yolculuklarıdır; proje, Güney Çin Denizi ile Hint Okyanu…" — 2 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k1 → "Amiral Zheng He, seferler için filonun komutasıyla görevlendirildi; yolculukların altısı Yongle İmparatoru'nun…" — 7 atom doğrulandı; 1 ad ölçülemedi

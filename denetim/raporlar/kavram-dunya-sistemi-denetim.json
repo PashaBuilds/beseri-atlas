@@ -1,7 +1,9 @@
 {
   "id": "kavram-dunya-sistemi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:45.509Z",
+  "zaman": "2026-08-28T18:33:25.190Z",
+  "govde_hash": "c76ab43c6116",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

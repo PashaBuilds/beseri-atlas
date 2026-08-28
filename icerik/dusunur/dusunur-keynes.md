@@ -91,8 +91,8 @@ düşünür dosyalarını neden olay dosyalarına bağladığını gösterir; il
 
 ## Dönemin nüfus serisi
 
-Uzun dönemli seride dünya nüfusu 1883 için yaklaşık 1,49 milyar, 1946 için
-yaklaşık 2,38 milyardır.[^k3]
+Uzun dönemli seride dünya nüfusu 1883 için yaklaşık 1,44 milyar, 1946 için
+yaklaşık 2,40 milyardır.[^k3]
 
 ## Bir önceki kuşak
 

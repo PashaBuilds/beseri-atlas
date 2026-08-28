@@ -1,7 +1,9 @@
 {
   "id": "aktor-karluklar",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:42.609Z",
+  "zaman": "2026-08-28T18:33:21.038Z",
+  "govde_hash": "c3b12481dc8c",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

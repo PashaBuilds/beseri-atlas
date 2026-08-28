@@ -1,5 +1,5 @@
 ## veri-fosil-elektrik-payi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:48.432Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:29.235Z_
 
 - [OK]      k1 → "Sağlayıcının toplam satırında pay 1900'de yaklaşık yüzde 58,78, 2025'te yaklaşık yüzde 57,39'dur."
 - [ATOMSUZ] k1 → "İki uç değerin birbirine bu kadar yakın olması, atlasın şu kuralının dayanağıdır: bir seri iki uç değerle özet…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

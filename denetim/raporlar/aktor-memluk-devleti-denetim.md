@@ -1,5 +1,5 @@
 ## aktor-memluk-devleti
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:43.040Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:21.636Z_
 
 - [OK]      k1 → "Bu devletin kuruluş biçimi, atlastaki başka hiçbir aktörde görülmez: Mısır'da Eyyûbî ordusundaki Türk asıllı â…"
 - [OK]      k1 → "Devlet 1250-1517 arasına tarihlenir."

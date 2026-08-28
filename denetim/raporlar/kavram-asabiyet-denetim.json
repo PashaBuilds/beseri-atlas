@@ -1,7 +1,9 @@
 {
   "id": "kavram-asabiyet",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:45.277Z",
+  "zaman": "2026-08-28T18:33:24.828Z",
+  "govde_hash": "db88a3c054e3",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

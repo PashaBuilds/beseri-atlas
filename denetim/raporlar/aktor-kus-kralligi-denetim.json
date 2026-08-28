@@ -1,7 +1,9 @@
 {
   "id": "aktor-kus-kralligi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:42.747Z",
+  "zaman": "2026-08-28T18:33:21.238Z",
+  "govde_hash": "1a5f8032ef4e",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

@@ -1,7 +1,9 @@
 {
   "id": "veri-fosil-elektrik-payi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:48.432Z",
+  "zaman": "2026-08-28T18:33:29.235Z",
+  "govde_hash": "a287a908b85e",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

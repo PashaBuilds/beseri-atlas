@@ -1,5 +1,5 @@
 ## kavram-sozlu-tarih
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:46.518Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.679Z_
 
 - [OK]      k1 → "Kaynak, büyüme ve gelişme başlığı altında bölge bölge alt başlıklar tutar: Avrupa (Büyük Britanya ve İrlanda),…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bir yöntemin gelişiminin bu kadar çok bölgede ayrı ayrı işlenmesi, atlasın şu kuralının dayanağıdır: bu atlast…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

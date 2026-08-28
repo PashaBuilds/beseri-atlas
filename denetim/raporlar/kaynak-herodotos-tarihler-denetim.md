@@ -1,5 +1,5 @@
 ## kaynak-herodotos-tarihler
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.368Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.526Z_
 
 - [ATOMSUZ] k1 → "Kaynak eseri Tarihler adıyla anar ve Yunan-Pers Savaşları'nın ayrıntılı bir anlatısı olarak tanımlar; başka ko…" — programatik olarak ölçülemedi (ad karşılığı yok): Tarihler, Yunan-Pers, Savaşları, Kyros
 - [OK]      k1 → "Kaynak, yazarın kendi zamanında eserine efsaneler ve hayalî anlatılar kattığı için eleştirildiğini ve Pelopone…" — 1 atom doğrulandı; 1 ad ölçülemedi

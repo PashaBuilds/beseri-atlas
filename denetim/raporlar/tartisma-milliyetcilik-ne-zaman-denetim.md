@@ -1,5 +1,5 @@
 ## tartisma-milliyetcilik-ne-zaman
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.427Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.004Z_
 
 - [ATOMSUZ] k1 → "Bu haritanın çıkış noktası, kaynağın tarih bölümünde ayrı bir alt başlık olarak tuttuğu sorudur: milliyetçiliğ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "yüzyılın başına yerleştirdiğini yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## aktor-ispanyol-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:42.557Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:20.946Z_
 
 - [OK]      k1 → "İmparatorluk Amerika, Afrika, Asya ve Okyanusya'da olduğu kadar Avrupa'nın diğer bölgelerinde de toprak taşıyo…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak, ifadenin arkasındaki büyüklüğü verir: 1700'lerin sonu ve 1800'lerin başındaki en geniş noktasında İspa…" — 4 atom doğrulandı; 1 ad ölçülemedi

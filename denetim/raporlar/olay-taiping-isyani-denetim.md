@@ -1,5 +1,5 @@
 ## olay-taiping-isyani
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:40.554Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:18.198Z_
 
 - [OK]      k1 → "Bu isyanın bilançosu için kaynağın verdiği aralık şudur: toplam ölü 20–100 milyon."
 - [OK]      k1 → "20 ile 100 milyon arasındaki fark, bir ölçüm hatası değil bir bilgi sınırıdır."

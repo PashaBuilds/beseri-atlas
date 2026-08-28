@@ -1,5 +1,5 @@
 ## aktor-tonga-kralligi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:43.984Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:22.912Z_
 
 - [ATOMSUZ] k3 → "Tonga Krallığı, on dokuzuncu yüzyıl ortasında takımadanın adalarının tek bir hanedan altında birleştirilmesiyl…" — programatik olarak ölçülemedi (ad karşılığı yok): Krallığı
 - [OK]      k1 → "Devlet 1875'te yazılı bir anayasa kabul etti."

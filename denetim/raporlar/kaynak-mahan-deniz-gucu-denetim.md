@@ -1,5 +1,5 @@
 ## kaynak-mahan-deniz-gucu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.668Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.991Z_
 
 - [OK]      k1 → "Kaynak, yazarı The Influence of Sea Power upon History ile The Influence of Sea Power upon the French Revoluti…"
 - [OK]      k1 → "Kaynak, etki bölümünün altında beş alt başlık tutar: Almanya, Birleşik Krallık, Fransa, Japonya ve Birleşik De…" — 2 atom doğrulandı; 2 ad ölçülemedi

@@ -1,5 +1,5 @@
 ## kavram-hegemonya
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:45.669Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:25.454Z_
 
 - [ATOMSUZ] k1 → "yüzyıl." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak siyaset bilimi, uluslararası ilişkiler ile medya ve iletişim çalışmaları için ayrı bölümler tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

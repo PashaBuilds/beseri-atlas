@@ -1,5 +1,5 @@
 ## veri-savas-olumleri
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:48.864Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:29.777Z_
 
 - [ATOMSUZ] k1 → "Bu dosyanın ilk özelliği bir sayı değil, bir sütun sayısıdır: sağlayıcının aynı yıl için tuttuğu tahmin sayısı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Sağlayıcının uç noktası, yıl sütunundan sonra üç ayrı ölüm sütunu taşır: numberdeathsongoingconflictshighconfl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

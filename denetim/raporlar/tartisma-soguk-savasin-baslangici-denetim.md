@@ -1,5 +1,5 @@
 ## tartisma-soguk-savasin-baslangici
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.633Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.275Z_
 
 - [ATOMSUZ] k1 → "Bu haritanın çıkış noktası kaynağın kendi uyarısıdır: üç okul adlandırılabilir ama tarih yazımının çoğu bu kat…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, tarihçilerin Soğuk Savaş çalışmalarında yaygın olarak üç farklı yaklaşımdan söz ettiğini yazar: ortodo…" — programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş

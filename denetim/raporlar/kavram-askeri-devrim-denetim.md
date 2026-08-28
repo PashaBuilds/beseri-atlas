@@ -1,5 +1,5 @@
 ## kavram-askeri-devrim
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:45.286Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:24.849Z_
 
 - [ATOMSUZ] k1 → "Kaynak, ordu büyüklüğü başlığı altında idari kaynaklar ile anlatı kaynaklarını ayrı alt başlıklar olarak tutar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, kavramın kökenine ayrı bir bölüm ayırır ve ardından bir kronoloji bölümü tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

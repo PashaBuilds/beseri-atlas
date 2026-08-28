@@ -76,8 +76,8 @@ katsayının bir konu değil bir hesap yöntemi olduğunu gösterir.
 
 ## Ölçünün uygulandığı nüfus
 
-Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 990,4 milyon, 2020 için
-yaklaşık 7,84 milyardır.[^k2]
+Uzun dönemli seride dünya nüfusu 1800 için yaklaşık 983,1 milyon, 2020 için
+yaklaşık 7,89 milyardır.[^k2]
 
 Atlas bu seriyi katsayıyla birleştirmez; nüfus toplamı bir dağılım ölçüsü
 değildir.[^k1][^k2]

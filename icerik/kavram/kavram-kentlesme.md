@@ -70,7 +70,7 @@ kullanılmamıştır.[^k1]
 ## Payın uzerine uygulanacağı toplam
 
 Uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık 2,49 milyar, 2020
-için yaklaşık 7,84 milyardır.[^k2]
+için yaklaşık 7,89 milyardır.[^k2]
 
 Atlas bu iki kümeyi çarpmaz: kentleşme payı ülke ülke verilir, nüfus serisi ise
 dünya toplamını verir; kapsamları aynı değildir.[^k1][^k2]

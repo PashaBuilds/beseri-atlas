@@ -1,7 +1,9 @@
 {
   "id": "aktor-sumer-sehir-devletleri",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:43.835Z",
+  "zaman": "2026-08-28T18:33:22.715Z",
+  "govde_hash": "444730e5ab0a",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

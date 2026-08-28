@@ -1,7 +1,9 @@
 {
   "id": "kavram-kanit-turu",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:45.874Z",
+  "zaman": "2026-08-28T18:33:25.756Z",
+  "govde_hash": "07a863da8e30",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

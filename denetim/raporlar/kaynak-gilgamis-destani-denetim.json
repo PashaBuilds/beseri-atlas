@@ -1,7 +1,9 @@
 {
   "id": "kaynak-gilgamis-destani",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:49.307Z",
+  "zaman": "2026-08-28T18:33:30.418Z",
+  "govde_hash": "35c5658af39c",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

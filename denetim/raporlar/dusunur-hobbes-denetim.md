@@ -1,5 +1,5 @@
 ## dusunur-hobbes
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:44.514Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:23.678Z_
 
 - [OK]      k1 → "Kaynak onu 1588-1679 arasında yaşamış, bugünkü ünü büyük ölçüde siyaset felsefesine dayanan ama geniş ilgi ala…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak, 1668'de Leviathan'ın Latince bir baskısını yayımladığını ve bu baskıda Teslis ile Tanrı'nın doğası gib…" — 4 atom doğrulandı; 2 ad ölçülemedi

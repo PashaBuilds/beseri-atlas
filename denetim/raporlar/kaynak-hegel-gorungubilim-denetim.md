@@ -1,5 +1,5 @@
 ## kaynak-hegel-gorungubilim
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.361Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.509Z_
 
 - [OK]      k1 → "Kaynak, yazarın 1806 sonunda ilk büyük eserini tamamladığını ve eserin 1807'de yayımlandığını yazar; eserin da…"
 - [OK]      k1 → "Kaynak, Schelling'in eserin önsözündeki iğneli bir eleştiriyi kendisine yönelik yorumladığını ve dostluklarını…"

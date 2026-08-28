@@ -1,5 +1,5 @@
 ## kavram-yazi-sistemi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:46.852Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.205Z_
 
 - [ATOMSUZ] k1 → "Kaynak, sistemleri iki ayrı ölçüte göre sınıflandırır: temel dilbilimsel birime göre (logografik sistemler, he…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Aynı nesnenin iki ayrı ölçüte göre sınıflandırılabilmesi, atlasın şu kuralının dayanağıdır: bu dosyada yazı si…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## veri-kuresel-esitsizlik
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:48.700Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:29.564Z_
 
 - [ATOMSUZ] k1 → "Bu dosyanın taşıdığı sütun adı, değerlerinden önce okunmalıdır: ölçüm vergi öncesi gelire dayanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Sağlayıcının toplam satırında Gini katsayısı 1820'de 0,5909, 1900'de 0,6917, 1950'de 0,654, 1980'de 0,6895, 20…"

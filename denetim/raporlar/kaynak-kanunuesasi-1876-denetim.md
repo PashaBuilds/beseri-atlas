@@ -1,5 +1,5 @@
 ## kaynak-kanunuesasi-1876
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.492Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.721Z_
 
 - [OK]      k1 → "Kânûn-ı Esâsî, 1876'da ilan edilen ve iki meclisli bir yasama düzeni kuran yazılı anayasadır."
 - [ATOMSUZ] k2 → "Anayasa iki yıl sonra fiilen askıya alındı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

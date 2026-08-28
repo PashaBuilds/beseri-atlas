@@ -74,7 +74,10 @@ export async function getir(url, { taze = false, metinSakla = true, deneme = 3 }
       const tip = r.headers.get('content-type') || '';
       if (metinSakla && r.ok) {
         const ham = await r.text();
-        sonuc.metin = tip.includes('html') ? metneCevir(ham).slice(0, 400000) : ham.slice(0, 400000);
+        const tamMetin = tip.includes('html') ? metneCevir(ham) : ham;
+        sonuc.metin = tamMetin.slice(0, 400000);
+        // 400k sonrasi atilir; "dizede yok" sonucu bu durumda KESIN degildir.
+        if (tamMetin.length > 400000) sonuc.kesildi = true;
         sonuc.baslik = /<title[^>]*>([\s\S]*?)<\/title>/i.exec(ham)?.[1]?.trim().slice(0, 300) || '';
       }
       // 5xx: sunucu gecici olarak cevap veremiyor. Son deneme degilse bekle ve tekrar dene.

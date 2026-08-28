@@ -1,5 +1,5 @@
 ## kaynak-kurukan-fuga-sarti
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.576Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.852Z_
 
 - [ATOMSUZ] k1 → "Metin, bir imparatorluğun kuruluşundan sonra toplanan meclisin kararlarını maddeler hâlinde verir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Savaş sırasında uyulacak sınırlar ayrıca sayılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

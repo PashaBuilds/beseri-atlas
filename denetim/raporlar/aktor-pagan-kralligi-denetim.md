@@ -1,5 +1,5 @@
 ## aktor-pagan-kralligi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:43.346Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:22.060Z_
 
 - [ISARET]  k1 → "Pagan Krallığı, Güneydoğu Asya'nın batı ucunda, büyük bir nehrin orta havzasında kurulmuş siyasi birimdir." — özel isim kaynakta bulunamadı: Krallığı
 - [OK]      k3 → "Pagan Krallığı, Güneydoğu Asya'nın batı ucunda, büyük bir nehrin orta havzasında kurulmuş siyasi birimdir." — 1 atom doğrulandı; 2 ad ölçülemedi

@@ -1,5 +1,5 @@
 ## kaynak-afrika-birligi-sarti
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.141Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.112Z_
 
 - [OK]      k1 → "Afrika Birliği Teşkilatı Şartı, 1963'te kıtadaki bağımsız devletler arasında imzalanan ve bir örgüt kuran meti…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "İlkeler arasında egemenliğe ve toprak bütünlüğüne saygı ile iç işlere karışmama yer alır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

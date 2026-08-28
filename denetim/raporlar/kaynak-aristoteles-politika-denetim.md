@@ -1,5 +1,5 @@
 ## kaynak-aristoteles-politika
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.155Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.146Z_
 
 - [OK]      k1 → "Kaynak eseri Politika adıyla anar; ilk bölümünü siyasi bağlama, ikincisini genel bakışa ayırır ve genel bakış …"
 - [ATOMSUZ] k1 → "Kaynak, anayasaların sınıflandırılmasına ayrı bir bölüm ayırır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

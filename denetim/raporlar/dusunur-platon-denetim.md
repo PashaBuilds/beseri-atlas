@@ -1,5 +1,5 @@
 ## dusunur-platon
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:44.962Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:24.338Z_
 
 - [OK]      k1 → "- 347 arasına yerleştirir; doğum yılının yanındaki soru işareti kaynağın kendi işaretidir."
 - [OK]      k1 → "Kaynak bölüm başlıkları arasında şunları sayar: Platon'un zihnini bilebilir miyiz, formlar konusunda fikrini d…" — 1 atom doğrulandı; 1 ad ölçülemedi

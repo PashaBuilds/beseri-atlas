@@ -1,6 +1,6 @@
 {
   "mod": "--lint",
-  "zaman": "2026-08-28T18:24:30.053Z",
+  "zaman": "2026-08-28T18:37:34.285Z",
   "gecti": true,
   "makale_sayisi": 505,
   "kapilar": [
@@ -127,6 +127,31 @@
       "hata": 0,
       "uyari": 0,
       "hatalar": []
+    },
+    {
+      "kapi": "KAPI 18 — dil borcu (sablon/meta-dil kaliplari)",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": [],
+      "olcum": {
+        "atlas_oz": 2752,
+        "bu_dosya": 1512,
+        "ayrica_kaydeder": 1041,
+        "sablon_kapanis": 558,
+        "borclu": 487
+      }
+    },
+    {
+      "kapi": "KAPI 19 — sayisal dogrulama (nufus kalip cumleleri)",
+      "gecti": true,
+      "hata": 0,
+      "uyari": 0,
+      "hatalar": [],
+      "olcum": {
+        "olculen": 295,
+        "dogru": 295
+      }
     }
   ]
 }

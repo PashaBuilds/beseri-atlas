@@ -1,5 +1,5 @@
 ## tartisma-imparatorluk-nufusu-nasil-sayilir
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.259Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.768Z_
 
 - [OK]      k1 → "yüzyıl sonu için 7.200.000 kişilik bir tahmin verir; aynı kutunun dipnotunda Eyyûbî topraklarının toplam nüfus…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k2 → "yüzyıl için nüfusu 3 milyon olarak verir."

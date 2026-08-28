@@ -1,5 +1,5 @@
 ## kaynak-hobsbawm-caglar
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.422Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.608Z_
 
 - [OK]      k1 → "Kaynak, kitabı İngiliz tarihçi Eric Hobsbawm'ın 1962'de ilk kez yayımlanan eseri olarak kaydeder; 366 sayfadır…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kaynak, kitabın çözümlemesini ikiz devrim tezine dayandırır: Fransız Devrimi ile Sanayi Devrimi, modern Avrupa…" — 1 atom doğrulandı; 3 ad ölçülemedi

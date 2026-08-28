@@ -1,5 +1,5 @@
 ## olay-vietnam-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:40.789Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:18.508Z_
 
 - [OK]      k1 → "Bu savaşın sonuçları, kaynağın kendi bölümlemesinde coğrafi olarak ikiye ayrılır: Güneydoğu Asya'daki sonuçlar…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Güneydoğu Asya başlığı altında Vietnam, Kamboçya ve Laos, patlamamış mühimmat ve mülteci krizi alt başlıkları …" — 3 atom doğrulandı; 1 ad ölçülemedi

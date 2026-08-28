@@ -1,5 +1,5 @@
 ## aktor-etiyopya-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:41.906Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:20.025Z_
 
 - [OK]      k1 → "Bu imparatorluğun kurumsal dönüşümü tek bir cümlede kaydedilir: hükümdar, bölgesel savaş ağalarının yerine ida…"
 - [ATOMSUZ] k1 → "Bu değişimin mekanizması, atlasın başka dosyalarında da görülen bir örüntüdür: yerel askerî güç sahiplerinin y…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## tartisma-nufus-artisi-tehdit-mi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.506Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.100Z_
 
 - [ATOMSUZ] k1 → "Bu haritanın çıkış noktası kaynağın kendi kipi: olay gerçekleşmiş değil öngörülmüş olarak kaydedilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, nüfus artışının potansiyel olarak üstel, gıda arzının ya da diğer kaynakların büyümesinin ise doğrusal…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

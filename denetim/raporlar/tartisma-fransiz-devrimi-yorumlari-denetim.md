@@ -1,5 +1,5 @@
 ## tartisma-fransiz-devrimi-yorumlari
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.150Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.617Z_
 
 - [ATOMSUZ] k1 → "yüzyılda hiçbir tek açıklayıcı model yaygın kabul görmemiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "yüzyıla gelindiğinde devrim tarihinin profesyonelleştiğini ve araştırmacıların kamu arşivlerindeki birincil ka…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

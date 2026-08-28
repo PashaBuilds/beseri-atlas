@@ -1,7 +1,9 @@
 {
   "id": "veri-askeri-harcama",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:48.047Z",
+  "zaman": "2026-08-28T18:33:28.773Z",
+  "govde_hash": "7dffd148f0e6",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

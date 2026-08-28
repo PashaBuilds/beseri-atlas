@@ -1,5 +1,5 @@
 ## olay-bagdat-kusatmasi-1258
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:38.236Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:15.209Z_
 
 - [OK]      k1 → "1258 yılının başında, doğudan gelen bir ordu Bağdat'ı kuşattı ve şehir birkaç hafta içinde düştü."
 - [OK]      k2 → "1258 yılının başında, doğudan gelen bir ordu Bağdat'ı kuşattı ve şehir birkaç hafta içinde düştü."

@@ -1,5 +1,5 @@
 ## dusunur-marx
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:44.854Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:24.174Z_
 
 - [OK]      k1 → "Kaynak onu 1818-1883 arasında yaşamış ve sıklıkla filozoftan çok eylemci, eserleri komünist rejimlerin kuruluş…"
 - [ATOMSUZ] k1 → "Kaynak, ahlakın ve ahlaki eleştirinin onun çağdaş kapitalist topluma yönelik eleştirisindeki tam rolünün çokça…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

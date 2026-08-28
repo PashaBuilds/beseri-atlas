@@ -1,7 +1,9 @@
 {
   "id": "kaynak-fetha-nagast",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:49.270Z",
+  "zaman": "2026-08-28T18:33:30.353Z",
+  "govde_hash": "e2a75445f2ef",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

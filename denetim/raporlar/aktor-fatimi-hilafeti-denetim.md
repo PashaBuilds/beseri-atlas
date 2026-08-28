@@ -1,5 +1,5 @@
 ## aktor-fatimi-hilafeti
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:41.967Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:20.106Z_
 
 - [OK]      k1 → "Fâtımîler, 909-1171 yılları arasında Kuzey Afrika, Mısır ve Suriye'de hüküm süren bir Şiî devletidir."
 - [OK]      k1 → "Fâtımî devletinin 909-1171 arasındaki ömrü, 750 ile 1258 arasında hüküm süren Abbâsî hanedanının ömrüyle büyük…"

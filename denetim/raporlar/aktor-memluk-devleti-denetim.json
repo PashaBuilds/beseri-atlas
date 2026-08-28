@@ -1,7 +1,9 @@
 {
   "id": "aktor-memluk-devleti",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:43.040Z",
+  "zaman": "2026-08-28T18:33:21.636Z",
+  "govde_hash": "1f4223f79f1d",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

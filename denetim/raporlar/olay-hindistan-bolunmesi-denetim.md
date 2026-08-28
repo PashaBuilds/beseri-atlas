@@ -1,5 +1,5 @@
 ## olay-hindistan-bolunmesi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:39.051Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:16.253Z_
 
 - [OK]      k1 → "1947'deki Hindistan'ın bölünmesi, Britanya Hindistanı'nın Hindistan Birliği ve Pakistan Hâkimiyeti adlı iki ba…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "1947'deki Hindistan'ın bölünmesi, Britanya Hindistanı'nın Hindistan Birliği ve Pakistan Hâkimiyeti adlı iki ba…" — 5 atom doğrulandı; 1 ad ölçülemedi

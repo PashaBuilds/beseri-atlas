@@ -1,5 +1,5 @@
 ## veri-savas-kayiplari-1800-2023
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:48.821Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:29.724Z_
 
 - [OK]      k1 → "Sağlayıcının toplam satırında seri 1800'de başlar ve 2011'de biter; 1800 değeri 2.063, 2011 değeri 9.400'dür."
 - [OK]      k1 → "Planın kapsam satırı daha geç bir bitiş yılı öngörüyordu; sağlayıcının serisi 2011'de bittiği için bu dosyanın…"

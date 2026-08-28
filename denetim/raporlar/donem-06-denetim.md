@@ -1,5 +1,5 @@
 ## donem-06
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:23:24.615Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:12.564Z_
 
 - [ISARET]  k1 → "Bu dönemin ayırt edici özelliği, üç büyük siyasi merkezin aynı yüzyıllarda kurulmasıdır: Abbasi hanedanı 750'd…" — özel isim kaynakta bulunamadı: Tang, Karolenj
 - [OK]      k6 → "Bu dönemin ayırt edici özelliği, üç büyük siyasi merkezin aynı yüzyıllarda kurulmasıdır: Abbasi hanedanı 750'd…" — 4 atom doğrulandı; 2 ad ölçülemedi

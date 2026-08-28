@@ -114,8 +114,8 @@ Konferansı'nı verir.[^k2] O konferans
 
 ## Ölçek
 
-Uzun dönemli seride dünya nüfusu 1960 için yaklaşık 3,03 milyar, 1976 için
-yaklaşık 4,15 milyardır.[^k3] Bağımsızlık kazanan ülkelerin toplam nüfusuna dair
+Uzun dönemli seride dünya nüfusu 1960 için yaklaşık 3,02 milyar, 1976 için
+yaklaşık 4,14 milyardır.[^k3] Bağımsızlık kazanan ülkelerin toplam nüfusuna dair
 bir ölçüm kullanılan kaynak bölümünde bulunmadığı için bu değerler içindeki pay
 burada hesaplanmamıştır.
 

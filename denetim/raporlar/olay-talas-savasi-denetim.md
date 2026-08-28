@@ -1,5 +1,5 @@
 ## olay-talas-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:40.566Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:18.220Z_
 
 - [OK]      k1 → "Sekizinci yüzyılın ortasında iki büyük düzenin orduları Orta Asya'da karşılaştı."
 - [ATOMSUZ] k2 → "Doğudan gelen ordu yenildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

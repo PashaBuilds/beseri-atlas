@@ -1,7 +1,9 @@
 {
   "id": "aktor-aztek-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:41.380Z",
+  "zaman": "2026-08-28T18:33:19.278Z",
+  "govde_hash": "0a1e6a11d9b7",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

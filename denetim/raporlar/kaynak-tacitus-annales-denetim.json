@@ -1,7 +1,9 @@
 {
   "id": "kaynak-tacitus-annales",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:49.878Z",
+  "zaman": "2026-08-28T18:33:31.327Z",
+  "govde_hash": "3c92ed50c57b",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

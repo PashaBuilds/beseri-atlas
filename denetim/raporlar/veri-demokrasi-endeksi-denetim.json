@@ -1,7 +1,9 @@
 {
   "id": "veri-demokrasi-endeksi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:48.251Z",
+  "zaman": "2026-08-28T18:33:29.015Z",
+  "govde_hash": "dd9df1f16a6f",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

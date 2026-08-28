@@ -1,5 +1,5 @@
 ## aktor-kilva
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:42.667Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:21.124Z_
 
 - [OK]      k1 → "Kilva, Doğu Afrika kıyısında bir ada üzerinde kurulmuş liman şehridir ve kıyı boyunca uzanan şehir devletleri …"
 - [OK]      k2 → "Kilva, Doğu Afrika kıyısında bir ada üzerinde kurulmuş liman şehridir ve kıyı boyunca uzanan şehir devletleri …"

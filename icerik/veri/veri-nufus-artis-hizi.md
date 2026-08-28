@@ -65,7 +65,7 @@ hiçbir değer bir öngörü değildir.
 ## Artış hızı düşerken nüfus artmaya devam eder
 
 Aynı sağlayıcının uzun dönemli nüfus serisinde dünya nüfusu 1950 için yaklaşık
-2,49 milyar, 2020 için yaklaşık 7,84 milyardır.[^k2]
+2,49 milyar, 2020 için yaklaşık 7,89 milyardır.[^k2]
 
 Artış hızının yarıya düşmesine rağmen nüfusun üç katına çıkması,[^k1][^k2] hız
 ile düzey arasındaki farkı gösterir; atlas bu iki seriyi tek bir eğilim

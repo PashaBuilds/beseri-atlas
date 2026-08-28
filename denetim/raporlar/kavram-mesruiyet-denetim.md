@@ -1,5 +1,5 @@
 ## kavram-mesruiyet
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:46.238Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.266Z_
 
 - [ATOMSUZ] k1 → "Kaynak, otoritenin üçlü bir sınıflandırmasını kayda değer fikirler arasında sayar ve üç türü adlandırır: kariz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Üç türün ayrı ayrı adlandırılması, tek bir iktidarın birden çok gerekçeye dayanabileceğini ve gerekçe değiştiğ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

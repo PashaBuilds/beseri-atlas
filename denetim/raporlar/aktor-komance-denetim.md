@@ -1,5 +1,5 @@
 ## aktor-komance
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:42.707Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:21.180Z_
 
 - [OK]      k1 → "Komançe, on sekizinci yüzyıl başından on dokuzuncu yüzyıl sonuna kadar Kuzey Amerika'nın güney ovalarında etki…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k2 → "Örgütlenme, birbirinden bağımsız hareket eden gruplar biçimindeydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## olay-roma-cumhuriyetinin-sonu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:40.350Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:17.934Z_
 
 - [OK]      k2 → "Roma Cumhuriyeti MÖ 509 ile MÖ 27 arasına yerleştirilir ve kaynağın kendi bölümlemesinde son evre Marius'un yü…" — 1 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k1 → "Roma Cumhuriyeti MÖ 509 ile MÖ 27 arasına yerleştirilir ve kaynağın kendi bölümlemesinde son evre Marius'un yü…" — 3 atom doğrulandı; 2 ad ölçülemedi

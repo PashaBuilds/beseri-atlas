@@ -1,5 +1,5 @@
 ## olay-islam-fetihleri
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:39.319Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:16.599Z_
 
 - [OK]      k1 → "Genişlemenin sonucu doğuda Sind'deki Hint alt kıtasından batıda Pireneler'deki İber Yarımadası'na uzanan bir a…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Seferler birbirini izleyen bölgesel evreler halinde kaydedilir: Suriye'nin fethi 634–641, Mısır'ın fethi 639–6…" — 8 atom doğrulandı; 2 ad ölçülemedi

@@ -1,5 +1,5 @@
 ## aktor-nato
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:43.232Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:21.896Z_
 
 - [OK]      k1 → "Kaynak, kıtanın iki askerî bloka bölündüğünü ve NATO ile Varşova Paktı devletlerinin 1988'deki dağılımının dön…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kaynağın iki ittifakı tek bir harita üzerinden anlatması, her birinin anlamının diğerine bağlı olduğunu göster…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

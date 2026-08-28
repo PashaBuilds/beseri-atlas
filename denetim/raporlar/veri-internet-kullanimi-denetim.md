@@ -1,5 +1,5 @@
 ## veri-internet-kullanimi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:48.470Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:29.281Z_
 
 - [OK]      k1 → "Seri 2005'te yüzde 15,6 ile başlar ve 2025'te yüzde 73,6 ile biter."
 - [OK]      k1 → "Veri kümesinde dünya toplamı için ilk gözlem 2005 yılına aittir."

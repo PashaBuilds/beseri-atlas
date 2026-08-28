@@ -1,7 +1,9 @@
 {
   "id": "aktor-hazarlar",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:42.311Z",
+  "zaman": "2026-08-28T18:33:20.564Z",
+  "govde_hash": "081183799c0f",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

@@ -1,7 +1,9 @@
 {
   "id": "aktor-bizans-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:41.540Z",
+  "zaman": "2026-08-28T18:33:19.523Z",
+  "govde_hash": "b88852fb90f0",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

@@ -1,5 +1,5 @@
 ## tartisma-eksen-cagi-gercek-mi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.129Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.579Z_
 
 - [ATOMSUZ] k1 → "Bu haritanın çıkış noktası, kaynağın kendi cümlesidir: Eksen Çağı'nın tarihsel geçerliliği tartışmalıdır." — programatik olarak ölçülemedi (ad karşılığı yok): Eksen, Çağı
 - [ATOMSUZ] k1 → "Kaynak, kavramı ortaya atan düşünürün bu çağdan kilit düşünürleri belirlediğini ve bu düşünürlerin ortaya çıkt…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

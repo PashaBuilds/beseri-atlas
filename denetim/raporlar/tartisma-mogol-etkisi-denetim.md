@@ -1,5 +1,5 @@
 ## tartisma-mogol-etkisi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.461Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.047Z_
 
 - [ATOMSUZ] k1 → "Bu haritanın çıkış noktası, kaynağın kendi bölüm listesidir: aynı maddede hem İpek Yolu'na hem mirasa ayrı böl…" — programatik olarak ölçülemedi (ad karşılığı yok): İpek, Yolu
 - [OK]      k1 → "Kaynak, imparatorluğun tarihteki en büyük bitişik imparatorluk olduğunu ve zirvesinde Japon Denizi'nden Doğu A…" — 1 atom doğrulandı; 3 ad ölçülemedi

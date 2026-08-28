@@ -1,5 +1,5 @@
 ## olay-ronesans
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:40.388Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:17.982Z_
 
 - [ATOMSUZ] k1 → "Bu dönemin referans maddesi, kendi varlığını sorgulayan bir başlık taşır: tarih ve çalışma bölümünde Keşifler …" — programatik olarak ölçülemedi (ad karşılığı yok): Keşifler, Çağı, Yüksek, Rönesans
 - [ATOMSUZ] k1 → "Bir dönem adının, o dönemin referans maddesinde bir tez başlığıyla birlikte anılması, adın kendisinin bir yoru…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

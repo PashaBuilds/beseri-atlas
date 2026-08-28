@@ -1,7 +1,9 @@
 {
   "id": "veri-kuresel-esitsizlik",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:48.700Z",
+  "zaman": "2026-08-28T18:33:29.564Z",
+  "govde_hash": "e68b0e034e51",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

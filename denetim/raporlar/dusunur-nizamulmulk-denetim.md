@@ -1,5 +1,5 @@
 ## dusunur-nizamulmulk
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:44.946Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:24.313Z_
 
 - [OK]      k1 → "Nizâmülmülk, Selçuklu devletinde uzun yıllar vezirlik yapmış bir devlet adamıdır."
 - [ATOMSUZ] k1 → "Atlasın düşünür katmanında yer almasının sebebi idari görevi değil, yazdığı eserdir: yönetme üzerine kaleme al…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

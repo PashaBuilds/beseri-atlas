@@ -1,5 +1,5 @@
 ## olay-2008-finansal-krizi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:37.923Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:14.807Z_
 
 - [ATOMSUZ] k1 → "Kaynak nedenleri şu ayrı başlıklar altında inceler: eşik altı kredilendirme (ve uygun fiyatlı konut programlar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Krizin bir noktası sayıyla verilir: bir gösterge bir yıl boyunca yükseldikten sonra Eylül 2008'de daha da sıçr…" — 3 atom doğrulandı; 2 ad ölçülemedi

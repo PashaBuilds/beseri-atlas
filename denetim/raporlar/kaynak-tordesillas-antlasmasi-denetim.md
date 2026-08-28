@@ -1,5 +1,5 @@
 ## kaynak-tordesillas-antlasmasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.914Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:31.398Z_
 
 - [OK]      k1 → "Tordesillas Antlaşması, 1494'te iki İber krallığı arasında imzalanan ve okyanusun ötesindeki toprakları aralar…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Çizgi, bir ada grubundan batıya doğru belirli sayıda deniz fersahı uzaklıkta olarak tarif edilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

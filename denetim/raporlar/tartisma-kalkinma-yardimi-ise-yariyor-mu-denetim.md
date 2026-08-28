@@ -1,5 +1,5 @@
 ## tartisma-kalkinma-yardimi-ise-yariyor-mu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.352Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.891Z_
 
 - [ATOMSUZ] k1 → "Kaynak, yardım etkililiğine dair kaygının yüksek bir genellik düzeyinde olabileceğini — yardımın ortalamada ke…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir sorunun kaynağın tanım bölümünde ikiye ayrılması, atlasın şu kuralının dayanağıdır: cevabı aktarmadan önce…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

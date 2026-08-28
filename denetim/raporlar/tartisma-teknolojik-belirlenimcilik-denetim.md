@@ -1,5 +1,5 @@
 ## tartisma-teknolojik-belirlenimcilik
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.907Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.589Z_
 
 - [ATOMSUZ] k1 → "Kaynak, felsefenin teknolojiyi göz ardı etmemesi gerektiğini yazar ve çağdaş toplumu bir arada tutanın büyük ö…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Aynı kaynak, son bir buçuk yüzyılda alanın çoğunlukla teknolojinin kendisini değil, teknolojinin toplum ve kül…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

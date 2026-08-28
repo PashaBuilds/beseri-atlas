@@ -1,5 +1,5 @@
 ## kavram-hukuk-devleti
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:45.698Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:25.511Z_
 
 - [OK]      k1 → "Kaynak, erken tarih başlığı altında üç alt başlık tutar: antik Yunan, Çin ve İngiltere; modern dönemi 1500'den…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kaynak, hukuk kuramı ve felsefesi başlığı altında biçimci anlayış ile maddi anlayışı ayrı alt başlıklar olarak…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

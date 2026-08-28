@@ -77,7 +77,7 @@ ayrı tanımlar.[^k2] O kavram
 ## Ölçeğin veri karşılığı
 
 Uzun dönemli seride dünya nüfusu 1500 için yaklaşık 503,1 milyon, 1900 için
-yaklaşık 1,65 milyar, 2020 için yaklaşık 7,84 milyardır.[^k3]
+yaklaşık 1,63 milyar, 2020 için yaklaşık 7,89 milyardır.[^k3]
 
 Atlas bu seriyi kavramın kanıtı olarak sunmaz; nüfus toplamı bir bağlantılılık
 ölçüsü değildir.[^k1][^k3]

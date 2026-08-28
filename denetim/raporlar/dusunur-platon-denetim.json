@@ -1,7 +1,9 @@
 {
   "id": "dusunur-platon",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:44.962Z",
+  "zaman": "2026-08-28T18:33:24.338Z",
+  "govde_hash": "dd7fa2d06578",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

@@ -111,7 +111,7 @@ Kuruluşa giden süreç için kaynak Amerikan Devrimi'ni verir.[^k2] O süreç
 ## Ölçek
 
 Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 2020'de yaklaşık
-7,84 milyardır.[^k3] Ülkenin kendi nüfusuna dair bir ölçüm kullanılan kaynak
+7,89 milyardır.[^k3] Ülkenin kendi nüfusuna dair bir ölçüm kullanılan kaynak
 bölümünde bulunmadığı için bu değerler içindeki pay burada hesaplanmamıştır.
 
 ## Bu dosyanın sınırı

@@ -1,5 +1,5 @@
 ## tartisma-hacli-seferlerinin-nedeni
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.184Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.661Z_
 
 - [OK]      k1 → "Kaynak, Haçlı seferlerini papalığın 1095 ile 1291 arasında Müslüman yöneticilere karşı Kutsal Toprakların geri…" — 2 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k1 → "Urban tarafından ilan edildiğini; bunun Hristiyanlara Kudüs'ü Müslümanlardan geri almaları için ruhani ödül va…" — 1 atom doğrulandı; 2 ad ölçülemedi

@@ -1,5 +1,5 @@
 ## aktor-muvahhidler
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:43.190Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:21.844Z_
 
 - [OK]      k1 → "Muvahhidler, on ikinci yüzyıl başında Kuzey Afrika'nın batı dağlarında ortaya çıkan ve yüzyıl ortasında bölgen…"
 - [ATOMSUZ] k2 → "Hanedan, kendinden önceki düzeni ortadan kaldırarak kuruldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

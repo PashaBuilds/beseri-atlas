@@ -1,5 +1,5 @@
 ## tartisma-bati-neden-yukseldi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.011Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.424Z_
 
 - [OK]      k1 → "Huntington ortaya attı; terimi yaygınlaştıran kullanım ise Kenneth Pomeranz'ın 2000 tarihli The Great Divergen…"
 - [OK]      k1 → "Aynı olgu daha önce Eric Jones tarafından da ele alınmıştı; onun 1981 tarihli The European Miracle adlı kitabı…"

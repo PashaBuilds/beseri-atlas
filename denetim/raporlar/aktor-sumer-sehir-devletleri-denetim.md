@@ -1,5 +1,5 @@
 ## aktor-sumer-sehir-devletleri
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:43.835Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:22.715Z_
 
 - [OK]      k1 → "Sümer, güney Mezopotamya'da yaklaşık MÖ 3300 ile MÖ 1900 arasına tarihlenir; öncesinde Ubeyd dönemi, sonrasınd…" — 3 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "Sümer'de ortak bir tanrılar listesi yoktu; her şehir devletinin kendi hâmileri, tapınakları ve rahip-kralları …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

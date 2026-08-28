@@ -87,7 +87,7 @@ yazar.[^k1] Ölümünden önceki dönem
 ## Ölçek
 
 Uzun dönemli seride dünya nüfusu 1978 için yaklaşık 4,29 milyar, 1992 için
-yaklaşık 5,49 milyardır.[^k3] Reformlardan etkilenen nüfusa dair bir ölçüm
+yaklaşık 5,51 milyardır.[^k3] Reformlardan etkilenen nüfusa dair bir ölçüm
 kullanılan kaynak bölümünde bulunmadığı için bu değerler içindeki pay burada
 hesaplanmamıştır.
 

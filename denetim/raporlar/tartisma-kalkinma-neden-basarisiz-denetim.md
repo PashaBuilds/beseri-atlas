@@ -1,5 +1,5 @@
 ## tartisma-kalkinma-neden-basarisiz
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.330Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.859Z_
 
 - [ATOMSUZ] k1 → "Bu haritanın çıkış noktası kaynağın içindekiler yapısıdır: bir kuram ve onun karşısına konmuş dört itiraz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, modernleşme kuramını üç ayrı başlıkta ele alır: modernleşme ve demokrasi, modernleşme ve iktisadi geli…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## dusunur-han-feizi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:44.465Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:23.602Z_
 
 - [ATOMSUZ] k1 → "Han Feizi, hem bir kişinin hem de o kişiye atfedilen metnin adıdır." — programatik olarak ölçülemedi (ad karşılığı yok): Feizi
 - [OK]      k3 → "Han Feizi, hem bir kişinin hem de o kişiye atfedilen metnin adıdır."

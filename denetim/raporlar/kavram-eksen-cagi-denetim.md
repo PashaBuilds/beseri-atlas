@@ -1,5 +1,5 @@
 ## kavram-eksen-cagi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:45.531Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:25.236Z_
 
 - [ATOMSUZ] k1 → "Kaynak bölümlerini sıralar: kavramın kökeni, özellikler, düşünürler ve akımlar, alımlanma." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir dönem adının hem nereden geldiğinin hem nasıl karşılandığının ayrı bölümler olarak tutulması, atlasın şu k…" — programatik olarak ölçülemedi (ad karşılığı yok): Eksen, Çağı

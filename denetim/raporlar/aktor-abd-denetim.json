@@ -1,7 +1,9 @@
 {
   "id": "aktor-abd",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:41.007Z",
+  "zaman": "2026-08-28T18:33:18.793Z",
+  "govde_hash": "a789fc209919",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

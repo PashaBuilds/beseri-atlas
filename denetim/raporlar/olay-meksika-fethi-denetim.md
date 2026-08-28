@@ -1,5 +1,5 @@
 ## olay-meksika-fethi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:39.937Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:17.393Z_
 
 - [OK]      k1 → "Kaynak tarihi iki ayrı aralık olarak verir: Şubat 1519 - 13 Ağustos 1521 arası Aztek İmparatorluğu'na karşı, 1…" — 4 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k1 → "Kaynak sonucu "İspanyol-Yerli müttefik zaferi" olarak kaydeder."

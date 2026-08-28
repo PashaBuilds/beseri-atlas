@@ -1,5 +1,5 @@
 ## tartisma-tarihsel-sayilar-nasil-okunur
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.817Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:28.492Z_
 
 - [OK]      k1 → "Gerekçesi tek bir karşılaştırmada görülür: Taiping İsyanı için verilen toplam ölü sayısı 20–100 milyondur." — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Aynı sorun başka olaylarda da görülür: Roma topraklarına yönelen toplam göç kabaca 500.000 ile 1.000.000'un üz…"

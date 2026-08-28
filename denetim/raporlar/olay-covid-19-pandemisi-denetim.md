@@ -1,5 +1,5 @@
 ## olay-covid-19-pandemisi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:38.806Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:15.929Z_
 
 - [ATOMSUZ] k1 → "Bu pandeminin referans maddesi, olayı bir sağlık olayı olarak değil çok katmanlı bir toplumsal olay olarak böl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir salgının referans kaydında sanat ve kültürel mirasa ayrı bir alt başlık ayrılması, pandeminin ölçülen sonu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

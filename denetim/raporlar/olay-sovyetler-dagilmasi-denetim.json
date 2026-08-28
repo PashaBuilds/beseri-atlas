@@ -1,7 +1,9 @@
 {
   "id": "olay-sovyetler-dagilmasi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:40.482Z",
+  "zaman": "2026-08-28T18:33:18.105Z",
+  "govde_hash": "1ef510a8775a",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

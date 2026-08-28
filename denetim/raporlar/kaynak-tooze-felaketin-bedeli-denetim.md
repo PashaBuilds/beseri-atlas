@@ -1,5 +1,5 @@
 ## kaynak-tooze-felaketin-bedeli
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.900Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:31.375Z_
 
 - [OK]      k1 → "Kaynak, kitabı Adam Tooze'un 2006'da Allen Lane tarafından ilk kez yayımlanan 799 sayfalık eseri olarak kayded…"
 - [OK]      k1 → "Aynı kayıt, kitabın Wolfson Tarih Ödülü'nü ve 2007 Longman/History Today Yılın Kitabı Ödülü'nü kazandığını yaz…" — 3 atom doğrulandı; 2 ad ölçülemedi

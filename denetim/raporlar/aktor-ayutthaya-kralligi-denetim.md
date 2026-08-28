@@ -1,5 +1,5 @@
 ## aktor-ayutthaya-kralligi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:41.352Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:19.241Z_
 
 - [ISARET]  k1 → "Ayutthaya Krallığı, Güneydoğu Asya'nın anakara bölümünde, denize açılan bir nehir sisteminin üzerinde kurulmuş…" — özel isim kaynakta bulunamadı: Krallığı
 - [OK]      k3 → "Ayutthaya Krallığı, Güneydoğu Asya'nın anakara bölümünde, denize açılan bir nehir sisteminin üzerinde kurulmuş…" — 1 atom doğrulandı; 2 ad ölçülemedi

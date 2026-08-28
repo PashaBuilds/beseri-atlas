@@ -1,5 +1,5 @@
 ## aktor-bengal-sultanligi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:41.436Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:19.370Z_
 
 - [OK]      k1 → "Bengal Sultanlığı, iki büyük nehrin denize döküldüğü delta bölgesinde kurulmuş siyasi birimdir."
 - [ATOMSUZ] k3 → "Bengal Sultanlığı, iki büyük nehrin denize döküldüğü delta bölgesinde kurulmuş siyasi birimdir." — programatik olarak ölçülemedi (ad karşılığı yok): Sultanlığı

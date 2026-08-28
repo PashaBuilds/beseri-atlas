@@ -1,5 +1,5 @@
 ## aktor-kus-kralligi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:42.747Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:21.238Z_
 
 - [OK]      k1 → "Kuş Krallığı, Nil'in yukarı havzasında kurulmuş ve bin yılı aşkın süre varlığını sürdürmüş devlettir." — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Krallık, bir dönem kuzeydeki komşusunu da yönetti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

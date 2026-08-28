@@ -1,5 +1,5 @@
 ## olay-birinci-dunya-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:38.437Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:15.468Z_
 
 - [OK]      k1 → "Savaş 28 Temmuz 1914 - 11 Kasım 1918 arasında, yani dört yıl üç ay on dört gün sürdü; sonuç İtilaf Devletleri'…" — 2 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k1 → "Kaynak zayiatı 15-22 milyon ölü (askerî ve sivil) olarak verir ve ayrıntı için ayrı bir kayda yönlendirir."

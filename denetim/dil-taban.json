@@ -1,0 +1,2928 @@
+{
+  "aciklama": "KAPI 18 dil borcu defteri. Kapinin devreye girdigi andaki kalip gecis sayilari. Yalnizca --dil-taban-yaz ile ve yalnizca asagi yonde guncellenir; onarim borcu eritir, defter borcu gizleyemez.",
+  "zaman": "2026-08-28T18:32:55.562Z",
+  "makaleler": {
+    "donem-01": {
+      "atlas_oz": 39,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 29,
+      "sablon_kapanis": 1
+    },
+    "donem-02": {
+      "atlas_oz": 37,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 30,
+      "sablon_kapanis": 1
+    },
+    "donem-03": {
+      "atlas_oz": 36,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 30,
+      "sablon_kapanis": 1
+    },
+    "donem-04": {
+      "atlas_oz": 39,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 30,
+      "sablon_kapanis": 1
+    },
+    "donem-05": {
+      "atlas_oz": 37,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 27,
+      "sablon_kapanis": 1
+    },
+    "donem-06": {
+      "atlas_oz": 37,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 31,
+      "sablon_kapanis": 1
+    },
+    "donem-07": {
+      "atlas_oz": 37,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 28,
+      "sablon_kapanis": 1
+    },
+    "donem-08": {
+      "atlas_oz": 41,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 31,
+      "sablon_kapanis": 1
+    },
+    "donem-09": {
+      "atlas_oz": 39,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 28,
+      "sablon_kapanis": 1
+    },
+    "donem-10": {
+      "atlas_oz": 40,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 28,
+      "sablon_kapanis": 1
+    },
+    "donem-11": {
+      "atlas_oz": 39,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 33,
+      "sablon_kapanis": 1
+    },
+    "donem-12": {
+      "atlas_oz": 40,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 32,
+      "sablon_kapanis": 1
+    },
+    "donem-13": {
+      "atlas_oz": 26,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 20,
+      "sablon_kapanis": 1
+    },
+    "donem-14": {
+      "atlas_oz": 39,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 34,
+      "sablon_kapanis": 1
+    },
+    "donem-15": {
+      "atlas_oz": 41,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 25,
+      "sablon_kapanis": 0
+    },
+    "donem-16": {
+      "atlas_oz": 42,
+      "bu_dosya": 9,
+      "ayrica_kaydeder": 26,
+      "sablon_kapanis": 1
+    },
+    "olay-11-eylul": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-1848-devrimleri": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-1857-hint-ayaklanmasi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-1905-rus-devrimi": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-1968-hareketleri": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-1973-petrol-krizi": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-2008-finansal-krizi": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-adva-1896": {
+      "atlas_oz": 14,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 6,
+      "sablon_kapanis": 2
+    },
+    "olay-afrika-bagimsizlik-dalgasi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-afyon-savaslari": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-amerikan-devrimi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-amerikan-ic-savasi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-amerikanin-kesfi": {
+      "atlas_oz": 2,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-arap-bahari": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-atlantik-kole-ticareti": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-bagdat-kusatmasi-1258": {
+      "atlas_oz": 11,
+      "bu_dosya": 7,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "olay-bandung-konferansi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-bengal-kitligi-1943": {
+      "atlas_oz": 20,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 8,
+      "sablon_kapanis": 2
+    },
+    "olay-berlin-duvarinin-yikilisi": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-birinci-dunya-savasi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-boksor-isyani": {
+      "atlas_oz": 20,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 19,
+      "sablon_kapanis": 3
+    },
+    "olay-bretton-woods": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-cernobil": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-cezayir-savasi": {
+      "atlas_oz": 22,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 16,
+      "sablon_kapanis": 2
+    },
+    "olay-cheng-ho-seferleri": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-cin-devrimi-1949": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-cin-reformlari-1978": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-covid-19-pandemisi": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-ekim-devrimi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-fransiz-devrimi": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-hacli-seferleri": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-haiti-devrimi": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-han-hanedani-kurulusu": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-herero-nama-1904": {
+      "atlas_oz": 22,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 12,
+      "sablon_kapanis": 2
+    },
+    "olay-hindistan-bolunmesi": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-ikinci-dunya-savasi": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-ingiliz-ic-savasi": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-internetin-yayginlasmasi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-ipek-yolu-kurulusu": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-iran-devrimi-1979": {
+      "atlas_oz": 2,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-irlanda-kitligi": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-iskender-seferleri": {
+      "atlas_oz": 2,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-islam-fetihleri": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-ispanya-ic-savasi": {
+      "atlas_oz": 2,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-istanbulun-fethi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-italyan-birligi": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-justinyen-vebasi": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-kavimler-gocu": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-kirim-savasi": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-kongo-serbest-devleti": {
+      "atlas_oz": 22,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 11,
+      "sablon_kapanis": 2
+    },
+    "olay-kore-savasi": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-kuba-fuze-krizi": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-kudus-fethi-1187": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-kultur-devrimi": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-latin-amerika-bagimsizligi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-malaka-fethi-1511": {
+      "atlas_oz": 12,
+      "bu_dosya": 7,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 2
+    },
+    "olay-malazgirt": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-mansa-musa-haci": {
+      "atlas_oz": 2,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-meiji-restorasyonu": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-meksika-devrimi": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-meksika-fethi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-mfecane": {
+      "atlas_oz": 11,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 4,
+      "sablon_kapanis": 2
+    },
+    "olay-napolyon-savaslari": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-nufus-patlamasi": {
+      "atlas_oz": 2,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-otuz-yil-savaslari": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-paris-iklim-anlasmasi": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-pasifik-nukleer-denemeleri": {
+      "atlas_oz": 14,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 10,
+      "sablon_kapanis": 2
+    },
+    "olay-plassey-1757": {
+      "atlas_oz": 16,
+      "bu_dosya": 7,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "olay-pon-savaslari": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-reform": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-roma-cumhuriyetinin-sonu": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-ronesans": {
+      "atlas_oz": 2,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-rus-turkistan-fethi": {
+      "atlas_oz": 22,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 11,
+      "sablon_kapanis": 2
+    },
+    "olay-sanayi-devrimi": {
+      "atlas_oz": 2,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-sovyetler-dagilmasi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-suveys-krizi": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-taiping-isyani": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-talas-savasi": {
+      "atlas_oz": 19,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 6,
+      "sablon_kapanis": 2
+    },
+    "olay-tanzimat-fermani": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "olay-tupac-amaru-ayaklanmasi-1780": {
+      "atlas_oz": 13,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 8,
+      "sablon_kapanis": 2
+    },
+    "olay-uzay-yarisi": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-versailles-antlasmasi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "olay-vestfalya-barisi": {
+      "atlas_oz": 1,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-vietnam-savasi": {
+      "atlas_oz": 2,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-viyana-kongresi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-waitangi-antlasmasi-1840": {
+      "atlas_oz": 10,
+      "bu_dosya": 9,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "olay-yedi-yil-savasi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "olay-yesil-devrim": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-abbasi-hilafeti": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-abd": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-ace-sultanligi": {
+      "atlas_oz": 8,
+      "bu_dosya": 7,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-ahamenis-imparatorlugu": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-aksum-kralligi": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-alman-imparatorlugu": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-altin-orda": {
+      "atlas_oz": 12,
+      "bu_dosya": 7,
+      "ayrica_kaydeder": 2,
+      "sablon_kapanis": 2
+    },
+    "aktor-asanti-imparatorlugu": {
+      "atlas_oz": 12,
+      "bu_dosya": 6,
+      "ayrica_kaydeder": 5,
+      "sablon_kapanis": 2
+    },
+    "aktor-asur-imparatorlugu": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-avrupa-birligi": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-avustralya-yerli-halklari": {
+      "atlas_oz": 14,
+      "bu_dosya": 14,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 2
+    },
+    "aktor-avusturya-macaristan": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-ayutthaya-kralligi": {
+      "atlas_oz": 10,
+      "bu_dosya": 9,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-aztek-imparatorlugu": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-babur-imparatorlugu": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-baglantisizlar-hareketi": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-banaba": {
+      "atlas_oz": 22,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 12,
+      "sablon_kapanis": 2
+    },
+    "aktor-bengal-sultanligi": {
+      "atlas_oz": 7,
+      "bu_dosya": 6,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-benin-kralligi": {
+      "atlas_oz": 12,
+      "bu_dosya": 11,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-birlesmis-milletler": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-bizans-imparatorlugu": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-britanya-imparatorlugu": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-buhara-hanligi": {
+      "atlas_oz": 9,
+      "bu_dosya": 8,
+      "ayrica_kaydeder": 4,
+      "sablon_kapanis": 2
+    },
+    "aktor-buyuk-selcuklu": {
+      "atlas_oz": 9,
+      "bu_dosya": 17,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-buyuk-zimbabve": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-cagatay-hanligi": {
+      "atlas_oz": 8,
+      "bu_dosya": 7,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-cahokia": {
+      "atlas_oz": 13,
+      "bu_dosya": 8,
+      "ayrica_kaydeder": 2,
+      "sablon_kapanis": 2
+    },
+    "aktor-chola": {
+      "atlas_oz": 7,
+      "bu_dosya": 11,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-cin-halk-cumhuriyeti": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-dahomey-kralligi": {
+      "atlas_oz": 21,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 18,
+      "sablon_kapanis": 2
+    },
+    "aktor-delhi-sultanligi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-dunya-bankasi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-dunya-ticaret-orgutu": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-emevi-hilafeti": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-etiyopya-imparatorlugu": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-eyyubi-devleti": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-fatimi-hilafeti": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-fiji-kralligi": {
+      "atlas_oz": 13,
+      "bu_dosya": 6,
+      "ayrica_kaydeder": 3,
+      "sablon_kapanis": 2
+    },
+    "aktor-gana-imparatorlugu": {
+      "atlas_oz": 10,
+      "bu_dosya": 15,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-gokturk-kaganligi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-goryeo-choson": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-gucerat-sultanligi": {
+      "atlas_oz": 10,
+      "bu_dosya": 7,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-gupta-imparatorlugu": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-han-imparatorlugu": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-hansa-birligi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-harizmsahlar": {
+      "atlas_oz": 12,
+      "bu_dosya": 16,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-haudenosaunee": {
+      "atlas_oz": 13,
+      "bu_dosya": 8,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 2
+    },
+    "aktor-hawai-kralligi": {
+      "atlas_oz": 5,
+      "bu_dosya": 7,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-hazarlar": {
+      "atlas_oz": 9,
+      "bu_dosya": 8,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 2
+    },
+    "aktor-hitit-imparatorlugu": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-hive-hanligi": {
+      "atlas_oz": 12,
+      "bu_dosya": 7,
+      "ayrica_kaydeder": 4,
+      "sablon_kapanis": 2
+    },
+    "aktor-hokand-hanligi": {
+      "atlas_oz": 11,
+      "bu_dosya": 7,
+      "ayrica_kaydeder": 5,
+      "sablon_kapanis": 2
+    },
+    "aktor-hollanda-doguhindistan-sirketi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-hun-imparatorlugu": {
+      "atlas_oz": 2,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-ilhanlilar": {
+      "atlas_oz": 11,
+      "bu_dosya": 6,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 2
+    },
+    "aktor-imf": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-indus-vadisi": {
+      "atlas_oz": 10,
+      "bu_dosya": 15,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-ingiliz-doguhindistan-sirketi": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-inka-imparatorlugu": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-ispanyol-imparatorlugu": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-japonya-imparatorlugu": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-kanem-bornu": {
+      "atlas_oz": 5,
+      "bu_dosya": 11,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-karahanlilar": {
+      "atlas_oz": 5,
+      "bu_dosya": 14,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-karluklar": {
+      "atlas_oz": 12,
+      "bu_dosya": 7,
+      "ayrica_kaydeder": 3,
+      "sablon_kapanis": 2
+    },
+    "aktor-karolenj-imparatorlugu": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "aktor-khmer-imparatorlugu": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-kilva": {
+      "atlas_oz": 7,
+      "bu_dosya": 18,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-kirgizlar": {
+      "atlas_oz": 16,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 6,
+      "sablon_kapanis": 2
+    },
+    "aktor-komance": {
+      "atlas_oz": 10,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 2,
+      "sablon_kapanis": 2
+    },
+    "aktor-kongo-kralligi": {
+      "atlas_oz": 11,
+      "bu_dosya": 9,
+      "ayrica_kaydeder": 2,
+      "sablon_kapanis": 2
+    },
+    "aktor-kus-kralligi": {
+      "atlas_oz": 11,
+      "bu_dosya": 8,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-kusan-imparatorlugu": {
+      "atlas_oz": 11,
+      "bu_dosya": 8,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-majapahit": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-malaka-sultanligi": {
+      "atlas_oz": 8,
+      "bu_dosya": 7,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-maldiv-sultanligi": {
+      "atlas_oz": 11,
+      "bu_dosya": 8,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-mali-imparatorlugu": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-maori": {
+      "atlas_oz": 8,
+      "bu_dosya": 7,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-mapuche": {
+      "atlas_oz": 13,
+      "bu_dosya": 6,
+      "ayrica_kaydeder": 3,
+      "sablon_kapanis": 2
+    },
+    "aktor-marathalar": {
+      "atlas_oz": 8,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 5,
+      "sablon_kapanis": 2
+    },
+    "aktor-maurya-imparatorlugu": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-maya-uygarligi": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-memluk-devleti": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-ming-hanedani": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-misir-yeni-kralligi": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-moche": {
+      "atlas_oz": 12,
+      "bu_dosya": 9,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 2
+    },
+    "aktor-mogol-imparatorlugu": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "aktor-murabitlar": {
+      "atlas_oz": 13,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 5,
+      "sablon_kapanis": 2
+    },
+    "aktor-muvahhidler": {
+      "atlas_oz": 11,
+      "bu_dosya": 9,
+      "ayrica_kaydeder": 2,
+      "sablon_kapanis": 2
+    },
+    "aktor-nato": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-nauru": {
+      "atlas_oz": 13,
+      "bu_dosya": 6,
+      "ayrica_kaydeder": 6,
+      "sablon_kapanis": 2
+    },
+    "aktor-olmek": {
+      "atlas_oz": 12,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 2
+    },
+    "aktor-osmanli-imparatorlugu": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "aktor-oyo-imparatorlugu": {
+      "atlas_oz": 20,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 15,
+      "sablon_kapanis": 2
+    },
+    "aktor-pagan-kralligi": {
+      "atlas_oz": 12,
+      "bu_dosya": 8,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-portekiz-imparatorlugu": {
+      "atlas_oz": 19,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 11,
+      "sablon_kapanis": 2
+    },
+    "aktor-qing-hanedani": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-rapa-nui": {
+      "atlas_oz": 11,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 5,
+      "sablon_kapanis": 2
+    },
+    "aktor-roma-imparatorlugu": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-rus-imparatorlugu": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-ryukyu-kralligi": {
+      "atlas_oz": 22,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 17,
+      "sablon_kapanis": 2
+    },
+    "aktor-safevi-devleti": {
+      "atlas_oz": 2,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-samaniler": {
+      "atlas_oz": 4,
+      "bu_dosya": 16,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-samoa-kralligi": {
+      "atlas_oz": 13,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 7,
+      "sablon_kapanis": 2
+    },
+    "aktor-sasani-imparatorlugu": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-seybaniler": {
+      "atlas_oz": 12,
+      "bu_dosya": 8,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 2
+    },
+    "aktor-sogdlular": {
+      "atlas_oz": 8,
+      "bu_dosya": 10,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-sokoto-hilafeti": {
+      "atlas_oz": 10,
+      "bu_dosya": 8,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-song-hanedani": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-songhay-imparatorlugu": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-sovyetler-birligi": {
+      "atlas_oz": 0,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-srivijaya": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-sumer-sehir-devletleri": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-tang-hanedani": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "aktor-teotihuacan": {
+      "atlas_oz": 12,
+      "bu_dosya": 6,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-timur-imparatorlugu": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-tokugawa-sogunlugu": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-tonga-kralligi": {
+      "atlas_oz": 7,
+      "bu_dosya": 8,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 2
+    },
+    "aktor-uygur-kaganligi": {
+      "atlas_oz": 7,
+      "bu_dosya": 11,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "aktor-varsova-pakti": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "aktor-vijayanagara": {
+      "atlas_oz": 11,
+      "bu_dosya": 6,
+      "ayrica_kaydeder": 3,
+      "sablon_kapanis": 2
+    },
+    "aktor-yeni-hebridler-ortak-yonetimi": {
+      "atlas_oz": 20,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 9,
+      "sablon_kapanis": 2
+    },
+    "aktor-zulu-kralligi": {
+      "atlas_oz": 9,
+      "bu_dosya": 7,
+      "ayrica_kaydeder": 5,
+      "sablon_kapanis": 2
+    },
+    "dusunur-ambedkar": {
+      "atlas_oz": 21,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 12,
+      "sablon_kapanis": 2
+    },
+    "dusunur-arendt": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-aristoteles": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-asoka": {
+      "atlas_oz": 5,
+      "bu_dosya": 7,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "dusunur-augustinus": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-biruni": {
+      "atlas_oz": 7,
+      "bu_dosya": 12,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "dusunur-braudel": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-carr": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-clausewitz": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-du-bois": {
+      "atlas_oz": 10,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "dusunur-durkheim": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 1
+    },
+    "dusunur-fanon": {
+      "atlas_oz": 15,
+      "bu_dosya": 8,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "dusunur-farabi": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-foucault": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-gandhi": {
+      "atlas_oz": 22,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 10,
+      "sablon_kapanis": 2
+    },
+    "dusunur-gazali": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-han-feizi": {
+      "atlas_oz": 8,
+      "bu_dosya": 13,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "dusunur-hegel": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-herodotos": {
+      "atlas_oz": 4,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-hobbes": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-ibn-battuta": {
+      "atlas_oz": 10,
+      "bu_dosya": 10,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-ibn-haldun": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "dusunur-ibn-rusd": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-ibn-sina": {
+      "atlas_oz": 5,
+      "bu_dosya": 12,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-kant": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-katib-celebi": {
+      "atlas_oz": 14,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 5,
+      "sablon_kapanis": 2
+    },
+    "dusunur-kautilya": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-keynes": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-konfucyus": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-las-casas": {
+      "atlas_oz": 22,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 9,
+      "sablon_kapanis": 2
+    },
+    "dusunur-locke": {
+      "atlas_oz": 1,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-machiavelli": {
+      "atlas_oz": 1,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-mackinder": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-mahan": {
+      "atlas_oz": 0,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-malthus": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-marx": {
+      "atlas_oz": 2,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-mengzi": {
+      "atlas_oz": 14,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "dusunur-mill": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-montesquieu": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-nagarjuna": {
+      "atlas_oz": 10,
+      "bu_dosya": 9,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "dusunur-nizamulmulk": {
+      "atlas_oz": 7,
+      "bu_dosya": 11,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-platon": {
+      "atlas_oz": 1,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-polanyi": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-sankara": {
+      "atlas_oz": 10,
+      "bu_dosya": 7,
+      "ayrica_kaydeder": 2,
+      "sablon_kapanis": 2
+    },
+    "dusunur-sima-qian": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-smith": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-tacitus": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-thukydides": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-tocqueville": {
+      "atlas_oz": 0,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-ulug-bey": {
+      "atlas_oz": 23,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 7,
+      "sablon_kapanis": 2
+    },
+    "dusunur-wallerstein": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-wang-yangming": {
+      "atlas_oz": 12,
+      "bu_dosya": 7,
+      "ayrica_kaydeder": 2,
+      "sablon_kapanis": 2
+    },
+    "dusunur-weber": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "dusunur-zhu-xi": {
+      "atlas_oz": 10,
+      "bu_dosya": 6,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "kavram-akrabalik": {
+      "atlas_oz": 10,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 5,
+      "sablon_kapanis": 2
+    },
+    "kavram-aletsiz-seyrusefer": {
+      "atlas_oz": 2,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-anakronizm": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-apartheid": {
+      "atlas_oz": 13,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 6,
+      "sablon_kapanis": 1
+    },
+    "kavram-arkeolojik-kanit": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-askeri-devrim": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-avustronezya-yayilmasi": {
+      "atlas_oz": 6,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 1
+    },
+    "kavram-bagimlilik-kurami": {
+      "atlas_oz": 2,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-barut-imparatorluklari": {
+      "atlas_oz": 10,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 6,
+      "sablon_kapanis": 1
+    },
+    "kavram-belge-okumasi": {
+      "atlas_oz": 2,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "kavram-birincil-kaynak": {
+      "atlas_oz": 14,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 3,
+      "sablon_kapanis": 1
+    },
+    "kavram-bozkir-imparatorlugu": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-burokrasi": {
+      "atlas_oz": 10,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 6,
+      "sablon_kapanis": 1
+    },
+    "kavram-buyuk-ayrisma": {
+      "atlas_oz": 2,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-caydiricilik": {
+      "atlas_oz": 9,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 7,
+      "sablon_kapanis": 1
+    },
+    "kavram-donemlendirme": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-dunya-sistemi": {
+      "atlas_oz": 2,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-egemenlik": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-eksen-cagi": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-emperyalizm": {
+      "atlas_oz": 12,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 2,
+      "sablon_kapanis": 1
+    },
+    "kavram-esitsiz-antlasmalar": {
+      "atlas_oz": 13,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 6,
+      "sablon_kapanis": 1
+    },
+    "kavram-feodalite": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-gini-katsayisi": {
+      "atlas_oz": 2,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-goksel-yetki": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-guc-dengesi": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-haracguzarlik": {
+      "atlas_oz": 10,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 5,
+      "sablon_kapanis": 1
+    },
+    "kavram-hegemonya": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-himaye-duzeni": {
+      "atlas_oz": 8,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 2
+    },
+    "kavram-hint-okyanusu-ticareti": {
+      "atlas_oz": 4,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-hukuk-devleti": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-ictihad": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-ideal-tip": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-ikincil-kaynak": {
+      "atlas_oz": 13,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 4,
+      "sablon_kapanis": 1
+    },
+    "kavram-ilkel-birikim": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-imparatorluk": {
+      "atlas_oz": 12,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 6,
+      "sablon_kapanis": 1
+    },
+    "kavram-kamusal-alan": {
+      "atlas_oz": 11,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 3,
+      "sablon_kapanis": 1
+    },
+    "kavram-kanit-turu": {
+      "atlas_oz": 10,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "kavram-kapitalizm": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-kast": {
+      "atlas_oz": 8,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 2
+    },
+    "kavram-kaynak-elestirisi": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-kentlesme": {
+      "atlas_oz": 13,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 7,
+      "sablon_kapanis": 1
+    },
+    "kavram-kipu": {
+      "atlas_oz": 3,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 1
+    },
+    "kavram-kolelik": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-konfucyuscluk": {
+      "atlas_oz": 3,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-kula-halkasi": {
+      "atlas_oz": 7,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-kuresellesme": {
+      "atlas_oz": 10,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 6,
+      "sablon_kapanis": 1
+    },
+    "kavram-kurulus-anlatisi": {
+      "atlas_oz": 11,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 2,
+      "sablon_kapanis": 1
+    },
+    "kavram-legalizm": {
+      "atlas_oz": 3,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-longue-duree": {
+      "atlas_oz": 2,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-malthus-tuzagi": {
+      "atlas_oz": 3,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-mandala-devleti": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-merkantilizm": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-mesruiyet": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-millet-sistemi": {
+      "atlas_oz": 9,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 3,
+      "sablon_kapanis": 1
+    },
+    "kavram-milliyetcilik": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-okuryazarlik": {
+      "atlas_oz": 14,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 8,
+      "sablon_kapanis": 1
+    },
+    "kavram-pamuk-tek-urun": {
+      "atlas_oz": 10,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 4,
+      "sablon_kapanis": 1
+    },
+    "kavram-para": {
+      "atlas_oz": 9,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 9,
+      "sablon_kapanis": 1
+    },
+    "kavram-pasifik-isci-toplama": {
+      "atlas_oz": 9,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 3,
+      "sablon_kapanis": 1
+    },
+    "kavram-patrimonyalizm": {
+      "atlas_oz": 10,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 7,
+      "sablon_kapanis": 1
+    },
+    "kavram-salgin": {
+      "atlas_oz": 11,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 4,
+      "sablon_kapanis": 1
+    },
+    "kavram-sehir-devleti": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-sekulerlesme": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-silahli-ticaret": {
+      "atlas_oz": 5,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-sivil-toplum": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-somurgesizlesme": {
+      "atlas_oz": 8,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 7,
+      "sablon_kapanis": 1
+    },
+    "kavram-sozlu-tarih": {
+      "atlas_oz": 10,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 7,
+      "sablon_kapanis": 1
+    },
+    "kavram-surtunme": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-svahili-kiyisi": {
+      "atlas_oz": 2,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-takvim": {
+      "atlas_oz": 12,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 4,
+      "sablon_kapanis": 1
+    },
+    "kavram-taoizm": {
+      "atlas_oz": 4,
+      "bu_dosya": 7,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-tarih-yazimi": {
+      "atlas_oz": 10,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 1
+    },
+    "kavram-tarihsel-iklimbilim": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-tarihsel-materyalizm": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-tasavvuf": {
+      "atlas_oz": 10,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 9,
+      "sablon_kapanis": 1
+    },
+    "kavram-ticaret-diasporasi": {
+      "atlas_oz": 9,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 5,
+      "sablon_kapanis": 1
+    },
+    "kavram-timar": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-toplumsal-cinsiyet-duzeni": {
+      "atlas_oz": 12,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 2,
+      "sablon_kapanis": 1
+    },
+    "kavram-topyekun-savas": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-ulus-devlet": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-umran": {
+      "atlas_oz": 2,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-vatandaslik": {
+      "atlas_oz": 13,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 5,
+      "sablon_kapanis": 2
+    },
+    "kavram-veraset": {
+      "atlas_oz": 9,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 4,
+      "sablon_kapanis": 2
+    },
+    "kavram-vergi": {
+      "atlas_oz": 8,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 7,
+      "sablon_kapanis": 1
+    },
+    "kavram-vesayet-yonetimi": {
+      "atlas_oz": 7,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 4,
+      "sablon_kapanis": 2
+    },
+    "kavram-yasam-beklentisi": {
+      "atlas_oz": 2,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kavram-yazi-sistemi": {
+      "atlas_oz": 8,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 8,
+      "sablon_kapanis": 1
+    },
+    "kavram-zorunlu-emek-duzeni": {
+      "atlas_oz": 10,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 5,
+      "sablon_kapanis": 1
+    },
+    "tartisma-1929-krizinin-nedeni": {
+      "atlas_oz": 2,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-antik-kolelik-ekonomisi": {
+      "atlas_oz": 2,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-aydinlanmanin-sinirlari": {
+      "atlas_oz": 2,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-belge-ne-zaman-yururlukte": {
+      "atlas_oz": 20,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 3,
+      "sablon_kapanis": 2
+    },
+    "tartisma-buyuk-adam-kurami": {
+      "atlas_oz": 29,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 10,
+      "sablon_kapanis": 1
+    },
+    "tartisma-demografik-donum-sonuclari": {
+      "atlas_oz": 2,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-eksen-cagi-gercek-mi": {
+      "atlas_oz": 1,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-feodalite-kavrami": {
+      "atlas_oz": 2,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-fransiz-devrimi-yorumlari": {
+      "atlas_oz": 2,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-hacli-seferlerinin-nedeni": {
+      "atlas_oz": 1,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-ikinci-dunya-savasi-sorumlulugu": {
+      "atlas_oz": 3,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-iklim-ve-cokus": {
+      "atlas_oz": 3,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-imparatorluk-nufusu-nasil-sayilir": {
+      "atlas_oz": 3,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-imparatorluk-siniri-nasil-cizilir": {
+      "atlas_oz": 2,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-kalkinma-neden-basarisiz": {
+      "atlas_oz": 2,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-kalkinma-yardimi-ise-yariyor-mu": {
+      "atlas_oz": 2,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-kara-olumun-sonuclari": {
+      "atlas_oz": 3,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-karsi-olgusal-tarih": {
+      "atlas_oz": 3,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-kesif-mi-istila-mi": {
+      "atlas_oz": 3,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-milliyetcilik-ne-zaman": {
+      "atlas_oz": 2,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-mogol-etkisi": {
+      "atlas_oz": 3,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-nufus-artisi-tehdit-mi": {
+      "atlas_oz": 2,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-orta-asya-neden-cekildi": {
+      "atlas_oz": 14,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 2
+    },
+    "tartisma-osmanli-gerileme-tezi": {
+      "atlas_oz": 2,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-romanin-cokus-nedeni": {
+      "atlas_oz": 1,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-sanayi-devrimi-neden-ingiltere": {
+      "atlas_oz": 3,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-soguk-savasin-baslangici": {
+      "atlas_oz": 3,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-somurgeciligin-ekonomik-bilancosu": {
+      "atlas_oz": 26,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 2,
+      "sablon_kapanis": 1
+    },
+    "tartisma-soykirim-kavrami": {
+      "atlas_oz": 4,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-sozlu-gelenek-kaynak-mi": {
+      "atlas_oz": 16,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "tartisma-tarihsel-sayilar-nasil-okunur": {
+      "atlas_oz": 2,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-tarim-devrimi-neden": {
+      "atlas_oz": 2,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-teknolojik-belirlenimcilik": {
+      "atlas_oz": 3,
+      "bu_dosya": 0,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-vestfalya-miti": {
+      "atlas_oz": 2,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "tartisma-waitangi-hangi-metin": {
+      "atlas_oz": 7,
+      "bu_dosya": 9,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "tartisma-yazinin-icadi-nerede": {
+      "atlas_oz": 2,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "veri-askeri-harcama": {
+      "atlas_oz": 2,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-bebek-olumleri": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-co2-emisyonu": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-cocuk-olumleri": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-demokrasi-endeksi": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-dogurganlik-hizi-1950-2023": {
+      "atlas_oz": 2,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-enerji-tuketimi-1800-2023": {
+      "atlas_oz": 4,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-fosil-elektrik-payi": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-internet-kullanimi": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-kentlesme-orani-1500-2023": {
+      "atlas_oz": 4,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-kentli-nufus-sayisi": {
+      "atlas_oz": 2,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-kisi-basi-enerji": {
+      "atlas_oz": 2,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-kisi-basi-gsyh-1-2022": {
+      "atlas_oz": 3,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-kuresel-esitsizlik": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-nufus-artis-hizi": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-okuryazarlik-1475-2023": {
+      "atlas_oz": 4,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-ortalama-egitim-suresi": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-savas-kayiplari-1800-2023": {
+      "atlas_oz": 0,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-savas-olumleri": {
+      "atlas_oz": 0,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-tarim-istihdami": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-tarimsal-verim": {
+      "atlas_oz": 1,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-ticaret-payi": {
+      "atlas_oz": 6,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "veri-yasam-beklentisi-1770-2023": {
+      "atlas_oz": 2,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "veri-yoksulluk-orani": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-afrika-birligi-sarti": {
+      "atlas_oz": 9,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 2,
+      "sablon_kapanis": 2
+    },
+    "kaynak-ain-i-akbari": {
+      "atlas_oz": 5,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-aristoteles-politika": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "kaynak-baburname": {
+      "atlas_oz": 2,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-braudel-akdeniz": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-camiut-tevarih": {
+      "atlas_oz": 7,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 1
+    },
+    "kaynak-carr-tarih-nedir": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-clark-uyurgezerler": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-clausewitz-savas-uzerine": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "kaynak-cook-guney-seyir-defteri": {
+      "atlas_oz": 8,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 3,
+      "sablon_kapanis": 2
+    },
+    "kaynak-durkheim-intihar": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-farabi-medinetul-fazila": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-fetha-nagast": {
+      "atlas_oz": 8,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 2,
+      "sablon_kapanis": 2
+    },
+    "kaynak-gazali-tehafut": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-gibbon-roma": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "kaynak-gilgamis-destani": {
+      "atlas_oz": 8,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 2,
+      "sablon_kapanis": 2
+    },
+    "kaynak-guaman-poma-nueva-coronica": {
+      "atlas_oz": 2,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-gulhane-hatti": {
+      "atlas_oz": 11,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 3,
+      "sablon_kapanis": 2
+    },
+    "kaynak-hammurabi-kanunlari": {
+      "atlas_oz": 9,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 5,
+      "sablon_kapanis": 2
+    },
+    "kaynak-hegel-gorungubilim": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-herodotos-tarihler": {
+      "atlas_oz": 2,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-hindistan-anayasasi": {
+      "atlas_oz": 11,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 5,
+      "sablon_kapanis": 2
+    },
+    "kaynak-hobbes-leviathan": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "kaynak-hobsbawm-caglar": {
+      "atlas_oz": 2,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-ibn-battuta-rihle": {
+      "atlas_oz": 8,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 2
+    },
+    "kaynak-ibn-haldun-mukaddime": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-insan-haklari-beyannamesi": {
+      "atlas_oz": 6,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 2,
+      "sablon_kapanis": 2
+    },
+    "kaynak-kant-elestiri": {
+      "atlas_oz": 2,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-kanunuesasi-1876": {
+      "atlas_oz": 7,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 2,
+      "sablon_kapanis": 2
+    },
+    "kaynak-kautilya-arthasastra": {
+      "atlas_oz": 4,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-keynes-genel-teori": {
+      "atlas_oz": 2,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-kojiki": {
+      "atlas_oz": 8,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 3,
+      "sablon_kapanis": 2
+    },
+    "kaynak-konfucyus-lunyu": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "kaynak-kurukan-fuga-sarti": {
+      "atlas_oz": 6,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 2
+    },
+    "kaynak-liberya-bagimsizlik-bildirisi": {
+      "atlas_oz": 7,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 5,
+      "sablon_kapanis": 2
+    },
+    "kaynak-machiavelli-prens": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "kaynak-mackinder-cografi-eksen": {
+      "atlas_oz": 1,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-magna-carta": {
+      "atlas_oz": 11,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 4,
+      "sablon_kapanis": 2
+    },
+    "kaynak-mahan-deniz-gucu": {
+      "atlas_oz": 0,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-malthus-nufus": {
+      "atlas_oz": 2,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-marx-kapital": {
+      "atlas_oz": 3,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-meiji-anayasasi": {
+      "atlas_oz": 11,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 5,
+      "sablon_kapanis": 2
+    },
+    "kaynak-milanovic-kuresel-esitsizlik": {
+      "atlas_oz": 1,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-montesquieu-kanunlarin-ruhu": {
+      "atlas_oz": 2,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-orhon-yazitlari": {
+      "atlas_oz": 3,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-piri-reis-kitab-i-bahriye": {
+      "atlas_oz": 9,
+      "bu_dosya": 6,
+      "ayrica_kaydeder": 1,
+      "sablon_kapanis": 2
+    },
+    "kaynak-platon-devlet": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 0
+    },
+    "kaynak-polanyi-buyuk-donusum": {
+      "atlas_oz": 1,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-pomeranz-buyuk-ayrisma": {
+      "atlas_oz": 2,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-popol-vuh": {
+      "atlas_oz": 3,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-sima-qian-shiji": {
+      "atlas_oz": 0,
+      "bu_dosya": 3,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-smith-uluslarin-zenginligi": {
+      "atlas_oz": 1,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-tacitus-annales": {
+      "atlas_oz": 0,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-thukydides-peloponnesos": {
+      "atlas_oz": 0,
+      "bu_dosya": 1,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-timbuktu-tarihleri": {
+      "atlas_oz": 3,
+      "bu_dosya": 5,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-tooze-felaketin-bedeli": {
+      "atlas_oz": 1,
+      "bu_dosya": 4,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-tordesillas-antlasmasi": {
+      "atlas_oz": 6,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 4,
+      "sablon_kapanis": 2
+    },
+    "kaynak-weber-protestan-ahlaki": {
+      "atlas_oz": 2,
+      "bu_dosya": 2,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    },
+    "kaynak-yusuf-has-hacib-kutadgu-bilig": {
+      "atlas_oz": 4,
+      "bu_dosya": 6,
+      "ayrica_kaydeder": 0,
+      "sablon_kapanis": 1
+    }
+  }
+}

@@ -1,7 +1,9 @@
 {
   "id": "kavram-imparatorluk",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:45.807Z",
+  "zaman": "2026-08-28T18:33:25.669Z",
+  "govde_hash": "5933b21eb24d",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

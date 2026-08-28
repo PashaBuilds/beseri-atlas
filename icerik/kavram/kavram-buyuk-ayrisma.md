@@ -83,8 +83,8 @@ yakıt ve kaynaklar ile ticaret alt başlıklarını tutar.[^k1]
 
 ## Dönemin nüfus serisi ve iktisat yazarı
 
-Uzun dönemli seride dünya nüfusu 1700 için yaklaşık 603,4 milyon, 1900 için
-yaklaşık 1,65 milyardır.[^k3] Atlas bu seriyi kavramın kanıtı olarak sunmaz;
+Uzun dönemli seride dünya nüfusu 1700 için yaklaşık 595,5 milyon, 1900 için
+yaklaşık 1,63 milyardır.[^k3] Atlas bu seriyi kavramın kanıtı olarak sunmaz;
 seri dünya toplamını verir, kavram ise bölgeler arası bir farkı öne sürer.[^k1][^k3]
 
 Dönemin iktisat yazarı için tutulan kayıt, onun ahlak felsefesinin kapsamlı ve

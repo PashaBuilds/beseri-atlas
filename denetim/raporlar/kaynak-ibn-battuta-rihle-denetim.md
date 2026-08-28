@@ -1,5 +1,5 @@
 ## kaynak-ibn-battuta-rihle
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.425Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.621Z_
 
 - [OK]      k1 → "Rihle, on dördüncü yüzyılda Tanca'dan yola çıkan bir hukukçunun yolculuklarını anlatır."
 - [ATOMSUZ] k2 → "Yolculuklar yaklaşık yirmi dokuz yıl sürdü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

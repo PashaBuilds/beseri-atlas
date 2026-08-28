@@ -1,5 +1,5 @@
 ## kaynak-piri-reis-kitab-i-bahriye
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.777Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:31.165Z_
 
 - [OK]      k1 → "Kitâb-ı Bahriye, on altıncı yüzyıl başında yazılmış bir denizcilik kılavuzudur."
 - [ATOMSUZ] k1 → "Her bölüm bir kıyı kesimini anlatır ve bir haritayla birlikte verilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

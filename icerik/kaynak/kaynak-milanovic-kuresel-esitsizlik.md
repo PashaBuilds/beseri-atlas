@@ -77,8 +77,8 @@ alandaki konumunu gösterir.
 
 ## Ölçünün uygulandığı toplam
 
-Uzun dönemli seride dünya nüfusu 1953 için yaklaşık 2,68 milyar, 2020 için
-yaklaşık 7,84 milyardır.[^k2]
+Uzun dönemli seride dünya nüfusu 1953 için yaklaşık 2,63 milyar, 2020 için
+yaklaşık 7,89 milyardır.[^k2]
 
 Atlas bu seriyi eşitsizlik ölçüsüyle birleştirmez; nüfus toplamı bir dağılım
 ölçüsü değildir.[^k1][^k2] Ölçünün kendisi

@@ -1,5 +1,5 @@
 ## tartisma-kesif-mi-istila-mi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.411Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.978Z_
 
 - [OK]      k1 → "Bu haritanın çıkış noktası kaynağın sonuç satırıdır: İspanyol-Yerli müttefik zaferi."
 - [OK]      k1 → "Kaynak sonucu İspanyol-Yerli müttefik zaferi olarak kaydeder ve toprak sonucunu şöyle yazar: Aztek İmparatorlu…" — 2 atom doğrulandı; 2 ad ölçülemedi

@@ -74,7 +74,7 @@ saymadığının dayanağıdır; kavram
 
 ## Payın üzerine uygulanacağı toplam
 
-Uzun dönemli nüfus serisinde dünya nüfusu 2020 için yaklaşık 7,84 milyardır.[^k3]
+Uzun dönemli nüfus serisinde dünya nüfusu 2020 için yaklaşık 7,89 milyardır.[^k3]
 
 Atlas iki seriyi çarparak kullanıcı sayısı üretmez; iki kümenin gözlem yılları
 aynı değildir ve böyle bir hesap kullanılan kaynak bölümlerinde

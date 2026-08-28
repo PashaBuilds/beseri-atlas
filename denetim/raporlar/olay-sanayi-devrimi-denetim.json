@@ -1,7 +1,9 @@
 {
   "id": "olay-sanayi-devrimi",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:40.441Z",
+  "zaman": "2026-08-28T18:33:18.055Z",
+  "govde_hash": "cc73f88049fa",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

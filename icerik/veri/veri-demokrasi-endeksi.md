@@ -85,7 +85,7 @@ kendisi [Meşruiyet](/kavram/mesruiyet/) dosyasında ele alınıyor.
 
 ## Ölçek
 
-Uzun dönemli seride dünya nüfusu 1789'da yaklaşık 938,2 milyon, 2025'te yaklaşık
+Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 2025'te yaklaşık
 8,23 milyardır.[^k2] Endeks bir orandır ve nüfusla ağırlıklandırılmamıştır; bu
 dosyada nüfusa göre yeniden hesaplama yapılmamıştır.[^k1]
 

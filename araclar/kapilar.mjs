@@ -24,6 +24,8 @@ import { kaynakDenetimi } from './linter-kaynak.mjs';
 import { tekrarDenetimi } from './linter-tekrar.mjs';
 import { savunanDenetimi } from './linter-savunan.mjs';
 import { ozetDenetimi } from './linter-ozet.mjs';
+import { dilDenetimi } from './linter-dil.mjs';
+import { sayiDenetimi } from './linter-sayi.mjs';
 
 export const YAYIN_DURUMU = 'onaylandi';
 
@@ -111,6 +113,8 @@ export async function kapilariCalistir(mod = '--lint') {
     raporlar.push(tekrarDenetimi(makaleler));
     raporlar.push(savunanDenetimi(makaleler));
     raporlar.push(ozetDenetimi(makaleler));
+    raporlar.push(dilDenetimi(makaleler));
+    raporlar.push(sayiDenetimi(makaleler));
   }
   if (mod === '--pre' || mod === '--tam') raporlar.push(onayFiltresi(makaleler));
   if (mod === '--ag' || mod === '--pre' || mod === '--tam') {

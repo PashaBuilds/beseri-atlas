@@ -1,5 +1,5 @@
 ## kavram-hint-okyanusu-ticareti
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:45.686Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:25.490Z_
 
 - [ISARET]  k1 → "Hint Okyanusu ticareti, Doğu Afrika kıyısından Güneydoğu Asya'ya uzanan ve yüzyıllar boyunca kesintisiz işleye…" — özel isim kaynakta bulunamadı: Afrika
 - [OK]      k3 → "Hint Okyanusu ticareti, Doğu Afrika kıyısından Güneydoğu Asya'ya uzanan ve yüzyıllar boyunca kesintisiz işleye…" — 1 atom doğrulandı; 3 ad ölçülemedi

@@ -1,5 +1,5 @@
 ## kaynak-weber-protestan-ahlaki
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.931Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:31.425Z_
 
 - [OK]      k1 → "Kaynak eserleri künyeleriyle sıralar ve bu eseri 1904-1905 aralığıyla verir; aynı listede Dünya Dinlerinin İkt…" — 9 atom doğrulandı; 4 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bir eserin künyesinin iki yılla verilmesi, metnin tek bir yayında değil bölümler hâlinde çıktığı anlamına geli…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

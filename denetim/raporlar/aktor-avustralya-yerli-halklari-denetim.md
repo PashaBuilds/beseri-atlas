@@ -1,5 +1,5 @@
 ## aktor-avustralya-yerli-halklari
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:41.278Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:19.149Z_
 
 - [OK]      k1 → "Bu dosya, Avustralya kıtasının ve Torres Boğazı adalarının yerli halklarını konu edinir." — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kıtadaki insan yerleşimi, bilinen en uzun kesintisiz yerleşimdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

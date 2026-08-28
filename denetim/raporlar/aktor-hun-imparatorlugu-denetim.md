@@ -1,5 +1,5 @@
 ## aktor-hun-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:42.408Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:20.732Z_
 
 - [OK]      k1 → "Bu konfederasyonun tarihi, kaynağın kendisinde tek bir kişinin adıyla üçe bölünür: Attila'dan önce, Attila dön…"
 - [ATOMSUZ] k1 → "Bir siyasi yapının bütün tarihinin tek bir hükümdarın adıyla bölümlenmesi, kayıt tabanının o kişi etrafında yo…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

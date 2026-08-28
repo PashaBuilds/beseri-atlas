@@ -1,5 +1,5 @@
 ## kaynak-gibbon-roma
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:49.299Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:30.400Z_
 
 - [OK]      k1 → "ciltlerin 1781'de, son üç cildin (IV-VI) 1788'de birlikte çıktığını kaydeder."
 - [OK]      k1 → "Kaynak, birinci cildin 1776 ile 1789 arasında art arda altı gözden geçirilmiş baskı hâlinde yeniden yayımlandı…"

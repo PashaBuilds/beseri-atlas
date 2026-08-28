@@ -1,5 +1,5 @@
 ## tartisma-belge-ne-zaman-yururlukte
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:47.043Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:27.465Z_
 
 - [ATOMSUZ] k1 → "Bir hukuki metnin yürürlükte olduğunu söylemek olağan bir ifadedir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Atlasın belge katmanındaki on künyeden en az dördü bu soruda birbirine düşer." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

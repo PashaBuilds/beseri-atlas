@@ -1,5 +1,5 @@
 ## aktor-haudenosaunee
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:42.251Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:20.483Z_
 
 - [OK]      k1 → "Haudenosaunee Konfederasyonu, Kuzey Amerika'nın kuzeydoğusunda kurulmuş ve bugün de varlığını sürdüren bir siy…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k2 → "Birlik, ortak bir hukuk metni etrafında kuruldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

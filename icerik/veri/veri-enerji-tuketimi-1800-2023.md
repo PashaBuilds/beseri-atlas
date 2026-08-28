@@ -65,8 +65,8 @@ grafikte gösterilmesi, ölçek farkı nedeniyle üçünü görünmez kılar.[^k
 
 ## Kişi başı hesap kaynakta yoktur
 
-Uzun dönemli nüfus serisinde dünya nüfusu 1800 için yaklaşık 990,4 milyon, 2020
-için yaklaşık 7,84 milyardır.[^k2]
+Uzun dönemli nüfus serisinde dünya nüfusu 1800 için yaklaşık 983,1 milyon, 2020
+için yaklaşık 7,89 milyardır.[^k2]
 
 Atlas iki seriyi bölerek kişi başına enerji tüketimi üretmez; iki kümenin gözlem
 yılları aynı değildir ve böyle bir hesap kullanılan kaynak bölümlerinde

@@ -1,5 +1,5 @@
 ## olay-cernobil
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:38.615Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:15.688Z_
 
 - [OK]      k1 → "26 Nisan 1986'da, yerel saatle 01:23'te, Çernobil Nükleer Santrali'nin 4 numaralı reaktörü patladı; yer Pripya…" — 1 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k1 → "Kaynağın kronolojisi şu sırayı verir: 28 Nisan Pazartesi saat 09:30'da İsveç'teki Forsmark Nükleer Santrali'ni…" — 1 atom doğrulandı; 3 ad ölçülemedi

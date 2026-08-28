@@ -1,5 +1,5 @@
 ## olay-yesil-devrim
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:40.926Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:18.694Z_
 
 - [OK]      k1 → "Bu dönüşümün başlatıcıları devletler değil vakıflardır: hem Ford Vakfı hem Rockefeller Vakfı, programın Meksik…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kıtasal ölçekli bir tarım programının iki özel vakıf tarafından başlatılması, 20." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

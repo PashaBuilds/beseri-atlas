@@ -1,7 +1,9 @@
 {
   "id": "kavram-kolelik",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:46.045Z",
+  "zaman": "2026-08-28T18:33:25.985Z",
+  "govde_hash": "b6b57e740da2",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

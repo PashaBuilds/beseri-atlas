@@ -12,8 +12,20 @@
 //
 //   node araclar/denetle.mjs [<id> ...]
 import path from 'node:path';
+import crypto from 'node:crypto';
+import { execSync } from 'node:child_process';
 import { KOK, makaleleriTopla, yaz, RENK } from './ortak.mjs';
 import { getir, normalize } from './getir.mjs';
+
+/** Raporun bagli oldugu govdenin parmak izi. Govde degisince rapor bayattir. */
+export function govdeHash(govde) {
+  return crypto.createHash('sha1').update(govde).digest('hex').slice(0, 12);
+}
+
+function suankiCommit() {
+  try { return execSync('git rev-parse --short HEAD', { cwd: KOK }).toString().trim(); }
+  catch { return null; }
+}
 
 const BUYUK = 'A-ZÇĞİÖŞÜ';
 const KUCUK = 'a-zçğıiöşü';
@@ -119,9 +131,11 @@ function isimDurumu(kaynakMetni, isim, kaynakTurkce) {
 export async function makaleyiDenetle(m) {
   const kaynakHaritasi = new Map((m.fm.kaynaklar || []).map((k) => [k.anahtar, k]));
   const metinler = new Map();
+  const kesikler = new Set();
   for (const [anahtar, k] of kaynakHaritasi) {
     const r = await getir(k.url);
     metinler.set(anahtar, r.durum === 200 ? normalize(`${r.baslik || ''} ${r.metin || ''}`) : null);
+    if (r.kesildi) kesikler.add(anahtar);
   }
 
   const sonuclar = [];
@@ -153,8 +167,12 @@ export async function makaleyiDenetle(m) {
       let not = '';
       if (eksikSayisal.length > 0) {
         // Sayısal atom dilden bağımsızdır: kaynakta yoksa iddia oradan çıkmamıştır.
-        durum = 'HATA';
-        not = `kaynakta bulunamayan sayısal değer: ${[...new Set(eksikSayisal.map((a) => a.deger))].join(', ')}`;
+        // İstisna: metin 400k'da kesildiyse "yok" kesin değildir — HATA yerine
+        // İŞARET üretilir ki kesme sınırı sahte hata doğurmasın.
+        const kesikKaynak = refs.some((rf) => kesikler.has(rf));
+        durum = kesikKaynak ? 'ISARET' : 'HATA';
+        not = `kaynakta bulunamayan sayısal değer: ${[...new Set(eksikSayisal.map((a) => a.deger))].join(', ')}`
+          + (kesikKaynak ? ' (kaynak metni 400k sınırında kesildi; kesin sayılmaz)' : '');
       } else if (eksikIsim.length > 0) {
         durum = 'ISARET';
         not = `özel isim kaynakta bulunamadı: ${eksikIsim.map((a) => a.deger).join(', ')}`;
@@ -170,7 +188,12 @@ export async function makaleyiDenetle(m) {
       sonuclar.push({ anahtar: ref, iddia: cumle.slice(0, 160), durum, not });
     }
   }
-  return { id: m.fm.id, gecis: 2, zaman: new Date().toISOString(), sonuclar };
+  return {
+    id: m.fm.id, gecis: 2, zaman: new Date().toISOString(),
+    // Bayatlik tespiti: rapor, uretildigi andaki govdeye ve commit'e baglanir.
+    govde_hash: govdeHash(m.govde), commit: suankiCommit(),
+    sonuclar,
+  };
 }
 
 function markdownYaz(rapor) {

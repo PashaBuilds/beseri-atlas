@@ -1,7 +1,9 @@
 {
   "id": "olay-pasifik-nukleer-denemeleri",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:40.187Z",
+  "zaman": "2026-08-28T18:33:17.721Z",
+  "govde_hash": "eb75a756e5c1",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

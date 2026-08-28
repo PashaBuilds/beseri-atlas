@@ -1,5 +1,5 @@
 ## olay-mansa-musa-haci
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:39.837Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:17.265Z_
 
 - [OK]      k1 → "Musa 1324'te Mekke'ye hacca gitti; yanında çok büyük bir maiyet ve çok miktarda altın vardı, yol üstünde Kahir…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kaynak kervanda 80 deve bulunduğunu ve her birinin 23-136 kg altın tozu taşıdığının söylendiğini aktarır; heme…"

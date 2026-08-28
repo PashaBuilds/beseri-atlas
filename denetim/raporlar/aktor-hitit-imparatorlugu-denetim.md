@@ -1,5 +1,5 @@
 ## aktor-hitit-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:42.337Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:20.620Z_
 
 - [OK]      k1 → "Hitit İmparatorluğu yaklaşık MÖ 1650 ile MÖ 1200 arasında Hattuşa merkezli olarak varlığını sürdürdü; nüfusu 2…"
 - [OK]      k1 → "Hitit dili, Hint-Avrupa dil ailesinin Anadolu koluna ait ayrı bir üyeydi ve konuşanları tarafından "Nesa'nın d…" — 2 atom doğrulandı; 1 ad ölçülemedi

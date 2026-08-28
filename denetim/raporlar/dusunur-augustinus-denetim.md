@@ -1,5 +1,5 @@
 ## dusunur-augustinus
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:44.205Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:23.229Z_
 
 - [OK]      k1 → "Kaynak onu Hippolu Augustinus başlığı altında işler ve Antik Çağ'ın belki en büyük Hıristiyan filozofu olduğun…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kaynağın nitelemesi "belki" ile açılır ve ardından bir kesinlik ifadesiyle sürer." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

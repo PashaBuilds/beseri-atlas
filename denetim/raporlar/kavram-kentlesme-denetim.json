@@ -1,7 +1,9 @@
 {
   "id": "kavram-kentlesme",
   "gecis": 2,
-  "zaman": "2026-08-28T18:13:46.008Z",
+  "zaman": "2026-08-28T18:33:25.929Z",
+  "govde_hash": "8bd4c61980f0",
+  "commit": "1d273c7",
   "sonuclar": [
     {
       "anahtar": "k1",

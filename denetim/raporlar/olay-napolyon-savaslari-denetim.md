@@ -1,5 +1,5 @@
 ## olay-napolyon-savaslari
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:40.040Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:17.525Z_
 
 - [OK]      k1 → "Bu savaş dizisinin yapısı, kaynağın kendi bölümlemesinde koalisyon numaralarıyla verilir: Üçüncü Koalisyon Sav…" — 4 atom doğrulandı; 4 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bir çatışma dizisinin koalisyon numaralarıyla anılması, karşı tarafın her seferinde yeniden kurulduğunu göster…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

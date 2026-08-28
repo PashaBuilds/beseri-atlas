@@ -1,5 +1,5 @@
 ## kavram-millet-sistemi
-_Geçiş 2 — kaynak denetimi · 2026-08-28T18:13:46.247Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:33:26.284Z_
 
 - [OK]      k1 → "Kaynak bölümlerini sıralar: terim, kavram, Osmanlı hiyerarşisi içindeki konum, belirli milletler ve tarih."
 - [ATOMSUZ] k1 → "Bir sözcüğün ve onun adlandırdığı düzenin ayrı bölümler olarak tutulması, atlasın terim kilidi kapısının kurum…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
