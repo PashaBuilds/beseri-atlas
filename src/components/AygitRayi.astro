@@ -42,7 +42,10 @@ const tarih = [veri.tarih_baslangic, veri.tarih_bitis].filter(Boolean).join(' ��
   <div class="ray__blok">
     <div class="ray__baslik">G羹ven seviyesi</div>
     <div class="ray__deger">
-      <span class={`guven guven--${veri.guven_geneli}`}>{GUVEN_ADLARI[veri.guven_geneli]}</span>
+      <a class="guven-bag" href={bag('/hakkinda/#guven-seviyeleri')}
+         title="Bu seviyenin tan覺m覺 i癟in Hakk覺nda sayfas覺">
+        <span class={`guven guven--${veri.guven_geneli}`}>{GUVEN_ADLARI[veri.guven_geneli]}</span>
+      </a>
     </div>
   </div>
 
