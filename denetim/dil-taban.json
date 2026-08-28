@@ -1,6 +1,6 @@
 {
   "aciklama": "KAPI 18 dil borcu defteri. Kapinin devreye girdigi andaki kalip gecis sayilari. Yalnizca --dil-taban-yaz ile ve yalnizca asagi yonde guncellenir; onarim borcu eritir, defter borcu gizleyemez.",
-  "zaman": "2026-08-28T18:32:55.562Z",
+  "zaman": "2026-08-28T19:44:48.272Z",
   "makaleler": {
     "donem-01": {
       "atlas_oz": 39,
@@ -488,12 +488,6 @@
       "ayrica_kaydeder": 0,
       "sablon_kapanis": 1
     },
-    "olay-paris-iklim-anlasmasi": {
-      "atlas_oz": 0,
-      "bu_dosya": 1,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 1
-    },
     "olay-pasifik-nukleer-denemeleri": {
       "atlas_oz": 14,
       "bu_dosya": 5,
@@ -782,12 +776,6 @@
       "ayrica_kaydeder": 0,
       "sablon_kapanis": 2
     },
-    "aktor-cahokia": {
-      "atlas_oz": 13,
-      "bu_dosya": 8,
-      "ayrica_kaydeder": 2,
-      "sablon_kapanis": 2
-    },
     "aktor-chola": {
       "atlas_oz": 7,
       "bu_dosya": 11,
@@ -956,12 +944,6 @@
       "ayrica_kaydeder": 1,
       "sablon_kapanis": 2
     },
-    "aktor-imf": {
-      "atlas_oz": 1,
-      "bu_dosya": 2,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 1
-    },
     "aktor-indus-vadisi": {
       "atlas_oz": 10,
       "bu_dosya": 15,
@@ -1044,12 +1026,6 @@
       "atlas_oz": 11,
       "bu_dosya": 9,
       "ayrica_kaydeder": 2,
-      "sablon_kapanis": 2
-    },
-    "aktor-kus-kralligi": {
-      "atlas_oz": 11,
-      "bu_dosya": 8,
-      "ayrica_kaydeder": 0,
       "sablon_kapanis": 2
     },
     "aktor-kusan-imparatorlugu": {
@@ -1201,12 +1177,6 @@
       "bu_dosya": 3,
       "ayrica_kaydeder": 0,
       "sablon_kapanis": 1
-    },
-    "aktor-rapa-nui": {
-      "atlas_oz": 11,
-      "bu_dosya": 4,
-      "ayrica_kaydeder": 5,
-      "sablon_kapanis": 2
     },
     "aktor-roma-imparatorlugu": {
       "atlas_oz": 0,
@@ -1568,12 +1538,6 @@
       "ayrica_kaydeder": 0,
       "sablon_kapanis": 1
     },
-    "dusunur-marx": {
-      "atlas_oz": 2,
-      "bu_dosya": 4,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 1
-    },
     "dusunur-mengzi": {
       "atlas_oz": 14,
       "bu_dosya": 5,
@@ -1838,12 +1802,6 @@
       "ayrica_kaydeder": 5,
       "sablon_kapanis": 1
     },
-    "kavram-hegemonya": {
-      "atlas_oz": 1,
-      "bu_dosya": 2,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 1
-    },
     "kavram-himaye-duzeni": {
       "atlas_oz": 8,
       "bu_dosya": 2,
@@ -1865,12 +1823,6 @@
     "kavram-ictihad": {
       "atlas_oz": 0,
       "bu_dosya": 2,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 1
-    },
-    "kavram-ideal-tip": {
-      "atlas_oz": 1,
-      "bu_dosya": 1,
       "ayrica_kaydeder": 0,
       "sablon_kapanis": 1
     },
@@ -2722,9 +2674,9 @@
     },
     "kaynak-ibn-haldun-mukaddime": {
       "atlas_oz": 1,
-      "bu_dosya": 3,
+      "bu_dosya": 1,
       "ayrica_kaydeder": 0,
-      "sablon_kapanis": 1
+      "sablon_kapanis": 0
     },
     "kaynak-insan-haklari-beyannamesi": {
       "atlas_oz": 6,
