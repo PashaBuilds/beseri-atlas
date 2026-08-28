@@ -35,11 +35,16 @@ import { Rapor, KOK, makaleleriTopla, varMi, oku } from './ortak.mjs';
 const DIST = path.join(KOK, 'dist');
 
 // Site GitHub Pages proje sayfasi olarak bir alt dizinde yayimlanir; derlenmis
-// href'ler o taban ile baslar ama dist/ agacinda taban dizini YOKTUR. Tabani
-// astro.config.mjs'den okuyup soyuyoruz — elle ikinci bir yere yazmak, iki
-// degerin ayrisabilecegi bir nokta yaratirdi.
-const TABAN = (/^const TABAN = ['"`]([^'"`]*)['"`]/m.exec(oku(path.join(KOK, 'astro.config.mjs')))?.[1] || '')
-  .replace(/\/+$/, '');
+// href'ler o taban ile baslar ama dist/ agacinda taban dizini YOKTUR. Taban,
+// astro.config.mjs MODUL OLARAK import edilerek okunur — kaynak kodu regex'le
+// kazimak, config'teki satir bicimi degistiginde sessizce bos donuyordu
+// (2026-08-28 kesif dalgasi bulgusu). Modul importu bicimden bagimsizdir.
+const { default: astroConfig } = await import(path.join(KOK, 'astro.config.mjs'));
+const TABAN = String(astroConfig?.base || '').replace(/\/+$/, '');
+if (!TABAN) {
+  // Sessiz ayrisma yasak: taban okunamiyorsa KAPI 12 ic bag denetimi anlamsizlasir.
+  throw new Error('linter-cikti: astro.config.mjs base okunamadi — ic bag denetimi calisamaz');
+}
 
 /** Derlenmis bir href'i dist/ agacindaki yola cevirir. */
 export function tabaniSoy(href) {
