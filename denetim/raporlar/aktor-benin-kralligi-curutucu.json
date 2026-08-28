@@ -1,0 +1,56 @@
+{
+  "id": "aktor-benin-kralligi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.129Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu tek etiket kendi başına bir bilgidir.[^k1] Atlasın öteki Batı Afrika dosyalarının çoğu İslam dünyası etiketini de taşır; bu krallık, Sahra ticaretinin ve onunla gelen yazı gelen",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İkincisi katılımın nasıl değerlendirileceğidir.[^k1] Bu soru, tarafların elindeki seçeneklerin neler olduğuna ve talebin nereden geldiğine bağlıdır; ve burada kaynaklar tek bir cev",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden bu dosyada şehir ölçüsü vermez.[^k3] Kaydedilen şey, birden çok bağımsız gözlemcinin şehri düzenli ve büyük olarak tarif etmiş olmasıdır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu olay, atlasın kaynak katmanını doğrudan ilgilendirir.[^k3] Krallık hakkındaki en önemli kanıt yığını, bugün krallığın bulunduğu ülkenin dışındaki müzelerdedir.",
+      "sorun": "\"en önemli\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden süreyi geniş bir aralık olarak verir ve kesinlik önermez.[^k1] Künyedeki tarihler yerleşmiş kabulü yansıtır, bir ölçüm değildir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosya, atlasın Afrika aktör katmanına orman kuşağından ilk düzeni ekler.[^k2] Katmandaki öteki dosyalar Sahel kuşağı, Doğu Afrika kıyısı ve Habeşistan yaylasındaydı.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bu dosyanın yazılabilmesi, üçüncü bir kanıt türünün varlığı sayesindedir.[^k3] Döküm eserler olmasaydı, krallık atlasta yalnızca ziyaretçi kayıtlarından tanınan bir konu olarak kal",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

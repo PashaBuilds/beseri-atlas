@@ -1,0 +1,361 @@
+{
+  "id": "dusunur-ibn-sina",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:25.884Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "İbn Sînâ, Sâmânî hâkimiyetindeki Buhara çevresinde doğdu ve yetişti; hayatının büyük bölümünü İran'ın çeşitli hanedan merkezlerinde, hekim ve saray görevlisi ol",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İbn Sînâ, Sâmânî hâkimiyetindeki Buhara çevresinde doğdu ve yetişti; hayatının büyük bölümünü İran'ın çeşitli hanedan merkezlerinde, hekim ve saray görevlisi ol",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlasın bölge şeması, siyasi birimleri doğdukları coğrafyaya göre ayırır; bir düşünürün hem Buhara'nın hem de İran'daki hanedan merkezlerinin çevresinde çalışmı",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlasın bölge şeması, siyasi birimleri doğdukları coğrafyaya göre ayırır; bir düşünürün hem Buhara'nın hem de İran'daki hanedan merkezlerinin çevresinde çalışmı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Felsefe geleneği bakımından 'nin açtığı yoldan ilerler: Aristoteles'ten gelen mantık ve metafizik çerçevesini İslam düşüncesinin sorularıyla birleştirir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynaklar iki eserini ayrı ayrı öne çıkarır: tıp alanında el-Kânûn fi't-tıb, felsefe alanında Kitâbü'ş-Şifâ.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaynaklar iki eserini ayrı ayrı öne çıkarır: tıp alanında el-Kânûn fi't-tıb, felsefe alanında Kitâbü'ş-Şifâ.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Biri hekimlik pratiğine ve tıp eğitimine yerleşir; öteki metafizik tartışmasının terimlerini belirler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Biri hekimlik pratiğine ve tıp eğitimine yerleşir; öteki metafizik tartışmasının terimlerini belirler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Şifâ'nın metafizik bölümü bağımsız bir çeviri olarak yayımlanmıştır ve bu dosya o metne bağlanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İbn Sînâ'nın metafiziğinin merkezinde, bir şeyin ne olduğu ile var olduğu arasındaki ayrım durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İbn Sînâ'nın metafiziğinin merkezinde, bir şeyin ne olduğu ile var olduğu arasındaki ayrım durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir şeyin mahiyetini bilmek, onun var olup olmadığını bilmek anlamına gelmez; varlık, mahiyete dışarıdan eklenen bir şeydir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu ayrım üzerinden zorunlu varlık ile mümkün varlık arasında bir sınır çizilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu ayrım üzerinden zorunlu varlık ile mümkün varlık arasında bir sınır çizilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mümkün olan, var olmak için kendisi dışında bir sebebe muhtaçtır; zorunlu olan ise varlığını kendinden alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sebepler zincirinin sonsuza gitmesi kabul edilmediğinde, zincirin ucunda kendisi mümkün olmayan bir varlık kalır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sonraki iki yüzyıl boyunca hem reddiyeler hem savunular, tartışmayı onun kurduğu terimlerle sürdürmüştür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sonraki iki yüzyıl boyunca hem reddiyeler hem savunular, tartışmayı onun kurduğu terimlerle sürdürmüştür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metafiziğin yanında, nefsin bedenden ayrı bir cevher olup olmadığı sorusu üzerine yürüttüğü tartışma da sonraki literatürde geniş yer tutar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu tartışma, bilginin nasıl edinildiği sorusuyla iç içedir: duyudan gelen ile akılla kavranan arasındaki ayrım, onun sisteminde ayrı bir başlık altında işlenir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Beden üzerine yazan bir hekimle nefs üzerine yazan bir filozofun aynı kişi olması, atlasın onu tek bir eksen altında sınıflamamasının dayanağıdır; dosyanın ekse",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Beden üzerine yazan bir hekimle nefs üzerine yazan bir filozofun aynı kişi olması, atlasın onu tek bir eksen altında sınıflamamasının dayanağıdır; dosyanın ekse",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": ", filozofların belirli tezlerini hedef alan bir reddiye yazmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": ", filozofların belirli tezlerini hedef alan bir reddiye yazmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu metnin İslam dünyasında felsefî etkinliği bitirip bitirmediği ayrı bir tartışmadır; atlas bu konuda hüküm vermez ve iki tarafın da kaydını tutar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu metnin İslam dünyasında felsefî etkinliği bitirip bitirmediği ayrı bir tartışmadır; atlas bu konuda hüküm vermez ve iki tarafın da kaydını tutar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eserlerinin Latinceye çevrilmesi, İbn Sînâ'yı Batı Avrupa'daki üniversite tartışmalarının doğrudan muhatabı hâline getirdi.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Böylece aynı metinler iki ayrı gelenekte, farklı sorularla okundu: bir yanda İslam dünyasındaki kelâm tartışmaları, öte yanda Latin skolastiğinin varlık tartışm",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Varlık ile mahiyet ayrımının Latin tartışmasına geçmesi, atlasın bu dosyayı yalnızca İslam düşüncesi başlığı altında tutmamasının sebebidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya üç kaynağa dayanır: felsefe tarafında bir akademik ansiklopedi maddesi, Türkçe akademik literatürden bir madde, ve Şifâ'nın metafizik bölümünün çeviris",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türkçe"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya üç kaynağa dayanır: felsefe tarafında bir akademik ansiklopedi maddesi, Türkçe akademik literatürden bir madde, ve Şifâ'nın metafizik bölümünün çeviris",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya üç kaynağa dayanır: felsefe tarafında bir akademik ansiklopedi maddesi, Türkçe akademik literatürden bir madde, ve Şifâ'nın metafizik bölümünün çeviris",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türkçe"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tıp eserinin içeriği ve onun tıp eğitimindeki yeri burada işlenmez; ayrı bir kaynak dosyası gerektirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mantık yazıları da aynı şekilde dışarıdadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şifâ, tek bir konuyu değil bir müfredatı kapsar: mantık, doğa felsefesi, matematik bilimleri ve metafizik ayrı ayrı ele alınır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metafizik bölümü bu sıranın sonunda gelir; önceki bölümlerde kurulan kavramları varsayarak ilerler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metafizik bölümü bu sıranın sonunda gelir; önceki bölümlerde kurulan kavramları varsayarak ilerler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metafizik bölümünü tek başına okumak, orada kullanılan terimlerin daha önce tanımlanmış olduğunu gözden kaçırma riski taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eserin bütününü tek bir tez cümlesine indirmek mümkün değildir; kaynaklar da böyle bir indirgeme yapmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Eserin bütününü tek bir tez cümlesine indirmek mümkün değildir; kaynaklar da böyle bir indirgeme yapmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İbn Sînâ'dan sonra yazılan felsefe metinlerinin önemli bir bölümü, onun eserlerine yazılmış şerhler ya da onlara verilmiş cevaplar biçimindedir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İbn Sînâ'dan sonra yazılan felsefe metinlerinin önemli bir bölümü, onun eserlerine yazılmış şerhler ya da onlara verilmiş cevaplar biçimindedir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şerh geleneğinin yoğunluğu, o metnin doğru olduğunu göstermez; yalnızca tartışmanın merkezinde durduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Türkçe akademik literatürde de aynı yapı görülür: madde, onun eserlerini ve o eserler üzerine yürütülen tartışmaları ayrı başlıklar altında işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Önceki makalelerin çoğu ansiklopedi maddelerine dayanıyordu; bu dosya üç ayrı alan adına dayanır ve künyesinde giriş kapısı niteliğinde bir kaynak bulunmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Önceki makalelerin çoğu ansiklopedi maddelerine dayanıyordu; bu dosya üç ayrı alan adına dayanır ve künyesinde giriş kapısı niteliğinde bir kaynak bulunmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Önceki makalelerin çoğu ansiklopedi maddelerine dayanıyordu; bu dosya üç ayrı alan adına dayanır ve künyesinde giriş kapısı niteliğinde bir kaynak bulunmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Orta Asya bölgesinin atlastaki kapsamı bu dosya yazıldığında dar kalıyordu.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Asya"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Orta Asya bölgesinin atlastaki kapsamı bu dosya yazıldığında dar kalıyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yaşadığı yıllar, atlasın kronolojik omurgasında iki dönemin kesiştiği yere düşer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yaşadığı yıllar, atlasın kronolojik omurgasında iki dönemin kesiştiği yere düşer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İbn Sînâ'nın metinlerinin sonraki yüzyıllarda hem şerh hem reddiye üretmeyi sürdürmesi, onu tek bir sütuna yerleştirmenin neden yanıltıcı olacağını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İbn Sînâ'nın metinlerinin sonraki yüzyıllarda hem şerh hem reddiye üretmeyi sürdürmesi, onu tek bir sütuna yerleştirmenin neden yanıltıcı olacağını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlasın düşünür dosyaları, bir düşünürün görüşlerini özetlemek yerine onun hangi tartışmanın neresinde durduğunu göstermek üzere yazılır; görüşlerin kendisi içi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlasın düşünür dosyaları, bir düşünürün görüşlerini özetlemek yerine onun hangi tartışmanın neresinde durduğunu göstermek üzere yazılır; görüşlerin kendisi içi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Şifâ'nın metafizik bölümünün çevirisi bağlıdır; esere yapılacak atıflar makale ve fasıl numarasıyla verilmelidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Felsefî itirazla fıkhî yöntem tartışması aynı şey değildir; atlas ikisini ayrı tiplerde işler ve aralarındaki bağı künyeden değil metinden kurar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Felsefî itirazla fıkhî yöntem tartışması aynı şey değildir; atlas ikisini ayrı tiplerde işler ve aralarındaki bağı künyeden değil metinden kurar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

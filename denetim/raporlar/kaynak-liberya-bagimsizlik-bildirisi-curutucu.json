@@ -1,0 +1,28 @@
+{
+  "id": "kaynak-liberya-bagimsizlik-bildirisi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.175Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Metin, imzacıların geldikleri ülkede maruz kaldıkları hukuki ve toplumsal dışlanmayı sayar.[^k1] Mülkiyet, eğitim ve yargı önündeki engeller tek tek anılır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Yurttaşlık kapsamı yirminci yüzyıl ortasında genişletildi.[^k2] Değişim, iç ve dış baskıların birlikte etkisiyle gerçekleşti.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Hak kapsamı dizisinin öteki halkaları için [İnsan Hakları Evrensel Beyannamesi](/kaynak/insan-haklari-beyannamesi/) ve [Magna Carta](/kaynak/magna-carta/) dosyaları okunmalıdır.[^k",
+      "sorun": "Makale afrika/amerika kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    }
+  ]
+}

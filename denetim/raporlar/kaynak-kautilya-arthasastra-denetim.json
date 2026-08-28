@@ -1,0 +1,133 @@
+{
+  "id": "kaynak-kautilya-arthasastra",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:26.762Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Arthaşastra, bir devletin nasıl kurulacağını ve ayakta tutulacağını konu edinen, el kitabı düzeninde yazılmış bir yönetim metnidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Arthaşastra, bir devletin nasıl kurulacağını ve ayakta tutulacağını konu edinen, el kitabı düzeninde yazılmış bir yönetim metnidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kapsam geniştir ve başlıklar birbirinden ayrılmıştır: hazine ve gelir yönetimi, görevlilerin denetimi, tarım ve sulama düzeni, madenler, ceza usulü, casus ağını",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin ana iddiası tek cümleyle söylenebilir: yönetim, öğrenilebilir ve denetlenebilir bir tekniktir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metnin ana iddiası tek cümleyle söylenebilir: yönetim, öğrenilebilir ve denetlenebilir bir tekniktir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin ne zaman yazıldığı çözülmüş değildir ve künyedeki tarih bir tercihtir, bir tespit değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metin üzerine yapılan dil ve içerik incelemeleri ise bugünkü derlenmiş biçimin daha geç bir tarihte oluştuğunu ileri sürer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tercih, metnin ilişkilendirildiği hanedan dosyasıyla tutarlılık içindir; doğruluk iddiası taşımaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin tek bir kişi tarafından mı yazıldığı, yoksa katmanlı biçimde mi oluştuğu ayrıca tartışılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metin tek elden çıktıysa tutarlı bir öğreti olarak okunabilir; katmanlıysa, içindeki gerilimler yazarın çelişkisi değil farklı dönemlerin izidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki okumadan birini benimsemez ve metni yazarına değil kendisine bağlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas iki okumadan birini benimsemez ve metni yazarına değil kendisine bağlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlasın kaynak katmanı, bu dosya yazılana kadar ağırlıklı olarak Avrupa ve Doğu Asya metinlerinden oluşuyordu.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Avrupa, Asya"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir bölge hakkında dosya bulunması ile o bölgenin kendi metninin atlasa girmesi ayrı şeylerdir; ikincisi olmadan bölge, başkalarının anlattığı bir konu olarak k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin seçilme gerekçesi, hem özgün dilde hem çeviride erişilebilir olmasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metnin seçilme gerekçesi, hem özgün dilde hem çeviride erişilebilir olmasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya metnin ne olduğunu ve hangi tartışmalara girdiğini kaydeder; bölümlerinin içeriğini özetlemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin sonraki Güney Asya siyasi düşüncesindeki yeri, yeniden keşfi ve çağdaş yorumları da burada işlenmez.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Böyle bir karşılaştırma, dosyasında kaydedilen riski taşır: bugünün kavramları geçmişin metnine yüklenir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metne yapılacak atıflarda kitap ve bölüm numarası ile kullanılan çeviri belirtilmelidir; kaynak özgün dildeki metni de sunduğu için çeviri tercihleri karşılaştı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metne yapılacak atıflarda kitap ve bölüm numarası ile kullanılan çeviri belirtilmelidir; kaynak özgün dildeki metni de sunduğu için çeviri tercihleri karşılaştı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

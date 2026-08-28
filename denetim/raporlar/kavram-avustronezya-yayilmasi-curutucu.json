@@ -1,0 +1,63 @@
+{
+  "id": "kavram-avustronezya-yayilmasi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.163Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosya, atlasın **Okyanusya bölgesindeki ilk dosyasıdır.**[^k2] Bölge etiketi, bu dosya yazılırken atlasın şemasına eklendi; o zamana kadar şema, bir dünya bölgesini temsil etmey",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlasın öteki dosyalarında bu kadar bağımsız kanıt türü seyrek bulunur.[^k1] Üçünün aynı yönü göstermesi, tek bir kanıt türüne dayanmaktan çok daha güçlü bir zemindir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Teknoloji tek başına yeterli değildir.[^k2] Bir adaya varmak kadar oraya yerleşebilmek de gerekir; bu, yanınızda bitki, hayvan ve tohum taşımayı ve varılan yerde bunları üretime so",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yayılmanın batı ucundaki büyük ada, dil olarak bu aileye bağlıdır ve Afrika kıyısındadır.[^k1] Bu, atlasın kaydettiği en uzun tek yönlü deniz yerleşimidir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosyanın kapsamadıkları da yazılmalıdır.[^k2] Yayılmanın tek tek ada gruplarındaki seyri, yerel toplumsal düzenler ve sonraki sömürge dönemi burada işlenmez; her biri ayrı dosya ge",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yayılmanın hangi noktadan başladığı ve hangi güzergâhı izlediği, dilbilimin verdiği ağaçla kurulur.[^k1] Ağacın kökü, dil çeşitliliğinin en yüksek olduğu bölgeye yerleştirilir; en ",
+      "sorun": "\"en eski\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "yuksek",
+      "tip": "kesinlik-dili",
+      "cumle": "Bu ölçütün bir varsayımı vardır ve beyan edilmelidir.[^k3] Çeşitliliğin zamanla arttığı varsayılır; oysa çeşitlilik, göç, izolasyon ve nüfus kayıplarıyla da değişir ve her zaman ya",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas ölçütü kaydeder ve mutlak saymaz.[^k2] Dilbilimsel ağacın verdiği yön arkeoloji tarafından desteklendiği ölçüde güçlüdür; tek başına bir yayılma tarihi kurmaz.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "aktor-rapa-nui",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.147Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Son yirmi yılda yapılan çalışmalar anlatının her adımını sorgulamıştır.[^k3] İtirazlar tek bir noktaya değil zincirin tamamına yöneliktir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosyanın kaydettiği kural tek cümleyle ifade edilebilir.[^k3] **Bir çöküş anlatısı, kanıttan önce bir fail seçtiğinde, kanıt o failin çevresinde toplanır.**",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Adanın ilk sistematik saha çalışması yirminci yüzyıl başında yapıldı.[^k2] Çalışma, ölçümler, kazılar ve adalılarla yapılan görüşmeler içeriyordu.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bulguyu ayrıca kaydeder.[^k4] Bir çevresel kısıtla karşılaşan toplumun ilk tepkisi çökmek değil yöntem değiştirmektir ve yöntem değişimi arkeolojik olarak görünür.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

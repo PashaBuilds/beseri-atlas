@@ -1,0 +1,151 @@
+{
+  "id": "kaynak-yusuf-has-hacib-kutadgu-bilig",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:26.899Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kutadgu Bilig, iyi yönetimin neye dayandığını tartışan bir siyaset metnidir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Bilig"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kutadgu Bilig, iyi yönetimin neye dayandığını tartışan bir siyaset metnidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yöneticinin karşısına akıl, deneyim ve dünyadan çekilme ayrı ayrı çıkar; her biri kendi gerekçesini sunar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yöneticinin karşısına akıl, deneyim ve dünyadan çekilme ayrı ayrı çıkar; her biri kendi gerekçesini sunar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yöneticinin neye göre karar vereceği, ilkelerin çatışmasından çıkan bir denge olarak sunulur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir siyaset metninin öğüt yerine konuşma biçimini seçmesi, kendi başına bir tercihtir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu biçimi kaydeder çünkü kaynak dosyalarında tekrar eden bir ayrımı görünür kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yüzyılda ve yakın bir siyasi çevrede yazılmış öteki yönetim metinleri için dosyası okunmalıdır; iki metnin biçim tercihi aynı değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metin tek bir nüshadan gelmez ve nüshalar arasında farklar bulunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metin tek bir nüshadan gelmez ve nüshalar arasında farklar bulunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kullanılan kaynak, Uygur harfli metni ve çevirisini birlikte sunar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Uygur"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu yüzden bu dosyada terimleri tanımlamaya çalışmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu yüzden bu dosyada terimleri tanımlamaya çalışmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yazar hakkında bilinenlerin neredeyse tamamı metnin kendi içinden gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir kişi hakkındaki bilginin kaynağı yalnızca o kişinin eseriyse, kişi dosyası ile eser dosyası birbirinin yerine geçemez; eserin söylediği, yazarın hayatının k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu yüzden bu dosyayı esere ayırmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu yüzden bu dosyayı esere ayırmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya, atlasın Orta Asya kaynak katmanındaki ikinci metindir ve birincisiyle birlikte okunmak üzere yazılmıştır.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Asya"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki metin arasında yüzyıllar ve bir din değişimi vardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu sürekliliği bir tez olarak ileri sürmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya metnin ne olduğunu ve nasıl kurulduğunu kaydeder; bölüm bölüm içeriğini vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metnin dil özellikleri, nüsha tarihi ve sonraki edebî etkisi de burada işlenmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin dil özellikleri, nüsha tarihi ve sonraki edebî etkisi de burada işlenmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metne yapılacak atıflarda beyit numarası ve kullanılan çeviri belirtilmelidir; kaynak özgün metni de sunduğu için çeviri tercihleri karşılaştırılabilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

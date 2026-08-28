@@ -1,0 +1,355 @@
+{
+  "id": "dusunur-asoka",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:25.695Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Aşoka, Maurya hanedanının hükümdarlarından biridir ve atlasta dosyası o siyasi birimi ayrıca ele alır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Maurya"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aktör dosyaları siyasi birimleri kaydeder; düşünür dosyaları, adı bir metne bağlanabilen kişileri.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aktör dosyaları siyasi birimleri kaydeder; düşünür dosyaları, adı bir metne bağlanabilen kişileri.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aşoka'nın metinleri sonradan derlenmiş öğütler değil, kendi döneminde taşa kazınmış ve imparatorluğun farklı bölgelerine dağıtılmış duyurulardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aşoka'nın metinleri sonradan derlenmiş öğütler değil, kendi döneminde taşa kazınmış ve imparatorluğun farklı bölgelerine dağıtılmış duyurulardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fermanlar kayalara ve dikilmiş sütunlara kazınmıştır; metinler bulundukları yerde, açık havada, yüzyıllar boyunca durmuştur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Fermanlar kayalara ve dikilmiş sütunlara kazınmıştır; metinler bulundukları yerde, açık havada, yüzyıllar boyunca durmuştur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aktarım zinciri burada neredeyse yoktur: bugün okunan işaretler, kazındıkları günden beri aynı taştadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yerine başka bir sorun koyar: taş aşınır, kırılır ve bazı bölümler okunamaz hâle gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metinler bugüne ulaştı ama yazıldıkları alfabe uzun süre okunamadı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Orada işaretler var, okunamıyor; burada işaretler vardı, okunamıyordu ve sonra okundu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı miktarda yazı, çözülmüş bir alfabede kütüphane, çözülmemiş bir alfabede sessizliktir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fermanların büyük bölümünde geçen ad, hükümdarın bugün bilinen adı değil bir unvan biçimidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Fermanların büyük bölümünde geçen ad, hükümdarın bugün bilinen adı değil bir unvan biçimidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Elimizde bir hükümdarın kendi ağzından çıkmış metinler vardır; hangi hükümdar olduğu ise metinden değil dışarıdan gelen bilgiyle belirlenmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Künye metnin birincil olduğunu söyler; metnin kime ait olduğunun nasıl belirlendiğini söylemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Künye metnin birincil olduğunu söyler; metnin kime ait olduğunun nasıl belirlendiğini söylemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı metin iki biçimde de okunabilir ve metnin kendisi bu ayrımı çözmez; atlas bir okumayı benimsemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı metin iki biçimde de okunabilir ve metnin kendisi bu ayrımı çözmez; atlas bir okumayı benimsemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fermanların bir kısmı, imparatorluğun batı ucunda yerel dillerde de kazınmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir yönetimin duyurusunu hangi dillerde yaptığı, o yönetimin kimi muhatap saydığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir yönetimin duyurusunu hangi dillerde yaptığı, o yönetimin kimi muhatap saydığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı içeriğin bilinen bir dildeki karşılığı, bilinmeyen dildeki metnin çözülmesine yardım eder; dosyasında böyle bir karşılaştırma metninin bulunmaması, çözümün",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Fermanlarda geçen ahlak ve yönetim dili, dönemin dinî akımlarıyla ilişkili biçimde okunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Burada kaydedilen şey daha dar bir olgudur: bir hükümdarın kendi duyurularında ahlaki bir çerçeve kullanması, yönetimin meşruiyetini nereden aldığına dair bir i",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Burada kaydedilen şey daha dar bir olgudur: bir hükümdarın kendi duyurularında ahlaki bir çerçeve kullanması, yönetimin meşruiyetini nereden aldığına dair bir i",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya üç kaynağa dayanır: fermanların iki ayrı neşri ve dinî bağlam için bir akademik ansiklopedi maddesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya üç kaynağa dayanır: fermanların iki ayrı neşri ve dinî bağlam için bir akademik ansiklopedi maddesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya üç kaynağa dayanır: fermanların iki ayrı neşri ve dinî bağlam için bir akademik ansiklopedi maddesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki bağımsız neşrin bulunması, bir neşrin okuyuşunu ötekiyle sınamayı mümkün kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki bağımsız neşrin bulunması, bir neşrin okuyuşunu ötekiyle sınamayı mümkün kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sınır belirtilmelidir: kullanılan neşirler yirminci yüzyılın ilk yarısına aittir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sınır belirtilmelidir: kullanılan neşirler yirminci yüzyılın ilk yarısına aittir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fermanların tek tek içerikleri, bulundukları yerler ve metin varyantları burada işlenmez; her biri ayrı bir çalışma konusudur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Fermanların tek tek içerikleri, bulundukları yerler ve metin varyantları burada işlenmez; her biri ayrı bir çalışma konusudur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönemin siyaset düşüncesinin öteki tarafı için dosyası okunabilir; iki metin aynı bölgeden ve birbirine yakın dönemlerden gelir ama tamamen farklı türdedir — bi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fermanların nereye kazındığı, ne yazdığı kadar bilgi taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Fermanların nereye kazındığı, ne yazdığı kadar bilgi taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir metnin kamuya açık bir yere kazınması, muhatabının yönetim kadrosu değil geçen herkes olduğunu düşündürür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin kamuya açık yerde bulunması, kamunun onu okuyabildiği anlamına gelmez; okuryazarlık oranı hakkında bu metinlerden bir bilgi çıkmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metnin kamuya açık yerde bulunması, kamunun onu okuyabildiği anlamına gelmez; okuryazarlık oranı hakkında bu metinlerden bir bilgi çıkmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı bölgeden ve birbirine yakın dönemlerden gelen iki metin, atlasta iki ayrı dosyada durur: buradaki fermanlar ve dosyasında ele alınan yönetim el kitabı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Biri kamuya kazınmış duyurudur ve yönetimin kendini nasıl gösterdiğini söyler; öteki yöneticiye yönelik bir el kitabıdır ve yönetimin kendi içinde ne konuştuğun",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yalnızca fermanlara bakan biri, yönetimi kendi ilan ettiği ahlaki çerçeve içinde görür; yalnızca el kitabına bakan biri, yönetimi kendi hesaplarının içinde görü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metin dönemin kendisinden, aktarım zinciri neredeyse yok, iki bağımsız neşir mevcut.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metin dönemin kendisinden, aktarım zinciri neredeyse yok, iki bağımsız neşir mevcut.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metinlerin kime ait olduğu dışarıdan belirlenmiştir; bazı bölümler aşınmıştır; anlatılan pişmanlığın niteliği tartışmalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metinlerin kime ait olduğu dışarıdan belirlenmiştir; bazı bölümler aşınmıştır; anlatılan pişmanlığın niteliği tartışmalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Amaç kesinliğe ulaşmak değil, her iddianın nereye kadar dayandığını gösterebilmektir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aradaki fark derece farkıdır, tür farkı değil.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aradaki fark derece farkıdır, tür farkı değil.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki dosya birlikte, aynı coğrafyanın iki ucundaki iki kaynak durumunu gösterir: biri hiç okunamayan, öteki sonradan okunan.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı bölgenin yönetim düşüncesinin öteki yüzü için dosyası okunmalıdır; iki metni birlikte okumak, bir yönetimin ilan ettiği çerçeve ile yürüttüğü hesap arasınd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fermanların metnine yapılacak atıflarda hangi neşrin kullanıldığı belirtilmelidir; iki neşir aynı fermanı farklı tamamlamalarla verebilir ve fark, metnin kendis",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Fermanların metnine yapılacak atıflarda hangi neşrin kullanıldığı belirtilmelidir; iki neşir aynı fermanı farklı tamamlamalarla verebilir ve fark, metnin kendis",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Künye bir metnin birincil olduğunu söyler; o metnin hangi okumasının kullanıldığını söylemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Künye bir metnin birincil olduğunu söyler; o metnin hangi okumasının kullanıldığını söylemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Okuyucuya son bir hatırlatma: bu dosya fermanların ne dediğini özetlemez, ne tür bir kaynak olduklarını anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

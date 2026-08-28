@@ -1,0 +1,77 @@
+{
+  "id": "dusunur-las-casas",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.159Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Las Casas, on altıncı yüzyılda Amerika kıtasına giden ve orada uzun yıllar kalan bir din adamıdır.[^k1] Kıtaya ilk gidişinde din adamı değildi.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Eleştirisinin gücü ayrıntısındadır.[^k2] Hangi adada, hangi yılda, hangi uygulamanın nasıl yürütüldüğünü tek tek anlatır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden metnin sayılarını veri olarak kullanmaz.[^k3] Bu, atlasın tarihsel sayılar kuralının doğrudan uygulanmasıdır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Metnin sonraki tarihi iki ayrı hataya yol açtı.[^k1] Birincisi, metni propaganda sayıp içeriğini reddetmek.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Eleştirinin hedefi tek tek kötü muameleler değildi.[^k1] Hedef, emeği yerleşimciye tahsis eden düzenin kendisiydi.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Eleştiri tek bir kişiden gelmedi.[^k1] Aynı tarikattan bir grup din adamı, ondan önce de aynı yönde vaaz vermişti.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sonraki çalışmalar ana nedeni salgın hastalıklarda buldu.[^k1] Bağışıklığı olmayan bir nüfusta hastalık, tek başına büyük bir çöküş üretebilir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bir dönem yalnızca sömürge karşıtı bir belge olarak okundu.[^k3] Başka bir dönemde abartılı sayıları nedeniyle bütünüyle reddedildi.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Metin, tabi kılınan halkları tek bir adla anar.[^k2] Bu ad, kıtaya ilk gelenlerin coğrafi yanılgısından türemiştir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Ad, yüzlerce farklı dili ve düzeni tek bir kategoride topladı.[^k1] Eleştiri metninin kendisi de bu kategoriyi kullanır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "aktor-kus-kralligi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.140Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlasın kanıt dosyasında formüle edilen ölçüt burada doğrudan geçerlidir.[^k1] En erken tarih, kazılmış alanların en erken tarihidir; kazılmamış alanlar hakkında bir şey söylemez.",
+      "sorun": "\"En erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bölgenin bir bölümü baraj yapımı nedeniyle su altında kalmıştır.[^k2] Bu, kazı imkânını kalıcı olarak ortadan kaldırmıştır ve kısıt geri alınamaz niteliktedir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

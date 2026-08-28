@@ -1,0 +1,283 @@
+{
+  "id": "aktor-kanem-bornu",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:25.025Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kanem-Bornu, Çad Gölü çevresinde kurulan ve zamanla gölün batısına taşınan bir siyasi düzendir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kanem-Bornu, Çad Gölü çevresinde kurulan ve zamanla gölün batısına taşınan bir siyasi düzendir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çad, Gölü"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı hanedan adı altında yüzyıllar boyunca varlığını sürdürmesi, atlasın aktör dosyalarında ender rastlanan bir durumdur; künyedeki geniş tarih aralığı bunun so",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı hanedan adı altında yüzyıllar boyunca varlığını sürdürmesi, atlasın aktör dosyalarında ender rastlanan bir durumdur; künyedeki geniş tarih aralığı bunun so",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı hanedan altında merkez değişmiş, coğrafya kaymış ve idari yapı dönüşmüştür; atlas bunları ayrı dosyalara bölmez çünkü kaynaklar da sürekliliği esas alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düzenin doğu merkezinden batıya taşınması, dışarıdan gelen baskı ve iç bölünmelerle birlikte aktarılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Düzenin doğu merkezinden batıya taşınması, dışarıdan gelen baskı ve iç bölünmelerle birlikte aktarılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sürekliliği kaydeden bir kaynak, kopukluğu kaydeden bir kaynaktan farklı bir tarih anlatısı üretir; hangisinin seçildiği, kaydı yazan çevrenin bakışını da taşır",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Taşınmanın ardından bölgenin yeni merkezinde kurulan düzen, öncekinin kurumlarını büyük ölçüde sürdürmüştür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düzenin ekonomik temeli, Sahra'yı geçen kuzey-güney ticaret yollarının denetimidir.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Sahra"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Düzenin ekonomik temeli, Sahra'yı geçen kuzey-güney ticaret yollarının denetimidir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sahra"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki dosya birlikte okunduğunda, Sahra'nın güney kıyısında kurulan siyasi düzenlerin ortak bir ekonomik biçimi paylaştığı görünür: üretimden değil geçişten besle",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Sahra"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosyanın ayrıcalığı, bölgeyi tarif eden çağdaş bir metnin erişilebilir olmasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, atlasın dosyasındaki durumdan farklıdır: orada elimizdeki tarifler, bölgeye hiç gitmemiş derleyicilerin aktarımlarıydı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Gezip yazan biri de gördüğünü seçerek yazar, duyduğunu gördüğüyle karıştırabilir ve okuruna göre vurgu değiştirebilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kullanılan çeviri on yedinci yüzyıl başına aittir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynaklar, hükümdar ailesinin İslam'ı benimsemesini düzenin dönüm noktalarından biri olarak kaydeder.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaynaklar, hükümdar ailesinin İslam'ı benimsemesini düzenin dönüm noktalarından biri olarak kaydeder.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hükümdarın benimsemesi, halkın tamamının benimsemesiyle aynı şey değildir; kaynaklar bu iki düzeyi her zaman ayırmaz ve atlas ayrımı burada belirtir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düzenin sonraki dönemlerinde askerî yapının değiştiği ve kuzeydeki güçlerle kurulan ilişkilerin bu değişimde rol oynadığı kaydedilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Düzenin sonraki dönemlerinde askerî yapının değiştiği ve kuzeydeki güçlerle kurulan ilişkilerin bu değişimde rol oynadığı kaydedilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yeni bir silahın gelmesi, onu kullanan düzeni otomatik olarak güçlendirmez; kullanımı, bakımı ve ikmali başka bağımlılıklar üretir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya üç kaynağa dayanır: bölge üzerine bir ansiklopedi maddesi, çağdaş bir coğrafya eserinin tam metni ve bir giriş kapısı maddesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya üç kaynağa dayanır: bölge üzerine bir ansiklopedi maddesi, çağdaş bir coğrafya eserinin tam metni ve bir giriş kapısı maddesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya üç kaynağa dayanır: bölge üzerine bir ansiklopedi maddesi, çağdaş bir coğrafya eserinin tam metni ve bir giriş kapısı maddesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düzenin doğu dönemine ait ayrı bir ansiklopedi maddesi aday olarak sınandı ve reddedildi: sorgulanan adres madde sayfası değil arama sonucu sayfası döndürüyordu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tek bir çağdaş kayıt, karşılaştırma imkânı vermez; bir metnin söylediğini sınamak için ikinci bir metin gerekir ve bu dosya yazıldığında ikincisi bulunamamıştır",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düzenin idari yapısı, vergi düzeni ve ordu teşkilatı ayrıntılı olarak işlenmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "On dokuzuncu yüzyıldaki dönüşüm ve sömürge dönemine geçiş burada ele alınmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı hanedan adının yüzyıllar boyunca kayıtlarda sürmesi, atlasın aktör dosyalarında ender bir durumdur ve dikkatle okunmalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı hanedan adının yüzyıllar boyunca kayıtlarda sürmesi, atlasın aktör dosyalarında ender bir durumdur ve dikkatle okunmalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hanedan listelerini tutan kayıtlar, sürekliliği vurgulama eğilimindedir; çünkü bu listeler çoğu zaman hüküm süren hanedanın kendi meşruiyetini kurmak için derle",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkisi arasında karar vermek için bağımsız bir kayıt gerekir ve bu dosya için elde yoktur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İkisi arasında karar vermek için bağımsız bir kayıt gerekir ve bu dosya için elde yoktur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düzenin merkezinin bir göl çevresinde kurulmuş olması, coğrafi bir ayrıntı değil ekonomik bir zemindir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu zeminin siyasi sonucu, çöl ticaretinin bir ucunda kalıcı bir yerleşimin bulunabilmesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu zeminin siyasi sonucu, çöl ticaretinin bir ucunda kalıcı bir yerleşimin bulunabilmesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Gölün kendisinin yüzyıllar içinde büyük ölçüde küçüldüğü ayrı bir konudur ve bu dosyada işlenmez; iklim ve yerleşim ilişkisi atlasın dosyasının kapsamına girer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Biri yalnızca uzaktan derlenmiş aktarımlara dayanır; öteki, bölgeyi gezmiş bir yazarın kaydına bağlanabilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Biri yalnızca uzaktan derlenmiş aktarımlara dayanır; öteki, bölgeyi gezmiş bir yazarın kaydına bağlanabilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Fark, hangi metnin çevrilip dijitalleştirildiğiyle ilgilidir; yani bugünün arşiv kararlarıyla, dönemin kayıt pratiğiyle değil.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bölgeyi gezip yazan bir başka kaynak için dosyası uygundur; iki gezginin kayıtları arasındaki fark, aynı bölgenin iki ayrı yüzyılda nasıl görüldüğünü de gösteri",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sürekliliğin nasıl kaydedildiği sorusu için , gölün küçülmesi ve yerleşim ilişkisi için dosyaları okunmalıdır; ikisi de bu dosyada yalnızca işaret edilen konula",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosyanın bağlandığı çağdaş metin bir çeviridir ve gözlemle aktarımı her yerde ayırmaz; ondan alınacak her iddia, hangi bölümün doğrudan gözleme dayandığı sor",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Burada anlatılanların bir bölümü ansiklopedi aktarımıdır, bir bölümü çağdaş bir metnin çevirisinden gelir; künyedeki tür alanı ikisini ayırır ama metin içinde h",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Burada anlatılanların bir bölümü ansiklopedi aktarımıdır, bir bölümü çağdaş bir metnin çevirisinden gelir; künyedeki tür alanı ikisini ayırır ama metin içinde h",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

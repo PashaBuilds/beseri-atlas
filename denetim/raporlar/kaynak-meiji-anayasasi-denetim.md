@@ -1,0 +1,56 @@
+## kaynak-meiji-anayasasi
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:07:26.864Z_
+
+- [OK]      k1 → "Meiji Anayasası, 1889'da ilan edilen ve iki meclisli bir yasama düzeni kuran yazılı anayasadır." — 1 atom doğrulandı; 1 ad ölçülemedi
+- undefined k2 → "Anayasa elli altı yıl yürürlükte kaldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu dosyanın asıl konusu bir karşılaştırmadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "İki anayasa aynı on yıllarda ve benzer koşullarda ilan edildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Her ikisinde de amaç yalnızca iç düzenleme değildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Sonuçlar ayrıldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Fark, metinlerin sınırlayıcılığında değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Aynı ölçütle bakıldığında bu metin daha az sınırlayıcı da sayılabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas bu nedenle farkı metinlerin içeriğinde aramaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Fark, metnin kimin işine yaradığındadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Öteki metin, iktidarı elinde tutan kişinin yetkisini sınırlandırmayı hedefleyen bir çevre tarafından hazırlanm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Ölçüm şudur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "İki örnek bir kural kurmaya yetmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Başka etkenler de ayrılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlas etkenlerin ağırlığını ölçmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Metin, dış örnekler incelenerek hazırlandı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Seçim bilinçliydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Atlas bu seçimi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Ödünç alınan şey biçimdi, içerik değil." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu, atlasın Tonga dosyasında ölçtüğü mekanizmanın aynısıdır." — programatik olarak ölçülemedi (ad karşılığı yok): Tonga
+- undefined k2 → "Fark sonuçtadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Anayasanın açık hedeflerinden biri, yabancı devletlerle imzalanmış antlaşmaların değiştirilmesiydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu düzen, atlasın Samoa dosyasında kaydedilen yapının aynısıdır." — programatik olarak ölçülemedi (ad karşılığı yok): Samoa
+- undefined k1 → "Antlaşmalar sonraki yıllarda kademeli olarak değiştirildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Talep şu biçimde kuruldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Gerekçe kabul gördü ve muafiyet kaldırıldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Atlas bu diziyi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Metin, askerî komutayı doğrudan hükümdara bağlar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Düzenleme sonraki yarım yüzyılda belirleyici oldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlas bu bağı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bir anayasa okunurken sorulacak soru, hangi hakların tanındığı kadar hangi alanın düzenleme dışında bırakıldığ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu metinde denetim dışı alan açıkça tanımlanmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas bu ölçütü bütün anayasa künyelerine uygular." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Metindeki haklar, kanunla sınırlandırılabilecekleri kaydıyla tanınır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu düzenleme dönemin birçok anayasasında bulunur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Sonucu, yasama organının bileşimine bağlıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "İlk seçimlerde oy hakkı, belirli bir vergi eşiğini aşan erkeklerle sınırlıydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Eşik sonraki onyıllarda düşürüldü ve seçmen tabanı genişledi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Atlas bu ayrıntıyı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Anayasa, İkinci Dünya Savaşı'nın ardından yerini yeni bir metne bıraktı." — programatik olarak ölçülemedi (ad karşılığı yok): İkinci, Dünya, Savaşı
+- undefined k2 → "Geçiş, eski anayasanın kendi değişiklik usulü kullanılarak yapıldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlas bu ayrıntıyı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu dosyada künyelenen metin bir çeviridir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlas bu kısıtı Waitangi dosyasında kurduğu kuralla ele alır." — programatik olarak ölçülemedi (ad karşılığı yok): Waitangi
+- undefined k2 → "Kural burada uygulanmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Dosya, iki anayasa arasındaki farkın nedenini belirlemez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Metnin maddeleri tek tek aktarılmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Sonraki anayasa ve savaş dönemi işlenmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Karşılaştırmanın öteki tarafı için dosyası okunmalıdır; bu dosya onsuz eksiktir ve ikisi birlikte tek bir soru…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Aynı hattın erken halkası için , metnin ilan edildiği düzen için dosyaları uygundur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Yetkinin neye dayandığı için , belgelerin nasıl sınanacağı için dosyaları okunabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+
+**Özet:** 1 OK · 0 ISARET · 0 HATA

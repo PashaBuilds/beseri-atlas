@@ -1,0 +1,42 @@
+{
+  "id": "kavram-pasifik-isci-toplama",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.167Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Uygulamalar tek biçim değildi.[^k1] Bazı yolculuklar gerçek bir anlaşmayla, bazıları aldatmayla, bazıları doğrudan kaçırmayla başladı.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu etkiyi ayrıca kaydeder.[^k2] Bir topluluktan ayrılan kişi sayısı tek başına yetersizdir; topluluğun büyüklüğüne oranı gerekir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden tek bir ad dayatmaz.[^k3] Uygulamanın hangi örneğinin hangi biçime yakın olduğu ayrı ayrı sorulur.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu yüzden tek bir ad dayatmaz.[^k3] Uygulamanın hangi örneğinin hangi biçime yakın olduğu ayrı ayrı sorulur.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kavramın işlevi budur.[^k2] Bir ara biçimi tek bir kategoriye zorlamak yerine, ölçütleri sayarak yerleştirmek.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

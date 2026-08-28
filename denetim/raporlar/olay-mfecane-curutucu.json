@@ -1,0 +1,49 @@
+{
+  "id": "olay-mfecane",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.122Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "On dokuzuncu yüzyılın ilk yarısında, Güney Afrika'nın doğu kesiminde yirmi beş yıla yayılan bir savaşlar ve nüfus hareketleri dizisi yaşandı.[^k1] Topluluklar yer değiştirdi, yeni ",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yerleşmiş anlatı, süreci tek bir siyasi birimin yükselişine bağlar.[^k2] Bu birim, yeni bir askerî örgütlenme geliştirmiş ve çevresindeki toplulukları dağıtmıştır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Anlatının çekiciliği, tek bir nedene dayanmasıdır.[^k3] Karmaşık bir süreç, izlenebilir tek bir başlangıç noktasına indirgenir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Son kırk yılda yapılan çalışmalar anlatının merkezini sorgulamıştır.[^k1] İtirazlar tek bir noktaya değil zincirin tamamına yöneliktir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "İşlev yine de kaydedilmelidir.[^k1] Bir anlatı, dayandığı kanıt tartışmalıyken bile işlevi sayesinde ayakta kalabilir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sürecin ayrıntılı seyri ve tek tek çatışmalar işlenmez.[^k2] Ayrı dosyalar gerektirir ve bu dosya yazıldığında atlasta bulunmuyorlardı; bölgedeki siyasi birimlerin hiçbiri için ayr",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

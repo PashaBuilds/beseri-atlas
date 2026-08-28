@@ -1,0 +1,49 @@
+{
+  "id": "kavram-takvim",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.167Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas her olayı tek bir ölçekle tarihler.[^k2] Bu, karşılaştırma yapabilmek için gereklidir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tek ölçek kullanmak tarafsız bir işlem değildir.[^k1] Seçilen ölçek, belirli bir geleneğin başlangıç noktasına ve yıl uzunluğuna dayanır.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu dönemlerde iki tarihi de kaydeder.[^k3] Tek bir tarih vermek, hangi kaydın esas alındığını gizler.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Çeviri, kaynağın vermediği bir kesinlik üretebilir.[^k1] Bir kaynak yalnızca ayı veriyorsa, çeviri sonucunda bir gün çıkması yanıltıcıdır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden çevirinin kesinliğini kaynağınkiyle sınırlar.[^k2] Kaynak ay veriyorsa, atlas da ay verir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bu yüzden takvim reformları çoğu zaman rasathane çalışmalarının ardından gelir.[^k3] Ölçüm önce, kural sonra gelir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

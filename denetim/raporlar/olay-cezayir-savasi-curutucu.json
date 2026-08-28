@@ -1,0 +1,35 @@
+{
+  "id": "olay-cezayir-savasi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.120Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, sömürge savaşlarının merkeze etkisinin açık bir örneğidir.[^k1] Etki tek yönlü değildir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden tek bir sayı vermez.[^k3] Bu, atlasın tarihsel sayılar kuralının doğrudan uygulanmasıdır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu yüzden tek bir sayı vermez.[^k3] Bu, atlasın tarihsel sayılar kuralının doğrudan uygulanmasıdır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yerel dilden doğrulanabilir birincil bir belge künyelenememiştir.[^k3] Künyedeki birincil metin, çatışmanın içinden yazan bir tanığa aittir ve tek başına bölgenin kaydı sayılamaz; ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

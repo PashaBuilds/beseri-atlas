@@ -1,0 +1,35 @@
+{
+  "id": "olay-plassey-1757",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.123Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden bu dosyada sayı vermez.[^k1] Muharebenin sonucunu belirleyen şeyin sayı değil önceden yapılmış anlaşma olduğu, iki kaynakta da kaydedilmiştir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas olayı bir başlangıç değil bir eşik olarak kaydeder.[^k1] Eşik, önceki eğilimlerin sürdüğünü ve sonrasında hızlandığını söyler; tek başına sebep olduğunu söylemez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Kaynaklarda muharebenin seyrini belirleyen bir ayrıntı olarak yağmur kaydedilir.[^k3] Bir tarafın barutu ıslanmış, ötekininki örtülmüş ve ateş gücü dengesi bu yüzden değişmiştir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Muharebeden sonra şirket ile yeni yönetim arasında yapılan ödemeler kayıtlıdır ve miktarları belgelenmiştir.[^k3] Ödemeler hem kuruma hem tek tek kişilere yapılmıştır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+## aktor-chola
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:07:24.820Z_
+
+- [OK]      k1 → "Chola hanedanı, Güney Hindistan'ın Tamil bölgesinde kurulmuş ve gücünün zirvesinde deniz aşırı seferler düzenl…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Chola hanedanı, Güney Hindistan'ın Tamil bölgesinde kurulmuş ve gücünün zirvesinde deniz aşırı seferler düzenl…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- undefined k1 → "Hanedanın kayıtları tapınak duvarlarına ve taş yapılara kazınmıştır ve içerikleri büyük ölçüde idaridir: bağış…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Hanedanın kayıtları tapınak duvarlarına ve taş yapılara kazınmıştır ve içerikleri büyük ölçüde idaridir: bağış…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "dosyasındaki fermanlar bir duyurudur; kronikler bir anlatıdır; buradaki kayıtlar ise bir işlemdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "dosyasındaki fermanlar bir duyurudur; kronikler bir anlatıdır; buradaki kayıtlar ise bir işlemdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bir işlem kaydı, ne yapıldığını söyler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bir işlem kaydı, ne yapıldığını söyler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bir bağış kaydı; kimin verdiğini, neyi verdiğini, kime verdiğini ve hangi koşullarla verdiğini içerir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Kazınan işlemler, kazınmaya değer bulunan işlemlerdir; gündelik alışverişin ve kayıt dışı ilişkilerin taşta ka…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Kayıtların bir bölümü, yerel meclislerin işleyişine dair düzenlemeler içerir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Kayıtların bir bölümü, yerel meclislerin işleyişine dair düzenlemeler içerir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu, atlasın dosyasında kavram düzeyinde ele alınan yapının erken bir örneğidir: yönetimin kişiye değil kurala …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bir meclisin kurallarının yazılı olması, o kuralların uygulandığını göstermez; kayıt ile pratik arasındaki far…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Atlas bir yorumu benimsemez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas bir yorumu benimsemez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ISARET]  k1 → "Hanedanın gücünün zirvesinde Güneydoğu Asya'ya yönelik deniz seferleri düzenlendiği kaydedilir." — özel isim kaynakta bulunamadı: Asya
+- [OK]      k3 → "Hanedanın gücünün zirvesinde Güneydoğu Asya'ya yönelik deniz seferleri düzenlendiği kaydedilir." — 1 atom doğrulandı; 1 ad ölçülemedi
+- undefined k1 → "Batı yarısı için dosyası aynı okyanusun öteki ucundaki düğümü kaydeder; üç dosya birlikte, okyanusun tek bir t…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Seferlerin amacı — ticaret yollarının denetimi mi, doğrudan siyasi hâkimiyet mi — kaynaklarda net değildir ve …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Tapınak, dinî bir mekân olmanın yanında toprak sahibi, kredi veren ve işçi çalıştıran bir kurumdur; bağış kayı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Tapınak, dinî bir mekân olmanın yanında toprak sahibi, kredi veren ve işçi çalıştıran bir kurumdur; bağış kayı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bir kurumu yalnızca dinî işleviyle kaydetmek, onun toprak ve emek üzerindeki rolünü görünmez kılardı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Kayıt yerinin seçimi bir başka bilgi de taşır: taşa kazınan bir işlem, tarafların ölümünden sonra da geçerli s…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu dosya üç kaynağa dayanır: iki ayrı editörün hazırladığı kitabe neşirleri ve bir giriş kapısı maddesi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu dosya üç kaynağa dayanır: iki ayrı editörün hazırladığı kitabe neşirleri ve bir giriş kapısı maddesi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu dosya üç kaynağa dayanır: iki ayrı editörün hazırladığı kitabe neşirleri ve bir giriş kapısı maddesi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Havuz kuralı gereği makalede en fazla bir tane bulunur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Kitabe neşirlerinin doğası gereği, bu dosya kayıtların türü hakkında konuşur, tek tek içerikleri hakkında deği…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Kitabe neşirlerinin doğası gereği, bu dosya kayıtların türü hakkında konuşur, tek tek içerikleri hakkında deği…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Sonraki okuma önerileri ve yeni bulunan kitabeler bu dosyada kullanılmamıştır; güncel epigrafi literatürü teli…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ISARET]  k1 → "Atlasın Güney Asya kümesi, bu dosyayla birlikte üç ayrı birincil kaynak türü barındırır." — özel isim kaynakta bulunamadı: Asya
+- undefined k1 → "Her tür farklı bir soruya cevap verir ve hiçbiri ötekinin yerine geçmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Her tür farklı bir soruya cevap verir ve hiçbiri ötekinin yerine geçmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Künye bir kaynağı birincil diye işaretler ama hangi türden birincil olduğunu söylemez; kazı raporu ile işlem k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Hanedanın siyasi tarihi, hükümdar sıralaması ve askerî seferlerin ayrıntıları burada işlenmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Kitabelerin dil ve yazı özellikleri de ele alınmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Kitabelerin dil ve yazı özellikleri de ele alınmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Tapınak duvarlarına kazınmış kayıtların sayısı, atlasın öteki dosyalarında karşılaşılan kaynak azlığının tersi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Tapınak duvarlarına kazınmış kayıtların sayısı, atlasın öteki dosyalarında karşılaşılan kaynak azlığının tersi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Neşirler bu işin bir bölümünü yapar; hangi kaydın hangi ciltte, hangi okuma önerisiyle yayımlandığı editörün k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Kazınan işlemler, kalıcı kılınmaya değer görülen işlemlerdir; hangi işlemin bu ayrıcalığı hak ettiği, kaydı ya…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bir bölgede çok kayıt bulunması, o bölgede çok işlem yapıldığını göstermez; çok işlemin kaydedildiğini gösteri…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Kayıtların bir bölümü ölçü birimlerini ve dönüşümlerini tanımlar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Kayıtların bir bölümü ölçü birimlerini ve dönüşümlerini tanımlar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Orada standart ağırlıklar bulunmuştu ama onları tanımlayan bir metin yoktu; burada hem standart hem tanımı var…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Nesne, standardın var olduğunu gösterir; metin, standardın kim tarafından ve nasıl tanımlandığını gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Kayıtların yüzyıllar boyunca aynı yerlerde tutulmaya devam etmesi, idari sürekliliğin bir işaretidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Kayıtların yüzyıllar boyunca aynı yerlerde tutulmaya devam etmesi, idari sürekliliğin bir işaretidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Kayıt tutulmamaya başlaması, kurumun ortadan kalkmasıyla da, kaydın başka bir ortama taşınmasıyla da açıklanab…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Künyedeki tarih genel çerçeveyi izler ve kaynağın sustuğu anı kurumun bittiği an saymaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ISARET]  k1 → "Bu dosya, Güney Asya kümesindeki üçüncü makaledir ve kümeye üçüncü bir birincil kaynak türü ekler." — özel isim kaynakta bulunamadı: Asya
+- undefined k1 → "Tek tek dosyalar kendi konularını anlatır; küme, o konuların hangi kanıtla bilindiğini karşılaştırmayı mümkün …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Tek tek dosyalar kendi konularını anlatır; küme, o konuların hangi kanıtla bilindiğini karşılaştırmayı mümkün …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bölgenin sonraki dönemleri, öteki hanedanları ve kuzeydeki gelişmeler kaydedilmemiştir; atlasta bu konular içi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Üçü birlikte, Hint Okyanusu'nun tek bir ticaret alanı olarak işlediğini ve atlasın bölge etiketlerinin bu alan…" — programatik olarak ölçülemedi (ad karşılığı yok): Hint, Okyanusu
+- undefined k1 → "Üç dosya aynı coğrafyada üç ayrı kanıt durumunu gösterir ve birlikte okunduklarında tek başlarına veremeyecekl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Üç dosya aynı coğrafyada üç ayrı kanıt durumunu gösterir ve birlikte okunduklarında tek başlarına veremeyecekl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu dosyanın bağlandığı kaynaklar tek tek kayıtlardan oluşur ve bu dosya onların hiçbirini tek tek aktarmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu dosyanın bağlandığı kaynaklar tek tek kayıtlardan oluşur ve bu dosya onların hiçbirini tek tek aktarmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Binlerce kayıt içeren bir külliyat özetlenemez; ancak nasıl okunacağı anlatılabilir ve okuyucu külliyata yönle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+
+**Özet:** 3 OK · 3 ISARET · 0 HATA

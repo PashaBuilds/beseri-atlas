@@ -1,0 +1,349 @@
+{
+  "id": "aktor-malaka-sultanligi",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:25.165Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Malaka Sultanlığı, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan dar geçidin kıyısında kurulmuş bir liman devletidir.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Okyanusu"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Malaka Sultanlığı, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan dar geçidin kıyısında kurulmuş bir liman devletidir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosyanın ayırt edici yanı, bir devletin toprak yerine geçit üzerine kurulabildiğini göstermesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Buna rağmen bir yüzyıl içinde bölgenin en büyük ticaret merkezi hâline geldi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mevsim rüzgârlarının belirlediği takvim, bu boğazı zorunlu bir durak hâline getirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aylarca aynı limanda kalan tüccarlar, malını satar, karşılığında yeni mal alır ve geri dönüş için yüklenir; liman böylece taşıma noktası değil değişim noktası o",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aylarca aynı limanda kalan tüccarlar, malını satar, karşılığında yeni mal alır ve geri dönüş için yüklenir; liman böylece taşıma noktası değil değişim noktası o",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kendi ürettiği bir mal yoktur; sattığı şey güvenlik, depolama ve tarafsızlıktır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir liman devletinin en değerli sermayesi, tüccarların ayrım gözetilmeden korunduğuna dair güvendir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynaklarda limanda farklı kökenlerden tüccar topluluklarının kendi temsilcileriyle örgütlendiği kaydedilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kaynaklarda limanda farklı kökenlerden tüccar topluluklarının kendi temsilcileriyle örgütlendiği kaydedilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Burada somut hâli, bir devletin kendi hukukunu limandaki herkese dayatmaktan kaçınmasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sultanlığın kurucu hanedanının İslam'ı benimsemesi, kaynaklarda bölgedeki ticaret ağına katılmayla birlikte anlatılır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sultanlığın kurucu hanedanının İslam'ı benimsemesi, kaynaklarda bölgedeki ticaret ağına katılmayla birlikte anlatılır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İslam"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Okyanus ticaretinin baskın tüccar toplulukları aynı inanç çevresine mensuptu ve ortak hukuk, uzak mesafeli ticarette güven kurmanın araçlarından biriydi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu ilişkiyi tek yönlü kurmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu sultanlık, atlasın Güneydoğu Asya dosyaları arasında kendi saray anlatısını bırakmış olan tek örnektir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Böyle bir metnin varlığı, dosyayı komşu ve rakip kayıtlarına bağımlı olmaktan kurtarır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas metni bir olay kaydı olarak değil, bir hanedanın kendini nasıl anlattığının kaydı olarak kullanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Atlas metni bir olay kaydı olarak değil, bir hanedanın kendini nasıl anlattığının kaydı olarak kullanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Saray anlatısı, hanedanın kökenini uzak ve saygın bir soya bağlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir soy iddiası, geçmişi açıklamak için değil bugünkü hükümranlığı gerekçelendirmek için kurulur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı teknik, atlasın Amerika ve Batı Afrika dosyalarında da görülür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sultanlık, bölgedeki daha büyük siyasi birimlerle doğrudan çatışmaktan çok denge kurarak var oldu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Sultanlık, bölgedeki daha büyük siyasi birimlerle doğrudan çatışmaktan çok denge kurarak var oldu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu, atlasın dosyasında tanımlanan yapının bir örneğidir: bölgede egemenlik tek bir merkezde toplanmaz, iç içe geçmiş etki alanları hâlinde dağılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tâbiiyetin sembolik göstergeleri ile fiilî bağımsızlık ayrı ayrı işler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sultanlığın sonu, bölge içi bir çatışmayla değil dışarıdan gelen bir donanma saldırısıyla geldi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Sultanlığın sonu, bölge içi bir çatışmayla değil dışarıdan gelen bir donanma saldırısıyla geldi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu ayrım, atlasın liman devletleri hakkındaki genel gözlemini doğrular.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya dört kaynağa dayanır ve ikisi birincildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya dört kaynağa dayanır ve ikisi birincildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İkinci birincil kaynak sultanlığı değil, ondan önceki dönemi anlatır ve bu dosyada karşılaştırma amacıyla kullanılmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Saray anlatısının kullanılan çevirisi yirminci yüzyıl ortasına aittir ve kamu malı olduğu iddia edilmez; kaynakta erişim kısıtı bulunmadığı için künyeye alınmış",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sultanlığın idari yapısı, hukuk derlemesi ve saray teşkilatı burada ayrı başlıklar altında işlenmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Limanın düşmesinden sonraki sömürge dönemi de kapsam dışıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bölgedeki öteki sultanlıklar ve bunların birbirleriyle ilişkisi burada verilmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sultanlığın limanında kullanılan dil, bölge boyunca ticaretin ortak dili hâline geldi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sultanlığın limanında kullanılan dil, bölge boyunca ticaretin ortak dili hâline geldi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Dil, tam biçimiyle değil ticarete yeten sadeleşmiş bir hâliyle taşındı; limanlar arası iletişim için gereken şey edebî yetkinlik değil ortak bir alışveriş sözlü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu ayrım, atlasın dil yayılımı hakkında tek bir açıklamaya bağlanmamasının gerekçelerinden biridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Limanda yaşayan nüfusun büyük bölümü, sultanlığın kendi tebaası değildi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Limanda yaşayan nüfusun büyük bölümü, sultanlığın kendi tebaası değildi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Askerî güç büyük ölçüde dışarıdan kiralanır, vergi tabanı yabancı tüccarlara dayanır ve sadakat toprak bağıyla değil karşılıklı çıkarla kurulur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Çıkara dayanan bir bağ, çıkar ortadan kalktığında ya da başka bir liman daha uygun şartlar sunduğunda çözülür; liman devletlerinin hızlı yükselip hızlı düşmesin",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu sultanlığın nüfusuna ve ticaret hacmine dair sayılar, çoğunlukla dışarıdan gelen gözlemcilerin verdiği izlenimlerdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu sultanlığın nüfusuna ve ticaret hacmine dair sayılar, çoğunlukla dışarıdan gelen gözlemcilerin verdiği izlenimlerdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir limanın büyüklüğüne dair izlenim, gözlemcinin daha önce hangi limanları gördüğüne bağlıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu yüzden bu dosyada bir nüfus ya da hacim rakamı vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu sultanlık yaklaşık yüz yıl varlığını sürdürdü ve atlasın aktör katmanındaki en kısa ömürlü siyasi birimlerden biridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu sultanlık yaklaşık yüz yıl varlığını sürdürdü ve atlasın aktör katmanındaki en kısa ömürlü siyasi birimlerden biridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir siyasi birimin atlasa girme ölçütü süresi değil, bir yapıyı ne kadar açık gösterdiğidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Uzun ömürlü devletlerde aynı yapı, yüzyıllara yayıldığı için görünmez olur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı düzenin batı ucunda, Doğu Afrika kıyısında benzer bir liman devletleri kuşağı bulunur.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karşılaştırmanın gösterdiği şey, benzer coğrafi konumların benzer siyasi biçimler ürettiğidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Karşılaştırmanın gösterdiği şey, benzer coğrafi konumların benzer siyasi biçimler ürettiğidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Atlas bu benzerliği bir yasa olarak ileri sürmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

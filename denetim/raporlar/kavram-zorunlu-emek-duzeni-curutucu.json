@@ -1,0 +1,35 @@
+{
+  "id": "kavram-zorunlu-emek-duzeni",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.169Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Direniş her zaman ayaklanma biçiminde olmadı.[^k1] Kaçma, hukuki başvuru ve kota pazarlığı daha sık görülen biçimlerdir.",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu biçimi ayrıca kaydeder.[^k3] Bir düzenin kurallarını kullanarak itiraz etmek, düzeni kabul etmek anlamına gelmez; elde bulunan tek aracı kullanmak anlamına gelebilir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tabi kılınan tarafın kaydı için [Guamán Poma — Nueva Corónica](/kaynak/guaman-poma-nueva-coronica/), düzene karşı en büyük ayaklanma için [Túpac Amaru ayaklanması (1780)](/olay/tup",
+      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı yapının başka kıtadaki biçimi için [Pasifik işçi toplama düzeni](/kavram/pasifik-isci-toplama/), tarım düzenine etkisi için [Tek ürüne bağlanma](/kavram/pamuk-tek-urun/) dosya",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

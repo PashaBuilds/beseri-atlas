@@ -1,0 +1,42 @@
+{
+  "id": "dusunur-biruni",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.155Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "*Âsârü'l-bâkıye*, farklı halkların takvimlerini ve dönemlendirme sistemlerini yan yana koyar.[^k2] Bir takvimi başka bir takvime çevirmek, o toplulukların başlangıç saydığı olaylar",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "*Tahkīku mâ li'l-Hind*, Hint dinî ve bilimsel geleneklerini doğrudan o geleneğin metinlerine dayanarak anlatır.[^k3] Eserin atlas açısından en önemli tarafı konusu değil, yöntemidi",
+      "sorun": "\"en önemli\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Ölçüm ile kayıt karşılaştırmasının aynı kişide birleşmesi,[^k1][^k2] atlasın onu tek bir eksen altında sınıflamamasının dayanağıdır. Dosyanın eksen alanı felsefî, kültürel ve dinî ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bîrûnî ile [İbn Sînâ](/dusunur/ibn-sina/)'nın aynı yıllarda, birbirine yakın merkezlerde çalışmış olması,[^k1] bölgenin o dönemdeki yoğunluğunu gösterir. Atlasın Orta Asya kapsamı ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Mineraloji ve eczacılık üzerine yazdıkları da kapsam dışıdır.[^k1] Bir düşünürün üretiminin tamamını tek dosyada toplamak, atlasın eser düzeyinde kayıt tutma kuralına aykırı olurdu",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

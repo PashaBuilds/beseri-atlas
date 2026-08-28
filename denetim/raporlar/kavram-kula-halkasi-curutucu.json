@@ -1,0 +1,49 @@
+{
+  "id": "kavram-kula-halkasi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.165Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden dosyayı bir üçüncü kategori olarak tutar.[^k1] Mübadelenin biçimleri ikiyle sınırlı değildir ve bir düzeni iki kategoriden birine zorlamak, onu görünmez kılar.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Düzen hakkındaki bilginin büyük bölümü tek bir alan çalışmasından gelir.[^k2] Çalışma, yirminci yüzyılın başında ve uzun süreli katılımlı gözlemle yapılmıştır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tek bir kaynağa bu kadar dayanmanın riski açıktır.[^k1] Gözlemcinin neyi kayda değer bulduğu, düzenin bugün nasıl anlaşıldığını doğrudan belirlemiştir.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu bağımlılığı beyan eder.[^k2] Sonraki çalışmalar düzenin ayrıntılarını düzeltmiş ve genişletmiştir; buradaki anlatım, ilk kaydın çerçevesini taşır.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, atlasın öteki dosyalarında da kaydedilen bir sorundur.[^k2] Bir uygulamanın ilk kaydı, çoğu zaman o uygulamanın değişmeye başladığı dönemde tutulur; kayıt, değişimin öncesini d",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden düzeni tarihsiz bir gelenek olarak sunmaz.[^k1] Kaydedilen şey, belirli bir tarihte gözlenmiş bir düzendir ve öncesi hakkında çıkarım yapmak ayrı kanıt gerektirir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

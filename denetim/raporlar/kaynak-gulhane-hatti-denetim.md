@@ -1,0 +1,54 @@
+## kaynak-gulhane-hatti
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:07:26.669Z_
+
+- [OK]      k1 → "Gülhane Hatt-ı Şerîfi, 1839'da bir saray bahçesinde toplanan kalabalığa okunan ve hükümdar adına ilan edilen m…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- undefined k2 → "Bildirilen esaslar üç başlıkta toplanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu dosyanın asıl konusu güvencelerin kapsamıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Metnin ayırt edici yanı, hükümdarın kendi koyduğu kurala kendisinin de bağlı olduğunu bildirmesidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ISARET]  k2 → "Bu, atlasın Magna Carta dosyasında ölçtüğü durumun tersidir." — özel isim kaynakta bulunamadı: Magna, Carta
+- undefined k3 → "Ölçüm şudur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Zorlamayla kurulan sınır, zorlayan taraf zayıfladığında ortadan kalkabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Kendi iradesiyle kurulan sınır, aynı iradeyle geri de alınabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlas iki yolu bir üstünlük sıralaması olarak yazmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Metnin kendi gerekçesi girişte yazılıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Gerekçe, düzenlemeyi bir yenilik değil bir dönüş olarak sunar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlas bu sunum biçimini ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Metnin ilan edildiği yıllarda imparatorluk ciddi bir dış baskı altındaydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu, metnin gerekçesine ilişkin bir soru doğurur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Atlas bir sonuca bağlanmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Güvencelerin bütün uyruklara tanınması, metnin en çok tartışılan yanıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Önceki düzende hak ve yükümlülükler, kişinin bağlı olduğu topluluğa göre farklılaşıyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Atlas bu adımı hak kapsamı dizisine ekler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Atlasın hak kapsamı dizisi üç belgeden oluşuyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Dizideki konumu şudur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Dört belge arasında üç bin altı yüz yıldan fazla vardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Metnin ilan edilmesi ile uygulanması ayrı iki olgudur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Uygulama düzensiz oldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Vergi düzenindeki değişiklik en çok direnç gören başlıktır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Direniş yalnızca bir kesimden gelmedi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu, atlasın çok sayıda reform dosyasında ölçtüğü örüntüdür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Atlas örüntüyü ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Metin, ilan edildikten sonra Fransızcaya çevrilerek Avrupa başkentlerine gönderildi." — 1 atom doğrulandı; 1 ad ölçülemedi
+- undefined k3 → "Çevirinin varlığı bir bilgi taşır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas bu ikili işlevi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu dosyada künyelenen metin Fransızcadır." — programatik olarak ölçülemedi (ad karşılığı yok): Fransızcadır
+- [ISARET]  k2 → "Atlas bu durumu Waitangi dosyasında kurduğu kuralla ele alır." — özel isim kaynakta bulunamadı: Waitangi
+- undefined k3 → "Kural burada uygulanmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Metin bir meydanda, yüksek sesle ve kalabalık önünde okundu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu, atlasın Hammurabi dosyasında kaydedilen ilan işlevinin bir başka biçimidir." — programatik olarak ölçülemedi (ad karşılığı yok): Hammurabi
+- undefined k3 → "İki biçim aynı işi yapar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu metni, on beş yıl sonra ikinci bir ferman izledi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Tekrar bir şey gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Atlas bu çıkarımı ihtiyatla yapar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu metin, kırk yıl sonra ilan edilecek yazılı anayasanın hazırlık zincirindeki ilk halka sayılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Zincir kurma bir yorum işlemidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Atlas iki düzeyi ayrı tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Dosya, metnin gerekçesi hakkında hüküm vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Uygulamanın kapsamı sayısal olarak verilmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Metnin maddeleri tek tek aktarılmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Aynı zincirin sonraki halkası için dosyası okunmalıdır; ikisi birlikte okunduğunda kendini sınırlamanın iki ay…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Zorlamayla kurulan sınırlamanın örneği için , hak kapsamı dizisinin son halkası için dosyaları uygundur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Metnin ilan edildiği düzen için , dönemin değerlendirilmesi için dosyaları okunabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Yetkinin neye dayandığı için dosyası okunmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+
+**Özet:** 2 OK · 2 ISARET · 0 HATA

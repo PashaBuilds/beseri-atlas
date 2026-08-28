@@ -1,0 +1,385 @@
+{
+  "id": "aktor-pagan-kralligi",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:25.396Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Pagan Krallığı, Güneydoğu Asya'nın batı ucunda, büyük bir nehrin orta havzasında kurulmuş siyasi birimdir.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Krallığı"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Pagan Krallığı, Güneydoğu Asya'nın batı ucunda, büyük bir nehrin orta havzasında kurulmuş siyasi birimdir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Krallığın kurulduğu ova, sulama yoluyla yüksek tarım verimi sağlayabilen bir alandır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dosyanın ayırt edici yanı, bir devletin dinî bağış düzeninin maliyesini nasıl aşındırdığını ölçülebilir biçimde göstermesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dosyanın ayırt edici yanı, bir devletin dinî bağış düzeninin maliyesini nasıl aşındırdığını ölçülebilir biçimde göstermesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Krallığın gücü, nehir havzasında kurulan sulama düzenine dayanıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sulama düzeni sürekli bakım ister ve bakım merkezî bir örgütlenme gerektirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Su düzenine dayanan tarım, merkezî yönetimi zorunlu kılar; merkezî yönetim de varlığını o su düzeninin sürmesine bağlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Krallığın en görünür özelliği, iki yüzyıl boyunca sürdürülen yoğun tapınak yapımıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Krallığın en görünür özelliği, iki yüzyıl boyunca sürdürülen yoğun tapınak yapımıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu ölçekte bir yapı programı, sürekli bir işgücü ve sürekli bir gelir gerektirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yapılar, aşağıda anlatılan çöküş mekanizmasının da kanıtıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tapınaklara yapılan bağışlar yalnızca yapı değil, toprak ve o toprağa bağlı emeği de kapsıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Her bağış, devletin vergi tabanını kalıcı olarak küçültür; bağış geri alınamadığı için küçülme geri döndürülemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Her bağış, devletin vergi tabanını kalıcı olarak küçültür; bağış geri alınamadığı için küçülme geri döndürülemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu, atlasın kaydettiği en açık kendi kendini zayıflatan yönetim biçimlerinden biridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bağış, hükümdarın dinî meşruiyetini doğrudan artırıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Meşruiyet için gereken davranış, maliyeyi zayıflatan davranışla aynıydı; hükümdarın ikisini birden gözetme imkânı sınırlıydı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Burada somut hâli, meşruiyet üretmenin bedava olmadığı ve bedelinin ölçülebildiğidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Krallığın sonu genellikle dışarıdan gelen bir askerî baskıyla anlatılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Krallığın sonu genellikle dışarıdan gelen bir askerî baskıyla anlatılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas iki açıklamayı da kaydeder ve birleştirmeye çalışmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosyanın birincil kaynağı, krallığın saray anlatısıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metnin derlenme tarihi, anlattığı dönemden yüzyıllar sonradır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas metni bu çerçevede kullanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas metni bu çerçevede kullanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Saray anlatısı, hanedanın kökenini dinî bir çerçeveye ve uzak bir soya bağlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Anlatının işlevi geçmişi açıklamak değil, bugünkü hükümranlığı gerekçelendirmektir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı teknik atlasın Güneydoğu Asya, Batı Afrika ve Amerika dosyalarında görülür.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Afrika"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Krallığın çevre bölgelerle ilişkisi doğrudan yönetim değil, katmanlı bağlılıktı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Krallığın çevre bölgelerle ilişkisi doğrudan yönetim değil, katmanlı bağlılıktı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu, atlasın dosyasında tanımlanan yapının bir örneğidir: egemenlik bir sınırla değil, merkezden uzaklaştıkça zayıflayan bir etki alanıyla ölçülür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Merkez zayıfladığında çevre birimler bağlılığı yenilemez ve düzen sessizce dağılır; tek bir yenilgi gerekmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Krallık döneminde bölgenin yazı düzeni kurumsallaştı ve bağış kayıtları taşa yazıldı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Taş kayıtların değeri, saray anlatısıyla karşılaştırılabilir olmalarıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Taş kayıtların değeri, saray anlatısıyla karşılaştırılabilir olmalarıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu karşılaştırmayı bu dosyada yapmaz ve borç olarak bırakır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Krallığın doğusunda, aynı yüzyıllarda benzer ölçekte bir başka düzen bulunuyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Krallığın doğusunda, aynı yüzyıllarda benzer ölçekte bir başka düzen bulunuyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Benzerlik tesadüf değildir ama doğrudan bir alışverişin kanıtı da sayılmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas iki düzeni ayrı dosyalarda tutar ve karşılaştırmayı okura bırakır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Krallığın nüfusuna dair sayılar, saray anlatısından ve sonraki derlemelerden gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Krallığın nüfusuna dair sayılar, saray anlatısından ve sonraki derlemelerden gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ayakta kalan yapılar sayılabilir ve bu sayı, kayıt değil ölçümdür; atlasın bu dosyada güvendiği tek niceliksel bilgi budur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yapı sayısından nüfusa geçmek ise bir varsayım zinciri gerektirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Krallığın dağılmasından sonra bölgede küçük siyasi birimler oluştu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Krallığın dağılmasından sonra bölgede küçük siyasi birimler oluştu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu ara dönem, atlasın kaydettiği genel bir gözlemi doğrular.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu bağı bir yasa olarak ileri sürmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki beşinci dosyadır ve bölgenin batı ucunu ilk kez ele alır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki beşinci dosyadır ve bölgenin batı ucunu ilk kez ele alır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dosyanın seçilme gerekçesi kapsamdan çok mekanizmadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu mekanizma başka bölgelerde de vardır ve orada başka biçimler alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya üç kaynağa dayanır ve biri birincildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu ayrım künyede gizlenmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dönemin taş kayıtlarının doğrulanabilir bir tam metin derlemesi bulunamamıştır ve bu, dosyanın en önemli kısıtıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Krallığın hükümdar listesi, taht kavgaları ve hanedan tarihi burada verilmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yapıların mimari özellikleri, üslup evreleri ve resim programları da kapsam dışıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bölgedeki dinî geleneğin kendi tarihi burada işlenmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bağışların taşa yazılmış olması, bu dosyanın merkezindeki mekanizmayı ölçülebilir kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, atlasın nadiren sahip olduğu türden bir kanıttır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Taşa yazılan bir bağış, bir övünme kaydıdır; yapılmayan bağışlar ya da geri alınan topraklar aynı titizlikle yazılmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu yüzden kayıtlardan çıkarılan eğilim, bağışın yönünü doğru verir ama büyüklüğünü olduğundan fazla gösterebilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

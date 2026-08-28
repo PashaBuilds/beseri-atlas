@@ -1,0 +1,21 @@
+{
+  "id": "kaynak-kojiki",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.175Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas iki metni birlikte okur.[^k3] Aynı saraydan çıkan iki kaydın farklı olması, resmî anlatının o tarihte henüz tek biçim olmadığını gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosya, metnin bölümlerini tek tek özetlemez.[^k1] Tam metin künyede anılan çeviriden okunabilir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

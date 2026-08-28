@@ -1,0 +1,35 @@
+{
+  "id": "tartisma-orta-asya-neden-cekildi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.170Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Cümlenin işlevi, dört yüzyılı atlamaktır.[^k2] Bölgenin tarihi, çoğu anlatıda Timurlulardan doğrudan on dokuzuncu yüzyıl fetihlerine geçer ve aradaki dönem tek bir geçiş cümlesine ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İmar faaliyeti bir refah göstergesi olarak tek başına yeterli değildir.[^k3] Yapı üretimi, gelir dağılımının değişmesiyle de artabilir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İkinci konum, ticaretin ucuzluğa değil güvenli geçişe bağlı olduğunu ileri sürer.[^k1] Geçiş, tek bir siyasi çatı altında ucuzlar.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu tek başına bir kanıt değildir.[^k1] Saray himayesinde yazılan metinlerden kendi dönemlerini kötülemesi beklenmez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

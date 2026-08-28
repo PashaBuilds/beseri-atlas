@@ -1,0 +1,28 @@
+{
+  "id": "kavram-kurulus-anlatisi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.166Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kavram, ayrımın nasıl yapılacağını da tek başına vermez.[^k3] Her öğe kendi bağımsız kanıtıyla sınanmalıdır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden anlatıyı kanıt yerine koymaz.[^k2] Anlatı bir soru listesi verir; cevapları başka kaynaklardan gelir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kuruluş anlatıları tek seferlik metinler değildir.[^k1] Törenlerde, derslerde ve bayramlarda düzenli olarak tekrarlanır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

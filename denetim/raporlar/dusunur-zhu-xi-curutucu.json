@@ -1,0 +1,91 @@
+{
+  "id": "dusunur-zhu-xi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.162Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Resmîleşen bir yorumun en önemli özelliği, zamanla yorum olduğunun unutulmasıdır.[^k1] Öğrenci metni değil, metnin belirli bir okunuşunu öğrenir ve ikisini ayırt etmez.",
+      "sorun": "\"en önemli\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Ayrımın işlevi, dünyanın hem düzenli hem değişken olmasını aynı çerçevede açıklayabilmektir.[^k1][^k2] Düzen ilkededir; değişkenlik maddededir.",
+      "sorun": "Makale dogu-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, atlasın kaydettiği yayılma yolları arasında ayrı bir kategoridir.[^k1] Bir düşüncenin kurumla birlikte taşınması, tek başına taşınmasından farklı sonuçlar verir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Aynı yorum, taşındığı her yerde aynı biçimde benimsenmedi.[^k3] Bazı bölgelerde eleştirilerek, bazılarında seçmeci biçimde alındı.",
+      "sorun": "Makale dogu-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Bu fark, atlasın önemli bir gözlemini destekler.[^k3] Bir öğretinin yayılması onun her yerde aynı şeyi ifade ettiği anlamına gelmez; alan taraf, aldığını kendi sorunlarına göre yen",
+      "sorun": "Makale dogu-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden yayılmayı tek bir merkezden çevreye akış olarak anlatmaz.[^k1] Her alımlanma noktası, ayrı bir dosya konusudur.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu yüzden yayılmayı tek bir merkezden çevreye akış olarak anlatmaz.[^k1] Her alımlanma noktası, ayrı bir dosya konusudur.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden bu dosyada terimleri Türkçe karşılıklarıyla sabitlemez.[^k2] Terimlerin ne anlama geldiği, metnin kendisinden ve çeviri karşılaştırmasından okunmalıdır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Üç dosya birlikte okunduğunda, bir geleneğin bin beş yüz yıl boyunca nasıl taşındığı ve nerede değiştiği görünür.[^k2] Tek bir dosya bu süreyi anlatamaz.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, atlasın düşünür katmanını kurma biçimidir.[^k3] Dosyalar tek tek kişileri değil, kişiler arasındaki aktarım zincirini kaydeder.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "yuksek",
+      "tip": "anakronizm",
+      "cumle": "Sınav sisteminin kendi tarihi de kapsam dışıdır.[^k3] Bu, atlasın [Bürokrasi](/kavram/burokrasi/) dosyasıyla kesişir ve orada ele alınır.",
+      "sorun": "\"bürokrasi\" kavramı yaklaşık 1750'den itibaren kullanılıyor; makale 1200'te bitiyor.",
+      "oneri": "Kavramı dönemin kendi diliyle değiştir ya da geriye dönük okuma olduğunu açıkça belirt."
+    },
+    {
+      "ciddiyet": "yuksek",
+      "tip": "anakronizm",
+      "cumle": "Yaşadığı dönemin siyasi düzeni için [Song Hanedanı](/aktor/song-hanedani/), yorumun taşındığı kurum için [Bürokrasi](/kavram/burokrasi/) dosyaları uygundur.[^k3]",
+      "sorun": "\"bürokrasi\" kavramı yaklaşık 1750'den itibaren kullanılıyor; makale 1200'te bitiyor.",
+      "oneri": "Kavramı dönemin kendi diliyle değiştir ya da geriye dönük okuma olduğunu açıkça belirt."
+    }
+  ]
+}

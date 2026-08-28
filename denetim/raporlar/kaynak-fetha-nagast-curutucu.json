@@ -1,0 +1,28 @@
+{
+  "id": "kaynak-fetha-nagast",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.173Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Derleyici, kendi cemaatinin dağınık hukuk kayıtlarını tek kitapta toplamayı amaçladı.[^k1] Amaç, bir imparatorluğa kanun vermek değildi.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Metnin kendi kaynakları da tek bir gelenekten gelmez.[^k2] Kutsal metinler, kilise konsillerinin kararları ve Roma hukuku geleneğinden gelen derlemeler bir arada kullanılır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden metne bütün olarak atıf yapmaz.[^k3] Hangi maddenin hangi katmandan geldiği, o maddenin nasıl okunacağını değiştirir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

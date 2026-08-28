@@ -1,0 +1,247 @@
+{
+  "id": "dusunur-biruni",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:25.701Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bîrûnî, Hârizm bölgesinde doğdu ve yetişti; sonraki yıllarında Gazneli sarayının çevresinde çalıştı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çağdaşı ile aynı kuşaktandır ve ikisi de aynı siyasi coğrafyanın hanedan merkezlerinde çalışmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ama ilgi alanları ayrışır: biri metafizik ve tıp üzerinde yoğunlaşırken, öteki takvimler, ölçümler ve halkların kayıtları üzerinde durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, eserlerinin çokluğunu ve konu genişliğini öne çıkarır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya ikisine bağlanır: takvimler ve tarihlendirme üzerine olan Âsârü'l-bâkıye ile Hindistan üzerine olan Tahkīku mâ li'l-Hind.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Hindistan"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya ikisine bağlanır: takvimler ve tarihlendirme üzerine olan Âsârü'l-bâkıye ile Hindistan üzerine olan Tahkīku mâ li'l-Hind.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Âsârü'l-bâkıye, farklı halkların takvimlerini ve dönemlendirme sistemlerini yan yana koyar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir takvimi başka bir takvime çevirmek, o toplulukların başlangıç saydığı olayları da yan yana koymak demektir; kitap bu yüzden yalnızca hesap değil, aynı zaman",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tahkīku mâ li'l-Hind, Hint dinî ve bilimsel geleneklerini doğrudan o geleneğin metinlerine dayanarak anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Hint"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Eserin atlas açısından en önemli tarafı konusu değil, yöntemidir: yazar neyi okuduğunu, neyi aktarma yoluyla öğrendiğini ve nerede emin olmadığını ayrı ayrı bel",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir iddianın nereden geldiğini iddianın yanında taşımak, bugün bu atlasın her makalede uyguladığı kuraldır; Tahkīku mâ li'l-Hind bunun bin yıl önceki bir uygula",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Eser ayrıca kendinden önceki anlatıları değerlendirir ve bir kısmını güvenilmez bulur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, matematik, astronomi ve doğa bilimleri alanlarındaki çalışmalarını da kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ölçüm ile kayıt karşılaştırmasının aynı kişide birleşmesi, atlasın onu tek bir eksen altında sınıflamamasının dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ölçüm ile kayıt karşılaştırmasının aynı kişide birleşmesi, atlasın onu tek bir eksen altında sınıflamamasının dayanağıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu konuda hüküm vermez; eserin ne yaptığını kaydeder, ne olduğunu adlandırmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu konuda hüküm vermez; eserin ne yaptığını kaydeder, ne olduğunu adlandırmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bîrûnî ile 'nın aynı yıllarda, birbirine yakın merkezlerde çalışmış olması, bölgenin o dönemdeki yoğunluğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Farklı halkların takvimlerini yan yana koymak, önce her birinin başlangıç saydığı noktayı bulmayı gerektirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu başlangıçlar birbirine çevrilmeden hiçbir olay ortak bir eksene yerleştirilemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Eser bu işlemi yaparken yalnızca hesap vermez; hangi topluluğun hangi kaydı tuttuğunu ve o kaydın nereden geldiğini de yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Takvimleri karşılaştıran biri, hangi takvimin \"doğru\" olduğunu söylemek zorunda değildir; yalnızca aralarındaki dönüşümü kurar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tahkīku mâ li'l-Hind, konusunu bölümlere ayırarak ilerler: inanç, felsefe, ölçü birimleri, coğrafya, takvim ve hesap ayrı ayrı ele alınır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Eserin açılışında yazar, kendinden önce bu konuda yazılmış olanların bir kısmını yetersiz bulduğunu belirtir ve kendi yönteminin farkını anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaynaklarını nasıl kullandığını da açıkça yazar: doğrudan okuduğu metinlerle, kendisine anlatılanları ayırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosyanın kendi künyesi de aynı şemayı kullanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosyanın kendi künyesi de aynı şemayı kullanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosyanın kendi künyesi de aynı şemayı kullanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birincisi coğrafidir: yaşadığı bölgeyi etiket olarak taşıyan makale sayısı, bu dosya yazıldığında korpusun en dar kümelerinden biriydi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlasın kendi kuralları — her iddianın kaynağını yanında taşıması, aktarma ile birincil metin arasındaki farkın künyede gösterilmesi, tartışmalı sorularda hüküm",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya üç kaynağa dayanır: Türkçe akademik literatürden bir madde ve iki ayrı eserin kamu malı tam metni.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya üç kaynağa dayanır: Türkçe akademik literatürden bir madde ve iki ayrı eserin kamu malı tam metni.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türkçe"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya üç kaynağa dayanır: Türkçe akademik literatürden bir madde ve iki ayrı eserin kamu malı tam metni.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türkçe"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Eserlerin kullanılan çevirileri on dokuzuncu yüzyıla aittir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Eserlerin kullanılan çevirileri on dokuzuncu yüzyıla aittir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosyanın bağlandığı iki metin de on dokuzuncu yüzyılda yapılmış çevirilerdir ve ikisi de aynı çevirmenin elinden çıkmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosyanın bağlandığı iki metin de on dokuzuncu yüzyılda yapılmış çevirilerdir ve ikisi de aynı çevirmenin elinden çıkmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Astronomi ve matematik çalışmaları burada işlenmez; bunlar ayrı kaynak dosyaları gerektirir ve bu dosya yazıldığında atlasta o dosyalar bulunmuyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mineraloji ve eczacılık üzerine yazdıkları da kapsam dışıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Hindistan eserindeki din ve felsefe bölümlerinin içeriği de burada özetlenmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

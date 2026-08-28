@@ -1,0 +1,35 @@
+{
+  "id": "olay-waitangi-antlasmasi-1840",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.125Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tekelin pratik sonucu doğrudan ekonomiktir.[^k4] Alıcının tek olması, fiyatı belirleme gücünü de tek elde toplar.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosya, atlasın Okyanusya katmanındaki ilk olay dosyasıdır.[^k4] Katman uzun süre yalnızca aktör ve kavram dosyalarından oluşuyordu.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Antlaşma tek bir kâğıt değildir.[^k4] İmzalar farklı yerlerde dolaştırılan birden çok nüsha üzerinde toplanmıştır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu ayrıntı dosyanın konusunu doğrudan etkiler.[^k2] \"Antlaşma\" denildiğinde tek bir fiziksel nesne kastedilemez ve atıf yapılırken nüsha belirtilmelidir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

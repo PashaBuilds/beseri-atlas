@@ -1,0 +1,42 @@
+{
+  "id": "kaynak-popol-vuh",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.176Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Popol Vuh, bir topluluğun dünyanın ve kendi soyunun oluşumunu anlatan kuruluş metnidir.[^k1][^k2] Anlatı yaratılış denemeleriyle başlar, iki kardeşin yeraltı dünyasıyla hesaplaşmas",
+      "sorun": "Makale amerika kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden metni bir fetih öncesi belgesi olarak değil, fetihten hemen sonra tutulmuş bir kayıt olarak künyeler.[^k1] Tarih alanındaki yıl, anlatının değil kaydın tarihidir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bugün elde bulunan metin, ilk kaydın kendisi değildir.[^k2] Elimizdeki biçim, sonraki bir yüzyılda bir din adamının yaptığı kopya ve çeviri üzerinden gelir.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kullanılan kaynak, bu zincirin sonundaki standart okumayı sunar.[^k1] Atlas tek bir okumaya bağlanmanın sınırını kaydeder ve metne yapılacak atıflarda hangi çevirinin kullanıldığın",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Metne yapılacak atıflarda bölüm ve sayfa numarası ile kullanılan çeviri belirtilmelidir; tek bir çeviriye dayanan okuma, o çevirinin tercihlerini de devralır.[^k1]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

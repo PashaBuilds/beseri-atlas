@@ -1,0 +1,70 @@
+{
+  "id": "aktor-komance",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.139Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Komançe, on sekizinci yüzyıl başından on dokuzuncu yüzyıl sonuna kadar Kuzey Amerika'nın güney ovalarında etkili olan bir güçtür.[^k1] Merkezî bir yönetimi ve tek bir önderi yoktu.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Örgütlenme, birbirinden bağımsız hareket eden gruplar biçimindeydi.[^k2] Gruplar ortak dil ve akrabalık bağları taşıyordu; ortak bir karar organı ya da tek bir başkent taşımıyordu ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, atlasın Samoa dosyasında ölçtüğü uyumsuzluğun aynısıdır.[^k3] Dış tanıma, tanınacak tarafın tek bir muhatap üretmesini gerektirir; bu biçimi taşımayan düzenler tutarsız olarak ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki örnek arasında ortak üç unsur vardır.[^k3] Merkezsiz örgütlenme, atın hızlı benimsenmesi ve karşı tarafın tek muhatap bulamaması.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yüzyıl ortasında bölgedeki devlet sayısı azaldı.[^k2] Güneydeki iki devlet arasındaki savaş, bölgenin tek bir yönetim altına girmesiyle sonuçlandı.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Yok ediliş, deri talebi ve demiryolu erişiminin birlikte etkisiyle hızlandı.[^k2] Avlanma, ticari ölçekte ve dış pazara yönelik hâle geldi.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynaklarda geçen ad, tek bir topluluğu değil birden çok grubu karşılar.[^k1] Grupların kendilerini nasıl adlandırdığı, dışarıdan verilen adla aynı değildir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosya, atın tek belirleyici etken olduğunu ileri sürmez.[^k1] Otlak coğrafyası, ticaret ağı ve komşu devletlerin rekabeti ayrı ayrı etkendir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sonun nedeni de tek etkene bağlanmaz.[^k3] Dört etken sıralanır ve ağırlıkları ölçülmemiştir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

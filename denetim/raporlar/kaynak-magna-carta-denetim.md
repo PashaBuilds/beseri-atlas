@@ -1,0 +1,51 @@
+## kaynak-magna-carta
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:07:26.849Z_
+
+- [OK]      k1 → "Magna Carta, 1215'te bir kral ile ona karşı ayaklanan baronlar arasında yapılan bir uzlaşmanın metnidir."
+- undefined k1 → "Maddelerin büyük bölümü feodal yükümlülükleri düzenler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu dosyanın asıl konusu metin ile ona yüklenen anlam arasındaki farktır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Metin bir bildiri değil bir uzlaşmadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Sağlanan haklar da somuttur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Genel ifadeler azınlıktadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu, atlasın Hammurabi dosyasında ölçtüğü örüntünün aynısıdır." — programatik olarak ölçülemedi (ad karşılığı yok): Hammurabi
+- undefined k1 → "Örüntü iki belgede de aynı yöndedir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas bu tekrarı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Belge imzalandıktan yaklaşık üç ay sonra, kralın başvurusu üzerine geçersiz ilan edildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Geçersizlik ilanı iç savaşı durdurmadı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Atlas bu diziyi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Belge sonraki yüzyıl boyunca birçok kez yeniden yayımlandı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Bugün yürürlükte sayılan maddeler, 1215 metninden değil sonraki bir yayımdan gelir."
+- undefined k1 → "Atlas bu ayrımı künye kuralı hâline getirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Aynı kural, birden çok kez yayımlanmış bütün belgeler için geçerlidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "İki kural aynı ailedendir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas iki kuralı birlikte uygular." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Metin, kralın yükümlülüklerini ihlal etmesi hâlinde işleyecek bir düzenek öngörür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu madde, metnin en aykırı bölümüdür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Madde sonraki yayımlarda çıkarıldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Belgeye bugünkü anlamı, on yedinci yüzyıldaki siyasi mücadeleler kazandırdı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Kullanım tarihsel olarak yanlıştı ve siyasi olarak etkiliydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Atlas iki düzeyi ayrı tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Yeniden okuma keyfî değildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Genelleştirme, metnin kapsamını değiştirdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas bu adımı ayrıca işaretler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Belgeyi bugünün kavramlarıyla okumak, metnin kendi terimlerini görünmez kılar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Metindeki hür kişi ifadesi, nüfusun tamamını değil belirli bir kesimi karşılar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas bu kısıtı ayrıca yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "1215 metninin dört nüshası günümüze ulaşmıştır."
+- undefined k1 → "Bu, atlasın elyazması kaynaklarında olağan bir durumdur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Künyede kullanılan metin bir çeviridir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu belge ile atlasın Hammurabi künyesi arasında üç bin yıldan fazla vardır." — programatik olarak ölçülemedi (ad karşılığı yok): Hammurabi
+- undefined k1 → "Bir fark belirleyicidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas farkı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Kapsam yoluyla kurulan eşitsizlik, metinde bir ayrım maddesi bırakmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu, sonraki okumaları da kolaylaştırır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas bu mekanizmayı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Dosya, belgenin önemsiz olduğunu ileri sürmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Sonraki yorumların yanlış olduğu da söylenmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Belgenin sonraki anayasal gelişmelerdeki yeri izlenmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Aynı yapıyı üç bin yıl önce gösteren belge için dosyası okunmalıdır; iki dosya birlikte okunduğunda eşitsizliğ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Belgenin düzenlediği yükümlülük düzeni için ve dosyaları uygundur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Geçmiş bir metni bugünün diliyle okumanın riski için , sonradan yüklenen anlamın nasıl kurulduğu için dosyalar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Kaynakların nasıl sınanacağı için dosyası okunmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+
+**Özet:** 3 OK · 0 ISARET · 0 HATA

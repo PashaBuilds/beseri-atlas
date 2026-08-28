@@ -1,0 +1,84 @@
+{
+  "id": "aktor-cagatay-hanligi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.130Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Çağatay ulusu bu yollardan hiçbirini bütünüyle izlemedi.[^k2] Yerleşik bölgeleri ile bozkır bölgeleri arasındaki gerilim, tek bir yöne karar verilmesini engelledi.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sonuç bütünleşme değil bölünme oldu.[^k1] Atlas bu farkı ayrıca kaydeder: \"Moğol ardıl devleti\" tek bir kategori değildir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Çekişme, ayrışmanın nedeni değil biçimidir.[^k2] Birbirinden farklı ekonomik temellere oturan iki bölgeyi tek merkezden yönetmenin maliyeti, çekişmeye zemin hazırlar.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Zamanla haklar toprağa dönüştü.[^k4] Bu dönüşüm, ardıl birimlerin ayrı devletlere evrilmesinin hukuki temelidir ve kayıtlarda tek bir anla işaretlenemez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dört ardıl birimin karşılaştırılması bir örüntü verir.[^k1] Tek bir ekonomik temele oturan birimler bütünleşti; iki temeli birlikte taşıyan birim bölündü.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Batı kanadındaki yerleşik bölgeler, bölgenin en eski sulama tarımı ve şehir ticareti alanlarındandı.[^k2] Gelir, otlaktan değil bu bölgelerden geliyordu.",
+      "sorun": "\"en eski\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Batı kanadında yönetici kesimin İslamlaşması on dördüncü yüzyıl başında belirginleşti.[^k1] Süreç tek bir kararla değil kuşaklar boyunca ilerledi.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu ayrımı ayrıca yazar.[^k2] Bir adın sonradan geniş bir alana yayılması, adı taşıyan ilk birimin o alana hâkim olduğunu göstermez.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Hanların tek tek listesi ve saltanat süreleri burada verilmez.[^k1] Kaynaklar bu konuda örtüşmez ve liste vermek örtüşme izlenimi yaratır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosya bölünmenin tek nedene bağlanabileceğini ileri sürmez.[^k2] Ekonomik temel farkını, izlenebilir en doğrudan etken olarak kaydeder.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Meşruiyet kuralının her yerde aynı biçimde işlediği de söylenmez.[^k1] Kural bu gelenekte ve bu dönemde ölçülmüştür; başka geleneklerde soy şartının bulunması, aynı bağlayıcılığı t",
+      "sorun": "Makale orta-asya/islam-dunyasi kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "dusunur-asoka",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.155Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, ilk bakışta teknik bir ayrıntı gibi görünür ama sonucu büyüktür. Elimizde bir hükümdarın kendi ağzından çıkmış metinler vardır; hangi hükümdar olduğu ise metinden değil dışarıd",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sınır belirtilmelidir: kullanılan neşirler yirminci yüzyılın ilk yarısına aittir.[^k1][^k2] Sonraki bulgular ve okuma önerileri bu dosyada kullanılmamıştır; güncel epigrafi literat",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Fermanların tek tek içerikleri, bulundukları yerler ve metin varyantları burada işlenmez;[^k1][^k2] her biri ayrı bir çalışma konusudur.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Dönemin siyaset düşüncesinin öteki tarafı için [Kautilya](/dusunur/kautilya/) dosyası okunabilir; iki metin aynı bölgeden ve birbirine yakın dönemlerden gelir ama tamamen farklı tü",
+      "sorun": "Kesinlik ifadesi \"tamamen\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "İkisi tamamen farklı türdedir. Biri kamuya kazınmış duyurudur ve yönetimin kendini nasıl gösterdiğini söyler; öteki yöneticiye yönelik bir el kitabıdır ve yönetimin kendi içinde ne",
+      "sorun": "Kesinlik ifadesi \"tamamen\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu ikisinin farkı, tek bir kaynak türüne dayanan tarih okumasının neyi kaçıracağını gösterir. Yalnızca fermanlara bakan biri, yönetimi kendi ilan ettiği ahlaki çerçeve içinde görür",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tartisma-sozlu-gelenek-kaynak-mi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.170Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "yuksek",
+      "tip": "kesinlik-dili",
+      "cumle": "Atlasın en çok kullandığı tanık kaynaklarından biri, gezginin kendi gördükleri kadar yolda dinlediklerini de içerir.[^k4] Metin yazılıdır; içeriğinin önemli bir bölümü sözlüdür ve ",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bu üçlü durum — eski anlatı, yeni alfabe, değişmiş siyasi koşul — metni tek bir kategoriye yerleştirmeyi imkânsız kılar.[^k1] Atlas bu yüzden kategoriyi zorlamak yerine üç katmanı ",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu üçlü durum — eski anlatı, yeni alfabe, değişmiş siyasi koşul — metni tek bir kategoriye yerleştirmeyi imkânsız kılar.[^k1] Atlas bu yüzden kategoriyi zorlamak yerine üç katmanı ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosya, atlasın kendi yöntemini doğrudan ilgilendiren ilk tartışma dosyalarından biridir.[^k2] Öteki tartışma dosyaları geçmiş hakkındaki soruları ele alır; bu dosya, geçmişin na",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

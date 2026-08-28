@@ -1,0 +1,21 @@
+{
+  "id": "kavram-aletsiz-seyrusefer",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.163Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sistem birden çok gösterge kullanır ve hiçbirine tek başına güvenmez.[^k1] Yıldızların doğuş ve batış noktaları, hâkim dalga yönleri, bulut biçimleri, kuş uçuş rotaları ve suyun re",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosyanın kapsamadıkları belirtilmelidir.[^k2] Tek tek ada gruplarının yöntem farkları, tekne biçimleri ve mevsimlik seyir takvimleri burada işlenmez; her biri ayrı dosya gerektirir",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

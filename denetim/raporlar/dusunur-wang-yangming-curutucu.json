@@ -1,0 +1,56 @@
+{
+  "id": "dusunur-wang-yangming",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.161Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Karşı çıkılan yorumun ayrıcalığı felsefi değil kurumsaldı.[^k2] O yorum, devlete girmenin tek yolunun geçtiği müfredatın içindeydi.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Örüntü atlasta başka yerlerde de görülür.[^k3] Resmî bir yorumun bulunduğu her yerde, ona en ciddi itiraz genellikle onu en iyi öğrenmiş olandan gelir.",
+      "sorun": "Makale dogu-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bölünme, ilkenin kendisindeki belirsizlikten kaynaklanır.[^k1] Eylemin doğruluğunu ölçen dışsal bir ölçüt bırakılmadığında, ölçüt kişinin kendi yargısı olur.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki konum arasındaki fark, tek bir ifadenin nasıl okunacağında yoğunlaşır.[^k1] Kanonun bir cümlesindeki \"şeylerin araştırılması\" ifadesi, her iki taraf için de dayanak sayılır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Yerleşik yorum ifadeyi dış dünyanın incelenmesi olarak okur.[^k2] Karşı konum, aynı ifadeyi kişinin kendi niyetlerinin düzeltilmesi olarak okur.",
+      "sorun": "Makale dogu-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Üç adım her yerde aynı sırayla işlemez.[^k2] Atlas örüntüyü bir yasa değil tekrar eden bir gözlem olarak kaydeder.",
+      "sorun": "Makale dogu-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosya bir başka dosyayla birlikte okunmak üzere yazılmıştır.[^k2] Tek başına okunduğunda, karşı çıkılan konum yeterince görünmez.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

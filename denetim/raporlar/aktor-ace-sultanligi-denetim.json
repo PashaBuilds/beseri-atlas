@@ -1,0 +1,391 @@
+{
+  "id": "aktor-ace-sultanligi",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:24.620Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Açe Sultanlığı, büyük bir adanın kuzey ucunda, Hint Okyanusu'ndan boğaza girmeden önceki son noktada kurulmuştur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Açe Sultanlığı, büyük bir adanın kuzey ucunda, Hint Okyanusu'ndan boğaza girmeden önceki son noktada kurulmuştur.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Okyanusu"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Boğazın denetimi bir başka güce geçtiğinde, buradaki liman boğaza girmeden okyanusa açılan alternatif bir güzergâhın başlangıcı hâline gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlasın dosyası boğazın kendisini anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Boğazın Avrupa donanmalarınca denetim altına alınması, bölgedeki ticaretin sona ermesi anlamına gelmedi.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Avrupa"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Boğazın Avrupa donanmalarınca denetim altına alınması, bölgedeki ticaretin sona ermesi anlamına gelmedi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, atlasın kaydettiği en açık abluka aşma örneğidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sonuç, denetim kuran tarafın beklediğinden farklı oldu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sultanlığın ekonomik temeli, kendi topraklarında yetişen bir baharatın üretimi ve ihracıydı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sultanlığın ekonomik temeli, kendi topraklarında yetişen bir baharatın üretimi ve ihracıydı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aracı, malın akışını denetler ama akış yön değiştirdiğinde elinde bir şey kalmaz; üretici, malın kendisine sahiptir ve alıcı kim olursa olsun satabilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu fark, sultanlığın uzun ömrünü açıklamanın bir parçasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sultanlık, kendisinden çok uzaktaki büyük bir devletten askerî destek istedi ve aldı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu ilişki, atlasın kaydettiği en uzun mesafeli askerî iş birliklerinden biridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İlişkinin dayanağı ortak inanç çerçevesiydi ama sürdürücüsü ortak çıkardı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Destek, mesafenin izin verdiği ölçüde geldi ve düzenli değildi; uzak bir müttefik, yakın bir rakibin yerini tutmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İttifakın değeri yalnızca müttefikin gücüyle değil, o gücün olay yerine ne kadar sürede ulaşabildiğiyle ölçülür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sultanlığın kendi donanmasını kurmuş olması bu sınırın kabulüdür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sultanlık kendi gemi yapımını ve donanmasını geliştirdi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sultanlık kendi gemi yapımını ve donanmasını geliştirdi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kendi donanmasını kuran bir liman devleti, tarafsızlık sermayesinden vazgeçmiş olur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu tercihin bedeli ve kazancı birlikte okunmalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sultanlıkta hukuk düzeni, dinî hukukun yerel örf ile birlikte uygulanmasına dayanıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sultanlıkta hukuk düzeni, dinî hukukun yerel örf ile birlikte uygulanmasına dayanıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Böyle karma bir düzende, hangi konunun hangi kaynağa göre çözüleceği bir uygulama meselesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu düzeni bir eksiklik olarak değil bir biçim olarak kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sultanlığın tarihinde birbirini izleyen kadın hükümdarlar bulunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sultanlığın tarihinde birbirini izleyen kadın hükümdarlar bulunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Seyrek olması, açıklanması gereken bir olgu yapar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas iki olgu arasında bir nedensellik kurmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sultanlık döneminde bölgede yoğun bir dinî metin üretimi ve çeviri faaliyeti yürüdü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sultanlık döneminde bölgede yoğun bir dinî metin üretimi ve çeviri faaliyeti yürüdü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir liman devletinin metin üretim merkezi olması tesadüf değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu, atlasın Orta Asya dosyalarında da kaydettiği bağın deniz karşılığıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosyanın birincil kaynağı sultanlığı değil, ondan yaklaşık yüz elli yıl önce aynı adanın kuzeyini görmüş bir gezginin kaydıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Gezgin, bölgede o tarihte zaten yerleşik bir liman düzeni ve dinî kurumlar bulunduğunu kaydeder; sultanlık boşluğa değil, mevcut bir düzenin üzerine kurulmuştur",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, sultanlığın kuruluşunu bir başlangıç değil bir yeniden düzenleme olarak okumayı mümkün kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu, sultanlığın kuruluşunu bir başlangıç değil bir yeniden düzenleme olarak okumayı mümkün kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya üç kaynağa dayanır ve biri birincildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sultanlığın kendi saray kayıtlarının ve hukuk derlemelerinin doğrulanabilir, tam metin bir baskısı bu dosya yazıldığında bulunamamıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu durum, atlasın başka bölge dosyalarında da ölçülen bir eğilimin devamıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sultanlığın sonu, uzun süren bir savaşın ardından geldi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sultanlığın sonu, uzun süren bir savaşın ardından geldi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Direnişin uzunluğu, sultanlığın merkezî değil dağınık bir yapıya sahip olmasıyla açıklanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu, atlasın Orta Asya dosyalarında kaydettiği gözlemin tersidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sultanlığın nüfusuna, ordu ve donanma büyüklüğüne dair sayılar rakip kayıtlarından ve sonraki derlemelerden gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sultanlığın nüfusuna, ordu ve donanma büyüklüğüne dair sayılar rakip kayıtlarından ve sonraki derlemelerden gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Rakip kayıtlarındaki sayıların yönü bellidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu yüzden bu dosyada bir sayı vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sultanlık, adanın öteki liman şehirleriyle sürekli bir rekabet içindeydi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu çokluk, atlasın Doğu Afrika kıyısı için de kaydettiği yapıyla aynıdır.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Afrika"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki bölgenin benzerliği, aynı deniz ağının iki ucunda bulunmalarıyla ilgilidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki altıncı dosyadır ve bölgeyi Avrupa donanmalarının gelişinden sonraki yüzyıllara taşır.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Avrupa"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki altıncı dosyadır ve bölgeyi Avrupa donanmalarının gelişinden sonraki yüzyıllara taşır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dosyanın seçilme gerekçesi, bölgenin sömürge dönemine tek bir anlatıyla girmediğini göstermektir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu ayrım, atlasın sömürgecilik dosyalarını okumak için gereklidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sultanlığın hükümdar listesi, taht kavgaları ve hanedan tarihi burada verilmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun direniş savaşının askerî ayrıntıları ve sonraki sömürge yönetimi de kapsam dışıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bölgedeki dinî geleneğin kendi tarihi burada işlenmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Uzun süren direniş, sultanlık hakkındaki kayıtların bileşimini de değiştirdi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun süren direniş, sultanlık hakkındaki kayıtların bileşimini de değiştirdi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu, atlasın dikkat çektiği bir tersliktir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Okur bu farkı bilerek okumalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bölgeyi yüz elli yıl önce görmüş tanık için , sömürge döneminin bilançosunun nasıl tartışıldığı için dosyaları okunabilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "id": "aktor-karahanlilar",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:25.030Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Karahanlılar, Mâverâünnehir ile Doğu Türkistan arasındaki bölgede hüküm süren ve merkezlerini Balasagun ile Kâşgar'da tutan bir hanedandır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hanedanın atlas açısından ayırt edici yanı siyasi genişliği değil, yönettiği dönemde üretilen ve bugüne ulaşan metinlerdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Hanedanın atlas açısından ayırt edici yanı siyasi genişliği değil, yönettiği dönemde üretilen ve bugüne ulaşan metinlerdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Hanedanın atlas açısından ayırt edici yanı siyasi genişliği değil, yönettiği dönemde üretilen ve bugüne ulaşan metinlerdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "dosyası aynı coğrafyanın bir önceki siyasi düzenini anlatır; iki dosya birlikte okunduğunda hanedan değişiminin idari ve kültürel süreklilikle nasıl bir arada d",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya iki birincil metne bağlanır: bir siyaset ve ahlak kitabı ile bir sözlük.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya iki birincil metne bağlanır: bir siyaset ve ahlak kitabı ile bir sözlük.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosyadan önce yazılan dosyası için doğrulanabilir bir birincil metin bulunamamış ve bu eksiklik o dosyada beyan edilmişti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir dönemin \"kaynak açısından zengin\" görünmesi, o dönemin daha çok yazdığını değil, yazdıklarının daha çok korunduğunu ve daha çok çevrildiğini gösterebilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir dönemin \"kaynak açısından zengin\" görünmesi, o dönemin daha çok yazdığını değil, yazdıklarının daha çok korunduğunu ve daha çok çevrildiğini gösterebilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kutadgu Bilig, hükümdara sunulmuş, yönetme ve erdem üzerine kurulu bir eserdir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kutadgu Bilig, hükümdara sunulmuş, yönetme ve erdem üzerine kurulu bir eserdir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metin, soyut ilkeleri karşılıklı konuşan kişiler üzerinden işler; her kişi bir niteliği temsil eder ve tartışma bu kişiler arasında yürür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu biçim, eserin ne olduğunu da belirler: bir yasa derlemesi ya da tarih kaydı değil, yöneticiye yönelik bir öğüt metnidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eserin Türkçe yazılmış olması, dönemin yazı dili tercihleri açısından ayrıca kaydedilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Eserin Türkçe yazılmış olması, dönemin yazı dili tercihleri açısından ayrıca kaydedilir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türkçe"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkinci metin bir sözlüktür ve Türk lehçelerini Arapça konuşan bir okur için derler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İkinci metin bir sözlüktür ve Türk lehçelerini Arapça konuşan bir okur için derler.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türk, Arapça"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir sözlüğün atlas açısından değeri, kelime listesi olmasında değil, kelimeleri örnekleyen malzemede yatar: atasözleri, şiir parçaları ve kullanım notları, sözl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Eser ayrıca lehçeleri birbirinden ayırır ve hangi biçimin hangi toplulukta kullanıldığını kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sözlüğün bir harita içermesi de kayda değer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hanedanın İslam'ı benimsemesi, bölgedeki siyasi ve kültürel dönüşümün işaretlerinden biri olarak kaydedilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu benimseme, yukarıdaki iki metnin de arka planıdır: ikisi de İslamî çerçeve içinde, ama Türkçe yazılmıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu benimseme, yukarıdaki iki metnin de arka planıdır: ikisi de İslamî çerçeve içinde, ama Türkçe yazılmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türkçe"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu benimseme, yukarıdaki iki metnin de arka planıdır: ikisi de İslamî çerçeve içinde, ama Türkçe yazılmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türkçe"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Din değişimini kültürel kopuş olarak okumak, elimizdeki metinlerin varlığıyla çelişir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Din değişimini kültürel kopuş olarak okumak, elimizdeki metinlerin varlığıyla çelişir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karahanlıların kökeni ve hangi Türk topluluğundan geldiği tartışmalıdır; kaynaklarda farklı görüşler birlikte aktarılır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hanedanın Mâverâünnehir'e yerleşmesi, bir önceki düzenin sona ermesiyle birlikte gerçekleşmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Devralma, kurumların tamamen değişmesi anlamına gelmemiştir; idari yapının önemli bölümü sürmüştür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sonraki yüzyıllarda hanedanın doğu ve batı kolları farklı siyasi bağımlılıklar altına girmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir siyasi birimin bölünerek devam etmesi, atlasın başlangıç ve bitiş tarihi vermesini zorlaştırır; künyede verilen tarihler kaynaktaki genel çerçeveyi izler ve",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya üç kaynağa dayanır: hanedan üzerine bir ansiklopedi maddesi ve dönemin iki eserinin İngilizce çevirileri.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: İngilizce"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya üç kaynağa dayanır: hanedan üzerine bir ansiklopedi maddesi ve dönemin iki eserinin İngilizce çevirileri.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngilizce"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya üç kaynağa dayanır: hanedan üzerine bir ansiklopedi maddesi ve dönemin iki eserinin İngilizce çevirileri.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngilizce"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Esere yapılacak atıflarda hangi çevirinin kullanıldığı belirtilmelidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Esere yapılacak atıflarda hangi çevirinin kullanıldığı belirtilmelidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkisi de ayrı dosyalar gerektirir ve bu dosya yazıldığında atlasta bulunmuyorlardı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki eser aynı yıllarda yazılmıştır ama farklı okurlara seslenir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki eser aynı yıllarda yazılmıştır ama farklı okurlara seslenir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir öğüt metni, yönetimin nasıl olması gerektiğini anlatır; bir sözlük, konuşulanın ne olduğunu kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir öğüt metni, yönetimin nasıl olması gerektiğini anlatır; bir sözlük, konuşulanın ne olduğunu kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir iddianın öğüt metninden mi yoksa kayıttan mı geldiği, iddianın ağırlığını değiştirir; künye bu farkı gizlemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir iddianın öğüt metninden mi yoksa kayıttan mı geldiği, iddianın ağırlığını değiştirir; künye bu farkı gizlemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir siyasi birimin hangi dilde yazdığı, kültürel etkisini ölçmenin yollarından biridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Karahanlı döneminde Türkçenin bu ölçekte eser vermesi, dilin yalnızca konuşma dili olmaktan çıkıp kayıt dili hâline gelmesidir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türkçenin"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Karahanlı döneminde Türkçenin bu ölçekte eser vermesi, dilin yalnızca konuşma dili olmaktan çıkıp kayıt dili hâline gelmesidir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türkçenin"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu geçişin kendiliğinden olmadığını, iki metnin de kendi gerekçesini sunmasından anlıyoruz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu geçişin kendiliğinden olmadığını, iki metnin de kendi gerekçesini sunmasından anlıyoruz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir yazı dilinin kurumsallaşması, dosyasında Farsça için, bu dosyada Türkçe için kaydedilmiştir; ikisi de aynı yüzyılların içindedir ve aynı coğrafyada gerçekle",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya, atlasın Orta Asya kapsamını genişletme çalışmasının dördüncü adımıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu, önceki dosyalarda beyan edilen kaynak sıkıntısının mutlak olmadığını gösterir: sorun bölgenin kayıt bırakmaması değil, bırakılan kayıtların ne kadarının çev",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu, önceki dosyalarda beyan edilen kaynak sıkıntısının mutlak olmadığını gösterir: sorun bölgenin kayıt bırakmaması değil, bırakılan kayıtların ne kadarının çev",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hanedanın doğu ve batı kollarına ayrılması, atlasın aktör dosyalarında sık karşılaşılan bir sorunu somutlaştırır: bir siyasi birim ikiye bölündüğünde, ortaya çı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gerekçe, kaynakların da ikisini aynı hanedanın kolları olarak ele almasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sonraki dönemde her iki kolun da dış siyasi güçlere bağımlı hâle gelmesi, hanedanın sona erişini kademeli kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı sorun dosyasında da kaydedilmişti; orada bağlılık ile bağımsızlığın bir arada durabildiği belirtilmişti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosyanın bağlandığı iki metnin nasıl okunacağı konusunda bir uyarı gereklidir: ikisi de çeviridir ve çeviriler kendi dönemlerinin okuma alışkanlıklarını taşı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosyanın bağlandığı iki metnin nasıl okunacağı konusunda bir uyarı gereklidir: ikisi de çeviridir ve çeviriler kendi dönemlerinin okuma alışkanlıklarını taşı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

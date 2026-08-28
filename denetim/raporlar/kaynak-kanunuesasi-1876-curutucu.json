@@ -1,0 +1,35 @@
+{
+  "id": "kaynak-kanunuesasi-1876",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.175Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu birlikteliği ayrıca kaydeder.[^k3] Bir belgenin hangi maddelerinin bir arada kullanılabildiği, o belgenin gerçek etkisini metnin tek tek maddelerinden daha iyi gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki metin arasında biçimsel bir fark vardır.[^k2] Ferman hükümdarın tek taraflı iradesiydi; anayasa bir hazırlık kurulu tarafından yazılmıştır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Metin, uyrukların tamamını tek bir hukuki kategoriye bağlar.[^k1] Kategori, kişinin bağlı olduğu topluluktan bağımsız olarak tanımlanır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Maddelerin tek tek içeriği aktarılmaz.[^k1] Metin künyede erişilebilir durumdadır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

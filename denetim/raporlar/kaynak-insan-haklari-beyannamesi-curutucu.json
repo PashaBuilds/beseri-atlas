@@ -1,0 +1,21 @@
+{
+  "id": "kaynak-insan-haklari-beyannamesi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.174Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu ilişkiyi ayrıca kaydeder.[^k1] Kapsamın genişlemesi ile yaptırımın zayıflaması arasında bir bağ bulunup bulunmadığı, tek bir örnekten çıkarılamaz ve açık bir soru olarak b",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Maddelerin tek tek içeriği aktarılmaz.[^k2] Metin künyede erişilebilir durumdadır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

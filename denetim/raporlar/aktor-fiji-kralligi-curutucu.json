@@ -1,0 +1,63 @@
+{
+  "id": "aktor-fiji-kralligi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.132Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Krallığın kuruluşu, adalarda çoğalan yabancı yerleşimcilerle yerel yönetim arasındaki uyuşmazlıkları çözmek üzere tasarlanmıştı.[^k2] Yerleşimciler, tanıyacakları tek bir muhatap i",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bu dosyanın asıl konusu krallığın sona eriş biçimidir.[^k1] Egemenlik askerî yenilgiyle değil, ödenemeyen bir borç yüzünden devredildi.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yerel toprak düzeni, bireysel satışa uygun değildi.[^k1] Toprak akrabalık gruplarına aitti ve tek bir şefin satış yetkisi tartışmalıydı.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Üç örnek aynı yöne işaret eder.[^k1] Toprağın devredilebilirliği, dış sermayenin ve dış nüfusun yerleşmesini belirleyen ilk halkadır.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Adalarda, krallıktan önce tek bir merkezî otorite yoktu.[^k2] Birden çok şeflik birbiriyle rekabet ediyordu ve hiçbiri bütün takımadaya hâkim değildi.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Bağlantı, atlasın küresel ağ dosyalarında ölçtüğü türdendir.[^k1] Bir bölgedeki üretim kararı, bambaşka bir bölgedeki siyasi olaya bağlı olabilir.",
+      "sorun": "Makale okyanusya/avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bağlantı ancak iki bölge birlikte okunduğunda görünür.[^k2] Tek bir bölgenin dosyası okunduğunda, talep düşüşü nedensiz bir dalgalanma gibi görünür.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Zincir dört halkalıdır.[^k1] Borç egemenlik devrine, devir plantasyon ekonomisine, plantasyon emek ithaline, emek ithali kalıcı nüfus değişimine yol açtı.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

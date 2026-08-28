@@ -1,0 +1,28 @@
+{
+  "id": "kavram-akrabalik",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.162Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tek bir çocuğa aktaran kural toprağı bütün tutar.[^k1] Karşılığında kalan çocuklara başka bir yol bulunması gerekir.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Akrabalık her zaman kan bağına dayanmaz.[^k2] Evlat edinme, süt kardeşliği, ant kardeşliği ve şakalaşma ilişkileri de akrabalık üretir.",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tek tek toplumların düzenleri burada sıralanmaz.[^k2] Her biri kendi dosyasında ele alınır.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

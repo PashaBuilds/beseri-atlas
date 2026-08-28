@@ -1,0 +1,84 @@
+{
+  "id": "aktor-chola",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.131Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "yuksek",
+      "tip": "anakronizm",
+      "cumle": "Bu, atlasın [Bürokrasi](/kavram/burokrasi/) dosyasında kavram düzeyinde ele alınan yapının erken bir örneğidir: yönetimin kişiye değil kurala bağlanması.[^k1] Kavram Batı örnekleri",
+      "sorun": "\"bürokrasi\" kavramı yaklaşık 1750'den itibaren kullanılıyor; makale 1279'te bitiyor.",
+      "oneri": "Kavramı dönemin kendi diliyle değiştir ya da geriye dönük okuma olduğunu açıkça belirt."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki dosyanın birlikte okunması, Hint Okyanusu'nun doğu yarısındaki ilişkileri gösterir. Batı yarısı için [Kilva Sultanlığı](/aktor/kilva/) dosyası aynı okyanusun öteki ucundaki düğ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kitabe neşirlerinin doğası gereği, bu dosya kayıtların **türü** hakkında konuşur, tek tek içerikleri hakkında değil.[^k1][^k2] Belirli bir kaydın okunması, o kaydın bulunduğu cildi",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Üçünün yan yana durması, \"birincil kaynak\" teriminin tek bir şey olmadığını gösterir. Her tür farklı bir soruya cevap verir ve hiçbiri ötekinin yerine geçmez.[^k1][^k2]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Binlerce kaydın bulunması, tek tek okunmalarını ve karşılaştırılmalarını ayrı bir uzmanlık işi hâline getirir. Neşirler bu işin bir bölümünü yapar; hangi kaydın hangi ciltte, hangi",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu yan yana koyma, atlasın bölge kümelerinin asıl işlevidir. Tek tek dosyalar kendi konularını anlatır; küme, o konuların hangi kanıtla bilindiğini karşılaştırmayı mümkün kılar.[^k",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Deniz seferlerinin yöneldiği bölge için [Srivijaya](/aktor/srivijaya/), aynı okyanusun batı ucundaki düğüm için [Kilva Sultanlığı](/aktor/kilva/) dosyaları okunmalıdır. Üçü birlikt",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Başka bir birincil kaynak türü için [Aşoka](/dusunur/asoka/), kanıtın tamamen arkeolojik olduğu bir örnek için [İndus Vadisi](/aktor/indus-vadisi/) dosyaları uygundur. Üç dosya ayn",
+      "sorun": "Kesinlik ifadesi \"tamamen\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Başka bir birincil kaynak türü için [Aşoka](/dusunur/asoka/), kanıtın tamamen arkeolojik olduğu bir örnek için [İndus Vadisi](/aktor/indus-vadisi/) dosyaları uygundur. Üç dosya ayn",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "yuksek",
+      "tip": "anakronizm",
+      "cumle": "Yönetimin kurala bağlanması için [Bürokrasi](/kavram/burokrasi/), aynı yılları bütün bölgeler üzerinden okumak için [Dönem 07](/donem/07/) dosyası kullanılabilir.",
+      "sorun": "\"bürokrasi\" kavramı yaklaşık 1750'den itibaren kullanılıyor; makale 1279'te bitiyor.",
+      "oneri": "Kavramı dönemin kendi diliyle değiştir ya da geriye dönük okuma olduğunu açıkça belirt."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosyanın bağlandığı kaynaklar tek tek kayıtlardan oluşur ve bu dosya onların hiçbirini tek tek aktarmaz.[^k1][^k2] Belirli bir bağışın, verginin ya da meclis kararının içeriği i",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

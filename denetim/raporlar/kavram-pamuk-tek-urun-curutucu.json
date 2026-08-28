@@ -1,0 +1,70 @@
+{
+  "id": "kavram-pamuk-tek-urun",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.166Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Düzenleme bir tercihle başlar.[^k2] Tercihi yapan her zaman o toprağı eken kişi değildir.",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Nakit vergi, üreticiyi satmaya zorlar.[^k2] Satılabilir tek ürün varsa, o ürün ekilir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kredi ve altyapı bunu pekiştirir.[^k3] Tohum, sulama ve taşıma tek bir ürün için sağlanınca, başka ürüne geçmek pahalı hâle gelir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu yapıların hepsi başka bir ürün için yeniden kurulmalıdır.[^k2] Maliyet, tek tek üreticilerin taşıyabileceğinden büyüktür.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tek ürüne bağlı bir bölge, tek bir fiyata bağlıdır.[^k1] Fiyat düştüğünde bütün bölge aynı anda etkilenir.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tek ürün düzeni yoğun ve mevsimlik işgücü ister.[^k1] Bu işgücü her zaman yerel değildir.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kavramın ayırt edici sorusu budur.[^k1] Tek ürüne geçiş kararını kim verdi.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kavram üç ölçütle uygulanır.[^k1] Birincisi, ekilebilir alanın ne kadarının tek ürüne ayrıldığıdır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Üçü birlikte bakılmalıdır.[^k3] Yüksek oran tek başına bağımlılık göstermez; kararın nerede alındığı eklenmelidir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

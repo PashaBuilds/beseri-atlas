@@ -1,0 +1,69 @@
+## aktor-komance
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:07:25.082Z_
+
+- [OK]      k1 → "Komançe, on sekizinci yüzyıl başından on dokuzuncu yüzyıl sonuna kadar Kuzey Amerika'nın güney ovalarında etki…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- undefined k2 → "Örgütlenme, birbirinden bağımsız hareket eden gruplar biçimindeydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu dosyanın asıl konusu at ve ticarettir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ISARET]  k2 → "At, on yedinci yüzyılda güneyden gelen Avrupa yerleşimleri üzerinden ovaya yayıldı." — özel isim kaynakta bulunamadı: Avrupa
+- undefined k1 → "Bölgedeki topluluklar atı farklı hızlarda benimsedi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlas bu farkı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Yaygın anlatı, atı bir askerî üstünlük aracı olarak sunar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu doğrudur ama eksiktir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Verim artışı bir fazla üretir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Ölçüm şudur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "İfade atlasın öteki dosyalarında da sınanabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas ifadeyi bu örnekte ölçülmüş bir gözlem olarak kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Grupların elindeki at sayısı, bölgedeki öteki topluluklarınkinden belirgin biçimde yüksekti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "At yetiştirmek ovanın belirli bölgelerinde mümkündü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu, bölgesel bir avantaj üretir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Gruplar, geniş bir değişim ağının merkezindeydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Ağ, birden çok devletin sınırlarını kesiyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu, atlasın Adva dosyasında ölçtüğü mekanizmanın bir başka biçimidir." — programatik olarak ölçülemedi (ad karşılığı yok): Adva
+- undefined k1 → "Ağın kalemlerinden biri esirdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "İkinci uygulama, nüfus artışının bir kaynağıydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlas iki yönü de kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Grupların bağımsız hareket etmesi, karşı tarafla ilişkiyi zorlaştırıyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Sömürge ve sonraki yönetimler bunu bir tutarsızlık olarak kaydetti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu, atlasın Samoa dosyasında ölçtüğü uyumsuzluğun aynısıdır." — programatik olarak ölçülemedi (ad karşılığı yok): Samoa
+- undefined k1 → "Atlasın aynı kıtadan bir başka dosyası benzer bir yapıyı kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "İki örnek arasında ortak üç unsur vardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Ölçüm şudur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "İki örnek sonuç bakımından da benzerdir ve zamanlaması ayrılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu ortaklık ayrıca kaydedilmelidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Eşik, ikisinde de aynı onyıllara denk gelir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Gruplar, üç ayrı devletin genişleme yönünün kesiştiği bölgedeydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu konum, atlasın Karluklar dosyasında ölçtüğü yapının aynısıdır." — programatik olarak ölçülemedi (ad karşılığı yok): Karluklar
+- undefined k1 → "Fark, buradaki komşuların birbirine düşman olmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Yüzyıl ortasında bölgedeki devlet sayısı azaldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu, pazarlık kapasitesini doğrudan düşürdü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlas bu ölçümü Zulu dosyasında da yapmıştı." — programatik olarak ölçülemedi (ad karşılığı yok): Zulu
+- undefined k2 → "Grupların hareketliliği yaz aylarındaydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu, bir kırılganlık noktasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Karşı taraf bu bilgiye zamanla ulaştı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Sonun doğrudan nedeni askerî değil ekolojiktir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Yok ediliş, deri talebi ve demiryolu erişiminin birlikte etkisiyle hızlandı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Sonuç, ekonomik zeminin ortadan kalkmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu zincir, dosyanın açılış ölçümünü doğrular." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Askerî sonuç, iki uçta da türevdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas bu simetriyi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "İki etken daha kaydedilmelidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Hastalık etkisi, atlasın Amerika dosyalarında tekrar eden bir kısıttır."
+- undefined k3 → "Atlas etkenleri sıralar ve ağırlıklarını ölçmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Grupların kendi kayıtları yazılı değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Karşı tarafın kayıtları askerî ve idari amaçlıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu, atlasın Hazarlar dosyasında formüle edilen kısıtın aynısıdır." — programatik olarak ölçülemedi (ad karşılığı yok): Hazarlar
+- undefined k1 → "Grupların toplam nüfusu için verilen tahminler geniş aralıklar gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "İki kaynak da eksiktir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlas sayı vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Kaynaklarda geçen ad, tek bir topluluğu değil birden çok grubu karşılar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu, atlasın bozkır dosyalarında tekrar eden bir sorundur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas adı kullanır ve kapsamını belirtir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Dosya, atın tek belirleyici etken olduğunu ileri sürmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Sonun nedeni de tek etkene bağlanmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Grupların iç yapısı ve karar süreçleri işlenmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Aynı kıtadan, merkezî devlet kurmadan direnen bir başka örnek için dosyası okunmalıdır; iki dosya birlikte oku…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Merkezî zor aygıtı olmadan işleyen bir başka siyasi birlik için dosyası uygundur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Karşı taraflar için ve , ticaretin siyasi sonucu için dosyaları okunabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Kanıt türlerinin hangi soruya cevap verdiği için ve dosyaları okunmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+
+**Özet:** 2 OK · 1 ISARET · 0 HATA

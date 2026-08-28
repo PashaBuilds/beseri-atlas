@@ -1,0 +1,21 @@
+{
+  "id": "kavram-kipu",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.165Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, sistemin yazıdan ayrıldığı en önemli noktadır.[^k1] Yazılı bir metin, yazarından bağımsız olarak okunabilir; kipu, onu düzenleyen çevrenin usulünü bilmeyi gerektirir.",
+      "sorun": "\"en önemli\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosyanın kapsamadıkları belirtilmelidir.[^k2] Düğüm tiplerinin ayrıntısı, renk kodlaması ve tek tek örneklerin çözümlemesi burada işlenmez; her biri ayrı çalışma gerektirir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

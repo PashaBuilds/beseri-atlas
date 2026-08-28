@@ -1,0 +1,42 @@
+{
+  "id": "aktor-pagan-kralligi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.146Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Krallığın gücü, nehir havzasında kurulan sulama düzenine dayanıyordu.[^k3] Sulama, kuru mevsimde de ürün alınmasını sağlar ve böylece tek bir bölgeden büyük bir fazla çıkarılabilir",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Böyle bir düzenin zayıflığı da açıktır. Merkez zayıfladığında çevre birimler bağlılığı yenilemez ve düzen sessizce dağılır;[^k1] tek bir yenilgi gerekmez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yapı sayısı ise farklı bir durumdadır. Ayakta kalan yapılar sayılabilir ve bu sayı, kayıt değil ölçümdür;[^k3] atlasın bu dosyada güvendiği tek niceliksel bilgi budur.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki beşinci dosyadır ve bölgenin batı ucunu ilk kez ele alır.[^k1][^k3] Önceki dosyalar ada, boğaz ve nehir ovası düzenlerini anlatı",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dönemin taş kayıtlarının doğrulanabilir bir tam metin derlemesi bulunamamıştır ve bu, dosyanın en önemli kısıtıdır.[^k3] Okur, buradaki siyasi bilgilerin bağımsız bir çağdaş kayıtl",
+      "sorun": "\"en önemli\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

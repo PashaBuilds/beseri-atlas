@@ -1,0 +1,35 @@
+{
+  "id": "aktor-kirgizlar",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.139Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Çeşitlilik bir dayanıklılık sağlar.[^k2] Tek bir üretim biçimine bağlı düzenler, o biçimi etkileyen bir değişimde bütünüyle sarsılır; çeşitlenmiş düzenler daha yavaş etkilenir.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dışarıdan gelen kayıt siyasi ilişkileri, içeriden gelen yazıt akrabalık ve unvan düzenini verir.[^k1] İkisi birlikte, tek başına hiçbirinin vermediği bir görüntü üretir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Okunabilirlik tek başına yeterli değildir.[^k1] Metnin türü de sorulan soruyu belirler; okunabilir ama kısa bir metin, okunabilir ve uzun bir metinden farklı bilgi verir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yazıtların tek tek içeriği aktarılmaz.[^k3] Derlemeler künyelenemediği için ikincil aktarımdan yararlanılmıştır ve dosyadaki bütün yazıt ifadeleri bu kısıt altında okunmalıdır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

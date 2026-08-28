@@ -1,0 +1,49 @@
+{
+  "id": "dusunur-gandhi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.156Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yöntem tek bir gözleme dayanır.[^k1] Hiçbir yönetim, yönetilenlerin gündelik iş birliği olmadan işleyemez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yöntemi ilk kez ayrımcı kayıt yasalarına karşı uyguladı.[^k2] Kampanyalar uzun sürdü ve kısmi sonuçlar verdi.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas ikinci amacı ayrıca kaydeder.[^k2] Tek ürüne bağlanmış bir tarım düzeninde mevsim dışı iş, doğrudan bir gelir sorunudur.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Yöntem başka ülkelerde ve başka amaçlarla uygulandı.[^k3] Uygulamalar her zaman aynı sonucu vermedi.",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Ad seçimi rastgele değildi.[^k3] Karşı çıktığı ilk karşılık \"pasif direniş\"ti; bu ifadeyi edilgen ve zayıf bulduğu için reddetti.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dönemin sonu için [Hindistan'ın bölünmesi](/olay/hindistan-bolunmesi/), ekonomik kanadın bağlamı için [Tek ürüne bağlanma](/kavram/pamuk-tek-urun/) dosyaları okunabilir.[^k3]",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

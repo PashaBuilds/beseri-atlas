@@ -1,0 +1,145 @@
+{
+  "id": "kaynak-orhon-yazitlari",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:26.867Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Orhon Yazıtları, bir bozkır devletinin kendi dilinde ve kendi ağzından taşa yazdırdığı siyasi kayıttır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yazıtları"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Orhon Yazıtları, bir bozkır devletinin kendi dilinde ve kendi ağzından taşa yazdırdığı siyasi kayıttır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayıt bir tarih anlatısı değildir; hesap verme biçiminde kurulmuş bir konuşmadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Uyarı şudur: halkın kendi yöneticisinden uzaklaşıp komşunun düzenine ve malına yaklaşması, siyasi varlığın kaybıyla sonuçlanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uyarı şudur: halkın kendi yöneticisinden uzaklaşıp komşunun düzenine ve malına yaklaşması, siyasi varlığın kaybıyla sonuçlanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bozkır siyasi düzenleri hakkında bilinenlerin büyük bölümü komşu yerleşik devletlerin kayıtlarından gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Burada bozkır düzeni kendini anlatır; komşusunu kendi ölçütleriyle değerlendirir ve kendi kaybını kendi diliyle açıklar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Burada bozkır düzeni kendini anlatır; komşusunu kendi ölçütleriyle değerlendirir ve kendi kaybını kendi diliyle açıklar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlasın kaynak katmanı, bu dosya yazılana kadar Orta Asya'dan tek bir metin içermiyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir metnin taşa yazılmış olması, elyazması aktarımında görülen bazı sorunları ortadan kaldırır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Taş da aşınır, kırılır, eksik okunur ve okuma tercihleri değişir; kaynağın ilk yayını tıpkıbasımları da sunduğu için okuma tercihleri karşılaştırılabilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Taş da aşınır, kırılır, eksik okunur ve okuma tercihleri değişir; kaynağın ilk yayını tıpkıbasımları da sunduğu için okuma tercihleri karşılaştırılabilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Asıl kazanç, metnin yazıldığı anda ne dediğinin sonradan değiştirilememiş olmasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaydın birinci ağızdan olması onu tarafsız yapmaz ve bu ayrım korunmalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayıt, yöneticinin başarısını halkın sadakatine, başarısızlığı ise halkın kendinden uzaklaşmasına bağlar; bu, dosyasında ele alınan gerekçelendirme biçimlerinde",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kayıt, yöneticinin başarısını halkın sadakatine, başarısızlığı ise halkın kendinden uzaklaşmasına bağlar; bu, dosyasında ele alınan gerekçelendirme biçimlerinde",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas metni bu yüzden bir olgu kaydı olarak değil, bir devletin kendini nasıl anlattığının kaydı olarak kullanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya yazıtların ne olduğunu ve atlasta ne işe yaradığını kaydeder; satır satır içeriğini vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yazıtların dil ve alfabe özellikleri, okuma tarihi ve çözümlenme süreci de burada işlenmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yazıtların dil ve alfabe özellikleri, okuma tarihi ve çözümlenme süreci de burada işlenmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı bölgede bulunan öteki yazıt gruplarıyla karşılaştırma da kapsam dışıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metne yapılacak atıflarda hangi yazıt ve hangi yüzün kastedildiği ile kullanılan okuma belirtilmelidir; kaynaklar farklı okumaları ayrı ayrı sunar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metne yapılacak atıflarda hangi yazıt ve hangi yüzün kastedildiği ile kullanılan okuma belirtilmelidir; kaynaklar farklı okumaları ayrı ayrı sunar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "id": "aktor-uygur-kaganligi",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:25.588Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Uygur Kağanlığı, önceki bozkır düzeninin dağılmasından sonra aynı vadide kurulan siyasi birimdir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Uygur Kağanlığı, önceki bozkır düzeninin dağılmasından sonra aynı vadide kurulan siyasi birimdir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kağanlığı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosyanın atlas açısından ayırt edici yanı, bir siyasi düzenin bozkır biçiminden yerleşik biçime geçişini tek bir örnek üzerinden göstermesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "dosyası önceki düzeni, dosyası ise güneydeki yerleşik komşuyu anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "dosyası önceki düzeni, dosyası ise güneydeki yerleşik komşuyu anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu kağanlığın kurulduğu vadi, atlasın kaynak katmanında bir metinle temsil edilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Önceki kayıt, komşunun düzenine yaklaşmayı siyasi varlığın kaybı sayar; bu kağanlık ise komşuyla kurduğu ilişkiyi gelirin kaynağı hâline getirmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Önceki kayıt, komşunun düzenine yaklaşmayı siyasi varlığın kaybı sayar; bu kağanlık ise komşuyla kurduğu ilişkiyi gelirin kaynağı hâline getirmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir bozkır düzeninin yerleşik komşuyla ilişkisini kesmesi de ona bağlanması da savunulabilir; ikisinin de bedeli kayıtlıdır ve ayrı kanıtlar gerektirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir bozkır düzeninin yerleşik komşuyla ilişkisini kesmesi de ona bağlanması da savunulabilir; ikisinin de bedeli kayıtlıdır ve ayrı kanıtlar gerektirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kağanlığın kurduğu merkez, bozkır düzenlerinde seyrek görülen bir şeydi: sürekli ve surlu bir başkent.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kağanlığın kurduğu merkez, bozkır düzenlerinde seyrek görülen bir şeydi: sürekli ve surlu bir başkent.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sabit merkez, vergi toplamayı ve ticaret gelirini düzenli hâle getirir; aynı merkez, düşmanın nereye saldıracağını da belirler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuzeyden gelen bir baskı karşısında merkez düşmüş ve düzen dağılmıştır; dağılan nüfusun bir bölümü güneybatıya, vahalar kuşağına yerleşmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kuzeyden gelen bir baskı karşısında merkez düşmüş ve düzen dağılmıştır; dağılan nüfusun bir bölümü güneybatıya, vahalar kuşağına yerleşmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu kağanlığın en çok kaydedilen özelliği, yönetimin bir dini devlet kararıyla benimsemesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu kağanlığın en çok kaydedilen özelliği, yönetimin bir dini devlet kararıyla benimsemesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yönetim, seçtiği inanç çevresinin yazı, hukuk ve muhasebe bilgisini de devralır; aynı seçim, bu çevrenin dışındaki nüfusla arasına bir mesafe koyar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu ikili etkiyi kaydeder ve bir değerlendirme yapmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kağanlığın ve ardından vahalar kuşağına yerleşen topluluğun bıraktığı elyazmaları, bölgenin en zengin metin külliyatlarından birini oluşturur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Elyazması üretimi kâğıt, mürekkep, atölye ve sürekli bir okur çevresi gerektirir; hiçbiri hareket hâlindeki bir düzende kolayca kurulmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bozkır düzenleri az yazdıkları için değil, yazdıklarını taşıyacak kurumları geç kurdukları için az metin bırakmışlardır; taşa yazılan istisnadır ve bu yüzden de",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bozkır düzenleri az yazdıkları için değil, yazdıklarını taşıyacak kurumları geç kurdukları için az metin bırakmışlardır; taşa yazılan istisnadır ve bu yüzden de",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kağanlığın güneydeki yerleşik komşuyla ilişkisi askerî olduğu kadar ticariydi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kağanlığın güneydeki yerleşik komşuyla ilişkisi askerî olduğu kadar ticariydi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bozkır düzeni, yerleşik komşunun ürettiğini üretmez; ona erişimi denetler ya da onunla değişir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Değişimin şartlarının kayıtlı olması, ilişkinin tek taraflı olmadığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya dört kaynağa dayanır ve ikisi birincildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya dört kaynağa dayanır ve ikisi birincildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İkinci birincil kaynağın katalog kaydında yazar alanı boştur; eser adı ve yayın yılı kayıtlıdır ve başlık yazarın adını taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu bir kısıttır: dosyadaki siyasi bilgilerin tamamı ya sonraki derlemelerden ya da komşu kayıtlardan gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu bir kısıttır: dosyadaki siyasi bilgilerin tamamı ya sonraki derlemelerden ya da komşu kayıtlardan gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Vahalar kuşağına yerleşen sonraki siyasi birimler burada işlenmez; ayrı dosyalar gerektirir ve bu dosya yazıldığında atlasta bulunmuyorlardı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Elyazması külliyatının dil ve yazı özellikleri, çeviri faaliyeti ve bu faaliyetin kaynak dilleri de kapsam dışıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kağanlığın iç siyasi tarihi, hanedan çekişmeleri ve kağan listesi burada verilmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kağanlığın iç siyasi tarihi, hanedan çekişmeleri ve kağan listesi burada verilmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu kağanlığın tarihi, atlasın aktör dosyalarında seyrek karşılaşılan bir yapıya sahiptir: düzen bir kez bozkırda, bir kez de dağılmadan sonra vahalar kuşağında ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu kağanlığın tarihi, atlasın aktör dosyalarında seyrek karşılaşılan bir yapıya sahiptir: düzen bir kez bozkırda, bir kez de dağılmadan sonra vahalar kuşağında ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Süreklilik iddiasının dayanağı adın, dilin ve yazının taşınmış olmasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kopuş iddiasının dayanağı ise siyasi biçimin, geçim kaynağının ve komşuluk ilişkilerinin tamamen değişmiş olmasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Künyedeki tarihler bozkır düzenini kapsar; sonraki yerleşik düzen ayrı bir dosya gerektirir ve bu dosya yazıldığında atlasta bulunmuyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Künyedeki tarihler bozkır düzenini kapsar; sonraki yerleşik düzen ayrı bir dosya gerektirir ve bu dosya yazıldığında atlasta bulunmuyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu düzenin nüfusuna ve ordu büyüklüğüne dair sayılar komşu kayıtlarından gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu düzenin nüfusuna ve ordu büyüklüğüne dair sayılar komşu kayıtlarından gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Tehdidin büyüklüğü, alınan önlemin gerekçesini oluşturduğu için abartılabilir; alınan yenilgi, kaydı tutanın itibarını koruduğu için küçültülebilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sayıların nasıl okunacağı sorusu dosyasında ayrıca ele alınır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kağanlığın denetlediği kuşak, doğu ile batı arasındaki kara ticaretinin geçtiği yerdedir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kağanlığın denetlediği kuşak, doğu ile batı arasındaki kara ticaretinin geçtiği yerdedir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Geçiş gelirine dayanan düzenlerin ortak iki özelliği vardır ve atlas bunları başka bölgelerde de kaydeder: yolların güvenliği doğrudan bir maliye meselesidir, v",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Farklı kıtalarda, birbirinden habersiz kurulmuş düzenlerin aynı konum mantığını paylaşması, atlasın karşılaştırmalı okumaya açtığı yerlerden biridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu düzenin bıraktığı metinlerin bir bölümü dinî, bir bölümü idaridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yazılı kayda geçen bir yönetimde ise bilgi kişiden ayrılır ve görev, onu devralan kişi tarafından sürdürülebilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Burada somut hâli şudur: bir bozkır düzeninin yazılı idari kayıt tutmaya başlaması, yerleşikliğe geçişin en ölçülebilir göstergesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Burada somut hâli şudur: bir bozkır düzeninin yazılı idari kayıt tutmaya başlaması, yerleşikliğe geçişin en ölçülebilir göstergesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya, atlasın Orta Asya aktör katmanındaki yedinci dosyadır ve bölgenin en ince katmanlarından birini genişletir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu düzen, atlasta zaten bulunan üç dosyayı birbirine bağlar: önceki bozkır düzenini, güneydeki yerleşik komşuyu ve bölgenin kendi taş kaydını.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu düzen, atlasta zaten bulunan üç dosyayı birbirine bağlar: önceki bozkır düzenini, güneydeki yerleşik komşuyu ve bölgenin kendi taş kaydını.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Atlasta bir dosya, kurduğu bağlarla da iş görür; birbirine değmeyen dosyalardan oluşan bir derleme atlas değil listedir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bölgenin aktör dosyaları uzun süre yalnızca giriş kapısı ve ansiklopedi maddelerine bağlanabiliyordu; bu dosya, bölgenin kendi taş kaydına ve kendi elyazmaların",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bölgenin aktör dosyaları uzun süre yalnızca giriş kapısı ve ansiklopedi maddelerine bağlanabiliyordu; bu dosya, bölgenin kendi taş kaydına ve kendi elyazmaların",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bölgenin aktör dosyaları uzun süre yalnızca giriş kapısı ve ansiklopedi maddelerine bağlanabiliyordu; bu dosya, bölgenin kendi taş kaydına ve kendi elyazmaların",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bölgenin aktör dosyaları uzun süre yalnızca giriş kapısı ve ansiklopedi maddelerine bağlanabiliyordu; bu dosya, bölgenin kendi taş kaydına ve kendi elyazmaların",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bir bölge dışarıdan yazılmış kayıtlarla anlatıldığında, o kayıtların neyi kayda değer bulduğu da anlatıya geçer; savaşlar ve elçilikler ayrıntılı, iç düzen ise ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kendi kaydı da bir yönetimin kaydıdır ve kendi taraflılığını taşır; iki kaydın yan yana durması, tek bir kayda güvenmekten daha sağlam bir zemin verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

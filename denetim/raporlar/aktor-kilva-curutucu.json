@@ -1,0 +1,63 @@
+{
+  "id": "aktor-kilva",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.138Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kıyıya gelen altının kaynağı sahil değil, iç bölgedeki yaylalardır.[^k1] Atlasın [Büyük Zimbabve](/aktor/buyuk-zimbabve/) dosyası o iç bölgedeki siyasi düzeni anlatır; iki dosya bi",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dil karışımının kaydedilmesi, kültürel etkinin yönünü tek yönlü okumayı zorlaştırır. Kıyı, ne dışarıdan gelenlerin kurduğu bir koloni ne de dışarıya kapalı bir yerel düzendir; ikis",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sınır açıkça belirtilmelidir: birincil kayıt tek bir seyyahın metnidir ve karşılaştırma imkânı yoktur. Bir metnin söylediğini sınamak için ikinci bir çağdaş kayıt gerekir; bu dosya",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlasın bölge etiketleri bu sebeple çoklu tutulur. Bir dosyanın birden çok etiket taşıması, kararsızlık değil, düzenin kendi biçiminin kaydıdır;[^k1] tek etiket seçmek bir yorumu k",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kıyıda tek bir merkezî devlet değil, birbirinden bağımsız liman şehirleri dizisi bulunur.[^k1][^k2] Bu şehirler kimi zaman birbiriyle rekabet eder, kimi zaman biri ötekiler üzerind",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosya, atlasın Afrika kapsamını genişletme çalışmasının dördüncü adımıdır ve kümenin ilk doğu kıyısı dosyasıdır.[^k1] Önceki üçü batı ve iç bölgelerdeydi.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Doğu kıyısının eklenmesi, kümeye yeni bir bağ türü kazandırır: Hint Okyanusu üzerinden Asya'ya uzanan bağ.[^k3] Atlasın bölge etiketleri bu bağı gösterir ama tek başına yeterli değ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Son bir uyarı: bu dosya bir liman şehrini kaydeder ama şehrin bağlı olduğu ağın tamamını kapsamaz.[^k3] Ağın öteki düğümleri — kıyı boyunca uzanan diğer şehirler ve okyanusun doğu ",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "kaynak-cook-guney-seyir-defteri",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.172Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, kanıt açısından özel bir durumdur.[^k2] Bir şeyin var olduğu tek bir gözlemle gösterilebilir; olmadığı ancak kapsamlı bir taramayla savunulabilir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden hangi metne atıf yapıldığını belirtir.[^k3] Bu, atlasın Magna Carta dosyasında kurduğu sürüm kuralının buradaki uygulamasıdır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kayıt tek yönlüdür.[^k2] Karşı tarafın aynı karşılaşmaya dair yazılı kaydı yoktur.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu tek yönlülüğü ayrıca kaydeder.[^k3] **Bir karşılaşmanın tek tarafça tutulmuş kaydı, o karşılaşmanın değil, kaydı tutanın beklentilerinin de kaynağıdır.**",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "kavram-toplumsal-cinsiyet-duzeni",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.168Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bunun tersi de görülür.[^k3] Tek bir \"konum\" yerine, alan alan değişen bir haklar dizisi vardır.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden tek bir sıfat kullanmaz.[^k2] Bir düzeni tek kelimeyle nitelemek, üç ölçütün farklı sonuç verdiği durumları gizler.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu yüzden tek bir sıfat kullanmaz.[^k2] Bir düzeni tek kelimeyle nitelemek, üç ölçütün farklı sonuç verdiği durumları gizler.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kayıtta en büyük boşluk hane içi emektir.[^k2] Yiyecek hazırlama, dokuma, bakım ve su taşıma çoğu vergi ve üretim kaydına girmez.",
+      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden dikkatli davranır.[^k2] Kaynakta çok anılan bir istisna, sıklığının değil olağandışılığının kanıtıdır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki katman ayrı ayrı izlenmelidir.[^k3] Metin okuması tek başına uygulamayı göstermez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Böyle bir kayıtta hanenin geri kalanı sayı olarak bile görünmez.[^k1] Toplam nüfus tahminleri bu yüzden çarpanla üretilir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kavram ayrıca tek bir dünya çapında düzen varsaymaz.[^k3] Ölçütler bölgeden bölgeye ve dönemden döneme belirgin biçimde değişir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden her dosyada ölçütü ayrı ayrı uygular.[^k2] Genel bir niteleme yerine, üç sorunun o düzendeki cevabı kaydedilir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "aktor-teotihuacan",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.151Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Şehir, kurulduğu dönemde dünyanın en kalabalık yerleşimlerinden biriydi.[^k1] Planlı bir ızgara düzeni, geniş bir tören ekseni ve binlerce konut birimi içeriyordu.",
+      "sorun": "Makale amerika kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosyanın ayırt edici yanı, bu ölçeğe rağmen kayıt yokluğudur.[^k2][^k3] Tek bir yöneticinin adı, tek bir hanedanın sırası ve şehrin kendi adı bilinmemektedir.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu yapı biçimi, atlasın kaydettiği dönem şehirlerinde seyrek görülür.[^k4] Tek haneli konut yerine ortak avlulu birimler, hane ötesinde bir örgütlenme birimi bulunduğunu gösterir.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, atlasın kaydettiği tek kaynağa dayalı ekonomilerle karşılaştırılabilir.[^k4] Bir malın üretimini ve dağıtımını denetlemek, uzak bölgeler üzerinde etki kurmanın yollarından biri",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Şehrin nasıl yönetildiği, dosyanın en tartışmalı konusudur.[^k1] Tek bir hükümdar, bir konsey, rakip hanedanlar ve bunların dönüşümlü biçimleri ileri sürülmüştür.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden künyede bir devlet biçimi belirtmez.[^k1] Dosyanın başlığı bir yer adıdır; bu tercih, siyasi biçimin bilinmediğinin kaydıdır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden bu dosyada nüfus rakamı vermez.[^k2] Yerleşim alanının büyüklüğü ise ölçülebilir bir veridir ve karşılaştırma için kullanılabilir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kazı alanlarının tek tek tarihi ve bulguları burada işlenmez.[^k1] Her biri ayrı dosya gerektirir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu çıkarımı kaydeder çünkü nesne kanıtından yapılabilen en güçlü siyasi çıkarımlardan biridir.[^k2] Tek tek yapılar bir dönemin ürünüdür; bir planın sürdürülmesi, dönemler ar",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

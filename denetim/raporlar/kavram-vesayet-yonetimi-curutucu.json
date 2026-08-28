@@ -1,0 +1,14 @@
+{
+  "id": "kavram-vesayet-yonetimi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.169Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tek tek bölgelerin tarihi burada işlenmez.[^k2] Her biri ayrı dosya gerektirir ve bu dosya yazıldığında atlasta çoğu bulunmuyordu.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

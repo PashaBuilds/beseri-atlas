@@ -1,0 +1,56 @@
+{
+  "id": "tartisma-waitangi-hangi-metin",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.171Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Soru tek bir belgeye özgü değildir.[^k3] Sömürge dönemi antlaşmalarının büyük bölümü iki dillidir ve çevirileri bir tarafça hazırlanmıştır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas tartışmayı bu düzeyde tutar.[^k2] Tek bir uyuşmazlığın nasıl çözüleceği değil, hangi ölçütün kullanılacağı sorulmaktadır.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Dört konum da iki metnin varlığını ve farkını kabul eder.[^k1] Anlaşmazlık olguda değil, olgunun hukuki sonucundadır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu kaygı gerçektir ve konumun en güçlü yanıdır.[^k4] Hukuki belirlilik, tek başına bir değerdir ve göz ardı edilemez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Antlaşma tek bir kâğıt değildir.[^k4] İmzalar, farklı yerlerde dolaştırılan birden çok nüsha üzerinde toplanmıştır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Ayrıntı birinci konumu hem güçlendirir hem zorlaştırır.[^k3] Güçlendirir, çünkü hangi metnin görüldüğü nüsha bazında izlenebilir; zorlaştırır, çünkü tek bir \"imzalanan metin\" varsa",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tek metnin arkasındaki kabul koşulunun görünmemesi sorunu için [Hawai Krallığı](/aktor/hawai-kralligi/) dosyası okunmalıdır; aynı dönemden ve aynı okyanustan, sorunun öteki biçimid",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

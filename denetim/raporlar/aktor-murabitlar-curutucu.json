@@ -1,0 +1,56 @@
+{
+  "id": "aktor-murabitlar",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.144Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Hanedanın hâkim olduğu alan, iki farklı iklimi ve iki farklı üretim düzenini kapsıyordu.[^k2] Bu, atlasın bu dosyada ölçtüğü ilk özelliktir.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu hanedan iki yüzeyi de aynı anda kullandı.[^k1] Çölü kervanla, denizi gemiyle geçti ve ikisini tek yönetim altında tuttu.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu fark, birliğin kalıcı olmasını zorlaştırdı.[^k1] Tek bir yönetim altında olmak, tek bir düzen içinde olmak anlamına gelmez.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu tür geçişler tek yönlü değildir.[^k2] Atlas bu nedenle \"etki\" sözcüğünü tek yönlü kullanmaz.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Çölü geçen kervanlar, kuyu ve vaha zincirlerine bağlıydı.[^k2] Zincirin tek bir halkasının denetimi, bütün güzergâhı denetlemeye yeter.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Hanedan, tek bir hukuk ekolünü öne çıkardı ve öğretimini destekledi.[^k1] Bu, geniş bir alanda tek tip hukuk uygulaması anlamına geliyordu.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Dosya, çölün her zaman ve her yerde bağlayıcı olduğunu ileri sürmez.[^k4] Bağlayıcılık, üzerinde işleyen ulaşım düzenine bağlıdır ve o düzen kurulmadığında çöl gerçekten ayırır.",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+## dusunur-nizamulmulk
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:07:25.975Z_
+
+- [OK]      k1 → "Nizâmülmülk, Selçuklu devletinde uzun yıllar vezirlik yapmış bir devlet adamıdır."
+- undefined k1 → "Atlasın düşünür katmanında yer almasının sebebi idari görevi değil, yazdığı eserdir: yönetme üzerine kaleme al…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlasın düşünür katmanında yer almasının sebebi idari görevi değil, yazdığı eserdir: yönetme üzerine kaleme al…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Aktör dosyaları siyasi birimleri kaydeder; düşünür dosyaları, adı bir metne bağlanabilen kişileri." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Yaşadığı yıllar, atlasın kronolojik omurgasında yedinci dönemin içine düşer." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Eser, hükümdarın nasıl yönetmesi gerektiğini anlatan bir öğüt kitabıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Eser, hükümdarın nasıl yönetmesi gerektiğini anlatan bir öğüt kitabıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bölümler, yönetimin ayrı ayrı alanlarını ele alır: adaletin sağlanması, görevlilerin denetlenmesi, haber alma …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bir ilke ortaya konur, ardından o ilkenin geçmişteki uygulamalarından anlatılar aktarılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bir öğüt metninden dönemin fiilî yönetim pratiği doğrudan okunamaz; metin, yönetimin nasıl olması gerektiğini …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Eserin hükümdarın isteği üzerine yazıldığı kaydedilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Eserin hükümdarın isteği üzerine yazıldığı kaydedilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "dosyasında ele alınan Kutadgu Bilig de bir hükümdara sunulmuş öğüt metnidir ve aynı yılların ürünüdür."
+- undefined k2 → "İki metin aynı türe aittir ama farklı dillerde ve farklı siyasi merkezlerde yazılmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "İki metin aynı türe aittir ama farklı dillerde ve farklı siyasi merkezlerde yazılmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "dosyası, bir yönetimin hangi gerekçelerle kabul edildiğini sorar; öğüt metinleri bu gerekçelerin dönemin kendi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Nizâmülmülk'ün adıyla anılan medreselerin kurulması, dönemin eğitim düzeninde belirleyici sayılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu kurumsallaşmanın siyasi bir tarafı da vardır: eğitim kurumlarının kimin tarafından finanse edildiği, orada …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu dosya, o kavramın bir dönemdeki somut karşılığını verir: görevlilerin denetimi ve haber alma düzeni, Siyâse…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Atlas bu konuda hüküm vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → ", Nizâmülmülk'ün kurduğu düzen içinde görev yapmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Aynı bağ, dosyasında anlatılan felsefe geleneğiyle Gazâlî'nin itirazı arasındaki tartışmanın hangi kurumsal or…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Bu dosya üç kaynağa dayanır: kişi üzerine bir madde, eserin ait olduğu tür üzerine ayrı bir madde, ve eserin İ…"
+- [ISARET]  k2 → "Bu dosya üç kaynağa dayanır: kişi üzerine bir madde, eserin ait olduğu tür üzerine ayrı bir madde, ve eserin İ…" — özel isim kaynakta bulunamadı: İngilizce
+- undefined k3 → "Bu dosya üç kaynağa dayanır: kişi üzerine bir madde, eserin ait olduğu tür üzerine ayrı bir madde, ve eserin İ…" — programatik olarak ölçülemedi (ad karşılığı yok): İngilizce
+- undefined k3 → "Özgün metne değil, bir aktarıma bağlanılmıştır; esere yapılacak atıflarda hangi çevirinin ve hangi bölüm numar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Eserin farklı yazma nüshaları arasında bölüm sayısı ve içerik bakımından farklar bulunduğu kaydedilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Vezirlik dönemindeki siyasi olaylar ayrıntılı olarak işlenmez; Selçuklu devlet yapısı ayrı bir aktör dosyası g…"
+- undefined k3 → "Yazarın neyi düzeltilmesi gerektiğini düşündüğü, o şeyin bozuk olduğuna dair bir işarettir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bir metnin bir konuya çok yer ayırması, o konunun gerçekten sorunlu olduğunu kanıtlamaz; yazarın ilgisini de g…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Eser, konuları başlıklara ayırarak ilerler ve her başlık kendi içinde kapanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Adaletle açılan bir metin, yönetimin meşruiyetini önce adalet üzerinden kuruyor demektir; aynı metin vergiyle …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bir metnin neyi önce söylediği, ne söylediği kadar bilgi taşır ve bu bilgi metnin içeriğinden değil düzeninden…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Kısa tutulmuş bir konu, yazarın az söyleyecek şeyi olduğunu ya da konuyu tartışmalı bulduğunu gösterebilir; ik…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Metnin ilkelerini örneklediği tarihsel anlatılar, ayrı bir kaynak sorunu doğurur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bir hükümdar hakkında anlatılan bir hikâyenin doğru olup olmadığı ile o hikâyenin anlatılıyor olması ayrı iki …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bir öğüt metninden aktarılan anlatı, olay kaydı olarak değil dönem tasavvurunun kaydı olarak künyelenir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bir öğüt metninden aktarılan anlatı, olay kaydı olarak değil dönem tasavvurunun kaydı olarak künyelenir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Aynı kural, bu dosyanın karşılaştırdığı öteki öğüt metni için de geçerlidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Metnin kendisinden sonraki yüzyıllarda okunmayı sürdürmesi, türün kalıcılığının bir işaretidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Ancak bu okuma sürekliliği, metnin her dönemde aynı biçimde anlaşıldığı anlamına gelmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "O tarih ayrı bir dosya gerektirir ve mevcut kaynaklarla yazılamaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "O tarih ayrı bir dosya gerektirir ve mevcut kaynaklarla yazılamaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bir eserin kendisi ile o eserin sonraki okunuşları farklı sorulara cevap verir; ikisini aynı dosyada toplamak,…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Aynı türün başka bir örneği için dosyasında ele alınan Kutadgu Bilig okunmalıdır; dönemin düşünce ortamı için …"
+- undefined k3 → "Bu dosya eserin ne yaptığını anlatır, ne dediğini değil; bölümlerin içeriği için metnin kendisine inilmelidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Aynı uyarı bu dosyanın karşılaştırdığı öteki metin için de geçerlidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+
+**Özet:** 5 OK · 1 ISARET · 0 HATA

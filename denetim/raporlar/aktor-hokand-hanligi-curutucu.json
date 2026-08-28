@@ -1,0 +1,56 @@
+{
+  "id": "aktor-hokand-hanligi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.135Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas soruyu sorar ve tek bir cevaba bağlamaz.[^k4] Sorulabilir olması, karşılaştırmanın verdiği asıl kazançtır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Üçüncü açıklama siyasidir.[^k4] Hanlıkta uzun süren iç çatışmalar vardı; istikrarsız bir hanedanı yerinde bırakmak, dolaylı yönetimin işlemesi için gereken tek muhatabı ortadan kal",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, hanlığı komşularından farklı kılar.[^k3] Komşu iki hanlık tek bir nehre bağlıydı; burada birden çok akarsu vardı.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu istikrarsızlık, hanlığın dış baskıya karşı direncini zayıflattı.[^k4] Atlas bunu tek neden saymaz ama izlenebilir bir etken olarak kaydeder.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, bölgeyi dışarıdan gelen gıdaya bağımlı hâle getirdi.[^k4] Tek ürüne yönelen bir tarım düzeni, fiyat ve ulaşım kesintilerine karşı kırılgandır.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Bu, meşruiyetin ikinci bir kaynağını gösterir.[^k3] Soy şartının yanında dinî onay da bir yetki kaynağıydı ve ikisi her zaman aynı adayı işaret etmiyordu.",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Antlaşmalar fethi engellemedi.[^k1] Bu, atlasın Hawai dosyasında kaydedilen gözlemin bir başka örneğidir: tanınma ve antlaşma, ilhakın önünde tek başına engel değildir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

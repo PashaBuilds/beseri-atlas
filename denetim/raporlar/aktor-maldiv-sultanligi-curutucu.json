@@ -1,0 +1,35 @@
+{
+  "id": "aktor-maldiv-sultanligi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.142Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir malın para olarak iş görmesi için üç şart gerekir: bölünebilir olması, taşınabilir olması ve çoğaltılamaması.[^k1] Kabuk üçünü de sağlıyordu; taklit edilemiyordu çünkü tek bir ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlasın [Para](/kavram/para/) dosyası bu kavramı genel biçimiyle ele alır. Burada somut hâli, bir para biriminin arzını tek bir küçük siyasi düzenin elinde tutmasıdır.[^k3]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tek bir tanığa bu kadar dayanmanın riski açıkça beyan edilmelidir.[^k3] Gözlemcinin adalarda bulunduğu süre sınırlıdır ve gördükleri o dönemin kesitidir; künyedeki tarih aralığının",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden bu dosyada bir nüfus rakamı vermez.[^k1] Değerlendirmeler sayılara değil, kayıtların ortak vurgusuna dayanır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

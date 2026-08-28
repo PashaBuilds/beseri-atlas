@@ -1,0 +1,35 @@
+{
+  "id": "kavram-taoizm",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.168Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "**Tartışmalı.** Ad, iki ayrı olguyu tek başlıkta toplar: felsefe metinleri ile sonraki yüzyıllarda kurulan dinî gelenekler ve kurumlar. Bu ikisinin aynı adla anılması bazı araştırm",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosyanın iki birincil metne birden bağlanması bir tercih değil gerekliliktir.[^k2][^k3] Tek metne bağlanan bir kavram dosyası, o metnin üslubunu çizginin tamamının üslubu sanma ",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlasın kavram dosyalarında bu ilkenin genel karşılığı şudur: bir kavram tek bir kaynaktan tanımlandığında, tanım o kaynağın sınırlarını da devralır.[^k1] Bu yüzden mümkün olan yer",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlasın kavram dosyalarında bu ilkenin genel karşılığı şudur: bir kavram tek bir kaynaktan tanımlandığında, tanım o kaynağın sınırlarını da devralır.[^k1] Bu yüzden mümkün olan yer",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

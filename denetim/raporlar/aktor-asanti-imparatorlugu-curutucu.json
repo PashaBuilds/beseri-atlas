@@ -1,0 +1,42 @@
+{
+  "id": "aktor-asanti-imparatorlugu",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.126Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Fark, tek bir silahtan değil bir bileşimden doğdu.[^k1] Ateşli silah menzili, tıbbi önlemler ve deniz üzerinden ikmal birlikte işledi.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bir süre sonra sembolün teslim edilmesi istendi.[^k2] Talep, geniş bir direnişe yol açtı.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Atlas bu yapıyı ayrıca kaydeder.[^k3] Federatif kuruluşlar, merkezî fetihle kurulan devletlerden farklı biçimde çözülür; parçalar ayrılabilir hâlde kalır ve dış baskı altında ayrıl",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu mekanizmayı ayrıca kaydeder.[^k3] Yazılı olmayan bir hukuk, kuralın taşıyıcılarının çokluğu ve karşılaştırılabilirliği sayesinde sınanabilir hâle gelir; tek bir taşıyıcı k",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu mekanizmayı ayrıca kaydeder.[^k3] Yazılı olmayan bir hukuk, kuralın taşıyıcılarının çokluğu ve karşılaştırılabilirliği sayesinde sınanabilir hâle gelir; tek bir taşıyıcı k",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

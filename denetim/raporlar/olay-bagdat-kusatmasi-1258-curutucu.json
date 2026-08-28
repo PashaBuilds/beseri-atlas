@@ -1,0 +1,35 @@
+{
+  "id": "olay-bagdat-kusatmasi-1258",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.119Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden bu dosyada bir ölü sayısı vermez.[^k3] Sayıların nasıl okunacağı sorusu [Tarihsel sayılar nasıl okunur](/tartisma/tarihsel-sayilar-nasil-okunur/) dosyasında ayrıca ",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaymanın tek sebebi bu olay değildir.[^k2] Aynı yüzyıllarda deniz taşımacılığının payı zaten artıyordu ve atlasın [Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/) dosyası ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sefer, tek bir şehri hedefleyen bir baskın değildi.[^k2] Doğudan batıya uzanan geniş bir harekâtın parçasıydı ve komuta yapısı merkezî bir karara bağlıydı.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu ayrım, atlasın [Moğol fetihleri](/olay/mogol-fetihleri/) dosyasıyla kesişir.[^k2] Tek tek şehirlerin düşüşü, ayrı olaylar değil aynı harekâtın aşamalarıdır ve öyle okunmalıdır.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

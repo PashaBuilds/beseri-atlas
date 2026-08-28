@@ -1,0 +1,77 @@
+{
+  "id": "aktor-uygur-kaganligi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.152Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosyanın atlas açısından ayırt edici yanı, bir siyasi düzenin bozkır biçiminden yerleşik biçime geçişini tek bir örnek üzerinden göstermesidir.[^k1] Geçiş kuşaklar içinde olmuşt",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bu kağanlığın kurulduğu vadi, atlasın kaynak katmanında bir metinle temsil edilir.[^k2] Önceki düzenin taş kaydı aynı bölgededir ve iki dönem arasındaki karşılaştırma bu yüzden müm",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Bu kağanlığın en çok kaydedilen özelliği, yönetimin bir dini devlet kararıyla benimsemesidir.[^k1][^k4] Kararın kendisi, atlasın başka dosyalarında da karşılaşılan bir olguya örnek",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Değişimin şartlarının kayıtlı olması, ilişkinin tek taraflı olmadığını gösterir.[^k4] Bir tarafın ötekine bağımlı olması ile iki tarafın birbirine bağımlı olması ayrı şeylerdir ve ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Süreklilik iddiasının dayanağı adın, dilin ve yazının taşınmış olmasıdır.[^k3] Kopuş iddiasının dayanağı ise siyasi biçimin, geçim kaynağının ve komşuluk ilişkilerinin tamamen deği",
+      "sorun": "Kesinlik ifadesi \"tamamen\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas iki iddiadan birini benimsemez ve bu dosyayı ilk kuruluşa ayırır. Künyedeki tarihler bozkır düzenini kapsar; sonraki yerleşik düzen ayrı bir dosya gerektirir ve bu dosya yazı",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden bu dosyada bir nüfus ya da ordu sayısı vermez. Sayıların nasıl okunacağı sorusu [Tarihsel sayılar nasıl okunur](/tartisma/tarihsel-sayilar-nasil-okunur/) dosyasında",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "yuksek",
+      "tip": "anakronizm",
+      "cumle": "Bu ayrım, atlasın [Bürokrasi](/kavram/burokrasi/) dosyasında kavram düzeyinde ele alınır. Burada somut hâli şudur: bir bozkır düzeninin yazılı idari kayıt tutmaya başlaması, yerleş",
+      "sorun": "\"bürokrasi\" kavramı yaklaşık 1750'den itibaren kullanılıyor; makale 840'te bitiyor.",
+      "oneri": "Kavramı dönemin kendi diliyle değiştir ya da geriye dönük okuma olduğunu açıkça belirt."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosya, atlasın Orta Asya çalışmasında yeni bir aşamayı işaretler. Bölgenin aktör dosyaları uzun süre yalnızca giriş kapısı ve ansiklopedi maddelerine bağlanabiliyordu;[^k1][^k4]",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bölgenin kendi kayıtlarına bağlanmak bu dengeyi değiştirir ama tek başına düzeltmez. Kendi kaydı da bir yönetimin kaydıdır ve kendi taraflılığını taşır;[^k2] iki kaydın yan yana du",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": "aktor-kilva",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:25.044Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Kilva, Doğu Afrika kıyısında bir ada üzerinde kurulmuş liman şehridir ve kıyı boyunca uzanan şehir devletleri dizisinin en tanınmışıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kilva, Doğu Afrika kıyısında bir ada üzerinde kurulmuş liman şehridir ve kıyı boyunca uzanan şehir devletleri dizisinin en tanınmışıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şehir, karadan gelen mal ile denizden gelen mal arasındaki değişim noktasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İç bölgeden çıkan altın ve fildişi buradan Hint Okyanusu ağına girer; okyanustan gelen kumaş, seramik ve boncuk buradan iç bölgeye akar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İç bölgeden çıkan altın ve fildişi buradan Hint Okyanusu ağına girer; okyanustan gelen kumaş, seramik ve boncuk buradan iç bölgeye akar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Hint, Okyanusu"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kilva'yı yalnızca Afrika etiketiyle kaydetmek onu Hint Okyanusu ağından koparırdı; yalnızca ticaret ağıyla kaydetmek karadaki bağlarını görünmez kılardı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kilva'yı yalnızca Afrika etiketiyle kaydetmek onu Hint Okyanusu ağından koparırdı; yalnızca ticaret ağıyla kaydetmek karadaki bağlarını görünmez kılardı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hint Okyanusu ticareti mevsimlik rüzgârlarla işler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Hint Okyanusu ticareti mevsimlik rüzgârlarla işler.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Okyanusu"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir tüccarın aylarca beklemesi gerekiyorsa, limanın onu barındıracak, koruyacak ve anlaşmazlığını çözecek kurumları olmalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kıyıya gelen altının kaynağı sahil değil, iç bölgedeki yaylalardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki siyasi düzen ayrıdır, kayıtları ayrıdır ve biri hakkında bilinenler öbürü hakkında bilinenlerle aynı türden değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kıyıyı gezmiş bir seyyahın kaydı, bu dosyanın bağlandığı birincil metindir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı kayıt, dosyasında ayrıntılı olarak ele alınır ve güvenilirliği tartışılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir gezginin bir şehri \"büyük\" ya da \"güzel\" bulması ölçülebilir bir bilgi değildir; nereden geldiğine ve neyle karşılaştırdığına bağlıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kıyıda konuşulan dil, yerel bir tabanla ticaret ağının getirdiği kelime dağarcığının birleşmesinden oluşur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kıyıda konuşulan dil, yerel bir tabanla ticaret ağının getirdiği kelime dağarcığının birleşmesinden oluşur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kıyı, ne dışarıdan gelenlerin kurduğu bir koloni ne de dışarıya kapalı bir yerel düzendir; ikisinin de değil, ikisinin arasındaki bir biçimdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kıyı, ne dışarıdan gelenlerin kurduğu bir koloni ne de dışarıya kapalı bir yerel düzendir; ikisinin de değil, ikisinin arasındaki bir biçimdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bölge etiketleri kümeler kurar ama gerçek düzenler çoğu zaman kümelerin sınırında oturur; Kilva'nın birden çok etiket taşıması bunun künyedeki karşılığıdır.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Kilva"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "On altıncı yüzyıl başında okyanusa giren yeni bir deniz gücü, kıyı şehirlerinin ticaretteki aracılık konumunu doğrudan hedef almıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "On altıncı yüzyıl başında okyanusa giren yeni bir deniz gücü, kıyı şehirlerinin ticaretteki aracılık konumunu doğrudan hedef almıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kırılmanın biçimi kayda değerdir: ticaret ağı ortadan kalkmamış, ağdaki aracılık payı el değiştirmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya üç kaynağa dayanır: şehir üzerine bir ansiklopedi maddesi, aynı kıyıdaki bir başka liman üzerine ayrı bir madde ve kıyıyı gezmiş bir seyyahın kaydı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya üç kaynağa dayanır: şehir üzerine bir ansiklopedi maddesi, aynı kıyıdaki bir başka liman üzerine ayrı bir madde ve kıyıyı gezmiş bir seyyahın kaydı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya üç kaynağa dayanır: şehir üzerine bir ansiklopedi maddesi, aynı kıyıdaki bir başka liman üzerine ayrı bir madde ve kıyıyı gezmiş bir seyyahın kaydı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, atlasın son dönemde yazılan dosyalarında hedeflenen bileşimdir ve burada tutturulmuştur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu, atlasın son dönemde yazılan dosyalarında hedeflenen bileşimdir ve burada tutturulmuştur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir metnin söylediğini sınamak için ikinci bir çağdaş kayıt gerekir; bu dosya yazıldığında doğrulanabilir bir ikincisi bulunamamıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Doğrulanabilir, makine okunur ve katalog künyesiyle teyit edilmiş tam metinleri bulunamadı; aynı kısıt atlasın Afrika kümesindeki başka dosyalarında da kaydedil",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kıyıdaki öteki şehir devletleri ayrı ayrı işlenmez; her biri kendi dosyasını gerektirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Hint Okyanusu ağının doğu ucu — Hindistan, Güneydoğu Asya ve Çin bağlantıları — burada yalnızca işaret edilir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosyanın atlasa kattığı asıl soru şudur: bir liman şehri hangi tarihe aittir — arkasındaki kıtanın tarihine mi, önündeki denizin tarihine mi?",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosyanın atlasa kattığı asıl soru şudur: bir liman şehri hangi tarihe aittir — arkasındaki kıtanın tarihine mi, önündeki denizin tarihine mi?",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kilva, iç bölgeyle olan bağını kaybederse elinde satacak mal kalmaz; okyanus ağıyla olan bağını kaybederse malını satacak alıcı kalmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Afrika tarihi anlatıları kıyıyı kıtanın kenarı sayar; Hint Okyanusu tarihi anlatıları kıyıyı ağın bir düğümü sayar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir dosyanın birden çok etiket taşıması, kararsızlık değil, düzenin kendi biçiminin kaydıdır; tek etiket seçmek bir yorumu künyeye gizlice yazmak olurdu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kıyıda tek bir merkezî devlet değil, birbirinden bağımsız liman şehirleri dizisi bulunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kıyıda tek bir merkezî devlet değil, birbirinden bağımsız liman şehirleri dizisi bulunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavram Akdeniz örnekleri üzerinden tanımlanmıştır; burada aynı biçimin başka bir okyanus kıyısında ortaya çıkması, tanımın coğrafyaya bağlı olmadığını gösterir.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Akdeniz"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kavram yalnızca doğduğu bağlamda geçerliyse tanım değil betimlemedir; başka bağlamlarda da işliyorsa karşılaştırma aracı olur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir kavram yalnızca doğduğu bağlamda geçerliyse tanım değil betimlemedir; başka bağlamlarda da işliyorsa karşılaştırma aracı olur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sınamanın sonucu her zaman olumlu olmaz ve bu dosyada da tam bir eşleşme iddia edilmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki biçimin benzediğini söylemek için ikisinin iç düzenini aynı ayrıntıda bilmek gerekir; bu dosyanın kaynakları kıyı için o ayrıntıyı vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki biçimin benzediğini söylemek için ikisinin iç düzenini aynı ayrıntıda bilmek gerekir; bu dosyanın kaynakları kıyı için o ayrıntıyı vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya, atlasın Afrika kapsamını genişletme çalışmasının dördüncü adımıdır ve kümenin ilk doğu kıyısı dosyasıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Doğu kıyısının eklenmesi, kümeye yeni bir bağ türü kazandırır: Hint Okyanusu üzerinden Asya'ya uzanan bağ.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kıyı boyunca uzanan öteki şehirler, iç bölgedeki öteki düzenler ve okyanusun doğu ucundaki bağlantılar kaydedilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Siyasi biçimin kavram karşılığı için dosyası okunmalıdır; bu dosya kavramı başka bir okyanus kıyısında sınar ve sonucu açık bırakır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Son bir uyarı: bu dosya bir liman şehrini kaydeder ama şehrin bağlı olduğu ağın tamamını kapsamaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ağın tamamının kaydedilmesi, atlasın kapsam planında ayrı bir iş kalemidir ve bu dosyanın bıraktığı notlarla birlikte o listeye girer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

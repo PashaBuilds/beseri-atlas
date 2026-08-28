@@ -1,0 +1,14 @@
+{
+  "id": "dusunur-sankara",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.160Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Şerh yalnızca bir konumu savunmaz; çok sayıda rakip konumu tek tek ele alıp reddeder.[^k2] Reddedilen konumların bir bölümü başka hiçbir yerde korunmamıştır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+## aktor-malaka-sultanligi
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:07:25.165Z_
+
+- [ISARET]  k1 → "Malaka Sultanlığı, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan dar geçidin kıyısında kurulmuş bir…" — özel isim kaynakta bulunamadı: Okyanusu
+- [OK]      k4 → "Malaka Sultanlığı, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan dar geçidin kıyısında kurulmuş bir…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- undefined k1 → "Bu dosyanın ayırt edici yanı, bir devletin toprak yerine geçit üzerine kurulabildiğini göstermesidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Buna rağmen bir yüzyıl içinde bölgenin en büyük ticaret merkezi hâline geldi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Mevsim rüzgârlarının belirlediği takvim, bu boğazı zorunlu bir durak hâline getirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Aylarca aynı limanda kalan tüccarlar, malını satar, karşılığında yeni mal alır ve geri dönüş için yüklenir; li…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Aylarca aynı limanda kalan tüccarlar, malını satar, karşılığında yeni mal alır ve geri dönüş için yüklenir; li…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Kendi ürettiği bir mal yoktur; sattığı şey güvenlik, depolama ve tarafsızlıktır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bir liman devletinin en değerli sermayesi, tüccarların ayrım gözetilmeden korunduğuna dair güvendir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Kaynaklarda limanda farklı kökenlerden tüccar topluluklarının kendi temsilcileriyle örgütlendiği kaydedilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Kaynaklarda limanda farklı kökenlerden tüccar topluluklarının kendi temsilcileriyle örgütlendiği kaydedilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Burada somut hâli, bir devletin kendi hukukunu limandaki herkese dayatmaktan kaçınmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Sultanlığın kurucu hanedanının İslam'ı benimsemesi, kaynaklarda bölgedeki ticaret ağına katılmayla birlikte an…"
+- undefined k2 → "Sultanlığın kurucu hanedanının İslam'ı benimsemesi, kaynaklarda bölgedeki ticaret ağına katılmayla birlikte an…" — programatik olarak ölçülemedi (ad karşılığı yok): İslam
+- undefined k3 → "Okyanus ticaretinin baskın tüccar toplulukları aynı inanç çevresine mensuptu ve ortak hukuk, uzak mesafeli tic…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas bu ilişkiyi tek yönlü kurmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Bu sultanlık, atlasın Güneydoğu Asya dosyaları arasında kendi saray anlatısını bırakmış olan tek örnektir." — 1 atom doğrulandı; 1 ad ölçülemedi
+- undefined k2 → "Böyle bir metnin varlığı, dosyayı komşu ve rakip kayıtlarına bağımlı olmaktan kurtarır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas metni bir olay kaydı olarak değil, bir hanedanın kendini nasıl anlattığının kaydı olarak kullanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Atlas metni bir olay kaydı olarak değil, bir hanedanın kendini nasıl anlattığının kaydı olarak kullanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Saray anlatısı, hanedanın kökenini uzak ve saygın bir soya bağlar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bir soy iddiası, geçmişi açıklamak için değil bugünkü hükümranlığı gerekçelendirmek için kurulur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Aynı teknik, atlasın Amerika ve Batı Afrika dosyalarında da görülür."
+- undefined k1 → "Sultanlık, bölgedeki daha büyük siyasi birimlerle doğrudan çatışmaktan çok denge kurarak var oldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Sultanlık, bölgedeki daha büyük siyasi birimlerle doğrudan çatışmaktan çok denge kurarak var oldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Bu, atlasın dosyasında tanımlanan yapının bir örneğidir: bölgede egemenlik tek bir merkezde toplanmaz, iç içe …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Tâbiiyetin sembolik göstergeleri ile fiilî bağımsızlık ayrı ayrı işler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Sultanlığın sonu, bölge içi bir çatışmayla değil dışarıdan gelen bir donanma saldırısıyla geldi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Sultanlığın sonu, bölge içi bir çatışmayla değil dışarıdan gelen bir donanma saldırısıyla geldi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Bu ayrım, atlasın liman devletleri hakkındaki genel gözlemini doğrular." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu dosya dört kaynağa dayanır ve ikisi birincildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu dosya dört kaynağa dayanır ve ikisi birincildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "İkinci birincil kaynak sultanlığı değil, ondan önceki dönemi anlatır ve bu dosyada karşılaştırma amacıyla kull…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Saray anlatısının kullanılan çevirisi yirminci yüzyıl ortasına aittir ve kamu malı olduğu iddia edilmez; kayna…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Sultanlığın idari yapısı, hukuk derlemesi ve saray teşkilatı burada ayrı başlıklar altında işlenmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Limanın düşmesinden sonraki sömürge dönemi de kapsam dışıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bölgedeki öteki sultanlıklar ve bunların birbirleriyle ilişkisi burada verilmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Sultanlığın limanında kullanılan dil, bölge boyunca ticaretin ortak dili hâline geldi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Sultanlığın limanında kullanılan dil, bölge boyunca ticaretin ortak dili hâline geldi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Dil, tam biçimiyle değil ticarete yeten sadeleşmiş bir hâliyle taşındı; limanlar arası iletişim için gereken ş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu ayrım, atlasın dil yayılımı hakkında tek bir açıklamaya bağlanmamasının gerekçelerinden biridir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Limanda yaşayan nüfusun büyük bölümü, sultanlığın kendi tebaası değildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Limanda yaşayan nüfusun büyük bölümü, sultanlığın kendi tebaası değildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Askerî güç büyük ölçüde dışarıdan kiralanır, vergi tabanı yabancı tüccarlara dayanır ve sadakat toprak bağıyla…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Çıkara dayanan bir bağ, çıkar ortadan kalktığında ya da başka bir liman daha uygun şartlar sunduğunda çözülür;…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu sultanlığın nüfusuna ve ticaret hacmine dair sayılar, çoğunlukla dışarıdan gelen gözlemcilerin verdiği izle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Bu sultanlığın nüfusuna ve ticaret hacmine dair sayılar, çoğunlukla dışarıdan gelen gözlemcilerin verdiği izle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bir limanın büyüklüğüne dair izlenim, gözlemcinin daha önce hangi limanları gördüğüne bağlıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Atlas bu yüzden bu dosyada bir nüfus ya da hacim rakamı vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu sultanlık yaklaşık yüz yıl varlığını sürdürdü ve atlasın aktör katmanındaki en kısa ömürlü siyasi birimlerd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Bu sultanlık yaklaşık yüz yıl varlığını sürdürdü ve atlasın aktör katmanındaki en kısa ömürlü siyasi birimlerd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bir siyasi birimin atlasa girme ölçütü süresi değil, bir yapıyı ne kadar açık gösterdiğidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Uzun ömürlü devletlerde aynı yapı, yüzyıllara yayıldığı için görünmez olur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Aynı düzenin batı ucunda, Doğu Afrika kıyısında benzer bir liman devletleri kuşağı bulunur." — 1 atom doğrulandı; 1 ad ölçülemedi
+- undefined k1 → "Karşılaştırmanın gösterdiği şey, benzer coğrafi konumların benzer siyasi biçimler ürettiğidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Karşılaştırmanın gösterdiği şey, benzer coğrafi konumların benzer siyasi biçimler ürettiğidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Atlas bu benzerliği bir yasa olarak ileri sürmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+
+**Özet:** 5 OK · 1 ISARET · 0 HATA

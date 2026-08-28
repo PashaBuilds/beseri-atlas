@@ -1,0 +1,49 @@
+{
+  "id": "dusunur-nagarjuna",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.159Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Düşünürün metinleri, karşı görüşleri tek tek ele alıp her birini kendi mantığı içinde çelişkiye ulaştırarak ilerler.[^k1] Bu, dönemin tartışma geleneğinde bilinen bir tekniktir ama",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, atlasın dönem metinlerinde tekrar eden bir durumdur ve künyede gösterilmez.[^k1] Kayıtta bir ad bulunması, o adın tek bir kişiye karşılık geldiğinin kanıtı değildir; ad, bir ki",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden dosyayı kişiye değil, kişiye atfedilen düşünce çizgisine odaklar.[^k2] Metinlerin kim tarafından yazıldığı çözülmeden de, ne söyledikleri ve nasıl tartıştıkları inc",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Atlas bu kaymayı kaydeder çünkü kendi yöntem ilkesiyle örtüşür.[^k1] Bir düşüncenin yayılması onun her yerde aynı şeyi ifade ettiği anlamına gelmez; alan taraf, aldığını kendi dili",
+      "sorun": "Makale guney-asya/dogu-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden bu dosyada çağdaş karşılaştırma yapmaz.[^k1] Karşılaştırma mümkündür ama ayrı bir dosya ve ayrı bir gerekçelendirme gerektirir; burada yalnızca riskin kaydı bırakıl",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosya, atlasın Güney Asya düşünür katmanındaki üçüncü dosyadır.[^k1] Önceki dosyalar bir hükümdar ve bir yönetim kuramcısı içindi; bu dosya ilk kez bir felsefe geleneğini temsil",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

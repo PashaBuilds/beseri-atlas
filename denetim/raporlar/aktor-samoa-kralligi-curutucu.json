@@ -1,0 +1,56 @@
+{
+  "id": "aktor-samoa-kralligi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.149Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Takımadada tek bir hükümdarlık geleneği yoktu.[^k2] Yetki, birden çok unvanın aynı kişide toplanmasıyla kuruluyordu ve unvanlar ayrı ailelere aitti.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu yapı, dışarıdan bakan için tek bir muhatap üretmiyordu.[^k1] Yabancı konsoloslar, tanıyacakları tek bir kral arıyordu ve yapı buna uygun değildi.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Adalarda birden çok kez kral ilan edildi ve her ilan bir dış gücün desteğini taşıyordu.[^k1] Rakip ilanlar iç savaşa yol açtı.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Fark, buradaki üçlü yapıdadır.[^k1] Tek bir dış tedarikçi olduğunda mücadele daha hızlı biter; üç tedarikçi olduğunda hiçbir taraf kesin üstünlük kuramaz.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, atlasın Fiji dosyasında ölçtüğü sorunun aynısıdır.[^k2] Toprağın devredilebilir sayılması, yabancı sermayenin ve nüfusun yerleşmesinin ilk halkasıdır.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dört örnek aynı yöne işaret eder.[^k1] Toprağın devredilebilirliği, sonucu belirleyen ilk halkadır.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yerel yapının dış tanımaya uygun olmaması tek neden sayılmaz.[^k2] Üçlü rekabet ve plantasyon çıkarları ayrı ayrı etkendir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "kaynak-afrika-birligi-sarti",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.172Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Örgütün tek tek kararları izlenmez.[^k2] Ayrı bir çalışma gerektirir ve bu dosya yazıldığında atlasta bulunmuyordu.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kıtadaki iç çatışmaların nedenleri işlenmez.[^k3] Sınır meselesi etkenlerden biridir ve tek etken olarak sunulmaz.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sınırların çizildiği masa için [Berlin Konferansı](/olay/berlin-konferansi/), aynı yapının en erken örneği için [Tordesillas Antlaşması](/kaynak/tordesillas-antlasmasi/) dosyaları ",
+      "sorun": "\"en erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kıtanın en eski cumhuriyetinin kuruluş metni için [Liberya Bağımsızlık Bildirisi](/kaynak/liberya-bagimsizlik-bildirisi/) dosyası okunabilir.[^k3]",
+      "sorun": "\"en eski\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

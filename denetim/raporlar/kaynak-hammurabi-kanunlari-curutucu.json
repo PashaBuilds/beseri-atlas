@@ -1,0 +1,49 @@
+{
+  "id": "kaynak-hammurabi-kanunlari",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.174Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dikilitaş bugün bir müzede bulunmaktadır ve metin tam olarak okunabilmektedir.[^k2] Bu, atlasın en erken tarihli tam metin künyesidir.",
+      "sorun": "\"en erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir metnin kanun sayılması, uygulandığının gösterilmesine bağlıdır.[^k3] Yazılmış olması tek başına yeterli değildir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Metnin adalet anlayışı tek cümleyle ifade edilebilir.[^k1] **Adalet, herkese aynı ölçüyle davranmak değil, herkese konumuna uygun ölçüyle davranmaktır.**",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu metin bölgenin ilk hüküm derlemesi değildir.[^k2] Daha erken tarihli derlemeler bilinmektedir ve bir bölümü kısmen korunmuştur.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu uyarıyı ayrıca yazar.[^k3] En erken kayıt, korunmuş kayıtların en erkenidir; korunmamış olanlar hakkında bir şey söylemez.",
+      "sorun": "\"En erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Hükümlerin tek tek içeriği aktarılmaz.[^k3] Metin künyede erişilebilir durumdadır ve dosya yalnızca yapısını kaydeder.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

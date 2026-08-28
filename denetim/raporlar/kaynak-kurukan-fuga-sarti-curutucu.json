@@ -1,0 +1,35 @@
+{
+  "id": "kaynak-kurukan-fuga-sarti",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.175Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden şarta atıf yaparken sürümü belirtir.[^k3] Bu, atlasın Magna Carta dosyasında kurduğu kuralın buradaki karşılığıdır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Metinden hangisinin doğru olduğu çıkarılamaz.[^k3] Atlas bu yüzden şartın belirli maddelerine dayanan iddiaları tartışmalı sayar.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Şartın yazıya geçirilmemiş olması bu yüzden yazının yokluğuyla açıklanamaz.[^k2] Yazı vardı ama bu tür bir metin için kullanılmadı.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosya, şartın maddelerini tek tek çözümlemez.[^k1] Metnin sürümleri arasındaki farklar ayrı bir çalışma gerektirir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

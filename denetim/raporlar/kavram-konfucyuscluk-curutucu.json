@@ -1,0 +1,63 @@
+{
+  "id": "kavram-konfucyuscluk",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.165Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Üçünün aynı yüzyıllarda, aynı bölgede ve birbirini adıyla anarak tartıştığı bir ortamda bulunması, atlasın bir dönemi tek bir düşünce biçimiyle anlatmamasının en açık gerekçesidir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Üç dosyanın birlikte okunması, tartışmanın taraflarını gösterir. Tek tek her biri bir görüşü kaydeder; üçü birden, görüşlerin birbirine karşı kurulduğunu gösterir.[^k2][^k3]",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "[Legalizm](/kavram/legalizm/) ve [Taoizm](/kavram/taoizm/) dosyalarında kaydedilen adlandırma sorunu bu çizgi için de geçerlidir.[^k1] Batı dillerindeki ad, çizgiyi tek bir kurucuy",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Fark önemsiz görünmez. Bir düşünce çizgisini tek bir kurucunun adıyla anmak, o çizgiyi kurucunun söyledikleriyle sınırlı sanmaya yol açar;[^k3] oysa sonraki metinler çizgiyi genişl",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "**Tartışmalı.** Bu çizginin iki bin yıl boyunca sürüp sürmediği, yoksa aynı adla anılan farklı düşünce sistemlerinin mi söz konusu olduğu tartışılır. Sonraki yüzyıllarda geliştiril",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Çizginin toplumsal düzen anlayışı, tek yönlü bir itaat değil karşılıklı yükümlülükler ağı üzerine kurulur.[^k2] Üstün alta karşı sorumluluğu, altın üste karşı sorumluluğunun karşıl",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu okuma farkını kaydeder çünkü çizginin sonraki dönemlerdeki kullanımları çoğu zaman tek yönlü tarafı öne çıkarmıştır.[^k1] Bir öğretinin nasıl kullanıldığı ile ne söylediği",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı ilke [Taoizm](/kavram/taoizm/) dosyasında da uygulanmıştır. Atlasın kavram dosyaları, mümkün olan yerlerde tek metne bağlanmaktan kaçınır; tek kaynaktan tanımlanan bir kavram,",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

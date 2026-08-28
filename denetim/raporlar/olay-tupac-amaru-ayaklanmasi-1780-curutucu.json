@@ -1,0 +1,49 @@
+{
+  "id": "olay-tupac-amaru-ayaklanmasi-1780",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.124Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Hareketin ilk çerçevesi, kötü yönetilen bir düzenin düzeltilmesi talebiydi.[^k3] Bu, atlasın çok sayıda dosyasında gördüğü olağan bir başlangıçtır.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu değişimi ayrıca kaydeder.[^k3] Bir hareketin talebi süreç içinde değişebilir ve başlangıçtaki talep, hareketin ne olduğunu tek başına göstermez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Ayaklanmanın yayıldığı alan dağlıktı ve yüksek yaylalardan oluşuyordu.[^k2] Bu, hareketin ilk aylarda hızla yayılmasını kolaylaştırdı.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kentlerdeki melez ve yerleşik nüfus, ilk aşamada tarafsız kaldı ve sonraki aşamada karşı tarafa geçti.[^k2] Geçiş, talep çerçevesinin değişmesiyle aynı döneme denk gelir.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas iki düzeyi ayrı tutar.[^k2] Bir adın sonradan kullanılması, o adın ilk taşıyıcısının programı hakkında bilgi vermez.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosya, ayaklanmanın nedenini tek bir etkene bağlamaz.[^k1] Vergi düzenlemesi, zorunlu alım ve idari uygulamalar birlikte sıralanır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

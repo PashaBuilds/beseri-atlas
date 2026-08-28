@@ -1,0 +1,51 @@
+## aktor-kanem-bornu
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:07:25.025Z_
+
+- [OK]      k1 → "Kanem-Bornu, Çad Gölü çevresinde kurulan ve zamanla gölün batısına taşınan bir siyasi düzendir."
+- undefined k3 → "Kanem-Bornu, Çad Gölü çevresinde kurulan ve zamanla gölün batısına taşınan bir siyasi düzendir." — programatik olarak ölçülemedi (ad karşılığı yok): Çad, Gölü
+- undefined k1 → "Aynı hanedan adı altında yüzyıllar boyunca varlığını sürdürmesi, atlasın aktör dosyalarında ender rastlanan bi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Aynı hanedan adı altında yüzyıllar boyunca varlığını sürdürmesi, atlasın aktör dosyalarında ender rastlanan bi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Aynı hanedan altında merkez değişmiş, coğrafya kaymış ve idari yapı dönüşmüştür; atlas bunları ayrı dosyalara …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Düzenin doğu merkezinden batıya taşınması, dışarıdan gelen baskı ve iç bölünmelerle birlikte aktarılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Düzenin doğu merkezinden batıya taşınması, dışarıdan gelen baskı ve iç bölünmelerle birlikte aktarılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Sürekliliği kaydeden bir kaynak, kopukluğu kaydeden bir kaynaktan farklı bir tarih anlatısı üretir; hangisinin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Taşınmanın ardından bölgenin yeni merkezinde kurulan düzen, öncekinin kurumlarını büyük ölçüde sürdürmüştür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ISARET]  k1 → "Düzenin ekonomik temeli, Sahra'yı geçen kuzey-güney ticaret yollarının denetimidir." — özel isim kaynakta bulunamadı: Sahra
+- undefined k2 → "Düzenin ekonomik temeli, Sahra'yı geçen kuzey-güney ticaret yollarının denetimidir." — programatik olarak ölçülemedi (ad karşılığı yok): Sahra
+- [ISARET]  k1 → "İki dosya birlikte okunduğunda, Sahra'nın güney kıyısında kurulan siyasi düzenlerin ortak bir ekonomik biçimi …" — özel isim kaynakta bulunamadı: Sahra
+- undefined k2 → "Bu dosyanın ayrıcalığı, bölgeyi tarif eden çağdaş bir metnin erişilebilir olmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu, atlasın dosyasındaki durumdan farklıdır: orada elimizdeki tarifler, bölgeye hiç gitmemiş derleyicilerin ak…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Gezip yazan biri de gördüğünü seçerek yazar, duyduğunu gördüğüyle karıştırabilir ve okuruna göre vurgu değişti…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Kullanılan çeviri on yedinci yüzyıl başına aittir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kaynaklar, hükümdar ailesinin İslam'ı benimsemesini düzenin dönüm noktalarından biri olarak kaydeder."
+- [OK]      k3 → "Kaynaklar, hükümdar ailesinin İslam'ı benimsemesini düzenin dönüm noktalarından biri olarak kaydeder."
+- undefined k1 → "Hükümdarın benimsemesi, halkın tamamının benimsemesiyle aynı şey değildir; kaynaklar bu iki düzeyi her zaman a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Düzenin sonraki dönemlerinde askerî yapının değiştiği ve kuzeydeki güçlerle kurulan ilişkilerin bu değişimde r…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Düzenin sonraki dönemlerinde askerî yapının değiştiği ve kuzeydeki güçlerle kurulan ilişkilerin bu değişimde r…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Yeni bir silahın gelmesi, onu kullanan düzeni otomatik olarak güçlendirmez; kullanımı, bakımı ve ikmali başka …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu dosya üç kaynağa dayanır: bölge üzerine bir ansiklopedi maddesi, çağdaş bir coğrafya eserinin tam metni ve …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu dosya üç kaynağa dayanır: bölge üzerine bir ansiklopedi maddesi, çağdaş bir coğrafya eserinin tam metni ve …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu dosya üç kaynağa dayanır: bölge üzerine bir ansiklopedi maddesi, çağdaş bir coğrafya eserinin tam metni ve …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Düzenin doğu dönemine ait ayrı bir ansiklopedi maddesi aday olarak sınandı ve reddedildi: sorgulanan adres mad…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Tek bir çağdaş kayıt, karşılaştırma imkânı vermez; bir metnin söylediğini sınamak için ikinci bir metin gereki…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Düzenin idari yapısı, vergi düzeni ve ordu teşkilatı ayrıntılı olarak işlenmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "On dokuzuncu yüzyıldaki dönüşüm ve sömürge dönemine geçiş burada ele alınmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Aynı hanedan adının yüzyıllar boyunca kayıtlarda sürmesi, atlasın aktör dosyalarında ender bir durumdur ve dik…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Aynı hanedan adının yüzyıllar boyunca kayıtlarda sürmesi, atlasın aktör dosyalarında ender bir durumdur ve dik…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Hanedan listelerini tutan kayıtlar, sürekliliği vurgulama eğilimindedir; çünkü bu listeler çoğu zaman hüküm sü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "İkisi arasında karar vermek için bağımsız bir kayıt gerekir ve bu dosya için elde yoktur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "İkisi arasında karar vermek için bağımsız bir kayıt gerekir ve bu dosya için elde yoktur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Düzenin merkezinin bir göl çevresinde kurulmuş olması, coğrafi bir ayrıntı değil ekonomik bir zemindir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu zeminin siyasi sonucu, çöl ticaretinin bir ucunda kalıcı bir yerleşimin bulunabilmesidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu zeminin siyasi sonucu, çöl ticaretinin bir ucunda kalıcı bir yerleşimin bulunabilmesidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Gölün kendisinin yüzyıllar içinde büyük ölçüde küçüldüğü ayrı bir konudur ve bu dosyada işlenmez; iklim ve yer…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Biri yalnızca uzaktan derlenmiş aktarımlara dayanır; öteki, bölgeyi gezmiş bir yazarın kaydına bağlanabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Biri yalnızca uzaktan derlenmiş aktarımlara dayanır; öteki, bölgeyi gezmiş bir yazarın kaydına bağlanabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Fark, hangi metnin çevrilip dijitalleştirildiğiyle ilgilidir; yani bugünün arşiv kararlarıyla, dönemin kayıt p…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bölgeyi gezip yazan bir başka kaynak için dosyası uygundur; iki gezginin kayıtları arasındaki fark, aynı bölge…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Sürekliliğin nasıl kaydedildiği sorusu için , gölün küçülmesi ve yerleşim ilişkisi için dosyaları okunmalıdır;…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu dosyanın bağlandığı çağdaş metin bir çeviridir ve gözlemle aktarımı her yerde ayırmaz; ondan alınacak her i…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Burada anlatılanların bir bölümü ansiklopedi aktarımıdır, bir bölümü çağdaş bir metnin çevirisinden gelir; kün…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Burada anlatılanların bir bölümü ansiklopedi aktarımıdır, bir bölümü çağdaş bir metnin çevirisinden gelir; kün…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+
+**Özet:** 3 OK · 2 ISARET · 0 HATA

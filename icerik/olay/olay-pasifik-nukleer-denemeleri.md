@@ -48,6 +48,13 @@ kaynaklar:
     erisim_tarihi: 2026-08-26
     dogrulama_dizesi: "Covenant of the League of Nations"
     not: "Vesayet duzenini kuran ilk metin; 22. madde"
+  - anahtar: k4
+    tur: veri
+    ad: "Our World in Data - Number of nuclear weapons tests (CSV)"
+    url: https://ourworldindata.org/grapher/number-of-nuclear-weapons-tests.csv
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "Number of nuclear weapons tests"
+    not: "Ulke-yil bazinda deneme sayilari; Fransa'nin son denemesi 1996 satirinda gorunur"
 son_denetim: 2026-08-26
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -56,8 +63,9 @@ onarim_turu: 0
 ## Ne oldu
 
 1946'dan 1996'ya kadar, yani elli yıl boyunca, Pasifik'in farklı
-bölgelerinde iki yüzden fazla nükleer deneme yapıldı.[^k1] Denemeleri üç
-ayrı devlet yürüttü.
+bölgelerinde iki yüzden fazla nükleer deneme yapıldı.[^k1][^k4]
+Denemeleri üç ayrı devlet yürüttü; sonuncusu olan Fransa, son
+denemesini 1996'da yaptı.[^k4]
 
 Deneme alanlarının önemli bölümü, o dönemde vesayet ya da sömürge
 statüsündeki adalardı.[^k3] Adaların halkı, alan seçimi kararında taraf değildi ve karar

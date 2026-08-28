@@ -1,0 +1,35 @@
+{
+  "id": "kavram-veraset",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.168Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Belirleyici değişken aday sayısıdır.[^k1] Aday çoksa, hiçbir kural tek başına yarışı önlemez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Aday sayısını azaltan düzenlemeler bu yüzden yaygındır.[^k2] Rakip adayların dışlanması, uzak tutulması ya da yetkisizleştirilmesi bunlar arasındadır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yetki tek bir kişide toplandığında ölüm bir kriz üretir.[^k1] Yetki kurumlara dağıldığında aynı ölüm bir prosedüre dönüşür.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosya, tek tek hanedanların veraset tarihini vermez.[^k1] Her biri kendi dosyasında ele alınır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

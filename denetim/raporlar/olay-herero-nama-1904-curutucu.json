@@ -1,0 +1,42 @@
+{
+  "id": "olay-herero-nama-1904",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.121Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu farkı ayrıca kaydeder.[^k3] Bir varlığın birden çok işlev taşıdığı düzenlerde, o varlığın kaybı tek bir kalemle ölçülemez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Nüfus kaybının büyüklüğü için verilen tahminler farklıdır.[^k1] Fark, başlangıç nüfusunun bilinmemesinden ve dönem sınırının nereye konduğundan kaynaklanır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden tek bir sayı vermez.[^k3] Bir oranın paydası bilinmiyorsa, oranın kendisi de bilinmiyordur.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu yüzden tek bir sayı vermez.[^k3] Bir oranın paydası bilinmiyorsa, oranın kendisi de bilinmiyordur.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bunu tekrar eden bir ölçüm sayar.[^k3] Tekrarın kendisi, tek tek örneklerden ayrı bir bulgudur.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

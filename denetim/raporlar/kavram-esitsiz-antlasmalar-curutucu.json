@@ -1,0 +1,91 @@
+{
+  "id": "kavram-esitsiz-antlasmalar",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.164Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Eşitsiz antlaşmalar, yükümlülüğün tek yöne aktığı antlaşmalardır.[^k1] Bir taraf hak ve ayrıcalık alır, diğer taraf yükümlülük üstlenir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Ayrım maddelerin dağılımındadır.[^k3] Atlas bu yüzden bir antlaşmayı adına değil madde dizisine bakarak sınıflandırır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, sistemi kendi kendini büyüten bir yapıya çevirir.[^k2] Tek bir yenilgi, o yenilgiye hiç katılmamış devletlere de yeni haklar kazandırır.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı madde, geri almayı da zorlaştırır.[^k1] Tek bir devletle görüşerek bir ayrıcalıktan vazgeçilmesini sağlamak yetmez.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Ayrıcalık, o maddeyi taşıyan bütün devletlerle ayrı ayrı görüşülmeden kalkmaz.[^k2] Bu, revizyonu tek tek değil toplu bir işe çevirir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, atlasın tek ürüne bağlanma dosyasındaki yapıyla kesişir.[^k2] Korunmayan bir pazar, kolayca ihracata dayalı bir düzene yerleşir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Antlaşmalar iki dilde hazırlanıyordu.[^k2] Metinler her zaman birbirinin tam karşılığı değildi.",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Ayrıcalıkların kaldırılması onlarca yıl sürdü.[^k2] Kaldırma, tek taraflı bir kararla değil görüşmeyle oldu.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Reformun kaynağı bu yüzden tek bir yerde aranmaz.[^k1] İç talep ile dış koşul aynı yönde işledi.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Reformun kaynağı bu yüzden tek bir yerde aranmaz.[^k1] İç talep ile dış koşul aynı yönde işledi.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Zamanla güç dengesi değişince aynı maddeler tek yönlü işlemeye başladı.[^k2] Metin aynı kaldı, işlevi değişti.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Üçüncüsü, feshedilebilir olup olmadığıdır.[^k3] Süresiz ve tek taraflı feshedilemez bir antlaşma, bu kategoriye girer.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

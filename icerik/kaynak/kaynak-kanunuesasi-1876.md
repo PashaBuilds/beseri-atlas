@@ -61,6 +61,13 @@ kaynaklar:
     erisim_tarihi: 2026-08-25
     dogrulama_dizesi: "TANZİMAT"
     not: "Metnin ciktigi donemin ayri maddesi"
+  - anahtar: k4
+    tur: ansiklopedi
+    ad: "TDV Islam Ansiklopedisi - MESRUTIYET"
+    url: https://islamansiklopedisi.org.tr/mesrutiyet
+    erisim_tarihi: 2026-08-28
+    dogrulama_dizesi: "23-24 Temmuz 1908"
+    not: "1908 canlandirmasinin (II. Mesrutiyet) ayri maddesi"
 son_denetim: 2026-08-25
 denetim_durumu: onaylandi
 onarim_turu: 0
@@ -139,8 +146,9 @@ Bu, atlasın Magna Carta dosyasında ölçtüğü örüntüyle aynı
 ailedendir.[^k1] Bir belge, işlemediği dönemde de varlığını sürdürebilir
 ve sonradan yeniden canlandırılabilir.
 
-Canlandırma 1908'de gerçekleşti.[^k3] Anayasanın yeniden yürürlüğe
-konması, bir siyasi hareketin temel talebi hâline geldi.
+Canlandırma, meclisin yeniden toplanmaya çağrıldığı 23-24 Temmuz
+1908'de gerçekleşti.[^k4] Anayasanın yeniden yürürlüğe konması, bir
+siyasi hareketin temel talebi hâline gelmişti.
 
 ## Uykudaki belgenin işlevi
 
@@ -197,8 +205,8 @@ Bu dosyada künyelenen metin bir çeviridir.[^k1] Özgün metnin
 doğrulanabilir çevrimiçi tam baskısı bu dosya yazıldığında
 bulunamamıştır.
 
-Atlas bu kısıtı Waitangi dosyasında kurduğu kuralla ele alır.[^k3] Çok
-dilli bir belgeye atıf yapılırken hangi dildeki metnin kastedildiği
+Bu kısıt gizlenmez, kayda geçirilir.[^k1] Çeviri ya da çok dilli bir
+belgeye atıf yapılırken hangi dildeki metnin kastedildiği açıkça
 yazılmalıdır.
 
 Kural burada uygulanmıştır.[^k2] Dosyadaki madde göndermeleri çeviri

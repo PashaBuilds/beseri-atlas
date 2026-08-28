@@ -1,0 +1,70 @@
+{
+  "id": "aktor-olmek",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.145Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Düzen, bölgenin bilinen en erken büyük ölçekli yerleşimlerini kurdu.[^k2] Tören merkezleri, yapay höyükler ve anıtsal taş yontular bu yerleşimlerin ortak özelliğidir.",
+      "sorun": "\"en erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu yöntemsel sorunu ayrıca kaydeder.[^k1] En erken tarih, kazılmış alanların en erken tarihidir; kazılmamış alanlar hakkında bir şey söylemez.",
+      "sorun": "\"En erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Aynı mekanizma atlasın Bengal dosyasında da kaydedilmiştir.[^k3] Taşkına dayalı tarım, sulama altyapısı gerektirmez ve bu yüzden merkezî yönetim zorunluluğu daha zayıftır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, tek bir çöküş olayı yerine bir ağırlık kayması anlamına gelir.[^k2] Düzenin sona ermesi ile merkezinin değişmesi ayrı şeylerdir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kazı alanlarının tek tek tarihi ve buluntu listeleri burada işlenmez.[^k1] Her biri ayrı dosya gerektirir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosya, atlasın Amerika aktör katmanındaki en erken tarihli dosyadır.[^k2] Katmandaki öteki dosyalar en az bin yıl sonrasına aittir.",
+      "sorun": "\"en erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosyanın seçilme gerekçesi kapsamdan çok tartışmadır.[^k1] Ana kültür sorusu, bir bölgenin tarihinin tek bir kaynaktan mı yoksa çoklu merkezlerden mi anlatılacağını belirler.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu tercihte taraf tutmaz ama sorunun kendisini kaydeder.[^k3] Bir bölgeyi tek bir kaynaktan anlatmak, atlasın öteki bölgelerde de kaçındığı bir anlatım biçimidir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "En erken örnek olmak, kaynak olmayı kanıtlamaz.[^k3] Aynı yöntemsel itiraz burada da geçerlidir: kazılmış alanların en erken örneği, bölgenin en erken örneği değildir.",
+      "sorun": "\"En erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

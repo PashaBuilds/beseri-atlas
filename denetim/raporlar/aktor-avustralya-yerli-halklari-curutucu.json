@@ -1,0 +1,84 @@
+{
+  "id": "aktor-avustralya-yerli-halklari",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.127Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosyanın ayırt edici yanı, atlasın kendi şemasının bu konuyu kapsayamamasıdır.[^k1] Atlasın en erken dönemi tarımın yaygınlaşmasıyla başlar; bu dosyanın konusu, o dönemden on binle",
+      "sorun": "\"en erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Künyede dönem alanı en erken dönemi gösterir ama konu o dönemden çok öncedir.[^k2] Bu tutarsızlık gizlenmemiştir; şemanın kapsayamadığı bir konuyu şemaya sığdırmanın başka yolu yok",
+      "sorun": "\"en erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosyanın başlığı, yüzlerce ayrı topluluğu tek bir etiket altında toplar.[^k1] Kıtada birbirinden ayrı diller, hukuk düzenleri ve toprak ilişkileri bulunuyordu.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas ortak adı kullanır ve itirazı buraya yazar.[^k1] Yüzlerce ayrı düzeni tek dosyada toplamak bir kapsam tercihidir; her biri için ayrı dosya gerekirdi ve bu dosya yazıldığında ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden sınıflandırmayı bir sonuç değil bir başlangıç varsayımı sayar.[^k3] Kategorinin kendisi bir kanıt değildir ve kanıtı yorumlamadan önce sorgulanmalıdır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden bu dosyada nüfus rakamı vermez.[^k2] Tahminlerin tartışmalı olması, bu tartışmanın kendisinin de siyasi sonuçları bulunduğu için ayrıca dikkat gerektirir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tek tek toplulukların tarihi, dilleri ve hukuk düzenleri burada işlenmez.[^k1] Her biri ayrı dosya gerektirir ve bu dosya bir kapsam tercihidir.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Dosyanın atlas için ayrı bir işlevi vardır.[^k1] Konusu, atlasın dönem şemasının kapsayamadığı tek konudur ve bu yüzden şemanın kendi sınırını gösterir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosyanın atlas için ayrı bir işlevi vardır.[^k1] Konusu, atlasın dönem şemasının kapsayamadığı tek konudur ve bu yüzden şemanın kendi sınırını gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir şemanın sınırını göstermek, şemayı geçersiz kılmaz.[^k3] Sınırın görünür olması, şemanın neyi seçtiğini ve neyi dışarıda bıraktığını okurun değerlendirmesine açar. Atlasın döne",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosya okunurken tek bir şey akılda tutulmalıdır: buradaki anlatım kamuya açık kaynakların aktardığıyla sınırlıdır ve toplulukların kendi kurumlarının ürettiği kayıtların yerini ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

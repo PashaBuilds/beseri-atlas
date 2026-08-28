@@ -1,0 +1,65 @@
+## aktor-olmek
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:07:25.364Z_
+
+- [OK]      k1 → "Olmek, Orta Amerika'nın körfez kıyısındaki alçak ve sulak ovada yerleşmiş bir düzendir."
+- undefined k2 → "Düzen, bölgenin bilinen en erken büyük ölçekli yerleşimlerini kurdu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Dosyanın ayırt edici yanı, düzenin sonraki uygarlıklarla ilişkisinin tartışmalı olmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Bir görüş, düzeni sonraki Orta Amerika uygarlıklarının kaynağı sayar."
+- undefined k1 → "Karşı görüş, aynı unsurların bölgenin birden çok yerinde eşzamanlı geliştiğini savunur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Tartışma, kanıtın türünden dolayı kapanmıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Kazı yoğunluğu bölgeler arasında eşit değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Atlas bu yöntemsel sorunu ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Düzenin en tanınan eserleri, insan boyunu aşan bazalt başlardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bireysel farklılık bir bilgidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Atlas bu çıkarımı Teotihuacan dosyasındaki karşıt gözlemle birlikte okur." — programatik olarak ölçülemedi (ad karşılığı yok): Teotihuacan
+- undefined k1 → "Başların yontulduğu bazalt, yerleşimlerden onlarca kilometre uzaktaki yataklardan geliyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu taşıma işi, düzen hakkında doğrudan bilgi verir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu, nesne kanıtından yapılabilen güçlü çıkarımlardan biridir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Düzene ait olduğu düşünülen bazı işaretli buluntular bulunmuştur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Tartışma, ana kültür sorusuyla doğrudan bağlantılıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas iki okumayı da kaydeder ve bir sonuca bağlanmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Düzenin merkezleri, yapay olarak yükseltilmiş platformlar ve düzenlenmiş alanlar içeriyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Planlı düzen, atlasın Teotihuacan dosyasında da kaydedilen çıkarıma dayanak verir." — programatik olarak ölçülemedi (ad karşılığı yok): Teotihuacan
+- undefined k2 → "Buradaki fark ölçektir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Yerleşimler, düzenli olarak taşan nehir ovalarında kuruldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ISARET]  k3 → "Aynı mekanizma atlasın Bengal dosyasında da kaydedilmiştir." — özel isim kaynakta bulunamadı: Bengal
+- undefined k2 → "Bu, düzenin siyasi biçimi hakkındaki belirsizliğin bir sebebi olabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Nesnelerde tekrar eden bazı figürler, insan ile hayvan özelliklerini birleştirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Nesnelerde tekrar eden bazı figürler, insan ile hayvan özelliklerini birleştirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Yayılmanın biçimi tartışmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas üçünü de kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Düzenin yerleşimlerinde uzak bölgelerden gelen malzemeler bulunmuştur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu, bölgede uzun mesafeli bir alışveriş ağının bulunduğunu gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas ayrımı korur çünkü üç biçimin siyasi sonuçları farklıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Merkezlerin terk edilmesi, kaynaklarda kademeli olarak anlatılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu, tek bir çöküş olayı yerine bir ağırlık kayması anlamına gelir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlas bu ayrımı korur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Düzenin bugün kullanılan adı, kendi adı değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ISARET]  k4 → "Bu, atlasın Amerika dosyalarında tekrar eden bir durumdur." — özel isim kaynakta bulunamadı: Amerika
+- undefined k2 → "Atlas yerleşmiş adı kullanır ve kaynağını burada beyan eder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu dosya dört kaynağa dayanır ve üçü birincildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu dosya dört kaynağa dayanır ve üçü birincildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Bu dosya dört kaynağa dayanır ve üçü birincildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Anıtsal başlar künyeye alınamamıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu kısıt beyan edilmelidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Kazı alanlarının tek tek tarihi ve buluntu listeleri burada işlenmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Nesnelerin ikonografik çözümlemesi de kapsam dışıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Sonraki Orta Amerika uygarlıklarının tarihi burada verilmez."
+- [ISARET]  k2 → "Bu dosya, atlasın Amerika aktör katmanındaki en erken tarihli dosyadır." — özel isim kaynakta bulunamadı: Amerika
+- undefined k1 → "Dosyanın seçilme gerekçesi kapsamdan çok tartışmadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlas bu tercihte taraf tutmaz ama sorunun kendisini kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bazı yerleşimlerde, anıtsal eserlerin kasıtlı olarak parçalanıp gömüldüğü belirlenmiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu davranışın anlamı tartışmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlas üç okumayı da kaydeder ve seçim yapmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bölgenin bazı yerleşimlerinde, sonraki uygarlıklarda yaygınlaşan top oyunu alanlarının erken biçimleri bulunmu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu, ana kültür tartışmasının somut kalemlerinden biridir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "En erken örnek olmak, kaynak olmayı kanıtlamaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Düzenin nüfusuna dair sayılar, yerleşim alanı ve höyük hacmi üzerinden hesaplanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Höyük hacmi, kullanılan işgücünü tahmin etmeye izin verir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Atlas bu yüzden bu dosyada nüfus rakamı vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Aynı ölçüt atlasın öteki nesne kanıtına dayanan dosyalarında da uygulanmıştır: ölçülen şey yapının kendisidir,…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Tartışmanın öteki tarafındaki uygarlıklar için ve dosyaları okunmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k4 → "Kanıt türlerinin değerlendirilmesi için , bugünün kavramlarının geçmişe yüklenmesi riski için dosyaları uygund…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Aynı kanıt durumundaki bir başka kıta düzeni için dosyası okunabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+
+**Özet:** 3 OK · 3 ISARET · 0 HATA

@@ -1,0 +1,70 @@
+{
+  "id": "dusunur-fanon",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.156Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas iki okumayı da kaydeder ve metni bir taraf lehine özetlemez.[^k2][^k3] Bu, atlasın genel kuralıdır: yorumu tartışmalı bir metnin tek bir okunuşunu aktarmak, tartışmayı gizlem",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Metnin ilk baskısına başka bir düşünür tarafından yazılan öndeyiş, kitabın alımlanmasını uzun süre belirlemiştir.[^k1][^k3] Öndeyiş, metnin şiddet bölümlerini metnin kendisinden da",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden metne yapılacak atıflarda hangi baskının kullanıldığının belirtilmesini şart koşar.[^k3] Sonraki bazı baskılar öndeyişi çıkarmış ya da yanına bir karşı yazı eklemiş",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Düşünürün ilk kitabı, sömürge düzeninde yetişen bir kişinin kendi dili ve bedeniyle kurduğu ilişkiyi konu edinir.[^k1][^k2] Merkezî gözlem, yönetici tarafın dilini kusursuz konuşma",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu eleştiri, düşünürün ölümünden sonraki on yıllarda sıkça alıntılanmıştır ve genellikle şiddet tartışmasından bağımsız ele alınır.[^k1] İki bölümün aynı metinde bulunması, metnin ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden metnin etkisini tek bir çizgi olarak anlatmaz.[^k3] Alımlanma noktaları ayrı ayrı incelenmelidir ve bu dosya yalnızca varlıklarını kaydeder.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu yüzden metnin etkisini tek bir çizgi olarak anlatmaz.[^k3] Alımlanma noktaları ayrı ayrı incelenmelidir ve bu dosya yalnızca varlıklarını kaydeder.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu üç itirazı ayrı ayrı kaydeder ve birleştirmez.[^k3] Farklı gerekçelerle yöneltilmiş itirazları tek bir başlık altında toplamak, tartışmanın kendisini gizler.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosya, atlasın düşünür katmanındaki en geç tarihli dosyalardan biridir ve sömürgesizleşme tartışmasını kişi düzeyinde ilk kez temsil eder.[^k1] Atlasta kavram ve olay dosyaları ",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

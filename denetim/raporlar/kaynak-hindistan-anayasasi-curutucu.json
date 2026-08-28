@@ -1,0 +1,49 @@
+{
+  "id": "kaynak-hindistan-anayasasi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.174Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sayım yöntemi bir tercihtir.[^k2] Yetkileri genel ilkelerle bölmek yerine tek tek saymak, uyuşmazlıkları azaltmayı hedefler ve metnin uzunluğunu artırır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, metnin bazı tercihlerini doğrudan etkiledi.[^k1] Din temelli ayrı seçmen kütükleri kaldırıldı ve tek bir seçmen kütüğü benimsendi.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Metin, resmî dil konusunda geçici bir düzenleme öngördü.[^k2] Geçiş süresi belirlendi ve süre sonunda tek bir dilin resmî olması hedeflendi.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bir sonuca bağlanmaz.[^k3] Değişiklik sıklığı tek başına bir gösterge değildir; hangi maddelerin değiştiği ayrıca incelenmelidir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Maddelerin tek tek içeriği aktarılmaz.[^k1] Metin künyede erişilebilir durumdadır ve dosya yalnızca kapsam yapısını kaydeder.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Hak kapsamı dizisinin öteki halkaları için [İnsan Hakları Evrensel Beyannamesi](/kaynak/insan-haklari-beyannamesi/) ve [Magna Carta](/kaynak/magna-carta/) dosyaları okunmalıdır.[^k",
+      "sorun": "Makale guney-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    }
+  ]
+}

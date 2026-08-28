@@ -1,0 +1,49 @@
+{
+  "id": "kavram-okuryazarlik",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.166Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Okuryazarlık tek bir beceri değildir.[^k1] Adını yazabilmek, bir belgeyi okuyabilmek ve bir metin kaleme alabilmek ayrı düzeylerdir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Etki tek yönlü değildir.[^k3] Baskı, okuryazarlığı artırdığı gibi, artan okuryazarlık da baskıyı besler.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas iki yönü de kaydeder.[^k2] Nedenselliğin yönü, tek bir bölgeye bakılarak belirlenemez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "İki beceri her zaman birlikte öğretilmedi.[^k3] Bazı öğretim düzenlerinde okuma yaygın, yazma dar bir gruba açıktı.",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yazılı bir metin, ezberi bilen biri tarafından okunduğunda hatalar düzeltilebiliyordu.[^k1] Yazı tek başına doğruluk güvencesi değildir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bu yüzden okuryazarlık, hak talepleriyle doğrudan bağlantılıdır.[^k3] Atlasın başka dosyalarında bu bağ açıkça kurulmuştur.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

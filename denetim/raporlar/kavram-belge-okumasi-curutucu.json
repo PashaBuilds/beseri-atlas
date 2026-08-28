@@ -1,0 +1,21 @@
+{
+  "id": "kavram-belge-okumasi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.163Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir metnin ne dediği ile ne kadar uygulandığı ayrı iki sorudur.[^k1] Yazılmış olmak tek başına yeterli değildir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kısıtların tek tek ölçüldüğü dosyalar için [Hammurabi Kanunları](/kaynak/hammurabi-kanunlari/), [Magna Carta](/kaynak/magna-carta/) ve [Tordesillas Antlaşması](/kaynak/tordesillas-",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "kaynak-baburname",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.172Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden metni bir doğruluk garantisi olarak değil, olağandışı bir kayıt biçimi olarak künyeler.[^k2] Değeri, ne söylediği kadar nasıl kurulduğundadır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

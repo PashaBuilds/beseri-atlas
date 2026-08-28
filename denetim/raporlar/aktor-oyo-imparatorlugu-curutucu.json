@@ -1,0 +1,42 @@
+{
+  "id": "aktor-oyo-imparatorlugu",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.146Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden başlangıç tarihini aralıkla verir.[^k3] Anlatının verdiği köken ile arkeolojik ve yazılı kaydın verdiği tarih ayrı ayrı kaydedilir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "On dokuzuncu yüzyılın ilk yarısında düzen çözüldü.[^k1] Çözülme tek bir yenilgiyle değil, birkaç etkenin üst üste gelmesiyle oldu.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu çokluğu ayrıca kaydeder.[^k2] Uzun ömürlü bir düzenin çözülmesi, tek bir nedene indirgenemez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Savaşlar, kıyıdaki Avrupa varlığının iç kesimlere ilerlemesini kolaylaştırdı.[^k3] Bölünmüş bir alan, tek tek anlaşma yapmaya elverişlidir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosya, bağlı kentlerin tek tek tarihini vermez.[^k1] Her birinin kendi hanedanı, kendi pazarı ve kendi bağlılık tarihi vardır ve ayrı bir dosyayı hak eder.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

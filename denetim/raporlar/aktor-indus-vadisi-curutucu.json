@@ -1,0 +1,56 @@
+{
+  "id": "aktor-indus-vadisi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.136Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "yuksek",
+      "tip": "anakronizm",
+      "cumle": "Soru teknik görünse de sonucu büyüktür. İşaretler yazıysa, uygarlığın kayıt tutan bir bürokrasisi vardı demektir; yazı değilse, aynı işaretler mülkiyet ya da aidiyet damgası olabil",
+      "sorun": "\"bürokrasi\" kavramı yaklaşık 1750'den itibaren kullanılıyor; makale -190'te bitiyor.",
+      "oneri": "Kavramı dönemin kendi diliyle değiştir ya da geriye dönük okuma olduğunu açıkça belirt."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yerleşimlerin terk edilme süreci kademelidir ve tek bir sebeple açıklanmaz.[^k1][^k2] Raporlarda ve sonraki literatürde nehir yataklarının değişmesi, iklim koşullarının kayması ve ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki bağımsız raporun bulunması bu dosyayı ayırır. Bir raporun kaydettiğini öteki raporun kaydettiğiyle sınamak mümkündür; tek kaynağa dayanan dosyalarda bu imkân yoktur.[^k2][^k3]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sınır da açıktır: raporlar yirminci yüzyılın ilk yarısına aittir. O tarihten sonra yapılan kazılar ve geliştirilen yöntemler bu dosyada kullanılmamıştır;[^k2] güncel arkeolojik lit",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yerleşimlerin tek tek planları, buluntu tipolojisi ve tarihlendirme yöntemleri burada işlenmez.[^k2][^k3] Bölgedeki sonraki dönem ve onunla süreklilik tartışması da kapsam dışıdır;",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Benzerlikler ve farklar ayrı ayrı bilgi taşır. İki yerleşimde benzer ölçü düzeni bulunması, standardın yerel değil yaygın olduğunu düşündürür; farklılıklar ise yerel değişkenliği g",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosya, atlasın Güney Asya kapsamındaki en eski katmanı ekler ve o katmanın en ayırt edici özelliğini konu edinir.[^k1] Bölgenin öteki aktör dosyaları metinli dönemlere aittir.",
+      "sorun": "\"en eski\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

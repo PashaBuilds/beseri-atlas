@@ -1,0 +1,145 @@
+{
+  "id": "kaynak-timbuktu-tarihleri",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:26.884Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya, Nijer kıvrımındaki bir şehirde ve o şehrin âlim çevresinde yazılmış iki tarih kitabını birlikte künyeler.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Nijer"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya, Nijer kıvrımındaki bir şehirde ve o şehrin âlim çevresinde yazılmış iki tarih kitabını birlikte künyeler.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Nijer"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bölgede birbirini izleyen siyasi birimlerin kuruluşu, genişlemesi ve bir dış seferle dağılışı anlatılır; son bölümler yazarların kendi dönemine gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bölgede birbirini izleyen siyasi birimlerin kuruluşu, genişlemesi ve bir dış seferle dağılışı anlatılır; son bölümler yazarların kendi dönemine gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kadılar, hocalar, kitap sahipleri ve öğrenci silsileleri de ayrı ayrı yazılır; bu, kaydın saraydan değil ilim çevresinden geldiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kadılar, hocalar, kitap sahipleri ve öğrenci silsileleri de ayrı ayrı yazılır; bu, kaydın saraydan değil ilim çevresinden geldiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Batı Afrika'nın bu dönemi hakkında yaygın olarak bilinenler, büyük ölçüde dışarıdan gelen gezgin anlatılarına dayanır.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Afrika"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Burada bölge kendi siyasi tarihini kendi sıralamasıyla anlatır ve neyin kayda değer olduğuna kendisi karar verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Burada bölge kendi siyasi tarihini kendi sıralamasıyla anlatır ve neyin kayda değer olduğuna kendisi karar verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlasın kaynak katmanı bu dosya yazılana kadar Afrika'dan tek bir metin içermiyordu.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Afrika"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki kitabın künye kayıtları birbirine karışmış durumdadır ve bu, dosyanın kendisinde kaydedilmesi gereken bir sorundur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki kitabın künye kayıtları birbirine karışmış durumdadır ve bu, dosyanın kendisinde kaydedilmesi gereken bir sorundur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu yüzden kaynak künyelerinde katalog başlıklarını olduğu gibi yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu yüzden kaynak künyelerinde katalog başlıklarını olduğu gibi yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metinler ordu mevcutları, gelir kalemleri ve nüfus büyüklükleri verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Dönemin tarih yazımında büyüklük bildiren rakamlar çoğu zaman ölçüm değil derece belirtir; bir sayının büyüklüğü, sayının kendisinden çok yazarın verdiği önemi ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu tutum atlasın genel kuralıdır ve ayrı bir dosyada gerekçelendirilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya iki kitabın ne olduğunu ve atlasta ne işe yaradığını kaydeder; bölüm bölüm içeriklerini vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya iki kitabın ne olduğunu ve atlasta ne işe yaradığını kaydeder; bölüm bölüm içeriklerini vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Şehrin elyazması koleksiyonlarının tarihi, yakın dönemdeki durumu ve korunması burada işlenmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Metinlerin bölgedeki sözlü aktarım gelenekleriyle ilişkisi de kapsam dışıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metinlere yapılacak atıflarda hangi kitabın ve hangi çevirinin kullanıldığı mutlaka belirtilmelidir; iki kitabın künyeleri kataloglarda karışmış durumdadır ve y",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metinlere yapılacak atıflarda hangi kitabın ve hangi çevirinin kullanıldığı mutlaka belirtilmelidir; iki kitabın künyeleri kataloglarda karışmış durumdadır ve y",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

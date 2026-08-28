@@ -1,0 +1,28 @@
+{
+  "id": "kaynak-gilgamis-destani",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.173Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Metnin tek bir aslı bulunmaz.[^k1] Farklı dönemlere ait, farklı uzunlukta ve farklı dillerde sürümleri vardır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden metne atıf yaparken çeviriyi belirtir.[^k1] Aynı satır, iki çeviride farklı okunabilir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Atlas bunu bir uyarı olarak kaydeder.[^k1] Kazıdan gelen bir metnin tam olduğu hiçbir zaman kesin değildir.",
+      "sorun": "Kesinlik ifadesi \"hiçbir zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    }
+  ]
+}

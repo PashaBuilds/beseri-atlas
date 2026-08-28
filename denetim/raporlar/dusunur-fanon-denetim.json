@@ -1,0 +1,361 @@
+{
+  "id": "dusunur-fanon",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:25.769Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Frantz Fanon, Karayipler'de doğmuş, Fransa'da psikiyatri eğitimi almış ve Kuzey Afrika'da hekimlik yaparken sömürge düzeni üzerine yazmış bir düşünürdür.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Frantz Fanon, Karayipler'de doğmuş, Fransa'da psikiyatri eğitimi almış ve Kuzey Afrika'da hekimlik yaparken sömürge düzeni üzerine yazmış bir düşünürdür.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dosyanın ayırt edici yanı, düşünürün kuramını bir kütüphaneden değil bir kliniğin hasta kayıtlarından türetmiş olmasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu yöntem, atlasın kaydettiği düşünürler arasında seyrek görülür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu yöntem, atlasın kaydettiği düşünürler arasında seyrek görülür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düşünürün merkezî iddiası, sömürge düzeninin yalnızca bir ekonomik sömürü ilişkisi olmadığı, aynı zamanda yönetilen tarafın kendini nasıl gördüğünü biçimlendire",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Düşünürün merkezî iddiası, sömürge düzeninin yalnızca bir ekonomik sömürü ilişkisi olmadığı, aynı zamanda yönetilen tarafın kendini nasıl gördüğünü biçimlendire",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İddianın sonucu doğrudan siyasidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu iddiayı bir olgu olarak değil, bir çözümleme önerisi olarak kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuramın klinik gözleme dayanması, hem güçlü hem kırılgan bir zemin kurar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu tartışmayı kaydeder ve bir taraf tutmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düşünürün en çok tartışılan bölümleri, sömürge düzeninin sona erdirilmesinde şiddetin yeri üzerinedir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Düşünürün en çok tartışılan bölümleri, sömürge düzeninin sona erdirilmesinde şiddetin yeri üzerinedir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin ne söylediği konusunda bile uzlaşma yoktur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas iki okumayı da kaydeder ve metni bir taraf lehine özetlemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas iki okumayı da kaydeder ve metni bir taraf lehine özetlemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin ilk baskısına başka bir düşünür tarafından yazılan öndeyiş, kitabın alımlanmasını uzun süre belirlemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin ilk baskısına başka bir düşünür tarafından yazılan öndeyiş, kitabın alımlanmasını uzun süre belirlemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, atlasın kaydettiği bir aktarım sorununa örnektir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu yüzden metne yapılacak atıflarda hangi baskının kullanıldığının belirtilmesini şart koşar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düşünürün ilk kitabı, sömürge düzeninde yetişen bir kişinin kendi dili ve bedeniyle kurduğu ilişkiyi konu edinir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Düşünürün ilk kitabı, sömürge düzeninde yetişen bir kişinin kendi dili ve bedeniyle kurduğu ilişkiyi konu edinir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu gözlem, atlasın dosyasıyla doğrudan kesişir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu ayrımı kaydeder ve bir sıralama önermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metinlerin daha az alıntılanan bir bölümü, bağımsızlık sonrası kurulan yönetimlere yöneltilmiş bir eleştiridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metinlerin daha az alıntılanan bir bölümü, bağımsızlık sonrası kurulan yönetimlere yöneltilmiş bir eleştiridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu eleştiri, düşünürün ölümünden sonraki on yıllarda sıkça alıntılanmıştır ve genellikle şiddet tartışmasından bağımsız ele alınır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu iç gerilimi kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düşünür, yazdığı dönemde bir bağımsızlık hareketinin içinde yer aldı ve metinlerini o hareketin bir üyesi olarak yazdı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Düşünür, yazdığı dönemde bir bağımsızlık hareketinin içinde yer aldı ve metinlerini o hareketin bir üyesi olarak yazdı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metinler bir çözümleme olduğu kadar bir müdahaledir; yazıldıkları çatışmayı etkilemek üzere yazılmışlardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu durumu kaydeder ve metinleri tarafsız bir gözlemcinin kaydı saymaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metinler, yazıldıkları bölgeden çok uzaklarda ve çok farklı bağlamlarda okundu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metinler, yazıldıkları bölgeden çok uzaklarda ve çok farklı bağlamlarda okundu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Her alımlanma, metni kendi sorununa göre yeniden düzenledi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu yüzden metnin etkisini tek bir çizgi olarak anlatmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düşünüre yöneltilen eleştiriler birden çok yönden gelir ve birbiriyle uyuşmazlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkinci grup, metinlerin kadınların konumunu yeterince ele almadığını ya da ele aldığı yerlerde dönemin varsayımlarını sürdürdüğünü kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu üç itirazı ayrı ayrı kaydeder ve birleştirmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya üç kaynağa dayanır ve biri metinlere doğrudan erişim sağlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Künyedeki erişim noktası, metinleri çevrimiçi sunan bir arşivdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Türkçe çevirilerin doğrulanabilir ve tam metin bir baskısı künyeye alınmamıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya, atlasın düşünür katmanındaki en geç tarihli dosyalardan biridir ve sömürgesizleşme tartışmasını kişi düzeyinde ilk kez temsil eder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Eksiğin yönü kaydedilmelidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, atlasın kaynak bileşimi denetiminin ölçmediği bir dengesizlik türüdür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Düşünürün hayatının ayrıntıları, askerlik dönemi ve hastalığı burada işlenmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metinlerin bölüm bölüm içeriği de kapsam dışıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İçinde yer aldığı bağımsızlık hareketinin tarihi burada verilmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düşünürün mesleği ile yazdıkları arasındaki bağ, dosyanın merkezindeki yöntem sorusunu belirler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı çerçevenin topluma uygulanması, sömürge düzenini bir hastalık gibi tarif etmeye yol açar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı çerçevenin topluma uygulanması, sömürge düzenini bir hastalık gibi tarif etmeye yol açar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu benzetmeyi bir bulgu değil bir araç olarak kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metinler akademik bir üslupla değil, doğrudan ve zaman zaman edebî bir dille yazılmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İtirazın biçimi şudur: edebî bir dil, iddiaların sınanabilirliğini zorlaştırır; bir cümlenin betimleme mi savunma mı olduğu, üslubun kendisi yüzünden belirsiz k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İtirazın biçimi şudur: edebî bir dil, iddiaların sınanabilirliğini zorlaştırır; bir cümlenin betimleme mi savunma mı olduğu, üslubun kendisi yüzünden belirsiz k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu itirazı kaydeder ve bir sonuca bağlamaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düşünürün konu edindiği süreç için , o sürecin karşı tarafı için dosyaları okunmalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yılların olay karşılığı için ve dosyaları uygundur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bağımsızlık sonrası kurulan yönetimlerin dayandığı kavram için , sömürge düzeninin bilançosunun nasıl tartışıldığı için dosyaları okunabilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

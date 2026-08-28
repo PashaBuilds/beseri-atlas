@@ -1,0 +1,70 @@
+{
+  "id": "olay-bengal-kitligi-1943",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.120Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Daha düşük üretimin yaşandığı yıllarda kıtlık olmamıştı.[^k3] Bu karşılaştırma, tek başına üretim açıklamasını zayıflatır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu etkileri ayrı ayrı sayar.[^k2] Aynı yönde işleyen birden çok etken, tek bir nedene indirgenemez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden tek bir sayı vermez.[^k2] Bu, atlasın tarihsel sayılar kuralının doğrudan uygulanmasıdır: sayı, yöntemiyle birlikte verilmelidir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu yüzden tek bir sayı vermez.[^k2] Bu, atlasın tarihsel sayılar kuralının doğrudan uygulanmasıdır: sayı, yöntemiyle birlikte verilmelidir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu etkiyi ayrıca kaydeder.[^k2] Bir olayın kavramsal etkisi, insani sonucundan bağımsız olarak ölçülebilir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bölge yoğun nüfusluydu ve tarım büyük ölçüde tek bir tahıla dayanıyordu.[^k1] Ekilebilir alan başına düşen nüfus yüksekti.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu olay tek başına kıtlık yaratmadı.[^k3] Ancak zaten dar olan payı daha da daralttı.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu tür etkenleri sıraya koyar.[^k2] Üst üste gelen küçük sarsıntılar, tek bir büyük sarsıntıdan daha ağır sonuç verebilir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tarım düzeninin yapısı için [Tek ürüne bağlanma](/kavram/pamuk-tek-urun/), sayıların nasıl okunacağı için [Tarihsel sayılar nasıl okunur](/tartisma/tarihsel-sayilar-nasil-okunur/) ",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "kaynak-baburname",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:26.622Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Bâbürnâme, bir hükümdarın kendi hayatını birinci ağızdan anlattığı hatırattır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bâbürnâme, bir hükümdarın kendi hayatını birinci ağızdan anlattığı hatırattır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin atlas açısından ayırt edici yanı, yenilgilerin de yazılmış olmasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu, hükümdar kayıtlarında olağan değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir kaydın, yazarının aleyhine olan bilgiyi taşıması, kaydın güvenilirliğini artıran bir işarettir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir yenilgiyi kabul etmek, sonraki başarıyı daha etkileyici kılan bir anlatı tekniği de olabilir; samimiyet ile kurgu her zaman ayrılamaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu yüzden metni bir doğruluk garantisi olarak değil, olağandışı bir kayıt biçimi olarak künyeler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin önemli bir bölümü, gezilen bölgelerin bitki örtüsüne, hayvanlarına, meyvelerine ve yerel âdetlerine ayrılmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu malzeme atlasın öteki kaynaklarında seyrek bulunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayıtların taraflılığı burada da vardır ve yönü farklıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya, atlasın Güney Asya kaynak katmanındaki idari envanterle birlikte okunmak üzere yazılmıştır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Hatırat bir kişinin kararlarını ve hatalarını anlatır; envanter aynı hanedanın iki kuşak sonraki hesap defteridir ve kişiyi görünmez kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki metnin yan yana okunması, atlasın tartışmasına doğrudan malzeme verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metin özgün dilinde yazılmış ve sonraki yüzyıllarda başka dillere çevrilmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metin özgün dilinde yazılmış ve sonraki yüzyıllarda başka dillere çevrilmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metnin bazı bölümleri eksiktir ve elde bulunan nüshalarda boşluklar vardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas metni iki ayrı alan adından künyeler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas metni iki ayrı alan adından künyeler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya metnin ne olduğunu ve nasıl okunması gerektiğini kaydeder; olayları özetlemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yazarın kurduğu siyasi düzenin tarihi burada işlenmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metnin edebî özellikleri, dili ve sonraki edebiyat üzerindeki etkisi de kapsam dışıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metne yapılacak atıflarda sayfa ve kullanılan çeviri belirtilmelidir; iki künye aynı çeviriyi gösterir ve sayfa numaraları baskıya göre değişir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metne yapılacak atıflarda sayfa ve kullanılan çeviri belirtilmelidir; iki künye aynı çeviriyi gösterir ve sayfa numaraları baskıya göre değişir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

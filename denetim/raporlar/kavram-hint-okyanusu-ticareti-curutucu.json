@@ -1,0 +1,56 @@
+{
+  "id": "kavram-hint-okyanusu-ticareti",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.164Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Hint Okyanusu ticareti, Doğu Afrika kıyısından Güneydoğu Asya'ya uzanan ve yüzyıllar boyunca kesintisiz işleyen deniz ticareti düzenine verilen addır.[^k1][^k3] Düzenin ayırt edici",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Ağın tek bir devlet tarafından denetlenmemesi bir eksiklik değil, yapısal bir özelliktir.[^k1][^k3] Hiçbir siyasi güç okyanusun tamamında donanma bulunduramadı ve bulundurmayı da u",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosya, atlasın deniz ticareti kapsamındaki ilk yapısal kavram dosyasıdır.[^k3] Atlasta Atlantik ekonomisi üzerine dosyalar bulunuyordu; ondan önce ve daha büyük hacimle işleyen ",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosyanın kapsamadıkları belirtilmelidir. Ağdaki tek tek limanların tarihi, taşınan malların üretim bölgeleri ve fiyat hareketleri burada işlenmez;[^k1] her biri ayrı dosya gerektir",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Ağda taşınan mallar tek yönlü değildi ve bu, ağın tek bir merkeze bağlı olmadığının göstergesidir.[^k1] Batıdan doğuya ve doğudan batıya farklı mal grupları hareket etti; her iki y",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden bu dosyada bir hacim rakamı vermez.[^k3] Ağın Atlantik ticaretinden daha büyük olduğu yönündeki değerlendirme, mutlak sayılara değil katılan liman ve nüfus sayısına",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Ağın taşıdığı şeylerin arasında inanç sistemleri de vardı ve yayılma biçimi kara yollarındakinden farklıydı.[^k2] Limanlarda kalıcı tüccar toplulukları oluştuğu için, inanç bir sef",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

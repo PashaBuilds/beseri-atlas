@@ -1,0 +1,49 @@
+{
+  "id": "kaynak-gulhane-hatti",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.173Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Metnin kendi gerekçesi girişte yazılıdır.[^k1] Eski dönemde kurala uyulduğu, sonraki dönemde uyulmadığı ve bu yüzden zayıflandığı bildirilir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Dizideki konumu şudur.[^k2] Hammurabi eşitsizliği açıkça yazar; Magna Carta kapsamı daraltarak uygular; bu metin kapsamı açıkça genişletir; Beyanname aynı genişletmeyi bir yüzyıl s",
+      "sorun": "Makale islam-dunyasi/avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tekrar bir şey gösterir.[^k2] Bir hükmün yeniden ilan edilmesi gerekiyorsa, ilk ilanın yeterince uygulanmadığı sonucu çıkarılabilir.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu metin, kırk yıl sonra ilan edilecek yazılı anayasanın hazırlık zincirindeki ilk halka sayılır.[^k3] Zincir, atlasın ayrı bir dosyada künyelediği metinle tamamlanır.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Metnin maddeleri tek tek aktarılmaz.[^k1] Metin künyede erişilebilir durumdadır ve dosya yalnızca yapısını ve kapsam ifadesini kaydeder.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Zorlamayla kurulan sınırlamanın örneği için [Magna Carta](/kaynak/magna-carta/), hak kapsamı dizisinin son halkası için [İnsan Hakları Evrensel Beyannamesi](/kaynak/insan-haklari-b",
+      "sorun": "Makale islam-dunyasi/avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    }
+  ]
+}

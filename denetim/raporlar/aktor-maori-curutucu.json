@@ -1,0 +1,63 @@
+{
+  "id": "aktor-maori",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.142Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden soy kaydından çıkarılan tarihleri bir aralık olarak kaydeder.[^k1] Yöntem bir sıralama verir; mutlak tarih vermez ve mutlak tarih için bağımsız bir kanıt gerekir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Topluluk tek bir merkezî yönetim altında birleşmedi.[^k1] Siyasi birim, ortak atadan gelen ve kendi toprağını tutan gruplardı.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yapının sonucu, dış baskı karşısındaki davranışta görülür.[^k1] Dağınık bir düzen tek bir anlaşmayla teslim alınamaz; her birim kendi kararını verir ve süreç uzar.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden bu dosyada nüfus rakamı vermez.[^k1] Yerleşim alanlarının dağılımı ise arkeolojik olarak ölçülebilir ve karşılaştırma için kullanılabilir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Eklemenin gerekçesi kapsam değil şemadır.[^k4] Atlasın bölge listesi kurulurken bu bölge hiçbir etikete karşılık gelmiyordu; yani şema, bir dünya bölgesini temsil etmeyi yapısal ol",
+      "sorun": "Makale okyanusya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Grupların tek tek tarihi, aralarındaki çatışmalar ve göç anlatıları burada işlenmez.[^k1] Her biri ayrı dosya gerektirir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Bu, atlasın kaydettiği bir uyum örneğidir.[^k3] Bir yerleşim programının tekrarlanabilir olması, her yerde aynı sonucu verdiği anlamına gelmez; programın kendisi varılan yere göre ",
+      "sorun": "Makale okyanusya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas olguyu kaydeder ve bir değerlendirme yapmaz.[^k4] Aynı örüntü birden çok kıtada ve birden çok dönemde görülür; tek bir topluluğa özgü bir davranış olarak okunamaz. Örüntünün ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "aktor-kanem-bornu",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.137Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Uzun süren bir siyasi düzenin tek dosyada tutulması bir tercihtir. Aynı hanedan altında merkez değişmiş, coğrafya kaymış ve idari yapı dönüşmüştür;[^k1] atlas bunları ayrı dosyalar",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Din değişiminin siyasi sonuçları ile kültürel sonuçları ayrı ayrı okunmalıdır. Hükümdarın benimsemesi, halkın tamamının benimsemesiyle aynı şey değildir; kaynaklar bu iki düzeyi he",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu ilişki tek yönlü okunmamalıdır. Yeni bir silahın gelmesi, onu kullanan düzeni otomatik olarak güçlendirmez; kullanımı, bakımı ve ikmali başka bağımlılıklar üretir.[^k1] Atlas bu",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Birincil metnin varlığı bu dosyayı atlasın Afrika kümesindeki öncekinden ayırır ama yeterli kılmaz. Tek bir çağdaş kayıt, karşılaştırma imkânı vermez; bir metnin söylediğini sınama",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sürekliliğin nasıl kaydedildiği sorusu için [Meşruiyet](/kavram/mesruiyet/), gölün küçülmesi ve yerleşim ilişkisi için [Tarihsel iklimbilim](/kavram/tarihsel-iklimbilim/) dosyaları",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "aktor-kusan-imparatorlugu",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.141Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Bulunduğu yer, dört büyük kültür alanının kesiştiği noktadır.[^k1] Doğudan Çin, batıdan İran, güneyden Hint ve kuzeybatıdan Helenistik dünya, bu alanda birbirine değer.",
+      "sorun": "Makale orta-asya/guney-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, yönetimin tek bir dil dayatmadığını gösterir.[^k1] Atlasın başka bölgelerinde kaydettiği yönetim dili tercihlerinden farklı bir tutumdur.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bölgede, insan biçimli Buda tasvirinin en erken örneklerinden bazıları üretildi.[^k3] Üslup, Helenistik heykel geleneğinin biçim dilini yerel konuya uygular.",
+      "sorun": "\"en erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "En erken tarih, kazılmış alanların en erken tarihidir.[^k3] Kazılmamış alanlar hakkında bir şey söylemez ve öncelik iddiaları bu sınırla birlikte okunmalıdır.",
+      "sorun": "\"En erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden iki bölgeyi de kaydeder ve öncelik vermez.[^k2] Tartışmanın kendisi, kanıt tabanının nasıl dağıldığına dair bir bilgidir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden künyede geniş bir aralık verir.[^k1] Aralık bir belirsizlik beyanıdır; hanedan tarihi için kesinlik iddia edilmez.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İmparatorluğun sonu tek bir olayla gelmedi.[^k1] Batıdan gelen bir devletin baskısı, güneyde yeni bir düzenin yükselmesi ve merkezin parçalanması birlikte aktarılır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bir düzeni tek bir bölgeye yerleştirmek her zaman mümkün değildir.[^k3] Atlasın çoklu etiket imkânı bu yüzden vardır ve bu dosya onun en açık kullanımıdır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "yuksek",
+      "tip": "kesinlik-dili",
+      "cumle": "Bir düzeni tek bir bölgeye yerleştirmek her zaman mümkün değildir.[^k3] Atlasın çoklu etiket imkânı bu yüzden vardır ve bu dosya onun en açık kullanımıdır.",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir düzeni tek bir bölgeye yerleştirmek her zaman mümkün değildir.[^k3] Atlasın çoklu etiket imkânı bu yüzden vardır ve bu dosya onun en açık kullanımıdır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "İkisinin farklı süreçler göstermesi bu yüzden şaşırtıcı değildir.[^k3] Devletin meşruiyet hesabı ile atölyenin biçim tercihi ayrı ayrı işler ve aynı yöne gitmek zorunda değildir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

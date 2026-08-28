@@ -1,0 +1,63 @@
+{
+  "id": "dusunur-ulug-bey",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.161Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Semerkant'ta bir rasathane yaptırdı.[^k1] Yapı, dönemin en büyük gözlem araçlarından birini barındırıyordu: yarıçapı çok büyük, taşa oturtulmuş bir yay.",
+      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden rasathaneyi bir kurum sayar.[^k2] Ölçüm aletinin büyüklüğü, arkasındaki kurumun büyüklüğünü de gösterir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas katkı dağılımını ayrıca kaydeder.[^k2] Hükümdarın adıyla anılan bir eser, hükümdarın tek başına ürettiği bir eser değildir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Katkının kapsamı tartışmalıdır.[^k3] Eserin girişindeki ifadeler, hükümdarın rolünü belirlemekte tek başına yeterli değildir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, kaçınılmaz bir kısıttır.[^k3] Tek bir yerde kurulan bir rasathane, göğün ancak bir bölümünü ölçebilir.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu örneği ayrıca kaydeder.[^k1] Bilgi akışı tek yönlü bir anlatıya sığmaz.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden tek yönlü aktarım anlatılarını sorgular.[^k2] Bir dönemin bilgi akışı, o dönemin siyasi üstünlüğüyle aynı yönde olmayabilir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu yüzden tek yönlü aktarım anlatılarını sorgular.[^k2] Bir dönemin bilgi akışı, o dönemin siyasi üstünlüğüyle aynı yönde olmayabilir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

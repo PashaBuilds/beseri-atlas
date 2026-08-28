@@ -1,0 +1,337 @@
+{
+  "id": "dusunur-han-feizi",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:25.840Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Han Feizi, hem bir kişinin hem de o kişiye atfedilen metnin adıdır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Feizi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Han Feizi, hem bir kişinin hem de o kişiye atfedilen metnin adıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metin, kendisinden önceki benzer yazıların bir sentezi olarak okunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metin, kendisinden önceki benzer yazıların bir sentezi olarak okunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya ikinci bir metne daha bağlanır: aynı geleneğin daha erken bir örneği.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin ait olduğu düşünce çizgisi, atlasta ayrı bir kavram dosyası taşımaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin merkezinde birbirini tamamlayan üç kavram durur: yazılı ve herkese eşit uygulanan kural; yöneticinin görevlileri denetlemek için kullandığı teknik; ve ma",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin merkezinde birbirini tamamlayan üç kavram durur: yazılı ve herkese eşit uygulanan kural; yöneticinin görevlileri denetlemek için kullandığı teknik; ve ma",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yalnızca kural, uygulanmadığında işlemez; yalnızca teknik, kuralsız keyfîliğe döner; yalnızca konum, kişinin niteliğine bağımlı kalır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metin, sıradan bir yöneticinin de işletebileceği bir düzen arar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metin, sıradan bir yöneticinin de işletebileceği bir düzen arar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metin, yönetimi ahlaki örnek üzerinden kuran anlayışa açıkça karşı çıkar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metin, yönetimi ahlaki örnek üzerinden kuran anlayışa açıkça karşı çıkar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas hangisinin haklı olduğuna dair bir hüküm vermez; ikisinin farklı sorulara cevap verdiğini kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metin, karşı çıktığı görüşü adıyla anar ve eleştirir; yani tartışmanın taraflarını metnin kendisinden öğreniyoruz, sonraki bir derlemeden değil.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bir tarafı benimsemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "dosyasında ele alınan metin Güney Asya'dan, dosyasındaki metin İslam dünyasından gelir; buradaki metin Doğu Asya'dandır.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Asya"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üçü de ahlaki öğütle yetinmez; görevlilerin denetimi, haber alma düzeni ve yöneticinin kendi konumunu koruma yolları üzerinde durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir sorun birden çok gelenekte ortaya çıkıyorsa, o sorunun kaynağı kültür değil yönetimin kendisi olabilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üç metin farklı yüzyıllardan, farklı siyasi ölçeklerden ve farklı yazı geleneklerinden gelir; benzerlik konularda görülür, çözümlerde değil.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin tamamının tek bir kişiye ait olup olmadığı tartışılır; bazı bölümlerin sonradan eklendiği ileri sürülür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atıf sorunu burada özel bir biçim alır çünkü metnin adı ile kişinin adı aynıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dosya bir kişiyi değil, o adla anılan metni konu edinir; metnin hangi bölümünün kime ait olduğu ayrı bir uzmanlık sorusudur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya üç kaynağa dayanır: aynı geleneğin iki metni ve akademik bir ansiklopedi maddesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya üç kaynağa dayanır: aynı geleneğin iki metni ve akademik bir ansiklopedi maddesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya üç kaynağa dayanır: aynı geleneğin iki metni ve akademik bir ansiklopedi maddesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kullanılan kaynak, Çince özgün metni ve İngilizce çevirisini birlikte sunar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çince, İngilizce"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kullanılan kaynak, Çince özgün metni ve İngilizce çevirisini birlikte sunar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çince, İngilizce"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya metinlerin ne söylediğini ana hatlarıyla aktarır; bölüm bölüm içerik, terimlerin tam karşılıkları ve çeviri tercihleri burada ele alınmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya metinlerin ne söylediğini ana hatlarıyla aktarır; bölüm bölüm içerik, terimlerin tam karşılıkları ve çeviri tercihleri burada ele alınmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Han hanedanı dönemindeki idari uygulamalar ve bu metinlerin o uygulamalarla ilişkisi burada işlenmez; dosyası siyasi birimi ayrıca ele alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Doğu Asya düşünce tarihinin atlastaki kapsamı, bu dosya yazıldığında iki düşünür dosyasından ibaretti ve bu dosya üçüncüsüdür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosyanın bağlandığı kaynak, Çince özgün metni ve İngilizce çevirisini aynı sayfada sunar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çince, İngilizce"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosyanın bağlandığı kaynak, Çince özgün metni ve İngilizce çevirisini aynı sayfada sunar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çince, İngilizce"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir terimin çevirisi bir yorum taşır; özgün terim görülebiliyorsa okur, çevirinin nerede seçim yaptığını fark edebilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Künye bir metnin çeviri olduğunu söyleyebilir ama özgününün erişilebilir olup olmadığını söylemez; bu boşluk ilgili dosyaların metnine yazılarak doldurulur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki özgün metin, iki çeviri ve bir akademik çerçeve bir arada bulunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki özgün metin, iki çeviri ve bir akademik çerçeve bir arada bulunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki özgün metin, iki çeviri ve bir akademik çerçeve bir arada bulunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin üzerinde durduğu sorunlardan biri, yöneticinin görevlilerini nasıl denetleyeceğidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kurallar ve kayıtlar, güvenin yerine geçen mekanizmalardır; kişiye güvenmek yerine işlemi ölçmek.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kurallar ve kayıtlar, güvenin yerine geçen mekanizmalardır; kişiye güvenmek yerine işlemi ölçmek.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı sorun dosyasındaki metinde de geniş yer tutar — orada haber alma düzeni ayrı bir başlıktır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki metin arasında yüzyıllar ve kıtalar vardır; benzerlik, aktarımdan değil aynı sorunla karşılaşmaktan gelebilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin en ayırt edici iddiası, iyi yönetimin iyi yöneticiye bağlı olmamasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin en ayırt edici iddiası, iyi yönetimin iyi yöneticiye bağlı olmamasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kurala bağlanma, kayıt tutma ve denetim mekanizmaları, hepsi aynı arayışın parçasıdır: düzenin kişiden bağımsızlaşması.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kişiden bağımsız bir düzen, sorumluluğun da dağılması demektir; kimsenin sorumlu olmadığı bir düzende hatanın nereden geldiği bulunamaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin ait olduğu düşünce çizgisi için bir kavram dosyası bulunmuyor; okuyucu geleneği yalnızca bu dosya üzerinden görebiliyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kişi dosyası bir metni kaydeder; kavram dosyası o metnin ait olduğu çizgiyi tanımlar ve başka örneklerle karşılaştırılabilir kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aktör katmanında on iki dosya bulunurken düşünür katmanında üç, kavram katmanında bu geleneğe ait hiç dosya yoktur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İkisi birlikte, metnin önerdiği düzenin fiilen ne kadar uygulandığı sorusunu açar; atlas o soruya cevap vermez ama sormayı mümkün kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metne yapılacak atıflarda bölüm adı ve kullanılan çeviri belirtilmelidir; kaynak özgün metni de sunduğu için çeviri tercihleri karşılaştırılabilir ve bu imkânın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı geleneğin ikinci metni de bağlanmıştır ve iki metnin birlikte okunması önerilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Son bir hatırlatma: bu dosya metinlerin ne söylediğini ana hatlarıyla aktarır, savunmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

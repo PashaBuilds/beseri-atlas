@@ -1,0 +1,70 @@
+{
+  "id": "dusunur-ibn-sina",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.157Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı sorunun tıp eserinde de karşılığı vardır. Beden üzerine yazan bir hekimle nefs üzerine yazan bir filozofun aynı kişi olması,[^k1][^k2] atlasın onu tek bir eksen altında sınıfl",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Varlık ile mahiyet ayrımının Latin tartışmasına geçmesi,[^k1] atlasın bu dosyayı yalnızca İslam düşüncesi başlığı altında tutmamasının sebebidir. Bir düşünürün iki gelenekte birden",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "*Şifâ*, tek bir konuyu değil bir müfredatı kapsar: mantık, doğa felsefesi, matematik bilimleri ve metafizik ayrı ayrı ele alınır.[^k1] Metafizik bölümü bu sıranın sonunda gelir; ön",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu düzen, eserin nasıl okunacağını da belirler. Metafizik bölümünü tek başına okumak, orada kullanılan terimlerin daha önce tanımlanmış olduğunu gözden kaçırma riski taşır.[^k3] At",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Eserin bütününü tek bir tez cümlesine indirmek mümkün değildir; kaynaklar da böyle bir indirgeme yapmaz.[^k1][^k2] Bir müfredatın tez özeti olmaz, içindekiler tablosu olur.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu ölçüt tek yönlü işlemez. Şerh geleneğinin yoğunluğu, o metnin doğru olduğunu göstermez; yalnızca tartışmanın merkezinde durduğunu gösterir.[^k1] Atlas bu ikisini ayrı tutar ve b",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Orta Asya bölgesinin atlastaki kapsamı bu dosya yazıldığında dar kalıyordu.[^k1][^k2] Bölge etiketi taşıyan makale sayısı, Avrupa etiketi taşıyanların çok altındaydı; bu dosya o fa",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yaşadığı yıllar, atlasın kronolojik omurgasında iki dönemin kesiştiği yere düşer.[^k1][^k2] Doğumu Abbasi sonrası bölgesel hanedanların güçlendiği dönemin içindedir; ölümü ise Selç",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu tür durumlarda tek bir dönem seçmez; düşünür dosyaları dönem alanı taşımaz ve zaman şeridine doğrudan girmez. Sebep şudur: bir düşünürün etkisi, yaşadığı yıllarla sınırlı ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

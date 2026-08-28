@@ -1,0 +1,163 @@
+{
+  "id": "kaynak-ain-i-akbari",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:26.621Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Âyîn-i Ekberî, bir imparatorluğun kendi idari yapısını ve kaynaklarını kalem kalem saydığı bir envanterdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Âyîn-i Ekberî, bir imparatorluğun kendi idari yapısını ve kaynaklarını kalem kalem saydığı bir envanterdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Eserin atlas açısından ayırt edici yanı, anlatı değil tablo olmasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, modern öncesi dönemde seyrek karşılaşılan bir kaynak türüdür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir yönetimin sahip olduğu her şeyi sayması, kendi başına bir siyasi tercihtir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yalnızca vergi değil, ürün çeşidi, yol mesafesi, para ayarı ve ölçü karşılıkları da kayda geçmiştir; yönetim kendini bir hesap sistemi olarak tarif eder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Burada somut hâli, bir imparatorluğun kendini sayıya çevirmiş olmasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Elde sayı bulunması, sayının doğru olduğu anlamına gelmez ve bu ayrım burada korunmalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir taşra görevlisi, hedefin altında kalmamak için tahsilatı yüksek, gelecek yükümlülüğü düşük göstermeye eğilimlidir; her sayı, onu bildiren kişinin konumunu t",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Envanter, hükümdarı ve onun yönetim anlayışını öven bir çerçeve içinde sunulur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu çerçeve, sayıları geçersiz kılmaz ama neyin sayıldığını etkiler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu çerçeve, sayıları geçersiz kılmaz ama neyin sayıldığını etkiler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu yüzden eseri iki katman hâlinde okur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Eser, doğrudan bir nüfus sayımı içermez ama nüfusa dair çıkarım yapmaya imkân veren kalemler taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu kalemlerden nüfusa geçmek bir varsayım zinciri gerektirir: kişi başına verim, hane büyüklüğü ve vergi oranı varsayılmalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlasın dosyası bu geçişi ayrıca ele alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlasın kaynak katmanında Güney Asya'dan bir metin bulunuyordu ve o metin bir yönetim el kitabıydı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fark şudur: el kitabı yönetimin nasıl olması gerektiğini anlatır, envanter yönetimin ne olduğunu kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Fark şudur: el kitabı yönetimin nasıl olması gerektiğini anlatır, envanter yönetimin ne olduğunu kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki metnin yan yana okunabilmesi, atlasın karşılaştırmalı okumaya açtığı yerlerden biridir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya eserin ne olduğunu ve nasıl okunması gerektiğini kaydeder; içindeki tabloları aktarmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya eserin ne olduğunu ve nasıl okunması gerektiğini kaydeder; içindeki tabloları aktarmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Eserin bağlı olduğu daha büyük derlemenin öteki bölümleri ve yazarın kendi konumu burada işlenmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Eyalet kayıtlarının tek tek değerlendirilmesi de kapsam dışıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metne yapılacak atıflarda cilt, bölüm ve kullanılan çeviri belirtilmelidir; eserin farklı ciltleri farklı çevirmenler tarafından hazırlanmıştır ve terim karşılı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metne yapılacak atıflarda cilt, bölüm ve kullanılan çeviri belirtilmelidir; eserin farklı ciltleri farklı çevirmenler tarafından hazırlanmıştır ve terim karşılı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

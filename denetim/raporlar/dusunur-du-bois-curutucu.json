@@ -1,0 +1,56 @@
+{
+  "id": "dusunur-du-bois",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.155Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Düşünürün ikinci merkezî ifadesi, yirminci yüzyılın temel sorununu ırk ayrımı çizgisi olarak tanımlar.[^k2] İfade, tek bir ülkeye değil dünya ölçeğinde kurulmuş bir hiyerarşiye işa",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden dosyayı yalnızca bir düşünür kaydı olarak değil, bir kanon oluşumu örneği olarak da tutar.[^k3] Kimin kurucu sayıldığı, kimin okunacağını belirler.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Düşünür doksan beş yıl yaşadı ve yazdığı dönem, atlasın üç ayrı dönem dosyasını kapsar.[^k3] Bu, tek bir kişinin metinleri üzerinden uzun süreli bir değişimin izlenmesini mümkün kı",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Böyle bir izlenim, atlasın öteki düşünür dosyalarında seyrek bulunur.[^k1] Çoğu dosyada düşünürün konumu tek bir dönemin içinden okunur; burada aynı sorunun elli yıl boyunca nasıl ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Düşünürün öteki eserlerinin çoğu, telif süresi dolmadığı için künyeye alınamamıştır.[^k1] Bu, dosyanın metinsel tabanını tek bir esere daraltır ve bu kısıt burada beyan edilir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosya, atlasın düşünür katmanına Amerika kıtasından ilk kez eşitsizlik ve ayrımcılık üzerine yazan bir kişiyi ekler.[^k1][^k3] Katmanda Amerika kökenli dosyalar bulunuyordu ama ",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden veri künyelerinde ölçümün ne olduğunu ve neyi ölçmediğini ayrı ayrı yazar.[^k2] Buradaki örnek, o kuralın neden konduğunu gösteren en açık tarihsel vakalardan birid",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

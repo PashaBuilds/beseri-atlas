@@ -1,0 +1,42 @@
+{
+  "id": "tartisma-belge-ne-zaman-yururlukte",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.169Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlasın en erken belge künyesinde sorulan soruyu doğrudan karşılar.[^k1] Bir metnin kanun mu övgü mü olduğu, ona atıf yapılıp yapılmadığına bakılarak sorulur.",
+      "sorun": "\"en erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İkinci sınır sezgiseldir.[^k3] Yeni kabul edilmiş bir metin, ilk uygulanana kadar yürürlükte sayılmaz.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dört durumun hepsinde tek bir soru sorulsaydı, üçünde yanlış cevap alınırdı.[^k1] Atlas bu nedenle üç soruyu ayrı ayrı sorar ve cevapları birlikte kaydeder.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yürürlüğün sona ermesi de tek biçimli değildir.[^k1] Bir metin ilga edilebilir, askıya alınabilir, yerini yeni bir metne bırakabilir ya da sessizce uygulanmaz hâle gelebilir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Uygulama ölçütünün en erken sorulduğu yer için [Hammurabi Kanunları](/kaynak/hammurabi-kanunlari/), uygulanamayan bir hükmün etkisi için [Tordesillas Antlaşması](/kaynak/tordesilla",
+      "sorun": "\"en erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

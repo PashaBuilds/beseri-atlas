@@ -1,0 +1,42 @@
+{
+  "id": "dusunur-ambedkar",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.154Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Getirdiği ölçüt tek bir cümlede toplanabilir.[^k1] Bir toplumsal düzenin adil olup olmadığı, o düzenden en çok yararlananlara sorularak belirlenemez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yirminci yüzyılın ilk yarısında, bir kasabada halka açık bir su kaynağından su alma hakkı için toplu bir eylem düzenledi.[^k1] Hak hukuken tanınmıştı ama uygulanmıyordu.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, iyimser bir kapanış değildir.[^k1] Aksine, uğruna yıllarını verdiği metnin tek başına yetersiz kaldığının açık bir kabulüdür.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Soru bağımsızlığa karşı çıkmak değildi.[^k3] Bağımsızlığın tek başına yeterli olmadığını göstermeyi amaçlıyordu.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu eleştirilerin bir bölümü yöntemle ilgiliydi.[^k3] Bir bölümü ise dışlanan grupların birbirinden farklı olduğunu ve tek bir çatı altında temsil edilemeyeceğini ileri sürdü.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

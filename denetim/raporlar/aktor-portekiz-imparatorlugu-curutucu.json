@@ -1,0 +1,63 @@
+{
+  "id": "aktor-portekiz-imparatorlugu",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.147Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Ağ tipi hâkimiyetin bir zayıflığı vardır.[^k1] Düğüm noktaları azdır ve her biri tek tek kaybedilebilir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bu düzeni kuran ülkenin nüfusu, dönemin büyük devletlerine göre küçüktü.[^k1] Aynı anda bu kadar noktayı tutabilmesi bu yüzden ayrıca açıklanmalıdır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "İki amaç her zaman uyumlu değildi.[^k4] Yerel hükümdarlarla ticaret anlaşması yapmak, aynı hükümdarlara yönelik misyon çalışmasını zorlaştırıyordu.",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dönemde, o hükümdarın düşmanları bu düzenin noktalarına da saldırdı.[^k3] Uzak noktalar bu saldırılarda tek tek kaybedildi.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Süre, tek bir biçimin sürdüğü anlamına gelmez.[^k3] Ağ düzeni, yerleşim düzeni ve yirminci yüzyıl sömürge yönetimi birbirinden farklı biçimlerdir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden süreyi tek başına anlamlı saymaz.[^k4] Uzun ömür, aynı adın farklı düzenler üzerinde kalmasından da doğabilir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k4) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu yüzden süreyi tek başına anlamlı saymaz.[^k4] Uzun ömür, aynı adın farklı düzenler üzerinde kalmasından da doğabilir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosya, tek tek noktaların tarihini vermez.[^k1] Her limanın ne zaman alındığı, nasıl tutulduğu ve ne zaman kaybedildiği kendi dosyasını hak eder.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "aktor-vijayanagara",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.153Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Çakışma, atlasın seyrek bulduğu bir imkândır.[^k1] Çoğu dosyada tek bir kanıt türü vardır ve karşılaştırma yapılamaz.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas terk edilişin nedenini tek etkene bağlamaz.[^k1] Su sisteminin bakımsız kalması, ticaret hattının değişmesi ve siyasi merkezin güneye kayması birlikte işlemiştir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu nedenle çatışmayı tek eksene indirgemez.[^k2] İttifaklar dönem boyunca değişti ve hat üzerinden geçen ittifaklar da kuruldu.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İmparatorluk kendi kayıtlarında tek bir adla anılmaz.[^k1] Bugün kullanılan ad, başkentin adından türetilmiştir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Hanedanlar dönem boyunca dört kez değişti.[^k3] Dört hanedanı tek bir devlet olarak saymak, sonradan yapılmış bir gruplamadır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yazıtlar tek bir dilde değildir.[^k1] Bölgenin başlıca dilleri ve klasik dil, aynı imparatorluk içinde ve çoğu zaman aynı bölgede birlikte kullanılmıştır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, imparatorluğun tek bir dil dayatmadığını gösterir.[^k2] Atlas bunu bir hoşgörü göstergesi değil, yönetim maliyetini düşüren bir tercih olarak kaydeder; yerel dilde yazmak, kayd",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Terk edilişin nedeni tek etkene bağlanmaz.[^k1] Üç etken sıralanır ve ağırlıkları ölçülmemiştir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "id": "aktor-chola",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:24.820Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Chola hanedanı, Güney Hindistan'ın Tamil bölgesinde kurulmuş ve gücünün zirvesinde deniz aşırı seferler düzenlemiş bir siyasi düzendir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Chola hanedanı, Güney Hindistan'ın Tamil bölgesinde kurulmuş ve gücünün zirvesinde deniz aşırı seferler düzenlemiş bir siyasi düzendir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hanedanın kayıtları tapınak duvarlarına ve taş yapılara kazınmıştır ve içerikleri büyük ölçüde idaridir: bağışlar, vergi düzenlemeleri, ölçü tanımları, köy mecl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Hanedanın kayıtları tapınak duvarlarına ve taş yapılara kazınmıştır ve içerikleri büyük ölçüde idaridir: bağışlar, vergi düzenlemeleri, ölçü tanımları, köy mecl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "dosyasındaki fermanlar bir duyurudur; kronikler bir anlatıdır; buradaki kayıtlar ise bir işlemdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "dosyasındaki fermanlar bir duyurudur; kronikler bir anlatıdır; buradaki kayıtlar ise bir işlemdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir işlem kaydı, ne yapıldığını söyler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir işlem kaydı, ne yapıldığını söyler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir bağış kaydı; kimin verdiğini, neyi verdiğini, kime verdiğini ve hangi koşullarla verdiğini içerir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kazınan işlemler, kazınmaya değer bulunan işlemlerdir; gündelik alışverişin ve kayıt dışı ilişkilerin taşta karşılığı yoktur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayıtların bir bölümü, yerel meclislerin işleyişine dair düzenlemeler içerir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kayıtların bir bölümü, yerel meclislerin işleyişine dair düzenlemeler içerir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, atlasın dosyasında kavram düzeyinde ele alınan yapının erken bir örneğidir: yönetimin kişiye değil kurala bağlanması.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir meclisin kurallarının yazılı olması, o kuralların uygulandığını göstermez; kayıt ile pratik arasındaki fark bu tür kaynaklarda ölçülemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bir yorumu benimsemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bir yorumu benimsemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hanedanın gücünün zirvesinde Güneydoğu Asya'ya yönelik deniz seferleri düzenlendiği kaydedilir.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Asya"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Hanedanın gücünün zirvesinde Güneydoğu Asya'ya yönelik deniz seferleri düzenlendiği kaydedilir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Batı yarısı için dosyası aynı okyanusun öteki ucundaki düğümü kaydeder; üç dosya birlikte, okyanusun tek bir ticaret alanı olarak işlediğini görünür kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Seferlerin amacı — ticaret yollarının denetimi mi, doğrudan siyasi hâkimiyet mi — kaynaklarda net değildir ve tartışılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tapınak, dinî bir mekân olmanın yanında toprak sahibi, kredi veren ve işçi çalıştıran bir kurumdur; bağış kayıtlarının orada tutulması bu ekonomik rolün sonucud",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tapınak, dinî bir mekân olmanın yanında toprak sahibi, kredi veren ve işçi çalıştıran bir kurumdur; bağış kayıtlarının orada tutulması bu ekonomik rolün sonucud",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir kurumu yalnızca dinî işleviyle kaydetmek, onun toprak ve emek üzerindeki rolünü görünmez kılardı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayıt yerinin seçimi bir başka bilgi de taşır: taşa kazınan bir işlem, tarafların ölümünden sonra da geçerli sayılmak üzere kaydedilmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya üç kaynağa dayanır: iki ayrı editörün hazırladığı kitabe neşirleri ve bir giriş kapısı maddesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya üç kaynağa dayanır: iki ayrı editörün hazırladığı kitabe neşirleri ve bir giriş kapısı maddesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya üç kaynağa dayanır: iki ayrı editörün hazırladığı kitabe neşirleri ve bir giriş kapısı maddesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Havuz kuralı gereği makalede en fazla bir tane bulunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kitabe neşirlerinin doğası gereği, bu dosya kayıtların türü hakkında konuşur, tek tek içerikleri hakkında değil.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kitabe neşirlerinin doğası gereği, bu dosya kayıtların türü hakkında konuşur, tek tek içerikleri hakkında değil.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sonraki okuma önerileri ve yeni bulunan kitabeler bu dosyada kullanılmamıştır; güncel epigrafi literatürü telifli olduğu için künyeye giremez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlasın Güney Asya kümesi, bu dosyayla birlikte üç ayrı birincil kaynak türü barındırır.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Asya"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Her tür farklı bir soruya cevap verir ve hiçbiri ötekinin yerine geçmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Her tür farklı bir soruya cevap verir ve hiçbiri ötekinin yerine geçmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Künye bir kaynağı birincil diye işaretler ama hangi türden birincil olduğunu söylemez; kazı raporu ile işlem kaydı aynı etiketi taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Hanedanın siyasi tarihi, hükümdar sıralaması ve askerî seferlerin ayrıntıları burada işlenmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kitabelerin dil ve yazı özellikleri de ele alınmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kitabelerin dil ve yazı özellikleri de ele alınmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tapınak duvarlarına kazınmış kayıtların sayısı, atlasın öteki dosyalarında karşılaşılan kaynak azlığının tersi bir durum yaratır: burada sorun kaynağın yokluğu ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tapınak duvarlarına kazınmış kayıtların sayısı, atlasın öteki dosyalarında karşılaşılan kaynak azlığının tersi bir durum yaratır: burada sorun kaynağın yokluğu ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Neşirler bu işin bir bölümünü yapar; hangi kaydın hangi ciltte, hangi okuma önerisiyle yayımlandığı editörün kararıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kazınan işlemler, kalıcı kılınmaya değer görülen işlemlerdir; hangi işlemin bu ayrıcalığı hak ettiği, kaydı yaptıran tarafın kararıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir bölgede çok kayıt bulunması, o bölgede çok işlem yapıldığını göstermez; çok işlemin kaydedildiğini gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayıtların bir bölümü ölçü birimlerini ve dönüşümlerini tanımlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kayıtların bir bölümü ölçü birimlerini ve dönüşümlerini tanımlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Orada standart ağırlıklar bulunmuştu ama onları tanımlayan bir metin yoktu; burada hem standart hem tanımı vardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Nesne, standardın var olduğunu gösterir; metin, standardın kim tarafından ve nasıl tanımlandığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayıtların yüzyıllar boyunca aynı yerlerde tutulmaya devam etmesi, idari sürekliliğin bir işaretidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kayıtların yüzyıllar boyunca aynı yerlerde tutulmaya devam etmesi, idari sürekliliğin bir işaretidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kayıt tutulmamaya başlaması, kurumun ortadan kalkmasıyla da, kaydın başka bir ortama taşınmasıyla da açıklanabilir; taş, kâğıda geçişi kaydetmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Künyedeki tarih genel çerçeveyi izler ve kaynağın sustuğu anı kurumun bittiği an saymaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya, Güney Asya kümesindeki üçüncü makaledir ve kümeye üçüncü bir birincil kaynak türü ekler.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Asya"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tek tek dosyalar kendi konularını anlatır; küme, o konuların hangi kanıtla bilindiğini karşılaştırmayı mümkün kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tek tek dosyalar kendi konularını anlatır; küme, o konuların hangi kanıtla bilindiğini karşılaştırmayı mümkün kılar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bölgenin sonraki dönemleri, öteki hanedanları ve kuzeydeki gelişmeler kaydedilmemiştir; atlasta bu konular için ayrı dosyalar bulunmuyor ve bu dosya onları kapa",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üçü birlikte, Hint Okyanusu'nun tek bir ticaret alanı olarak işlediğini ve atlasın bölge etiketlerinin bu alanı üç ayrı kümeye böldüğünü gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Hint, Okyanusu"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üç dosya aynı coğrafyada üç ayrı kanıt durumunu gösterir ve birlikte okunduklarında tek başlarına veremeyecekleri bir soruyu doğururlar: bir dönem hakkında bild",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Üç dosya aynı coğrafyada üç ayrı kanıt durumunu gösterir ve birlikte okunduklarında tek başlarına veremeyecekleri bir soruyu doğururlar: bir dönem hakkında bild",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosyanın bağlandığı kaynaklar tek tek kayıtlardan oluşur ve bu dosya onların hiçbirini tek tek aktarmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosyanın bağlandığı kaynaklar tek tek kayıtlardan oluşur ve bu dosya onların hiçbirini tek tek aktarmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Binlerce kayıt içeren bir külliyat özetlenemez; ancak nasıl okunacağı anlatılabilir ve okuyucu külliyata yönlendirilebilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

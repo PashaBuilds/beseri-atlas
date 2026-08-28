@@ -1,0 +1,84 @@
+{
+  "id": "aktor-muvahhidler",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.145Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Doğuya doğru genişleme, önceki hanedanın ulaşamadığı bölgeleri de kapsadı.[^k4] Bu, Kuzey Afrika'nın uzun süre sonra tek bir yerel yönetim altında toplanması anlamına geliyordu.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas yenilgiyi bir dönüm noktası olarak kaydeder ve tek neden saymaz.[^k1] Aynı dönemde iç muhalefet ve mali sorunlar da derinleşmişti.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Hanedan, on üçüncü yüzyıl boyunca kademeli olarak çözüldü.[^k1] Tek bir yıkım anı yoktur.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bölgeler tek tek ayrıldı ve her birinde ayrı hanedanlar kuruldu.[^k4] Kuzey Afrika bundan sonra uzun süre üç ayrı siyasi birim biçiminde kaldı.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu çeşitlilik, tek bir modelin bölgeye özgü olmadığını gösterir.[^k4] Aynı coğrafyada iki model de kullanılabilmiştir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, tek merkezden yönetimi maliyetli kılar.[^k2] Birleşme dönemleri kısa, ayrılma dönemleri uzundur.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas örüntüyü kaydeder ve tek nedene bağlamaz.[^k4] Coğrafya bir maliyet dağılımı kurar; kararları insanlar verir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "yuksek",
+      "tip": "anakronizm",
+      "cumle": "Çekirdek birlikler ideolojik bağla tutuluyordu.[^k4] Ücretli birlikler ise ödeme ile tutuluyordu ve gelirin daralması bu ikinci grubu doğrudan etkiledi; ödeme aksadığında birlikler",
+      "sorun": "\"ideoloji\" kavramı yaklaşık 1790'den itibaren kullanılıyor; makale 1269'te bitiyor.",
+      "oneri": "Kavramı dönemin kendi diliyle değiştir ya da geriye dönük okuma olduğunu açıkça belirt."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu tür makasları ayrıca izler.[^k4] Bir düzenin çözülmesi çoğu zaman tek bir yenilgiyle değil, gelir ile gider eğrilerinin uzun süre ters yönde ilerlemesiyle açıklanabilir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kuzey yakadaki yenilginin belirleyici olduğu da tek başına ileri sürülmez.[^k3] Aynı dönemde birden çok etken işlemiştir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yerini alınan hanedan için [Murâbıtlar](/aktor/murabitlar/) dosyası okunmalıdır; bu dosya onsuz eksiktir ve ikisi birlikte tek bir örüntüyü kurar.[^k2]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

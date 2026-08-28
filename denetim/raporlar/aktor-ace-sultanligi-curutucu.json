@@ -1,0 +1,56 @@
+{
+  "id": "aktor-ace-sultanligi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.125Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu düzeni bir eksiklik olarak değil bir biçim olarak kaydeder.[^k2] Tek kaynaklı bir hukuk düzeni, karma bir düzenin gelişmiş hâli değildir; ikisi ayrı çözümlerdir.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, atlasın Orta Asya dosyalarında kaydettiği gözlemin tersidir.[^k2] Merkezîleşmiş bir düzen tek bir darbeyle çöker; dağınık bir düzen yavaş ve parça parça çözülür.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden bu dosyada bir sayı vermez.[^k1] Değerlendirmeler mutlak büyüklüklere değil, kayıtların ortak vurgusuna dayanır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Sultanlık, adanın öteki liman şehirleriyle sürekli bir rekabet içindeydi.[^k2] Bölgede tek bir merkez hiçbir zaman kalıcı üstünlük sağlayamadı.",
+      "sorun": "Kesinlik ifadesi \"hiçbir zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sultanlık, adanın öteki liman şehirleriyle sürekli bir rekabet içindeydi.[^k2] Bölgede tek bir merkez hiçbir zaman kalıcı üstünlük sağlayamadı.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosyanın seçilme gerekçesi, bölgenin sömürge dönemine tek bir anlatıyla girmediğini göstermektir.[^k1] Bir bölgede aynı anda hem denetim altına alınmış limanlar hem de dört yüzyıl ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu ayrım, atlasın sömürgecilik dosyalarını okumak için gereklidir.[^k2] Bölgeyi tek bir tarihe indirgeyen anlatılar, direnen tarafı kaydın dışında bırakır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "kaynak-camiut-tevarih",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.172Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Taraflılığın yönü de bellidir.[^k2] Hanedanın kökeni, hakları ve yönetiminin gerekçesi, eserin ilk ve en ayrıntılı bölümünü oluşturur.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

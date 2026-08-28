@@ -1,0 +1,35 @@
+{
+  "id": "aktor-hive-hanligi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.135Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu nedenle yüzölçümü karşılaştırmalarını tek başına kullanmaz.[^k1] Sulanan alan, nüfus ve vergi geliri ayrı ayrı sorulmalıdır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Vahanın varlığı tek bir nehre bağlıydı.[^k2] Nehrin taşıdığı su miktarı ve yatağının konumu, ekilebilir alanı doğrudan belirliyordu.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Nehrin yatağı tarih boyunca değişti.[^k2] Yatak değişimleri, yerleşim alanlarının da yer değiştirmesine yol açtı.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tek nehre bağlı bir tarım düzeni, iki yönden kırılgandır.[^k2] Su azalırsa üretim düşer; kanal bakımı aksarsa üretim düşer.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

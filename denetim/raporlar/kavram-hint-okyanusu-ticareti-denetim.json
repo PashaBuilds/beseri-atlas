@@ -1,0 +1,187 @@
+{
+  "id": "kavram-hint-okyanusu-ticareti",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:26.203Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Hint Okyanusu ticareti, Doğu Afrika kıyısından Güneydoğu Asya'ya uzanan ve yüzyıllar boyunca kesintisiz işleyen deniz ticareti düzenine verilen addır.",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Afrika"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Hint Okyanusu ticareti, Doğu Afrika kıyısından Güneydoğu Asya'ya uzanan ve yüzyıllar boyunca kesintisiz işleyen deniz ticareti düzenine verilen addır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ağın işleyişini belirleyen şey siyasi güç değil, mevsim rüzgârlarıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Öngörülebilirliğin sonucu, tüccarın limanda beklemek zorunda kalmasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir ticaret düzeninin doğa koşullarına bu kadar sıkı bağlı olması, atlasta seyrek görülen bir durumdur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir yandan, geç kalan gemi bir sonraki mevsimi beklemek zorundadır; öte yandan, herkesin aynı takvime uyması limanlarda düzenli ve yoğun buluşmalar yaratır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir yandan, geç kalan gemi bir sonraki mevsimi beklemek zorundadır; öte yandan, herkesin aynı takvime uyması limanlarda düzenli ve yoğun buluşmalar yaratır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı anda aynı limanda bulunan tüccarlar, birbirinden yalnızca mal değil fiyat, güzergâh ve risk bilgisi de alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ağın üzerindeki siyasi birimlerin çoğu, taşınan malları üretmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Böyle bir düzende siyasi güç, toprağın büyüklüğüyle değil boğazın konumuyla ölçülür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ağın tek bir devlet tarafından denetlenmemesi bir eksiklik değil, yapısal bir özelliktir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ağın tek bir devlet tarafından denetlenmemesi bir eksiklik değil, yapısal bir özelliktir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bunun sonucu, ticaretin siyasi değişimlerden görece bağımsız sürmesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya iki birincil kaynağa bağlıdır ve aralarında yaklaşık bin üç yüz yıl vardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya iki birincil kaynağa bağlıdır ve aralarında yaklaşık bin üç yüz yıl vardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki kaydın aynı limanları, aynı malları ve aynı rüzgâr takvimini anlatması, düzenin sürekliliğinin en doğrudan kanıtıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki kaydın aynı limanları, aynı malları ve aynı rüzgâr takvimini anlatması, düzenin sürekliliğinin en doğrudan kanıtıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sonraki kayıtta ağın dinî ve hukuki altyapısı gelişmiştir; önceki kayıtta yalnızca mal ve mesafe vardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya, atlasın deniz ticareti kapsamındaki ilk yapısal kavram dosyasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ağdaki tek tek limanların tarihi, taşınan malların üretim bölgeleri ve fiyat hareketleri burada işlenmez; her biri ayrı dosya gerektirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ağın Avrupa donanmalarıyla karşılaşması ve sonrasındaki dönüşümü de kapsam dışıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ağda taşınan mallar tek yönlü değildi ve bu, ağın tek bir merkeze bağlı olmadığının göstergesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Elde bulunan kayıtlar liman kayıtları değil, tüccar ve gezgin anlatılarıdır; bu anlatılarda büyüklük bildiren ifadeler ölçüm değil izlenim taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu yüzden bu dosyada bir hacim rakamı vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ağın taşıdığı şeylerin arasında inanç sistemleri de vardı ve yayılma biçimi kara yollarındakinden farklıydı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Fetihle yayılan bir inanç yönetimden aşağıya doğru işler; ticaretle yayılan bir inanç ise önce liman çevresinde, tüccar sınıfı içinde yerleşir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Fetihle yayılan bir inanç yönetimden aşağıya doğru işler; ticaretle yayılan bir inanç ise önce liman çevresinde, tüccar sınıfı içinde yerleşir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu iki yolu ayrı ayrı kaydeder ve birini ötekinin hafif biçimi saymaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ağın karşılıklı uçlarındaki liman devletleri için ve , donanma gücüyle ağa katılan bir örnek için dosyaları okunmalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ticaretin dünya ölçeğinde nasıl kavramlaştırıldığı için dosyası okunmalıdır; o dosyanın merkez-çevre şeması bu ağa doğrudan uygulanamaz ve fark ayrıca incelenme",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

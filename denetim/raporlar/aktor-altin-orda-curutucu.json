@@ -1,0 +1,70 @@
+{
+  "id": "aktor-altin-orda",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.126Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Değişimin yönü kaydedilmelidir.[^k1] Fetheden taraf sayıca azdı ve fethedilen nüfusun dili baskın çıktı; bu, atlasın öteki fetih dosyalarında her zaman böyle olmamıştır.",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Değişim tek adımda olmadı.[^k2][^k3] İlk benimseme ile kurumsallaşma arasında yaklaşık yetmiş yıl vardır ve arada geri dönüşler kaydedilir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu araları ayrıca kaydeder.[^k3] Bir din değişimini tek bir tarihe bağlamak, süreci bir karara indirger; oysa kayıtlar bir çekişme gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Güvenliğin sağlanması, ticaretin bu hatta kaymasına yol açtı.[^k1] Kuzey Karadeniz limanları, İtalyan tüccar kolonilerinin yerleştiği merkezler hâline geldi.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Düzenin sonu tek bir yenilgiyle gelmedi.[^k1][^k4] Merkezî otorite zayıfladıkça bölgeler ayrı hanlıklara bölündü.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı yapı atlasın Sokoto ve Açe dosyalarında da kaydedilmiştir.[^k1] Dağınık düzenler yavaş ve parça parça çözülür; merkezîleşmiş düzenler tek darbeyle çöker.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu süreklilik, düzenin sona erişini tek bir tarihe bağlamayı zorlaştırır.[^k4] Künyedeki bitiş tarihi merkezî otoritenin sona erdiği yılı gösterir; ardıllarının tarihini değil.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Ardıl hanlıkların tek tek tarihi de kapsam dışıdır.[^k1] Her biri ayrı dosya gerektirir ve bu dosya yazıldığında atlasta bulunmuyorlardı.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Serinin tam metin hâlde bulunamaması bu dosyanın en önemli kısıtıdır.[^k4] Ölçüm mümkün ama künyeye alınabilir bir kaynak bulunamadı ve bu, kaynak durumu bölümünde ayrıca beyan edi",
+      "sorun": "\"en önemli\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

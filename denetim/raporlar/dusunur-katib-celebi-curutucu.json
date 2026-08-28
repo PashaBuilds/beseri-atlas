@@ -1,0 +1,84 @@
+{
+  "id": "dusunur-katib-celebi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.158Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "En bilinen iki eseri bir bibliyografya ve bir dünya coğrafyasıdır.[^k2] Bibliyografya, bilinen eserleri alfabetik olarak sıralar ve on binlerce başlık içerir.",
+      "sorun": "Makale islam-dunyasi/avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Bu düşünür sorunu on yedinci yüzyılda karşıladı.[^k3] Bilinen dünyanın uzak bölgeleri hakkında kendi geleneğindeki bilgi eskiydi ve eksikti.",
+      "sorun": "Makale islam-dunyasi/avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Coğrafya eseri, bölgede Arap harfleriyle basılan ilk eserler arasındadır.[^k1] Basım, yazarın ölümünden yaklaşık seksen yıl sonra gerçekleşti.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Mali risalede önerilen çözümler, bir teşhise dayandırılır.[^k1] Gelirin giderin altında kalması, tek tek harcamalardan çok yapısal bir dengesizlik olarak sunulur.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, atlasın İbn Haldûn dosyasında kaydedilen yaklaşımla aynı ailedendir.[^k3] Bir düzenin durumu, tek tek kararlardan değil ölçülebilir bir eğilimden okunur.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Düşünür, döneminin dinî ve toplumsal tartışmalarına ayrı bir eserle katıldı.[^k1] Eserde, tartışmalı sayılan uygulamalar tek tek ele alınır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sonuç, sorumluluğun tek kişiye yüklenmesidir.[^k2] Çeviride yapılan bir yanlışın kime ait olduğu, kaynak zinciri eksik olduğunda belirlenemez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Coğrafya eserinin tamamlanmamış olması ayrı bir okuma sorunu doğurur.[^k1] Yazarın hangi bölümü hangi aşamada bıraktığı her yerde açık değildir.",
+      "sorun": "Makale islam-dunyasi/avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden esere atıf yaparken baskıyı belirtir.[^k2] Bir eser adı tek başına, hangi metnin kastedildiğini göstermeye yetmez.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu yüzden esere atıf yaparken baskıyı belirtir.[^k2] Bir eser adı tek başına, hangi metnin kastedildiğini göstermeye yetmez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Eserlerin sonraki etkisi izlenmez.[^k3] Aktarım zincirinin izlenmesi, sonraki yazarların bu eserlere ne ölçüde başvurduğunun tek tek gösterilmesini gerektirir ve ayrı bir çalışmadı",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

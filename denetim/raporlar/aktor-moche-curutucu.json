@@ -1,0 +1,56 @@
+{
+  "id": "aktor-moche",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.143Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kıyı vadilerinde tarım, uzun kanallarla ve düzenli bakımla yürütülüyordu.[^k1] Kanal sistemleri tek bir vadiyi aşacak ölçekteydi ve merkezî bir örgütlenme gerektiriyordu.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yerleşimlerde yapılan kazılar, seramiğin tek başına vermediği bilgiyi sağlar.[^k1] Mezarların içeriği, gömü biçimlerindeki farklar ve yapıların büyüklüğü toplumsal katmanlaşmayı gö",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki kanıt türünün birlikte kullanılması, tek başına hiçbirinin veremeyeceği bir tabloyu üretir.[^k2] Seramik neyin yapıldığını, gömüler kimin nerede durduğunu gösterir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Düzenin tek bir merkezî devlet mi yoksa ortak bir kültürü paylaşan birden çok siyasi birim mi olduğu tartışmalıdır.[^k1] Kanıt her iki okumaya da açıktır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden bu dosyada nüfus rakamı vermez.[^k2] Kanal sisteminin uzunluğu ise ölçülebilir bir büyüklüktür ve dolaylı çıkarımın dayanağıdır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, atlasın nesne kanıtına dayanan ikinci dosyasıdır.[^k2] Alt tür, önceki turda Benin Krallığı dosyası yazılırken şemaya eklendi; burada ilk kez tek kanıt türü olarak kullanılıyor",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kazı alanlarının tek tek tarihi ve bulguları burada işlenmez.[^k1] Her biri ayrı dosya gerektirir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

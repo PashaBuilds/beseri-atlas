@@ -1,0 +1,64 @@
+## dusunur-ibn-sina
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:07:25.884Z_
+
+- [OK]      k1 → "İbn Sînâ, Sâmânî hâkimiyetindeki Buhara çevresinde doğdu ve yetişti; hayatının büyük bölümünü İran'ın çeşitli …" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "İbn Sînâ, Sâmânî hâkimiyetindeki Buhara çevresinde doğdu ve yetişti; hayatının büyük bölümünü İran'ın çeşitli …"
+- [OK]      k1 → "Atlasın bölge şeması, siyasi birimleri doğdukları coğrafyaya göre ayırır; bir düşünürün hem Buhara'nın hem de …" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Atlasın bölge şeması, siyasi birimleri doğdukları coğrafyaya göre ayırır; bir düşünürün hem Buhara'nın hem de …"
+- [OK]      k1 → "Felsefe geleneği bakımından 'nin açtığı yoldan ilerler: Aristoteles'ten gelen mantık ve metafizik çerçevesini …"
+- undefined k1 → "Kaynaklar iki eserini ayrı ayrı öne çıkarır: tıp alanında el-Kânûn fi't-tıb, felsefe alanında Kitâbü'ş-Şifâ." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Kaynaklar iki eserini ayrı ayrı öne çıkarır: tıp alanında el-Kânûn fi't-tıb, felsefe alanında Kitâbü'ş-Şifâ." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Biri hekimlik pratiğine ve tıp eğitimine yerleşir; öteki metafizik tartışmasının terimlerini belirler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Biri hekimlik pratiğine ve tıp eğitimine yerleşir; öteki metafizik tartışmasının terimlerini belirler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Şifâ'nın metafizik bölümü bağımsız bir çeviri olarak yayımlanmıştır ve bu dosya o metne bağlanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "İbn Sînâ'nın metafiziğinin merkezinde, bir şeyin ne olduğu ile var olduğu arasındaki ayrım durur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "İbn Sînâ'nın metafiziğinin merkezinde, bir şeyin ne olduğu ile var olduğu arasındaki ayrım durur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bir şeyin mahiyetini bilmek, onun var olup olmadığını bilmek anlamına gelmez; varlık, mahiyete dışarıdan eklen…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu ayrım üzerinden zorunlu varlık ile mümkün varlık arasında bir sınır çizilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu ayrım üzerinden zorunlu varlık ile mümkün varlık arasında bir sınır çizilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Mümkün olan, var olmak için kendisi dışında bir sebebe muhtaçtır; zorunlu olan ise varlığını kendinden alır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Sebepler zincirinin sonsuza gitmesi kabul edilmediğinde, zincirin ucunda kendisi mümkün olmayan bir varlık kal…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Sonraki iki yüzyıl boyunca hem reddiyeler hem savunular, tartışmayı onun kurduğu terimlerle sürdürmüştür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Sonraki iki yüzyıl boyunca hem reddiyeler hem savunular, tartışmayı onun kurduğu terimlerle sürdürmüştür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Metafiziğin yanında, nefsin bedenden ayrı bir cevher olup olmadığı sorusu üzerine yürüttüğü tartışma da sonrak…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu tartışma, bilginin nasıl edinildiği sorusuyla iç içedir: duyudan gelen ile akılla kavranan arasındaki ayrım…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Beden üzerine yazan bir hekimle nefs üzerine yazan bir filozofun aynı kişi olması, atlasın onu tek bir eksen a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Beden üzerine yazan bir hekimle nefs üzerine yazan bir filozofun aynı kişi olması, atlasın onu tek bir eksen a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → ", filozofların belirli tezlerini hedef alan bir reddiye yazmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → ", filozofların belirli tezlerini hedef alan bir reddiye yazmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Bu metnin İslam dünyasında felsefî etkinliği bitirip bitirmediği ayrı bir tartışmadır; atlas bu konuda hüküm v…"
+- [OK]      k2 → "Bu metnin İslam dünyasında felsefî etkinliği bitirip bitirmediği ayrı bir tartışmadır; atlas bu konuda hüküm v…"
+- [OK]      k1 → "Eserlerinin Latinceye çevrilmesi, İbn Sînâ'yı Batı Avrupa'daki üniversite tartışmalarının doğrudan muhatabı hâ…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Böylece aynı metinler iki ayrı gelenekte, farklı sorularla okundu: bir yanda İslam dünyasındaki kelâm tartışma…"
+- [OK]      k1 → "Varlık ile mahiyet ayrımının Latin tartışmasına geçmesi, atlasın bu dosyayı yalnızca İslam düşüncesi başlığı a…"
+- undefined k1 → "Bu dosya üç kaynağa dayanır: felsefe tarafında bir akademik ansiklopedi maddesi, Türkçe akademik literatürden …" — programatik olarak ölçülemedi (ad karşılığı yok): Türkçe
+- [OK]      k2 → "Bu dosya üç kaynağa dayanır: felsefe tarafında bir akademik ansiklopedi maddesi, Türkçe akademik literatürden …"
+- undefined k3 → "Bu dosya üç kaynağa dayanır: felsefe tarafında bir akademik ansiklopedi maddesi, Türkçe akademik literatürden …" — programatik olarak ölçülemedi (ad karşılığı yok): Türkçe
+- undefined k2 → "Tıp eserinin içeriği ve onun tıp eğitimindeki yeri burada işlenmez; ayrı bir kaynak dosyası gerektirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Mantık yazıları da aynı şekilde dışarıdadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Şifâ, tek bir konuyu değil bir müfredatı kapsar: mantık, doğa felsefesi, matematik bilimleri ve metafizik ayrı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Metafizik bölümü bu sıranın sonunda gelir; önceki bölümlerde kurulan kavramları varsayarak ilerler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Metafizik bölümü bu sıranın sonunda gelir; önceki bölümlerde kurulan kavramları varsayarak ilerler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Metafizik bölümünü tek başına okumak, orada kullanılan terimlerin daha önce tanımlanmış olduğunu gözden kaçırm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Eserin bütününü tek bir tez cümlesine indirmek mümkün değildir; kaynaklar da böyle bir indirgeme yapmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Eserin bütününü tek bir tez cümlesine indirmek mümkün değildir; kaynaklar da böyle bir indirgeme yapmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "İbn Sînâ'dan sonra yazılan felsefe metinlerinin önemli bir bölümü, onun eserlerine yazılmış şerhler ya da onla…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "İbn Sînâ'dan sonra yazılan felsefe metinlerinin önemli bir bölümü, onun eserlerine yazılmış şerhler ya da onla…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Şerh geleneğinin yoğunluğu, o metnin doğru olduğunu göstermez; yalnızca tartışmanın merkezinde durduğunu göste…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Türkçe akademik literatürde de aynı yapı görülür: madde, onun eserlerini ve o eserler üzerine yürütülen tartış…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Önceki makalelerin çoğu ansiklopedi maddelerine dayanıyordu; bu dosya üç ayrı alan adına dayanır ve künyesinde…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Önceki makalelerin çoğu ansiklopedi maddelerine dayanıyordu; bu dosya üç ayrı alan adına dayanır ve künyesinde…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Önceki makalelerin çoğu ansiklopedi maddelerine dayanıyordu; bu dosya üç ayrı alan adına dayanır ve künyesinde…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ISARET]  k1 → "Orta Asya bölgesinin atlastaki kapsamı bu dosya yazıldığında dar kalıyordu." — özel isim kaynakta bulunamadı: Asya
+- [OK]      k2 → "Orta Asya bölgesinin atlastaki kapsamı bu dosya yazıldığında dar kalıyordu."
+- undefined k1 → "Yaşadığı yıllar, atlasın kronolojik omurgasında iki dönemin kesiştiği yere düşer." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Yaşadığı yıllar, atlasın kronolojik omurgasında iki dönemin kesiştiği yere düşer." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "İbn Sînâ'nın metinlerinin sonraki yüzyıllarda hem şerh hem reddiye üretmeyi sürdürmesi, onu tek bir sütuna yer…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "İbn Sînâ'nın metinlerinin sonraki yüzyıllarda hem şerh hem reddiye üretmeyi sürdürmesi, onu tek bir sütuna yer…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Atlasın düşünür dosyaları, bir düşünürün görüşlerini özetlemek yerine onun hangi tartışmanın neresinde durduğu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlasın düşünür dosyaları, bir düşünürün görüşlerini özetlemek yerine onun hangi tartışmanın neresinde durduğu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Şifâ'nın metafizik bölümünün çevirisi bağlıdır; esere yapılacak atıflar makale ve fasıl numarasıyla verilmelid…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Felsefî itirazla fıkhî yöntem tartışması aynı şey değildir; atlas ikisini ayrı tiplerde işler ve aralarındaki …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Felsefî itirazla fıkhî yöntem tartışması aynı şey değildir; atlas ikisini ayrı tiplerde işler ve aralarındaki …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+
+**Özet:** 12 OK · 1 ISARET · 0 HATA

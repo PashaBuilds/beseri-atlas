@@ -1,0 +1,63 @@
+{
+  "id": "aktor-bengal-sultanligi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.128Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosyanın bir kaynağı, sultanlığın ilk yıllarında bölgeyi görmüş bir gezginin kaydıdır.[^k2] Gezgin, bölgenin ucuzluğunu ve bolluğunu kendi gördüğü öteki bölgelerle karşılaştırar",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden tanık kaydından fiyat aktarmaz.[^k1] Kaydın kullanıldığı yer, bölgede o tarihte işleyen bir pazar düzeninin bulunduğunu belgelemesidir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Sultanlık döneminde yerel dil, saray desteği gören bir yazı dili hâline geldi.[^k1] Bu, bölgede o zamana kadar yönetim dilinin dışarıdan gelmiş olması nedeniyle bir dönüm noktasıdı",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bölgede farklı inanç toplulukları bir arada bulunuyordu ve sultanlık bunların üzerinde tek bir düzen kurmayı denemedi.[^k1][^k2] Yerel dinî kurumlar varlıklarını sürdürdü.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosya, atlasın Güney Asya aktör katmanındaki yedinci dosyadır ve bölgenin doğu ucunu ilk kez ele alır.[^k1] Önceki dosyalar ağırlıklı olarak kuzey ve merkez düzenlerini anlatıyo",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosyanın seçilme gerekçesi, Güney Asya'nın tek bir siyasi tarih olarak okunmasını engellemektir.[^k3] Kuzeyde imparatorluklar birbirini izlerken doğuda iki yüzyıl bağımsız bir düze",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir bölgeyi tek bir merkezin tarihiyle anlatmak, atlasın kaçındığı anlatım biçimidir.[^k1] Merkezden bakan bir anlatı, çevredeki dosyaları merkezin başarısızlıkları olarak kaydeder",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu yapıyı Maldivler ve Batı Afrika dosyalarında da kaydeder.[^k1] Değerli bir mal üretmek, ondan zenginleşmenin ön koşuludur ama tek başına yeterli değildir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

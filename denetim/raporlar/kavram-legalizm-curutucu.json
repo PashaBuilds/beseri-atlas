@@ -1,0 +1,42 @@
+{
+  "id": "kavram-legalizm",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.166Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Çizginin merkezinde üç kavram durur ve üçü birbirini tamamlar. Kural tek başına, uygulanmadığında işlemez. Teknik tek başına, kuralsız keyfîliğe döner. Konum tek başına, kişinin ni",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu üçlünün sonucu tek bir iddiadır: iyi yönetim, iyi yöneticiye bağlı olmamalıdır. Sağlam bir düzen, sıradan bir yöneticinin elinde de işlemelidir.[^k2]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosya, atlasın Doğu Asya kavram kapsamındaki ilk dosyadır ve bir eksiği kapatmak için yazılmıştır.[^k1] Bölgenin aktör katmanında on ikiden fazla dosya bulunurken kavram katmanı",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir kavramın adının kendi bağlamı dışından gelmesi, atlasta ilk kez burada karşılaşılan bir durum değildir. [Feodalite kavramı](/tartisma/feodalite-kavrami/) dosyası aynı soruyu ba",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Terimi bırakmak da bir çözüm değildir. Ad olmadan karşılaştırma yapılamaz ve karşılaştırma yapılmadan bir düzenin neye benzediği anlatılamaz.[^k1] Atlas bu yüzden terimi kullanmayı",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

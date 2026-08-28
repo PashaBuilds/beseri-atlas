@@ -1,0 +1,56 @@
+{
+  "id": "aktor-karluklar",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.138Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Cümle, topluluk hakkındaki bütün anlatının merkezine oturmuştur.[^k1] Dört yüzyıllık varlık, tek bir günün tek bir kararına indirgenir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Karluklar tek bir boy değil, birden çok boyun oluşturduğu bir birliktir.[^k1] Birlik, ortak bir ad altında hareket eder ama tek bir merkezden yönetilmez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yapının kaynaklara yansıması da benzerdir.[^k2] Dışarıdan bakan bir gözlemci tek bir muhatap arar ve bulamadığında topluluğu tutarsız ya da güvenilmez olarak kaydeder.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Önerinin değeri, iddiayı çürütmesinde değil alternatif bir okuma sunmasındadır.[^k2] Tek bir okumaya bağlı kalmak, o okumanın dayanaklarını sorgulanamaz kılar.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu çokluk, ittifak seçeneklerini artırıyordu.[^k2] Tek bir komşusu olan bir birim için taraf seçmek zorunluluk, çok komşusu olan için bir pazarlık aracıdır.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynaklarda geçen ad, tek bir topluluğu mu yoksa bir siyasi çatı altındaki birden çok boyu mu karşıladığı açık değildir.[^k1] Bozkır düzenlerinde ad, çoğu zaman etnik değil siyasi ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Boy adlarının tek tek listesi verilmez.[^k1] Kaynaklar bu konuda örtüşmez ve bir liste vermek, örtüşme varmış izlenimi yaratır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

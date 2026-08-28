@@ -1,0 +1,56 @@
+{
+  "id": "kaynak-ibn-battuta-rihle",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.174Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden eseri bölüm bölüm değerlendirir.[^k2] **Bir eserin bütünü için verilen güven derecesi, o eserin her bölümü için ayrı ayrı geçerli değildir.**",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Ayrım her zaman kesin değildir.[^k3] Bazı bölümlerde anlatıcının orada bulunup bulunmadığı metinden çıkarılamaz.",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, bir avantaj ve bir risktir.[^k3] Az sayıda kaynak, tek kaynağa yaslanmayı kolaylaştırır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas riski açıkça beyan eder.[^k2] Bir bölge hakkındaki bilginin neredeyse tamamı tek bir metinden geliyorsa, bu bilginin gücü o metnin gücüyle sınırlıdır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden hangi çeviriye atıf yapıldığını belirtir.[^k3] Eser adı tek başına, hangi metnin okunduğunu göstermez.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu yüzden hangi çeviriye atıf yapıldığını belirtir.[^k3] Eser adı tek başına, hangi metnin okunduğunu göstermez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu kayıtları karşılaştırmalı okur.[^k2] Tek bir fiyat kaydı anlamsızdır; iki kayıt bir ilişki kurar.",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

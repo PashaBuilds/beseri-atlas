@@ -1,0 +1,56 @@
+{
+  "id": "aktor-nauru",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.145Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Nauru, Pasifik'in orta kesiminde yirmi bir kilometrekarelik tek bir adadan oluşan devlettir.[^k1] Ada, on dokuzuncu yüzyıl sonunda bir Avrupa devletince ilhak edildi ve o tarihten ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Burada emanetçi, emanet edilen kaynağın alıcısıydı.[^k1] Fosfat, ödenen bedelle dünya piyasasının çok altında satın alınıyordu.",
+      "sorun": "Makale okyanusya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Bağımsızlık sonrası gelir hızla arttı.[^k1] Kişi başına gelir, kısa bir dönem için dünyanın en yüksekleri arasında ölçüldü.",
+      "sorun": "Makale okyanusya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas erimeyi tek nedene bağlamaz.[^k3] Sayılan üç etkenin ağırlığı ölçülmemiştir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Uyumsuzluk tek cümleyle ifade edilebilir.[^k3] **Bir gelir kaynağı, onu yönetecek kurum kurulmadan önce akmaya başlarsa, kurumun kurulması için gereken teşvik de ortadan kalkar.**",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, ölçeği bir kısıt olduğu kadar bir gözlem imkânı da yapar.[^k3] Büyük bir ülkede bölgesel olarak dağılacak bir süreç, burada tek bir birimde ve tümüyle izlenebilir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlasın Okyanusya dosyaları, küçük ada devletleri için ortak bir kısıt gösterir.[^k3] Gelir kaynağı çeşitlendirilemediğinde, tek bir kalemdeki değişim bütün ekonomiyi etkiler.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

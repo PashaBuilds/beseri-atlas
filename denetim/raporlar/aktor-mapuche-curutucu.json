@@ -1,0 +1,56 @@
+{
+  "id": "aktor-mapuche",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.143Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Direnişin dikkat çeken yanı, karşısındaki güçlerin sahip olduğu merkezî yapıyı taşımamasıdır.[^k1] Bölgede tek bir hükümdar, tek bir başkent ve tek bir ordu yoktu.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas coğrafyayı tek neden saymaz.[^k2] Coğrafya bir maliyet dağılımı kurar; kararları insanlar verir ve aynı coğrafyada başka sonuçlar da mümkündü.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, atlasın Aşanti dosyasında ölçtüğü örüntüyle aynıdır.[^k1] Askerî üstünlüğün yön değiştirmesi tek bir silahla değil bir bileşimle gerçekleşir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sınırın iki yanında da karma nüfus oluştu.[^k1] Esir alma, kaçış, evlilik ve ticaret, iki taraf arasında sürekli bir insan geçişi üretiyordu; bu geçiş tek yönlü değildi ve her iki ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu geçiş, iki tarafı da değiştirdi.[^k2] Dil, giyim, hayvancılık ve savaş teknikleri her iki yönde de aktarıldı ve aktarım tek yönlü olmadı.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu nedenle \"etki\" sözcüğünü tek yönlü kullanmaz.[^k3] Bir sınır bölgesinde etkinin yönünü belirlemek, ancak her unsur için ayrı ayrı sorularak yapılabilir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sınırın durmasının tek nedeni belirlenmez.[^k2] Coğrafya, örgütlenme biçimi ve at uyumu ayrı ayrı etkendir ve ağırlıkları ölçülmemiştir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

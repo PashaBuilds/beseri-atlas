@@ -1,0 +1,35 @@
+{
+  "id": "veri-ticaret-payi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.171Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Veri kümesinde dünya toplamı için 1970'ten önce gözlem bulunmaz.[^k1] Bu, serinin en önemli sınırıdır ve dosyanın adında da belirtilmiştir.",
+      "sorun": "\"en önemli\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sınır önemlidir çünkü serinin gösterdiği yükseliş, tarihteki tek yükseliş değildir.[^k3] Atlasın kavram dosyaları daha erken dalgaları kaydeder; bu seri onları göstermez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden oranı bir ticaret hacmi değil bir dışa açıklık göstergesi olarak kaydeder.[^k1] Oranın artması, ticaretin arttığını gösterir ama ne kadar arttığını doğrudan vermez.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden seriden bir düzen çıkarımı yapmaz.[^k1] Seri bir sonucu ölçer; sonucu üreten düzeni göstermez.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

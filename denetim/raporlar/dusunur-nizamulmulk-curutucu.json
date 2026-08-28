@@ -1,0 +1,42 @@
+{
+  "id": "dusunur-nizamulmulk",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.160Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosyanın atlasa kattığı asıl şey, tek bir kişinin kaydı değil bir karşılaştırma imkânıdır. [Karahanlılar](/aktor/karahanlilar/) dosyasında ele alınan *Kutadgu Bilig* de bir hükü",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki metin aynı türe aittir ama farklı dillerde ve farklı siyasi merkezlerde yazılmıştır.[^k2][^k3] Bu, türün tek bir hanedana ya da tek bir dile bağlı olmadığını gösterir: yönetici",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "yuksek",
+      "tip": "anakronizm",
+      "cumle": "[Bürokrasi](/kavram/burokrasi/) dosyası, yönetimin kurallara bağlanmasını kavram düzeyinde ele alır. Bu dosya, o kavramın bir dönemdeki somut karşılığını verir: görevlilerin deneti",
+      "sorun": "\"bürokrasi\" kavramı yaklaşık 1750'den itibaren kullanılıyor; makale 1092'te bitiyor.",
+      "oneri": "Kavramı dönemin kendi diliyle değiştir ya da geriye dönük okuma olduğunu açıkça belirt."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Eserin farklı yazma nüshaları arasında bölüm sayısı ve içerik bakımından farklar bulunduğu kaydedilir.[^k2] Bu, tek bir çeviriye bağlanmanın sınırını gösterir: çeviri, çevirmenin s",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "yuksek",
+      "tip": "anakronizm",
+      "cumle": "Kavram tarafından girmek isteyen okuyucu için [Meşruiyet](/kavram/mesruiyet/) ve [Bürokrasi](/kavram/burokrasi/) dosyaları, bu metnin konularının bugünkü adlarını verir.",
+      "sorun": "\"bürokrasi\" kavramı yaklaşık 1750'den itibaren kullanılıyor; makale 1092'te bitiyor.",
+      "oneri": "Kavramı dönemin kendi diliyle değiştir ya da geriye dönük okuma olduğunu açıkça belirt."
+    }
+  ]
+}

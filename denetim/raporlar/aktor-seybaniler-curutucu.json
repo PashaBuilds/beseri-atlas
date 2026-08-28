@@ -1,0 +1,63 @@
+{
+  "id": "aktor-seybaniler",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.149Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaydın tek taraflı olduğu belirtilmelidir.[^k1] Yenilen tarafın kendi anlatısıdır ve karşı tarafın kaydı aynı ayrıntıda değildir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Süreklilik, hanedan değişiminin toplumsal etkisini sınırlar.[^k2] Atlas hanedan değişimi ile düzen değişimini ayrı ayrı ölçer; ikisi her zaman birlikte gerçekleşmez.",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bölge bundan sonra tek merkezden yönetilmedi.[^k2] Üç ayrı hanlık biçimindeki düzen bu dağılmadan doğdu.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İlişkilendirme çoğu zaman tek yönlü kurulur.[^k4] Deniz yollarının açılması, kara ticaretinin çöküşünün nedeni sayılır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Hanların tek tek listesi ve saltanat süreleri verilmez.[^k1] Kaynaklar bu konuda örtüşmez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Batıdaki rakiple çatışmanın tek neden olduğu da söylenmez.[^k2] Ticaret yönündeki değişim birden çok etkenin sonucudur.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Batıdaki rakiple çatışmanın tek neden olduğu da söylenmez.[^k2] Ticaret yönündeki değişim birden çok etkenin sonucudur.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Yerini alınan düzen için [Timur İmparatorluğu](/aktor/timur-imparatorlugu/), yenilginin sonucunda kurulan devlet için [Bâbür İmparatorluğu](/aktor/babur-imparatorlugu/) dosyaları o",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

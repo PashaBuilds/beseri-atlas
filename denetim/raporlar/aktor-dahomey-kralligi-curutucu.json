@@ -1,0 +1,70 @@
+{
+  "id": "aktor-dahomey-kralligi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.131Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dahomey Krallığı, Batı Afrika kıyısının hemen iç kesiminde kurulmuş, merkezî yapısı güçlü bir düzendir.[^k1] Komşularının çoğundan farklı olarak yetki tek bir merkezde toplanmıştı.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu zorunluluğu ayrıca kaydeder.[^k3] **Geliri tek bir dış talebe bağlı bir düzen, o talep kesildiğinde yalnızca yoksullaşmaz; iç düzenini de yeniden kurmak zorunda kalır.**",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki dönem arasında ortak nokta vardır.[^k1] Her ikisinde de gelir tek bir dış pazara ve tek bir ürüne bağlıydı.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bunu tek ürüne bağlanma dosyasına bağlar.[^k2] Ölçüt aynıdır: gelirin kaç kaynaktan geldiği ve kararın nerede alındığı.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İkincisinin işi raporlamaktı.[^k2] Böylece merkez, tek bir kaynağa bağlı kalmadan bilgi alıyordu.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Bu, yazılı kayıt tutan düzenlerle arasındaki farkı büyütür.[^k2] Elde kalan sayısal bilgi neredeyse tamamen dış gözlemcilerden gelir.",
+      "sorun": "Kesinlik ifadesi \"tamamen\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kesinlik-dili",
+      "cumle": "Bu, atlasın veraset dosyasındaki açık yarış biçimine yakındır.[^k2] Aday sayısı fazlaydı ve geçişler her zaman sorunsuz olmadı.",
+      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bu, dış baskı geldiğinde direncin bölünmesine yol açtı.[^k2] Ortak bir savunma güçlükle kuruldu.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Gelir kaynağının bağlamı için [Atlantik köle ticareti](/olay/atlantik-kole-ticareti/), bağımlılık yapısı için [Tek ürüne bağlanma](/kavram/pamuk-tek-urun/) dosyaları uygundur.[^k2]",
+      "sorun": "\"Tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

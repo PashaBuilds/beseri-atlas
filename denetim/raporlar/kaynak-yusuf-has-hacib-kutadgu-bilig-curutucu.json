@@ -1,0 +1,21 @@
+{
+  "id": "kaynak-yusuf-has-hacib-kutadgu-bilig",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.177Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir siyaset metninin öğüt yerine konuşma biçimini seçmesi, kendi başına bir tercihtir.[^k2] Öğüt tek yönlüdür ve itiraz taşımaz; konuşma, itirazın metnin içinde bulunmasını gerekti",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Metin tek bir nüshadan gelmez ve nüshalar arasında farklar bulunur.[^k2][^k3] Bu, atlasın elyazması kaynaklarında olağan bir durumdur ve künyede ayrıca gösterilmez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

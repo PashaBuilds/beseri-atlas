@@ -1,0 +1,50 @@
+## dusunur-ibn-battuta
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:07:25.856Z_
+
+- [OK]      k1 → "İbn Battûta, Kuzey Afrika'dan yola çıkıp uzun yıllar süren yolculuklar yapmış ve dönüşünde gezdiklerini bir me…"
+- [OK]      k3 → "İbn Battûta, Kuzey Afrika'dan yola çıkıp uzun yıllar süren yolculuklar yapmış ve dönüşünde gezdiklerini bir me…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- undefined k2 → "Çoğu düşünür bir ya da iki bölge etiketi taşır; burada etiketlerin çokluğu, kişinin kendisinden çok bıraktığı …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bıraktığı metin, gezdiği bölgelerin bir kısmı için elimizdeki en ayrıntılı çağdaş kayıttır ve bu metin üzerind…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bıraktığı metin, gezdiği bölgelerin bir kısmı için elimizdeki en ayrıntılı çağdaş kayıttır ve bu metin üzerind…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Metin, yolculukların bitiminde, gezginin anlattıklarının bir kâtip tarafından yazıya geçirilmesiyle oluşmuştur…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Metin, yolculukların bitiminde, gezginin anlattıklarının bir kâtip tarafından yazıya geçirilmesiyle oluşmuştur…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Anlatılanların yıllar sonra hatırlanarak aktarılması, ayrıntıların bulanıklaşmasına açık bir durumdur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Kâtibin metne kendi katkısını yapmış olması da tartışılan konular arasındadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Kâtibin metne kendi katkısını yapmış olması da tartışılan konular arasındadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Metnin bazı bölümlerinin, gezginin kendi gözlemi değil daha önceki yazarlardan alınmış aktarımlar olduğu ileri…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Metnin bazı bölümlerinin, gezginin kendi gözlemi değil daha önceki yazarlardan alınmış aktarımlar olduğu ileri…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bazı yolculukların gerçekten yapılıp yapılmadığı da tartışılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Metinden alınan her iddia, o bölümün gözleme mi aktarıma mı dayandığı sorusuyla birlikte taşınmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Atlas bu tartışmada taraf tutmaz ve metni bu çekince ile kullanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlas bu tartışmada taraf tutmaz ve metni bu çekince ile kullanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Metnin kapsadığı alanın genişliği, tek bir kişinin gözlemiyle açıklanamayacak kadar büyüktür ve bu, metnin nas…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Metnin kapsadığı alanın genişliği, tek bir kişinin gözlemiyle açıklanamayacak kadar büyüktür ve bu, metnin nas…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Güzergâhın hangi kurumlar üzerinden ilerlediği kaydedilir: hac yolları, ticaret merkezleri ve hukuk görevliler…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Metin, gezilen dünyanın tamamını değil, o dünyanın kurumlarla bağlantılı kesitini gösterir; kırsal ve ağ dışı …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Sessizlik, kaydın kapsamının sınırını gösterir; gerçekliğin sınırını değil." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Metnin Batı Afrika bölümü, atlasın Afrika kapsamı açısından ayrı bir ağırlık taşır." — 1 atom doğrulandı; 1 ad ölçülemedi
+- undefined k2 → "Kaydın seyrekliği, ona duyulan ihtiyacı artırır ve aynı anda riskini de büyütür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "ile aynı yüzyılda yaşamış olmaları, iki farklı bilgi üretme biçiminin yan yana durduğunu gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Metnin kaydettiği güzergâhlar, dönemin ticaret ve hac ağlarını izler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Gezginin gittiği yerlerde karşılandığı ve görevlendirildiği anlatılır; bu, metnin anlattığı dünyanın yalnızca …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu dosya üç kaynağa dayanır: kişi üzerine bir ansiklopedi maddesi, metnin birinci cildinin tam metni ve bir gi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu dosya üç kaynağa dayanır: kişi üzerine bir ansiklopedi maddesi, metnin birinci cildinin tam metni ve bir gi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu dosya üç kaynağa dayanır: kişi üzerine bir ansiklopedi maddesi, metnin birinci cildinin tam metni ve bir gi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Metnin diğer ciltleri için bulunan arşiv kayıtlarının katalog künyelerinde yazar alanı boştu; yalnızca başlık …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu yüzden doğrulanmamış künyeli ciltler reddedilmiş, üçüncü kaynak olarak havuzun makale başına bir taneye izi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Güzergâhın Hindistan, Maldivler ve Çin bölümleri burada işlenmez; her biri ayrı dosyalar gerektirir ve bu dosy…"
+- undefined k1 → "Metnin elimize ulaşan hâli, doğrudan yazarın kaleminden çıkmış bir nüsha değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Metnin elimize ulaşan hâli, doğrudan yazarın kaleminden çıkmış bir nüsha değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Çevirmen belirli nüshaları esas alır ve o seçim metnin kapsamını belirler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Atlasın bu bölgeye ait kapsamı, dosya yazıldığında korpusun en dar kümelerinden biriydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Metin, atlasın kaynak kuralının hem en iyi hem en zor örneğini birlikte sunar: bir bölge hakkında dönemin için…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Metin, atlasın kaynak kuralının hem en iyi hem en zor örneğini birlikte sunar: bir bölge hakkında dönemin için…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Kaynağın seyrek olduğu her yerde, eldeki tek kaydın ağırlığı artar ve onunla birlikte o kaydın eğilimlerinin t…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Aynı yüzyılın çözümleyici tarafı için , metnin batı bölümünün konusu için dosyaları okunmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Metnin kendisine yapılacak atıflarda cilt ve bölüm numarası belirtilmeli, o bölümün gözleme mi aktarıma mı day…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu dosya metnin ne anlattığını özetlemez; metnin ne tür bir kayıt olduğunu ve hangi çekincelerle kullanılması …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu dosya metnin ne anlattığını özetlemez; metnin ne tür bir kayıt olduğunu ve hangi çekincelerle kullanılması …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bir seyahatnamenin özeti, hangi bölümün gözleme hangisinin aktarıma dayandığı ayrımını kaçınılmaz olarak siler…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Dosya, metnin varlığını ve niteliğini kaydeder; içindeki iddiaların doğruluğu hakkında hüküm vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+
+**Özet:** 4 OK · 0 ISARET · 0 HATA

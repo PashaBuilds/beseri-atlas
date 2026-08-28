@@ -1,0 +1,91 @@
+{
+  "id": "aktor-ilhanlilar",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.136Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "yuksek",
+      "tip": "anakronizm",
+      "cumle": "Kuzeydeki kol, bozkır nüfusunun dilini benimsedi ve göçer düzenle bağını korudu.[^k1] Buradaki kol, yerleşik bir devlet geleneğinin bürokrasisini devraldı ve o geleneğin diliyle yö",
+      "sorun": "\"bürokrasi\" kavramı yaklaşık 1750'den itibaren kullanılıyor; makale 1353'te bitiyor.",
+      "oneri": "Kavramı dönemin kendi diliyle değiştir ya da geriye dönük okuma olduğunu açıkça belirt."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Değişimin biçimi kuzeydeki koldan farklıdır.[^k2] Orada süreç kademeli ve geri dönüşlüydü; burada tek bir hükümdarın kararıyla ve hızlı gerçekleşti.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Düzenin en kalıcı ürünü, sarayın görevlendirmesiyle yazılmış bir tarih derlemesidir.[^k4] Derleme, Moğol tarihiyle başlar ve bilinen dünyanın öteki bölgelerini de kapsar.",
+      "sorun": "Makale orta-asya/islam-dunyasi kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yöntemin dönemindeki karşılığı seyrektir.[^k4] Aynı yüzyılda yazılmış öteki tarih derlemelerinin çoğu tek bir bölgeyi ve tek bir kaynak geleneğini izler.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Düzenin kurucusu, atlasın [Bağdat kuşatması](/olay/bagdat-kusatmasi-1258/) dosyasında anlatılan seferi yürüten kişidir.[^k1] Düzen, o seferin sonucunda kurulan yönetimin devamıdır.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "İki kolun rekabeti bu yüzden ticari bir boyut da taşır.[^k1] Hangi güzergâhın güvenli olduğu, gelirin hangi hanedana gideceğini belirliyordu.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "yuksek",
+      "tip": "anakronizm",
+      "cumle": "Bu, atlasın bozkır kökenli düzenleri arasında görece elverişli bir durumdur.[^k4] Yerleşik bürokrasinin devralınması, kayıt tutma kapasitesini de devralmak demektir.",
+      "sorun": "\"bürokrasi\" kavramı yaklaşık 1750'den itibaren kullanılıyor; makale 1353'te bitiyor.",
+      "oneri": "Kavramı dönemin kendi diliyle değiştir ya da geriye dönük okuma olduğunu açıkça belirt."
+    },
+    {
+      "ciddiyet": "yuksek",
+      "tip": "anakronizm",
+      "cumle": "Karşılaştırmanın sonucunu atlas yazmaz.[^k1] Hangi etkenin belirleyici olduğu — nüfus oranı, yerleşik bürokrasinin varlığı, coğrafya — ayrı ayrı incelenmelidir.",
+      "sorun": "\"bürokrasi\" kavramı yaklaşık 1750'den itibaren kullanılıyor; makale 1353'te bitiyor.",
+      "oneri": "Kavramı dönemin kendi diliyle değiştir ya da geriye dönük okuma olduğunu açıkça belirt."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, atlasın kaydettiği bir örüntünün örneğidir.[^k3] Kıtalar arası bir siyasi ağ, yalnızca mal ve metin değil gözlem verisi de taşır; farklı geleneklerin ölçümleri tek bir yerde ka",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Çevre koşulları da tek bir değişkene indirgenemez.[^k1] Yerleşik bürokrasinin varlığı, nüfus oranı, iklim ve ticaret güzergâhı aynı anda farklıydı.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "yuksek",
+      "tip": "anakronizm",
+      "cumle": "Çevre koşulları da tek bir değişkene indirgenemez.[^k1] Yerleşik bürokrasinin varlığı, nüfus oranı, iklim ve ticaret güzergâhı aynı anda farklıydı.",
+      "sorun": "\"bürokrasi\" kavramı yaklaşık 1750'den itibaren kullanılıyor; makale 1353'te bitiyor.",
+      "oneri": "Kavramı dönemin kendi diliyle değiştir ya da geriye dönük okuma olduğunu açıkça belirt."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden karşılaştırmayı bir kanıt değil bir soru olarak sunar.[^k4] İki dosyanın yan yana durması hangi etkenin belirleyici olduğunu göstermez; sorunun sorulabilir hâle gel",
+      "sorun": "Nedensellik iddiası tek kaynağa (k4) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "kaynak-orhon-yazitlari",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.176Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlasın kaynak katmanı, bu dosya yazılana kadar Orta Asya'dan tek bir metin içermiyordu.[^k3] Bölgenin aktör katmanında altı dosya bulunurken kendi sesini taşıyan hiçbir kayıt yokt",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sağlanan şey mutlak güvenilirlik değildir. Taş da aşınır, kırılır, eksik okunur ve okuma tercihleri değişir;[^k2][^k3] kaynağın ilk yayını tıpkıbasımları da sunduğu için okuma terc",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas metni bu yüzden bir olgu kaydı olarak değil, bir devletin kendini nasıl anlattığının kaydı olarak kullanır.[^k3] İki kullanım arasındaki fark, kaynağın nereye kadar dayandığı",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

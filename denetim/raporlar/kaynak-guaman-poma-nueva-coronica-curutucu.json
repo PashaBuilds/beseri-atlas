@@ -1,0 +1,28 @@
+{
+  "id": "kaynak-guaman-poma-nueva-coronica",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.173Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Yazarın suçlaması belirli bir yere oturur. Kötü yönetimin kaynağı inanç farkı değil, görevlilerin uygulamalarıdır;[^k2] metin bu yüzden kralı karşısına almaz, ona bir düzeltme öner",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlasın kaynak katmanı bu dosya yazılana kadar Amerika'dan tek bir yerli metin içermiyordu.[^k3] Kıtaya bağlanan kaynak dosyalarının tamamı, çok sonra yazılmış Avrupa ve Kuzey Amer",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden dosyada çizimleri metnin parçası sayar.[^k2] Metne yapılacak atıflarda yalnızca sayfa değil, sayfadaki çizimin de kastedilip kastedilmediği belirtilmelidir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

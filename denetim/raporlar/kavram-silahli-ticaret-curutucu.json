@@ -1,0 +1,42 @@
+{
+  "id": "kavram-silahli-ticaret",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.167Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Düzeneğin ilk sistemli uygulaması, geçiş izni belgesiyle işledi.[^k3] Belirli bir sularda seyreden her gemiden izin belgesi taşıması istendi; taşımayan gemi yükü ve gemisiyle birli",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Geçiş izni, tek başına büyük bir gelir kalemi değildi.[^k3] Asıl işlevi, hangi malın nereye gideceğini ve hangi limanın gelişip hangisinin söneceğini belirleyebilmekti.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Düzeneğin olgun hâli, ticaret ile askerî gücü tek bir tüzel kişilikte birleştiren şirketlerdir.[^k3] Bu şirketler ordu besleme, kale kurma, antlaşma yapma ve savaş ilan etme yetkis",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden ikisini ayrı dosyalarda tutar.[^k2] Öğreti ile pratik arasındaki fark, ancak ayrı ayrı kaydedildiğinde ölçülebilir.",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Düzeneğin çatıştığı ticaret ağı için [Hint Okyanusu ticareti](/kavram/hint-okyanusu-ticareti/), ilk sistemli uygulandığı liman için [Malaka Sultanlığı](/aktor/malaka-sultanligi/) d",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

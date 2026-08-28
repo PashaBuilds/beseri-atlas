@@ -1,0 +1,70 @@
+{
+  "id": "aktor-yeni-hebridler-ortak-yonetimi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.153Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, olağan bir sömürge düzeni değildir.[^k2] Olağan biçimde bir bölge tek bir yönetime bağlanır.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki devletin adalarda yerleşimcileri ve ticari çıkarları vardı.[^k1] Hiçbiri diğerinin tek başına yönetmesini kabul etmedi.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas gerekçeyi kaydeder ama tek başına yeterli saymaz.[^k2] Bir düzensizliği durdurmak, yerine kurulan düzenin niteliğini belirlemez.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas girişimi ikili yönetimin mirası sayar.[^k3] Yetmiş yıl boyunca iki ayrı merkeze, iki ayrı okula ve iki ayrı mahkemeye bağlanmış topluluklar, tek bir merkeze geçerken kendiliğ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yeni devletin ilk kararlarından biri toprakla ilgiliydi.[^k1] Sömürge döneminde edinilen topraklar üzerinde geleneksel sahiplerin hakkı tanındı.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu yönetim biçimi tek örnek değildir.[^k1] Başka bölgelerde de iki devletin aynı toprağı birlikte yönettiği düzenler kuruldu.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Nedeni, değişimin bir tarafın kazanması anlamına gelmesiydi.[^k3] İki devlet de diğerinin tek başına kalmasını kabul etmiyordu.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Adalardaki toplulukların kendi iç düzenleri ayrıntılı ele alınmaz.[^k2] Adaların her birinde farklı diller ve farklı yetki biçimleri bulunması, bunu tek bir dosyada toplanamaz hâle",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Adaların ilk haritalanması için [James Cook — Güney Kutbuna Doğru Yolculuk](/kaynak/cook-guney-seyir-defteri/) dosyası okunmalıdır.[^k2]",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

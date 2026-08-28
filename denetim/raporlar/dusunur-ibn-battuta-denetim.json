@@ -1,0 +1,277 @@
+{
+  "id": "dusunur-ibn-battuta",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:25.856Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "İbn Battûta, Kuzey Afrika'dan yola çıkıp uzun yıllar süren yolculuklar yapmış ve dönüşünde gezdiklerini bir metin hâlinde bıraktırmıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İbn Battûta, Kuzey Afrika'dan yola çıkıp uzun yıllar süren yolculuklar yapmış ve dönüşünde gezdiklerini bir metin hâlinde bıraktırmıştır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Çoğu düşünür bir ya da iki bölge etiketi taşır; burada etiketlerin çokluğu, kişinin kendisinden çok bıraktığı metnin kapsamından gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bıraktığı metin, gezdiği bölgelerin bir kısmı için elimizdeki en ayrıntılı çağdaş kayıttır ve bu metin üzerinden okunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bıraktığı metin, gezdiği bölgelerin bir kısmı için elimizdeki en ayrıntılı çağdaş kayıttır ve bu metin üzerinden okunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metin, yolculukların bitiminde, gezginin anlattıklarının bir kâtip tarafından yazıya geçirilmesiyle oluşmuştur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metin, yolculukların bitiminde, gezginin anlattıklarının bir kâtip tarafından yazıya geçirilmesiyle oluşmuştur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Anlatılanların yıllar sonra hatırlanarak aktarılması, ayrıntıların bulanıklaşmasına açık bir durumdur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kâtibin metne kendi katkısını yapmış olması da tartışılan konular arasındadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kâtibin metne kendi katkısını yapmış olması da tartışılan konular arasındadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin bazı bölümlerinin, gezginin kendi gözlemi değil daha önceki yazarlardan alınmış aktarımlar olduğu ileri sürülür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin bazı bölümlerinin, gezginin kendi gözlemi değil daha önceki yazarlardan alınmış aktarımlar olduğu ileri sürülür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bazı yolculukların gerçekten yapılıp yapılmadığı da tartışılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metinden alınan her iddia, o bölümün gözleme mi aktarıma mı dayandığı sorusuyla birlikte taşınmalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlas bu tartışmada taraf tutmaz ve metni bu çekince ile kullanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlas bu tartışmada taraf tutmaz ve metni bu çekince ile kullanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin kapsadığı alanın genişliği, tek bir kişinin gözlemiyle açıklanamayacak kadar büyüktür ve bu, metnin nasıl kurulduğu sorusunu doğurur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin kapsadığı alanın genişliği, tek bir kişinin gözlemiyle açıklanamayacak kadar büyüktür ve bu, metnin nasıl kurulduğu sorusunu doğurur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Güzergâhın hangi kurumlar üzerinden ilerlediği kaydedilir: hac yolları, ticaret merkezleri ve hukuk görevlilerinin bulunduğu şehirler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metin, gezilen dünyanın tamamını değil, o dünyanın kurumlarla bağlantılı kesitini gösterir; kırsal ve ağ dışı alanlar bu kayıtta seyrek görünür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sessizlik, kaydın kapsamının sınırını gösterir; gerçekliğin sınırını değil.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metnin Batı Afrika bölümü, atlasın Afrika kapsamı açısından ayrı bir ağırlık taşır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaydın seyrekliği, ona duyulan ihtiyacı artırır ve aynı anda riskini de büyütür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "ile aynı yüzyılda yaşamış olmaları, iki farklı bilgi üretme biçiminin yan yana durduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metnin kaydettiği güzergâhlar, dönemin ticaret ve hac ağlarını izler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gezginin gittiği yerlerde karşılandığı ve görevlendirildiği anlatılır; bu, metnin anlattığı dünyanın yalnızca belirli bir kesitini — kurumlarla bağlantılı olanı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya üç kaynağa dayanır: kişi üzerine bir ansiklopedi maddesi, metnin birinci cildinin tam metni ve bir giriş kapısı maddesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu dosya üç kaynağa dayanır: kişi üzerine bir ansiklopedi maddesi, metnin birinci cildinin tam metni ve bir giriş kapısı maddesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya üç kaynağa dayanır: kişi üzerine bir ansiklopedi maddesi, metnin birinci cildinin tam metni ve bir giriş kapısı maddesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metnin diğer ciltleri için bulunan arşiv kayıtlarının katalog künyelerinde yazar alanı boştu; yalnızca başlık eşleşiyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu yüzden doğrulanmamış künyeli ciltler reddedilmiş, üçüncü kaynak olarak havuzun makale başına bir taneye izin verdiği giriş kapısı kullanılmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Güzergâhın Hindistan, Maldivler ve Çin bölümleri burada işlenmez; her biri ayrı dosyalar gerektirir ve bu dosya yazıldığında atlasta bulunmuyorlardı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin elimize ulaşan hâli, doğrudan yazarın kaleminden çıkmış bir nüsha değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin elimize ulaşan hâli, doğrudan yazarın kaleminden çıkmış bir nüsha değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Çevirmen belirli nüshaları esas alır ve o seçim metnin kapsamını belirler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Atlasın bu bölgeye ait kapsamı, dosya yazıldığında korpusun en dar kümelerinden biriydi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metin, atlasın kaynak kuralının hem en iyi hem en zor örneğini birlikte sunar: bir bölge hakkında dönemin içinden yazılmış ender bir kayıt, aynı zamanda güvenil",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metin, atlasın kaynak kuralının hem en iyi hem en zor örneğini birlikte sunar: bir bölge hakkında dönemin içinden yazılmış ender bir kayıt, aynı zamanda güvenil",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaynağın seyrek olduğu her yerde, eldeki tek kaydın ağırlığı artar ve onunla birlikte o kaydın eğilimlerinin taşınma riski de artar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yüzyılın çözümleyici tarafı için , metnin batı bölümünün konusu için dosyaları okunmalıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metnin kendisine yapılacak atıflarda cilt ve bölüm numarası belirtilmeli, o bölümün gözleme mi aktarıma mı dayandığı ayrıca not edilmelidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya metnin ne anlattığını özetlemez; metnin ne tür bir kayıt olduğunu ve hangi çekincelerle kullanılması gerektiğini anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu dosya metnin ne anlattığını özetlemez; metnin ne tür bir kayıt olduğunu ve hangi çekincelerle kullanılması gerektiğini anlatır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir seyahatnamenin özeti, hangi bölümün gözleme hangisinin aktarıma dayandığı ayrımını kaçınılmaz olarak siler; oysa bu metinde ayrımın kendisi, anlatılan içeri",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dosya, metnin varlığını ve niteliğini kaydeder; içindeki iddiaların doğruluğu hakkında hüküm vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

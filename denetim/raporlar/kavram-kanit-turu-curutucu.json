@@ -1,0 +1,56 @@
+{
+  "id": "kavram-kanit-turu",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.165Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kural tek cümleyle ifade edilebilir.[^k3] **Bir yazının varlığı, o yazının okunabildiği anlamına gelmez; okunamayan yazı bir metin değil bir nesnedir.**",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Okunabilir yazılı kayıt da tek bir tür değildir.[^k1] Atlasın Kırgızlar dosyasında üçüncü bir ayrım ölçüldü: metnin uzunluğu ve amacı.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kural tek cümleyle ifade edilebilir.[^k1] **Bir metnin ne söyleyebileceği, okunabilirliği kadar hangi amaçla yazıldığına da bağlıdır.**",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kanıt dağılımını bozan iki mekanizma atlasta ayrı ayrı ölçüldü.[^k1] Birincisi dijital erişim eşitsizliğidir: aynı dönemin bazı bölge metinleri tek aramada bulunurken bazıları hiç ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kazı yoğunluğu sorunu tek cümleyle ifade edilebilir.[^k3] **En erken tarih, kazılmış alanların en erken tarihidir; kazılmamış alanlar hakkında bir şey söylemez.**",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı ifade metin kaynakları için de kurulabilir.[^k1] En erken kayıt, korunmuş kayıtların en erkenidir; korunmamış olanlar hakkında bir şey söylemez.",
+      "sorun": "\"En erken\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu iki cümleyi öncelik iddialarının yanına yazar.[^k2] Bir unsurun \"ilk kez şurada ortaya çıktığı\" iddiası, bu kısıt belirtilmeden aktarılmaz.",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

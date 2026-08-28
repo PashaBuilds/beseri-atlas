@@ -1,0 +1,28 @@
+{
+  "id": "aktor-harizmsahlar",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.133Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Bu dosyanın birden çok bölge etiketi taşıması da bu yüzdendir. Hânedanın merkezi ile genişlediği alan farklı kümelere düşer;[^k1] tek etiket seçmek, ikisinden birini görünmez kılar",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosyanın birden çok bölge etiketi taşıması da bu yüzdendir. Hânedanın merkezi ile genişlediği alan farklı kümelere düşer;[^k1] tek etiket seçmek, ikisinden birini görünmez kılar",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu dosyanın bağlandığı çağdaş kayıt iki cilttir ve ikisi de ayrı ayrı bağlanmıştır.[^k2][^k3] Esere yapılacak atıflarda cilt numarasının belirtilmesi zorunludur; iki cilt farklı dö",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

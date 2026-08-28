@@ -1,0 +1,63 @@
+{
+  "id": "aktor-malaka-sultanligi",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.141Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Buna rağmen bir yüzyıl içinde bölgenin en büyük ticaret merkezi hâline geldi.[^k4] Bu yükselişin açıklaması coğrafi konumdadır ve atlasın [Hint Okyanusu ticareti](/kavram/hint-okya",
+      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu ilişkiyi tek yönlü kurmaz.[^k2] İnancın ticaret için benimsendiğini söylemek de ticaretin inanç sayesinde geliştiğini söylemek de aynı kayıtlardan çıkarılabilir; ikisi de ",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu ilişkiyi tek yönlü kurmaz.[^k2] İnancın ticaret için benimsendiğini söylemek de ticaretin inanç sayesinde geliştiğini söylemek de aynı kayıtlardan çıkarılabilir; ikisi de ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu sultanlık, atlasın Güneydoğu Asya dosyaları arasında kendi saray anlatısını bırakmış olan tek örnektir.[^k2] Metin, hanedanın kökenini, kuruluşu ve saray düzenini kendi ağzından",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, atlasın [Mandala devleti](/kavram/mandala-devleti/) dosyasında tanımlanan yapının bir örneğidir: bölgede egemenlik tek bir merkezde toplanmaz, iç içe geçmiş etki alanları hâlin",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu ayrım, atlasın dil yayılımı hakkında tek bir açıklamaya bağlanmamasının gerekçelerinden biridir.[^k1] Fetih, göç ve ticaret ayrı yayılma yollarıdır ve bıraktıkları iz de aynı de",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Atlas bu yüzden bu dosyada bir nüfus ya da hacim rakamı vermez.[^k1] Sayıların nasıl okunacağı sorusu atlasın ayrı bir dosyasında ele alınır ve bu dosyadaki değerlendirmeler mutlak",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bir siyasi birimin atlasa girme ölçütü süresi değil, bir yapıyı ne kadar açık gösterdiğidir.[^k1] Bu sultanlık, geçit üzerine kurulan bir devletin nasıl yükselip nasıl çözüldüğünü ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

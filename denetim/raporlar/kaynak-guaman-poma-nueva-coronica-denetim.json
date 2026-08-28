@@ -1,0 +1,139 @@
+{
+  "id": "kaynak-guaman-poma-nueva-coronica",
+  "gecis": 2,
+  "zaman": "2026-08-28T18:07:26.662Z",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Nueva Corónica, fethedilen tarafın kendi kalemiyle yazıp fetheden devletin kralına gönderdiği bin sayfayı aşan bir metindir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Nueva Corónica, fethedilen tarafın kendi kalemiyle yazıp fetheden devletin kralına gönderdiği bin sayfayı aşan bir metindir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Önce bölgenin fetihten önceki düzenini kendi ölçütleriyle anlatır; sonra fetihten sonra kurulan yönetimi görev görev, uygulama uygulama suçlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Önce bölgenin fetihten önceki düzenini kendi ölçütleriyle anlatır; sonra fetihten sonra kurulan yönetimi görev görev, uygulama uygulama suçlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kötü yönetimin kaynağı inanç farkı değil, görevlilerin uygulamalarıdır; metin bu yüzden kralı karşısına almaz, ona bir düzeltme önerisi sunar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Amerika kıtasının fetih dönemi hakkında bilinenlerin büyük bölümü fetheden tarafın kayıtlarından gelir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yazar bölgenin kendisindendir, yerel dili ve İspanyolcayı birlikte kullanır ve olayları kendi ölçütleriyle değerlendirir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İspanyolcayı"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yazar bölgenin kendisindendir, yerel dili ve İspanyolcayı birlikte kullanır ve olayları kendi ölçütleriyle değerlendirir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İspanyolcayı"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Atlasın kaynak katmanı bu dosya yazılana kadar Amerika'dan tek bir yerli metin içermiyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metin dört yüz kadar çizimle birlikte gider ve çizimler süsleme değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metin dört yüz kadar çizimle birlikte gider ve çizimler süsleme değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir metnin kanıt katmanı yalnızca cümlelerinden ibaret olmayabilir; görsel düzen de bir iddia taşır ve ayrıca okunması gerekir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Atlas bu yüzden dosyada çizimleri metnin parçası sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin krala ulaşıp ulaşmadığı bilinmez ve elyazması yüzyıllarca kayıptı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metin, yazıldığı dönemin siyasi tartışmasına katılmamıştır; dolayısıyla dönemin gidişatı üzerinde bir etkisi olduğu ileri sürülemez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tam da ulaşmadığı için metin, sonradan yumuşatılmamış ve bir yayın süreci içinde düzeltilmemiştir; yazıldığı hâliyle durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tam da ulaşmadığı için metin, sonradan yumuşatılmamış ve bir yayın süreci içinde düzeltilmemiştir; yazıldığı hâliyle durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosya metnin ne olduğunu ve atlasta ne işe yaradığını kaydeder; bölüm bölüm içeriğini vermez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yazarın hayatı, soy iddiası ve bu iddianın doğruluğu burada işlenmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metnin verdiği yönetim bilgilerinin başka kaynaklarla karşılaştırılması da kapsam dışıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metne yapılacak atıflarda cilt ve sayfa numarası ile çizim numarası ayrı ayrı belirtilmelidir; kaynak her iki cildi de tam olarak sunar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metne yapılacak atıflarda cilt ve sayfa numarası ile çizim numarası ayrı ayrı belirtilmelidir; kaynak her iki cildi de tam olarak sunar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

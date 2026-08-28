@@ -1,0 +1,14 @@
+{
+  "id": "kaynak-timbuktu-tarihleri",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.177Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlasın kaynak katmanı bu dosya yazılana kadar Afrika'dan tek bir metin içermiyordu.[^k3] Kıtaya bağlanan kaynak dosyalarının tamamı, çok sonra yazılmış Avrupa kaynaklı metinlerdi;",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

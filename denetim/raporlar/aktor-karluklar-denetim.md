@@ -1,0 +1,72 @@
+## aktor-karluklar
+_Geçiş 2 — kaynak denetimi · 2026-08-28T18:07:25.040Z_
+
+- [OK]      k1 → "Karluklar, yedinci yüzyıldan itibaren Orta Asya'nın kuzeydoğusunda kaydedilen ve sonraki dört yüzyıl boyunca b…"
+- undefined k3 → "Karluklar bağımsız bir kağanlık kurmadı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu dosyanın asıl konusu kaynak durumudur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Karluklar en çok, bir savaşın ortasında taraf değiştirdikleri iddiasıyla anılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Cümle, topluluk hakkındaki bütün anlatının merkezine oturmuştur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas bu indirgenmeyi ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Taraf değiştirme iddiası, olaydan sonra ve olayın taraflarından biri tarafından yazılmış kaynaklara dayanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu, iddianın yanlış olduğu anlamına gelmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Aynı iddia, savaşın sonucunu açıklama ihtiyacını da karşılar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Söz konusu savaş, sekizinci yüzyıl ortasında bölgede karşılaşan iki büyük ordunun çatışmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Savaşın sonucunun bölgeyi kalıcı biçimde değiştirdiği yaygın olarak söylenir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu dosya savaşı yalnızca kaynak sorunu bakımından ele alır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Karluklar tek bir boy değil, birden çok boyun oluşturduğu bir birliktir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu yapı, atlasın Mapuçe dosyasında ölçtüğü örgütlenmeyle aynı ailedendir." — programatik olarak ölçülemedi (ad karşılığı yok): Mapuçe
+- undefined k2 → "Yapının kaynaklara yansıması da benzerdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Taraf değiştirme iddiasının bir bölümü bu yapıdan doğmuş olabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bu, bir yorum önerisidir ve kanıtlanmamıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Önerinin değeri, iddiayı çürütmesinde değil alternatif bir okuma sunmasındadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Topluluk, aynı yüzyıllarda bölgede bulunan birden çok düzenle temas hâlindeydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu çokluk, ittifak seçeneklerini artırıyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlas bu farkı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Topluluk, bozkır ile yerleşik bölgeler arasındaki geçiş kuşağında bulunuyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Konum, Karlukları hem ticaret hatlarına hem askerî güzergâhlara yakın kılıyordu."
+- undefined k3 → "Atlas bu değeri ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Aynı konum bir kırılganlık da üretir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Küçük bir birim için taraf seçmek zorunluluktur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas bu asimetriyi ayrıca yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Onuncu yüzyılda bölgede kurulan hanedanın, bu boy birliğinden çıktığı ileri sürülür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Kaynaklar hanedanın kökenini kesin olarak belirlemez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlas bir sonuca bağlanmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu, atlasın bozkır dosyalarında tekrar eden bir sorundur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "İddianın üretilmiş olması, dayanaksız olduğunu göstermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlas iki ihtimali ayırmak için ölçüt arar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Topluluğun bir bölümü onuncu yüzyılda İslam'ı benimsedi."
+- [OK]      k2 → "Bu, atlasın Orta Asya dosyalarında tekrar eden bir eşiktir."
+- undefined k3 → "Değişimin kapsamı ve hızı belirsizdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Topluluğun kendi dilinde bıraktığı kayıt yok denecek kadar azdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Fark, atlasın Hazarlar dosyasında ölçtüğü durumun aynısıdır."
+- undefined k2 → "Atlas iki ihtimali ayırmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Kaynaklarda geçen ad, tek bir topluluğu mu yoksa bir siyasi çatı altındaki birden çok boyu mu karşıladığı açık…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Aynı belirsizlik atlasın Hazarlar ve Uygur dosyalarında da kaydedilmiştir."
+- undefined k3 → "Atlas bu nedenle boy adlarını nüfus grupları gibi kullanmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Topluluğun bulunduğu bölge, doğu-batı ticaret hatlarının üzerindeydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu, topluluğa doğrudan gelir sağlıyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Gelirin ölçüsü bilinmemektedir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Topluluk on birinci yüzyıldan sonra ayrı bir siyasi birim olarak anılmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Erime, yok olma değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Atlas iki durumu ayrı işaretler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Dosya, bir topluluk hakkında yazılabilecek olanın kaynak durumuyla sınırlı olduğunu gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Sonuç, dosyanın kendi biçimine de yansır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Bu, atlasın kanıt dosyasında tanımlanan kısıtın doğrudan uygulanmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu dosyanın bölümlerinin çoğu bir olgu değil, bir olgunun neden belirlenemediğini kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Alternatif, boşlukları makul tahminlerle doldurmaktır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Atlas birinciyi seçer." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Bu dosyanın üç künyesinin üçü de ansiklopedi maddesidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Dönemin Arapça ve Farsça coğrafya metinlerinde topluluk anılır."
+- undefined k3 → "Eksik borç defterine yazılmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Boy adlarının tek tek listesi verilmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Savaşın askerî ayrıntısı kapsam dışıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Sonraki hanedanın tarihi işlenmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Dosya, taraf değiştirme iddiası hakkında hüküm vermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Sonraki hanedanla köken bağı da belirlenmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Topluluğun toplumsal yapısı işlenmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Topluluğun en çok anıldığı olay için , aynı bölgede kurulan sonraki düzen için dosyaları okunmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k1 → "Aynı kaynak sorununun ölçüldüğü dosya için , kendi dilinde uzun yazıt bırakmış komşu düzen için ve dosyaları u…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k3 → "Bozkır düzenlerinin genel yapısı için dosyası okunabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- undefined k2 → "Aynı dönemde bölgede bulunan bir başka düzen için dosyası okunmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+
+**Özet:** 7 OK · 0 ISARET · 0 HATA

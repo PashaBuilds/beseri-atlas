@@ -1,0 +1,35 @@
+{
+  "id": "kaynak-kautilya-arthasastra",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.175Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Metnin ana iddiası tek cümleyle söylenebilir: yönetim, öğrenilebilir ve denetlenebilir bir tekniktir.[^k1][^k2] Bu iddia, düzeni yöneticinin kişisel niteliğine bağlayan anlayışlard",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Metnin tek bir kişi tarafından mı yazıldığı, yoksa katmanlı biçimde mi oluştuğu ayrıca tartışılır.[^k3] Bu, atlasın başka kaynak dosyalarında da karşılaşılan bir durumdur; [Sima Qi",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yazarlık sorusunun pratik sonucu şudur. Metin tek elden çıktıysa tutarlı bir öğreti olarak okunabilir; katmanlıysa, içindeki gerilimler yazarın çelişkisi değil farklı dönemlerin iz",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlasın kaynak katmanı, bu dosya yazılana kadar ağırlıklı olarak Avrupa ve Doğu Asya metinlerinden oluşuyordu.[^k1] Güney Asya'dan tek bir kaynak dosyası yoktu; oysa bölgenin aktör",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "aktor-hazarlar",
+  "gecis": 3,
+  "zaman": "2026-08-28T18:07:27.134Z",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Atlas bu işlevi tek başına bir açıklama saymaz.[^k3] Bir genişlemenin durması, tek bir tarafın direncinden değil birden çok etkenden doğar.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İlişkinin kaydı tek taraflıdır.[^k3] Bilinenler imparatorluğun kayıtlarından gelir ve karşı tarafın nasıl gördüğü bilinmemektedir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Yapı, bozkır geleneğinde başka örneklerde de görülür.[^k2] Kutsal otoritenin gündelik yönetimden ayrılması, tek başına bu düzene özgü değildir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu, dosyanın kaynak sorununu keskinleştirir.[^k3] İçeriden geldiği söylenen tek metin kümesi, sahihliği tartışmalı olan kümedir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Çöküşün tek nedene bağlanması güçtür.[^k2] Ticaret güzergâhındaki değişimler ve bölgedeki güç dengesinin kayması da aynı dönemdedir.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kaynaklarda geçen ad, tek bir topluluğu mu yoksa bir siyasi çatı altındaki birden çok topluluğu mu karşıladığı açık değildir.[^k1] Bozkır düzenlerinde ad, çoğu zaman etnik değil si",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Dosyanın kaydettiği kural tek cümleyle ifade edilebilir.[^k2] **Yalnızca dışarıdan yazılmış bir düzen hakkında bilinenler, o düzenin özelliği değil gözlemcilerin ilgisinin haritası",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Komşu düzenlerle yapılan tek tek seferler işlenmez.[^k2] Ayrı dosyalar gerektirirler.",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}
