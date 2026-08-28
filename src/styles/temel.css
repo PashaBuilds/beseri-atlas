@@ -396,3 +396,15 @@ sup.dipnot a:hover, sup.dipnot a:focus-visible { background: var(--bakir); color
   .sayfa { display: block; max-width: none; }
   sup.dipnot a { background: none; color: #000; }
 }
+
+/* Makale içi İçindekiler — 4+ bölümlü sayfalarda gövde başında. */
+.icindekiler { margin: 1rem 0 1.6rem; font-size: .92rem; }
+.icindekiler summary {
+  cursor: pointer; color: var(--r-yumusak, #666);
+  text-transform: uppercase; letter-spacing: .04em; font-size: .78rem;
+}
+.icindekiler ol { margin: .5rem 0 0 1.1rem; padding: 0; columns: 2; column-gap: 2rem; }
+.icindekiler li { margin: .18rem 0; break-inside: avoid; }
+.icindekiler a { text-decoration: none; }
+.icindekiler a:hover { text-decoration: underline; }
+@media (max-width: 640px) { .icindekiler ol { columns: 1; } }

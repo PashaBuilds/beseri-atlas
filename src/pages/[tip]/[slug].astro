@@ -32,7 +32,11 @@ export async function getStaticPaths() {
 
 const { girdi, korpus, donemler } = Astro.props;
 const v = girdi.data;
-const { Content } = await render(girdi);
+const { Content, headings } = await render(girdi);
+// İçindekiler: yalnızca h2 başlıklar; kısa makalede gürültü olmasın diye
+// 4'ten az bölümde gösterilmez.
+const bolumler = (headings ?? []).filter((h: { depth: number }) => h.depth === 2);
+const icindekilerGoster = bolumler.length >= 4;
 const ilgili = baglariCoz(v.ilgili, korpus);
 const okuma = baglariCoz(v.okuma_onerisi, korpus);
 // Okuma hatti: donem sayfasi kendi makalelerini sirali listeler, her makale
@@ -52,6 +56,19 @@ const komsu = komsular(korpus, girdi);
       </p>
       <h1>{v.baslik}</h1>
       <p class="ozet">{v.ozet}</p>
+
+      {icindekilerGoster && (
+        <nav class="icindekiler" aria-label="Bölümler">
+          <details>
+            <summary>İçindekiler ({bolumler.length} bölüm)</summary>
+            <ol>
+              {bolumler.map((h: { slug: string; text: string }) => (
+                <li><a href={`#${h.slug}`}>{h.text}</a></li>
+              ))}
+            </ol>
+          </details>
+        </nav>
+      )}
 
       {v.tip === 'kaynak' && (
         <dl class="kunye">
