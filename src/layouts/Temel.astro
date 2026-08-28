@@ -46,7 +46,7 @@ const menu = [
         <a class="marka" href={bag("/")}>Beşeri <em>Atlas</em></a>
         <nav aria-label="Ana gezinme">
           {menu.map((m) => (
-            <a href={m.h} aria-current={yol.startsWith(m.h) ? 'page' : undefined}>{m.ad}</a>
+            <a href={m.h} aria-current={yol === m.h ? 'page' : undefined}>{m.ad}</a>
           ))}
           <button class="tema-dugme" type="button" data-tema-degistir aria-live="polite">Tema</button>
         </nav>
@@ -57,6 +57,10 @@ const menu = [
     </div>
     <script is:inline>
       document.querySelectorAll('[data-tema-degistir]').forEach(function (d) {
+        // Ilk erisilebilir ad: dugme daha tiklanmadan ne yapacagini soylesin.
+        var ilk = document.documentElement.dataset.tema
+          || (matchMedia('(prefers-color-scheme: dark)').matches ? 'koyu' : 'acik');
+        d.setAttribute('aria-label', ilk === 'koyu' ? 'Açık temaya geç' : 'Koyu temaya geç');
         d.addEventListener('click', function () {
           var k = document.documentElement;
           var suan = k.dataset.tema
