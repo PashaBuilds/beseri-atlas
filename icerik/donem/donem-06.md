@@ -687,9 +687,10 @@ konuşulan dillerin çoğundan farklıydı.
 Bu, kayda erişimi dar bir gruba bağladı.[^k5] Aynı zamanda geniş bir
 alanda tek bir idari dil sağladı.
 
-Atlas bu ikiliği ayrıca kaydeder.[^k2] Ortak bir kayıt dili, yönetimi
-kolaylaştırırken yönetilenlerin çoğunu kendi kaydının dışında
-bırakır.[^k3]
+Bu ikilik, dönemin yönetim tarzının özüne dokunur.[^k2] Ortak bir kayıt
+dili, yönetimi kolaylaştırırken yönetilenlerin çoğunu kendi kaydının
+dışında bırakır;[^k3] bugün bu döneme dair okunan kaynakların büyük bölümü
+de o dar kayıt sınıfının elinden çıkmıştır.[^k1]
 
 ## Fikir dünyası
 

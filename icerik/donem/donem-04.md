@@ -714,9 +714,10 @@ açıldı.
 Ticaret bu güzergâhları sonradan kullandı.[^k5] Mal, tek bir tüccarla
 değil aracılar zinciriyle taşınıyordu.
 
-Atlas bu sırayı ayrıca kaydeder.[^k1] Bir güzergâhın açılma amacı ile
-en çok kullanıldığı amaç aynı olmak zorunda
-değildir.
+Bu sıralama, dönemin genel bir dersini de örnekler.[^k1] Bir güzergâhın
+açılma amacı ile en çok kullanıldığı amaç aynı olmak zorunda değildir:
+devletin diplomasi için açtığı yol, tüccarın elinde bir ticaret damarına
+dönüşebilir ve zamanla adını da bu ikinci işlevinden alabilir.
 
 ## Fikir dünyası
 
