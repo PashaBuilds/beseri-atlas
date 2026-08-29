@@ -1,9 +1,9 @@
 {
   "id": "olay-11-eylul",
-  "govde_hash": null,
-  "commit": null,
+  "govde_hash": "90e63b8f62ac",
+  "commit": "cd6a45e",
   "zaman": "2026-08-29",
-  "hakem": "TASLAK-yazar",
+  "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
     {
       "iddia_id": "i001",
@@ -149,17 +149,31 @@
     },
     {
       "iddia_id": "i010",
-      "cumle": "Sonra vurulan kule önce çöktü; çarpmanın yüksekliği ve hasarın dağılımı iki bina için farklı zaman çizelgeleri üretmişti.",
+      "cumle": "Sonra vurulan kule önce çöktü: güney kule vurulduktan elli altı dakika sonra, kuzey kule yüz iki dakika sonra yıkıldı.",
       "onem": "destek",
-      "tur": "yorum",
+      "tur": "sayi",
       "kaynaklar": [
         {
           "anahtar": "k3",
-          "destek": "kismi"
+          "destek": "dogrudan"
         }
       ],
-      "guven": "orta",
-      "inceleme": "Cokme sirasi kaynaktaki saatlerden dogrudan cikar; carpma yuksekligi ile hasar dagiliminin farkli zaman cizelgeleri uretmesi baglantisi yorumdur."
+      "guven": "yuksek",
+      "inceleme": "Kaynaktaki dort saatten (8.46/10.28 ve 9.02/9.58) dogrudan cikan aritmetik; kaynak sureleri kendisi yazmaz, saatleri yazar."
+    },
+    {
+      "iddia_id": "i051",
+      "cumle": "Kurumun bu sayfası sıranın nedenini ayrı bir madde olarak açıklamaz; iki kule için yalnızca ayrı zaman çizelgeleri kaydeder.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yoklukla dogrulanan iddia: kaynagin SSS sayfasinda guney kulenin neden once coktugunu aciklayan bir madde yoktur; yalnizca iki kule icin carpma ve cokme saatleri verilir."
     },
     {
       "iddia_id": "i011",
@@ -219,7 +233,7 @@
     },
     {
       "iddia_id": "i015",
-      "cumle": "Raporun aktardığına göre asıl tasarı çok daha büyüktü — iki kıyıda birden on uçakla saldırı — ve ölçeği ile karmaşıklığı yüzünden örgüt lideri tarafından küçültüldü; eğitim 1999 sonbaharında başladı, kadroya Almanya'nın Hamburg kentinde kümelenmiş bir hücreden dört kişi katıldı ve bunlardan biri operasyonun ülke içindeki taktik komutanı oldu.",
+      "cumle": "Raporun, planlayıcının kendi sorgu beyanı olarak işaretleyip aktardığına göre asıl tasarı çok daha büyüktü — iki kıyıda birden on uçakla saldırı — ve ölçeği ile karmaşıklığı yüzünden örgüt lideri tarafından küçültüldü; eğitim 1999 sonbaharında başladı, kadroya Almanya'nın Hamburg kentinde kümelenmiş bir hücreden dört kişi katıldı ve bunlardan biri operasyonun ülke içindeki taktik komutanı oldu.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -229,7 +243,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Komisyonun sorgu ifadelerine dayanan aktarimi; rapor bunu failin beyani olarak isaretleyerek verir."
+      "inceleme": "Rapor bu bolumu \"KSM claims\" / \"KSM said\" diye isaretler; aktarim halkasi artik govdede de aciktir. Egitim tarihi, Hamburg hucresi ve taktik komutan bilgisi raporun kendi anlatimidir."
     },
     {
       "iddia_id": "i016",
@@ -288,6 +302,20 @@
       "inceleme": "Failin beyan ettigi gerekce aktarilir; dogrulugu degil, kayitli olusu iddia edilir."
     },
     {
+      "iddia_id": "i052",
+      "cumle": "Aynı bölüm bu söylemin seçici olduğunu da kaydeder: İslam'dan, tarihten ve bölgenin siyasi ve iktisadi sıkıntılarından parça parça devşirilmiştir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"His rhetoric selectively draws from multiple sources-Islam, history, and the region's political and economic malaise.\" Kaynagin kendi cekincesi govdeye geri konuldu."
+    },
+    {
       "iddia_id": "i020",
       "cumle": "Komisyon raporu 2004'te üç bileşen verir: Dünya Ticaret Merkezi'nde 2.600'den fazla, Pentagon'da 125, dört uçakta 256 kişi.",
       "onem": "merkezi",
@@ -300,6 +328,20 @@
       ],
       "guven": "yuksek",
       "inceleme": ""
+    },
+    {
+      "iddia_id": "i053",
+      "cumle": "Rapor bu üç sayının saldırganları içerip içermediğini yazmaz; kapsam belirsizliği daha ilk sayımın içinde başlar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yoklukla dogrulanan iddia: k1 \"More than 2,600 ... 125 ... 256 died on the four planes\" der ve saldirganlarin dahil olup olmadigini hicbir yerde belirtmez. Onceki surum \"ucak toplami saldirganlari da icerir\" diyordu; bu kaynakta yoktur ve aritmetigi de tutmaz (dort ucakta toplam 265 kisi bulunuyordu)."
     },
     {
       "iddia_id": "i021",
@@ -345,17 +387,21 @@
     },
     {
       "iddia_id": "i024",
-      "cumle": "Yıkıntıdan yayılan toza maruz kalan on binlerce kişi sonraki yıllarda hastalandı; bir tahmine göre 18.000 kişide toza bağlı hastalık gelişti.",
+      "cumle": "Toza, enkaza ve bunları yaratan koşullara maruz kalanların sayısı yüz binlerle ölçülür; bir tahmine göre 18.000 kişide toza bağlı hastalık gelişti.",
       "onem": "destek",
       "tur": "sayi",
       "kaynaklar": [
         {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
           "anahtar": "k9",
-          "destek": "kismi"
+          "destek": "dogrudan"
         }
       ],
-      "guven": "dusuk",
-      "inceleme": "Kaynak bunu bir tahmin olarak aktarir; resmi bir kayda dayanmaz."
+      "guven": "orta",
+      "inceleme": "Maruziyet olcegi k4'te \"Hundreds of thousands of people\" olarak gecer; 18.000 rakami k9'da \"An estimated 18,000 people have developed illnesses\" cumlesiyle bir TAHMIN olarak durur, resmi kayit degildir."
     },
     {
       "iddia_id": "i025",
@@ -456,6 +502,34 @@
       "inceleme": "Yoklukla dogrulanan iddia: yetki metninin tamami kisadir ve icinde Amerika Birlesik Devletleri disinda ulke adi gecmez."
     },
     {
+      "iddia_id": "i054",
+      "cumle": "Metin bir süre sınırı ya da kendiliğinden sona erme hükmü de taşımaz.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yoklukla dogrulanan iddia: yetki metninin tamami 2.726 karakterdir ve icinde sona erme/sunset hukmu yoktur."
+    },
+    {
+      "iddia_id": "i055",
+      "cumle": "Amerika saldırının ardından Afganistan'ı işgal etti; NATO da kuruluş antlaşmasının ortak savunma maddesini tarihinde ilk ve tek kez bu olay için işletti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak: \"The United States responded by launching the war on terror and invading Afghanistan. NATO's invocation of Article 5 ... its only usage to date\". Tek kunyesi giris kapisi ansiklopedisidir; birincil kunye onerilir."
+    },
+    {
       "iddia_id": "i032",
       "cumle": "26 Ekim 2001'de yasalaşan USA PATRIOT Act, adı bir kısaltma olacak biçimde kurulmuş uzun bir başlık taşır ve kolluk ile istihbaratın yetkilerini genişletir; yabancı istihbarat mevzuatı altında kayıt ve belgelere erişimi düzenleyen 215 numaralı madde ile arama kararının bildirilmesini geciktirmeye izin veren 213 numaralı madde bu genişlemenin iki somut maddesidir.",
       "onem": "merkezi",
@@ -482,6 +556,20 @@
       ],
       "guven": "orta",
       "inceleme": "Elestiri yasanin butunune yoneliktir; metindeki 215 ve 213 numarali maddelerle birebir eslesmez."
+    },
+    {
+      "iddia_id": "i056",
+      "cumle": "Kongre, saldırıdan sonra Arap ve Müslüman Amerikalılara yönelen şiddet eylemlerini kınadığını, Müslüman kadınların taciz korkusuyla giyimlerini değiştirdiğini ve suçta sorumluluğun bireysel olduğunu — bunun bütün dinî, ırksal ve etnik gruplar için eşit biçimde geçerli olduğunu — yasanın içine yazdı; kurtarma yardımı için ikiz kulelere gittiği düşünülen ve o gün kaybolan Pakistan kökenli yirmi üç yaşındaki bir New Yorklunun adı da metne geçirildi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yasanin 102. maddesi (SEC. 102. SENSE OF CONGRESS CONDEMNING DISCRIMINATION AGAINST ARAB AND MUSLIM AMERICANS) bes bulguyu da birebir tasir; adi gecen kisi metinde 23 yasinda, Pakistan kokenli bir New Yorklu olarak kayitlidir."
     },
     {
       "iddia_id": "i034",
@@ -667,7 +755,7 @@
     },
     {
       "iddia_id": "i047",
-      "cumle": "Komisyonun kendisi ikisini de yetersiz bulur; izleme listesi, bilgi paylaşımı ya da noktaları birleştirmek gibi etiketlerin hepsinin çok dar kaldığını söyler ve şöyle yazar: \"belirtiyi tarif ediyorlar, hastalığı değil\".",
+      "cumle": "Kaçırılan fırsatlar tartışmasında kullanılan izleme listesi, bilgi paylaşımı ya da noktaları birleştirmek gibi etiketlerin hepsinin çok dar kaldığını söyler ve şöyle yazar: \"belirtiyi tarif ediyorlar, hastalığı değil\".",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -677,11 +765,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kaynak: \"Though characterized as problems of watchlisting, information sharing, or connecting the dots, each of these labels is too narrow. They describe the symptoms, not the disease.\" Onceki surumdeki \"komisyon iki okumayi da yetersiz bulur\" ifadesi kaynakta yoktu; govdede duzeltildi."
     },
     {
       "iddia_id": "i048",
-      "cumle": "Toz maruziyetine bağlı hastalıklar için 2011'de kurulan federal sağlık programı, 2015'te 2090 yılına kadar uzatıldı; 2019'da yeni kayıt sınırları 25.000'den 75.000'e çıkarıldı ve 2023'te Pentagon ile Pensilvanya bölgelerinde görev yapanlar da kapsama alındı.",
+      "cumle": "Toz maruziyetine bağlı hastalıklar için 2011'de kurulan federal sağlık programı, 2015'te 2090 yılına kadar uzatıldı; 2019'da yeni kayıt sınırları 25.000'den 75.000'e çıkarıldı ve 2023'te Pentagon ile Pensilvanya sahalarında çalışanlar için üyelik hakkı, belirli üniformalı görevlileri ve federal çalışanlarla yüklenicileri de içerecek biçimde genişletildi.",
       "onem": "merkezi",
       "tur": "tarih",
       "kaynaklar": [
@@ -691,11 +779,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "2023 maddesi duzeltildi: kaynak Pentagon ve Shanksville sahalarindaki gorevliler icin uyeligin \"certain uniformed service members and federal employees and contractors\" kapsayacak bicimde genisletildigini yazar; bolgelerin tumden kapsama alinmasi degil."
     },
     {
       "iddia_id": "i049",
-      "cumle": "Saldırının ardından gelen savaşların doğrudan ölü sayısı 897.000 ile 929.000 arasında, dolaylı ölümlerle birlikte toplam 4,5 ile 4,6 milyon arasında tahmin edilmiştir; aynı hesap sekiz trilyon dolarlık bir maliyet ve otuz sekiz milyon kişilik bir yerinden edilme öngörür.",
+      "cumle": "Saldırının ardından gelen savaşların doğrudan ölü sayısı 897.000 ile 929.000 arasında, dolaylı ölümlerle birlikte toplam 4,5 ile 4,6 milyon arasında tahmin edilmiştir; aynı araştırma projesinin daha erken bir raporu sekiz trilyon dolarlık bir maliyet ve otuz sekiz milyon kişilik bir yerinden edilme hesaplamıştı.",
       "onem": "destek",
       "tur": "sayi",
       "kaynaklar": [
@@ -705,7 +793,7 @@
         }
       ],
       "guven": "dusuk",
-      "inceleme": "Tartismali toplamlar; kaynak bunlari bir arastirma projesinin tahmini olarak aktarir. Metin de tek olaya fatura edilemeyecegini soyler."
+      "inceleme": "Tartismali toplamlar. Kaynakta 897.000-929.000 dogrudan olu, 8 trilyon dolar ve 38 milyon yerinden edilme 2021 raporundan; 4,5-4,6 milyon toplam 2023 raporundan gelir. Onceki surumdeki \"ayni hesap\" ifadesi iki ayri raporu birlestiriyordu, duzeltildi."
     },
     {
       "iddia_id": "i050",
@@ -727,8 +815,8 @@
     }
   ],
   "sayaclar": {
-    "dogrudan": 43,
-    "kismi": 7,
+    "dogrudan": 51,
+    "kismi": 5,
     "desteksiz": 0,
     "olculemez": 0
   }

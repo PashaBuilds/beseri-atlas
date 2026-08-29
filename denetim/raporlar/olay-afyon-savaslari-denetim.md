@@ -1,5 +1,5 @@
 ## olay-afyon-savaslari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:45:12.711Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T15:02:15.751Z_
 
 - [OK]      k1 → "Britanya Hindistan'da ürettiği afyonu Çin kıyılarına kaçırıyor, Qing devleti bu ticareti yasaklıyordu; yasağı …" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k6 → "Britanya Hindistan'da ürettiği afyonu Çin kıyılarına kaçırıyor, Qing devleti bu ticareti yasaklıyordu; yasağı …" — 4 atom doğrulandı; 2 ad ölçülemedi
@@ -13,41 +13,45 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:45:12.711Z_
 - [OK]      k6 → "Hindistan'dan Çin'e giden afyon 1773'te yaklaşık bin sandıktı; 1790'da dört bine, 1828'de on sekiz bine, savaş…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k6 → "Şirketin Çin ticareti üzerindeki tekelinin 1834'te sona ermesi, düzenlemeden çok rekabeti artırdı; özel tüccar…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k6 → "Qing yasağı kâğıt üzerinde duruyor ama uygulanmıyordu: mal Lintin adasında gemiden gemiye aktarılıyor, kıyıya …" — 1 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k6 → "Daoguang imparatoru 1838'deki saray tartışmasının sonunda yasallaştırma yanlılarını değil, tam yasak isteyenle…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k6 → "Saray yıllarca bölünmüştü: bir yanda gümüş çıkışından ve bağımlılıktan kaygılanıp tam yasak isteyenler, öte ya…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Daoguang imparatoru sonunda tam yasak yanlılarını destekledi ve Lin Zexu'yu olağanüstü yetkiyle Kanton'a gönde…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k2 → "Kendi bildirdiği hesaba göre tüccarlar, ticaret süperintendanı Elliot aracılığıyla 20.283 sandık afyonu teslim…"
 - [OK]      k2 → "Lin aynı sırada İngiltere kraliçesine hitaben bir mektup kaleme aldı; metin Kanton'da yayımlandı ve 1840 başın…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k2 → "Mektubun ekseni ahlaki bir karşılıklılık ilkesidir: Çin dışarıya çay, ipek ve ravent gibi yararlı mallar gönde…" — programatik olarak ölçülemedi (ad karşılığı yok): Çin
 - [OK]      k2 → "Lin bir de olgusal dayanak öne sürer — "Kendi ülkenizde afyonun en büyük katılıkla yasaklandığını duyduk" — ve…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k7 → "Bu dayanak yanlıştı: afyon o tarihte Britanya'da yasal biçimde satılıyordu ve tam da bu nedenle Londra, sonrak…"
+- [OK]      k2 → "Lin bir de olgusal dayanak öne sürer — "Kendi ülkenizde afyonun en büyük katılıkla yasaklandığını duyduk" — ve…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Mektup burada bir ayrım yapar: Britanya adalarında afyon üretilmediğini doğru biçimde tespit eder, yanlış olan…"
+- [OK]      k7 → "Afyon o tarihte Britanya'da yasal biçimde satılıyordu ve tam da bu nedenle Londra, sonraki yıllarda ticareti y…"
 - [OK]      k3 → "Muhalefetin hükûmeti kınama önergesi 8 Nisan 1840 oturumunda da görüşüldü ve Gladstone konuşmasında hem ticare…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k3 → "Gladstone'un asıl iddiası hukukiydi: Çinliler kaçakçılığı bırakmaları için uyarıda bulunmuş, bırakılmayınca ke…" — programatik olarak ölçülemedi (ad karşılığı yok): Çinliler
-- [OK]      k4 → "Palmerston yanlıları 1832 tarihli parlamento komisyonunun görüşünü hatırlattı: Bengal afyon ticareti 981.283 s…"
+- [OK]      k4 → "Hükûmet adına konuşan Sir John Cam Hobhouse, konunun meclise ilk kez gelmediğini söyleyerek 1832 tarihli parla…"
 - [OK]      k4 → "Kınama önergesi 9 Nisan gecesi oylandı ve 271'e karşı 262 oyla, yani dokuz oy farkla reddedildi." — 2 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "İkinci madde Kanton, Amoy, Foochow, Ningpo ve Şanghay'ı Britanyalı tüccarların aileleriyle birlikte yerleşimin…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "İkinci madde beş limanı — metnin kendi yazımıyla Kanton, Amoy, Foochow, Ningpo ve Şanghay, bugünkü adlarıyla G…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Beşinci madde, Britanyalı tüccarları belirli Çinli tüccarlarla iş yapmaya zorlayan Hong düzenini kaldırır; onu…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "On birinci madde ise sembolik görünse de aynı derecede ağırdır: iki tarafın görevlileri arasındaki yazışmada k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "On ikinci madde Britanya kuvvetlerinin Chusan ve Koolangsoo adalarında, ödemeler tamamlanana kadar kalmasını ö…"
+- [OK]      k1 → "On ikinci madde Britanya kuvvetlerinin Chusan (Zhoushan) ve Koolangsoo (Gulangyu) adalarında, hem ödemeler tam…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Altı milyon dolar Mart 1839'da teslim edilen afyonun bedeli, üç milyon dolar iflas etmiş Hong tüccarlarının Br…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k7 → "Bu boşluk anlaşmazlığı çözmedi, yalnızca erteledi; 1842 antlaşmasının kurduğu düzen on dört yıl sonra aynı tar…"
 - [OK]      k7 → "İkinci çatışmanın kıvılcımı 8 Ekim 1856'da Kanton limanında çıktı: Çinli görevliler Britanya kaydı taşıdığı il…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k7 → "Britanya bunu 1842 antlaşmasını yeniden pazarlık masasına getirmek için gerekçe saydı; bir Fransız misyonerin …" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k7 → "Bu savaşta da Londra bölündü: 3 Mart 1857'de Avam Kamarası Kanton'a yapılan saldırıyı gerekçesiz bularak hükûm…" — 2 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k5 → "Haziranda Tien-tsin'de imzalanan antlaşma, Britanya temsilcisine Pekin'de kalıcı ikamet hakkı verdi ve Çin res…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Haziranda Tien-tsin'de (Tianjin) imzalanan antlaşma, Britanya temsilcisine Pekin'de kalıcı ikamet hakkı verdi …" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k5 → "Beşinci kural, daha önce kaçak sayılan mallara ilişkin kısıtlamaları gevşetir ve şunu yazar: "Afyon bundan böy…" — programatik olarak ölçülemedi (ad karşılığı yok): Afyon
 - [ATOMSUZ] k5 → "Aynı kural ticareti sınırlar da: yabancı tüccar malı yalnızca limanda satabilecek, iç bölgelere yalnızca Çinli…" — programatik olarak ölçülemedi (ad karşılığı yok): Çinliler
-- [OK]      k7 → "25 Haziran 1859'da onay belgelerini Pekin'e götüren heyete yol açmak için istihkâmlara saldıran Britanya kuvve…" — 3 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k7 → "Ertesi yıl müttefik kuvvetler Pekin önlerine ulaştı; 18-19 Ekim 1860'ta Lord Elgin'in emriyle imparatorluk yaz…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k7 → "25 Haziran 1859'da onay belgelerini Pekin'e götüren heyete yol açmak için istihkâmlara saldıran Britanya kuvve…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k7 → "Ertesi yıl müttefik kuvvetler Pekin önlerine ulaştı: imparatorluk yazlık sarayı Yuanmingyuan 6 Ekim 1860'ta ya…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k5 → "24 Ekim 1860'ta imzalanan Pekin Sözleşmesi, Taku olayı için özür ifadesiyle açılır; sekiz milyon tael tazminat…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k5 → "Sözleşmenin beşinci maddesi ayrıca Çinlilerin Britanya sömürgelerinde çalışmak üzere gemiye binmesini serbest …" — 1 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k6 → "Qing sarayının afyona karşı en güçlü ekonomik gerekçesi, ülkeden gümüş çıkışıydı; ticaretin dengesi tersine dö…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Qing sarayının afyona karşı en güçlü ekonomik gerekçesi, ülkeden gümüş çıkışıydı: saray afyon ithalatını kitle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k8 → "Ona göre 1820'lerden sonra değişen şey gümüşün miktarı değil ithal edilen sikkelerin niteliğiydi; Çin İspanyol…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k8 → "Bu okumada nedensellik terse döner: afyon ithalatı gümüş çıkışını tetiklemedi, tersine gümüş kaçışı büyük afyo…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k4 → "Hükûmet yanlıları 1840 tartışmasında, Hindistan'daki üretim kısılsa bile arzın Türkiye, İran ya da komşu bir ü…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k6 → "Ticaretin tarafları arasında Britanya'nın yanı sıra Amerika Birleşik Devletleri, Hindistan, Güneydoğu Asya ve …" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Palmerston, oylamadan önceki kapanış konuşmasında, Hindistan'daki üretim kısılsa bile arzın Türkiye, İran ya d…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k6 → "Nitekim ticaretin tarafları arasında Britanya'nın yanı sıra Amerika Birleşik Devletleri, Türkiye, Hindistan, G…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k6 → "Savaş arifesinde Çin'de yaklaşık on milyon afyon içicisi bulunduğu ve bunların iki milyonunun bağımlı olduğu t…" — programatik olarak ölçülemedi (ad karşılığı yok): Çin
+- [ATOMSUZ] k7 → "Yasallaştırmaya Çin tarafının nasıl baktığını aktaran kaynak bile tanığını Afyon Ticaretini Bastırma Derneği'n…" — programatik olarak ölçülemedi (ad karşılığı yok): Çin, Afyon, Ticaretini, Bastırma
 - [OK]      k9 → "Ulusal aşağılanma dili 1895'teki Japonya yenilgisinin ardından güç kazandı, 1915'teki Yirmi Bir Talep ve 1919'…" — 6 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k9 → "Eşitsiz antlaşmaların büyük bölümü 1943'te müttefiklerce kaldırıldı, ama çerçeve hukuki ömrünü aştı."
-- [OK]      k9 → "Nitekim Qing sarayı 1860 yenilgisinin ve iç isyanların ardından 1861'de dış işleri yönetecek bir daire kurmayı…"
+- [OK]      k9 → "Nitekim Qing sarayı 1860 yenilgisinin ve Taiping İsyanı'nın ardından 1861'de dış işleri yönetecek bir daire — …" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k3 → "İkisini ayıran şey, 1840'ta Avam Kamarası'nda söylenmiş sözlerin de gösterdiği gibi, savaşın haksızlığının son…" — 2 atom doğrulandı; 1 ad ölçülemedi
 
-**Özet:** 39 OK · 0 ISARET · 0 HATA · 9 ATOMSUZ
+**Özet:** 41 OK · 0 ISARET · 0 HATA · 11 ATOMSUZ

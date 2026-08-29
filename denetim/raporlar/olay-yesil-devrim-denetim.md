@@ -1,17 +1,18 @@
 ## olay-yesil-devrim
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:47:12.994Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T15:01:28.761Z_
 
 - [OK]      k1 → "Başlangıcı 1943'te, Meksika Tarım Bakanlığı ile Rockefeller Vakfı'nın Meksika hükümetinin isteği üzerine kurdu…" — 3 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Yirmi yıl sonra aynı programın ürünü olan çeşitler Hindistan ve Pakistan tarlalarındaydı; Filipinler'de gelişt…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k4 → "Dünya buğday verimi 1961'de 1,09 ton, 2023'te 3,63 tondu."
+- [OK]      k4 → "Dünya buğday verimi 1961'de hektarda 1,09 ton, 2023'te 3,63 tondu."
 - [OK]      k5 → "Dünya tahıl verimi 1961'de hektarda 1,35 tondu; 2023'te 4,23 tona çıktı."
 - [OK]      k3 → "Vakfın kendi yıllık raporu, George Harrar'ın yönetiminde kurulan ilk projenin buğday ıslahı olduğunu ve progra…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k3 → "Aynı yıl kadroya Wellhausen katıldı ve özellikle mısır ile fasulyede bitki ıslahı çalışmaları başladı."
 - [OK]      k1 → "Bir yıl sonra, 1944'te, bitki ıslahçıları, toprak bilimciler, bitki patologları ve entomologlar birlikte çalış…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Uygun koşullarda bu çeşitler, eski uzun saplı buğdayların en iyilerinin iki ya da üç katı ürün veriyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Programın buğday kanadını yirmi altı yıl yürüten Norman Borlaug, sonucun bir rastlantı olmadığını vurgulamak i…"
+- [OK]      k1 → "Buğday programının içinde neredeyse başından beri, yirmi altı yıl boyunca yer alan Norman Borlaug, sonucun bir…"
 - [OK]      k4 → "Meksika'da hektardan alınan buğday 1961'de 1,68 tondu; 1970'te 3,02, 1980'de 3,85 tona çıktı."
 - [OK]      k2 → "Ülke 1943'te buğday ihtiyacının yarısını ithal ediyordu; 1956'da kendine yeterli hâle geldi, 1964'te yarım mil…"
+- [OK]      k1 → "Borlaug'un ödül konuşmasındaki hesap iki kaydı ayırmayı da öğretiyor: ulusal ortalama yirmi altı yılda hektard…"
 - [ATOMSUZ] k1 → "Çeşitlerin ayırt edici özelliği tek başına yüksek verim değil, gübreye verdikleri tepkiydi: uzun saplı buğday …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Üretimdeki büyük artış o tarihe kadar yalnızca sulanan alanlarda gerçekleşmişti; yağışa bağlı alanlar geride k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Etki ürün bakımından da dardı: buğday, pirinç ve mısır belirgin biçimde değişmiş, sorgum, darı ve arpada değiş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -33,19 +34,22 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:47:12.994Z_
 - [OK]      k8 → "1970-1989 arasında yayımlanmış 300'den fazla çalışmayı tarayan bir inceleme, dağılım üzerine sonuca varan çalı…"
 - [OK]      k8 → "Batılı ülkelerden yazarlar, deneme yöntemiyle yazanlar ve çok ülkeli bölgelere bakanlar eşitsizliğin arttığı s…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k6 → "1960-2000 arasında uluslararası araştırma merkezlerinin ulusal programlarla birlikte geliştirdiği modern çeşit…"
-- [OK]      k2 → "En bilinen örneği, Vandana Shiva'nın 1989 tarihli çalışmasıdır; başlığı tezini taşır: yeşil devrimin şiddeti, …" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Bu kanadın bir örneği, Vandana Shiva'nın 1989 tarihli çalışmasıdır; başlığı tezini taşır: yeşil devrimin şidde…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k9 → "NASA'nın yerçekimi uydularıyla yapılan bir ölçüm, Racastan, Pencap ve Haryana eyaletlerinde, Delhi dahil, yera…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k9 → "Ağustos 2002 ile Ekim 2008 arasındaki net kayıp 109 kilometreküpü buldu; bu, ülkenin en büyük yüzey su rezervu…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k9 → "Bu ölçüm olayın kendisinden sonraki bir dönemi kapsar ve tükenmeyi Yeşil Devrim'e adıyla bağlamaz; nedeni sula…" — programatik olarak ölçülemedi (ad karşılığı yok): Yeşil, Devrim
 - [ATOMSUZ] k2 → "Pencap'ın ilk uygulama bölgesi olarak seçilme gerekçesi de zaten güvenilir su kaynağıydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Meksika ve Hindistan modellerini Afrika'ya taşımak için çok sayıda girişimde bulunuldu; bunlar genel olarak da…"
 - [ATOMSUZ] k2 → "Gösterilen nedenler arasında yolsuzluk, güvensizlik, altyapı eksikliği ve hükümetlerin isteksizliği kadar çevr…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k5 → "Tahıl verimi Güney Asya'da 1961'de hektarda 1,01 tonken 2023'te 3,67 tona çıktı; Afrika'da aynı yıllar arasınd…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k5 → "Başka bir deyişle Afrika 2023'te hektardan 1,71 ton tahıl alıyordu; Güney Asya bu düzeyi 1980'lerin sonunda ge…" — 4 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k2 → "Borlaug 1970'te Nobel Barış Ödülü aldı ve bugün yaygın biçimde bir milyardan fazla insanı açlıktan kurtarmakla…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k2 → "Bu, ölçülmüş bir sonuç değil bir anma ifadesidir; nitekim aynı kayıt başka bir yerinde iki milyar rakamını da …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Borlaug 1970 ödülünü yeşil devrime katkısı için aldı; konuşmasına göre komite bir kişiyi seçerek tarımın ve gı…"
+- [ATOMSUZ] k2 → "Bugün ise yaygın biçimde bir milyardan fazla insanı açlıktan kurtarmakla anılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu ikincisi ölçülmüş bir sonuç değil bir anma ifadesidir; nitekim aynı kayıt başka bir yerinde iki milyar raka…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k7 → "1965 sonrasındaki ürün ıslahı kazanımlarını küresel bir ekonomik modelle geri alıp dünyayı yeniden simüle eden…"
 - [ATOMSUZ] k7 → "Aynı çalışma sonucunu açıkça yorumlar: bulgular verim artışının doğal ekosistemleri tarıma dönüşmekten kurtard…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Aynı özet kendi ölçtüğü şeyin sınırını da söyler: bu kazanımlar olmasaydı yükselen gıda fiyatlarının yoksulluk…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kazanılan şey açlığa karşı savaşta geçici bir başarı, insanlığa tanınmış bir nefes alma payıydı; tam olarak uy…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Gecikmenin bedelini ölçmeye çalışan bir çalışma, dönüşümün on yıl gecikmesinin kişi başına gelirin yüzde 17'si…"
+- [OK]      k2 → "Gecikmenin bedelini ölçmeye çalışan 2021 tarihli bir çalışmanın ansiklopedi maddesindeki aktarımına göre dönüş…"
 
-**Özet:** 33 OK · 0 ISARET · 0 HATA · 13 ATOMSUZ
+**Özet:** 34 OK · 0 ISARET · 0 HATA · 16 ATOMSUZ

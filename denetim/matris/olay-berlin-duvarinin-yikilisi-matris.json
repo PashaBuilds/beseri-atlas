@@ -1,9 +1,9 @@
 {
   "id": "olay-berlin-duvarinin-yikilisi",
-  "govde_hash": null,
-  "commit": null,
+  "govde_hash": "45141d6edc07",
+  "commit": "7a16c22",
   "zaman": "2026-08-29",
-  "hakem": "TASLAK-yazar",
+  "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
     {
       "iddia_id": "i001",
@@ -35,17 +35,21 @@
     },
     {
       "iddia_id": "i003",
-      "cumle": "Bir gazetecinin ne zaman geçerli olacağını sorması üzerine Schabowski, bildiği kadarıyla düzenlemenin \"sofort, unverzüglich\" — derhal, gecikmeksizin — yürürlükte olduğunu söyledi.",
+      "cumle": "Bir gazetecinin düzenlemenin ne zaman yürürlüğe gireceğini sorması üzerine Schabowski, bildiği kadarıyla \"sofort, unverzüglich\" — derhal, gecikmeksizin — yürürlükte olduğunu söyledi.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        },
         {
           "anahtar": "k1",
           "destek": "dogrudan"
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kor hakem duzeltmesi: \"yururluk sorusu\" ayrintisi k1'de YOK — k1 yalniz \"bir gazetecinin sorusu uzerine\" der ve cumleyi Schabowski'nin EKLEDIGINI yazar. Sorunun icerigi k7'den geliyor; dipnot k7 eklenerek duzeltildi. Alintinin kendisi (seiner Kenntnis nach sofort, unverzueglich) k1'de birebir."
     },
     {
       "iddia_id": "i004",
@@ -109,7 +113,7 @@
     },
     {
       "iddia_id": "i008",
-      "cumle": "Schabowski önce dağınık bir cevap verdi, sonra notu hatırlayıp okumaya başladı; ardından gelen yürürlük sorusuna birkaç saniyelik duraksamanın sonunda o cümleyi kurdu.",
+      "cumle": "Schabowski önce dağınık bir cevap verdi, sonra notu hatırlayıp okumaya başladı. Yürürlük sorusunu kimin sorduğu kaynakta açık bırakılır: ön sırada oturan Ehrman ile Bild gazetesinden Peter Brinkmann'dan biri. Schabowski birkaç saniyelik duraksamanın sonunda o cümleyi kurdu; kaynak bunu notun giriş paragrafına dayandırılmış görünen bir varsayım diye niteler. Beil yürürlük tarihine bakanlar kurulunun karar vereceğini araya sıkıştırmaya çalışırken Schabowski ilgili maddeyi okumayı sürdürdü.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -119,7 +123,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kor hakem eklemesi: kaynagin kendi cekincesi (\"either Ehrman or Bild-Zeitung reporter Peter Brinkmann\"), \"apparent assumption\" nitelemesi ve Beil'in araya girme denemesi onarim metninde dusurulmustu; geri konuldu."
     },
     {
       "iddia_id": "i009",
@@ -193,7 +197,7 @@
     },
     {
       "iddia_id": "i014",
-      "cumle": "Bornholmer Caddesi geçidindeki nöbetçi amirler sonunda baskıya boyun eğip sınırı tümüyle açtılar.",
+      "cumle": "Bornholmer Caddesi (Bornholmer Straße) geçidindeki nöbetçi amirler sonunda baskıya boyun eğip sınırı tümüyle açtılar.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -249,17 +253,21 @@
     },
     {
       "iddia_id": "i018",
-      "cumle": "Perşembe gecesinden pazar akşamına kadar iki milyondan fazla Doğu Alman şehrin batı yakasına geçti ve akışı taşıyabilmek için duvarda on yeni geçit açıldı.",
+      "cumle": "Federal kurumun kendi kronolojisine aldığı çağdaş bir dergi röportajına göre perşembe gecesinden pazar akşamına kadar iki milyondan fazla Doğu Alman şehrin batı yakasına geçti; akışı taşıyabilmek için duvarda on yeni geçit açıldı.",
       "onem": "destek",
       "tur": "sayi",
       "kaynaklar": [
         {
           "anahtar": "k1",
           "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "AKTARIM HALKASI acildi: \"iki milyondan fazla\" rakami bpb'nin kendi kronolojisinde degil, sayfaya blok alinti olarak alinan Werner Mathes / Tilman Mueller, Stern extra Nr. 3/1989 roportajindadir. On yeni gecit ayrica k7'de bagimsiz olarak var."
     },
     {
       "iddia_id": "i019",
@@ -277,7 +285,7 @@
     },
     {
       "iddia_id": "i020",
-      "cumle": "Brandenburg Kapısı'nın yanındaki bölüm 21 Aralık 1989'da bir vinçle kaldırıldı; kapı yirmi sekiz yıl boyunca Doğu ile Batı Berlin arasındaki sınırı işaretlemişti.",
+      "cumle": "Brandenburg Kapısı'nın yanındaki bölümü bir vinç 21 Aralık 1989'da kaldırdı; kapıdaki geçit ertesi gün açıldı ve Helmut Kohl kapının altından yürüyüp Hans Modrow tarafından karşılandı. Duvar o güne dek yirmi sekiz yıl Doğu ile Batı Berlin'i ayırmıştı.",
       "onem": "merkezi",
       "tur": "tarih",
       "kaynaklar": [
@@ -291,7 +299,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kor hakem duzeltmesi: 21 Aralik vinc ayrintisi k7'de yalniz FOTOGRAF ALTYAZISINDA; gecidin asil acilisi (22 Aralik 1989, Kohl-Modrow) govde metnindedir ve onarim metninde dusmustu. \"Yirmi sekiz yil\" k1'de DUVAR icin soylenir, kapi icin degil — cumle buna gore kuruldu."
     },
     {
       "iddia_id": "i021",
@@ -347,7 +355,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "AKTARIM HALKASI: k3 bir basin fotografi kaydidir (GHDI image-3027); \"yaklasik 600\" rakami fotografta degil GHDI editorlerinin kunye notundadir. Rakam \"About 600 GDR citizens\" olarak birebir dogrulandi."
     },
     {
       "iddia_id": "i025",
@@ -379,7 +387,7 @@
     },
     {
       "iddia_id": "i027",
-      "cumle": "Honecker'in eylül sonunda imzaladığı gizli emir yürürlükteydi ve beklenen kargaşanın baştan önlenmesini buyuruyordu.",
+      "cumle": "Honecker'in eylül sonunda imzaladığı gizli emir yürürlükteydi ve beklenen kargaşanın baştan önlenmesini buyuruyordu; buna ek olarak o güne özel bir ateş emrinin verilip verilmediği, tanığın kendi ifadesiyle hâlâ açıklığa kavuşmamıştır.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -389,11 +397,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kor hakem eklemesi: k4 daha ilk cumlesinde \"It is still unclear whether a special order to shoot was in place on October 9th in Leipzig\" der; onarim metni bu cekinceyi dusurmustu. Emrin numarasi (8/89) ve tarihi (26 Eylul) kaynakta var, metinde \"eylul sonunda\" olarak veriliyor."
     },
     {
       "iddia_id": "i028",
-      "cumle": "Yine de tek kurşun atılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler akşam saatlerinde geri çekildi.",
+      "cumle": "Silah kullanılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler 18.25 sularında geri çekildi.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -407,25 +415,29 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "\"Tek kursun atilmadi\" ifadesi kaynakta yok; k4 \"forced the ultimate retreat of the armed units at around 6:25pm\" der ve gunun siddetsiz gectigini yazar. Cumle kaynagin verdigi saate ve ifadeye cekildi."
     },
     {
       "iddia_id": "i029",
-      "cumle": "O akşam atılan \"we are the people\" sloganı, partinin ve hükümetin sonraki her tereddütlü tavizini hızlandıran güce dönüştü.",
+      "cumle": "O gün atılan \"Wir sind das Volk\" — biz halkız — sloganı, partinin ve hükümetin sonraki her tereddütlü tavizini hızlandıran güce dönüştü.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
         {
           "anahtar": "k4",
           "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kor hakem duzeltmesi: onarim metni slogani k4'un Ingilizce cevirisinden \"we are the people\" diye aktariyordu; Turkce metinde atilan sloganin kendisi Almancadir ve k2'de \"Wir sind das Volk\" olarak birebir gecer. Yargi cumlesi (\"material force ... accelerated every hesitant concession\") k4'te."
     },
     {
       "iddia_id": "i030",
-      "cumle": "Kurt Masur'un da aralarında olduğu altı tanınmış Leipzigli sakin kalma çağrısı yaptı; çağrının o günün barışçı seyrine katkısı tartışmasızdır, ama ona erkenden atfedilen belirleyici rol, geri çekilmeyi asıl zorlayan kalabalığın yerini tutmaz.",
+      "cumle": "Kabare sanatçısı Bernd-Lutz Lange, Gewandhaus şefi Kurt Masur ve ilahiyatçı Peter Zimmermann'ın yanı sıra SED bölge yönetiminin sekreteri Kurt Meyer'in de içinde olduğu altı tanınmış Leipzigli sakin kalma çağrısı yaptı; çağrının o günün barışçı seyrine katkısı tartışmasızdır, ama ona erkenden atfedilen belirleyici rol, geri çekilmeyi asıl zorlayan kalabalığın yerini tutmaz.",
       "onem": "destek",
       "tur": "yorum",
       "kaynaklar": [
@@ -435,7 +447,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kor hakem eklemesi: k4 alti imzacinin adlarini ve Kurt Meyer'in SED bolge yonetimi sekreteri oldugunu yazar. \"Alti taninmis Leipzigli\" ifadesi cagrinin yarisinin parti gorevlilerinden geldigini ortuyordu."
     },
     {
       "iddia_id": "i031",
@@ -460,10 +472,14 @@
         {
           "anahtar": "k1",
           "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "k1 \"in Berlin\" der; Alexanderplatz adi k2'de. Sayi belirsizligi i057'de ayrica kayitli."
     },
     {
       "iddia_id": "i033",
@@ -735,7 +751,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kunye dizesi (population_historical) basliktadir ve getir ile dogrulanir; World satirlari getir'in 400 bin karakterlik kesme sinirinin otesinde kalir. 1989 degeri tam CSV'den okundu: 5.234.431.736."
     },
     {
       "iddia_id": "i051",
@@ -795,7 +811,7 @@
     },
     {
       "iddia_id": "i055",
-      "cumle": "Sloganın kendisi ise el değiştirebiliyor: sağ popülist hareketler 1989'un mirasçısı olduklarını ilan edip aynı sözü seçim afişlerine taşıdı, eski hak savunucuları bu sahiplenmeye açıkça itiraz etti.",
+      "cumle": "Daha 1989 kışında Leipzig'in pazartesi gösterilerinde Wir sind das Volk çığlığının yerini Wir sind ein Volk — biz tek halkız — sloganı aldı; milliyetçi tonlar yükseldikçe pek çok hak savunucusu şaşkınlıkla geri çekildi. Otuz yıl sonra AfD 1989'un mirasçısı olduğunu ilan edip aynı sözü 2019 Brandenburg eyalet seçiminin afişlerine taşıdı; eski hak savunucuları bunu bir tarih yalanı sayıp açıkça itiraz etti.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -805,7 +821,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kor hakem eklemesi: sloganin 1989/90 icindeki kendi kaymasi (\"Aus Wir sind das Volk wurde Wir sind ein Volk\") k2'de acikca var ve onarim metninde yoktu; ayrica k2 partiyi (AfD) ve secimi (2019 Brandenburg eyalet secimi) adiyla verir."
     },
     {
       "iddia_id": "i056",
@@ -820,10 +836,52 @@
       ],
       "guven": "orta",
       "inceleme": "Kapanis degerlendirmesi kaynagin sundugu ogelerden yazarin cikardigi sentezdir"
+    },
+    {
+      "iddia_id": "i057",
+      "cumle": "Kaç kişi olduğu ise kesin değildir: yüz binlerle sayılan bu topluluk için dolaşan rakamlar bir milyona kadar çıkar, daha yeni bir tahmin ise iki yüz bin dolayını verir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem eklemesi: k2 govdesi \"nach Hunderttausenden zaehlende Protestversammlung\" der, dipnotu ise rakamlarin bir milyona kadar ciktigini (Hermann Weber) ama daha yeni tahminin ~200.000 oldugunu (Kowalczuk, Endspiel) yazar. Onarim metni yalniz \"en buyuk gosteri\" ustunlugunu tasiyordu."
+    },
+    {
+      "iddia_id": "i058",
+      "cumle": "Kaynak bu karşıtlığı olduğundan büyük göstermemeyi ister: iki görüş öteden beri biliniyordu ve uzaktan bakanın sandığından birbirine daha yakındı — Kowalczuk kendi geniş çalışmasında kaçış hareketini çöküşün öne çıkan etkeni saymış, toplumun uyanışını muhalefetin ötesinde kitlesel gösterilere bağlamıştı. Tartışmayı dikkate değer kılan içeriği değil, yürütülüşündeki incitici sertlikti.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem eklemesi: k2 \"die unterschiedlichen Sichten ... lagen zudem weniger weit auseinander, als unvertraute Leser vermutet haetten\" ve \"Bemerkenswert war die Debatte nicht wegen ihres Inhalts, sondern wegen der verletzenden Schaerfe\" der. Onarim metni cekismeyi kaynagin kendi degerlendirmesinin tersine keskin bir kutuplasma gibi sunuyordu."
+    },
+    {
+      "iddia_id": "i059",
+      "cumle": "Sabrow burada tek yönlü bir gasp değil, birbirine zıt ama aynı ölçüde efsaneleştirici iki sahiplenme girişimi görür: altüst oluşu yalnız muhaliflerin hanesine yazmak da bir efsanedir, çünkü kitle gösterilerinin itki gücü olmasa iktidarı adım adım geri çekilmeye zorlayan basınç doğmazdı.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem eklemesi: k2 \"ringen hier nicht vielmehr zwei entgegengesetzte, aber gleichermassen mythisierende Bemaechtigungsversuche miteinander?\" diye sorar ve hemen ardindan kitle gosterilerinin itki gucunu vurgular. Onarim metni yalniz hak savunucularinin itirazini veriyor, kaynagin simetrik hukmunu dusuruyordu."
     }
   ],
   "sayaclar": {
-    "dogrudan": 52,
+    "dogrudan": 55,
     "kismi": 4,
     "desteksiz": 0,
     "olculemez": 0

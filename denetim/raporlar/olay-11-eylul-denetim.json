@@ -1,9 +1,9 @@
 {
   "id": "olay-11-eylul",
   "gecis": 2,
-  "zaman": "2026-08-29T14:45:24.796Z",
-  "govde_hash": "78fd3807584c",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T14:54:20.461Z",
+  "govde_hash": "90e63b8f62ac",
+  "commit": "cd6a45e",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -85,7 +85,13 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Sonra vurulan kule önce çöktü; çarpmanın yüksekliği ve hasarın dağılımı iki bina için farklı zaman çizelgeleri üretmişti.",
+      "iddia": "Sonra vurulan kule önce çöktü: güney kule vurulduktan elli altı dakika sonra, kuzey kule yüz iki dakika sonra yıkıldı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kurumun bu sayfası sıranın nedenini ayrı bir madde olarak açıklamaz; iki kule için yalnızca ayrı zaman çizelgeleri kaydeder.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -115,7 +121,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Raporun aktardığına göre asıl tasarı çok daha büyüktü — iki kıyıda birden on uçakla saldırı — ve ölçeği ile karmaşıklığı yüzünden örgüt lideri tarafından küçült",
+      "iddia": "Raporun, planlayıcının kendi sorgu beyanı olarak işaretleyip aktardığına göre asıl tasarı çok daha büyüktü — iki kıyıda birden on uçakla saldırı — ve ölçeği ile",
       "durum": "OK",
       "not": ""
     },
@@ -144,10 +150,22 @@
       "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
+      "anahtar": "k2",
+      "iddia": "Aynı bölüm bu söylemin seçici olduğunu da kaydeder: İslam'dan, tarihten ve bölgenin siyasi ve iktisadi sıkıntılarından parça parça devşirilmiştir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
       "anahtar": "k1",
       "iddia": "Komisyon raporu 2004'te üç bileşen verir: Dünya Ticaret Merkezi'nde 2.600'den fazla, Pentagon'da 125, dört uçakta 256 kişi.",
       "durum": "OK",
       "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Rapor bu üç sayının saldırganları içerip içermediğini yazmaz; kapsam belirsizliği daha ilk sayımın içinde başlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
@@ -168,8 +186,14 @@
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
+      "anahtar": "k4",
+      "iddia": "Toza, enkaza ve bunları yaratan koşullara maruz kalanların sayısı yüz binlerle ölçülür; bir tahmine göre 18.000 kişide toza bağlı hastalık gelişti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
       "anahtar": "k9",
-      "iddia": "Yıkıntıdan yayılan toza maruz kalan on binlerce kişi sonraki yıllarda hastalandı; bir tahmine göre 18.000 kişide toza bağlı hastalık gelişti.",
+      "iddia": "Toza, enkaza ve bunları yaratan koşullara maruz kalanların sayısı yüz binlerle ölçülür; bir tahmine göre 18.000 kişide toza bağlı hastalık gelişti.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -216,6 +240,18 @@
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
+      "anahtar": "k5",
+      "iddia": "Metin bir süre sınırı ya da kendiliğinden sona erme hükmü de taşımaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Amerika saldırının ardından Afganistan'ı işgal etti; NATO da kuruluş antlaşmasının ortak savunma maddesini tarihinde ilk ve tek kez bu olay için işletti.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
       "anahtar": "k6",
       "iddia": "26 Ekim 2001'de yasalaşan USA PATRIOT Act, adı bir kısaltma olacak biçimde kurulmuş uzun bir başlık taşır ve kolluk ile istihbaratın yetkilerini genişletir; yab",
       "durum": "OK",
@@ -226,6 +262,12 @@
       "iddia": "Sivil özgürlük örgütleri yasayı, kolluğa yurttaşların mahremiyetine girme imkânı verdiği ve yargı denetimini zayıflattığı gerekçesiyle eleştirdi.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kongre, saldırıdan sonra Arap ve Müslüman Amerikalılara yönelen şiddet eylemlerini kınadığını, Müslüman kadınların taciz korkusuyla giyimlerini değiştirdiğini v",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k7",
@@ -307,7 +349,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Komisyonun kendisi ikisini de yetersiz bulur; izleme listesi, bilgi paylaşımı ya da noktaları birleştirmek gibi etiketlerin hepsinin çok dar kaldığını söyler ve",
+      "iddia": "Kaçırılan fırsatlar tartışmasında kullanılan izleme listesi, bilgi paylaşımı ya da noktaları birleştirmek gibi etiketlerin hepsinin çok dar kaldığını söyler ve ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

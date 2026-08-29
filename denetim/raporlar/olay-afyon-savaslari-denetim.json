@@ -1,19 +1,19 @@
 {
   "id": "olay-afyon-savaslari",
   "gecis": 2,
-  "zaman": "2026-08-29T14:45:12.711Z",
-  "govde_hash": "aac2feb08b5a",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T15:02:15.751Z",
+  "govde_hash": "5e9d14030273",
+  "commit": "7a16c22",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Britanya Hindistan'da ürettiği afyonu Çin kıyılarına kaçırıyor, Qing devleti bu ticareti yasaklıyordu; yasağı fiilen uygulama girişimi 1839'da Kanton'da bir ask",
+      "iddia": "Britanya Hindistan'da ürettiği afyonu Çin kıyılarına kaçırıyor, Qing devleti bu ticareti yasaklıyordu; yasağı fiilen uygulama girişimi 1839'da Kanton'da (Guangz",
       "durum": "OK",
       "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k6",
-      "iddia": "Britanya Hindistan'da ürettiği afyonu Çin kıyılarına kaçırıyor, Qing devleti bu ticareti yasaklıyordu; yasağı fiilen uygulama girişimi 1839'da Kanton'da bir ask",
+      "iddia": "Britanya Hindistan'da ürettiği afyonu Çin kıyılarına kaçırıyor, Qing devleti bu ticareti yasaklıyordu; yasağı fiilen uygulama girişimi 1839'da Kanton'da (Guangz",
       "durum": "OK",
       "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
@@ -79,9 +79,15 @@
     },
     {
       "anahtar": "k6",
-      "iddia": "Daoguang imparatoru 1838'deki saray tartışmasının sonunda yasallaştırma yanlılarını değil, tam yasak isteyenleri destekledi ve Lin Zexu'yu olağanüstü yetkiyle K",
+      "iddia": "Saray yıllarca bölünmüştü: bir yanda gümüş çıkışından ve bağımlılıktan kaygılanıp tam yasak isteyenler, öte yanda ilacı yasallaştırıp vergilendirmeyi savunan gü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Daoguang imparatoru sonunda tam yasak yanlılarını destekledi ve Lin Zexu'yu olağanüstü yetkiyle Kanton'a gönderdi; Lin Mart 1839'da kente vardı.",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
@@ -103,13 +109,25 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Lin bir de olgusal dayanak öne sürer — \"Kendi ülkenizde afyonun en büyük katılıkla yasaklandığını duyduk\" — ve kraliçeden Bengal, Patna, Malwa ve Benares'teki h",
+      "iddia": "Lin bir de olgusal dayanak öne sürer — \"Kendi ülkenizde afyonun en büyük katılıkla yasaklandığını duyduk\" — ve kraliçeden Bengal, Madras, Bombay, Patna, Malwa, ",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
+      "anahtar": "k2",
+      "iddia": "Lin bir de olgusal dayanak öne sürer — \"Kendi ülkenizde afyonun en büyük katılıkla yasaklandığını duyduk\" — ve kraliçeden Bengal, Madras, Bombay, Patna, Malwa, ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mektup burada bir ayrım yapar: Britanya adalarında afyon üretilmediğini doğru biçimde tespit eder, yanlış olan yasak kısmıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
       "anahtar": "k7",
-      "iddia": "Bu dayanak yanlıştı: afyon o tarihte Britanya'da yasal biçimde satılıyordu ve tam da bu nedenle Londra, sonraki yıllarda ticareti yasaklamayı değil düzenlemeyi ",
+      "iddia": "Afyon o tarihte Britanya'da yasal biçimde satılıyordu ve tam da bu nedenle Londra, sonraki yıllarda ticareti yasaklamayı değil düzenlemeyi savunacaktı.",
       "durum": "OK",
       "not": ""
     },
@@ -127,7 +145,7 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "Palmerston yanlıları 1832 tarihli parlamento komisyonunun görüşünü hatırlattı: Bengal afyon ticareti 981.283 sterlin getirdiği için, Hindistan gelirlerinin o gü",
+      "iddia": "Hükûmet adına konuşan Sir John Cam Hobhouse, konunun meclise ilk kez gelmediğini söyleyerek 1832 tarihli parlamento komisyonunun görüşünü hatırlattı: Bengal afy",
       "durum": "OK",
       "not": ""
     },
@@ -139,7 +157,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "İkinci madde Kanton, Amoy, Foochow, Ningpo ve Şanghay'ı Britanyalı tüccarların aileleriyle birlikte yerleşimine açar ve her birine konsolos atanmasını öngörür; ",
+      "iddia": "İkinci madde beş limanı — metnin kendi yazımıyla Kanton, Amoy, Foochow, Ningpo ve Şanghay, bugünkü adlarıyla Guangzhou, Xiamen, Fuzhou, Ningbo ve Şanghay — Brit",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -157,9 +175,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "On ikinci madde Britanya kuvvetlerinin Chusan ve Koolangsoo adalarında, ödemeler tamamlanana kadar kalmasını öngörür; antlaşma yalnızca bir barış değil, bir tah",
+      "iddia": "On ikinci madde Britanya kuvvetlerinin Chusan (Zhoushan) ve Koolangsoo (Gulangyu) adalarında, hem ödemeler tamamlanana hem de limanların açılma düzenlemeleri bi",
       "durum": "OK",
-      "not": ""
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -193,7 +211,7 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "Haziranda Tien-tsin'de imzalanan antlaşma, Britanya temsilcisine Pekin'de kalıcı ikamet hakkı verdi ve Çin resmî belgelerinde Britanyalılar için \"barbar\" anlamı",
+      "iddia": "Haziranda Tien-tsin'de (Tianjin) imzalanan antlaşma, Britanya temsilcisine Pekin'de kalıcı ikamet hakkı verdi ve Çin resmî belgelerinde Britanyalılar için \"barb",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -213,11 +231,11 @@
       "anahtar": "k7",
       "iddia": "25 Haziran 1859'da onay belgelerini Pekin'e götüren heyete yol açmak için istihkâmlara saldıran Britanya kuvvetleri püskürtüldü, üç gemi kaybetti ve ağır zayiat",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k7",
-      "iddia": "Ertesi yıl müttefik kuvvetler Pekin önlerine ulaştı; 18-19 Ekim 1860'ta Lord Elgin'in emriyle imparatorluk yazlık sarayı Yuanmingyuan yağmalanıp yakıldı.",
+      "iddia": "Ertesi yıl müttefik kuvvetler Pekin önlerine ulaştı: imparatorluk yazlık sarayı Yuanmingyuan 6 Ekim 1860'ta yağmalandı, 18-19 Ekim'de ise Lord Elgin'in emriyle ",
       "durum": "OK",
       "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -235,7 +253,7 @@
     },
     {
       "anahtar": "k6",
-      "iddia": "Qing sarayının afyona karşı en güçlü ekonomik gerekçesi, ülkeden gümüş çıkışıydı; ticaretin dengesi tersine dönmüş, bakır para ile gümüş arasındaki kur bozulmuş",
+      "iddia": "Qing sarayının afyona karşı en güçlü ekonomik gerekçesi, ülkeden gümüş çıkışıydı: saray afyon ithalatını kitlesel gümüş çıkışının ve bunun para düzeninde yaratt",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -253,13 +271,13 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "Hükûmet yanlıları 1840 tartışmasında, Hindistan'daki üretim kısılsa bile arzın Türkiye, İran ya da komşu bir ülkeye kayacağını, dolayısıyla tek bir tedarikçiyi ",
+      "iddia": "Palmerston, oylamadan önceki kapanış konuşmasında, Hindistan'daki üretim kısılsa bile arzın Türkiye, İran ya da komşu bir ülkeye kayacağını, dolayısıyla tek bir",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k6",
-      "iddia": "Ticaretin tarafları arasında Britanya'nın yanı sıra Amerika Birleşik Devletleri, Hindistan, Güneydoğu Asya ve Çin'in kendi tüccarları da vardı; Hindistan'dan ge",
+      "iddia": "Nitekim ticaretin tarafları arasında Britanya'nın yanı sıra Amerika Birleşik Devletleri, Türkiye, Hindistan, Güneydoğu Asya ve Çin'in kendi tüccarları da vardı;",
       "durum": "OK",
       "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
@@ -268,6 +286,12 @@
       "iddia": "Savaş arifesinde Çin'de yaklaşık on milyon afyon içicisi bulunduğu ve bunların iki milyonunun bağımlı olduğu tahmin edilir; kaynak bunu bir tahmin olarak verir,",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Yasallaştırmaya Çin tarafının nasıl baktığını aktaran kaynak bile tanığını Afyon Ticaretini Bastırma Derneği'nin yayın organından almak zorunda kalır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin, Afyon, Ticaretini, Bastırma"
     },
     {
       "anahtar": "k9",
@@ -283,9 +307,9 @@
     },
     {
       "anahtar": "k9",
-      "iddia": "Nitekim Qing sarayı 1860 yenilgisinin ve iç isyanların ardından 1861'de dış işleri yönetecek bir daire kurmayı kabul etti; savaşın gerçek sonucu, tazminattan ço",
+      "iddia": "Nitekim Qing sarayı 1860 yenilgisinin ve Taiping İsyanı'nın ardından 1861'de dış işleri yönetecek bir daire — Zongli Yamen — kurdu; kaynak bunu bir teslimiyette",
       "durum": "OK",
-      "not": ""
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",

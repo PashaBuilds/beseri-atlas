@@ -1,19 +1,82 @@
 {
   "id": "olay-yesil-devrim",
   "gecis": 3,
-  "zaman": "2026-08-21T07:43:34.932Z",
+  "zaman": "2026-08-29T14:55:26.574Z",
   "itirazlar": [
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Bu dönüşümün başlatıcıları devletler değil vakıflardır: hem Ford Vakfı hem Rockefeller Vakfı, programın Meksika'daki ilk gelişiminde yoğun biçimde yer almıştır.[^k1]",
+      "cumle": "1943'te başlayan program dar bir hedefle kuruldu: mısır, buğday ve fasulye üretimini artırmak. Vakfın kendi yıllık raporu, George Harrar'ın yönetiminde kurulan ilk projenin buğday ",
       "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     },
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Bir milyarı aşan bir sayının tek bir kişiye atfedilmesi,[^k1] atlasın sayı okuma uyarısını gerektirir: bu, ölçülmüş bir sonuç değil bir atıf ifadesidir. Kaynak da \"anılmaktadır\" di",
+      "cumle": "Bu emeğin sonunda ortaya çıkan şey tek bir tohum değil bir çeşit ailesiydi: sapı kısa, yüksek genetik verim potansiyeli taşıyan, ağır gübre dozlarına güçlü ve verimli tepki veren, ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Çeşitlerin ayırt edici özelliği tek başına yüksek verim değil, gübreye verdikleri tepkiydi: uzun saplı buğday ağır gübre aldığında yatıyor, kısa saplı çeşit ayakta kalıp gelen besi",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Üretim rakamları hızla değişti. Yeşil Devrim öncesinin rekor hasadı olan 1964-1965 yılı taban alındığında Pakistan'ın buğday üretimi 4,6 milyon tondan 1968, 1969 ve 1970 hasatların",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Pirinç cephesi ayrı bir kurumla açıldı. 1960'ta Filipinler'in Los Baños kentinde, Ford ve Rockefeller vakıflarının ortak finansmanı ve Filipin hükümetiyle işbirliği içinde Uluslara",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Eleştirinin normatif kanadı bu ölçümlerden farklı bir soru sorar. En bilinen örneği, Vandana Shiva'nın 1989 tarihli çalışmasıdır; başlığı tezini taşır: yeşil devrimin şiddeti, Penc",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Girdi bağımlılığının en somut faturası suda göründü. NASA'nın yerçekimi uydularıyla yapılan bir ölçüm, Racastan, Pencap ve Haryana eyaletlerinde, Delhi dahil, yeraltı suyunun yılda",
+      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Bu ölçüm olayın kendisinden sonraki bir dönemi kapsar ve tükenmeyi tek başına Yeşil Devrim'e bağlamaz; kaydettiği şey bir sonuç değil bir durumdur. Ama mekanizma ortaktır: sulamaya",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Meksika ve Hindistan modellerini Afrika'ya taşımak için çok sayıda girişimde bulunuldu; bunlar genel olarak daha az başarılı sonuç verdi.[^k2] Gösterilen nedenler arasında yolsuzlu",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "yuksek",
+      "tip": "kesinlik-dili",
+      "cumle": "Seriler farkı açıkça gösterir. Tahıl verimi Güney Asya'da 1961'de hektarda 1,01 tonken 2023'te 3,67 tona çıktı; Afrika'da aynı yıllar arasında 0,81 tondan 1,71 tona yükseldi.[^k5] ",
+      "sorun": "Kesinlik ifadesi \"açıkça gösterir\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Borlaug 1970'te Nobel Barış Ödülü aldı ve bugün yaygın biçimde bir milyardan fazla insanı açlıktan kurtarmakla anılır.[^k2] Bu, ölçülmüş bir sonuç değil bir anma ifadesidir; niteki",
       "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     }

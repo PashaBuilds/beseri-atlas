@@ -1,5 +1,5 @@
 ## olay-11-eylul
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:45:24.796Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:54:20.461Z_
 
 - [OK]      k1 → "El Kaide'ye bağlı on dokuz kişi, 11 Eylül 2001 sabahı Amerika Birleşik Devletleri'nde dört yolcu uçağını kaçır…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "İki uçak Manhattan'daki Dünya Ticaret Merkezi'nin kulelerine, biri Pentagon'a çarptı; dördüncüsü, yolcuların ü…" — 1 atom doğrulandı; 3 ad ölçülemedi
@@ -14,21 +14,25 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:45:24.796Z_
 - [ATOMSUZ] k1 → "Her gün 50.000'e varan insanın çalıştığı iki kule, doksan dakika dolmadan çöktü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "9.37'de üçüncü uçak Pentagon'un batı cephesine girdi; 10.03'te dördüncü uçak, Kongre binası ya da Beyaz Saray'…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k3 → "Teknik soruşturmanın kaydı dakikaları daha da keskinleştirir: kuzey kule 8.46'da vuruldu ve 10.28'de, güney ku…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Sonra vurulan kule önce çöktü; çarpmanın yüksekliği ve hasarın dağılımı iki bina için farklı zaman çizelgeleri…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Sonra vurulan kule önce çöktü: güney kule vurulduktan elli altı dakika sonra, kuzey kule yüz iki dakika sonra …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Kurumun bu sayfası sıranın nedenini ayrı bir madde olarak açıklamaz; iki kule için yalnızca ayrı zaman çizelge…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Sivil havacılık idaresi ile hava savunma komutanlığı arasındaki yordamlar, kaçırılan uçağın silah olarak kulla…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Ateş açma izni, dördüncü uçak düştükten yirmi sekiz dakika sonra hava savunma sektörüne ulaştı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Aynı sabah, tahliyenin çarpma katlarının altında kalan binlerce kişinin neredeyse tamamını kurtardığı da kayıt…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Komisyon raporu saldırıyı Afganistan merkezli bir örgütün planına bağlar; kaçıranların dördü pilotluk eğitimi …" — programatik olarak ölçülemedi (ad karşılığı yok): Afganistan, İngilizceyi
-- [OK]      k1 → "Raporun aktardığına göre asıl tasarı çok daha büyüktü — iki kıyıda birden on uçakla saldırı — ve ölçeği ile ka…"
+- [OK]      k1 → "Raporun, planlayıcının kendi sorgu beyanı olarak işaretleyip aktardığına göre asıl tasarı çok daha büyüktü — i…"
 - [OK]      k1 → "Saldırı öncesinde örgüt içinde itiraz da vardı: Afganistan'daki yönetimin başı Amerika'ya saldırılmasına karşı…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Operasyonun maliyeti 400.000 ile 500.000 dolar arasında hesaplanmıştır; bu paranın 270.000 dolardan fazlası ül…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Rapor, paranın kaynağını belirleyemediğini açıkça yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Örgütün lideri, Amerikan askerlerinin Suudi Arabistan'daki varlığına, Körfez Savaşı sonrası yaptırımların Irak…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Aynı bölüm bu söylemin seçici olduğunu da kaydeder: İslam'dan, tarihten ve bölgenin siyasi ve iktisadi sıkıntı…"
 - [OK]      k1 → "Komisyon raporu 2004'te üç bileşen verir: Dünya Ticaret Merkezi'nde 2.600'den fazla, Pentagon'da 125, dört uça…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k1 → "Rapor bu üç sayının saldırganları içerip içermediğini yazmaz; kapsam belirsizliği daha ilk sayımın içinde başl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Teknik soruşturma daha dar bir çerçeveyi daha kesin sayar: kulelere yapılan saldırılarda ölenlerin sayısı 2.73…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k3 → "Bu sayının içinde iki binada bulunan 2.184 kişi, iki uçaktaki 129 kişi (119 yolcu ve mürettebat ile 10 saldırg…"
 - [ATOMSUZ] k9 → "Kamusal bellekte dolaşan rakam ise üçüncü bir kapsama aittir: saldırganlar hariç 2.977 ölü, saldırganlarla bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k9 → "Yıkıntıdan yayılan toza maruz kalan on binlerce kişi sonraki yıllarda hastalandı; bir tahmine göre 18.000 kişi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Toza, enkaza ve bunları yaratan koşullara maruz kalanların sayısı yüz binlerle ölçülür; bir tahmine göre 18.00…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Toza, enkaza ve bunları yaratan koşullara maruz kalanların sayısı yüz binlerle ölçülür; bir tahmine göre 18.00…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k4 → "Onların kaydı başka bir yerde tutulur: 2011'de kurulan federal sağlık programının kütüğünde."
 - [OK]      k3 → "Kulelerin çöküşü, 2002'de çıkarılan bir yasayla kurulan resmî teknik soruşturmanın konusu oldu; standartlar ku…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k3 → "Sonuç iki aşamalıdır: çarpma taşıyıcı kolonları kesip yangın yalıtımını yerinden söktü ve jet yakıtını katlara…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -36,8 +40,11 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:45:24.796Z_
 - [OK]      k3 → "Aynı kurum, kamuoyunda dolaşan bazı iddiaları da tek tek yanıtlamıştır; örneğin çeliğin belirli bir sıcaklığa …"
 - [OK]      k5 → "Saldırıdan yedi gün sonra, 18 Eylül 2001'de kabul edilen kuvvet kullanma yetkisi, başkana saldırıyı planlayan,…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k5 → "Metinde hiçbir ülke adı geçmez; yetki bir coğrafyaya değil, bir sorumluluk ölçütüne bağlanmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Metin bir süre sınırı ya da kendiliğinden sona erme hükmü de taşımaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Amerika saldırının ardından Afganistan'ı işgal etti; NATO da kuruluş antlaşmasının ortak savunma maddesini tar…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k6 → "26 Ekim 2001'de yasalaşan USA PATRIOT Act, adı bir kısaltma olacak biçimde kurulmuş uzun bir başlık taşır ve k…" — 6 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k9 → "Sivil özgürlük örgütleri yasayı, kolluğa yurttaşların mahremiyetine girme imkânı verdiği ve yargı denetimini z…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Kongre, saldırıdan sonra Arap ve Müslüman Amerikalılara yönelen şiddet eylemlerini kınadığını, Müslüman kadınl…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k7 → "19 Kasım 2001'de çıkan havacılık güvenliği yasası, yolcu ve bagaj taramasını özel şirketlerden alıp devlete de…" — 1 atom doğrulandı; 4 ad ölçülemedi
 - [ATOMSUZ] k8 → "İç Güvenlik Yasası, ana görevi ülke içinde terör saldırılarını önlemek olarak tanımlanan bir bakanlığı yürütme…" — programatik olarak ölçülemedi (ad karşılığı yok): Güvenlik, Yasası
 - [OK]      k1 → "Komisyon 2004'te bu düzenlemelerin üstüne kendi yeniden yapılanma önerilerini koydu: terörle mücadelede istihb…"
@@ -51,10 +58,10 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:45:24.796Z_
 - [OK]      k1 → "Aynı okumaya göre kurumlar 1997'den itibaren Afganistan yönetimini diplomatik baskıyla ikna etmeyi de denemiş,…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Ocak 2000'de iki operasyonel eleman Kuala Lumpur'da görüldü, Bangkok'ta izleri kaybedildi ve 15 Ocak 2000'de L…" — 6 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Bu okumanın dayanakları sıralanabilir: gelecekteki iki saldırganın izleme listesine alınmaması, bunlardan biri…" — 1 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Komisyonun kendisi ikisini de yetersiz bulur; izleme listesi, bilgi paylaşımı ya da noktaları birleştirmek gib…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kaçırılan fırsatlar tartışmasında kullanılan izleme listesi, bilgi paylaşımı ya da noktaları birleştirmek gibi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k4 → "Toz maruziyetine bağlı hastalıklar için 2011'de kurulan federal sağlık programı, 2015'te 2090 yılına kadar uza…" — 6 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k9 → "Saldırının ardından gelen savaşların doğrudan ölü sayısı 897.000 ile 929.000 arasında, dolaylı ölümlerle birli…"
 - [ATOMSUZ] k1 → "Bir felaketin hem siyasi hem teknik soruşturmasının kamuya açık raporlar hâlinde yayımlanması, tarihçi için al…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Bir felaketin hem siyasi hem teknik soruşturmasının kamuya açık raporlar hâlinde yayımlanması, tarihçi için al…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 25 OK · 0 ISARET · 0 HATA · 30 ATOMSUZ
+**Özet:** 28 OK · 0 ISARET · 0 HATA · 34 ATOMSUZ

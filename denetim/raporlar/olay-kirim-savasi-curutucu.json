@@ -1,14 +1,63 @@
 {
   "id": "olay-kirim-savasi",
   "gecis": 3,
-  "zaman": "2026-08-21T07:49:57.298Z",
+  "zaman": "2026-08-29T14:56:03.320Z",
   "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Savaşı ağırlıklı kılan, kazanılan mevziler ya da yer değiştiren sınırlar değildir. Birincisi, ölülerin ezici çoğunluğunu muharebe değil hastalık verdi; oran taraf raporlarının kend",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Zincirin ilk halkası Paris'te çekildi. Napoléon III, Fransa'nın büyüklüğünü yeniden kurma hedefiyle Filistin'deki Hristiyan nüfus üzerinde egemen bir yetki iddia etti ve Katolik Ki",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Nedenler üzerinde tek bir okuma yoktur. Bugün tarihçilerin çoğu kutsal yerler meselesini bir bahane sayar; Vinogradov'un temsil ettiği çizgi Rus taleplerinin sınırlı olduğunu vurgu",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
     {
       "ciddiyet": "orta",
       "tip": "tek-kaynakli-nedensellik",
-      "cumle": "Aynı kayda göre karşı taraf da istekli değildi: Fransa ve Britanya, çatışmanın iç kamuoyundaki popülersizliği nedeniyle bu gelişmeyi memnuniyetle karşıladı.[^k1]",
-      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "cumle": "Salgın, ilk kurşundan önce başladı. The Times muhabiri William Howard Russell, 1854 yazında Gelibolu ve Varna kamplarında koleranın yüzlerle ölçülen ölümlere yol açtığını, Fransız ",
+      "sorun": "Nedensellik iddiası tek kaynağa (k5) dayanıyor.",
       "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Efsanenin çatladığı yer zaman sırasıdır. Hemşire ekibinin Boğaz'a ulaşmasından sonraki aylarda tablo düzelmedi: aynı rapor, Britanya hastanelerinin birkaç ay boyunca hastaların ner",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Savaşın tıbbi mirası tek taraflı da değildir. Rus cerrah Nikolay Pirogov'un cephede kurduğu sahra cerrahisi düzenine başka ordular ancak Birinci Dünya Savaşı'nda ulaşabildi.[^k1]",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Savaş, kamuoyunun cepheyi günü gününe okuduğu ilk savaştır. Fransızlar 1854 sonunda telgraf hattını Karadeniz kıyısına uzattığında haberler Londra'ya iki günde, Britanya 1855 Nisan",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Görüntü tarafı daha seçiciydi. Roger Fenton'ın 1855'te Kırım'da çektiği ve cam negatiften tuzlu kâğıda basılan karelerden biri, müze kaydına Balaklava'daki demiryolu depolarının çı",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     }
   ]
 }

@@ -127,6 +127,7 @@ export async function canlilikDenetimi(makaleler, { taze = false, izinliHavuz = 
   const defter = defterOku();
   const simdi = Date.now();
   const olculemeyenler = [];
+  let birebir = 0; let ortusme = 0; const ortusmeOrnekleri = [];
 
   for (const u of urller) {
     const s = cevaplar.get(u);
@@ -160,6 +161,14 @@ export async function canlilikDenetimi(makaleler, { taze = false, izinliHavuz = 
       const kontrol = dizeGeciyorMu(`${s.baslik || ''} ${s.metin || ''}`, dize);
       if (!kontrol.ok) {
         r10.hata(m.goreli, `${k.anahtar}: kunye dizesi sayfada bulunamadi (eslesme %${Math.round(kontrol.oran * 100)}) — aranan: "${dize}"`);
+      } else if (kontrol.oran === 1) {
+        birebir += 1;
+      } else {
+        // Geri dusus: dize birebir gecmiyor, kelimelerinin %80'i geciyor.
+        // Bu "gecti" sayilir ama BIREBIR DOGRULAMA DEGILDIR ve sayilmadan
+        // gecerse kapinin verdigi guvence tasidigindan buyuk gorunur.
+        ortusme += 1;
+        ortusmeOrnekleri.push(`${m.fm.id}/${k.anahtar} %${Math.round(kontrol.oran * 100)}`);
       }
     }
   }
@@ -181,6 +190,15 @@ export async function canlilikDenetimi(makaleler, { taze = false, izinliHavuz = 
     r8.hata('denetim/olculemeyen.json',
       `URL'lerin %${(oran * 100).toFixed(1)}'i olculemedi (tavan %${OLCULEMEZ_TAVAN_ORAN * 100}) — basarisiz olan korpus degil olcumun kendisi; "gecti" demek yanlis beyan olur`);
   }
+
+  const dogrulanan = birebir + ortusme;
+  r10.ozetSatirlari = [
+    `dogrulanan kunye dizesi: ${dogrulanan} — birebir gecen ${birebir}, yalnizca kelime ortusmesiyle gecen ${ortusme}`,
+    ortusme
+      ? `  kelime ortusmesi tam dogrulama DEGILDIR; ornekler: ${ortusmeOrnekleri.slice(0, 5).join(' · ')}`
+      : '  geri dusus hic kullanilmadi — her dize sayfada birebir duruyor',
+  ];
+  r10.olcum = { dogrulanan, birebir, ortusme };
 
   return { r8, r10, kontrolEdilen: urller.length, olculemeyen: olculemeyenler.length };
 }

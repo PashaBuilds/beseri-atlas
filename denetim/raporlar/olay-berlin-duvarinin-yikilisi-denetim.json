@@ -1,9 +1,9 @@
 {
   "id": "olay-berlin-duvarinin-yikilisi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:45:02.911Z",
-  "govde_hash": "dccf10b70da4",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T15:01:34.153Z",
+  "govde_hash": "45141d6edc07",
+  "commit": "7a16c22",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -18,8 +18,14 @@
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
+      "anahtar": "k7",
+      "iddia": "Bir gazetecinin düzenlemenin ne zaman yürürlüğe gireceğini sorması üzerine Schabowski, bildiği kadarıyla \"sofort, unverzüglich\" — derhal, gecikmeksizin — yürürl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
       "anahtar": "k1",
-      "iddia": "Bir gazetecinin ne zaman geçerli olacağını sorması üzerine Schabowski, bildiği kadarıyla düzenlemenin \"sofort, unverzüglich\" — derhal, gecikmeksizin — yürürlükt",
+      "iddia": "Bir gazetecinin düzenlemenin ne zaman yürürlüğe gireceğini sorması üzerine Schabowski, bildiği kadarıyla \"sofort, unverzüglich\" — derhal, gecikmeksizin — yürürl",
       "durum": "OK",
       "not": ""
     },
@@ -55,9 +61,9 @@
     },
     {
       "anahtar": "k7",
-      "iddia": "Schabowski önce dağınık bir cevap verdi, sonra notu hatırlayıp okumaya başladı; ardından gelen yürürlük sorusuna birkaç saniyelik duraksamanın sonunda o cümleyi",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Beil yürürlük tarihine bakanlar kurulunun karar vereceğini araya sıkıştırmaya çalışırken Schabowski ilgili maddeyi okumayı sürdürdü.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k7",
@@ -91,9 +97,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Bornholmer Caddesi geçidindeki nöbetçi amirler sonunda baskıya boyun eğip sınırı tümüyle açtılar.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Caddesi"
+      "iddia": "Bornholmer Caddesi (Bornholmer Straße) geçidindeki nöbetçi amirler sonunda baskıya boyun eğip sınırı tümüyle açtılar.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -103,9 +109,9 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "O saatlerde Invalidenstrasse geçidinde insanlar hâlâ vize ve zorunlu döviz bozdurma kuralına tabiydi ve sıraya girip adlarının okunmasını bekliyorlardı; Batı'da",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "iddia": "O saatlerde Invalidenstraße geçidinde insanlar hâlâ vize ve zorunlu döviz bozdurma kuralına tabiydi ve sıraya girip adlarının okunmasını bekliyorlardı; Batı'dan",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Batı"
     },
     {
       "anahtar": "k5",
@@ -115,7 +121,19 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Perşembe gecesinden pazar akşamına kadar iki milyondan fazla Doğu Alman şehrin batı yakasına geçti ve akışı taşıyabilmek için duvarda on yeni geçit açıldı.",
+      "iddia": "Federal kurumun kendi kronolojisine aldığı çağdaş bir dergi röportajına göre perşembe gecesinden pazar akşamına kadar iki milyondan fazla Doğu Alman şehrin batı",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Doğu, Alman"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Federal kurumun kendi kronolojisine aldığı çağdaş bir dergi röportajına göre perşembe gecesinden pazar akşamına kadar iki milyondan fazla Doğu Alman şehrin batı",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Doğu, Alman"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Federal kurumun kendi kronolojisine aldığı çağdaş bir dergi röportajına göre perşembe gecesinden pazar akşamına kadar iki milyondan fazla Doğu Alman şehrin batı",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): Doğu, Alman"
     },
@@ -127,15 +145,15 @@
     },
     {
       "anahtar": "k7",
-      "iddia": "Brandenburg Kapısı'nın yanındaki bölüm 21 Aralık 1989'da bir vinçle kaldırıldı; kapı yirmi sekiz yıl boyunca Doğu ile Batı Berlin arasındaki sınırı işaretlemişt",
+      "iddia": "Duvar o güne dek yirmi sekiz yıl Doğu ile Batı Berlin'i ayırmıştı.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Brandenburg Kapısı'nın yanındaki bölüm 21 Aralık 1989'da bir vinçle kaldırıldı; kapı yirmi sekiz yıl boyunca Doğu ile Batı Berlin arasındaki sınırı işaretlemişt",
+      "iddia": "Duvar o güne dek yirmi sekiz yıl Doğu ile Batı Berlin'i ayırmıştı.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k7",
@@ -175,31 +193,43 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "Honecker'in eylül sonunda imzaladığı gizli emir yürürlükteydi ve beklenen kargaşanın baştan önlenmesini buyuruyordu.",
+      "iddia": "Honecker'in eylül sonunda imzaladığı gizli emir yürürlükteydi ve beklenen kargaşanın baştan önlenmesini buyuruyordu; buna ek olarak o güne özel bir ateş emrinin",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k4",
-      "iddia": "Yine de tek kurşun atılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler akşam saatlerinde geri çekildi.",
+      "iddia": "Silah kullanılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler 18.25 sularında geri çekildi.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k7",
-      "iddia": "Yine de tek kurşun atılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler akşam saatlerinde geri çekildi.",
+      "iddia": "Silah kullanılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler 18.25 sularında geri çekildi.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k4",
-      "iddia": "O akşam atılan \"we are the people\" sloganı, partinin ve hükümetin sonraki her tereddütlü tavizini hızlandıran güce dönüştü.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "O gün atılan \"Wir sind das Volk\" — biz halkız — sloganı, partinin ve hükümetin sonraki her tereddütlü tavizini hızlandıran güce dönüştü.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "O gün atılan \"Wir sind das Volk\" — biz halkız — sloganı, partinin ve hükümetin sonraki her tereddütlü tavizini hızlandıran güce dönüştü.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k4",
-      "iddia": "Kurt Masur'un da aralarında olduğu altı tanınmış Leipzigli sakin kalma çağrısı yaptı; çağrının o günün barışçı seyrine katkısı tartışmasızdır, ama ona erkenden ",
+      "iddia": "O gün atılan \"Wir sind das Volk\" — biz halkız — sloganı, partinin ve hükümetin sonraki her tereddütlü tavizini hızlandıran güce dönüştü.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kabare sanatçısı Bernd-Lutz Lange, Gewandhaus şefi Kurt Masur ve ilahiyatçı Peter Zimmermann'ın yanı sıra SED bölge yönetiminin sekreteri Kurt Meyer'in de içind",
       "durum": "OK",
       "not": ""
     },
@@ -214,6 +244,12 @@
       "iddia": "4 Kasım'da Doğu Berlin'de Alexanderplatz'ta toplanan kalabalık, Doğu Almanya tarihinin en büyük gösterisi oldu.",
       "durum": "OK",
       "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaç kişi olduğu ise kesin değildir: yüz binlerle sayılan bu topluluk için dolaşan rakamlar bir milyona kadar çıkar, daha yeni bir tahmin ise iki yüz bin dolayın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
@@ -244,6 +280,12 @@
       "iddia": "Doğu Almanya araştırmacısı Ilko-Sascha Kowalczuk ise altüst oluşun azınlığın eseri olduğunu, sıradan yurttaşların beklediğini söyleyerek karşı çıktı.",
       "durum": "OK",
       "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tartışmayı dikkate değer kılan içeriği değil, yürütülüşündeki incitici sertlikti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
@@ -379,9 +421,21 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Sloganın kendisi ise el değiştirebiliyor: sağ popülist hareketler 1989'un mirasçısı olduklarını ilan edip aynı sözü seçim afişlerine taşıdı, eski hak savunucula",
+      "iddia": "Daha 1989 kışında Leipzig'in pazartesi gösterilerinde Wir sind das Volk çığlığının yerini Wir sind ein Volk — biz tek halkız — sloganı aldı; milliyetçi tonlar y",
       "durum": "OK",
       "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Otuz yıl sonra AfD 1989'un mirasçısı olduğunu ilan edip aynı sözü 2019 Brandenburg eyalet seçiminin afişlerine taşıdı; eski hak savunucuları bunu bir tarih yala",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sabrow burada tek yönlü bir gasp değil, birbirine zıt ama aynı ölçüde efsaneleştirici iki sahiplenme girişimi görür: altüst oluşu yalnız muhaliflerin hanesine y",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",

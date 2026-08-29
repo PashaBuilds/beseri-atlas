@@ -1,9 +1,9 @@
 {
   "id": "olay-italyan-birligi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:47:41.720Z",
-  "govde_hash": "37036bfc419e",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T14:52:01.438Z",
+  "govde_hash": "7695b6f31034",
+  "commit": "cd6a45e",
   "sonuclar": [
     {
       "anahtar": "k9",
@@ -78,36 +78,6 @@
       "not": "4 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Cavour, Roma'nın İtalya'nın başkenti olması gerektiğini söylüyor, başkent sorunu çözülmedikçe eyaletler arasında bitmeyen bir çekişme yaşanacağını, seçimin ikli",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Kendi seçim bölgesi Torino'nun bu iddiadan vazgeçmesini istemek ona acı verdiğini de açıkça söyledi.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Torino"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Asıl önemlisi, Roma'ya gidişe koyduğu iki şarttı: Fransa ile birlikte gidilecekti, yoksa birleşme dünya Katoliklerince kilisenin köleleştirilmesi sayılırdı; ve ",
-      "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Cavour bu şartlar tutulursa papalıkla devlet arasında bir barışın kurulabileceğini umuyordu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Konuşmasından birkaç ay sonra, 6 Haziran 1861'de öldü.",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
       "anahtar": "k9",
       "iddia": "Avusturya 4 Haziran'da Magenta'da yenildi, Solferino'da Fransız-Piemonte kuvvetleri karşısında müzakereye zorlandı; 12 Temmuz'daki Villafranca ateşkesi Lombardi",
       "durum": "OK",
@@ -148,6 +118,36 @@
       "iddia": "Ekim ayında Vittorio Emanuele ordusuyla güneye indi; Garibaldi Teano'da onu İtalya kralı diye selamladı, diktatörlük yetkisini devretti ve Caprera'ya çekildi.",
       "durum": "OK",
       "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Cavour, Roma'nın İtalya'nın başkenti olması gerektiğini söylüyor, başkent sorunu çözülmedikçe eyaletler arasında bitmeyen bir çekişme yaşanacağını, seçimin ikli",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kendi seçim bölgesi Torino'nun bu iddiadan vazgeçmesini istemek ona acı verdiğini de açıkça söyledi.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Torino"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Asıl önemlisi, Roma'ya gidişe koyduğu iki şarttı: Fransa ile birlikte gidilecekti, yoksa birleşme dünya Katoliklerince kilisenin köleleştirilmesi sayılırdı; ve ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Cavour bu şartlar tutulursa papalıkla devlet arasında bir barışın kurulabileceğini umuyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Konuşmasından birkaç ay sonra, 6 Haziran 1861'de öldü.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k5",

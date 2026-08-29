@@ -1,5 +1,5 @@
 ## olay-italyan-birligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:47:41.720Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:52:01.438Z_
 
 - [OK]      k9 → "Yüzyılın ortasında birbirini dışlayan üç proje aynı anda dolaşımdaydı: papanın başkanlığında bir devletler kon…"
 - [OK]      k9 → "17 Mart 1861'de Torino'da toplanan ilk İtalyan parlamentosu Vittorio Emanuele'yi İtalya kralı ilan etti; 27 Ma…"
@@ -13,11 +13,6 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:47:41.720Z_
 - [OK]      k2 → "Carlo Alberto, dergi sınırdan içeri sızmayı başarınca, dinin, ahlakın ve monarşinin ilkelerine aykırı yayınlar…"
 - [OK]      k2 → "Ceza kâğıt üzerinde kalmadı: 1833'te Chambéry'de onbaşı Giuseppe Tamburelli, dergiyi bir askere okuttuğu ya da…"
 - [OK]      k3 → "1852'de başbakan olan Cavour, Kırım Savaşı'nda ittifaka katıldı, 1858-59'da Avusturya'ya karşı savaşta Napolyo…" — 4 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k3 → "Cavour, Roma'nın İtalya'nın başkenti olması gerektiğini söylüyor, başkent sorunu çözülmedikçe eyaletler arasın…"
-- [ATOMSUZ] k3 → "Kendi seçim bölgesi Torino'nun bu iddiadan vazgeçmesini istemek ona acı verdiğini de açıkça söyledi." — programatik olarak ölçülemedi (ad karşılığı yok): Torino
-- [OK]      k3 → "Asıl önemlisi, Roma'ya gidişe koyduğu iki şarttı: Fransa ile birlikte gidilecekti, yoksa birleşme dünya Katoli…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k3 → "Cavour bu şartlar tutulursa papalıkla devlet arasında bir barışın kurulabileceğini umuyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Konuşmasından birkaç ay sonra, 6 Haziran 1861'de öldü." — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k9 → "Avusturya 4 Haziran'da Magenta'da yenildi, Solferino'da Fransız-Piemonte kuvvetleri karşısında müzakereye zorl…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k9 → "İki taraf da anlaşmanın dışına çıkmıştı: Napolyon III Venedik alınmadan savaştan çekilmiş, Cavour ise ayaklanm…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k9 → "Sardinya, Toskana Büyük Dukalığı, Parma ve Modena dukalıkları ile papalık legasyonlarından oluşan Orta İtalya …" — 2 atom doğrulandı; 3 ad ölçülemedi
@@ -25,6 +20,11 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:47:41.720Z_
 - [ATOMSUZ] k4 → "Garibaldi kendi anlatısında bunu, cumhuriyetçi "saflar"ın sonradan açıkça dile getirdiği itiraza rağmen alınmı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k4 → "Garibaldi, Palermo'da Savoy monarşisinin yandaşlarının halkı Bin'e karşı kuşkuya sürüklediğini ve vaktinden ön…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k9 → "Ekim ayında Vittorio Emanuele ordusuyla güneye indi; Garibaldi Teano'da onu İtalya kralı diye selamladı, dikta…"
+- [OK]      k3 → "Cavour, Roma'nın İtalya'nın başkenti olması gerektiğini söylüyor, başkent sorunu çözülmedikçe eyaletler arasın…"
+- [ATOMSUZ] k3 → "Kendi seçim bölgesi Torino'nun bu iddiadan vazgeçmesini istemek ona acı verdiğini de açıkça söyledi." — programatik olarak ölçülemedi (ad karşılığı yok): Torino
+- [OK]      k3 → "Asıl önemlisi, Roma'ya gidişe koyduğu iki şarttı: Fransa ile birlikte gidilecekti, yoksa birleşme dünya Katoli…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k3 → "Cavour bu şartlar tutulursa papalıkla devlet arasında bir barışın kurulabileceğini umuyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Konuşmasından birkaç ay sonra, 6 Haziran 1861'de öldü." — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k5 → "31 Aralık 1861'i 1 Ocak 1862'ye bağlayan gece yapılan sayımın bakan tarafından krala sunulan raporuna göre kra…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k5 → "Rapor, o güne kadar nüfusun İtalya'nın neredeyse her yerinde nüfus kütüklerinden kestirildiğini ve bu yöntemin…"
 - [OK]      k7 → "Devletin kendi istatistik yıllığı, 1861 seçim rakamlarının Veneto ve Roma olmadan hesaplandığını dipnotta beya…"

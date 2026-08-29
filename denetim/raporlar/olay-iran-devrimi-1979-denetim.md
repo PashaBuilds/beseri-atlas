@@ -1,5 +1,5 @@
 ## olay-iran-devrimi-1979
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:45.204Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:59:26.226Z_
 
 - [OK]      k1 → "Bu devrimin arka planı, kaynağın kendi bölümlemesinde uzun bir dizi olarak verilir: Anglo-İran Petrol Şirketi …" — 7 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Beyaz Devrim ile Humeyni'nin sürgünü aynı yılları — 1963-1979 — kaplar." — 2 atom doğrulandı; 2 ad ölçülemedi

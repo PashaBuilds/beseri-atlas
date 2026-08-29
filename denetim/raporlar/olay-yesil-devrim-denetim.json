@@ -1,9 +1,9 @@
 {
   "id": "olay-yesil-devrim",
   "gecis": 2,
-  "zaman": "2026-08-29T14:47:12.994Z",
-  "govde_hash": "03e8d0f9c348",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T15:01:28.761Z",
+  "govde_hash": "b59c20bd8d9f",
+  "commit": "7a16c22",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -13,13 +13,13 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Yirmi yıl sonra aynı programın ürünü olan çeşitler Hindistan ve Pakistan tarlalarındaydı; Filipinler'de geliştirilen IR8 pirinci ise Güney ve Güneydoğu Asya'da ",
+      "iddia": "Yirmi yıl sonra aynı programın ürünü olan çeşitler Hindistan ve Pakistan tarlalarındaydı; Filipinler'de geliştirilen IR8 pirinci ise Filipinler, Seylan, Malezya",
       "durum": "OK",
       "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k4",
-      "iddia": "Dünya buğday verimi 1961'de 1,09 ton, 2023'te 3,63 tondu.",
+      "iddia": "Dünya buğday verimi 1961'de hektarda 1,09 ton, 2023'te 3,63 tondu.",
       "durum": "OK",
       "not": ""
     },
@@ -55,7 +55,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Programın buğday kanadını yirmi altı yıl yürüten Norman Borlaug, sonucun bir rastlantı olmadığını vurgulamak için \"tarımsal üretimde mucize yoktur\" diye yazacak",
+      "iddia": "Buğday programının içinde neredeyse başından beri, yirmi altı yıl boyunca yer alan Norman Borlaug, sonucun bir rastlantı olmadığını vurgulamak için \"tarımsal ür",
       "durum": "OK",
       "not": ""
     },
@@ -68,6 +68,12 @@
     {
       "anahtar": "k2",
       "iddia": "Ülke 1943'te buğday ihtiyacının yarısını ithal ediyordu; 1956'da kendine yeterli hâle geldi, 1964'te yarım milyon ton buğday ihraç ediyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Borlaug'un ödül konuşmasındaki hesap iki kaydı ayırmayı da öğretiyor: ulusal ortalama yirmi altı yılda hektarda 750 kilodan üç bin kiloya yakın bir düzeye, yani",
       "durum": "OK",
       "not": ""
     },
@@ -199,13 +205,13 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "En bilinen örneği, Vandana Shiva'nın 1989 tarihli çalışmasıdır; başlığı tezini taşır: yeşil devrimin şiddeti, Pencap'ta ekolojik bozulma ve siyasi çatışma.",
+      "iddia": "Bu kanadın bir örneği, Vandana Shiva'nın 1989 tarihli çalışmasıdır; başlığı tezini taşır: yeşil devrimin şiddeti, Pencap'ta ekolojik bozulma ve siyasi çatışma.",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k9",
-      "iddia": "NASA'nın yerçekimi uydularıyla yapılan bir ölçüm, Racastan, Pencap ve Haryana eyaletlerinde, Delhi dahil, yeraltı suyunun yılda ortalama 4 santimetre su yüksekl",
+      "iddia": "NASA'nın yerçekimi uydularıyla yapılan bir ölçüm, Racastan, Pencap ve Haryana eyaletlerinde, Delhi dahil, yeraltı suyunun yılda ortalama 4 santimetre (±1) su yü",
       "durum": "OK",
       "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
@@ -214,6 +220,12 @@
       "iddia": "Ağustos 2002 ile Ekim 2008 arasındaki net kayıp 109 kilometreküpü buldu; bu, ülkenin en büyük yüzey su rezervuarının kapasitesinin iki katıdır ve dönem boyunca ",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Bu ölçüm olayın kendisinden sonraki bir dönemi kapsar ve tükenmeyi Yeşil Devrim'e adıyla bağlamaz; nedeni sulama ile öteki insan kaynaklı kullanımlarda sürdürül",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yeşil, Devrim"
     },
     {
       "anahtar": "k2",
@@ -246,14 +258,20 @@
       "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Borlaug 1970'te Nobel Barış Ödülü aldı ve bugün yaygın biçimde bir milyardan fazla insanı açlıktan kurtarmakla anılır.",
+      "anahtar": "k1",
+      "iddia": "Borlaug 1970 ödülünü yeşil devrime katkısı için aldı; konuşmasına göre komite bir kişiyi seçerek tarımın ve gıda üretiminin rolünü simgelemek istiyordu.",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Bu, ölçülmüş bir sonuç değil bir anma ifadesidir; nitekim aynı kayıt başka bir yerinde iki milyar rakamını da aktarır.",
+      "iddia": "Bugün ise yaygın biçimde bir milyardan fazla insanı açlıktan kurtarmakla anılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu ikincisi ölçülmüş bir sonuç değil bir anma ifadesidir; nitekim aynı kayıt başka bir yerinde iki milyar rakamını da aktarır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -270,6 +288,12 @@
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
+      "anahtar": "k7",
+      "iddia": "Aynı özet kendi ölçtüğü şeyin sınırını da söyler: bu kazanımlar olmasaydı yükselen gıda fiyatlarının yoksulluk ve açlık üzerindeki olumsuz etkisi, tarımsal geni",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
       "anahtar": "k1",
       "iddia": "Kazanılan şey açlığa karşı savaşta geçici bir başarı, insanlığa tanınmış bir nefes alma payıydı; tam olarak uygulanırsa otuz yıl yetecek gıdayı sağlayabilirdi, ",
       "durum": "ATOMSUZ",
@@ -277,7 +301,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Gecikmenin bedelini ölçmeye çalışan bir çalışma, dönüşümün on yıl gecikmesinin kişi başına gelirin yüzde 17'sine mal olacağını tahmin eder; hiç yaşanmaması ise ",
+      "iddia": "Gecikmenin bedelini ölçmeye çalışan 2021 tarihli bir çalışmanın ansiklopedi maddesindeki aktarımına göre dönüşümün on yıl gecikmesi kişi başına gelirin yüzde 17",
       "durum": "OK",
       "not": ""
     }

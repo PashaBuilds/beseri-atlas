@@ -17,7 +17,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Ucu de kaynagin \"Three ideals of unification appeared\" pasajinda adiyla sayilir"
+      "inceleme": "Uc proje de kaynagin \"Three ideals of unification appeared\" pasajinda adiyla sayilir"
     },
     {
       "iddia_id": "i002",
@@ -45,7 +45,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Komisyonun varligi ve Guney'deki savas raporun kendisinde; Venedik ve Roma'nin o tarihteki statusu raporda dogrudan yazmaz, cerceve cumlesidir"
+      "inceleme": "Komisyonun varligi ve Guney'deki savas raporun kendisinde; Venedik ile Roma'nin o tarihteki statusu raporda yazmaz, cerceve cumlesidir"
     },
     {
       "iddia_id": "i004",
@@ -59,7 +59,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Metinde: \"Indicibili sono i beni che l'Italia riceverebbe da una confederazione politica, sotto l'autorita moderatrice del Pontefice\""
+      "inceleme": "Metinde: \"confederazione politica, sotto l'autorita moderatrice del Pontefice\""
     },
     {
       "iddia_id": "i005",
@@ -129,7 +129,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Ilkelerde ve harekette birlik arayisi ile bolgesel ayaklanma elestirisi metinde dogrudan (\"Era necessaria una unita di principii e d'operazioni\"); \"yalnizca Avusturya'yi kovmak degildi\" cercevesi yazarin"
+      "inceleme": "Ilkelerde ve harekette birlik arayisi ile bolgesel ayaklanma elestirisi metinde dogrudan; \"yalnizca Avusturya'yi kovmak degildi\" cercevesi yazarindir"
     },
     {
       "iddia_id": "i010",
@@ -171,80 +171,10 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Kaynagin konusmaci tanitim notundan; 1852 basbakanlik, Kirim ittifaki, 1858-59 ve 1860 destegi orada sayilir"
+      "inceleme": "Kaynagin konusmaci tanitim notundan: 1852 basbakanlik, Kirim ittifaki, 1858-59 savasi ve 1860 destegi"
     },
     {
       "iddia_id": "i013",
-      "cumle": "Cavour, Roma'nın İtalya'nın başkenti olması gerektiğini söylüyor, başkent sorunu çözülmedikçe eyaletler arasında bitmeyen bir çekişme yaşanacağını, seçimin iklim ya da coğrafyayla değil ahlaki nedenlerle yapıldığını savunuyordu.",
-      "onem": "merkezi",
-      "tur": "aktarim",
-      "kaynaklar": [
-        {
-          "anahtar": "k3",
-          "destek": "dogrudan"
-        }
-      ],
-      "guven": "yuksek",
-      "inceleme": ""
-    },
-    {
-      "iddia_id": "i014",
-      "cumle": "Kendi seçim bölgesi Torino'nun bu iddiadan vazgeçmesini istemek ona acı verdiğini de açıkça söyledi.",
-      "onem": "renk",
-      "tur": "aktarim",
-      "kaynaklar": [
-        {
-          "anahtar": "k3",
-          "destek": "dogrudan"
-        }
-      ],
-      "guven": "yuksek",
-      "inceleme": "Konusmada \"a deep grief to me to tell my native city\" ve Torino'nun fedakarliga hazir oldugu ifadesi"
-    },
-    {
-      "iddia_id": "i015",
-      "cumle": "Asıl önemlisi, Roma'ya gidişe koyduğu iki şarttı: Fransa ile birlikte gidilecekti, yoksa birleşme dünya Katoliklerince kilisenin köleleştirilmesi sayılırdı; ve papanın gerçek bağımsızlığı zedelenmeyecek, sivil iktidar ruhani alana uzanmayacaktı.",
-      "onem": "merkezi",
-      "tur": "aktarim",
-      "kaynaklar": [
-        {
-          "anahtar": "k3",
-          "destek": "dogrudan"
-        }
-      ],
-      "guven": "yuksek",
-      "inceleme": "Iki sart konusmada acikca sayilir"
-    },
-    {
-      "iddia_id": "i016",
-      "cumle": "Cavour bu şartlar tutulursa papalıkla devlet arasında bir barışın kurulabileceğini umuyordu.",
-      "onem": "destek",
-      "tur": "aktarim",
-      "kaynaklar": [
-        {
-          "anahtar": "k3",
-          "destek": "dogrudan"
-        }
-      ],
-      "guven": "yuksek",
-      "inceleme": ""
-    },
-    {
-      "iddia_id": "i017",
-      "cumle": "Konuşmasından birkaç ay sonra, 6 Haziran 1861'de öldü.",
-      "onem": "destek",
-      "tur": "tarih",
-      "kaynaklar": [
-        {
-          "anahtar": "k3",
-          "destek": "dogrudan"
-        }
-      ],
-      "guven": "yuksek",
-      "inceleme": "Olum tarihi kaynagin editor dipnotunda"
-    },
-    {
-      "iddia_id": "i018",
       "cumle": "Avusturya 4 Haziran'da Magenta'da yenildi, Solferino'da Fransız-Piemonte kuvvetleri karşısında müzakereye zorlandı; 12 Temmuz'daki Villafranca ateşkesi Lombardiya'yı Sardinya'ya bağladı ama Veneto ile Mantova'yı Avusturya'da bıraktı.",
       "onem": "destek",
       "tur": "tarih",
@@ -258,7 +188,7 @@
       "inceleme": ""
     },
     {
-      "iddia_id": "i019",
+      "iddia_id": "i014",
       "cumle": "İki taraf da anlaşmanın dışına çıkmıştı: Napolyon III Venedik alınmadan savaştan çekilmiş, Cavour ise ayaklanmaların orta ve kuzey İtalya'ya yayılmasına göz yumarak Plombières'de kararlaştırılanı aşmıştı.",
       "onem": "merkezi",
       "tur": "yorum",
@@ -272,7 +202,7 @@
       "inceleme": "Kaynak iki tarafin da Plombieres'de kararlastirilani astigini acikca yazar"
     },
     {
-      "iddia_id": "i020",
+      "iddia_id": "i015",
       "cumle": "Sardinya, Toskana Büyük Dukalığı, Parma ve Modena dukalıkları ile papalık legasyonlarından oluşan Orta İtalya Birleşik İllerini 22 Mart 1860'ta ilhak etti; iki gün sonra Torino Antlaşması'yla Savoy ve Nice'i Fransa'ya devretti.",
       "onem": "destek",
       "tur": "tarih",
@@ -286,7 +216,7 @@
       "inceleme": ""
     },
     {
-      "iddia_id": "i021",
+      "iddia_id": "i016",
       "cumle": "Seferin siyasi anlamı ilk günlerde belirlendi: Marsala'da diktatörlükten söz edildi, ertesi gün Salemi'de ilan edildi ve \"İtalya ve Vittorio Emanuele\" sözü şiar olarak doğrulandı.",
       "onem": "merkezi",
       "tur": "aktarim",
@@ -297,10 +227,10 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Metinde: \"A Marsala si parlo di dittatura, che poi venne proclamata a Salemi nel giorno seguente, e si confermo il motto: Italia e Vittorio Emanuele\""
+      "inceleme": "Metinde: \"A Marsala si parlo di dittatura... si confermo il motto: Italia e Vittorio Emanuele\""
     },
     {
-      "iddia_id": "i022",
+      "iddia_id": "i017",
       "cumle": "Garibaldi kendi anlatısında bunu, cumhuriyetçi \"saflar\"ın sonradan açıkça dile getirdiği itiraza rağmen alınmış yerinde bir karar sayar.",
       "onem": "destek",
       "tur": "aktarim",
@@ -311,10 +241,10 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Metinde: \"Savia deliberazione che, non ostante l'opinione contraria dei puri (manifestata in seguito)...\""
+      "inceleme": "Metinde: \"Savia deliberazione che, non ostante l'opinione contraria dei puri (manifestata in seguito)\""
     },
     {
-      "iddia_id": "i023",
+      "iddia_id": "i018",
       "cumle": "Garibaldi, Palermo'da Savoy monarşisinin yandaşlarının halkı Bin'e karşı kuşkuya sürüklediğini ve vaktinden önce bir ilhaka ittiğini, bunu yapanların Cavour'un ajanları olduğunu yazar; onu Volturno'daki orduyu bir savaşın arifesinde bırakıp Palermo'ya gitmek zorunda bıraktıklarını ve bunun Caiazzo yenilgisine mal olduğunu söyler.",
       "onem": "merkezi",
       "tur": "aktarim",
@@ -328,7 +258,7 @@
       "inceleme": "Metinde \"annessione intempestiva\", \"cavouriani agenti\" ve Caiazzo yenilgisi baglantisi dogrudan gecer"
     },
     {
-      "iddia_id": "i024",
+      "iddia_id": "i019",
       "cumle": "Ekim ayında Vittorio Emanuele ordusuyla güneye indi; Garibaldi Teano'da onu İtalya kralı diye selamladı, diktatörlük yetkisini devretti ve Caprera'ya çekildi.",
       "onem": "destek",
       "tur": "olgu",
@@ -342,6 +272,76 @@
       "inceleme": ""
     },
     {
+      "iddia_id": "i020",
+      "cumle": "Cavour, Roma'nın İtalya'nın başkenti olması gerektiğini söylüyor, başkent sorunu çözülmedikçe eyaletler arasında bitmeyen bir çekişme yaşanacağını, seçimin iklim ya da coğrafyayla değil ahlaki nedenlerle yapıldığını savunuyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Kendi seçim bölgesi Torino'nun bu iddiadan vazgeçmesini istemek ona acı verdiğini de açıkça söyledi.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Konusmada \"a deep grief to me to tell my native city\" ve Torino'nun fedakarliga hazir oldugu ifadesi"
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Asıl önemlisi, Roma'ya gidişe koyduğu iki şarttı: Fransa ile birlikte gidilecekti, yoksa birleşme dünya Katoliklerince kilisenin köleleştirilmesi sayılırdı; ve papanın gerçek bağımsızlığı zedelenmeyecek, sivil iktidar ruhani alana uzanmayacaktı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki sart konusmada acikca sayilir"
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Cavour bu şartlar tutulursa papalıkla devlet arasında bir barışın kurulabileceğini umuyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Konuşmasından birkaç ay sonra, 6 Haziran 1861'de öldü.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Olum tarihi kaynagin editor dipnotunda"
+    },
+    {
       "iddia_id": "i025",
       "cumle": "31 Aralık 1861'i 1 Ocak 1862'ye bağlayan gece yapılan sayımın bakan tarafından krala sunulan raporuna göre krallığın 59 ilinde fiilen bulunan nüfus 21.776.953 kişiydi.",
       "onem": "merkezi",
@@ -353,7 +353,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Raporda: 59 il, 21,776,953. Sayim 31 aralik 1861 gecesi/1 ocak 1862 fiili nufusudur"
+      "inceleme": "Raporda 59 il ve 21,776,953; sayim 31 aralik 1861 gecesi / 1 ocak 1862 fiili nufusudur"
     },
     {
       "iddia_id": "i026",
@@ -367,7 +367,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Bakanin rapor girisinde yontem elestirisi acikca yazilir"
+      "inceleme": "Bakanin rapor girisindeki yontem elestirisi"
     },
     {
       "iddia_id": "i027",
@@ -395,7 +395,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Sayilar ve askeri baski degerlendirmesi kaynakta var ama kaynak bunlari kendi dipnotlarina havale eder; giris kapisi kunyesi oldugu icin kismi sayildi"
+      "inceleme": "Sayilar ve askeri baski degerlendirmesi kaynakta var ama kendi dipnotlarina havale edilir; giris kapisi kunyesi oldugu icin kismi"
     },
     {
       "iddia_id": "i029",
@@ -427,7 +427,7 @@
     },
     {
       "iddia_id": "i031",
-      "cumle": "Devletin istatistik yıllığı, 1861'den 1876'ya kadarki altı genel seçimin her biri için yüz kişiye düşen seçmen sayısını tablolaştırır; 1861'de bu oran 1,92'dir, yani yaşayan her elli kişiden biri.",
+      "cumle": "Devletin istatistik yıllığı, 1861'den 1876'ya kadarki altı genel seçimin her biri için yüz kişiye düşen seçmen sayısını tablolaştırır; 1861'de bu oran 1,92'dir, yani seçmen listelerinde ülkede yaşayan her elli kişiden biri vardı.",
       "onem": "merkezi",
       "tur": "sayi",
       "kaynaklar": [
@@ -437,7 +437,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Tablo basligi (\"numero degli elettori a cento abitanti\") ve 1861 satirindaki 1.92 degeri taramada okunur; tablonun geri kalani OCR hasarlidir, bu yuzden kismi"
+      "inceleme": "Tablo basligi (\"numero degli elettori a cento abitanti\") ve 1861 satirindaki 1.92 degeri taramada okunur; tablonun geri kalani OCR hasarlidir"
     },
     {
       "iddia_id": "i032",
@@ -451,7 +451,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "443 sayisi taramada okunur; erkek nufusa oranlanan ikinci sutunun 1861 degeri okunamaz ve bu cumlede zaten okunamadigi beyan edilir"
+      "inceleme": "443 taramada okunur; erkek nufusa oranlanan sutunun 1861 degeri okunamaz ve cumle bunu zaten beyan eder"
     },
     {
       "iddia_id": "i033",
@@ -479,7 +479,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Manzoni cumlesi kaynakta dogrudan; \"uretilmesi tasarlanan bir sey\" cikarimi ayni cumlenin yeniden ifadesidir"
+      "inceleme": "Manzoni cumlesi kaynakta dogrudan; \"uretilmesi tasarlanan bir sey\" ayni cumlenin yeniden ifadesidir"
     },
     {
       "iddia_id": "i035",
@@ -521,7 +521,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Abruzzo ve Calabria'dan vazgecme karari raporda gerekcesiyle yazilir"
+      "inceleme": "Vazgecme karari raporda gerekcesiyle yazilir"
     },
     {
       "iddia_id": "i038",
@@ -563,7 +563,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Raporun tablosu: 365 / 591 / 79 kursuna dizilen, toplam 3451 olu ve 2768 tutuklu"
+      "inceleme": "Raporun tablosu: 365 / 591 / 79 kursuna dizilen; toplam 3451 olu ve 2768 tutuklu"
     },
     {
       "iddia_id": "i041",
@@ -577,7 +577,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Raporun onerisi: \"la giurisdizione sui reati di brigantaggio va deferita ai tribunali militari\""
+      "inceleme": "Raporun onerisi: brigantaggio suclarinda yargi yetkisi askeri mahkemelere devredilsin"
     },
     {
       "iddia_id": "i042",
@@ -591,7 +591,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Iddia makalenin ozetinden okunur; tam metin bu ucnoktadan gelmedigi icin destek kismi sayildi"
+      "inceleme": "Iddia makalenin ozetinden okunur; tam metin bu ucnoktadan gelmedigi icin kismi"
     },
     {
       "iddia_id": "i043",
@@ -605,7 +605,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Ayni ozetten; De Sanctis dersleri, Capri 1878 ve d'Azeglio metinlerindeki benzer ifade ozet duzeyinde"
+      "inceleme": "Ayni ozetten: De Sanctis dersleri, Capri 1878 ve d'Azeglio metinlerindeki benzer ifade"
     },
     {
       "iddia_id": "i044",
