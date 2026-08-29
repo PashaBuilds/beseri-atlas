@@ -43,6 +43,7 @@ ilgili:
   - kaynak-gulhane-hatti
   - kaynak-kanunuesasi-1876
   - aktor-safevi-devleti
+  - kavram-ulema
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -1,0 +1,171 @@
+{
+  "id": "kavram-ulema",
+  "gecis": 2,
+  "zaman": "2026-08-29T21:48:09.499Z",
+  "govde_hash": "3eb3acdaa1f4",
+  "commit": "bf4bb9c",
+  "sonuclar": [
+    {
+      "anahtar": "k3",
+      "iddia": "Hoca metni kendi imzası ya da mührüyle tamamlar, öğrencisine kazandığı hakkı nasıl kullanacağını anlatır ve ondan kendisine dua etmesini ister.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İcâzet türlerinin başlangıçtan beri taşıdığı bir başka ortak özellik, belgenin \"kurumsal ve resmî değil şahsî ve sivil\" olmasıdır; hukukî bir çağrışım taşıyan ş",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Osmanlı'da ise on yedinci yüzyıldan itibaren bütün ilmiye tayinleri şeyhülislâmlığa geçti ve yerleşmiş bir evrak zinciri doğdu: şeyhülislâmın işareti, sadrazamı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sözcük, Osmanlı'da eğitim, sağlık, yargı, fetva ve diyanet teşkilâtını dolduran medrese menşeli ulemâ sınıfının mensuplarını anlatır; ilmiye, seyfiye ve kalemiy",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Fetva istişarî mahiyette bir hüküm olduğu için müftü, fetvasını alıp onunla amel etmeyeni amele zorlayamaz; kadının verdiği hüküm ise bağlayıcıdır ve gereği yap",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kadıların fetvalardan yararlanması ve müftülerle istişare etmesi geniş ölçüde bir kazâ birliği ve aynı ilmî disiplin içinde bir iç denetim üretmiştir; Osmanlı'd",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kazaskerlik iki ihtiyaçtan doğdu: orduda asker arasında çıkan anlaşmazlıkların çözülmesi ve terekelerin taksimi için duyulan kadı ihtiyacı ile kaza ve tedris gö",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Makamın, fetva mercii olan şeyhülislâmlıktan çok önce kurulmuş olması yargı ihtiyacının önceliğini gösterir; aynı yazar ilk kazaskerlerin hayatları ve müessesen",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Osmanlı kayıtlarında ilk medrese 1331'de İznik'te açılmış, kazaskerlik 1362'de kurulmuş, şeyhülislâmlık 828 (1425) yılında teşkil edilmiştir; on altıncı yüzyıl ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mülâzemet denen staj ve bekleme dönemi, mezun sayısı ihtiyacı aşınca zorunlu hale geldi; medreseler on yedinci yüzyıldan itibaren on iki dereceli bir kademelenm",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mezun artışına mansıp artışı eşlik etmeyince devlet üç çareye başvurdu: görevin kendisini değil pâyesini tevcih etmek, görev sürelerini kısaltıp sırayla dağıtma",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Fahri Unan pâyeli tayinlerin arkasında bundan fazlasını görür; ona göre burada \"işe göre adam bulmak değil, adam için iş veya kazanç kapısı bulmak\" mantığı işle",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı makale, medrese mezunlarının en alt seviyedeki bir câmi müezzininden şeyhülislâma kadar birer devlet memuru olduğunu, halka karşı değil kendilerini memur e",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Unan bu okumayı kesin veri diye sunmaz: pâyeli tayinlerin anlamı konusunda birtakım tahminlerin ötesinde kesin verilere sahip olunmadığını söyler ve değerlendir",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ebüssuûd Efendi Ekim 1545'te şeyhülislâm oldu ve görevde yirmi sekiz yıl on bir ay kaldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Devletin örfî hukuk alanındaki tasarruflarının şer'î hukukla dengesinin kurulmasında ve kanunnâmelerin hazırlanmasında payı büyüktür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Dağınık mülâzemet usulünü, daha Rumeli kazaskeriyken Kanûnî'nin emriyle o düzenledi: önce her pâyede âlimlerin kaç mülâzım vereceğini tespit etti, sonra usulü y",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı dönemde İstanbul, Edirne ve Bursa kadılarının oğullarının 30 akçeli miftah müderrisliklerine tayini ilk defa yapıldı, torunu Abdülkerim Efendi de dedesine ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Murad'ın Molla Fenârî evlâdına tanıdığı imtiyaza göre aile mensupları müderrisliğe 40 akçe ile tayin edilirdi; kapsam sonradan öteki ilmiye ailelerine de yayıld",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İlmiye mensuplarına verilebilen en ağır ceza azil ya da sürgündü, idam çok nâdirdi; vergi muafiyetleri de öteki askerî zümrelere göre daha geniş tutulmuştu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mahmud'un ıslahatına kamuoyu hazırlayan Şeyhülislâm Kadızâde Mehmed Tâhir ve Yâsincizâde Abdülvehhâb efendiler bunun örnekleridir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şikâyetler gerçektir ve içeriden gelir: Taşköprizâde Ahmed Efendi daha 1540'larda ilim seviyesinin düştüğünü, Gelibolulu Âlî Mustafa müderrisliklerin ve kadılık",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ama aynı yüzyılda Hasan Kâfî Akhisârî kusurun yerini değiştirir: ulemanın çağındaki başarısızlığını o da söyler, ancak sebebini ulemaya değer vermeyen ve sözünü",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1826'da Evkāf-ı Hümâyun Nezâreti kurulunca ilmiyenin büyük ölçüde yararlandığı vakıf gelirleri devlet bütçesine alındı; vakıf geliriyle idare edilen medreseler ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Yetki alanının ikinci parçası da yazıya döküldü: 1876 Kânûn-ı Esâsî'nin 87. maddesi \"Affairs concerning the Sheri shall be judged by the tribunals of the Sheri\"",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "O güne kadar icâzette hocanın ders okuttuğu kurumun onayı aranmamış, İslâm eğitim müesseseleri diploma vermekle ilgilenmeyip konuyu âlimlerin serbest kanaatine ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ulema bugün, ilmiyedeki çözülmenin bir gerileme kanıtı sayılıp sayılamayacağı tartışmasında anılıyor; şikâyetlerin daha on altıncı yüzyılda zümrenin kendi içind",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

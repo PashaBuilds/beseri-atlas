@@ -19,6 +19,8 @@ ilgili:
   - tartisma-feodalite-kavrami
   - kavram-veraset
   - tartisma-osmanli-gerileme-tezi
+  - kavram-iltizam
+  - kavram-lonca
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

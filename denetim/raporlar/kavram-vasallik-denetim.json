@@ -1,0 +1,141 @@
+{
+  "id": "kavram-vasallik",
+  "gecis": 2,
+  "zaman": "2026-08-29T21:46:32.614Z",
+  "govde_hash": "783e688c9f7c",
+  "commit": "bf4bb9c",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Ardından adam kontun temsilcisine sadakat sözünü verdi ve sözü azizlerin kalıntıları üzerine yeminle pekiştirdi; kont elindeki küçük değnekle mülkün kullanımını",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Fransız, Galbert, Bruges"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Derleme bu üçlüyü lord ile vasal arasında bağlayıcı bir sözleşme kuran süreç sayar ve son adımda efendinin bir çim parçası, bir değnek ya da başka bir nesneyle ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Serflikten ayıran nokta budur: Reynolds'un feodalitenin dar anlamı dediği şey soylu sınıfın kendi içindeki ilişkilerdir, soylularla köylüler arasındaki ilişkile",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Chartres piskoposu Fulbert, Akitanya dükü William'ın sorusuna, sadakat yemini edenin altı şeyi aklında tutması gerektiğini yazarak cevap verir: efendisine beden",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sonra asıl adımı atar: kötülük etmekten kaçınmak yetmez, aynı altı başlıkta öğüt ve yardım da borçtur — ve efendi, vasalına karşı bütün bu şeylerde aynı biçimde",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mektubun 1907 tarihli İngilizce derlemedeki biçimi derleyicisinin yorumuyla birlikte gelir: derleyici metni \"feodal düzenin en iyi hâlinin\" ifadesi sayar ve 102",
+      "durum": "ISARET",
+      "not": "kaynakta bulunamayan sayısal değer: 1020 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Saint Louis derlemesine göre baronlar ve kralın vasalları çağrıldıklarında borçlu oldukları şövalye sayısıyla kırk gün kırk gece kendi masraflarına hizmet ederd",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Normandiya örfü para yardımını üç duruma bağlar: efendinin büyük oğlunun şövalye yapılması, büyük kızının evlendirilmesi, dük için savaşırken esir düşen efendin",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Devir de ücretliydi: 1140-1230 arasındaki İngiliz hazine kayıtlarını 1769'da derleyen Thomas Madox'un hesabına göre John de Balliol, babasından kalan otuz şöval",
+      "durum": "ISARET",
+      "not": "kaynakta bulunamayan sayısal değer: 1140, 1230, 1769 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "801-813 arasına tarihlenen Aachen kapitülerinin 16. maddesi, efendisinden bir solidus değerinde şey almış kişinin onu terk edemeyeceğini söyler; ama dört istisn",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "847 tarihli Lothar, Ludwig ve Charles anlaşması her özgür kişinin dilediği efendiyi seçebileceğini, ama kimsenin haklı bir neden olmadan efendisinden ayrılamaya",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1249'da Toulouse kontu Raymond'ın şikâyeti üzerine Agen mahkemesi, Lomagne vikontu Arnold Atton'u yeminli anlaşmaları yerine getirmediği ve mahkemeye çıkmayı re",
+      "durum": "ISARET",
+      "not": "kaynakta bulunamayan sayısal değer: 1249 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Derleme kendi giriş yazısında bunu zaten haber verir: alıntıladığı Fransız tarihçiye göre düzen genel bir plana göre değil âdetlerin yavaş dönüşmesiyle kuruldu,",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Fransız"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1200'de Troyes kontu Thiebault'nun senedi, Jocelyn d'Avalon'un kendi adamı olduğunu yazarken onun üç ayrı efendiye — Gerad d'Arcy'ye, Burgonya düküne ve Auxerre",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Normandiya örfündeki homage sözü de bir çekinceyle biter: kişi herkese karşı sadık kalacağını söyler, Normandiya dükü hariç.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "On üçüncü yüzyıl hukukçusu John de Blanot'nun kuralı bunu tek cümleye indirir: \"adamımın adamı benim adamım değildir\".",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Georges Duby'nin Mâconnais belgelerinden çıkardığı sonucu Elizabeth Brown şöyle aktarır: on birinci yüzyıl Mâconnais'sinde \"vasal piramidi yoktu\".",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Brown aynı makalede, buna rağmen ders kitabı yazarlarının kavramsız kalamayacaklarını savunduklarını ve öğrenciye yapay biçimde düzenli bir şema sunulduğunu sap",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir kralın \"adamlarım\" demesinden vasallık ilişkisi çıkarmak, vasallığın düşünülmeye değer tek siyasi ilişki olduğunu peşinen kabul etmektir; Reynolds bu çıkarı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Reynolds'a göre piskopos o mektupta vassus sözcüğünü kullanmaz — kendi çekincesiyle, sanırım başka yerde de kullanmaz — ve sadakat yemini borçlusu saydığı herke",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı uyarı belgelerin okunuşu için de geçerlidir: 1905 tarihli derlemenin hazırlayıcıları, kendini bağlama kalıbındaki aşırı yoksulluk gerekçesinin muhtemelen b",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bugünkü yaygın kullanım kişileri değil devletleri anlatıyor: bir devletin başka bir devlete bağlılığını tarif eden vasal devlet, ortaçağdaki kişisel bağdan fark",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

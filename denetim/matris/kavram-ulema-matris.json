@@ -1,0 +1,407 @@
+{
+  "id": "kavram-ulema",
+  "govde_hash": "3eb3acdaa1f4",
+  "commit": "bf4bb9c",
+  "zaman": "2026-08-30",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Hoca metni kendi imzası ya da mührüyle tamamlar, öğrencisine kazandığı hakkı nasıl kullanacağını anlatır ve ondan kendisine dua etmesini ister.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Icazetin hocanin imza ya da muhruyle tamamlanmasi maddede aynen anlatilir."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "İcâzet türlerinin başlangıçtan beri taşıdığı bir başka ortak özellik, belgenin \"kurumsal ve resmî değil şahsî ve sivil\" olmasıdır; hukukî bir çağrışım taşıyan şehâdet sözcüğünün icâzetin yerine hiç kullanılmamış olması da bununla açıklanır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alinti birebir dogrulandi. Hakem duzeltmesi: kaynak bunu bir baska ortak ozellik olarak verir; govdedeki tekillestirme geri alindi."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Osmanlı'da ise on yedinci yüzyıldan itibaren bütün ilmiye tayinleri şeyhülislâmlığa geçti ve yerleşmiş bir evrak zinciri doğdu: şeyhülislâmın işareti, sadrazamın telhisi, padişahın hatt-ı hümâyunu, sadrazamın buyruldusu ve evrakın meşihata iadesi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bes asamali prosedur maddede sirasiyla sayilir. Hakem duzeltmesi: kaynak proseduru XVII. yuzyildan itibaren butun ilmiye tayinlerinin seyhulislamliga gecmesine baglar; govde bunu donemsiz genel bir kural gibi veriyordu, tarih geri kondu."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Sözcük, Osmanlı'da eğitim, sağlık, yargı, fetva ve diyanet teşkilâtını dolduran medrese menşeli ulemâ sınıfının mensuplarını anlatır; ilmiye, seyfiye ve kalemiye ile birlikte devletin üç temel meslek grubundan biridir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Maddenin tanim cumlesi ve seyfiye-kalemiye-ilmiye uclusu. Merkezi savin ikinci yarisi."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Fetva istişarî mahiyette bir hüküm olduğu için müftü, fetvasını alıp onunla amel etmeyeni amele zorlayamaz; kadının verdiği hüküm ise bağlayıcıdır ve gereği yapılmazsa devlet gücüyle icra edilir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Fetva/kaza baglayicilik farki maddede madde madde sayilir; ruhban olmama savi buna dayaniyor."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Kadıların fetvalardan yararlanması ve müftülerle istişare etmesi geniş ölçüde bir kazâ birliği ve aynı ilmî disiplin içinde bir iç denetim üretmiştir; Osmanlı'da bu denetim bir teşkilâta, teşkilât da bir kadro düzenine bağlanmıştır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaza birligi ve ic denetim maddede aynen gecer. Noktali virgulden sonraki ikinci onerme (denetimin teskilata, teskilatin kadro duzenine baglanmasi) k1 ile k5'ten yapilan bir baglamadir; k2 tek basina tasimaz."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Kazaskerlik iki ihtiyaçtan doğdu: orduda asker arasında çıkan anlaşmazlıkların çözülmesi ve terekelerin taksimi için duyulan kadı ihtiyacı ile kaza ve tedris görevinin düzenli bir şekilde çalışması için kadıların ve müderrislerin tayin edilmesi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Makalenin giris paragrafi iki gerekceyi bu sirayla verir. Hakem duzeltmesi: kaynagin birinci gerekcesindeki terekelerin taksimi govdede dusmustu, geri kondu."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Makamın, fetva mercii olan şeyhülislâmlıktan çok önce kurulmuş olması yargı ihtiyacının önceliğini gösterir; aynı yazar ilk kazaskerlerin hayatları ve müessesenin o devirdeki işleyişi hakkında sıhhatli bilgiye sahip olunmadığını da açıkça kaydeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kazaskerligin seyhulislamliktan once kurulusu ve yazarin kaynak yetersizligi cekincesi ayni sayfada. Cekince govdeye tasindi."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Osmanlı kayıtlarında ilk medrese 1331'de İznik'te açılmış, kazaskerlik 1362'de kurulmuş, şeyhülislâmlık 828 (1425) yılında teşkil edilmiştir; on altıncı yüzyıl sonlarından itibaren şeyhülislâm kazaskerlerin önüne geçerek ilmiyenin başı olmuştur.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1331 Iznik, 1362 kazaskerlik, 828/1425 seyhulislamlik ve XVI. yuzyil sonu devri maddede birebir."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Mülâzemet denen staj ve bekleme dönemi, mezun sayısı ihtiyacı aşınca zorunlu hale geldi; medreseler on yedinci yüzyıldan itibaren on iki dereceli bir kademelenmeyle anıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mulazemetin zorunlu hale gelisi ve on iki dereceli kademelenme maddede."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Mezun artışına mansıp artışı eşlik etmeyince devlet üç çareye başvurdu: görevin kendisini değil pâyesini tevcih etmek, görev sürelerini kısaltıp sırayla dağıtmak ve yeni mansıplar ihdas etmek.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc care maddede ayni sirayla sayilir (paye, sureli gorev, yeni mansip ihdasi)."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Fahri Unan pâyeli tayinlerin arkasında bundan fazlasını görür; ona göre burada \"işe göre adam bulmak değil, adam için iş veya kazanç kapısı bulmak\" mantığı işlemektedir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alinti birebir dogrulandi; yazarin kendi formulasyonu olarak aktarildi, olgu olarak degil."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Aynı makale, medrese mezunlarının en alt seviyedeki bir câmi müezzininden şeyhülislâma kadar birer devlet memuru olduğunu, halka karşı değil kendilerini memur eden hükümdara karşı sorumlu bulunduklarını yazar; bu memuriyetin bugün anlaşılan anlamda değil, patrimonyal yönetim mantığının gerektirdiği ve hükümdarın lütfettiği bir memuriyet olduğunu da belirtir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ulemanin devlet memuru olusu ve sorumluluk yonu makalede birebir. Hakem duzeltmesi: yazarin kendi cekincesi — bunun bugun anlasilan anlamda bir memuriyet degil, patrimonyal yonetim mantiginin gerektirdigi ve hukumdarin lutfettigi bir memuriyet oldugu — govdede dusurulmustu, geri kondu."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Unan bu okumayı kesin veri diye sunmaz: pâyeli tayinlerin anlamı konusunda birtakım tahminlerin ötesinde kesin verilere sahip olunmadığını söyler ve değerlendirmelerini düşünce alıştırması olarak niteler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yazarin kendi cekincesi (kesin veri yok, dusunce alistirmasi) tasindi."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Ebüssuûd Efendi Ekim 1545'te şeyhülislâm oldu ve görevde yirmi sekiz yıl on bir ay kaldı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ekim 1545 ve yirmi sekiz yil on bir ay maddede birebir."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Devletin örfî hukuk alanındaki tasarruflarının şer'î hukukla dengesinin kurulmasında ve kanunnâmelerin hazırlanmasında payı büyüktür.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Orfi hukuk ile ser'i hukukun dengelenmesi ve kanunname hazirligi maddede."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Dağınık mülâzemet usulünü, daha Rumeli kazaskeriyken Kanûnî'nin emriyle o düzenledi: önce her pâyede âlimlerin kaç mülâzım vereceğini tespit etti, sonra usulü yedi yılda bir olmak üzere kanunlaştırdı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Once paye basina mulazim sayisinin tespiti, sonra yedi yillik usulun kanunlastirilmasi maddede bu sirayla. Hakem duzeltmesi: kaynak duzenlemeyi Rumeli kazaskerligi donemine ve Kanuni'nin emrine baglar; govdenin paragraf sirasi bunu seyhulislamlik donemine tasiyor gorunuyordu."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Aynı dönemde İstanbul, Edirne ve Bursa kadılarının oğullarının 30 akçeli miftah müderrisliklerine tayini ilk defa yapıldı, torunu Abdülkerim Efendi de dedesine hürmeten müderrisliğe getirildi; maddenin kendi değerlendirmesine göre bu tayin sonraki olumsuz gelişmelere zemin hazırlamıştır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "30 akceli miftah muderrisligi tayinleri, torun Abdulkerim Efendi ve maddenin kendi olumsuz degerlendirmesi birebir. Duzenleyen elin gedigi de acmasi savinin dayanagi."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Murad'ın Molla Fenârî evlâdına tanıdığı imtiyaza göre aile mensupları müderrisliğe 40 akçe ile tayin edilirdi; kapsam sonradan öteki ilmiye ailelerine de yayıldı, yirmi civarında aile belli başlı mansıpları kolayca elde etti ve aileler arası evlilikler ağı sıkılaştırdı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Molla Fenari imtiyazi 40 akce ve yirmi civarinda aile maddede. Hakem duzeltmesi: kaynak kapsamin diger ilmiye ailelerine de verildigini soyler; govdedeki butun genellemesi indirildi."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "İlmiye mensuplarına verilebilen en ağır ceza azil ya da sürgündü, idam çok nâdirdi; vergi muafiyetleri de öteki askerî zümrelere göre daha geniş tutulmuştu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ehl-i ser cezalarinin siniri ve genis vergi muafiyeti maddede; ruhban olmayan zumrenin hukuki ayricalik tasidigi savini tasiyan cumle."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Mahmud'un ıslahatına kamuoyu hazırlayan Şeyhülislâm Kadızâde Mehmed Tâhir ve Yâsincizâde Abdülvehhâb efendiler bunun örnekleridir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kadizade Mehmed Tahir ve Yasincizade Abdulvehhab adlari maddede birlikte gecer. Cumle bolucu III./II. kisaltmalarinda kestigi icin matriste parca olarak duruyor. Hakem duzeltmesi ayni cumlenin onceki parcasinda: kaynak basta Tatarcik Abdullah Efendi olmak uzere en sumullu raporlari veren ilmiye ricalinden soz eder; govdedeki tekil ustunluk iddiasi kaynagin ifadesine cevrildi."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Şikâyetler gerçektir ve içeriden gelir: Taşköprizâde Ahmed Efendi daha 1540'larda ilim seviyesinin düştüğünü, Gelibolulu Âlî Mustafa müderrisliklerin ve kadılıkların rüşvetle verilmeye başlandığını yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Taskoprizade ve Gelibolulu Ali Mustafa elestirileri maddede aynen; 1540 tarihi de maddede."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Ama aynı yüzyılda Hasan Kâfî Akhisârî kusurun yerini değiştirir: ulemanın çağındaki başarısızlığını o da söyler, ancak sebebini ulemaya değer vermeyen ve sözünü dinlemeyen yönetici zümreye bağlar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem duzeltmesi, anlami tersine ceviren kirpma: kaynak Hasan Kafi'nin kendi caginda ulemanin basarisizligini soyledigini, sebebini ise yonetici zumrenin ulemaya deger vermemesine ve sozunu dinlememesine bagladigini yazar. Govde tanigin ilk yarisini siliyor, kusuru butunuyle yoneticiye yikiyordu; iki yarisi da geri kondu."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "1826'da Evkāf-ı Hümâyun Nezâreti kurulunca ilmiyenin büyük ölçüde yararlandığı vakıf gelirleri devlet bütçesine alındı; vakıf geliriyle idare edilen medreseler ve dinî hizmetler bundan büyük zarar gördü.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1826 Evkaf-i Humayun Nezareti ve vakif gelirlerinin butceye alinmasi maddede."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Yetki alanının ikinci parçası da yazıya döküldü: 1876 Kânûn-ı Esâsî'nin 87. maddesi \"Affairs concerning the Sheri shall be judged by the tribunals of the Sheri\" der ve hukukî davaların yargısını sivil mahkemelere bırakır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "87. madde metni birebir dogrulandi. Ceviri \"civil tribunals\" der; govdede \"sivil mahkemeler\" denerek Osmanlica nizamiye adi metne sokulmadi."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "İcâzet ise ancak 1872'de Mısır'da, 1914'te Osmanlı Devleti'nde resmîleşti.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1872 Misir ve 1914 Osmanli resmilesme tarihleri maddede birebir. Hakem duzeltmesi: cumlenin ikinci yarisi — onu veren medrese duzeninin kapanmak uzere oldugu — k3'te YOKTUR; maddede kapanisla ilgili hicbir kayit gecmiyor (1924, kapan, lagv, Tevhid-i Tedrisat aramalari bos dondu) ve eski matris notu bunu yanlis olarak maddenin son cumlesi diye gosteriyordu. Desteksiz sentez kaldirildi, yerine maddenin gercekten tasidigi kayit kondu (i27)."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "O güne kadar icâzette hocanın ders okuttuğu kurumun onayı aranmamış, İslâm eğitim müesseseleri diploma vermekle ilgilenmeyip konuyu âlimlerin serbest kanaatine bırakmıştı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem tarafindan eklendi. Maddede birebir karsiligi var: Islam egitim muesseselerinin yetkilileri ogrencilerine diploma vermekle ilgilenmemis, konuyu alimlerin serbest kanaat ve degerlendirmelerine birakmistir; ayrica icazette hocanin ders okuttugu kurumun onayinin aranmadigi ayni paragrafta yazilidir."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Ulema bugün, ilmiyedeki çözülmenin bir gerileme kanıtı sayılıp sayılamayacağı tartışmasında anılıyor; şikâyetlerin daha on altıncı yüzyılda zümrenin kendi içinden gelmiş olması tartışmayı besleyen şeydir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hakem tarafindan eklendi: kapanis paragrafi dipnotsuzdu. Sikayetlerin zumrenin kendi icinden gelmesi k1'de birebir (Taskoprizade 1540'lar, Gelibolulu Ali Mustafa); tartismayi besledigi degerlendirmesi makalenin kendi sentezidir, k1 bugunku tartisma hakkinda bir sey soylemez. Curutucu itirazi (ustunluk-iddiasi, en cok) karsilandi: niteleme kaynakta yok, kaldirildi."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 26,
+    "kismi": 2,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

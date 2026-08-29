@@ -40,6 +40,8 @@ ilgili:
   - dusunur-marx
   - tartisma-kara-olumun-sonuclari
   - tartisma-teknolojik-belirlenimcilik
+  - kavram-serflik
+  - kavram-vasallik
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

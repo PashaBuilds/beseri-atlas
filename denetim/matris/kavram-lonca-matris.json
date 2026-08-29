@@ -1,0 +1,309 @@
+{
+  "id": "kavram-lonca",
+  "govde_hash": "fe01bfc0ead7",
+  "commit": "bf4bb9c",
+  "zaman": "2026-08-30",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Zanaattan biri yaşlanarak ya da artık çalışamadığı için yoksulluğa düşerse, iyi bir ad taşımak şartıyla ortak kutudan haftada yedi peni alacaktı; öldüğünde dul eşi, iyi hâl üzere ve evlenmeden kaldığı sürece aynı yedi peniyi almayı sürdürecekti; birkaç madde sonra, gömecek parası olmadan ölenin cenazesini ortak kutu üstlenecekti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Beyaz sepicilerin tuzugu, Riley'den Cheyney cevirisi. Belgede sira: yoksulluk 7d -> dul 7d -> yabanci yasagi -> ... -> 'have not wherewithal to be buried, he shall be buried at the expense of their common box'. Defin maddesi dul maddesinden hemen sonra DEGIL, birkac madde sonra gelir; govde bu siraya gore duzeltildi (kor hakem)"
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Bu iki maddenin tam arasında ise şu duruyordu: çırak değilse ya da şehrin serbestisine kabul edilmemişse hiçbir yabancı bu zanaatta çalışamaz, şehirde bu iş için ev tutamazdı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'And that no stranger shall work in the said trade, or keep house for the same in the city, if he be not an apprentice, or a man admitted to the franchise of the said city.' Belgede dul maddesi ile defin maddesinin ARASINDA duruyor; govdenin konum iddiasi buna gore duzeltildi"
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Gün doğumundan akşam çanına kadar çalışılacak, gece çalışılmayacaktır; gerekçe metnin kendisinde yazılıdır — \"no man can work so neatly by night as by day\" — ve devamında geceyi seçenlerin işe sahte demir, çatlak demir ve sahte bakır üstüne yaldız kattığı söylenir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1345 tarihli mahmuzcu maddeleri; gerekce cumlesi belgede aynen var"
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Ceza basamaklıdır: ilkinde kırk peni, sonra yarım mark, sonra on şilin, dördüncüsünde zanaattan ömür boyu men.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Belgede 40d., half a mark, 10s. ve dorduncu kez icin 'forswear the trade forever' sirasiyla yazili"
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "İşçibaşı bağlı olduğu kolda üretilen eşyanın kalite kontrolünü yapar, bozuk malların piyasaya sürülmesini önler; yönetim kurulundaki iki ehl-i hibre ise esnafla tüccar arasında hakemlik eder ve malın standardına göre fiyatını, yani narhı belirler.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde isçibasi ve ehl-i hibre gorevlerini ayri ayri sayar; narh tespiti ehl-i hibreye baglanir"
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Osmanlı'da çırak ustasına itaat eder, birliğin izni olmadan çalıştığı ustayı terk edemez; belirli bir süre sonra kalfalığa, sonra törenle ustalığa geçer ve yiğitbaşı yeni ustaya şed kuşatır. Aynı yiğitbaşı hem çırakların yetiştirilmesinden hem de orta sandığının idaresinden sorumludur — eğitim ile güvence aynı görevlinin elindedir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ciragin izinsiz ayrilamamasi, sed kusatma ve yigitbasinin orta sandigi ile cirak yetistirme gorevleri maddede birlikte sayilir"
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Mahmuzcuların maddeleri yedi yıldan kısa süreli çıraklığı yasaklar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Belgede 'no one of the said trade shall take an apprentice for a less term than seven years'"
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Chester şehir meclisinin 27 Haziran 1569 tarihli kararı bunu şehir ölçeğine taşır: şehrin serbestisine kabul edilen kişi yedi yıl çıraklık etmemişse ya da bir freeman'ın oğlu değilse, ayrıca yemin edecek ve ilgili zanaat şirketinin rızasını almadan o işi yapamayacaktır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Karar tarihi belgede [27 June, 1569.] olarak basli; 'assent and good wills of the company of such trade' ibaresi zanaatin veto yetkisini tasir"
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Aynı kayıtlarda kapının bir de fiyatı görünür — çıraklık etmemiş drapercı John Nutter, drapercıların rızasıyla ve on sterlin karşılığında serbestiye kabul edilmiştir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni Chester dizisinde 3 Nov., 23 Eliz. kaydi: cirakligi olmayan Nutter icin on sterlin ve drapercilarin rizasi"
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Smith, o güne dek tek tek loncaların iç tüzüğü olan yedi yıl şartının bu yasayla pazar kasabalarında yürütülen bütün zanaatlar için genel ve kamusal yasa hâline geldiğini yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Smith'in cumlesi: 'what before had been the bye-law of many particular corporations, became in England the general and public law of all trades carried on in market towns'. DUZELTME (kor hakem): 1563 yili Smith metninde HIC gecmez ('1563' dizesi metinde yok), Smith yalnizca '5th of Elizabeth' der; yil iddiasi ayri bir cumleye ayrilip k8'e baglandi"
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Adam Smith'in Çıraklık Yasası dediği düzenleme, Tawney ve Power derlemesinde 5 Elizabeth c. 4 (1563) diye künyelenir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ciltteki icindekiler: 'The Statute of Artificers (5 Elizabeth, C. 4), 1563'. Kor hakem ekledi: 1563 yili Smith metninde yok, bu kunyeden geliyor"
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Ona göre loncaların dışlayıcı ayrıcalıkları ile çıraklık yasaları — tekelle aynı yönde ama Smith'in eklediği kayıtla daha küçük ölçüde — \"a sort of enlarged monopolies\"dir ve piyasa fiyatını uzun süre doğal fiyatın üstünde tutabilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metinde 'have the same tendency, though in a less degree. They are a sort of enlarged monopolies, and may frequently, for ages together ... keep up the market price ... above the natural price'. DUZELTME (kor hakem): Smith'in kendi kaydi 'though in a less degree' govdeye geri kondu. Pasaj I. kitap 7. bolumdedir, 10. bolumde degil"
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Ahmet Kal'a, sözcüğün İtalyanca loggia'dan geldiğini yazar ama esnaf teşkilâtı için ne zaman kullanılmaya başlandığı konusunda kesin bilgi olmadığını da söyler; İtalyan şehir devletleriyle ticarî ilişkinin etkisini bir olasılık olarak koyar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Maddenin kendi cekincesi ('kesin bilgi yoktur', 'etkili oldugu soylenebilir') govdeye tasindi"
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "İstanbul esnafı için terimi taşıyan en eski arşiv belgesi 1697 tarihlidir, Bursa için madde Gerber'e dayanarak 1042'yi (1632-33) verir ve terim belgelerde ancak XVIII. yüzyılda yaygınlaşır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde her uc tarihi de verir. Bursa tarihini kendi metninde '(Gerber, s. 49)' diye baska bir arastirmaciya dayandirir; bu aktarim halkasi govdeye kondu. Madde yalnizca soyadi verdigi icin tam ad yazilmadi"
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Aynı maddedeki uyarıya göre belgelerde lonca ve gedik terimleri hiçbir zaman birbirinin yerine kullanılmamıştır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Maddenin kapanisindaki uyari; kunye dogrulama dizesiyle ayni cumle"
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Ahmet Akgündüz'ün maddesinde inhisar ve imtiyaz esasına dayanan bir tasarruf hakkıdır: vakıf dükkânına yerleştirilen \"âlât-ı lâzıme\"den doğar, belli sayıda esnafın belli sanatları icra edebilmesi usulü kabul edilince ruhsat ve bir çeşit patent anlamı kazanır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Maddenin tanim cumlesi ve 'ruhsat ve imtiyazin sembolu ... bir cesit patent' ifadesi"
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "S. R. Epstein'ın 1998 tarihli makalesinin özeti, zanaat loncalarının çıraklık yoluyla aktarılabilir beceri sağlamak üzere ortaya çıktığını savunur: bölgeler arası uzmanlaşmış emek piyasalarını ayakta tuttukları, göçmen emek yoluyla teknik yayılımı hızlandırdıkları ve mucitlere geçici tekel rantı sağladıkları için yarım bin yıldan uzun sürdüler; sanayi öncesi imalâtta başı çektiler, çünkü rakipleri olan kırsal eve iş verme düzeni teknik yeniliğin üreticisi değil tüketicisiydi; sonunda uyum sağlayamadıkları için değil, ulusal devletler onları kararnameyle kaldırdığı için yok oldular.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref USTVERI kaydi; abstract alani dolu ve dort savi da tasiyor. Havuz kurali geregi makalenin BULGUSU hakkindaki iddia en fazla kismi (kor hakem dusurdu). Ilk yazimda ozetin 'rural putting out' savi atlanmisti, geri konuldu; kayittaki tek link 'unspecified' ve tam metin acik erisimde degil"
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Sheilagh Ogilvie'nin 2014 tarihli makalesinin özeti aynı kurumu tersinden okur: lonca, üyeleriyle siyasî seçkinlerin ekonominin geri kalanı pahasına daha büyük bir pay kapmak üzere işbirliği yapabildiği kurumsal bir mekanizmaydı; tekel rantı doğuran hukukî ayrıcalıklar için pazarlık edilir, rantın bir kısmı destek karşılığında seçkinlere geri akardı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref USTVERI kaydi; abstract iki asamali mekanizmayi (ayricalik pazarligi, rantin seckinlere yonlendirilmesi) birebir tasiyor. Havuz kurali geregi bulgu iddiasi en fazla kismi (kor hakem dusurdu)"
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Yazar bunu, kurumların verimli oldukları için değil güçlü grupların bölüşüm çıkarına hizmet ettikleri için yüzyıllarca ayakta kaldığı görüşünün güçlü desteği sayar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozetin son cumlesi: 'strong support for the view that institutions arise and survive for centuries not because they are efficient but because they serve the distributional interests of powerful groups'. Ustveri kaydi oldugu icin kismi"
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Osmanlı'da esnaf XVIII. yüzyılın ikinci yarısından itibaren tekel haklarına dayanarak fiyatları yükseltmeye başladı; devlet yükselişin sebebini esnaf tekellerinde görünce III. Selim 1794'te zarurî gıda maddeleri dışındaki tekellerin lağvı için ferman çıkardı ve her türlü tekel hakkı 1838 Baltalimanı Muahedesi'yle kaldırıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde: 'devlet, fiyat yükselişlerinin sebebinin esnaf tekelleri olduğu sonucuna vardığından (1794 tarihli ferman...)'. DUZELTME (kor hakem): nedensel tani kaynakta DEVLETE atfedilmis bir sonuctur, olgu olarak yazilmisti; cerceve ve 1794 tarihi geri kondu. Baltalimani cumlesi maddede Istanbul'un bolge alim tekeli baglaminda gecer, 'her turlu tekel haklarinin kaldirilmasi' ifadesi oradadir"
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "İnhisar usulü 1270'te (1853) kalkınca gedik ruhsat anlamını yitirdi ve gedik haklarının yaklaşık yüzde doksanı 1331 (1913) tarihli geçici kanunla ortadan kaldırıldı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Maddenin kapanisi: 1270 (1853) inhisarin kaldirilmasi, 1331 (1913) Gediklerin Ilgasi Hakkinda Kanun-i Muvakkat ile yuzde doksaninin ortadan kaldirilmasi"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 18,
+    "kismi": 3,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

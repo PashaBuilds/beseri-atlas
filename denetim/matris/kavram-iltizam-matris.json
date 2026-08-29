@@ -1,0 +1,481 @@
+{
+  "id": "kavram-iltizam",
+  "govde_hash": "55869a66cab4",
+  "commit": "5d4e5ad",
+  "zaman": "2026-08-30",
+  "hakem": "kor-hakem-2026-08-30",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "İltizam aralığı kapatan mekanizmadır: devlet, mukātaa denen bir vergi biriminin toplanma hakkını, çoğu kez müzayedeyle belirlenen ve bir bölümü peşin istenen yıllık bir bedel karşılığında, sınırlı bir süre için ve kârı ile zararı kendine ait olmak üzere bir mültezime devreder; devir güvenilir bir kefaletle bağlanır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gencin model tanimindaki butun unsurlar (mukataa birimi, muzayede, pesin, sinirli sure, kar-zarar multezime, kefalet) maddede tek cumlede sayilir."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Mehmet Genç'e göre devletin önünde ya maaşlı memur kadrolarıyla toplama — Osmanlı adıyla emanet — ya da işi özel teşebbüs gibi davranan kişilere devretme yolu vardır; uygulamada ikisi arasında sayısız ara biçim bulunur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Emanet/iltizam iki kutup ayrimi ve aralarindaki ara bicimler maddede acik bicimde kurulur."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Osmanlılar başlangıçtan beri iltizamı emanete tercih ettiler ve bu tercihi 19. yüzyıl ortalarına kadar pek değiştirmediler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde \"iltizamı emanete tercih etmişler\" der ve tercihin 19. yuzyil ortalarina kadar pek degismedigini yazar."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Kurumun ağırlığı buradan gelir: iltizam bir arıza değil, imparatorluğun yaşıtı sayılabilecek asıl vergilendirme biçimidir.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "\"Osmanlı sisteminin yaşıtı sayılabilecek nâdir kurumlardan biri\" nitelemesi maddenindir; \"ariza degil\" vurgusu bu nitelemeden turetilen cerceveleme."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Ne zaman başladığı ise tam olarak bilinmiyor; ilk örnekler 15. yüzyılın ikinci yarısından görülür, ama Genç bu örneklerdeki terminolojinin gelişmişliğine bakarak çok daha önce başlamış olduğuna hükmedilebileceğini yazar.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynagin kendi belirsizligi tasindi: maddeye gore baslangic tam olarak bilinmemekte, erken baslangic ancak terminolojinin gelismisligine bakarak hukmedilebilen bir cikarimdir."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "o geliri askerî hiyerarşiyi desteklemek amacıyla ve tevarüs yoluyla geçmemek üzere tahsis eder; iltizam nakit karşılığında ve birkaç yıllık bir tahvil için satar; mâlikâne aynı hakkı peşin bir muaccele karşılığında ve kaydıhayat şartıyla devreder.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem duzeltmesi: cumlenin timar yarisi bu dosyada kaynaksizdi ve destegi bagli dosyaya havale ediliyordu. TDV TIMAR (Inalcik) kunyesi eklendi; \"askeri-idari hiyerarsiyi desteklemek amaciyla yapilan ve tevarus yoluyla gecmeyen tahsisat\" maddenin tanim cumlesidir. Iltizamin tahvil suresi k1de, malikanenin muaccele ve kaydihayat sarti k3te birebir gecer."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Mukātaa, iltizamın konusu olan vergi birimidir; terim 15. yüzyıl ortalarından başlayarak vergilerin \"belirli bir meblağ karşılığında iltizama verilmesi\" anlamından birimin kendisine kaymıştır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Terimin \"belirli bir meblağ karşılığında iltizama verilmesi\" anlamindan birimin kendisine kaymasi maddede tarihlenerek anlatilir."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Bir mukātaa birkaç yüz akçelik olabildiği gibi 10-20 milyon akçelik de olabilir, kimi bir mezraayı, kimi birçok eyaleti kapsardı.",
+      "onem": "renk",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Buyukluk yelpazesi (birkac yuz akce - 10-20 milyon akce; mezraadan birkac eyalete) maddede aynen verilir."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Talip, ödeyeceği meblağı, peşinini ve kefillerinin listesini kadıya sunardı; kadı kefillerin ödeme gücünü evlerine kadar giderek yerinde görür, arz tezkiresini merkeze yollar, teklif kabul edilirse berat düzenlenirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kadinin kefilleri evlerine kadar giderek yerinde gormesi ve arz tezkiresi-berat zinciri maddede adim adim yazilidir."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Sözleşme, tahvil denen ve çoğunlukla üç yıllık olan bir süre içindi; dokuz, hatta on iki yıla uzayabilirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tahvilin ekseriya uc yillik olmasi ve dokuz-on iki yila uzayabilmesi maddede gecer."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Mültezimin yatırdığı peşin — yıllık paya isabet eden meblağın genellikle %5 ile %50'si arasında — son yılda mahsup edilmek üzere hazinede beklerdi; Genç bunu mültezimin hazineye verdiği bir tür faizsiz kredi diye niteler.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "%5-50 orani, son yilda mahsup edilmesi ve faizsiz kredi nitelemesi maddenin kendi ifadeleridir."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Simetri yoktu: müzayede sürekli açık tutulur, daha yüksek bir teklif geldiği anda hazine sözleşmeyi değiştirebilirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Muzayedenin surekli acik tutulmasi ve tam simetri bulunmamasi maddede acikca soylenir."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "İltizam, emanetle kıyaslanmayacak kadar az masraf ve küçük bir bürokratik kadroyla azami vergilendirme sağlıyordu; riski üstlenen mültezimin, maaşla görevlendirilmiş eminden daha etkili çalışacağı düşünülüyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Maddenin kendi degerlendirmesi; bagimsiz bir maliyet olcumu degildir, bu yuzden aktarim olarak isaretlendi."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Bundan da önemlisi, gelirleri mevsimlik ve konjonktürel dalgalanmalardan koruyarak önceden görme imkânı vermesiydi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gelirleri mevsimlik ve konjonkturel dalgalanmalardan koruyarak onceden gorme imkani maddede iltizamin vazgecilmez avantaji diye anilir."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Aynı mantık birimin kurgusuna işlemişti: bir mukātaanın kapsadığı alan ya da vergi çeşidi arttıkça yıllık gelirinin istikrarı artar, risk düştüğü için mültezimler daha düşük kârla, yani daha yüksek bir bedelle razı olurdu.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Alan/unsur genisligi ile gelir istikrari arasindaki bag ve bunun mukataa bedeline etkisi maddede kurulur; olculmus bir esneklik degildir."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Askerî zümrenin 16. yüzyıl ikinci yarısından itibaren hızlanan çoğalması bütçe açıklarını, açıklar da maaşların zamanında ve tam ödenememesini getirdi; zümre mensupları maaş güvencesi arayışıyla iltizam sektörüne yığıldı ve devlet buna karşı koymak yerine yardımcı oldu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Askeri zumrenin cogalmasi, butce aciklari, maaslarin odenememesi ve sektore yonelme zinciri maddede bu sirayla anlatilir."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Sektörün onlara inhisar etmesi 1650 dolaylarında tamamlandı; daha önce sayıları az olmayan gayrimüslimlerin yüzyıl ortasından sonra sektörden hemen hemen silinmeye başlaması bu sürecin sonucudur.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1060 (1650) dolaylarinda tamamlanan inhisar maddede yazilidir. Hakem duzeltmesi: govde gayrimuslimlerin sektorden silinmesi diyerek kaynagin kaydini sertlestirmisti; madde XVII. yuzyilin ortalarindan sonra hemen hemen silinmeye baslamasindan soz eder ve bu cekince geri konuldu."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Genç, iltizam bedellerinin 17. yüzyıldan itibaren donmaya doğru bir seyre girdiğini ve bunun rekabetin azaldığını düşündürdüğünü yazar — ölçüt doğrudan bir rekabet ölçümü değil, bedellerin zaman içindeki gidişidir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynagin cekincesi tasindi: madde bedellerin durgun gorunumunu rekabetin \"azalmış olduğunu düşündüren\" bir isaret sayar; dogrudan bir rekabet olcumu yoktur."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Donmuş görünen bedellerin arkasında iki gizli artış vardır: maaşını hazineye terk ederek iltizam alma (hazînemânde) ve peşinlerin yükseltilmesi; ikisi de bütçe rakamlarında görünmez.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hazinemande ve pesinlerin yukseltilmesi maddede butce rakamlarinin arkasinda kalan iki surec olarak anlatilir."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Savaş giderleri artınca hazine tahvil sürelerini bir yıla, hatta daha kısaya indirdi; sık değişen ve peşinini faiziyle bir an önce çıkarmaktan başka kaygısı olmayan mültezimler vergi yükünü üretim kapasitesini daraltacak ölçüde ağırlaştırdı, kapasite daraldıkça gelir düştü, gelir düştükçe hazinenin talebi arttı.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kisir dongu (tahvil kisalmasi, yuk artisi, kapasite daralmasi, gelir dususu) malikane maddesinin acilis gerekcesidir."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Mâlikâne bu paradoksu aşmak için düşünüldü: yıllık vergi hazinece sabitlenir, müzayede bu kez kaydıhayat şartıyla vergilendirme hakkının bedeli olan muaccele üzerinde yapılır ve mukātaa sahibinin ömrü boyunca elinde kalırdı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yillik verginin hazinece sabitlenmesi, muzayedenin muaccele uzerinde yapilmasi ve kaydihayat sarti maddede birebir sayilir."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "1695'te uygulamaya konan tür 18. yüzyıl boyunca yayıldı ve neredeyse bütün vergi kalemlerini içine aldı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1106 (1695) tarihi ve sistemin 18. yuzyil boyunca gumruk, damga, osur, ihtisap, bac gibi kalemleri kapsayacak sekilde yayilmasi maddede yazilidir."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Mâlikânecilerin razı olduğu kâr haddinin 1730'larda %30-35 iken 1760'larda %25'e, yüzyılın sonlarında %15'e gerilemesini Genç, keyfî müdahalenin artık yapılmayacağını gösteren uzunca bir uygulamaya bağlar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kar hadleri (1730larda %30-35, 1760larda %25, yuzyil sonunda %15) maddede aynen verilir. Hakem duzeltmesi: govde bu dususu sisteme duyulan guvenin artmasinin olcusu sayarak kesinlestiriyordu; madde ise dususu hicbir keyfi mudahalenin artik yapilmayacagini gosteren uzunca bir uygulamaya baglar. Cumle kaynagin kendi gerekcesine indirildi."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Bu arada tımar daraldıkça dirlikler mukātaaya çevrildi; bütçe gelirlerinin 16. yüzyılda yarıdan biraz fazlasını sağlayan mukātaaların payı, 17. yüzyılda muhtemelen bu etkiyle %66'ya kadar yükseldi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Butce payinin %66ya yukselisini maddenin kendisi \"muhtemelen bu faktörün etkisiyle\" diye kosullar; cekince cumlede korundu."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Ama mâlikâneciler vergiyi çoğunlukla kendileri toplamadı; ikinci, hatta üçüncü elden mültezimlere devrettiler ve sistem giderek rantiye zümrelerine gelir aktaran bir mekanizmaya döndü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ikinci ve ucuncu elden devir ile rantiye zumrelerine gelir transferi maddede acikca anlatilir."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Eliana Balla ve Noel Johnson, 16. yüzyılda hem Fransa'nın hem Osmanlı'nın vergi toplamada iltizamı yaygın biçimde kullandığını, yolların malî baskının yarattığı belirsiz mülkiyet hakları yüzünden ayrıldığını savunur: Fransa'da vergi toplayıcıları hükümdarı sınırlamanın toplu eylem maliyetini aşabilmiş, Osmanlı'da benzer bir örgütlenmenin önünde aşırı işlem maliyetleri durmuştur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hakem duzeltmesi: ustveri kunyesi kurali geregi destek dogrudandan kismiye indirildi. k5 bir Crossref kaydidir; ozet alani dolu ve iddiayi (16. yuzyilda iki ulkede de yaygin iltizam; Fransada toplu eylem maliyetinin asilmasi, Osmanlida asiri islem maliyetleri) birebir tasir, ama bu makalenin BULGUSU hakkinda bir iddiadir ve destek en fazla ozet duzeyindedir. Kaydin link dizisinde yalnizca similarity-checking ucu var, text/html galley yok; tam metne erisilemedi. Govde aktarim halkasini zaten beyan ediyor."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "İkincisi adlandırmadır: Ariel Salzmann'ın 1993 tarihli makalesi 18. yüzyıl Osmanlı siyasal iktisadını yeniden ziyaret edilen bir eski rejim ve, tırnağa alınmış bir deyimle, özelleştirme olarak adlandırır.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Kayitta ozet alani YOK; destek yalnizca baslik, yazar, dergi ve yil duzeyindedir (ARIEL SALZMANN, Politics & Society 21/4, 1993, s. 393-423 — kunye kayitla birebir ortusur, hayalet ad yok). Hakem duzeltmesi: kaynagin baslikta Privatization sozcugune koydugu tirnak govdede dusurulmustu; tirnak yazarin kendi cekincesidir ve tirnaga alinmis bir deyimle diyerek geri konuldu. Kayittaki iki link de application/pdf; text/html galley yok, tam metin okunamadi."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "3 Kasım 1839'da okunan Gülhane Hatt-ı Hümâyunu'nun dönemin diplomatik dolaşımındaki Fransızca metni iltizamı adıyla anar, onu \"des concessions vénales\" diye niteler ve bu düzende bir yerin idaresinin tek bir kişinin keyfine bırakıldığını yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Fransizca metinde \"des concessions vénales\" ifadesi ve idarenin tek bir kisinin keyfine birakildigi cumlesi birebir gecer."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Mart 1840'ta iltizam kaldırıldı, vergiler yeni kurulan muhassıllık teşkilâtı içinde maaşlı memurlarla toplanmaya başlandı; iki yıl sonra gelirlerin iltizamın sağladığından çok daha düşük kaldığı görülünce 1842'de gümrüklerde, 1843'te âşârda geri dönüldü.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mart 1840 kaldirma, muhassillik teskilati, 1842 gumrukler ve 1843 asar donusu maddede tarihleriyle yazilidir."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Kurumun büsbütün tasfiyesi ise ancak Cumhuriyet devrinde, âşârla birlikte 17 Şubat 1925 tarihli kanunla gerçekleşti.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "17 Subat 1925 tarihli kanunla asarla birlikte tasfiye maddenin son cumlesidir."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "İltizamın verimlilik ve öngörülebilirlik lehine okunması onun çerçevesidir ve karşılaştırmalı ölçüm ayrı bir yerden, Balla ve Johnson'ın özetinden gelir.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Kaynak sinirini bildiren meta-cumle. k5 burada iddianin kendisini degil, karsilastirmali olcumun nereden geldigini gosterir; bu yuzden destek baglam, sinif olculemez."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Osmanlı maliyesinde bu aralık, imparatorluğun binlerce köyüne, gümrüğüne, tuzlasına ve kahve değirmenine dağılmış, çoğu aynî ve mevsimlik bir gelirle kapatılmak zorundaydı.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hakem eklemesi: bu cumle matriste yoktu ve govdede yalnizca k1 dipnotu tasiyordu; oysa tuzlalar ve kahve degirmenlerinin mukataa olarak orgutlendigi, mukataa sayisinin binleri astigi ve birimlerin koy olcegine kadar indigi k2de yazilidir. Dipnot k2 eklenerek duzeltildi."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 30,
+    "kismi": 1,
+    "desteksiz": 0,
+    "olculemez": 1
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-30",
+      "gerekce": "kor hakem: k7 (TDV TIMAR) eklendi, i26 ustveri kurali geregi kismiye indirildi, i17/i23/i27de kaynagin kendi cekinceleri geri konuldu, acilis cumlesi i32 olarak olculdu"
+    }
+  ]
+}

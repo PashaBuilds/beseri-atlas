@@ -1,0 +1,309 @@
+{
+  "id": "kavram-serflik",
+  "govde_hash": "aba79795da81",
+  "commit": "5d4e5ad",
+  "zaman": "2026-08-30",
+  "hakem": "kor-hakem-2026-08-30",
+  "iddialar": [
+    {
+      "iddia_id": "i1",
+      "cumle": "Bec Manastırı'nın Wrotham'daki manor mahkemesi, Mihail Yortusu'ndan sonraki ilk cuma günü toplanıyor ve tuttuğu kayıt şöyle başlıyor: Richard oğlu Gilbert, evlenme izni almak için beş şilin veriyor, kefili Seeman.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wrotham rulosunda \"dat v. s. pro habenda licencia ducendi uxorem\" satiri birebir duruyor; evlenme izninin bir fiyati ve bir kefili oldugu iddiasi dogrudan bu kayittan okunuyor."
+    },
+    {
+      "iddia_id": "i2",
+      "cumle": "Aynı oturumda, bekâretini yitirdiği kaydedilen beş kadın leyrwite borçlusu olarak adlarıyla yazılıyor ve her birinin ödeyeceği para altı ile on iki peni arasında tek tek gösteriliyor; köy topluluğu ise başrahibin salmasına karşılık üç mark ödüyor.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kayit \"Mulieres subscripte violate fuerunt et ideo debent leyrwite\" diye acilir ve bes kadini adlariyla sayar; tek tek verilen cezalar vj.d., xij.d., xij.d., vj.d., vj.d. — yani alti ile on iki peni arasi. HAKEM DUZELTMESI: taslak araligi \"alti ile on sekiz peni\" yaziyordu; xviij.d. rakamlari kenar sutunundaki ARA TOPLAMLARDIR (6+12=18, 12+6=18, 6=6; toplam 42d) ve hicbir kadinin cezasi degildir. \"De villata ad tallagium Abbatis iij. marc.\" satiri koy topluluguna dusen uc marki veriyor."
+    },
+    {
+      "iddia_id": "i3",
+      "cumle": "Bir başka Bec manorunda Elias Deynte toprağını mahkeme önünde bırakıyor, oğlu William zilyetliğe konuluyor, sadakat yemini ediyor ve beş şilinlik intikal harcını buluyor.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"Elias Deynte in full court resigned his land and William Deynte his son was put in seisin of it and swore fealty and found the same pledges for 5 s. as his relief\" — tuttugu topragin ogluna gecmesi, serfi satilabilir bir maldan ayiran merkezi olgu."
+    },
+    {
+      "iddia_id": "i4",
+      "cumle": "Paul Vinogradoff 1892'de emeğin örgütlenmesinde üç uğrak sayar: çalışan insanın istendiği gibi elden çıkarılan \"as a chattel at will\" bir mal olarak, ödevleri âdetle belirlenmiş bir tâbi olarak, ya da sözleşmeyle bağlı özgür bir taraf olarak kullanılması.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Vinogradoff emegin orgutlenmesinde uc uguragi sayarken birinciyi \"as a chattel at will\" diye adlandirir; serfligin ortadaki basamak oldugu ayrimi bu siralamadan geliyor."
+    },
+    {
+      "iddia_id": "i5",
+      "cumle": "Bu tanımlara, der, ancak bütün küçük eşitsizliklerin ve arazi kıvrımlarının gözden kaybolduğu bir yükseklikten bakılınca ulaşılır; on üçüncü yüzyıl İngiliz köylüsünün fiilî durumuna inildiğinde tablo bozulur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin kendi cekincesi: tanimlara ancak butun kucuk esitsizliklerin gorunmez oldugu bir yukseklikten bakilinca ulasildigini ve on ucuncu yuzyil Ingiliz koylusunun fiili durumuna inildiginde tablonun bozuldugunu yaziyor. Cekince tasindi."
+    },
+    {
+      "iddia_id": "i6",
+      "cumle": "Coke'un Littleton şerhinden geriye izlenen kural villein'e efendisi dışında herkese karşı her tür dava açma hakkı tanıyordu — yani serfin hukuki kişiliği vardır, ama tam da onu bağlayan kişiye karşı yoktur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Vinogradoff doktrinin tarihini Coke'tan geriye izler ve Coke'un Littleton serhinde villainin \"every kind of action against every person except his lord\" acabilecegini yazdigini aktarir. HAKEM DUZELTMESI: taslak bunu adsiz cogul \"Hukukcular\" diye veriyordu; bir sonraki cumledeki \"ayni hukukcu\" ise Bracton'a gonderiyordu, yani iki ayri hukukcu tek kisiye indirgenmisti. Adlar kaynagin verdigi bicimde ayrildi."
+    },
+    {
+      "iddia_id": "i7",
+      "cumle": "Statüyü ölçecek ölçüt de kararsızdır: kızını evlendirmek için ödenen merchet Bracton'a göre kişisel özgürlükle bağdaşmaz, ama Bracton hemen ardından bir tür geri alma koyar ve Martin of Bestenover davasında merchet ödeyen köylünün özgür olduğuna hükmedilmiştir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak birebir: Bracton merchet odemesinin kisisel ozgurlukle bagdasmadigini soyler, \"but he immediately puts in a kind of retractation\" ve Martin of Bestenover davasinda merchet odeyen koylunun ozgur oldugu hukmu verilir. Uc oge de ayni paragrafta; hukumdeki edilgen kalip kaynagin kendi kalibidir."
+    },
+    {
+      "iddia_id": "i8",
+      "cumle": "Rusya'da ise adı serflik kalmaya devam ederken kurumun fiilen köleliğe dönüştüğü kaydedilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak Rusya serfliginin \"usual European form\"dan fiili kolelige evrildigini, adinin serflik kalmaya devam ettigini yaziyor. Giris kapisi duzeyinde bir kaynak oldugu icin guven orta."
+    },
+    {
+      "iddia_id": "i9",
+      "cumle": "Maitland derlemenin girişinde asıl sorunun cevapsız olduğunu söyler: âdete bağlı tasarrufun ne ölçüde güvencesiz olduğu, efendinin iradesinin \"the custom of the manor\" tarafından ne kadar dizginlendiği, ancak seçilmiş manorların on yıl on yıl izlenmesiyle çözülebilir; rulolar suskundur ve tanıklıklarını kolay vermez.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Maitland girisinde adete bagli tasarrufun ne kadar guvencesiz oldugunu ve \"the will of the lord\"un \"the custom of the manor\" tarafindan ne kadar dizginlendigini acik soru olarak birakir; rulolarin suskun oldugunu ve on yil on yil izlenmeleri gerektigini yazar."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Blakeham'da iki köylü, komşularının kendi üzerlerine böldüğü salmaya itiraz ettikleri için on ikişer peni ceza alır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Blakeham kaydi: iki kisi \"in misericordia quia contradixerunt tallagium quod positum fuit super eos per vicinos suos\" — salmayi komsularinin bolustugu ve itirazin cezalandirildigi dogrudan bu satirda."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Bir manorda köy topluluğunun tamamından altı mark, Wrotham'da üç mark istenmesi de bunu gösterir: rakam tek bir tarifeden değil, yerel bir pazarlıktan çıkar.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Alti mark ve uc mark rakamlari kayitta birebir var; ama ancak tarife degil pazarlik yorumu kaynagin cumlesi degil yazarin yorumudur, bu yuzden destek kismi."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Batı Avrupa'da yükümlülükler gevşerken Orta ve Doğu Avrupa'da serflik güçlendi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak \"Conversely, serfdom grew stronger in Central and Eastern Europe\" diyerek batidaki gevseme ile dogudaki guclenmeyi ayni cumlede karsi karsiya koyuyor."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Sıkılaşma yalnız doğuda görülmedi: Yukarı Suabya'daki Kempten manastırının köylüleri 1492'de başrahibi beratı çiğnemekle suçluyor.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Belgenin acilisi Kempten manastirinin \"poor folk\"unun sikayet maddeleridir ve [1] maddesi beratin aksine yeni vergi konmasidir; GHDI kunyesi belgeyi Yukari Suabya'ya yerlestirir. HAKEM DUZELTMESI: taslak bu belgeyi \"Doguda tersine donen egri\" basligi altinda, Orta ve Dogu Avrupa cumlesinin hemen ardindan, yeri soylenmeden veriyordu; Kempten Elbe'nin cok batisindadir ve okuyucu belgeyi dogu ornegi sanirdi. Bolum basligi ve giris cumlesi duzeltildi."
+    },
+    {
+      "iddia_id": "i13b",
+      "cumle": "Danışmadan yeni vergi koymuş; ayrılmak isteyen özgür kiracıları hapsedip kütüğe vurmuş, varlığına göre kırk ya da altmış Ren florini para cezası kesmiş; ölenin terekesinin yarısına, doğrudan mirasçı yoksa tamamına el koyuyor; özgür bir taraf serf biriyle evlenirse, hangi yönde olursa olsun, eşinin statüsüne düşüyor.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sikayetnamenin [1]-[4] maddeleri: berata ragmen yeni vergi; ayrilmak isteyenlerin hapsedilip kutuge vurulmasi ve \"40 or 60 Rhenish florins, depending on how much the tenant has\"; olen kisinin terekesinin yarisina, dogrudan mirasci yoksa tamamina el konmasi; ozgur bir kiracinin serf bir kadinla YA DA ozgur bir kadinin serf bir erkekle evlenmesi halinde esin statusune dusulmesi. HAKEM DUZELTMESI: taslak (a) \"kirk ile altmis florin ARASINDA\" diyerek kaynagin \"40 ya da 60\" ikili tarifesini araliga cevirmis, (b) terekenin yarim/tam ayrimini silmis, (c) evlilik maddesini tek yone kirpmisti. Ucu de kaynagin verdigi bicime getirildi."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Belgeyi yayımlayan editörlerin özeti, on beşinci yüzyılın ikinci yarısındaki nüfus artışının Yukarı Suabya'da efendileri eski hizmet koşullarını canlandırmaya ittiğini ve tarihçilerin buna \"the second serfdom\" dediğini yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "GHDI Abstract'i birebir tasiyor: \"In Upper Swabia, this prompted the lords to try to revitalize old conditions of servitude\" ve adlandirmayi tarihcilere baglayan devami ayni cumlede. Bu metin belgenin degil editorlerin kunyesidir, destek kismi. HAKEM DUZELTMESI: taslak kaynagin Yukari Suabya sinirlamasini dusurmus, adlandirmayi kitasal bir olcege tasimisti; sinirlama geri konuldu."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Adlandırmanın kendisi alanın içinden itiraz görüyor: Markus Cerman 2012'de yayımlanan bir kitap bölümüne The Myth of a Second Serfdom adını verdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref kaydi baslik, yazar, yil ve sayfa araligini birebir veriyor: Markus Cerman, \"The Myth of a Second Serfdom\", 2012, s. 10-39. Bolumun gerekcesi ust veriden okunamaz; cumle de yalnizca adlandirmanin reddedildigini soyluyor."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Batıdaki gerileme kimi zaman Kara Ölüm'e bağlanır — kaynak da bağı bu ihtiyatla kurar — ama aynı salgının doğusunda kurum güçlendi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak \"has sometimes been attributed to the widespread plague epidemic of the Black Death\" diyerek bagi ihtiyatla kurar; cumle bu ihtiyati aciktan tasiyor. Dogudaki guclenme ayni kaynagin bir sonraki cumlesinde."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Joseph'in 1 Kasım 1781 tarihli fermanı \"The servile status of subjects is herewith abolished completely\" cümlesiyle açılır ve ardından beş madde sayar: evlenmek için önceden bildirim ile ücretsiz verilecek bir belge yeterlidir; tâbi, askere yazım kurallarına uymak şartıyla eyalet içinde başka bir manora geçebilir; dilediği zanaatı öğrenip geçimini istediği yerde arayabilir; yetimler dışında efendisine ev hizmeti vermez; kendisinden, tasarrufuna bağlı robot ile aynî ve nakdî ödemelerin ötesinde hizmet istenemez.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ferman metni \"The servile status of subjects is herewith abolished completely\" ile acilir ve bes maddesi (evlenme belgesi, eyalet ici gecis, zanaat ogrenme, ev hizmeti, robot tavani) sayfada birebir duruyor."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Belgeyi yayımlayan editörler yaygın bir yanlış okumayı da düzeltir: fermanın Avusturya monarşisinin bütün tâbi köylülüğünü özgür insanlara çevirdiği sanılmıştır, oysa Galiçya dışında kişisel serflik yaygın bir hukuki statü değildi ve Maria Theresa taç arazilerinde bunu zaten bitirmişti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yanlis okumayi duzelten metin belgenin kendisi degil GHDI editorlerinin Abstract kunyesidir; Galicya istisnasi ve Maria Theresa notu oradan geliyor, bu yuzden destek kismi."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Rusya'da serfliğin kaldırılması 1861'i buldu.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak \"Serfdom was abolished in Russia in 1861\" diyor; tarih iddiasi dogrudan."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Vinogradoff'un İngiliz belgelerine neden eğildiğini açıklarken yazdığı cümle bu tarihi bir arka plan hâline getirir: kendi çevresi köylü kurtuluşunun yarattığı bir dünyadır ve yaşlı çağdaşları serfliğin son dönemini hatırlamaktadır.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Vinogradoff onsozunde kendi cevresinin \"the social revolution of the peasant emancipation\" tarafindan yaratildigini ve yasli cagdaslarinin serflik donemini hatirladigini yaziyor."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 18,
+    "kismi": 3,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

@@ -33,6 +33,7 @@ ilgili:
   - tartisma-teknolojik-belirlenimcilik
   - olay-11-eylul
   - olay-vietnam-savasi
+  - kavram-olay-tarihi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

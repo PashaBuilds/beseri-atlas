@@ -1,0 +1,341 @@
+{
+  "id": "kavram-olay-tarihi",
+  "govde_hash": "766d92b33710",
+  "commit": "bf4bb9c",
+  "zaman": "2026-08-30",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "François Simiand'ın 1903'te Revue de synthèse historique'te çıkan yazısı derginin Débats et combats bölümüne alındı; yayın kurulu, 1939 öncesinde yetişmiş herkesin bildiği bu klasik metni özellikle genç tarihçiler için bastığını, yarım yüzyılda alınan yolu ölçebilsinler diye yaptığını yazdı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Persee acik ilk sayfasindaki yayin kurulu dipnotu (N.D.L.R.) metni birebir tasir: 1903 tarihli Revue de Synthese historique yazisi, DEBATS ET COMBATS bolumunde, bien connu de tous ceux qui firent leur apprentissage avant 1939 kaydiyla, genc tarihciler icin yeniden basilmistir. HAKEM: kaynagin kendi ifadesi avant 1939 oldugu icin savas oncesi ifadesi 1939 oncesi olarak duzeltildi; acilis cumlesindeki elli yil da kaynagin un demi-siecle ifadesine oturtuldu (yazi 1903, basim 1960)."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Simiand 1903 tarihli yazısını, tarihçilerdeki yöntem tedirginliğini büyük ölçüde geleneksel tarih ile yeni toplumsal bilim arasındaki komşuluk, rekabet ve çatışma ilişkisine bağlayarak açar; bağı kendisi de bir kesinlik olarak değil, öyle görünüyor kaydıyla kurar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Acilis cumlesi: les inquietudes de methode ... tiennent pour une bonne part, semble-t-il, aux relations de voisinage, de rivalite et de conflit. HAKEM: yazarin dusurdugu iki cekince (pour une bonne part / semble-t-il) cumleye geri konuldu. Aktarim s. 83 ile sinirlidir."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "İtirazın çekirdeği bilgi kuramsaldır: geçmiş olaylar yalnızca bir kez olmuştur ve yeniden çağrılamaz, dolayısıyla — tarihçinin kendi tanık olduğu az sayıdaki olay dışında — onlara dair bilgi ancak dolaylı olabilir; üstelik çok seyrek istisnalar dışında bu bilginin dayandığı öğeler bilimsel anlamda gözlem değil, bilinen ve tanımlı bir yöntem olmaksızın, çoğunlukla da bilim dışı amaçlarla tutulmuş kayıtlardır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni acilis sayfasinda: gecmis olaylar bir kez olur ve evocable degildir; bu bilgi kipi tek olanaktir sauf pour la faible exception des evenements constates par lhistorien lui-meme; kaynaklar sauf de tres rares exceptions bilimsel anlamda observation degil, tanimli yontem olmaksizin ve bilim disi amaclarla tutulmus notasyonlardir. HAKEM: kaynagin kendi iki istisna kaydi dusurulmustu, geri konuldu."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Marc Bloch ile Lucien Febvre'in 1929'da kurduğu yaklaşım, on dokuzuncu ve erken yirminci yüzyıl tarihçiliğinin siyaset, diplomasi ve savaş vurgusunu reddediyordu; derginin kapsamında siyasi, diplomatik ya da askerî tarihe ve ünlü adamların yaşam öykülerine az yer ayrılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Derleme kaynak Bloch-Febvre 1929 kurulusunu ve siyaset/diplomasi/savas vurgusunun reddini birebir yazar; dergi kapsaminda siyasi, diplomatik, askeri tarihe ve unlu adam biyografilerine az yer ayrildigi cumlesi de aynidir."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Georges Duby'nin derlemeye alınan kendi tarifinde sansasyonel olan kenara itilir; olayların basit dökümü yerine sorun kurup çözmek, yüzeydeki dalgalanmaları geçerek iktisadın, toplumun ve uygarlığın orta ve uzun vadeli evrimini gözlemek gelir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Duby aktarimi derleme kaynakta blok alinti olarak durur (relegated the sensational to the sidelines ... to observe the long and medium-term evolution of economy, society and civilisation); buradaki cumle o alintinin parafrazidir, tirnak kullanilmadi. Alintinin kendi kaynagi maddenin 14 numarali dipnotudur. HAKEM: aktarim halkasi gizliydi, derlemeye alinan ibaresiyle metinde beyan edildi."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Fernand Braudel üç zaman kipi ayırdı: tarihsel coğrafyanın neredeyse hareketsiz tarihi, toplumsal, siyasi ve iktisadi yapıların uzun süresi, ve insanların ve olayların kendi yapıları içindeki tarihi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak uc kipi birebir sayar: lhistoire quasi immobile of historical geography, the history of social, political and economic structures (la longue duree), and the history of men and events, in the context of their structures. HAKEM: yazar ucunden yalnizca birini yazip en ustteki demisti; kaynak ne siralama hiyerarsisi ne de en ustteki ifadesi verir, liste tam haline getirildi."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Devrim bir olay sayılırsa kendisini oluşturan parçalarla aynı mantıksal yapıya sahip olur — kaynağın Koselleck'ten aktardığı tanımla hepsi belirli bir başlangıcı ve sonu olmakla tanımlanır — ve dışsal bir kronolojiye başvurulmadıkça zamansız kalır; bu bakıştan Devrim'in yapısı yoktur ve açıklama araçları en iyi ihtimalle son derece sınırlıdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tomich in 16 numarali dipnotu birebir: olay tek zamansal kategori ise farkli sureli olgular konusulamaz; Fransiz Devrimi, Bastille, Varennes ve Jeu de Paume ayni mantiksal yapida olur; Koselleck ten alinan tanimla hepsi belirli baslangic ve son ile tanimlanir ve dissal kronoloji olmadan zamansizdir; bu bakistan Devrim in yapisi yoktur."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Edgar Morin o sayıdaki yazısında durumu şöyle özetler: olay kavramı eskiden bilimsel sorunları kaçırırdı, bu sayı ise bugün onları çekebildiğini gösteriyor.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Morin in acilis paragrafi: olay kavramu eskiden bilimsel sorunlari kacirirdi, bu sayi bugun onlari cekebildigini gosteriyor. Ilk sayfa ile sinirli."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Morin'e göre olayın geri dönüşü bilim öncesi bir gerileme diye görülebilir, oysa en gelişmiş bilimlerde çoktan atılmış bir adımdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni sayfada: olayin geri donusu bilim oncesi bir gerileme diye tasarlanabilir, oysa en gelismis bilimlerde zaten bir adim ileridir."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Savunusunu yine de bir çekinceyle kurar: sistem kuramı henüz zar zor belirdiği için olay kuramı \"flotte encore\" — hâlâ havada durmaktadır — ve olay kavramı ancak etkilediği sisteme göre anlam kazanır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cekince kaynagin kendi cumlesinden tasinmistir: sistemoloji yoklugunda olay kurami flotte encore. Tirnakli dize sayfada birebir gecer. Ikinci yari (olay ancak etkiledigi sisteme gore anlam kazanir) da ayni sayfadadir."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Nora'ya göre kitle iletişim araçları artık tarihin tekelini elinde tutar: basın, radyo ve görüntü, olayların görece bağımsız kaldığı araçlar değil, onların varlık koşuludur; bir şeyin olmuş olması onu yalnızca tarihsel kılar, olay sayılabilmesi için bilinmesi gerekir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Nora nin acilis paragrafi: kitle iletisim araclari tarihin tekelini elinde tutar; basin, radyo ve goruntu olaylarin varlik kosuludur; olmus olmak yalnizca tarihsel kilar, olay olmak icin bilinmek gerekir."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Nora modern olayın Fransa'daki ilk patlamasını Dreyfus Olayı'nda arar, ama bunu bir kesinlik olarak değil olasılık kipiyle söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak Dreyfus Olayi ni modern olayin Fransa daki ilk patlamasi diye peut-etre kaydiyla verir; cekince cumleye tasindi."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "William H. Sewell Jr.'ın 1996'da Theory and Society'de çıkan çalışmasının başlığı savı taşır: tarihsel olaylar yapıların dönüşümüdür ve örnek, Bastille'de devrimin icadıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydinda baslik birebir: Historical events as transformations of structures: Inventing revolution at the Bastille. Cumle savin GEREKCESINI degil, basligin savi tasidigini soyler."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Elde edilebilen kayıt yalnızca künye verisidir — cilt 25, sayı 6, s. 841-881 — savın gerekçesini taşımaz; aynı kayıt çalışmanın 755 kez anıldığını gösterir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kayitta volume 25, issue 6, page 841-881 ve is-referenced-by-count 755 alanlari birebir durur. abstract alani yoktur; Springer tam metin uclari bot suzgeci dondurur."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Giovanni Levi'den aktarılan formülde ölçeğin küçültülmesi deneysel bir işlemdir, çünkü bağlamın sınırlarının ve tutarlılığının yalnızca görünürde olduğunu varsayar ve ancak ölçek değiştirildiğinde beliren çelişkileri açığa çıkarır; mikro boyut seçimi de makro bağlamsal yorumun geleneksel ağırlığının doğrudan sonucudur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tomich in 55 numarali dipnotu Levi den birebir aktarir: reduction in scale is an experimental operation ... it brings out those contradictions which only appear when the scale is altered; the choice of micro dimensions arose as a direct result of the traditional preponderance of macro contextual interpretation. Aktarim Levi nin kendi metninden degil Tomich in dipnotundan okundu."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "François Furet 1971'de yine Débats et combats bölümünde, Claude Mazauric'in Albert Soboul önsözlü kitabına karşı yazdı: kendisi ile Denis Richet'nin 1965-66 tarihli La Révolution française'i burjuva ideolojisinin oyununa gelmekle suçlanıyordu ve Furet suçlamanın maniheist mantığını hedef aldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Persee acik ilk sayfasi: yazi DEBATS ET COMBATS bolumundedir, Mazauric in Sur la Revolution francaise kitabi Soboul onsozludur, Furet-Richet La Revolution francaise 1965-1966 tarihlidir ve burjuva ideolojisi sucunun manihaist mantigi metinde acikca hedef alinir. Sonraki sayfalar okunamadi."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Braudel'in aktarılan kendi formülü buna izin vermez — tarih, dünün, bugünün ve yarının zanaatlarından ve bakış açılarından kurulu, mümkün bütün tarihlerin toplamıdır; kendi kanısınca tek hata, bu tarihlerden birini ötekileri dışlayarak seçmek olurdu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tomich in 2 numarali dipnotu Braudel i Fransizca aktarir: lhistoire est la somme de toutes les histoires possibles - une collection de metiers et points de vue, dhier, daujourdhui, de demain. La seule erreur, a mon avis, serait de choisir lune de ces histoires a lexclusion des autres. HAKEM: dusurulen a mon avis kaydi (kendi kanisinca) ve kirpilan collection de metiers et points de vue ogesi geri konuldu; kosullu kip (serait) korundu. Aktarim Braudel in kendi metninden degil Tomich in dipnotundan okundu."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Morin'in kendi uyarısı, olayın ancak etkilediği sisteme göre anlam kazandığını söyleyerek bunu keser.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Morin in ayni sayfadaki uyarisi; i10 ile ayni kaynak cumlesine dayanir ama burada carpitmaya karsi kullanilir."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Üçüncüsü Annales'i siyasete kayıtsız tek parça bir blok gibi okumaktır; oysa Jacques Revel'in saptamasıyla okulun başarısı — toplumsal yapıları açıklayıcı güç saymak — kendi çöküşünün tohumlarını taşıyordu, çünkü toplumsalın birliğini kuracak örtük uzlaşma artık yoktu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Derleme kaynak Revel i dipnotlu aktarir: okulun basarisi kendi cokusunun tohumlarini tasiyordu, cunku toplumsalin birligini kuracak ortuk uzlasma kalmamisti. Revel in kendi metni okunmadi."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Simiand'ın hesaplaşması geleneksel tarihi, tanımlı bir yöntem olmaksızın tutulmuş kayıtlara dayanan dolaylı bir bilgi olarak tarif eder; kurumsallaşmış biçiminde ise aynı tutum siyaset, diplomasi ve savaş vurgusunun reddi olur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM EKI: acilis tezini kuran ikinci paragraf dipnotsuzdu ve terimi kimin ortaya attigi iddiasini kaynaksiz tasiyordu. Kunyelerin hicbiri histoire evenementielle teriminin kime ait oldugunu soylemez; iddia terimin hangi metinlerde yerlestigine indirildi ve k1 (dolayli bilgi / tanimli yontem olmaksizin tutulmus kayitlar) ile k7 (rejected the predominant emphasis on politics, diplomacy and war) uzerine oturtuldu."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Olay tarihi bu üçüncü kipin karşılığı sayılır; eşlemeyi buradaki künye kurmaz",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k7 (Annales school) uc kipi sayar ama ucuncusune histoire evenementielle adini VERMEZ. HAKEM: yazar bu eslemeyi adi budur diye olgu gibi kurmustu; kurulmadigi metinde soylendi. Esleme atlasta kunyelidir: Wikipedia (EN) Fernand Braudel maddesi The third level of time is that of events (histoire evenementielle) der ve dusunur-braudel k9 olarak bu kaydi tasir. Bu dosya ikinci bir giris kapisi kunyesi ekleyemez (KAPI 13: makale basina bir ansiklopedi kunyesi), bu yuzden okur o dosyaya yonlendirildi."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Levi'nin aynı yerdeki kaydı işlemi mikroya bağlamaz: aydınlanma ölçek büyütülerek de gelebilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni 55 numarali dipnotun devami: This clarification can also occur, incidentally, as Jacques Revel has rightly observed, by enlarging the scale. HAKEM: kaynagin kendi cekincesi dusurulmustu, geri konuldu."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Bir olayın olmaması durumunda ne olacağını sormak, o olaya bir ağırlık atfetmeyi gerektirir; olay baştan yüzey sayılırsa soru sorulamaz hale gelir, olay tek zamansal kategori sayılırsa da farklı süredeki olguları ve aralarındaki ilişkileri konuşacak dil kalmaz.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kapanis paragrafi dipnotsuzdu. Cumlenin ikinci yarisi Tomich in 16 numarali dipnotundan birebir gelir: if event is the only temporal category at our disposition, we have no way to talk about diverse and complex temporal phenomena of varying duration and the relations comprising them. Ilk yarisi (karsi-olgusal soru bir agirlik atfini gerektirir) dosyanin kendi baglamasidir ve tartisma dosyalarina yonlendirilir; kaynak iddiasi degildir."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 22,
+    "kismi": 1,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

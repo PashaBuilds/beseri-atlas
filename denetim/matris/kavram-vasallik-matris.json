@@ -1,0 +1,323 @@
+{
+ "id": "kavram-vasallik",
+ "govde_hash": "783e688c9f7c",
+ "commit": "bf4bb9c",
+ "zaman": "2026-08-30",
+ "hakem": "kor-hakem-2026-08-29",
+ "iddialar": [
+  {
+   "iddia_id": "i1",
+   "cumle": "Ardından adam kontun temsilcisine sadakat sözünü verdi ve sözü azizlerin kalıntıları üzerine yeminle pekiştirdi; kont elindeki küçük değnekle mülkün kullanımını devretti — sahneyi yazan, derlemenin Fransız vakanüvis dediği Galbert de Bruges'tür.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Galbert de Bruges'un 7 Nisan 1127 anlatisi Ogg derlemesinde Cheyney cevirisiyle basili (yaklasik 486.000. karakter): kont tumuyle kendi adami olmak isteyip istemedigini sorar, eller kontun elleri arasina alinir, opucukle baglanilir, sadakat sozu kontun temsilcisine verilir, yemin azizlerin kalintilari uzerine edilir, ardindan kont 'a little rod' ile devri yapar. KOR HAKEM DUZELTMESI: yazarin ilk hali 'Bruges'te' ve 'olayin cagdasi' diyordu; derleme ne yer adi veriyor ne de cagdaslik soyluyor — 486.000-490.000 diliminde tek 'Bruges' gecisi vakanuvisin kendi adidir. Derleme yalnizca 'a French chronicler's account ... in the year 1127' der; govde bu kadarina indirildi."
+  },
+  {
+   "iddia_id": "i2",
+   "cumle": "Chartres piskoposu Fulbert, Akitanya dükü William'ın sorusuna, sadakat yemini edenin altı şeyi aklında tutması gerektiğini yazarak cevap verir: efendisine bedeninde, güvenliğinde, onurunda ve malında zarar vermemek; efendinin kolayca yapabileceğini zorlaştırmamak, yapabileceğini imkânsızlaştırmamak.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Fulbert'in 1020 mektubu alti kosulu sayar; Ogg cevirisinde 'harmless, safe, honorable, useful, easy, and practicable'. Metin ~492.000. karakterde; --tam ile okundu."
+  },
+  {
+   "iddia_id": "i3",
+   "cumle": "Sonra asıl adımı atar: kötülük etmekten kaçınmak yetmez, aynı altı başlıkta öğüt ve yardım da borçtur — ve efendi, vasalına karşı bütün bu şeylerde aynı biçimde davranmakla yükümlüdür; davranmazsa kötü niyetle suçlanır.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Karsiliklilik iddiasinin dayanagi mektubun kendi cumlesidir: kotuluk etmemek yetmez, ayni alti baslikta ogut ve yardim borctur; ve efendi de vasalina karsi ayni sekilde davranmakla yukumludur, aksi halde kotu niyetle suclanir. Sozlesme okumasinin tasiyici cumlesi budur."
+  },
+  {
+   "iddia_id": "i4",
+   "cumle": "Mektubun 1907 tarihli İngilizce derlemedeki biçimi derleyicisinin yorumuyla birlikte gelir: derleyici metni \"feodal düzenin en iyi hâlinin\" ifadesi sayar ve 1020'de yasa gücünde bir örf kütlesinin çoktan oluştuğunu söyler.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Cerceve iddiasi: derleyici Ogg metni 'the spirit of the feudal system at its best' diye niteler ve 1020'de yasa gucunde bir orf kutlesinin olustugunu yazar. Bu 1907 tarihli EDITOR yorumudur, belgenin kendisi degil; govdede oyle isaretlendi. Kapi 1020 sayisini pencerede bulamadi (ISARET). KOR HAKEM: 1020 ve 'the spirit of the feudal system at its best' dizeleri --tam ile birebir dogrulandi; ISARET yalnizca 400k penceresi artifaktidir."
+  },
+  {
+   "iddia_id": "i5",
+   "cumle": "Saint Louis derlemesine göre baronlar ve kralın vasalları çağrıldıklarında borçlu oldukları şövalye sayısıyla kırk gün kırk gece kendi masraflarına hizmet ederdi; kralın onları krallık dışına götürmesi için rızaları gerekiyordu.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Etablissements de Saint Louis I.65: kirk gun kirk gece kendi masrafiyla hizmet; krallik disina cikarmak icin riza gerekir. Kapi atomlari pencerede dogruladi."
+  },
+  {
+   "iddia_id": "i6",
+   "cumle": "Normandiya örfü para yardımını üç duruma bağlar: efendinin büyük oğlunun şövalye yapılması, büyük kızının evlendirilmesi, dük için savaşırken esir düşen efendinin fidyesi.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "L'Ancienne Coutume de Normandie bl. 35: 'In Normandy there are three chief aids... the third is to ransom the body of the lord from prison when he shall be taken captive during a war for the duke.' KOR HAKEM DUZELTMESI: ucuncu yardimin kaynaktaki 'dük için savaşırken' kosulu dusurulmustu, geri konuldu. Metin ~496.000. karakterde; --tam ile okundu."
+  },
+  {
+   "iddia_id": "i7",
+   "cumle": "Devir de ücretliydi: 1140-1230 arasındaki İngiliz hazine kayıtlarını 1769'da derleyen Thomas Madox'un hesabına göre John de Balliol, babasından kalan otuz şövalyelik fief için 150 sterlin, yani her biri için 100 şilin borçlanmıştı.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Sayiyi sayan Thomas Madox'tur: History and Antiquities of the Exchequer (1769) I, 312-322'den Ogg'un aktardigi kalem, John de Balliol'un 30 sovalyelik fief icin 150 sterlin, fee basina 100 silin borcunu gosterir. SINIR: kalem ~502.000. karakterde; 1140, 1230 ve 1769 sayilari 400k penceresinde yok (ISARET), --tam ile okundu. KOR HAKEM: kaynak kalemi birebir 'John de Balliol owes L150 for the relief of 30 knights' fees ... that is 100s. for each fee'; kunye 'Thomas Madox, History and Antiquities of the Exchequer (London, 1769), Vol. I., pp. 312-322' ve 'between the years 1140 and 1230' derlemenin kendi cumlesinde duruyor. Uc ISARET sayisi da --tam ile dogrulandi."
+  },
+  {
+   "iddia_id": "i8",
+   "cumle": "801-813 arasına tarihlenen Aachen kapitülerinin 16. maddesi, efendisinden bir solidus değerinde şey almış kişinin onu terk edemeyeceğini söyler; ama dört istisna sayar: efendi onu öldürmeye kalkarsa, sopayla döverse, karısına ya da kızına saldırırsa, ya da miras malını elinden alırsa bağ düşer.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Aachen kapituleri (801-813), md. 16: bir solidus degerinde sey almis kisi efendisini birakamaz; istisnalar oldurme girisimi, sopayla dovme, karisina ya da kizina saldiri, miras malina el koyma. Bozulma kosulunun vasal tarafindaki dayanagi. Belge ~761.500. karakterde; --tam ile okundu, kapi atomlari dogruladi."
+  },
+  {
+   "iddia_id": "i9",
+   "cumle": "847 tarihli Lothar, Ludwig ve Charles anlaşması her özgür kişinin dilediği efendiyi seçebileceğini, ama kimsenin haklı bir neden olmadan efendisinden ayrılamayacağını hükme bağlar.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "847 anlasmasi (Lothar, Ludwig, Charles), md. 2-3: her ozgur kisi diledigi 'senior'u secebilir; kimse haksiz yere efendisini birakamaz. Belgenin sozcugu vassus degil senior'dur — bu, k2'deki terim itirazini da destekler."
+  },
+  {
+   "iddia_id": "i10",
+   "cumle": "1249'da Toulouse kontu Raymond'ın şikâyeti üzerine Agen mahkemesi, Lomagne vikontu Arnold Atton'u yeminli anlaşmaları yerine getirmediği ve mahkemeye çıkmayı reddettiği için mahkûm etti; hüküm, Auvillars şatosunun ve vikontun kontan fief olarak tuttuğu bütün toprağın geri verilmesiydi.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Teulet, Layettes du Tresor des Cartes no. 3778: 1249'da Agen mahkemesinin Arnold Atton hakkindaki hukmu; Auvillars satosu ve fief olarak tutulan toprak geri alinir. Metin ~506.000. karakterde; 1249 sayisi pencerede yok (ISARET), --tam ile okundu. KOR HAKEM: 'the court of Agen', 'Arnold Atton, viscount of Lomagne' ve hukum ('hand over and restore to us the chateau of Auvillars and all that land which you hold from us in fee') birebir dogrulandi; 1249 yili derleyicinin kendi cumlesinde. ISARET 400k artifakti."
+  },
+  {
+   "iddia_id": "i11",
+   "cumle": "Derleme kendi giriş yazısında bunu zaten haber verir: alıntıladığı Fransız tarihçiye göre düzen genel bir plana göre değil âdetlerin yavaş dönüşmesiyle kuruldu, biçimleri hiçbir yerde bütünüyle aynı olmadı ve birkaç örnekle çelişmeyecek kusursuz bir tablosunu çıkarmak imkânsızdır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Derleyicinin 34. bolum girisinde aktardigi Fransiz tarihciye ait cekince: duzen genel bir plana gore degil adetlerin yavas donusmesiyle kuruldu, bicimleri her yerde ayni olmadi ve 'It is impossible to gather it up into a perfectly exact picture, which would not be in contradiction to several cases'. Kaynagin kendi cekincesi dusurulmeden tasindi."
+  },
+  {
+   "iddia_id": "i12",
+   "cumle": "1200'de Troyes kontu Thiebault'nun senedi, Jocelyn d'Avalon'un kendi adamı olduğunu yazarken onun üç ayrı efendiye — Gerad d'Arcy'ye, Burgonya düküne ve Auxerre kontuna — bağlılığını saklı tutar.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Troyes kontu Thiebault'nun 1200 tarihli senedi: Jocelyn d'Avalon 'liege man' olur ama Gerad d'Arcy'ye, Burgonya dukune ve Auxerre kontuna baglilik saklidir. Piramit semasini belgeyle ceviren kanit. Kapi 1200 ile iki atomu dogruladi, uc adi olcemedi."
+  },
+  {
+   "iddia_id": "i13",
+   "cumle": "Normandiya örfündeki homage sözü de bir çekinceyle biter: kişi herkese karşı sadık kalacağını söyler, Normandiya dükü hariç.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "L'Ancienne Coutume de Normandie bl. 29: homage sozu 'saving my allegiance to the duke of Normandy' cekincesiyle biter. Torenin kendisi coklu baglilik varsayar."
+  },
+  {
+   "iddia_id": "i14",
+   "cumle": "On üçüncü yüzyıl hukukçusu John de Blanot'nun kuralı bunu tek cümleye indirir: \"adamımın adamı benim adamım değildir\".",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Reynolds, on ucuncu yuzyil Fransiz hukukcusu John de Blanot'nun 'the man of my man is not my man' kuralini aktarir (2.1 sonu). Tirnak Turkce cevirisiyle verildi; kaynak dize 400k penceresi icinde."
+  },
+  {
+   "iddia_id": "i15",
+   "cumle": "Georges Duby'nin Mâconnais belgelerinden çıkardığı sonucu Elizabeth Brown şöyle aktarır: on birinci yüzyıl Mâconnais'sinde \"vasal piramidi yoktu\".",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Brown, Duby'nin Maconnais sonucunu 'In eleventh-century Maconnais, there was no pyramid of vassals, there was no feudal system' diye aktarir. Dize kaynagin 69.179. karakterinde, tam metin penceresi icinde. Iddia Duby'ye Brown uzerinden atfedildi; govde bunu acikca soyluyor."
+  },
+  {
+   "iddia_id": "i16",
+   "cumle": "Brown aynı makalede, buna rağmen ders kitabı yazarlarının kavramsız kalamayacaklarını savunduklarını ve öğrenciye yapay biçimde düzenli bir şema sunulduğunu saptar.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Brown, ders kitabi yazarlarinin feodalite kavramsiz kalamayacaklari savunusunu ve ogrenciye 'an artificially regular schema' sunuldugu gerekcesini envanterler. Kapi cumlede denetlenebilir atom bulamadi; dize dok.mjs ile goruldu."
+  },
+  {
+   "iddia_id": "i17",
+   "cumle": "Bir kralın \"adamlarım\" demesinden vasallık ilişkisi çıkarmak, vasallığın düşünülmeye değer tek siyasi ilişki olduğunu peşinen kabul etmektir; Reynolds bu çıkarımı döngüsel sayar.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Reynolds 2.2: vassi/vassalli gonderimleri modern yazinin dusundurdugu kadar sik degil; kaynaklar cogunlukla fideles, homines ya da belirsiz zamir kullanir; 'The argument is circular'. Sozcuk itirazinin tasiyici cumlesi."
+  },
+  {
+   "iddia_id": "i18",
+   "cumle": "Reynolds'a göre piskopos o mektupta vassus sözcüğünü kullanmaz — kendi çekincesiyle, sanırım başka yerde de kullanmaz — ve sadakat yemini borçlusu saydığı herkesin elinde bir fief bulunmadığını açıkça belirtir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Reynolds 2.2: 'Fulbert does not use vassus in this letter or, I think, elsewhere' ve 'not all the fideles he was talking about had casamenta or beneficia'. Yazarin 'I think' cekincesi govdede 'sanirim' olarak tasindi — dusurulmedi."
+  },
+  {
+   "iddia_id": "i19",
+   "cumle": "Aynı uyarı belgelerin okunuşu için de geçerlidir: 1905 tarihli derlemenin hazırlayıcıları, kendini bağlama kalıbındaki aşırı yoksulluk gerekçesinin muhtemelen bir söz kalıbı olduğunu ve her gerçek olayda bulunmadığını not eder.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Thatcher ve McNeal, 182 numarali commendation kalibi icin 'The reason alleged (extreme poverty) is probably a mere form of speech, and was not present in each actual instance' notunu duser. 'probably' cekincesi govdede 'muhtemelen' olarak korundu."
+  },
+  {
+   "iddia_id": "i20",
+   "cumle": "Bugünkü yaygın kullanım kişileri değil devletleri anlatıyor: bir devletin başka bir devlete bağlılığını tarif eden vasal devlet, ortaçağdaki kişisel bağdan farklı bir şeydir ve derleme kaynak ikisini ayrı maddelerde tutar.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Wikipedia Vassal maddesi kisi olarak vasali tanimlar ve devletler icin 'For subsidiary states, see Vassal state' diyerek ayri maddeye yollar. Destek KISMI: madde iki kullanimin ayri tutuldugunu gosterir, ama bugunku yayginlik iddiasini olcmez; govde de yayginligi bir sayiya baglamaz."
+  },
+  {
+   "iddia_id": "i21",
+   "cumle": "Derleme bu üçlüyü lord ile vasal arasında bağlayıcı bir sözleşme kuran süreç sayar ve son adımda efendinin bir çim parçası, bir değnek ya da başka bir nesneyle mülkün kullanımını aktardığını yazar.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "KOR HAKEM EKLEMESI: acilis tezini kuran ikinci paragraf dipnotsuzdu (KAPI 2 riski). Ogg'un 36. bolum girisi bu paragrafin tasidigi iddiayi birebir tasiyor: 'The personal relation between lord and vassal was established by the double ceremony of homage and fealty', 'The so-called \"act of investiture\" generally followed, the seigneur handing over to the vassal a bit of turf, a stick, or some other object symbolizing the transfer of the usufruct', 'The whole process was merely a mode of establishing a binding contract between the two parties'. Sozlesme nitelemesi 1907 derleyicisinindir ve govdede 'derleme ... sayar' diye isaretlendi."
+  },
+  {
+   "iddia_id": "i22",
+   "cumle": "Serflikten ayıran nokta budur: Reynolds'un feodalitenin dar anlamı dediği şey soylu sınıfın kendi içindeki ilişkilerdir, soylularla köylüler arasındaki ilişkiler değil.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "KOR HAKEM EKLEMESI: serf/vasal ayrimi dosyanin merkezi savi olmasina ragmen desteksizdi. Reynolds: 'Feudalism in its \"narrow sense\" of relations within the noble class seems to me a much less important subject than feudalism in its Marxist sense, which involves not only relations between nobles and peasants but consideration of the whole economic structure of society.' Dize 400k penceresi icinde birebir dogrulandi. Iddia Reynolds'a atfedildi, atlasin kendi tarifi olarak kurulmadi."
+  }
+ ],
+ "sayaclar": {
+  "dogrudan": 21,
+  "kismi": 1,
+  "desteksiz": 0,
+  "olculemez": 0
+ }
+}

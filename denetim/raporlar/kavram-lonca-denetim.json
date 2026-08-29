@@ -1,0 +1,111 @@
+{
+  "id": "kavram-lonca",
+  "gecis": 2,
+  "zaman": "2026-08-29T21:47:15.797Z",
+  "govde_hash": "fe01bfc0ead7",
+  "commit": "bf4bb9c",
+  "sonuclar": [
+    {
+      "anahtar": "k4",
+      "iddia": "Bu iki maddenin tam arasında ise şu duruyordu: çırak değilse ya da şehrin serbestisine kabul edilmemişse hiçbir yabancı bu zanaatta çalışamaz, şehirde bu iş içi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Yardımı finanse eden kutu ile dışarıdakini dışarıda tutan kural aynı tüzüktedir, çünkü biri ötekinin bedelidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ceza basamaklıdır: ilkinde kırk peni, sonra yarım mark, sonra on şilin, dördüncüsünde zanaattan ömür boyu men.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İşçibaşı bağlı olduğu kolda üretilen eşyanın kalite kontrolünü yapar, bozuk malların piyasaya sürülmesini önler; yönetim kurulundaki iki ehl-i hibre ise esnafla",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yiğitbaşı hem çırakların yetiştirilmesinden hem de orta sandığının idaresinden sorumludur — eğitim ile güvence aynı görevlinin elindedir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Mahmuzcuların maddeleri yedi yıldan kısa süreli çıraklığı yasaklar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Chester şehir meclisinin 27 Haziran 1569 tarihli kararı bunu şehir ölçeğine taşır: şehrin serbestisine kabul edilen kişi yedi yıl çıraklık etmemişse ya da bir f",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Aynı kayıtlarda kapının bir de fiyatı görünür — çıraklık etmemiş drapercı John Nutter, drapercıların rızasıyla ve on sterlin karşılığında serbestiye kabul edilm",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Adam Smith'in Çıraklık Yasası dediği düzenleme, Tawney ve Power derlemesinde 5 Elizabeth c. 4 (1563) diye künyelenir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Ona göre loncaların dışlayıcı ayrıcalıkları ile çıraklık yasaları — tekelle aynı yönde ama Smith'in eklediği kayıtla daha küçük ölçüde — \"a sort of enlarged mon",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı maddedeki uyarıya göre belgelerde lonca ve gedik terimleri hiçbir zaman birbirinin yerine kullanılmamıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ahmet Akgündüz'ün maddesinde inhisar ve imtiyaz esasına dayanan bir tasarruf hakkıdır: vakıf dükkânına yerleştirilen \"âlât-ı lâzıme\"den doğar, belli sayıda esna",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "S. R. Epstein'ın 1998 tarihli makalesinin özeti, zanaat loncalarının çıraklık yoluyla aktarılabilir beceri sağlamak üzere ortaya çıktığını savunur: bölgeler ara",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Yazar bunu, kurumların verimli oldukları için değil güçlü grupların bölüşüm çıkarına hizmet ettikleri için yüzyıllarca ayakta kaldığı görüşünün güçlü desteği sa",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Mahmuzcu tüzüğü ikisini birden taşır: aynı sayfa hem gece hilesini yasaklar hem yabancıyı zanaattan çıkarır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Selim 1794'te zarurî gıda maddeleri dışındaki tekellerin lağvı için ferman çıkardı ve her türlü tekel hakkı 1838 Baltalimanı Muahedesi'yle kaldırıldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İnhisar usulü 1270'te (1853) kalkınca gedik ruhsat anlamını yitirdi ve gedik haklarının yaklaşık yüzde doksanı 1331 (1913) tarihli geçici kanunla ortadan kaldır",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}
