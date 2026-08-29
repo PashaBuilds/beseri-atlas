@@ -107,15 +107,6 @@ adlar:
   - ad: "20. yüzyıl öncesi kuramların çoğu"
     durum: kisi-degil
     gectigi: [tartisma-yazinin-icadi-nerede]
-  - ad: "20. yüzyıl sonu ekonometrik çalışmaları"
-    durum: kisi-degil
-    gectigi: [tartisma-kalkinma-yardimi-ise-yariyor-mu]
-  - ad: "21. yüzyıl başı çalışmaları"
-    durum: kisi-degil
-    gectigi: [tartisma-kalkinma-yardimi-ise-yariyor-mu]
-  - ad: "Ağ temelli imparatorluk okuması"
-    durum: kisi-degil
-    gectigi: [tartisma-imparatorluk-siniri-nasil-cizilir]
   - ad: "Albert Mathiez"
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Historiography_of_the_French_Revolution
@@ -144,9 +135,6 @@ adlar:
   - ad: "Atlasın uyguladığı yöntem"
     durum: kisi-degil
     gectigi: [tartisma-tarihsel-sayilar-nasil-okunur]
-  - ad: "Avusturya Okulu"
-    durum: kisi-degil
-    gectigi: [tartisma-1929-krizinin-nedeni]
   - ad: "Bağımlılık kuramı"
     durum: kisi-degil
     gectigi: [tartisma-kalkinma-neden-basarisiz]
@@ -197,9 +185,6 @@ adlar:
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Historiography_of_the_fall_of_the_Western_Roman_Empire
     gectigi: [tartisma-romanin-cokus-nedeni]
-  - ad: "Ekonometrik tarih örneği"
-    durum: kisi-degil
-    gectigi: [tartisma-karsi-olgusal-tarih]
   - ad: "Elizabeth A. R. Brown"
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Feudalism
@@ -212,9 +197,6 @@ adlar:
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Capitalism_and_Slavery
     gectigi: [tartisma-bati-neden-yukseldi, tartisma-sanayi-devrimi-neden-ingiltere]
-  - ad: "Eyyûbî kaydı"
-    durum: kisi-degil
-    gectigi: [tartisma-imparatorluk-nufusu-nasil-sayilir]
   - ad: "Fernand Braudel"
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Fernand_Braudel
@@ -234,9 +216,6 @@ adlar:
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Fischer_thesis
     gectigi: [tartisma-1914-savas-sorumlulugu]
-  - ad: "Geç Antikite yaklaşımı"
-    durum: kisi-degil
-    gectigi: [tartisma-romanin-cokus-nedeni]
   - ad: "Geleneksel adlandırma"
     durum: kisi-degil
     gectigi: [tartisma-kesif-mi-istila-mi]
@@ -251,12 +230,6 @@ adlar:
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Historiography_of_the_French_Revolution
     gectigi: [tartisma-fransiz-devrimi-yorumlari]
-  - ad: "Göktürk kaydı"
-    durum: kisi-degil
-    gectigi: [tartisma-imparatorluk-nufusu-nasil-sayilir]
-  - ad: "Hastalık temelli açıklama"
-    durum: kisi-degil
-    gectigi: [tartisma-tunc-cagi-cokusunun-nedeni]
   - ad: "Henri Pirenne"
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Historiography_of_the_fall_of_the_Western_Roman_Empire
@@ -276,7 +249,12 @@ adlar:
   - ad: "Immanuel Wallerstein"
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/World-systems_theory
-    gectigi: [tartisma-bati-neden-yukseldi]
+    gectigi: []
+    not: >-
+      2026-08-29: tartisma-bati-neden-yukseldi onarildiginda dunya-sistemleri
+      cizgisi yerine Frank'in Asya-oncelikli pozisyonu ve Kaliforniya Okulu
+      adlandirildi; ad su an hicbir dosyada kullanilmiyor. Kayit siliNMEDI
+      cunku dogrulama emegi tasiyor ve yeniden kullanilabilir.
   - ad: "İktisadi bozulma açıklaması"
     durum: kisi-degil
     gectigi: [tartisma-tunc-cagi-cokusunun-nedeni]
@@ -312,167 +290,29 @@ adlar:
   - ad: "Kaynağın 19. yüzyıl bölümü"
     durum: kisi-degil
     gectigi: [tartisma-fransiz-devrimi-yorumlari]
-  - ad: "Kaynağın 21. yüzyıl kaydı"
-    durum: kisi-degil
-    gectigi: [tartisma-fransiz-devrimi-yorumlari]
-  - ad: "Kaynağın açılış anlatısı"
-    durum: kisi-degil
-    gectigi: [tartisma-hacli-seferlerinin-nedeni]
-  - ad: "Kaynağın ad listesi"
-    durum: kisi-degil
-    gectigi: [tartisma-nufus-artisi-tehdit-mi]
   - ad: "Kaynağın aktardığı ara konum"
     durum: kisi-degil
     gectigi: [tartisma-osmanli-gerileme-tezi]
-  - ad: "Kaynağın aktardığı araştırmacı çoğunluğu"
-    durum: kisi-degil
-    gectigi: [tartisma-eksen-cagi-gercek-mi]
-  - ad: "Kaynağın aktardığı bağımlılık literatürü"
-    durum: kisi-degil
-    gectigi: [tartisma-somurgeciligin-ekonomik-bilancosu]
-  - ad: "Kaynağın aktardığı eleştiriler"
-    durum: kisi-degil
-    gectigi: [tartisma-eksen-cagi-gercek-mi]
-  - ad: "Kaynağın aktardığı yaygın konum"
-    durum: kisi-degil
-    gectigi: [tartisma-milliyetcilik-ne-zaman]
-  - ad: "Kaynağın ana bölümleri"
-    durum: kisi-degil
-    gectigi: [tartisma-kalkinma-neden-basarisiz]
-  - ad: "Kaynağın arka plan anlatısı"
-    durum: kisi-degil
-    gectigi: [tartisma-hacli-seferlerinin-nedeni]
-  - ad: "Kaynağın ayrım uyarısı"
-    durum: kisi-degil
-    gectigi: [tartisma-karsi-olgusal-tarih]
-  - ad: "Kaynağın doğuş bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-yazinin-icadi-nerede]
-  - ad: "Kaynağın düzeltmecilik bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-soguk-savasin-baslangici]
   - ad: "Kaynağın düzeltmecilik sonrası bölümü"
     durum: kisi-degil
     gectigi: [tartisma-soguk-savasin-baslangici]
-  - ad: "Kaynağın eleştirel değerlendirme bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-demografik-donum-sonuclari]
-  - ad: "Kaynağın eleştiriler bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-soykirim-kavrami]
-  - ad: "Kaynağın genel bakış bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-buyuk-adam-kurami]
-  - ad: "Kaynağın gerekçelendirme bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-somurgeciligin-ekonomik-bilancosu]
-  - ad: "Kaynağın Herder kaydı"
-    durum: kisi-degil
-    gectigi: [tartisma-milliyetcilik-ne-zaman]
-  - ad: "Kaynağın hukuki yönler bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-antik-kolelik-ekonomisi]
-  - ad: "Kaynağın iktisadi bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-demografik-donum-sonuclari]
-  - ad: "Kaynağın İpek Yolu bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-mogol-etkisi]
   - ad: "Kaynağın kendi başlığı"
     durum: kisi-degil
     gectigi: [tartisma-kesif-mi-istila-mi, tartisma-sanayi-devrimi-neden-ingiltere]
-  - ad: "Kaynağın kuram anlatımı"
-    durum: kisi-degil
-    gectigi: [tartisma-nufus-artisi-tehdit-mi]
-  - ad: "Kaynağın Mason-Overy tartışması bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-ikinci-dunya-savasi-sorumlulugu]
-  - ad: "Kaynağın miras bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-mogol-etkisi]
-  - ad: "Kaynağın nihai nedenler bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-ikinci-dunya-savasi-sorumlulugu]
-  - ad: "Kaynağın olası etkenler listesi"
-    durum: kisi-degil
-    gectigi: [tartisma-sanayi-devrimi-neden-ingiltere]
-  - ad: "Kaynağın Orta Doğu kaydı"
-    durum: kisi-degil
-    gectigi: [tartisma-kara-olumun-sonuclari]
-  - ad: "Kaynağın ortodoks bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-soguk-savasin-baslangici]
-  - ad: "Kaynağın örgütlenme anlatısı"
-    durum: kisi-degil
-    gectigi: [tartisma-hacli-seferlerinin-nedeni]
-  - ad: "Kaynağın özellikler bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-antik-kolelik-ekonomisi]
-  - ad: "Kaynağın sonuçlar bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-kara-olumun-sonuclari]
-  - ad: "Kaynağın Sovyet tarih yazımı bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-soguk-savasin-baslangici]
-  - ad: "Kaynağın süreklilik cümlesi"
-    durum: kisi-degil
-    gectigi: [tartisma-aydinlanmanin-sinirlari]
   - ad: "Kaynağın tanım bölümü"
     durum: kisi-degil
     gectigi: [tartisma-kalkinma-yardimi-ise-yariyor-mu, tartisma-karsi-olgusal-tarih, tartisma-vestfalya-miti]
-  - ad: "Kaynağın tanım cümlesi"
-    durum: kisi-degil
-    gectigi: [tartisma-aydinlanmanin-sinirlari, tartisma-demografik-donum-sonuclari]
-  - ad: "Kaynağın taraf listeleri"
-    durum: kisi-degil
-    gectigi: [tartisma-kesif-mi-istila-mi]
-  - ad: "Kaynağın tarih bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-vestfalya-miti]
   - ad: "Kaynağın terminoloji bölümü"
     durum: kisi-degil
     gectigi: [tartisma-antik-kolelik-ekonomisi, tartisma-yazinin-icadi-nerede]
-  - ad: "Kaynağın tikel nedenler bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-1929-krizinin-nedeni]
-  - ad: "Kaynağın toplumbilim bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-milliyetcilik-ne-zaman]
-  - ad: "Kaynağın toplumsal büyüme alt başlığı"
-    durum: kisi-degil
-    gectigi: [tartisma-iklim-ve-cokus]
-  - ad: "Kaynağın toplumsal çöküş alt başlığı"
-    durum: kisi-degil
-    gectigi: [tartisma-iklim-ve-cokus]
-  - ad: "Kaynağın verdiği aralık"
-    durum: kisi-degil
-    gectigi: [tartisma-kara-olumun-sonuclari]
-  - ad: "Kaynağın verdiği ilk sayı"
-    durum: kisi-degil
-    gectigi: [tartisma-kara-olumun-sonuclari]
-  - ad: "Kaynağın yakın nedenler bölümü"
-    durum: kisi-degil
-    gectigi: [tartisma-ikinci-dunya-savasi-sorumlulugu]
-  - ad: "Kaynağın yayılma cümlesi"
-    durum: kisi-degil
-    gectigi: [tartisma-aydinlanmanin-sinirlari]
   - ad: "Kenneth Pomeranz"
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Great_Divergence
     gectigi: [tartisma-bati-neden-yukseldi, tartisma-sanayi-devrimi-neden-ingiltere]
-  - ad: "Kenneth Pomeranz (kısmen)"
-    durum: kisi-degil
-    gectigi: [tartisma-bati-neden-yukseldi]
   - ad: "Kent Flannery"
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Neolithic_Revolution
     gectigi: [tartisma-tarim-devrimi-neden]
-  - ad: "Keynesyen yaklaşım"
-    durum: kisi-degil
-    gectigi: [tartisma-1929-krizinin-nedeni]
-  - ad: "kurumsal iktisat"
-    durum: kisi-degil
-    gectigi: [tartisma-kalkinma-neden-basarisiz]
   - ad: "Leopold von Ranke çizgisi"
     durum: dogrulandi
     gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
@@ -487,15 +327,6 @@ adlar:
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Feudalism
     gectigi: [tartisma-feodalite-kavrami]
-  - ad: "Marksist yaklaşım"
-    durum: kisi-degil
-    gectigi: [tartisma-1929-krizinin-nedeni]
-  - ad: "Monetarist yaklaşım"
-    durum: kisi-degil
-    gectigi: [tartisma-1929-krizinin-nedeni]
-  - ad: "Nicel tarih yazımı"
-    durum: kisi-degil
-    gectigi: [tartisma-imparatorluk-siniri-nasil-cizilir]
   - ad: "Nicel ve eleştirel tarih yazımı"
     durum: kisi-degil
     gectigi: [tartisma-tarihsel-sayilar-nasil-okunur]
@@ -538,9 +369,6 @@ adlar:
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Historiography_of_the_causes_of_World_War_I
     gectigi: [tartisma-1914-savas-sorumlulugu]
-  - ad: "Soykırım araştırmaları literatürü"
-    durum: kisi-degil
-    gectigi: [tartisma-soykirim-kavrami]
   - ad: "Susan Reynolds"
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Feudalism
@@ -548,15 +376,6 @@ adlar:
   - ad: "Süreçsel arkeoloji çizgisi"
     durum: kisi-degil
     gectigi: [tartisma-sozlu-gelenek-kaynak-mi, tartisma-tunc-cagi-cokusunun-nedeni]
-  - ad: "Teknoloji felsefesinin insani hattı"
-    durum: kisi-degil
-    gectigi: [tartisma-teknolojik-belirlenimcilik]
-  - ad: "Teknoloji felsefesinin kendi tarihi"
-    durum: kisi-degil
-    gectigi: [tartisma-teknolojik-belirlenimcilik]
-  - ad: "Teknolojinin toplumsal inşası yaklaşımı"
-    durum: kisi-degil
-    gectigi: [tartisma-teknolojik-belirlenimcilik]
   - ad: "Uluslararası hukuk kurumları"
     durum: kisi-degil
     gectigi: [tartisma-soykirim-kavrami]
@@ -570,9 +389,6 @@ adlar:
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Great_Man_theory
     gectigi: [tartisma-buyuk-adam-kurami]
-  - ad: "Yaygın anlatı"
-    durum: kisi-degil
-    gectigi: [tartisma-vestfalya-miti]
   - ad: "Kaynak aktarimini esas alan cizgi"
     durum: kisi-degil
     gectigi: [tartisma-somurgeciligin-ekonomik-bilancosu]

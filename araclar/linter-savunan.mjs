@@ -53,12 +53,26 @@ export function savunanDenetimi(makaleler) {
       }
     }
   }
+  // Olu kayit: kutukte duran ama hicbir dosyada kullanilmayan ad. Tek basina
+  // hata degildir, ama birikmesi kutugu zayiflatir: anlamsiz yer tutucular
+  // ("Yaygin anlati", "Kaynagin tanim cumlesi") gelecekte gecerli bir savunan
+  // gibi secilebilir. 2026-08-29'da 63 yer tutucu bu gerekceyle temizlendi.
+  const kullanilan = new Set();
+  for (const m of makaleler) {
+    if (m.fm?.tip !== 'tartisma') continue;
+    for (const p of m.fm.pozisyonlar ?? []) for (const s of p.savunanlar ?? []) kullanilan.add(s);
+  }
+  const oluKayitlar = [...kutuk.keys()].filter((ad) => !kullanilan.has(ad));
+
   const yuzde = (n) => (toplam ? Math.round((n / toplam) * 100) : 0);
   r.ozetSatirlari = [
     `kutukte ${kutuk.size} ad · makalelerde ${toplam} atif`,
     `pozisyonu dogrulanmis ${dogrulanmis} (%${yuzde(dogrulanmis)}) · yalnizca tartismada oldugu dogrulanmis ${kismi} (%${yuzde(kismi)})`,
     `kisi adi olmayan (cizgi/okul/kaynak bolumu) atif: ${kisiDegil} (%${yuzde(kisiDegil)})`,
     `hic dogrulanmamis KISI atfi: ${toplam - dogrulanmis - kismi - kisiDegil}`,
+    `kutukte durup hicbir dosyada kullanilmayan ad: ${oluKayitlar.length}`
+      + (oluKayitlar.length ? ` (${oluKayitlar.slice(0, 3).join(', ')}${oluKayitlar.length > 3 ? ', …' : ''})` : ''),
   ];
+  r.olcum = { toplam, dogrulanmis, kismi, kisiDegil, kutuk: kutuk.size, olu: oluKayitlar.length };
   return r;
 }
