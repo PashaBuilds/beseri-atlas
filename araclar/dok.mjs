@@ -101,6 +101,13 @@ if (tam) {
 const bas = (s) => process.stderr.write(`${s}\n`);
 bas(`# ${url}`);
 bas(`# durum ${s.durum} · ${metin.length} karakter${s.kesildi ? ' · 400k SINIRINDA KESILDI' : ''}${s.onbellek ? ' · onbellekten' : ' · agdan'}`);
+if (s.kesildi && !tam) {
+  // Onbellege giren surum ham metinden UZUN olabilir (HTML/ust bilgi kalintisi)
+  // ve bu yuzden gercek metnin sonu pencerenin disinda kalir. Bir ajan tam
+  // olcumu bunu gosterdi: onbellekte 400.000, --tam ile 365.002 karakter.
+  bas('# UYARI: bu pencerede bulunamayan bir dize, kaynakta VAR olabilir. Kesin');
+  bas('#        hukum icin --tam ile yeniden oku (onbellege yazmaz).');
+}
 // ETIKETLEME KURALI (2026-08-29 hakem bulgusu): dizeGeciyorMu, kelimelerin
 // tamami gectiginde de oran 1 dondurebilir; onceki surum bunu "BIREBIR"
 // diye etiketliyordu ve bir kor hakem "money supply fell 35" aramasinin
@@ -128,12 +135,28 @@ if (satirDeseni) {
 if (ara) {
   const e = etiket(metin, ara);
   bas(`# --ara → ${e.yazi}`);
-  // Baglam: normalize edilmemis metinde ilk anlamli parcayi bul.
-  const parca = ara.split(/\s+/).find((w) => w.length > 5) || ara.slice(0, 20);
-  const i = metin.indexOf(parca);
-  if (i !== -1) {
-    bas('--- baglam ---');
-    console.log(metin.slice(Math.max(0, i - 300), i + 500));
+  // BAGLAM PENCERESI HUKUMLE AYNI ESLESMEDEN GELMELI (2026-08-29 ajan
+  // bulgusu): onceki surum hukmu normalize edilmis metinden veriyor, baglami
+  // ise HAM metinde bir parca arayarak buluyordu. Ikisi ayrildiginda arac
+  // "BIREBIR ALT-DIZE" deyip aranan dizeyi ICERMEYEN bir pencere basiyordu —
+  // hakemin saglam bir kunyeyi haksiz yere dusurmesine yol acabilir.
+  const hamIndeks = metin.indexOf(ara);
+  if (hamIndeks !== -1) {
+    bas('--- baglam (ham metin) ---');
+    console.log(metin.slice(Math.max(0, hamIndeks - 300), hamIndeks + 500));
+  } else {
+    // Ham metinde birebir yok; hukum normalize edilmis metinden geldiyse
+    // baglami da ORADAN goster ve normalize oldugunu SOYLE.
+    const nMetin = normalizeBosluk(metin);
+    const nAra = normalizeBosluk(ara);
+    const j = nMetin.indexOf(nAra);
+    if (j !== -1) {
+      bas('--- baglam (normallestirilmis metin; ham metinde birebir yok) ---');
+      console.log(nMetin.slice(Math.max(0, j - 300), j + 500));
+    } else {
+      bas('--- baglam yok: dize ne ham ne normallestirilmis metinde bulundu ---');
+      if (s.kesildi) bas('# UYARI: kaynak 400k sinirinda kesik — --tam ile yeniden dene');
+    }
   }
   process.exit(e.ok ? 0 : 1);
 }

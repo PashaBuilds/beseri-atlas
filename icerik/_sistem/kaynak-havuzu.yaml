@@ -27,6 +27,12 @@ whitelist:
     dogrulanabilir: true
     kullanim: birincil_tercih
     kapsam: [osmanli, islam-dunyasi, turkiye]
+      # 2026-08-29 ajan olcumu: maddeler 18k-124k temiz metin, hepsi 200.
+      # Alan GIRIS KAPISI DEGILDIR, yani birden fazla TDV kunyesi
+      # kullanilabilir. AMA maddeler ayri ayri imzalidir ve BIRBIRIYLE
+      # CELISEBILIR (bir dosyada Darulilim'in kurulus tarihi iki maddede
+      # farkli cikti). Kunyede muellif adi yazilmali ve celiski metne
+      # tasinmalidir.
   - alan: britannica.com
     tur: ansiklopedi
     dogrulanabilir: false
@@ -51,6 +57,10 @@ whitelist:
     tur: akademik
     dogrulanabilir: true
     kapsam: [turkce-akademik]
+      # 2026-08-29 olcumu: ARAMA yolu (/tr/search?q=...) artik bot
+      # dogrulamasi istiyor; 200 donuyor ama govde dogrulama kabugu.
+      # Makale bulmak icin kullanilamiyor; elde dogrudan makale URL'si
+      # varsa denenebilir.
   - alan: jstor.org
     tur: akademik
     dogrulanabilir: true
@@ -94,6 +104,11 @@ whitelist:
     tur: birincil
     dogrulanabilir: true
     kapsam: [arapca-klasikler]
+      # 2026-08-29 ajan olcumu: Mukaddime 3. cuz 200 ve 377k temiz metin.
+      # DIKKAT: dogrulama_dizesi HAREKESIZ bir parca olmali (bolum basligi
+      # gibi). getir.mjs artik harekeleri siliyor ve elif/te merbuta/elif
+      # maksura varyantlarini katliyor, ama kaynagin yazimi degisken
+      # oldugu icin en guvenli dize harekesiz ve kisa olandir.
   - alan: zh.wikisource.org
     tur: birincil
     dogrulanabilir: true
@@ -132,6 +147,12 @@ whitelist:
   - alan: collectionapi.metmuseum.org
     tur: birincil
     dogrulanabilir: true
+      # 2026-08-29 ajan olcumu: /search ucu, /objects ucunun DONDURMEDIGI
+      # alanlarda da eslesiyor (bir ad aramasi nesneyi getiriyor ama nesne
+      # JSON'unda o ad hic gecmiyor). dogrulama_dizesi MUTLAKA /objects
+      # ciktisindan secilmeli (or. accessionNumber). Islam sanati
+      # nesnelerinde culture/period/dynasty alanlari cogu zaman bos; nesne
+      # kunyesi genellikle ancak "kismi" destek tasir.
   - alan: perseus.tufts.edu
     tur: birincil
     dogrulanabilir: true
@@ -140,6 +161,10 @@ whitelist:
     tur: birincil
     dogrulanabilir: true
     kapsam: [antlasmalar, hukuki-belgeler]
+      # 2026-08-29 ajan olcumu: Japon-Amerikan diplomasi dizisinde calisan
+      # yol kalibi japan00N.asp'dir (japan002.asp = Kanagawa Antlasmasi,
+      # 200 ve 6.671 karakter). japan.asp ve japan001.asp 404 doner.
+      # Not: en.wikisource.org'da Convention_of_Kanagawa YOK (404).
   - alan: marxists.org
     tur: birincil
     dogrulanabilir: true
@@ -150,6 +175,12 @@ whitelist:
     tur: veri
     dogrulanabilir: true
     lisans: CC-BY
+      # 2026-08-29 ajan olcumu: grapher CSV uc noktasi ulke ve zaman
+      # suzgeci kabul ediyor: ?csvType=filtered&country=~JPN&time=1600..1870
+      # -> 2.114 karakter (tam surum 2,23M ve 400k'da kesiliyor). Suzgecli
+      # surumde butun satirlar onbellek penceresinde kalir, yani ulke
+      # duzeyindeki iddialar --tam gerektirmeden dogrulanabilir. Tam
+      # CSV'lerde World satirlari cogu zaman pencerenin disinda kalir.
   - alan: who.int
     tur: akademik
     dogrulanabilir: true
@@ -272,6 +303,12 @@ whitelist:
       https://population.un.org/dataportalapi/api/v1/... 2026-08-29
       olcumu: gostergeler uc noktasi 200 ve 98k temiz JSON dondurdu.
       Excel uc noktalari ham ikili doner, dize aramasi yapilamaz.
+      TARIHCE: 2026-08-20'de bu alan ayri bir kayitla `dogrulanabilir:
+      false` isaretlenmisti ("sayfa istemci tarafinda ciziliyor, 53
+      karakter"). O olcum WPP insan yuzu icin dogruydu ama VERI PORTALI
+      API'si icin degildi; 2026-08-29 olcumu API yolunun 98k temiz JSON
+      dondurdugunu gosterdi. Iki kayit birlestirildi — cift kayit,
+      kapinin hangi olcumu kullanacagini belirsiz birakiyordu.
       World Population Prospects, 20. yuzyil demografisinin birincil
       kaydidir; OWID ayni verinin turevidir.
   - alan: nato.int
@@ -342,6 +379,9 @@ whitelist:
       MIT Visualizing Cultures — hakemli acik akademik yayin, birimler imzali
       (or. Peter C. Perdue), Creative Commons. 2026-08-29 olcumu: 200, temiz
       HTML.
+      # 2026-08-29 ajan olcumu: /index.html cerceve kabugudur (585
+      # karakter). Gercek metin /<birim>/<birim>_essayNN.html
+      # sayfalarindadir (essay01 -> 24.796 karakter, temiz).
   - alan: mpra.ub.uni-muenchen.de
     tur: akademik
     dogrulanabilir: true
@@ -486,13 +526,11 @@ whitelist:
       Bibliyografik ustveri + ozet (JSON). 2026-08-29 hakem olcumu: 3 fetch
       200; anahtarsiz katman paylasimli hiz sinirina tabi, 429 gorulurse
       2-3 sn bekleyip yeniden dene. Ayni ustveri-siniri kurali gecerli.
-  - alan: population.un.org
-    tur: veri
-    dogrulanabilir: false
-    engel: >-
-      Sayfa istemci tarafında çiziliyor; sunucudan dönen gövdede doğrulanabilir
-      metin yok (2026-08-20 ölçümünde 53 karakter). Araştırmada okunabilir,
-      künyede kullanılamaz — verinin künyesi için OWID metadata uç noktası tercih edilir.
+      # 2026-08-29 ajan olcumu: bazi yayincilar ozeti eliyor ve govde
+      # "elided by the publisher" notunu tasiyor (or. UC Press). Bu
+      # yayinci ailelerinde Semantic Scholar da Crossref gibi yalniz
+      # ustveri verir; icerik iddiasi kurulamaz. Ayrica arka arkaya
+      # cagrilarda 429 doner; Crossref'e gec.
   - alan: rug.nl
     tur: veri
     dogrulanabilir: true

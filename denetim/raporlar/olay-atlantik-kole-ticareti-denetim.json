@@ -1,57 +1,375 @@
 {
   "id": "olay-atlantik-kole-ticareti",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:43.813Z",
-  "govde_hash": "a674eff8eb0e",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T16:29:09.125Z",
+  "govde_hash": "49994a5230e0",
+  "commit": "414e67e",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl boyunca sürdü.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Üç aşamanın toplamı dört yüzyılı aşar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Ticaret hem Avrupa'dan hem Yeni Dünya'dan gelen köle gemileriyle yürütülüyordu; bazı seferler, özellikle erken evrelerde, üçgen ticaret rotasını ve Orta Geçiş'i",
+      "iddia": "Avrupalı tüccarlar on beşinci yüzyılda Afrika kıyısında bir köle ticareti kurdu, Amerika'ya taşıma on altıncı yüzyılda başladı ve iş on dokuzuncu yüzyıl boyunca",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir ticaretin kendi adlandırılmış rotasına sahip olması, onu tekil seferlerin toplamı değil kurumsallaşmış bir sistem yapar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Aynı madde, kölelik başlığı altında başka düzenleri de sıralar: Abbâsî Hilafeti'nde, Endülüs'te, Râşidîn ve Emevî hilafetlerinde ve Memlük Sultanlığı'nda köleli",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Ticaretin yöneldiği kıtadaki düzen, en geniş noktasında 13,7 milyon kilometrekare alan kaplayan ve Amerika, Afrika, Asya ile Okyanusya'da toprak taşıyan İspanyo",
-      "durum": "OK",
-      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1600'de yaklaşık 516,1 milyon, 1848'de yaklaşık 1,27 milyardır.",
+      "iddia": "İktisat tarihi ansiklopedisinin verdiği toplama göre 1500 ile 1900 arasında yaklaşık 12 milyon insan evinden koparılıp batıya götürüldü; yaklaşık 10 milyonu yol",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Ticaretin bölge bölge dökümü, gemi kayıtları, kaldırılma süreci ve toplumsal sonuçları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölüm",
+      "iddia": "Sefer kayıtlarına dayanan bir başka toplam biraz daha yüksektir: aynı ansiklopedi maddesinin Richard Anderson ve arkadaşlarından (2013) aktardığı hesaba göre ya",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "David Eltis'in açıklamasına göre bütün kölelik düzenleri içeridekiyle dışarıdakini ayırır; Avrupa'da önce Hristiyanları köleleştirmeye karşı yerleşik bir inanç ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mahkûm emeği gibi ağır çalıştırma biçimleri köle koşullarına yaklaşsa da mal sayılmıyor ve o konum çocuğa geçmiyordu; mal statüsü Avrupalı olmayanlara ayrılmışt",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Avrupalı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu düzeni okulda öğretilen üçgen şemayla özetlemek yanıltır: kaynağa göre üçgen rotayı seferlerin yalnızca bir kısmı, özellikle erken evrede kullandı; en büyük ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın açıklamasına göre sıtma ve sarıhummaya karşı bağışıklıkları olmadığından ölüm oranları yüksekti ve bölge beyaz adamın mezarı diye anılıyordu; kalıcı nü",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu yüzden Avrupalılar kıyıdaki kalelerde oturur, iç bölgelerden getirilen tutsakları beklerdi.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Avrupalılar"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ticaret bir baskın değil bir alışverişti: Afrika'dan köle alanlar yüklerini genellikle Batı ve Orta Afrikalı tüccarlardan satın alıyordu; Avrupalıların doğrudan",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karşılığında tüfek, barut, alkol ve Hindistan'da dokunup çivit mavisine boyanmış kumaşlar veriliyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Portekizliler üslerinde tutsakları bir sonraki gemiye kadar toplamak için barakonlar inşa etti; Kuzey Avrupalılar Altın Sahili'nde kaleler işletti, bu kaleler t",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kuzey, Avrupalılar, Altın, Sahili"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kalelerde oturanlar yiyeceği ve yakacağı Afrikalı komşularından, üstelik hangi fiyat isteniyorsa onu ödeyerek sağlıyordu — günlük işleyiş bile yerel pazarlık gü",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dahomey Krallığı savaş tutsaklarını Avrupalı tüccarlara satıyordu; 1718 ile 1740 arasında hüküm süren Kral Agaja, 1724'te Allada'yı ve 1727'de Whydah'ı fetheder",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kaynak, bu fetihten sonra bölgedeki ticarette bir düşüş gözlendiğini, Agaja'nın ise ticaret için önemli bir altyapı kurup işin içinde etkin yer aldığını da",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k14",
+      "iddia": "Sefer veri tabanını inceleyen bir tarihçi de aynı yöne işaret eder: Köle Sahili, Dahomey yükselmeden önce, 1696 ile 1730 arasında taşınanların üçte birini veriy",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ticaretin içinden yazan tanıklardan biri, Afrika ticaretinde cerrahlık yapmış bir hekimdi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Verdiği örnek, düzenin kendi ortaklarını da yuttuğunu gösterir: Batı Hint Adaları'nda konuştuğu bir adam, başkalarını kaçırdıktan sonra kendisinin de yakalanıp ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı tanık, Bonny'de ticaret kesildiğinde kaçırmanın da durduğunu düşünür; ama bunu kesin bir sonuç değil, \"büyük olasılıkla\" görülen bir etki olarak yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Erkekler ikişer ikişer zincirlenip güverte altına indirilir, kadınlar ayrı bir bölmeye demirsiz olarak, oğlanlar üçüncü bir bölmeye yerleştirilirdi; hepsi ayrı ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Yerleştirme öyle sıkışıktı ki yan yatmaktan başka bir duruş mümkün olmuyordu ve güverteler arasındaki yükseklik, ızgaranın tam altı dışında, doğrulmaya izin ver",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yolculuğu çocukken yaşamış bir yazarın anlatısı bu ölçüleri içeriden tarif eder: geminin bütün yükü tek bir yere kapatıldığında hava soluk alınamaz hâle ge",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı anlatı satışı da kaydeder: Bridgetown açıklarında gemiye çıkan tüccarlar ve plantasyon sahipleri tutsakları partilere bölüp tek tek incelemiştir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yazarın bulunduğu geminin erkekler bölümünde birkaç kardeş vardır ve satışta ayrı partilere düşerler: \"akrabalar ve dostlar, çoğu bir daha görüşmemek üzere ayrı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Walter Rodney 1972'de ilişkinin eşitsiz olduğunu, Afrikalıların daha gelişmiş Avrupalılarla bir \"sömürge\" ticaretine zorlandığını ve hammadde ile insan verip ma",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "John Thornton itiraz etti: Atlantik köle ticareti Afrika ekonomisi için o kadar da belirleyici değildi ve bu dönemde Afrika imalatı sanayi öncesi Avrupa ile rek",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Anne Bailey ise Thornton'ın eşit ortaklık önerisine karşı çıktı: ortaklık sözcüğü eşit şartlar ve eşit etki ima eder; oysa Afrikalıların kendi kıtaları üzerinde",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nüfus tarafında da tek bir açıklama yoktur: Joseph Miller Batı Orta Afrika örneğinde iç etkenleri öne çıkarır, Joseph Inikori ise Atlantik ticareti hiç olmasayd",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İktisat tarihçilerinin ansiklopedi maddesi 1500 ile 1900 arası için yaklaşık 12 ve 10 milyon der.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k14",
+      "iddia": "Sefer kayıtlarını gemi gemi derleyen veri tabanını kullanan bir tarihçi, veri tabanının sınırlı olduğunu belirterek bindirilenleri 12 milyon ya da daha çok diye",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Genel ansiklopedi maddesi ise tek bir sayıda durmaz: bir yerde Anderson ve arkadaşlarının 12,5 ve 10,7 milyonunu aktarır, başka bir yerde \"bugünkü tahmin\" diye ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ticaretin Amerika Birleşik Devletleri'ne yönelen kolu kapandığında, Yeni Dünya'ya çıkarılan Afrikalıların yalnızca yüzde 6 kadarı Kuzey Amerika'ya gelmişti.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "1807 tartışmasında ticaretin sürmesini isteyen bir üye, sömürgelerin yılda 7000'den fazla köle ithaline ihtiyaç duymayacağını öne sürerek ölçüyü küçültmeye çalı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "23 Şubat 1807 gecesi Avam Kamarası bölündü ve tasarı 283 kabule karşı 16 retle, yani 267 çoğunlukla geçti.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Ticaretin sürmesini savunan bir üyenin gerekçesi ahlaki değil mülkiyete dairdi: kaldırmanın sömürgecilere vereceği zararın 90 milyon sterlinlik bir mülke dokund",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı oturumda Earl Percy, 1810 yılbaşından sonra doğacak her çocuğun özgür sayılmasını önerdi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Öneri tasarının kapsamı dışındaydı: yasa köleliği değil, insan taşımacılığını hedefliyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Manning adlı üye ise tasarı yasalaşırsa zarar görecek sınıflara tazminat konusunu görüşecek bir komisyon isteyeceğini duyurdu; saydığı gruplar arasında kraliyet",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yaklaşık dört yüzyıl süren bu trafikte taşınanların dörtte birinden fazlası, yani 3,2 milyon insan, 1807'deki Britanya yasağından sonra, ticaretin yasa dışı say",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Serbest bırakılanların sayısı asıl kaynağından okunabiliyor: 1808 ile 1862 arasında, çoğu Britanya donanmasından subaylar Atlantik köle gemilerinden yaklaşık 17",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k13",
+      "iddia": "2024'te yayımlanan bir tarama ise 1800 sonrasında köle ticaretinden alınıp sözleşmeli emeğe koşulanların 700.000'i aştığını, Britanya'nın bunun üçte birini sağl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "19 Mart 1850'de Avam Kamarası filonun sürdürülmesini tartıştı; tutanağa göre Afrika'nın batı kıyısında yirmi altı gemi görevliydi, başka istasyonlardakiler ekle",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Alıkoyma sayıları da verildi: 1830 ile 1838 arasında yalnızca 166 köle gemisi yakalanmışken, arama yetkisini genişleten düzenlemelerden sonraki on yılda sayı 62",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Filonun işe yarayıp yaramadığı oturumun kendi konusuydu: kimi konuşmacı ticaretin hiç kesilmediğini söyleyip filoyu kaldırmak istedi, kimi bu sayıları gösterip ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Küba'ya ulaştığı bilinen son köle gemisi 1867'de sefer yaptı; adadaki kölelik ancak 1886'da kaldırıldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eric Williams'ın savına göre Britanya'nın şeker sömürgelerinden ve köle ticaretinden elde ettiği kâr Sanayi Devrimi'nin finansmanına katkıda bulundu; ticaretin ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "David Richardson, köle ticaretinden gelen kârın Britanya'daki yurt içi yatırımın yüzde 1'inden azına denk geldiği sonucuna vardı; Stanley Engerman, ticaretin ke",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Seymour Drescher ve Robert Anstey ise ticaretin sonuna kadar kârlı kaldığını, dolayısıyla kaldırmanın nedeninin iktisadi teşvik değil ahlaki reform olduğunu sav",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Drescher tartışmayı 1986'da Slavery & Abolition'da yeniden ele alıp düşüş tezinin Econocide'dan sonraki durumunu değerlendirdi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karşı taraftan da, Econocide'ın incelemesi 1823'te bittiği için Williams savının asıl gövdesine dokunmadığı öne sürüldü.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Karl Marx, Kapital'in birinci cildinde dört uğrağı birlikte sayar: Amerika'da altın ile gümüşün bulunması, yerli nüfusun kökünün kazınması, köleleştirilmesi ve ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ticaretin içinden gelen tanıklıklardan biri, 1789'da yayımlanan bir öz yaşam anlatısıdır; yazarı Britanya'da dersler verdi, hükûmete mektuplar yazdı ve Sons of ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin kendisi yazarın Benin'in uzağındaki Eboe bölgesinde, Essaka adlı bir vadide 1745'te doğduğunu söyler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Anlatının 1793'te çıkan altıncı baskısının önsözünde yazar, 25 Nisan 1792'de Oracle ve 27 Nisan'da Star gazetelerinde çıkan bir iddianın, itibarını zedelemek ve",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Nisan"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "1999'da Vincent Carretta'nın Slavery & Abolition dergisinde yayımladığı yazının başlığı soruyu iki adla kurar: Olaudah Equiano mu, Gustavus Vassa mı?",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Paul Lovejoy aynı dergide 2006'da otuz sayfayı aşan bir yazı yayımladı; başlığı aynı iki adı ters sırada kurar ve yazarı \"the African\" olarak niteler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Künye kayıtları yazıların tarihini, dergisini, başlığını ve kaynakçasını verir: Carretta'nın dokuz maddelik listesi köle ticareti istatistikleri ve belge derlem",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Künye kayıtları yazıların tarihini, dergisini, başlığını ve kaynakçasını verir: Carretta'nın dokuz maddelik listesi köle ticareti istatistikleri ve belge derlem",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k15",
+      "iddia": "UNESCO'nun 1994'te başlattığı Köleleştirilmiş Halkların Yolları programı, kendi kaydında onarıcı adalet ve ortak iyileşme girişimlerini desteklediğini belirtir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Devletlerin tutumu dağınıktır: Hollanda hükûmeti 2023'te rolü için tam bir özür diledi ama kendi kurduğu komisyonun önerisine rağmen tazminat ödemeyi reddetti; ",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Britanya derin üzüntünün ötesine geçmedi, tam bir özürden kaçındı ve kölelik ile köle ticaretindeki payı için parasal ödeme niyeti bulunmadığını doğruladı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Liste Avrupa'da kapanmaz: ticarette geçmişi olan Afrika ülkelerinin çoğu özür dilemekten kaçındı, ama Gana Cumhurbaşkanı Jerry Rawlings 1994'te, Benin cumhurbaş",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     }
   ]
 }

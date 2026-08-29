@@ -1,14 +1,65 @@
 ## aktor-tokugawa-sogunlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:51.903Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T16:32:34.662Z_
 
-- [OK]      k1 → "Bu düzenin başlangıcı ve sonu, kaynağın kendi kayıtlarında iki farklı türde olayla verilir: öncesinde 21 Ekim …" — 2 atom doğrulandı; 3 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir askerî zaferle kurulan bir düzenin bir siyasi ilanla sona ermesi, kuruluş ile çözülüşün farklı mekanizmala…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, şogunluğun kuruluşunu 24 Mart olarak ayrıca tarihler."
-- [OK]      k1 → "Kaynak, erken döneme ait iki olayı ayrıca sayar: 8 Kasım 1614'te Osaka Kuşatması ve Sakoku Fermanı." — 3 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir dış temas rejiminin ferman olarak kaydedilmesi, dışa kapanmanın bir durum değil bir hukuki işlem olduğunu …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Düzeni sona erdiren olayın sonuçları arasında Tokugawa şogunluğunun devrilmesi, Japonya İmparatorluğu'nun kuru…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k2 → "Bir düzenin sonunun, kendisini deviren olayın sonuç listesinde ilk madde olarak yer alması, o olayın kendi anl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1600'de yaklaşık 516,1 milyon, 1848'de yaklaşık 1,27 milyardır."
-- [ATOMSUZ] k1 → "Şogunluğun idari yapısı, alan düzeni, iktisadi politikaları ve son yıllarındaki kriz burada ayrı başlıklar alt…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Tokugawa şogunluğu, Japonya'yı 1603'ten 1868'e kadar yöneten askerî hükümetti; yönetimin tepesinde Kyoto'daki …"
+- [OK]      k4 → "Tokugawa şogunluğu, Japonya'yı 1603'ten 1868'e kadar yöneten askerî hükümetti; yönetimin tepesinde Kyoto'daki …"
+- [ATOMSUZ] k4 → "Ülke tek bir merkezden değil, her biri kendi alanındaki köylerden vergi alma yetkisi taşıyan beylerin (daimyo)…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Ayırt edici yan, merkezin taşra beylerini kılıçla değil bir ikamet, bir kayıt ve bir liman düzeniyle bağlaması…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "İki buçuk yüzyıl süren iç barış tek bir nedene bağlanamaz; ama bu üç mekanizma, düzene sonradan yakıştırılan "…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k8 → "İki buçuk yüzyıl süren iç barış tek bir nedene bağlanamaz; ama bu üç mekanizma, düzene sonradan yakıştırılan "…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Hollanda şirketinin hekimi olarak 1691'de başkente giden Engelbert Kaempfer, ülkedeki bütün beylerin eşlerinin…"
+- [ATOMSUZ] k3 → "Aynı ilkenin gençlerdeki karşılığını da görür: sarayda tanıştığı bir beyin torunu, tek gözü kör olmasına rağme…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Kaempfer'in geçtiği yol üzerindeki imparatorluk karakollarında bütün yolcuların, özellikle de beylerin yükü ar…"
+- [ATOMSUZ] k3 → "Kaempfer bu aramayı yeni düzenin siyasi düsturlarından biri olarak açıklar: kadınlar rehin olduğu için dışarı …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Batıdan gelen hiçbir bey saray yolculuğunda bu karakolları atlayamazdı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kaempfer'in gördüğü düzende saraya gitmek beylerin göreviydi ve yılda bir kez yapılıyordu; dolayısıyla aynı yo…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "En büyük beylerin maiyeti yolu günlerce doldururdu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Düzenin adı dönüşümlü ikamettir (sankin-kōtai) ve yerleşik gerekçesi, beylerin yabancı gemilerle ticaretini kı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Beyin geliri hem başkentteki ikinci haneye hem de iki yönlü yolculuğun masrafına bağlanır; kalabalık maiyetler…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Kaempfer'in aktardığı ikinci mekanizma, aratame denen yıllık yazımdır: bu iş için görevlendirilen komiserler h…"
+- [OK]      k3 → "Defterin ne ürettiğini Kaempfer'in aktardığı Kyoto sayımı gösterir: 1.858 sokak, 138.979 hane, beylerin kentte…" — 6 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k3 → "Kaempfer sayımın sınırını da yazar — bu rakamlara kalede oturanlar, Kyoto'daki hanedan sarayının bütün mensupl…" — programatik olarak ölçülemedi (ad karşılığı yok): Kyoto
+- [ATOMSUZ] k3 → "Aynı düzen hareketi de kayda bağlamıştı: rahipler manastır başlarının mektubuyla dolaşabilirken, herkesin yetk…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Samuraylar tarımdan koparılıp beylerinin kale kentinde oturmaya zorlanmış, karşılığında alanın köylerinden top…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Kırın bu şekilde silahtan arındırılması yerel su hakkı kavgalarını büyük ölçüde bitirdi; sulama arkları vadile…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Aynı zeminde tohum, gübre ve ekim yöntemleri iyileşti; 1700'den sonra büyük kentlerin tüccar hanelerinde geliş…"
+- [OK]      k3 → "Kaempfer 1692'de, bir beyin gelirinden beş mangoku eksiltildiğini duyar: sebebi, beyin genç kâtibinin yüklediğ…"
+- [OK]      k4 → "Buradaki bağın adı çekişmelidir: iktisat tarihi kaynağı beyleri "feodal savaş beyleri" diye anar ve düzeni bir…"
+- [OK]      k1 → "Nagazaki'de Çin ticareti ile Hollanda şirketinin Dejima'daki karakolu, Tsushima üzerinden Joseon Kore'siyle il…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Kore'yle ilişki yalnızca ticaret de değildi: Kore'den Japonya'ya düzenli elçi heyetleri (Tongsinsa) gönderiliy…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Ryukyu, Edo döneminin neredeyse tamamında yarı bağımsız bir krallıktı ve Japonya onu Çin'e haraç ödemeyi sürdü…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Kaempfer, Nagazaki limanında kış aylarının birkaçı dışında otuzdan az yabancı gemi bulunmadığını, bunların çoğ…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [ISARET]  k2 → "1685'te satış hacmi tavana bağlandığında Çinlilere ve onların adıyla ticaret yapanlara tanınan yıllık tavan, H…" — kaynakta bulunamayan sayısal değer: 1685 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)
+- [OK]      k1 → "Ainularla alışveriş yalnızca Matsumae beyliğiyle sınırlı tutulmuştu; yani kanalın tekeli, karşı taraftaki topl…"
+- [ATOMSUZ] k1 → "Yasaklanan din de ortadan kalkmadı, yer altına indi: kalanlar çoğunlukla Nagazaki çevresinde gizli cemaatler k…" — programatik olarak ölçülemedi (ad karşılığı yok): Nagazaki
+- [OK]      k5 → "Onları bulmanın yolu bir ayin denetimiydi — şüpheliye Hristiyan tasvirlerine basması söyleniyor, tepkisine bak…"
+- [OK]      k5 → "Yasaktan önce, 17. yüzyıl başında Kyushu'daki mühtedi sayısı için verilen rakamlar tek değildir: hesap on binl…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Dejima üzerinden gelen Hollandaca tıp ve bilim metinleri rangaku, yani Hollanda öğrenimi adıyla ayrı bir alan …" — programatik olarak ölçülemedi (ad karşılığı yok): Hollandaca, Hollanda
+- [OK]      k5 → "Avrupa'daki yayılmanın haberi arttıkça Edo yönetimi yabancı karşıtı kurallarını gevşetip Barbar Kitaplarını İn…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "1797 ile 1809 arasında birkaç Amerikan gemisi, Napolyon savaşları yüzünden kendi gemilerini gönderemeyen Holla…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Aynı bayrağı 1808'de bir İngiliz savaş gemisi de kullandı: Hollanda gemilerini avlayan HMS Phaeton Hollanda ba…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Basınç arttıkça kurallar da sertleşti: 1825'te çıkarılan bir emir kıyı görevlilerine karaya çıkan yabancıları …"
+- [OK]      k1 → "Japon gökbilimci ve çevirmen Shizuki Tadao, 1801'de Kaempfer'in ölümünden sonra 1727'de yayımlanan kitabını çe…"
+- [OK]      k3 → "Çevirdiği metin tarafsız bir betimleme de değildi: Kaempfer'in eki, imparatorluğu bulunduğu gibi kapalı tutman…"
+- [OK]      k3 → "Kaempfer orada, Japonların kendi sınırları içinde barış ve yeterlilik içinde yaşadığını, dışarıyla alışverişe …"
+- [OK]      k3 → "Bunu yazan kişi, ülkeye ticaret yapmak için gelmiş bir Avrupa şirketinin hekimidir ve denemesi dönemin Avrupa …"
+- [OK]      k3 → "Kaempfer, Kyoto'daki hükümdarı kalıtsal dinî imparator, Edo'daki şogunu ise dünyevi hükümdar diye yazmak zorun…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Katolik İspanya ile Portekiz'in etkisini kazımak alışılmış açıklamadır; ama Japon tarihçilerin 1970'lerdeki ça…"
+- [OK]      k7 → "Sakoku sorusunu yeniden açan 1977 tarihli çalışma Ronald Toby'nin, Edo dönemi dış ilişkilerini yeniden inceley…"
+- [OK]      k8 → "Sakoku sorusunu yeniden açan 1977 tarihli çalışma Ronald Toby'nin, Edo dönemi dış ilişkilerini yeniden inceley…"
+- [OK]      k1 → "Tashiro'nun ayrımı o maddeye de geçmiştir: ticaret, doğrudan şogunluk yargısı altındaki Nagazaki kanalı ile be…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Aynı yerde 1637'de başlayan Shimabara ayaklanmasının rolü de ihtiyatla kurulur: çoğu Hristiyan olan 40.000 köy…"
+- [OK]      k5 → "Perry'nin geldiği sırada Edo'nun nüfusu yaklaşık bir milyondu; kaynağın anlatımıyla kent dünyanın en büyük yer…"
+- [ATOMSUZ] k4 → "Yüksek kentleşme oranı, gelişkin yol ağı ve yaygın zanaat üretimi, iktisat tarihinde 19. yüzyıl sonrasının hız…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Uzun dönemli tahminlerde Japonya nüfusu 1600'de 17 milyon dolayındayken 1700'de 26,7 milyona çıkar; 1750'de 29…"
+- [ATOMSUZ] k4 → "Bu değerler sayım değil model çıktısıdır ve tek başına bir neden göstermez; üstelik aynı yüzyıl için, iktisat …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "1854'te imzalanan Kanagawa Antlaşması iki limanı — Shimoda ve Hakodate — Amerikan gemilerine odun, su, erzak v…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k6 → "Serbest ticaret değil ikmal hakkıdır; buna karşılık bir madde, Japonya'nın başka bir devlete tanıyacağı her ay…"
+- [OK]      k6 → "Metnin en açık ifadesi başka bir maddededir: kazazedelerin ve Shimoda ile Hakodate'de geçici olarak oturan Ame…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Amerikan anlatısında Perry'nin dört savaş gemisi 1853'te uzun süredir yalıtılmış bir ülkenin kapısını açar ve …"
+- [OK]      k1 → "Başat nedeni Batı ve Hristiyanlık etkisinin kazınmasında aramanın Avrupa merkezli bir okuma olduğu ileri sürül…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "İktisat tarihi yazımı bile terimi taşımayı sürdürür: dönemi 17. yüzyıl ortasından 1850'lere uzanan uzun bir ot…"
+- [ATOMSUZ] k8 → "Dört kapı iki buçuk yüzyıl boyunca açık kaldı, Nagazaki'nin ana kanalı Çin ticaretiydi, beylerin yolculuğu yer…" — programatik olarak ölçülemedi (ad karşılığı yok): Nagazaki, Çin
+- [ATOMSUZ] k2 → "Dört kapı iki buçuk yüzyıl boyunca açık kaldı, Nagazaki'nin ana kanalı Çin ticaretiydi, beylerin yolculuğu yer…" — programatik olarak ölçülemedi (ad karşılığı yok): Nagazaki, Çin
 
-**Özet:** 5 OK · 0 ISARET · 0 HATA · 4 ATOMSUZ
+**Özet:** 38 OK · 1 ISARET · 0 HATA · 21 ATOMSUZ

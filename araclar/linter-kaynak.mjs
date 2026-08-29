@@ -75,6 +75,27 @@ function alanAdi(url) {
 
 export function kaynakDenetimi(makaleler, { havuz = null, borcDefteriYaz = true } = {}) {
   const r = new Rapor('KAPI 13 — kaynak bilesimi');
+
+  // HAVUZ BUTUNLUGU: ayni alan adi iki kez tanimlanamaz. 2026-08-29'da
+  // population.un.org havuzda IKI kez geciyordu — biri `dogrulanabilir:
+  // true` (veri portali API'si calisiyor), oteki `false` (WPP insan yuzu
+  // ciziliyor). Kapi ikincisini gordugu icin gecerli bir kunyeyi reddetti.
+  // Cift kayit, kapinin hangi olcumu kullanacagini belirsiz birakir.
+  {
+    const havuzListesi = (havuz?.whitelist || []).concat(havuz?.blacklist || []);
+    const gorulen = new Map();
+    for (const w of havuzListesi) {
+      const alan = typeof w === 'string' ? w : w.alan;
+      if (!alan) continue;
+      gorulen.set(alan, (gorulen.get(alan) || 0) + 1);
+    }
+    for (const [alan, n] of gorulen) {
+      if (n > 1) {
+        r.hata('icerik/_sistem/kaynak-havuzu.yaml',
+          `"${alan}" havuzda ${n} kez tanimli — cift kayit, kapinin hangi olcumu kullanacagini belirsiz birakir`);
+      }
+    }
+  }
   const h = havuz || yamlOku(path.join(ICERIK, '_sistem', 'kaynak-havuzu.yaml'));
   const siniflar = havuzSiniflari(h);
   const { girisKapisi } = siniflar;

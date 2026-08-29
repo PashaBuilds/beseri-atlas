@@ -1,0 +1,773 @@
+{
+  "id": "aktor-tokugawa-sogunlugu",
+  "govde_hash": "c9a7c24ca9c1",
+  "commit": "414e67e",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Tokugawa şogunluğu, Japonya'yı 1603'ten 1868'e kadar yöneten askerî hükümetti; yönetimin tepesinde Kyoto'daki hanedan değil, savaş beylerinin en güçlüsü olan şogun duruyordu.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'during the Edo period (from 1603 to 1868)'. k4: 'the shogun, the most powerful of the warlords' ve 'Tokugawa Japan (1600-1868)' — 1603 tarihi k4'te gecmez, destegi kismi."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Ülke tek bir merkezden değil, her biri kendi alanındaki köylerden vergi alma yetkisi taşıyan beylerin (daimyo) oluşturduğu bir ortaklıktan yönetiliyordu; şogun bu beylerden biri, ama en büyüğüydü ve dış güçlerle ilişkiyi tekelinde tutuyordu — kaynağın verdiği gerekçeyle, beylerin merkezi devirmek için yabancı devletlerle ittifak kurmasını önlemek için.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Each daimyo - and the shogun - was assigned a geographic region, a domain, being given taxation authority over the peasants residing in the villages of the domain'; 'Intercourse with foreign powers was monopolized by the shogun, thereby preventing daimyo from cementing alliances with other countries in an effort to overthrow the central government'. Hakem notu: gerekce cumlesi kaynakta vardi ama govdeye alinmamisti, geri konuldu."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Hollanda şirketinin hekimi olarak 1691'de başkente giden Engelbert Kaempfer, ülkedeki bütün beylerin eşlerinin ve kız çocuklarının Edo'da, kocalarının ve babalarının sadakatine karşılık rehin olarak tutulduğunu yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'the wives and female children of all the princes of the Empire are kept at Jedo, the Imperial Capital, as hostages of the fidelity of their husbands and parents'. Yolculuk sayfalari A.D. 1691 basligini tasir."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Aynı ilkenin gençlerdeki karşılığını da görür: sarayda tanıştığı bir beyin torunu, tek gözü kör olmasına rağmen, yalnızca dedesinin sadakatine rehin olsun diye başkentte kalmakla görevlendirilmişti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'the Prince of Facatta's grandson, who although he was blind of one eye, had nevertheless orders from the Emperor to stay at Court ... to serve as a hostage of his Grandfather's fidelity'."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Kaempfer'in geçtiği yol üzerindeki imparatorluk karakollarında bütün yolcuların, özellikle de beylerin yükü aranıyor, görevliler hiçbir kadının ve hiçbir silahın daha ileri geçmemesini gözetiyordu; ikinci karakol, Edo'dan batıya doğru taşınmak istenen kadın ya da silaha el koymak için kurulmuştu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Array kasabasi: 'The goods and baggage of all travellers, but particularly of the princes of the Empire, must be visited in this town by Imperial commissioners appointed for this purpose, who are to take care, that no women nor any arms pass further.' Gosikkiso karakolu: 'hath been establish'd to seize upon all arms or women, if any should be attempted, by any body whatever, to be carried from Jedo Westwards of the said place.' Hakem duzeltmesi: onceki surum 'gorevlilerin TEK isi' diyordu; kaynak butun yolcularin yukunun arandigini yaziyor."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Kaempfer bu aramayı yeni düzenin siyasi düsturlarından biri olarak açıklar: kadınlar rehin olduğu için dışarı çıkamaz, silah da dışarı taşınamaz, çünkü ciddi miktarda silah taşraya ulaşırsa beylerden biri ayaklanmayı aklından geçirebilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'This is one of the political maxims which the new reigning Emperors have found necessary to practise'; 'And as to the exportation of arms, a full and effectual stop hath been put to that, lest, if exported in any considerable quantity, some of these princes might take it into their heads to raise rebellions against the Government'. HAKEM DUZELTMESI: onceki surum 'silah da iceri girmemelidir' diyordu — kaynak silahin DISARI cikisini yasaklar, yon ters cevrilmisti."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Batıdan gelen hiçbir bey saray yolculuğunda bu karakolları atlayamazdı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gosikkiso karakolu: 'none of the Western Princes, nor indeed any body that comes from those Provinces, can avoid passing through in their journeys to court'."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "En büyük beylerin maiyeti yolu günlerce doldururdu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "'The train of some of the most eminent among the Princes of the Empire fills up the road for some days.' Pasaj metnin ~785k karakterinde, 400k onbellek siniri otesinde; dok.mjs --tam ile okunur."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Beyin geliri hem başkentteki ikinci haneye hem de iki yönlü yolculuğun masrafına bağlanır; kalabalık maiyetlerin yolları yılda iki kez ve günlerce doldurması, güzergâh üzerinde sürekli bir konaklama, taşıma ve yiyecek talebi yaratır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak 'It is their duty to go to court once a year' ve 'they must frequent these roads twice every year' der; guzergah uzerindeki surekli talep bu iki veriden turetilmis yazar yorumudur. Pasaj 400k otesinde."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Kaempfer'in aktardığı ikinci mekanizma, aratame denen yıllık yazımdır: bu iş için görevlendirilen komiserler her sakinin hanesini, çocuklarının ve hizmetlilerinin sayısını ve mensup olduğu mezhebi ya da bağlı bulunduğu tapınağı yılda bir kez kaydediyordu; Kaempfer bu işi, her sakinin hayatına ve ailesine yönelik bir tür soruşturma diye tanımlar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'The Aratame is a sort of an inquisition into the life and family of every inhabitant, the number of his Children and domesticks, the sect which every one professes, or the temples to which they belong, which is made very punctually, once every year, by commissioners appointed for this purpose.' Hakem notu: kaynagin kendi nitelemesi ('a sort of an inquisition') govdeye tasindi; onceki surumun 'vergi kaydi ile din kaydi ayni defterdi' iddiasinda vergi ogesi kaynakta yoktu, 'hane kaydi' olarak duzeltildi."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Defterin ne ürettiğini Kaempfer'in aktardığı Kyoto sayımı gösterir: 1.858 sokak, 138.979 hane, beylerin kentteki 137 konağı, 52.169 din görevlisi ve 477.557 sivil.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "KIOOTO ARATAME listesi: Matz (Streets) 1858; Ken (houses) 138979; Dai Mio Jassiki 137; 52169 Ecclesiasticks; 477557 Laymen."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Kaempfer sayımın sınırını da yazar — bu rakamlara kalede oturanlar, Kyoto'daki hanedan sarayının bütün mensupları ve ülkenin her yerinden gelip giden sayısız yabancı dahil değildir; son ikisi için bir kayıt elde edilememiştir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'wherein however are omitted all those persons, who live in the castle and at the Dairi's court'; '...besides numberless strangers, who resort daily to this place from all parts of the Empire, and the whole court of the Dairi, or Ecclesiastical Hereditary Emperor, no account of whom could be procured'. Hakem duzeltmesi: kaynagin cekince listesinde 'kalede oturanlar' vardi, govdede eksikti (liste kirpmasi), geri konuldu."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Aynı düzen hareketi de kayda bağlamıştı: rahipler manastır başlarının mektubuyla dolaşabilirken, herkesin yetkili görevliden alınmış bir yol izni taşıması gerekiyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'a letter from their Osjo ... suffices to let them pass every where in the Empire, whereas other people must provide themselves with passports from the proper Magistrates'."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Samuraylar tarımdan koparılıp beylerinin kale kentinde oturmaya zorlanmış, karşılığında alanın köylerinden toplanan pirinç vergisinden maaş almışlardı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'The samurai military retainers of the daimyo were forced to abandon rice farming and reside in the castle town headquarters of their daimyo overlord. In exchange, samurai received rice stipends from the rice taxes collected from the villages of their domain.'"
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Kırın bu şekilde silahtan arındırılması yerel su hakkı kavgalarını büyük ölçüde bitirdi; sulama arkları vadiler boyunca uzatıldı, nehir yatakları taş setlerle güçlendirildi, taşıma kolaylaştı ve taşkın azaldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'By removing samurai from the countryside - by demilitarizing rural areas - conflicts over local water rights were largely made a thing of the past. As a result irrigation ditches were extended throughout the valleys, and riverbanks were shored up with stone embankments, facilitating transport and preventing flooding.'"
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Aynı zeminde tohum, gübre ve ekim yöntemleri iyileşti; 1700'den sonra büyük kentlerin tüccar hanelerinde gelişen zanaat üretimi köylere de yayıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'improving seed varieties, fertilizers and planting methods'; 'proto-industrial (craft) production by merchant houses in the major cities like Osaka and Edo and its diffusion to rural areas after 1700'."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Kaempfer 1692'de, bir beyin gelirinden beş mangoku eksiltildiğini duyar: sebebi, beyin genç kâtibinin yüklediği ağır vergiler yüzünden binlerce köylünün alanı terk etmiş olmasıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'the Prince of Imagada had been depriv'd by the Emperor of five Mangokf of his revenue, because some thousands of his subjects had been forc'd to run away, by reason of the heavy taxes and exactions laid on them by his secretary' — A.D. 1692."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Buradaki bağın adı çekişmelidir: iktisat tarihi kaynağı beyleri \"feodal savaş beyleri\" diye anar ve düzeni bir konfederasyon yönetimi olarak tarif eder, ama Avrupa'dan ödünç alınan bu etiketin ne kadar taşıdığı [Feodalite kavramı](/tartisma/feodalite-kavrami/) tartışmasının konusudur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k4: 'placed certain powers in the hands of feudal warlords, daimyo' ve 'The system of confederation government'. Etiketin tartismali oldugu degerlendirmesi kaynakta yoktur, atlasin ic capraz baglantisidir. Hakem duzeltmesi: onceki surum 'kaynaklar' diyordu, tek kaynak var — tekile cekildi."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Nagazaki'de Çin ticareti ile Hollanda şirketinin Dejima'daki karakolu, Tsushima üzerinden Joseon Kore'siyle ilişki, Satsuma beyliği üzerinden Ryukyu Krallığı ve Matsumae beyliği üzerinden Ainularla alışveriş — bu dört kapı Edo dönemi boyunca açık kaldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'four gateways': Nagasaki'de Cin ticareti ve Hollanda sirketi, Matsumae-Ainu, Tsushima uzerinden Joseon, Satsuma uzerinden Ryukyu."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Kore'yle ilişki yalnızca ticaret de değildi: Kore'den Japonya'ya düzenli elçi heyetleri (Tongsinsa) gönderiliyor, Japonya Çin'in haraç düzenine girmeden Çin'in bilgi ve mallarına bu dolaylı yoldan ulaşıyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "'allowed regular embassies (Tongsinsa) to be dispatched by Korea to Japan'; 'Japan was able to access Chinese cultural, intellectual and technological developments throughout the Edo period'; 'avoiding having to agree to a subordinate status within the Chinese tributary system'. HAKEM DUZELTMESI: onceki surum 'karsilikli elci heyetleri gidip geliyor' diyordu; kaynak yalnizca Kore'den Japonya'ya gonderilen heyetleri yazar, karsiliklilik kaynakta yok."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Ryukyu, Edo döneminin neredeyse tamamında yarı bağımsız bir krallıktı ve Japonya onu Çin'e haraç ödemeyi sürdürmeye teşvik ediyordu; iki uçlu bu konum [Ryukyu\nKrallığı](/aktor/ryukyu-kralligi/) dosyasında ele alınıyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Ryūkyū, a semi-independent kingdom for nearly all of the Edo period'; 'The Japanese actually encouraged the Ryūkyū Kingdom's rulers to maintain a tributary relationship with China'."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Kaempfer, Nagazaki limanında kış aylarının birkaçı dışında otuzdan az yabancı gemi bulunmadığını, bunların çoğunun Çin yelkenlisi olduğunu yazar; limanı iki imparatorluk karakolu ve her birinde yaklaşık 700 kişilik muhafız korurdu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Of foreign Ships there are seldom, some few months in the winter excepted, less than thirty, most of which are Chinese Yonks'; 'two Imperial guards ... They consist of about 700 men each'. Kaynagin kis cekincesi metne tasindi."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "1685'te satış hacmi tavana bağlandığında Çinlilere ve onların adıyla ticaret yapanlara tanınan yıllık tavan, Hollandalılara tanınanın iki katı olarak belirlendi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "1685 duzenlemesi: Hollanda satisi yilda 300000 Thails, 'the commerce of the Chinese and such Eastern Nations, as trade to Japan under their name, was likewise reduc'd to a yearly sum of 600000 Thails'. Pasaj ~561k'da, 400k onbellek siniri otesinde; denetle.mjs bu yuzden 1685 icin ISARET verir, dok.mjs --tam ile dogrulanir."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Ainularla alışveriş yalnızca Matsumae beyliğiyle sınırlı tutulmuştu; yani kanalın tekeli, karşı taraftaki toplulukta değil bir Japon beyliğindeydi.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "'Trade with the Ainu people was limited to the Matsumae Domain in Hokkaido' dogrudan; tekelin hangi tarafta oldugu degerlendirmesi kaynakta bu sozcuklerle yer almaz."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Yasaklanan din de ortadan kalkmadı, yer altına indi: kalanlar çoğunlukla Nagazaki çevresinde gizli cemaatler kurdu ve kakure kirishitan adıyla anıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'The remaining Japanese Christians, mostly in Nagasaki, formed underground communities and came to be called Kakure Kirishitan.'"
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Onları bulmanın yolu bir ayin denetimiydi — şüpheliye Hristiyan tasvirlerine basması söyleniyor, tepkisine bakılıyordu; aynı sınama zaman zaman kazazede Amerikalılara da uygulandı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'forcing them to step on pictures or metal bas-reliefs of Christian icons ... and observing their reactions - a practice the Japanese sometimes forced American castaways to do as well'."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Yasaktan önce, 17. yüzyıl başında Kyushu'daki mühtedi sayısı için verilen rakamlar tek değildir: hesap on binlerce kişi olarak yapılırken Katolik misyonerler çeyrek milyon dolayında bir sayı söylüyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "'by the early-17th century Christian converts in Kyushu were calculated to number many tens of thousands. (Catholic missionaries put the figure at around a quarter million.)' Hakem duzeltmesi: kaynagin verdigi zaman cercevesi ('by the early-17th century') govdede dusmustu, geri konuldu."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Dejima üzerinden gelen Hollandaca tıp ve bilim metinleri rangaku, yani Hollanda öğrenimi adıyla ayrı bir alan kurdu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Western scientific, technical and medical innovations flowed into Japan through Rangaku (\"Dutch learning\")'; 'studying medical and other texts in the Dutch language obtained through trade at Dejima'."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Avrupa'daki yayılmanın haberi arttıkça Edo yönetimi yabancı karşıtı kurallarını gevşetip Barbar Kitaplarını İnceleme Enstitüsü adlı resmî bir kurum açmayı gerekli gördü; Kuzey Amerika'yı anlatan erken Japonca kayıtlardan biri 1708'de basılmıştı ve ülkeyi aslanlar, filler ve kaplanlarla dolu soğuk bir yer diye tarif ediyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "'the feudal regime in Edo became alarmed enough to relax its anti-foreign strictures and permit the establishment of an official \"Institute for the Investigation of Barbarian Books\"'; 1708 tarihli Kuzey Amerika anlatimi ayni paragraftadir."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "1797 ile 1809 arasında birkaç Amerikan gemisi, Napolyon savaşları yüzünden kendi gemilerini gönderemeyen Hollandalıların isteğiyle Hollanda bayrağı altında Nagazaki'de ticaret yaptı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'From 1797 to 1809, several American ships traded in Nagasaki under the Dutch flag, upon the request of the Dutch who were not able to send their own ships because of their conflict against Britain during the Napoleonic Wars'."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Basınç arttıkça kurallar da sertleşti: 1825'te çıkarılan bir emir kıyı görevlilerine karaya çıkan yabancıları tutuklama ya da öldürme buyruğu verdi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'In 1825 ... the shogunate issued an \"Order to Drive Away Foreign Ships\" ... ordering coastal authorities to arrest or kill foreigners coming ashore'."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Japon gökbilimci ve çevirmen Shizuki Tadao, 1801'de Kaempfer'in ölümünden sonra 1727'de yayımlanan kitabını çevirirken bu kelimeyi kendisi türetmiştir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "'The term sakoku originates from the manuscript work Sakoku-ron written by Japanese astronomer and translator Shizuki Tadao in 1801. Shizuki invented the word while translating the works of the 17th-century German traveller Engelbert Kaempfer ... posthumously released in 1727.' Maddenin bu bolumundeki dipnot bozuk bicimde goruntulenir; guven orta tutuldu."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Çevirdiği metin tarafsız bir betimleme de değildi: Kaempfer'in eki, imparatorluğu bulunduğu gibi kapalı tutmanın Japonya'nın yararına olup olmadığını soran ve olduğunu savunan bir denemedir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ek VI basligi: 'An Enquiry, whether it be conducive for the good of the Japanese Empire, to keep it shut up, as it now is, and not to suffer its inhabitants to have any Commerce with foreign nations, either at home or abroad' (s. 301). Pasaj 400k otesinde; --tam ile dogrulanir."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Kaempfer orada, Japonların kendi sınırları içinde barış ve yeterlilik içinde yaşadığını, dışarıyla alışverişe ihtiyaç duymadıklarını yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'the Japanese, who confined within the limits of their Empire enjoy the blessings of peace and contentedness, and do not care for any commerce, or communication with foreign nations, because such is the happy state of their Country, that it can subsist without it'. 400k otesinde."
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Bunu yazan kişi, ülkeye ticaret yapmak için gelmiş bir Avrupa şirketinin hekimidir ve denemesi dönemin Avrupa tartışmasına verilmiş bir cevaptır; metin, çağının insan sıralamalarını da olduğu gibi taşır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaempfer'in Hollanda sirketi hekimi olarak bulundugu metinde aciktir; 'caginin insan siralamalari' degerlendirmesi ekteki Torrid Zone pasajina dayanir (400k otesinde) ve degerlendirmenin kendisi yazara aittir."
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Kaempfer, Kyoto'daki hükümdarı kalıtsal dinî imparator, Edo'daki şogunu ise dünyevi hükümdar diye yazmak zorunda kalmıştı; tek egemenlik bekleyen bir dile iki başlı bir düzeni anlatmanın başka yolunu bulamamıştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metin Kyoto'daki hukumdari 'Ecclesiastical Hereditary Emperor', Edo'daki sogunu 'Secular Monarch' diye adlandirir."
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Katolik İspanya ile Portekiz'in etkisini kazımak alışılmış açıklamadır; ama Japon tarihçilerin 1970'lerdeki çalışmalarına dayanan bazı araştırmacılar bunun gerçekliğin ancak bir bölümünü açıkladığını savunur ve deniz yasaklarını şogunluğun iç gündemi içinde okur.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'It is conventionally regarded that the shogunate imposed and enforced the sakoku policy in order to remove the colonial and religious influence of primarily Spain and Portugal'; 'Based on work conducted by Japanese historians in the 1970s, some scholars have challenged this view, believing it to be only a partial explanation of political reality'."
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Sakoku sorusunu yeniden açan 1977 tarihli çalışma Ronald Toby'nin, Edo dönemi dış ilişkilerini yeniden inceleyen 1982 tarihli çalışma Tashiro Kazui ile Susan Downing Videen'indir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kayitlari: Toby, Ronald P. (1977) 'Reopening the Question of Sakoku: Diplomacy in the Legitimation of the Tokugawa Bakufu', Journal of Japanese Studies; Tashiro Kazui ve Susan Downing Videen (1982) 'Foreign Relations during the Edo Period: Sakoku Reexamined'. Ustveri kaydi yazar/yil/baslik icin dogrudan destektir, makalelerin savini tasimaz — cumle de yalnizca varliklarini one surer."
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Tashiro'nun ayrımı o maddeye de geçmiştir: ticaret, doğrudan şogunluk yargısı altındaki Nagazaki kanalı ile beyliklere bırakılan Kore ve Ryukyu kanalları olarak ikiye ayrılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Tashiro Kazui has shown that trade ... was divided into two kinds: Group A in which he places China and the Dutch, whose relations fell under the direct jurisdiction of the Bakufu at Nagasaki and Group B, represented by the Korean Kingdom and the Ryūkyū Kingdom, who dealt with Tsushima ... and Satsuma ... domains'."
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "Aynı yerde 1637'de başlayan Shimabara ayaklanmasının rolü de ihtiyatla kurulur: çoğu Hristiyan olan 40.000 köylünün katıldığı bu ayaklanmanın yasakları tetiklediği \"söylenir\".",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "'The direct trigger which is said to have spurred the imposition of sakoku was the Shimabara Rebellion of 1637-38, an uprising of 40,000 mostly Christian peasants.' Kaynagin 'is said to have' cekincesi metne tasindi."
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "Perry'nin geldiği sırada Edo'nun nüfusu yaklaşık bir milyondu; kaynağın anlatımıyla kent dünyanın en büyük yerleşimlerinden biriydi ve dışarısı bunu bilmiyordu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'At the time of Perry's arrival, Edo (later renamed Tokyo) had a population of around one million. The very city that Perry's tiny fleet approached in 1853 was one of the greatest urban centers in the world - although the outside world was unaware of this.' Hakem duzeltmesi: curutucunun 'ustunluk-iddiasi' itirazi karsilandi — atif cercevesi ('kaynagin anlatimiyla') eklendi."
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Yüksek kentleşme oranı, gelişkin yol ağı ve yaygın zanaat üretimi, iktisat tarihinde 19. yüzyıl sonrasının hızlı sanayileşmesini açıklayan başlangıç koşulları olarak sayılır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "'a high level of urbanization; well developed road networks; ... the development of proto-industrial (craft) production' Tokugawa basarilari basligi altinda sayilir ve sonraki buyumeyi aciklamak icin one surulur."
+    },
+    {
+      "iddia_id": "i43",
+      "cumle": "Uzun dönemli tahminlerde Japonya nüfusu 1600'de 17 milyon dolayındayken 1700'de 26,7 milyona çıkar; 1750'de 29 milyona ulaşıp yüzyılın ikinci yarısında hafifçe geriler ve 1800'de 28 milyondur, 1868'de ise 34,3 milyona varır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV satirlari: Japan,JPN,1600,,17000000 · 1700,,26700000 · 1750,,29000000 · 1760,,28800000 · 1800,,28000000 · 1868,,34256799. HAKEM DUZELTMESI: onceki surum 1750 zirvesini atliyordu ve seriyi duz bir plato gibi gosteriyordu; seri once yukselip sonra hafifce geriliyor."
+    },
+    {
+      "iddia_id": "i44",
+      "cumle": "1854'te imzalanan Kanagawa Antlaşması iki limanı — Shimoda ve Hakodate — Amerikan gemilerine odun, su, erzak ve kömür alabilecekleri liman olarak açar; başka hiçbir limana, fırtına ve sıkıntı hâlleri dışında, gidilemez.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde II: 'The port of Simoda ... and the port of Hakodadi ... are granted by the Japanese as ports for the reception for American ships, where they can be supplied with wood, water, provisions and coal'; Madde X: 'Ships of the United States shall be permitted to resort to no other ports in Japan but Simoda and Hakodadi, unless in distress or forced by stress of weather'."
+    },
+    {
+      "iddia_id": "i45",
+      "cumle": "Serbest ticaret değil ikmal hakkıdır; buna karşılık bir madde, Japonya'nın başka bir devlete tanıyacağı her ayrıcalığın kendiliğinden Amerika'ya da geçeceğini hükme bağlar, tersi bir yükümlülük yoktur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde IX: baska bir ulusa taninan ayricaliklarin ABD'ye de 'without any consultation or delay' gececegi hukme baglanir; metinde karsilikli bir yukumluluk maddesi yoktur."
+    },
+    {
+      "iddia_id": "i46",
+      "cumle": "Metnin en açık ifadesi başka bir maddededir: kazazedelerin ve Shimoda ile Hakodate'de geçici olarak oturan Amerikalıların, \"Hollandalıların ve Çinlilerin Nagazaki'de tabi olduğu\" kısıtlama ve kapatılmaya tabi olmayacağı yazılıdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde V: 'Shipwrecked men and other citizens of the United States, temporarily living at Simoda and Hakodadi, shall not be subject to such restrictions and confinement as the Dutch and Chinese are at Nagasaki'. Hakem duzeltmesi: maddenin 'kazazedeler ve gecici olarak oturanlar' kaydi govdede dusmustu, geri konuldu."
+    },
+    {
+      "iddia_id": "i47",
+      "cumle": "Amerikan anlatısında Perry'nin dört savaş gemisi 1853'te uzun süredir yalıtılmış bir ülkenin kapısını açar ve Dejima yalıtımın \"en dikkate değer küçük istisnası\" olarak anılır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Four foreign warships had entered their harbor'; 'Perry had arrived to force the long-secluded country to open its doors'; 'The most notable small exception to the seclusion policy was the continued presence of a Dutch mission confined to Dejima'."
+    },
+    {
+      "iddia_id": "i48",
+      "cumle": "Başat nedeni Batı ve Hristiyanlık etkisinin kazınmasında aramanın Avrupa merkezli bir okuma olduğu ileri sürülmüştür; aynı kaynak bunun Batılılar arasında yaygın bir algı olduğunu da belirtir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'The focus on the removal of Western and Christian influence from the Japanese archipelago as the main driver of the kaikin has been argued to be a somewhat eurocentric reading of Japanese history, although it is a common perception among westerners.' Kaynagin iki yanli ifadesi de metne tasindi."
+    },
+    {
+      "iddia_id": "i49",
+      "cumle": "İktisat tarihi yazımı bile terimi taşımayı sürdürür: dönemi 17. yüzyıl ortasından 1850'lere uzanan uzun bir otarsi çağı olarak tanımlayan anlatım — \"kapalı ülke\" sözünü tırnak içinde verse de — aynı cümlede dönemin yol ağını, sulamasını ve kent üretimini sayar.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'a long period of \"closed country\" autarky between the mid-seventeenth century and the 1850s: a high level of urbanization; well developed road networks; the channeling of river water flow with embankments and the extensive elaboration of irrigation ditches...' Hakem notu: kaynagin kendi tirnak isareti govdeye tasindi."
+    },
+    {
+      "iddia_id": "i50",
+      "cumle": "Kaempfer'in gördüğü düzende saraya gitmek beylerin göreviydi ve yılda bir kez yapılıyordu; dolayısıyla aynı yollar yılda iki kez, gidiş ve dönüş olarak kullanılıyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "'It is their duty to go to court once a year, and to pay their homage and respect to the Secular Monarch... Hence they must frequent these roads twice every year, going up to court and returning from thence.' Pasaj ~666k'da, 400k onbellek siniri otesinde; dok.mjs --tam ile dogrulandi. HAKEM DUZELTMESI: onceki surum bunu atlasin kendi sesiyle veriyordu; sikligi taniga baglandi, cunku 'donusumlu ikamet' adinin ima ettigi ritimle ortusmez."
+    },
+    {
+      "iddia_id": "i51",
+      "cumle": "Düzenin adı dönüşümlü ikamettir (sankin-kōtai) ve yerleşik gerekçesi, beylerin yabancı gemilerle ticaretini kısıtlayan kuralla aynı gerekçedir: hiçbir beyin şogunluğa meydan okuyacak güce erişmemesi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "'By restricting the ability of the daimyo to trade with foreign ships coming to Japan or pursue trade opportunities overseas, the Tokugawa bakufu could ensure none would become powerful enough to challenge the bakufu's supremacy. This is consistent with the generally agreed rationale for the Tokugawa bakufu's implementation of the system of alternate attendance, or sankin-kotai.' Ansiklopedi aktarimidir; kunye notunda beyan edildi."
+    },
+    {
+      "iddia_id": "i52",
+      "cumle": "Aynı bayrağı 1808'de bir İngiliz savaş gemisi de kullandı: Hollanda gemilerini avlayan HMS Phaeton Hollanda bayrağı altında Nagazaki'ye girip erzak istedi ve Japon yetkililer yetişmeden ayrıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'In 1808, the British frigate HMS Phaeton, preying on Dutch shipping in the Pacific, sailed into Nagasaki under a Dutch flag, demanding supplies upon discovering that their prey had already left. The Phaeton sailed away before Japanese authorities arrived from Kyoto.' HAKEM DUZELTMESI: onceki surumde bu cumle dipnotsuz ve matriste kayitsizdi; ayrica 'bayrak firkateyne yaradi' diyerek dusmanca bir baskini duzenin esnekligi gibi gosteriyordu."
+    },
+    {
+      "iddia_id": "i53",
+      "cumle": "üstelik aynı yüzyıl için, iktisat tarihi yazımı hem samuray seçkinler hem de varlıklı köylüler arasında nüfus denetiminin yayılmasını dönemin kazanımları arasında sayar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'the promotion of education and population control among both the military elite (the samurai) and the well-to-do peasantry in the eighteenth and early nineteenth centuries.' Hakem eklemesi: nufus duzlugu icin ikinci bir aciklama kaynakta duruyordu ve govdede yoktu — tek nedenli okumayi kirmak icin eklendi."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 49,
+    "kismi": 4,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "68a36862a7c9",
+      "yeni_hash": "c9a7c24ca9c1",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
+}

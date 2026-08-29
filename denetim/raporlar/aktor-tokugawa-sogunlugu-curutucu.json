@@ -1,20 +1,56 @@
 {
   "id": "aktor-tokugawa-sogunlugu",
   "gecis": 3,
-  "zaman": "2026-08-21T07:36:52.055Z",
+  "zaman": "2026-08-29T16:24:30.730Z",
+  "govde_hash": "68a36862a7c9",
   "itirazlar": [
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Kaynak, şogunluğun kuruluşunu 24 Mart olarak ayrıca tarihler.[^k1] Yani muharebe ile kurumsal kuruluş arasında yaklaşık iki buçuk yıllık bir aralık vardır: zafer tek başına devlet ",
+      "cumle": "Bu tek düzenlemenin iktisadi sonuçları da vardır. Beyin geliri hem başkentteki ikinci haneye hem de iki yönlü yolculuğun masrafına bağlanır; kalabalık maiyetlerin yolları yılda iki",
       "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     },
     {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Defterin ne ürettiğini Kaempfer'in aktardığı Kyoto sayımı gösterir: 1.858 sokak, 138.979 hane, beylerin kentteki 137 konağı, 52.169 din görevlisi ve 477.557 sivil.[^k3] Kaempfer sa",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Bir düzenin sonunun, kendisini deviren olayın sonuç listesinde ilk madde olarak yer alması,[^k2] o olayın kendi anlatısının nasıl kurulduğunu gösterir; olay [Meiji Restorasyonu](/o",
-      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "cumle": "Kapıların iki ucu eşit değildi. Ainularla alışveriş yalnızca Matsumae beyliğiyle sınırlı tutulmuştu; yani kanalın tekeli, karşı taraftaki toplulukta değil bir Japon beyliğindeydi.[",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Düzenin ne kadar esnek olduğunu, kendi yasağını bükme biçimi gösterir. 1797 ile 1809 arasında birkaç Amerikan gemisi, Napolyon savaşları yüzünden kendi gemilerini gönderemeyen Holl",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kapanma anlatısının en zayıf yeri, dönemin ürettiği kentlerdir; [kentleşme](/kavram/kentlesme/) burada kapanmanın istisnası değil, dönemin kendi kazanımları arasında sayılır. Perry",
+      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Kapanma anlatısının en zayıf yeri, dönemin ürettiği kentlerdir; [kentleşme](/kavram/kentlesme/) burada kapanmanın istisnası değil, dönemin kendi kazanımları arasında sayılır. Perry",
+      "sorun": "Makale dogu-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kapanmayı bitirdiği söylenen belge, aslında ne kadar az şey açtığını kendisi yazar. 1854'te imzalanan Kanagawa Antlaşması iki limanı — Shimoda ve Hakodate — Amerikan gemilerine odu",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     }
   ]

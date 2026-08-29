@@ -27,6 +27,7 @@
 //   node araclar/matris.mjs --hepsi        var olan butun matrisleri dogrula
 //   node araclar/matris.mjs --tazele <id>  iddia cumleleri duruyorsa hash'i tazele
 //   node araclar/matris.mjs --cumle-oturt <id>|--hepsi  cumleleri govdeye oturt
+//   node araclar/matris.mjs --eksik-iddia --hepsi      matriste kaydi olmayan dipnotlu cumleler
 import fs from 'node:fs';
 import path from 'node:path';
 import { KOK, makaleleriTopla, RENK } from './ortak.mjs';
@@ -216,6 +217,32 @@ if (process.argv[1]?.endsWith('matris.mjs')) {
     idler = process.argv.slice(2).filter((a) => !a.startsWith('--'));
     if (idler.length === 0) { console.error('kullanim: node araclar/matris.mjs <id> ... | --hepsi'); process.exit(1); }
   }
+  if (process.argv.includes('--eksik-iddia')) {
+    // TERS YONDEKI BOSLUK: govdede dipnotlu bir cumle var ama matriste
+    // kaydi yok. Bu, matrisin sessizce eksik kalmasi demektir — sayaclar
+    // dogru gorunur cunku olmayan iddia sayilmaz. OTOMATIK EKLENMEZ:
+    // destek duzeyi (dogrudan/kismi/baglam) bir HUKUMDUR ve uydurulamaz.
+    // Bu kip yalnizca olcer ve listeler; ekleme hakem isidir.
+    let toplamEksik = 0; let toplamCumle = 0; const dosyalar = [];
+    for (const id of idler) {
+      const matris = matrisOku(id); const makale = haritada.get(id);
+      if (!matris || !makale) continue;
+      const sade = (s) => String(s || '').replace(/\[\^k\d+\]/g, '').replace(/\s+/g, ' ').trim();
+      const kayitli = new Set((matris.iddialar || []).map((i) => sade(i.cumle)));
+      const eksik = iddiaCumleleri(makale.govde).filter((c) => !kayitli.has(sade(c.cumle)));
+      toplamCumle += iddiaCumleleri(makale.govde).length;
+      toplamEksik += eksik.length;
+      if (eksik.length) {
+        dosyalar.push([id, eksik.length]);
+        console.log(`${RENK.sari('EKSIK  ')} ${id.padEnd(34)} ${eksik.length} dipnotlu cumle matriste yok`);
+        for (const e of eksik.slice(0, 3)) console.log(`         ${RENK.gri(`[${e.refs.join(',')}] ${e.cumle.slice(0, 90)}…`)}`);
+      }
+    }
+    console.log(`\n${RENK.gri(`matris kapsami: ${toplamCumle - toplamEksik}/${toplamCumle} dipnotlu cumle matriste kayitli · `
+      + `${toplamEksik} cumle kaydsiz (${dosyalar.length} dosyada) — ekleme hakem isidir, otomatik yapilmaz`)}`);
+    process.exit(0);
+  }
+
   if (process.argv.includes('--cumle-oturt')) {
     let toplamOturan = 0; let toplamBelirsiz = 0; let toplamBulunamayan = 0;
     for (const id of idler) {

@@ -1,13 +1,21 @@
 {
   "id": "olay-atlantik-kole-ticareti",
   "gecis": 3,
-  "zaman": "2026-08-21T07:39:09.929Z",
+  "zaman": "2026-08-29T16:27:58.630Z",
+  "govde_hash": "49994a5230e0",
   "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Aynı yolculuğu çocukken yaşamış bir yazarın anlatısı bu ölçüleri içeriden tarif eder: geminin bütün yükü tek bir yere kapatıldığında hava soluk alınamaz hâle gelmiş, sıcak ve kalab",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Üç aşamanın toplamı dört yüzyılı aşar.[^k1] Bu süre, atlasın kronolojik omurgasında birden fazla dönemi keser ve ticareti tek bir dönemin olayı olmaktan çıkarır.",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "cumle": "Doğum yeri daha yazarın sağlığında çekişme konusu oldu. Anlatının 1793'te çıkan altıncı baskısının önsözünde yazar, 25 Nisan 1792'de Oracle ve 27 Nisan'da Star gazetelerinde çıkan ",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     }
   ]

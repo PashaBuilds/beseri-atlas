@@ -1,0 +1,897 @@
+{
+  "id": "olay-atlantik-kole-ticareti",
+  "govde_hash": "49994a5230e0",
+  "commit": "414e67e",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Avrupalı tüccarlar on beşinci yüzyılda Afrika kıyısında bir köle ticareti kurdu, Amerika'ya taşıma on altıncı yüzyılda başladı ve iş on dokuzuncu yüzyıl boyunca sürdü.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "İktisat tarihi ansiklopedisinin verdiği toplama göre 1500 ile 1900 arasında yaklaşık 12 milyon insan evinden koparılıp batıya götürüldü; yaklaşık 10 milyonu yolculuğu tamamladı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ansiklopedi maddesi 1500-1900 araligi icin 12 ve 10 milyon rakamlarini birebir verir"
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Sefer kayıtlarına dayanan bir başka toplam biraz daha yüksektir: aynı ansiklopedi maddesinin Richard Anderson ve arkadaşlarından (2013) aktardığı hesaba göre yaklaşık 12,5 milyon insan gemilere bindirildi ve sağ çıkan 10,7 milyonu New England'dan Rio de la Plata'ya uzanan bir şeride dağıtıldı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k10",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Rakam ansiklopedide Anderson ve ark. (2013)'ten aktarilir; k10 o makalenin kunye kaydidir ve yazar/yil/dergi/sayfa bilgisini dogrular, ama 12,5 ve 10,7 rakamlarini ozetinde tasimaz. Asil dayanak Slave Voyages veri tabanidir; veri tabani programatik okunamadigi icin dogrudan kullanilamamistir."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "David Eltis'in açıklamasına göre bütün kölelik düzenleri içeridekiyle dışarıdakini ayırır; Avrupa'da önce Hristiyanları köleleştirmeye karşı yerleşik bir inanç vardı, sonra Avrupalılar bu ayrımı kıtanın tamamına yaydı ve bir Avrupalıyı köleleştirmeyi düşünülemez sayarken Afrikalıları dışarıdan sayarak köleleştirilebilir gördü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem: kaynak bu savi Eltis'e atfeder; onceki surumde atif dusurulup cikplak olgu gibi sunulmustu, atif geri konuldu."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Mahkûm emeği gibi ağır çalıştırma biçimleri köle koşullarına yaklaşsa da mal sayılmıyor ve o konum çocuğa geçmiyordu; mal statüsü Avrupalı olmayanlara ayrılmıştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem: onceki surum 'kurek mahkumlugu' yaziyordu; kaynakta 'convict labour' geciyor, 'galley' sozcugu sayfada hic yok. Duzeltildi."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Kaynağın açıklamasına göre sıtma ve sarıhummaya karşı bağışıklıkları olmadığından ölüm oranları yüksekti ve bölge beyaz adamın mezarı diye anılıyordu; kalıcı nüfus yerleştirmek çok pahalıydı, kıyı ticareti ise görece küçük bir varlıkla yürüyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem: curutucunun 'tek kaynakli nedensellik' itirazi karsilandi — nedensellik zinciri kaynagin kendi ifadesine baglandi. 'Avrupa'da anilirdi' ibaresi kaynakta yok, cikarildi."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Bu yüzden Avrupalılar kıyıdaki kalelerde oturur, iç bölgelerden getirilen tutsakları beklerdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Ticaret bir baskın değil bir alışverişti: Afrika'dan köle alanlar yüklerini genellikle Batı ve Orta Afrikalı tüccarlardan satın alıyordu; Avrupalıların doğrudan baskına katılması seyrek görülür, hatta caydırılırdı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Karşılığında tüfek, barut, alkol ve Hindistan'da dokunup çivit mavisine boyanmış kumaşlar veriliyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Portekizliler üslerinde tutsakları bir sonraki gemiye kadar toplamak için barakonlar inşa etti; Kuzey Avrupalılar Altın Sahili'nde kaleler işletti, bu kaleler tüccar için ek masraftı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Kalelerde oturanlar yiyeceği ve yakacağı Afrikalı komşularından, üstelik hangi fiyat isteniyorsa onu ödeyerek sağlıyordu — günlük işleyiş bile yerel pazarlık gücüne dayanıyordu.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kor hakem: kaynaktaki 'which they had to buy at whatever price was demanded' kirpilmisti; geri konuldu. Son cumlecik yazarin cikarimidir."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Dahomey Krallığı savaş tutsaklarını Avrupalı tüccarlara satıyordu; 1718 ile 1740 arasında hüküm süren Kral Agaja, 1724'te Allada'yı ve 1727'de Whydah'ı fethederek ticaret yollarının denetimini eline geçirdi. Aynı kaynak, bu fetihten sonra bölgedeki ticarette bir düşüş gözlendiğini, Agaja'nın ise ticaret için önemli bir altyapı kurup işin içinde etkin yer aldığını da kaydeder; denetimi almakla hacmi büyütmek aynı şey değildir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem: kaynagin kendi cekincesi (fetihten sonra bolgede ticaretin dustugunun gozlenmesi) onceki surumde dusurulmustu; geri konuldu."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Ticaretin içinden yazan tanıklardan biri, Afrika ticaretinde cerrahlık yapmış bir hekimdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Eserin baslik sayfasi yazari Afrika ticaretinde eski cerrah olarak tanitir"
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Verdiği örnek, düzenin kendi ortaklarını da yuttuğunu gösterir: Batı Hint Adaları'nda konuştuğu bir adam, başkalarını kaçırdıktan sonra kendisinin de yakalanıp satıldığını, bunun hemşerileri arasında sık rastlanan bir talih dönüşü olduğunu söylemiştir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Taniginn kendi aktarimidir; ucuncu bir kayitla capraz kontrol edilmemistir"
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Aynı tanık, Bonny'de ticaret kesildiğinde kaçırmanın da durduğunu düşünür; ama bunu kesin bir sonuç değil, \"büyük olasılıkla\" görülen bir etki olarak yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kor hakem: Falconbridge'in kendi cekincesi ('moft probably') onceki surumde dusurulup kesin ifade edilmisti; hem cekince hem yer adi (Bonny) geri konuldu."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Erkekler ikişer ikişer zincirlenip güverte altına indirilir, kadınlar ayrı bir bölmeye demirsiz olarak, oğlanlar üçüncü bir bölmeye yerleştirilirdi; hepsi ayrı bölmelere konurdu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Yerleştirme öyle sıkışıktı ki yan yatmaktan başka bir duruş mümkün olmuyordu ve güverteler arasındaki yükseklik, ızgaranın tam altı dışında, doğrulmaya izin vermiyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Aynı yolculuğu çocukken yaşamış bir yazarın anlatısı bu ölçüleri içeriden tarif eder: geminin bütün yükü tek bir yere kapatıldığında hava soluk alınamaz hâle gelmiş, sıcak ve kalabalık yüzünden herkese kendi ekseninde dönecek kadar bile yer kalmamıştır; bunun sonucunda çıkan hastalıktan pek çok kişi ölmüştür.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birinci agizdan anlati; yazarin kimligi ayrica tartismalidir (bkz. i042, i043) Curutucu 'tek-kaynakli-nedensellik' itirazi (2026-08-29) REDDEDILDI: nedensellik zinciri yazarin degil, taniginn kendi ifadesidir ('brought on a sickness among the slaves, of which many died')."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Aynı anlatı satışı da kaydeder: Bridgetown açıklarında gemiye çıkan tüccarlar ve plantasyon sahipleri tutsakları partilere bölüp tek tek incelemiştir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Yazarın bulunduğu geminin erkekler bölümünde birkaç kardeş vardır ve satışta ayrı partilere düşerler: \"akrabalar ve dostlar, çoğu bir daha görüşmemek üzere ayrılır\".",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Walter Rodney 1972'de ilişkinin eşitsiz olduğunu, Afrikalıların daha gelişmiş Avrupalılarla bir \"sömürge\" ticaretine zorlandığını ve hammadde ile insan verip mamul mal aldığını savundu; ona göre bu alışveriş Afrika'nın azgelişmişliğinin kaynağıydı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Rodney savinin ansiklopedideki aktarimi; asil metin 1972 tarihli kitaptir"
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "John Thornton itiraz etti: Atlantik köle ticareti Afrika ekonomisi için o kadar da belirleyici değildi ve bu dönemde Afrika imalatı sanayi öncesi Avrupa ile rekabet edebilecek durumdaydı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Anne Bailey ise Thornton'ın eşit ortaklık önerisine karşı çıktı: ortaklık sözcüğü eşit şartlar ve eşit etki ima eder; oysa Afrikalıların kendi kıtaları üzerinde büyük etkisi vardı ama ticaretin motorları — sermaye, denizcilik, sigorta, plantasyon düzenleri — üzerinde hiçbir etkileri yoktu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem: Bailey'in kendi ayrimi ('kitada buyuk etki / ticaretin motorlarinda hicbir etki') kirpilmisti; geri konuldu."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Nüfus tarafında da tek bir açıklama yoktur: Joseph Miller Batı Orta Afrika örneğinde iç etkenleri öne çıkarır, Joseph Inikori ise Atlantik ticareti hiç olmasaydı nüfusun nasıl seyredeceğini kestirmeye dayanan başka bir yol dener.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "İktisat tarihçilerinin ansiklopedi maddesi 1500 ile 1900 arası için yaklaşık 12 ve 10 milyon der.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem: k2 aralik ve rakamlari birebir tasir. Karsilastirma artik iki degil uc toplam uzerinden kuruluyor (bkz. i049)."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Ticaretin Amerika Birleşik Devletleri'ne yönelen kolu kapandığında, Yeni Dünya'ya çıkarılan Afrikalıların yalnızca yüzde 6 kadarı Kuzey Amerika'ya gelmişti.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "1807 tartışmasında ticaretin sürmesini isteyen bir üye, sömürgelerin yılda 7000'den fazla köle ithaline ihtiyaç duymayacağını öne sürerek ölçüyü küçültmeye çalışıyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tutanaktaki uyenin kendi tahminidir, dogrulanmis bir olcum degildir"
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "23 Şubat 1807 gecesi Avam Kamarası bölündü ve tasarı 283 kabule karşı 16 retle, yani 267 çoğunlukla geçti.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Ticaretin sürmesini savunan bir üyenin gerekçesi ahlaki değil mülkiyete dairdi: kaldırmanın sömürgecilere vereceği zararın 90 milyon sterlinlik bir mülke dokunduğunu, tasarıyı savunan lordun bu kaybı hiç hesaba katmadığını ileri sürdü.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kor hakem: onceki surum 'Karsi cikanlarin gerekcesi' diye genellemisti; 16 ret oyu veren uyelerin tamamina mal edilemez, tek konusmaciya baglandi. Rakam da o uyenin iddiasidir, bagimsiz degerleme degildir."
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Aynı oturumda Earl Percy, 1810 yılbaşından sonra doğacak her çocuğun özgür sayılmasını önerdi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Öneri tasarının kapsamı dışındaydı: yasa köleliği değil, insan taşımacılığını hedefliyordu.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Tutanak oneriyi kaydeder; yasanin kapsamina dair bu okuma yazarin cikarimidir"
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Manning adlı üye ise tasarı yasalaşırsa zarar görecek sınıflara tazminat konusunu görüşecek bir komisyon isteyeceğini duyurdu; saydığı gruplar arasında kraliyet izniyle ya da parlamentonun güvencesine dayanarak toprak edinenler ve isyanlarda mülkü zarar görenler vardı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Son cumledeki bugune baglama yazarin yorumudur"
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Yaklaşık dört yüzyıl süren bu trafikte taşınanların dörtte birinden fazlası, yani 3,2 milyon insan, 1807'deki Britanya yasağından sonra, ticaretin yasa dışı sayıldığı ve bastırılmaya çalışıldığı dönemde gemilere bindirildi; yaklaşık 2,8 milyonu yolculuktan sağ çıktı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem: kaynak 'almost four hundred years' der. 2026-08-29 derinlestirme: cumledeki 175.000 ibaresi cikarilip asil makaleye (i055) tasindi; 3,2 ve 2,8 milyon ansiklopedik aktarimda kaldi ve aktarim halkasi govdede beyan edildi (i054)."
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "19 Mart 1850'de Avam Kamarası filonun sürdürülmesini tartıştı; tutanağa göre Afrika'nın batı kıyısında yirmi altı gemi görevliydi, başka istasyonlardakiler eklenince kuvvet otuz dokuz kırk gemiyi buluyordu, bu donanmanın dörtte biri demekti ve yıllık maliyet 700.000 sterlindi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "2026-08-29 derinlestirme: onceki surumdeki 'Bati Afrika Filosu 1808'de kuruldu, 1848'de ~25 gemi, 1800-1867 arasi 1596 gemi alikonuldu' cumlesi tumuyle Wikipedia'ya bagliydi. Yerine 1850 tutanaginin kendi sayilari konuldu."
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Küba'ya ulaştığı bilinen son köle gemisi 1867'de sefer yaptı; adadaki kölelik ancak 1886'da kaldırıldı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Eric Williams'ın savına göre Britanya'nın şeker sömürgelerinden ve köle ticaretinden elde ettiği kâr Sanayi Devrimi'nin finansmanına katkıda bulundu; ticaretin 1807'de, köleliğin 1833'te sona erdirildiği tarihlerde ise Batı Hint Adaları'ndaki şeker plantasyonları kârlılığını yitirmişti, dolayısıyla kaldırma Britanya'nın iktisadi çıkarınaydı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Williams savinin ansiklopedideki ozeti; asil metin 1944 tarihli kitaptir"
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "David Richardson, köle ticaretinden gelen kârın Britanya'daki yurt içi yatırımın yüzde 1'inden azına denk geldiği sonucuna vardı",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kor hakem: kaynakta birebir. Ayni pasajdaki ikinci itirazci (Engerman) onceki surumde dusmustu; i050 olarak geri konuldu."
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Seymour Drescher ve Robert Anstey ise ticaretin sonuna kadar kârlı kaldığını, dolayısıyla kaldırmanın nedeninin iktisadi teşvik değil ahlaki reform olduğunu savundu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Drescher tartışmayı 1986'da Slavery & Abolition'da yeniden ele alıp düşüş tezinin Econocide'dan sonraki durumunu değerlendirdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref kaydi yazar, yil, dergi ve basligi dogrular; makalenin ic degerlendirmesi kayittan okunamaz"
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Karşı taraftan da, Econocide'ın incelemesi 1823'te bittiği için Williams savının asıl gövdesine dokunmadığı öne sürüldü.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Karl Marx, Kapital'in birinci cildinde dört uğrağı birlikte sayar: Amerika'da altın ile gümüşün bulunması, yerli nüfusun kökünün kazınması, köleleştirilmesi ve madenlere gömülmesi, Doğu Hint Adaları'nın fethine ve yağmasına girişilmesi, Afrika'nın kara derili insan avı için av sahasına çevrilmesi — ona göre ilkel birikimin başlıca uğrakları bunlardır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem: Marx dort ugrak sayar; onceki surum ucunu verip Dogu Hint Adalari maddesini ve 'kokunun kazinmasi/madenlere gomulmesi' ibarelerini dusurmustu. Liste tamamlandi."
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Ticaretin içinden gelen tanıklıklardan biri, 1789'da yayımlanan bir öz yaşam anlatısıdır; yazarı Britanya'da dersler verdi, hükûmete mektuplar yazdı ve Sons of Africa adlı, on iki Afrikalı erkekten kurulu kaldırmacı topluluğun üyesiydi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem: onceki surumdeki 'en cok okunan taniklik' ustunluk iddiasi kaynakta yok, kaldirildi. Toplulugun tanimi (on iki Afrikali erkek) kaynaktan eklendi."
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Metnin kendisi yazarın Benin'in uzağındaki Eboe bölgesinde, Essaka adlı bir vadide 1745'te doğduğunu söyler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metnin kendi beyanidir; beyanin dogrulugu i042 ve i043teki tartismanin konusudur"
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "1999'da Vincent Carretta'nın Slavery & Abolition dergisinde yayımladığı yazının başlığı soruyu iki adla kurar: Olaudah Equiano mu, Gustavus Vassa mı?",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref kaydi yazar, yil, dergi ve basligi dogrular; yazinin savi ve etkisi kayittan okunamaz"
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Paul Lovejoy aynı dergide 2006'da otuz sayfayı aşan bir yazı yayımladı; başlığı aynı iki adı ters sırada kurar ve yazarı \"the African\" olarak niteler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kor hakem: onceki surum 'karsi yazi' diyordu — Crossref kaydi yalnizca yazar/yil/dergi/sayfa/baslik tasir, bir yazinin otekine cevap oldugunu tasimaz. Iddia kaydin tasidigina cekildi ve sinir govdede beyan edildi. Sayfa araligi 317-347 = 31 sayfa, dogrulandi."
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Hollanda hükûmeti 2023'te rolü için tam bir özür diledi ama kendi kurduğu komisyonun önerisine rağmen tazminat ödemeyi reddetti; Fransa 2001'de köleliği insanlığa karşı suç olarak tanımladı, resmî bir özür dilemedi; ABD Temsilciler Meclisi 2008'de bir özür kararı kabul etti; Portekiz hükûmeti 2024'te kendi cumhurbaşkanının özür ve tazminat önerisini geri çevirdi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem: kaynagin listesinden dusmus olan Portekiz 2024 maddesi geri konuldu."
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "Britanya derin üzüntünün ötesine geçmedi, tam bir özürden kaçındı ve kölelik ile köle ticaretindeki payı için parasal ödeme niyeti bulunmadığını doğruladı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem: kaynagin 'avoided making a full apology' ibaresi eksikti, eklendi."
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "Bu düzeni okulda öğretilen üçgen şemayla özetlemek yanıltır: kaynağa göre üçgen rotayı seferlerin yalnızca bir kısmı, özellikle erken evrede kullandı; en büyük köle limanları Güney Amerika'daydı ve Yeni Dünya limanlarına bağlı gemilerin muhtemelen Avrupa limanlarına bağlı olanlardan daha çok insan taşıdığı düşünülüyor.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem ekledi: kaynagin girisi 'Some voyages used the triangular trade route... particularly in the early phases' ve 'largest slave trading ports were in South America' der. Ucgen semasinin sinirini gosteren bu kayit onceki surumde hic yoktu."
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Genel ansiklopedi maddesi ise tek bir sayıda durmaz: bir yerde Anderson ve arkadaşlarının 12,5 ve 10,7 milyonunu aktarır, başka bir yerde \"bugünkü tahmin\" diye yaklaşık 12,75 milyon bindirilen insan ve bunların en çok 2 milyonunun yolda öldüğü rakamını verir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem ekledi: kaynagin giris bolumu 'The current estimate is that about 12.75 million Africans were loaded onto slave ships... Of these, up to 2 million died during the voyage' der. Onceki surum 12,5'i 'guncel tahmin' diye sunarak ayni kaynagin kendi guncel rakamini gizliyordu."
+    },
+    {
+      "iddia_id": "i050",
+      "cumle": "Stanley Engerman, ticaretin kendi maliyetleri hiç düşülmeden bile köle ticareti ile Batı Hint plantasyonlarından gelen kârın Sanayi Devrimi'nin herhangi bir yılında Britanya ekonomisinin yüzde 5'inden azını tuttuğunu buldu; kaynak bu oranın Williams'a olabildiğince cömert bir üst sınır olduğunu ayrıca belirtir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem ekledi: kaynak Richardson ile Engerman'i ayni pasajda sayar; onceki surum Engerman'i (ve kaynagin bu rakamin ust sinir oldugu uyarisini) tumden dusurmustu."
+    },
+    {
+      "iddia_id": "i051",
+      "cumle": "Liste Avrupa'da kapanmaz: ticarette geçmişi olan Afrika ülkelerinin çoğu özür dilemekten kaçındı, ama Gana Cumhurbaşkanı Jerry Rawlings 1994'te, Benin cumhurbaşkanı 1999'da Afrikalı Amerikalılara özür diledi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem ekledi: kaynagin ozur listesinde bulunan Afrika ayagi onceki surumde tumden dusmustu — dosyanin kendi 'kiyida kurulan ortaklik' savi dusunuldugunde bu kirpma anlatiyi zayiflatiyordu."
+    },
+    {
+      "iddia_id": "i052",
+      "cumle": "Sefer veri tabanını inceleyen bir tarihçi de aynı yöne işaret eder: Köle Sahili, Dahomey yükselmeden önce, 1696 ile 1730 arasında taşınanların üçte birini veriyordu; sonra bu üstünlüğünü yitirdi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k14",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "2026-08-29 derinlestirme: Dahomey pasaji tumuyle Wikipedia'ya baglilyken, Fuglestad'in bolum ozeti hem Kole Sahili payini hem Dahomey sonrasi gorece dususu bagimsiz olarak tasiyor."
+    },
+    {
+      "iddia_id": "i053",
+      "cumle": "Sefer kayıtlarını gemi gemi derleyen veri tabanını kullanan bir tarihçi, veri tabanının sınırlı olduğunu belirterek bindirilenleri 12 milyon ya da daha çok diye verir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k14",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydinin ozeti 'The monumental Trans-Atlantic Slave Trade database has its limitations' ve '12 million (or more) slaves embarked from Africa for America' ibarelerini birebir tasir."
+    },
+    {
+      "iddia_id": "i054",
+      "cumle": "Bu toplamların hepsi aynı halkadan geçer. Asıl dayanak, sefer kayıtlarını gemi gemi derleyen bir veri tabanıdır; veri tabanının arayüzü programatik olarak okunamadığı için buradaki milyonlu rakamlar onun ansiklopedik ve akademik aktarımlarından alınmıştır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k14",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dosyanin kendi kaynak zincirine dair yontem beyani; olculemez sinifta birakildi. Olculdu: slavevoyages.org programatik fetch'te 16 karakter donduruyor (istemci tarafinda ciziliyor), bu yuzden kunyeye alinamadi. Aktarim halkasi gizlenmek yerine yaziya kondu."
+    },
+    {
+      "iddia_id": "i055",
+      "cumle": "Serbest bırakılanların sayısı asıl kaynağından okunabiliyor: 1808 ile 1862 arasında, çoğu Britanya donanmasından subaylar Atlantik köle gemilerinden yaklaşık 175.000 kişiyi kurtardı ve bu insanların yarısından fazlasının kaydı ciltli defterlerde durmaktadır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "2026-08-29 derinlestirme: 175.000 rakami Wikipedia'dan alinip asil makalenin Crossref ozetine tasindi — ozet 'Between 1808 and 1862... liberated approximately 175,000 enslaved Africans' ve 'Information on more than half of this group has survived in bound ledger books' cumlelerini birebir tasir."
+    },
+    {
+      "iddia_id": "i056",
+      "cumle": "2024'te yayımlanan bir tarama ise 1800 sonrasında köle ticaretinden alınıp sözleşmeli emeğe koşulanların 700.000'i aştığını, Britanya'nın bunun üçte birini sağladığını bildirir; o tarama bütün okyanusları ve 1920'ye kadarki yüzyılı kapsar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k13",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Past & Present 269 (2024) kaydinin ozeti rakami ve Britanya payini birebir tasir. Kapsam farki (kuresel, 1800-1920, butun okyanuslar) govdede aciken belirtildi; i055 ile ayni seyi olcmuyorlar."
+    },
+    {
+      "iddia_id": "i057",
+      "cumle": "Alıkoyma sayıları da verildi: 1830 ile 1838 arasında yalnızca 166 köle gemisi yakalanmışken, arama yetkisini genişleten düzenlemelerden sonraki on yılda sayı 625'e çıkmıştı; Küba'ya yılda 40.000 dolayında olan giriş son hesaplara göre 1.500'ü aşmıyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tutanaktaki bir uyenin sundugu resmi rakamlardir; bagimsiz bir olcum degil, oturumda one surulen veridir. Kuba rakami 'according to the latest accounts' kaydiyla verilir."
+    },
+    {
+      "iddia_id": "i058",
+      "cumle": "Filonun işe yarayıp yaramadığı oturumun kendi konusuydu: kimi konuşmacı ticaretin hiç kesilmediğini söyleyip filoyu kaldırmak istedi, kimi bu sayıları gösterip karşı çıktı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tutanakta iki taraf da vardir: filonun kaldirilmasini isteyen konusmacilar 'the slave trade has gone on uninterruptedly' der, karsi taraf yakalama sayilarini one surer."
+    },
+    {
+      "iddia_id": "i059",
+      "cumle": "Anlatının 1793'te çıkan altıncı baskısının önsözünde yazar, 25 Nisan 1792'de Oracle ve 27 Nisan'da Star gazetelerinde çıkan bir iddianın, itibarını zedelemek ve kitabın satışını engellemek amacıyla kendisinin Batı Hint Adaları'ndaki Danimarka adası Santa Cruz'da doğduğunu ileri sürdüğünü yazar; cevabı bir belge değil bir tanık çağrısıdır — İngiltere'ye ilk geldiğinde onu tanıyan ve o sırada Afrika dilinden başka dil konuşmadığına şahit olabilecek kişilere başvurur, dipnotta adlarını sayar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "2026-08-29 derinlestirme: kimlik bolumunun omurgasi iki Crossref ustveri kaydindan alinip birincil metne tasindi. 1793 baskisinin 'TO THE READER' onsozu gazete adlarini, tarihleri, isnadi ve yazarin cevabini birebir tasir. Yazarin kendi beyanidir; iddianin dogrulugunu degil, tartismanin 1792'de zaten var oldugunu kanitlar. Curutucu 'ustunluk-iddiasi' itirazi REDDEDILDI: 'ilk' sozcugu 'Ingiltere'ye ilk geldiginde' kalibinda gecer ve kaynagin kendi ifadesinin ('when I first arrived in England') karsiligidir, oncelik iddiasi degildir."
+    },
+    {
+      "iddia_id": "i060",
+      "cumle": "Künye kayıtları yazıların tarihini, dergisini, başlığını ve kaynakçasını verir: Carretta'nın dokuz maddelik listesi köle ticareti istatistikleri ve belge derlemeleri çevresindedir, Lovejoy'un altmış maddelik listesi ise Igbo ve Yoruba dil ve etnografya çalışmalarına dayanır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kayitlari yalnizca baslik/yil degil tam kaynakca listesini de tasir: Carretta'da 9 kayit (Virginia Slave-Trade Statistics, Donnan'in belge derlemesi vb.), Lovejoy'da 60 kayit (Dictionary of Modern Yoruba, Igbo Roots of Olaudah Equiano vb.). Iki yazinin savi degil, dayandiklari malzeme turu okunmustur."
+    },
+    {
+      "iddia_id": "i061",
+      "cumle": "UNESCO'nun 1994'te başlattığı Köleleştirilmiş Halkların Yolları programı, kendi kaydında onarıcı adalet ve ortak iyileşme girişimlerini desteklediğini belirtir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k15",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kurumun kendi sayfasi: 'Launched in 1994' ve 'promote initiatives on reparatory justice and collective healing'. Ozur/tazminat gundeminin kurumsal cercevesi artik Wikipedia'ya degil kuruma bagli."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 56,
+    "kismi": 3,
+    "desteksiz": 0,
+    "olculemez": 2
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "5 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "93da5bd90d89",
+      "yeni_hash": "49994a5230e0",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
+}

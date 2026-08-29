@@ -1,13 +1,66 @@
 ## olay-atlantik-kole-ticareti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:43.813Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T16:29:09.125Z_
 
-- [ATOMSUZ] k1 → "yüzyıl boyunca sürdü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Üç aşamanın toplamı dört yüzyılı aşar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Ticaret hem Avrupa'dan hem Yeni Dünya'dan gelen köle gemileriyle yürütülüyordu; bazı seferler, özellikle erken…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir ticaretin kendi adlandırılmış rotasına sahip olması, onu tekil seferlerin toplamı değil kurumsallaşmış bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Aynı madde, kölelik başlığı altında başka düzenleri de sıralar: Abbâsî Hilafeti'nde, Endülüs'te, Râşidîn ve Em…" — 1 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k2 → "Ticaretin yöneldiği kıtadaki düzen, en geniş noktasında 13,7 milyon kilometrekare alan kaplayan ve Amerika, Af…" — 4 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1600'de yaklaşık 516,1 milyon, 1848'de yaklaşık 1,27 milyardır."
-- [ATOMSUZ] k1 → "Ticaretin bölge bölge dökümü, gemi kayıtları, kaldırılma süreci ve toplumsal sonuçları burada ayrı başlıklar a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Avrupalı tüccarlar on beşinci yüzyılda Afrika kıyısında bir köle ticareti kurdu, Amerika'ya taşıma on altıncı …"
+- [OK]      k2 → "İktisat tarihi ansiklopedisinin verdiği toplama göre 1500 ile 1900 arasında yaklaşık 12 milyon insan evinden k…"
+- [OK]      k1 → "Sefer kayıtlarına dayanan bir başka toplam biraz daha yüksektir: aynı ansiklopedi maddesinin Richard Anderson …"
+- [OK]      k1 → "David Eltis'in açıklamasına göre bütün kölelik düzenleri içeridekiyle dışarıdakini ayırır; Avrupa'da önce Hris…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Mahkûm emeği gibi ağır çalıştırma biçimleri köle koşullarına yaklaşsa da mal sayılmıyor ve o konum çocuğa geçm…" — programatik olarak ölçülemedi (ad karşılığı yok): Avrupalı
+- [OK]      k1 → "Bu düzeni okulda öğretilen üçgen şemayla özetlemek yanıltır: kaynağa göre üçgen rotayı seferlerin yalnızca bir…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Kaynağın açıklamasına göre sıtma ve sarıhummaya karşı bağışıklıkları olmadığından ölüm oranları yüksekti ve bö…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu yüzden Avrupalılar kıyıdaki kalelerde oturur, iç bölgelerden getirilen tutsakları beklerdi." — programatik olarak ölçülemedi (ad karşılığı yok): Avrupalılar
+- [OK]      k1 → "Ticaret bir baskın değil bir alışverişti: Afrika'dan köle alanlar yüklerini genellikle Batı ve Orta Afrikalı t…"
+- [OK]      k1 → "Karşılığında tüfek, barut, alkol ve Hindistan'da dokunup çivit mavisine boyanmış kumaşlar veriliyordu."
+- [ATOMSUZ] k1 → "Portekizliler üslerinde tutsakları bir sonraki gemiye kadar toplamak için barakonlar inşa etti; Kuzey Avrupalı…" — programatik olarak ölçülemedi (ad karşılığı yok): Kuzey, Avrupalılar, Altın, Sahili
+- [OK]      k1 → "Kalelerde oturanlar yiyeceği ve yakacağı Afrikalı komşularından, üstelik hangi fiyat isteniyorsa onu ödeyerek …"
+- [OK]      k1 → "Dahomey Krallığı savaş tutsaklarını Avrupalı tüccarlara satıyordu; 1718 ile 1740 arasında hüküm süren Kral Aga…" — 5 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Aynı kaynak, bu fetihten sonra bölgedeki ticarette bir düşüş gözlendiğini, Agaja'nın ise ticaret için önemli b…"
+- [OK]      k14 → "Sefer veri tabanını inceleyen bir tarihçi de aynı yöne işaret eder: Köle Sahili, Dahomey yükselmeden önce, 169…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Ticaretin içinden yazan tanıklardan biri, Afrika ticaretinde cerrahlık yapmış bir hekimdi."
+- [OK]      k4 → "Verdiği örnek, düzenin kendi ortaklarını da yuttuğunu gösterir: Batı Hint Adaları'nda konuştuğu bir adam, başk…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Aynı tanık, Bonny'de ticaret kesildiğinde kaçırmanın da durduğunu düşünür; ama bunu kesin bir sonuç değil, "bü…"
+- [ATOMSUZ] k4 → "Erkekler ikişer ikişer zincirlenip güverte altına indirilir, kadınlar ayrı bir bölmeye demirsiz olarak, oğlanl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Yerleştirme öyle sıkışıktı ki yan yatmaktan başka bir duruş mümkün olmuyordu ve güverteler arasındaki yüksekli…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Aynı yolculuğu çocukken yaşamış bir yazarın anlatısı bu ölçüleri içeriden tarif eder: geminin bütün yükü tek b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Aynı anlatı satışı da kaydeder: Bridgetown açıklarında gemiye çıkan tüccarlar ve plantasyon sahipleri tutsakla…"
+- [ATOMSUZ] k3 → "Yazarın bulunduğu geminin erkekler bölümünde birkaç kardeş vardır ve satışta ayrı partilere düşerler: "akrabal…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Walter Rodney 1972'de ilişkinin eşitsiz olduğunu, Afrikalıların daha gelişmiş Avrupalılarla bir "sömürge" tica…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "John Thornton itiraz etti: Atlantik köle ticareti Afrika ekonomisi için o kadar da belirleyici değildi ve bu d…"
+- [OK]      k1 → "Anne Bailey ise Thornton'ın eşit ortaklık önerisine karşı çıktı: ortaklık sözcüğü eşit şartlar ve eşit etki im…"
+- [OK]      k1 → "Nüfus tarafında da tek bir açıklama yoktur: Joseph Miller Batı Orta Afrika örneğinde iç etkenleri öne çıkarır,…"
+- [OK]      k2 → "İktisat tarihçilerinin ansiklopedi maddesi 1500 ile 1900 arası için yaklaşık 12 ve 10 milyon der."
+- [OK]      k14 → "Sefer kayıtlarını gemi gemi derleyen veri tabanını kullanan bir tarihçi, veri tabanının sınırlı olduğunu belir…"
+- [OK]      k1 → "Genel ansiklopedi maddesi ise tek bir sayıda durmaz: bir yerde Anderson ve arkadaşlarının 12,5 ve 10,7 milyonu…"
+- [OK]      k2 → "Ticaretin Amerika Birleşik Devletleri'ne yönelen kolu kapandığında, Yeni Dünya'ya çıkarılan Afrikalıların yaln…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "1807 tartışmasında ticaretin sürmesini isteyen bir üye, sömürgelerin yılda 7000'den fazla köle ithaline ihtiya…"
+- [OK]      k5 → "23 Şubat 1807 gecesi Avam Kamarası bölündü ve tasarı 283 kabule karşı 16 retle, yani 267 çoğunlukla geçti." — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k5 → "Ticaretin sürmesini savunan bir üyenin gerekçesi ahlaki değil mülkiyete dairdi: kaldırmanın sömürgecilere vere…"
+- [OK]      k5 → "Aynı oturumda Earl Percy, 1810 yılbaşından sonra doğacak her çocuğun özgür sayılmasını önerdi."
+- [ATOMSUZ] k5 → "Öneri tasarının kapsamı dışındaydı: yasa köleliği değil, insan taşımacılığını hedefliyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Manning adlı üye ise tasarı yasalaşırsa zarar görecek sınıflara tazminat konusunu görüşecek bir komisyon istey…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Yaklaşık dört yüzyıl süren bu trafikte taşınanların dörtte birinden fazlası, yani 3,2 milyon insan, 1807'deki …"
+- [OK]      k10 → "Serbest bırakılanların sayısı asıl kaynağından okunabiliyor: 1808 ile 1862 arasında, çoğu Britanya donanmasınd…"
+- [OK]      k13 → "2024'te yayımlanan bir tarama ise 1800 sonrasında köle ticaretinden alınıp sözleşmeli emeğe koşulanların 700.0…"
+- [OK]      k11 → "19 Mart 1850'de Avam Kamarası filonun sürdürülmesini tartıştı; tutanağa göre Afrika'nın batı kıyısında yirmi a…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k11 → "Alıkoyma sayıları da verildi: 1830 ile 1838 arasında yalnızca 166 köle gemisi yakalanmışken, arama yetkisini g…" — 6 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k11 → "Filonun işe yarayıp yaramadığı oturumun kendi konusuydu: kimi konuşmacı ticaretin hiç kesilmediğini söyleyip f…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Küba'ya ulaştığı bilinen son köle gemisi 1867'de sefer yaptı; adadaki kölelik ancak 1886'da kaldırıldı."
+- [OK]      k1 → "Eric Williams'ın savına göre Britanya'nın şeker sömürgelerinden ve köle ticaretinden elde ettiği kâr Sanayi De…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "David Richardson, köle ticaretinden gelen kârın Britanya'daki yurt içi yatırımın yüzde 1'inden azına denk geld…"
+- [OK]      k1 → "Seymour Drescher ve Robert Anstey ise ticaretin sonuna kadar kârlı kaldığını, dolayısıyla kaldırmanın nedenini…"
+- [OK]      k9 → "Drescher tartışmayı 1986'da Slavery & Abolition'da yeniden ele alıp düşüş tezinin Econocide'dan sonraki durumu…"
+- [OK]      k1 → "Karşı taraftan da, Econocide'ın incelemesi 1823'te bittiği için Williams savının asıl gövdesine dokunmadığı ön…"
+- [OK]      k6 → "Karl Marx, Kapital'in birinci cildinde dört uğrağı birlikte sayar: Amerika'da altın ile gümüşün bulunması, yer…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Ticaretin içinden gelen tanıklıklardan biri, 1789'da yayımlanan bir öz yaşam anlatısıdır; yazarı Britanya'da d…"
+- [OK]      k3 → "Metnin kendisi yazarın Benin'in uzağındaki Eboe bölgesinde, Essaka adlı bir vadide 1745'te doğduğunu söyler."
+- [ISARET]  k12 → "Anlatının 1793'te çıkan altıncı baskısının önsözünde yazar, 25 Nisan 1792'de Oracle ve 27 Nisan'da Star gazete…" — özel isim kaynakta bulunamadı: Nisan
+- [OK]      k7 → "1999'da Vincent Carretta'nın Slavery & Abolition dergisinde yayımladığı yazının başlığı soruyu iki adla kurar:…"
+- [OK]      k8 → "Paul Lovejoy aynı dergide 2006'da otuz sayfayı aşan bir yazı yayımladı; başlığı aynı iki adı ters sırada kurar…"
+- [OK]      k7 → "Künye kayıtları yazıların tarihini, dergisini, başlığını ve kaynakçasını verir: Carretta'nın dokuz maddelik li…"
+- [OK]      k8 → "Künye kayıtları yazıların tarihini, dergisini, başlığını ve kaynakçasını verir: Carretta'nın dokuz maddelik li…"
+- [OK]      k15 → "UNESCO'nun 1994'te başlattığı Köleleştirilmiş Halkların Yolları programı, kendi kaydında onarıcı adalet ve ort…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Devletlerin tutumu dağınıktır: Hollanda hükûmeti 2023'te rolü için tam bir özür diledi ama kendi kurduğu komis…" — 6 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Britanya derin üzüntünün ötesine geçmedi, tam bir özürden kaçındı ve kölelik ile köle ticaretindeki payı için …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Liste Avrupa'da kapanmaz: ticarette geçmişi olan Afrika ülkelerinin çoğu özür dilemekten kaçındı, ama Gana Cum…" — 4 atom doğrulandı; 2 ad ölçülemedi
 
-**Özet:** 4 OK · 0 ISARET · 0 HATA · 4 ATOMSUZ
+**Özet:** 48 OK · 1 ISARET · 0 HATA · 12 ATOMSUZ

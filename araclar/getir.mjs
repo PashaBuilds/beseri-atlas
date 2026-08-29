@@ -136,6 +136,17 @@ export function normalize(s) {
     .replace(/ı/g, 'i').replace(/İ/g, 'i').replace(/i̇/g, 'i')
     .replace(/[’'`´]/g, "'")
     .replace(/[—–−]/g, '-')
+    // ARAPCA NORMALLESTIRME (2026-08-29, ajan olcumu). Harekeler ve tatvil
+    // \p{L}/\p{N} olmadigi icin asagidaki suzgecte BOSLUGA cevriliyordu:
+    // "إِنْكَارِ نَسَبِهِمْ" -> "إ ن ك ار ن س ب ه م". Yani harekeli bir kaynakta
+    // Arapca hicbir dize bulunamiyordu ve bu SESSIZ bir yanlis-negatifti —
+    // Arapca birincil kaynaklar mekanik katmana kapaliydi. Harekeler artik
+    // silinir (bosluga cevrilmez) ve elif/te merbuta/elif maksura
+    // varyantlari katlanir; bu, Arapca metin islemenin standart yontemidir.
+    .replace(/[\u064B-\u0652\u0670\u0640]/g, '')
+    .replace(/[أإآٱ]/g, 'ا')
+    .replace(/ة/g, 'ه')
+    .replace(/ى/g, 'ي')
     .replace(/[^\p{L}\p{N}\s'-]/gu, ' ')
     .replace(/\s+/g, ' ')
     .trim();

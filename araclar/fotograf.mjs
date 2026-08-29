@@ -11,6 +11,7 @@ import { KOK, makaleleriTopla } from './ortak.mjs';
 import { kelimeSay, HEDEFLER } from './linter-derinlik.mjs';
 import { kalipSay } from './linter-dil.mjs';
 import { MATRIS_DIZINI, matrisOku, matrisiDogrula, sayaclariHesapla } from './matris.mjs';
+import { iddiaCumleleri } from './denetle.mjs';
 import { kaynakDenetimi } from './linter-kaynak.mjs';
 
 // Hedefler KAPI 11'in KENDI tablosundan gelir (sartname §3'ten birebir
@@ -42,15 +43,30 @@ export function fotograf() {
   const harita = new Map(ms.map((m) => [m.fm.id, m]));
   let gecerli = 0, bayat = 0, hakemli = 0;
   const sayac = { dogrudan: 0, kismi: 0, desteksiz: 0, olculemez: 0 };
+  // Matris katmaninin IKI YONLU butunlugu. Ikisi de 2026-08-29'da olculdu
+  // ve ikisi de sessizdi: sayaclar dogru gorunuyordu cunku olmayan iddia
+  // sayilmaz, kayan cumle de hash'e takilmaz.
+  //   kayanCumle : matriste kayitli ama govdede bulunamayan iddia cumlesi
+  //   kaydsizCumle: govdede dipnotlu ama matriste kaydi olmayan cumle
+  let kayanCumle = 0, kaydsizCumle = 0, dipnotluCumle = 0;
+  const sade = (s) => String(s || '').replace(/\[\^k\d+\]/g, '').replace(/\s+/g, ' ').trim();
   for (const id of matrisler) {
     const mat = matrisOku(id);
     if (!mat) continue;
     if (String(mat.hakem || '').startsWith('kor-hakem')) hakemli += 1;
     const s = sayaclariHesapla(mat.iddialar || []);
     for (const k of Object.keys(sayac)) sayac[k] += s[k];
-    const d = matrisiDogrula(mat, harita.get(id) || null);
+    const makale = harita.get(id) || null;
+    const d = matrisiDogrula(mat, makale);
     if (d.gecerli) gecerli += 1;
     if (d.bayat) bayat += 1;
+    if (makale) {
+      kayanCumle += d.kayipCumle || 0;
+      const kayitli = new Set((mat.iddialar || []).map((i) => sade(i.cumle)));
+      const cumleler = iddiaCumleleri(makale.govde);
+      dipnotluCumle += cumleler.length;
+      kaydsizCumle += cumleler.filter((c) => !kayitli.has(sade(c.cumle))).length;
+    }
   }
 
   // Mekanik denetim raporlari (Gecis 2): atom sayaclari.
@@ -91,7 +107,7 @@ export function fotograf() {
     hedefAlti: Object.values(tipler).reduce((a, g) => a + g.hedefAlti, 0),
     toplamAcik: Object.values(tipler).reduce((a, g) => a + g.acik, 0),
     dil: { kalipToplam, kalipliDosya },
-    matris: { dosya: matrisler.length, gecerli, bayat, korHakemli: hakemli, sayac },
+    matris: { dosya: matrisler.length, gecerli, bayat, korHakemli: hakemli, sayac, kayanCumle, kaydsizCumle, dipnotluCumle },
     atom: { raporlu, ok, hata, isaret, atomsuz },
     kaynak: kaynakOlcum,
   };
@@ -109,6 +125,8 @@ if (process.argv[1]?.endsWith('fotograf.mjs')) {
   console.log(`\nkor hakemden gecmis makale: ${f.matris.korHakemli} · gecerli matris ${f.matris.gecerli}/${f.matris.dosya} · bayat ${f.matris.bayat}`);
   const s = f.matris.sayac;
   console.log(`hakem katmani iddialari: ${s.dogrudan} dogrudan · ${s.kismi} kismi · ${s.desteksiz} desteksiz · ${s.olculemez} olculemez`);
+  console.log(`matris butunlugu: ${f.matris.kayanCumle} kayan cumle (matriste var, govdede yok) · `
+    + `${f.matris.kaydsizCumle}/${f.matris.dipnotluCumle} dipnotlu cumle matriste kaydsiz`);
   console.log(`mekanik atom katmani: ${f.atom.ok} OK · ${f.atom.hata} HATA · ${f.atom.isaret} ISARET · ${f.atom.atomsuz} ATOMSUZ (${f.atom.raporlu} rapor)`);
   console.log(`dil borcu: ${f.dil.kalipToplam} kalip gecisi / ${f.dil.kalipliDosya} dosya`);
   const kk = f.kaynak;

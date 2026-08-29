@@ -1,63 +1,369 @@
 {
   "id": "aktor-tokugawa-sogunlugu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:51.903Z",
-  "govde_hash": "1ca465c7c972",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T16:32:34.662Z",
+  "govde_hash": "c9a7c24ca9c1",
+  "commit": "414e67e",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Bu düzenin başlangıcı ve sonu, kaynağın kendi kayıtlarında iki farklı türde olayla verilir: öncesinde 21 Ekim 1600'deki Sekigahara Muharebesi, sonunda ise 3 Oca",
-      "durum": "OK",
-      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir askerî zaferle kurulan bir düzenin bir siyasi ilanla sona ermesi, kuruluş ile çözülüşün farklı mekanizmalara dayandığını gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, şogunluğun kuruluşunu 24 Mart olarak ayrıca tarihler.",
+      "iddia": "Tokugawa şogunluğu, Japonya'yı 1603'ten 1868'e kadar yöneten askerî hükümetti; yönetimin tepesinde Kyoto'daki hanedan değil, savaş beylerinin en güçlüsü olan şo",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, erken döneme ait iki olayı ayrıca sayar: 8 Kasım 1614'te Osaka Kuşatması ve Sakoku Fermanı.",
+      "anahtar": "k4",
+      "iddia": "Tokugawa şogunluğu, Japonya'yı 1603'ten 1868'e kadar yöneten askerî hükümetti; yönetimin tepesinde Kyoto'daki hanedan değil, savaş beylerinin en güçlüsü olan şo",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bir dış temas rejiminin ferman olarak kaydedilmesi, dışa kapanmanın bir durum değil bir hukuki işlem olduğunu gösterir.",
+      "anahtar": "k4",
+      "iddia": "Ülke tek bir merkezden değil, her biri kendi alanındaki köylerden vergi alma yetkisi taşıyan beylerin (daimyo) oluşturduğu bir ortaklıktan yönetiliyordu; şogun ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Düzeni sona erdiren olayın sonuçları arasında Tokugawa şogunluğunun devrilmesi, Japonya İmparatorluğu'nun kurulması, sanayileşme ve feodalitenin kaldırılması il",
-      "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "iddia": "Ayırt edici yan, merkezin taşra beylerini kılıçla değil bir ikamet, bir kayıt ve bir liman düzeniyle bağlamasıdır: beylerin aileleri başkentte rehin tutuluyor, ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Bir düzenin sonunun, kendisini deviren olayın sonuç listesinde ilk madde olarak yer alması, o olayın kendi anlatısının nasıl kurulduğunu gösterir; olay dosyasın",
+      "anahtar": "k7",
+      "iddia": "İki buçuk yüzyıl süren iç barış tek bir nedene bağlanamaz; ama bu üç mekanizma, düzene sonradan yakıştırılan \"kapalı ülke\" tabirinden çok daha somuttur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "İki buçuk yüzyıl süren iç barış tek bir nedene bağlanamaz; ama bu üç mekanizma, düzene sonradan yakıştırılan \"kapalı ülke\" tabirinden çok daha somuttur.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1600'de yaklaşık 516,1 milyon, 1848'de yaklaşık 1,27 milyardır.",
+      "iddia": "Hollanda şirketinin hekimi olarak 1691'de başkente giden Engelbert Kaempfer, ülkedeki bütün beylerin eşlerinin ve kız çocuklarının Edo'da, kocalarının ve babala",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı ilkenin gençlerdeki karşılığını da görür: sarayda tanıştığı bir beyin torunu, tek gözü kör olmasına rağmen, yalnızca dedesinin sadakatine rehin olsun diye ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaempfer'in geçtiği yol üzerindeki imparatorluk karakollarında bütün yolcuların, özellikle de beylerin yükü aranıyor, görevliler hiçbir kadının ve hiçbir silahı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaempfer bu aramayı yeni düzenin siyasi düsturlarından biri olarak açıklar: kadınlar rehin olduğu için dışarı çıkamaz, silah da dışarı taşınamaz, çünkü ciddi mi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Batıdan gelen hiçbir bey saray yolculuğunda bu karakolları atlayamazdı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaempfer'in gördüğü düzende saraya gitmek beylerin göreviydi ve yılda bir kez yapılıyordu; dolayısıyla aynı yollar yılda iki kez, gidiş ve dönüş olarak kullanıl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "En büyük beylerin maiyeti yolu günlerce doldururdu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düzenin adı dönüşümlü ikamettir (sankin-kōtai) ve yerleşik gerekçesi, beylerin yabancı gemilerle ticaretini kısıtlayan kuralla aynı gerekçedir: hiçbir beyin şog",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Beyin geliri hem başkentteki ikinci haneye hem de iki yönlü yolculuğun masrafına bağlanır; kalabalık maiyetlerin yolları yılda iki kez ve günlerce doldurması, g",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaempfer'in aktardığı ikinci mekanizma, aratame denen yıllık yazımdır: bu iş için görevlendirilen komiserler her sakinin hanesini, çocuklarının ve hizmetlilerin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Defterin ne ürettiğini Kaempfer'in aktardığı Kyoto sayımı gösterir: 1.858 sokak, 138.979 hane, beylerin kentteki 137 konağı, 52.169 din görevlisi ve 477.557 siv",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaempfer sayımın sınırını da yazar — bu rakamlara kalede oturanlar, Kyoto'daki hanedan sarayının bütün mensupları ve ülkenin her yerinden gelip giden sayısız ya",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kyoto"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı düzen hareketi de kayda bağlamıştı: rahipler manastır başlarının mektubuyla dolaşabilirken, herkesin yetkili görevliden alınmış bir yol izni taşıması gerek",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Samuraylar tarımdan koparılıp beylerinin kale kentinde oturmaya zorlanmış, karşılığında alanın köylerinden toplanan pirinç vergisinden maaş almışlardı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kırın bu şekilde silahtan arındırılması yerel su hakkı kavgalarını büyük ölçüde bitirdi; sulama arkları vadiler boyunca uzatıldı, nehir yatakları taş setlerle g",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı zeminde tohum, gübre ve ekim yöntemleri iyileşti; 1700'den sonra büyük kentlerin tüccar hanelerinde gelişen zanaat üretimi köylere de yayıldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaempfer 1692'de, bir beyin gelirinden beş mangoku eksiltildiğini duyar: sebebi, beyin genç kâtibinin yüklediği ağır vergiler yüzünden binlerce köylünün alanı t",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Buradaki bağın adı çekişmelidir: iktisat tarihi kaynağı beyleri \"feodal savaş beyleri\" diye anar ve düzeni bir konfederasyon yönetimi olarak tarif eder, ama Avr",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Şogunluğun idari yapısı, alan düzeni, iktisadi politikaları ve son yıllarındaki kriz burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümle",
+      "iddia": "Nagazaki'de Çin ticareti ile Hollanda şirketinin Dejima'daki karakolu, Tsushima üzerinden Joseon Kore'siyle ilişki, Satsuma beyliği üzerinden Ryukyu Krallığı ve",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kore'yle ilişki yalnızca ticaret de değildi: Kore'den Japonya'ya düzenli elçi heyetleri (Tongsinsa) gönderiliyor, Japonya Çin'in haraç düzenine girmeden Çin'in ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ryukyu, Edo döneminin neredeyse tamamında yarı bağımsız bir krallıktı ve Japonya onu Çin'e haraç ödemeyi sürdürmeye teşvik ediyordu; iki uçlu bu konum dosyasınd",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaempfer, Nagazaki limanında kış aylarının birkaçı dışında otuzdan az yabancı gemi bulunmadığını, bunların çoğunun Çin yelkenlisi olduğunu yazar; limanı iki imp",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "1685'te satış hacmi tavana bağlandığında Çinlilere ve onların adıyla ticaret yapanlara tanınan yıllık tavan, Hollandalılara tanınanın iki katı olarak belirlendi",
+      "durum": "ISARET",
+      "not": "kaynakta bulunamayan sayısal değer: 1685 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ainularla alışveriş yalnızca Matsumae beyliğiyle sınırlı tutulmuştu; yani kanalın tekeli, karşı taraftaki toplulukta değil bir Japon beyliğindeydi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yasaklanan din de ortadan kalkmadı, yer altına indi: kalanlar çoğunlukla Nagazaki çevresinde gizli cemaatler kurdu ve kakure kirishitan adıyla anıldı.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Nagazaki"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Onları bulmanın yolu bir ayin denetimiydi — şüpheliye Hristiyan tasvirlerine basması söyleniyor, tepkisine bakılıyordu; aynı sınama zaman zaman kazazede Amerika",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Yasaktan önce, 17. yüzyıl başında Kyushu'daki mühtedi sayısı için verilen rakamlar tek değildir: hesap on binlerce kişi olarak yapılırken Katolik misyonerler çe",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dejima üzerinden gelen Hollandaca tıp ve bilim metinleri rangaku, yani Hollanda öğrenimi adıyla ayrı bir alan kurdu.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Hollandaca, Hollanda"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Avrupa'daki yayılmanın haberi arttıkça Edo yönetimi yabancı karşıtı kurallarını gevşetip Barbar Kitaplarını İnceleme Enstitüsü adlı resmî bir kurum açmayı gerek",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1797 ile 1809 arasında birkaç Amerikan gemisi, Napolyon savaşları yüzünden kendi gemilerini gönderemeyen Hollandalıların isteğiyle Hollanda bayrağı altında Naga",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı bayrağı 1808'de bir İngiliz savaş gemisi de kullandı: Hollanda gemilerini avlayan HMS Phaeton Hollanda bayrağı altında Nagazaki'ye girip erzak istedi ve Ja",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Basınç arttıkça kurallar da sertleşti: 1825'te çıkarılan bir emir kıyı görevlilerine karaya çıkan yabancıları tutuklama ya da öldürme buyruğu verdi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Japon gökbilimci ve çevirmen Shizuki Tadao, 1801'de Kaempfer'in ölümünden sonra 1727'de yayımlanan kitabını çevirirken bu kelimeyi kendisi türetmiştir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çevirdiği metin tarafsız bir betimleme de değildi: Kaempfer'in eki, imparatorluğu bulunduğu gibi kapalı tutmanın Japonya'nın yararına olup olmadığını soran ve o",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaempfer orada, Japonların kendi sınırları içinde barış ve yeterlilik içinde yaşadığını, dışarıyla alışverişe ihtiyaç duymadıklarını yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bunu yazan kişi, ülkeye ticaret yapmak için gelmiş bir Avrupa şirketinin hekimidir ve denemesi dönemin Avrupa tartışmasına verilmiş bir cevaptır; metin, çağının",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kaempfer, Kyoto'daki hükümdarı kalıtsal dinî imparator, Edo'daki şogunu ise dünyevi hükümdar diye yazmak zorunda kalmıştı; tek egemenlik bekleyen bir dile iki b",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Katolik İspanya ile Portekiz'in etkisini kazımak alışılmış açıklamadır; ama Japon tarihçilerin 1970'lerdeki çalışmalarına dayanan bazı araştırmacılar bunun gerç",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Sakoku sorusunu yeniden açan 1977 tarihli çalışma Ronald Toby'nin, Edo dönemi dış ilişkilerini yeniden inceleyen 1982 tarihli çalışma Tashiro Kazui ile Susan Do",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Sakoku sorusunu yeniden açan 1977 tarihli çalışma Ronald Toby'nin, Edo dönemi dış ilişkilerini yeniden inceleyen 1982 tarihli çalışma Tashiro Kazui ile Susan Do",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tashiro'nun ayrımı o maddeye de geçmiştir: ticaret, doğrudan şogunluk yargısı altındaki Nagazaki kanalı ile beyliklere bırakılan Kore ve Ryukyu kanalları olarak",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yerde 1637'de başlayan Shimabara ayaklanmasının rolü de ihtiyatla kurulur: çoğu Hristiyan olan 40.000 köylünün katıldığı bu ayaklanmanın yasakları tetikled",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Perry'nin geldiği sırada Edo'nun nüfusu yaklaşık bir milyondu; kaynağın anlatımıyla kent dünyanın en büyük yerleşimlerinden biriydi ve dışarısı bunu bilmiyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Yüksek kentleşme oranı, gelişkin yol ağı ve yaygın zanaat üretimi, iktisat tarihinde 19. yüzyıl sonrasının hızlı sanayileşmesini açıklayan başlangıç koşulları o",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Uzun dönemli tahminlerde Japonya nüfusu 1600'de 17 milyon dolayındayken 1700'de 26,7 milyona çıkar; 1750'de 29 milyona ulaşıp yüzyılın ikinci yarısında hafifçe ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu değerler sayım değil model çıktısıdır ve tek başına bir neden göstermez; üstelik aynı yüzyıl için, iktisat tarihi yazımı hem samuray seçkinler hem de varlıkl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "1854'te imzalanan Kanagawa Antlaşması iki limanı — Shimoda ve Hakodate — Amerikan gemilerine odun, su, erzak ve kömür alabilecekleri liman olarak açar; başka hi",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Serbest ticaret değil ikmal hakkıdır; buna karşılık bir madde, Japonya'nın başka bir devlete tanıyacağı her ayrıcalığın kendiliğinden Amerika'ya da geçeceğini h",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Metnin en açık ifadesi başka bir maddededir: kazazedelerin ve Shimoda ile Hakodate'de geçici olarak oturan Amerikalıların, \"Hollandalıların ve Çinlilerin Nagaza",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Amerikan anlatısında Perry'nin dört savaş gemisi 1853'te uzun süredir yalıtılmış bir ülkenin kapısını açar ve Dejima yalıtımın \"en dikkate değer küçük istisnası",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Başat nedeni Batı ve Hristiyanlık etkisinin kazınmasında aramanın Avrupa merkezli bir okuma olduğu ileri sürülmüştür; aynı kaynak bunun Batılılar arasında yaygı",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İktisat tarihi yazımı bile terimi taşımayı sürdürür: dönemi 17. yüzyıl ortasından 1850'lere uzanan uzun bir otarsi çağı olarak tanımlayan anlatım — \"kapalı ülke",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Dört kapı iki buçuk yüzyıl boyunca açık kaldı, Nagazaki'nin ana kanalı Çin ticaretiydi, beylerin yolculuğu yerinde tutulan kayda göre yılda iki kez yolları dold",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Nagazaki, Çin"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Dört kapı iki buçuk yüzyıl boyunca açık kaldı, Nagazaki'nin ana kanalı Çin ticaretiydi, beylerin yolculuğu yerinde tutulan kayda göre yılda iki kez yolları dold",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Nagazaki, Çin"
     }
   ]
 }
