@@ -1,9 +1,9 @@
 {
   "id": "olay-kultur-devrimi",
   "gecis": 2,
-  "zaman": "2026-08-29T19:35:43.880Z",
-  "govde_hash": "c37ebf4f7c53",
-  "commit": "2dc84ff",
+  "zaman": "2026-08-29T19:51:22.198Z",
+  "govde_hash": "1836ca08f0ba",
+  "commit": "b8cff98",
   "sonuclar": [
     {
       "anahtar": "k3",
@@ -49,7 +49,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Metin tartışmaların olguları ortaya koyarak ve akıl yürüterek yapılmasını ister, farklı görüşteki azınlığın görüşünü kabule zorlanmasını \"impermissible\" sayar, ",
+      "iddia": "Metin tartışmaların olguları ortaya koyarak ve akıl yürüterek yapılmasını ister, farklı görüşteki azınlığın görüşünü kabule zorlanmasını kabul edilemez sayar, a",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -61,7 +61,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Merkez Komite kararının ilk maddesi hedefi burjuvazinin ve sömürücü sınıfların \"eski fikirleri, kültürü, gelenekleri ve alışkanlıkları\" diye tanımlamıştı; \"dört",
+      "iddia": "Merkez Komite kararının ilk maddesi hedefi burjuvazinin ve sömürücü sınıfların eski fikirleri, kültürü, gelenekleri ve alışkanlıkları diye tanımlamıştı; \"dört e",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): Komite"
     },
@@ -103,7 +103,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "1981 kararı, Liu Shaoqi ile Deng Xiaoping'in başında olduğu iddia edilen parti içi burjuva karargâhının hiç var olmadığını; Liu Shaoqi'ye \"dönek, gizli hain ve ",
+      "iddia": "1981 kararı, Liu Shaoqi ile Deng Xiaoping'in başında olduğu iddia edilen parti içi burjuva karargâhının hiç var olmadığını; Liu Shaoqi'ye dönek, gizli hain ve g",
       "durum": "OK",
       "not": ""
     },
@@ -139,7 +139,7 @@
     },
     {
       "anahtar": "k9",
-      "iddia": "Bu kuşak sonradan \"kayıp kuşak\" diye anıldı.",
+      "iddia": "Bu kuşak sonradan kayıp kuşak diye anıldı.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -148,6 +148,12 @@
       "iddia": "1981 kararı 1970-71'de Lin Biao'nun başında olduğu grubun yüksek iktidarı ele geçirmek için komplo kurduğunu ve silahlı bir darbe girişiminde bulunduğunu, bunun",
       "durum": "OK",
       "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Resmî anlatıya göre 1971'in 13 Eylül'ünde Lin Biao, eşi Ye Qun, oğlu ve maiyeti Sovyetler Birliği'ne kaçmaya çalıştı; uçak yolda Moğolistan'da düştü ve içindeki",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k9",
@@ -181,21 +187,27 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "Aralıkların birbirini tutmaması bir tutarsızlık değil, kapsam ve yöntem farkıdır: biri yalnız kırsalı, öteki ülkenin bütününü ve yalnız 1966-71'i ölçer; ikisi d",
-      "durum": "OK",
-      "not": ""
+      "iddia": "Mağdur sayıları da toplanamaz: biri bir tür siyasi baskıya uğrayanları, öteki doğrudan mağdurları sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k6",
-      "iddia": "Aralıkların birbirini tutmaması bir tutarsızlık değil, kapsam ve yöntem farkıdır: biri yalnız kırsalı, öteki ülkenin bütününü ve yalnız 1966-71'i ölçer; ikisi d",
-      "durum": "OK",
-      "not": ""
+      "iddia": "Mağdur sayıları da toplanamaz: biri bir tür siyasi baskıya uğrayanları, öteki doğrudan mağdurları sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k6",
       "iddia": "Aynı çalışmanın iki bulgusu da anlatıyı değiştirir: kayıpların büyük çoğunluğu ayaklananların değil, yetkililerin baskısından doğmuştur ve kişi başına ölüm oran",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "The China Quarterly'nin Eylül 1966 sayısındaki bir değerlendirme başlığını doğrudan bir soru olarak kurar: kültür devrimi mi, iktidar mücadelesi mi?",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k7",
@@ -229,7 +241,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Beş yıl sonra kabul edilen karar hükmü verdi: hata baş sorumluluğu Mao Zedong'a aittir, ama bu \"büyük bir proleter devrimcinin hatasıdır\" — yani mahkûmiyet kişi",
+      "iddia": "Beş yıl sonra kabul edilen karar hükmü verdi: hata baş sorumluluğu Mao Zedong'a aittir, ama karar bunu büyük bir proleter devrimcinin hatası diye niteler — yani",
       "durum": "OK",
       "not": ""
     },
