@@ -1,10 +1,12 @@
 # Çürütücü raporu — kavram-goksel-yetki
-_2026-08-21T09:35:06.747Z_
+_2026-08-29T19:24:12.657Z_
 
-## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
+## Zayıf bulunmayan alanlar
 
-**Cümle:** "Kaynak, yönetme hakkı ile isyan hakkını tek bir bölüm başlığı altında birlikte tutar.[^k1]"
+Programatik tarama, §10'da sayılan yedi zayıflık tipinde (tek kaynaklı
+nedensellik, atıfsız kesinlik dili, üstünlük iddiası, kapsam çarpıtması,
+anakronizm, yetersiz pozisyon, ince kanıt tabanı) itiraz adayı bulamadı.
 
-**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
-
-**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
+Bu, makalenin doğru olduğu anlamına gelmez; bu yedi kalıptan hiçbirinin
+tetiklenmediği anlamına gelir. Sayısal ve ad düzeyindeki doğrulama Geçiş 2,
+bağımsız yeniden türetme Geçiş 4 raporlarındadır.

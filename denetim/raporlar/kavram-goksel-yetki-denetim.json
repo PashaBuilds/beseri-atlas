@@ -1,69 +1,147 @@
 {
   "id": "kavram-goksel-yetki",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:54.361Z",
-  "govde_hash": "49ab4a58498d",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T19:24:12.140Z",
+  "govde_hash": "1d55d1805c9a",
+  "commit": "6d7ef68",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, yönetme hakkı ile isyan hakkını tek bir bölüm başlığı altında birlikte tutar.",
+      "anahtar": "k3",
+      "iddia": "Zhou hanedanının kurucuları bu soruya, kendi yönetimlerini gökten yetkilendirilmiş sayarak cevap verdiler.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir meşruiyet öğretisinin isyan hakkını da aynı başlıkta taşıması, atlasın şu kuralının dayanağıdır: bu dosyada Göksel Yetki, yalnızca bir iktidar gerekçesi ola",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Göksel, Yetki"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak tarih bölümünü alt başlıklara ayırır: Shang ile Zhou arasındaki geçiş, Doğu Zhou, Qin ve Han hanedanları, bölünme çağı, Beş Hanedan dönemi ve Qing haneda",
+      "iddia": "Zhou'nun kendi bildirilerinde Şao Dükü, Hsia ve Yin hanedanlarını arka arkaya sayar ve ikisi için de aynı cümleyi kurar: gök kurucuyu yönlendirmiş, soyunu korum",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir kavramın tarihinin hanedan hanedan kaydedilmesi, kavramın her iktidar değişiminde yeniden uygulandığını gösterir; ilgili hanedanlar ve dosyalarında ele alın",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bir başka gelenekte otoritenin üçlü bir sınıflandırması kaydedilir: karizmatik, akılcı-yasal ve geleneksel.",
+      "iddia": "Kaynak yukarıdadır ve tartışılmaz; süreklilik ise yöneticinin davranışına bağlıdır ve her an geri çekilebilir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Atlas iki çerçeveyi birbirine çevirmez ve birini diğerinin özel hâli saymaz; kullanılan kaynak bölümlerinde böyle bir eşleme belirtilmemiştir.",
+      "iddia": "Şao Dükü'nün bildirisi bu güçlüğü açıkça kabul eder: bir hanedanın gökten kaç yıllık bir süre aldığını bilmediğini, sürenin uzayıp uzayamayacağını da bilmediğin",
       "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Atlas iki çerçeveyi birbirine çevirmez ve birini diğerinin özel hâli saymaz; kullanılan kaynak bölümlerinde böyle bir eşleme belirtilmemiştir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Dükü"
     },
     {
       "anahtar": "k3",
-      "iddia": "Aynı geleneğin bir düşünürü için tutulan kayıt, onun Çin tarihinin farklı dönemlerinde öğretmen, danışman, editör, filozof, reformcu ve peygamber olarak resmedi",
+      "iddia": "Zhou'nun kurucuları yönetimlerini gökten yetkilendirilmiş olmakla gerekçelendirdiler; yani kavram doğduğu andan itibaren geriye dönük bir meşrulaştırmadır.",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin"
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kavramın kökeni, hanedan geçişlerindeki uygulaması ve sonraki etkisi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "iddia": "Hsia ve Yin'in yetkiyi yitirmiş sayılması, o hanedanların kendi kayıtlarından değil, onları deviren hanedanın bildirilerinden okunur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Legge'nin çevirisinin giriş bölümü Belgeler Kitabı'nın bölümlerini güvenilirlik bakımından ayırır: Thang ile Yü kitaplarını açıkça sonradan derlenmiş ve efsanev",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Zhou döneminin ikinci yarısında, Zhou kralı fiilen sembolik bir figüre dönüşmüş ve gerçek güç eyalet yöneticilerinin eline geçmişken, hanedanın göğün lütfunu yi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mengzi, iyiliği çiğneyeni hırsız, doğruluğu çiğneyeni zorba sayar; böyle birinin artık hükümdar değil sıradan bir adam sayıldığını söyler ve \"hükümdar öldürüldü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mengzi kral öldürmeyi genel olarak onaylamaz; adı geçen kişinin hükümdar sayılıp sayılamayacağını tartışır ve tartışmayı yalnızca o kişiye bağlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kralların ilahi hakkı, en olgun anlatımına on yedinci yüzyılda ulaşan, özellikle Fransız ve İngiliz siyasi geleneklerinde önem taşıyan erken modern bir öğretidi",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Fransız, İngiliz"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kralların ilahi hakkı üzerine yazanlar, bu öğretiyi çoğunlukla direnmeme kuramlarıyla ilişkilendirir: kral yetkisini halktan değil Tanrı'dan aldığına göre, halk",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tanrı"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bu ilişkilendirmenin öğretinin kendi ifadesi değil, akademik yazında kurulmuş bir okuma olduğu belirtilmelidir; kaynak, komşu bir bağlantı için — öğretiyi mutla",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k4",
-      "iddia": "Bu kavramın formüle edildiği eser Shujing (Belgeler Kitabı)'dir; dosya o eserin kamu malı tam metnine bağlanır.",
+      "iddia": "Bu itiraza göre kavram, tam da kültürün biçimlendiği Doğu Zhou döneminde derin değişimler geçirdi ve başlangıçtaki çekiciliğinin çoğunu yitirdi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Zhou otoritesinin MÖ 771'de fiilen çökmesinden sonra kavram tekil ve evrensel yönetim fikrinden koptu; bir bölge beyinin üstünlüğüne, kendi devletini yönetme ha",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Göğün siyasi düzeni güvenceye alan etkin bir tanrı olduğu fikri de birçok kişi tarafından sorgulandı.",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Shujing, Belgeler"
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Polonya-Litvanya'nın yasaları, seçilirken verdiği sözleri bozan krala itaatsizlik hakkını 1573'te tanıdı; hak çok az değişiklikle sonraki bütün hükümdarlarca on",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Erdel'de ilk açık anma 1613 tarihlidir ve soy hattı 1222 tarihli Macar Altın Fermanı'na kadar izlenebilir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bu formülasyonlar eşdeğer değildir: Polonya-Litvanya'nınki bazı Erdel biçimlerine göre daha yumuşak, daha edilgen ve daha az belirgindi, buna karşılık uygulamad",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Polonya-Litvanya, Erdel"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yetkinin çekildiğini ilan eden, her seferinde kazanan taraftır ve okuma Zhou'yla da başlamaz: Legge'nin çevirisinde Shang'ın kurucusuna atfedilen bildiri, göğün",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bir yönetimin meşruiyetini başarıya bağlamanın kırılganlığı ayrıca savunulmuştur: başarıya dayalı meşruiyet somut vaatler taşıdığı için \"özünde istikrarsızdır\" ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kavram Doğu Zhou'da zayıflamakla birlikte büsbütün yok olmadı; Batı Zhou biçimi \"yedekte bir ideoloji\" olarak, siyasi fikirler dağarcığının bir parçası hâlinde ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Meşruiyet gerekçelerinin genel sınıflandırması için , kavramın hak diline çevrilmesi için ve , bir kavramı kendi döneminin dışına taşımanın sorunları için dosya",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }
   ]
 }

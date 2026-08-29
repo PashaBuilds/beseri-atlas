@@ -1,12 +1,26 @@
 # Çürütücü raporu — kavram-kolelik
-_2026-08-21T10:12:48.935Z_
+_2026-08-29T19:15:26.045Z_
 
-## Zayıf bulunmayan alanlar
+## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 
-Programatik tarama, §10'da sayılan yedi zayıflık tipinde (tek kaynaklı
-nedensellik, atıfsız kesinlik dili, üstünlük iddiası, kapsam çarpıtması,
-anakronizm, yetersiz pozisyon, ince kanıt tabanı) itiraz adayı bulamadı.
+**Cümle:** "Tanımın ilk yarısı olan "statü veya durum" ikilisi, kavramı hukuki sahiplikle sınırlamayı engeller: statü hukuki bir kategori, durum ise bir hâldir. Amerikalılar Arası İnsan Haklar"
 
-Bu, makalenin doğru olduğu anlamına gelmez; bu yedi kalıptan hiçbirinin
-tetiklenmediği anlamına gelir. Sayısal ve ad düzeyindeki doğrulama Geçiş 2,
-bağımsız yeniden türetme Geçiş 4 raporlarındadır.
+**Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
+
+**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
+
+## İtiraz 2 — [ciddiyet: dusuk] ustunluk-iddiasi
+
+**Cümle:** "Kavramın ilk sınırı, iki tanımın aynı şeyi ölçmemesidir: hukuki ölçüt bir kişi üzerinde kullanılan yetkileri sorar, toplumbilimsel ölçüt kişinin soyundan ve topluluğundan koparılma"
+
+**Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
+
+**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
+
+## İtiraz 3 — [ciddiyet: orta] tek-kaynakli-nedensellik
+
+**Cümle:** "Üçüncü sınır sayılardadır. Anne Gallagher 2017'de Küresel Kölelik Endeksi'nin üç bileşenini de inceleyip yöntem ve uygulama kalitesi hakkında ön bulgular ortaya koydu; ayrıca endek"
+
+**Sorun:** Nedensellik iddiası tek kaynağa (k6) dayanıyor.
+
+**Öneri:** İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla.

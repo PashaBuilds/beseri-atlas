@@ -1,6 +1,29 @@
 {
   "id": "kavram-kolelik",
   "gecis": 3,
-  "zaman": "2026-08-21T10:12:48.937Z",
-  "itirazlar": []
+  "zaman": "2026-08-29T19:15:26.046Z",
+  "govde_hash": "b40edebcc717",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Tanımın ilk yarısı olan \"statü veya durum\" ikilisi, kavramı hukuki sahiplikle sınırlamayı engeller: statü hukuki bir kategori, durum ise bir hâldir. Amerikalılar Arası İnsan Haklar",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Kavramın ilk sınırı, iki tanımın aynı şeyi ölçmemesidir: hukuki ölçüt bir kişi üzerinde kullanılan yetkileri sorar, toplumbilimsel ölçüt kişinin soyundan ve topluluğundan koparılma",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Üçüncü sınır sayılardadır. Anne Gallagher 2017'de Küresel Kölelik Endeksi'nin üç bileşenini de inceleyip yöntem ve uygulama kalitesi hakkında ön bulgular ortaya koydu; ayrıca endek",
+      "sorun": "Nedensellik iddiası tek kaynağa (k6) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
 }

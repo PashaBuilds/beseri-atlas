@@ -1,14 +1,7 @@
 {
   "id": "kavram-goksel-yetki",
   "gecis": 3,
-  "zaman": "2026-08-21T09:35:06.747Z",
-  "itirazlar": [
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Kaynak, yönetme hakkı ile isyan hakkını tek bir bölüm başlığı altında birlikte tutar.[^k1]",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    }
-  ]
+  "zaman": "2026-08-29T19:24:12.658Z",
+  "govde_hash": "1d55d1805c9a",
+  "itirazlar": []
 }

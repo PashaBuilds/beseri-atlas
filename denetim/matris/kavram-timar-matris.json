@@ -1,0 +1,447 @@
+{
+  "id": "kavram-timar",
+  "govde_hash": "b02dfed25d1e",
+  "commit": "6d7ef68",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Halil İnalcık'a göre böyle bir devlette bir tahsis düzeni zorunlu olarak ortaya çıkar: süvarinin ihtiyacı ancak kırsal bir çevrede karşılanabilir ve devletin ana gelir kaynağı olan onda bir vergisi ancak yerel bir pazarda toplanıp nakde çevrilebilir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Tımar bu soruna verilen Osmanlı cevabıdır — ve cevabın inceliği şuradadır: sipahiye toprak verilmez, belirli bir toprağın vergi geliri askerî hizmet karşılığında ve tevarüs yoluyla geçmemek üzere tahsis edilir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tahsisin mulkiyet degil gelir olmasi ve tevarus yasagi maddede acik yazilidir"
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Düzen, yalnız askerî-idarî örgütlenmenin değil, mîrî arazi rejiminin işleyişinin, köylü-çiftçilerin statüsünün, ödeyecekleri verginin belirlenmesinin ve klasik çağda (1300-1600) tarımsal ekonominin yönetiminin de esas belirleyicisiydi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin dort ogeli listesi eksiksiz geri kondu; 'klasik cag (1300-1600)' nitelemesi kaynakta yalnizca tarimsal ekonomi ogesine baglidir, oraya tasindi"
+    },
+    {
+      "iddia_id": "i003b",
+      "cumle": "933-934 (1527-1528) tarihli resmî kayıtlarda tımarlı ordu 37.521 kişidir; bunların 9563'ü hisar eri, geri kalanı sefere katılan eşkincidir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem eklemesi: govdedeki bu sayi cumlesi matriste yoktu. Kaynak birebir '37.521 kisi' ve '9563'u hisar eriydi (kale muhafizi), geri kalanlar seferlere katilan suvarilerdi (eskinci)' der"
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Aynı bütçede, tımar uygulanmayan Mısır gelirleri dışarıda bırakıldığında kamu gelirlerinin hemen hemen yarısı bu kalemlere ayrılmış görünür.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak orani Misir haric verir ve 'hemen hemen' der; tablo 1'de genel oran %37'dir. Cekince metne tasindi"
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Osmanlı toprak hukukunda mîrî arazi, rakabesi (kuru mülkiyeti) beytülmâle ait bulunan ve tasarruf hakkı devlet tarafından mutasarrıflara ihale ve tefvîz edilen arazidir; bu rejimin hukukî mimarı Ebüssuûd'dur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Sipahiye geçen ne rakabedir ne de mülk hâline gelmiş bir tasarruf; yeni bir tahrir yapılıncaya kadar defterde yazılı vergileri toplama hakkıdır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Vergilerin yeni tahrire kadar timar sahibince toplanmasi k1'de dogrudan; 'rakabe degil' ayrimi k2'nin tanimiyla birlestirilerek kuruldu"
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Onun için kaydedilen rakam da toprağın kendisi değil hâsıldır, yani gelirin toplamıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Kanunun 1892 tarihli İngilizce çevirisinde toprak beş sınıfa ayrılır: memlûke (mülk), mîriye, mevkūfe, metrûke ve mevât.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kanunun 1. maddesi; bes sinif birebir sayilir"
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Üçüncü madde mîrî arazinin rakabesini beytülmâle bağlar ve bu yerlerin vaktiyle \"who were considered the owners of the soil\" diye nitelenen tımar ile zeâmet sahiplerinin izniyle el değiştirdiğini, sonra bunların kaldırıldığını yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kanunun 3. maddesi; tirnakli ibare ceviriden birebir alindi"
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Mülk arazide ise toprağın kendisi ve mülkiyeti sahibine aittir, miras yoluyla geçer, vakıf, rehin, hibe ve şüf'a hükümlerine tâbidir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kanunun 2. maddesi mulk arazi icin miras, vakif, rehin, hibe ve suf'a sayar; hakem kirpilmis listeyi tamamladi"
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Osmanlı'da özel mülkiyet bulunmadığı yolundaki yaygın genelleme bu yüzden yanlıştır: mülk ve vakıf kategorileri mîrînin yanında durur.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mulk ve vakif kategorilerinin varligi iki kaynakta da acik; genellemenin yanlisligi bu iki listeden cikar"
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Tımar sahibine sâhib-i arz denirdi; çünkü arazi ve çiftçi üzerinde kanunlarda belirtilen şartları uygulamada tam yetkili tek kişiydi ve bu kanunları çiğnerse soruşturulur, hakkını kaybedebilirdi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak 'uygulamada tam yetkiye sahip tek kisiydi' der; 'tek' nitelemesi kaynagin kendisine aittir, curutucu itirazi bu nedenle reddedildi"
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Çiftçinin toprağını terk etmemesi gerekirdi ve sipahinin kaçan çiftçiyi on yıl, sonra on beş yıl içinde geri getirme yetkisi vardı; toprak ekilmezse çift bozan vergisi alınırdı; Osmanlı öncesi düzenden kalma bazı angaryalar sürdü, ancak bu hizmetlerin çoğunun ücrete tâbi işlere dönüştürüldüğü kaydedilir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin uc cekincesi (terk yasagi, on/on bes yillik geri getirme yetkisi, angarya) eksiksiz aktarildi; 'cogunun ucrete tabi ise donusturuldugu' kaydi da korundu"
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "İnalcık kavramın kökenini tek bir yere bağlamaz: belgeye dayalı ilk atıf Orhan Bey dönemine gider, Osman Gazi'nin dağıttıkları daha çok yurtluk tarzındaydı, Bizans pronoia'sının etkisi sonraki gelişimde farkedilir, Memlük iktâının ise büyük ihtimalle bilindiği söylenir, sistemin sözlüğünde Moğolca'dan geçmiş terimler vardır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak Memluk iktasi icin 'buyuk bir ihtimalle biliyorlardi' der, pronoia icin etkinin 'farkedilebildigini' yazar; hakem dusurulmus iki cekinceyi geri koydu"
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Aynı madde bu tür bir tahsis düzeninin kadim İran'da, Bizans'ta, Batı Avrupa'da, İslâm ve Türk-Moğol devletlerinde hâkim olduğunu söyleyip Osmanlı'nın her birinden unsurlar aldığını yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Inalcik'in 'feodal tahsis sistemi' ifadesinin genis kullanimi aktarildi"
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Ama sınırı da o koyar: Batılı uygulamalardan ayıran temel özelliklerden biri mirasçılara geçmemesidir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Tahrir, vergilerin ve vergi verenlerin ismen tespiti için yapılan sayımlar ile bu sayımların defterleridir; doğrudan tımar sistemine bağlıdır ve yalnız bu sistemin yürürlükte olduğu sâlyânesiz eyaletlerde uygulanmıştır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Sayım sonunda mufassal, icmal ve evkaf defterleri düzenlenirdi; icmal, gelirlerin has, zeâmet ve tımar sahipleri arasında nasıl paylaştırıldığını gösterir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Defter turleri k4'te; icmalin gelir paylasimini gostermesi k1'de"
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Defterler bu yüzden ölçülebilir bir kayıttır, ama şeffaf bir pencere değildir: reâyânın sayım sırasında köyünün gerçek hâsılatını gizlemesi, deftere yazılmamak için köyünü terk etmesi ve tımar sahibinin raiyyetini sayımdan kaçırması yaygın olaylardır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gizleme, kacma ve kacirma orneklerinin ucu de maddede sayilir"
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Tahririn otuz yılda bir tekrarlandığına dair kayıtların da gerçeği tam yansıtmadığı belirtilir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak 'rakamlar gercegi tam yansitmaz' der; cekince korundu"
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Arvanid Sancağı Defteri'ni Mehmet Öz günümüze ulaşan en eski sayımı içeren defter diye tanıtır; iki imzalı madde onun miladi karşılığında ayrışır: İnalcık 835 (1432), Öz 835 (1431) diye tarihler; hicrî yıl ikisinde de aynıdır ve iki miladi yıla yayılır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki TDV maddesi ayni hicri yil icin farkli miladi karsilik verir (1432 / 1431); celiski gizlenmeyip metne tasindi. 'Gunumuze ulasan en eski' nitelemesi k4'un (Mehmet Oz) kendi ifadesidir; k1 daha dar bir ifade ('en eski icmal kayitlari') kullandigi icin hakem onceligi adiyla Oz'e bagladi"
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Yavuz Sultan Selim, Diyarbekir'e bağlı dokuz Kürt sancak beyinin yurtluk-ocaklık haklarını tanımış, onların zeâmet ve tımarları aile üyeleri arasında miras yoluyla geçebilmiştir; Bosna'da ise devlet, Avusturya işgali tehdidi altında tımarların erkek çocuk yoksa ailenin diğer erkeklerine geçmesi talebini kabul etmek zorunda kalmıştır; bu imtiyazın verilmesi kararı 1603-1617 yıllarına kadar geri gider ve 1644'te Sultan İbrâhim tarafından teyit edilmiştir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yurtluk-ocaklik istisnalari ve Bosna karari maddede acik"
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Müslüman olmak da ön şart değildi: bazı sancaklarda hıristiyan tımarları toplam sipahilerin %35'i gibi bir orana ulaşıyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak '%35 gibi yuksek bir oran' der; yaklasiklik korundu"
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "1584 sonrasında tımarların değeri sabit kalırken enflasyon %100'e ulaştı, ateşli silâh gerektiren savaşlarda sipahinin yeri maaşlı birliklere geçti ve hükümet tımar gelirlerinin büyük bölümünü hazineye kaydırdı; sefere katılan tımarlı sipahi sayısı 1616'da 14.867, 1621'de 15.058 iken 1655'te 6052'ye indi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tablo 3'un toplamlari ve enflasyon orani maddede birebir"
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Gelirler bu arada iltizam yoluna aktı — Mehmet Genç bunun günümüzün deyimiyle vergilendirmenin bir tür özelleştirilmesi sayılabileceğini yazar — ve 1695'te mukātaanın kaydıhayat şartıyla ve peşin bir bedel karşılığı ihale edildiği mâlikâne türü uygulamaya kondu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak 'gunumuzun deyimiyle ... nitelenebilecek olan' der; hakem duz niteleme cumlesini kaynagin kosulluluguna indirdi"
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "1827'de Rumeli ve Anadolu'daki elli üç sancaktan 5200 kadar tımarlı sipahi gelirleriyle birlikte Asâkir-i Mansûre süvarisine dönüştürüldü; ancak o gelirler geçimlerini karşılamaktan uzaktı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'5200 kadar' ibaresindeki yaklasiklik korundu"
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Linda Darling'in 2017 tarihli makalesi, icmal defterlerine dayanarak tımar sahiplerinin kimliklerindeki değişimi izler ve nasihatnâmelerdeki tanınmış şikâyetlerin sisteme çok kısa vadeli bir bakıştan doğduğu sonucuna varır; makalenin amacı Mustafa Âli gibi yazarların gerileme şikâyetlerinden bağımsız bir anlatı kurmaktır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iddia yalnizca Crossref kaydindaki ozete dayanir; tam metin gorulmedi ve bu metinde soylendi"
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Tımarda cevap görev süresince ve mirasa geçmemek üzeredir, mâlikânede kaydıhayat şartıyla ve peşin bir muaccele karşılığıdır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 28,
+    "kismi": 1,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "Kor hakem: 4 iddia cumlesi kaynagin cekince/liste bicimine geri cekildi, matriste bulunmayan 1 sayi iddiasi (i003b) eklendi"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "id": "kavram-goksel-yetki",
+  "govde_hash": "1d55d1805c9a",
+  "commit": "6d7ef68",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Zhou hanedanının kurucuları bu soruya, kendi yönetimlerini gökten yetkilendirilmiş sayarak cevap verdiler.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP maddesi Zhou kurucularinin yonetimlerini gokten yetkilendirilmis sayarak gerekcelendirdigini birebir soyler."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Zhou'nun kendi bildirilerinde Şao Dükü, Hsia ve Yin hanedanlarını arka arkaya sayar ve ikisi için de aynı cümleyi kurar: gök kurucuyu yönlendirmiş, soyunu korumuş, sonra \"lehindeki buyruk yere düşmüştür\".",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Legge cevirisinde Sao Duku'nun Bildirisi: Hsia ve Yin icin ayni formul, 'the decree in his favour fell to the ground'. Birincil metinde birebir gecer."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Kaynak yukarıdadır ve tartışılmaz; süreklilik ise yöneticinin davranışına bağlıdır ve her an geri çekilebilir.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak/sureklilik ayrimi metinden cikarilan bir okumadir; kaynak ayrimi bu sozcuklerle kurmaz, formulun kendisi tasir."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Şao Dükü'nün bildirisi bu güçlüğü açıkça kabul eder: bir hanedanın gökten kaç yıllık bir süre aldığını bilmediğini, sürenin uzayıp uzayamayacağını da bilmediğini söyler ve yalnızca saygının eksikliğinden buyruğun vaktinden önce düştüğünü kaydeder.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sao Duku'nun 'I do not presume to know and say' cekincesi ve 'for want of the virtue of reverence, the decree in its favour prematurely fell to the ground' cumlesi metinde birebir gecer. Kaynagin kendi tereddudu metne tasindi."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Zhou'nun kurucuları yönetimlerini gökten yetkilendirilmiş olmakla gerekçelendirdiler; yani kavram doğduğu andan itibaren geriye dönük bir meşrulaştırmadır.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ilk yarim (Zhou kuruculari boyle gerekcelendirdi) k3'te dogrudan; 'geriye donuk mesrulastirma' nitelemesi bu olgudan cikarilan yorumdur, kaynagin kendi sozcugu degildir."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Hsia ve Yin'in yetkiyi yitirmiş sayılması, o hanedanların kendi kayıtlarından değil, onları deviren hanedanın bildirilerinden okunur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sao Duku'nun Bildirisi bir Zhou belgesidir ve Hsia ile Yin'in yetkiyi yitirmesini Zhou agzindan anlatir; iddia metnin konusma konumundan dogrudan okunur."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Legge'nin çevirisinin giriş bölümü Belgeler Kitabı'nın bölümlerini güvenilirlik bakımından ayırır: Thang ile Yü kitaplarını açıkça sonradan derlenmiş ve efsanevi sayar, ama aynı yerde onları eski belgelere dayandırır ve Yao, Shun ile Yü'yü tarihsel kişiler olarak kaydeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Legge'nin giris cozumlemeli icindekiler bolumu: 'The Books of Thang and Yu are professedly later compilations; legendary; based on ancient documents. ... Yao, Shun, and Yu are all historical personages.' Kor hakem duzeltmesi: onceki surum kaynagin kendi karsi-cekincesini (eski belgelere dayanma + tarihsel kisiler) dusurmustu; geri konuldu."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Zhou döneminin ikinci yarısında, Zhou kralı fiilen sembolik bir figüre dönüşmüş ve gerçek güç eyalet yöneticilerinin eline geçmişken, hanedanın göğün lütfunu yitirdiği giderek daha açık görünüyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP: Dogu Zhou'da Zhou kralinin figuran hale gelmesi, gercek gucun eyalet yoneticilerine gecmesi ve hanedanin gogun lutfunu yitirdiginin giderek acik gorunmesi birebir yazili."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Mengzi, iyiliği çiğneyeni hırsız, doğruluğu çiğneyeni zorba sayar; böyle birinin artık hükümdar değil sıradan bir adam sayıldığını söyler ve \"hükümdar öldürüldüğünü duymadım\" der.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cince asil metin: 'zei ren zhe wei zhi zei... can zei zhi ren wei zhi yi fu. Wen zhu yi fu Zhou yi, wei wen shi jun ye.' Dogrulama dizesi metinde birebir gecer."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Mengzi kral öldürmeyi genel olarak onaylamaz; adı geçen kişinin hükümdar sayılıp sayılamayacağını tartışır ve tartışmayı yalnızca o kişiye bağlar.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mengzi'nin cevabi tartismayi 'yi fu' (tek adam) nitelemesine ve adi gecen kisiye baglar; genel bir kral oldurme onayi vermez. Kaynagin sinirlayici cercevesi metne tasindi."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Kralların ilahi hakkı, en olgun anlatımına on yedinci yüzyılda ulaşan, özellikle Fransız ve İngiliz siyasi geleneklerinde önem taşıyan erken modern bir öğretidir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wiley Encyclopedia of Political Thought ozeti: 'achieved its most sophisticated elaboration and exposition during the seventeenth century, and was especially important in the French and English political traditions'. Crossref kaydinin ozetinden; tam metin okunmadi."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Kralların ilahi hakkı üzerine yazanlar, bu öğretiyi çoğunlukla direnmeme kuramlarıyla ilişkilendirir: kral yetkisini halktan değil Tanrı'dan aldığına göre, halkın sert bir krala fiilen isyan etmesi hiçbir zaman haklı çıkarılamaz.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozet: 'since kings draw their authority from God and not from the people, the people are never justified in actively rebelling against a harsh king'. Crossref ozetinden; tam metin okunmadi."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Bu ilişkilendirmenin öğretinin kendi ifadesi değil, akademik yazında kurulmuş bir okuma olduğu belirtilmelidir; kaynak, komşu bir bağlantı için — öğretiyi mutlakiyetçilik kuramlarına bağlayan okuma için — karşı görüş de kaydeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozet: 'Scholars often draw connections between divine right theory and theories of royal absolutism ... (Sommerville 1986; but cf. Burgess 1992). Likewise, scholars also relate divine right theory to theories of nonresistance'. Kor hakem duzeltmesi: onceki surum 'but cf. Burgess' cekincesini DIRENMEME baglantisina yapistirmisti; ozette o cekince MUTLAKIYETCILIK baglantisina aittir. Cumle kaynagin yerlestirmesine oturtuldu."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Kavramın Çin siyasi kültürünün kurucu ilkesi sayılması yaygındır; Luo Xinhui ile Yuri Pines'in yazı ve metin kanıtına dayandırdığı bir itiraz buna karşı çıkar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "T'oung Pao ozeti: 'often viewed as a foundational principle of Chinese political culture. However, as paleographic and textual evidence marshalled in our article suggests...'. Itiraz sahipleri Crossref kaydindaki yazar alanindan (Xinhui Luo, Yuri Pines) govdede adlandirildi; aktarim halkasi (yayinci ozeti) kunye notunda beyanli."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Zhou otoritesinin MÖ 771'de fiilen çökmesinden sonra kavram tekil ve evrensel yönetim fikrinden koptu; bir bölge beyinin üstünlüğüne, kendi devletini yönetme hakkına ya da yalnızca uygun bir ana veya kişisel yazgıya işaret edebilir hâle geldi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozet: 'With the de facto collapse of Zhou authority in 771 BCE, tianming became dissociated from the idea of singular and universal rule. Henceforth it could refer to a regional lord's hegemonic power, or the right to rule one's state, or just to an opportune moment or individual destiny.' Crossref ozetinden."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Göğün siyasi düzeni güvenceye alan etkin bir tanrı olduğu fikri de birçok kişi tarafından sorgulandı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozet: 'The very idea of Heaven as an activist deity that guaranteed political order was questioned by many'. Crossref ozetinden."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Polonya-Litvanya'nın yasaları, seçilirken verdiği sözleri bozan krala itaatsizlik hakkını 1573'te tanıdı; hak çok az değişiklikle sonraki bütün hükümdarlarca onaylandı ve ülke Avrupa haritasından silinene, on sekizinci yüzyılın sonuna kadar yürürlükte kaldı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "European History Quarterly ozeti: 'introduced in Poland-Lithuania's laws in 1573, and, with very few modifications, it was confirmed by all of Poland-Lithuania's subsequent monarchs and remained valid until the late eighteenth century, when the country disappeared off the map of Europe.' Kor hakem duzeltmesi: 'cok az degisiklikle' ve ulkenin ortadan kalkmasi kaydi geri konuldu; onceki surum onaylanmayi kayitsiz gostermisti."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Erdel'de ilk açık anma 1613 tarihlidir ve soy hattı 1222 tarihli Macar Altın Fermanı'na kadar izlenebilir.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozet: Erdel'de ilk acik anma 1613, soy hatti 1222 Macar Altin Fermani'na kadar. Crossref ozetinden; tam metin okunmadi."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Bu formülasyonlar eşdeğer değildir: Polonya-Litvanya'nınki bazı Erdel biçimlerine göre daha yumuşak, daha edilgen ve daha az belirgindi, buna karşılık uygulamada daha etkili oldu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozet: 'the Polish-Lithuanian formulation was milder, more passive and less specific than some of the Transylvanian versions, its practical application was more effective'. Kaynagin karsilastirmayi esitlemeyen cekincesi metne tasindi."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Legge'nin çevirisinde Shang'ın kurucusuna atfedilen bildiri, göğün Hsia hanedanının suçunu açığa vurmak için üzerine felaketler indirdiğini söyler ve seferini bu işaretle gerekçelendirir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Legge, Shu King, Part IV Book III 'The Announcement of Thang': 'The way of Heaven is to bless the good, and make the bad miserable. It sent down calamities on (the House of) Hsia, to make manifest its guilt.' Metinde birebir gecer. Kor hakem eklemesi: dosya dogal afetin 'yetkinin cekildigi' isareti sayilmasini hic anmiyordu. Iddia metnin ne SOYLEDIGI hakkindadir, olayin gerceklegi hakkinda degil; Thang'in Bildirisi tartismali eski-metin bolumlerindendir ve cumle 'atfedilen bildiri' diye cerceveli."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Bir yönetimin meşruiyetini başarıya bağlamanın kırılganlığı ayrıca savunulmuştur: başarıya dayalı meşruiyet somut vaatler taşıdığı için \"özünde istikrarsızdır\" ve vaatler karşılanmadığında siyasi bunalımı hemen tetikler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "American Behavioral Scientist ozeti: 'performance legitimacy is intrinsically unstable because it carries concrete promises and therefore will trigger immediate political crisis when the promises are unfulfilled'. Crossref ozetinden."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Kavram Doğu Zhou'da zayıflamakla birlikte büsbütün yok olmadı; Batı Zhou biçimi \"yedekte bir ideoloji\" olarak, siyasi fikirler dağarcığının bir parçası hâlinde kaldı ve Han hanedanının resmî ideologlarınca yeniden keşfedilip kullanıma sokuldu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "T'oung Pao ozeti: 'It remained an ideology in reserve, part of a broad toolkit of political ideas, to be rediscovered and redeployed by Han dynasty imperial ideologues'. Crossref ozetinden."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Meşruiyet gerekçelerinin genel sınıflandırması için [Meşruiyet](/kavram/mesruiyet/), kavramın hak diline çevrilmesi için [Mengzi](/dusunur/mengzi/) ve [Konfüçyüs](/dusunur/konfucyus/), bir kavramı kendi döneminin dışına taşımanın sorunları için [Anakronizm](/kavram/anakronizm/) dosyaları okunabilir.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Gezinme cumlesi; iddia tasimaz. k3 yalnizca Mengzi-Konfucyus baglantisinin baglamini verir."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 9,
+    "kismi": 13,
+    "desteksiz": 0,
+    "olculemez": 1
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "Kor hakem: i07/i13/i17 kaynagin kendi cekincelerine gore duzeltildi, i14 itiraz sahipleriyle adlandirildi, i23 (Thang'in Bildirisi - felaket isareti) eklendi."
+    }
+  ]
+}

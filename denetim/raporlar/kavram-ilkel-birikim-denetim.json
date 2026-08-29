@@ -1,55 +1,187 @@
 {
   "id": "kavram-ilkel-birikim",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:54.639Z",
-  "govde_hash": "9950fca7074a",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T19:22:36.054Z",
+  "govde_hash": "2b4bc7d01aa1",
+  "commit": "6d7ef68",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, köken ve tanım başlığı altında iki alt başlık tutar: Adam Smith'in önceki birikim terimi ve Marx'ın bu terime yönelttiği eleştiri.",
+      "iddia": "Sermayenin nereden geldiğini açıklamak isteyen her kuram bir kısırdöngüye çarpar: birikim artı değeri, artı değer kapitalist üretimi, kapitalist üretim de meta ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Döngüden çıkmanın klasik yolu, kapitalist birikimden önce gelen, onun sonucu değil başlangıç noktası olan bir birikim varsaymaktır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İlkel birikim bu varsayımın adıdır — ama adı benimsemek için değil boşaltmak için kullanır: kavramı \"sözde\" sıfatıyla anar ve siyasal iktisattaki işlevini teolo",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yerine koyduğu şey bir tasarruf öyküsü değil bir ayrılmadır: sözde ilkel birikim, üreticiyi üretim araçlarından ayıran tarihsel süreçten başka bir şey değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sorulacak soru artık \"sermayeyi kim biriktirdi\" değil \"insanlar geçim araçlarından nasıl koparıldı\"dır; sürecin temeli, Marx'a göre tarım üreticisinin — köylünü",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, ilkel birikimin mekanizmaları başlığı altında çevirmeler ve toprak kamulaştırması, av yasaları ve toplumsal iş bölümü gibi alt başlıklar tutar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir iktisadi sürecin hukuki düzenlemelerle birlikte sayılması, atlasın şu kuralının dayanağıdır: bu dosyada birikim, yalnızca bir piyasa süreci olarak anılmaz.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, klasik siyasal iktisadın rolüne ayrı bir bölüm ayırır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Adam Smith için ayrı bir kayıt, onun ahlak felsefesinin kapsamlı ve alışılmadık bir sürümünü geliştirdiğini yazar.",
+      "iddia": "Ayrım, mülkiyet düzenini bir tasarruf sorusu olmaktan çıkarıp bir zor sorusu hâline getirir: Marx'a göre gerçek tarihte fetih, köleleştirme, soygun ve cinayet b",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k2",
-      "iddia": "Kavramı eleştirel biçimde kullanan yazar için tutulan kayıt ise, çağdaş kapitalist üretim tarzının kökenini sömürülen proletaryadan artı değer çıkarılmasında bu",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k4",
+      "iddia": "Marx'a göre Edward Gibbon Wakefield'in katkısı sömürgeler hakkında yeni bir şey bulmak değil, sömürgelerde anavatandaki kapitalist üretimin koşullarına ilişkin ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Mekanizmaların ayrıntısı, tarihsel örnekler ve sonraki tartışmalar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "anahtar": "k4",
+      "iddia": "Wakefield'in aktardığı örnekte, Peel adlı girişimci İngiltere'den Batı Avustralya'daki Swan River'a 50.000 sterlin değerinde geçim ve üretim aracıyla birlikte i",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Marx'ın buradan çıkardığı sonuç kavramın çekirdeğidir: sermaye bir şey değil, kişiler arasında bir toplumsal ilişkidir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k4",
-      "iddia": "cilt, sekizinci kısım'dir; dosya o eserin kamu malı tam metnine bağlanır.",
+      "iddia": "Toprak ucuz ve serbestken o ilişki kurulmaz; Wakefield'in çözümü, devletin toprağa işçiyi bağımsız sahip olmaktan alıkoyacak kadar yüksek bir \"yeterli fiyat\" bi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Marx onu doğrudan 'in previous accumulation savına bağlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Smith'in ikinci kitabının girişindeki savı ise ahlaki değil teknik bir öncelik savıdır: dokumacı, dokuduğunu satana kadar kendisini geçindirecek ve ona araç ger",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Marx'ın alay ettiği şey bu teknik önceliğin kendisi değil, ona giydirilen anlatıdır: çalışkan ve tutumlu bir seçkinler takımı ile savurgan bir ayaktakımı masalı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "On altıncı yüzyılda Reformasyon ve kilise mülkünün yağmalanması sürece yeni bir ivme verdi; manastırların kaldırılması sakinlerini proletaryaya fırlattı, kilise",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı elden yoksul halkın kilise ondalığındaki yasal payına sessizce el kondu; Elizabeth'in saltanatının kırk üçüncü yılında ülke yoksulluğu bir yoksul vergisiyl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Marx'a göre asıl sıçramayı on sekizinci yüzyıl yaptı: yasanın kendisi halkın toprağını çalmanın aleti hâline geldi, soygunun parlamento biçimi ortak toprakların",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Marx, 1801 ile 1831 arasında halkın elinden alınıp toprak sahiplerine devredilen ortak toprağı 3.511.770 akre olarak verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Dizinin son halkası arazilerin boşaltılmasıdır — sürülecek bağımsız köylü kalmayınca kulübelerin temizlenmesi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Marx'a göre yöntemler on yedinci yüzyıl sonunda İngiltere'de sistemli bir bileşime varır: sömürgeler, kamu borcu, modern vergilendirme biçimi ve korumacılık.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bunların bir bölümü kaba kuvvete dayanır, ama hepsi devletin yoğunlaşmış gücünü kullanır; Marx için zor, yeni bir toplumla gebe kalmış her eski toplumun ebesidi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Anderson'ın ticaret yıllıklarından aktardığına göre İngiltere, Utrecht Barışı'nda İspanyollardan Asiento Antlaşması'yla köle ticareti ayrıcalığını kopardı ve 17",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mülksüzleştirmenin tarihi ülkeden ülkeye başka görünümler alır, evrelerini başka sıralarla ve başka dönemlerde geçirir; klasik biçimini yalnızca örnek olarak se",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Marx aynı sayfanın dipnotunda İtalya'yı istisna olarak anar: kapitalist üretimin en erken geliştiği yerde serflik de erken çözüldü, ama serf toprak üzerinde bir",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "İkinci sorun kavramın zamanıdır: kapitalizmin önkoşulu olan tek seferlik bir tarihsel olay mı, yoksa kapitalizmin içinde süren bir işlem mi?",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Marx'ın kendi yazdıkları bu noktada belirsizdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kendisi Batı Avrupa'da sürecin aşağı yukarı tamamlandığını söyler.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Sonraki kuşaklar boşluğu üç ayrı yönde doldurdu: David Harvey'in 2003 tarihli The New Imperialism'i el koyarak birikim adıyla süreci bugüne taşır ve \"ilkel\" sıf",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Chambers'ın 1953'te The Economic History Review'da yayımlanan yazısının başlığı doğrudan bu bağlantıyı sorar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Marx sürecin başlangıcını on beşinci yüzyılın son üçte biri ile on altıncı yüzyılın ilk on yılına koyar, kavramı ise o yüzyılların kendi sözcüğü olarak değil, s",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Marx sürecin başlangıcını on beşinci yüzyılın son üçte biri ile on altıncı yüzyılın ilk on yılına koyar, kavramı ise o yüzyılların kendi sözcüğü olarak değil, s",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

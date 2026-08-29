@@ -1,61 +1,199 @@
 {
   "id": "kavram-timar",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:55.937Z",
-  "govde_hash": "4780c74eea4f",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T19:27:01.608Z",
+  "govde_hash": "b02dfed25d1e",
+  "commit": "2cf94d4",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak sistemi şöyle tanımlar: Osmanlılar'da devlete ait toprakların askerî ve idarî gayelerle tahsisine dayalı sistem; maddenin müellifi Halil İnalcık, baskı t",
+      "iddia": "Halil İnalcık'a göre böyle bir devlette bir tahsis düzeni zorunlu olarak ortaya çıkar: süvarinin ihtiyacı ancak kırsal bir çevrede karşılanabilir ve devletin an",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, Türkçede sözcüğün dirlik ile eş anlamlı kullanıldığını yazar.",
+      "iddia": "Tımar bu soruna verilen Osmanlı cevabıdır — ve cevabın inceliği şuradadır: sipahiye toprak verilmez, belirli bir toprağın vergi geliri askerî hizmet karşılığınd",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir kurumun adının bir başka sözcükle eş anlamlı kaydedilmesi, atlasın terim kilidi kapısında neden varyant listesi tuttuğunun dayanağıdır; kapı bu dosyanın yaz",
+      "iddia": "Düzen, yalnız askerî-idarî örgütlenmenin değil, mîrî arazi rejiminin işleyişinin, köylü-çiftçilerin statüsünün, ödeyecekleri verginin belirlenmesinin ve klasik ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı bütçede, tımar uygulanmayan Mısır gelirleri dışarıda bırakıldığında kamu gelirlerinin hemen hemen yarısı bu kalemlere ayrılmış görünür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Osmanlı toprak hukukunda mîrî arazi, rakabesi (kuru mülkiyeti) beytülmâle ait bulunan ve tasarruf hakkı devlet tarafından mutasarrıflara ihale ve tefvîz edilen ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sipahiye geçen ne rakabedir ne de mülk hâline gelmiş bir tasarruf; yeni bir tahrir yapılıncaya kadar defterde yazılı vergileri toplama hakkıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Onun için kaydedilen rakam da toprağın kendisi değil hâsıldır, yani gelirin toplamıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kanunun 1892 tarihli İngilizce çevirisinde toprak beş sınıfa ayrılır: memlûke (mülk), mîriye, mevkūfe, metrûke ve mevât.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Üçüncü madde mîrî arazinin rakabesini beytülmâle bağlar ve bu yerlerin vaktiyle \"who were considered the owners of the soil\" diye nitelenen tımar ile zeâmet sah",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Mülk arazide ise toprağın kendisi ve mülkiyeti sahibine aittir, miras yoluyla geçer, vakıf, rehin, hibe ve şüf'a hükümlerine tâbidir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Bu sistemin sıklıkla karşılaştırıldığı Avrupa kavramı için tutulan kayıt, o kavramın ortaçağ toplumunu anlamak için yararlı bir kurgu olup olmadığına dair sonuç",
+      "iddia": "Osmanlı'da özel mülkiyet bulunmadığı yolundaki yaygın genelleme bu yüzden yanlıştır: mülk ve vakıf kategorileri mîrînin yanında durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Osmanlı'da özel mülkiyet bulunmadığı yolundaki yaygın genelleme bu yüzden yanlıştır: mülk ve vakıf kategorileri mîrînin yanında durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tımar sahibine sâhib-i arz denirdi; çünkü arazi ve çiftçi üzerinde kanunlarda belirtilen şartları uygulamada tam yetkili tek kişiydi ve bu kanunları çiğnerse so",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çiftçinin toprağını terk etmemesi gerekirdi ve sipahinin kaçan çiftçiyi on yıl, sonra on beş yıl içinde geri getirme yetkisi vardı; toprak ekilmezse çift bozan ",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Atlas iki kurumu birbirine çevirmez ve birini diğerinin karşılığı saymaz; kullanılan kaynak bölümlerinde böyle bir eşleme belirtilmemiştir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "İnalcık kavramın kökenini tek bir yere bağlamaz: belgeye dayalı ilk atıf Orhan Bey dönemine gider, Osman Gazi'nin dağıttıkları daha çok yurtluk tarzındaydı, Biz",
+      "durum": "OK",
+      "not": ""
     },
     {
-      "anahtar": "k2",
-      "iddia": "Atlas iki kurumu birbirine çevirmez ve birini diğerinin karşılığı saymaz; kullanılan kaynak bölümlerinde böyle bir eşleme belirtilmemiştir.",
+      "anahtar": "k1",
+      "iddia": "Aynı madde bu tür bir tahsis düzeninin kadim İran'da, Bizans'ta, Batı Avrupa'da, İslâm ve Türk-Moğol devletlerinde hâkim olduğunu söyleyip Osmanlı'nın her birin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ama sınırı da o koyar: Batılı uygulamalardan ayıran temel özelliklerden biri mirasçılara geçmemesidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Tahrir, vergilerin ve vergi verenlerin ismen tespiti için yapılan sayımlar ile bu sayımların defterleridir; doğrudan tımar sistemine bağlıdır ve yalnız bu siste",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Maddenin müellifinin ve baskı tarihinin ayrıca kaydedilmesi, atlasın kaynak alanında neden erişim tarihi ve not tuttuğunun dayanağıdır: bir ansiklopedi maddesi ",
+      "iddia": "Sayım sonunda mufassal, icmal ve evkaf defterleri düzenlenirdi; icmal, gelirlerin has, zeâmet ve tımar sahipleri arasında nasıl paylaştırıldığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Sayım sonunda mufassal, icmal ve evkaf defterleri düzenlenirdi; icmal, gelirlerin has, zeâmet ve tımar sahipleri arasında nasıl paylaştırıldığını gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Defterler bu yüzden ölçülebilir bir kayıttır, ama şeffaf bir pencere değildir: reâyânın sayım sırasında köyünün gerçek hâsılatını gizlemesi, deftere yazılmamak ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Tahririn otuz yılda bir tekrarlandığına dair kayıtların da gerçeği tam yansıtmadığı belirtilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arvanid Sancağı Defteri'ni Mehmet Öz günümüze ulaşan en eski sayımı içeren defter diye tanıtır; iki imzalı madde onun miladi karşılığında ayrışır: İnalcık 835 (",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Arvanid Sancağı Defteri'ni Mehmet Öz günümüze ulaşan en eski sayımı içeren defter diye tanıtır; iki imzalı madde onun miladi karşılığında ayrışır: İnalcık 835 (",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yavuz Sultan Selim, Diyarbekir'e bağlı dokuz Kürt sancak beyinin yurtluk-ocaklık haklarını tanımış, onların zeâmet ve tımarları aile üyeleri arasında miras yolu",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Müslüman olmak da ön şart değildi: bazı sancaklarda hıristiyan tımarları toplam sipahilerin %35'i gibi bir orana ulaşıyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1584 sonrasında tımarların değeri sabit kalırken enflasyon %100'e ulaştı, ateşli silâh gerektiren savaşlarda sipahinin yeri maaşlı birliklere geçti ve hükümet t",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Gelirler bu arada iltizam yoluna aktı — Mehmet Genç bunun günümüzün deyimiyle vergilendirmenin bir tür özelleştirilmesi sayılabileceğini yazar — ve 1695'te mukā",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1827'de Rumeli ve Anadolu'daki elli üç sancaktan 5200 kadar tımarlı sipahi gelirleriyle birlikte Asâkir-i Mansûre süvarisine dönüştürüldü; ancak o gelirler geçi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Linda Darling'in 2017 tarihli makalesi, icmal defterlerine dayanarak tımar sahiplerinin kimliklerindeki değişimi izler ve nasihatnâmelerdeki tanınmış şikâyetler",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tımarda cevap görev süresince ve mirasa geçmemek üzeredir, mâlikânede kaydıhayat şartıyla ve peşin bir muaccele karşılığıdır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Sistemin uygulandığı devlet için tutulan kayıt, onu 1299-1922 arasına yerleştirir ve devlet dilini Osmanlı Türkçesi olarak verir.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Sistemin işleyişi, tımar türleri, tahrir defterleri ve çözülme süreci burada ayrı başlıklar altında ele alınmamıştır; kullanılan kaynak bölümünün kapsamı tanım ",
+      "iddia": "Tımarda cevap görev süresince ve mirasa geçmemek üzeredir, mâlikânede kaydıhayat şartıyla ve peşin bir muaccele karşılığıdır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

@@ -1,5 +1,5 @@
 # Çürütücü raporu — kavram-eksen-cagi
-_2026-08-21T09:53:17.444Z_
+_2026-08-29T19:18:57.126Z_
 
 ## Zayıf bulunmayan alanlar
 

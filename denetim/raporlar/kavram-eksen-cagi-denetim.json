@@ -1,63 +1,177 @@
 {
   "id": "kavram-eksen-cagi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:54.229Z",
-  "govde_hash": "0d04bd9efcff",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T19:18:57.840Z",
+  "govde_hash": "f93029d79493",
+  "commit": "cfd4abf",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak bölümlerini sıralar: kavramın kökeni, özellikler, düşünürler ve akımlar, alımlanma.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Hegel'in formülüyle Tanrı'nın Oğlu'nun görünüşü dünya tarihinin ekseniydi; Jaspers, kullandığımız takvimin her gün bu Hıristiyan yapıya tanıklık ettiğini ekler.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir dönem adının hem nereden geldiğinin hem nasıl karşılandığının ayrı bölümler olarak tutulması, atlasın şu kuralının dayanağıdır: bu atlasta Eksen Çağı, bir d",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Eksen, Çağı"
+      "iddia": "Karl Jaspers'in itirazı kısaydı: böyle bir eksen yalnızca inanan Hıristiyanlar için geçerlidir, dolayısıyla herkesin tarihinin ekseni olamaz.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynağın düşünürler ve akımlar diye ayrı bir bölüm tutması, kavramın temel iddiasının farklı bölgelerde yaşamış düşünürlerin bir araya getirilmesi olduğunu göst",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Aradığı şey, hangi inanç maddesine bağlı olursa olsun bütün halkların ortak bir tarihsel özanlayış çerçevesi kurmasına yetecek kadar ampirik olarak inandırıcı b",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Konfüçyüs ile Lao Tzu'yu, Upanişadlar ile Buda'yı, Zerdüşt'ü, İlyas'tan Yeremya ve Deutero-Yeşaya'ya uzanan peygamberleri ve Homeros'tan Platon'a Yunanlıları ay",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
-      "iddia": "Konfüçyüs için tutulan kayıt, tarihleri geleneksel kaydıyla MÖ 551-479 olarak verir.",
+      "iddia": "Bedeli de oradadır: birbirinden habersiz bölgeleri aynı takvime bağlayan bir dönem adı, kronolojiyi bir betimleme olmaktan çıkarıp sınanması gereken bir iddiaya",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Jaspers'e göre sayılan adların ima ettiği her şey birkaç yüzyıl içinde Çin'de, Hindistan'da ve Batı'da neredeyse eşzamanlı gelişmişti, üstelik bu bölgelerden hi",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Jaspers'e göre sayılan adların ima ettiği her şey birkaç yüzyıl içinde Çin'de, Hindistan'da ve Batı'da neredeyse eşzamanlı gelişmişti, üstelik bu bölgelerden hi",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Jaspers, Mısır ile Babil dünyasının görkemini kabul eder; ama atılımın getirdiği her şeyden yoksun kalmaları yüzünden bize uzak düştüklerini, özellikle Mısır'da",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çağa katılmayan halklara ise iki ihtimal bırakır: ya üç tinsel yayılma merkezinden biriyle temasa geçip tarihe girerler, ya da tarih öncesinin gitgide daralan a",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ad 1949'da doğdu: Jaspers Vom Ursprung und Ziel der Geschichte'yi o yıl Zürih'te yayımladı, kitap 1953'te Bullock'un çevirisiyle İngilizceye kazandırıldı.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "- 347 aralığını, doğum yılının yanındaki soru işaretiyle birlikte verir.",
+      "iddia": "Stanford Felsefe Ansiklopedisi'ne göre Jaspers 1945 sonrası yapıtlarını açıkça hümanist bir öğreti olarak kurmuş, erken dönemin Existenz vurgusunu bırakıp payla",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Gözlemin kendisi ise Jaspers'ten eskidir: farklı bölgelerde düşünürlerin eşzamanlı belirişi 18. yüzyıldan beri, başta Anquetil-Duperron olmak üzere birçok yazar",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k2",
-      "iddia": "İki düşünürün de tarihlerinin çekinceyle verilmesi, bir eşanlılık iddiasının hangi zeminde kurulduğunu görünür kılar; atlas bu yüzden kavramı bir dönem sınırı o",
+      "anahtar": "k1",
+      "iddia": "Adın kendisi bu yüzden geriye dönük bir okumadır: pencerenin içinde yaşayan hiç kimse bir eksende olduğunu bilmiyordu, çünkü ad onlardan iki binyıldan uzun süre",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "İki düşünürün de tarihlerinin çekinceyle verilmesi, bir eşanlılık iddiasının hangi zeminde kurulduğunu görünür kılar; atlas bu yüzden kavramı bir dönem sınırı o",
+      "iddia": "Adın kendisi bu yüzden geriye dönük bir okumadır: pencerenin içinde yaşayan hiç kimse bir eksende olduğunu bilmiyordu, çünkü ad onlardan iki binyıldan uzun süre",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kavramın önerdiği özellikler, kapsadığı akımlar ve eleştirilerin ayrıntısı burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak i",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k2",
+      "iddia": "Terim sonradan genişledi de; Yves Lambert Aydınlanma'yı bir İkinci Eksen Çağı saymıştır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k4",
-      "iddia": "Bu kavramın formüle edildiği eser Jaspers, Tarihin Kökeni ve Hedefi'dir; dosya o eserin kamu malı tam metnine bağlanır.",
+      "iddia": "Stanford Felsefe Ansiklopedisi Konfüçyüs'ün tarihlerini, geleneksel kayıt olduğu notuyla, MÖ 551-479 verir; aynı ansiklopedinin Platon maddesi doğum yılını soru",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "5 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Stanford Felsefe Ansiklopedisi Konfüçyüs'ün tarihlerini, geleneksel kayıt olduğu notuyla, MÖ 551-479 verir; aynı ansiklopedinin Platon maddesi doğum yılını soru",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Jaspers'in örnekleri arasında sayılan Zerdüşt'te gevşeklik daha da büyüktür: bir zamanlar çok daha erken tarihleri savunan Mary Boyce ve önde gelen başka araştı",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Diarmaid MacCulloch 2006'da tezi \"a baggy monster\" diye niteledi ve Jaspers'in ayarlamalardan sonra seçtiği MÖ 800-200 penceresi boyunca söz konusu dört uygarlı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Jaspers itirazı önceden görmüştü: tinsel alışverişte teması olmayanın ortak bir tarihi de olmayacağı yollu bir karşı çıkışı kendi metnine kaydeder ve tezinin, k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mısır ile Mezopotamya'yı dışarıda bırakan şey bir kanıt değil, Jaspers'in atılım ölçütüdür; eleştirmenler listeye tanıma uymadığı için elenen kilit figürleri ek",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mısır ile Mezopotamya'yı dışarıda bırakan şey bir kanıt değil, Jaspers'in atılım ölçütüdür; eleştirmenler listeye tanıma uymadığı için elenen kilit figürleri ek",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı dökümü veren ansiklopedi maddesi iki başlık daha sayar: birlikte doğduğu varsayılan düşünsel gelişmeler arasında gösterilebilir bir ortak paydanın bulunmam",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Mullins ve arkadaşlarının 2018 tarihli incelemesi, savunucuların MÖ 800-200 arasına yerleştirdiği paralel kültürel gelişmeleri Seshat küresel tarih veri bankası",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kavramı sürdürenler bu tür itirazları, kanıtı tarihlerin çakışmasında değil yapıların benzerliğinde arayarak karşılar: Shmuel Eisenstadt kavramı karşılaştırmalı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kurgu itirazı programın kendi cildinde de görünür: Jan Assmann'ın 2012 tarihli The Axial Age and Its Consequences derlemesindeki bölümü kültürel bellek ile Ekse",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Her iki kaydın taşıdığı çekince, eşzamanlılık iddiasının hangi zeminde kurulduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Her iki kaydın taşıdığı çekince, eşzamanlılık iddiasının hangi zeminde kurulduğunu gösterir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }
   ]
 }

@@ -1,57 +1,117 @@
 {
   "id": "kavram-anakronizm",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:53.766Z",
-  "govde_hash": "363c4ebc6fd0",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T19:21:38.877Z",
+  "govde_hash": "df2ca9b6bcc8",
+  "commit": "6d7ef68",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, kavramın türlerini üç alt başlıkta tutar: parakronizm, prokronizm ve metakronizm.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Reinhart Koselleck'in kavram tarihi (Begriffsgeschichte) programı tam da bunu kazımayı hedefler: geçmiş olayları ve süreçleri betimlemekte kullanılan kavramları",
+      "durum": "OK",
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, siyasi güdümlü anakronizm ile bilinçsiz anakronizmi ayrı başlıklar olarak tutar; ayrıca sanat ve edebiyat başlığı altında komik anakronizm, gelecek anak",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir hatanın kasıtlı ve kasıtsız biçimlerinin ayrı ayrı adlandırılması, atlasın anakronizm dedektörünü neden bir hüküm değil bir işaret olarak kullandığının daya",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, sahteciliğin saptanması diye ayrı bir bölüm tutar ve akademideki kullanımına da ayrı bir başlık ayırır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Aynı olgunun hem bir üslup sorunu hem bir doğrulama aracı olarak kaydedilmesi, atlasın terim kilidi ve anakronizm kapılarını neden aynı denetim zincirinde tuttu",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Kapının yakaladığı örneklerden biri, bir kavramın tanımladığı dönemde o dönemin insanlarınca kullanılmamış olmasıdır.",
+      "anahtar": "k2",
+      "iddia": "Eugenius'a karşı yürüttüğü kampanyanın parçası olarak değerlendirilebileceğini yazar.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Michel Foucault için tutulan kayıt, onu 1926-1984 arasında yaşamış bir Fransız tarihçi ve filozof olarak kaydeder ve yapısalcı ile post-yapısalcı akımlarla iliş",
+      "iddia": "Birincisi tarihe iner: belge Konstantinopolis'i patriklik merkezlerinden biri olarak sayar, oysa ayrıcalık belgenin kendi ifadesiyle Konstantinos'un Hristiyan o",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kendi çekincesini de kayda geçirir — herhangi bir Roma satrabının anıldığını okuduğunu hatırlamadığını söyler, kesin bir yokluk hükmü kurmaz.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Coleman'ın girişi aynı sözcüğü, belgenin dilinin papalık kalemine işaret ediyor göründüğünü söylediği dilsel işaretler listesine alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Paulus'un papalığına (757-767) varır — bunu bir kesinlik olarak değil, dilin işaret ettiği en olası seçenek olarak yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Quentin Skinner'ın Meaning and Understanding in the History of Ideas başlıklı makalesi 1969'da History and Theory'nin 8. cildinin 1. sayısında, 3. sayfadan başl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Pocock'un oluşturduğu Cambridge okulu, sorunun tanımı bakımından Koselleck'e paralel durur: ikisi de kavramların zaman içindeki tarihsel evrimiyle ilgilenir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Valla 1440'ta belgeyi çürütürken anakronizm terimini kullanmaz; Coleman'ın hazırladığı ciltte, Latince metinde de İngilizce çeviride de bu terim geçmez.",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Türlerin ayrıntıları, edebiyat örnekleri ve akademik tartışmalar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "iddia": "Ölçüt, geçmişin bize köklü biçimde yabancı olduğu varsayımına yaslanır ve bu varsayım tartışma konusudur: Herder, İnsanlık Tarihi Felsefesi Üzerine Düşünceler'd",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Andreas Körber 2019'da bu tabloyu tersinden yokluyor: geçmişin ötekiliği önermesinin de kendi tuzakları ve sınırları vardır ve makale, daha kapsamlı bir tarihse",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tarih disiplini Yunanlardan bu yana konu seçiminde, çerçeve varsayımlarında ve yönteminde Avrupa merkezli olmaya eğilimliydi; İngiltere'nin sanayi devrimi ile F",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Marx 1852'de şunu gözlemler: devrimci bunalım dönemlerinde insanlar, daha önce var olmayan bir şey yarattıkları anda bile kaygıyla geçmişin ruhlarını hizmetleri",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Örnekleri sıralar: Luther Havari Pavlus'un maskesini takar, 1789-1814 Devrimi kendini kâh Roma Cumhuriyeti kâh Roma İmparatorluğu kılığına sokar, 1848 ise 1789'",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "sayfalarını kaplar ve terimi \"bir kurgunun tiranlığı\" diye adlandırır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "dosyasında ise geriye dönüklüğü kavramın kurucusu işaretler: Marx süreci \"sözde ilkel birikim\" diye adlandırır ve bu sürecin, sermayenin ve ona karşılık gelen ü",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Valla'nın belgeyi tarihten düşüren hamlesi ile Marx'ın kendi terimine sözde ön ekini takması aynı yükümlülüğün iki ucudur: birincisi adı tarihe karşı sınar, iki",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Valla'nın belgeyi tarihten düşüren hamlesi ile Marx'ın kendi terimine sözde ön ekini takması aynı yükümlülüğün iki ucudur: birincisi adı tarihe karşı sınar, iki",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

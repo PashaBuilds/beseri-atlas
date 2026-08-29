@@ -1,0 +1,257 @@
+{
+  "id": "kavram-anakronizm",
+  "govde_hash": "df2ca9b6bcc8",
+  "commit": "6d7ef68",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Reinhart Koselleck'in kavram tarihi (Begriffsgeschichte) programı tam da bunu kazımayı hedefler: geçmiş olayları ve süreçleri betimlemekte kullanılan kavramların mantığını ve anlam katmanlarını ortaya çıkarmayı, bir yandan da bu kavramların zaman içindeki evrimini izlemeyi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Koselleck kesimi: kavramlarin mantigi ve anlam katmanlari + zaman icindeki evrimi; ikisi de kaynakta acik."
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Eugenius'a karşı yürüttüğü kampanyanın parçası olarak değerlendirilebileceğini yazar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Coleman girisi 1440 tarihini, Alfonso sekreterligini ve kampanya baglantisini \"may well be considered\" cekincesiyle verir; cekince metne tasindi."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Birincisi tarihe iner: belge Konstantinopolis'i patriklik merkezlerinden biri olarak sayar, oysa ayrıcalık belgenin kendi ifadesiyle Konstantinos'un Hristiyan oluşundan üç gün sonra verilmiştir ve Valla o sırada kentin henüz ne patriklik ne piskoposluk merkezi ne Hristiyan bir kent olduğunu, hatta Konstantinopolis adını taşımadığını, kurulmadığını ve tasarlanmadığını gösterir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak alti oge sayar: not yet a patriarchate, nor a see, nor a Christian city, nor named Constantinople, nor founded, nor planned. Kor hakem: govde bes oge yaziyordu, eksik olan \"nor planned\" geri kondu (liste kirpmasi duzeltildi)."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Kendi çekincesini de kayda geçirir — herhangi bir Roma satrabının anıldığını okuduğunu hatırlamadığını söyler, kesin bir yokluk hükmü kurmaz.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Valla \"I do not remember ever to have read\" der; kesin yokluk hukmu kurmaz. Cekince metinde korundu."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Coleman'ın girişi aynı sözcüğü, belgenin dilinin papalık kalemine işaret ediyor göründüğünü söylediği dilsel işaretler listesine alır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Coleman girisi \"satraps (as a Roman official)\" ogesini dilsel isaretler listesine alir ve dilin papalik kalemine isaret ediyor GORUNDUGUNU soyler; cekince korundu."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Quentin Skinner'ın Meaning and Understanding in the History of Ideas başlıklı makalesi 1969'da History and Theory'nin 8. cildinin 1. sayısında, 3. sayfadan başlayarak yayımlandı; Crossref kaydı makaleye yapılan atıfları 959 olarak sayıyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ustverisi: History and Theory, cilt 8, sayi 1, 1969, sayfa 3, is-referenced-by-count 959. Makalenin ICERIGI hakkinda iddia kurulmadi (ozet alani bos)."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Pocock'un oluşturduğu Cambridge okulu, sorunun tanımı bakımından Koselleck'e paralel durur: ikisi de kavramların zaman içindeki tarihsel evrimiyle ilgilenir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak Cambridge okulunu Skinner, Dunn, Pocock diye sayar ve Koselleck ile paralelligi kavramlarin tarihsel evrimi uzerinden kurar."
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Ölçüt, geçmişin bize köklü biçimde yabancı olduğu varsayımına yaslanır ve bu varsayım tartışma konusudur: Herder, İnsanlık Tarihi Felsefesi Üzerine Düşünceler'de (1784-91) insan doğasının kendisinin tarihsel bir ürün olduğunu ve insanların farklı tarihsel dönemlerde farklı davrandığını savunarak, insan doğasında kalıcı ortaklıklar bulunduğunu ve geçmişin aktörlerini kendi deneyimimizden hareketle anlayabileceğimizi kabul eden görüşün karşısına geçti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Herder kismi kaynakta dogrudan (human nature is itself a historical product; act differently in different periods) ve karsi konum da kaynakta (we can understand the actors of the past based on our own experiences and nature). Ancak kaynak Herder ile ANAKRONIZM olcutu arasinda bag kurmaz. Kor hakem: takip cumlesi \"bu ikinci gorusun mirascisidir\" diyerek YANLIS gorusu isaret ediyordu (cumle sirasinda ikinci gelen, tekbicimlilik gorusuydu); cumle duzeltildi ve cikarimin dosyaya ait oldugu metinde beyan edildi."
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Andreas Körber 2019'da bu tabloyu tersinden yokluyor: geçmişin ötekiliği önermesinin de kendi tuzakları ve sınırları vardır ve makale, daha kapsamlı bir tarihsel düşünme kavramına duyulan ihtiyacı çözülmüş bir sorun olarak değil, bir meydan okuma olarak ortaya koyar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak Crossref ozetidir, tam metin degil. Ozet \"often regarded as\" ve \"outlines the challenge\" der; her iki cekince de metne tasindi."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Tarih disiplini Yunanlardan bu yana konu seçiminde, çerçeve varsayımlarında ve yönteminde Avrupa merkezli olmaya eğilimliydi; İngiltere'nin sanayi devrimi ile Fransa, Britanya ve Almanya'daki bürokratik devlet oluşumu örnek alındığında başka ülkelerin gelişimi \"standart dışı\" ya da güdük görünür.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak Avrupa merkezliligi konu secimi, cerceve varsayimlari ve yontem baslıklarinda sayar ve \"non-standard or stunted\" ifadesini kullanir."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Marx 1852'de şunu gözlemler: devrimci bunalım dönemlerinde insanlar, daha önce var olmayan bir şey yarattıkları anda bile kaygıyla geçmişin ruhlarını hizmetlerine çağırır, onlardan adlar, savaş sloganları ve kostümler ödünç alır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "18 Brumaire acilis pasaji; \"anxiously conjure up the spirits of the past\" ve odunc alinan adlar, sloganlar, kostumler."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Örnekleri sıralar: Luther Havari Pavlus'un maskesini takar, 1789-1814 Devrimi kendini kâh Roma Cumhuriyeti kâh Roma İmparatorluğu kılığına sokar, 1848 ise 1789'u ve 1793-95'in devrimci geleneğini taklit etmekten öteye gidemez.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni pasaj: Luther/Pavlus, 1789-1814/Roma, 1848/1789 ve 1793-95. Kaynak dort ornegi de sayar; dordu de metne alindi."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "sayfalarını kaplar ve terimi \"bir kurgunun tiranlığı\" diye adlandırır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ustverisi: AHR cilt 79, sayfa 1063-1088, 1974. Baslik \"The Tyranny of a Construct\" iddianin kendisini tasir; makalenin ARGUMANI hakkinda iddia kurulmadi."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "dosyasında ise geriye dönüklüğü kavramın kurucusu işaretler: Marx süreci \"sözde ilkel birikim\" diye adlandırır ve bu sürecin, sermayenin ve ona karşılık gelen üretim tarzının tarih öncesi evresini oluşturduğu için ilkel göründüğünü söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kapital I, 26. bolum: \"The so-called primitive accumulation, therefore, is nothing else than...\" ve \"It appears as primitive, because it forms the prehistoric stage of capital and of the mode of production corresponding with it.\" Kor hakem: govde \"Marx BOLUMU sozde ilkel birikim diye adlandirir\" diyordu; kaynaktaki bolum basligi \"The Secret of Primitive Accumulation\"dir, \"sozde\" nitelemesi SURECE aittir. Duzeltildi."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Valla'nın belgeyi tarihten düşüren hamlesi ile Marx'ın kendi terimine sözde ön ekini takması aynı yükümlülüğün iki ucudur: birincisi adı tarihe karşı sınar, ikincisi adın tarihe sonradan konduğunu itiraf eder.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kapanis sentezi; iki kaynak da bu karsilastirmayi kendisi kurmaz, cumle iki kaynakli bir yorumdur ve olculemez sayilir."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Coleman, satrap sözcüğünün Roma'da yüksek görevliler için ancak sekizinci yüzyılın ortasında kullanılmaya başlandığını dipnotta kaydeder; dilsel işaretlerin tümünü değerlendirdiğinde belgenin doğduğu yer olarak papalık kalemine, en olası zaman olarak da I. Paulus'un papalığına (757-767) varır — bunu bir kesinlik olarak değil, dilin işaret ettiği en olası seçenek olarak yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem ekledi. Coleman dipnotu: \"The word satrap was in fact applied to higher officials at Rome only in the middle of the eighth century.\" Giris: \"In short, the language of the Donation seems to point to the papal chancellery as the place of its origin, and the pontificate of Paul I (757-767) as the most probable time.\" Kaynagin \"seems to point\" ve \"most probable\" cekinceleri metne tasindi. Dosya bu halkayi hic kullanmiyordu: anakronizmin YALNIZ curutucu degil TARIHLEYICI islevi eksik kalmisti."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Valla 1440'ta belgeyi çürütürken anakronizm terimini kullanmaz; Coleman'ın hazırladığı ciltte, Latince metinde de İngilizce çeviride de bu terim geçmez.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kor hakem ekledi. Yokluk iddiasi: k2'nin 377.194 karakterlik tam metninde /anachron/i deseni SIFIR eslesme verir (ayni tarama k1'de de sifir). Kaynak bunu kendisi soylemez, gozlem onbellekteki tam metin uzerinde yapildi; bu yuzden destek kismi. Cekirdek yonergenin 6. sorusu (kavramin adi adlandirdigi seyden sonra dogduysa geriye donuk okuma acikca soylenmis mi) karsilanmamisti."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 14,
+    "kismi": 2,
+    "desteksiz": 0,
+    "olculemez": 1
+  }
+}

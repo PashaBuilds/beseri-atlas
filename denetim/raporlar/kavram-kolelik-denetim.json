@@ -1,43 +1,121 @@
 {
   "id": "kavram-kolelik",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:55.005Z",
-  "govde_hash": "b6b57e740da2",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T19:26:52.741Z",
+  "govde_hash": "1ec5d8aaa75f",
+  "commit": "2cf94d4",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, terminoloji başlığı altında altı alt başlık tutar: mal kölelik, borç emeği, bağımlılar, zorla çalıştırma (altında çocuk askerler ve çocuk emeği), zorla ",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Uluslararası hukukun verdiği ölçüt 1926 Kölelik Sözleşmesi'ndeki tanımdır; kölelik, üzerinde \"mülkiyet hakkına bağlı yetkilerin\" tamamı ya da bir bölümü kullanı",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, hukuki yönler başlığı altında özel ile devlet eliyle uygulama ayrımını alt başlık olarak tutar; özellikler başlığı altında ise iktisat ve tanımlama alt ",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "1926 tanımı özü korunarak hem 1956 Ek Sözleşme'ye hem de 1998 tarihli Uluslararası Ceza Mahkemesi Statüsü'ne aktarıldı; buna karşılık 1966 tarihli Medeni ve Siy",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 4 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir uygulamanın hukuki ve iktisadi yönlerinin ayrı ayrı işlenmesi, atlasın şu kuralının dayanağıdır: bu dosyada kölelik, yalnızca bir hukuki statü olarak değil ",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Amerikalılar Arası İnsan Hakları Mahkemesi 2016 tarihli Fazenda Brasil Verde kararında bu ikiliyi hem hukuken hem fiilen var olan durumlara uygulanır saydı ve m",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
-      "iddia": "Kayıtta yer alan bir uygulama alanı için tutulan ayrı bir madde, doğu kıyısı boyunca yerleşimcilerin büyük ölçüde plantasyonlarda el emeği sağlamak üzere Afrika",
+      "iddia": "Kölelik hukuku zaten mülkiyet ve hayvan hukukundan olduğu kadar hizmetkâr, çalışan ve hür kişilere ilişkin kurallardan devşirilerek kurulmuştu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "TDV İslâm Ansiklopedisi'nin imzalı KÖLE maddesi, kölenin hukuki işlemlere konu olması bakımından \"mal\" sayıldığını söyler; ama klasik fıkıh kaynaklarındaki tari",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1926 Sözleşmesi adının düşündürdüğünden geniştir: köle ticaretinin yanında zorla çalıştırmayı da düzenler ve taraflara köle ticareti için önleme ve bastırma, kö",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Zorla çalıştırmanın tanımı ayrı yoldan geldi: konu Uluslararası Çalışma Bürosu'na havale edildi ve 1930 Zorla Çalıştırma Sözleşmesi, askerlik ve ceza infazı gib",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Değişikliğin nedeni üsluptan çok yükümlülüktü: bu uygulamalar için aşamalılık kaydı korunurken 1956 metni köleliğin kendisi için zaman kaydını kaldırıyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Rossi bu ayrımı genel hatlarıyla benimserken seçkin köleleri \"nihai köleler\" sayan yorumu reddeder ve eğretilemenin bazı bağlamlara diğerlerinden daha iyi oturd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Frederick Douglass 1845 tarihli anlatısında köle kadınların çocuklarının \"her durumda annelerinin durumunu izleyeceğinin\" yasayla kurulduğunu yazar ve kaçtığı M",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kölelik aynı zamanda bir iktisadi düzenlemedir; Jenny Bourne'un iktisat tarihi maddesi bunu doğrudan söyler ve İç Savaş öncesinde Amerika Birleşik Devletleri'nd",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kârlılık ile verimlilik ayrı sorulardır ve ikincisinde tartışma sürüyor: Fogel ve Engerman 1974'te kölelerin ürettiklerinin yaklaşık yüzde doksanını ellerinde t",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Marx için kölelik bir kurumdan çok bir sermaye kaynağıdır: Afrika'nın \"kâr amaçlı insan avı sahasına\" çevrilmesini, Amerika'daki madenlerde köleleştirmeyi ve Do",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kavramın ilk sınırı, iki tanımın aynı şeyi ölçmemesidir: hukuki ölçüt bir kişi üzerinde kullanılan yetkileri sorar, toplumbilimsel ölçüt kişinin soyundan ve top",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Zorla çalıştırmanın iktisadi çözümlemesi için tutulan kayıt, çağdaş kapitalist üretim tarzının kökenini sömürülen proletaryadan artı değer çıkarılmasında bulan ",
+      "iddia": "Mülkiyet dilinin merkezde olmadığı klasik İslâm hukuku gibi düzenlerde ise ölçüt doğrudan uygulanamaz, ehliyet diline çevrilmesi gerekir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Köleliğin tarihi, bölge bölge biçimleri ve kaldırılma süreçleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "iddia": "1974-2006 arasında çalışan Çağdaş Kölelik Biçimleri Çalışma Grubu, başlığı kadın sünneti, namus cinayetleri ve sokak çocukları gibi konuları kapsayacak biçimde ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Anne Gallagher 2017'de Küresel Kölelik Endeksi'nin üç bileşenini de inceleyip yöntem ve uygulama kalitesi hakkında ön bulgular ortaya koydu; ayrıca endekse yöne",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavramın en yoğun uygulandığı yer Atlantik'tir: 1501 ile 1866 arasında Afrika kıtasından zorla götürülüp Amerika kıtasında meta üretimine koşulan insan sayısı t",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bourne'un modern zamanların başlıca örneği saydığı güney ise dosyasında, antik dünyada köle emeğinin ağırlığına dair anlaşmazlık ise dosyasında ele alınıyor.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

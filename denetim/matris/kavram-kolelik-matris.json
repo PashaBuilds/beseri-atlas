@@ -1,0 +1,295 @@
+{
+  "id": "kavram-kolelik",
+  "govde_hash": "d3968744c937",
+  "commit": "6d7ef68",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Uluslararası hukukun verdiği ölçüt 1926 Kölelik Sözleşmesi'ndeki tanımdır; kölelik, üzerinde \"mülkiyet hakkına bağlı yetkilerin\" tamamı ya da bir bölümü kullanılan kişinin statüsü veya durumudur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1926 Sozlesmesi tanimi AVL giris notunda birebir aktariliyor: status or condition ... powers attaching to the right of ownership."
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "1926 tanımı özü korunarak hem 1956 Ek Sözleşme'ye hem de 1998 tarihli Uluslararası Ceza Mahkemesi Statüsü'ne aktarıldı; buna karşılık 1966 tarihli Medeni ve Siyasi Haklar Sözleşmesi kulluk terimini uluslararası hukuka tanımsız soktu, yani tanımlama yükü 1926 ve 1956 metinlerinde kaldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak 1926 tanimin 1956 Ek Sozlesme ve 1998 Roma Statusu'nde ozu korunarak yeniden uretildigini yaziyor. Kor hakem duzeltmesi: onceki cumle MSHS'nin kolelik, kulluk ve zorla calistirma terimlerinin UCUNU birden tanimsiz biraktigini soyluyordu; kaynak yalnizca 'established in international law the term servitude without defining it' diyor. Iddia kaynagin tasidigina indirildi ve MSHS'nin yili (1966) kaynaktan eklendi."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Amerikalılar Arası İnsan Hakları Mahkemesi 2016 tarihli Fazenda Brasil Verde kararında bu ikiliyi hem hukuken hem fiilen var olan durumlara uygulanır saydı ve mülkiyet yetkilerini 2012 tarihli Bellagio-Harvard İlkeleri'ne dayanarak açıkladı: bir kişi üzerinde, sömürü kastıyla, zilyetliğe eş düşen bir denetim kurulmuşsa kölelik vardır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Fazenda Brasil Verde (2016) karari ve 2012 Bellagio-Harvard Ilkeleri kaynakta adiyla ve tarihiyle geciyor; zilyetlige es dusen denetim olcutu dogrudan aktarim."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Bir Kentucky mahkemesi 1838'de Turner v. Johnson kararında kölelerin bu ikili niteliğini açıkça yazar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "KOR HAKEM DUZELTMESI - uydurma olgu: onarim ajani mahkemeyi MISSISSIPPI mahkemesi diye vermisti. k2 birebir 'A Kentucky court acknowledged the dual character of slaves in Turner v. Johnson (1838)' diyor. Eyalet duzeltildi. Cumle onceki matriste hic izlenmiyordu (dava adindaki 'v.' cumle bolucuyu kirdigi icin); ayri iddia olarak kayda alindi."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Kölelik hukuku zaten mülkiyet ve hayvan hukukundan olduğu kadar hizmetkâr, çalışan ve hür kişilere ilişkin kurallardan devşirilerek kurulmuştu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "EH.Net maddesi kolelik hukukunun mulkiyet, hayvan, hizmetkar, calisan ve hur kisi kurallarindan devsirildigini yaziyor. Kor hakem duzeltmesi: kaynagin listesindeki 'employees' (calisan) govdede eksikti, geri konuldu."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "TDV İslâm Ansiklopedisi'nin imzalı KÖLE maddesi, kölenin hukuki işlemlere konu olması bakımından \"mal\" sayıldığını söyler; ama klasik fıkıh kaynaklarındaki tarif köleliği bir \"ehliyet ârızası\" olarak kurar, üstelik belirli bir bedel karşılığında hürriyet anlaşması yapılmış mükâteb köle mülkiyet hakkına sahiptir ve kendi hesabına hukuki işlem yapabilir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV maddesi kolenin hukuki islemler bakimindan mal sayildigini, tarifin ehliyet arizasi kurdugunu ve mukateb kolenin mulkiyet hakki tasidigini ayri cumlelerde veriyor."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "1926 Sözleşmesi adının düşündürdüğünden geniştir: köle ticaretinin yanında zorla çalıştırmayı da düzenler ve taraflara köle ticareti için önleme ve bastırma, kölelik için ise aşamalı biçimde ve mümkün olan en kısa sürede tam kaldırma gibi farklı ağırlıkta borçlar yükler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak sozlesmenin adindan genis oldugunu ve ticaret ile kolelik icin farkli yukumluluk agirliklari kurdugunu acikca soyluyor; aşamalilik kaydi kaynagin kendi ifadesidir."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Değişikliğin nedeni üsluptan çok yükümlülüktü: bu uygulamalar için aşamalılık kaydı korunurken 1956 metni köleliğin kendisi için zaman kaydını kaldırıyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1956 muzakeresinde kulluk teriminin atilma gerekcesi kaynakta yukumluluk farkina baglaniyor; zaman kaydinin kolelik icin kaldirildigi da ayrica yaziliyor."
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Rossi bu ayrımı genel hatlarıyla benimserken seçkin köleleri \"nihai köleler\" sayan yorumu reddeder ve eğretilemenin bazı bağlamlara diğerlerinden daha iyi oturduğunu, köleleştirilmiş insanların tarihsel çeşitliliğini doğru yakalamadığını, dolayısıyla karşılaştırmalı genelleme için elverişsiz olduğunu ileri sürer.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref ozet duzeyinde destek; tam metin okunmadi. Kor hakem notu: onceki cumlede Rossi'nin adi ilk kez burada geciyordu ve Patterson bir onceki cumlede aktarimsiz veriliyordu; aktarim halkasi (Patterson'in kendi kitabi degil, onu tartisan Rossi'nin Crossref ozeti) artik govdede aciktan yaziliyor."
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Frederick Douglass 1845 tarihli anlatısında köle kadınların çocuklarının \"her durumda annelerinin durumunu izleyeceğinin\" yasayla kurulduğunu yazar ve kaçtığı Maryland bölgesinde çocukların çoğu kez on ikinci ayını doldurmadan annelerinden ayrıldığını aktarır; kendi babasının kim olduğuna dair söylentiyi ise doğru ya da yanlış olabilir diye kaydeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gutenberg tam metninde pasajlar birebir. Kor hakem duzeltmesi: Douglass on ikinci ay olcusunu 'a common custom, in the part of Maryland from which I ran away' cekincesiyle veriyor; govde bu cekinceyi dusurup olcuyu genellestiriyordu, cekince geri konuldu."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Kölelik aynı zamanda bir iktisadi düzenlemedir; Jenny Bourne'un iktisat tarihi maddesi bunu doğrudan söyler ve İç Savaş öncesinde Amerika Birleşik Devletleri'nde yaşayan yaklaşık dört milyon kölenin piyasa değerini 3,1 ile 3,6 milyar dolar arasında tahmin edilen bir aralıkla verir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak yaklasik dort milyon kole ve 3,1-3,6 milyar dolar arasi tahmini aralik veriyor; aralik ve tahmin kaydi korundu."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Kârlılık ile verimlilik ayrı sorulardır ve ikincisinde tartışma sürüyor: Fogel ve Engerman 1974'te kölelerin ürettiklerinin yaklaşık yüzde doksanını ellerinde tuttuklarını ileri sürmüş, başkaları yarıdan azını savunmuştu; kaynağın bugünkü tahminlere dayanarak verdiği orta değer, tipik bir kölenin ürettiği ek çıktının yaklaşık yarısıdır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kor hakem duzeltmesi: kaynak tartismayi acik birakmiyor, 'current estimates suggest that the typical slave received only about fifty percent of the extra output that he or she produced' diyor ve karsi gorusu 'less than half' olarak veriyor. Govde 'baska arastirmacilar itiraz etmisti' deyip kaynagin kendi orta degerini dusuruyordu; ikisi de geri konuldu."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Marx için kölelik bir kurumdan çok bir sermaye kaynağıdır: Afrika'nın \"kâr amaçlı insan avı sahasına\" çevrilmesini, Amerika'daki madenlerde köleleştirmeyi ve Doğu Hint yağmasını kapitalist üretimin şafağını işaretleyen ve ilkel birikimin başlıca uğraklarını oluşturan olaylar arasında sayar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kapital 31. bolumun ilgili pasaji birebir; 'chief momenta of primitive accumulation' kaynagin kendi ifadesidir. Cumle tekrar eden 'sayar' yuklemi kaldirilarak kisaltildi, icerik degismedi."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Kavramın ilk sınırı, iki tanımın aynı şeyi ölçmemesidir: hukuki ölçüt bir kişi üzerinde kullanılan yetkileri sorar, toplumbilimsel ölçüt kişinin soyundan ve topluluğundan koparılmasını; Rossi'nin uyardığı gibi bu iki soru aynı vakalarda aynı cevabı vermez.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki tanimin farkli sey olctugu tezi Rossi ozetinin 'unhelpful for the purpose of comparative generalisation' sonucundan turetildi; ozet duzeyinde destek."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Mülkiyet dilinin merkezde olmadığı klasik İslâm hukuku gibi düzenlerde ise ölçüt doğrudan uygulanamaz, ehliyet diline çevrilmesi gerekir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "TDV maddesi olcutun ehliyet diline cevrilmesini dogrudan soylemiyor; madde kolelik tarifini ehliyet arizasi olarak kuruyor ve cikarim bu tarife dayaniyor."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "1974-2006 arasında çalışan Çağdaş Kölelik Biçimleri Çalışma Grubu, başlığı kadın sünneti, namus cinayetleri ve sokak çocukları gibi konuları kapsayacak biçimde genişletti; sonuçta diplomasi dili 1926 ve 1956 sözleşmelerinin hukuki sınırlarını fiilen gölgeledi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Calisma Grubunun 1974-2006 arasi calistigi, sayilan basliklari kapsadigi ve hukuki parametreleri golgeledigi kaynakta acik."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Anne Gallagher 2017'de Küresel Kölelik Endeksi'nin üç bileşenini de inceleyip yöntem ve uygulama kalitesi hakkında ön bulgular ortaya koydu; ayrıca endekse yönelik eleştirel ilginin göze çarpacak kadar az olduğunu ve ölçüm odaklı hayırseverliğin sorunu tanımlama ile müdahaleyi yönlendirmedeki payının büyüdüğünü yazdı.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref ozeti: uc bilesenin incelendigi, on bulgular ifadesi, elestirel ilginin azligi ve olcum odakli hayirseverlik saptamasi ozetin kendi ifadeleri; tam metin okunmadi."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Kavramın en yoğun uygulandığı yer Atlantik'tir: 1501 ile 1866 arasında Afrika kıtasından zorla götürülüp Amerika kıtasında meta üretimine koşulan insan sayısı tahminen 12,5 milyondur ve büyük çoğunluğu şeker plantasyonlarına gönderilmiştir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak an estimated further 12.5 million diyor ve slavevoyages'a atifta bulunuyor; tahmin kaydi metne tasindi, tek sayi kesinlestirilmedi."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Zorla çalıştırmanın tanımı ayrı yoldan geldi: konu Uluslararası Çalışma Bürosu'na havale edildi ve 1930 Zorla Çalıştırma Sözleşmesi, askerlik ve ceza infazı gibi kamusal istisnalar tanıyan bir tanım kurdu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem eklemesi: dalga notu ILO 1930 Sozlesmesi'ni hukuki olcutun ikinci ayagi olarak istiyordu, govdede hic yoktu. k1 bunu tasiyor: Milletler Cemiyeti konuyu Uluslararasi Calisma Burosu'na havale ediyor, 'resulting in the conclusion of the Forced Labour Convention, 1930, which sets out a definition of forced or compulsory labour including a number of exceptions for public purposes - for instance: military conscription and penal labour'."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Deniz üstündeki köle ticaretini bastıran ikili antlaşmalar ve 1890 Brüksel Genel Senedi'nin ardından karadaki köle ticareti Geçici Kölelik Komisyonu eliyle genelleştirildi ve 1926 Sözleşmesi'yle resmî zemine oturtuldu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem duzeltmesi: govde 1890 Bruksel cizgisinin 'karada isleyen KOLELIGE' genisletildigini soyluyordu ve ara halkayi atliyordu. Kaynak 'the issue of the slave trade on land was generalised through the considerations of the Temporary Slavery Commission and placed on a formal footing by the Slavery Convention, 1926' diyor: kolelik degil KOLE TICARETI, ve araya Gecici Kolelik Komisyonu giriyor. Ikisi de duzeltildi."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 16,
+    "kismi": 4,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

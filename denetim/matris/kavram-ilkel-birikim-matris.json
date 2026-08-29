@@ -1,0 +1,431 @@
+{
+  "id": "kavram-ilkel-birikim",
+  "govde_hash": "2b4bc7d01aa1",
+  "commit": "6d7ef68",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Sermayenin nereden geldiğini açıklamak isteyen her kuram bir kısırdöngüye çarpar: birikim artı değeri, artı değer kapitalist üretimi, kapitalist üretim de meta üreticilerinin elinde önceden toplanmış sermaye ve emek gücü yığınlarını varsayar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch26: \"the accumulation of capital presupposes surplus-value; surplus-value presupposes capitalistic production...\""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Döngüden çıkmanın klasik yolu, kapitalist birikimden önce gelen, onun sonucu değil başlangıç noktası olan bir birikim varsaymaktır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch26: \"supposing a primitive accumulation ... not the result of the capitalistic mode of production, but its starting point\""
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "İlkel birikim bu varsayımın adıdır — ama adı benimsemek için değil boşaltmak için kullanır: kavramı \"sözde\" sıfatıyla anar ve siyasal iktisattaki işlevini teolojideki ilk günahın işlevine benzetir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch26: \"so-called primitive accumulation\" ve \"plays in Political Economy about the same part as original sin in theology\""
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Yerine koyduğu şey bir tasarruf öyküsü değil bir ayrılmadır: sözde ilkel birikim, üreticiyi üretim araçlarından ayıran tarihsel süreçten başka bir şey değildir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch26 tanim cumlesi; dogrulama dizesiyle ayni"
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Sorulacak soru artık \"sermayeyi kim biriktirdi\" değil \"insanlar geçim araçlarından nasıl koparıldı\"dır; sürecin temeli, Marx'a göre tarım üreticisinin — köylünün — topraktan mülksüzleştirilmesidir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch26: \"The expropriation of the agricultural producer, of the peasant, from the soil, is the basis of the whole process.\""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Ayrım, mülkiyet düzenini bir tasarruf sorusu olmaktan çıkarıp bir zor sorusu hâline getirir: Marx'a göre gerçek tarihte fetih, köleleştirme, soygun ve cinayet başrol oynarken siyasal iktisadın yıllıklarında idil hüküm sürer.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch26: \"conquest, enslavement, robbery, murder, briefly force, play the great part\" / \"In the tender annals of Political Economy, the idyllic reigns\""
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Marx'a göre Edward Gibbon Wakefield'in katkısı sömürgeler hakkında yeni bir şey bulmak değil, sömürgelerde anavatandaki kapitalist üretimin koşullarına ilişkin gerçeği bulmaktır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch33: \"to have discovered in the Colonies the truth as to the conditions of capitalist production in the mother country\""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Wakefield'in aktardığı örnekte, Peel adlı girişimci İngiltere'den Batı Avustralya'daki Swan River'a 50.000 sterlin değerinde geçim ve üretim aracıyla birlikte işçi sınıfından 300 kişi götürür; varır varmaz yatağını yapacak ya da ırmaktan su getirecek bir hizmetçisi kalmaz.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "ch33: HTML kaynagi '&pound;50,000' ve '300 persons of the working class' yazar; para birimi kaynagin kendi birimidir, cevrilmedi. Rakamlar Wakefield uzerinden Marx'in aktarimidir, bagimsiz kayit degildir"
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Marx'ın buradan çıkardığı sonuç kavramın çekirdeğidir: sermaye bir şey değil, kişiler arasında bir toplumsal ilişkidir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch33: \"capital is not a thing, but a social relation between persons, established by the instrumentality of things\""
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Toprak ucuz ve serbestken o ilişki kurulmaz; Wakefield'in çözümü, devletin toprağa işçiyi bağımsız sahip olmaktan alıkoyacak kadar yüksek bir \"yeterli fiyat\" biçmesidir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch33: \"sufficient price\" — \"so high as to prevent the labourers from becoming independent landowners until others had followed to take their place\""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Marx onu doğrudan 'in previous accumulation savına bağlar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch26: \"a primitive accumulation (previous accumulation of Adam Smith)\". Terimi Smith'e baglayan Marx'tir"
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Smith'in ikinci kitabının girişindeki savı ise ahlaki değil teknik bir öncelik savıdır: dokumacı, dokuduğunu satana kadar kendisini geçindirecek ve ona araç gereç sağlayacak bir stok önceden birikmiş olmadıkça işine tümüyle veremez; stok birikimi doğası gereği işbölümünden önce gelir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wikisource, Ulusların Zenginliği II. Kitap girisi: dokumaci ornegi ve \"the accumulation of stock must, in the nature of things, be previous to the division of labor\". Bu baskida \"labor\" yazimi kullaniliyor"
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Marx'ın alay ettiği şey bu teknik önceliğin kendisi değil, ona giydirilen anlatıdır: çalışkan ve tutumlu bir seçkinler takımı ile savurgan bir ayaktakımı masalı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch26: \"the diligent, intelligent, and, above all, frugal elite; the other, lazy rascals\""
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "On altıncı yüzyılda Reformasyon ve kilise mülkünün yağmalanması sürece yeni bir ivme verdi; manastırların kaldırılması sakinlerini proletaryaya fırlattı, kilise arazileri ise saray gözdelerine bağışlandı ya da yok pahasına satıldı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch27: Reformasyon, manastirlarin kaldirilmasi, kilise mulkunun \"rapacious royal favourites\"a verilmesi"
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Aynı elden yoksul halkın kilise ondalığındaki yasal payına sessizce el kondu; Elizabeth'in saltanatının kırk üçüncü yılında ülke yoksulluğu bir yoksul vergisiyle resmen tanımak zorunda kaldı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch27: \"The legally guaranteed property of the poorer folk in a part of the church's tithes was tacitly confiscated\" ve \"In the 43rd year of her reign the nation was obliged to recognise pauperism officially by the introduction of a poor-rate\". HAKEM EKLEMESI: dalga notunun istedigi yoksullar yasasi halkasi eksikti"
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Marx'a göre asıl sıçramayı on sekizinci yüzyıl yaptı: yasanın kendisi halkın toprağını çalmanın aleti hâline geldi, soygunun parlamento biçimi ortak toprakların çitlenmesine dair kanunlardır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch27: \"The advance made by the 18th century shows itself in this, that the law itself becomes now the instrument of the theft of the people's land\" + \"The parliamentary form of the robbery is that of Acts for enclosures of Commons\". HAKEM DUZELTMESI: onceki metin \"bir sonraki yuzyilda\" diyordu (16. yuzyildan sonra = 17.); kaynak 18. yuzyili soyluyor, yuzyil geri alindi"
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Marx, 1801 ile 1831 arasında halkın elinden alınıp toprak sahiplerine devredilen ortak toprağı 3.511.770 akre olarak verir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "ch27: \"3,511,770 acres of common land which between 1801 and 1831 were stolen from them\". Marx'in verdigi toplam; birim kaynaktaki gibi akre birakildi, bagimsiz sayimla teyit edilmedi"
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Dizinin son halkası arazilerin boşaltılmasıdır — sürülecek bağımsız köylü kalmayınca kulübelerin temizlenmesi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch27: \"so-called clearing of estates, i.e., the sweeping men off them\" ve kulube temizligi"
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Marx'a göre yöntemler on yedinci yüzyıl sonunda İngiltere'de sistemli bir bileşime varır: sömürgeler, kamu borcu, modern vergilendirme biçimi ve korumacılık.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch31: \"embracing the colonies, the national debt, the modern mode of taxation, and the protectionist system\" — dort ogenin tamami metne tasindi"
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Bunların bir bölümü kaba kuvvete dayanır, ama hepsi devletin yoğunlaşmış gücünü kullanır; Marx için zor, yeni bir toplumla gebe kalmış her eski toplumun ebesidir ve kendisi bir iktisadi güçtür.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch31: \"These methods depend in part on brute force\" ve \"Force is the midwife of every old society pregnant with a new one. It is itself an economic power.\""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Anderson'ın ticaret yıllıklarından aktardığına göre İngiltere, Utrecht Barışı'nda İspanyollardan Asiento Antlaşması'yla köle ticareti ayrıcalığını kopardı ve 1743'e kadar İspanyol Amerikası'na yılda 4.800 köle sağlama hakkını edindi; Liverpool'un semirmesi, Marx'ın deyişiyle o kentin ilkel birikim yöntemiydi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "ch31: \"the naive Annals of Commerce of the worthy A. Anderson\" / \"at the Peace of Utrecht, England extorted from the Spaniards by the Asiento Treaty\" / \"the right of supplying Spanish America until 1743 with 4,800 negroes yearly\" / \"Liverpool waxed fat on the slave trade. This was its method of primitive accumulation.\" HAKEM DUZELTMESI: sayi Marx'in Anderson'dan aktarimi; aktarim halkasi metne yazildi. Kaynak yalniz \"A. Anderson\" der, tam ad yazilmadi (hayalet ad kurali)"
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Mülksüzleştirmenin tarihi ülkeden ülkeye başka görünümler alır, evrelerini başka sıralarla ve başka dönemlerde geçirir; klasik biçimini yalnızca örnek olarak seçilen İngiltere'de alır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch26: \"In England alone, which we take as our example, has it the classic form.\" Cekince metne aynen tasindi"
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Marx aynı sayfanın dipnotunda İtalya'yı istisna olarak anar: kapitalist üretimin en erken geliştiği yerde serflik de erken çözüldü, ama serf toprak üzerinde bir hak kazanmadan özgürleştiği için doğrudan proletere dönüştü.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch26 dipnot 1: Italya istisnasi"
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "İkinci sorun kavramın zamanıdır: kapitalizmin önkoşulu olan tek seferlik bir tarihsel olay mı, yoksa kapitalizmin içinde süren bir işlem mi?",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: \"A key debate ... whether it is a one-time historical event that served as a precondition for capitalism, or an ongoing process\". Giris kapisi kaynagi; tartismanin varligini kaydeder, taraflarini tartmaz"
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Marx'ın kendi yazdıkları bu noktada belirsizdir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: \"Marx's own writings are ambiguous on this point.\""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Kendisi Batı Avrupa'da sürecin aşağı yukarı tamamlandığını söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ch33: \"In Western Europe, the home of Political Economy, the process of primitive accumulation is more of less accomplished.\" (kaynakta \"more of less\" dizgi hatasi var)"
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Sonraki kuşaklar boşluğu üç ayrı yönde doldurdu: David Harvey'in 2003 tarihli *The New Imperialism*'i *el koyarak birikim* adıyla süreci bugüne taşır ve \"ilkel\" sıfatını yanıltıcı bulur; Silvia Federici'nin 2004 tarihli *Caliban and the Witch*'i kavramı kadın bedeninin ve yeniden üretim emeğinin cadı avlarının dehşetiyle sermayeye bağlanmasına genişletir; Yevgeni Preobrazhensky ise 1926'da kavramı kapitalizmin dışına, *ilkel sosyalist birikim* olarak taşımıştı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: Harvey 2003 (The New Imperialism, Works cited), \"Harvey argues that the term 'primitive' is misleading\"; Federici 2004 (Caliban and the Witch), \"primitive accumulation was also a process of subjugating women's bodies and reproductive labor ... enforced through the terror of the witch-hunts\"; Preobrazhensky 1926 (The New Economics), \"primitive socialist accumulation\". HAKEM DUZELTMESI: Federici hatti eksikti, \"iki yon\" kapali bir sayimdi; ucuncu yon eklendi. Adlar kaynaktaki yazimlariyla"
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Chambers'ın 1953'te The Economic History Review'da yayımlanan yazısının başlığı doğrudan bu bağlantıyı sorar.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref kaydi: J. D. Chambers, 1953, The Economic History Review, \"Enclosure and Labour Supply in the Industrial Revolution\". Yalniz ustveri — makalenin vardigi sonuc bu kayittan okunamaz, bu yuzden metinde yalnizca baslikta sorulan soru anilir"
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Marx sürecin başlangıcını on beşinci yüzyılın son üçte biri ile on altıncı yüzyılın ilk on yılına koyar, kavramı ise o yüzyılların kendi sözcüğü olarak değil, sermayenin tarih öncesi aşamasını gösteren bir sıfat olarak kurar: süreç ilkel görünür, çünkü kapitalist üretim biçiminin tarih öncesini oluşturur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "ch27: \"in the last third of the 15th, and the first decade of the 16th century\"; ch26: \"It appears as primitive, because it forms the prehistoric stage of capital\". Adin geriye donuk verildigi iki kaynagin birlesiminden okunuyor"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 29,
+    "kismi": 0,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "4 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
+}
