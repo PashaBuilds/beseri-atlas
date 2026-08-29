@@ -1,81 +1,303 @@
 {
   "id": "dusunur-mill",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:53.283Z",
-  "govde_hash": "1298b0e55857",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T16:56:25.977Z",
+  "govde_hash": "0a8faf3b98bb",
+  "commit": "ed6ddb4",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak onu 1806-73 arasında yaşamış, on dokuzuncu yüzyılın en etkili İngilizce yazan filozofu olarak kaydeder ve doğalcı, faydacı ve liberal olarak tanımlar.",
+      "iddia": "Kişinin kendi iyiliği, ister bedensel ister ahlaki olsun, yeterli bir gerekçe sayılmaz; ona akıl verilebilir, yalvarılabilir, ama o zorlanamaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bugün zarar ilkesi denen ölçüt budur ve kask zorunluluğundan uyuşturucu politikasına kadar paternalizm tartışmalarının açılış cümlesi olarak kullanılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ne var ki ilkeyi ilan eden bölümün kendisi, birkaç paragraf sonra ona bir istisna koyar; ve o istisnayı yazan kişi, on yedi yaşından itibaren, Doğu Hindistan Şi",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Ne var ki ilkeyi ilan eden bölümün kendisi, birkaç paragraf sonra ona bir istisna koyar; ve o istisnayı yazan kişi, on yedi yaşından itibaren, Doğu Hindistan Şi",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Denemenin açılışında zorlamanın iki biçimi birlikte sayılır: yasal ceza biçimindeki fiziksel güç ve kamuoyunun ahlaki baskısı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çağının diline yerleşmiş olan çoğunluğun tiranlığı ifadesini Mill tam bu noktada kullanır ve iktidarın seçimle gelmiş olmasının tehlikeyi ortadan kaldırmadığını",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Zararın önlenmesi müdahale için gerekli koşuldur, yeterli koşul değildir: bir davranış başkalarının çıkarlarını zedelediğinde toplum yetki kazanır, ama o yetkiy",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Aynı çözümlemede özgürlüğü kısıtlamanın gerekçeleri dört kümeye ayrılır — rahatsızlık, ahlakçılık, paternalizm ve zararın önlenmesi — ve Mill yalnız sonuncusunu",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karşı gerekçeleri çürütemeyen kişinin iki görüşten birini yeğlemek için elinde bir dayanağı yoktur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bireysellik bölümünde aynı düşünce yaşam biçimlerine taşınır: hayat planını kendisi için başkalarının seçtiği insan, taklit dışında hiçbir yetisini kullanmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bireyselliğin bastırılmasını arzu edilir sayan konum, dediğine göre Kalvinci kuramdır: insanın büyük suçu kendi iradesidir, insanın yapabileceği bütün iyilik it",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kalvinci"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mill'in tartıştığı şey yalnızca yasa değil, bu tür bir insan tasavvurunun kamuoyu eliyle uygulanan biçimidir; İngiltere için verdiği tanı da bu yöndedir: kanaat",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Faydacılık, en büyük mutluluk ilkesini eylemlerin mutluluğu artırdığı ölçüde doğru, azalttığı ölçüde yanlış olduğu biçiminde koyar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki hazzı da tanımış olanlar birini kararlı biçimde yeğliyorsa, o hazza nicelikçe ölçülemeyecek bir üstünlük atfetmek gerekir; memnun bir ahmak olmaktansa memnu",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sokrates"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bu itiraz, Mill'i hazcı saymayan yorumcuların dayanağıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Green'in itirazı özellikle öğreticidir: yetkin yargıçların üstün yetilerini kullanan yaşam biçimlerini yeğlemesini Mill bir onur duygusuyla açıklar, ki bu açıkl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Sidgwick onu psikolojik bencil okumuştur ve bu okumanın görünürdeki dayanağı bu öncüldür; ancak metin her insanın tek nihai arzusunun kendi mutluluğu olduğunu s",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cümle şöyle sürer: \"barbarlarla uğraşırken despotizm meşru bir yönetim biçimidir\" — ama iki koşulla: amacın onların iyileştirilmesi olması ve araçların bu amacı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mill'e göre özgürlük ilkesinin, insanlığın özgür ve eşit tartışmayla iyileştirilebilir hâle geldiği andan öncesine hiçbir uygulaması yoktur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bireysellik bölümünde Mill, herkesi birbirine benzetmenin sonucunu göstermek için Çin'i uyarıcı örnek olarak anar: erken bir dönemde iyi bir görenek takımına ka",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak üç niteliği ayrı ayrı değil tek bir cümlede sayar: doğalcı, faydacı ve liberal.",
+      "iddia": "Aynı bölümün ana teşhisi olan göreneğin despotizmi kavramı, ilerlemenin önündeki evrensel engeli göreneğe bağlar; bu şema, toplumları ilerleyen ve duran diye ay",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Üç ayrı gelenek adının aynı kişi için birlikte kullanılması, atlasın kişileri tek bir okulun üyesi olarak etiketlememesinin gerekçesidir; etiketler kaynağın ver",
+      "anahtar": "k6",
+      "iddia": "Şirket'teki hizmeti yaklaşık otuz beş yıl sürdü ve sonunda Yazışmaların Baş Denetçisi konumuna yükseldi; görev, sömürge yönetiminin yazışmalarını yürüten, devle",
       "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, en etkili nitelemesini dil ve yüzyıl kaydıyla sınırlandırır: İngilizce yazan ve on dokuzuncu yüzyıl.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngilizce"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir üstünlük ifadesinin iki koşulla birden sınırlandırılması, atlasın bu tür ifadeleri neden koşullarıyla birlikte taşıdığını gösterir; koşul düşerse ifade başk",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Aynı on yıllarda yazan bir çağdaşı için tutulan kayıt, siyasi konumunu muhafazakâr liberal olarak aktarır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Aynı yüzyılda yazan bir başka çağdaşı için tutulan kayıt ise, o düşünürün merkezî bir meselesinde yerleşik bir bilimsel uzlaşı bulunmadığını yazar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Üç kaydın üç ayrı sınıflandırma sorunu göstermesi, on dokuzuncu yüzyıl düşüncesinin okullara ayrılmasının sonradan yapılmış bir düzenleme olduğunu gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Üç kaydın üç ayrı sınıflandırma sorunu göstermesi, on dokuzuncu yüzyıl düşüncesinin okullara ayrılmasının sonradan yapılmış bir düzenleme olduğunu gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Üç kaydın üç ayrı sınıflandırma sorunu göstermesi, on dokuzuncu yüzyıl düşüncesinin okullara ayrılmasının sonradan yapılmış bir düzenleme olduğunu gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Faydacılık kuramı, özgürlük ilkesi, iktisat yazıları ve kadın hakları üzerine görüşleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölü",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yazışmaların, Baş, Denetçisi"
     },
     {
       "anahtar": "k4",
-      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Ozgurluk Uzerine.",
+      "iddia": "Mill makamı kendi anlatısında Hindistan Yazışmaları Denetçisi diye adlandırır: otuz üç yılı aşkın süredir çalıştığı dairenin başına 1856'da getirildi, makam yal",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Mill o tasfiyeye karşı Şirket'in gösterdiği direnişin baş yöneticisi olduğunu, mektupları ve dilekçeleri kendisinin yazdığını söyler; yeni kurulan Konsey'de ken",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ozgurluk, Uzerine"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Şirket, Konsey"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Sömürgeciliğin çözümlenmesinde Mill, Uday Mehta'nın okumasında evrenselcilik ile aşamalı tarih anlayışının birleşmesinden doğan liberal emperyalizmin örneği say",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Aynı çözümleme, Mill'in bu yönetimi despotik diye adlandırmaktan çekinmediğini de kaydeder.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Temsilî Hükümet Üzerine Düşünceler'de Mill, yabancı halkların sömürgeleri yönetmeye neden uygun olmadığına dair dört gerekçe sıralar: yerel koşulları bilmemeler",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Siyasal iktidarı elinde tutanların yönetilen nüfusa karşı hiçbir hesap verme yükümlülüğü yokken iyi yönetimin nasıl güvenceye alınacağını ise açıklayamaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Öte yandan Avam Kamarası'nda geçirdiği tek dönemde — 1865'te Westminster'dan seçildi, 1868'de yenildi — savunduğu davalar arasında kadınlara oy hakkının tanınma",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "1869'da yayımlanan Kadınların Köleleştirilmesi tek bir önermeyle açılır: \"iki cinsten birinin ötekine hukuken tabi kılınması kendi başına yanlıştır\" ve yerini h",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki cinsin doğası, yalnızca bugünkü ilişkileri içinde görüldükleri sürece bilinemez; kadınların doğası denen şey, bazı yönlerde baskı, bazı yönlerde yapay teşvi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı bölümde tahakkümü doğallaştırmanın başka örnekleri de sıralanır: Aristoteles insanlar arasında özgür doğalar ile köle doğalar bulunduğunu, Yunanların birin",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Barbar ırkları doğallaştırma yanılgısının örneği diye anarken bile Mill kendi kaydına dönmez; bağı kendisi kurmaz, sonraki sömürgecilik sonrası okumalar tam bu ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Barbar ırkları doğallaştırma yanılgısının örneği diye anarken bile Mill kendi kaydına dönmez; bağı kendisi kurmaz, sonraki sömürgecilik sonrası okumalar tam bu ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Julia Annas ve Susan Moller Okin'in çözümlemeleri bu varsayımın Mill'in kendi yöntem kuralına aykırı olduğunu gösterir; düzeltmenin gereci de yine Mill'in kendi",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kitabın son gözden geçirmesi ise yapılamadı: Harriet Taylor 1858'de, Mill'in Şirket'ten emekliliğinden bir ay kadar sonra Avignon'da öldü ve Mill metne bir daha",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kitabın son gözden geçirmesi ise yapılamadı: Harriet Taylor 1858'de, Mill'in Şirket'ten emekliliğinden bir ay kadar sonra Avignon'da öldü ve Mill metne bir daha",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Liberty, Equality, Fraternity'nin ithafı Mart 1873 tarihini taşır ve kitabın Hindistan'da tasarlanıp dönüş yolculuğunda kısmen yazıldığını söyler; Stephen, Hind",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Mill aynı yılın Mayıs ayında Avignon'da öldü ve bu itiraza yanıt veremedi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Hiçbiri kendini koruma ya da başkasına zararın önlenmesi diye tarif edilemez; üçü de Mill'in ilkesinin mahkûm ettiği şeylerdir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Stephen'a göre ilke yalnız ceza hukukuyla sınırlanırsa geriye tartışmaya değmeyecek bir sıradanlık kalır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kökü Kant'a kadar giden, 1950'ler ve 60'larda Isaiah Berlin'in derinlemesine işlediği olumlu-olumsuz özgürlük ayrımında Constant, Humboldt, Spencer ve Mill gibi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Birincisi, zarar ilkesinin kimseye zarar vermediğin sürece istediğini yap biçimine indirgenmesidir; oysa zararın varlığı müdahaleyi meşrulaştırmaya yetmez, yaln",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkincisi, barbarlar kaydının sessizce düşürülmesi ve denemenin koşulsuz evrensel bir metin gibi okunmasıdır; kayıt metnin kendisindedir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Üçüncüsü, tersinden gelen hata: Mill'i yalnızca sonraki emperyal kullanımı üzerinden mahkûm etmek, aynı Mill'in sömürge yönetimine karşı sıraladığı dört gerekçe",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Üçüncüsü, tersinden gelen hata: Mill'i yalnızca sonraki emperyal kullanımı üzerinden mahkûm etmek, aynı Mill'in sömürge yönetimine karşı sıraladığı dört gerekçe",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Dördüncüsü de yazarlıkla ilgilidir: Özgürlük Üzerine tek imzalı bir kitap değildir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Özgürlük, Üzerine"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Mill bu koşulu bazıları için sağlanmış, bazıları için ise geleceğe ertelenmiş saydı; onu okumayı sürdüren tartışma, o ikinci kümenin gerekçesinin tutup tutmadığ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Mill bu koşulu bazıları için sağlanmış, bazıları için ise geleceğe ertelenmiş saydı; onu okumayı sürdüren tartışma, o ikinci kümenin gerekçesinin tutup tutmadığ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }
   ]
 }

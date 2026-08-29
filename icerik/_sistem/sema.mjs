@@ -101,6 +101,14 @@ const ortak = {
   kaynaklar: z.array(kaynakSemasi).min(1),
   son_denetim: isoGun,
   denetim_durumu: z.enum(DENETIM_DURUMLARI),
+  // KAYNAK SINIRI (2026-08-29, karar K9). Bir konunun birincil metinleri
+  // telif altindaysa ve acik erisimde karsiligi yoksa, atlasin kaynak
+  // hiyerarsisi O DOSYADA KARSILANAMAZ. Bu bir kusur degil bir sinirdir —
+  // ama sessiz kalirsa okur, ansiklopedi ozetinden kurulmus bir metni
+  // birincil kaynakli sanir. Alan doldurulunca sinir makale sayfasinda
+  // okura gosterilir ve KAPI 13 birincil kaynagi olmayan dusunur/kaynak
+  // dosyalarinda bu alani ZORUNLU kilar.
+  kaynak_siniri: z.string().min(40).max(400).optional(),
   // Denetim hattinin yazdigi alanlar
   denetim_notu: z.string().optional(),
   onarim_turu: z.number().int().min(0).max(3).default(0),

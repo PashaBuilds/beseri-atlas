@@ -1,79 +1,283 @@
 {
   "id": "dusunur-keynes",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:52.964Z",
-  "govde_hash": "8e45f1d958bd",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T16:54:28.093Z",
+  "govde_hash": "872273b8899b",
+  "commit": "ed6ddb4",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, Genel Teori'nin sıklıkla modern makroiktisadın temeli olarak görüldüğünü yazar.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Genel, Teori"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, 1930'ların çoğunda az sayıda kıdemli Amerikalı iktisatçının onunla aynı fikirde olduğunu, buna karşın fikirlerinin kısa süre sonra yaygın kabul göreceği",
+      "anahtar": "k8",
+      "iddia": "John Maynard Keynes'in The General Theory of Employment, Interest and Money adlı kitabı 1936'da yayımlandı.",
       "durum": "OK",
       "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bir kuramın kabulünün yayımından yıllar sonraya tarihlenmesi, atlasın etki alanını neden eserin tarihinden ayrı tuttuğunu gösterir: yayım tarihi ile etki tarihi",
+      "anahtar": "k4",
+      "iddia": "Kitap yapısını bu olasılığın üstüne kurar: toplam arz ile toplam talep işlevlerinin kesiştiği noktadaki değere etkin talep adını verir ve geri kalan bölümlerini",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, yayımın ardından gelen kuramsal tartışmalara kendisinin yalnızca sınırlı biçimde katıldığını yazar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir kuramın kurucusunun kendi kuramının tartışmasına sınırlı katılması, kuramın sonraki biçiminin yazarına ait olmayabileceğini gösterir; aynı sorun dosyasında ",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, kitabın yüksek işsizlik dönemlerinde talebi canlandırmak için hükümetin etkin iktisadi politikasını, örneğin bayındırlık işlerine harcama yapılmasını sa",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Atlas bu öneriyi doğru ya da yanlış saymaz; kaynağın aktardığı bir konum olarak kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak kariyer bölümünü olaylara göre ayırır: Birinci Dünya Savaşı, Versailles barış konferansı, 1920'ler, Büyük Buhran sırasında, İkinci Dünya Savaşı ve savaş ",
+      "iddia": "Ocak 1915'te Hazine'de resmî bir görev aldı ve 1919 Versailles barış konferansına Hazine'nin mali temsilcisi olarak atandı; tazminat görüşmelerinin üst düzey ot",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir iktisatçının biyografisinin savaşlar ve krizlerle bölümlenmesi, atlasın düşünür dosyalarını neden olay dosyalarına bağladığını gösterir; ilgili olaylar ve d",
+      "iddia": "Yirmi yedi yıl sonra, Bretton Woods düzeninin kurulmasına çalışırken, Savannah'daki Anglo-Amerikan kredi görüşmeleri sırasında başlayan kalp krizleri serisinin ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Genel Teori'nin karşısına aldığı doktrin, arzın kendi talebini yarattığı önermesiydi; Keynes bunu klasik kuramın kategorik ifadesi sayar ve toplam talep işlevin",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kendi anlatısına göre bu bir tartışmanın sonucuydu, doğal bir gerçek değil: Malthus, etkin talebin yetersiz kalmasının imkânsız olduğu doktrinine şiddetle karşı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kendi anlatısına göre bu bir tartışmanın sonucuydu, doğal bir gerçek değil: Malthus, etkin talebin yetersiz kalmasının imkânsız olduğu doktrinine şiddetle karşı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kendi cümlesi daha ölçülüdür: klasik kuramın ekonominin nasıl davranmasını istediğimizi anlatıyor olması pekâlâ mümkündür, hata onun fiilen öyle davrandığını va",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1883 için yaklaşık 1,44 milyar, 1946 için yaklaşık 2,40 milyardır.",
+      "anahtar": "k2",
+      "iddia": "The Economic Consequences of the Peace, savaş öncesi Avrupa'sını Ağustos 1914'te kapanan olağanüstü bir dönem olarak anar: Londra'daki bir kişinin yatağında sab",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Bir önceki yüzyılların iktisat yazarı için tutulan kayıt, onun eyleme yönelik iki tür normatif kılavuz ayırt ettiğini yazar.",
+      "iddia": "Kitabın savı, o düzenin parçalarının birbirinden ayrılamaz olduğudur: Fransa, Almanya, İtalya, Avusturya, Hollanda, Rusya, Romanya ve Polonya birlikte atar, bir",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uyarısını bir koşul cümlesiyle kurar: Orta Avrupa'nın yoksullaştırılması bilerek hedeflenirse, \"vengeance, I dare predict, will not limp.\" Kitabın çok tartışıla",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uyarısını bir koşul cümlesiyle kurar: Orta Avrupa'nın yoksullaştırılması bilerek hedeflenirse, \"vengeance, I dare predict, will not limp.\" Kitabın çok tartışıla",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı sayfalarda resmî rakamları da aktarır: Meclis Bütçe Komisyonu adına konuşan Dubois, savaş haraçları, deniz kayıpları, yollar ve kamu anıtları hariç \"asgari",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Keynes, kapitalist düzeni yıkmanın en iyi yolunun parayı bozmak olduğunu Lenin'in söylediğinin aktarıldığını yazar — atfı kendi üstlenmez — ve ardından enflasyo",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "1923'te yayımlanan A Tract on Monetary Reform, para miktarı ile fiyatlar arasındaki oransal ilişkiyi tartışırken şu adımı atar: bu ilişki uzun vadede doğrudur, ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "1923'te yayımlanan A Tract on Monetary Reform, para miktarı ile fiyatlar arasındaki oransal ilişkiyi tartışırken şu adımı atar: bu ilişki uzun vadede doğrudur, ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Keynes enflasyonun adaletsiz, deflasyonun ise elverişsiz olduğunu yazar; ikisinden hangisinin daha kötü olduğu sorusuna cevabını açık bir istisnayla verir: Alma",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çarpan bunların en somutudur ve tek başına onun buluşu değildir: kavramı Richard Kahn 1931 Haziran'ında The Economic Journal'da yayımlanan makalesinde istihdam ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Keynes, ortodoks maliyenin likidite fetişini toplum düzeyinde anlamsız sayar: tek tek yatırımcılar için likit olan varlık, bir bütün olarak topluluk için likit ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Likidite için örgütlenmiş piyasalarda değerleme, varlığın uzun vadeli getirisine değil, başkalarının ortalama kanaatinin ne olacağına bakar; Keynes bunu, en güz",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Keynes'in savı, sonuçları günler boyunca açılacak olumlu kararların çoğunun nicel faydaların olasılıklarla ağırlıklandırılmış ortalamasından değil, \"a spontaneo",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bunun sonucu, girişimin spekülasyon girdabı üzerinde bir baloncuğa dönüşebilmesi ve bir ülkenin sermaye birikiminin kumarhane etkinliğinin yan ürünü hâline gele",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Keynes orada tam istihdama yaklaşmanın tek yolu olarak \"a somewhat comprehensive socialisation of investment\" önerir; ancak aynı cümlede bunun kamu otoritesinin",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Hemen ardından sınırı çeker: bunun ötesinde, iktisadi hayatın çoğunu kapsayacak bir devlet sosyalizmi için açık bir gerekçe yoktur; devletin üstlenmesi gereken ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Sermayenin kıtlığının, toprağın kıtlığından farklı olarak içsel bir nedeni bulunmadığını, bu yüzden faizin gerçek bir fedakârlığı ödüllendirmediğini savunur; am",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Keynes bu istisnayı da hemen sınırlar: o durumda bile devlet eliyle sürdürülecek ortak tasarrufun sermayeyi kıt olmaktan çıkana kadar büyütebileceğini yazar; ra",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Serbest ticaret ve korumacılık görüşleri, kariyerinin ayrıntıları ve iktisat kuramının içeriği burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ay",
+      "iddia": "İtirazların ilki Genel Teori'den öncedir ve hedefi de başka bir kitaptır: Friedrich Hayek 1931'de Keynes'in 1930 tarihli A Treatise on Money'sini ayrıntılı biçi",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki adamın ilişkisi bir cephe hattı değildi; Wikipedia'nın aktardığı mektupta Keynes, The Road to Serfdom'u okuduktan sonra Hayek'e \"Morally and philosophically",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Orada iktisatçıların tavsiye ettiği politikaların hızlanan enflasyona yol açtığını, meslek olarak işleri berbat ettiklerini söyler — \"as a profession we have ma",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Orada iktisatçıların tavsiye ettiği politikaların hızlanan enflasyona yol açtığını, meslek olarak işleri berbat ettiklerini söyler — \"as a profession we have ma",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Ama aynı paragrafta bir kabul de vardır ve bu kabul genellikle aktarılmaz: yaygın işsizliği açıklamak için ileri sürülen kuramlar arasında lehine güçlü nicel ka",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Hayek'e göre asıl hata, karmaşık olguları fizik biliminin yöntemleriyle inceleme eğilimidir; toplam talebin artırılması da bu yüzden istihdam değil, kaynakların",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Milton Friedman 1950'lerin ortasından itibaren, özellikle 1963'te yayımlanan A Monetary History of the United States'ten sonra güçlü bir eleştirmen olarak öne ç",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu itirazın kurumsal zemini daha eskidir: Hayek 1947'de, üyeleri arasında Ludwig von Mises ile o sırada genç olan Friedman'ın da bulunduğu Mont Pelerin Cemiyeti",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Robert Lucas ile Thomas Sargent, 1979 Mart'ında Quarterly Review'da, başlığı Keynesçi makroiktisadı geçmiş zamana yerleştiren After Keynesian Macroeconomics yaz",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Dördüncüsü ise ters yönden gelir: Joan Robinson'ın Contributions to Modern Economics derlemesinde yer alan The Second Crisis of Economic Theory, krizi politikad",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Post-Keynesçi çizginin savı ise Keynes'in yanlış okunduğudur; Hyman Minsky'ye göre Keynesçi iktisat 1950'lerden itibaren neoklasik fikirlerle aşırı karıştırılar",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu kırılmaların ilki uzun vade cümlesidir: para kuramı içinde geçen bir yöntem itirazı, geleceği umursamama ruhsatı diye dolaşıma girer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "İkincisi, yatırımın toplumsallaştırılması önerisinin devlet mülkiyetiyle özdeşleştirilmesidir; oysa metin bu özdeşliği açıkça reddeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üçüncüsü kişinin kendisine dokunur: Hayek'e göre ölümünden sonra Keynes âdeta azize çıkarılmış, eserinin sorgulanmasına izin verilmez olmuştu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "EH.net ansiklopedisi, Keynesçi düşüncenin gelişinin birçok kişi tarafından bir devrim sayıldığını yazar ve hemen arkasına şu kaydı düşer: \"although this too is ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "EH.net ansiklopedisi, Keynesçi düşüncenin gelişinin birçok kişi tarafından bir devrim sayıldığını yazar ve hemen arkasına şu kaydı düşer: \"although this too is ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Keynesçi iktisat 1979'da Britanya hükümetince resmen terk edildi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dönüş, kuramsal bir ikna sonucu değil bir kriz sonucu oldu: 2008 mali krizinden sonra Martin Wolf, James Galbraith, Robert Shiller, Paul Krugman, George Akerlof",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "İkincisi yorumsal ve daha zorludur — geriye dönüp bakarak Keynes'in gerçekte ne demek istediği ya da Keynesçiliğin asıl katkısının ne olduğu üzerine sonu gelmez",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kendi kapanış bölümündeki hüküm, bu ikinci tartışmayı kendisi öngörmüş gibidir: iktisatçıların ve siyaset felsefecilerinin fikirleri, doğru olduklarında da yanl",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

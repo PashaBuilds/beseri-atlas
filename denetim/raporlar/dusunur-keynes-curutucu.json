@@ -1,6 +1,50 @@
 {
   "id": "dusunur-keynes",
   "gecis": 3,
-  "zaman": "2026-08-21T09:10:03.902Z",
-  "itirazlar": []
+  "zaman": "2026-08-29T16:54:28.605Z",
+  "govde_hash": "872273b8899b",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Savı bir kuram tartışmasıydı, ama tartışmayı yalnızca masa başından yürütmedi. Ocak 1915'te Hazine'de resmî bir görev aldı ve 1919 Versailles barış konferansına Hazine'nin mali tem",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "*Genel Teori*'nin kapanış bölümü sık çarpıtılan bir yerdir. Keynes orada tam istihdama yaklaşmanın tek yolu olarak \"a somewhat comprehensive socialisation of investment\" önerir; an",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Faiz konusundaki hükmü de koşulludur. Sermayenin kıtlığının, toprağın kıtlığından farklı olarak içsel bir nedeni bulunmadığını, bu yüzden faizin gerçek bir fedakârlığı ödüllendirme",
+      "sorun": "Nedensellik iddiası tek kaynağa (k6) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Hayek'in en açık ifadesi 1974 Nobel ödül dersindedir. Orada iktisatçıların tavsiye ettiği politikaların hızlanan enflasyona yol açtığını, meslek olarak işleri berbat ettiklerini sö",
+      "sorun": "Nedensellik iddiası tek kaynağa (k7) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "İtirazı iki katmanlıdır: otuz yıldır para ve maliye politikasına yön veren kuram, toplam istihdam ile mal ve hizmetlere yönelik toplam talep arasında basit ve olumlu bir bağıntı bu",
+      "sorun": "Nedensellik iddiası tek kaynağa (k7) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Aynı metin, *Genel Teori*'nin akademik düşünce ve iktisat politikası üzerindeki etkisinin ise tartışmalı olmadığını belirtir; Keynes Buhran yıllarında genç araştırmacıların tutunac",
+      "sorun": "Nedensellik iddiası tek kaynağa (k8) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
 }

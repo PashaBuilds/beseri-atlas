@@ -1,21 +1,50 @@
 {
   "id": "dusunur-mill",
   "gecis": 3,
-  "zaman": "2026-08-21T09:04:57.554Z",
+  "zaman": "2026-08-29T16:55:34.964Z",
+  "govde_hash": "1563ca383295",
   "itirazlar": [
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Kaynak üç niteliği ayrı ayrı değil tek bir cümlede sayar: doğalcı, faydacı ve liberal.[^k1]",
+      "cumle": "*Faydacılık*, en büyük mutluluk ilkesini eylemlerin mutluluğu artırdığı ölçüde doğru, azalttığı ölçüde yanlış olduğu biçiminde koyar.[^k2] Mill'in Bentham'dan ayrıldığı yer buradan",
+      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İtiraz edenler adlarıyla bilinir. Nitelik öğretisinin klasik biçimiyle hazcılıkla bağdaştırılmasının güçlüğünü Henry Sidgwick, F. H. Bradley, T. H. Green ve G. E. Moore ayrı ayrı k",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Kayıt tek bir cümlede kalmaz. Bireysellik bölümünde Mill, herkesi birbirine benzetmenin sonucunu göstermek için Çin'i uyarıcı örnek olarak anar: erken bir dönemde iyi bir görenek t",
+      "sorun": "Makale avrupa/guney-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Aynı kayıt karşı yönü de gösterir. *Temsilî Hükümet Üzerine Düşünceler*'de Mill, yabancı halkların sömürgeleri yönetmeye neden uygun olmadığına dair dört gerekçe sıralar: yerel koş",
       "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     },
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Üç ayrı gelenek adının aynı kişi için birlikte kullanılması,[^k1] atlasın kişileri tek bir okulun üyesi olarak etiketlememesinin gerekçesidir; etiketler kaynağın verdiği demettir, ",
+      "cumle": "Mill'e atfedilenle Mill'in yazdığı arasındaki fark birkaç yerde yoğunlaşır. Birincisi, zarar ilkesinin *kimseye zarar vermediğin sürece istediğini yap* biçimine indirgenmesidir; oy",
       "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Mill'e atfedilenle Mill'in yazdığı arasındaki fark birkaç yerde yoğunlaşır. Birincisi, zarar ilkesinin *kimseye zarar vermediğin sürece istediğini yap* biçimine indirgenmesidir; oy",
+      "sorun": "Makale avrupa/guney-asya kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
     }
   ]
 }

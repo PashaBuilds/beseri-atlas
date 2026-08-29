@@ -153,6 +153,12 @@ const komsu = komsular(korpus, girdi);
         Ölçülen doğrulama oranı ve bilinen sınırlar için <a href={bag("/hakkinda/")}>Hakkında</a>.
       </p>
 
+      {v.kaynak_siniri && (
+        <p class="beyan beyan--sinir" data-pagefind-ignore>
+          <strong>Bu dosyanın kaynak sınırı.</strong> {v.kaynak_siniri}
+        </p>
+      )}
+
       {komsu && (
         <SiraSeridi onceki={komsu.onceki} sonraki={komsu.sonraki}
                     sira={komsu.sira} toplam={komsu.toplam} donemNo={komsu.donemNo} />
@@ -178,5 +184,6 @@ const komsu = komsular(korpus, girdi);
   .soru-blok { margin: 0 0 2.25rem; padding: 1.15rem 1.25rem; background: var(--yuzey); border: 1px solid var(--cizgi-ince); border-radius: var(--yuvarlak-buyuk); }
   .soru { font-family: var(--f-display); font-variation-settings: 'opsz' 28, 'SOFT' 0, 'WONK' 0; font-size: 1.24rem; line-height: 1.35; margin: .3rem 0 1.1rem; }
   .neden { margin: .3rem 0 0; font-size: .95rem; color: var(--golge); }
+  .beyan--sinir { border-left: 3px solid var(--zincifre); padding-left: .9rem; }
   .beyan { margin-top: 2.5rem; padding-top: 1.1rem; border-top: 1px solid var(--cizgi-ince); font-size: .84rem; line-height: 1.6; color: var(--golge); }
 </style>

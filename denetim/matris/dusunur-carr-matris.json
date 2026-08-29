@@ -1,0 +1,575 @@
+{
+  "id": "dusunur-carr",
+  "govde_hash": "c54dda1154f4",
+  "commit": "ed6ddb4",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Katalog kayıtlarında Edward Hallett Carr, 1892-1982 olarak geçer; konferansları verdiğinde altmışlarının sonunda, arkasında uzun bir yazarlık bırakmış bir tarihçiydi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dogum-olum yillari katalog kaydinin creator alanindan (Carr, Edward Hallett, 1892-1982); \"altmislarinin sonunda\" ifadesi 1892 ile 1961 arasindaki farktan cikarilmis yaklasik bir nitelemedir."
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Savın en yalın hâli kitabın kendi tanıtımındadır: tarihin olguları, tarihçilerin incelemek üzere seçtiklerinden ibarettir; \"Rubicon'u milyonlarca insan geçmiştir, tarihçiler bize yalnızca Caesar'ınkinin önemli olduğunu söyler.\" Aynı metin devamını da verir: bütün tarihsel olgular, çağlarının ölçütlerinden etkilenen tarihçilerin yorumlayıcı tercihleri sonucunda önümüze gelir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cumle savi YAYINCI TANITIMININ aktarimi olarak veriyor; kayit \"Provided by publisher\" notunu tasir. Carr'in kendi cumlesi degildir ve metinde de oyle sunulmustur."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Kitabın birinci bölümünün adı bu yüzden tarihçiyi ve olgularını yan yana koyar: *The Historian and His Facts*, yirmi dört sayfalık bir açılıştır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bolum adi ve 1-24 sayfa araligi Crossref kaydinda dogrudan."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Tarih yapmak, tarihçiyi hangi ölçekte çalışacağına dair bir seçime zorlar; bir kıtanın mı, bir hanedanın mı, bir vilayetin mi tarihi yazılacaktır?",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP maddesinin kendi ifadesi; Carr'a atfedilmedi."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Konferansların kitap hâli ince bir cilttir — iki yüz dokuz sayfa — ve yayıncının tanıtımı ona insan toplumsal deneyiminin yorumlanmasına dair yarım düzine temel sorunun ele alınışı gözüyle bakar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"209, iii pages\" ve \"half a dozen of the most fundamental questions\" ayni katalog kaydinda."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Kütüphane kaydı ise aynı kitabı daha kuru bir dille tanımlar: tarihsel incelemenin hem bir bilim hem de toplumsal değerlerin bir yansıması olarak taşıdığı anlamı sınayan felsefi bir tarih yorumu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog tanimi birebir aktarildi."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "İki tanım arasındaki gerilim kitabın kendi gerilimidir; bilim ile değer arasındaki bağ üçüncü bölümün konusudur.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ucuncu bolumun adi (History, science, and morality) kayitta var; iki tanim arasindaki \"gerilim\" yorumdur."
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Katalog kaydı diziyi tam adıyla verir: Cambridge Üniversitesi'nde Ocak-Mart 1961'de verilen George Macaulay Trevelyan konferansları.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog basligi konferans dizisinin adini ve Ocak-Mart 1961 tarihini birebir tasiyor."
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Konferanslar tarih kuramına geniş bir giriş olarak tasarlanmıştı ve anlaşılırlıkları kitabı alanın temel metinlerinden birine dönüştürdü.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Altı bölüm sırasıyla tarihçi ile olguları, toplum ile birey, tarih ile bilim ve ahlak, tarihte nedensellik, ilerleme olarak tarih ve genişleyen ufuk başlıklarını taşır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alti bolumun basliklari katalog kaydinin icindekiler notunda."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "listede Bury, Barraclough, Butterfield, Oakeshott, Burckhardt, Trevelyan ve Collingwood da vardır — kayıt çoğunu yalnızca baş harfiyle anar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birinci bolumun Crossref'e islenmis kaynak listesindeki adlar: Acton, T Parsons/E Shils, LG Sanger, JB Bury, G Barraclough, H Butterfield, AL Roue, M Oakeshott, GM Trevelyan, J Burckhardt, R Collingwood, A Froude. HAKEM DUZELTMESI: govde once \"Geoffrey Barraclough, Herbert Butterfield, Michael Oakeshott, Jacob Burckhardt, Lord Acton\" yaziyordu; kayit bu adlarin yalnizca bas harfini verir, hayalet ad uretmemek icin soyadlarina indirildi. R. G. Collingwood'un tam adi k9'da geciyor. Listedeki bazi ESER adlari ve \"AL Roue\" (Rowse) yazar adi OCR hatalidir; govde bunlara yaslanmiyor. Liste 12 kalem, govde 10'unu aniyor (Roue ve Froude disarida) ve tuketici bir liste iddiasi kurmuyor."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "aynı yirmi dört sayfada Parsons ile Shils'in toplumsal eylem kuramına ve Lord George Sanger'ın yetmiş yıllık gösteri hayatını anlatan anılarına birlikte başvurulur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"T. Parsons and E. Shils, Towards a General Theory of Action (3rd ed. 1954)\" ve \"Lord George Sanger, Seventy Years a Showman (2nd ed., 1926)\" listede birebir. HAKEM DUZELTMESI: govde once \"Talcott Parsons ile Edward Shils\" ve \"bir sirk muduru\" yaziyordu; kayit yalnizca bas harfleri verir ve \"showman\" der, ikisi de kaynagin verdigi kadara indirildi."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Collingwood 1946'da tarihin insan eylemlerinden kurulduğunu, eylemlerin niyetli bir tartma ve seçmenin sonucu olduğunu, dolayısıyla tarihçinin süreçleri failin düşüncesini yeniden canlandırarak içeriden açıklayabileceğini savunmuştu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Collingwood 1946 ve yeniden canlandirma SEP maddesinde."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "1963'te *Historische Zeitschrift*'te yazan Andreas Hillgruber, Carr'ın muhafazakâr, liberal ve pozitivist tarihçilere yönelttiği ironik eleştiriyi olumlu karşılamıştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Walsh 1963'teki değerlendirmesinde ayrımı en açık örnekle sınadı: o gün kahvaltıda kızarmış ekmek yemiş olması bir tarih olgusu değildir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Çağdaş felsefe onu üçe ayırır: toplumsal eylemin değer yüklü olması, tarihçinin kendi yorumlarının değer yüklü olması ve tarihsel durumların kendilerinin nesnelliği — yani sonraki temsillerden bağımsız, sabit bir tarihsel gerçekliğin bulunup bulunmadığı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uclu ayrim SEP maddesinde Passmore 1958'e baglanarak veriliyor."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Walsh, Carr'ın tarihçilerin tarihin üstünde durmadığı, kendi yer ve zamanlarının ürünü oldukları ve hangi geçmiş önermesinin tarihsel olguya dönüşeceğine bunun karar verdiği yolundaki savını doğru buldu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Elton, 1967 tarihli *The Practice of History*'de Carr'ın tarihsel olgular ile geçmişin olguları arasındaki ayrımını keyfî buldu ve bu ayrımın \"hem geçmişe hem tarihçinin oradaki yerine karşı olağanüstü kibirli bir tutum\" yansıttığını yazdı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Elton alintisi kaynak uzerinden aktarildi; kaynak kendi dipnotunda Elton 1967, s. 56-57 diyor. Alinti 11 kelime, Turkce karsiligiyla verildi."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Elton'ın kitabı kütüphane kaydında konu başlığı olarak tarihin yöntemini taşır; iki yüz yirmi üç sayfalık, cep boyu bir dizide çıkmış ince bir cilttir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "223 sayfa, Fontana dizisi ve History -- Methodology konu basligi katalog kaydinda."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Elton, Carr'ın tarihte kazalara rol tanımamasını olumladı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Elton'in ONAYLADIGI nokta; itirazi toptan ret gibi okumamak icin metne tasindi."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Asıl hücumu başka noktaya yöneltti: Carr'ın tarih felsefesini, ortaçağın tarihi Tanrı'nın planının işleyişi sayan görüşünün laik bir sürümü olarak gördü — bu sürümde İlerleme, Tanrı'nın rolünü oynuyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Trevor-Roper, Carr'ın tarihin olabilirliklerini bir kenara atmasını, tarihsel nedenselliği incelemeye temelden ilgisizlik saydı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Ona göre alternatif sonuçları düşünmek bir salon oyunu değil, tarihçinin işinin asli parçasıdır; yalnızca kazananları anlamaya çalışan ve bir olaylar dizisinin çıktısını tek mümkün çıktı gibi okuyan tarihçiler kötü tarihçilerdir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Keith Jenkins'in tartışmayı toparlayan kitabının alt başlığı yolu tek satırda çizer: Carr ve Elton'dan Rorty ve White'a.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alt baslik Crossref kaydinda birebir."
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Bu hattın ucundaki Hayden White'ın *Metahistory: The Historical Imagination in Nineteenth-Century Europe*'u, tarih ve tarih yazımının elli anahtar eserini derleyen bir başvuru kitabında kendi maddesini taşır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bolum basligi ve cilt adi Crossref kaydinda; eserin savi bu kayittan CIKARILMADI."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Carr: A Critical Appraisal*, Palgrave, Londra.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cildin adi, editoru ve yayincisi kaynagin dipnot listesinde birebir geciyor."
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "— ve kitabın bugünkü değerini yeniden düşünmeyi önerdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Bolum basligindaki soru ve \"Rethinking the Contemporary Value\" ifadesi oneriyi tasiyor; bolumun icerigi okunmadi."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Bölüm cildin 304-321 sayfaları arasındadır, yani derlemenin sonlarında durur; *Tarih Nedir?*",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "304-321 sayfa araligi ve cilt adi Crossref kaydinda."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Görececiliğin onun tartışmalı yanlarından biri sayılması eskidir ve kayıtlıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Ne var ki kitabın kendi çerçevesi bu sonucu vermez: mutlak nesnellik imkânsızsa bile tarihçinin rolünün hiçbir biçimde zarar görmeyeceği, tarihin de çekiciliğini yitirmeyeceği aynı tanıtım metninde açıkça söylenir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yayinci tanitimindaki cekince (mutlak nesnellik imkansiz olsa da tarihcinin rolunun zarar gormeyecegi) metne tasindi."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Tarihsel bilginin doğası gereği seçici olması, bilginin nesnelliğini ya da doğruya karşılık gelmesini ortadan kaldırmaz; yalnızca tarihsel bilginin doğası gereği eksik olduğu sonucunu verir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP'in kendi konumu; Carr'in savunmasi olarak degil, ayni sorunun felsefi cozumu olarak verildi."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Geçmiş tam olarak olduğu biçimde olmuştur: failler eylemiş, kuraklıklar yaşanmış, ordular yenilmiştir; ve bıraktıkları izler, geçmişte olup bitenler hakkında inanç kurmak için akla dayalı bir zemin verir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Ne var ki bu nesnellik yukarı doğru, Yunan kent devletinin doğuşu ya da Aydınlanma aklının icadı gibi daha soyut tarihsel olaylara aynı ölçüde uzanmaz",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP: \"this objectivity of events and occurrences does not extend very far upward as we consider more abstract historical events: the creation of the Greek city-state, the invention of Enlightenment rationality, the Taiping Rebellion. In each of these instances the noun's referent is an interpretive construction by historical actors and historians, and one that may be undone by future historians.\" HAKEM DUZELTMESI: govde once ornek olarak \"Sanayi Devrimi ya da Cin Seddi\" yaziyordu; bu ikisi SEP'in bu pasajinda YOKTUR (Cin Seddi bir onceki soru cumlesinden, Sanayi Devrimi buyuk-olcekli nedensellik tartismasindan alinmisti) ve Cin Seddi fiziksel bir yapi oldugu icin savi zayiflatiyordu. SEP'in kendi iki Avrupa ornegiyle degistirildi."
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Evans, *Tarih Nedir?*'in 1960'larda Britanya tarih yazımında bir devrime yol açtığını söyledi; Carr'a eleştirel yaklaşan Avustralyalı tarihçi Keith Windschuttle bile kitabı tarih yazımı üzerine yazılmış en etkili metinlerden biri saydı ve 1960'lardan bu yana İngilizce yazan tarihçilerin çok azının onu okumamış olduğunu belirtti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Carr öldüğünde ikinci baskı için metni gözden geçiriyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Ölümünden sonraki ikinci baskı 1986'da Palgrave Macmillan'dan çıktı; üstveri kaydı birinci bölümü Carr ile R. W. Davies'in adı altında verir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1986, publisher \"Palgrave Macmillan UK\", publisher-location \"London\" Crossref kaydinda dogrudan; kayit Carr ve Davies'i author rolunde verir. HAKEM DUZELTMESI: govde ve k3 kunyesi once \"R. W. Davies'in editorlugunde\" diyordu, matris incelemesi de \"editor R. W. Davies Crossref kaydinda\" diye yaziyordu; kayitta editor alani YOKTUR. Davies'in ikinci baskiya yazdigi giris notu k4'ten gelir ve sonraki cumlede oyle veriliyor."
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Evans'ın uzun bir eleştirel girişini taşıyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "2001 basimindaki Evans girisi kaynagin hem \"Structure\" hem \"Editions\" bolumunde geciyor; Editions bolumu kaynakta \"citation needed\" isaretiyle durur, cekince metne yazildi."
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Konferansların üzerinden geçen altmış beş yıl kitabı kendi kanıtına dönüştürdü: 1961'de söylenmiş sözler, 2001'de yeni bir girişle yeniden seçilerek okur önüne çıktı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "2001 tarihi ayni dipnotsuz bolumden; altmis bes yil 1961 ile 2026 arasindaki farktir."
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "E. H. Carr'ın 1961'de Cambridge'de verdiği konferanslarda savunduğu buydu.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM EKI: acilis paragrafi dipnotsuzdu ve KAPI 2 'kaynaksiz iddia paragrafi [yil/tarih]' hatasi veriyordu. Konferanslarin 1961'de Cambridge'de verildigi katalog basliginda birebir (\"delivered in the University of Cambridge January-March 1961\"); yeni iddia kurulmadi, cumle kaynagin tasidigina indirildi."
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Kitabın kışkırttığı yanıtlar arasında kaynağın en çok andığı Geoffrey Elton'ınkidir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"His work provoked a number of responses, most notably Geoffrey Elton's The Practice of History.\" HAKEM DUZELTMESI: govde once \"En sert ve en adi belli itiraz\" diyordu; \"en sert\" nitelemesi kaynakta yoktur, kaynagin \"most notably\" ifadesine indirildi."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 36,
+    "kismi": 4,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

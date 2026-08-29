@@ -1,17 +1,54 @@
 ## dusunur-mill
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.283Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T16:56:25.977Z_
 
-- [OK]      k1 → "Kaynak onu 1806-73 arasında yaşamış, on dokuzuncu yüzyılın en etkili İngilizce yazan filozofu olarak kaydeder …" — 1 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Kaynak üç niteliği ayrı ayrı değil tek bir cümlede sayar: doğalcı, faydacı ve liberal." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Üç ayrı gelenek adının aynı kişi için birlikte kullanılması, atlasın kişileri tek bir okulun üyesi olarak etik…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, en etkili nitelemesini dil ve yüzyıl kaydıyla sınırlandırır: İngilizce yazan ve on dokuzuncu yüzyıl." — programatik olarak ölçülemedi (ad karşılığı yok): İngilizce
-- [ATOMSUZ] k1 → "Bir üstünlük ifadesinin iki koşulla birden sınırlandırılması, atlasın bu tür ifadeleri neden koşullarıyla birl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Aynı on yıllarda yazan bir çağdaşı için tutulan kayıt, siyasi konumunu muhafazakâr liberal olarak aktarır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Aynı yüzyılda yazan bir başka çağdaşı için tutulan kayıt ise, o düşünürün merkezî bir meselesinde yerleşik bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Üç kaydın üç ayrı sınıflandırma sorunu göstermesi, on dokuzuncu yüzyıl düşüncesinin okullara ayrılmasının sonr…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Üç kaydın üç ayrı sınıflandırma sorunu göstermesi, on dokuzuncu yüzyıl düşüncesinin okullara ayrılmasının sonr…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Üç kaydın üç ayrı sınıflandırma sorunu göstermesi, on dokuzuncu yüzyıl düşüncesinin okullara ayrılmasının sonr…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Faydacılık kuramı, özgürlük ilkesi, iktisat yazıları ve kadın hakları üzerine görüşleri burada ayrı başlıklar …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Ozgurluk Uzerine." — programatik olarak ölçülemedi (ad karşılığı yok): Ozgurluk, Uzerine
+- [ATOMSUZ] k1 → "Kişinin kendi iyiliği, ister bedensel ister ahlaki olsun, yeterli bir gerekçe sayılmaz; ona akıl verilebilir, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Bugün zarar ilkesi denen ölçüt budur ve kask zorunluluğundan uyuşturucu politikasına kadar paternalizm tartışm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Ne var ki ilkeyi ilan eden bölümün kendisi, birkaç paragraf sonra ona bir istisna koyar; ve o istisnayı yazan …" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k6 → "Ne var ki ilkeyi ilan eden bölümün kendisi, birkaç paragraf sonra ona bir istisna koyar; ve o istisnayı yazan …" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Denemenin açılışında zorlamanın iki biçimi birlikte sayılır: yasal ceza biçimindeki fiziksel güç ve kamuoyunun…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Çağının diline yerleşmiş olan çoğunluğun tiranlığı ifadesini Mill tam bu noktada kullanır ve iktidarın seçimle…"
+- [ATOMSUZ] k7 → "Zararın önlenmesi müdahale için gerekli koşuldur, yeterli koşul değildir: bir davranış başkalarının çıkarların…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Aynı çözümlemede özgürlüğü kısıtlamanın gerekçeleri dört kümeye ayrılır — rahatsızlık, ahlakçılık, paternalizm…"
+- [ATOMSUZ] k1 → "Karşı gerekçeleri çürütemeyen kişinin iki görüşten birini yeğlemek için elinde bir dayanağı yoktur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bireysellik bölümünde aynı düşünce yaşam biçimlerine taşınır: hayat planını kendisi için başkalarının seçtiği …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bireyselliğin bastırılmasını arzu edilir sayan konum, dediğine göre Kalvinci kuramdır: insanın büyük suçu kend…" — programatik olarak ölçülemedi (ad karşılığı yok): Kalvinci
+- [OK]      k1 → "Mill'in tartıştığı şey yalnızca yasa değil, bu tür bir insan tasavvurunun kamuoyu eliyle uygulanan biçimidir; …"
+- [ATOMSUZ] k2 → "Faydacılık, en büyük mutluluk ilkesini eylemlerin mutluluğu artırdığı ölçüde doğru, azalttığı ölçüde yanlış ol…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "İki hazzı da tanımış olanlar birini kararlı biçimde yeğliyorsa, o hazza nicelikçe ölçülemeyecek bir üstünlük a…" — programatik olarak ölçülemedi (ad karşılığı yok): Sokrates
+- [OK]      k6 → "Bu itiraz, Mill'i hazcı saymayan yorumcuların dayanağıdır."
+- [OK]      k7 → "Green'in itirazı özellikle öğreticidir: yetkin yargıçların üstün yetilerini kullanan yaşam biçimlerini yeğleme…"
+- [ATOMSUZ] k7 → "Sidgwick onu psikolojik bencil okumuştur ve bu okumanın görünürdeki dayanağı bu öncüldür; ancak metin her insa…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Cümle şöyle sürer: "barbarlarla uğraşırken despotizm meşru bir yönetim biçimidir" — ama iki koşulla: amacın on…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Mill'e göre özgürlük ilkesinin, insanlığın özgür ve eşit tartışmayla iyileştirilebilir hâle geldiği andan önce…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Bireysellik bölümünde Mill, herkesi birbirine benzetmenin sonucunu göstermek için Çin'i uyarıcı örnek olarak a…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Aynı bölümün ana teşhisi olan göreneğin despotizmi kavramı, ilerlemenin önündeki evrensel engeli göreneğe bağl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Şirket'teki hizmeti yaklaşık otuz beş yıl sürdü ve sonunda Yazışmaların Baş Denetçisi konumuna yükseldi; görev…" — programatik olarak ölçülemedi (ad karşılığı yok): Yazışmaların, Baş, Denetçisi
+- [OK]      k4 → "Mill makamı kendi anlatısında Hindistan Yazışmaları Denetçisi diye adlandırır: otuz üç yılı aşkın süredir çalı…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k4 → "Mill o tasfiyeye karşı Şirket'in gösterdiği direnişin baş yöneticisi olduğunu, mektupları ve dilekçeleri kendi…" — programatik olarak ölçülemedi (ad karşılığı yok): Şirket, Konsey
+- [OK]      k8 → "Sömürgeciliğin çözümlenmesinde Mill, Uday Mehta'nın okumasında evrenselcilik ile aşamalı tarih anlayışının bir…"
+- [OK]      k8 → "Aynı çözümleme, Mill'in bu yönetimi despotik diye adlandırmaktan çekinmediğini de kaydeder."
+- [OK]      k8 → "Temsilî Hükümet Üzerine Düşünceler'de Mill, yabancı halkların sömürgeleri yönetmeye neden uygun olmadığına dai…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k8 → "Siyasal iktidarı elinde tutanların yönetilen nüfusa karşı hiçbir hesap verme yükümlülüğü yokken iyi yönetimin …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Öte yandan Avam Kamarası'nda geçirdiği tek dönemde — 1865'te Westminster'dan seçildi, 1868'de yenildi — savund…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "1869'da yayımlanan Kadınların Köleleştirilmesi tek bir önermeyle açılır: "iki cinsten birinin ötekine hukuken …" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k3 → "İki cinsin doğası, yalnızca bugünkü ilişkileri içinde görüldükleri sürece bilinemez; kadınların doğası denen ş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Aynı bölümde tahakkümü doğallaştırmanın başka örnekleri de sıralanır: Aristoteles insanlar arasında özgür doğa…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Barbar ırkları doğallaştırma yanılgısının örneği diye anarken bile Mill kendi kaydına dönmez; bağı kendisi kur…"
+- [OK]      k8 → "Barbar ırkları doğallaştırma yanılgısının örneği diye anarken bile Mill kendi kaydına dönmez; bağı kendisi kur…"
+- [OK]      k7 → "Julia Annas ve Susan Moller Okin'in çözümlemeleri bu varsayımın Mill'in kendi yöntem kuralına aykırı olduğunu …" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Kitabın son gözden geçirmesi ise yapılamadı: Harriet Taylor 1858'de, Mill'in Şirket'ten emekliliğinden bir ay …" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Kitabın son gözden geçirmesi ise yapılamadı: Harriet Taylor 1858'de, Mill'in Şirket'ten emekliliğinden bir ay …" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Liberty, Equality, Fraternity'nin ithafı Mart 1873 tarihini taşır ve kitabın Hindistan'da tasarlanıp dönüş yol…"
+- [OK]      k6 → "Mill aynı yılın Mayıs ayında Avignon'da öldü ve bu itiraza yanıt veremedi." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Hiçbiri kendini koruma ya da başkasına zararın önlenmesi diye tarif edilemez; üçü de Mill'in ilkesinin mahkûm …"
+- [ATOMSUZ] k5 → "Stephen'a göre ilke yalnız ceza hukukuyla sınırlanırsa geriye tartışmaya değmeyecek bir sıradanlık kalır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Kökü Kant'a kadar giden, 1950'ler ve 60'larda Isaiah Berlin'in derinlemesine işlediği olumlu-olumsuz özgürlük …"
+- [ATOMSUZ] k7 → "Birincisi, zarar ilkesinin kimseye zarar vermediğin sürece istediğini yap biçimine indirgenmesidir; oysa zarar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İkincisi, barbarlar kaydının sessizce düşürülmesi ve denemenin koşulsuz evrensel bir metin gibi okunmasıdır; k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k8 → "Üçüncüsü, tersinden gelen hata: Mill'i yalnızca sonraki emperyal kullanımı üzerinden mahkûm etmek, aynı Mill'i…"
+- [OK]      k6 → "Üçüncüsü, tersinden gelen hata: Mill'i yalnızca sonraki emperyal kullanımı üzerinden mahkûm etmek, aynı Mill'i…"
+- [ATOMSUZ] k4 → "Dördüncüsü de yazarlıkla ilgilidir: Özgürlük Üzerine tek imzalı bir kitap değildir." — programatik olarak ölçülemedi (ad karşılığı yok): Özgürlük, Üzerine
+- [ATOMSUZ] k7 → "Mill bu koşulu bazıları için sağlanmış, bazıları için ise geleceğe ertelenmiş saydı; onu okumayı sürdüren tart…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k8 → "Mill bu koşulu bazıları için sağlanmış, bazıları için ise geleceğe ertelenmiş saydı; onu okumayı sürdüren tart…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 1 OK · 0 ISARET · 0 HATA · 11 ATOMSUZ
+**Özet:** 26 OK · 0 ISARET · 0 HATA · 23 ATOMSUZ

@@ -1,17 +1,51 @@
 ## dusunur-keynes
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.964Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T16:54:28.093Z_
 
-- [ATOMSUZ] k1 → "Kaynak, Genel Teori'nin sıklıkla modern makroiktisadın temeli olarak görüldüğünü yazar." — programatik olarak ölçülemedi (ad karşılığı yok): Genel, Teori
-- [OK]      k1 → "Kaynak, 1930'ların çoğunda az sayıda kıdemli Amerikalı iktisatçının onunla aynı fikirde olduğunu, buna karşın …" — 4 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir kuramın kabulünün yayımından yıllar sonraya tarihlenmesi, atlasın etki alanını neden eserin tarihinden ayr…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, yayımın ardından gelen kuramsal tartışmalara kendisinin yalnızca sınırlı biçimde katıldığını yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir kuramın kurucusunun kendi kuramının tartışmasına sınırlı katılması, kuramın sonraki biçiminin yazarına ait…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, kitabın yüksek işsizlik dönemlerinde talebi canlandırmak için hükümetin etkin iktisadi politikasını, ö…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Atlas bu öneriyi doğru ya da yanlış saymaz; kaynağın aktardığı bir konum olarak kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak kariyer bölümünü olaylara göre ayırır: Birinci Dünya Savaşı, Versailles barış konferansı, 1920'ler, Büy…" — 2 atom doğrulandı; 3 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir iktisatçının biyografisinin savaşlar ve krizlerle bölümlenmesi, atlasın düşünür dosyalarını neden olay dos…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1883 için yaklaşık 1,44 milyar, 1946 için yaklaşık 2,40 milyardır."
-- [ATOMSUZ] k2 → "Bir önceki yüzyılların iktisat yazarı için tutulan kayıt, onun eyleme yönelik iki tür normatif kılavuz ayırt e…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Serbest ticaret ve korumacılık görüşleri, kariyerinin ayrıntıları ve iktisat kuramının içeriği burada ayrı baş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k8 → "John Maynard Keynes'in The General Theory of Employment, Interest and Money adlı kitabı 1936'da yayımlandı." — 4 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k4 → "Kitap yapısını bu olasılığın üstüne kurar: toplam arz ile toplam talep işlevlerinin kesiştiği noktadaki değere…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Ocak 1915'te Hazine'de resmî bir görev aldı ve 1919 Versailles barış konferansına Hazine'nin mali temsilcisi o…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Yirmi yedi yıl sonra, Bretton Woods düzeninin kurulmasına çalışırken, Savannah'daki Anglo-Amerikan kredi görüş…"
+- [OK]      k4 → "Genel Teori'nin karşısına aldığı doktrin, arzın kendi talebini yarattığı önermesiydi; Keynes bunu klasik kuram…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Kendi anlatısına göre bu bir tartışmanın sonucuydu, doğal bir gerçek değil: Malthus, etkin talebin yetersiz ka…"
+- [OK]      k4 → "Kendi anlatısına göre bu bir tartışmanın sonucuydu, doğal bir gerçek değil: Malthus, etkin talebin yetersiz ka…"
+- [ATOMSUZ] k4 → "Kendi cümlesi daha ölçülüdür: klasik kuramın ekonominin nasıl davranmasını istediğimizi anlatıyor olması pekâl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "The Economic Consequences of the Peace, savaş öncesi Avrupa'sını Ağustos 1914'te kapanan olağanüstü bir dönem …"
+- [OK]      k2 → "Kitabın savı, o düzenin parçalarının birbirinden ayrılamaz olduğudur: Fransa, Almanya, İtalya, Avusturya, Holl…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Uyarısını bir koşul cümlesiyle kurar: Orta Avrupa'nın yoksullaştırılması bilerek hedeflenirse, "vengeance, I d…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Uyarısını bir koşul cümlesiyle kurar: Orta Avrupa'nın yoksullaştırılması bilerek hedeflenirse, "vengeance, I d…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Aynı sayfalarda resmî rakamları da aktarır: Meclis Bütçe Komisyonu adına konuşan Dubois, savaş haraçları, deni…" — 4 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k2 → "Keynes, kapitalist düzeni yıkmanın en iyi yolunun parayı bozmak olduğunu Lenin'in söylediğinin aktarıldığını y…"
+- [OK]      k3 → "1923'te yayımlanan A Tract on Monetary Reform, para miktarı ile fiyatlar arasındaki oransal ilişkiyi tartışırk…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "1923'te yayımlanan A Tract on Monetary Reform, para miktarı ile fiyatlar arasındaki oransal ilişkiyi tartışırk…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Keynes enflasyonun adaletsiz, deflasyonun ise elverişsiz olduğunu yazar; ikisinden hangisinin daha kötü olduğu…"
+- [OK]      k1 → "Çarpan bunların en somutudur ve tek başına onun buluşu değildir: kavramı Richard Kahn 1931 Haziran'ında The Ec…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k5 → "Keynes, ortodoks maliyenin likidite fetişini toplum düzeyinde anlamsız sayar: tek tek yatırımcılar için likit …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Likidite için örgütlenmiş piyasalarda değerleme, varlığın uzun vadeli getirisine değil, başkalarının ortalama …"
+- [ATOMSUZ] k5 → "Keynes'in savı, sonuçları günler boyunca açılacak olumlu kararların çoğunun nicel faydaların olasılıklarla ağı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Bunun sonucu, girişimin spekülasyon girdabı üzerinde bir baloncuğa dönüşebilmesi ve bir ülkenin sermaye biriki…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Keynes orada tam istihdama yaklaşmanın tek yolu olarak "a somewhat comprehensive socialisation of investment" …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Hemen ardından sınırı çeker: bunun ötesinde, iktisadi hayatın çoğunu kapsayacak bir devlet sosyalizmi için açı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Sermayenin kıtlığının, toprağın kıtlığından farklı olarak içsel bir nedeni bulunmadığını, bu yüzden faizin ger…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Keynes bu istisnayı da hemen sınırlar: o durumda bile devlet eliyle sürdürülecek ortak tasarrufun sermayeyi kı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "İtirazların ilki Genel Teori'den öncedir ve hedefi de başka bir kitaptır: Friedrich Hayek 1931'de Keynes'in 19…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "İki adamın ilişkisi bir cephe hattı değildi; Wikipedia'nın aktardığı mektupta Keynes, The Road to Serfdom'u ok…"
+- [OK]      k7 → "Orada iktisatçıların tavsiye ettiği politikaların hızlanan enflasyona yol açtığını, meslek olarak işleri berba…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k7 → "Orada iktisatçıların tavsiye ettiği politikaların hızlanan enflasyona yol açtığını, meslek olarak işleri berba…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k7 → "Ama aynı paragrafta bir kabul de vardır ve bu kabul genellikle aktarılmaz: yaygın işsizliği açıklamak için ile…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Hayek'e göre asıl hata, karmaşık olguları fizik biliminin yöntemleriyle inceleme eğilimidir; toplam talebin ar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Milton Friedman 1950'lerin ortasından itibaren, özellikle 1963'te yayımlanan A Monetary History of the United …"
+- [OK]      k1 → "Bu itirazın kurumsal zemini daha eskidir: Hayek 1947'de, üyeleri arasında Ludwig von Mises ile o sırada genç o…"
+- [OK]      k9 → "Robert Lucas ile Thomas Sargent, 1979 Mart'ında Quarterly Review'da, başlığı Keynesçi makroiktisadı geçmiş zam…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Dördüncüsü ise ters yönden gelir: Joan Robinson'ın Contributions to Modern Economics derlemesinde yer alan The…"
+- [OK]      k1 → "Post-Keynesçi çizginin savı ise Keynes'in yanlış okunduğudur; Hyman Minsky'ye göre Keynesçi iktisat 1950'lerde…"
+- [ATOMSUZ] k3 → "Bu kırılmaların ilki uzun vade cümlesidir: para kuramı içinde geçen bir yöntem itirazı, geleceği umursamama ru…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "İkincisi, yatırımın toplumsallaştırılması önerisinin devlet mülkiyetiyle özdeşleştirilmesidir; oysa metin bu ö…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Üçüncüsü kişinin kendisine dokunur: Hayek'e göre ölümünden sonra Keynes âdeta azize çıkarılmış, eserinin sorgu…"
+- [OK]      k8 → "EH.net ansiklopedisi, Keynesçi düşüncenin gelişinin birçok kişi tarafından bir devrim sayıldığını yazar ve hem…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "EH.net ansiklopedisi, Keynesçi düşüncenin gelişinin birçok kişi tarafından bir devrim sayıldığını yazar ve hem…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Keynesçi iktisat 1979'da Britanya hükümetince resmen terk edildi."
+- [OK]      k1 → "Dönüş, kuramsal bir ikna sonucu değil bir kriz sonucu oldu: 2008 mali krizinden sonra Martin Wolf, James Galbr…"
+- [OK]      k8 → "İkincisi yorumsal ve daha zorludur — geriye dönüp bakarak Keynes'in gerçekte ne demek istediği ya da Keynesçil…"
+- [ATOMSUZ] k6 → "Kendi kapanış bölümündeki hüküm, bu ikinci tartışmayı kendisi öngörmüş gibidir: iktisatçıların ve siyaset fels…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 3 OK · 0 ISARET · 0 HATA · 9 ATOMSUZ
+**Özet:** 32 OK · 0 ISARET · 0 HATA · 14 ATOMSUZ

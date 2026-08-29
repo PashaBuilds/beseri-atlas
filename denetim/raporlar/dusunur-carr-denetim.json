@@ -1,69 +1,261 @@
 {
   "id": "dusunur-carr",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:52.304Z",
-  "govde_hash": "530a7a7440c5",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T16:54:09.401Z",
+  "govde_hash": "c54dda1154f4",
+  "commit": "ed6ddb4",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak onu 28 Haziran 1892'de Londra'da doğmuş, 3 Kasım 1982'de Londra'da ölmüş biri olarak kaydeder ve mesleğini dört sıfatla verir: tarihçi, diplomat, uluslar",
-      "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "adlı kitabında radikal tarih yazımı ilkelerini ortaya koyması.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Aynı kişinin hem bir devletin çok ciltli tarihini yazması hem o tarihin nasıl yazılacağına dair bir kitap kaleme alması, atlasın kaynak ile yöntem dosyalarını n",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak bölüm başlıklarını sıralar: erken hayat, diplomatik kariyer, uluslararası ilişkiler akademisyeni, İkinci Dünya Savaşı, Soğuk Savaş, Sovyet Rusya tarihi v",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İkinci, Dünya, Savaşı, Soğuk"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir biyografinin savaş ve savaş sonrası dönemlerle bölümlenmesi, bu atlasın düşünür dosyalarını neden dönem dosyalarına bağladığının bir başka örneğidir; yazdığ",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bir biyografinin savaş ve savaş sonrası dönemlerle bölümlenmesi, bu atlasın düşünür dosyalarını neden dönem dosyalarına bağladığının bir başka örneğidir; yazdığ",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, kitabın adına ayrı bir bölüm ayırır ve bir dergi makalesine atıfla tarihsel gerçekçilik nitelemesini kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir tarih yöntemi kitabının bir ansiklopedi maddesinde kendi bölümünü taşıması, tarih yazımının kendisinin de bir kayıt konusu olduğunu gösterir; en eski örneği",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Aynı yüzyılın bir başka siyaset yazarı için tutulan kayıt, onu 1906-1975 arasına yerleştirir.",
+      "iddia": "Carr'ın 1961'de Cambridge'de verdiği konferanslarda savunduğu buydu.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Diplomatik kariyeri, uluslararası ilişkiler kuramına katkısı ve Sovyet tarihinin içeriği burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı böl",
+      "iddia": "Katalog kayıtlarında Edward Hallett Carr, 1892-1982 olarak geçer; konferansları verdiğinde altmışlarının sonunda, arkasında uzun bir yazarlık bırakmış bir tarih",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Savın en yalın hâli kitabın kendi tanıtımındadır: tarihin olguları, tarihçilerin incelemek üzere seçtiklerinden ibarettir; \"Rubicon'u milyonlarca insan geçmişti",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Savın en yalın hâli kitabın kendi tanıtımındadır: tarihin olguları, tarihçilerin incelemek üzere seçtiklerinden ibarettir; \"Rubicon'u milyonlarca insan geçmişti",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kitabın birinci bölümünün adı bu yüzden tarihçiyi ve olgularını yan yana koyar: The Historian and His Facts, yirmi dört sayfalık bir açılıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Tarih yapmak, tarihçiyi hangi ölçekte çalışacağına dair bir seçime zorlar; bir kıtanın mı, bir hanedanın mı, bir vilayetin mi tarihi yazılacaktır?",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sovyet"
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Konferansların kitap hâli ince bir cilttir — iki yüz dokuz sayfa — ve yayıncının tanıtımı ona insan toplumsal deneyiminin yorumlanmasına dair yarım düzine temel",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kütüphane kaydı ise aynı kitabı daha kuru bir dille tanımlar: tarihsel incelemenin hem bir bilim hem de toplumsal değerlerin bir yansıması olarak taşıdığı anlam",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki tanım arasındaki gerilim kitabın kendi gerilimidir; bilim ile değer arasındaki bağ üçüncü bölümün konusudur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Katalog kaydı diziyi tam adıyla verir: Cambridge Üniversitesi'nde Ocak-Mart 1961'de verilen George Macaulay Trevelyan konferansları.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Konferanslar tarih kuramına geniş bir giriş olarak tasarlanmıştı ve anlaşılırlıkları kitabı alanın temel metinlerinden birine dönüştürdü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Altı bölüm sırasıyla tarihçi ile olguları, toplum ile birey, tarih ile bilim ve ahlak, tarihte nedensellik, ilerleme olarak tarih ve genişleyen ufuk başlıkların",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İkinci baskının birinci bölümü için yayıncının bildirdiği kaynak listesinde ilk sırada Acton'ın 1906 tarihli Lectures on Modern History'si durur; listede Bury, ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Listenin genişliği de anlamlıdır: aynı yirmi dört sayfada Parsons ile Shils'in toplumsal eylem kuramına ve Lord George Sanger'ın yetmiş yıllık gösteri hayatını ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Collingwood 1946'da tarihin insan eylemlerinden kurulduğunu, eylemlerin niyetli bir tartma ve seçmenin sonucu olduğunu, dolayısıyla tarihçinin süreçleri failin ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "1963'te Historische Zeitschrift'te yazan Andreas Hillgruber, Carr'ın muhafazakâr, liberal ve pozitivist tarihçilere yönelttiği ironik eleştiriyi olumlu karşılam",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Walsh 1963'teki değerlendirmesinde ayrımı en açık örnekle sınadı: o gün kahvaltıda kızarmış ekmek yemiş olması bir tarih olgusu değildir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Çağdaş felsefe onu üçe ayırır: toplumsal eylemin değer yüklü olması, tarihçinin kendi yorumlarının değer yüklü olması ve tarihsel durumların kendilerinin nesnel",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Walsh, Carr'ın tarihçilerin tarihin üstünde durmadığı, kendi yer ve zamanlarının ürünü oldukları ve hangi geçmiş önermesinin tarihsel olguya dönüşeceğine bunun ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kitabın kışkırttığı yanıtlar arasında kaynağın en çok andığı Geoffrey Elton'ınkidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Elton, 1967 tarihli The Practice of History'de Carr'ın tarihsel olgular ile geçmişin olguları arasındaki ayrımını keyfî buldu ve bu ayrımın \"hem geçmişe hem tar",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Elton'ın kitabı kütüphane kaydında konu başlığı olarak tarihin yöntemini taşır; iki yüz yirmi üç sayfalık, cep boyu bir dizide çıkmış ince bir cilttir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Elton, Carr'ın tarihte kazalara rol tanımamasını olumladı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Asıl hücumu başka noktaya yöneltti: Carr'ın tarih felsefesini, ortaçağın tarihi Tanrı'nın planının işleyişi sayan görüşünün laik bir sürümü olarak gördü — bu sü",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Trevor-Roper, Carr'ın tarihin olabilirliklerini bir kenara atmasını, tarihsel nedenselliği incelemeye temelden ilgisizlik saydı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ona göre alternatif sonuçları düşünmek bir salon oyunu değil, tarihçinin işinin asli parçasıdır; yalnızca kazananları anlamaya çalışan ve bir olaylar dizisinin ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Keith Jenkins'in tartışmayı toparlayan kitabının alt başlığı yolu tek satırda çizer: Carr ve Elton'dan Rorty ve White'a.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Bu hattın ucundaki Hayden White'ın Metahistory: The Historical Imagination in Nineteenth-Century Europe'u, tarih ve tarih yazımının elli anahtar eserini derleye",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Carr: A Critical Appraisal, Palgrave, Londra.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "— ve kitabın bugünkü değerini yeniden düşünmeyi önerdi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bölüm cildin 304-321 sayfaları arasındadır, yani derlemenin sonlarında durur; Tarih Nedir?",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Jenkins'in başlığı bir soru işareti taşır ve önerdiği şey mahkûmiyet değil, yeniden değerlendirmedir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Görececiliğin onun tartışmalı yanlarından biri sayılması eskidir ve kayıtlıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ne var ki kitabın kendi çerçevesi bu sonucu vermez: mutlak nesnellik imkânsızsa bile tarihçinin rolünün hiçbir biçimde zarar görmeyeceği, tarihin de çekiciliğin",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Tarihsel bilginin doğası gereği seçici olması, bilginin nesnelliğini ya da doğruya karşılık gelmesini ortadan kaldırmaz; yalnızca tarihsel bilginin doğası gereğ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Geçmiş tam olarak olduğu biçimde olmuştur: failler eylemiş, kuraklıklar yaşanmış, ordular yenilmiştir; ve bıraktıkları izler, geçmişte olup bitenler hakkında in",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ne var ki bu nesnellik yukarı doğru, Yunan kent devletinin doğuşu ya da Aydınlanma aklının icadı gibi daha soyut tarihsel olaylara aynı ölçüde uzanmaz; bu ölçek",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yunan, Aydınlanma"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Evans, Tarih Nedir?'in 1960'larda Britanya tarih yazımında bir devrime yol açtığını söyledi; Carr'a eleştirel yaklaşan Avustralyalı tarihçi Keith Windschuttle b",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Carr öldüğünde ikinci baskı için metni gözden geçiriyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Davies'in adı altında verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Evans'ın uzun bir eleştirel girişini taşıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Konferansların üzerinden geçen altmış beş yıl kitabı kendi kanıtına dönüştürdü: 1961'de söylenmiş sözler, 2001'de yeni bir girişle yeniden seçilerek okur önüne ",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

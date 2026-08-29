@@ -1,0 +1,693 @@
+{
+  "id": "dusunur-mill",
+  "govde_hash": "0a8faf3b98bb",
+  "commit": "ed6ddb4",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Kişinin kendi iyiliği, ister bedensel ister ahlaki olsun, yeterli bir gerekçe sayılmaz; ona akıl verilebilir, yalvarılabilir, ama o zorlanamaz.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Bugün zarar ilkesi denen ölçüt budur ve kask zorunluluğundan uyuşturucu politikasına kadar paternalizm tartışmalarının açılış cümlesi olarak kullanılır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Paternalizm tartismasinin kaynagi SEP'te dogrudan; kask ve uyusturucu ornekleri yazarin. Hakem 'her paternalizm tartismasi' mutlagini kaldirdi."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Ne var ki ilkeyi ilan eden bölümün kendisi, birkaç paragraf sonra ona bir istisna koyar; ve o istisnayı yazan kişi, on yedi yaşından itibaren, Doğu Hindistan Şirketi'nin Hindistan yazışmalarını yürüten dairede çalışıyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Istisna k1'de birebir; on yedi yasinda katiplik ve daire k6'da dogrudan"
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Denemenin açılışında zorlamanın iki biçimi birlikte sayılır: yasal ceza biçimindeki fiziksel güç ve kamuoyunun ahlaki baskısı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Çağının diline yerleşmiş olan çoğunluğun tiranlığı ifadesini Mill tam bu noktada kullanır ve iktidarın seçimle gelmiş olmasının tehlikeyi ortadan kaldırmadığını söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Zararın önlenmesi müdahale için gerekli koşuldur, yeterli koşul değildir: bir davranış başkalarının çıkarlarını zedelediğinde toplum yetki kazanır, ama o yetkiyi kullanmanın genel refahı artırıp artırmayacağı ayrıca tartışmaya açılır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin \"gerekli ama yeterli degil\" cekincesi metne birebir tasindi"
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Aynı çözümlemede özgürlüğü kısıtlamanın gerekçeleri dört kümeye ayrılır — rahatsızlık, ahlakçılık, paternalizm ve zararın önlenmesi — ve Mill yalnız sonuncusunu tek başına meşru sayar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Karşı gerekçeleri çürütemeyen kişinin iki görüşten birini yeğlemek için elinde bir dayanağı yoktur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Bireysellik bölümünde aynı düşünce yaşam biçimlerine taşınır: hayat planını kendisi için başkalarının seçtiği insan, taklit dışında hiçbir yetisini kullanmaz.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Bireyselliğin bastırılmasını arzu edilir sayan konum, dediğine göre Kalvinci kuramdır: insanın büyük suçu kendi iradesidir, insanın yapabileceği bütün iyilik itaatte toplanmıştır ve insan doğası kökten bozuk olduğu için o doğanın öldürülmesinden başka kurtuluş yoktur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Mill'in tartıştığı şey yalnızca yasa değil, bu tür bir insan tasavvurunun kamuoyu eliyle uygulanan biçimidir; İngiltere için verdiği tanı da bu yöndedir: kanaatin boyunduruğu belki daha ağır, yasanınki daha hafiftir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem duzeltmesi: On Liberty'nin 'in England ... though the yoke of opinion is perhaps heavier, that of law is lighter' cumlesine indirildi; kaynagin 'perhaps' cekincesi korundu."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "*Faydacılık*, en büyük mutluluk ilkesini eylemlerin mutluluğu artırdığı ölçüde doğru, azalttığı ölçüde yanlış olduğu biçiminde koyar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "İki hazzı da tanımış olanlar birini kararlı biçimde yeğliyorsa, o hazza nicelikçe ölçülemeyecek bir üstünlük atfetmek gerekir; memnun bir ahmak olmaktansa memnuniyetsiz bir Sokrates olmak yeğdir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Bu itiraz, Mill'i hazcı saymayan yorumcuların dayanağıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Green'in itirazı özellikle öğreticidir: yetkin yargıçların üstün yetilerini kullanan yaşam biçimlerini yeğlemesini Mill bir onur duygusuyla açıklar, ki bu açıklama hazzın kendisine değil hazzı duyanın kendine dair yargısına dayanır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Sidgwick onu psikolojik bencil okumuştur ve bu okumanın görünürdeki dayanağı bu öncüldür; ancak metin her insanın tek nihai arzusunun kendi mutluluğu olduğunu söylemez, kanıtın ikinci yarısında kimi insanların erdemi çıkarsız biçimde önemsediğini kabul eder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin 'ancak metin bunu soylemez' duzeltmesi birlikte tasindi. Hakem 'bu oncul yuzunden' nedenselligini kaynagin 'it may appear that' kaydina yumusatti."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Cümle şöyle sürer: \"barbarlarla uğraşırken despotizm meşru bir yönetim biçimidir\" — ama iki koşulla: amacın onların iyileştirilmesi olması ve araçların bu amacı fiilen gerçekleştirerek meşrulaşması.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki kosul (amac ve araclarin fiilen amaci gerceklestirmesi) metinden aynen alindi"
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Mill'e göre özgürlük ilkesinin, insanlığın özgür ve eşit tartışmayla iyileştirilebilir hâle geldiği andan öncesine hiçbir uygulaması yoktur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Bireysellik bölümünde Mill, herkesi birbirine benzetmenin sonucunu göstermek için Çin'i uyarıcı örnek olarak anar: erken bir dönemde iyi bir görenek takımına kavuşmuş, yetenekli ve kimi bakımdan bilge bir ulus, sahip olduğu en iyi bilgeliği her zihne bastırmayı ve onu en çok edinenleri makam sahibi yapmayı başardığı için durağanlaşmıştır ve daha ileri gidecekse bunu ancak yabancılar sağlayacaktır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Aynı bölümün ana teşhisi olan göreneğin despotizmi kavramı, ilerlemenin önündeki evrensel engeli göreneğe bağlar; bu şema, toplumları ilerleyen ve duran diye ayıran aşamalı tarih anlayışının denemenin içindeki karşılığıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "\"Gorenegin despotizmi\" ifadesi kaynakta dogrudan; asamali tarih baglantisi yazarin okumasi"
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Şirket'teki hizmeti yaklaşık otuz beş yıl sürdü ve sonunda Yazışmaların Baş Denetçisi konumuna yükseldi; görev, sömürge yönetiminin yazışmalarını yürüten, devlet müsteşarlığına yakın bir konumdu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak \"almost thirty-five years\" diyor; metinde \"yaklasik\" olarak korundu"
+    },
+    {
+      "iddia_id": "i0221",
+      "cumle": "Mill makamı kendi anlatısında Hindistan Yazışmaları Denetçisi diye adlandırır: otuz üç yılı aşkın süredir çalıştığı dairenin başına 1856'da getirildi, makam yalnızca iki yıldan biraz fazla varlığını sürdürdü ve ardından Parlamento Şirket'i Hindistan yönetiminin bir kolu olmaktan çıkardı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1856 terfisi, 'upwards of thirty-three years', 'a little more than two years' ve Parlamento tasfiyesi k4'te birebir. HAKEM DUZELTMESI: onceki surumdeki '1858'de Parlamento...' yili k4'te YOK; yil kaldirildi ve k6 uzerinden ayri cumleye tasindi. Ayrica k6'nin verdigi unvan (Chief Examiner of Correspondence) ile Mill'in kendi adlandirmasi (Examiner of India Correspondence) farkli; ikisi de gosterildi."
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Mill o tasfiyeye karşı Şirket'in gösterdiği direnişin baş yöneticisi olduğunu, mektupları ve dilekçeleri kendisinin yazdığını söyler; yeni kurulan Konsey'de kendisine önerilen üyeliği ise reddetti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Sömürgeciliğin çözümlenmesinde Mill, Uday Mehta'nın okumasında evrenselcilik ile aşamalı tarih anlayışının birleşmesinden doğan liberal emperyalizmin örneği sayılır: bütün insanlar akıl ve kendini yönetme kapasitesini paylaşır, ama bu kapasiteler ancak belirli bir uygarlık aşamasında ortaya çıkar; o hâlde gelişmiş toplumların ötekileri yönetmesi öncelikle bir tahakküm ve iktisadi sömürü değil, iyileştirmeyi hedefleyen babacan bir yönetim uygulamasıdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI: kaynak bu tezi Uday Mehta (1999) ve McCarthy (2009) adina yaziyor; aktarim halkasi gizlenmisti, Mehta adlandirildi. Kaynagin 'not primarily ... domination and economic exploitation' ifadesindeki 'oncelikle' ve 'iktisadi somuru' geri kondu."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Aynı çözümleme, Mill'in bu yönetimi despotik diye adlandırmaktan\nçekinmediğini de kaydeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "*Temsilî Hükümet Üzerine\nDüşünceler*'de Mill, yabancı halkların sömürgeleri yönetmeye neden uygun olmadığına dair dört gerekçe sıralar: yerel koşulları bilmemeleri; dil, kültür ve din farkı yüzünden yönetilenlerle duygudaşlık kuramayıp zorbalığa yönelmeleri; iyi niyetli olsalar bile anlaşmazlıkta kendilerine benzeyenlerden yana tutum almaları; ve az emekle zenginleşmek için giden tüccar ve yerleşimcilerin ülkeyi geliştirmek yerine sömürmeleri.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak dort gerekce sayiyor; dordu de yazildi"
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Siyasal iktidarı elinde tutanların yönetilen nüfusa karşı hiçbir hesap verme yükümlülüğü yokken iyi yönetimin nasıl güvenceye alınacağını ise açıklayamaz.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Öte yandan Avam Kamarası'nda geçirdiği tek dönemde — 1865'te Westminster'dan seçildi, 1868'de yenildi — savunduğu davalar arasında kadınlara oy hakkının tanınması, İrlanda reformu ve Jamaika'daki yönetimi sırasında işlenen vahşetler nedeniyle Vali Eyre'in yargılanması vardı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI: kaynak uc dava sayiyor (kadinlara oy hakki, Irlanda reformu, Eyre'in yargilanmasi); onceki surum yalniz Eyre'i yaziyordu. Liste tamamlandi."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "1869'da yayımlanan *Kadınların Köleleştirilmesi* tek bir önermeyle açılır: \"iki cinsten birinin ötekine hukuken tabi kılınması kendi başına yanlıştır\" ve yerini hiçbir tarafa ayrıcalık, hiçbir tarafa engel tanımayan tam eşitlik ilkesi almalıdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "İki cinsin doğası, yalnızca bugünkü ilişkileri içinde görüldükleri sürece bilinemez; kadınların doğası denen şey, bazı yönlerde baskı, bazı yönlerde yapay teşvikle üretilmiş fazlasıyla suni bir üründür.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Aynı bölümde tahakkümü doğallaştırmanın başka örnekleri de sıralanır: Aristoteles insanlar arasında özgür doğalar ile köle doğalar bulunduğunu, Yunanların birinci, Trakyalı ve Asyalı barbar ırkların ikinci kümeye girdiğini ileri sürmüştü; Amerika'nın güney eyaletlerindeki köle sahipleri de siyahların doğaları gereği özgürlüğe yetenekli olmadığını, kölelik için işaretlendiklerini savunmuştu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI: kaynak ayni paragrafta once Aristoteles'i ve 'the barbarian races of Thracians and Asiatics' ifadesini veriyor; onceki surum bu ogeyi dusurmustu, oysa dosyanin merkezi gerilimini tam bu oge tasiyor."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Barbar ırkları doğallaştırma yanılgısının örneği diye anarken bile Mill kendi kaydına dönmez; bağı kendisi kurmaz, sonraki sömürgecilik sonrası okumalar tam bu noktadan girer.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Olumsuz iddia iki metnin okunmasina dayanir; somurgecilik sonrasi okumalarin varligi k8'de dogrudan. HAKEM DUZELTMESI: onceki 'iki metnin hicbirinde' mutlagi, Aristoteles pasaji eklendikten sonra dar ve sinanabilir bicime indirildi."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Mill'in kendi anlatısına göre *Özgürlük Üzerine*, adını taşıyan başka hiçbir metinden daha doğrudan ve harfi harfine Harriet Taylor ile ortak ürünleriydi; kitabın her cümlesi ikisi tarafından defalarca elden geçirilmişti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "*Liberty, Equality, Fraternity*'nin ithafı Mart 1873 tarihini taşır ve kitabın Hindistan'da tasarlanıp dönüş yolculuğunda kısmen yazıldığını söyler; Stephen, Hindistan hükümetinin karargâhında okuduğu Avrupa gazetelerindeki söylemi yoksul ve sahte bulmuştu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ithaf tarihi ve Hindistan kaydi metinde temiz geciyor; ciltteki OCR bozuk yillara yaslanilmadi"
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Mill aynı yılın Mayıs ayında Avignon'da öldü ve bu itiraza yanıt veremedi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Hiçbiri kendini koruma ya da başkasına zararın önlenmesi diye tarif edilemez; üçü de Mill'in ilkesinin mahkûm ettiği şeylerdir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Stephen ucu de sayiyor; ucu de yazildi"
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Stephen'a göre ilke yalnız ceza hukukuyla sınırlanırsa geriye tartışmaya değmeyecek bir sıradanlık kalır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Kökü Kant'a kadar giden, 1950'ler ve 60'larda Isaiah Berlin'in derinlemesine işlediği olumlu-olumsuz özgürlük ayrımında Constant, Humboldt, Spencer ve Mill gibi klasik liberal gelenek yazarları, devletin yurttaşların olumlu özgürlüğünü onlar adına ilerletmesi sorusuna hayır cevabı verdikleri için olumsuz özgürlük savunucuları arasında sayılırlar — ama bu bir sınıflandırma alışkanlığıdır, kesin bir tespit değil, ve kaynak da bunu \"genellikle sayılır\" kaydıyla verir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin 'typically classed as' cekincesi cumlede korundu. HAKEM DUZELTMESI: ayrimin Kant'a kadar giden kokeni ve Isaiah Berlin'in payi kaynakta adiyla duruyordu, govdede yoktu; eklendi."
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Birincisi, zarar ilkesinin *kimseye zarar vermediğin sürece istediğini\nyap* biçimine indirgenmesidir; oysa zararın varlığı müdahaleyi meşrulaştırmaya yetmez, yalnızca tartışmayı açar.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "İkincisi, barbarlar kaydının sessizce düşürülmesi ve denemenin koşulsuz evrensel bir metin gibi okunmasıdır; kayıt metnin kendisindedir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Üçüncüsü, tersinden gelen hata: Mill'i yalnızca sonraki emperyal kullanımı üzerinden mahkûm etmek, aynı Mill'in sömürge yönetimine karşı sıraladığı dört gerekçeyi ve Eyre davasındaki tutumunu görmezden gelmeyi gerektirir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Dördüncüsü de yazarlıkla ilgilidir: *Özgürlük Üzerine* tek imzalı bir kitap değildir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Mill bu koşulu bazıları için sağlanmış, bazıları için ise geleceğe ertelenmiş saydı; onu okumayı sürdüren tartışma, o ikinci kümenin gerekçesinin tutup tutmadığıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kapanis degerlendirmesi; iki kaynagin savlarindan cikarilan yazar yorumu"
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Kitabın son gözden geçirmesi ise yapılamadı: Harriet Taylor 1858'de, Mill'in Şirket'ten emekliliğinden bir ay kadar sonra Avignon'da öldü ve Mill metne bir daha ekleme yapmadı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4: son gozden gecirmenin 1858-9 kisina birakildigi, olumle bosa ciktigi ve 'I have made no alteration or addition to it'. k6: Harriet 1858'de oldu, bu Mill'in Sirket'ten emekliliginden bir aydan biraz fazla sonraydi; 1858 yili bu kunyeden geliyor."
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Kadınlarda görülen özelliklerin doğadan mı yetiştirmeden mi geldiğinin uygun bir toplumsal deney olmadan bilinemeyeceğini savunan Mill, bu kuralı tutarlı biçimde uygulamaz: fırsatlar eşitlense bile kadınların çoğunun geleneksel iş bölümünü — kocanın geliri kazanması, kadının ev idaresini üstlenmesi — seçeceğini birkaç yerde dile getirir ve bu bölüşümü onaylar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: 'But Mill does not adhere to this point consistently (see Annas 1977; Okin 1979) ... he approves of this traditional division of labor.' HAKEM EKLEMESI: dalga notunun istedigi feminist okuma govdede yoktu."
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Julia Annas ve Susan Moller Okin'in çözümlemeleri bu varsayımın Mill'in kendi yöntem kuralına aykırı olduğunu gösterir; düzeltmenin gereci de yine Mill'in kendi savlarındadır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Adlar kaynakta birebir (Annas 1977; Okin 1979); 'it is Mill himself that supplies the resources for criticizing his assumption' kaydi da kaynakta."
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Önce yaygın görüşü — en iyi ifadesini Mill'in denemesinde bulduğunu söyleyerek — \"özgürlüğün dinsel dogması\" diye adlandırır ve öğretinin kanıtlanmadığını, çünkü doğru olmadığını ileri sürer.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI: Stephen nitelemeyi 'the popular view' icin yapiyor ve Mill'in denemesini onun en iyi ifadesi sayiyor; onceki surum nitelemeyi dogrudan Mill'in gorusune yapistirmisti."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 43,
+    "kismi": 4,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

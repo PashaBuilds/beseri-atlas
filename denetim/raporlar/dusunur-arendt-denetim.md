@@ -1,15 +1,62 @@
 ## dusunur-arendt
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.166Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T16:50:57.463Z_
 
-- [OK]      k1 → "Kaynak onu 1906-1975 arasında yaşamış, yirminci yüzyılın en etkili siyaset filozoflarından biri olarak kaydede…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Kaynağın nitelemesi hem bir yüzyıl kaydı hem bir çoğul kaydı taşır: yirminci yüzyıl ve en etkililerden biri." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir üstünlük ifadesinin iki koşulla birden sınırlandırılması, atlasın bu tür ifadeleri neden kaynağın koyduğu …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, doğduğu ailenin niteliğini bir sıfat olarak değil bir bağlam kaydı olarak verir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir düşünürün ailesinin dinsel ve ulusal aidiyetinin ansiklopedi maddesinin ilk cümlelerinde yer alması, o yüz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Bir düşünürün ailesinin dinsel ve ulusal aidiyetinin ansiklopedi maddesinin ilk cümlelerinde yer alması, o yüz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Aynı yüzyılın bir başka siyaset yazarı için tutulan kayıt, mesleğini dört ayrı sıfatla verir: tarihçi, diploma…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "İki kaydın da tek bir meslek ya da tek bir konum vermemesi, yirminci yüzyıl siyaset düşüncesinin akademik kürs…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "İki kaydın da tek bir meslek ya da tek bir konum vermemesi, yirminci yüzyıl siyaset düşüncesinin akademik kürs…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Totalitarizm çözümlemesi, kamusal alan kuramı, eylem ve emek ayrımı ile yargılama üzerine yazıları burada ayrı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Hannah Arendt'in bütün işi bu yetmezliğin üzerine kuruludur: Nazi Almanyası ile Stalin dönemi Sovyetler Birliğ…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Görülmemiş olanı önceki örneklerden türetmek ya da tarihsel zorunluluğun bir şemasına yerleştirmek yerine, olg…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kararın bedeli ağırdı: eğer gelenek koptuysa, elimizdeki ahlaki ve siyasi kategorilerin çoğu anlamsızlaşmış de…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Arendt'in sonraki bütün yapıtları bu boşluğu doldurma denemeleridir; ilgisi tekil insanda değil, çoğul hâlde i…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Doktora tezinden başlayarak bütün yazısını kat eden soru tekti: insanlar ortak bir dünyada nasıl birlikte yaşa…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Totalitarizmin Kaynakları 1951'de yayımlandı ve tek ciltte üç kitap taşıyordu: antisemitizm, emperyalizm, tota…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Arendt'in amacı nedensel bir açıklama vermek değildi; totalitarizme kristalleşen ögelerin tarihsel soruşturmas…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Olguyu mümkün kılan koşullar arasında çökmüş siyasal yapılar ile toplumsal ve iktisadi altüst oluş, devrim ve …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Hareketin önderleri ayaktakımından geliyordu; kalabalık destekçi kütlesi ise bu köksüz ve yalnız kitlelerden p…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Arendt'e göre totalitarizmin ideal öznesi ikna olmuş Nazi ya da ikna olmuş komünist değil, olgu ile kurmaca ar…"
+- [ATOMSUZ] k1 → "Yekpare ve düzenli bir sistem değil, kasten kaotik, akışkan ve biçimsiz bir yapı; birbiriyle yarışan kurumlar …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Bu labirentin üstünde gizli polisin aşırı yetkin servisleri duruyordu; rejimin asıl sırrı ise toplama ve imha …"
+- [ATOMSUZ] k2 → "Eski tiranlıklar terörü iktidarı ele geçirmek ya da sürdürmek için bir araç olarak kullanırken, modern totalit…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Kitlelerin bu ideolojilere açık hâle gelmesini ise Arendt düzenli ve istikrarlı bağlamların yıkımına bağlar: B…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k1 → "Etkin yaşamı üç etkinliğe ayırır: yaşamın koşuluna bağlı emek, dünyasallığın koşuluna bağlı iş, çoğulluğun koş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Üçü de ayrı ilkelerle işler ve ayrı ölçütlerle yargılanır; emek yaşamı sürdürebilme kabiliyetiyle, iş insan ku…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Yalnızca eylemde ve konuşmada insanlar ne olduklarını değil kim olduklarını açığa vururlar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Arendt'in özgürlük anlayışı da bu yüzden seçenekler arasından seçme kabiliyeti değildir: doğumla birlikte düny…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Arendt'te iktidar, kuvvetten, zordan ve şiddetten ayrı durur: bireyin bir mülkü değil, ortak bir siyasal amaç …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Meşruiyetini sonradan gelen hiçbir edimden değil, insanların ilk bir araya gelişinden alır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu iktidar biriktirilemez, depo edilemez; ancak insanlar eylemek için toplandığında edimselleşen bir potansiye…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "da ikili bir yapıdır: yurttaşlar konuşma ve ikna yoluyla birlikte eylediğinde doğan görünme alanı ile bizi doğ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Arendt bu alanın yapaylığını bir kusur değil bir başarı sayardı ve sonucunu da kabul ederdi: siyasal eşitlik d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Aynı nedenle etnik, dinsel ya da ırksal kimliği siyasal topluluğa üyeliğin temeli yapan her yaklaşımı reddetti…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "1961'de The New Yorker için Adolf Eichmann'ın Kudüs'teki duruşmasını izlemeye gitti; iki yıl sonra çıkan kitap…"
+- [OK]      k3 → "Duruşmanın konusu olan görevin ölçüsü şudur: Eichmann, Reich Güvenlik Ana Dairesi'nin IV B 4 şubesinin başında…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Macaristan, sürgün sürecine bizzat sahada karıştığı tek yerdi: Almanya'nın Macaristan'ı işgalinden altı hafta …" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k3 → "Viyana'daki Yahudi Göçü Merkez Bürosu'nun Ağustos 1938 ile Haziran 1939 arasında 110.000 Avusturyalı Yahudi'ni…" — 3 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k3 → "1960'ta İsrail Güvenlik Servisi ajanları Eichmann'ı Arjantin'de kaçırdı; Aralık 1961'de Yahudi halkına karşı s…" — 5 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Duruşmanın basında yer alışının — en ünlü örneği Arendt'in kitabıdır — Holokost'a dair kamusal ilgiyi uyandırd…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Arendt'in savı şuydu: Eichmann'ın edimlerinin kaynağı Yahudilere karşı fanatik bir nefret değil, Hitler'e bağl…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Kavramın kapsamı Arendt'in kendi kullanımında sınırlıdır: ifade kötülüğün doğasına ilişkin genel bir kuram ola…"
+- [OK]      k1 → "Deneyimin ardından Arendt'in kötülük anlayışı da değişti; 1964'te Gershom Scholem'e yazdığı ve bu maddenin day…"
+- [OK]      k6 → "Dávid Kaposi'nin retorik çözümlemesine göre iki taraf Yahudi sorumluluğu konusunda birbiriyle bağdaşmaz siyasa…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Kaynağın bu hat için adıyla gösterdiği künyeler Cesarani 2006, Lipstadt 2011 ve Stangneth 2014'tür; bu eleştir…"
+- [OK]      k1 → "Sonuncusu, Bettina Stangneth'in Eichmann Before Jerusalem: The Unexamined Life of a Mass Murderer başlıklı arş…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k7 → "Browning kitaba 2015'te Genocide Studies International'da dört sayfalık bir inceleme ayırdı."
+- [OK]      k1 → "Kaynağın tam bu iddia için gösterdiği okumalar Bernstein, Hansen, Parekh, Pitkin ve Wolin'e aittir; bunlara gö…"
+- [ATOMSUZ] k1 → "Maddenin kendi adına eklediği üçüncü itiraz ise şudur: özel ile kamusal arasındaki katı ayrım, modernliğin en …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "1972'de bir konferansta Frankfurt Okulu'ndan Albrecht Wellmer'in sorusu üzerine Arendt, konut ve evsizliğin si…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Feministler, siyaseti hanenin dışına hapsetmenin siyasetin erkekler tarafından tekelleştirilmesiyle iç içe old…"
+- [OK]      k9 → "Jacques Rancière'in haklara sahip olma hakkı kavramına yönelttiği sert eleştiriye karşı Benhabib, Rancière'in …"
+- [OK]      k2 → "1959'da yayımlanan Reflections on Little Rock, Arendt'in Siyah yurttaşlık hakları hareketine dair tartışmalı d…"
+- [OK]      k4 → "Yazının kendi ön açıklaması, metnin nasıl doğduğunu Arendt'in ağzından verir: yazı Commentary editörlerinden b…"
+- [OK]      k4 → "Arendt, 49 eyaletin 29'undaki evlilik yasalarının okullardaki ayrımdan çok daha ağır bir anayasa ihlali olduğu…"
+- [OK]      k4 → "Arendt bu karşı çıkıştan özellikle eğitimli kesim açısından kuşku duyduğunu söyler, ama Siyah kamuoyunun ve NA…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Burroughs, Arendt'in vardığı sonuçları açıklamak için öne sürülen üç yorumu adlandırır: kategori yorumu — kamu…"
+- [OK]      k5 → "Burroughs üçünün de anlayışımızı ilerlettiğini kabul eder ama yeterince ileri gitmediğini söyler; ona göre Are…"
+- [OK]      k8 → "Board of Education kararından üç yıl sonra, on beş yaşındaki Elizabeth Eckford'un o güne dek beyaz öğrencilere…"
+- [OK]      k1 → "Kitabın Nazi suçlarını önemsizleştirdiği ya da Eichmann'ı savunduğu okuması ise ağır bir yanlış yorumdur."
+- [OK]      k1 → "Arendt, Eichmann'ın sadece emirleri yerine getirdiğini — sanığın kendi savunmasını — hiçbir zaman yazmadı; ona…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Arendt onu edimlerinden tümüyle sorumlu saydı ve idam kararını destekledi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Buna rağmen aynı kalıp başvuru eserlerinde bile sürer: bir felsefe ansiklopedisi Eichmann'ı düşünmeksizin, emi…"
+- [ATOMSUZ] k1 → "Kitabın altbaşlığındaki ifade metnin gövdesinde yalnızca bir kez daha geçer; buna karşılık yayımlanır yayımlan…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Arendt'in savı tek bir failin düşünme yetisinin yokluğuna dairdir ve Arendt bunu kötülüğün doğasına ilişkin ge…"
+- [ATOMSUZ] k9 → "Biri, vatandaşlığın ve haklara sahip olma hakkının uluslararası hukukla kurtuluşçu siyaset arasındaki gerilimd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Öteki, yargılama yetisi: geleneğin ölçütleri dağıldığında, önceden verilmiş kurallar olmadan yargılamayı mümkü…"
 
-**Özet:** 1 OK · 0 ISARET · 0 HATA · 9 ATOMSUZ
+**Özet:** 34 OK · 0 ISARET · 0 HATA · 23 ATOMSUZ

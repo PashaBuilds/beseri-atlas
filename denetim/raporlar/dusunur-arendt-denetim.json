@@ -1,69 +1,351 @@
 {
   "id": "dusunur-arendt",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:52.166Z",
-  "govde_hash": "a57dadec5c2e",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T16:50:57.463Z",
+  "govde_hash": "9e3a0f828cff",
+  "commit": "ed6ddb4",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak onu 1906-1975 arasında yaşamış, yirminci yüzyılın en etkili siyaset filozoflarından biri olarak kaydeder ve bir Alman-Yahudi ailede doğduğunu yazar.",
+      "iddia": "Hannah Arendt'in bütün işi bu yetmezliğin üzerine kuruludur: Nazi Almanyası ile Stalin dönemi Sovyetler Birliği'ni despotizmin, tiranlığın ya da diktatörlüğün b",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Görülmemiş olanı önceki örneklerden türetmek ya da tarihsel zorunluluğun bir şemasına yerleştirmek yerine, olguyu kendi terimleriyle anlamaya çalıştı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kararın bedeli ağırdı: eğer gelenek koptuysa, elimizdeki ahlaki ve siyasi kategorilerin çoğu anlamsızlaşmış demekti ve zamanın yüküne geleneğin yardımı olmadan ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arendt'in sonraki bütün yapıtları bu boşluğu doldurma denemeleridir; ilgisi tekil insanda değil, çoğul hâlde insanlarda ve ortak yaşamlarının koşullarındaydı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Doktora tezinden başlayarak bütün yazısını kat eden soru tekti: insanlar ortak bir dünyada nasıl birlikte yaşayabilir?",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Totalitarizmin Kaynakları 1951'de yayımlandı ve tek ciltte üç kitap taşıyordu: antisemitizm, emperyalizm, totalitarizm.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arendt'in amacı nedensel bir açıklama vermek değildi; totalitarizme kristalleşen ögelerin tarihsel soruşturmasını yapmaktı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Olguyu mümkün kılan koşullar arasında çökmüş siyasal yapılar ile toplumsal ve iktisadi altüst oluş, devrim ve savaşla dünyada yönünü ve gerçeklik duygusunu yiti",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hareketin önderleri ayaktakımından geliyordu; kalabalık destekçi kütlesi ise bu köksüz ve yalnız kitlelerden propagandayla devşirildi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arendt'e göre totalitarizmin ideal öznesi ikna olmuş Nazi ya da ikna olmuş komünist değil, olgu ile kurmaca arasındaki ayrımın çoktan silindiği insandır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yekpare ve düzenli bir sistem değil, kasten kaotik, akışkan ve biçimsiz bir yapı; birbiriyle yarışan kurumlar ve oynak bir hiyerarşi — yani öngörülebilirliği, g",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu labirentin üstünde gizli polisin aşırı yetkin servisleri duruyordu; rejimin asıl sırrı ise toplama ve imha kamplarıydı ve kamplardaki toplam terör Arendt'e g",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Eski tiranlıklar terörü iktidarı ele geçirmek ya da sürdürmek için bir araç olarak kullanırken, modern totalitarizmde terör artık bir amaca hizmet etmiyor, kend",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kitlelerin bu ideolojilere açık hâle gelmesini ise Arendt düzenli ve istikrarlı bağlamların yıkımına bağlar: Birinci Dünya Savaşı, Büyük Buhran ve devrimci karg",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Etkin yaşamı üç etkinliğe ayırır: yaşamın koşuluna bağlı emek, dünyasallığın koşuluna bağlı iş, çoğulluğun koşuluna bağlı eylem.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üçü de ayrı ilkelerle işler ve ayrı ölçütlerle yargılanır; emek yaşamı sürdürebilme kabiliyetiyle, iş insan kullanımına uygun kalıcı bir dünya kurabilmesiyle, e",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yalnızca eylemde ve konuşmada insanlar ne olduklarını değil kim olduklarını açığa vururlar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arendt'in özgürlük anlayışı da bu yüzden seçenekler arasından seçme kabiliyeti değildir: doğumla birlikte dünyaya gelen başlama kapasitesi, yani doğumsallıktır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arendt'te iktidar, kuvvetten, zordan ve şiddetten ayrı durur: bireyin bir mülkü değil, ortak bir siyasal amaç için bir araya gelen çoğulluğun ürünüdür ve zorlam",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Meşruiyetini sonradan gelen hiçbir edimden değil, insanların ilk bir araya gelişinden alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu iktidar biriktirilemez, depo edilemez; ancak insanlar eylemek için toplandığında edimselleşen bir potansiyeldir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "da ikili bir yapıdır: yurttaşlar konuşma ve ikna yoluyla birlikte eylediğinde doğan görünme alanı ile bizi doğadan ayıran, insan yapımı kurum ve nesnelerden olu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arendt bu alanın yapaylığını bir kusur değil bir başarı sayardı ve sonucunu da kabul ederdi: siyasal eşitlik doğal haklar kuramına dayanmaz, kamusal alana girer",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı nedenle etnik, dinsel ya da ırksal kimliği siyasal topluluğa üyeliğin temeli yapan her yaklaşımı reddetti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1961'de The New Yorker için Adolf Eichmann'ın Kudüs'teki duruşmasını izlemeye gitti; iki yıl sonra çıkan kitap Yahudi çevrelerinde derin bir tartışma yarattı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Duruşmanın konusu olan görevin ölçüsü şudur: Eichmann, Reich Güvenlik Ana Dairesi'nin IV B 4 şubesinin başında Avrupa'nın her yanından bir buçuk milyondan fazla",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Macaristan, sürgün sürecine bizzat sahada karıştığı tek yerdi: Almanya'nın Macaristan'ı işgalinden altı hafta sonra, Nisan 1944'ün sonundan Temmuz başına kadar ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Viyana'daki Yahudi Göçü Merkez Bürosu'nun Ağustos 1938 ile Haziran 1939 arasında 110.000 Avusturyalı Yahudi'nin göçünü kolaylaştırdığı bilgisi ise kurumun kendi",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "1960'ta İsrail Güvenlik Servisi ajanları Eichmann'ı Arjantin'de kaçırdı; Aralık 1961'de Yahudi halkına karşı suçlardan suçlu bulundu ve 31 Mayıs'ı 1 Haziran 196",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Duruşmanın basında yer alışının — en ünlü örneği Arendt'in kitabıdır — Holokost'a dair kamusal ilgiyi uyandırdığı tarihçilerin geniş ölçüde kabul ettiği bir yar",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arendt'in savı şuydu: Eichmann'ın edimlerinin kaynağı Yahudilere karşı fanatik bir nefret değil, Hitler'e bağlılığı ve düşüncesizliğiydi; düşüncesizlikle kastet",
       "durum": "OK",
       "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynağın nitelemesi hem bir yüzyıl kaydı hem bir çoğul kaydı taşır: yirminci yüzyıl ve en etkililerden biri.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Kavramın kapsamı Arendt'in kendi kullanımında sınırlıdır: ifade kötülüğün doğasına ilişkin genel bir kuram olarak değil, Eichmann'ın kişiliğine ilişkin öznel ol",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir üstünlük ifadesinin iki koşulla birden sınırlandırılması, atlasın bu tür ifadeleri neden kaynağın koyduğu koşullarla birlikte taşıdığının bir başka örneğidi",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Deneyimin ardından Arendt'in kötülük anlayışı da değişti; 1964'te Gershom Scholem'e yazdığı ve bu maddenin dayandığı ansiklopedi maddesinin aktardığı mektupta k",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Dávid Kaposi'nin retorik çözümlemesine göre iki taraf Yahudi sorumluluğu konusunda birbiriyle bağdaşmaz siyasal-ahlaki çerçeveler öne sürdü, birbirlerine uç kim",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, doğduğu ailenin niteliğini bir sıfat olarak değil bir bağlam kaydı olarak verir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Kaynağın bu hat için adıyla gösterdiği künyeler Cesarani 2006, Lipstadt 2011 ve Stangneth 2014'tür; bu eleştirmenler Arendt'i, gerçekte fanatik biçimde antisemi",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir düşünürün ailesinin dinsel ve ulusal aidiyetinin ansiklopedi maddesinin ilk cümlelerinde yer alması, o yüzyılın siyasi tarihinin biyografiye girdiğini göste",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Sonuncusu, Bettina Stangneth'in Eichmann Before Jerusalem: The Unexamined Life of a Mass Murderer başlıklı arşiv çalışmasıdır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Bir düşünürün ailesinin dinsel ve ulusal aidiyetinin ansiklopedi maddesinin ilk cümlelerinde yer alması, o yüzyılın siyasi tarihinin biyografiye girdiğini göste",
+      "anahtar": "k7",
+      "iddia": "Browning kitaba 2015'te Genocide Studies International'da dört sayfalık bir inceleme ayırdı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın tam bu iddia için gösterdiği okumalar Bernstein, Hansen, Parekh, Pitkin ve Wolin'e aittir; bunlara göre Arendt, hane analojisine yaslandığı için modern",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Maddenin kendi adına eklediği üçüncü itiraz ise şudur: özel ile kamusal arasındaki katı ayrım, modernliğin en önemli kazanımlarından birini — adaletin ve eşit h",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Aynı yüzyılın bir başka siyaset yazarı için tutulan kayıt, mesleğini dört ayrı sıfatla verir: tarihçi, diplomat, uluslararası ilişkiler kuramcısı ve gazeteci.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "1972'de bir konferansta Frankfurt Okulu'ndan Albrecht Wellmer'in sorusu üzerine Arendt, konut ve evsizliğin siyasal meseleler olmadığını, özgürlüğün edimselleşt",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Feministler, siyaseti hanenin dışına hapsetmenin siyasetin erkekler tarafından tekelleştirilmesiyle iç içe olduğunu; Marksistler ise maddi bölüşümü siyaset dışı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Jacques Rancière'in haklara sahip olma hakkı kavramına yönelttiği sert eleştiriye karşı Benhabib, Rancière'in Arendt'i yanlış okuduğunu ve hakların edimselleşti",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "1959'da yayımlanan Reflections on Little Rock, Arendt'in Siyah yurttaşlık hakları hareketine dair tartışmalı değerlendirmesidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Yazının kendi ön açıklaması, metnin nasıl doğduğunu Arendt'in ağzından verir: yazı Commentary editörlerinden birinin önerisiyle bir yıldan uzun süre önce yazılm",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Arendt, 49 eyaletin 29'undaki evlilik yasalarının okullardaki ayrımdan çok daha ağır bir anayasa ihlali olduğunu ileri sürmüştü; Sidney Hook, New Leader'da 13 N",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Arendt bu karşı çıkıştan özellikle eğitimli kesim açısından kuşku duyduğunu söyler, ama Siyah kamuoyunun ve NAACP'nin siyasetinin neredeyse yalnızca istihdam, k",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Burroughs, Arendt'in vardığı sonuçları açıklamak için öne sürülen üç yorumu adlandırır: kategori yorumu — kamusal, özel ve toplumsal ayrımının olaylara katı biç",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Burroughs üçünün de anlayışımızı ilerlettiğini kabul eder ama yeterince ileri gitmediğini söyler; ona göre Arendt'in yapıtındaki temel bilgisel hata beyaz cehal",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Board of Education kararından üç yıl sonra, on beş yaşındaki Elizabeth Eckford'un o güne dek beyaz öğrencilere ayrılmış bir okula girmeye çalışırken beyaz bir k",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "İki kaydın da tek bir meslek ya da tek bir konum vermemesi, yirminci yüzyıl siyaset düşüncesinin akademik kürsülerden ibaret olmadığını gösteren bir kayıt örünt",
+      "iddia": "Kitabın Nazi suçlarını önemsizleştirdiği ya da Eichmann'ı savunduğu okuması ise ağır bir yanlış yorumdur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arendt, Eichmann'ın sadece emirleri yerine getirdiğini — sanığın kendi savunmasını — hiçbir zaman yazmadı; ona göre Eichmann makinenin bir dişlisi değil, Yahudi",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arendt onu edimlerinden tümüyle sorumlu saydı ve idam kararını destekledi.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "İki kaydın da tek bir meslek ya da tek bir konum vermemesi, yirminci yüzyıl siyaset düşüncesinin akademik kürsülerden ibaret olmadığını gösteren bir kayıt örünt",
+      "iddia": "Buna rağmen aynı kalıp başvuru eserlerinde bile sürer: bir felsefe ansiklopedisi Eichmann'ı düşünmeksizin, emirleri izleyerek ve verimli biçimde uygulayarak çal",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kitabın altbaşlığındaki ifade metnin gövdesinde yalnızca bir kez daha geçer; buna karşılık yayımlanır yayımlanmaz kopan sert tartışmayı önemli ölçüde besledi.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Totalitarizm çözümlemesi, kamusal alan kuramı, eylem ve emek ayrımı ile yargılama üzerine yazıları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunlar",
+      "iddia": "Arendt'in savı tek bir failin düşünme yetisinin yokluğuna dairdir ve Arendt bunu kötülüğün doğasına ilişkin genel bir kuram olmadığı kaydıyla öne sürdü.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Biri, vatandaşlığın ve haklara sahip olma hakkının uluslararası hukukla kurtuluşçu siyaset arasındaki gerilimde yeniden düşünülmesi.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Öteki, yargılama yetisi: geleneğin ölçütleri dağıldığında, önceden verilmiş kurallar olmadan yargılamayı mümkün kılan bağımsız bir insan yetisinin bulunup bulun",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

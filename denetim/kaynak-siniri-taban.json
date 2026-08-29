@@ -1,0 +1,24 @@
+{
+  "aciklama": "KARAR K9 borc defteri. Kural 2026-08-29da konuldu; bu listedeki dosyalar o an birincil kaynaksiz ve kaynak_siniri beyansizdi. Listede OLMAYAN bir dosya ayni durumda olursa HATA verir. Liste yalnizca kisalabilir: beyan yazilan dosya defterden cikarilir ve bir daha giremez.",
+  "zaman": "2026-08-29",
+  "beyansiz": [
+    "dusunur-braudel",
+    "dusunur-farabi",
+    "dusunur-katib-celebi",
+    "dusunur-nagarjuna",
+    "dusunur-polanyi",
+    "dusunur-ulug-bey",
+    "dusunur-wallerstein",
+    "dusunur-wang-yangming",
+    "kaynak-braudel-akdeniz",
+    "kaynak-carr-tarih-nedir",
+    "kaynak-farabi-medinetul-fazila",
+    "kaynak-hobsbawm-caglar",
+    "kaynak-keynes-genel-teori",
+    "kaynak-milanovic-kuresel-esitsizlik",
+    "kaynak-piri-reis-kitab-i-bahriye",
+    "kaynak-polanyi-buyuk-donusum",
+    "kaynak-pomeranz-buyuk-ayrisma",
+    "kaynak-tooze-felaketin-bedeli"
+  ]
+}

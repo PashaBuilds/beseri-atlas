@@ -1,0 +1,589 @@
+{
+  "id": "dusunur-keynes",
+  "govde_hash": "872273b8899b",
+  "commit": "ed6ddb4",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "John Maynard Keynes'in *The General Theory of Employment, Interest and Money* adlı kitabı 1936'da yayımlandı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Kitap yapısını bu olasılığın üstüne kurar: toplam arz ile toplam talep işlevlerinin kesiştiği noktadaki değere *etkin talep* adını verir ve geri kalan bölümlerini büyük ölçüde bu iki işlevi belirleyen etkenleri incelemeye ayırır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Etkin talep tanimi ve kitabin plani 3. bolumun kendi cumlelerinde. Hakem: kaynagin -largely occupied- kaydi metne -buyuk olcude- olarak geri konuldu"
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Ocak 1915'te Hazine'de resmî bir görev aldı ve 1919 Versailles barış konferansına Hazine'nin mali temsilcisi olarak atandı; tazminat görüşmelerinin üst düzey oturumlarından hem kendisi hem Hazine büyük ölçüde dışlandı, yerlerini Almanya'dan istedikleri astronomik rakam yüzünden *Heavenly Twins* diye anılan yargıç Lord Sumner ile bankacı Lord Cunliffe aldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ocak 1915 Hazine gorevi, 1919 mali temsilcilik, Sumner-Cunliffe adlari ve dislanma kaynakta acikca"
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Yirmi yedi yıl sonra, Bretton Woods düzeninin kurulmasına çalışırken, Savannah'daki Anglo-Amerikan kredi görüşmeleri sırasında başlayan kalp krizleri serisinin ardından 21 Nisan 1946'da Sussex'teki çiftlik evinde öldü.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "*Genel Teori*'nin karşısına aldığı doktrin, arzın kendi talebini yarattığı önermesiydi; Keynes bunu klasik kuramın kategorik ifadesi sayar ve toplam talep işlevinin rahatça ihmal edilebileceği fikrini bir yüzyıldır öğretilen Ricardocu iktisadın temeline yerleştirir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Kendi anlatısına göre bu bir tartışmanın sonucuydu, doğal bir gerçek değil: Malthus, etkin talebin yetersiz kalmasının imkânsız olduğu doktrinine şiddetle karşı çıkmış ama alternatif bir kuruluş öneremediği için kaybetmişti — \"Ricardo conquered England as completely as the Holy Inquisition conquered Spain.\" Etkin talep bulmacası bundan sonra iktisat literatüründen silindi ve Keynes'e göre ancak yer altında, Marx'ın, Silvio Gesell'in ve Binbaşı Douglas'ın metinlerinde yaşamayı sürdürdü.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Malthus-Ricardo tartismasi ve Marx/Gesell/Douglas listesi kaynagin kendi paragrafinda"
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Kendi cümlesi daha ölçülüdür: klasik kuramın ekonominin nasıl davranmasını istediğimizi anlatıyor olması pekâlâ mümkündür, hata onun fiilen öyle davrandığını varsaymaktır — çünkü bu varsayım zorluğu çözmez, ortadan kaldırılmış sayar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Keynes cekincesi metne tasindi: klasik kuram reddi degil, kapsam iddiasinin reddi"
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "*The Economic Consequences of the Peace*, savaş öncesi Avrupa'sını Ağustos 1914'te kapanan olağanüstü bir dönem olarak anar: Londra'daki bir kişinin yatağında sabah çayını yudumlarken telefonla dünyanın her yerinden ürün ısmarlayabildiği, pasaportsuz seyahat edebildiği bir düzen.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Kitabın savı, o düzenin parçalarının birbirinden ayrılamaz olduğudur: Fransa, Almanya, İtalya, Avusturya, Hollanda, Rusya, Romanya ve Polonya birlikte atar, birlikte düşebilirler; Keynes'e göre Fransa ile İtalya, o sırada yere serilmiş Almanya ile Avusturya-Macaristan'ı ezmek için anlık zafer güçlerini kötüye kullanırsa kendi yıkımlarını da davet ederler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sekiz ulkelik liste kaynakla birebir. Hakem: sucu isnat edilen taraflar (Fransa ve Italya) kaynakta adiyla geciyor, gövdede de adlandirildi"
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Uyarısını bir koşul cümlesiyle kurar: Orta Avrupa'nın yoksullaştırılması bilerek hedeflenirse, \"vengeance, I dare predict, will not limp.\" Kitabın çok tartışılan bölümlerinden biri aritmetiğidir ve Keynes orada kendi sayısını ihtiyat kaydıyla verir: Kuzey Fransa'nın işgal edilmiş ve tahrip edilmiş bölgelerindeki fiziki ve maddi hasar için 2.500.000.000 doları aşan bir fatura kurmanın güç olacağını yazar, sonra bu tahmini Fransa'nın savaş öncesi servetinin en kapsamlı hesabını yapan René Pupin'in 2 ile 3 milyar dolar arasındaki aralığıyla teyit eder.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin ihtiyat kaydi (fatura kurmanin GUC olacagi) ve Pupin araligi metne tasindi; birim kaynaktaki dolar olarak birakildi. Hakem: kaynakta olmayan -en cok tartisilan- ustunluk nitelemesi kaldirildi"
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Aynı sayfalarda resmî rakamları da aktarır: Meclis Bütçe Komisyonu adına konuşan Dubois, savaş haraçları, deniz kayıpları, yollar ve kamu anıtları hariç \"asgari\" 13.000.000.000 dolar demiş; Sanayi Yeniden İnşa Bakanı Loucheur 17 Şubat 1919'da Senato'da 15.000.000.000 dolar rakamını vermişti.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem: kaynakta dort kalem (war levies, losses at sea, the roads, the loss of public monuments) sayiliyordu, govdede uc kalem vardi; -savas haraclari- geri konuldu, komisyonun Meclis komisyonu oldugu ve -asgari- kaydi eklendi"
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Keynes, kapitalist düzeni yıkmanın en iyi yolunun parayı bozmak olduğunu Lenin'in söylediğinin *aktarıldığını* yazar — atfı kendi üstlenmez — ve ardından enflasyonun hükümetlere yurttaşlarının servetinin önemli bir bölümüne gizlice el koyma imkânı verdiğini kendi adına savunur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynaktaki -is said to have declared- cekincesi korundu; atif Keynes tarafindan ustlenilmiyor"
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "1923'te yayımlanan *A Tract on Monetary Reform*, para miktarı ile fiyatlar arasındaki oransal ilişkiyi tartışırken şu adımı atar: bu ilişki uzun vadede doğrudur, ama uzun vade güncel meselelerde yanıltıcı bir kılavuzdur — \"In the long run we are all dead.\" Cümlenin devamı da aynı paragraftadır ve konuyu belirler: fırtınalı mevsimlerde bize yalnızca fırtına geçtikten çok sonra okyanusun yeniden düzleşeceğini söyleyebilen iktisatçılar, kendilerine fazla kolay ve fazla yararsız bir iş biçmişlerdir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cumlenin baglami (miktar kurami tartismasi) ve devami kaynakta ayni paragrafta"
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Keynes enflasyonun adaletsiz, deflasyonun ise elverişsiz olduğunu yazar; ikisinden hangisinin daha kötü olduğu sorusuna cevabını açık bir istisnayla verir: Almanya'daki gibi aşırı enflasyonlar hesap dışı bırakılırsa belki de deflasyon daha kötüdür, çünkü yoksullaşmış bir dünyada işsizlik yaratmak, rantiyeyi hayal kırıklığına uğratmaktan daha ağırdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin -Almanya gibi asiri enflasyonlar haric- istisnasi metne tasindi. Hakem: kaynaktaki -perhaps- cekincesi dusurulmustu, -belki de- olarak geri konuldu"
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Çarpan bunların en somutudur ve tek başına onun buluşu değildir: kavramı Richard Kahn 1931 Haziran'ında *The Economic Journal*'da yayımlanan makalesinde istihdam çarpanı olarak geliştirmiş, Keynes fikri ondan alıp yatırım çarpanı biçiminde formüle etmiştir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Carpanin Kahn kaynakli oldugu kaydi kaynakta acik"
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Keynes, ortodoks maliyenin likidite fetişini toplum düzeyinde anlamsız sayar: tek tek yatırımcılar için likit olan varlık, bir bütün olarak topluluk için likit değildir, çünkü yatırımın kendisi satılıp yok edilemez.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Likidite için örgütlenmiş piyasalarda değerleme, varlığın uzun vadeli getirisine değil, başkalarının ortalama kanaatinin ne olacağına bakar; Keynes bunu, en güzel yüzleri değil ötekilerin en güzel bulacağını sandığınız yüzleri seçtiğiniz bir gazete yarışmasına benzetir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Keynes'in savı, sonuçları günler boyunca açılacak olumlu kararların çoğunun nicel faydaların olasılıklarla ağırlıklandırılmış ortalamasından değil, \"a spontaneous urge to action rather than inaction\" biçimindeki kendiliğinden bir dürtüden doğduğudur; hesabın yapılmadığını değil, yapılamayacağını söyler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hayvani ruhlarin irrasyonellik degil hesaplanamazlik savi olarak okunmasi kaynagin kendi formulasyonuna dayaniyor"
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Bunun sonucu, girişimin spekülasyon girdabı üzerinde bir baloncuğa dönüşebilmesi ve bir ülkenin sermaye birikiminin kumarhane etkinliğinin yan ürünü hâline gelebilmesidir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Keynes orada tam istihdama yaklaşmanın tek yolu olarak \"a somewhat comprehensive socialisation of investment\" önerir; ancak aynı cümlede bunun kamu otoritesinin özel girişimle iş birliği yapacağı her türlü uzlaşmayı ve düzeneği dışlamadığını yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "-somewhat- nitelemesi ve uzlasma kaydi kaynaktan birlikte alindi"
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Hemen ardından sınırı çeker: bunun ötesinde, iktisadi hayatın çoğunu kapsayacak bir devlet sosyalizmi için açık bir gerekçe yoktur; devletin üstlenmesi gereken şey üretim araçlarının mülkiyeti değil, kaynakların toplam hacmine ve sermaye sahiplerine ödenecek temel getirinin oranına karar verme yetkisidir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Devlet sosyalizmi reddi kaynagin ayni paragrafinda"
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Sermayenin kıtlığının, toprağın kıtlığından farklı olarak içsel bir nedeni bulunmadığını, bu yüzden faizin gerçek bir fedakârlığı ödüllendirmediğini savunur; ama bunun bir istisnası olduğunu da yazar — bireysel tüketim eğilimi, tam istihdam koşullarında net tasarruf sermaye yeterince bollaşmadan bitecek nitelikteyse, kıtlık gerçek olur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynaktaki -except in the event of- kosulu metne tasindi. Hakem: kaynagin hemen ardindan gelen -but even so, communal saving through the agency of the State- kaydi govdede yoktu ve rantiyenin otanazisi tersine cevrilmisti; kaynagin -transitional phase which will disappear when it has done its work- hukmuyle duzeltildi"
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Keynes bu istisnayı da hemen sınırlar: o durumda bile devlet eliyle sürdürülecek ortak tasarrufun sermayeyi kıt olmaktan çıkana kadar büyütebileceğini yazar; rantiyenin ötanazisi dediği sonuç bu yüzden ani bir kopuş değil, kapitalizmin geçici bir yüzünün işini bitirip yavaş yavaş silinmesidir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem ekledi: kaynagin -but even so, it will still be possible for communal saving through the agency of the State- ve -transitional phase which will disappear when it has done its work- cumleleri. Onceki govde bu kaydi dusurup otanaziyi tersine cevirmisti"
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "İtirazların ilki *Genel Teori*'den öncedir ve hedefi de başka bir kitaptır: Friedrich Hayek 1931'de Keynes'in 1930 tarihli *A Treatise on Money*'sini ayrıntılı biçimde eleştirmişti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hedefin Genel Teori degil 1930 Treatise oldugu ayrimi kaynakta acik"
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "İki adamın ilişkisi bir cephe hattı değildi; Wikipedia'nın aktardığı mektupta Keynes, *The Road to Serfdom*'u okuduktan sonra Hayek'e \"Morally and philosophically I find myself in agreement with virtually the whole of it.\" diye yazar; mektubun kendi metni bu dosya için görülmedi.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia uzerinden aktarilan mektup alintisi; birincil mektup metni gorulmedi. Hakem: aktarim halkasi govdede de acikca beyan edildi"
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Orada iktisatçıların tavsiye ettiği politikaların hızlanan enflasyona yol açtığını, meslek olarak işleri berbat ettiklerini söyler — \"as a profession we have made a mess of things.\" İtirazı iki katmanlıdır: otuz yıldır para ve maliye politikasına yön veren kuram, toplam istihdam ile mal ve hizmetlere yönelik toplam talep arasında basit ve olumlu bir bağıntı bulunduğunu ileri sürer; Hayek bu kuramı temelden yanlış sayar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Ama aynı paragrafta bir kabul de vardır ve bu kabul genellikle aktarılmaz: yaygın işsizliği açıklamak için ileri sürülen kuramlar arasında lehine güçlü nicel kanıt getirilebilen muhtemelen tek kuram budur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hayekin -lehine guclu nicel kanit getirilebilen tek kuram- kabulu genellikle dusuruluyor; metne tasindi"
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Hayek'e göre asıl hata, karmaşık olguları fizik biliminin yöntemleriyle inceleme eğilimidir; toplam talebin artırılması da bu yüzden istihdam değil, kaynakların yanlış yerlere dağılması sonucunu doğurmuştur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Milton Friedman 1950'lerin ortasından itibaren, özellikle 1963'te yayımlanan *A Monetary History of the United States*'ten sonra güçlü bir eleştirmen olarak öne çıktı; parasalcılar hükümetin maliye politikasıyla iş çevrimini olumlu yönde düzenleyebilme yeteneğine itiraz ediyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Bu itirazın kurumsal zemini daha eskidir: Hayek 1947'de, üyeleri arasında Ludwig von Mises ile o sırada genç olan Friedman'ın da bulunduğu Mont Pelerin Cemiyeti'ni, Keynesçiliği bir gün ikame edecek düşünsel akımları beslemek amacıyla kurmuştu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Robert Lucas ile Thomas Sargent, 1979 Mart'ında *Quarterly Review*'da, başlığı Keynesçi makroiktisadı geçmiş zamana yerleştiren *After Keynesian Macroeconomics* yazısını yayımladılar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref kaydi yazar, yil, dergi ve basligi dogrudan tasiyor; yazinin ICERIGINE dair bir iddia kurulmadi"
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Dördüncüsü ise ters yönden gelir: Joan Robinson'ın *Contributions to Modern Economics* derlemesinde yer alan *The Second Crisis of Economic Theory*, krizi politikada değil kuramın kendisinde arar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref yalnizca yazar/baslik/derleme veriyor; -krizi kuramin kendisinde arar- okumasi basliktan cikarim, metinden degil"
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Post-Keynesçi çizginin savı ise Keynes'in yanlış okunduğudur; Hyman Minsky'ye göre Keynesçi iktisat 1950'lerden itibaren neoklasik fikirlerle aşırı karıştırılarak yozlaştırılmıştı, öyle ki bu dalın hâlâ Keynesçi diye anılması talihsizlikti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem duzeltti: onceki govde post-Keynesyen savi dipnotsuz ve adsiz bir ozet olarak veriyordu; kaynak bu savi Minsky adiyla tasiyor (debased by excessive mixing with neoclassical ideas from the 1950s)"
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Bu kırılmaların ilki uzun vade cümlesidir: para kuramı içinde geçen bir yöntem itirazı, geleceği umursamama ruhsatı diye dolaşıma girer.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak cumlenin asil baglamini tasiyor; -yanlis okunma- degerlendirmesi yazarin cikarimi. Hakem: kaynakta olmayan -en sik kirilan- ustunluk nitelemesi kaldirildi"
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "İkincisi, yatırımın toplumsallaştırılması önerisinin devlet mülkiyetiyle özdeşleştirilmesidir; oysa metin bu özdeşliği açıkça reddeder.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozdesligin reddi 24. bolumde acik ifadeyle var"
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Üçüncüsü kişinin kendisine dokunur: Hayek'e göre ölümünden sonra Keynes âdeta azize çıkarılmış, eserinin sorgulanmasına izin verilmez olmuştu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Aziz yazimi elestirisi kaynakta Hayeke atfen aktariliyor"
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "EH.net ansiklopedisi, Keynesçi düşüncenin gelişinin birçok kişi tarafından bir devrim sayıldığını yazar ve hemen arkasına şu kaydı düşer: \"although this too is hotly contested.\" Aynı metin, *Genel Teori*'nin akademik düşünce ve iktisat politikası üzerindeki etkisinin ise tartışmalı olmadığını belirtir; Keynes Buhran yıllarında genç araştırmacıların tutunacağı yeni bir paradigma sunmuştu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "-hotly contested- cekincesi ve Laidler 1999 gondermesi kaynakta; devrim nitelemesi tartismali olarak birakildi"
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Keynesçi iktisat 1979'da Britanya hükümetince resmen terk edildi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Dönüş, kuramsal bir ikna sonucu değil bir kriz sonucu oldu: 2008 mali krizinden sonra Martin Wolf, James Galbraith, Robert Shiller, Paul Krugman, George Akerlof, Bradford DeLong, Robert Reich ve Joseph Stiglitz gibi isimler Keynesçi müdahale savını yeniden öne sürdüler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "İkincisi yorumsal ve daha zorludur — geriye dönüp bakarak Keynes'in gerçekte ne demek istediği ya da Keynesçiliğin asıl katkısının ne olduğu üzerine sonu gelmez biçimde tartışılabileceğini iktisat tarihçileri de kaydeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Kendi kapanış bölümündeki hüküm, bu ikinci tartışmayı kendisi öngörmüş gibidir: iktisatçıların ve siyaset felsefecilerinin fikirleri, doğru olduklarında da yanlış olduklarında da sanıldığından daha güçlüdür ve kendini her türlü düşünsel etkiden bağışık sayan pratik adamlar, genellikle çoktan ölmüş bir iktisatçının kölesidir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 39,
+    "kismi": 2,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

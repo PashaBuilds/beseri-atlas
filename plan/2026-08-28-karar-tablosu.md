@@ -205,3 +205,42 @@ Bu, atlasın kaçınmaya çalıştığı hata sınıfının ta kendisidir.
 sınıflandırma geçişiyle birlikte eklenir: her makale yeni sözlüğe göre
 tekrar etiketlenir ve geçişin tarihi hakkında sayfasında yazılır.
 Kuyruğa yazıldı.
+
+## K9 — Telif altındaki düşünürlerde kaynak sınırı (29 Ağustos)
+
+**Nasıl çıktı.** Düşünür dalgasının kör hakemleri dört dosyaya KOŞULLU
+verdi ve gerekçe hep aynıydı. Foucault dosyasında düşünürün kendi
+cümlesi YOK; 55 iddianın 36'sı tek bir ansiklopedi maddesine dayanıyor.
+Carr dosyasında da Carr'ın tek bir cümlesi yok; merkezî sav yayıncının
+tanıtım metninden geliyor. Hakemler haklıydı: bir düşünür dosyası,
+düşünürün kendi metnine dayanmadan yazılmamalıdır.
+
+**Ama sınır gerçek.** 20. yüzyıl düşünürlerinin metinleri telif
+altındadır ve atlas korsan kopya kullanamaz (§15). Ölçtüm: Arendt için
+Kongre Kütüphanesi evrakı programatik erişime kapalı (403), Internet
+Archive kopyaları ödünç kısıtlı (401), marxists.org'da Arendt arşivi
+yok. Carr için de aynısı; Elton'ın karşı çıkışı da ödünç kısıtlı.
+Buna karşılık Foucault için marxists.org'da *Bilginin Arkeolojisi*'nin
+tam metni VAR ve Montesquieu için Wikisource'ta İngilizce çeviri kitap
+kitap duruyor — yani sınır her dosyada aynı değil, ölçülmesi gerekiyor.
+
+**Karar.** İkisi ayrılır:
+1. **Açık erişimli karşılığı olan dosya** düzeltilir. Foucault ve
+   Montesquieu için hedefli derinleştirme turu açıldı.
+2. **Gerçekten kapalı olan dosya** yayımlanır, AMA sınırı BEYAN EDER.
+   Bunun için `kaynak_siniri` alanı eklendi: dosyanın neden düşünürün
+   kendi metnine dayanamadığını, hangi kanalların denendiğini ve
+   sonucunu yazar. Alan makale sayfasında okura gösterilir.
+
+**Gerekçe.** Telif altındaki bir metne ulaşılamaması meşru bir sınırdır;
+sessiz kalması değildir. Beyan olmadan okur, ansiklopedi özetinden
+kurulmuş bir metni birincil kaynaklı sanır — atlasın kaçınmaya
+çalıştığı hata sınıfının tam örneği.
+
+**Uygulama.** KAPI 13, birincil kaynağı olmayan `dusunur` ve `kaynak`
+dosyalarında `kaynak_siniri` alanını zorunlu kılar. Kural konulduğu
+andaki 19 ihlal `denetim/kaynak-siniri-taban.json` borç defterine
+yazıldı (KAPI 11 ve 18 ile aynı desen): defterdeki dosya borçtur ve
+özette görünür, defterde OLMAYAN yeni bir ihlal HATA verir. Defter
+yalnızca beyan yazılarak kısalır. Arendt ve Carr beyanları yazılarak
+defterden çıkarıldı; kalan borç 18 dosya.

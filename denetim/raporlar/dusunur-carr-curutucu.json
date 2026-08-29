@@ -1,13 +1,42 @@
 {
   "id": "dusunur-carr",
   "gecis": 3,
-  "zaman": "2026-08-21T09:19:09.247Z",
+  "zaman": "2026-08-29T16:52:51.949Z",
+  "govde_hash": "d48eb99a1920",
   "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Savın en yalın hâli kitabın kendi tanıtımındadır: tarihin olguları, tarihçilerin incelemek üzere seçtiklerinden ibarettir; \"Rubicon'u milyonlarca insan geçmiştir, tarihçiler bize y",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Buradaki hamle, geçmişte olup bitenlerin gerçekliğini tartışmaya açmak değildir. Rubicon'u geçenlerin hepsi gerçekten geçmiştir. Tartışmalı olan, o geçişlerden yalnızca birinin ned",
+      "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Bir tarih yöntemi kitabının bir ansiklopedi maddesinde kendi bölümünü taşıması, [^k1] tarih yazımının kendisinin de bir kayıt konusu olduğunu gösterir; en eski örneği [Herodotos](/",
-      "sorun": "\"en eski\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "cumle": "Fikirler boşlukta doğmaz; bu dizinin muhatapları da bellidir. İkinci baskının birinci bölümü için yayıncının bildirdiği kaynak listesinde ilk sırada Acton'ın 1906 tarihli *Lectures",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Nesnellik sorusunun kendisi de tek parça değildir. Çağdaş felsefe onu üçe ayırır: toplumsal eylemin değer yüklü olması, tarihçinin kendi yorumlarının değer yüklü olması ve tarihsel",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sonraki kuşak, Carr ile Elton'ın karşıtlığını bir aşama olarak gördü. Keith Jenkins'in tartışmayı toparlayan kitabının alt başlığı yolu tek satırda çizer: Carr ve Elton'dan Rorty v",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     }
   ]

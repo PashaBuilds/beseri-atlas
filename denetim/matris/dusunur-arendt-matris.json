@@ -1,0 +1,813 @@
+{
+  "id": "dusunur-arendt",
+  "govde_hash": "9e3a0f828cff",
+  "commit": "ed6ddb4",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Hannah Arendt'in bütün işi bu yetmezliğin üzerine kuruludur: Nazi Almanyası ile Stalin dönemi Sovyetler Birliği'ni despotizmin, tiranlığın ya da diktatörlüğün büyütülmüş hâli saymayı reddetti ve totalitarizmi, bilinen siyasal baskı biçimlerinden esasen farklı, bütün siyasal ve hukuki gelenekten kopan yeni bir olgu olarak tanımladı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Görülmemiş olanı önceki örneklerden türetmek ya da tarihsel zorunluluğun bir şemasına yerleştirmek yerine, olguyu kendi terimleriyle anlamaya çalıştı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Kararın bedeli ağırdı: eğer gelenek koptuysa, elimizdeki ahlaki ve siyasi kategorilerin çoğu anlamsızlaşmış demekti ve zamanın yüküne geleneğin yardımı olmadan bakmak gerekiyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Arendt'in sonraki bütün yapıtları bu boşluğu doldurma denemeleridir; ilgisi tekil insanda değil, çoğul hâlde insanlarda ve ortak yaşamlarının koşullarındaydı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak Arendt'in yeni bir kavram cercevesi sundugunu ve ilgisinin cogul halde insanlarda oldugunu yazar; 'sonraki butun yapitlari bu boslugu doldurma denemeleridir' toplamı yazarindir."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Doktora tezinden başlayarak bütün yazısını kat eden soru tekti: insanlar ortak bir dünyada nasıl birlikte yaşayabilir?",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "KOR HAKEM DUZELTMESI: SEP 'has pervaded Arendt's writings since her dissertation' der; 'olumune kadar' kaydi kaynakta yok, cikarildi."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "*Totalitarizmin Kaynakları* 1951'de yayımlandı ve tek ciltte üç kitap taşıyordu: antisemitizm, emperyalizm, totalitarizm.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Arendt'in amacı nedensel bir açıklama vermek değildi; totalitarizme kristalleşen ögelerin tarihsel soruşturmasını yapmaktı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Olguyu mümkün kılan koşullar arasında çökmüş siyasal yapılar ile toplumsal ve iktisadi altüst oluş, devrim ve savaşla dünyada yönünü ve gerçeklik duygusunu yitirmiş köksüz kitleler vardı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Hareketin önderleri ayaktakımından geliyordu; kalabalık destekçi kütlesi ise bu köksüz ve yalnız kitlelerden propagandayla devşirildi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Arendt'e göre totalitarizmin ideal öznesi ikna olmuş Nazi ya da ikna olmuş komünist değil, olgu ile kurmaca arasındaki ayrımın çoktan silindiği insandır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Yekpare ve düzenli bir sistem değil, kasten kaotik, akışkan ve biçimsiz bir yapı; birbiriyle yarışan kurumlar ve oynak bir hiyerarşi — yani öngörülebilirliği, güveni ve hesap verebilirliği imkânsız kılan bir düzenek.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Bu labirentin üstünde gizli polisin aşırı yetkin servisleri duruyordu; rejimin asıl sırrı ise toplama ve imha kamplarıydı ve kamplardaki toplam terör Arendt'e göre totaliter yönetimin özüydü.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP niteleyicisi geri konuldu: kaynak 'the total terror in the camps is the essence of totalitarian government' der; ilk yazim 'kamplardaki' ve 'yonetim' kayitlarini dusurmustu."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Eski tiranlıklar terörü iktidarı ele geçirmek ya da sürdürmek için bir araç olarak kullanırken, modern totalitarizmde terör artık bir amaca hizmet etmiyor, kendisi amaç hâline geliyordu; gerekliliği tarihin ya da doğanın varsayılan yasalarına dayandırılıyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Kitlelerin bu ideolojilere açık hâle gelmesini ise Arendt düzenli ve istikrarlı bağlamların yıkımına bağlar: Birinci Dünya Savaşı, Büyük Buhran ve devrimci kargaşa, sorumluyu adlandıran ve geleceği güvenceye alan tek ve açık bir fikre insanları savunmasız bıraktı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Etkin yaşamı üç etkinliğe ayırır: yaşamın koşuluna bağlı emek, dünyasallığın koşuluna bağlı iş, çoğulluğun koşuluna bağlı eylem.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Üçü de ayrı ilkelerle işler ve ayrı ölçütlerle yargılanır; emek yaşamı sürdürebilme kabiliyetiyle, iş insan kullanımına uygun kalıcı bir dünya kurabilmesiyle, eylem ise failin kimliğini açığa çıkarabilmesiyle ölçülür.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Yalnızca eylemde ve konuşmada insanlar *ne* olduklarını değil *kim* olduklarını açığa vururlar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Arendt'in özgürlük anlayışı da bu yüzden seçenekler arasından seçme kabiliyeti değildir: doğumla birlikte dünyaya gelen başlama kapasitesi, yani doğumsallıktır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Arendt'te iktidar, kuvvetten, zordan ve şiddetten ayrı durur: bireyin bir mülkü değil, ortak bir siyasal amaç için bir araya gelen çoğulluğun ürünüdür ve zorlamaya değil rızaya ve ikna edici tartışmaya dayanır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Meşruiyetini sonradan gelen hiçbir edimden değil, insanların ilk bir araya gelişinden alır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Bu iktidar biriktirilemez, depo edilemez; ancak insanlar eylemek için toplandığında edimselleşen bir potansiyeldir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "da ikili bir yapıdır: yurttaşlar konuşma ve ikna yoluyla birlikte eylediğinde doğan görünme alanı ile bizi doğadan ayıran, insan yapımı kurum ve nesnelerden oluşan görece kalıcı ortak dünya.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Arendt bu alanın yapaylığını bir kusur değil bir başarı sayardı ve sonucunu da kabul ederdi: siyasal eşitlik doğal haklar kuramına dayanmaz, kamusal alana girerken edinilen bir [yurttaşlık](/kavram/vatandaslik/) sıfatıdır ve ancak demokratik kurumlarla güvenceye alınabilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Aynı nedenle etnik, dinsel ya da ırksal kimliği siyasal topluluğa üyeliğin temeli yapan her yaklaşımı reddetti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "1961'de *The New Yorker* için Adolf Eichmann'ın Kudüs'teki duruşmasını izlemeye gitti; iki yıl sonra çıkan kitap Yahudi çevrelerinde derin bir tartışma yarattı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "KOR HAKEM DUZELTMESI: 'omrunun en tartismali metni' ustunluk iddiasi kaynakta yok; SEP 'caused a deep controversy in Jewish circles' der, cumle ona indirildi."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Duruşmanın konusu olan görevin ölçüsü şudur: Eichmann, Reich Güvenlik Ana Dairesi'nin IV B 4 şubesinin başında Avrupa'nın her yanından bir buçuk milyondan fazla Yahudi'nin işgal altındaki Polonya'daki ve işgal altındaki Sovyet topraklarının bir bölümündeki imha merkezlerine ve katliam sahalarına sürülmesinde merkezî rol oynadı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "USHMM 'over 1.5 million Jews from all over Europe to killing centers and killing sites in occupied Poland and in parts of the occupied Soviet Union' der. KOR HAKEM DUZELTMESI: ilk yazim varis listesini yalniz 'imha merkezleri'ne kirpmisti; katliam sahalari ve cografya geri konuldu."
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Macaristan, sürgün sürecine bizzat sahada karıştığı tek yerdi: Almanya'nın Macaristan'ı işgalinden altı hafta sonra, Nisan 1944'ün sonundan Temmuz başına kadar kendisi ve yardımcıları yaklaşık 440.000 Macar Yahudi'sini sürdü.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "KOR HAKEM DUZELTMESI (agir): kaynakta 'six weeks' surgunun suresi degil, Almanya'nin Macaristan'i isgalinden gecen suredir ('From late April 1944, six weeks after Germany occupied Hungary, until early July'). Ilk yazim bunu 'Nisan sonundan Temmuz basina kadar gecen alti hafta' diye okumustu; bu hem kaynagi yanlis ayristirir hem aritmetik olarak yanlistir (yaklasik on hafta). Ayrica kaynagin 'Only in Hungary did Eichmann involve himself directly on the ground' ifadesi geri konuldu."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Viyana'daki Yahudi Göçü Merkez Bürosu'nun Ağustos 1938 ile Haziran 1939 arasında 110.000 Avusturyalı Yahudi'nin göçünü kolaylaştırdığı bilgisi ise kurumun kendi iç tahminlerine dayanır ve kaynak hem sayıyı hem kolaylaştırma sözcüğünü bu çekinceyle verir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin iki cekincesi de tasindi: sayi kurumun kendi ic tahminidir ('internal estimates') ve kaynak kolaylastirma sozcugunu tirnak icinde verir ('facilitated')."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "1960'ta İsrail Güvenlik Servisi ajanları Eichmann'ı Arjantin'de kaçırdı; Aralık 1961'de Yahudi halkına karşı suçlardan suçlu bulundu ve 31 Mayıs'ı 1 Haziran 1962'ye bağlayan gece asıldı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Duruşmanın basında yer alışının — en ünlü örneği Arendt'in kitabıdır — Holokost'a dair kamusal ilgiyi uyandırdığı tarihçilerin geniş ölçüde kabul ettiği bir yargıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin ifadesi 'historians roundly credit'; metin bunu tarihcilerin genis olcude kabul ettigi bir yargi olarak verir, kendi adina bir olgu olarak degil."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Arendt'in savı şuydu: Eichmann'ın edimlerinin kaynağı Yahudilere karşı fanatik bir nefret değil, Hitler'e bağlılığı ve düşüncesizliğiydi; düşüncesizlikle kastettiği, herhangi bir şeye ötekinin bakış açısından bakma yetisinin yokluğuydu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Kavramın kapsamı Arendt'in kendi kullanımında sınırlıdır: ifade kötülüğün doğasına ilişkin genel bir kuram olarak değil, Eichmann'ın kişiliğine ilişkin öznel olarak apaçık bir olgu olarak öne sürülmüştür ve edimlerin değil edenin niteliğini tarif eder.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Deneyimin ardından Arendt'in kötülük anlayışı da değişti; 1964'te Gershom Scholem'e yazdığı ve bu maddenin dayandığı ansiklopedi maddesinin aktardığı mektupta kötülüğün asla köklü olmadığını, \"yalnızca aşırı olduğunu ve ne derinliği ne şeytani bir boyutu bulunduğunu\" söyledi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alinti Arendt'in 1964 Scholem mektubundan; mektubun kendisi gorulmedi. KOR HAKEM DUZELTMESI: aktarim halkasi artik govdede aciktir (ansiklopedi maddesinin aktardigi mektup)."
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Dávid Kaposi'nin retorik çözümlemesine göre iki taraf Yahudi sorumluluğu konusunda birbiriyle bağdaşmaz siyasal-ahlaki çerçeveler öne sürdü, birbirlerine uç kimlikler biçtiler ve mektuplaşma söylemin bütünüyle çöküşüyle sonuçlandı; Kaposi bu sonucu paradoksal biçimde ikisi arasındaki derin bir mutabakata, Yahudiliğin kaçınılmazlığına bağlar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozet duzeyinde destek: yazarin kendi ozeti sonucu tasir, mektuplarin metni okunmadi."
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Kaynağın bu hat için adıyla gösterdiği künyeler Cesarani 2006, Lipstadt 2011 ve Stangneth 2014'tür; bu eleştirmenler Arendt'i, gerçekte fanatik biçimde antisemit olan Eichmann'ı sıradan bir bürokratla karıştırmakla suçladı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP adlari 'Ceserani 2006, Lipstadt 2011, Stangneth 2014' diye verir (Ceserani SEP'in dizgi hatasi; metinde yaygin yazimiyla Cesarani). KOR HAKEM DUZELTMESI: kaynagin verdigi kunye listesi govdede birebir gosterildi."
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Sonuncusu, Bettina Stangneth'in *Eichmann Before Jerusalem: The Unexamined Life of a Mass Murderer* başlıklı arşiv çalışmasıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "KOR HAKEM DUZELTMESI: 'bu hattin en cok anilan halkasidir' ustunlugu SEP'te yok; kaldirildi, yerine kaynagin verdigi kunye birakildi."
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Browning kitaba 2015'te *Genocide Studies International*'da dört sayfalık bir inceleme ayırdı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kayit yalnizca bibliyografik ustveridir: yazar, dergi, yil ve 271-274 sayfa araligi dogrulanir; incelemenin savi bu kayittan okunamaz, metin de bir sav atfetmez."
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Kaynağın tam bu iddia için gösterdiği okumalar Bernstein, Hansen, Parekh, Pitkin ve Wolin'e aittir; bunlara göre Arendt, hane analojisine yaslandığı için modern kapitalist ekonomiyi maliyet ve ödüllerin son derece asimetrik dağıldığı bir iktidar yapısı olarak göremez; iktisada ilişkin bütün soruları siyaset öncesi ilan ederek iktisadi iktidar ve sömürü sorusunu dışarıda bırakır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "KOR HAKEM DUZELTMESI: SEP bu iddiaya tam olarak su kunyeleri gosterir — Bernstein 1986, Hansen 1993, Parekh 1981, Pitkin 1998/1994, Wolin 1994. Ilk yazim Benhabib'i listeye eklemis (Benhabib SEP'te bir onceki, gecimlik model iddiasinda anilir) ve Hansen'i dusurmustu; liste kaynaga gore duzeltildi. Adlar SEP'in verdigi kadariyla, soyadi duzeyinde birakildi."
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Maddenin kendi adına eklediği üçüncü itiraz ise şudur: özel ile kamusal arasındaki katı ayrım, modernliğin en önemli kazanımlarından birini — adaletin ve eşit hakların genişlemesini, sınırların yeniden çizilmesini — açıklayamaz hâle getirir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "KOR HAKEM DUZELTMESI: SEP bu ucuncu itirazi hicbir kunyeye baglamaz — madde kendi adina soyler. Ilk yazim 'ayni elestirmenlere gore' diyerek bes ada atfediyordu; atif kaldirildi."
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "1972'de bir konferansta Frankfurt Okulu'ndan Albrecht Wellmer'in sorusu üzerine Arendt, konut ve evsizliğin siyasal meseleler olmadığını, özgürlüğün edimselleştiği alanın dışında kaldığını söyledi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Feministler, siyaseti hanenin dışına hapsetmenin siyasetin erkekler tarafından tekelleştirilmesiyle iç içe olduğunu; Marksistler ise maddi bölüşümü siyaset dışına atmanın yoksulluk ve sömürü sorularını tartışma dışına ittiğini söylediler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Jacques Rancière'in *haklara sahip olma hakkı* kavramına yönelttiği sert eleştiriye karşı Benhabib, Rancière'in Arendt'i yanlış okuduğunu ve hakların edimselleştirilmesi diye savunduğu şeyin büyük ölçüde Arendtçi bir siyasal faillik anlayışıyla bağdaştığını öne sürer.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozet duzeyinde destek; bolumun govdesi okunmadi."
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "1959'da yayımlanan *Reflections on Little Rock*, Arendt'in Siyah yurttaşlık hakları hareketine dair tartışmalı değerlendirmesidir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Yazının kendi ön açıklaması, metnin nasıl doğduğunu Arendt'in ağzından verir: yazı *Commentary* editörlerinden birinin önerisiyle bir yıldan uzun süre önce yazılmış, görüşlerinin derginin tutumuyla çelişmesi yüzünden yayımı aylarca gecikmiş, sonunda *Dissent*'te çıkmıştı; Arendt yayımlamayı, bir yıllık güncel bir yazının konuyu tüketebileceğini düşündüğü için değil, tartışmanın her iki taraftaki kalıplaşmış rutinini kırmaya yardım edebileceği umuduyla kabul ettiğini yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydinin abstract alani Arendt'in yaziya ekledigi on aciklamayi tasir; makalenin govdesi okunmadi."
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Arendt, 49 eyaletin 29'undaki evlilik yasalarının okullardaki ayrımdan çok daha ağır bir anayasa ihlali olduğunu ileri sürmüştü; Sidney Hook, *New Leader*'da 13 Nisan tarihli yanıtında Siyahların bu yasalarla derinden ilgisiz olduğunu, önceliklerinde en sonda geldiğini yazdı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Arendt bu karşı çıkıştan özellikle eğitimli kesim açısından kuşku duyduğunu söyler, ama Siyah kamuoyunun ve NAACP'nin siyasetinin neredeyse yalnızca istihdam, konut ve eğitimdeki ayrımcılıkla ilgilendiğinin tümüyle doğru olduğunu da kabul eder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Arendt'in tereddudu ('I have my doubts about this') ve ardindan gelen kabulu birlikte tasindi; kaynak ikisini ayni cumlede verir."
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "Burroughs, Arendt'in vardığı sonuçları açıklamak için öne sürülen üç yorumu adlandırır: kategori yorumu — kamusal, özel ve toplumsal ayrımının olaylara katı biçimde uygulanması; ırksal önyargı yorumu; ve Amerika'da ırkın toplumsal-siyasal ağırlığını kavrayamamaya dayanan kültür yorumu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozet duzeyinde: uc yorum hattinin adlari yazarin kendi ozetinde gecer."
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "Burroughs üçünün de anlayışımızı ilerlettiğini kabul eder ama yeterince ileri gitmediğini söyler; ona göre Arendt'in yapıtındaki temel bilgisel hata beyaz cehalettir ve bu kavram üç yorumu değiştirmez, güçlendirir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozet duzeyinde. KOR HAKEM DUZELTMESI: yazarin kendi cekincesi geri konuldu — 'Each of these interpretations advances our understanding... but they do not go far enough' ve beyaz cehalet kavraminin mevcut aciklamalari degistirmedigi, guclendirdigi ('strengthens current explanations')."
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Board of Education* kararından üç yıl sonra, on beş yaşındaki Elizabeth Eckford'un o güne dek beyaz öğrencilere ayrılmış bir okula girmeye çalışırken beyaz bir kalabalığın tükürüğü ve ırkçı hakaretleriyle karşılaştığı kareler; Arendt, Ralph Ellison ve Danielle Allen aynı fotoğrafları çok farklı okumuşlardır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "KOR HAKEM DUZELTMESI: kaynagin 'a school previously reserved for white students' ve 'spitting on her and shouting racist insults' ayrintilari ile fotograflarin cogulu geri konuldu."
+    },
+    {
+      "iddia_id": "i050",
+      "cumle": "Kitabın Nazi suçlarını önemsizleştirdiği ya da Eichmann'ı savunduğu okuması ise ağır bir yanlış yorumdur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i051",
+      "cumle": "Arendt, Eichmann'ın sadece emirleri yerine getirdiğini — sanığın kendi savunmasını — hiçbir zaman yazmadı; ona göre Eichmann makinenin bir dişlisi değil, Yahudileri ölüme taşımakta gayretli davranan ve nihai çözümü tamamlamak için emirlere karşı bile gelen bir kişiydi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i052",
+      "cumle": "Arendt onu edimlerinden tümüyle sorumlu saydı ve idam kararını destekledi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i053",
+      "cumle": "Buna rağmen aynı kalıp başvuru eserlerinde bile sürer: bir felsefe ansiklopedisi Eichmann'ı düşünmeksizin, emirleri izleyerek ve verimli biçimde uygulayarak çalışan biri olarak tarif eder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "IEP maddesi Eichmann'i 'operated unthinkingly, following orders, efficiently carrying them out' diye tarif eder; bu bolum birebir dogrulandi. KOR HAKEM DUZELTMESI: cumlenin 'ayni kalip basvuru eserlerinde bile surer' yargisi yazarin sentezidir, kaynak kendini yanlis okuma ornegi ilan etmez; destek dogrudan'dan kismi'ye indirildi."
+    },
+    {
+      "iddia_id": "i054",
+      "cumle": "Kitabın altbaşlığındaki ifade metnin gövdesinde yalnızca bir kez daha geçer; buna karşılık yayımlanır yayımlanmaz kopan sert tartışmayı önemli ölçüde besledi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP 'it contributed significantly to the fierce controversy' der. KOR HAKEM DUZELTMESI: 'tartismanin merkezine yerlesti' kaynaktan guclu oldugu icin indirildi."
+    },
+    {
+      "iddia_id": "i055",
+      "cumle": "Arendt'in savı tek bir failin düşünme yetisinin yokluğuna dairdir ve Arendt bunu kötülüğün doğasına ilişkin genel bir kuram olmadığı kaydıyla öne sürdü.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i056",
+      "cumle": "Biri, vatandaşlığın ve haklara sahip olma hakkının uluslararası hukukla kurtuluşçu siyaset arasındaki gerilimde yeniden düşünülmesi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Bolum ozeti haklara sahip olma hakki ile uluslararasi hukuk arasindaki iliskinin yeniden kavramsallastirilmasi cagrisini tasir; 'bugun anilma' cercevesi yazarindir."
+    },
+    {
+      "iddia_id": "i057",
+      "cumle": "Öteki, yargılama yetisi: geleneğin ölçütleri dağıldığında, önceden verilmiş kurallar olmadan yargılamayı mümkün kılan bağımsız bir insan yetisinin bulunup bulunmadığı sorusu, Arendt'in ölümünde yarım kalan çalışmanın da sorusuydu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 53,
+    "kismi": 4,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}
