@@ -1,238 +1,565 @@
 {
   "id": "aktor-kus-kralligi",
   "govde_hash": "ae0513ef0721",
-  "commit": "c9a3451",
-  "zaman": "2026-08-28",
+  "commit": "c7bbcdb",
+  "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-28",
   "iddialar": [
     {
+      "iddia_id": "i26",
+      "cumle": "Kuş Krallığı, Nil'in Mısır'ın güneyinde kalan vadisinde, bugünkü Sudan topraklarında kurulmuş bir devletti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "EKLENDI (gövdede dipnotlu, matriste kaydı yoktu): açılış tanım cümlesi. k1: \"an ancient kingdom in Nubia, centered along the Nile Valley in what is now northern Sudan and southern Egypt\" ve makale başlığı notu \"the kingdom south of Egypt\". Gövdenin \"bugünkü Sudan toprakları\" ifadesi kaynağın \"northern Sudan and southern Egypt\" ikilisini Sudan'a indirger; bu bir sadeleştirmedir, çelişki değil — iddianın kendisi (Mısır'ın güneyindeki Nil vadisinde, bugünkü Sudan'da kurulmuş devlet) kaynakta birebir durur."
+    },
+    {
       "iddia_id": "i01",
-      "cumle": "Krallığın tarihi üç evre olarak okunur: Kerma (MÖ 2500-1500), Napata merkezli orta evre ve MS 350 civarına kadar süren Meroe evresi.",
+      "cumle": "Tarihi tek bir çizgi hâlinde değil üç evre olarak okunur: Kerma kentinin çevresinde MÖ 2500-1500 arasında serpilen ilk devlet, Napata merkezli krallığın Mısır tahtını da ele geçirdiği orta evre ve MS 350 civarına kadar süren Meroe evresi.",
       "onem": "merkezi",
       "tur": "tarih",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
       "guven": "yuksek",
-      "inceleme": "Wikipedia bolum basliklari: Kerma culture 2500-1500 BC; Meroitic period ... 4th century AD; kutu: c. 780 BC - c. 350 AD."
+      "inceleme": "CUMLE GUNCELLENDI (iddia gövdede başka sözcüklerle duruyordu; eski `cumle` alanı bir taslaktan kalmıştı). k1 bölüm başlıkları: \"Kerma culture (2500–1500 BC)\", \"Meroitic period (c. 270 BC – 4th century AD)\"; kutu: \"c. 780 BC – c. 350 AD\". TARIH AYRISMASI: aynı kaynağın girişi Kerma'nın egemenliğini \"between 2450 and 1450 BC\" diye verir; gövdedeki 2500-1500 kaynağın bölüm başlığı kronolojisidir, giriş paragrafının kronolojisi değil. Meroe evresinin sonu için de kaynak iki değer taşır (bölüm başlığı \"4th century AD\", kutu \"c. 350 AD\"); gövde kutu değerini \"civarına\" hedgeiyle alır. Destek dogrudan, ama okuyucu tek bir mutlak kronoloji sanmamalı."
     },
     {
       "iddia_id": "i02",
-      "cumle": "Kuşlu hanedan MÖ 754-656 arasında Mısır'ı 25. hanedan olarak yönetti.",
+      "cumle": "İlki siyasidir: Kuşlu hanedan MÖ 754-656 arasında Mısır'ı 25. hanedan olarak yönetti ve bölgedeki olağan güç yönünü bir yüzyıl boyunca tersine çevirdi.",
       "onem": "merkezi",
       "tur": "tarih",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
       "guven": "yuksek",
-      "inceleme": "Kaynakta 'Rule over Egypt 754-656 BC' bolumu ve 'ruled Egypt for over a century' ifadesi."
+      "inceleme": "CUMLE GUNCELLENDI (gövdedeki giriş cümlesine oturtuldu). k1: \"Rule over Egypt (754–656 BC)\" bölüm başlığı ve \"The monarchs of Kush ruled Egypt for over a century\". \"Bölgedeki olağan güç yönünü tersine çevirdi\" kaynağın olgusundan (Kuşluların Mısır'ı yönetmesi) çıkan makale yorumudur; olgu çekirdeği kaynakta birebir olduğu için dogrudan."
     },
     {
       "iddia_id": "i03",
-      "cumle": "Meroitik yazının işaretleri okunabiliyor ama arkasındaki dil anlaşılamıyor; metinler seslendirilebilen fakat çevrilemeyen bir külliyat oluşturur.",
+      "cumle": "İkincisi kanıtla ilgilidir: krallık kendi yazısını geliştirdi, bu yazının işaretleri bugün okunabiliyor, ama arkasındaki dil hâlâ anlaşılamıyor; ortada seslendirilebilen fakat çevrilemeyen bir metin külliyatı duruyor.",
       "onem": "merkezi",
       "tur": "olgu",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
       "guven": "yuksek",
-      "inceleme": "'The script was deciphered by Griffith but the language behind it is still a problem, with only a few words understood.'"
+      "inceleme": "CUMLE GUNCELLENDI (gövdedeki giriş cümlesine oturtuldu). k1: \"The script was deciphered by Griffith, but the language behind it is still a problem, with only a few words understood by modern scholars.\""
     },
     {
       "iddia_id": "i04",
-      "cumle": "Kerma kültürü MÖ 2500-1500 arasında var oldu, dönemin Nil vadisi devletlerinden biriydi ve etkisini Mısır sınırına kadar genişletti.",
+      "cumle": "Kerma kültürü MÖ 2500'den 1500'e kadar varlığını sürdürdü; dönemin Nil vadisinde yan yana yaşayan birkaç devletinden biriydi ve yukarı Nubya'da doğup etkisini kuzeye, Mısır sınırına kadar genişletti.",
       "onem": "merkezi",
       "tur": "olgu",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
       "guven": "yuksek",
-      "inceleme": "'flourished from around 2500 BC to 1500 BC'; 'one of several Nile valley states'; 'extended its reach northward ... border of Egypt'."
+      "inceleme": "CUMLE GUNCELLENDI. k1: \"The Kerma culture ... flourished from around 2500 BC to 1500 BC\"; \"The polity seems to have been one of several Nile valley states\"; \"based in the southern part of Nubia, or 'Upper Nubia' ... and later extended its reach northward into Lower Nubia and the border of Egypt\". TARIH AYRISMASI: kaynağın kendi girişi Kerma için \"between 2450 and 1450 BC\" der; gövdenin 2500-1500'ü kaynağın Kerma bölümünün (\"from around 2500 BC to 1500 BC\") sayısıdır ve kaynakta \"around\" hedgei taşır, gövdede taşımaz."
     },
     {
       "iddia_id": "i05",
-      "cumle": "Reisner'in Kerma kazısının raporu 1923'te Harvard African Studies V olarak yayımlandı; ana gömüde Assiut beyi Hepzefa ile eşi Sennuwy'nin heykelleri bulundu.",
+      "cumle": "Kentin höyüğünü ilk sistemli biçimde kazan kişi George Reisner oldu; kazının raporu 1923'te Harvard African Studies dizisinin beşinci cildi olarak yayımlandı ve alanın 1913'teki hâlini ayrıntısıyla betimler.",
       "onem": "destek",
       "tur": "olgu",
-      "kaynaklar": [{ "anahtar": "k4", "destek": "dogrudan" }],
-      "guven": "yuksek",
-      "inceleme": "Rapor kapak sayfasi 1923, Harvard African Studies Volume V; metinde 'Hepzefa prince of Assiut' ve 'the lady Sennuwy wife of Hepzefa'."
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "CUMLE GUNCELLENDI ve DESTEK DUSURULDU. Eski `cumle` alanı hem 1923 künyesini hem Hepzefa/Sennuwy heykellerini tek iddiada topluyordu; gövdede bunlar iki ayrı cümle ve heykel cümlesi i06'dır. Bu cümlenin üç bileşeni ayrı ayrı sınandı: (a) 1923 / Harvard African Studies V — kapak sayfasında birebir (\"HARVARD AFRICAN STUDIES VOLUME V ... EXCAVATIONS AT KERMA PARTS I-III BY GEORGE A. REISNER ... 1923\"), dogrudan; (b) \"alanın 1913'teki hâlini betimler\" — raporun II. bölümü \"In January, 1913, I applied to the Sudan Government...\" diye başlar ve seferler 1913-1916 boyunca sürer, yani 1913 kampanyanın başlangıç yılıdır, raporun betimlediği tek yıl değil; (c) \"ilk sistemli biçimde kazan kişi\" iddiası raporda hiçbir yerde ileri sürülmez. İki bileşen kaynağın KONUSUNU taşıyıp İDDİASINI taşımadığı için kismi."
     },
     {
       "iddia_id": "i06",
-      "cumle": "Reisner yerleşimi Mısırlı yöneticilerin oturduğu, ticaret karakolundan büyümüş bir sınır istasyonu olarak yorumladı.",
+      "cumle": "Ana gömüde Assiut beyi Hepzefa ile eşi Sennuwy'nin heykellerini bulan Reisner, yerleşimi Mısırlı yöneticilerin oturduğu, ticaret karakolundan büyümüş bir sınır istasyonu olarak yorumladı.",
       "onem": "destek",
       "tur": "aktarim",
-      "kaynaklar": [{ "anahtar": "k4", "destek": "kismi" }],
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
       "guven": "orta",
       "inceleme": "Raporda 'trading post' ve Misirli yonetici cercevesi gecer; cumledeki ozet, raporun genel yorumunun yogunlastirilmis aktarimi oldugu icin kismi sayildi. Hakem raporun yorum bolumunu dogrulamali."
     },
     {
+      "iddia_id": "i27",
+      "cumle": "Bu yorum sonradan tersine döndü: bugün Kerma, Mısır'ın bir uzantısı değil, dönemin Nil vadisi devletlerinden biri olan yerli bir krallığın merkezi sayılıyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "EKLENDI (gövdede dipnotlu, matriste kaydı yoktu). Cümlenin ikinci yarısı k1'de birebir: \"The polity seems to have been one of several Nile valley states\"; Kerma'nın yerli bir uygarlığın merkezi olduğu da \"The Kerma culture was a civilization centered at Kerma\" ile karşılanır. Ama cümlenin ASIL iddiası tarih-yazımsaldır: \"Bu yorum sonradan tersine döndü\" — yani Reisner'in Mısır karakolu yorumunun terk edildiği. k1 Reisner'i yalnızca A-Group adlandırması bağlamında anar, Kerma yorumunun değişimini hiç anlatmaz. Kaynak bugünkü görüşü taşır, görüşün DEGISTIGI iddiasını taşımaz — kismi."
+    },
+    {
       "iddia_id": "i07",
-      "cumle": "MÖ 1504-1070 arasında Nubya, 'Kuş'un kral oğlu' unvanlı valiler eliyle Mısır eyaleti olarak yönetildi; krallık MÖ 1070-754 arasında yeniden biçimlendi.",
+      "cumle": "orduları bölgeyi ele geçirdi; MÖ 1504-1070 arasında Nubya, \"Kuş'un kral oğlu\" unvanını taşıyan valiler eliyle bir Mısır eyaleti olarak yönetildi.",
       "onem": "destek",
       "tur": "tarih",
       "kaynaklar": [
-        { "anahtar": "k1", "destek": "dogrudan" },
-        { "anahtar": "k4", "destek": "dogrudan" }
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
       ],
       "guven": "yuksek",
-      "inceleme": "Wikipedia: 'Egyptian Nubia 1504-1070 BC', 'Formation c. 1070-754 BC'; Reisner metninde vali unvani 'king's son of Kush'."
+      "inceleme": "CUMLE GUNCELLENDI (gövdede iki cümleye bölünmüş; bu kayıt yalnızca 1504-1070 valilik evresini tutar, 1070-754 yeniden biçimlenme kaydı i28'dir). k1 bölüm başlığı \"Egyptian Nubia (1504–1070 BC)\"; Reisner metninde vali unvanı \"king's son of Kush\". TARIH AYRISMASI: aynı kaynağın giriş paragrafı aynı olayı \"Much of Nubia came under Egyptian rule during the New Kingdom period (1550–1070 BC)\" diye verir. Gövdedeki 1504 bölüm başlığı kronolojisine aittir; kaynağın kendi içinde 1504 ve 1550 yan yana durur."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Mısır çekildikten sonraki yüzyıllar kaynaklarda karanlıktır; krallık bu karanlığın içinden, MÖ 1070 ile 754 arasında yeniden biçimlenerek çıktı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "EKLENDI (gövdede dipnotlu, matriste kaydı yoktu). k1 bölüm başlığı \"Formation (c. 1070–754 BC)\" ve \"Following Egypt's disintegration amid the Late Bronze Age collapse, the Kushites reestablished a kingdom in Napata\". Iki fark: (a) kaynak aralığı \"c.\" (circa) ile verir, gövde çıplak iki sayı yazar — kesinlik kaynakta olmayan bir düzeye çekilmiş; (b) \"Mısır çekildikten sonraki yüzyıllar kaynaklarda karanlıktır\" ifadesi kaynakta yoktur (\"little is known\" ve \"dark age\" dizeleri k1'de geçmiyor; sınandı). Aralık desteklenir, kesinlik ve karanlık nitelemesi desteklenmez — kismi."
     },
     {
       "iddia_id": "i08",
-      "cumle": "Kashta Yukarı Mısır'da savaşsız kral olarak tanındı; ardılı Piye Aşağı Mısır'ı fethederek 25. hanedanı kurdu.",
+      "cumle": "MÖ 8. yüzyılda kral Kashta, Yukarı Mısır'da kral olarak tanınmayı savaşsız elde etti; ardılı Piye Aşağı Mısır'ı fethederek Mısır kral listelerine 25. hanedan diye geçen Kuşlu hanedanı kurdu.",
       "onem": "merkezi",
       "tur": "olgu",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
       "guven": "yuksek",
-      "inceleme": "'Kashta ... peacefully became king of Upper Egypt'; 'his successor Piye invaded Lower Egypt, establishing the Kushite-ruled Twenty-fifth Dynasty'."
+      "inceleme": "CUMLE GUNCELLENDI. k1: \"Kashta ... peacefully became king of Upper Egypt\"; \"His successor Piye invaded Lower Egypt, establishing the Kushite-ruled Twenty-fifth Dynasty.\""
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Hanedanın Mısır üzerindeki hükmü MÖ 754'ten 656'ya kadar, bir yüzyılı aşkın sürdü.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "EKLENDI (gövdede dipnotlu, matriste kaydı yoktu; i02 aynı tarihi girişte veriyordu, bu ise bölüm içindeki ikinci geçiş). k1: \"Rule over Egypt (754–656 BC)\" bölüm başlığı ve \"The monarchs of Kush ruled Egypt for over a century until the Assyrian conquest\" — \"bir yüzyılı aşkın\" ifadesi de kaynakta birebir karşılanır."
     },
     {
       "iddia_id": "i09",
-      "cumle": "Kashta'nın kızı Amenirdis Teb'de Amun'un tanrısal eşi makamına atandı; makam Piye'nin kızı Shepenupet'e geçti.",
+      "cumle": "Hanedan gücünü yalnızca orduya değil dinî makamlara da yasladı: Kashta'nın kızı Amenirdis, Teb'de Amun'un tanrısal eşi makamına atandı ve aynı makam daha sonra Piye'nin kızı Shepenupet'e geçti.",
       "onem": "renk",
       "tur": "olgu",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
       "guven": "yuksek",
-      "inceleme": "'his daughter Amenirdis was appointed as Divine Adoratrice of Amun in Thebes'; 'Piye's daughter Shepenupet II was also appointed'."
+      "inceleme": "CUMLE GUNCELLENDI. k1: \"his daughter, Amenirdis, was appointed as divine adoratrice of Amun in Thebes\"; \"Piye's daughter, Shepenupet II, was also appointed divine adoratrice of Amun.\""
     },
     {
       "iddia_id": "i10",
-      "cumle": "Metropolitan Museum'daki granit şabti, Taharka'nın MÖ 690-664 saltanatına tarihlenir ve kayıt onu Nuri ile Kuşlu 25. hanedana bağlar.",
+      "cumle": "Metropolitan Museum koleksiyonundaki granit bir şabti figürü, Taharka'nın MÖ 690-664 aralığına tarihlenen saltanatına aittir; müze kaydı figürü Nuri'deki kral gömülerine ve Kuşlu 25. hanedana bağlar.",
       "onem": "destek",
       "tur": "olgu",
-      "kaynaklar": [{ "anahtar": "k5", "destek": "dogrudan" }],
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
       "guven": "yuksek",
-      "inceleme": "API kaydi: objectDate 690-664 BCE, subregion Nuri, dynasty 'Dynasty 25 (Kushite)', reign 'reign of Taharqo'."
+      "inceleme": "CUMLE GUNCELLENDI. Met API kaydı: objectDate 690-664 BCE, subregion Nuri, dynasty \"Dynasty 25 (Kushite)\", reign \"reign of Taharqo\". TARIH NOTU: 690-664 müzenin nesne tarihi olarak verdiği aralıktır ve gövde de aralık olarak aktarır; Taharka saltanatı için literatürde 690-664 yaygın olsa da k1'in kendi resim altyazısı Taharka için \"c. 670 BC\" gibi tekil bir demirleme kullanır — gövde müze kaydının aralığını izlediği için tutarlıdır."
     },
     {
       "iddia_id": "i11",
-      "cumle": "Napata evresinde saray Mısır yazısını kullanıyordu; Budge, bu evrenin durumuna ışık tutan başlıca tanıklar olarak Tanutamon, Aspelta ve Nastasen'in Mısırca dikilitaşlarını sayar.",
+      "cumle": "Nitekim Budge, krallığın bu evredeki durumuna ışık tutan başlıca tanıklar olarak Tanutamon, Aspelta ve Nastasen gibi kralların Mısırca dikilitaşlarını sayar.",
       "onem": "destek",
       "tur": "aktarim",
-      "kaynaklar": [{ "anahtar": "k3", "destek": "kismi" }],
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
       "guven": "orta",
       "inceleme": "Budge 1907 (OCR): 'light is thrown upon the state of the country ... from about 700 to 600 b.c by the Stelae of Tanuath- Amen, Aspelta, and Nastasen'. Kor hakem duzeltmesi 2026-08-28: Budge'in 700-600 araligi makale sesinden cikarilip Budge'a atfedildi — ayni kitap Nastasen'i baska yerde MO 525 civarina koyar, modern kronoloji daha da gec tarihler; aralik olgu olarak savunulamaz. Sarayin dil tercihi cumlesi bu tanikliktan cikarim oldugu icin kismi."
     },
     {
       "iddia_id": "i12",
-      "cumle": "Esarhaddon ve Ashurbanipal'in seferleri hanedanı Mısır'dan attı; Tantamani güneye çekildi, Mısır MÖ 656'da Psamtik yönetimine geçti.",
+      "cumle": "kralları Esarhaddon ve Ashurbanipal art arda Mısır'a girdi; son Kuşlu firavun Tantamani güneye çekildi ve Mısır MÖ 656'da Psamtik yönetiminde yeniden kendi hanedanının eline geçti.",
       "onem": "destek",
       "tur": "olgu",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
       "guven": "yuksek",
-      "inceleme": "'dethroned by the Assyrian kings Esarhaddon and Ashurbanipal'; Psamtik I ve 656 kaynakta gecer."
+      "inceleme": "CUMLE GUNCELLENDI. k1: \"being dethroned by the Assyrian kings Esarhaddon and Ashurbanipal in the mid-7th century BC\"; Tantamani'nin güneye çekilmesi ve Psamtik I ile 656 kaynakta geçer."
     },
     {
       "iddia_id": "i13",
-      "cumle": "Başkentin Meroe'ye taşınması için verilen tarih MÖ 591'dir ama kayma tek yıla sığmaz; kral gömüleri MÖ 300 civarında güneye taşındı ve Diodorus'un Ergamenes anlatısı bu kopuşla ilişkilendirilir.",
+      "cumle": "Başkentin Meroe'ye taşınması için verilen tarih MÖ 591'dir; ama kayma tek bir yıla sığmaz: kral gömüleri MÖ 300 civarına kadar Napata bölgesindeki el-Kurru ve Nuri'de kalmayı sürdürdü, sonra onlar da güneye taşındı.",
       "onem": "destek",
       "tur": "tarih",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
       "guven": "orta",
-      "inceleme": "Kutuda 'capital moved to Meroe 591 BC'; govdede 'in about 300 BC the move ... monarchs began to be buried there'; Diodorus/Ergamenes anlatisi ayni bolumde. Kaynagin kendi icinde baskent tasima tarihi icin farkli vurgular var; guven orta."
+      "inceleme": "CUMLE GUNCELLENDI (gövdede iki cümleye bölünmüş; Diodorus/Ergamenes anlatısı artık i30'dur). k1 kutusu: \"Capital moved to Meroe\" / \"591 BC\"; gövde metni: \"In about 300 BC, the move to Meroë was made more complete when the monarchs began to be buried there, instead of at Napata.\" TARIH AYRISMASI (gövdenin kendisi de bunu söylüyor): aynı kaynağın bölüm başlıkları başkent kaymasını 591 değil \"Napatan period (656 BC – c. 270 BC)\" / \"Meroitic period (c. 270 BC – ...)\" sınırına koyar. Yani 591 kaynağın kutu değeri, c. 270 kaynağın dönemlendirme değeridir. Gövde 591'i \"verilen tarih\" diye çerçeveleyip tek yıla sığmadığını söylediği için iddia kaynağın belirsizliğini taşır; guven orta. el-Kurru ve Nuri adları k1'de resim altyazılarında geçer, \"instead of at Napata\" ifadesinin ayrıntısı olarak."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Diodorus'un aktardığı bir anlatıya göre kral Ergamenes, Napata rahiplerinin buyruğuna boyun eğmeyi reddedip onları kılıçtan geçirtmişti; gömülerin taşınması bu kopuşun mimarideki izi olarak yorumlanır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "EKLENDI (gövdede dipnotlu, matriste kaydı yoktu; eski i13 bu anlatıyı kendi içine katmıştı). k1: \"According to Diodorus Siculus, Kushite king Ergamenes defied the priests and had them slaughtered.\" ve \"One theory is that this represents the monarchs breaking away from the power of the priests at Napata.\" Gövde anlatıyı Diodorus'a atfederek aktarır ve gömü taşınmasını \"yorumlanır\" diye hedgeler; kaynağın \"One theory is that\" çerçevesiyle birebir örtüşür."
     },
     {
       "iddia_id": "i14",
-      "cumle": "Butana ovasında cüruf yığınları kaldı; krallık Roma'ya demir ürünleri, altın, fildişi ve köle satıyor, Kızıldeniz yollarına erişimi vardı.",
+      "cumle": "Ormanları ocaklara yakılan Butana ovasında geriye cüruf yığınları kaldı; krallık Roma'ya demir ürünleri, altın, fildişi ve köle satıyor, konumu ona Kızıldeniz ticaret yollarına erişim veriyordu.",
       "onem": "destek",
       "tur": "olgu",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
       "guven": "yuksek",
       "inceleme": "'the Kush traded iron products with the Romans, in addition to gold, ivory and slaves'; 'Butana plain was stripped of its forests leaving behind slag piles'; 'access to trade routes to the Red Sea'."
     },
     {
+      "iddia_id": "i24",
+      "cumle": "Uzun mesafe ticaretinin bu kalemlerde toplanması rastlantı değildir: taşıma maliyeti, ancak birim ağırlığı yüksek değer taşıyan malları uzağa gönderilebilir kılar.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [],
+      "guven": "orta",
+      "inceleme": "CUMLE GUNCELLENDI (iddia gövdede duruyor ama başka sözcüklerle; matristeki özet hâli birebir bulunamıyordu). Dipnotsuz, iktisadi genel ilke olarak yazılmış yorum cümlesi; kaynaklı olgu iddiası taşımaz, bu yüzden kaynaksız ve olculemez kalır."
+    },
+    {
       "iddia_id": "i15",
-      "cumle": "Kandake Amanirenas Roma'nın Mısır'ına karşı savaştı; Napata yağmalandı ama kandake savaşı sürdürdü.",
+      "cumle": "Bunlardan Amanirenas, Roma'nın Mısır'ı ele geçirmesinin hemen ardından Roma ordusuyla savaşa girdi; savaş sırasında Napata yağmalandı, ama yıkım kandakeyi savaş alanından çekilmeye yetmedi.",
       "onem": "destek",
       "tur": "olgu",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
       "guven": "yuksek",
-      "inceleme": "'kandake or candace Amanirenas against Roman Egypt ... Napata sacked ... did not frighten Candace enough to prevent her from again engaging'."
-    },
-    {
-      "iddia_id": "i16",
-      "cumle": "Kuzey Nubya şeridi MÖ 3. yüzyıldan MS 3. yüzyıla kadar önce Ptolemaios krallığının, sonra Roma'nın elindeydi.",
-      "onem": "renk",
-      "tur": "tarih",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
-      "guven": "yuksek",
-      "inceleme": "'occupied from the 3rd century BC to the 3rd century AD first by the Ptolemaic kingdom and then by the Roman empire ... 600-year period'."
-    },
-    {
-      "iddia_id": "i17",
-      "cumle": "Meroitik yazı 23 işaretli alfabetik bir sistemdi; hiyeroglif ve el yazısı biçimleri vardı, 1.278 dolayında metin ulaştı, işaretleri Griffith çözdü, dil bağlantılandırılamadı.",
-      "onem": "merkezi",
-      "tur": "sayi",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
-      "guven": "yuksek",
-      "inceleme": "'alphabetic script with 23 signs'; 'some 1,278 texts'; 'deciphered by Griffith'; 'not as yet possible to connect the Meroitic language with other known languages'."
-    },
-    {
-      "iddia_id": "i18",
-      "cumle": "Herodot Elephantine'e kadar gördüğünü, ötesini duyumla aktardığını söyler; Meroe'yi kırk günlük kara ve on iki günlük nehir yolculuğunun ardındaki 'bütün Etiyopya'nın anakenti' diye aktarır.",
-      "onem": "destek",
-      "tur": "aktarim",
-      "kaynaklar": [{ "anahtar": "k6", "destek": "dogrudan" }],
-      "guven": "yuksek",
-      "inceleme": "Hdt. II.29 (Godley): 'going as far as the city of Elephantine to look myself, and beyond that by question and hearsay'; 'forty days ... twelve days ... a great city called Meroe, said to be the capital of all Ethiopia'."
-    },
-    {
-      "iddia_id": "i19",
-      "cumle": "MS 4. yüzyılda Noba ve Blemmi baskısı altındaki krallığın merkezi Aksumlularca ele geçirilip yağmalandı; Ezana Etiyopya kralı unvanını aldı; krallık Nobatia, Makuria ve Alodia'ya dağıldı (MS 330 sefer, MS 350 civarı son).",
-      "onem": "merkezi",
-      "tur": "olgu",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
-      "guven": "yuksek",
-      "inceleme": "'the Aksumites took the opportunity to capture Meroe and loot its gold. Negus Ezana then took on the title of King of Ethiopia'; 'dissolution ... into the three polities of Nobatia, Makuria and Alodia'; kutu: 'Axumite capture of Meroe 330', 'c. 350 AD'."
-    },
-    {
-      "iddia_id": "i20",
-      "cumle": "Budge 1907'de yayımladığı kitapta 1905 baharında Hartum müzesi için Sudan'a gönderildiğini anlatır; Meroe piramitlerinde zengin buluntu beklentisi boşa çıktı, cesetler yakılmıştı.",
-      "onem": "destek",
-      "tur": "aktarim",
-      "kaynaklar": [{ "anahtar": "k3", "destek": "dogrudan" }],
-      "guven": "yuksek",
-      "inceleme": "Kapakta 1907; onsozde 'in the spring of 1905 I was sent to the Sudan ... museum at Khartum'; 'the expectation that the pyramids of Meroe would yield a rich harvest ... was not fulfilled'; 'bodies ... were burned'."
-    },
-    {
-      "iddia_id": "i21",
-      "cumle": "1911 Britannica Meroe maddesi, 1905'te kabartmaların British Museum ile Hartum'a taşındığını, 1910'da Sayce'in raporu üzerine Garstang'ın Liverpool adına kazıya başladığını ve saray ile tapınakların bulunduğunu aktarır.",
-      "onem": "destek",
-      "tur": "aktarim",
-      "kaynaklar": [{ "anahtar": "k2", "destek": "dogrudan" }],
-      "guven": "yuksek",
-      "inceleme": "Madde metni: 'taken down stone by stone in 1905'; 'in 1910, in consequence of a report by Professor Sayce, excavations were commenced ... by J. Garstang on behalf of the University of Liverpool, and the ruins of a palace and several temples were discovered'."
-    },
-    {
-      "iddia_id": "i22",
-      "cumle": "Budge, Sudan'ın erken tarihini yaklaşık MÖ 4000'den Piankhi'nin yükselişine kadar Mısır anıtlarından izlediğini yazar ve yükselişi MÖ 750 civarına koyar.",
-      "onem": "renk",
-      "tur": "aktarim",
-      "kaynaklar": [{ "anahtar": "k3", "destek": "dogrudan" }],
-      "guven": "yuksek",
-      "inceleme": "'the history of the Sudan from about B.C. 4000 to the period of the rise of the Nubian kingdom under Piankhi about B.C. 750, our authorities are the Egyptian monuments'. 1911 oncesi kronoloji oldugu donem tanigi rolunde kullanildi."
+      "inceleme": "CUMLE GUNCELLENDI. k1: \"kandake or candace Amanirenas against Roman Egypt\"; \"Napata sacked\"; yıkımın kandakeyi yeniden savaşmaktan alıkoymadığı kaynakta birebir geçer."
     },
     {
       "iddia_id": "i25",
-      "cumle": "Savaş pazarlıkla bitti: Kuş elçileri Roma'nın Mısır valisi Petronius'la görüştü, Kuş lehine sayılan koşullarla barış antlaşması yapıldı ve iki ülke arasındaki ticaret arttı.",
+      "cumle": "Savaş fetihle değil pazarlıkla bitti: Kuş elçileri Roma'nın Mısır valisi Petronius'la masaya oturdu, Kuş lehine sayılan koşullarla bir barış antlaşması yapıldı ve iki ülke arasındaki ticaret savaşın ardından arttı.",
       "onem": "destek",
       "tur": "olgu",
-      "kaynaklar": [{ "anahtar": "k1", "destek": "dogrudan" }],
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
       "guven": "yuksek",
       "inceleme": "Kor hakem eklemesi 2026-08-28 (kapsam bosluguydu): 'the Kushites sent ambassadors to negotiate a peace settlement with Petronius. The Kushites succeeded in negotiating a peace treaty on favorable terms'; 'Trade between the two nations increased'; 'Gaius Petronius, prefect of Roman Egypt'."
     },
     {
-      "iddia_id": "i23",
-      "cumle": "Okunamayan yazı ancak bir nesne gibi konuşur: dağılımı sorulabilir, içeriği sorulamaz.",
+      "iddia_id": "i16",
+      "cumle": "Sınırın kuzeyindeki Nubya şeridi MÖ 3. yüzyıldan MS 3. yüzyıla kadar önce Ptolemaios krallığının, sonra Roma'nın elindeydi; Meroe bu altı yüz yıllık dönem boyunca sınırın güney yakasında ayakta kaldı.",
       "onem": "renk",
-      "tur": "yorum",
-      "kaynaklar": [],
-      "guven": "orta",
-      "inceleme": "Kanit turu cercevesinden turetilen yorum cumlesi; olgu iddiasi tasimaz."
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CUMLE GUNCELLENDI. k1: \"The northernmost part of Nubia was occupied from the 3rd century BC to the 3rd century AD, first by the Ptolemaic Kingdom and then by the Roman Empire. At the end of this 600-year period...\" — gövdedeki \"altı yüz yıllık dönem\" ifadesi de kaynakta birebir."
     },
     {
-      "iddia_id": "i24",
-      "cumle": "Uzun mesafe ticaretinin yüksek birim değerli kalemlerde toplanması taşıma maliyetinin sonucudur.",
+      "iddia_id": "i17",
+      "cumle": "Meroitik yazı 23 işaretli alfabetik bir sistemdi; anıtlarda hiyeroglif biçimi, gündelik kullanımda ise el yazısı biçimi kullanılıyordu ve bu ikincisinden bugüne 1.278 dolayında metin ulaştı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CUMLE GUNCELLENDI (gövdede iki cümleye bölünmüş; Griffith ve dil bağlantısı kaydı artık i31'dir). k1: \"an alphabetic script with 23 signs used in a hieroglyphic form (mainly on monumental art) and in a cursive form. The latter was widely used; so far some 1,278 texts using this version are known (Leclant 2000).\" Gövdenin \"1.278 dolayında\" ifadesi kaynağın \"some 1,278\" hedgeini korur."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Ama arkalarındaki dil bilinmiyor: anlamı belirlenebilmiş kelime sayısı bir avuçtur ve Meroitik dili bilinen başka bir dille bağlantılandırma girişimleri şimdiye dek sonuç vermedi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "EKLENDI (gövdede dipnotlu, matriste kaydı yoktu). k1: \"the language behind it is still a problem, with only a few words understood by modern scholars. It is not as yet possible to connect the Meroitic language with other known languages.\" Gövdenin iki bileşeni de (bir avuç kelime; bağlantılandırma girişimlerinin sonuçsuzluğu) kaynakta birebir durur."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Okunabilen yazılı kayıt olay sırası, karar ve niyet sorularına cevap verebilir; okunamayan yazı ise ancak bir nesne gibi konuşur — nerede bulunduğu, kimlerce kullanıldığı, ne kadar yaygın olduğu söylenebilir, ne dediği söylenemez.",
       "onem": "renk",
       "tur": "yorum",
       "kaynaklar": [],
       "guven": "orta",
-      "inceleme": "Iktisadi genel ilke olarak yazilan yorum; kaynakli olgu iddiasi degildir."
+      "inceleme": "CUMLE GUNCELLENDI (iddia gövdede duruyor ama başka sözcüklerle). Dipnotsuz; kanıt türü çerçevesinden türetilen yorum cümlesi, olgu iddiası taşımadığı için kaynaksız ve olculemez kalır."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Herodot, Nil boyunca ancak Elephantine'e kadar kendi gözüyle gördüğünü, ötesini soruşturarak ve duyumla aktardığını açıkça söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CUMLE GUNCELLENDI (gövdede iki cümleye bölünmüş; Meroe'ye yolculuk kaydı artık i32'dir). Hdt. II.29 (Godley): \"going as far as the city of Elephantine to look myself, and beyond that by question and hearsay.\""
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Anlattığına göre Elephantine'in ötesinde kırk günlük bir kara yolculuğu, ardından on iki günlük bir nehir yolculuğu insanı Meroe denen büyük şehre getirir; burası ona \"bütün Etiyopya'nın anakenti\" diye tarif edilmiştir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "EKLENDI (gövdede dipnotlu, matriste kaydı yoktu). Hdt. II.29 (Godley): \"you disembark and journey along the river bank for forty days\"; \"Having traversed this part in forty days as I have said, you take boat again and so travel for twelve days until you come to a great city called Meroe, which is said to be the capital of all Ethiopia.\" Gövdenin \"bütün Etiyopya'nın anakenti\" tırnağı çevirinin \"the capital of all Ethiopia\" ifadesinin karşılığıdır; \"diye tarif edilmiştir\" hedgei de kaynağın \"is said to be\" hedgeini korur."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Bu tanıklığın değeri de sınırı da aynı cümlede durur: Herodot gördüğü yerde tanık, duyduğu yerde aktarıcıdır ve Meroe onun duyduğu yerdedir.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "EKLENDI (gövdede dipnotlu, matriste kaydı yoktu). Cümlenin olgu çekirdeği — Herodot Elephantine'e kadar tanık, ötesinde aktarıcıdır ve Meroe ötededir — Hdt. II.29'da birebir durur. Ama cümlenin asıl önermesi kaynak eleştirisine ait bir DEGERLENDIRMEDIR (\"bu tanıklığın değeri de sınırı da aynı cümlede durur\"); Herodot kendi anlatımının kanıt değeri hakkında böyle bir hüküm vermez. Kaynak konuyu taşıyıp hükmü taşımadığı için kismi."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Adlandırma katmanları da üst üste biner: Mısır kaynakları Kuş, Yunanlar Aithiopia, modern arkeoloji Nubya der ve adların her biri bir dış bakışın izini taşır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "EKLENDI (gövdede dipnotlu, matriste kaydı yoktu). Uç adlandırma katmanının ikisi k1'de birebir: \"The Egyptians were the first to identify Kerma as 'Kush'\" ve \"it was known by the Greeks as Aethiopia\". Üçüncüsü SAPIYOR: gövde \"modern arkeoloji Nubya der\" diyor, k1 ise Nubia adını modern bir terim olarak değil, MS 4. yüzyıldaki Noba halkına bağlıyor (\"the Noba people, who introduced the Nubian languages and gave their name to Nubia itself\"). \"Adların her biri bir dış bakışın izini taşır\" ise makalenin kendi yorumu. Iki katman desteklenip üçüncüsü kaynakla aynı şeyi söylemediği için kismi."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "MS 4. yüzyılda krallık Noba ve Blemmi topluluklarının baskısı altındaydı; bu zayıflamayı fırsat bilen Aksumlular Meroe'yi ele geçirip altınını yağmaladı ve Aksum kralı Ezana, Etiyopya krallığını unvanları arasına kattı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CUMLE GUNCELLENDI (gövdede üç cümleye bölünmüş; dağılma kaydı i35, tarihler i36'dır). k1: \"While the Kushites were occupied by war with the Noba and the Blemmyes, the Aksumites took the opportunity to capture Meroë and loot its gold. Negus Ezana then took on the title of 'King of Ethiopia'.\""
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Aksum'un buradaki varlığı büyük olasılıkla kısa sürdü; ama krallık bir daha toparlanamadı ve Nobatia, Makuria ile Alodia adlı üç ayrı siyasi birime dağıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "EKLENDI (gövdede dipnotlu, matriste kaydı yoktu). k1: \"Although the Aksumite presence was likely short-lived, it prompted the dissolution of the Kushite kingdom into the three polities of Nobatia, Makuria and Alodia.\" Gövdenin \"büyük olasılıkla kısa sürdü\" hedgei kaynağın \"likely short-lived\" hedgeiyle örtüşür."
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Sefer için kayıtlara geçen tarih MS 330'dur; krallığın sonu için verilen yaklaşık tarih ise MS 350'dir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "EKLENDI (gövdede dipnotlu, matriste kaydı yoktu). k1 kutusu: \"Axumite capture of Meroë\" / \"330\" (Munro-Hay 1991'e dayandırılmış) ve krallık süresi \"c. 780 BC – c. 350 AD\". TARIH NOTU: kaynak 330'u çıplak, 350'yi \"c.\" ile verir; gövde bu farkı korur (\"kayıtlara geçen tarih MS 330'dur\" / \"yaklaşık tarih ise MS 350'dir\") ve iki tarih arasındaki boşluğu kendisi sorunsallaştırır. Kaynak ayrıca çöküşü tek olaya değil \"worsening climatic conditions, internal rebellions, and foreign invasions\" bileşimine bağlar; gövdenin süreç vurgusu bununla uyumludur."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Wallis Budge, 1907'de yayımladığı The Egyptian Sudan'da, 1905 baharında Hartum'da yeni kurulan müzeye eser toplamak için Sudan'a gönderildiğini ve başlıca antik yerleşimleri dolaştığını anlatır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CUMLE GUNCELLENDI (gövdede iki cümleye bölünmüş; Meroe piramitleri kaydı artık i37'dir). Budge 1907, önsöz: \"In the spring of 1905 I was sent to the Sudan to assist Sir Reginald Wingate in collecting antiquities for the newly established museum at Khartum ... I examined all the principal ancient sites from Sesi, or Sesebi, to Semna.\""
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Meroe piramitlerinde zengin gömü eşyası bulma beklentisinin boşa çıktığını, tonozlu odalardaki cesetlerin yakılmış olduğunu görür.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "EKLENDI (gövdede dipnotlu, matriste kaydı yoktu). Budge 1907: \"beneath several of the smaller pyramids large jars half filled with sand and ashes of human bones were found in small vaulted chambers, a fact which proved that the bodies of several members of the ruling class at Meroe were burned. Thus the expectation that the pyramids of Meroe would yield a rich harvest of sepulchral antiquities was not fulfilled.\" Gövde bunu Budge'a atfederek aktarır; tonozlu oda ve yakılmış ceset ayrıntıları birebir."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "1911 Britannica'nın Meroe maddesi aynı yılların tanığıdır: 1905'te kabartmaların taş taş sökülüp bir bölümünün British Museum'a, bir bölümünün Hartum müzesine taşındığını, 1910'da ise Sayce'in raporu üzerine Garstang'ın Liverpool Üniversitesi adına höyükte kazıya başladığını ve bir saray ile birkaç tapınağın ortaya çıkarıldığını aktarır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CUMLE GUNCELLENDI. 1911 Britannica Meroe maddesi: \"taken down stone by stone in 1905\"; \"in 1910, in consequence of a report by Professor Sayce, excavations were commenced ... by J. Garstang on behalf of the University of Liverpool, and the ruins of a palace and several temples were discovered.\""
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Budge, Sudan'ın erken tarihini \"yaklaşık MÖ 4000'den\" Piankhi'nin yükselişine kadar Mısır anıtlarından izlediğini yazar ve bu yükselişi MÖ 750 civarına yerleştirir.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'the history of the Sudan from about B.C. 4000 to the period of the rise of the Nubian kingdom under Piankhi about B.C. 750, our authorities are the Egyptian monuments'. 1911 oncesi kronoloji oldugu donem tanigi rolunde kullanildi."
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Buradaki çerçeve 1907'nin bilgi durumudur; iki eserin değeri olgu aktarmaktan çok, bilginin hangi kazılarla ve hangi varsayımlarla kurulduğunu göstermesindedir.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "EKLENDI (gövdede dipnotlu, matriste kaydı yoktu). Cümle bir olgu bildirmez, k3'ün ve k2'nin KULLANIM BICIMINI gerekçelendirir (\"iki eserin değeri olgu aktarmaktan çok ... göstermesindedir\"). k3 yalnızca 1907 tarihini ve kendi bilgi çerçevesini sağlar; böyle bir değerlendirme kaynakta yoktur ve olamaz. Destek baglam, tur yorum: kaynak bu cümleyi konumlandırır, doğrulamaz."
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Meroitik dilin çözülmesi bu dengeyi bir anda değiştirebilir; o güne kadar Kuş, eski dünyanın en iyi belgelenmiş okunamayanı olarak durmayı sürdürecek.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "EKLENDI (gövdede dipnotlu, matriste kaydı yoktu). \"Meroitik dilin çözülmesi bu dengeyi değiştirebilir\" bir kestirim, \"eski dünyanın en iyi belgelenmiş okunamayanı\" ise makalenin kendi retorik hükmüdür; k1 ne böyle bir üstünlük derecelendirmesi yapar ne de böyle bir kestirimde bulunur. Kaynak yalnızca zemini verir (dil çözülmemiş; el yazısı biçiminden 1.278 metin bilinir). Destek baglam, tur yorum."
     }
   ],
-  "sayaclar": { "dogrudan": 21, "kismi": 2, "desteksiz": 0, "olculemez": 2 }
+  "sayaclar": {
+    "dogrudan": 28,
+    "kismi": 7,
+    "desteksiz": 0,
+    "olculemez": 4
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "5 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "matris tamamlama turu: 20 iddia cumlesi govdedeki birebir karsiligina oturtuldu, 14 dipnotlu cumle iddia olarak eklendi (kaynaklar sinanarak), 0 iddia cikarildi; gövdeye dokunulmadi"
+    }
+  ]
 }

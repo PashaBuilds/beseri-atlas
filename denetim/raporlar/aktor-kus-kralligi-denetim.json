@@ -1,9 +1,9 @@
 {
   "id": "aktor-kus-kralligi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:50.198Z",
+  "zaman": "2026-08-29T17:40:01.066Z",
   "govde_hash": "ae0513ef0721",
-  "commit": "495dbec",
+  "commit": "c7bbcdb",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -19,9 +19,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "hanedan olarak yönetti ve bölgedeki olağan güç yönünü bir yüzyıl boyunca tersine çevirdi.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "İlki siyasidir: Kuşlu hanedan MÖ 754-656 arasında Mısır'ı 25. hanedan olarak yönetti ve bölgedeki olağan güç yönünü bir yüzyıl boyunca tersine çevirdi.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -73,9 +73,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "hanedan diye geçen Kuşlu hanedanı kurdu.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kuşlu"
+      "iddia": "MÖ 8. yüzyılda kral Kashta, Yukarı Mısır'da kral olarak tanınmayı savaşsız elde etti; ardılı Piye Aşağı Mısır'ı fethederek Mısır kral listelerine 25. hanedan di",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -91,9 +91,9 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "hanedana bağlar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Metropolitan Museum koleksiyonundaki granit bir şabti figürü, Taharka'nın MÖ 690-664 aralığına tarihlenen saltanatına aittir; müze kaydı figürü Nuri'deki kral g",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
@@ -139,15 +139,15 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıla kadar önce Ptolemaios krallığının, sonra Roma'nın elindeydi; Meroe bu altı yüz yıllık dönem boyunca sınırın güney yakasında ayakta kaldı.",
+      "iddia": "Sınırın kuzeyindeki Nubya şeridi MÖ 3. yüzyıldan MS 3. yüzyıla kadar önce Ptolemaios krallığının, sonra Roma'nın elindeydi; Meroe bu altı yüz yıllık dönem boyun",
       "durum": "OK",
-      "not": ""
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
       "iddia": "Meroitik yazı 23 işaretli alfabetik bir sistemdi; anıtlarda hiyeroglif biçimi, gündelik kullanımda ise el yazısı biçimi kullanılıyordu ve bu ikincisinden bugüne",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -181,7 +181,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılda krallık Noba ve Blemmi topluluklarının baskısı altındaydı; bu zayıflamayı fırsat bilen Aksumlular Meroe'yi ele geçirip altınını yağmaladı ve Aksum kral",
+      "iddia": "MS 4. yüzyılda krallık Noba ve Blemmi topluluklarının baskısı altındaydı; bu zayıflamayı fırsat bilen Aksumlular Meroe'yi ele geçirip altınını yağmaladı ve Aksu",
       "durum": "OK",
       "not": ""
     },
