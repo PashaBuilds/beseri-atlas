@@ -1,0 +1,575 @@
+{
+ "id": "tartisma-bati-neden-yukseldi",
+ "govde_hash": "c67ee068e37e",
+ "commit": "7549ec6",
+ "zaman": "2026-08-29",
+ "hakem": "kor-hakem-2026-08-29",
+ "iddialar": [
+  {
+   "iddia_id": "i001",
+   "cumle": "Büyük Ayrışma terimi 1996'da Samuel Huntington tarafından ortaya atıldı ve Kenneth Pomeranz'ın 2000 tarihli kitabıyla yaygınlaştı; aynı olguyu Eric Jones 1981 tarihli kitabında Avrupa Mucizesi adıyla, çevre, ekonomi ve jeopolitika başlıkları altında ele almıştı.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 terimin 1996 kullanimini, Pomeranz 2000 kitabini ve Jones 1981 European Miracle adlandirmasini ayni paragrafta verir."
+  },
+  {
+   "iddia_id": "i002",
+   "cumle": "Araştırmacılar maden yatakları, coğrafya, kültür, kurumlar ve şans dahil çok çeşitli açıklamalar önermiştir; zamanlama konusunda da uzlaşma yoktur.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 giris paragrafi maden yataklari, cografya, kultur, kurumlar ve sansi sayar ve zamanlamada anlasmazlik oldugunu yazar."
+  },
+  {
+   "iddia_id": "i003",
+   "cumle": "Geleneksel tarihlendirme on altıncı, hatta on beşinci yüzyıla kadar gider ve Avrupa'nın o tarihten beri daha yüksek bir büyüme rotasında olduğunu savunur; Maddison Projesi'nin tahminlerine göre Batı Avrupa'da kişi başına gelir 1400 gibi erken bir tarihte daha yüksekti.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k1: geleneksel tarihlendirme 16. hatta 15. yuzyil; Maddison Projesine gore Bati Avrupa kisi basi geliri 1400 gibi erken bir tarihte daha yuksek."
+  },
+  {
+   "iddia_id": "i004",
+   "cumle": "Buna karşılık Pomeranz ve Kaliforniya Okulu'ndan diğerleri en hızlı ayrışma döneminin on dokuzuncu yüzyıl olduğunu ileri sürer; kanıt olarak beslenme verisini ve Avrupa'nın kronik ticaret açıklarını gösterirler.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: Pomeranz ve Kaliforniya Okulu en hizli ayrisma donemini 19. yuzyila koyar; kanit olarak beslenme verisi ve kronik Avrupa ticaret aciklari."
+  },
+  {
+   "iddia_id": "i005",
+   "cumle": "Robert Brenner ile Christopher Isett'in 2002'de The Journal of Asian Studies dergisinde yayımlanan makalesi bu ayrımı açık biçimde kurar.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k7 ustveri kaydi yazarlari, 2002 tarihini, dergiyi ve sayfa araligini dogrular; makalenin ayrimi kurdugu ise ozet metninden okunur."
+  },
+  {
+   "iddia_id": "i006",
+   "cumle": "Kaydın özetine göre Angus Maddison'ın standart okuması Batı Avrupa'nın Çin'i on dördüncü yüzyılda kişi başına başarımda geçtiğini söyler; Pomeranz ise karşılaştırmanın bütün Avrupa ile bütün Çin arasında değil, her ikisinin en gelişmiş çekirdek bölgeleri arasında yapılması gerektiğini savunur ve 1800 gibi geç bir tarihte bile aralarında seçilecek fazla bir şey olmadığını ileri sürer.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Yayinci ozeti Maddison alintisini ve Pomeranz cekirdek karsilastirmasini birebir tasir; ustveri kaydi oldugu icin icerik destegi kismi sayildi."
+  },
+  {
+   "iddia_id": "i007",
+   "cumle": "Maddison serisinin ülke düzeyindeki değerlerinde kişi başına gelir — 2011 fiyatlarıyla uluslararası dolar cinsinden — 1820'de Çin için 882, Birleşik Krallık için 3306; 1870'te Çin için 945, Birleşik Krallık için 5829, Hindistan için 850'dir.",
+   "onem": "merkezi",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k12",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "CSV satirlari: China CHN 1820 882; United Kingdom GBR 1820 3306; China CHN 1870 945; United Kingdom GBR 1870 5829; India IND 1870 850. Birim OWID ustveri kaydinda 'international-$ in 2011 prices' olarak yazili; hakem oturumunda hem CSV hem ustveri yeniden cekilerek dogrulandi."
+  },
+  {
+   "iddia_id": "i008",
+   "cumle": "Seri ulusal toplamları ölçer, Pomeranz'ın karşılaştırması ise Yangzi deltası ile İngiltere'yi karşı karşıya getirir; iki ölçüm aynı soruya cevap vermez.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Ozette ulusal toplam ile cekirdek bolge ayrimi acikca kurulur; iki olcumun ayni soruya cevap vermedigi cikarim atlasa aittir."
+  },
+  {
+   "iddia_id": "i009",
+   "cumle": "Deepak Lal, Pomeranz'ı değerlendirirken tartışmanın bu ucunu tek cümlede toplar: ona göre maddi farklar eritildikten sonra hem Weber'in hem de daha yakın tarihte Landes'in savunduğu gibi kültüre geri dönmüş oluruz.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k5 kapanisi: hem Weber hem de daha yakin tarihte Landes kulture donuldugunu savunmustur."
+  },
+  {
+   "iddia_id": "i010",
+   "cumle": "Kitabı EH.Net için değerlendiren Bradford De Long'a göre Landes'in iktisat tarihi \"derinden Avrupamerkezci bir tarih\"tir ve bunu özür dilemeden yapar; son beş yüz yılın hikâyesini Avrupa'nın dışına yerleştirmek, ona göre olmamış bir hikâyeyi anlatmaktır.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: Landes in iktisat tarihi derinden Avrupamerkezcidir ve ozur dilemeden Avrupa merkezlidir."
+  },
+  {
+   "iddia_id": "i011",
+   "cumle": "Landes'in sıraladığı etkenlerin bir bölümü coğrafi, çoğu kültüreldir: üretimin, gücün ve saygınlığın sanayi öncesindeki ince işleyişi Avrasya uygarlıklarına teknik ilerleme hızında, Avrupa'ya da Çin, Arap, Hint ve Endonezya uygarlıkları karşısında bir avantaj vermiştir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: etkenlerin bir bolumu cografi cogu kulturel; uretim, guc ve saygınlik isleyisi Avrasyaya ve Avrupaya avantaj vermistir."
+  },
+  {
+   "iddia_id": "i012",
+   "cumle": "Ona göre Landes'in Avrasya üstünlüğünü iklime bağlayan bölümü ikna edici değildir ve tropik bölgelerdeki yüksek nüfus yoğunlukları bu bölüme karşı örnek oluşturur; Çin'in teknik önderliğinin neden söndüğü de kitapta açık kalır, çünkü 1400 ile 1800 arasında Çin nüfusunun 80 milyondan 300 milyona çıkması aç bir köylü toplumuna işaret etmez.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: iklim savini ikna edici bulmaz, tropik nufus yogunlugunu karsi ornek gosterir; 1400-1800 arasi Cin nufusu 80 milyondan 300 milyona."
+  },
+  {
+   "iddia_id": "i013",
+   "cumle": "Blaut'un 1992'de Political Geography dergisinde yayımladığı tartışma açılışı soruyu 1492'nin anlamı üzerinden kurar; makale derginin on birinci cildinde 355-385 sayfaları arasındadır.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k10",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k10 ustveri: Blaut, Political geography debates no. 3: On the significance of 1492, Political Geography, 1992, cilt 11, s. 355-385."
+  },
+  {
+   "iddia_id": "i014",
+   "cumle": "Kayıtta özet bulunmadığı için künye düzeyinde doğrulanabilen şey bu çerçevenin adıdır: Avrupa'nın yükselişini içsel bir üstünlükle açıklayan anlatıya karşı, 1492'yi eksene alan bir okuma.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k10",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Kayitta ozet yoktur; cerceve adi baslik duzeyinde dogrulanir, makalenin ic gerekcesi degil. Sinir metinde acikca yaziliyor."
+  },
+  {
+   "iddia_id": "i015",
+   "cumle": "1998'de University of California Press'ten çıkan ReOrient'in alt başlığı dönemi Asya Çağı'nın küresel ekonomisi diye adlandırır; katalog kaydı kitabı 454 sayfa olarak listeler ve konu başlıkları arasında uluslararası iktisadi ilişkileri, Çin'i ve uluslararası rekabeti sayar.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k11",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "archive.org katalog kaydi: 1998, University of California Press, 454 sayfa, konu basliklari. Katalog kaydi oldugu icin destek kismi."
+  },
+  {
+   "iddia_id": "i016",
+   "cumle": "Kitabı değerlendiren Deepak Lal'a göre Pomeranz, on sekizinci yüzyılın dönümüne kadar \"Çin ile Avrupa çekirdekleri arasında yaşam standardı bakımından belirgin bir ayrışma\" bulunmadığını ikna edici biçimde gösterir; demografi, ekoloji, birikim ve piyasaların yaygınlığı bakımından Avrupalılara doğuştan bir üstünlük verdiği ileri sürülen farklar da aynı incelemeye dayanmaz.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k5: 'there was no marked divergence in living standards between the Chinese and European cores' ve devaminda 'various purported differences in demography, ecology, accumulation and the pervasiveness of markets which have been claimed to have given the Europeans an inherent advantage do not stand up to scrutiny'."
+  },
+  {
+   "iddia_id": "i017",
+   "cumle": "İkincisi Avrupa'nın Yeni Dünya'yı keşfi ve kısmen ticaret yoluyla işletmesidir; bunun kıtanın toprak sınırını genişlettiğinden değerlendirme de kuşku duymaz.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k5: 'The second part of Pomeranz's answer ... is Europe's discovery and exploitation - partly through trade - of the New World. There can be no doubt that this extended Europe's land frontier.'"
+  },
+  {
+   "iddia_id": "i018",
+   "cumle": "Ansiklopedi kaydına göre Prasannan Parthasarathi, Güney Hindistan'ın bazı bölgelerinde, özellikle Mysore'da ücretlerin Britanya düzeyinde olabileceğini ileri sürmüş, ama kendi araştırmasının bu konuda kesin olmadığını da not etmiştir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k1: Parthasarathi Guney Hindistanda ozellikle Mysorede ucretlerin Britanya duzeyinde olabilecegini one surer ama arastirmasinin kesin olmadigini not eder."
+  },
+  {
+   "iddia_id": "i019",
+   "cumle": "Ona göre kömürün coğrafi dağılımı belirleyici sayılamaz, çünkü Hindistan'ın çekirdeği doğu Ganj ovasında, yani bugünkü Bihar'da kuruldu ve orada demirin yanı sıra kömür de vardı; buna rağmen kimse bu yatakların Hindistan'ın geri kalışıyla bir ilgisi olduğunu ileri sürmemiştir. Lal ayrıca Pomeranz'ın kendisinin de Yeni Dünya'dan gelen toprak yoğun ürün artışının büyük olamayacağını kabul ettiğini not eder ve 1433'ten sonra Çin'in donanmasını terk edip dış ticareti kısıtlamasını maddi olmayan bir sebebe bağlar.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k5: 'Its core lay in the eastern Gangetic plain - in modern Bihar - because it was here that they found the iron deposits ... We now know that this area also contains India's coal reserves. But despite this, no one has claimed that the coal reserves had anything to with this lapse.' Ayrica: 'admits the increment to the supply of land-intensive products from the New World to Europe could not have been large' ve 'after 1433 the Chinese abandoned their navy and began to restrict foreign trade'."
+  },
+  {
+   "iddia_id": "i020",
+   "cumle": "Jean-Laurent Rosenthal ile Bin Wong'un 2011'de Harvard University Press'ten çıkan kitabını değerlendiren Debin Ma'ya göre yazarlar iddialarını \"birleşik ve merkezî imparatorluk Çin ile siyasi olarak parçalanmış Avrupa arasındaki ikilik\" üzerine kurar.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k6: yazarlar iddialarini birlesik ve merkezi imparatorluk Cin ile siyasi olarak parcalanmis Avrupa arasindaki ikilik uzerine kurar; kunye Harvard 2011."
+  },
+  {
+   "iddia_id": "i021",
+   "cumle": "Aynı değerlendirmeye göre Rosenthal ile Wong, Avrupa'daki parçalanmanın ve sürekli savaşın maliyetini uzun süre eksik hesapladığımızı, birleşik Çin'deki barışın ve istikrarın yararlarını ise ihmal ettiğimizi savunur; aynı barış hem Çin'in önce öne geçişini hem de sonra geride kalışını açıklamak için kullanılır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k6: parcalanmanin maliyeti eksik hesaplanmis, birlesik Cinin baris ve istikrar yararlari ihmal edilmistir; ayni baris hem one gecisi hem geride kalisi aciklamak icin kullanilir."
+  },
+  {
+   "iddia_id": "i022",
+   "cumle": "Mekanizma kentleşme üzerinden işler: savaş Avrupa'da kırsalı şehirlerden daha ağır vurduğundan ticaret ve imalat şehirlerde yoğunlaştı, yüksek şehir ücretleri de teknik değişimi emek tasarrufuna doğru eğdi.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k6: savas kirsali sehirlerden agir vurdugu icin Avrupada ticaret ve imalat sehirlerde yogunlasti; yuksek sehir ucretleri teknik degisimi emek tasarrufuna egdi."
+  },
+  {
+   "iddia_id": "i023",
+   "cumle": "Aynı değerlendirme, imparatorluk yönetimini Avrupa devletlerinden daha az yağmacı sayan bölümü de zayıf bulur ve temsilin Avrupa'ya, iyi yönetişimin Çin'e özgü sayılmasını fazla iddialı görür.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k6: kanit tabanini zayif bulur; temsil Avrupaya, iyi yonetisim Cine ozgu ifadesini fazla iddiali sayar."
+  },
+  {
+   "iddia_id": "i024",
+   "cumle": "Bu hattın küresel ayrışmaya doğrudan bağlanan biçimi Daron Acemoğlu, Simon Johnson ve James Robinson'ın 2005 tarihli makalesidir.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k8",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k8 ustveri: Acemoglu, Johnson, Robinson, American Economic Review, 2005, cilt 95, s. 546-579."
+  },
+  {
+   "iddia_id": "i025",
+   "cumle": "Kaydın özetine göre 1500 sonrasında Batı Avrupa'nın yükselişi büyük ölçüde Atlantik'e erişimi olan ve Yeni Dünya, Afrika ve Asya ile Atlantik üzerinden yoğun ticaret yapan ülkelerin büyümesinden gelir.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k8",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Yayinci ozeti 1500 sonrasi yukselisi Atlantik erisimi olan ulkelerin buyumesine baglar; ustveri kaydi oldugu icin icerik destegi kismi."
+  },
+  {
+   "iddia_id": "i026",
+   "cumle": "Aynı özete göre başlangıç siyasi kurumları hükümdarı belirgin biçimde sınırlayan ülkelerde Atlantik ticaretinin büyümesi tüccar gruplarını güçlendirdi ve bu gruplar mülkiyet haklarını koruyan kurumsal değişiklikleri elde etti; sonraki büyüme için belirleyici sayılan bu değişikliklerdir.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k8",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Ozet: baslangic kurumlari hukumdari sinirlayan ulkelerde Atlantik ticareti tuccar gruplarini guclendirdi ve mulkiyet haklarini koruyan degisiklikleri getirdi."
+  },
+  {
+   "iddia_id": "i027",
+   "cumle": "Brenner ile Isett'in makalesi Pomeranz'ın revizyonunu doğrudan hedef alır ve çerçevesini başlığında bildirir: mülkiyet ilişkileri, mikroiktisat ve gelişme örüntüleri.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Baslik cerceveyi bildirir (mulkiyet iliskileri, mikroiktisat, gelisme oruntuleri); Pomeranz karsisindaki konum ozette gorulur. Sinir metinde yaziliyor."
+  },
+  {
+   "iddia_id": "i028",
+   "cumle": "Eric Williams'ın 1944'te yayımlanan Capitalism and Slavery kitabı, kölelikten elde edilen kârların \"İngiltere'de sanayi devrimini finanse eden sermaye birikiminin ana akımlarından biri\"ni sağladığını savundu; bu sav sonraki on yıllarda iktisat tarihçilerinin çoğu tarafından benimsenmedi, yirmi birinci yüzyılda ise bazı unsurları yeniden gündeme geldi.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 Slave trade bolumu: Williams 1944 tarihli kitabinda kolelik karlarinin sermaye birikiminin ana akimlarindan birini sagladigini savundu; sav sonraki on yillarda benimsenmedi, 21. yuzyilda kismen canlandi."
+  },
+  {
+   "iddia_id": "i029",
+   "cumle": "Kitabı değerlendiren Kevin O'Rourke'un aktarımına göre savın iki ayağı vardır: uluslararası ticaret — özellikle Afrika, Batı Hint Adaları ve Amerika'yı kapsayan Atlantik havzasıyla ticaret — sanayileşmenin başarısında belirleyicidir ve bu sürecin merkezinde Atlantik'in iki yakasındaki Afrikalılar hem tüketici hem üretici olarak durur.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k9",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k9: 'His argument is that international trade was crucial to the success of that revolution, in particular trade with the Atlantic Basin (Africa, the West Indies, and the Americas); and that Africans on both sides of the Atlantic were central to this process, both as consumers and producers.'"
+  },
+  {
+   "iddia_id": "i040",
+   "cumle": "Aynı değerlendirmeye göre kitabın en özgün yanı, Atlantik ticaretine giren Afrika üretimi malların hacmini ölçme denemesidir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k9",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k9: 'What is more original is his attempt to quantify the volume of African-produced commodities entering the Atlantic trade, using occasionally heroic assumptions.'"
+  },
+  {
+   "iddia_id": "i030",
+   "cumle": "O'Rourke kanıt yığınını ikna edici bulur ama nedenselliğe dair çekincesini de yazar: nedenselliği kesinleştiren bir ekonometri ya da benzetim sonucu yoktur, onun yerine Atlantik havzasıyla ticaretin hızla sanayileşen İngiliz ekonomisinin anahtar sektörleri için son derece önemli olduğuna okuyucuyu ikna eden bir arşiv birikimi vardır; buna karşılık ticaretten icada giden mekanizma kesin biçimde tarif edilmez ve pek çok kliometrisyen savı henüz kanıtlanmamış sayacaktır.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k9",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k9: 'There are no killer econometric or simulation results, clinching a particular argument about causality, but rather an accumulation of archival evidence and data which end up convincing the reader that trade with the Atlantic basin was indeed hugely significant for the key sectors of the rapidly industrializing British economy' ve 'a lot of cliometricians will probably conclude that Inikori's argument is not as yet proven. The model of endogenous technical change ... is never precisely spelled out'."
+  },
+  {
+   "iddia_id": "i031",
+   "cumle": "Jared Diamond'ın 1997'de yayımlanan Guns, Germs and Steel kitabını değerlendiren Joel Mokyr'a göre Diamond kurumları, kültürü, teknolojiyi ve dini reddetmez, bunları içsel değişkenlere çevirir; ona göre \"gerçek dışsal değişken, her şey söylenip bittiğinde, coğrafyadır\".",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k3: Diamond kurumlari, kulturu, teknolojiyi ve dini icsel degiskene cevirir; gercek dissal degisken cografyadir."
+  },
+  {
+   "iddia_id": "i032",
+   "cumle": "Aynı değerlendirmeye göre coğrafya bilginin dolaşımını da kısıtlar: tarım teknolojisi doğu-batı yönünde kuzey-güney yönüne kıyasla daha kolay yayılır ve bu, Avrasya'ya Amerika ile Afrika karşısında bir avantaj verir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k3: tarim teknolojisi dogu-bati yonunde kuzey-guney yonune kiyasla daha kolay yayilir ve bu Avrasyaya Amerika ile Afrika karsisinda avantaj verir."
+  },
+  {
+   "iddia_id": "i033",
+   "cumle": "Teknik yaratıcılığın başlangıçtaki coğrafi donanıma göre kısmi türevi, değerlendirmenin kendi ifadesiyle hâlâ bilinmiyor.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k3 kapanisi: teknik yaraticiligin baslangictaki cografi donanima gore kismi turevi hala bilinmiyor."
+  },
+  {
+   "iddia_id": "i034",
+   "cumle": "Kitabı değerlendiren Eric Jones'a göre Wrigley'in bütün çalışmasını bir arada tutan iddia, \"yalnızca ısı enerjisi değil mekanik enerji kaynağı olarak kömüre geçiş\"in en büyük itici güç olduğudur; aynı okumada Sanayi Devrimi 1851'de tamamlanmıştı ve buharın kolayca taklit edilmesi Britanya'nın önceliğini kalıcı kılmadı.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k4: Wrigley nin en buyuk itici guc saydigi sey isi enerjisi degil mekanik enerji kaynagi olarak komure gecistir; sanayi devrimi 1851de tamamlanmisti ve oncelik kalici olmadi."
+  },
+  {
+   "iddia_id": "i035",
+   "cumle": "İkincisi kitabın fazla teknik kalmasıdır: ona göre kültür ve fikirler neredeyse hiç görünmez, teknik ilerlemeler kendiliğinden çıkıyormuş gibi durur ve İngiliz toplumunun neden bu kadar yaratıcı karşılık verebildiği sorusu cevapsız kalır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k4: ikinci cekince asiri teknokratik yaklasim; kultur ve fikirler neredeyse hic gorunmez, teknik ilerlemeler kendiliginden cikiyormus gibi durur."
+  },
+  {
+   "iddia_id": "i036",
+   "cumle": "Gregory Clark ile David Jacks, kömürün milli gelirde büyük bir kayıp olmadan ikame edilebileceğini gösterir; Deirdre McCloskey ise kömürün Britanya'ya başka ülkelerden kolayca ithal edilebileceğini ve Çinlilerin sanayilerini kömür yataklarına yaklaştırabileceğini belirtir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 Coal bolumu: Clark ve Jacks komurun buyuk kayip olmadan ikame edilebilecegini gosterir; McCloskey ithalat ve sanayinin komure yaklastirilmasi secenegini belirtir."
+  },
+  {
+   "iddia_id": "i037",
+   "cumle": "Ölçek seçimi — ulusal toplam mı, çekirdek bölge mi — yapıldığı anda sonucu büyük ölçüde belirler, ve iki tarafın da bu seçimi bağımsız bir ölçütle savunması beklenir.",
+   "onem": "merkezi",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Olcek seciminin sonucu belirledigi, k7 ozetindeki Maddison-Pomeranz karsitligindan cikar; degerlendirme atlasa aittir."
+  },
+  {
+   "iddia_id": "i038",
+   "cumle": "Sömürge kanalının büyüklüğü nicel olarak kapanmış değildir; ticaretten icada giden mekanizmanın kanıtlanmış sayılmadığı, savı benimseyen değerlendirmelerde bile yazılıdır.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k9",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k9 kapanisi savi benimseyen degerlendirmenin bile mekanizmanin kanitlanmamis sayilacagini yazdigini gosterir."
+  },
+  {
+   "iddia_id": "i039",
+   "cumle": "Kültürel açıklamaların ise kendi kökeni sorusu durur: Landes'in saydığı açıklık ve devlet biçimi, kendileri açıklanmayı bekleyen sonuçlardır.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k2 aciklik ve devlet bicimini Landes anlatisinin iki anahtari sayar; bunlarin kendilerinin aciklanmayi bekledigi degerlendirmesi atlasa aittir."
+  }
+ ],
+ "sayaclar": {
+  "dogrudan": 32,
+  "kismi": 8,
+  "desteksiz": 0,
+  "olculemez": 0
+ }
+}

@@ -17,6 +17,7 @@ ilgili:
   - veri-enerji-tuketimi-1800-2023
   - veri-kisi-basi-gsyh-1-2022
   - tartisma-sanayi-devrimi-neden-ingiltere
+  - tartisma-bati-neden-yukseldi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -27,6 +27,7 @@ ilgili:
   - kaynak-hammurabi-kanunlari
   - kaynak-gilgamis-destani
   - aktor-kus-kralligi
+  - tartisma-tunc-cagi-cokusunun-nedeni
 okuma_onerisi: []
 serit:
   - bolge: islam-dunyasi

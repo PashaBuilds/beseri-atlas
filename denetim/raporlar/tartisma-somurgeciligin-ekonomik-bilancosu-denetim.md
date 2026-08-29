@@ -1,5 +1,5 @@
 ## tartisma-somurgeciligin-ekonomik-bilancosu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:14.544Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:40.479Z_
 
 - [ATOMSUZ] k1 → "Bu haritanın çıkış noktası bir eksiklik değil, bir fazlalıktır: bilanço için birden çok ölçüt vardır ve her bi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Sömürgeciliğin iktisadi sonucu hakkındaki anlaşmazlık, çoğu zaman bir rakam anlaşmazlığı gibi sunulur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

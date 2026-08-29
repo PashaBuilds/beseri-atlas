@@ -1,5 +1,5 @@
 ## dusunur-ibn-rusd
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:09.091Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:34.967Z_
 
 - [OK]      k1 → "Kaynak onu 1126-1198 arasında yaşamış Endülüslü bir filozof, hekim ve kadı olarak kaydeder." — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak, ona sıklıkla uygun olmayan biçimde Averroes dendiğini ve bunun adının Latincede aldığı bozulmuş biçim …" — 3 atom doğrulandı; 1 ad ölçülemedi

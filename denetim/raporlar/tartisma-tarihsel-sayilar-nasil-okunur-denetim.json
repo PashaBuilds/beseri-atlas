@@ -1,69 +1,207 @@
 {
   "id": "tartisma-tarihsel-sayilar-nasil-okunur",
   "gecis": 2,
-  "zaman": "2026-08-29T04:48:14.815Z",
-  "govde_hash": "1343bfed98cc",
-  "commit": "58a10ea",
+  "zaman": "2026-08-29T11:07:53.896Z",
+  "govde_hash": "af5656af70d5",
+  "commit": "7549ec6",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Gerekçesi tek bir karşılaştırmada görülür: Taiping İsyanı için verilen toplam ölü sayısı 20–100 milyondur.",
-      "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "anahtar": "k2",
+      "iddia": "Herodotos, Xerxes'in Yunanistan üzerine yürüyen ordusunun nasıl sayıldığını da anlatır: on bin adam bir yere toplanmış, olabildiğince sıkıştırılmış, çevrelerine",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Xerxes, Yunanistan"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Aynı sorun başka olaylarda da görülür: Roma topraklarına yönelen toplam göç kabaca 500.000 ile 1.000.000'un üzerinde bir aralıkta tahmin edilir.",
+      "anahtar": "k3",
+      "iddia": "Aynı kitabın ilerleyen bölümünde donanmayla gelenler ve orduyu izleyen hizmetliler de eklenir; Sepias burnu ile Thermopylai'ye kadar götürülen insan sayısı 5.28",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl Çin'ine, diğeri 4.–6.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin"
+      "iddia": "Bury kara kuvvetlerini 180.000 dolayında görür, Munro ile Macan kabaca 300.000'e varır, kimi hesap 100.000'in altına iner, yüksek rakamları savunan hat ise 250.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "yüzyıl Avrupa'sına ait bu iki örnek aynı yapısal soruna işaret eder: kayıt tutma kapasitesinin çöktüğü olaylar, kendi bilançolarını da üretemezler.",
+      "iddia": "Herodotos'un anlattığı sayım usulü, antik bir rakamın nasıl kurulduğunu gösterdiği kadar neyi göstermediğini de belli eder: yöntem tarif edilir, ama sayımın kay",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı sefer için çağdaş sayılan başka rakamlar da dolaşımdadır: şair Simonides dört milyondan söz eder, Ktesias ise Doriskos'ta toplanan ordunun toplamını 800.00",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kara ordusu toplamı yuvarlak bir rakamdır; buna karşılık genel toplam, hizmetliler savaşanlarla eşit sayılarak 5.283.220 gibi son basamağına kadar yazılmış bir ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "On dördüncü yüzyılın veba yıllarında bir vakanüvis anlatısını, sağ kalan biri çıkarsa sürdürsün diye boş sayfalarla kapatır; bir başkası Londra'da yalnızca on d",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k5",
-      "iddia": "Kullanılan veri kümesine göre verilen rakam muharip ölümleridir; çarpışmalar nedeniyle ölen siviller, çatışmaların yol açtığı açlık ve hastalıktan kaynaklanan a",
+      "iddia": "İktisat tarihi ansiklopedisinin değerlendirmesi açıktır: ortaçağ yazımı anlatının dramatik gücünü sayısal doğruluğa yeğlediği ölçüde, bu rakamlar demografik bil",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k5",
-      "iddia": "Aynı veri kümesi, kapsam genişletilseydi toplamın çok daha yüksek olacağını açıkça belirtir.",
+      "anahtar": "k1",
+      "iddia": "George Grote, Herodotos'un toplamını ikmal sorunu gerekçesiyle kabul edilemez bulur ama anlatıyı bütünüyle reddetmez: aynı kaynağın Perslerin titiz sayım usulle",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bury aynı rakamları büsbütün masalsı sayar.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sir Frederick Maurice sorunu bir su meselesi olarak kurar: bölgedeki nehirlerin en fazla 200.000 insanı ve 70.000 hayvanı besleyebileceğini hesaplar, Herodotos'",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k4",
-      "iddia": "Haiti Devrimi için verilen kayıp listesi Britanya için 100.000 ölü ya da yaralı, Fransa için 57.000–75.000 ölü ve beyaz sömürgeciler için 25.000 ölü kaydeder.",
+      "iddia": "Herodotos'un toplamını 5.100.000 olarak aktarır ve şunu hesaplar: dağlar arasındaki çoğu kez dar yollardan ilerleyen böyle bir kolonun son adamları, ilk adamlar",
       "durum": "OK",
       "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k4",
-      "iddia": "Aynı listede ayaklanan nüfusun kaybına dair bir sayı bulunmaz.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Ölçüt artık metindeki rakam değil, arazinin izin verdiği yürüyüştür: Maraton ovasının bir Prusya tugayının talimine bile zor yeteceğini aktarır, Thermopylai ile",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Dördüncü pozisyonun uygulanabilirliği somut bir örnekte görülür: 2019'da yayımlanan araştırma, Justinyen vebasının ölüm bilançosunun ve toplumsal etkilerinin ab",
+      "anahtar": "k1",
+      "iddia": "Aynı metinden yola çıkan Munro ile Macan, Herodotos'un saydığı yirmi dokuz on binlik birlik komutanını esas alır ve buradan kabaca 300.000 kişilik bir kara ordu",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k3",
-      "iddia": "Ancak aynı alanda karşı yönde de eleştiri vardır: salgının Akdeniz üzerindeki etkisine dair iddialar yöntemleri ve kaynakları ele alışları bakımından eleştirilm",
+      "anahtar": "k5",
+      "iddia": "İktisat tarihi ansiklopedisi, ortaçağ Avrupası için bu işlemin adımlarını sıralar: sayım kaydı seyrek olduğundan tahminler toprak piyasasındaki hareketlilik, ki",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Akdeniz"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Avrupası"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ordunun büyüklüğünü yol ve ikmal kapasitesinden çıkarmak, nüfusu boşalan görevlerin sayısından çıkarmak ve kaybı ücret ile kira hareketinden çıkarmak aynı mantı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Ordunun büyüklüğünü yol ve ikmal kapasitesinden çıkarmak, nüfusu boşalan görevlerin sayısından çıkarmak ve kaybı ücret ile kira hareketinden çıkarmak aynı mantı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Sayım benzeri kayıtlar bile kapsam sorununu çözmez: Domesday Book (1086) ve Poll Tax kaydı (1377) ya yalnızca hane reislerini sayar, ya nüfusun bir bölümünü dış",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Açığı kapatmak için araştırmacı bir dizi tartışmalı varsayıma başvurur: ortaçağ hanesinin büyüklüğü, elde bulunan grubun bütünü temsil edip etmediği, kaydı olma",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Colin McEvedy ile Richard Jones'un 1978'de yayımlanan dünya nüfus tarihi atlası, dağınık tahminleri bölge bölge kesintisiz eğrilere bağlayan derlemelerin klasik",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bugünün karşılığı bir veri tabanıdır: yaygın kullanılan uzun seri, 1800 öncesi için HYDE 3.3 veri tabanına, 1800 ile 1949 arası için Gapminder derlemesine, 1950",
+      "durum": "OK",
+      "not": "9 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Aynı derlemenin geleceğe bakan ucunda da bir aralık nokta değere indirilir: Birleşmiş Milletler düşük, orta ve yüksek doğurganlık senaryolarına göre birden çok ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kara Ölüm'ün 1347 ile 1353 arasındaki dalgası için İngiltere'ye dair ulusal tahminler yüzde 5 ile yüzde 60'ın üzerinde bir bant içinde dağılır; kraldan toprak t",
+      "durum": "OK",
+      "not": "7 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı manastıra bağlı iki malikânede ölçülen oranlar ise yüzde yirmi bir ile yüzde yetmiş-seksen arasındadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bu dağılımın karşısında ansiklopedi maddesi yöntemsel bir tercih ilan eder: eldeki tahminlerin gelişigüzel ortalamasını almak da ölüm oranını çekingen biçimde ü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bir zamanlar üçte bir makul toplu oran sayılırken, 1970'lerin başından bu yana Avrupa için yarı düzeyinde bir kaybın savunulabilir olduğu değerlendirilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Dünya Sağlık Örgütü, 2020 ve 2021 için salgınla ilişkili aşırı ölümü 14,9 milyon olarak açıklarken aynı cümlede 13,3 ile 16,6 milyonluk bandı da verdi; aşırı öl",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Silahlı çatışma ölümlerini sağlayan uç noktanın serisi 1989'da başlar ve her yıl için yüksek, merkezî ve düşük olmak üzere üç ayrı ölüm sütunu döndürür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "David Henige'nin 1998'de yayımlanan kitabı bu tartışmayı konu edinir ve adını, hiçbir yerden gelen sayılar anlamına gelen bir ifadeyle koyar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "David Henige'nin 1998'de yayımlanan kitabı bu tartışmayı konu edinir ve adını, hiçbir yerden gelen sayılar anlamına gelen bir ifadeyle koyar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Grote'dan Munro ile Macan'a uzanan itiraz hattı iki yüzyıldır sürüyor ve bugün önerilen değerler hâlâ 100.000'in altı ile 700.000 arasında dağılıyor.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kara Ölüm için kıta ölçeğinde bir toplam da karara bağlanmış değil: yerel düzeyde güvenilir sayılan oranlara göre bant dörtte bir ile dörtte üç arasında uzanır ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ölüm"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Modern sayılar da sorunun dışında değil: 2020 ve 2021 için yayımlanan aşırı ölüm tahmini, nokta değeriyle değil alt ve üst sınırıyla birlikte duyuruldu.",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

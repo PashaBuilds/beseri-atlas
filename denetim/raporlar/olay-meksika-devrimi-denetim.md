@@ -1,5 +1,5 @@
 ## olay-meksika-devrimi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:02.384Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:28.228Z_
 
 - [OK]      k1 → "1917 Anayasası genel erkek oy hakkını kurdu; laikliği, işçi haklarını, iktisadi milliyetçiliği ve toprak refor…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Listenin bileşimi dikkat çekicidir: içinde bir siyasi hak (oy), bir devlet-din ilişkisi (laiklik), bir sınıf d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

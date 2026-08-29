@@ -1,5 +1,5 @@
 ## tartisma-milliyetcilik-ne-zaman
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:14.090Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:40.012Z_
 
 - [OK]      k1 → "yüzyılın başına, Amerikan Bağımsızlık Bildirgesi'ne ya da Fransız Devrimi'ne yerleştirir; aynı kayıt, milletin…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "yüzyıla gelindiğinde sağlamca yerleştiği kabul edilir, öncesi tartışmanın kendisidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

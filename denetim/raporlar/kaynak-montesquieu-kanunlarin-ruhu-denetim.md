@@ -1,5 +1,5 @@
 ## kaynak-montesquieu-kanunlarin-ruhu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:17.570Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:43.561Z_
 
 - [OK]      k1 → "Kaynak, yazarın adını Baron de Montesquieu, Charles-Louis de Secondat olarak verir ve maddenin ilk kez 18 Temm…"
 - [ATOMSUZ] k1 → "Bir ansiklopedi maddesinin kendi yayın ve gözden geçirme tarihlerini taşıması, atlasın kaynak alanında neden e…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

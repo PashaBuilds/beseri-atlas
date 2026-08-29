@@ -1,18 +1,69 @@
 ## tartisma-demografik-donum-sonuclari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:13.272Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T11:04:35.134Z_
 
-- [ATOMSUZ] k1 → "Kaynak, demografik geçişi toplumsal bilimlerdeki — özellikle demografideki — bir olgu ve bir kuram olarak tanı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, geçişin son iki yüzyılda dünyanın çoğunda gerçekleştiğini; Malthus sonrası dönemin benzeri görülmemiş …"
-- [ATOMSUZ] k1 → "Aynı kayıt, geçişin iktisadi büyüme sürecini üç değişim yoluyla güçlendirdiğini ve bunların ilkinin sermaye se…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir modelin hem nüfus artışını hem azalışını açıklaması, atlasın şu kuralının dayanağıdır: bir eğilim cümlesi,…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, ikinci demografik geçiş için ayrı bir başlık; modelin değerlendirilmesi için ise ayrı bir eleştirel de…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Ülke bazlı tarihsel incelemeleri de ayrı ayrı sıralar: Britanya, İrlanda, Fransa, Hindistan, Kore, Çin, Madaga…"
-- [ATOMSUZ] k1 → "Tek bir modelin dokuz ülke için ayrı ayrı incelenmesi, modelin her yerde aynı biçimde işlemediğini gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, Japonya'nın 1888-2019 arasındaki demografik geçişini örnek verir; nüfusun doğal olarak 38,6 milyondan …"
-- [ATOMSUZ] k1 → "Bir ülkenin aynı model içinde hem artış hem azalış evresini yaşamış olması, modelin bir yön değil bir sıra öng…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Doğurganlık serisinde dünya değeri 1950'de yaklaşık 4,86 çocuk, 2023'te yaklaşık 2,25 çocuktur."
-- [OK]      k3 → "Nüfus artış hızı serisinde dünya değeri 1963'te yaklaşık yüzde 2,20, 2023'te yaklaşık yüzde 0,91'dir."
-- [ATOMSUZ] k2 → "İki serinin farklı yıllarda zirve yapması, modelin iki ayağının aynı anda hareket etmediğini gösterir; seriler…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "İki serinin farklı yıllarda zirve yapması, modelin iki ayağının aynı anda hareket etmediğini gösterir; seriler…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Phillip Longman 2004'te, düşen doğum hızlarının dünya refahını tehdit ettiğini savunan bir kitap yayımladı; ki…"
+- [OK]      k8 → "On yıl sonra Ronald Lee ile Andrew Mason, kırk ülkenin ulusal transfer hesaplarına dayanan bir incelemeyle son…"
+- [ATOMSUZ] k4 → "Ölçüler ise iki tarafa da malzeme veriyor: bağımlılık oranı yükseliyor, kişi başına tüketim hesapları düşüşü c…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k8 → "Ölçüler ise iki tarafa da malzeme veriyor: bağımlılık oranı yükseliyor, kişi başına tüketim hesapları düşüşü c…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Ölçüler ise iki tarafa da malzeme veriyor: bağımlılık oranı yükseliyor, kişi başına tüketim hesapları düşüşü c…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgan…" — programatik olarak ölçülemedi (ad karşılığı yok): Lee, Mason, Wolfgang, Lutz
+- [OK]      k8 → "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgan…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgan…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k3 → "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgan…" — programatik olarak ölçülemedi (ad karşılığı yok): Lee, Mason, Wolfgang, Lutz
+- [ATOMSUZ] k4 → "Demografi nüfusu üç kümeye böler: on beş yaşın altındaki çocuklar, on beş ile altmış dört arasındaki çalışma ç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Bağımlılık oranı birinci ve üçüncü kümenin toplamını ikinciye böler; yüz kişilik bir çalışma çağı nüfusuna kaç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "2018'de dünyada altmış dört yaşın üstündeki insanların sayısı, beş yaşın altındaki çocukların sayısını tarihte…"
+- [OK]      k3 → "Dünya Sağlık Örgütü aynı kavşağı altmış yaş sınırıyla ve 2020 için kaydeder; aynı yerde altmış yaş üstü nüfusu…" — 5 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Örgütün kestirimine göre 2030'da her altı kişiden biri altmış yaş ve üstü olacak; altmış yaş üstü nüfus 2020'd…"
+- [OK]      k3 → "Seksen yaş ve üstündeki insan sayısının 2020 ile 2050 arasında üçe katlanarak 426 milyona ulaşması bekleniyor;…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k4 → "Japonya'da 1950'de altmış dört yaş üstü her bir kişiye karşılık on beş yaşın altında yediden fazla çocuk vardı…"
+- [OK]      k4 → "Nijerya'da aynı yıl bağımlıların yüzde 94'ü gençti."
+- [OK]      k2 → "Longman'ın kitabı 2004'te Basic Books etiketiyle çıktı; içindekiler listesi savın iskeletini veriyor: kaybolan…"
+- [ATOMSUZ] k1 → "Aynı çizginin daha ayrıntılı dökümü olumsuz etkileri şöyle sıralıyor: bağımlılık oranının yükselmesiyle çalışa…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Nüfusu azalan bir ülkenin sağlık, yaşlılık ödemeleri, savunma, eğitim ve su-kanalizasyon altyapısı gibi kamu h…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Avrupa'nın demografik kışına dair başlıkların sıradanlaştığı, İtalya Başbakanı Giorgia Meloni'nin ülkesinin yo…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Aynı kaydın kendi uyarısı da metnin içinde duruyor: düşük doğurganlıktan doğan yavaş bir nüfus düşüşünün iktis…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k8 → "Lee ile Mason'ın 2014 tarihli incelemesi kırk ülkenin ulusal transfer hesaplarını tarıyor ve sonucu seçilen öl…"
+- [ATOMSUZ] k8 → "Devlet bütçeleri açısından yenilenme düzeyinin belirgin biçimde üstünde bir doğurganlık en avantajlısı çıkıyor…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k8 → "Kapanış cümlesi yalnızca sonucu değil çekinceyi de taşıyor: yazarlar önce düşük doğurganlığın kamu programları…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k12 → "Daron Acemoğlu ile Pascual Restrepo, yaşlanmanın sanayide otomasyonu artırdığını savunuyor: orta yaşlı işgücün…"
+- [ATOMSUZ] k12 → "Aynı çalışma, hızlı yaşlanan ülkelerde otomasyon yeniliğinin de arttığını, otomasyona elverişli sanayilerde ve…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Çalışma çağındaki kadınların işgücüne katılımı 2018'de üç ülke dışında her yerde erkeklerin gerisindeydi; Güne…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Aynı kayıt bu kaldıracın sınırını da yazıyor: katılım bir tavana ulaştığında etki durur ve kazanç kalıcı olmaz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Emeklilik yaşı için verilen hesap şöyle: 2010 ile 2050 arasında emeklilik yaşını her on yılda iki ya da üç yıl…"
+- [OK]      k1 → "Japonya 2019 Nisan'ında bakım, inşaat, tarım ve gemi yapımı gibi ağır işgücü açığı olan sektörler için yabancı…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k2 → "Üçü de yaş yapısını değil, o yapıdan üretilen çıktıyı değiştirmeyi hedefliyor; tartışmanın karamsar tarafı da …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Japonya ile Almanya'nın ekonomileri, nüfuslarının azalmaya başladığı 2003-2006 aralığında toparlanmaya geçti; …" — 8 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Aynı kayıt iktisadi başarının ölçüsü olarak toplam hasılayı değil kişi başına hasılayı öne çıkarıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Wolfgang Lutz'un 2006 tarihli hipotezi tartışmanın zeminini kaydırıyor: Avrupa'da doğumun ertelenmesini daha d…"
+- [OK]      k10 → "Sav bir tahmin değil bir hipotezdi ve karşı kanıt hızla geldi: Mikko Myrskylä, Hans-Peter Kohler ve Francesco …"
+- [OK]      k11 → "Julia Hellstrand ve arkadaşlarının 2021 tarihli çalışması, 2010 dolaylarında başlayan dönem doğurganlığı düşüş…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k11 → "Öngörüler, ortalama İskandinav kuşak doğurganlığının 1970 kuşağındaki iki çocuktan 1980'lerin sonundaki kuşakl…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k11 → "Aynı çalışma buradan yöntemsel bir sonuç çıkarıyor: yüksek ve istikrarlı doğurganlığa dayanan İskandinav model…" — programatik olarak ölçülemedi (ad karşılığı yok): İskandinav
+- [ATOMSUZ] k9 → "Bu dizi tartışmayı kapatmıyor, iki tarafa da yeni bir soru veriyor: tuzak savı doğrulanmış mı sayılır, yoksa t…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k11 → "Bu dizi tartışmayı kapatmıyor, iki tarafa da yeni bir soru veriyor: tuzak savı doğrulanmış mı sayılır, yoksa t…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Dünya Sağlık Örgütü'ne göre 2050'de altmış yaş üstü nüfusun üçte ikisi düşük ve orta gelirli ülkelerde yaşayac…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Japonya'da nüfusun yüzde 30'u hâlihazırda altmış yaşın üstünde."
+- [OK]      k4 → "Eşiğin geçilme tarihi ülkeler arasında yarım yüzyıla yayılıyor: Amerika Birleşik Devletleri'nde beş yaş altı n…" — 6 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Afrika'da doğurganlık 1970'lerde kadın başına neredeyse yedi çocuktu; bugün dörde yakın ve Birleşmiş Milletler…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k4 → "Yaşlanan yüksek gelirli ülkeler için sorun bağımlılık oranının yükselmesi; genç ülkeler için ise çalışma çağı …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Pencerenin kalıcı olmadığını aynı beklenti söylüyor: doğurganlık yüzyıl sonunda ikiye yaklaştığında bugünün ge…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Toplam doğurganlık hızı dünya için 1950'de 4,852 çocukken 2023'te 2,251 çocuğa indi."
+- [OK]      k7 → "Nüfus artış hızı 1963'te yüzde 2,283 ile zirve yaptı ve 2023'te yüzde 0,871'e geriledi."
+- [OK]      k6 → "İki dosya da 2023'te bitiyor; depoya yalnızca tarihsel kestirimler kaydedildi."
+- [OK]      k7 → "İki dosya da 2023'te bitiyor; depoya yalnızca tarihsel kestirimler kaydedildi."
+- [OK]      k7 → "O sütunda artış hızı 2050'de yüzde 0,421, 2084'te eksi yüzde 0,004'tür."
+- [OK]      k5 → "2019 sürümü bir tepe görmüyor, 2100'de 10,9 milyara ulaşan ve büyümeyi sürdüren bir seri veriyordu; 2022 sürüm…"
+- [OK]      k5 → "2024 revizyonu tepeyi öne aldı: dünya nüfusu 2084'te yaklaşık 10,3 milyar ile tepe yapıyor."
+- [ATOMSUZ] k5 → "Sağlayıcının uyarısı da metnin içinde: bunlar geleceğe dair tahminler değil, projeksiyonlardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Avrupa'da 2018'de altmış dört ile yetmiş dört yaş arasındakilerin yüzde 10'undan azı çalışıyordu; bu payın değ…"
+- [ATOMSUZ] k2 → "Longman'ın yük hesabı ile Lee ve Mason'ın tüketim hesabı farklı büyüklükleri karşılaştırıyor: biri işgücü arzı…" — programatik olarak ölçülemedi (ad karşılığı yok): Lee, Mason
+- [OK]      k8 → "Longman'ın yük hesabı ile Lee ve Mason'ın tüketim hesabı farklı büyüklükleri karşılaştırıyor: biri işgücü arzı…"
+- [ATOMSUZ] k1 → "Kanıtın ağırlığı da eşit değil: iyimser tarafın savı hakemli iki dergi makalesinden okunuyor, karamsar tarafın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kanıtın ağırlığı da eşit değil: iyimser tarafın savı hakemli iki dergi makalesinden okunuyor, karamsar tarafın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Tuzak hipotezi ile toparlanma bulgusu arasındaki gerilim İskandinav dizisiyle çözülmedi, yalnızca yer değiştir…" — programatik olarak ölçülemedi (ad karşılığı yok): İskandinav
+- [ATOMSUZ] k10 → "Tuzak hipotezi ile toparlanma bulgusu arasındaki gerilim İskandinav dizisiyle çözülmedi, yalnızca yer değiştir…" — programatik olarak ölçülemedi (ad karşılığı yok): İskandinav
+- [ATOMSUZ] k11 → "Tuzak hipotezi ile toparlanma bulgusu arasındaki gerilim İskandinav dizisiyle çözülmedi, yalnızca yer değiştir…" — programatik olarak ölçülemedi (ad karşılığı yok): İskandinav
+- [ATOMSUZ] k12 → "Otomasyon telafisi sanayide ölçüldü; yaşlanmanın en çok emek istediği alan olan bakım hizmetlerinde aynı ikame…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 5 OK · 0 ISARET · 0 HATA · 8 ATOMSUZ
+**Özet:** 35 OK · 0 ISARET · 0 HATA · 29 ATOMSUZ

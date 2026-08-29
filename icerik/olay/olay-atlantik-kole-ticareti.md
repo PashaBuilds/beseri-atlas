@@ -87,8 +87,8 @@ karşılaştırılması açık bir tartışmadır; bu dosya tek bir sayı
 sunmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 Atlas bu listeyi bir karşılaştırma ya da denkleştirme olarak sunmaz; kaynağın
-kendi bağlamlandırmasını aktarır ve bir toplam üretmez. Yöntem
-[Tarihsel bilanço sayıları nasıl okunmalı?](/tartisma/tarihsel-sayilar-nasil-okunur/)
+kendi bağlamlandırmasını aktarır ve bir toplam üretmez. Bu yöntem
+[Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
 haritasında ele alınıyor.
 
 ## Açıldığı sömürge düzeni

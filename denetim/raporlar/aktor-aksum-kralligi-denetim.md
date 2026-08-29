@@ -1,5 +1,5 @@
 ## aktor-aksum-kralligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:03.965Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:29.831Z_
 
 - [ATOMSUZ] k1 → "yüzyılın dört büyük gücünden biri sayılmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "yüzyılda yaşamış bir din kurucusudur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

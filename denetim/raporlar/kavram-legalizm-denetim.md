@@ -1,5 +1,5 @@
 ## kavram-legalizm
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:11.582Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:37.460Z_
 
 - [ATOMSUZ] k1 → "Legalizm, yönetimin yöneticinin erdemine değil; herkese eşit uygulanan kurallara, görevlileri denetleme teknik…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Legalizm, yönetimin yöneticinin erdemine değil; herkese eşit uygulanan kurallara, görevlileri denetleme teknik…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

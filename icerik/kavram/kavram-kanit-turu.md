@@ -50,6 +50,7 @@ ilgili:
   - kaynak-piri-reis-kitab-i-bahriye
   - kaynak-ibn-battuta-rihle
   - kaynak-gilgamis-destani
+  - tartisma-tunc-cagi-cokusunun-nedeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

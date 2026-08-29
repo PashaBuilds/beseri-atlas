@@ -1,117 +1,249 @@
 {
   "id": "tartisma-bati-neden-yukseldi",
   "gecis": 2,
-  "zaman": "2026-08-29T04:48:13.132Z",
-  "govde_hash": "77976b2649fc",
-  "commit": "58a10ea",
+  "zaman": "2026-08-29T11:32:17.814Z",
+  "govde_hash": "c67ee068e37e",
+  "commit": "7549ec6",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Huntington ortaya attı; terimi yaygınlaştıran kullanım ise Kenneth Pomeranz'ın 2000 tarihli The Great Divergence: China, Europe, and the Making of the Modern Wo",
+      "iddia": "Büyük Ayrışma terimi 1996'da Samuel Huntington tarafından ortaya atıldı ve Kenneth Pomeranz'ın 2000 tarihli kitabıyla yaygınlaştı; aynı olguyu Eric Jones 1981 t",
       "durum": "OK",
-      "not": ""
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Aynı olgu daha önce Eric Jones tarafından da ele alınmıştı; onun 1981 tarihli The European Miracle adlı kitabı alternatif bir terimi yaygınlaştırdı.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Jones'un başlığı olguyu bir mucize olarak adlandırıp açıklamayı Avrupa'nın içine yerleştirirken, Pomeranz'ın başlığı Çin'i, Avrupa'yı ve modern dünya ekonomisin",
-      "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Ayrışmanın ne zaman başladığı, sebebi kadar tartışmalıdır.",
+      "iddia": "Araştırmacılar maden yatakları, coğrafya, kültür, kurumlar ve şans dahil çok çeşitli açıklamalar önermiştir; zamanlama konusunda da uzlaşma yoktur.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıla kadar gider ve Avrupa'nın o tarihten beri daha yüksek bir büyüme rotasında olduğunu savunur.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "yüzyıl olduğunu ileri sürer; kanıt olarak beslenme verisini ve Avrupa'nın kronik ticaret açıklarını gösterirler.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Erken tarihlendirmeyi savunanlar Rönesans ile Keşifler Çağı'ndaki merkantilizm ve kapitalizmin kökenlerini, Avrupa sömürge imparatorluklarının yükselişini kesin",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Uzun dönemli karşılaştırmalı büyüme ve gelir düzeyi verisi sunan Maddison Project Database'in 2023 sürümü 169 ülkeyi ve 2022'ye kadarki dönemi kapsar.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Araştırmacılar Büyük Ayrışma'nın neden gerçekleştiğini açıklamak için maden yatakları, coğrafya, kültür, kurumlar ve şans dahil çok çeşitli kuramlar öne sürmüşt",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Büyük, Ayrışma"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bu vurgu doğrudan itiraz görmüştür: Gregory Clark ve David Jacks, kömürün milli gelirde büyük bir kayıp olmadan ikame edilebileceğini göstermiştir.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "McCloskey de kömürün Britanya'ya başka ülkelerden kolayca ithal edilebileceğini ve Çinlilerin sanayilerini kömür yataklarına yaklaştırabileceğini belirtir.",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Avrupa'nın dağ zincirleri, kıyıları ve büyük bataklıkları, çekirdek alanlardan genişleyen devletlerin karşılaşıp durakladığı sınırlar oluşturdu; buna karşılık Ç",
-      "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Yeni Dünya, Avrupa için hem kaynak hem pazar işlevi gördü: kurtarılan ekilebilir alanın büyüklüğü, İngiltere'nin toplam ekili alanının kat kat üzerindeydi.",
-      "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Hindistan örneğinde ise 1757'deki Plassey Savaşı'nın ardından Bengal'den biriken sermayenin Britanya sanayisine yatırıldığı ileri sürülür.",
+      "iddia": "Geleneksel tarihlendirme on altıncı, hatta on beşinci yüzyıla kadar gider ve Avrupa'nın o tarihten beri daha yüksek bir büyüme rotasında olduğunu savunur; Maddi",
       "durum": "OK",
       "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Aynı kaynak karşı kanıtı da kaydeder: Hindistan'da kişi başına gelirdeki gerçek düşüş Britanya sömürgeciliğinden önce, Babür döneminde başlamıştı ve bu düşüşün ",
+      "iddia": "Buna karşılık Pomeranz ve Kaliforniya Okulu'ndan diğerleri en hızlı ayrışma döneminin on dokuzuncu yüzyıl olduğunu ileri sürer; kanıt olarak beslenme verisini v",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Robert Brenner ile Christopher Isett'in 2002'de The Journal of Asian Studies dergisinde yayımlanan makalesi bu ayrımı açık biçimde kurar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kaydın özetine göre Angus Maddison'ın standart okuması Batı Avrupa'nın Çin'i on dördüncü yüzyılda kişi başına başarımda geçtiğini söyler; Pomeranz ise karşılaşt",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Maddison serisinin ülke düzeyindeki değerlerinde kişi başına gelir — 2011 fiyatlarıyla uluslararası dolar cinsinden — 1820'de Çin için 882, Birleşik Krallık içi",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Seri ulusal toplamları ölçer, Pomeranz'ın karşılaştırması ise Yangzi deltası ile İngiltere'yi karşı karşıya getirir; iki ölçüm aynı soruya cevap vermez.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Deepak Lal, Pomeranz'ı değerlendirirken tartışmanın bu ucunu tek cümlede toplar: ona göre maddi farklar eritildikten sonra hem Weber'in hem de daha yakın tariht",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kitabı EH.Net için değerlendiren Bradford De Long'a göre Landes'in iktisat tarihi \"derinden Avrupamerkezci bir tarih\"tir ve bunu özür dilemeden yapar; son beş y",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Landes'in sıraladığı etkenlerin bir bölümü coğrafi, çoğu kültüreldir: üretimin, gücün ve saygınlığın sanayi öncesindeki ince işleyişi Avrasya uygarlıklarına tek",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ona göre Landes'in Avrasya üstünlüğünü iklime bağlayan bölümü ikna edici değildir ve tropik bölgelerdeki yüksek nüfus yoğunlukları bu bölüme karşı örnek oluştur",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Blaut'un 1992'de Political Geography dergisinde yayımladığı tartışma açılışı soruyu 1492'nin anlamı üzerinden kurar; makale derginin on birinci cildinde 355-385",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Kayıtta özet bulunmadığı için künye düzeyinde doğrulanabilen şey bu çerçevenin adıdır: Avrupa'nın yükselişini içsel bir üstünlükle açıklayan anlatıya karşı, 149",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "1998'de University of California Press'ten çıkan ReOrient'in alt başlığı dönemi Asya Çağı'nın küresel ekonomisi diye adlandırır; katalog kaydı kitabı 454 sayfa ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kitabı değerlendiren Deepak Lal'a göre Pomeranz, on sekizinci yüzyılın dönümüne kadar \"Çin ile Avrupa çekirdekleri arasında yaşam standardı bakımından belirgin ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "İkincisi Avrupa'nın Yeni Dünya'yı keşfi ve kısmen ticaret yoluyla işletmesidir; bunun kıtanın toprak sınırını genişlettiğinden değerlendirme de kuşku duymaz.",
       "durum": "OK",
       "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Hindistan'ın dünya üretimindeki payının (%24,9) büyük ölçüde 1600 civarındaki nüfus payının bir işlevi olduğu da belirtilir.",
+      "iddia": "Ansiklopedi kaydına göre Prasannan Parthasarathi, Güney Hindistan'ın bazı bölgelerinde, özellikle Mysore'da ücretlerin Britanya düzeyinde olabileceğini ileri sü",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Lal ayrıca Pomeranz'ın kendisinin de Yeni Dünya'dan gelen toprak yoğun ürün artışının büyük olamayacağını kabul ettiğini not eder ve 1433'ten sonra Çin'in donan",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Jean-Laurent Rosenthal ile Bin Wong'un 2011'de Harvard University Press'ten çıkan kitabını değerlendiren Debin Ma'ya göre yazarlar iddialarını \"birleşik ve merk",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı değerlendirmeye göre Rosenthal ile Wong, Avrupa'daki parçalanmanın ve sürekli savaşın maliyetini uzun süre eksik hesapladığımızı, birleşik Çin'deki barışın",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Mekanizma kentleşme üzerinden işler: savaş Avrupa'da kırsalı şehirlerden daha ağır vurduğundan ticaret ve imalat şehirlerde yoğunlaştı, yüksek şehir ücretleri d",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı değerlendirme, imparatorluk yönetimini Avrupa devletlerinden daha az yağmacı sayan bölümü de zayıf bulur ve temsilin Avrupa'ya, iyi yönetişimin Çin'e özgü ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Bu hattın küresel ayrışmaya doğrudan bağlanan biçimi Daron Acemoğlu, Simon Johnson ve James Robinson'ın 2005 tarihli makalesidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Kaydın özetine göre 1500 sonrasında Batı Avrupa'nın yükselişi büyük ölçüde Atlantik'e erişimi olan ve Yeni Dünya, Afrika ve Asya ile Atlantik üzerinden yoğun ti",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Aynı özete göre başlangıç siyasi kurumları hükümdarı belirgin biçimde sınırlayan ülkelerde Atlantik ticaretinin büyümesi tüccar gruplarını güçlendirdi ve bu gru",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Brenner ile Isett'in makalesi Pomeranz'ın revizyonunu doğrudan hedef alır ve çerçevesini başlığında bildirir: mülkiyet ilişkileri, mikroiktisat ve gelişme örünt",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eric Williams'ın 1944'te yayımlanan Capitalism and Slavery kitabı, kölelikten elde edilen kârların \"İngiltere'de sanayi devrimini finanse eden sermaye birikimin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kitabı değerlendiren Kevin O'Rourke'un aktarımına göre savın iki ayağı vardır: uluslararası ticaret — özellikle Afrika, Batı Hint Adaları ve Amerika'yı kapsayan",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Aynı değerlendirmeye göre kitabın en özgün yanı, Atlantik ticaretine giren Afrika üretimi malların hacmini ölçme denemesidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "O'Rourke kanıt yığınını ikna edici bulur ama nedenselliğe dair çekincesini de yazar: nedenselliği kesinleştiren bir ekonometri ya da benzetim sonucu yoktur, onu",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Jared Diamond'ın 1997'de yayımlanan Guns, Germs and Steel kitabını değerlendiren Joel Mokyr'a göre Diamond kurumları, kültürü, teknolojiyi ve dini reddetmez, bu",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli nüfus serilerinin bu tartışmada arka planda durmasının sebebi budur.",
+      "iddia": "Aynı değerlendirmeye göre coğrafya bilginin dolaşımını da kısıtlar: tarım teknolojisi doğu-batı yönünde kuzey-güney yönüne kıyasla daha kolay yayılır ve bu, Avr",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Teknik yaratıcılığın başlangıçtaki coğrafi donanıma göre kısmi türevi, değerlendirmenin kendi ifadesiyle hâlâ bilinmiyor.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
+      "anahtar": "k4",
+      "iddia": "Kitabı değerlendiren Eric Jones'a göre Wrigley'in bütün çalışmasını bir arada tutan iddia, \"yalnızca ısı enerjisi değil mekanik enerji kaynağı olarak kömüre geç",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İkincisi kitabın fazla teknik kalmasıdır: ona göre kültür ve fikirler neredeyse hiç görünmez, teknik ilerlemeler kendiliğinden çıkıyormuş gibi durur ve İngiliz ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngiliz"
+    },
+    {
       "anahtar": "k1",
-      "iddia": "Pozisyonlar arasındaki tercih, hangi zamanlamanın kabul edildiğine ve hangi veri serisinin ne kadar güvenilir sayıldığına bağlıdır — ayrışmanın ne zaman başladı",
+      "iddia": "Gregory Clark ile David Jacks, kömürün milli gelirde büyük bir kayıp olmadan ikame edilebileceğini gösterir; Deirdre McCloskey ise kömürün Britanya'ya başka ülk",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Ölçek seçimi — ulusal toplam mı, çekirdek bölge mi — yapıldığı anda sonucu büyük ölçüde belirler, ve iki tarafın da bu seçimi bağımsız bir ölçütle savunması bek",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Sömürge kanalının büyüklüğü nicel olarak kapanmış değildir; ticaretten icada giden mekanizmanın kanıtlanmış sayılmadığı, savı benimseyen değerlendirmelerde bile",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kültürel açıklamaların ise kendi kökeni sorusu durur: Landes'in saydığı açıklık ve devlet biçimi, kendileri açıklanmayı bekleyen sonuçlardır.",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

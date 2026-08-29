@@ -1,5 +1,5 @@
 ## olay-berlin-duvarinin-yikilisi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:00.259Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:26.089Z_
 
 - [OK]      k1 → "Kaynak olayı tek bir yıla ve dört ayrı yere birden bağlar: 1989'da duvarın yıkılışı, Doğu Berlin ile Doğu Alma…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bir sınırın yıkılışının dört ayrı idari birim altında kaydedilmesi, bölünmenin yalnızca bir çizgi değil bir ku…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

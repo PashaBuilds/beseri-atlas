@@ -1,5 +1,5 @@
 ## kavram-longue-duree
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:11.617Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:37.494Z_
 
 - [ATOMSUZ] k1 → "Kaynak bu kurguda üçüncü düzeyi olayların zamanı olarak tanımlar ve bunun adı olan bireylerin tarihi olduğunu,…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak ikinci düzeyde iktisadi, toplumsal ve kültürel tarihin bulunduğunu ve bu düzeyde değişimin çevreninkind…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

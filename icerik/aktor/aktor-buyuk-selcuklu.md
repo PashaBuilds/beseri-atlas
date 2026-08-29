@@ -27,6 +27,7 @@ ilgili:
   - olay-hacli-seferleri
   - kaynak-yusuf-has-hacib-kutadgu-bilig
   - olay-bagdat-kusatmasi-1258
+  - tartisma-hacli-seferlerinin-nedeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

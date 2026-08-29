@@ -1,5 +1,5 @@
 ## dusunur-du-bois
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:08.687Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:34.544Z_
 
 - [OK]      k1 → "Du Bois, Amerika Birleşik Devletleri'nde doğmuş, Almanya'da ve Amerika'da eğitim görmüş ve akademik kariyeriyl…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k3 → "Du Bois, Amerika Birleşik Devletleri'nde doğmuş, Almanya'da ve Amerika'da eğitim görmüş ve akademik kariyeriyl…" — 2 atom doğrulandı; 2 ad ölçülemedi

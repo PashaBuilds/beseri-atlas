@@ -1,5 +1,5 @@
 ## aktor-hive-hanligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:05.741Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:31.592Z_
 
 - [OK]      k1 → "Hîve Hanlığı, on altıncı yüzyıl başında bir nehrin aşağı havzasında kurulan ve yirminci yüzyıl başına kadar sü…"
 - [ATOMSUZ] k2 → "Hanlığın yerleşik nüfusu, nehrin suladığı vaha ile sınırlıydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## olay-arap-bahari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:00.006Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:25.833Z_
 
 - [OK]      k1 → "Bu dalganın referans maddesi tek bir tarih vermez; ülke ülke ayrı tarihler sıralar: Tunus 2010-2011, Mısır 201…" — 6 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bir ülkenin süresinin on dört yıla uzarken diğerlerinin tek bir yıl olarak verilmesi, "dalga" nitelemesinin ba…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

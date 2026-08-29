@@ -1,61 +1,301 @@
 {
   "id": "tartisma-sanayi-devrimi-neden-ingiltere",
   "gecis": 2,
-  "zaman": "2026-08-29T04:48:14.405Z",
-  "govde_hash": "6ebf294e5743",
-  "commit": "58a10ea",
+  "zaman": "2026-08-29T11:04:59.085Z",
+  "govde_hash": "9c8608067429",
+  "commit": "7549ec6",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Bu haritanın çıkış noktası kaynağın başlık seçimidir: nedenler kesin bir liste olarak değil olası etkenler başlığı altında sıralanır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k6",
+      "iddia": "Kenneth Pomeranz'ın 2000 tarihli kitabını değerlendiren Deepak Lal aynı soruyu, bilim insanlarını yüz yılı aşkın süredir kışkırtan soru diye tanıtır.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, olası etkenler başlığı altında şunları sayar: kömür, Yeni Dünya, köle ticareti, siyasi parçalanmışlık, diğer coğrafi etkenler, piyasaların etkinliği ve ",
+      "iddia": "Robert Allen'ın kitabındaki merkezî bölüm tam olarak bu başlığı taşır ve Britanya'yı önce Çin'le, sonra Fransa'yla karşılaştırır.",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bu kalemlerden birinin adı, listede yirminci yüzyılda ortaya çıkmış bir terimle verilmiştir; atlas o terimi burada anmaz ve kalemi tarif ederek geçer, çünkü dos",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Taraflar birbirini büsbütün dışlamaz da: Allen kültürü, tüketimi ve mülkiyet haklarını gerekli ama yetersiz sayar; Deirdre McCloskey rakip açıklamaların her bir",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Taraflar birbirini büsbütün dışlamaz da: Allen kültürü, tüketimi ve mülkiyet haklarını gerekli ama yetersiz sayar; Deirdre McCloskey rakip açıklamaların her bir",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, sanayi öncesi ileri bölgeler başlığı altında altı alt başlık tutar: Çin, Batı Avrupa, Hindistan, Orta Doğu, Japonya ve Sahra altı Afrika.",
+      "iddia": "Kitabı EH.Net için değerlendiren Tim Leunig bu konumu Rothbarth-Habakkuk çizgisinin devamı sayar ve Allen'ın kendi formülünü aktarır: \"ücretler dikkat çekici öl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Cambridge University Press'in 2009'da yayımladığı The British Industrial Revolution in Global Perspective 331 sayfadır ve on sekizinci yüzyıl Britanyası'nın ikt",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Allen buharı, pamuğu ve demiri ayrı bölümlerde bu fiyat mantığıyla ele alır; Leunig'e göre onu salt bir fiyat kuramcısından ayıran şey, icadı fiyat oranlarının ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Standart anlatıda tarımsal verimlilik artışı insanları serbest bırakıp şehirlere gönderirken, Leunig'in özetine göre Allen'da sıra terstir: yüksek şehir ücretle",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı dizinin dördüncü bölümü ucuz enerji ekonomisini karşılaştırmalı olarak ele alır ve ucuz kömürü Britanya'nın iktisadi başarısının bir temeli sayar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Onuncu bölüm ise doğrudan Joel Mokyr'ın tezine ayrılmıştır ve aynı hükmü orada da yineler: aydınlanmış iktisat gerekliydi, yeterli değildi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Joel Mokyr'ın 2010'da Princeton University Press'ten çıkan ve 1700-1850 aralığını kapsayan The Enlightened Economy kitabı cevabı inançlarda arar; kitabı değerle",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kavramın ağırlığı kitabın mimarisinden okunur; Harley'nin sayımına göre yirmi bölümün beşinin başlığında Aydınlanma sözcüğü geçer.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı değerlendirmeye göre kitap, sanayi aydınlanmasının Britanya'ya özgü olduğunu göstermekte tam olarak ikna edici değildir; buna karşılık fikirler tarihinin h",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Deirdre McCloskey'nin 2010 tarihli Bourgeois Dignity kitabı dört ciltlik bir dizinin ikinci halkasıdır ve 571 sayfada kırk altı kısa bölüm tutar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kitabı değerlendiren Jared Rubin'in özetine göre McCloskey, Batı gelirlerinin sanayileşme öncesindeki günlük üç dolarlık ortalamadan bugünkü düzeye çıkışını açı",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Tüccara, mucide ve tacire tanınan onur ile özgürlük, daha geniş bir kesime burjuva olma hevesi verdi; Rubin bu tezi kültürel ama alışılmış kültür açıklamalarınd",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İkincisi kökendir: burjuva onurunun nereden geldiği McCloskey'nin kitabında cevapsız kalır ve kurumsalcılar bu boşluğa kendi açıklamalarını yerleştirebilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kurumsal cevabın klasik metni, Douglass North ile Barry Weingast'ın 1989'da Journal of Economic History dergisinde yayımlanan makalesidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kaydın özetine göre makale, 1688 Şanlı Devrimi'nin ardından İngiltere'deki anayasal düzenlemelerin evrimini inceler ve kurumsal değişimi kazananların hedefleriy",
       "durum": "OK",
       "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Sorunun bu haliyle bir karşılaştırma sorusu olarak kurulmuş olması, atlasın şu kuralının dayanağıdır: bu dosyada soru, bir bölgenin üstünlüğü olarak değil bölge",
+      "anahtar": "k5",
+      "iddia": "Yazarların savı, yeni kurumların İngiltere'de yönetimin mülkiyet haklarına uyacağına dair güvenilir bir taahhüt vermesini mümkün kıldığıdır; kanıt olarak sermay",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "McCloskey'yi değerlendiren yazıya göre itiraz tersinden de kurulabilir; kültürel tutumlar kurumlara içsel ise, onur kaymasının kökeninde yine kurumlar aranmalıd",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k2",
-      "iddia": "yüzyıl başında karşılaştırılabilir iktisadi gelişme düzeylerine ulaştığını savunduğunu ve ayrışmanın ancak 1800'den sonra kömür ve sömürge mülkleri sonucunda ba",
+      "anahtar": "k1",
+      "iddia": "Allen'ı değerlendiren yazı ise mülkiyet haklarını gerekli ama yetersiz sayan konumu kaydeder.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kitabı değerlendiren Deepak Lal'a göre Pomeranz, on sekizinci yüzyılın dönümüne kadar Çin ile Avrupa çekirdekleri arasında yaşam standardı bakımından belirgin b",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "İkincisi Yeni Dünya'dır; keşif ve ticaret Avrupa'nın toprak sınırını genişletti.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı değerlendirme, Pomeranz'ın kendisinin de Yeni Dünya'dan gelen toprak yoğun ürün artışının büyük olamayacağını kabul ettiğini not eder ve açıklamayı kültüre",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Eric Williams'ın doktora tezinin yayımlanmış hâli olan Capitalism and Slavery 1944'te çıktı; yazar 1962'de Trinidad ve Tobago'nun başbakanı oldu.",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k3",
-      "iddia": "Birincil enerji tüketimi serisinde dünya toplamı 1800 için 97 TWh, 2025 için 166.753,6 TWh'dir.",
+      "anahtar": "k11",
+      "iddia": "Williams, köleliğin Britanya ekonomisinin gelişmesinde büyük rol oynadığını, kölelikten elde edilen yüksek kârların Sanayi Devrimi'nin finansmanına yardımcı old",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kitabı değerlendiren Kevin O'Rourke'a göre Inikori, dış ticaretin — özellikle Afrika, Batı Hint Adaları ve Amerika'yı kapsayan Atlantik havzasıyla ticaretin — s",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Inikori'nin özgün katkısı, İngiliz sanayileşmesinin bir bölümünü yeniden ihracat ikamesi olarak okumasıdır: İngiliz tüccarlar daha önce Kıta Avrupası ya da Asya",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "O'Rourke kitabın kanıt yığınını ikna edici bulur ama nedenselliğe dair çekincesini de yazar: teknik değişimi tetikleyen mekanizma metinde kesin biçimde tarif ed",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "İngiltere'nin bölgeleri demiryolundan önce birbirine büyük ölçüde bağlı olmadığı için ayrı gözlemler sayılabilir; buradan bakınca tarımsal dönüşüm güneyde, sana",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "O'Rourke bu kurguyu aktarırken kliometrisyenin arayacağı kanıtın eksik kaldığını da yazar: bölgelerin birbirinden kopukluğunu gösterecek fiyat verisi de İngiliz",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngiliz"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Stanley Engerman'ın hesabına göre köle ticaretinden ve Batı Hint Adaları plantasyonlarından gelen toplam kâr, sanayileşme yıllarının herhangi birinde Britanya e",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Seymour Drescher'in 1977 tarihli Econocide kitabı ise 1807'deki yasağı köleliğin değer kaybına değil, oy verebilen Britanya kamuoyunun ahlaki tepkisine bağlar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Aynı kayıt Williams'ı savunan tarafı da not eder: Hilary Beckles 2004'te kitabın Karayipler'deki akademik saygınlığına dikkat çeker, Carrington ise 1984 tarihli",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Jane Humphries'in 2013 tarihli makalesi başlığında iki itirazı birden adlandırır — toplulaştırılmış verinin cazibesi ve ataerkil bakış açısının tuzakları —, alt",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Başlık 1650-1800 arası Londra inşaat işlerini konu alır; gerçek sözcüğünü tırnağa alıp ücret sorusunu soru işaretiyle açık bırakır ve yanına müteahhitleri, işçi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k13",
+      "iddia": "Okumanın erken ifadesi Knick Harley'nin 1982'de Journal of Economic History dergisinde yayımladığı makaledir: yeni sanayi üretimi endekslerine göre Britanya'nın",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Nicholas Crafts ile Harley'nin 1992'de Economic History Review dergisinde yayımladığı makale bu okumanın yeniden ifadesidir; başlık onu Crafts-Harley görüşü ola",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Maddison serisindeki Birleşik Krallık rakamları bu okumayla uyumlu görünür: kişi başına gelir 1760'ta yaklaşık 2.915, 1820'de yaklaşık 3.306, 1870'te ise yaklaş",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Altmış yılda yüzde on beşi bulmayan bir artışın ardından sonraki elli yılda yüzde yetmişi aşan bir büyüme, hızlanmanın klasik 1760-1830 penceresinden sonraya dü",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Atlas bu seriyi kömür pozisyonunun kanıtı olarak sunmaz: seri dünya toplamını verir, Britanya'yı ayrı vermez ve enerji kaynaklarına göre dağılımı bu dosyada kul",
+      "iddia": "Allen'ın kitabını değerlendiren yazı da Crafts'ın 1985 tarihli çalışmasını bu tartışmanın referans noktası olarak anar.",
       "durum": "OK",
       "not": ""
     },
     {
+      "anahtar": "k1",
+      "iddia": "Fiyat verisi ile teknoloji tarihi Allen'ın çerçevesinde en dolaysız karşılığını bulur; kurumsal değişimin zamanlaması ve sermaye piyasası kayıtları North ile We",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Fiyat verisi ile teknoloji tarihi Allen'ın çerçevesinde en dolaysız karşılığını bulur; kurumsal değişimin zamanlaması ve sermaye piyasası kayıtları North ile We",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Fiyat verisi ile teknoloji tarihi Allen'ın çerçevesinde en dolaysız karşılığını bulur; kurumsal değişimin zamanlaması ve sermaye piyasası kayıtları North ile We",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
       "anahtar": "k3",
-      "iddia": "Atlas bu seriyi kömür pozisyonunun kanıtı olarak sunmaz: seri dünya toplamını verir, Britanya'yı ayrı vermez ve enerji kaynaklarına göre dağılımı bu dosyada kul",
+      "iddia": "Sanayi aydınlanmasının Britanya'ya özgülüğü, Mokyr'ı değerlendiren yazının da çözemediği noktadır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Burjuva onurunun kökeni McCloskey'nin kitabında cevapsız kalır ve kurumların kendisinin nereden geldiği kurumsal çerçevenin içinde durur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Kölelik kârlarının Britanya ekonomisi içindeki ağırlığı birbirinden uzak tahminlerle ölçülmeye devam eder; yüksek ücret tezinin dayandığı seriler de Humphries i",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yer sorusu ile zaman sorusunun birlikte cevaplanma zorunluluğu da sürüyor: bir etken Britanya'yı komşularından ayırıyorsa neden tam o yüzyılda etkili olduğu, za",
       "durum": "OK",
       "not": ""
     }

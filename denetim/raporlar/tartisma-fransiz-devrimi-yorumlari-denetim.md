@@ -1,14 +1,69 @@
 ## tartisma-fransiz-devrimi-yorumlari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:13.423Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T11:01:43.772Z_
 
-- [ATOMSUZ] k1 → "yüzyılda hiçbir tek açıklayıcı model yaygın kabul görmemiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "yüzyıla gelindiğinde devrim tarihinin profesyonelleştiğini ve araştırmacıların kamu arşivlerindeki birincil ka…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, 1920'lerin sonundan 1960'lara kadar toplumsal ve iktisadi yorumların, sıklıkla Marksçı bir bakış açısı…" — 5 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "yüzyıl başlığı altında ise Adolphe Thiers, François Mignet, Thomas Carlyle, Jules Michelet, Alexis de Tocquevi…"
-- [ATOMSUZ] k1 → "Bir tartışmanın tarihçi adlarıyla bölümlenmesi, atlasın tartışma dosyalarında pozisyonları savunan adıyla tutm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Adı geçen tarihçilerden biri için tutulan ayrı kayıt, onun başlıca eserlerini Amerika'da Demokrasi (1835) ve E…" — 4 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k1 → "Kaynak, 1980'lerden bugüne başlığı altında kültürel çalışmalar, kadınlar ve toplumsal cinsiyet, sömürgesizleşm…"
-- [ATOMSUZ] k1 → "Tek bir modelin yerini konu başlıklarının alması, dördüncü pozisyonun dayanağıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "İkinci pozisyonun bağlı olduğu gelenek için tutulan kayıt, tarihsel sürecin sınıf mücadeleleriyle nitelenen bi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "yüzyıl yazıları başlıca ideolojik çizgilerde ayrışmıştı: muhafazakâr tarihçiler Devrim'i kınadı, liberaller 17…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "yüzyılda devrim tarihi profesyonelleşti ve araştırmacılar kamu arşivlerindeki birincil kaynakların eleştirel ç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Aynı kayda göre 1920'lerin sonundan 1960'lara kadar toplumsal ve iktisadi yorumlar, sıklıkla Marksçı bir bakış…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Kaynağın kendi bilançosuna göre Devrim'in Batı tarihinde modern öncesi ile modern çağlar arasındaki eşik olduğ…" — programatik olarak ölçülemedi (ad karşılığı yok): Devrim, Batı
+- [ATOMSUZ] k1 → "yüzyıl kaydına göre hiçbir tek açıklayıcı model yaygın kabul görmemiş, alan kültürel tarihler, kadınlar ve top…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kaynağa göre Devrim üzerine ilk yazılar olaylarla neredeyse eşzamanlıydı ve aralarında Edmund Burke'ün 1790 ta…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Burke'ün savı, aynı kaynağın aktarımıyla, Eski Rejim'in istikrarlı ve yaşayabilir olduğu, yalnızca ölçülü bir …" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k9 → "Kraliçenin uğradığı saldırıyı anlattığı sayfada şövalyelik çağının bittiğini, yerini sofistlerin, iktisatçılar…"
+- [OK]      k9 → "Kraliçenin uğradığı saldırıyı anlattığı sayfada şövalyelik çağının bittiğini, yerini sofistlerin, iktisatçılar…"
+- [ATOMSUZ] k9 → "Karşılık olarak öne sürdüğü ortaklık kavramı ise eşit haklar ile eşit paylar arasında ayrım yapar: bir ortaklı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k10 → "Ona göre hiçbir parlamento ya da kuşak, sonraki kuşakları sonsuza dek bağlama yetkisine sahip değildir; mezarı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k10 → "Formülü kısadır: "It is the living, and not the dead" Paine, 1688 parlamentosunun bugünkü halkı bağlayamayacağ…"
+- [OK]      k10 → "Formülü kısadır: "It is the living, and not the dead" Paine, 1688 parlamentosunun bugünkü halkı bağlayamayacağ…"
+- [OK]      k1 → "Albert Mathiez, kaynağın aktarımıyla, 1789 Devrimi'ni aristokrasi ile burjuvazi arasındaki sınıf çatışmasının …" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Mathiez Robespierre'i savunur, Terör'ü demokratik cumhuriyetçi devrimi korumanın gereği sayar ve Devrim'in 9 T…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Kaynağa göre Devrim'in burjuvazinin zaferini temsil ettiğini ve Terör'ün bir aristokrat komplosuna tepki olduğ…" — programatik olarak ölçülemedi (ad karşılığı yok): Devrim, Terör
+- [OK]      k1 → "Sorbonne'daki kürsüsünde Albert Soboul, George Rudé ve Richard Cobb dahil bir tarihçi kuşağı yetiştirdi."
+- [OK]      k2 → "Tek bir yılı anlatan kitabının kütüphane kaydına göre metin 1939'da Devrim'in yüz ellinci yılı için yayımlandı…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k2 → "Kitabın bölümlenmesi tezini de verir: aristokratik devrim, burjuva devrimi, halk devrimi, köylü devrimi, insan…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kaynağa göre 1968'den 1982'ye kadar Sorbonne'da Fransız Devrimi Tarihi kürsüsünü tuttu ve halk hareketlerinin …" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "1958'de Paris'te yayımlanan sans-culotte incelemesi 1964'te The Parisian Sans-Culottes and the French Revoluti…"
+- [OK]      k3 → "1958'de Paris'te yayımlanan sans-culotte incelemesi 1964'te The Parisian Sans-Culottes and the French Revoluti…"
+- [OK]      k1 → "1958'de Paris'te yayımlanan sans-culotte incelemesi 1964'te The Parisian Sans-Culottes and the French Revoluti…"
+- [OK]      k1 → "1962 tarihli genel tarihinde ise Devrim'i, burjuvaziyi egemen sınıf hâline getiren uzun iktisadi ve toplumsal …" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Alfred Cobban, kaynağın aktarımıyla, Marksçı toplumsal ve iktisadi açıklamalara iki çalışmayla itiraz etti: 19…"
+- [ATOMSUZ] k1 → "Cobban'a göre Devrim öncelikle toplumsal değil siyasi bir çatışmaydı; onu başlatan yükselen bir kapitalist bur…" — programatik olarak ölçülemedi (ad karşılığı yok): Devrim
+- [ATOMSUZ] k1 → "Aynı okumada Devrim'in kazananları büyük ve küçük muhafazakâr mülk sahipleridir; kaynak bu sonucun iktisadi ge…" — programatik olarak ölçülemedi (ad karşılığı yok): Devrim
+- [ATOMSUZ] k4 → "Kitabın kendi bölümlenmesi itirazın niteliğini gösterir: feodalitenin anlamı, senyörlük haklarına saldırı, dev…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Bölüm başlıklarından biri savı doğrudan soru biçiminde taşır: "Who were the revolutionary bourgeois?" İtiraz k…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Kaynağa göre 1967 tarihli Noncapitalist Wealth and the Origins of the French Revolution makalesinde ve başka d…"
+- [OK]      k12 → "Makalenin bibliyografik kaydı yazarı, yılı ve dergiyi doğrular: American Historical Review, 1967."
+- [OK]      k1 → "François Furet, kaynağa göre Jakoben-Marksçı yorumların önde gelen Fransız eleştirmeniydi; Denis Richet'yle bi…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Furet daha sonra siyasal olayların çözümlemesi ile çok daha uzun bir zaman diliminde gerçekleşen toplumsal ve …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kaynağın aktarımıyla Furet, Jakoben-Marksçı yorumların totaliter bir eğilim barındırdığını ve Devrim'i anakron…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Alexis de Tocqueville ile Augustin Cochin'den etkilenen Furet, Fransızların Devrim'i modern Fransız tarihinin …"
+- [OK]      k5 → "Penser la Révolution française'in 1981 tarihli İngilizce çevirisinin kütüphane kaydı bu yönelimi konu başlıkla…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "yüzyıl İngilizce dünyasında etkiliydi; yazar Devrim'in pratik deneyimden yoksun düşünürlerce yönlendirildiğini…" — programatik olarak ölçülemedi (ad karşılığı yok): İngilizce, Devrim
+- [ATOMSUZ] k1 → "Aynı kayda göre katkısı yeni açılan Fransız arşivlerini yoğun kullanması ve Devrim'in çok nedenli olduğunda ıs…" — programatik olarak ölçülemedi (ad karşılığı yok): Fransız, Devrim, Eski, Rejim
+- [OK]      k11 → "Tocqueville, idari merkezîleşmenin Fransa'da 1789 Devrimi'nden önce var olan bir kurum olduğunu ve yaygın kanı…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k11 → "Tocqueville, idari merkezîleşmenin Fransa'da 1789 Devrimi'nden önce var olan bir kurum olduğunu ve yaygın kanı…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Kaynağa göre Batılı araştırmacılar burjuvazi-proletarya sınıf mücadelesi terimleriyle kurulan Marksçı yorumlar…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Çizginin öne çıkan çalışmaları arasında Robert Darnton'ın 1982 tarihli kitabı, Keith Michael Baker'ın 1990 tar…"
+- [ATOMSUZ] k6 → "Kitap iki kısma ayrılır: iktidarın poetikası — devrimin retoriği, siyasal pratiğin simgesel biçimleri, radikal…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Düzenleme, retoriği ve simgeyi sonucun süsü değil siyasal pratiğin kendisi sayar; sınıf kavramı atılmaz ama ar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Aynı yazarın 1992 tarihli The Family Romance of the French Revolution çalışması da bu çizgide anılır."
+- [OK]      k1 → "yüzyılın ikinci yarısındaki devrimci çatışmaların bir Atlantik devrimi ya da batı devrimi oluşturduğunu savund…"
+- [OK]      k7 → "Kitabın kütüphane kaydı ölçeği alt başlığında taşır: Avrupa ile Amerika'nın 1760-1800 arasındaki siyasi tarihi…"
+- [OK]      k1 → "Cox'un aktarımına göre Marksist tarihçiler Palmer'ı NATO'ya tarihsel meşruiyet sağlamakla suçladı, Fransız mil…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "David Armitage'ın değerlendirmesine göre Palmer'ın çalışması Haiti Devrimi'ni ve İberik Amerika'yı dışarıda bı…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "James'in 1938 tarihli The Black Jacobins'i durur."
+- [OK]      k8 → "James'in 1938 tarihli The Black Jacobins'i durur."
+- [OK]      k8 → "Kitabın bölümlenmesi iki devrimi tek bir anlatıda tutar: San Domingo kitleleri başlar, Paris kitleleri tamamla…"
+- [OK]      k1 → "Kaynağa göre son dönem araştırmaları James'in ve Aimé Césaire'in Jakoben-Marksçı yaklaşımından büyük ölçüde uz…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Ulusaşırı ve küresel yorumlar alanın başlıca çalışma başlıklarından biri hâline geldi; 2013 tarihli The French…"
+- [OK]      k1 → "Mathiez'in okumasında Terör, demokratik cumhuriyeti savunmanın gereğidir; Burke'ün metninde ise devrimci şidde…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Mathiez'in okumasında Terör, demokratik cumhuriyeti savunmanın gereğidir; Burke'ün metninde ise devrimci şidde…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k11 → "Tocqueville'in bölüm başlığı idari merkezîleşmeyi Devrim'den önceye koyar; Lefebvre'in bölümlenmesi ise aynı y…" — programatik olarak ölçülemedi (ad karşılığı yok): Devrim, Lefebvre
+- [OK]      k2 → "Tocqueville'in bölüm başlığı idari merkezîleşmeyi Devrim'den önceye koyar; Lefebvre'in bölümlenmesi ise aynı y…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Palmer'ın Atlantik çerçevesi Fransız istisnacılığını reddediyor; Armitage'ın itirazı ise aynı çerçevenin Haiti…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Palmer'ın Atlantik çerçevesi Fransız istisnacılığını reddediyor; Armitage'ın itirazı ise aynı çerçevenin Haiti…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Cobban Marksçı modele ampirik bir itiraz getirir, yerine karşılaştırılabilir bir büyük anlatı önermez; Furet'n…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Cobban Marksçı modele ampirik bir itiraz getirir, yerine karşılaştırılabilir bir büyük anlatı önermez; Furet'n…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k6 → "Cobban Marksçı modele ampirik bir itiraz getirir, yerine karşılaştırılabilir bir büyük anlatı önermez; Furet'n…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k1 → "yüzyıl kaydına göre bu çizgilerden hiçbiri yaygın kabul görmüş bir model üretmedi; alanın bugünkü hâli bir uzl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 4 OK · 0 ISARET · 0 HATA · 5 ATOMSUZ
+**Özet:** 47 OK · 0 ISARET · 0 HATA · 17 ATOMSUZ

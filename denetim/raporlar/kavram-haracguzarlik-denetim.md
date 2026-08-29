@@ -1,5 +1,5 @@
 ## kavram-haracguzarlik
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:10.798Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:36.685Z_
 
 - [ATOMSUZ] k1 → "Kaynak, uygulamada başlığı altında beş alt başlık tutar: meşruiyet, özerklik, haraç, kültür ve törenler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir bağlılık sisteminin ansiklopedi maddesinde özerkliğin ayrı bir alt başlık taşıması, atlasın şu kuralının d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

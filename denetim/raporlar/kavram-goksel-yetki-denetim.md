@@ -1,5 +1,5 @@
 ## kavram-goksel-yetki
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:10.740Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:36.627Z_
 
 - [ATOMSUZ] k1 → "Kaynak, yönetme hakkı ile isyan hakkını tek bir bölüm başlığı altında birlikte tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir meşruiyet öğretisinin isyan hakkını da aynı başlıkta taşıması, atlasın şu kuralının dayanağıdır: bu dosyad…" — programatik olarak ölçülemedi (ad karşılığı yok): Göksel, Yetki

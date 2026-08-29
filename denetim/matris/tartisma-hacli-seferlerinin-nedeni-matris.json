@@ -1,0 +1,711 @@
+{
+ "id": "tartisma-hacli-seferlerinin-nedeni",
+ "govde_hash": "48054596d8ea",
+ "commit": "7549ec6",
+ "zaman": "2026-08-29",
+ "hakem": "kor-hakem-2026-08-29",
+ "iddialar": [
+  {
+   "iddia_id": "i001",
+   "cumle": "Giles Constable 2001 tarihli incelemesinde çağdaş haçlı araştırmalarını dört öbeğe ayırır ve dördünün farklı sorular sorduğunu gösterir: geleneksel okuma bir seferin nereye gittiğini sorar ve haçlı seferlerini Doğu'daki Latin devletlerinin düşüşüyle bitirir; çoğulcu okuma bir seferin nasıl başlatılıp örgütlendiğini sorar ve hikâyeyi hem coğrafi hem zaman bakımından genişletir.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: 'The traditionalists ask where a crusade was going and therefore hold that the crusades basically ended with the fall of the crusader states in the east. The pluralists, on the other hand, ask how a crusade was initiated and organized and thus extend the history of the crusades not only geographically but also chronologically'"
+  },
+  {
+   "iddia_id": "i002",
+   "cumle": "Yanına iki öbek daha katılır: katılanların iç hâlini merkeze alan ruhsal-ruhbilimsel okuma ile haçlı seferini kutsal savaşın kendisiyle özdeşleştiren genelci okuma.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: 'another group of scholars adhere to what may be called a spiritual or psychological definition that emphasizes the inner spirit and motives of the crusaders' ve 'a group of historians who can be called generalists and who broadly identify the crusades with holy war'; k1: 'Popularists including Paul Alphandery and Etienne Delaruelle focus on the popular groundswells of religious fervour and Generalists such as Ernst-Dieter Hehl focus on the phenomenon of Latin holy wars'"
+  },
+  {
+   "iddia_id": "i003",
+   "cumle": "Kasım 1095'teki bir konuşmanın nedeni, iki yüzyıl boyunca sefer üstüne sefer örgütleyen kurumların nedeni ve savaşın kutsanabildiği bir fikrin nedeni ayrı ayrı sorulardır.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Olcek ayrimi yazarin cercevesidir; k2 bunu dolayli destekler: makale hem Erdmann'in 'origin of the idea' odagini hem de tanim tartismasini ayri katmanlar olarak isler. Kasim 1095 tarihi k2 metninde gecer (Urban II'nin cagrisi), ama 'uc ayri soru' formulasyonu yazara aittir."
+  },
+  {
+   "iddia_id": "i004",
+   "cumle": "Üstelik aynı olaya Batı yazını ile Türkçe yazın farklı yerlerden bakar: Işın Demirkent'e göre hareketin çıkış sebebi alanın en çok uğraştığı konudur ve Batı'nın bu konuda verdiği cevap yanlıştır.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k4: 'Hareketin meydana cikis sebebi, Hacli seferleri tarihi uzerinde calisan ilim adamlarini mesgul eden en onemli konudur' ve 'Bati dunyasi Hacli seferlerinin asil etkeninin dini unsurlar oldugu kanaatindedir. Halbuki ... aslinda siyasi, sosyal ve ekonomik sebeplerdir'"
+  },
+  {
+   "iddia_id": "i005",
+   "cumle": "Chartres'lı Fulcher'in aktarımında Papa İkinci Urbanus, Türklerin Roma topraklarına Akdeniz'in Aziz Georgios Kolu denen boğazına kadar girdiğini, kiliseleri yıktığını ve Hristiyanları esir aldığını anlatır; sonra yola çıkanlardan yolda, denizde ya da savaşta canını verenlerin günahlarının bağışlanacağını Tanrı'nın kendisine verdiği yetkiyle ilan eder.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k3 (Fulcher): 'have advanced as far into the Roman territory as that part of the Mediterranean which is called the Arm of St. George; and, by seizing more and more of the lands of the Christians ... have destroyed the churches'; 'if those who set out thither should lose their lives on the way by land, or in crossing the sea, or in fighting the pagans, their sins shall be remitted. This I grant to all who go, through the power vested in me by God.' KOR HAKEM DUZELTMESI: onceki metin 'Arm of St. George'u 'Marmara' diye veriyordu; ifade Bogaz'i adlandirir, kaynagin kendi terimine cekildi."
+  },
+  {
+   "iddia_id": "i006",
+   "cumle": "Aynı aktarımda Urbanus, birbirine karşı savaşan şövalyelere yeni bir hedef gösterir: uzun süredir soygunculuk yapanlar artık Mesih'in askeri olsun.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k3 (Fulcher): 'Let these who for a long time have been robbers now become soldiers of Christ'"
+  },
+  {
+   "iddia_id": "i007",
+   "cumle": "Bu metinde Urbanus, dinleyicilerine oturdukları ülkenin denizle ve dağlarla kuşatıldığını, kalabalık nüfuslarına dar geldiğini, zengin olmadığını ve ekicilerini zar zor doyurduğunu söyler; birbirinizi bunun için öldürüyorsunuz, der ve Kutsal Kabir'in yolunu gösterir.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k3 (Robert the Monk): 'this land which you inhabit, shut in on all sides by the sea and surrounded by mountain peaks, is too narrow for your large population; nor does it abound in wealth; and it furnishes scarcely food enough for its cultivators. Hence it is that you murder and devour one another' ve 'Enter upon the road to the Holy Sepulchre'"
+  },
+  {
+   "iddia_id": "i046",
+   "cumle": "Konuşmanın metnini veren yazarlar, Krey'in notuna göre bunu olaydan yıllar sonra kaleme aldı ve her biri konuşmanın kendisine seslenen yanını öne çıkardı; en erken aktarım büyük olasılıkla Fulcher'inkidir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k3 (derleyicinin ara notu): 'The four writers who were presumably present wrote their versions of the speech several years after it occurred, that of Fulcher being perhaps the earliest. Each may have preserved notes taken at the time, but it is extremely interesting to observe that each stresses that phase of the speech which especially appealed to him.' KOR HAKEM: onceki matriste bu yari k2'ye kismi olarak baglanmisti ve 'bu kunyede acik bir cumle yok' deniyordu; k3'te acik cumle vardir."
+  },
+  {
+   "iddia_id": "i008",
+   "cumle": "Constable'a göre Urbanus'un çağrısının içeriği — Doğu'daki Hristiyanlara yardım ile Kudüs'ün kurtarılmasına verdiği göreli ağırlık dâhil — bugün hâlâ araştırmanın açık sorularından biridir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: 'Among the many questions that have been raised are not only those, mentioned above, of the content of Urban's crusading appeal, especially the relative importance he gave to helping Christians in the east and to freeing Jerusalem'. KOR HAKEM: cumlenin 'metinler olaydan sonra yazildi' yarisi ayrilip i046 olarak k3'e baglandi; kalan yari k2'de dogrudandir, bu yuzden kismi'den dogrudan'a cikti."
+  },
+  {
+   "iddia_id": "i009",
+   "cumle": "Carl Erdmann 1935'te yayımlanan Die Entstehung des Kreuzzugsgedankens ile soruyu olaydan fikre kaydırdı; kitap 1977'de Princeton'da The Origin of the Idea of Crusade adıyla İngilizceye çevrildi.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k5 katalog: 'Publication date 1977', 'Princeton, N.J. : Princeton University Press', 'Translation of Die Entstehung des Kreuzzugsgedankens'; k2: 'Erdmann, Die Entstehung des Kreuzzugsgedankens ... (Stuttgart, 1935)' ve 'appeared in English in 1977 as The Origin of the Idea of Crusade'"
+  },
+  {
+   "iddia_id": "i010",
+   "cumle": "Erdmann'ın merkezine koyduğu şey seferin kendisi değil, on birinci yüzyıl boyunca papalığın şövalyeliği kilisenin hizmetine bağlayan siyasetiydi; onun okumasında Kudüs yürüyüşün hedefiydi, savaşın hedefi ise Doğu Hristiyanlığının kurtarılmasıydı ve hac teması sonradan eklenmişti.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: 'For Erdmann ... Jerusalem was the immediate goal of the campaign (Marschziel), but liberation of Eastern Christianity from the infidel remained the fundamental aim of the war (Kampf- or Kriegsziel)'; ayni notta hac icin 'a late addition'; papalik siyaseti icin 'the policy of the papacy, which Erdmann examined especially in the second half of the eleventh century'"
+  },
+  {
+   "iddia_id": "i011",
+   "cumle": "Constable'ın değerlendirmesi açıktır: yirminci yüzyılda yazılmış başka hiçbir eser haçlı çalışmalarının yönünü Erdmann'ın kitabı kadar değiştirmedi.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: 'More than any other single work written in the twentieth century, Erdmann's book changed the direction of crusading studies'"
+  },
+  {
+   "iddia_id": "i012",
+   "cumle": "Aynı kitap, von Ranke'nin resmî ile halk kaynaklı itki arasında yaptığı ayrımı fikirler düzeyine taşıyarak sonraki bütün tanım tartışmalarının sözlüğünü kurdu.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Ilk yari dogrudan: 'Von Ranke was the first ... to distinguish between what he called the hierarchical or official and the popular impulse (Moment) of crusading. Erdmann also stressed the fundamental distinction between the hierarchical and popular ideas of crusade, where his use of Ideen in place of von Ranke's Moment reflected his interest in ideology.' Ikinci yari ('sonraki butun tanim tartismalarinin sozlugunu kurdu') yazarin cikarimidir."
+  },
+  {
+   "iddia_id": "i013",
+   "cumle": "Erdmann'ın hac temasını sonradan eklenmiş sayması ise kendi zayıf noktasıdır: sefere katılan din adamlarının bıraktığı metinlerde Kutsal Kabir merkezî bir yer tutar.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "kismi"
+    },
+    {
+     "anahtar": "k2",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k3'te Kutsal Kabir cagri metninde merkezdedir ('Enter upon the road to the Holy Sepulchre'); k2 Erdmann'in haci 'a late addition' saydigini aktarir. Ikisinin gerilim olusturdugu hukmu yazarin cikarimidir; hicbir kunye bu itirazi bu bicimde dile getirmez."
+  },
+  {
+   "iddia_id": "i014",
+   "cumle": "Constable'ın aktardığına göre Voltaire haçlıları serüvenci ve haydut sayıp onları yağma susuzluğuyla açıklamış, Edward Gibbon ise ilkesini vahşi bir bağnazlık olarak tanımlamıştı.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: 'Voltaire ... called the crusaders adventurers and brigands who were moved by the thirst for brigandage; and for Edward Gibbon their principle was a savage fanaticism'"
+  },
+  {
+   "iddia_id": "i015",
+   "cumle": "Aynı damar yirminci yüzyılın sonunda yeniden canlandı: 1992'de Journal of European Economic History'de yayımlanan bir yazıda, hiçbiri haçlı seferleri uzmanı olmayan dört iktisatçı seferleri kilisenin kurtuluş tekelini savunma ve pazar alanını genişletme stratejisi olarak okudu.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: 'A very different view was put forward by four economists, none of them specialists on the crusades, in an article entitled An Economic Interpretation of the Medieval Crusades published in the Journal of European Economic History in 1992' ve 'a demand-side attempt by the medieval church to maintain and maximize the value of its wealth by expansion of market area and monopoly control'"
+  },
+  {
+   "iddia_id": "i016",
+   "cumle": "Demirkent'e göre Batı, seferlerin asıl etkenini dinî unsurlarda arar; oysa Orta Çağ Avrupa toplumunu bu seferlere zorlayan etkenlerin siyasi, toplumsal ve iktisadi olduğunu, ileri sürülen dinî motifin yalnızca itici bir güç sayılması gerektiğini yazar.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k4: 'Bu hareketi doguran sebeplerin cesitliligi uzerinde durulmasina ragmen Bati dunyasi Hacli seferlerinin asil etkeninin dini unsurlar oldugu kanaatindedir. Halbuki Ortacag Avrupa toplumunu bu seferlere zorlayan unsurlar aslinda siyasi, sosyal ve ekonomik sebeplerdir. Batililar'ca ileri surulen dini motif ise sadece itici bir gucturr.' KOR HAKEM: cumlenin ikinci yarisi olgu kipinden ('...iktisadidir') atif kipine ('...oldugunu ... yazar') cekildi; bu bir tez, atlasin hukmu degil."
+  },
+  {
+   "iddia_id": "i017",
+   "cumle": "Aynı maddede kutsal toprakları kurtarma sloganının hedefi açıklamaktan çok örtmek için kullanıldığı savunulur; dayanak olarak 1094'teki sel ve salgınları izleyen kuraklık ile kıtlık, kolonileşme çağının toprak arayışı ve Haçlı ordularının daha Kudüs'e varmadan Urfa ile Antakya'da kendi devletlerini kurması gösterilir.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k4: 'Kutsal topraklari kurtarma slogani, Hacli seferlerinin hedefini aciklamaktan ziyade kamufle etmek maksadiyla kullanilmistir'; '1094 yilindaki sel felaketini ve salgin hastaliklari ertesi yil kuraklik ve aclik takip etmisti'; 'devir de kolonilesme devriydi'; 'Avrupalilar'in once Urfa'da, ardindan Antakya'da Hacli devletleri kurmalari'"
+  },
+  {
+   "iddia_id": "i018",
+   "cumle": "Bu okumanın gücü, kanıtını çağrının kendi metninden de alabilmesidir: Robert the Monk'ün aktardığı toprak darlığı savunusu ile Demirkent'in kuraklık ve açlık tablosu aynı yöne bakar.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "kismi"
+    },
+    {
+     "anahtar": "k4",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Iki kunye ayri ayri dogrudur (k3'te toprak darligi savunusu, k4'te kuraklik-aclik tablosu); 'ayni yone bakar' degerlendirmesi yazarindir. k4 Robert the Monk'u adiyla anmaz, Urbanus'un Clermont'ta ulkenin sakinlerini doyurmaktan aciz oldugunu soyledigini yazar."
+  },
+  {
+   "iddia_id": "i019",
+   "cumle": "Constable'ın gözlemine göre tartışmanın yirminci yüzyıl sonundaki yönü şudur: haçlıları büyük ölçüde açgözlülük ve çıkarla açıklayan görüşün yerini bir ölçüde onların içtenliğinin ve idealizminin kabulü almış, özgeci ile bencil saiklerin tek bir zihinde karışabildiği kabul edilmiştir.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: 'the view that they were motivated largely by greed and self-interest has been to some extent replaced by an acceptance of their sincerity and idealism, combined with a recognition that altruistic and selfish motives were unconsciously mixed in the minds of individual crusaders'"
+  },
+  {
+   "iddia_id": "i020",
+   "cumle": "Jonathan Riley-Smith'in bu çerçevedeki savı, haç alanların ve onları finanse eden ailelerin bütün olarak idealizmle hareket ettiğidir.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: 'According to Riley-Smith, There can be little doubt that those who took the cross, and the families who helped to finance them, were moved on the whole by idealism'"
+  },
+  {
+   "iddia_id": "i021",
+   "cumle": "Riley-Smith'in 1997'de Cambridge'de çıkan The First Crusaders, 1095-1131 kitabı, sefere katılanların bir ön listesini ve soy ağaçlarını ek olarak taşır; bölüm başlıkları toplama, efendilik ve aile bağlarını, sefere hazırlanmayı ve seferden dönmeyi ayrı ayrı inceler.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k6 katalog kaydi: 'Publication date 1997', 'Cambridge, U.K. ; New York, N.Y. : Cambridge University Press', bolum dokumu 'Recruitment, lordship and family -- Preparing for crusades -- Returning from crusades' ve ekler 'App. I. Preliminary list of crusaders -- App. II. Pedigrees'"
+  },
+  {
+   "iddia_id": "i022",
+   "cumle": "Aynı yazarın bir başka incelemesi doğrudan başlığında sorunu adlandırır: Early Crusaders to the East and the Costs of Crusading, 1095-1130.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k7 Crossref kaydi: title 'Early Crusaders to the East and the Costs of Crusading 1095-1130', author family 'Riley-Smith'. USTVERI-SINIRLI: kayit yalnizca baslik ve yazar duzeyinde destek verir; makalenin bulgularina dair bir iddia bu kunyeye yaslanmiyor."
+  },
+  {
+   "iddia_id": "i023",
+   "cumle": "Constable, bu idealist ve bir ölçüde savunmacı duruşu bütün araştırmacıların benimsemediğini yazar ve tarihçilerin ruhbilimsel, toplumbilimsel ve iktisadi kuramı hesaba katmamasını eleştiren yazıları sıralar.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: 'Not all scholars accept this idealistic and somewhat defensive stance, and several recent writers have pointed out the failure of historians to take account of psychological, sociological, and economic theory in studying the motivation of the crusaders'"
+  },
+  {
+   "iddia_id": "i024",
+   "cumle": "Krey'in girişine göre Selçuklu sultanı Alp Arslan'ın 1071'de Malazgirt'te kazandığı zafer Anadolu'yu Türklere açmış, Melikşah'ın 1092'deki ölümünden sonra başlayan hanedan çekişmeleri ise bölgedeki gücü parçalamıştı.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k3 giris: 'Alp Arslan, had won a brilliant victory over the Eastern Empire at Manzikert in 1071, which opened Asia Minor to the Turks'; 'The third Sultan, Malik Shah ... Upon his death in 1092, quarrels arose among his sons which lasted for more than a generation'"
+  },
+  {
+   "iddia_id": "i025",
+   "cumle": "Demirkent'in maddesinde bu tablo Batı'nın fırsat okumasıyla tamamlanır: 1074'te Bizans imparatoru Yedinci Mikhail papalık aracılığıyla ücretli asker istemiş, Yedinci Gregorius çağrıyı olumlu karşılamış ama yardım gerçekleşmemişti; on beş yıl sonra İkinci Urbanus ile Birinci Aleksios Komnenos konuyu yeniden ele aldı.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k4: '1074 yilinda Bizans Imparatoru VII. Mikhail (1071-1078) ... papalik araciligiyla Avrupa'dan Turkler'e karsi ucretli asker yardimi istemekteydi'; 'Papa VII. Gregorius imparatorun askeri yardim cagrisini olumlu karsiladi, ancak yardim gerceklestirilemedi'; 'on bes yil sonra papalik tahtina cikan II. Urbanus ile Bizans Imparatoru I. Aleksios Komnenos (1081-1118) arasinda ayni konu yeniden ele alindi'"
+  },
+  {
+   "iddia_id": "i026",
+   "cumle": "Demirkent'e göre Urbanus talebi başka bir açıdan değerlendirdi: paralı asker toplamak yerine şövalyeleri, topraksız köylüleri ve yoksul halkı zengin Doğu'ya yönlendirmek Avrupa için daha kârlı bir girişimdi.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k4: 'Ona gore ucretli asker toplamak yerine Bati'nin sovalyelerini, topraksiz koylulerini, aclik ve sefalet icinde yasayan halkini, para ve toprak sahibi olacaklari vaadiyle zengin Doguya askeri sefer duzenlemeye tesvik etmek Avrupa icin cok daha faydali bir girisim olurdu'"
+  },
+  {
+   "iddia_id": "i027",
+   "cumle": "Aynı yerde, geniş kitleleri harekete geçirmek için maddi vaadin yetmediği, çağrının din kardeşliği ve fedakârlık temasına oturtulması gerektiği savunulur.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k4: 'Ancak genis kitleleri bu hususta etkilemek icin sadece maddi menfaat vaadi yeterli degildi' ve 'bu ulkelere duzenlenecek sefer Isa aski, din ugruna fedakarlik ve din kardeslerine sevgi temasi uzerine oturtulmaliydi'"
+  },
+  {
+   "iddia_id": "i028",
+   "cumle": "Paul Alphandéry'nin okumasında sefer, Deccal'in yaklaştığı ve son günlerin geldiği inancının taşıdığı bir kabarmaydı; Étienne Delaruelle onu toplu bir coşku anı, yarını olmayan ayrıcalıklı bir an olarak tanımladı.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: Alphandery'nin (metinde OCR'da 'Alphandeery') sozleri 'throughout the west the crusade was a project swept along by eschatological forces, the idea of the proximate coming of AntiChrist, the conquest of the last days'; 'For Delaruelle the crusade was a permanent miracle that originally appeared as a moment of collective exaltation ... a privileged moment without a tomorrow'"
+  },
+  {
+   "iddia_id": "i029",
+   "cumle": "Bu çizgiyi izleyenlere göre gerçek haçlı seferi yalnızca Birinci Sefer'dir, çünkü yaygın dinî coşku ve halk karşılığı orada görülür.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: 'For them the only true crusade was the First, which was marked by widespread religious enthusiasm and popular response'"
+  },
+  {
+   "iddia_id": "i030",
+   "cumle": "Aachen'li Albert'in anlatısı Ren şehirlerindeki vaazı, Keşiş Pierre'i, Halk Seferi'ni ve o şehirlerdeki Yahudi katliamlarını aktarır; Papalık ile kuzey Fransa geleneğine ciddi biçimde karşı çıkan başlıca tanıklık odur.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: 'The German cleric Albert of Aachen ... it informs on the instigation and preaching of the crusade in the Rhineland, the preacher Peter the Hermit, the People's Crusade and the massacres of the Jews in the Rhineland cities. This work provided the only significant challenge to the Papalist, northern French tradition'"
+  },
+  {
+   "iddia_id": "i031",
+   "cumle": "Demirkent'in maddesi aynı katliamları çağrının öç teması üzerinden okur ve dönemin İbranî kayıtlarının Haçlıların yanı sıra piskoposları ve yerli halkı da suçladığını aktarır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k4: 'Cagri temasinda islenen oc alma fikri, etkisini daha Hacli seferlerinin acilisinda Avrupali Museviler'e karsi ... kendini gosterdi'; 'devrin Ibrani kayitlari Haclilar kadar, hatta onlardan cok piskoposlari, din adamlarini ve yerli halki da suclamaktadirlar'"
+  },
+  {
+   "iddia_id": "i032",
+   "cumle": "Katliamların sefere içkin mi yoksa bir sapma mı olduğu, Constable'ın açık saydığı sorular arasındadır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: acik sorular listesinde 'the massacres of the Jews (were they an intrinsic part of the crusade or an aberration?)'"
+  },
+  {
+   "iddia_id": "i033",
+   "cumle": "Yirminci yüzyılın ortasında tartışmayı okur kitlesine taşıyan kitap Steven Runciman'ın 1951-54 arasında Cambridge'de çıkan üç ciltlik A History of the Crusades oldu.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k8",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k2",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k8 katalog: 'A History Of The Crusades by Steven Runciman', 'Publication date 1954', 'Cambridge University Press', 'Volume 1'. k1: 'Steven Runciman's literary three-volume work A History of the Crusades, published between 1951 and 1954'. k2 ayni eseri iki farkli yerde farkli tarihlerle anar: bir notta '3 vols. (Cambridge, 1951-54)' (Laiou bolumu, not 5), Constable'in kendi 7. notunda ise '3 vols. (Cambridge, 1952-54)'. Metindeki 1951-54 k1 ile birebir ortusur; k2'nin kendi ici tutarsizligi onu kismi birakir. KOR HAKEM: k1 dipnotu eklenerek tarih iddiasi dogrudan destege baglandi."
+  },
+  {
+   "iddia_id": "i034",
+   "cumle": "Runciman'ın sonuç hükmü serttir: seferleri \"trajik ve yıkıcı bir dönem\" olarak niteler ve kutsal savaşı Tanrı adına sürdürülen uzun bir hoşgörüsüzlük eylemi sayar.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: 'Steven Runciman, in the conclusion to his History of the Crusades, called the crusades a tragic and destructive episode and said that the Holy War itself was nothing more than a long act of intolerance in the name of God'"
+  },
+  {
+   "iddia_id": "i035",
+   "cumle": "Thomas F. Madden'ın değerlendirmesine göre bugünkü popüler haçlı tasavvurunu neredeyse tek başına Runciman kurdu; aynı yerde birçok araştırmacının onun eserini artık eskimiş, yer yer yanlış ve itiraza açık bulduğu kaydedilir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: 'Historian Thomas F. Madden considers that Runciman single-handedly crafted the current popular concept of the crusades, while many other academics now consider his work dated, sometimes inaccurate and open to challenge'"
+  },
+  {
+   "iddia_id": "i036",
+   "cumle": "Aynı değerlendirmeye göre bir Bizans uzmanının kaleminden çıkan bu anlatının yaklaşımı, on dokuzuncu yüzyılın uygarlıklar çatışması kavrayışını yansıtır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: 'As a historian of the Byzantine Empire, his approach reflected the 19th century concept of a clash of civilisations'"
+  },
+  {
+   "iddia_id": "i037",
+   "cumle": "Aynı kaynakta on dokuzuncu yüzyıl Fransız yazınının seferleri ulusal gurur ve sömürge siyasetinin öncülü gibi sunduğu, Walter Scott'un romanlarının ise haçlıları daha ileri bir uygarlığa giren kaba Batılılar olarak çizdiği aktarılır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: 'Michaud published his influential Histoire des croisades between 1812 and 1822 depicting the Crusades as glorious instruments of French nationalism and proto-imperialism' ve 'Scott published four Crusades-based novels between 1819 and 1831 viewing the Crusades as incursions of glamorous but uneducated western Europeans into a superior civilisation'"
+  },
+  {
+   "iddia_id": "i038",
+   "cumle": "İki uyumsuz resim aynı noktada birleşti: haçlı seferini tanımlayan şeyin İslam'a karşıtlık olduğu fikri.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: 'These incompatible views agreed only on the idea that a crusade was defined by its opposition to Islam'"
+  },
+  {
+   "iddia_id": "i039",
+   "cumle": "Arapça kaynakların çoğu kayıp, çevrilmemiş ya da yalnızca yazma hâlinde; Hristiyan haçlı seferi kavramı Orta Çağ Müslümanlarına yabancıydı ve onlar Haçlıları çoğunlukla açgözlülükle açıkladı.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: 'Many Arabic sources have been lost, remain untranslated or are extant only in manuscript ... acknowledging the Christian concept of crusade was alien to medieval Muslims, who often viewed the crusaders as motivated by avarice'"
+  },
+  {
+   "iddia_id": "i040",
+   "cumle": "Carole Hillenbrand'ın savunduğu okumaya göre Müslüman yazın seferleri on dokuzuncu yüzyıl ortasına kadar önemli saymadı; hilafetin çöküşü daha yakıcı bir konuydu.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: 'The Muslim world exhibited little interest in the Crusades as they were not considered significant events until the middle of the 19th century. One explanation is that they were considered a more marginal issue compared to the collapse of the Caliphate' ve 'Carole Hillenbrand argued that Arab historians have often taken a Western viewpoint'"
+  },
+  {
+   "iddia_id": "i041",
+   "cumle": "Demirkent'in maddesi terimin kendi tarihini verir: dönemin Müslüman tarihçileri \"Franklar\" derdi, Haçlılar karşılığı Doğu'da Osmanlılarca ehl-i salîb, Araplarca Salîbiyyûn biçiminde kullanılmaya başlandı.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k4: 'Donemin musluman tarihcilerinin Franklar kelimesiyle ifade ettigi Haclilar tabiri, Dogu'da ilk defa Osmanlilar tarafindan Fransizca Croisades kelimesinin karsiligi olarak ehl-i salib, Araplar tarafindan da Salibiyyun seklinde kullanilmaya baslanmistir'"
+  },
+  {
+   "iddia_id": "i042",
+   "cumle": "Sefer dönemine ait Arapça yazın olayı kendi türlerinin içinde tutar: İbnü'l-Esîr'in el-Kâmil fi't-Târîh'i gibi genel tarihler, İbnü'l-Kalânisî'nin Şam tarihi zeyli gibi yerel kayıtlar ve hanedan tarihleri, Haçlıları başlı başına bir konu olarak değil, daha büyük anlatıların içinde ele alır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: 'Few Muslim works consider the crusading phenomenon and crusades are often documented in larger narratives of events'; tur dokumu: 'Universal chronicles - the best known al-Kamil fi at-Tarikh or The Complete History by Ali ibn al-Athir. Local histories were similar ... Ibn al-Qalanisi wrote The Continuation of the History of Damascus'"
+  },
+  {
+   "iddia_id": "i043",
+   "cumle": "TDV maddesi hareketi 1096'da orduların yola çıkışıyla başlatıp 1291'de bitirir ve arada dokuz büyük sefer sayar.",
+   "onem": "merkezi",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k4: '1096 yilinda baslayan Hacli seferleri, 1291'de Latin hiristiyanlarin Dogu'da son merkezi olan Akka'dan cikarilmasina kadar suren yaklasik iki yuzyillik bir donemi kapsar. Bu donem icinde dokuz buyuk sefer yapilmis, bu seferler arasinda bazi kucuk girisimler de olmustur.'"
+  },
+  {
+   "iddia_id": "i047",
+   "cumle": "Constable'a göre seferlerin numaralandırılması hem kaynaklarda hem sonraki tarih yazımında birbirini tutmaz ve soruya doyurucu bir cevap verilmiş değildir; gelenekselci tanımın önde gelen adı Hans Eberhard Mayer'in sözleriyle numaralandırma tutarlılıktan yoksundur ve ilk dört seferin sırası bile ancak bütün Avrupa'nın karıştığı büyük seferleri sayar, küçüklerini görünmez kılar.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: 'This raises the question, to which no satisfactory answer has so far been given, of the numbering of the crusades, which differs widely both in the sources and in subsequent histories.' Mayer alintisi: 'The numbering of the crusades lacks all consistency' ve 'Even the numbering of crusades I-IV is a dubious affair. It is accepted by everyone, but it only counts the general expeditions in which more or less all of Europe was involved. It made people blind to the smaller crusades.' Mayer'in gelenekselci konumu ayni kunyede: 'Among modern scholars the leading traditionalist is H. E. Mayer and the leading pluralist is J. Riley-Smith.'"
+  },
+  {
+   "iddia_id": "i048",
+   "cumle": "İspanya'daki, kuzeydoğu Avrupa'daki, Albi ve halk seferlerine ise ne gelenekselciler ne çoğulcular bir numara verir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: 'No one, among either the traditionalists or the pluralists, assigns a number to the crusades in Spain or northeastern Europe, the Children's or other popular crusades, the Albigensian crusade, the Mongol crusade of 1241, and other expeditions that seem to meet the definition of a crusade and are commonly referred to as such.' KOR HAKEM UYARISI: onceki i043 bu cumleyi 'geleneksel ve cogulcu okumalarin hicbiri seferlere kesin bir sayi vermez' diye aktariyordu; kaynak boyle bir sey demez — numara verilmeyen SEFERLERI (Ispanya, kuzeydogu Avrupa, cocuk/halk, Albi, 1241 Mogol) sayar. Iddia kaynagin soyledigi bicime cekildi."
+  },
+  {
+   "iddia_id": "i044",
+   "cumle": "Ernst-Dieter Hehl, haçlı seferinin esasen ne olduğunu soran yazısında her iki tanımı da dar bulur ve haçlı seferini Tanrı'nın buyruğuyla yürütülen bir savaş olarak tanımlar; bu okumada papalık onayı zorunlu bile değildir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: 'Ernst-Dieter Hehl, in an article entitled Was ist eigentlich ein Kreuzzug? ... rejected both the traditionalist and pluralist definitions of a crusade as too restrictive and argued that a crusade was a war fought at the order of and with the authority of God' ve 'in practice a crusade could be directed against any perceived enemies of God ... with or without papal approval'"
+  },
+  {
+   "iddia_id": "i045",
+   "cumle": "Urbanus'un çağrısında Doğu'daki Hristiyanlara yardım ile Kudüs'ün kurtarılmasının göreli ağırlığı, mesajın nasıl yayıldığı, orduların nasıl finanse edildiği ve liderlerin Bizans imparatoruna ettiği yeminlerin niteliği, Constable'ın 2001'de açık saydığı sorular arasındaydı.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2: 'Among the many questions that have been raised are not only those, mentioned above, of the content of Urban's crusading appeal ... but also how Urban's message was spread and the crusading armies gathered; the participation in the expeditions and how they were financed; the nature of the oaths taken by the crusading leaders to the Byzantine emperor'"
+  }
+ ],
+ "sayaclar": {
+  "dogrudan": 44,
+  "kismi": 4,
+  "desteksiz": 0,
+  "olculemez": 0
+ }
+}

@@ -1,5 +1,5 @@
 ## veri-dunya-nufusu-1500-2025
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:15.528Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:41.489Z_
 
 - [ATOMSUZ] k1 → "Seri, Our World in Data'nın uzun dönemli nüfus veri setinden alınmıştır ve iki farklı türde sayı içerir." — programatik olarak ölçülemedi (ad karşılığı yok): Our, World, Data
 - [OK]      k1 → "1500–2023 aralığındaki değerler tarihsel tahminlerdir, 2025 değeri ise bir projeksiyondur."

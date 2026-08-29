@@ -26,6 +26,7 @@ ilgili:
   - olay-hacli-seferleri
   - olay-istanbulun-fethi
   - aktor-hazarlar
+  - tartisma-hacli-seferlerinin-nedeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

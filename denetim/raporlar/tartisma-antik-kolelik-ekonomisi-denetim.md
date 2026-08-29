@@ -1,5 +1,5 @@
 ## tartisma-antik-kolelik-ekonomisi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:13.020Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:38.936Z_
 
 - [ATOMSUZ] k6 → "Antik Yunan ve Roma'dan kalan metinler köleliği olağan bir kurum olarak anlatır: Atina'nın gümüş madenlerinde …" — programatik olarak ölçülemedi (ad karşılığı yok): Yunan, Roma, Atina
 - [OK]      k7 → "Antik Yunan ve Roma'dan kalan metinler köleliği olağan bir kurum olarak anlatır: Atina'nın gümüş madenlerinde …" — 1 atom doğrulandı; 2 ad ölçülemedi

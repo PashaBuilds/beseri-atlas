@@ -1,0 +1,663 @@
+{
+ "id": "tartisma-kalkinma-yardimi-ise-yariyor-mu",
+ "govde_hash": "ca527e6092ea",
+ "commit": "7549ec6",
+ "zaman": "2026-08-29",
+ "hakem": "kor-hakem-2026-08-29",
+ "iddialar": [
+  {
+   "iddia_id": "i001",
+   "cumle": "Ölçek küçük değildir; alıcı ülkelere ulaşan net resmî kalkınma yardımı, sabit dolarla 1960'ta yaklaşık 34 milyar iken 2021'de 190 milyarın üzerindeydi.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k12",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "OWID/Dunya Bankasi ODA serisi: World 1960 = 33.972.832.000, 2021 = 190.067.800.000 sabit dolar; yuvarlamalar seriden birebir"
+  },
+  {
+   "iddia_id": "i002",
+   "cumle": "Seri düz de yükselmez: 1990'da 90 milyara yaklaşmış, 2005'te 123 milyarı geçmiş ve 1960-2021 arasını kapsayan altmış iki yıllık serinin zirvesine 2020'de 193 milyarla ulaşmıştır.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k12",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Ayni seri: 1990 = 89.643.300.000, 2005 = 123.126.830.000, 2020 = 193.242.430.000; World satirlarinin tamami tarandi, seri 1960-2021 arasi 62 yil ve zirve gercekten 2020"
+  },
+  {
+   "iddia_id": "i003",
+   "cumle": "Bu paranın etkililiği akademisyenler, yorumcular ve uygulayıcılar arasında şiddetle tartışılmış ve soru, geniş bir literatür biriktirmiştir.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: \"highly contested by academics, commentators and practitioners, and there is a large literature on the subject\""
+  },
+  {
+   "iddia_id": "i004",
+   "cumle": "Etkililik kaygısı yüksek bir genellik düzeyinde durabilir — yardım ortalamada kendisinden beklenen başlıca işlevleri yerine getiriyor mu — ya da daha ayrıntılı sorulabilir: farklı koşullardaki farklı yardım türleri arasındaki göreli başarı dereceleri.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Iki duzey ayrimi k1 tanim bolumunde: \"high level of generality\" / \"more detailed (considering relative degrees of success between different types of aid in differing circumstances)\""
+  },
+  {
+   "iddia_id": "i005",
+   "cumle": "İnsani yardım ile kalkınma yardımının tarihsel izlekleri de birbirinden ayrı işlenir.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 \"Humanitarian aid\" bolumunu kalkinma yardimi tarihcesinden ayri isler"
+  },
+  {
+   "iddia_id": "i006",
+   "cumle": "Soğuk Savaş bittikten sonra bağışçılar, jeopolitik çıkar hesabının gölgesinden çıkan yardımı iktisadi ve demokratik değişim şartlarına bağlayabilir hâle geldi; uluslararası etkililik hareketi de 1990'ların sonunda bu zeminde biçimlendi.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k1 Sogus Savas sonrasi kosulluluk pasaji: donorlerin jeopolitik cikari kalmayinca kosulluluk uygulayabilmesi ve etkililik hareketinin 1990 sonlarinda bicimlenmesi"
+  },
+  {
+   "iddia_id": "i007",
+   "cumle": "yüzyıl başında bütüne bakıldığında daha olumlu sonuçlar verir göründü, ama tablo karmaşık ve birçok bakımdan açıklıktan uzak kaldı.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: \"minimal or even negative\" / \"more affirmative results in the early 21st century, but the picture is complex and far from clear\""
+  },
+  {
+   "iddia_id": "i008",
+   "cumle": "Ölçümün kendi güçlükleri de vardır: hedefler çeşitlidir ve farklı hedefler, sonucun hangi zaman ölçeğinde aranacağı konusunda farklı imalar taşır.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: \"variety of purposes\" ve \"different objectives have different implications for the time-scale\""
+  },
+  {
+   "iddia_id": "i009",
+   "cumle": "Kavganın merkez metni, Craig Burnside ile David Dollar'ın American Economic Review'da 2000'de yayımlanan Aid, Policies, and Growth makalesidir: bulguya göre yardım, iyi politikalar izleyen gelişmekte olan ülkelerde büyümeye olumlu etki yapıyordu; ama bağışçılar bu ülkeleri özellikle hedeflemediği için toplam etki belirsiz kalıyordu.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k2 ustverisi yazar/baslik/dergi/yil kimligini verir (Craig Burnside, David Dollar, American Economic Review, 2000); bulgunun ifadesi k1 tablosunda: \"positive impact on growth in developing countries with good policies. But the overall effect of aid was unclear because donors did not especially target such countries\""
+  },
+  {
+   "iddia_id": "i010",
+   "cumle": "Burnside ile Dollar'ın özeti iki ayrı sonucu birbirine bağlar: iyi maliye, para ve ticaret politikaları izleyen ülkelerde yardımın büyümeye olumlu etkisi görülürken kötü politika altında etkisi küçük kalıyor, politika kalitesinin yardımın dağıtımına etkisi ise yalnızca küçük bir düzeyde bulunuyordu.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Crossref kaydindaki ozet (jats:p) bu iki sonucu tasir; havuz kurali geregi ustveri kaynagi icerik iddiasina en cok OZET duzeyinde kismi destek sayilir"
+  },
+  {
+   "iddia_id": "i011",
+   "cumle": "Burnside ile Dollar'ın kendi çıkarımı buradan geliyordu: yardım, iyi politikaya daha dizgeli biçimde bağlansaydı daha etkili olurdu.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Ozetin kapanis cumlesi (\"aid would be more effective if it were more systematically conditioned on good policy\"); ayni ozet-duzeyi kismi kurali"
+  },
+  {
+   "iddia_id": "i012",
+   "cumle": "William Easterly, Ross Levine ve David Roodman 2004'te aynı dergide yayımlanan yorumda, veri seti genişletilip yardım ile iyi politika başka biçimlerde tanımlandığında bulgunun sağlam kalmadığını gösterdi.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k3 ustverisi yazar/baslik/dergi/yil verir; k1 tablosu bulguyu yazar: \"The finding of Burnside and Dollar (2000, see above) is not robust to different definitions of aid and good policy\""
+  },
+  {
+   "iddia_id": "i013",
+   "cumle": "Roodman 2007'de daha genel bir sonuca vardı: aralarında Burnside-Dollar'ın da bulunduğu yedi ekonometrik çalışmanın sonuçları, anahtar terimler başka makul yollarla tanımlandığında ayakta kalamıyordu.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: \"Roodman (2007) ... discovered that the results of seven previous econometric studies - including the very influential one by Burnside and Dollar (1997, 2000) - could not survive defining key terms in other plausible ways\""
+  },
+  {
+   "iddia_id": "i014",
+   "cumle": "Raghuram Rajan ile Arvind Subramanian'ın 2005'te dolaşıma giren ve 2008'de yayımlanan taraması da 1960-2000 arasında yardım ile büyüme arasında ortalamada sağlam bir olumlu ilişki bulamadı.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 tablosu: Rajan and Subramanian 2005, 1960-2000, \"There was on average no robust positive relationship between aid and growth\"; k4 ustverisi 2008 dergi yayininin kimligini verir"
+  },
+  {
+   "iddia_id": "i015",
+   "cumle": "Paul Mosley'nin mikro-makro paradoksu adını verdiği gözlemde, ülke düzeyindeki ölçümler, bağışçı ve uygulayıcı kurumların kendi proje raporlarında biriken başarılardan beklenecek olandan daha karamsar sonuç verir; Mosley'nin sıraladığı üç aday açıklama ölçüm hatası, kaynakların başka kullanımlara kayması ve projelerin olumsuz yan etkileridir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: \"Paul Mosley termed this the micro-macro paradox and offered three potential explanations: inaccurate measurement, fungibility, and backwash or negative side-effects\""
+  },
+  {
+   "iddia_id": "i016",
+   "cumle": "Bu eksikliğin görülmesi, uluslararası pratikte etki ölçümünü sıkılaştırma yönünde kademeli bir eğilim doğurdu.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k1: degerlendirme tekniklerinin girdi/cikti agirlikli olmasi ve \"a gradual international trend towards more rigorous methods of impact assessment\"; son cumledeki koprii yazarin baglamasidir"
+  },
+  {
+   "iddia_id": "i017",
+   "cumle": "Abhijit Banerjee ile Esther Duflo'nun 2011'de yayımlanan Poor Economics'i bu açmazdan başka bir kapıyla çıkar: kitabın tanıtım metnindeki iddiaya göre yoksullukla mücadele adına yapılanların çoğu, en iyi ihtimalle sınanmamış genellemelere dayanmaktadır.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "archive.org katalog sayfasindaki yayinci ozeti: \"much of the work they do is based on assumptions that are untested generalizations at best\"; katalog sayfasi tam metin degildir, bu nedenle kismi"
+  },
+  {
+   "iddia_id": "i018",
+   "cumle": "İkili, rastgele atamalı kontrollü deneyi kalkınma iktisadına taşıyan öncülerdendir; MIT'deki Poverty Action Lab çatısı altında bu ilkeyle yürütülen çalışmalar onlarca ülkeye yayılmış ve mikrofinansın her derde deva olduğu türünden kabulleri sarsmıştır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Ayni yayinci ozeti: \"The authors have pioneered the use of randomized control trials in development economics\" ve \"supervised by the Poverty Action Lab at MIT ... in dozens of countries\", \"that microfinance is a cure-all\"; katalog duzeyinde kismi"
+  },
+  {
+   "iddia_id": "i019",
+   "cumle": "Aynı çizginin alanda en çok tartışılan deneylerinden biri, Edward Miguel ile Michael Kremer'in Econometrica'da 2004'te çıkan Worms makalesidir; makale, okul temelli bir solucan ilacı programının eğitim ve sağlık üzerindeki etkilerini, tedavinin dışsallıklarını — ilaç alan çocukların çevrelerindeki bulaşı azaltarak başkalarına da sağladığı yararı — hesaba katarak tanımlar.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k6 ustverisi: Edward Miguel, Michael Kremer, Econometrica 2004, baslik \"Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities\"; \"okul temelli\" nitelemesi k6 basliginda yoktur, k7 basligindaki \"a school-based deworming programme in western Kenya\" ifadesinden gelir"
+  },
+  {
+   "iddia_id": "i020",
+   "cumle": "Uluslararası bir epidemiyoloji dergisi 2015'te, Kenya'daki bu programın verilerini yeniden inceleyen iki ayrı çalışma yayımladı; Aiken, Davey, Hargreaves ve Hayes imzalı ilki kendini saf replikasyon olarak sunuyor ve programın sağlık ile eğitim etkilerini orijinal veriden yeniden hesaplıyordu.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k8",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k7 ustverisi yazarlari (Aiken, Davey, Hargreaves, Hayes), 2015 yilini, International Journal of Epidemiology dergisini ve \"Re-analysis of health and educational impacts ... a pure replication\" basligini verir; ikinci calisma k8"
+  },
+  {
+   "iddia_id": "i021",
+   "cumle": "Aynı ekibin eşlik eden ikinci yeniden-analizi, deneyi bir küme yarı-rastgele basamaklı saha denemesi olarak yeniden sınıflandırıp bulguların istatistiksel replikasyonunu çıkardı; sınıflandırmanın kendisi bile başlığa taşınmış bir itirazdır, çünkü orijinal makale deneyin rastgele atamalı olduğu kabulüyle okunmuştu.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k8",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k6",
+     "destek": "baglam"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Yeniden siniflandirma k8 basliginda birebir: \"a statistical replication of a cluster quasi-randomized stepped-wedge trial\"; son yan cumle (orijinalin rastgele atamali kabulle okunmasi) yazarin cikarimidir, k6 yalniz baglam saglar"
+  },
+  {
+   "iddia_id": "i022",
+   "cumle": "Hicks, Kremer ve Miguel aynı dergide, iki yeniden-analizi adlarıyla anan bir yorumla karşılık verdi.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k9",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k9 ustverisi: Joan Hamory Hicks, Michael Kremer, Edward Miguel; baslik iki yeniden-analizi adiyla anar (\"a comment on Aiken et al. (2015) and Davey et al. (2015)\")"
+  },
+  {
+   "iddia_id": "i023",
+   "cumle": "Bir yandan rastgele atamalı deney, kalkınma kanıtının çıtasını yükseltmiş ve veri paylaşımını yeniden analiz edilebilecek kadar açık hâle getirmiştir; öte yandan aynı verinin iktisatçılar ile epidemiyologların elinde farklı sonuçlara tercüme edilebilmesi, tikel kanıtın da yorum katmanından kurtulamadığını göstermiştir.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "baglam"
+    },
+    {
+     "anahtar": "k9",
+     "destek": "baglam"
+    }
+   ],
+   "guven": "dusuk",
+   "inceleme": "Kavganin iki yonlu tortusuna dair yazar degerlendirmesi; kaynaklar tartismanin varligini gosterir, degerlendirmenin kendisini dogrulamaz"
+  },
+  {
+   "iddia_id": "i024",
+   "cumle": "Kaynak ikame edilebilir olduğunda alıcı hükümet, bağışçının para koyduğu alandaki kendi harcamasını kısıp serbest kalan tutarı bağışçının hiç öngörmediği önceliklere kaydırabilir.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 fungibility bolumu: \"recipient governments may reduce their own spending in areas where donors provide assistance and reallocate those funds to other priorities\""
+  },
+  {
+   "iddia_id": "i025",
+   "cumle": "Tahsisin amacı tam da bunu sınırlamaktır — paranın altyapıya, sağlığa ya da eğitime harcanması şart koşulur — ama bu şartın uygulamada denetlenmesi güçtür; genel bütçe desteği ise hükümete kendi önceliklerine göre dağıtma serbestisi tanır.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: \"earmarked aid, the goal is often to limit fungibility by specifying how funds should be spent (infrastructure, health, education), though difficult to enforce\" ve genel butce desteginin serbestisi"
+  },
+  {
+   "iddia_id": "i026",
+   "cumle": "yüzyılda 300 milyon insanı öldürmüş bir hastalığı bitirmişti.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k10",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "WHO bulteni: 8 Mayis 1980, 33. Dunya Saglik Asamblesi ilani, \"killing 300 million people in the 20th century alone\", \"half a billion vaccinations\""
+  },
+  {
+   "iddia_id": "i027",
+   "cumle": "Eradikasyonun yaklaşık 300 milyon dolarlık maliyeti, 1980'den bu yana her yıl 1 milyar doları aşan tasarrufla karşılaştırılır.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k10",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "WHO bulteni: \"The US$ 300m price-tag to eradicate smallpox saves the world well over US$ 1 billion every year since 1980\""
+  },
+  {
+   "iddia_id": "i028",
+   "cumle": "Aynı örgütün bilançosunda yalnız bu zafer yoktur: 187 ülke, bölge ve alan gine kurdu hastalığından arınmış, 38 ülke ve bölge de sıtmadan arınmış olarak belgelenmiştir.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k10",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "WHO bulteni: \"187 countries, territories and areas have been certified free of Guinea worm disease\" ve \"38 countries and territories certified as malaria-free\""
+  },
+  {
+   "iddia_id": "i029",
+   "cumle": "Hedefi dar, teknolojisi belli, sonucu sayılabilir bir dikey sağlık programı ile bir hükümetin genel bütçesine akan destek aynı türden şeyler değildir; insani yardım ile kalkınma yardımının etkililik tarihleri de ayrı yazılır.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Ikinci yan cumle (insani/kalkinma yardimi tarihlerinin ayri yazilmasi) k1 yapisindan dogrudan; birinci yan cumledeki tur karsilastirmasi yazarin cikarimidir"
+  },
+  {
+   "iddia_id": "i030",
+   "cumle": "Yardımın sert eleştirmenleri bile bu ayrımı korur: Moyo'nun hedefi hükümetler arası ve çok taraflı yardımdır; küçük ölçekli hayırseverliği, insani ve acil yardımı eleştirisinin dışında tutar.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: \"Moyo alludes specifically to government bilateral and multilateral aid and not small-holder charity, humanitarian or emergency aid\""
+  },
+  {
+   "iddia_id": "i031",
+   "cumle": "Bauer 1972 tarihli Dissent on Development'tan başlayarak yardımın yarardan çok zarar verdiğini savundu; ona göre asıl zarar, kaynakların hükümetler üzerinden geçmesinin verimsiz devlet planlamasını beslemesi ve hayatı genel biçimde politikleştirmesiydi; proje seçimini elinde tutan alıcı hükümetler, yoksulluğu azaltmaktan çok seçkini zenginleştirmekle ilgileniyordu.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 Bauer bolumu: Dissent on Development (1972), yardimin zararlari, devlet planlamasinin beslenmesi, hayatin politiklesmesi ve \"enriching the elite\""
+  },
+  {
+   "iddia_id": "i032",
+   "cumle": "Dambisa Moyo 2009'da Dead Aid ile aynı damarı Afrika üzerinden güncelledi: ona göre yardım kleptokrasileri, yozlaşmayı ve yardım bağımlılığını beslemiş; hükümetlere düşen beklenmedik gelir, rant arayışının uç biçimlerini özendirip Hollanda hastalığı türünden etkiler doğurabilmiştir.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 Moyo bolumu: Dead Aid (2009), \"kleptocracies, corruption, aid-dependency\", \"extreme forms of rent-seeking\" ve \"Dutch Disease\""
+  },
+  {
+   "iddia_id": "i033",
+   "cumle": "Mekanizmanın özü hesap verme yönüdür: dışarıdan gelen para, vergi karşılığında kamu hizmeti üretme bağını gevşetir ve — Moyo'nun sözleriyle — \"devletin kendi halkına karşı sorumluluklarını bırakmasına izin verir\".",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: \"the contract that states that they must provide public goods in exchange for taxes. In short, it allows the state to abdicate its responsibilities toward its people\"; ceviri alinti 15 kelimenin altinda ve kaynaga atifli"
+  },
+  {
+   "iddia_id": "i034",
+   "cumle": "Gelir toplama kapasitesi devlet kapasitesinin temel direklerinden biridir; etkili bir vergi düzeni hem adaletten eğitime uzanan hizmetleri finanse eder hem de yurttaşın vergisi karşılığında hizmet bekleyebildiği bir hesap verme kanalı kurar.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: \"Revenue generation is one of the essential pillars for developing state capacity\" ve verginin hesap verme mekanizmasi kurmasi"
+  },
+  {
+   "iddia_id": "i035",
+   "cumle": "Bu kapasitesi zayıf olan devletler için yardım gerekli bir ikame gibi görünse de kurumsal gelişmeyi zayıflatma ihtimali taşır: gelirinin daha büyük bir bölümünü yardımdan sağlayan devletlerin yurttaşına karşı hesap verme yükümlülüğü azalır ve kamu kurumlarını geliştirme teşviki zayıflar.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: \"States that rely on higher percentages of aid for government revenue are less accountable to their citizens ... and face fewer incentives to develop public institutions\""
+  },
+  {
+   "iddia_id": "i036",
+   "cumle": "Angus Deaton 2013'te The Great Escape ile bu kuşkucu bilançoya kendi adını ekledi: kitabın savunduğu teze göre uluslararası yardım etkisiz, hatta zararlı olmuştur; öneriler yardımı büyütmek yerine ilaç şirketlerine dönük teşvikleri düzeltmek ve ticaret kısıtlarını kaldırmak gibi dolaylı araçlara yönelir, çünkü yoksul dünya kendi büyük kaçışını ancak kendisi gerçekleştirebilir.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k11",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "archive.org katalog sayfasindaki yayinci ozeti: 'Deaton argues that international aid has been ineffective and even harmful. He suggests alternative efforts--including reforming incentives to drug companies and lifting trade restrictions'; katalog duzeyi oldugundan kismi. HAKEM NOTU: k1 metninde Deaton adi hic gecmiyor, bu yuzden hesap verme mekanizmasi Deaton'a atfedilemez; onceki 'bu itiraza olcum titizligi ekledi' ifadesi kaynaksiz kisi-pozisyon baglantisi kuruyordu, govdede duzeltildi."
+  },
+  {
+   "iddia_id": "i037",
+   "cumle": "Bağlı yardım — paranın bağışçı ülkenin ürünlerine harcanması şartı — yardımı bağışçının ticari hedeflerinin aracı yapar; savunucuları ise iyi tasarlanmış ve iyi yönetilmiş bağlı yardımın kaliteyi ve etkililiği ille de bozmayacağını ileri sürer.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 Tying of aid bolumu: bagli yardimin tanimi, maliyeti artirmasi ve karsi savunma \"tied aid - if well designed and effectively managed - would not necessarily compromise the quality as well as the effectiveness of aid\""
+  },
+  {
+   "iddia_id": "i038",
+   "cumle": "Parçalanma ayrı bir yüktür: kimi Afrika ülkelerinde sağlık çalışanları, Batılı heyetlerle görüşmekten asıl işlerini ancak akşamları yapabildiklerini söyler; Mozambik'te bağışçıların yılda 350 milyon doları 3.500 teknik danışmana harcadığı ve bunun 400 bin yerel kamu görevlisini istihdam etmeye yeteceği aktarılmıştır.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: saglik calisanlarinin \"they can only do their proper jobs in the evening\" ifadesi ve Mozambik ornegi \"$350 million a year on 3,500 technical consultants, which is enough to hire 400,000 local civil servants\""
+  },
+  {
+   "iddia_id": "i039",
+   "cumle": "Bir çalışma, dalgalanmaya bağlanan kaybı Avrupa Birliği'nden gelen programlanabilir yardımın ortalama yüzde 10 ilâ 20'si olarak ölçmüştür.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: \"one study assessed the deadweight loss associated with volatility at an average of 10% to 20% of a developing country programmable aid from the European Union\""
+  },
+  {
+   "iddia_id": "i040",
+   "cumle": "Bağışçılar ve gelişmekte olan ülkeler, artan finansmanın kendi başına yetmediğini kabul edip paranın Binyıl Kalkınma Hedefleri'ne olabildiğince iyi hizmet etmesini istedi; izleyen dokuz yılda dört üst düzey forum toplandı: Roma 2003, Paris 2005, Accra 2008 ve Busan 2011.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: \"Over the following nine years, a process punctuated by four high level forums on aid effectiveness (Rome 2003, Paris 2005, Accra 2008 and Busan 2011)\" ve Binyil Kalkinma Hedefleri baglami"
+  },
+  {
+   "iddia_id": "i041",
+   "cumle": "Paris Bildirgesi ile bu forumların öteki sonuçları, daha iyi kalkınma sonuçları için ne yapılması gerektiğine dair geniş bir uzlaşıyı cisimleştirdi.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: Paris Bildirgesi ve forum sonuclarinin \"broad consensus on what needs to be done\" cisimlestirmesi"
+  },
+  {
+   "iddia_id": "i042",
+   "cumle": "Bildirgenin önceliklerinden biri, yerel sistemlere paralel işleyen yardım düzeneklerini azaltmaktı; 2011'den sonra bu hareket, daha geniş kapsamlı bir etkili kalkınma iş birliği gündeminin içinde eridi.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1: \"One of the Paris Declaration priorities is to reduce systems of aid that are parallel to local systems\" ve 2011 sonrasi \"effective development cooperation\" gundemine gecis"
+  },
+  {
+   "iddia_id": "i043",
+   "cumle": "Ortalama etki sorusunda regresyon literatürü kırılgandır ve iki dönemin bulguları farklı yönleri göstermiştir; tikel program sorusunda deneysel kanıt birikmekte, ama taşınabilirliği tartışılmaktadır; tür sorusunda dikey sağlık kampanyalarının sicili ile genel bütçe desteğine dönük kuşku yan yana durur.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    },
+    {
+     "anahtar": "k10",
+     "destek": "baglam"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Uc duzeyin ozeti; her bileseni govdede ayri ayri kaynaklanmis, bu cumle onlarin toplamidir"
+  },
+  {
+   "iddia_id": "i044",
+   "cumle": "Açık kalanlar da bellidir: iyi politika koşulunun ölçülebilir olup olmadığı, deney sonuçlarının ölçek büyütmeye dayanıp dayanmayacağı, kaynak ikamesi altında bir program etkisinin bütçe etkisine nasıl çevrileceği ve hesap verme mekanizmasının hangi yardım biçimlerinde bozulduğu, dört ayrı cevapsız soru olarak durmaktadır.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "baglam"
+    }
+   ],
+   "guven": "dusuk",
+   "inceleme": "Acik kalan sorularin listesi yazarin cerceveleme kararidir; k1 bunlarin tartismali oldugunu gosterir, listeyi kendisi kurmaz"
+  }
+ ],
+ "sayaclar": {
+  "dogrudan": 35,
+  "kismi": 7,
+  "desteksiz": 0,
+  "olculemez": 2
+ }
+}

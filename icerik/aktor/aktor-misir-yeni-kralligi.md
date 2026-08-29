@@ -17,6 +17,7 @@ ilgili:
   - donem-02
   - aktor-hitit-imparatorlugu
   - aktor-kus-kralligi
+  - tartisma-tunc-cagi-cokusunun-nedeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

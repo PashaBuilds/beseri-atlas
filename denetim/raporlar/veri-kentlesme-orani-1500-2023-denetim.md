@@ -1,5 +1,5 @@
 ## veri-kentlesme-orani-1500-2023
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:15.772Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:41.734Z_
 
 - [OK]      k1 → "Seri 1950'de yüzde 28,7983 ile başlar ve 2025'te yüzde 57,8335 ile biter; toplam 76 gözlem vardır."
 - [OK]      k1 → "Bu dosyanın kimliği 1500'den başlayan bir aralığı adlandırır, ancak veri kümesinde 1950'den önce dünya toplamı…"

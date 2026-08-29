@@ -1,18 +1,59 @@
 ## tartisma-hacli-seferlerinin-nedeni
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:13.468Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T11:11:46.531Z_
 
-- [OK]      k1 → "Kaynak, Haçlı seferlerini papalığın 1095 ile 1291 arasında Müslüman yöneticilere karşı Kutsal Toprakların geri…" — 2 atom doğrulandı; 4 ad ölçülemedi
-- [OK]      k1 → "Urban tarafından ilan edildiğini; bunun Hristiyanlara Kudüs'ü Müslümanlardan geri almaları için ruhani ödül va…" — 1 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k1 → "Aynı kaynak, o tarihte papalığın Katolik Kilisesi'nin başı olarak konumunun güçlenmiş olduğunu ve daha önceki …" — 1 atom doğrulandı; 3 ad ölçülemedi
-- [ATOMSUZ] k1 → "Kaynak, bu ölçekteki harekâtların örgütlenmesinin karmaşık dinî, toplumsal ve iktisadi kurumlar gerektirdiğini…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir hareketin sürmesi için ayrı kurumlar gerekmesi, atlasın şu kuralının dayanağıdır: başlangıç nedeni ile sür…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "yüzyıla dek sürdüğünü yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Hedefin değişmesine rağmen adın aynı kalması, "Haçlı seferlerinin nedeni" ifadesinin tek bir olguya işaret etm…" — programatik olarak ölçülemedi (ad karşılığı yok): Haçlı
-- [OK]      k1 → "Kaynağın dönüm noktası olarak andığı kişi için tutulan kayıt, onu Eyyûbî hanedanının kurucusu ve Mısır ile Sur…" — 3 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k3 → "Kaynağın dönüm noktası olarak andığı kişi için tutulan kayıt, onu Eyyûbî hanedanının kurucusu ve Mısır ile Sur…" — 4 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "İki kaydın aynı yılı vermesi, atlasın çapraz doğrulama ölçütünü karşılar; olay dosyasında ele alınıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "İki kaydın aynı yılı vermesi, atlasın çapraz doğrulama ölçütünü karşılar; olay dosyasında ele alınıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Uzun dönemli seride dünya nüfusu 1100'de yaklaşık 397,9 milyon, 1300'de yaklaşık 456,2 milyondur."
-- [ATOMSUZ] k1 → "Atlas üç pozisyondan hiçbirini benimsemez; kaynağın kendisi hem başlangıç anını hem süreklilik kurumlarını ayr…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Giles Constable 2001 tarihli incelemesinde çağdaş haçlı araştırmalarını dört öbeğe ayırır ve dördünün farklı s…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k2 → "Yanına iki öbek daha katılır: katılanların iç hâlini merkeze alan ruhsal-ruhbilimsel okuma ile haçlı seferini …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Yanına iki öbek daha katılır: katılanların iç hâlini merkeze alan ruhsal-ruhbilimsel okuma ile haçlı seferini …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Kasım 1095'teki bir konuşmanın nedeni, iki yüzyıl boyunca sefer üstüne sefer örgütleyen kurumların nedeni ve s…"
+- [ISARET]  k4 → "Üstelik aynı olaya Batı yazını ile Türkçe yazın farklı yerlerden bakar: Işın Demirkent'e göre hareketin çıkış …" — özel isim kaynakta bulunamadı: Türkçe
+- [OK]      k3 → "Chartres'lı Fulcher'in aktarımında Papa İkinci Urbanus, Türklerin Roma topraklarına Akdeniz'in Aziz Georgios K…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Aynı aktarımda Urbanus, birbirine karşı savaşan şövalyelere yeni bir hedef gösterir: uzun süredir soygunculuk …" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Bu metinde Urbanus, dinleyicilerine oturdukları ülkenin denizle ve dağlarla kuşatıldığını, kalabalık nüfusları…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Konuşmanın metnini veren yazarlar, Krey'in notuna göre bunu olaydan yıllar sonra kaleme aldı ve her biri konuş…"
+- [OK]      k2 → "Constable'a göre Urbanus'un çağrısının içeriği — Doğu'daki Hristiyanlara yardım ile Kudüs'ün kurtarılmasına ve…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Carl Erdmann 1935'te yayımlanan Die Entstehung des Kreuzzugsgedankens ile soruyu olaydan fikre kaydırdı; kitap…"
+- [OK]      k2 → "Carl Erdmann 1935'te yayımlanan Die Entstehung des Kreuzzugsgedankens ile soruyu olaydan fikre kaydırdı; kitap…"
+- [OK]      k2 → "Erdmann'ın merkezine koyduğu şey seferin kendisi değil, on birinci yüzyıl boyunca papalığın şövalyeliği kilise…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Constable'ın değerlendirmesi açıktır: yirminci yüzyılda yazılmış başka hiçbir eser haçlı çalışmalarının yönünü…"
+- [OK]      k2 → "Aynı kitap, von Ranke'nin resmî ile halk kaynaklı itki arasında yaptığı ayrımı fikirler düzeyine taşıyarak son…"
+- [ATOMSUZ] k3 → "Erdmann'ın hac temasını sonradan eklenmiş sayması ise kendi zayıf noktasıdır: sefere katılan din adamlarının b…" — programatik olarak ölçülemedi (ad karşılığı yok): Kutsal, Kabir
+- [OK]      k2 → "Erdmann'ın hac temasını sonradan eklenmiş sayması ise kendi zayıf noktasıdır: sefere katılan din adamlarının b…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Constable'ın aktardığına göre Voltaire haçlıları serüvenci ve haydut sayıp onları yağma susuzluğuyla açıklamış…"
+- [OK]      k2 → "Aynı damar yirminci yüzyılın sonunda yeniden canlandı: 1992'de Journal of European Economic History'de yayımla…"
+- [OK]      k4 → "Demirkent'e göre Batı, seferlerin asıl etkenini dinî unsurlarda arar; oysa Orta Çağ Avrupa toplumunu bu seferl…"
+- [OK]      k4 → "Aynı maddede kutsal toprakları kurtarma sloganının hedefi açıklamaktan çok örtmek için kullanıldığı savunulur;…"
+- [OK]      k3 → "Bu okumanın gücü, kanıtını çağrının kendi metninden de alabilmesidir: Robert the Monk'ün aktardığı toprak darl…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ISARET]  k4 → "Bu okumanın gücü, kanıtını çağrının kendi metninden de alabilmesidir: Robert the Monk'ün aktardığı toprak darl…" — özel isim kaynakta bulunamadı: Monk
+- [ATOMSUZ] k2 → "Constable'ın gözlemine göre tartışmanın yirminci yüzyıl sonundaki yönü şudur: haçlıları büyük ölçüde açgözlülü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Jonathan Riley-Smith'in bu çerçevedeki savı, haç alanların ve onları finanse eden ailelerin bütün olarak ideal…"
+- [OK]      k6 → "Riley-Smith'in 1997'de Cambridge'de çıkan The First Crusaders, 1095-1131 kitabı, sefere katılanların bir ön li…"
+- [OK]      k7 → "Aynı yazarın bir başka incelemesi doğrudan başlığında sorunu adlandırır: Early Crusaders to the East and the C…"
+- [ATOMSUZ] k2 → "Constable, bu idealist ve bir ölçüde savunmacı duruşu bütün araştırmacıların benimsemediğini yazar ve tarihçil…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Krey'in girişine göre Selçuklu sultanı Alp Arslan'ın 1071'de Malazgirt'te kazandığı zafer Anadolu'yu Türklere …" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Demirkent'in maddesinde bu tablo Batı'nın fırsat okumasıyla tamamlanır: 1074'te Bizans imparatoru Yedinci Mikh…"
+- [OK]      k4 → "Demirkent'e göre Urbanus talebi başka bir açıdan değerlendirdi: paralı asker toplamak yerine şövalyeleri, topr…"
+- [ATOMSUZ] k4 → "Aynı yerde, geniş kitleleri harekete geçirmek için maddi vaadin yetmediği, çağrının din kardeşliği ve fedakârl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Paul Alphandéry'nin okumasında sefer, Deccal'in yaklaştığı ve son günlerin geldiği inancının taşıdığı bir kaba…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k2 → "Bu çizgiyi izleyenlere göre gerçek haçlı seferi yalnızca Birinci Sefer'dir, çünkü yaygın dinî coşku ve halk ka…" — programatik olarak ölçülemedi (ad karşılığı yok): Birinci, Sefer
+- [OK]      k1 → "Aachen'li Albert'in anlatısı Ren şehirlerindeki vaazı, Keşiş Pierre'i, Halk Seferi'ni ve o şehirlerdeki Yahudi…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Demirkent'in maddesi aynı katliamları çağrının öç teması üzerinden okur ve dönemin İbranî kayıtlarının Haçlıla…"
+- [OK]      k2 → "Katliamların sefere içkin mi yoksa bir sapma mı olduğu, Constable'ın açık saydığı sorular arasındadır."
+- [OK]      k8 → "Yirminci yüzyılın ortasında tartışmayı okur kitlesine taşıyan kitap Steven Runciman'ın 1951-54 arasında Cambri…"
+- [OK]      k2 → "Yirminci yüzyılın ortasında tartışmayı okur kitlesine taşıyan kitap Steven Runciman'ın 1951-54 arasında Cambri…"
+- [OK]      k1 → "Yirminci yüzyılın ortasında tartışmayı okur kitlesine taşıyan kitap Steven Runciman'ın 1951-54 arasında Cambri…"
+- [ATOMSUZ] k2 → "Runciman'ın sonuç hükmü serttir: seferleri "trajik ve yıkıcı bir dönem" olarak niteler ve kutsal savaşı Tanrı …" — programatik olarak ölçülemedi (ad karşılığı yok): Tanrı
+- [OK]      k1 → "Madden'ın değerlendirmesine göre bugünkü popüler haçlı tasavvurunu neredeyse tek başına Runciman kurdu; aynı y…"
+- [ATOMSUZ] k1 → "Aynı değerlendirmeye göre bir Bizans uzmanının kaleminden çıkan bu anlatının yaklaşımı, on dokuzuncu yüzyılın …" — programatik olarak ölçülemedi (ad karşılığı yok): Bizans
+- [OK]      k1 → "Aynı kaynakta on dokuzuncu yüzyıl Fransız yazınının seferleri ulusal gurur ve sömürge siyasetinin öncülü gibi …" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "İki uyumsuz resim aynı noktada birleşti: haçlı seferini tanımlayan şeyin İslam'a karşıtlık olduğu fikri."
+- [OK]      k1 → "Arapça kaynakların çoğu kayıp, çevrilmemiş ya da yalnızca yazma hâlinde; Hristiyan haçlı seferi kavramı Orta Ç…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Carole Hillenbrand'ın savunduğu okumaya göre Müslüman yazın seferleri on dokuzuncu yüzyıl ortasına kadar öneml…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Demirkent'in maddesi terimin kendi tarihini verir: dönemin Müslüman tarihçileri "Franklar" derdi, Haçlılar kar…"
+- [ATOMSUZ] k1 → "Sefer dönemine ait Arapça yazın olayı kendi türlerinin içinde tutar: İbnü'l-Esîr'in el-Kâmil fi't-Târîh'i gibi…" — programatik olarak ölçülemedi (ad karşılığı yok): Arapça, İbnü, Şam, Haçlıları
+- [OK]      k4 → "TDV maddesi hareketi 1096'da orduların yola çıkışıyla başlatıp 1291'de bitirir ve arada dokuz büyük sefer saya…"
+- [OK]      k2 → "Constable'a göre ise seferlerin numaralandırılması hem kaynaklarda hem sonraki tarih yazımında birbirini tutma…"
+- [OK]      k2 → "İspanya'daki, kuzeydoğu Avrupa'daki, Albi ve halk seferlerine ise ne gelenekselciler ne çoğulcular bir numara …"
+- [OK]      k2 → "Ernst-Dieter Hehl, haçlı seferinin esasen ne olduğunu soran yazısında her iki tanımı da dar bulur ve haçlı sef…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Urbanus'un çağrısında Doğu'daki Hristiyanlara yardım ile Kudüs'ün kurtarılmasının göreli ağırlığı, mesajın nas…" — 3 atom doğrulandı; 2 ad ölçülemedi
 
-**Özet:** 6 OK · 0 ISARET · 0 HATA · 7 ATOMSUZ
+**Özet:** 42 OK · 2 ISARET · 0 HATA · 10 ATOMSUZ

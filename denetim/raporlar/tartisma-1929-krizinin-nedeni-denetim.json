@@ -1,81 +1,327 @@
 {
   "id": "tartisma-1929-krizinin-nedeni",
   "gecis": 2,
-  "zaman": "2026-08-29T04:48:12.787Z",
-  "govde_hash": "e1dc3947e68e",
-  "commit": "58a10ea",
+  "zaman": "2026-08-29T11:04:12.064Z",
+  "govde_hash": "410b59654f68",
+  "commit": "7549ec6",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Bu haritanın çıkış noktası kaynağın içindekiler yapısıdır: nedenler tek bir listede değil, ayrı katmanlarda durur.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, genel kuramsal muhakeme başlığını ikiye ayırır: ana akım kuramlar ve heterodoks kuramlar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Ana akım başlığı altında Keynesyen ve Monetarist alt başlıkları; heterodoks başlığı altında ise Avusturya Okulu ve Marksist alt başlıkları bulunur.",
-      "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, ana akım başlığı altında ayrıca modern parasal olmayan açıklamalara yer verir ve bunların altında borç deflasyonu ile beklentiler hipotezini ayrı ayrı k",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Aynı ailenin içinde birden çok mekanizmanın bulunması, \"Keynesyen açıklama\" ifadesinin de tek bir cümleye indirgenemeyeceğini gösterir.",
+      "iddia": "Ağustos 1929'da yüzde 3 olan Amerikan işsizlik oranı Mart 1933'te yüzde 25'e çıkmıştı.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, tikel neden kuramları başlığı altında dokuz mekanizma sayar: borç deflasyonu dışı açıklamalar, üretkenlik ya da teknoloji şoku, servet ve gelir eşitsizl",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Aynı aralıkta sanayi üretimi endeksi 114'ten 54'e, yani yüzde 52,6 geriledi; para arzı yüzde 35 daraldı, fiyatlar yaklaşık yüzde 33 düştü ve ülkedeki bankaların",
+      "durum": "OK",
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bir tartışmanın dokuz ayrı mekanizmaya bölünebilmesi, atlasın şu kuralının dayanağıdır: neden cümlesi kurulurken hangi mekanizmanın kastedildiği yazılır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Roosevelt 1933-45.",
+      "anahtar": "k6",
+      "iddia": "Bunalımın hangi düzeneğe bağlanacağı, bir sonraki daralmada merkez bankasının ne yapması gerektiğine dair örtük bir reçetedir; 2008 krizinin en karanlık saatler",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Aynı kaynağın Roosevelt dönemi için hem toparlanmanın anahtarı hem bunalımın uzaması yönünde savlar başlığı tutması, tek bir politikanın iki karşıt değerlendirm",
+      "iddia": "Randall Parker'ın iktisat tarihi ansiklopedisi için hazırladığı değerlendirme bugünkü ağırlık dağılımını şöyle özetler: Amerikan deneyimi büyük ölçüde Friedman ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Popüler anlatı borsa çöküşü ile bunalımı aynı olay sayar; iktisatçılar saymaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "NBER iş çevrimi kayıtları bunalımın başlangıcını Ağustos 1929'a, yani borsanın Ekim'deki çöküşünden öncesine tarihler; buna dayanarak pek çok yazar bunalımın Wa",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Çöküşü merkeze alan anlatının klasik metni John Kenneth Galbraith'in 1955'te yayımlanan The Great Crash, 1929 kitabıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Çöküşü merkeze alan anlatının klasik metni John Kenneth Galbraith'in 1955'te yayımlanan The Great Crash, 1929 kitabıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Kitap 1929 borsa çöküşünü “rampant speculation in the stock market” diye tarif ettiği azgın spekülasyona bağlar ve bütün spekülatif dalgaların ortak paydasını, ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Galbraith bunu yazarken tarihçinin işini de tanımlıyordu: çöküşün hafızada taze tutulması, yinelenmesine karşı bir korunmadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mishkin 1978'de hane bilançolarının bozulmasına ve dayanıklı tüketim ile konut harcamasının ertelenmesine işaret eder; Temin 1976'da servet etkisini kabul eder ",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Kaynağın saydığı mekanizmalardan biri için tutulan kayıt, onu hesap biriminin sabit miktarda altına dayandığı bir parasal sistem olarak tanımlar.",
+      "iddia": "Tartışmanın ekseni 1963'te Milton Friedman ile Anna Schwartz'ın A Monetary History of the United States, 1867-1960 kitabıyla kuruldu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kitap para arzındaki yüzde 35'lik düşüşe “The Great Contraction” adını verir ve reel ekonominin finansal kesimdeki kopuşlarla eşzamanlı hareketini titizlikle be",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ekim 1930'da başlayan banka iflası dalgaları bu okumada iki yönlü iş görür: banka hissedarlarının serveti erir ve dışsal şoklar olarak para arzını aşağı çeker.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1913'te son merci ödünç veren olsun diye kurulan Federal Rezerv, likidite arayan bankalara cömertçe borç vermedi, mevduat dönüştürülebilirliğinin askıya alınmas",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Friedman ile Schwartz'a göre daralma boyunca kurumun elinde para arzının düşmesini engelleyecek alternatif politikalar vardı ve bunlar radikal yenilikler gerekt",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkili, bu felcin başlangıcını New York Federal Rezerv Bankası başkanı Benjamin Strong'un 1928'deki ölümüne bağlar: açık piyasa işlemleri New York'un ağırlıkta o",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karşı-olgusal benzetimler savı destekler: para arzı Ekim 1929 öncesindeki yıllık yüzde 3,3'lük eğilimiyle sürdürülseydi bunalımın büyük bölümü önlenebilirdi.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Meltzer 1976'da kurumun nominal ile reel faizi ayırt edemediğini gösterdi: nominal oranlar düşerken Federal Rezerv bunu gevşek bir kredi piyasası işareti saydı,",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cecchetti ile Nelson ise deflasyonun bir kez başladıktan sonra kısa vadede öngörülebilir hâle geldiğini, dolayısıyla yüksek beklenen reel faizlerin düşen fiyatl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Paul Samuelson parasal tabanın bunalım boyunca düşmediğini hatırlatır ve merkez bankasından gereken her ölçüde genişleme beklemenin geriye dönük bir akıl yürütm",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Moses Abramovitz para arzının merkez bankasının denetleyemeyeceği içsel bileşenler taşıdığını, yani ters nedenselliğin elenmediğini belirtir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Peter Temin itirazı 1976'da doğrudan kitabının başlığına taşıdı: Did Monetary Forces Cause the Great Depression?",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Temin'in bu evredeki savı, daralmanın itici gücünün para değil tüketim harcamasındaki özerk düşüş olduğudur.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Bir para sisteminin tanımının bu kadar dar olması, onu terk etme kararının neden bu kadar geniş sonuçlara bağlanabildiğini gösterir.",
+      "anahtar": "k1",
+      "iddia": "Sav zamanla aşındı: 1999'da Martha Olney, tüketimdeki düşüşün özerk olmadığını, hanelerin taksitli borç yükü altında ezildiğini gösterdi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Peşinatlar büyük, sözleşmeler kısaydı; kaçırılan bir taksit haciz getiriyor ve biriken bütün sermayeyi siliyordu, dolayısıyla harcamayı kesmek 1930'da iflastan ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Parker, özerk tüketim düşüşünü, konut yapımının çökmesini, borsa çöküşünün etkilerini, Romer'in belirsizlik savını ve 1930 tarihli Smoot-Hawley gümrük yasasını ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Irving Fisher'ın 1933'te Econometrica'da yayımlanan makalesi büyük bunalımların baskın etkenlerini aşırı borçluluk ile deflasyonda arar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Irving Fisher'ın 1933'te Econometrica'da yayımlanan makalesi büyük bunalımların baskın etkenlerini aşırı borçluluk ile deflasyonda arar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fiyat düzeyi ve nominal gelirler sert düştüğünde reel borç yükü ağırlaşır; borçlu ödeyemez hâle gelir, toplam talep geriler ve fiyatlar bir kez daha düşerek bor",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ben Bernanke'nin 1983 tarihli çalışması bu şemayı yeniden kurdu ve kendi katkısını ekledi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ben Bernanke'nin 1983 tarihli çalışması bu şemayı yeniden kurdu ve kendi katkısını ekledi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bernanke'nin parasal okumaya üç itirazı vardır: sav finansal kesim ile toplam üretim arasındaki bağı tam açıklamaz, para arzındaki düşüşün üretimi yıllarca aşağ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kredi görüşü diye anılan ekleme şudur: olağan koşullarda fiyat düşüşü serveti borçludan alacaklıya aktaran ikinci dereceden bir etkidir, ama büyük şoklar altınd",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Finansal paniklerin bir başka maliyeti de kredi aracılığının kendisidir: bilgi toplama ve piyasa yapıcılığı pahalılaşınca haneler, çiftçiler ve küçük firmalar k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "James Tobin, 1931'de daralmanın karakterindeki değişimi banka paniklerinden çok karamsar beklentilerin doğuşuna bağlar: Britanya altın standardından çıkana kada",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "John Maynard Keynes 1936'da beklentilerin durumu üzerine uzun uzun yazdı; buna karşın 1931-1933 için beklenti savının ampirik geçerliliğine ilişkin yazın sessiz",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bu okumanın yaslandığı yazın — Eichengreen'in 1986 tarihli çalışmasından 1992'de yayımlanan Golden Fetters kitabına uzanan hat — savaş arası altın standardını d",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu okumanın yaslandığı yazın — Eichengreen'in 1986 tarihli çalışmasından 1992'de yayımlanan Golden Fetters kitabına uzanan hat — savaş arası altın standardını d",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yüzde 40'lık kısmi altın karşılık oranıyla bir birimlik altın çıkışı yurt içi para arzını 2,5 birim düşürüyordu; iki büyük altın fazlası ülkesi olan Fransa ile ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Peter Temin 1989'da bu kampa katıldı ve altın standardına bağlılığı “The Midas Touch” diye adlandırdı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkisi birlikte Friedman ile Schwartz'ın politika hatası iddiasını reddeder: onlara göre parite savunulacaksa ve devalüasyon seçenek değilse, tek bir ülkenin tek",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eichengreen'in vardığı sonuç, savaş öncesi standardı başarılı kılan şeyin ulusal değil uluslararası bir bağlılık olduğu ve bu bağlılığın ülkeler arası işbirliği",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Standardı erken terk eden ülkelerde toparlanma erken başlar: hiç dönmeyen İspanya bunalımın en ağır etkilerini görmedi, Britanya ile İsveç Eylül 1931'de çıkıp t",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
-      "iddia": "Kişi başı GSYH serisinde dünya değeri 1929'da yaklaşık 2.184 uluslararası dolar, 1932'de yaklaşık 1.947 uluslararası dolar, 1939'da yaklaşık 2.377 uluslararası ",
+      "iddia": "Lawrence Officer'ın altın standardı tarihi bu takvimi kendi ayrıntısıyla doğrular ve dengeleyici bir not düşer: bunalım altın standardının bir nedeni olduğu kad",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı kayda göre çözülme çevre ülkelerde başladı, Mayıs 1931'de Avusturya'nın en büyük ticari bankasının batmasıyla Almanya'ya sıçradı ve Temmuz 1931'de Almanya'",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kindleberger 1973'te tartışmaya bir siyaset katmanı ekledi: savaş öncesi altın standardı Britanya'nın tartışmasız önderliğiyle işliyordu; Britanya'nın göreli ge",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kitabın tanıtımı üç kavramı yan yana koyar: panik, bulaşmanın gücü ve önderlik.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kitabın içindekiler listesi de tartışmanın kapsamını çizer: 1929 borsa çöküşü, uçuruma kayış, 1931, dünya iktisat konferansı ve altın bloğunun teslim oluşu ayrı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kırkıncı yıl basımının önsözünü Barry Eichengreen ile Bradford DeLong yazdı; yani rakip çerçevenin kurucusu, bu kitabın yeniden basımını takdim etti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Maddison Project kişi başına GSYH serisinde dünya değeri 1920'de yaklaşık 2.493, 1940'ta yaklaşık 3.413 uluslararası dolardır (2011 fiyatlarıyla).",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "İki çapa arasında bunalımın kendisi görünmez: dünya serisi on yıllık aralıklarla ilerlediği için 1929 zirvesi de 1933 dibi de kayıtta yoktur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Parker'ın kendi kaydı bile beklentilerin rolünü ayrı bir sav olarak ayırmadığını, çünkü 1931-1933 için ampirik doğrulamanın bulunmadığını söyler.",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

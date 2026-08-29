@@ -1,0 +1,671 @@
+{
+ "id": "tartisma-sanayi-devrimi-neden-ingiltere",
+ "govde_hash": "9c8608067429",
+ "commit": "7549ec6",
+ "zaman": "2026-08-29",
+ "hakem": "kor-hakem-2026-08-29",
+ "iddialar": [
+  {
+   "iddia_id": "i001",
+   "cumle": "Kenneth Pomeranz'ın 2000 tarihli kitabını değerlendiren Deepak Lal aynı soruyu, bilim insanlarını yüz yılı aşkın süredir kışkırtan soru diye tanıtır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Lal degerlendirmesi soruyu bir yuzyildir bilim insanlarini kiskirtan soru diye tanitir; Pomeranz 2000 kunyesi ayni sayfada."
+  },
+  {
+   "iddia_id": "i002",
+   "cumle": "Robert Allen'ın kitabındaki merkezî bölüm tam olarak bu başlığı taşır ve Britanya'yı önce Çin'le, sonra Fransa'yla karşılaştırır.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 Allen kitabinin altinci bolumunu Why Was the Industrial Revolution British? basligiyla anar ve Britanya-Cin, Britanya-Fransa karsilastirmasini adiyla sayar."
+  },
+  {
+   "iddia_id": "i003",
+   "cumle": "Taraflar birbirini büsbütün dışlamaz da: Allen kültürü, tüketimi ve mülkiyet haklarını gerekli ama yetersiz sayar; Deirdre McCloskey rakip açıklamaların her birine ayrı bölüm ayırıp hiçbirini yeterli bulmadığını ileri sürer.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k1 rakip aciklamalari gerekli ama yetersiz (necessary, but insufficient) sayar; k4 McCloskey nin 14-38. bolumlerde rakipleri tek tek ele aldigini yazar."
+  },
+  {
+   "iddia_id": "i004",
+   "cumle": "Kitabı EH.Net için değerlendiren Tim Leunig bu konumu Rothbarth-Habakkuk çizgisinin devamı sayar ve Allen'ın kendi formülünü aktarır: \"ücretler dikkat çekici ölçüde yüksek, enerji dikkat çekici ölçüde ucuzdu\".",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Tirnakli aktarim k1 metninde birebir: wages were remarkably high, and energy was remarkably cheap; Rothbarth-Habakkuk nitelemesi de ayni cumlede."
+  },
+  {
+   "iddia_id": "i005",
+   "cumle": "Cambridge University Press'in 2009'da yayımladığı The British Industrial Revolution in Global Perspective 331 sayfadır ve on sekizinci yüzyıl Britanyası'nın iktisadi koşullarını konu alır.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Archive.org sayfasi katalog kaydidir: yayin yili 2009, yayinci Cambridge University Press ve xi, 331 s. bilgisi orada. Kitabin ic iddialari bu kunyeye yaslanmaz."
+  },
+  {
+   "iddia_id": "i006",
+   "cumle": "Allen buharı, pamuğu ve demiri ayrı bölümlerde bu fiyat mantığıyla ele alır; Leunig'e göre onu salt bir fiyat kuramcısından ayıran şey, icadı fiyat oranlarının otomatik sonucu saymaması ve icat emeğini ayrıca anlatmasıdır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 buhar, pamuk ve demir bolumlerini sayar ve Allen in icadi fiyat oraninin otomatik sonucu saymadigini ayrica belirtir."
+  },
+  {
+   "iddia_id": "i007",
+   "cumle": "Standart anlatıda tarımsal verimlilik artışı insanları serbest bırakıp şehirlere gönderirken, Leunig'in özetine göre Allen'da sıra terstir: yüksek şehir ücretleri kırsal emeği çekmiş, geride kalan işgücünün azalması verimliliği sonradan yükseltmiştir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 ucuncu bolum icin standart anlatinin tersine cevrildigini yazar: yuksek sehir ucretleri emegi ceker, verimlilik sonra yukselir."
+  },
+  {
+   "iddia_id": "i008",
+   "cumle": "Aynı dizinin dördüncü bölümü ucuz enerji ekonomisini karşılaştırmalı olarak ele alır ve ucuz kömürü Britanya'nın iktisadi başarısının bir temeli sayar.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 dorduncu bolumu ucuz enerji ekonomisine ayirir ve ucuz enerjiyi Britanya nin iktisadi basarisinin bir temeli sayar."
+  },
+  {
+   "iddia_id": "i009",
+   "cumle": "Onuncu bölüm ise doğrudan Joel Mokyr'ın tezine ayrılmıştır ve aynı hükmü orada da yineler: aydınlanmış iktisat gerekliydi, yeterli değildi.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 onuncu bolumu Allen in Mokyr degerlendirmesi olarak tarif eder: aydinlanmis iktisat gerekli, yetersiz."
+  },
+  {
+   "iddia_id": "i010",
+   "cumle": "Joel Mokyr'ın 2010'da Princeton University Press'ten çıkan ve 1700-1850 aralığını kapsayan The Enlightened Economy kitabı cevabı inançlarda arar; kitabı değerlendiren Knick Harley'ye göre Mokyr, teknolojiyi iktisadi değişimin ana motoruna dönüştüren şeyin Aydınlanma'yla ilişkilendirilen inanç kümesindeki değişim olduğunu savunur.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k3 kunye satiri 1700-1850 ve 2010 Princeton bilgisini tasir; tez ozeti teknolojiyi ana motora donusturenin Aydinlanma ile iliskilendirilen inanc degisimi oldugudur."
+  },
+  {
+   "iddia_id": "i011",
+   "cumle": "Kavramın ağırlığı kitabın mimarisinden okunur; Harley'nin sayımına göre yirmi bölümün beşinin başlığında Aydınlanma sözcüğü geçer.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k3 yirmi bolumun besinin basliginda Aydinlanma sozcugunun gectigini sayar."
+  },
+  {
+   "iddia_id": "i012",
+   "cumle": "Aynı değerlendirmeye göre kitap, sanayi aydınlanmasının Britanya'ya özgü olduğunu göstermekte tam olarak ikna edici değildir; buna karşılık fikirler tarihinin hikâyenin merkezinde olması gerektiğini güçlü biçimde savunur.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k3 kitabin Britanya ya ozgu bir sanayi aydinlanmasi savini tam ikna edici bulmaz ama fikirler tarihinin merkezde olmasi gerektigi savini guclu bulur."
+  },
+  {
+   "iddia_id": "i013",
+   "cumle": "Deirdre McCloskey'nin 2010 tarihli Bourgeois Dignity kitabı dört ciltlik bir dizinin ikinci halkasıdır ve 571 sayfada kırk altı kısa bölüm tutar.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k4 kunye satiri xvi + 571 s. ve 2010 Chicago bilgisini, govde ise dort ciltlik dizinin ikinci halkasi ve kirk alti bolum bilgisini verir."
+  },
+  {
+   "iddia_id": "i014",
+   "cumle": "Kitabı değerlendiren Jared Rubin'in özetine göre McCloskey, Batı gelirlerinin sanayileşme öncesindeki günlük üç dolarlık ortalamadan bugünkü düzeye çıkışını açıklamak için sıralanan rakipleri — Weber'in ahlakı, Marx'ın birikimi, Diamond'ın coğrafyası, Clark'ın seçilim mekanizması, Mokyr'ın bilimi, North'un kurumları — tek tek ele alır ve hiçbirini gözlenen ölçek için yeterli bulmaz.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k4 rakipleri adlariyla sayar (Weber, Marx, Diamond, Clark, Mokyr, North) ve gunluk uc dolarlik onceki ortalamayi aktarir."
+  },
+  {
+   "iddia_id": "i015",
+   "cumle": "Tüccara, mucide ve tacire tanınan onur ile özgürlük, daha geniş bir kesime burjuva olma hevesi verdi; Rubin bu tezi kültürel ama alışılmış kültür açıklamalarından daha incelikli sayar.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k4 tezi retorik ve onur uzerinden ozetler; Rubin bu okumayi alisilmis kulturel aciklamalardan daha nuansli sayar."
+  },
+  {
+   "iddia_id": "i016",
+   "cumle": "İkincisi kökendir: burjuva onurunun nereden geldiği McCloskey'nin kitabında cevapsız kalır ve kurumsalcılar bu boşluğa kendi açıklamalarını yerleştirebilir.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k4 burjuva onurunun kokeninin kitapta cevapsiz kaldigini ve kurumsalcilarin bu bosluga kendi aciklamalarini koyacagini yazar."
+  },
+  {
+   "iddia_id": "i017",
+   "cumle": "Kurumsal cevabın klasik metni, Douglass North ile Barry Weingast'ın 1989'da Journal of Economic History dergisinde yayımlanan makalesidir.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Crossref kaydi yazar, dergi, cilt ve 1989 tarihini birlikte verir."
+  },
+  {
+   "iddia_id": "i018",
+   "cumle": "Kaydın özetine göre makale, 1688 Şanlı Devrimi'nin ardından İngiltere'deki anayasal düzenlemelerin evrimini inceler ve kurumsal değişimi kazananların hedefleriyle yorumlar: güvenceli mülkiyet hakları, servetin korunması ve müsadereci yönetimin ortadan kaldırılması.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Kayitin yayinci ozeti 1688 Sanli Devrimi ni, on yedinci yuzyil Ingilteresi ni ve kazananlarin hedeflerini (guvenceli mulkiyet, servetin korunmasi, musadereci yonetimin kaldirilmasi) aynen sayar."
+  },
+  {
+   "iddia_id": "i019",
+   "cumle": "Yazarların savı, yeni kurumların İngiltere'de yönetimin mülkiyet haklarına uyacağına dair güvenilir bir taahhüt vermesini mümkün kıldığıdır; kanıt olarak sermaye piyasalarındaki gelişme gösterilir.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Ozet, yeni kurumlarin mulkiyet haklarina uyma taahhudunu guvenilir kildigini ve kanitin sermaye piyasalarindan geldigini soyler."
+  },
+  {
+   "iddia_id": "i020",
+   "cumle": "McCloskey'yi değerlendiren yazıya göre itiraz tersinden de kurulabilir; kültürel tutumlar kurumlara içsel ise, onur kaymasının kökeninde yine kurumlar aranmalıdır.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k4 kurumsalcilarin sorusunu aynen kaydeder: kulturel tutumlar kurumlara icsel degil midir?"
+  },
+  {
+   "iddia_id": "i021",
+   "cumle": "Allen'ı değerlendiren yazı ise mülkiyet haklarını gerekli ama yetersiz sayan konumu kaydeder.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 Allen in mulkiyet haklarini gerekli ama yetersiz sayan konumunu birinci bolum ozetinde aktarir."
+  },
+  {
+   "iddia_id": "i022",
+   "cumle": "Kitabı değerlendiren Deepak Lal'a göre Pomeranz, on sekizinci yüzyılın dönümüne kadar Çin ile Avrupa çekirdekleri arasında yaşam standardı bakımından belirgin bir ayrışma olmadığını ikna edici biçimde gösterir; 1750 gibi geç bir tarihte bile \"Yangzi Deltası ile İngiltere arasındaki benzerlikler farklardan büyüktü\".",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k6 hem ayrisma olmadigi tespitini hem 1750 karsilastirmasini aynen tasir; tirnakli cumle Yangzi Deltasi ile Ingiltere benzerligi uzerinedir."
+  },
+  {
+   "iddia_id": "i023",
+   "cumle": "İkincisi Yeni Dünya'dır; keşif ve ticaret Avrupa'nın toprak sınırını genişletti.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k6 Pomeranz in ikinci cevabini Yeni Dunya nin kesfi ve isletilmesi olarak ozetler ve bunun Avrupa nin toprak sinirini genislettigini yazar."
+  },
+  {
+   "iddia_id": "i024",
+   "cumle": "Aynı değerlendirme, Pomeranz'ın kendisinin de Yeni Dünya'dan gelen toprak yoğun ürün artışının büyük olamayacağını kabul ettiğini not eder ve açıklamayı kültüre geri çağırır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k6 Pomeranz in kendi kabulunu aktarir ve aciklamayi kulture geri cagirir; itiraz degerlendirmenin kendi konumudur."
+  },
+  {
+   "iddia_id": "i025",
+   "cumle": "Eric Williams'ın doktora tezinin yayımlanmış hâli olan Capitalism and Slavery 1944'te çıktı; yazar 1962'de Trinidad ve Tobago'nun başbakanı oldu.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k11",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k11 kitabin 1944 te yayimlandigini ve Williams in 1962 de Trinidad ve Tobago basbakani oldugunu yazar."
+  },
+  {
+   "iddia_id": "i026",
+   "cumle": "Williams, köleliğin Britanya ekonomisinin gelişmesinde büyük rol oynadığını, kölelikten elde edilen yüksek kârların Sanayi Devrimi'nin finansmanına yardımcı olduğunu savundu.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k11",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k11: yuksek kolelik karlarinin Sanayi Devrimi nin finansmanina yardim ettigi savi Williams a atfen aynen gecer."
+  },
+  {
+   "iddia_id": "i027",
+   "cumle": "Kitabı değerlendiren Kevin O'Rourke'a göre Inikori, dış ticaretin — özellikle Afrika, Batı Hint Adaları ve Amerika'yı kapsayan Atlantik havzasıyla ticaretin — sanayileşmenin başarısı için belirleyici olduğunu, Atlantik'in iki yakasındaki Afrikalıların bu sürecin hem üreticisi hem tüketicisi olarak merkezinde durduğunu savunur.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k7 Inikori nin savini Atlantik havzasi (Afrika, Bati Hint Adalari, Amerika) ve Afrikalilarin hem uretici hem tuketici konumu olarak ozetler."
+  },
+  {
+   "iddia_id": "i028",
+   "cumle": "Inikori'nin özgün katkısı, İngiliz sanayileşmesinin bir bölümünü yeniden ihracat ikamesi olarak okumasıdır: İngiliz tüccarlar daha önce Kıta Avrupası ya da Asya malı sattıkları Atlantik pazarlarında giderek Britanya malı satmaya başladı.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k7 yeniden ihracat ikamesi (re-export substitution industrialization) kavramini ve Ingiliz tuccarlarin mal degistirmesini aynen anlatir."
+  },
+  {
+   "iddia_id": "i029",
+   "cumle": "O'Rourke kitabın kanıt yığınını ikna edici bulur ama nedenselliğe dair çekincesini de yazar: teknik değişimi tetikleyen mekanizma metinde kesin biçimde tarif edilmez ve pek çok kliometrisyen Inikori'nin savını \"henüz kanıtlanmış değil\" sayacaktır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k7 mekanizmanin kesin tarif edilmedigini ve kliometrisyenlerin savi henuz kanitlanmis saymayacagini yazar; tirnakli ifade bu cumleden."
+  },
+  {
+   "iddia_id": "i030",
+   "cumle": "İngiltere'nin bölgeleri demiryolundan önce birbirine büyük ölçüde bağlı olmadığı için ayrı gözlemler sayılabilir; buradan bakınca tarımsal dönüşüm güneyde, sanayi dönüşümü kuzeyde gerçekleşmiştir ve tarımı öne çıkaran açıklamalar bu testi geçemez.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k7 bolgelerin demiryoluna kadar kopuk olmasi varsayimini ve tarim devriminin guney, sanayi devriminin kuzey olgusu oldugu testini aktarir."
+  },
+  {
+   "iddia_id": "i031",
+   "cumle": "O'Rourke bu kurguyu aktarırken kliometrisyenin arayacağı kanıtın eksik kaldığını da yazar: bölgelerin birbirinden kopukluğunu gösterecek fiyat verisi de İngiliz emek piyasalarının içsel bütünleşmesine dair kanıt da kitapta yoktur.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k7: price evidence springs immediately to mind, but the reader will not find it here; Nor will the reader find much evidence on the internal integration (or lack thereof) of English labor markets. Onceki halindeki 'testin fikrini ilgi cekici bulur' atfi kaynakta yoktu, kaldirildi."
+  },
+  {
+   "iddia_id": "i032",
+   "cumle": "Stanley Engerman'ın hesabına göre köle ticaretinden ve Batı Hint Adaları plantasyonlarından gelen toplam kâr, sanayileşme yıllarının herhangi birinde Britanya ekonomisinin yüzde 5'inin altında kalır; David Richardson ise köle ticareti kârlarının Britanya'daki iç yatırımın yüzde 1'inden azına denk düştüğünü bulur.",
+   "onem": "merkezi",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k11",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k11 Engerman icin Britanya ekonomisinin yuzde 5 inin altinda, Richardson icin ic yatirimin yuzde 1 inden azi der. Iki deger de o kaydin aktardigi ikincil ozetlerdir; birincil hesaplar bu kunyeden gorulmez."
+  },
+  {
+   "iddia_id": "i033",
+   "cumle": "Seymour Drescher'in 1977 tarihli Econocide kitabı ise 1807'deki yasağı köleliğin değer kaybına değil, oy verebilen Britanya kamuoyunun ahlaki tepkisine bağlar.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k11",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k11 Drescher in 1977 tarihli Econocide kitabini ve 1807 yasaginin ahlaki tepkiyle aciklanmasini aynen kaydeder."
+  },
+  {
+   "iddia_id": "i034",
+   "cumle": "Aynı kayıt Williams'ı savunan tarafı da not eder: Hilary Beckles 2004'te kitabın Karayipler'deki akademik saygınlığına dikkat çeker, Carrington ise 1984 tarihli cevabında kitabın iki ana tezini savunur — sanayi kapitalizminin yükselişinin köle ticaretiyle köleliği tasfiye ettiği ve köle ticareti ile şeker sanayisinin İngiltere'de sermaye oluşumuna katkıda bulunduğu.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k11",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k11 Beckles in 2004 degerlendirmesini ve Carrington in 1984 cevabinda savundugu iki ana tezi aynen sayar."
+  },
+  {
+   "iddia_id": "i035",
+   "cumle": "Jane Humphries'in 2013 tarihli makalesi başlığında iki itirazı birden adlandırır — toplulaştırılmış verinin cazibesi ve ataerkil bakış açısının tuzakları —, alt başlık ise çalışmayı doğrudan yüksek ücret ekonomisi yorumunun eleştirisi olarak tanımlar.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k8",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Semantic Scholar kaydi yalnizca baslik, yazar ve yil tasir; iddia basligin kendisiyle sinirli tutuldu, makalenin ic gerekcesine girilmedi."
+  },
+  {
+   "iddia_id": "i036",
+   "cumle": "Başlık 1650-1800 arası Londra inşaat işlerini konu alır; gerçek sözcüğünü tırnağa alıp ücret sorusunu soru işaretiyle açık bırakır ve yanına müteahhitleri, işçileri ve ödemeyi birlikte yazar.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k9",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Semantic Scholar kaydindaki baslik: 'Real' wages? Contractors, workers, and pay in London building trades, 1650-1800. Tirnak 'Real' sozcugundedir; onceki cumle sorunun tamaminin tirnakta oldugunu ima ediyordu, duzeltildi. Kunye baslik/yazar/yil duzeyinde dogrular."
+  },
+  {
+   "iddia_id": "i046",
+   "cumle": "Okumanın erken ifadesi Knick Harley'nin 1982'de Journal of Economic History dergisinde yayımladığı makaledir: yeni sanayi üretimi endekslerine göre Britanya'nın on sekizinci yüzyılın son ve on dokuzuncu yüzyılın ilk on yıllarındaki sanayi büyümesi, o güne dek elde bulunan tahminlerden yaklaşık üçte bir yavaştır; buradan çıkan sonuç, on sekizinci yüzyıl ortasındaki sanayi çıktısının sanılandan neredeyse iki kat yüksek olduğudur.",
+   "onem": "merkezi",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k13",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k13 Crossref kaydi yayincinin ozet metnini tasir: New indices of industrial production show that Britain's industrial growth in the last decades of the eighteenth century and the first decades of the nineteenth century was about a third slower than currently available estimates indicate. Therefore, mid-eighteenth-century industrial output was nearly twice as high as previously assumed. Kunye satiri yazar (C. Knick Harley), yil (1982), dergi (The Journal of Economic History), cilt 42, s. 267-289."
+  },
+  {
+   "iddia_id": "i037",
+   "cumle": "Nicholas Crafts ile Harley'nin 1992'de Economic History Review dergisinde yayımladığı makale bu okumanın yeniden ifadesidir; başlık onu Crafts-Harley görüşü olarak adlandırır.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k10",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k10 Crossref kaydi: Crafts (ilk yazar) ve C. K. Harley, Output Growth and the British Industrial Revolution: A Restatement of the Crafts-Harley View, Economic History Review 45 (Kasim 1992), s. 703. Kayitta ozet yok; icerik iddiasi artik k13'e yaslaniyor."
+  },
+  {
+   "iddia_id": "i038",
+   "cumle": "Maddison serisindeki Birleşik Krallık rakamları bu okumayla uyumlu görünür: kişi başına gelir 1760'ta yaklaşık 2.915, 1820'de yaklaşık 3.306, 1870'te ise yaklaşık 5.829 uluslararası dolardır.",
+   "onem": "merkezi",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k12",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "OWID Maddison serisinin Birlesik Krallik satirlari: 1760 icin 2915, 1820 icin 3306, 1870 icin 5829 (2011 uluslararasi dolari)."
+  },
+  {
+   "iddia_id": "i039",
+   "cumle": "Altmış yılda yüzde on beşi bulmayan bir artışın ardından sonraki elli yılda yüzde yetmişi aşan bir büyüme, hızlanmanın klasik 1760-1830 penceresinden sonraya düştüğünü düşündürür.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k12",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Yuzdeler ayni seriden hesaplandi: 2915ten 3306ya artis yuzde 13,4; 3306dan 5829a artis yuzde 76,3."
+  },
+  {
+   "iddia_id": "i040",
+   "cumle": "Allen'ın kitabını değerlendiren yazı da Crafts'ın 1985 tarihli çalışmasını bu tartışmanın referans noktası olarak anar.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k1 Crafts in 1985 tarihli calismasini karsilastirma noktasi olarak anar."
+  },
+  {
+   "iddia_id": "i041",
+   "cumle": "Fiyat verisi ile teknoloji tarihi Allen'ın çerçevesinde en dolaysız karşılığını bulur; kurumsal değişimin zamanlaması ve sermaye piyasası kayıtları North ile Weingast'ın çerçevesine oturur; Atlantik ticaretinin hacmi Inikori'nin arşiv malzemesinde görünür; bilgi üretiminin toplumsal örgütlenmesi Mokyr'ın, değer değişiminin retoriği McCloskey'nin alanıdır.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "baglam"
+    },
+    {
+     "anahtar": "k5",
+     "destek": "baglam"
+    },
+    {
+     "anahtar": "k7",
+     "destek": "baglam"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Taraflarin hangi kanit turunde guclu oldugunu ozetleyen yazar sentezi; her kaynak kendi tarafini destekler ama bu esleme kaynaklarin ortak beyani degildir."
+  },
+  {
+   "iddia_id": "i042",
+   "cumle": "Sanayi aydınlanmasının Britanya'ya özgülüğü, Mokyr'ı değerlendiren yazının da çözemediği noktadır.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k3 sanayi aydinlanmasinin Britanya ya ozgulugu konusunda ikna olmadigini yazar."
+  },
+  {
+   "iddia_id": "i043",
+   "cumle": "Burjuva onurunun kökeni McCloskey'nin kitabında cevapsız kalır ve kurumların kendisinin nereden geldiği kurumsal çerçevenin içinde durur.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k4 hem burjuva onurunun kokeni hem kurumlarin kokeni sorusunu acik birakildigi bicimde kaydeder."
+  },
+  {
+   "iddia_id": "i044",
+   "cumle": "Kölelik kârlarının Britanya ekonomisi içindeki ağırlığı birbirinden uzak tahminlerle ölçülmeye devam eder; yüksek ücret tezinin dayandığı seriler de Humphries ile Stephenson'ın itirazlarından sonra tartışmaya açıktır.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k11",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k11 kolelik karlarinin agirligi konusunda birbirinden uzak tahminleri sayar; ucret serilerine iliskin ikinci yarim k8 ve k9 kayitlarindan gelir ve bu kunyeye yaslanmaz."
+  },
+  {
+   "iddia_id": "i045",
+   "cumle": "Yer sorusu ile zaman sorusunun birlikte cevaplanma zorunluluğu da sürüyor: bir etken Britanya'yı komşularından ayırıyorsa neden tam o yüzyılda etkili olduğu, zamanlamayı açıklıyorsa neden başka yerde aynı sonucu vermediği sorulmaya devam eder.",
+   "onem": "renk",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "baglam"
+    }
+   ],
+   "guven": "dusuk",
+   "inceleme": "Kapanis cumlesi; k1 yer ve zaman sorusunun birlikte kuruldugu bolumu adlandirir, cumlenin kendisi yazar sentezidir."
+  }
+ ],
+ "sayaclar": {
+  "dogrudan": 39,
+  "kismi": 5,
+  "desteksiz": 0,
+  "olculemez": 2
+ }
+}

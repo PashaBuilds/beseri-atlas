@@ -1,0 +1,805 @@
+{
+  "id": "tartisma-demografik-donum-sonuclari",
+  "govde_hash": "0c029893c9df",
+  "commit": "7549ec6",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i1",
+      "cumle": "Phillip Longman 2004'te, düşen doğum hızlarının dünya refahını tehdit ettiğini savunan bir kitap yayımladı; kitabın alt başlığı savın kendisini taşıyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog kaydi yazar, yayin yili ve alt basligi birebir tasiyor."
+    },
+    {
+      "iddia_id": "i2",
+      "cumle": "On yıl sonra Ronald Lee ile Andrew Mason, kırk ülkenin ulusal transfer hesaplarına dayanan bir incelemeyle sonucu tersine çevirdi: ölçüt kişi başına tüketim olduğunda düşüş bir kayıp değil, bir kazanç olarak görünüyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ustveri kaydindaki ozet 40 ulke ve tuketim olcutu sonucunu veriyor; tam metin gorulmedi."
+    },
+    {
+      "iddia_id": "i3",
+      "cumle": "Ölçüler ise iki tarafa da malzeme veriyor: bağımlılık oranı yükseliyor, kişi başına tüketim hesapları düşüşü cezalandırmıyor, projeksiyonlar revizyondan revizyona kayıyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Uc egilim uc kayittan ayri ayri okunuyor; tuketim ayagi ozet duzeyinde."
+    },
+    {
+      "iddia_id": "i4",
+      "cumle": "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgang Lutz düşük doğurganlığın kendini besleyen bir tuzağa dönüşebileceğini öne sürer; demografik temettü çerçevesi ise sorunun tek bir dünya için değil, birbirinden ayrı iki yaş yapısı için sorulması gerektiğini savunur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Pozisyon haritasi; her ad kendi kaydindaki baslik ya da ozetle eslesiyor. Dorduncu cizgi kisi adi degil: \"demografik temettu\" cerceve adi ve pencerenin kendiliginden kazanca donusmedigi uyarisi k4'te birebir geciyor (hakem ekledi)."
+    },
+    {
+      "iddia_id": "i5",
+      "cumle": "Demografi nüfusu üç kümeye böler: on beş yaşın altındaki çocuklar, on beş ile altmış dört arasındaki çalışma çağı ve altmış beş yaş üstü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yas kumelerinin tanimi kaynakta birebir."
+    },
+    {
+      "iddia_id": "i6",
+      "cumle": "Bağımlılık oranı birinci ve üçüncü kümenin toplamını ikinciye böler; yüz kişilik bir çalışma çağı nüfusuna kaç bağımlı düştüğünü verir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bagimlilik orani tanimi ve yuz kisilik taban kaynakta."
+    },
+    {
+      "iddia_id": "i7",
+      "cumle": "2018'de dünyada altmış dört yaşın üstündeki insanların sayısı, beş yaşın altındaki çocukların sayısını tarihte ilk kez aştı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "2018 kavsagi kaynakta tarihte ilk kez ifadesiyle geciyor."
+    },
+    {
+      "iddia_id": "i8",
+      "cumle": "Dünya Sağlık Örgütü aynı kavşağı altmış yaş sınırıyla ve 2020 için kaydeder; aynı yerde altmış yaş üstü nüfusun payının 2015 ile 2050 arasında yüzde 12'den yüzde 22'ye çıkacağını yazar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "2020 kavsagi ve yuzde 12-22 araligi bilgi notunda birebir."
+    },
+    {
+      "iddia_id": "i9",
+      "cumle": "Örgütün kestirimine göre 2030'da her altı kişiden biri altmış yaş ve üstü olacak; altmış yaş üstü nüfus 2020'deki 1 milyar kişiden 1,4 milyara çıkacak.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "2030 orani ve 1 milyar / 1,4 milyar degerleri bilgi notunda."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Seksen yaş ve üstündeki insan sayısının 2020 ile 2050 arasında üçe katlanarak 426 milyona ulaşması bekleniyor; Dünya Sağlık Örgütü bütün ülkelerin sağlık ve sosyal sistemlerini bu kaymaya hazırlamakta büyük güçlüklerle karşılaştığını yazıyor.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "426 milyon ve sistem hazirligi uyarisi bilgi notunda."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Japonya'da 1950'de altmış dört yaş üstü her bir kişiye karşılık on beş yaşın altında yediden fazla çocuk vardı; 2021'de altmış dört yaş üstündekilerin sayısı on beş yaşın altındakilerin iki katını aştı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Japonya karsilastirmasi kaynaktaki iki yil icin verili."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Nijerya'da aynı yıl bağımlıların yüzde 94'ü gençti.",
+      "onem": "renk",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Nijerya orani kaynakta yuzde 94 olarak geciyor."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Longman'ın kitabı 2004'te Basic Books etiketiyle çıktı; içindekiler listesi savın iskeletini veriyor: kaybolan işgücü arzı, çocuğun maliyeti, yaşlanmanın maliyeti, ilerlemenin yavaşlaması.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yayinevi ve bolum listesi katalog sayfasinda."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Aynı çizginin daha ayrıntılı dökümü olumsuz etkileri şöyle sıralıyor: bağımlılık oranının yükselmesiyle çalışan nüfus üzerindeki baskının artması, yaşlı bakımında bakıcı yetersizliği, emekliye düşen çalışan sayısı azaldığı için hak edilmiş ödemelerin finansmanının zorlaşması, yeniliğin gerilemesi ve yaşlanan nüfusun getirdiği deflasyon.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Olumsuz etki dokumu kaynagin kendi listesi; kaynak giris kapisi oldugu icin guven orta."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Nüfusu azalan bir ülkenin sağlık, yaşlılık ödemeleri, savunma, eğitim ve su-kanalizasyon altyapısı gibi kamu hizmetlerini finanse etmekte zorlanacağı ise aynı kaydın listesinde değil, politika seçeneklerini açan bölümünde duruyor.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kamu hizmeti finansmani kaynakta birebir var ama olumsuz etkiler listesinde degil, politika bolumunun giris cumlesinde; hakem konumu duzeltti."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Avrupa'nın demografik kışına dair başlıkların sıradanlaştığı, İtalya Başbakanı Giorgia Meloni'nin ülkesinin yok olmaya mahkûm olduğunu söylediği ve ortaya bir paranoyanın çıktığı ansiklopedi kaydında yazıyor — ama kaydın kendi değerlendirmesi olarak değil, dipnotunda aktardığı bir dergi yazısından alıntı olarak.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Meloni cumlesi de paranoya nitelemesi de kaydin govde metninde degil, bir dergi yazisindan aktarilan dipnot alintisinda; hakem atfi duzeltti, destek dogrudan'dan kismi'ye indirildi."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Aynı kaydın kendi uyarısı da metnin içinde duruyor: düşük doğurganlıktan doğan yavaş bir nüfus düşüşünün iktisadi etkilerine dair öngörüler kuramsaldır, çünkü böyle bir olgunun benzeri yaşanmamıştır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynagin kendi ihtiyat cumlesi; tartismanin dengesi icin merkezi sayildi."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Lee ile Mason'ın 2014 tarihli incelemesi kırk ülkenin ulusal transfer hesaplarını tarıyor ve sonucu seçilen ölçüte bağlıyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yil ve yazarlar ustveri duzeyinde dogrudan; 40 ulke sayisi ozette."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Devlet bütçeleri açısından yenilenme düzeyinin belirgin biçimde üstünde bir doğurganlık en avantajlısı çıkıyor; yaşam standardı ölçüsüne aileler de katıldığında yenilenme düzeyine yakın doğurganlık öne geçiyor; büyüyen bir işgücüne sermaye sağlamanın maliyeti hesaba katıldığında ise yenilenme düzeyinin altındaki doğurganlık kişi başına tüketimi en yükseğe çıkarıyor.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Uc katmanli bulgu yalnizca ozetten okunuyor."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Kapanış cümlesi yalnızca sonucu değil çekinceyi de taşıyor: yazarlar önce düşük doğurganlığın kamu programlarını gerçekten zorlayacağını, çok düşük doğurganlığın ise yaşam standardını aşağı çekeceğini kabul ediyor; ancak ondan sonra \"ılımlı ölçüde düşük doğurganlık ve nüfus düşüşü geniş maddi yaşam standardının lehinedir\" diyorlar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alinti ve onu onceleyen cekince kayittaki ozetin kapanis cumlesinde birebir; onarim metninde dusurulmus olan cekince hakem tarafindan geri konuldu."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Daron Acemoğlu ile Pascual Restrepo, yaşlanmanın sanayide otomasyonu artırdığını savunuyor: orta yaşlı işgücündeki daralma elle yapılan üretim görevlerinde bir kıtlık yaratıyor, robot ve öteki otomasyon teknolojilerinin benimsenmesi bunu izliyor.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Otomasyon savi kayittaki ozette birebir; ad yazimi kutukteki \"Daron Acemoğlu\" bicimine hakem tarafindan hizalandi."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Aynı çalışma, hızlı yaşlanan ülkelerde otomasyon yeniliğinin de arttığını, otomasyona elverişli sanayilerde verimliliğin yükselip emek payının göreli olarak gerilediğini bildiriyor.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Verimlilik ve emek payi bulgulari ozette sayiliyor."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Çalışma çağındaki kadınların işgücüne katılımı 2018'de üç ülke dışında her yerde erkeklerin gerisindeydi; Güney Kore'de kadınların yüzde 59'u çalışırken erkeklerde oran yüzde 79'du.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "2018 katilim oranlari kaynakta birebir."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Aynı kayıt bu kaldıracın sınırını da yazıyor: katılım bir tavana ulaştığında etki durur ve kazanç kalıcı olmaz.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tavan itirazi kaynagin kendi cekincesi."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Emeklilik yaşı için verilen hesap şöyle: 2010 ile 2050 arasında emeklilik yaşını her on yılda iki ya da üç yıl yükseltmek, Almanya ve Japonya gibi yaşlı ülkelerde çalışma çağı nüfusundaki daralmayı telafi ederdi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "2010-2050 hesabi kaynakta bir calismaya atfen veriliyor."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Japonya 2019 Nisan'ında bakım, inşaat, tarım ve gemi yapımı gibi ağır işgücü açığı olan sektörler için yabancı çalışanlara ayrı bir oturma statüsü açtı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Japonya oturma statusu ve tarihi kaynakta."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Üçü de yaş yapısını değil, o yapıdan üretilen çıktıyı değiştirmeyi hedefliyor; tartışmanın karamsar tarafı da zaten çıktının değil yapının kendisinin bozulduğunu söylüyor.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Yorum cumlesi; kaynak yalnizca karamsar cizginin konumunu veriyor."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Japonya ile Almanya'nın ekonomileri, nüfuslarının azalmaya başladığı 2003-2006 aralığında toparlanmaya geçti; kişi başına hasıla iki ülkede de 2005 sonrasında daha hızlı büyüdü ve 2009 ile 2017 arasında Japonya'nın kişi başına hasıla artışı, nüfusu artmayı sürdüren Amerika Birleşik Devletleri'ninkini geçti.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Japonya-Almanya ve 2009-2017 karsilastirmasi kaynakta."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Aynı kayıt iktisadi başarının ölçüsü olarak toplam hasılayı değil kişi başına hasılayı öne çıkarıyor.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kisi basina olcut tercihi kaynagin kendi ifadesi."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Wolfgang Lutz'un 2006 tarihli hipotezi tartışmanın zeminini kaydırıyor: Avrupa'da doğumun ertelenmesini daha da uzatabilecek ve doğum sayısını daha da azaltabilecek kuvvetler bir arada işlerse, düşük doğurganlık kendini yeniden üreten bir tuzağa dönüşebilir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kayitta ozet yok; hipotezin adi, yazari ve Avrupa kapsami baslik duzeyinde dogrulandi, mekanizma anlatimi bu cerceveyle sinirli."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Sav bir tahmin değil bir hipotezdi ve karşı kanıt hızla geldi: Mikko Myrskylä, Hans-Peter Kohler ve Francesco Billari 2009'da, kalkınmadaki ilerlemelerin doğurganlık düşüşlerini tersine çevirdiğini bildirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Baslik, yazarlar ve yil ustveri duzeyinde dogrudan."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Julia Hellstrand ve arkadaşlarının 2021 tarihli çalışması, 2010 dolaylarında başlayan dönem doğurganlığı düşüşünün İskandinav ülkelerinde özellikle belirgin olduğunu gösterdi; düşüş büyük ölçüde birinci çocuk doğumlarında toplanıyor ve on beş yaşından otuzlu yaşların ortasına kadar bütün yaşlarda görülüyor.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iskandinav dususunun kapsami ve yas araligi kayittaki ozette."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Öngörüler, ortalama İskandinav kuşak doğurganlığının 1970 kuşağındaki iki çocuktan 1980'lerin sonundaki kuşaklarda 1,8 çocuğa ineceğini söylüyor; Finlandiya'da beklenen değer 1,6'nın altında.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kusak ongoruleri ve Finlandiya degeri ozette."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Aynı çalışma buradan yöntemsel bir sonuç çıkarıyor: yüksek ve istikrarlı doğurganlığa dayanan İskandinav modelinin kavramsallaştırılması gözden geçirilmeyi gerektirebilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Modelin gozden gecirilmesi sonucu ozetin kapanis cumlesinde."
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Bu dizi tartışmayı kapatmıyor, iki tarafa da yeni bir soru veriyor: tuzak savı doğrulanmış mı sayılır, yoksa toparlanma savının da tersine dönebildiği mi gösterilmiş olur?",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k11",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Soru cumlesi; iki kayit yalnizca zemini veriyor."
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Dünya Sağlık Örgütü'ne göre 2050'de altmış yaş üstü nüfusun üçte ikisi düşük ve orta gelirli ülkelerde yaşayacak; aynı kayıt yaşlı nüfusun yüzde 80'inin bu ülkelerde olacağını yazıyor.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ucte iki ve yuzde 80 degerleri bilgi notunda birebir."
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Japonya'da nüfusun yüzde 30'u hâlihazırda altmış yaşın üstünde.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Japonya orani bilgi notunda."
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Eşiğin geçilme tarihi ülkeler arasında yarım yüzyıla yayılıyor: Amerika Birleşik Devletleri'nde beş yaş altı nüfus 1960'larda altmış dört yaş üstü tarafından geçildi, İspanya'da 1970 dolaylarında, Güney Kore'de 2000 civarında; Güney Afrika'da 2035, Nijerya'da 2080 bekleniyor.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bes ulke icin esik tarihleri kaynakta sirali."
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Afrika'da doğurganlık 1970'lerde kadın başına neredeyse yedi çocuktu; bugün dörde yakın ve Birleşmiş Milletler bu değerin 2050'de üçün altına inmesini, yüzyıl sonunda ikiye yaklaşmasını bekliyor.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Afrika degerleri ve BM beklentisi kaynakta."
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "Yaşlanan yüksek gelirli ülkeler için sorun bağımlılık oranının yükselmesi; genç ülkeler için ise çalışma çağı payının genişlediği pencerenin nasıl kullanılacağı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Iki soruyu ayirma yorumu; kaynak yalnizca dagilimi veriyor."
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "Pencerenin kalıcı olmadığını aynı beklenti söylüyor: doğurganlık yüzyıl sonunda ikiye yaklaştığında bugünün genç ülkeleri de kendi yaşlanma takvimlerine girecek.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Pencerenin kapanacagi cikarimi, kaynagin yuzyil sonu dogurganlik beklentisine dayaniyor."
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Toplam doğurganlık hızı dünya için 1950'de 4,852 çocukken 2023'te 2,251 çocuğa indi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki deger CSV satirlarinda birebir; depodaki seriyle ayni."
+    },
+    {
+      "iddia_id": "i43",
+      "cumle": "Nüfus artış hızı 1963'te yüzde 2,283 ile zirve yaptı ve 2023'te yüzde 0,871'e geriledi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Zirve ve son deger CSV satirlarinda birebir."
+    },
+    {
+      "iddia_id": "i44",
+      "cumle": "İki dosya da 2023'te bitiyor; depoya yalnızca tarihsel kestirimler kaydedildi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak CSV sutun ayrimini gosteriyor; depo dosyalarinin 2023te bittigi cevrimdisi dogrulandi."
+    },
+    {
+      "iddia_id": "i45",
+      "cumle": "O sütunda artış hızı 2050'de yüzde 0,421, 2084'te eksi yüzde 0,004'tür.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Projeksiyon sutunundaki iki deger CSVde."
+    },
+    {
+      "iddia_id": "i46",
+      "cumle": "2019 sürümü bir tepe görmüyor, 2100'de 10,9 milyara ulaşan ve büyümeyi sürdüren bir seri veriyordu; 2022 sürümü tepeyi 2086'ya ve 10,4 milyara koydu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "2019, 2022 ve 2024 revizyonlarinin tepe degerleri kaynakta."
+    },
+    {
+      "iddia_id": "i47",
+      "cumle": "2024 revizyonu tepeyi öne aldı: dünya nüfusu 2084'te yaklaşık 10,3 milyar ile tepe yapıyor.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tepe yili ve degeri kaynakta; deger KAPI 19 ile depo serisine karsi da olculdu."
+    },
+    {
+      "iddia_id": "i48",
+      "cumle": "Sağlayıcının uyarısı da metnin içinde: bunlar geleceğe dair tahminler değil, projeksiyonlardır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Saglayicinin projeksiyon uyarisi metnin icinde."
+    },
+    {
+      "iddia_id": "i49",
+      "cumle": "Avrupa'da 2018'de altmış dört ile yetmiş dört yaş arasındakilerin yüzde 10'undan azı çalışıyordu; bu payın değişmesi bugünkü tabloyu geçersiz kılmadan bozar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Avrupa istihdam orani kaynakta."
+    },
+    {
+      "iddia_id": "i50",
+      "cumle": "Longman'ın yük hesabı ile Lee ve Mason'ın tüketim hesabı farklı büyüklükleri karşılaştırıyor: biri işgücü arzı ile yaşlanmanın maliyetinden bir refah tehdidi çıkarıyor, öteki kişi başına tüketimi öne alıyor.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Longman tarafi yalniz katalogtaki alt baslik ve bolum adlarindan kuruluyor; onarim metnindeki \"devlet butcesini one aliyor\" atfi odunc-kisitli kayittan cikarilamadigi icin hakem tarafindan dusuruldu."
+    },
+    {
+      "iddia_id": "i53",
+      "cumle": "Kanıtın ağırlığı da eşit değil: iyimser tarafın savı hakemli iki dergi makalesinden okunuyor, karamsar tarafın kitabı ise ödünç sisteminin arkasında duruyor ve buradaki dökümü kitabın kendisinden değil, ansiklopedi kaydından geliyor.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak tabanindaki asimetrinin tespiti; k2 katalog sayfasinin \"Access-restricted-item true\" kaydiyla, karamsar dokumun k1'den geldigi de matrisin kendi kayitlariyla dogrulaniyor."
+    },
+    {
+      "iddia_id": "i51",
+      "cumle": "Tuzak hipotezi ile toparlanma bulgusu arasındaki gerilim İskandinav dizisiyle çözülmedi, yalnızca yer değiştirdi: aynı dizi hem tuzağın işlediğine hem de toparlanmanın geri döndürülebilir olduğuna kanıt sayılabiliyor.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k10",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k11",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Gerilimin cozulmedigi degerlendirmesi; uc kayit yalnizca zemini veriyor."
+    },
+    {
+      "iddia_id": "i52",
+      "cumle": "Otomasyon telafisi sanayide ölçüldü; yaşlanmanın en çok emek istediği alan olan bakım hizmetlerinde aynı ikamenin işleyip işlemeyeceği bu kanıtla belirlenmiyor.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Kapsam sinirinin tespiti; kaynak sanayi disini olcmuyor."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 34,
+    "kismi": 13,
+    "desteksiz": 0,
+    "olculemez": 6
+  }
+}

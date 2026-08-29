@@ -33,6 +33,8 @@ ilgili:
   - aktor-kus-kralligi
   - aktor-cahokia
   - aktor-rapa-nui
+  - tartisma-tarim-devrimi-ilerleme-mi
+  - tartisma-tunc-cagi-cokusunun-nedeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

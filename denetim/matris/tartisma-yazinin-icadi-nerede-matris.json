@@ -1,0 +1,658 @@
+{
+  "id": "tartisma-yazinin-icadi-nerede",
+  "govde_hash": "4d61fa391004",
+  "commit": "7549ec6",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "yüzyıldan önce bilimsel kuramların çoğu bir tür tek köken varsayımı taşıyordu: yazı yalnızca bir kez, eski Sümer'de çivi yazısı olarak icat edilmiş, oradan kültürel yayılmayla dağılmıştı; bu kuramların bir bölümü Tekvin kitabının lafzî bir yorumuna ve o anlatının Mezopotamya'daki yerlere verdiği ağırlığa dayanıyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Kolomb öncesi Mezoamerika sistemlerine dair farkındalığın artması bu varsayımı kesin biçimde bozdu ve bugün en yaygın kabul gören sayı dörttür: Mezopotamya'da MÖ 3400 ile 3100 arasında, Mısır'da MÖ 3250 dolayında, Çin'de MÖ 1250'den önce ve Mezoamerika'da MS 1'den önce.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Ölçütün kendisi kaynakta açıkça durur: bir işaret dizgesinin yazı sayılabilmesi için simgelerin konuşulan dilin öğelerine karşılık gelmesi beklenir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Yazı sistemlerinin genellikle üç ölçütü karşıladığı belirtilir: yazının bir amacı ya da anlamı olması, belirli simgeler kullanılması ve bu simgelerin konuşulan dilin öğelerine karşılık gelmesi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Üçüncü ölçüt belirleyicidir: tabela, resim, harita ve matematiksel gösterim gibi simgesel iletişim biçimleri, bir metni okumak için bir dilin bilinmesini gerektirmedikleri için yazı sistemlerinden ayrılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Bu ayrımın öbür tarafında ön-yazı durur: ideografik ve anımsatıcı simgeler kullanan, dilin dilbilgisini ve söz varlığını tam yansıtamayan, çoğu kez yalnızca geniş ya da belirsiz bilgi kodlayabilen dizgeler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Yazının her tarihsel icadı böyle bir ön-yazı geçmişinden çıkmıştır; ama ön-yazı dizgelerinin çoğu hiçbir zaman yazıya dönüşmemiştir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "binyıla tarihlenen kaplumbağa kabuğu işaretleri, arkeologların çoğunluğunca tam yazının doğuşuna bağlanmaz; Orta ve Güneydoğu Avrupa'daki Vinça işaretleri de aynı başlık altında, ön-yazı örnekleri arasında sayılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak Jiahu icin acik dislama cumlesi kurar; Vinca isaretlerini on-yazi ornekleri arasinda sayar. Cumle bu iki farki koruyacak bicimde yazildi."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Mezopotamya ile Mısır sistemleri MÖ 3400 ile 3100 arasında ön-yazıdan kademeli olarak evrildi; ilk tutarlı metinler yaklaşık MÖ 2600'de görünür.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Mısır'ın bağımsız sayılmasının gerekçesi, iki sistem arasındaki çok erken yapı ve üslup farklarıdır; bir uyaran yayılımı gerçekleştiyse bile bunun yalnızca yazı fikrinin aktarılmasına hizmet ettiği belirtilir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Aktarımın doğrudan kanıtı bulunmadığı için hiyerogliflerin kökeni konusunda kesin bir belirleme yapılmamıştır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Karşı konumu adıyla savunan Geoffrey Sampson'dır: ona göre Mısır hiyeroglifleri Sümer yazısından biraz sonra ortaya çıkmıştır ve büyük olasılıkla Sümer yazısının etkisi altında icat edilmiştir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak konumu adiyla Sampson'a atfeder."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "1990'larda Abydos'ta bulunan ve MÖ 3400 ile 3200 arasına tarihlenen kazınmış simgeler, bazı araştırmacıları Mezopotamya işaret dizgesinin Mısır'dakinden önce geldiği varsayımından kuşku duymaya götürdü.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak kesif tarihini 1990'lar olarak verir; kazi yili yoktur. Onceki taslaktaki \"kazinin yayini Dreyer 1998\" atfi kaldirildi: kaynak Dreyer 1998'i Abydos kazisinin yayini olarak degil, yapi/uslup farki cumlesinin kunyesi olarak anar; Abydos cumlesinin kunyesi Mitchell 1999'dur."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Buna karşılık Abydos'taki kanıtın tekil ve ani olduğu, Mezopotamya sisteminin evriminin ise uzun ve iyi belgelenmiş olduğu; öncülü sayılan jeton dizgesinin tarım ve muhasebede MÖ 8000 kadar erken bir tarihte tanıklandığı belirtilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Aynı bölgede bulunan jetonlar üzerindeki tasarımların Uruk'tan gelen çağdaş kil etiketlere benzerlik taşıması, aynı buluntunun ters yöne de çekilebileceğini gösterir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynakta gorsel altyazisi duzeyinde."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Ilona Regulski'nin 2016'da yayımlanan Oxford el kitabı bölümü, Mısır yazı sisteminin sürekli konuşmayı kodlama işlevine uyarlanmasının yüzyıllar aldığını ve hanedan öncesi ile Erken Hanedan dönemi arasındaki uzun süreçte, kabaca MÖ 3250 ile 2700 arasında, işaret dağarcığının kurulup standartlaştığını savunur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kayit yazarin kendi ozetini tasir; cumlenin butun ogeleri (yuzyillar suren uyarlanma, ca. 3250-2700, isaret dagarciginin kurulup standartlasmasi) ozette birebir vardir."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "İndus yazısı MÖ 2600 ile 2000 arasına tarihlenir, çözülememiştir ve gerçek bir yazı olarak işleyip işlemediği üzerinde uzlaşma yoktur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Tartışmanın modern hâlini 2004'te Steve Farmer, Richard Sproat ve Michael Witzel'in çalışması kurdu; başlığı konumu açıkça duyurur: İndus yazısı tezinin çöküşü ve okuryazar bir Harappa uygarlığı efsanesi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kayitta yazar adlari 'Steve Farmer', 'R. Sproat', 'M. Witzel' bicimindedir; Sproat ve Witzel'in on adlari hakem oturumunda OpenAlex kaydindan (api.openalex.org/works/doi:10.11588/ejvs.2004.2.620 - 'Sproat, Richard', 'Witzel, Michael') teyit edildi. Yil icin k4 esastir: OpenAlex ayni esere depo kaydi nedeniyle 2016 yazar."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Başlıktaki iki iddia birbirine bağlıdır: mühürlerdeki işaret dizileri bir dili kaydetmiyorsa, Harappa'yı okuryazar saymak da dayanaksız kalır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Baslikin okunmasi; kayit icerik tasimaz."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Bildirinin özeti yayıncı tarafından gizlendiği için savın ayrıntısı bu künyeden okunamaz.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kayit ozet alaninin yayinci tarafindan gizlendigini kendisi bildirir (abstract: null)."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Kaynakların kaydettiği, dizgenin gerçek bir yazı olarak işleyip işlemediğinde uzlaşma bulunmadığıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "1994'te Cambridge University Press'ten çıkan Deciphering the Indus Script, işaretleri çözülmeyi bekleyen bir yazı sayan araştırma programını daha adında taşır; kitap Language dergisinde ayrıntılı biçimde değerlendirildi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kunye kaydi kitabin adi, yayincisi, yili ve degerlendirmenin yerini tasir; icerik destegi yoktur."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Sonuç listedeki sayıyı doğrudan etkiler: işaretler yazıysa bağımsız icat listesi uzar, değilse dört kalemlik sayım yerinde kalır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "yüzyıla, okunabilen en erken yazıt ise MS 199'a tarihlenir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Yazı, Maya düzeninde mantıksal simgeleri hece işaretleriyle birlikte kullanıyordu.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "2006'da Science'ta duyurulan Cascajal bloğu bu soruyu keskin biçimde sordu: Veracruz'da, Olmek çekirdek bölgesinde bulunan blok, o güne kadar bilinmeyen bir yazı sistemi taşıyordu; bildiriye göre üslup ve öteki tarihlendirme ölçütleri onu MÖ birinci binyılın başına, Yeni Dünya'nın bilinen en eski yazısı konumuna yerleştiriyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kayittaki yayinci ozeti cumlenin butun ogelerini tasir; \"Cascajal block\" adi da kayitta gecer."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Houston gibi bölgenin yazı araştırmasını kuran adlar vardı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Kelker, Olmek'in yazmayı bilip bilmediğini soran bir teknik yorum yayımladı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Yuri Knorozov 1958'de American Antiquity'de yayımlanan yazısında, Amerika kıtasında Avrupa sömürgeleştirmesinden önce gerçek anlamda yazı bulunmadığı görüşünü reddetti: ona göre Maya, Zapotek, Olmek, Keçua ve Aymara halklarının Çin, Mısır ve Sümer'inkiyle aynı türden hiyeroglif yazısı vardı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kayit yazarin kendi ozetini tasir; ret ve halk listesi ozette birebir vardir."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Thompson 1959'da aynı dergide cevap verdi; yazısı tarihsel kaynakların yeniden değerlendirilmesini ve çözüm yöntemlerinin karşılaştırılmasını önerir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozet \"recent disagreement\" der; Knorozov'a cevap oldugu ayni dergi ve bir yil arasindan cikarilan bir yorumdur."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Aynı özette tartışmanın havasını özetleyen bir cümle de vardır: \"hiç kimsede konuya tam hâkimiyet ile tarafsız bir tutum bir arada bulunmuyor\".",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alinti kayittaki ozette birebir vardir."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Thomson, levhalardaki dizgeyi doğrudan \"yazılı dil\" diye tanımladı ve adanın başlıca ilgi çekici yanı saydı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Aynı rapor, aktarım zincirinin nasıl koptuğunu da kaydeder: kaçırılanlar arasında bilgi taşıyan görevliler vardı, levhalardaki gelenekler bir süre daha tekrarlandı ama işaretlerin değeri anlaşılmaz oldu; Ure Vaeiko adlı yaşlı bir adalı okuma öğrendiğini söylüyor ama açıklamayı reddediyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tam metin dogrulandi: 1864 Peru akininda kacirilanlar arasinda butun gorevliler ve yetki sahipleri vardi; okuma bilgisi kraliyet ailesi, altı bolge sefi, ogullari ve bazi rahiplerle sinirliydi."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Geoffrey Sampson'ın 1985'te Stanford University Press'ten çıkan Writing Systems: A Linguistic Introduction kitabı, yazı sistemlerini bir dil bilimi konusu olarak sınıflandırır ve bu sınıflandırmanın ölçütünü işaretlerin dille kurduğu ilişkiye bağlar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Odunc kisitli nusha; siniflandirma savi yalniz icindekiler listesinden okunuyor."
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Mignolo'nun 1994'te Duke University Press'ten çıkardığı derlemede toplanmıştır; kitabın adı bile programını duyurur: sözcüksüz yazı, Mezoamerika ve Andlar'da alternatif okuryazarlıklar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Odunc kisitli nusha; kunye duzeyinde."
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Derlemedeki bölümler Aztek resimli tarihlerini \"sözsüz kayıtlar\" başlığı altında ele alır, kolonyal dönemde nesne ile alfabe arasındaki geçişi inceler ve Kolomb öncesi Maya okuryazarlığını karşılaştırmalı bir çerçevede tartışır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Uc bolum basligi da katalog icindekiler listesinde birebir var."
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Dile bağlı kayıt ölçüt alınırsa liste dört kalemde kalır ve çözülmemiş işaret dizgeleri dışarıda durur; kayıt kabiliyeti ölçüt alınırsa sözsüz okuryazarlıklar da aynı sorunun içine girer ve sayı artar.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "1977'de Denise Schmandt-Besserat, çivi yazısının gelişimini güney Mezopotamya'da yaklaşık MÖ 8000'den itibaren malları izlemek ve değiş tokuş etmek için kullanılan bir kil jeton sistemine bağlayan bir kuram önerdi; tezini ertesi yıl Scientific American'da yazının en erken öncülü başlığıyla geniş bir okur kitlesine anlattı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Kuramın yazı sistemleri araştırmacıları arasında yaygın biçimde tartışıldığı belirtilir; nedensel bağa itiraz edenler arasında Geoffrey Sampson ile Christopher Woods sayılır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "Uzlaşılan çekirdek küçüktür ve sağlamdır: yazının birbirinden bağımsız olarak birden çok kez icat edildiğini kesin biçimde ortaya koyan, Kolomb öncesi Mezoamerika sistemlerine dair farkındalığın artmasıdır; en yaygın kabul gören dörtlü liste de bu kabulün üzerine kurulur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onceki taslaktaki \"en az iki kez / Cin ucuncu olarak eklenir\" siralamasi kaynakta yoktur; cumle kaynagin kendi ifadesine cekildi."
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "Mısır'ın bağımsızlığı, aktarımın doğrudan kanıtı bulunmadığı için ne gösterilebilmiş ne çürütülebilmiştir; Abydos buluntusu iki okumaya da açıktır.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "İndus işaretlerinin yazı sayılıp sayılmayacağı, çözülmüş tek bir metin çıkmadıkça ölçüt tartışması olarak sürecektir.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i43",
+      "cumle": "Cascajal bloğu tek bir buluntudur ve tek buluntudan dizge çıkarmanın güçlüğü ortadadır.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i44",
+      "cumle": "Rongorongo için söylenebilecek en sağlam cümle, ne söylediğinin bilinmediğidir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i45",
+      "cumle": "Kaynağın kendi listesi de bu belirsizliği taşır: dört bağımsız icat, kesin bir sayım olarak değil en yaygın kabul gören sayı olarak belirtilir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 34,
+    "kismi": 11,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "not_orkestrator": "2026-08-29: hakem sonrasi mekanik kapi onarimi (sema alani / kilitli terim / dipnot); icerik iddialari degismedi."
+}

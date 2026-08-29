@@ -1,5 +1,5 @@
 ## aktor-khmer-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:06.225Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:32.082Z_
 
 - [OK]      k1 → "yüzyıldan sonra Angkor."
 - [ATOMSUZ] k1 → "Listede bir din değişimi, bir askerî basınç, bir çevre olayı ve bir salgın yan yana durur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

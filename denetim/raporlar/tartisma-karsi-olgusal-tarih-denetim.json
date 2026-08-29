@@ -1,79 +1,295 @@
 {
   "id": "tartisma-karsi-olgusal-tarih",
   "gecis": 2,
-  "zaman": "2026-08-29T04:48:13.931Z",
-  "govde_hash": "bf6671606371",
-  "commit": "58a10ea",
+  "zaman": "2026-08-29T11:30:28.485Z",
+  "govde_hash": "9eb8eecd75b5",
+  "commit": "7549ec6",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, karşı-olgusal tarihi — sanal tarih adıyla da anılır — karşı-olgusal koşullardan doğan \"ya olsaydı?\" sorularını cevaplamaya çalışan bir tarih yazımı biçi",
+      "iddia": "Alanın başvuru kaydı bunu tarih yazımının bir biçimi diye tanımlar; amacını, olanı anlamak için olmayanı ya da olabilecek olanı düşünmek olarak verir ve sayfanı",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, erken bir karşı-olgusal tarih kitabı olarak 1931 tarihli If It Had Happened Otherwise'ı verir; kitapta Winston Churchill'in Gettysburg Muharebesi üzerin",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, aynı kitabın anlatı tonunun kaprise kaçtığını, ne tarihsel çözümleme ne de senaryoların ardındaki mantığı sunduğunu yazar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir türün ilk örneğinin kendi kaynağınca bu şekilde nitelenmesi, tür ayrımının neden gerekli görüldüğünü gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, Robert Fogel'in Railroads and American Economic Growth: Essays in Econometric History adlı çalışmasında, ABD'de demiryolu hiç olmasaydı 1890 ekonomisini",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Üç aylık bir farkın bir teknolojinin bütün katkısı olarak sunulabilmesi, atlasın şu kuralının dayanağıdır: bir teknolojinin belirleyici sayılması bir ölçüm deği",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, 1991'de Cambridge'li toplumbilimci Geoffrey Hawthorn'un Plausible Worlds: Possibility and Understanding in History and the Social Sciences adlı kitabınd",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Altmış yıl arayla iki kitabın aynı hattın kilometre taşları sayılması, tartışmanın süreklilikten çok aralıklı bir ilgi taşıdığını gösterir.",
+      "iddia": "Ayrım kolay değildir, çünkü aynı uğraş kendi edebî türünü de doğurmuştur: alternatif tarih, spekülatif tarih, allohistorya ve varsayımsal tarih adlarıyla anılan",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Tarihsel bilginin doğası için tutulan kayıt, tarih felsefesi başlığının ilk kez 18 Şubat 2007'de yayımlandığını ve 14 Mayıs 2025'te esaslı biçimde gözden geçiri",
+      "iddia": "Karşı-olgusal koşullar üzerine tutulan felsefe kaydı bu bağı açık eder: nedensel iddiaların karşı-olgusal iddialar olduğu çözümlemesini David Hume'a (1748) daya",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tarih felsefesi için tutulan bir başka kayıt aynı şeyi tarihçinin diliyle söyler: karşı-olgusallar uzun zamandır sağduyusal bir kalıpla kullanılmıştır — \"A olma",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karşı-olgusal tarih kendisini, olumsuzladığı olaya duyduğu ilgiyle ayırır: amaç, olumsuzlanan olayın göreli tarihsel ağırlığını değerlendirmektir ve sonraki değ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alternatif tarih yazarı ise tersine, olumsuzlanan olaydan doğan varsayımsal olaylar dizisiyle ilgilenir ve çok özgül olaylar ile kişiler icat etmekte serbesttir",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sınırın bulanıklaştığı da kabul edilir; kayıt, Kim Stanley Robinson'ın romanındaki bir kişinin tarihçilerin karşı-olgusal kullanımını yararsız bir alıştırma diy",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "dizisini anar; kitaplar, belirleyici bir anda kaderin küçük bir dönüşünün zamanın kayıtlarını değiştirebileceği fikri etrafında tarihçilerin ve tanınmış yazarla",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Öte yanda aynı kayıt akademik kullanımı örnekler: William Thompson, neredeyse bin yıl boyunca küreselleşme süreçlerini yürüten sekiz öncü ekonomi için bir karşı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayda göre erken bir karşı-olgusal tarih kitabı 1931 tarihli If It Had Happened Otherwise'dır; kitapta Winston Churchill'in Gettysburg Muharebesi üzerine bir me",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayıt bu kitabın alternatif tarih parçaları taşıdığını yazar: anlatı tonu kaprise kaçar, ne tarihsel çözümleme ne de senaryoların ardındaki mantık sunulur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Robert Fogel'in 1964'te Johns Hopkins Press'ten çıkan, xv + 296 sayfalık Railroads and American Economic Growth: Essays in Econometric History çalışması, ABD'de",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Robert Fogel'in 1964'te Johns Hopkins Press'ten çıkan, xv + 296 sayfalık Railroads and American Economic Growth: Essays in Econometric History çalışması, ABD'de",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Lance Davis'in değerlendirme yazısına göre kitabın iki tarım bölümü açık bir karşı-olgusal kurar — demiryolu olmasaydı dünyanın nasıl görüneceği — ve toplumsal ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı değerlendirmeye göre açık karşı-olgusal fikri 1960'ların başında tarihçilerin çoğu için hâlâ yabancı bir kavramdı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Sonuç, tartışmanın en çok anılan sayısıdır: aktarılan hesaba göre 1 Ocak 1890'da ulaşılan kişi başı gelir düzeyine, demiryolu hiç icat edilmemiş olsaydı 31 Mart",
       "durum": "OK",
       "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Alanın kendi ansiklopedi maddesinde türdeş sayılmaması, soruya tek bir ölçütle cevap verilemeyeceğini gösterir.",
+      "anahtar": "k1",
+      "iddia": "Sonuç, tartışmanın en çok anılan sayısıdır: aktarılan hesaba göre 1 Ocak 1890'da ulaşılan kişi başı gelir düzeyine, demiryolu hiç icat edilmemiş olsaydı 31 Mart",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bölgeler arası taşımada demiryolunun sağladığı toplumsal tasarruf, aynı hesaba göre GSMH'nin yüzde birinin altında kalır; demiryolu ücretleri sıfır varsayılsayd",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bölge içi taşımada oran daha yüksektir, ama orada da kanal ağının genişletilmesi ve yolların iyileştirilmesi hesaba katıldığında düşer.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Alanın kendisi için tutulan kayıt, onu tarihçilerin tarihi akademik bir disiplin olarak geliştirirken kullandıkları yöntemlerin incelenmesi diye tanımlar ve kon",
+      "anahtar": "k5",
+      "iddia": "Davis'e göre Fogel, gerçek dünyaya dair varsayım yapması gerektiğinde bulgularının aleyhine çalışan varsayımları seçmiş; buna karşılık bir kusur kalmıştır: \"Fog",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kliometri maddesine göre terimi Purdue'lu matematiksel iktisatçı Stanley Reiter türetmiş, ad Eylül 1960'ta mesleğe tanıtılmış, aynı yılın aralık ayında toplanan",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Walt Rostow'un savına göre demiryolunun gelişi sıçramaların en güçlü tek başlatıcısıydı; Fogel'in 1964 tarihli kitabı ile Albert Fishlow'un 1965 tarihli çalışma",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "1993'te Douglass North ile Fogel'e verilen Nobel İktisat Ödülü'nün gerekçesinde ikisi, yeni iktisat tarihi ya da kliometri denen dalın öncüleri sayılır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Alfred Conrad ile John Meyer'in 1958 tarihli çalışması köle sahipliğinin en az başka sermaye kullanımları kadar kazançlı olduğunu göstermiş, böylece köle düzeni",
+      "durum": "OK",
+      "not": "7 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Alfred Conrad ile John Meyer'in 1958 tarihli çalışması köle sahipliğinin en az başka sermaye kullanımları kadar kazançlı olduğunu göstermiş, böylece köle düzeni",
+      "durum": "OK",
+      "not": "7 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayda göre 1991'de Cambridge'li toplumbilimci Geoffrey Hawthorn'un Plausible Worlds kitabı üç ayrı karşı-olgusal senaryoyu dikkatle inceledi ve bu çalışma, Nial",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Derlemenin 2003 Pan baskısının katalog kaydı kitabın ilk kez 1997'de Picador'dan çıktığını, bu baskının 560 sayfa tuttuğunu gösterir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayda göre Ferguson, Marksizm gibi belirlenimci tarih kuramlarına itirazını göstermek ve tarihte olumsallığın önemini savunmak için karşı-olgusal senaryolar kul",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Kendi katkısı somuttur: Türkçe yöntem yazınının kaynakçasında Ferguson'ın derlemedeki bölümü, Britanya 1914'te savaşın dışında kalsaydı ne olacağını soran bir m",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "sayfalarda çıktı.",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Birleşik, Krallık, İkinci, Dünya"
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tucker'ın itirazı yöntemseldir: çok nedenli karşı-olgusalları reddeder ve her karşı-olgusalın başka her şey sabit tutularak kurulması gerektiğini savunur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Mehtap Söyler'in 2021'de Marmara Üniversitesi Siyasal Bilimler Dergisi'nde yayımlanan makalesi, karşı-olgusal yöntemi nitel araştırmada tekil tarihsel olayların",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Aynı makalenin kaynakçası ölçüt tartışmasının dayandığı hacmi de gösterir: Philip Tetlock ile Belkin'in derlediği Counterfactual Thought Experiments in World Po",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Çernobil kazası olmasaydı Soğuk Savaş sona erer miydi sorusunu, gerek-şart hipotezlerini sınamak üzere kurulmuş bir karşı-olgusal çıkarım olarak işler ve rakip ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Max Weber üzerine tutulan kayda göre karşı-olgusal çözümleme nedensel atfetme sürecini istikrara kavuşturmaya yardım edebilir, ama araştırmacının bakışındaki öz",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı kaydın kaynakçasında Weber'in 1906 tarihli, Eduard Meyer'in yöntem görüşlerine yönelttiği eleştiri yer alır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Kültür bilimlerinin mantığı üzerine yazılmış aynı 1906 metni Söyler'in kaynakçasında da künyelenir; ölçüt tartışmasının yüz yılı aşan bir hattı olduğunu göstere",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayda göre Evans 2014 tarihli Altered Pasts: Counterfactuals in History kitabında kavramın sistematik bir eleştirisini sunar; ona göre karşı-olgusalların çoğu s",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kitabın katalog kaydındaki konu başlıkları bu okumayı destekler görünüyor: tarih yazımının siyasi yönleri ile sağ-sol ayrımı, konu listesinde yan yana durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Katalog kaydının tanıtımına göre kitap, Britanya Birinci Dünya Savaşı'na girmeyip tarafsız kalsaydı, 1940 ya da 1941'de Nazi Almanyası'yla ayrı bir barış yapsay",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Buna karşılık aynı kayıt, karşı-olgusalların açıklama sınamakta işlevi olduğunu savunan konumu da aktarır; Christopher Prendergast'e göre alternatiflerin sonuçl",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Kaynak, akademik tarihin gelişiminin on dokuzuncu yüzyılda büyük bir tarih yazımı külliyatı ürettiğini; tarihçilerin kendi grup ve bağlılıklarından ne ölçüde et",
+      "iddia": "Tarih felsefesi kaydına göre tarihsel olayların yinelenemezliği, geleneksel karşı-olgusal önermeleri ilginç birer spekülasyondan öteye taşımaz; Sezar Rubicon'u ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "kitabı hem tarih felsefesi kaydının hem de Türkçe yöntem yazınının kaynakçasında yer alır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türkçe"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "kitabı hem tarih felsefesi kaydının hem de Türkçe yöntem yazınının kaynakçasında yer alır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kayda göre Carr, Ranke'nin görgül nesnellik umudunu saf gerçekçilik diye niteleyenler arasında anılır; karşı-olgusal soruya dair kendi hükmü ise buradaki kaynak",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Kitabın katalog kaydı yalnızca şunu verir: 1892–1982 arasında yaşamış bir yazarın, ilk kez 1961'de yayımlanmış, tarih felsefesi konulu 188 sayfalık kitabı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bir karşı-olgusal senaryonun hangi noktada durdurulacağı — zincirin nereye kadar izleneceği — ölçüte bağlanmış değildir; en işlemsel örnekte bile rota seçimi bi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Nedensellik cümlesinin karşı-olgusal içerdiği çözümlemesi de felsefede kapanmış değildir: kayda göre yalın karşı-olgusal çözümleme bugün sorunlu sayılır ve ince",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

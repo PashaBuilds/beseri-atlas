@@ -1,9 +1,9 @@
 {
   "id": "olay-irlanda-kitligi",
   "gecis": 2,
-  "zaman": "2026-08-29T04:48:01.533Z",
-  "govde_hash": "eaa263125832",
-  "commit": "58a10ea",
+  "zaman": "2026-08-29T13:57:41.801Z",
+  "govde_hash": "809a6a08aa01",
+  "commit": "7549ec6",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -37,7 +37,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Ölü sayısının kendi bölümünü taşıması, bu sayının tartışmalı olduğunun kurumsal işaretidir; yöntem haritasında ele alınıyor.",
+      "iddia": "Ölü sayısının kendi bölümünü taşıması, bu sayının tartışmalı olduğunun kurumsal işaretidir; bu yöntem haritasında ele alınıyor.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

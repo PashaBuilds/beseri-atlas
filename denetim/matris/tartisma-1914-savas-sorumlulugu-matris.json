@@ -1,0 +1,899 @@
+{
+  "id": "tartisma-1914-savas-sorumlulugu",
+  "govde_hash": "c77278b3d778",
+  "commit": "7549ec6",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "c01",
+      "cumle": "Kavga akademik bir merakla başlamadı: 1919'da imzalanan barış antlaşması, savaşın sorumluluğunu bir hukuk maddesine çevirdi ve tazminat yükümlülüğünü bu maddeye bağladı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Avalon Part VIII: madde 231 tazminat bolumunun ilk maddesi; sorumluluk teyidi ve kabulu metinde."
+    },
+    {
+      "iddia_id": "c02",
+      "cumle": "Aynı antlaşmanın ceza bölümü sorumluluğu bir kişiye de yükledi ve eski Alman imparatorunu yargılamak için özel bir mahkeme öngördü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Avalon Part VII madde 227: II. Wilhelm alenen itham edilir, ozel mahkeme ongorulur."
+    },
+    {
+      "iddia_id": "c03",
+      "cumle": "Annika Mombauer bu yüz yıllık kavgayı doğrudan konu edinen makalesine bu ayrımı başlık yapmıştır: suç mu, sorumluluk mu?",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kunye: baslik \"Guilt or Responsibility? The Hundred-Year Debate...\" — ayrim baslikta."
+    },
+    {
+      "iddia_id": "c04",
+      "cumle": "Savaşın yüzüncü yılında piyasanın kökenleri açıklamaya çalışan yayınlarla dolması ve kamuoyu ilgisinin beklenenin çok üstüne çıkması, sorunun kapanmadığını gösterdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozet: piyasanin yayinlarla dolmasi ve beklenmedik kamuoyu/medya ilgisi ozette birebir."
+    },
+    {
+      "iddia_id": "c05",
+      "cumle": "Metin, İtilaf ve ortak hükümetlerin, Almanya ve müttefiklerinin saldırganlığıyla kendilerine dayatılan savaşta uğradıkları bütün kayıp ve hasardan Almanya ile müttefiklerinin sorumluluğunu teyit ettiğini ve Almanya'nın bunu kabul ettiğini söyler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde 231 metninin cevirisi; \"suc\" kelimesinin yoklugu metinden okunur."
+    },
+    {
+      "iddia_id": "c60",
+      "cumle": "Buna karşılık savaştan hemen sonra İtilaf tarihçileri savaşın başlamasından yalnızca Almanya'nın sorumlu olduğunu savundu ve bu görüş antlaşmaya konan \"savaş suçu\" maddeleriyle pekişti; maddeye sonradan takılan bu ad, maddenin kendi cümlesinde bulunmaz.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: \"Straight after the war Allied historians argued that Germany was solely responsible for the start of the war: a view reinforced by the inclusion of 'war guilt' clauses within the Treaty of Versailles.\" Adin metinde bulunmadigi k2'den okunur: madde 231'in tam metninde \"guilt\" gecmez. Hakem eklemesi: madde 231'in ANILDIGI ad ile metnin dedigi arasindaki fark onceki halde yarim kurulmustu."
+    },
+    {
+      "iddia_id": "c06",
+      "cumle": "232. madde ise Almanya'nın kaynaklarının tam tazmine yetmediğini açıkça kabul eder ve yükümlülüğü sivil halka ve mülke verilen zararla sınırlar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde 232: kaynaklarin yetmedigi kabulu ve sivil zarar sinirlamasi metinde."
+    },
+    {
+      "iddia_id": "c07",
+      "cumle": "227. madde, eski Alman imparatoru II. Wilhelm'i uluslararası ahlaka ve antlaşmaların dokunulmazlığına karşı ağır bir suçtan alenen itham eder; beş büyük gücün birer yargıç atayacağı özel bir mahkeme öngörür ve Hollanda hükümetinden onun teslimini istemeyi kararlaştırır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde 227: bes gucun birer yargic atamasi ve Hollanda'dan teslim talebi metinde."
+    },
+    {
+      "iddia_id": "c08",
+      "cumle": "228. madde de savaş hukukunu ihlal etmekle suçlanan kişilerin askerî mahkemelere çıkarılmasını düzenler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde 228: savas hukuku ihlali sanıklarinin askerî mahkemelere cikarilmasi."
+    },
+    {
+      "iddia_id": "c09",
+      "cumle": "Almanya'nın sorumlu olduğunu savunan az sayıdaki Alman tarihçiden biri olan Hermann Kantorowicz, Dışişleri Bakanlığı'nın çalışmasının yayımlanmasını engellemek ve kendisini Kiel Üniversitesi'ndeki görevinden uzaklaştırmak için özel çaba gösterdiğini gördü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: Kantorowicz ornegi ve Disisleri Bakanligi'nin engelleme cabasi. Giris kapisi kaydi."
+    },
+    {
+      "iddia_id": "c10",
+      "cumle": "Holger Herwig, Fritz Fischer'in kitabından önce Almanya'da bu konuda yayımlananların büyük bölümünü sözde-tarihsel bir sahtelikten ibaret saymıştır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia, Herwig aktarimi: \"little more than a pseudo-historical sham\"."
+    },
+    {
+      "iddia_id": "c11",
+      "cumle": "İngilizce dünyada 1920'lerin sonunda ve 1930'larda üretilen akademik çalışmalar ise katılımcıları aşağı yukarı eşit biçimde suçlama eğilimindeydi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: \"Academic work in the English-speaking world in the later 1920s and 1930s, blamed the participants more or less equally.\""
+    },
+    {
+      "iddia_id": "c12",
+      "cumle": "Fay ile Barnes'ın hedefi 231. maddenin ahlaki geçersizliğini göstererek tazminatları sona erdirmekti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1: \"The objective of Fay and Barnes was to put an end to reparations imposed on Germany, by attempting to prove what they regarded as the moral invalidity of Article 231.\" Hakem duzeltmesi: hedef k1'de yalniz Fay ve Barnes'a atfedilir; Beard bu cumlede yer almaz."
+    },
+    {
+      "iddia_id": "c13",
+      "cumle": "Alman Dışişleri Bakanlığı bu çabalara arşivlerini cömertçe açtı, Barnes'a araştırma fonu sağladı; hükümet Fay'in kitabını o kadar beğendi ki çeşitli dillerde yüzlerce nüsha satın alıp elçiliklerde ve konsolosluklarda bedava dağıttı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: arsiv acilmasi, Barnes'a arastirma fonu, Fay'in kitabinin elciliklerde dagitilmasi."
+    },
+    {
+      "iddia_id": "c14",
+      "cumle": "Aynı hükümet, Alman eylemlerini eleştiren çalışmaların Almanya'da yayımlanmasına izin vermedi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: Alman eylemlerini elestiren kitaplarin Almanya'da yayimina izin verilmemesi."
+    },
+    {
+      "iddia_id": "c15",
+      "cumle": "1928 tarihli önsözünde, savaş sırasında Almanya'yı ve Kayzer'i suçlayan koroya katılmayı reddettiğini, çünkü tarih duygusunun ona bu olayda da hiçbir ülkenin ya da hiçbir kişinin tek başına — hatta muhtemelen esas olarak — suçlu olmadığını söylediğini yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Fay 1928 onsoz: \"no one country or no one man was solely, or probably even mainly, to blame\"."
+    },
+    {
+      "iddia_id": "c16",
+      "cumle": "Aynı önsöz, Fransa'daki Poincaré karşıtı revizyonistlerde sarkacın öbür uca savrulma tehlikesini kaydeder ve yazarın ne antlaşmayı savunmak ne de değiştirtmek gibi bir siyasi güdüsü olduğunu, işini \"sine ira ac studio\" yapmayı umduğunu söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni onsoz: anti-Poincare revizyonistlerde sarkacin savrulmasi ve \"sine ira ac studio\" ifadesi."
+    },
+    {
+      "iddia_id": "c17",
+      "cumle": "Alman tarihçi Fritz Fischer 1961'de tartışmalı kitabı Griff nach der Weltmacht'ı yayımladı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Wikipedia: \"In 1961, the German historian Fritz Fischer published the controversial Griff nach der Weltmacht\"."
+    },
+    {
+      "iddia_id": "c18",
+      "cumle": "Kitabın alt başlığı, imparatorluk Almanyası'nın 1914–1918 savaş hedefleri siyasetini adlandırır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "USTVERI-SINIRLI: Crossref kaydi altbasligi (\"Die Kriegszielpolitik des kaiserlichen Deutschland 1914/1918\") birebir tasir; icerik iddiasi degil."
+    },
+    {
+      "iddia_id": "c19",
+      "cumle": "Fischer'in ileri sürdüğüne göre Alman hükümetinin 1912 seçimlerindeki Sosyal Demokrat kazanımlarının ardından biçimlenmiş yayılmacı bir dış politikası vardı ve 1914'te bir saldırı savaşı başlatmıştı; kalan bütün Alman savaş arşivine tam erişimi olan ilk tarihçi oydu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: 1912 secimi sonrasi yayilmaci dis politika, 1914 saldiri savasi, arsive tam erisen ilk tarihci."
+    },
+    {
+      "iddia_id": "c20",
+      "cumle": "Kendisinden önceki tarihçiler yalnızca ağır biçimde ayıklanmış arşivlere ulaşabilmişti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: onceki tarihcilerin yalnizca agir ayiklanmis arsivlere erisebilmesi."
+    },
+    {
+      "iddia_id": "c21",
+      "cumle": "Fischer'in dayanaklarından biri, Bethmann Hollweg'in savaş hedeflerini sıralayan Eylül Programı'ydı; savaş başladıktan sonra hazırlanmış ve Rus Polonyası'nda etnik temizlik ile Alman kolonizasyonunu savaş hedefi sayan belgeleri bulması, 1914 ile 1939 Alman dış politikaları arasında süreklilik fikrinin yaygın kabul görmesini sağladı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: Septemberprogramm dayanagi; Rus Polonyasi belgeleri ve 1914-1939 sureklilik kabulu."
+    },
+    {
+      "iddia_id": "c22",
+      "cumle": "John Röhl 1973'te, Fischer'in ortaya çıkardıkları — özellikle 8 Aralık 1912 tarihli Savaş Konseyi toplantısı — karşısında Almanya'nın esas sorumluluğu taşıdığı fikrinin artık tarihçilerin büyük çoğunluğunca reddedilmediğini yazdı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: Rohl 1973 degerlendirmesi ve 8 Aralik 1912 Savas Konseyi."
+    },
+    {
+      "iddia_id": "c23",
+      "cumle": "Buna karşılık Mombauer, Moltke üzerine çalışmasında, çok sayıda araştırma ve tartışmaya rağmen askerî karar vericilerin Aralık 1912'yi gelecekteki bir savaşın kararlaştırıldığı belirleyici an olarak anladığını gösteren doğrudan kanıt bulunmadığını belirtmiştir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia, Mombauer aktarimi: \"no direct evidence to prove that military decision-makers understood December 1912 as a decisive moment\"."
+    },
+    {
+      "iddia_id": "c24",
+      "cumle": "Muhafazakâr Alman tarihçi Gerhard Ritter tezi sahtekârca ve yanlış saydı; 1962 tarihli bir yazısında Almanya'nın 1914'teki asıl amacının Avusturya-Macaristan'ı büyük güç olarak ayakta tutmak olduğunu, dolayısıyla Alman dış politikasının saldırgan değil büyük ölçüde savunmacı olduğunu ileri sürdü.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: Ritter'in 1962 yazisi; savunmaci dis politika tezi."
+    },
+    {
+      "iddia_id": "c25",
+      "cumle": "Ritter'e göre Almanya'nın 1914'te eleştirilebileceği en fazla şey, Avrupa güç siyasetinin durumunu yanlış değerlendirmesiydi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: Ritter'e gore en fazla elestirilecek sey Avrupa guc siyasetinin yanlis degerlendirilmesi."
+    },
+    {
+      "iddia_id": "c26",
+      "cumle": "Mombauer, tartışmanın belge güdümlü niteliğini inceleyen makalesinde, hem Fischer okulunun hem eleştirmenlerinin daha çok arşiv belgesinin er geç kesin bir gerçeği ortaya çıkaracağına inandığını ve tartışmanın kalıcı mirasının tam da bu pozitivist odak olduğunu savunur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozet (yazarin kendi ozeti): tartismanin \"document-driven\" niteligi ve pozitivist odagin kalici mirasi."
+    },
+    {
+      "iddia_id": "c27",
+      "cumle": "Aynı makale, alanın postmodern görelileştirme girişimlerinin dışında kalmasını, onlarca yıldır savaş suçu suçlamaları ve savunularıyla tanımlanmış duygusal bir tartışmada tarihsel gerçek kavramının hâlâ geçerli sayılmasına bağlar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni ozet: postmodern gorelilestirme girisimlerinin disinda kalma ve savas suclamasi/apolojetik cerceve."
+    },
+    {
+      "iddia_id": "c28",
+      "cumle": "Mombauer'e göre 1980'lere gelindiğinde yeni bir uzlaşma oluşmuştu: çok az tarihçi Fischer'in önceden tasarlanmış savaş tezini bütünüyle benimsiyordu ama Almanya'nın sorumluluk payının diğer büyük güçlerinkinden büyük olduğu genel kabul görüyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia, Mombauer 2015 alintisi: Almanya'nin sorumluluk payinin digerlerinden buyuk oldugu genel kabul."
+    },
+    {
+      "iddia_id": "c29",
+      "cumle": "Samuel R. Williamson Jr., 1990 tarihli çalışmasında suçun büyük bölümünü Almanlara değil Avusturya-Macaristan seçkinlerine yükler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: Williamson 1990, Austria-Hungary and the Origins of the First World War."
+    },
+    {
+      "iddia_id": "c30",
+      "cumle": "Holger Herwig'in değerlendirmesinde Berchtold Temmuz boyunca Berlin ile bilgi paylaşmakta isteksizdi; çünkü Berlin'in frene basıp krize son dakikada diplomatik bir çözüm araması ihtimalinden çekiniyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: Herwig degerlendirmesi — Berchtold'un Berlin ile bilgi paylasmaktaki isteksizligi."
+    },
+    {
+      "iddia_id": "c61",
+      "cumle": "Herwig'in kendi özetinde Viyana önce savaşa karar verdi, sonra Alman güvencelerini aradı ve aldıktan sonra kullandı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1, Herwig'in sozunu aktarir: \"Vienna first resolved for war, sought German assurances, and then exploited them once received.\" Hakem eklemesi: cumle onceden dipnotsuzdu, oysa aktarim tasiyordu."
+    },
+    {
+      "iddia_id": "c31",
+      "cumle": "1914 tarihli Beyaz Kitap'a göre Berlin, Viyana'ya Sırbistan'a yönelik eyleminde \"tamamen serbest bir el\" tanımış, ama hazırlıklarına katılmamıştı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Beyaz Kitap: \"We therefore granted Austria a completely free hand in her action towards Servia, but we did not participate in her preparations.\""
+    },
+    {
+      "iddia_id": "c32",
+      "cumle": "Aynı metin Avusturya-Macaristan'ın notasına 48 saatlik bir süre verdiğini, Sırp cevabının bazı noktalarda uyduğunu ama esas noktalarda oyalanma olduğunu ve Monarşi'nin bunun üzerine ilişkileri kestiğini anlatır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Beyaz Kitap: 48 saatlik sure, Sirp cevabinin bazi noktalarda uymasi, iliskilerin kesilmesi."
+    },
+    {
+      "iddia_id": "c33",
+      "cumle": "Christopher Clark'ın kitabı 2012'de Britanya'da, ertesi yıl New York baskısıyla yayımlandı; kökenleri yeniden Balkanlar'a odakladı ve fail olma niteliğini diplomatlara geri dağıttı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k11 ODUNC-KISITLI KATALOG (access-restricted-item: true): kunye blogu \"publication date 2013 ... New York, Harper\" ve nottaki \"First published in Great Britain in 2012 by Allen Lane\" satirini verir — eserin metnine erisilemedigi icin destek kismi. Icerigin yeniden odaklanma iddiasi k1'de birebir: \"Christopher Clark's 2013 book ... refocused the origins back to the Balkans and sought to redistribute agency back to the diplomats.\" Hakem duzeltmesi: \"2013'te yayimlandi\" tek basina yanlisti; ilk baski 2012 Britanya."
+    },
+    {
+      "iddia_id": "c34",
+      "cumle": "Clark sorumluluğu Almanya, Avusturya-Macaristan, Fransa ve Rusya'ya özel dikkat göstererek bütün büyük güçlere yaymayı amaçlar; ona göre Germen güçleri Sırbistan'ı cezalandırmak için yerelleşmiş bir savaş aradı ama bunu yaparken Rusya ile savaşı bile bile göze aldı, Rusya ise 1912–13'te Balkanlar'daki güç dengesini bozarak ve Avusturya karşıtı irredentizmi cesaretlendirerek kendi payına savaş riskini kabul etti.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: Clark'in sorumlulugu dagitmasi; yerellesmis savas arayisi; Rusya'nin 1912-13 risk alisi."
+    },
+    {
+      "iddia_id": "c35",
+      "cumle": "Clark'ın sonucu, kıtadaki bütün güçlerin genel bir savaşı göze aldığı ama hiçbirinin onu aramadığıdır; krizin hızı arabuluculuğu işlevsiz kılmıştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: \"all the continental powers risked a general war, none sought that war\" ve kriz hizinin arabuluculugu isleviz kilmasi."
+    },
+    {
+      "iddia_id": "c36",
+      "cumle": "Vernon Bogdanor, Clark'ı Alman ve Avusturya tarafının arabuluculuk önerilerini reddetmesini hafifletmekle eleştirir: Sir Edward Grey'in dört güç konferansı önerisini Rusya kabul etmiş, Avusturya-Macaristan reddetmiş, Almanya da reddetmişti; Ruslar ayrıca anlaşmazlığın Lahey'deki tahkim mahkemesine götürülmesini önermiş, bu da aynı iki devlet tarafından reddedilmişti.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia, Bogdanor bolumu: dort guc konferansi Rusya'ca kabul, Viyana ve Berlin'ce ret; Lahey tahkimi de ret."
+    },
+    {
+      "iddia_id": "c37",
+      "cumle": "Britanya derlemesi bu iki seçeneği de kaydeder: Grey'in konferans önerisine İtalya'nın verdiği desteği ve Çar'ın 29 Temmuz'da Alman imparatoruna Avusturya-Sırbistan sorununun Lahey Mahkemesi'ne verilmesini öneren telgrafını.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5 tam metin: No. 49 \"the Italian Minister for Foreign Affairs agreed entirely with my proposal for a conference of four to be held in London\"; ek bolum, \"Telegram from His Majesty the Czar to His Majesty the Emperor William (Published in the Russian Press on the 31st January, 1915) 29th July, 1914 ... It would be right to give over the Austro-Serbian problem to The Hague Tribunal.\" Derleme seciciligi bu kayittan okunur."
+    },
+    {
+      "iddia_id": "c62",
+      "cumle": "Telgraf derlemeye Rus basınının Ocak 1915'teki yayınından girmiştir; hangi belgenin görülebildiği, kimin neyi ne zaman bastığına da bağlıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k5, telgrafin kaynagini kendi ustveri satirinda verir: \"(Published in the Russian Press on the 31st January, 1915.)\" Cumlenin ikinci yarisi (derleme secicilikleri) bu tek kayittan cikarilan bir yorumdur; destek kismi."
+    },
+    {
+      "iddia_id": "c38",
+      "cumle": "Hans-Ulrich Wehler, Clark'ın Alman tarafındaki kaynakları özenle araştırdığını ama şaşırtıcı bir tek yanlılıkla elediğini yazdı ve kitabın Almanya'daki satış başarısını, okurların ulusal savaş suçu suçlamalarından kurtulma ihtiyacına bağladı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: Wehler'in \"verbluffend einseitig eliminiert\" elestirisi ve satis basarisi yorumu."
+    },
+    {
+      "iddia_id": "c39",
+      "cumle": "Mombauer ise \"sleepwalker\" çerçevesinin sorumluluğun görelileştirilmesine yol açtığını, Berlin ve Viyana'da diplomasi yerine savaşı seçen bilinçli kararları gölgelediğini savunur; birden çok hükümetin krize katkısını kabul etmekle birlikte esas itici gücün Avusturya-Macaristan ve Almanya'dan geldiğini ve sorumluluk derecelerinin korunması gerektiğini vurgular.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: Mombauer'in \"relativization of responsibility\" itirazi ve sorumluluk dereceleri vurgusu."
+    },
+    {
+      "iddia_id": "c40",
+      "cumle": "Avusturya-Macaristan'ın 23 Temmuz'da Sırbistan'a verdiği notanın on maddesi Britanya derlemesinde tam metin olarak yayımlanmıştır: Monarşi'ye düşmanlığı körükleyen yayınların bastırılması, Narodna Odbrana'nın dağıtılması, eğitim ve ordudan sorumluların ayıklanması ve — beşinci maddede — yıkıcı hareketin bastırılmasında Avusturya-Macaristan hükümeti temsilcilerinin Sırbistan topraklarındaki işbirliğinin kabul edilmesi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Derlemede notanin on maddesi tam metin; 5. madde Avusturya-Macaristan temsilcilerinin isbirligini ister."
+    },
+    {
+      "iddia_id": "c41",
+      "cumle": "Altıncı madde, 28 Haziran komplosunun destekçilerine karşı açılacak adli soruşturmaya Avusturya-Macaristan tarafından atanacak organların katılmasını ister.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Notanin 6. maddesi: 28 Haziran komplosu sorusturmasina Avusturya-Macaristan organlarinin katilmasi."
+    },
+    {
+      "iddia_id": "c42",
+      "cumle": "Sırp hükümeti beşinci maddedeki işbirliğinin anlamını ve kapsamını açıkça kavrayamadığını, ancak uluslararası hukuka, ceza muhakemesine ve iyi komşuluk ilişkilerine uygun düşen bir işbirliğini kabul edeceğini bildirir; altıncı maddedeki Avusturya-Macaristan görevlilerinin soruşturmaya katılmasını ise anayasanın ve ceza muhakemesi kanununun ihlali sayarak reddeder.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sirp cevabi 5. madde: \"they do not clearly grasp the meaning or the scope\"; 6. madde: anayasa ve ceza muhakemesi ihlali gerekcesiyle ret."
+    },
+    {
+      "iddia_id": "c43",
+      "cumle": "Cevabın son paragrafı, Avusturya-Macaristan tatmin olmazsa Sırbistan'ın sorunu Lahey'deki uluslararası mahkemenin kararına ya da 1909 bildirisini hazırlayan büyük güçlere götürmeye hazır olduğunu söyler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sirp cevabinin son paragrafi: Lahey uluslararasi mahkemesi ya da 1909 bildirisini hazirlayan buyuk gucler."
+    },
+    {
+      "iddia_id": "c44",
+      "cumle": "Avusturya-Macaristan'ın 28 Temmuz tarihli savaş ilanı notası ise cevabı tatmin edici bulmadığını bildirir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Derlemedeki 28 Temmuz 1914 tarihli Avusturya-Macaristan savas ilani notasi."
+    },
+    {
+      "iddia_id": "c45",
+      "cumle": "Britanya derlemesi Grey'in yazışmalarından kurulur ve dört güç konferansı önerisine verilen İtalyan desteğini kaydeder; Alman Beyaz Kitabı ise aynı günleri Sırp ve Rus siyasetinin bir sonucu olarak anlatır ve sorumluluğun bütünüyle Rusya'ya ait olduğunu ilan eder.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5: Grey yazismalari ve Italyan destegi (No. 49). k4: Beyaz Kitap sorumlulugu tamamen Rusya'ya yukler."
+    },
+    {
+      "iddia_id": "c46",
+      "cumle": "Fay 1928 tarihli önsözünde, savaş yıllarında İngiliz, Fransız ve Rus hükümetlerinin erken bastığı Mavi, Sarı ve Turuncu kitapları okuduğunda bunları hiç de eksiksiz ve güvenilir bulmadığını, Alman ve Avusturya kitaplarını ise daha da az güvenilir saydığını yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6 onsoz (S.B.F., July 28 1928, Northampton): \"A little study of the documents in the Blue, Yellow and Orange books which were early issued by the English, French and Russian Governments quickly convinced him that these documentary publications were by no means so complete and reliable, though more so than the White and Red Books issued...\" Hakem duzeltmesi: onceki hali (\"1928'de bile\") Fay'in savas yillarindaki okumasini 1928 hukmu gibi tarihlendiriyordu."
+    },
+    {
+      "iddia_id": "c47",
+      "cumle": "Yapısal açıklama, savaşlar arası dönemin en yaygın cevabıydı ve bugüne kadar geçerliliğini korudu: gizli ittifak ağı, saldırının hızına yapılan vurgu, katı askerî planlama, Darwinci düşünceler ve çözüm mekanizmalarının yokluğu birçok tarihçi tarafından sorumlu tutuldu; Joachim Remak ile Paul Kennedy bu çizginin bilinen savunucuları oldu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: savaslar arasi donemde ittifak agi, saldiri hizi, kati planlama, Darwinci fikirler; Remak ve Kennedy."
+    },
+    {
+      "iddia_id": "c48",
+      "cumle": "Fay'in kendi sıralaması da aynı yöne bakar ve altta yatan nedenleri beş başlıkta toplar: gizli ittifak sistemi, militarizm, milliyetçilik, iktisadi emperyalizm ve basın.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6 s.34: \"...the underlying causes of the World War. They may be conveniently grouped under five heads: (a) the system of secret alliances, (b) militarism, (c) nationalism, (d) economic imperialism, and (e) the newspaper press.\" Hakem duzeltmesi: Fay'in terimi \"underlying\" (altta yatan), \"nihai\" degil."
+    },
+    {
+      "iddia_id": "c49",
+      "cumle": "Fay'e göre bunların en büyüğü ittifak sistemidir; sistem bir yandan barışı korur çünkü müttefikler birbirini frenler, ama savaş çıkarsa bütün büyük güçlerin ona katılmasını da kaçınılmaz kılar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Fay: \"The greatest single underlying cause of the War was the system of secret alliances\"; frenleme ve yayilma cift etkisi."
+    },
+    {
+      "iddia_id": "c50",
+      "cumle": "James Joll ise seçkinlerin altta yatan inanç ve zihniyetlerini — kültürel kadercilik, militarizm ve ortak yanlış algıları — öne çıkardı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: Joll'un kulturel kadercilik, militarizm ve ortak yanlis algilar vurgusu."
+    },
+    {
+      "iddia_id": "c51",
+      "cumle": "Mekanizma açıklamasının en dar hâli A.J.P. Taylor'ın 1969 tarihli War by Time-table kitabındaki demiryolu tezidir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k10 ODUNC-KISITLI KATALOG (access-restricted-item: true): yalniz kunye — \"War by time-table: how the First World War began ... publication date 1969 ... London, Macdonald\"; eserin metnine erisilemedigi icin destek kismi. Tezin adlandirilmasi k1'de birebir: \"Another theory was A. J. P. Taylor's 'Railway Thesis' in his 1969 book War by Timetable.\" Hakem duzeltmesi: \"en sinanabilir\" nitelemesi kaldirildi — makalenin kendi 'Acik kalanlar' bolumu tarifelerin baglayiciliginin olculemedigini soyluyor; iki cumle celisiyordu."
+    },
+    {
+      "iddia_id": "c52",
+      "cumle": "Taylor'a göre hiçbir büyük güç savaş istemiyordu ama hepsi göreli gücünü artırmak istiyordu; silahlanma yarışına girerek ve genelkurmaylara ayrıntılı seferberlik tarifeleri hazırlatarak, savaşın riskini çok tehlikeli göstermeye yarayacak bir caydırıcılık kurmayı umuyorlardı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: Taylor'in \"Railway Thesis\"; caydiricilik amaciyla hazirlanan seferberlik tarifeleri."
+    },
+    {
+      "iddia_id": "c53",
+      "cumle": "Kriz başlayınca rakiplerden hızlı seferber olma zorunluluğu 1914'ün liderlerini kendi lojistiklerinin tutsağı yaptı ve Belçika'nın işgali Alman seferberliğinin kaçınılmaz fiziksel sonucu hâline geldi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: liderlerin lojistiklerinin tutsagi olmasi ve Belcika'nin isgalinin kacinilmaz sonuc sayilmasi."
+    },
+    {
+      "iddia_id": "c54",
+      "cumle": "Zihniyet düzeyine bakan okumalar aynı soruyu başka bir katmanda sorar: Sosyal Darwinci fikirlerin payını vurgulayan yakın tarihli çalışmalar, Avusturyalıların Sırpları Slav oldukları için kendilerinden aşağı görmesini ve Sırp topraklarını Germen imparatorluklarına katmayı meşru saymasını savaşın nedenleri arasında sayar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1: \"Political scientists Richard N. Lebow and Thomas Lindemann argue that the First World War broke out partly due to ideas about Social Darwinism. Austrians felt that Serbians, as Slavs, were inferior... so it was legitimate to make Serbian territory part of Germanic empires.\" Hakem duzeltmesi: onceki \"Ayni yillarda\" ifadesi bu okumalari Taylor'in 1969'uyla ayni yillara koyuyordu; kaynak 2014 tarihli."
+    },
+    {
+      "iddia_id": "c55",
+      "cumle": "Bogdanor'un itirazı tam bu noktaya düşer: dört güç konferansı ve Lahey tahkimi somut olarak önerildiyse ve somut olarak reddedildiyse, reddi yapan başkentler bir tarifenin değil bir kararın öznesidir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Bogdanor'un itirazi kaynakta var; \"bir tarifenin degil bir kararin oznesidir\" cikarimi bu sayfaya aittir."
+    },
+    {
+      "iddia_id": "c56",
+      "cumle": "Almanya'nın 1914'te Viyana'ya serbest el verdiği kendi resmî yayınında yazılıdır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Beyaz Kitap'in serbest el cumlesi; iddia kaynagin kendi beyanina dayaniyor."
+    },
+    {
+      "iddia_id": "c57",
+      "cumle": "Avusturya-Macaristan'ın notasının kabul edilmek için yazılmadığı, notanın beşinci ve altıncı maddelerinden ve Sırp cevabının tam da o iki maddede takılmasından okunabilir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Notanin 5-6. maddeleri ve Sirp cevabinin tam o iki maddede takilmasi belgede; \"kabul edilmek icin yazilmadi\" cikarimi yorumdur."
+    },
+    {
+      "iddia_id": "c58",
+      "cumle": "Aralık 1912 toplantısının bir karar mı yoksa bir niyet beyanı mı olduğu, doğrudan kanıt bulunmadığı için tartışmalıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia: Mombauer'in Aralik 1912 icin dogrudan kanit bulunmadigi tespiti."
+    },
+    {
+      "iddia_id": "c59",
+      "cumle": "Mombauer'in kaydettiği gibi tartışma, savaşın yüzüncü yılında bir kez daha ve büyük bir kamuoyu ilgisiyle açıldı; kapandığını gösteren bir işaret yok.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozet: yuzuncu yilda yayin bollugu ve beklenenin ustunde kamuoyu ilgisi."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 59,
+    "kismi": 3,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

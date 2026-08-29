@@ -1,5 +1,5 @@
 ## olay-1848-devrimleri
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:47:59.382Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:25.194Z_
 
 - [OK]      k1 → "Kaynağa göre gıda fiyatlarındaki artış, dokuma üretimi için gerekli olan Güney Amerika Birleşik Devletleri pam…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "İşsizlik ve yoksullaşma kentli topluluklar arasında hızla yayıldı: Christopher Clark'a göre 1847'ye gelindiğin…" — 4 atom doğrulandı; 1 ad ölçülemedi

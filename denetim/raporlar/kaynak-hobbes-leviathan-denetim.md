@@ -1,5 +1,5 @@
 ## kaynak-hobbes-leviathan
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:17.012Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:42.984Z_
 
 - [OK]      k1 → "Kaynak eseri Leviathan başlığıyla işler ve içerik bölümünün altında başlık, ön kapak gravürü, giriş ile dört k…"
 - [ATOMSUZ] k1 → "Bir kitabın ön kapak gravürüne ayrı bir alt başlık ayrılması, atlasın şu kuralının dayanağıdır: bu dosyada ese…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

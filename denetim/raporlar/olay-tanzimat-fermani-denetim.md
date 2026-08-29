@@ -1,5 +1,5 @@
 ## olay-tanzimat-fermani
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:03.304Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:29.166Z_
 
 - [OK]      k1 → "Mahmud ve Tanzimat devirleri, Osmanlı Devleti'nin idari, siyasi, sosyal, kültürel ve ekonomik açılardan âdeta …"
 - [ATOMSUZ] k1 → "Tanzimat'a kadarki dönemde resmî tabakalaşma, hanedan ve saray halkı dışında iki ana kategoriye dayanıyordu: v…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

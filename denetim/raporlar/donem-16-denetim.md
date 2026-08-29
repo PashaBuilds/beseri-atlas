@@ -1,5 +1,5 @@
 ## donem-16
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:47:59.292Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:25.103Z_
 
 - [ATOMSUZ] k1 → "Demograflar dünya nüfusunun bu yüzyılın sonunda tepe noktasına ulaşmasını bekliyor; yani dönemin tanımlayıcı e…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bugün dünyada sekiz milyardan fazla insan var; ancak çok hızlı bir nüfus artışı döneminin ardından demograflar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

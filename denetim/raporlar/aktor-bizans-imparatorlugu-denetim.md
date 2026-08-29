@@ -1,5 +1,5 @@
 ## aktor-bizans-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:04.583Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:30.440Z_
 
 - [OK]      k1 → "Bizans İmparatorluğu terimi ancak devletin sona ermesinden sonra türetilmiştir; yurttaşları kendileri için "Ro…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "yüzyıldaki çöküşünden sonra ayakta kalmış ve Konstantinopolis'in 1453'te Osmanlı İmparatorluğu'na düşmesine ka…" — 2 atom doğrulandı; 2 ad ölçülemedi

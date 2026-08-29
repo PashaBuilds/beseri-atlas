@@ -43,6 +43,7 @@ ilgili:
   - kavram-zorunlu-emek-duzeni
   - aktor-dahomey-kralligi
   - aktor-oyo-imparatorlugu
+  - tartisma-osmanli-gerileme-tezi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

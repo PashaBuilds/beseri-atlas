@@ -1,0 +1,717 @@
+{
+  "id": "tartisma-1929-krizinin-nedeni",
+  "govde_hash": "410b59654f68",
+  "commit": "7549ec6",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Ağustos 1929'da yüzde 3 olan Amerikan işsizlik oranı Mart 1933'te yüzde 25'e çıkmıştı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Aynı aralıkta sanayi üretimi endeksi 114'ten 54'e, yani yüzde 52,6 geriledi; para arzı yüzde 35 daraldı, fiyatlar yaklaşık yüzde 33 düştü ve ülkedeki bankaların üçte birinden fazlası ya kapandı ya da başka bankalarca devralındı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Bunalımın hangi düzeneğe bağlanacağı, bir sonraki daralmada merkez bankasının ne yapması gerektiğine dair örtük bir reçetedir; 2008 krizinin en karanlık saatlerinde Amerikan hazine yönetiminin Charles Kindleberger kuşağının metinlerine dönmesi bunun somut karşılığıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Internet Archive katalog kaydi; sayfa kunye/tanitim bilgisi tasir, icerik iddiasi katalog kuralina gore kismi sayilir."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Randall Parker'ın iktisat tarihi ansiklopedisi için hazırladığı değerlendirme bugünkü ağırlık dağılımını şöyle özetler: Amerikan deneyimi büyük ölçüde Friedman ile Schwartz'ın parasal savı ve Bernanke ile Fisher'ın parasal olmayan/finansal savlarıyla açıklanabilir, uluslararası deneyim ise kusurlu bir savaş arası altın standardının ürünü olarak anlaşılmalıdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Popüler anlatı borsa çöküşü ile bunalımı aynı olay sayar; iktisatçılar saymaz.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "NBER iş çevrimi kayıtları bunalımın başlangıcını Ağustos 1929'a, yani borsanın Ekim'deki çöküşünden öncesine tarihler; buna dayanarak pek çok yazar bunalımın Wall Street'te değil ana caddede başladığını söyler.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Çöküşü merkeze alan anlatının klasik metni John Kenneth Galbraith'in 1955'te yayımlanan The Great Crash, 1929 kitabıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1955 yili ve kitabin kimligi k11'de dogrudan; k7 odunc-kisitli katalog kaydi yazar/baslik/yayinevini tasidigi icin kismi (kayittaki yayin yili 1997 Mariner basimidir)."
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Kitap 1929 borsa çöküşünü “rampant speculation in the stock market” diye tarif ettiği azgın spekülasyona bağlar ve bütün spekülatif dalgaların ortak paydasını, katılanların çalışmadan zengin olunabileceğine inanmasında bulur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Galbraith bunu yazarken tarihçinin işini de tanımlıyordu: çöküşün hafızada taze tutulması, yinelenmesine karşı bir korunmadır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Galbraith'in gerekcesi k11'de dogrudan ('a good knowledge of what happened in 1929 was the best safeguard against its recurrence'). Onceki surumdeki k7 dipnotu katalog kaydinda karsiligi olmadigi icin kaldirildi."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Mishkin 1978'de hane bilançolarının bozulmasına ve dayanıklı tüketim ile konut harcamasının ertelenmesine işaret eder; Temin 1976'da servet etkisini kabul eder ama küçük tutar, çünkü hisse senetleri toplam servetin büyük bölümü değildi ve piyasa düşmesine rağmen 1928 başındaki düzeyin üstünde kaldı; Romer 1990'da çöküşü, dayanıklı mal harcamasını baskılayan bir belirsizlik kaynağı sayar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Tartışmanın ekseni 1963'te Milton Friedman ile Anna Schwartz'ın A Monetary History of the United States, 1867-1960 kitabıyla kuruldu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Internet Archive katalog kaydi; sayfa kunye/tanitim bilgisi tasir, icerik iddiasi katalog kuralina gore kismi sayilir."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Kitap para arzındaki yüzde 35'lik düşüşe “The Great Contraction” adını verir ve reel ekonominin finansal kesimdeki kopuşlarla eşzamanlı hareketini titizlikle belgeler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Ekim 1930'da başlayan banka iflası dalgaları bu okumada iki yönlü iş görür: banka hissedarlarının serveti erir ve dışsal şoklar olarak para arzını aşağı çeker.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "1913'te son merci ödünç veren olsun diye kurulan Federal Rezerv, likidite arayan bankalara cömertçe borç vermedi, mevduat dönüştürülebilirliğinin askıya alınmasını tartışmadı ve elindeki serbest altının parasal genişlemeye izin verdiğini hesaba katmadı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Friedman ile Schwartz'a göre daralma boyunca kurumun elinde para arzının düşmesini engelleyecek alternatif politikalar vardı ve bunlar radikal yenilikler gerektirmiyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "İkili, bu felcin başlangıcını New York Federal Rezerv Bankası başkanı Benjamin Strong'un 1928'deki ölümüne bağlar: açık piyasa işlemleri New York'un ağırlıkta olduğu beş kişilik bir komiteden on iki guvernörlü bir komiteye geçti ve kararlılığın yerini atalet aldı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Karşı-olgusal benzetimler savı destekler: para arzı Ekim 1929 öncesindeki yıllık yüzde 3,3'lük eğilimiyle sürdürülseydi bunalımın büyük bölümü önlenebilirdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Karsi-olgusal benzetim sonucu k1 uzerinden aktariliyor; asli calisma (Fackler-Parker 1994) havuzda dogrulanabilir degil."
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Meltzer 1976'da kurumun nominal ile reel faizi ayırt edemediğini gösterdi: nominal oranlar düşerken Federal Rezerv bunu gevşek bir kredi piyasası işareti saydı, oysa deflasyon altında reel oranlar yükseliyor ve piyasa sıkışıyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Cecchetti ile Nelson ise deflasyonun bir kez başladıktan sonra kısa vadede öngörülebilir hâle geldiğini, dolayısıyla yüksek beklenen reel faizlerin düşen fiyatları düşen üretime bağlayan aktarım düzeneği olduğunu gösterdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Paul Samuelson parasal tabanın bunalım boyunca düşmediğini hatırlatır ve merkez bankasından gereken her ölçüde genişleme beklemenin geriye dönük bir akıl yürütme olduğunu söyler; böyle bir politika rotası dönemin tartışma ufkunun dışındaydı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Moses Abramovitz para arzının merkez bankasının denetleyemeyeceği içsel bileşenler taşıdığını, yani ters nedenselliğin elenmediğini belirtir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Peter Temin itirazı 1976'da doğrudan kitabının başlığına taşıdı: Did Monetary Forces Cause the Great Depression?",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Internet Archive katalog kaydi; sayfa kunye/tanitim bilgisi tasir, icerik iddiasi katalog kuralina gore kismi sayilir."
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Temin'in bu evredeki savı, daralmanın itici gücünün para değil tüketim harcamasındaki özerk düşüş olduğudur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Sav zamanla aşındı: 1999'da Martha Olney, tüketimdeki düşüşün özerk olmadığını, hanelerin taksitli borç yükü altında ezildiğini gösterdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Peşinatlar büyük, sözleşmeler kısaydı; kaçırılan bir taksit haciz getiriyor ve biriken bütün sermayeyi siliyordu, dolayısıyla harcamayı kesmek 1930'da iflastan kaçınmanın yolu hâline gelmişti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Parker, özerk tüketim düşüşünü, konut yapımının çökmesini, borsa çöküşünün etkilerini, Romer'in belirsizlik savını ve 1930 tarihli Smoot-Hawley gümrük yasasını ayrı ayrı anmaya değer bulur ve bunalımı başlatma sorumluluğunun bir bölümünü hepsine dağıtır; ama ortak açıklarını da adlandırır: bu açıklamaların hiçbiri, dönem boyunca dünyaya dayatılan deflasyonun derinliğini ve süresini öteki üç çerçeve kadar taşıyamaz.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Irving Fisher'ın 1933'te Econometrica'da yayımlanan makalesi büyük bunalımların baskın etkenlerini aşırı borçluluk ile deflasyonda arar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ustveri kaydi yazar, yil, dergi ve basligi dogrudan verir. Makalenin ic savi k1 uzerinden aktariliyor."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Fiyat düzeyi ve nominal gelirler sert düştüğünde reel borç yükü ağırlaşır; borçlu ödeyemez hâle gelir, toplam talep geriler ve fiyatlar bir kez daha düşerek borcun reel yükünü yeniden artırır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Ben Bernanke'nin 1983 tarihli çalışması bu şemayı yeniden kurdu ve kendi katkısını ekledi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ustveri kaydi yazar, yil, dergi ve basligi dogrudan verir. Katkinin icerigi k1 uzerinden aktariliyor."
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Bernanke'nin parasal okumaya üç itirazı vardır: sav finansal kesim ile toplam üretim arasındaki bağı tam açıklamaz, para arzındaki düşüşün üretimi yıllarca aşağı çekmesini gerekçelendirmez ve daralmanın derinliğini niceliksel olarak karşılamaz.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Kredi görüşü diye anılan ekleme şudur: olağan koşullarda fiyat düşüşü serveti borçludan alacaklıya aktaran ikinci dereceden bir etkidir, ama büyük şoklar altında bankaların el koyduğu varlıkların değeri erir, bilançolar bozulur, bankalar kredilerden devlet kâğıdına kaçar ve özellikle küçük borçlular fiyatı ne olursa olsun kredi bulamaz.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Finansal paniklerin bir başka maliyeti de kredi aracılığının kendisidir: bilgi toplama ve piyasa yapıcılığı pahalılaşınca haneler, çiftçiler ve küçük firmalar kredi düzeninin dışında kalır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "James Tobin, 1931'de daralmanın karakterindeki değişimi banka paniklerinden çok karamsar beklentilerin doğuşuna bağlar: Britanya altın standardından çıkana kadar kamuoyu bunu bilinen türden bir gerileme sayıp toparlanmayı bekleyebilirdi, sonrasında beklentiler sert biçimde karamsarlaştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "John Maynard Keynes 1936'da beklentilerin durumu üzerine uzun uzun yazdı; buna karşın 1931-1933 için beklenti savının ampirik geçerliliğine ilişkin yazın sessizdir ve Parker bu savı ayrı bir hipotez olarak ayırmaz.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Bu okumanın yaslandığı yazın — Eichengreen'in 1986 tarihli çalışmasından 1992'de yayımlanan Golden Fetters kitabına uzanan hat — savaş arası altın standardını dört yapısal kusurla tarif eder ve en ağırını asimetride bulur: altın kaybeden ülke para arzını daraltmak zorundaydı, altın toplayan ülke genişletmek zorunda değildi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 dort kusur taksonomisini (Eichengreen 1986; Temin 1989; Bernanke-James 1991) kunyesiyle verir ve asimetriyi 'first, and most damaging' diye adlandirir; taksonomi tek bir kitaba degil bu yazin hattina aittir, cumle buna gore duzeltildi. Golden Fetters'in 1992 kunyesi k5 katalog kaydinda (kismi)."
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Yüzde 40'lık kısmi altın karşılık oranıyla bir birimlik altın çıkışı yurt içi para arzını 2,5 birim düşürüyordu; iki büyük altın fazlası ülkesi olan Fransa ile Amerika Birleşik Devletleri bu daralmayı dünyaya ihraç etti.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Peter Temin 1989'da bu kampa katıldı ve altın standardına bağlılığı “The Midas Touch” diye adlandırdı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "İkisi birlikte Friedman ile Schwartz'ın politika hatası iddiasını reddeder: onlara göre parite savunulacaksa ve devalüasyon seçenek değilse, tek bir ülkenin tek başına atacağı parasal adım anlamsızdır ve merkez bankası bankaların çökmesini seyretmek zorunda kalabilir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Eichengreen'in vardığı sonuç, savaş öncesi standardı başarılı kılan şeyin ulusal değil uluslararası bir bağlılık olduğu ve bu bağlılığın ülkeler arası işbirliğiyle canlı tutulduğudur; savaş arası dönemde eksik olan da tam olarak buydu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Standardı erken terk eden ülkelerde toparlanma erken başlar: hiç dönmeyen İspanya bunalımın en ağır etkilerini görmedi, Britanya ile İsveç Eylül 1931'de çıkıp toparlanmaya başladı, Amerika Birleşik Devletleri Mart 1933'te çıktı, Fransa ile Hollanda ve Polonya 1936'ya kadar bağlı kaldıkları için beklemek zorunda kaldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Lawrence Officer'ın altın standardı tarihi bu takvimi kendi ayrıntısıyla doğrular ve dengeleyici bir not düşer: bunalım altın standardının bir nedeni olduğu kadar sonucudur da — “the Great Depression was a consequence of the gold standard” — çünkü standarda bağlı ülkeler ödemeler dengesini zayıflatmaktan korktukları için ekonomilerini genişletmeye yanaşmadı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2'nin tam cumlesi 'As much as a cause, the Great Depression was a consequence of the gold standard; for gold-standard countries hesitated to inflate their economies for fear of weakening the balance of payments'. Onceki surum alintinin 'As much as a cause' bolumunu dusurup Officer'i tek yanli gosteriyordu; cumle tam anlami verecek bicimde duzeltildi."
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Aynı kayda göre çözülme çevre ülkelerde başladı, Mayıs 1931'de Avusturya'nın en büyük ticari bankasının batmasıyla Almanya'ya sıçradı ve Temmuz 1931'de Almanya'nın kambiyo denetimine geçmesiyle kesinleşti; sterlin Eylül 1931'de düştü, altın bloğu ülkeleri 1936 sonunda teslim oldu.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Kindleberger 1973'te tartışmaya bir siyaset katmanı ekledi: savaş öncesi altın standardı Britanya'nın tartışmasız önderliğiyle işliyordu; Britanya'nın göreli gerilemesinden sonra Amerika Birleşik Devletleri aynı gücü göstermedi ve sistemin düzgün işlemesinin sorumluluğunu kimse üstlenmedi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Kitabın tanıtımı üç kavramı yan yana koyar: panik, bulaşmanın gücü ve önderlik.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Internet Archive katalog kaydi; sayfa kunye/tanitim bilgisi tasir, icerik iddiasi katalog kuralina gore kismi sayilir."
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Kitabın içindekiler listesi de tartışmanın kapsamını çizer: 1929 borsa çöküşü, uçuruma kayış, 1931, dünya iktisat konferansı ve altın bloğunun teslim oluşu ayrı bölümlerdir; cilt 1929 bunalımının bir açıklamasıyla kapanır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Internet Archive katalog kaydi; sayfa kunye/tanitim bilgisi tasir, icerik iddiasi katalog kuralina gore kismi sayilir."
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Kırkıncı yıl basımının önsözünü Barry Eichengreen ile Bradford DeLong yazdı; yani rakip çerçevenin kurucusu, bu kitabın yeniden basımını takdim etti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Internet Archive katalog kaydi; sayfa kunye/tanitim bilgisi tasir, icerik iddiasi katalog kuralina gore kismi sayilir."
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "Maddison Project kişi başına GSYH serisinde dünya değeri 1920'de yaklaşık 2.493, 1940'ta yaklaşık 3.413 uluslararası dolardır (2011 fiyatlarıyla).",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hakem dogrulamasi: OWID ucundan kesilmemis tam CSV cekildi (567.429 bayt); World satirlari 1920=2493.3152 ve 1940=3413.199, depo kopyasi veri-setleri/kisi-basi-gsyh.csv ile birebir esler. Birim OWID ustverisinde 'international-$ in 2011 prices'. Deponun 400k'lik getirme penceresinde World satiri 556.370. bayttan sonra basladigi icin kapi katmani icin destek kismi kalir."
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "İki çapa arasında bunalımın kendisi görünmez: dünya serisi on yıllık aralıklarla ilerlediği için 1929 zirvesi de 1933 dibi de kayıtta yoktur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hakem dogrulamasi: tam CSV'de World serisinin 21 satiri var ve 1920 ile 1940 arasinda hicbir yil yok; 1929 zirvesi ve 1933 dibi kayitta gercekten yoktur. Destek, 400k getirme penceresi disinda kaldigi icin kismi."
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Parker'ın kendi kaydı bile beklentilerin rolünü ayrı bir sav olarak ayırmadığını, çünkü 1931-1933 için ampirik doğrulamanın bulunmadığını söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 41,
+    "kismi": 8,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

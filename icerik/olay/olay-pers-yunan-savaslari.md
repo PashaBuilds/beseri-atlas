@@ -18,6 +18,7 @@ ilgili:
   - dusunur-herodotos
   - dusunur-thukydides
   - kaynak-herodotos-tarihler
+  - tartisma-tarihsel-sayilar-nasil-okunur
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -18,6 +18,7 @@ ilgili:
   - olay-versailles-antlasmasi
   - kavram-topyekun-savas
   - kavram-vesayet-yonetimi
+  - tartisma-1914-savas-sorumlulugu
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

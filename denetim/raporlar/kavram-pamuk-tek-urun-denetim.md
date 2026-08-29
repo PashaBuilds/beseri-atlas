@@ -1,5 +1,5 @@
 ## kavram-pamuk-tek-urun
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:11.830Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:37.735Z_
 
 - [ATOMSUZ] k1 → "Tek ürüne bağlanma, bir bölgenin tarımının satılabilir tek bir ürüne göre yeniden düzenlenmesidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Düzenleme bir tercihle başlar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

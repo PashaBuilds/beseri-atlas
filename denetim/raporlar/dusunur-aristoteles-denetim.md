@@ -1,5 +1,5 @@
 ## dusunur-aristoteles
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:08.478Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:34.323Z_
 
 - [OK]      k1 → "Kaynak onu MÖ 384-322 arasına yerleştirir ve geride belki iki yüz kadar incelemeden oluşan büyük bir külliyat …"
 - [ATOMSUZ] k1 → "İki sayı yan yana durur: belki iki yüz inceleme, yaklaşık otuz bir kalan." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

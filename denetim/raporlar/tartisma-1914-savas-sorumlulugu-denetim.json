@@ -1,129 +1,399 @@
 {
   "id": "tartisma-1914-savas-sorumlulugu",
   "gecis": 2,
-  "zaman": "2026-08-29T04:48:12.744Z",
-  "govde_hash": "fc67dd30301c",
-  "commit": "58a10ea",
+  "zaman": "2026-08-29T13:53:01.432Z",
+  "govde_hash": "c77278b3d778",
+  "commit": "7549ec6",
   "sonuclar": [
     {
       "anahtar": "k2",
-      "iddia": "maddesi, İtilaf ve ortak hükümetlerin, savaşın Almanya ve müttefiklerinin saldırganlığıyla kendilerine dayatılmasının sonucu olarak uğradıkları bütün kayıp ve h",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "1920'lerde Almanya'nın sorumlu olduğunu savunan az sayıda Alman tarihçiden biri olan Hermann Kantorowicz, Dışişleri Bakanlığı'nın çalışmasının yayımlanmasını en",
-      "durum": "OK",
-      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Holger Herwig, Fritz Fischer'in kitabından önce Almanya'da savaşın kökenleri üzerine yayımlanan çalışmaların büyük bölümünü sözde-tarihsel bir sahtelikten ibare",
+      "iddia": "Kavga akademik bir merakla başlamadı: 1919'da imzalanan barış antlaşması, savaşın sorumluluğunu bir hukuk maddesine çevirdi ve tazminat yükümlülüğünü bu maddeye",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Alman Beyaz Kitabı, Alman hükümetinin Avusturya-Macaristan'a, Monarşi'nin varlığına yönelik hareketi sona erdirmek için gerekli görülen her eylemin onayını alac",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Britanya derlemesi ise aynı günleri Londra'nın yazışmalarından kurar ve Kont Berchtold'un 24 Temmuz'da notayı bir ültimatom değil süre sınırlı bir girişim olara",
-      "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Derlemelerin anlatıyı nerede bitirdiği bile seçimlidir: Sırp belge kitabı 28 Temmuz'daki Avusturya-Macaristan–Sırbistan savaş ilanıyla, Alman, Avusturya ve Rus ",
+      "iddia": "Aynı antlaşmanın ceza bölümü sorumluluğu bir kişiye de yükledi ve eski Alman imparatorunu yargılamak için özel bir mahkeme öngördü.",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sırp, Temmuz, Alman, Avusturya"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Alman"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Savaş sonrasının ilk yıllarında İngilizce dünyada üretilen akademik çalışmalar katılımcıları aşağı yukarı eşit biçimde suçlama eğilimindeydi.",
+      "anahtar": "k9",
+      "iddia": "Annika Mombauer bu yüz yıllık kavgayı doğrudan konu edinen makalesine bu ayrımı başlık yapmıştır: suç mu, sorumluluk mu?",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Savaşın yüzüncü yılında piyasanın kökenleri açıklamaya çalışan yayınlarla dolması ve kamuoyu ilgisinin beklenenin çok üstüne çıkması, sorunun kapanmadığını göst",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngilizce"
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "İki savaş arası dönemde gizli ittifak ağı, saldırının hızına yapılan vurgu, katı askerî planlama, Darwinci düşünceler ve çözüm mekanizmalarının yokluğu birçok t",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Alman tarihçi Fritz Fischer Griff nach der Weltmacht adlı tartışmalı kitabını yayımladı ve tartışmanın merkezi Almanya'nın kendi hedeflerine kaydı.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Fischer'e karşı çıkanlar ile onu izleyenler arasındaki ayrım, bugün de sürüyor: bazı tarihçiler Almanya'nın bilerek savaş aradığını savunur, bazıları savunmaz.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "İkinci grubun içindeki temel ayrım ise, büyük güçler arasındaki savaşın planlanmamış ama esas olarak Almanya ile Avusturya-Macaristan'ın risk almasından kaynakl",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "2013'te Christopher Clark'ın The Sleepwalkers adlı kitabı kökenleri yeniden Balkanlar'a odakladı ve fail olma niteliğini diplomatlara geri dağıttı; Clark soruml",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Clark'a göre Germen güçleri Sırbistan'ı cezalandırmak için yerelleşmiş bir savaş aradı, ancak bunu yaparken Rusya ile savaşı bile bile göze aldılar; Rusya ise 1",
-      "durum": "OK",
-      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Ruslar çatışmanın Lahey'deki tahkim mahkemesine götürülmesini önerdi, bu öneri Almanya ve Avusturya-Macaristan tarafından reddedildi; Bogdanor'a göre dört güç k",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Holger Herwig'in değerlendirmesine göre Berchtold Temmuz boyunca Berlin ile bilgi paylaşmakta isteksizdi; çünkü Berlin'in frene basıp krize son dakikada diploma",
-      "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Herwig'in formülasyonunda Viyana önce savaşa karar verdi, sonra Alman güvencelerini aradı ve bunları aldıktan sonra kullandı.",
+      "anahtar": "k2",
+      "iddia": "Metin, İtilaf ve ortak hükümetlerin, Almanya ve müttefiklerinin saldırganlığıyla kendilerine dayatılan savaşta uğradıkları bütün kayıp ve hasardan Almanya ile m",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "de esas sorumluluğu, Sırbistan üzerinde üstünlük kurmak için savaşı seçen Avusturya-Macaristan seçkinlerine yükler.",
+      "iddia": "Buna karşılık savaştan hemen sonra İtilaf tarihçileri savaşın başlamasından yalnızca Almanya'nın sorumlu olduğunu savundu ve bu görüş antlaşmaya konan \"savaş su",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "madde ise Almanya'nın kaynaklarının tam tazmine yetmediğini açıkça kabul eder ve yükümlülüğü sivil halka ve mülke verilen zararla sınırlar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Wilhelm'i uluslararası ahlaka ve antlaşmaların dokunulmazlığına karşı ağır bir suçtan alenen itham eder; beş büyük gücün birer yargıç atayacağı özel bir mahkeme",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Hollanda"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "madde de savaş hukukunu ihlal etmekle suçlanan kişilerin askerî mahkemelere çıkarılmasını düzenler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Almanya'nın sorumlu olduğunu savunan az sayıdaki Alman tarihçiden biri olan Hermann Kantorowicz, Dışişleri Bakanlığı'nın çalışmasının yayımlanmasını engellemek ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Holger Herwig, Fritz Fischer'in kitabından önce Almanya'da bu konuda yayımlananların büyük bölümünü sözde-tarihsel bir sahtelikten ibaret saymıştır.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "James Joll, Avrupa seçkinlerinin altta yatan inanç ve zihniyetlerini — kültürel kadercilik, militarizm ve ortak yanlış algıları — öne çıkardı.",
+      "iddia": "İngilizce dünyada 1920'lerin sonunda ve 1930'larda üretilen akademik çalışmalar ise katılımcıları aşağı yukarı eşit biçimde suçlama eğilimindeydi.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Lebow ile Thomas Lindemann, savaşın kısmen Sosyal Darwinci fikirler nedeniyle çıktığını savunur: Avusturyalılar Slav oldukları için Sırpları kendilerinden aşağı",
+      "iddia": "maddenin ahlaki geçersizliğini göstererek tazminatları sona erdirmekti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alman Dışişleri Bakanlığı bu çabalara arşivlerini cömertçe açtı, Barnes'a araştırma fonu sağladı; hükümet Fay'in kitabını o kadar beğendi ki çeşitli dillerde yü",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı hükümet, Alman eylemlerini eleştiren çalışmaların Almanya'da yayımlanmasına izin vermedi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "1928 tarihli önsözünde, savaş sırasında Almanya'yı ve Kayzer'i suçlayan koroya katılmayı reddettiğini, çünkü tarih duygusunun ona bu olayda da hiçbir ülkenin ya",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı önsöz, Fransa'daki Poincaré karşıtı revizyonistlerde sarkacın öbür uca savrulma tehlikesini kaydeder ve yazarın ne antlaşmayı savunmak ne de değiştirtmek g",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alman tarihçi Fritz Fischer 1961'de tartışmalı kitabı Griff nach der Weltmacht'ı yayımladı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kitabın alt başlığı, imparatorluk Almanyası'nın 1914–1918 savaş hedefleri siyasetini adlandırır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fischer'in ileri sürdüğüne göre Alman hükümetinin 1912 seçimlerindeki Sosyal Demokrat kazanımlarının ardından biçimlenmiş yayılmacı bir dış politikası vardı ve ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kendisinden önceki tarihçiler yalnızca ağır biçimde ayıklanmış arşivlere ulaşabilmişti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fischer'in dayanaklarından biri, Bethmann Hollweg'in savaş hedeflerini sıralayan Eylül Programı'ydı; savaş başladıktan sonra hazırlanmış ve Rus Polonyası'nda et",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "John Röhl 1973'te, Fischer'in ortaya çıkardıkları — özellikle 8 Aralık 1912 tarihli Savaş Konseyi toplantısı — karşısında Almanya'nın esas sorumluluğu taşıdığı ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Buna karşılık Mombauer, Moltke üzerine çalışmasında, çok sayıda araştırma ve tartışmaya rağmen askerî karar vericilerin Aralık 1912'yi gelecekteki bir savaşın k",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "The Hundred-Year Debate on the Origins of World War I\".",
+      "iddia": "Muhafazakâr Alman tarihçi Gerhard Ritter tezi sahtekârca ve yanlış saydı; 1962 tarihli bir yazısında Almanya'nın 1914'teki asıl amacının Avusturya-Macaristan'ı ",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ritter'e göre Almanya'nın 1914'te eleştirilebileceği en fazla şey, Avrupa güç siyasetinin durumunu yanlış değerlendirmesiydi.",
       "durum": "OK",
       "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Mombauer, tartışmanın belge güdümlü niteliğini inceleyen makalesinde, hem Fischer okulunun hem eleştirmenlerinin daha çok arşiv belgesinin er geç kesin bir gerç",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Aynı makale, alanın postmodern görelileştirme girişimlerinin dışında kalmasını, onlarca yıldır savaş suçu suçlamaları ve savunularıyla tanımlanmış duygusal bir ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mombauer'e göre 1980'lere gelindiğinde yeni bir uzlaşma oluşmuştu: çok az tarihçi Fischer'in önceden tasarlanmış savaş tezini bütünüyle benimsiyordu ama Almanya",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Williamson Jr., 1990 tarihli çalışmasında suçun büyük bölümünü Almanlara değil Avusturya-Macaristan seçkinlerine yükler.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Holger Herwig'in değerlendirmesinde Berchtold Temmuz boyunca Berlin ile bilgi paylaşmakta isteksizdi; çünkü Berlin'in frene basıp krize son dakikada diplomatik ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Herwig'in kendi özetinde Viyana önce savaşa karar verdi, sonra Alman güvencelerini aradı ve aldıktan sonra kullandı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "1914 tarihli Beyaz Kitap'a göre Berlin, Viyana'ya Sırbistan'a yönelik eyleminde \"tamamen serbest bir el\" tanımış, ama hazırlıklarına katılmamıştı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı metin Avusturya-Macaristan'ın notasına 48 saatlik bir süre verdiğini, Sırp cevabının bazı noktalarda uyduğunu ama esas noktalarda oyalanma olduğunu ve Mona",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Christopher Clark'ın kitabı 2012'de Britanya'da, ertesi yıl New York baskısıyla yayımlandı; kökenleri yeniden Balkanlar'a odakladı ve fail olma niteliğini diplo",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Christopher Clark'ın kitabı 2012'de Britanya'da, ertesi yıl New York baskısıyla yayımlandı; kökenleri yeniden Balkanlar'a odakladı ve fail olma niteliğini diplo",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Clark sorumluluğu Almanya, Avusturya-Macaristan, Fransa ve Rusya'ya özel dikkat göstererek bütün büyük güçlere yaymayı amaçlar; ona göre Germen güçleri Sırbista",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Clark'ın sonucu, kıtadaki bütün güçlerin genel bir savaşı göze aldığı ama hiçbirinin onu aramadığıdır; krizin hızı arabuluculuğu işlevsiz kılmıştı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Vernon Bogdanor, Clark'ı Alman ve Avusturya tarafının arabuluculuk önerilerini reddetmesini hafifletmekle eleştirir: Sir Edward Grey'in dört güç konferansı öner",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Britanya derlemesi bu iki seçeneği de kaydeder: Grey'in konferans önerisine İtalya'nın verdiği desteği ve Çar'ın 29 Temmuz'da Alman imparatoruna Avusturya-Sırbi",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Telgraf derlemeye Rus basınının Ocak 1915'teki yayınından girmiştir; hangi belgenin görülebildiği, kimin neyi ne zaman bastığına da bağlıdır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hans-Ulrich Wehler, Clark'ın Alman tarafındaki kaynakları özenle araştırdığını ama şaşırtıcı bir tek yanlılıkla elediğini yazdı ve kitabın Almanya'daki satış ba",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mombauer ise \"sleepwalker\" çerçevesinin sorumluluğun görelileştirilmesine yol açtığını, Berlin ve Viyana'da diplomasi yerine savaşı seçen bilinçli kararları göl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Avusturya-Macaristan'ın 23 Temmuz'da Sırbistan'a verdiği notanın on maddesi Britanya derlemesinde tam metin olarak yayımlanmıştır: Monarşi'ye düşmanlığı körükle",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Altıncı madde, 28 Haziran komplosunun destekçilerine karşı açılacak adli soruşturmaya Avusturya-Macaristan tarafından atanacak organların katılmasını ister.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Sırp hükümeti beşinci maddedeki işbirliğinin anlamını ve kapsamını açıkça kavrayamadığını, ancak uluslararası hukuka, ceza muhakemesine ve iyi komşuluk ilişkile",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Cevabın son paragrafı, Avusturya-Macaristan tatmin olmazsa Sırbistan'ın sorunu Lahey'deki uluslararası mahkemenin kararına ya da 1909 bildirisini hazırlayan büy",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Avusturya-Macaristan'ın 28 Temmuz tarihli savaş ilanı notası ise cevabı tatmin edici bulmadığını bildirir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Temmuz"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Britanya derlemesi Grey'in yazışmalarından kurulur ve dört güç konferansı önerisine verilen İtalyan desteğini kaydeder; Alman Beyaz Kitabı ise aynı günleri Sırp",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Britanya derlemesi Grey'in yazışmalarından kurulur ve dört güç konferansı önerisine verilen İtalyan desteğini kaydeder; Alman Beyaz Kitabı ise aynı günleri Sırp",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Fay 1928 tarihli önsözünde, savaş yıllarında İngiliz, Fransız ve Rus hükümetlerinin erken bastığı Mavi, Sarı ve Turuncu kitapları okuduğunda bunları hiç de eksi",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yapısal açıklama, savaşlar arası dönemin en yaygın cevabıydı ve bugüne kadar geçerliliğini korudu: gizli ittifak ağı, saldırının hızına yapılan vurgu, katı aske",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Fay'in kendi sıralaması da aynı yöne bakar ve altta yatan nedenleri beş başlıkta toplar: gizli ittifak sistemi, militarizm, milliyetçilik, iktisadi emperyalizm ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Fay'e göre bunların en büyüğü ittifak sistemidir; sistem bir yandan barışı korur çünkü müttefikler birbirini frenler, ama savaş çıkarsa bütün büyük güçlerin ona",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "James Joll ise seçkinlerin altta yatan inanç ve zihniyetlerini — kültürel kadercilik, militarizm ve ortak yanlış algıları — öne çıkardı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Taylor'ın 1969 tarihli War by Time-table kitabındaki demiryolu tezidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Taylor'ın 1969 tarihli War by Time-table kitabındaki demiryolu tezidir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Taylor'a göre hiçbir büyük güç savaş istemiyordu ama hepsi göreli gücünü artırmak istiyordu; silahlanma yarışına girerek ve genelkurmaylara ayrıntılı seferberli",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kriz başlayınca rakiplerden hızlı seferber olma zorunluluğu 1914'ün liderlerini kendi lojistiklerinin tutsağı yaptı ve Belçika'nın işgali Alman seferberliğinin ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Zihniyet düzeyine bakan okumalar aynı soruyu başka bir katmanda sorar: Sosyal Darwinci fikirlerin payını vurgulayan yakın tarihli çalışmalar, Avusturyalıların S",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bogdanor'un itirazı tam bu noktaya düşer: dört güç konferansı ve Lahey tahkimi somut olarak önerildiyse ve somut olarak reddedildiyse, reddi yapan başkentler bi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Almanya'nın 1914'te Viyana'ya serbest el verdiği kendi resmî yayınında yazılıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Avusturya-Macaristan'ın notasının kabul edilmek için yazılmadığı, notanın beşinci ve altıncı maddelerinden ve Sırp cevabının tam da o iki maddede takılmasından ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sırp"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aralık 1912 toplantısının bir karar mı yoksa bir niyet beyanı mı olduğu, doğrudan kanıt bulunmadığı için tartışmalıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Mombauer'in kaydettiği gibi tartışma, savaşın yüzüncü yılında bir kez daha ve büyük bir kamuoyu ilgisiyle açıldı; kapandığını gösteren bir işaret yok.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }
   ]
 }

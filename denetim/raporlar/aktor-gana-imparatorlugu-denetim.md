@@ -1,5 +1,5 @@
 ## aktor-gana-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:05.291Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:31.152Z_
 
 - [ISARET]  k1 → "Gana İmparatorluğu, Batı Afrika'da Sahra'nın güney kıyısında, çöl ticaret yollarının ulaştığı kuşakta kurulmuş…" — özel isim kaynakta bulunamadı: Sahra
 - [OK]      k3 → "Gana İmparatorluğu, Batı Afrika'da Sahra'nın güney kıyısında, çöl ticaret yollarının ulaştığı kuşakta kurulmuş…" — 1 atom doğrulandı; 3 ad ölçülemedi

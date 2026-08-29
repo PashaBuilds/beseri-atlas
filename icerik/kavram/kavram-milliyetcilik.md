@@ -22,6 +22,7 @@ ilgili:
   - kaynak-kanunuesasi-1876
   - kaynak-meiji-anayasasi
   - kaynak-afrika-birligi-sarti
+  - tartisma-osmanli-gerileme-tezi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

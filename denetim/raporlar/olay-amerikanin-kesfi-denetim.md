@@ -1,5 +1,5 @@
 ## olay-amerikanin-kesfi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:47:59.954Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:25.780Z_
 
 - [ATOMSUZ] k1 → "Kolomb değişimi bitkileri, hayvanları, hastalıkları ve kültürü aktardı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Crosby tarafından çevre tarihi kitabında kullanıldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,17 +1,53 @@
 ## tartisma-karsi-olgusal-tarih
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:13.931Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T11:30:28.485Z_
 
-- [ATOMSUZ] k1 → "Kaynak, karşı-olgusal tarihi — sanal tarih adıyla da anılır — karşı-olgusal koşullardan doğan "ya olsaydı?" so…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, erken bir karşı-olgusal tarih kitabı olarak 1931 tarihli If It Had Happened Otherwise'ı verir; kitapta…"
-- [ATOMSUZ] k1 → "Kaynak, aynı kitabın anlatı tonunun kaprise kaçtığını, ne tarihsel çözümleme ne de senaryoların ardındaki mant…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir türün ilk örneğinin kendi kaynağınca bu şekilde nitelenmesi, tür ayrımının neden gerekli görüldüğünü göste…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, Robert Fogel'in Railroads and American Economic Growth: Essays in Econometric History adlı çalışmasınd…"
-- [ATOMSUZ] k1 → "Üç aylık bir farkın bir teknolojinin bütün katkısı olarak sunulabilmesi, atlasın şu kuralının dayanağıdır: bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, 1991'de Cambridge'li toplumbilimci Geoffrey Hawthorn'un Plausible Worlds: Possibility and Understandin…"
-- [ATOMSUZ] k1 → "Altmış yıl arayla iki kitabın aynı hattın kilometre taşları sayılması, tartışmanın süreklilikten çok aralıklı …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Tarihsel bilginin doğası için tutulan kayıt, tarih felsefesi başlığının ilk kez 18 Şubat 2007'de yayımlandığın…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k2 → "Alanın kendi ansiklopedi maddesinde türdeş sayılmaması, soruya tek bir ölçütle cevap verilemeyeceğini gösterir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Alanın kendisi için tutulan kayıt, onu tarihçilerin tarihi akademik bir disiplin olarak geliştirirken kullandı…" — programatik olarak ölçülemedi (ad karşılığı yok): Birleşik, Krallık, İkinci, Dünya
-- [ATOMSUZ] k3 → "Kaynak, akademik tarihin gelişiminin on dokuzuncu yüzyılda büyük bir tarih yazımı külliyatı ürettiğini; tarihç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Alanın başvuru kaydı bunu tarih yazımının bir biçimi diye tanımlar; amacını, olanı anlamak için olmayanı ya da…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Ayrım kolay değildir, çünkü aynı uğraş kendi edebî türünü de doğurmuştur: alternatif tarih, spekülatif tarih, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Karşı-olgusal koşullar üzerine tutulan felsefe kaydı bu bağı açık eder: nedensel iddiaların karşı-olgusal iddi…"
+- [ATOMSUZ] k3 → "Tarih felsefesi için tutulan bir başka kayıt aynı şeyi tarihçinin diliyle söyler: karşı-olgusallar uzun zamand…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Karşı-olgusal tarih kendisini, olumsuzladığı olaya duyduğu ilgiyle ayırır: amaç, olumsuzlanan olayın göreli ta…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Alternatif tarih yazarı ise tersine, olumsuzlanan olaydan doğan varsayımsal olaylar dizisiyle ilgilenir ve çok…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Sınırın bulanıklaştığı da kabul edilir; kayıt, Kim Stanley Robinson'ın romanındaki bir kişinin tarihçilerin ka…"
+- [ATOMSUZ] k1 → "dizisini anar; kitaplar, belirleyici bir anda kaderin küçük bir dönüşünün zamanın kayıtlarını değiştirebileceğ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Öte yanda aynı kayıt akademik kullanımı örnekler: William Thompson, neredeyse bin yıl boyunca küreselleşme sür…"
+- [OK]      k1 → "Kayda göre erken bir karşı-olgusal tarih kitabı 1931 tarihli If It Had Happened Otherwise'dır; kitapta Winston…"
+- [ATOMSUZ] k1 → "Aynı kayıt bu kitabın alternatif tarih parçaları taşıdığını yazar: anlatı tonu kaprise kaçar, ne tarihsel çözü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Robert Fogel'in 1964'te Johns Hopkins Press'ten çıkan, xv + 296 sayfalık Railroads and American Economic Growt…"
+- [OK]      k7 → "Robert Fogel'in 1964'te Johns Hopkins Press'ten çıkan, xv + 296 sayfalık Railroads and American Economic Growt…"
+- [OK]      k5 → "Lance Davis'in değerlendirme yazısına göre kitabın iki tarım bölümü açık bir karşı-olgusal kurar — demiryolu o…"
+- [OK]      k5 → "Aynı değerlendirmeye göre açık karşı-olgusal fikri 1960'ların başında tarihçilerin çoğu için hâlâ yabancı bir …"
+- [OK]      k5 → "Sonuç, tartışmanın en çok anılan sayısıdır: aktarılan hesaba göre 1 Ocak 1890'da ulaşılan kişi başı gelir düze…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Sonuç, tartışmanın en çok anılan sayısıdır: aktarılan hesaba göre 1 Ocak 1890'da ulaşılan kişi başı gelir düze…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Bölgeler arası taşımada demiryolunun sağladığı toplumsal tasarruf, aynı hesaba göre GSMH'nin yüzde birinin alt…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k5 → "Bölge içi taşımada oran daha yüksektir, ama orada da kanal ağının genişletilmesi ve yolların iyileştirilmesi h…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Davis'e göre Fogel, gerçek dünyaya dair varsayım yapması gerektiğinde bulgularının aleyhine çalışan varsayımla…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Kliometri maddesine göre terimi Purdue'lu matematiksel iktisatçı Stanley Reiter türetmiş, ad Eylül 1960'ta mes…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Walt Rostow'un savına göre demiryolunun gelişi sıçramaların en güçlü tek başlatıcısıydı; Fogel'in 1964 tarihli…"
+- [OK]      k6 → "1993'te Douglass North ile Fogel'e verilen Nobel İktisat Ödülü'nün gerekçesinde ikisi, yeni iktisat tarihi ya …"
+- [OK]      k6 → "Alfred Conrad ile John Meyer'in 1958 tarihli çalışması köle sahipliğinin en az başka sermaye kullanımları kada…" — 7 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Alfred Conrad ile John Meyer'in 1958 tarihli çalışması köle sahipliğinin en az başka sermaye kullanımları kada…" — 7 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Kayda göre 1991'de Cambridge'li toplumbilimci Geoffrey Hawthorn'un Plausible Worlds kitabı üç ayrı karşı-olgus…"
+- [OK]      k8 → "Derlemenin 2003 Pan baskısının katalog kaydı kitabın ilk kez 1997'de Picador'dan çıktığını, bu baskının 560 sa…"
+- [OK]      k1 → "Kayda göre Ferguson, Marksizm gibi belirlenimci tarih kuramlarına itirazını göstermek ve tarihte olumsallığın …" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k11 → "Kendi katkısı somuttur: Türkçe yöntem yazınının kaynakçasında Ferguson'ın derlemedeki bölümü, Britanya 1914'te…"
+- [ATOMSUZ] k12 → "sayfalarda çıktı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Tucker'ın itirazı yöntemseldir: çok nedenli karşı-olgusalları reddeder ve her karşı-olgusalın başka her şey sa…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k11 → "Mehtap Söyler'in 2021'de Marmara Üniversitesi Siyasal Bilimler Dergisi'nde yayımlanan makalesi, karşı-olgusal …"
+- [OK]      k11 → "Aynı makalenin kaynakçası ölçüt tartışmasının dayandığı hacmi de gösterir: Philip Tetlock ile Belkin'in derled…"
+- [OK]      k11 → "Çernobil kazası olmasaydı Soğuk Savaş sona erer miydi sorusunu, gerek-şart hipotezlerini sınamak üzere kurulmu…"
+- [OK]      k4 → "Max Weber üzerine tutulan kayda göre karşı-olgusal çözümleme nedensel atfetme sürecini istikrara kavuşturmaya …"
+- [OK]      k4 → "Aynı kaydın kaynakçasında Weber'in 1906 tarihli, Eduard Meyer'in yöntem görüşlerine yönelttiği eleştiri yer al…"
+- [OK]      k11 → "Kültür bilimlerinin mantığı üzerine yazılmış aynı 1906 metni Söyler'in kaynakçasında da künyelenir; ölçüt tart…"
+- [OK]      k1 → "Kayda göre Evans 2014 tarihli Altered Pasts: Counterfactuals in History kitabında kavramın sistematik bir eleş…"
+- [ATOMSUZ] k9 → "Kitabın katalog kaydındaki konu başlıkları bu okumayı destekler görünüyor: tarih yazımının siyasi yönleri ile …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Katalog kaydının tanıtımına göre kitap, Britanya Birinci Dünya Savaşı'na girmeyip tarafsız kalsaydı, 1940 ya d…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Buna karşılık aynı kayıt, karşı-olgusalların açıklama sınamakta işlevi olduğunu savunan konumu da aktarır; Chr…"
+- [OK]      k3 → "Tarih felsefesi kaydına göre tarihsel olayların yinelenemezliği, geleneksel karşı-olgusal önermeleri ilginç bi…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k3 → "kitabı hem tarih felsefesi kaydının hem de Türkçe yöntem yazınının kaynakçasında yer alır." — programatik olarak ölçülemedi (ad karşılığı yok): Türkçe
+- [OK]      k11 → "kitabı hem tarih felsefesi kaydının hem de Türkçe yöntem yazınının kaynakçasında yer alır."
+- [OK]      k3 → "Kayda göre Carr, Ranke'nin görgül nesnellik umudunu saf gerçekçilik diye niteleyenler arasında anılır; karşı-o…"
+- [OK]      k10 → "Kitabın katalog kaydı yalnızca şunu verir: 1892–1982 arasında yaşamış bir yazarın, ilk kez 1961'de yayımlanmış…"
+- [ATOMSUZ] k5 → "Bir karşı-olgusal senaryonun hangi noktada durdurulacağı — zincirin nereye kadar izleneceği — ölçüte bağlanmış…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Nedensellik cümlesinin karşı-olgusal içerdiği çözümlemesi de felsefede kapanmış değildir: kayda göre yalın kar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 4 OK · 0 ISARET · 0 HATA · 8 ATOMSUZ
+**Özet:** 34 OK · 0 ISARET · 0 HATA · 14 ATOMSUZ

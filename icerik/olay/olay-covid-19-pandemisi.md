@@ -215,7 +215,7 @@ dair açık bir yöntem tartışmasıdır.]{harita=tartisma-tarihsel-sayilar-nas
 
 Bilançonun tek sayıya indirilemeyişi bu salgına özgü değildir; sayıların
 nasıl okunacağı
-[Tarihsel bilanço sayıları nasıl okunmalı?](/tartisma/tarihsel-sayilar-nasil-okunur/)
+[Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
 haritasında, tarihsel benzerleri [Justinyen Vebası](/olay/justinyen-vebasi/)
 ile [Kara Ölüm](/olay/kara-olum/) dosyalarında ele alınıyor.
 

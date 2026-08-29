@@ -1,5 +1,5 @@
 ## kavram-aletsiz-seyrusefer
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:10.100Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:35.980Z_
 
 - [ATOMSUZ] k1 → "Aletsiz seyrüsefer, pusula, kronometre ve deniz haritası kullanmadan açık okyanusta yön bulma ve hedefe varma …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Sistem birden çok gösterge kullanır ve hiçbirine tek başına güvenmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -25,6 +25,7 @@ ilgili:
   - dusunur-keynes
   - kaynak-keynes-genel-teori
   - veri-ticaret-payi
+  - tartisma-1929-krizinin-nedeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

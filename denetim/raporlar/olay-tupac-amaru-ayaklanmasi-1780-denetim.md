@@ -1,5 +1,5 @@
 ## olay-tupac-amaru-ayaklanmasi-1780
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:03.401Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:29.265Z_
 
 - [OK]      k1 → "1780 sonbaharında And dağlarının güney kesiminde bir ayaklanma başladı."
 - [ATOMSUZ] k2 → "Katılım, sömürge dönemindeki benzer hareketlerin çok üzerindeydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## veri-tarim-istihdami
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:16.258Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:42.216Z_
 
 - [OK]      k1 → "Seri 1991'de yüzde 42,822468 ile başlar ve 2025'te yüzde 25,763578 ile biter."
 - [OK]      k1 → "Veri kümesinde dünya toplamı için 1991'den önce gözlem bulunmaz."

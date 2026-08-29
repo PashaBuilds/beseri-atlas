@@ -1,0 +1,457 @@
+{
+ "id": "tartisma-tarihsel-sayilar-nasil-okunur",
+ "govde_hash": "af5656af70d5",
+ "commit": "7549ec6",
+ "zaman": "2026-08-29",
+ "hakem": "kor-hakem-2026-08-29",
+ "iddialar": [
+  {
+   "iddia_id": "i001",
+   "cumle": "Herodotos, Xerxes'in Yunanistan üzerine yürüyen ordusunun nasıl sayıldığını da anlatır: on bin adam bir yere toplanmış, olabildiğince sıkıştırılmış, çevrelerine bir çizgi çekilmiş, çizginin üzerine bir insanın göbek hizasına varan taş duvar örülmüş, sonra çember boşaltılıp yeniden doldurularak bütün kara ordusu bu usulle numaralanmıştır; sayımın verdiği toplam 1.700.000'dir.",
+   "onem": "merkezi",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i002",
+   "cumle": "Aynı kitabın ilerleyen bölümünde donanmayla gelenler ve orduyu izleyen hizmetliler de eklenir; Sepias burnu ile Thermopylai'ye kadar götürülen insan sayısı 5.283.220 olarak yazılır.",
+   "onem": "merkezi",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i003",
+   "cumle": "Bury kara kuvvetlerini 180.000 dolayında görür, Munro ile Macan kabaca 300.000'e varır, kimi hesap 100.000'in altına iner, yüksek rakamları savunan hat ise 250.000 ile 700.000 arasında değerler önerir.",
+   "onem": "merkezi",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i004",
+   "cumle": "Herodotos'un anlattığı sayım usulü, antik bir rakamın nasıl kurulduğunu gösterdiği kadar neyi göstermediğini de belli eder: yöntem tarif edilir, ama sayımın kaydı, sayanların kim olduğu ve toplamın hangi elden geçtiği metinde yer almaz.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Kaynak sayim usulunu anlatir; sayim kaydinin bulunmadigi tespiti metnin sessizliginden cikarilmistir, kaynakta boyle bir cumle yoktur."
+  },
+  {
+   "iddia_id": "i005",
+   "cumle": "Aynı sefer için çağdaş sayılan başka rakamlar da dolaşımdadır: şair Simonides dört milyondan söz eder, Ktesias ise Doriskos'ta toplanan ordunun toplamını 800.000 olarak verir.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i006",
+   "cumle": "Kara ordusu toplamı yuvarlak bir rakamdır; buna karşılık genel toplam, hizmetliler savaşanlarla eşit sayılarak 5.283.220 gibi son basamağına kadar yazılmış bir sayıya dönüşür.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i007",
+   "cumle": "On dördüncü yüzyılın veba yıllarında bir vakanüvis anlatısını, sağ kalan biri çıkarsa sürdürsün diye boş sayfalarla kapatır; bir başkası Londra'da yalnızca on dört kişinin kurtulduğunu yazar.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i008",
+   "cumle": "İktisat tarihi ansiklopedisinin değerlendirmesi açıktır: ortaçağ yazımı anlatının dramatik gücünü sayısal doğruluğa yeğlediği ölçüde, bu rakamlar demografik bilançonun ölçüsü değil, salgının zihinlerde açtığı yaranın kanıtı sayılır.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i009",
+   "cumle": "George Grote, Herodotos'un toplamını ikmal sorunu gerekçesiyle kabul edilemez bulur ama anlatıyı bütünüyle reddetmez: aynı kaynağın Perslerin titiz sayım usullerini ve üç yıllık ikmal yığınaklarını da aktardığını not eder ve asıl ağırlığı antik kayıtlar arasındaki çelişkilere verir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i010",
+   "cumle": "Bury aynı rakamları büsbütün masalsı sayar.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i011",
+   "cumle": "Sir Frederick Maurice sorunu bir su meselesi olarak kurar: bölgedeki nehirlerin en fazla 200.000 insanı ve 70.000 hayvanı besleyebileceğini hesaplar, Herodotos'un bin kişilik ve on bin kişilik birlik adlarını karıştırmış olabileceğini ve rakamın böylece on kat büyümüş olabileceğini savunur.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i012",
+   "cumle": "Herodotos'un toplamını 5.100.000 olarak aktarır ve şunu hesaplar: dağlar arasındaki çoğu kez dar yollardan ilerleyen böyle bir kolonun son adamları, ilk adamlar Thermopylai önüne vardığında ancak Dicle'nin ötesindeki Susa'dan çıkmış olabilirdi.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i013",
+   "cumle": "Ölçüt artık metindeki rakam değil, arazinin izin verdiği yürüyüştür: Maraton ovasının bir Prusya tugayının talimine bile zor yeteceğini aktarır, Thermopylai ile Atina arasındaki yürüyüşlerin ancak yirmi ile yirmi beş bin kişilik bir orduya uyduğunu savunur ve bir benzetme kurar — İsviçreliler de Cesur Charles'ın kat kat üstünlüğünü anlatmıştır, oysa belgeler üstünlüğün İsviçrelilerde olduğunu gösterir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i014",
+   "cumle": "Aynı metinden yola çıkan Munro ile Macan, Herodotos'un saydığı yirmi dokuz on binlik birlik komutanını esas alır ve buradan kabaca 300.000 kişilik bir kara ordusuna varır.",
+   "onem": "merkezi",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i015",
+   "cumle": "İktisat tarihi ansiklopedisi, ortaçağ Avrupası için bu işlemin adımlarını sıralar: sayım kaydı seyrek olduğundan tahminler toprak piyasasındaki hareketlilik, kira ve ücret düzeyleri, köylü tutamlarının büyüklüğü gibi dolaylı göstergelere ya da boşalan kiliselere yeni papaz atanması gibi nüfusun bir kesimini kapsayan kayıtlara dayanır.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i016",
+   "cumle": "Ordunun büyüklüğünü yol ve ikmal kapasitesinden çıkarmak, nüfusu boşalan görevlerin sayısından çıkarmak ve kaybı ücret ile kira hareketinden çıkarmak aynı mantığı paylaşır: doğrudan sayılamayan büyüklük, onunla birlikte değiştiği varsayılan bir göstergeye bağlanır.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "kismi"
+    },
+    {
+     "anahtar": "k5",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "k4 dar dag yollari ve ikmal kapasitesinden, k5 dolayli gostergelerden geri-hesabi gosterir; bunlari tek bir yontem ailesi olarak toplayan formulasyon bu haritanindir. Su kapasitesi hesabi k1'de (Maurice) durur ve metnin oncesinde ayrica k1 ile verilir."
+  },
+  {
+   "iddia_id": "i017",
+   "cumle": "Sayım benzeri kayıtlar bile kapsam sorununu çözmez: Domesday Book (1086) ve Poll Tax kaydı (1377) ya yalnızca hane reislerini sayar, ya nüfusun bir bölümünü dışarıda bırakır, ya da bazı bölgeleri hiç kapsamaz.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i018",
+   "cumle": "Açığı kapatmak için araştırmacı bir dizi tartışmalı varsayıma başvurur: ortaçağ hanesinin büyüklüğü, elde bulunan grubun bütünü temsil edip etmediği, kaydı olmayan bir bölgedeki yerleşim yoğunluğu ve vergi kaçırmanın düzeyi.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i019",
+   "cumle": "Colin McEvedy ile Richard Jones'un 1978'de yayımlanan dünya nüfus tarihi atlası, dağınık tahminleri bölge bölge kesintisiz eğrilere bağlayan derlemelerin klasik örneğidir.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k8",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Katalog kaydi yazar, baslik ve 1978 yilini dogrudan verir; kitabin bolge bolge kesintisiz egri kurdugu nitelemesi katalog kaydindan degil eserin bilinen bicimlenmesinden gelir."
+  },
+  {
+   "iddia_id": "i020",
+   "cumle": "Bugünün karşılığı bir veri tabanıdır: yaygın kullanılan uzun seri, 1800 öncesi için HYDE 3.3 veri tabanına, 1800 ile 1949 arası için Gapminder derlemesine, 1950 sonrası için Birleşmiş Milletler'in beklentilerine dayanır; HYDE değerleri 1800 ile 1950 arasında yalnızca onar yıllık adımlarla bulunduğundan o aralıkta Gapminder tercih edilir.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i021",
+   "cumle": "Aynı derlemenin geleceğe bakan ucunda da bir aralık nokta değere indirilir: Birleşmiş Milletler düşük, orta ve yüksek doğurganlık senaryolarına göre birden çok projeksiyon yayımlar, uzun seri ise bunlardan orta varyantı kullanır.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i022",
+   "cumle": "Kara Ölüm'ün 1347 ile 1353 arasındaki dalgası için İngiltere'ye dair ulusal tahminler yüzde 5 ile yüzde 60'ın üzerinde bir bant içinde dağılır; kraldan toprak tutan soylularda oran yüzde 23,6, ruhban sınıfında yüzde 40 ila 45 olarak verilir.",
+   "onem": "merkezi",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i023",
+   "cumle": "Aynı manastıra bağlı iki malikânede ölçülen oranlar ise yüzde yirmi bir ile yüzde yetmiş-seksen arasındadır.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i024",
+   "cumle": "Bu dağılımın karşısında ansiklopedi maddesi yöntemsel bir tercih ilan eder: eldeki tahminlerin gelişigüzel ortalamasını almak da ölüm oranını çekingen biçimde üçte bir ile üçte iki arasına yerleştirmek de aydınlatıcı bulunmaz.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i025",
+   "cumle": "Bir zamanlar üçte bir makul toplu oran sayılırken, 1970'lerin başından bu yana Avrupa için yarı düzeyinde bir kaybın savunulabilir olduğu değerlendirilir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i026",
+   "cumle": "Dünya Sağlık Örgütü, 2020 ve 2021 için salgınla ilişkili aşırı ölümü 14,9 milyon olarak açıklarken aynı cümlede 13,3 ile 16,6 milyonluk bandı da verdi; aşırı ölüm, gerçekleşen ölüm sayısı ile beklenen ölüm sayısı arasındaki fark olarak tanımlanır.",
+   "onem": "merkezi",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i027",
+   "cumle": "Silahlı çatışma ölümlerini sağlayan uç noktanın serisi 1989'da başlar ve her yıl için yüksek, merkezî ve düşük olmak üzere üç ayrı ölüm sütunu döndürür.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k11",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i028",
+   "cumle": "David Henige'nin 1998'de yayımlanan kitabı bu tartışmayı konu edinir ve adını, hiçbir yerden gelen sayılar anlamına gelen bir ifadeyle koyar.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k9",
+     "destek": "dogrudan"
+    },
+    {
+     "anahtar": "k10",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "k9 odunc-kisitli bir arsiv kaydidir (Access-restricted-item true); yalnizca kunye duzeyindeki yazar/baslik/yil iddiasini tasir, kitabin icerigine dair hicbir sey soylenmemistir. k10 (Crossref) ayni basligi ve 1998 yilini bagimsiz olarak dogrular ama yazar alani bostur; yazar iddiasinin dayanagi k9'dur."
+  },
+  {
+   "iddia_id": "i029",
+   "cumle": "Grote'dan Munro ile Macan'a uzanan itiraz hattı iki yüzyıldır sürüyor ve bugün önerilen değerler hâlâ 100.000'in altı ile 700.000 arasında dağılıyor.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Rakam bandi ve adlar kaynakta dogrudan var; itirazin iki yuzyildir surdugu ifadesi, kaynakta anilan tarihcilerin donemlerinden cikarilmistir."
+  },
+  {
+   "iddia_id": "i030",
+   "cumle": "Kara Ölüm için kıta ölçeğinde bir toplam da karara bağlanmış değil: yerel düzeyde güvenilir sayılan oranlara göre bant dörtte bir ile dörtte üç arasında uzanır ve tek bir kıta rakamı bu banttan türetilemez.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  },
+  {
+   "iddia_id": "i031",
+   "cumle": "Modern sayılar da sorunun dışında değil: 2020 ve 2021 için yayımlanan aşırı ölüm tahmini, nokta değeriyle değil alt ve üst sınırıyla birlikte duyuruldu.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": ""
+  }
+ ],
+ "sayaclar": {
+  "dogrudan": 27,
+  "kismi": 4,
+  "desteksiz": 0,
+  "olculemez": 0
+ }
+}

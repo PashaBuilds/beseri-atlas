@@ -1,5 +1,5 @@
 ## olay-1973-petrol-krizi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:47:59.654Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:25.473Z_
 
 - [OK]      k1 → "Ekim 1973'te Arap Petrol İhraç Eden Ülkeler Örgütü (OAPEC), 1973 Yom Kippur Savaşı sırasında herhangi bir nokt…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Ambargonun gerekçesi olan savaş, Mısır ve Suriye'nin 1967 Altı Gün Savaşı sırasında İsrail'e kaptırdıkları top…" — 3 atom doğrulandı; 2 ad ölçülemedi

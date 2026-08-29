@@ -1,5 +1,5 @@
 ## olay-viyana-kongresi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:03.611Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:29.473Z_
 
 - [OK]      k1 → "Viyana Kongresi düzenlemesi, siyasi sınırların korunmasını, güç dengesini ve nüfuz alanlarına saygıyı vurgulay…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Büyük güçler daha önce Fransa'ya karşı savaşan uluslar birliği olan Altıncı Koalisyon'un çekirdeğini oluşturmu…" — 4 atom doğrulandı; 2 ad ölçülemedi

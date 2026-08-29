@@ -1,5 +1,5 @@
 ## aktor-tang-hanedani
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:08.058Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:33.897Z_
 
 - [OK]      k1 → "Tang, 618 ile 907 arasında hüküm süren Çin imparatorluk hanedanıdır." — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Hanedanın başkenti 618–690 ve 705–904 arasında Chang'an, 904–907 arasında Luoyang olmuştur."

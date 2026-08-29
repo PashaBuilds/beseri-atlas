@@ -1,5 +1,5 @@
 ## kaynak-magna-carta
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:17.409Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:43.397Z_
 
 - [OK]      k1 → "Magna Carta, 1215'te bir kral ile ona karşı ayaklanan baronlar arasında yapılan bir uzlaşmanın metnidir."
 - [ATOMSUZ] k1 → "Maddelerin büyük bölümü feodal yükümlülükleri düzenler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

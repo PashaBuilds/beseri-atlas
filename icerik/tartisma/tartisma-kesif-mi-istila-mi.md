@@ -38,6 +38,8 @@ ilgili:
   - kaynak-tordesillas-antlasmasi
   - kaynak-cook-guney-seyir-defteri
   - dusunur-las-casas
+  - tartisma-hacli-seferlerinin-nedeni
+  - tartisma-tarihsel-sayilar-nasil-okunur
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

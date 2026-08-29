@@ -1,75 +1,189 @@
 {
   "id": "tartisma-tunc-cagi-cokusunun-nedeni",
   "gecis": 2,
-  "zaman": "2026-08-29T04:48:14.994Z",
-  "govde_hash": "30ea55d59939",
-  "commit": "58a10ea",
+  "zaman": "2026-08-29T13:57:41.964Z",
+  "govde_hash": "199a37bcfbd2",
+  "commit": "7549ec6",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "yüzyıldan beri öne sürülmektedir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, öne sürülen etkenleri tek bir listede toplar: iklim değişikliği, volkanik patlamalar, kuraklıklar, hastalık, Deniz Kavimleri'nin istilaları ve demir işç",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Deniz, Kavimleri"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kuramların çoğu ayrıca şehir ve kasabaların şiddetli biçimde yıkılmasını içerir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Enkomi'de kazılan yapılarda yanma kanıtı sınırlıydı ve odaların çoğunda herhangi bir hasar yoktu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Sinda'da yalnızca bir miktar kül bulunmuş, yıkılmış duvar ya da yanmış moloz gibi başka bir yıkım kanıtına rastlanmamıştır; şehrin tahrip edilip edilmediği açık",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Buna karşılık dönem metinleri dışarıdan gelen saldırıları kaydeder: MÖ 1200 dolaylarına tarihlenen Merneptah Steli, bugünkü Libya'dan gelen Putrialılardan ve on",
+      "anahtar": "k4",
+      "iddia": "Yayıncı tanıtımına göre Cline'ın 2014 tarihli kitabının çıkış noktası bile bir olumsuzdur: Deniz Kavimleri MÖ 1177'de Mısır'a saldıran gruplar olarak kayda geçm",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Çöküşün coğrafyası tek bir devletin sınırlarını aşar: bölgesel çerçeveler Anadolu, Elam, Levant, Mezopotamya, Sistan ve Kenan'ı aynı kırılmanın kapsamına yerleş",
+      "anahtar": "k9",
+      "iddia": "cildinde, 99–149 sayfaları arasında yayımladığı geniş inceleme, tartışmayı \"Crisis in Context\" başlığıyla yeniden açar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yazıtın kuzey savaşı bölümü, Breasted'ın çevirisinde kuzeydeki ülkelerin adalarında kımıldandığını, Kheta'dan Kode'ye, Karkamış'tan Arvad ve Alaşiya'ya kadar ül",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Breasted, 1906'da yayımladığı derlemenin kendi yorumunda olup bitenin basit bir akın değil bir Kavimler Göçü olduğunu ileri sürer; kadınları, çocukları ve öküz ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı ciltte Breasted, Peleset'in sonradan İncil'deki Filistinlilere dönüşen topluluk olabileceğini, Thekel'in Sicilya'nın Sikeli'si, Denyen'in ise Danaoi ile il",
       "durum": "OK",
       "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl ortasında toprak ve iktisadi güç bakımından geriledi ama yıkılmadı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Demir işçiliğinin bir bozulma nedeni olarak listede yer alması, tartışmanın en az sezgisel ama en yapısal kanadıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Yerinden olmuş toplulukların bir sebep mi yoksa bir sonuç mu olduğu yazıttan okunamaz; yazıt yalnızca Peleset ile Denyen'in geldiğini ve püskürtüldüğünü söyler.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Tunç, bakır ile kalayın birleşimidir ve bu iki madenin yatakları nadiren aynı yerdedir; dönemin teknoloji listesi arsenikli tuncu, yazıyı, kılıcı ve savaş araba",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Yerinden olmuş toplulukların bir sebep mi yoksa bir sonuç mu olduğu yazıttan okunamaz; yazıt yalnızca Peleset ile Denyen'in geldiğini ve püskürtüldüğünü söyler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Şuppiluliuma'nın çağdaşıydı; Ammurapi'nin saltanatına ait kesin tarihler ise bilinmiyor.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ammurapi'nin Alaşiya kralına yazdığı RS 18.147 numaralı mektup, düşman gemilerinin geldiğini, kentlerinin yakıldığını, askerlerinin ve savaş arabalarının Hatti ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kıbrıs'taki üst düzey yönetici Eshuwara'nın RS 20.18 numaralı cevabı, saldırıyı yapanların Ugarit'in kendi halkı ve kendi gemileri olduğunu söyler; Karkamış'tan",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İç çözülme ile dış saldırı arasındaki ayrım, kaynakların kendi düzeyinde bile bulanıktır; yayıncı tanıtımına göre Cline'ın çizdiği dizi de istiladan isyana, dep",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İç çözülme ile dış saldırı arasındaki ayrım, kaynakların kendi düzeyinde bile bulanıktır; yayıncı tanıtımına göre Cline'ın çizdiği dizi de istiladan isyana, dep",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bölümün başlığı savı özetler: \"Systems Collapse as Social Transformation\" — çöküş, erken devlet toplumlarında bir yıkım anı olarak değil bir dönüşüm biçimi olar",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Saray düzeninin çözülmesi yazının, merkezî depolamanın ve uzun mesafeli ticaretin birlikte gerilemesi demekti; aynı çözülmenin ardından Fenikeliler özerklikleri",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli nüfus serisi bu aralıkta bin yıllık çözünürlüktedir; MÖ 1000 için verilen değer yaklaşık 110,5 milyondur.",
+      "iddia": "başlıklı kitabı aynı çerçeveyi geniş bir okur kitlesine taşır; MÖ 1177'yi bir olay tarihi olarak değil bir kırılmanın etiketi olarak kullanır.",
       "durum": "OK",
       "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Yayıncı tanıtımına göre Cline'ın savı, çöküşün istiladan isyana, depremden kuraklığa uzanan çok sayıda bağlantılı başarısızlıktan doğduğudur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Drews, 1993 tarihli kitabında depremi, göçü, demir işçiliğini, kuraklığı, sistem çöküşünü ve akıncıları ayrı ayrı ele alıp yetersiz bulur; yayıncı tanıtımına gö",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kaniewski ve ekibinin 2013'te yayımladığı çalışma, Kıbrıs'tan alınan paleoiklim verisini radyokarbon temelli bir kronolojiyle birleştirir ve yaklaşık 3200 yıl ö",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Levant ile Anadolu'da düzenler dağılırken Mezopotamya'daki Orta Asur Devleti ve Mısır'ın Yeni Krallığı zayıflamış hâlde varlığını sürdürdü.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Amos Nur ile Eric Cline'ın Journal of Archaeological Science'ın 2000 yılındaki cildinde yayımladığı çalışma, Ege ve Doğu Akdeniz için levha hareketlerine dayana",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bu kolun sınırı da kanıt katmanındadır; yıkılmış bir duvarın hangi kuvvetle yıkıldığı çoğu kazıda ayırt edilemez ve Drews depremleri de listeden düşürenler aras",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Demir işçiliğinin Levant ve Ege'de artmasından doğan iktisadi bozulmalar, çöküşün olası etkenleri arasında düzenli olarak sayılır; aynı listede savaş arabası dü",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Demir işçiliğinin Levant ve Ege'de artmasından doğan iktisadi bozulmalar, çöküşün olası etkenleri arasında düzenli olarak sayılır; aynı listede savaş arabası dü",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kitabın 1993 tarihli içindekiler dizisi savaş arabası düzenini, aynı dönemin yaya askerlerini, Erken Demir Çağı'nın piyade ve atlı birliklerini, zırh ile silahl",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Tartışma da kapanmadı: aynı yazar 2020'de Collapse and Transformation derlemesinde \"Catastrophe revisited\" başlığıyla savına geri döndü.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Schachner'in 2024'te Anatolian Studies'te yayımladığı inceleme, son otuz yılda biriken bilimsel tarihleme ile Hattuşa'nın topografik olarak dağınık kesimlerini ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Aynı inceleme, Schachner'in kurduğu tarihleme dizisine göre kentin ders kitaplarına giren genel planının modern araştırmanın ürettiği bir idealleştirme olduğunu",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yirminci yüzyıl sonu ile yirmi birinci yüzyıl başındaki araştırma, çöküşün ölçeğinin ve kapsamının sanıldığından sınırlı olduğu görüşlerini getirdi; Drews'ın yı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Uzun dönemli seride dünya nüfusu MÖ 1000 için yaklaşık 110,5 milyon verilir ve seri bu aralıkta bin yıllık adımlarla ilerler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Tartışmanın kapanmamasının sebebi kanıt yokluğu değil, kanıt türlerinin birbirine çevrilememesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }
   ]
 }

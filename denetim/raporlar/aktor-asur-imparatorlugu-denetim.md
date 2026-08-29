@@ -1,5 +1,5 @@
 ## aktor-asur-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:04.142Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:30.003Z_
 
 - [OK]      k1 → "Yeni Asur İmparatorluğu MÖ 670'te yaklaşık 1.400.000 kilometrekare alan kaplıyordu." — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "yüzyılın sonlarında kaybedilmişti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

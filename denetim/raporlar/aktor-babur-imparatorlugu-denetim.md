@@ -1,5 +1,5 @@
 ## aktor-babur-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:04.371Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:30.233Z_
 
 - [OK]      k1 → "Bâbürlüler, 1526-1858 yılları arasında Hindistan'da hüküm süren bir Türk devletidir."
 - [OK]      k1 → "Hanedanın kurucusu ve ilk hükümdarı Çağatay Türkleri'nden Bâbür'dür; Bâbür Şah 1526'da Pânîpet Meydan Savaşı'n…"

@@ -1,5 +1,5 @@
 ## tartisma-eksen-cagi-gercek-mi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:00:16.733Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:39.217Z_
 
 - [OK]      k1 → "Karl Jaspers, 1949'da yayımlanan Vom Ursprung und Ziel der Geschichte kitabıyla MÖ 800-200 arasındaki yüzyılla…"
 - [ATOMSUZ] k1 → "Kavramı aktaran kaynak, tezin bugünkü durumunu da tek cümleyle verir: Eksen Çağı'nın tarihsel geçerliliği tart…" — programatik olarak ölçülemedi (ad karşılığı yok): Eksen, Çağı

@@ -1,5 +1,5 @@
 ## olay-nufus-patlamasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:02.646Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:28.495Z_
 
 - [OK]      k1 → "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır."
 - [ATOMSUZ] k1 → "İki ölçüm noktası arasındaki fark, atlasın kullandığı serideki en dik artıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

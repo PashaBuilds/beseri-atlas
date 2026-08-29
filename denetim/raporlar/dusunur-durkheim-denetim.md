@@ -1,5 +1,5 @@
 ## dusunur-durkheim
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:08.714Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:34.573Z_
 
 - [ATOMSUZ] k1 → "Kaynak, onun toplumbilimin meşru bir bilim olarak kabul edilmesiyle meşgul olduğunu yazar ve toplumbilimi onun…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak, onun bilimsel meşruiyet kaygısını ayrıca kaydeder ve Auguste Comte'un ortaya koyduğu olguculuğu incelt…"

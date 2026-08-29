@@ -1,5 +1,5 @@
 ## tartisma-tarim-devrimi-neden
-_Geçiş 2 — kaynak denetimi · 2026-08-29T08:59:28.089Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T10:49:45.599Z_
 
 - [OK]      k1 → "İnsan toplulukları Neolitik dönemde, Afro-Avrasya'nın birçok bölgesinde avcılık ve toplayıcılıktan tarıma ve y…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kuramları sayan kaynak bunları birbirini dışlamayan öneriler olarak sunar ve bu çerçeve sorunun kendisini deği…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

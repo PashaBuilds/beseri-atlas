@@ -1,25 +1,70 @@
 ## tartisma-1914-savas-sorumlulugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:12.744Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T13:53:01.432Z_
 
-- [OK]      k2 → "maddesi, İtilaf ve ortak hükümetlerin, savaşın Almanya ve müttefiklerinin saldırganlığıyla kendilerine dayatıl…" — 1 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "1920'lerde Almanya'nın sorumlu olduğunu savunan az sayıda Alman tarihçiden biri olan Hermann Kantorowicz, Dışi…" — 4 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "Holger Herwig, Fritz Fischer'in kitabından önce Almanya'da savaşın kökenleri üzerine yayımlanan çalışmaların b…"
-- [OK]      k3 → "Alman Beyaz Kitabı, Alman hükümetinin Avusturya-Macaristan'a, Monarşi'nin varlığına yönelik hareketi sona erdi…" — 1 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k4 → "Britanya derlemesi ise aynı günleri Londra'nın yazışmalarından kurar ve Kont Berchtold'un 24 Temmuz'da notayı …" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k4 → "Derlemelerin anlatıyı nerede bitirdiği bile seçimlidir: Sırp belge kitabı 28 Temmuz'daki Avusturya-Macaristan–…" — programatik olarak ölçülemedi (ad karşılığı yok): Sırp, Temmuz, Alman, Avusturya
-- [ATOMSUZ] k1 → "Savaş sonrasının ilk yıllarında İngilizce dünyada üretilen akademik çalışmalar katılımcıları aşağı yukarı eşit…" — programatik olarak ölçülemedi (ad karşılığı yok): İngilizce
-- [OK]      k1 → "İki savaş arası dönemde gizli ittifak ağı, saldırının hızına yapılan vurgu, katı askerî planlama, Darwinci düş…"
-- [OK]      k1 → "Alman tarihçi Fritz Fischer Griff nach der Weltmacht adlı tartışmalı kitabını yayımladı ve tartışmanın merkezi…"
-- [OK]      k1 → "Fischer'e karşı çıkanlar ile onu izleyenler arasındaki ayrım, bugün de sürüyor: bazı tarihçiler Almanya'nın bi…"
-- [OK]      k1 → "İkinci grubun içindeki temel ayrım ise, büyük güçler arasındaki savaşın planlanmamış ama esas olarak Almanya i…"
-- [OK]      k1 → "2013'te Christopher Clark'ın The Sleepwalkers adlı kitabı kökenleri yeniden Balkanlar'a odakladı ve fail olma …"
-- [OK]      k1 → "Clark'a göre Germen güçleri Sırbistan'ı cezalandırmak için yerelleşmiş bir savaş aradı, ancak bunu yaparken Ru…" — 4 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "Ruslar çatışmanın Lahey'deki tahkim mahkemesine götürülmesini önerdi, bu öneri Almanya ve Avusturya-Macaristan…"
-- [OK]      k1 → "Holger Herwig'in değerlendirmesine göre Berchtold Temmuz boyunca Berlin ile bilgi paylaşmakta isteksizdi; çünk…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "Herwig'in formülasyonunda Viyana önce savaşa karar verdi, sonra Alman güvencelerini aradı ve bunları aldıktan …" — 1 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "de esas sorumluluğu, Sırbistan üzerinde üstünlük kurmak için savaşı seçen Avusturya-Macaristan seçkinlerine yü…"
-- [OK]      k1 → "James Joll, Avrupa seçkinlerinin altta yatan inanç ve zihniyetlerini — kültürel kadercilik, militarizm ve orta…"
-- [OK]      k1 → "Lebow ile Thomas Lindemann, savaşın kısmen Sosyal Darwinci fikirler nedeniyle çıktığını savunur: Avusturyalıla…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "The Hundred-Year Debate on the Origins of World War I"."
+- [OK]      k2 → "Kavga akademik bir merakla başlamadı: 1919'da imzalanan barış antlaşması, savaşın sorumluluğunu bir hukuk madd…"
+- [ATOMSUZ] k3 → "Aynı antlaşmanın ceza bölümü sorumluluğu bir kişiye de yükledi ve eski Alman imparatorunu yargılamak için özel…" — programatik olarak ölçülemedi (ad karşılığı yok): Alman
+- [OK]      k9 → "Annika Mombauer bu yüz yıllık kavgayı doğrudan konu edinen makalesine bu ayrımı başlık yapmıştır: suç mu, soru…"
+- [ATOMSUZ] k9 → "Savaşın yüzüncü yılında piyasanın kökenleri açıklamaya çalışan yayınlarla dolması ve kamuoyu ilgisinin beklene…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Metin, İtilaf ve ortak hükümetlerin, Almanya ve müttefiklerinin saldırganlığıyla kendilerine dayatılan savaşta…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Buna karşılık savaştan hemen sonra İtilaf tarihçileri savaşın başlamasından yalnızca Almanya'nın sorumlu olduğ…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "madde ise Almanya'nın kaynaklarının tam tazmine yetmediğini açıkça kabul eder ve yükümlülüğü sivil halka ve mü…"
+- [ATOMSUZ] k3 → "Wilhelm'i uluslararası ahlaka ve antlaşmaların dokunulmazlığına karşı ağır bir suçtan alenen itham eder; beş b…" — programatik olarak ölçülemedi (ad karşılığı yok): Hollanda
+- [ATOMSUZ] k3 → "madde de savaş hukukunu ihlal etmekle suçlanan kişilerin askerî mahkemelere çıkarılmasını düzenler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Almanya'nın sorumlu olduğunu savunan az sayıdaki Alman tarihçiden biri olan Hermann Kantorowicz, Dışişleri Bak…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Holger Herwig, Fritz Fischer'in kitabından önce Almanya'da bu konuda yayımlananların büyük bölümünü sözde-tari…"
+- [OK]      k1 → "İngilizce dünyada 1920'lerin sonunda ve 1930'larda üretilen akademik çalışmalar ise katılımcıları aşağı yukarı…"
+- [ATOMSUZ] k1 → "maddenin ahlaki geçersizliğini göstererek tazminatları sona erdirmekti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Alman Dışişleri Bakanlığı bu çabalara arşivlerini cömertçe açtı, Barnes'a araştırma fonu sağladı; hükümet Fay'…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Aynı hükümet, Alman eylemlerini eleştiren çalışmaların Almanya'da yayımlanmasına izin vermedi." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "1928 tarihli önsözünde, savaş sırasında Almanya'yı ve Kayzer'i suçlayan koroya katılmayı reddettiğini, çünkü t…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Aynı önsöz, Fransa'daki Poincaré karşıtı revizyonistlerde sarkacın öbür uca savrulma tehlikesini kaydeder ve y…"
+- [OK]      k1 → "Alman tarihçi Fritz Fischer 1961'de tartışmalı kitabı Griff nach der Weltmacht'ı yayımladı."
+- [OK]      k7 → "Kitabın alt başlığı, imparatorluk Almanyası'nın 1914–1918 savaş hedefleri siyasetini adlandırır." — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Fischer'in ileri sürdüğüne göre Alman hükümetinin 1912 seçimlerindeki Sosyal Demokrat kazanımlarının ardından …" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k1 → "Kendisinden önceki tarihçiler yalnızca ağır biçimde ayıklanmış arşivlere ulaşabilmişti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Fischer'in dayanaklarından biri, Bethmann Hollweg'in savaş hedeflerini sıralayan Eylül Programı'ydı; savaş baş…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "John Röhl 1973'te, Fischer'in ortaya çıkardıkları — özellikle 8 Aralık 1912 tarihli Savaş Konseyi toplantısı —…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Buna karşılık Mombauer, Moltke üzerine çalışmasında, çok sayıda araştırma ve tartışmaya rağmen askerî karar ve…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Muhafazakâr Alman tarihçi Gerhard Ritter tezi sahtekârca ve yanlış saydı; 1962 tarihli bir yazısında Almanya'n…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Ritter'e göre Almanya'nın 1914'te eleştirilebileceği en fazla şey, Avrupa güç siyasetinin durumunu yanlış değe…"
+- [OK]      k8 → "Mombauer, tartışmanın belge güdümlü niteliğini inceleyen makalesinde, hem Fischer okulunun hem eleştirmenlerin…"
+- [ATOMSUZ] k8 → "Aynı makale, alanın postmodern görelileştirme girişimlerinin dışında kalmasını, onlarca yıldır savaş suçu suçl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Mombauer'e göre 1980'lere gelindiğinde yeni bir uzlaşma oluşmuştu: çok az tarihçi Fischer'in önceden tasarlanm…"
+- [OK]      k1 → "Williamson Jr., 1990 tarihli çalışmasında suçun büyük bölümünü Almanlara değil Avusturya-Macaristan seçkinleri…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Holger Herwig'in değerlendirmesinde Berchtold Temmuz boyunca Berlin ile bilgi paylaşmakta isteksizdi; çünkü Be…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Herwig'in kendi özetinde Viyana önce savaşa karar verdi, sonra Alman güvencelerini aradı ve aldıktan sonra kul…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "1914 tarihli Beyaz Kitap'a göre Berlin, Viyana'ya Sırbistan'a yönelik eyleminde "tamamen serbest bir el" tanım…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Aynı metin Avusturya-Macaristan'ın notasına 48 saatlik bir süre verdiğini, Sırp cevabının bazı noktalarda uydu…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k11 → "Christopher Clark'ın kitabı 2012'de Britanya'da, ertesi yıl New York baskısıyla yayımlandı; kökenleri yeniden …"
+- [OK]      k1 → "Christopher Clark'ın kitabı 2012'de Britanya'da, ertesi yıl New York baskısıyla yayımlandı; kökenleri yeniden …"
+- [OK]      k1 → "Clark sorumluluğu Almanya, Avusturya-Macaristan, Fransa ve Rusya'ya özel dikkat göstererek bütün büyük güçlere…"
+- [ATOMSUZ] k1 → "Clark'ın sonucu, kıtadaki bütün güçlerin genel bir savaşı göze aldığı ama hiçbirinin onu aramadığıdır; krizin …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Vernon Bogdanor, Clark'ı Alman ve Avusturya tarafının arabuluculuk önerilerini reddetmesini hafifletmekle eleş…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Britanya derlemesi bu iki seçeneği de kaydeder: Grey'in konferans önerisine İtalya'nın verdiği desteği ve Çar'…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Telgraf derlemeye Rus basınının Ocak 1915'teki yayınından girmiştir; hangi belgenin görülebildiği, kimin neyi …" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Hans-Ulrich Wehler, Clark'ın Alman tarafındaki kaynakları özenle araştırdığını ama şaşırtıcı bir tek yanlılıkl…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Mombauer ise "sleepwalker" çerçevesinin sorumluluğun görelileştirilmesine yol açtığını, Berlin ve Viyana'da di…"
+- [OK]      k5 → "Avusturya-Macaristan'ın 23 Temmuz'da Sırbistan'a verdiği notanın on maddesi Britanya derlemesinde tam metin ol…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Altıncı madde, 28 Haziran komplosunun destekçilerine karşı açılacak adli soruşturmaya Avusturya-Macaristan tar…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Sırp hükümeti beşinci maddedeki işbirliğinin anlamını ve kapsamını açıkça kavrayamadığını, ancak uluslararası …"
+- [OK]      k5 → "Cevabın son paragrafı, Avusturya-Macaristan tatmin olmazsa Sırbistan'ın sorunu Lahey'deki uluslararası mahkeme…"
+- [ATOMSUZ] k5 → "Avusturya-Macaristan'ın 28 Temmuz tarihli savaş ilanı notası ise cevabı tatmin edici bulmadığını bildirir." — programatik olarak ölçülemedi (ad karşılığı yok): Temmuz
+- [OK]      k5 → "Britanya derlemesi Grey'in yazışmalarından kurulur ve dört güç konferansı önerisine verilen İtalyan desteğini …" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Britanya derlemesi Grey'in yazışmalarından kurulur ve dört güç konferansı önerisine verilen İtalyan desteğini …" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k6 → "Fay 1928 tarihli önsözünde, savaş yıllarında İngiliz, Fransız ve Rus hükümetlerinin erken bastığı Mavi, Sarı v…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Yapısal açıklama, savaşlar arası dönemin en yaygın cevabıydı ve bugüne kadar geçerliliğini korudu: gizli ittif…"
+- [ATOMSUZ] k6 → "Fay'in kendi sıralaması da aynı yöne bakar ve altta yatan nedenleri beş başlıkta toplar: gizli ittifak sistemi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Fay'e göre bunların en büyüğü ittifak sistemidir; sistem bir yandan barışı korur çünkü müttefikler birbirini f…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "James Joll ise seçkinlerin altta yatan inanç ve zihniyetlerini — kültürel kadercilik, militarizm ve ortak yanl…"
+- [OK]      k10 → "Taylor'ın 1969 tarihli War by Time-table kitabındaki demiryolu tezidir."
+- [OK]      k1 → "Taylor'ın 1969 tarihli War by Time-table kitabındaki demiryolu tezidir." — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Taylor'a göre hiçbir büyük güç savaş istemiyordu ama hepsi göreli gücünü artırmak istiyordu; silahlanma yarışı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kriz başlayınca rakiplerden hızlı seferber olma zorunluluğu 1914'ün liderlerini kendi lojistiklerinin tutsağı …" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Zihniyet düzeyine bakan okumalar aynı soruyu başka bir katmanda sorar: Sosyal Darwinci fikirlerin payını vurgu…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Bogdanor'un itirazı tam bu noktaya düşer: dört güç konferansı ve Lahey tahkimi somut olarak önerildiyse ve som…"
+- [OK]      k4 → "Almanya'nın 1914'te Viyana'ya serbest el verdiği kendi resmî yayınında yazılıdır."
+- [ATOMSUZ] k5 → "Avusturya-Macaristan'ın notasının kabul edilmek için yazılmadığı, notanın beşinci ve altıncı maddelerinden ve …" — programatik olarak ölçülemedi (ad karşılığı yok): Sırp
+- [OK]      k1 → "Aralık 1912 toplantısının bir karar mı yoksa bir niyet beyanı mı olduğu, doğrudan kanıt bulunmadığı için tartı…"
+- [ATOMSUZ] k9 → "Mombauer'in kaydettiği gibi tartışma, savaşın yüzüncü yılında bir kez daha ve büyük bir kamuoyu ilgisiyle açıl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 18 OK · 0 ISARET · 0 HATA · 2 ATOMSUZ
+**Özet:** 51 OK · 0 ISARET · 0 HATA · 14 ATOMSUZ

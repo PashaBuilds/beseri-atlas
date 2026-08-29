@@ -16,6 +16,7 @@ ilgili:
   - olay-bretton-woods
   - dusunur-smith
   - kaynak-keynes-genel-teori
+  - tartisma-1929-krizinin-nedeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

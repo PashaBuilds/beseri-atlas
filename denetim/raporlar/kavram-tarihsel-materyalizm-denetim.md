@@ -1,5 +1,5 @@
 ## kavram-tarihsel-materyalizm
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:12.290Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:38.197Z_
 
 - [OK]      k1 → "Kaynak Karl Marx'ı 1818-1883 arasına yerleştirir ve kuramı doğrudan bir adla değil bir kayıtla anar: çoğu kez …"
 - [ATOMSUZ] k1 → "Kaynağın verdiği tanımda aynı etken önce ilerletici sonra engelleyici olarak kaydedilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

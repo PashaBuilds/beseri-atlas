@@ -46,7 +46,7 @@ adlar:
     gectigi: [tartisma-belge-ne-zaman-yururlukte]
   - ad: "Tek olcut elestirisi cizgisi"
     durum: kisi-degil
-    gectigi: [tartisma-belge-ne-zaman-yururlukte]
+    gectigi: [tartisma-belge-ne-zaman-yururlukte, tartisma-osmanli-gerileme-tezi]
   - ad: "Deniz yolu kaymasini esas alan ticaret tarihi cizgisi"
     durum: kisi-degil
     gectigi: [tartisma-orta-asya-neden-cekildi]
@@ -137,7 +137,7 @@ adlar:
     gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
   - ad: "Anlatı temelli tarih yazımı"
     durum: kisi-degil
-    gectigi: [tartisma-tarihsel-sayilar-nasil-okunur]
+    gectigi: [tartisma-tarihsel-sayilar-nasil-okunur, tartisma-osmanli-gerileme-tezi]
   - ad: "Atlasın kendi kaydı"
     durum: kisi-degil
     gectigi: [tartisma-ikinci-dunya-savasi-sorumlulugu, tartisma-iklim-ve-cokus, tartisma-imparatorluk-nufusu-nasil-sayilir, tartisma-kesif-mi-istila-mi, tartisma-mogol-etkisi, tartisma-nufus-artisi-tehdit-mi, tartisma-somurgeciligin-ekonomik-bilancosu]
@@ -182,17 +182,17 @@ adlar:
   - ad: "Daron Acemoğlu"
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Great_Divergence
-    gectigi: [tartisma-bati-neden-yukseldi]
+    gectigi: [tartisma-bati-neden-yukseldi, tartisma-demografik-donum-sonuclari]
   - ad: "Demografik kapasite yaklaşımı"
     durum: kisi-degil
     gectigi: [tartisma-tarim-devrimi-ilerleme-mi]
   - ad: "Ders kitabı ve popüler tarih anlatımı"
     durum: kisi-degil
-    gectigi: [tartisma-tarihsel-sayilar-nasil-okunur]
+    gectigi: [tartisma-tarihsel-sayilar-nasil-okunur, tartisma-osmanli-gerileme-tezi]
   - ad: "Douglass North"
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/New_institutional_economics
-    gectigi: [tartisma-bati-neden-yukseldi]
+    gectigi: [tartisma-sanayi-devrimi-neden-ingiltere]
   - ad: "Edward Gibbon"
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Historiography_of_the_fall_of_the_Western_Roman_Empire
@@ -211,7 +211,7 @@ adlar:
   - ad: "Eric Williams"
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Capitalism_and_Slavery
-    gectigi: [tartisma-bati-neden-yukseldi]
+    gectigi: [tartisma-bati-neden-yukseldi, tartisma-sanayi-devrimi-neden-ingiltere]
   - ad: "Eyyûbî kaydı"
     durum: kisi-degil
     gectigi: [tartisma-imparatorluk-nufusu-nasil-sayilir]
@@ -294,7 +294,7 @@ adlar:
   - ad: "Jared Diamond"
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Great_Divergence
-    gectigi: [tartisma-bati-neden-yukseldi]
+    gectigi: [tartisma-bati-neden-yukseldi, tartisma-tarim-devrimi-ilerleme-mi]
   - ad: "Joachim Remak"
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Historiography_of_the_causes_of_World_War_I
@@ -501,7 +501,7 @@ adlar:
     gectigi: [tartisma-tarihsel-sayilar-nasil-okunur]
   - ad: "Osmanlı taşra düzeni literatürü"
     durum: kisi-degil
-    gectigi: [tartisma-imparatorluk-siniri-nasil-cizilir]
+    gectigi: [tartisma-imparatorluk-siniri-nasil-cizilir, tartisma-osmanli-gerileme-tezi]
   - ad: "Paul Kennedy"
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Causes_of_World_War_I
@@ -546,8 +546,8 @@ adlar:
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Feudalism
     gectigi: [tartisma-feodalite-kavrami]
   - ad: "Süreçsel arkeoloji çizgisi"
-    durum: dogrulandi
-    gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
+    durum: kisi-degil
+    gectigi: [tartisma-sozlu-gelenek-kaynak-mi, tartisma-tunc-cagi-cokusunun-nedeni]
   - ad: "Teknoloji felsefesinin insani hattı"
     durum: kisi-degil
     gectigi: [tartisma-teknolojik-belirlenimcilik]
@@ -719,7 +719,7 @@ adlar:
   - ad: "Ester Boserup"
     durum: dogrulandi
     dogrulama_kaynagi: "en.wikipedia.org/wiki/Ester_Boserup: 'population change drives the intensity of agricultural production'"
-    gectigi: [tartisma-nufus-artisi-tehdit-mi]
+    gectigi: [tartisma-nufus-artisi-tehdit-mi, tartisma-tarim-devrimi-ilerleme-mi]
   - ad: "Julian Simon"
     durum: dogrulandi
     dogrulama_kaynagi: "en.wikipedia.org/wiki/Julian_Simon: 'power of human ingenuity to create substitutes'"
@@ -834,7 +834,7 @@ adlar:
   - ad: "A.J.P. Taylor"
     durum: dogrulandi
     dogrulama_kaynagi: "ayni sayfa: 'Hitler was an opportunist, taking advantage of events'"
-    gectigi: [tartisma-ikinci-dunya-savasi-sorumlulugu]
+    gectigi: [tartisma-ikinci-dunya-savasi-sorumlulugu, tartisma-1914-savas-sorumlulugu]
   - ad: "Timothy Mason"
     durum: dogrulandi
     dogrulama_kaynagi: "ayni sayfa: 'A war for the plunder of manpower and materials... dreadful logic'"
@@ -962,7 +962,7 @@ adlar:
   - ad: "Mark Nathan Cohen"
     durum: dogrulandi
     dogrulama_kaynagi: "archive.org foodcrisisinpreh0000cohe: 'overpopulation and the origins of agriculture' (1977)"
-    gectigi: [tartisma-tarim-devrimi-neden]
+    gectigi: [tartisma-tarim-devrimi-neden, tartisma-tarim-devrimi-ilerleme-mi]
   - ad: "Jacques Cauvin"
     durum: dogrulandi
     dogrulama_kaynagi: "en.wikipedia Jacques Cauvin: 'influenced by a change in thinking as much as changes in the environment'"
@@ -991,3 +991,232 @@ adlar:
     durum: dogrulandi
     dogrulama_kaynagi: "archive.org doestechnologydr0000unse icindekiler: 'Technological momentum / Thomas P. Hughes'"
     gectigi: [tartisma-teknolojik-belirlenimcilik]
+  # ─── 2026-08-29 P3 tartisma dalgasi: bagimsiz kor hakem fetch kanitlariyla ───
+  - ad: "Milton Friedman"
+    durum: dogrulandi
+    dogrulama_kaynagi: "eh.net an-overview-of-the-great-depression: 'Friedman and Schwartz trace the seeds... to the death of... Benjamin Strong in 1928'"
+    gectigi: [tartisma-1929-krizinin-nedeni]
+  - ad: "Anna J. Schwartz"
+    durum: dogrulandi
+    dogrulama_kaynagi: "eh.net a.g.e. + archive.org monetaryhistoryo0000frie ortak yazar kaydi"
+    gectigi: [tartisma-1929-krizinin-nedeni]
+  - ad: "Peter Temin"
+    durum: dogrulandi
+    dogrulama_kaynagi: "eh.net a.g.e.: 'Temin's (1976) focus on autonomous consumption decline'"
+    gectigi: [tartisma-1929-krizinin-nedeni]
+  - ad: "Irving Fisher"
+    durum: dogrulandi
+    dogrulama_kaynagi: "eh.net a.g.e.: 'Fisher (1933) asserted that the dominant forces... are (nominal) over-indebtedness and deflation'; Crossref 10.2307/1907327"
+    gectigi: [tartisma-1929-krizinin-nedeni]
+  - ad: "Ben S. Bernanke"
+    durum: dogrulandi
+    dogrulama_kaynagi: "eh.net a.g.e.: 'Bernanke (1983), in what is now called the credit view'; Crossref 10.3386/w1054"
+    gectigi: [tartisma-1929-krizinin-nedeni]
+  - ad: "Barry Eichengreen"
+    durum: dogrulandi
+    dogrulama_kaynagi: "eh.net gold-standard: 'golden fetters (the title of the classic work of Eichengreen, 1992)'"
+    gectigi: [tartisma-1929-krizinin-nedeni]
+  - ad: "Charles P. Kindleberger"
+    durum: dogrulandi
+    dogrulama_kaynagi: "eh.net a.g.e.: 'Kindleberger (1973) stresses... the unquestioned leadership exercised by Great Britain'"
+    gectigi: [tartisma-1929-krizinin-nedeni]
+  - ad: "John Kenneth Galbraith"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia The Great Crash, 1929: 'precipitated by rampant speculation in the stock market'"
+    gectigi: [tartisma-1929-krizinin-nedeni]
+  - ad: "Max Weber"
+    durum: dogrulandi
+    dogrulama_kaynagi: "eh.net Pomeranz degerlendirmesi: 'as both Weber, and more recently Landes have maintained, we are back to culture'"
+    gectigi: [tartisma-bati-neden-yukseldi]
+  - ad: "David S. Landes"
+    durum: dogrulandi
+    dogrulama_kaynagi: "eh.net wealth-and-poverty-of-nations: 'Landes's economic history is a profoundly Eurocentric history'"
+    gectigi: [tartisma-bati-neden-yukseldi]
+  - ad: "Avrupamerkezci yayılmacılık eleştirisi çizgisi"
+    durum: kisi-degil
+    dogrulama_kaynagi: "api.crossref.org 10.1016/0962-6298(92)90003-c — kayitta abstract YOK; kisi atfi yapilamaz"
+    gectigi: [tartisma-bati-neden-yukseldi]
+  - ad: "Jean-Laurent Rosenthal"
+    durum: dogrulandi
+    dogrulama_kaynagi: "eh.net before-and-beyond-divergence: 'the dichotomy between a unified and centralized imperial China versus a politically fragmented Europe'"
+    gectigi: [tartisma-bati-neden-yukseldi]
+  - ad: "Simon Johnson"
+    durum: dogrulandi
+    dogrulama_kaynagi: "api.crossref.org 10.1257/0002828054201305 yazar dizisi + ozet 'the growth of Atlantic trade strengthened merchant groups'"
+    gectigi: [tartisma-bati-neden-yukseldi]
+  - ad: "Joseph Inikori"
+    durum: dogrulandi
+    dogrulama_kaynagi: "eh.net africans-and-the-industrial-revolution: 'international trade was crucial to the success of that revolution'"
+    gectigi: [tartisma-bati-neden-yukseldi, tartisma-sanayi-devrimi-neden-ingiltere]
+  - ad: "E. A. Wrigley"
+    durum: dogrulandi
+    dogrulama_kaynagi: "eh.net path-to-sustained-growth: 'the greatest propulsion of all was the move to coal'"
+    gectigi: [tartisma-bati-neden-yukseldi]
+  - ad: "Phillip Longman"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org emptycradlehowfa0000long: 'how falling birthrates threaten world prosperity'"
+    gectigi: [tartisma-demografik-donum-sonuclari]
+  - ad: "Ronald Lee"
+    durum: dogrulandi
+    dogrulama_kaynagi: "api.crossref.org 10.1126/science.1250542 yazar + ozet 'moderately low fertility and population decline favor the broader material standard of living'"
+    gectigi: [tartisma-demografik-donum-sonuclari]
+  - ad: "Andrew Mason"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni Crossref kaydi, ikinci yazar"
+    gectigi: [tartisma-demografik-donum-sonuclari]
+  - ad: "Pascual Restrepo"
+    durum: dogrulandi
+    dogrulama_kaynagi: "api.crossref.org 10.1093/restud/rdab031 yazar + ozet 'aging leads to greater (industrial) automation'"
+    gectigi: [tartisma-demografik-donum-sonuclari]
+  - ad: "Wolfgang Lutz"
+    durum: dogrulandi
+    dogrulama_kaynagi: "api.crossref.org 10.1553/populationyearbook2006s167 — baslik duzeyi (ozet YOK): 'The Low Fertility Trap Hypothesis'"
+    gectigi: [tartisma-demografik-donum-sonuclari]
+  - ad: "Demografik temettü çerçevesi"
+    durum: kisi-degil
+    dogrulama_kaynagi: "ourworldindata.org/age-structure: 'the so-called demographic dividend' + 'taking advantage of this opportunity is not a given'"
+    gectigi: [tartisma-demografik-donum-sonuclari]
+  - ad: "Jonathan Riley-Smith"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org Laiou-Mottahedeh djvu: 'the leading pluralist is J. Riley-Smith' + 'moved on the whole by idealism'"
+    gectigi: [tartisma-hacli-seferlerinin-nedeni]
+  - ad: "Carl Erdmann"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni kaynak: 'Jerusalem was the immediate goal of the campaign (Marschziel)... (Kampf- or Kriegsziel)'"
+    gectigi: [tartisma-hacli-seferlerinin-nedeni]
+  - ad: "Işın Demirkent"
+    durum: dogrulandi
+    dogrulama_kaynagi: "islamansiklopedisi.org.tr/haclilar (Muellif: ISIN DEMIRKENT): 'aslinda siyasi, sosyal ve ekonomik sebeplerdir'"
+    gectigi: [tartisma-hacli-seferlerinin-nedeni]
+  - ad: "İktisadi çıkar açıklamasına dayanan çizgi"
+    durum: kisi-degil
+    gectigi: [tartisma-hacli-seferlerinin-nedeni]
+  - ad: "Paul Alphandéry"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni kaynak: 'the crusade was a project swept along by eschatological forces'"
+    gectigi: [tartisma-hacli-seferlerinin-nedeni]
+  - ad: "Étienne Delaruelle"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni kaynak: 'For Delaruelle the crusade was... a moment of collective exaltation'"
+    gectigi: [tartisma-hacli-seferlerinin-nedeni]
+  - ad: "Giles Constable"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni kaynak (makalenin yazari): 'I have myself been counted among the pluralists'"
+    gectigi: [tartisma-hacli-seferlerinin-nedeni]
+  - ad: "Hans Eberhard Mayer"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni kaynak: 'the leading traditionalist is H. E. Mayer'"
+    gectigi: [tartisma-hacli-seferlerinin-nedeni]
+  - ad: "Angus Deaton"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org greatescapehealt0000deat: 'Deaton argues that international aid has been ineffective and even harmful'"
+    gectigi: [tartisma-kalkinma-yardimi-ise-yariyor-mu]
+  - ad: "Craig Burnside"
+    durum: dogrulandi
+    dogrulama_kaynagi: "api.crossref.org 10.1257/aer.90.4.847 ozeti: 'aid would be more effective if it were more systematically conditioned on good policy'"
+    gectigi: [tartisma-kalkinma-yardimi-ise-yariyor-mu]
+  - ad: "David Dollar"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni kayit: 'aid has a positive impact on growth in developing countries with good fiscal, monetary, and trade policies'"
+    gectigi: [tartisma-kalkinma-yardimi-ise-yariyor-mu]
+  - ad: "Abhijit Banerjee"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org pooreconomicsrad0000bane: 'pioneered the use of randomized control trials in development economics'"
+    gectigi: [tartisma-kalkinma-yardimi-ise-yariyor-mu]
+  - ad: "Esther Duflo"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni kayit, ortak yazar; 'untested generalizations at best'"
+    gectigi: [tartisma-kalkinma-yardimi-ise-yariyor-mu]
+  - ad: "Edward Miguel"
+    durum: dogrulandi
+    dogrulama_kaynagi: "api.crossref.org 10.1146/annurev-economics-080218-030333 (Bouguen-Huang-Kremer-Miguel): 'a novel opportunity to generate high-quality evidence'"
+    gectigi: [tartisma-kalkinma-yardimi-ise-yariyor-mu]
+  - ad: "Michael Kremer"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni kayit: 'We assess evidence from randomized controlled trials (RCTs) on long-run economic productivity'"
+    gectigi: [tartisma-kalkinma-yardimi-ise-yariyor-mu]
+  - ad: "David Lewis"
+    durum: dogrulandi
+    dogrulama_kaynagi: "SEP counterfactuals: 'causal claims are counterfactual claims... developed by David Lewis (1973a,c)'"
+    gectigi: [tartisma-karsi-olgusal-tarih]
+  - ad: "Robert Fogel"
+    durum: dogrulandi
+    dogrulama_kaynagi: "eh.net railroads-and-american-economic-growth: 'what the world would have been like had there been no railroads'"
+    gectigi: [tartisma-karsi-olgusal-tarih]
+  - ad: "Niall Ferguson"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia Counterfactual history: 'Ferguson has become a significant advocate of counterfactual history'"
+    gectigi: [tartisma-karsi-olgusal-tarih]
+  - ad: "Mehtap Söyler"
+    durum: dogrulandi
+    dogrulama_kaynagi: "dergipark 10.14782/marmarasbd.952525: 'this study elaborates on the standards for the conduct of counterfactual inference'"
+    gectigi: [tartisma-karsi-olgusal-tarih]
+  - ad: "Richard J. Evans"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia Counterfactual history: 'systematic critique of the concept in his book Altered Pasts'"
+    gectigi: [tartisma-karsi-olgusal-tarih]
+  - ad: "Aviezer Tucker"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni sayfa: 'Tucker rejected the use of multi-causal counterfactuals... ceteris paribus'; Crossref 10.1111/0018-2656.00090"
+    gectigi: [tartisma-karsi-olgusal-tarih]
+  - ad: "Robert C. Allen"
+    durum: dogrulandi
+    dogrulama_kaynagi: "eh.net british-industrial-revolution-in-global-perspective: 'wages were remarkably high, and energy was remarkably cheap'"
+    gectigi: [tartisma-sanayi-devrimi-neden-ingiltere]
+  - ad: "Joel Mokyr"
+    durum: dogrulandi
+    dogrulama_kaynagi: "eh.net the-enlightened-economy: 'the changing set of beliefs we associate with the Enlightenment'"
+    gectigi: [tartisma-sanayi-devrimi-neden-ingiltere]
+  - ad: "Deirdre McCloskey"
+    durum: dogrulandi
+    dogrulama_kaynagi: "eh.net bourgeois-dignity: 'In McCloskey's words, it was words.'"
+    gectigi: [tartisma-sanayi-devrimi-neden-ingiltere]
+  - ad: "Barry Weingast"
+    durum: dogrulandi
+    dogrulama_kaynagi: "api.crossref.org 10.1017/S0022050700009451 ozeti: 'the new institutions allowed the government to commit credibly to upholding property rights'"
+    gectigi: [tartisma-sanayi-devrimi-neden-ingiltere]
+  - ad: "Nicholas Crafts"
+    durum: dogrulandi
+    dogrulama_kaynagi: "api.crossref.org: 'Output Growth and the British Industrial Revolution: A Restatement of the Crafts-Harley View' (EHR 45, 1992)"
+    gectigi: [tartisma-sanayi-devrimi-neden-ingiltere]
+  - ad: "C. Knick Harley"
+    durum: dogrulandi
+    dogrulama_kaynagi: "api.crossref.org 10.1017/S0022050700027431 ozeti: 'about a third slower than currently available estimates indicate'"
+    gectigi: [tartisma-sanayi-devrimi-neden-ingiltere]
+  - ad: "Dört bağımsız icadı olağan sayan yerleşik çizgi"
+    durum: kisi-degil
+    gectigi: [tartisma-yazinin-icadi-nerede]
+  - ad: "Geoffrey Sampson"
+    durum: dogrulandi
+    dogrulama_kaynagi: "en.wikipedia History of writing: 'those arguing against a causal link including Geoffrey Sampson and Christopher Woods'"
+    gectigi: [tartisma-yazinin-icadi-nerede]
+  - ad: "Uyaran yayılımını yeterli sayan çizgi"
+    durum: kisi-degil
+    gectigi: [tartisma-yazinin-icadi-nerede]
+  - ad: "Steve Farmer"
+    durum: dogrulandi
+    dogrulama_kaynagi: "api.semanticscholar.org 419fd9ce...: 'The Collapse of the Indus-Script Thesis' yazar kaydi"
+    gectigi: [tartisma-yazinin-icadi-nerede]
+  - ad: "Richard Sproat"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni kayit, ortak yazar (R. Sproat)"
+    gectigi: [tartisma-yazinin-icadi-nerede]
+  - ad: "Michael Witzel"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni kayit, ortak yazar (M. Witzel)"
+    gectigi: [tartisma-yazinin-icadi-nerede]
+  - ad: "Asko Parpola"
+    durum: dogrulandi
+    dogrulama_kaynagi: "api.crossref.org 10.2307/416809: 'Deciphering the Indus script. By Asko Parpola.' (Language degerlendirmesi)"
+    gectigi: [tartisma-yazinin-icadi-nerede]
+  - ad: "İstatistiksel yapı kanıtına dayanan çizgi"
+    durum: kisi-degil
+    gectigi: [tartisma-yazinin-icadi-nerede]
+  - ad: "Elizabeth Hill Boone"
+    durum: dogrulandi
+    dogrulama_kaynagi: "archive.org writingwithoutwo0000unse icindekiler: 'Aztec Pictorial Histories... / Elizabeth Hill Boone'"
+    gectigi: [tartisma-yazinin-icadi-nerede]
+  - ad: "Walter D. Mignolo"
+    durum: dogrulandi
+    dogrulama_kaynagi: "ayni kayit: 'Signs and Their Transmission... / Walter D. Mignolo'"
+    gectigi: [tartisma-yazinin-icadi-nerede]

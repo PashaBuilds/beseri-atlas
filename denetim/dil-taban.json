@@ -1,6 +1,6 @@
 {
   "aciklama": "KAPI 18 dil borcu defteri. Kapinin devreye girdigi andaki kalip gecis sayilari. Yalnizca --dil-taban-yaz ile ve yalnizca asagi yonde guncellenir; onarim borcu eritir, defter borcu gizleyemez.",
-  "zaman": "2026-08-29T09:07:35.481Z",
+  "zaman": "2026-08-29T13:57:42.665Z",
   "makaleler": {
     "donem-01": {
       "atlas_oz": 39,
@@ -2150,12 +2150,6 @@
       "ayrica_kaydeder": 5,
       "sablon_kapanis": 1
     },
-    "tartisma-1929-krizinin-nedeni": {
-      "atlas_oz": 2,
-      "bu_dosya": 1,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
-    },
     "tartisma-belge-ne-zaman-yururlukte": {
       "atlas_oz": 20,
       "bu_dosya": 5,
@@ -2168,32 +2162,8 @@
       "ayrica_kaydeder": 10,
       "sablon_kapanis": 1
     },
-    "tartisma-demografik-donum-sonuclari": {
-      "atlas_oz": 2,
-      "bu_dosya": 1,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
-    },
     "tartisma-fransiz-devrimi-yorumlari": {
-      "atlas_oz": 2,
-      "bu_dosya": 0,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
-    },
-    "tartisma-hacli-seferlerinin-nedeni": {
       "atlas_oz": 1,
-      "bu_dosya": 0,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
-    },
-    "tartisma-kalkinma-yardimi-ise-yariyor-mu": {
-      "atlas_oz": 2,
-      "bu_dosya": 1,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
-    },
-    "tartisma-karsi-olgusal-tarih": {
-      "atlas_oz": 3,
       "bu_dosya": 0,
       "ayrica_kaydeder": 0,
       "sablon_kapanis": 0
@@ -2204,41 +2174,17 @@
       "ayrica_kaydeder": 1,
       "sablon_kapanis": 2
     },
-    "tartisma-osmanli-gerileme-tezi": {
-      "atlas_oz": 2,
-      "bu_dosya": 0,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
-    },
-    "tartisma-sanayi-devrimi-neden-ingiltere": {
-      "atlas_oz": 3,
-      "bu_dosya": 3,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
-    },
     "tartisma-somurgeciligin-ekonomik-bilancosu": {
       "atlas_oz": 26,
       "bu_dosya": 3,
       "ayrica_kaydeder": 2,
       "sablon_kapanis": 1
     },
-    "tartisma-tarihsel-sayilar-nasil-okunur": {
-      "atlas_oz": 2,
-      "bu_dosya": 0,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
-    },
     "tartisma-waitangi-hangi-metin": {
       "atlas_oz": 7,
       "bu_dosya": 9,
       "ayrica_kaydeder": 0,
       "sablon_kapanis": 2
-    },
-    "tartisma-yazinin-icadi-nerede": {
-      "atlas_oz": 2,
-      "bu_dosya": 1,
-      "ayrica_kaydeder": 0,
-      "sablon_kapanis": 0
     },
     "veri-askeri-harcama": {
       "atlas_oz": 2,

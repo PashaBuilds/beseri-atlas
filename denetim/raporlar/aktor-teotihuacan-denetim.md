@@ -1,5 +1,5 @@
 ## aktor-teotihuacan
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:08.087Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:33.926Z_
 
 - [OK]      k1 → "Teotihuacan, Orta Amerika'nın yüksek yaylasında, bir vadi tabanında kurulmuş bir şehirdir."
 - [ATOMSUZ] k1 → "Şehir, kurulduğu dönemde dünyanın en kalabalık yerleşimlerinden biriydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

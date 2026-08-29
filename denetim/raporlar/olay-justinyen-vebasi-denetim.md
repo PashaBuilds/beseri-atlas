@@ -1,5 +1,5 @@
 ## olay-justinyen-vebasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:01.788Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:27.636Z_
 
 - [OK]      k1 → "Justinyen vebası (MS 541–549), bütün Akdeniz havzasını etkileyen bir veba salgınıydı." — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "2013'te araştırmacılar, Justinyen vebasının nedeninin Kara Ölüm'den (1346–1353) sorumlu olan aynı bakteri, yan…" — 6 atom doğrulandı; 1 ad ölçülemedi

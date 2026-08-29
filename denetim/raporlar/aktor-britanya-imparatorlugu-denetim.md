@@ -1,5 +1,5 @@
 ## aktor-britanya-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:04.629Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:30.485Z_
 
 - [ATOMSUZ] k1 → "yüzyılın sonlarında kurduğu denizaşırı mülkler ve ticaret karakollarıyla başladı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Tanımın kendisi bir liste olarak verilir: dominyon, sömürge, himaye, manda ve "diğer topraklar"." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

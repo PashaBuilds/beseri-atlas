@@ -19,6 +19,7 @@ ilgili:
   - olay-amerikan-devrimi
   - tartisma-tarihsel-sayilar-nasil-okunur
   - tartisma-aydinlanmanin-sinirlari
+  - tartisma-fransiz-devrimi-yorumlari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

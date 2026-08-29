@@ -1,5 +1,5 @@
 ## kaynak-yusuf-has-hacib-kutadgu-bilig
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:17.879Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:43.881Z_
 
 - [ATOMSUZ] k1 → "Kutadgu Bilig, iyi yönetimin neye dayandığını tartışan bir siyaset metnidir." — programatik olarak ölçülemedi (ad karşılığı yok): Bilig
 - [OK]      k2 → "Kutadgu Bilig, iyi yönetimin neye dayandığını tartışan bir siyaset metnidir."

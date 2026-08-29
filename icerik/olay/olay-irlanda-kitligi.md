@@ -73,8 +73,8 @@ başlıkların varlığını kaydeder ve bir hüküm vermez.
 ## Ölü sayısı ayrı bir bölüm
 
 Ölü sayısının kendi bölümünü taşıması,[^k1] bu sayının tartışmalı olduğunun
-kurumsal işaretidir; yöntem
-[Tarihsel bilanço sayıları nasıl okunmalı?](/tartisma/tarihsel-sayilar-nasil-okunur/)
+kurumsal işaretidir; bu yöntem
+[Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
 haritasında ele alınıyor.
 
 ## Dönemin yönetim düzeni

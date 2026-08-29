@@ -1,5 +1,5 @@
 ## olay-iskender-seferleri
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:01.581Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:27.426Z_
 
 - [OK]      k1 → "Balkan seferi MÖ 335'te Haemus Dağı, Pelion ve Thebai muharebeleriyle başlar; Pers seferi MÖ 334'te Granikos, …" — 9 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Doğuya doğru ilerleyiş MÖ 329'da Kyropolis ve Yaksartes, MÖ 328'de Gabai, MÖ 327'de Sogd Kayası ve Kophen, MÖ …" — 7 atom doğrulandı; 1 ad ölçülemedi

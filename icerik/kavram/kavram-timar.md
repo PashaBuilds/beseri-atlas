@@ -16,6 +16,7 @@ ilgili:
   - kavram-vergi
   - tartisma-feodalite-kavrami
   - kavram-veraset
+  - tartisma-osmanli-gerileme-tezi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

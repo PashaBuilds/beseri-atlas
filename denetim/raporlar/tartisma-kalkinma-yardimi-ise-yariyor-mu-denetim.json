@@ -1,63 +1,309 @@
 {
   "id": "tartisma-kalkinma-yardimi-ise-yariyor-mu",
   "gecis": 2,
-  "zaman": "2026-08-29T04:48:13.819Z",
-  "govde_hash": "5d746f96690c",
-  "commit": "58a10ea",
+  "zaman": "2026-08-29T10:52:44.791Z",
+  "govde_hash": "ca527e6092ea",
+  "commit": "7549ec6",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, yardım etkililiğine dair kaygının yüksek bir genellik düzeyinde olabileceğini — yardımın ortalamada kendisinden beklenen başlıca işlevleri yerine getiri",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir sorunun kaynağın tanım bölümünde ikiye ayrılması, atlasın şu kuralının dayanağıdır: cevabı aktarmadan önce sorunun hangi düzeyde sorulduğu yazılır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "yüzyıl başında genel olarak daha olumlu sonuçlar verir göründüğünü, ancak tablonun karmaşık ve pek çok bakımdan açıklıktan uzak olduğunu yazar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Aynı kaynağın iki dönem için iki farklı yönelim bildirmesi, tek bir cevabın hangi yılların çalışmalarına dayandığı yazılmadan aktarılamayacağını gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, 2003-2011 arasında yardım etkililiği üzerine yaklaşık dört üst düzey forum yapıldığını ve bunların Paris Bildirgesi ile diğer sonuçlarının geniş bir uzl",
+      "anahtar": "k12",
+      "iddia": "Ölçek küçük değildir; alıcı ülkelere ulaşan net resmî kalkınma yardımı, sabit dolarla 1960'ta yaklaşık 34 milyar iken 2021'de 190 milyarın üzerindeydi.",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Seri düz de yükselmez: 1990'da 90 milyara yaklaşmış, 2005'te 123 milyarı geçmiş ve 1960-2021 arasını kapsayan altmış iki yıllık serinin zirvesine 2020'de 193 mi",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir tartışmanın sekiz yıl içinde dört uluslararası forumla yönetilmeye çalışılması, sorunun yalnızca ekonometrik değil kurumsal bir soru olduğunu gösterir.",
+      "iddia": "Bu paranın etkililiği akademisyenler, yorumcular ve uygulayıcılar arasında şiddetle tartışılmış ve soru, geniş bir literatür biriktirmiştir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Aynı ilişkiyi yapısal olarak ele alan kuram için tutulan kayıt, çevre devletlerden merkez devletlere doğru bir kaynak akışı bulunduğu ve zenginlerin yoksullar p",
+      "anahtar": "k1",
+      "iddia": "Etkililik kaygısı yüksek bir genellik düzeyinde durabilir — yardım ortalamada kendisinden beklenen başlıca işlevleri yerine getiriyor mu — ya da daha ayrıntılı ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Yardımın yönünü tersine çeviren bir çerçevenin varlığı, \"işe yarıyor mu\" sorusunun ölçüm sorusu olduğu kadar çerçeve sorusu da olduğunu gösterir; kuram dosyasın",
+      "anahtar": "k1",
+      "iddia": "İnsani yardım ile kalkınma yardımının tarihsel izlekleri de birbirinden ayrı işlenir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Soğuk Savaş bittikten sonra bağışçılar, jeopolitik çıkar hesabının gölgesinden çıkan yardımı iktisadi ve demokratik değişim şartlarına bağlayabilir hâle geldi; ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl başında bütüne bakıldığında daha olumlu sonuçlar verir göründü, ama tablo karmaşık ve birçok bakımdan açıklıktan uzak kaldı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ölçümün kendi güçlükleri de vardır: hedefler çeşitlidir ve farklı hedefler, sonucun hangi zaman ölçeğinde aranacağı konusunda farklı imalar taşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kavganın merkez metni, Craig Burnside ile David Dollar'ın American Economic Review'da 2000'de yayımlanan Aid, Policies, and Growth makalesidir: bulguya göre yar",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Aşırı yoksulluk oranı serisinde dünya değeri 1990'da yaklaşık yüzde 43,41, 2000'de yaklaşık yüzde 36,20, 2010'da yaklaşık yüzde 20,98 ve 2026'da yaklaşık yüzde ",
+      "iddia": "Kavganın merkez metni, Craig Burnside ile David Dollar'ın American Economic Review'da 2000'de yayımlanan Aid, Policies, and Growth makalesidir: bulguya göre yar",
       "durum": "OK",
       "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Burnside ile Dollar'ın özeti iki ayrı sonucu birbirine bağlar: iyi maliye, para ve ticaret politikaları izleyen ülkelerde yardımın büyümeye olumlu etkisi görülü",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Burnside ile Dollar'ın kendi çıkarımı buradan geliyordu: yardım, iyi politikaya daha dizgeli biçimde bağlansaydı daha etkili olurdu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "William Easterly, Ross Levine ve David Roodman 2004'te aynı dergide yayımlanan yorumda, veri seti genişletilip yardım ile iyi politika başka biçimlerde tanımlan",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "William Easterly, Ross Levine ve David Roodman 2004'te aynı dergide yayımlanan yorumda, veri seti genişletilip yardım ile iyi politika başka biçimlerde tanımlan",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Roodman 2007'de daha genel bir sonuca vardı: aralarında Burnside-Dollar'ın da bulunduğu yedi ekonometrik çalışmanın sonuçları, anahtar terimler başka makul yoll",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Raghuram Rajan ile Arvind Subramanian'ın 2005'te dolaşıma giren ve 2008'de yayımlanan taraması da 1960-2000 arasında yardım ile büyüme arasında ortalamada sağla",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Raghuram Rajan ile Arvind Subramanian'ın 2005'te dolaşıma giren ve 2008'de yayımlanan taraması da 1960-2000 arasında yardım ile büyüme arasında ortalamada sağla",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Paul Mosley'nin mikro-makro paradoksu adını verdiği gözlemde, ülke düzeyindeki ölçümler, bağışçı ve uygulayıcı kurumların kendi proje raporlarında biriken başar",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu eksikliğin görülmesi, uluslararası pratikte etki ölçümünü sıkılaştırma yönünde kademeli bir eğilim doğurdu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Abhijit Banerjee ile Esther Duflo'nun 2011'de yayımlanan Poor Economics'i bu açmazdan başka bir kapıyla çıkar: kitabın tanıtım metnindeki iddiaya göre yoksulluk",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "İkili, rastgele atamalı kontrollü deneyi kalkınma iktisadına taşıyan öncülerdendir; MIT'deki Poverty Action Lab çatısı altında bu ilkeyle yürütülen çalışmalar o",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı çizginin alanda en çok tartışılan deneylerinden biri, Edward Miguel ile Michael Kremer'in Econometrica'da 2004'te çıkan Worms makalesidir; makale, okul tem",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Uluslararası bir epidemiyoloji dergisi 2015'te, Kenya'daki bu programın verilerini yeniden inceleyen iki ayrı çalışma yayımladı; Aiken, Davey, Hargreaves ve Hay",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Aynı ekibin eşlik eden ikinci yeniden-analizi, deneyi bir küme yarı-rastgele basamaklı saha denemesi olarak yeniden sınıflandırıp bulguların istatistiksel repli",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Hicks, Kremer ve Miguel aynı dergide, iki yeniden-analizi adlarıyla anan bir yorumla karşılık verdi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bir yandan rastgele atamalı deney, kalkınma kanıtının çıtasını yükseltmiş ve veri paylaşımını yeniden analiz edilebilecek kadar açık hâle getirmiştir; öte yanda",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Bir yandan rastgele atamalı deney, kalkınma kanıtının çıtasını yükseltmiş ve veri paylaşımını yeniden analiz edilebilecek kadar açık hâle getirmiştir; öte yanda",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak ikame edilebilir olduğunda alıcı hükümet, bağışçının para koyduğu alandaki kendi harcamasını kısıp serbest kalan tutarı bağışçının hiç öngörmediği önceli",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tahsisin amacı tam da bunu sınırlamaktır — paranın altyapıya, sağlığa ya da eğitime harcanması şart koşulur — ama bu şartın uygulamada denetlenmesi güçtür; gene",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "yüzyılda 300 milyon insanı öldürmüş bir hastalığı bitirmişti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Eradikasyonun yaklaşık 300 milyon dolarlık maliyeti, 1980'den bu yana her yıl 1 milyar doları aşan tasarrufla karşılaştırılır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Aynı örgütün bilançosunda yalnız bu zafer yoktur: 187 ülke, bölge ve alan gine kurdu hastalığından arınmış, 38 ülke ve bölge de sıtmadan arınmış olarak belgelen",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hedefi dar, teknolojisi belli, sonucu sayılabilir bir dikey sağlık programı ile bir hükümetin genel bütçesine akan destek aynı türden şeyler değildir; insani ya",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yardımın sert eleştirmenleri bile bu ayrımı korur: Moyo'nun hedefi hükümetler arası ve çok taraflı yardımdır; küçük ölçekli hayırseverliği, insani ve acil yardı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bauer 1972 tarihli Dissent on Development'tan başlayarak yardımın yarardan çok zarar verdiğini savundu; ona göre asıl zarar, kaynakların hükümetler üzerinden ge",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dambisa Moyo 2009'da Dead Aid ile aynı damarı Afrika üzerinden güncelledi: ona göre yardım kleptokrasileri, yozlaşmayı ve yardım bağımlılığını beslemiş; hükümet",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mekanizmanın özü hesap verme yönüdür: dışarıdan gelen para, vergi karşılığında kamu hizmeti üretme bağını gevşetir ve — Moyo'nun sözleriyle — \"devletin kendi ha",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gelir toplama kapasitesi devlet kapasitesinin temel direklerinden biridir; etkili bir vergi düzeni hem adaletten eğitime uzanan hizmetleri finanse eder hem de y",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu kapasitesi zayıf olan devletler için yardım gerekli bir ikame gibi görünse de kurumsal gelişmeyi zayıflatma ihtimali taşır: gelirinin daha büyük bir bölümünü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Angus Deaton 2013'te The Great Escape ile bu kuşkucu bilançoya kendi adını ekledi: kitabın savunduğu teze göre uluslararası yardım etkisiz, hatta zararlı olmuşt",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bağlı yardım — paranın bağışçı ülkenin ürünlerine harcanması şartı — yardımı bağışçının ticari hedeflerinin aracı yapar; savunucuları ise iyi tasarlanmış ve iyi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Parçalanma ayrı bir yüktür: kimi Afrika ülkelerinde sağlık çalışanları, Batılı heyetlerle görüşmekten asıl işlerini ancak akşamları yapabildiklerini söyler; Moz",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir çalışma, dalgalanmaya bağlanan kaybı Avrupa Birliği'nden gelen programlanabilir yardımın ortalama yüzde 10 ilâ 20'si olarak ölçmüştür.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bağışçılar ve gelişmekte olan ülkeler, artan finansmanın kendi başına yetmediğini kabul edip paranın Binyıl Kalkınma Hedefleri'ne olabildiğince iyi hizmet etmes",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Paris Bildirgesi ile bu forumların öteki sonuçları, daha iyi kalkınma sonuçları için ne yapılması gerektiğine dair geniş bir uzlaşıyı cisimleştirdi.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Bildirgesi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bildirgenin önceliklerinden biri, yerel sistemlere paralel işleyen yardım düzeneklerini azaltmaktı; 2011'den sonra bu hareket, daha geniş kapsamlı bir etkili ka",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ortalama etki sorusunda regresyon literatürü kırılgandır ve iki dönemin bulguları farklı yönleri göstermiştir; tikel program sorusunda deneysel kanıt birikmekte",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ortalama etki sorusunda regresyon literatürü kırılgandır ve iki dönemin bulguları farklı yönleri göstermiştir; tikel program sorusunda deneysel kanıt birikmekte",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Ortalama etki sorusunda regresyon literatürü kırılgandır ve iki dönemin bulguları farklı yönleri göstermiştir; tikel program sorusunda deneysel kanıt birikmekte",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Açık kalanlar da bellidir: iyi politika koşulunun ölçülebilir olup olmadığı, deney sonuçlarının ölçek büyütmeye dayanıp dayanmayacağı, kaynak ikamesi altında bi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }
   ]
 }

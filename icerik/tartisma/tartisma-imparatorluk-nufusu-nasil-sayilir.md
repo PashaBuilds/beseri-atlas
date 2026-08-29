@@ -346,7 +346,7 @@ olduğu ayrı bir açık sorudur ve resmi toplamların hangi yıllarda kişi, ha
 yıllarda yükümlü saydığı hâlâ tartışılır.[^k8] Buradan çıkan kural sayının
 reddi değil, terbiyesidir: tarihsel bir nüfus değeri nokta değil aralık olarak
 okunur, kapsamı ve ölçütü yanına yazılır. Aralığın nasıl okunacağı
-[Tarihsel bilanço sayıları nasıl okunmalı?](/tartisma/tarihsel-sayilar-nasil-okunur/)
+[Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
 haritasında sürdürülüyor.
 
 ## Bu harita hakem değildir

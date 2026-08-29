@@ -17,6 +17,7 @@ ilgili:
   - olay-tunc-cagi-cokusu
   - aktor-misir-yeni-kralligi
   - aktor-asur-imparatorlugu
+  - tartisma-tunc-cagi-cokusunun-nedeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -16,6 +16,7 @@ ilgili:
   - aktor-britanya-imparatorlugu
   - kavram-imparatorluk
   - tartisma-feodalite-kavrami
+  - tartisma-1929-krizinin-nedeni
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

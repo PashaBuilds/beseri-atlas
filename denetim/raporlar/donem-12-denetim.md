@@ -1,5 +1,5 @@
 ## donem-12
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:47:58.477Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:24.283Z_
 
 - [OK]      k1 → "Yeni Emperyalizm çağında Avrupa güçleri ve Japonya, Afrika'nın neredeyse tamamını ve Asya'nın bazı kısımlarını…"
 - [OK]      k1 → "Kıtanın paylaşımı dönemin en yoğun incelenen olgusudur; Berlin Konferansı, Britanya sömürgeleri ve Kongo Serbe…" — 2 atom doğrulandı; 2 ad ölçülemedi

@@ -1,5 +1,5 @@
 ## kavram-egemenlik
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:10.582Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:36.466Z_
 
 - [ATOMSUZ] k1 → "Kaynak, tanım ve türler başlığı altında üç alt başlık tutar: mutlaklık, dışlayıcılık ile hukuken ve fiilen ege…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Aynı kavram için hukuki ve fiilî durumların ayrı ayrı tanımlanması, atlasın aktör dosyalarında neden devlet bi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -36,6 +36,7 @@ ilgili:
   - aktor-olmek
   - aktor-moche
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - tartisma-osmanli-gerileme-tezi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

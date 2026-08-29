@@ -32,6 +32,7 @@ ilgili:
   - tartisma-kesif-mi-istila-mi
   - olay-fransiz-devrimi
   - olay-haiti-devrimi
+  - tartisma-fransiz-devrimi-yorumlari
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -1,5 +1,5 @@
 ## veri-fosil-elektrik-payi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:15.649Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:41.612Z_
 
 - [OK]      k1 → "Dünyada üretilen elektriğin ne kadarının kömürden, petrolden ve doğal gazdan geldiğini sayan bu seri, 1900'den…"
 - [OK]      k1 → "Payın 1900 değeri yüzde 58,78, 2025 değeri yüzde 57,39'dur; yüz yirmi beş yılın iki ucu arasındaki fark 1,39 p…"

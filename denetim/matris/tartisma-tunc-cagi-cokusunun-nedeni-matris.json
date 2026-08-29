@@ -1,0 +1,392 @@
+{
+  "id": "tartisma-tunc-cagi-cokusunun-nedeni",
+  "govde_hash": "199a37bcfbd2",
+  "commit": null,
+  "zaman": "2026-08-29",
+  "hakem": "TASLAK-yazar",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Yayıncı tanıtımına göre Cline'ın 2014 tarihli kitabının çıkış noktası bile bir olumsuzdur: Deniz Kavimleri MÖ 1177'de Mısır'a saldıran gruplar olarak kayda geçmiş olsalar da, bu genişlikte bir dağılmayı kendi başlarına üretemezlerdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog sayfasindaki yayinci tanitimi birebir tasiyor: 'In 1177 B.C., marauding groups known only as the \"Sea Peoples\" invaded Egypt' ve 'But the Sea Peoples alone could not have caused such widespread breakdown.' Ancak archive.org details sayfasi kitabin kendi metnini tasimaz; govde de zaten 'yayinci tanitimina gore' diye acik kayit dusuyor. Bu yuzden KISMI."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "cildinde, 99–149 sayfaları arasında yayımladığı geniş inceleme, tartışmayı \"Crisis in Context\" başlığıyla yeniden açar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ustveri kaydi: title 'Crisis in Context: The End of the Late Bronze Age in the Eastern Mediterranean', container 'American Journal of Archaeology', volume 120, page 99-149, issued 2016, yazarlar Knapp ve Manning. Iddia yazar/yil/dergi/cilt/sayfa duzeyinde kaldigi icin ustveri kaydi DOGRUDAN yeter."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Yazıtın kuzey savaşı bölümü, Breasted'ın çevirisinde kuzeydeki ülkelerin adalarında kımıldandığını, Kheta'dan Kode'ye, Karkamış'tan Arvad ve Alaşiya'ya kadar ülkelerin harap edildiğini anlatır; saldıran güçler Peleset, Thekel, Shekelesh, Denyen ve Weshesh adlarıyla sayılır ve metin bu ülkeler için \"Not one stood before their hands\" der.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tam metin, 400k penceresi icinde (§64, imleç ~111.000). Birebir: 'the \"Northerners\" in their isles were disturbed ... Not one stood before their hands, from Kheta (Ht), Kode (Kdy), Carchemish, Arvad, Alasa, they were wasted.' ve 'Their main support was Peleset, Thekel, Shekelesh, Denyen, and Weshesh.' Kaynakta 'Alasa' yazili; govde 'Alasiya' diyor — ayni yer adinin yaygin karsiligi, sapma yok."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Breasted, 1906'da yayımladığı derlemenin kendi yorumunda olup bitenin basit bir akın değil bir halklar göçü olduğunu ileri sürer; kadınları, çocukları ve öküz arabalarıyla yola çıkmış toplulukların Anadolu kıyısı boyunca doğuya ilerlediğini ve kuzey Suriye'yi Karkamış'tan Arvad'a kadar yağmaladığını anlatır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "§59-60 (imleç ~101.000): 'accompanied by their wives, children, and belongings, in clumsy ox carts, left their homes, and moving eastward along the coast of Asia Minor, penetrated Syria'; 'In the author's opinion, this movement was really a \"Volkerwanderung,\" not merely an invasion'; 'from Carchemish ... as far south as Arvad ... they plundered the country.' Cevirmenin YORUMU oldugu govdede acikca isaretli."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Aynı ciltte Breasted, Peleset'in sonradan İncil'deki Filistinlilere dönüşen topluluk olabileceğini, Thekel'in Sicilya'nın Sikeli'si, Denyen'in ise Danaoi ile ilişkili olabileceğini yazar; Weshwesh'in kökenini belirsiz bırakır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'the probably Cretan Peleset, a settlement of whom later became the biblical Philistines; the Thekel, who may be the Sikeli, later of Sicily; the Shekelesh, the Denyen or Danaoi, and the Weshwesh (§64, l.18), who are of uncertain origin.' Govdedeki 'olabileceğini' kipi kaynagin 'may be / probably' kipiyle ortusuyor."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Yerinden olmuş toplulukların bir sebep mi yoksa bir sonuç mu olduğu yazıttan okunamaz; yazıt yalnızca Peleset ile Denyen'in geldiğini ve püskürtüldüğünü söyler.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cumlenin olculebilir yarisi k1'de birebir: §64 Peleset ile Denyen'i saldiranlar arasinda sayar, kabartma yazitlari 'Utterance of the vanquished of Denyen' ve 'the vanquished of Peleset' der (imleç ~134.800) — yani gelis ve puskurtulme. k2 ayni olayi 'A second attack ... involved Peleset, Tjeker, Shardana, and Denyen' ve 'the defeat of the invading Sea Peoples' diye ozetler, ama sebep/sonuc hukmu k2'de yok; o hukum makalenin kendi yontem cikarimi, bu yuzden k2 KISMI."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Şuppiluliuma'nın çağdaşıydı; Ammurapi'nin saltanatına ait kesin tarihler ise bilinmiyor.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'The last Bronze Age king of Ugarit, Ammurapi, was a contemporary of the last-known Hittite king, Suppiluliuma II. The exact dates of his reign are unknown.'"
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Ammurapi'nin Alaşiya kralına yazdığı RS 18.147 numaralı mektup, düşman gemilerinin geldiğini, kentlerinin yakıldığını, askerlerinin ve savaş arabalarının Hatti ülkesinde, gemilerinin ise Lukka'da olduğunu bildirir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mektup metni k2'de aktarilmis: 'my cities[?] were burned ... all my troops and chariots[?] are in the Land of Hatti, and all my ships are in the Land of Lukka ... the seven ships of the enemy'. Kunye dogrulama dizesi de bu pasajdan. k2 ansiklopedi oldugu icin mektubun kendisi degil aktarimi olculdu; makale zaten 'bildirir' diyerek aktarim kipinde kaliyor."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Kıbrıs'taki üst düzey yönetici Eshuwara'nın RS 20.18 numaralı cevabı, saldırıyı yapanların Ugarit'in kendi halkı ve kendi gemileri olduğunu söyler; Karkamış'tan gönderilen yardım ise kent yağmalandıktan sonra ulaşır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'Eshuwara, the senior governor of Cyprus, responded in letter RS 20.18: ... [It was] the people from your country [and] your own ships [who] did this!' ve 'The ruler of Carchemish sent troops to assist Ugarit, but Ugarit had already been sacked.'"
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "İç çözülme ile dış saldırı arasındaki ayrım, kaynakların kendi düzeyinde bile bulanıktır; yayıncı tanıtımına göre Cline'ın çizdiği dizi de istiladan isyana, depremden kuraklığa ve uluslararası ticaret yollarının kesilmesine uzanan birbirine geçmiş başarısızlıklardan oluşur.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki mektup k2'de yan yana duruyor (i08, i09) ama 'bulaniktir' hukmu makalenin kendi okumasi — k2 bu hukmu kurmuyor, bu yuzden KISMI. k4 tarafi yayinci tanitiminda birebir: 'multiple interconnected failures, ranging from invasion and revolt to earthquakes, drought, and the cutting of international trade routes'; katalog sayfasi kitabin metni olmadigindan yine KISMI."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Bölümün başlığı savı özetler: \"Systems Collapse as Social Transformation\" — çöküş, erken devlet toplumlarında bir yıkım anı olarak değil bir dönüşüm biçimi olarak ele alınır ve katastrofla anastrof birlikte adlandırılır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydinda baslik tam hâliyle duruyor: 'Systems Collapse as Social Transformation: Catastrophe and Anastrophe in Early State Societies', container 'Transformations', 1979, s. 481-506, yazar Renfrew. Iddia BASLIK duzeyinde kaldigi — 'bolumun basligi savi ozetler' dedigi — icin ustveri kaydi DOGRUDAN yeter; kayitta ozet alani yok, govde de baslik disina cikmiyor."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Saray düzeninin çözülmesi yazının, merkezî depolamanın ve uzun mesafeli ticaretin birlikte gerilemesi demekti; aynı çözülmenin ardından Fenikeliler özerkliklerini ve güçlerini artırdı, metalürjideki kademeli değişim ise Avrupa, Asya ve Afrika boyunca Demir Çağı'na geçişi getirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'Other cultures, such as the Phoenicians, enjoyed increased autonomy and power'; 'Following the collapse, gradual changes in metallurgic technology led to the subsequent Iron Age across Europe, Asia, and Africa'; 'The deterioration of these governments interrupted trade routes and led to severely reduced literacy rates'. 'Merkezi depolama' ifadesi kaynagin 'palace economy system, in which wealth is first concentrated in a centralized bureaucracy before being redistributed' tanimina karsilik geliyor."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "başlıklı kitabı aynı çerçeveyi geniş bir okur kitlesine taşır; MÖ 1177'yi bir olay tarihi olarak değil bir kırılmanın etiketi olarak kullanır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ustveri kaydi kunye yarisini DOGRUDAN veriyor: title '1177 B.C.: The Year Civilization Collapsed', author Eric H. Cline, publisher 'Princeton University Press', issued 2014-03-23. Cumlenin ikinci yarisi (tarihin 'etiket' olarak kullanildigi) kayitta yok — kayitta ozet alani da yok. Bu yuzden cumle butun olarak KISMI."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Yayıncı tanıtımına göre Cline'ın savı, çöküşün istiladan isyana, depremden kuraklığa uzanan çok sayıda bağlantılı başarısızlıktan doğduğudur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog sayfasindaki tanitim birebir: 'the end was brought about by multiple interconnected failures, ranging from invasion and revolt to earthquakes, drought, and the cutting of international trade routes'. archive.org details sayfasi kitabin icerigini tasimadigi icin KISMI; govde de atfi 'yayinci tanitimina gore' diye sinirliyor."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Drews, 1993 tarihli kitabında depremi, göçü, demir işçiliğini, kuraklığı, sistem çöküşünü ve akıncıları ayrı ayrı ele alıp yetersiz bulur; yayıncı tanıtımına göre geleneksel açıklamaları bırakıp yerine askeri bir açıklama önerir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Katalog kaydinda icindekiler dizisi birebir: 'Earthquakes -- Migrations -- Ironworking -- Drought -- Systems collapse -- Raiders'; tanitim: 'Robert Drews rejects the traditional explanations and proposes a military one instead. --From publisher's description'. 'Yetersiz bulur' hukmu tanitimin 'rejects' ifadesinden turetiliyor, kitabin metninden degil; katalog sayfasi kural geregi icerik icin KISMI."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Kaniewski ve ekibinin 2013'te yayımladığı çalışma, Kıbrıs'tan alınan paleoiklim verisini radyokarbon temelli bir kronolojiyle birleştirir ve yaklaşık 3200 yıl önce gerçekleşen çöküşü ani iklim değişimine bağlı kıtlıkla ilişkilendirerek bu kıtlığı Kıbrıs ve Suriye'deki istilalarla aynı dizinin halkaları sayar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Semantic Scholar kaydinda OZET var ve iddianin her ogesini tasiyor: 'collapsed famously 3200 years ago'; 'we report palaeoclimate data from Cyprus ... alongside a radiocarbon-based chronology ... which reveal the effects of abrupt climate change-driven famine and causal linkage with the Sea People invasions in Cyprus and Syria'. Ozet duzeyinde destek oldugu icin kural geregi KISMI (makalenin tam metni olculmedi)."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Levant ile Anadolu'da düzenler dağılırken Mezopotamya'daki Orta Asur Devleti ve Mısır'ın Yeni Krallığı zayıflamış hâlde varlığını sürdürdü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'The Hittite Empire spanning Anatolia and the Levant collapsed, while states such as the Middle Assyrian Empire in Mesopotamia and the New Kingdom of Egypt survived in weakened forms.' Bu, cevresel aciklamanin asimetri sinavini tasiyan iddia oldugu icin merkezi sayildi."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Amos Nur ile Eric Cline'ın Journal of Archaeological Science'ın 2000 yılındaki cildinde yayımladığı çalışma, Ege ve Doğu Akdeniz için levha hareketlerine dayanan bir \"deprem fırtınası\" kavramı önerir: aynı fay sistemi boyunca onlarca yıla yayılan bir sarsıntı dizisi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ustveri kaydi kunyeyi DOGRUDAN veriyor: 'Poseidon's Horses: Plate Tectonics and Earthquake Storms in the Late Bronze Age Aegean and Eastern Mediterranean', Nur ve Cline, Journal of Archaeological Science 27(1), 2000, s. 43-63. Ama kayitta ozet yok; cumlenin iki nokta sonrasindaki tanim ('ayni fay sistemi boyunca onlarca yila yayilan sarsinti dizisi') kayittan okunamiyor. Bu yuzden KISMI."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Bu kolun sınırı da kanıt katmanındadır; yıkılmış bir duvarın hangi kuvvetle yıkıldığı çoğu kazıda ayırt edilemez ve Drews depremleri de listeden düşürenler arasındadır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cumlenin kaynaga baglanan yarisi Drews'in 'Earthquakes' bolumunu ayri bir baslik olarak ele alip 'rejects the traditional explanations' demesidir — katalog sayfasindan okunuyor, kural geregi KISMI. Ilk yari (yikim katmaninin fail tasimamasi) makalenin kendi yontem hukmudur ve hicbir kunyeye yaslanmiyor; bu yuzden iddia 'yorum' turunde tutuldu."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Demir işçiliğinin Levant ve Ege'de artmasından doğan iktisadi bozulmalar, çöküşün olası etkenleri arasında düzenli olarak sayılır; aynı listede savaş arabası düzeninin gerilemesini getiren askeri değişim de yer alır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2 birebir: 'These include climate change, volcanic eruptions, droughts, disease, invasions by the Sea Peoples, economic disruptions due to increased ironworking, and changes in military technology and strategy that brought the decline of chariot warfare.' k5 ayni iki basligi ('Ironworking', 'The end of chariot warfare in the catastrophe') icindekiler dizisinde tasiyor ama katalog kaydi oldugu icin KISMI."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Kitabın 1993 tarihli içindekiler dizisi savaş arabası düzenini, aynı dönemin yaya askerlerini, Erken Demir Çağı'nın piyade ve atlı birliklerini, zırh ile silahlarda görülen değişimi sırayla ele alır ve savaş arabası düzeninin felaket içinde sona erişiyle kapanır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog kaydindaki icindekiler dizisi birebir ve ayni sirada: 'The chariot warfare of the late Bronze Age -- Footsoldiers in the late Bronze Age -- Infantry and horse troops in the early Iron Age -- Changes in armor and weapons at the end of the Bronze Age -- The end of chariot warfare in the catastrophe'. Dizinin kendisi sayfada dursa da archive.org details sayfasi kitabin ICERIGINI tasimadigi icin kural geregi KISMI."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Tartışma da kapanmadı: aynı yazar 2020'de Collapse and Transformation derlemesinde \"Catastrophe revisited\" başlığıyla savına geri döndü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydi: title 'Catastrophe revisited', author Robert Drews, container 'Collapse and Transformation', issued 2020-04-09, s. 229-236, yayinci Oxbow Books. Iddia yazar/yil/derleme/baslik duzeyinde kaldigi icin ustveri kaydi DOGRUDAN yeter."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Schachner'in 2024'te Anatolian Studies'te yayımladığı inceleme, son otuz yılda biriken bilimsel tarihleme ile Hattuşa'nın topografik olarak dağınık kesimlerini birbirine bağlamanın mümkün hâle geldiğini bildirir; yerleşme, üçüncü binyılın sonundan ikinci binyıl boyunca Demir Çağı'nın başlarına kadar sürekli kullanılmış az sayıdaki Anadolu yerleşmesinden biridir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Semantic Scholar ozeti birebir: 'The intense use of scientific dating over the last three decades makes it possible for the first time reasonably to connect the topographically diverse parts of the Hittite capital Hattusa' ve 'the settlement is one of the very few in Anatolia which was continuously used from the end of the third millennium BC through the second millennium until the beginning of the Iron Age'. Ozet duzeyinde destek oldugu icin KISMI."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Aynı inceleme, Schachner'in kurduğu tarihleme dizisine göre kentin ders kitaplarına giren genel planının modern araştırmanın ürettiği bir idealleştirme olduğunu söyler: Hattuşa her zaman bir şantiyeydi, yoğun yapılaşmış mahallelerin yanında her dönemde yıkıntı ya da açık alanlar bulunuyordu ve yerleşmenin hiçbir anda o plandaki genişlikte dolu olmadığı düşünülür.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozet birebir: 'The Hittite city of Hattusa was always a construction site. Next to densely built-up districts there existed at all times large expanses of either ruins of buildings or of open spaces ... The settlement's map, regularly reproduced as its overall plan, thus represents a status reconstructed or idealised by modern research. Most probably the settlement was at no time occupied to this extent.' Ozet duzeyinde oldugu icin KISMI."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Yirminci yüzyıl sonu ile yirmi birinci yüzyıl başındaki araştırma, çöküşün ölçeğinin ve kapsamının sanıldığından sınırlı olduğu görüşlerini getirdi; Drews'ın yıkılan kent sayısını fazla göstermiş olduğu yönündeki düzeltme de aynı yöne işaret eder.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'Scholarship in the late 20th and early 21st century introduced views that the collapse was more limited in scale and scope than previously thought' ve 'more recent research has shown that Drews overestimated the number of destroyed cities and referenced destructions that never happened' (Millek sayimiyla birlikte). Bu iddia 'dis saldiri' pozisyonunun zayif yanini tasidigi icin merkezi."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Uzun dönemli seride dünya nüfusu MÖ 1000 için yaklaşık 110,5 milyon verilir ve seri bu aralıkta bin yıllık adımlarla ilerler.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV'nin tam hâlinde deger dogrulandi: 'World,OWID_WRL,-1000,,110530464' (~110,5 milyon) ve komsu satirlar -3000/-2000/-1000/0, yani bin yillik adim. ANCAK getir/denetle 400k penceresinde kesiyor ve dosya alfabetik siralandigi icin 'World' satirlari pencerenin DISINDA kaliyor; pencerede yalnizca 'population_historical' sutun basligi gorunuyor. Mekanik yeniden dogrulama pencere icinde mumkun olmadigi icin DOGRUDAN degil KISMI. (Ayni sinir araclar/owid-indir.mjs basliginda da kayitli.)"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 14,
+    "kismi": 12,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "not_orkestrator": "2026-08-29: hakem sonrasi mekanik kapi onarimi (sema alani / kilitli terim / dipnot); icerik iddialari degismedi."
+}

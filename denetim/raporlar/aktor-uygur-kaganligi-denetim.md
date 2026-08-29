@@ -1,5 +1,5 @@
 ## aktor-uygur-kaganligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:08.231Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:34.069Z_
 
 - [OK]      k1 → "Uygur Kağanlığı, önceki bozkır düzeninin dağılmasından sonra aynı vadide kurulan siyasi birimdir."
 - [ATOMSUZ] k4 → "Uygur Kağanlığı, önceki bozkır düzeninin dağılmasından sonra aynı vadide kurulan siyasi birimdir." — programatik olarak ölçülemedi (ad karşılığı yok): Kağanlığı

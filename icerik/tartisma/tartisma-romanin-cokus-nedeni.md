@@ -35,6 +35,7 @@ ilgili:
   - kaynak-gibbon-roma
   - tartisma-osmanli-gerileme-tezi
   - tartisma-iklim-ve-cokus
+  - tartisma-tunc-cagi-cokusunun-nedeni
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

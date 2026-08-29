@@ -1,5 +1,5 @@
 ## kavram-kentlesme
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:11.357Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:37.246Z_
 
 - [ATOMSUZ] k1 → "Veri kümesinin sütun adı ölçümün ne olduğunu ve nasıl elde edildiğini birlikte taşır: kentsel alan türü için p…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir ölçünün sütun adında hem alan türünün hem veri türünün belirtilmesi, atlasın şu kuralının dayanağıdır: bu …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

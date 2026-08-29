@@ -14,7 +14,6 @@ guven_geneli: tartismali
 etiketler: [khmer, angkor, ekolojik-cokus, jayavarman, suryavarman]
 ilgili:
   - donem-07
-  - tartisma-tunc-cagi-cokusunun-nedeni
   - olay-kara-olum
   - aktor-majapahit
   - aktor-ayutthaya-kralligi

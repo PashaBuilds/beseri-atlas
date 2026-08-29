@@ -1,5 +1,5 @@
 ## aktor-ilhanlilar
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:05.846Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:31.700Z_
 
 - [OK]      k1 → "İlhanlılar, bugünkü İran'ı merkez alan ve batıda Anadolu'ya, doğuda Orta Asya'ya uzanan bir alanda kuruldu."
 - [OK]      k3 → "İlhanlılar, bugünkü İran'ı merkez alan ve batıda Anadolu'ya, doğuda Orta Asya'ya uzanan bir alanda kuruldu."

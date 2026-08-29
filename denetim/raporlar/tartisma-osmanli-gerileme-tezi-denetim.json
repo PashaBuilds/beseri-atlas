@@ -1,85 +1,271 @@
 {
   "id": "tartisma-osmanli-gerileme-tezi",
   "gecis": 2,
-  "zaman": "2026-08-29T04:48:14.299Z",
-  "govde_hash": "7b4b8bdb2d43",
-  "commit": "58a10ea",
+  "zaman": "2026-08-29T11:11:52.668Z",
+  "govde_hash": "9ea4062c5873",
+  "commit": "7549ec6",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl bir zamanlar Osmanlılar için bir gerileme dönemi olarak nitelenmişti, ancak 1980'lerden bu yana Osmanlı İmparatorluğu tarihçileri bu nitelemeyi giderek r",
+      "iddia": "Osmanlı örneğinde bu karar uzun süre hazır geldi: Kanuni Sultan Süleyman'ın 1566'daki ölümü zirve sayıldı, 1699'daki Karlofça Antlaşması dönüm noktası ilan edil",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak dönemi yaklaşık 1550 ile yaklaşık 1700 arasına yerleştirir; Kanuni Sultan Süleyman'ın saltanatının sonundan Kutsal İttifak Savaşı'nın sonundaki Karlofça ",
-      "durum": "OK",
-      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir tarih yazımı tartışmasının belirli bir yüz elli yıla bağlanması, atlasın şu kuralının dayanağıdır: bu haritadaki pozisyonlar, imparatorluğun bütünü için değ",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, dönemin çok sayıda dramatik siyasi, toplumsal ve iktisadi değişimle nitelendiğini ve bunların imparatorluğu yayılmacı, patrimonyal bir devletten adaleti",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynağın bu geçişi adlandırmak için kullandığı iki terim, dönemin kendi sözcükleri değildir; atlas bu terimleri Türkçeye çevirirken dönemin diline yakın karşılı",
+      "iddia": "Bir yanda yaklaşık 1550 ile 1700 arasını gerileme dönemi olarak okuyan çerçeve, öte yanda aynı yılları kriz, uyum ve dönüşüm diye adlandıran ve 1980'lerden bu y",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Bu, bir zayıflama değil bir tür değişimi tarifidir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Osmanlı tarihinin yerleşik zaman çizelgesinde 1566 ile 1703 arası dönüşüm, 1789 ile 1908 arası ise gerileme ve modernleşme başlığını taşır.",
+      "durum": "OK",
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "yüzyıllardaki bir dizi siyasi ve iktisadi krizden kaynaklandığını ve bu krizlerin enflasyon, savaş ve siyasi hizipleşmeden doğduğunu yazar; buna rağmen imparato",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k2",
+      "iddia": "Murad ile Sultan İbrâhim'e sunduğu risâlelerle tanınan Koçi Bey, 1632'de sunulan arzlarının yazıldığı sırada saray içinden gelen yaşlı bir emektardı ve gördüğü ",
+      "durum": "OK",
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Aynı paragrafın hem krizi hem gücün sürdüğünü kaydetmesi, üçüncü pozisyonun dayanağıdır.",
+      "anahtar": "k2",
+      "iddia": "Murad'ın son saltanat yıllarına götürür, aynı Kanûnî çağını ise imparatorluğun kudretinin zirveye eriştiği zaman olarak kabul eder.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Devletin kendisi için tutulan bağımsız bir kayıt, Osmanlılar maddesi olarak ayrı bir ansiklopedide bulunur.",
+      "iddia": "Çare olarak önerdiği şey de bir yenilik değil bir geri dönüştür: kanûn-ı kadîm dediği eski usullere dönülürse devletin eski gücünü kazanacağına inanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Koçi Bey kapıkulunun tâbi olduğu devşirme rejiminin delindiğini, ilmiye mansıplarının rüşvet ve kayırmayla dağıtıldığını, keyfî azillerin devleti yetişmiş kadro",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k3",
-      "iddia": "Aynı kategori sorununun bir başka örneği için tutulan kayıt, 1984'te 210 farklı kuramın sayıldığını yazar.",
+      "anahtar": "k2",
+      "iddia": "Bu liste tanıklığın gücünü ve zaafını aynı anda taşır: yazar gördüklerini istatistik karşılaştırmalarla anlatır, ama ölçütü hep sabittir — bugünkü hâl geçmiştek",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Risâlenin kendi bölüm başlıklarına göre kurgu şudur: zeâmet ile tımarın ilk önce neden bozulduğu, yeniçeri taifesinin ilk defa neden bozulduğu ve Sultan Süleyma",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "İki tartışmanın da \"çöküş\" kavramının kendisine itiraz eden bir kanat içermesi, atlasın bu kategoriyi neden kavram katmanında ayrıca tuttuğunun dayanağıdır; kav",
+      "iddia": "Yirminci yüzyılın tarihçileri bu yazarların bozulma betimlemesini uzun süre olgu olarak kabul etti ve imparatorluğu Kanuni'nin ölümünden sonra gerilemeye giren ",
       "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kanuni"
     },
     {
-      "anahtar": "k3",
-      "iddia": "İki tartışmanın da \"çöküş\" kavramının kendisine itiraz eden bir kanat içermesi, atlasın bu kategoriyi neden kavram katmanında ayrıca tuttuğunun dayanağıdır; kav",
+      "anahtar": "k2",
+      "iddia": "Koçi Bey'in kendi çağındaki itibarı da bu kalıbın gücünü gösterir: Hammer onu Montesquieu'nün Roma üzerine denemesiyle karşılaştırıp “Türk Montesquieusü” diye a",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Türkçe ansiklopedik değerlendirmenin kendisi de kalıbı böyle adlandırır: Koçi Bey'in eski nizama dönülürse düzelir diyen iyimserliği, günümüz tarihçilerince geç",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Çerçevenin kendisi, dönemin nasihatname yazarlarından başlayıp Avrupa merkezci ve oryantalist bakış açılarıyla pekişen bir kavramsallaştırma olarak tarif edilir",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Doğrulanabilen künye, Hamilton Gibb ile Harold Bowen'ın 1957'de Londra'da Oxford University Press tarafından basılan Islamic Society and the West cildine aittir",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k13",
+      "iddia": "Roger Owen'ın British Society for Middle Eastern Studies bülteninde 1976'da çıkan yazısı, on sekizinci yüzyıl Ortadoğu'sunu anlatmak için kullanılan “gerileyen ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Etiketin ne kadar erken yapıştığını görmek içinse yalnızca bir tarihe bakmak yeter: imparatorluğun Avrupa'daki hâkimiyeti en geniş sınırlarına 1682'de ulaşmıştı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Cemal Kafadar'ın 1999 tarihli The Question of Ottoman Decline başlıklı yazısı soruyu daha adında ortaya koyar; üst veri kaydı yazıya 81 atıf yapıldığını gösteri",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Kafadar aynı sorunun kaynağını başka bir yazısında doğrudan adlandırır: 2010'da yayımlanan bölümün başlığı, Süleyman sonrası Osmanlı tarih bilincindeki altın ça",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Dana Sajdi'nin 2007 tarihli Ottoman Tulips, Ottoman Coffee derlemesine yazdığı giriş bölümü ise tartışmayı kültür tarihine taşır ve daha başlığında gerilemenin ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı kaynakçada Abou-El-Haj'ın modern devletin doğası üzerine kitabı, Darling'in vergi toplanması ve maliye yönetimi incelemesi ve Fleischer'in Mustafa Âli çalı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Reddiyenin ulaştığı yer, ansiklopedik özetlerde bile keskindir: nasihatname edebiyatının ve Osmanlı uygarlığının sayısız başka yönünün yeniden incelenmesinden s",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kaydın dipnotunda alanın yerleşik kanaati Christine Woodhead'in cümlesiyle özetlenir: “Ottomanist historians have largely jettisoned the notion of a post-1",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Merkezî maliye kadrosu 1549'da yalnızca 38 maaşlı kâtipten oluşurken 1593'te 183'e çıkmıştı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kapıkulu ordusu aynı yıllarda daha da hızlı büyüdü: 1574'te 29.175 olan mevcut 1609'da 75.868'e ulaştı ve yüzyılın geri kalanında bu düzeyde kaldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gelir tarafında da artış vardır; merkezî hazine geliri 1560'ta 183 milyon akçeden 1660'ta 581 milyon akçeye, yani %217 oranında yükseldi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "On altıncı yüzyılda süvari, piyadeden üç ya da dört kat fazlaydı; 1690'lara gelindiğinde sahra ordusundaki piyade oranı %50 ile 60 arasına, komşu Habsburg ordus",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Maaşlı merkezî ordunun ücreti bütçenin en ağır kalemiydi ve zaman zaman merkezî bütçenin yarısından fazlasını yutuyordu.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynağın kendisi bir nitelemenin reddedildiğini kaydeder ama yerine geçen çerçevenin doğruluğu konusunda bir hüküm vermez; bu atlas da vermez.",
+      "iddia": "Osmanlı bütçesi yüzyılın büyük bölümünde ortalama %14 açık verdi; farkı kapatan şey büyük ölçüde Mısır'dan her yıl İstanbul'a gönderilen yaklaşık 72 milyon akçe",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Akçenin değeri 1585'teki ağır tağşişten sonra istikrarsızlaştı ve bazı bölgeler günlük kullanım için sahte Avrupa sikkesi ithal etmeye başladı; düzen ancak 1690",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Şevket Pamuk'un bu döneme ayırdığı incelemede durum şöyle özetlenir: “debased European coinage circulated widely in Ottoman markets at values far above their sp",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Aynı çalışmanın kaynakçası, İnalcık'ın 1600 ile 1700 arasındaki mali ve askerî dönüşümü konu edinen 1980 tarihli makalesini de içerir; yani parasal bunalımı dön",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sefer yoklamaları, seferlere katılan sipahi sayısının 1616'da 14.867, 1621'de 15.058 iken 1655'te 6052'ye düştüğünü gösterir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tımarların değeri sabit kalırken 1584 sonrasında enflasyon %100'e ulaşmış, teçhizat pahalanmış ve uzun mesafeli sefere katılmak sipahi için imkânsız hale gelmiş",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Avusturya ordusunun artan ateşli silah gücü karşısında yetersiz kalan sipahilerin yerini seferlerde giderek yeniçeri, sekban ve saruca gibi maaşlı birlikler ald",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tımar tasfiye edildikçe daha önce yerelde dağıtılan vergi gelirleri doğrudan tahsil ya da iltizam yoluyla İstanbul'a aktarıldı ve bu merkezîleşmiş mali düzeni y",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Douglas Howard'ın 2017'de Turkish Historical Review'da yayımlanan değerlendirmesi, tımar araştırmasının bir kuşak boyunca neden terk edildiğini iki nedene bağla",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Aynı değerlendirme, konuya dönen yeni ilginin ulusötesi temalar ve araştırma gündemini açık etme kaygısıyla beslendiğini yazar; yani bir kurumun ne kadar çalışı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Büşra Ersanlı'nın 2002'de The Ottomans and the Balkans derlemesine yazdığı bölüm, Kemalist dönem tarih yazımında Osmanlı İmparatorluğu'nun ölümcül bir gerileme ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Türkçe akademik literatürdeki değerlendirme aynı iki damarı birlikte adlandırır: paradigma, “Osmanlı nasihatname yazarlarından başlayıp Avrupa merkezci-oryantal",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Toprak kaybı gerçekten yaşandı: 1683 Viyana kuşatmasının başarısızlığından sonra Kutsal İttifak kuvvetleri Osmanlıları Macaristan'dan çıkardı ve 1699'daki antla",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayıt, bu yenilgilerin askerî zayıflık kanıtı sayılmasına yakın zamanda itiraz edildiğini, karşı tarafın koalisyon büyüklüğüne ve çok cepheli savaşın lojis",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Sajdi'nin bölüm başlığındaki hoşnutsuzluk vurgusu da bunu ima eder: eleştirinin kendisi de bir kültür tarihi nesnesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Klasik çerçeve tanıklığa, dönüşüm okuması kurumsal seriye, mali-askerî okuma mekanizmaya, tarih yazımı eleştirisi kullanıma, ölçüt itirazı da yöntemin kendisine",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birincisi ölçüt sorusudur: kâtip kadrosunun dört katına çıkarıldığı bir yüzyıl ile toprağın kaybedildiği bir yüzyıl aynı yüzyıldır ve hangisinin dönemin adını b",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

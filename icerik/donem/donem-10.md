@@ -40,6 +40,7 @@ ilgili:
   - kavram-zorunlu-emek-duzeni
   - aktor-portekiz-imparatorlugu
   - aktor-ryukyu-kralligi
+  - tartisma-osmanli-gerileme-tezi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

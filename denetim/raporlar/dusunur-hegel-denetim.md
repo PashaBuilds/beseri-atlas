@@ -1,5 +1,5 @@
 ## dusunur-hegel
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:08.949Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:34.819Z_
 
 - [OK]      k1 → "von Schelling ile birlikte anılan bir düşünür olarak kaydeder; 1770'te Stuttgart'ta doğduğu ve 1788-1793 arası…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak felsefesine dair okumaları alt başlıklar hâlinde sıralar: geleneksel metafizik görüş, kimi zaman metafi…"

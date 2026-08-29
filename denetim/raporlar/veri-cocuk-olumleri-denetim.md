@@ -1,5 +1,5 @@
 ## veri-cocuk-olumleri
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:15.363Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:41.321Z_
 
 - [OK]      k1 → "Seri 1800'de yüzde 42,8 ile başlar ve 2024'te yüzde 3,74 ile biter."
 - [ATOMSUZ] k1 → "Bu dosyanın veri dosyası alanında kayıtlı CSV, kaynaktan indirilen dünya toplamı satırlarını içerir." — programatik olarak ölçülemedi (ad karşılığı yok): CSV

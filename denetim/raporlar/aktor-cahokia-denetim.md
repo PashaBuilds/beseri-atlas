@@ -1,5 +1,5 @@
 ## aktor-cahokia
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:04.818Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:30.681Z_
 
 - [OK]      k1 → "Louis'nin tam karşısında kurulmuş bir kentti; 1050 dolayında köy ölçeğinden kent ölçeğine sıçradı ve 1350'ye d…"
 - [OK]      k1 → "En geniş döneminde yaklaşık on altı kilometrekareye yayılıyor, aralarında Monks Mound'un da bulunduğu yüz yirm…"

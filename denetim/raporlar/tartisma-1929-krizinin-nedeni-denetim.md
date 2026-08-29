@@ -1,17 +1,58 @@
 ## tartisma-1929-krizinin-nedeni
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:12.787Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T11:04:12.064Z_
 
-- [ATOMSUZ] k1 → "Bu haritanın çıkış noktası kaynağın içindekiler yapısıdır: nedenler tek bir listede değil, ayrı katmanlarda du…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, genel kuramsal muhakeme başlığını ikiye ayırır: ana akım kuramlar ve heterodoks kuramlar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Ana akım başlığı altında Keynesyen ve Monetarist alt başlıkları; heterodoks başlığı altında ise Avusturya Okul…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "Kaynak, ana akım başlığı altında ayrıca modern parasal olmayan açıklamalara yer verir ve bunların altında borç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Aynı ailenin içinde birden çok mekanizmanın bulunması, "Keynesyen açıklama" ifadesinin de tek bir cümleye indi…"
-- [ATOMSUZ] k1 → "Kaynak, tikel neden kuramları başlığı altında dokuz mekanizma sayar: borç deflasyonu dışı açıklamalar, üretken…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir tartışmanın dokuz ayrı mekanizmaya bölünebilmesi, atlasın şu kuralının dayanağıdır: neden cümlesi kurulurk…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Roosevelt 1933-45."
-- [OK]      k1 → "Aynı kaynağın Roosevelt dönemi için hem toparlanmanın anahtarı hem bunalımın uzaması yönünde savlar başlığı tu…"
-- [ATOMSUZ] k3 → "Kaynağın saydığı mekanizmalardan biri için tutulan kayıt, onu hesap biriminin sabit miktarda altına dayandığı …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Bir para sisteminin tanımının bu kadar dar olması, onu terk etme kararının neden bu kadar geniş sonuçlara bağl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Kişi başı GSYH serisinde dünya değeri 1929'da yaklaşık 2.184 uluslararası dolar, 1932'de yaklaşık 1.947 ulusla…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Ağustos 1929'da yüzde 3 olan Amerikan işsizlik oranı Mart 1933'te yüzde 25'e çıkmıştı."
+- [OK]      k1 → "Aynı aralıkta sanayi üretimi endeksi 114'ten 54'e, yani yüzde 52,6 geriledi; para arzı yüzde 35 daraldı, fiyat…"
+- [OK]      k6 → "Bunalımın hangi düzeneğe bağlanacağı, bir sonraki daralmada merkez bankasının ne yapması gerektiğine dair örtü…"
+- [OK]      k1 → "Randall Parker'ın iktisat tarihi ansiklopedisi için hazırladığı değerlendirme bugünkü ağırlık dağılımını şöyle…"
+- [ATOMSUZ] k1 → "Popüler anlatı borsa çöküşü ile bunalımı aynı olay sayar; iktisatçılar saymaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "NBER iş çevrimi kayıtları bunalımın başlangıcını Ağustos 1929'a, yani borsanın Ekim'deki çöküşünden öncesine t…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k7 → "Çöküşü merkeze alan anlatının klasik metni John Kenneth Galbraith'in 1955'te yayımlanan The Great Crash, 1929 …"
+- [OK]      k11 → "Çöküşü merkeze alan anlatının klasik metni John Kenneth Galbraith'in 1955'te yayımlanan The Great Crash, 1929 …"
+- [OK]      k11 → "Kitap 1929 borsa çöküşünü “rampant speculation in the stock market” diye tarif ettiği azgın spekülasyona bağla…"
+- [ATOMSUZ] k11 → "Galbraith bunu yazarken tarihçinin işini de tanımlıyordu: çöküşün hafızada taze tutulması, yinelenmesine karşı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Mishkin 1978'de hane bilançolarının bozulmasına ve dayanıklı tüketim ile konut harcamasının ertelenmesine işar…"
+- [OK]      k3 → "Tartışmanın ekseni 1963'te Milton Friedman ile Anna Schwartz'ın A Monetary History of the United States, 1867-…"
+- [OK]      k1 → "Kitap para arzındaki yüzde 35'lik düşüşe “The Great Contraction” adını verir ve reel ekonominin finansal kesim…"
+- [OK]      k1 → "Ekim 1930'da başlayan banka iflası dalgaları bu okumada iki yönlü iş görür: banka hissedarlarının serveti erir…"
+- [OK]      k1 → "1913'te son merci ödünç veren olsun diye kurulan Federal Rezerv, likidite arayan bankalara cömertçe borç verme…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Friedman ile Schwartz'a göre daralma boyunca kurumun elinde para arzının düşmesini engelleyecek alternatif pol…"
+- [OK]      k1 → "İkili, bu felcin başlangıcını New York Federal Rezerv Bankası başkanı Benjamin Strong'un 1928'deki ölümüne bağ…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Karşı-olgusal benzetimler savı destekler: para arzı Ekim 1929 öncesindeki yıllık yüzde 3,3'lük eğilimiyle sürd…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Meltzer 1976'da kurumun nominal ile reel faizi ayırt edemediğini gösterdi: nominal oranlar düşerken Federal Re…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Cecchetti ile Nelson ise deflasyonun bir kez başladıktan sonra kısa vadede öngörülebilir hâle geldiğini, dolay…"
+- [OK]      k1 → "Paul Samuelson parasal tabanın bunalım boyunca düşmediğini hatırlatır ve merkez bankasından gereken her ölçüde…"
+- [OK]      k1 → "Moses Abramovitz para arzının merkez bankasının denetleyemeyeceği içsel bileşenler taşıdığını, yani ters neden…"
+- [OK]      k4 → "Peter Temin itirazı 1976'da doğrudan kitabının başlığına taşıdı: Did Monetary Forces Cause the Great Depressio…"
+- [ATOMSUZ] k1 → "Temin'in bu evredeki savı, daralmanın itici gücünün para değil tüketim harcamasındaki özerk düşüş olduğudur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Sav zamanla aşındı: 1999'da Martha Olney, tüketimdeki düşüşün özerk olmadığını, hanelerin taksitli borç yükü a…"
+- [OK]      k1 → "Peşinatlar büyük, sözleşmeler kısaydı; kaçırılan bir taksit haciz getiriyor ve biriken bütün sermayeyi siliyor…"
+- [OK]      k1 → "Parker, özerk tüketim düşüşünü, konut yapımının çökmesini, borsa çöküşünün etkilerini, Romer'in belirsizlik sa…"
+- [OK]      k8 → "Irving Fisher'ın 1933'te Econometrica'da yayımlanan makalesi büyük bunalımların baskın etkenlerini aşırı borçl…"
+- [OK]      k1 → "Irving Fisher'ın 1933'te Econometrica'da yayımlanan makalesi büyük bunalımların baskın etkenlerini aşırı borçl…"
+- [ATOMSUZ] k1 → "Fiyat düzeyi ve nominal gelirler sert düştüğünde reel borç yükü ağırlaşır; borçlu ödeyemez hâle gelir, toplam …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Ben Bernanke'nin 1983 tarihli çalışması bu şemayı yeniden kurdu ve kendi katkısını ekledi."
+- [OK]      k1 → "Ben Bernanke'nin 1983 tarihli çalışması bu şemayı yeniden kurdu ve kendi katkısını ekledi."
+- [ATOMSUZ] k1 → "Bernanke'nin parasal okumaya üç itirazı vardır: sav finansal kesim ile toplam üretim arasındaki bağı tam açıkl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kredi görüşü diye anılan ekleme şudur: olağan koşullarda fiyat düşüşü serveti borçludan alacaklıya aktaran iki…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Finansal paniklerin bir başka maliyeti de kredi aracılığının kendisidir: bilgi toplama ve piyasa yapıcılığı pa…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "James Tobin, 1931'de daralmanın karakterindeki değişimi banka paniklerinden çok karamsar beklentilerin doğuşun…"
+- [OK]      k1 → "John Maynard Keynes 1936'da beklentilerin durumu üzerine uzun uzun yazdı; buna karşın 1931-1933 için beklenti …" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Bu okumanın yaslandığı yazın — Eichengreen'in 1986 tarihli çalışmasından 1992'de yayımlanan Golden Fetters kit…"
+- [OK]      k1 → "Bu okumanın yaslandığı yazın — Eichengreen'in 1986 tarihli çalışmasından 1992'de yayımlanan Golden Fetters kit…"
+- [OK]      k1 → "Yüzde 40'lık kısmi altın karşılık oranıyla bir birimlik altın çıkışı yurt içi para arzını 2,5 birim düşürüyord…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Peter Temin 1989'da bu kampa katıldı ve altın standardına bağlılığı “The Midas Touch” diye adlandırdı."
+- [OK]      k1 → "İkisi birlikte Friedman ile Schwartz'ın politika hatası iddiasını reddeder: onlara göre parite savunulacaksa v…"
+- [ATOMSUZ] k1 → "Eichengreen'in vardığı sonuç, savaş öncesi standardı başarılı kılan şeyin ulusal değil uluslararası bir bağlıl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Standardı erken terk eden ülkelerde toparlanma erken başlar: hiç dönmeyen İspanya bunalımın en ağır etkilerini…" — 5 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Lawrence Officer'ın altın standardı tarihi bu takvimi kendi ayrıntısıyla doğrular ve dengeleyici bir not düşer…"
+- [OK]      k2 → "Aynı kayda göre çözülme çevre ülkelerde başladı, Mayıs 1931'de Avusturya'nın en büyük ticari bankasının batmas…" — 5 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Kindleberger 1973'te tartışmaya bir siyaset katmanı ekledi: savaş öncesi altın standardı Britanya'nın tartışma…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k6 → "Kitabın tanıtımı üç kavramı yan yana koyar: panik, bulaşmanın gücü ve önderlik." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Kitabın içindekiler listesi de tartışmanın kapsamını çizer: 1929 borsa çöküşü, uçuruma kayış, 1931, dünya ikti…"
+- [OK]      k6 → "Kırkıncı yıl basımının önsözünü Barry Eichengreen ile Bradford DeLong yazdı; yani rakip çerçevenin kurucusu, b…"
+- [OK]      k10 → "Maddison Project kişi başına GSYH serisinde dünya değeri 1920'de yaklaşık 2.493, 1940'ta yaklaşık 3.413 ulusla…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k10 → "İki çapa arasında bunalımın kendisi görünmez: dünya serisi on yıllık aralıklarla ilerlediği için 1929 zirvesi …"
+- [OK]      k1 → "Parker'ın kendi kaydı bile beklentilerin rolünü ayrı bir sav olarak ayırmadığını, çünkü 1931-1933 için ampirik…"
 
-**Özet:** 5 OK · 0 ISARET · 0 HATA · 7 ATOMSUZ
+**Özet:** 44 OK · 0 ISARET · 0 HATA · 9 ATOMSUZ

@@ -1,5 +1,5 @@
 ## kavram-veraset
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:12.545Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:38.456Z_
 
 - [ATOMSUZ] k2 → "Veraset kuralı, yetkiyi elinde tutan kişi öldüğünde yerine kimin geçeceğini belirleyen kuraldır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kuralın varlığı, uygulanacağını göstermez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

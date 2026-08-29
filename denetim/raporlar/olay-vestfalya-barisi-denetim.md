@@ -1,5 +1,5 @@
 ## olay-vestfalya-barisi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:03.515Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:29.377Z_
 
 - [ATOMSUZ] k1 → "Birçok uluslararası ilişkiler araştırmacısı Vestfalya Barışı'nı, topluca "Vestfalyan egemenlik" olarak bilinen…" — programatik olarak ölçülemedi (ad karşılığı yok): Vestfalya, Barışı, Vestfalyan
 - [ATOMSUZ] k1 → "Karşı görüş de aynı kaynakta yer alır: bazı tarihçiler bu değerlendirmeye karşı çıkmış ve böyle görüşlerin, on…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

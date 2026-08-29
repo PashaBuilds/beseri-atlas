@@ -1,5 +1,5 @@
 ## dusunur-ibn-sina
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:09.130Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:35.006Z_
 
 - [OK]      k1 → "İbn Sînâ, Sâmânî hâkimiyetindeki Buhara çevresinde doğdu ve yetişti; hayatının büyük bölümünü İran'ın çeşitli …" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "İbn Sînâ, Sâmânî hâkimiyetindeki Buhara çevresinde doğdu ve yetişti; hayatının büyük bölümünü İran'ın çeşitli …"

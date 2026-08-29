@@ -1,5 +1,5 @@
 ## olay-pers-yunan-savaslari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:02.790Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:28.645Z_
 
 - [ATOMSUZ] k1 → "Herodotos, eserinin ilk cümlesinde amacını doğrudan bildirir: insanlar tarafından yapılanların zamanla unutulm…" — programatik olarak ölçülemedi (ad karşılığı yok): Helenlerce
 - [ATOMSUZ] k1 → "İkincisi, iki tarafın da başarılarını kayda değer sayar: Helenler kadar barbarların da işleri anılır." — programatik olarak ölçülemedi (ad karşılığı yok): Helenler

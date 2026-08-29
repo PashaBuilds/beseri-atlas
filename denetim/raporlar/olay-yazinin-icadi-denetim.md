@@ -1,5 +1,5 @@
 ## olay-yazinin-icadi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:03.683Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:29.545Z_
 
 - [ATOMSUZ] k1 → "yüzyıldan önce yazının kökenine dair akademik kuramların çoğu bir tür monogenez varsayımı içeriyordu: yazının …" — programatik olarak ölçülemedi (ad karşılığı yok): Sümer
 - [ATOMSUZ] k1 → "Bu varsayımın yalnızca kanıttan gelmediği kaydedilir: kuramlar, Tekvin kitabının değişmez bir yorumunu ve o an…" — programatik olarak ölçülemedi (ad karşılığı yok): Tekvin, Mezopotamya

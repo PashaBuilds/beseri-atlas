@@ -56,8 +56,8 @@ Kaynak, kayıpları alışılmadık bir ayrımla verir: muharebe kayıplarının
 
 Bu ayrım, atlasın bilanço okuma yönteminin doğrudan malzemesidir. Muharebe dışı
 ölümlerin ayrıca sayılması, savaş kayıplarının yalnızca çarpışmadan ibaret
-olmadığını gösterir; ölçüm sorununun kendisi
-[Tarihsel bilanço sayıları nasıl okunmalı?](/tartisma/tarihsel-sayilar-nasil-okunur/)
+olmadığını gösterir; ölçüm sorununun kendisi ise
+[Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
 haritasında ele alınıyor.
 
 ## Öncesi bir anayasal tartışmadır

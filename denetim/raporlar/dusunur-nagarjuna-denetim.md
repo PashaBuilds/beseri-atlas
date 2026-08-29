@@ -1,5 +1,5 @@
 ## dusunur-nagarjuna
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:09.677Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:35.552Z_
 
 - [OK]      k1 → "Nāgārjuna, Güney Asya'da yaşamış ve bir düşünce çizgisinin kurucusu sayılan kişidir." — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k3 → "Nāgārjuna, Güney Asya'da yaşamış ve bir düşünce çizgisinin kurucusu sayılan kişidir." — 1 atom doğrulandı; 1 ad ölçülemedi

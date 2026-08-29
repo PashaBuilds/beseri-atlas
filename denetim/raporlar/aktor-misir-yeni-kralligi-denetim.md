@@ -1,5 +1,5 @@
 ## aktor-misir-yeni-kralligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:06.881Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:32.746Z_
 
 - [OK]      k1 → "Mısır Yeni Krallığı yaklaşık MÖ 1570 ile MÖ 1069 arasına tarihlenir." — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak, yayılmanın olası nedenini açıkça bir önceki dönemde arar: İkinci Ara Dönem'deki Hiksos yabancı yönetim…" — 1 atom doğrulandı; 3 ad ölçülemedi

@@ -1,85 +1,391 @@
 {
   "id": "tartisma-demografik-donum-sonuclari",
   "gecis": 2,
-  "zaman": "2026-08-29T04:48:13.272Z",
-  "govde_hash": "972c317b277d",
-  "commit": "58a10ea",
+  "zaman": "2026-08-29T11:04:35.134Z",
+  "govde_hash": "0c029893c9df",
+  "commit": "7549ec6",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, demografik geçişi toplumsal bilimlerdeki — özellikle demografideki — bir olgu ve bir kuram olarak tanımlar; toplumlar daha fazla teknoloji, eğitim (özel",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, geçişin son iki yüzyılda dünyanın çoğunda gerçekleştiğini; Malthus sonrası dönemin benzeri görülmemiş nüfus artışını getirdiğini ve ardından dünyanın bü",
+      "anahtar": "k2",
+      "iddia": "Phillip Longman 2004'te, düşen doğum hızlarının dünya refahını tehdit ettiğini savunan bir kitap yayımladı; kitabın alt başlığı savın kendisini taşıyordu.",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Aynı kayıt, geçişin iktisadi büyüme sürecini üç değişim yoluyla güçlendirdiğini ve bunların ilkinin sermaye seyrelmesinin azalması olduğunu kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir modelin hem nüfus artışını hem azalışını açıklaması, atlasın şu kuralının dayanağıdır: bir eğilim cümlesi, modelin hangi evresine ait olduğu yazılmadan kuru",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, ikinci demografik geçiş için ayrı bir başlık; modelin değerlendirilmesi için ise ayrı bir eleştirel değerlendirme başlığı tutar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Ülke bazlı tarihsel incelemeleri de ayrı ayrı sıralar: Britanya, İrlanda, Fransa, Hindistan, Kore, Çin, Madagaskar, Rusya ve Amerika Birleşik Devletleri.",
+      "anahtar": "k8",
+      "iddia": "On yıl sonra Ronald Lee ile Andrew Mason, kırk ülkenin ulusal transfer hesaplarına dayanan bir incelemeyle sonucu tersine çevirdi: ölçüt kişi başına tüketim old",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Tek bir modelin dokuz ülke için ayrı ayrı incelenmesi, modelin her yerde aynı biçimde işlemediğini gösterir.",
+      "anahtar": "k4",
+      "iddia": "Ölçüler ise iki tarafa da malzeme veriyor: bağımlılık oranı yükseliyor, kişi başına tüketim hesapları düşüşü cezalandırmıyor, projeksiyonlar revizyondan revizyo",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, Japonya'nın 1888-2019 arasındaki demografik geçişini örnek verir; nüfusun doğal olarak 38,6 milyondan 123,9 milyona çıktığını, hâlihazırda azalmakta old",
-      "durum": "OK",
-      "not": ""
+      "anahtar": "k8",
+      "iddia": "Ölçüler ise iki tarafa da malzeme veriyor: bağımlılık oranı yükseliyor, kişi başına tüketim hesapları düşüşü cezalandırmıyor, projeksiyonlar revizyondan revizyo",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bir ülkenin aynı model içinde hem artış hem azalış evresini yaşamış olması, modelin bir yön değil bir sıra öngördüğünü gösterir.",
+      "anahtar": "k5",
+      "iddia": "Ölçüler ise iki tarafa da malzeme veriyor: bağımlılık oranı yükseliyor, kişi başına tüketim hesapları düşüşü cezalandırmıyor, projeksiyonlar revizyondan revizyo",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Doğurganlık serisinde dünya değeri 1950'de yaklaşık 4,86 çocuk, 2023'te yaklaşık 2,25 çocuktur.",
+      "iddia": "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgang Lutz düşük doğurganlığın kendini besleyen bir tu",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Lee, Mason, Wolfgang, Lutz"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgang Lutz düşük doğurganlığın kendini besleyen bir tu",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgang Lutz düşük doğurganlığın kendini besleyen bir tu",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgang Lutz düşük doğurganlığın kendini besleyen bir tu",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Lee, Mason, Wolfgang, Lutz"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Demografi nüfusu üç kümeye böler: on beş yaşın altındaki çocuklar, on beş ile altmış dört arasındaki çalışma çağı ve altmış beş yaş üstü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bağımlılık oranı birinci ve üçüncü kümenin toplamını ikinciye böler; yüz kişilik bir çalışma çağı nüfusuna kaç bağımlı düştüğünü verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "2018'de dünyada altmış dört yaşın üstündeki insanların sayısı, beş yaşın altındaki çocukların sayısını tarihte ilk kez aştı.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Nüfus artış hızı serisinde dünya değeri 1963'te yaklaşık yüzde 2,20, 2023'te yaklaşık yüzde 0,91'dir.",
+      "iddia": "Dünya Sağlık Örgütü aynı kavşağı altmış yaş sınırıyla ve 2020 için kaydeder; aynı yerde altmış yaş üstü nüfusun payının 2015 ile 2050 arasında yüzde 12'den yüzd",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Örgütün kestirimine göre 2030'da her altı kişiden biri altmış yaş ve üstü olacak; altmış yaş üstü nüfus 2020'deki 1 milyar kişiden 1,4 milyara çıkacak.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Seksen yaş ve üstündeki insan sayısının 2020 ile 2050 arasında üçe katlanarak 426 milyona ulaşması bekleniyor; Dünya Sağlık Örgütü bütün ülkelerin sağlık ve sos",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Japonya'da 1950'de altmış dört yaş üstü her bir kişiye karşılık on beş yaşın altında yediden fazla çocuk vardı; 2021'de altmış dört yaş üstündekilerin sayısı on",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Nijerya'da aynı yıl bağımlıların yüzde 94'ü gençti.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "İki serinin farklı yıllarda zirve yapması, modelin iki ayağının aynı anda hareket etmediğini gösterir; seriler ve dosyalarında ele alınıyor.",
+      "iddia": "Longman'ın kitabı 2004'te Basic Books etiketiyle çıktı; içindekiler listesi savın iskeletini veriyor: kaybolan işgücü arzı, çocuğun maliyeti, yaşlanmanın maliye",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı çizginin daha ayrıntılı dökümü olumsuz etkileri şöyle sıralıyor: bağımlılık oranının yükselmesiyle çalışan nüfus üzerindeki baskının artması, yaşlı bakımın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nüfusu azalan bir ülkenin sağlık, yaşlılık ödemeleri, savunma, eğitim ve su-kanalizasyon altyapısı gibi kamu hizmetlerini finanse etmekte zorlanacağı ise aynı k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Avrupa'nın demografik kışına dair başlıkların sıradanlaştığı, İtalya Başbakanı Giorgia Meloni'nin ülkesinin yok olmaya mahkûm olduğunu söylediği ve ortaya bir p",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kaydın kendi uyarısı da metnin içinde duruyor: düşük doğurganlıktan doğan yavaş bir nüfus düşüşünün iktisadi etkilerine dair öngörüler kuramsaldır, çünkü b",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Lee ile Mason'ın 2014 tarihli incelemesi kırk ülkenin ulusal transfer hesaplarını tarıyor ve sonucu seçilen ölçüte bağlıyor.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Devlet bütçeleri açısından yenilenme düzeyinin belirgin biçimde üstünde bir doğurganlık en avantajlısı çıkıyor; yaşam standardı ölçüsüne aileler de katıldığında",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Kapanış cümlesi yalnızca sonucu değil çekinceyi de taşıyor: yazarlar önce düşük doğurganlığın kamu programlarını gerçekten zorlayacağını, çok düşük doğurganlığı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Daron Acemoğlu ile Pascual Restrepo, yaşlanmanın sanayide otomasyonu artırdığını savunuyor: orta yaşlı işgücündeki daralma elle yapılan üretim görevlerinde bir ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Aynı çalışma, hızlı yaşlanan ülkelerde otomasyon yeniliğinin de arttığını, otomasyona elverişli sanayilerde verimliliğin yükselip emek payının göreli olarak ger",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çalışma çağındaki kadınların işgücüne katılımı 2018'de üç ülke dışında her yerde erkeklerin gerisindeydi; Güney Kore'de kadınların yüzde 59'u çalışırken erkekle",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayıt bu kaldıracın sınırını da yazıyor: katılım bir tavana ulaştığında etki durur ve kazanç kalıcı olmaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Emeklilik yaşı için verilen hesap şöyle: 2010 ile 2050 arasında emeklilik yaşını her on yılda iki ya da üç yıl yükseltmek, Almanya ve Japonya gibi yaşlı ülkeler",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Japonya 2019 Nisan'ında bakım, inşaat, tarım ve gemi yapımı gibi ağır işgücü açığı olan sektörler için yabancı çalışanlara ayrı bir oturma statüsü açtı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Üçü de yaş yapısını değil, o yapıdan üretilen çıktıyı değiştirmeyi hedefliyor; tartışmanın karamsar tarafı da zaten çıktının değil yapının kendisinin bozulduğun",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Japonya ile Almanya'nın ekonomileri, nüfuslarının azalmaya başladığı 2003-2006 aralığında toparlanmaya geçti; kişi başına hasıla iki ülkede de 2005 sonrasında d",
+      "durum": "OK",
+      "not": "8 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayıt iktisadi başarının ölçüsü olarak toplam hasılayı değil kişi başına hasılayı öne çıkarıyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Wolfgang Lutz'un 2006 tarihli hipotezi tartışmanın zeminini kaydırıyor: Avrupa'da doğumun ertelenmesini daha da uzatabilecek ve doğum sayısını daha da azaltabil",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Sav bir tahmin değil bir hipotezdi ve karşı kanıt hızla geldi: Mikko Myrskylä, Hans-Peter Kohler ve Francesco Billari 2009'da, kalkınmadaki ilerlemelerin doğurg",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Julia Hellstrand ve arkadaşlarının 2021 tarihli çalışması, 2010 dolaylarında başlayan dönem doğurganlığı düşüşünün İskandinav ülkelerinde özellikle belirgin old",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Öngörüler, ortalama İskandinav kuşak doğurganlığının 1970 kuşağındaki iki çocuktan 1980'lerin sonundaki kuşaklarda 1,8 çocuğa ineceğini söylüyor; Finlandiya'da ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Aynı çalışma buradan yöntemsel bir sonuç çıkarıyor: yüksek ve istikrarlı doğurganlığa dayanan İskandinav modelinin kavramsallaştırılması gözden geçirilmeyi gere",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İskandinav"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Bu dizi tartışmayı kapatmıyor, iki tarafa da yeni bir soru veriyor: tuzak savı doğrulanmış mı sayılır, yoksa toparlanma savının da tersine dönebildiği mi göster",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Bu dizi tartışmayı kapatmıyor, iki tarafa da yeni bir soru veriyor: tuzak savı doğrulanmış mı sayılır, yoksa toparlanma savının da tersine dönebildiği mi göster",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "İki serinin farklı yıllarda zirve yapması, modelin iki ayağının aynı anda hareket etmediğini gösterir; seriler ve dosyalarında ele alınıyor.",
+      "iddia": "Dünya Sağlık Örgütü'ne göre 2050'de altmış yaş üstü nüfusun üçte ikisi düşük ve orta gelirli ülkelerde yaşayacak; aynı kayıt yaşlı nüfusun yüzde 80'inin bu ülke",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Japonya'da nüfusun yüzde 30'u hâlihazırda altmış yaşın üstünde.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Eşiğin geçilme tarihi ülkeler arasında yarım yüzyıla yayılıyor: Amerika Birleşik Devletleri'nde beş yaş altı nüfus 1960'larda altmış dört yaş üstü tarafından ge",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Afrika'da doğurganlık 1970'lerde kadın başına neredeyse yedi çocuktu; bugün dörde yakın ve Birleşmiş Milletler bu değerin 2050'de üçün altına inmesini, yüzyıl s",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Yaşlanan yüksek gelirli ülkeler için sorun bağımlılık oranının yükselmesi; genç ülkeler için ise çalışma çağı payının genişlediği pencerenin nasıl kullanılacağı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Pencerenin kalıcı olmadığını aynı beklenti söylüyor: doğurganlık yüzyıl sonunda ikiye yaklaştığında bugünün genç ülkeleri de kendi yaşlanma takvimlerine girecek",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Toplam doğurganlık hızı dünya için 1950'de 4,852 çocukken 2023'te 2,251 çocuğa indi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Nüfus artış hızı 1963'te yüzde 2,283 ile zirve yaptı ve 2023'te yüzde 0,871'e geriledi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "İki dosya da 2023'te bitiyor; depoya yalnızca tarihsel kestirimler kaydedildi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "İki dosya da 2023'te bitiyor; depoya yalnızca tarihsel kestirimler kaydedildi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "O sütunda artış hızı 2050'de yüzde 0,421, 2084'te eksi yüzde 0,004'tür.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "2019 sürümü bir tepe görmüyor, 2100'de 10,9 milyara ulaşan ve büyümeyi sürdüren bir seri veriyordu; 2022 sürümü tepeyi 2086'ya ve 10,4 milyara koydu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "2024 revizyonu tepeyi öne aldı: dünya nüfusu 2084'te yaklaşık 10,3 milyar ile tepe yapıyor.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Sağlayıcının uyarısı da metnin içinde: bunlar geleceğe dair tahminler değil, projeksiyonlardır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Avrupa'da 2018'de altmış dört ile yetmiş dört yaş arasındakilerin yüzde 10'undan azı çalışıyordu; bu payın değişmesi bugünkü tabloyu geçersiz kılmadan bozar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Longman'ın yük hesabı ile Lee ve Mason'ın tüketim hesabı farklı büyüklükleri karşılaştırıyor: biri işgücü arzı ile yaşlanmanın maliyetinden bir refah tehdidi çı",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Lee, Mason"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Longman'ın yük hesabı ile Lee ve Mason'ın tüketim hesabı farklı büyüklükleri karşılaştırıyor: biri işgücü arzı ile yaşlanmanın maliyetinden bir refah tehdidi çı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kanıtın ağırlığı da eşit değil: iyimser tarafın savı hakemli iki dergi makalesinden okunuyor, karamsar tarafın kitabı ise ödünç sisteminin arkasında duruyor ve ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kanıtın ağırlığı da eşit değil: iyimser tarafın savı hakemli iki dergi makalesinden okunuyor, karamsar tarafın kitabı ise ödünç sisteminin arkasında duruyor ve ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Tuzak hipotezi ile toparlanma bulgusu arasındaki gerilim İskandinav dizisiyle çözülmedi, yalnızca yer değiştirdi: aynı dizi hem tuzağın işlediğine hem de toparl",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İskandinav"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Tuzak hipotezi ile toparlanma bulgusu arasındaki gerilim İskandinav dizisiyle çözülmedi, yalnızca yer değiştirdi: aynı dizi hem tuzağın işlediğine hem de toparl",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İskandinav"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Tuzak hipotezi ile toparlanma bulgusu arasındaki gerilim İskandinav dizisiyle çözülmedi, yalnızca yer değiştirdi: aynı dizi hem tuzağın işlediğine hem de toparl",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İskandinav"
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Otomasyon telafisi sanayide ölçüldü; yaşlanmanın en çok emek istediği alan olan bakım hizmetlerinde aynı ikamenin işleyip işlemeyeceği bu kanıtla belirlenmiyor.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

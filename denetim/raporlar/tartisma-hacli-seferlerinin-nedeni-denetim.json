@@ -1,87 +1,333 @@
 {
   "id": "tartisma-hacli-seferlerinin-nedeni",
   "gecis": 2,
-  "zaman": "2026-08-29T04:48:13.468Z",
-  "govde_hash": "f36ea10fb503",
-  "commit": "58a10ea",
+  "zaman": "2026-08-29T11:11:46.531Z",
+  "govde_hash": "48054596d8ea",
+  "commit": "7549ec6",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, Haçlı seferlerini papalığın 1095 ile 1291 arasında Müslüman yöneticilere karşı Kutsal Toprakların geri alınması ve savunulması için başlattığı bir dizi ",
+      "anahtar": "k2",
+      "iddia": "Giles Constable 2001 tarihli incelemesinde çağdaş haçlı araştırmalarını dört öbeğe ayırır ve dördünün farklı sorular sorduğunu gösterir: geleneksel okuma bir se",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Urban tarafından ilan edildiğini; bunun Hristiyanlara Kudüs'ü Müslümanlardan geri almaları için ruhani ödül vaatleriyle yapılmış bir silah çağrısı olduğunu yaza",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Aynı kaynak, o tarihte papalığın Katolik Kilisesi'nin başı olarak konumunun güçlenmiş olduğunu ve daha önceki dünyevi yöneticilerle çatışmalar ile Batı Hristiya",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, bu ölçekteki harekâtların örgütlenmesinin karmaşık dinî, toplumsal ve iktisadi kurumlar gerektirdiğini yazar ve üçünü sayar: haçlı endüljansları, askerî",
+      "anahtar": "k2",
+      "iddia": "Yanına iki öbek daha katılır: katılanların iç hâlini merkeze alan ruhsal-ruhbilimsel okuma ile haçlı seferini kutsal savaşın kendisiyle özdeşleştiren genelci ok",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir hareketin sürmesi için ayrı kurumlar gerekmesi, atlasın şu kuralının dayanağıdır: başlangıç nedeni ile süreklilik nedeni ayrı ayrı yazılır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "yüzyıla dek sürdüğünü yazar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Hedefin değişmesine rağmen adın aynı kalması, \"Haçlı seferlerinin nedeni\" ifadesinin tek bir olguya işaret etmediğini gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Haçlı"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynağın dönüm noktası olarak andığı kişi için tutulan kayıt, onu Eyyûbî hanedanının kurucusu ve Mısır ile Suriye'nin ilk sultanı olarak tanımlar; kaynak, birle",
-      "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Kaynağın dönüm noktası olarak andığı kişi için tutulan kayıt, onu Eyyûbî hanedanının kurucusu ve Mısır ile Suriye'nin ilk sultanı olarak tanımlar; kaynak, birle",
-      "durum": "OK",
-      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "İki kaydın aynı yılı vermesi, atlasın çapraz doğrulama ölçütünü karşılar; olay dosyasında ele alınıyor.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "İki kaydın aynı yılı vermesi, atlasın çapraz doğrulama ölçütünü karşılar; olay dosyasında ele alınıyor.",
+      "iddia": "Yanına iki öbek daha katılır: katılanların iç hâlini merkeze alan ruhsal-ruhbilimsel okuma ile haçlı seferini kutsal savaşın kendisiyle özdeşleştiren genelci ok",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1100'de yaklaşık 397,9 milyon, 1300'de yaklaşık 456,2 milyondur.",
+      "iddia": "Kasım 1095'teki bir konuşmanın nedeni, iki yüzyıl boyunca sefer üstüne sefer örgütleyen kurumların nedeni ve savaşın kutsanabildiği bir fikrin nedeni ayrı ayrı ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Üstelik aynı olaya Batı yazını ile Türkçe yazın farklı yerlerden bakar: Işın Demirkent'e göre hareketin çıkış sebebi alanın en çok uğraştığı konudur ve Batı'nın",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Türkçe"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Chartres'lı Fulcher'in aktarımında Papa İkinci Urbanus, Türklerin Roma topraklarına Akdeniz'in Aziz Georgios Kolu denen boğazına kadar girdiğini, kiliseleri yık",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı aktarımda Urbanus, birbirine karşı savaşan şövalyelere yeni bir hedef gösterir: uzun süredir soygunculuk yapanlar artık Mesih'in askeri olsun.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu metinde Urbanus, dinleyicilerine oturdukları ülkenin denizle ve dağlarla kuşatıldığını, kalabalık nüfuslarına dar geldiğini, zengin olmadığını ve ekicilerini",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Konuşmanın metnini veren yazarlar, Krey'in notuna göre bunu olaydan yıllar sonra kaleme aldı ve her biri konuşmanın kendisine seslenen yanını öne çıkardı; en er",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Constable'a göre Urbanus'un çağrısının içeriği — Doğu'daki Hristiyanlara yardım ile Kudüs'ün kurtarılmasına verdiği göreli ağırlık dâhil — bugün hâlâ araştırman",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Carl Erdmann 1935'te yayımlanan Die Entstehung des Kreuzzugsgedankens ile soruyu olaydan fikre kaydırdı; kitap 1977'de Princeton'da The Origin of the Idea of Cr",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Carl Erdmann 1935'te yayımlanan Die Entstehung des Kreuzzugsgedankens ile soruyu olaydan fikre kaydırdı; kitap 1977'de Princeton'da The Origin of the Idea of Cr",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Erdmann'ın merkezine koyduğu şey seferin kendisi değil, on birinci yüzyıl boyunca papalığın şövalyeliği kilisenin hizmetine bağlayan siyasetiydi; onun okumasınd",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Constable'ın değerlendirmesi açıktır: yirminci yüzyılda yazılmış başka hiçbir eser haçlı çalışmalarının yönünü Erdmann'ın kitabı kadar değiştirmedi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı kitap, von Ranke'nin resmî ile halk kaynaklı itki arasında yaptığı ayrımı fikirler düzeyine taşıyarak sonraki bütün tanım tartışmalarının sözlüğünü kurdu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Erdmann'ın hac temasını sonradan eklenmiş sayması ise kendi zayıf noktasıdır: sefere katılan din adamlarının bıraktığı metinlerde Kutsal Kabir merkezî bir yer t",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kutsal, Kabir"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Erdmann'ın hac temasını sonradan eklenmiş sayması ise kendi zayıf noktasıdır: sefere katılan din adamlarının bıraktığı metinlerde Kutsal Kabir merkezî bir yer t",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Constable'ın aktardığına göre Voltaire haçlıları serüvenci ve haydut sayıp onları yağma susuzluğuyla açıklamış, Edward Gibbon ise ilkesini vahşi bir bağnazlık o",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı damar yirminci yüzyılın sonunda yeniden canlandı: 1992'de Journal of European Economic History'de yayımlanan bir yazıda, hiçbiri haçlı seferleri uzmanı olm",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Demirkent'e göre Batı, seferlerin asıl etkenini dinî unsurlarda arar; oysa Orta Çağ Avrupa toplumunu bu seferlere zorlayan etkenlerin siyasi, toplumsal ve iktis",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı maddede kutsal toprakları kurtarma sloganının hedefi açıklamaktan çok örtmek için kullanıldığı savunulur; dayanak olarak 1094'teki sel ve salgınları izleye",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu okumanın gücü, kanıtını çağrının kendi metninden de alabilmesidir: Robert the Monk'ün aktardığı toprak darlığı savunusu ile Demirkent'in kuraklık ve açlık ta",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu okumanın gücü, kanıtını çağrının kendi metninden de alabilmesidir: Robert the Monk'ün aktardığı toprak darlığı savunusu ile Demirkent'in kuraklık ve açlık ta",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Monk"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Constable'ın gözlemine göre tartışmanın yirminci yüzyıl sonundaki yönü şudur: haçlıları büyük ölçüde açgözlülük ve çıkarla açıklayan görüşün yerini bir ölçüde o",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Jonathan Riley-Smith'in bu çerçevedeki savı, haç alanların ve onları finanse eden ailelerin bütün olarak idealizmle hareket ettiğidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Riley-Smith'in 1997'de Cambridge'de çıkan The First Crusaders, 1095-1131 kitabı, sefere katılanların bir ön listesini ve soy ağaçlarını ek olarak taşır; bölüm b",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Aynı yazarın bir başka incelemesi doğrudan başlığında sorunu adlandırır: Early Crusaders to the East and the Costs of Crusading, 1095-1130.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Constable, bu idealist ve bir ölçüde savunmacı duruşu bütün araştırmacıların benimsemediğini yazar ve tarihçilerin ruhbilimsel, toplumbilimsel ve iktisadi kuram",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Krey'in girişine göre Selçuklu sultanı Alp Arslan'ın 1071'de Malazgirt'te kazandığı zafer Anadolu'yu Türklere açmış, Melikşah'ın 1092'deki ölümünden sonra başla",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Demirkent'in maddesinde bu tablo Batı'nın fırsat okumasıyla tamamlanır: 1074'te Bizans imparatoru Yedinci Mikhail papalık aracılığıyla ücretli asker istemiş, Ye",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Demirkent'e göre Urbanus talebi başka bir açıdan değerlendirdi: paralı asker toplamak yerine şövalyeleri, topraksız köylüleri ve yoksul halkı zengin Doğu'ya yön",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı yerde, geniş kitleleri harekete geçirmek için maddi vaadin yetmediği, çağrının din kardeşliği ve fedakârlık temasına oturtulması gerektiği savunulur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Paul Alphandéry'nin okumasında sefer, Deccal'in yaklaştığı ve son günlerin geldiği inancının taşıdığı bir kabarmaydı; Étienne Delaruelle onu toplu bir coşku anı",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu çizgiyi izleyenlere göre gerçek haçlı seferi yalnızca Birinci Sefer'dir, çünkü yaygın dinî coşku ve halk karşılığı orada görülür.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Birinci, Sefer"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aachen'li Albert'in anlatısı Ren şehirlerindeki vaazı, Keşiş Pierre'i, Halk Seferi'ni ve o şehirlerdeki Yahudi katliamlarını aktarır; Papalık ile kuzey Fransa g",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Demirkent'in maddesi aynı katliamları çağrının öç teması üzerinden okur ve dönemin İbranî kayıtlarının Haçlıların yanı sıra piskoposları ve yerli halkı da suçla",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Katliamların sefere içkin mi yoksa bir sapma mı olduğu, Constable'ın açık saydığı sorular arasındadır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Yirminci yüzyılın ortasında tartışmayı okur kitlesine taşıyan kitap Steven Runciman'ın 1951-54 arasında Cambridge'de çıkan üç ciltlik A History of the Crusades ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yirminci yüzyılın ortasında tartışmayı okur kitlesine taşıyan kitap Steven Runciman'ın 1951-54 arasında Cambridge'de çıkan üç ciltlik A History of the Crusades ",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Atlas üç pozisyondan hiçbirini benimsemez; kaynağın kendisi hem başlangıç anını hem süreklilik kurumlarını ayrı ayrı kaydeder.",
+      "iddia": "Yirminci yüzyılın ortasında tartışmayı okur kitlesine taşıyan kitap Steven Runciman'ın 1951-54 arasında Cambridge'de çıkan üç ciltlik A History of the Crusades ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Runciman'ın sonuç hükmü serttir: seferleri \"trajik ve yıkıcı bir dönem\" olarak niteler ve kutsal savaşı Tanrı adına sürdürülen uzun bir hoşgörüsüzlük eylemi say",
       "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tanrı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Madden'ın değerlendirmesine göre bugünkü popüler haçlı tasavvurunu neredeyse tek başına Runciman kurdu; aynı yerde birçok araştırmacının onun eserini artık eski",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı değerlendirmeye göre bir Bizans uzmanının kaleminden çıkan bu anlatının yaklaşımı, on dokuzuncu yüzyılın uygarlıklar çatışması kavrayışını yansıtır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Bizans"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kaynakta on dokuzuncu yüzyıl Fransız yazınının seferleri ulusal gurur ve sömürge siyasetinin öncülü gibi sunduğu, Walter Scott'un romanlarının ise haçlılar",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki uyumsuz resim aynı noktada birleşti: haçlı seferini tanımlayan şeyin İslam'a karşıtlık olduğu fikri.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arapça kaynakların çoğu kayıp, çevrilmemiş ya da yalnızca yazma hâlinde; Hristiyan haçlı seferi kavramı Orta Çağ Müslümanlarına yabancıydı ve onlar Haçlıları ço",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Carole Hillenbrand'ın savunduğu okumaya göre Müslüman yazın seferleri on dokuzuncu yüzyıl ortasına kadar önemli saymadı; hilafetin çöküşü daha yakıcı bir konuyd",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Demirkent'in maddesi terimin kendi tarihini verir: dönemin Müslüman tarihçileri \"Franklar\" derdi, Haçlılar karşılığı Doğu'da Osmanlılarca ehl-i salîb, Araplarca",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sefer dönemine ait Arapça yazın olayı kendi türlerinin içinde tutar: İbnü'l-Esîr'in el-Kâmil fi't-Târîh'i gibi genel tarihler, İbnü'l-Kalânisî'nin Şam tarihi ze",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Arapça, İbnü, Şam, Haçlıları"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "TDV maddesi hareketi 1096'da orduların yola çıkışıyla başlatıp 1291'de bitirir ve arada dokuz büyük sefer sayar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Constable'a göre ise seferlerin numaralandırılması hem kaynaklarda hem sonraki tarih yazımında birbirini tutmaz ve soruya doyurucu bir cevap verilmiş değildir; ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İspanya'daki, kuzeydoğu Avrupa'daki, Albi ve halk seferlerine ise ne gelenekselciler ne çoğulcular bir numara verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ernst-Dieter Hehl, haçlı seferinin esasen ne olduğunu soran yazısında her iki tanımı da dar bulur ve haçlı seferini Tanrı'nın buyruğuyla yürütülen bir savaş ola",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Urbanus'un çağrısında Doğu'daki Hristiyanlara yardım ile Kudüs'ün kurtarılmasının göreli ağırlığı, mesajın nasıl yayıldığı, orduların nasıl finanse edildiği ve ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     }
   ]
 }

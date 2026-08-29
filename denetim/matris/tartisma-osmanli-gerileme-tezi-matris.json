@@ -1,0 +1,631 @@
+{
+  "id": "tartisma-osmanli-gerileme-tezi",
+  "govde_hash": "9ea4062c5873",
+  "commit": "7549ec6",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Osmanlı örneğinde bu karar uzun süre hazır geldi: Kanuni Sultan Süleyman'ın 1566'daki ölümü zirve sayıldı, 1699'daki Karlofça Antlaşması dönüm noktası ilan edildi, aradaki ve sonraki yüzyıllar da aynı inişin evreleri olarak sıralandı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1566 olumu, 1699 Karlofca ve donemin bir zamanlar gerileme sayildigi kaynakta birebir; siralama cumlesi ozettir."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Bir yanda yaklaşık 1550 ile 1700 arasını gerileme dönemi olarak okuyan çerçeve, öte yanda aynı yılları kriz, uyum ve dönüşüm diye adlandıran ve 1980'lerden bu yana alanda ağırlık kazanan okuma durur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak 1550-1700 araligini ve 1980 sonrasi kriz-uyum-donusum nitelemesini acikca yazar."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Osmanlı tarihinin yerleşik zaman çizelgesinde 1566 ile 1703 arası dönüşüm, 1789 ile 1908 arası ise gerileme ve modernleşme başlığını taşır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin zaman cizelgesi kutusu: Transformation (1566-1703) ve Decline and Modernization (1789-1908)."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Murad ile Sultan İbrâhim'e sunduğu risâlelerle tanınan Koçi Bey, 1632'de sunulan arzlarının yazıldığı sırada saray içinden gelen yaşlı bir emektardı ve gördüğü bozukluğu kurum kurum ele aldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV maddesi risalelerin IV. Murad ve Sultan Ibrahim icin yazildigini, 1632 arzlarini ve yazarin saray ici konumunu verir."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Murad'ın son saltanat yıllarına götürür, aynı Kanûnî çağını ise imparatorluğun kudretinin zirveye eriştiği zaman olarak kabul eder.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde, bozulusun baslangicinin Kanuni devrine ve III. Murad son yillarina goturuldugunu ve ayni cagin zirve sayildigini birebir yazar."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Çare olarak önerdiği şey de bir yenilik değil bir geri dönüştür: kanûn-ı kadîm dediği eski usullere dönülürse devletin eski gücünü kazanacağına inanır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Maddede kanun-i kadim cozumu acikca aktarilir."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Koçi Bey kapıkulunun tâbi olduğu devşirme rejiminin delindiğini, ilmiye mansıplarının rüşvet ve kayırmayla dağıtıldığını, keyfî azillerin devleti yetişmiş kadrodan yoksun bıraktığını ve rüşvetin bütün toplum hayatına yayılan bir dert haline geldiğini ayrı ayrı sayar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Devsirme rejiminin delinmesi, ilmiye tayinleri, keyfi aziller ve rusvet maddede ayri ayri sayilir."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Bu liste tanıklığın gücünü ve zaafını aynı anda taşır: yazar gördüklerini istatistik karşılaştırmalarla anlatır, ama ölçütü hep sabittir — bugünkü hâl geçmişteki hâlle karşılaştırılır ve aradaki fark bozulma diye adlandırılır.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tanikligin olcutu uzerine yazarin degerlendirmesi; kaynak bu yorumu yapmaz, malzemesini verir."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Risâlenin kendi bölüm başlıklarına göre kurgu şudur: zeâmet ile tımarın ilk önce neden bozulduğu, yeniçeri taifesinin ilk defa neden bozulduğu ve Sultan Süleyman zamanının kemâli ayrı ayrı fasıllar olarak sıralanır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tam metnin fihristinde ilgili fasil basliklari bulunuyor; OCR bozuk oldugu icin guven orta."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Yirminci yüzyılın tarihçileri bu yazarların bozulma betimlemesini uzun süre olgu olarak kabul etti ve imparatorluğu Kanuni'nin ölümünden sonra gerilemeye giren bir devlet olarak resmetti; oysa altın çağdan düşüş anlatan yazarlar çoğu kez reformların mülksüzleştirdiği kesimlerden geliyor ya da kişisel bir kariyer kırgınlığı taşıyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak hem tarihcilerin betimlemeyi olgu saydigini hem de yazarlarin sinif/hizip cikari tasidigini yazar."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Koçi Bey'in kendi çağındaki itibarı da bu kalıbın gücünü gösterir: Hammer onu Montesquieu'nün Roma üzerine denemesiyle karşılaştırıp “Türk Montesquieusü” diye adlandırmıştı.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hammer nitelemesi maddede birebir gecer."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Doğrulanabilen künye, Hamilton Gibb ile Harold Bowen'in 1957'de Londra'da Oxford University Press tarafından basılan Islamic Society and the West cildine aittir; katalog kaydı cildi İslam ve uygarlık başlıkları altında sınıflar, Harold Bowen ile Royal Institute of International Affairs'i ilişkili adlar olarak kaydeder ve kaydı ödünç almaya kapalı işaretler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog kaydinda 'Publication date 1957', 'Publisher London : Oxford Univ. Pr.', 'Topics Islam , Civilization, Mohammedan', 'Associated-names Bowen, Harold; Royal Institute of International Affairs' ve 'Access-restricted-item true' alanlari birebir okunur. Iddia yalniz KAYDIN alanlarina dairdir; cildin icerigine dair hicbir sey ileri surulmuyor. Onceki surumdeki 'RIIA ile birlikte hazirlanmisti' ifadesi kaydin tasidigindan fazlasini soyluyordu; hakem oturumunda kayit-kapsamli hale getirildi ve odunc kisiti metinde acik edildi."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Çerçevenin kendisi, dönemin nasihatname yazarlarından başlayıp Avrupa merkezci ve oryantalist bakış açılarıyla pekişen bir kavramsallaştırma olarak tarif edilir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Makale ozeti bu tarifi birebir yapar."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Etiketin ne kadar erken yapıştığını görmek içinse yalnızca bir tarihe bakmak yeter: imparatorluğun Avrupa'daki hâkimiyeti en geniş sınırlarına 1682'de ulaşmıştı, yani gerileme diye adlandırılan yüzyılın sonuna doğru toprak hâlâ büyüyordu.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak birebir: 'Ottoman rule in Europe reached its greatest extent in 1682'. Onceki surum 'in Europe' kaydini dusurup imparatorlugun tumune genellemisti; hakem oturumunda 'Avrupa'daki hakimiyeti' olarak daraltildi."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Cemal Kafadar'ın 1999 tarihli The Question of Ottoman Decline başlıklı yazısı soruyu daha adında ortaya koyar; üst veri kaydı yazıya 81 atıf yapıldığını gösterir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ustveri kaydi baslik, yazar, yil ve 81 atif alanini tasir; icerik iddiasi yapilmadi."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Kafadar aynı sorunun kaynağını başka bir yazısında doğrudan adlandırır: 2010'da yayımlanan bölümün başlığı, Süleyman sonrası Osmanlı tarih bilincindeki altın çağ mitini konu edinir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydi baslik ve 2010 yilini verir; bolum icerigine dair iddia yapilmadi."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Dana Sajdi'nin 2007 tarihli Ottoman Tulips, Ottoman Coffee derlemesine yazdığı giriş bölümü ise tartışmayı kültür tarihine taşır ve daha başlığında gerilemenin yarattığı hoşnutsuzlukları konu edindiğini duyurur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydi baslik, yazar, derleme adi ve 2007 yilini verir."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Grant'in Osmanlı gerilemesini askerî teknoloji yarışı üzerinden yeniden düşünen yazısıyla Hathaway'in Osmanlı tarihini dönemlere ayırma sorununu ele alan yazısı 2011'de Osmanlı Tarihini Yeniden Yazmak — Gerileme Paradigmasının Sonu adlı aynı cilde girdi; aynı kaynakçada Abou-El-Haj'ın modern devletin doğası üzerine kitabı, Darling'in vergi toplanması ve maliye yönetimi incelemesi ve Fleischer'in Mustafa Âli çalışması da yer alır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gorunur kaynakcada Grant ve Hathaway kalemlerinin ikisi de 'Osmanli Tarihini Yeniden Yazmak- Gerileme Paradigmasinin Sonu, (haz: M. Armagan), Istanbul, 2011' kunyesini tasir; Abou-El-Haj (Modern Devletin Dogasi), Darling (Gelir Artisi ve Kanuna Uygunluk) ve Fleischer (Mustafa Ali) kalemleri de birebir gorunur. Onceki surum derlemeyi 'taraflari bir arada gosteren' diye niteliyordu; cildin kendi basligi bir taraf ilanidir, niteleme duzeltildi."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Reddiyenin ulaştığı yer, ansiklopedik özetlerde bile keskindir: nasihatname edebiyatının ve Osmanlı uygarlığının sayısız başka yönünün yeniden incelenmesinden sonra, alanda böyle bir gerilemenin yaşanmadığı ve gerileme fikrinin bir efsane olduğu yolunda bir uzlaşıya varıldığı yazılır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak uzlasi ve efsane ifadelerini birebir kullanir."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Aynı kaydın dipnotunda alanın yerleşik kanaati Christine Woodhead'in cümlesiyle özetlenir: “Ottomanist historians have largely jettisoned the notion of a post-1600 ‘decline’”.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dipnot birebir: Woodhead, Christine (2011), 'Introduction', The Ottoman World, Routledge, s. 5 — 'Ottomanist historians have largely jettisoned the notion of a post-1600 'decline''. Onceki surum cumleyi adsiz birakiyor ve ic tirnaklari dusuruyordu; yazar adi ve ic tirnaklar geri konuldu."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Merkezî maliye kadrosu 1549'da yalnızca 38 maaşlı kâtipten oluşurken 1593'te 183'e çıkmıştı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "38 ve 183 katip sayilari ile 1549/1593 yillari kaynakta."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Kapıkulu ordusu aynı yıllarda daha da hızlı büyüdü: 1574'te 29.175 olan mevcut 1609'da 75.868'e ulaştı ve yüzyılın geri kalanında bu düzeyde kaldı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "29.175 ve 75.868 degerleri ile 1574/1609 yillari kaynakta."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Gelir tarafında da artış vardır; merkezî hazine geliri 1560'ta 183 milyon akçeden 1660'ta 581 milyon akçeye, yani %217 oranında yükseldi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "183 ve 581 milyon akce ile %217 orani kaynakta."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "On altıncı yüzyılda süvari, piyadeden üç ya da dört kat fazlaydı; 1690'lara gelindiğinde sahra ordusundaki piyade oranı %50 ile 60 arasına, komşu Habsburg ordusundaki düzeye çıkmıştı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Suvari-piyade orani, 1690 lar ve %50-60 araligi kaynakta."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Maaşlı merkezî ordunun ücreti bütçenin en ağır kalemiydi ve zaman zaman merkezî bütçenin yarısından fazlasını yutuyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Maasli ordunun butcedeki payi kaynakta yazili."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Osmanlı bütçesi yüzyılın büyük bölümünde ortalama %14 açık verdi; farkı kapatan şey büyük ölçüde Mısır'dan her yıl İstanbul'a gönderilen yaklaşık 72 milyon akçelik fazlaydı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "%14 ortalama acik ve Misir dan gelen 72 milyon akce kaynakta."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Akçenin değeri 1585'teki ağır tağşişten sonra istikrarsızlaştı ve bazı bölgeler günlük kullanım için sahte Avrupa sikkesi ithal etmeye başladı; düzen ancak 1690'larda yapılan kapsamlı para reformuyla toparlandı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak birebir: 'led some regions of the empire to import counterfeit European coins for everyday use' ve 'This situation was brought under control in the 1690s ... far-reaching monetary reforms'. Onceki surum 'counterfeit' niteligini dusurmustu; 'sahte' geri konuldu."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Şevket Pamuk'un bu döneme ayırdığı incelemede durum şöyle özetlenir: “debased European coinage circulated widely in Ottoman markets at values far above their specie content”.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cumle kaydin tasidigi yazar ozetinden birebir alindi."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Aynı çalışmanın kaynakçası, İnalcık'ın 1600 ile 1700 arasındaki mali ve askerî dönüşümü konu edinen 1980 tarihli makalesini de içerir; yani parasal bunalımı dönüşümle birlikte okuma girişimi tezin reddinden eskidir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaydin kaynakcasinda Inalcik 1980 makalesi gecer; ikinci cumlecik yazarin cikarimidir."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Sefer yoklamaları, seferlere katılan sipahi sayısının 1616'da 14.867, 1621'de 15.058 iken 1655'te 6052'ye düştüğünü gösterir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sefer yoklamasi tablosundaki 14.867 / 15.058 / 6052 degerleri maddede."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Tımarların değeri sabit kalırken 1584 sonrasında enflasyon %100'e ulaşmış, teçhizat pahalanmış ve uzun mesafeli sefere katılmak sipahi için imkânsız hale gelmiştir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1584 sonrasi %100 enflasyon ve techizat maliyeti maddede."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Avusturya ordusunun artan ateşli silah gücü karşısında yetersiz kalan sipahilerin yerini seferlerde giderek yeniçeri, sekban ve saruca gibi maaşlı birlikler aldı; 1593-1606 savaşının tüfek kullanan birlik ihtiyacı bu geçişi zorunlu kıldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sipahilerin yerini maasli birliklerin almasi ve 1593-1606 savasinin tufek ihtiyaci maddede."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Tımar tasfiye edildikçe daha önce yerelde dağıtılan vergi gelirleri doğrudan tahsil ya da iltizam yoluyla İstanbul'a aktarıldı ve bu merkezîleşmiş mali düzeni yürütebilmek için bürokrasi dört katına çıkarıldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Timarin tasfiyesi, emanet/iltizam ve burokrasinin dorde katlanmasi kaynakta."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Douglas Howard'ın 2017'de Turkish Historical Review'da yayımlanan değerlendirmesi, tımar araştırmasının bir kuşak boyunca neden terk edildiğini iki nedene bağlar: “methodological skepticism and the end of the cold war”.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaydin tasidigi yazar ozetinden birebir alindi."
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Aynı değerlendirme, konuya dönen yeni ilginin ulusötesi temalar ve araştırma gündemini açık etme kaygısıyla beslendiğini yazar; yani bir kurumun ne kadar çalışıldığı, o kurumun tarihinden çok araştırmacının gündeminden haber verir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozet ulusotesi temalari ve seffaflik kaygisini yazar; ikinci cumlecik yazarin cikarimidir."
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Büşra Ersanlı'nın 2002'de The Ottomans and the Balkans derlemesine yazdığı bölüm, Kemalist dönem tarih yazımında Osmanlı İmparatorluğu'nun ölümcül bir gerileme kuramı içinde ele alındığını başlığında duyurur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iddia dogrudan bolum basligina dairdir ve baslik kayitta birebir gecer."
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Türkçe akademik literatürdeki değerlendirme aynı iki damarı birlikte adlandırır: paradigma, “Osmanlı nasihatname yazarlarından başlayıp Avrupa merkezci-oryantalist bakış açılarıyla pekişen” bir kavramsallaştırma olarak tarif edilir ve son yirmi beş yılda derinlikli çözümleme yapan uzmanlarca eleştiri konusu yapılır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Makale ozeti hem nasihatname kokenini hem Avrupa merkezci-oryantalist pekismeyi ve son yirmi bes yillik elestiriyi yazar."
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Toprak kaybı gerçekten yaşandı: 1683 Viyana kuşatmasının başarısızlığından sonra Kutsal İttifak kuvvetleri Osmanlıları Macaristan'dan çıkardı ve 1699'daki antlaşmayla bu kayıp ile Podolya'nın Lehistan'a iadesi kabul edildi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1683 Viyana, Macaristan in kaybi, 1699 antlasmasi ve Podolya nin iadesi kaynakta."
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Aynı kayıt, bu yenilgilerin askerî zayıflık kanıtı sayılmasına yakın zamanda itiraz edildiğini, karşı tarafın koalisyon büyüklüğüne ve çok cepheli savaşın lojistik yüküne işaret ettiğini de yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak toprak kayiplarinin askeri zayiflik kaniti sayilmasina yoneltilen itirazi ve gerekcelerini yazar."
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "Sajdi'nin bölüm başlığındaki hoşnutsuzluk vurgusu da bunu ima eder: eleştirinin kendisi de bir kültür tarihi nesnesidir.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Baslik uzerine yazarin yorumu; ustveri kaydi yalniz basligi verir."
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "Klasik çerçeve tanıklığa, dönüşüm okuması kurumsal seriye, mali-askerî okuma mekanizmaya, tarih yazımı eleştirisi kullanıma, ölçüt itirazı da yöntemin kendisine bakıyor; beklenen şey bir tarafın ötekini elemesi değil, her göstergede yükün yeniden paylaştırılmasıdır.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Bes konumun neye baktigina dair yazarin sentezi; kaynak boyle bir tasnif yapmaz."
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Birincisi ölçüt sorusudur: kâtip kadrosunun dört katına çıkarıldığı bir yüzyıl ile toprağın kaybedildiği bir yüzyıl aynı yüzyıldır ve hangisinin dönemin adını belirleyeceği kanıttan değil tercihten çıkar.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Olcut sorusunun formulasyonu yazarin kendi cikarimidir; sayisal dayanaklar yukaridaki satirlarda olculdu."
+    },
+    {
+      "iddia_id": "i43",
+      "cumle": "Roger Owen'ın British Society for Middle Eastern Studies bülteninde 1976'da çıkan yazısı, on sekizinci yüzyıl Ortadoğu'sunu anlatmak için kullanılan “gerileyen İslam toplumu” formülünü daha başlığında tırnak içine alıp soru işaretiyle karşılar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k13",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydi birebir: title 'The Middle East in the eighteenth century —an 'Islamic society in decline?', author Roger Owen, issued 1976-01, container-title 'British Society for Middle Eastern Studies. Bulletin', volume 3, issue 2, page 110-117. Iddia YALNIZ basligin kendisine dairdir; yazinin icerigine ya da hedefine (ornegin Gibb-Bowen cildine) dair hicbir sey ileri surulmuyor. Hakem oturumunda eklendi: reddiyeyi 1980'lerle baslatan anlatiyi kendi kaynagiyla dengeler."
+    },
+    {
+      "iddia_id": "i44",
+      "cumle": "Koçi Bey'in eski nizama dönülürse düzelir diyen iyimserliği, günümüz tarihçilerince geçmişteki bir altın çağa duyulan romantik bir özlem olarak karşılanmaktadır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV maddesi birebir: '... icinde bulunulan cozulus ve bozulustan cikilabilecegi inancinda olan Koci Bey'in bu iyimser gorusleri, gunumuz tarihcilerince gecmisteki bir altin caga romantik bir ozlem olarak karsilanmaktadir.' Hakem oturumunda eklendi: nasihatname bozulma sylemi'nin sonradan olgu sayilmamasi boylece yalniz Wikipedia'dan degil, Turkce birincil-tercih ansiklopediden de olculur."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 38,
+    "kismi": 2,
+    "desteksiz": 0,
+    "olculemez": 4
+  }
+}

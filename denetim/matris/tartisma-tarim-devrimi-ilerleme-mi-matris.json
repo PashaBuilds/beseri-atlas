@@ -1,0 +1,501 @@
+{
+  "id": "tartisma-tarim-devrimi-ilerleme-mi",
+  "govde_hash": "dd6423ed0a10",
+  "commit": "7549ec6",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i1",
+      "cumle": "Gordon Childe 1936'da süreci bir devrim diye adlandırırken ölçütünü de açıkça bildirmişti: ona göre tarihsel değişimler, türün hayatta kalmasına ve çoğalmasına ",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Childe olcut beyanini kitabin giris bolumunde yapar; kaynak metinde \"survive and multiply\" ve \"figures of population\" ifadeleri gecer."
+    },
+    {
+      "iddia_id": "i2",
+      "cumle": "Altmış yıla yakın bir süre sonra aynı geçiş bedenden okunan bir gerileme dizisi olarak anlatılmaya başlandı: Clark Spencer Larsen'ın 1995 tarihli derlemesine gö",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydindaki ozet cumlesi birebir tasiyor: \"the adoption of agriculture involved an overall decline in oral and general health\" (kor hakem fetch ile teyit etti)."
+    },
+    {
+      "iddia_id": "i3",
+      "cumle": "Childe kitabına, ilerleme fikrinin sarsıldığı bir çağ teşhisiyle başlar ve amacını gizlemez: tarih öncesini bu açıdan incelemenin, \"ilerleme fikrini duygusalcıl",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alinti kaynaktaki \"vindicate the idea of progress against sentimentalists and mystics\" ifadesinin cevirisidir."
+    },
+    {
+      "iddia_id": "i4",
+      "cumle": "Ona göre bir devrim, İngiltere'deki Industrial Revolution gibi, nüfus eğrisinde yukarı doğru bir kırılma biçiminde görünür ve aynı ölçüyle yargılanmalıdır; verd",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak Sanayi Devrimi ornegini ve 1570-1851 tahminlerini ayni sayfalarda verir."
+    },
+    {
+      "iddia_id": "i5",
+      "cumle": "Kitabın bölüm planı da bu programı izler: The Neolithic Revolution başlıklı bölümü, ikinci devrimin hazırlığından sonra The Urban Revolution izler; onu da bilgi",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Icindekiler: V. The Neolithic Revolution, VI. Prelude to the Second Revolution, VII. The Urban Revolution, VIII. The Revolution in Human Knowledge, IX. The Acceleration and Retardation of Progress. Hakem duzeltmesi: V ile VII arasindaki VI. bolum atlanmisti."
+    },
+    {
+      "iddia_id": "i6",
+      "cumle": "Avcılık ve toplayıcılıkta kaynak kendiliğinden sınırlıdır; ona göre ekim bu sınırı kaldırır, çünkü yiyeceği artırmak için daha çok tohum atmak ve daha çok topra",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i7",
+      "cumle": "Aynı metne göre yiyecek üretmeyen uzmanları besleyen şey bu fazladır: demirciyi ancak yiyecek fazlası olan bir topluluk barındırabilir ve metalin sanayide kulla",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i8",
+      "cumle": "Ona göre büyücü, ortak yiyecek arayışına bedenen katılmadan onun fazlasında hak iddia eden kişidir; büyücünün değneği, sonradan gelecek hükümdarlık asasının tom",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta buyucunun degnegi ile asa arasindaki benzetme aciktir."
+    },
+    {
+      "iddia_id": "i9",
+      "cumle": "Childe'a göre toplayıcı ekonomiye küçümseyici bir anlam yüklemekten kaçınmak gerekir ve tahıl yetiştiricisinin takvimi, ekimin öncesinde ve sonrasında tarlanın ",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"a warning against attaching an unduly derogatory sense thereto\" ve \"Before and after sowing come intervals in which the fields need practically no attention\". Hakem duzeltmesi: metin bosluklari \"ekim ile hasat arasi\" diyordu; kaynak ekimin ONCESI ve SONRASI der, hasat ise yogun caba ister."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Armelagos'un derlediği Paleopathology at the Origins of Agriculture, 1982'de Plattsburgh'da toplanan ve Wenner-Gren Vakfı ile bir sempozyum fonunun desteklediği",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Katalog kaydi konferansin adini, yerini, tarihini ve yayinciyi verir."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Jacobs'un 1991'de Population and Environment dergisinde yayımladığı yazı tarımın kökenlerini \"sağlığın gerilediği bir dönemde nüfus artışı\" olarak adlandırır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Baslik iddiayi birebir tasiyor."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Kaynağa göre tarımın benimsenmesi ağız ve genel sağlıkta bir düşüşle birlikte gitti; tarih öncesi çiftçilerde iskelet ve diş patolojilerinin sıklığı toplayıcıla",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozetteki bulgu listesi cumleyle birebir ortusuyor."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Aynı özet, tarımla birlikte sağlığın ve beslenmenin iyileştiği, ömrün uzadığı ve iş yükünün azaldığı yolundaki eski çerçeveyi doğrudan yanlış sayar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozet eski cerceveyi \"incorrect\" olarak niteler."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Yayıncı tanıtımına göre kitap ilk tarım devletlerini birikmiş evcilleştirmelerin ürünü sayar: ateş, bitkiler, hayvanlar, devletin tebaası, esirler ve nihayet at",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iddia kitabin govdesine degil katalog sayfasindaki yayinci tanitimina dayanir."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Aynı tanıtıma göre erken devletlerin tamamı tahıla ve özgür olmayan emeğe dayanır; bitki, hayvan ve tahılın bir arada yığılması ise öngörülemez salgınların zemi",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yayinci tanitimi: \"unforeseeable disease epidemics arising from crowding plants, animals, and grain\". Hakem duzeltmesi: metin \"insan\" yaziyordu, kaynak \"grain\" (tahil) diyor."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Kitabın bölüm listesi de aynı yönü gösterir: New Haven'daki Yale University Press baskısında Zoonoses: a perfect epidemiological storm ile Population control: b",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bolum listesi katalog kaydinda birebir yer alir. Hakem duzeltmesi: iki bolum bitisik degil, aralarinda \"Agro-ecology of the early state\" var; \"yan yana durur\" ifadesi duzeltildi."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Jared Diamond'ın 1991 tarihli The Rise and Fall of the Third Chimpanzee kitabında tarıma ayrılan bölümün adı, katalog kaydındaki içindekiler notuna göre Agricul",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Icindekiler notu bolum adini birebir verir; Diamond'in 1987 tarihli dergi yazisi dogrulanabilir bir kaynakta bulunamadigi icin metinde anilmadi."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Katalog kaydındaki bölüm listesine göre tarım devrimine ayrılan kısım History's biggest fraud adını taşır; aynı kayıt kitabı bir numaralı uluslararası çok satan",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bolum listesi ve yayinci tanitimi katalog kaydinda."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Uzun dönemli seride dünya nüfusu MÖ 10000'de yaklaşık 4,5 milyon, MÖ 3000'de yaklaşık 44,6 milyondur.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Degerler depo kopyasindaki OWID World serisiyle birebir (KAPI 19 gecti)."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Yedi bin yılda yaklaşık on katlık bir artış; Childe'ın beyan ettiği ölçüte göre bu seri onun konumunu doğrular.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yorum cumlesi: seri ile Childe olcutu arasindaki bag okurun kurdugu baglantidir, kaynakta boyle bir cumle yoktur."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Aradaki basamaklar da seride durur: dünya nüfusu MÖ 8000'de yaklaşık 7,3 milyon, MÖ 5000'de yaklaşık 19,2 milyondur.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ara degerler seride birebir."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Population and Environment dergisindeki Armelagos başlığı bu birlikteliği zaten adlandırır: artan nüfus ile gerileyen sağlık aynı döneme aittir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Armelagos ve arkadaşlarının kaynakçasında anılan Ester Boserup'un 1965 tarihli kitabı, künyesinin de belirttiği gibi tarımsal değişimi nüfus baskısı altında ele",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "KAYNAKCA DUZEYI: Crossref kaydinin kaynakcasindaki kunye \"The conditions of agricultural growth: The economics of agrarian change under population pressure\" (Boserup 1965). Hakem duzeltmesi: metin \"yogunlasma sureci\" diyordu; bu kelime kunyede yok, destek dogrudan'dan kismi'ye dusuruldu ve cumle kunye duzeyine cekildi."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Weiss'in 1992'de Current Anthropology dergisinde yayımladığı makalenin başlığı sorunu doğrudan adlandırır: iskelet örneklemlerinden tarih öncesi sağlığı çıkarma",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Baslik sorunu birebir adlandirir."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Aynı kayda göre makale yorumlar ve bir cevapla birlikte basıldı; yorumcular arasında Mark Nathan Cohen de bulunuyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yorumcu listesi kayittaki yazar dizisinde gorunur."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Sorunun mantığı şudur: bir mezarlık örneklemi yaşayanları değil ölenleri barındırır ve Current Anthropology sayfalarındaki tartışma bu gözlemden açılır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Paradoksun mekanizmasi ustveri kaydinda anlatilmaz; cumle baslikta adlandirilan sorunun mantiksal acilimidir."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Marshall Sahlins'in 1972 tarihli Stone Age Economics kitabı, toplayıcı toplulukları bir bolluk toplumu olarak okuyan çizginin adresi sayılır; aynı kaynakçada Sa",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kitabin kimligi k9'dan; \"orijinal bolluk toplumu\" ifadesinin Sahlins'e ait oldugu k4 kaynakcasindaki \"Sahlins, M. (1968). Notes on the original affluent society\" kunyesinden; elestiri konusu oldugu k10'un basligindan (\"The Darker Side of the 'Original Affluent Society'\"). Hakem eklemesi: atif zinciri k9 katalog kaydina tek basina yaslaniyordu."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Stock'un 2017'de Science Advances dergisinde yayımladığı çalışmanın özetine göre tarımın gelişi, kadınlar için binlerce yıl boyunca bugün yaşayan sporcularınkin",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozeti bulguyu birebir verir. Hakem eklemesi: baslik olcumun kapsamini belirtir (\"through the first 5500 years of farming in Central Europe\"); metne bu sinir eklendi."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Aynı yükü siyasal düzlemde adlandıran Scott'ın çerçevesinde kadınların konumu, evcilleştirme dizisinin son halkası olarak anılır; dizinin tamamı, üreme üzerinde",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yayinci tanitimina dayanir; kitabin ilgili bolumu okunmadi."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Childe'ın ölçüt beyanı 1936'ya, iskelet kanıtının toplu dökümü 1984'e, yöntemsel itiraz 1992'ye, karamsar okumanın popüler biçimi ise 1991 ile 2015 arasına düşe",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bes yil da ilgili kayitlarda dogrulandi. Hakem eklemesi: Diamond 1991, Wood vd. 1992 den ONCE basildi; \"itiraz coktan basilmisti\" ifadesi 1991 ucu icin yanlis olacagindan iki uc ayri ayri adlandirildi."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Childe'ın ölçütü açıkça beyan edildiği için sınanabilir kaldı; uzun dönemli seride World kaydı, MÖ 10000 ile MÖ 3000 arasında onun beklediği yönde ilerler.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Sağlık tarafındaki iddia ise dünyanın farklı bölgelerinden gelen iskelet örneklemleriyle sınanabilir hâle geldi; kaynağına göre bulgular tek tek vakalarda değil",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozet dunya capinda arkeolojik kalintilarin incelenmesine atifta bulunur."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Wood, Milner, Harpending ve Weiss'in ortaya attığı paradoks itirazı bu birikimi geçersiz kılmıyor; onu okumanın demografik varsayımlar gerektirdiğini hatırlatıy",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yorum cumlesi: paradoksun kapsamina dair degerlendirme kayitta yoktur."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 26,
+    "kismi": 4,
+    "desteksiz": 0,
+    "olculemez": 3
+  }
+}

@@ -1,5 +1,5 @@
 ## olay-han-hanedani-kurulusu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:01.182Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:27.022Z_
 
 - [OK]      k1 → "Hanedanın ilk imparatoru Gaozu'dur ve hükümdarlığı MÖ 202-195 arasına tarihlenir."
 - [OK]      k1 → "Kaynak, hükümdar listesinin yanında ayrı bir şansölye listesi de tutar: ilk şansölye Xiao He'dir ve görevi MÖ …"

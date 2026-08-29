@@ -56,8 +56,8 @@ olduğunun kurumsal işaretidir; kesin bir rakam olsaydı metin içinde geçerdi
 başlık altında ele alınır; bu dosya tek bir sayı
 sunmaz.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
-Atlas bu başlığın varlığını kaydeder ve bir toplam üretmez; yöntem
-[Tarihsel bilanço sayıları nasıl okunmalı?](/tartisma/tarihsel-sayilar-nasil-okunur/)
+Atlas bu başlığın varlığını kaydeder ve bir toplam üretmez; bu yöntem
+[Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
 haritasında ele alınıyor.
 
 ## Yıl yıl bölümleme

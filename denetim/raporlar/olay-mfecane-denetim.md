@@ -1,5 +1,5 @@
 ## olay-mfecane
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:02.470Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:28.316Z_
 
 - [OK]      k1 → "On dokuzuncu yüzyılın ilk yarısında, Güney Afrika'nın doğu kesiminde yirmi beş yıla yayılan bir savaşlar ve nü…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k2 → "Sürecin etkisi geniş bir alana yayıldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

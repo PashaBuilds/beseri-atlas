@@ -1,5 +1,5 @@
 ## dusunur-sima-qian
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:09.804Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:35.682Z_
 
 - [OK]      k1 → "Kaynak onu MÖ yaklaşık 145 - yaklaşık 86 arasında yaşamış, erken Han hanedanı döneminde bir Çinli tarihçi olar…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak, eserin tasarısını ilk kez babası Sima Tan'ın düşündüğünü ve Sima Tan'ın Bahar ve Güz Yıllıkları'nı izl…" — 2 atom doğrulandı; 2 ad ölçülemedi

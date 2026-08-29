@@ -1,5 +1,5 @@
 ## olay-berlin-konferansi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:00.305Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:26.135Z_
 
 - [OK]      k1 → "Yeni Emperyalizm çağında Avrupa güçleri ve Japonya, Afrika'nın neredeyse tamamını ve Asya'nın bazı kısımlarını…"
 - [OK]      k1 → "Konferansın hedeflerinden biri Orta Afrika'nın ticareti, seyrüseferi ve sınırları konusunda anlaşmalara varmak…"

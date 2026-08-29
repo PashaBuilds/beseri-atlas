@@ -1,5 +1,5 @@
 ## aktor-japonya-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:06.096Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:31.953Z_
 
 - [OK]      k1 → "3 Ocak 1868 tarihli olayın sonuçları arasında Tokugawa şogunluğunun devrilmesi, Japonya İmparatorluğu'nun kuru…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Listenin yapısı olağandışıdır: bir devletin kurulması ile bir toplumsal sınıfın hukuken ortadan kaldırılması a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

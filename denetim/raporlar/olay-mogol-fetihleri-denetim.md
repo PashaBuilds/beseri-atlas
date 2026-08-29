@@ -1,5 +1,5 @@
 ## olay-mogol-fetihleri
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:02.513Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:28.360Z_
 
 - [OK]      k1 → "İmparatorluk 1206 ile 1368 arasında Avrasya'da varlığını sürdürdü; birleşik dönemi ise 1206–1260 arasına yerle…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "İmparatorluk 1206 ile 1368 arasında Avrasya'da varlığını sürdürdü; birleşik dönemi ise 1206–1260 arasına yerle…" — 4 atom doğrulandı; 1 ad ölçülemedi

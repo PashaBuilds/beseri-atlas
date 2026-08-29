@@ -1,5 +1,5 @@
 ## tartisma-imparatorluk-siniri-nasil-cizilir
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:07:34.782Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:39.632Z_
 
 - [OK]      k1 → "Maurya İmparatorluğu'nu anlatan güncel bir ansiklopedi maddesi ikiliği kendi içinde sergiler: madde bir yandan…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Aynı maddeye göre Aşoka'nın imparatorluğu beş parçadan oluşuyordu ve başkent Pataliputra'nın çevresindeki merk…" — 1 atom doğrulandı; 1 ad ölçülemedi

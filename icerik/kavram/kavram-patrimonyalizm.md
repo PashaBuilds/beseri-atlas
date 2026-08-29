@@ -16,6 +16,7 @@ ilgili:
   - kaynak-ain-i-akbari
   - kavram-veraset
   - kavram-ideal-tip
+  - tartisma-osmanli-gerileme-tezi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

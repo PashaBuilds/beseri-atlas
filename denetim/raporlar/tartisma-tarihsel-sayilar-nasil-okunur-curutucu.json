@@ -1,21 +1,6 @@
 {
   "id": "tartisma-tarihsel-sayilar-nasil-okunur",
   "gecis": 3,
-  "zaman": "2026-08-21T05:30:41.637Z",
-  "itirazlar": [
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Bu harita bir yöntem sorusuna ayrılmıştır, bir olaya değil. Gerekçesi tek bir karşılaştırmada görülür: Taiping İsyanı için verilen toplam ölü sayısı 20–100 milyondur.[^k1]",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "orta",
-      "tip": "tek-kaynakli-nedensellik",
-      "cumle": "Sayının büyüklüğü kadar kapsamı da tartışmalıdır. Savaş ölümleri verisinde verilen rakam muharip ölümleridir; çarpışmalar nedeniyle ölen siviller, çatışmaların yol açtığı açlık ve ",
-      "sorun": "Nedensellik iddiası tek kaynağa (k5) dayanıyor.",
-      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
-    }
-  ]
+  "zaman": "2026-08-29T10:50:52.535Z",
+  "itirazlar": []
 }

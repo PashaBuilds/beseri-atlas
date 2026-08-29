@@ -1,5 +1,5 @@
 ## olay-kavimler-gocu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:01.888Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:27.734Z_
 
 - [OK]      k1 → "Kaynaklar Kavimler Göçü'nün başlangıç ve bitiş tarihleri konusunda ayrılır: başlangıç yaygın olarak Hunların y…" — 5 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "Göç eden gruplar birkaç bin kişilik savaşçı bölüklerinden 100.000'i aşan tüm kabile topluluklarına kadar büyük…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

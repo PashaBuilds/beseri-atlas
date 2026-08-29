@@ -1,5 +1,5 @@
 ## dusunur-ambedkar
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:08.423Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:34.266Z_
 
 - [ATOMSUZ] k1 → "Ambedkar, on dokuzuncu yüzyılın sonunda, kendi toplumunda dokunulmaz sayılan bir gruba doğdu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Yurt dışında hukuk ve iktisat öğrenimi gördü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

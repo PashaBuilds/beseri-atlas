@@ -1,5 +1,5 @@
 ## aktor-ingiliz-doguhindistan-sirketi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:05.980Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:31.837Z_
 
 - [OK]      k1 → "Şirketin kuruluşu bir sermaye toplantısıyla tarihlenir: girişimciler 31 Aralık 1600'de yeniden toplandılar."
 - [ATOMSUZ] k1 → "yüzyılın sonlarındaki doğu tasarımının önemli bir unsurunu başlattı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

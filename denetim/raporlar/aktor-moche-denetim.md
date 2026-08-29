@@ -1,5 +1,5 @@
 ## aktor-moche
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:06.902Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:32.767Z_
 
 - [OK]      k1 → "Moche, Güney Amerika'nın Pasifik kıyısında, dağlardan inen nehir vadilerinin çöle açıldığı kuşakta yerleşmiş b…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Coğrafya bu dosyanın bütün mantığını belirler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

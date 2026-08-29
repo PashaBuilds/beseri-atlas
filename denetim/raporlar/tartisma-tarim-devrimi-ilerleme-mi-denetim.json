@@ -1,67 +1,241 @@
 {
   "id": "tartisma-tarim-devrimi-ilerleme-mi",
   "gecis": 2,
-  "zaman": "2026-08-29T04:48:14.846Z",
-  "govde_hash": "5bc32a0ac926",
-  "commit": "58a10ea",
+  "zaman": "2026-08-29T11:11:32.884Z",
+  "govde_hash": "dd6423ed0a10",
+  "commit": "7549ec6",
   "sonuclar": [
     {
+      "anahtar": "k1",
+      "iddia": "Gordon Childe 1936'da süreci bir devrim diye adlandırırken ölçütünü de açıkça bildirmişti: ona göre tarihsel değişimler, türün hayatta kalmasına ve çoğalmasına ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
       "anahtar": "k2",
-      "iddia": "Childe terimi 1936 tarihli Man Makes Himself adlı kitabında ortaya attı ve Orta Doğu tarihindeki bir dizi tarımsal devrimin ilki olarak tanıttı; sürecin önemini",
+      "iddia": "Altmış yıla yakın bir süre sonra aynı geçiş bedenden okunan bir gerileme dizisi olarak anlatılmaya başlandı: Clark Spencer Larsen'ın 1995 tarihli derlemesine gö",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Childe terimi 1936 tarihli Man Makes Himself adlı kitabında ortaya attı ve Orta Doğu tarihindeki bir dizi tarımsal devrimin ilki olarak tanıttı; sürecin önemini",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Tartışmanın merkezindeki gözlem şudur: daha yüksek nüfus ve besin bolluğu, sağlığın iyileşmesiyle zorunlu olarak ilişkili değildir; çok sınırlı sayıda temel ürü",
+      "iddia": "Childe kitabına, ilerleme fikrinin sarsıldığı bir çağ teşhisiyle başlar ve amacını gizlemez: tarih öncesini bu açıdan incelemenin, \"ilerleme fikrini duygusalcıl",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bu iddianın somut örneği Amerika kıtasından verilir: mısır lizin ve triptofan gibi bazı temel amino asitler bakımından yetersizdir ve zayıf bir demir kaynağıdır",
+      "iddia": "Ona göre bir devrim, İngiltere'deki Industrial Revolution gibi, nüfus eğrisinde yukarı doğru bir kırılma biçiminde görünür ve aynı ölçüyle yargılanmalıdır; verd",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Erken tarımcıların ve evcilleştirdikleri hayvanların sağlığını etkilemesi muhtemel başka etkenler de ayrıca sayılır.",
+      "iddia": "Kitabın bölüm planı da bu programı izler: The Neolithic Revolution başlıklı bölümü, ikinci devrimin hazırlığından sonra The Urban Revolution izler; onu da bilgi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Avcılık ve toplayıcılıkta kaynak kendiliğinden sınırlıdır; ona göre ekim bu sınırı kaldırır, çünkü yiyeceği artırmak için daha çok tohum atmak ve daha çok topra",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Aynı kaynakta, ticari mal ve hizmetlerin tarımcıları dış gruplarla temasa geçirdiği, bunun da uygarlıkların yükselişine ve teknolojik evrimlere yol açan kültüre",
+      "iddia": "Aynı metne göre yiyecek üretmeyen uzmanları besleyen şey bu fazladır: demirciyi ancak yiyecek fazlası olan bir topluluk barındırabilir ve metalin sanayide kulla",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ona göre büyücü, ortak yiyecek arayışına bedenen katılmadan onun fazlasında hak iddia eden kişidir; büyücünün değneği, sonradan gelecek hükümdarlık asasının tom",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Childe'a göre toplayıcı ekonomiye küçümseyici bir anlam yüklemekten kaçınmak gerekir ve tahıl yetiştiricisinin takvimi, ekimin öncesinde ve sonrasında tarlanın ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
+      "iddia": "Armelagos'un derlediği Paleopathology at the Origins of Agriculture, 1982'de Plattsburgh'da toplanan ve Wenner-Gren Vakfı ile bir sempozyum fonunun desteklediği",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Jacobs'un 1991'de Population and Environment dergisinde yayımladığı yazı tarımın kökenlerini \"sağlığın gerilediği bir dönemde nüfus artışı\" olarak adlandırır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaynağa göre tarımın benimsenmesi ağız ve genel sağlıkta bir düşüşle birlikte gitti; tarih öncesi çiftçilerde iskelet ve diş patolojilerinin sıklığı toplayıcıla",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı özet, tarımla birlikte sağlığın ve beslenmenin iyileştiği, ömrün uzadığı ve iş yükünün azaldığı yolundaki eski çerçeveyi doğrudan yanlış sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Yayıncı tanıtımına göre kitap ilk tarım devletlerini birikmiş evcilleştirmelerin ürünü sayar: ateş, bitkiler, hayvanlar, devletin tebaası, esirler ve nihayet at",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı tanıtıma göre erken devletlerin tamamı tahıla ve özgür olmayan emeğe dayanır; bitki, hayvan ve tahılın bir arada yığılması ise öngörülemez salgınların zemi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kitabın bölüm listesi de aynı yönü gösterir: New Haven'daki Yale University Press baskısında Zoonoses: a perfect epidemiological storm ile Population control: b",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Jared Diamond'ın 1991 tarihli The Rise and Fall of the Third Chimpanzee kitabında tarıma ayrılan bölümün adı, katalog kaydındaki içindekiler notuna göre Agricul",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Katalog kaydındaki bölüm listesine göre tarım devrimine ayrılan kısım History's biggest fraud adını taşır; aynı kayıt kitabı bir numaralı uluslararası çok satan",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
       "iddia": "Uzun dönemli seride dünya nüfusu MÖ 10000'de yaklaşık 4,5 milyon, MÖ 3000'de yaklaşık 44,6 milyondur.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Peter Richerson, Robert Boyd ve Robert Bettinger, tarımın gelişiminin Holosen'in başındaki giderek istikrarlı hâle gelen iklimle çakıştığı yönünde bir savunma y",
+      "iddia": "Yedi bin yılda yaklaşık on katlık bir artış; Childe'ın beyan ettiği ölçüte göre bu seri onun konumunu doğrular.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Aradaki basamaklar da seride durur: dünya nüfusu MÖ 8000'de yaklaşık 7,3 milyon, MÖ 5000'de yaklaşık 19,2 milyondur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Population and Environment dergisindeki Armelagos başlığı bu birlikteliği zaten adlandırır: artan nüfus ile gerileyen sağlık aynı döneme aittir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Armelagos ve arkadaşlarının kaynakçasında anılan Ester Boserup'un 1965 tarihli kitabı, künyesinin de belirttiği gibi tarımsal değişimi nüfus baskısı altında ele",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Weiss'in 1992'de Current Anthropology dergisinde yayımladığı makalenin başlığı sorunu doğrudan adlandırır: iskelet örneklemlerinden tarih öncesi sağlığı çıkarma",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı kayda göre makale yorumlar ve bir cevapla birlikte basıldı; yorumcular arasında Mark Nathan Cohen de bulunuyor.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Sorunun mantığı şudur: bir mezarlık örneklemi yaşayanları değil ölenleri barındırır ve Current Anthropology sayfalarındaki tartışma bu gözlemden açılır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Marshall Sahlins'in 1972 tarihli Stone Age Economics kitabı, toplayıcı toplulukları bir bolluk toplumu olarak okuyan çizginin adresi sayılır; aynı kaynakçada Sa",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Marshall Sahlins'in 1972 tarihli Stone Age Economics kitabı, toplayıcı toplulukları bir bolluk toplumu olarak okuyan çizginin adresi sayılır; aynı kaynakçada Sa",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "David Kaplan'ın 2000'de Journal of Anthropological Research dergisinde yayımladığı yazı ise aynı okumanın karanlık tarafını konu edinir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Stock'un 2017'de Science Advances dergisinde yayımladığı çalışmanın özetine göre tarımın gelişi, kadınlar için binlerce yıl boyunca bugün yaşayan sporcularınkin",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı yükü siyasal düzlemde adlandıran Scott'ın çerçevesinde kadınların konumu, evcilleştirme dizisinin son halkası olarak anılır; dizinin tamamı, üreme üzerinde",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Ronald Wright'ın kitabı ve Massey Konferansları dizisi A Short History of Progress bu hipotezi yaygınlaştırmıştır.",
+      "iddia": "Childe'ın ölçüt beyanı 1936'ya, iskelet kanıtının toplu dökümü 1984'e, yöntemsel itiraz 1992'ye, karamsar okumanın popüler biçimi ise 1991 ile 2015 arasına düşe",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Leonid Grinin ise hangi bitkiler yetiştirilmiş olursa olsun, tarımın bağımsız icadının hep aynı örüntüyü izlediğini savunur.",
+      "anahtar": "k3",
+      "iddia": "Childe'ın ölçüt beyanı 1936'ya, iskelet kanıtının toplu dökümü 1984'e, yöntemsel itiraz 1992'ye, karamsar okumanın popüler biçimi ise 1991 ile 2015 arasına düşe",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Childe'ın ölçüt beyanı 1936'ya, iskelet kanıtının toplu dökümü 1984'e, yöntemsel itiraz 1992'ye, karamsar okumanın popüler biçimi ise 1991 ile 2015 arasına düşe",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Childe'ın ölçüt beyanı 1936'ya, iskelet kanıtının toplu dökümü 1984'e, yöntemsel itiraz 1992'ye, karamsar okumanın popüler biçimi ise 1991 ile 2015 arasına düşe",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Childe'ın ölçüt beyanı 1936'ya, iskelet kanıtının toplu dökümü 1984'e, yöntemsel itiraz 1992'ye, karamsar okumanın popüler biçimi ise 1991 ile 2015 arasına düşe",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Childe'ın ölçütü açıkça beyan edildiği için sınanabilir kaldı; uzun dönemli seride World kaydı, MÖ 10000 ile MÖ 3000 arasında onun beklediği yönde ilerler.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sağlık tarafındaki iddia ise dünyanın farklı bölgelerinden gelen iskelet örneklemleriyle sınanabilir hâle geldi; kaynağına göre bulgular tek tek vakalarda değil",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Wood, Milner, Harpending ve Weiss'in ortaya attığı paradoks itirazı bu birikimi geçersiz kılmıyor; onu okumanın demografik varsayımlar gerektirdiğini hatırlatıy",
       "durum": "OK",
       "not": ""
     }

@@ -21,6 +21,12 @@ export function onbellektenOku(url) {
   try {
     const k = JSON.parse(fs.readFileSync(p, 'utf8'));
     if (Date.now() - k.zaman > TTL_MS) return null;
+    // Kaydin kendi URL'i istenenle ayni degilse kayit bozulmustur: yanlis
+    // metni "kaynak boyle diyor" diye dondurmek, dogrulama zincirinin
+    // yapabilecegi en agir hatadir. 2026-08-29'da bir hakem oturumu
+    // onbellekten alakasiz bir sayfa aldigini bildirdi; bu kontrol o
+    // sinifin tamamini kapatir.
+    if (k.url !== url) return null;
     return k;
   } catch { return null; }
 }
@@ -96,7 +102,18 @@ export async function getir(url, { taze = false, metinSakla = true, deneme = 3 }
   // 5xx ayni sinifa girer. Onbelleklenirse tek bir hiz-sinirlama cevabi TTL
   // boyunca (7 gun) geri donulur ve kapi, sunucu coktan duzeldigi halde kirik
   // kalir — 2026-08-22'de gutenberg.org'da tam olarak bu yasandi.
-  if (sonuc.durum !== 0 && sonuc.durum < 500) fs.writeFileSync(yol(url), JSON.stringify(sonuc));
+  if (sonuc.durum !== 0 && sonuc.durum < 500) {
+    // Atomik yazma: paralel ajanlar ayni onbellek dizinine yazarken yarim
+    // dosya birakmasin diye once gecici ada yaz, sonra tasi.
+    const hedef = yol(url);
+    const gecici = `${hedef}.${process.pid}.${sonuc.zaman}.tmp`;
+    try {
+      fs.writeFileSync(gecici, JSON.stringify(sonuc));
+      fs.renameSync(gecici, hedef);
+    } catch {
+      try { fs.rmSync(gecici, { force: true }); } catch { /* yoksay */ }
+    }
+  }
   return sonuc;
 }
 

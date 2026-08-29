@@ -1,18 +1,12 @@
 # Çürütücü raporu — tartisma-fransiz-devrimi-yorumlari
-_2026-08-21T11:11:37.218Z_
+_2026-08-29T10:47:24.876Z_
 
-## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
+## Zayıf bulunmayan alanlar
 
-**Cümle:** "Bu haritanın çıkış noktası kaynağın kendi sonuç cümlesidir: 21. yüzyılda hiçbir tek açıklayıcı model yaygın kabul görmemiştir.[^k1]"
+Programatik tarama, §10'da sayılan yedi zayıflık tipinde (tek kaynaklı
+nedensellik, atıfsız kesinlik dili, üstünlük iddiası, kapsam çarpıtması,
+anakronizm, yetersiz pozisyon, ince kanıt tabanı) itiraz adayı bulamadı.
 
-**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
-
-**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
-
-## İtiraz 2 — [ciddiyet: dusuk] ustunluk-iddiasi
-
-**Cümle:** "Tek bir modelin yerini konu başlıklarının alması,[^k1] dördüncü pozisyonun dayanağıdır."
-
-**Sorun:** "Tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
-
-**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
+Bu, makalenin doğru olduğu anlamına gelmez; bu yedi kalıptan hiçbirinin
+tetiklenmediği anlamına gelir. Sayısal ve ad düzeyindeki doğrulama Geçiş 2,
+bağımsız yeniden türetme Geçiş 4 raporlarındadır.

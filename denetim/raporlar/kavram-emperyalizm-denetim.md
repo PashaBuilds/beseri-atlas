@@ -1,5 +1,5 @@
 ## kavram-emperyalizm
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:10.645Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:36.531Z_
 
 - [ATOMSUZ] k1 → "Kaynak, tanım bölümünün altında sömürgecilik alt başlığını tutar ve emperyalizm kuramlarına ayrı bir bölüm ayı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak, gerekçelendirme ve sorunlar başlığı altında dokuz alt başlık tutar: yayılmacılık, şarkiyatçılık ve hay…"

@@ -1,0 +1,777 @@
+{
+  "id": "tartisma-fransiz-devrimi-yorumlari",
+  "govde_hash": "7dc559b1fae7",
+  "commit": "7549ec6",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "yüzyıl yazıları başlıca ideolojik çizgilerde ayrışmıştı: muhafazakâr tarihçiler Devrim'i kınadı, liberaller 1789 Devrimi'ni övdü, radikaller 1793'ün demokratik ve cumhuriyetçi değerlerini savundu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "yüzyılda devrim tarihi profesyonelleşti ve araştırmacılar kamu arşivlerindeki birincil kaynakların eleştirel çözümlemesine daha çok dikkat vermeye başladı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Aynı kayda göre 1920'lerin sonundan 1960'lara kadar toplumsal ve iktisadi yorumlar, sıklıkla Marksçı bir bakış açısıyla, Fransa'da Devrim tarih yazımına hâkim oldu; 1960'larda düzeltmeci tarihçiler sınıf çatışmasının Devrim'in seyrinde başlıca belirleyici olmadığını, siyasi elverişlilik ile tarihsel olumsallığın çoğu kez toplumsal etkenlerden daha büyük rol oynadığını savunarak bu eğilime meydan okudu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Kaynağın kendi bilançosuna göre Devrim'in Batı tarihinde modern öncesi ile modern çağlar arasındaki eşik olduğu konusunda çok yaygın bir uzlaşma sürüyor; eşiği hangi kuvvetin açtığı sorusuna verilen cevap, modern siyasetin kendi soy ağacını nereye bağladığını da belirliyor.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Esik cumlesi kaynakta dogrudan; soy agaci yorumu atlasin cercevesidir · Odunc kisitli archive katalog kunyesi: kayit dizesi sayfada birebir var, kitabin kendisi okunamadigi icin destek kismi (ev kurali)."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "yüzyıl kaydına göre hiçbir tek açıklayıcı model yaygın kabul görmemiş, alan kültürel tarihler, kadınlar ve toplumsal cinsiyet, bölgesel tarihler, görsel temsiller, ulusaşırı yorumlar ve sömürgesizleşme gibi başlıklara dağılmıştır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Kaynağa göre Devrim üzerine ilk yazılar olaylarla neredeyse eşzamanlıydı ve aralarında Edmund Burke'ün 1790 tarihli muhafazakâr eleştirisi Reflections on the Revolution in France ile Thomas Paine'in 1791 tarihli cevabı Rights of Man bulunuyordu.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Burke'ün savı, aynı kaynağın aktarımıyla, Eski Rejim'in istikrarlı ve yaşayabilir olduğu, yalnızca ölçülü bir reforma ihtiyaç duyduğudur; Devrim ise dine, monarşiye ve yerleşik topluma olan inancı zayıflatan filozofların ve edebiyatçıların komplosudur; düzensizliğe kışkırtılan kalabalık, Burke'ün diliyle, \"the swinish multitude\" diye anılır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Kraliçenin uğradığı saldırıyı anlattığı sayfada şövalyelik çağının bittiğini, yerini sofistlerin, iktisatçıların ve hesapçıların aldığını yazar: \"But the age of chivalry is gone\" Aynı metinde soyut hak dilinin kurumsal etkisini de tarif eder: hak iddiaları karşısında kazanılmış hiçbir süre, hiçbir belge ve hiçbir parlamento kararı geçerli sayılmadığında, hükümetler bir kötüye kullanma tartışmasının değil bir yetki tartışmasının içine düşer.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Karşılık olarak öne sürdüğü ortaklık kavramı ise eşit haklar ile eşit paylar arasında ayrım yapar: bir ortaklıkta herkesin hakkı eşittir, payı değil.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Ona göre hiçbir parlamento ya da kuşak, sonraki kuşakları sonsuza dek bağlama yetkisine sahip değildir; mezarın ötesinden yönetme kibri, tiranlıkların en gülünç ve en küstah olanıdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Formülü kısadır: \"It is the living, and not the dead\" Paine, 1688 parlamentosunun bugünkü halkı bağlayamayacağını yazar ve tartışmayı bir yönetim biçimi tercihi olmaktan çıkarıp yetkinin kaynağına dair bir soruya çevirir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Albert Mathiez, kaynağın aktarımıyla, 1789 Devrimi'ni aristokrasi ile burjuvazi arasındaki sınıf çatışmasının ürünü sayar; ardından burjuvazi ile bir proto-proletarya olarak gördüğü sans-culotte'lar arasında ikinci bir çatışma gelir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Mathiez Robespierre'i savunur, Terör'ü demokratik cumhuriyetçi devrimi korumanın gereği sayar ve Devrim'in 9 Thermidor'da bittiğini, sonrasında yalnızca tepkinin kaldığını yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Kaynağa göre Devrim'in burjuvazinin zaferini temsil ettiğini ve Terör'ün bir aristokrat komplosuna tepki olduğunu savunur; köylülüğü, temelde kapitalizm karşıtı bir dünya görüşü taşıyan etkin katılımcılar olarak sunar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Sorbonne'daki kürsüsünde Albert Soboul, George Rudé ve Richard Cobb dahil bir tarihçi kuşağı yetiştirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Tek bir yılı anlatan kitabının kütüphane kaydına göre metin 1939'da Devrim'in yüz ellinci yılı için yayımlandı, savaşın patlak vermesinin ardından Vichy hükümetince bastırıldı ve Fransızca baskısının kopyalarının çoğu yok edildiği için 1947'de Palmer'ın İngilizce çevirisi çıkana dek neredeyse bilinmedi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yayin tarihcesi katalog kaydinin kendi metnindedir · Odunc kisitli archive katalog kunyesi: kayit dizesi sayfada birebir var, kitabin kendisi okunamadigi icin destek kismi (ev kurali)."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Kitabın bölümlenmesi tezini de verir: aristokratik devrim, burjuva devrimi, halk devrimi, köylü devrimi, insan ve yurttaş hakları, ekim günleri.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Odunc kisitli archive katalog kunyesi: kayit dizesi sayfada birebir var, kitabin kendisi okunamadigi icin destek kismi (ev kurali)."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Kaynağa göre 1968'den 1982'ye kadar Sorbonne'da Fransız Devrimi Tarihi kürsüsünü tuttu ve halk hareketlerinin çözümlemesinde uzmanlaştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "1958'de Paris'te yayımlanan sans-culotte incelemesi 1964'te The Parisian Sans-Culottes and the French Revolution 1793-4 adıyla İngilizceye çevrildi; Soboul burada sans-culotte'ların Devrim'in radikalleşmesini süren bir halk hareketini yansıttığını savunur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Baslik ve ceviri yili k3 kaydinda; icerik savi k1 aktarimi · k3 kaydi yalniz baslik ve 1964 ceviri yilini tasir; icerik savi k1 uzerinden dogrudan."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "1962 tarihli genel tarihinde ise Devrim'i, burjuvaziyi egemen sınıf hâline getiren uzun iktisadi ve toplumsal evrimin doruğu olarak okur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Alfred Cobban, kaynağın aktarımıyla, Marksçı toplumsal ve iktisadi açıklamalara iki çalışmayla itiraz etti: 1955 tarihli The Myth of the French Revolution ve 1964 tarihli The Social Interpretation of the French Revolution.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Cobban'a göre Devrim öncelikle toplumsal değil siyasi bir çatışmaydı; onu başlatan yükselen bir kapitalist burjuvazi değil, hukukçular ve makam sahiplerinden oluşan gerileyen bir sınıftı ve feodalite Devrim'den önce fiilen ortadan kalkmıştı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Aynı okumada Devrim'in kazananları büyük ve küçük muhafazakâr mülk sahipleridir; kaynak bu sonucun iktisadi gelişmeyi geciktirdiğini de aktarır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iktisadi gecikme savi kaynagin aktardigi bir yorumdur, olcum degil"
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Kitabın kendi bölümlenmesi itirazın niteliğini gösterir: feodalitenin anlamı, senyörlük haklarına saldırı, devrimin iktisadi sonuçları, toprak sahibi bir burjuvazi, kır ile kent karşıtlığı, köylülük içindeki toplumsal ayrımlar, sans-culotte'lar ve mülk sahibi sınıfların devrimi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Bolum listesi katalog kaydinin kendi metnindedir · Odunc kisitli archive katalog kunyesi: kayit dizesi sayfada birebir var, kitabin kendisi okunamadigi icin destek kismi (ev kurali)."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Bölüm başlıklarından biri savı doğrudan soru biçiminde taşır: \"Who were the revolutionary bourgeois?\" İtiraz kuramsal değil ampiriktir ve gücünü de sınırını da aynı yerden alır: yıkılan modelin yerine karşılaştırılabilir bir genel açıklama konmaz.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Bolum basligi katalogda birebir; ikinci cumle atlasin degerlendirmesidir · Odunc kisitli archive katalog kunyesi: kayit dizesi sayfada birebir var, kitabin kendisi okunamadigi icin destek kismi (ev kurali)."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Kaynağa göre 1967 tarihli Noncapitalist Wealth and the Origins of the French Revolution makalesinde ve başka denemelerinde, eski rejim soyluluğu ile kapitalistler arasında kayda değer bir iktisadi çatışma bulunmadığını ve kapitalist girişimlerin temsil ettiği servet payının küçük olduğunu savundu; sonucu, Devrim'in toplumsal sonuçları olan siyasi bir devrim olduğuydu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Makalenin bibliyografik kaydı yazarı, yılı ve dergiyi doğrular: American Historical Review, 1967.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "USTVERI-SINIRLI: kayit yalniz yazar, yil, baslik ve dergiyi dogrular"
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "François Furet, kaynağa göre Jakoben-Marksçı yorumların önde gelen Fransız eleştirmeniydi; Denis Richet'yle birlikte yazdığı 1965 tarihli çalışmada siyasi kararların önceliğini savundu ve 1789-91'in reformcu dönemini, ardından gelen kent kitlelerinin müdahaleleriyle radikalleşen ve yönetilemez hâle gelen durumla karşılaştırdı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Furet daha sonra siyasal olayların çözümlemesi ile çok daha uzun bir zaman diliminde gerçekleşen toplumsal ve iktisadi değişimlerin çözümlemesi arasında daha net bir ayrım gerektiğini savundu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Kaynağın aktarımıyla Furet, Jakoben-Marksçı yorumların totaliter bir eğilim barındırdığını ve Devrim'i anakronik biçimde 1917 Ekim Devrimi'nin ışığında okuduğunu ileri sürdü; buna karşılık aynı okulun köylülerin ve kent kitlelerinin rolüne dair anlayışı artırdığını kabul etti.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Alexis de Tocqueville ile Augustin Cochin'den etkilenen Furet, Fransızların Devrim'i modern Fransız tarihinin bütün yönlerinin anahtarı saymaktan vazgeçmesi gerektiğini savundu — bu, olayı kutsal bir kurucu ana olmaktan çıkarıp incelenebilir bir konuya indirme çağrısıdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ilk yarim kaynakta dogrudan; kurucu an ifadesi atlasin ozetidir"
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Penser la Révolution française'in 1981 tarihli İngilizce çevirisinin kütüphane kaydı bu yönelimi konu başlıklarında taşır: kitap Cochin ve Tocqueville başlıklarının yanı sıra doğrudan Devrim'in tarih yazımı başlığı altında sınıflanmıştır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Konu basliklari katalog kaydinin kendi metnindedir · Odunc kisitli archive katalog kunyesi: kayit dizesi sayfada birebir var, kitabin kendisi okunamadigi icin destek kismi (ev kurali)."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "yüzyıl İngilizce dünyasında etkiliydi; yazar Devrim'in pratik deneyimden yoksun düşünürlerce yönlendirildiğini ve eşitliğe özgürlükten fazla ağırlık verildiğini savundu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Aynı kayda göre katkısı yeni açılan Fransız arşivlerini yoğun kullanması ve Devrim'in çok nedenli olduğunda ısrar etmesidir; vurguladığı süreklilik, idari merkezîleşmenin Eski Rejim'den devrim yıllarına taşınmasıdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Tocqueville, idari merkezîleşmenin Fransa'da 1789 Devrimi'nden önce var olan bir kurum olduğunu ve yaygın kanının aksine Devrim'in ya da İmparatorluğun ürünü olmadığını gösteren bir bölüm yazar: \"not the product of the Revolution or of the Empire\" Aynı çalışmada, enkaz kaldırıldığında geriye kalanın, daha önce sınıflara, mesleklere ve ailelere dağılmış bütün yetki parçalarını kendinde toplamış devasa bir merkezî iktidar olduğunu yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Kaynağa göre Batılı araştırmacılar burjuvazi-proletarya sınıf mücadelesi terimleriyle kurulan Marksçı yorumları anakronik sayarak büyük ölçüde bıraktı; dil ve popüler kültür incelemesine dayanan yorumlar çoğaldı ve Devrim büyük ölçüde daha derin kültürel eğilimlerin bir belirtisi olarak görüldü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Çizginin öne çıkan çalışmaları arasında Robert Darnton'ın 1982 tarihli kitabı, Keith Michael Baker'ın 1990 tarihli Inventing the French Revolution'ı, Chartier'nin 1991 tarihli The Cultural Origins of the French Revolution'ı ve Lynn Hunt'ın 1984 tarihli Politics, Culture, and Class in the French Revolution'ı sayılır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Kitap iki kısma ayrılır: iktidarın poetikası — devrimin retoriği, siyasal pratiğin simgesel biçimleri, radikalizmin imgelemi — ve siyasetin toplumbilimi — devrimin siyasal coğrafyası, yeni siyasal sınıf, dışarıda kalanlar, kültür simsarları ve siyasal ağlar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Bolum listesi katalog kaydinin kendi metnindedir · Odunc kisitli archive katalog kunyesi: kayit dizesi sayfada birebir var, kitabin kendisi okunamadigi icin destek kismi (ev kurali)."
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Düzenleme, retoriği ve simgeyi sonucun süsü değil siyasal pratiğin kendisi sayar; sınıf kavramı atılmaz ama artık açıklayan değil açıklanacak olan konuma geçer.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Bolum duzeninden cikarilan okuma; katalog kaydi tezin kendisini tasimaz · Odunc kisitli archive katalog kunyesi: kayit dizesi sayfada birebir var, kitabin kendisi okunamadigi icin destek kismi (ev kurali)."
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "Aynı yazarın 1992 tarihli The Family Romance of the French Revolution çalışması da bu çizgide anılır.",
+      "onem": "renk",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "yüzyılın ikinci yarısındaki devrimci çatışmaların bir Atlantik devrimi ya da batı devrimi oluşturduğunu savundu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Kitabın kütüphane kaydı ölçeği alt başlığında taşır: Avrupa ile Amerika'nın 1760-1800 arasındaki siyasi tarihi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Alt baslik katalog kaydinin kendi metnindedir · Odunc kisitli archive katalog kunyesi: kayit dizesi sayfada birebir var, kitabin kendisi okunamadigi icin destek kismi (ev kurali)."
+    },
+    {
+      "iddia_id": "i43",
+      "cumle": "Cox'un aktarımına göre Marksist tarihçiler Palmer'ı NATO'ya tarihsel meşruiyet sağlamakla suçladı, Fransız milliyetçileri ise tezin Devrim'in tarihsel önemini küçülttüğünü söyledi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i44",
+      "cumle": "David Armitage'ın değerlendirmesine göre Palmer'ın çalışması Haiti Devrimi'ni ve İberik Amerika'yı dışarıda bırakır; köleleştirilmişlerin, kadınların ve kültürel tarihin yokluğu, çağın gerçekten radikal öğelerini kabul etmekten kaçınıldığını düşündürür.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i45",
+      "cumle": "James'in 1938 tarihli The Black Jacobins'i durur.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1938 ilk baski tarihi k1de; k8 kaydi 1989 Vintage baskisidir"
+    },
+    {
+      "iddia_id": "i46",
+      "cumle": "Kitabın bölümlenmesi iki devrimi tek bir anlatıda tutar: San Domingo kitleleri başlar, Paris kitleleri tamamlar, Toussaint yükselir, burjuvazi köleliği geri getirmeye hazırlanır ve bağımsızlık savaşı gelir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Bolum listesi katalog kaydinin kendi metnindedir · Odunc kisitli archive katalog kunyesi: kayit dizesi sayfada birebir var, kitabin kendisi okunamadigi icin destek kismi (ev kurali)."
+    },
+    {
+      "iddia_id": "i47",
+      "cumle": "Kaynağa göre son dönem araştırmaları James'in ve Aimé Césaire'in Jakoben-Marksçı yaklaşımından büyük ölçüde uzaklaştı; Michel-Rolph Trouillot ve Anthony Hurley gibi araştırmacılar sömürge kölelerinin kültürel geleneklerini öne çıkarıyor ve Haiti Devrimi'nin Fransız Devrimi'nin bir türevi olmadığını savunuyor.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i48",
+      "cumle": "Ulusaşırı ve küresel yorumlar alanın başlıca çalışma başlıklarından biri hâline geldi; 2013 tarihli The French Revolution in Global Perspective derlemesi bu yönelimin örnekleri arasında sayılıyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i49",
+      "cumle": "Mathiez'in okumasında Terör, demokratik cumhuriyeti savunmanın gereğidir; Burke'ün metninde ise devrimci şiddet, soyut hak dilinin köklü kurumları yetkisiz ilan etmesinin uzantısıdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki yarim iki ayri kaynaktan gelir; karsilastirmayi kuran atlastir"
+    },
+    {
+      "iddia_id": "i50",
+      "cumle": "Tocqueville'in bölüm başlığı idari merkezîleşmeyi Devrim'den önceye koyar; Lefebvre'in bölümlenmesi ise aynı yılları aristokratik, burjuva, halk ve köylü devrimleri diye ayırır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2 bacagi katalog kunyesi oldugu icin kismi; k11 tam metin oldugu icin dogrudan."
+    },
+    {
+      "iddia_id": "i51",
+      "cumle": "Palmer'ın Atlantik çerçevesi Fransız istisnacılığını reddediyor; Armitage'ın itirazı ise aynı çerçevenin Haiti'yi dışarıda bıraktığını gösteriyor.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i52",
+      "cumle": "Cobban Marksçı modele ampirik bir itiraz getirir, yerine karşılaştırılabilir bir büyük anlatı önermez; Furet'nin hedefi Devrim'in önemi değil, onun bütün modern Fransız tarihinin anahtarı sayılmasıdır; Hunt kültürü sınıfın yerine değil, siyasetin çözümleme birimi olarak koyar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hunta dair ozet katalog bolum listesinden cikarilir; o yoruyla kismi"
+    },
+    {
+      "iddia_id": "i53",
+      "cumle": "yüzyıl kaydına göre bu çizgilerden hiçbiri yaygın kabul görmüş bir model üretmedi; alanın bugünkü hâli bir uzlaşma değil bir dağılma ve bu dağılmanın kendisi de tartışmanın bir verisi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 43,
+    "kismi": 10,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

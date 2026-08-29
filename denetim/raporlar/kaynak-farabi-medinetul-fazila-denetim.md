@@ -1,5 +1,5 @@
 ## kaynak-farabi-medinetul-fazila
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:16.775Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:42.742Z_
 
 - [OK]      k1 → "Kaynak maddesine şu cümleyle başlar: yazarın hayatı hakkında gerçekten güvenilir pek az şey biliyoruz; muhteme…"
 - [ATOMSUZ] k1 → "Kaynak, hâlâ tenkitli neşirlerin, tam İngilizce çevirilerin ve zaman zaman birkaç metnin herhangi bir dile çev…" — programatik olarak ölçülemedi (ad karşılığı yok): İngilizce

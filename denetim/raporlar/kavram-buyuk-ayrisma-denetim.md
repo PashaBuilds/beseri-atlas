@@ -1,5 +1,5 @@
 ## kavram-buyuk-ayrisma
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:10.462Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:36.340Z_
 
 - [OK]      k1 → "Kaynak, nedenleri kesin bir liste olarak değil olası etkenler başlığı altında on sekiz alt başlıkta sıralar: k…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak, sanayi öncesi ileri bölgeler başlığı altında altı alt başlık tutar: Çin, Batı Avrupa, Hindistan, Orta …" — 2 atom doğrulandı; 2 ad ölçülemedi

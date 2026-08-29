@@ -4583,3 +4583,68 @@ Pilot bütçe ölçümü: 12 dosya ≈ 3,9M jeton (onarım+hakem; dosya başına
   onarımı. KAPI 18 defteri 455 dosyaya indi.
 - Hedef-altı tartışma 24→14. Tam borudan geçen makale: 32
   (12 pilot + 20 tartışma); 32 matris GEÇERLİ, hepsi hash+commit bağlı.
+
+## 2026-08-29 (öğle) — Faz 3 / P3 dalgası: model kotası ve Opus'a geçiş
+
+- Fable 5 kotası doldu; 14 P3 ajanı düştü. Ölçüm: 13 dosya hiç
+  bozulmamış, biri (kalkınma yardımı) 1294 kelimede yarım kalmış ve
+  kütüğe girmemiş savunan adlarıyla KAPI 16'yı kırıyordu.
+- Çözüm: ajanlar `model: opus` ile yeniden başlatıldı. Kurtarma
+  protokolü dördüncü kez sınandı ve yine çalıştı.
+- P3'te ajanların yakaladığı ciddi bulgular:
+  * 1929 dosyasında UYDURMA GSYH sayıları (1929≈2.184 / 1932≈1.947 /
+    1939≈2.377) — OWID Maddison World serisi on yıllık çapalarla
+    ilerliyor, bu yıllar seride hiç yok. KAPI 19 yalnız nüfus kalıp
+    cümlelerini ölçtüğü için kör noktada kalmış. → Kapının kapsamı
+    genişletilmeli (entegrasyon sonrası iş).
+  * Haçlı dosyasında tek TDV müellifinin tezi olgu gibi sunuluyordu
+    (ROL 9 bulgusu) — beş taraflı yapıya çevrildi.
+  * Kalkınma yardımı dosyasında Deaton'a kaynaksız mekanizma atfı
+    (hakem yakaladı; kaynakta o savın sahibi Moyo).
+  * Sanayi devrimi ajanı, telifli Williams metninin archive.org'daki
+    lisanssız kopyasına künye vermeyi REDDETTİ — ilke uyumu.
+- Yeni kaynak deseni: EH.Net kitap değerlendirmeleri (hakemli, tam
+  metin fetch edilebilir, hem tezi hem itirazı taşıyor) iktisat tarihi
+  dosyalarının omurgası oldu.
+
+## 2026-08-29 (akşam) — Faz 3 / P3 kapandı: TARTIŞMA KATMANI BİTTİ (40/40 hedefte)
+
+- 14 dosya onarıldı + hakemlendi; hedef altı tartışma 14 → **0**.
+- Model kotası (Fable 5) doldu; ajanlar `model: opus` ile yeniden
+  başlatıldı. Kurtarma protokolü beşinci kez sınandı: dosya+matrisler
+  diskte kaldı, iki hakem matrisi finalize edip raporsuz düştü
+  (mekanik kontrollerle kapatıldı), biri yeniden başlatıldı.
+- Hakem katmanının P3'te yakaladıkları:
+  * 1929: UYDURMA GSYH sayıları (seride o yıllar hiç yok) — hakem tam
+    CSV'yi çekip bağımsız doğruladı.
+  * Karşı-olgusal: Tucker YANLIŞ POZİSYONDA (Evans'ın siyasi eleştirisine
+    yazılmıştı) — kişi-pozisyon hatası, atlasın en ağır sınıfı.
+    Ayrıca Conrad-Meyer tezinin yönü ters aktarılmıştı.
+  * Haçlı: Constable'ın cümlesi anlamı TERSİNE çevirecek şekilde
+    kırpılmıştı ("hiçbiri sayı vermez" → aslında "İspanya/Baltık/Çocuk
+    seferleri için sayı vermez").
+  * Osmanlı: Gibb-Bowen atfı hiçbir künyede doğrulanmıyordu.
+  * Demografik: Lee-Mason'ın kendi çekincesi düşürülmüştü; "Daron
+    Acemoglu" yazımı kütükteki "Acemoğlu" ile hayalet ikinci kişi
+    üretiyordu.
+  * Sanayi devrimi: Crafts-Harley üstveri tavanı aşılmıştı; hakem
+    Harley 1982'nin özetini bulup künye ekledi.
+  * Fransız Devrimi: 8 iddia katalog kuralına göre kismi'ye indirildi;
+    "conspiracy" → "iş" çeviri sapması; C.L.R. James yanlış pozisyona
+    yazılmaktan kurtarıldı.
+- Ajanların İLKE uyumu: Diamond 1987 polemiğinin korsan kopyası,
+  Williams'ın telifli kitabının lisanssız taraması ve E.P. Thompson'ın
+  izinsiz yüklemesi künyeye ALINMADI; Carr'ın "salon oyunu" hükmü
+  doğrulanamadığı için Carr savunan alanına YAZILMADI ve boşluk metinde
+  ilan edildi.
+- ARAÇ ONARIMI (hakem uyarısından): getir.mjs önbelleği kaydın URL'ini
+  doğrulamıyordu ve yazma atomik değildi — bir hakem önbellekten
+  alakasız sayfa aldığını bildirdi. İkisi de onarıldı (URL eşleşmezse
+  önbellek yok sayılır; temp+rename ile atomik yazma).
+- Kütük +65 ad (toplam 333); doğrulanmış pozisyon %5 → **%54**.
+  13 gectigi düzeltmesi; "Süreçsel arkeoloji çizgisi" dayanaksız
+  'dogrulandi' → 'kisi-degil'.
+- 31 karşılıklı geri bağ; 7 dosyada bayat bağ metni; KAPI 11 ciriti
+  (benim bağ düzeltmemin düşürdüğü 5 kelime) telafi edildi.
+- KAPI 18 defteri 446 dosyaya indi. 13/13 kapı 0 hata 0 uyarı;
+  44 matris GEÇERLİ; 505/505 rapor güncel.

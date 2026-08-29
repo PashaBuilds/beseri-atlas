@@ -1,14 +1,54 @@
 ## tartisma-sanayi-devrimi-neden-ingiltere
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:14.405Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T11:04:59.085Z_
 
-- [ATOMSUZ] k1 → "Bu haritanın çıkış noktası kaynağın başlık seçimidir: nedenler kesin bir liste olarak değil olası etkenler baş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, olası etkenler başlığı altında şunları sayar: kömür, Yeni Dünya, köle ticareti, siyasi parçalanmışlık,…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bu kalemlerden birinin adı, listede yirminci yüzyılda ortaya çıkmış bir terimle verilmiştir; atlas o terimi bu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, sanayi öncesi ileri bölgeler başlığı altında altı alt başlık tutar: Çin, Batı Avrupa, Hindistan, Orta …" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "Sorunun bu haliyle bir karşılaştırma sorusu olarak kurulmuş olması, atlasın şu kuralının dayanağıdır: bu dosya…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "yüzyıl başında karşılaştırılabilir iktisadi gelişme düzeylerine ulaştığını savunduğunu ve ayrışmanın ancak 180…"
-- [OK]      k3 → "Birincil enerji tüketimi serisinde dünya toplamı 1800 için 97 TWh, 2025 için 166.753,6 TWh'dir."
-- [OK]      k1 → "Atlas bu seriyi kömür pozisyonunun kanıtı olarak sunmaz: seri dünya toplamını verir, Britanya'yı ayrı vermez v…"
-- [OK]      k3 → "Atlas bu seriyi kömür pozisyonunun kanıtı olarak sunmaz: seri dünya toplamını verir, Britanya'yı ayrı vermez v…"
+- [OK]      k6 → "Kenneth Pomeranz'ın 2000 tarihli kitabını değerlendiren Deepak Lal aynı soruyu, bilim insanlarını yüz yılı aşk…"
+- [OK]      k1 → "Robert Allen'ın kitabındaki merkezî bölüm tam olarak bu başlığı taşır ve Britanya'yı önce Çin'le, sonra Fransa…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Taraflar birbirini büsbütün dışlamaz da: Allen kültürü, tüketimi ve mülkiyet haklarını gerekli ama yetersiz sa…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Taraflar birbirini büsbütün dışlamaz da: Allen kültürü, tüketimi ve mülkiyet haklarını gerekli ama yetersiz sa…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Kitabı EH.Net için değerlendiren Tim Leunig bu konumu Rothbarth-Habakkuk çizgisinin devamı sayar ve Allen'ın k…"
+- [OK]      k2 → "Cambridge University Press'in 2009'da yayımladığı The British Industrial Revolution in Global Perspective 331 …"
+- [OK]      k1 → "Allen buharı, pamuğu ve demiri ayrı bölümlerde bu fiyat mantığıyla ele alır; Leunig'e göre onu salt bir fiyat …"
+- [OK]      k1 → "Standart anlatıda tarımsal verimlilik artışı insanları serbest bırakıp şehirlere gönderirken, Leunig'in özetin…"
+- [OK]      k1 → "Aynı dizinin dördüncü bölümü ucuz enerji ekonomisini karşılaştırmalı olarak ele alır ve ucuz kömürü Britanya'n…"
+- [OK]      k1 → "Onuncu bölüm ise doğrudan Joel Mokyr'ın tezine ayrılmıştır ve aynı hükmü orada da yineler: aydınlanmış iktisat…"
+- [OK]      k3 → "Joel Mokyr'ın 2010'da Princeton University Press'ten çıkan ve 1700-1850 aralığını kapsayan The Enlightened Eco…"
+- [OK]      k3 → "Kavramın ağırlığı kitabın mimarisinden okunur; Harley'nin sayımına göre yirmi bölümün beşinin başlığında Aydın…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Aynı değerlendirmeye göre kitap, sanayi aydınlanmasının Britanya'ya özgü olduğunu göstermekte tam olarak ikna …"
+- [OK]      k4 → "Deirdre McCloskey'nin 2010 tarihli Bourgeois Dignity kitabı dört ciltlik bir dizinin ikinci halkasıdır ve 571 …"
+- [OK]      k4 → "Kitabı değerlendiren Jared Rubin'in özetine göre McCloskey, Batı gelirlerinin sanayileşme öncesindeki günlük ü…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Tüccara, mucide ve tacire tanınan onur ile özgürlük, daha geniş bir kesime burjuva olma hevesi verdi; Rubin bu…"
+- [OK]      k4 → "İkincisi kökendir: burjuva onurunun nereden geldiği McCloskey'nin kitabında cevapsız kalır ve kurumsalcılar bu…"
+- [OK]      k5 → "Kurumsal cevabın klasik metni, Douglass North ile Barry Weingast'ın 1989'da Journal of Economic History dergis…"
+- [OK]      k5 → "Kaydın özetine göre makale, 1688 Şanlı Devrimi'nin ardından İngiltere'deki anayasal düzenlemelerin evrimini in…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Yazarların savı, yeni kurumların İngiltere'de yönetimin mülkiyet haklarına uyacağına dair güvenilir bir taahhü…"
+- [ATOMSUZ] k4 → "McCloskey'yi değerlendiren yazıya göre itiraz tersinden de kurulabilir; kültürel tutumlar kurumlara içsel ise,…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Allen'ı değerlendiren yazı ise mülkiyet haklarını gerekli ama yetersiz sayan konumu kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Kitabı değerlendiren Deepak Lal'a göre Pomeranz, on sekizinci yüzyılın dönümüne kadar Çin ile Avrupa çekirdekl…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "İkincisi Yeni Dünya'dır; keşif ve ticaret Avrupa'nın toprak sınırını genişletti." — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Aynı değerlendirme, Pomeranz'ın kendisinin de Yeni Dünya'dan gelen toprak yoğun ürün artışının büyük olamayaca…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k11 → "Eric Williams'ın doktora tezinin yayımlanmış hâli olan Capitalism and Slavery 1944'te çıktı; yazar 1962'de Tri…"
+- [OK]      k11 → "Williams, köleliğin Britanya ekonomisinin gelişmesinde büyük rol oynadığını, kölelikten elde edilen yüksek kâr…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k7 → "Kitabı değerlendiren Kevin O'Rourke'a göre Inikori, dış ticaretin — özellikle Afrika, Batı Hint Adaları ve Ame…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k7 → "Inikori'nin özgün katkısı, İngiliz sanayileşmesinin bir bölümünü yeniden ihracat ikamesi olarak okumasıdır: İn…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k7 → "O'Rourke kitabın kanıt yığınını ikna edici bulur ama nedenselliğe dair çekincesini de yazar: teknik değişimi t…"
+- [ATOMSUZ] k7 → "İngiltere'nin bölgeleri demiryolundan önce birbirine büyük ölçüde bağlı olmadığı için ayrı gözlemler sayılabil…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "O'Rourke bu kurguyu aktarırken kliometrisyenin arayacağı kanıtın eksik kaldığını da yazar: bölgelerin birbirin…" — programatik olarak ölçülemedi (ad karşılığı yok): İngiliz
+- [OK]      k11 → "Stanley Engerman'ın hesabına göre köle ticaretinden ve Batı Hint Adaları plantasyonlarından gelen toplam kâr, …" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k11 → "Seymour Drescher'in 1977 tarihli Econocide kitabı ise 1807'deki yasağı köleliğin değer kaybına değil, oy vereb…"
+- [OK]      k11 → "Aynı kayıt Williams'ı savunan tarafı da not eder: Hilary Beckles 2004'te kitabın Karayipler'deki akademik sayg…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "Jane Humphries'in 2013 tarihli makalesi başlığında iki itirazı birden adlandırır — toplulaştırılmış verinin ca…"
+- [OK]      k9 → "Başlık 1650-1800 arası Londra inşaat işlerini konu alır; gerçek sözcüğünü tırnağa alıp ücret sorusunu soru işa…"
+- [OK]      k13 → "Okumanın erken ifadesi Knick Harley'nin 1982'de Journal of Economic History dergisinde yayımladığı makaledir: …"
+- [OK]      k10 → "Nicholas Crafts ile Harley'nin 1992'de Economic History Review dergisinde yayımladığı makale bu okumanın yenid…"
+- [OK]      k12 → "Maddison serisindeki Birleşik Krallık rakamları bu okumayla uyumlu görünür: kişi başına gelir 1760'ta yaklaşık…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k12 → "Altmış yılda yüzde on beşi bulmayan bir artışın ardından sonraki elli yılda yüzde yetmişi aşan bir büyüme, hız…"
+- [OK]      k1 → "Allen'ın kitabını değerlendiren yazı da Crafts'ın 1985 tarihli çalışmasını bu tartışmanın referans noktası ola…"
+- [OK]      k1 → "Fiyat verisi ile teknoloji tarihi Allen'ın çerçevesinde en dolaysız karşılığını bulur; kurumsal değişimin zama…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k5 → "Fiyat verisi ile teknoloji tarihi Allen'ın çerçevesinde en dolaysız karşılığını bulur; kurumsal değişimin zama…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k7 → "Fiyat verisi ile teknoloji tarihi Allen'ın çerçevesinde en dolaysız karşılığını bulur; kurumsal değişimin zama…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Sanayi aydınlanmasının Britanya'ya özgülüğü, Mokyr'ı değerlendiren yazının da çözemediği noktadır."
+- [OK]      k4 → "Burjuva onurunun kökeni McCloskey'nin kitabında cevapsız kalır ve kurumların kendisinin nereden geldiği kurums…"
+- [OK]      k11 → "Kölelik kârlarının Britanya ekonomisi içindeki ağırlığı birbirinden uzak tahminlerle ölçülmeye devam eder; yük…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Yer sorusu ile zaman sorusunun birlikte cevaplanma zorunluluğu da sürüyor: bir etken Britanya'yı komşularından…"
 
-**Özet:** 6 OK · 0 ISARET · 0 HATA · 3 ATOMSUZ
+**Özet:** 45 OK · 0 ISARET · 0 HATA · 4 ATOMSUZ

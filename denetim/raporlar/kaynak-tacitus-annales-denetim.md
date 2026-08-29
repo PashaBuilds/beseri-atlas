@@ -1,5 +1,5 @@
 ## kaynak-tacitus-annales
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:17.771Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:43.766Z_
 
 - [OK]      k1 → "Kaynak, yazarı MS yaklaşık 56 - yaklaşık 120 arasına yerleştirir ve başlıca eserlerini Agricola, Annales, Dial…"
 - [OK]      k1 → "Kaynak eserler bölümünü ikiye böler: Augustus'un ölümünden itibaren Roma İmparatorluğu tarihi (altında Histori…" — 3 atom doğrulandı; 1 ad ölçülemedi

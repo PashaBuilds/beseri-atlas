@@ -1,5 +1,5 @@
 ## aktor-sovyetler-birligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:07.930Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:33.768Z_
 
 - [OK]      k1 → "Bu dosya devleti iç tarihiyle değil, uluslararası sistemdeki konumuyla ele alır: Soğuk Savaş, 1947 ile 1991 ar…" — 2 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k1 → "Rekabetin ilk evresi çevreleme, Truman Doktrini ve Kore Savaşı başlığıyla 1947–1953 arasına yerleştirilir." — 4 atom doğrulandı; 2 ad ölçülemedi

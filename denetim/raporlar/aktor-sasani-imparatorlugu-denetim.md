@@ -1,5 +1,5 @@
 ## aktor-sasani-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:07.723Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:33.555Z_
 
 - [OK]      k1 → "Sasani İmparatorluğu, 224–651 yılları arasındaki son İslam öncesi İran imparatorluğudur." — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kuruluş tek bir muharebeye bağlanır: Hürmüzgan Muharebesi 28 Nisan'da gerçekleşmiştir ve imparatorluğun başlan…" — 1 atom doğrulandı; 3 ad ölçülemedi

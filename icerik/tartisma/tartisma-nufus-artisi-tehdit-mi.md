@@ -34,6 +34,7 @@ ilgili:
   - tartisma-demografik-donum-sonuclari
   - tartisma-tarihsel-sayilar-nasil-okunur
   - tartisma-tarim-devrimi-neden
+  - tartisma-tarim-devrimi-ilerleme-mi
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

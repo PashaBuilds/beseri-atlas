@@ -1,5 +1,5 @@
 ## dusunur-biruni
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:08.551Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:34.399Z_
 
 - [OK]      k1 → "Bîrûnî, Hârizm bölgesinde doğdu ve yetişti; sonraki yıllarında Gazneli sarayının çevresinde çalıştı."
 - [ATOMSUZ] k1 → "Çağdaşı ile aynı kuşaktandır ve ikisi de aynı siyasi coğrafyanın hanedan merkezlerinde çalışmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

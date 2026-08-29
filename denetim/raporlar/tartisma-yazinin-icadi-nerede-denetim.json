@@ -1,103 +1,295 @@
 {
   "id": "tartisma-yazinin-icadi-nerede",
   "gecis": 2,
-  "zaman": "2026-08-29T04:48:15.125Z",
-  "govde_hash": "dd0c738e4b58",
-  "commit": "58a10ea",
+  "zaman": "2026-08-29T13:53:02.370Z",
+  "govde_hash": "4d61fa391004",
+  "commit": "7549ec6",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Bu haritanın çıkış noktası, kaynağın kendi cümlesindeki bir zaman kaydıdır: tek köken varsayımı bir bulgu olarak değil, bir dönemin kabulü olarak sunulur.",
+      "iddia": "yüzyıldan önce bilimsel kuramların çoğu bir tür tek köken varsayımı taşıyordu: yazı yalnızca bir kez, eski Sümer'de çivi yazısı olarak icat edilmiş, oradan kült",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sümer, Tekvin, Mezopotamya"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kolomb öncesi Mezoamerika sistemlerine dair farkındalığın artması bu varsayımı kesin biçimde bozdu ve bugün en yaygın kabul gören sayı dörttür: Mezopotamya'da M",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ölçütün kendisi kaynakta açıkça durur: bir işaret dizgesinin yazı sayılabilmesi için simgelerin konuşulan dilin öğelerine karşılık gelmesi beklenir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl öncesinde yazının kökenine dair bilimsel kuramların çoğunun bir tür tek köken varsayımına dayandığını; yazının yalnızca bir kez, eski Sümer'de çivi yazıs",
+      "iddia": "Yazı sistemlerinin genellikle üç ölçütü karşıladığı belirtilir: yazının bir amacı ya da anlamı olması, belirli simgeler kullanılması ve bu simgelerin konuşulan ",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sümer"
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, öne çıkan sekiz yazıyı bir arada sunar: Sümer çivi yazısı, Mısır hiyeroglifleri, Çin karakterleri, Maya yazısı, Devanagari, Latin alfabesi, Arap alfabes",
+      "iddia": "Üçüncü ölçüt belirleyicidir: tabela, resim, harita ve matematiksel gösterim gibi simgesel iletişim biçimleri, bir metni okumak için bir dilin bilinmesini gerekt",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu ayrımın öbür tarafında ön-yazı durur: ideografik ve anımsatıcı simgeler kullanan, dilin dilbilgisini ve söz varlığını tam yansıtamayan, çoğu kez yalnızca gen",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yazının her tarihsel icadı böyle bir ön-yazı geçmişinden çıkmıştır; ama ön-yazı dizgelerinin çoğu hiçbir zaman yazıya dönüşmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "binyıla tarihlenen kaplumbağa kabuğu işaretleri, arkeologların çoğunluğunca tam yazının doğuşuna bağlanmaz; Orta ve Güneydoğu Avrupa'daki Vinça işaretleri de ay",
       "durum": "OK",
       "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bu sekizlinin üç ayrı kıtadan gelmesi, tek köken varsayımının yanıtlaması gereken asıl güçlüğü gösterir: yayılma yolunun her biri için ayrı ayrı gösterilmesi ge",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, yazının her tarihsel icadının ideografik ve anımsatıcı simgeler kullanan ön-yazı sistemlerinden doğduğunu yazar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Tekil bir kökenden söz eden cümle ile çoğul icattan söz eden cümlenin aynı kaynakta bulunması, atlasın şu kuralının dayanağıdır: bir kaynağın tarih bölümü ile t",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, yazı sistemlerinin genellikle üç ölçütü karşıladığını belirtir: yazının bir amacı ya da anlamı olması, belirli simgeler kullanılması ve bu simgelerin ko",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Ön-yazının dillerdeki dilbilgisini ve söz varlığını tam yansıtamadığı ayrıca kaydedilir; aynı yerde çoğu kez yalnızca geniş ya da belirsiz bilgi kodlayabildiği ",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Eşiğin bu şekilde tanımlanması, \"yazı ne zaman icat edildi\" sorusuna verilecek tarihin eşiğe göre değişeceğini gösterir; kavram dosyasında, olayın kendisi ise d",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "yüzyıl.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Tek bir sistemin bile sekiz yüzyıla yayılan aşamalarla anlatılması, \"icat\" sözcüğünün bir ana değil bir sürece işaret ettiğini gösterir; kaynak ayrıca bu yazını",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Tek bir sistemin bile sekiz yüzyıla yayılan aşamalarla anlatılması, \"icat\" sözcüğünün bir ana değil bir sürece işaret ettiğini gösterir; kaynak ayrıca bu yazını",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, yazının erken kullanımları arasında tarımsal işlemlerin ve sözleşmelerin kaydedilmesini sayar; ardından maliye, din, yönetim ve hukuk alanlarında kullan",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir teknolojinin ilk işinin muhasebe olması, atlasın yazıyı kültürel değil ekonomik eksende de etiketlemesinin dayanağıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Okuryazarlık serisinde ölçüm çok geç başlar: dünya değeri 1820'de yaklaşık yüzde 12,05, 2022'de yaklaşık yüzde 87,42'dir.",
+      "iddia": "Mezopotamya ile Mısır sistemleri MÖ 3400 ile 3100 arasında ön-yazıdan kademeli olarak evrildi; ilk tutarlı metinler yaklaşık MÖ 2600'de görünür.",
       "durum": "OK",
       "not": ""
     },
     {
+      "anahtar": "k1",
+      "iddia": "Mısır'ın bağımsız sayılmasının gerekçesi, iki sistem arasındaki çok erken yapı ve üslup farklarıdır; bir uyaran yayılımı gerçekleştiyse bile bunun yalnızca yazı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aktarımın doğrudan kanıtı bulunmadığı için hiyerogliflerin kökeni konusunda kesin bir belirleme yapılmamıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Karşı konumu adıyla savunan Geoffrey Sampson'dır: ona göre Mısır hiyeroglifleri Sümer yazısından biraz sonra ortaya çıkmıştır ve büyük olasılıkla Sümer yazısını",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1990'larda Abydos'ta bulunan ve MÖ 3400 ile 3200 arasına tarihlenen kazınmış simgeler, bazı araştırmacıları Mezopotamya işaret dizgesinin Mısır'dakinden önce ge",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Buna karşılık Abydos'taki kanıtın tekil ve ani olduğu, Mezopotamya sisteminin evriminin ise uzun ve iyi belgelenmiş olduğu; öncülü sayılan jeton dizgesinin tarı",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı bölgede bulunan jetonlar üzerindeki tasarımların Uruk'tan gelen çağdaş kil etiketlere benzerlik taşıması, aynı buluntunun ters yöne de çekilebileceğini gös",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ilona Regulski'nin 2016'da yayımlanan Oxford el kitabı bölümü, Mısır yazı sisteminin sürekli konuşmayı kodlama işlevine uyarlanmasının yüzyıllar aldığını ve han",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İndus yazısı MÖ 2600 ile 2000 arasına tarihlenir, çözülememiştir ve gerçek bir yazı olarak işleyip işlemediği üzerinde uzlaşma yoktur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Tartışmanın modern hâlini 2004'te Steve Farmer, Richard Sproat ve Michael Witzel'in çalışması kurdu; başlığı konumu açıkça duyurur: İndus yazısı tezinin çöküşü ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Başlıktaki iki iddia birbirine bağlıdır: mühürlerdeki işaret dizileri bir dili kaydetmiyorsa, Harappa'yı okuryazar saymak da dayanaksız kalır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bildirinin özeti yayıncı tarafından gizlendiği için savın ayrıntısı bu künyeden okunamaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynakların kaydettiği, dizgenin gerçek bir yazı olarak işleyip işlemediğinde uzlaşma bulunmadığıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "1994'te Cambridge University Press'ten çıkan Deciphering the Indus Script, işaretleri çözülmeyi bekleyen bir yazı sayan araştırma programını daha adında taşır; ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sonuç listedeki sayıyı doğrudan etkiler: işaretler yazıysa bağımsız icat listesi uzar, değilse dört kalemlik sayım yerinde kalır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıla, okunabilen en erken yazıt ise MS 199'a tarihlenir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yazı, Maya düzeninde mantıksal simgeleri hece işaretleriyle birlikte kullanıyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "2006'da Science'ta duyurulan Cascajal bloğu bu soruyu keskin biçimde sordu: Veracruz'da, Olmek çekirdek bölgesinde bulunan blok, o güne kadar bilinmeyen bir yaz",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Houston gibi bölgenin yazı araştırmasını kuran adlar vardı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kelker, Olmek'in yazmayı bilip bilmediğini soran bir teknik yorum yayımladı.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Olmek"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Yuri Knorozov 1958'de American Antiquity'de yayımlanan yazısında, Amerika kıtasında Avrupa sömürgeleştirmesinden önce gerçek anlamda yazı bulunmadığı görüşünü r",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Thompson 1959'da aynı dergide cevap verdi; yazısı tarihsel kaynakların yeniden değerlendirilmesini ve çözüm yöntemlerinin karşılaştırılmasını önerir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Aynı özette tartışmanın havasını özetleyen bir cümle de vardır: \"hiç kimsede konuya tam hâkimiyet ile tarafsız bir tutum bir arada bulunmuyor\".",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Thomson, levhalardaki dizgeyi doğrudan \"yazılı dil\" diye tanımladı ve adanın başlıca ilgi çekici yanı saydı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Aynı rapor, aktarım zincirinin nasıl koptuğunu da kaydeder: kaçırılanlar arasında bilgi taşıyan görevliler vardı, levhalardaki gelenekler bir süre daha tekrarla",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Geoffrey Sampson'ın 1985'te Stanford University Press'ten çıkan Writing Systems: A Linguistic Introduction kitabı, yazı sistemlerini bir dil bilimi konusu olara",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Mignolo'nun 1994'te Duke University Press'ten çıkardığı derlemede toplanmıştır; kitabın adı bile programını duyurur: sözcüksüz yazı, Mezoamerika ve Andlar'da al",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Derlemedeki bölümler Aztek resimli tarihlerini \"sözsüz kayıtlar\" başlığı altında ele alır, kolonyal dönemde nesne ile alfabe arasındaki geçişi inceler ve Kolomb",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Dile bağlı kayıt ölçüt alınırsa liste dört kalemde kalır ve çözülmemiş işaret dizgeleri dışarıda durur; kayıt kabiliyeti ölçüt alınırsa sözsüz okuryazarlıklar d",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1977'de Denise Schmandt-Besserat, çivi yazısının gelişimini güney Mezopotamya'da yaklaşık MÖ 8000'den itibaren malları izlemek ve değiş tokuş etmek için kullanı",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
       "anahtar": "k3",
-      "iddia": "Yazının icadı ile yaygınlığının ölçülebildiği ilk tarih arasındaki bu boşluk, icat tartışmasının neden sayıyla değil kanıt yorumuyla yürüdüğünü gösterir; seri d",
+      "iddia": "1977'de Denise Schmandt-Besserat, çivi yazısının gelişimini güney Mezopotamya'da yaklaşık MÖ 8000'den itibaren malları izlemek ve değiş tokuş etmek için kullanı",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuramın yazı sistemleri araştırmacıları arasında yaygın biçimde tartışıldığı belirtilir; nedensel bağa itiraz edenler arasında Geoffrey Sampson ile Christopher ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Uzlaşılan çekirdek küçüktür ve sağlamdır: yazının birbirinden bağımsız olarak birden çok kez icat edildiğini kesin biçimde ortaya koyan, Kolomb öncesi Mezoameri",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kolomb, Mezoamerika"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mısır'ın bağımsızlığı, aktarımın doğrudan kanıtı bulunmadığı için ne gösterilebilmiş ne çürütülebilmiştir; Abydos buluntusu iki okumaya da açıktır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İndus işaretlerinin yazı sayılıp sayılmayacağı, çözülmüş tek bir metin çıkmadıkça ölçüt tartışması olarak sürecektir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "İndus işaretlerinin yazı sayılıp sayılmayacağı, çözülmüş tek bir metin çıkmadıkça ölçüt tartışması olarak sürecektir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Cascajal bloğu tek bir buluntudur ve tek buluntudan dizge çıkarmanın güçlüğü ortadadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Cascajal bloğu tek bir buluntudur ve tek buluntudan dizge çıkarmanın güçlüğü ortadadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Rongorongo için söylenebilecek en sağlam cümle, ne söylediğinin bilinmediğidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın kendi listesi de bu belirsizliği taşır: dört bağımsız icat, kesin bir sayım olarak değil en yaygın kabul gören sayı olarak belirtilir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

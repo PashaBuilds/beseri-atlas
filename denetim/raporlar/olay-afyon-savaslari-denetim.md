@@ -1,5 +1,5 @@
 ## olay-afyon-savaslari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:47:59.824Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:25.650Z_
 
 - [ATOMSUZ] k1 → "yüzyılda Çin ile Avrupalı güçler arasındaki çatışmalar olarak tanımlar." — programatik olarak ölçülemedi (ad karşılığı yok): Çin, Avrupalı
 - [OK]      k1 → "Birinci Afyon Savaşı 4 Eylül 1839 ile 29 Ağustos 1842 arasındadır ve Nanking Antlaşması ile sonuçlanır; İkinci…" — 2 atom doğrulandı; 4 ad ölçülemedi

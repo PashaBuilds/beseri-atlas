@@ -1,5 +1,5 @@
 ## kavram-belge-okumasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:10.342Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:36.222Z_
 
 - [ATOMSUZ] k1 → "Bu dosya bir tarihsel olguyu değil, atlasın kendi belge künyelerini yazarken tekrar tekrar karşılaştığı yedi k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Ortak yanları şudur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

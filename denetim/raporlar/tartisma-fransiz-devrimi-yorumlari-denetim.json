@@ -1,61 +1,391 @@
 {
   "id": "tartisma-fransiz-devrimi-yorumlari",
   "gecis": 2,
-  "zaman": "2026-08-29T04:48:13.423Z",
-  "govde_hash": "4e3c722189e5",
-  "commit": "58a10ea",
+  "zaman": "2026-08-29T11:01:43.772Z",
+  "govde_hash": "7dc559b1fae7",
+  "commit": "7549ec6",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyılda hiçbir tek açıklayıcı model yaygın kabul görmemiştir.",
+      "iddia": "yüzyıl yazıları başlıca ideolojik çizgilerde ayrışmıştı: muhafazakâr tarihçiler Devrim'i kınadı, liberaller 1789 Devrimi'ni övdü, radikaller 1793'ün demokratik ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyılda devrim tarihi profesyonelleşti ve araştırmacılar kamu arşivlerindeki birincil kaynakların eleştirel çözümlemesine daha çok dikkat vermeye başladı.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıla gelindiğinde devrim tarihinin profesyonelleştiğini ve araştırmacıların kamu arşivlerindeki birincil kaynakların eleştirel çözümlemesine daha fazla dikka",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, 1920'lerin sonundan 1960'lara kadar toplumsal ve iktisadi yorumların, sıklıkla Marksçı bir bakış açısıyla, Fransa'da Devrim tarih yazımına hâkim olduğun",
+      "iddia": "Aynı kayda göre 1920'lerin sonundan 1960'lara kadar toplumsal ve iktisadi yorumlar, sıklıkla Marksçı bir bakış açısıyla, Fransa'da Devrim tarih yazımına hâkim o",
       "durum": "OK",
       "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl başlığı altında ise Adolphe Thiers, François Mignet, Thomas Carlyle, Jules Michelet, Alexis de Tocqueville ve Hippolyte Taine sayılır.",
+      "iddia": "Kaynağın kendi bilançosuna göre Devrim'in Batı tarihinde modern öncesi ile modern çağlar arasındaki eşik olduğu konusunda çok yaygın bir uzlaşma sürüyor; eşiği ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Devrim, Batı"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl kaydına göre hiçbir tek açıklayıcı model yaygın kabul görmemiş, alan kültürel tarihler, kadınlar ve toplumsal cinsiyet, bölgesel tarihler, görsel temsill",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağa göre Devrim üzerine ilk yazılar olaylarla neredeyse eşzamanlıydı ve aralarında Edmund Burke'ün 1790 tarihli muhafazakâr eleştirisi Reflections on the Re",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Burke'ün savı, aynı kaynağın aktarımıyla, Eski Rejim'in istikrarlı ve yaşayabilir olduğu, yalnızca ölçülü bir reforma ihtiyaç duyduğudur; Devrim ise dine, monar",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kraliçenin uğradığı saldırıyı anlattığı sayfada şövalyelik çağının bittiğini, yerini sofistlerin, iktisatçıların ve hesapçıların aldığını yazar: \"But the age of",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kraliçenin uğradığı saldırıyı anlattığı sayfada şövalyelik çağının bittiğini, yerini sofistlerin, iktisatçıların ve hesapçıların aldığını yazar: \"But the age of",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Karşılık olarak öne sürdüğü ortaklık kavramı ise eşit haklar ile eşit paylar arasında ayrım yapar: bir ortaklıkta herkesin hakkı eşittir, payı değil.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Ona göre hiçbir parlamento ya da kuşak, sonraki kuşakları sonsuza dek bağlama yetkisine sahip değildir; mezarın ötesinden yönetme kibri, tiranlıkların en gülünç",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Formülü kısadır: \"It is the living, and not the dead\" Paine, 1688 parlamentosunun bugünkü halkı bağlayamayacağını yazar ve tartışmayı bir yönetim biçimi tercihi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Formülü kısadır: \"It is the living, and not the dead\" Paine, 1688 parlamentosunun bugünkü halkı bağlayamayacağını yazar ve tartışmayı bir yönetim biçimi tercihi",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir tartışmanın tarihçi adlarıyla bölümlenmesi, atlasın tartışma dosyalarında pozisyonları savunan adıyla tutmasının dayanağıdır.",
+      "iddia": "Albert Mathiez, kaynağın aktarımıyla, 1789 Devrimi'ni aristokrasi ile burjuvazi arasındaki sınıf çatışmasının ürünü sayar; ardından burjuvazi ile bir proto-prol",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mathiez Robespierre'i savunur, Terör'ü demokratik cumhuriyetçi devrimi korumanın gereği sayar ve Devrim'in 9 Thermidor'da bittiğini, sonrasında yalnızca tepkini",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağa göre Devrim'in burjuvazinin zaferini temsil ettiğini ve Terör'ün bir aristokrat komplosuna tepki olduğunu savunur; köylülüğü, temelde kapitalizm karşıtı",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Devrim, Terör"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sorbonne'daki kürsüsünde Albert Soboul, George Rudé ve Richard Cobb dahil bir tarihçi kuşağı yetiştirdi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tek bir yılı anlatan kitabının kütüphane kaydına göre metin 1939'da Devrim'in yüz ellinci yılı için yayımlandı, savaşın patlak vermesinin ardından Vichy hükümet",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kitabın bölümlenmesi tezini de verir: aristokratik devrim, burjuva devrimi, halk devrimi, köylü devrimi, insan ve yurttaş hakları, ekim günleri.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Adı geçen tarihçilerden biri için tutulan ayrı kayıt, onun başlıca eserlerini Amerika'da Demokrasi (1835) ve Eski Rejim ve Devrim (1856) künyeleriyle verir.",
+      "anahtar": "k1",
+      "iddia": "Kaynağa göre 1968'den 1982'ye kadar Sorbonne'da Fransız Devrimi Tarihi kürsüsünü tuttu ve halk hareketlerinin çözümlemesinde uzmanlaştı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1958'de Paris'te yayımlanan sans-culotte incelemesi 1964'te The Parisian Sans-Culottes and the French Revolution 1793-4 adıyla İngilizceye çevrildi; Soboul bura",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "1958'de Paris'te yayımlanan sans-culotte incelemesi 1964'te The Parisian Sans-Culottes and the French Revolution 1793-4 adıyla İngilizceye çevrildi; Soboul bura",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1958'de Paris'te yayımlanan sans-culotte incelemesi 1964'te The Parisian Sans-Culottes and the French Revolution 1793-4 adıyla İngilizceye çevrildi; Soboul bura",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1962 tarihli genel tarihinde ise Devrim'i, burjuvaziyi egemen sınıf hâline getiren uzun iktisadi ve toplumsal evrimin doruğu olarak okur.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alfred Cobban, kaynağın aktarımıyla, Marksçı toplumsal ve iktisadi açıklamalara iki çalışmayla itiraz etti: 1955 tarihli The Myth of the French Revolution ve 19",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cobban'a göre Devrim öncelikle toplumsal değil siyasi bir çatışmaydı; onu başlatan yükselen bir kapitalist burjuvazi değil, hukukçular ve makam sahiplerinden ol",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Devrim"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı okumada Devrim'in kazananları büyük ve küçük muhafazakâr mülk sahipleridir; kaynak bu sonucun iktisadi gelişmeyi geciktirdiğini de aktarır.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Devrim"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kitabın kendi bölümlenmesi itirazın niteliğini gösterir: feodalitenin anlamı, senyörlük haklarına saldırı, devrimin iktisadi sonuçları, toprak sahibi bir burjuv",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bölüm başlıklarından biri savı doğrudan soru biçiminde taşır: \"Who were the revolutionary bourgeois?\" İtiraz kuramsal değil ampiriktir ve gücünü de sınırını da ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağa göre 1967 tarihli Noncapitalist Wealth and the Origins of the French Revolution makalesinde ve başka denemelerinde, eski rejim soyluluğu ile kapitalistl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Makalenin bibliyografik kaydı yazarı, yılı ve dergiyi doğrular: American Historical Review, 1967.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "François Furet, kaynağa göre Jakoben-Marksçı yorumların önde gelen Fransız eleştirmeniydi; Denis Richet'yle birlikte yazdığı 1965 tarihli çalışmada siyasi karar",
       "durum": "OK",
       "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, 1980'lerden bugüne başlığı altında kültürel çalışmalar, kadınlar ve toplumsal cinsiyet, sömürgesizleşme ile Atlantik ötesi ve küresel tarihler alt başlı",
+      "iddia": "Furet daha sonra siyasal olayların çözümlemesi ile çok daha uzun bir zaman diliminde gerçekleşen toplumsal ve iktisadi değişimlerin çözümlemesi arasında daha ne",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın aktarımıyla Furet, Jakoben-Marksçı yorumların totaliter bir eğilim barındırdığını ve Devrim'i anakronik biçimde 1917 Ekim Devrimi'nin ışığında okuduğun",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alexis de Tocqueville ile Augustin Cochin'den etkilenen Furet, Fransızların Devrim'i modern Fransız tarihinin bütün yönlerinin anahtarı saymaktan vazgeçmesi ger",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Penser la Révolution française'in 1981 tarihli İngilizce çevirisinin kütüphane kaydı bu yönelimi konu başlıklarında taşır: kitap Cochin ve Tocqueville başlıklar",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl İngilizce dünyasında etkiliydi; yazar Devrim'in pratik deneyimden yoksun düşünürlerce yönlendirildiğini ve eşitliğe özgürlükten fazla ağırlık verildiğini",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngilizce, Devrim"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kayda göre katkısı yeni açılan Fransız arşivlerini yoğun kullanması ve Devrim'in çok nedenli olduğunda ısrar etmesidir; vurguladığı süreklilik, idari merke",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Fransız, Devrim, Eski, Rejim"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Tocqueville, idari merkezîleşmenin Fransa'da 1789 Devrimi'nden önce var olan bir kurum olduğunu ve yaygın kanının aksine Devrim'in ya da İmparatorluğun ürünü ol",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Tocqueville, idari merkezîleşmenin Fransa'da 1789 Devrimi'nden önce var olan bir kurum olduğunu ve yaygın kanının aksine Devrim'in ya da İmparatorluğun ürünü ol",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağa göre Batılı araştırmacılar burjuvazi-proletarya sınıf mücadelesi terimleriyle kurulan Marksçı yorumları anakronik sayarak büyük ölçüde bıraktı; dil ve p",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çizginin öne çıkan çalışmaları arasında Robert Darnton'ın 1982 tarihli kitabı, Keith Michael Baker'ın 1990 tarihli Inventing the French Revolution'ı, Chartier'n",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kitap iki kısma ayrılır: iktidarın poetikası — devrimin retoriği, siyasal pratiğin simgesel biçimleri, radikalizmin imgelemi — ve siyasetin toplumbilimi — devri",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Düzenleme, retoriği ve simgeyi sonucun süsü değil siyasal pratiğin kendisi sayar; sınıf kavramı atılmaz ama artık açıklayan değil açıklanacak olan konuma geçer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yazarın 1992 tarihli The Family Romance of the French Revolution çalışması da bu çizgide anılır.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Tek bir modelin yerini konu başlıklarının alması, dördüncü pozisyonun dayanağıdır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "yüzyılın ikinci yarısındaki devrimci çatışmaların bir Atlantik devrimi ya da batı devrimi oluşturduğunu savundu.",
+      "durum": "OK",
+      "not": ""
     },
     {
-      "anahtar": "k3",
-      "iddia": "İkinci pozisyonun bağlı olduğu gelenek için tutulan kayıt, tarihsel sürecin sınıf mücadeleleriyle nitelenen bir dizi üretim tarzı boyunca ilerlediğini anlatır.",
+      "anahtar": "k7",
+      "iddia": "Kitabın kütüphane kaydı ölçeği alt başlığında taşır: Avrupa ile Amerika'nın 1760-1800 arasındaki siyasi tarihi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cox'un aktarımına göre Marksist tarihçiler Palmer'ı NATO'ya tarihsel meşruiyet sağlamakla suçladı, Fransız milliyetçileri ise tezin Devrim'in tarihsel önemini k",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "David Armitage'ın değerlendirmesine göre Palmer'ın çalışması Haiti Devrimi'ni ve İberik Amerika'yı dışarıda bırakır; köleleştirilmişlerin, kadınların ve kültüre",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "James'in 1938 tarihli The Black Jacobins'i durur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "James'in 1938 tarihli The Black Jacobins'i durur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Kitabın bölümlenmesi iki devrimi tek bir anlatıda tutar: San Domingo kitleleri başlar, Paris kitleleri tamamlar, Toussaint yükselir, burjuvazi köleliği geri get",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağa göre son dönem araştırmaları James'in ve Aimé Césaire'in Jakoben-Marksçı yaklaşımından büyük ölçüde uzaklaştı; Michel-Rolph Trouillot ve Anthony Hurley ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ulusaşırı ve küresel yorumlar alanın başlıca çalışma başlıklarından biri hâline geldi; 2013 tarihli The French Revolution in Global Perspective derlemesi bu yön",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mathiez'in okumasında Terör, demokratik cumhuriyeti savunmanın gereğidir; Burke'ün metninde ise devrimci şiddet, soyut hak dilinin köklü kurumları yetkisiz ilan",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Mathiez'in okumasında Terör, demokratik cumhuriyeti savunmanın gereğidir; Burke'ün metninde ise devrimci şiddet, soyut hak dilinin köklü kurumları yetkisiz ilan",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Tocqueville'in bölüm başlığı idari merkezîleşmeyi Devrim'den önceye koyar; Lefebvre'in bölümlenmesi ise aynı yılları aristokratik, burjuva, halk ve köylü devrim",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Devrim, Lefebvre"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tocqueville'in bölüm başlığı idari merkezîleşmeyi Devrim'den önceye koyar; Lefebvre'in bölümlenmesi ise aynı yılları aristokratik, burjuva, halk ve köylü devrim",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Palmer'ın Atlantik çerçevesi Fransız istisnacılığını reddediyor; Armitage'ın itirazı ise aynı çerçevenin Haiti'yi dışarıda bıraktığını gösteriyor.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Palmer'ın Atlantik çerçevesi Fransız istisnacılığını reddediyor; Armitage'ın itirazı ise aynı çerçevenin Haiti'yi dışarıda bıraktığını gösteriyor.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cobban Marksçı modele ampirik bir itiraz getirir, yerine karşılaştırılabilir bir büyük anlatı önermez; Furet'nin hedefi Devrim'in önemi değil, onun bütün modern",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cobban Marksçı modele ampirik bir itiraz getirir, yerine karşılaştırılabilir bir büyük anlatı önermez; Furet'nin hedefi Devrim'in önemi değil, onun bütün modern",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Cobban Marksçı modele ampirik bir itiraz getirir, yerine karşılaştırılabilir bir büyük anlatı önermez; Furet'nin hedefi Devrim'in önemi değil, onun bütün modern",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "yüzyıl kaydına göre bu çizgilerden hiçbiri yaygın kabul görmüş bir model üretmedi; alanın bugünkü hâli bir uzlaşma değil bir dağılma ve bu dağılmanın kendisi de",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

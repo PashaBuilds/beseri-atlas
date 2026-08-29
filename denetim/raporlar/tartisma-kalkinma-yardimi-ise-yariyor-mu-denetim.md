@@ -1,14 +1,55 @@
 ## tartisma-kalkinma-yardimi-ise-yariyor-mu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:13.819Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T10:52:44.791Z_
 
-- [ATOMSUZ] k1 → "Kaynak, yardım etkililiğine dair kaygının yüksek bir genellik düzeyinde olabileceğini — yardımın ortalamada ke…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir sorunun kaynağın tanım bölümünde ikiye ayrılması, atlasın şu kuralının dayanağıdır: cevabı aktarmadan önce…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "yüzyıl başında genel olarak daha olumlu sonuçlar verir göründüğünü, ancak tablonun karmaşık ve pek çok bakımda…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Aynı kaynağın iki dönem için iki farklı yönelim bildirmesi, tek bir cevabın hangi yılların çalışmalarına dayan…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, 2003-2011 arasında yardım etkililiği üzerine yaklaşık dört üst düzey forum yapıldığını ve bunların Par…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir tartışmanın sekiz yıl içinde dört uluslararası forumla yönetilmeye çalışılması, sorunun yalnızca ekonometr…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Aynı ilişkiyi yapısal olarak ele alan kuram için tutulan kayıt, çevre devletlerden merkez devletlere doğru bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Yardımın yönünü tersine çeviren bir çerçevenin varlığı, "işe yarıyor mu" sorusunun ölçüm sorusu olduğu kadar ç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Aşırı yoksulluk oranı serisinde dünya değeri 1990'da yaklaşık yüzde 43,41, 2000'de yaklaşık yüzde 36,20, 2010'…"
+- [OK]      k12 → "Ölçek küçük değildir; alıcı ülkelere ulaşan net resmî kalkınma yardımı, sabit dolarla 1960'ta yaklaşık 34 mily…"
+- [OK]      k12 → "Seri düz de yükselmez: 1990'da 90 milyara yaklaşmış, 2005'te 123 milyarı geçmiş ve 1960-2021 arasını kapsayan …"
+- [ATOMSUZ] k1 → "Bu paranın etkililiği akademisyenler, yorumcular ve uygulayıcılar arasında şiddetle tartışılmış ve soru, geniş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Etkililik kaygısı yüksek bir genellik düzeyinde durabilir — yardım ortalamada kendisinden beklenen başlıca işl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İnsani yardım ile kalkınma yardımının tarihsel izlekleri de birbirinden ayrı işlenir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Soğuk Savaş bittikten sonra bağışçılar, jeopolitik çıkar hesabının gölgesinden çıkan yardımı iktisadi ve demok…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "yüzyıl başında bütüne bakıldığında daha olumlu sonuçlar verir göründü, ama tablo karmaşık ve birçok bakımdan a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Ölçümün kendi güçlükleri de vardır: hedefler çeşitlidir ve farklı hedefler, sonucun hangi zaman ölçeğinde aran…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kavganın merkez metni, Craig Burnside ile David Dollar'ın American Economic Review'da 2000'de yayımlanan Aid, …"
+- [OK]      k2 → "Kavganın merkez metni, Craig Burnside ile David Dollar'ın American Economic Review'da 2000'de yayımlanan Aid, …"
+- [OK]      k2 → "Burnside ile Dollar'ın özeti iki ayrı sonucu birbirine bağlar: iyi maliye, para ve ticaret politikaları izleye…"
+- [OK]      k2 → "Burnside ile Dollar'ın kendi çıkarımı buradan geliyordu: yardım, iyi politikaya daha dizgeli biçimde bağlansay…"
+- [OK]      k1 → "William Easterly, Ross Levine ve David Roodman 2004'te aynı dergide yayımlanan yorumda, veri seti genişletilip…"
+- [OK]      k3 → "William Easterly, Ross Levine ve David Roodman 2004'te aynı dergide yayımlanan yorumda, veri seti genişletilip…"
+- [OK]      k1 → "Roodman 2007'de daha genel bir sonuca vardı: aralarında Burnside-Dollar'ın da bulunduğu yedi ekonometrik çalış…"
+- [OK]      k1 → "Raghuram Rajan ile Arvind Subramanian'ın 2005'te dolaşıma giren ve 2008'de yayımlanan taraması da 1960-2000 ar…"
+- [OK]      k4 → "Raghuram Rajan ile Arvind Subramanian'ın 2005'te dolaşıma giren ve 2008'de yayımlanan taraması da 1960-2000 ar…"
+- [OK]      k1 → "Paul Mosley'nin mikro-makro paradoksu adını verdiği gözlemde, ülke düzeyindeki ölçümler, bağışçı ve uygulayıcı…"
+- [ATOMSUZ] k1 → "Bu eksikliğin görülmesi, uluslararası pratikte etki ölçümünü sıkılaştırma yönünde kademeli bir eğilim doğurdu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Abhijit Banerjee ile Esther Duflo'nun 2011'de yayımlanan Poor Economics'i bu açmazdan başka bir kapıyla çıkar:…"
+- [OK]      k5 → "İkili, rastgele atamalı kontrollü deneyi kalkınma iktisadına taşıyan öncülerdendir; MIT'deki Poverty Action La…"
+- [OK]      k6 → "Aynı çizginin alanda en çok tartışılan deneylerinden biri, Edward Miguel ile Michael Kremer'in Econometrica'da…"
+- [OK]      k7 → "Uluslararası bir epidemiyoloji dergisi 2015'te, Kenya'daki bu programın verilerini yeniden inceleyen iki ayrı …"
+- [ATOMSUZ] k8 → "Aynı ekibin eşlik eden ikinci yeniden-analizi, deneyi bir küme yarı-rastgele basamaklı saha denemesi olarak ye…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Hicks, Kremer ve Miguel aynı dergide, iki yeniden-analizi adlarıyla anan bir yorumla karşılık verdi."
+- [ATOMSUZ] k7 → "Bir yandan rastgele atamalı deney, kalkınma kanıtının çıtasını yükseltmiş ve veri paylaşımını yeniden analiz e…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Bir yandan rastgele atamalı deney, kalkınma kanıtının çıtasını yükseltmiş ve veri paylaşımını yeniden analiz e…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kaynak ikame edilebilir olduğunda alıcı hükümet, bağışçının para koyduğu alandaki kendi harcamasını kısıp serb…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Tahsisin amacı tam da bunu sınırlamaktır — paranın altyapıya, sağlığa ya da eğitime harcanması şart koşulur — …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k10 → "yüzyılda 300 milyon insanı öldürmüş bir hastalığı bitirmişti."
+- [OK]      k10 → "Eradikasyonun yaklaşık 300 milyon dolarlık maliyeti, 1980'den bu yana her yıl 1 milyar doları aşan tasarrufla …"
+- [OK]      k10 → "Aynı örgütün bilançosunda yalnız bu zafer yoktur: 187 ülke, bölge ve alan gine kurdu hastalığından arınmış, 38…"
+- [ATOMSUZ] k1 → "Hedefi dar, teknolojisi belli, sonucu sayılabilir bir dikey sağlık programı ile bir hükümetin genel bütçesine …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Yardımın sert eleştirmenleri bile bu ayrımı korur: Moyo'nun hedefi hükümetler arası ve çok taraflı yardımdır; …"
+- [OK]      k1 → "Bauer 1972 tarihli Dissent on Development'tan başlayarak yardımın yarardan çok zarar verdiğini savundu; ona gö…"
+- [OK]      k1 → "Dambisa Moyo 2009'da Dead Aid ile aynı damarı Afrika üzerinden güncelledi: ona göre yardım kleptokrasileri, yo…"
+- [OK]      k1 → "Mekanizmanın özü hesap verme yönüdür: dışarıdan gelen para, vergi karşılığında kamu hizmeti üretme bağını gevş…"
+- [ATOMSUZ] k1 → "Gelir toplama kapasitesi devlet kapasitesinin temel direklerinden biridir; etkili bir vergi düzeni hem adalett…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu kapasitesi zayıf olan devletler için yardım gerekli bir ikame gibi görünse de kurumsal gelişmeyi zayıflatma…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k11 → "Angus Deaton 2013'te The Great Escape ile bu kuşkucu bilançoya kendi adını ekledi: kitabın savunduğu teze göre…"
+- [ATOMSUZ] k1 → "Bağlı yardım — paranın bağışçı ülkenin ürünlerine harcanması şartı — yardımı bağışçının ticari hedeflerinin ar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Parçalanma ayrı bir yüktür: kimi Afrika ülkelerinde sağlık çalışanları, Batılı heyetlerle görüşmekten asıl işl…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Bir çalışma, dalgalanmaya bağlanan kaybı Avrupa Birliği'nden gelen programlanabilir yardımın ortalama yüzde 10…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Bağışçılar ve gelişmekte olan ülkeler, artan finansmanın kendi başına yetmediğini kabul edip paranın Binyıl Ka…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k1 → "Paris Bildirgesi ile bu forumların öteki sonuçları, daha iyi kalkınma sonuçları için ne yapılması gerektiğine …" — programatik olarak ölçülemedi (ad karşılığı yok): Bildirgesi
+- [OK]      k1 → "Bildirgenin önceliklerinden biri, yerel sistemlere paralel işleyen yardım düzeneklerini azaltmaktı; 2011'den s…"
+- [ATOMSUZ] k1 → "Ortalama etki sorusunda regresyon literatürü kırılgandır ve iki dönemin bulguları farklı yönleri göstermiştir;…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Ortalama etki sorusunda regresyon literatürü kırılgandır ve iki dönemin bulguları farklı yönleri göstermiştir;…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k10 → "Ortalama etki sorusunda regresyon literatürü kırılgandır ve iki dönemin bulguları farklı yönleri göstermiştir;…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Açık kalanlar da bellidir: iyi politika koşulunun ölçülebilir olup olmadığı, deney sonuçlarının ölçek büyütmey…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 2 OK · 0 ISARET · 0 HATA · 7 ATOMSUZ
+**Özet:** 30 OK · 0 ISARET · 0 HATA · 20 ATOMSUZ

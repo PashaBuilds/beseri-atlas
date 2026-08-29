@@ -1,5 +1,5 @@
 ## tartisma-romanin-cokus-nedeni
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:00:04.139Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:40.299Z_
 
 - [OK]      k1 → "Roma'nın çöküşü sorusu, cevaplarının sayısıyla tanınan bir tarih yazımı sorunudur: Alexander Demandt 1984'te, …" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k3 → "Roma'nın çöküşü sorusu, cevaplarının sayısıyla tanınan bir tarih yazımı sorunudur: Alexander Demandt 1984'te, …" — 4 atom doğrulandı; 2 ad ölçülemedi

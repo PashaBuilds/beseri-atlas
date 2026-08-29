@@ -1,5 +1,5 @@
 ## aktor-eyyubi-devleti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:05.166Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:31.029Z_
 
 - [OK]      k1 → "Devlet 1171'de Selahaddin tarafından kuruldu ve 1260'ta sona erdi; yönetim biçimi kaynakta "sultanlık (beylikl…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "yüzyıl sonu için 7.200.000 kişilik bir tahmin verir, ama aynı kutunun dipnotunda Eyyûbî topraklarının toplam n…" — 1 atom doğrulandı; 3 ad ölçülemedi

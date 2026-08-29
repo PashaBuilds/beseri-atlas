@@ -1,5 +1,5 @@
 ## kavram-hegemonya
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:10.826Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:36.715Z_
 
 - [ATOMSUZ] k1 → "Hegemonya, bir devletin ya da toplumsal bir grubun ötekiler üzerindeki üstünlüğünü, önderliğinin kabul edilmes…" — programatik olarak ölçülemedi (ad karşılığı yok): Yunanca
 - [ATOMSUZ] k1 → "Uluslararası ilişkiler yazınında şu çizgiyle ayrılır: hegemon, öteki devletlerin dış ilişkilerini yönlendirir …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

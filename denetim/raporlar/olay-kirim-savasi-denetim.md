@@ -1,5 +1,5 @@
 ## olay-kirim-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:01.927Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:27.773Z_
 
 - [OK]      k1 → "Savaşın sonu, bir askerî çöküşten çok bir yalıtılma hesabıyla gelir: diplomatik olarak yalıtılmış ve savaş sür…"
 - [OK]      k1 → "Aynı kayda göre karşı taraf da istekli değildi: Fransa ve Britanya, çatışmanın iç kamuoyundaki popülersizliği …"

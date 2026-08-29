@@ -1,5 +1,5 @@
 ## veri-kentli-nufus-sayisi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:48:15.831Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:41.790Z_
 
 - [OK]      k1 → "Seri MÖ 10000'de 0 ile başlar ve 2025'te yüzde 57,8335 ile biter."
 - [OK]      k1 → "Atlasın bir başka dosyası aynı olguyu 1950'den başlayan ve tahmin türü ayrıca belirtilmiş bir seriyle kaydeder…"

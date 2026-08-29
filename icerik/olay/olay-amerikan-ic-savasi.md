@@ -68,8 +68,8 @@ değil belirli bir nüfus grubuna aittir.[^k1]
 Aynı sorun savaş ölümleri verisinin genelinde de kayıtlıdır: kullanılan veri kümesine göre verilen rakam
 muharip ölümleridir ve çarpışmalar nedeniyle ölen siviller ile çatışmaların yol
 açtığı açlık ve hastalıktan kaynaklanan artan ölümler hesaba katılsaydı toplam
-çok daha yüksek olurdu.[^k2] Yöntem sorunu
-[Tarihsel bilanço sayıları nasıl okunmalı?](/tartisma/tarihsel-sayilar-nasil-okunur/)
+çok daha yüksek olurdu.[^k2] Sayıların nasıl okunacağı sorusu
+[Tarihsel sayılar nasıl okunur?](/tartisma/tarihsel-sayilar-nasil-okunur/)
 haritasında ele alınıyor.
 
 ## Savaşın çerçevesi

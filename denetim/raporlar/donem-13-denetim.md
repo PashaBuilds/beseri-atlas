@@ -1,5 +1,5 @@
 ## donem-13
-_Geçiş 2 — kaynak denetimi · 2026-08-29T04:47:58.577Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:24.384Z_
 
 - [OK]      k3 → "Otuz bir yıl içinde Osmanlı Devleti sona erdi, 1929'da başlayan buhranla birlikte dünya ticareti çöktü ve demo…"
 - [OK]      k1 → "Otuz bir yıl içinde Osmanlı Devleti sona erdi, 1929'da başlayan buhranla birlikte dünya ticareti çöktü ve demo…" — 2 atom doğrulandı; 1 ad ölçülemedi
