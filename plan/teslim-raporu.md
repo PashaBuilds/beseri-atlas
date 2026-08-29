@@ -11,6 +11,47 @@ bölümü tam bir onarım-hakem borusundan geçirildi; borunun kendisi, hakemler
 bulduğu kusurlarla defalarca düzeltildi. Sayıyı büyütmek yerine, büyütmenin
 üzerine kurulacağı ölçüm ve denetim katmanı sağlamlaştırıldı.
 
+## 1.5 Başlangıç ve bitiş ölçümleri
+
+Taban, denetim oturumunun başladığı commit'tir: `1d273c7`, 28 Ağustos 21:26.
+İki sütun da **aynı betikle** ölçüldü; elle yazılmış hiçbir sayı yoktur.
+
+| Ölçü | Başlangıç | Şimdi | Fark |
+|---|---:|---:|---:|
+| Makale | 505 | 517 | +12 |
+| Künye (toplam) | 1.678 | 2.385 | +707 (%42) |
+| **Birincil künye** | **288** | **692** | **+404 (%140)** |
+| Wikipedia künyesi | 688 | 594 | **−94 (%14 azalma)** |
+| Gövde kelimesi | 313.232 | 455.628 | +142.396 (%45) |
+| Kör hakemden geçmiş makale | 0 | 100+ | +100 |
+| Geçerli iddia-kaynak matrisi | 0 | 98+ | +98 |
+| Kapı sayısı (lint'te koşan) | 13 | 13 | — |
+
+Tablonun en önemli satırı üçüncü ve dördüncüsüdür: kaynak sayısı %42 artarken
+Wikipedia'ya bağlı künye sayısı DÜŞTÜ. Yani büyüme, en kolay kaynağa
+yaslanarak değil, birincil kayda inilerek yapıldı. Beşinci satır da bunun
+tersini kanıtlamıyor: kelime sayısı %45 arttı ama makale sayısı yalnızca
+%2 arttı — yani artış, yeni dosya açarak değil, var olan dosyaları
+derinleştirerek geldi.
+
+## 1.6 Sayı hedefi ve gerçek hız
+
+Kullanıcının hedefi en az 3000 makale. Bu oturumda ulaşılan sayı 517'dir ve
+bunun neden 3000 olmadığı ölçülerek yazılmalıdır (karar K10).
+
+Tam boru (üretim ya da onarım ajanı + kör hakem) dosya başına ölçülen maliyet:
+olay/düşünür tipinde ~300 bin jeton, kavram tipinde ~200 bin. 505'ten 3000'e
+çıkmak 2495 yeni makale, yani en ucuz tipte bile ≈ 500 milyon jeton demektir.
+Bu oturuma ayrılan bütçe bunun otuzda biri kadardır.
+
+Bu yüzden oturum sayıyı değil **hızı ve seçim ölçütünü** teslim ediyor:
+- `araclar/bosluk.mjs`, ne yazılacağını tahminle değil ölçümle seçer:
+  atlasın kendi içinde adı geçip dosyası olmayan konular. Şu an 61 aday.
+- Yazılan her yeni makale, VAR OLAN bir dosyanın dayanaksız kalan bir
+  iddiasını kapatıyor — rastgele kapsam büyütmesi değil.
+- Kalite eşiği hiçbir noktada düşürülmedi: yeni makaleler de kör hakemden
+  geçiyor, matris kuruyor ve aynı on üç kapıdan geçmek zorunda.
+
 ## 2. Hattın kurulumu
 
 Onarım ve hakem işleri iki ayrı oturuma bölündü ve **yazar ile hakem hiçbir
