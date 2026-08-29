@@ -16,7 +16,11 @@ import { govdeHash } from './denetle.mjs';
 
 const NEDENSELLIK = /(nedeniyle|yüzünden|sonucunda|sayesinde|yol açtı|neden oldu|sebebiyle|bu yüzden|kaynaklanır|etkisiyle)/i;
 const KESINLIK = /\b(kesindir|şüphesiz|kuşkusuz|açıkça gösterir|kanıtlamıştır|tartışmasız|her zaman|hiçbir zaman|tamamen)\b/i;
-const USTUNLUK = /\b(ilk|en büyük|en erken|en önemli|en eski|tek|yegâne|biricik)\b/i;
+// 2026-08-29, Thukydides hakemi: uc desteksiz oncelik iddiasinin ucunu de
+// curutucu kacirdi ve hakem elle buldu — desen 'en buyuk/erken/onemli/eski'
+// ile sinirliydi, 'en cok tartisilan', 'en yaygin ... bicimi' gibi ayni isi
+// goren kaliplari gormuyordu.
+const USTUNLUK = /\b(ilk|tek|yegâne|biricik|en\s+(büyük|erken|önemli|eski|çok|yaygın|fazla|geniş|uzun|güçlü|belirleyici))\b/i;
 // Yanlis pozitif suzgeci (2026-08-29 hakem olcumu: bir dosyada yedi itirazin
 // besi dilsel yanlis pozitifti). "tek" ve "ilk" Turkcede oncelik bildirmeyen
 // yaygin kaliplarda gecer: "tek tek" (birer birer), "tek bir X" (a single X),
@@ -47,7 +51,9 @@ const USTUNLUK_YANLIS_POZITIF = [
   // Zamansal ve ordinal kullanimlar (dort hakemin bildirdigi somut ornekler)
   /\bilk\s+(gün|yıl|ay|hafta|an|kazanç|bakış|duy|aşama)/i,
   /\bilk\s+(madde|fıkra|cilt|baskı|sayı)/i,
-  /\bilk\s+(kez|olarak)\s+(?!dünyada|tarihte)/i,
+  // "ilk kez" cogu zaman GERCEK bir oncelik iddiasidir; muafiyet yalnizca
+  // metnin kendi ici sirasini bildiren kullanimlara daraltildi.
+  /\b(bu (yazıda|metinde|bölümde)|yukarıda|aşağıda)\s+ilk\s+(kez|olarak)/i,
   /\btek\s+(cümle|kelime|sözcük|satır|sayfa|paragraf)/i,
   /\btek\s+yolu\b/i,
   /\btek\s+seferlik\b/i,
@@ -86,8 +92,17 @@ export function itirazAdaylari(m) {
     if (/^#{1,6}\s/.test(t.trim()) || /^\|/.test(t.trim())) continue;
     const refs = [...new Set(dipnotlar(t))];
 
+    // Atif cercevesi ve tirnak muafiyeti, hem nedensellik hem ustunluk
+    // sinamasinda gecerlidir (2026-08-29: dort hakem ustunlukte, Thukydides
+    // hakemi nedensellikte ayni kusuru bildirdi). Bir cumle kaynaga
+    // atfediliyorsa ya da tirnak iciyse, icindeki neden-sonuc baglantisi
+    // makalenin iddiasi degil KAYNAGIN kendi sozudur; dusunur dosyalarinda
+    // bu, itirazlarin nerdeyse tamami demekti.
+    const tirnakIci = /["“”«»]/.test(t);
+    const atifFiili = /\b(göre|yazar|kaydeder|sayar|gösterir|belirtir|aktarır|der|dedi|söyler|savunur|bildirir|anlatır|niteler|çıkarır)\b/i.test(t);
+
     // 1. Tek kaynağa dayanan nedensellik iddiası
-    if (NEDENSELLIK.test(t) && refs.length === 1) {
+    if (NEDENSELLIK.test(t) && refs.length === 1 && !tirnakIci && !atifFiili) {
       ekle('orta', 'tek-kaynakli-nedensellik', t,
         `Nedensellik iddiası tek kaynağa (${refs[0]}) dayanıyor.`,
         'İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla.');
@@ -109,8 +124,6 @@ export function itirazAdaylari(m) {
     // "our first Viceroy"; aktarilan konusmacinin "tek yolu"; kaynagin
     // "en buyuk kayip sayar" hukmu. Bunlari itiraz saymak, hakemin ayni
     // dort itirazi her dosyada elle reddetmesi demekti.
-    const tirnakIci = /["“”«»]/.test(t);
-    const atifFiili = /\b(göre|yazar|kaydeder|sayar|gösterir|belirtir|aktarır|der|dedi|söyler|savunur|bildirir)\b/i.test(t);
     const ust = USTUNLUK.exec(t);
     if (ust && refs.length > 0 && !YUMUSATMA.test(t) && !ustunlukSahteMi(t)
         && !tirnakIci && !atifFiili) {

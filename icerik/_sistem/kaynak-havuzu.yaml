@@ -57,6 +57,9 @@ whitelist:
     tur: akademik
     dogrulanabilir: true
     kapsam: [felsefe]
+    # 2026-08-29 Thukydides ajani olcumu: /thucydid/ -> 404. IEP'te Thukydides
+    # maddesi YOK; plato.stanford.edu/entries/thucydides/ de 404 doner. Bir
+    # felsefe ansiklopedisinde her konuda madde bulundugu varsayilmamali.
   - alan: dergipark.org.tr
     tur: akademik
     dogrulanabilir: true
@@ -139,6 +142,11 @@ whitelist:
   - alan: gutenberg.org
     tur: birincil
     dogrulanabilir: true
+    # 2026-08-29 Locke ajani olcumu: pg7370 (Second Treatise) 338.548 karakter.
+    # DIKKAT: metin CRLF satir sonu tasiyor; IKI SATIRA YAYILAN bir
+    # dogrulama_dizesi fetch'te BULUNAMAZ — dize TEK SATIRDAN secilmeli.
+    # pg7142 (Thukydides, Crawley) 1.215.682 karakter: 400k penceresi
+    # yalnizca I-III. kitaplari kapsar, IV-VIII sinanamaz.
   - alan: archive.org
     tur: birincil
     dogrulanabilir: true
@@ -175,6 +183,11 @@ whitelist:
     tur: birincil
     dogrulanabilir: true
     kapsam: [klasik-metinler]
+    # 2026-08-29 Thukydides ajani olcumu: Ingilizce (1999.01.0200) ve Yunanca
+    # (1999.01.0199) uclari 200 doner, ~51-59k karakter, bolum bazinda cagrilir
+    # (book=N:chapter=M). Politonik Yunanca getir.mjs'ten BOZULMADAN geciyor
+    # ('ἀληθεστάτην πρόφασιν' birebir dogrulandi); ceviri farki olcmek icin
+    # kullanilabilir. 400k sinirina takilan buyuk ciltlere alternatiftir.
   - alan: avalon.law.yale.edu
     tur: birincil
     dogrulanabilir: true
@@ -183,6 +196,12 @@ whitelist:
       # yol kalibi japan00N.asp'dir (japan002.asp = Kanagawa Antlasmasi,
       # 200 ve 6.671 karakter). japan.asp ve japan001.asp 404 doner.
       # Not: en.wikisource.org'da Convention_of_Kanagawa YOK (404).
+      # 2026-08-29 Locke ajani olcumu: /17th_century/nc05.asp (Fundamental
+      # Constitutions of Carolina) 200 ve 49.820 karakter, bot korumasi yok.
+      # UYARI: sayfa sonundaki (1)(2)(3) dipnotlari BELGENIN DEGIL, Thorpe'un
+      # 19. yuzyil derlemesinin EDITOR IDDIALARIDIR (metnin butununu Locke'a
+      # atfetmek, 96. maddenin ona ait olmadigi aktarimi gibi). Birincil kayit
+      # degil ikinci el atiftir; kunyede ve govdede oyle isaretlenmeli.
   - alan: marxists.org
     tur: birincil
     dogrulanabilir: true
@@ -250,6 +269,22 @@ whitelist:
       yasalar bu arsivde cogu zaman yalnizca kunye duzeyindedir.
       1858 Yasasi icin calisan yol: hansard.parliament.uk (sunus ve
       goruse) ya da archive.org'daki Statutes at Large cildi.
+  - alan: www.zeno.org
+    tur: birincil
+    birincil_tur: eser
+    dogrulanabilir: true
+    kapsam: [almanca, felsefe, sosyoloji]
+    not: >
+      Almanca kamu mali metin arsivi; Weber'in asillari burada (Die
+      protestantische Ethik, Soziologische Grundbegriffe, Die drei reinen
+      Typen der legitimen Herrschaft, Wissenschaft als Beruf).
+      2026-08-29 olcumu: http://www.zeno.org/Soziologie/M/Weber,+Max -> 200,
+      6.879 karakter, icindekiler tam; bolum sayfalari 200 ve ~1.400 karakter,
+      bolum bolum inmek gerekiyor. IKI TUZAK: (1) https CALISMIYOR (durum 0),
+      yalnizca http:// ile aciliyor; (2) karakter kodlamasi bozuk donuyor,
+      umlautlar U+FFFD oluyor — dogrulama_dizesi mutlaka ASCII harflerden
+      secilmeli. Ceviri tartismalari (or. "stahlhartes Gehause" / "demir
+      kafes") icin asil metne bakmayi mumkun kilan tek acik kanal.
   - alan: es.wikisource.org
     tur: birincil
     birincil_tur: eser

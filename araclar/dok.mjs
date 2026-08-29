@@ -81,13 +81,45 @@ if (tam) {
     if (kayit.url === url) { ham = kayit.ham; s = { durum: kayit.durum, onbellek: true, kesildi: false }; }
   }
   if (ham === null) {
-    const y = await fetch(url, { headers: { 'user-agent': 'beseri-atlas/dok' } });
-    ham = await y.text();
-    s = { durum: y.status, onbellek: false, kesildi: false };
-    fs.mkdirSync(dizin, { recursive: true });
-    const gecici = `${yol}.${process.pid}.tmp`;
-    fs.writeFileSync(gecici, JSON.stringify({ url, durum: s.durum, ham }));
-    fs.renameSync(gecici, yol);
+    // Yeniden deneme ve acik geri dusus. 2026-08-29, Thukydides hakemi:
+    // archive.org bir dugum konagini (dn760109.eu.archive.org) dusurdu,
+    // fetch ConnectTimeout ile firlatti ve arac hic cikti vermeden coktu.
+    // Ajan bunu "dize bulunamadi" sanabilirdi — en tehlikeli hata sinifi.
+    // archive.org `_djvu.txt` isteklerini her seferinde baska bir dugume
+    // yonlendirir; ayni URL'i tekrar denemek cogu zaman calisan bir dugum
+    // verir. Uc deneme de duserse ONBELLEKTEKI 400k penceresine dusulur ve
+    // bunun bir --tam sonucu OLMADIGI yuksek sesle yazilir.
+    let sonHata = null;
+    for (let i = 0; i < 3 && ham === null; i++) {
+      try {
+        const kontrol = new AbortController();
+        const zamanlayici = setTimeout(() => kontrol.abort(), 60000);
+        try {
+          const y = await fetch(url, { headers: { 'user-agent': 'beseri-atlas/dok' }, signal: kontrol.signal });
+          const govde = await y.text();
+          ham = govde;
+          s = { durum: y.status, onbellek: false, kesildi: false };
+        } finally { clearTimeout(zamanlayici); }
+      } catch (e) {
+        sonHata = e?.cause?.code || e?.name || e?.message;
+        process.stderr.write(`# --tam deneme ${i + 1}/3 dustu: ${sonHata}\n`);
+        if (i < 2) await new Promise((r) => setTimeout(r, 2000 * (i + 1)));
+      }
+    }
+    if (ham === null) {
+      process.stderr.write(`# --tam BASARISIZ (${sonHata}). 400k onbellek penceresine dusuluyor.\n`);
+      process.stderr.write('# DIKKAT: asagidaki sonuc bir --tam sonucu DEGILDIR. Bu pencerede\n');
+      process.stderr.write('#         bulunamayan bir dize kaynakta VAR olabilir; kunyeyi bu\n');
+      process.stderr.write('#         ciktiya bakarak DUSURME, once --tam ile yeniden dene.\n');
+      const yedek = await getir(url, { taze: false });
+      ham = String(yedek.metin ?? '');
+      s = { durum: yedek.durum, onbellek: true, kesildi: true, tamDustu: true };
+    } else {
+      fs.mkdirSync(dizin, { recursive: true });
+      const gecici = `${yol}.${process.pid}.tmp`;
+      fs.writeFileSync(gecici, JSON.stringify({ url, durum: s.durum, ham }));
+      fs.renameSync(gecici, yol);
+    }
   }
   metin = ham
     .replace(/<script[\s\S]*?<\/script>/gi, ' ')
@@ -114,7 +146,26 @@ if (s.kesildi && !tam) {
 // BIREBIR dondugunu, oysa sayfada "The money supply had fallen 35 percent"
 // yazdigini bildirdi. Yanlis "dogruladim" hukmu bu araci degersizlestirir.
 // Artik BIREBIR yalnizca gercek alt-dize eslesmesinde yazilir.
+// Ham PDF sozdizimi isaretleri. 2026-08-29, Thukydides hakemi: bir Crossref
+// kaydinin PDF baglantisi 200 dondu ama metin cikarilamadi; govde
+// "/XHeight 250 /Leading 42" gibi PDF ic yapisiydi. Arac bunu sessizce
+// "%0 kelime ortusmesi" diye gosterdi — yani saglam bir kunyeyi haksiz
+// dusurmeye davetiye. Artik ayri bir durum olarak bildiriliyor.
+const HAM_PDF = /%PDF-|\/(XHeight|Leading|FontBBox|MediaBox|Linearized)\b|\bendobj\b|\bstream\s*$/m;
+export function hamPdfMi(metinK) {
+  const bas1k = String(metinK || '').slice(0, 4000);
+  return HAM_PDF.test(bas1k);
+}
+
 const etiket = (metinK, dize) => {
+  if (hamPdfMi(metinK)) {
+    return {
+      yazi: 'METIN CIKARILAMADI — govde ham PDF sozdizimi; dize aramasi ANLAMSIZ. '
+        + 'Bu bir "gecmiyor" DEGILDIR: kunyeyi bu sonuca bakarak dusurme. '
+        + 'Yayincinin HTML surumunu ya da baska bir tam metin ucunu dene.',
+      ok: false, cikarilamadi: true,
+    };
+  }
   const k = dizeGeciyorMu(metinK, dize);
   const birebir = normalizeBosluk(metinK).includes(normalizeBosluk(dize));
   if (birebir) return { yazi: 'BIREBIR ALT-DIZE', ok: true };
