@@ -147,6 +147,140 @@ whitelist:
       asiri-olum tahmini haber sayfasi "14.9 million" dizesini birebir
       tasiyor). Modern saglik/salgin iddialarinin resmi kaynagi olarak
       Wikipedia'ya ustun tercih.
+  - alan: unesco.org
+    tur: akademik
+    dogrulanabilir: true
+    kapsam: [kuresel, kultur, kolelik]
+    not: >
+      UNESCO resmi sayfalari. 2026-08-29 olcumu: 200, 6,2k temiz metin.
+      Kolelik yollari (Routes of Enslaved Peoples) gibi kurumsal
+      programlarin kendi kaydi. DIKKAT: slavevoyages.org istemci
+      tarafinda ciziliyor (16 karakter doner) ve kunyeye YAZILAMAZ;
+      kole ticareti sayilari icin havuzdaki tek kurumsal kanal budur.
+  - alan: treccani.it
+    tur: ansiklopedi
+    dogrulanabilir: true
+    kapsam: [italya, dil, kultur]
+    not: >
+      Istituto della Enciclopedia Italiana. Imzali maddeler tasiyan ulusal
+      basvuru ansiklopedisi; kaynak hiyerarsisinde Wikipedia'nin ustunde,
+      akademik yayinin altinda. 2026-08-29 olcumu: 200, 3,7k temiz metin
+      (sayfalar kisadir ama govde gercek icerik tasir, kabuk degil).
+      DIKKAT: giris kapisi kuralina TABIDIR — bir makalede Treccani ile
+      Wikipedia birlikte kullanilamaz. Italyan dil tarihi ve biyografi
+      iddialari icin havuzda baska kanal yoktu.
+  - alan: trumanlibrary.gov
+    tur: birincil
+    birincil_tur: belge
+    dogrulanabilir: true
+    kapsam: [abd, modern]
+    not: >
+      NARA baskanlik kutuphanesi; Public Papers of the Presidents tam metni.
+      2026-08-29 olcumu: 200, 4,6k ve 16,8k, bot korumasi yok. DIKKAT: slug
+      tam eslesme ister; yanlis slug 200 doner ama govde 2055 karakterlik
+      BOS KABUKTUR — kunyeye almadan once dize kontrolu sart.
+  - alan: history.state.gov
+    tur: birincil
+    birincil_tur: belge
+    dogrulanabilir: true
+    kapsam: [abd, diplomasi, modern]
+    not: >
+      ABD Disisleri Bakanligi Tarihci Ofisi. 2026-08-29 olcumu: 200, temiz
+      metin. DIKKAT: "Milestones" dizisi sayfalarinda "has been retired and
+      is no longer maintained" notu var; kunye notunda belirtilmeli.
+      Calisan yol kalibi: /historicaldocuments/<cilt>/d<N> (FRUS belgeleri).
+      /historicaldocuments/<cilt>/comp<N> ve /milestones/1953-1960/... 404.
+  - alan: nsarchive2.gwu.edu
+    tur: birincil
+    birincil_tur: belge
+    dogrulanabilir: true
+    kapsam: [abd, istihbarat, modern]
+    not: >
+      George Washington Universitesi Ulusal Guvenlik Arsivi. Gizliligi
+      kaldirilmis belge derlemeleri. 2026-08-29 olcumu: EBB sayfalari 200 ve
+      temiz metin. Not: nsarchive.gwu.edu (yeni alan) baglanti kurmuyordu;
+      nsarchive2 yolu calisiyor. Belgelerin kendisi cogunlukla PDF'tir ve
+      dize aranamaz; derlemenin HTML tanitim sayfasi kullanilir.
+  - alan: archives.gov
+    tur: birincil
+    birincil_tur: belge
+    dogrulanabilir: true
+    kapsam: [abd, modern]
+    not: >
+      ABD Ulusal Arsivleri. DIKKAT: butun yollar calismiyor. 2026-08-29
+      olcumu: /research/military/vietnam-war/casualty-statistics 200 ve
+      12,8k temiz metin; baska yollarda 404 alindi. Kullanmadan once yolu
+      dok.mjs ile olc.
+  - alan: pmc.ncbi.nlm.nih.gov
+    tur: akademik
+    dogrulanabilir: true
+    kapsam: [saglik, tip, modern]
+    not: >
+      NIH acik erisim deposu (PubMed Central). 2026-08-29 olcumu: makale
+      tam metni 200 ve aranabilir. Crossref/Semantic Scholar ozeti yayinci
+      tarafindan elenmis makalelerde sayiyi tasiyan tek dogrulanabilir
+      metin cogu zaman burasidir.
+  - alan: 911memorial.org
+    tur: birincil
+    birincil_tur: belge
+    dogrulanabilir: true
+    kapsam: [abd, modern]
+    not: >
+      11 Eylul Anma Muzesi'nin kendi kaydi. 2026-08-29 olcumu: /in-memoriam
+      200, 6,9k metin; hem 2.977 hem 2.983 sayilarini tasiyor (ikincisi 1993
+      DTM saldirisinin kurbanlarini da katan ayri bir kapsam).
+  - alan: population.un.org
+    tur: birincil
+    birincil_tur: belge
+    dogrulanabilir: true
+    kapsam: [demografi, modern, kuresel]
+    not: >
+      BM Nufus Bolumu. DIKKAT: iki ayri uc nokta var ve yalnizca biri
+      kullanilabilir. Insan yuzu (population.un.org/wpp/...) istemci
+      tarafinda ciziliyor ve bos doner; VERI PORTALI API'si calisir:
+      https://population.un.org/dataportalapi/api/v1/... 2026-08-29
+      olcumu: gostergeler uc noktasi 200 ve 98k temiz JSON dondurdu.
+      Excel uc noktalari ham ikili doner, dize aramasi yapilamaz.
+      World Population Prospects, 20. yuzyil demografisinin birincil
+      kaydidir; OWID ayni verinin turevidir.
+  - alan: nato.int
+    tur: birincil
+    birincil_tur: belge
+    dogrulanabilir: true
+    kapsam: [askeri, modern]
+    not: >
+      Ittifakin kendi harekat kaydi. 2026-08-29 olcumu: 200, 43k temiz
+      metin, bot korumasi yok. DIKKAT: TARAF konumundadir; beyanlari
+      taraf beyani olarak kunyelenmeli ve destegi buna gore
+      sinirlandirilmalidir.
+  - alan: bici.org.bh
+    tur: birincil
+    birincil_tur: belge
+    dogrulanabilir: true
+    kapsam: [ortadogu, insan-haklari, modern]
+    not: >
+      Bahreyn Bagimsiz Sorusturma Komisyonu'nun kendi yayini. 2026-08-29
+      olcumu: HTML ana sayfa 200, 4k temiz metin. DIKKAT: PDF uc noktasi
+      (/BICIreportEN.pdf) ham ikili doner, dize aramasi yapilamaz — HTML
+      sayfasi kullanilmali. Komisyonu devletin kendisi kurmustur;
+      bagimsizlik beyani kendi beyanidir.
+  - alan: camera.it
+    tur: birincil
+    dogrulanabilir: false
+    kapsam: [italya, hukuk, modern]
+    not: >
+      Italyan Temsilciler Meclisi. 2026-08-29 olcumu: bot korumasi donuyor
+      ("Checking your browser...", 164-167 karakterlik govde). storia.camera.it
+      ayni davranista. Kunyeye YAZILAMAZ; dogrulama dizesi tutturulamaz.
+      Yerine donemin resmi yayinlari kullanilabilir (1861 nufus sayimi,
+      1878 istatistik yilligi; archive.org uzerinde).
+  - alan: senato.it
+    tur: birincil
+    dogrulanabilir: false
+    kapsam: [italya, hukuk, modern]
+    not: >
+      Italyan Senatosu. 2026-08-29 olcumu: HTTP 202 ve bos govde. Kunyeye
+      YAZILAMAZ.
   - alan: nobelprize.org
     tur: birincil
     birincil_tur: tanik
@@ -198,6 +332,11 @@ whitelist:
       (chronik-der-mauer.de istemci tarafinda ciziliyor ve hangi tarih
       istenirse istensin ayni sayfayi donduruyor; bundesstiftung-
       aufarbeitung.de 403).
+      DIKKAT (2026-08-29 hakem notu): alan toptan birincil sayilamaz.
+      `image-*` kayitlari FOTOGRAF + EDITOR ALTYAZISIDIR; oradan alinan
+      sayi ya da olgu birincil belgeden degil GHDI editorlerinin
+      kunyesinden gelir. Boyle bir kayda yaslanan iddia kunye notunda
+      acikca belirtilmeli ve destegi en fazla "kismi" olmalidir.
   - alan: bpb.de
     tur: akademik
     dogrulanabilir: true

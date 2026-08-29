@@ -91,3 +91,9 @@ italyan-birligi 212, kirim-savasi 221, 11-eylul 224, afyon-savaslari 229.
   olamaz; hash+commit bağı.
 - Entegrasyon: commit yalnız dalga sonunda, orkestratörde; ajan lint
   koşmaz; KAPI 18 defteri her dalga sonrası aşağı çekilir.
+
+### Kuyruğa eklenen: eksen sözlüğü geçişi
+Karar K8 uyarınca "toplumsal" ekseni, ancak korpus genelinde bir yeniden
+sınıflandırma geçişiyle birlikte eklenebilir. Bu geçiş, 505 makalenin
+eksen alanlarının tek tek gözden geçirilmesini gerektirir ve tek başına
+bir dalga işidir.

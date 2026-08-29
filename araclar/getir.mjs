@@ -27,6 +27,15 @@ export function onbellektenOku(url) {
     // onbellekten alakasiz bir sayfa aldigini bildirdi; bu kontrol o
     // sinifin tamamini kapatir.
     if (k.url !== url) return null;
+    // `kesildi` bayragi onbellege sonradan eklendi; ondan onceki kayitlarda
+    // alan YOK ve bu, kesme algilamasini sessizce devre disi birakiyordu.
+    // 2026-08-29: bir OWID CSV'sinin World satirlari 400k penceresinin
+    // otesinde kaldigi icin denetle.mjs sahte HATA uretti — kesikligi
+    // gormedigi icin "kaynakta yok" hukmunu kesin sandi. Uzunluk tavana
+    // dayaniyorsa kayit kesiktir; bunu bayrak yoklugunda uzunluktan turet.
+    if (k.kesildi === undefined && typeof k.metin === 'string' && k.metin.length >= 400000) {
+      k.kesildi = true;
+    }
     return k;
   } catch { return null; }
 }

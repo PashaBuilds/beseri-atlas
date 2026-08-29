@@ -12,10 +12,41 @@
 //   node araclar/curut.mjs [<id> ...]
 import path from 'node:path';
 import { KOK, makaleleriTopla, yaz, paragraflar, dipnotlar, RENK } from './ortak.mjs';
+import { govdeHash } from './denetle.mjs';
 
 const NEDENSELLIK = /(nedeniyle|yüzünden|sonucunda|sayesinde|yol açtı|neden oldu|sebebiyle|bu yüzden|kaynaklanır|etkisiyle)/i;
 const KESINLIK = /\b(kesindir|şüphesiz|kuşkusuz|açıkça gösterir|kanıtlamıştır|tartışmasız|her zaman|hiçbir zaman|tamamen)\b/i;
 const USTUNLUK = /\b(ilk|en büyük|en erken|en önemli|en eski|tek|yegâne|biricik)\b/i;
+// Yanlis pozitif suzgeci (2026-08-29 hakem olcumu: bir dosyada yedi itirazin
+// besi dilsel yanlis pozitifti). "tek" ve "ilk" Turkcede oncelik bildirmeyen
+// yaygin kaliplarda gecer: "tek tek" (birer birer), "tek bir X" (a single X),
+// "tek catI altinda", "ilk okuma" (ikiden birincisi), "ilk bakista".
+// Bunlari itiraz saymak aracin sinyal/gurultu oranini bozar; itiraz listesi
+// guvenilmez hale gelirse hakem hepsini birden gormezden gelmeye baslar.
+const USTUNLUK_YANLIS_POZITIF = [
+  /\btek tek\b/i,
+  /\btek ba[sş]ına\b/i,
+  /\btek bir\b/i,
+  /\btek [çc]atı\b/i,
+  /\btek [çc]ocuk\b/i,
+  /\btek [uü]lke\b/i,
+  /\btek taraf/i,
+  /\btek elden\b/i,
+  /\btek parti\b/i,
+  /\btek nedenl[ie]\b/i,
+  /\btek [uü]r[uü]n/i,
+  /\btek sayı/i,
+  /\btek yönl[uü]/i,
+  /\bilk okuma\b/i,
+  /\bilk bak/i,
+  /\bilk iki\b/i,
+  /\bilk elden\b/i,
+  /\bilk [çc]ocuk/i,
+  /\bher ilk\b/i,
+];
+function ustunlukSahteMi(cumle) {
+  return USTUNLUK_YANLIS_POZITIF.some((re) => re.test(cumle));
+}
 const KAPSAM = /\b(dünya(da|nın)?|küresel|evrensel|bütün insanlık|her yerde|tüm toplumlar)\b/i;
 const YUMUSATMA = /(muhtemelen|büyük olasılıkla|sanılır|olabilir|görünüyor|iddia edilir|ileri sürül|belirtilir|savunur|göre)/i;
 
@@ -57,7 +88,7 @@ export function itirazAdaylari(m) {
 
     // 3. Üstünlük/öncelik iddiası
     const ust = USTUNLUK.exec(t);
-    if (ust && refs.length > 0 && !YUMUSATMA.test(t)) {
+    if (ust && refs.length > 0 && !YUMUSATMA.test(t) && !ustunlukSahteMi(t)) {
       ekle('dusuk', 'ustunluk-iddiasi', t,
         `"${ust[0]}" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.`,
         'Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.');
@@ -69,7 +100,12 @@ export function itirazAdaylari(m) {
       .replace(/dünya\s+savaş\w*/gi, ' ')
       .replace(/(İngilizce|Türkçe|Almanca|Fransızca)\s+dünya\w*/gi, ' ')
       .replace(/evrensel\s+tarih/gi, ' ')
-      .replace(/dünya\s+(sistemi|ekonomisi|ticareti|nüfusu|üretimi)/gi, ' ');
+      .replace(/dünya\s+(sistemi|ekonomisi|ticareti|nüfusu|üretimi)/gi, ' ')
+      // Kurum adlarindaki "Dunya" kuresel dil degildir. 2026-08-29 hakem
+      // olcumu: Dunya Bankasi verisi kullanan her makale sahte
+      // "kapsam-carpitmasi" itirazi uretiyordu.
+      .replace(/Dünya\s+(Bankası|Sağlık\s+Örgütü|Ticaret\s+Örgütü|Gıda\s+Programı|Ekonomik\s+Forumu|Kupası|Mirası)\w*/gi, ' ')
+      .replace(/Dünya\s+Değerler\s+Araştırması/gi, ' ');
     if (KAPSAM.test(kapsamTemiz) && Array.isArray(m.fm.bolge)
         && !m.fm.bolge.includes('kuresel') && m.fm.bolge.length <= 2) {
       ekle('orta', 'kapsam-carpitmasi', t,
@@ -138,8 +174,14 @@ if (process.argv[1]?.endsWith('curut.mjs')) {
     const adaylar = itirazAdaylari(m);
     toplam += adaylar.length;
     yaz(path.join(KOK, 'denetim', 'raporlar', `${m.fm.id}-curutucu.md`), markdownYaz(m.fm.id, adaylar));
+    // govde_hash zorunlu: 2026-08-29'da bir hakeme, onarim ONCESINE ait bir
+    // curutucu raporu verildi ve itirazlarin yarisi coktan cozulmustu. Rapor
+    // hangi govdeye ait oldugunu soylemedigi surece bu sessizce olur.
     yaz(path.join(KOK, 'denetim', 'raporlar', `${m.fm.id}-curutucu.json`),
-      JSON.stringify({ id: m.fm.id, gecis: 3, zaman: new Date().toISOString(), itirazlar: adaylar }, null, 2));
+      JSON.stringify({
+        id: m.fm.id, gecis: 3, zaman: new Date().toISOString(),
+        govde_hash: govdeHash(m.govde), itirazlar: adaylar,
+      }, null, 2));
     const yuksek = adaylar.filter((a) => a.ciddiyet === 'yuksek').length;
     const im = yuksek > 0 ? RENK.kirmizi('YUKSEK') : adaylar.length > 0 ? RENK.sari('ITIRAZ') : RENK.yesil('TEMIZ ');
     console.log(`${im}  ${m.fm.id.padEnd(34)} ${adaylar.length} itiraz${yuksek ? ` (${yuksek} yuksek)` : ''}`);

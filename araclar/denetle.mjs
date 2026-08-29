@@ -49,7 +49,23 @@ export function iddiaCumleleri(govde) {
   // Cümle sonu noktasından SONRA dipnot işareti gelebilir ("…verildi.[^k1] Bu…").
   // Bölme bunu hesaba katmazsa iki ayrı iddia tek cümlede birleşir ve referanslar
   // yanlış iddiaya atfedilir — Geçiş 2'nin ilk koşusu tam olarak bunu yakaladı.
-  const parcalar = temiz.split(/(?<=[.!?](?:\s*\[\^k\d+\])*)\s+(?=[^\s])/);
+  // Turkce sira sayilari noktayla yazilir ("38. paralel", "5. madde", "20.
+  // yuzyil") ve boluc bunlari cumle sonu saniyordu: iddia parcalaniyor,
+  // referanslar yanlis parcaya dusuyordu. 2026-08-29'da bir onarim ajani bu
+  // yuzden butun sira sayilarini yaziyla yazmak zorunda kaldi ("otuz sekizinci
+  // paralel") — arac, metnin dilini bozuyordu. Cozum: nokta rakamla
+  // basliyorsa ve ardindan kucuk harf ya da rakam geliyorsa cumle bitmemistir.
+  const parcalar = temiz
+    .split(/(?<=[.!?](?:\s*\[\^k\d+\])*)\s+(?=[^\s])/)
+    .reduce((yigin, parca) => {
+      const onceki = yigin[yigin.length - 1];
+      const siraSayisiyla = onceki !== undefined
+        && /(?:^|\s)\d{1,4}\.$/.test(onceki.replace(/\s*\[\^k\d+\]\s*$/, ''))
+        && /^[a-zçğıöşü\d]/.test(parca);
+      if (siraSayisiyla) yigin[yigin.length - 1] = `${onceki} ${parca}`;
+      else yigin.push(parca);
+      return yigin;
+    }, []);
   const cikti = [];
   for (const p of parcalar) {
     const refs = [...p.matchAll(/\[\^(k\d+)\]/g)].map((m) => m[1]);
@@ -59,12 +75,120 @@ export function iddiaCumleleri(govde) {
   return cikti;
 }
 
+// Cin rakamlariyla yazilmis sayilar. 2026-08-29: Han shu sayiminin Cince
+// metnine dayanan bir iddia "kaynakta bulunamayan sayi" diye HATA aldi;
+// oysa sayi kaynakta duruyordu — Arap rakamiyla degil, Cin rakamiyla
+// (口五千九百五十九萬四千九百七十八 = 59.594.978). Mekanik katmanin bunu
+// okuyamamasini "iddia yanlis" saymak, olcememeyi olcmus gibi gostermenin
+// tersidir: olcebildigi seyi olcmemektir. Cozum mazeret degil cevrim.
+const CIN_BASAMAK = { '〇': 0, 零: 0, 一: 1, 二: 2, 两: 2, 兩: 2, 三: 3, 四: 4, 五: 5, 六: 6, 七: 7, 八: 8, 九: 9 };
+const CIN_BIRIM = { 十: 10, 百: 100, 千: 1000 };
+const CIN_BUYUK = { 万: 1e4, 萬: 1e4, 亿: 1e8, 億: 1e8 };
+const CIN_TUM = new RegExp(`[${Object.keys(CIN_BASAMAK).concat(Object.keys(CIN_BIRIM), Object.keys(CIN_BUYUK)).join('')}]+`, 'g');
+
+/** Tek bir Cin rakami dizisini sayiya cevirir; cozulemezse null doner. */
+export function cinRakamiCoz(dize) {
+  let toplam = 0; let bolum = 0; let basamak = 0; let gorulen = false;
+  for (const ch of dize) {
+    if (ch in CIN_BASAMAK) { basamak = CIN_BASAMAK[ch]; gorulen = true; continue; }
+    if (ch in CIN_BIRIM) {
+      // "十" tek basina 10 demektir (十八 = 18), onunde basamak yoksa 1 varsayilir.
+      bolum += (basamak || 1) * CIN_BIRIM[ch]; basamak = 0; gorulen = true; continue;
+    }
+    if (ch in CIN_BUYUK) {
+      toplam += (bolum + basamak || 1) * CIN_BUYUK[ch]; bolum = 0; basamak = 0; gorulen = true; continue;
+    }
+    return null;
+  }
+  if (!gorulen) return null;
+  const sonuc = toplam + bolum + basamak;
+  return Number.isFinite(sonuc) && sonuc > 0 ? sonuc : null;
+}
+
+/** Metindeki Cin rakamlarini Arap rakamina cevirip aranabilir bir ek havuz uretir. */
+export function cinSayiHavuzu(metin) {
+  if (!/[一二三四五六七八九十百千万萬亿億]/.test(metin)) return '';
+  const bulunanlar = new Set();
+  for (const m of metin.matchAll(CIN_TUM)) {
+    if (m[0].length < 2) continue;
+    const n = cinRakamiCoz(m[0]);
+    if (n !== null) bulunanlar.add(String(n));
+  }
+  return [...bulunanlar].join(' ');
+}
+
+// Ingilizce sozcukle yazilmis sayilar. Cin rakamlariyla ayni sinif: Herodotos'un
+// Perseus metni Kserkses'in ordusunu "five million, two hundred and eighty-three
+// thousand, two hundred and twenty" diye yazar; mekanik katman 5.283.220'yi
+// bulamayip HATA verir. Klasik ve 19. yuzyil kaynaklarinin cogu sayilari boyle
+// yazar, dolayisiyla bu tek bir dosyanin sorunu degil.
+const ING_BIRLER = {
+  zero: 0, one: 1, two: 2, three: 3, four: 4, five: 5, six: 6, seven: 7, eight: 8,
+  nine: 9, ten: 10, eleven: 11, twelve: 12, thirteen: 13, fourteen: 14, fifteen: 15,
+  sixteen: 16, seventeen: 17, eighteen: 18, nineteen: 19, twenty: 20, thirty: 30,
+  forty: 40, fifty: 50, sixty: 60, seventy: 70, eighty: 80, ninety: 90,
+};
+const ING_CARPAN = { hundred: 100, thousand: 1000, million: 1e6, billion: 1e9 };
+
+/** Bir sozcuk dizisini sayiya cevirir; sayi sozcugu yoksa null doner. */
+export function ingilizceSayiCoz(sozcukler) {
+  let toplam = 0; let simdiki = 0; let gorulen = false;
+  for (const s of sozcukler) {
+    if (s === 'and') continue;
+    if (s in ING_BIRLER) { simdiki += ING_BIRLER[s]; gorulen = true; continue; }
+    if (s === 'hundred') { simdiki = (simdiki || 1) * 100; gorulen = true; continue; }
+    if (s in ING_CARPAN) { toplam += (simdiki || 1) * ING_CARPAN[s]; simdiki = 0; gorulen = true; continue; }
+    return null;
+  }
+  if (!gorulen) return null;
+  const n = toplam + simdiki;
+  return Number.isFinite(n) && n > 0 ? n : null;
+}
+
+const ING_SOZCUK = new Set([...Object.keys(ING_BIRLER), ...Object.keys(ING_CARPAN), 'and']);
+
+/** Metindeki Ingilizce sayi sozcuklerini Arap rakamina cevirip ek havuz uretir. */
+export function ingilizceSayiHavuzu(metin) {
+  if (!/\b(hundred|thousand|million|billion)\b/i.test(metin)) return '';
+  const sozcukler = metin.toLowerCase().replace(/[,;]/g, ' ').replace(/-/g, ' ').split(/\s+/);
+  const bulunanlar = new Set();
+  let dizi = [];
+  const bosalt = () => {
+    while (dizi.length && dizi[dizi.length - 1] === 'and') dizi.pop();
+    if (dizi.length >= 2) {
+      const n = ingilizceSayiCoz(dizi);
+      if (n !== null && n >= 100) bulunanlar.add(String(n));
+    }
+    dizi = [];
+  };
+  for (const s of sozcukler) {
+    const temiz = s.replace(/[^a-z]/g, '');
+    if (ING_SOZCUK.has(temiz)) dizi.push(temiz);
+    else bosalt();
+  }
+  bosalt();
+  return [...bulunanlar].join(' ');
+}
+
 /** Cümledeki denetlenebilir atomlar. */
 export function atomlar(cumle) {
   const sayisal = [];
   for (const m of cumle.matchAll(/(?<![\d.,])\d{3,4}(?![\d.,])/g)) sayisal.push({ tur: 'yil', deger: m[0] });
   for (const m of cumle.matchAll(/yüzde\s(\d+)|%\s?(\d+)/gi)) sayisal.push({ tur: 'yuzde', deger: m[1] || m[2] });
   for (const m of cumle.matchAll(/\b(\d{1,3})\s?(milyon|milyar)\b/gi)) sayisal.push({ tur: 'buyukluk', deger: m[1] });
+  // Turkce binlik ayrali buyuk sayilar (1.957.523). 2026-08-29 kor hakem
+  // bulgusu: bunlar HIC olculmuyordu ve bir dosyadaki en riskli rakamlar tam
+  // da bunlardi (sayim ve bilanco toplamlari). Kaynaklar ayni sayiyi Ingiliz
+  // (1,957,523) ya da ayrasiz (1957523) yazabildigi icin her iddia birden
+  // fazla adayla aranir; herhangi biri bulunursa atom bulunmus sayilir.
+  for (const m of cumle.matchAll(/(?<![\d.,])\d{1,3}(?:\.\d{3})+(?![\d.,])/g)) {
+    const cip = m[0].replace(/\./g, '');
+    sayisal.push({
+      tur: 'buyuk-sayi',
+      deger: m[0],
+      adaylar: [m[0], cip, cip.replace(/\B(?=(\d{3})+(?!\d))/g, ','), cip.replace(/\B(?=(\d{3})+(?!\d))/g, ' ')],
+    });
+  }
 
   const isimler = [];
   const kelimeler = cumle.split(/\s+/);
@@ -156,9 +280,32 @@ export async function makaleyiDenetle(m) {
       }
       const { sayisal, isimler } = atomlar(cumle);
       const kaynakTurkce = turkceMi(kaynakMetni);
-      const sayisalHavuz = refs.length > 1 ? birlesikMetin : kaynakMetni;
-      const eksikSayisal = sayisal.filter((a) => !sayisalHavuz.includes(normalize(a.deger)));
-      const isimSonuclari = isimler.map((a) => ({ ...a, sonuc: isimDurumu(kaynakMetni, a.deger, kaynakTurkce) }));
+      // Havuza, kaynaktaki Cin rakamlarinin Arap karsiliklari da eklenir.
+      const hamHavuz = refs.length > 1 ? birlesikMetin : kaynakMetni;
+      const sayisalHavuz = `${hamHavuz} ${cinSayiHavuzu(hamHavuz)} ${ingilizceSayiHavuzu(hamHavuz)}`;
+      const eksikSayisal = sayisal.filter((a) => {
+        const adaylar = a.adaylar || [a.deger];
+        return !adaylar.some((d) => sayisalHavuz.includes(normalize(d)));
+      });
+      // Ozel adlar da sayisal atomlarla ayni kurala tabidir: cumle birden fazla
+      // kaynak gosteriyorsa, adin O KAYNAKLARDAN HERHANGI BIRINDE bulunmasi
+      // yeterlidir. Onceki surum adlari yalniz o anki kaynakta ariyordu ve
+      // asimetri sahte ISARET uretiyordu (2026-08-29 hakem bulgusu: "Irak" adi
+      // k5'te yoktu — ki dosyanin tezi tam da buydu — ama cumlenin oteki
+      // kaynagi adi tasiyordu). Dil algilamasi kaynak basina ayri yapilir,
+      // cunku metinleri birlestirmek Turkce/Ingilizce karisimi uretip
+      // harf cevrimi kurallarini bozar.
+      const IYILIK = { var: 2, olculemez: 1, yok: 0 };
+      const isimSonuclari = isimler.map((a) => {
+        let enIyi = 'yok';
+        for (const rf of refs) {
+          const metin = metinler.get(rf);
+          if (!metin) continue;
+          const s = isimDurumu(metin, a.deger, turkceMi(metin));
+          if (IYILIK[s] > IYILIK[enIyi]) enIyi = s;
+        }
+        return { ...a, sonuc: enIyi };
+      });
       const eksikIsim = isimSonuclari.filter((a) => a.sonuc === 'yok');
       const olculemezIsim = isimSonuclari.filter((a) => a.sonuc === 'olculemez');
       const bulunanAtom = sayisal.length - eksikSayisal.length + isimSonuclari.filter((a) => a.sonuc === 'var').length;

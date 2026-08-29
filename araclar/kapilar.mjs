@@ -133,7 +133,31 @@ export async function kapilariCalistir(mod = '--lint') {
     // Borcun her kosuda gorunmesi kapinin isinin yarisidir.
     for (const satir of r.ozetSatirlari || []) console.log(`   ${RENK.gri(satir)}`);
   }
-  const gecti = ozet(raporlar);
+  // COMMIT KAPSAMI. Kapilar korpusun TAMAMINI olcer — kapsam daraltmak
+  // capraz kapilari (bag butunlugu, ayni konunun iki dosyasi) anlamsiz
+  // kilardi. Ama bir commit yalnizca ICERDIGI dosyalardaki hatadan sorumlu
+  // tutulabilir. 2026-08-29: paralel onarim dalgalari surerken agac hicbir
+  // an temiz kalmadigi icin commit penceresi hic acilmiyordu; kanca, baska
+  // bir ajanin yarim yazdigi dosya yuzunden alakasiz bir altyapi commit'ini
+  // durduruyordu. BESERI_KAPSAM verildiginde hatalar hala YAZDIRILIR ama
+  // gecti/kaldi hukmu yalnizca kapsamdaki dosyalara bakar.
+  const kapsamHam = process.env.BESERI_KAPSAM;
+  let gecti;
+  if (kapsamHam) {
+    const kapsam = kapsamHam.split(/[,\s]+/).filter(Boolean);
+    const icinde = (h) => {
+      const yer = String(h.dosya || h.yol || '');
+      return kapsam.some((k) => yer.includes(k));
+    };
+    ozet(raporlar);
+    const kapsamHatalari = raporlar.flatMap((r) => r.hatalar.filter(icinde));
+    const disHatalar = raporlar.reduce((a, r) => a + r.hatalar.filter((h) => !icinde(h)).length, 0);
+    console.log(`\n${RENK.gri(`commit kapsami: ${kapsam.length} dosya · kapsam ici hata ${kapsamHatalari.length} · kapsam disi hata ${disHatalar} (baska oturumlarin yarim isi; bu commit'i baglamaz)`)}`);
+    for (const h of kapsamHatalari.slice(0, 20)) console.log(`   ${RENK.kirmizi('KAPSAM ICI HATA')} ${h.dosya || h.yol}: ${h.mesaj}`);
+    gecti = kapsamHatalari.length === 0;
+  } else {
+    gecti = ozet(raporlar);
+  }
 
   yaz(path.join(KOK, 'denetim', 'kapi-sonucu.json'), JSON.stringify({
     mod, zaman: new Date().toISOString(), gecti, makale_sayisi: makaleler.length,

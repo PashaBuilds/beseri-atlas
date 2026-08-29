@@ -4734,3 +4734,90 @@ damgası taşıyan benzersiz bir dizin üretiyor; beş çekirdek prompta
 eklendi. Çalışmakta olan ajanlara müdahale edilmedi — mesaj göndermek
 onları yeniden başlatıp işi çöpe atardı; onların çıktıları entegrasyonda
 ayrıca örneklenecek.
+
+### Üç araç kusuru daha (kör hakem bulguları)
+
+1. **`araclar/telif.mjs` diye bir dosya yok.** Çekirdek yönergem bu adı
+   veriyordu; gerçek dosya `linter-telif.mjs`. Üstelik o dosyanın hiç
+   komut satırı girişi yoktu, yani doğru adla da çalıştırılamıyordu.
+   Sonuç: ajanların telif kontrolü sessizce atlanabiliyordu. İkisi de
+   düzeltildi (dört çekirdek prompt + CLI bloğu eklendi).
+2. **Hakem matrisi finalize etmeden commit atmak.** Bir hakem çalışırken
+   attığım commit, onun yarı bitmiş matrisini süpürdü; hakem sonra
+   tamamlayıp yeniden damgaladı ve son hâl tutarlı, ama kural artık açık:
+   dalga commit'i, o dalganın bütün hakemleri hüküm verdikten sonra
+   atılır.
+3. **İki tekrarlayan içerik hatası deseni** hakem çekirdeğine kalıcı
+   denetim olarak eklendi: (a) hayalet ad — kaynak yalnız soyadı/baş harf
+   verirken künyeye tam ad yazmak; (b) liste kırpması — kaynağın yedi öge
+   saydığı yerde gövdenin dört yazması. İkincisi üç ayrı dosyada görüldü.
+
+### Dalga 1-2 hakemlerinin bulduğu araç kusurları (beşi de kapatıldı)
+
+1. **`denetle.mjs` özel ad asimetrisi.** Sayısal atomlar için birleşik
+   kaynak havuzu kullanılıyordu (cümle iki künye gösteriyorsa değerin
+   herhangi birinde bulunması yeterli), ama özel adlar yalnız o anki
+   kaynakta aranıyordu. Sonuç sahte İŞARET: bir hakem, "Irak" adının
+   künyelerden birinde geçmemesinin işaret ürettiğini bildirdi — ki
+   dosyanın tezi tam da o adın orada olmamasıydı. Adlar da artık
+   kaynaklardan herhangi birinde bulunursa geçerli sayılıyor; dil
+   algılaması kaynak başına ayrı yapılıyor, çünkü metinleri birleştirmek
+   Türkçe/İngilizce karışımı üretip harf çevrimi kurallarını bozar.
+2. **`denetle.mjs` cümle bölücüsü Türkçe sıra sayılarını kırıyordu.**
+   "38. paralel", "5. madde", "20. yüzyıl" cümle sonu sanılıyor, iddia
+   parçalanıyor ve referanslar yanlış parçaya düşüyordu. Bir onarım ajanı
+   bu yüzden bütün sıra sayılarını yazıyla yazmak zorunda kaldı — araç
+   metnin dilini bozuyordu. Nokta rakamla bitip ardından küçük harf ya da
+   rakam geliyorsa cümle bitmemiş sayılıyor.
+3. **`curut.mjs` üstünlük taraması yanlış pozitif üretiyordu.** Bir
+   dosyada yedi itirazın beşi dilsel yanlış pozitifti: "tek tek",
+   "tek çatı altında", "tek bir X", "ilk okuma" — hiçbiri öncelik iddiası
+   değil. Negatif liste eklendi; itiraz sayısı 11 Eylül dosyasında 9'dan
+   3'e indi. Gerekçe önemli: güvenilmez bir itiraz listesi, hakemin
+   listeyi bütünüyle görmezden gelmesine yol açar.
+4. **`linter-telif.mjs` çalıştırılamıyordu** (yanlış ad + CLI yokluğu).
+5. **`getir.mjs` 400k sınırı büyük ciltleri sınanamaz kılıyordu.**
+   Bir hakem 510k ve 1,67M karakterlik iki cildi tam sınayamadı.
+   `dok.mjs --tam` kipi sınırı aşıyor ve önbelleğe yazmıyor.
+
+### Eşzamanlılık kuralı (kendi hatam)
+
+İtalyan Birliği hakemi, kendisi çalışırken dosyanın iki kez daha
+düzenlendiğini ve matris hash'ini iki kez tazelemek zorunda kaldığını
+bildirdi. Nedeni benim hatam: hakemi, onarım ajanının bitiş bildirimini
+beklemeden başlatmıştım (matris yazılmış ve kapılar geçiyor görünüyordu).
+Kural: hakem, onarımın bittiği BİLDİRİLMEDEN başlatılmaz.
+
+### Dalga 2-3 hakemlerinin bulduğu dört araç kusuru daha
+
+6. **KAPI 19'un ikinci kör noktası.** Nüfus hakemi ölçtü: `veri-setleri/`
+   altında 26 seri var ama kapının kütüğünde 7 vardı; doğurganlık hızı ve
+   nüfus artış hızı gibi merkezî değerler kapıdan görünmeden geçiyordu.
+   İki seri kütüğe eklendi (şimdi 9) ve birim sözcüğü seri tanımına
+   bağlandı ("çocuk", "yıl", "ton"). Kasıtlı hata sınamasıyla doğrulandı.
+7. **Çürütücünün kapsam süzgeci kurum adlarını tanımıyordu.** "Dünya
+   Bankası" içindeki "dünya" küresel dil sanılıyor ve Dünya Bankası verisi
+   kullanan her makale sahte "kapsam çarpıtması" itirazı üretiyordu.
+8. **Çürütücü raporu bayat olabiliyordu ve bunu söylemiyordu.** Bir hakeme
+   onarım ÖNCESİNE ait sekiz itirazlık rapor verdim; dördü çoktan
+   çözülmüştü. Rapor artık `govde_hash` taşıyor ve hakem çekirdeğine
+   "önce bayat mı diye bak, şüphe varsa yeniden üret" adımı eklendi.
+9. **`calisma-dizini.mjs` her çağrıda yeni dizin üretiyor.** İki ayrı
+   komutta çağrılırsa yazılan dosya kaybolur; promptlara "dizini bir kez
+   yakala" uyarısı düşüldü.
+
+Yanlış pozitif süzgeci genişletildi ("tek çocuk politikası", "tek parti",
+"tek ülke", "tek taraflı"). Nüfus dosyasında itiraz sayısı 7'den 1'e indi.
+Fikstür testleri 14'ten 19'a, toplam 37'ye çıktı.
+
+### Hakemin en iyi epistemik yakalaması
+
+Nüfus hakemi, serinin kendisinde gizli bir aktarım halkası buldu: künyedeki
+BM kaydının kapsamı 1950-2100 iken dosya MÖ 10.000'e uzanan değerler
+veriyordu. Yani "1927'de iki milyar" ile "2022'de sekiz milyar" aynı
+sağlamlıkta değil — birincisi geriye dönük bir yeniden kurulum. Bu ayrım
+dosyada hiç yoktu; hakem ekledi. Aynı hakem, matrisin neden seyrek
+olduğunu da ölçtü: gövdede dipnotsuz kalmış dokuz olgusal pasaj vardı ve
+KAPI 2 bunları görmüyordu (her paragrafta en az bir dipnot olduğu için).
+Sekizi kaynağa bağlandı, biri gövdeden çıkarıldı; matris 25'ten 38 iddiaya
+çıktı.

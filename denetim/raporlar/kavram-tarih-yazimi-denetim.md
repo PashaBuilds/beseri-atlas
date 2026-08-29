@@ -1,10 +1,10 @@
 ## kavram-tarih-yazimi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.779Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T15:43:20.207Z_
 
-- [ATOMSUZ] k1 → "yüzyıl." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kaynak, tarih bölümünü bölgelere ve geleneklere göre ayırır: antikçağ, Avrupa (Yunanistan, Roma, İncil), Doğu …" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Aynı bölgenin iki ayrı dönem başlığı altında yeniden geçmesi, atlasın şu kuralının dayanağıdır: bu atlasta tar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynağın ilk bölümünü terminolojiye ayırması, kavramın adının kendisinin de bir tartışma konusu olduğunu göste…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "yüzyıla kadar model olduğunu yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ISARET]  k2 → "Doğu Asya'da resmî tarih yazımının kendi başına kurulduğunu gösteren en somut kanıtlardan biri, o geleneğin me…" — özel isim kaynakta bulunamadı: Asya, Avrupa
 - [OK]      k3 → "Yunan geleneğinden bir yazar için tutulan bir başka madde, onu MÖ yaklaşık 484-425 arasına yerleştirir ve Hali…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Atlasın bir tarih metnine bakarken sorduğu ilk soru yöntemdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Bu bildirim erken dönemlerde de görülür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -33,6 +33,6 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.779Z_
 - [ATOMSUZ] k1 → "Sekizinci soru zamanlamadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Aradaki süre, hem bellek kaybını hem sonraki bilginin geriye yansıtılmasını üretir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Atlas bu aralığı her kaynak künyesinde belirtir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "yüzyıl okulları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Gelenek gelenek ayrıntılar, yöntem tartışmaları ve 20. yüzyıl okulları burada ayrı başlıklar altında ele alınm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 1 OK · 0 ISARET · 0 HATA · 32 ATOMSUZ
+**Özet:** 2 OK · 1 ISARET · 0 HATA · 30 ATOMSUZ

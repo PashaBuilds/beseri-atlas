@@ -181,3 +181,27 @@ kalmıyor. Adsız yazım, dosyayı denetlenemez hâle getiriyor.
 
 **Ölçülebilir sonuç.** Kural 1 uygulanan dosyalarda ATOMSUZ oranının
 düşmesi beklenir; düşmüyorsa neden düşmediği ayrıca incelenir.
+
+## K8 — Eksen sözlüğünde "toplumsal" boşluğu (29 Ağustos)
+
+**Nasıl çıktı.** Meksika Devrimi dosyasını yazan ajan `eksen: toplumsal`
+yazdı ve KAPI 1'e takıldı. Sözlükte böyle bir değer yok: siyasi, askeri,
+ekonomik, kültürel, felsefi, dini, demografik, mitolojik.
+
+**Boşluk gerçek.** Bir beşerî atlasta kölelik, sınıf, kast, toplumsal
+cinsiyet, emek örgütlenmesi ve toplumsal hareketlerin doğal ekseni yok.
+Bunlar şu an "kültürel" ya da "ekonomik" altında duruyor ve ikisi de
+konuyu çarpıtıyor.
+
+**Karar: ŞİMDİ EKLENMEYECEK.** Gerekçe, boşluğun yokluğu değil eklemenin
+yaratacağı yanlış beyandır. Sözlüğe bugün eklenirse yalnızca yeni yazılan
+dosyalar bu etiketi taşır; toplumsal tarih işleyen onlarca eski dosya
+"kültürel"de kalır. Okur "toplumsal" ekseniyle filtrelediğinde atlasın
+gerçekte içerdiğinin küçük bir kısmını görür ve bunu bütün sanır — yani
+ölçüm, ölçtüğünden az şey gösterirken çok şey gösteriyormuş gibi durur.
+Bu, atlasın kaçınmaya çalıştığı hata sınıfının ta kendisidir.
+
+**Koşul.** Eksen sözlüğüne "toplumsal" ancak korpus genelinde bir yeniden
+sınıflandırma geçişiyle birlikte eklenir: her makale yeni sözlüğe göre
+tekrar etiketlenir ve geçişin tarihi hakkında sayfasında yazılır.
+Kuyruğa yazıldı.

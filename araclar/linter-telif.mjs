@@ -58,3 +58,28 @@ export function telifDenetimi(makaleler) {
   }
   return r;
 }
+
+// Komut satiri girisi. 2026-08-29: bir kor hakem, cekirdek yonergedeki
+// `node araclar/telif.mjs <dosya>` komutunun calismadigini bildirdi. Iki ayri
+// kusur vardi: yonergede ad yanlisti (telif -> linter-telif) ve bu dosyanin
+// hic CLI blogu yoktu, yani dogru adla da calistirilamiyordu. Ajanlarin telif
+// kontrolu bu yuzden sessizce atlanabiliyordu.
+//
+//   node araclar/linter-telif.mjs                 butun korpus
+//   node araclar/linter-telif.mjs <id|dosya> ...  yalniz verilenler
+if (process.argv[1]?.endsWith('linter-telif.mjs')) {
+  const { makaleleriTopla } = await import('./ortak.mjs');
+  const hepsi = makaleleriTopla();
+  const secim = process.argv.slice(2).filter((a) => !a.startsWith('--'));
+  const makaleler = secim.length
+    ? hepsi.filter((m) => secim.some((s) => s === m.fm.id || m.goreli.endsWith(s) || s.endsWith(`${m.fm.id}.md`)))
+    : hepsi;
+  if (secim.length && makaleler.length === 0) {
+    console.error(`linter-telif: eslesen makale yok — ${secim.join(', ')}`);
+    process.exit(1);
+  }
+  const r = telifDenetimi(makaleler);
+  r.yazdir();
+  console.log(`   olculen ${makaleler.length} makale`);
+  process.exit(r.gecti ? 0 : 1);
+}

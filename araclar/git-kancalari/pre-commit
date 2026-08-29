@@ -7,10 +7,17 @@
 #
 # Hizli olmasi icin yalnizca --lint kosulur (ag denetimi ve derleme haric).
 # Atlanmasi gerekirse: git commit --no-verify
+# 2026-08-29: paralel onarim dalgalari surerken calisma agaci hicbir an
+# temiz kalmiyor ve kanca, baska bir ajanin yarim yazdigi dosya yuzunden
+# alakasiz commit'leri durduruyordu. Cozum kapiyi gevsetmek degil, hukmu
+# dogru kapsama baglamak: kapilar korpusun tamamini olcer, ama commit
+# yalnizca KENDI icerdigi dosyalardaki hatadan sorumludur.
+BESERI_KAPSAM="$(git diff --cached --name-only --diff-filter=ACM | tr '\n' ',')"
+export BESERI_KAPSAM
 npm run --silent lint > /tmp/beseri-lint.log 2>&1
 if [ $? -ne 0 ]; then
   echo "COMMIT DURDURULDU — yerel kapilar gecmedi:"
-  grep -E "KIRILDI|HATA" /tmp/beseri-lint.log | head -20
+  grep -E "KAPSAM ICI HATA|KIRILDI" /tmp/beseri-lint.log | head -20
   echo "(tam cikti: /tmp/beseri-lint.log · atlamak icin: git commit --no-verify)"
   exit 1
 fi

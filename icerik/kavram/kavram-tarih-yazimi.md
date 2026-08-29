@@ -89,10 +89,13 @@ bir tartışma konusu olduğunu gösterir.
 
 ## Doğu Asya geleneğinden bir kayıt
 
-Doğu Asya geleneğinden bir yazar için tutulan ayrı kayıt, onu MÖ yaklaşık 145 -
-yaklaşık 86 arasında yaşamış bir Çinli tarihçi olarak verir ve eserinin sonraki
-hanedanların resmî tarihleri için 20. yüzyıla kadar model olduğunu yazar.[^k2] O
-yazar [Sima Qian](/dusunur/sima-qian/) dosyasında ele alınıyor.
+Doğu Asya'da resmî tarih yazımının kendi başına kurulduğunu gösteren en somut
+kanıtlardan biri, o geleneğin metinlerinin Avrupa akademisine çeviriyle
+girmesidir: Sima Qian'ın kayıtları, Édouard Chavannes'ın çok ciltli Fransızca
+çevirisiyle *Les Mémoires historiques* adı altında Batı'da erişilebilir hâle
+gelmiştir.[^k2] Yazarın yaşadığı yıllar ve eserinin sonraki hanedan tarihleri
+üzerindeki etkisi, o iddiaları taşıyan künyelerle birlikte
+[Sima Qian](/dusunur/sima-qian/) dosyasında ele alınıyor.
 
 ## Yunan geleneğinden bir kayıt
 

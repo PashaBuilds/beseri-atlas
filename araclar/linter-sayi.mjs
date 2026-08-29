@@ -76,6 +76,22 @@ export const SERILER = {
     csv: 'yasam-beklentisi.csv',
     kapsam: /yaşam beklentisi serisi/gi,
     birim: 'sayi',
+    birimDeseni: '(?:yıl)',
+  },
+  // 2026-08-29 hakem olcumu: bu iki seri depoda duruyordu ama kutukte yoktu;
+  // doğurganlık ve artis hizi degerleri kapidan gorunmeden geciyordu.
+  dogurganlik: {
+    ad: 'doğurganlık hızı',
+    csv: 'dogurganlik-hizi.csv',
+    kapsam: /doğurganlık hızı|kadın başına (?:düşen )?çocuk/gi,
+    birim: 'sayi',
+    birimDeseni: '(?:çocuk)',
+  },
+  nufus_artis: {
+    ad: 'nüfus artış hızı',
+    csv: 'nufus-artis-hizi.csv',
+    kapsam: /nüfus artış hızı|yıllık nüfus artışı/gi,
+    birim: 'yuzde',
   },
 };
 
@@ -107,7 +123,12 @@ const CIFT_MUTLAK = /(MÖ|MS)?\s*(\d{1,5})(?:'\p{L}+|\s+yılında|\s+için)?\s+y
 // boylece uzak yil/deger ciftleri yanlislikla eslesmez.
 const CIFT_YUZDE = /(\d{3,4})(?:'\p{L}+|\s+yılında|\s+için|\s+değeri)?[^.]{0,12}?(?:yaklaşık\s+)?(?:yüzde\s+|%\s*)(\d+(?:,\d+)?)/gu;
 // Sayi: "YIL ... (yaklasik)? N birim" (ton, yil)
-const CIFT_SAYI = /(\d{3,4})(?:'\p{L}+|\s+yılında|\s+için|\s+değeri)?[^.]{0,24}?(?:yaklaşık\s+)?(\d+(?:,\d+)?)\s*(?:ton|yıl)\p{L}*/gu;
+// Birim sozcugu seriye gore degisir (ton, yil, cocuk); seri tanimindaki
+// `birimDeseni` ile verilir, verilmezse ton/yil varsayilir.
+const ciftSayiKalibi = (birimDeseni = '(?:ton|yıl)') => new RegExp(
+  `(\\d{3,4})(?:'\\p{L}+|\\s+yılında|\\s+için|\\s+değeri)?[^.]{0,24}?(?:yaklaşık\\s+)?(\\d+(?:,\\d+)?)\\s*${birimDeseni}\\p{L}*`,
+  'gu',
+);
 
 function ciftler(cumle, seriTanim) {
   const cikan = [];
@@ -123,7 +144,7 @@ function ciftler(cumle, seriTanim) {
     }
     return cikan;
   }
-  const kalip = seriTanim.birim === 'yuzde' ? CIFT_YUZDE : CIFT_SAYI;
+  const kalip = seriTanim.birim === 'yuzde' ? CIFT_YUZDE : ciftSayiKalibi(seriTanim.birimDeseni);
   for (const c of cumle.matchAll(kalip)) {
     cikan.push({
       yil: Number(c[1]),
@@ -136,10 +157,28 @@ function ciftler(cumle, seriTanim) {
   return cikan;
 }
 
+// Depodaki serilerin HEPSI dunya (World) serisidir. Bir cumle belirli bir
+// ulkeden ya da bolgeden soz ediyorsa ("Hindistan'in bugday verimi",
+// "Meksika'da bugday verimi"), o degeri dunya serisine karsi olcmek YANLIS
+// HATA uretir. 2026-08-29'da bir kor hakem bu kor noktayi bildirdi: dosya
+// ulke verimlerini bilerek baska bicimde yazdigi icin kapi o gun geciyordu,
+// ama kalip birazcik degisse kapi dogru metni reddedecekti.
+//
+// Cozum olcmemek, ama olcmedigini SOYLEMEK: varlik isareti tasiyan iddia
+// atlanir ve ozet satirinda ayrica sayilir. (Olculemeyen, olculmus gibi
+// gosterilmez — ATOMSUZ sayacinin ayni ilkesi.)
+const VARLIK_ISARETI = /\p{Lu}\p{L}+['’](?:n[ıiuü]n|[ıiuü]n|d[ae]|nd[ae]|t[ae]|ny[ae])\s*$/u;
+
+export function varlikKapsamiMi(metin, kapsamBaslangici) {
+  const onceki = metin.slice(Math.max(0, kapsamBaslangici - 40), kapsamBaslangici);
+  return VARLIK_ISARETI.test(onceki);
+}
+
 /**
  * Bir govdedeki olculebilir seri iddialarini cikarir.
  * Kapsam: seri adinin gectigi yerden cumle sonuna kadar; boylece baska
- * konulardaki sayilar kapiya takilmaz.
+ * konulardaki sayilar kapiya takilmaz. Belirli bir ulke/bolgeye baglanmis
+ * kapsamlar `atlandi: true` ile isaretlenir ve olculmez.
  */
 export function seriIddialari(govde, seriler = SERILER) {
   const iddialar = [];
@@ -151,8 +190,9 @@ export function seriIddialari(govde, seriler = SERILER) {
       const kalan = metin.slice(e.index, e.index + 500);
       const son = kalan.search(/\.(?!\d)/);
       const cumle = son === -1 ? kalan : kalan.slice(0, son + 1);
+      const atlandi = varlikKapsamiMi(metin, e.index);
       for (const c of ciftler(cumle, tanim)) {
-        iddialar.push({ seri: anahtar, ...c, cumle: cumle.slice(0, 160) });
+        iddialar.push({ seri: anahtar, ...c, atlandi, cumle: cumle.slice(0, 160) });
       }
     }
   }
@@ -186,12 +226,13 @@ export function sayiDenetimi(makaleler, { seriler = SERILER, veriler: hazir = nu
   }
   if (!r.gecti) return r;
 
-  let olculen = 0, dogru = 0, yuzey = 0;
+  let olculen = 0, dogru = 0, yuzey = 0, atlanan = 0;
   for (const m of makaleler) {
     yuzey += sayiYuzeyi(m.govde);
     for (const iddia of seriIddialari(m.govde, seriler)) {
       const seri = veriler[iddia.seri];
       const tanim = seriler[iddia.seri];
+      if (iddia.atlandi) { atlanan += 1; continue; }
       olculen += 1;
       const kayit = seri.get(iddia.yil);
       if (!kayit) {
@@ -212,10 +253,12 @@ export function sayiDenetimi(makaleler, { seriler = SERILER, veriler: hazir = nu
   }
   r.ozetSatirlari = [
     `ölçülen seri iddiası: ${olculen} · seriyle uyumlu: ${dogru} · kütükteki seri: ${Object.keys(veriler).length}`,
+    `belirli bir ülke/bölgeye bağlandığı için ölçülmeyen iddia: ${atlanan} `
+      + '(depodaki seriler dünya serisidir; ülke değerini dünya serisiyle ölçmek yanlış hata üretir)',
     `gövdelerdeki toplam sayı: ${yuzey} — bunun ${olculen} tanesi yerel seriyle ölçülebiliyor, `
       + `kalanı yalnızca künye ve hakem katmanıyla denetlenir`,
   ];
-  r.olcum = { olculen, dogru, yuzey, seri: Object.keys(veriler).length };
+  r.olcum = { olculen, dogru, atlanan, yuzey, seri: Object.keys(veriler).length };
   return r;
 }
 

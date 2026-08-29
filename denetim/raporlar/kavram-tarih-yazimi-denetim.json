@@ -1,15 +1,15 @@
 {
   "id": "kavram-tarih-yazimi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:55.779Z",
-  "govde_hash": "473025cc36e0",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T15:43:20.207Z",
+  "govde_hash": "0d25c35971b0",
+  "commit": "fdab69c",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Kaynak, tarih bölümünü bölgelere ve geleneklere göre ayırır: antikçağ, Avrupa (Yunanistan, Roma, İncil), Doğu Asya (Çin), Ortaçağ'dan Rönesans'a (Hıristiyan âle",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -25,9 +25,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "yüzyıla kadar model olduğunu yazar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Doğu Asya'da resmî tarih yazımının kendi başına kurulduğunu gösteren en somut kanıtlardan biri, o geleneğin metinlerinin Avrupa akademisine çeviriyle girmesidir",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Asya, Avrupa"
     },
     {
       "anahtar": "k3",
@@ -199,7 +199,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl okulları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "iddia": "Gelenek gelenek ayrıntılar, yöntem tartışmaları ve 20. yüzyıl okulları burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

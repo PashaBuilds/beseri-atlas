@@ -96,6 +96,43 @@ test('sayi yuzeyi ozette gorunur — olculemeyen gizlenmez', () => {
   assert.ok(r.olcum.yuzey >= 3);
 });
 
+// --- varlik kapsami korumasi + yeni seriler (2026-08-29 hakem bulgulari) ---
+
+test('ulkeye baglanmis kapsam olculmez', () => {
+  const i = seriIddialari("Hindistan'ın buğday verimi 1964'te hektarda 0,73 tondu.",
+    { tarimsal_verim: SERILER.tarimsal_verim });
+  assert.equal(i.length, 1);
+  assert.equal(i[0].atlandi, true);
+});
+
+test('ulke isareti yoksa olculur', () => {
+  const i = seriIddialari("Buğday verimi 1961'de hektar başına 1,09 tondu.",
+    { tarimsal_verim: SERILER.tarimsal_verim });
+  assert.equal(i.length, 1);
+  assert.equal(i[0].atlandi, false);
+});
+
+test('atlanan iddia HATA uretmez ama sayilir', () => {
+  const r = sayiDenetimi([yap('a', "Meksika'da buğday verimi 1970'te hektarda 3,02 tondu.[^k1]")], yalnizBugday);
+  assert.equal(r.hatalar.length, 0);
+  assert.equal(r.olcum.olculen, 0);
+  assert.equal(r.olcum.atlanan, 1);
+});
+
+test('dogurganlik serisi birim sozcugunu kendi tanimlar', () => {
+  const seri = new Map([[1950, { deger: 4.852 }]]);
+  const secenek = { seriler: { dogurganlik: SERILER.dogurganlik }, veriler: { dogurganlik: seri } };
+  assert.equal(sayiDenetimi([yap('a', 'Doğurganlık hızı 1950 için 4,85 çocuktu.[^k1]')], secenek).hatalar.length, 0);
+  assert.equal(sayiDenetimi([yap('a', 'Doğurganlık hızı 1950 için 9,99 çocuktu.[^k1]')], secenek).hatalar.length, 1);
+});
+
+test('nufus artis hizi yuzde olarak olculur', () => {
+  const seri = new Map([[1950, { deger: 1.738 }]]);
+  const secenek = { seriler: { nufus_artis: SERILER.nufus_artis }, veriler: { nufus_artis: seri } };
+  assert.equal(sayiDenetimi([yap('a', 'Nüfus artış hızı 1950 için yüzde 1,74 idi.[^k1]')], secenek).hatalar.length, 0);
+  assert.equal(sayiDenetimi([yap('a', 'Nüfus artış hızı 1950 için yüzde 9,9 idi.[^k1]')], secenek).hatalar.length, 1);
+});
+
 test('eksik seri dosyasi HATA uretir', () => {
   const r = sayiDenetimi([yap('a', 'metin')], { seriler: { nufus: SERILER.nufus }, veriler: {} });
   assert.equal(r.hatalar.length, 1);
