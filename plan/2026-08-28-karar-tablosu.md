@@ -157,3 +157,27 @@ nihai teslim raporu (§11 biçimi).
    "geçerli doğrulama" sayılmaz.
 6. **Bütçe**: onarım ↔ büyüme yarışı — faz sırası kesin; Faz 4,
    Faz 3 borcu %80 erimeden açılmaz.
+
+## K7 — Kişi adları ve denetlenebilirlik (29 Ağustos, kör hakem sorusu)
+
+**Sorun.** 11 Eylül dosyası hiç kişi adı kullanmıyordu: "örgüt lideri",
+"merkezî istihbaratın başındaki isim", "şüphe çeken kişi". Hakem bunun
+ölçülebilir bir bedeli olduğunu gösterdi: dosyanın ATOMSUZ oranı %55'e
+çıktı, çünkü mekanik katmanın kaynak metninde arayabileceği özel ad
+kalmıyor. Adsız yazım, dosyayı denetlenemez hâle getiriyor.
+
+**Karar.** İki durum ayrılır ve ayrımın kendisi bir ilkedir:
+
+1. **Kamusal görev taşıyanlar ADIYLA yazılır** — devlet görevlileri,
+   komisyon başkanları, bilim insanları, siyasetçiler, kurum yöneticileri.
+   Bunlar kamusal rolleri nedeniyle tarihin öznesidir ve adları kaynakta
+   birebir aranabilir bir atomdur. Adı gizlemek, iddiayı denetlenemez
+   kılar ve kimseyi de korumaz.
+2. **Fail adları** için kural konuya bağlıdır ve dosyada AÇIKÇA söylenir.
+   Terör saldırısı gibi failin adını yaymanın kendisi bir amaç taşıdığı
+   durumlarda ad kullanmamak savunulabilir bir editoryal karardır — ama
+   o zaman bu tercih gövdede bir cümleyle beyan edilir ve gerekçesi
+   yazılır. Sessizce adsız yazmak karar değil, kaçınmadır.
+
+**Ölçülebilir sonuç.** Kural 1 uygulanan dosyalarda ATOMSUZ oranının
+düşmesi beklenir; düşmüyorsa neden düşmediği ayrıca incelenir.

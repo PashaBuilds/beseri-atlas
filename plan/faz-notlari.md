@@ -4715,3 +4715,22 @@ vermiyor, dolayısıyla o 84 dosya hiç borçlu değil.
 Bu, bu depoda aynı hatanın üçüncü tekrarı (önce kelime sayımı, sonra
 "birincil kaynak" tanımı). Kural: ölçüm araçları kapıların tanımlarını
 İÇE AKTARIR, kopyalamaz.
+
+### Paralel ajanların dosya adı çakışması (kritik araç açığı)
+
+11 Eylül hakemi, ortak scratchpad kökünde yazdığı `k6.txt` dosyasının
+paralel çalışan başka bir oturum tarafından bir Project Gutenberg kitabıyla
+üzerine yazıldığını fark etti — hatayı ancak PATRIOT Act metninde
+"Esquimaux his dogs" ifadesini görünce yakaladı. Birkaç dakika boyunca
+yanlış kaynak metnini doğruluyordu.
+
+Bu, `getir.mjs` önbelleğinde daha önce kapatılan hatanın dosya sistemi
+karşılığıdır: aynı ada iki farklı içerik. Sonucu daha ağır olabilirdi —
+bir ajan sessizce yanlış kaynağı "doğrulandı" sayabilirdi.
+
+Kapatıldı: `araclar/calisma-dizini.mjs` her oturuma id + PID + zaman
+damgası taşıyan benzersiz bir dizin üretiyor; beş çekirdek prompta
+(olay/tartışma onarım ve hakem, eski hakem şablonu) zorunlu kural olarak
+eklendi. Çalışmakta olan ajanlara müdahale edilmedi — mesaj göndermek
+onları yeniden başlatıp işi çöpe atardı; onların çıktıları entegrasyonda
+ayrıca örneklenecek.
