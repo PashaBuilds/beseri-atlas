@@ -34,6 +34,7 @@ ilgili:
   - tartisma-ikinci-dunya-savasi-sorumlulugu
   - olay-kore-savasi
   - kavram-ideoloji
+  - olay-truman-doktrini
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

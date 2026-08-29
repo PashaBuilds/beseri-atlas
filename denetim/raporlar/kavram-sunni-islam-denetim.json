@@ -1,0 +1,171 @@
+{
+  "id": "kavram-sunni-islam",
+  "gecis": 2,
+  "zaman": "2026-08-29T21:54:54.892Z",
+  "govde_hash": "041b8d22a785",
+  "commit": "bf4bb9c",
+  "sonuclar": [
+    {
+      "anahtar": "k2",
+      "iddia": "Abbasi halifesi Ebû Ca'fer el-Mansûr'a bir rapor sunan İbnü'l-Mukaffa', mahkemelerde birbirine zıt görüşlerin hükme esas alınmasının hukuk anarşisine yol açtığı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Enes'in el-Muvatta'ını kanun metni hâline getirmeye girişti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mâlik teklifi ictihad hürriyetini kısıtlayacağı endişesiyle geri çevirdi ve halifeye, çeşitli bölgelerde yaşayan insanların benimsediği hukuk kurallarına müdaha",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Halifenin elinde devlet gücü vardı, ama girişimi bir fakihin ictihad hürriyeti gerekçesiyle verdiği redde takıldı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "EHL-i SÜNNET maddesini yazan Yusuf Şevki Yavuz terimi, Peygamber ile ashap cemaatinin dinin temel konularında izlediği yolu benimseyenler diye tarif eder; madde",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı madde, ehl-i sünnetin itikadî bir mezhep olarak üçüncü (dokuzuncu) yüzyılda teşekkül ettiğini, yani muhafazakâr çoğunluğun ancak kendisine karşıt görüşleri",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Madde, Watt'ın terimin ilk defa dördüncü (onuncu) yüzyılda kullanıldığı görüşünü aktarır ama buna katılmaz; Fığlalı'ya dayanarak birinci yüzyılın sonuna doğru b",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cübeyr'e nispet edilen bir rivayettir ve maddenin kipi burada ihtimal kipidir, kesinlik değil.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Maddenin aktardığı yeni araştırmalara göre oluşumun kökeni ilk siyasî görüş ayrılıklarıdır: ilk halifenin belirlenmesi sırasındaki tartışmalar bir yana bırakılı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Irak'ta hadis malzemesi az olduğu için oradakiler kıyası çoğaltmış ve onda ustalaşmıştı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Iraklıların önderi Ebû Hanîfe, Hicazlıların imamı Mâlik'ti; Şâfiî, Mâlik'ten sonra Irak'a gidip Ebû Hanîfe'nin öğrencilerinden ders aldı ve iki yolu birbirine k",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Irak"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Hanbel ise muhaddislerin ileri gelenlerinden biri olarak sonra geldi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Cumhurun bilinen mezhepleri bu üçüydü; ama İbn Haldun kendi çağında Zâhirîliğin sönmüş olduğunu söyler.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İbn, Haldun"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Taklit dört imamda durdu ve İbn Haldun kendi zamanının dağılımını verir: Hanefîler Irak'ta, Hindistan'da, Çin'de ve Mâverâünnehir'de; Şâfiîler en çok Mısır'da; ",
+      "durum": "ISARET",
+      "not": "özel isim kaynakta bulunamadı: Irak, Hindistan"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "MEZHEP maddesi de dördüncü (onuncu) yüzyıldan itibaren dört mezhebin hâkim olduğunu, Evzâiyye, Zâhiriyye ve Taberiyye gibi mezheplerin ancak çok dar sınırlar iç",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İcmâ kavramını teorik bir sorun olarak ele alan ve teorisinin nüvesini ortaya koyan ilk doktrin sahibi, İCMÂ maddesine göre Şâfiî'dir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bu başlıklar köşeli parantez içindedir, yani çeviride eserin kendi başlığı olarak verilmemiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İcmâ, İbrahim Kâfi Dönmez'in maddesinde, müctehidlerin Peygamber'in vefatından sonraki herhangi bir zamanda dinî bir meselenin hükmü üzerinde fikir birliği etme",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı madde, Şâfiî'nin Medine ameline icmâ değeri verilmesine karşı çıktığını, ona göre icmâdan söz edebilmek için bütün İslam beldelerinde hiçbir âlimin farklı ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kıyas ise, hakkında açık hüküm bulunmayan bir meselenin hükmünü, aralarındaki ortak özelliğe veya benzerliğe dayanarak hükmü açıkça belirtilmiş meseleye göre be",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "İbn Haldun, Şiî ve Hâricî fıkıh geleneklerini çürük temellere dayanmakla niteleyip geçer; bu, bir Sünnî fakihin hükmüdür, bir ölçüm değil.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Haldun"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "KIYAS maddesi de benzer bir şey gösterir: kıyası reddeden Dâvûd ez-Zâhirî'yi, Cessâs ve Serahsî'ye dayanarak cahillikle suçlanan kişi diye anar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Buna karşılık MEZHEP maddesi, Sünnî olmayan fıkıh mezheplerinin — Zeydiyye, Ca'feriyye, İbâzıyye — fıkhın kavramlaşması, sistematize edilmesi, literatürünün gel",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "MEZHEP maddesi bunu açıkça reddeder: tarih boyunca bütün Hanbelîler ehl-i hadîs akîdesine, bütün Şâfiîler Eş'arîliğe bağlı kalmamış, Mu'tezilî ve Eş'arî Hanbelî",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkincisi, Sünnî-Şiî ayrımını tek bir bölünme anına indirgemek: ayrım hilâfet tartışmasından doğdu, ama Ehl-i sünnet kelâmcıları müslüman çoğunluğun hâkim mezheb",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mâverdî'nin aktardığına göre kadının mensup olduğu mezhep dışında hüküm veremeyeceğini savunan fakihler de bunu mezheplerin artık istikrara kavuşmuş olmasıyla g",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sorunun eskiliği kaydın kendisinde duruyor: müslüman toplumlar hukuk birliği ve hukuk güvenliği ihtiyacını, belirli bir fıkıh mezhebini esas alıp ona kanun misy",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

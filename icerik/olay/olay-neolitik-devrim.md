@@ -19,6 +19,7 @@ ilgili:
   - kavram-tarihsel-iklimbilim
   - veri-kentli-nufus-sayisi
   - tartisma-tarim-devrimi-neden
+  - kavram-canak-comleksiz-neolitik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -1,0 +1,421 @@
+{
+  "id": "kavram-sunni-islam",
+  "govde_hash": "041b8d22a785",
+  "commit": "bf4bb9c",
+  "zaman": "2026-08-30",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Abbasi halifesi Ebû Ca'fer el-Mansûr'a bir rapor sunan İbnü'l-Mukaffa', mahkemelerde birbirine zıt görüşlerin hükme esas alınmasının hukuk anarşisine yol açtığına dikkat çekmiş ve çözüm olarak ictihadların devlet eliyle derlenip aralarından en uygununun seçilerek yaptırım gücüne kavuşturulmasını teklif etmişti; sahneyi bize bir derlemeden aktaran MEZHEP maddesidir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI: onceki surumde raporu sunan kisi adsizdi ve cumle edilgen kuruluydu. Kaynak adi acikca veriyor (Ibnu'l-Mukaffa') ve kendisi de bir derlemeden aktardigini belirtiyor (Ahmed Zeki Safvet, III, 39-41). Aktarim halkasi artik metinde gorunur. CURUTUCU ITIRAZI REDDEDILDI (tek-kaynakli-nedensellik): hukuk anarsisi tespiti atlasin degil, rapora imza atan Ibnul-Mukaffanin kendi teshisidir ve cumle bunu ona atfederek veriyor; kaynak da tespiti ayni bicimde aktariyor. Ikinci bir kaynak eklemek burada bagimsiz dogrulama saglamaz, cunku dogrulanacak sey olayin kendisi degil raporun icerigidir."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Enes'in el-Muvatta'ını kanun metni hâline getirmeye girişti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak halifenin el-Muvatta'i kanun metni haline getirmeye tesebbus ettigini soyluyor. Cumle bolucu \"Malik b.\" kisaltmasinda parcaladigi icin ozne onceki parcada kaldi."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Mâlik teklifi ictihad hürriyetini kısıtlayacağı endişesiyle geri çevirdi ve halifeye, çeşitli bölgelerde yaşayan insanların benimsediği hukuk kurallarına müdahale etmemesini önerdi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dosyanin merkezi savinin dayanagi. Kaynak hem redde hem gerekceye (ictihad hurriyetinin kisitlanmasi) hem de Malik'in halifeye onerisine yer veriyor."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Halifenin elinde devlet gücü vardı, ama girişimi bir fakihin ictihad hürriyeti gerekçesiyle verdiği redde takıldı.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM EKLEMESI: acilis tezini kuran cerceve paragrafi dipnotsuzdu. Cumle yeni bir iddia kurmuyor; govdede zaten kaynaklanmis reddi ve gerekcesini topluyor. CURUTUCU ITIRAZI KARSILANDI: paragrafin ilk cumlesindeki en cok yanlis anlasilan yani ifadesi atif cercevesi olmayan bir ustunluk iddiasiydi ve kaldirildi."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "EHL-i SÜNNET maddesini yazan Yusuf Şevki Yavuz terimi, Peygamber ile ashap cemaatinin dinin temel konularında izlediği yolu benimseyenler diye tarif eder; madde ayrıca bu tabirin Kur'an'da geçmediğini ve erken dönem hadis kaynaklarında da görülmediğini kaydeder.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tarif, \"ehl-i sunnet tabiri Kur'an'da yer almamistir\" ve \"Erken donem hadis kaynaklarinda da ehl-i sunnet tabiri gorulmemekte\" cumleleri kaynakta birebir dogrulandi."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Aynı madde, ehl-i sünnetin itikadî bir mezhep olarak üçüncü (dokuzuncu) yüzyılda teşekkül ettiğini, yani muhafazakâr çoğunluğun ancak kendisine karşıt görüşlerin belirginleşmesinden sonra bu adla anılmaya başladığını yazar.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak, bu bilgilerin Ehl-i sunnetin III. (IX.) yuzyilda itikadi bir mezhep olarak tesekkul ettigini kanitladigini yazar. Govde kaynagin kanitlar kipini yazar diye yumusatarak atfediyor; kaynagin ehl-i bidat nitelemesi ise taraf tutmayan bir ifadeye cevrildi."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Madde, Watt'ın terimin ilk defa dördüncü (onuncu) yüzyılda kullanıldığı görüşünü aktarır ama buna katılmaz; Fığlalı'ya dayanarak birinci yüzyılın sonuna doğru bir tarihi öne çıkarır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI: onceki surum maddeyi iki tarih arasinda tarafsiz gosteriyordu. Kaynagin kurulusu tavizli bir baglacla Wattin gorusunu aktarip reddeder ve Figlaliya dayanan erken tarihi tercih eder. Kaynagin kendi tercihi geri konuldu. Adlar kaynagin verdigi kadardir (M. Watt, Figlali); tam ad uydurulmadi."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "O tarihin dayanağı tâbiîn kuşağından Saîd b. Cübeyr'e nispet edilen bir rivayettir ve maddenin kipi burada ihtimal kipidir, kesinlik değil.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CEKINCE TASINDI: kaynagin kipi \"ortaya cikmis olmalidir\", yani ihtimal. Cumle bunu acikca soyluyor."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Maddenin aktardığı yeni araştırmalara göre oluşumun kökeni ilk siyasî görüş ayrılıklarıdır: ilk halifenin belirlenmesi sırasındaki tartışmalar bir yana bırakılırsa, üçüncü halifenin öldürülmesine kadar geçen sürede müslümanlar arasında kayda değer bir siyasî ve itikadî ihtilâf çıkmamıştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI: onceki surum kaynagin kendi cekincesini dusurmustu — kaynak ilk halifenin belirlenmesi sirasindaki tartismalari acikca disarida birakiyor; cekince geri konuldu. Ayrica kaynak bu tespiti kendine degil yeni arastirmalara baglar; aktarim halkasi metne yazildi. Kaynagin sehid edilmesine ifadesi taraf tutmayan bir fiille karsilandi."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Irak'ta hadis malzemesi az olduğu için oradakiler kıyası çoğaltmış ve onda ustalaşmıştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak birebir: \"و كان الحديث قليلاً في أهل العراق ... فاستكثروا من القياس و مهروا فيه\"."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Iraklıların önderi Ebû Hanîfe, Hicazlıların imamı Mâlik'ti; Şâfiî, Mâlik'ten sonra Irak'a gidip Ebû Hanîfe'nin öğrencilerinden ders aldı ve iki yolu birbirine kattı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki ayri fasilda dogrulandi: \"مقدم جماعتهم ... أبو حنيفة و إمام أهل الحجاز مالك بن أنس\" ve \"رحل إلى العراق من بعد مالك و له أصحاب الإمام أبي حنيفة و أخذ عنهم و مزج طريقة أهل الحجاز بطريقة أهل العراق\". ISARET aciklamasi: mekanik katman \"Irak\" adini bulamiyor, cunku kaynak Arapcadir (el-Irak)."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Dördüncü imam Ahmed b. Hanbel ise muhaddislerin ileri gelenlerinden biri olarak sonra geldi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"و جاء من بعدهما أحمد بن حنبل ... و كان من علية المحدثين\"."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "İbn Haldun bu iki yolun yanına bir üçüncüsünü koyar: Zâhirîler kıyası büsbütün reddedip delilleri nas ve icmâ ile sınırladılar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI: onceki surum Zahiriligi \"besinci bir yol\" diye sayiyordu; kaynak fikhi iki yola ayirir ve Zahirileri ucuncu olarak ekleyip \"و كانت هذه المذاهب الثلاثة هي مذاهب الجمهور\" der. Kaynakta olmayan siralama duzeltildi."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Cumhurun bilinen mezhepleri bu üçüydü; ama İbn Haldun kendi çağında Zâhirîliğin sönmüş olduğunu söyler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"ثم درس مذهب أهل الظاهر اليوم بدروس أئمته\". \"Kendi caginda\" kaydi on dorduncu yuzyil gozlemi oldugunu isaretler."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Taklit dört imamda durdu ve İbn Haldun kendi zamanının dağılımını verir: Hanefîler Irak'ta, Hindistan'da, Çin'de ve Mâverâünnehir'de; Şâfiîler en çok Mısır'da; Mâlikîler Mağrib ve Endülüs'te; Hanbelîler sayıca az ve çoğunlukla Şam'da.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dort ogenin dordu de ayri ayri dogrulandi: Hanefi (أهل العراق و مسلمة الهند و الصين و ما وراء النهر), Safii (فمقلدوه بمصر أكثر مما سواها), Maliki (فاختص بمذهبه أهل المغرب و الأندلس), Hanbeli (فمقلده قليل ... صارت كثرتهم بالشام). Dagilim on dorduncu yuzyil gozlemidir, bugunun haritasi degildir."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "MEZHEP maddesi de dördüncü (onuncu) yüzyıldan itibaren dört mezhebin hâkim olduğunu, Evzâiyye, Zâhiriyye ve Taberiyye gibi mezheplerin ancak çok dar sınırlar içinde varlığını sürdürdüğünü kaydeder.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"IV. (X.) yuzyildan gunumuze kadar ... dort mezhep ... hakim oldugu\" ve \"Evzaiyye, Zahiriyye ve Taberiyye gibi mezhepler cok dar sinirlar icinde olsa da varligini surdurmustur\". Kaynagin listesi uc ogedir ve govde ucunu de tasiyor."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "İcmâ kavramını teorik bir sorun olarak ele alan ve teorisinin nüvesini ortaya koyan ilk doktrin sahibi, İCMÂ maddesine göre Şâfiî'dir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "USTUNLUK IDDIASI SINANDI: ilk nitelemesi kaynagindir — İCMÂ maddesi Safiiyi icma teorisinin nuvesini ortaya koyan ilk doktrin sahibi sayar — ve govdede kime ait oldugu yaziliyor."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Onun er-Risâlesinin Khadduri çevirisi on beş numaralı bölümden oluşur; burada yalnız son yedisi anılıyor: rivayetler, tek kişi rivayeti, icmâ, kıyas, ictihad, istihsan ve ihtilâf.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI: onceki surum dokuz baslik sayip bunlari \"icindekiler listesi\" diye sunuyordu; liste aslinda I-XV arasi on bes bolumdur ve \"rivayetlerdeki kusurlar\" bir bolum degil IX. bolumun (On Traditions) alt basligidir. Kirpma artik metinde beyan ediliyor ve IX. bolum kendi adiyla aniliyor. Tarama 400 bin karakterde kesiliyor; icindekiler bu pencerenin icinde."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "İcmâ, İbrahim Kâfi Dönmez'in maddesinde, müctehidlerin Peygamber'in vefatından sonraki herhangi bir zamanda dinî bir meselenin hükmü üzerinde fikir birliği etmesi olarak tanımlanır ve temel şer'î deliller arasında genellikle üçüncü sıraya yerleştirilir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tanim ve icmain temel ser-i deliller arasinda genellikle ucuncu siraya yerlestirildigi ifadesi maddenin giris paragrafinda birebir duruyor. Kaynagin genellikle kaydi korunmustur."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Aynı madde, Şâfiî'nin Medine ameline icmâ değeri verilmesine karşı çıktığını, ona göre icmâdan söz edebilmek için bütün İslam beldelerinde hiçbir âlimin farklı hüküm belirtmediğinin bilinmesi gerektiğini aktarır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak birebir: \"Cunku butun Islam beldelerinde hicbir alimin farkli hukum belirtmedigi biliniyorsa ancak o durumda icmain varligindan soz edilebilir.\""
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Kıyas ise, hakkında açık hüküm bulunmayan bir meselenin hükmünü, aralarındaki ortak özelliğe veya benzerliğe dayanarak hükmü açıkça belirtilmiş meseleye göre belirlemektir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tanim, maddenin FIKIH bolumunun (muellif H. Yunus Apaydin) ilk cumlesidir; kunye notu birinci bolumun mantik kiyasini anlattigini kaydediyor."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "İbn Haldun, Şiî ve Hâricî fıkıh geleneklerini çürük temellere dayanmakla niteleyip geçer; bu, bir Sünnî fakihin hükmüdür, bir ölçüm değil.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "KISMI KORUNDU: \"و هي كلها أصول واهية\" hukmu dogrudan Ehl-i beyt mezhepleri icin veriliyor; Harici tarafi \"و شذ بمثل ذلك الخوارج\" yani \"bunun gibi\" ifadesiyle ayni yere konuyor, dolayisiyla cikarimla destekleniyor. Govde bunun bir hukum oldugunu, bir olcum olmadigini soyleyerek kaydediyor."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "KIYAS maddesi de benzer bir şey gösterir: kıyası reddeden Dâvûd ez-Zâhirî'yi, Cessâs ve Serahsî'ye dayanarak cahillikle suçlanan kişi diye anar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI: onceki surum Cessas ve Serahsi'yi \"Hanefi usulculer\" diye niteliyordu; madde bu iki adi o pasajda boyle nitelemiyor, yalnizca kaynak olarak gosteriyor (Cessas, IV, 23-24; Semsuleimme es-Serahsi, II, 119). Niteleme kaldirildi. \"Cahil bir adam\" ifadesi ve bu kisinin Davud ez-Zahiri oldugu tespiti maddenindir."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Buna karşılık MEZHEP maddesi, Sünnî olmayan fıkıh mezheplerinin — Zeydiyye, Ca'feriyye, İbâzıyye — fıkhın kavramlaşması, sistematize edilmesi, literatürünün gelişmesi ve mezheple fert arasındaki intisap ilişkileri bakımından Sünnî mezheplerin geçtiği süreçlerden geçtiğini ve onlara benzer yapılar sergilediğini yazar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI: kaynak dort olcut sayiyor (fikhin kavramlasmasi, sistematize edilmesi, literaturunun gelismesi, intisap iliskileri); onceki surum ucunu yazip \"literaturunun gelismesi\" ogesini dusurmustu. Liste tamamlandi."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "MEZHEP maddesi bunu açıkça reddeder: tarih boyunca bütün Hanbelîler ehl-i hadîs akîdesine, bütün Şâfiîler Eş'arîliğe bağlı kalmamış, Mu'tezilî ve Eş'arî Hanbelîler de görülmüştür.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak, tarih boyunca butun Hanbelilerin ehl-i hadis akaid anlayisina, butun Safiilerin Esariligge bagli kalmadigini, Mutezili ve Esari Hanbeliler ile Mutezili ve Selefi Safiilerin de var oldugunu ornekleriyle yaziyor."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "İkincisi, Sünnî-Şiî ayrımını tek bir bölünme anına indirgemek: ayrım hilâfet tartışmasından doğdu, ama Ehl-i sünnet kelâmcıları müslüman çoğunluğun hâkim mezhebi hâline gelmeye ancak dördüncü (onuncu) yüzyılın başlarından itibaren başladı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI: onceki surum ozneyi Esari ve Maturidi kelam mektepleri diye daraltmis ve tarihi kesin bir esik gibi vermisti. Kaynak, Ehl-i sunnet kelamcilarinin IV. (X.) yuzyilin baslarindan itibaren muslüman cogunlugun hakim mezhebi haline gelmeye BASLADIGINI soyler. Ozne ve tedric kipi kaynaga geri getirildi."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Üçüncüsü, dört mezhebin yerleşmesini bir doktrin zaferi saymak; MEZHEP maddesine göre istikrarın temelindeki en etkili sebebin hukuk güvenliği olduğu söylenebilir, çünkü aynı anda ve aynı konuda bir şehrin farklı mahallelerinde farklı hükümler verildiği oluyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CEKINCE GERI KONULDU: kaynak \"en etkili sebebin ... hukuk guvenliginin saglanmasi oldugu SOYLENEBILIR\" der; onceki surum bunu kesin hukum haline getirmisti. Mahalle ornegi kaynakta birebir: \"ayni anda ve ayni konu hakkinda bir sehrin farkli mahallelerinde farkli hukumler verildigi oluyordu\"."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Mâverdî'nin aktardığına göre kadının mensup olduğu mezhep dışında hüküm veremeyeceğini savunan fakihler de bunu mezheplerin artık istikrara kavuşmuş olmasıyla gerekçelendiriyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI: onceki surum gerekceyi \"istikrar ihtiyaci\" diye vermisti; kaynak tersini soyler — fakihler kurali mezheplerin ARTIK ISTIKRARA KAVUSMUS OLMASI olgusuna dayandiriyordu (\"artik mezheplerin istikrara kavustugu ... gerekcesine dayanmaktaydi\"). Aktarim halkasi ikilidir: madde Maverdi'nin Edebu'l-kadi'sinden aktarir."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Sorunun eskiliği kaydın kendisinde duruyor: müslüman toplumlar hukuk birliği ve hukuk güvenliği ihtiyacını, belirli bir fıkıh mezhebini esas alıp ona kanun misyonu yükleyerek karşılama yoluna girmişti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM EKLEMESI: kapanis paragrafi dipnotsuzdu ve bugune dair desteksiz bir sentez tasiyordu. Cumle kaynagin kendi ifadesine indirildi: \"muslüman toplumlar hukuk birliginin ve hukuk guvenliginin saglanmasi ihtiyacini, belirli bir fikih mezhebini esas alip ona kanun misyonu yuklemek suretiyle karsilama yoluna girmis\"."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 28,
+    "kismi": 1,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

@@ -24,6 +24,7 @@ ilgili:
   - aktor-samaniler
   - olay-bagdat-kusatmasi-1258
   - aktor-hazarlar
+  - kavram-sunni-islam
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

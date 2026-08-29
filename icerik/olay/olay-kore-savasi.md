@@ -16,6 +16,7 @@ etiketler: [kore-savasi, ateskes, 38-paralel, guvenlik-konseyi, sivil-kayiplar, 
 ilgili:
   - donem-14
   - aktor-birlesmis-milletler
+  - aktor-bm-guvenlik-konseyi
   - aktor-cin-halk-cumhuriyeti
   - aktor-abd
   - olay-vietnam-savasi

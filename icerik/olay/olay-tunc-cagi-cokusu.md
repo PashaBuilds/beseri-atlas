@@ -18,6 +18,7 @@ ilgili:
   - aktor-hitit-imparatorlugu
   - kavram-tarihsel-iklimbilim
   - tartisma-iklim-ve-cokus
+  - aktor-deniz-kavimleri
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

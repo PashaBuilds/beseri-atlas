@@ -1,6 +1,6 @@
 {
-  "zaman": "2026-08-29T16:04:49.006Z",
-  "makale_sayisi": 505,
+  "zaman": "2026-08-29T21:48:11.824Z",
+  "makale_sayisi": 529,
   "celiskiler": [
     {
       "tur": "tek-yonlu-bag",
@@ -17,6 +17,38 @@
         "kavram-belge-okumasi"
       ],
       "detay": "olay-11-eylul -> kavram-belge-okumasi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-1857-hint-ayaklanmasi",
+        "olay-bengal-kitligi-1943"
+      ],
+      "detay": "olay-1857-hint-ayaklanmasi -> olay-bengal-kitligi-1943 bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-1857-hint-ayaklanmasi",
+        "kavram-kaynak-elestirisi"
+      ],
+      "detay": "olay-1857-hint-ayaklanmasi -> kavram-kaynak-elestirisi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-1857-hint-ayaklanmasi",
+        "kavram-belge-okumasi"
+      ],
+      "detay": "olay-1857-hint-ayaklanmasi -> kavram-belge-okumasi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-1857-hint-ayaklanmasi",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "olay-1857-hint-ayaklanmasi -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
     },
     {
       "tur": "tek-yonlu-bag",
@@ -69,6 +101,102 @@
     {
       "tur": "tek-yonlu-bag",
       "makaleler": [
+        "olay-kudus-fethi-1187",
+        "kavram-kaynak-elestirisi"
+      ],
+      "detay": "olay-kudus-fethi-1187 -> kavram-kaynak-elestirisi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-kudus-fethi-1187",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "olay-kudus-fethi-1187 -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-kultur-devrimi",
+        "olay-cin-devrimi-1949"
+      ],
+      "detay": "olay-kultur-devrimi -> olay-cin-devrimi-1949 bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-kultur-devrimi",
+        "olay-1968-hareketleri"
+      ],
+      "detay": "olay-kultur-devrimi -> olay-1968-hareketleri bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-kultur-devrimi",
+        "kavram-tarih-yazimi"
+      ],
+      "detay": "olay-kultur-devrimi -> kavram-tarih-yazimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-kultur-devrimi",
+        "kavram-birincil-kaynak"
+      ],
+      "detay": "olay-kultur-devrimi -> kavram-birincil-kaynak bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-kultur-devrimi",
+        "kavram-mesruiyet"
+      ],
+      "detay": "olay-kultur-devrimi -> kavram-mesruiyet bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-latin-amerika-bagimsizligi",
+        "olay-haiti-devrimi"
+      ],
+      "detay": "olay-latin-amerika-bagimsizligi -> olay-haiti-devrimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-latin-amerika-bagimsizligi",
+        "olay-atlantik-kole-ticareti"
+      ],
+      "detay": "olay-latin-amerika-bagimsizligi -> olay-atlantik-kole-ticareti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-latin-amerika-bagimsizligi",
+        "kavram-vatandaslik"
+      ],
+      "detay": "olay-latin-amerika-bagimsizligi -> kavram-vatandaslik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-latin-amerika-bagimsizligi",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "olay-latin-amerika-bagimsizligi -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-meiji-restorasyonu",
+        "olay-1857-hint-ayaklanmasi"
+      ],
+      "detay": "olay-meiji-restorasyonu -> olay-1857-hint-ayaklanmasi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
         "olay-meksika-devrimi",
         "aktor-abd"
       ],
@@ -101,10 +229,122 @@
     {
       "tur": "tek-yonlu-bag",
       "makaleler": [
+        "olay-meksika-fethi",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "olay-meksika-fethi -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-meksika-fethi",
+        "kavram-kaynak-elestirisi"
+      ],
+      "detay": "olay-meksika-fethi -> kavram-kaynak-elestirisi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-meksika-fethi",
+        "olay-amerikanin-kesfi"
+      ],
+      "detay": "olay-meksika-fethi -> olay-amerikanin-kesfi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
         "olay-mfecane",
         "olay-atlantik-kole-ticareti"
       ],
       "detay": "olay-mfecane -> olay-atlantik-kole-ticareti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-morant-bay-ayaklanmasi",
+        "donem-12"
+      ],
+      "detay": "olay-morant-bay-ayaklanmasi -> donem-12 bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-morant-bay-ayaklanmasi",
+        "aktor-britanya-imparatorlugu"
+      ],
+      "detay": "olay-morant-bay-ayaklanmasi -> aktor-britanya-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-morant-bay-ayaklanmasi",
+        "kavram-emperyalizm"
+      ],
+      "detay": "olay-morant-bay-ayaklanmasi -> kavram-emperyalizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-morant-bay-ayaklanmasi",
+        "kavram-hukuk-devleti"
+      ],
+      "detay": "olay-morant-bay-ayaklanmasi -> kavram-hukuk-devleti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-morant-bay-ayaklanmasi",
+        "kavram-mesruiyet"
+      ],
+      "detay": "olay-morant-bay-ayaklanmasi -> kavram-mesruiyet bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-morant-bay-ayaklanmasi",
+        "kavram-kolelik"
+      ],
+      "detay": "olay-morant-bay-ayaklanmasi -> kavram-kolelik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-morant-bay-ayaklanmasi",
+        "olay-haiti-devrimi"
+      ],
+      "detay": "olay-morant-bay-ayaklanmasi -> olay-haiti-devrimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-morant-bay-ayaklanmasi",
+        "olay-1857-hint-ayaklanmasi"
+      ],
+      "detay": "olay-morant-bay-ayaklanmasi -> olay-1857-hint-ayaklanmasi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-morant-bay-ayaklanmasi",
+        "olay-atlantik-kole-ticareti"
+      ],
+      "detay": "olay-morant-bay-ayaklanmasi -> olay-atlantik-kole-ticareti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-morant-bay-ayaklanmasi",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "olay-morant-bay-ayaklanmasi -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-pers-yunan-savaslari",
+        "dusunur-thukydides"
+      ],
+      "detay": "olay-pers-yunan-savaslari -> dusunur-thukydides bagi tek yonlu"
     },
     {
       "tur": "tek-yonlu-bag",
@@ -125,6 +365,70 @@
     {
       "tur": "tek-yonlu-bag",
       "makaleler": [
+        "olay-truman-doktrini",
+        "donem-14"
+      ],
+      "detay": "olay-truman-doktrini -> donem-14 bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-truman-doktrini",
+        "aktor-abd"
+      ],
+      "detay": "olay-truman-doktrini -> aktor-abd bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-truman-doktrini",
+        "aktor-sovyetler-birligi"
+      ],
+      "detay": "olay-truman-doktrini -> aktor-sovyetler-birligi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-truman-doktrini",
+        "aktor-nato"
+      ],
+      "detay": "olay-truman-doktrini -> aktor-nato bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-truman-doktrini",
+        "aktor-birlesmis-milletler"
+      ],
+      "detay": "olay-truman-doktrini -> aktor-birlesmis-milletler bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-truman-doktrini",
+        "olay-kore-savasi"
+      ],
+      "detay": "olay-truman-doktrini -> olay-kore-savasi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-truman-doktrini",
+        "kavram-caydiricilik"
+      ],
+      "detay": "olay-truman-doktrini -> kavram-caydiricilik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-truman-doktrini",
+        "kavram-hegemonya"
+      ],
+      "detay": "olay-truman-doktrini -> kavram-hegemonya bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
         "olay-vietnam-savasi",
         "kavram-somurgesizlesme"
       ],
@@ -141,10 +445,106 @@
     {
       "tur": "tek-yonlu-bag",
       "makaleler": [
+        "olay-yedi-yil-savasi",
+        "olay-plassey-1757"
+      ],
+      "detay": "olay-yedi-yil-savasi -> olay-plassey-1757 bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-yedi-yil-savasi",
+        "aktor-britanya-imparatorlugu"
+      ],
+      "detay": "olay-yedi-yil-savasi -> aktor-britanya-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-yedi-yil-savasi",
+        "aktor-ingiliz-doguhindistan-sirketi"
+      ],
+      "detay": "olay-yedi-yil-savasi -> aktor-ingiliz-doguhindistan-sirketi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-yedi-yil-savasi",
+        "kavram-guc-dengesi"
+      ],
+      "detay": "olay-yedi-yil-savasi -> kavram-guc-dengesi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-yedi-yil-savasi",
+        "kavram-anakronizm"
+      ],
+      "detay": "olay-yedi-yil-savasi -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "olay-yedi-yil-savasi",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "olay-yedi-yil-savasi -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
         "olay-yesil-devrim",
         "tartisma-tarihsel-sayilar-nasil-okunur"
       ],
       "detay": "olay-yesil-devrim -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-avam-kamarasi",
+        "donem-12"
+      ],
+      "detay": "aktor-avam-kamarasi -> donem-12 bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-avam-kamarasi",
+        "aktor-britanya-imparatorlugu"
+      ],
+      "detay": "aktor-avam-kamarasi -> aktor-britanya-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-avam-kamarasi",
+        "aktor-ingiliz-doguhindistan-sirketi"
+      ],
+      "detay": "aktor-avam-kamarasi -> aktor-ingiliz-doguhindistan-sirketi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-avam-kamarasi",
+        "kavram-vatandaslik"
+      ],
+      "detay": "aktor-avam-kamarasi -> kavram-vatandaslik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-avam-kamarasi",
+        "kavram-mesruiyet"
+      ],
+      "detay": "aktor-avam-kamarasi -> kavram-mesruiyet bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-avam-kamarasi",
+        "kavram-hukuk-devleti"
+      ],
+      "detay": "aktor-avam-kamarasi -> kavram-hukuk-devleti bagi tek yonlu"
     },
     {
       "tur": "tek-yonlu-bag",
@@ -205,10 +605,258 @@
     {
       "tur": "tek-yonlu-bag",
       "makaleler": [
+        "aktor-babur-imparatorlugu",
+        "aktor-timur-imparatorlugu"
+      ],
+      "detay": "aktor-babur-imparatorlugu -> aktor-timur-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-babur-imparatorlugu",
+        "aktor-ingiliz-doguhindistan-sirketi"
+      ],
+      "detay": "aktor-babur-imparatorlugu -> aktor-ingiliz-doguhindistan-sirketi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-babur-imparatorlugu",
+        "kavram-imparatorluk"
+      ],
+      "detay": "aktor-babur-imparatorlugu -> kavram-imparatorluk bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-babur-imparatorlugu",
+        "kavram-mesruiyet"
+      ],
+      "detay": "aktor-babur-imparatorlugu -> kavram-mesruiyet bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-babur-imparatorlugu",
+        "kavram-tarih-yazimi"
+      ],
+      "detay": "aktor-babur-imparatorlugu -> kavram-tarih-yazimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-babur-imparatorlugu",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "aktor-babur-imparatorlugu -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-baglantisizlar-hareketi",
+        "aktor-varsova-pakti"
+      ],
+      "detay": "aktor-baglantisizlar-hareketi -> aktor-varsova-pakti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-baglantisizlar-hareketi",
+        "aktor-birlesmis-milletler"
+      ],
+      "detay": "aktor-baglantisizlar-hareketi -> aktor-birlesmis-milletler bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-baglantisizlar-hareketi",
+        "kavram-somurgesizlesme"
+      ],
+      "detay": "aktor-baglantisizlar-hareketi -> kavram-somurgesizlesme bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-bm-guvenlik-konseyi",
+        "donem-14"
+      ],
+      "detay": "aktor-bm-guvenlik-konseyi -> donem-14 bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-bm-guvenlik-konseyi",
+        "aktor-birlesmis-milletler"
+      ],
+      "detay": "aktor-bm-guvenlik-konseyi -> aktor-birlesmis-milletler bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-bm-guvenlik-konseyi",
+        "aktor-abd"
+      ],
+      "detay": "aktor-bm-guvenlik-konseyi -> aktor-abd bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-bm-guvenlik-konseyi",
+        "aktor-sovyetler-birligi"
+      ],
+      "detay": "aktor-bm-guvenlik-konseyi -> aktor-sovyetler-birligi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-bm-guvenlik-konseyi",
+        "aktor-cin-halk-cumhuriyeti"
+      ],
+      "detay": "aktor-bm-guvenlik-konseyi -> aktor-cin-halk-cumhuriyeti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-bm-guvenlik-konseyi",
+        "olay-kuba-fuze-krizi"
+      ],
+      "detay": "aktor-bm-guvenlik-konseyi -> olay-kuba-fuze-krizi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-bm-guvenlik-konseyi",
+        "tartisma-soguk-savasin-baslangici"
+      ],
+      "detay": "aktor-bm-guvenlik-konseyi -> tartisma-soguk-savasin-baslangici bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-bm-guvenlik-konseyi",
+        "kavram-egemenlik"
+      ],
+      "detay": "aktor-bm-guvenlik-konseyi -> kavram-egemenlik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-deniz-kavimleri",
+        "tartisma-tunc-cagi-cokusunun-nedeni"
+      ],
+      "detay": "aktor-deniz-kavimleri -> tartisma-tunc-cagi-cokusunun-nedeni bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-deniz-kavimleri",
+        "tartisma-iklim-ve-cokus"
+      ],
+      "detay": "aktor-deniz-kavimleri -> tartisma-iklim-ve-cokus bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-deniz-kavimleri",
+        "aktor-misir-yeni-kralligi"
+      ],
+      "detay": "aktor-deniz-kavimleri -> aktor-misir-yeni-kralligi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-deniz-kavimleri",
+        "aktor-hitit-imparatorlugu"
+      ],
+      "detay": "aktor-deniz-kavimleri -> aktor-hitit-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-deniz-kavimleri",
+        "kavram-kanit-turu"
+      ],
+      "detay": "aktor-deniz-kavimleri -> kavram-kanit-turu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-deniz-kavimleri",
+        "donem-03"
+      ],
+      "detay": "aktor-deniz-kavimleri -> donem-03 bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-emevi-hilafeti",
+        "aktor-bizans-imparatorlugu"
+      ],
+      "detay": "aktor-emevi-hilafeti -> aktor-bizans-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
         "aktor-emevi-hilafeti",
         "aktor-fatimi-hilafeti"
       ],
       "detay": "aktor-emevi-hilafeti -> aktor-fatimi-hilafeti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-emevi-hilafeti",
+        "kavram-mesruiyet"
+      ],
+      "detay": "aktor-emevi-hilafeti -> kavram-mesruiyet bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-emevi-hilafeti",
+        "kavram-veraset"
+      ],
+      "detay": "aktor-emevi-hilafeti -> kavram-veraset bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-emevi-hilafeti",
+        "kavram-vergi"
+      ],
+      "detay": "aktor-emevi-hilafeti -> kavram-vergi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-emevi-hilafeti",
+        "kavram-para"
+      ],
+      "detay": "aktor-emevi-hilafeti -> kavram-para bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-emevi-hilafeti",
+        "kavram-kaynak-elestirisi"
+      ],
+      "detay": "aktor-emevi-hilafeti -> kavram-kaynak-elestirisi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-emevi-hilafeti",
+        "kavram-tarih-yazimi"
+      ],
+      "detay": "aktor-emevi-hilafeti -> kavram-tarih-yazimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-emevi-hilafeti",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "aktor-emevi-hilafeti -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
     },
     {
       "tur": "tek-yonlu-bag",
@@ -253,6 +901,14 @@
     {
       "tur": "tek-yonlu-bag",
       "makaleler": [
+        "aktor-gucerat-sultanligi",
+        "aktor-babur-imparatorlugu"
+      ],
+      "detay": "aktor-gucerat-sultanligi -> aktor-babur-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
         "aktor-hollanda-doguhindistan-sirketi",
         "kavram-kolelik"
       ],
@@ -289,6 +945,22 @@
         "olay-atlantik-kole-ticareti"
       ],
       "detay": "aktor-ingiliz-doguhindistan-sirketi -> olay-atlantik-kole-ticareti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-majapahit",
+        "aktor-ming-hanedani"
+      ],
+      "detay": "aktor-majapahit -> aktor-ming-hanedani bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-majapahit",
+        "kavram-hint-okyanusu-ticareti"
+      ],
+      "detay": "aktor-majapahit -> kavram-hint-okyanusu-ticareti bagi tek yonlu"
     },
     {
       "tur": "tek-yonlu-bag",
@@ -365,10 +1037,90 @@
     {
       "tur": "tek-yonlu-bag",
       "makaleler": [
+        "aktor-ming-hanedani",
+        "aktor-safevi-devleti"
+      ],
+      "detay": "aktor-ming-hanedani -> aktor-safevi-devleti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-olmek",
+        "kavram-anakronizm"
+      ],
+      "detay": "aktor-olmek -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-safevi-devleti",
+        "aktor-memluk-devleti"
+      ],
+      "detay": "aktor-safevi-devleti -> aktor-memluk-devleti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-safevi-devleti",
+        "kavram-mesruiyet"
+      ],
+      "detay": "aktor-safevi-devleti -> kavram-mesruiyet bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-safevi-devleti",
+        "kavram-tasavvuf"
+      ],
+      "detay": "aktor-safevi-devleti -> kavram-tasavvuf bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-safevi-devleti",
+        "kavram-ticaret-diasporasi"
+      ],
+      "detay": "aktor-safevi-devleti -> kavram-ticaret-diasporasi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-safevi-devleti",
+        "kavram-timar"
+      ],
+      "detay": "aktor-safevi-devleti -> kavram-timar bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-samaniler",
+        "kavram-anakronizm"
+      ],
+      "detay": "aktor-samaniler -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-seybaniler",
+        "aktor-babur-imparatorlugu"
+      ],
+      "detay": "aktor-seybaniler -> aktor-babur-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
         "aktor-song-hanedani",
         "olay-sanayi-devrimi"
       ],
       "detay": "aktor-song-hanedani -> olay-sanayi-devrimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-sovyetler-birligi",
+        "dusunur-carr"
+      ],
+      "detay": "aktor-sovyetler-birligi -> dusunur-carr bagi tek yonlu"
     },
     {
       "tur": "tek-yonlu-bag",
@@ -453,10 +1205,1866 @@
     {
       "tur": "tek-yonlu-bag",
       "makaleler": [
+        "aktor-varsova-pakti",
+        "olay-sovyetler-dagilmasi"
+      ],
+      "detay": "aktor-varsova-pakti -> olay-sovyetler-dagilmasi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "aktor-vijayanagara",
+        "aktor-babur-imparatorlugu"
+      ],
+      "detay": "aktor-vijayanagara -> aktor-babur-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-arendt",
+        "dusunur-kant"
+      ],
+      "detay": "dusunur-arendt -> dusunur-kant bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-arendt",
+        "dusunur-foucault"
+      ],
+      "detay": "dusunur-arendt -> dusunur-foucault bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-arendt",
+        "kavram-vatandaslik"
+      ],
+      "detay": "dusunur-arendt -> kavram-vatandaslik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-bentham",
+        "dusunur-foucault"
+      ],
+      "detay": "dusunur-bentham -> dusunur-foucault bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-bentham",
+        "dusunur-smith"
+      ],
+      "detay": "dusunur-bentham -> dusunur-smith bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-bentham",
+        "dusunur-malthus"
+      ],
+      "detay": "dusunur-bentham -> dusunur-malthus bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-bentham",
+        "kavram-hukuk-devleti"
+      ],
+      "detay": "dusunur-bentham -> kavram-hukuk-devleti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-bentham",
+        "kavram-kolelik"
+      ],
+      "detay": "dusunur-bentham -> kavram-kolelik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-braudel",
+        "kavram-tarih-yazimi"
+      ],
+      "detay": "dusunur-braudel -> kavram-tarih-yazimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-carr",
+        "dusunur-marx"
+      ],
+      "detay": "dusunur-carr -> dusunur-marx bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-du-bois",
+        "dusunur-durkheim"
+      ],
+      "detay": "dusunur-du-bois -> dusunur-durkheim bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-durkheim",
+        "dusunur-mill"
+      ],
+      "detay": "dusunur-durkheim -> dusunur-mill bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-durkheim",
+        "dusunur-foucault"
+      ],
+      "detay": "dusunur-durkheim -> dusunur-foucault bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-durkheim",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "dusunur-durkheim -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-foucault",
+        "dusunur-marx"
+      ],
+      "detay": "dusunur-foucault -> dusunur-marx bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-foucault",
+        "dusunur-weber"
+      ],
+      "detay": "dusunur-foucault -> dusunur-weber bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-foucault",
+        "kavram-egemenlik"
+      ],
+      "detay": "dusunur-foucault -> kavram-egemenlik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-foucault",
+        "kavram-kamusal-alan"
+      ],
+      "detay": "dusunur-foucault -> kavram-kamusal-alan bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-foucault",
+        "kavram-tarih-yazimi"
+      ],
+      "detay": "dusunur-foucault -> kavram-tarih-yazimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-foucault",
+        "kavram-toplumsal-cinsiyet-duzeni"
+      ],
+      "detay": "dusunur-foucault -> kavram-toplumsal-cinsiyet-duzeni bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-foucault",
+        "tartisma-aydinlanmanin-sinirlari"
+      ],
+      "detay": "dusunur-foucault -> tartisma-aydinlanmanin-sinirlari bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-harriet-taylor",
+        "kavram-toplumsal-cinsiyet-duzeni"
+      ],
+      "detay": "dusunur-harriet-taylor -> kavram-toplumsal-cinsiyet-duzeni bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-harriet-taylor",
+        "kavram-vatandaslik"
+      ],
+      "detay": "dusunur-harriet-taylor -> kavram-vatandaslik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-harriet-taylor",
+        "kavram-kamusal-alan"
+      ],
+      "detay": "dusunur-harriet-taylor -> kavram-kamusal-alan bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-harriet-taylor",
+        "kavram-zarar-ilkesi"
+      ],
+      "detay": "dusunur-harriet-taylor -> kavram-zarar-ilkesi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-harriet-taylor",
+        "tartisma-buyuk-adam-kurami"
+      ],
+      "detay": "dusunur-harriet-taylor -> tartisma-buyuk-adam-kurami bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-harriet-taylor",
+        "donem-11"
+      ],
+      "detay": "dusunur-harriet-taylor -> donem-11 bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-harriet-taylor",
+        "donem-12"
+      ],
+      "detay": "dusunur-harriet-taylor -> donem-12 bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-kant",
+        "donem-10"
+      ],
+      "detay": "dusunur-kant -> donem-10 bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-kant",
+        "dusunur-locke"
+      ],
+      "detay": "dusunur-kant -> dusunur-locke bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-kant",
+        "dusunur-montesquieu"
+      ],
+      "detay": "dusunur-kant -> dusunur-montesquieu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-kant",
+        "dusunur-mill"
+      ],
+      "detay": "dusunur-kant -> dusunur-mill bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-kant",
+        "kavram-kamusal-alan"
+      ],
+      "detay": "dusunur-kant -> kavram-kamusal-alan bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-kant",
+        "kavram-hukuk-devleti"
+      ],
+      "detay": "dusunur-kant -> kavram-hukuk-devleti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-kant",
+        "kavram-vatandaslik"
+      ],
+      "detay": "dusunur-kant -> kavram-vatandaslik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-kant",
+        "kavram-emperyalizm"
+      ],
+      "detay": "dusunur-kant -> kavram-emperyalizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-kant",
+        "olay-fransiz-devrimi"
+      ],
+      "detay": "dusunur-kant -> olay-fransiz-devrimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-keynes",
+        "olay-versailles-antlasmasi"
+      ],
+      "detay": "dusunur-keynes -> olay-versailles-antlasmasi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-keynes",
+        "olay-birinci-dunya-savasi"
+      ],
+      "detay": "dusunur-keynes -> olay-birinci-dunya-savasi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-keynes",
+        "olay-2008-finansal-krizi"
+      ],
+      "detay": "dusunur-keynes -> olay-2008-finansal-krizi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-keynes",
+        "dusunur-malthus"
+      ],
+      "detay": "dusunur-keynes -> dusunur-malthus bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-keynes",
+        "dusunur-marx"
+      ],
+      "detay": "dusunur-keynes -> dusunur-marx bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-keynes",
+        "dusunur-polanyi"
+      ],
+      "detay": "dusunur-keynes -> dusunur-polanyi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-keynes",
+        "kavram-kapitalizm"
+      ],
+      "detay": "dusunur-keynes -> kavram-kapitalizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-keynes",
+        "kavram-para"
+      ],
+      "detay": "dusunur-keynes -> kavram-para bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-locke",
+        "dusunur-mill"
+      ],
+      "detay": "dusunur-locke -> dusunur-mill bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
         "dusunur-locke",
         "olay-atlantik-kole-ticareti"
       ],
       "detay": "dusunur-locke -> olay-atlantik-kole-ticareti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-locke",
+        "olay-amerikan-devrimi"
+      ],
+      "detay": "dusunur-locke -> olay-amerikan-devrimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-locke",
+        "kavram-kolelik"
+      ],
+      "detay": "dusunur-locke -> kavram-kolelik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-machiavelli",
+        "dusunur-locke"
+      ],
+      "detay": "dusunur-machiavelli -> dusunur-locke bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-mill",
+        "dusunur-ambedkar"
+      ],
+      "detay": "dusunur-mill -> dusunur-ambedkar bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-mill",
+        "aktor-ingiliz-doguhindistan-sirketi"
+      ],
+      "detay": "dusunur-mill -> aktor-ingiliz-doguhindistan-sirketi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-mill",
+        "aktor-britanya-imparatorlugu"
+      ],
+      "detay": "dusunur-mill -> aktor-britanya-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-mill",
+        "kavram-emperyalizm"
+      ],
+      "detay": "dusunur-mill -> kavram-emperyalizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-mill",
+        "kavram-toplumsal-cinsiyet-duzeni"
+      ],
+      "detay": "dusunur-mill -> kavram-toplumsal-cinsiyet-duzeni bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-montesquieu",
+        "olay-amerikan-devrimi"
+      ],
+      "detay": "dusunur-montesquieu -> olay-amerikan-devrimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-montesquieu",
+        "kavram-egemenlik"
+      ],
+      "detay": "dusunur-montesquieu -> kavram-egemenlik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-montesquieu",
+        "kavram-kolelik"
+      ],
+      "detay": "dusunur-montesquieu -> kavram-kolelik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-montesquieu",
+        "kavram-anakronizm"
+      ],
+      "detay": "dusunur-montesquieu -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-montesquieu",
+        "tartisma-aydinlanmanin-sinirlari"
+      ],
+      "detay": "dusunur-montesquieu -> tartisma-aydinlanmanin-sinirlari bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-nagarjuna",
+        "kavram-anakronizm"
+      ],
+      "detay": "dusunur-nagarjuna -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-platon",
+        "dusunur-thukydides"
+      ],
+      "detay": "dusunur-platon -> dusunur-thukydides bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-polanyi",
+        "dusunur-braudel"
+      ],
+      "detay": "dusunur-polanyi -> dusunur-braudel bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-smith",
+        "dusunur-kant"
+      ],
+      "detay": "dusunur-smith -> dusunur-kant bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-stephen",
+        "dusunur-bentham"
+      ],
+      "detay": "dusunur-stephen -> dusunur-bentham bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-stephen",
+        "dusunur-hobbes"
+      ],
+      "detay": "dusunur-stephen -> dusunur-hobbes bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-stephen",
+        "kavram-faydacilik"
+      ],
+      "detay": "dusunur-stephen -> kavram-faydacilik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-stephen",
+        "olay-morant-bay-ayaklanmasi"
+      ],
+      "detay": "dusunur-stephen -> olay-morant-bay-ayaklanmasi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-stephen",
+        "aktor-britanya-imparatorlugu"
+      ],
+      "detay": "dusunur-stephen -> aktor-britanya-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-stephen",
+        "kavram-emperyalizm"
+      ],
+      "detay": "dusunur-stephen -> kavram-emperyalizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-stephen",
+        "kavram-hukuk-devleti"
+      ],
+      "detay": "dusunur-stephen -> kavram-hukuk-devleti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-tacitus",
+        "dusunur-thukydides"
+      ],
+      "detay": "dusunur-tacitus -> dusunur-thukydides bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-thukydides",
+        "dusunur-hobbes"
+      ],
+      "detay": "dusunur-thukydides -> dusunur-hobbes bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-thukydides",
+        "kavram-tarih-yazimi"
+      ],
+      "detay": "dusunur-thukydides -> kavram-tarih-yazimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-thukydides",
+        "kavram-anakronizm"
+      ],
+      "detay": "dusunur-thukydides -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-thukydides",
+        "kavram-guc-dengesi"
+      ],
+      "detay": "dusunur-thukydides -> kavram-guc-dengesi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-thukydides",
+        "tartisma-vestfalya-miti"
+      ],
+      "detay": "dusunur-thukydides -> tartisma-vestfalya-miti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-wang-yangming",
+        "kavram-anakronizm"
+      ],
+      "detay": "dusunur-wang-yangming -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-weber",
+        "kavram-kapitalizm"
+      ],
+      "detay": "dusunur-weber -> kavram-kapitalizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "dusunur-zhu-xi",
+        "kavram-anakronizm"
+      ],
+      "detay": "dusunur-zhu-xi -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-anakronizm",
+        "kavram-kaynak-elestirisi"
+      ],
+      "detay": "kavram-anakronizm -> kavram-kaynak-elestirisi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-anakronizm",
+        "kavram-kapitalizm"
+      ],
+      "detay": "kavram-anakronizm -> kavram-kapitalizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-anakronizm",
+        "dusunur-marx"
+      ],
+      "detay": "kavram-anakronizm -> dusunur-marx bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-asabiyet",
+        "dusunur-thukydides"
+      ],
+      "detay": "kavram-asabiyet -> dusunur-thukydides bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-canak-comleksiz-neolitik",
+        "olay-gobeklitepe"
+      ],
+      "detay": "kavram-canak-comleksiz-neolitik -> olay-gobeklitepe bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-canak-comleksiz-neolitik",
+        "donem-01"
+      ],
+      "detay": "kavram-canak-comleksiz-neolitik -> donem-01 bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-canak-comleksiz-neolitik",
+        "kavram-arkeolojik-kanit"
+      ],
+      "detay": "kavram-canak-comleksiz-neolitik -> kavram-arkeolojik-kanit bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-canak-comleksiz-neolitik",
+        "kavram-donemlendirme"
+      ],
+      "detay": "kavram-canak-comleksiz-neolitik -> kavram-donemlendirme bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-canak-comleksiz-neolitik",
+        "tartisma-tarim-devrimi-neden"
+      ],
+      "detay": "kavram-canak-comleksiz-neolitik -> tartisma-tarim-devrimi-neden bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-devsirme",
+        "aktor-osmanli-imparatorlugu"
+      ],
+      "detay": "kavram-devsirme -> aktor-osmanli-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-devsirme",
+        "kavram-kolelik"
+      ],
+      "detay": "kavram-devsirme -> kavram-kolelik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-devsirme",
+        "kavram-patrimonyalizm"
+      ],
+      "detay": "kavram-devsirme -> kavram-patrimonyalizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-devsirme",
+        "kavram-timar"
+      ],
+      "detay": "kavram-devsirme -> kavram-timar bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-devsirme",
+        "kavram-millet-sistemi"
+      ],
+      "detay": "kavram-devsirme -> kavram-millet-sistemi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-devsirme",
+        "kavram-burokrasi"
+      ],
+      "detay": "kavram-devsirme -> kavram-burokrasi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-eksen-cagi",
+        "kavram-donemlendirme"
+      ],
+      "detay": "kavram-eksen-cagi -> kavram-donemlendirme bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-eksen-cagi",
+        "kavram-anakronizm"
+      ],
+      "detay": "kavram-eksen-cagi -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-faydacilik",
+        "dusunur-bentham"
+      ],
+      "detay": "kavram-faydacilik -> dusunur-bentham bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-faydacilik",
+        "dusunur-smith"
+      ],
+      "detay": "kavram-faydacilik -> dusunur-smith bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-faydacilik",
+        "dusunur-kant"
+      ],
+      "detay": "kavram-faydacilik -> dusunur-kant bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-faydacilik",
+        "dusunur-foucault"
+      ],
+      "detay": "kavram-faydacilik -> dusunur-foucault bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-faydacilik",
+        "kavram-hukuk-devleti"
+      ],
+      "detay": "kavram-faydacilik -> kavram-hukuk-devleti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-faydacilik",
+        "tartisma-aydinlanmanin-sinirlari"
+      ],
+      "detay": "kavram-faydacilik -> tartisma-aydinlanmanin-sinirlari bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-goksel-yetki",
+        "dusunur-konfucyus"
+      ],
+      "detay": "kavram-goksel-yetki -> dusunur-konfucyus bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-goksel-yetki",
+        "kavram-anakronizm"
+      ],
+      "detay": "kavram-goksel-yetki -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-guc-dengesi",
+        "dusunur-carr"
+      ],
+      "detay": "kavram-guc-dengesi -> dusunur-carr bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ideoloji",
+        "dusunur-marx"
+      ],
+      "detay": "kavram-ideoloji -> dusunur-marx bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ideoloji",
+        "dusunur-foucault"
+      ],
+      "detay": "kavram-ideoloji -> dusunur-foucault bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ideoloji",
+        "kavram-hegemonya"
+      ],
+      "detay": "kavram-ideoloji -> kavram-hegemonya bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ideoloji",
+        "kavram-tarihsel-materyalizm"
+      ],
+      "detay": "kavram-ideoloji -> kavram-tarihsel-materyalizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ideoloji",
+        "kavram-tarih-yazimi"
+      ],
+      "detay": "kavram-ideoloji -> kavram-tarih-yazimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ideoloji",
+        "tartisma-fransiz-devrimi-yorumlari"
+      ],
+      "detay": "kavram-ideoloji -> tartisma-fransiz-devrimi-yorumlari bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ilkel-birikim",
+        "kavram-somurgesizlesme"
+      ],
+      "detay": "kavram-ilkel-birikim -> kavram-somurgesizlesme bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ilkel-birikim",
+        "kaynak-smith-uluslarin-zenginligi"
+      ],
+      "detay": "kavram-ilkel-birikim -> kaynak-smith-uluslarin-zenginligi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ilkel-birikim",
+        "olay-atlantik-kole-ticareti"
+      ],
+      "detay": "kavram-ilkel-birikim -> olay-atlantik-kole-ticareti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ilkel-birikim",
+        "tartisma-somurgeciligin-ekonomik-bilancosu"
+      ],
+      "detay": "kavram-ilkel-birikim -> tartisma-somurgeciligin-ekonomik-bilancosu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-iltizam",
+        "kavram-vergi"
+      ],
+      "detay": "kavram-iltizam -> kavram-vergi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-iltizam",
+        "aktor-osmanli-imparatorlugu"
+      ],
+      "detay": "kavram-iltizam -> aktor-osmanli-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-iltizam",
+        "tartisma-osmanli-gerileme-tezi"
+      ],
+      "detay": "kavram-iltizam -> tartisma-osmanli-gerileme-tezi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-iltizam",
+        "kaynak-gulhane-hatti"
+      ],
+      "detay": "kavram-iltizam -> kaynak-gulhane-hatti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-iltizam",
+        "kavram-burokrasi"
+      ],
+      "detay": "kavram-iltizam -> kavram-burokrasi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-iltizam",
+        "kavram-patrimonyalizm"
+      ],
+      "detay": "kavram-iltizam -> kavram-patrimonyalizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-kast",
+        "kavram-anakronizm"
+      ],
+      "detay": "kavram-kast -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-kolelik",
+        "kavram-ilkel-birikim"
+      ],
+      "detay": "kavram-kolelik -> kavram-ilkel-birikim bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-kolelik",
+        "kavram-zorunlu-emek-duzeni"
+      ],
+      "detay": "kavram-kolelik -> kavram-zorunlu-emek-duzeni bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-kolelik",
+        "kavram-anakronizm"
+      ],
+      "detay": "kavram-kolelik -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-kolelik",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "kavram-kolelik -> tartisma-tarihsel-sayilar-nasil-okunur bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-kolelik",
+        "dusunur-marx"
+      ],
+      "detay": "kavram-kolelik -> dusunur-marx bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-konfucyuscluk",
+        "kavram-anakronizm"
+      ],
+      "detay": "kavram-konfucyuscluk -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-konjonktur",
+        "kavram-longue-duree"
+      ],
+      "detay": "kavram-konjonktur -> kavram-longue-duree bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-konjonktur",
+        "kavram-tarih-yazimi"
+      ],
+      "detay": "kavram-konjonktur -> kavram-tarih-yazimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-konjonktur",
+        "kavram-donemlendirme"
+      ],
+      "detay": "kavram-konjonktur -> kavram-donemlendirme bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-konjonktur",
+        "kavram-dunya-sistemi"
+      ],
+      "detay": "kavram-konjonktur -> kavram-dunya-sistemi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-konjonktur",
+        "kavram-kapitalizm"
+      ],
+      "detay": "kavram-konjonktur -> kavram-kapitalizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-konjonktur",
+        "olay-buyuk-buhran"
+      ],
+      "detay": "kavram-konjonktur -> olay-buyuk-buhran bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-konjonktur",
+        "tartisma-fransiz-devrimi-yorumlari"
+      ],
+      "detay": "kavram-konjonktur -> tartisma-fransiz-devrimi-yorumlari bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-konjonktur",
+        "olay-hacli-seferleri"
+      ],
+      "detay": "kavram-konjonktur -> olay-hacli-seferleri bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-kula-halkasi",
+        "dusunur-durkheim"
+      ],
+      "detay": "kavram-kula-halkasi -> dusunur-durkheim bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-kurulus-anlatisi",
+        "kavram-anakronizm"
+      ],
+      "detay": "kavram-kurulus-anlatisi -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-legalizm",
+        "kavram-anakronizm"
+      ],
+      "detay": "kavram-legalizm -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-lonca",
+        "kavram-feodalite"
+      ],
+      "detay": "kavram-lonca -> kavram-feodalite bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-lonca",
+        "kavram-kapitalizm"
+      ],
+      "detay": "kavram-lonca -> kavram-kapitalizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-lonca",
+        "kavram-kentlesme"
+      ],
+      "detay": "kavram-lonca -> kavram-kentlesme bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-lonca",
+        "kavram-vakif"
+      ],
+      "detay": "kavram-lonca -> kavram-vakif bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-lonca",
+        "kavram-buyuk-ayrisma"
+      ],
+      "detay": "kavram-lonca -> kavram-buyuk-ayrisma bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-lonca",
+        "tartisma-sanayi-devrimi-neden-ingiltere"
+      ],
+      "detay": "kavram-lonca -> tartisma-sanayi-devrimi-neden-ingiltere bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-lonca",
+        "tartisma-osmanli-gerileme-tezi"
+      ],
+      "detay": "kavram-lonca -> tartisma-osmanli-gerileme-tezi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-olay-tarihi",
+        "dusunur-braudel"
+      ],
+      "detay": "kavram-olay-tarihi -> dusunur-braudel bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-olay-tarihi",
+        "kavram-konjonktur"
+      ],
+      "detay": "kavram-olay-tarihi -> kavram-konjonktur bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-olay-tarihi",
+        "kavram-longue-duree"
+      ],
+      "detay": "kavram-olay-tarihi -> kavram-longue-duree bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-olay-tarihi",
+        "kavram-tarih-yazimi"
+      ],
+      "detay": "kavram-olay-tarihi -> kavram-tarih-yazimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-olay-tarihi",
+        "kavram-donemlendirme"
+      ],
+      "detay": "kavram-olay-tarihi -> kavram-donemlendirme bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-olay-tarihi",
+        "tartisma-fransiz-devrimi-yorumlari"
+      ],
+      "detay": "kavram-olay-tarihi -> tartisma-fransiz-devrimi-yorumlari bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-olay-tarihi",
+        "tartisma-buyuk-adam-kurami"
+      ],
+      "detay": "kavram-olay-tarihi -> tartisma-buyuk-adam-kurami bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-seferberlik",
+        "tartisma-1914-savas-sorumlulugu"
+      ],
+      "detay": "kavram-seferberlik -> tartisma-1914-savas-sorumlulugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-seferberlik",
+        "kavram-topyekun-savas"
+      ],
+      "detay": "kavram-seferberlik -> kavram-topyekun-savas bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-seferberlik",
+        "kavram-askeri-devrim"
+      ],
+      "detay": "kavram-seferberlik -> kavram-askeri-devrim bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-seferberlik",
+        "kavram-ulus-devlet"
+      ],
+      "detay": "kavram-seferberlik -> kavram-ulus-devlet bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-seferberlik",
+        "kavram-vatandaslik"
+      ],
+      "detay": "kavram-seferberlik -> kavram-vatandaslik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-seferberlik",
+        "olay-fransiz-devrimi"
+      ],
+      "detay": "kavram-seferberlik -> olay-fransiz-devrimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-seferberlik",
+        "olay-birinci-dunya-savasi"
+      ],
+      "detay": "kavram-seferberlik -> olay-birinci-dunya-savasi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-seferberlik",
+        "olay-adva-1896"
+      ],
+      "detay": "kavram-seferberlik -> olay-adva-1896 bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-seferberlik",
+        "aktor-zulu-kralligi"
+      ],
+      "detay": "kavram-seferberlik -> aktor-zulu-kralligi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-serflik",
+        "kavram-kolelik"
+      ],
+      "detay": "kavram-serflik -> kavram-kolelik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-serflik",
+        "kavram-feodalite"
+      ],
+      "detay": "kavram-serflik -> kavram-feodalite bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-serflik",
+        "kavram-vasallik"
+      ],
+      "detay": "kavram-serflik -> kavram-vasallik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-serflik",
+        "tartisma-kara-olumun-sonuclari"
+      ],
+      "detay": "kavram-serflik -> tartisma-kara-olumun-sonuclari bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-serflik",
+        "kavram-timar"
+      ],
+      "detay": "kavram-serflik -> kavram-timar bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-serflik",
+        "kavram-zorunlu-emek-duzeni"
+      ],
+      "detay": "kavram-serflik -> kavram-zorunlu-emek-duzeni bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-serflik",
+        "kavram-vergi"
+      ],
+      "detay": "kavram-serflik -> kavram-vergi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-serflik",
+        "aktor-rus-imparatorlugu"
+      ],
+      "detay": "kavram-serflik -> aktor-rus-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-serflik",
+        "donem-07"
+      ],
+      "detay": "kavram-serflik -> donem-07 bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-somurgecilik",
+        "tartisma-somurgeciligin-ekonomik-bilancosu"
+      ],
+      "detay": "kavram-somurgecilik -> tartisma-somurgeciligin-ekonomik-bilancosu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-somurgecilik",
+        "tartisma-kesif-mi-istila-mi"
+      ],
+      "detay": "kavram-somurgecilik -> tartisma-kesif-mi-istila-mi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-somurgecilik",
+        "olay-berlin-konferansi"
+      ],
+      "detay": "kavram-somurgecilik -> olay-berlin-konferansi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-somurgecilik",
+        "kavram-himaye-duzeni"
+      ],
+      "detay": "kavram-somurgecilik -> kavram-himaye-duzeni bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-somurgecilik",
+        "kavram-vesayet-yonetimi"
+      ],
+      "detay": "kavram-somurgecilik -> kavram-vesayet-yonetimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-somurgecilik",
+        "kavram-imparatorluk"
+      ],
+      "detay": "kavram-somurgecilik -> kavram-imparatorluk bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-somurgecilik",
+        "kavram-donemlendirme"
+      ],
+      "detay": "kavram-somurgecilik -> kavram-donemlendirme bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-somurgecilik",
+        "kavram-zorunlu-emek-duzeni"
+      ],
+      "detay": "kavram-somurgecilik -> kavram-zorunlu-emek-duzeni bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-somurgecilik",
+        "olay-kongo-serbest-devleti"
+      ],
+      "detay": "kavram-somurgecilik -> olay-kongo-serbest-devleti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-somurgecilik",
+        "dusunur-fanon"
+      ],
+      "detay": "kavram-somurgecilik -> dusunur-fanon bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-somurgecilik",
+        "dusunur-las-casas"
+      ],
+      "detay": "kavram-somurgecilik -> dusunur-las-casas bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-sunni-islam",
+        "kavram-ictihad"
+      ],
+      "detay": "kavram-sunni-islam -> kavram-ictihad bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-sunni-islam",
+        "kavram-ulema"
+      ],
+      "detay": "kavram-sunni-islam -> kavram-ulema bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-sunni-islam",
+        "kavram-tasavvuf"
+      ],
+      "detay": "kavram-sunni-islam -> kavram-tasavvuf bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-sunni-islam",
+        "kavram-mesruiyet"
+      ],
+      "detay": "kavram-sunni-islam -> kavram-mesruiyet bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-sunni-islam",
+        "aktor-emevi-hilafeti"
+      ],
+      "detay": "kavram-sunni-islam -> aktor-emevi-hilafeti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-sunni-islam",
+        "aktor-fatimi-hilafeti"
+      ],
+      "detay": "kavram-sunni-islam -> aktor-fatimi-hilafeti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-sunni-islam",
+        "dusunur-gazali"
+      ],
+      "detay": "kavram-sunni-islam -> dusunur-gazali bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-sunni-islam",
+        "dusunur-ibn-haldun"
+      ],
+      "detay": "kavram-sunni-islam -> dusunur-ibn-haldun bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-sunni-islam",
+        "kaynak-ibn-haldun-mukaddime"
+      ],
+      "detay": "kavram-sunni-islam -> kaynak-ibn-haldun-mukaddime bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-sunni-islam",
+        "olay-islam-fetihleri"
+      ],
+      "detay": "kavram-sunni-islam -> olay-islam-fetihleri bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-takvim",
+        "kavram-anakronizm"
+      ],
+      "detay": "kavram-takvim -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-taoizm",
+        "kavram-anakronizm"
+      ],
+      "detay": "kavram-taoizm -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ulema",
+        "aktor-osmanli-imparatorlugu"
+      ],
+      "detay": "kavram-ulema -> aktor-osmanli-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ulema",
+        "kavram-timar"
+      ],
+      "detay": "kavram-ulema -> kavram-timar bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ulema",
+        "kavram-vakif"
+      ],
+      "detay": "kavram-ulema -> kavram-vakif bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ulema",
+        "kavram-ictihad"
+      ],
+      "detay": "kavram-ulema -> kavram-ictihad bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ulema",
+        "kavram-burokrasi"
+      ],
+      "detay": "kavram-ulema -> kavram-burokrasi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ulema",
+        "kavram-mesruiyet"
+      ],
+      "detay": "kavram-ulema -> kavram-mesruiyet bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ulema",
+        "kavram-patrimonyalizm"
+      ],
+      "detay": "kavram-ulema -> kavram-patrimonyalizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ulema",
+        "kavram-devsirme"
+      ],
+      "detay": "kavram-ulema -> kavram-devsirme bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-ulema",
+        "kaynak-kanunuesasi-1876"
+      ],
+      "detay": "kavram-ulema -> kaynak-kanunuesasi-1876 bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-vakif",
+        "kavram-timar"
+      ],
+      "detay": "kavram-vakif -> kavram-timar bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-vakif",
+        "kavram-vergi"
+      ],
+      "detay": "kavram-vakif -> kavram-vergi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-vakif",
+        "kavram-veraset"
+      ],
+      "detay": "kavram-vakif -> kavram-veraset bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-vakif",
+        "kavram-para"
+      ],
+      "detay": "kavram-vakif -> kavram-para bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-vakif",
+        "kavram-tasavvuf"
+      ],
+      "detay": "kavram-vakif -> kavram-tasavvuf bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-vakif",
+        "kavram-kentlesme"
+      ],
+      "detay": "kavram-vakif -> kavram-kentlesme bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-vakif",
+        "kavram-millet-sistemi"
+      ],
+      "detay": "kavram-vakif -> kavram-millet-sistemi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-vakif",
+        "kavram-ictihad"
+      ],
+      "detay": "kavram-vakif -> kavram-ictihad bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-vakif",
+        "aktor-osmanli-imparatorlugu"
+      ],
+      "detay": "kavram-vakif -> aktor-osmanli-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-vakif",
+        "aktor-memluk-devleti"
+      ],
+      "detay": "kavram-vakif -> aktor-memluk-devleti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-vakif",
+        "tartisma-osmanli-gerileme-tezi"
+      ],
+      "detay": "kavram-vakif -> tartisma-osmanli-gerileme-tezi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-vasallik",
+        "kavram-feodalite"
+      ],
+      "detay": "kavram-vasallik -> kavram-feodalite bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-vasallik",
+        "kavram-anakronizm"
+      ],
+      "detay": "kavram-vasallik -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-vasallik",
+        "kavram-timar"
+      ],
+      "detay": "kavram-vasallik -> kavram-timar bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-vasallik",
+        "kavram-haracguzarlik"
+      ],
+      "detay": "kavram-vasallik -> kavram-haracguzarlik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-vasallik",
+        "kavram-egemenlik"
+      ],
+      "detay": "kavram-vasallik -> kavram-egemenlik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-vasallik",
+        "aktor-karolenj-imparatorlugu"
+      ],
+      "detay": "kavram-vasallik -> aktor-karolenj-imparatorlugu bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-vasallik",
+        "donem-07"
+      ],
+      "detay": "kavram-vasallik -> donem-07 bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-yazi-sistemi",
+        "kavram-anakronizm"
+      ],
+      "detay": "kavram-yazi-sistemi -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-zarar-ilkesi",
+        "kavram-hukuk-devleti"
+      ],
+      "detay": "kavram-zarar-ilkesi -> kavram-hukuk-devleti bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-zarar-ilkesi",
+        "kavram-kamusal-alan"
+      ],
+      "detay": "kavram-zarar-ilkesi -> kavram-kamusal-alan bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-zarar-ilkesi",
+        "kavram-sivil-toplum"
+      ],
+      "detay": "kavram-zarar-ilkesi -> kavram-sivil-toplum bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kavram-zarar-ilkesi",
+        "kavram-vatandaslik"
+      ],
+      "detay": "kavram-zarar-ilkesi -> kavram-vatandaslik bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "tartisma-antik-kolelik-ekonomisi",
+        "kavram-ilkel-birikim"
+      ],
+      "detay": "tartisma-antik-kolelik-ekonomisi -> kavram-ilkel-birikim bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "tartisma-kesif-mi-istila-mi",
+        "kavram-anakronizm"
+      ],
+      "detay": "tartisma-kesif-mi-istila-mi -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "tartisma-milliyetcilik-ne-zaman",
+        "kavram-anakronizm"
+      ],
+      "detay": "tartisma-milliyetcilik-ne-zaman -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "tartisma-soguk-savasin-baslangici",
+        "dusunur-carr"
+      ],
+      "detay": "tartisma-soguk-savasin-baslangici -> dusunur-carr bagi tek yonlu"
     },
     {
       "tur": "tek-yonlu-bag",
@@ -473,54 +3081,33 @@
         "olay-sanayi-devrimi"
       ],
       "detay": "veri-kisi-basi-enerji -> olay-sanayi-devrimi bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kaynak-kautilya-arthasastra",
+        "kavram-anakronizm"
+      ],
+      "detay": "kaynak-kautilya-arthasastra -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kaynak-magna-carta",
+        "kavram-anakronizm"
+      ],
+      "detay": "kaynak-magna-carta -> kavram-anakronizm bagi tek yonlu"
+    },
+    {
+      "tur": "tek-yonlu-bag",
+      "makaleler": [
+        "kaynak-popol-vuh",
+        "kavram-anakronizm"
+      ],
+      "detay": "kaynak-popol-vuh -> kavram-anakronizm bagi tek yonlu"
     }
   ],
   "incelenecek": [
-    {
-      "tur": "varlik-yil-ayrismasi",
-      "seviye": "incele",
-      "makaleler": [
-        "donem-01",
-        "tartisma-tarim-devrimi-neden"
-      ],
-      "detay": "\"Gordon Childe\" — donem-01: 1936 / tartisma-tarim-devrimi-neden: 1928"
-    },
-    {
-      "tur": "varlik-yil-ayrismasi",
-      "seviye": "incele",
-      "makaleler": [
-        "olay-neolitik-devrim",
-        "tartisma-tarim-devrimi-neden"
-      ],
-      "detay": "\"Gordon Childe\" — olay-neolitik-devrim: 1936 / tartisma-tarim-devrimi-neden: 1928"
-    },
-    {
-      "tur": "varlik-yil-ayrismasi",
-      "seviye": "incele",
-      "makaleler": [
-        "tartisma-tarim-devrimi-ilerleme-mi",
-        "tartisma-tarim-devrimi-neden"
-      ],
-      "detay": "\"Gordon Childe\" — tartisma-tarim-devrimi-ilerleme-mi: 1936 / tartisma-tarim-devrimi-neden: 1928"
-    },
-    {
-      "tur": "varlik-yil-ayrismasi",
-      "seviye": "incele",
-      "makaleler": [
-        "donem-01",
-        "tartisma-tarim-devrimi-neden"
-      ],
-      "detay": "\"Man Makes Himself\" — donem-01: 1936 / tartisma-tarim-devrimi-neden: 1928"
-    },
-    {
-      "tur": "varlik-yil-ayrismasi",
-      "seviye": "incele",
-      "makaleler": [
-        "olay-neolitik-devrim",
-        "tartisma-tarim-devrimi-neden"
-      ],
-      "detay": "\"Man Makes Himself\" — olay-neolitik-devrim: 1936 / tartisma-tarim-devrimi-neden: 1928"
-    },
     {
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
@@ -553,9 +3140,81 @@
       "seviye": "incele",
       "makaleler": [
         "donem-04",
+        "dusunur-carr"
+      ],
+      "detay": "\"İngilizce\" — donem-04: 1953 / dusunur-carr: 1960"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-04",
         "tartisma-sozlu-gelenek-kaynak-mi"
       ],
       "detay": "\"İngilizce\" — donem-04: 1953 / tartisma-sozlu-gelenek-kaynak-mi: 1961"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kudus-fethi-1187",
+        "olay-meksika-devrimi"
+      ],
+      "detay": "\"İngilizce\" — olay-kudus-fethi-1187: 1897 / olay-meksika-devrimi: 1917"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kudus-fethi-1187",
+        "kavram-timar"
+      ],
+      "detay": "\"İngilizce\" — olay-kudus-fethi-1187: 1897 / kavram-timar: 1892"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kudus-fethi-1187",
+        "kavram-vakif"
+      ],
+      "detay": "\"İngilizce\" — olay-kudus-fethi-1187: 1897 / kavram-vakif: 1892"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-meksika-devrimi",
+        "kavram-timar"
+      ],
+      "detay": "\"İngilizce\" — olay-meksika-devrimi: 1917 / kavram-timar: 1892"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-meksika-devrimi",
+        "kavram-vakif"
+      ],
+      "detay": "\"İngilizce\" — olay-meksika-devrimi: 1917 / kavram-vakif: 1892"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "dusunur-carr",
+        "dusunur-farabi"
+      ],
+      "detay": "\"İngilizce\" — dusunur-carr: 1960 / dusunur-farabi: 1980"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "dusunur-carr",
+        "tartisma-sozlu-gelenek-kaynak-mi"
+      ],
+      "detay": "\"İngilizce\" — dusunur-carr: 1960 / tartisma-sozlu-gelenek-kaynak-mi: 1961"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -616,6 +3275,15 @@
       "seviye": "incele",
       "makaleler": [
         "olay-bretton-woods",
+        "dusunur-keynes"
+      ],
+      "detay": "\"Avrupa\" — olay-bretton-woods: 1930 / dusunur-keynes: 1914"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-bretton-woods",
         "tartisma-1914-savas-sorumlulugu"
       ],
       "detay": "\"Avrupa\" — olay-bretton-woods: 1930 / tartisma-1914-savas-sorumlulugu: 1914"
@@ -652,6 +3320,15 @@
       "seviye": "incele",
       "makaleler": [
         "olay-buyuk-buhran",
+        "dusunur-keynes"
+      ],
+      "detay": "\"Avrupa\" — olay-buyuk-buhran: 1931 / dusunur-keynes: 1914"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-buyuk-buhran",
         "tartisma-1914-savas-sorumlulugu"
       ],
       "detay": "\"Avrupa\" — olay-buyuk-buhran: 1931 / tartisma-1914-savas-sorumlulugu: 1914"
@@ -664,6 +3341,51 @@
         "tartisma-romanin-cokus-nedeni"
       ],
       "detay": "\"Avrupa\" — olay-buyuk-buhran: 1931 / tartisma-romanin-cokus-nedeni: 1920"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "dusunur-marx",
+        "olay-latin-amerika-bagimsizligi"
+      ],
+      "detay": "\"Avrupa\" — dusunur-marx: 1848 / olay-latin-amerika-bagimsizligi: 1823"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "dusunur-marx",
+        "dusunur-mill"
+      ],
+      "detay": "\"Avrupa\" — dusunur-marx: 1848 / dusunur-mill: 1873"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-latin-amerika-bagimsizligi",
+        "kaynak-pomeranz-buyuk-ayrisma"
+      ],
+      "detay": "\"Avrupa\" — olay-latin-amerika-bagimsizligi: 1823 / kaynak-pomeranz-buyuk-ayrisma: 1800"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-meksika-fethi",
+        "kavram-goksel-yetki"
+      ],
+      "detay": "\"Avrupa\" — olay-meksika-fethi: 1579 / kavram-goksel-yetki: 1573"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-paris-iklim-anlasmasi",
+        "dusunur-keynes"
+      ],
+      "detay": "\"Avrupa\" — olay-paris-iklim-anlasmasi: 1900 / dusunur-keynes: 1914"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -691,6 +3413,24 @@
         "tartisma-sanayi-devrimi-neden-ingiltere"
       ],
       "detay": "\"Avrupa\" — olay-plassey-1757: 1757 / tartisma-sanayi-devrimi-neden-ingiltere: 1750"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-plassey-1757",
+        "dusunur-montesquieu"
+      ],
+      "detay": "\"Avrupa\" — olay-plassey-1757: 1757 / dusunur-montesquieu: 1751"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-sanayi-devrimi-neden-ingiltere",
+        "dusunur-montesquieu"
+      ],
+      "detay": "\"Avrupa\" — tartisma-sanayi-devrimi-neden-ingiltere: 1750 / dusunur-montesquieu: 1751"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -745,6 +3485,24 @@
         "aktor-tokugawa-sogunlugu"
       ],
       "detay": "\"Avrupa\" — aktor-rapa-nui: 1722 / aktor-tokugawa-sogunlugu: 1708"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-varsova-pakti",
+        "tartisma-tarihsel-sayilar-nasil-okunur"
+      ],
+      "detay": "\"Avrupa\" — aktor-varsova-pakti: 1985 / tartisma-tarihsel-sayilar-nasil-okunur: 1970"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "dusunur-keynes",
+        "tartisma-romanin-cokus-nedeni"
+      ],
+      "detay": "\"Avrupa\" — dusunur-keynes: 1914 / tartisma-romanin-cokus-nedeni: 1920"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -813,10 +3571,28 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
+        "olay-buyuk-buhran",
+        "dusunur-arendt"
+      ],
+      "detay": "\"Almanya\" — olay-buyuk-buhran: 1931 / dusunur-arendt: 1944"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
         "olay-ikinci-dunya-savasi",
         "olay-uzay-yarisi"
       ],
       "detay": "\"Almanya\" — olay-ikinci-dunya-savasi: 1929 / olay-uzay-yarisi: 1944"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-ikinci-dunya-savasi",
+        "dusunur-arendt"
+      ],
+      "detay": "\"Almanya\" — olay-ikinci-dunya-savasi: 1929 / dusunur-arendt: 1944"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -895,6 +3671,15 @@
       "seviye": "incele",
       "makaleler": [
         "olay-meksika-devrimi",
+        "kavram-somurgecilik"
+      ],
+      "detay": "\"Fransa\" — olay-meksika-devrimi: 1911 / kavram-somurgecilik: 1891"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-meksika-devrimi",
         "tartisma-1914-savas-sorumlulugu"
       ],
       "detay": "\"Fransa\" — olay-meksika-devrimi: 1911 / tartisma-1914-savas-sorumlulugu: 1912"
@@ -912,6 +3697,15 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
+        "kavram-somurgecilik",
+        "tartisma-1914-savas-sorumlulugu"
+      ],
+      "detay": "\"Fransa\" — kavram-somurgecilik: 1891 / tartisma-1914-savas-sorumlulugu: 1912"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
         "tartisma-ikinci-dunya-savasi-sorumlulugu",
         "tartisma-soykirim-kavrami"
       ],
@@ -921,19 +3715,10 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
-        "olay-11-eylul",
-        "olay-arap-bahari"
-      ],
-      "detay": "\"Irak\" — olay-11-eylul: 2002 / olay-arap-bahari: 2012"
-    },
-    {
-      "tur": "varlik-yil-ayrismasi",
-      "seviye": "incele",
-      "makaleler": [
         "donem-13",
-        "dusunur-keynes"
+        "olay-truman-doktrini"
       ],
-      "detay": "\"Büyük Buhran\" — donem-13: 1929 / dusunur-keynes: 1920"
+      "detay": "\"Türkiye\" — donem-13: 1923 / olay-truman-doktrini: 1947"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -976,6 +3761,15 @@
       "seviye": "incele",
       "makaleler": [
         "donem-13",
+        "aktor-bm-guvenlik-konseyi"
+      ],
+      "detay": "\"Sovyetler Birliği\" — donem-13: 1929 / aktor-bm-guvenlik-konseyi: 1946"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "donem-13",
         "tartisma-ikinci-dunya-savasi-sorumlulugu"
       ],
       "detay": "\"Sovyetler Birliği\" — donem-13: 1929 / tartisma-ikinci-dunya-savasi-sorumlulugu: 1941"
@@ -994,6 +3788,15 @@
       "seviye": "incele",
       "makaleler": [
         "olay-versailles-antlasmasi",
+        "aktor-bm-guvenlik-konseyi"
+      ],
+      "detay": "\"Sovyetler Birliği\" — olay-versailles-antlasmasi: 1929 / aktor-bm-guvenlik-konseyi: 1946"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-versailles-antlasmasi",
         "tartisma-ikinci-dunya-savasi-sorumlulugu"
       ],
       "detay": "\"Sovyetler Birliği\" — olay-versailles-antlasmasi: 1929 / tartisma-ikinci-dunya-savasi-sorumlulugu: 1941"
@@ -1003,9 +3806,108 @@
       "seviye": "incele",
       "makaleler": [
         "olay-kore-savasi",
+        "olay-kultur-devrimi"
+      ],
+      "detay": "\"Sovyetler Birliği\" — olay-kore-savasi: 1950 / olay-kultur-devrimi: 1971"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kore-savasi",
+        "aktor-baglantisizlar-hareketi"
+      ],
+      "detay": "\"Sovyetler Birliği\" — olay-kore-savasi: 1950 / aktor-baglantisizlar-hareketi: 1961"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kore-savasi",
+        "aktor-bm-guvenlik-konseyi"
+      ],
+      "detay": "\"Sovyetler Birliği\" — olay-kore-savasi: 1950 / aktor-bm-guvenlik-konseyi: 1946"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kore-savasi",
         "tartisma-ikinci-dunya-savasi-sorumlulugu"
       ],
       "detay": "\"Sovyetler Birliği\" — olay-kore-savasi: 1950 / tartisma-ikinci-dunya-savasi-sorumlulugu: 1941"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kultur-devrimi",
+        "aktor-baglantisizlar-hareketi"
+      ],
+      "detay": "\"Sovyetler Birliği\" — olay-kultur-devrimi: 1971 / aktor-baglantisizlar-hareketi: 1961"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kultur-devrimi",
+        "aktor-bm-guvenlik-konseyi"
+      ],
+      "detay": "\"Sovyetler Birliği\" — olay-kultur-devrimi: 1971 / aktor-bm-guvenlik-konseyi: 1946"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-baglantisizlar-hareketi",
+        "aktor-bm-guvenlik-konseyi"
+      ],
+      "detay": "\"Sovyetler Birliği\" — aktor-baglantisizlar-hareketi: 1961 / aktor-bm-guvenlik-konseyi: 1946"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-baglantisizlar-hareketi",
+        "tartisma-ikinci-dunya-savasi-sorumlulugu"
+      ],
+      "detay": "\"Sovyetler Birliği\" — aktor-baglantisizlar-hareketi: 1961 / tartisma-ikinci-dunya-savasi-sorumlulugu: 1941"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-bm-guvenlik-konseyi",
+        "tartisma-ikinci-dunya-savasi-sorumlulugu"
+      ],
+      "detay": "\"Sovyetler Birliği\" — aktor-bm-guvenlik-konseyi: 1946 / tartisma-ikinci-dunya-savasi-sorumlulugu: 1941"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kultur-devrimi",
+        "olay-truman-doktrini"
+      ],
+      "detay": "\"Sovyet\" — olay-kultur-devrimi: 1930 / olay-truman-doktrini: 1947"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kultur-devrimi",
+        "aktor-bm-guvenlik-konseyi"
+      ],
+      "detay": "\"Sovyet\" — olay-kultur-devrimi: 1930 / aktor-bm-guvenlik-konseyi: 1945"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-truman-doktrini",
+        "aktor-bm-guvenlik-konseyi"
+      ],
+      "detay": "\"Sovyet\" — olay-truman-doktrini: 1947 / aktor-bm-guvenlik-konseyi: 1945"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -1030,9 +3932,180 @@
       "seviye": "incele",
       "makaleler": [
         "olay-1857-hint-ayaklanmasi",
+        "aktor-avam-kamarasi"
+      ],
+      "detay": "\"Doğu Hindistan Şirketi\" — olay-1857-hint-ayaklanmasi: 1857 / aktor-avam-kamarasi: 1858"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-irlanda-kitligi",
+        "olay-italyan-birligi"
+      ],
+      "detay": "\"Mayıs\" — olay-irlanda-kitligi: 1851 / olay-italyan-birligi: 1860"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-otuz-yil-savaslari",
+        "aktor-hollanda-doguhindistan-sirketi"
+      ],
+      "detay": "\"Mayıs\" — olay-otuz-yil-savaslari: 1618 / aktor-hollanda-doguhindistan-sirketi: 1621"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-suveys-krizi",
+        "olay-truman-doktrini"
+      ],
+      "detay": "\"Mayıs\" — olay-suveys-krizi: 1956 / olay-truman-doktrini: 1947"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-suveys-krizi",
+        "olay-uzay-yarisi"
+      ],
+      "detay": "\"Mayıs\" — olay-suveys-krizi: 1956 / olay-uzay-yarisi: 1961"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-suveys-krizi",
+        "aktor-baglantisizlar-hareketi"
+      ],
+      "detay": "\"Mayıs\" — olay-suveys-krizi: 1956 / aktor-baglantisizlar-hareketi: 1974"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-truman-doktrini",
+        "olay-uzay-yarisi"
+      ],
+      "detay": "\"Mayıs\" — olay-truman-doktrini: 1947 / olay-uzay-yarisi: 1961"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-uzay-yarisi",
+        "aktor-baglantisizlar-hareketi"
+      ],
+      "detay": "\"Mayıs\" — olay-uzay-yarisi: 1961 / aktor-baglantisizlar-hareketi: 1974"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-1857-hint-ayaklanmasi",
         "olay-afyon-savaslari"
       ],
-      "detay": "\"Nisan\" — olay-1857-hint-ayaklanmasi: 1857 / olay-afyon-savaslari: 1840"
+      "detay": "\"Avam Kamarası\" — olay-1857-hint-ayaklanmasi: 1857 / olay-afyon-savaslari: 1840"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-1857-hint-ayaklanmasi",
+        "olay-irlanda-kitligi"
+      ],
+      "detay": "\"Avam Kamarası\" — olay-1857-hint-ayaklanmasi: 1857 / olay-irlanda-kitligi: 1847"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-afyon-savaslari",
+        "olay-irlanda-kitligi"
+      ],
+      "detay": "\"Avam Kamarası\" — olay-afyon-savaslari: 1840 / olay-irlanda-kitligi: 1847"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-afyon-savaslari",
+        "olay-latin-amerika-bagimsizligi"
+      ],
+      "detay": "\"Avam Kamarası\" — olay-afyon-savaslari: 1840 / olay-latin-amerika-bagimsizligi: 1826"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-buyuk-buhran",
+        "aktor-avam-kamarasi"
+      ],
+      "detay": "\"Avam Kamarası\" — olay-buyuk-buhran: 1931 / aktor-avam-kamarasi: 1911"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-buyuk-buhran",
+        "kavram-seferberlik"
+      ],
+      "detay": "\"Avam Kamarası\" — olay-buyuk-buhran: 1931 / kavram-seferberlik: 1914"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-irlanda-kitligi",
+        "olay-latin-amerika-bagimsizligi"
+      ],
+      "detay": "\"Avam Kamarası\" — olay-irlanda-kitligi: 1847 / olay-latin-amerika-bagimsizligi: 1826"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-avam-kamarasi",
+        "kavram-seferberlik"
+      ],
+      "detay": "\"Avam Kamarası\" — aktor-avam-kamarasi: 1911 / kavram-seferberlik: 1914"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-afyon-savaslari",
+        "olay-morant-bay-ayaklanmasi"
+      ],
+      "detay": "\"Nisan\" — olay-afyon-savaslari: 1840 / olay-morant-bay-ayaklanmasi: 1865"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-bandung-konferansi",
+        "aktor-baglantisizlar-hareketi"
+      ],
+      "detay": "\"Nisan\" — olay-bandung-konferansi: 1955 / aktor-baglantisizlar-hareketi: 1974"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-bandung-konferansi",
+        "dusunur-arendt"
+      ],
+      "detay": "\"Nisan\" — olay-bandung-konferansi: 1955 / dusunur-arendt: 1944"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-bandung-konferansi",
+        "dusunur-keynes"
+      ],
+      "detay": "\"Nisan\" — olay-bandung-konferansi: 1955 / dusunur-keynes: 1946"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -1047,10 +4120,19 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
-        "aktor-baglantisizlar-hareketi",
-        "tartisma-teknolojik-belirlenimcilik"
+        "olay-cernobil",
+        "aktor-baglantisizlar-hareketi"
       ],
-      "detay": "\"Nisan\" — aktor-baglantisizlar-hareketi: 1955 / tartisma-teknolojik-belirlenimcilik: 1963"
+      "detay": "\"Nisan\" — olay-cernobil: 1986 / aktor-baglantisizlar-hareketi: 1974"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-cernobil",
+        "aktor-varsova-pakti"
+      ],
+      "detay": "\"Nisan\" — olay-cernobil: 1986 / aktor-varsova-pakti: 1985"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -1075,6 +4157,15 @@
       "seviye": "incele",
       "makaleler": [
         "olay-paris-iklim-anlasmasi",
+        "kavram-konjonktur"
+      ],
+      "detay": "\"Nisan\" — olay-paris-iklim-anlasmasi: 2016 / kavram-konjonktur: 2020"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-paris-iklim-anlasmasi",
         "tartisma-demografik-donum-sonuclari"
       ],
       "detay": "\"Nisan\" — olay-paris-iklim-anlasmasi: 2016 / tartisma-demografik-donum-sonuclari: 2019"
@@ -1092,10 +4183,217 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
+        "aktor-baglantisizlar-hareketi",
+        "aktor-varsova-pakti"
+      ],
+      "detay": "\"Nisan\" — aktor-baglantisizlar-hareketi: 1974 / aktor-varsova-pakti: 1985"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-baglantisizlar-hareketi",
+        "tartisma-teknolojik-belirlenimcilik"
+      ],
+      "detay": "\"Nisan\" — aktor-baglantisizlar-hareketi: 1974 / tartisma-teknolojik-belirlenimcilik: 1963"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-baglantisizlar-hareketi",
+        "veri-savas-olumleri"
+      ],
+      "detay": "\"Nisan\" — aktor-baglantisizlar-hareketi: 1974 / veri-savas-olumleri: 1994"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-varsova-pakti",
+        "tartisma-teknolojik-belirlenimcilik"
+      ],
+      "detay": "\"Nisan\" — aktor-varsova-pakti: 1985 / tartisma-teknolojik-belirlenimcilik: 1963"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-varsova-pakti",
+        "veri-savas-olumleri"
+      ],
+      "detay": "\"Nisan\" — aktor-varsova-pakti: 1985 / veri-savas-olumleri: 1994"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "dusunur-arendt",
+        "dusunur-keynes"
+      ],
+      "detay": "\"Nisan\" — dusunur-arendt: 1944 / dusunur-keynes: 1946"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "dusunur-arendt",
+        "tartisma-teknolojik-belirlenimcilik"
+      ],
+      "detay": "\"Nisan\" — dusunur-arendt: 1944 / tartisma-teknolojik-belirlenimcilik: 1963"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "dusunur-keynes",
+        "tartisma-teknolojik-belirlenimcilik"
+      ],
+      "detay": "\"Nisan\" — dusunur-keynes: 1946 / tartisma-teknolojik-belirlenimcilik: 1963"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "kavram-konjonktur",
+        "tartisma-demografik-donum-sonuclari"
+      ],
+      "detay": "\"Nisan\" — kavram-konjonktur: 2020 / tartisma-demografik-donum-sonuclari: 2019"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
         "tartisma-demografik-donum-sonuclari",
         "veri-savas-olumleri"
       ],
       "detay": "\"Nisan\" — tartisma-demografik-donum-sonuclari: 2019 / veri-savas-olumleri: 1994"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-1857-hint-ayaklanmasi",
+        "olay-afyon-savaslari"
+      ],
+      "detay": "\"Palmerston\" — olay-1857-hint-ayaklanmasi: 1858 / olay-afyon-savaslari: 1857"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-avam-kamarasi",
+        "olay-afyon-savaslari"
+      ],
+      "detay": "\"Palmerston\" — aktor-avam-kamarasi: 1858 / olay-afyon-savaslari: 1857"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-1857-hint-ayaklanmasi",
+        "olay-buyuk-buhran"
+      ],
+      "detay": "\"Londra\" — olay-1857-hint-ayaklanmasi: 1909 / olay-buyuk-buhran: 1931"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-1857-hint-ayaklanmasi",
+        "dusunur-keynes"
+      ],
+      "detay": "\"Londra\" — olay-1857-hint-ayaklanmasi: 1909 / dusunur-keynes: 1914"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-1857-hint-ayaklanmasi",
+        "kavram-somurgecilik"
+      ],
+      "detay": "\"Londra\" — olay-1857-hint-ayaklanmasi: 1909 / kavram-somurgecilik: 1891"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-2008-finansal-krizi",
+        "dusunur-carr"
+      ],
+      "detay": "\"Londra\" — olay-2008-finansal-krizi: 2008 / dusunur-carr: 2000"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-buyuk-buhran",
+        "aktor-baglantisizlar-hareketi"
+      ],
+      "detay": "\"Londra\" — olay-buyuk-buhran: 1931 / aktor-baglantisizlar-hareketi: 1946"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-buyuk-buhran",
+        "dusunur-keynes"
+      ],
+      "detay": "\"Londra\" — olay-buyuk-buhran: 1931 / dusunur-keynes: 1914"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-buyuk-buhran",
+        "tartisma-eksen-cagi-gercek-mi"
+      ],
+      "detay": "\"Londra\" — olay-buyuk-buhran: 1931 / tartisma-eksen-cagi-gercek-mi: 1953"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-baglantisizlar-hareketi",
+        "tartisma-eksen-cagi-gercek-mi"
+      ],
+      "detay": "\"Londra\" — aktor-baglantisizlar-hareketi: 1946 / tartisma-eksen-cagi-gercek-mi: 1953"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-baglantisizlar-hareketi",
+        "tartisma-osmanli-gerileme-tezi"
+      ],
+      "detay": "\"Londra\" — aktor-baglantisizlar-hareketi: 1946 / tartisma-osmanli-gerileme-tezi: 1957"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "dusunur-keynes",
+        "kavram-somurgecilik"
+      ],
+      "detay": "\"Londra\" — dusunur-keynes: 1914 / kavram-somurgecilik: 1891"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-eksen-cagi-gercek-mi",
+        "tartisma-osmanli-gerileme-tezi"
+      ],
+      "detay": "\"Londra\" — tartisma-eksen-cagi-gercek-mi: 1953 / tartisma-osmanli-gerileme-tezi: 1957"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-berlin-duvarinin-yikilisi",
+        "aktor-varsova-pakti"
+      ],
+      "detay": "\"Varşova\" — olay-berlin-duvarinin-yikilisi: 1989 / aktor-varsova-pakti: 1985"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -1128,6 +4426,33 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
+        "olay-1973-petrol-krizi",
+        "aktor-bm-guvenlik-konseyi"
+      ],
+      "detay": "\"Suriye\" — olay-1973-petrol-krizi: 1967 / aktor-bm-guvenlik-konseyi: 1946"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-bretton-woods",
+        "dusunur-keynes"
+      ],
+      "detay": "\"Bretton Woods\" — olay-bretton-woods: 1970 / dusunur-keynes: 1946"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-imf",
+        "dusunur-keynes"
+      ],
+      "detay": "\"Bretton Woods\" — aktor-imf: 1944 / dusunur-keynes: 1946"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
         "olay-2008-finansal-krizi",
         "aktor-imf"
       ],
@@ -1137,19 +4462,19 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
-        "olay-buyuk-buhran",
-        "tartisma-eksen-cagi-gercek-mi"
+        "olay-truman-doktrini",
+        "aktor-bm-guvenlik-konseyi"
       ],
-      "detay": "\"Londra\" — olay-buyuk-buhran: 1931 / tartisma-eksen-cagi-gercek-mi: 1953"
+      "detay": "\"Washington\" — olay-truman-doktrini: 1947 / aktor-bm-guvenlik-konseyi: 1945"
     },
     {
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
-        "tartisma-eksen-cagi-gercek-mi",
-        "tartisma-osmanli-gerileme-tezi"
+        "olay-afyon-savaslari",
+        "olay-latin-amerika-bagimsizligi"
       ],
-      "detay": "\"Londra\" — tartisma-eksen-cagi-gercek-mi: 1953 / tartisma-osmanli-gerileme-tezi: 1957"
+      "detay": "\"Fransız\" — olay-afyon-savaslari: 1842 / olay-latin-amerika-bagimsizligi: 1826"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -1164,10 +4489,10 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
-        "olay-afyon-savaslari",
-        "olay-irlanda-kitligi"
+        "olay-kultur-devrimi",
+        "aktor-varsova-pakti"
       ],
-      "detay": "\"Avam Kamarası\" — olay-afyon-savaslari: 1840 / olay-irlanda-kitligi: 1847"
+      "detay": "\"Pekin\" — olay-kultur-devrimi: 1966 / aktor-varsova-pakti: 1960"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -1176,7 +4501,43 @@
         "olay-amerikan-devrimi",
         "olay-yedi-yil-savasi"
       ],
-      "detay": "\"Grenville\" — olay-amerikan-devrimi: 1763 / olay-yedi-yil-savasi: 1765"
+      "detay": "\"Şeker Yasası\" — olay-amerikan-devrimi: 1765 / olay-yedi-yil-savasi: 1764"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-amerikanin-kesfi",
+        "olay-truman-doktrini"
+      ],
+      "detay": "\"Amerikalı\" — olay-amerikanin-kesfi: 1972 / olay-truman-doktrini: 1948"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-meksika-devrimi",
+        "kaynak-keynes-genel-teori"
+      ],
+      "detay": "\"Amerikalı\" — olay-meksika-devrimi: 1910 / kaynak-keynes-genel-teori: 1930"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-truman-doktrini",
+        "kaynak-keynes-genel-teori"
+      ],
+      "detay": "\"Amerikalı\" — olay-truman-doktrini: 1948 / kaynak-keynes-genel-teori: 1930"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-kore-savasi",
+        "aktor-baglantisizlar-hareketi"
+      ],
+      "detay": "\"Güvenlik Konseyi\" — olay-kore-savasi: 1950 / aktor-baglantisizlar-hareketi: 1946"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -1201,15 +4562,6 @@
       "seviye": "incele",
       "makaleler": [
         "olay-mansa-musa-haci",
-        "aktor-memluk-devleti"
-      ],
-      "detay": "\"Kahire\" — olay-mansa-musa-haci: 1324 / aktor-memluk-devleti: 1325"
-    },
-    {
-      "tur": "varlik-yil-ayrismasi",
-      "seviye": "incele",
-      "makaleler": [
-        "olay-mansa-musa-haci",
         "tartisma-kara-olumun-sonuclari"
       ],
       "detay": "\"Kahire\" — olay-mansa-musa-haci: 1324 / tartisma-kara-olumun-sonuclari: 1347"
@@ -1218,10 +4570,28 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
-        "aktor-memluk-devleti",
-        "tartisma-kara-olumun-sonuclari"
+        "olay-truman-doktrini",
+        "dusunur-braudel"
       ],
-      "detay": "\"Kahire\" — aktor-memluk-devleti: 1325 / tartisma-kara-olumun-sonuclari: 1347"
+      "detay": "\"Birleşik Devletler\" — olay-truman-doktrini: 1947 / dusunur-braudel: 1937"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-truman-doktrini",
+        "tartisma-kesif-mi-istila-mi"
+      ],
+      "detay": "\"Birleşik Devletler\" — olay-truman-doktrini: 1947 / tartisma-kesif-mi-istila-mi: 1960"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "dusunur-braudel",
+        "tartisma-kesif-mi-istila-mi"
+      ],
+      "detay": "\"Birleşik Devletler\" — dusunur-braudel: 1937 / tartisma-kesif-mi-istila-mi: 1960"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -1290,24 +4660,6 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
-        "olay-cin-reformlari-1978",
-        "olay-kultur-devrimi"
-      ],
-      "detay": "\"Mao Zedong\" — olay-cin-reformlari-1978: 1976 / olay-kultur-devrimi: 1975"
-    },
-    {
-      "tur": "varlik-yil-ayrismasi",
-      "seviye": "incele",
-      "makaleler": [
-        "olay-cin-reformlari-1978",
-        "olay-kultur-devrimi"
-      ],
-      "detay": "\"Deng Xiaoping\" — olay-cin-reformlari-1978: 1979 / olay-kultur-devrimi: 1975"
-    },
-    {
-      "tur": "varlik-yil-ayrismasi",
-      "seviye": "incele",
-      "makaleler": [
         "olay-ikinci-dunya-savasi",
         "olay-kore-savasi"
       ],
@@ -1326,6 +4678,24 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
+        "olay-iran-devrimi-1979",
+        "kavram-anakronizm"
+      ],
+      "detay": "\"Theory\" — olay-iran-devrimi-1979: 1982 / kavram-anakronizm: 1969"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-iran-devrimi-1979",
+        "kavram-olay-tarihi"
+      ],
+      "detay": "\"Theory\" — olay-iran-devrimi-1979: 1982 / kavram-olay-tarihi: 1996"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
         "olay-italyan-birligi",
         "olay-kirim-savasi"
       ],
@@ -1335,28 +4705,19 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
-        "olay-meksika-devrimi",
-        "dusunur-keynes"
+        "aktor-bm-guvenlik-konseyi",
+        "aktor-imf"
       ],
-      "detay": "\"Amerikalı\" — olay-meksika-devrimi: 1910 / dusunur-keynes: 1930"
-    },
-    {
-      "tur": "varlik-yil-ayrismasi",
-      "seviye": "incele",
-      "makaleler": [
-        "olay-meksika-devrimi",
-        "kaynak-keynes-genel-teori"
-      ],
-      "detay": "\"Amerikalı\" — olay-meksika-devrimi: 1910 / kaynak-keynes-genel-teori: 1930"
+      "detay": "\"Kuzey Kore\" — aktor-bm-guvenlik-konseyi: 1950 / aktor-imf: 1964"
     },
     {
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
         "olay-kore-savasi",
-        "olay-kultur-devrimi"
+        "olay-truman-doktrini"
       ],
-      "detay": "\"Zhou Enlai\" — olay-kore-savasi: 1950 / olay-kultur-devrimi: 1975"
+      "detay": "\"Birleşmiş Milletler\" — olay-kore-savasi: 1950 / olay-truman-doktrini: 1947"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -1380,6 +4741,15 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
+        "olay-truman-doktrini",
+        "tartisma-demografik-donum-sonuclari"
+      ],
+      "detay": "\"Birleşmiş Milletler\" — olay-truman-doktrini: 1947 / tartisma-demografik-donum-sonuclari: 1970"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
         "aktor-imf",
         "tartisma-nufus-artisi-tehdit-mi"
       ],
@@ -1398,10 +4768,55 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
+        "olay-morant-bay-ayaklanmasi",
+        "aktor-avam-kamarasi"
+      ],
+      "detay": "\"Kraliçe\" — olay-morant-bay-ayaklanmasi: 1865 / aktor-avam-kamarasi: 1858"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-morant-bay-ayaklanmasi",
+        "dusunur-mill"
+      ],
+      "detay": "\"Stephen\" — olay-morant-bay-ayaklanmasi: 1867 / dusunur-mill: 1873"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-morant-bay-ayaklanmasi",
+        "kavram-zarar-ilkesi"
+      ],
+      "detay": "\"Stephen\" — olay-morant-bay-ayaklanmasi: 1867 / kavram-zarar-ilkesi: 1873"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
         "olay-nufus-patlamasi",
         "tartisma-tarim-devrimi-ilerleme-mi"
       ],
       "detay": "\"Population\" — olay-nufus-patlamasi: 2013 / tartisma-tarim-devrimi-ilerleme-mi: 1991"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-ronesans",
+        "kavram-somurgecilik"
+      ],
+      "detay": "\"Hristiyan\" — olay-ronesans: 1517 / kavram-somurgecilik: 1492"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "olay-suveys-krizi",
+        "aktor-baglantisizlar-hareketi"
+      ],
+      "detay": "\"Nasır\" — olay-suveys-krizi: 1956 / aktor-baglantisizlar-hareketi: 1961"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -1416,10 +4831,55 @@
       "tur": "varlik-yil-ayrismasi",
       "seviye": "incele",
       "makaleler": [
+        "kaynak-clausewitz-savas-uzerine",
+        "kavram-seferberlik"
+      ],
+      "detay": "\"Prusya\" — kaynak-clausewitz-savas-uzerine: 1831 / kavram-seferberlik: 1850"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
         "aktor-abbasi-hilafeti",
         "aktor-memluk-devleti"
       ],
       "detay": "\"Moğol\" — aktor-abbasi-hilafeti: 1258 / aktor-memluk-devleti: 1260"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-baglantisizlar-hareketi",
+        "aktor-bm-guvenlik-konseyi"
+      ],
+      "detay": "\"Yugoslavya\" — aktor-baglantisizlar-hareketi: 1961 / aktor-bm-guvenlik-konseyi: 1950"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-baglantisizlar-hareketi",
+        "kaynak-milanovic-kuresel-esitsizlik"
+      ],
+      "detay": "\"Yugoslavya\" — aktor-baglantisizlar-hareketi: 1961 / kaynak-milanovic-kuresel-esitsizlik: 1953"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-bm-guvenlik-konseyi",
+        "kaynak-milanovic-kuresel-esitsizlik"
+      ],
+      "detay": "\"Yugoslavya\" — aktor-bm-guvenlik-konseyi: 1950 / kaynak-milanovic-kuresel-esitsizlik: 1953"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-baglantisizlar-hareketi",
+        "tartisma-soguk-savasin-baslangici"
+      ],
+      "detay": "\"Kennan\" — aktor-baglantisizlar-hareketi: 1961 / tartisma-soguk-savasin-baslangici: 1947"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -1438,6 +4898,33 @@
         "tartisma-soguk-savasin-baslangici"
       ],
       "detay": "\"Yalta Konferansı\" — aktor-birlesmis-milletler: 1943 / tartisma-soguk-savasin-baslangici: 1950"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-ingiliz-doguhindistan-sirketi",
+        "kavram-lonca"
+      ],
+      "detay": "\"Elizabeth\" — aktor-ingiliz-doguhindistan-sirketi: 1585 / kavram-lonca: 1563"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "tartisma-feodalite-kavrami",
+        "tartisma-teknolojik-belirlenimcilik"
+      ],
+      "detay": "\"Elizabeth\" — tartisma-feodalite-kavrami: 1974 / tartisma-teknolojik-belirlenimcilik: 1979"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "aktor-fatimi-hilafeti",
+        "aktor-memluk-devleti"
+      ],
+      "detay": "\"Baybars\" — aktor-fatimi-hilafeti: 1266 / aktor-memluk-devleti: 1258"
     },
     {
       "tur": "varlik-yil-ayrismasi",
@@ -1492,6 +4979,51 @@
         "tartisma-tunc-cagi-cokusunun-nedeni"
       ],
       "detay": "\"Collapse\" — aktor-rapa-nui: 2005 / tartisma-tunc-cagi-cokusunun-nedeni: 2020"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "dusunur-braudel",
+        "tartisma-eksen-cagi-gercek-mi"
+      ],
+      "detay": "\"Kitabın İngilizce\" — dusunur-braudel: 1972 / tartisma-eksen-cagi-gercek-mi: 1953"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "dusunur-braudel",
+        "kavram-konjonktur"
+      ],
+      "detay": "\"Fernand Braudel\" — dusunur-braudel: 1972 / kavram-konjonktur: 1958"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "dusunur-durkheim",
+        "kavram-faydacilik"
+      ],
+      "detay": "\"John Rawls\" — dusunur-durkheim: 1948 / kavram-faydacilik: 1971"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "dusunur-weber",
+        "tartisma-ikinci-dunya-savasi-sorumlulugu"
+      ],
+      "detay": "\"Münih\" — dusunur-weber: 1920 / tartisma-ikinci-dunya-savasi-sorumlulugu: 1938"
+    },
+    {
+      "tur": "varlik-yil-ayrismasi",
+      "seviye": "incele",
+      "makaleler": [
+        "kavram-anakronizm",
+        "tartisma-milliyetcilik-ne-zaman"
+      ],
+      "detay": "\"Herder\" — kavram-anakronizm: 1784 / tartisma-milliyetcilik-ne-zaman: 1772"
     },
     {
       "tur": "varlik-yil-ayrismasi",

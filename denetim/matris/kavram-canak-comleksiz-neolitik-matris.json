@@ -1,0 +1,227 @@
+{
+  "id": "kavram-canak-comleksiz-neolitik",
+  "govde_hash": "77d2a0a43282",
+  "commit": "bf4bb9c",
+  "zaman": "2026-08-30",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Çanak Çömleksiz Neolitik ise adını bir yokluktan alır: Güneybatı Asya'da köyler kuruldu, kamu yapıları dikildi, taş anıtlar yontuldu, bitki ve hayvanlar insan eliyle biçimlenmeye başladı — pişmiş toprak kap olmadan.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bilesik bir cumle: kaynaklarin hicbiri dortunu birden soylemiyor. k1 yerlesme ve kap sirasini, k2 anitsal yapi ile ehlilestirmeyi, k5 kamu binasini tasiyor. Her biri parcayi tasidigi icin destek kismi yazildi."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Kuzey Suriye için tutulan çerçevede çanak çömlek kapların maddi kültürün önemli bir öğesi hâline gelmesi Geç Neolitik'e, MÖ 7. ve 6. binyıllara tarihlenir.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin giris bolumu Gec Neolitik'i 7.-6. binyillara koyar ve bu evreyi capak comlek kaplarin maddi kulturde yerlesmesiyle tanimlar. Kaynagin kendi bolgesel kaydi (kuzey Suriye) cumleye tasindi."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Ayrımı Kathleen Kenyon, tip yerleşim olan Eriha'da tanımladı; Çanak Çömleksiz Neolitik A (PPNA) ile onu izleyen Çanak Çömleksiz Neolitik B (PPNB) bu kazıdan çıkan bölünmedir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Adlandirmanin kokeni ve tip yerlesim kaynakta acikca yazili. Kaynak bir giris kapisi ansiklopedisidir; makalede tek Wikipedia kunyesi olarak kullanildi ve adlandirma tarihi disinda bir iddia ona yuklenmedi."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Aynı kayıt PPNA'yı MÖ 10000-8800, PPNB'yi MÖ 8800-6500 aralığına yerleştirir, Ürdün'deki Ayn Gazal'da evrenin birkaç yüzyıl daha sürdüğü bir PPNC aşamasından söz eder ve evrenin sonunu MÖ 6200 dolayındaki soğuma dalgasının zamanına koyar.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Dort kayit da kaynakta acikca yazili. Bu araliklar Eriha'da tanimlanan semanin araliklaridir; govde bunlari evrensel sinir olarak degil bir kaydin araligi olarak veriyor."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Aynı kayıt, ehlîleştirmenin başlangıcını Genç Dryas'a bağlarken belki diyerek konuşur; bu bağ kurulmuş değil, önerilmiş bir bağdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak bu bagi possibly kaydiyla kuruyor. Cekince tasindi: atlas bagi olgu gibi yazmiyor."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Kuzey Suriye için yazılan çerçevede PPNA MÖ 10. ve 9. binyıllara, PPNB ise 9. ve 7. binyıllara konur.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin giris paragrafi bu iki araligi bolge kaydiyla birlikte veriyor; bolge kaydi cumlede korundu."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Orta Anadolu'da aynı kültürel kuşak için Çanak Çömleksiz Neolitik değil akeramik adı kullanılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin sekil aciklamasi PPN kultur kusaklarinin Orta Anadolu'da Aceramic olarak anildigini yaziyor."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Yerleşimin kesintisiz tabakalanması PPNA'dan (yaklaşık MÖ 9500) son Çanak Çömleksiz Neolitik'e (yaklaşık MÖ 7000) uzanır; kayıt sürekli bitki yönetimi ve ekim, domuz, sığır, koyun ve keçi yönetimi, mimari biçimlerde aralıksız yenilenme ve teknolojik deneme — kireç pişirme ile bakır ve malakit nesne üretimi — sayar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin giris bolumu tabakalanma araligini ve sayilan dort ogeyi tek tek veriyor; sayilar yaklasik kaydiyla yazili ve o kayit cumleye tasindi."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Kazının kurucularını Robert Braidwood ve Halet Çambel olarak veren aynı çalışma, alanın Toros ve Zagros eteklerindeki konumunu yerleşiklik ve tarım için elverişli saymalarını aktarır; Çayönü'nün bölgeler arası bir kavşak olduğunu ise hüküm olarak değil varsayım olarak yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki adin tam hali kaynakta gecer, hayalet ad riski yok. Kavsak iddiasi kaynakta hipotez kipiyle kurulmustur; cekince cumleye tasindi."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Aynı çalışma Yukarı Mezopotamya'yı, Göbeklitepe'de ilk anıtsal yapıları kuran yerleşik avcı-toplayıcıların yurdu olarak tanıtır ve bölgede siyez ile gernik buğdayının, koyun, keçi, domuz ve sığırın ehlîleştirildiğini yazar; geçiş sürecini yaklaşık MÖ 9800-6500 arasına koyar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ilk nitelemesi kaynagin kendi nitelemesidir ve anitsal yapiyla sinirlidir; gövde bunu kaynaga yaziyor ve tapinak ustunlugu iddiasina cevirmiyor."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Mardin'in Dargeçit ilçesindeki Boncuklu Tarla kazısı, Yukarı Dicle Havzası'nda evrenin köy düzenini gösterir: Doğu Alanı'nın 4b tabakasında bir kamu binası ile onu çevreleyen konutlar birlikte durur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iddia makalenin ozunde birebir yazili, ama acik erisimde yalnizca oz okunabiliyor; tam metin PDF olarak ayri duruyor ve okunamadi. Kanit ozle sinirli oldugu icin destek kismi yazildi."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "İsrail'in kuzeyindeki Nahal Ein Gev II'de, Neolitik'in öncesindeki Geç Epipaleolitik bağlamda bulunan bir kadın ve kaz figürini tek bir kil bloğundan biçimlendirilmiştir ve günümüzden yaklaşık 12.000 yıl öncesine tarihlenir; aynı çalışma Levant'taki en erken pişmiş çanak çömleği Kfar HaHoresh'te ve günümüzden yaklaşık 8.500 yıl öncesine koyar.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki tarih de kaynakta kalibre edilmis yil kaydiyla verilir ve yaklasik kaydi cumleye tasindi. Kaynak yerlesimi Gec Epipaleolitik (Natuf) baglamina koyar, PPN'e degil; bu ayrim cumlede korundu ki okur figurini evrenin icinden sanmasin."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Seramik kaplar Doğu Asya'da — Güney Çin, Japonya ve Rusya Uzak Doğusu'nda — buzul koşulları altında, günümüzden yaklaşık 18.000-16.000 yıl önce avcı-toplayıcılar tarafından icat edilmiştir.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin giris paragrafi uc bolgeyi, buzul kosulunu ve kalibre edilmis araligi birlikte veriyor. Bu iddia makalenin en agir yanlis okunma uyarisini tasiyor: cumleyi tasiyan tek kaynak oldugu icin ayri satir yapildi."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Her kaynak aynı evre için kendi aralığını verir: bir kayıtta PPNA MÖ 10000-8800, bir başkasında MÖ 10. ve 9. binyıllar, Çayönü dizisinin başlangıcı ise kalibre edilmiş ölçekte yaklaşık MÖ 9500'dür.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc sayi uc ayri kunyeden geliyor ve govdede tek tek dipnotlanmistir. Hakem duzeltmesi: yazarin ilk hali butun sayilari 'kalibre edilmis radyokarbon araliklari' diye niteliyordu; k4 ve k1 kendi sayilarini kalibre diye isaretlemez, yalniz k2 'cal BCE' der. Kalibrasyon kaydi yalnizca k2'nin sayisina birakildi."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 12,
+    "kismi": 2,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

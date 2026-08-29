@@ -1,0 +1,15 @@
+{
+  "id": "kavram-sunni-islam",
+  "gecis": 3,
+  "zaman": "2026-08-29T21:54:54.544Z",
+  "govde_hash": "041b8d22a785",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Abbasi halifesi Ebû Ca'fer el-Mansûr'a bir rapor sunan İbnü'l-Mukaffa', mahkemelerde birbirine zıt görüşlerin hükme esas alınmasının hukuk anarşisine yol açtığına dikkat çekmiş ve ",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    }
+  ]
+}

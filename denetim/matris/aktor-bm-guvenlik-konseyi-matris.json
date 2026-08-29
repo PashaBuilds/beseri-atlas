@@ -1,0 +1,457 @@
+{
+  "id": "aktor-bm-guvenlik-konseyi",
+  "govde_hash": "36273fbf5a31",
+  "commit": "bf4bb9c",
+  "zaman": "2026-08-30",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "2 Haziran 1945 akşamı Washington'dan Moskova'ya, Büyükelçi Harriman'a çekilen telgraf konferansta çok ciddi bir krize varıldığını bildirir: Sovyet delegesi Gromiko bir önceki gece beş baş delegenin toplantısında, Konsey'in önüne getirilen bir anlaşmazlığın \"ele alınması ve tartışılması\" için bile yedi üyenin oyuyla ve beş daimî üyenin oybirliğini içerecek biçimde alınmış biçimsel bir kararın gerekeceğini söylemişti.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Telgraf, Gromiko'nun bir gece once soyledigini Amerikan tarafinin agzindan aktarir; yedi uye + bes daimi uyenin oybirligi ifadesi belgede birebir gecer. Aktarim oldugu icin Sovyet tarafinin kendi kaydi degildir."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Amerikan tarafının yanıtı serttir: böyle bir kısıtın, önerilen dünya örgütünün tamamını \"would make a farce of the whole proposed world organization\" hâline getireceğini yazar ve bunun kabul edilemeyeceğini bildirir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tirnakli Ingilizce dize belgede birebir gecer; alinti-dogrula.mjs BIREBIR verdi."
+    },
+    {
+      "iddia_id": "i02b",
+      "cumle": "Şart, Genel Kurul'a sorunları görüşme ve üyelere ya da Konsey'e tavsiyede bulunma yetkisi tanır; Konsey'in kararları için ise üye devletlerden kabul ve uygulama taahhüdü ister.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "25. madde ile 10-11. maddelerin karsilastirmasi; iki lafiz da k1de birebir gecer: 'agree to accept and carry out the decisions of the Security Council' ve 'may make recommendations to the Members of the United Nations or to the Security Council or to both'. HAKEM DUZELTMESI: bu cerceve paragrafi hic dipnot tasimiyordu ve 'alti ana organ icinde ... tek organdir' diye kaynaksiz bir teklik iddiasi kuruyordu; iddia Sartin lafzina indirildi ve kunyelendi."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Şart, Konsey'e uluslararası barış ve güvenliğin korunmasında \"birincil sorumluluk\" verir ve üyelerin, Konsey'in bu görevi yerine getirirken onların adına hareket ettiğini kabul ettiklerini yazar; Konsey'e tanınan somut yetkiler altıncı, yedinci, sekizinci ve on ikinci bölümlerde sıralanır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "24. maddenin lafzi. \"birincil sorumluluk\" ceviridir, Ingilizce metinde \"primary responsibility\"."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Hemen ardından gelen 25. madde asıl düğümdür: üyeler, Konsey'in kararlarını kabul etmeyi ve uygulamayı taahhüt eder.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "25. maddenin lafzi; baglayicilik hukmunun kendisi."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Altıncı bölüm, tarafları önce görüşme, arabuluculuk, hakemlik ya da yargıya başvurma gibi barışçı yollara çağırır ve Konsey'e uygun usul ve yöntemleri tavsiye etme yetkisi verir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "33. ve 36. maddelerin lafzi."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Yedinci bölüm ise farklı bir dile geçer: 39. madde uyarınca Konsey barışa yönelik bir tehdidin, barışın ihlalinin ya da saldırı eyleminin varlığını saptar ve ne yapılacağına karar verir; 41. madde silahlı kuvvet kullanmayan önlemleri — iktisadi ilişkilerin, demiryolu, deniz, hava, posta, telgraf, telsiz ve öteki iletişim araçlarının tümüyle ya da kısmen kesilmesini, diplomatik ilişkilerin koparılmasını — sayar, 42. madde bunların yetersiz kalması hâlinde kuvvete başvurma yolunu açar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "39., 41. ve 42. maddelerin lafzi. HAKEM DUZELTMESI: 41. maddenin listesi kaynakta 'and other means of communication' ile biter; govde bu ogeyi atlamisti, geri konuldu."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Konsey bugün on beş üyeden oluşur; 23. madde daimî üyeleri Çin Cumhuriyeti, Fransa, Sovyet Sosyalist Cumhuriyetler Birliği, Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı ile Amerika Birleşik Devletleri diye sayar, kalan on üyeyi Genel Kurul iki yıllık sürelerle seçer ve seçimde barışın korunmasına yapılan katkı ile hakkaniyetli coğrafi dağılım gözetilir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "23. maddenin bugunku lafzi. Daimi uye adlari metnin kendi yazimiyla verildi."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Metnin bu adları kuruluştaki hâliyle taşıması koltukların el değiştirmediği anlamına gelmez: veto kaydı eski oyları Sovyetler Birliği, yeni oyları Rusya Federasyonu adına yazar.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Veto listesi eski kayitlarda USSR, 1990 sonrasinda Russian Federation yazar. Koltugun hukuki ardilligi bu kaynaktan okunamaz; cumle yalnizca kaydin adlandirmasini soyler."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Kuruluştaki tablo daha dardı: Şart'ın 23. maddesi başlangıçta Konsey'in on bir üyeden oluşacağını ve Genel Kurul'un altı seçilmiş üye seçeceğini yazıyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Codification Division sayfasi 23. maddeyi \"eleven Members\" ve \"six other Members\" lafziyla tasir. CEKINCE: ayni derlemenin 27. madde sayfasi degisiklik sonrasi lafzi tasidigi icin derleme kendi icinde tutarsizdir; bu kunye notunda beyan edildi."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Genişleme 17 Aralık 1963'te Genel Kurul'ca kabul edilen değişiklikle geldi ve 31 Ağustos 1965'te yürürlüğe girdi; aynı değişiklik paketi karar eşiğini de yediden dokuza çıkardı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sart metninin sonundaki degisiklik notu: 17 Aralik 1963 kabul, 31 Agustos 1965 yururluk, esik \"formerly seven\" -> dokuz."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Bugünkü 27. madde, usule ilişkin kararların dokuz olumlu oyla, öteki bütün kararların ise daimî üyelerin olumlu oylarını içeren dokuz olumlu oyla alınacağını söyler; aynı madde altıncı bölüm kapsamındaki kararlarda uyuşmazlığın tarafı olan üyenin oylamaya katılmamasını şart koşar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "27. maddenin bugunku lafzi."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Metnin kendisi bu genişlemenin izini taşır: 23. maddede, üyeliğin on birden on beşe çıkışından sonraki ilk seçimde eklenen dört üyeden ikisinin bir yıllığına seçileceğini söyleyen geçici bir hüküm durur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "23. maddedeki gecici hukum metinde birebir durur."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "28. madde, Konsey'in sürekli çalışabilecek biçimde örgütlenmesini ister ve bu amaçla her üyenin örgüt merkezinde her an temsil edilmesini şart koşar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "28. maddenin lafzi."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Yılda bir toplanan bir kurul değil, hiç dağılmayan ve gece yarısı çağrılabilen bir organ tasarlanmıştır; 25 Haziran 1950'de toplanıp aynı gün karar alabilmesi bu hükmün pratik karşılığıdır.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Toplanti tarihinin 28. maddeyle baglantisi yazarin yorumudur; k5 yalnizca kararin 25 Haziran 1950 tarihli 473. toplantida alindigini tasir. HAKEM DUZELTMESI: govde 'saldirinin haber alindigi gun' diyordu; k5 saldirinin haber alinma gununu tasimaz, ibare kaldirildi."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "7 Haziran 1945 öğleden sonra toplanan beş gücün on yedinci gayriresmî danışma toplantısında Gromiko, Sovyet hükümetinin Yalta anlaşmasını bağlayıcı saymayı sürdürdüğünü, yani Konsey kararlarında — önerilen metnin altıncı bölümünün C kesimindeki iki paragrafın öngördüğü istisnalar dışında — beş daimî üyenin oybirliğinin gerektiğini yineledi; buna karşılık, birlik sağlanması ve konferansın işini hızlandırması adına bir anlaşmazlığın ele alınıp tartışılmasına ilişkin oy için bir istisnayı kabul edeceğini bildirdi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "7 Haziran 1945 tutanagi Gromiko'nun beyanini birebir kaydeder. HAKEM DUZELTMESI: kaynak 'with the exceptions provided for in paragraphs 2 and 3 of Section C, Chapter VI' cekincesini tasiyor, govde bunu dusurmustu; geri konuldu. Toplantinin adi da tutanaktaki basliga (Seventeenth Five-Power Informal Consultative Meeting) uyduruldu."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Sovyet delegasyonunun dağıttığı değişiklik metni, dört kurucu gücün oylama bildirisindeki cümleyi şu hâle getirir: Güvenlik Konseyi'nin tek bir üyesi, Konsey'in dikkatine sunulan bir anlaşmazlığın ya da durumun ele alınıp tartışılmasını tek başına engelleyemez.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tutanaga eklenen Sovyet degisiklik metni cumleyi birebir tasir; Turkce karsilik paraphrasedir, tirnak kullanilmadi."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Aynı belge, istisnanın olabildiğince dar tutulmak istendiğini de gösterir — Sovyet önerisi, istisnanın başka paragraflara yayılmasını önlemek için ele alma ve tartışma ifadesinin ardına belirli bir madde göndermesi eklenmesini istiyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sovyet onerisinin 3. maddesi istisnayi belirli bir paragrafa baglamayi ister; gerekce tutanakta yazilidir."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "25 Haziran 1950'de Konsey, Kuzey Kore kuvvetlerinin Kore Cumhuriyeti'ne yönelik silahlı saldırısını barışın ihlali sayan 82 sayılı kararı aldı; karar, 473. toplantıda dokuza karşı sıfır oyla ve bir çekimserle (Yugoslavya) kabul edildi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Karar metninin basligindaki oy kaydi: 473. toplanti, 9-0, 1 cekimser (Yugoslavya)."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Metnin dipnotu kuru bir cümle taşır: bir üye — Sovyetler Birliği — toplantıda bulunmuyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kararin 1 numarali dipnotu. Yoklugun NEDENI metinde yoktur; cumle de neden vermez."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Aritmetik ayrıca dönemin Konsey'ini gösterir: on bir üyeli bir organda dokuz olumlu oy, bir çekimser ve bir boş sandalye.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "On bir sayisi kaynakta yazili degil, 9+1+1 toplamindan cikarilir. Aritmetik kesin ama kaynak sayiyi kendisi vermez."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Dag Hammarskjöld Kütüphanesi'nin tuttuğu veto listesinin en eski kaydı 16 Şubat 1946 tarihlidir: Lübnan ve Suriye delegasyon başkanlarının Genel Sekreter'e yazdığı mektuba ilişkin görüşme; vetoyu kullanan Sovyetler Birliği'dir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Listenin en eski satiri: 16 February 1946, S/PV.23, 'Letter from the Heads of the Lebanese and Syrian delegations to the Secretary-General dated 4 February 1946', USSR. HAKEM DUZELTMESI: govde 'ilk veto' diyordu; kaynak boyle bir onculuk beyani yapmaz, ifade listenin en eski kaydi duzeyine indirildi."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "13 Eylül 1949'da tek oturumda yedi başvuru arka arkaya engellendi — Seylan, Avusturya, İrlanda, Finlandiya, İtalya, Ürdün (kayıtta Transjordan) ve Portekiz — altı gün önce de Nepal'inki; aynı kalem 1952'de Libya, Japonya, Vietnam, Laos ve Kamboçya başvurularında yeniden kullanıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Listenin 13 September 1949 satirlari (S/1331-S/1337, S/PV.443, USSR) tam olarak bu yedi basvuruyu tasir; Nepal 7 September 1949, S/1385, S/PV.439. 1952 satirlari: Libya 16 Eylul, Japonya 18 Eylul, Vietnam/Laos/Kambocya 19 Eylul. HAKEM DUZELTMESI: onceki hali sekiz basvuruyu 'ilk on yil' diye sunup kaynaktaki Kore Cumhuriyeti, Libya, Japonya, Vietnam, Laos ve Kambocya satirlarini sessizce disarida birakiyordu; sayim iki somut kumeye baglandi."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Listenin son ucunda gündem başkalaşır: 2022'den 2026'ya kadarki kayıtlar Ortadoğu ve Filistin sorunu ile Ukrayna maddelerinde yoğunlaşır.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "2022-2026 satirlarinin cogu Ortadogu/Filistin ve Ukrayna maddelerindedir; Sudan, Mali, nukleer yayilmanin onlenmesi ve uyelik basvurusu satirlari da vardir, bu yuzden \"yogunlasir\" denildi."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Bu listeyi okurken kendi çekincesini de taşımak gerekir: derleyicisi, 1946-2004 arası verinin A/58/47 belgesinin üçüncü ekindeki resmî listeden alındığını ve kayıtların çoğunun bir karar tasarısının bütününün değil, paragrafların ya da değişiklik önergelerinin vetosu olduğunu, ayrıntı için toplantı tutanaklarına bakılması gerektiğini yazar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Listenin kendi bas notu: A/58/47 III. eki ve \"most are veto of paragraphs or amendments\" cekincesi."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Konsey sekretaryasının kendi usul anlatımı ise vetonun ikizini kaydeder: bir daimî üye bir tasarıyı tümüyle onaylamıyor ama vetoya da başvurmak istemiyorsa çekimser kalabilir ve tasarı, gereken dokuz olumlu oyu toplarsa kabul edilir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Konsey sekretaryasinin oylama sayfasi cekimserin veto sayilmadigini acikca yazar. CEKINCE: bu antlasma metni degil kurumun kendi usul anlatimidir."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Kuruluş belgeleri başka bir şey gösterir: 1945 Haziranındaki kriz vetonun varlığı üzerinde değil, kapsamının nereye kadar uzanacağı üzerinde çıkmıştı — Sovyet tarafı vetonun bir anlaşmazlığın konuşulmasına bile uzanmasını isterken öteki dört kurucu güç bunu reddediyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI — nedensellik tersine cevrilmisti. Onceki cumle krizin 'vetonun kapsaminin daraltilmasi yuzunden' ciktigini yaziyordu; k3 tersini tasir: Sovyet tarafi vetonun ele alma ve tartismaya bile uzanmasini istedi, dort kurucu guc reddetti ('We and the other three Governments have taken the position that veto power should apply the moment the Council begins to take action'). Ayrica 'veto olmasaydi buyuk gucler masada olmazdi' karsiolgusali belgelere atfediliyordu; ayri bir cumleye ayrilip yorum oldugu metinde beyan edildi (i30)."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Konsey'in bileşimini değiştirmek Şart'ı değiştirmek demektir ve 108. madde, değişikliğin Genel Kurul üyelerinin üçte ikisinin oyuyla kabul edilmesini ve üye devletlerin üçte ikisince — Güvenlik Konseyi'nin bütün daimî üyeleri dâhil olmak üzere — onaylanmasını şart koşar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "108. maddenin lafzi."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Bu, reformun imkânsız olduğunu söylemez; 1965 genişlemesi olmuştur.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Degisiklik notu 1965 genislemesini kaydeder."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Dağılımın bugünkü hâli sayıyla da okunabilir: Konsey'in kendi sayfası, 1946'dan bu yana hiç seçilmiş üye olmamış elli sekiz ülke sayar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sayfa \"totaling 58, which have never been elected\" der; sayi kaynagin kendi sayimidir."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Vetosuz bir örgütte büyük güçlerin masada kalıp kalmayacağı ise belgelerin yanıtladığı bir soru değildir; yukarıdaki sav belgelerden çıkarılmış bir yorumdur, kaynakların yazdığı bir cümle değil.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Karsiolgusal cikarimin kaynak tasimadigi metinde acikca beyan edilir; kunyeler yalnizca cikarimin dayandigi belgeleri gosterir."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 28,
+    "kismi": 1,
+    "desteksiz": 0,
+    "olculemez": 2
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "id": "olay-truman-doktrini",
+  "govde_hash": "66ccf94dd13f",
+  "commit": "bf4bb9c",
+  "zaman": "2026-08-30",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Yunanistan'a ilişkin olanı, Britanya hükümetinin Yunan silahlı kuvvetlerinin döviz maliyetini 31 Mart'a kadar ödemeyi kabul ettiğini, bunun 1946 boyunca ve 1947'nin Ocak-Mart döneminde bakım kaleminde yaklaşık 18 milyon, başlangıç teçhizatında 11 milyon sterlin tuttuğunu ve Britanya'nın malî güçlükleri karşısında bunun cömert bir yardım sayılabileceğini yazıyordu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Belge 868.00/2-2147. 'until the 31st March next', '18 million for maintenance', '11 million for initial equipment' ve 'a very generous measure of assistance' birebir gecer. Tutarlar Britanya'nin KENDI beyanidir, bagimsiz bir muhasebe degildir; cumle de bunu notun yazdigi sey olarak kuruyor."
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Aynı not, Yunan ordusunun 100.000 kişilik bir kadro üzerinden kurulduğunu ve Birleşmiş Milletler uzmanlar komitesinin Yunanistan'ın 1947 yardım ihtiyacını 21 milyon sterlin olarak tahmin ettiğini de kaydediyordu — ama notu yazanlar bu rakamı hemen reddediyor, mevcut düşük sınai etkinlik düzeyine dayandığı için istikrarı sağlamaya bütünüyle yetersiz kalacağını söylüyor ve Yunanistan'ın gerçek ihtiyacını, silahlı kuvvetlerin döviz maliyeti hariç, 1947 için en az 40 milyon sterlin olarak veriyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'an establishment which allows for an army of 100,000 men', 'The Experts Committee of the United Nations have estimated Greek relief needs in 1947 at' (£21 million), 'will, in the view of His Majesty's Government, be wholly inadequate to achieve our political objective of maintaining stability' ve 'His Majesty's Government estimate the actual needs of Greece, excluding the foreign exchange cost of the armed forces, at a minimum of £40 million in 1947' birebir gecer. KOR HAKEM DUZELTMESI: ilk yazimda 21 milyonluk BM tahmini verilip notun bu rakami YETERSIZ ilan edip 40 milyonluk kendi tahminini koydugu dusurulmustu; kaynagin kendi cekincesi geri konuldu."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Türkiye'ye ilişkin olanı daha kısaydı ve sonucu daha açık söylüyordu: Britanya Genelkurmayı Türk kuvvetlerinin çok geniş ölçüde yeniden teçhiz edilmesi gerektiği kanısındaydı, insan gücü ve üretim kapasitesi darlığı yüzünden bu işi Birleşik Krallık üstlenemezdi, dolayısıyla iş Birleşik Devletler'e düşecekti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'the Turkish Army will require a very large measure of re-equipment', 'owing to shortage of manpower and productive capacity' ve 'the task would have to be undertaken by the United States' birebir gecer."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Notun dayandığı üç saptama şuydu: Türk bağımsızlığının sürmesi büyük önem taşıyordu, Türk silahlı kuvvetleri o hâliyle birinci sınıf bir gücün saldırısına etkili direniş gösteremezdi ve mevcut verimlilik düzeyinde yalnızca modern silah vermek bu direnme gücünü pek artırmazdı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Notun (a), (b) ve (c) maddeleri: 'of the greatest importance that Turkish independence should be maintained', 'would not be able to offer effective resistance to aggression by a first-class power', 'in their present state of efficiency the mere provision of modern weapons would do little to increase the Turkish Armed Forces' power of resistance'. Ucu de Britanya Genelkurmayi'nin sonuclari olarak kayitlidir."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Konuşmanın en çok anılan yeri hiçbir ülke adı taşımaz: Truman'a göre Birleşik Devletler'in politikası, silahlı azınlıklarca ya da dışarıdan gelen baskıyla boyun eğdirilmeye direnen \"free peoples who are resisting attempted subjugation\" desteklemek olmalıydı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Konusmanin tam metninde 'I believe that it must be the policy of the United States to support free peoples who are resisting attempted subjugation by armed minorities or by outside pressures' birebir gecer. Tirnak icine alinan bolum 7 kelimedir."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Truman Yunanistan'ın hâlini ayrıntıyla anlattı: geri çekilen Alman kuvvetleri demiryollarını, karayollarını, liman tesislerini, haberleşmeyi ve ticaret filosunu neredeyse tümüyle yok etmiş, binden fazla köy yakılmış, çocukların yüzde 85'i veremli hâle gelmişti.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'the retreating Germans had destroyed virtually all the railways, roads, port facilities, communications, and merchant marine', 'More than a thousand villages had been burned' ve 'Eighty-five percent of the children were tubercular' birebir gecer. KOR HAKEM DUZELTMESI: ilk yazimda kaynagin bes ogeli listesinden ucu alinmisti (liste kirpmasi); bes oge de geri konuldu. Sayilar Truman'in konusmadaki beyanidir, bagimsiz olcum degildir; cumle bunu 'Truman ... anlatti' diye kuruyor."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Aynı konuşmada Kongre'den 30 Haziran 1948'de sona erecek dönem için 400 milyon dolarlık yetki, iki ülkeye Amerikalı sivil ve askerî personel görevlendirme izni ve verilen paranın kullanımını denetleme yetkisi istedi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'assistance to Greece and Turkey in the amount of $400,000,000 for the period ending June 30, 1948', 'the detail of American civilian and military personnel to Greece and Turkey' ve 'that we supervise the use of any funds made available' birebir gecer."
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Biri evrenseldi ve koşul içermiyordu; Truman özgür halkların kendi yazgılarını kendi yollarınca kurmasına yardım edilmesi gerektiğini, bu yardımın da esas olarak iktisadi ve malî nitelikte olmasını söylüyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'I believe that we must assist free peoples to work out their own destinies in their own way' ve 'our help should be primarily through economic and financial aid' birebir gecer."
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Öteki bir bütçe kalemiydi ve baştan sona koşulluydu: para belirli iki hükümete, belirli bir tarihe kadar, Amerikan gözetimi altında verilecekti.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak ogeleri ayri ayri tasir (iki ulke adiyla, 30 Haziran 1948 tarihiyle, denetim yetkisiyle); 'bastan sona kosulluydu' nitelemesi bu ogelerden cikarilmis bir OZETTIR, kaynagin kendi cumlesi degildir. Bu yuzden destek kismi."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Truman, durumun acil olduğunu ve Birleşmiş Milletler ile ona bağlı kuruluşların gereken türden yardımı verecek konumda bulunmadığını söyledi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'the situation is an urgent one requiring immediate action, and the United Nations and its related organizations are not in a position to extend help of the kind that is required' birebir gecer."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Aynı konuşma birkaç paragraf önce, Güvenlik Konseyi'nin atadığı bir komisyonun o sırada Kuzey Yunanistan'daki karışıklıkları ve Yunanistan ile Arnavutluk, Bulgaristan ve Yugoslavya arasındaki sınır ihlali iddialarını soruşturmakta olduğunu kaydeder.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'A Commission appointed by the United Nations Security Council is at present investigating disturbed conditions in northern Greece and alleged border violations along the frontier between Greece on the one hand and Albania, Bulgaria, and Yugoslavia on the other' birebir gecer ve konusmada BM gerekcesinden once yer alir."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "O komisyon Konsey'in 19 Aralık 1946 tarihli kararıyla, Şart'ın 34. maddesine dayanılarak ve en geç 15 Ocak 1947'de bölgeye gitmek üzere kurulmuştu.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Karar metni 'under Article 34 of the Charter establish a Commission of Investigation to ascertain the facts' ve 'shall proceed to the area not later than 15 January 1947' der. 19 Aralik 1946 tarihi sayfanin kendi kunyesinden okundu."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Yasa 22 Mayıs 1947'de imzalandığında dil yeniden yumuşadı: Truman, iki üye devlete yapılan yardımın Birleşmiş Milletler'inkiyle özdeş amaçları ilerlettiğini ve Birleşik Devletler'in örgütü yalnız desteklemekle kalmayıp onu destekleyecek biçimde davrandığını söyledi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'the United States is helping to further aims and purposes identical with those of the United Nations' ve 'we pledge our support to the United Nations but that we act to support it' birebir gecer."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "İmza günü verilen taahhüt açıktı: Truman, uzatılan yardımın Yunanistan ile Türkiye'nin bütün halklarına yarayacağından, \"not any particular group or faction\" gitmeyeceğinden emin olacaklarını söyledi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'We intend to make sure that the aid we extend will benefit all the peoples of Greece and Turkey, not any particular group or faction' birebir gecer. Tirnak 6 kelimedir."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "7 Kasım 1947'de Kongre'ye sunduğu ilk üç aylık raporda Truman, Yunanistan'da askerî harekâtın yoğunlaşmasının \"transfer of funds from the economic to the military program\" zorunlu kıldığını yazdı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Intensification of military operations in that country has necessitated a transfer of funds from the economic to the military program' birebir gecer; mesajin tarihi 7 Kasim 1947, yayimi 10 Kasim 1947'dir."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Aynı rapor, Avrupa çapındaki kuraklık ve gerilla faaliyeti yüzünden Yunan tahıl hasadının düştüğünü, dolayısıyla gıda ithalatına ayrılacak dövizin ilk tahminleri aşacağını da kaydeder.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'The Greek cereals harvest has been reduced by the general European drought, and by guerrilla activity, to a point where the expenditure of foreign exchange for food imports will be a great deal more than originally estimated' birebir gecer."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Washington 29 Ekim 1947'de, düzenli orduyu kalıcı olarak 10.000 kişi büyütme kararının yerine, tahminen 32 taburluk ve 16.000 kişilik bir ulusal savunma kolordusu kurulmasına altı milyon dolar ayrılmasını onayladı; Tsaldaris bir gün önce Bakanlığa bu birlik için güçlü bir talepte bulunmuştu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'six million dollars toward formation National Defense Corps of estimated 32 battalions or 16,000 men (your figures)', 'in place of permanent increase of 10,000 in size regular army' ve 'Tsaldaris made strong plea to Dept yesterday for Defense Corps' birebir gecer. '(your figures)' cekincesi cumleye 'tahminen' ile tasindi. KOR HAKEM DUZELTMESI: ilk yazimda Tsaldaris'e kaynakta bulunmayan 'Yunan hukumeti adina' rolu yuklenmisti; kaldirildi, telgrafin 'yesterday' kaydi korundu. Tsaldaris kaynakta yalniz soyadiyla gecer, tam ad yazilmadi."
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Doktrin iki ülkeyi tek bir gerekçede birleştirdi ama Truman'ın kendisi de durumlarının hayli farklı olduğunu kabul ediyordu: Türkiye Yunanistan'ın başına gelen felaketlerden korunmuştu, savaş boyunca Britanya ve Birleşik Devletler'den malzeme yardımı almıştı ve ihtiyacı, ulusal bütünlüğünü koruyacak modernleşmeyi finanse etmekti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Turkey has been spared the disasters that have beset Greece', 'the United States and Great Britain furnished Turkey with material aid' ve 'that modernization necessary for the maintenance of its national integrity' birebir gecer."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Truman'ın Türkiye için verdiği gerekçe bölgeseldi: ülkenin bütünlüğü Orta Doğu'da düzenin korunması bakımından zorunluydu ve Britanya kendi güçlükleri yüzünden artık Türkiye'ye malî ya da iktisadi yardım yapamayacağını bildirmişti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'That integrity is essential to the preservation of order in the Middle East' ve 'The British Government has informed us that, owing to its own difficulties, it can no longer extend financial or economic aid to Turkey' birebir gecer."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Britanya'nın Türkiye notu bu ihtiyacın iç yüzünü de anlatıyordu: Türkiye cari döviz gereksinimini ihracatıyla karşılayabiliyor ve mevcut sanayisini dışarıdan para almadan sürdürebiliyordu, ama merkez bankasının yaklaşık 59 milyon sterlinlik altın rezervinin en az yarısını Maliye Bakanı emisyon karşılığı olarak tutmakta diretiyordu; geriye kalanla ya kapsamlı bir iktisadi kalkınma programı ya da silah alımı finanse edilebilirdi, ikisi birden değil.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "KOR HAKEM EKLEMESI (faz4d DIKKAT: Turkiye'nin ic siyasetini tek cumleyle gecme). k5'te birebir: 'Turkey can finance her current foreign exchange requirements out of the proceeds of her exports; she can also maintain her existing industry without further foreign financial assistance', 'the last available Central Bank statement shows gold reserves of approximately pounds sterling 59 million', 'the Finance Minister insists that he must hold at least half of this amount as cover for the note issue', 'The balance could reasonably be used either for a programme of economic and industrial development ... or for the purchase of armaments. There is clearly not enough for both.' Para birimi kaynakta 'pounds sterling' olarak yazili, HTML varligindan cozulmedi. Rakam Britanya notunun aktardigi Turk merkez bankasi beyanidir, bagimsiz olcum degildir."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Türkiye programa bir iç ayaklanma yüzünden değil, Boğazlar üzerindeki Sovyet baskısı ve Britanya yardımının 1947'de kesilmesi yüzünden girdi; ülkeye 100 milyon dolarlık iktisadi ve askerî bir yardım paketi verildi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Giris kapisi kaydi Bogazlar baskisini, 'Since British assistance to Turkey had ended in 1947' ve 'Turkey received $100 million in economic and military aid' ifadelerini tasir. Ic ayaklanma bulunmadigi olumsuz saptamasi kayittan dogrudan degil, Turkiye bolumunde boyle bir ayaklanmadan hic soz edilmemesinden okunur; bu yuzden guven orta."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Truman Yunan hükümetinin kusursuz olmadığını, hata yaptığını ve yardımın onun her yaptığını onaylamak anlamına gelmediğini söyledi, sağdan ya da soldan gelen aşırı önlemleri kınadıklarını yineledi ve hükümetin meşruiyetini, aralarında 692 Amerikalının da bulunduğu yabancı gözlemcilerin adil saydığı bir seçimde parlamento üyelerinin yüzde 85'ini temsil etmesine bağladı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'The government of Greece is not perfect', 'It has made mistakes', 'we condemn now, extremist measures of the right or the left', 'it represents 85 percent of the members of the Greek Parliament who were chosen in an election last year' ve 'Foreign observers, including 692 Americans' birebir gecer. KOR HAKEM DUZELTMESI: ilk yazim 'yuzde 85'ini kazanmis' diyordu; kaynak 'represents' der, yani secimde sandalye kazanmayi degil parlamentodaki destegi anlatir. 'temsil etmesine' olarak duzeltildi. Kaynak bagimsiz bir secim gozlemi degil, yardimi isteyen tarafin savunmasidir."
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Bu savunma daha ilk günden tartışma konusu oldu: yardımın gittiği düzenin bir demokrasi değil baskıcı bir yönetim olduğu o sırada da ileri sürüldü.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kayit 'Others argued that the Greek monarchy Truman proposed to defend was itself a repressive government, rather than a democracy' der. Itirazi yapanlar kaynakta ADSIZ birakilmistir; cumlede de ad verilmedi."
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Konuşma taslağı dolaştırıldığında George Marshall, George Kennan ve başkaları metni fazla \"rhetoric\" taşımakla eleştirdi; Truman'ın karşılığı, Arthur Vandenberg'in öğüdü uyarınca, tehdit büyütülmeden talebin onaylanmayacağıydı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'When a draft for Truman's address was circulated to policymakers, Marshall, Kennan, and others criticized it for containing excess \"rhetoric.\" Truman responded that, as Vandenberg had suggested, his request would only be approved if he played up the threat' birebir gecer. KOR HAKEM DUZELTMESI: kaynagin 'and others' kaydi ilk yazimda dusmustu, geri konuldu. Ad yazimlari kaynakta var: 'George C. Marshall', 'George F. Kennan', 'Senator Arthur Vandenberg' — hayalet ad uretilmedi. Vandenberg'in ogudu kaynakta 'scare the hell out of the American people'; govde alintilamadan ozetler."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Kongre'de yalıtılmacı kanadın kuşkuları — özellikle Robert A. Taft'ınkiler — yine Vandenberg'in desteğiyle aşıldı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "'The chief Republican spokesman Senator Arthur Vandenberg strongly supported Truman and overcame the doubts of isolationists such as Senator Robert A. Taft' birebir gecer. Kayit Taft'i ornek olarak sayar, tek muhalif olarak degil; cumle de 'ozellikle' diyerek bunu koruyor."
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Köşe yazarı Walter Lippmann taahhüdün ucu açık niteliğine dikkat çekti ve doktrini Dean Acheson'la tartışırken neredeyse kavgaya tutuşacak kadar ileri gitti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "'Influential columnist Walter Lippmann was more skeptical, noting the open-ended nature of Truman's pledge; he felt so strongly that he almost came to blows while arguing with Acheson over the doctrine' birebir gecer."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Oradaki Amerikan maslahatgüzarının Dışişleri Bakanlığı'na özetlediğine göre Pravda'da G. Vershinin imzasıyla çıkan yazı, Türkiye'ye yapılan yardımın askerî hükümlerini öne çıkarıyor, Amerikalı danışmanların kredilerin harcanması üzerinde denetim kurduğunu, İstanbul ve İzmir'de Amerikan banka şubelerinin açıldığını ve yabancı sermayeye konulmuş sınırlamaların kaldırıldığını sayıyor, askerî bakımdan \"Turkey has ceased be independent country\" sonucuna varıyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Belge Pravda yazisinin cevirisi DEGIL, Moskova'daki Amerikan maslahatguzarinin ozetidir ('Summary follows'); cumle bunu acikca soyluyor. 'from military viewpoint Turkey has ceased be independent country', 'branches American banks have been opened in Istanbul and Izmir' ve 'all restrictions for foreign capital have been' ifadeleri metinde gecer. Yazar kaynakta yalniz 'G. Vershinin' diye anilir; tam ad uydurulmadi."
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Ortada bir konuşma ve iki ülkeye tek bir malî yıl için para veren bir yasa vardı; genel taahhüt sonradan ve gayriresmî biçimde okundu, doktrinin Avrupa'nın ve dünyanın geri kalanına uzatılması bu okumayla oldu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'The Truman Doctrine was informally extended to become the basis of American Cold War policy throughout Europe and around the world' k9'da birebir gecer. KOR HAKEM DUZELTMESI: k2 dogrudan isaretliydi; k2 yalnizca yasanin varligini ve yardimin iki ulkeye verildigini tasir, cumlenin 'tek bir mali yil icin' ve 'sonradan gayriresmi okundu' bolumlerini tasimaz — kismi'ye dusuruldu. Sus dipnotu degildir, iddianin bir bolumunu gercekten tasir."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Programın kendi raporu iktisadi kalemden askerî kaleme aktarım yapıldığını yazar; yani doktrinin dili ile uygulaması arasındaki fark dışarıdan bir eleştiri değil, resmî kaydın kendisidir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ondeki i015 iddiasinin degerlendirici tekrari; dayandigi olgu ayni resmi raporun kendi cumlesidir."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Sonraki değerlendirmelerin ikisi buraya ikinci elden, giriş kapısı olarak kullanılan ansiklopedi maddesi üzerinden geliyor: o maddeye göre Eric Foner doktrinin, ne kadar demokrasi dışı olursa olsun komünizm karşıtı rejimlere Amerikan yardımı yapılmasına ve Sovyetler Birliği'ne dönük küresel askerî ittifaklar dizisine emsal kurduğunu yazar; aynı madde James T. Patterson'dan, bütün özgür halklara yardım vaadinin geniş retoriğinin sonraki sayısız girişimin zeminini hazırladığı değerlendirmesini aktarır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Foner: 'set a precedent for American assistance to anticommunist regimes throughout the world, no matter how undemocratic, and for the creation of a set of global military alliances directed against the Soviet Union'; Patterson: 'Its sweeping rhetoric, promising that the United States should aid all free people being subjugated, set the stage for innumerable later ventures' — ikisi de k9'da birebir gecer. KOR HAKEM DUZELTMESI: ilk yazim iki tarihciyi dogrudan okunmus gibi sunuyordu; iki yazarin asil metni GORULMEDI, aktarim halkasi artik govdede acikca soyleniyor."
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Konuşmanın kendisi bu soruyu çözmez; çünkü aynı metin hem sınırsız bir ilkeyi hem de 30 Haziran 1948'de sona eren dar bir bütçe kalemini taşır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kapanis degerlendirmesi; dayandigi iki oge (sinirsiz ilke cumlesi ve 30 Haziran 1948'de biten butce kalemi) ayni konusma metninde birlikte durur."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 30,
+    "kismi": 1,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

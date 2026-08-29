@@ -1,0 +1,463 @@
+{
+  "id": "aktor-deniz-kavimleri",
+  "govde_hash": "4dc0c188e42c",
+  "commit": "bf4bb9c",
+  "zaman": "2026-08-30",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Ramses'in saltanatının sekizinci yılına tarihlenen bu yazıt, Mısır'a doğru ilerleyen kalabalığın asıl dayanağı olarak beş ad sayar: Peleset, Thekel, Shekelesh, Denyen ve Weshesh.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Medinet Habu sekizinci yil yaziti; Breasted cevirisinde 17.-18. satirlarda bes ad birebir siralanir: Peleset, Thekel, Shekelesh, Denyen, Weshesh."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Aynı metin bu grupları kuzeyliler diye anar, adalarında huzursuzlandıklarını söyler ve Kheta'dan Kode'ye, Carchemish'ten Arvad ile Alasa'ya uzanan bir yıkım listesi verir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni paragrafta kuzeylilerin adalarinda huzursuzlandigi anlatilir ve Kheta, Kode, Carchemish, Arvad, Alasa listesi verilir."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "O başlığı yazıtı yazdıranlar koymadı: Deniz Kavimleri modern bir yakıştırmadır (\"modern coinage\") ve grupların çoğunun karadan geldiği düşünüldüğü için sık sık yanlış adlandırma sayılır; kavramı bugünkü biçimiyle kuranlar on dokuzuncu yüzyıl Mısırbilimcileri Emmanuel de Rougé ile Gaston Maspero'dur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Wikipedia acikca \"The term Sea People is a modern coinage\" ve de Rouge ile Maspero adlarini veriyor. Ansiklopedi gecidi oldugu icin guven orta; iddianin kendisi kunyedeki birincil metinlerle celismiyor."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Buradaki aktörün özelliği şudur: kaynakların adlandırdığı tek bir topluluk değil, modern tarih yazımının bir araya getirdiği bir kümedir.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kume adinin modern bir kavram olusu k1 metninde dogrudan yazili; cikarimin kendisi bu ifadeye dayaniyor."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Küme adının altındaki her ad ayrı bir soru işaretidir; kimlikleri, nereden geldikleri ve niçin saldırdıkları hâlâ tam olarak bilinmiyor, üstelik bazı araştırmacılar varlıklarının Geç Tunç Çağı çöküşünün nedeni mi sonucu mu olduğundan bile emin değil.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaniewski ve ark.: \"we still do not know exactly who they were, where they came from, why they attacked\"; ayni paragraf bazi arastirmacilarin varligin neden mi sonuc mu oldugundan emin olmadigini yazar."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Sekizinci yıl yazıtı, saldırganların gemilerini liman ağızlarında bir tuzağa düşürdüğünü, sahil boyunca madenden bir duvar kurulduğunu ve düşmanın kıyıya serildiğini anlatır ve kralın ağzından bir zafer şarkısı taşır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sekizinci yil yazitinin 65-67. paragraflari: liman agizlarinda tuzak, kiyida madenden duvar, kralin zafer sarkisi."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Bu gruplardan kalma ve onları kendi ağızlarından anlatan bir metin künyelenemedi; adları burada yalnızca kendilerini yendiğini ilan eden tarafın diliyle geçiyor.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Olumsuz bir iddia: gruplarin kendi agzindan bir metin bu turde kunyelenemedi. k2 yalnizca adlarin Misir kaydindan geldigini gosterir, yoklugu kanitlamaz — destek baglam."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Adların yazımı bile sabit değildir ve oynaklık tek bir çevirinin içinde başlar: yazıtın çevirisi Weshesh derken aynı cildin sunuş bölümü aynı grubu Weshwesh diye yazar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni ciltte iki bicim: yazitin cevirisi (§64) 'Weshesh', Breasted'in sunusu (§59) 'Weshwesh'. Hakem duzeltmesi: onceki surum karsitligi 'ceviri Weshwesh / sonraki literatur Weshesh' diye kurmustu ve bu makalenin kendi ilk paragrafiyla celisiyordu — kaynak boyle bir ayrimi tasimiyor."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Sherden'ler, II. Ramses'in Kadeş seferi anlatısında Mısır ordusunun bir parçası olarak sayılır: kral, piyadesini ve savaş arabalarını hazırlarken yanında \"of the captivity of his majesty\" diye, yani majestelerinin esir aldıkları diye nitelenen Sherden birlikleri vardır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Breasted III, §307: 'his majesty prepared his infantry and his chariotry, the Sherden of the captivity of his majesty'. Hakem eklemesi: ibarenin Turkce karsiligi metne konuldu; 'esir alinmislik' nitelemesi paragrafin tehdit/kaynak savini dogrudan tasidigi icin ceviriden dusurulmemeli."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Çevirinin dipnotu bunu bir Mısır belgesinde bu paralı askerlere yapılan en erken gönderme sayar ve On Sekizinci Hanedan'ın sonunda da kullanıldıklarını, Amarna mektuplarında Shirdana adıyla geçtiklerini ekler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni sayfanin dipnotu: bir Misir belgesindeki en erken anma, On Sekizinci Hanedan sonu kullanimi ve Amarna mektuplarindaki Shirdana adi."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Sherden'ler Mısır için bir kere tehdit, bir kere kaynaktır; hangi rolde göründükleri belgenin türüne ve tarihine bağlıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cikarim: ayni ad hem dusman listesinde hem ucretli asker kadrosunda geciyor. Kaynak iki rolu ayri ayri tasiyor; tehdit-ve-kaynak formulasyonu bu makalenin yorumudur."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Medinet Habu'nun Suriye seferini gösteren sahnelerinde kral yaya olarak bir kaleye saldırırken önünde muhafızları ve Sherden paralı askerleri ilerler; başka bir sahnede Mısırlı okçularla birlikte ağır Sherden piyadesi düşman savaş arabalarına yüklenir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Breasted IV, 117-118: Sherden parali askerleri ve agir Sherden piyadesi kralin safinda betimleniyor."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Peleset muhtemelen Giritli diye nitelenir ve sonradan İncil'deki Filistîler olduğu söylenir; Thekel belki de Sicilya'nın Sikeli'sidir; Denyen'in yanına Danaoi karşılığı konur — ama aynı cümle Shekelesh, Denyen ve Weshwesh'i topluca belirsiz kökenli sayar (\"who are of uncertain origin\").",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Breasted IV, §59: 'the probably Cretan Peleset ... later became the biblical Philistines; the Thekel, who may be the Sikeli, later of Sicily; the Shekelesh, the Denyen or Danaoi, and the Weshwesh, who are of uncertain origin.' Hakem duzeltmesi: onceki surum 'or Danaoi' karsiligini dusurmustu (liste kirpmasi) ve Weshwesh yerine Weshesh yaziyordu."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Aynı bölüm, bu toplulukları yerinden eden baskının kaynağının da belirsiz olduğunu söyler ve hareketin bir istiladan çok bir halk göçü olduğu yargısını yazarın kendi kanaati olarak işaretler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni bolum: \"Owing to pressure from uncertain sources without\"; hareketin bir halk gocu oldugu yargisi da \"In the author’s opinion\" ibaresiyle yazarin kendi kanaati olarak isaretlenir."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Kadeş anlatısının dipnotunda benzer bir tereddüt daha vardır: listedeki adlardan Luka'nın neredeyse kesinlikle Lykialılar, Kelekesh'in muhtemelen Kilikyalılar, Derden'in belki de Dardanialılar, Mesa'nın da Mysialılar olduğu söylenir; geri kalan için pek çok öneri yapıldığı ama bunların tümüyle belirsiz kaldığı yazılır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Breasted III, §306 dipnotu: Luka 'almost certainly' Lykialilar, Kelekesh 'probably' Kilikyalilar, Derden 'perhaps' Dardanialilar, Mesa Mysialilar; 'The remnant is entirely uncertain, though many identifications have been proposed.' Hakem duzeltmesi: dortlu ozdeslestirme listesinden Mesa/Mysialilar dusmustu, geri konuldu."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Ramses'in beşinci yılındaki Libya savaşında Anadolu'nun güney kıyısındaki toplulukların ve Ege'nin denizci halklarının ileri gemilerinden bir bölümünün Libyalıların yanında yer aldığını söyler; aynı sunuş, Merneptah döneminde de yağmacı gemi tayfalarının Libya saldırısına katıldığını hatırlatır ve bunları daha büyük bir hareketin öncü çarpışmaları sayar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Breasted IV, 59: besinci yildaki Libya savasinda Asya nin guney kiyisi ile Ege topluluklarinin ileri gemileri; ayni paragraf Merneptah donemindeki yagmaci tayfalari hatirlatir."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Sunuşun çizdiği tablo, silahlı bir sefer tasvirinden çok bir yer değiştirme tasviridir: kalabalıklar eşleri, çocukları ve eşyalarıyla, ağır öküz arabalarıyla yola çıkmış, Anadolu kıyısı boyunca doğuya ilerleyerek Suriye'ye girmiş ve Amor'da bir merkez kamp kurmuştur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni bolum: esler, cocuklar, esyalar, \"clumsy ox carts\", Anadolu kiyisi boyunca dogu yonlu ilerleyis ve Amor daki merkez kamp."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "İklim kanadının açık erişimli çalışması meseleyi bir sıralama sorusu olarak kurar: Mısır kabartmaları ile çiviyazılı metinler çöküşün yakın nedenini Deniz Kavimleri'nin saldırıları olarak resmeder, ama Kıbrıs'tan alınan iklim verisi kuraklık kaynaklı kıtlığı daha erkene yerleştirir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaniewski ve ark. ozeti: Misir kabartmalari ve civiyazili metinler cokusun \"proximate cause\" unu Deniz Halklari saldirilari olarak resmeder; Kibris paleoiklim verisi kuraklik kaynakli kitligi one alir."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Aynı çalışmaya göre bu kuram Deniz Kavimleri'ni \"not a bunch of pirates\" olarak, yani Yakın Doğu'nun zenginliği peşindeki korsanlar değil, yaşanmaz hâle gelmiş bölgelerden kaçıp kuraklığın çoktan yıprattığı topraklarda yeni yurt tutmaya çalışan etnik topluluklar kümesi olarak okur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaniewski ve ark.: \"not a bunch of pirates merely in pursuit of the richness of the Near East, but they rather constituted a set of ethnic entities fleeing inhospitable regions to conquer new lands\". Hakem duzeltmesi: onceki surum 'to conquer new lands' ogesini dusurmustu ve gruplari salt multeci gibi gosteriyordu."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Aynı makale kendi kuramına da çekince koyar: iklimin eski toplumları biçimlendirmedeki rolü tartışmalıdır, çünkü doğrudan nedensellik kanıtlanamamaktadır ve bu özellikle geniş bölgesel ölçekte kurulan insan-iklim bağlantıları için geçerlidir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni makalenin cekincesi: \"the debate about the role of climate in shaping ancient societies has emerged because a direct causation fails to be proven\"."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Kuraklık tezinin ilk olarak Carpenter tarafından ileri sürüldüğünü, zaman içinde değişse de özünü koruduğunu ve Drews'in çalışmalarının tartışmayı yeniden açtığını derleyen bir inceleme, konuyla ilgilenen araştırmacıların \"ortak bir noktada buluşamamaktadır\" diye özetler durumu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "DergiPark ozeti: Carpenter in ilk one surdugu kuraklik tezi, Drews in tartismayi yeniden acmasi ve arastirmacilarin \"ortak bir noktada bulusamamaktadir\" tespiti. Erisilen sayfa ozet duzeyinde oldugu icin guven orta."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Sonuç şudur: erken Demir Çağı nüfusu, Avrupa ile ilişkili bir karışım yüzünden genetik olarak farklıdır; bu iz geç Demir Çağı nüfusunda artık görülmez ve makale bunu, göçün \"did not leave a long-lasting genetic signature\" biçiminde, kalıcı bir genetik imza bırakmadığı sonucuna bağlar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Feldman ve ark. ozeti: erken Demir Cagi nufusunda Avrupa iliskili karisim, gec Demir Cagi nda saptanamiyor, \"did not leave a long-lasting genetic signature\"."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Aynı makale ölçümün sınırını da yazar: coğrafi ve zamansal örnekleme boşlukları yüzünden bu karışıma kaynaklık etmiş olabilecek nüfuslar veri kümesinde hiç bulunmuyor olabilir; daha iyi vekiller ileride bulunabilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Makalenin kendi sinir beyani: cografi ve zamansal ornekleme bosluklari yuzunden kaynak nufuslar veri kumesinde eksik olabilir, ileride daha iyi vekiller bulunabilir."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "İklim çalışmasının derlediği listede birbirini dışlamayan başka nedenler de vardır — doğal afetler, teknolojik yenilikler, iç çöküşler ve eşitsizlikten doğan siyasi çatışma kuramları; aynı çalışma bazı araştırmacıların bu grupların varlığının çöküşün nedeni mi yoksa sonucu mu olduğundan bile emin olmadığını yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaniewski ve ark. giris bolumu: \"Several not mutually exclusive causes\" — dogal afetler (tsunami, deprem), teknolojik yenilikler, ic cokusler ve esitsizlik kuramlari; ayrica neden mi sonuc mu belirsizligi."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Yazıt beş ayrı ad sayar ve çevirinin sunuşu bunların bir kısmını açıkça belirsiz kökenli bırakır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yazitin bes adi ve sunusun belirsiz koken ifadesi ayni ciltte."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Üçüncüsü, bu adları belirli bir modern halkla özdeşleştirmektir; ne yazıt ne genom verisi böyle bir denklem taşır, üstelik Askalon'daki genetik iz geç Demir Çağı nüfusunda artık görülmemektedir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Modern halkla ozdeslestirmeme uyarisi bu makalenin yorumudur; k5 yalnizca genetik izin gec Demir Cagi nda saptanamadigini tasir."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Sekizinci yıl yazıtı, düşmanın tohumunun kalmadığını ve devrilenlerin bir daha dönmeyeceğini ilan eder; bu, bir sayım değil bir iddiadır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Breasted IV, 66-67: \"their seed is not\" ve \"Those whom I have overthrown shall not return\"."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "İklim tarafının açık erişimli çalışması bu üç başlığı tek bir sıralama sorusunda birleştirir ve kendi sonucunu da doğrudan nedenselliğin kanıtlanamadığı çekincesiyle sınırlar.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Uc tartismanin tek soruda birlestigi yorumu bu makaleye aittir; k4 yalnizca dogrudan nedenselligin kanitlanamadigi cekincesini tasir."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Bir küme adı, altındaki adların tek tek ne kadar az bilindiğini gizleyebilir; grupların çoğunun karadan geldiği düşünüldüğü hâlde adın denizi öne çıkarması bunun en görünür örneğidir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 adin yanlis adlandirma sayilmasini ve gruplarin cogunun karadan geldigi dusuncesini tasir; kume adinin bilgisizligi gizledigi cikarimi bu makalenindir."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Deniz muharebesi sahnesinde Mısır gemilerinin sıkıştırdığı beş kuzey gemisini Peleset ile Sherden donatır; bağlı reisleri gösteren sırada ise Kheta ve Amor reislerinin, Thekel ile Peleset'in yanında denizin Sherden'i sayılır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Breasted IV, Sahne 74: \"Five warships of the Northerners, manned by Peleset and Sherden\". Sahne 129: yedi bagli reisin sirasinda 1. Kheta, 2. Amor, 3. Thekel, 4. 'Sherden of the sea', 6. Teresh, 7. Peleset. Hakem duzeltmesi: onceki surum 'sekizinci yil yazitinin dusman saydigi adlardan biri' diyerek Sherden'i yazitin bes adlik listesine sokuyordu; o listede Sherden YOKTUR (Breasted dipnotu Sherden'i Papyrus Harris'in ekledigini soyler). Sherden'in dusman tarafinda gorunmesi yazitta degil ayni savasin kabartmalarindadir."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Sonraki literatür ise Thekel'i Tjeker biçiminde kaydeder.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 grubu 'Tjeker' basligiyla anar; Breasted'in 'Thekel' bicimiyle ayni grup. Ansiklopedi gecidi oldugu icin guven orta."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Askalon kazısından alınan on Tunç ve Demir Çağı bireyinin genom verisi, kimlik sorusuna maddi ölçümle değen ayrı bir kanıt dizisi ekler; makale bu bölge için Geç Tunç ve Demir Çağı nüfuslarından genom ölçeğinde verinin o güne dek bulunmadığını kendi gerekçesi olarak yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Feldman ve ark.: \"we report genome-wide data of 10 Bronze and Iron Age individuals from Ashkelon\" ve \"Genome-wide data from Late Bronze and Iron Age populations have, so far, not been available for this region\". Hakem duzeltmesi: onceki surum bu diziyi \"kimlik sorusuna dogrudan degen tek olcum dizisi\" diye yaziyordu — atifsiz bir ustunluk iddiasiydi; kaynagin kendi sinirli oncelik beyanina indirildi."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 27,
+    "kismi": 1,
+    "desteksiz": 0,
+    "olculemez": 4
+  }
+}

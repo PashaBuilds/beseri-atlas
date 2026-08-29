@@ -1,0 +1,201 @@
+{
+  "id": "aktor-deniz-kavimleri",
+  "gecis": 2,
+  "zaman": "2026-08-29T21:52:30.538Z",
+  "govde_hash": "4dc0c188e42c",
+  "commit": "bf4bb9c",
+  "sonuclar": [
+    {
+      "anahtar": "k2",
+      "iddia": "Ramses'in saltanatının sekizinci yılına tarihlenen bu yazıt, Mısır'a doğru ilerleyen kalabalığın asıl dayanağı olarak beş ad sayar: Peleset, Thekel, Shekelesh, ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı metin bu grupları kuzeyliler diye anar, adalarında huzursuzlandıklarını söyler ve Kheta'dan Kode'ye, Carchemish'ten Arvad ile Alasa'ya uzanan bir yıkım lis",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "O başlığı yazıtı yazdıranlar koymadı: Deniz Kavimleri modern bir yakıştırmadır (\"modern coinage\") ve grupların çoğunun karadan geldiği düşünüldüğü için sık sık ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Buradaki aktörün özelliği şudur: kaynakların adlandırdığı tek bir topluluk değil, modern tarih yazımının bir araya getirdiği bir kümedir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Küme adının altındaki her ad ayrı bir soru işaretidir; kimlikleri, nereden geldikleri ve niçin saldırdıkları hâlâ tam olarak bilinmiyor, üstelik bazı araştırmac",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Geç, Tunç, Çağı"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sekizinci yıl yazıtı, saldırganların gemilerini liman ağızlarında bir tuzağa düşürdüğünü, sahil boyunca madenden bir duvar kurulduğunu ve düşmanın kıyıya serild",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu gruplardan kalma ve onları kendi ağızlarından anlatan bir metin künyelenemedi; adları burada yalnızca kendilerini yendiğini ilan eden tarafın diliyle geçiyor",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Adların yazımı bile sabit değildir ve oynaklık tek bir çevirinin içinde başlar: yazıtın çevirisi Weshesh derken aynı cildin sunuş bölümü aynı grubu Weshwesh diy",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sonraki literatür ise Thekel'i Tjeker biçiminde kaydeder.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ramses'in Kadeş seferi anlatısında Mısır ordusunun bir parçası olarak sayılır: kral, piyadesini ve savaş arabalarını hazırlarken yanında \"of the captivity of hi",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çevirinin dipnotu bunu bir Mısır belgesinde bu paralı askerlere yapılan en erken gönderme sayar ve On Sekizinci Hanedan'ın sonunda da kullanıldıklarını, Amarna ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sherden'ler Mısır için bir kere tehdit, bir kere kaynaktır; hangi rolde göründükleri belgenin türüne ve tarihine bağlıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Medinet Habu'nun Suriye seferini gösteren sahnelerinde kral yaya olarak bir kaleye saldırırken önünde muhafızları ve Sherden paralı askerleri ilerler; başka bir",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Deniz muharebesi sahnesinde Mısır gemilerinin sıkıştırdığı beş kuzey gemisini Peleset ile Sherden donatır; bağlı reisleri gösteren sırada ise Kheta ve Amor reis",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Peleset muhtemelen Giritli diye nitelenir ve sonradan İncil'deki Filistîler olduğu söylenir; Thekel belki de Sicilya'nın Sikeli'sidir; Denyen'in yanına Danaoi k",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı bölüm, bu toplulukları yerinden eden baskının kaynağının da belirsiz olduğunu söyler ve hareketin bir istiladan çok bir halk göçü olduğu yargısını yazarın ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kadeş anlatısının dipnotunda benzer bir tereddüt daha vardır: listedeki adlardan Luka'nın neredeyse kesinlikle Lykialılar, Kelekesh'in muhtemelen Kilikyalılar, ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ramses'in beşinci yılındaki Libya savaşında Anadolu'nun güney kıyısındaki toplulukların ve Ege'nin denizci halklarının ileri gemilerinden bir bölümünün Libyalıl",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sunuşun çizdiği tablo, silahlı bir sefer tasvirinden çok bir yer değiştirme tasviridir: kalabalıklar eşleri, çocukları ve eşyalarıyla, ağır öküz arabalarıyla yo",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İklim kanadının açık erişimli çalışması meseleyi bir sıralama sorusu olarak kurar: Mısır kabartmaları ile çiviyazılı metinler çöküşün yakın nedenini Deniz Kavim",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı çalışmaya göre bu kuram Deniz Kavimleri'ni \"not a bunch of pirates\" olarak, yani Yakın Doğu'nun zenginliği peşindeki korsanlar değil, yaşanmaz hâle gelmiş ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Deniz, Kavimleri, Yakın, Doğu"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı makale kendi kuramına da çekince koyar: iklimin eski toplumları biçimlendirmedeki rolü tartışmalıdır, çünkü doğrudan nedensellik kanıtlanamamaktadır ve bu ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kuraklık tezinin ilk olarak Carpenter tarafından ileri sürüldüğünü, zaman içinde değişse de özünü koruduğunu ve Drews'in çalışmalarının tartışmayı yeniden açtığ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Askalon kazısından alınan on Tunç ve Demir Çağı bireyinin genom verisi, kimlik sorusuna maddi ölçümle değen ayrı bir kanıt dizisi ekler; makale bu bölge için Ge",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tunç, Demir, Çağı, Geç"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Sonuç şudur: erken Demir Çağı nüfusu, Avrupa ile ilişkili bir karışım yüzünden genetik olarak farklıdır; bu iz geç Demir Çağı nüfusunda artık görülmez ve makale",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı makale ölçümün sınırını da yazar: coğrafi ve zamansal örnekleme boşlukları yüzünden bu karışıma kaynaklık etmiş olabilecek nüfuslar veri kümesinde hiç bulu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İklim çalışmasının derlediği listede birbirini dışlamayan başka nedenler de vardır — doğal afetler, teknolojik yenilikler, iç çöküşler ve eşitsizlikten doğan si",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yazıt beş ayrı ad sayar ve çevirinin sunuşu bunların bir kısmını açıkça belirsiz kökenli bırakır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Üçüncüsü, bu adları belirli bir modern halkla özdeşleştirmektir; ne yazıt ne genom verisi böyle bir denklem taşır, üstelik Askalon'daki genetik iz geç Demir Çağ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Askalon, Demir, Çağı"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sekizinci yıl yazıtı, düşmanın tohumunun kalmadığını ve devrilenlerin bir daha dönmeyeceğini ilan eder; bu, bir sayım değil bir iddiadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İklim tarafının açık erişimli çalışması bu üç başlığı tek bir sıralama sorusunda birleştirir ve kendi sonucunu da doğrudan nedenselliğin kanıtlanamadığı çekince",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir küme adı, altındaki adların tek tek ne kadar az bilindiğini gizleyebilir; grupların çoğunun karadan geldiği düşünüldüğü hâlde adın denizi öne çıkarması bunu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

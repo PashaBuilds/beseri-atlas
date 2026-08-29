@@ -16,6 +16,7 @@ etiketler: ["1857", sipahi, hindistan, dogu-hindistan-sirketi, ayaklanma, adland
 ilgili:
   - donem-12
   - aktor-ingiliz-doguhindistan-sirketi
+  - aktor-avam-kamarasi
   - aktor-babur-imparatorlugu
   - aktor-britanya-imparatorlugu
   - olay-plassey-1757

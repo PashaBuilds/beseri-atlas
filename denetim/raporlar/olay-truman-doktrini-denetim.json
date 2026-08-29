@@ -1,0 +1,207 @@
+{
+  "id": "olay-truman-doktrini",
+  "gecis": 2,
+  "zaman": "2026-08-29T23:55:03.733Z",
+  "govde_hash": "b2b3618b5cac",
+  "commit": "a342b7db",
+  "sonuclar": [
+    {
+      "anahtar": "k4",
+      "iddia": "Yunanistan'a ilişkin olanı, Britanya hükümetinin Yunan silahlı kuvvetlerinin döviz maliyetini 31 Mart'a kadar ödemeyi kabul ettiğini, bunun 1946 boyunca ve 1947",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı not, Yunan ordusunun 100.000 kişilik bir kadro üzerinden kurulduğunu ve Birleşmiş Milletler uzmanlar komitesinin Yunanistan'ın 1947 yardım ihtiyacını 21 mi",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Türkiye'ye ilişkin olanı daha kısaydı ve sonucu daha açık söylüyordu: Britanya Genelkurmayı Türk kuvvetlerinin çok geniş ölçüde yeniden teçhiz edilmesi gerektiğ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Notun dayandığı üç saptama şuydu: Türk bağımsızlığının sürmesi büyük önem taşıyordu, Türk silahlı kuvvetleri o hâliyle birinci sınıf bir gücün saldırısına etkil",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türk"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Konuşmanın en çok anılan yeri hiçbir ülke adı taşımaz: Truman'a göre Birleşik Devletler'in politikası, silahlı azınlıklarca ya da dışarıdan gelen baskıyla boyun",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Truman Yunanistan'ın hâlini ayrıntıyla anlattı: geri çekilen Alman kuvvetleri demiryollarını, karayollarını, liman tesislerini, haberleşmeyi ve ticaret filosunu",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı konuşmada Kongre'den 30 Haziran 1948'de sona erecek dönem için 400 milyon dolarlık yetki, iki ülkeye Amerikalı sivil ve askerî personel görevlendirme izni ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Biri evrenseldi ve koşul içermiyordu; Truman özgür halkların kendi yazgılarını kendi yollarınca kurmasına yardım edilmesi gerektiğini, bu yardımın da esas olara",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Öteki bir bütçe kalemiydi ve baştan sona koşulluydu: para belirli iki hükümete, belirli bir tarihe kadar, Amerikan gözetimi altında verilecekti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Truman, durumun acil olduğunu ve Birleşmiş Milletler ile ona bağlı kuruluşların gereken türden yardımı verecek konumda bulunmadığını söyledi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı konuşma birkaç paragraf önce, Güvenlik Konseyi'nin atadığı bir komisyonun o sırada Kuzey Yunanistan'daki karışıklıkları ve Yunanistan ile Arnavutluk, Bulga",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Güvenlik, Konseyi, Kuzey, Yunanistan"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "O komisyon Konsey'in 19 Aralık 1946 tarihli kararıyla, Şart'ın 34. maddesine dayanılarak ve en geç 15 Ocak 1947'de bölgeye gitmek üzere kurulmuştu.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yasa 22 Mayıs 1947'de imzalandığında dil yeniden yumuşadı: Truman, iki üye devlete yapılan yardımın Birleşmiş Milletler'inkiyle özdeş amaçları ilerlettiğini ve ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İmza günü verilen taahhüt açıktı: Truman, uzatılan yardımın Yunanistan ile Türkiye'nin bütün halklarına yarayacağından, \"not any particular group or faction\" gi",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "7 Kasım 1947'de Kongre'ye sunduğu ilk üç aylık raporda Truman, Yunanistan'da askerî harekâtın yoğunlaşmasının \"transfer of funds from the economic to the milita",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı rapor, Avrupa çapındaki kuraklık ve gerilla faaliyeti yüzünden Yunan tahıl hasadının düştüğünü, dolayısıyla gıda ithalatına ayrılacak dövizin ilk tahminler",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Washington 29 Ekim 1947'de, düzenli orduyu kalıcı olarak 10.000 kişi büyütme kararının yerine, tahminen 32 taburluk ve 16.000 kişilik bir ulusal savunma kolordu",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Doktrin iki ülkeyi tek bir gerekçede birleştirdi ama Truman'ın kendisi de durumlarının hayli farklı olduğunu kabul ediyordu: Türkiye Yunanistan'ın başına gelen ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Truman'ın Türkiye için verdiği gerekçe bölgeseldi: ülkenin bütünlüğü Orta Doğu'da düzenin korunması bakımından zorunluydu ve Britanya kendi güçlükleri yüzünden ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Britanya'nın Türkiye notu bu ihtiyacın iç yüzünü de anlatıyordu: Türkiye cari döviz gereksinimini ihracatıyla karşılayabiliyor ve mevcut sanayisini dışarıdan pa",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Türkiye programa bir iç ayaklanma yüzünden değil, Boğazlar üzerindeki Sovyet baskısı ve Britanya yardımının 1947'de kesilmesi yüzünden girdi; ülkeye 100 milyon ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Truman Yunan hükümetinin kusursuz olmadığını, hata yaptığını ve yardımın onun her yaptığını onaylamak anlamına gelmediğini söyledi, sağdan ya da soldan gelen aş",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Bu savunma daha ilk günden tartışma konusu oldu: yardımın gittiği düzenin bir demokrasi değil baskıcı bir yönetim olduğu o sırada da ileri sürüldü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Konuşma taslağı dolaştırıldığında George Marshall, George Kennan ve başkaları metni fazla \"rhetoric\" taşımakla eleştirdi; Truman'ın karşılığı, Arthur Vandenberg",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kongre'de yalıtılmacı kanadın kuşkuları — özellikle Robert A. Taft'ınkiler — yine Vandenberg'in desteğiyle aşıldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Köşe yazarı Walter Lippmann taahhüdün ucu açık niteliğine dikkat çekti ve doktrini Dean Acheson'la tartışırken neredeyse kavgaya tutuşacak kadar ileri gitti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Oradaki Amerikan maslahatgüzarının Dışişleri Bakanlığı'na özetlediğine göre Pravda'da G. Vershinin imzasıyla çıkan yazı, Türkiye'ye yapılan yardımın askerî hükü",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Konuşmanın tarihi doğrudur ama cümlenin kendisi bir olgu tespiti değil bir savdır; hangi tarihin başlangıç sayılacağı ve sorumluluğun nereye düştüğü haritasında",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ortada bir konuşma ve iki ülkeye tek bir malî yıl için para veren bir yasa vardı; genel taahhüt sonradan ve gayriresmî biçimde okundu, doktrinin Avrupa'nın ve d",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ortada bir konuşma ve iki ülkeye tek bir malî yıl için para veren bir yasa vardı; genel taahhüt sonradan ve gayriresmî biçimde okundu, doktrinin Avrupa'nın ve d",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Programın kendi raporu iktisadi kalemden askerî kaleme aktarım yapıldığını yazar; yani doktrinin dili ile uygulaması arasındaki fark dışarıdan bir eleştiri deği",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Sonraki değerlendirmelerin ikisi buraya ikinci elden, giriş kapısı olarak kullanılan ansiklopedi maddesi üzerinden geliyor: o maddeye göre Eric Foner doktrinin,",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Konuşmanın kendisi bu soruyu çözmez; çünkü aynı metin hem sınırsız bir ilkeyi hem de 30 Haziran 1948'de sona eren dar bir bütçe kalemini taşır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    }
+  ]
+}

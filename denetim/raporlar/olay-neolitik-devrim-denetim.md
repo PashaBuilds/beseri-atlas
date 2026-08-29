@@ -1,5 +1,5 @@
 ## olay-neolitik-devrim
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:02.826Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T21:37:44.239Z_
 
 - [OK]      k2 → ""Neolitik devrim" terimini V. Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı; terimi…"
 - [OK]      k1 → ""Neolitik devrim" terimini V. Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı; terimi…"

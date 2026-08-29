@@ -1,0 +1,201 @@
+{
+  "id": "aktor-bm-guvenlik-konseyi",
+  "gecis": 2,
+  "zaman": "2026-08-29T21:46:39.032Z",
+  "govde_hash": "36273fbf5a31",
+  "commit": "bf4bb9c",
+  "sonuclar": [
+    {
+      "anahtar": "k3",
+      "iddia": "2 Haziran 1945 akşamı Washington'dan Moskova'ya, Büyükelçi Harriman'a çekilen telgraf konferansta çok ciddi bir krize varıldığını bildirir: Sovyet delegesi Grom",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Amerikan tarafının yanıtı serttir: böyle bir kısıtın, önerilen dünya örgütünün tamamını \"would make a farce of the whole proposed world organization\" hâline get",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şart, Genel Kurul'a sorunları görüşme ve üyelere ya da Konsey'e tavsiyede bulunma yetkisi tanır; Konsey'in kararları için ise üye devletlerden kabul ve uygulama",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Genel, Kurul, Konsey"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Merkezî sav budur: veto sonradan eklenmiş bir kusur değil, büyük güçlerin kurumun içinde kalmasının bedelidir — ve kapsamı 1945 Haziranında ayrıca pazarlık edil",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şart, Konsey'e uluslararası barış ve güvenliğin korunmasında \"birincil sorumluluk\" verir ve üyelerin, Konsey'in bu görevi yerine getirirken onların adına hareke",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Konsey"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hemen ardından gelen 25. madde asıl düğümdür: üyeler, Konsey'in kararlarını kabul etmeyi ve uygulamayı taahhüt eder.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Konsey"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Altıncı bölüm, tarafları önce görüşme, arabuluculuk, hakemlik ya da yargıya başvurma gibi barışçı yollara çağırır ve Konsey'e uygun usul ve yöntemleri tavsiye e",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Konsey"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yedinci bölüm ise farklı bir dile geçer: 39. madde uyarınca Konsey barışa yönelik bir tehdidin, barışın ihlalinin ya da saldırı eyleminin varlığını saptar ve ne",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Konsey"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Konsey bugün on beş üyeden oluşur; 23. madde daimî üyeleri Çin Cumhuriyeti, Fransa, Sovyet Sosyalist Cumhuriyetler Birliği, Büyük Britanya ve Kuzey İrlanda Birl",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Metnin bu adları kuruluştaki hâliyle taşıması koltukların el değiştirmediği anlamına gelmez: veto kaydı eski oyları Sovyetler Birliği, yeni oyları Rusya Federas",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kuruluştaki tablo daha dardı: Şart'ın 23. maddesi başlangıçta Konsey'in on bir üyeden oluşacağını ve Genel Kurul'un altı seçilmiş üye seçeceğini yazıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Şart, Konsey, Genel, Kurul"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Genişleme 17 Aralık 1963'te Genel Kurul'ca kabul edilen değişiklikle geldi ve 31 Ağustos 1965'te yürürlüğe girdi; aynı değişiklik paketi karar eşiğini de yedide",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bugünkü 27. madde, usule ilişkin kararların dokuz olumlu oyla, öteki bütün kararların ise daimî üyelerin olumlu oylarını içeren dokuz olumlu oyla alınacağını sö",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metnin kendisi bu genişlemenin izini taşır: 23. maddede, üyeliğin on birden on beşe çıkışından sonraki ilk seçimde eklenen dört üyeden ikisinin bir yıllığına se",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "28. madde, Konsey'in sürekli çalışabilecek biçimde örgütlenmesini ister ve bu amaçla her üyenin örgüt merkezinde her an temsil edilmesini şart koşar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Konsey"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Yılda bir toplanan bir kurul değil, hiç dağılmayan ve gece yarısı çağrılabilen bir organ tasarlanmıştır; 25 Haziran 1950'de toplanıp aynı gün karar alabilmesi b",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "7 Haziran 1945 öğleden sonra toplanan beş gücün on yedinci gayriresmî danışma toplantısında Gromiko, Sovyet hükümetinin Yalta anlaşmasını bağlayıcı saymayı sürd",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Sovyet delegasyonunun dağıttığı değişiklik metni, dört kurucu gücün oylama bildirisindeki cümleyi şu hâle getirir: Güvenlik Konseyi'nin tek bir üyesi, Konsey'in",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Güvenlik, Konseyi, Konsey"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı belge, istisnanın olabildiğince dar tutulmak istendiğini de gösterir — Sovyet önerisi, istisnanın başka paragraflara yayılmasını önlemek için ele alma ve t",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sovyet"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "25 Haziran 1950'de Konsey, Kuzey Kore kuvvetlerinin Kore Cumhuriyeti'ne yönelik silahlı saldırısını barışın ihlali sayan 82 sayılı kararı aldı; karar, 473. topl",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Metnin dipnotu kuru bir cümle taşır: bir üye — Sovyetler Birliği — toplantıda bulunmuyordu.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aritmetik ayrıca dönemin Konsey'ini gösterir: on bir üyeli bir organda dokuz olumlu oy, bir çekimser ve bir boş sandalye.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Konsey"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Dag Hammarskjöld Kütüphanesi'nin tuttuğu veto listesinin en eski kaydı 16 Şubat 1946 tarihlidir: Lübnan ve Suriye delegasyon başkanlarının Genel Sekreter'e yazd",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "13 Eylül 1949'da tek oturumda yedi başvuru arka arkaya engellendi — Seylan, Avusturya, İrlanda, Finlandiya, İtalya, Ürdün (kayıtta Transjordan) ve Portekiz — al",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Listenin son ucunda gündem başkalaşır: 2022'den 2026'ya kadarki kayıtlar Ortadoğu ve Filistin sorunu ile Ukrayna maddelerinde yoğunlaşır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bu listeyi okurken kendi çekincesini de taşımak gerekir: derleyicisi, 1946-2004 arası verinin A/58/47 belgesinin üçüncü ekindeki resmî listeden alındığını ve ka",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Konsey sekretaryasının kendi usul anlatımı ise vetonun ikizini kaydeder: bir daimî üye bir tasarıyı tümüyle onaylamıyor ama vetoya da başvurmak istemiyorsa çeki",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kuruluş belgeleri başka bir şey gösterir: 1945 Haziranındaki kriz vetonun varlığı üzerinde değil, kapsamının nereye kadar uzanacağı üzerinde çıkmıştı — Sovyet t",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kuruluş belgeleri başka bir şey gösterir: 1945 Haziranındaki kriz vetonun varlığı üzerinde değil, kapsamının nereye kadar uzanacağı üzerinde çıkmıştı — Sovyet t",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Konsey'in bileşimini değiştirmek Şart'ı değiştirmek demektir ve 108. madde, değişikliğin Genel Kurul üyelerinin üçte ikisinin oyuyla kabul edilmesini ve üye dev",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Şart, Genel, Kurul, Güvenlik"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, reformun imkânsız olduğunu söylemez; 1965 genişlemesi olmuştur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Dağılımın bugünkü hâli sayıyla da okunabilir: Konsey'in kendi sayfası, 1946'dan bu yana hiç seçilmiş üye olmamış elli sekiz ülke sayar.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    }
+  ]
+}
