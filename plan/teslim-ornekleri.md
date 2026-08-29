@@ -412,3 +412,44 @@ kayıtlı).
     Said'in tarifini Kanunların Ruhu'na bağlayan, maddenin kendisi
     değil makalenin okuması. Bu cümle, atlasın en zor disiplinidir:
     kurduğun bağın kaynağa mı sana mı ait olduğunu okura söylemek.
+
+## L. Aracın körlüğü bir uydurmayı yaşatıyordu
+
+61. **Cümle bölücüsü ve "v."** Kavram katmanının kölelik hakemi,
+    `denetle.mjs` ile `matris.mjs`'in ortak cümle bölücüsünün hukuk davası
+    adlarındaki noktayı cümle sonu saydığını buldu: "Somerset v. Stewart"
+    iki parçaya bölünüyor, iddia parçalanıyor ve referanslar yanlış
+    parçaya düşüyordu. Hakemin kendi ifadesiyle bu, o dosyadaki
+    **uydurma bir olgunun denetimden kaçmasının nedeniydi**. Bu, aracın
+    körlüğünün bir hatayı yaşattığı en somut örnek: kapı "0 HATA"
+    diyordu çünkü ölçtüğü şey artık bir iddia değildi.
+    Kısaltma istisnası eklendi (v., bkz., s., Dr., Prof., "J. S. Mill"
+    gibi tek harfli baş harfler) ve korpusun 1024 raporu yenilendi.
+
+62. **OCR varyantı sağlam künyeyi düşürebiliyordu.** Majapahit hakemi,
+    archive.org taramasında `Phalguna` yerine `Phdlguna` yazdığını ve
+    `--ara`nın bulamadığını ölçtü; aynısı `nusantara` → `niisantara`
+    için de geçerli. Kör hakem bu durumda sağlam bir künyeyi haksız yere
+    düşürür. Araç artık dize bulunamadığında sorgunun uzun sözcüklerini
+    tek harf toleransıyla yeniden arıyor ve varyant bulursa bildiriyor —
+    hükmü değiştirmeden, hakeme bilgi vererek.
+
+63. **`--tam` her zaman "daha fazla" demek değil.** İki ayrı hakem iki
+    ayrı yön ölçtü: birinde önbellek kopyasında kitabın önsözü varken
+    `--tam` onsuz başlıyordu; ötekinde `--tam` önbellekten daha KISA metin
+    döndürdü (259k'ya karşı 400k). "Sınırı aşar" beklentisi ikisinde de
+    yanıltıcıydı. `--ara` artık `--tam` kipinde önbellek sürümünü de
+    sınıyor, iki hükmü birlikte basıyor ve ayrışmada açık uyarı veriyor.
+
+64. **Bir olay: hakemin `git checkout`'u onarım çıktısını sildi.**
+    Bağlantısızlar hakemi, biçimsel bir düzeltmeyi geri almak için
+    `git checkout` çalıştırdı ve dosya 240 kelimelik onarım öncesi hâline
+    döndü — çünkü onarım çıktısı henüz commit edilmemişti. Ajan kendi
+    bağlamından birebir yeniden yazarak kurtardı. Kök neden boru
+    tasarımıydı: iş akışı onarım ve hakem adımlarını aralarına girmeden
+    yürütüyor, dolayısıyla onarım çıktısı hakem başlarken commit'siz
+    duruyor ve iş akışı içinden commit atılamıyor. Gerçek çözüm on üç
+    çekirdek prompta yazılan mutlak yasak oldu: `git checkout / restore /
+    reset / stash / clean / revert` hiçbir koşulda çalıştırılmaz, çünkü
+    çalışma ağacındaki her dosya henüz commit edilmemiş bir başka
+    oturumun işi olabilir.
