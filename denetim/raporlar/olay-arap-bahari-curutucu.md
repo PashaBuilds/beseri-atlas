@@ -1,26 +1,12 @@
 # Çürütücü raporu — olay-arap-bahari
-_2026-08-21T07:49:57.294Z_
+_2026-08-29T15:34:12.856Z_
 
-## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
+## Zayıf bulunmayan alanlar
 
-**Cümle:** "Bu dalganın referans maddesi tek bir tarih vermez; ülke ülke ayrı tarihler sıralar: Tunus 2010-2011, Mısır 2011, Libya 2011, Suriye 2011-2024, Birleşik Arap Emirlikleri 2011, Yemen"
+Programatik tarama, §10'da sayılan yedi zayıflık tipinde (tek kaynaklı
+nedensellik, atıfsız kesinlik dili, üstünlük iddiası, kapsam çarpıtması,
+anakronizm, yetersiz pozisyon, ince kanıt tabanı) itiraz adayı bulamadı.
 
-**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
-
-**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
-
-## İtiraz 2 — [ciddiyet: dusuk] ustunluk-iddiasi
-
-**Cümle:** "Bir ülkenin süresinin on dört yıla uzarken diğerlerinin tek bir yıl olarak verilmesi,[^k1] "dalga" nitelemesinin başlangıçları birleştirdiğini ama sonuçları birleştirmediğini göste"
-
-**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
-
-**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
-
-## İtiraz 3 — [ciddiyet: orta] tek-kaynakli-nedensellik
-
-**Cümle:** "Aynı yapıda bir önceki dalga için de iki okuma kayıtlıdır; o kayda göre birçok tarihçi 1848 devrimlerini kalıcı yapısal değişikliklerin görünürdeki yokluğu nedeniyle bir başarısızl"
-
-**Sorun:** Nedensellik iddiası tek kaynağa (k2) dayanıyor.
-
-**Öneri:** İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla.
+Bu, makalenin doğru olduğu anlamına gelmez; bu yedi kalıptan hiçbirinin
+tetiklenmediği anlamına gelir. Sayısal ve ad düzeyindeki doğrulama Geçiş 2,
+bağımsız yeniden türetme Geçiş 4 raporlarındadır.

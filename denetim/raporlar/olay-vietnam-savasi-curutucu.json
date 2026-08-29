@@ -1,14 +1,50 @@
 {
   "id": "olay-vietnam-savasi",
   "gecis": 3,
-  "zaman": "2026-08-21T07:21:15.600Z",
+  "zaman": "2026-08-29T15:40:45.982Z",
+  "govde_hash": "a4afe3c1222e",
   "itirazlar": [
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Kaynak, kayıpları ayrı bir bölüm olarak ele alır ve tarafları da ayrı ayrı sıralar.[^k1] Atlas bu bölümden tek bir toplam üretmez.",
+      "cumle": "5 Ağustos 1964'te başkan kongreye seslendi: kuzey rejiminin uluslararası sularda seyreden Amerikan savaş gemilerine yeni ve kasıtlı saldırılar düzenlediğini, bunun üzerine hava har",
       "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Mesajın çerçevesi de dikkat çekicidir. Başkan, bölgeye dair taahhüdün ilk kez 1954'te Eisenhower tarafından verildiğini ve senatonun Şubat 1955'te onayladığı ortak savunma antlaşma",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Savaş bu arada komşu ülkelere taştı. 30 Nisan 1970'te Kamboçya'ya girildi — sınırdan otuz kilometrelik şeritle ve haziran sonuyla sınırlı bir harekât — ve bu karar kampüslerde sert",
+      "sorun": "Nedensellik iddiası tek kaynağa (k6) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Savaş bu arada komşu ülkelere taştı. 30 Nisan 1970'te Kamboçya'ya girildi — sınırdan otuz kilometrelik şeritle ve haziran sonuyla sınırlı bir harekât — ve bu karar kampüslerde sert",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Anlaşma savaşı bitirmedi: kaynağın kaydına göre Vietnamlı tarafların ikisi de anlaşmaya uymadı.[^k6] Nixon, Thieu'yu ikna etmek için ihlal hâlinde Amerika'nın çok sert ve hızlı tep",
+      "sorun": "Nedensellik iddiası tek kaynağa (k6) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Vietnam tarafında karşılaştırılabilir bir personel kütüğü kamuya açık değil; boşluğu tahminler dolduruyor. Dünya Sağlık Anketi'nin kardeş ölümü verisini kullanan 2008 tarihli bir ç",
+      "sorun": "Makale dogu-asya/amerika kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
     }
   ]
 }

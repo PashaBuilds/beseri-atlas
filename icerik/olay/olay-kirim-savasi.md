@@ -103,10 +103,11 @@ yerlerinin hangi kilisenin yönetiminde olacağı tartışmasıydı; savaşan ta
 hiçbiri sonunda o kutsal yerler için savaşmadı.[^k1]
 
 Savaşı ağırlıklı kılan, kazanılan mevziler ya da yer değiştiren sınırlar
-değildir. Birincisi, ölülerin ezici çoğunluğunu muharebe değil hastalık verdi;
+değildir. Birincisi, ölülerin çoğunluğunu muharebe değil hastalık verdi;
 oran taraf raporlarının kendisinde yazılıdır — Sivastopol önünde hastalıktan
-düşenler kılıçla düşenlerin yedi katından fazlaydı ve aynı örüntü bütün
-ordularda tekrarlanır.[^k3][^k4] İkincisi, bir barış antlaşması ilk kez büyük
+düşenler kılıçla düşenlerin yedi katından fazlaydı. Bu yön bütün ordularda
+aynıdır, büyüklüğü değil: fark, kaydı kimin tuttuğuna göre yedi kattan kıl
+payına iner.[^k3][^k4] İkincisi, bir barış antlaşması ilk kez büyük
 bir gücün deniz kuvvetini kalıcı olarak kısıtladı ve o kısıtı bozan da yine bir
 antlaşma oldu.[^k2] Üçüncüsü, cephenin telgrafla ve canlı muhabirlikle
 aktarıldığı ilk savaştır; aynı cephe fotoğrafla da belgelendi.[^k1]
@@ -134,9 +135,11 @@ Kırım'da yapılan şey, bu çerçevenin silahla sınanmasıydı.
 Zincirin ilk halkası Paris'te çekildi. Napoléon III, Fransa'nın büyüklüğünü
 yeniden kurma hedefiyle Filistin'deki Hristiyan nüfus üzerinde egemen bir yetki
 iddia etti ve Katolik Kilisesi'nin kutsal yerlerdeki üstünlüğünü tanıyan bir
-antlaşmayı Osmanlı yönetimine kabul ettirdi.[^k1] Rusya bu değişikliği 1774
-tarihli Küçük Kaynarca Antlaşması'na dayanarak reddetti; Çar Birinci Nikolay
-ordusunu Tuna boyuna yığdı.[^k1]
+antlaşmayı Osmanlı yönetimine kabul ettirdi.[^k1] Rusya bu değişikliğe itiraz
+etti; Babıali de 1757 ve 1774 tarihli iki önceki antlaşmaya dayanarak kararından
+döndü, Fransız antlaşmasını geri aldı ve Ortodoksların koruyucusunun Rusya
+olduğunu ilan etti. Bunun üzerine Çar Birinci Nikolay ordusunu Tuna boyuna
+yığdı.[^k1]
 
 Şubat 1853'te İstanbul'a gönderilen Prens Menşikov, Osmanlı topraklarındaki 12
 milyon Ortodoks üzerinde Rus himayesi ve kilise hiyerarşisi üzerinde denetim
@@ -148,30 +151,46 @@ metninin teyidini istediğini savunur.[^k1]
 
 30 Kasım 1853'te altı Rus saf gemisi ile beş küçük savaş gemisi, limanda
 demirlemiş on bir Osmanlı gemisini kıyı topçusunun koruması altındayken imha
-etti; Sinop, çatışmayı bir Avrupa savaşına çeviren kıvılcım oldu.[^k1] Britanya
-ve Fransa savaşı 27 ve 28 Mart 1854'te ilan etti.[^k1]
+etti; Sinop, çatışmayı bir Avrupa savaşına çeviren kıvılcım oldu.[^k1] Fransa
+ve Britanya savaşı 27 ve 28 Mart 1854'te ilan etti.[^k1]
+
+## Savaşı açan taraf sonradan gelenler değildi
+
+Takvim, savaşı bir Avrupa savaşı sayan alışkanlığı düzeltir. Rus birlikleri
+Temmuz 1853'te Tuna prensliklerini işgal edince Osmanlı Devleti Ekim 1853'te
+savaş ilan etti; Britanya ile Fransa cepheye ancak beş ay sonra, Sinop'un
+yarattığı kamuoyu öfkesiyle katıldı ve Rus ilerleyişi 1854 Haziranında Silistre
+önünde durduruldu.[^k1] Doğu'da savaş baştan sona Osmanlı ordusuyla yürüdü:
+Kafkas cephesinde Osmanlı kuvvetleri 1855 Mayısına kadar 120 binden 75 bine
+indi, kaybın büyük bölümü yine hastalıktandı; kuşatılan Kars 28 Kasım 1855'te
+teslim oldu.[^k1] Paris'te Rusya, Kars kalesini ve elinde tuttuğu diğer Osmanlı
+topraklarını geri verdi; müttefikler de Sivastopol ile Balaklava'yı Rusya'ya
+iade etti.[^k1]
 
 Nedenler üzerinde tek bir okuma yoktur. Bugün tarihçilerin çoğu kutsal yerler
 meselesini bir bahane sayar; Vinogradov'un temsil ettiği çizgi Rus taleplerinin
 sınırlı olduğunu vurgular; A. J. P. Taylor ise savaşı hiçbir tarafın geri
 adım atamadığı bir prestij kilidiyle açıklar ve nedeni "karşılıklı saldırganlık
-değil karşılıklı korku" olarak koyar.[^k1]
+değil karşılıklı korku" olarak koyar. Aynı Taylor, Britanya bakımından savaşın
+"Türkiye lehine değil, Rusya'ya karşı" yürütüldüğünü de söyler.[^k1] Bu üç
+konum da kendi metinlerinden değil, bir ansiklopedi maddesinden aktarılıyor.[^k1]
 
 ## Hastalık cepheden önce geldi
 
 Salgın, ilk kurşundan önce başladı. The Times muhabiri William Howard Russell,
 1854 yazında Gelibolu ve Varna kamplarında koleranın yüzlerle ölçülen ölümlere
 yol açtığını, Fransız komutanın da bu yüzden birliklerini Dobruca'ya
-yürüttüğünü yazar.[^k5] Düşmanla hiçbir ciddi temas kurmayan bu harekât
-Fransızlara yedi binden fazla adama mal oldu; Russell'ın kaydına göre 31 Temmuz
-sabahı bir tümenin kampı, yaşayanların ölüleri gömmeye yetişemediği bir
-hastaneye dönmüştü.[^k5]
+yürüttüğünü yazar.[^k5] Russell bu harekâtı savaş tarihinin en sonuçsuz ve
+acıklı seferlerinden biri sayar; Fransızlara yedi binden fazla adama mal oldu ve
+1 Ağustos günü Kostence'ye varan General Canrobert kendi kampını, yaşayanların
+arkadaşlarını gömmeye ancak yetişebildiği bir hastane hâlinde buldu.[^k5]
 
 Kırım'daki tablo daha ağırdı. Florence Nightingale'in kendi raporuna göre
 Ekim 1854 ile Nisan 1855 arasındaki yedi ayda ordunun sürekli hasta oranı yüzde
 38,9'a çıktı — yani Sivastopol önündeki mevcudun ancak yüzde 61'i göreve
-elverişliydi.[^k3] Sekiz aylık ortalamada ölüm, bütün kuvvetin yıllık yüzde
-60'ına denk düşüyordu.[^k3]
+elverişliydi; Nightingale bu oranların kesin olmadığını, sıhhi amaçla kaba bir
+fikir verdiğini kendisi yazar.[^k3] Sekiz aylık ortalamada ölüm, bütün kuvvetin
+yıllık yüzde 60'ına denk düşüyordu.[^k3]
 
 ## Ölüm defteri ve tutmayan sayılar
 
@@ -195,7 +214,10 @@ karşılık 10.889 ölüm görülürken, 1855-1856 kışında 27.384 hasta ve ya
 karşılık yalnızca 606 ölüm kaydedildi; aynı iki kışta Fransız ordusunda ölüm
 10.934'ten 21.190'a çıktı.[^k4] Derleme bu farkı hekimlerin bilgisine bağlamayı
 açıkça reddeder: Britanyalı hekimlerin Fransız meslektaşlarından daha bilgili ya
-da becerikli olduğunu düşündürecek bir sebep yoktur.[^k4] Aynı sayfada aktarılan
+da becerikli olduğunu düşündürecek bir sebep yoktur. Derlemenin kendi açıklaması
+ikilidir — Britanya ordusu ilk kışın dersiyle ikinci kışa çok daha iyi
+örgütlenmiş, barınmış ve iaşe edilmiş girdi, ama aynı kışta muharebeye de pek az
+katıldı; Fransızlar harekâtı kesintisiz sürdürdü.[^k4] Aynı sayfada aktarılan
 Rus cerrah Pirogov'un hükmü de aynı yöne bakar: hasta ve yaralının bakımında
 belirleyici olan tıp değil, yönetimdir.[^k4]
 
@@ -214,19 +236,28 @@ değil, ölçüm imkânının haritasıdır.
 ## Scutari'de efsane ile ölçülen etki
 
 Nightingale'in adı savaşla birlikte anılır ama kendi raporu, kolay bir kurtarıcı
-anlatısına izin vermez. Boğaz'daki hastanelerde hastalar bir dönem yıllık yüzde
+anlatısına izin vermez. Britanya ordusunun büyük hastaneleri İstanbul'daydı;
+Boğaz'ın bu hastanelerinde hastalar bir dönem yıllık yüzde
 235'lik bir hızla ölüyordu ve tedavi edilenlerin neredeyse üçte biri hayatını
 kaybediyordu.[^k3] Sanitary Commission'ın Scutari'de kanalizasyon ve
 havalandırma
 işlerine başladığı tarihte tedavi edilenlerdeki ölüm binde 315'ti; işler
-tamamlanmaya yaklaştığında aynı oran binde 22'ye indi.[^k3] Aynı rapor
-kayıtlarında iskorbütün önceden beklendiği, limon suyunun ise geç ulaştığı da
-yazılıdır.[^k3]
+tamamlanmaya yaklaştığında aynı oran binde 22'ye indi.[^k3] Aynı rapor,
+sorunun çoğu kez tedarik değil dağıtım olduğunu gösterir: iskorbüt önceden
+beklenmişti, limon suyu yükü de aralık 1854'te boşaltılmıştı, ama varlığı ancak
+24 Ocak 1855'te fark edildi ve düzenli tayın hâline gelmesi şubatın ilk
+haftasını buldu.[^k3]
 
 Efsanenin çatladığı yer zaman sırasıdır. Hemşire ekibinin Boğaz'a ulaşmasından
-sonraki aylarda tablo düzelmedi: aynı rapor, Britanya hastanelerinin birkaç ay
-boyunca hastaların neredeyse üçte birini kaybettiğini, Kulali'de ise bir ay
-içinde tedavi edilenlerin yarısından fazlasının öldüğünü yazar.[^k3] Keskin
+sonraki aylarda tablo düzelmedi, ağırlaştı. Nightingale'in resmî dönüşlerden
+derlediği çizelgede Scutari'de 1 Ekim–4 Kasım 1854 arasında binde 58 olan ölüm,
+Scutari ile Kulali birlikte sayıldığında ocak sonunda binde 147'ye, şubat sonunda
+binde 182'ye çıkar; yalnız Kulali'de şubat ayı binde 245'tir. Nightingale bu
+çizelgeyi gerçek ölümlülüğün ölçüsü olarak değil, resmî hesap yönteminin
+ölümlülüğü olduğundan hafif gösterdiğine örnek olarak verir.[^k3] Aynı rapor,
+Britanya hastanelerinin birkaç ay boyunca hastaların neredeyse üçte birini
+kaybettiğini, Kulali'de ise bir ay içinde tedavi edilenlerin yarısından
+fazlasının öldüğünü yazar.[^k3] Keskin
 düşüş, kanalizasyon ve havalandırma işlerinin tamamlanmasıyla aynı zamana
 düşer; çakışma tek başına nedensellik kanıtı değildir ama sıralamayı sabitler.
 
@@ -267,27 +298,31 @@ günde, Britanya 1855 Nisan'ında denizaltı kablosunu döşediğinde birkaç sa
 ulaşmaya başladı.[^k1] Günlük haberlerin kamuoyunda yarattığı basınç, Aberdeen
 hükûmetini düşürüp Palmerston'ı başbakanlığa taşıdı.[^k1]
 
-Görüntü tarafı daha seçiciydi. Roger Fenton'ın 1855'te Kırım'da çektiği ve cam
-negatiften tuzlu kâğıda basılan karelerden biri, müze kaydına Balaklava'daki
-demiryolu depolarının çıkarma yeri adıyla girmiş bir liman sahnesidir.[^k7]
-Cephe fotoğrafçılığının ilk örnekleri ölüyü değil lojistiği ve portreyi
-çerçeveler; savaşın metinle aktarılan yüzü ile görüntüyle aktarılan yüzü daha
-ilk denemede birbirinden ayrılır.
+Kameranın getirdiği şey aynı şey değildi. Roger Fenton'ın 1855'te Kırım'da
+çektiği ve cam negatiften tuzlu kâğıda basılan karelerden biri, müze kaydına
+Balaklava'daki demiryolu depolarının çıkarma yeri adıyla girmiş bir liman
+sahnesidir.[^k7] Savaşın en çok bilinen fotoğrafı ise yine Fenton'ın Ölüm
+Gölgesi Vadisi'dir; cepheyi belgeleyen öteki ad, portreleriyle James
+Robertson'dır.[^k1] Bu birkaç kare, cephe fotoğrafçılığının neyi çerçeveleyip
+neyi dışarıda bıraktığına dair genel bir hüküm vermeye yetmez.
 
 ## Paris'te yazılan, Londra'da bozulan
 
-Barış metni, yenilen tarafa kalıcı bir askerî kısıt getirmesiyle ayrıksıdır.
-Paris Antlaşması'nın on birinci maddesi Karadeniz'i tarafsız ilan eder ve
-sularını her ulusun ticaret filosuna açık tutarken kıyıdaş olsun olmasın hiçbir
-gücün savaş bayrağına süresiz olarak kapatır; on üçüncü madde aynı kıyıda deniz
-tersanesi kurmayı ve sürdürmeyi yasaklar.[^k2]
+Barış metni, kalıcı bir askerî kısıtı antlaşmanın kendisine yazmasıyla
+ayrıksıdır. Paris Antlaşması'nın on birinci maddesi Karadeniz'i tarafsız ilan
+eder ve sularını her ulusun ticaret filosuna açık tutarken kıyıdaş olsun olmasın
+hiçbir gücün savaş bayrağına süresiz olarak kapatır — maddenin kendisi on
+dördüncü ve on dokuzuncu maddelerdeki istisnaları saklı tutar. On üçüncü madde
+kıyıda deniz tersanesi kurmayı ve sürdürmeyi yasaklar; yasağın muhatabı yalnız
+yenilen taraf değildir, metin Rus imparatoru ile Osmanlı padişahını aynı cümlede
+bağlar.[^k2]
 
 Kısıt on beş yıl dayandı. Rusya 1870'te tarafsızlaştırmayı reddettiğini
 bildirdi; 1871 Londra Antlaşması'nın birinci maddesi Paris metninin on birinci,
 on üçüncü ve on dördüncü maddelerini ekli sözleşmesiyle birlikte açıkça
-yürürlükten kaldırdı ve Karadeniz'in ticarete açıklığı yeni metnin üçüncü
-maddesiyle yeniden yazıldı.[^k2] Antlaşmanın ömrü, onu doğuran güç dengesinin
-ömrüyle sınırlı çıktı; denge
+yürürlükten kaldırdı; Karadeniz ticaretini serbest bırakan on ikinci madde ise
+yürürlükte kaldı ve yeni metnin üçüncü maddesiyle tamamlandı.[^k2] Antlaşmanın
+ömrü, onu doğuran güç dengesinin ömrüyle sınırlı çıktı; denge
 [Viyana Kongresi](/olay/viyana-kongresi/) dosyasında, kavramın kendisi
 [güç dengesi](/kavram/guc-dengesi/) dosyasında ele alınıyor.
 
@@ -313,8 +348,9 @@ Rusya 1870'te Karadeniz kısıtını geri aldırdıktan sonra ise savaşın gere
 sonuçsuz olduğu görüşü yaygınlaştı ve çatışma, hükûmetlerin savaşa nasıl
 sürüklenebildiğinin ders kitabı örneği olarak anıldı.[^k1] Osmanlı Devleti aynı
 antlaşmayla Avrupa uyumuna kabul edildi ve büyük güçler bağımsızlığına ve toprak
-bütünlüğüne saygı sözü verdi — savaşın en somut kazanımı bu güvenceydi ve
-güvence, ömrü boyunca sınandı.[^k1]
+bütünlüğüne saygı sözü verdi — savaşın en somut kazanımı bu güvenceydi. Söz
+yirmi bir yıl sonra, Rusya'nın 24 Nisan 1877'de yeniden savaş ilan etmesiyle
+bozuldu.[^k1]
 
 Geriye kalan asıl soru bir sayı sorusudur. Bir savaşın kaç kişiye mal olduğunu
 söylemek, hangi ordunun kaydı düzgün tuttuğuna bağlıdır; burada aynı savaşın

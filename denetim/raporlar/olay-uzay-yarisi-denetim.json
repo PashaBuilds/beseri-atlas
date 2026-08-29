@@ -1,75 +1,369 @@
 {
   "id": "olay-uzay-yarisi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:47.360Z",
-  "govde_hash": "8fb8b0ceb412",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T15:53:30.090Z",
+  "govde_hash": "32d87c3c0dd8",
+  "commit": "9181554",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Bu yarışın referans maddesi, teknik başarıların yanında bilgi yönetimini de ayrı başlıklarla ele alır: yapay uydu geliştirme bölümünün alt başlıkları Sovyet giz",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sovyet, ABD"
+      "anahtar": "k3",
+      "iddia": "Asif Siddiqi'nin saptamasıyla savaşın en gelişkin roket programı ne ABD'de ne Sovyetler Birliği'ndeydi: Peenemünde'de General Walter Dornberger'in idaresinde, t",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yörüngeye ilk uyduyu ve atmosferin dışına ilk insanı taşıyan roketler bu füzenin kopyası değildi; ama savaştan sonra Korolyov'a A-4'ün Sovyet kopyası olan R-1'i",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir teknoloji yarışının referans maddesinde gizliliğin ayrı bir alt başlık olması, rekabetin yalnızca kim önce ulaşacağı değil kimin ne bildiği üzerinden de yür",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Bu füzenin seri üretimi ise bir laboratuvarda değil, Harz dağlarının içine oyulmuş tünellerde, Buchenwald'dan getirilen toplama kampı tutuklularıyla yapıldı.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Aynı yapı karşı tarafta da görülür: Sputnik'e ABD tepkisi bölümü, istihbarat değerlendirmesi ile kamuoyu tepkilerini ayrı alt başlıklara ayırır.",
+      "iddia": "Üretimin bilançosu ile kullanımın bilançosu aynı hesapta buluşmaz: Wagner'in tahminiyle kamp sisteminin ölü sayısı yirmi bini aşarken, V-1 ile V-2'nin yol açtığ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Üretimin bilançosu ile kullanımın bilançosu aynı hesapta buluşmaz: Wagner'in tahminiyle kamp sisteminin ölü sayısı yirmi bini aşarken, V-1 ile V-2'nin yol açtığ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1943 Ağustosunda İngiliz uçakları Peenemünde'deki ordu roket araştırma merkezini bombaladı; Hitler, Speer ve Himmler bunun üzerine füze üretimini yeraltına taşı",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yılın 28 Ağustosunda Buchenwald'dan getirilen 107 tutuklu Nordhausen yakınındaki tünellere sokuldu; kampın kod adı Dora'ydı.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kayıtlı ölümler 1943 Eylülünde beş iken 1944 Ocağında 669'a çıktı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ekim 1944'te SS, Dora'yı otuzdan fazla alt kampı olan bağımsız bir toplama kampına dönüştürdü; füze üretimi tam kapasiteye ulaştığında kampın mevcudu en az on i",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Speer'in silahlanma bakanlığı füzeleri monte etmek için Mittelwerk adlı devlet şirketini kurdu; Himmler'in adamı Hans Kammler ise hem inşaatın hem kampın belirl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şirketin yönetimi 1944 Haziranında Alman sivil işçilere tutukluları dövmeyi ve keskin aletlerle yaralamayı yasaklayan gizli bir genelge çıkarmak zorunda kaldı; ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Jens-Christian Wagner, tahliyeler sırasında sekiz binden fazla kişinin öldüğünü ve Mittelbau'nun nihai bilançosunun yirmi bini aştığını tahmin eder; aynı yazar,",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çoğunluk inşaat işçisi ve madenciydi; aralarında yılbaşından beri Auschwitz ile Gross-Rosen tahliyelerinden gelen binlerce hasta ve bitkin tutuklu vardı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "ABD birlikleri 11 Nisan 1945'te Nordhausen'e ulaştı ve hava saldırılarında yakılan tutukluların cesetleriyle hastaların yan yana yattığı Boelcke Kışlası'nı buld",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sovyetler kendi işgal bölgesine 5 Temmuz'da ilerlemeden önce ABD kuvvetleri çok sayıda füze parçasını ve personeli oradan çıkardı; kaynağın deyişiyle Alman bili",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir piyade birliği 1945 Mayısında Peenemünde'yi ele geçirdi; Nordhausen'deki füze tesisine ulaşan askerler, savaşın son günlerinde A-4 üretmeye zorlanmış binler",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Amerikalılar roket ekibinin seçkinlerini oluşturan 525 kadar kişiyi, on üç yıla yayılan belgeleri ve en az yüz füzenin parçalarını kendi bölgelerine taşımışlard",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Geriye kalanla Sovyetler çalıştı: Mittelwerk tesislerinde bazı füzeler yeniden birleştirildi, çok sayıda Alman mühendis ve teknisyen sonradan SSCB'ye gönderildi",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "O gönderme de gönüllü değildi: 1946 Ekiminde sabaha karşı dörtte başlayan toplu bir nakil operasyonuyla çeşitli teknik sanayilerden yaklaşık altı bin Alman aile",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Siddiqi çerçevenin iki yönde birden çarpıtıldığı konusunda uyarır: Rus tarihçiler Alman katkısını neredeyse tümüyle çevresel sayarak küçültmüş, Batı'da popüler ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dora adının bugüne kalmasının nedeni, von Braun çevresindeki Alman roket mühendislerinin ABD uzay programında kazandığı ağırlıktır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hamburg'a yerleşti; Alman savcılık dava açmaya yetecek delil kalmadığına karar verdi ve Rudolph 1996 başında öldü.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sovyet tarafında Sergey Korolyov'un yolu tersinden geçer: 27 Haziran 1938'de tutuklanıp Lubyanka'ya götürüldü, ıslah çalışma kampı cezası aldı ve 1939 Ağustosun",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Daha sonra sharashka denen, bilim insanlarıyla mühendisler için kurulmuş hapishanelerden birine nakledildi; 27 Temmuz 1944'te imzalanan bir kararla serbest bıra",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Siddiqi'ye göre Sovyetler, görüntü bırakmayan ve önceden haber verilmeyen bir gizlilik rejimiyle kendi başarılarının propaganda ile spekülasyon arasındaki bulan",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Hiroshima ile Nagasaki'nin yıkılması, Stalin'in gözünde ABD'nin mutlak askerî üstünlüğünün ilanı oldu; nükleer silah çalışması 20 Ağustos 1945'te alınan gizli b",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sovyet liderliği önce ele geçirilmiş bir B-29'un kopyalarını üretmeye girişti; 1947 başında bombanın kendisi öncelikliydi ve hangi taşıma sisteminin izleneceğin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu arada Stalin'in izniyle bir mühendis kadrosu Aral yakınlarındaki çölde ele geçirilmiş Alman füzelerini deniyordu; 1949'da ilk Sovyet atom bombasının patlatıl",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "1950'ler boyunca füze tasarımı ilerledikçe doğrudan askerî yararı olmayan seçenekler de düşünülebilir hale geldi; uzay keşfine adanmış az sayıda mühendisin ısra",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sputnik 4 Ekim 1957'de fırlatıldı.",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, Explorer bölümünün altında NASA'nın kuruluşunu ayrı bir başlık olarak verir.",
+      "anahtar": "k5",
+      "iddia": "ABD Kongresi'nin yanıtı bir kurumdu: National Aeronautics and Space Act 29 Temmuz 1958'de yasalaştı.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Yasanın politika maddesi, 1958'de uzaydaki faaliyetlerin \"devoted to peaceful purposes for the benefit of all mankind\" olmasını, yani barışçıl amaçlara ve bütün",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bir uzay ajansının kuruluşunun bir uydu programının alt başlığı olarak kaydedilmesi, kurumun rekabete verilen bir yanıt olarak doğduğunu gösterir.",
+      "anahtar": "k5",
+      "iddia": "Silah sistemlerinin geliştirilmesine, askerî harekâta ya da ABD'nin savunmasına özgü faaliyetler Savunma Bakanlığı'nda kalır; hangi işin hangi kuruma düştüğüne ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): ABD, Savunma, Bakanlığı, Başkan"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Sivil hattın görünürlüğü de aynı yasada yazılıdır: kurum, faaliyetleri ve sonuçları hakkındaki bilgiyi uygulanabilir en geniş ölçüde yaymakla görevlendirilir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, ilk evreyi uydu geliştirme ve ilk memelilerin uzaya gönderilmesi ile erken ay sondaları üzerinden verir; ikinci evre insanlı uzay uçuşu, uzay antlaşmala",
+      "anahtar": "k4",
+      "iddia": "Yuri Gagarin'in yörünge uçuşu ile Domuzlar Körfezi çıkarmasının başarısızlığı 1961 baharında birkaç gün arayla geldi; Eisenhower döneminin NASA yöneticisi Keith",
       "durum": "OK",
-      "not": ""
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "İkinci evrenin adında bir antlaşma teriminin geçmesi, yarışın belirli bir noktadan sonra hukuki bir çerçeveye de kavuştuğunu gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Yarış, 1947 ile 1991 arasındaki ve kırk dört yıl dokuz ay süren jeopolitik rekabetin bir cephesidir.",
+      "anahtar": "k4",
+      "iddia": "Kennedy 20 Nisan 1961'de Johnson'a yazdığı notta, dramatik sonuç vaat eden ve kazanılabilecek bir uzay programı olup olmadığını sordu; bir gün önce Johnson'dan ",
       "durum": "OK",
-      "not": ""
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Aynı kaynak, rekabetin doğrudan çarpışmaya dönüşmediğini kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k4",
+      "iddia": "Johnson önce teknik görüş topladı, sonra Kongre'deki isimleri tek tek yokladı; Robert Kerr ve Styles Bridges bu ikna turunun parçasıydı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Hedefin hangi yolla gerçekleştirileceği de kendi içinde çekişmeliydi: doğrudan çıkış, Dünya yörüngesinde buluşma ve Ay yörüngesinde buluşma seçenekleri NASA içi",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ölçek yönetim biçimini de değiştirdi; Kasım 1968'de Science dergisi, NASA'nın dolar ya da insan sayısıyla değil karmaşıklık, büyüme hızı ve teknolojik incelik b",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır.",
+      "iddia": "Siddiqi Ay hedefini kendisi de bir yarış olarak anlatır ve kitabının adına yarışı koyar; zorlanan yer, 1957 öncesi ile Sputnik'in kendisidir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yazar, 1950'ler ve 1960'lar boyunca ABD uzay politikasının büyük ölçüde Sovyetlerin ne yaptığına — daha doğrusu politika yapıcıların ne yaptıklarını sandığ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sputnik ise onun anlatısında bir yarış hamlesi olarak değil, Dünya'yı ve çevresini incelemeye dönük uluslararası bir çabaya mütevazı bir katkı olarak tasarlanmı",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Dünya"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sovyet arşivlerinin geç açılması yüzünden Batı'da kurulan yorum çerçevesi eksik bölümleri olan bir tarihe dayanıyordu ve Siddiqi kendi kitabını bu boşluğu kapat",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "John Logsdon'a göre ABD, bu kadar görünür ve dramatik bir taahhütle yarışa girerek Sovyet uzay gösterilerinin etkisini kırdı — üstelik yarışa katılma niyetini i",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Tarihçi Arthur Schlesinger ise iki yüzyıl sonra Amerikalıların Ay inişini yirminci yüzyılın belirleyici olayı sayacağını öne sürmüştü; Launius bu sonucu erken b",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Launius, Apollo kararını ulusal karar alma sürecinde bir istisna olarak okur: program olağan siyasi koşullarda yürütülmedi ve NASA yönetimi daha 1961'de mevcut ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı yazar, programın kendisi için kurulduğu siyasi hedefleri tutturduğunu da yazar; iki saptama birbirini dışlamaz.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Dönemin kamuoyu desteğinin gerçekte ne olduğu ayrı bir araştırma konusudur: Launius 2003'te Space Policy dergisinde, ABD'de insanlı uzay uçuşuna ilişkin anket s",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Başkan Kennedy hedefi 25 Mayıs 1961'de Kongre'ye açıkladı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "NASA yöneticisi James Webb'in erken tahmini 20 milyar doları aşıyordu ve Kennedy bunu önce fazla bulmuştu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Program sonunda 25,4 milyar dolara mal oldu; Launius bu rakamı 1990 dolarıyla yaklaşık 95 milyar olarak verir; askerî olmayan teknolojik girişimler arasında büy",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Asıl büyüme ise yüklenicilerdeydi; 1960'ta 36.500 olan yüklenici çalışan sayısı 1965'te 376.700'e ulaştı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Neil Armstrong 20 Temmuz 1969'da Ay yüzeyine ayak bastı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "1967 tarihli Dış Uzay Antlaşması, Ay ve diğer gök cisimleri dahil dış uzayın egemenlik iddiasıyla, kullanım ya da işgalle veya başka herhangi bir yolla ulusal m",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı metin, Ay'ın ve diğer gök cisimlerinin yalnızca barışçıl amaçlarla kullanılacağını, yörüngeye nükleer silah ya da başka kitle imha silahı yerleştirilemeyec",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Essen'de görülen Dora davası 1967-1970 arasında sürdü, sanıklar sağlık gerekçesiyle cezalarını çekmedi.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Tek tek uçuşlar, teknik ayrıntılar, ay programının seyri ve yarışın sona erişi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olar",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Rudolph davasının kalıcı bir sonucu oldu: Mittelbau-Dora'nın hikâyesi, Soğuk Savaş boyunca yapıldığı gibi Alman roket programının tarihinden çıkarılamaz artık.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu, geçmişe dönük bir suçlama listesi değil, kaynak tabanının genişlemesidir; kamp sistemini bütün olarak ele alan çalışmalar 1997 ile 2001 arasında birbiri ard",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Alman tarafının belgeleri savaş suçu yargılamalarıyla ve Batı Almanya'nın kendi soruşturmalarıyla erken görünür oldu; Sovyet tarafı ise onlarca yıl kapalı kaldı",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Alman tarafının belgeleri savaş suçu yargılamalarıyla ve Batı Almanya'nın kendi soruşturmalarıyla erken görünür oldu; Sovyet tarafı ise onlarca yıl kapalı kaldı",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     }
   ]
 }

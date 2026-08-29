@@ -6,7 +6,7 @@ ozet: >-
   Meksika'da bir buğday ıslah programıyla başlayan, yarı-cüce çeşitleri gübre
   ve sulama paketiyle birlikte Hindistan, Pakistan ve Filipinler'e taşıyan
   tarımsal dönüşüm; verimi ölçülebilir biçimde katladı, tarımı satın alınan
-  girdilere bağladı, Afrika'nın büyük bölümünü dışarıda bıraktı.
+  girdilere bağladı, Afrika'nın büyük bölümünde karşılık bulmadı.
 donem: "14"
 tarih_baslangic: "1943"
 tarih_bitis: "1980"
@@ -33,14 +33,14 @@ kaynaklar:
     url: https://www.nobelprize.org/prizes/peace/1970/borlaug/lecture/
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "The Green Revolution, Peace, and Humanity"
-    not: "Programi yuruten kisinin kendi anlatimi; taraf konumundadir ve kendi kaygilarini da kaydeder"
+    not: "Programin icindeki kisinin kendi anlatimi; taraf konumundadir ve kendi kaygilarini da kaydeder. Sayfa ustbilgisi odulun tarihini (11 Aralik 1970 konusmasi) ve gerekcesini (yesil devrime katki) tasir"
   - anahtar: k2
     tur: ansiklopedi
     ad: "Wikipedia (EN) - Green Revolution"
     url: https://en.wikipedia.org/wiki/Green_Revolution
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "William S. Gaud"
-    not: "Giris kapisi; terimin dogusu, IR8 kronolojisi, Afrika girisimleri ve anma ifadeleri icin"
+    not: "Giris kapisi; terimin dogusu, IR8 kronolojisi, Afrika girisimleri ve anma ifadeleri icin. AKTARIM HALKASI: yuzde 17 / yariya inen gelir sayilari 2021 tarihli bir calismadan bu maddenin aktarimiyla gelir, birincil yayin okunmamistir. Madde IR8 icin \"success throughout Asia\" der; k1'in muson bolgesi cekincesi daha dardir ve metin k1'i izler"
   - anahtar: k3
     tur: birincil
     birincil_tur: belge
@@ -90,31 +90,34 @@ kaynaklar:
     url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1038/nature08238?fields=title,abstract,year,authors,venue,externalIds
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "Satellite-based estimates of groundwater depletion in India"
-    not: "Ustveri kaydi + ozet; olcum donemi olaydan sonradir ve tuketimi Yesil Devrim'e atfetmez"
+    not: "Ustveri kaydi + ozet; olcum donemi (2002-2008) olaydan sonradir, tuketimi adiyla Yesil Devrim'e atfetmez ama nedeni sulama ve oteki insan kaynakli kullanimlarda surdurulemez tuketim olarak gosterir; hata paylari (+/-1 cm, +/-4,5 km3) metne tasindi"
 son_denetim: 2026-08-29
 denetim_durumu: onaylandi
 onarim_turu: 1
 ---
 
-Yeşil Devrim, buğday, pirinç ve mısırda hektar başına ürünü kısa sürede
-katlayan yarı-cüce çeşitlerin ve bu çeşitleri verimli kılan gübre, sulama ve
-tarım tekniği paketinin gelişmekte olan ülkelere aktarılmasına verilen addır.
+Yeşil Devrim, buğday, pirinç ve mısırda hektar başına ürünü katlayan yarı-cüce
+çeşitlerin ve bu çeşitleri verimli kılan gübre, sulama ve tarım tekniği
+paketinin gelişmekte olan ülkelere aktarılmasına verilen addır.
 Başlangıcı 1943'te, Meksika Tarım Bakanlığı ile Rockefeller Vakfı'nın Meksika
 hükümetinin isteği üzerine kurduğu ortak bir araştırma ve eğitim programıdır;
 o sırada ülke tükettiği buğdayın yarısından fazlasını ithal ediyor, ulusal
 ortalama hektarda 750 kiloda takılı kalıyordu.[^k1] Yirmi yıl sonra aynı
 programın ürünü olan çeşitler Hindistan ve Pakistan tarlalarındaydı;
-Filipinler'de geliştirilen IR8 pirinci ise Güney ve Güneydoğu Asya'da benzer
-bir sıçrama üretti.[^k1]
+Filipinler'de geliştirilen IR8 pirinci ise Filipinler, Seylan, Malezya ve Batı
+Pakistan'da benzer bir sıçrama üretti, muson bölgelerinde ise aynı sonucu
+vermedi.[^k1]
 
 Olayın ağırlığı tek bir rakamda değil, iki ayrı kaydın aynı anda doğru
-olmasındadır. Dünya buğday verimi 1961'de 1,09 ton, 2023'te 3,63 tondu.[^k4]
-Dünya tahıl verimi 1961'de hektarda 1,35 tondu; 2023'te 4,23 tona çıktı.[^k5]
-Aynı dönüşüm tarımı satın alınması gereken girdilere bağladı, kazancı toprak
-büyüklüğüne ve sulama erişimine göre eşitsiz dağıttı, Afrika'nın büyük bölümünü
-dışarıda bıraktı. Aşağıdaki bölümler önce programın kendisini ve yayılmasını,
-sonra bedelini ve dağılımını, en sonunda da önderine atfedilen sayının ne
-kadarının ölçüm olduğunu izliyor.
+olmasındadır. Dünya buğday verimi 1961'de hektarda 1,09 ton, 2023'te 3,63
+tondu.[^k4] Dünya tahıl verimi 1961'de hektarda 1,35 tondu; 2023'te 4,23 tona
+çıktı.[^k5] Bu iki seri dünyanın tamamını ölçer; artışın ne kadarının Yeşil
+Devrim'e ait olduğunu tek başlarına söylemezler. Aynı dönüşüm tarımı satın
+alınması gereken girdilere bağladı, kazancı toprak büyüklüğüne ve sulama
+erişimine göre eşitsiz dağıttı, Afrika'nın büyük bölümünde karşılık bulmadı.
+Aşağıdaki bölümler önce programın kendisini ve yayılmasını, sonra bedelini ve
+dağılımını, en sonunda da önderine atfedilen sayının ne kadarının ölçüm
+olduğunu izliyor.
 
 ## Meksika'da yirmi yıl
 
@@ -134,14 +137,20 @@ sapı kısa, yüksek genetik verim potansiyeli taşıyan, ağır gübre dozları
 güçlü ve verimli tepki veren, geniş bir hastalık yelpazesine dayanıklı, çok
 farklı iklimlere uyabilen buğdaylar. Uygun koşullarda bu çeşitler, eski uzun
 saplı buğdayların en iyilerinin iki ya da üç katı ürün veriyordu.[^k1]
-Programın buğday kanadını yirmi altı yıl yürüten Norman Borlaug, sonucun bir
-rastlantı olmadığını vurgulamak için "tarımsal üretimde mucize yoktur" diye
-yazacaktı.[^k1]
+Buğday programının içinde neredeyse başından beri, yirmi altı yıl boyunca yer
+alan Norman Borlaug, sonucun bir rastlantı olmadığını vurgulamak için
+"tarımsal üretimde mucize yoktur" diye yazacaktı.[^k1]
 
 Rakamlar bu anlatımı doğruluyor. Meksika'da hektardan alınan buğday 1961'de
 1,68 tondu; 1970'te 3,02, 1980'de 3,85 tona çıktı.[^k4] Ülke 1943'te buğday
 ihtiyacının yarısını ithal ediyordu; 1956'da kendine yeterli hâle geldi,
 1964'te yarım milyon ton buğday ihraç ediyordu.[^k2]
+
+Borlaug'un ödül konuşmasındaki hesap iki kaydı ayırmayı da öğretiyor: ulusal
+ortalama yirmi altı yılda hektarda 750 kilodan üç bin kiloya yakın bir düzeye,
+yani yaklaşık dört katına çıkmıştı; aynı dönemde toplam üretim yedi katına
+çıktı.[^k1] Aradaki fark, hektar başına verimin ve toplam üretimin ayrı iki
+ölçü olduğunu gösterir; ikincisi ekilen alanın genişlemesini de içerir.
 
 ## Tohum değil paket
 
@@ -161,8 +170,8 @@ artış görülmemişti.[^k1]
 Paketin parası da bir yerden geliyordu. Yalnızca 1969-1970 ekim sezonunda
 Hindistan'da yetmiş bin özel tüplü kuyu açıldı ve yaklaşık 1,4 milyon hektar
 daha kontrollü sulamaya girdi.[^k1] Aynı konuşmada, yapay besinlere
-bağımlılığın küçük çiftçinin üzerine bindirdiği mali yük, programı yürüten
-kişinin kendi kaygısı olarak dile getirilir.[^k1] Verim artışının bir girdi
+bağımlılığın küçük çiftçinin üzerine bindirdiği mali yük, uygulayıcının kendi
+kaygısı olarak dile getirilir.[^k1] Verim artışının bir girdi
 zincirine bağlı olduğu, eleştirmenlerinden önce uygulayıcısı tarafından
 söylenmişti.
 
@@ -244,8 +253,8 @@ tüketicilerin gıda fiyatlarındaki düşüşten genel olarak yararlandığın�
 kazançlı çıktığını kaydeder.[^k6] Gıdanın ucuzlaması geniş ve ölçülebilir bir
 kazançtır; üreticinin kazancı ise koşulludur.
 
-Eleştirinin normatif kanadı bu ölçümlerden farklı bir soru sorar. En bilinen
-örneği, Vandana Shiva'nın 1989 tarihli çalışmasıdır; başlığı tezini taşır:
+Eleştirinin normatif kanadı bu ölçümlerden farklı bir soru sorar. Bu kanadın
+bir örneği, Vandana Shiva'nın 1989 tarihli çalışmasıdır; başlığı tezini taşır:
 yeşil devrimin şiddeti, Pencap'ta ekolojik bozulma ve siyasi çatışma.[^k2]
 Buradaki iddia, kazancın kime gittiği değil neye mal olduğudur. İki eleştiriyi
 tek bir lehte-aleyhte ekseninde toplamak ikisini de bozar: biri dağılımı ölçer,
@@ -255,20 +264,22 @@ tek bir lehte-aleyhte ekseninde toplamak ikisini de bozar: biri dağılımı öl
 
 Girdi bağımlılığının en somut faturası suda göründü. NASA'nın yerçekimi
 uydularıyla yapılan bir ölçüm, Racastan, Pencap ve Haryana eyaletlerinde,
-Delhi dahil, yeraltı suyunun yılda ortalama 4 santimetre su yüksekliği
-eşdeğerinde, yani yılda yaklaşık 17,7 kilometreküp hızla tükendiğini
+Delhi dahil, yeraltı suyunun yılda ortalama 4 santimetre (±1) su yüksekliği
+eşdeğerinde, yani yılda yaklaşık 17,7 (±4,5) kilometreküp hızla tükendiğini
 gösterdi.[^k9] Ağustos 2002 ile Ekim 2008 arasındaki net kayıp 109
 kilometreküpü buldu; bu, ülkenin en büyük yüzey su rezervuarının kapasitesinin
 iki katıdır ve dönem boyunca yağış normale yakın seyretmişti.[^k9]
 
-Bu ölçüm olayın kendisinden sonraki bir dönemi kapsar ve tükenmeyi tek başına
-Yeşil Devrim'e bağlamaz; kaydettiği şey bir sonuç değil bir durumdur. Ama
-mekanizma ortaktır: sulamaya bağlı yüksek verim, suyun yenilenme hızından daha
+Bu ölçüm olayın kendisinden sonraki bir dönemi kapsar ve tükenmeyi Yeşil
+Devrim'e adıyla bağlamaz; nedeni sulama ile öteki insan kaynaklı kullanımlarda
+sürdürülemez tüketim olarak gösterir ve kendi gözlem kaydının kısalığını da not
+eder.[^k9] Kaydettiği şey bir sonuç değil bir durumdur. Ama mekanizma
+ortaktır: sulamaya bağlı yüksek verim, suyun yenilenme hızından daha
 hızlı çekilmesi üzerine kurulduğunda, kazanç bir stoktan borç almaya dönüşür.
 Pencap'ın ilk uygulama bölgesi olarak seçilme gerekçesi de zaten güvenilir su
 kaynağıydı.[^k2]
 
-## Afrika neden dışarıda kaldı
+## Afrika neden geride kaldı
 
 Meksika ve Hindistan modellerini Afrika'ya taşımak için çok sayıda girişimde
 bulunuldu; bunlar genel olarak daha az başarılı sonuç verdi.[^k2] Gösterilen
@@ -286,11 +297,13 @@ sulama, gübre ve pazar düzeninin nerede kurulduğunu gösterir.
 
 ## Bir milyar sayısı
 
-Borlaug 1970'te Nobel Barış Ödülü aldı ve bugün yaygın biçimde bir milyardan
-fazla insanı açlıktan kurtarmakla anılır.[^k2] Bu, ölçülmüş bir sonuç değil
-bir anma ifadesidir; nitekim aynı kayıt başka bir yerinde iki milyar rakamını
-da aktarır.[^k2] Bir sayı tek bir kaydın içinde bile değişebiliyorsa, taşıdığı
-şey bir hesap değil bir değerlendirmedir.
+Borlaug 1970 ödülünü yeşil devrime katkısı için aldı; konuşmasına göre komite
+bir kişiyi seçerek tarımın ve gıda üretiminin rolünü simgelemek istiyordu.[^k1]
+Bugün ise yaygın biçimde bir milyardan fazla insanı açlıktan kurtarmakla
+anılır.[^k2] Bu ikincisi ölçülmüş bir sonuç değil bir anma ifadesidir; nitekim
+aynı kayıt başka bir yerinde iki milyar rakamını da aktarır.[^k2] Bir sayı tek
+bir kaydın içinde bile değişebiliyorsa, taşıdığı şey bir hesap değil bir
+değerlendirmedir.
 
 Ölçülmüş olan daha dar, ama daha ilginçtir. 1965 sonrasındaki ürün ıslahı
 kazanımlarını küresel bir ekonomik modelle geri alıp dünyayı yeniden simüle
@@ -299,7 +312,12 @@ eden bir çalışma, 2004 yılında ekili alanın bu kazanımlar olmasaydı 17,9
 17,7 milyon hektarı gelişmekte olan ülkelerde olurdu.[^k7] Aynı çalışma
 sonucunu açıkça yorumlar: bulgular verim artışının doğal ekosistemleri tarıma
 dönüşmekten kurtardığı yönündeki savı genel olarak destekler, ama net etki
-savın sahibinin öne sürdüğünden çok daha küçük bir büyüklüktedir.[^k7]
+savın sahibinin öne sürdüğünden çok daha küçük bir büyüklüktedir.[^k7] Aynı
+özet kendi ölçtüğü şeyin sınırını da söyler: bu kazanımlar olmasaydı yükselen
+gıda fiyatlarının yoksulluk ve açlık üzerindeki olumsuz etkisi, tarımsal
+genişlemenin refah etkisini büyük olasılıkla gölgede bırakırdı.[^k7] Yani
+ölçülen şey kurtarılan can değil kurtarılan alandır; bir milyar ifadesinin
+yerini almaz, onu ölçülebilir başka bir soruya çevirir.
 
 Ödül konuşmasındaki değerlendirme de bu ölçüde ihtiyatlıydı. Kazanılan şey
 açlığa karşı savaşta geçici bir başarı, insanlığa tanınmış bir nefes alma
@@ -309,7 +327,8 @@ sınırını en açık söyleyen, onu üreten kişiydi.
 
 ::tartismali[Yeşil Devrim'in bir milyardan fazla insanı kurtardığı ifadesi
 ölçülmüş bir sonuç değil bir anma formülüdür; ölçülebilen kazanç daha dar
-tanımlı ve daha küçüktür.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
+tanımlıdır ve başka bir şeyi
+ölçer.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
 
 ## "Devrim" sözcüğünün yükü
 
@@ -318,9 +337,9 @@ seriler açıktır. Tartışma, artışın hangi girdilere bağlandığı, fatur
 ve neye çıktığı, kazancın nasıl dağıldığı üzerinedir. Aynı olay bir ülkede
 kendine yeterlilik, bir başkasında borçlanmış bir su tablası, bir üçüncüsünde
 hiç gerçekleşmemiş bir vaat olarak okunur. Gecikmenin bedelini ölçmeye çalışan
-bir çalışma, dönüşümün on yıl gecikmesinin kişi başına gelirin yüzde 17'sine
-mal olacağını tahmin eder; hiç yaşanmaması ise gelişmekte olan dünyada kişi
-başına geliri yarıya indirebilirdi.[^k2]
+2021 tarihli bir çalışmanın ansiklopedi maddesindeki aktarımına göre dönüşümün
+on yıl gecikmesi kişi başına gelirin yüzde 17'sine mal olurdu; hiç yaşanmaması
+ise gelişmekte olan dünyada kişi başına geliri yarıya indirebilirdi.[^k2]
 
 Sözcüğün kendisi bu çeşitliliği tek bir ana sıkıştırır. Yaşanan şey bir olay
 değil, onlarca yıla yayılan, devlet desteğine ve sürekli araştırmaya bağlı bir

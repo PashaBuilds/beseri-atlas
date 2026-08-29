@@ -1,7 +1,7 @@
 {
   "id": "olay-11-eylul",
   "gecis": 3,
-  "zaman": "2026-08-29T14:59:07.978Z",
+  "zaman": "2026-08-29T15:15:48.926Z",
   "itirazlar": [
     {
       "ciddiyet": "orta",
@@ -11,58 +11,16 @@
       "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
     },
     {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Bu sorunun tek bir sayısı yoktur, çünkü sayanların kapsamı birbirinden farklıdır. Komisyon raporu 2004'te üç bileşen verir: Dünya Ticaret Merkezi'nde 2.600'den fazla, Pentagon'da 1",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
       "ciddiyet": "orta",
       "tip": "tek-kaynakli-nedensellik",
-      "cumle": "Kulelerin çöküşü, 2002'de çıkarılan bir yasayla kurulan resmî teknik soruşturmanın konusu oldu; standartlar kurumunun bu yetkiyle yürüttüğü ilk soruşturmaydı ve nihai rapor 26 Ekim",
+      "cumle": "Kulelerin çöküşü, 2002'de çıkarılan bir yasayla kurulan resmî teknik soruşturmanın konusu oldu; NIST'in kendi kaydına göre bu, kuruma o yasayla verilen yetkiyle yürütülen ilk soruş",
       "sorun": "Nedensellik iddiası tek kaynağa (k3) dayanıyor.",
       "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
     },
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Kulelerin çöküşü, 2002'de çıkarılan bir yasayla kurulan resmî teknik soruşturmanın konusu oldu; standartlar kurumunun bu yetkiyle yürüttüğü ilk soruşturmaydı ve nihai rapor 26 Ekim",
-      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Aynı kurum, kamuoyunda dolaşan bazı iddiaları da tek tek yanıtlamıştır; örneğin çeliğin belirli bir sıcaklığa sertifikalandığı iddiasının teknik olarak karşılığı olmadığını, Amerik",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Saldırıdan yedi gün sonra, 18 Eylül 2001'de kabul edilen kuvvet kullanma yetkisi, başkana saldırıyı planlayan, yetkilendiren, gerçekleştiren ya da destekleyen devlet, örgüt ve kişi",
-      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
       "cumle": "Komisyon 2004'te bu düzenlemelerin üstüne kendi yeniden yapılanma önerilerini koydu: terörle mücadelede istihbarat ile harekât planlamasını tek çatı altında birleştirecek bir merke",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Komisyon ikinci okumanın diline itiraz eder. Kaçırılan fırsatlar tartışmasında kullanılan izleme listesi, bilgi paylaşımı ya da noktaları birleştirmek gibi etiketlerin hepsinin çok",
-      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "İkinci bir okuma ölçeği değiştirir. Saldırının ardından gelen savaşların doğrudan ölü sayısı 897.000 ile 929.000 arasında, dolaylı ölümlerle birlikte toplam 4,5 ile 4,6 milyon aras",
       "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     }

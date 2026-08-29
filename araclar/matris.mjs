@@ -26,10 +26,11 @@
 //   node araclar/matris.mjs <id> [...]     matris(ler)i dogrula
 //   node araclar/matris.mjs --hepsi        var olan butun matrisleri dogrula
 //   node araclar/matris.mjs --tazele <id>  iddia cumleleri duruyorsa hash'i tazele
+//   node araclar/matris.mjs --cumle-oturt <id>|--hepsi  cumleleri govdeye oturt
 import fs from 'node:fs';
 import path from 'node:path';
 import { KOK, makaleleriTopla, RENK } from './ortak.mjs';
-import { govdeHash, suankiCommit } from './denetle.mjs';
+import { govdeHash, suankiCommit, iddiaCumleleri } from './denetle.mjs';
 
 export const MATRIS_DIZINI = path.join(KOK, 'denetim', 'matris');
 
@@ -112,7 +113,18 @@ export function matrisiDogrula(matris, makale = null) {
     hatalar.push('BAYAT: govde_hash guncel govdeyle eslesmiyor — matris yeniden hakemlenmeli');
   }
 
-  return { gecerli: hatalar.length === 0, bayat, hatalar };
+  // K-6 OLCUM (hata degil, henuz): matristeki iddia cumlesi govdede BIREBIR
+  // duruyor mu? Hash (K-3) bunu gostermez — hakem hash'i en son yazdigi icin
+  // kendi duzeltmesinden sonraki gövdeyle damgalar, ama matristeki `cumle`
+  // alani daha eski bir taslaktan kalmis olabilir. 2026-08-29 olcumu: 68
+  // matrisin 43'unde toplam 282 cumle (%9,5) govdede bulunamiyor; ikisinde
+  // (kus-kralligi, rapa-nui) HICBIR cumle tutmuyor. Iddia-kaynak matrisinin
+  // degeri, cumlenin metinde izlenebilmesine bagli oldugu icin bu gercek bir
+  // butunluk acigi. Once olculuyor; temizlik gecisinden sonra HATA olacak.
+  let kayipCumle = 0;
+  if (makale) kayipCumle = tazelenebilirMi(matris, makale).kayip.length;
+
+  return { gecerli: hatalar.length === 0, bayat, hatalar, kayipCumle };
 }
 
 /**
@@ -140,6 +152,51 @@ export function tazelenebilirMi(matris, makale) {
   return { tazelenebilir: kayip.length === 0, kayip };
 }
 
+/**
+ * Matristeki `cumle` alanini govdedeki KARSILIGINA oturtur.
+ *
+ * Matrisin degeri, iddianin metinde izlenebilmesine baglidir; `cumle` alani
+ * eski bir taslaktan kalmissa iddia artik hangi cumleye ait oldugu
+ * bulunamaz. 2026-08-29 olcumu: 68 matrisin 43'unde 283 cumle govdede yok.
+ *
+ * Eslesme KORUMALI yapilir: aday, ayni dipnot anahtarlarini TAM OLARAK
+ * tasiyan bir govde cumlesi olmalidir ve benzerlik esigini gecmelidir.
+ * Birden fazla aday esik ustundeyse ya da hicbiri gecmiyorsa DOKUNULMAZ —
+ * yanlis cumleye oturtmak, kaymanin kendisinden daha kotudur.
+ */
+function benzerlik(a, b) {
+  const A = new Set(a.toLowerCase().split(/\s+/).filter((w) => w.length > 3));
+  const B = new Set(b.toLowerCase().split(/\s+/).filter((w) => w.length > 3));
+  if (A.size === 0 || B.size === 0) return 0;
+  let ortak = 0;
+  for (const w of A) if (B.has(w)) ortak += 1;
+  return ortak / Math.max(A.size, B.size);
+}
+
+export function cumleleriOturt(matris, makale, { esik = 0.55 } = {}) {
+  const sade = (s) => String(s || '').replace(/\[\^k\d+\]/g, '').replace(/\s+/g, ' ').trim();
+  const govde = sade(makale.govde);
+  const adaylar = iddiaCumleleri(makale.govde);
+  const rapor = { oturan: 0, belirsiz: [], bulunamayan: [] };
+  for (const i of matris.iddialar || []) {
+    const mevcut = sade(i.cumle);
+    if (mevcut && govde.includes(mevcut)) continue;
+    const anahtarlar = (i.kaynaklar || []).map((k) => k.anahtar).sort().join(',');
+    const esler = adaylar
+      .filter((a) => [...a.refs].sort().join(',') === anahtarlar)
+      .map((a) => ({ cumle: a.cumle, skor: benzerlik(mevcut, a.cumle) }))
+      .filter((a) => a.skor >= esik)
+      .sort((a, b) => b.skor - a.skor);
+    if (esler.length === 0) { rapor.bulunamayan.push(i.iddia_id); continue; }
+    if (esler.length > 1 && esler[1].skor > esler[0].skor - 0.1) {
+      rapor.belirsiz.push(i.iddia_id); continue;
+    }
+    i.cumle = esler[0].cumle;
+    rapor.oturan += 1;
+  }
+  return rapor;
+}
+
 export function matrisOku(id) {
   const yol = path.join(MATRIS_DIZINI, `${id}-matris.json`);
   if (!fs.existsSync(yol)) return null;
@@ -159,6 +216,29 @@ if (process.argv[1]?.endsWith('matris.mjs')) {
     idler = process.argv.slice(2).filter((a) => !a.startsWith('--'));
     if (idler.length === 0) { console.error('kullanim: node araclar/matris.mjs <id> ... | --hepsi'); process.exit(1); }
   }
+  if (process.argv.includes('--cumle-oturt')) {
+    let toplamOturan = 0; let toplamBelirsiz = 0; let toplamBulunamayan = 0;
+    for (const id of idler) {
+      const matris = matrisOku(id); const makale = haritada.get(id);
+      if (!matris || !makale) { console.log(`${RENK.kirmizi('YOK    ')} ${id}`); continue; }
+      const r = cumleleriOturt(matris, makale);
+      toplamOturan += r.oturan; toplamBelirsiz += r.belirsiz.length; toplamBulunamayan += r.bulunamayan.length;
+      if (r.oturan) {
+        matris.govde_hash = govdeHash(makale.govde);
+        matris.commit = suankiCommit();
+        (matris.tazeleme ||= []).push({
+          zaman: new Date().toISOString().slice(0, 10),
+          gerekce: `${r.oturan} iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)`,
+        });
+        fs.writeFileSync(path.join(MATRIS_DIZINI, `${id}-matris.json`), `${JSON.stringify(matris, null, 2)}\n`);
+      }
+      const im = r.bulunamayan.length || r.belirsiz.length ? RENK.sari('KISMI  ') : RENK.yesil('OTURDU ');
+      console.log(`${im} ${id.padEnd(34)} oturan ${r.oturan} · belirsiz ${r.belirsiz.length} · karsiligi yok ${r.bulunamayan.length}`);
+    }
+    console.log(`\ntoplam: oturan ${toplamOturan} · belirsiz ${toplamBelirsiz} · karsiligi yok ${toplamBulunamayan}`);
+    process.exit(0);
+  }
+
   if (process.argv.includes('--tazele')) {
     let reddedilen = 0;
     for (const id of idler) {
@@ -189,16 +269,24 @@ if (process.argv[1]?.endsWith('matris.mjs')) {
     process.exit(reddedilen ? 1 : 0);
   }
 
-  let kirik = 0;
+  let kirik = 0; let toplamKayip = 0; let toplamIddia = 0; let kaymaDosya = 0;
   for (const id of idler) {
     const matris = matrisOku(id);
     if (!matris) { console.log(`${RENK.kirmizi('YOK    ')} ${id} — matris dosyasi bulunamadi`); kirik += 1; continue; }
-    const { gecerli, bayat, hatalar } = matrisiDogrula(matris, haritada.get(id) || null);
+    const { gecerli, bayat, hatalar, kayipCumle } = matrisiDogrula(matris, haritada.get(id) || null);
     const im = gecerli ? RENK.yesil('GECERLI') : bayat ? RENK.sari('BAYAT  ') : RENK.kirmizi('KIRIK  ');
     const s = sayaclariHesapla(matris.iddialar || []);
-    console.log(`${im} ${id.padEnd(34)} ${s.dogrudan} dogrudan · ${s.kismi} kismi · ${s.desteksiz} desteksiz · ${s.olculemez} olculemez`);
+    const kayipIm = kayipCumle ? RENK.sari(` · ${kayipCumle} cumle govdede yok`) : '';
+    console.log(`${im} ${id.padEnd(34)} ${s.dogrudan} dogrudan · ${s.kismi} kismi · ${s.desteksiz} desteksiz · ${s.olculemez} olculemez${kayipIm}`);
     for (const h of hatalar.slice(0, 8)) console.log(`         ${RENK.gri(h)}`);
+    toplamKayip += kayipCumle;
+    toplamIddia += (matris.iddialar || []).length;
+    if (kayipCumle) kaymaDosya += 1;
     if (!gecerli) kirik += 1;
+  }
+  if (toplamIddia) {
+    console.log(`\n${RENK.gri(`iddia cumlesi izlenebilirligi: ${toplamIddia - toplamKayip}/${toplamIddia} cumle govdede birebir duruyor · `
+      + `${toplamKayip} cumle bulunamadi (${kaymaDosya} dosyada) — olcum, henuz hata degil`)}`);
   }
   process.exit(kirik ? 1 : 0);
 }

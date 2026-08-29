@@ -1,22 +1,8 @@
 {
   "id": "olay-afyon-savaslari",
   "gecis": 3,
-  "zaman": "2026-08-29T14:55:26.571Z",
+  "zaman": "2026-08-29T15:15:48.928Z",
   "itirazlar": [
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Bu belgelerin dikkat çeken yanı, savaşa adını veren malın onlarda neredeyse hiç geçmemesidir. Nanking metninde afyon sözcüğü tek bir kez, Mart 1839'da Kanton'da teslim alınıp imha ",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Sorunun kökeninde tek yönlü bir talep vardı. Çin'den Britanya'ya giden çayın hacmi on sekizinci yüzyıl boyunca büyüdü ve 1800'e gelindiğinde Doğu Hindistan Şirketi yılda 23 milyon ",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
@@ -27,15 +13,8 @@
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Antlaşmanın onay belgeleri Taku istihkâmlarında engellenince savaş yeniden alevlendi. 25 Haziran 1859'da onay belgelerini Pekin'e götüren heyete yol açmak için istihkâmlara saldıra",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Qing sarayının afyona karşı en güçlü ekonomik gerekçesi, ülkeden gümüş çıkışıydı; ticaretin dengesi tersine dönmüş, bakır para ile gümüş arasındaki kur bozulmuştu.[^k6] Bu, olayın ",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "cumle": "Hükûmet cephesinin savunması ise ahlaki değil malidir. Hükûmet adına konuşan Sir John Cam Hobhouse, konunun meclise ilk kez gelmediğini söyleyerek 1832 tarihli parlamento komisyonu",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     },
     {
@@ -44,13 +23,6 @@
       "cumle": "Alejandra Irigoin, hem dünya gümüş arzındaki daralmaya dayanan açıklamayı hem de afyon ithalatına dayanan açıklamayı reddeder. Ona göre 1820'lerden sonra değişen şey gümüşün miktar",
       "sorun": "Makale dogu-asya/avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
       "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Benzer bir itiraz dönemin kendi içinde de dile getirilmişti. Hükûmet yanlıları 1840 tartışmasında, Hindistan'daki üretim kısılsa bile arzın Türkiye, İran ya da komşu bir ülkeye kay",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     },
     {
       "ciddiyet": "dusuk",

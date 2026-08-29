@@ -1,9 +1,9 @@
 {
   "id": "olay-afyon-savaslari",
   "gecis": 2,
-  "zaman": "2026-08-29T15:02:15.751Z",
+  "zaman": "2026-08-29T15:42:52.973Z",
   "govde_hash": "5e9d14030273",
-  "commit": "7a16c22",
+  "commit": "fdab69c",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -51,7 +51,7 @@
       "anahtar": "k6",
       "iddia": "Çayın yükselişi bu bakımdan ölçülebilir: Çin'den gelen çay 1700'de 92.000 libre iken 1751'de 2,7 milyon libreye çıkmıştı.",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k6",

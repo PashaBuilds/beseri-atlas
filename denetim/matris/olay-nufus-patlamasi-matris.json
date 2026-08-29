@@ -1,0 +1,573 @@
+{
+  "id": "olay-nufus-patlamasi",
+  "govde_hash": "4fec5b29eebc",
+  "commit": "9181554",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Uzun dönemli seride dünya nüfusu 1927'de yaklaşık 2 milyar, 1974'te yaklaşık 4 milyar, 2022'de yaklaşık 8 milyar kişidir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV World satirlari: 1927 = 2.014.848.732 · 1974 = 3.996.416.100 · 2022 = 8.021.407.196."
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "İlk ikiye katlanma kırk yedi, ikincisi kırk sekiz yıl sürdü.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Seri yil-deger verir; \"kirk yedi\" ve \"kirk sekiz\" ayni serideki iki cift arasindaki farktir, kaynakta cumle olarak gecmez."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Karşılaştırma için aynı seride 1500'de yaklaşık 503 milyon, 1800'de yaklaşık 983 milyon değerleri duruyor: yüzyıllara yayılan bir birikimin ardından, bir insan ömrüne sığan iki katlanma.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV World satirlari: 1500 = 503.051.104 · 1800 = 983.104.755."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "1900'de yaklaşık 1,63 milyar olan dünya nüfusu 1950'de yaklaşık 2,49 milyara, 1987'de yaklaşık 5,05 milyara, 2011'de yaklaşık 7,11 milyara çıktı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV World satirlari: 1900 = 1.627.273.655 · 1950 = 2.493.092.852 · 1987 = 5.049.746.390 · 2011 = 7.110.923.773."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "1900 ile 1950 arasında dünya nüfusuna eklenen 866 milyon kişiye, 1963 ile 1975 arasındaki on iki yılda yeniden ulaşıldı; bu kez eklenen 878 milyondu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki fark seriden cikarilarak hesaplandi: 1950-1900 = 865.819.197 · 1975-1963 = 877.927.453. Kaynak farklari kendisi yazmaz."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Dünya ortalamasında çocuk ölüm oranı 1950'de yüzde 24,7 iken 1963'te yüzde 16,2'ye indi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV World satirlari: 1950 = 24,7 · 1963 = 16,2 (bes yasindan once olen cocuklarin yuzdesi)."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Aynı on üç yılda toplam doğurganlık hızı düşmedi, yükseldi: kadın başına 1950'de 4,85 çocuktan 1963'te 5,31 çocuğa çıktı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV World satirlari: 1950 = 4,852 · 1963 = 5,308 cocuk."
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Nüfus artış hızı da tam o yıl, 1963'te yüzde 2,28 ile 1950'de başlayan serinin en yüksek değerine ulaştı; 2023'te yüzde 0,87'ye inmişti.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV World satirlari: 1963 = 2,283 · 2023 = 0,871. 2,283 serinin en yuksek degeridir AMA seri 1950'de basliyor (veri-setleri/nufus-artis-hizi.csv ilk satiri 1950); govdeye bu kapsam siniri eklendi, cunku 1950 oncesi icin artis hizi kaydi yok ve nitelenmemis bir 'doruk' asiri kesin olurdu."
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Düşüşün ölçeği uzun seride daha net görünüyor: çocuk ölüm oranı 1800'de yüzde 42,8, 1900'de yüzde 40,9 iken 1950'de yüzde 24,7'ye, 1980'de yüzde 11,9'a indi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV World satirlari: 1800 = 42,8 · 1900 = 40,9 · 1950 = 24,7 · 1980 = 11,9."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Dünya Sağlık Örgütü'nün yoğunlaştırılmış çiçek kampanyası 1967'de başladı; 9 Aralık 1979'da bir küresel komisyon hastalığın yeryüzünden silindiğini belgeledi ve belge 1980'de Dünya Sağlık Asamblesi'nce kabul edildi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sayfada birebir: \"Intensified Smallpox Eradication Programme launched in 1967\"; \"On 9 December 1979, a global commission certified\"; \"accepted by the 33rd World Health Assembly in 1980\"."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Aynı kayda göre hastalık yalnızca yirminci yüzyılda üç yüz milyon kişiyi öldürmüştü; kampanyanın maliyeti üç yüz milyon dolar, dağıtılan aşı yarım milyardı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sayfada birebir: \"killing 300 million people in the 20th century alone\"; \"US$ 300m price-tag\"; \"half a billion vaccinations\"."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Preston'ın 1975 tarihli incelemesi soruyu başlığına taşır: ölümlülük ile ekonomik gelişme düzeyi arasındaki ilişki değişkendir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ustveri kaydinda baslik, yazar ve yil dogrudan var; abstract alani null (yayinci cikarmis). Govde artik yalnizca basligin tasidigi kadarini soyluyor ve aktarim halkasini metinde acikca beyan ediyor. Kayit yazari 'S. Preston' veriyor; onceki surumdeki 'Samuel Preston' hayalet ad riskiydi, kaldirildi."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Dudley Kirk'ün 1996'da Population Studies dergisinde yayımladığı değerlendirme bunlardan biridir ve doğrudan kuramın adını taşır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydi: author Dudley Kirk · title \"Demographic Transition Theory\" · container-title \"Population Studies\" · issued 1996 · sayfa 361-387."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Toplam doğurganlık hızı 1960'ta 4,70, 1961'de 4,57 iken 1963'te 5,31'e çıktı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV World satirlari: 1960 = 4,696 · 1961 = 4,571 · 1963 = 5,308."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Kalıcı düşüş ancak sonraki on yıllarda geldi: 1975'te 4,08, 1994'te 2,93, 2023'te 2,25.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV World satirlari: 1975 = 4,08 · 1994 = 2,933 · 2023 = 2,251."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Bongaarts ile Casterline'ın 2013'te Population and Development Review dergisinde yayımlanan incelemesi soruyu doğrudan sorar: Sahra altı Afrika'nın doğurganlık geçişi farklı mıdır?",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kayit: title \"Fertility Transition: Is sub-Saharan Africa Different?\" · authors J. Bongaarts, J. Casterline · venue \"Population and Development Review\" · year 2013."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "İncelemeye göre bölgede yüksek doğurganlığın düşen ölümlülükle birleşmesi yılda yüzde 2,5'lik bir büyüme üretti ve bu hız, yaşam düzeyini yükseltmeyi zorlaştıran toplumsal, iktisadi ve çevresel yükler doğurdu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozette birebir: \"rapid population growth-2.5 percent per year\" ve \"creates a range of social, economic, and environmental challenges and makes it more difficult for the continent to raise living standards\"."
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Aynı inceleme, bölge nüfusunun 2010'da 0,86 milyardan 2050'de 1,96 milyara, 2100'de ise 3,36 milyara çıkacağı öngörüsünü aktarır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozette birebir: \"grow from 0.86 billion in 2010 to 1.96 billion in 2050 and 3.36 billion in 2100\"."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Whyte, Wang ve Cai'nin 2015'te China Journal dergisinde yayımlanan incelemesi, Çin'in tek çocuk politikası çevresindeki yaygın kanıları tek tek ele alır ve dördünü reddeder: Mao Zedong'un doğum sınırlamasına sürekli karşı çıktığı, ülke nüfusunun onun ölümüne kadar hızla büyümeyi sürdürdüğü, 1980'de başlatılan politikanın doğurganlıkta ani bir düşüş yarattığı ve politikanın 400 milyon doğumu önlediği.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozet dort kaniyi sirasiyla sayar: Mao’nun surekli karsi ciktigi, nufusun onun olumune kadar hizla buyudugu, 1980 politikasinin ani dususe yol actigi ve 400 milyon dogumun onlendigi."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Mao zaman zaman doğum sınırlarını güçlü biçimde savundu ve 1970 sonrasında zorlayıcı bir doğum planlamasına geçildi; 1970'ten bu yana doğurganlıktaki düşüşün dörtte üçü kadarı politika başlamadan önce gerçekleşti; politikanın yürürlüğe girmesinin ardından Çin'de doğurganlık düzeyleri düzenli bir düşüş yerine dalgalandı; 1980 sonrasındaki düşüşün büyük bölümü ise zorlamaya değil iktisadi gelişmeye bağlanıyor.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozetteki DORT kanit ogesi de artik govdede: 'presided over a major switch to coercive birth planning after 1970'; 'as much as three-quarters of the decline in fertility since 1970 occurred before the launching of the one-child policy'; 'fertility levels fluctuated in China after the policy was launched'; 'most of the further decline in fertility since 1980 can be attributed to economic development, not coercive enforcement'. Ucuncu oge onceki surumde dusmustu (liste kirpmasi) — geri konuldu; kanit 3 numarali kaniyi (1980 politikasinin ani dusus yarattigi) dogrudan curuten ogedir."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Seride 2023'e kadar olan değerler tarihsel tahmin, sonrası öngörüdür; öngörü sütunu 2084'te 10,29 milyarlık bir tepe verir ve 2100'de 10,18 milyara iner.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV iki sutunlu: population_historical 2023’e kadar, population_projection__projected 2024’ten sonra. Ongoru tepesi 2084 = 10.289.315.239; 2100 = 10.180.160.744."
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Yıllık yüzde artış, 1950'de başlayan artış hızı serisi içinde 1963'te doruk yapar; mutlak artış ise nüfus serisinde 1990'da, 93 milyon kişiyle en yükseğine çıkar ve 1963'teki ekleme 69 milyondu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hiz zirvesi k2'de dogrudan (1963 = 2,283), ama yalnizca 1950-2023 araligi icinde — bu sinir govdede artik yaziyor. Mutlak eklemeler k1 tarihsel sutunundan fark alinarak hesaplandi: 1990 = 93.371.370 (butun serinin en buyuk yillik eklemesi) · 1963 = 69.433.514."
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Nüfus artış hızı 2023'te yüzde 0,87'ye inmişti; bu, 1963'teki değerin yarısından azdır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV: 2023 = 0,871 · 1963 = 2,283; 0,871 < 2,283/2."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Toplam doğurganlık hızı 2023'te 2,25 çocuğa indi; bu da 1963'teki değerin yarısından azdır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV: 2023 = 2,251 · 1963 = 5,308; 2,251 < 5,308/2."
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Çocuk ölüm oranı ise 1950'deki yüzde 24,7'den 2023'te yüzde 3,83'e düştü.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV World satirlari: 1950 = 24,7 · 2023 = 3,83."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "İki seri birlikte okunduğunda artışı yalnızca bir doğum sıçramasına bağlamak zorlaşıyor: doğurganlıktaki yükseliş yüzde on kadarken, beş yaşına varamayan çocukların payı aynı aralıkta üçte bir azaldı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki oran seriden hesaplandi: TFR 4,852 -> 5,308 = +%9,4 ('yuzde on kadar'); cocuk olum orani 24,7 -> 16,2 = -%34,4 ('ucte bir'). Kaynaklar oranlari kendisi yazmaz, yil-deger verir. Onceki surumdeki 'Artis bir dogum patlamasindan gelmedi' kesin hukmu kaldirildi: dosyanin kendi serisi ayni aralikta dogurganligin YUKSELDIGINI gosteriyor, dolayisiyla mutlak olumsuzlama desteklenemezdi."
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Kampanyanın kendi kaydı düşüşün doğasına dair bir ipucu taşır: aynı metin sonucu hem güvenli ve etkili bir aşıya hem de dünyanın dört bir yanından binlerce sağlık çalışanını seferber eden on yıllık küresel örgütlenmeye bağlar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sayfada birebir: 'thanks to a 10-year global effort, spearheaded by the World Health Organization, that involved thousands of health workers around the world' ve Tedros'un sozu 'because it had a safe and effective vaccine'. Onceki surumdeki 'bu orgutlenme ulkelerin gelir duzeyinden gorece bagimsiz kuruldu' eki sayfada YOK; kaldirildi. Kaynagin TARAF oldugu govdede acikca beyan ediliyor."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Szreter'in 1988 tarihli yeniden yorumu bu hattı başlığında duyurur: Britanya'nın 1850-1914 arasındaki ölümlülük düşüşünde toplumsal müdahale belirleyicidir ve kamu sağlığının rolü yeniden okunmalıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Baslik birebir: 'The Importance of Social Intervention in Britain's Mortality Decline c.1850-1914: a Re-interpretation of the Role of Public Health'. abstract null, venue bos — destek BASLIK duzeyindedir ve govde bunu acikca soyluyor. Kapsam farki (Britanya 1850-1914 vs. yirminci yuzyil ortasi kuresel dusus) da govdede beyan edildi."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Bu sıralamanın alışılmış anlatımı Bongaarts ile Casterline'ın incelemesinde de özetleniyor: geçişin erken evresinde yüksek doğurganlık, arzulanan aile büyüklüğünün yüksekliğinden gelir; düşüş ise kentleşme ile eğitimin yükselmesi, iktisadın değişmesi ve ölümlülüğün gerilemesi aileleri daha az doğum istemeye götürdüğünde başlar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozette birebir: 'high fertility in the early stages of the demographic transition is the consequence of high desired family size' ve 'Fertility decline occurs once rising levels of urbanization and education, changes in the economy, and declining mortality lead parents to desire a smaller number of births'. Bu, dosyanin MERKEZI mekanizmasidir ve onceki surumde kaynaksizdi; k6 yalniz Crossref ustverisidir ve kuramin ICERIGINI tasiyamaz (yalniz adini tasir)."
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Birincisi çocuğun ailedeki iktisadi işlevidir: çocuklar tarım gibi aile işletmelerinde yardımcıdır ve yaşlılıkta güvencedir. İkincisi ölümün kendisidir: yüksek çocuk ölümlülüğü aileleri kaybı karşılamak ya da yerine koymak için fazladan doğuma yöneltir. Üçüncüsü arzunun uygulamaya dökülmesidir: aileler daha az doğum istediğinde bunu doğum denetimi ya da kürtajla gerçekleştirir, aile planlaması programları da pek çok ülkede bu yöntemlerin benimsenmesini hızlandırır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozette birebir: 'Couples want many children to assist with family enterprises such as farming and for security in old age'; 'high child mortality leads parents to have additional children to protect against loss or to replace losses'; 'parents rely on contraception or abortion, and family planning programs in many countries accelerate their adoption'. Onceki surumdeki uc aciklama grubu (cocuk emeginin degeri, davranisin komsuluk yoluyla yayilmasi, olum) tamamen kaynaksizdi; ikinci grup kaynakta karsiligi olmadigi icin degistirildi."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "İncelemenin kendi saydıkları kentleşme düzeyi, eğitim süresi, iktisadın değişmesi, çocuk ölümlerinin ne kadar gerilediği ve doğum denetimine erişimdir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozetteki 'rising levels of urbanization and education, changes in the economy, and declining mortality' + 'contraception or abortion'. Onceki surumdeki listede yer alan 'evlilik yasi' ve 'akrabalik duzeni' ozette YOK; govde bunlari artik kaynak disina ayirip acikca beyan ediyor."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Sahra altı Afrika'nın geçişinin ayrı bir soru olarak açılması da bunun işaretidir — bir bölgenin farklı olup olmadığı ancak ortak bir takvim beklendiğinde sorulur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak PREMISI dogrudan tasiyor (baslik: 'Fertility Transition: Is sub-Saharan Africa Different?' — soru gercekten acilmistir); SONUC ('ortak bir takvim beklendiginin isareti') govdenin kendi cikarimidir, bu yuzden kismi. Onceki surumdeki 'yirminci yuzyilin ortasinda yapilan ongorulerin cogunda vardi' iddiasi olculemez bir nicelemeydi (hangi ongoruler, hangi oran) — kaldirildi."
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "BM Nüfus Bölümü'nün veri portalı, toplam nüfus, toplam doğurganlık hızı ve beş yaş altı ölüm hızı göstergelerinin kaynağını World Population Prospects'in 2024 revizyonu, kapsamını da 1950 ile 2100 arası olarak listeler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gosterge kutugunde birebir: id 49 'Total population by sex', id 19 'Total fertility rate', id 24 'Under-five mortality rate (U5MR)' — ucunun de sourceName 'World Population Prospects', sourceYear 2024, sourceStartYear 1950, sourceEndYear 2100. Kunye dizesi 'World Population Prospects: The 2024 Revision' sourceCitation alaninda birebir geciyor."
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Bu dosyanın okuduğu seri ise MÖ 10.000'e kadar geriye uzanıyor. İki kapsam arasındaki fark, 1950 öncesinin BM kaydından gelemeyeceğini gösterir; o bölüm tarihsel nüfus yeniden kurulumlarıyla dolduruluyor.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k10",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 CSV'sinin ilk satiri World,OWID_WRL,-10000 (MO 10.000). k10 WPP kapsamini 1950-2100 olarak veriyor. Iki kapsamin farki cikarim yoluyla kuruldu: 1950 oncesi WPP'den gelemez. Depodaki veri-setleri/dunya-nufusu-uzun.LISANS.md bu bilesimi 'HYDE 3.3 + Gapminder + BM WPP' olarak kaydeder ama LISANS dosyasi kunye degildir; govde bu yuzden saglayici adlarini yazmiyor, yalnizca 'tarihsel nufus yeniden kurulumlari' diyor."
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Dolayısıyla yukarıda anılan 1500, 1800, 1900 ve 1927 değerleri sayımların toplamı değil, dolaylı kanıttan geriye doğru kurulmuş tahminlerdir: 1927'de iki milyara ulaşıldığı cümlesi, 2022'de sekiz milyara ulaşıldığı cümlesiyle aynı sağlamlıkta değildir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "i034'un sonucu. Kaynaklar 'ayni saglamlikta degildir' hukmunu cumle olarak tasimaz; hukum iki kunyenin kapsam farkindan cikariliyor ve destek bu yuzden kismi tutuldu. Bu ayrim onceki surumde HIC yoktu: dosya 1927 ve 2022 degerlerini ayni kanit tabanindan geliyormus gibi yan yana koyuyordu, oysa ozette ve ilk paragrafta manset olan '1927'de iki milyar' bir yeniden kurulumdur."
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Bu dönüş her yerde aynı anda gerçekleşmiyor ve yukarıdaki künyeler ülke ülke dağılımı vermiyor; verdikleri tek şey 2023'te kadın başına 2,25 çocukluk bir dünya ortalamasıdır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV: 2023 = 2,251. Cumlenin ikinci yarisi kapsam beyanidir: dosya ulke duzeyinde dagilim tasimadigini soyluyor. Onceki surum yaslanma/yenileme duzeyi tartismasini hicbir olcuye baglamadan veriyordu."
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Politika tartışması tek bir ülkeyle de sınırlı kalmadı: aile planlaması programları pek çok ülkede doğum denetimi yöntemlerinin benimsenmesini hızlandırdı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozette birebir: 'family planning programs in many countries accelerate their adoption'. Onceki surumde bu paragraf butunuyle kaynaksizdi ve programlari uc turde siniflandiriyordu ('gonullu hizmet sunumu / tesvik ile baskinin karisimi / acik zorlama'); bu uclu tipoloji hicbir kunyede yok, kaldirildi."
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Doğurganlık düşerken nüfusun büyümeyi sürdürmesi, artışın kaynağının artık doğurganlık düzeyi olmadığına işaret eder; demografide bu, geçmiş yılların büyük kuşaklarının çocuk doğurma yaşında olmasıyla açıklanır — ama buradaki künyeler yaş yapısını doğrudan ölçmüyor.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Nufus momentumu iddiasi. k1 ve k4 yalniz iki seriyi (nufus buyuyor, TFR dusuyor) tasir; yas yapisi verisi depoda YOK. Onceki surum bunu kesin bir nedensellik cumlesi olarak veriyordu ('...olmasindan geliyor'); artik alanin standart aciklamasi olarak isaretlendi ve olcumun yapilmadigi govdede beyan edildi. tur: yorum oldugu icin 4-sayac sinifi olculemez."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 30,
+    "kismi": 7,
+    "desteksiz": 0,
+    "olculemez": 1
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
+}

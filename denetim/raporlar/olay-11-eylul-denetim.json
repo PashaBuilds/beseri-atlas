@@ -1,9 +1,9 @@
 {
   "id": "olay-11-eylul",
   "gecis": 2,
-  "zaman": "2026-08-29T14:54:20.461Z",
-  "govde_hash": "90e63b8f62ac",
-  "commit": "cd6a45e",
+  "zaman": "2026-08-29T15:42:51.813Z",
+  "govde_hash": "bed7267ec76c",
+  "commit": "fdab69c",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -49,27 +49,33 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Olay ayrıca alışılmadık ölçüde iyi belgelenmiştir: hem iki partili bir komisyon hem de bir teknik soruşturma kurumu bulgularını kamuya açık raporlar hâlinde yay",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Hamilton'ın yürüttüğü beş Cumhuriyetçi ve beş Demokrattan kurulu bir komisyon ile standartlar kurumu NIST, bulgularını kamuya açık raporlar hâlinde yayımladı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Hamilton'ın yürüttüğü beş Cumhuriyetçi ve beş Demokrattan kurulu bir komisyon ile standartlar kurumu NIST, bulgularını kamuya açık raporlar hâlinde yayımladı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
-      "iddia": "Olay ayrıca alışılmadık ölçüde iyi belgelenmiştir: hem iki partili bir komisyon hem de bir teknik soruşturma kurumu bulgularını kamuya açık raporlar hâlinde yay",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Hamilton'ın yürüttüğü beş Cumhuriyetçi ve beş Demokrattan kurulu bir komisyon ile standartlar kurumu NIST, bulgularını kamuya açık raporlar hâlinde yayımladı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
       "iddia": "Saat 8.46'da, saatte yüzlerce kilometre hızla giden ve yaklaşık 10.000 galon jet yakıtı taşıyan bir yolcu uçağı kuzey kuleye girdi; 9.03'te ikinci bir uçak güne",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
       "iddia": "Her gün 50.000'e varan insanın çalıştığı iki kule, doksan dakika dolmadan çöktü.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -134,8 +140,8 @@
     {
       "anahtar": "k1",
       "iddia": "Operasyonun maliyeti 400.000 ile 500.000 dolar arasında hesaplanmıştır; bu paranın 270.000 dolardan fazlası ülke içinde harcandı ve işlemler bankacılık sistemin",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -159,19 +165,25 @@
       "anahtar": "k1",
       "iddia": "Komisyon raporu 2004'te üç bileşen verir: Dünya Ticaret Merkezi'nde 2.600'den fazla, Pentagon'da 125, dört uçakta 256 kişi.",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Rapor bu üç sayının saldırganları içerip içermediğini yazmaz; kapsam belirsizliği daha ilk sayımın içinde başlar.",
+      "iddia": "Bileşenlerin saldırganları içerip içermediğini yazmaz.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
+      "anahtar": "k10",
+      "iddia": "Aynı raporun dokuzuncu bölümü ise kendi toplamını verir: ülke o gün, tarihinde bir düşman saldırısıyla uğradığı en büyük can kaybını yaşamış, 2.973 kişiyi yitir",
+      "durum": "OK",
+      "not": ""
+    },
+    {
       "anahtar": "k3",
-      "iddia": "Teknik soruşturma daha dar bir çerçeveyi daha kesin sayar: kulelere yapılan saldırılarda ölenlerin sayısı 2.735'tir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Teknik soruşturma daha dar bir çerçeveyi daha kesin sayar: iki kuleye yapılan saldırılarda ölenlerin sayısı 2.735'tir.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
@@ -180,34 +192,46 @@
       "not": ""
     },
     {
-      "anahtar": "k9",
-      "iddia": "Kamusal bellekte dolaşan rakam ise üçüncü bir kapsama aittir: saldırganlar hariç 2.977 ölü, saldırganlarla birlikte 2.996.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Toza, enkaza ve bunları yaratan koşullara maruz kalanların sayısı yüz binlerle ölçülür; bir tahmine göre 18.000 kişide toza bağlı hastalık gelişti.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k11",
+      "iddia": "Aynı kurum kuleleri değil bütün Dünya Ticaret Merkezi alanını saydığında sayı 2.749'a çıkar; bunun 400'ü acil müdahale görevlisidir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k9",
-      "iddia": "Toza, enkaza ve bunları yaratan koşullara maruz kalanların sayısı yüz binlerle ölçülür; bir tahmine göre 18.000 kişide toza bağlı hastalık gelişti.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Onların kaydı başka bir yerde tutulur: 2011'de kurulan federal sağlık programının kütüğünde.",
+      "iddia": "Bugün en yaygın dolaşan rakam ise başka bir yerde durur: saldırganlar hariç 2.977 ölü, saldırganlarla birlikte 2.996.",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k3",
-      "iddia": "Kulelerin çöküşü, 2002'de çıkarılan bir yasayla kurulan resmî teknik soruşturmanın konusu oldu; standartlar kurumunun bu yetkiyle yürüttüğü ilk soruşturmaydı ve",
+      "anahtar": "k9",
+      "iddia": "Sayı zamanla da değişti: saldırıdan sonraki haftalarda ölü sayısı 6.000'in üzerinde tahmin ediliyordu, sonunda doğrulananın iki katından fazla; 2011'de kimlik t",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Toza, enkaza ve bunları yaratan koşullara maruz kalanların sayısı yüz binlerle ölçülür; bir tahmine göre 18.000 kişide toza bağlı hastalık gelişti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Toza, enkaza ve bunları yaratan koşullara maruz kalanların sayısı yüz binlerle ölçülür; bir tahmine göre 18.000 kişide toza bağlı hastalık gelişti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Onların kaydı başka bir yerde tutulur: Başkan Obama'nın 2 Ocak 2011'de imzaladığı James Zadroga yasasıyla kurulan federal sağlık programının kütüğünde.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kulelerin çöküşü, 2002'de çıkarılan bir yasayla kurulan resmî teknik soruşturmanın konusu oldu; NIST'in kendi kaydına göre bu, kuruma o yasayla verilen yetkiyle",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
@@ -223,9 +247,9 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Aynı kurum, kamuoyunda dolaşan bazı iddiaları da tek tek yanıtlamıştır; örneğin çeliğin belirli bir sıcaklığa sertifikalandığı iddiasının teknik olarak karşılığ",
+      "iddia": "Ticaret Bakanlığı'na bağlı kurum, kamuoyunda dolaşan bazı iddiaları da tek tek yanıtlamıştır; örneğin çeliğin belirli bir sıcaklığa sertifikalandığı iddiasının ",
       "durum": "OK",
-      "not": ""
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k5",
@@ -247,7 +271,7 @@
     },
     {
       "anahtar": "k9",
-      "iddia": "Amerika saldırının ardından Afganistan'ı işgal etti; NATO da kuruluş antlaşmasının ortak savunma maddesini tarihinde ilk ve tek kez bu olay için işletti.",
+      "iddia": "Amerika saldırının ardından Afganistan'ı işgal etti; NATO da kuruluş antlaşmasının ortak savunma maddesini bu olay için işletti.",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -301,15 +325,21 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "Yetki metni de aynı yönü gösterir: 2001 tarihli kuvvet kullanma yetkisi gücü saldırıdan sorumlu olanlarla sınırlar.",
+      "iddia": "2001 yetkisi gücü saldırıdan sorumlu olanlarla sınırlar.",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k9",
-      "iddia": "Buna karşın 2003'te başlayan Irak Savaşı, 11 Eylül sonrası dönemin savaşları arasında sayılagelmiştir.",
+      "anahtar": "k12",
+      "iddia": "Irak'a karşı güç kullanmak için Kongre 16 Ekim 2002'de ayrı bir yetki yasası çıkarmak zorunda kaldı; o metnin gerekçesi 11 Eylül sorumluluğu değil, Irak'ın oluş",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "2002 yasasının başlangıç bölümü 11 Eylül'ü defalarca anar: örgüt üyelerinin Irak'ta bulunduğunu, saldırının kitle imha silahlarının teröristlerin eline geçmesin",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -355,9 +385,9 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "Toz maruziyetine bağlı hastalıklar için 2011'de kurulan federal sağlık programı, 2015'te 2090 yılına kadar uzatıldı; 2019'da yeni kayıt sınırları 25.000'den 75.",
+      "iddia": "Zadroga yasasıyla kurulan sağlık programı, Başkan Obama'nın 2015'te imzaladığı bir yasayla yetmiş beş yıl daha, 2090'a kadar uzatıldı; Başkan Trump 2019'da yeni",
       "durum": "OK",
-      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "9 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k9",

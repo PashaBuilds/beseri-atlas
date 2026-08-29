@@ -1,15 +1,59 @@
 ## olay-iran-devrimi-1979
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:59:26.226Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T15:53:15.833Z_
 
-- [OK]      k1 → "Bu devrimin arka planı, kaynağın kendi bölümlemesinde uzun bir dizi olarak verilir: Anglo-İran Petrol Şirketi …" — 7 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "Beyaz Devrim ile Humeyni'nin sürgünü aynı yılları — 1963-1979 — kaplar." — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "İki sürecin aynı aralıkta ve ayrı başlıklar altında verilmesi, devrimin bir reform programı ile ona yönelen mu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, sürgün bölümünün altında devrimin ideolojisi ile muhalefet grupları ve örgütlerini ayrı alt başlıklar …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Muhalefetin çoğul olarak sayılması, devrimin tek bir hareketin ürünü olmadığını gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, 1970-1977 için tek bir başlık, ardından patlak veriş için ayrı bir alt başlık ve 1978 için ayrı bir "ö…"
-- [ATOMSUZ] k1 → "On yılın tek başlıkta, tek yılın birden fazla başlıkta toplanması, anlatının son evrede hızlandığını gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Devrimin öncesindeki on yıl, petrolün fiyatının küresel olarak yaklaşık yüzde 300 arttığı yıllardı: varil başı…"
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1991'de yaklaşık 5,42 milyardır."
-- [ATOMSUZ] k1 → "Devrimin seyri, kurulan rejimin yapısı, dış politika sonuçları ve sonraki dönemler burada ayrı başlıklar altın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Mohammed Rıza Pehlevi 16 Ocak 1979'da İran'dan ayrıldı." — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "İki hafta sonra Ruhullah Humeyni Fransa'daki sürgününden Tahran'a döndü; Şubat başındaki silahlı çatışmaların …" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Mart sonundaki halk oylamasında oy kullananların yüzde 98,2'si monarşinin yerine bir İslam cumhuriyeti kurulma…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k2 → "Rejimi deviren şey ne bir subay darbesi ne kırsal bir gerilla savaşıydı: dönemin Amerikan istihbarat değerlend…"
+- [ATOMSUZ] k2 → "Devrim ayrıca alışılmadık biçimde eşzamanlı belgelenmiştir: olay sürerken yazılmış istihbarat muhtıraları, bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Devrim ayrıca alışılmadık biçimde eşzamanlı belgelenmiştir: olay sürerken yazılmış istihbarat muhtıraları, bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Devrim ayrıca alışılmadık biçimde eşzamanlı belgelenmiştir: olay sürerken yazılmış istihbarat muhtıraları, bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "1978 boyunca protesto dalgası basamak basamak yükseldi: Ağustosta Abadan'daki Sinema Rex yangını, 8 Eylülde sı…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Dalganın doruk noktası 10-11 Aralık 1978'deki Tasua ve Aşura yürüyüşleriydi." — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "19 Ağustos 1978'de Sinema Rex yangınında yaklaşık dört yüz kişi öldü; yangını İslamcı militanlar çıkarmıştı, a…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Zeminde ayrıca şu vardı: rejim toplumun bazı kesimlerince baskıcı, acımasız, yolsuz ve savurgan görülüyor, ayn…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Tasua ve Aşura yürüyüşlerini izleyen bir Amerikan istihbarat muhtırası, 21 Aralık 1978'de, Tahran'da bir milyo…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k2 → "Muhtıraya göre işi yapan merkezî bir parti değildi: geleneksel görevi dinî alayları düzenlemek olan ve dastehg…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Yürüyüşün lojistiği de aynı elden çıkmıştı: gruplar hoparlörlü minibüslerden verilen talimatlarla durup ilerli…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Ayetullahlar ve siyasetçiler kortejin başında değil, yürüyüş ana güzergâha çıktıktan sonra aralarına katılıyor…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Aynı muhtıra, dinî muhalefetin bu örgütsel gücünün onu muhalefetin geri kalanından ayırdığını, buna karşılık U…" — programatik olarak ölçülemedi (ad karşılığı yok): Ulusal, Cephe
+- [OK]      k2 → "Solun silahlı kanadı da sahnedeydi: 1971'den beri etkin olan Halkın Fedaileri, 1978 sonbaharında Tahran, Tebri…" — 2 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k2 → "Buna rağmen muhtıra, olayların arkasında yabancı unsurların, solcuların ya da Tudeh Partisi'nin yönlendirici e…"
+- [OK]      k3 → "Tudeh Partisi Şah'ın düşüşüyle birlikte yirmi yıllık yeraltından çıktığında İran içinde muhtemelen en fazla bi…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "1980 Haziranında ise, belgede kimliği karartılmış bir kaynak, partinin yüz binden fazla üye ve sempatizanı old…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Aynı belge, rejimin Tudeh'e öteki sol gruplardan daha hoşgörülü davrandığını, çünkü partinin rejimin bütün tem…"
+- [OK]      k1 → "Ervand Abrahamian'a göre Haziran 1981 ile Haziran 1985 arasında devrim mahkemelerinin idam ettiği sekiz bin mu…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Theda Skocpol'ün 1982'de Theory and Society dergisinde çıkan yazısı, adını taşıdığı iki kavramla — rantiye dev…"
+- [OK]      k9 → "Charles Kurzman'ın 2004 tarihli kitabı ise başlığından itibaren karşı yönde durur: devrim "düşünülemez" olandı…"
+- [OK]      k9 → "Annabelle Sreberny-Mohammadi ile Ali Mohammadi'nin kitabı üçüncü bir eksen açar ve adında taşır: küçük medya, …"
+- [OK]      k1 → "1977'ye gelindiğinde Şah'ın siyasi liberalleşme politikası yürürlükteydi; laik muhalefet gizlice toplanıp hükü…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Aynı yıl Amerikan başkanı Carter'ın, insan hakları ihlali yapan ülkelerin Amerikan silah ve yardımından yoksun…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Aralık 1978 muhtırası, muhalefetin kullandığı teknik donanımı ayrı bir başlıkta ele alır ve yabancı bir el ara…"
+- [ATOMSUZ] k2 → "Muhtıra, çatışma seslerinin ses kayıtlarıyla çoğaltılıp gece boyunca yayılmasının da zorunlu olarak dışarıdan …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Aynı teknoloji Humeyni'nin kendi sesini de taşıdı: Şah onu Necef'ten çıkarttırınca Fransa'nın Irak'takinden iy…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k8 → "Enerji eşdeğeri olarak İran'ın petrol üretimi 1970'te 2.240 TWh iken 1974'te 3.526 TWh'ye çıkmıştı."
+- [ISARET]  k8 → "Devrimin son yılında bu üretim çöktü: 1978'de 3.080 TWh olan üretim 1979'da 1.866 TWh'ye, 1980'de 862 TWh'ye i…" — kaynakta bulunamayan sayısal değer: 3.080 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)
+- [OK]      k4 → "4 Kasım 1979'da İranlı militanlar Tahran'daki Amerikan elçiliğini işgal etti ve diplomatik ve konsolosluk pers…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k4 → "Amerika Birleşik Devletleri 29 Kasım 1979'da Uluslararası Adalet Divanı'na başvurdu; divan 15 Aralık 1979'da g…" — 3 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k4 → "Karar İran hükümetinin yokluğunda verildi; İran mahkemeye gönderdiği iki yazıda davanın görülmemesi gerektiğin…"
+- [OK]      k4 → "Dava, 12 Mayıs 1981 tarihli kararla, davadan vazgeçilmesi üzerine listeden düşürüldü." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k4 → "Geçici tedbir aşamasında divan, devletler arası ilişkiler için diplomatik temsilcilerin ve elçilik binalarının…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Esasa ilişkin kararında ise İran'ın rehineleri serbest bırakmak, binaları iade etmek ve verdiği zararı tazmin …"
+- [OK]      k4 → "Divan, 4 Kasım günündeki olaylarda militanların davranışının doğrudan İran devletine yüklenemeyeceğini — yeter…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "6 Kasım 1979'da Beyaz Saray'da toplanan Ulusal Güvenlik Konseyi'nde başkan, "birlikte çalışılacak bir hükümet …" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k5 → "Aynı tutanakta elçiliği basan öğrenciler için şu değerlendirme yapılır: gruba solcular önemli ölçüde sızmıştır…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k5 → "Aynı toplantıda Dışişleri bakanı, Tahran'da Beheşti'ye ulaşıldığını ve onun elçi gönderilmesi fikrini Devrim K…" — programatik olarak ölçülemedi (ad karşılığı yok): Dışişleri, Tahran, Beheşti, Devrim
+- [OK]      k3 → "Tudeh Partisi'nin rehinelerin tutulmasını desteklemesi de aynı iç hesaplaşmanın parçasıdır."
+- [OK]      k6 → "Amerikan hükümeti, 2017'de yayımladığı resmî belge cildinde 1951-1954 İran dosyasını dört bölüme ayırır; bu bö…" — 9 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k7 → "13 Şubat 1979'da Avam Kamarası'nda savunma bakanı Mulley'e İran'la savunma iş birliğinin geleceği soruldu; bak…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k7 → "Soruyu soran milletvekili Newens ise aynı oturumda tam tersini savundu: İran halkının ayaklanmasının başarısı,…"
+- [OK]      k7 → "Bakan İran'ın içinde bulunduğu durum hakkında hüküm vermenin akıllıca olmayacağını söyledi ve milletvekilinin …"
+- [OK]      k7 → "Oturumun geri kalanı, Leeds'teki Kraliyet Cephanelik Fabrikası'nda üretimine başlanmak üzere olan Şir İran tan…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Şehitler Vakfı'nda araştırmacı olan Emadeddin Bakî'nin sayımına göre 1978-1979'da öldürülen protestocu ve devr…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Humeyni ise Şah rejiminin altmış bin kişiyi şehit ettiğini söylemişti." — programatik olarak ölçülemedi (ad karşılığı yok): Şah
+- [OK]      k1 → "Askerî tarihçi Spencer Tucker bu rakamı propaganda amaçlı ve fahiş biçimde şişirilmiş bularak reddeder ve Ocak…" — 6 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Aralık 1978 gösterilerinde "bir milyona varan" gösterici tahmini, sayılmış bir toplam değil gözlemcinin tahmin…"
+- [ATOMSUZ] k3 → "Tudeh'in üye sayısı tartışmasında da aynı yapı vardır: kaynağı belgede karartılmış bir rakam, gözlemcinin bu r…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Petrol gelirlerine yaslanan bir devletin toplumdan kopmasının sonucu olarak okunduğunda yapısal bir örnek; hiç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 5 OK · 0 ISARET · 0 HATA · 5 ATOMSUZ
+**Özet:** 39 OK · 1 ISARET · 0 HATA · 14 ATOMSUZ

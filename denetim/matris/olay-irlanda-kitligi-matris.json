@@ -1,0 +1,767 @@
+{
+  "id": "olay-irlanda-kitligi",
+  "govde_hash": "139092029a77",
+  "commit": "9181554",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Bugün Phytophthora infestans adıyla anılan hastalık aynı yıllarda Avrupa'nın patates tarlalarını baştan başa vurdu ve İrlanda dışında 100.000 kişinin ölümüne yol açtı; ada ölçeğinde bir nüfus çöküşüne ise yalnızca burada dönüştü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kufun Avrupa capinda oldugu ve Irlanda disinda 100.000 olum verdigi kaynakta yazilidir; cokusun yalnizca Irlanda'da bu olcege ulastigi cikarimi yazarindir"
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "1841 sayımında adada 8.175.124 kişi vardı, 1851 sayımında 6.552.385 kişi sayıldı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Sayım komiserleri, olağan doğum ve ölüm oranları sürseydi ve göçle gelen gidenle denkleşseydi 1851'de 9.018.799 kişi beklendiğini hesapladı; aradaki 2.466.414 kişilik farkı da ölümle ve göçle nüfustan eksilenler olarak yazdı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Komiserlerin kendi ifadesi: 'the population removed from us by death and emigration'. Fark BIRLESIK bir kayiptir; olu sayisi degildir. Onceki surum 'kayip' deyip ayrimi dusuruyordu — govdede duzeltildi. Projeksiyon 'assuming that the emigration was equal to the immigration' varsayimiyla kurulur, bu da kaynakta yazilidir."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Avam Kamarası'nın Temmuz 1847'de istediği getirim, adaya giren ve adadan çıkan tahılı, canlı hayvanı, tuzlanmış erzakı, tereyağını, kümes hayvanını ve yumurtayı yan yana koyacaktı; gümrük dairesi giriş cetvelini doldurdu, çıkış cetveline ise yalnızca yabancı ülkelere gideni yazabildi ve Britanya'ya gidenin hesabını veremeyeceğini cetvelin altına kendi eliyle not etti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "KOR HAKEM DUZELTMESI. Onceki cumle 'adadan tereyagi, tuzlanmis et, kumes hayvani ve yumurta cikmayi surdurdu' diyip k3'e dayaniyordu; oysa k3'te bu kalemler ITHALAT sutununda gecer (tereyagi 758.704 cwt), ihracat sutunu yalnizca yabanci ulkelere gideni sayar ve orada rakamlar uc haneliidir. Cumle kaynagin gercekten tasidigi seye indirildi."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Ölümlerin çoğunu da doğrudan açlık değil, açlığın açtığı kapıdan giren hastalık verdi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Adanın kırsalında toprak, on sekizinci yüzyılda yerleşen aracı düzeniyle işletiliyordu: mal sahibi kirayı acentelere bırakıyor, acenteler geliri büyütmek için tutulan parçayı durmadan bölüyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Kaynağa göre bu düzenlemenin tek istisnası, yapılan iyileştirmenin bedelini kiracıya ödeten Ulster kiracı hakkı uygulamasıydı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Tek istisna' nitelemesi kaynagin kendisine aittir: 'The only exception to this arrangement was in Ulster'. Atif cercevesi eklendi (curutucu itirazi 1)."
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Parçalar da küçüktü: 1845'te kiracı çiftliklerinin yüzde 24'ü bir ile beş akre, yüzde 40'ı beş ile on beş akre arasındaydı ve kaynağın kaydına göre bu büyüklükte bir parçada bir aileyi doyurmaya yetecek başka ürün yoktu; tek ürüne bağlanmayı asıl dayatan buydu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak birebir: 'By 1845, 24% of all Irish tenant farms were of 0.4-2 hectares (1-5 acres) in size, while 40% were of 2-6 hectares (5-15 acres)' ve 'Holdings were so small that no crop other than potatoes would suffice to feed a family'. 'Tek urun' nitelemesi kaynagindir; olculer eklenerek somutlastirildi."
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Kıtlıktan önce de küçük parçaları birleştirip büyük çiftlikler kurma eğilimi vardı; Young Ireland hareketinin gazetecisi John Mitchel, tarlaların birleştirilmesinin ancak fazla nüfusun temizlenmesiyle mümkün olduğunu ve bu sistemin 1829'da başladığını yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mitchel taraf konumundadir; iddia onun beyani olarak kaydedilir"
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "1847'de küf neredeyse tükendi ve bitkiler kendini toparladı; buna karşılık o yıl ekilen patates, yardımı yürüten Trevelyan'ın tahminine göre olağan miktarın ancak beşte biri ya da altıda biri kadardı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: 'the potatoes sown in Ireland in the year 1847 were estimated only at 1/5th or 1/6th of the usual quantity'. Onceki surum dusuk ekimi 'elde tohum kalmadigi icin' diye nedenselleştiriyordu; Trevelyan bunu SOYLEMEZ, dusuk ekimi patatese duyulan temkinle acikliyor. Nedensellik kaynagin soyledigine indirildi (curutucu itirazi 2)."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Mitchel'e göre İrlanda belki de dünyada hem ihraç edilecek fazla ürüne hem ihraç edilecek fazla insana sahip tek ülkeydi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mitchel'in kendi formulasyonu; taraf beyani olarak aktarilir. Kaynakta 'Ireland, PERHAPS, was the only country in the world' yazar — onceki surum bu cekinceyi dusurmustu, 'belki de' geri konuldu."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Kasım 1845'te hükûmet Amerika'dan gizlice 100.000 sterlinlik mısır ve mısır unu satın aldı; ilk sevkiyat hava koşulları yüzünden ancak Şubat 1846'da ulaştı ve ada değirmenleri mısır öğütmeye uygun olmadığı için dağıtım uzun bir işlemin ardından yapılabildi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Yardımı yürüten hazine yetkilisi Charles Edward Trevelyan, kendi anlatısında bu adımı aynı rakamla kaydeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Peel aynı dönemde tahıl gümrüklerini kaldırmaya girişti; ölçü 1846'da geçti ama partisini böldü, hükûmetini düşürdü ve aç kalanlara pratikte bir şey getirmedi. Haziran 1846'da yerini Whig lideri Lord John Russell aldı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Yeni hükûmet piyasanın gerekeni sağlayacağı varsayımıyla çalıştı: gıdanın İngiltere'ye akışına karışmadı ve önceki yönetimin yardım işlerini durdurdu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Trevelyan'ın kendi cetveline göre çalıştırılan sayı Ocak 1847'de 570.000, Şubat'ta 708.000, Mart'ta 734.000'e çıkmıştı ve bu, ortalama hane büyüklüğüyle üç milyondan fazla insana denk düşüyordu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Temmuz 1847'de adanın 2.049 seçim bölgesinin 1.826'sı geçici yardım yasası kapsamına alınmıştı ve 3.020.712 kişi bu yolla besleniyordu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Trevelyan'a göre İrlanda'nın toplumsal kötülüğünün kökü her şeyi bilen ve esirgeyen bir takdirin doğrudan darbesiyle açığa çıkarılmıştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "29 Mart 1847'de Avam Kamarası'nda İrlanda yoksul yardımı tasarısı görüşülürken William Henry Gregory bir ek madde önerdi: çeyrek statute akreden — yaklaşık bin metrekareden — büyük toprak tutan hiç kimse yoksul sayılmayacak, ne düşkünler evinde ne dışarıda yardım alabilecekti.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Esik tutanakta 'the quarter of a statute acre'dir (~1.011 m2). Onceki surum bunu 'ceyrek donum' diye veriyordu; donum ~1.000 m2 oldugu icin esik dortte bire yanlis kucultuluyordu. Birim duzeltildi, baslik da."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Gregory, sınırı önce yarım akre olarak düşündüğünü, ada koşullarını bilenlerin bunu fazla geniş bulması üzerine çeyreğe indirdiğini anlattı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Maddeye karşı çıkan Curteis sonucun ne olacağını oturumda söyledi: çeyrek akrede patates yetiştiren bir köylü ürününü yitirdiğinde ya toprağını bırakıp düşkünler evine gidecek ya açlıktan ölecekti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tutanakta bu MR. CURTEIS'in sozudur; kaynak yalnizca soyadi verdigi icin ad genisletilmedi."
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Madde 117'ye karşı 7 oyla kabul edildi; tutanaktaki karşı oy listesi yedi addan ibarettir: Crawford, Scrope, Escott, Williams, Evans, Humphery ve M'Carthy.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "LISTE KIRPMASI DUZELTMESI. Onceki surum yedi addan yalnizca ikisini veriyor ve ustelik tutanakta olmayan tam adlar uretiyordu ('William Sharman Crawford', 'George Poulett Scrope'); tutanak 'Crawford, W. S.' ve 'Scrope, G. P.' yazar. Kaynagin verdigi kadari yazildi, liste tamamlandi."
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Tarihçi James S. Donnelly Jr., kıtlık yıllarında kaç kişinin evinden çıkarıldığını kesin olarak bilmenin mümkün olmadığını söyler; polis ancak 1849'da saymaya başladı ve 1849-1854 arasında resmen tahliye edilen 250.000'e yakın kişi kaydetti.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Donnelly bunu düşük bir sayı sayar: gönüllü görünen terkler de eklenirse 1846-1854 aralığında toplamın yarım milyonu aşacağını yazar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "İhracat tartışmasının en sert biçimi Mitchel'e aittir; kaynağın deyişiyle o günden bu yana ünlenmiş cümle onunkidir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak 'a sentence that has since become famous' der; 'en bilinen' seklindeki ustunluk iddiasi kaynagin gucune indirildi."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Cecil Woodham-Smith'in çalışması da İngiltere ile İrlanda arasındaki ilişkiyi en çok zehirleyen konunun, insanlar açlıktan ölürken adadan büyük miktarda gıda çıkmış olması olduğunu söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Austin Bourke'ün derlediği tahıl cetveline göre İrlanda 1845'te 3.252 bin quarter tahıl ihraç edip 147 bin quarter ithal etmişti; en çok tartışılan 1846'da ihracat 1.826 bine inip ithalat 987 bine çıktı ama fazla hâlâ ihracattaydı; denge ancak 1847'de tersine döndü, ihracat 970 bine inerken ithalat 4.519 bine fırladı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cetvel Bourke'un calismasindan giris kapisi uzerinden aktarilmistir. LISTE KIRPMASI DUZELTMESI: onceki surum 1845'ten 1847'ye atliyor, tartismanin dugumlendigi 1846 satirini (ihracat 1.826 / ithalat 987 / fazla +839) atliyordu."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Parlamentonun kendi getirimleri de aynı yöne bakar: yabancı ülkelerden ve sömürgelerden İrlanda'ya gelen tahıl 1845'te 55.148 quarter, 1846'da 516.227 quarter iken 1847'de 2.692.413 quarter'a çıktı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cetvelin basligi 'from Foreign Countries and Colonies'; onceki surum 'somurgeler'i dusurmustu. 1846 ara degeri de eklendi."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Eylül 1846 ile Temmuz 1847 arasını kapsayan ayrı bir getirimde tek başına mısır ithalatı 1.957.523 quarter olarak verilir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "1825'ten beri İrlanda ile Britanya arasındaki ticareti düzenleyen kurallar yüzünden, adadan Britanya'ya giden yükün hesabını gümrük dairesi veremeyeceğini yazar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Belge birebir: 'Of the quantities Exported to Great Britain under the regulations by which the commercial intercourse between the two countries has been governed since 1825, no account can be rendered by this department.' Onceki surum 'resmi bir hesabi tutulmamistir' diyerek beyani daireden devlete genisletiyordu; 'bu daire' kaydi geri konuldu."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Mary E. Daly'nin değerlendirmesine göre kıtlık yıllarında gıda ithalatının ihracatı belirgin biçimde aştığını gösteren Austin Bourke olmuştur; aynı değerlendirme 1846 sonbaharında konulacak bir ihracat yasağının darlığı hafifletebileceğini teslim eder, o sonbaharın ihracatını yitirilen patatesin onda birine denk sayar ve Christine Kinealy'nin okumasını Mitchel'in savını fazla inandırıcı göstermekle eleştirir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "KOR HAKEM DUZELTMESI — YANLIS ATIF. Onceki surum bu bulguyu Cormac O Grada'ya atfediyordu; kaynaktaki pasaj Mary E. Daly'nin (Irish Historical Studies, 1997) degerlendirmesidir ve ithalatin ihracati asmasini acikca AUSTIN BOURKE'e mal eder. 'Onda bir' cumlesi ayni pasajda yer alir ve pasaj Kinealy'yi elestirir; onceki surum bu cumleyi dogrudan Kinealy'ye atfediyordu, bu da kaynakta yazmiyor."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Demografik bir yeniden kurmaya göre kıtlık döneminde adayı 1,3 milyon kişi terk etti ve bu kitlenin yolda ölenleri bir milyonluk ölü tahmininin içinde sayılmaz.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "En ağır yıllarda çıkış tek bir yılda 250.000'e yaklaştı; 1854'e gelindiğinde ülkeyi terk edenlerin toplamı 1,5 ile 2 milyon arasında veriliyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "1847'de Kanada'ya giden 100.000'i aşkın yolcunun beşte birinin hastalık ve yetersiz beslenmeden öldüğü tahmin edilir; yalnız Quebec yakınlarındaki Grosse Isle karantina adasında 5.000'den fazla kişi öldü.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Devletin bu akışı saymaya başlaması ise geç oldu: sayım komiserleri İrlanda limanlarında göçmen kaydı toplamaya ancak Mayıs 1851'de başladı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Sayım komiserleri 1851 raporunda İrlanda'nın doğum, evlilik ve ölüm kaydı için genel bir düzenlemeye hâlâ kavuşturulmadığını ve bu bakımdan istisnai durumda olduğunu kendileri yazar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "O soruya verilen yanıtlar 21.770 açlık ölümü ve 400.720 hastalık ölümü verdi; komiserler bu rakamların eksik olduğunu, yıkımın en ağır olduğu yerde kaydın en zayıf kalacağını, bütün ailelerin ve bütün köylerin silindiğini ekledi. Bu iki sayı ve komiserlerin çekincesi, burada sayımın kendi ölüm ciltlerinden değil, onları aktaran giriş kapısından okunuyor.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "AKTARIM HALKASI ACIKCA BEYAN EDILDI. Sayilar 1851 sayiminin olum cetvellerinden gelir ama k2'nin (General Report) getirilen metninde gecmez; ansiklopedi uzerinden aktarilmaktadir. Govdede bu artik yaziyor."
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Sonraki tarihçiler cetvellerin gerçekten de eksik saydığında birleşir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Tahminler bu yüzden dağılır: S. H. Cousens'in 800.000'lik hesabı bugün düşük kabul edilir, J. J. Lee en az 800.000 der, R. F. Foster en az 775.000 verir, Joel Mokyr ilçe düzeyindeki hesabıyla 1,1 ile 1,5 milyon arasını gösterir. Aynı kaynak gerçek sayının yarım milyon ile bir buçuk milyon arasında olmasını bekler ve en yaygın kabul gören değerin bir milyon olduğunu söyler; bağımsız bir demografik hesap da aynı değere varır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin kendi sinir beyani ('The true figure is likely to lie between the two extremes of half and one and a half million') eklendi; boylece aralik yazarin degil kaynagin cizdigi aralik olur. k8 bagimsiz demografik onaylayici olarak eklendi (curutucu itirazi 5)."
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Phelim P. Boyle ile Cormac Ó Gráda'nın 1986'da Demography dergisinde yayımladığı çalışma, kıtlık sonucu yaklaşık bir milyon kişinin öldüğünü doğrular; bu sayıya, aynı dönemde adayı terk eden 1,3 milyon göçmen arasındaki ölümler dahil değildir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k8 kaydi yazar adini 'P. Boyle' olarak verir; govdedeki 'Phelim P. Boyle' genisletmesi k1'in kaynakcasindan dogrulanmistir ('Boyle, Phelim P.; O Grada, Cormac (November 1986)'). Hayalet ad degildir ama genisletmenin kaynagi k8 degil k1'dir."
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Aynı çalışma kıtlığın doğurganlığı da düşürdüğünü, 300.000'den fazla doğumun hiç gerçekleşmediğini ve nüfusun 1845 sonunda 8.525.000 ile tarihinin en yüksek düzeyinde olduğunu tahmin eder.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "1996'da New Jersey eyaleti kıtlığı ortaokul müfredatındaki soykırım programına aldı; program kütüphaneci James Mullin tarafından hazırlandı ve gelen eleştiri üzerine eyalet komisyonu iki hukuk profesöründen, Charles E. Rice ile Francis Boyle'dan, olayın soykırım olduğunu bildiren görüş aldı; kaynak, ikisinin de o güne dek İrlanda tarihi çalışmalarıyla tanınmadığını ekler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin kendi cekincesi ('who had not been previously known for studying Irish history') onceki surumde dusurulmustu; geri konuldu."
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Karşı kanatta Ó Gráda soykırım iddiasını reddeder ve kastın bulunmadığını vurgular; Donald Akenson daha sert bir dille aynı yönde konuşur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Robbie Mcveigh, iddianın uzun bir geçmişi olmasına rağmen soykırım çözümlemesinin araçlarının bu vakaya hiç uygulanmadığını yazar; John Leazer ise tartışmanın iyi-kötü ikiliğine sıkışmasının açıklamayı basitleştirdiğini savunur; nitelemeyi savunan soykırım araştırmacıları da vardır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak 'There have been later genocide scholars who support the description of the famine as a genocide' der ve Neysa King ile Nat Hill'i adlandirir; onceki surum bu kanadi bastan dusurup tartismayi yalnizca 'kamusal' gosteriyordu."
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Mark G. McGowan'ın 2017 tarihli değerlendirmesi, gazeteci Tim Pat Coogan'ın soykırım savını tarihsel kanıtın desteklemediğini ileri sürer; sorumluluğu Britanya hükûmetlerinin kötü kurulmuş politikalarıyla sınırlamaz, toprak sahiplerine, tüccarlara, büyük çiftçilere, milliyetçi siyasetçilere, ruhban sınıfına ve liman görevlilerine yayar ve kıtlığın kökünde işlemez bir toprak düzeniyle patatese bağımlılığın durduğunu yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SUS DIPNOTU KALDIRILDI. Onceki surum k9'u yalnizca makalenin BASLIGI icin kullaniyordu; oysa Crossref kaydi yayincinin ozetini tasir ve McGowan'in konumu bu ozette birebir yazilidir. Ozet yazarin kendi beyanidir, makalenin kaniti degildir — kunye notu buna gore duzeltildi."
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Konuyu çalışan tarihçilerin çoğunluğu soykırım nitelemesini reddeder; soru kamusal tartışmada kapanmamıştır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "Sayım komiserlerinin cetveline göre ada nüfusu 1851'de 6.552.385 iken 1856 başında 6.077.283'e inmişti; limanlardan çıkan göçmen sayısı 1852'de 190.322 ile doruğa vurdu, sonra düzenli olarak geriledi ve 1855'te 91.914'e indi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "AŞIRI KESIN IFADE DUZELTILDI. Onceki surum 'kitlik bittikten sonra da her yil yuz bini asan bir cikis vardi' diyordu; k2'nin cetveli 1855 icin 91.914 verir, yani esigin altindadir. Cetvelin kendi sayilari yazildi."
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "Adanın nüfusu kıtlık öncesi düzeyine yirmi birinci yüzyıla kadar dönmedi; olayın en uzun süren izi budur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Bir mantar hastalığının hikâyesi olarak okunursa 1845'te başlar ve 1852'de biter.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i050",
+      "cumle": "1997'de Cork'ta düzenlenen anma töreninde Başbakan Tony Blair adına okunan ve Londra'daki yönetimin halkını yüzüstü bıraktığını kabul eden mesaj, İrlanda basınında uzun beklenen özür olarak karşılandı; 2021'de açılan arşiv belgeleri mesajın Blair tarafından yazılmadığını ve onaylanmadığını, özel kalem müdürünün kendi inisiyatifiyle onayladığını gösterdi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i051",
+      "cumle": "Bağımlılık çeşit düzeyinde de dardı: ekilen patatesin orantısız bir bölümü Irish Lumper çeşidiydi ve bu genetik darlık hastalığa açıklığı artırıyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak birebir: 'A disproportionate share of the potatoes grown in Ireland were the Irish Lumper, creating a lack of genetic variability among potato plants, which increased vulnerability to disease.' Kor hakem ekledi: tek nedenli anlatiyi kirmak icin kufun nedenselligiyle mulkiyet duzeni arasindaki ucuncu halka."
+    },
+    {
+      "iddia_id": "i052",
+      "cumle": "Kıtlığın en ağır yılı bu yüzden hastalığın en şiddetli olduğu yıl değil, hastalığın çekildiği 1847'dir: tahliyelerin büyük kütlesi de, yardım rejiminin baştan kurulması da o yıla düşer.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: 'In 1846, there had been some clearances, but the great mass of evictions came in 1847' ve 'In January 1847, the government abandoned its policy of noninterference'. Kor hakem ekledi: paragrafin yorum cumlesi boylece k5 disinda bagimsiz bir kaynaga baglandi (curutucu itirazi 2)."
+    },
+    {
+      "iddia_id": "i053",
+      "cumle": "Kıtlığın erken ve daha hafif evresine verilen yanıt Robert Peel'in Tory hükûmetinden geldi; tarihçi F. S. L. Lyons'a göre bu yanıt hızlı ve nispeten başarılıydı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: 'Historian F. S. L. Lyons characterised the initial response of the British government to the early, less severe phase of the famine as prompt and relatively successful.' Onceki 'Ilk tepki...' cumlesi atifsiz oncelik iddiasiydi; degerlendirme sahibine baglandi (curutucu itirazi 4)."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 52,
+    "kismi": 1,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "8 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
+}

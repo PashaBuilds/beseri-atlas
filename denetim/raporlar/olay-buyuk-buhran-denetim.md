@@ -1,14 +1,55 @@
 ## olay-buyuk-buhran
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:44.282Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T15:56:47.171Z_
 
-- [OK]      k1 → "Büyük Buhran 1929'da başladı ve dönemin diplomatik gündeminde "1929'da başlayan buhrana verilen tepkiler" ile …" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k2 → "Wecter'in klasik incelemesi de dönemi daha başlığında 1929–1941 olarak çerçeveler."
-- [ATOMSUZ] k1 → "Ara dönem gündeminin listesi bu bağı doğrudan kurar: buhrana verilen tepkiler, dünya ticaretinin çöküşü, demok…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "İktisadi otarşi çabalarının büyümesi, dönemin tanımlayıcı başlıklarından biri olarak sayılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Dönemin en ağır siyasi sonucu, demokratik rejimlerin birer birer çökmesidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Aynı yıllarda Weimar Cumhuriyeti'ni 1933 sonrası Nazi dönemi izledi ve 1936–1939 arasında İspanya İç Savaşı ya…" — 6 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Kaynak ikisini aynı dönemin ayrı başlıkları olarak listeler; aradaki bağın gücü ve yönü tarih yazımının açık s…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Buhranın vurduğu dünyada nüfus 1914'te yaklaşık 1,82 milyar, 1945'te yaklaşık 2,38 milyardı."
-- [OK]      k2 → "Bu çerçevenin dönemi 1941'de bitirmesi, iktisadi krizin savaş ekonomisiyle sona erdiği yönündeki yaygın görüşü…"
+- [OK]      k1 → "Amerika Birleşik Devletleri'nde işsizlik oranı Ağustos 1929'da yüzde 3'ken Mart 1933'te yüzde 25'e çıkmış, san…" — 8 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k4 → "Aynı yıllarda Almanya'da kayıtlı işsiz sayısı 5,6 milyona ulaştı."
+- [ATOMSUZ] k1 → "Buhran, sabit kurlu bir para düzeninin — savaş arası altın standardının — üzerinde yürüdü; dönemin kendi kurum…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Buhran, sabit kurlu bir para düzeninin — savaş arası altın standardının — üzerinde yürüdü; dönemin kendi kurum…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Popüler anlatı Ekim 1929'daki borsa çöküşü ile buhranı tek bir olay sayar; konjonktür kronolojisi ise daralman…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Çöküşün öncesinde Federal Rezerv'in Ocak 1928'de başlattığı sert bir sıkılaştırma vardır: açık piyasada satışl…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Ekim 1929 ile Aralık 1929 arasında sanayi üretim endeksi 110'dan 100'e indi; 1930 boyunca 100'den 79'a geriled…" — 6 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Yine de 1930 sonunda görünen tablo, tarihsel ölçekte benzersiz sayılacak bir daralma değildi; büyüklüğü daha ö…"
+- [OK]      k1 → "Birincisi Ekim 1930'da başlayıp Aralık'a kadar sürdü; ikincisi Haziran 1931'de geldi ve yıl sonuna kadar dinme…" — 5 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k1 → "Mevduat sigortasının bulunmaması, paniklerin yalnızca zaten kırılgan olanlara değil sağlam kurumlara da bulaşm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "1913 öncesinde özel bankaların takas odaları üzerinden kredi açması ve mevduatın nakde çevrilebilirliğini askı…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "1932 ve 1933 birlikte alındığında tüketici fiyatları yüzde 16,2, dar tanımlı para arzı yüzde 21,6, geniş tanım…"
+- [OK]      k1 → "Sabit 1929 fiyatlarıyla ABD gayrisafi millî hasılası 1929'da 104,4 milyar dolarken 1933'te 74,2 milyar dolara …" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Roosevelt göreve başlar başlamaz 6-13 Mart 1933 arasında ülke çapında banka tatili ilan edildi; ardından Yenid…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Bu düzenlemeler finans piyasalarına hemen bir rahatlama sağladıysa da kredi verenler 1929-1933 deneyiminden so…"
+- [ATOMSUZ] k1 → "En ağır kusuru simetrisizlikti: altın kaybeden ülke para arzını daraltmak zorundaydı, altın biriktiren ülkeyi …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Derlemenin Bernanke ile James'ten aktardığı hesaba göre dünyanın parasal altınının yaklaşık yüzde 60'ını birli…"
+- [OK]      k1 → "Fransa Merkez Bankası'nın açık piyasa işlemi yapması yasaktı; ülke 1932'ye kadar altın biriktirmeyi sürdürdü v…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Mayıs 1931'de Avusturya'nın en büyük bankasının çökmesi Avrupa'da panik başlattı; Almanya'da kilitlenen fonlar…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Maliye Bakanı Philip Snowden 21 Eylül 1931'de Avam Kamarası'na, İngiltere Bankası'nın Ağustos başında Amerikan…" — 7 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Aynı oturumda hükümet, 1925 tarihli Altın Standardı Yasası'nın Bankayı külçe altın satmakla yükümlü kılan hükm…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k3 → "Snowden tasarının kapsamını dar tutmaya özen gösterdi: "this will not affect the free gold market in London" d…"
+- [ATOMSUZ] k1 → "Ekonomi tarihçilerinin karşılaştırmalı çalışmalarının vardığı sonuç şudur: bir ülke altın standardını ne kadar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "İsveç Britanya ile aynı ayda çıktı ve toparlanmaya başladı; Amerika Birleşik Devletleri Mart 1933'teki banka t…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k6 → "Kur değer kaybının başlatan ülkeye yaradığı ve daha geniş biçimde benimsenip uluslararası düzeyde eşgüdümlense…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Milletler Cemiyeti'nin 1936'da yayımladığı yıllık değerlendirmede, 1929 yüz alındığında dünya imalat üretimi 1…"
+- [OK]      k2 → "Aynı rapor, 1935'in 1929'dan bu yana dünya ticaretinin altın değerinin ilk kez — yüzde ikinin biraz altında — …"
+- [OK]      k2 → "Aynı rapor toparlanmanın ölçüsünü kendi eliyle daraltır: 1935'te dünya sanayi üretimi 1928'in üstüne çıkmıştı …" — 7 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "Haziran 1930'da imzalanan Smoot-Hawley Gümrük Yasası, popüler anlatıda buhranı ağırlaştıran açık bir politika …" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "ABD Gümrük Komisyonu'nun hesabına göre yasa, zaten yüksek olan 1922 tarifesinin üzerine ortalama vergi oranını…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "Reel ihracattaki düşüşün 1929-1931 arası reel gayrisafi yurt içi hasıla kaybının yaklaşık yüzde 21'ini açıklay…"
+- [OK]      k8 → "Kanada'nın misillemesi açıktır; buna karşılık Britanya'nın bir yüzyıllık serbest ticaret bağlılığını 1931'de b…"
+- [OK]      k4 → "1928 yüz alındığında sanayi malı üretimi 1932'de 46'ya, sermaye malı üretimi 35'e indi; istihdam 71'e, yaşam m…"
+- [OK]      k5 → "Kişi başına gayrisafi yurt içi hasıla tahmini 1929'da 6.457 dolarken 1932'de 5.359 dolara düştü."
+- [OK]      k4 → "Sayılar ile siyaset arasındaki bağ burada bir nedensellik iddiası değil bir eşzamanlılıktır: kayıtlı işsizliği…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Kişi başına hasıla tahmini 1929'da 3.665 dolardan 1931'de 3.321 dolara indi, ama 1932'de 3.529, 1933'te 3.787 …"
+- [OK]      k7 → "Toparlanmanın ölçülmüş itici gücü, Maliye Bakanı Takahashi Korekiyo'nun borçla finanse edilen maliye genişleme…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Kişi başına hasıla tahmini 1929'da 5.679 dolarken 1932'de 2.950 dolara, yani neredeyse yarıya indi; 1937'de 5.…"
+- [OK]      k5 → "Brezilya'da düşüş çok daha sığdır: 1929'da 1.465 dolar, 1931'de 1.294 dolar, 1932'de 1.312 dolar."
+- [OK]      k1 → "Friedman ile Schwartz için belirleyici olan, banka iflaslarının tetiklediği para arzı çöküşü ve Federal Rezerv…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Temin'in ilk itirazı tüketim harcamasındaki özerk düşüşe ağırlık verir; sonraki araştırma bu düşüşün özerk olm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Fisher ile Bernanke'nin borç deflasyonu ve kredi kanalı açıklaması, bilançoların bozulmasını ve aracılık maliy…"
+- [OK]      k1 → "Temin ile Eichengreen ise nedeni tek tek merkez bankalarında değil altın standardının kendisinde arar ve Feder…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Hazine Bakanı Andrew Mellon'ın Hoover'a verdiği öğüt olarak aktarılan "Liquidate labor, liquidate stocks, liqu…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Keynes'in 1936'da yayımlanan kitabı, tam da bu boşluğa — hem olayı açıklayan hem de ne yapılacağını söyleyen b…"
+- [ATOMSUZ] k1 → "Maliye politikasının toparlanmaya katkısının küçük kaldığı, oysa çok daha fazlasını yapabileceği yönündeki bul…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Nisan 1933 ile Nisan 1937 arasında parasal taban yüzde 52, dar tanımlı para arzı yüzde 49 büyüdü." — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Mayıs 1937'de on üç ay süren yeni bir durgunluk başladı; reel millî hasıla buhran öncesi düzeyine ancak 1937'd…"
+- [OK]      k1 → "Altın standardına hiç geri dönmeyen İspanya'nın buhranın tahribatından tümüyle kurtulduğu ifadesi, karşılaştır…"
+- [OK]      k5 → "Kişi başına hasıla tahminleri de kesin sayı değildir; Maddison serisi geçmişe dönük tahminlerden oluşur ve erk…"
 
-**Özet:** 5 OK · 0 ISARET · 0 HATA · 4 ATOMSUZ
+**Özet:** 42 OK · 0 ISARET · 0 HATA · 8 ATOMSUZ

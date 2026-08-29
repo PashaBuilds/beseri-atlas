@@ -1,0 +1,635 @@
+{
+  "id": "olay-vietnam-savasi",
+  "govde_hash": "511619a53bb2",
+  "commit": "9181554",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Ho Chi Minh'in komutasındaki Viet Minh güçleri, dört ay süren bir kuşatmanın ardından 1954'te Dien Bien Phu'daki Fransız garnizonunu düşürdü; Fransa Çinhindi'nden çekildi ve boşalan yere Amerika Birleşik Devletleri girdi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Bu bolluk, savaşın en çok anılan gerekçelerinden birinin yıllar sonra devletin kendi kurumu içinden düzeltilmesini de mümkün kıldı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak duzeltmenin kendisini ve kurum ici kaynagini tasir; 'belge bollugunun bunu mumkun kildigi' baglanti cumlesi yazarin yorumudur."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Vietnam tarafında karşılaştırılabilir bir kütük yok; ölü sayısı hâlâ tek bir rakam değil, hangi yöntemle sayıldığına göre değişen bir aralıktır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki kaynak iki ayri sayim duzenini gosterir; 'karsilastirilabilir kutuk yok' ifadesi bu iki kaydin farkindan cikarilan yorumdur."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Laos 1949'da, Kamboçya 1953'te bağımsızlığını aldı; Vietnam'a 1949 için söz verilen özerklik ise savunmayı ve dış politikayı Fransa'da bırakıyordu.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Ho Chi Minh'in halk desteğini kırmak için eski imparator Bao Dai yeniden öne sürüldü; tarihçi ofisinin anlatımına göre o hiçbir zaman Ho Chi Minh kadar sevilmedi ve bağımsızlık hareketi büyümeyi sürdürdü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kesinlik ifadesi ('hicbir zaman') kaynagin kendi ifadesidir ('never as popular'); atif cercevesi cumleye eklendi. Kaynagin 'bagimsizlik hareketi buyumeyi surdurdu' ogesi geri kondu."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Ho Chi Minh'in başlangıçta Amerikan karşıtı olmadığı da aynı kayıtta duruyor: Versailles Konferansı'nda sömürge halklarına destek çıkılmamasından umudunu kesmiş, 1940'lı yıllarda bağımsızlık için tekrar tekrar Amerikan yardımı istemişti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "İncelemenin örnek olarak Bernard Fall'u andığı ilk okumaya göre Amerikan politikasını 1950'ye kadar sömürgecilik karşıtlığı yönetti, o tarihte yerini komünizmin çevrelenmesine bıraktı; Viet Minh tarihçilerinin temsil ettiği ikinci okumaya göre ise Amerika Fransız sömürge iktidarının geri gelmesine baştan sona hem göz yumdu hem yardım etti, Vietnamlıların bağımsızlık isteğini ise hesaba katmadı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak ilk okumayi 'bir dizi tarihciye' atfeder, Fall'u ORNEK olarak anar; cumle buna gore duzeltildi. Ikinci okumanin kirpilmis ogeleri ('assisting', 'disregard for the nationalist aspirations') geri kondu."
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "İncelemenin kendi hükmü ikisini de reddeder: hiçbir yorum kayıtla örtüşmez, çünkü Amerika Çinhindi ile her iki okumanın varsaydığından daha az ilgilenmiş ve daha az amaçlı davranmıştır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Aynı bölüm, Roosevelt'in Çinhindi için önerdiği uluslararası vesayet düzenine Chiang Kai-shek ile Stalin'in destek verdiğini, Churchill'in çekimser kaldığını kaydeder; politikayı sonunda ilkeler değil askerî öncelikler ve Britanya'nın sömürge konusundaki direnci belirlemiştir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Eisenhower, Vietnam'ın durumunu bölgeye devrilen domino taşları benzetmesiyle bağladı; ama Amerika Fransa'yı desteklerken Kuzey Atlantik ittifakı ve Batı Almanya'nın yeniden inşası için Fransız iş birliğine de ihtiyaç duyuyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Birincisi ateşkesti: ülke on yedinci paralel boyunca geçici olarak ikiye ayrılacak, güneyde Fransız kuvvetleri, kuzeyde Ho Chi Minh'in güçleri kalacaktı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Bildirinin altıncı maddesi, askerî ayrım çizgisinin geçici olduğunu ve \"hiçbir biçimde siyasi ya da toprak sınırı sayılmaması\" gerektiğini açıkça yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde numarasi kaynaktan dogrulandi: Final Declaration md. 6."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Yedinci madde ülkenin geleceğini takvime bağlar: gizli oyla yapılacak serbest genel seçimler Temmuz 1956'da, uluslararası bir komisyonun gözetiminde yapılacak, iki bölgenin yetkili temsilcileri görüşmelere 20 Temmuz 1955'ten itibaren başlayacaktı; komisyonun üyeleri Kanada, Hindistan ve Polonya'ydı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde numarasi kaynaktan dogrulandi: Final Declaration md. 7; komisyon uyeleri metnin 8 numarali dipnotunda."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Amerika bu ikinci anlaşmayı imzalamadı; bunun yerine güneyde kendi hükümetini kurdu ve başına Ngo Dinh Diem'i getirdi. Aynı kayda göre Diem de en az Bao Dai kadar sevilmeyen bir tercihti: bağımsızlık mücadelesini yurt dışında geçirmiş, Japon işgaliyle iş birliği yapmıştı; Batı'nın gözünde onu öne çıkaran şey Katolikliğiydi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin Diem'in populer olmadigina dair kirpilmis pasaji geri kondu; secimin yapilmamasi tartismasinda tasiyici bir olgudur."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Bildirinin geri kalanı iki bölgenin hangi koşullarda yaşayacağını düzenler: hiçbir yabancı devletin denetimindeki askerî üs toplanma bölgelerinde kurulamayacak, bu bölgeler herhangi bir askerî ittifakın parçası sayılmayacak ve çatışmanın yeniden başlaması ya da saldırgan bir siyasetin hizmetinde kullanılmayacak, herkes hangi bölgede yaşayacağına serbestçe karar verebilecek ve savaş sırasında taraflardan biriyle iş birliği yapmış kişilere karşı misilleme yapılmayacaktı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Md. 5'in kirpilmis ogesi ('resumption of hostilities / aggressive policy') geri kondu; md. 8 ve 9 da ayni cumlede."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Cenevre'nin bağladığı takvim işlemedi: ne 20 Temmuz 1955'te başlaması öngörülen görüşmelerden ne de Temmuz 1956 seçiminden bir sonuç çıktı; güneyde Amerikan desteğiyle kurulan ayrı bir hükümet, geçici sayılan çizgiyi fiilî bir devlet sınırına çevirdi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iddianin olumsuz kismi iki kayittan CIKARIM yoluyla kurulur; hicbiri secimin yapilmadigini ya da sorumlulugun kimde oldugunu yazmaz. Govdeye bu cekince ve sorumlulugu tek tarafa yuklememe notu acikca eklendi."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "5 Ağustos 1964'te başkan kongreye seslendi: kuzey rejiminin uluslararası sularda seyreden Amerikan savaş gemilerine yeni ve kasıtlı saldırılar düzenlediğini, bunun üzerine hava harekâtı emri verdiğini bildirdi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "İki gün sonra kabul edilen 1145 sayılı ortak karar, kongrenin başkanın kararlılığını onayladığını ve Amerikan kuvvetlerine yönelik her türlü silahlı saldırıyı püskürtmek ile yeni saldırganlığı önlemek için gereken bütün önlemleri almasını desteklediğini yazıyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'further aggression' karsiligi 'yeni saldirilar'dan 'yeni saldirganlik'a duzeltildi."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Metnin ikinci maddesi yetkiyi Güneydoğu Asya Ortak Savunma Antlaşması'nın üyelerine ve protokol devletlerine kadar genişletir — ama yalnızca yardım isteyen üye ya da protokol devleti için. Üçüncü madde yetkinin sona ermesini başkanın bölgedeki barış ve güvenliğin makul ölçüde sağlandığına karar vermesine bağlar; aynı madde kongreye de ortak kararla yetkiyi daha erken sonlandırma imkânı tanır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ONCEKI SURUM HATALIYDI: metnin 3. maddesindeki 'may be terminated earlier by concurrent resolution of the Congress' kaydi dusurulmus, yetki tumuyle baskanin takdirine birakilmis gosteriliyordu. Md. 2'nin 'requesting assistance' kosulu da eksikti; ikisi de geri kondu."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Başkan, bölgeye dair taahhüdün ilk kez 1954'te Eisenhower tarafından verildiğini ve senatonun Şubat 1955'te onayladığı ortak savunma antlaşmasıyla tanımlandığını söyleyerek yeni bir karar değil eski bir sözün sürdürülmesini istiyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'ilk kez' kaynagin kendi ifadesidir ('first made in 1954 by President Eisenhower') ve cumlede baskana atfedilmistir; curutucunun ustunluk-iddiasi itirazi bu nedenle reddedildi. Eisenhower adi ve Subat ayi kaynaktan eklendi."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "İstihbaratı toplayan kurumun gizli dergisinde 2001 başında yayımlanan bir inceleme kayıtları yeniden okudu; kurum, bir bilgi edinme başvurusunun ardından 2005 Aralık'ında yüz kırktan fazla belgeyi, bu incelemeyle birlikte gizlilikten çıkardı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Kurum tarihçisi Robert J. Hanyok'un vardığı sonuç şudur: 2 Ağustos'ta bir Amerikan muhribine yönelik saldırı — kuşkulu koşullarda da olsa — gerçekten olmuştur, ama 4 Ağustos 1964'te ikinci bir saldırı olmamıştır. Hanyok bir örtbasın kesin kanıtını bulamadığını yazar; eldeki verinin o gecenin iddiasına uydurulması yönünde etkin bir çabaya işaret ettiğini söylemekle yetinir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ONCEKI SURUM KAYNAGIN CEKINCELERINI DUSURUYORDU: 'analistler istihbarati iddiaya uydurmustur' diye kesin yaziyor, kaynagin 'under questionable circumstances' ve 'has not found a smoking gun ... but believes the evidence suggests' kayitlarini atlıyordu. Ucu de geri kondu; aktarim kurumun kendisine degil tarihcisi Hanyok'a aittir."
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Nixon 1969'da göreve başlarken savaşı bir yıl içinde onurlu biçimde bitirebileceğini düşünüyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "İlk aylarda cephedeki baskıyı artırdı ve Kamboçya'daki kuzey üslerinin gizlice bombalanmasını emretti; haziranda Güney Vietnam devlet başkanı Thieu ile görüşerek ilk asker çekme adımını duyurdu, çekilme bir daha durmadı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Yönetimin son yıllarına kadar açık kalan soru, güneyin kuzeyle tek başına baş edip edemeyeceğiydi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "30 Nisan 1970'te Kamboçya'ya girildi — sınırdan otuz kilometrelik şeritle ve haziran sonuyla sınırlı bir harekât — ve bu karar kampüslerde sert protestolara yol açtı; Kent State Üniversitesi'nde 4 Mayıs'ta dört öğrenci öldürüldü. Aynı kaynak harekâtın öteki yüzünü de yazar: üslerde büyük miktarda erzak ve silah ele geçirildi, kuzeyin ikmal düzeni aylarca aksadı, çekilme için zaman kazanıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin harekat lehine yazdigi sonuclar ve harekatin kendi sinirlari eksikti; tek yanli cerceveyi duzeltmek icin geri kondu."
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "1971 şubatında güney kuvvetlerinin Laos'a düzenlediği Lam Son 719 harekâtını kuzey önceden sezmişti; çekilme dağınık bir kaçışa dönüştü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "1972 baharındaki kuzey taarruzu, Amerikan hava ve deniz gücünün ve güneyin gelişen savunmasının devreye girmesiyle durduruldu; asıl sonucu, Hanoi yönetimini ilk kez ciddi müzakereye oturtması oldu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'ilk kez' kaynagin kendi ifadesidir ('for the first time'). Kaynagin sayd,gi ucuncu etken (guneyin gelisen savunmasi) eksikti, geri kondu."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Ekim ayında Kissinger ile Le Duc Tho anlaşmaya vardı, Thieu metni reddetti, aralıkta kuzeye yoğun bir bombardıman uygulandı ve barış anlaşması 27 Ocak 1973'te imzalandı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Anlaşma savaşı bitirmedi: kaynağın kaydına göre Vietnamlı tarafların ikisi de anlaşmaya uymadı. Nixon, Thieu'yu ikna etmek için ihlal hâlinde Amerika'nın çok sert ve hızlı tepki vereceğine dair kişisel güvenceler vermişti; bu taahhütler iç kamuoyunun ve kongrenin savaşa yeniden girme isteksizliği, ekonomik kısıtlar ve Watergate skandalının başkanı zayıflatması yüzünden yerine getirilmedi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin 'Neither of the Vietnamese parties abided by the settlement' kaydi eksikti; tek tarafli cerceveyi duzeltmek icin eklendi. Etken listesindeki 'domestic' (ic kamuoyu) ogesi de geri kondu."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Kuzey, yeniden kurduğu güçle Mart 1975'te Orta Yaylalar'da büyük bir taarruz başlattı; 30 Nisan 1975'te ordusunun tankları Saigon'daki başkanlık sarayının kapısından geçti.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Savunma Bakanlığı'nın kayıp analiz sisteminden çıkarılan ve 2008 Nisan'ı itibarıyla güncel olan Vietnam dosyası 58.220 ölü asker kaydı taşır; bunların 47.434'ü çatışmaya bağlı, 10.786'sı çatışma dışı ölüm olarak sınıflanmıştır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dosyanin guncellik tarihi eklendi; kaynagin 'resmi istatistik degildir' uyarisi ayri bir cumleyle govdeye tasindi."
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "En eski ölüm tarihi Haziran 1956, en yenisi Mayıs 2006; en ağır yıl 16.899 kayıtla 1968'dir. Arşiv her tablonun altına aynı uyarıyı düşer: sayımlar bilgilendirme içindir, resmî istatistik değildir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin kendi cekincesi ('Record counts provided for informational purposes only, not official statistics') govdeye tasindi."
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Kütük sabit de değildir. Önceki dosya 58.193 kayıt içeriyordu; yenisi yirmi yedi kayıt fazladır ve ikisi ölüm tarihini bile aynı tanımlamaz — biri ölüm ya da olay tarihini, öteki ölümün ilan edildiği tarihi yazar; yıllara göre dağılımdaki farkların kaynağı budur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ONCEKI SURUM KAYNAGI YANLIS OKUYORDU: 27 kayitlik farki tarih tanimi tercihine baglıyordu. Kaynak bu ikisini AYRI iki degisiklik olarak yazar ve tarih alani farkini yillara gore dagilimdaki farkin sebebi olarak gosterir."
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Dünya Sağlık Anketi'nin kardeş ölümü verisini kullanan 2008 tarihli bir çalışma, 1955-2002 arasında Vietnam'da 3,8 milyon şiddete bağlı savaş ölümü tahmin etti; ama çalışmanın bu sayı için verdiği yüzde 95 güven aralığı 2,2 ile 5,9 milyon arasında uzanır. Aralık geniştir çünkü anket savaş ölümlerini ölçmek için tasarlanmamıştı: Vietnam tahmini, yakalanan toplam 290 kardeş savaş ölümü üzerine kuruludur.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ONCEKI SURUM YANLIS GUVEN ARALIGINI VERIYORDU: 3,0-8,7 milyon araligi 13 ULKE TOPLAMINA (5,4 milyon) aittir. Vietnam'in kendi araligi 2,207-5,942 milyondur ve kaynagin tablosunda yazilidir; govdeye o kondu. Yontem cekincesi (290 kardes olumu, anketin amaci) de eklendi."
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Çalışma çekincesini de yazar — tahmin yalnızca doğrudan şiddet ölümlerini kapsar, savaşa bağlanabilecek bütün fazla ölümleri değil; pasif bildirime dayanan veri tabanı ise aynı ülke ve dönem için bunun 1,8'de biri kadarını, 2,1 milyon ölümü kaydeder.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ONCEKI SURUM KAPSAM CARPITIYORDU: 'ucte bir' orani kaynakta 1995-2002 arasi 13 ULKE yillik toplamina aittir, Vietnam'a degil. Yerine kaynagin Vietnam satirindaki karsilastirma (WHS 3.812 bin / Uppsala-PRIO 2.096 bin) kondu. Calismanin 'yalnizca dogrudan siddet olumleri' sinirlamasi da eklendi."
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Savunma bakanı Robert McNamara 17 Haziran 1967'de kurdurduğu görev gücüne İkinci Dünya Savaşı'ndan o güne uzanan Vietnam politikasını inceletti; üç ayda bitmesi beklenen iş bir buçuk yıl sürdü ve sonuç kırk üç cilde dağılmış otuz yedi ayrı çalışma ile on beş belge derlemesi oldu. Kamuya açılan basılı metin bu kırk üç cilt değil, kongrenin bastırdığı on iki ciltlik gizlilikten çıkarılmış derlemedir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ONCEKI SURUM CILT SAYISINI YANLIS VERIYORDU: kaynak 'thirty-seven studies and fifteen collections of documents contained in FORTY-THREE volumes' yazar. 'On iki', kongrenin bastirdigi gizlilikten cikarilmis derlemenin cilt sayisidir ve ayni kaynakta ayri yerde gecer; ikisi ayirt edildi."
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "McNamara ekipten \"ansiklopedik ve nesnel\" bir çalışma istemişti; görev gücünün başkanı Leslie H. Gelb, sonuç metninde kendi sınırlarını da yazdı. Beyaz Saray dosyalarına erişimleri yoktu ve aldıkları talimat başlıca aktörlerle görüşme yapmalarını yasaklıyordu. Gelb ayrıca karar vericilerin zihnine giremediklerini, kararların alındığı odalarda bulunmadıklarını ve çoğu zaman bir şeyin biri öyle karar verdiği için mi yoksa durumun kendisinden öyle geliştiği için mi olduğunu ayırt edemediklerini kaydetti.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ad hayalet degildir: kaynak onsozu 'Leslie H. Gelb, Chairman, OSD Task Force' diye imzalar. Kaynagin somut erisim sinirlari (Beyaz Saray dosyalari, gorusme yasagi) parafrazin yanina eklendi."
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Kısıt yalnızca ekibin niyetinde değil, elindeki kâğıtlardaydı: Gelb 1945-1961 belgelerinin çoğunun kaybolduğunu ya da hiç tutulmadığını, 1961 sonrasının ise bol kayıt bıraktığını yazar.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ONCEKI SURUM KAYNAKTA OLMAYAN BIR IDDIA TASIYORDU: 'Hanoi'nin karar kayitlari ayni olcude acik degildir' cumlesi bir ABD savunma bakanligi incelemesiyle olculemez. Cumle kaynagin GERCEKTEN yazdigi belge asimetrisine (1945-1961 kayiplari) indirildi; Hanoi'ye dair kalan ifade artik bir iddia degil, bu dosyanin kendi kaynak tabanina dair beyandir ve dipnotsuz birakildi."
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "§ 1116, 9 Ocak 1962 ile 7 Mayıs 1975 arasında Vietnam'da görev yapmış herkesin dioksin ya da 2,4-D içeren bir herbisite maruz kaldığını varsayar; bu bir karinedir, aksi yönde olumlu delil varsa çürütülebilir. Kanun hizmete bağlı sayılacak on üç hastalığı tek tek sıralar: Hodgkin dışı lenfoma, yumuşak doku sarkomları, klorakne, Hodgkin hastalığı, porfiria kutanea tarda, solunum yolu kanserleri, multipl miyelom, tip 2 diyabet, parkinsonizm, mesane kanseri, hipotiroidi, önemi belirsiz monoklonal gammopati ve hipertansiyon; çoğu için yüzde on ya da daha ağır bir maluliyet eşiği aranır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ONCEKI SURUM LISTEYI KIRPMISTI: kanunun (a)(2) fikrasi on uc hastalik sayar, govde on tanesini yaziyor ve 'tek tek siralar' diyordu. Eksik ucu (Hodgkin hastaligi, porfiria kutanea tarda, monoklonal gammopati) geri kondu. Karinenin curutulebilirligi ((c) fikrasi: 'unless there is affirmative evidence'), 2,4-D ve yuzde on esigi de eksikti."
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Liste zamanla uzadı: 1991 tarihli Agent Orange Kanunu yeni eklemeleri bilimler akademisinin raporlarına bağladı, 2022 tarihli bir düzenleme ise bu kararların nasıl alınacağını yeniden kurdu.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Kanun, kapsam içindeki hizmeti yalnızca Vietnam'la sınırlamaz: Tayland'daki Amerikan ya da Kraliyet Tay üslerinde 1976 haziranına kadar, Laos'ta 1965 aralığından 1969 eylülüne kadar, Kamboçya'da 1969 nisanında yalnızca Mimot ve Krek'te, Guam ile Amerikan Samoası'nda 1980 temmuzuna kadar, Johnston Atolü'nde ya da oraya uğrayan bir gemide 1977 eylülüne kadar yapılmış hizmet de aynı karineye girer.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ONCEKI SURUM LISTEYI KIRPMISTI: (d) fikrasi bes kalem sayar, govde dordunu yaziyordu; Johnston Atolu eksikti. Guam/Amerikan Samoasi icin bitis tarihi (31 Temmuz 1980) de yazilmamisti. Mimot ve Krek 'iki koy' diye nitelenmisti; kanun boyle demez, adlari kondu."
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Kanunun \"herbisit\" tanımı savaşı 1962-1975 arasına ve Vietnam'a kilitler, ama az önceki listenin gösterdiği gibi aynı kanunun kapsadığı hizmet 1980'e kadar uzanır. Cenevre'nin ertelediği seçim takvimine bakan bir okuma ise savaşı 1956'ya, Fransız sömürge savaşına bakan bir okuma daha geriye taşır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ONCEKI SURUM KENDI KAYNAGIYLA CELISIYORDU: 'devletin tazminat icin tanidigi savas 1962'de baslar ve 1975'te biter' deniyordu; oysa ayni maddenin (d) fikrasi kapsami 1980'e kadar goturur. 1962-1975 yalnizca (a)(3) fikrasindaki 'herbicide agent' tanimina ve Vietnam kalemine aittir."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 40,
+    "kismi": 3,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "2 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
+}

@@ -1,0 +1,905 @@
+{
+  "id": "olay-uzay-yarisi",
+  "govde_hash": "32d87c3c0dd8",
+  "commit": "fdab69c",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Asif Siddiqi'nin saptamasıyla savaşın en gelişkin roket programı ne ABD'de ne Sovyetler Birliği'ndeydi: Peenemünde'de General Walter Dornberger'in idaresinde, teknik başında genç Wernher von Braun'la geliştirilen A-4'tü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i053",
+      "cumle": "Yörüngeye ilk uyduyu ve atmosferin dışına ilk insanı taşıyan roketler bu füzenin kopyası değildi; ama savaştan sonra Korolyov'a A-4'ün Sovyet kopyası olan R-1'i geliştirme emri verildi ve iki programın savaş sonrası kadrosu da Peenemünde ekibinden pay aldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "R-1'in A-4 kopyasi olarak siparis edildigi ve iki tarafin Peenemunde kadrosundan pay aldigi kaynakta dogrudan gecer. \"Kopyasi degildi\" olumsuzlamasi yazarin kurdugu sinirdir: kaynak R-7'yi A-4 turevi olarak sunmaz."
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Bu füzenin seri üretimi ise bir laboratuvarda değil, Harz dağlarının içine oyulmuş tünellerde, Buchenwald'dan getirilen toplama kampı tutuklularıyla yapıldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Üretimin bilançosu ile kullanımın bilançosu aynı hesapta buluşmaz: Wagner'in tahminiyle kamp sisteminin ölü sayısı yirmi bini aşarken, V-1 ile V-2'nin yol açtığı kayıplar hava bombardımanına kıyasla görece düşük kalmış, buna karşılık çoğu sivil olan kurbanlar üzerinde büyük bir dehşet üretmişti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cumle iki kaynaktan birer olguyu yan yana koyar: kamp bilancosu k1'de, fuzelerin kayip duzeyi k3'te dogrudan gecer. Karsilastirmanin kendisi yazarin kurdugu bir yanyanaliktir, kaynaklarin kurdugu bir hesap degildir."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "1943 Ağustosunda İngiliz uçakları Peenemünde'deki ordu roket araştırma merkezini bombaladı; Hitler, Speer ve Himmler bunun üzerine füze üretimini yeraltına taşıma kararı aldı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Aynı yılın 28 Ağustosunda Buchenwald'dan getirilen 107 tutuklu Nordhausen yakınındaki tünellere sokuldu; kampın kod adı Dora'ydı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i054",
+      "cumle": "İlk aylarda tutuklular yer altında yaşayıp uyudular; kimileri aylarca gün ışığı görmedi, patlatma tozunu ve gazını soludu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak \"in some cases not seeing daylight for months\" der; onceki taslak bunu butun tutuklulara yayarak cekinceyi dusurmustu."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Kayıtlı ölümler 1943 Eylülünde beş iken 1944 Ocağında 669'a çıktı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Ekim 1944'te SS, Dora'yı otuzdan fazla alt kampı olan bağımsız bir toplama kampına dönüştürdü; füze üretimi tam kapasiteye ulaştığında kampın mevcudu en az on iki bin tutukluydu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Speer'in silahlanma bakanlığı füzeleri monte etmek için Mittelwerk adlı devlet şirketini kurdu; Himmler'in adamı Hans Kammler ise hem inşaatın hem kampın belirleyici ismi oldu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Şirketin yönetimi 1944 Haziranında Alman sivil işçilere tutukluları dövmeyi ve keskin aletlerle yaralamayı yasaklayan gizli bir genelge çıkarmak zorunda kaldı; bir üretim tesisinin ne olduğu böyle bir belgeden de okunabilir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Jens-Christian Wagner, tahliyeler sırasında sekiz binden fazla kişinin öldüğünü ve Mittelbau'nun nihai bilançosunun yirmi bini aştığını tahmin eder; aynı yazar, kampı öncelikle bir silah üretim merkezi olarak anlatmanın abartı olduğunu da söyler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sayilar ve \"abarti\" saptamasi kaynakta Wagner'e tahmin olarak atfedilir; govde ayni atfi ve ayni cekinceyi korur."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Ölçü şudur: Mart 1945'te sistemde yaklaşık kırk bin tutuklu vardı, yaklaşık on altı bini ana kampta; bunların yalnızca altı binden azı ana kampla birkaç küçük alt kampta üretimde çalışıyordu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i055",
+      "cumle": "Çoğunluk inşaat işçisi ve madenciydi; aralarında yılbaşından beri Auschwitz ile Gross-Rosen tahliyelerinden gelen binlerce hasta ve bitkin tutuklu vardı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin listesinin ucuncu ogesi (tahliye hayatta kalanlari) onceki taslakta dusmustu."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "ABD birlikleri 11 Nisan 1945'te Nordhausen'e ulaştı ve hava saldırılarında yakılan tutukluların cesetleriyle hastaların yan yana yattığı Boelcke Kışlası'nı buldu.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Sovyetler kendi işgal bölgesine 5 Temmuz'da ilerlemeden önce ABD kuvvetleri çok sayıda füze parçasını ve personeli oradan çıkardı; kaynağın deyişiyle Alman bilim ve teknolojisini devralma operasyonu — sonradan Operation Paperclip adıyla anılan iş — en önemli köklerinden birini burada bulur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak \"one of its most important origins\" der; govde \"en onemli koklerinden biri\" ile ayni olcuyu tasir ve operasyonu adiyla anar."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Bir piyade birliği 1945 Mayısında Peenemünde'yi ele geçirdi; Nordhausen'deki füze tesisine ulaşan askerler, savaşın son günlerinde A-4 üretmeye zorlanmış binlerce toplama kampı tutuklusunun kalıntıları ile karşılaştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Amerikalılar roket ekibinin seçkinlerini oluşturan 525 kadar kişiyi, on üç yıla yayılan belgeleri ve en az yüz füzenin parçalarını kendi bölgelerine taşımışlardı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Geriye kalanla Sovyetler çalıştı: Mittelwerk tesislerinde bazı füzeler yeniden birleştirildi, çok sayıda Alman mühendis ve teknisyen sonradan SSCB'ye gönderildi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i056",
+      "cumle": "O gönderme de gönüllü değildi: 1946 Ekiminde sabaha karşı dörtte başlayan toplu bir nakil operasyonuyla çeşitli teknik sanayilerden yaklaşık altı bin Alman aileleriyle birlikte SSCB'ye taşındı; roketçilikle uğraşan yüz elli kadarı 28 Ekimde Moskova'ya vardı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sovyet tarafinin kendi aktarimi onceki taslakta \"cok sayida\" olarak belirsiz kalmisti; ABD tarafina verilen 525 rakaminin karsiligi kaynakta vardir."
+    },
+    {
+      "iddia_id": "i057",
+      "cumle": "Siddiqi çerçevenin iki yönde birden çarpıtıldığı konusunda uyarır: Rus tarihçiler Alman katkısını neredeyse tümüyle çevresel sayarak küçültmüş, Batı'da popüler basın ise erken Sovyet başarılarını Alman işinin uzantısına indirgemiştir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin kendi tarih yazimi uyarisi; dosyanin \"ayni tunelden iki pay\" cercevesi bu uyarinin bir ucuna yakin durdugu icin acikca yazildi."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Dora adının bugüne kalmasının nedeni, von Braun çevresindeki Alman roket mühendislerinin ABD uzay programında kazandığı ağırlıktır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Bu grubun içinden Arthur Rudolph, Mittelwerk'in üretim müdürüydü ve sonradan Apollo ay iniş projesinde kilit bir isim oldu; 1984'te vatandaşlıktan çıkarma duruşmasıyla yüzleşmek yerine ülkeden ayrıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i058",
+      "cumle": "Hamburg'a yerleşti; Alman savcılık dava açmaya yetecek delil kalmadığına karar verdi ve Rudolph 1996 başında öldü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin Rudolph faslini dengeleyen yarisi onceki taslakta dusmustu."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Sovyet tarafında Sergey Korolyov'un yolu tersinden geçer: 27 Haziran 1938'de tutuklanıp Lubyanka'ya götürüldü, ıslah çalışma kampı cezası aldı ve 1939 Ağustosunda Kolyma'ya vardı; orada bir altın madeninde toprak kazıcısı olarak çalıştı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Daha sonra sharashka denen, bilim insanlarıyla mühendisler için kurulmuş hapishanelerden birine nakledildi; 27 Temmuz 1944'te imzalanan bir kararla serbest bırakıldı ve savaşın ardından Almanya'daki Sovyet ekibine gönderildi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Siddiqi'ye göre Sovyetler, görüntü bırakmayan ve önceden haber verilmeyen bir gizlilik rejimiyle kendi başarılarının propaganda ile spekülasyon arasındaki bulanık bir alana düşmesinden büyük ölçüde kendileri sorumludur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin \"mostly responsible\" cekincesi \"buyuk olcude\" ile korundu."
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Hiroshima ile Nagasaki'nin yıkılması, Stalin'in gözünde ABD'nin mutlak askerî üstünlüğünün ilanı oldu; nükleer silah çalışması 20 Ağustos 1945'te alınan gizli bir kararla acil bir programa dönüştü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Taşıma aracı ise uzun süre ikinci sırada kaldı. Sovyet liderliği önce ele geçirilmiş bir B-29'un kopyalarını üretmeye girişti; 1947 başında bombanın kendisi öncelikliydi ve hangi taşıma sisteminin izleneceğine dair açık bir fikir yoktu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak 1947 basi icin \"A means of delivery, while important, was still clearly secondary\" ve \"without a clear idea of what system to pursue\" der; onceki taslak nedenselligi tersine cevirmisti."
+    },
+    {
+      "iddia_id": "i059",
+      "cumle": "Bu arada Stalin'in izniyle bir mühendis kadrosu Aral yakınlarındaki çölde ele geçirilmiş Alman füzelerini deniyordu; 1949'da ilk Sovyet atom bombasının patlatılmasıyla bu denemeler yeni bir aciliyet kazandı ve birçokları uzun menzilli balistik füzeyi bombayı kıtalar arasında taşımanın ideal yolu saymaya başladı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin onsozundeki siralama (deneme -> 1949 bombasi -> \"Many considered ... an ideal way\") geri kuruldu; \"en uygun yol\" kesinligi kaynagin \"an ideal way\" olcusune indirildi."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "1950'ler boyunca füze tasarımı ilerledikçe doğrudan askerî yararı olmayan seçenekler de düşünülebilir hale geldi; uzay keşfine adanmış az sayıda mühendisin ısrarıyla Sovyetler askerî roket programının bir kolunu tek bir uydu projesine ayırdı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Sputnik 4 Ekim 1957'de fırlatıldı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "ABD Kongresi'nin yanıtı bir kurumdu: National Aeronautics and Space Act 29 Temmuz 1958'de yasalaştı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Yasanın politika maddesi, 1958'de uzaydaki faaliyetlerin \"devoted to peaceful purposes for the benefit of all mankind\" olmasını, yani barışçıl amaçlara ve bütün insanlığın yararına ayrılmasını ilan eder.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alinti yasanin kendi sozcukleridir; 15 kelime sinirinin altinda ve tek alintidir."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Silah sistemlerinin geliştirilmesine, askerî harekâta ya da ABD'nin savunmasına özgü faaliyetler Savunma Bakanlığı'nda kalır; hangi işin hangi kuruma düştüğüne Başkan karar verir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i060",
+      "cumle": "Sivil hattın görünürlüğü de aynı yasada yazılıdır: kurum, faaliyetleri ve sonuçları hakkındaki bilgiyi uygulanabilir en geniş ölçüde yaymakla görevlendirilir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onceki taslakta \"gorunurluk/gorunmezlik\" cikarimi metinde karsiligi olmadan duruyordu; yasanin dagitim maddesine baglandi."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Yuri Gagarin'in yörünge uçuşu ile Domuzlar Körfezi çıkarmasının başarısızlığı 1961 baharında birkaç gün arayla geldi; Eisenhower döneminin NASA yöneticisi Keith Glennan günlüğünde bu ikisini birlikte, Kennedy'yi ulusal uzay programını yeniden değerlendirmeye iten olaylar olarak kaydeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Kennedy 20 Nisan 1961'de Johnson'a yazdığı notta, dramatik sonuç vaat eden ve kazanılabilecek bir uzay programı olup olmadığını sordu; bir gün önce Johnson'dan istediği incelemenin sorularını bu not belirledi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Johnson önce teknik görüş topladı, sonra Kongre'deki isimleri tek tek yokladı; Robert Kerr ve Styles Bridges bu ikna turunun parçasıydı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Hedefin hangi yolla gerçekleştirileceği de kendi içinde çekişmeliydi: doğrudan çıkış, Dünya yörüngesinde buluşma ve Ay yörüngesinde buluşma seçenekleri NASA içinde uzun uzun tartışıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Ölçek yönetim biçimini de değiştirdi; Kasım 1968'de Science dergisi, NASA'nın dolar ya da insan sayısıyla değil karmaşıklık, büyüme hızı ve teknolojik incelik bakımından eşsiz olduğunu yazdı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i061",
+      "cumle": "Siddiqi Ay hedefini kendisi de bir yarış olarak anlatır ve kitabının adına yarışı koyar; zorlanan yer, 1957 öncesi ile Sputnik'in kendisidir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak Ay cabasini \"a race of epic proportions\" diye anlatir ve kitabin adi Space Race'tir; \"kaynaklar yaris cercevesini zorlar\" iddiasi bu yuzden erken evreyle sinirlandi."
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Aynı yazar, 1950'ler ve 1960'lar boyunca ABD uzay politikasının büyük ölçüde Sovyetlerin ne yaptığına — daha doğrusu politika yapıcıların ne yaptıklarını sandığına — verilen bir yanıtlar dizisi olduğunu yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Sputnik ise onun anlatısında bir yarış hamlesi olarak değil, Dünya'yı ve çevresini incelemeye dönük uluslararası bir çabaya mütevazı bir katkı olarak tasarlanmıştı; siyasi yankısını kimse öngörmedi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Sovyet arşivlerinin geç açılması yüzünden Batı'da kurulan yorum çerçevesi eksik bölümleri olan bir tarihe dayanıyordu ve Siddiqi kendi kitabını bu boşluğu kapatma girişimi olarak sunar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "John Logsdon'a göre ABD, bu kadar görünür ve dramatik bir taahhütle yarışa girerek Sovyet uzay gösterilerinin etkisini kırdı — üstelik yarışa katılma niyetini ilan etmekten başka pek bir şey yapmadan.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Logsdon alintisinin ikinci yarisi (\"without doing much except announcing its intention to join the contest\") onceki taslakta kirpilmisti; geri konuldu."
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Tarihçi Arthur Schlesinger ise iki yüzyıl sonra Amerikalıların Ay inişini yirminci yüzyılın belirleyici olayı sayacağını öne sürmüştü; Launius bu sonucu erken bulur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Schlesinger'in gorusu k4'un onsozunde aktarilir; Launius'un kendi cekincesi (\"While that conclusion might be premature\") geri konuldu."
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Launius, Apollo kararını ulusal karar alma sürecinde bir istisna olarak okur: program olağan siyasi koşullarda yürütülmedi ve NASA yönetimi daha 1961'de mevcut mutabakatın dağılacağından endişe ediyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Aynı yazar, programın kendisi için kurulduğu siyasi hedefleri tutturduğunu da yazar; iki saptama birbirini dışlamaz.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Dönemin kamuoyu desteğinin gerçekte ne olduğu ayrı bir araştırma konusudur: Launius 2003'te Space Policy dergisinde, ABD'de insanlı uzay uçuşuna ilişkin anket serilerini konu alan bir inceleme yayımladı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref kaydi yalnizca yazar, yil, baslik ve dergi bilgisini tasir; makalenin bulgulari burada iddia edilmemistir. Cumlenin ilk yarisi (\"ayri bir arastirma konusudur\") yazarin cercevelemesidir."
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Başkan Kennedy hedefi 25 Mayıs 1961'de Kongre'ye açıkladı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "NASA yöneticisi James Webb'in erken tahmini 20 milyar doları aşıyordu ve Kennedy bunu önce fazla bulmuştu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Program sonunda 25,4 milyar dolara mal oldu; Launius bu rakamı 1990 dolarıyla yaklaşık 95 milyar olarak verir; askerî olmayan teknolojik girişimler arasında büyüklük bakımından yalnızca Panama Kanalı'nı, savaş koşullarında ise Manhattan Projesi'ni karşılaştırılabilir bulur.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak Panama Kanali karsilastirmasini \"largest non-military technological endeavor\" icin yapar; \"askeri olmayan\" niteligi geri konuldu."
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Ajansın kendi kadrosu da aynı hızla büyüdü: 1960'ta 10 bin kişiyken 1966'da 36 bine çıktı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i062",
+      "cumle": "Asıl büyüme ise yüklenicilerdeydi; 1960'ta 36.500 olan yüklenici çalışan sayısı 1965'te 376.700'e ulaştı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin ayni pasajindaki daha buyuk rakam onceki taslakta dusmustu."
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Neil Armstrong 20 Temmuz 1969'da Ay yüzeyine ayak bastı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "1967 tarihli Dış Uzay Antlaşması, Ay ve diğer gök cisimleri dahil dış uzayın egemenlik iddiasıyla, kullanım ya da işgalle veya başka herhangi bir yolla ulusal mülkiyete konu olamayacağını yazar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Antlasma Md. II'nin ucuncu ogesi (\"by means of use or occupation\") onceki taslakta yarim kalmisti."
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "Aynı metin, Ay'ın ve diğer gök cisimlerinin yalnızca barışçıl amaçlarla kullanılacağını, yörüngeye nükleer silah ya da başka kitle imha silahı yerleştirilemeyeceğini hükme bağlar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Dachau'da 1947 sonunda görülen ve Dora/Mittelbau'ya ayrılmış tek Müttefik davasında on sekiz SS mensubu ile beş kapo yargılandı; bir kişi idam edildi, on sekiz kişi hapis cezası aldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak ayni cumlede 18 kisinin hapis cezasi aldigini da yazar; eksik oge geri konuldu."
+    },
+    {
+      "iddia_id": "i063",
+      "cumle": "Essen'de görülen Dora davası 1967-1970 arasında sürdü, sanıklar sağlık gerekçesiyle cezalarını çekmedi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i050",
+      "cumle": "Rudolph davasının kalıcı bir sonucu oldu: Mittelbau-Dora'nın hikâyesi, Soğuk Savaş boyunca yapıldığı gibi Alman roket programının tarihinden çıkarılamaz artık.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i051",
+      "cumle": "Bu, geçmişe dönük bir suçlama listesi değil, kaynak tabanının genişlemesidir; kamp sistemini bütün olarak ele alan çalışmalar 1997 ile 2001 arasında birbiri ardına yayımlandı ve alanın standart eseri sayılan Wagner kitabı bu dizinin sonuncusudur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i052",
+      "cumle": "Alman tarafının belgeleri savaş suçu yargılamalarıyla ve Batı Almanya'nın kendi soruşturmalarıyla erken görünür oldu; Sovyet tarafı ise onlarca yıl kapalı kaldı ve ancak arşivler açıldıktan sonra yeniden yazılabildi.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki kaynak kendi yarilarini tasir (Alman belgeleri ve yargilamalari k1'de, Sovyet arsivlerinin gec acilmasi k3'te); \"farkli takvimler\" cercevesi yazarindir."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 61,
+    "kismi": 2,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

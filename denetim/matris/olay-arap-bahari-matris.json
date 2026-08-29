@@ -1,0 +1,779 @@
+{
+  "id": "olay-arap-bahari",
+  "govde_hash": "b47efd483491",
+  "commit": "9181554",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Tunus'ta bir seyyar satıcının kendini yakmasının ardından sokağa çıkan kalabalıklar, önce kendi cumhurbaşkanlarını, sonra Mısır, Libya ve Yemen'in yöneticilerini iktidardan düşürdü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Aynı aylarda Bahreyn ve Suriye'de de kitlesel gösteriler başladı; dalga boyunca ikisinde de yönetim yerinde kaldı, Suriye'de gösteriler iç savaşa dönüştü ve Beşar Esad'ı düşüren muhalefet saldırısı ancak on üç yıllık savaşın ardından, 2024'te geldi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak Bahreyn ve Suriye icin sivil ayaklanma kaydeder; Esad'in 2024'te on uc yillik savasin ardindan muhalefet onculugundeki bir saldiriyla iktidardan alindigi ayni sayfanin dipnotunda birebir gecer. \"Yonetim yerinde kaldi\" ifadesi dalga donemiyle sinirlandirildi."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Muhammed Buazizi 17 Aralık 2010'da, belediye denetçisi tezgâhındaki malları aldıktan bir saat sonra üzerine benzin döküp kendini ateşe verdi; 4 Ocak 2011'de öldü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Ölümü, mevcut düzenden hoşnutsuz farklı kesimleri bir araya getirdi: işsizleri, siyasi ve insan hakları savunucularını, işçi ve sendika örgütlerini, öğrencileri, akademisyenleri ve avukatları.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin verdigi yedi ogeli liste geri konuldu; onceki metin listeyi iki uca kirpiyordu ve sendikacilari dusuruyordu."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Tunus'ta gösteriler 18 Aralık 2010'da başladı ve 14 Ocak 2011'de Zeynelabidin Bin Ali'nin Suudi Arabistan'a kaçmasıyla yönetim devrildi; siyasi polis dağıtıldı, iktidar partisi RCD feshedildi ve 23 Ekim 2011'de kurucu meclis seçimi yapıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Referans dökümünde Tunus için verilen ölü sayısı 338'dir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iddia sayinin kendisi degil, referans dokumunun verdigi sayidir; o dokum 338 rakamini ikincil bir habere dayandirir. Bagimsiz bir resmi sayim bulunamadi."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Mısır'da Hüsnü Mübarek 18 günlük kitlesel gösterinin ardından 11 Şubat 2011'de istifa etti ve otuz yıllık cumhurbaşkanlığı sona erdi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Libya'da Muammer Kaddafi 23 Ağustos 2011'de devrildi, 20 Ekim 2011'de memleketi Sirte'de öldürüldü.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Yemen'de Ali Abdullah Salih, kovuşturma bağışıklığı karşılığında iktidarı devretmeyi öngören Körfez İşbirliği Konseyi planını imzaladı; yerine Abdurabbu Mansur Hadi 27 Şubat 2012'de resmen geçti.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Şubat 2012 sonuna gelindiğinde Cezayir, Irak, Ürdün, Kuveyt, Fas, Umman ve Sudan'da da büyük gösteriler görülmüştü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Güvenlik Konseyi 26 Şubat 2011'de kabul ettiği 1970 sayılı kararla ülkeye silah ambargosu koydu.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Karar tarihi ve silah ambargosu NATO sayfasinda birebir gecer; karar metninin kendisi bu kunyede degil."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Üç hafta sonra, 17 Mart 2011'de kabul edilen 1973 sayılı karar üye devletlere, Bingazi dahil saldırı tehdidi altındaki sivilleri ve sivil yerleşim alanlarını korumak için gerekli bütün tedbirleri alma yetkisi verdi; aynı cümle bu yetkiden \"Libya topraklarının herhangi bir yerinde her biçimde yabancı işgal gücünü\" açıkça dışarıda bıraktı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yetkinin kapsami ve yabanci isgal gucu istisnasi karar metninin ayni paragrafinda. Kaynaktaki \"under threat of attack\" ve \"including Benghazi\" kayitlari geri konuldu; yetkinin sinirini belirleyen bu kosullar onceki metinde dusmustu."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "NATO 22 Mart 2011'de ambargo denetimini, 24 Mart'ta uçuşa yasak bölgeyi üstlendi ve 31 Mart 2011'de uluslararası askerî çabanın komuta ve denetimini bütünüyle devraldı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc tarih de NATO'nun kendi zaman cizelgesinde birebir; \"sole command and control\" ifadesi \"komuta ve denetimini butunuyle devraldi\" olarak karsilandi."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Birleşik Koruyucu Harekâtı 31 Ekim 2011'de, başlangıcından 222 gün sonra son sortiyle bitti; ittifak, harekâtın hiçbir aşamasında kendi komutası altında Libya'da kara birliği bulunmadığını kaydeder.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "222 gun ve kara birligi bulunmadigi beyani harekati yuruten ittifakin kendi kaydidir; taraf beyani olarak okunmalidir."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Kararın kendisi, dayandığı bölgesel desteği ve hukuki devamlılığı da kayda geçirir: İslam Konferansı Örgütü'nün 8 Mart 2011 tarihli sonuç bildirisini, Afrika Birliği Barış ve Güvenlik Konseyi'nin Libya için geçici bir üst düzey komite kuran 10 Mart 2011 tarihli bildirisini, Arap Ligi Konseyi'nin 12 Mart 2011 tarihli uçuşa yasak bölge çağrısını ve durumun Uluslararası Ceza Mahkemesi savcısına havale edilmiş olduğunu anar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Karar onsozu uc bolgesel govdeyi anar; onceki metin Islam Konferansi Orgutu'nun 8 Mart 2011 bildirisini dusurmustu, geri konuldu."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Bahreyn'de gösteriler 14 Şubat 2011'de başladı ve yönetim değişmedi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gun tarihi ve yonetimin degismedigi k4'ten degil k9'dan okunur; onceki surumde bu cumle yalnizca komisyon sayfasina baglanmis ve \"yonetim degismedi\" dolayli cikarim olarak dogrudan sayilmisti. Destek k9'a tasindi."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Kral Hamed bin İsa el-Halife, 29 Haziran 2011'de 28 sayılı Kraliyet Emri ile bağımsız bir soruşturma komisyonu kurdu; komisyon raporunu 23 Kasım 2011'de sundu.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Görev tanımı geniştir: olayların eksiksiz anlatısı, polis şiddeti ve göstericilerin başkalarına yönelik şiddeti iddiaları, gözaltıların hukuka uygunluğu, kayıp ve işkence iddiaları, basına yönelik baskı, ibadet yapılarının hukuka aykırı yıkıldığı iddiası ve yabancı güçlerin ve aktörlerin olaylardaki iddia edilen rolü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gorev tanimi listesi kaynaktaki haliyle tamamlandi; onceki metin olaylarin eksiksiz anlatisini, polis siddetini ve gostericilerin siddeti iddiasini dusurmustu."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Kurulun kendi anlatımına göre bu tür komisyonlar çoğu zaman dışarıdan gelen bir yetkiyle kurulurken Bahreyn'deki karar ülke içinde alındı ve BM İnsan Hakları Yüksek Komiserliği'yle istişare edildi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kurulun kendi bagimsizligina dair anlatimi kendi sayfasindan alinmistir; bagimsizlik iddiasi bagimsiz bir kaynakla teyit edilmedi."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Libya'da dış askerî güç bir Güvenlik Konseyi kararıyla yönetime karşı devreye girdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 yetkiyi verir ama gucun yonetime karsi kullanildigini soylemez; bu nedenle kismi. Uygulama k2 ile dogrudan."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Bahreyn'de dış askerî güç yönetimin çağrısıyla ve onun yanında girdi; yabancı güçlerin rolü aynı zamanda yönetimin kendi kurduğu kurulun soruşturma başlıklarından biri oldu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onceki surum yabanci gucun rolunu yalnizca bir sorusturma basligi olarak veriyordu; k9 ise KIK gucunun fiilen ulkeye girdigini kaydeder. Iki olgu birlestirildi."
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "ILO modellemesine dayanan seriye göre ayaklanmanın çıktığı altı ülkede 2010 işsizlik oranı yüzde 1,1 (Bahreyn) ile yüzde 19,3 (Libya) arasında değişiyordu; Tunus yüzde 13,0, Yemen yüzde 12,8, Suriye yüzde 8,6, Mısır yüzde 8,8 düzeyindeydi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Alti degerin altisi da CSV'de birebir dogrulandi (BHR 1.13, LBY 19.321, TUN 13.049, YEM 12.777, SYR 8.61, EGY 8.757). Serinin modelleme oldugu artik cumlenin icinde."
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Mısır ve Tunus'ta ordu mevcut yönetimin indirilmesine etkin biçimde katıldı; Suudi Arabistan'da askerî güç göstericilere karşı seferber edilerek hareket sonlandırıldı; Libya ve Suriye'de ise ne gösteriler durduruldu ne de yönetim düştü, ülkeler iç savaşa girdi.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ordu destegi ile sonuc arasindaki iliski referans dokumunun ikincil literaturden ozetidir; altta yatan calismalar bu kunyede dogrulanmadi."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "İkinci açıklama bu desteği toplumsal bileşimle bağlar: Suudi Arabistan ve Suriye gibi, yönetici seçkinin etnik ya da dinsel alt bölünmelerle sıkı biçimde eklemlendiği yerlerde ordunun rejimin yanında saf tuttuğu ve azınlıkların koruyucusu rolünü üstlendiği ileri sürülür.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Kaynagin adlandirdigi iki ornek (Suudi Arabistan, Suriye) ve azinliklarin koruyuculugu rolu geri konuldu. Tez referans dokumunde aktarilir; altta yatan calisma bu kunyede okunmadi."
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Üçüncüsü orta sınıfa bakar: güçlü ve eğitimli bir orta sınıfın varlığı başarıyla bağdaştırılmış; buna karşılık cömert refah programları ve zayıf bir orta sınıfla anılan Suudi Arabistan ile Ürdün'de, derin eşitsizlik ve yoksul bir işçi sınıfıyla anılan Yemen, Libya ve Fas'ta başarılı devrim görülmediği ileri sürülmüştür.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Kaynagin verdigi bes ulke adi geri konuldu; adlar dusuruldugunde listenin kendi ic celiskisi (Yemen ve Libya) gorunmez oluyordu."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Dördüncüsü bu son okumayı kalkınma diliyle yeniden kurar: Körfez'in petrol monarşileri gibi rant devletlerinde ayaklanmaların bütün olarak daha az sonuç verdiği kaydedilir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Kaynak rant devleti okumasini bagimsiz bir aciklama olarak degil, orta sinif okumasinin kalkinma diliyle yeniden cerceveleumesi olarak verir; siralama buna gore duzeltildi."
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Tunus ve Mısır'da yönetim haftalar içinde değişti; Yemen'de değişim bir bölgesel örgütün arabuluculuğuyla ve dokunulmazlık pazarlığıyla, Libya'da ise dışarıdan gelen hava gücüyle geldi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Bahreyn'de değişim hiç gelmedi; yerine komşu devletlerin birlikleri ve yönetimin kendi kurduğu bir soruşturma kurulu geldi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "KIK birlikleri k9'dan, sorusturma kurulu k4'ten."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Karşılaştırmalı siyasetin kendi konumu da olayla birlikte değişti: Eva Bellin, 2004'te Comparative Politics'te Ortadoğu otoriterliğinin dayanıklılığını karşılaştırmalı bir istisna olarak ele almıştı; aynı yazar aynı dergide 2012'de bu dayanıklılığı Arap Baharı'nın dersleri ışığında yeniden değerlendiren bir makale yayımladı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydi iki makalenin yazarini, yilini, basligini ve dergisini dogrudan verir; makalelerin ic argumani bu kunyeden okunamaz."
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Gösteriler hem nüfusun yüzde 88'inin 2011'de çevrimiçi olduğu Bahreyn'de hem de internet yaygınlığı en düşük ülkeler arasında sayılan Yemen ve Libya'da yaşandı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yuzde 88 degeri referans dokumunde birebir gecer; dokum bunu ikincil bir kaynaga dayandirir."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Gadi Wolfsfeld, Elad Segev ve Tamir Sheafer'in 2013'te The International Journal of Press/Politics'te yayımlanan çalışması yirmi Arap ülkesi ile Filistin Yönetimi'nin siyaset, medya ve protesto verisini kullanarak iki ilke önerir: sosyal medyanın kolektif eylemdeki rolü, içinde çalıştığı siyasi ortam hesaba katılmadan anlaşılamaz; ve yeni medya kullanımındaki belirgin artış, protesto etkinliğini öncelemekten çok onu izler; çalışmanın özeti bulguların iki ilkeyi de güçlü biçimde desteklediğini bildirir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yazar adlari, dergi, yil, iki ilke, veri kapsami ve \"findings provide strong support\" ifadesi Crossref kaydinin abstract alaninda birebir. Tam metin okunmadigi icin destek ozet duzeyinde kismidir."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Aynı referans dökümü ters yöndeki okumayı da taşır: sosyal medyaya erişimi daha geniş olan Tunus ve Mısır gibi ülkelerin büyük kalabalıkları harekete geçirmekte daha etkili olduğu, yayın organları üzerinde sıkı devlet denetimi bulunan yerlerde ise bilginin yayılmasının engellendiği ileri sürülür.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Ters yondeki okuma da ayni dokumde bulunur; iki okuma kaynakta yan yana durur ve taraf tutulmamistir."
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "2013 yazında siyasi suikastlar ve yaygın toplumsal huzursuzluk demokratikleşme sürecini çökme tehlikesiyle karşı karşıya bırakınca dört örgüt bir araya geldi: Tunus Genel İşçi Sendikası (UGTT), sanayi, ticaret ve el sanatları konfederasyonu (UTICA), Tunus İnsan Hakları Ligi (LTDH) ve Tunus Barolar Birliği.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Norveç Nobel Komitesi 2015 Barış Ödülü'nü bu dörtlüye verdi ve ödülün dört örgüte ayrı ayrı değil, oluşturdukları arabuluculuk düzenine verildiğini açıkça belirtti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Komitenin gerekçesi, ülkenin iç savaşın eşiğindeyken barışçıl bir siyasi sürecin kurulabilmesine dayanır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gerekce odulu veren kurulun kendi metnidir; degerlendirme olarak okunur."
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "V-Dem seçimsel demokrasi endeksinde Tunus 2015'te 0,727 değerindeydi; aynı yıl diğer beş ülkenin hepsi 0,29'un altındaydı — Libya 0,285, Yemen 0,184, Mısır 0,156, Bahreyn 0,144, Suriye 0,136.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "V-Dem endeksi kodlayici degerlendirmelerinden turetilir; sayim degildir ve surum degistikce degerler guncellenebilir."
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "2025 kesitinde Tunus 0,395'e inmiş, yani 2015 değerinin yaklaşık yarısına düşmüştür; aynı yıl Libya 0,193, Mısır 0,187, Bahreyn 0,139, Suriye 0,128, Yemen 0,127 değerindedir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ayni kunye yalnizca 2015 ve 2025 kesitlerini verir; aradaki seyir bu veriden okunamaz."
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "\"Bahar\" adlandırması Batı'dan ödünçtür: 1848 devrimlerinin \"Halklar Baharı\" olarak anılmasını ve 1968 Prag Baharı'nı izler — Prag'da Çek öğrenci Jan Palach da tıpkı Buazizi gibi kendini yakmıştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Referans dökümü terimi tartışmalı sayar: olayların Batı'nın kurduğu demokratik devrim örneğini tekrarlayacağı beklentisini taşıdığını ve Batı-dışı aktörlere Batılı beklentiler yansıtmanın sorunlu yanını gösterdiğini kaydeder.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Adlandirma elestirisi referans dokumunun kendi degerlendirmesidir; cumle yazarin nedensellik iddiasi olmaktan cikarilip kaynaga atfedilen bir aktarima donusturuldu."
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "İslamcı partilerin seçim başarılarından sonra bazı yorumcuların İslamcı Bahar ve İslamcı Kış terimlerini üretmesi, adlandırma kavgasının sürdüğünün işaretidir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Oysa beklentinin tersine ayaklanmalar İslamcıların önderliğinde yürümedi: Mısır'da Selefiler, el-Ezher ve Kıpti Kilisesi başlangıçta karşı çıktı, Müslüman Kardeşler'in eski kuşağı ise gençlerin ısrarıyla sonradan katıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Tunus işsizliği için ILO modellemesine dayanan seri 2011 yılına yüzde 18,3 verir; aynı yıl için referans dökümünde aktarılan Dünya Bankası değeri yüzde 16,7'dir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iddia iki serinin ayni yil icin farkli deger vermesidir; 18,3 k6 serisinde, 16,7 k9 dokumunde aktarilan Dunya Bankasi degerinde birebir bulunur."
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Bu okumaya göre Buazizi'nin ölümü kıvılcım, ordunun tutumu, rant geliri ve toplumsal bileşim ise krizinin nasıl sonuçlanacağını belirleyen etkenler olarak sıralanır.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Bugunku okumanin ozeti; referans dokumunun aktardigi aciklamalarin toplamindan cikarilmistir, tek bir cumleye dayanmaz."
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Ayaklanmalar dizisinin kendisi Aralık 2012'de kapanmış sayılır; bıraktığı sorular kapanmadı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Askerî uygulama NATO ile başlamadı: önce ABD önderliğindeki ve NATO komutası dışındaki Odyssey Dawn harekâtı geldi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "NATO sayfasi Odyssey Dawn'i \"not under the command and control of NATO\" ve ABD onderliginde cok uluslu bir koalisyon olarak kaydeder. Onceki surum bu asamayi atlayip uygulamayi dogrudan NATO ile basliyor gosteriyordu."
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "14 Mart 2011'de, hükümetin talebi üzerine ağırlıkla Suudi ve Birleşik Arap Emirlikleri birliklerinden oluşan Körfez İşbirliği Konseyi gücü ülkeye girdi; ertesi gün kral üç aylık olağanüstü hâl ilan etti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tarih, birliklerin bilesimi, hukumetin talebi ve ertesi gunku olaganustu hal ilani kaynakta birebir gecer. Bu olgu onceki surumde bütünüyle yoktu ve yoklugu bolumun kendi savini (ters yonlerde dis mudahale) cürütuyordu."
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "Referans dökümüne göre komisyon, hükümetin tutukluları sistematik biçimde işkenceye tabi tuttuğu sonucuna vardı ve gösterilerin İran tarafından kışkırtıldığı yolundaki hükümet iddiasını reddetti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynakta birebir. Onceki surum kurulun yalnizca kendi sayfasindaki bagimsizlik anlatimini veriyor, raporun bulgularini hic anmiyordu; bu, devletin kurdugu kurulun kendi beyanini tek soz olarak birakiyordu."
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "Son iki açıklama kaynakta yan yana değil iç içe durur — biri ötekinin yeniden çerçevelenmiş hâlidir. Orta sınıf listesi ayrıca kendi başına sorun çıkarır: Yemen ile Libya başarılı devrim görülmeyen ülkeler arasında sayılır, oysa iki ülkede de yönetici düşmüştür.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak elestirisi: kaynagin kendi listesi Yemen ve Libya'yi \"basarili devrim gorulmeyen\" ulkeler arasinda sayarken ayni sayfa iki ulkede de yoneticinin dustugunu kaydeder. Celiski kaynagin icindedir; makale bunu ortmek yerine gosterir."
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Referans dökümü Tunus'u dondurulmuş bir başarı hikâyesi saymaz: Tunus ile Mısır'ın kısa vadeli başarı sayılmasının sonradan sorunlu hâle geldiğini, Mısır'da siyasi çalkantının, Tunus'ta ise bir otokrasinin oluştuğunu kaydeder.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynakta birebir. Onceki surum yalnizca V-Dem dususunu veriyordu; kaynagin kendi nitelemesi (otokrasi) dusmustu."
+    },
+    {
+      "iddia_id": "i050",
+      "cumle": "Yine de veri yalnızca iki uç yılı verdiği için geri kayışın ne zaman ve hangi adımlarla olduğu bu seriden okunamaz.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kunyedeki CSV yalnizca 2015 ve 2025 kesitlerini tasir; ara yillarin bulunmadigi verinin kendisinden dogrulanir."
+    },
+    {
+      "iddia_id": "i051",
+      "cumle": "Katılanların kendi sözcükleri başkaydı; eylemlerini ayaklanma (intifada), uyanış (sahwa) ve yeniden doğuş (nahda) diye adlandırdılar, onur (karama) ve devrim (thawra) sözcüklerini kullandılar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bes terim de kaynakta birebir gecer. Adlandirma bolumu once yalnizca Bati kaynakli adlari tartisiyordu; katilanlarin kendi sozcukleri eksikti."
+    },
+    {
+      "iddia_id": "i052",
+      "cumle": "Nitekim Tunus için verilen 338 rakamı bağımsız bir resmî sayım değil, referans dökümünün ikincil bir kaynaktan aktardığı tek bir değerdir. Suriye ve Yemen için burada bilanço sayısı verilmemesinin nedeni de budur: künyedeki kaynaklar öyle bir sayıyı yöntemiyle birlikte taşımıyor.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Aktarim halkasinin gövdede acikca beyani. 338 rakami kaynagin ulke dokum tablosunda tek bir dipnota baglidir; Suriye ve Yemen icin bu kunye yontemi belli bir bilanco tahmini tasimaz, bu yuzden makale sayi vermez."
+    },
+    {
+      "iddia_id": "i053",
+      "cumle": "Kapanış tarihi zaten bir sınıflandırma kararıdır: dalganın hedef aldığı yöneticilerden Sudan'da Ömer el-Beşir ile Cezayir'de Abdülaziz Buteflika 2019'da, Suriye'de Beşar Esad 2024'te, yani dizi kapandıktan yıllar sonra düştü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc ad, uc yil ve \"deposed after its conclusion\" nitelemesi kaynagin dipnotunda birebir. Aralik 2012 kapanisinin bir siniflandirma karari oldugunu gosterir."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 43,
+    "kismi": 10,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "2 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
+}

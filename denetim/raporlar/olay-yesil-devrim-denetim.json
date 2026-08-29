@@ -1,9 +1,9 @@
 {
   "id": "olay-yesil-devrim",
   "gecis": 2,
-  "zaman": "2026-08-29T15:01:28.761Z",
-  "govde_hash": "b59c20bd8d9f",
-  "commit": "7a16c22",
+  "zaman": "2026-08-29T15:43:03.779Z",
+  "govde_hash": "a4633dd60e10",
+  "commit": "fdab69c",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -103,7 +103,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Aynı konuşmada, yapay besinlere bağımlılığın küçük çiftçinin üzerine bindirdiği mali yük, programı yürüten kişinin kendi kaygısı olarak dile getirilir.",
+      "iddia": "Aynı konuşmada, yapay besinlere bağımlılığın küçük çiftçinin üzerine bindirdiği mali yük, uygulayıcının kendi kaygısı olarak dile getirilir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

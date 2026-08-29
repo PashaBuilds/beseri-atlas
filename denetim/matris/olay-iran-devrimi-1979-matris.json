@@ -1,0 +1,765 @@
+{
+  "id": "olay-iran-devrimi-1979",
+  "govde_hash": "93b5c1f46759",
+  "commit": "9181554",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Mohammed Rıza Pehlevi 16 Ocak 1979'da İran'dan ayrıldı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "İki hafta sonra Ruhullah Humeyni Fransa'daki sürgününden Tahran'a döndü; Şubat başındaki silahlı çatışmaların ardından İmparatorluk Ordusu tahta bağlılığını geri çekip 11 Şubat 1979'da tarafsızlığını ilan etti ve Pehlevi yönetimi sona erdi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Mart sonundaki halk oylamasında oy kullananların yüzde 98,2'si monarşinin yerine bir İslam cumhuriyeti kurulmasından yana çıktı; oylamaya karşı çıkanlar Ulusal Demokratik Cephe, Fedailer ve birkaç Kürt partisiydi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "1978 boyunca protesto dalgası basamak basamak yükseldi: Ağustosta Abadan'daki Sinema Rex yangını, 8 Eylülde sıkıyönetim ilanı ve Jale Meydanı katliamı, Eylül ile Kasım arasında ülke çapına yayılan grevler, Humeyni'nin Necef'ten çıkarılıp Fransa'ya geçişi, Aralık başında Muharrem gösterileri.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem duzeltmesi: kaynagin bolum basligi Humeyni'nin Fransa'ya gecisini Kasim'a koyar, oysa Necef'ten cikarilma ve Neauphle-le-Chateau'ya yerlesme Ekim 1978'dir; ay atfi kaldirildi, sira korundu"
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Dalganın doruk noktası 10-11 Aralık 1978'deki Tasua ve Aşura yürüyüşleriydi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Tasua ve Aşura yürüyüşlerini izleyen bir Amerikan istihbarat muhtırası, 21 Aralık 1978'de, Tahran'da bir milyona varan göstericinin sokağa çıktığını ve kalabalığın ustaca örgütlenip denetlendiğini yazdı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem duzeltmesi: \"kusursuz\" kaynaktaki \"masterfully organized and controlled\" ifadesinden daha kesindi, birebir karsiligina cekildi"
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Muhtıraya göre işi yapan merkezî bir parti değildi: geleneksel görevi dinî alayları düzenlemek olan ve dastehgardan diye anılan mahalle önderleri, küçük grupları kendi camilerinin çevresinde topladı, sonra bu grupları kentin dört bir yanından gelen ötekilerle birleştirdi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Yürüyüşün lojistiği de aynı elden çıkmıştı: gruplar hoparlörlü minibüslerden verilen talimatlarla durup ilerliyor, düzen görevlileri yiyecek ve içecek dağıtıyor, kaybolan çocuklar için bir bulunmuş eşya masası işletiliyordu.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Ayetullahlar ve siyasetçiler kortejin başında değil, yürüyüş ana güzergâha çıktıktan sonra aralarına katılıyordu.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Aynı muhtıra, dinî muhalefetin bu örgütsel gücünün onu muhalefetin geri kalanından ayırdığını, buna karşılık Ulusal Cephe'nin ne bağımsız bir kitle tabanı ne de büyük gösteri düzenleme kapasitesi bulunduğunu saptar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Solun silahlı kanadı da sahnedeydi: 1971'den beri etkin olan Halkın Fedaileri, 1978 sonbaharında Tahran, Tebriz, İsfahan ve Meşhed'de polis ve güvenlik görevlilerine saldırdı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Buna rağmen muhtıra, olayların arkasında yabancı unsurların, solcuların ya da Tudeh Partisi'nin yönlendirici elinin bulunduğu iddiasını doğrulayacak hiçbir kanıt olmadığını açıkça yazar; ilginç olan, bu iddiayı o sırada ılımlı muhalefet önderlerinin ve hükümet üyelerinin dile getiriyor olmasıdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Tudeh Partisi Şah'ın düşüşüyle birlikte yirmi yıllık yeraltından çıktığında İran içinde muhtemelen en fazla birkaç yüz üyesi, Doğu Almanya ile Sovyetler Birliği'ndeki sürgünde birkaç yüz üyesi daha vardı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Belgenin kendi tahmini (\"probably had no more than a few hundred\"); kaynagi sansurlenmis, dogrulanabilir ikinci sayim yok. Hakem duzeltmesi: dusurulen \"en fazla\" cekincesi geri konuldu"
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "1980 Haziranında ise, belgede kimliği karartılmış bir kaynak, partinin yüz binden fazla üye ve sempatizanı olduğunu ileri sürüyordu; değerlendirme bu rakamların \"muhtemelen abartılı\" olduğunu, ama parça parça kanıtın Tudeh'in yine de kayda değer bir büyüme sağladığına işaret ettiğini yazar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hakem duzeltmesi: yuz bin rakami metinde partinin kendi beyani gibi verilmisti; belgede rakami one suren ozne karartilmis (\"[redacted] last June ... They claimed\") ve partiye ait oldugu gosterilemiyor. Atif duzeltildi"
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Aynı belge, rejimin Tudeh'e öteki sol gruplardan daha hoşgörülü davrandığını, çünkü partinin rejimin bütün temel politikalarını desteklediğini kaydeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Ervand Abrahamian'a göre Haziran 1981 ile Haziran 1985 arasında devrim mahkemelerinin idam ettiği sekiz bin muhalifin sayısı, kraliyet yönetiminin devrimi durdurmaya çalışırken öldürdüklerini aştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Aktarimin aktarimi: kaynak Abrahamian'i ozetliyor, birincil sayim degil"
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Theda Skocpol'ün 1982'de Theory and Society dergisinde çıkan yazısı, adını taşıdığı iki kavramla — rantiye devlet ve Şiî İslam — sorunun eksenini belirledi.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref kaydi yazar/yil/dergi/basligi dogrudan verir; tezin icerigini vermez"
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Charles Kurzman'ın 2004 tarihli kitabı ise başlığından itibaren karşı yönde durur: devrim \"düşünülemez\" olandır, yani öncesinden bakan hiçbir gözlemcinin öngöremediği ve yapısal koşullardan türetilemeyen bir sonuçtur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref kaydi yalnizca baslik ve yili tasir; \"dusunulemez\" okumasi yazarin kitabina aittir"
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Annabelle Sreberny-Mohammadi ile Ali Mohammadi'nin kitabı üçüncü bir eksen açar ve adında taşır: küçük medya, büyük devrim.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref kaydi yalnizca yazarlar ve baslik duzeyinde destekler"
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "1977'ye gelindiğinde Şah'ın siyasi liberalleşme politikası yürürlükteydi; laik muhalefet gizlice toplanıp hükümeti eleştirmeye başladı, İran Yazarlar Birliği Tahran'daki Goethe Enstitüsü'nde hükümet karşıtı şiir okumaları düzenledi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Aynı yıl Amerikan başkanı Carter'ın, insan hakları ihlali yapan ülkelerin Amerikan silah ve yardımından yoksun bırakılacağını söyleyen politikası, bazı İranlılara açık mektup ve dilekçe yayımlama cesareti verdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Aralık 1978 muhtırası, muhalefetin kullandığı teknik donanımı ayrı bir başlıkta ele alır ve yabancı bir el aramanın gereksiz olduğu sonucuna varır: teksir makineleri, telsizler, megafonlar ve hoparlörler İran kentlerinde zaten yaygın kullanımdaydı ya da kolayca bulunabiliyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Muhtıra, çatışma seslerinin ses kayıtlarıyla çoğaltılıp gece boyunca yayılmasının da zorunlu olarak dışarıdan yönlendirme anlamına gelmediğini belirtir.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem duzeltmesi: kaynaktaki \"do not necessarily imply\" cekincesi dusurulmustu, geri konuldu"
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Enerji eşdeğeri olarak İran'ın petrol üretimi 1970'te 2.240 TWh iken 1974'te 3.526 TWh'ye çıkmıştı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Devrimin son yılında bu üretim çöktü: 1978'de 3.080 TWh olan üretim 1979'da 1.866 TWh'ye, 1980'de 862 TWh'ye indi — yani iki yılda 1978 düzeyinin dörtte birine yakın bir seviyeye.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "4 Kasım 1979'da İranlı militanlar Tahran'daki Amerikan elçiliğini işgal etti ve diplomatik ve konsolosluk personelini rehin aldı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Amerika Birleşik Devletleri 29 Kasım 1979'da Uluslararası Adalet Divanı'na başvurdu; divan 15 Aralık 1979'da geçici tedbir kararı verdi ve 24 Mayıs 1980'de, durum hâlâ sürerken, İran'ın yürürlükteki sözleşmelerden ve genel uluslararası hukuktan doğan yükümlülüklerini ihlal ettiğine hükmetti.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Karar İran hükümetinin yokluğunda verildi; İran mahkemeye gönderdiği iki yazıda davanın görülmemesi gerektiğini savundu, divan bu gerekçeleri reddetti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem duzeltmesi: kaynagin \"after rejecting the reasons put forward by Iran in two communications\" kismi atlanmisti; Iran'in sessiz kaldigi izlenimi giderildi"
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Dava, 12 Mayıs 1981 tarihli kararla, davadan vazgeçilmesi üzerine listeden düşürüldü.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Geçici tedbir aşamasında divan, devletler arası ilişkiler için diplomatik temsilcilerin ve elçilik binalarının dokunulmazlığından daha temel bir önkoşul bulunmadığını belirtti ve elçilik binalarının derhal iadesi ile rehinelerin serbest bırakılması için tedbir kararı verdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Esasa ilişkin kararında ise İran'ın rehineleri serbest bırakmak, binaları iade etmek ve verdiği zararı tazmin etmekle yükümlü olduğuna hükmetti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Divan, 4 Kasım günündeki olaylarda militanların davranışının doğrudan İran devletine yüklenemeyeceğini — yeterli bilgi bulunmadığı için — ama devletin saldırıyı önlemek, tamamlanmadan durdurmak ya da militanları çıkmaya zorlamak için hiçbir şey yapmadığını saptadı; 4 Kasım'dan sonra ise İran devletinin bazı organları eylemi onaylayıp sürdürmeye karar verdiği için eylem devletin eylemine dönüşmüştü.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "6 Kasım 1979'da Beyaz Saray'da toplanan Ulusal Güvenlik Konseyi'nde başkan, \"birlikte çalışılacak bir hükümet bulunmadığını\" ve pazarlık isteği görünmediğini söyledi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Aynı tutanakta elçiliği basan öğrenciler için şu değerlendirme yapılır: gruba solcular önemli ölçüde sızmıştır ama grup Humeyni'nin desteğini korumaktadır, Tahran radyosundan Brzezinski'nin Cezayir'de Başbakan Bazergan ve Yezdi ile yaptığı görüşmeleri eleştirmiştir ve amacı hükümetteki ılımlıları devirmek gibi görünmektedir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Aynı toplantıda Dışişleri bakanı, Tahran'da Beheşti'ye ulaşıldığını ve onun elçi gönderilmesi fikrini Devrim Konseyi'ne götürmeyi vaat ettiğini aktardı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Tudeh Partisi'nin rehinelerin tutulmasını desteklemesi de aynı iç hesaplaşmanın parçasıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Belge Tudeh'in rehine tutulmasini destekledigini yazar; \"ayni ic hesaplasmanin parcasi\" degerlendirmesi metnin kendi cikarimidir"
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Amerikan hükümeti, 2017'de yayımladığı resmî belge cildinde 1951-1954 İran dosyasını dört bölüme ayırır; bu bölümlerden biri \"TPAJAX Operasyonu'nun planlanması ve uygulanması, Mart-Ağustos 1953\" başlığını taşır ve 169'dan 308'e kadar numaralanmış belgeleri kapsar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "13 Şubat 1979'da Avam Kamarası'nda savunma bakanı Mulley'e İran'la savunma iş birliğinin geleceği soruldu; bakan gelişmeleri yakından izlediklerini, ilişkilerin seyrini kestirmenin güç olduğunu söyledi ve geçmişte \"CENTO müttefikimize\" istediği silahları vermenin yanlış olduğunu düşünmediğini ekledi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem notu: tutanak yalnizca \"Mr. Mulley\" verir; tam ad yazilmadi"
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Soruyu soran milletvekili Newens ise aynı oturumda tam tersini savundu: İran halkının ayaklanmasının başarısı, ona göre, korkunç bir tiranlığı desteklemiş, ona yığınla silah sağlamış ve bölgedeki muhalefetin bütün itirazlarını hiçe saymış Britanya ve Amerikan politikalarının kaba bir budalalık olduğunu gösteriyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem duzeltmesi: tutanaktaki uc ogeli suclamanin ucuncusu (\"utterly disregarding all the expressions of opinion by opposition and progressive forces within the area\") kirpilmisti, geri konuldu. Tutanak yalnizca \"Mr. Newens\" verir"
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Bakan İran'ın içinde bulunduğu durum hakkında hüküm vermenin akıllıca olmayacağını söyledi ve milletvekilinin aynı görüşleri daha önce de dile getirdiğini hatırlattı.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem duzeltmesi: \"bu degerlendirmeye katilmadi\" tutanakta yok; bakan hukum vermekten kacindi (\"It would be unwise for me to pronounce\"). Birebir karsiligina cekildi"
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Oturumun geri kalanı, Leeds'teki Kraliyet Cephanelik Fabrikası'nda üretimine başlanmak üzere olan Şir İran tankının sözleşmesine ayrıldı.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tutanak fabrikayi \"Royal Ordnance Factory, Leeds\" olarak adlandirir"
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Şehitler Vakfı'nda araştırmacı olan Emadeddin Bakî'nin sayımına göre 1978-1979'da öldürülen protestocu ve devrimci sayısı 2.781'dir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak sayimi aktarir; sayimin kendisi tartismalidir. Hakem duzeltmesi: ad \"Emameddin\" yazilmisti, kaynaktaki \"Emadeddin Baghi\" karsiligina duzeltildi (hayalet ad riski)"
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Humeyni ise Şah rejiminin altmış bin kişiyi şehit ettiğini söylemişti.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Askerî tarihçi Spencer Tucker bu rakamı propaganda amaçlı ve fahiş biçimde şişirilmiş bularak reddeder ve Ocak 1978 ile Şubat 1979 arasındaki ölümler için tarihçilerin uzlaştığı aralığı 532 ile 2.781 arasında verir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Uzlasi araligi kaynagin aktardigi bir uzlasi beyanidir. Hakem duzeltmesi: kaynagin araliga bagladigi donem (Ocak 1978 - Subat 1979) atlanmisti, geri konuldu"
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Aralık 1978 gösterilerinde \"bir milyona varan\" gösterici tahmini, sayılmış bir toplam değil gözlemcinin tahminidir; muhtıra kalabalığın örgütlenmesi ve önderliği hakkında ayrıntılı bilginin bulunmadığını kendisi belirtir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Tudeh'in üye sayısı tartışmasında da aynı yapı vardır: kaynağı belgede karartılmış bir rakam, gözlemcinin bu rakamı abartılı bulması ve gözlemcinin yerine koyacak daha iyi bir sayıya sahip olmaması.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hakem duzeltmesi: \"partinin kendi rakami\" ifadesi belgede desteksizdi; rakami one suren ozne karartilmistir"
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "Petrol gelirlerine yaslanan bir devletin toplumdan kopmasının sonucu olarak okunduğunda yapısal bir örnek; hiçbir gözlemcinin öngöremediği bir sonuç olarak okunduğunda öngörünün sınırlarına dair bir ders; ucuzlayan çoğaltma araçlarının siyaseti yeniden dağıtmasının erken örneği olarak okunduğunda bir iletişim tarihi vakası.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Uc okumanin varligi kayittan; agirliklandirma metnin kendi degerlendirmesidir"
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "19 Ağustos 1978'de Sinema Rex yangınında yaklaşık dört yüz kişi öldü; yangını İslamcı militanlar çıkarmıştı, ama kamuoyunun büyük bölümü bunu muhalefeti karalamak ve bir bastırmayı meşrulaştırmak için Şah'ın gizli polisi SAVAK'ın düzenlediği bir sahte bayrak eylemi saydı — ülke çapına yayılan öfkeyi büyüten de bu inançtı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hakem eklemesi: dosyada yangin yalnizca takvim ogesi olarak geciyordu; kaynagin tasidigi fail-atif tartismasi (militan eylemi mi, SAVAK sahte bayragi inanci mi) gizlenmis durumdaydi. Olu sayisi kaynakta \"around 400\""
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Zeminde ayrıca şu vardı: rejim toplumun bazı kesimlerince baskıcı, acımasız, yolsuz ve savurgan görülüyor, aynı zamanda ekonomik tıkanıklıklar, kıtlıklar ve enflasyonla boğuşuyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hakem eklemesi: dosya nedenleri yalnizca orgutlenme, liberallesme ve rant ekseninde veriyordu; kaynagin verdigi baski ve ekonomik sikinti ekseni eksikti. Kaynak bunu algi olarak yazar (\"was seen as\"), metin de oyle verir"
+    },
+    {
+      "iddia_id": "i050",
+      "cumle": "Şah onu Necef'ten çıkarttırınca Fransa'nın Irak'takinden iyi telefon ve posta bağlantıları, destekçilerinin vaaz kayıtlarını İran'a akıtmasına yaradı ve plan Şah'ın umduğunun tersine işledi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem eklemesi: \"kasetle yayilan vaaz\" halkasi metinde dayanaksiz duruyordu; k2 yalnizca catisma seslerinin kaydini tasir, vaaz kasetlerini k1 tasir"
+    },
+    {
+      "iddia_id": "i051",
+      "cumle": "Rejimi deviren şey ne bir subay darbesi ne kırsal bir gerilla savaşıydı: dönemin Amerikan istihbarat değerlendirmesi bile muhalefeti, önderliği ve eylem biçimleriyle birlikte büyük kentlerin caddelerinde ve cami çevrelerinde örgütlenen bir gösteri hareketi olarak tarif eder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "ORKESTRATOR EKLEMESI (2026-08-29): KAPI 2 kaynaksiz iddia paragrafi hatasini kapatmak icin, dosyada ZATEN bulunan kunyeler kullanilarak eklendi. Yeni kaynak getirilmedi, iddia genisletilmedi. Bir sonraki hakem turunda dogrulanmali."
+    },
+    {
+      "iddia_id": "i052",
+      "cumle": "Devrim ayrıca alışılmadık biçimde eşzamanlı belgelenmiştir: olay sürerken yazılmış istihbarat muhtıraları, bir uluslararası mahkeme dosyası ve aynı haftanın meclis tutanakları bugün açıktır.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ORKESTRATOR EKLEMESI (2026-08-29): KAPI 2 kaynaksiz iddia paragrafi hatasini kapatmak icin, dosyada ZATEN bulunan kunyeler kullanilarak eklendi. Yeni kaynak getirilmedi, iddia genisletilmedi. Bir sonraki hakem turunda dogrulanmali."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 46,
+    "kismi": 6,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "3 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "2 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "2 iddia orkestrator tarafindan eklendi (KAPI 2 kapatmasi); hakem dogrulamasi bekliyor"
+    }
+  ]
+}

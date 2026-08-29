@@ -1,16 +1,69 @@
 ## olay-kore-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:45.962Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T15:47:33.880Z_
 
-- [OK]      k1 → "paralel çevresindeki çarpışmaları Ocak-Haziran 1951'e, tıkanıklığı Temmuz 1951-Temmuz 1953'e, ateşkesi Temmuz …" — 6 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bölümlemenin son maddesinin bir bitiş tarihi taşımaması, savaşın hukuken kapanmadığını gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Ateşkes başlığının kendisinin on altı ay sürmesi de kayda değerdir: ateşkes bir an değil bir süreçtir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Tıkanıklık evresi iki yıl sürer." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak bu dönem için somut bir kuvvet ölçüsü de verir: Kuzey Kore ordusunun mevcudu Ekim 1952'de on sekiz tüme…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k2 → "Rekabetin ilk evresi çevreleme, Truman Doktrini ve Kore Savaşı başlığıyla 1947-1953 arasına yerleştirilir." — 4 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k2 → "Yani savaş, o evrenin adını taşıyan üç unsurdan biridir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Bir bölgesel savaşın, bloklar arası rekabetin dönemlendirmesine adını vermesi, çatışmanın kendisinden çok işar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır."
-- [ATOMSUZ] k1 → "Savaşın askerî seyri, hava ve deniz harekâtı, taraf devletlerin siyasi kararları ve ateşkes müzakereleri burad…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Bu dosya abd-kore karsilikli savunma antlasmasi'nin metnine bağlanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Kore yarımadası, Japon sömürge yönetiminin 1945 Ağustosunda aniden çökmesiyle iki işgal bölgesine ayrıldı; böl…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Beş yıl sonra, 25 Haziran 1950 sabahı kuzeydeki ordu bu çizgiyi geçti; Güvenlik Konseyi aynı gün toplanıp sald…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k3 → "Çarpışmalar 27 Temmuz 1953'te Panmunjom'da imzalanan ateşkesle durdu." — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k3 → "Ateşkes metni bir barış antlaşması değildir ve kendi yürürlük hükmü, maddelerinin ancak iki tarafın üzerinde a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "İkisi de olmadı: askersizleştirilmiş bölge bugün de iki Kore ordusunun devriyesi altındadır ve güneydeki ulusl…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k6 → "Japonya'nın beklenmedik teslimiyeti, Amerikan dışişleri ve silahlı kuvvetlerini teslim alma düzenini birkaç gü…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Belgeyi yazan kişi, bunlardan birinin Pentagon'da gecenin çoğunu aldığını ve kendisiyle bir başka albayın yan …" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "İkisi otuz sekizinci paraleli önerdi — üstelik Sovyet tarafı itiraz ederse bu hattın Amerikan birliklerinin ge…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k6 → "Öneri orduya, oradan dışişlerine gitti ve hat uluslararası düzeyde kabul edildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Belgenin en dikkat çekici yanı, yazarının kendi kaydına düştüğü uyarıdır: anlatı "based on memory and not on d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Aynı metin şaşkınlığı da kaydeder: öneriyi yapan kişi, Sovyet tarafının daha güneyde bir hat dayatmasını bekle…" — programatik olarak ölçülemedi (ad karşılığı yok): Sovyet
+- [OK]      k9 → "İdari bir kolaylık olarak düşünülen çizgi, 1948'de iki ayrı devletin sınırı oldu."
+- [OK]      k1 → "25 Haziran 1950 tarihli karar saldırıyı barışın ihlali sayarken, metnin dipnotu bir üyenin — Sovyetler Birliği…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Yokluğun nedenini kararların kendisi söylemez; ansiklopedi künyesi söyler: veto hakkı olan Sovyetler Birliği, …" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "7 Temmuz'da alınan üçüncü karar çerçeveyi tamamladı: kuvvet ve yardım gönderen üyelerin bunları Amerika Birleş…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k9 → "Rakamlar da ikiliği doğrular: birleşik komutaya yirmi bir ülke katkı yaptı, ama askerî personelin yaklaşık yüz…"
+- [OK]      k9 → "Seul saldırının dördüncü günü, 28 Haziran'da düştü ve Ağustos başında güney kuvvetleri yarımadanın güneydoğu u…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Amerikan tarafının 27 Haziran 1950 tarihli bildirisi ise taahhüdün savaşın üçüncü gününde Kore'yi aştığını gös…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Aynı metinde başkan hava ve deniz kuvvetlerine Güney Kore birliklerini koruma emri verdiğini, Yedinci Filo'yu …" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k9 → "Zhou Enlai 30 Eylül 1950'de Amerika'yı, 38. paralel geçilirse Çin'in müdahaleye hazır olduğu konusunda uyardı;…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "30 Kasım 1950'de Amerikan başkanı basın toplantısına bir bildiriyle girdi: Çin komünist liderleri Mançurya'dan…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k5 → "Aynı toplantıda gazetecilerden biri atom bombasının da kullanılıp kullanılmayacağını sordu; başkan, kullanımın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Beyaz Saray aynı gün bir açıklama yayımlayarak yasa gereği yalnızca başkanın izin verebileceğini, böyle bir iz…" — programatik olarak ölçülemedi (ad karşılığı yok): Saray
+- [ATOMSUZ] k3 → "Ateşkes metnini imzalayanlardan biri Çin ordusunun komutanı değil, Çin Halk Gönüllüleri'nin komutanı olarak im…" — programatik olarak ölçülemedi (ad karşılığı yok): Çin, Halk, Gönüllüleri
+- [OK]      k9 → "Karşı tarafta da benzer bir boşluk vardır: Amerika savaşı resmen ilan etmedi, başkan onu başlangıçta bir polis…"
+- [OK]      k9 → "Cephe 1951 baharında sonuçsuz kalan Çin taarruzunun ardından kabaca aynı paralelin dolayında durdu; görüşmeler…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k9 → "Pazarlık iki yılı aştı ve kaynağın kaydına göre tarihin en uzun müzakereyle varılmış ateşkesi oldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Tıkanma noktası esirlerdi: Çin ve Kuzey Kore saflarında savaşmış esirlerin birçoğu kuzeye dönmeyi reddediyordu…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k3 → "Sonunda imzalanan metin iki yolu birden yazdı — dönmekte ısrar eden esirler altmış gün içinde doğrudan teslim …" — programatik olarak ölçülemedi (ad karşılığı yok): Tarafsız, Devletler, Geri, Gönderme
+- [OK]      k3 → "Belgeyi Kore Halk Ordusu'nun başkomutanı, Çin gönüllülerinin komutanı ve Birleşmiş Milletler Komutanlığı başko…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k9 → "Güney Kore cumhurbaşkanı Syngman Rhee imzalamayı reddetmişti."
+- [OK]      k3 → "Metnin kendisi de kalıcı bir çözümü sonraya bırakır: imzadan sonraki üç ay içinde daha üst düzeyde bir siyasi …"
+- [ATOMSUZ] k3 → "Tavsiye tutmadı; ne barış anlaşması yapıldı ne de maddeler karşılıklı anlaşmayla değiştirildi, ateşkes yürürlü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Tavsiye tutmadı; ne barış anlaşması yapıldı ne de maddeler karşılıklı anlaşmayla değiştirildi, ateşkes yürürlü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Yaygın kullanılan tahminler askerî ölümleri bir milyon dolayında, sivil ölümleri ise 1,5 ile 3 milyon arasında…"
+- [OK]      k9 → "İkinci sayının aralığı birinciden geniştir, çünkü sivil ölümler için sayım altyapısı yoktu: cephe defalarca ye…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Amerika'nın Kore'ye attığı bomba toplamı 635 bin ton olarak verilir; kaynağın aktardığı alıntıda napalm bu top…"
+- [OK]      k9 → "Aynı hesap bu miktarı İkinci Dünya Savaşı'nın bütün Pasifik cephesinde kullanılan 503 bin tonla karşılaştırır …" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [ATOMSUZ] k9 → "Yıkımın kent ölçeğindeki karşılığı da hesaplanmıştır: kuzeydeki yirmi iki büyük kentin on sekizinde yapı stoku…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Sivillere yönelik katliamlar savaşın ilk günlerinden başlayarak her iki tarafça işlendi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Güney Kore'de 2005-2010 arasında çalışan bir hakikat ve uzlaşma komisyonu, savaş dönemine ait toplu öldürme ba…" — 5 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Komisyon, savaşın ilk yazında Bodo Birliği infazlarında dört bin dokuz yüz otuz dört kurbanı isimleriyle doğru…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Kuzey tarafında en çok bilinen olay, 28 Haziran 1950'de Seul Üniversitesi Hastanesi'nde binden fazla hastanın …" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k7 → "29 Eylül 1999'da bir haber ajansının yayımladığı dosya, 1950 Temmuzunda No Gun Ri yakınlarında Amerikan askerl…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k7 → "Raporun kendi ifadesiyle bu dosya, Koreli yurttaşların daha önce resmî soruşturma için yürüttüğü çabayı öne çı…" — programatik olarak ölçülemedi (ad karşılığı yok): Koreli
+- [OK]      k7 → "Amerikan tarafının Ocak 2001'de yayımlanan raporu bir milyondan fazla belge taradı, yaklaşık 200 Amerikalı tan…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k7 → "Bulgu iki yönlüdür: rapor, No Gun Ri yakınlarında ne olduğunu kesinlikle belirleyemediğini söyledikten sonra o…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k7 → "Süvari Alayı'nın 24 Temmuz 1950 tarihli muhabere kütüğünde "Fire everyone trying to cross the lines" satırı du…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k7 → "Piyade Tümeni'nin 27 Temmuz tarihli komutan yazısı, polis eliyle boşaltıldığı bildirilen bir alanda görülecek …" — programatik olarak ölçülemedi (ad karşılığı yok): Tümeni, Temmuz
+- [OK]      k7 → "Rapor iki kaydı da kendi çerçevesine oturtur: ilkinin No Gun Ri'deki alaylara iletildiğine kanıt bulunmadığını…"
+- [OK]      k7 → "Sayı ise belirlenememiştir: Güney Kore yetkilileri ilçe idaresinden aldıklarını belirttikleri, doğrulanmamış 2…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k7 → "Koreli tanıkların tahminleri menfezde 60-100 ölü, bombardıman ve alçak uçuştan 50-150 ölü ya da yaralıdır."
+- [OK]      k9 → "Bir okuma savaşı sömürge döneminden ve 1945 sonrası güneydeki iç çatışmalardan gelen bir iç savaşın uluslarara…"
+- [OK]      k4 → "İkinci bir okuma savaşı büyük güçlerin kararlarından türetir ve Kore'yi, iki blokun doğrudan çarpışmayı göze a…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Oysa ateşkesi imzalamayı reddeden güneyin cumhurbaşkanı da metni imzalayan Kore Halk Ordusu başkomutanı da ken…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Oysa ateşkesi imzalamayı reddeden güneyin cumhurbaşkanı da metni imzalayan Kore Halk Ordusu başkomutanı da ken…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "Kathryn Weathersby'nin 2021 tarihli makalesinin özeti, İngilizce yazılan Kore çalışmalarının Amerika merkezli …" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Üçüncü tartışma sayıların kendisidir: sivil ölüm aralığının milyonlarla verilmesi, No Gun Ri'de ölü sayısının …"
+- [OK]      k9 → "Güney Kore'de savaş çoğunlukla başladığı günü anan 625 Savaşı ya da 625 Kargaşası adıyla anılır; Kuzey Kore'de…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k9 → "Çin'de savaşın müdahale sonrası bölümü resmen Amerika'ya karşı koyma ve Kore'ye yardım savaşı adını taşır, önc…"
+- [OK]      k9 → "İngilizce konuşulan ülkelerde, İkinci Dünya Savaşı ile Vietnam arasında kalıp az ilgi gördüğü için bazen Unutu…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k3 → "1953'te imzalanan ateşkes, yerini alacak bir barış anlaşması ya da iki tarafın üzerinde anlaştığı bir değişikl…"
+- [OK]      k9 → "1953'te imzalanan ateşkes, yerini alacak bir barış anlaşması ya da iki tarafın üzerinde anlaştığı bir değişikl…"
+- [OK]      k9 → "Kore'de savaşın sonu bir tarih değil, hâlâ açık bir hukuki durumdur; askersizleştirilmiş bölgedeki devriye ve …" — 2 atom doğrulandı; 2 ad ölçülemedi
 
-**Özet:** 4 OK · 0 ISARET · 0 HATA · 7 ATOMSUZ
+**Özet:** 49 OK · 0 ISARET · 0 HATA · 15 ATOMSUZ

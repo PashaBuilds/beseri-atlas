@@ -1,16 +1,65 @@
 ## olay-uzay-yarisi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.360Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T15:53:30.090Z_
 
-- [ATOMSUZ] k1 → "Bu yarışın referans maddesi, teknik başarıların yanında bilgi yönetimini de ayrı başlıklarla ele alır: yapay u…" — programatik olarak ölçülemedi (ad karşılığı yok): Sovyet, ABD
-- [ATOMSUZ] k1 → "Bir teknoloji yarışının referans maddesinde gizliliğin ayrı bir alt başlık olması, rekabetin yalnızca kim önce…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Aynı yapı karşı tarafta da görülür: Sputnik'e ABD tepkisi bölümü, istihbarat değerlendirmesi ile kamuoyu tepki…" — 1 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "Kaynak, Explorer bölümünün altında NASA'nın kuruluşunu ayrı bir başlık olarak verir."
-- [ATOMSUZ] k1 → "Bir uzay ajansının kuruluşunun bir uydu programının alt başlığı olarak kaydedilmesi, kurumun rekabete verilen …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, ilk evreyi uydu geliştirme ve ilk memelilerin uzaya gönderilmesi ile erken ay sondaları üzerinden veri…"
-- [ATOMSUZ] k1 → "İkinci evrenin adında bir antlaşma teriminin geçmesi, yarışın belirli bir noktadan sonra hukuki bir çerçeveye …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Yarış, 1947 ile 1991 arasındaki ve kırk dört yıl dokuz ay süren jeopolitik rekabetin bir cephesidir."
-- [ATOMSUZ] k2 → "Aynı kaynak, rekabetin doğrudan çarpışmaya dönüşmediğini kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır."
-- [ATOMSUZ] k1 → "Tek tek uçuşlar, teknik ayrıntılar, ay programının seyri ve yarışın sona erişi burada ayrı başlıklar altında e…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Asif Siddiqi'nin saptamasıyla savaşın en gelişkin roket programı ne ABD'de ne Sovyetler Birliği'ndeydi: Peenem…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Yörüngeye ilk uyduyu ve atmosferin dışına ilk insanı taşıyan roketler bu füzenin kopyası değildi; ama savaştan…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Bu füzenin seri üretimi ise bir laboratuvarda değil, Harz dağlarının içine oyulmuş tünellerde, Buchenwald'dan …"
+- [OK]      k1 → "Üretimin bilançosu ile kullanımın bilançosu aynı hesapta buluşmaz: Wagner'in tahminiyle kamp sisteminin ölü sa…"
+- [OK]      k3 → "Üretimin bilançosu ile kullanımın bilançosu aynı hesapta buluşmaz: Wagner'in tahminiyle kamp sisteminin ölü sa…"
+- [OK]      k1 → "1943 Ağustosunda İngiliz uçakları Peenemünde'deki ordu roket araştırma merkezini bombaladı; Hitler, Speer ve H…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Aynı yılın 28 Ağustosunda Buchenwald'dan getirilen 107 tutuklu Nordhausen yakınındaki tünellere sokuldu; kampı…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Kayıtlı ölümler 1943 Eylülünde beş iken 1944 Ocağında 669'a çıktı." — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Ekim 1944'te SS, Dora'yı otuzdan fazla alt kampı olan bağımsız bir toplama kampına dönüştürdü; füze üretimi ta…"
+- [OK]      k1 → "Speer'in silahlanma bakanlığı füzeleri monte etmek için Mittelwerk adlı devlet şirketini kurdu; Himmler'in ada…"
+- [OK]      k1 → "Şirketin yönetimi 1944 Haziranında Alman sivil işçilere tutukluları dövmeyi ve keskin aletlerle yaralamayı yas…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Jens-Christian Wagner, tahliyeler sırasında sekiz binden fazla kişinin öldüğünü ve Mittelbau'nun nihai bilanço…"
+- [OK]      k1 → "Çoğunluk inşaat işçisi ve madenciydi; aralarında yılbaşından beri Auschwitz ile Gross-Rosen tahliyelerinden ge…"
+- [OK]      k1 → "ABD birlikleri 11 Nisan 1945'te Nordhausen'e ulaştı ve hava saldırılarında yakılan tutukluların cesetleriyle h…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Sovyetler kendi işgal bölgesine 5 Temmuz'da ilerlemeden önce ABD kuvvetleri çok sayıda füze parçasını ve perso…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k3 → "Bir piyade birliği 1945 Mayısında Peenemünde'yi ele geçirdi; Nordhausen'deki füze tesisine ulaşan askerler, sa…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Amerikalılar roket ekibinin seçkinlerini oluşturan 525 kadar kişiyi, on üç yıla yayılan belgeleri ve en az yüz…"
+- [OK]      k1 → "Geriye kalanla Sovyetler çalıştı: Mittelwerk tesislerinde bazı füzeler yeniden birleştirildi, çok sayıda Alman…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "O gönderme de gönüllü değildi: 1946 Ekiminde sabaha karşı dörtte başlayan toplu bir nakil operasyonuyla çeşitl…" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k3 → "Siddiqi çerçevenin iki yönde birden çarpıtıldığı konusunda uyarır: Rus tarihçiler Alman katkısını neredeyse tü…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Dora adının bugüne kalmasının nedeni, von Braun çevresindeki Alman roket mühendislerinin ABD uzay programında …" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Hamburg'a yerleşti; Alman savcılık dava açmaya yetecek delil kalmadığına karar verdi ve Rudolph 1996 başında ö…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Sovyet tarafında Sergey Korolyov'un yolu tersinden geçer: 27 Haziran 1938'de tutuklanıp Lubyanka'ya götürüldü,…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Daha sonra sharashka denen, bilim insanlarıyla mühendisler için kurulmuş hapishanelerden birine nakledildi; 27…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Siddiqi'ye göre Sovyetler, görüntü bırakmayan ve önceden haber verilmeyen bir gizlilik rejimiyle kendi başarıl…"
+- [OK]      k3 → "Hiroshima ile Nagasaki'nin yıkılması, Stalin'in gözünde ABD'nin mutlak askerî üstünlüğünün ilanı oldu; nükleer…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Sovyet liderliği önce ele geçirilmiş bir B-29'un kopyalarını üretmeye girişti; 1947 başında bombanın kendisi ö…"
+- [OK]      k3 → "Bu arada Stalin'in izniyle bir mühendis kadrosu Aral yakınlarındaki çölde ele geçirilmiş Alman füzelerini deni…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "1950'ler boyunca füze tasarımı ilerledikçe doğrudan askerî yararı olmayan seçenekler de düşünülebilir hale gel…"
+- [OK]      k3 → "Sputnik 4 Ekim 1957'de fırlatıldı." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "ABD Kongresi'nin yanıtı bir kurumdu: National Aeronautics and Space Act 29 Temmuz 1958'de yasalaştı." — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Yasanın politika maddesi, 1958'de uzaydaki faaliyetlerin "devoted to peaceful purposes for the benefit of all …"
+- [ATOMSUZ] k5 → "Silah sistemlerinin geliştirilmesine, askerî harekâta ya da ABD'nin savunmasına özgü faaliyetler Savunma Bakan…" — programatik olarak ölçülemedi (ad karşılığı yok): ABD, Savunma, Bakanlığı, Başkan
+- [ATOMSUZ] k5 → "Sivil hattın görünürlüğü de aynı yasada yazılıdır: kurum, faaliyetleri ve sonuçları hakkındaki bilgiyi uygulan…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Yuri Gagarin'in yörünge uçuşu ile Domuzlar Körfezi çıkarmasının başarısızlığı 1961 baharında birkaç gün arayla…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Kennedy 20 Nisan 1961'de Johnson'a yazdığı notta, dramatik sonuç vaat eden ve kazanılabilecek bir uzay program…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Johnson önce teknik görüş topladı, sonra Kongre'deki isimleri tek tek yokladı; Robert Kerr ve Styles Bridges b…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Hedefin hangi yolla gerçekleştirileceği de kendi içinde çekişmeliydi: doğrudan çıkış, Dünya yörüngesinde buluş…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Ölçek yönetim biçimini de değiştirdi; Kasım 1968'de Science dergisi, NASA'nın dolar ya da insan sayısıyla deği…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Siddiqi Ay hedefini kendisi de bir yarış olarak anlatır ve kitabının adına yarışı koyar; zorlanan yer, 1957 ön…"
+- [OK]      k3 → "Aynı yazar, 1950'ler ve 1960'lar boyunca ABD uzay politikasının büyük ölçüde Sovyetlerin ne yaptığına — daha d…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k3 → "Sputnik ise onun anlatısında bir yarış hamlesi olarak değil, Dünya'yı ve çevresini incelemeye dönük uluslarara…" — programatik olarak ölçülemedi (ad karşılığı yok): Dünya
+- [OK]      k3 → "Sovyet arşivlerinin geç açılması yüzünden Batı'da kurulan yorum çerçevesi eksik bölümleri olan bir tarihe daya…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "John Logsdon'a göre ABD, bu kadar görünür ve dramatik bir taahhütle yarışa girerek Sovyet uzay gösterilerinin …" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Tarihçi Arthur Schlesinger ise iki yüzyıl sonra Amerikalıların Ay inişini yirminci yüzyılın belirleyici olayı …"
+- [OK]      k4 → "Launius, Apollo kararını ulusal karar alma sürecinde bir istisna olarak okur: program olağan siyasi koşullarda…"
+- [ATOMSUZ] k4 → "Aynı yazar, programın kendisi için kurulduğu siyasi hedefleri tutturduğunu da yazar; iki saptama birbirini dış…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Dönemin kamuoyu desteğinin gerçekte ne olduğu ayrı bir araştırma konusudur: Launius 2003'te Space Policy dergi…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Başkan Kennedy hedefi 25 Mayıs 1961'de Kongre'ye açıkladı." — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "NASA yöneticisi James Webb'in erken tahmini 20 milyar doları aşıyordu ve Kennedy bunu önce fazla bulmuştu."
+- [OK]      k4 → "Program sonunda 25,4 milyar dolara mal oldu; Launius bu rakamı 1990 dolarıyla yaklaşık 95 milyar olarak verir;…" — 6 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Asıl büyüme ise yüklenicilerdeydi; 1960'ta 36.500 olan yüklenici çalışan sayısı 1965'te 376.700'e ulaştı."
+- [OK]      k4 → "Neil Armstrong 20 Temmuz 1969'da Ay yüzeyine ayak bastı." — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "1967 tarihli Dış Uzay Antlaşması, Ay ve diğer gök cisimleri dahil dış uzayın egemenlik iddiasıyla, kullanım ya…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k6 → "Aynı metin, Ay'ın ve diğer gök cisimlerinin yalnızca barışçıl amaçlarla kullanılacağını, yörüngeye nükleer sil…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Essen'de görülen Dora davası 1967-1970 arasında sürdü, sanıklar sağlık gerekçesiyle cezalarını çekmedi."
+- [OK]      k1 → "Rudolph davasının kalıcı bir sonucu oldu: Mittelbau-Dora'nın hikâyesi, Soğuk Savaş boyunca yapıldığı gibi Alma…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Bu, geçmişe dönük bir suçlama listesi değil, kaynak tabanının genişlemesidir; kamp sistemini bütün olarak ele …"
+- [OK]      k1 → "Alman tarafının belgeleri savaş suçu yargılamalarıyla ve Batı Almanya'nın kendi soruşturmalarıyla erken görünü…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Alman tarafının belgeleri savaş suçu yargılamalarıyla ve Batı Almanya'nın kendi soruşturmalarıyla erken görünü…" — 1 atom doğrulandı; 2 ad ölçülemedi
 
-**Özet:** 5 OK · 0 ISARET · 0 HATA · 6 ATOMSUZ
+**Özet:** 55 OK · 0 ISARET · 0 HATA · 5 ATOMSUZ

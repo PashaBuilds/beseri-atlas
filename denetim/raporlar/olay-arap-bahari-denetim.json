@@ -1,63 +1,351 @@
 {
   "id": "olay-arap-bahari",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:43.765Z",
-  "govde_hash": "fc1de464c153",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T15:42:53.602Z",
+  "govde_hash": "b47efd483491",
+  "commit": "fdab69c",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Bu dalganın referans maddesi tek bir tarih vermez; ülke ülke ayrı tarihler sıralar: Tunus 2010-2011, Mısır 2011, Libya 2011, Suriye 2011-2024, Birleşik Arap Emi",
+      "anahtar": "k9",
+      "iddia": "Tunus'ta bir seyyar satıcının kendini yakmasının ardından sokağa çıkan kalabalıklar, önce kendi cumhurbaşkanlarını, sonra Mısır, Libya ve Yemen'in yöneticilerin",
       "durum": "OK",
-      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bir ülkenin süresinin on dört yıla uzarken diğerlerinin tek bir yıl olarak verilmesi, \"dalga\" nitelemesinin başlangıçları birleştirdiğini ama sonuçları birleşti",
+      "anahtar": "k9",
+      "iddia": "Aynı aylarda Bahreyn ve Suriye'de de kitlesel gösteriler başladı; dalga boyunca ikisinde de yönetim yerinde kaldı, Suriye'de gösteriler iç savaşa dönüştü ve Beş",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Muhammed Buazizi 17 Aralık 2010'da, belediye denetçisi tezgâhındaki malları aldıktan bir saat sonra üzerine benzin döküp kendini ateşe verdi; 4 Ocak 2011'de öld",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ölümü, mevcut düzenden hoşnutsuz farklı kesimleri bir araya getirdi: işsizleri, siyasi ve insan hakları savunucularını, işçi ve sendika örgütlerini, öğrencileri",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak sonuçları üç başlıkla verir: Arap Kışı, uzun vadeli sonuçlar ve bunun altında mezhepçilik ile devlet sistemlerinin çöküşü, ayrıca İkinci Arap Baharı.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Arap, Kışı, İkinci, Baharı"
+      "anahtar": "k9",
+      "iddia": "Tunus'ta gösteriler 18 Aralık 2010'da başladı ve 14 Ocak 2011'de Zeynelabidin Bin Ali'nin Suudi Arabistan'a kaçmasıyla yönetim devrildi; siyasi polis dağıtıldı,",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bir hareketin sonuç bölümünde kendi karşıtının adının bir başlık olması, değerlendirmenin baştan iki yönlü kurulduğunu gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k9",
+      "iddia": "Referans dökümünde Tunus için verilen ölü sayısı 338'dir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Mısır'da Hüsnü Mübarek 18 günlük kitlesel gösterinin ardından 11 Şubat 2011'de istifa etti ve otuz yıllık cumhurbaşkanlığı sona erdi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Libya'da Muammer Kaddafi 23 Ağustos 2011'de devrildi, 20 Ekim 2011'de memleketi Sirte'de öldürüldü.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Yemen'de Ali Abdullah Salih, kovuşturma bağışıklığı karşılığında iktidarı devretmeyi öngören Körfez İşbirliği Konseyi planını imzaladı; yerine Abdurabbu Mansur ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Şubat 2012 sonuna gelindiğinde Cezayir, Irak, Ürdün, Kuveyt, Fas, Umman ve Sudan'da da büyük gösteriler görülmüştü.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
-      "iddia": "Aynı yapıda bir önceki dalga için de iki okuma kayıtlıdır; o kayda göre birçok tarihçi 1848 devrimlerini kalıcı yapısal değişikliklerin görünürdeki yokluğu nede",
+      "iddia": "Güvenlik Konseyi 26 Şubat 2011'de kabul ettiği 1970 sayılı kararla ülkeye silah ambargosu koydu.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üç hafta sonra, 17 Mart 2011'de kabul edilen 1973 sayılı karar üye devletlere, Bingazi dahil saldırı tehdidi altındaki sivilleri ve sivil yerleşim alanlarını ko",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Askerî uygulama NATO ile başlamadı: önce ABD önderliğindeki ve NATO komutası dışındaki Odyssey Dawn harekâtı geldi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "NATO 22 Mart 2011'de ambargo denetimini, 24 Mart'ta uçuşa yasak bölgeyi üstlendi ve 31 Mart 2011'de uluslararası askerî çabanın komuta ve denetimini bütünüyle d",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Birleşik Koruyucu Harekâtı 31 Ekim 2011'de, başlangıcından 222 gün sonra son sortiyle bitti; ittifak, harekâtın hiçbir aşamasında kendi komutası altında Libya'd",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kararın kendisi, dayandığı bölgesel desteği ve hukuki devamlılığı da kayda geçirir: İslam Konferansı Örgütü'nün 8 Mart 2011 tarihli sonuç bildirisini, Afrika Bi",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Bahreyn'de gösteriler 14 Şubat 2011'de başladı ve yönetim değişmedi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Dış askerî güç buraya da girdi: 14 Mart 2011'de, hükümetin talebi üzerine ağırlıkla Suudi ve Birleşik Arap Emirlikleri birliklerinden oluşan Körfez İşbirliği Ko",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kral Hamed bin İsa el-Halife, 29 Haziran 2011'de 28 sayılı Kraliyet Emri ile bağımsız bir soruşturma komisyonu kurdu; komisyon raporunu 23 Kasım 2011'de sundu.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Görev tanımı geniştir: olayların eksiksiz anlatısı, polis şiddeti ve göstericilerin başkalarına yönelik şiddeti iddiaları, gözaltıların hukuka uygunluğu, kayıp ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kurulun kendi anlatımına göre bu tür komisyonlar çoğu zaman dışarıdan gelen bir yetkiyle kurulurken Bahreyn'deki karar ülke içinde alındı ve BM İnsan Hakları Yü",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Bahreyn, İnsan, Hakları, Yüksek"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Referans dökümüne göre komisyon, hükümetin tutukluları sistematik biçimde işkenceye tabi tuttuğu sonucuna vardı ve gösterilerin İran tarafından kışkırtıldığı yo",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "İki dalga arasındaki bu biçim benzerliği, atlasın karşılaştırma malzemesidir; önceki dalga dosyasında ele alınıyor.",
+      "iddia": "Libya'da dış askerî güç bir Güvenlik Konseyi kararıyla yönetime karşı devreye girdi.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Güvenlik, Konseyi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Libya'da dış askerî güç bir Güvenlik Konseyi kararıyla yönetime karşı devreye girdi.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Güvenlik, Konseyi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bahreyn'de dış askerî güç yönetimin çağrısıyla ve onun yanında girdi; yabancı güçlerin rolü aynı zamanda yönetimin kendi kurduğu kurulun soruşturma başlıklarınd",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k2",
-      "iddia": "İki dalga arasındaki bu biçim benzerliği, atlasın karşılaştırma malzemesidir; önceki dalga dosyasında ele alınıyor.",
+      "anahtar": "k9",
+      "iddia": "Bahreyn'de dış askerî güç yönetimin çağrısıyla ve onun yanında girdi; yabancı güçlerin rolü aynı zamanda yönetimin kendi kurduğu kurulun soruşturma başlıklarınd",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "ILO modellemesine dayanan seriye göre ayaklanmanın çıktığı altı ülkede 2010 işsizlik oranı yüzde 1,1 (Bahreyn) ile yüzde 19,3 (Libya) arasında değişiyordu; Tunu",
+      "durum": "OK",
+      "not": "10 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Mısır ve Tunus'ta ordu mevcut yönetimin indirilmesine etkin biçimde katıldı; Suudi Arabistan'da askerî güç göstericilere karşı seferber edilerek hareket sonland",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "İkinci açıklama bu desteği toplumsal bileşimle bağlar: Suudi Arabistan ve Suriye gibi, yönetici seçkinin etnik ya da dinsel alt bölünmelerle sıkı biçimde ekleml",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Üçüncüsü orta sınıfa bakar: güçlü ve eğitimli bir orta sınıfın varlığı başarıyla bağdaştırılmış; buna karşılık cömert refah programları ve zayıf bir orta sınıfl",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Dördüncüsü bu son okumayı kalkınma diliyle yeniden kurar: Körfez'in petrol monarşileri gibi rant devletlerinde ayaklanmaların bütün olarak daha az sonuç verdiği",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Körfez"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kaynak başarılı devrimin ne demek olduğunu açmaz; ölçüt belirsizken bu açıklama sınanabilir bir iddia değil, bir sınıflandırma tercihidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Tunus ve Mısır'da yönetim haftalar içinde değişti; Yemen'de değişim bir bölgesel örgütün arabuluculuğuyla ve dokunulmazlık pazarlığıyla, Libya'da ise dışarıdan ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bahreyn'de değişim hiç gelmedi; yerine komşu devletlerin birlikleri ve yönetimin kendi kurduğu bir soruşturma kurulu geldi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Bahreyn'de değişim hiç gelmedi; yerine komşu devletlerin birlikleri ve yönetimin kendi kurduğu bir soruşturma kurulu geldi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Karşılaştırmalı siyasetin kendi konumu da olayla birlikte değişti: Eva Bellin, 2004'te Comparative Politics'te Ortadoğu otoriterliğinin dayanıklılığını karşılaş",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Gösteriler hem nüfusun yüzde 88'inin 2011'de çevrimiçi olduğu Bahreyn'de hem de internet yaygınlığı en düşük ülkeler arasında sayılan Yemen ve Libya'da yaşandı.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Gadi Wolfsfeld, Elad Segev ve Tamir Sheafer'in 2013'te The International Journal of Press/Politics'te yayımlanan çalışması yirmi Arap ülkesi ile Filistin Yöneti",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Aynı referans dökümü ters yöndeki okumayı da taşır: sosyal medyaya erişimi daha geniş olan Tunus ve Mısır gibi ülkelerin büyük kalabalıkları harekete geçirmekte",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 2008'de yaklaşık 6,84 milyardır.",
+      "iddia": "2013 yazında siyasi suikastlar ve yaygın toplumsal huzursuzluk demokratikleşme sürecini çökme tehlikesiyle karşı karşıya bırakınca dört örgüt bir araya geldi: T",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Norveç Nobel Komitesi 2015 Barış Ödülü'nü bu dörtlüye verdi ve ödülün dört örgüte ayrı ayrı değil, oluşturdukları arabuluculuk düzenine verildiğini açıkça belir",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Komitenin gerekçesi, ülkenin iç savaşın eşiğindeyken barışçıl bir siyasi sürecin kurulabilmesine dayanır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "V-Dem seçimsel demokrasi endeksinde Tunus 2015'te 0,727 değerindeydi; aynı yıl diğer beş ülkenin hepsi 0,29'un altındaydı — Libya 0,285, Yemen 0,184, Mısır 0,15",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Ülke ülke ayaklanmaların seyri, taleplerin içeriği, dış müdahaleler ve rejim değişiklikleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı ",
+      "anahtar": "k5",
+      "iddia": "2025 kesitinde Tunus 0,395'e inmiş, yani 2015 değerinin yaklaşık yarısına düşmüştür; aynı yıl Libya 0,193, Mısır 0,187, Bahreyn 0,139, Suriye 0,128, Yemen 0,127",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Referans dökümü Tunus'u dondurulmuş bir başarı hikâyesi saymaz: Tunus ile Mısır'ın kısa vadeli başarı sayılmasının sonradan sorunlu hâle geldiğini, Mısır'da siy",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Yine de veri yalnızca iki uç yılı verdiği için geri kayışın ne zaman ve hangi adımlarla olduğu bu seriden okunamaz.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "\"Bahar\" adlandırması Batı'dan ödünçtür: 1848 devrimlerinin \"Halklar Baharı\" olarak anılmasını ve 1968 Prag Baharı'nı izler — Prag'da Çek öğrenci Jan Palach da t",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Referans dökümü terimi tartışmalı sayar: olayların Batı'nın kurduğu demokratik devrim örneğini tekrarlayacağı beklentisini taşıdığını ve Batı-dışı aktörlere Bat",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Batı, Batı-dışı, Batılı"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Katılanların kendi sözcükleri başkaydı; eylemlerini ayaklanma (intifada), uyanış (sahwa) ve yeniden doğuş (nahda) diye adlandırdılar, onur (karama) ve devrim (t",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "İslamcı partilerin seçim başarılarından sonra bazı yorumcuların İslamcı Bahar ve İslamcı Kış terimlerini üretmesi, adlandırma kavgasının sürdüğünün işaretidir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Oysa beklentinin tersine ayaklanmalar İslamcıların önderliğinde yürümedi: Mısır'da Selefiler, el-Ezher ve Kıpti Kilisesi başlangıçta karşı çıktı, Müslüman Karde",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Tunus işsizliği için ILO modellemesine dayanan seri 2011 yılına yüzde 18,3 verir; aynı yıl için referans dökümünde aktarılan Dünya Bankası değeri yüzde 16,7'dir",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Tunus işsizliği için ILO modellemesine dayanan seri 2011 yılına yüzde 18,3 verir; aynı yıl için referans dökümünde aktarılan Dünya Bankası değeri yüzde 16,7'dir",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Nitekim Tunus için verilen 338 rakamı bağımsız bir resmî sayım değil, referans dökümünün ikincil bir kaynaktan aktardığı tek bir değerdir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Bu okumaya göre Buazizi'nin ölümü kıvılcım, ordunun tutumu, rant geliri ve toplumsal bileşim ise krizinin nasıl sonuçlanacağını belirleyen etkenler olarak sıral",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Buazizi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ayaklanmalar dizisinin kendisi Aralık 2012'de kapanmış sayılır; bıraktığı sorular kapanmadı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kapanış tarihi zaten bir sınıflandırma kararıdır: dalganın hedef aldığı yöneticilerden Sudan'da Ömer el-Beşir ile Cezayir'de Abdülaziz Buteflika 2019'da, Suriye",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
     }
   ]
 }

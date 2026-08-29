@@ -1,67 +1,331 @@
 {
   "id": "olay-iran-devrimi-1979",
   "gecis": 2,
-  "zaman": "2026-08-29T14:59:26.226Z",
-  "govde_hash": "aef1a188a4ac",
-  "commit": "7a16c22",
+  "zaman": "2026-08-29T15:53:15.833Z",
+  "govde_hash": "93b5c1f46759",
+  "commit": "9181554",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Bu devrimin arka planı, kaynağın kendi bölümlemesinde uzun bir dizi olarak verilir: Anglo-İran Petrol Şirketi meselesi 1951-1952, İran darbesi ve ABD etkisi, Be",
+      "iddia": "Mohammed Rıza Pehlevi 16 Ocak 1979'da İran'dan ayrıldı.",
       "durum": "OK",
-      "not": "7 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Beyaz Devrim ile Humeyni'nin sürgünü aynı yılları — 1963-1979 — kaplar.",
+      "iddia": "İki hafta sonra Ruhullah Humeyni Fransa'daki sürgününden Tahran'a döndü; Şubat başındaki silahlı çatışmaların ardından İmparatorluk Ordusu tahta bağlılığını ger",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "İki sürecin aynı aralıkta ve ayrı başlıklar altında verilmesi, devrimin bir reform programı ile ona yönelen muhalefetin eş zamanlı olgunlaşması olarak kurguland",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Mart sonundaki halk oylamasında oy kullananların yüzde 98,2'si monarşinin yerine bir İslam cumhuriyeti kurulmasından yana çıktı; oylamaya karşı çıkanlar Ulusal ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak, sürgün bölümünün altında devrimin ideolojisi ile muhalefet grupları ve örgütlerini ayrı alt başlıklar olarak verir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Muhalefetin çoğul olarak sayılması, devrimin tek bir hareketin ürünü olmadığını gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, 1970-1977 için tek bir başlık, ardından patlak veriş için ayrı bir alt başlık ve 1978 için ayrı bir \"önsöz\" bölümü kullanır; protestoların başlangıcı bu",
+      "anahtar": "k2",
+      "iddia": "Rejimi deviren şey ne bir subay darbesi ne kırsal bir gerilla savaşıydı: dönemin Amerikan istihbarat değerlendirmesi bile muhalefeti, önderliği ve eylem biçimle",
       "durum": "OK",
       "not": ""
     },
     {
+      "anahtar": "k2",
+      "iddia": "Devrim ayrıca alışılmadık biçimde eşzamanlı belgelenmiştir: olay sürerken yazılmış istihbarat muhtıraları, bir uluslararası mahkeme dosyası ve aynı haftanın mec",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Devrim ayrıca alışılmadık biçimde eşzamanlı belgelenmiştir: olay sürerken yazılmış istihbarat muhtıraları, bir uluslararası mahkeme dosyası ve aynı haftanın mec",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Devrim ayrıca alışılmadık biçimde eşzamanlı belgelenmiştir: olay sürerken yazılmış istihbarat muhtıraları, bir uluslararası mahkeme dosyası ve aynı haftanın mec",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
       "anahtar": "k1",
-      "iddia": "On yılın tek başlıkta, tek yılın birden fazla başlıkta toplanması, anlatının son evrede hızlandığını gösterir.",
+      "iddia": "1978 boyunca protesto dalgası basamak basamak yükseldi: Ağustosta Abadan'daki Sinema Rex yangını, 8 Eylülde sıkıyönetim ilanı ve Jale Meydanı katliamı, Eylül il",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dalganın doruk noktası 10-11 Aralık 1978'deki Tasua ve Aşura yürüyüşleriydi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "19 Ağustos 1978'de Sinema Rex yangınında yaklaşık dört yüz kişi öldü; yangını İslamcı militanlar çıkarmıştı, ama kamuoyunun büyük bölümü bunu muhalefeti karalam",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Zeminde ayrıca şu vardı: rejim toplumun bazı kesimlerince baskıcı, acımasız, yolsuz ve savurgan görülüyor, aynı zamanda ekonomik tıkanıklıklar, kıtlıklar ve enf",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Devrimin öncesindeki on yıl, petrolün fiyatının küresel olarak yaklaşık yüzde 300 arttığı yıllardı: varil başına 3 ABD dolarından yaklaşık 12 ABD dolarına.",
+      "iddia": "Tasua ve Aşura yürüyüşlerini izleyen bir Amerikan istihbarat muhtırası, 21 Aralık 1978'de, Tahran'da bir milyona varan göstericinin sokağa çıktığını ve kalabalı",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Muhtıraya göre işi yapan merkezî bir parti değildi: geleneksel görevi dinî alayları düzenlemek olan ve dastehgardan diye anılan mahalle önderleri, küçük gruplar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yürüyüşün lojistiği de aynı elden çıkmıştı: gruplar hoparlörlü minibüslerden verilen talimatlarla durup ilerliyor, düzen görevlileri yiyecek ve içecek dağıtıyor",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ayetullahlar ve siyasetçiler kortejin başında değil, yürüyüş ana güzergâha çıktıktan sonra aralarına katılıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı muhtıra, dinî muhalefetin bu örgütsel gücünün onu muhalefetin geri kalanından ayırdığını, buna karşılık Ulusal Cephe'nin ne bağımsız bir kitle tabanı ne de",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ulusal, Cephe"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Solun silahlı kanadı da sahnedeydi: 1971'den beri etkin olan Halkın Fedaileri, 1978 sonbaharında Tahran, Tebriz, İsfahan ve Meşhed'de polis ve güvenlik görevlil",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Buna rağmen muhtıra, olayların arkasında yabancı unsurların, solcuların ya da Tudeh Partisi'nin yönlendirici elinin bulunduğu iddiasını doğrulayacak hiçbir kanı",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1991'de yaklaşık 5,42 milyardır.",
+      "iddia": "Tudeh Partisi Şah'ın düşüşüyle birlikte yirmi yıllık yeraltından çıktığında İran içinde muhtemelen en fazla birkaç yüz üyesi, Doğu Almanya ile Sovyetler Birliği",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "1980 Haziranında ise, belgede kimliği karartılmış bir kaynak, partinin yüz binden fazla üye ve sempatizanı olduğunu ileri sürüyordu; değerlendirme bu rakamların",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı belge, rejimin Tudeh'e öteki sol gruplardan daha hoşgörülü davrandığını, çünkü partinin rejimin bütün temel politikalarını desteklediğini kaydeder.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Devrimin seyri, kurulan rejimin yapısı, dış politika sonuçları ve sonraki dönemler burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler ",
+      "iddia": "Ervand Abrahamian'a göre Haziran 1981 ile Haziran 1985 arasında devrim mahkemelerinin idam ettiği sekiz bin muhalifin sayısı, kraliyet yönetiminin devrimi durdu",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Theda Skocpol'ün 1982'de Theory and Society dergisinde çıkan yazısı, adını taşıdığı iki kavramla — rantiye devlet ve Şiî İslam — sorunun eksenini belirledi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Charles Kurzman'ın 2004 tarihli kitabı ise başlığından itibaren karşı yönde durur: devrim \"düşünülemez\" olandır, yani öncesinden bakan hiçbir gözlemcinin öngöre",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Annabelle Sreberny-Mohammadi ile Ali Mohammadi'nin kitabı üçüncü bir eksen açar ve adında taşır: küçük medya, büyük devrim.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1977'ye gelindiğinde Şah'ın siyasi liberalleşme politikası yürürlükteydi; laik muhalefet gizlice toplanıp hükümeti eleştirmeye başladı, İran Yazarlar Birliği Ta",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yıl Amerikan başkanı Carter'ın, insan hakları ihlali yapan ülkelerin Amerikan silah ve yardımından yoksun bırakılacağını söyleyen politikası, bazı İranlıla",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aralık 1978 muhtırası, muhalefetin kullandığı teknik donanımı ayrı bir başlıkta ele alır ve yabancı bir el aramanın gereksiz olduğu sonucuna varır: teksir makin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Muhtıra, çatışma seslerinin ses kayıtlarıyla çoğaltılıp gece boyunca yayılmasının da zorunlu olarak dışarıdan yönlendirme anlamına gelmediğini belirtir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı teknoloji Humeyni'nin kendi sesini de taşıdı: Şah onu Necef'ten çıkarttırınca Fransa'nın Irak'takinden iyi telefon ve posta bağlantıları, destekçilerinin v",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Enerji eşdeğeri olarak İran'ın petrol üretimi 1970'te 2.240 TWh iken 1974'te 3.526 TWh'ye çıkmıştı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Devrimin son yılında bu üretim çöktü: 1978'de 3.080 TWh olan üretim 1979'da 1.866 TWh'ye, 1980'de 862 TWh'ye indi — yani iki yılda 1978 düzeyinin dörtte birine ",
+      "durum": "ISARET",
+      "not": "kaynakta bulunamayan sayısal değer: 3.080 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "4 Kasım 1979'da İranlı militanlar Tahran'daki Amerikan elçiliğini işgal etti ve diplomatik ve konsolosluk personelini rehin aldı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Amerika Birleşik Devletleri 29 Kasım 1979'da Uluslararası Adalet Divanı'na başvurdu; divan 15 Aralık 1979'da geçici tedbir kararı verdi ve 24 Mayıs 1980'de, dur",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Karar İran hükümetinin yokluğunda verildi; İran mahkemeye gönderdiği iki yazıda davanın görülmemesi gerektiğini savundu, divan bu gerekçeleri reddetti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Dava, 12 Mayıs 1981 tarihli kararla, davadan vazgeçilmesi üzerine listeden düşürüldü.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Geçici tedbir aşamasında divan, devletler arası ilişkiler için diplomatik temsilcilerin ve elçilik binalarının dokunulmazlığından daha temel bir önkoşul bulunma",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Esasa ilişkin kararında ise İran'ın rehineleri serbest bırakmak, binaları iade etmek ve verdiği zararı tazmin etmekle yükümlü olduğuna hükmetti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Divan, 4 Kasım günündeki olaylarda militanların davranışının doğrudan İran devletine yüklenemeyeceğini — yeterli bilgi bulunmadığı için — ama devletin saldırıyı",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "6 Kasım 1979'da Beyaz Saray'da toplanan Ulusal Güvenlik Konseyi'nde başkan, \"birlikte çalışılacak bir hükümet bulunmadığını\" ve pazarlık isteği görünmediğini sö",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı tutanakta elçiliği basan öğrenciler için şu değerlendirme yapılır: gruba solcular önemli ölçüde sızmıştır ama grup Humeyni'nin desteğini korumaktadır, Tahr",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı toplantıda Dışişleri bakanı, Tahran'da Beheşti'ye ulaşıldığını ve onun elçi gönderilmesi fikrini Devrim Konseyi'ne götürmeyi vaat ettiğini aktardı.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Dışişleri, Tahran, Beheşti, Devrim"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tudeh Partisi'nin rehinelerin tutulmasını desteklemesi de aynı iç hesaplaşmanın parçasıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Amerikan hükümeti, 2017'de yayımladığı resmî belge cildinde 1951-1954 İran dosyasını dört bölüme ayırır; bu bölümlerden biri \"TPAJAX Operasyonu'nun planlanması ",
+      "durum": "OK",
+      "not": "9 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "13 Şubat 1979'da Avam Kamarası'nda savunma bakanı Mulley'e İran'la savunma iş birliğinin geleceği soruldu; bakan gelişmeleri yakından izlediklerini, ilişkilerin",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Soruyu soran milletvekili Newens ise aynı oturumda tam tersini savundu: İran halkının ayaklanmasının başarısı, ona göre, korkunç bir tiranlığı desteklemiş, ona ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bakan İran'ın içinde bulunduğu durum hakkında hüküm vermenin akıllıca olmayacağını söyledi ve milletvekilinin aynı görüşleri daha önce de dile getirdiğini hatır",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Oturumun geri kalanı, Leeds'teki Kraliyet Cephanelik Fabrikası'nda üretimine başlanmak üzere olan Şir İran tankının sözleşmesine ayrıldı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şehitler Vakfı'nda araştırmacı olan Emadeddin Bakî'nin sayımına göre 1978-1979'da öldürülen protestocu ve devrimci sayısı 2.781'dir.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Humeyni ise Şah rejiminin altmış bin kişiyi şehit ettiğini söylemişti.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Şah"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Askerî tarihçi Spencer Tucker bu rakamı propaganda amaçlı ve fahiş biçimde şişirilmiş bularak reddeder ve Ocak 1978 ile Şubat 1979 arasındaki ölümler için tarih",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aralık 1978 gösterilerinde \"bir milyona varan\" gösterici tahmini, sayılmış bir toplam değil gözlemcinin tahminidir; muhtıra kalabalığın örgütlenmesi ve önderliğ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tudeh'in üye sayısı tartışmasında da aynı yapı vardır: kaynağı belgede karartılmış bir rakam, gözlemcinin bu rakamı abartılı bulması ve gözlemcinin yerine koyac",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Petrol gelirlerine yaslanan bir devletin toplumdan kopmasının sonucu olarak okunduğunda yapısal bir örnek; hiçbir gözlemcinin öngöremediği bir sonuç olarak okun",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

@@ -1,27 +1,13 @@
 {
   "id": "olay-kirim-savasi",
   "gecis": 3,
-  "zaman": "2026-08-29T14:56:03.320Z",
+  "zaman": "2026-08-29T15:15:48.930Z",
   "itirazlar": [
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Savaşı ağırlıklı kılan, kazanılan mevziler ya da yer değiştiren sınırlar değildir. Birincisi, ölülerin ezici çoğunluğunu muharebe değil hastalık verdi; oran taraf raporlarının kend",
-      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
       "cumle": "Zincirin ilk halkası Paris'te çekildi. Napoléon III, Fransa'nın büyüklüğünü yeniden kurma hedefiyle Filistin'deki Hristiyan nüfus üzerinde egemen bir yetki iddia etti ve Katolik Ki",
       "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Nedenler üzerinde tek bir okuma yoktur. Bugün tarihçilerin çoğu kutsal yerler meselesini bir bahane sayar; Vinogradov'un temsil ettiği çizgi Rus taleplerinin sınırlı olduğunu vurgu",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     },
     {
@@ -34,8 +20,15 @@
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Efsanenin çatladığı yer zaman sırasıdır. Hemşire ekibinin Boğaz'a ulaşmasından sonraki aylarda tablo düzelmedi: aynı rapor, Britanya hastanelerinin birkaç ay boyunca hastaların ner",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "cumle": "Salgın, ilk kurşundan önce başladı. The Times muhabiri William Howard Russell, 1854 yazında Gelibolu ve Varna kamplarında koleranın yüzlerle ölçülen ölümlere yol açtığını, Fransız ",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Nightingale'in adı savaşla birlikte anılır ama kendi raporu, kolay bir kurtarıcı anlatısına izin vermez. Britanya ordusunun büyük hastaneleri İstanbul'daydı; Boğaz'ın bu hastaneler",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     },
     {
@@ -49,13 +42,6 @@
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
       "cumle": "Savaş, kamuoyunun cepheyi günü gününe okuduğu ilk savaştır. Fransızlar 1854 sonunda telgraf hattını Karadeniz kıyısına uzattığında haberler Londra'ya iki günde, Britanya 1855 Nisan",
-      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Görüntü tarafı daha seçiciydi. Roger Fenton'ın 1855'te Kırım'da çektiği ve cam negatiften tuzlu kâğıda basılan karelerden biri, müze kaydına Balaklava'daki demiryolu depolarının çı",
       "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     }

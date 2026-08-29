@@ -1,14 +1,15 @@
 {
   "id": "olay-nufus-patlamasi",
   "gecis": 3,
-  "zaman": "2026-08-21T07:32:38.374Z",
+  "zaman": "2026-08-29T15:35:36.988Z",
+  "govde_hash": "4fec5b29eebc",
   "itirazlar": [
     {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "İki serinin karşılaştırılması,[^k1][^k2] 20. yüzyılın ikinci yarısındaki nüfus artışının çatışma kaynaklı kayıpların çok üzerinde olduğunu gösterir. Atlas bu iki seriyi tek bir ora",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Ölüm oranındaki düşüşün tek bir nedeni yok ve nedenlerin ağırlığı hâlâ tartışılıyor. Bulaşıcı hastalıkların denetimi, sonucu belgeye bağlanabilen az sayıdaki bileşenden biridir; aş",
+      "sorun": "Nedensellik iddiası tek kaynağa (k5) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
     }
   ]
 }

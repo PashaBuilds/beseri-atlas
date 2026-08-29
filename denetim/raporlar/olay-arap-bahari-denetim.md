@@ -1,14 +1,62 @@
 ## olay-arap-bahari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:43.765Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T15:42:53.602Z_
 
-- [OK]      k1 → "Bu dalganın referans maddesi tek bir tarih vermez; ülke ülke ayrı tarihler sıralar: Tunus 2010-2011, Mısır 201…" — 6 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir ülkenin süresinin on dört yıla uzarken diğerlerinin tek bir yıl olarak verilmesi, "dalga" nitelemesinin ba…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak sonuçları üç başlıkla verir: Arap Kışı, uzun vadeli sonuçlar ve bunun altında mezhepçilik ile devlet si…" — programatik olarak ölçülemedi (ad karşılığı yok): Arap, Kışı, İkinci, Baharı
-- [ATOMSUZ] k1 → "Bir hareketin sonuç bölümünde kendi karşıtının adının bir başlık olması, değerlendirmenin baştan iki yönlü kur…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Aynı yapıda bir önceki dalga için de iki okuma kayıtlıdır; o kayda göre birçok tarihçi 1848 devrimlerini kalıc…"
-- [ATOMSUZ] k1 → "İki dalga arasındaki bu biçim benzerliği, atlasın karşılaştırma malzemesidir; önceki dalga dosyasında ele alın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "İki dalga arasındaki bu biçim benzerliği, atlasın karşılaştırma malzemesidir; önceki dalga dosyasında ele alın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 2008'de yaklaşık 6,84 milyardır."
-- [ATOMSUZ] k1 → "Ülke ülke ayaklanmaların seyri, taleplerin içeriği, dış müdahaleler ve rejim değişiklikleri burada ayrı başlık…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Tunus'ta bir seyyar satıcının kendini yakmasının ardından sokağa çıkan kalabalıklar, önce kendi cumhurbaşkanla…"
+- [OK]      k9 → "Aynı aylarda Bahreyn ve Suriye'de de kitlesel gösteriler başladı; dalga boyunca ikisinde de yönetim yerinde ka…" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k9 → "Muhammed Buazizi 17 Aralık 2010'da, belediye denetçisi tezgâhındaki malları aldıktan bir saat sonra üzerine be…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k9 → "Ölümü, mevcut düzenden hoşnutsuz farklı kesimleri bir araya getirdi: işsizleri, siyasi ve insan hakları savunu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Tunus'ta gösteriler 18 Aralık 2010'da başladı ve 14 Ocak 2011'de Zeynelabidin Bin Ali'nin Suudi Arabistan'a ka…" — 5 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Referans dökümünde Tunus için verilen ölü sayısı 338'dir."
+- [OK]      k9 → "Mısır'da Hüsnü Mübarek 18 günlük kitlesel gösterinin ardından 11 Şubat 2011'de istifa etti ve otuz yıllık cumh…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k9 → "Libya'da Muammer Kaddafi 23 Ağustos 2011'de devrildi, 20 Ekim 2011'de memleketi Sirte'de öldürüldü." — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k9 → "Yemen'de Ali Abdullah Salih, kovuşturma bağışıklığı karşılığında iktidarı devretmeyi öngören Körfez İşbirliği …" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Şubat 2012 sonuna gelindiğinde Cezayir, Irak, Ürdün, Kuveyt, Fas, Umman ve Sudan'da da büyük gösteriler görülm…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k2 → "Güvenlik Konseyi 26 Şubat 2011'de kabul ettiği 1970 sayılı kararla ülkeye silah ambargosu koydu." — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Üç hafta sonra, 17 Mart 2011'de kabul edilen 1973 sayılı karar üye devletlere, Bingazi dahil saldırı tehdidi a…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Askerî uygulama NATO ile başlamadı: önce ABD önderliğindeki ve NATO komutası dışındaki Odyssey Dawn harekâtı g…"
+- [OK]      k2 → "NATO 22 Mart 2011'de ambargo denetimini, 24 Mart'ta uçuşa yasak bölgeyi üstlendi ve 31 Mart 2011'de uluslarara…"
+- [OK]      k2 → "Birleşik Koruyucu Harekâtı 31 Ekim 2011'de, başlangıcından 222 gün sonra son sortiyle bitti; ittifak, harekâtı…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Kararın kendisi, dayandığı bölgesel desteği ve hukuki devamlılığı da kayda geçirir: İslam Konferansı Örgütü'nü…" — 4 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k9 → "Bahreyn'de gösteriler 14 Şubat 2011'de başladı ve yönetim değişmedi." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Dış askerî güç buraya da girdi: 14 Mart 2011'de, hükümetin talebi üzerine ağırlıkla Suudi ve Birleşik Arap Emi…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k4 → "Kral Hamed bin İsa el-Halife, 29 Haziran 2011'de 28 sayılı Kraliyet Emri ile bağımsız bir soruşturma komisyonu…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k4 → "Görev tanımı geniştir: olayların eksiksiz anlatısı, polis şiddeti ve göstericilerin başkalarına yönelik şiddet…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Kurulun kendi anlatımına göre bu tür komisyonlar çoğu zaman dışarıdan gelen bir yetkiyle kurulurken Bahreyn'de…" — programatik olarak ölçülemedi (ad karşılığı yok): Bahreyn, İnsan, Hakları, Yüksek
+- [OK]      k9 → "Referans dökümüne göre komisyon, hükümetin tutukluları sistematik biçimde işkenceye tabi tuttuğu sonucuna vard…"
+- [ATOMSUZ] k1 → "Libya'da dış askerî güç bir Güvenlik Konseyi kararıyla yönetime karşı devreye girdi." — programatik olarak ölçülemedi (ad karşılığı yok): Güvenlik, Konseyi
+- [ATOMSUZ] k2 → "Libya'da dış askerî güç bir Güvenlik Konseyi kararıyla yönetime karşı devreye girdi." — programatik olarak ölçülemedi (ad karşılığı yok): Güvenlik, Konseyi
+- [ATOMSUZ] k4 → "Bahreyn'de dış askerî güç yönetimin çağrısıyla ve onun yanında girdi; yabancı güçlerin rolü aynı zamanda yönet…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Bahreyn'de dış askerî güç yönetimin çağrısıyla ve onun yanında girdi; yabancı güçlerin rolü aynı zamanda yönet…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "ILO modellemesine dayanan seriye göre ayaklanmanın çıktığı altı ülkede 2010 işsizlik oranı yüzde 1,1 (Bahreyn)…" — 10 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Mısır ve Tunus'ta ordu mevcut yönetimin indirilmesine etkin biçimde katıldı; Suudi Arabistan'da askerî güç gös…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "İkinci açıklama bu desteği toplumsal bileşimle bağlar: Suudi Arabistan ve Suriye gibi, yönetici seçkinin etnik…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Üçüncüsü orta sınıfa bakar: güçlü ve eğitimli bir orta sınıfın varlığı başarıyla bağdaştırılmış; buna karşılık…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k9 → "Dördüncüsü bu son okumayı kalkınma diliyle yeniden kurar: Körfez'in petrol monarşileri gibi rant devletlerinde…" — programatik olarak ölçülemedi (ad karşılığı yok): Körfez
+- [ATOMSUZ] k9 → "Kaynak başarılı devrimin ne demek olduğunu açmaz; ölçüt belirsizken bu açıklama sınanabilir bir iddia değil, b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Tunus ve Mısır'da yönetim haftalar içinde değişti; Yemen'de değişim bir bölgesel örgütün arabuluculuğuyla ve d…"
+- [ATOMSUZ] k4 → "Bahreyn'de değişim hiç gelmedi; yerine komşu devletlerin birlikleri ve yönetimin kendi kurduğu bir soruşturma …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Bahreyn'de değişim hiç gelmedi; yerine komşu devletlerin birlikleri ve yönetimin kendi kurduğu bir soruşturma …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Karşılaştırmalı siyasetin kendi konumu da olayla birlikte değişti: Eva Bellin, 2004'te Comparative Politics'te…"
+- [OK]      k9 → "Gösteriler hem nüfusun yüzde 88'inin 2011'de çevrimiçi olduğu Bahreyn'de hem de internet yaygınlığı en düşük ü…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "Gadi Wolfsfeld, Elad Segev ve Tamir Sheafer'in 2013'te The International Journal of Press/Politics'te yayımlan…"
+- [OK]      k9 → "Aynı referans dökümü ters yöndeki okumayı da taşır: sosyal medyaya erişimi daha geniş olan Tunus ve Mısır gibi…"
+- [OK]      k3 → "2013 yazında siyasi suikastlar ve yaygın toplumsal huzursuzluk demokratikleşme sürecini çökme tehlikesiyle kar…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k3 → "Norveç Nobel Komitesi 2015 Barış Ödülü'nü bu dörtlüye verdi ve ödülün dört örgüte ayrı ayrı değil, oluşturdukl…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k3 → "Komitenin gerekçesi, ülkenin iç savaşın eşiğindeyken barışçıl bir siyasi sürecin kurulabilmesine dayanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "V-Dem seçimsel demokrasi endeksinde Tunus 2015'te 0,727 değerindeydi; aynı yıl diğer beş ülkenin hepsi 0,29'un…"
+- [OK]      k5 → "2025 kesitinde Tunus 0,395'e inmiş, yani 2015 değerinin yaklaşık yarısına düşmüştür; aynı yıl Libya 0,193, Mıs…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Referans dökümü Tunus'u dondurulmuş bir başarı hikâyesi saymaz: Tunus ile Mısır'ın kısa vadeli başarı sayılmas…"
+- [ATOMSUZ] k5 → "Yine de veri yalnızca iki uç yılı verdiği için geri kayışın ne zaman ve hangi adımlarla olduğu bu seriden okun…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → ""Bahar" adlandırması Batı'dan ödünçtür: 1848 devrimlerinin "Halklar Baharı" olarak anılmasını ve 1968 Prag Bah…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k9 → "Referans dökümü terimi tartışmalı sayar: olayların Batı'nın kurduğu demokratik devrim örneğini tekrarlayacağı …" — programatik olarak ölçülemedi (ad karşılığı yok): Batı, Batı-dışı, Batılı
+- [ATOMSUZ] k9 → "Katılanların kendi sözcükleri başkaydı; eylemlerini ayaklanma (intifada), uyanış (sahwa) ve yeniden doğuş (nah…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "İslamcı partilerin seçim başarılarından sonra bazı yorumcuların İslamcı Bahar ve İslamcı Kış terimlerini üretm…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Oysa beklentinin tersine ayaklanmalar İslamcıların önderliğinde yürümedi: Mısır'da Selefiler, el-Ezher ve Kıpt…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k6 → "Tunus işsizliği için ILO modellemesine dayanan seri 2011 yılına yüzde 18,3 verir; aynı yıl için referans döküm…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Tunus işsizliği için ILO modellemesine dayanan seri 2011 yılına yüzde 18,3 verir; aynı yıl için referans döküm…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Nitekim Tunus için verilen 338 rakamı bağımsız bir resmî sayım değil, referans dökümünün ikincil bir kaynaktan…"
+- [ATOMSUZ] k9 → "Bu okumaya göre Buazizi'nin ölümü kıvılcım, ordunun tutumu, rant geliri ve toplumsal bileşim ise krizinin nası…" — programatik olarak ölçülemedi (ad karşılığı yok): Buazizi
+- [OK]      k9 → "Ayaklanmalar dizisinin kendisi Aralık 2012'de kapanmış sayılır; bıraktığı sorular kapanmadı." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Kapanış tarihi zaten bir sınıflandırma kararıdır: dalganın hedef aldığı yöneticilerden Sudan'da Ömer el-Beşir …" — 3 atom doğrulandı; 3 ad ölçülemedi
 
-**Özet:** 3 OK · 0 ISARET · 0 HATA · 6 ATOMSUZ
+**Özet:** 41 OK · 0 ISARET · 0 HATA · 16 ATOMSUZ

@@ -1,81 +1,243 @@
 {
   "id": "olay-nufus-patlamasi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:46.559Z",
-  "govde_hash": "474324d755b0",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T15:43:00.940Z",
+  "govde_hash": "4fec5b29eebc",
+  "commit": "fdab69c",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır.",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1927'de yaklaşık 2 milyar, 1974'te yaklaşık 4 milyar, 2022'de yaklaşık 8 milyar kişidir.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "İki ölçüm noktası arasındaki fark, atlasın kullandığı serideki en dik artıştır.",
+      "iddia": "İlk ikiye katlanma kırk yedi, ikincisi kırk sekiz yıl sürdü.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Karşılaştırma için aynı seride 1500'de yaklaşık 503,1 milyon, 1800'lerin ortasında yaklaşık 1,27 milyar değerleri verilir.",
+      "iddia": "Karşılaştırma için aynı seride 1500'de yaklaşık 503 milyon, 1800'de yaklaşık 983 milyon değerleri duruyor: yüzyıllara yayılan bir birikimin ardından, bir insan ",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılın ortasındaki kırk altı yıl, önceki üç buçuk yüzyıldan daha büyük bir mutlak artış üretmiştir.",
+      "iddia": "1900'de yaklaşık 1,63 milyar olan dünya nüfusu 1950'de yaklaşık 2,49 milyara, 1987'de yaklaşık 5,05 milyara, 2011'de yaklaşık 7,11 milyara çıktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1900 ile 1950 arasında dünya nüfusuna eklenen 866 milyon kişiye, 1963 ile 1975 arasındaki on iki yılda yeniden ulaşıldı; bu kez eklenen 878 milyondu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dünya ortalamasında çocuk ölüm oranı 1950'de yüzde 24,7 iken 1963'te yüzde 16,2'ye indi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı on üç yılda toplam doğurganlık hızı düşmedi, yükseldi: kadın başına 1950'de 4,85 çocuktan 1963'te 5,31 çocuğa çıktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki seri birlikte okunduğunda artışı yalnızca bir doğum sıçramasına bağlamak zorlaşıyor: doğurganlıktaki yükseliş yüzde on kadarken, beş yaşına varamayan çocukl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İki seri birlikte okunduğunda artışı yalnızca bir doğum sıçramasına bağlamak zorlaşıyor: doğurganlıktaki yükseliş yüzde on kadarken, beş yaşına varamayan çocukl",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Aynı dönemin çatışma verisi, artışın savaşlara rağmen gerçekleştiğini gösterir: İkinci Dünya Savaşı'ndan sonraki yıllarda çatışmalarda birkaç milyon insan öldü;",
+      "iddia": "Nüfus artış hızı da tam o yıl, 1963'te yüzde 2,28 ile 1950'de başlayan serinin en yüksek değerine ulaştı; 2023'te yüzde 0,87'ye inmişti.",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "İki serinin karşılaştırılması, 20.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "İki serinin karşılaştırılması, 20.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Aynı yıllar, 1947 ile 1991 arasındaki ve kırk dört yıl dokuz ay süren jeopolitik rekabetin yıllarıdır.",
+      "iddia": "Düşüşün ölçeği uzun seride daha net görünüyor: çocuk ölüm oranı 1800'de yüzde 42,8, 1900'de yüzde 40,9 iken 1950'de yüzde 24,7'ye, 1980'de yüzde 11,9'a indi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Dünya Sağlık Örgütü'nün yoğunlaştırılmış çiçek kampanyası 1967'de başladı; 9 Aralık 1979'da bir küresel komisyon hastalığın yeryüzünden silindiğini belgeledi ve",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı kayda göre hastalık yalnızca yirminci yüzyılda üç yüz milyon kişiyi öldürmüştü; kampanyanın maliyeti üç yüz milyon dolar, dağıtılan aşı yarım milyardı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kampanyanın kendi kaydı düşüşün doğasına dair bir ipucu taşır: aynı metin sonucu hem güvenli ve etkili bir aşıya hem de dünyanın dört bir yanından binlerce sağl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Preston'ın 1975 tarihli incelemesi soruyu başlığına taşır: ölümlülük ile ekonomik gelişme düzeyi arasındaki ilişki değişkendir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Szreter'in 1988 tarihli yeniden yorumu bu hattı başlığında duyurur: Britanya'nın 1850-1914 arasındaki ölümlülük düşüşünde toplumsal müdahale belirleyicidir ve k",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Dudley Kirk'ün 1996'da Population Studies dergisinde yayımladığı değerlendirme bunlardan biridir ve doğrudan kuramın adını taşır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Bu sıralamanın alışılmış anlatımı Bongaarts ile Casterline'ın incelemesinde de özetleniyor: geçişin erken evresinde yüksek doğurganlık, arzulanan aile büyüklüğü",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Toplam doğurganlık hızı 1960'ta 4,70, 1961'de 4,57 iken 1963'te 5,31'e çıktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kalıcı düşüş ancak sonraki on yıllarda geldi: 1975'te 4,08, 1994'te 2,93, 2023'te 2,25.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Üçüncüsü arzunun uygulamaya dökülmesidir: aileler daha az doğum istediğinde bunu doğum denetimi ya da kürtajla gerçekleştirir, aile planlaması programları da pe",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Bongaarts ile Casterline'ın 2013'te Population and Development Review dergisinde yayımlanan incelemesi soruyu doğrudan sorar: Sahra altı Afrika'nın doğurganlık ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "İncelemeye göre bölgede yüksek doğurganlığın düşen ölümlülükle birleşmesi yılda yüzde 2,5'lik bir büyüme üretti ve bu hız, yaşam düzeyini yükseltmeyi zorlaştıra",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Aynı inceleme, bölge nüfusunun 2010'da 0,86 milyardan 2050'de 1,96 milyara, 2100'de ise 3,36 milyara çıkacağı öngörüsünü aktarır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "İncelemenin kendi saydıkları kentleşme düzeyi, eğitim süresi, iktisadın değişmesi, çocuk ölümlerinin ne kadar gerilediği ve doğum denetimine erişimdir; alanyazı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Sahra altı Afrika'nın geçişinin ayrı bir soru olarak açılması da bunun işaretidir — bir bölgenin farklı olup olmadığı ancak ortak bir takvim beklendiğinde sorul",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Whyte, Wang ve Cai'nin 2015'te China Journal dergisinde yayımlanan incelemesi, Çin'in tek çocuk politikası çevresindeki yaygın kanıları tek tek ele alır ve dörd",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Mao zaman zaman doğum sınırlarını güçlü biçimde savundu ve 1970 sonrasında zorlayıcı bir doğum planlamasına geçildi; 1970'ten bu yana doğurganlıktaki düşüşün dö",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Politika tartışması tek bir ülkeyle de sınırlı kalmadı: aile planlaması programları pek çok ülkede doğum denetimi yöntemlerinin benimsenmesini hızlandırdı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Çin örneği bu güçlüğün ölçülmüş hâlidir: zorlamanın en sert uygulandığı yerde bile 1980 sonrası düşüşün büyük bölümü zorlamaya değil iktisadi gelişmeye bağlanıy",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Nüfus artışının bu rekabetle örtüşmesi, dönemin \"kalkınma yarışı\" boyutunun demografik zeminini oluşturur; dönem dosyasında ele alınıyor.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Seride 2023'e kadar olan değerler tarihsel tahmin, sonrası öngörüdür; öngörü sütunu 2084'te 10,29 milyarlık bir tepe verir ve 2100'de 10,18 milyara iner.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "BM Nüfus Bölümü'nün veri portalı, toplam nüfus, toplam doğurganlık hızı ve beş yaş altı ölüm hızı göstergelerinin kaynağını World Population Prospects'in 2024 r",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu dosyanın okuduğu seri ise MÖ 10.000'e kadar geriye uzanıyor.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yıllık yüzde artış, 1950'de başlayan artış hızı serisi içinde 1963'te doruk yapar; mutlak artış ise nüfus serisinde 1990'da, 93 milyon kişiyle en yükseğine çıka",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yıllık yüzde artış, 1950'de başlayan artış hızı serisi içinde 1963'te doruk yapar; mutlak artış ise nüfus serisinde 1990'da, 93 milyon kişiyle en yükseğine çıka",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Nüfus artış hızı 2023'te yüzde 0,87'ye inmişti; bu, 1963'teki değerin yarısından azdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Toplam doğurganlık hızı 2023'te 2,25 çocuğa indi; bu da 1963'teki değerin yarısından azdır.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Nüfus artışının bu rekabetle örtüşmesi, dönemin \"kalkınma yarışı\" boyutunun demografik zeminini oluşturur; dönem dosyasında ele alınıyor.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Çocuk ölüm oranı ise 1950'deki yüzde 24,7'den 2023'te yüzde 3,83'e düştü.",
+      "durum": "OK",
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kullanılan seri, atlasın bütün dönem makalelerinde aynı kaynaktan alınır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bölgesel dağılım, doğum ve ölüm hızlarının ayrı seyri, kentleşme ve göç burada ayrı başlıklar altında ele alınmamıştır; kullanılan veri kümesi yalnızca toplam n",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k4",
+      "iddia": "Bu dönüş her yerde aynı anda gerçekleşmiyor ve yukarıdaki künyeler ülke ülke dağılımı vermiyor; verdikleri tek şey 2023'te kadın başına 2,25 çocukluk bir dünya ",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

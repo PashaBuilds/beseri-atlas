@@ -1,28 +1,7 @@
 {
   "id": "olay-arap-bahari",
   "gecis": 3,
-  "zaman": "2026-08-21T07:49:57.295Z",
-  "itirazlar": [
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Bu dalganın referans maddesi tek bir tarih vermez; ülke ülke ayrı tarihler sıralar: Tunus 2010-2011, Mısır 2011, Libya 2011, Suriye 2011-2024, Birleşik Arap Emirlikleri 2011, Yemen",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Bir ülkenin süresinin on dört yıla uzarken diğerlerinin tek bir yıl olarak verilmesi,[^k1] \"dalga\" nitelemesinin başlangıçları birleştirdiğini ama sonuçları birleştirmediğini göste",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "orta",
-      "tip": "tek-kaynakli-nedensellik",
-      "cumle": "Aynı yapıda bir önceki dalga için de iki okuma kayıtlıdır; o kayda göre birçok tarihçi 1848 devrimlerini kalıcı yapısal değişikliklerin görünürdeki yokluğu nedeniyle bir başarısızl",
-      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
-      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
-    }
-  ]
+  "zaman": "2026-08-29T15:34:12.857Z",
+  "govde_hash": "b47efd483491",
+  "itirazlar": []
 }

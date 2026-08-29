@@ -1,11 +1,12 @@
 ## olay-italyan-birligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:52:01.438Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T15:42:58.265Z_
 
 - [OK]      k9 → "Yüzyılın ortasında birbirini dışlayan üç proje aynı anda dolaşımdaydı: papanın başkanlığında bir devletler kon…"
 - [OK]      k9 → "17 Mart 1861'de Torino'da toplanan ilk İtalyan parlamentosu Vittorio Emanuele'yi İtalya kralı ilan etti; 27 Ma…"
 - [OK]      k6 → "O gün Venedik Avusturya'nın, Roma papanın elindeydi; Güney ise bir yıl önce silahla alınmıştı ve iki yıl sonra…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Piemonteli bir rahip olan Vincenzo Gioberti, İtalyanların ahlaki ve medeni önceliği üzerine yazdığı kitapta, y…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kendi vurgusuna göre bunun için papaya yeni bir yetki vermek gerekmiyordu; kesintiye uğramış ama ortadan kalkm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Böyle bir birlik, Gioberti'nin sıraladığına göre, prenslerin gücünü artıracak ama bağımsızlıklarına dokunmayac…"
 - [OK]      k9 → "Öneriye Pius IX önce ilgi duyar göründü; ama papa kısa sürede tersine döndü ve liberalizmle milliyetçiliğe kar…"
 - [OK]      k9 → "Aynı yıllarda Giuseppe Mazzini ile Carlo Cattaneo federal bir cumhuriyet, Cesare Balbo ise Piemonte önderliğin…"
 - [OK]      k2 → "Dergisinin kendi alt başlığı, İtalya'nın siyasi, ahlaki ve edebi durumu üzerine, ülkenin yeniden doğuşuna yöne…"
@@ -16,16 +17,18 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:52:01.438Z_
 - [OK]      k9 → "Avusturya 4 Haziran'da Magenta'da yenildi, Solferino'da Fransız-Piemonte kuvvetleri karşısında müzakereye zorl…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k9 → "İki taraf da anlaşmanın dışına çıkmıştı: Napolyon III Venedik alınmadan savaştan çekilmiş, Cavour ise ayaklanm…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k9 → "Sardinya, Toskana Büyük Dukalığı, Parma ve Modena dukalıkları ile papalık legasyonlarından oluşan Orta İtalya …" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k9 → "1860 baharında Garibaldi, I Mille denen bin kadar gönüllüyle 6 Mayıs'ta Cenova yakınındaki Quarto'dan yola çık…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k4 → "Seferin siyasi anlamı ilk günlerde belirlendi: Marsala'da diktatörlükten söz edildi, ertesi gün Salemi'de ilan…"
 - [ATOMSUZ] k4 → "Garibaldi kendi anlatısında bunu, cumhuriyetçi "saflar"ın sonradan açıkça dile getirdiği itiraza rağmen alınmı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k4 → "Garibaldi, Palermo'da Savoy monarşisinin yandaşlarının halkı Bin'e karşı kuşkuya sürüklediğini ve vaktinden ön…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Çağrının nereden yükseldiğini de söyler: Garibaldi'ye göre zengin Napoli'nin önünde eli boş beklemeye tahammül…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k9 → "Ekim ayında Vittorio Emanuele ordusuyla güneye indi; Garibaldi Teano'da onu İtalya kralı diye selamladı, dikta…"
 - [OK]      k3 → "Cavour, Roma'nın İtalya'nın başkenti olması gerektiğini söylüyor, başkent sorunu çözülmedikçe eyaletler arasın…"
 - [ATOMSUZ] k3 → "Kendi seçim bölgesi Torino'nun bu iddiadan vazgeçmesini istemek ona acı verdiğini de açıkça söyledi." — programatik olarak ölçülemedi (ad karşılığı yok): Torino
 - [OK]      k3 → "Asıl önemlisi, Roma'ya gidişe koyduğu iki şarttı: Fransa ile birlikte gidilecekti, yoksa birleşme dünya Katoli…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k3 → "Cavour bu şartlar tutulursa papalıkla devlet arasında bir barışın kurulabileceğini umuyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k3 → "Konuşmasından birkaç ay sonra, 6 Haziran 1861'de öldü." — 1 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k5 → "31 Aralık 1861'i 1 Ocak 1862'ye bağlayan gece yapılan sayımın bakan tarafından krala sunulan raporuna göre kra…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "31 Aralık 1861'i 1 Ocak 1862'ye bağlayan gece yapılan sayımın bakan tarafından krala sunulan raporuna göre kra…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k5 → "Rapor, o güne kadar nüfusun İtalya'nın neredeyse her yerinde nüfus kütüklerinden kestirildiğini ve bu yöntemin…"
 - [OK]      k7 → "Devletin kendi istatistik yıllığı, 1861 seçim rakamlarının Veneto ve Roma olmadan hesaplandığını dipnotta beya…"
 - [OK]      k9 → "Venedik 1866'daki savaşın ardından, 21-22 Ekim'de yapılan bir halk oylamasıyla katıldı: 642 binden fazla oyun …" — 2 atom doğrulandı; 1 ad ölçülemedi
@@ -35,13 +38,18 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:52:01.438Z_
 - [OK]      k7 → "Aynı satırda seçim çevrelerinin sayısı 443 olarak verilir; tablo oranı bir de yalnızca erkek nüfusa böler, ama…"
 - [OK]      k7 → "Aynı tabloya göre seçmenlerin sandığa gitme sıklığı 1870'te en düşük, 1876'da en yüksek düzeydeydi."
 - [OK]      k9 → "Alessandro Manzoni'nin romanının 1840 basımı, insanları öğrenmeye zorlayacak bir dil sağlamak için bilinçli ol…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k7 → "İstatistik yıllığına göre 1861 sayımı, 22 milyonluk nüfusta her yaştan 17 milyon okuma yazma bilmeyen buldu — …"
 - [ATOMSUZ] k6 → "Temsilciler Meclisi, üyelerinden bir bölümünü en çok etkilenen yerlere gönderip eşkıyalığın nedenlerini, o gün…" — programatik olarak ölçülemedi (ad karşılığı yok): Meclisi
-- [OK]      k6 → "Komisyon işe Torino'da bakanlıklardan gelen belgeleri inceleyerek başladı, sonra Napoli'ye geçti; Molise, Bari…"
+- [OK]      k6 → "Komisyon işe Torino'da bakanlıklardan gelen belgeleri inceleyerek başladı, sonra Napoli'ye geçti; Avellino ile…"
 - [OK]      k6 → "Abruzzo ve Calabria'ya gitmek istedi ama zaman yetmeyeceği için vazgeçti — raporun kendi beyan ettiği sınırdır…"
 - [OK]      k6 → "Siyasi krizin tek başına yeterli sayılmasının hata olacağını söyler ve gerekçesini bir karşılaştırmaya dayandı…"
-- [OK]      k6 → "Komisyon bunun yerine iç içe geçmiş etkenleri sayar: topraksız tarım işçisinin yoksulluğu ve toprağa hiçbir ba…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k6 → "Birincisi, topraksız tarım işçisinin yoksulluğu ve toprağa hiçbir bağının bulunmamasıdır — ortakçılığın (mezze…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "İkincisi Bourbon düzenidir: rapora göre yalnız sefalet Napoli illerinde bu kadar yıkıcı olmazdı, ona hanedanın…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Üçüncüsü, 1860 yazında hazırlanan Bourbon karşı hareketidir; Francesco II Napoli'yi terk etmeden önce hapishan…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k6 → "1861'in ilk sekiz ayında 365, 1862'de 591, 1863'ün ilk üç ayında 79 kişi kurşuna dizildi; çatışmada ölenlerle …"
 - [ATOMSUZ] k6 → "Komisyonun önerisi, eşkıyalık suçlarında yargı yetkisinin askeri mahkemelere devredilmesiydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "İlhakın nasıl onaylandığı ise buradaki kaynaklarda tek bir yan cümleyle görünür: komisyonun incelediği yargı d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Kayda geçen şu kadarı: oylamayla onaylandığı bildirilen bölgede, 1863'te yargı yetkisi askeri mahkemelere devr…"
 - [OK]      k8 → "Simonetta Soldani ile Gabriele Turi'nin 1993'te yayımladığı derlemeden bu yana sözün uydurma olduğu kabul edil…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k8 → "Gigante'nin katkısı, cümlenin Martini'den önce de dolaştığını göstermektir: De Sanctis 1872-73'te Napoli Ünive…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k8 → "Gigante buradan, birebir aynı sözcüklerle olmasa da özü bakımından vecizenin d'Azeglio'ya iade edilebileceği s…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -51,6 +59,6 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:52:01.438Z_
 - [ATOMSUZ] k6 → "Aynı yıllarda meclisin kendi komisyonu, çözümü askeri mahkemelerde buluyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k3 → "Sonucun kaçınılmaz olmadığını gösteren en sağlam kanıt ise kazananın kendi belgeleridir: Cavour Roma'ya Fransa…"
 - [OK]      k4 → "Sonucun kaçınılmaz olmadığını gösteren en sağlam kanıt ise kazananın kendi belgeleridir: Cavour Roma'ya Fransa…"
-- [OK]      k2 → "Sonucun kaçınılmaz olmadığını gösteren en sağlam kanıt ise kazananın kendi belgeleridir: Cavour Roma'ya Fransa…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Sonucun kaçınılmaz olmadığını gösteren en sağlam kanıt ise kazananın kendi belgeleridir: Cavour Roma'ya Fransa…"
 
-**Özet:** 42 OK · 0 ISARET · 0 HATA · 9 ATOMSUZ
+**Özet:** 48 OK · 0 ISARET · 0 HATA · 11 ATOMSUZ

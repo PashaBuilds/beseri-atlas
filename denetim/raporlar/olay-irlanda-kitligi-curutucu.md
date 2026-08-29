@@ -1,12 +1,10 @@
 # Çürütücü raporu — olay-irlanda-kitligi
-_2026-08-21T07:41:18.575Z_
+_2026-08-29T15:36:08.128Z_
 
-## Zayıf bulunmayan alanlar
+## İtiraz 1 — [ciddiyet: orta] kapsam-carpitmasi
 
-Programatik tarama, §10'da sayılan yedi zayıflık tipinde (tek kaynaklı
-nedensellik, atıfsız kesinlik dili, üstünlük iddiası, kapsam çarpıtması,
-anakronizm, yetersiz pozisyon, ince kanıt tabanı) itiraz adayı bulamadı.
+**Cümle:** "Mitchel'in aynı sayfalardaki tarifi, adanın kıtlık öncesindeki tuhaf konumunu tek cümlede toplar: ona göre İrlanda belki de dünyada hem ihraç edilecek fazla ürüne hem ihraç edilece"
 
-Bu, makalenin doğru olduğu anlamına gelmez; bu yedi kalıptan hiçbirinin
-tetiklenmediği anlamına gelir. Sayısal ve ad düzeyindeki doğrulama Geçiş 2,
-bağımsız yeniden türetme Geçiş 4 raporlarındadır.
+**Sorun:** Makale avrupa/amerika kapsamlı ama cümle küresel/evrensel dil kullanıyor.
+
+**Öneri:** Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster.

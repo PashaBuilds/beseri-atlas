@@ -1,5 +1,5 @@
 ## olay-yesil-devrim
-_Geçiş 2 — kaynak denetimi · 2026-08-29T15:01:28.761Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T15:43:03.779Z_
 
 - [OK]      k1 → "Başlangıcı 1943'te, Meksika Tarım Bakanlığı ile Rockefeller Vakfı'nın Meksika hükümetinin isteği üzerine kurdu…" — 3 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Yirmi yıl sonra aynı programın ürünü olan çeşitler Hindistan ve Pakistan tarlalarındaydı; Filipinler'de gelişt…" — 2 atom doğrulandı; 2 ad ölçülemedi
@@ -17,7 +17,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T15:01:28.761Z_
 - [ATOMSUZ] k1 → "Üretimdeki büyük artış o tarihe kadar yalnızca sulanan alanlarda gerçekleşmişti; yağışa bağlı alanlar geride k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Etki ürün bakımından da dardı: buğday, pirinç ve mısır belirgin biçimde değişmiş, sorgum, darı ve arpada değiş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Yalnızca 1969-1970 ekim sezonunda Hindistan'da yetmiş bin özel tüplü kuyu açıldı ve yaklaşık 1,4 milyon hektar…"
-- [ATOMSUZ] k1 → "Aynı konuşmada, yapay besinlere bağımlılığın küçük çiftçinin üzerine bindirdiği mali yük, programı yürüten kiş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Aynı konuşmada, yapay besinlere bağımlılığın küçük çiftçinin üzerine bindirdiği mali yük, uygulayıcının kendi …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "1965'te Pakistan'a 350, Hindistan'a 250 ton Meksika cüce buğday tohumu geniş ölçekli tarla denemeleri için get…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Yeşil Devrim öncesinin rekor hasadı olan 1964-1965 yılı taban alındığında Pakistan'ın buğday üretimi 4,6 milyo…" — 8 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Hindistan'ın üretimi aynı yıllarda 12,3 milyon tondan 20 milyon tona yükseldi."

@@ -1,9 +1,9 @@
 {
   "id": "olay-berlin-duvarinin-yikilisi",
   "gecis": 2,
-  "zaman": "2026-08-29T15:01:34.153Z",
-  "govde_hash": "45141d6edc07",
-  "commit": "7a16c22",
+  "zaman": "2026-08-29T15:42:54.503Z",
+  "govde_hash": "b7aaaa5f6db8",
+  "commit": "fdab69c",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -56,8 +56,8 @@
     {
       "anahtar": "k1",
       "iddia": "Saat 18.53'te, toplantı biterken, İtalyan haber ajansı ANSA'dan Riccardo Ehrman kasım başında kamuoyuna sızan seyahat yasası taslağının bir hata olup olmadığını",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İtalyan, ANSA, Riccardo, Ehrman"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k7",
@@ -193,19 +193,25 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "Honecker'in eylül sonunda imzaladığı gizli emir yürürlükteydi ve beklenen kargaşanın baştan önlenmesini buyuruyordu; buna ek olarak o güne özel bir ateş emrinin",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k4",
-      "iddia": "Silah kullanılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler 18.25 sularında geri çekildi.",
+      "iddia": "Honecker'in eylül sonunda imzaladığı gizli emir yürürlükteydi ve beklenen kargaşanın baştan önlenmesini buyuruyordu; o güne özel bir ateş emrinin verilip verilm",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k7",
-      "iddia": "Silah kullanılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler 18.25 sularında geri çekildi.",
+      "iddia": "Kaynaklar bu noktada ayrışır: ansiklopedi derlemesi, polis ve ordu birimlerine toplananlara karşı güç kullanma izninin verildiğini yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Tek kurşun atılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler 18.25 sularında geri çekildi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Tek kurşun atılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler 18.25 sularında geri çekildi.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -213,7 +219,7 @@
       "anahtar": "k4",
       "iddia": "O gün atılan \"Wir sind das Volk\" — biz halkız — sloganı, partinin ve hükümetin sonraki her tereddütlü tavizini hızlandıran güce dönüştü.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k2",
@@ -225,7 +231,7 @@
       "anahtar": "k4",
       "iddia": "O gün atılan \"Wir sind das Volk\" — biz halkız — sloganı, partinin ve hükümetin sonraki her tereddütlü tavizini hızlandıran güce dönüştü.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k4",
@@ -381,7 +387,7 @@
       "anahtar": "k7",
       "iddia": "Bariyeri kaldıran subayların adları — Bornholmer'de Harald Jäger ve Edwin Görlitz — bilinir; ama hiçbiri anma dilinde kahraman mertebesine çıkarılmamıştır.",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k2",

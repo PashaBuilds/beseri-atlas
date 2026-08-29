@@ -1,9 +1,9 @@
 {
   "id": "olay-kirim-savasi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:44:04.915Z",
-  "govde_hash": "35ed50b184b4",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T15:42:59.002Z",
+  "govde_hash": "0d176fa57603",
+  "commit": "fdab69c",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -19,15 +19,15 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Birincisi, ölülerin ezici çoğunluğunu muharebe değil hastalık verdi; oran taraf raporlarının kendisinde yazılıdır — Sivastopol önünde hastalıktan düşenler kılıç",
+      "iddia": "Bu yön bütün ordularda aynıdır, büyüklüğü değil: fark, kaydı kimin tuttuğuna göre yedi kattan kıl payına iner.",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sivastopol"
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k4",
-      "iddia": "Birincisi, ölülerin ezici çoğunluğunu muharebe değil hastalık verdi; oran taraf raporlarının kendisinde yazılıdır — Sivastopol önünde hastalıktan düşenler kılıç",
+      "iddia": "Bu yön bütün ordularda aynıdır, büyüklüğü değil: fark, kaydı kimin tuttuğuna göre yedi kattan kıl payına iner.",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sivastopol"
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
@@ -67,9 +67,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Rusya bu değişikliği 1774 tarihli Küçük Kaynarca Antlaşması'na dayanarak reddetti; Çar Birinci Nikolay ordusunu Tuna boyuna yığdı.",
+      "iddia": "Bunun üzerine Çar Birinci Nikolay ordusunu Tuna boyuna yığdı.",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -91,13 +91,37 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Britanya ve Fransa savaşı 27 ve 28 Mart 1854'te ilan etti.",
+      "iddia": "Fransa ve Britanya savaşı 27 ve 28 Mart 1854'te ilan etti.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Taylor ise savaşı hiçbir tarafın geri adım atamadığı bir prestij kilidiyle açıklar ve nedeni \"karşılıklı saldırganlık değil karşılıklı korku\" olarak koyar.",
+      "iddia": "Rus birlikleri Temmuz 1853'te Tuna prensliklerini işgal edince Osmanlı Devleti Ekim 1853'te savaş ilan etti; Britanya ile Fransa cepheye ancak beş ay sonra, Sin",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Doğu'da savaş baştan sona Osmanlı ordusuyla yürüdü: Kafkas cephesinde Osmanlı kuvvetleri 1855 Mayısına kadar 120 binden 75 bine indi, kaybın büyük bölümü yine h",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Paris'te Rusya, Kars kalesini ve elinde tuttuğu diğer Osmanlı topraklarını geri verdi; müttefikler de Sivastopol ile Balaklava'yı Rusya'ya iade etti.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı Taylor, Britanya bakımından savaşın \"Türkiye lehine değil, Rusya'ya karşı\" yürütüldüğünü de söyler.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu üç konum da kendi metinlerinden değil, bir ansiklopedi maddesinden aktarılıyor.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -109,9 +133,9 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "Düşmanla hiçbir ciddi temas kurmayan bu harekât Fransızlara yedi binden fazla adama mal oldu; Russell'ın kaydına göre 31 Temmuz sabahı bir tümenin kampı, yaşaya",
+      "iddia": "Russell bu harekâtı savaş tarihinin en sonuçsuz ve acıklı seferlerinden biri sayar; Fransızlara yedi binden fazla adama mal oldu ve 1 Ağustos günü Kostence'ye v",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
@@ -129,13 +153,13 @@
       "anahtar": "k4",
       "iddia": "Chenu'nün 1923 tarihli bir derlemede aktarılan tablosuna göre Fransız ordusu 20.240 ölüyü muharebede, 75.375 ölüyü hastalıkta verdi ve toplam 95.615'e ulaştı; B",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k4",
       "iddia": "Sardinya birlikleri için oran daha da keskindir: 28 muharebe ölüsüne karşılık 2.160 hastalık ölüsü.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k4",
@@ -153,11 +177,11 @@
       "anahtar": "k4",
       "iddia": "Chenu'nün sayımına göre 1854-1855 kışında Britanya ordusunda 47.749 hasta ve yaralıya karşılık 10.889 ölüm görülürken, 1855-1856 kışında 27.384 hasta ve yaralıy",
       "durum": "OK",
-      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "11 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k4",
-      "iddia": "Derleme bu farkı hekimlerin bilgisine bağlamayı açıkça reddeder: Britanyalı hekimlerin Fransız meslektaşlarından daha bilgili ya da becerikli olduğunu düşündüre",
+      "iddia": "Derlemenin kendi açıklaması ikilidir — Britanya ordusu ilk kışın dersiyle ikinci kışa çok daha iyi örgütlenmiş, barınmış ve iaşe edilmiş girdi, ama aynı kışta m",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -181,9 +205,9 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Boğaz'daki hastanelerde hastalar bir dönem yıllık yüzde 235'lik bir hızla ölüyordu ve tedavi edilenlerin neredeyse üçte biri hayatını kaybediyordu.",
+      "iddia": "Britanya ordusunun büyük hastaneleri İstanbul'daydı; Boğaz'ın bu hastanelerinde hastalar bir dönem yıllık yüzde 235'lik bir hızla ölüyordu ve tedavi edilenlerin",
       "durum": "OK",
-      "not": ""
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
@@ -193,15 +217,21 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Aynı rapor kayıtlarında iskorbütün önceden beklendiği, limon suyunun ise geç ulaştığı da yazılıdır.",
+      "iddia": "Aynı rapor, sorunun çoğu kez tedarik değil dağıtım olduğunu gösterir: iskorbüt önceden beklenmişti, limon suyu yükü de aralık 1854'te boşaltılmıştı, ama varlığı",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Nightingale bu çizelgeyi gerçek ölümlülüğün ölçüsü olarak değil, resmî hesap yönteminin ölümlülüğü olduğundan hafif gösterdiğine örnek olarak verir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Hemşire ekibinin Boğaz'a ulaşmasından sonraki aylarda tablo düzelmedi: aynı rapor, Britanya hastanelerinin birkaç ay boyunca hastaların neredeyse üçte birini ka",
+      "iddia": "Aynı rapor, Britanya hastanelerinin birkaç ay boyunca hastaların neredeyse üçte birini kaybettiğini, Kulali'de ise bir ay içinde tedavi edilenlerin yarısından f",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k9",
@@ -258,10 +288,16 @@
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
+      "anahtar": "k1",
+      "iddia": "Savaşın en çok bilinen fotoğrafı ise yine Fenton'ın Ölüm Gölgesi Vadisi'dir; cepheyi belgeleyen öteki ad, portreleriyle James Robertson'dır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
       "anahtar": "k2",
-      "iddia": "Paris Antlaşması'nın on birinci maddesi Karadeniz'i tarafsız ilan eder ve sularını her ulusun ticaret filosuna açık tutarken kıyıdaş olsun olmasın hiçbir gücün ",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Antlaşması, Karadeniz"
+      "iddia": "On üçüncü madde kıyıda deniz tersanesi kurmayı ve sürdürmeyi yasaklar; yasağın muhatabı yalnız yenilen taraf değildir, metin Rus imparatoru ile Osmanlı padişahı",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
@@ -295,9 +331,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Osmanlı Devleti aynı antlaşmayla Avrupa uyumuna kabul edildi ve büyük güçler bağımsızlığına ve toprak bütünlüğüne saygı sözü verdi — savaşın en somut kazanımı b",
+      "iddia": "Söz yirmi bir yıl sonra, Rusya'nın 24 Nisan 1877'de yeniden savaş ilan etmesiyle bozuldu.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

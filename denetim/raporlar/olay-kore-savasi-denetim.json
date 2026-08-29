@@ -1,75 +1,393 @@
 {
   "id": "olay-kore-savasi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:45.962Z",
-  "govde_hash": "963479bec2c9",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T15:47:33.880Z",
+  "govde_hash": "afaf536c6153",
+  "commit": "fdab69c",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "paralel çevresindeki çarpışmaları Ocak-Haziran 1951'e, tıkanıklığı Temmuz 1951-Temmuz 1953'e, ateşkesi Temmuz 1953-Kasım 1954'e ve süregelen bölünmeyi 1954'ten ",
+      "anahtar": "k6",
+      "iddia": "Kore yarımadası, Japon sömürge yönetiminin 1945 Ağustosunda aniden çökmesiyle iki işgal bölgesine ayrıldı; bölen çizgi, Pentagon'da gece boyunca süren bir topla",
       "durum": "OK",
-      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bölümlemenin son maddesinin bir bitiş tarihi taşımaması, savaşın hukuken kapanmadığını gösterir.",
+      "iddia": "Beş yıl sonra, 25 Haziran 1950 sabahı kuzeydeki ordu bu çizgiyi geçti; Güvenlik Konseyi aynı gün toplanıp saldırıyı barışın ihlali saydı ve kuzeyin kuvvetlerini",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Çarpışmalar 27 Temmuz 1953'te Panmunjom'da imzalanan ateşkesle durdu.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ateşkes metni bir barış antlaşması değildir ve kendi yürürlük hükmü, maddelerinin ancak iki tarafın üzerinde anlaştığı değişikliklerle ya da siyasi düzeyde varı",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Ateşkes başlığının kendisinin on altı ay sürmesi de kayda değerdir: ateşkes bir an değil bir süreçtir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Tıkanıklık evresi iki yıl sürer.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak bu dönem için somut bir kuvvet ölçüsü de verir: Kuzey Kore ordusunun mevcudu Ekim 1952'de on sekiz tümen ve altı bağımsız tugayda 266.600 kişiyle zirve y",
+      "anahtar": "k9",
+      "iddia": "İkisi de olmadı: askersizleştirilmiş bölge bugün de iki Kore ordusunun devriyesi altındadır ve güneydeki uluslararası komuta Birleşmiş Milletler Komutanlığı adı",
       "durum": "OK",
       "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Rekabetin ilk evresi çevreleme, Truman Doktrini ve Kore Savaşı başlığıyla 1947-1953 arasına yerleştirilir.",
+      "anahtar": "k6",
+      "iddia": "Japonya'nın beklenmedik teslimiyeti, Amerikan dışişleri ve silahlı kuvvetlerini teslim alma düzenini birkaç gün içinde kararlaştırmaya zorladı; dışişleri, savaş",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Yani savaş, o evrenin adını taşıyan üç unsurdan biridir.",
+      "anahtar": "k6",
+      "iddia": "Belgeyi yazan kişi, bunlardan birinin Pentagon'da gecenin çoğunu aldığını ve kendisiyle bir başka albayın yan odaya çekilip öneri hazırlamakla görevlendirildiği",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "İkisi otuz sekizinci paraleli önerdi — üstelik Sovyet tarafı itiraz ederse bu hattın Amerikan birliklerinin gerçekçi biçimde ulaşabileceğinden daha kuzeyde kala",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Öneri orduya, oradan dışişlerine gitti ve hat uluslararası düzeyde kabul edildi.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Bir bölgesel savaşın, bloklar arası rekabetin dönemlendirmesine adını vermesi, çatışmanın kendisinden çok işaret ettiği düzenin önemsendiğini gösterir; dönem çe",
+      "anahtar": "k6",
+      "iddia": "Belgenin en dikkat çekici yanı, yazarının kendi kaydına düştüğü uyarıdır: anlatı \"based on memory and not on documents\" diye biter.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır.",
+      "anahtar": "k6",
+      "iddia": "Aynı metin şaşkınlığı da kaydeder: öneriyi yapan kişi, Sovyet tarafının daha güneyde bir hat dayatmasını beklediğini, kabulün kendisini bir ölçüde şaşırttığını ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sovyet"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "İdari bir kolaylık olarak düşünülen çizgi, 1948'de iki ayrı devletin sınırı oldu.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Savaşın askerî seyri, hava ve deniz harekâtı, taraf devletlerin siyasi kararları ve ateşkes müzakereleri burada ayrı başlıklar altında ele alınmamıştır; kaynak ",
+      "iddia": "25 Haziran 1950 tarihli karar saldırıyı barışın ihlali sayarken, metnin dipnotu bir üyenin — Sovyetler Birliği'nin — oturumda bulunmadığını kaydeder.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Yokluğun nedenini kararların kendisi söylemez; ansiklopedi künyesi söyler: veto hakkı olan Sovyetler Birliği, Çin'in daimî üyeliğinin Tayvan'daki hükümette kalm",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "7 Temmuz'da alınan üçüncü karar çerçeveyi tamamladı: kuvvet ve yardım gönderen üyelerin bunları Amerika Birleşik Devletleri'nin komutasındaki birleşik bir komut",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Rakamlar da ikiliği doğrular: birleşik komutaya yirmi bir ülke katkı yaptı, ama askerî personelin yaklaşık yüzde 90'ını Amerika sağladı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Seul saldırının dördüncü günü, 28 Haziran'da düştü ve Ağustos başında güney kuvvetleri yarımadanın güneydoğu ucundaki Pusan çemberine sıkışmıştı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Amerikan tarafının 27 Haziran 1950 tarihli bildirisi ise taahhüdün savaşın üçüncü gününde Kore'yi aştığını gösterir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı metinde başkan hava ve deniz kuvvetlerine Güney Kore birliklerini koruma emri verdiğini, Yedinci Filo'yu Formoza'ya saldırıyı önlemek üzere gönderdiğini ve",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Zhou Enlai 30 Eylül 1950'de Amerika'yı, 38. paralel geçilirse Çin'in müdahaleye hazır olduğu konusunda uyardı; hat 1 Ekim'de geçildi, 13 Ekim'de Çin Siyasi Büro",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "30 Kasım 1950'de Amerikan başkanı basın toplantısına bir bildiriyle girdi: Çin komünist liderleri Mançurya'dan asker göndermiş, Kuzey Kore'deki Birleşmiş Millet",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı toplantıda gazetecilerden biri atom bombasının da kullanılıp kullanılmayacağını sordu; başkan, kullanımının her zaman etkin biçimde düşünüldüğünü söyledi, ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k4",
-      "iddia": "Bu dosya abd-kore karsilikli savunma antlasmasi'nin metnine bağlanır.",
+      "anahtar": "k5",
+      "iddia": "Beyaz Saray aynı gün bir açıklama yayımlayarak yasa gereği yalnızca başkanın izin verebileceğini, böyle bir iznin verilmediğini duyurdu.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Saray"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ateşkes metnini imzalayanlardan biri Çin ordusunun komutanı değil, Çin Halk Gönüllüleri'nin komutanı olarak imza atar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin, Halk, Gönüllüleri"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Karşı tarafta da benzer bir boşluk vardır: Amerika savaşı resmen ilan etmedi, başkan onu başlangıçta bir polis eylemi diye tanımladı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Cephe 1951 baharında sonuçsuz kalan Çin taarruzunun ardından kabaca aynı paralelin dolayında durdu; görüşmeler Temmuz 1951'de tam da bu durgunlukta, önce Kaeson",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Pazarlık iki yılı aştı ve kaynağın kaydına göre tarihin en uzun müzakereyle varılmış ateşkesi oldu.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Tıkanma noktası esirlerdi: Çin ve Kuzey Kore saflarında savaşmış esirlerin birçoğu kuzeye dönmeyi reddediyordu; bu, Çin ile Kuzey Kore için kabul edilemezdi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sonunda imzalanan metin iki yolu birden yazdı — dönmekte ısrar eden esirler altmış gün içinde doğrudan teslim edilecek, doğrudan gönderilmeyenler ise Tarafsız D",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tarafsız, Devletler, Geri, Gönderme"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Belgeyi Kore Halk Ordusu'nun başkomutanı, Çin gönüllülerinin komutanı ve Birleşmiş Milletler Komutanlığı başkomutanı imzaladı; Güney Kore devletinin imzası yokt",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Güney Kore cumhurbaşkanı Syngman Rhee imzalamayı reddetmişti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin kendisi de kalıcı bir çözümü sonraya bırakır: imzadan sonraki üç ay içinde daha üst düzeyde bir siyasi konferans toplanmasını, yabancı kuvvetlerin çekilm",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tavsiye tutmadı; ne barış anlaşması yapıldı ne de maddeler karşılıklı anlaşmayla değiştirildi, ateşkes yürürlükte kaldı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Tavsiye tutmadı; ne barış anlaşması yapıldı ne de maddeler karşılıklı anlaşmayla değiştirildi, ateşkes yürürlükte kaldı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Yaygın kullanılan tahminler askerî ölümleri bir milyon dolayında, sivil ölümleri ise 1,5 ile 3 milyon arasında gösterir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "İkinci sayının aralığı birinciden geniştir, çünkü sivil ölümler için sayım altyapısı yoktu: cephe defalarca yer değiştirdi — yalnız Seul bir yıl içinde dört kez",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Amerika'nın Kore'ye attığı bomba toplamı 635 bin ton olarak verilir; kaynağın aktardığı alıntıda napalm bu toplamın dışındadır ve ayrıca 32.557 tondur — aynı kü",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Aynı hesap bu miktarı İkinci Dünya Savaşı'nın bütün Pasifik cephesinde kullanılan 503 bin tonla karşılaştırır ve Kuzey Kore'yi tarihin en yoğun bombalanmış ülke",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Yıkımın kent ölçeğindeki karşılığı da hesaplanmıştır: kuzeydeki yirmi iki büyük kentin on sekizinde yapı stokunun en az yarısının yok edildiği tahmin edilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Sivillere yönelik katliamlar savaşın ilk günlerinden başlayarak her iki tarafça işlendi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Güney Kore'de 2005-2010 arasında çalışan bir hakikat ve uzlaşma komisyonu, savaş dönemine ait toplu öldürme başvurularının yüzde 82'sinin Güney Kore, yüzde 18'i",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Komisyon, savaşın ilk yazında Bodo Birliği infazlarında dört bin dokuz yüz otuz dört kurbanı isimleriyle doğrulayabildi; tarihçilerin tahminleri en az altmış bi",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kuzey tarafında en çok bilinen olay, 28 Haziran 1950'de Seul Üniversitesi Hastanesi'nde binden fazla hastanın ve yaralı askerin öldürülmesidir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "29 Eylül 1999'da bir haber ajansının yayımladığı dosya, 1950 Temmuzunda No Gun Ri yakınlarında Amerikan askerlerinin mültecilere ateş açtığı iddiasını gündeme g",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Raporun kendi ifadesiyle bu dosya, Koreli yurttaşların daha önce resmî soruşturma için yürüttüğü çabayı öne çıkarmıştı; soruşturmayı doğuran etkenler haberden i",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Koreli"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Amerikan tarafının Ocak 2001'de yayımlanan raporu bir milyondan fazla belge taradı, yaklaşık 200 Amerikalı tanıkla görüştü ve yaklaşık 75 Koreli tanığın ifade v",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bulgu iki yönlüdür: rapor, No Gun Ri yakınlarında ne olduğunu kesinlikle belirleyemediğini söyledikten sonra o hafta çevrede bilinmeyen sayıda Korelinin küçük s",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Süvari Alayı'nın 24 Temmuz 1950 tarihli muhabere kütüğünde \"Fire everyone trying to cross the lines\" satırı durur; aynı kaydın hemen ardından gelen cümlesi ise ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Piyade Tümeni'nin 27 Temmuz tarihli komutan yazısı, polis eliyle boşaltıldığı bildirilen bir alanda görülecek bütün sivillerin düşman sayılmasını emreder.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tümeni, Temmuz"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Rapor iki kaydı da kendi çerçevesine oturtur: ilkinin No Gun Ri'deki alaylara iletildiğine kanıt bulunmadığını, ikincisinin sivilleri tehlikeli bölgeden çıkarma",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Sayı ise belirlenememiştir: Güney Kore yetkilileri ilçe idaresinden aldıklarını belirttikleri, doğrulanmamış 248 kişilik bir ölü ve yaralı rakamı bildirdi; Güne",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Koreli tanıkların tahminleri menfezde 60-100 ölü, bombardıman ve alçak uçuştan 50-150 ölü ya da yaralıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Bir okuma savaşı sömürge döneminden ve 1945 sonrası güneydeki iç çatışmalardan gelen bir iç savaşın uluslararasılaşması olarak kurar; bu okumanın başlıca adı, a",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İkinci bir okuma savaşı büyük güçlerin kararlarından türetir ve Kore'yi, iki blokun doğrudan çarpışmayı göze alamadığı bir düzende sınırın nerede olduğunun sına",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Oysa ateşkesi imzalamayı reddeden güneyin cumhurbaşkanı da metni imzalayan Kore Halk Ordusu başkomutanı da kendi hesabıyla davrandı; bedel yarımadanın iki yakas",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Oysa ateşkesi imzalamayı reddeden güneyin cumhurbaşkanı da metni imzalayan Kore Halk Ordusu başkomutanı da kendi hesabıyla davrandı; bedel yarımadanın iki yakas",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Kathryn Weathersby'nin 2021 tarihli makalesinin özeti, İngilizce yazılan Kore çalışmalarının Amerika merkezli çerçevesinin tabloyu çarpıttığını savunur: bölünme",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Üçüncü tartışma sayıların kendisidir: sivil ölüm aralığının milyonlarla verilmesi, No Gun Ri'de ölü sayısının belirlenememesi ve toplu öldürme başvurularının an",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Güney Kore'de savaş çoğunlukla başladığı günü anan 625 Savaşı ya da 625 Kargaşası adıyla anılır; Kuzey Kore'de resmî adı Anavatan Kurtuluş Savaşı'dır.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Çin'de savaşın müdahale sonrası bölümü resmen Amerika'ya karşı koyma ve Kore'ye yardım savaşı adını taşır, öncesi ise Kore iç savaşı sayılır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "İngilizce konuşulan ülkelerde, İkinci Dünya Savaşı ile Vietnam arasında kalıp az ilgi gördüğü için bazen Unutulan Savaş ya da Bilinmeyen Savaş diye anılır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "1953'te imzalanan ateşkes, yerini alacak bir barış anlaşması ya da iki tarafın üzerinde anlaştığı bir değişiklik gelmedikçe geçerliliğini koruyacak biçimde yazı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "1953'te imzalanan ateşkes, yerini alacak bir barış anlaşması ya da iki tarafın üzerinde anlaştığı bir değişiklik gelmedikçe geçerliliğini koruyacak biçimde yazı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kore'de savaşın sonu bir tarih değil, hâlâ açık bir hukuki durumdur; askersizleştirilmiş bölgedeki devriye ve Birleşmiş Milletler Komutanlığı adıyla süren komut",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     }
   ]
 }

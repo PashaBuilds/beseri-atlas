@@ -1,26 +1,18 @@
 # Çürütücü raporu — olay-iran-devrimi-1979
-_2026-08-21T07:39:09.932Z_
+_2026-08-29T15:30:06.438Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 
-**Cümle:** "Muhalefetin çoğul olarak sayılması,[^k1] devrimin tek bir hareketin ürünü olmadığını gösterir."
+**Cümle:** "Rantiye devlet tezinin ölçülebilir tarafı üretim serisindedir. Enerji eşdeğeri olarak İran'ın petrol üretimi 1970'te 2.240 TWh iken 1974'te 3.526 TWh'ye çıkmıştı.[^k8] Devrimin son"
 
-**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
+**Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
 
 **Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
 
 ## İtiraz 2 — [ciddiyet: dusuk] ustunluk-iddiasi
 
-**Cümle:** "Kaynak, 1970-1977 için tek bir başlık, ardından patlak veriş için ayrı bir alt başlık ve 1978 için ayrı bir "önsöz" bölümü kullanır; protestoların başlangıcı bu bölümün alt başlığı"
+**Cümle:** "Kararın sorumluluk akıl yürütmesi, o andaki iç yapıya da ışık tutar. Divan, 4 Kasım günündeki olaylarda militanların davranışının doğrudan İran devletine yüklenemeyeceğini — yeterl"
 
-**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
-
-**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
-
-## İtiraz 3 — [ciddiyet: dusuk] ustunluk-iddiasi
-
-**Cümle:** "On yılın tek başlıkta, tek yılın birden fazla başlıkta toplanması,[^k1] anlatının son evrede hızlandığını gösterir."
-
-**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
+**Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
 
 **Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.

@@ -1,14 +1,58 @@
 ## olay-irlanda-kitligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:56:23.438Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T15:42:57.567Z_
 
-- [ATOMSUZ] k1 → "Bu kıtlığın referans maddesi, bir doğa olayının değil bir yönetim sorununun bölümlemesini taşır: gıda ihracatı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir kıtlık maddesinde gıda ihracatının ayrı bir bölüm olarak yer alması, olayın yalnızca bir üretim düşüşü ola…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Aynı bölümlemede tahliyenin de kendi başlığını taşıması, mülkiyet ilişkilerinin olayın parçası sayıldığını kay…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, hükümetin rolünün çözümlenmesini ayrı bir bölüm olarak ele alır ve bunu çağdaş çözümleme, tarihsel çöz…"
-- [ATOMSUZ] k1 → "Bir olayın referans kaydında hem çağdaş hem tarihsel çözümlemenin ayrı ayrı verilmesi, değerlendirmenin zaman …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Ölü sayısının kendi bölümünü taşıması, bu sayının tartışmalı olduğunun kurumsal işaretidir; bu yöntem haritası…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Olayın gerçekleştiği düzen, dominyonlar, sömürgeler, himayeler, mandalar ve diğer toprakları kapsayan Britanya…" — 1 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyardır."
-- [ATOMSUZ] k1 → "Kıtlığın biyolojik nedeni, yıl yıl seyri, yardım programları ve kıtlık sonrası dönem burada ayrı başlıklar alt…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Bugün Phytophthora infestans adıyla anılan hastalık aynı yıllarda Avrupa'nın patates tarlalarını baştan başa v…"
+- [OK]      k2 → "Sayım komiserleri, olağan doğum ve ölüm oranları sürseydi ve göçle gelen gidenle denkleşseydi 1851'de 9.018.79…"
+- [OK]      k3 → "Avam Kamarası'nın Temmuz 1847'de istediği getirim, adaya giren ve adadan çıkan tahılı, canlı hayvanı, tuzlanmı…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Ölümlerin çoğunu da doğrudan açlık değil, açlığın açtığı kapıdan giren hastalık verdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Adanın kırsalında toprak, on sekizinci yüzyılda yerleşen aracı düzeniyle işletiliyordu: mal sahibi kirayı acen…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kaynağa göre bu düzenlemenin tek istisnası, yapılan iyileştirmenin bedelini kiracıya ödeten Ulster kiracı hakk…"
+- [OK]      k1 → "Parçalar da küçüktü: 1845'te kiracı çiftliklerinin yüzde 24'ü bir ile beş akre, yüzde 40'ı beş ile on beş akre…"
+- [OK]      k1 → "Bağımlılık çeşit düzeyinde de dardı: ekilen patatesin orantısız bir bölümü Irish Lumper çeşidiydi ve bu geneti…"
+- [OK]      k6 → "Kıtlıktan önce de küçük parçaları birleştirip büyük çiftlikler kurma eğilimi vardı; Young Ireland hareketinin …"
+- [ATOMSUZ] k5 → "Aynı kaynak düşük ekimi patatese duyulan temkinle açıklar; tohumluğunu yitirenlere tohumluk patates sağlama pl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kıtlığın en ağır yılı bu yüzden hastalığın en şiddetli olduğu yıl değil, hastalığın çekildiği 1847'dir: tahliy…"
+- [OK]      k6 → "Mitchel'in aynı sayfalardaki tarifi, adanın kıtlık öncesindeki tuhaf konumunu tek cümlede toplar: ona göre İrl…"
+- [ATOMSUZ] k1 → "Lyons'a göre bu yanıt hızlı ve nispeten başarılıydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kasım 1845'te hükûmet Amerika'dan gizlice 100.000 sterlinlik mısır ve mısır unu satın aldı; ilk sevkiyat hava …" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Yardımı yürüten hazine yetkilisi Charles Edward Trevelyan, kendi anlatısında bu adımı aynı rakamla kaydeder."
+- [OK]      k1 → "Haziran 1846'da yerini Whig lideri Lord John Russell aldı."
+- [OK]      k1 → "Yeni hükûmet piyasanın gerekeni sağlayacağı varsayımıyla çalıştı: gıdanın İngiltere'ye akışına karışmadı ve ön…"
+- [OK]      k5 → "Trevelyan'ın kendi cetveline göre çalıştırılan sayı Ocak 1847'de 570.000, Şubat'ta 708.000, Mart'ta 734.000'e …" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Temmuz 1847'de adanın 2.049 seçim bölgesinin 1.826'sı geçici yardım yasası kapsamına alınmıştı ve 3.020.712 ki…"
+- [OK]      k5 → "Trevelyan'ın aynı kitabı bitirirken yazdığı satırlar, yardımı yürüten kişinin olayı nasıl çerçevelediğini kend…"
+- [OK]      k7 → "29 Mart 1847'de Avam Kamarası'nda İrlanda yoksul yardımı tasarısı görüşülürken William Henry Gregory bir ek ma…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k7 → "Gregory, sınırı önce yarım akre olarak düşündüğünü, ada koşullarını bilenlerin bunu fazla geniş bulması üzerin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Maddeye karşı çıkan Curteis sonucun ne olacağını oturumda söyledi: çeyrek akrede patates yetiştiren bir köylü …"
+- [OK]      k7 → "Madde 117'ye karşı 7 oyla kabul edildi; tutanaktaki karşı oy listesi yedi addan ibarettir: Crawford, Scrope, E…"
+- [OK]      k1 → "Donnelly Jr., kıtlık yıllarında kaç kişinin evinden çıkarıldığını kesin olarak bilmenin mümkün olmadığını söyl…"
+- [OK]      k1 → "Donnelly bunu düşük bir sayı sayar: gönüllü görünen terkler de eklenirse 1846-1854 aralığında toplamın yarım m…"
+- [OK]      k1 → "İhracat tartışmasının en sert biçimi Mitchel'e aittir; kaynağın deyişiyle o günden bu yana ünlenmiş cümle onun…"
+- [OK]      k1 → "İhracat tartışmasının en sert biçimi Mitchel'e aittir; kaynağın deyişiyle o günden bu yana ünlenmiş cümle onun…"
+- [OK]      k1 → "Austin Bourke'ün derlediği tahıl cetveline göre İrlanda 1845'te 3.252 bin quarter tahıl ihraç edip 147 bin qua…"
+- [OK]      k4 → "Parlamentonun kendi getirimleri de aynı yöne bakar: yabancı ülkelerden ve sömürgelerden İrlanda'ya gelen tahıl…"
+- [OK]      k3 → "Eylül 1846 ile Temmuz 1847 arasını kapsayan ayrı bir getirimde tek başına mısır ithalatı 1.957.523 quarter ola…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Aynı belgenin altındaki not, tartışmanın neden kapanmadığını açıklar: 1825'ten beri İrlanda ile Britanya arası…"
+- [OK]      k1 → "Daly'nin değerlendirmesine göre kıtlık yıllarında gıda ithalatının ihracatı belirgin biçimde aştığını gösteren…"
+- [OK]      k8 → "Demografik bir yeniden kurmaya göre kıtlık döneminde adayı 1,3 milyon kişi terk etti ve bu kitlenin yolda ölen…"
+- [OK]      k1 → "En ağır yıllarda çıkış tek bir yılda 250.000'e yaklaştı; 1854'e gelindiğinde ülkeyi terk edenlerin toplamı 1,5…"
+- [OK]      k1 → "1847'de Kanada'ya giden 100.000'i aşkın yolcunun beşte birinin hastalık ve yetersiz beslenmeden öldüğü tahmin …"
+- [OK]      k2 → "Devletin bu akışı saymaya başlaması ise geç oldu: sayım komiserleri İrlanda limanlarında göçmen kaydı toplamay…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Sayım komiserleri 1851 raporunda İrlanda'nın doğum, evlilik ve ölüm kaydı için genel bir düzenlemeye hâlâ kavu…"
+- [ATOMSUZ] k1 → "Bu iki sayı ve komiserlerin çekincesi, burada sayımın kendi ölüm ciltlerinden değil, onları aktaran giriş kapı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sonraki tarihçiler cetvellerin gerçekten de eksik saydığında birleşir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Aynı kaynak gerçek sayının yarım milyon ile bir buçuk milyon arasında olmasını bekler ve en yaygın kabul gören…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k8 → "Aynı kaynak gerçek sayının yarım milyon ile bir buçuk milyon arasında olmasını bekler ve en yaygın kabul gören…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k8 → "Boyle ile Cormac Ó Gráda'nın 1986'da Demography dergisinde yayımladığı çalışma, kıtlık sonucu yaklaşık bir mil…"
+- [OK]      k8 → "Aynı çalışma kıtlığın doğurganlığı da düşürdüğünü, 300.000'den fazla doğumun hiç gerçekleşmediğini ve nüfusun …"
+- [OK]      k1 → "Rice ile Francis Boyle'dan, olayın soykırım olduğunu bildiren görüş aldı; kaynak, ikisinin de o güne dek İrlan…"
+- [OK]      k1 → "Karşı kanatta Ó Gráda soykırım iddiasını reddeder ve kastın bulunmadığını vurgular; Donald Akenson daha sert b…"
+- [OK]      k1 → "Robbie Mcveigh, iddianın uzun bir geçmişi olmasına rağmen soykırım çözümlemesinin araçlarının bu vakaya hiç uy…"
+- [OK]      k9 → "McGowan'ın 2017 tarihli değerlendirmesi, gazeteci Tim Pat Coogan'ın soykırım savını tarihsel kanıtın desteklem…"
+- [ATOMSUZ] k1 → "Konuyu çalışan tarihçilerin çoğunluğu soykırım nitelemesini reddeder; soru kamusal tartışmada kapanmamıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Sayım komiserlerinin cetveline göre ada nüfusu 1851'de 6.552.385 iken 1856 başında 6.077.283'e inmişti; limanl…"
+- [ATOMSUZ] k1 → "Adanın nüfusu kıtlık öncesi düzeyine yirmi birinci yüzyıla kadar dönmedi; olayın en uzun süren izi budur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "1997'de Cork'ta düzenlenen anma töreninde Başbakan Tony Blair adına okunan ve Londra'daki yönetimin halkını yü…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Bir mantar hastalığının hikâyesi olarak okunursa 1845'te başlar ve 1852'de biter."
 
-**Özet:** 3 OK · 0 ISARET · 0 HATA · 6 ATOMSUZ
+**Özet:** 42 OK · 0 ISARET · 0 HATA · 11 ATOMSUZ

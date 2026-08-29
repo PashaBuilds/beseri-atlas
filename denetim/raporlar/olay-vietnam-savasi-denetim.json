@@ -1,69 +1,351 @@
 {
   "id": "olay-vietnam-savasi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:54:32.475Z",
-  "govde_hash": "cefe9c99e975",
-  "commit": "cd6a45e",
+  "zaman": "2026-08-29T15:53:15.971Z",
+  "govde_hash": "511619a53bb2",
+  "commit": "9181554",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Bu savaşın sonuçları, kaynağın kendi bölümlemesinde coğrafi olarak ikiye ayrılır: Güneydoğu Asya'daki sonuçlar ve Amerika Birleşik Devletleri'ndeki sonuçlar.",
+      "anahtar": "k2",
+      "iddia": "Ho Chi Minh'in komutasındaki Viet Minh güçleri, dört ay süren bir kuşatmanın ardından 1954'te Dien Bien Phu'daki Fransız garnizonunu düşürdü; Fransa Çinhindi'nd",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Güneydoğu Asya başlığı altında Vietnam, Kamboçya ve Laos, patlamamış mühimmat ve mülteci krizi alt başlıkları yer alır; Amerika Birleşik Devletleri başlığı altı",
-      "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "İki defterin içeriğindeki fark çarpıcıdır: bir tarafta ülke toprakları ve insan hareketi, diğer tarafta bütçe ve kurumsal etki.",
+      "anahtar": "k5",
+      "iddia": "Bu bolluk, savaşın en çok anılan gerekçelerinden birinin yıllar sonra devletin kendi kurumu içinden düzeltilmesini de mümkün kıldı.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Savaşın sona ermesinden sonra da süren bir etkiye ayrı bir alt başlık ayrılması, savaş kavramının zamansal sınırını sorgulatır: mühimmat, ateşkes imzalandığında",
+      "anahtar": "k7",
+      "iddia": "Vietnam tarafında karşılaştırılabilir bir kütük yok; ölü sayısı hâlâ tek bir rakam değil, hangi yöntemle sayıldığına göre değişen bir aralıktır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Aynı gözlem mülteci krizi başlığı için de geçerlidir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, kayıpları ayrı bir bölüm olarak ele alır ve tarafları da ayrı ayrı sıralar.",
+      "anahtar": "k8",
+      "iddia": "Vietnam tarafında karşılaştırılabilir bir kütük yok; ölü sayısı hâlâ tek bir rakam değil, hangi yöntemle sayıldığına göre değişen bir aralıktır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Savaşın içine yerleştiği rekabet, 1947 ile 1991 arasındaki jeopolitik mücadeleyi anlatır ve kırk dört yıl dokuz ay sürmüştür.",
+      "iddia": "Laos 1949'da, Kamboçya 1953'te bağımsızlığını aldı; Vietnam'a 1949 için söz verilen özerklik ise savunmayı ve dış politikayı Fransa'da bırakıyordu.",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ho Chi Minh'in halk desteğini kırmak için eski imparator Bao Dai yeniden öne sürüldü; tarihçi ofisinin anlatımına göre o hiçbir zaman Ho Chi Minh kadar sevilmed",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Kaynak, rekabetin doğrudan çarpışmaya değil üçüncü bölgelerdeki çatışmalara dönüştüğünü kaydeder.",
+      "iddia": "Ho Chi Minh'in başlangıçta Amerikan karşıtı olmadığı da aynı kayıtta duruyor: Versailles Konferansı'nda sömürge halklarına destek çıkılmamasından umudunu kesmiş",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İncelemenin örnek olarak Bernard Fall'u andığı ilk okumaya göre Amerikan politikasını 1950'ye kadar sömürgecilik karşıtlığı yönetti, o tarihte yerini komünizmin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İncelemenin kendi hükmü ikisini de reddeder: hiçbir yorum kayıtla örtüşmez, çünkü Amerika Çinhindi ile her iki okumanın varsaydığından daha az ilgilenmiş ve dah",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı bölüm, Roosevelt'in Çinhindi için önerdiği uluslararası vesayet düzenine Chiang Kai-shek ile Stalin'in destek verdiğini, Churchill'in çekimser kaldığını ka",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Eisenhower, Vietnam'ın durumunu bölgeye devrilen domino taşları benzetmesiyle bağladı; ama Amerika Fransa'yı desteklerken Kuzey Atlantik ittifakı ve Batı Almany",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Birincisi ateşkesti: ülke on yedinci paralel boyunca geçici olarak ikiye ayrılacak, güneyde Fransız kuvvetleri, kuzeyde Ho Chi Minh'in güçleri kalacaktı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bildirinin altıncı maddesi, askerî ayrım çizgisinin geçici olduğunu ve \"hiçbir biçimde siyasi ya da toprak sınırı sayılmaması\" gerektiğini açıkça yazar.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır.",
+      "iddia": "Yedinci madde ülkenin geleceğini takvime bağlar: gizli oyla yapılacak serbest genel seçimler Temmuz 1956'da, uluslararası bir komisyonun gözetiminde yapılacak, ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Amerika bu ikinci anlaşmayı imzalamadı; bunun yerine güneyde kendi hükümetini kurdu ve başına Ngo Dinh Diem'i getirdi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı kayda göre Diem de en az Bao Dai kadar sevilmeyen bir tercihti: bağımsızlık mücadelesini yurt dışında geçirmiş, Japon işgaliyle iş birliği yapmıştı; Batı'n",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bildirinin geri kalanı iki bölgenin hangi koşullarda yaşayacağını düzenler: hiçbir yabancı devletin denetimindeki askerî üs toplanma bölgelerinde kurulamayacak,",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Cenevre'nin bağladığı takvim işlemedi: ne 20 Temmuz 1955'te başlaması öngörülen görüşmelerden ne de Temmuz 1956 seçiminden bir sonuç çıktı; güneyde Amerikan des",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Cenevre'nin bağladığı takvim işlemedi: ne 20 Temmuz 1955'te başlaması öngörülen görüşmelerden ne de Temmuz 1956 seçiminden bir sonuç çıktı; güneyde Amerikan des",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "5 Ağustos 1964'te başkan kongreye seslendi: kuzey rejiminin uluslararası sularda seyreden Amerikan savaş gemilerine yeni ve kasıtlı saldırılar düzenlediğini, bu",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İki gün sonra kabul edilen 1145 sayılı ortak karar, kongrenin başkanın kararlılığını onayladığını ve Amerikan kuvvetlerine yönelik her türlü silahlı saldırıyı p",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Metnin ikinci maddesi yetkiyi Güneydoğu Asya Ortak Savunma Antlaşması'nın üyelerine ve protokol devletlerine kadar genişletir — ama yalnızca yardım isteyen üye ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Üçüncü madde yetkinin sona ermesini başkanın bölgedeki barış ve güvenliğin makul ölçüde sağlandığına karar vermesine bağlar; aynı madde kongreye de ortak kararl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Başkan, bölgeye dair taahhüdün ilk kez 1954'te Eisenhower tarafından verildiğini ve senatonun Şubat 1955'te onayladığı ortak savunma antlaşmasıyla tanımlandığın",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "İstihbaratı toplayan kurumun gizli dergisinde 2001 başında yayımlanan bir inceleme kayıtları yeniden okudu; kurum, bir bilgi edinme başvurusunun ardından 2005 A",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Hanyok'un vardığı sonuç şudur: 2 Ağustos'ta bir Amerikan muhribine yönelik saldırı — kuşkulu koşullarda da olsa — gerçekten olmuştur, ama 4 Ağustos 1964'te ikin",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Hanyok bir örtbasın kesin kanıtını bulamadığını yazar; eldeki verinin o gecenin iddiasına uydurulması yönünde etkin bir çabaya işaret ettiğini söylemekle yetini",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bu, dışarıdan gelen bir suçlama değil, istihbaratı rapor eden kurumun kendi tarihçisinin düzeltmesidir; kaynağa göre tarihçilerin uzun süredir savunduğunu doğru",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Nixon 1969'da göreve başlarken savaşı bir yıl içinde onurlu biçimde bitirebileceğini düşünüyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "İlk aylarda cephedeki baskıyı artırdı ve Kamboçya'daki kuzey üslerinin gizlice bombalanmasını emretti; haziranda Güney Vietnam devlet başkanı Thieu ile görüşere",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Yönetimin son yıllarına kadar açık kalan soru, güneyin kuzeyle tek başına baş edip edemeyeceğiydi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "30 Nisan 1970'te Kamboçya'ya girildi — sınırdan otuz kilometrelik şeritle ve haziran sonuyla sınırlı bir harekât — ve bu karar kampüslerde sert protestolara yol",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı kaynak harekâtın öteki yüzünü de yazar: üslerde büyük miktarda erzak ve silah ele geçirildi, kuzeyin lojistiği aylarca aksadı, çekilme için zaman kazanıldı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "1971 şubatında güney kuvvetlerinin Laos'a düzenlediği Lam Son 719 harekâtını kuzey önceden sezmişti; çekilme dağınık bir kaçışa dönüştü.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "1972 baharındaki kuzey taarruzu, Amerikan hava ve deniz gücünün ve güneyin gelişen savunmasının devreye girmesiyle durduruldu; asıl sonucu, Hanoi yönetimini ilk",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Ekim ayında Kissinger ile Le Duc Tho anlaşmaya vardı, Thieu metni reddetti, aralıkta kuzeye yoğun bir bombardıman uygulandı ve barış anlaşması 27 Ocak 1973'te i",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Anlaşma savaşı bitirmedi: kaynağın kaydına göre Vietnamlı tarafların ikisi de anlaşmaya uymadı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Nixon, Thieu'yu ikna etmek için ihlal hâlinde Amerika'nın çok sert ve hızlı tepki vereceğine dair kişisel güvenceler vermişti; bu taahhütler iç kamuoyunun ve ko",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kuzey, yeniden kurduğu güçle Mart 1975'te Orta Yaylalar'da büyük bir taarruz başlattı; 30 Nisan 1975'te ordusunun tankları Saigon'daki başkanlık sarayının kapıs",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Savunma Bakanlığı'nın kayıp analiz sisteminden çıkarılan ve 2008 Nisan'ı itibarıyla güncel olan Vietnam dosyası 58.220 ölü asker kaydı taşır; bunların 47.434'ü ",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "En eski ölüm tarihi Haziran 1956, en yenisi Mayıs 2006; en ağır yıl 16.899 kayıtla 1968'dir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Arşiv her tablonun altına aynı uyarıyı düşer: sayımlar bilgilendirme içindir, resmî istatistik değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Önceki dosya 58.193 kayıt içeriyordu; yenisi yirmi yedi kayıt fazladır ve ikisi ölüm tarihini bile aynı tanımlamaz — biri ölüm ya da olay tarihini, öteki ölümün",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Dünya Sağlık Anketi'nin kardeş ölümü verisini kullanan 2008 tarihli bir çalışma, 1955-2002 arasında Vietnam'da 3,8 milyon şiddete bağlı savaş ölümü tahmin etti;",
+      "durum": "OK",
+      "not": "7 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Aralık geniştir çünkü anket savaş ölümlerini ölçmek için tasarlanmamıştı: Vietnam tahmini, yakalanan toplam 290 kardeş savaş ölümü üzerine kuruludur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Çalışma çekincesini de yazar — tahmin yalnızca doğrudan şiddet ölümlerini kapsar, savaşa bağlanabilecek bütün fazla ölümleri değil; pasif bildirime dayanan veri",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Savaşın askerî seyri, taraf devletlerin iç siyaseti, kullanılan silahlar ve müzakere süreci burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı ",
+      "iddia": "Savunma bakanı Robert McNamara 17 Haziran 1967'de kurdurduğu görev gücüne İkinci Dünya Savaşı'ndan o güne uzanan Vietnam politikasını inceletti; üç ayda bitmesi",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kamuya açılan basılı metin bu kırk üç cilt değil, kongrenin bastırdığı on iki ciltlik gizlilikten çıkarılmış derlemedir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Beyaz Saray dosyalarına erişimleri yoktu ve aldıkları talimat başlıca aktörlerle görüşme yapmalarını yasaklıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Saray"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gelb ayrıca karar vericilerin zihnine giremediklerini, kararların alındığı odalarda bulunmadıklarını ve çoğu zaman bir şeyin biri öyle karar verdiği için mi yok",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kısıt yalnızca ekibin niyetinde değil, elindeki kâğıtlardaydı: Gelb 1945-1961 belgelerinin çoğunun kaybolduğunu ya da hiç tutulmadığını, 1961 sonrasının ise bol",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "§ 1116, 9 Ocak 1962 ile 7 Mayıs 1975 arasında Vietnam'da görev yapmış herkesin dioksin ya da 2,4-D içeren bir herbisite maruz kaldığını varsayar; bu bir karined",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kanun hizmete bağlı sayılacak on üç hastalığı tek tek sıralar: Hodgkin dışı lenfoma, yumuşak doku sarkomları, klorakne, Hodgkin hastalığı, porfiria kutanea tard",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Liste zamanla uzadı: 1991 tarihli Agent Orange Kanunu yeni eklemeleri bilimler akademisinin raporlarına bağladı, 2022 tarihli bir düzenleme ise bu kararların na",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kanun, kapsam içindeki hizmeti yalnızca Vietnam'la sınırlamaz: Tayland'daki Amerikan ya da Kraliyet Tay üslerinde 1976 haziranına kadar, Laos'ta 1965 aralığında",
+      "durum": "OK",
+      "not": "8 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kanunun \"herbisit\" tanımı savaşı 1962-1975 arasına ve Vietnam'a kilitler, ama az önceki listenin gösterdiği gibi aynı kanunun kapsadığı hizmet 1980'e kadar uzan",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Cenevre'nin ertelediği seçim takvimine bakan bir okuma ise savaşı 1956'ya, Fransız sömürge savaşına bakan bir okuma daha geriye taşır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     }
   ]
 }

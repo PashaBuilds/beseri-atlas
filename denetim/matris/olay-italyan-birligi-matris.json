@@ -1,9 +1,9 @@
 {
   "id": "olay-italyan-birligi",
-  "govde_hash": null,
-  "commit": null,
+  "govde_hash": "edfca018f005",
+  "commit": "fdab69c",
   "zaman": "2026-08-29",
-  "hakem": "TASLAK-yazar",
+  "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
     {
       "iddia_id": "i001",
@@ -13,11 +13,11 @@
       "kaynaklar": [
         {
           "anahtar": "k9",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
-      "guven": "yuksek",
-      "inceleme": "Uc proje de kaynagin \"Three ideals of unification appeared\" pasajinda adiyla sayilir"
+      "guven": "orta",
+      "inceleme": "Kaynagin 'Three ideals of unification appeared' pasajinda uc ideal soyle sayilir: Gioberti'nin papalik konfederasyonu, Mazzini-Cattaneo'nun federal cumhuriyeti ve Balbo'nun Piemonte onderligindeki devletler birligi. Bu dosyanin ikinci ve ucuncu projesi (cumhuriyetci ayaklanma; Savoy onderliginde ilhak zinciri) kaynagin tasnifiyle birebir ortusmez; ikisi de kaynagin anlatisinda olgu olarak vardir ama 'uc ideal' listesi bu degildir. Bu yuzden kismi; sadelestirme govdede i007'de acikca beyan edilir."
     },
     {
       "iddia_id": "i002",
@@ -76,6 +76,20 @@
       "inceleme": "Metinde: papa yeni bir yetki almaz, \"un diritto antico, interrotto bensi, ma non annullato\""
     },
     {
+      "iddia_id": "i050",
+      "cumle": "Böyle bir birlik, Gioberti'nin sıraladığına göre, prenslerin gücünü artıracak ama bağımsızlıklarına dokunmayacak, iç savaşların ve devrimlerin nedenlerini ortadan kaldıracak, yabancı istilalara da aşılmaz bir engel koyacaktı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metinde: 'accrescerebbe la forza e la potenza dei vari principi, senza nuocere alla indipendenza loro'; 'Rimoverebbe le cagioni delle discordie, delle guerre, delle rivoluzioni interne, e metterebbe un ostacolo insuperabile alle invasioni forestiere'. Onceki kaynaksiz yorum cumlesinin yerini aldi."
+    },
+    {
       "iddia_id": "i006",
       "cumle": "Öneriye Pius IX önce ilgi duyar göründü; ama papa kısa sürede tersine döndü ve liberalizmle milliyetçiliğe karşı cephe aldı.",
       "onem": "destek",
@@ -91,8 +105,8 @@
     },
     {
       "iddia_id": "i007",
-      "cumle": "Aynı yıllarda Giuseppe Mazzini ile Carlo Cattaneo federal bir cumhuriyet, Cesare Balbo ise Piemonte önderliğinde bir devletler birliği öneriyordu.",
-      "onem": "destek",
+      "cumle": "Aynı yıllarda Giuseppe Mazzini ile Carlo Cattaneo federal bir cumhuriyet, Cesare Balbo ise Piemonte önderliğinde bir devletler birliği öneriyordu; kaynağın kendi üçlü tasnifinde orta konum, cumhuriyetçi ayaklanmanın değil Balbo'nun konumudur.",
+      "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
         {
@@ -101,7 +115,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Mazzini-Cattaneo federal cumhuriyeti ve Balbo'nun ara konumu kaynakta adiyla verilir"
+      "inceleme": "Mazzini-Cattaneo federal cumhuriyeti ve Balbo'nun orta konumu kaynakta adiyla verilir; cumlenin ikinci yarisi i001'deki sadelestirmeyi okura beyan eder."
     },
     {
       "iddia_id": "i008",
@@ -199,7 +213,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Kaynak iki tarafin da Plombieres'de kararlastirilani astigini acikca yazar"
+      "inceleme": "Kaynak iki tarafi 'mutually indebted' sayar ve YALNIZ Cavour icin 'going beyond what was agreed with the Plombieres Agreement' der; Napolyon III'un kusuru Venedik alinmadan savastan cekilmesidir. Govde cumlesi iki fiili ayri ayri dogru veriyor, ama 'anlasmanin disina cikma' cercevesi yazarindir."
     },
     {
       "iddia_id": "i015",
@@ -214,6 +228,20 @@
       ],
       "guven": "yuksek",
       "inceleme": ""
+    },
+    {
+      "iddia_id": "i051",
+      "cumle": "1860 baharında Garibaldi, I Mille denen bin kadar gönüllüyle 6 Mayıs'ta Cenova yakınındaki Quarto'dan yola çıktı ve Sicilya'nın batı kıyısında Marsala yakınına asker çıkardı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta: 'On 6 May 1860, Garibaldi and his cadre of about a thousand Italian volunteers (called I Mille), steamed from Quarto near Genoa... landed near Marsala on the west coast of Sicily'. Sayi kaynagin kendi hedgi ile ('about a thousand') verildi, yuvarlanmadi."
     },
     {
       "iddia_id": "i016",
@@ -258,6 +286,20 @@
       "inceleme": "Metinde \"annessione intempestiva\", \"cavouriani agenti\" ve Caiazzo yenilgisi baglantisi dogrudan gecer"
     },
     {
+      "iddia_id": "i055",
+      "cumle": "Çağrının nereden yükseldiğini de söyler: Garibaldi'ye göre zengin Napoli'nin önünde eli boş beklemeye tahammülsüz Savoy yanlıları \"ilhak\" diye bağırmaya başlamıştı ve ilhak, seferin durdurulması demekti; kendisi Palermo'da halkı ilhak vaktinin gelmediğine, işin Roma'ya kadar sürdürülmesi gerektiğine ikna ettiğini yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metinde: \"Spinte le cose dalle impazienze monarchiche, insofferenti di stare a bocca asciutta davanti alla splendida preda, quale e la ricca Partenope, i sabaudi si misero a vociferare annessione\"; ilhak seferin durdurulmasi demektir (\"in conseguenza cessazione della brillante campagna da parte nostra\"); ve Palermo: \"non esser giunto il tempo di parlare d'annessione, ma bensi di proseguir l'opera di unificazione nazionale, anche sino alla citta eterna\". Bu pasaj kaynagin 400k sinirinin otesindedir; tam metin (510k) uzerinden dogrulandi."
+    },
+    {
       "iddia_id": "i019",
       "cumle": "Ekim ayında Vittorio Emanuele ordusuyla güneye indi; Garibaldi Teano'da onu İtalya kralı diye selamladı, diktatörlük yetkisini devretti ve Caprera'ya çekildi.",
       "onem": "destek",
@@ -269,7 +311,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kaynak: kral Sessa Aurunca'ya ordusunun basinda girdiginde Garibaldi diktatorluk yetkisini kendi istegiyle devretti; Teano'daki selamlama ayri anilir. Govde cumlesi ikisini tek yerde birlestiriyor — yer bakimindan sikistirma, olay sirasi dogru."
     },
     {
       "iddia_id": "i020",
@@ -437,7 +479,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Tablo basligi (\"numero degli elettori a cento abitanti\") ve 1861 satirindaki 1.92 degeri taramada okunur; tablonun geri kalani OCR hasarlidir"
+      "inceleme": "Tablo basligi ('numero degli elettori a cento abitanti', 'senza distinzione di sesso') ve 1861 satirindaki 1.92 degeri taramada okunur (elettori 418,696 / nufus 21,777,334). Oran TOPLAM nufusa gore verilir, yetiskin erkege gore degil; tablonun geri kalani OCR hasarlidir, bu yuzden kismi."
     },
     {
       "iddia_id": "i032",
@@ -482,6 +524,20 @@
       "inceleme": "Manzoni cumlesi kaynakta dogrudan; \"uretilmesi tasarlanan bir sey\" ayni cumlenin yeniden ifadesidir"
     },
     {
+      "iddia_id": "i052",
+      "cumle": "İstatistik yıllığına göre 1861 sayımı, 22 milyonluk nüfusta her yaştan 17 milyon okuma yazma bilmeyen buldu — tam sayı 16.999.701, yaş ve cinsiyet ayrımı gözetmeyen oran yüzde 78 — ve yıllık, bu rakamın ilk açıklandığında inanılmaz bulunduğunu, sayıya emzikteki bebeklerin de katıldığı itirazının yapıldığını da kaydeder.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yillikta: 'Il censimento del 31 dicembre 1861 trovava 17 milioni di analfabeti sopra 22 milioni di abitanti, d'ogni eta'; dipnot 'Precisamente 16,999,701 analfabeti'; 'il rapporto degli analfabeti alla popolazione complessiva, senza distinzione di eta, ne di sesso, era alla fine del 1861 di 78 per cento'; ve itiraz: 'in codesti diciassette milioni di analfabeti voi comprendete anche i bambini lattanti'. Kaynagin ana metnindeki 21,777,33x nufus tabanininin son hanesi OCR'da bozuktur, bu yuzden govdede yuvarlanmis 22 milyon kullanildi."
+    },
+    {
       "iddia_id": "i035",
       "cumle": "Temsilciler Meclisi, üyelerinden bir bölümünü en çok etkilenen yerlere gönderip eşkıyalığın nedenlerini, o günkü durumunu ve onu yok etmenin en uygun araçlarını incelemekle görevlendirdi.",
       "onem": "merkezi",
@@ -497,7 +553,7 @@
     },
     {
       "iddia_id": "i036",
-      "cumle": "Komisyon işe Torino'da bakanlıklardan gelen belgeleri inceleyerek başladı, sonra Napoli'ye geçti; Molise, Bari ve Lecce'yi dolaşıp Potenza'da toplandı, ardından Roma sınırına giderek eşkıyalıkla papalık sarayı, Bourbon çevresi ve Fransız garnizonu arasındaki ilişkileri yerinde inceledi.",
+      "cumle": "Komisyon işe Torino'da bakanlıklardan gelen belgeleri inceleyerek başladı, sonra Napoli'ye geçti; Avellino ile Foggia'da ikiye ayrılıp Molise, Bari ve Lecce'yi dolaştı, Potenza'da toplandı ve Salerno üzerinden Napoli'ye döndü; ardından Roma sınırına giderek eşkıyalıkla papalık sarayı, Bourbon çevresi ve Fransız garnizonu arasındaki ilişkileri yerinde inceledi.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -507,7 +563,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Guzergah raporun giris bolumunde sirasiyla verilir"
+      "inceleme": "Guzergah raporun giris bolumunde sirasiyla verilir: Torino (bakanlik belgeleri) - Napoli - Avellino ve Foggia'da iki alt komisyona ayrilma - Molise, Bari, Lecce - Potenza'da birlesme - Salernitano uzerinden Napoli - Roma sinirlari. LISTE KIRPMASI denetimi: onceki hali Avellino, Foggia ve Salerno'yu dusuruyordu; kaynagin listesi tamamlandi."
     },
     {
       "iddia_id": "i037",
@@ -539,7 +595,7 @@
     },
     {
       "iddia_id": "i039",
-      "cumle": "Komisyon bunun yerine iç içe geçmiş etkenleri sayar: topraksız tarım işçisinin yoksulluğu ve toprağa hiçbir bağının bulunmaması — ortakçılığın yürürlükte olduğu yerlerde kır proletaryasının seyrek kaldığını da not eder — ile 1860 yazında hazırlanan Bourbon karşı hareketi; Francesco II Napoli'yi terk etmeden önce hapishane kapılarını açan bir kararname çıkarmıştı.",
+      "cumle": "Birincisi, topraksız tarım işçisinin yoksulluğu ve toprağa hiçbir bağının bulunmamasıdır — ortakçılığın (mezzeria) yürürlükte olduğu yerlerde kır proletaryasının seyrek kaldığını da not eder.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -549,7 +605,35 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Mezzeria karsilastirmasi ve Francesco II'nin hapishane kararnamesi raporda ayri ayri gecer"
+      "inceleme": "Raporda: 'Il contadino non ha nessun vincolo che lo stringa alla terra'; 'Dove il sistema delle mezzerie e in vigore, il numero dei proletari di campagna e scarso'. Onceki tek cumlelik hal raporun uc etkenli yapisindan ikisini veriyordu; ucu de ayri cumlelere acildi."
+    },
+    {
+      "iddia_id": "i053",
+      "cumle": "İkincisi Bourbon düzenidir: rapora göre yalnız sefalet Napoli illerinde bu kadar yıkıcı olmazdı, ona hanedanın bıraktığı üç kötülük eşlik ediyordu — özenle korunmuş cehalet, yayılmış boş inanç ve her şeyden önce yasalara ve adalete duyulan güvenin tümden yokluğu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Raporda: 'La sola miseria non sortirebbe forse effetti cotanto perniciosi se non fosse congiunta ad altri mali che la infausta signoria dei Borboni creo ed ha lasciati nelle provincie napolitane. Questi mali sono l'ignoranza gelosamente conservata ed ampliata, la superstizione diffusa ed accreditata, e segnatamente la mancanza assoluta di fede nelle leggi e nella giustizia.' LISTE KIRPMASI denetiminde eklendi: raporun uc nedeninden bu ikincisi govdede hic yoktu."
+    },
+    {
+      "iddia_id": "i054",
+      "cumle": "Üçüncüsü, 1860 yazında hazırlanan Bourbon karşı hareketidir; Francesco II Napoli'yi terk etmeden önce hapishane kapılarını açan bir kararname çıkarmıştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Raporda: 'Nei mesi di luglio e di agosto 1860... venivano apparecchiate in segreto le fila della reazione' ve 'Prima di abbandonare Napoli, Francesco II emanava un decreto che apriva a molti immediatamente, ad altri in poco volger di tempo, le porte delle prigioni.'"
     },
     {
       "iddia_id": "i040",
@@ -581,7 +665,7 @@
     },
     {
       "iddia_id": "i042",
-      "cumle": "Simonetta Soldani ile Gabriele Turi'nin 1993'te yayımladığı derlemeden bu yana sözün uydurma olduğu kabul edilir hâle gelmişti; Claudio Gigante'ye göre sözü d'Azeglio'ya bağlayan Ferdinando Martini'dir ve bunu 1896'da, devlet adamının ölümünden otuz yıl sonra, dönemin Ricordi basımındaki sahte bir pasaja dayanarak yapmıştır.",
+      "cumle": "Simonetta Soldani ile Gabriele Turi'nin 1993'te yayımladığı derlemeden bu yana sözün uydurma olduğu kabul edilir hâle gelmişti; Claudio Gigante'ye göre sözü d'Azeglio'ya bağlayan Ferdinando Martini'dir ve bunu 1896'da, devlet adamının ölümünden otuz yıl sonra, dönemin *Ricordi* basımındaki sahte bir pasaja dayanarak yapmıştır.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -591,7 +675,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Iddia makalenin ozetinden okunur; tam metin bu ucnoktadan gelmedigi icin kismi"
+      "inceleme": "Iddia makalenin ozetinden okunur; tam metin bu ucnoktadan gelmedigi icin kismi Getirilen Semantic Scholar kaydinin ozeti bu ifadeyi birebir tasir; kismi kalmasinin nedeni makalenin gerekcelendirmesinin (tam metin) bu ucnoktadan gelmemesidir."
     },
     {
       "iddia_id": "i043",
@@ -605,7 +689,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Ayni ozetten: De Sanctis dersleri, Capri 1878 ve d'Azeglio metinlerindeki benzer ifade"
+      "inceleme": "Ayni ozetten: De Sanctis dersleri, Capri 1878 ve d'Azeglio metinlerindeki benzer ifade Getirilen Semantic Scholar kaydinin ozeti bu ifadeyi birebir tasir; kismi kalmasinin nedeni makalenin gerekcelendirmesinin (tam metin) bu ucnoktadan gelmemesidir."
     },
     {
       "iddia_id": "i044",
@@ -619,7 +703,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Gigante'nin sonucu ozette yer alir; gerekcelendirme tam metinde olup burada okunmamistir"
+      "inceleme": "Gigante'nin sonucu ozette yer alir; gerekcelendirme tam metinde olup burada okunmamistir Getirilen Semantic Scholar kaydinin ozeti bu ifadeyi birebir tasir; kismi kalmasinin nedeni makalenin gerekcelendirmesinin (tam metin) bu ucnoktadan gelmemesidir."
     },
     {
       "iddia_id": "i045",
@@ -698,11 +782,39 @@
       ],
       "guven": "yuksek",
       "inceleme": "Uc bilesenin her biri kendi birincil kunyesinde dogrudan gecer; birlestiren cikarim yazarindir"
+    },
+    {
+      "iddia_id": "i056",
+      "cumle": "İlhakın nasıl onaylandığı ise buradaki kaynaklarda tek bir yan cümleyle görünür: komisyonun incelediği yargı dosyaları arasında, halk oylaması sırasında bir kasabada patlak veren karşı hareketin davası vardır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Raporda tek satir: \"In occasione del plebiscito ebbe luogo una reazione in Ca-ramanico\" (Camillo Colafella davasi basligi altinda). Kaynak plebisitin YAPILDIGINI ve o sirada bir yerde karsi hareket oldugunu tasir; tarihini, katilimini, oy oranlarini ve oylamanin niteligini TASIMAZ ve govde de vermez. Kunye setinin tamami (k4, k5, k7, k9 dahil) tam metin uzerinden tarandi: Guney'in ekim 1860 plebisitleri k9'da hic gecmiyor, k7'nin 1,67M karakterlik tam metninde \"plebiscito\" sifir kez geciyor. Bu yuzden kismi. Ayrica destekleyen satir getir.mjs'in 400k kesme sinirinin otesindedir (tam metinde 510k icinde), yani mekanik denetleyici bu cumleyi olcemez — ATOMSUZ gorunmesinin nedeni budur."
+    },
+    {
+      "iddia_id": "i057",
+      "cumle": "Kayda geçen şu kadarı: oylamayla onaylandığı bildirilen bölgede, 1863'te yargı yetkisi askeri mahkemelere devredilmek isteniyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Raporun onerisi (\"la giurisdizione sui reati di brigantaggio va deferita ai tribunali militari\") ve raporun kendi tarihi (Napoli 1863; tablolar 1863 ilk ceyregine kadar) birlestirilir. \"onaylandigi bildirilen\" ifadesi bilerek secildi: kaynak onayin kendisini degil, plebisitin varligini tasir (bkz. i056)."
     }
   ],
   "sayaclar": {
-    "dogrudan": 41,
-    "kismi": 8,
+    "dogrudan": 47,
+    "kismi": 10,
     "desteksiz": 0,
     "olculemez": 0
   }

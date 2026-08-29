@@ -1,7 +1,7 @@
 {
   "id": "olay-berlin-duvarinin-yikilisi",
-  "govde_hash": "45141d6edc07",
-  "commit": "7a16c22",
+  "govde_hash": "b7aaaa5f6db8",
+  "commit": "9181554",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -225,7 +225,7 @@
     },
     {
       "iddia_id": "i016",
-      "cumle": "O saatlerde Invalidenstrasse geçidinde insanlar hâlâ vize ve zorunlu döviz bozdurma kuralına tabiydi ve sıraya girip adlarının okunmasını bekliyorlardı; Batı'dan gelen kalabalık ise gece bir civarında ters yönde akmaya başladı.",
+      "cumle": "O saatlerde Invalidenstraße geçidinde insanlar hâlâ vize ve zorunlu döviz bozdurma kuralına tabiydi ve sıraya girip adlarının okunmasını bekliyorlardı; Batı'dan gelen kalabalık ise gece bir civarında ters yönde akmaya başladı.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -387,7 +387,7 @@
     },
     {
       "iddia_id": "i027",
-      "cumle": "Honecker'in eylül sonunda imzaladığı gizli emir yürürlükteydi ve beklenen kargaşanın baştan önlenmesini buyuruyordu; buna ek olarak o güne özel bir ateş emrinin verilip verilmediği, tanığın kendi ifadesiyle hâlâ açıklığa kavuşmamıştır.",
+      "cumle": "Honecker'in eylül sonunda imzaladığı gizli emir yürürlükteydi ve beklenen kargaşanın baştan önlenmesini buyuruyordu; o güne özel bir ateş emrinin verilip verilmediği ise tanığın kendi ifadesiyle hâlâ açıklığa kavuşmamıştır.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -401,7 +401,7 @@
     },
     {
       "iddia_id": "i028",
-      "cumle": "Silah kullanılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler 18.25 sularında geri çekildi.",
+      "cumle": "Tek kurşun atılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler 18.25 sularında geri çekildi.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -415,7 +415,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "\"Tek kursun atilmadi\" ifadesi kaynakta yok; k4 \"forced the ultimate retreat of the armed units at around 6:25pm\" der ve gunun siddetsiz gectigini yazar. Cumle kaynagin verdigi saate ve ifadeye cekildi."
+      "inceleme": "\"Tek kursun atilmadi\" k7'de birebir (\"in which not a single shot was fired\"); geri cekilme saati (around 6:25pm) ve yetmis bin k4'te."
     },
     {
       "iddia_id": "i029",
@@ -878,12 +878,32 @@
       ],
       "guven": "yuksek",
       "inceleme": "Kor hakem eklemesi: k2 \"ringen hier nicht vielmehr zwei entgegengesetzte, aber gleichermassen mythisierende Bemaechtigungsversuche miteinander?\" diye sorar ve hemen ardindan kitle gosterilerinin itki gucunu vurgular. Onarim metni yalniz hak savunucularinin itirazini veriyor, kaynagin simetrik hukmunu dusuruyordu."
+    },
+    {
+      "iddia_id": "i060",
+      "cumle": "Kaynaklar bu noktada ayrışır: ansiklopedi derlemesi, polis ve ordu birimlerine toplananlara karşı güç kullanma izninin verildiğini yazar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "CELISKI GORUNUR KILINDI: k7 \"the police and army units were given permission to use force against those assembled\" der; k4 ise ates emrinin varligini acik birakir. Iki kaynak ayni noktada ayni seyi soylemiyor, metinde taraf tutulmadan ikisi de veriliyor."
     }
   ],
   "sayaclar": {
-    "dogrudan": 55,
+    "dogrudan": 56,
     "kismi": 4,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

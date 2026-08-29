@@ -1,15 +1,62 @@
 ## olay-vietnam-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:54:32.475Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T15:53:15.971Z_
 
-- [OK]      k1 → "Bu savaşın sonuçları, kaynağın kendi bölümlemesinde coğrafi olarak ikiye ayrılır: Güneydoğu Asya'daki sonuçlar…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k1 → "Güneydoğu Asya başlığı altında Vietnam, Kamboçya ve Laos, patlamamış mühimmat ve mülteci krizi alt başlıkları …" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "İki defterin içeriğindeki fark çarpıcıdır: bir tarafta ülke toprakları ve insan hareketi, diğer tarafta bütçe …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Savaşın sona ermesinden sonra da süren bir etkiye ayrı bir alt başlık ayrılması, savaş kavramının zamansal sın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Aynı gözlem mülteci krizi başlığı için de geçerlidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, kayıpları ayrı bir bölüm olarak ele alır ve tarafları da ayrı ayrı sıralar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Savaşın içine yerleştiği rekabet, 1947 ile 1991 arasındaki jeopolitik mücadeleyi anlatır ve kırk dört yıl doku…"
-- [ATOMSUZ] k2 → "Kaynak, rekabetin doğrudan çarpışmaya değil üçüncü bölgelerdeki çatışmalara dönüştüğünü kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır."
-- [ATOMSUZ] k1 → "Savaşın askerî seyri, taraf devletlerin iç siyaseti, kullanılan silahlar ve müzakere süreci burada ayrı başlık…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Ho Chi Minh'in komutasındaki Viet Minh güçleri, dört ay süren bir kuşatmanın ardından 1954'te Dien Bien Phu'da…"
+- [ATOMSUZ] k5 → "Bu bolluk, savaşın en çok anılan gerekçelerinden birinin yıllar sonra devletin kendi kurumu içinden düzeltilme…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Vietnam tarafında karşılaştırılabilir bir kütük yok; ölü sayısı hâlâ tek bir rakam değil, hangi yöntemle sayıl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k8 → "Vietnam tarafında karşılaştırılabilir bir kütük yok; ölü sayısı hâlâ tek bir rakam değil, hangi yöntemle sayıl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Laos 1949'da, Kamboçya 1953'te bağımsızlığını aldı; Vietnam'a 1949 için söz verilen özerklik ise savunmayı ve …" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Ho Chi Minh'in halk desteğini kırmak için eski imparator Bao Dai yeniden öne sürüldü; tarihçi ofisinin anlatım…"
+- [OK]      k2 → "Ho Chi Minh'in başlangıçta Amerikan karşıtı olmadığı da aynı kayıtta duruyor: Versailles Konferansı'nda sömürg…"
+- [OK]      k1 → "İncelemenin örnek olarak Bernard Fall'u andığı ilk okumaya göre Amerikan politikasını 1950'ye kadar sömürgecil…"
+- [OK]      k1 → "İncelemenin kendi hükmü ikisini de reddeder: hiçbir yorum kayıtla örtüşmez, çünkü Amerika Çinhindi ile her iki…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Aynı bölüm, Roosevelt'in Çinhindi için önerdiği uluslararası vesayet düzenine Chiang Kai-shek ile Stalin'in de…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Eisenhower, Vietnam'ın durumunu bölgeye devrilen domino taşları benzetmesiyle bağladı; ama Amerika Fransa'yı d…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Birincisi ateşkesti: ülke on yedinci paralel boyunca geçici olarak ikiye ayrılacak, güneyde Fransız kuvvetleri…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k3 → "Bildirinin altıncı maddesi, askerî ayrım çizgisinin geçici olduğunu ve "hiçbir biçimde siyasi ya da toprak sın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Yedinci madde ülkenin geleceğini takvime bağlar: gizli oyla yapılacak serbest genel seçimler Temmuz 1956'da, u…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Amerika bu ikinci anlaşmayı imzalamadı; bunun yerine güneyde kendi hükümetini kurdu ve başına Ngo Dinh Diem'i …"
+- [OK]      k2 → "Aynı kayda göre Diem de en az Bao Dai kadar sevilmeyen bir tercihti: bağımsızlık mücadelesini yurt dışında geç…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k3 → "Bildirinin geri kalanı iki bölgenin hangi koşullarda yaşayacağını düzenler: hiçbir yabancı devletin denetimind…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Cenevre'nin bağladığı takvim işlemedi: ne 20 Temmuz 1955'te başlaması öngörülen görüşmelerden ne de Temmuz 195…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Cenevre'nin bağladığı takvim işlemedi: ne 20 Temmuz 1955'te başlaması öngörülen görüşmelerden ne de Temmuz 195…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "5 Ağustos 1964'te başkan kongreye seslendi: kuzey rejiminin uluslararası sularda seyreden Amerikan savaş gemil…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "İki gün sonra kabul edilen 1145 sayılı ortak karar, kongrenin başkanın kararlılığını onayladığını ve Amerikan …"
+- [OK]      k4 → "Metnin ikinci maddesi yetkiyi Güneydoğu Asya Ortak Savunma Antlaşması'nın üyelerine ve protokol devletlerine k…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k4 → "Üçüncü madde yetkinin sona ermesini başkanın bölgedeki barış ve güvenliğin makul ölçüde sağlandığına karar ver…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Başkan, bölgeye dair taahhüdün ilk kez 1954'te Eisenhower tarafından verildiğini ve senatonun Şubat 1955'te on…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "İstihbaratı toplayan kurumun gizli dergisinde 2001 başında yayımlanan bir inceleme kayıtları yeniden okudu; ku…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Hanyok'un vardığı sonuç şudur: 2 Ağustos'ta bir Amerikan muhribine yönelik saldırı — kuşkulu koşullarda da ols…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k5 → "Hanyok bir örtbasın kesin kanıtını bulamadığını yazar; eldeki verinin o gecenin iddiasına uydurulması yönünde …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Bu, dışarıdan gelen bir suçlama değil, istihbaratı rapor eden kurumun kendi tarihçisinin düzeltmesidir; kaynağ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Nixon 1969'da göreve başlarken savaşı bir yıl içinde onurlu biçimde bitirebileceğini düşünüyordu."
+- [OK]      k6 → "İlk aylarda cephedeki baskıyı artırdı ve Kamboçya'daki kuzey üslerinin gizlice bombalanmasını emretti; haziran…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k6 → "Yönetimin son yıllarına kadar açık kalan soru, güneyin kuzeyle tek başına baş edip edemeyeceğiydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "30 Nisan 1970'te Kamboçya'ya girildi — sınırdan otuz kilometrelik şeritle ve haziran sonuyla sınırlı bir harek…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k6 → "Aynı kaynak harekâtın öteki yüzünü de yazar: üslerde büyük miktarda erzak ve silah ele geçirildi, kuzeyin loji…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "1971 şubatında güney kuvvetlerinin Laos'a düzenlediği Lam Son 719 harekâtını kuzey önceden sezmişti; çekilme d…"
+- [OK]      k6 → "1972 baharındaki kuzey taarruzu, Amerikan hava ve deniz gücünün ve güneyin gelişen savunmasının devreye girmes…"
+- [OK]      k6 → "Ekim ayında Kissinger ile Le Duc Tho anlaşmaya vardı, Thieu metni reddetti, aralıkta kuzeye yoğun bir bombardı…"
+- [OK]      k6 → "Anlaşma savaşı bitirmedi: kaynağın kaydına göre Vietnamlı tarafların ikisi de anlaşmaya uymadı."
+- [OK]      k6 → "Nixon, Thieu'yu ikna etmek için ihlal hâlinde Amerika'nın çok sert ve hızlı tepki vereceğine dair kişisel güve…"
+- [OK]      k6 → "Kuzey, yeniden kurduğu güçle Mart 1975'te Orta Yaylalar'da büyük bir taarruz başlattı; 30 Nisan 1975'te ordusu…" — 2 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k7 → "Savunma Bakanlığı'nın kayıp analiz sisteminden çıkarılan ve 2008 Nisan'ı itibarıyla güncel olan Vietnam dosyas…" — 5 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k7 → "En eski ölüm tarihi Haziran 1956, en yenisi Mayıs 2006; en ağır yıl 16.899 kayıtla 1968'dir." — 3 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k7 → "Arşiv her tablonun altına aynı uyarıyı düşer: sayımlar bilgilendirme içindir, resmî istatistik değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Önceki dosya 58.193 kayıt içeriyordu; yenisi yirmi yedi kayıt fazladır ve ikisi ölüm tarihini bile aynı tanıml…"
+- [OK]      k8 → "Dünya Sağlık Anketi'nin kardeş ölümü verisini kullanan 2008 tarihli bir çalışma, 1955-2002 arasında Vietnam'da…" — 7 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k8 → "Aralık geniştir çünkü anket savaş ölümlerini ölçmek için tasarlanmamıştı: Vietnam tahmini, yakalanan toplam 29…"
+- [OK]      k8 → "Çalışma çekincesini de yazar — tahmin yalnızca doğrudan şiddet ölümlerini kapsar, savaşa bağlanabilecek bütün …"
+- [OK]      k1 → "Savunma bakanı Robert McNamara 17 Haziran 1967'de kurdurduğu görev gücüne İkinci Dünya Savaşı'ndan o güne uzan…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Kamuya açılan basılı metin bu kırk üç cilt değil, kongrenin bastırdığı on iki ciltlik gizlilikten çıkarılmış d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Beyaz Saray dosyalarına erişimleri yoktu ve aldıkları talimat başlıca aktörlerle görüşme yapmalarını yasaklıyo…" — programatik olarak ölçülemedi (ad karşılığı yok): Saray
+- [ATOMSUZ] k1 → "Gelb ayrıca karar vericilerin zihnine giremediklerini, kararların alındığı odalarda bulunmadıklarını ve çoğu z…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kısıt yalnızca ekibin niyetinde değil, elindeki kâğıtlardaydı: Gelb 1945-1961 belgelerinin çoğunun kaybolduğun…"
+- [OK]      k9 → "§ 1116, 9 Ocak 1962 ile 7 Mayıs 1975 arasında Vietnam'da görev yapmış herkesin dioksin ya da 2,4-D içeren bir …" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Kanun hizmete bağlı sayılacak on üç hastalığı tek tek sıralar: Hodgkin dışı lenfoma, yumuşak doku sarkomları, …"
+- [OK]      k9 → "Liste zamanla uzadı: 1991 tarihli Agent Orange Kanunu yeni eklemeleri bilimler akademisinin raporlarına bağlad…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Kanun, kapsam içindeki hizmeti yalnızca Vietnam'la sınırlamaz: Tayland'daki Amerikan ya da Kraliyet Tay üsleri…" — 8 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Kanunun "herbisit" tanımı savaşı 1962-1975 arasına ve Vietnam'a kilitler, ama az önceki listenin gösterdiği gi…"
+- [OK]      k3 → "Cenevre'nin ertelediği seçim takvimine bakan bir okuma ise savaşı 1956'ya, Fransız sömürge savaşına bakan bir …" — 1 atom doğrulandı; 1 ad ölçülemedi
 
-**Özet:** 4 OK · 0 ISARET · 0 HATA · 6 ATOMSUZ
+**Özet:** 43 OK · 0 ISARET · 0 HATA · 14 ATOMSUZ

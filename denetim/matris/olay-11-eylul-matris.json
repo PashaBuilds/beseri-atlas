@@ -1,7 +1,7 @@
 {
   "id": "olay-11-eylul",
-  "govde_hash": "90e63b8f62ac",
-  "commit": "cd6a45e",
+  "govde_hash": "bed7267ec76c",
+  "commit": "fdab69c",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -75,7 +75,7 @@
     },
     {
       "iddia_id": "i005",
-      "cumle": "Olay ayrıca alışılmadık ölçüde iyi belgelenmiştir: hem iki partili bir komisyon hem de bir teknik soruşturma kurumu bulgularını kamuya açık raporlar hâlinde yayımladı.",
+      "cumle": "Olay ayrıca alışılmadık ölçüde iyi belgelenmiştir: başkanlığını Thomas H. Kean'in, yardımcılığını Lee H. Hamilton'ın yürüttüğü beş Cumhuriyetçi ve beş Demokrattan kurulu bir komisyon ile standartlar kurumu NIST, bulgularını kamuya açık raporlar hâlinde yayımladı.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -84,12 +84,16 @@
           "destek": "dogrudan"
         },
         {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        },
+        {
           "anahtar": "k3",
           "destek": "dogrudan"
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "K7 uyarinca kamusal gorev tasiyanlar adlandirildi. \"Ten Commissioners-five Republicans and five Democrats\" k1de; \"Thomas H. Kean Chair Lee H. Hamilton Vice Chair\" hem k1 hem k10 sayfasinda birebir gecer. NIST kisaltmasi k3te kayitli."
     },
     {
       "iddia_id": "i006",
@@ -229,7 +233,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Curutucu itirazi (tek-kaynakli-nedensellik) REDDEDILDI: cumle nedenselligi kendi sesiyle kurmuyor, komisyonun kurdugunu aktariyor (\"Komisyon raporu ... baglar\"). Aracin onerdigi cozum — iddiayi kaynagin soyledigiyle sinirlamak — zaten uygulanmis durumda."
     },
     {
       "iddia_id": "i015",
@@ -331,8 +335,8 @@
     },
     {
       "iddia_id": "i053",
-      "cumle": "Rapor bu üç sayının saldırganları içerip içermediğini yazmaz; kapsam belirsizliği daha ilk sayımın içinde başlar.",
-      "onem": "merkezi",
+      "cumle": "Bileşenlerin saldırganları içerip içermediğini yazmaz.",
+      "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
         {
@@ -341,11 +345,25 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Yoklukla dogrulanan iddia: k1 \"More than 2,600 ... 125 ... 256 died on the four planes\" der ve saldirganlarin dahil olup olmadigini hicbir yerde belirtmez. Onceki surum \"ucak toplami saldirganlari da icerir\" diyordu; bu kaynakta yoktur ve aritmetigi de tutmaz (dort ucakta toplam 265 kisi bulunuyordu)."
+      "inceleme": "Yoklukla dogrulanan iddia: k1 bilesenleri verir ve saldirganlarin dahil olup olmadigini hicbir yerde belirtmez. Merkezi agirlik artik k10daki komisyon toplamina tasindi."
+    },
+    {
+      "iddia_id": "i058",
+      "cumle": "Aynı raporun dokuzuncu bölümü ise kendi toplamını verir: ülke o gün, tarihinde bir düşman saldırısıyla uğradığı en büyük can kaybını yaşamış, 2.973 kişiyi yitirmişti.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta birebir: \"On September 11, the nation suffered the largest loss of life-2,973-on its soil as a result of hostile attack in its history.\" Ustunluk nitelemesi kaynagin kendi ifadesidir ve atif cercevesiyle verilmistir."
     },
     {
       "iddia_id": "i021",
-      "cumle": "Teknik soruşturma daha dar bir çerçeveyi daha kesin sayar: kulelere yapılan saldırılarda ölenlerin sayısı 2.735'tir.",
+      "cumle": "Teknik soruşturma daha dar bir çerçeveyi daha kesin sayar: iki kuleye yapılan saldırılarda ölenlerin sayısı 2.735'tir.",
       "onem": "merkezi",
       "tur": "sayi",
       "kaynaklar": [
@@ -372,9 +390,23 @@
       "inceleme": ""
     },
     {
-      "iddia_id": "i023",
-      "cumle": "Kamusal bellekte dolaşan rakam ise üçüncü bir kapsama aittir: saldırganlar hariç 2.977 ölü, saldırganlarla birlikte 2.996.",
+      "iddia_id": "i059",
+      "cumle": "Aynı kurum kuleleri değil bütün Dünya Ticaret Merkezi alanını saydığında sayı 2.749'a çıkar; bunun 400'ü acil müdahale görevlisidir.",
       "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta birebir: \"killing 2,749 people, including 400 emergency responders\". Ayni kurumun k3teki 2.735i yalniz iki kuleyi sayar; fark bir kapsam farkidir."
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Bugün en yaygın dolaşan rakam ise başka bir yerde durur: saldırganlar hariç 2.977 ölü, saldırganlarla birlikte 2.996.",
+      "onem": "destek",
       "tur": "sayi",
       "kaynaklar": [
         {
@@ -383,7 +415,21 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Yaygin kullanilan rakam; tek kunyesi giris kapisi ansiklopedisidir. Resmi kunyeler (k1, k3) farkli kapsamlar sayar ve bu sayiyi vermez; metin uc sayimi yan yana koyarak farki acikca soyler."
+      "inceleme": "Kaynakta birebir: \"2,996 (2,977 in the attacks plus the 19 hijackers)\". Iddia bugun DOLASAN rakama iliskindir; bir giris kapisi ansiklopedisi bu dolasimin dogru olcusudur. Bolumun merkezi omurgasi artik k1, k10, k3 ve k11e dayaniyor."
+    },
+    {
+      "iddia_id": "i060",
+      "cumle": "Sayı zamanla da değişti: saldırıdan sonraki haftalarda ölü sayısı 6.000'in üzerinde tahmin ediliyordu, sonunda doğrulananın iki katından fazla; 2011'de kimlik tespiti için DNA çalışması hâlâ sürüyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynakta birebir: \"In the weeks after the attack, the death toll was estimated to be over 6,000, more than twice the number of deaths eventually confirmed\" ve \"As of 2011, DNA profiling was ongoing in an attempt to identify additional victims.\" Onceki surumdeki \"2.973 ile 2.977 arasindaki fark takvim farkidir\" cumlesi hicbir kaynakta yoktu; kaldirildi."
     },
     {
       "iddia_id": "i024",
@@ -405,7 +451,7 @@
     },
     {
       "iddia_id": "i025",
-      "cumle": "Onların kaydı başka bir yerde tutulur: 2011'de kurulan federal sağlık programının kütüğünde.",
+      "cumle": "Onların kaydı başka bir yerde tutulur: Başkan Obama'nın 2 Ocak 2011'de imzaladığı James Zadroga yasasıyla kurulan federal sağlık programının kütüğünde.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -415,11 +461,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "K7 uyarinca adlandirildi. Kaynak: \"January 2, 2011 ... President Obama signed the James Zadroga 9/11 Health and Compensation Act of 2010 (Zadroga Act) into law establishing the federal World Trade Center (WTC) Health Program\". Kaynak yalnizca soyadi verir; ad eklenmedi."
     },
     {
       "iddia_id": "i026",
-      "cumle": "Kulelerin çöküşü, 2002'de çıkarılan bir yasayla kurulan resmî teknik soruşturmanın konusu oldu; standartlar kurumunun bu yetkiyle yürüttüğü ilk soruşturmaydı ve nihai rapor 26 Ekim 2005'te yayımlandı.",
+      "cumle": "Kulelerin çöküşü, 2002'de çıkarılan bir yasayla kurulan resmî teknik soruşturmanın konusu oldu; NIST'in kendi kaydına göre bu, kuruma o yasayla verilen yetkiyle yürütülen ilk soruşturmaydı ve nihai rapor 26 Ekim 2005'te yayımlandı.",
       "onem": "merkezi",
       "tur": "tarih",
       "kaynaklar": [
@@ -429,7 +475,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Curutucu itirazi (ustunluk-iddiasi, \"ilk\") kismen kabul edildi: kaynak nitelemeyi yapiyor (\"The WTC investigation was the first conducted under the authorities granted to NIST by this act\") ama kurum kendi hakkinda soyluyor; atif cercevesi eklendi. Ayni paragrafa gelen tek-kaynakli-nedensellik itirazinin kalani REDDEDILDI: ikinci bir NIST sayfasi bagimsiz kaynak sayilmaz, iddia da zaten kurumun kendi kaydiyla sinirlandirildi."
     },
     {
       "iddia_id": "i027",
@@ -461,7 +507,7 @@
     },
     {
       "iddia_id": "i029",
-      "cumle": "Aynı kurum, kamuoyunda dolaşan bazı iddiaları da tek tek yanıtlamıştır; örneğin çeliğin belirli bir sıcaklığa sertifikalandığı iddiasının teknik olarak karşılığı olmadığını, Amerikan uygulamasında çeliğin değil yapı elemanlarının yangın dayanımı için sınandığını yazar.",
+      "cumle": "Ticaret Bakanlığı'na bağlı kurum, kamuoyunda dolaşan bazı iddiaları da tek tek yanıtlamıştır; örneğin çeliğin belirli bir sıcaklığa sertifikalandığı iddiasının teknik olarak karşılığı olmadığını, Amerikan uygulamasında çeliğin değil yapı elemanlarının yangın dayanımı için sınandığını yazar.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -471,7 +517,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kurumun Ticaret Bakanligina bagliligi k3te \"The Commerce Department's legal structure ... NIST's ability\" cumlesinden okunur."
     },
     {
       "iddia_id": "i030",
@@ -517,7 +563,7 @@
     },
     {
       "iddia_id": "i055",
-      "cumle": "Amerika saldırının ardından Afganistan'ı işgal etti; NATO da kuruluş antlaşmasının ortak savunma maddesini tarihinde ilk ve tek kez bu olay için işletti.",
+      "cumle": "Amerika saldırının ardından Afganistan'ı işgal etti; NATO da kuruluş antlaşmasının ortak savunma maddesini bu olay için işletti.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -527,7 +573,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Kaynak: \"The United States responded by launching the war on terror and invading Afghanistan. NATO's invocation of Article 5 ... its only usage to date\". Tek kunyesi giris kapisi ansiklopedisidir; birincil kunye onerilir."
+      "inceleme": "Curutucu itirazi (ustunluk-iddiasi, \"ilk\") KABUL edildi: \"tarihinde ilk ve tek kez\" nitelemesi kaldirildi. Kaynak nitelemeyi yapiyor (\"its only usage to date\") ama tek kunyesi bir giris kapisi ansiklopedisi; ustunluk iddiasini birincil kaynaga baglanana dek tasimamak dogrusu."
     },
     {
       "iddia_id": "i032",
@@ -642,8 +688,8 @@
       "inceleme": ""
     },
     {
-      "iddia_id": "i039",
-      "cumle": "Yetki metni de aynı yönü gösterir: 2001 tarihli kuvvet kullanma yetkisi gücü saldırıdan sorumlu olanlarla sınırlar.",
+      "iddia_id": "i061",
+      "cumle": "2001 yetkisi gücü saldırıdan sorumlu olanlarla sınırlar",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -653,21 +699,53 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Yetki metni gucu \"those nations, organizations, or persons he determines planned, authorized, committed, or aided the terrorist attacks\" ile sinirlar; metinde Irak adi gecmez."
     },
     {
-      "iddia_id": "i040",
-      "cumle": "Buna karşın 2003'te başlayan Irak Savaşı, 11 Eylül sonrası dönemin savaşları arasında sayılagelmiştir.",
-      "onem": "destek",
+      "iddia_id": "i064",
+      "cumle": "Irak'a karşı güç kullanmak için Kongre 16 Ekim 2002'de ayrı bir yetki yasası çıkarmak zorunda kaldı; o metnin gerekçesi 11 Eylül sorumluluğu değil, Irak'ın oluşturduğu süregelen tehdit ile Birleşmiş Milletler Güvenlik Konseyi kararlarının uygulanmasıdır.",
+      "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
         {
-          "anahtar": "k9",
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k12 SEC. 3(a): \"defend the national security of the United States against the continuing threat posed by Iraq; and ... enforce all relevant United Nations Security Council resolutions regarding Iraq\"; kabul tarihi \"Approved October 16, 2002\". Iddia k5 ile birlikte olculdugunde \"Irak\" adi k5te bulunamadigi icin ISARET dogurmustu; iki kaynak iki ayri iddiaya bolundu."
+    },
+    {
+      "iddia_id": "i062",
+      "cumle": "Ayrı bir yetki gerekmesi, birincisinin Irak'ı kapsamadığının kanıtıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k12",
           "destek": "kismi"
         }
       ],
       "guven": "orta",
-      "inceleme": "Kaynak Irak Savasi ni 11 Eylul sonrasi savaslar listesinde sayar; nedensel bag kurmaz. Cumle de kurmuyor."
+      "inceleme": "Iki kanun metninin varligindan cikarilan yorum: ayri bir yetki yasasinin cikarilmasi olgusu k12de dogrudan, o olgudan cikarilan sonuc yorumdur."
+    },
+    {
+      "iddia_id": "i063",
+      "cumle": "2002 yasasının başlangıç bölümü 11 Eylül'ü defalarca anar: örgüt üyelerinin Irak'ta bulunduğunu, saldırının kitle imha silahlarının teröristlerin eline geçmesindeki ağırlığı gösterdiğini yazar ve yetkinin kullanılmasını, saldırıyı planlayan ya da destekleyenlere karşı sürdürülen eylemlerle tutarlı sayar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc unsurun ucu de birebir: \"members of al Qaida ... are known to be in Iraq\"; \"the attacks ... underscored the gravity of the threat posed by the acquisition of weapons of mass destruction by international terrorist organizations\"; SEC. 3(b)(2) \"consistent with ... those nations, organizations, or persons who planned, authorized, committed or aided the terrorist attacks that occurred on September 11, 2001\"."
     },
     {
       "iddia_id": "i041",
@@ -699,7 +777,7 @@
     },
     {
       "iddia_id": "i043",
-      "cumle": "Birincisi bilgi eksikliğini öne çıkarır: 2001 baharı ve yazı boyunca istihbarat kurumlarına büyük bir saldırı hazırlandığına dair bir uyarı akışı geldi, merkezî istihbaratın başındaki isim sistemin alarm verdiğini söyledi, ama somut bilgi yurt dışına işaret ediyordu ve iç kurumlar etkili biçimde harekete geçirilmedi.",
+      "cumle": "Birincisi bilgi eksikliğini öne çıkarır: 2001 baharı ve yazı boyunca istihbarat kurumlarına büyük bir saldırı hazırlandığına dair bir uyarı akışı geldi, merkezî istihbarat başkanı George Tenet komisyona sistemin kırmızı yanıp söndüğünü söyledi, ama somut bilgi yurt dışına işaret ediyordu ve iç kurumlar etkili biçimde harekete geçirilmedi.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -709,7 +787,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "K7 uyarinca adlandirildi: \"Director of Central Intelligence George Tenet told us, \"The system was blinking red.\"\" — k1de birebir. Alinti cevrilmeden, dolayli anlatimla verildi."
     },
     {
       "iddia_id": "i044",
@@ -769,7 +847,7 @@
     },
     {
       "iddia_id": "i048",
-      "cumle": "Toz maruziyetine bağlı hastalıklar için 2011'de kurulan federal sağlık programı, 2015'te 2090 yılına kadar uzatıldı; 2019'da yeni kayıt sınırları 25.000'den 75.000'e çıkarıldı ve 2023'te Pentagon ile Pensilvanya sahalarında çalışanlar için üyelik hakkı, belirli üniformalı görevlileri ve federal çalışanlarla yüklenicileri de içerecek biçimde genişletildi.",
+      "cumle": "Zadroga yasasıyla kurulan sağlık programı, Başkan Obama'nın 2015'te imzaladığı bir yasayla yetmiş beş yıl daha, 2090'a kadar uzatıldı; Başkan Trump 2019'da yeni kayıt sınırlarını 25.000'den 75.000'e çıkardı, Başkan Biden 2023'te Pentagon ile Pensilvanya sahalarında çalışanlar için üyelik hakkını belirli üniformalı görevlileri ve federal çalışanlarla yüklenicileri içerecek biçimde genişletti.",
       "onem": "merkezi",
       "tur": "tarih",
       "kaynaklar": [
@@ -779,7 +857,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "2023 maddesi duzeltildi: kaynak Pentagon ve Shanksville sahalarindaki gorevliler icin uyeligin \"certain uniformed service members and federal employees and contractors\" kapsayacak bicimde genisletildigini yazar; bolgelerin tumden kapsama alinmasi degil."
+      "inceleme": "K7 uyarinca imzalayan baskanlar adlandirildi; ucu de k4te \"President Obama/Trump/Biden signed\" bicimiyle birebir gecer. 2023 maddesinin kapsami kaynagin diline sadiktir."
     },
     {
       "iddia_id": "i049",
@@ -815,9 +893,10 @@
     }
   ],
   "sayaclar": {
-    "dogrudan": 51,
+    "dogrudan": 56,
     "kismi": 5,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "hakem_notu": "Curutucu 3. gecis: 9 itirazdan 2si kabul edildi (NIST \"ilk sorusturma\" nitelemesine atif cercevesi eklendi; NATO 5. madde icin \"tarihinde ilk ve tek kez\" ustunluk iddiasi kaldirildi). 7si reddedildi: 5i dilsel yanlis pozitif (\"tek bir sayi\", \"tek tek\", \"tek cati altinda\", \"ilk okuma\", \"tek bir olay\" — hicbiri oncelik/ustunluk iddiasi degil, \"tek/ilk\" alt dizisi baska anlamda geciyor), 2si ise aracin onerdigi cozumu zaten uygulamis cumlelere geldi (i014, i026)."
 }

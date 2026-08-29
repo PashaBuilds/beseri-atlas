@@ -74,8 +74,9 @@ kaynaklar:
     dogrulama_dizesi: "G. MASSARI e S. CASTAGNOLA"
     not: "Ilhak eden meclisin ilhak ettigi bolge hakkindaki kendi sorusturmasi; hem kanit hem inceleme nesnesi. Google taramasi, OCR hatalidir"
   - anahtar: k7
-    tur: veri
-    ad: "Annuario statistico italiano 1878 - genel secimlerde secmen ve oy kullanan sayilari tablosu"
+    tur: birincil
+    birincil_tur: belge
+    ad: "Annuario statistico italiano 1878 (Ministero di Agricoltura, Industria e Commercio) - genel secimlerde secmen ve oy kullanan sayilari tablosu"
     url: https://archive.org/download/annuariostatisti1878cava/annuariostatisti1878cava_djvu.txt
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "La  frequenza  degli  elettori  alle  urne  fu  minima  nel  1870"
@@ -86,7 +87,7 @@ kaynaklar:
     url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.18352/incontri.830?fields=title,abstract,year,authors,externalIds
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "Notes on the reattribution of a maxim"
-    not: "Kunye ve ozet verisi; makalenin tam metni bu ucnoktadan gelmez, iddialar ozetin soyledigiyle sinirlidir"
+    not: "Kunye ve ozet verisi; makalenin tam metni bu ucnoktadan gelmez, iddialar ozetin soyledigiyle sinirlidir. Getirilen kayit yazari yalniz 'C. Gigante' olarak verir; ilk adin acilimi (Claudio) ayni DOI'nin Crossref kaydindan dogrulandi, kunyeye tahminle yazilmadi"
   - anahtar: k9
     tur: ansiklopedi
     ad: "Wikipedia (EN) - Unification of Italy"
@@ -100,12 +101,12 @@ onarim_turu: 1
 ---
 
 İtalyan birliği, yarımadadaki ayrı devletlerin tek bir krallık altında
-toplanmasıdır; ne var ki bu sonuç, birleşmeyi isteyenlerin çoğunun tasarladığı
+toplanmasıdır; ne var ki bu sonuç, birleşmeyi isteyenlerin tasarladığı tek
 sonuç değildi. Yüzyılın ortasında birbirini dışlayan üç proje aynı anda
 dolaşımdaydı: papanın başkanlığında bir devletler konfederasyonu, cumhuriyetçi
 bir halk ayaklanması ve Piemonte-Sardinya monarşisinin önderliğinde bir ilhak
-zinciri.[^k9] Üçü de aynı adı kullanıyor, üçü de ötekini yolun üzerindeki
-engel sayıyordu.
+zinciri.[^k9] Üçü de aynı adı kullanıyordu; birinin gerçekleşmesi ötekilerin
+tasfiyesi demekti.
 
 Kazanan üçüncüsü oldu. 17 Mart 1861'de Torino'da toplanan ilk İtalyan
 parlamentosu Vittorio Emanuele'yi İtalya kralı ilan etti; 27 Mart'ta da henüz
@@ -113,12 +114,12 @@ krallığın sınırları dışında kalan Roma'yı başkent saydı.[^k9] O gün
 Avusturya'nın, Roma papanın elindeydi; Güney ise bir yıl önce silahla
 alınmıştı ve iki yıl sonra parlamentonun kendi soruşturma komisyonunu
 göndereceği bir savaşın sahnesi olacaktı.[^k6] Aşağıdaki bölümler önce üç
-projeyi kendi metinlerinden okuyor, sonra kazananın nasıl kazandığını ve
-kazandıktan sonra neyi devraldığını izliyor.
+projeyi kendi metinlerinden okuyor, sonra kazananın nasıl kazandığını ve neyi
+devraldığını izliyor.
 
 ## Papanın ılımlaştırıcı otoritesi altında
 
-En eski çözüm en az devrimci olanıydı. Piemonteli bir rahip olan Vincenzo
+Üç çözümün en az devrimci olanı buydu. Piemonteli bir rahip olan Vincenzo
 Gioberti, İtalyanların ahlaki ve medeni önceliği üzerine yazdığı kitapta,
 yarımadaya sayılamayacak kadar çok iyilik getirecek şeyin papanın
 ılımlaştırıcı otoritesi altında kurulacak siyasi bir konfederasyon olduğunu
@@ -126,14 +127,21 @@ savunuyordu.[^k1] Kendi vurgusuna göre bunun için papaya yeni bir yetki vermek
 gerekmiyordu; kesintiye uğramış ama ortadan kalkmamış eski bir hakkın yeniden
 işletilmesi yeterliydi.[^k1]
 
-Çekiciliği açıktı: ne hanedan devirmeyi ne de Avusturya'yla topyekûn savaşı
-gerektiriyordu, mevcut prensleri yerinde bırakıyordu ve Katolik nüfusun büyük
-çoğunluğunu karşısına almıyordu. Öneriye Pius IX önce ilgi duyar göründü; ama
-papa kısa sürede tersine döndü ve liberalizmle milliyetçiliğe karşı cephe
-aldı.[^k9] Federal çözümün kaybı bir tartışmayı kaybetmesi değil, tek olası
-başkanının çekilmesiydi. Aynı yıllarda Giuseppe Mazzini ile Carlo Cattaneo
-federal bir cumhuriyet, Cesare Balbo ise Piemonte önderliğinde bir devletler
-birliği öneriyordu.[^k9]
+Çekiciliği de açıktı. Böyle bir birlik, Gioberti'nin sıraladığına göre,
+prenslerin gücünü artıracak ama bağımsızlıklarına dokunmayacak, iç savaşların
+ve devrimlerin nedenlerini ortadan kaldıracak, yabancı istilalara da aşılmaz
+bir engel koyacaktı.[^k1] Öneriye Pius IX önce ilgi duyar göründü; ama papa
+kısa sürede tersine döndü ve liberalizmle milliyetçiliğe karşı cephe
+aldı.[^k9] Federal
+çözümün kaybı bir tartışmayı kaybetmesi değil, tek olası başkanının
+çekilmesiydi.
+
+Bu üçlü çerçevenin bir sadeleştirme olduğunu da söylemek gerekir. Aynı
+yıllarda Giuseppe Mazzini ile Carlo Cattaneo federal bir cumhuriyet, Cesare
+Balbo ise Piemonte önderliğinde bir devletler birliği öneriyordu; kaynağın
+kendi üçlü tasnifinde orta konum, cumhuriyetçi ayaklanmanın değil Balbo'nun
+konumudur.[^k9] Üçüncü proje, yani Savoy hanedanı önderliğinde ilhak, dönemin
+ilan edilmiş bir programı değil, sonradan izlenen yoldur.
 
 ## Cumhuriyetçi projeye Piemonte'nin cevabı
 
@@ -153,8 +161,8 @@ yayınları basana ve dolaşıma sokana da uygulanacaktı.[^k2] Ceza kâğıt ü
 kalmadı: 1833'te Chambéry'de onbaşı Giuseppe Tamburelli, dergiyi bir askere
 okuttuğu ya da ödünç verdiği için kurşuna dizildi; aynı yıl avukat Scovazzi ve
 dava vekili Vocheri, aralarında yasak kitabı dağıtmak da bulunan suçlamalarla
-ölüme mahkûm edildi.[^k2] Otuz yıl sonra İtalya'yı birleştirecek hanedan,
-birleşmenin öteki projesini darağacıyla yanıtlamıştı.
+ölüme mahkûm edildi.[^k2] Yaklaşık otuz yıl sonra İtalya'yı birleştirecek
+hanedan, birleşmenin öteki projesini ölüm cezasıyla yanıtlamıştı.
 
 ## Piemonte'nin çizgisi ve plandan taşan savaş
 
@@ -180,22 +188,29 @@ taşıyan toprağın elden çıkmasıyla ilerledi.
 
 ## Bin kişi, bir diktatörlük ve bir devir
 
-1860 baharında Garibaldi bin kadar gönüllüyle Sicilya'ya çıktı. Seferin siyasi
-anlamı ilk günlerde belirlendi: Marsala'da diktatörlükten söz edildi, ertesi
-gün Salemi'de ilan edildi ve "İtalya ve Vittorio Emanuele" sözü şiar olarak
-doğrulandı.[^k4] Garibaldi kendi anlatısında bunu, cumhuriyetçi "saflar"ın
-sonradan açıkça dile getirdiği itiraza rağmen alınmış yerinde bir karar
-sayar.[^k4] Yani Güney'i monarşi adına fetheden ordu, kadrosunun büyük bölümü
-cumhuriyetçi olan bir gönüllü ordusuydu.
+1860 baharında Garibaldi, I Mille denen bin kadar gönüllüyle 6 Mayıs'ta Cenova
+yakınındaki Quarto'dan yola çıktı ve Sicilya'nın batı kıyısında Marsala
+yakınına asker çıkardı.[^k9] Seferin siyasi anlamı ilk günlerde belirlendi:
+Marsala'da diktatörlükten söz edildi, ertesi gün Salemi'de ilan edildi ve
+"İtalya ve Vittorio Emanuele" sözü şiar olarak doğrulandı.[^k4] Garibaldi
+kendi anlatısında bunu, cumhuriyetçi "saflar"ın sonradan açıkça dile getirdiği
+itiraza rağmen alınmış yerinde bir karar sayar.[^k4] Yani monarşinin şiarını
+Güney'e taşıyan ordu, o şiara itiraz eden cumhuriyetçileri de kendi içinde
+barındırıyordu.
 
 Aynı metin devrin nasıl gerçekleştiğini de anlatır — ve anlatan kişi memnun
 değildir. Garibaldi, Palermo'da Savoy monarşisinin yandaşlarının halkı Bin'e
 karşı kuşkuya sürüklediğini ve vaktinden önce bir ilhaka ittiğini, bunu
 yapanların Cavour'un ajanları olduğunu yazar; onu Volturno'daki orduyu bir
 savaşın arifesinde bırakıp Palermo'ya gitmek zorunda bıraktıklarını ve bunun
-Caiazzo yenilgisine mal olduğunu söyler.[^k4] Ekim ayında Vittorio Emanuele
-ordusuyla güneye indi; Garibaldi Teano'da onu İtalya kralı diye selamladı,
-diktatörlük yetkisini devretti ve Caprera'ya çekildi.[^k9] Devir gönüllüydü;
+Caiazzo yenilgisine mal olduğunu söyler.[^k4] Çağrının nereden yükseldiğini de
+söyler: Garibaldi'ye göre zengin Napoli'nin önünde eli boş beklemeye
+tahammülsüz Savoy yanlıları "ilhak" diye bağırmaya başlamıştı ve ilhak,
+seferin durdurulması demekti; kendisi Palermo'da halkı ilhak vaktinin
+gelmediğine, işin Roma'ya kadar sürdürülmesi gerektiğine ikna ettiğini
+yazar.[^k4] Ekim ayında Vittorio Emanuele ordusuyla güneye indi; Garibaldi
+Teano'da onu İtalya kralı diye selamladı, diktatörlük yetkisini devretti ve
+Caprera'ya çekildi.[^k9] Devir gönüllüydü;
 devredenin sonraki yargısı değildi.
 
 ## Cavour'un kendi koyduğu iki şart
@@ -239,21 +254,27 @@ temmuz 1871'de taşındı.[^k9]
 
 Krallığın kimin adına konuştuğu ayrı bir sorudur. Devletin istatistik yıllığı,
 1861'den 1876'ya kadarki altı genel seçimin her biri için yüz kişiye düşen
-seçmen sayısını tablolaştırır; 1861'de bu oran 1,92'dir, yani yaşayan her elli
-kişiden biri.[^k7] Aynı satırda seçim çevrelerinin sayısı 443 olarak verilir;
-tablo oranı bir de yalnızca erkek nüfusa böler, ama 1861 satırındaki bu ikinci
-değer taramada okunamaz durumdadır.[^k7] Aynı tabloya göre seçmenlerin sandığa
-gitme sıklığı 1870'te en düşük, 1876'da en yüksek düzeydeydi.[^k7] Sonuç
-şudur: parlamento krallığı kurarken, krallıkta yaşayanların yüzde birinden
-biraz fazlası oy kullanmıştı.
+seçmen sayısını tablolaştırır; 1861'de bu oran 1,92'dir, yani seçmen
+listelerinde ülkede yaşayan her elli kişiden biri vardı.[^k7] Aynı satırda
+seçim çevrelerinin sayısı 443 olarak verilir; tablo oranı bir de yalnızca
+erkek nüfusa böler, ama 1861 satırındaki bu ikinci değer taramada okunamaz
+durumdadır.[^k7] Aynı tabloya göre seçmenlerin sandığa gitme sıklığı 1870'te
+en düşük, 1876'da en yüksek düzeydeydi.[^k7] Krallığı kuran ve Roma'yı başkent
+ilan eden meclis, böyle bir listeden çıkmıştı.
 
 Ortak bir dil de hazır değildi. Alessandro Manzoni'nin romanının 1840 basımı,
 insanları öğrenmeye zorlayacak bir dil sağlamak için bilinçli olarak
 standartlaştırılmış Toskana lehçesini kullanıyordu — yani ortak İtalyanca
-birleşmeden önce miras alınan değil, üretilmesi tasarlanan bir şeydi.[^k9]
-Birleşme yılında halkın ne kadarının İtalyanca konuştuğu ise tartışmalıdır:
-dolaşımdaki tahminler İtalyanca bilmeyi farklı tanımladıkları için birbirini
-tutmaz ve burada tek bir orana yaslanılmamıştır.
+birleşmeden önce miras alınan değil, üretilmesi tasarlanan bir şeydi.[^k9] Kaç
+kişinin İtalyanca konuştuğunu ise devlet saymadı; saydığı şey okuryazarlıktı.
+İstatistik yıllığına göre 1861 sayımı, 22 milyonluk nüfusta her yaştan 17
+milyon okuma yazma bilmeyen buldu — tam sayı 16.999.701, yaş ve cinsiyet
+ayrımı gözetmeyen oran yüzde 78 — ve yıllık, bu rakamın ilk açıklandığında
+inanılmaz bulunduğunu, sayıya emzikteki bebeklerin de katıldığı itirazının
+yapıldığını da kaydeder.[^k7] Birleşme yılında halkın ne kadarının İtalyanca
+konuştuğuna dair tahminler işte bu tür dolaylı ölçülerden türetilir; İtalyanca
+bilmeyi farklı tanımladıkları için birbirini tutmaz ve oranın kendisi tek bir
+değere bağlanamaz.
 
 ## Güney'deki savaş ve parlamentonun soruşturması
 
@@ -262,9 +283,10 @@ Meclisi, üyelerinden bir bölümünü en çok etkilenen yerlere gönderip
 eşkıyalığın nedenlerini, o günkü durumunu ve onu yok etmenin en uygun
 araçlarını incelemekle görevlendirdi.[^k6] Komisyon işe Torino'da
 bakanlıklardan gelen belgeleri inceleyerek başladı, sonra Napoli'ye geçti;
-Molise, Bari ve Lecce'yi dolaşıp Potenza'da toplandı, ardından Roma sınırına
-giderek eşkıyalıkla papalık sarayı, Bourbon çevresi ve Fransız garnizonu
-arasındaki ilişkileri yerinde inceledi.[^k6] Abruzzo ve Calabria'ya gitmek
+Avellino ile Foggia'da ikiye ayrılıp Molise, Bari ve Lecce'yi dolaştı,
+Potenza'da toplandı ve Salerno üzerinden Napoli'ye döndü; ardından Roma
+sınırına giderek eşkıyalıkla papalık sarayı, Bourbon çevresi ve Fransız
+garnizonu arasındaki ilişkileri yerinde inceledi.[^k6] Abruzzo ve Calabria'ya gitmek
 istedi ama zaman yetmeyeceği için vazgeçti — raporun kendi beyan ettiği
 sınırdır.[^k6]
 
@@ -272,19 +294,30 @@ Rapor, tek nedenli açıklamayı açıkça reddeder. Siyasi krizin tek başına
 yeterli sayılmasının hata olacağını söyler ve gerekçesini bir karşılaştırmaya
 dayandırır: kriz eski Napoli krallığının bütün illerinde aynıydı, öyleyse
 etkisi de aynı olmalıydı; oysa sonuçlar iller arasında birbirini
-tutmuyordu.[^k6] Komisyon bunun yerine iç içe geçmiş etkenleri sayar:
-topraksız tarım işçisinin yoksulluğu ve toprağa hiçbir bağının bulunmaması —
-ortakçılığın yürürlükte olduğu yerlerde kır proletaryasının seyrek kaldığını
-da not eder — ile 1860 yazında hazırlanan Bourbon karşı hareketi; Francesco II
-Napoli'yi terk etmeden önce hapishane kapılarını açan bir kararname
-çıkarmıştı.[^k6]
+tutmuyordu.[^k6] Komisyon bunun yerine iç içe geçmiş üç etken sayar.
+Birincisi, topraksız tarım işçisinin yoksulluğu ve toprağa hiçbir bağının
+bulunmamasıdır — ortakçılığın (mezzeria) yürürlükte olduğu yerlerde kır
+proletaryasının seyrek kaldığını da not eder.[^k6] İkincisi Bourbon düzenidir:
+rapora göre yalnız sefalet Napoli illerinde bu kadar yıkıcı olmazdı, ona
+hanedanın bıraktığı üç kötülük eşlik ediyordu — özenle korunmuş cehalet,
+yayılmış boş inanç ve her şeyden önce yasalara ve adalete duyulan güvenin
+tümden yokluğu.[^k6] Üçüncüsü, 1860 yazında hazırlanan Bourbon karşı
+hareketidir; Francesco II Napoli'yi terk
+etmeden önce hapishane kapılarını açan bir kararname çıkarmıştı.[^k6]
 
 Aynı rapor, devletin kendi bilançosunu da yazar. 1861'in ilk sekiz ayında 365,
 1862'de 591, 1863'ün ilk üç ayında 79 kişi kurşuna dizildi; çatışmada
 ölenlerle birlikte toplam 3.451 ölü ve 2.768 tutuklu vardır.[^k6] Komisyonun
 önerisi, eşkıyalık suçlarında yargı yetkisinin askeri mahkemelere
-devredilmesiydi.[^k6] Bir yıl önce halk oylamasıyla katıldığı ilan edilen
-bölge, iki yıl sonra olağanüstü askeri yargıyla yönetiliyordu.
+devredilmesiydi.[^k6]
+
+İlhakın nasıl onaylandığı ise buradaki kaynaklarda tek bir yan cümleyle
+görünür: komisyonun incelediği yargı dosyaları arasında, halk oylaması
+sırasında bir kasabada patlak veren karşı hareketin davası vardır.[^k6]
+Oylamanın tarihini, katılımını ve biçimini künyedeki kaynakların hiçbiri
+vermez; o yüzden burada da verilmiyor. Kayda geçen şu kadarı: oylamayla
+onaylandığı bildirilen bölgede, 1863'te yargı yetkisi askeri mahkemelere
+devredilmek isteniyordu.[^k6]
 
 ## Bir vecizenin künyesi
 

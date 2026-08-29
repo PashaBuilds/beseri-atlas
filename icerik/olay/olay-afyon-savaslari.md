@@ -34,11 +34,11 @@ kaynaklar:
   - anahtar: k2
     tur: birincil
     birincil_tur: belge
-    ad: "Lin Zexu, Deng Tingzhen ve E Zhang'ın İngiltere kraliçesine mektubu — The Chinese Repository, c. VIII, s. 10 (Şubat 1840), s. 497-503"
+    ad: "Lin Zexu ve iki meslektasinin Ingiltere kralicesine mektubu — The Chinese Repository, c. VIII, s. 10 (Şubat 1840), s. 497-503"
     url: https://archive.org/stream/chineserepositor8101unse/chineserepositor8101unse_djvu.txt
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "20,283 chests of opium"
-    not: "Kanton'da yayimlanan donem dergisinin Ingilizce cevirisi; mektubun Pekin'e ulasmadigi bilinir, metin ise dolasima girmistir"
+    not: "Kanton'da yayimlanan donem dergisinin Ingilizce cevirisi; dergi metni \"From the Canton Press\" diye niteliyor. Imzacilari yalnizca \"Lin\", \"Tang\" ve \"E\" diye veriyor (Lin Zexu ve iki meslektasi); tam adlar bu kaynaktan dogrulanamadigi icin yazilmadi. Mektubun kraliceye ulastigina dair kayit yoktur, metin ise basin yoluyla dolasima girmistir"
   - anahtar: k3
     tur: birincil
     birincil_tur: belge
@@ -98,12 +98,12 @@ onarim_turu: 1
 Afyon Savaşları'nda asıl kalıcı olan, muharebeler değil onları bitiren
 kâğıtlardır. Britanya Hindistan'da ürettiği afyonu Çin kıyılarına kaçırıyor,
 Qing devleti bu ticareti yasaklıyordu; yasağı fiilen uygulama girişimi 1839'da
-Kanton'da bir askerî harekâta dönüştü ve 29 Ağustos 1842'de Cornwallis adlı
-savaş gemisinin güvertesinde imzalanan Nanking Antlaşması'yla
-kapandı.[^k1][^k6] Antlaşma beş limanı Britanyalı tüccarların yerleşimine
-açtı, Hong Kong adasını süresiz olarak Britanya'ya bıraktı, tekelci Hong
-tüccarları düzenini kaldırdı ve imparatora üç kalemde ödenecek büyük bir
-tazminat yükledi.[^k1]
+Kanton'da (Guangzhou) bir askerî harekâta dönüştü ve 29 Ağustos 1842'de
+Cornwallis adlı savaş gemisinin güvertesinde imzalanan Nanking
+Antlaşması'yla kapandı.[^k1][^k6] Antlaşma beş limanı Britanyalı tüccarların
+yerleşimine açtı, Hong Kong adasını süresiz olarak Britanya'ya bıraktı,
+tekelci Hong tüccarları düzenini kaldırdı ve imparatora üç kalemde ödenecek
+büyük bir tazminat yükledi.[^k1]
 
 Bu belgelerin dikkat çeken yanı, savaşa adını veren malın onlarda neredeyse
 hiç geçmemesidir. Nanking metninde afyon sözcüğü tek bir kez, Mart 1839'da
@@ -143,11 +143,13 @@ görevliler rüşvetle susuyordu.[^k6]
 
 ## Kanton'da bir yasağın uygulanması
 
-Daoguang imparatoru 1838'deki saray tartışmasının sonunda yasallaştırma
-yanlılarını değil, tam yasak isteyenleri destekledi ve Lin Zexu'yu olağanüstü
-yetkiyle Kanton'a gönderdi; Lin Mart 1839'da göreve başladı.[^k6] Uyguladığı
-yöntem, yabancı tüccarları ellerindeki stoku teslim etmeye zorlamaktı. Kendi
-bildirdiği hesaba göre tüccarlar, ticaret süperintendanı Elliot aracılığıyla
+Saray yıllarca bölünmüştü: bir yanda gümüş çıkışından ve bağımlılıktan
+kaygılanıp tam yasak isteyenler, öte yanda ilacı yasallaştırıp vergilendirmeyi
+savunan güney sahili görevlileri ve onlarla iş yapan tüccarlar vardı.[^k6]
+Daoguang imparatoru sonunda tam yasak yanlılarını destekledi ve Lin Zexu'yu
+olağanüstü yetkiyle Kanton'a gönderdi; Lin Mart 1839'da kente vardı.[^k6]
+Uyguladığı yöntem, yabancı tüccarları ellerindeki stoku teslim etmeye
+zorlamaktı. Kendi bildirdiği hesaba göre tüccarlar, ticaret süperintendanı Elliot aracılığıyla
 20.283 sandık afyonu teslim etti ve mal imha edildi.[^k2]
 
 Lin aynı sırada İngiltere kraliçesine hitaben bir mektup kaleme aldı; metin
@@ -156,10 +158,12 @@ girdi.[^k2] Mektubun ekseni ahlaki bir karşılıklılık ilkesidir: Çin dışa
 çay, ipek ve ravent gibi yararlı mallar gönderirken karşılığında zehir almayı
 kabul edemez.[^k2] Lin bir de olgusal dayanak öne sürer — "Kendi ülkenizde
 afyonun en büyük katılıkla yasaklandığını duyduk"[^k2] — ve kraliçeden Bengal,
-Patna, Malwa ve Benares'teki haşhaş tarlalarını kökünden söktürmesini ister.
-Bu dayanak yanlıştı: afyon o tarihte Britanya'da yasal biçimde satılıyordu ve
-tam da bu nedenle Londra, sonraki yıllarda ticareti yasaklamayı değil
-düzenlemeyi savunacaktı.[^k7]
+Madras, Bombay, Patna, Malwa, Benares ve Malacca gibi yerlerdeki haşhaş
+tarlalarını kökünden söktürmesini ister.[^k2] Mektup burada bir ayrım yapar:
+Britanya adalarında afyon üretilmediğini doğru biçimde tespit eder, yanlış
+olan yasak kısmıdır.[^k2] Afyon o tarihte Britanya'da yasal biçimde
+satılıyordu ve tam da bu nedenle Londra, sonraki yıllarda ticareti yasaklamayı
+değil düzenlemeyi savunacaktı.[^k7]
 
 ## Londra'da dokuz oyluk bir savaş
 
@@ -171,29 +175,33 @@ biliyorum ne de okudum".[^k3] Gladstone'un asıl iddiası hukukiydi: Çinliler
 kaçakçılığı bırakmaları için uyarıda bulunmuş, bırakılmayınca kendi
 topraklarından kovma hakkını kullanmıştı.[^k3]
 
-Hükûmet cephesinin savunması ise ahlaki değil malidir. Palmerston yanlıları
-1832 tarihli parlamento komisyonunun görüşünü hatırlattı: Bengal afyon
-ticareti 981.283 sterlin getirdiği için, Hindistan gelirlerinin o günkü
-durumunda ticarete son vermek arzu edilir değildi; üstelik "verginin yükü
-esasen yabancı tüketicinin üstüne düşüyordu".[^k4] Kınama önergesi 9 Nisan
+Hükûmet cephesinin savunması ise ahlaki değil malidir. Hükûmet adına konuşan
+Sir John Cam Hobhouse, konunun meclise ilk kez gelmediğini söyleyerek 1832
+tarihli parlamento komisyonunun görüşünü hatırlattı: Bengal afyon ticareti
+981.283 sterlin getirdiği için, Hindistan gelirlerinin o günkü durumunda
+ticarete son vermek arzu edilir değildi; üstelik "verginin yükü esasen yabancı
+tüketicinin üstüne düşüyordu".[^k4] Kınama önergesi 9 Nisan
 gecesi oylandı ve 271'e karşı 262 oyla, yani dokuz oy farkla reddedildi.[^k4]
 Savaşın meşruiyeti, kendi meclisinde bu kadar dar bir çoğunlukla ayakta kaldı.
 
 ## Antlaşmada bir kez geçen kelime
 
 Nanking Antlaşması'nın on üç maddesi, savaşın görünürdeki konusunu değil
-ticaretin çerçevesini düzenler. İkinci madde Kanton, Amoy, Foochow, Ningpo ve
-Şanghay'ı Britanyalı tüccarların aileleriyle birlikte yerleşimine açar ve her
-birine konsolos atanmasını öngörür; üçüncü madde Hong Kong adasını süresiz
-olarak devreder.[^k1] Beşinci madde, Britanyalı tüccarları belirli Çinli
-tüccarlarla iş yapmaya zorlayan Hong düzenini kaldırır; onuncu madde ise
-gümrük tarifesinin ilan edilmiş ve sabit olmasını şart koşar — Qing'in kendi
+ticaretin çerçevesini düzenler. İkinci madde beş limanı — metnin kendi
+yazımıyla Kanton, Amoy, Foochow, Ningpo ve Şanghay, bugünkü adlarıyla
+Guangzhou, Xiamen, Fuzhou, Ningbo ve Şanghay — Britanyalı tüccarların
+aileleriyle birlikte yerleşimine açar ve her birine konsolos atanmasını
+öngörür; üçüncü madde Hong Kong adasını süresiz olarak devreder.[^k1] Beşinci
+madde, Britanyalı tüccarları belirli Çinli tüccarlarla iş yapmaya zorlayan
+Hong düzenini kaldırır; onuncu madde ise gümrük tarifesinin ilan edilmiş ve
+sabit olmasını şart koşar — Qing'in kendi
 gümrük oranını tek başına belirleme yetkisini elinden alan hüküm budur.[^k1]
 On birinci madde ise sembolik görünse de aynı derecede ağırdır: iki tarafın
 görevlileri arasındaki yazışmada kullanılacak terimleri tek tek sayar ve
 astların eşit düzeyde muhatap sayılmasını hükme bağlar.[^k1] On ikinci madde
-Britanya kuvvetlerinin Chusan ve Koolangsoo adalarında, ödemeler tamamlanana
-kadar kalmasını öngörür; antlaşma yalnızca bir barış değil, bir tahsilat
+Britanya kuvvetlerinin Chusan (Zhoushan) ve Koolangsoo (Gulangyu) adalarında,
+hem ödemeler tamamlanana hem de limanların açılma düzenlemeleri bitene kadar
+kalmasını öngörür; antlaşma yalnızca bir barış değil, bir tahsilat
 takvimidir.[^k1]
 
 Tazminatın kalemleri niyeti açık eder. Altı milyon dolar Mart 1839'da teslim
@@ -215,7 +223,8 @@ Londra bölündü: 3 Mart 1857'de Avam Kamarası Kanton'a yapılan saldırıyı
 gerekçesiz bularak hükûmete karşı oy verdi, Palmerston erken seçime gitti ve
 ancak seçimden sonra savaşı sürdürecek çoğunluğu buldu.[^k7]
 
-Asıl dönüşüm 1858'de gerçekleşti. Haziranda Tien-tsin'de imzalanan antlaşma,
+Asıl dönüşüm 1858'de gerçekleşti. Haziranda Tien-tsin'de (Tianjin) imzalanan
+antlaşma,
 Britanya temsilcisine Pekin'de kalıcı ikamet hakkı verdi ve Çin resmî
 belgelerinde Britanyalılar için "barbar" anlamına gelen karakterin
 kullanılmasını yasakladı.[^k5] Afyon ise bu metinde de geçmez; yasallaştırma,
@@ -225,15 +234,15 @@ ve şunu yazar: "Afyon bundan böyle pikul başına otuz tael ithalat resmi
 ödeyecek".[^k5] Aynı kural ticareti sınırlar da: yabancı tüccar malı yalnızca
 limanda satabilecek, iç bölgelere yalnızca Çinliler taşıyabilecekti.[^k5]
 
-Antlaşmanın onay belgeleri Taku istihkâmlarında engellenince savaş yeniden
-alevlendi. 25 Haziran 1859'da onay belgelerini Pekin'e götüren heyete yol
-açmak için istihkâmlara saldıran Britanya kuvvetleri püskürtüldü, üç gemi
-kaybetti ve ağır zayiat verdi; savaşın tek büyük Çin galibiyeti budur ve
-sarayın direncini sertleştirmiştir.[^k7] Ertesi yıl müttefik kuvvetler Pekin
-önlerine ulaştı; 18-19 Ekim 1860'ta Lord Elgin'in emriyle imparatorluk yazlık
-sarayı Yuanmingyuan yağmalanıp yakıldı.[^k7] 24 Ekim 1860'ta imzalanan Pekin
-Sözleşmesi, Taku olayı için özür ifadesiyle açılır; sekiz milyon tael
-tazminat, Tien-tsin limanının ticarete açılması ve Kowloon'un Hong Kong'a
+Antlaşmanın onay belgeleri Taku (Dagu) istihkâmlarında engellenince savaş
+yeniden alevlendi. 25 Haziran 1859'da onay belgelerini Pekin'e götüren heyete
+yol açmak için istihkâmlara saldıran Britanya kuvvetleri püskürtüldü, üç gemi
+kaybetti ve ağır zayiat verdi; Dagu'daki bu Çin galibiyeti sarayın direncini
+sertleştirdi.[^k7] Ertesi yıl müttefik kuvvetler Pekin önlerine ulaştı:
+imparatorluk yazlık sarayı Yuanmingyuan 6 Ekim 1860'ta yağmalandı, 18-19
+Ekim'de ise Lord Elgin'in emriyle yakılıp yıkıldı.[^k7] 24 Ekim 1860'ta
+imzalanan Pekin Sözleşmesi, Taku olayı için özür ifadesiyle açılır; sekiz
+milyon tael tazminat, Tien-tsin limanının ticarete açılması ve Kowloon'un Hong Kong'a
 bağlı olarak devri bunun üzerine gelir.[^k5] Sözleşmenin beşinci maddesi
 ayrıca Çinlilerin Britanya sömürgelerinde çalışmak üzere gemiye binmesini
 serbest bırakır; on dokuzuncu yüzyılın sözleşmeli işçi akımının hukuki
@@ -242,9 +251,10 @@ dayanaklarından biri buradadır.[^k5]
 ## Gümüşün nereye gittiği tartışması
 
 Qing sarayının afyona karşı en güçlü ekonomik gerekçesi, ülkeden gümüş
-çıkışıydı; ticaretin dengesi tersine dönmüş, bakır para ile gümüş arasındaki
-kur bozulmuştu.[^k6] Bu, olayın en yaygın anlatısıdır ve savaşın nedenini tek
-bir kaleme bağlar. Ancak iktisat tarihçileri bu bağı sorgulamıştır.
+çıkışıydı: saray afyon ithalatını kitlesel gümüş çıkışının ve bunun para
+düzeninde yarattığı istikrarsızlığın sebebi olarak gördü.[^k6] Bu, olayın en
+yaygın anlatısıdır ve savaşın nedenini tek bir kaleme bağlar. Ancak iktisat
+tarihçileri bu bağı sorgulamıştır.
 
 Alejandra Irigoin, hem dünya gümüş arzındaki daralmaya dayanan açıklamayı hem
 de afyon ithalatına dayanan açıklamayı reddeder. Ona göre 1820'lerden sonra
@@ -256,26 +266,28 @@ dışarı çekti.[^k8] Bu okumada nedensellik terse döner: afyon ithalatı güm
 oldu.[^k8] İki açıklama arasındaki fark, savaşın ahlaki hükmünü değiştirmez
 ama Qing devletinin krizinin ne kadarının dışarıdan geldiğini değiştirir.
 
-Benzer bir itiraz dönemin kendi içinde de dile getirilmişti. Hükûmet yanlıları
-1840 tartışmasında, Hindistan'daki üretim kısılsa bile arzın Türkiye, İran ya
-da komşu bir ülkeye kayacağını, dolayısıyla tek bir tedarikçiyi durdurmanın
-tüketimi durdurmayacağını savundu.[^k4] Bu argüman kendi çıkarlarını
-savunanların ağzından çıkmıştır ve o hâliyle şüpheyle okunmalıdır; yine de
-afyonu tek bir imparatorluğun tek yönlü kararına indirgeyen anlatının erken
-bir eleştirisidir. Ticaretin tarafları arasında Britanya'nın yanı sıra Amerika
-Birleşik Devletleri, Hindistan, Güneydoğu Asya ve Çin'in kendi tüccarları da
-vardı; Hindistan'dan gelen sandık sayısı ise savaşlardan çok sonra, 1884'te
-zirvesine ulaştı.[^k6]
+Benzer bir itiraz dönemin kendi içinde de dile getirilmişti. Palmerston,
+oylamadan önceki kapanış konuşmasında, Hindistan'daki üretim kısılsa bile
+arzın Türkiye, İran ya da komşu bir ülkeye kayacağını, dolayısıyla tek bir
+tedarikçiyi durdurmanın tüketimi durdurmayacağını savundu.[^k4] Bu argüman
+kendi çıkarlarını savunanların ağzından çıkmıştır ve o hâliyle şüpheyle
+okunmalıdır; yine de afyonu tek bir imparatorluğun tek yönlü kararına indirgeyen anlatının erken
+bir eleştirisidir. Nitekim ticaretin tarafları arasında Britanya'nın yanı sıra
+Amerika Birleşik Devletleri, Türkiye, Hindistan, Güneydoğu Asya ve Çin'in
+kendi tüccarları da vardı; Hindistan'dan gelen sandık sayısı ise savaşlardan
+çok sonra, 1884'te zirvesine ulaştı.[^k6]
 
 ## Sayıların ve çerçevenin sonradan kurulması
 
 Tüketim sayıları bu anlatının en kırılgan yeridir. Savaş arifesinde Çin'de
 yaklaşık on milyon afyon içicisi bulunduğu ve bunların iki milyonunun bağımlı
 olduğu tahmin edilir; kaynak bunu bir tahmin olarak verir, sayım olarak
-değil.[^k6] Dönemin rakamlarının büyük bölümü ya ticareti savunanların ya da
-onu yasaklatmak isteyen misyoner derneklerinin elinden çıkmıştır ve iki taraf
-da kendi savını güçlendirecek yönde eğilimlidir. Güvenilir olan, dışarıdan
-gelen sandık sayısıdır; içeride kaç kişinin ne kadar tükettiği değil.
+değil.[^k6] Ortada bir sayım yoktur; dönemin rakamları, ticareti savunanlarla
+onu yasaklatmak için kurulmuş dernekler arasındaki kampanyanın içinden gelir.
+Yasallaştırmaya Çin tarafının nasıl baktığını aktaran kaynak bile tanığını
+Afyon Ticaretini Bastırma Derneği'nin yayın organından almak zorunda
+kalır.[^k7] Görece sağlam olan, dışarıdan gelen sandık sayısıdır; içeride kaç
+kişinin ne kadar tükettiği değil.
 
 Olayın bugünkü adı da sonradan konmuştur. Çin tarih yazımında bu iki savaş,
 1842'den 1949'a uzanan "aşağılanma yüzyılı"nın başlangıcı sayılır; ancak bu
@@ -284,9 +296,11 @@ yenilgisinin ardından güç kazandı, 1915'teki Yirmi Bir Talep ve 1919'daki
 Versay kararlarına tepkiyle yayıldı, 1920'lerde hem Kuomintang hem Çin
 Komünist Partisi tarafından yaygınlaştırıldı.[^k9] Eşitsiz antlaşmaların büyük
 bölümü 1943'te müttefiklerce kaldırıldı, ama çerçeve hukuki ömrünü aştı.[^k9]
-Nitekim Qing sarayı 1860 yenilgisinin ve iç isyanların ardından 1861'de dış
-işleri yönetecek bir daire kurmayı kabul etti; savaşın gerçek sonucu,
-tazminattan çok bu kurumsal teslimiyettir.[^k9]
+Nitekim Qing sarayı 1860 yenilgisinin ve Taiping İsyanı'nın ardından 1861'de
+dış işleri yönetecek bir daire — Zongli Yamen — kurdu; kaynak bunu bir
+teslimiyetten çok, Batı tekniğini devşirmeyi hedefleyen Kendini Güçlendirme
+hareketinin başlangıcı olarak okur.[^k9] Savaşın kalıcı etkisi de tazminat
+kalemlerinde değil, burada aranmalıdır.
 
 Bugün Afyon Savaşları iki farklı okumaya birden dayanak veriyor. Biri, güçlü
 bir devletin serbest ticaret adına uyuşturucu kaçakçılığını korumasını

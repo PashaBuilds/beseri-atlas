@@ -1,9 +1,9 @@
 {
   "id": "olay-italyan-birligi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:52:01.438Z",
-  "govde_hash": "7695b6f31034",
-  "commit": "cd6a45e",
+  "zaman": "2026-08-29T15:42:58.265Z",
+  "govde_hash": "edfca018f005",
+  "commit": "fdab69c",
   "sonuclar": [
     {
       "anahtar": "k9",
@@ -36,6 +36,12 @@
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
+      "anahtar": "k1",
+      "iddia": "Böyle bir birlik, Gioberti'nin sıraladığına göre, prenslerin gücünü artıracak ama bağımsızlıklarına dokunmayacak, iç savaşların ve devrimlerin nedenlerini ortad",
+      "durum": "OK",
+      "not": ""
+    },
+    {
       "anahtar": "k9",
       "iddia": "Öneriye Pius IX önce ilgi duyar göründü; ama papa kısa sürede tersine döndü ve liberalizmle milliyetçiliğe karşı cephe aldı.",
       "durum": "OK",
@@ -43,7 +49,7 @@
     },
     {
       "anahtar": "k9",
-      "iddia": "Aynı yıllarda Giuseppe Mazzini ile Carlo Cattaneo federal bir cumhuriyet, Cesare Balbo ise Piemonte önderliğinde bir devletler birliği öneriyordu.",
+      "iddia": "Aynı yıllarda Giuseppe Mazzini ile Carlo Cattaneo federal bir cumhuriyet, Cesare Balbo ise Piemonte önderliğinde bir devletler birliği öneriyordu; kaynağın kend",
       "durum": "OK",
       "not": ""
     },
@@ -96,6 +102,12 @@
       "not": "2 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
+      "anahtar": "k9",
+      "iddia": "1860 baharında Garibaldi, I Mille denen bin kadar gönüllüyle 6 Mayıs'ta Cenova yakınındaki Quarto'dan yola çıktı ve Sicilya'nın batı kıyısında Marsala yakınına ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
       "anahtar": "k4",
       "iddia": "Seferin siyasi anlamı ilk günlerde belirlendi: Marsala'da diktatörlükten söz edildi, ertesi gün Salemi'de ilan edildi ve \"İtalya ve Vittorio Emanuele\" sözü şiar",
       "durum": "OK",
@@ -110,6 +122,12 @@
     {
       "anahtar": "k4",
       "iddia": "Garibaldi, Palermo'da Savoy monarşisinin yandaşlarının halkı Bin'e karşı kuşkuya sürüklediğini ve vaktinden önce bir ilhaka ittiğini, bunu yapanların Cavour'un ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Çağrının nereden yükseldiğini de söyler: Garibaldi'ye göre zengin Napoli'nin önünde eli boş beklemeye tahammülsüz Savoy yanlıları \"ilhak\" diye bağırmaya başlamı",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -153,7 +171,7 @@
       "anahtar": "k5",
       "iddia": "31 Aralık 1861'i 1 Ocak 1862'ye bağlayan gece yapılan sayımın bakan tarafından krala sunulan raporuna göre krallığın 59 ilinde fiilen bulunan nüfus 21.776.953 k",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k5",
@@ -210,6 +228,12 @@
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
+      "anahtar": "k7",
+      "iddia": "İstatistik yıllığına göre 1861 sayımı, 22 milyonluk nüfusta her yaştan 17 milyon okuma yazma bilmeyen buldu — tam sayı 16.999.701, yaş ve cinsiyet ayrımı gözetm",
+      "durum": "OK",
+      "not": ""
+    },
+    {
       "anahtar": "k6",
       "iddia": "Temsilciler Meclisi, üyelerinden bir bölümünü en çok etkilenen yerlere gönderip eşkıyalığın nedenlerini, o günkü durumunu ve onu yok etmenin en uygun araçlarını",
       "durum": "ATOMSUZ",
@@ -217,7 +241,7 @@
     },
     {
       "anahtar": "k6",
-      "iddia": "Komisyon işe Torino'da bakanlıklardan gelen belgeleri inceleyerek başladı, sonra Napoli'ye geçti; Molise, Bari ve Lecce'yi dolaşıp Potenza'da toplandı, ardından",
+      "iddia": "Komisyon işe Torino'da bakanlıklardan gelen belgeleri inceleyerek başladı, sonra Napoli'ye geçti; Avellino ile Foggia'da ikiye ayrılıp Molise, Bari ve Lecce'yi ",
       "durum": "OK",
       "not": ""
     },
@@ -235,7 +259,19 @@
     },
     {
       "anahtar": "k6",
-      "iddia": "Komisyon bunun yerine iç içe geçmiş etkenleri sayar: topraksız tarım işçisinin yoksulluğu ve toprağa hiçbir bağının bulunmaması — ortakçılığın yürürlükte olduğu",
+      "iddia": "Birincisi, topraksız tarım işçisinin yoksulluğu ve toprağa hiçbir bağının bulunmamasıdır — ortakçılığın (mezzeria) yürürlükte olduğu yerlerde kır proletaryasını",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "İkincisi Bourbon düzenidir: rapora göre yalnız sefalet Napoli illerinde bu kadar yıkıcı olmazdı, ona hanedanın bıraktığı üç kötülük eşlik ediyordu — özenle koru",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Üçüncüsü, 1860 yazında hazırlanan Bourbon karşı hareketidir; Francesco II Napoli'yi terk etmeden önce hapishane kapılarını açan bir kararname çıkarmıştı.",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -250,6 +286,18 @@
       "iddia": "Komisyonun önerisi, eşkıyalık suçlarında yargı yetkisinin askeri mahkemelere devredilmesiydi.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "İlhakın nasıl onaylandığı ise buradaki kaynaklarda tek bir yan cümleyle görünür: komisyonun incelediği yargı dosyaları arasında, halk oylaması sırasında bir kas",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kayda geçen şu kadarı: oylamayla onaylandığı bildirilen bölgede, 1863'te yargı yetkisi askeri mahkemelere devredilmek isteniyordu.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k8",
@@ -309,7 +357,7 @@
       "anahtar": "k2",
       "iddia": "Sonucun kaçınılmaz olmadığını gösteren en sağlam kanıt ise kazananın kendi belgeleridir: Cavour Roma'ya Fransa'yla birlikte ve papanın bağımsızlığını zedelemede",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     }
   ]
 }

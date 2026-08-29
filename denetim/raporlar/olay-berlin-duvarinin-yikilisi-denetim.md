@@ -1,5 +1,5 @@
 ## olay-berlin-duvarinin-yikilisi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T15:01:34.153Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T15:42:54.503Z_
 
 - [OK]      k1 → "İktidardaki Sosyalist Birlik Partisi'nin merkez komitesi bir gün önce üç günlük oturumuna başlamış, oturumun a…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "Yeni seyahat düzenlemesinin ertesi gün yürürlüğe girmesi planlanıyordu; aradaki saatler bütün sınır karakollar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -9,7 +9,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T15:01:34.153Z_
 - [OK]      k7 → "Basın toplantısı akşam saat 18.00'de başladı ve Doğu Alman televizyonundan canlı yayımlandı; Schabowski'nin ya…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k7 → "Schabowski yeni düzenlemenin tartışmalarına katılmamıştı, tam olarak bilgilendirilmemişti ve eline tutuşturula…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k7 → "Saat 18.53'te, toplantı biterken, İtalyan haber ajansı ANSA'dan Riccardo Ehrman kasım başında kamuoyuna sızan …"
-- [ATOMSUZ] k1 → "Saat 18.53'te, toplantı biterken, İtalyan haber ajansı ANSA'dan Riccardo Ehrman kasım başında kamuoyuna sızan …" — programatik olarak ölçülemedi (ad karşılığı yok): İtalyan, ANSA, Riccardo, Ehrman
+- [OK]      k1 → "Saat 18.53'te, toplantı biterken, İtalyan haber ajansı ANSA'dan Riccardo Ehrman kasım başında kamuoyuna sızan …"
 - [OK]      k7 → "Beil yürürlük tarihine bakanlar kurulunun karar vereceğini araya sıkıştırmaya çalışırken Schabowski ilgili mad…"
 - [OK]      k7 → "Bir başka gazeteci düzenlemenin Batı Berlin geçitlerini de kapsayıp kapsamadığını sorunca notun üçüncü maddesi…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k7 → "Bu iki kanal 1950'lerin sonundan beri Doğu Almanya'nın neredeyse tamamına ulaştığı ve orada da izlendiği için …" — 2 atom doğrulandı; 2 ad ölçülemedi
@@ -33,11 +33,12 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T15:01:34.153Z_
 - [OK]      k1 → "Eylülden itibaren haftalık Pazartesi gösterileri başladı ve ekim ortasında yalnızca Leipzig'de yetmiş bin kişi…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k4 → "Leipzig o gün silahlı bir kamp görünümündeydi: üç bin polis, bunların bin iki yüzü Halle ve Neubrandenburg böl…"
 - [ATOMSUZ] k4 → "Honecker'in eylül sonunda imzaladığı gizli emir yürürlükteydi ve beklenen kargaşanın baştan önlenmesini buyuru…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Silah kullanılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler 18.25 sularında ge…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k7 → "Silah kullanılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler 18.25 sularında ge…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k4 → "O gün atılan "Wir sind das Volk" — biz halkız — sloganı, partinin ve hükümetin sonraki her tereddütlü tavizini…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k7 → "Kaynaklar bu noktada ayrışır: ansiklopedi derlemesi, polis ve ordu birimlerine toplananlara karşı güç kullanma…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Tek kurşun atılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler 18.25 sularında g…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Tek kurşun atılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler 18.25 sularında g…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "O gün atılan "Wir sind das Volk" — biz halkız — sloganı, partinin ve hükümetin sonraki her tereddütlü tavizini…"
 - [OK]      k2 → "O gün atılan "Wir sind das Volk" — biz halkız — sloganı, partinin ve hükümetin sonraki her tereddütlü tavizini…"
-- [OK]      k4 → "O gün atılan "Wir sind das Volk" — biz halkız — sloganı, partinin ve hükümetin sonraki her tereddütlü tavizini…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "O gün atılan "Wir sind das Volk" — biz halkız — sloganı, partinin ve hükümetin sonraki her tereddütlü tavizini…"
 - [OK]      k4 → "Kabare sanatçısı Bernd-Lutz Lange, Gewandhaus şefi Kurt Masur ve ilahiyatçı Peter Zimmermann'ın yanı sıra SED …"
 - [OK]      k2 → "4 Ekim'de Prag ve Budapeşte'den kalkıp Doğu Alman toprağından geçirilen göç trenleri Dresden garında iç savaşı…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "4 Kasım'da Doğu Berlin'de Alexanderplatz'ta toplanan kalabalık, Doğu Almanya tarihinin en büyük gösterisi oldu…" — 1 atom doğrulandı; 3 ad ölçülemedi
@@ -63,7 +64,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T15:01:34.153Z_
 - [ATOMSUZ] k2 → "Bornholmer Caddesi'ndeki bariyerin açılış saati için üç değer dolaşımdadır: 22.45, 23.20 ve 23.30." — programatik olarak ölçülemedi (ad karşılığı yok): Caddesi
 - [ATOMSUZ] k1 → "Bornholmer Caddesi'ndeki bariyerin açılış saati için üç değer dolaşımdadır: 22.45, 23.20 ve 23.30." — programatik olarak ölçülemedi (ad karşılığı yok): Caddesi
 - [OK]      k7 → "Geceyi tek bir geçide bağlamak da güvenli değildir; Waltersdorf-Rudow kapısının birkaç saat önce, bağımsız bir…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k7 → "Bariyeri kaldıran subayların adları — Bornholmer'de Harald Jäger ve Edwin Görlitz — bilinir; ama hiçbiri anma …" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k7 → "Bariyeri kaldıran subayların adları — Bornholmer'de Harald Jäger ve Edwin Görlitz — bilinir; ama hiçbiri anma …"
 - [OK]      k2 → "Bariyeri kaldıran subayların adları — Bornholmer'de Harald Jäger ve Edwin Görlitz — bilinir; ama hiçbiri anma …"
 - [OK]      k9 → "Uzun dönemli seride dünya nüfusu 1989'da yaklaşık 5,23 milyardır."
 - [OK]      k7 → "Almanya'nın birleşmesi 9 Kasım'dan 339 gün sonra, 3 Ekim 1990'da tamamlandı." — 2 atom doğrulandı; 2 ad ölçülemedi
@@ -75,4 +76,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T15:01:34.153Z_
 - [ATOMSUZ] k2 → "Sabrow burada tek yönlü bir gasp değil, birbirine zıt ama aynı ölçüde efsaneleştirici iki sahiplenme girişimi …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Uzun bir yapısal çözülme, kendi anını bir kaza aracılığıyla bulabilir; ve o an bir kere yaşandıktan sonra, kim…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 46 OK · 0 ISARET · 0 HATA · 27 ATOMSUZ
+**Özet:** 47 OK · 0 ISARET · 0 HATA · 27 ATOMSUZ

@@ -1,9 +1,9 @@
 {
   "id": "olay-kirim-savasi",
-  "govde_hash": null,
-  "commit": null,
+  "govde_hash": "0d176fa57603",
+  "commit": "fdab69c",
   "zaman": "2026-08-29",
-  "hakem": "TASLAK-yazar",
+  "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
     {
       "iddia_id": "i001",
@@ -35,7 +35,7 @@
     },
     {
       "iddia_id": "i003",
-      "cumle": "Birincisi, ölülerin ezici çoğunluğunu muharebe değil hastalık verdi; oran taraf raporlarının kendisinde yazılıdır — Sivastopol önünde hastalıktan düşenler kılıçla düşenlerin yedi katından fazlaydı ve aynı örüntü bütün ordularda tekrarlanır.",
+      "cumle": "Birincisi, ölülerin çoğunluğunu muharebe değil hastalık verdi; oran taraf raporlarının kendisinde yazılıdır — Sivastopol önünde hastalıktan düşenler kılıçla düşenlerin yedi katından fazlaydı. Bu yön bütün ordularda aynıdır, büyüklüğü değil: fark, kaydı kimin tuttuğuna göre yedi kattan kıl payına iner.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -49,7 +49,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kor hakem: onceki hali 'ezici cogunluk' ve 'ayni oruntu butun ordularda tekrarlanir' diyordu; k4'un Myrdacz Rus dokumunde hastalik olusu muharebe olusunu ancak 1,05 kat asar (37.454'e karsi 35.671). Cumle yon ile buyukluk ayrimini yapacak bicimde yeniden kuruldu."
     },
     {
       "iddia_id": "i004",
@@ -137,7 +137,7 @@
     },
     {
       "iddia_id": "i010",
-      "cumle": "Rusya bu değişikliği 1774 tarihli Küçük Kaynarca Antlaşması'na dayanarak reddetti; Çar Birinci Nikolay ordusunu Tuna boyuna yığdı.",
+      "cumle": "Rusya bu değişikliğe itiraz etti; Babıali de 1757 ve 1774 tarihli iki önceki antlaşmaya dayanarak kararından döndü, Fransız antlaşmasını geri aldı ve Ortodoksların koruyucusunun Rusya olduğunu ilan etti. Bunun üzerine Çar Birinci Nikolay ordusunu Tuna boyuna yığdı.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -147,7 +147,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kor hakem: onceki hali 1774 antlasmasina dayanip reddedeni RUSYA olarak gosteriyordu. Kaynak 'the Ottomans... reversed their earlier decision' der; antlasmalara dayanip donen taraf Babiali'dir ve 1757 metni de dusurulmustu. Fail duzeltildi."
     },
     {
       "iddia_id": "i011",
@@ -193,7 +193,7 @@
     },
     {
       "iddia_id": "i014",
-      "cumle": "Britanya ve Fransa savaşı 27 ve 28 Mart 1854'te ilan etti.",
+      "cumle": "Fransa ve Britanya savaşı 27 ve 28 Mart 1854'te ilan etti.",
       "onem": "destek",
       "tur": "tarih",
       "kaynaklar": [
@@ -203,7 +203,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kor hakem: onceki hali 'Britanya ve Fransa' diyordu; kaynak 'France and Britain declaring war on Russia on 27 and 28 March 1854, respectively' der. Sira ters cevrilmisti, duzeltildi."
     },
     {
       "iddia_id": "i015",
@@ -235,7 +235,7 @@
     },
     {
       "iddia_id": "i017",
-      "cumle": "Düşmanla hiçbir ciddi temas kurmayan bu harekât Fransızlara yedi binden fazla adama mal oldu; Russell'ın kaydına göre 31 Temmuz sabahı bir tümenin kampı, yaşayanların ölüleri gömmeye yetişemediği bir hastaneye dönmüştü.",
+      "cumle": "Russell bu harekâtı savaş tarihinin en sonuçsuz ve acıklı seferlerinden biri sayar; Fransızlara yedi binden fazla adama mal oldu ve 1 Ağustos günü Kostence'ye varan General Canrobert kendi kampını, yaşayanların arkadaşlarını gömmeye ancak yetişebildiği bir hastane hâlinde buldu.",
       "onem": "destek",
       "tur": "sayi",
       "kaynaklar": [
@@ -245,11 +245,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kor hakem: onceki hali bu sahneyi 31 Temmuz sabahina tariliyordu; kaynakta 31 Temmuz General Yusuf'un Kostence'ye varisidir, hastaneye donmus kamp sahnesi 1 Agustos'ta Canrobert'in varisidir. Tarih ve fail duzeltildi. 'Dusmanla hicbir ciddi temas kurmayan' nitelemesi k5'te bulunamadi, kaynagin kendi ifadesiyle ('most fruitless and lamentable') degistirildi."
     },
     {
       "iddia_id": "i018",
-      "cumle": "Florence Nightingale'in kendi raporuna göre Ekim 1854 ile Nisan 1855 arasındaki yedi ayda ordunun sürekli hasta oranı yüzde 38,9'a çıktı — yani Sivastopol önündeki mevcudun ancak yüzde 61'i göreve elverişliydi.",
+      "cumle": "Florence Nightingale'in kendi raporuna göre Ekim 1854 ile Nisan 1855 arasındaki yedi ayda ordunun sürekli hasta oranı yüzde 38,9'a çıktı — yani Sivastopol önündeki mevcudun ancak yüzde 61'i göreve elverişliydi; Nightingale bu oranların kesin olmadığını, sıhhi amaçla kaba bir fikir verdiğini kendisi yazar.",
       "onem": "merkezi",
       "tur": "sayi",
       "kaynaklar": [
@@ -259,7 +259,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kor hakem: sayilar kaynakta birebir (tablo Ekim 1854-Nisan 1855). Kaynagin kendi cekincesi ('certain to be incorrect... a rough idea') dusurulmustu, cumleye geri konuldu."
     },
     {
       "iddia_id": "i019",
@@ -403,7 +403,7 @@
     },
     {
       "iddia_id": "i029",
-      "cumle": "Boğaz'daki hastanelerde hastalar bir dönem yıllık yüzde 235'lik bir hızla ölüyordu ve tedavi edilenlerin neredeyse üçte biri hayatını kaybediyordu.",
+      "cumle": "Britanya ordusunun büyük hastaneleri İstanbul'daydı; Boğaz'ın bu hastanelerinde hastalar bir dönem yıllık yüzde 235'lik bir hızla ölüyordu ve tedavi edilenlerin neredeyse üçte biri hayatını kaybediyordu.",
       "onem": "merkezi",
       "tur": "sayi",
       "kaynaklar": [
@@ -431,7 +431,7 @@
     },
     {
       "iddia_id": "i031",
-      "cumle": "Aynı rapor kayıtlarında iskorbütün önceden beklendiği, limon suyunun ise geç ulaştığı da yazılıdır.",
+      "cumle": "Aynı rapor, sorunun çoğu kez tedarik değil dağıtım olduğunu gösterir: iskorbüt önceden beklenmişti, limon suyu yükü de aralık 1854'te boşaltılmıştı, ama varlığı ancak 24 Ocak 1855'te fark edildi ve düzenli tayın hâline gelmesi şubatın ilk haftasını buldu.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -441,12 +441,12 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kor hakem: onceki hali 'limon suyunun gec ulastigi' diyordu — kaynak bunun tersini soyler. 'Esk' yukunu 20 Aralik 1854'te bosaltmisti; Lord Raglan varligini 24 Ocak 1855'te ('six weeks after it was so grievously needed') fark etti, duzenli dagitim subatin ilk haftasinda basladi. Iddia kaynaga gore duzeltildi."
     },
     {
       "iddia_id": "i032",
-      "cumle": "Hemşire ekibinin Boğaz'a ulaşmasından sonraki aylarda tablo düzelmedi: aynı rapor, Britanya hastanelerinin birkaç ay boyunca hastaların neredeyse üçte birini kaybettiğini, Kulali'de ise bir ay içinde tedavi edilenlerin yarısından fazlasının öldüğünü yazar.",
-      "onem": "destek",
+      "cumle": "Nightingale'in resmî dönüşlerden derlediği çizelgede Scutari'de 1 Ekim–4 Kasım 1854 arasında binde 58 olan ölüm, Scutari ile Kulali birlikte sayıldığında ocak sonunda binde 147'ye, şubat sonunda binde 182'ye çıkar; yalnız Kulali'de şubat ayı binde 245'tir.",
+      "onem": "merkezi",
       "tur": "sayi",
       "kaynaklar": [
         {
@@ -455,7 +455,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kor hakem: onceki metin 'tablo duzelmedi' diyerek yumusatiyordu; kaynagin Tablo I'i olumun UC KATA yakin YUKSELDIGINI gosterir. Sayilar tabloda birebir. Satir etiketleri korundu: ilk satir yalniz Scutari, sonrakiler Scutari+Kulali."
     },
     {
       "iddia_id": "i033",
@@ -479,11 +479,11 @@
       "kaynaklar": [
         {
           "anahtar": "k8",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
-      "guven": "yuksek",
-      "inceleme": "Crossref kaydi yalnizca ustveri tasir; makalenin ic argumani bu kunyeden okunmadi"
+      "guven": "orta",
+      "inceleme": "Kor hakem: Crossref kaydi yalnizca baslik/dergi/yil/yazar tasir. 'Mirasin nasil okunacagi tip yazininda ayri bir baslik' saptamasi tek bir baslikdan cikarilmistir; destek dogrudan'dan kismi'ye dusuruldu."
     },
     {
       "iddia_id": "i035",
@@ -581,11 +581,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kor hakem: k7 (Met API) yil, teknik ve basligi birebir dogrular. Paragrafin devamindaki 'cephe fotografciliginin ilk ornekleri lojistigi ve portreyi cerceveler' genellemesi kaynaksizdi ve tek bir muze kaydindan turetilmisti; kaldirildi."
     },
     {
       "iddia_id": "i042",
-      "cumle": "Paris Antlaşması'nın on birinci maddesi Karadeniz'i tarafsız ilan eder ve sularını her ulusun ticaret filosuna açık tutarken kıyıdaş olsun olmasın hiçbir gücün savaş bayrağına süresiz olarak kapatır; on üçüncü madde aynı kıyıda deniz tersanesi kurmayı ve sürdürmeyi yasaklar.",
+      "cumle": "Paris Antlaşması'nın on birinci maddesi Karadeniz'i tarafsız ilan eder ve sularını her ulusun ticaret filosuna açık tutarken kıyıdaş olsun olmasın hiçbir gücün savaş bayrağına süresiz olarak kapatır — maddenin kendisi on dördüncü ve on dokuzuncu maddelerdeki istisnaları saklı tutar. On üçüncü madde kıyıda deniz tersanesi kurmayı ve sürdürmeyi yasaklar; yasağın muhatabı yalnız yenilen taraf değildir, metin Rus imparatoru ile Osmanlı padişahını aynı cümlede bağlar.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -595,11 +595,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kor hakem: madde metninin kendi kaydi ('with the exceptions mentioned in Articles XIV and XIX') dusurulmustu, geri konuldu. Ayrica 13. madde 'His Majesty the Emperor of all the Russias and His Imperial Majesty the Sultan engage not to establish or to maintain' der: kisit iki tarafi birden baglar, yalniz yenileni degil."
     },
     {
       "iddia_id": "i043",
-      "cumle": "Rusya 1870'te tarafsızlaştırmayı reddettiğini bildirdi; 1871 Londra Antlaşması'nın birinci maddesi Paris metninin on birinci, on üçüncü ve on dördüncü maddelerini ekli sözleşmesiyle birlikte açıkça yürürlükten kaldırdı ve Karadeniz'in ticarete açıklığı yeni metnin üçüncü maddesiyle yeniden yazıldı.",
+      "cumle": "Rusya 1870'te tarafsızlaştırmayı reddettiğini bildirdi; 1871 Londra Antlaşması'nın birinci maddesi Paris metninin on birinci, on üçüncü ve on dördüncü maddelerini ekli sözleşmesiyle birlikte açıkça yürürlükten kaldırdı; Karadeniz ticaretini serbest bırakan on ikinci madde ise yürürlükte kaldı ve yeni metnin üçüncü maddesiyle tamamlandı.",
       "onem": "merkezi",
       "tur": "tarih",
       "kaynaklar": [
@@ -609,7 +609,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Kor hakem: onceki hali ticarete acikligin 3. maddeyle 'yeniden yazildigini' soyluyordu; kaynak 12. maddenin yururlukte KALDIGINI ve 3. maddeyle 'supplemented' edildigini soyler. Duzeltildi."
     },
     {
       "iddia_id": "i044",
@@ -669,7 +669,7 @@
     },
     {
       "iddia_id": "i048",
-      "cumle": "Osmanlı Devleti aynı antlaşmayla Avrupa uyumuna kabul edildi ve büyük güçler bağımsızlığına ve toprak bütünlüğüne saygı sözü verdi — savaşın en somut kazanımı bu güvenceydi ve güvence, ömrü boyunca sınandı.",
+      "cumle": "Osmanlı Devleti aynı antlaşmayla Avrupa uyumuna kabul edildi ve büyük güçler bağımsızlığına ve toprak bütünlüğüne saygı sözü verdi — savaşın en somut kazanımı bu güvenceydi. Söz yirmi bir yıl sonra, Rusya'nın 24 Nisan 1877'de yeniden savaş ilan etmesiyle bozuldu.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -679,7 +679,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Avrupa uyumuna kabul ve toprak butunlugu guvencesi kaynakta dogrudan; en somut kazanim degerlendirmesi yazarindir"
+      "inceleme": "Kor hakem: onceki hali 'guvence omru boyunca sinandi' diyerek kaynaktan daha belirsizdi; kaynak 'The Treaty's guarantees... were broken 21 years later' der ve 24 Nisan 1877 tarihini verir. Kesinlestirildi."
     },
     {
       "iddia_id": "i049",
@@ -694,12 +694,138 @@
       ],
       "guven": "orta",
       "inceleme": "Osmanli tahmin araligi kaynakta dogrudan; kayit duzeni ile aralik genisligi arasindaki bag yazarin cikarimidir"
+    },
+    {
+      "iddia_id": "i050",
+      "cumle": "Rus birlikleri Temmuz 1853'te Tuna prensliklerini işgal edince Osmanlı Devleti Ekim 1853'te savaş ilan etti; Britanya ile Fransa cepheye ancak beş ay sonra, Sinop'un yarattığı kamuoyu öfkesiyle katıldı ve Rus ilerleyişi 1854 Haziranında Silistre önünde durduruldu.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem eklemesi: metnin on bilgisi savasi Ekim 1853'te baslatiyordu ama govde bunu hic anlatmiyordu. Kaynak lede'i dogrudan tasir."
+    },
+    {
+      "iddia_id": "i051",
+      "cumle": "Kafkas cephesinde Osmanlı kuvvetleri 1855 Mayısına kadar 120 binden 75 bine indi, kaybın büyük bölümü yine hastalıktandı; kuşatılan Kars 28 Kasım 1855'te teslim oldu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: 'Up to May 1855, Ottomans forces in the east were reduced from 120,000 to 75,000, mostly by disease' ve 'Kars surrendered on 28 November'."
+    },
+    {
+      "iddia_id": "i052",
+      "cumle": "Paris'te Rusya, Kars kalesini ve elinde tuttuğu diğer Osmanlı topraklarını geri verdi; müttefikler de Sivastopol ile Balaklava'yı Rusya'ya iade etti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak antlasmanin 3. ve 4. maddelerini aktarir. Metinde takas olarak degil, karsilikli iade olarak birakildi."
+    },
+    {
+      "iddia_id": "i053",
+      "cumle": "Aynı Taylor, Britanya bakımından savaşın \"Türkiye lehine değil, Rusya'ya karşı\" yürütüldüğünü de söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta birebir: 'it was fought against Russia, not in favour of Turkey.'"
+    },
+    {
+      "iddia_id": "i054",
+      "cumle": "Bu üç konum da kendi metinlerinden değil, bir ansiklopedi maddesinden aktarılıyor.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem eklemesi: aktarim halkasini gorunur kilar. Vinogradov ve Taylor bu dosyada birincil metinlerinden degil k1 uzerinden okunuyor."
+    },
+    {
+      "iddia_id": "i055",
+      "cumle": "Nightingale bu çizelgeyi gerçek ölümlülüğün ölçüsü olarak değil, resmî hesap yönteminin ölümlülüğü olduğundan hafif gösterdiğine örnek olarak verir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: 'not given as any approximation to the actual mortality... an under-statement of the real rate of mortality.'"
+    },
+    {
+      "iddia_id": "i056",
+      "cumle": "Derlemenin kendi açıklaması ikilidir — Britanya ordusu ilk kışın dersiyle ikinci kışa çok daha iyi örgütlenmiş, barınmış ve iaşe edilmiş girdi, ama aynı kışta muharebeye de pek az katıldı; Fransızlar harekâtı kesintisiz sürdürdü.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem eklemesi: kaynagin kendi karistiricisi ('the British took very little active part in the military operations') dusurulmustu; iki kis karsilastirmasi tek basina yonetim kanitina donusturuluyordu."
+    },
+    {
+      "iddia_id": "i057",
+      "cumle": "Savaşın en çok bilinen fotoğrafı ise yine Fenton'ın Ölüm Gölgesi Vadisi'dir; cepheyi belgeleyen öteki ad, portreleriyle James Robertson'dır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta gorsel kunyeleri: 'Valley of the Shadow of Death, by Roger Fenton, one of the most famous pictures of the Crimean War' ve 'Officers of the 41st Foot... photograph by James Robertson'."
+    },
+    {
+      "iddia_id": "i058",
+      "cumle": "Bu birkaç kare, cephe fotoğrafçılığının neyi çerçeveleyip neyi dışarıda bıraktığına dair genel bir hüküm vermeye yetmez.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem eklemesi: kaldirilan kaynaksiz genellemenin yerine, kanit tabaninin sinirini acikca soyleyen cumle konuldu."
     }
   ],
   "sayaclar": {
-    "dogrudan": 44,
-    "kismi": 5,
+    "dogrudan": 50,
+    "kismi": 6,
     "desteksiz": 0,
-    "olculemez": 0
+    "olculemez": 2
   }
 }

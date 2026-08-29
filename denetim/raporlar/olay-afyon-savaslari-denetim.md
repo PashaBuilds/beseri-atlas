@@ -1,5 +1,5 @@
 ## olay-afyon-savaslari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T15:02:15.751Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T15:42:52.973Z_
 
 - [OK]      k1 → "Britanya Hindistan'da ürettiği afyonu Çin kıyılarına kaçırıyor, Qing devleti bu ticareti yasaklıyordu; yasağı …" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k6 → "Britanya Hindistan'da ürettiği afyonu Çin kıyılarına kaçırıyor, Qing devleti bu ticareti yasaklıyordu; yasağı …" — 4 atom doğrulandı; 2 ad ölçülemedi
@@ -8,7 +8,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T15:02:15.751Z_
 - [ATOMSUZ] k5 → "Afyonun bir gümrük kalemi hâline gelmesi için ikinci bir savaşı ve o savaşın antlaşmasına iliştirilmiş ayrı bi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k6 → "Çin'den Britanya'ya giden çayın hacmi on sekizinci yüzyıl boyunca büyüdü ve 1800'e gelindiğinde Doğu Hindistan…" — 5 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k6 → "Şirket 1757'de Bengal'i ele geçirdikten sonra bu boşluğu dolduracak ürünü buldu ve haşhaşı orada büyük ölçekte…"
-- [OK]      k6 → "Çayın yükselişi bu bakımdan ölçülebilir: Çin'den gelen çay 1700'de 92.000 libre iken 1751'de 2,7 milyon librey…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Çayın yükselişi bu bakımdan ölçülebilir: Çin'den gelen çay 1700'de 92.000 libre iken 1751'de 2,7 milyon librey…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k6 → "Britanya bu açığı diplomasiyle kapatmayı denedi ve başaramadı; Macartney'nin 1793'teki, Amherst'in 1816'daki e…"
 - [OK]      k6 → "Hindistan'dan Çin'e giden afyon 1773'te yaklaşık bin sandıktı; 1790'da dört bine, 1828'de on sekiz bine, savaş…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k6 → "Şirketin Çin ticareti üzerindeki tekelinin 1834'te sona ermesi, düzenlemeden çok rekabeti artırdı; özel tüccar…" — 1 atom doğrulandı; 1 ad ölçülemedi

@@ -1,6 +1,15 @@
 {
   "id": "olay-irlanda-kitligi",
   "gecis": 3,
-  "zaman": "2026-08-21T07:41:18.576Z",
-  "itirazlar": []
+  "zaman": "2026-08-29T15:36:08.129Z",
+  "govde_hash": "139092029a77",
+  "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Mitchel'in aynı sayfalardaki tarifi, adanın kıtlık öncesindeki tuhaf konumunu tek cümlede toplar: ona göre İrlanda belki de dünyada hem ihraç edilecek fazla ürüne hem ihraç edilece",
+      "sorun": "Makale avrupa/amerika kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    }
+  ]
 }

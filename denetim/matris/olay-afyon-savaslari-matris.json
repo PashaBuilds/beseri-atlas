@@ -1,7 +1,7 @@
 {
   "id": "olay-afyon-savaslari",
   "govde_hash": "5e9d14030273",
-  "commit": "7a16c22",
+  "commit": "9181554",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -249,7 +249,7 @@
     },
     {
       "iddia_id": "i017",
-      "cumle": "Bu dayanak yanlıştı: afyon o tarihte Britanya'da yasal biçimde satılıyordu ve tam da bu nedenle Londra, sonraki yıllarda ticareti yasaklamayı değil düzenlemeyi savunacaktı.",
+      "cumle": "Afyon o tarihte Britanya'da yasal biçimde satılıyordu ve tam da bu nedenle Londra, sonraki yıllarda ticareti yasaklamayı değil düzenlemeyi savunacaktı.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -445,7 +445,7 @@
     },
     {
       "iddia_id": "i031",
-      "cumle": "Haziranda Tien-tsin'de imzalanan antlaşma, Britanya temsilcisine Pekin'de kalıcı ikamet hakkı verdi ve Çin resmî belgelerinde Britanyalılar için \"barbar\" anlamına gelen karakterin kullanılmasını yasakladı.",
+      "cumle": "Haziranda Tien-tsin'de (Tianjin) imzalanan antlaşma, Britanya temsilcisine Pekin'de kalıcı ikamet hakkı verdi ve Çin resmî belgelerinde Britanyalılar için \"barbar\" anlamına gelen karakterin kullanılmasını yasakladı.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -701,5 +701,11 @@
     "kismi": 6,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "2 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
 }

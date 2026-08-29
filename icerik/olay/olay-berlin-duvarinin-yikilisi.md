@@ -41,7 +41,7 @@ kaynaklar:
     url: https://germanhistorydocs.org/en/a-new-germany-1990-2023/opening-of-the-iron-curtain-august-19-1989
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "About 600 GDR citizens who had traveled to Hungary"
-    not: "Alman Tarih Enstitusu (Washington) belge koleksiyonu; Macaristan sinirinin acilmasi ve Pan-Avrupa Piknigi"
+    not: "Alman Tarih Enstitusu (Washington) belge koleksiyonu; Macaristan sinirinin acilmasi ve Pan-Avrupa Piknigi. AKTARIM HALKASI: kayit bir basin fotografidir (image-3027); 'yaklasik 600' rakami fotografin kendisinde degil GHDI editorlerinin kunye notundadir"
   - anahtar: k4
     tur: birincil
     birincil_tur: tanik
@@ -86,7 +86,7 @@ kaynaklar:
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "population_historical"
-    not: "Olcek cumlesinin dayandigi uzun donemli nufus serisi"
+    not: "Olcek cumlesinin dayandigi uzun donemli nufus serisi. UYARI: getir 400 bin karakterde kesiyor, World satirlari o esigin otesinde kaliyor; dogrulama dizesi basliktadir, 1989 degeri (5.234.431.736) tam CSV'den okundu"
 son_denetim: 2026-08-29
 denetim_durumu: onaylandi
 onarim_turu: 1
@@ -100,9 +100,9 @@ sekreter olan Schabowski o günün görüşmelerinde bulunmamış, karar taslağ
 basın toplantısından hemen önce Egon Krenz'in elinden almıştı.[^k1] Yeni
 seyahat düzenlemesinin ertesi gün yürürlüğe girmesi planlanıyordu; aradaki
 saatler bütün sınır karakollarının bilgilendirilmesine ayrılmıştı.[^k1] Bir
-gazetecinin ne zaman geçerli olacağını sorması üzerine Schabowski, bildiği
-kadarıyla düzenlemenin "sofort, unverzüglich" — derhal, gecikmeksizin —
-yürürlükte olduğunu söyledi.[^k1]
+gazetecinin düzenlemenin ne zaman yürürlüğe gireceğini sorması üzerine
+Schabowski, bildiği kadarıyla "sofort, unverzüglich" — derhal, gecikmeksizin —
+yürürlükte olduğunu söyledi.[^k7][^k1]
 
 Bu tek cümle, 1961'den beri Doğu ile Batı Berlin'i ayıran sınırı birkaç saat
 içinde işlevsiz bıraktı.[^k1] Olayın merkezinde bir yanlış anlamanın durması,
@@ -118,17 +118,22 @@ Basın toplantısı akşam saat 18.00'de başladı ve Doğu Alman televizyonunda
 canlı yayımlandı; Schabowski'nin yanında dış ticaret bakanı Gerhard Beil ile
 iki merkez komitesi üyesi vardı.[^k7] Schabowski yeni düzenlemenin
 tartışmalarına katılmamıştı, tam olarak bilgilendirilmemişti ve eline
-tutuşturulan notu nasıl kullanacağına dair bir talimat da almamıştı.[^k7] Saat 18.53'te,
-toplantı biterken, İtalyan haber ajansı ANSA'dan Riccardo Ehrman kasım başında
-kamuoyuna sızan seyahat yasası taslağının bir hata olup olmadığını sordu;
-taslak yalnızca son derece kısıtlı bir seyahat serbestisi vaat ettiği için
-sert tepki toplamıştı.[^k7][^k1] Schabowski önce dağınık bir cevap verdi, sonra notu
-hatırlayıp okumaya başladı; ardından gelen yürürlük sorusuna birkaç saniyelik
-duraksamanın sonunda o cümleyi kurdu.[^k7] Bir başka gazeteci düzenlemenin Batı
-Berlin geçitlerini de kapsayıp kapsamadığını sorunca notun üçüncü maddesini
-okudu ve kapsadığını doğruladı.[^k7]
+tutuşturulan notu nasıl kullanacağına dair bir talimat da almamıştı.[^k7]
+Saat 18.53'te, toplantı biterken, İtalyan haber ajansı ANSA'dan Riccardo
+Ehrman kasım başında kamuoyuna sızan seyahat yasası taslağının bir hata olup
+olmadığını sordu; taslak yalnızca son derece kısıtlı bir seyahat serbestisi
+vaat ettiği için sert tepki toplamıştı.[^k7][^k1] Schabowski önce dağınık bir
+cevap verdi, sonra notu hatırlayıp okumaya başladı. Yürürlük sorusunu kimin
+sorduğu kaynakta açık bırakılır: ön sırada oturan Ehrman ile Bild gazetesinden
+Peter Brinkmann'dan biri. Schabowski birkaç saniyelik duraksamanın sonunda o
+cümleyi kurdu; kaynak bunu notun giriş paragrafına dayandırılmış görünen bir
+varsayım diye niteler. Beil yürürlük tarihine bakanlar kurulunun karar
+vereceğini araya sıkıştırmaya çalışırken Schabowski ilgili maddeyi okumayı
+sürdürdü.[^k7] Bir başka gazeteci düzenlemenin Batı Berlin geçitlerini de
+kapsayıp kapsamadığını sorunca notun üçüncü maddesini okudu ve kapsadığını
+doğruladı.[^k7]
 
-Batı haber kuruluşları saniyeler içinde harekete geçti. Alman basın ajansı
+Batı haber kuruluşları dakikalar içinde harekete geçti. Alman basın ajansı
 19.04'te Doğu Almanların iç Alman sınırını derhal geçebileceğini duyurdu;
 ZDF'nin ana haberleri 19.17'de, ARD'nin Tagesschau'su 20.00'de haberi verdi.
 Bu iki kanal 1950'lerin sonundan beri Doğu Almanya'nın neredeyse tamamına
@@ -144,12 +149,12 @@ engelleyen bir damga vurmak, yani onları fiilen vatandaşlıktan çıkarmaktı.
 Bu, Schabowski'nin sözüne dayanarak geçmek isteyen binlerce kişiyi yerinden
 oynatmadı; ölümcül güç kullanma emrini kimse şahsen üstlenmeyince, sayıca çok
 az kalan askerlerin kalabalığı tutacak aracı kalmadı.[^k7] Bornholmer Caddesi
-geçidindeki nöbetçi amirler sonunda baskıya boyun eğip sınırı tümüyle
-açtılar.[^k1] Gece yarısından kısa süre sonra Berlin'deki bütün geçitler
-açıktı ve sınır polisine hiçbir müdahale emri gelmedi.[^k1]
+(Bornholmer Straße) geçidindeki nöbetçi amirler sonunda baskıya boyun eğip
+sınırı tümüyle açtılar.[^k1] Gece yarısından kısa süre sonra Berlin'deki bütün
+geçitler açıktı ve sınır polisine hiçbir müdahale emri gelmedi.[^k1]
 
 Açılış, düzenli bir geçiş rejiminin devreye girmesi değildi. O saatlerde
-Invalidenstrasse geçidinde insanlar hâlâ vize ve zorunlu döviz bozdurma
+Invalidenstraße geçidinde insanlar hâlâ vize ve zorunlu döviz bozdurma
 kuralına tabiydi ve sıraya girip adlarının okunmasını bekliyorlardı; Batı'dan
 gelen kalabalık ise gece bir civarında ters yönde akmaya başladı.[^k5]
 Checkpoint Charlie'de saat iki sularında ilk denetim yirmi saniyede on kişiyi
@@ -159,20 +164,23 @@ sınır tek bir kararla değil, geçit geçit ve saat saat çözüldü.
 ## Duvarın açılışı ile duvarın yıkımı
 
 O gecenin görüntüsü — insanların beton bloğun üstünde durup dans etmesi —
-olaya adını verir; ama duvar o gece yıkılmadı. Perşembe gecesinden pazar
-akşamına kadar iki milyondan fazla Doğu Alman şehrin batı yakasına geçti ve
-akışı taşıyabilmek için duvarda on yeni geçit açıldı.[^k1] Çekiç ve keskiyle
-parça koparanlar ilk akşamdan başladı; bu iş haftalarca sürdü ve yer yer
-resmî olmayan geçitler açtı.[^k7]
+olaya adını verir; ama duvar o gece yıkılmadı. Federal kurumun kendi
+kronolojisine aldığı çağdaş bir dergi röportajına göre perşembe gecesinden
+pazar akşamına kadar iki milyondan fazla Doğu Alman şehrin batı yakasına
+geçti;[^k1] akışı taşıyabilmek için duvarda on yeni geçit açıldı.[^k7][^k1]
+Çekiç ve keskiyle parça koparanlar ilk akşamdan başladı; bu iş haftalarca
+sürdü ve yer yer resmî olmayan geçitler açtı.[^k7]
 
-Brandenburg Kapısı'nın yanındaki bölüm 21 Aralık 1989'da bir vinçle
-kaldırıldı; kapı yirmi sekiz yıl boyunca Doğu ile Batı Berlin arasındaki
-sınırı işaretlemişti.[^k7][^k1] Doğu Alman sınır birlikleri duvarı resmen
-sökmeye 13 Haziran 1990'da Bernauer Caddesi'nden başladı; Berlin ve Brandenburg çevresindeki sınır duvarının
-sökümü Kasım 1991'de, duvarın yıkımı ise 1994'te tamamlandı.[^k7] Yalnızca
-Berlin'de 184 kilometre duvar ve 154 kilometre sınır çiti kaldırıldı, anıt
-olarak altı bölüm bırakıldı.[^k7] Dolayısıyla 9 Kasım bir yıkımın değil bir
-açılışın tarihidir; yıkım sonraki beş yıla yayıldı.
+Brandenburg Kapısı'nın yanındaki bölümü bir vinç 21 Aralık 1989'da kaldırdı;
+kapıdaki geçit ertesi gün açıldı ve Helmut Kohl kapının altından yürüyüp Hans
+Modrow tarafından karşılandı. Duvar o güne dek yirmi sekiz yıl Doğu ile Batı
+Berlin'i ayırmıştı.[^k7][^k1] Doğu Alman sınır birlikleri duvarı resmen
+sökmeye 13 Haziran 1990'da Bernauer Caddesi'nden başladı; Berlin ve Brandenburg
+çevresindeki sınır duvarının sökümü Kasım 1991'de, duvarın yıkımı ise 1994'te
+tamamlandı.[^k7] Yalnızca Berlin'de 184 kilometre duvar ve 154 kilometre
+sınır çiti kaldırıldı, anıt olarak altı bölüm bırakıldı.[^k7] Dolayısıyla
+9 Kasım bir yıkımın değil bir açılışın tarihidir; yıkım sonraki beş yıla
+yayıldı.
 
 ## Kazanın zemini
 
@@ -191,14 +199,19 @@ kamp görünümündeydi: üç bin polis, bunların bin iki yüzü Halle ve
 Neubrandenburg bölgelerinden getirilmişti; beş bölük fabrika savaş grubu ve
 devlet güvenlik bakanlığından özel bir tim de görevdeydi.[^k4] Honecker'in
 eylül sonunda imzaladığı gizli emir yürürlükteydi ve beklenen kargaşanın
-baştan önlenmesini buyuruyordu.[^k4] Yine de tek kurşun atılmadı: kent
-merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler akşam
-saatlerinde geri çekildi.[^k4][^k7] O akşam atılan "we are the people"
-sloganı,[^k4] partinin ve hükümetin sonraki her tereddütlü tavizini
-hızlandıran güce dönüştü. Kurt Masur'un da aralarında olduğu altı tanınmış
-Leipzigli sakin kalma çağrısı yaptı; çağrının o günün barışçı seyrine katkısı
-tartışmasızdır, ama ona erkenden atfedilen belirleyici rol, geri çekilmeyi
-asıl zorlayan kalabalığın yerini tutmaz.[^k4]
+baştan önlenmesini buyuruyordu; o güne özel bir ateş emrinin verilip
+verilmediği ise tanığın kendi ifadesiyle hâlâ açıklığa kavuşmamıştır.[^k4]
+Kaynaklar bu noktada ayrışır: ansiklopedi derlemesi, polis ve ordu
+birimlerine toplananlara karşı güç kullanma izninin verildiğini yazar.[^k7]
+Tek kurşun atılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında
+silahlı birlikler 18.25 sularında geri çekildi.[^k4][^k7] O gün atılan
+"Wir sind das Volk" — biz halkız — sloganı,[^k4][^k2] partinin ve hükümetin
+sonraki her tereddütlü tavizini hızlandıran güce dönüştü.[^k4] Kabare
+sanatçısı Bernd-Lutz Lange, Gewandhaus şefi Kurt Masur ve ilahiyatçı Peter
+Zimmermann'ın yanı sıra SED bölge yönetiminin sekreteri Kurt Meyer'in de
+içinde olduğu altı tanınmış Leipzigli sakin kalma çağrısı yaptı; çağrının o
+günün barışçı seyrine katkısı tartışmasızdır, ama ona erkenden atfedilen
+belirleyici rol, geri çekilmeyi asıl zorlayan kalabalığın yerini tutmaz.[^k4]
 
 Ekim ayı bir hızlanma zinciridir. 4 Ekim'de Prag ve Budapeşte'den kalkıp Doğu
 Alman toprağından geçirilen göç trenleri Dresden garında iç savaşı andıran
@@ -208,7 +221,10 @@ devlet otoritesini gösterişli bir tank sevkiyatıyla yeniden kurma önerisini
 kabul ettiremedikten iki gün sonra görevden alındı.[^k2]
 
 4 Kasım'da Doğu Berlin'de Alexanderplatz'ta toplanan kalabalık, Doğu Almanya
-tarihinin en büyük gösterisi oldu.[^k1] Bu zemine üç etken daha eklenir:
+tarihinin en büyük gösterisi oldu.[^k1] Kaç kişi olduğu ise kesin değildir:
+yüz binlerle sayılan bu topluluk için dolaşan rakamlar bir milyona kadar
+çıkar, daha yeni bir tahmin ise iki yüz bin dolayını verir.[^k2] Bu zemine üç
+etken daha eklenir:
 Gorbaçov'un 1985'ten sonra başlattığı reform ve açılma sürecinin ortak
 devletlere yayılması, Doğu Alman ekonomisinin perişan durumu ve planlı
 ekonominin küresel rekabet baskısına cevap verememesi, bir de parti yönetiminin
@@ -223,7 +239,12 @@ tarafından devrimci biçimde aşıldığı anlatısının bir efsane olduğunu,
 asıl olarak "Aufstand der Normalbürger" yani sıradan yurttaşların ayaklanması
 olduğunu savundu.[^k2] Doğu Almanya araştırmacısı Ilko-Sascha Kowalczuk ise
 altüst oluşun azınlığın eseri olduğunu, sıradan yurttaşların beklediğini
-söyleyerek karşı çıktı.[^k2]
+söyleyerek karşı çıktı.[^k2] Kaynak bu karşıtlığı olduğundan büyük
+göstermemeyi ister: iki görüş öteden beri biliniyordu ve uzaktan bakanın
+sandığından birbirine daha yakındı — Kowalczuk kendi geniş çalışmasında kaçış
+hareketini çöküşün öne çıkan etkeni saymış, toplumun uyanışını muhalefetin
+ötesinde kitlesel gösterilere bağlamıştı. Tartışmayı dikkate değer kılan
+içeriği değil, yürütülüşündeki incitici sertlikti.[^k2]
 
 Üçüncü okuma kazayı merkeze alır. Bu okumaya göre 9 Kasım akşamı duvarı
 umulmadık biçimde çökerten şey ne göçmenler, ne Pazartesi göstericileri, ne de
@@ -289,9 +310,16 @@ Bugün 9 Kasım anması beş yılda bir görkemle yapılıyor ve her seferinde
 büyüyor.[^k2] Buna karşılık anma dilinin kahramanı yok; Nikolaikirche'nin
 papazı Christian Führer de, Leipzig'in ve Bornholmer'in adı bilinen kişileri de
 teşekkür gördü ama kahraman anlatısına dönüşmedi.[^k2] Sloganın kendisi ise el
-değiştirebiliyor: sağ popülist hareketler 1989'un mirasçısı olduklarını ilan
-edip aynı sözü seçim afişlerine taşıdı, eski hak savunucuları bu sahiplenmeye
-açıkça itiraz etti.[^k2]
+değiştirebiliyor. Daha 1989 kışında Leipzig'in pazartesi gösterilerinde *Wir
+sind das Volk* çığlığının yerini *Wir sind ein Volk* — biz tek halkız — sloganı
+aldı; milliyetçi tonlar yükseldikçe pek çok hak savunucusu şaşkınlıkla geri
+çekildi.[^k2] Otuz yıl sonra AfD 1989'un mirasçısı olduğunu ilan edip aynı
+sözü 2019 Brandenburg eyalet seçiminin afişlerine taşıdı; eski hak savunucuları
+bunu bir tarih yalanı sayıp açıkça itiraz etti.[^k2] Sabrow burada tek yönlü
+bir gasp değil, birbirine zıt ama aynı ölçüde efsaneleştirici iki sahiplenme
+girişimi görür: altüst oluşu yalnız muhaliflerin hanesine yazmak da bir
+efsanedir, çünkü kitle gösterilerinin itki gücü olmasa iktidarı adım adım geri
+çekilmeye zorlayan basınç doğmazdı.[^k2]
 
 Duvarın açılışı bu yüzden iki şeyi birden gösterir. Uzun bir yapısal çözülme,
 kendi anını bir kaza aracılığıyla bulabilir; ve o an bir kere yaşandıktan

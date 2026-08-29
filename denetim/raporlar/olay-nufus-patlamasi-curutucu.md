@@ -1,10 +1,10 @@
 # Çürütücü raporu — olay-nufus-patlamasi
-_2026-08-21T07:32:38.374Z_
+_2026-08-29T15:35:36.987Z_
 
-## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
+## İtiraz 1 — [ciddiyet: orta] tek-kaynakli-nedensellik
 
-**Cümle:** "İki serinin karşılaştırılması,[^k1][^k2] 20. yüzyılın ikinci yarısındaki nüfus artışının çatışma kaynaklı kayıpların çok üzerinde olduğunu gösterir. Atlas bu iki seriyi tek bir ora"
+**Cümle:** "Ölüm oranındaki düşüşün tek bir nedeni yok ve nedenlerin ağırlığı hâlâ tartışılıyor. Bulaşıcı hastalıkların denetimi, sonucu belgeye bağlanabilen az sayıdaki bileşenden biridir; aş"
 
-**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
+**Sorun:** Nedensellik iddiası tek kaynağa (k5) dayanıyor.
 
-**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
+**Öneri:** İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla.

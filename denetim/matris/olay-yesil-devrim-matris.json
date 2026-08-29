@@ -1,7 +1,7 @@
 {
   "id": "olay-yesil-devrim",
-  "govde_hash": "b59c20bd8d9f",
-  "commit": "7a16c22",
+  "govde_hash": "a4633dd60e10",
+  "commit": "fdab69c",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -217,7 +217,7 @@
     },
     {
       "iddia_id": "i016",
-      "cumle": "Aynı konuşmada, yapay besinlere bağımlılığın küçük çiftçinin üzerine bindirdiği mali yük, programı yürüten kişinin kendi kaygısı olarak dile getirilir.",
+      "cumle": "Aynı konuşmada, yapay besinlere bağımlılığın küçük çiftçinin üzerine bindirdiği mali yük, uygulayıcının kendi kaygısı olarak dile getirilir.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -227,7 +227,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Konusmada birebir: \"our dependence on artificial nutrients for the cereal plants themselves, thus lightening the financial burden that now oppresses the small farmer and handicaps his efforts to participate fully in the new technologies.\" HAKEM DUZELTMESI: \"programi yuruten kisi\" nitelemesi i009 ile ayni nedenle (kaynak yoneticilik bildirmez) \"uygulayici\" olarak degistirildi."
     },
     {
       "iddia_id": "i017",
@@ -661,7 +661,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "HAKEM EKLEMESI: kaynagin kendisi hektar basina verim ile toplam uretimi ayirir — \"the national average has risen from 750 kilos per hectare to only slightly less than 3,000 kilos during the past harvest, approximately a fourfold increase. During the same period, total production has increased sevenfold.\" Bu ayrim metinde yoktu; iki olcunun karistirilmasina karsi kaynagin kendi ornegi eklendi."
+      "inceleme": "HAKEM EKLEMESI: kaynagin kendisi hektar basina verim ile toplam uretimi ayirir — \"the national average has risen from 750 kilos per hectare to only slightly less than 3,000 kilos during the past harvest, approximately a fourfold increase. During the same period, total production has increased sevenfold.\" Bu ayrim metinde yoktu; iki olcunun karistirilmasina karsi kaynagin kendi ornegi eklendi. CAPRAZ KONTROL: konusmanin \"slightly less than 3,000 kilos\" degeri (1970 hasadi) OWID Mexico 1970 = 3,0202 t/ha ile ortusuyor; iki bagimsiz kayit ayni noktayi veriyor."
     },
     {
       "iddia_id": "i048",
