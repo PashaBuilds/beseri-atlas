@@ -1,15 +1,15 @@
 {
   "id": "dusunur-han-feizi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:52.626Z",
+  "zaman": "2026-08-29T19:34:17.801Z",
   "govde_hash": "cb43a3376ff3",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
       "iddia": "Han Feizi, hem bir kişinin hem de o kişiye atfedilen metnin adıdır.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Feizi"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",

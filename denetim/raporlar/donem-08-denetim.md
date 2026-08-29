@@ -1,9 +1,9 @@
 ## donem-08
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:41.517Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:50.636Z_
 
 - [OK]      k1 → "Kara Ölüm, Avrupa'da 1346'dan 1353'e kadar süren bir veba pandemisiydi ve insanlık tarihinin en ölümcül pandem…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Salgının tahmini ölü sayısı 25 ile 50 milyon arasındadır."
-- [ATOMSUZ] k1 → "yüzyıl ortasındaki bu olguyu diğer bulaşıcı hastalıklardan ayırmak için ilk salgın ifadesi kullanıldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Çağdaşları olayı salgın ya da büyük salgın, veba ya da büyük ölüm diye adlandırdı; pandeminin ardından, 14. yü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Mors nigra yani kara ölüm ifadesi 1350'de Belçikalı gökbilimci Simon de Covino tarafından bir şiirde kullanıld…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Aynı yüzyıllarda Osmanlılar, Batı Anadolu'nun kuzeyinde bir Türkmen beyliği olarak ortaya çıkıp üç kıtaya yayı…"
 - [OK]      k1 → "Salgının coğrafyası Avrasya ve Kuzey Afrika olarak tanımlanır; Batı Asya ve Kuzey Afrika salgını ayrı bir başl…" — 1 atom doğrulandı; 3 ad ölçülemedi

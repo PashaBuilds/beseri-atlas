@@ -1,9 +1,9 @@
 {
   "id": "olay-vietnam-savasi",
   "gecis": 2,
-  "zaman": "2026-08-29T15:53:15.971Z",
+  "zaman": "2026-08-29T19:34:05.325Z",
   "govde_hash": "511619a53bb2",
-  "commit": "9181554",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k2",
@@ -157,9 +157,9 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "Hanyok'un vardığı sonuç şudur: 2 Ağustos'ta bir Amerikan muhribine yönelik saldırı — kuşkulu koşullarda da olsa — gerçekten olmuştur, ama 4 Ağustos 1964'te ikin",
+      "iddia": "Kurum tarihçisi Robert J. Hanyok'un vardığı sonuç şudur: 2 Ağustos'ta bir Amerikan muhribine yönelik saldırı — kuşkulu koşullarda da olsa — gerçekten olmuştur, ",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k5",

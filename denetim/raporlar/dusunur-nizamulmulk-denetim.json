@@ -1,9 +1,9 @@
 {
   "id": "dusunur-nizamulmulk",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:53.365Z",
+  "zaman": "2026-08-29T19:34:20.318Z",
   "govde_hash": "c63083137efb",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -146,14 +146,14 @@
     {
       "anahtar": "k2",
       "iddia": "Bu dosya üç kaynağa dayanır: kişi üzerine bir madde, eserin ait olduğu tür üzerine ayrı bir madde, ve eserin İngilizce çevirisi.",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: İngilizce"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
       "iddia": "Bu dosya üç kaynağa dayanır: kişi üzerine bir madde, eserin ait olduğu tür üzerine ayrı bir madde, ve eserin İngilizce çevirisi.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngilizce"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",

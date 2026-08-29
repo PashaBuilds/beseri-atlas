@@ -1,7 +1,7 @@
 ## kavram-milliyetcilik
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.337Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:24.251Z_
 
-- [ATOMSUZ] k1 → "yüzyılın başına yerleştirdiğini yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kaynak, tarih bölümünün altında kavramın ortaya çıkışının tarihlendirilmesine ayrı bir alt başlık ayırır ve ar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak, 1772'de yayımlanan bir dil kökeni incelemesinde ortak dilin rolünün vurgulandığını ve yazarın milliyet…"
 - [ATOMSUZ] k1 → "Bir kavramın kökeninin bir dil incelemesine bağlanması, atlasın terim kilidi kapısının kavram düzeyindeki karş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak türler başlığı altında şunları sıralar: sömürgecilik karşıtı, yurttaş ve liberal, kreol, etnik, iktisad…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

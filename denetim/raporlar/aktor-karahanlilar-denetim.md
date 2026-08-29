@@ -1,5 +1,5 @@
 ## aktor-karahanlilar
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.940Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:11.455Z_
 
 - [OK]      k1 → "Karahanlılar, Mâverâünnehir ile Doğu Türkistan arasındaki bölgede hüküm süren ve merkezlerini Balasagun ile Kâ…"
 - [ATOMSUZ] k1 → "Hanedanın atlas açısından ayırt edici yanı siyasi genişliği değil, yönettiği dönemde üretilen ve bugüne ulaşan…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -16,16 +16,16 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.940Z_
 - [ATOMSUZ] k2 → "Metin, soyut ilkeleri karşılıklı konuşan kişiler üzerinden işler; her kişi bir niteliği temsil eder ve tartışm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Bu biçim, eserin ne olduğunu da belirler: bir yasa derlemesi ya da tarih kaydı değil, yöneticiye yönelik bir ö…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Eserin Türkçe yazılmış olması, dönemin yazı dili tercihleri açısından ayrıca kaydedilir."
-- [ATOMSUZ] k2 → "Eserin Türkçe yazılmış olması, dönemin yazı dili tercihleri açısından ayrıca kaydedilir." — programatik olarak ölçülemedi (ad karşılığı yok): Türkçe
+- [OK]      k2 → "Eserin Türkçe yazılmış olması, dönemin yazı dili tercihleri açısından ayrıca kaydedilir."
 - [OK]      k1 → "İkinci metin bir sözlüktür ve Türk lehçelerini Arapça konuşan bir okur için derler."
-- [ATOMSUZ] k3 → "İkinci metin bir sözlüktür ve Türk lehçelerini Arapça konuşan bir okur için derler." — programatik olarak ölçülemedi (ad karşılığı yok): Türk, Arapça
+- [OK]      k3 → "İkinci metin bir sözlüktür ve Türk lehçelerini Arapça konuşan bir okur için derler."
 - [ATOMSUZ] k3 → "Bir sözlüğün atlas açısından değeri, kelime listesi olmasında değil, kelimeleri örnekleyen malzemede yatar: at…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Eser ayrıca lehçeleri birbirinden ayırır ve hangi biçimin hangi toplulukta kullanıldığını kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Sözlüğün bir harita içermesi de kayda değer." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Hanedanın İslam'ı benimsemesi, bölgedeki siyasi ve kültürel dönüşümün işaretlerinden biri olarak kaydedilir."
 - [OK]      k1 → "Bu benimseme, yukarıdaki iki metnin de arka planıdır: ikisi de İslamî çerçeve içinde, ama Türkçe yazılmıştır."
-- [ATOMSUZ] k2 → "Bu benimseme, yukarıdaki iki metnin de arka planıdır: ikisi de İslamî çerçeve içinde, ama Türkçe yazılmıştır." — programatik olarak ölçülemedi (ad karşılığı yok): Türkçe
-- [ATOMSUZ] k3 → "Bu benimseme, yukarıdaki iki metnin de arka planıdır: ikisi de İslamî çerçeve içinde, ama Türkçe yazılmıştır." — programatik olarak ölçülemedi (ad karşılığı yok): Türkçe
+- [OK]      k2 → "Bu benimseme, yukarıdaki iki metnin de arka planıdır: ikisi de İslamî çerçeve içinde, ama Türkçe yazılmıştır."
+- [OK]      k3 → "Bu benimseme, yukarıdaki iki metnin de arka planıdır: ikisi de İslamî çerçeve içinde, ama Türkçe yazılmıştır."
 - [ATOMSUZ] k2 → "Din değişimini kültürel kopuş olarak okumak, elimizdeki metinlerin varlığıyla çelişir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Din değişimini kültürel kopuş olarak okumak, elimizdeki metinlerin varlığıyla çelişir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Karahanlıların kökeni ve hangi Türk topluluğundan geldiği tartışmalıdır; kaynaklarda farklı görüşler birlikte …"
@@ -33,7 +33,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.940Z_
 - [ATOMSUZ] k1 → "Devralma, kurumların tamamen değişmesi anlamına gelmemiştir; idari yapının önemli bölümü sürmüştür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Sonraki yüzyıllarda hanedanın doğu ve batı kolları farklı siyasi bağımlılıklar altına girmiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir siyasi birimin bölünerek devam etmesi, atlasın başlangıç ve bitiş tarihi vermesini zorlaştırır; künyede ve…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ISARET]  k1 → "Bu dosya üç kaynağa dayanır: hanedan üzerine bir ansiklopedi maddesi ve dönemin iki eserinin İngilizce çeviril…" — özel isim kaynakta bulunamadı: İngilizce
+- [ATOMSUZ] k1 → "Bu dosya üç kaynağa dayanır: hanedan üzerine bir ansiklopedi maddesi ve dönemin iki eserinin İngilizce çeviril…" — programatik olarak ölçülemedi (ad karşılığı yok): İngilizce
 - [ATOMSUZ] k2 → "Bu dosya üç kaynağa dayanır: hanedan üzerine bir ansiklopedi maddesi ve dönemin iki eserinin İngilizce çeviril…" — programatik olarak ölçülemedi (ad karşılığı yok): İngilizce
 - [ATOMSUZ] k3 → "Bu dosya üç kaynağa dayanır: hanedan üzerine bir ansiklopedi maddesi ve dönemin iki eserinin İngilizce çeviril…" — programatik olarak ölçülemedi (ad karşılığı yok): İngilizce
 - [ATOMSUZ] k2 → "Esere yapılacak atıflarda hangi çevirinin kullanıldığı belirtilmelidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -61,4 +61,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.940Z_
 - [ATOMSUZ] k2 → "Bu dosyanın bağlandığı iki metnin nasıl okunacağı konusunda bir uyarı gereklidir: ikisi de çeviridir ve çeviri…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Bu dosyanın bağlandığı iki metnin nasıl okunacağı konusunda bir uyarı gereklidir: ikisi de çeviridir ve çeviri…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 10 OK · 1 ISARET · 0 HATA · 48 ATOMSUZ
+**Özet:** 14 OK · 0 ISARET · 0 HATA · 45 ATOMSUZ

@@ -1,19 +1,19 @@
 {
   "id": "dusunur-du-bois",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:52.388Z",
+  "zaman": "2026-08-29T19:34:17.317Z",
   "govde_hash": "f87ac77acf90",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Du Bois, Amerika Birleşik Devletleri'nde doğmuş, Almanya'da ve Amerika'da eğitim görmüş ve akademik kariyeriyle siyasi örgütlenmeyi bir arada yürütmüş bir düşün",
+      "iddia": "W. E. B. Du Bois, Amerika Birleşik Devletleri'nde doğmuş, Almanya'da ve Amerika'da eğitim görmüş ve akademik kariyeriyle siyasi örgütlenmeyi bir arada yürütmüş ",
       "durum": "OK",
       "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
-      "iddia": "Du Bois, Amerika Birleşik Devletleri'nde doğmuş, Almanya'da ve Amerika'da eğitim görmüş ve akademik kariyeriyle siyasi örgütlenmeyi bir arada yürütmüş bir düşün",
+      "iddia": "W. E. B. Du Bois, Amerika Birleşik Devletleri'nde doğmuş, Almanya'da ve Amerika'da eğitim görmüş ve akademik kariyeriyle siyasi örgütlenmeyi bir arada yürütmüş ",
       "durum": "OK",
       "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },

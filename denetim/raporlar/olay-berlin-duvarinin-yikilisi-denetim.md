@@ -1,5 +1,5 @@
 ## olay-berlin-duvarinin-yikilisi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T15:42:54.503Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:56.341Z_
 
 - [OK]      k1 → "İktidardaki Sosyalist Birlik Partisi'nin merkez komitesi bir gün önce üç günlük oturumuna başlamış, oturumun a…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "Yeni seyahat düzenlemesinin ertesi gün yürürlüğe girmesi planlanıyordu; aradaki saatler bütün sınır karakollar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

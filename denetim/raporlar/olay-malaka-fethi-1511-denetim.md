@@ -1,8 +1,8 @@
 ## olay-malaka-fethi-1511
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:46.161Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:01.736Z_
 
-- [ISARET]  k1 → "1511 yazında bir Avrupa donanması, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan boğazın kıyısındak…" — özel isim kaynakta bulunamadı: Okyanusu
-- [OK]      k3 → "1511 yazında bir Avrupa donanması, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan boğazın kıyısındak…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "1511 yazında bir Avrupa donanması, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan boğazın kıyısındak…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "1511 yazında bir Avrupa donanması, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan boğazın kıyısındak…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k3 → "Olayın atlas açısından ayırt edici yanı, hedefin bir toprak değil bir geçit olmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bu hedef seçimi, dosyanın merkezindeki soruyu doğurur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Limanın değeri konumundan geliyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -59,4 +59,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:46.161Z_
 - [ATOMSUZ] k3 → "Olayın nasıl adlandırılacağı için dosyası okunmalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Aynı düzenin kuzeybatı ucundaki bir başka liman devleti için dosyası okunabilir; orada donanma kurmama tercihi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 2 OK · 1 ISARET · 0 HATA · 54 ATOMSUZ
+**Özet:** 3 OK · 0 ISARET · 0 HATA · 54 ATOMSUZ

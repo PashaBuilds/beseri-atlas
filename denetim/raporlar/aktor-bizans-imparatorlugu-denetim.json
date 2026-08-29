@@ -1,9 +1,9 @@
 {
   "id": "aktor-bizans-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:48.466Z",
+  "zaman": "2026-08-29T19:34:07.901Z",
   "govde_hash": "b88852fb90f0",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -13,9 +13,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıldaki çöküşünden sonra ayakta kalmış ve Konstantinopolis'in 1453'te Osmanlı İmparatorluğu'na düşmesine kadar sürmüştür.",
+      "iddia": "Kaynağın kaydettiği ayrım şudur — devlet, Batı Roma İmparatorluğu'nun 5. yüzyıldaki çöküşünden sonra ayakta kalmış ve Konstantinopolis'in 1453'te Osmanlı İmpara",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
@@ -51,7 +51,7 @@
       "anahtar": "k3",
       "iddia": "Rakibin 651'de sona ermesi Bizans'ın rahatlaması anlamına gelmedi; kayıp verileri en dip noktasına o tarihten sonra, 775'te ulaşır.",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -61,9 +61,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Iustinianos 527–565 ve Herakleios 610–641 arasında hüküm sürer.",
+      "iddia": "Theodosius 408–450, I. Iustinianos 527–565 ve Herakleios 610–641 arasında hüküm sürer.",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k4",

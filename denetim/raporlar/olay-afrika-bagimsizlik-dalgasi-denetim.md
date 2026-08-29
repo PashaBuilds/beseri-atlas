@@ -1,5 +1,5 @@
 ## olay-afrika-bagimsizlik-dalgasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:43.522Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:54.566Z_
 
 - [OK]      k1 → "Kaynak bir bağımsızlık çizelgesi tutar: 1 Ocak 1956, 2 ve 20 Mart 1956, 6 Mart 1957, 2 Ekim 1958 ve 1960 yılı …" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Fas satırında altı ayrı tarih sıralanır: 2 Mart 1956, 7 Nisan 1956, 10 Nisan 1958, 4 Ocak 1969, 14 Kasım 1975 …" — 3 atom doğrulandı; 3 ad ölçülemedi

@@ -1,15 +1,15 @@
 {
   "id": "dusunur-hegel",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:52.663Z",
+  "zaman": "2026-08-29T19:34:17.873Z",
   "govde_hash": "81d36d59d9c2",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "von Schelling ile birlikte anılan bir düşünür olarak kaydeder; 1770'te Stuttgart'ta doğduğu ve 1788-1793 arasında Tübingen'de önce felsefe sonra ilahiyat okuduğ",
+      "iddia": "Kaynak onu 1770-1831 arasında yaşamış, J. G. Fichte ve en azından erken eserlerinde F. W. J. von Schelling ile birlikte anılan bir düşünür olarak kaydeder; 1770",
       "durum": "OK",
-      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "8 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

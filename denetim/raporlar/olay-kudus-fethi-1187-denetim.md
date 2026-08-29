@@ -1,5 +1,5 @@
 ## olay-kudus-fethi-1187
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:46.049Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:01.529Z_
 
 - [OK]      k1 → "Kuşatma 20 Eylül - 2 Ekim 1187 arasında, yani bir hafta beş gün sürdü; yeri Kudüs, sonucu Eyyûbî zaferidir." — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kaynak karşı tarafta Kudüs Krallığı'nın yanı sıra Hospitalier Şövalyeleri, Tapınak Şövalyeleri, Aziz Lazarus T…" — 2 atom doğrulandı; 2 ad ölçülemedi

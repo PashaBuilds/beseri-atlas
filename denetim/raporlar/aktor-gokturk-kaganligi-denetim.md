@@ -1,5 +1,5 @@
 ## aktor-gokturk-kaganligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.183Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:09.376Z_
 
 - [OK]      k1 → "Kağanlık 552'de kuruldu ve 603'te sona erdi; ilk kağan Bumin Kağan'dır, son kağan 599-603 arasında Tardu'dur." — 6 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak kuruluştan önce bir olay kaydeder: Bumin Kağan 542'de Juan-juan Kağanlığı'na karşı ayaklandı; kuruluş 5…" — 3 atom doğrulandı; 3 ad ölçülemedi
@@ -10,7 +10,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.183Z_
 - [ATOMSUZ] k1 → "Aynı yılda hem yeniden birleşme hem bölünme kaydedilmesi, merkezî otoritenin o noktada yıllık ölçekte gidip ge…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Ortak diller Eski Türkçe (resmî, hanedan ve gündelik), Soğdca (resmî, diplomasi, sikke) ve Juan-juan dili (res…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "Diplomasi ve sikke dilinin hanedan dilinden ayrı olması, yönetimin yazılı işlerini kendi dilinden başka bir di…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "yüzyıl için nüfus 3 milyon."
+- [OK]      k1 → "Kaynak iki sayı verir: 557 için alan 6.000.000 km², 6. yüzyıl için nüfus 3 milyon."
 - [OK]      k3 → "Uzun dönemli seride dünya nüfusu MS 600 için yaklaşık 271,6 milyon olarak verilir."
 - [ATOMSUZ] k1 → "Bu iki nüfus sayısı yan yana konabilir çünkü ikisi de aynı türden ölçümdür; atlasın alan sayılarıyla nüfus pay…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Bu iki nüfus sayısı yan yana konabilir çünkü ikisi de aynı türden ölçümdür; atlasın alan sayılarıyla nüfus pay…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

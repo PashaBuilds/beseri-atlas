@@ -1,9 +1,9 @@
 {
   "id": "tartisma-iklim-ve-cokus",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:57.364Z",
+  "zaman": "2026-08-29T19:34:29.539Z",
   "govde_hash": "60fd8c377f3a",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -57,7 +57,7 @@
       "anahtar": "k1",
       "iddia": "1993'te Science'ta yayımlanan ve Kuzey Mezopotamya kazılarına dayanan çalışma, Akkad İmparatorluğu'nun dağılmasını ani bir kuraklığın kaydına bağladı; adı o gün",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k2",
@@ -81,7 +81,7 @@
       "anahtar": "k1",
       "iddia": "MÖ 2200 dolaylarında başlayan bu kurak evre bugün 4.2 kiloyıl olayı olarak adlandırılıyor ve yalnızca Akkad'la değil, Mısır Eski Krallığı'nın ve Liangzhu kültür",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k2",
@@ -159,7 +159,7 @@
       "anahtar": "k1",
       "iddia": "Göl ve deniz çökelleri ile polen dizileri bitki örtüsünü ve yağış düzenini izler: Akkad tartışmasındaki derin deniz karotu gibi, Doğu Çin'den alınan ve 4200 yıl",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k2",
@@ -170,8 +170,8 @@
     {
       "anahtar": "k9",
       "iddia": "Ladurie'nin kullandığı bağ bozumu tarihleri kilise ve kasaba kayıtlarından derlenmişti; Parker'ın on yedinci yüzyıl anlatısı da dönemin yazışma ve vakayinameler",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Parker"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",

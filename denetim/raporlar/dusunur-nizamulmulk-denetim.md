@@ -1,5 +1,5 @@
 ## dusunur-nizamulmulk
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.365Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:20.318Z_
 
 - [OK]      k1 → "Nizâmülmülk, Selçuklu devletinde uzun yıllar vezirlik yapmış bir devlet adamıdır."
 - [ATOMSUZ] k1 → "Atlasın düşünür katmanında yer almasının sebebi idari görevi değil, yazdığı eserdir: yönetme üzerine kaleme al…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -24,8 +24,8 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.365Z_
 - [ATOMSUZ] k1 → ", Nizâmülmülk'ün kurduğu düzen içinde görev yapmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Aynı bağ, dosyasında anlatılan felsefe geleneğiyle Gazâlî'nin itirazı arasındaki tartışmanın hangi kurumsal or…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Bu dosya üç kaynağa dayanır: kişi üzerine bir madde, eserin ait olduğu tür üzerine ayrı bir madde, ve eserin İ…"
-- [ISARET]  k2 → "Bu dosya üç kaynağa dayanır: kişi üzerine bir madde, eserin ait olduğu tür üzerine ayrı bir madde, ve eserin İ…" — özel isim kaynakta bulunamadı: İngilizce
-- [ATOMSUZ] k3 → "Bu dosya üç kaynağa dayanır: kişi üzerine bir madde, eserin ait olduğu tür üzerine ayrı bir madde, ve eserin İ…" — programatik olarak ölçülemedi (ad karşılığı yok): İngilizce
+- [OK]      k2 → "Bu dosya üç kaynağa dayanır: kişi üzerine bir madde, eserin ait olduğu tür üzerine ayrı bir madde, ve eserin İ…"
+- [OK]      k3 → "Bu dosya üç kaynağa dayanır: kişi üzerine bir madde, eserin ait olduğu tür üzerine ayrı bir madde, ve eserin İ…"
 - [ATOMSUZ] k3 → "Özgün metne değil, bir aktarıma bağlanılmıştır; esere yapılacak atıflarda hangi çevirinin ve hangi bölüm numar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Eserin farklı yazma nüshaları arasında bölüm sayısı ve içerik bakımından farklar bulunduğu kaydedilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Vezirlik dönemindeki siyasi olaylar ayrıntılı olarak işlenmez; Selçuklu devlet yapısı ayrı bir aktör dosyası g…"
@@ -49,4 +49,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.365Z_
 - [ATOMSUZ] k3 → "Bu dosya eserin ne yaptığını anlatır, ne dediğini değil; bölümlerin içeriği için metnin kendisine inilmelidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Aynı uyarı bu dosyanın karşılaştırdığı öteki metin için de geçerlidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 5 OK · 1 ISARET · 0 HATA · 41 ATOMSUZ
+**Özet:** 7 OK · 0 ISARET · 0 HATA · 40 ATOMSUZ

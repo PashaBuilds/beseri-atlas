@@ -1,9 +1,9 @@
 {
   "id": "kavram-ilkel-birikim",
   "gecis": 2,
-  "zaman": "2026-08-29T19:22:36.054Z",
+  "zaman": "2026-08-29T19:34:23.092Z",
   "govde_hash": "2b4bc7d01aa1",
-  "commit": "6d7ef68",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -127,9 +127,9 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Anderson'ın ticaret yıllıklarından aktardığına göre İngiltere, Utrecht Barışı'nda İspanyollardan Asiento Antlaşması'yla köle ticareti ayrıcalığını kopardı ve 17",
+      "iddia": "Marx'ın A. Anderson'ın ticaret yıllıklarından aktardığına göre İngiltere, Utrecht Barışı'nda İspanyollardan Asiento Antlaşması'yla köle ticareti ayrıcalığını ko",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -169,7 +169,7 @@
     },
     {
       "anahtar": "k7",
-      "iddia": "Chambers'ın 1953'te The Economic History Review'da yayımlanan yazısının başlığı doğrudan bu bağlantıyı sorar.",
+      "iddia": "Çitlemenin sanayiye emek arzı sağlayıp sağlamadığı iktisat tarihçiliğinde ayrı bir tartışma konusudur; J. D. Chambers'ın 1953'te The Economic History Review'da ",
       "durum": "OK",
       "not": ""
     },

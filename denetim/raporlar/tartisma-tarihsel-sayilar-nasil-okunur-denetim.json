@@ -1,15 +1,15 @@
 {
   "id": "tartisma-tarihsel-sayilar-nasil-okunur",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:58.596Z",
+  "zaman": "2026-08-29T19:34:33.086Z",
   "govde_hash": "af5656af70d5",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k2",
       "iddia": "Herodotos, Xerxes'in Yunanistan üzerine yürüyen ordusunun nasıl sayıldığını da anlatır: on bin adam bir yere toplanmış, olabildiğince sıkıştırılmış, çevrelerine",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Xerxes, Yunanistan"
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
@@ -19,7 +19,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Bury kara kuvvetlerini 180.000 dolayında görür, Munro ile Macan kabaca 300.000'e varır, kimi hesap 100.000'in altına iner, yüksek rakamları savunan hat ise 250.",
+      "iddia": "Yirminci yüzyıldan bu yana aynı ordu için önerilen rakamlar bambaşka bir bantta durur: J. B. Bury kara kuvvetlerini 180.000 dolayında görür, Munro ile Macan kab",
       "durum": "OK",
       "not": ""
     },
@@ -33,13 +33,13 @@
       "anahtar": "k1",
       "iddia": "Aynı sefer için çağdaş sayılan başka rakamlar da dolaşımdadır: şair Simonides dört milyondan söz eder, Ktesias ise Doriskos'ta toplanan ordunun toplamını 800.00",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
       "iddia": "Kara ordusu toplamı yuvarlak bir rakamdır; buna karşılık genel toplam, hizmetliler savaşanlarla eşit sayılarak 5.283.220 gibi son basamağına kadar yazılmış bir ",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k5",
@@ -61,9 +61,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Bury aynı rakamları büsbütün masalsı sayar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Ardından gelen kuşakta J. B. Bury aynı rakamları büsbütün masalsı sayar.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -75,7 +75,7 @@
       "anahtar": "k4",
       "iddia": "Herodotos'un toplamını 5.100.000 olarak aktarır ve şunu hesaplar: dağlar arasındaki çoğu kez dar yollardan ilerleyen böyle bir kolonun son adamları, ilk adamlar",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k4",

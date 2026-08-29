@@ -1,9 +1,9 @@
 {
   "id": "donem-01",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:40.670Z",
+  "zaman": "2026-08-29T19:33:48.799Z",
   "govde_hash": "285764201450",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -27,7 +27,7 @@
       "anahtar": "k1",
       "iddia": "Doğu Bereketli Hilal'de, İran'daki Choga Golan'da yabani bitkilerin ekimine dair kanıt günümüzden 12.000 yıl öncesine tarihlenir; evcilleştirilmiş gernik buğday",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -51,7 +51,7 @@
       "anahtar": "k1",
       "iddia": "Mısır'da ekim kanıtı günümüzden yaklaşık 7.000 yıl öncesine uzanır, ama bu bir \"yalancı şafak\" olarak görünür: yerleşmeler sonradan terk edilmiş, kalıcı tarım 6",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -97,7 +97,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı.",
+      "iddia": "\"Neolitik devrim\" terimini V. Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı.",
       "durum": "OK",
       "not": ""
     },

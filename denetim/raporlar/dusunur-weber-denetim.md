@@ -1,5 +1,5 @@
 ## dusunur-weber
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.672Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:20.874Z_
 
 - [OK]      k1 → "Kaynak, yöntem bölümünün altında dört alt başlık tutar: Verstehen, yöntemsel bireycilik, ideal tip ve değerden…"
 - [OK]      k1 → "Kaynak yöntem bölümünü kuramlar bölümünden önce yerleştirir; kuramlar bölümünde akılcılaşma, büyübozumu, Prote…"

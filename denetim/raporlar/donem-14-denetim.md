@@ -1,5 +1,5 @@
 ## donem-14
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:42.573Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:52.691Z_
 
 - [OK]      k1 → "Soğuk Savaş, 1947 ile 1991 arasında ABD ile SSCB arasındaki jeopolitik rekabeti anlatır ve kırk dört yıl dokuz…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Kıta iki askerî bloka bölündü; NATO ve Varşova Paktı devletlerinin 1988'deki dağılımı dönemin standart haritas…" — 2 atom doğrulandı; 2 ad ölçülemedi
@@ -10,7 +10,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:42.573Z_
 - [OK]      k2 → "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır."
 - [ATOMSUZ] k1 → "NATO ve Varşova Paktı'nın karşılıklı dizilişi bu yapının kurumsal ifadesidir." — programatik olarak ölçülemedi (ad karşılığı yok): Varşova, Paktı
 - [ATOMSUZ] k1 → "Marshall Planı örneğinde görüldüğü gibi, hâkim güç, müttefiklerini fetihle değil yeniden inşa finansmanıyla ba…" — programatik olarak ölçülemedi (ad karşılığı yok): Planı
-- [OK]      k3 → "İkinci Dünya Savaşı'ndan sonraki yıllarda çatışmalarda birkaç milyon insan öldü; 1950'lerde çok daha düşük düz…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "İkinci Dünya Savaşı'ndan sonraki yıllarda çatışmalarda birkaç milyon insan öldü; 1950'lerde çok daha düşük düz…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k3 → "Çatışmaların iki dünya savaşı ve Soğuk Savaş'ın ilk yıllarında zirve yapması, dönemin rekabetinin doğrudan çar…" — programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş
 - [ATOMSUZ] k1 → "Başlangıç, büyük savaşın bitişi olarak alınmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "İki tarih de tartışmasız değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

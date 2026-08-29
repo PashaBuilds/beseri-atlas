@@ -1,15 +1,15 @@
 {
   "id": "kavram-topyekun-savas",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:55.978Z",
+  "zaman": "2026-08-29T19:34:25.408Z",
   "govde_hash": "39098148f7ed",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl, Birinci Dünya Savaşı ve İkinci Dünya Savaşı alt başlıklarına ayrılır.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Birinci, Dünya, Savaşı, İkinci"
+      "iddia": "Kaynak bölümlerini sıralar: köken bilgisi, arka plan, özellikler ve tarih; tarih bölümü Orta Çağ, 18. ve 19. yüzyıllar, 20. yüzyıl, Birinci Dünya Savaşı ve İkin",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

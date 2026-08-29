@@ -1,5 +1,5 @@
 ## aktor-portekiz-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:51.063Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:14.114Z_
 
 - [ATOMSUZ] k1 → "Portekiz İmparatorluğu, geniş toprak parçaları yönetmek üzere kurulmadı." — programatik olarak ölçülemedi (ad karşılığı yok): İmparatorluğu
 - [ATOMSUZ] k3 → "Bu, dönemin diğer imparatorluklarından ayrı bir biçimdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

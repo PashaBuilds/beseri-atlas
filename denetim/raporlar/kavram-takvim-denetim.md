@@ -1,5 +1,5 @@
 ## kavram-takvim
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.731Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:24.924Z_
 
 - [ATOMSUZ] k2 → "Atlas her olayı tek bir ölçekle tarihler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Tek ölçek kullanmak tarafsız bir işlem değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,8 +1,8 @@
 ## aktor-uygur-kaganligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:51.958Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:16.411Z_
 
 - [OK]      k1 → "Uygur Kağanlığı, önceki bozkır düzeninin dağılmasından sonra aynı vadide kurulan siyasi birimdir."
-- [ATOMSUZ] k4 → "Uygur Kağanlığı, önceki bozkır düzeninin dağılmasından sonra aynı vadide kurulan siyasi birimdir." — programatik olarak ölçülemedi (ad karşılığı yok): Kağanlığı
+- [OK]      k4 → "Uygur Kağanlığı, önceki bozkır düzeninin dağılmasından sonra aynı vadide kurulan siyasi birimdir."
 - [ATOMSUZ] k1 → "Bu dosyanın atlas açısından ayırt edici yanı, bir siyasi düzenin bozkır biçiminden yerleşik biçime geçişini te…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "dosyası önceki düzeni, dosyası ise güneydeki yerleşik komşuyu anlatır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k4 → "dosyası önceki düzeni, dosyası ise güneydeki yerleşik komşuyu anlatır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -66,4 +66,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:51.958Z_
 - [ATOMSUZ] k4 → "Bir bölge dışarıdan yazılmış kayıtlarla anlatıldığında, o kayıtların neyi kayda değer bulduğu da anlatıya geçe…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Kendi kaydı da bir yönetimin kaydıdır ve kendi taraflılığını taşır; iki kaydın yan yana durması, tek bir kayda…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 2 OK · 0 ISARET · 0 HATA · 62 ATOMSUZ
+**Özet:** 3 OK · 0 ISARET · 0 HATA · 61 ATOMSUZ

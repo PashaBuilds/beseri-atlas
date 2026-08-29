@@ -1,9 +1,9 @@
 {
   "id": "aktor-hitit-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:49.538Z",
+  "zaman": "2026-08-29T19:34:10.108Z",
   "govde_hash": "49059315530b",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -55,9 +55,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıla dek varlığını sürdürdü.",
+      "iddia": "MÖ 12. yüzyılın sonlarında, Geç Tunç Çağı çöküşü sırasında Hititler birkaç küçük bağımsız devlete bölündü; bunlardan bazıları Yeni Asur İmparatorluğu'na yenik d",
       "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Geç, Tunç, Çağı, Hititler"
     },
     {
       "anahtar": "k2",
@@ -74,8 +74,8 @@
     {
       "anahtar": "k1",
       "iddia": "Hitit nüfusu için verilen 200.000'in üzeri tahmini ile bu değerler farklı serilerden gelir; ikisi arasında bir yüzde hesaplamak, dönem içi karşılaştırılabilirli",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

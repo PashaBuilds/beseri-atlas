@@ -1,5 +1,5 @@
 ## olay-kore-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T15:47:33.880Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:01.372Z_
 
 - [OK]      k6 → "Kore yarımadası, Japon sömürge yönetiminin 1945 Ağustosunda aniden çökmesiyle iki işgal bölgesine ayrıldı; böl…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Beş yıl sonra, 25 Haziran 1950 sabahı kuzeydeki ordu bu çizgiyi geçti; Güvenlik Konseyi aynı gün toplanıp sald…" — 1 atom doğrulandı; 3 ad ölçülemedi

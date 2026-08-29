@@ -1,5 +1,5 @@
 ## aktor-sogdlular
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:51.529Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:15.266Z_
 
 - [OK]      k1 → "Soğdlular, Orta Asya'da iki büyük nehir arasındaki vahalar kuşağında yaşayan ve kıtalar arası kara ticaretini …"
 - [OK]      k4 → "Soğdlular, Orta Asya'da iki büyük nehir arasındaki vahalar kuşağında yaşayan ve kıtalar arası kara ticaretini …"

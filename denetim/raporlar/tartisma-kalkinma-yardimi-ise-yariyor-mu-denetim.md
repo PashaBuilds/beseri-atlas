@@ -1,5 +1,5 @@
 ## tartisma-kalkinma-yardimi-ise-yariyor-mu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.604Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:30.051Z_
 
 - [OK]      k12 → "Ölçek küçük değildir; alıcı ülkelere ulaşan net resmî kalkınma yardımı, sabit dolarla 1960'ta yaklaşık 34 mily…"
 - [OK]      k12 → "Seri düz de yükselmez: 1990'da 90 milyara yaklaşmış, 2005'te 123 milyarı geçmiş ve 1960-2021 arasını kapsayan …"
@@ -7,7 +7,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.604Z_
 - [ATOMSUZ] k1 → "Etkililik kaygısı yüksek bir genellik düzeyinde durabilir — yardım ortalamada kendisinden beklenen başlıca işl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "İnsani yardım ile kalkınma yardımının tarihsel izlekleri de birbirinden ayrı işlenir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Soğuk Savaş bittikten sonra bağışçılar, jeopolitik çıkar hesabının gölgesinden çıkan yardımı iktisadi ve demok…" — 1 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "yüzyıl başında bütüne bakıldığında daha olumlu sonuçlar verir göründü, ama tablo karmaşık ve birçok bakımdan a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Yirminci yüzyıl sonunun ekonometrik çalışmaları yardımın ortalama etkililiğini çoğu kez asgari, hatta olumsuz …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Ölçümün kendi güçlükleri de vardır: hedefler çeşitlidir ve farklı hedefler, sonucun hangi zaman ölçeğinde aran…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kavganın merkez metni, Craig Burnside ile David Dollar'ın American Economic Review'da 2000'de yayımlanan Aid, …"
 - [OK]      k2 → "Kavganın merkez metni, Craig Burnside ile David Dollar'ın American Economic Review'da 2000'de yayımlanan Aid, …"
@@ -30,19 +30,19 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.604Z_
 - [ATOMSUZ] k9 → "Bir yandan rastgele atamalı deney, kalkınma kanıtının çıtasını yükseltmiş ve veri paylaşımını yeniden analiz e…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak ikame edilebilir olduğunda alıcı hükümet, bağışçının para koyduğu alandaki kendi harcamasını kısıp serb…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Tahsisin amacı tam da bunu sınırlamaktır — paranın altyapıya, sağlığa ya da eğitime harcanması şart koşulur — …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k10 → "yüzyılda 300 milyon insanı öldürmüş bir hastalığı bitirmişti."
+- [OK]      k10 → "Dünya Sağlık Asamblesi, "dünya ve bütün halkları çiçek hastalığından kurtulmuştur" ilanını yaptı; Dünya Sağlık…" — 2 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k10 → "Eradikasyonun yaklaşık 300 milyon dolarlık maliyeti, 1980'den bu yana her yıl 1 milyar doları aşan tasarrufla …"
 - [OK]      k10 → "Aynı örgütün bilançosunda yalnız bu zafer yoktur: 187 ülke, bölge ve alan gine kurdu hastalığından arınmış, 38…"
 - [ATOMSUZ] k1 → "Hedefi dar, teknolojisi belli, sonucu sayılabilir bir dikey sağlık programı ile bir hükümetin genel bütçesine …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Yardımın sert eleştirmenleri bile bu ayrımı korur: Moyo'nun hedefi hükümetler arası ve çok taraflı yardımdır; …"
-- [OK]      k1 → "Bauer 1972 tarihli Dissent on Development'tan başlayarak yardımın yarardan çok zarar verdiğini savundu; ona gö…"
+- [OK]      k1 → "P. T. Bauer 1972 tarihli Dissent on Development'tan başlayarak yardımın yarardan çok zarar verdiğini savundu; …"
 - [OK]      k1 → "Dambisa Moyo 2009'da Dead Aid ile aynı damarı Afrika üzerinden güncelledi: ona göre yardım kleptokrasileri, yo…"
 - [OK]      k1 → "Mekanizmanın özü hesap verme yönüdür: dışarıdan gelen para, vergi karşılığında kamu hizmeti üretme bağını gevş…"
 - [ATOMSUZ] k1 → "Gelir toplama kapasitesi devlet kapasitesinin temel direklerinden biridir; etkili bir vergi düzeni hem adalett…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bu kapasitesi zayıf olan devletler için yardım gerekli bir ikame gibi görünse de kurumsal gelişmeyi zayıflatma…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k11 → "Angus Deaton 2013'te The Great Escape ile bu kuşkucu bilançoya kendi adını ekledi: kitabın savunduğu teze göre…"
 - [ATOMSUZ] k1 → "Bağlı yardım — paranın bağışçı ülkenin ürünlerine harcanması şartı — yardımı bağışçının ticari hedeflerinin ar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Parçalanma ayrı bir yüktür: kimi Afrika ülkelerinde sağlık çalışanları, Batılı heyetlerle görüşmekten asıl işl…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Parçalanma ayrı bir yüktür: kimi Afrika ülkelerinde sağlık çalışanları, Batılı heyetlerle görüşmekten asıl işl…" — 6 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Bir çalışma, dalgalanmaya bağlanan kaybı Avrupa Birliği'nden gelen programlanabilir yardımın ortalama yüzde 10…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Bağışçılar ve gelişmekte olan ülkeler, artan finansmanın kendi başına yetmediğini kabul edip paranın Binyıl Ka…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "Paris Bildirgesi ile bu forumların öteki sonuçları, daha iyi kalkınma sonuçları için ne yapılması gerektiğine …" — programatik olarak ölçülemedi (ad karşılığı yok): Bildirgesi

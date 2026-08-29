@@ -1,9 +1,9 @@
 {
   "id": "kavram-surtunme",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:55.704Z",
+  "zaman": "2026-08-29T19:34:24.871Z",
   "govde_hash": "fad1e5119eb1",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -43,9 +43,9 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "kitap'dir; dosya o eserin kamu malı tam metnine bağlanır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Bu kavramın formüle edildiği eser Clausewitz, Savaş Üzerine I. kitap'dir; dosya o eserin kamu malı tam metnine bağlanır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     }
   ]
 }

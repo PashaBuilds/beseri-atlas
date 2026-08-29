@@ -1,9 +1,9 @@
 {
   "id": "olay-irlanda-kitligi",
   "gecis": 2,
-  "zaman": "2026-08-29T15:42:57.567Z",
+  "zaman": "2026-08-29T19:33:59.366Z",
   "govde_hash": "139092029a77",
-  "commit": "fdab69c",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -79,9 +79,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Lyons'a göre bu yanıt hızlı ve nispeten başarılıydı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Kıtlığın erken ve daha hafif evresine verilen yanıt Robert Peel'in Tory hükûmetinden geldi; tarihçi F. S. L. Lyons'a göre bu yanıt hızlı ve nispeten başarılıydı",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -151,7 +151,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Donnelly Jr., kıtlık yıllarında kaç kişinin evinden çıkarıldığını kesin olarak bilmenin mümkün olmadığını söyler; polis ancak 1849'da saymaya başladı ve 1849-18",
+      "iddia": "Tarihçi James S. Donnelly Jr., kıtlık yıllarında kaç kişinin evinden çıkarıldığını kesin olarak bilmenin mümkün olmadığını söyler; polis ancak 1849'da saymaya b",
       "durum": "OK",
       "not": ""
     },
@@ -199,7 +199,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Daly'nin değerlendirmesine göre kıtlık yıllarında gıda ithalatının ihracatı belirgin biçimde aştığını gösteren Austin Bourke olmuştur; aynı değerlendirme 1846 s",
+      "iddia": "Mary E. Daly'nin değerlendirmesine göre kıtlık yıllarında gıda ithalatının ihracatı belirgin biçimde aştığını gösteren Austin Bourke olmuştur; aynı değerlendirm",
       "durum": "OK",
       "not": ""
     },
@@ -259,9 +259,9 @@
     },
     {
       "anahtar": "k8",
-      "iddia": "Boyle ile Cormac Ó Gráda'nın 1986'da Demography dergisinde yayımladığı çalışma, kıtlık sonucu yaklaşık bir milyon kişinin öldüğünü doğrular; bu sayıya, aynı dön",
+      "iddia": "O hesabın ayrıntısı şudur: Phelim P. Boyle ile Cormac Ó Gráda'nın 1986'da Demography dergisinde yayımladığı çalışma, kıtlık sonucu yaklaşık bir milyon kişinin ö",
       "durum": "OK",
-      "not": ""
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k8",
@@ -271,7 +271,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Rice ile Francis Boyle'dan, olayın soykırım olduğunu bildiren görüş aldı; kaynak, ikisinin de o güne dek İrlanda tarihi çalışmalarıyla tanınmadığını ekler.",
+      "iddia": "1996'da New Jersey eyaleti kıtlığı ortaokul müfredatındaki soykırım programına aldı; program kütüphaneci James Mullin tarafından hazırlandı ve gelen eleştiri üz",
       "durum": "OK",
       "not": ""
     },
@@ -289,7 +289,7 @@
     },
     {
       "anahtar": "k9",
-      "iddia": "McGowan'ın 2017 tarihli değerlendirmesi, gazeteci Tim Pat Coogan'ın soykırım savını tarihsel kanıtın desteklemediğini ileri sürer; sorumluluğu Britanya hükûmetl",
+      "iddia": "Mark G. McGowan'ın 2017 tarihli değerlendirmesi, gazeteci Tim Pat Coogan'ın soykırım savını tarihsel kanıtın desteklemediğini ileri sürer; sorumluluğu Britanya ",
       "durum": "OK",
       "not": ""
     },

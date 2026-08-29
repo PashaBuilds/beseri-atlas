@@ -1,5 +1,5 @@
 ## veri-yoksulluk-orani
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:00.338Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:35.788Z_
 
 - [OK]      k1 → "Seri 1990'da yüzde 43,41358244419098 ile başlar ve 2026'da yüzde 9,975934773683548 ile biter."
 - [OK]      k1 → "Veri kümesinin sütun adı, sayım oranını satın alma gücü paritesinin 2021 sürümüyle ve belirli bir yoksulluk sı…"

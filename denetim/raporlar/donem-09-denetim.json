@@ -1,9 +1,9 @@
 {
   "id": "donem-09",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:41.689Z",
+  "zaman": "2026-08-29T19:33:50.946Z",
   "govde_hash": "642e43fa0d68",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -877,7 +877,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl sonlarında Sanayi Devrimi'nin getirdiği büyük gelişmelerle işaretlenir; o geçiş dosyasında ele alınıyor.",
+      "iddia": "Dönemin geç modern döneme geçişi, 18. yüzyıl sonlarında Sanayi Devrimi'nin getirdiği büyük gelişmelerle işaretlenir; o geçiş dosyasında ele alınıyor.",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sanayi, Devrimi"
     }

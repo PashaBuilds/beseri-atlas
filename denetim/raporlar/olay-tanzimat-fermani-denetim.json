@@ -1,9 +1,9 @@
 {
   "id": "olay-tanzimat-fermani",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:47.210Z",
+  "zaman": "2026-08-29T19:34:04.532Z",
   "govde_hash": "af88520c97fd",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -25,7 +25,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılın sonlarına doğru başlayan dönemde Osmanlı Devleti kaçınılmaz olarak yapısal değişimler içine girmişti; Tanzimat bu sürecin olgunlaşmış evresidir.",
+      "iddia": "18. yüzyılın sonlarına doğru başlayan dönemde Osmanlı Devleti kaçınılmaz olarak yapısal değişimler içine girmişti; Tanzimat bu sürecin olgunlaşmış evresidir.",
       "durum": "OK",
       "not": ""
     },

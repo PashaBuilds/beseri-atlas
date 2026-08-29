@@ -1,9 +1,9 @@
 {
   "id": "aktor-ahamenis-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:47.852Z",
+  "zaman": "2026-08-29T19:34:06.103Z",
   "govde_hash": "1b6989ea6a3c",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -21,7 +21,7 @@
       "anahtar": "k2",
       "iddia": "Aynı bölgede Yeni Asur İmparatorluğu MÖ 670'te yaklaşık 1.400.000 kilometrekare alan kaplıyordu ve Med-Babil fethiyle MÖ 626–609 arasında tasfiye edilmişti.",
       "durum": "OK",
-      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

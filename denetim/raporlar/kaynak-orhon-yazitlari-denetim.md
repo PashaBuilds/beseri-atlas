@@ -1,7 +1,7 @@
 ## kaynak-orhon-yazitlari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:01.359Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:37.357Z_
 
-- [ATOMSUZ] k1 → "Orhon Yazıtları, bir bozkır devletinin kendi dilinde ve kendi ağzından taşa yazdırdığı siyasi kayıttır." — programatik olarak ölçülemedi (ad karşılığı yok): Yazıtları
+- [OK]      k1 → "Orhon Yazıtları, bir bozkır devletinin kendi dilinde ve kendi ağzından taşa yazdırdığı siyasi kayıttır."
 - [OK]      k3 → "Orhon Yazıtları, bir bozkır devletinin kendi dilinde ve kendi ağzından taşa yazdırdığı siyasi kayıttır."
 - [ATOMSUZ] k1 → "Kayıt bir tarih anlatısı değildir; hesap verme biçiminde kurulmuş bir konuşmadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Uyarı şudur: halkın kendi yöneticisinden uzaklaşıp komşunun düzenine ve malına yaklaşması, siyasi varlığın kay…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -25,4 +25,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:01.359Z_
 - [ATOMSUZ] k1 → "Metne yapılacak atıflarda hangi yazıt ve hangi yüzün kastedildiği ile kullanılan okuma belirtilmelidir; kaynak…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Metne yapılacak atıflarda hangi yazıt ve hangi yüzün kastedildiği ile kullanılan okuma belirtilmelidir; kaynak…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 2 OK · 0 ISARET · 0 HATA · 21 ATOMSUZ
+**Özet:** 3 OK · 0 ISARET · 0 HATA · 20 ATOMSUZ

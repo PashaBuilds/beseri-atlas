@@ -1,5 +1,5 @@
 ## aktor-etiyopya-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.979Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:08.874Z_
 
 - [OK]      k1 → "Bu imparatorluğun kurumsal dönüşümü tek bir cümlede kaydedilir: hükümdar, bölgesel savaş ağalarının yerine ida…"
 - [ATOMSUZ] k1 → "Bu değişimin mekanizması, atlasın başka dosyalarında da görülen bir örüntüdür: yerel askerî güç sahiplerinin y…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -8,8 +8,8 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.979Z_
 - [OK]      k1 → "Nâsır'ı Adal soylularının çekirdeğiyle birlikte yenilgiye uğrattı, esir aldı ve idam etti; bu, Adal'ın askerî …"
 - [OK]      k1 → "Kaynak, bir başka gücün de burada durdurulduğunu kaydeder: Osmanlılar, İmparator Sarsa Dengel'in 1589'daki zaf…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k2 → "Bu, atlas için önemli bir kayıttır: aynı yüzyıllarda üç kıtaya yayılan Osmanlı düzeninin genişlemesinin durduğ…"
-- [OK]      k1 → "yüzyılın dört büyük gücünden biri sayılan Aksum Krallığı'ydı." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Aynı coğrafyanın daha eski düzeni, 1. yüzyılda kurulup 960'ta sona eren ve Mani tarafından 3. yüzyılın dört bü…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1500'de yaklaşık 503,1 milyon, 1848'de yaklaşık 1,27 milyardır."
-- [ATOMSUZ] k1 → "yüzyıl modernleşmesi ve imparatorluğun sona erişi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunla…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Hanedanın kuruluşu, kilise ile devlet ilişkisi, 19. yüzyıl modernleşmesi ve imparatorluğun sona erişi burada a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
 **Özet:** 7 OK · 0 ISARET · 0 HATA · 3 ATOMSUZ

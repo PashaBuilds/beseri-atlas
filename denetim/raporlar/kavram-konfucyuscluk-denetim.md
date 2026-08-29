@@ -1,5 +1,5 @@
 ## kavram-konfucyuscluk
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.022Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:23.752Z_
 
 - [ATOMSUZ] k1 → "Konfüçyüsçülük, toplumsal düzeni ve yönetimi erdem, örneklik ve karşılıklı yükümlülükler üzerinden kuran düşün…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Konfüçyüsçülük, toplumsal düzeni ve yönetimi erdem, örneklik ve karşılıklı yükümlülükler üzerinden kuran düşün…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,15 +1,15 @@
 {
   "id": "donem-03",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:40.876Z",
+  "zaman": "2026-08-29T19:33:49.210Z",
   "govde_hash": "dad0bcdeab48",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyıldan beri öne sürülmektedir ve çoğu, şehir ile kasabaların şiddetli biçimde yıkılmasını içerir.",
+      "iddia": "Geç Tunç Çağı çöküşünün nedenine dair rakip kuramlar 19. yüzyıldan beri öne sürülmektedir ve çoğu, şehir ile kasabaların şiddetli biçimde yıkılmasını içerir.",
       "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tunç, Çağı"
     },
     {
       "anahtar": "k1",
@@ -85,7 +85,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılda Yunan tarih öncesinin ilk döneminin bu sıralarda bittiği, Troya'nın düşüşünün MÖ 1190'a tarihlenmesine dayanarak ileri sürüldü; 1826'da Mısır'ın On Dok",
+      "iddia": "19. yüzyılda Yunan tarih öncesinin ilk döneminin bu sıralarda bittiği, Troya'nın düşüşünün MÖ 1190'a tarihlenmesine dayanarak ileri sürüldü; 1826'da Mısır'ın On",
       "durum": "OK",
       "not": "3 atom doğrulandı; 3 ad ölçülemedi"
     },

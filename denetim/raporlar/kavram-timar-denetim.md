@@ -1,5 +1,5 @@
 ## kavram-timar
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:27:01.608Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:25.334Z_
 
 - [OK]      k1 → "Halil İnalcık'a göre böyle bir devlette bir tahsis düzeni zorunlu olarak ortaya çıkar: süvarinin ihtiyacı anca…"
 - [OK]      k1 → "Tımar bu soruna verilen Osmanlı cevabıdır — ve cevabın inceliği şuradadır: sipahiye toprak verilmez, belirli b…"

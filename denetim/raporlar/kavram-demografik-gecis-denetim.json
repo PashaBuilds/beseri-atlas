@@ -1,9 +1,9 @@
 {
   "id": "kavram-demografik-gecis",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:54.145Z",
+  "zaman": "2026-08-29T19:34:21.877Z",
   "govde_hash": "90b2298a2611",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -109,9 +109,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılın ilk yarısına kadar ölümler ile doğumlar arasında sürekli bir boşluk oluştu; İsveç nüfusunun artışı bu boşluk sayesindedir.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İsveç"
+      "iddia": "Buna karşılık doğum hızları 1860'lara kadar modern öncesi düzeyinde sabit kaldı ve bu dönemden 20. yüzyılın ilk yarısına kadar ölümler ile doğumlar arasında sür",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
@@ -127,9 +127,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Notestein daha biçimsel bir demografik geçiş kuramı geliştirdi.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "1940'lar ve 1950'lerde Frank W. Notestein daha biçimsel bir demografik geçiş kuramı geliştirdi.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",

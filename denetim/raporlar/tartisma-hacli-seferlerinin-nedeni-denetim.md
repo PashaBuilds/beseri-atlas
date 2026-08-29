@@ -1,5 +1,5 @@
 ## tartisma-hacli-seferlerinin-nedeni
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.241Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:29.220Z_
 
 - [OK]      k2 → "Giles Constable 2001 tarihli incelemesinde çağdaş haçlı araştırmalarını dört öbeğe ayırır ve dördünün farklı s…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k2 → "Yanına iki öbek daha katılır: katılanların iç hâlini merkeze alan ruhsal-ruhbilimsel okuma ile haçlı seferini …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -16,14 +16,14 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.241Z_
 - [OK]      k2 → "Erdmann'ın merkezine koyduğu şey seferin kendisi değil, on birinci yüzyıl boyunca papalığın şövalyeliği kilise…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k2 → "Constable'ın değerlendirmesi açıktır: yirminci yüzyılda yazılmış başka hiçbir eser haçlı çalışmalarının yönünü…"
 - [OK]      k2 → "Aynı kitap, von Ranke'nin resmî ile halk kaynaklı itki arasında yaptığı ayrımı fikirler düzeyine taşıyarak son…"
-- [ATOMSUZ] k3 → "Erdmann'ın hac temasını sonradan eklenmiş sayması ise kendi zayıf noktasıdır: sefere katılan din adamlarının b…" — programatik olarak ölçülemedi (ad karşılığı yok): Kutsal, Kabir
+- [OK]      k3 → "Erdmann'ın hac temasını sonradan eklenmiş sayması ise kendi zayıf noktasıdır: sefere katılan din adamlarının b…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Erdmann'ın hac temasını sonradan eklenmiş sayması ise kendi zayıf noktasıdır: sefere katılan din adamlarının b…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Constable'ın aktardığına göre Voltaire haçlıları serüvenci ve haydut sayıp onları yağma susuzluğuyla açıklamış…"
 - [OK]      k2 → "Aynı damar yirminci yüzyılın sonunda yeniden canlandı: 1992'de Journal of European Economic History'de yayımla…"
 - [OK]      k4 → "Demirkent'e göre Batı, seferlerin asıl etkenini dinî unsurlarda arar; oysa Orta Çağ Avrupa toplumunu bu seferl…"
 - [OK]      k4 → "Aynı maddede kutsal toprakları kurtarma sloganının hedefi açıklamaktan çok örtmek için kullanıldığı savunulur;…"
-- [OK]      k3 → "Bu okumanın gücü, kanıtını çağrının kendi metninden de alabilmesidir: Robert the Monk'ün aktardığı toprak darl…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [ISARET]  k4 → "Bu okumanın gücü, kanıtını çağrının kendi metninden de alabilmesidir: Robert the Monk'ün aktardığı toprak darl…" — özel isim kaynakta bulunamadı: Monk
+- [OK]      k3 → "Bu okumanın gücü, kanıtını çağrının kendi metninden de alabilmesidir: Robert the Monk'ün aktardığı toprak darl…"
+- [OK]      k4 → "Bu okumanın gücü, kanıtını çağrının kendi metninden de alabilmesidir: Robert the Monk'ün aktardığı toprak darl…"
 - [ATOMSUZ] k2 → "Constable'ın gözlemine göre tartışmanın yirminci yüzyıl sonundaki yönü şudur: haçlıları büyük ölçüde açgözlülü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Jonathan Riley-Smith'in bu çerçevedeki savı, haç alanların ve onları finanse eden ailelerin bütün olarak ideal…"
 - [OK]      k6 → "Riley-Smith'in 1997'de Cambridge'de çıkan The First Crusaders, 1095-1131 kitabı, sefere katılanların bir ön li…"
@@ -42,7 +42,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.241Z_
 - [OK]      k2 → "Yirminci yüzyılın ortasında tartışmayı okur kitlesine taşıyan kitap Steven Runciman'ın 1951-54 arasında Cambri…"
 - [OK]      k1 → "Yirminci yüzyılın ortasında tartışmayı okur kitlesine taşıyan kitap Steven Runciman'ın 1951-54 arasında Cambri…"
 - [ATOMSUZ] k2 → "Runciman'ın sonuç hükmü serttir: seferleri "trajik ve yıkıcı bir dönem" olarak niteler ve kutsal savaşı Tanrı …" — programatik olarak ölçülemedi (ad karşılığı yok): Tanrı
-- [OK]      k1 → "Madden'ın değerlendirmesine göre bugünkü popüler haçlı tasavvurunu neredeyse tek başına Runciman kurdu; aynı y…"
+- [OK]      k1 → "Thomas F. Madden'ın değerlendirmesine göre bugünkü popüler haçlı tasavvurunu neredeyse tek başına Runciman kur…"
 - [ATOMSUZ] k1 → "Aynı değerlendirmeye göre bir Bizans uzmanının kaleminden çıkan bu anlatının yaklaşımı, on dokuzuncu yüzyılın …" — programatik olarak ölçülemedi (ad karşılığı yok): Bizans
 - [OK]      k1 → "Aynı kaynakta on dokuzuncu yüzyıl Fransız yazınının seferleri ulusal gurur ve sömürge siyasetinin öncülü gibi …" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "İki uyumsuz resim aynı noktada birleşti: haçlı seferini tanımlayan şeyin İslam'a karşıtlık olduğu fikri."
@@ -56,4 +56,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.241Z_
 - [OK]      k2 → "Ernst-Dieter Hehl, haçlı seferinin esasen ne olduğunu soran yazısında her iki tanımı da dar bulur ve haçlı sef…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Urbanus'un çağrısında Doğu'daki Hristiyanlara yardım ile Kudüs'ün kurtarılmasının göreli ağırlığı, mesajın nas…" — 3 atom doğrulandı; 2 ad ölçülemedi
 
-**Özet:** 42 OK · 2 ISARET · 0 HATA · 10 ATOMSUZ
+**Özet:** 44 OK · 1 ISARET · 0 HATA · 9 ATOMSUZ

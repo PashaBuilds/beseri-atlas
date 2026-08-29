@@ -1,9 +1,9 @@
 {
   "id": "tartisma-kara-olumun-sonuclari",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:57.690Z",
+  "zaman": "2026-08-29T19:34:30.367Z",
   "govde_hash": "02bb0986df7c",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -27,7 +27,7 @@
       "anahtar": "k1",
       "iddia": "İlk salgın dalgasında Doğu Avrupa'daki ölüm düzeyinin Batı Avrupa'dakine benzer olduğu değerlendirilir; tartışmayı açan gözlem ise Brenner'ın kaleminden gelir: ",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k5",
@@ -73,15 +73,15 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıla gelindiğinde 1347'deki sayısının yarısına inmiş sayılır.",
+      "iddia": "Orta Doğu için verilen yaklaşık yüzde 33'lük oran, Avrupa aralığının alt ucuna yakındır; ama şokun izi orada da uzundur, Kahire'nin nüfusu 18. yüzyıla gelindiği",
       "durum": "OK",
-      "not": ""
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k7",
       "iddia": "Boccaccio, Decameron'un girişinde anlatıyı 1348 Floransa'sına yerleştirir: ölüm getiren salgın, birkaç yıl önce Doğu'da görünmüş ve oradan bu kente ulaşmıştır.",
-      "durum": "ISARET",
-      "not": "kaynakta bulunamayan sayısal değer: 1348 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)"
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k7",
@@ -183,7 +183,7 @@
       "anahtar": "k8",
       "iddia": "İngiliz tacı 1349 fermanı ve 1351 yasasıyla ücretleri ve çalışma koşullarını 1346 düzeyine döndürmeyi buyurdu; benzer emek yasaları Aragon ve Kastilya meclisler",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 4 ad ölçülemedi"
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k8",
@@ -212,8 +212,8 @@
     {
       "anahtar": "k9",
       "iddia": "Seçkinlerin köylüyü eski durumuna döndürme çabaları ayaklanmalarla karşılaştı: Paris çevresinde ücret artışını bastırma önlemleri 1358 Jacquerie'sinin patlaması",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Paris"
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
@@ -223,7 +223,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "yüzyıl ortasından itibaren görür.",
+      "iddia": "Malthusçu merceğe göre nüfus, 13. yüzyıl ortasına gelindiğinde beslenme kapasitesini zorluyordu: yoksullaşma ve küçülen tasarruflar köylüyü verimsiz topraklara ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -247,15 +247,15 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Postan ile Languedoc köylülüğünün uzun döngüsünü izleyen Emmanuel Le Roy Ladurie'nin adlarıyla anılır; John Hatcher'ın veba, nüfus ve İngiliz ekonomisi üzerine ",
+      "iddia": "Konumun adları da bellidir: model en çok, İngiliz Orta Çağ ekonomisini nüfus-kaynak dengesiyle okuyan M. M. Postan ile Languedoc köylülüğünün uzun döngüsünü izl",
       "durum": "OK",
-      "not": ""
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k5",
-      "iddia": "Postan ile Languedoc köylülüğünün uzun döngüsünü izleyen Emmanuel Le Roy Ladurie'nin adlarıyla anılır; John Hatcher'ın veba, nüfus ve İngiliz ekonomisi üzerine ",
+      "iddia": "Konumun adları da bellidir: model en çok, İngiliz Orta Çağ ekonomisini nüfus-kaynak dengesiyle okuyan M. M. Postan ile Languedoc köylülüğünün uzun döngüsünü izl",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
@@ -277,13 +277,13 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Philpin'in derlemesiyle 1985'te Cambridge University Press'ten The Brenner Debate adıyla kitaplaştı; tartışma bugün o adla anılır ve derlemenin tam künyesi ikti",
+      "iddia": "Agrarian Class Structure and Economic Development in Pre-Industrial Europe başlıklı makale ve tetiklediği cevaplar, T. H. Aston ile C. H. E. Philpin'in derlemes",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k5",
-      "iddia": "Philpin'in derlemesiyle 1985'te Cambridge University Press'ten The Brenner Debate adıyla kitaplaştı; tartışma bugün o adla anılır ve derlemenin tam künyesi ikti",
+      "iddia": "Agrarian Class Structure and Economic Development in Pre-Industrial Europe başlıklı makale ve tetiklediği cevaplar, T. H. Aston ile C. H. E. Philpin'in derlemes",
       "durum": "OK",
       "not": ""
     },
@@ -307,15 +307,15 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "yüzyıl başına gelindiğinde ölmüştü.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Sonuç iki ölçekle kayıtlıdır: iktisadi özete göre malikâne düzeni 1500'e gelindiğinde batı ve orta Avrupa'dan silinmişti; Brenner'ın anlatımında Batı Avrupa'nın",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
-      "iddia": "yüzyıl başına gelindiğinde ölmüştü.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Sonuç iki ölçekle kayıtlıdır: iktisadi özete göre malikâne düzeni 1500'e gelindiğinde batı ve orta Avrupa'dan silinmişti; Brenner'ın anlatımında Batı Avrupa'nın",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k5",
@@ -332,8 +332,8 @@
     {
       "anahtar": "k1",
       "iddia": "İlk dalganın ölüm düzeyi doğuda batıya benzer sayıldığına göre, demografi sabit tutulduğunda geriye köylü topluluklarının örgütlülüğü, lordların dayanışması ve ",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Brenner"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k5",
@@ -373,13 +373,13 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılda yeniden yakaladığı kaydı ise şokun uzunluğu hakkında herhangi bir oran tahmininden daha çok şey söyler; serinin kendisi dosyasında işleniyor.",
+      "iddia": "Avrupa nüfusunun 14. yüzyıl düzeyini ancak 16. yüzyılda yeniden yakaladığı kaydı ise şokun uzunluğu hakkında herhangi bir oran tahmininden daha çok şey söyler; ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "yüzyılda yeniden yakaladığı kaydı ise şokun uzunluğu hakkında herhangi bir oran tahmininden daha çok şey söyler; serinin kendisi dosyasında işleniyor.",
+      "iddia": "Avrupa nüfusunun 14. yüzyıl düzeyini ancak 16. yüzyılda yeniden yakaladığı kaydı ise şokun uzunluğu hakkında herhangi bir oran tahmininden daha çok şey söyler; ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -392,8 +392,8 @@
     {
       "anahtar": "k8",
       "iddia": "Dönüştürücü okuma şokun ne yaptığını sorar ve ücret, kira, yasa belgeleriyle cevap verir; hızlandırıcı okuma neyin zaten yürürlükte olduğunu sorar ve kıtlığı, v",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Brenner"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
@@ -404,8 +404,8 @@
     {
       "anahtar": "k1",
       "iddia": "Dönüştürücü okuma şokun ne yaptığını sorar ve ücret, kira, yasa belgeleriyle cevap verir; hızlandırıcı okuma neyin zaten yürürlükte olduğunu sorar ve kıtlığı, v",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Brenner"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k5",
@@ -451,13 +451,13 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "yüzyıl sorusu hem de her büyük felaketten sonra yeniden sorulan bir yöntem sorusudur.",
+      "iddia": "Şokun mu yapıyı, yapının mı şoku biçimlendirdiği sorusu bu yüzden hem bir 14. yüzyıl sorusu hem de her büyük felaketten sonra yeniden sorulan bir yöntem sorusud",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k5",
-      "iddia": "yüzyıl sorusu hem de her büyük felaketten sonra yeniden sorulan bir yöntem sorusudur.",
+      "iddia": "Şokun mu yapıyı, yapının mı şoku biçimlendirdiği sorusu bu yüzden hem bir 14. yüzyıl sorusu hem de her büyük felaketten sonra yeniden sorulan bir yöntem sorusud",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

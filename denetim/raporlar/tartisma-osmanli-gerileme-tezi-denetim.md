@@ -1,5 +1,5 @@
 ## tartisma-osmanli-gerileme-tezi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.087Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:31.531Z_
 
 - [OK]      k1 → "Osmanlı örneğinde bu karar uzun süre hazır geldi: Kanuni Sultan Süleyman'ın 1566'daki ölümü zirve sayıldı, 169…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Bir yanda yaklaşık 1550 ile 1700 arasını gerileme dönemi olarak okuyan çerçeve, öte yanda aynı yılları kriz, u…"

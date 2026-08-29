@@ -1,9 +1,9 @@
 {
   "id": "kavram-ulus-devlet",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:56.001Z",
+  "zaman": "2026-08-29T19:34:25.444Z",
   "govde_hash": "cf7db06eea35",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -37,7 +37,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "yüzyılın başına yerleştirdiğini yazar ve 1772'de yayımlanan bir dil kökeni incelemesinde ortak dilin rolünün vurgulandığını kaydeder.",
+      "iddia": "Milliyetçilik için tutulan kayıt, araştırmacıların milliyetçiliğin başlangıcını sıklıkla 18. yüzyılın sonuna ya da 19. yüzyılın başına yerleştirdiğini yazar ve ",
       "durum": "OK",
       "not": ""
     },

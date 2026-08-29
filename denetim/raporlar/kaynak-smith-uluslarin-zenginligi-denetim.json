@@ -1,21 +1,21 @@
 {
   "id": "kaynak-smith-uluslarin-zenginligi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:40:01.515Z",
+  "zaman": "2026-08-29T19:34:37.592Z",
   "govde_hash": "348451de7832",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Cadell, yayın tarihi 9 Mart 1776, yayın yeri İskoçya, Büyük Britanya Krallığı.",
+      "iddia": "Kaynak eseri şöyle künyeler: yazarı Adam Smith, dili İngilizce, yayıncısı Londra'da W. Strahan ve T. Cadell, yayın tarihi 9 Mart 1776, yayın yeri İskoçya, Büyük",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "kitaplar yer alır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Eser 9 Mart 1776'da iki cilt hâlinde yayımlanmıştır; birinci ciltte I-III, ikinci ciltte IV ve V. kitaplar yer alır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

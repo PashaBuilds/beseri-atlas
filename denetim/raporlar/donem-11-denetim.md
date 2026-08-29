@@ -1,12 +1,12 @@
 ## donem-11
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:42.033Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:51.660Z_
 
 - [ATOMSUZ] k1 → "Bu dönemin açılış belgesi, siyasi meşruiyetin dayanağını tek cümlede değiştirir: insanlar haklar bakımından öz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "1789 tarihli İnsan ve Yurttaş Hakları Bildirisi, her siyasi birliğin amacının insanın doğal ve zamanaşımına uğ…" — 1 atom doğrulandı; 4 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bildiri, bu hakları Yüce Varlık'ın huzurunda ve onun himayesinde ilan ettiğini belirtir." — programatik olarak ölçülemedi (ad karşılığı yok): Yüce, Varlık
 - [OK]      k2 → "Sanayi Devrimi, yaklaşık 1760 ile 1840 arasında tarımsal dönemden sanayi dönemine geçişi anlatır." — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Britanya'da yaklaşık 1760'ta başlayan süreç, 1840 dolaylarına gelindiğinde Kıta Avrupası'na ve Amerika Birleşi…" — 3 atom doğrulandı; 3 ad ölçülemedi
-- [ATOMSUZ] k3 → "yüzyılın sonlarına doğru başlayan yapısal değişim, bu dönemde II." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Osmanlı Devleti'nde 18. yüzyılın sonlarına doğru başlayan yapısal değişim, bu dönemde II."
 - [ATOMSUZ] k3 → "Mahmud devriyle birlikte devletin idari, siyasi, sosyal, kültürel ve ekonomik açılardan yeniden şekillendirilm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k5 → "Şubat 1840'ta imzalanan Waitangi Antlaşması'nın iki metni vardır; İngilizce metinde önderlerin kraliçeye egeme…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k5 → "İmzaların büyük çoğunluğu Maori metnine atılmıştır ve iki metnin farkı sonraki tartışmaların zeminidir."
@@ -148,4 +148,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:42.033Z_
 - [ATOMSUZ] k1 → "Bu formülün dinî çerçeveden tamamen kopmadığını da not etmek gerekir: metin, hakların Yüce Varlık'ın huzurunda…" — programatik olarak ölçülemedi (ad karşılığı yok): Yüce, Varlık
 - [ATOMSUZ] k2 → "İktisadi düşünce tarafında dönem, Sanayi Devrimi'ni yaygın, verimli ve istikrarlı üretim süreçlerine geçiş ola…" — programatik olarak ölçülemedi (ad karşılığı yok): Sanayi, Devrimi, İkinci, Tarım
 
-**Özet:** 7 OK · 0 ISARET · 0 HATA · 139 ATOMSUZ
+**Özet:** 8 OK · 0 ISARET · 0 HATA · 138 ATOMSUZ

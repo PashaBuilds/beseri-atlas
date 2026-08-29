@@ -1,11 +1,11 @@
 ## aktor-ispanyol-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.871Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:11.305Z_
 
 - [OK]      k1 → "İmparatorluk Amerika, Afrika, Asya ve Okyanusya'da olduğu kadar Avrupa'nın diğer bölgelerinde de toprak taşıyo…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak, ifadenin arkasındaki büyüklüğü verir: 1700'lerin sonu ve 1800'lerin başındaki en geniş noktasında İspa…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kuzey Afrika kıyısında birkaç kasaba ve mevzi 1505 ile 1510 arasında Kastilya tarafından fethedilip işgal edil…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Atlantik kıyısında ise İspanya, Kanarya Adaları'nın desteğiyle Santa Cruz de la Mar Pequeña mevzisini 1476'da …" — 4 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "Felipe, hükümetin danışma niteliğindeki Polisinodyal Konseyler Sistemi'nin yerine, Fransa'da yapıldığı gibi hü…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Saltanatının başında ilk İspanyol Bourbon'u Kral V. Felipe, hükümetin danışma niteliğindeki Polisinodyal Konse…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Aynı hükümet 1714'te bir Donanma ve Hint Adaları bakanlığı kurdu ve ticaret şirketleri oluşturdu." — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Konsey düzeninden bakanlık düzenine geçiş, imparatorluğun kendi ölçeğini yönetebilmek için merkezîleşmek zorun…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Kolomb değişimi bitkileri, hayvanları, hastalıkları ve kültürü aktardı; mısır, patates, domates, tütün, manyok…"

@@ -1,15 +1,15 @@
 {
   "id": "dusunur-ibn-sina",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:52.842Z",
+  "zaman": "2026-08-29T19:34:18.389Z",
   "govde_hash": "f26a98986b5b",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
       "iddia": "İbn Sînâ, Sâmânî hâkimiyetindeki Buhara çevresinde doğdu ve yetişti; hayatının büyük bölümünü İran'ın çeşitli hanedan merkezlerinde, hekim ve saray görevlisi ol",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k2",
@@ -21,7 +21,7 @@
       "anahtar": "k1",
       "iddia": "Atlasın bölge şeması, siyasi birimleri doğdukları coğrafyaya göre ayırır; bir düşünürün hem Buhara'nın hem de İran'daki hanedan merkezlerinin çevresinde çalışmı",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k2",
@@ -188,8 +188,8 @@
     {
       "anahtar": "k1",
       "iddia": "Bu dosya üç kaynağa dayanır: felsefe tarafında bir akademik ansiklopedi maddesi, Türkçe akademik literatürden bir madde, ve Şifâ'nın metafizik bölümünün çeviris",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türkçe"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
@@ -200,8 +200,8 @@
     {
       "anahtar": "k3",
       "iddia": "Bu dosya üç kaynağa dayanır: felsefe tarafında bir akademik ansiklopedi maddesi, Türkçe akademik literatürden bir madde, ve Şifâ'nın metafizik bölümünün çeviris",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türkçe"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
@@ -296,8 +296,8 @@
     {
       "anahtar": "k1",
       "iddia": "Orta Asya bölgesinin atlastaki kapsamı bu dosya yazıldığında dar kalıyordu.",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Asya"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",

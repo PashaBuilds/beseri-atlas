@@ -1,13 +1,13 @@
 {
   "id": "tartisma-yazinin-icadi-nerede",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:58.985Z",
+  "zaman": "2026-08-29T19:34:34.050Z",
   "govde_hash": "4d61fa391004",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyıldan önce bilimsel kuramların çoğu bir tür tek köken varsayımı taşıyordu: yazı yalnızca bir kez, eski Sümer'de çivi yazısı olarak icat edilmiş, oradan kült",
+      "iddia": "20. yüzyıldan önce bilimsel kuramların çoğu bir tür tek köken varsayımı taşıyordu: yazı yalnızca bir kez, eski Sümer'de çivi yazısı olarak icat edilmiş, oradan ",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sümer, Tekvin, Mezopotamya"
     },
@@ -49,9 +49,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "binyıla tarihlenen kaplumbağa kabuğu işaretleri, arkeologların çoğunluğunca tam yazının doğuşuna bağlanmaz; Orta ve Güneydoğu Avrupa'daki Vinça işaretleri de ay",
+      "iddia": "Çin'de Jiahu'daki yirmi dört Neolitik mezarda bulunan ve MÖ 7. binyıla tarihlenen kaplumbağa kabuğu işaretleri, arkeologların çoğunluğunca tam yazının doğuşuna ",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -145,7 +145,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıla, okunabilen en erken yazıt ise MS 199'a tarihlenir.",
+      "iddia": "Bölgede kullanılan simge dizgeleri arasında Maya yazısının en gelişmiş olanı olduğu belirtilir; Maya olarak tanımlanabilen en erken yazıtlar MÖ 3. yüzyıla, okun",
       "durum": "OK",
       "not": ""
     },
@@ -163,15 +163,15 @@
     },
     {
       "anahtar": "k8",
-      "iddia": "Houston gibi bölgenin yazı araştırmasını kuran adlar vardı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Bildirinin yazarları arasında Michael D. Coe ve Stephen D. Houston gibi bölgenin yazı araştırmasını kuran adlar vardı.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k9",
-      "iddia": "Kelker, Olmek'in yazmayı bilip bilmediğini soran bir teknik yorum yayımladı.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Olmek"
+      "iddia": "İtiraz bir yıl içinde aynı dergide geldi: Karen O. Bruhns ile Nancy L. Kelker, Olmek'in yazmayı bilip bilmediğini soran bir teknik yorum yayımladı.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k6",
@@ -181,7 +181,7 @@
     },
     {
       "anahtar": "k7",
-      "iddia": "Thompson 1959'da aynı dergide cevap verdi; yazısı tarihsel kaynakların yeniden değerlendirilmesini ve çözüm yöntemlerinin karşılaştırılmasını önerir.",
+      "iddia": "J. Eric S. Thompson 1959'da aynı dergide cevap verdi; yazısı tarihsel kaynakların yeniden değerlendirilmesini ve çözüm yöntemlerinin karşılaştırılmasını önerir.",
       "durum": "OK",
       "not": ""
     },
@@ -193,9 +193,9 @@
     },
     {
       "anahtar": "k12",
-      "iddia": "Thomson, levhalardaki dizgeyi doğrudan \"yazılı dil\" diye tanımladı ve adanın başlıca ilgi çekici yanı saydı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "1886'da Hanga Roa açıklarına demirleyen Mohican gemisiyle adaya giden ve raporunu 1891'de yayımlayan William J. Thomson, levhalardaki dizgeyi doğrudan \"yazılı d",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k12",
@@ -211,9 +211,9 @@
     },
     {
       "anahtar": "k11",
-      "iddia": "Mignolo'nun 1994'te Duke University Press'ten çıkardığı derlemede toplanmıştır; kitabın adı bile programını duyurur: sözcüksüz yazı, Mezoamerika ve Andlar'da al",
+      "iddia": "Karşı uçtaki genişletme önerisi, Elizabeth Hill Boone ile Walter D. Mignolo'nun 1994'te Duke University Press'ten çıkardığı derlemede toplanmıştır; kitabın adı ",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k11",

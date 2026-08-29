@@ -1,5 +1,5 @@
 ## dusunur-braudel
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.277Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:17.044Z_
 
 - [ATOMSUZ] k1 → "Kaynak, onun zamanı katmanlara ayırdığını yazar ve üçüncü katmanı olayların zamanı olarak tanımlar: adı olan b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, olayların zamanının onun için yüzeylerin ve aldatıcı etkilerin zamanı olduğunu ve Akdeniz'in üçüncü bö…" — programatik olarak ölçülemedi (ad karşılığı yok): Akdeniz

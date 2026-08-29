@@ -1,5 +1,5 @@
 ## dusunur-arendt
-_Geçiş 2 — kaynak denetimi · 2026-08-29T16:50:57.463Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:16.840Z_
 
 - [OK]      k1 → "Hannah Arendt'in bütün işi bu yetmezliğin üzerine kuruludur: Nazi Almanyası ile Stalin dönemi Sovyetler Birliğ…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Görülmemiş olanı önceki örneklerden türetmek ya da tarihsel zorunluluğun bir şemasına yerleştirmek yerine, olg…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -37,7 +37,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T16:50:57.463Z_
 - [OK]      k6 → "Dávid Kaposi'nin retorik çözümlemesine göre iki taraf Yahudi sorumluluğu konusunda birbiriyle bağdaşmaz siyasa…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kaynağın bu hat için adıyla gösterdiği künyeler Cesarani 2006, Lipstadt 2011 ve Stangneth 2014'tür; bu eleştir…"
 - [OK]      k1 → "Sonuncusu, Bettina Stangneth'in Eichmann Before Jerusalem: The Unexamined Life of a Mass Murderer başlıklı arş…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k7 → "Browning kitaba 2015'te Genocide Studies International'da dört sayfalık bir inceleme ayırdı."
+- [OK]      k7 → "Tartışma alanın kendi dergilerine de taşındı: Christopher R. Browning kitaba 2015'te Genocide Studies Internat…"
 - [OK]      k1 → "Kaynağın tam bu iddia için gösterdiği okumalar Bernstein, Hansen, Parekh, Pitkin ve Wolin'e aittir; bunlara gö…"
 - [ATOMSUZ] k1 → "Maddenin kendi adına eklediği üçüncü itiraz ise şudur: özel ile kamusal arasındaki katı ayrım, modernliğin en …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "1972'de bir konferansta Frankfurt Okulu'ndan Albrecht Wellmer'in sorusu üzerine Arendt, konut ve evsizliğin si…" — 4 atom doğrulandı; 1 ad ölçülemedi
@@ -47,9 +47,9 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T16:50:57.463Z_
 - [OK]      k4 → "Yazının kendi ön açıklaması, metnin nasıl doğduğunu Arendt'in ağzından verir: yazı Commentary editörlerinden b…"
 - [OK]      k4 → "Arendt, 49 eyaletin 29'undaki evlilik yasalarının okullardaki ayrımdan çok daha ağır bir anayasa ihlali olduğu…"
 - [OK]      k4 → "Arendt bu karşı çıkıştan özellikle eğitimli kesim açısından kuşku duyduğunu söyler, ama Siyah kamuoyunun ve NA…" — 1 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k5 → "Burroughs, Arendt'in vardığı sonuçları açıklamak için öne sürülen üç yorumu adlandırır: kategori yorumu — kamu…"
+- [OK]      k5 → "Michael D. Burroughs, Arendt'in vardığı sonuçları açıklamak için öne sürülen üç yorumu adlandırır: kategori yo…"
 - [OK]      k5 → "Burroughs üçünün de anlayışımızı ilerlettiğini kabul eder ama yeterince ileri gitmediğini söyler; ona göre Are…"
-- [OK]      k8 → "Board of Education kararından üç yıl sonra, on beş yaşındaki Elizabeth Eckford'un o güne dek beyaz öğrencilere…"
+- [OK]      k8 → "Kavga somut fotoğrafların etrafında döner: Brown v. Board of Education kararından üç yıl sonra, on beş yaşında…"
 - [OK]      k1 → "Kitabın Nazi suçlarını önemsizleştirdiği ya da Eichmann'ı savunduğu okuması ise ağır bir yanlış yorumdur."
 - [OK]      k1 → "Arendt, Eichmann'ın sadece emirleri yerine getirdiğini — sanığın kendi savunmasını — hiçbir zaman yazmadı; ona…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Arendt onu edimlerinden tümüyle sorumlu saydı ve idam kararını destekledi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

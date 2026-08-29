@@ -1,10 +1,10 @@
 ## olay-sanayi-devrimi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T16:23:58.183Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:03.796Z_
 
 - [OK]      k8 → "Kullanılan seride Ada'nın kömür üretimi 1760 için yılda 46 teravatsaatlik enerjiye denk düşer; aynı seri 1840 …" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k8 → "1760 değeri bu yüzden ölçüm değil ara değerdir; güvenilebilecek olan büyüklük mertebesidir, ondalık değil."
 - [OK]      k7 → "Kişi başına düşen üretim ise çok daha ölçülü arttı: aynı veri kümesinde kişi başına gelir 1760'ta 2915, 1840't…"
-- [OK]      k2 → "Cole imzalı ve 1962'de yayımlanıp 1967'de gözden geçirilen kitaptır; değerlendirme yazarı onu bir kuşağın teme…"
+- [OK]      k2 → "Britanya'nın uzun dönemli büyümesini ulusal gelir hesabı çerçevesine oturtan kurucu çalışma, Phyllis Deane ile…"
 - [ATOMSUZ] k2 → "Sanayi devrimi bu tahminlerde yok olmadı, gecikerek de olsa ayakta kaldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Knick Harley, Nick Crafts ile yürüttükleri çalışmanın Deane ve Cole'un 1840 öncesi büyüme resmini esaslı biçim…"
 - [OK]      k2 → "Kitabın kendi sektör tahminleri zaten toplam seriyle çelişiyordu: 1770-1800 arasında tekstil üretimi üçte bir …"
@@ -37,7 +37,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T16:23:58.183Z_
 - [ATOMSUZ] k1 → "Talep yanını savunanlar ise fabrikatörün ucuz, itaatkâr ve sendikalaşması olası olmayan bir işgücü aradığını, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Madencilikte düşüş kesintisizdir; aynı yıllarda yüzde 13'ten sırasıyla 12, 10 ve 6'ya iner."
 - [OK]      k1 → "Düşüşü kimi araştırmacı babanın ekmek kazandığı, annenin ev kadını olduğu aile modelinin işçi sınıfına yayılma…"
-- [OK]      k12 → "Guy'ın Kayıt Genel Müdürlüğü raporlarından derlediği tabloyu okudu: milyon kişide yıllık ölüm kırda 19.300, ke…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k12 → "1847 martında Viscount Morpeth, kentlerin sağlığına dair tasarı için izin isterken hekim Dr. Guy'ın Kayıt Gene…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k12 → "Bin kişideki ölüm Liverpool'da 35, Manchester'da 32, Halifax ile Kidderminster'da 21'di."
 - [OK]      k12 → "Farkı yoksullukla açıklamanın önünde bir engel vardı: Morpeth'in Lord Ebrington'ın Plymouth dersinden aktardığ…"
 - [ATOMSUZ] k12 → "Konuşmacının çekincesi de kayıtlıdır: aralık çeyreğinin daha ağır tablosunu, gıda arzındaki azalma ile ücretle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

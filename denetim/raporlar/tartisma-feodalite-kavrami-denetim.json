@@ -1,9 +1,9 @@
 {
   "id": "tartisma-feodalite-kavrami",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:56.992Z",
+  "zaman": "2026-08-29T19:34:28.225Z",
   "govde_hash": "669790b47783",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k6",
@@ -13,9 +13,9 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "Brown aynı saptamayı daha erken bir tarihe bağlar: kurgu on yedinci yüzyılda kurulmuş, o günden beri hukukçular, bilginler, öğretmenler ve polemikçiler tarafınd",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Elizabeth A. R. Brown aynı saptamayı daha erken bir tarihe bağlar: kurgu on yedinci yüzyılda kurulmuş, o günden beri hukukçular, bilginler, öğretmenler ve polem",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -26,8 +26,8 @@
     {
       "anahtar": "k7",
       "iddia": "Ders kitapları bir çağı bu adla açar; karşılaştırmalı tarih Japonya'dan Etiyopya'ya uzanan bir coğrafyada aynı etiketi kullanır; Marx çizgisi feodaliteyi kapita",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Japonya"
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -103,7 +103,7 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "Brown'un 1974'te American Historical Review'da çıkan makalesi, bir konferans gözlemiyle açılır: Thomas Bisson güney Fransa ve İspanya'daki barış kurumlarını feo",
+      "iddia": "Elizabeth A. R. Brown'un 1974'te American Historical Review'da çıkan makalesi, bir konferans gözlemiyle açılır: Thomas Bisson güney Fransa ve İspanya'daki barış",
       "durum": "OK",
       "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -255,13 +255,13 @@
       "anahtar": "k5",
       "iddia": "Toplum tipi ölçeğinde kavram en çok işi görür ve en az denetlenebilir: Bloch'un feodal toplumu ile Reischauer'in Japonya'sı bu ölçekte konuşur, Reynolds'un kuşk",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k6",
       "iddia": "Toplum tipi ölçeğinde kavram en çok işi görür ve en az denetlenebilir: Bloch'un feodal toplumu ile Reischauer'in Japonya'sı bu ölçekte konuşur, Reynolds'un kuşk",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k7",

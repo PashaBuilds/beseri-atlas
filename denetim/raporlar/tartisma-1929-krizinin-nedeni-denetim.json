@@ -1,9 +1,9 @@
 {
   "id": "tartisma-1929-krizinin-nedeni",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:56.386Z",
+  "zaman": "2026-08-29T19:34:26.302Z",
   "govde_hash": "410b59654f68",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -309,7 +309,7 @@
       "anahtar": "k10",
       "iddia": "Maddison Project kişi başına GSYH serisinde dünya değeri 1920'de yaklaşık 2.493, 1940'ta yaklaşık 3.413 uluslararası dolardır (2011 fiyatlarıyla).",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k10",

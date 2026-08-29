@@ -1,9 +1,9 @@
 {
   "id": "olay-otuz-yil-savaslari",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:46.609Z",
+  "zaman": "2026-08-29T19:34:02.942Z",
   "govde_hash": "78c4c4d0b667",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -39,7 +39,7 @@
       "anahtar": "k1",
       "iddia": "Savaşan güçlerin ölçüsü kayıtlıdır: azami fiilî kuvvetler arasında 100.000–140.000 İsveçli, 1626 için 27.000 Danimarkalı, 70.000–80.000 Fransız, 80.000–90.000 H",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "11 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

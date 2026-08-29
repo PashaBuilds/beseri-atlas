@@ -1,9 +1,9 @@
 {
   "id": "dusunur-marx",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:53.232Z",
+  "zaman": "2026-08-29T19:34:19.519Z",
   "govde_hash": "32503edda988",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k7",
@@ -127,9 +127,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Cohen'in savunduğu okuma önsözü işlevsel açıklamaya dayalı tutarlı bir kuram olarak kurtarmaya çalışır; başka yorumcular aynı metinde sınıf mücadelesinin adının",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Şemanın nasıl okunacağı yorumcular arasında bölünmüştür: G. A. Cohen'in savunduğu okuma önsözü işlevsel açıklamaya dayalı tutarlı bir kuram olarak kurtarmaya ça",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k7",
@@ -171,7 +171,7 @@
       "anahtar": "k4",
       "iddia": "İktisadi çözümlemesinin başyapıtı olan Kapital'in birinci cildi 1867'de yayımlandı.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k7",
@@ -212,8 +212,8 @@
     {
       "anahtar": "k7",
       "iddia": "Kitabın ilk büyük okur yankısı beklenmedik bir yerden geldi: Rusça çevirisine talep, kısa sürede 3.000 kopyalık bir basıma yol açtı.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Rusça"
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k7",

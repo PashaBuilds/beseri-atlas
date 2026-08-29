@@ -1,9 +1,9 @@
 {
   "id": "donem-08",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:41.517Z",
+  "zaman": "2026-08-29T19:33:50.636Z",
   "govde_hash": "7e39d3ed2799",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -19,7 +19,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl ortasındaki bu olguyu diğer bulaşıcı hastalıklardan ayırmak için ilk salgın ifadesi kullanıldı.",
+      "iddia": "Çağdaşları olayı salgın ya da büyük salgın, veba ya da büyük ölüm diye adlandırdı; pandeminin ardından, 14. yüzyıl ortasındaki bu olguyu diğer bulaşıcı hastalık",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

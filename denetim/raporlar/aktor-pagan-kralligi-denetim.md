@@ -1,8 +1,8 @@
 ## aktor-pagan-kralligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:51.029Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:14.034Z_
 
-- [ISARET]  k1 → "Pagan Krallığı, Güneydoğu Asya'nın batı ucunda, büyük bir nehrin orta havzasında kurulmuş siyasi birimdir." — özel isim kaynakta bulunamadı: Krallığı
-- [OK]      k3 → "Pagan Krallığı, Güneydoğu Asya'nın batı ucunda, büyük bir nehrin orta havzasında kurulmuş siyasi birimdir." — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Pagan Krallığı, Güneydoğu Asya'nın batı ucunda, büyük bir nehrin orta havzasında kurulmuş siyasi birimdir." — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Pagan Krallığı, Güneydoğu Asya'nın batı ucunda, büyük bir nehrin orta havzasında kurulmuş siyasi birimdir." — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k3 → "Krallığın kurulduğu ova, sulama yoluyla yüksek tarım verimi sağlayabilen bir alandır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Dosyanın ayırt edici yanı, bir devletin dinî bağış düzeninin maliyesini nasıl aşındırdığını ölçülebilir biçimd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Dosyanın ayırt edici yanı, bir devletin dinî bağış düzeninin maliyesini nasıl aşındırdığını ölçülebilir biçimd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -51,7 +51,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:51.029Z_
 - [ATOMSUZ] k3 → "Bu ara dönem, atlasın kaydettiği genel bir gözlemi doğrular." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Atlas bu bağı bir yasa olarak ileri sürmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki beşinci dosyadır ve bölgenin batı ucunu ilk kez ele alır."
-- [OK]      k3 → "Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki beşinci dosyadır ve bölgenin batı ucunu ilk kez ele alır." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki beşinci dosyadır ve bölgenin batı ucunu ilk kez ele alır."
 - [ATOMSUZ] k3 → "Dosyanın seçilme gerekçesi kapsamdan çok mekanizmadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bu mekanizma başka bölgelerde de vardır ve orada başka biçimler alır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Bu dosya üç kaynağa dayanır ve biri birincildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -65,4 +65,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:51.029Z_
 - [ATOMSUZ] k2 → "Taşa yazılan bir bağış, bir övünme kaydıdır; yapılmayan bağışlar ya da geri alınan topraklar aynı titizlikle y…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Bu yüzden kayıtlardan çıkarılan eğilim, bağışın yönünü doğru verir ama büyüklüğünü olduğundan fazla gösterebil…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 3 OK · 2 ISARET · 0 HATA · 58 ATOMSUZ
+**Özet:** 4 OK · 1 ISARET · 0 HATA · 58 ATOMSUZ

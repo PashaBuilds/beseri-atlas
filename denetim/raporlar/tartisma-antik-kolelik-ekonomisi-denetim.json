@@ -1,15 +1,15 @@
 {
   "id": "tartisma-antik-kolelik-ekonomisi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:56.615Z",
+  "zaman": "2026-08-29T19:34:27.224Z",
   "govde_hash": "939b284a3d47",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k6",
       "iddia": "Antik Yunan ve Roma'dan kalan metinler köleliği olağan bir kurum olarak anlatır: Atina'nın gümüş madenlerinde binlerce köle çalışır, Roma'nın çiftlik el kitapla",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yunan, Roma, Atina"
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k7",
@@ -188,8 +188,8 @@
     {
       "anahtar": "k1",
       "iddia": "Laurion'a dönüp bakan da yine odur: Ksenophon'un kamu gelirleri kitabının bütün programını Laurion'un tükenmez madenleri üzerine kurduğunu hatırlatır; birincil ",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ksenophon, Laurion"
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k6",
@@ -230,8 +230,8 @@
     {
       "anahtar": "k2",
       "iddia": "Rostovtzeff'in kavram dağarcığı on dokuzuncu yüzyılın sınıf sözlüğünden geliyordu ve sonraki eleştiri tam bu noktaya yüklendi; Finley'nin kitabı, modern kategor",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Finley"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -398,8 +398,8 @@
     {
       "anahtar": "k3",
       "iddia": "Kapsam sorusu ise kavramın kendisini sınar: köle toplumu nitelemesi klasik Yunanistan ile Roma İtalyası üzerinde tartışılırken, antik dünyanın geri kalanının ha",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yunanistan, Roma, İtalyası"
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     }
   ]
 }

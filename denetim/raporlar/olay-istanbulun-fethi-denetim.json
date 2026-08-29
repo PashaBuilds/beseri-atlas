@@ -1,9 +1,9 @@
 {
   "id": "olay-istanbulun-fethi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:45.414Z",
+  "zaman": "2026-08-29T19:33:59.673Z",
   "govde_hash": "2402ec66eba6",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -51,11 +51,11 @@
       "anahtar": "k1",
       "iddia": "Kaynak olayın anlamını açık biçimde nitelendirir: Konstantinopolis'in ve Bizans İmparatorluğu'nun düşüşü Geç Orta Çağ'ın bir dönüm anıydı ve kabaca MÖ 27'de baş",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
-      "iddia": "yüzyıldaki çöküşünden sonra ayakta kalmış ve 1453'e kadar sürmüştür.",
+      "iddia": "Aynı süreklilik Bizans kayıtlarında da görülür: devlet, Batı Roma'nın 5. yüzyıldaki çöküşünden sonra ayakta kalmış ve 1453'e kadar sürmüştür.",
       "durum": "OK",
       "not": ""
     }

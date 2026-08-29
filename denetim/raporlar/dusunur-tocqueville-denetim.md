@@ -1,5 +1,5 @@
 ## dusunur-tocqueville
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.571Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:20.690Z_
 
 - [OK]      k1 → "Kaynak onun başlıca eserlerini künyeleriyle verir: Amerika'da Demokrasi (1835) ve Eski Rejim ve Devrim (1856);…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kaynak Amerika'da Demokrasi altında şu alt başlıkları açar: sivil ve siyasi toplum ile birey, demokrasi ve yen…" — 2 atom doğrulandı; 2 ad ölçülemedi

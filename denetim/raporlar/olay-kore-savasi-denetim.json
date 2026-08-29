@@ -1,9 +1,9 @@
 {
   "id": "olay-kore-savasi",
   "gecis": 2,
-  "zaman": "2026-08-29T15:47:33.880Z",
+  "zaman": "2026-08-29T19:34:01.372Z",
   "govde_hash": "afaf536c6153",
-  "commit": "fdab69c",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k6",

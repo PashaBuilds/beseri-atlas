@@ -1,9 +1,9 @@
 {
   "id": "olay-sanayi-devrimi",
   "gecis": 2,
-  "zaman": "2026-08-29T16:23:58.183Z",
+  "zaman": "2026-08-29T19:34:03.796Z",
   "govde_hash": "66a9ca0d3fd0",
-  "commit": "99160de",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k8",
@@ -25,7 +25,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Cole imzalı ve 1962'de yayımlanıp 1967'de gözden geçirilen kitaptır; değerlendirme yazarı onu bir kuşağın temel metni sayar, ama kendilerinin de Clapham'ın izin",
+      "iddia": "Britanya'nın uzun dönemli büyümesini ulusal gelir hesabı çerçevesine oturtan kurucu çalışma, Phyllis Deane ile W. A. Cole imzalı ve 1962'de yayımlanıp 1967'de g",
       "durum": "OK",
       "not": ""
     },
@@ -223,9 +223,9 @@
     },
     {
       "anahtar": "k12",
-      "iddia": "Guy'ın Kayıt Genel Müdürlüğü raporlarından derlediği tabloyu okudu: milyon kişide yıllık ölüm kırda 19.300, kentte 27.073'tü; ölüm oranı kırda elli ikide bir, k",
+      "iddia": "1847 martında Viscount Morpeth, kentlerin sağlığına dair tasarı için izin isterken hekim Dr. Guy'ın Kayıt Genel Müdürlüğü raporlarından derlediği tabloyu okudu:",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k12",

@@ -1,9 +1,9 @@
 {
   "id": "kavram-millet-sistemi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:55.306Z",
+  "zaman": "2026-08-29T19:34:24.198Z",
   "govde_hash": "32db071a4dec",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -19,9 +19,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl için ayrı bir alt başlık ayırır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Kaynak, tarih bölümünün altında terimin Sasani İmparatorluğu için kullanımını ayrı bir alt başlık olarak tutar ve 19. yüzyıl için ayrı bir alt başlık ayırır.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -217,7 +217,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıldaki dönüşümü burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "iddia": "Sistemin işleyişi, hukuki dayanakları ve 19. yüzyıldaki dönüşümü burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

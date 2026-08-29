@@ -1,9 +1,9 @@
 {
   "id": "olay-mansa-musa-haci",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:46.219Z",
+  "zaman": "2026-08-29T19:34:01.804Z",
   "govde_hash": "f1a9bedb2c1b",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -75,7 +75,7 @@
       "anahtar": "k1",
       "iddia": "Musa tahta çıktığında Mali, büyük ölçüde eski Gana İmparatorluğu'nun toprağından oluşuyordu ve bu topraklar Mali'ye tabi hale gelmişti; imparatorluğun kapsadığı",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k2",

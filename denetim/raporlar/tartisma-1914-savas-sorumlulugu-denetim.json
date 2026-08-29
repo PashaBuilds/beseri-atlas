@@ -1,9 +1,9 @@
 {
   "id": "tartisma-1914-savas-sorumlulugu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:56.328Z",
+  "zaman": "2026-08-29T19:34:26.161Z",
   "govde_hash": "c77278b3d778",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k2",
@@ -43,7 +43,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "madde ise Almanya'nın kaynaklarının tam tazmine yetmediğini açıkça kabul eder ve yükümlülüğü sivil halka ve mülke verilen zararla sınırlar.",
+      "iddia": "Hemen ardından gelen 232. madde ise Almanya'nın kaynaklarının tam tazmine yetmediğini açıkça kabul eder ve yükümlülüğü sivil halka ve mülke verilen zararla sını",
       "durum": "OK",
       "not": ""
     },
@@ -55,7 +55,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "madde de savaş hukukunu ihlal etmekle suçlanan kişilerin askerî mahkemelere çıkarılmasını düzenler.",
+      "iddia": "228. madde de savaş hukukunu ihlal etmekle suçlanan kişilerin askerî mahkemelere çıkarılmasını düzenler.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -79,9 +79,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "maddenin ahlaki geçersizliğini göstererek tazminatları sona erdirmekti.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Versailles'ın koşullarına karşı çıkan Sidney Bradshaw Fay, Charles A. Beard ve Harry Elmer Barnes gibi Amerikalı tarihçiler Almanya'nın sorumlu olmadığını ileri",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -181,9 +181,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Williamson Jr., 1990 tarihli çalışmasında suçun büyük bölümünü Almanlara değil Avusturya-Macaristan seçkinlerine yükler.",
+      "iddia": "Samuel R. Williamson Jr., 1990 tarihli çalışmasında suçun büyük bölümünü Almanlara değil Avusturya-Macaristan seçkinlerine yükler.",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -345,7 +345,7 @@
       "anahtar": "k1",
       "iddia": "Taylor'ın 1969 tarihli War by Time-table kitabındaki demiryolu tezidir.",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",

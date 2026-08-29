@@ -1,5 +1,5 @@
 ## dusunur-fanon
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.443Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:17.425Z_
 
 - [OK]      k1 → "Frantz Fanon, Karayipler'de doğmuş, Fransa'da psikiyatri eğitimi almış ve Kuzey Afrika'da hekimlik yaparken sö…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k3 → "Frantz Fanon, Karayipler'de doğmuş, Fransa'da psikiyatri eğitimi almış ve Kuzey Afrika'da hekimlik yaparken sö…" — 2 atom doğrulandı; 2 ad ölçülemedi

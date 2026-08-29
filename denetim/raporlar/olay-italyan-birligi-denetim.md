@@ -1,5 +1,5 @@
 ## olay-italyan-birligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T15:42:58.265Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:00.064Z_
 
 - [OK]      k9 → "Yüzyılın ortasında birbirini dışlayan üç proje aynı anda dolaşımdaydı: papanın başkanlığında bir devletler kon…"
 - [OK]      k9 → "17 Mart 1861'de Torino'da toplanan ilk İtalyan parlamentosu Vittorio Emanuele'yi İtalya kralı ilan etti; 27 Ma…"

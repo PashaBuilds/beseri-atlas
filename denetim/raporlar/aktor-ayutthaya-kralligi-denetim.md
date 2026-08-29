@@ -1,8 +1,8 @@
 ## aktor-ayutthaya-kralligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.211Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:06.951Z_
 
-- [ISARET]  k1 → "Ayutthaya Krallığı, Güneydoğu Asya'nın anakara bölümünde, denize açılan bir nehir sisteminin üzerinde kurulmuş…" — özel isim kaynakta bulunamadı: Krallığı
-- [OK]      k3 → "Ayutthaya Krallığı, Güneydoğu Asya'nın anakara bölümünde, denize açılan bir nehir sisteminin üzerinde kurulmuş…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Ayutthaya Krallığı, Güneydoğu Asya'nın anakara bölümünde, denize açılan bir nehir sisteminin üzerinde kurulmuş…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Ayutthaya Krallığı, Güneydoğu Asya'nın anakara bölümünde, denize açılan bir nehir sisteminin üzerinde kurulmuş…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Krallık ne yalnızca bir liman devleti ne de yalnızca bir tarım devletidir; ikisini birden taşır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Krallık ne yalnızca bir liman devleti ne de yalnızca bir tarım devletidir; ikisini birden taşır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k3 → "Atlasın öteki Güneydoğu Asya dosyaları bu iki uçtan birine yakın durur." — 1 atom doğrulandı; 1 ad ölçülemedi
@@ -63,9 +63,9 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.211Z_
 - [ATOMSUZ] k1 → "Gıda üretimi fazlası olan bir devletin, gıda ithal eden liman devletleri üzerinde kurduğu etki, silahla kurula…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Atlas bu tür etkiyi ayrı bir kategori olarak kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki dördüncü dosyadır ve bölgenin anakara bölümünü ilk kez ayr…"
-- [OK]      k3 → "Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki dördüncü dosyadır ve bölgenin anakara bölümünü ilk kez ayr…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki dördüncü dosyadır ve bölgenin anakara bölümünü ilk kez ayr…"
 - [ATOMSUZ] k1 → "Ayrımın önemi şudur: ada ve boğaz düzenleri gelirini geçişten, anakara düzenleri ise topraktan alır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Bölgenin bir düzen değil birbirinden farklı düzenler topluluğu olduğu, ancak birkaç dosya yan yana konduğunda …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k3 → "Bölgedeki egemenlik biçimi için , Avrupa devletlerini dengeleme mantığı için dosyaları uygundur."
 
-**Özet:** 6 OK · 3 ISARET · 0 HATA · 57 ATOMSUZ
+**Özet:** 7 OK · 2 ISARET · 0 HATA · 57 ATOMSUZ

@@ -1,5 +1,5 @@
 ## dusunur-gandhi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.563Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:17.675Z_
 
 - [ATOMSUZ] k2 → "Gandhi, on dokuzuncu yüzyılın sonunda doğdu ve hukuk öğrenimi gördü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ISARET]  k1 → "Güney Afrika'da yaklaşık yirmi yıl kaldı." — özel isim kaynakta bulunamadı: Afrika

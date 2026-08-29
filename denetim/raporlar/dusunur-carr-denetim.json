@@ -1,13 +1,13 @@
 {
   "id": "dusunur-carr",
   "gecis": 2,
-  "zaman": "2026-08-29T16:54:09.401Z",
+  "zaman": "2026-08-29T19:34:17.082Z",
   "govde_hash": "c54dda1154f4",
-  "commit": "ed6ddb4",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Carr'ın 1961'de Cambridge'de verdiği konferanslarda savunduğu buydu.",
+      "iddia": "E. H. Carr'ın 1961'de Cambridge'de verdiği konferanslarda savunduğu buydu.",
       "durum": "OK",
       "not": ""
     },
@@ -103,7 +103,7 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "Walsh 1963'teki değerlendirmesinde ayrımı en açık örnekle sınadı: o gün kahvaltıda kızarmış ekmek yemiş olması bir tarih olgusu değildir.",
+      "iddia": "Filozof W. H. Walsh 1963'teki değerlendirmesinde ayrımı en açık örnekle sınadı: o gün kahvaltıda kızarmış ekmek yemiş olması bir tarih olgusu değildir.",
       "durum": "OK",
       "not": ""
     },
@@ -175,7 +175,7 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "Carr: A Critical Appraisal, Palgrave, Londra.",
+      "iddia": "Aynı adın 2000'de bir başka cilde de düştüğünü kaynak kaydeder: Michael Cox'un derlediği E. H. Carr: A Critical Appraisal, Palgrave, Londra.",
       "durum": "OK",
       "not": ""
     },
@@ -229,9 +229,9 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "Evans, Tarih Nedir?'in 1960'larda Britanya tarih yazımında bir devrime yol açtığını söyledi; Carr'a eleştirel yaklaşan Avustralyalı tarihçi Keith Windschuttle b",
+      "iddia": "Richard J. Evans, Tarih Nedir?'in 1960'larda Britanya tarih yazımında bir devrime yol açtığını söyledi; Carr'a eleştirel yaklaşan Avustralyalı tarihçi Keith Win",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k4",
@@ -241,15 +241,15 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Davies'in adı altında verir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Ölümünden sonraki ikinci baskı 1986'da Palgrave Macmillan'dan çıktı; üstveri kaydı birinci bölümü Carr ile R. W. Davies'in adı altında verir.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k4",
-      "iddia": "Evans'ın uzun bir eleştirel girişini taşıyor.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Davies cilde kendi giriş notunu ve Carr'ın dosyalarından derlediği notları ekledi; 2001 yeniden basımı ise Richard J. Evans'ın uzun bir eleştirel girişini taşıy",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k4",

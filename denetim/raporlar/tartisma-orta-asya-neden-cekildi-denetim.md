@@ -1,5 +1,5 @@
 ## tartisma-orta-asya-neden-cekildi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.049Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:31.449Z_
 
 - [OK]      k1 → "Orta Asya'nın on altıncı yüzyıldan sonra dünya ekonomisindeki ve siyasetindeki ağırlığını yitirdiği yaygın ola…"
 - [ATOMSUZ] k2 → "Cümlenin işlevi, dört yüzyılı atlamaktır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

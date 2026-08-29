@@ -1,7 +1,7 @@
 ## kaynak-yusuf-has-hacib-kutadgu-bilig
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:01.648Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:37.779Z_
 
-- [ATOMSUZ] k1 → "Kutadgu Bilig, iyi yönetimin neye dayandığını tartışan bir siyaset metnidir." — programatik olarak ölçülemedi (ad karşılığı yok): Bilig
+- [OK]      k1 → "Kutadgu Bilig, iyi yönetimin neye dayandığını tartışan bir siyaset metnidir."
 - [OK]      k2 → "Kutadgu Bilig, iyi yönetimin neye dayandığını tartışan bir siyaset metnidir."
 - [ATOMSUZ] k1 → "Yöneticinin karşısına akıl, deneyim ve dünyadan çekilme ayrı ayrı çıkar; her biri kendi gerekçesini sunar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Yöneticinin karşısına akıl, deneyim ve dünyadan çekilme ayrı ayrı çıkar; her biri kendi gerekçesini sunar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -26,4 +26,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:01.648Z_
 - [ATOMSUZ] k3 → "Metnin dil özellikleri, nüsha tarihi ve sonraki edebî etkisi de burada işlenmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Metne yapılacak atıflarda beyit numarası ve kullanılan çeviri belirtilmelidir; kaynak özgün metni de sunduğu i…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 1 OK · 1 ISARET · 0 HATA · 22 ATOMSUZ
+**Özet:** 2 OK · 1 ISARET · 0 HATA · 21 ATOMSUZ

@@ -1,19 +1,19 @@
 {
   "id": "aktor-aksum-kralligi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:47.890Z",
+  "zaman": "2026-08-29T19:34:06.154Z",
   "govde_hash": "52acc932b12e",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyılın dört büyük gücünden biri sayılmıştır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Aksum Krallığı, Maniheizm'in kurucusu Mani tarafından Pers, Roma ve Çin'in yanı sıra 3. yüzyılın dört büyük gücünden biri sayılmıştır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılda yaşamış bir din kurucusudur.",
+      "iddia": "Bu sıralama modern bir değerlendirme değil, dönemin kendi içinden gelen bir kayıttır: listeyi yapan kişi 3. yüzyılda yaşamış bir din kurucusudur.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -25,13 +25,13 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılda kuruldu ve 960'ta çöküşle sona erdi; daha erken Dʿmt uygarlığından doğmuştur ve başkenti Aksum şehriydi.",
+      "iddia": "Krallık 1. yüzyılda kuruldu ve 960'ta çöküşle sona erdi; daha erken Dʿmt uygarlığından doğmuştur ve başkenti Aksum şehriydi.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl ile 960 arasındaki aralık, atlasın kronolojik omurgasında birden fazla dönemi keser; krallık kısa ömürlü bir bölgesel güç değil uzun süreli bir düzendir.",
+      "iddia": "1. yüzyıl ile 960 arasındaki aralık, atlasın kronolojik omurgasında birden fazla dönemi keser; krallık kısa ömürlü bir bölgesel güç değil uzun süreli bir düzend",
       "durum": "OK",
       "not": ""
     },
@@ -43,9 +43,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıldaki erken Güney Arabistan katılımını kaydeder.",
+      "iddia": "Kaynak ayrıca Aksum'un Himyar'ı işgalini ve 3. yüzyıldaki erken Güney Arabistan katılımını kaydeder.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

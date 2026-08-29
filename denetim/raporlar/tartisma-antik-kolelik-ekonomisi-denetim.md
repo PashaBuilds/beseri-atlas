@@ -1,7 +1,7 @@
 ## tartisma-antik-kolelik-ekonomisi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.615Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:27.224Z_
 
-- [ATOMSUZ] k6 → "Antik Yunan ve Roma'dan kalan metinler köleliği olağan bir kurum olarak anlatır: Atina'nın gümüş madenlerinde …" — programatik olarak ölçülemedi (ad karşılığı yok): Yunan, Roma, Atina
+- [OK]      k6 → "Antik Yunan ve Roma'dan kalan metinler köleliği olağan bir kurum olarak anlatır: Atina'nın gümüş madenlerinde …" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k7 → "Antik Yunan ve Roma'dan kalan metinler köleliği olağan bir kurum olarak anlatır: Atina'nın gümüş madenlerinde …" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k4 → "Antik Yunan ve Roma'dan kalan metinler köleliği olağan bir kurum olarak anlatır: Atina'nın gümüş madenlerinde …" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Sorunun iki ucunda, antik dünyaya hangi kavramlarla bakılacağına dair iki ayrı yöntem durur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -31,14 +31,14 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.615Z_
 - [ATOMSUZ] k1 → "Ölçüt sayım değildir: köle toplumu, mülk sahibi sınıfın artık ürününü esas olarak köle emeğinden çektiği toplu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Ölçüt sayım değildir: köle toplumu, mülk sahibi sınıfın artık ürününü esas olarak köle emeğinden çektiği toplu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Finley kanıtın sınırını da saklamaz: antik köleliğin kârlılığını hesaplayacak veri elde yoktur ve kölelik en s…" — 1 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Laurion'a dönüp bakan da yine odur: Ksenophon'un kamu gelirleri kitabının bütün programını Laurion'un tükenmez…" — programatik olarak ölçülemedi (ad karşılığı yok): Ksenophon, Laurion
+- [OK]      k1 → "Laurion'a dönüp bakan da yine odur: Ksenophon'un kamu gelirleri kitabının bütün programını Laurion'un tükenmez…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k6 → "Laurion'a dönüp bakan da yine odur: Ksenophon'un kamu gelirleri kitabının bütün programını Laurion'un tükenmez…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Michael Rostovtzeff 1926'da yayımlanan The Social and Economic History of the Roman Empire'da şehir ekonomisi …"
 - [OK]      k2 → "Iulius'lar ile Claudius'ların siyasetini de aynı çerçeveye yerleştirir: amaç, devleti imparatorluğun bütününde…"
 - [OK]      k2 → "Kitabın dili bilinçli olarak moderndir: İtalyan burjuvazisi ile İtalyan proletaryası arasındaki ittifaktan, ge…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k2 → "Bu okumada kölelik yok sayılmaz; ama düzenin tanımlayıcı özelliği köle emeği değil, ticaretin, kent yaşamının …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Rostovtzeff'in kavram dağarcığı on dokuzuncu yüzyılın sınıf sözlüğünden geliyordu ve sonraki eleştiri tam bu n…"
-- [ATOMSUZ] k2 → "Rostovtzeff'in kavram dağarcığı on dokuzuncu yüzyılın sınıf sözlüğünden geliyordu ve sonraki eleştiri tam bu n…" — programatik olarak ölçülemedi (ad karşılığı yok): Finley
+- [OK]      k2 → "Rostovtzeff'in kavram dağarcığı on dokuzuncu yüzyılın sınıf sözlüğünden geliyordu ve sonraki eleştiri tam bu n…"
 - [ATOMSUZ] k1 → "Tartışma bu yüzden yalnızca köleliğin payı hakkında değildir; antik ekonominin kendine özgü bir nesne mi, yoks…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Tartışma bu yüzden yalnızca köleliğin payı hakkında değildir; antik ekonominin kendine özgü bir nesne mi, yoks…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k9 → "Roma dünyası için köle sayıları sayımdan değil modelden gelir: bir hesap, MÖ altmışların ortasından MÖ 30'a ka…"
@@ -66,6 +66,6 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.615Z_
 - [ATOMSUZ] k1 → "Tanım sorusu çözülmüş değildir: mal kölesi, helot ve borç bağımlısı ayrı hukuki biçimlerdir ve üçünü aynı sütu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k5 → "Tanım sorusu çözülmüş değildir: mal kölesi, helot ve borç bağımlısı ayrı hukuki biçimlerdir ve üçünü aynı sütu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kapsam sorusu ise kavramın kendisini sınar: köle toplumu nitelemesi klasik Yunanistan ile Roma İtalyası üzerin…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k3 → "Kapsam sorusu ise kavramın kendisini sınar: köle toplumu nitelemesi klasik Yunanistan ile Roma İtalyası üzerin…" — programatik olarak ölçülemedi (ad karşılığı yok): Yunanistan, Roma, İtalyası
+- [OK]      k3 → "Kapsam sorusu ise kavramın kendisini sınar: köle toplumu nitelemesi klasik Yunanistan ile Roma İtalyası üzerin…" — 2 atom doğrulandı; 1 ad ölçülemedi
 
-**Özet:** 37 OK · 0 ISARET · 0 HATA · 29 ATOMSUZ
+**Özet:** 41 OK · 0 ISARET · 0 HATA · 25 ATOMSUZ

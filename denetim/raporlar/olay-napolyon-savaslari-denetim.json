@@ -1,9 +1,9 @@
 {
   "id": "olay-napolyon-savaslari",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:46.475Z",
+  "zaman": "2026-08-29T19:34:02.757Z",
   "govde_hash": "f19638fe6a48",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -49,7 +49,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Topyekûn savaş kavramının bu dönemin mirası olarak sayılması, 20.",
+      "iddia": "Topyekûn savaş kavramının bu dönemin mirası olarak sayılması, 20. yüzyıl savaşlarının kavramsal kökenini buraya bağlar.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

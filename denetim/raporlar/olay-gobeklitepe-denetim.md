@@ -1,5 +1,5 @@
 ## olay-gobeklitepe
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:44.784Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:58.122Z_
 
 - [OK]      k1 → "Yapı yaklaşık MÖ 9500'de (günümüzden 11.450 yıl önce) inşa edilmiş ve yaklaşık MÖ 8000'de (günümüzden 9.950 yı…"
 - [OK]      k1 → "Yerleşim Türkiye'nin Şanlıurfa ilinde, Güneydoğu Anadolu bölgesindedir." — 3 atom doğrulandı; 1 ad ölçülemedi

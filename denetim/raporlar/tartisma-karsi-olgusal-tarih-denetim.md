@@ -1,5 +1,5 @@
 ## tartisma-karsi-olgusal-tarih
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.725Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:30.437Z_
 
 - [ATOMSUZ] k1 → "Alanın başvuru kaydı bunu tarih yazımının bir biçimi diye tanımlar; amacını, olanı anlamak için olmayanı ya da…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Ayrım kolay değildir, çünkü aynı uğraş kendi edebî türünü de doğurmuştur: alternatif tarih, spekülatif tarih, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -16,7 +16,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.725Z_
 - [OK]      k7 → "Robert Fogel'in 1964'te Johns Hopkins Press'ten çıkan, xv + 296 sayfalık Railroads and American Economic Growt…"
 - [OK]      k5 → "Lance Davis'in değerlendirme yazısına göre kitabın iki tarım bölümü açık bir karşı-olgusal kurar — demiryolu o…"
 - [OK]      k5 → "Aynı değerlendirmeye göre açık karşı-olgusal fikri 1960'ların başında tarihçilerin çoğu için hâlâ yabancı bir …"
-- [OK]      k5 → "Sonuç, tartışmanın en çok anılan sayısıdır: aktarılan hesaba göre 1 Ocak 1890'da ulaşılan kişi başı gelir düze…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Sonuç, tartışmanın en çok anılan sayısıdır: aktarılan hesaba göre 1 Ocak 1890'da ulaşılan kişi başı gelir düze…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Sonuç, tartışmanın en çok anılan sayısıdır: aktarılan hesaba göre 1 Ocak 1890'da ulaşılan kişi başı gelir düze…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k5 → "Bölgeler arası taşımada demiryolunun sağladığı toplumsal tasarruf, aynı hesaba göre GSMH'nin yüzde birinin alt…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k5 → "Bölge içi taşımada oran daha yüksektir, ama orada da kanal ağının genişletilmesi ve yolların iyileştirilmesi h…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -43,11 +43,11 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.725Z_
 - [OK]      k9 → "Katalog kaydının tanıtımına göre kitap, Britanya Birinci Dünya Savaşı'na girmeyip tarafsız kalsaydı, 1940 ya d…" — 3 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Buna karşılık aynı kayıt, karşı-olgusalların açıklama sınamakta işlevi olduğunu savunan konumu da aktarır; Chr…"
 - [OK]      k3 → "Tarih felsefesi kaydına göre tarihsel olayların yinelenemezliği, geleneksel karşı-olgusal önermeleri ilginç bi…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k3 → "kitabı hem tarih felsefesi kaydının hem de Türkçe yöntem yazınının kaynakçasında yer alır." — programatik olarak ölçülemedi (ad karşılığı yok): Türkçe
+- [OK]      k3 → "kitabı hem tarih felsefesi kaydının hem de Türkçe yöntem yazınının kaynakçasında yer alır."
 - [OK]      k11 → "kitabı hem tarih felsefesi kaydının hem de Türkçe yöntem yazınının kaynakçasında yer alır."
 - [OK]      k3 → "Kayda göre Carr, Ranke'nin görgül nesnellik umudunu saf gerçekçilik diye niteleyenler arasında anılır; karşı-o…"
 - [OK]      k10 → "Kitabın katalog kaydı yalnızca şunu verir: 1892–1982 arasında yaşamış bir yazarın, ilk kez 1961'de yayımlanmış…"
 - [ATOMSUZ] k5 → "Bir karşı-olgusal senaryonun hangi noktada durdurulacağı — zincirin nereye kadar izleneceği — ölçüte bağlanmış…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Nedensellik cümlesinin karşı-olgusal içerdiği çözümlemesi de felsefede kapanmış değildir: kayda göre yalın kar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 34 OK · 0 ISARET · 0 HATA · 14 ATOMSUZ
+**Özet:** 35 OK · 0 ISARET · 0 HATA · 13 ATOMSUZ

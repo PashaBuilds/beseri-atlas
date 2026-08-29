@@ -1,9 +1,9 @@
 {
   "id": "kavram-hegemonya",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:54.442Z",
+  "zaman": "2026-08-29T19:34:22.697Z",
   "govde_hash": "0c7a73b474ca",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -93,7 +93,7 @@
       "anahtar": "k5",
       "iddia": "Kuram 1970'lerde Robert Gilpin ve Stephen Krasner gibi adlarca geliştirildi; arka planında Charles Kindleberger'in iki savaş arası buhranını konu alan The World",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 4 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",

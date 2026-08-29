@@ -1,9 +1,9 @@
 ## donem-13
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:42.294Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:52.177Z_
 
 - [OK]      k3 → "Otuz bir yıl içinde Osmanlı Devleti sona erdi, 1929'da başlayan buhranla birlikte dünya ticareti çöktü ve demo…"
-- [OK]      k1 → "Otuz bir yıl içinde Osmanlı Devleti sona erdi, 1929'da başlayan buhranla birlikte dünya ticareti çöktü ve demo…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "Otuz bir yıl içinde Osmanlı Devleti sona erdi, 1929'da başlayan buhranla birlikte dünya ticareti çöktü ve demo…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Otuz bir yıl içinde Osmanlı Devleti sona erdi, 1929'da başlayan buhranla birlikte dünya ticareti çöktü ve demo…"
+- [OK]      k1 → "Otuz bir yıl içinde Osmanlı Devleti sona erdi, 1929'da başlayan buhranla birlikte dünya ticareti çöktü ve demo…"
 - [OK]      k1 → "Ara dönem, siyasi olarak komünizmin yükselişiyle başladı — Rusya'da Ekim Devrimi ve Rus İç Savaşı ile — ve faş…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Arada Weimar Cumhuriyeti, 1933 sonrası Nazi dönemi ve 1936–1939 arasındaki İspanya İç Savaşı yer alır." — 6 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k3 → "Osmanlı Devleti bu dönemin ortasında sona erdi; TDV İslâm Ansiklopedisi devletin ömrünü 1300–1922 olarak verir…"
@@ -23,7 +23,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:42.294Z_
 - [OK]      k1 → "İktisadi tarafta dönemin belirleyici olayı 1929'da başlayan Büyük Buhran'a verilen tepkiler ve dünya ticaretin…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Buna eşlik eden şey iktisadi otarşi çabalarının büyümesiydi: devletler dış ticarete bağımlılığı azaltmayı siya…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k5 → "Dönemin karşılaştırmalı gelir seviyelerini ölçmek isteyenler için uzun dönemli seri, 169 ülkeyi ve 2022'ye kad…"
-- [OK]      k6 → "maddesi, savaşın Almanya ve müttefiklerinin saldırganlığıyla dayatılmasının sonucu olarak uğranan bütün kayıp …"
+- [OK]      k6 → "Bölümü'nün 231. maddesi, savaşın Almanya ve müttefiklerinin saldırganlığıyla dayatılmasının sonucu olarak uğra…"
 - [OK]      k1 → "Ara dönem diplomasisinin gündemi, Milletler Cemiyeti'nden beklenenler ve onun başarısızlıkları, yeni ülkelerin…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Britanya, Fransa ve diğerlerinin imparatorlukları, emperyalizm giderek olumsuz görüldükçe ve birçok sömürgede …"
 - [OK]      k1 → "Kendi kendini yöneten Dominyonlar — Kanada, Newfoundland, Avustralya, Yeni Zelanda, Güney Afrika ve İrlanda Hü…"

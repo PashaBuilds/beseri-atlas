@@ -1,5 +1,5 @@
 ## kaynak-meiji-anayasasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:01.292Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:37.258Z_
 
 - [OK]      k1 → "Meiji Anayasası, 1889'da ilan edilen ve iki meclisli bir yasama düzeni kuran yazılı anayasadır." — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k2 → "Anayasa elli altı yıl yürürlükte kaldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## aktor-hokand-hanligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.576Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:10.175Z_
 
 - [OK]      k1 → "Hokand Hanlığı, on sekizinci yüzyıl başında dağlarla çevrili verimli bir vadide kurulan ve on dokuzuncu yüzyıl…"
 - [ATOMSUZ] k2 → "Vadi, çevresindeki bölgelerden dağ sıralarıyla ayrılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

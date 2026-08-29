@@ -1,19 +1,41 @@
 {
   "id": "aktor-baglantisizlar-hareketi",
   "gecis": 3,
-  "zaman": "2026-08-21T07:21:15.601Z",
+  "zaman": "2026-08-29T19:23:43.858Z",
+  "govde_hash": "263a97460578",
   "itirazlar": [
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Hareketin kuruluşu tek bir toplantıya değil bir diziye dayanır. Kaynak zinciri şöyle verir: Eylül 1957'de Kahire'deki Afro-Asya Halkları Dayanışma Konferansı ve ardından 1961'deki ",
+      "cumle": "Hareketi kuran şey Bandung değil, altı yıl sonraki bir tanım kavgasıdır. Fikir 1961 baharında Tito, Nasır ve Sukarno arasındaki karşılıklı ziyaretlerden çıktı; CIA'nın Ağustos 1961",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Beklentiler zaten aynı değildi. Tito, Yugoslavya konferanstaki tek Avrupa devleti olacağı için Avrupa ve Almanya üzerine söyleyeceklerinin özel bir ağırlık taşıyacağına inanıyordu;",
       "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     },
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Yani hareketin kuruluşu 1955'ten 1961'e uzanan altı yıla yayılır.[^k1] Bir kurumun doğuşunun bu kadar uzun sürmesi, blok dışı kalma fikrinin örgütsel bir biçime çevrilmesinin kolay",
+      "cumle": "Zirvenin bildirisi hareketin tanımını verir: bağlanmamış alanın genişlemesi, dünyanın bloklara tam olarak bölünmesi ve Soğuk Savaş siyasetlerinin yoğunlaşması karşısındaki tek mümk",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Hareketin ağırlığı orduda değil oylamadaydı; bunu Bandung daha 1955'te görmüştü. Konferans, [Birleşmiş Milletler](/aktor/birlesmis-milletler/) üyeliğinin evrensel olması gerektiğin",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "İki dosya bağlantısızlığın sınırını görünür kıldı. Hindistan'ın BM'deki ilk Afganistan tartışmasında Sovyet müdahalesinin görüşülmesine karşı çıkan açıklaması, ılımlı bağlantısız d",
       "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     }

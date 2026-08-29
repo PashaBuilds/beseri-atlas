@@ -1,13 +1,13 @@
 {
   "id": "kaynak-clark-uyurgezerler",
   "gecis": 2,
-  "zaman": "2026-08-29T14:40:00.470Z",
+  "zaman": "2026-08-29T19:34:35.969Z",
   "govde_hash": "0c75467e6800",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Clark, The sleepwalkers: how Europe went to war in 1914, New York: Harper, 2013.",
+      "iddia": "Christopher M. Clark, The sleepwalkers: how Europe went to war in 1914, New York: Harper, 2013.",
       "durum": "OK",
       "not": ""
     },

@@ -1,5 +1,5 @@
 ## kavram-ilkel-birikim
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:22:36.054Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:23.092Z_
 
 - [ATOMSUZ] k1 → "Sermayenin nereden geldiğini açıklamak isteyen her kuram bir kısırdöngüye çarpar: birikim artı değeri, artı de…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Döngüden çıkmanın klasik yolu, kapitalist birikimden önce gelen, onun sonucu değil başlangıç noktası olan bir …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -21,14 +21,14 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T19:22:36.054Z_
 - [ATOMSUZ] k2 → "Dizinin son halkası arazilerin boşaltılmasıdır — sürülecek bağımsız köylü kalmayınca kulübelerin temizlenmesi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k3 → "Marx'a göre yöntemler on yedinci yüzyıl sonunda İngiltere'de sistemli bir bileşime varır: sömürgeler, kamu bor…"
 - [OK]      k3 → "Bunların bir bölümü kaba kuvvete dayanır, ama hepsi devletin yoğunlaşmış gücünü kullanır; Marx için zor, yeni …"
-- [OK]      k3 → "Anderson'ın ticaret yıllıklarından aktardığına göre İngiltere, Utrecht Barışı'nda İspanyollardan Asiento Antla…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Marx'ın A. Anderson'ın ticaret yıllıklarından aktardığına göre İngiltere, Utrecht Barışı'nda İspanyollardan As…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Mülksüzleştirmenin tarihi ülkeden ülkeye başka görünümler alır, evrelerini başka sıralarla ve başka dönemlerde…"
 - [OK]      k1 → "Marx aynı sayfanın dipnotunda İtalya'yı istisna olarak anar: kapitalist üretimin en erken geliştiği yerde serf…"
 - [ATOMSUZ] k6 → "İkinci sorun kavramın zamanıdır: kapitalizmin önkoşulu olan tek seferlik bir tarihsel olay mı, yoksa kapitaliz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k6 → "Marx'ın kendi yazdıkları bu noktada belirsizdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k4 → "Kendisi Batı Avrupa'da sürecin aşağı yukarı tamamlandığını söyler." — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k6 → "Sonraki kuşaklar boşluğu üç ayrı yönde doldurdu: David Harvey'in 2003 tarihli The New Imperialism'i el koyarak…"
-- [OK]      k7 → "Chambers'ın 1953'te The Economic History Review'da yayımlanan yazısının başlığı doğrudan bu bağlantıyı sorar."
+- [OK]      k7 → "Çitlemenin sanayiye emek arzı sağlayıp sağlamadığı iktisat tarihçiliğinde ayrı bir tartışma konusudur; J. D. C…"
 - [ATOMSUZ] k2 → "Marx sürecin başlangıcını on beşinci yüzyılın son üçte biri ile on altıncı yüzyılın ilk on yılına koyar, kavra…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Marx sürecin başlangıcını on beşinci yüzyılın son üçte biri ile on altıncı yüzyılın ilk on yılına koyar, kavra…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 

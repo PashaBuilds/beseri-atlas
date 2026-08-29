@@ -1,5 +1,5 @@
 ## kavram-feodalite
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:54.306Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:22.351Z_
 
 - [OK]      k1 → "Kaynak, terimin ortaçağda kullanılan Latince feodum ya da feudum sözcüğünden türediğini, ancak feodalite terim…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak, 1974'te yayımlanan "The Tyranny of a Construct" ile 1994'te yayımlanan Fiefs and Vassals'tan bu yana o…"

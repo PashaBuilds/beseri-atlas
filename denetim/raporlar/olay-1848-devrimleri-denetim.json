@@ -1,9 +1,9 @@
 {
   "id": "olay-1848-devrimleri",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:43.125Z",
+  "zaman": "2026-08-29T19:33:53.657Z",
   "govde_hash": "8f20194bb848",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -15,7 +15,7 @@
       "anahtar": "k1",
       "iddia": "İşsizlik ve yoksullaşma kentli topluluklar arasında hızla yayıldı: Christopher Clark'a göre 1847'ye gelindiğinde Hollanda'nın Friesland bölgesinde nüfusun beşte",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

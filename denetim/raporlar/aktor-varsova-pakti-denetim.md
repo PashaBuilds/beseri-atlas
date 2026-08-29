@@ -1,5 +1,5 @@
 ## aktor-varsova-pakti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:13:56.183Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:16.435Z_
 
 - [OK]      k1 → "Antlaşmayı Arnavutluk, Bulgaristan, Macaristan, Alman Demokratik Cumhuriyeti, Polonya, Romanya, Sovyetler Birl…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k4 → "Örgütün adı Varşova Antlaşması Örgütü'ydü; karşı bloğun kaydı "Varşova Paktı"nı bunun öbür adı olarak verir." — programatik olarak ölçülemedi (ad karşılığı yok): Varşova, Antlaşması, Örgütü

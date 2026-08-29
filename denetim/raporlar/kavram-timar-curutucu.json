@@ -1,16 +1,9 @@
 {
   "id": "kavram-timar",
   "gecis": 3,
-  "zaman": "2026-08-29T19:27:02.137Z",
+  "zaman": "2026-08-29T19:33:23.611Z",
   "govde_hash": "b02dfed25d1e",
   "itirazlar": [
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Tımar sahibine sâhib-i arz denirdi; çünkü arazi ve çiftçi üzerinde kanunlarda belirtilen şartları uygulamada tam yetkili tek kişiydi ve bu kanunları çiğnerse soruşturulur, hakkını ",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",

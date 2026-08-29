@@ -1,9 +1,9 @@
 {
   "id": "aktor-bengal-sultanligi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:48.337Z",
+  "zaman": "2026-08-29T19:34:07.615Z",
   "govde_hash": "a317c9ea7737",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -14,8 +14,8 @@
     {
       "anahtar": "k3",
       "iddia": "Bengal Sultanlığı, iki büyük nehrin denize döküldüğü delta bölgesinde kurulmuş siyasi birimdir.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sultanlığı"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -231,7 +231,7 @@
       "anahtar": "k3",
       "iddia": "Sultanlık iki yüzyıldan fazla bağımsız kaldı ve bu, dönemin Güney Asya'sında olağandışıdır.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",

@@ -1,67 +1,343 @@
 {
   "id": "aktor-baglantisizlar-hareketi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:48.308Z",
-  "govde_hash": "75b70952587b",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T19:34:07.556Z",
+  "govde_hash": "263a97460578",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak zinciri şöyle verir: Eylül 1957'de Kahire'deki Afro-Asya Halkları Dayanışma Konferansı ve ardından 1961'deki Belgrad Zirvesi; Belgrad Zirvesi Bağlantısız",
+      "anahtar": "k5",
+      "iddia": "Kurucu anı sayılan zirve 1961'de Yugoslavya'da yirmi beş ülkeyle toplandı; kurucuların tasarısı, ABD'nin ya da Sovyetler Birliği'nin ittifak sistemlerinden hiçb",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Zincirin başlangıcı, 18-24 Nisan 1955'te Endonezya'nın Bandung şehrinde toplanan ve 304 temsilcinin katıldığı Asya-Afrika Konferansı'dır.",
-      "durum": "OK",
-      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Yani hareketin kuruluşu 1955'ten 1961'e uzanan altı yıla yayılır.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Hareketin karşısında durduğu rekabet 1947 ile 1991 arasındaki jeopolitik mücadeleyi anlatır ve kırk dört yıl dokuz ay sürmüştür.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Kıta iki askerî bloka bölünmüştü ve blokların 1988'deki dağılımı dönemin standart haritasıdır.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Standart haritada üçüncü bir renk bulunmaması, hareketin görünürlük sorununu özetler: blok dışı kalmak, blok haritasında bir yer değildir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Hareketin kendisi de bir rekabet alanına dönüştü: 1960'ların başında Çin, Arap ülkelerinin desteğini Cezayir'de yapılması önerilen ikinci bir Bandung Konferansı",
-      "durum": "OK",
-      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Blok dışı kalma arayışının blok içi bir rekabet konusu haline gelmesi, hareketin yapısal zorluğunu gösterir.",
+      "anahtar": "k4",
+      "iddia": "Belgrad bildirisi bunu doğrudan yazar: bağlantısız ülkeler \"yeni bir blok kurmak istemiyor ve blok olamaz\".",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır.",
+      "iddia": "Zirveden on iki gün sonra Amerikan Büyükelçisi George Kennan'ın Yugoslav Dışişleri'yle görüşmesini aktaran telgraf, gerilimi tek karşıtlıkta toplar: Yugoslavlar",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sukarno'nun açılış konuşmasıyla 18 Nisan'da başlayıp 24 Nisan'da nihai bildiriyle kapanan toplantıya yirmi dokuz ülke katıldı ve çağrıyı beş davetçi ülke yapmış",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Nisan"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sukarno katılanları birleştiren şeyi sayarken blokları anmadı: ortak olan, sömürgeciliğe ve ırkçılığa duyulan nefret ile barışı koruma kararlılığıydı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Beşinci ilke her ulusun tek başına ya da toplu olarak kendini savunma hakkına saygıyı buyurur; hemen ardından gelen altıncı ilke, toplu savunma düzenlemelerinin",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çin Başbakanı Zhou Enlai, Siyasi Komite'ye yaptığı konuşmada Pakistan Başbakanı'yla yaptığı özel görüşmeyi aktardı: Pakistan bir askerî antlaşmanın tarafıydı am",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Başbakanı, Zhou, Enlai, Siyasi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Zhou açıklama için minnettar olduğunu söyledi, sonra çekincesini de kayda geçirdi: Pakistan Başbakanı Manila antlaşmasının savunma niteliğinde olduğuna inanıyor",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı konuşmada Zhou, delegelerin komünist yayılma ve yıkıcı faaliyetlerden söz ederken Çin'i anmayıp yalnızca Sovyetler Birliği'ni andıklarını da kaydeder.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Filipinler delegesi Carlos Romulo aynı salonda, Filipinler Cumhurbaşkanı Magsaysay'ın kaleme aldığı Pasifik Şartı'nın kendi kaderini tayin ilkesini savunuyordu.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Seylan Başbakanı John Kotelawala ise toplananların dünya nüfusunun aşağı yukarı üçte ikisini oluşturduğunu söyleyip konferansı devler arasındaki kavgada arabulu",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Andrea Benvenuti'ye göre Nehru'nun konferansa razı olmasında Endonezya'nın bölgesel hesaplardaki artan ağırlığı ve toplantının bölgesel ilişkilere barış alanlar",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Fikir 1961 baharında Tito, Nasır ve Sukarno arasındaki karşılıklı ziyaretlerden çıktı; CIA'nın Ağustos 1961 tarihli muhtırası başlıca girişimin ilk ikisinden ge",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Hareketin üyelik ölçütleri, zirveleri, kurumsal yapısı ve rekabetin sona ermesinden sonraki dönüşümü burada ayrı başlıklar altında ele alınmamıştır; kullanılan ",
+      "iddia": "Muhtıraya göre fazlalık, bağlantısızlık ölçütleri ve konferansa hangi devletlerin çağrılacağı üzerine yapılan sert tartışmadan çıktı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Muhtıranın dipnotu üzerinde anlaşılan ölçütü üç maddede özetler: bağlantısız bir devlet bağlantısızlığa dayanan bağımsız bir siyaset izlemeli; başka ülkelerin b",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Hindistan daha çok sayıda ılımlı tarafsızı çağırarak konferansı genişletmek isterken Küba, Gana, Gine ve Mali katılımcı sayısını sert biçimde sınırlamak istiyor",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kahire'de Cezayir Geçici Hükümeti listeye eklendi; Gana'nın güçlü desteğine rağmen Kongo'dan bir Gizenga delegesinin çağrılması önerisi rafa kaldırıldı ve davet",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Cezayir, Geçici, Hükümeti, Gana"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Nehru toplantıya, gerilimleri azaltmak yerine katılan devletler arasındaki farkları göstermekten öteye gitmeyeceği korkusuna rağmen katılmayı kabul etmişti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Tito, Yugoslavya konferanstaki tek Avrupa devleti olacağı için Avrupa ve Almanya üzerine söyleyeceklerinin özel bir ağırlık taşıyacağına inanıyordu; Nasır Alman",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Çin toplantıya kuşkuyla bakıyordu: dışlanacağı bir Afro-Asya kümelenmesinin oluşmasından çekiniyor ve Sukarno'nun önderliğinde ikinci bir Bandung toplantısı ist",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sovyetler Birliği başlangıçta Belgrad'da bir tarafsızlar zirvesi toplanmasından hoşnut değildi, sonra Yugoslavlar aracılığıyla kendi dış siyasetine tarafsız des",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Zirvenin bildirisi hareketin tanımını verir: bağlanmamış alanın genişlemesi, dünyanın bloklara tam olarak bölünmesi ve Soğuk Savaş siyasetlerinin yoğunlaşması k",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Zirve, ABD Başkanı'na ve Sovyetler Birliği Bakanlar Konseyi Başkanı'na, günümüzün en güçlü iki ulusunun temsilcileri ve savaşla barışın anahtarını elinde tutanl",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bildiri barış ve istikrarın önemli ölçüde büyük güçlerin karşılıklı ilişkilerine bağlı olduğunu da yazıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Nehru zirvedeki konuşmasında bunu daha da açık söyledi: durumun anahtarı ne bu konferansın ne de başka kongrelerin elindeydi; kendi önemlerini abartmamalı, hem ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Senegal'in eski dışişleri bakanı Doudou Thiam'ın anımsadığına göre Nehru evrensel barış sorununu bütün öteki sorunlardan önemli sayarken Afrika devletlerinin ez",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu aktarımların taşıyıcısı olan kitabın kendi konumu da kayda geçmelidir: Yuri Alimov'un incelemesi Moskova'da Progress Publishers tarafından basılmış bir Sovye",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "ABD, Yugoslavya'ya zirvedeki tutumundan duyduğu kaygıyı bir muhtırayla bildirdi; Yugoslav tarafı bunu bir baskı girişimi saydı ve özellikle Washington'ın kendi ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kennan bir ayrıntıyı da geçerken kaydeder: Tito zirvenin arifesinde Nehru'ya da ılımlı bir tutum alacağı izlenimini vermişti ve Hintliler sonraki değişikliğe şa",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Konferans, üyeliğinin evrensel olması gerektiğini savundu, Güvenlik Konseyi'ni aralarında temsil edilen ve üyeliğe hak kazandığını düşündüğü sekiz ülkeyi — Kamb",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Üyelik 1950'de altmışken 1955'te yetmiş altıya çıktı; o yılın kabulleri arasında Bandung'un adını saydığı Kamboçya, Seylan, Ürdün, Laos, Libya ve Nepal vardı — ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Japonya ertesi yıl eklendi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "1960'ta üyelik on yedi eklemeyle doksan dokuza, 1961'de yüz dörde, 1974'te yüz otuz sekize çıktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bildiri birincil malların uluslararası fiyatlarını ve talebini istikrara kavuşturmak için toplu eylem, iktisadi kalkınma için özel bir BM fonunun erken kurulmas",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı metin bir çekince de koyar: bu öneriler bölge dışındaki ülkelerle işbirliğinin gerekliliğini ya da istenirliğini — yabancı sermaye yatırımı dahil — dışlama",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Usul tarihçesini yazan Ahmed Mahiou işin başında bir belirsizliği kaydeder: bu düzen fikrini kimin ortaya attığını ve ifadenin ne zaman dolaşıma girdiğini tam o",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Talep ilk kez 5-9 Eylül 1973'te Cezayir'de toplanan Dördüncü Bağlantısız Ülkeler Devlet ve Hükümet Başkanları Konferansı'nın siyasi bildirisinde dile getirildi;",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Cezayir konferans belgelerini Bağlantısız Ülkeler Grubu adına Genel Sekreter'e iletti; Genel Kurul 17 Aralık 1973'te böyle bir oturumu öngören 3172 (XXVIII) say",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Cezayir'in 30 Ocak 1974 tarihli mektubuyla usul yeniden işletildi, gereken çoğunluk sağlandı ve oturum 9 Nisan 1974'te açıldı; 30 Nisan'da doksan dört üye devle",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Mahiou'nun anlatısında Güney ülkeleri bu talepleri gelişmiş ülkelerin muhalefetine çarparak ilerletti; gelişmiş ülkeler düzeni, klasik uluslararası hukuk kurall",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Güney"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Taleplerin gündelik koordinasyonunu ise hareketten daha geniş bir küme, Yetmiş Yediler Grubu üstlendi.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yetmiş, Yediler, Grubu"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Mart 1983 tarihli CIA muhtırası doksan yedi üyeli hareketin üç yılda bir yapılan zirvesini 7-11 Mart'ta Yeni Delhi'de toplayacağını ve başkanlığın 1979 zirvesin",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Küba başkanlık kürsüsünü ABD'yi kınamak ve Sovyetler Birliği'ni bağlantısızların \"doğal müttefiki\" diye yüceltmek için kullanmıştı; üyelik bu tezi onaylayan bir",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Muhtıraya göre bağlantısız toplantıları genellikle Küba ile on beş-yirmi kadar radikal üyeyi, hareketin ne ABD'yi ne Sovyetler Birliği'ni kayırması gerektiğini ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Heterojen üyeliğe eklenen teamül — kararların bütün üyelerin ya katılmasını ya çekimser kalmasını gerektirmesi — üzerinde anlaşılabilecek alanı daraltıyordu; mu",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Küba"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bazı ılımlılar Küba'nın taktiklerine, hareketi karşı çıkmaya değecek kadar önemli bulmadıkları için boyun eğmişti; bazıları da Amerikan çıkarlarını savunmakla s",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Hindistan'ın BM'deki ilk Afganistan tartışmasında Sovyet müdahalesinin görüşülmesine karşı çıkan açıklaması, ılımlı bağlantısız devletlerle ilişkilerini zorlaşt",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kamboçya koltuğunda da Havana zirvesinde Küba başkanlık yetkisini kullanarak Pol Pot yönetimini hareketteki koltuktan çıkarıp koltuğu boş ilan etmişti; aynı üye",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Muhtıra hareketin yapısal sınırını da yazar: hareket bir başkan ve otuz altı üyeli bir Eşgüdüm Bürosu'yla yönetilir, tutumlarını eyleme çevirecek bir mekanizmas",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Eşgüdüm, Bürosu, Yetmiş, Yediler"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bu değerlendirmenin Amerikan karar alıcıları için yazıldığını, kanaat bildiren kayıtlarla ve büyükelçilik raporlarına atıfla kurulduğunu, sayfalarının bir bölüm",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "S. I. Keethaponcalan Soğuk Savaş'ın bitişiyle hareketin anlamını ve önemini yitirdiğini, uluslararası sistemin kalıcı tek kutuplu bir düzene doğru gittiğine yay",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ona göre Güney'in ortak sorunları duruyor, kurumsal çerçeve olarak hareket hâlâ işliyor ve yeniden biçimlendirilmeye ihtiyacı var.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Güney"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bandung'un on ilkesi toplu savunmayı yasaklamıyor, yalnızca büyük güç çıkarına koşulmasını yasaklıyordu ve salonda Manila antlaşmasının tarafları oturuyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Belgrad'ın ölçütü ittifakın varlığını değil bağlamını sınıyordu ve ölçütün kendisi dokuz günlük sert bir tartışmadan çıkmıştı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Hareket, on beş-yirmi kadar radikal üyeyi aşağı yukarı eşit sayıda ılımlıya karşı dizen bir başkanlık kavgasından geçti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Blok seçmeyi reddetmek bir tutumdur; blok olmamak ise bildiride yazılı ve pratikte sürekli sınanan bir iddiadır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

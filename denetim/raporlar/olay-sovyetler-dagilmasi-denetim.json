@@ -1,9 +1,9 @@
 {
   "id": "olay-sovyetler-dagilmasi",
   "gecis": 2,
-  "zaman": "2026-08-29T16:19:23.168Z",
+  "zaman": "2026-08-29T19:34:04.280Z",
   "govde_hash": "21cc3022ec15",
-  "commit": "d0eeece",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -211,9 +211,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Kiva, darbeden beş hafta sonra, 27 Eylül 1991'de İzvestiya'da birliğin hiç değilse geçiş dönemi boyunca korunmasını savundu: yeni egemen devletlerin kuruluşu ge",
+      "iddia": "Tarihçi A. Kiva, darbeden beş hafta sonra, 27 Eylül 1991'de İzvestiya'da birliğin hiç değilse geçiş dönemi boyunca korunmasını savundu: yeni egemen devletlerin ",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
@@ -229,7 +229,7 @@
     },
     {
       "anahtar": "k13",
-      "iddia": "Yungblyud'un 2019'da Vyatka Devlet Üniversitesi dergisinde çıkan yazısının başlığı bu önermenin kendisidir — Sovyetler Birliği'nin çöküşü kaçınılmaz değildi.",
+      "iddia": "Soru akademik yazında doğrudan bir önerme olarak savunulur; V. T. Yungblyud'un 2019'da Vyatka Devlet Üniversitesi dergisinde çıkan yazısının başlığı bu önermeni",
       "durum": "OK",
       "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },

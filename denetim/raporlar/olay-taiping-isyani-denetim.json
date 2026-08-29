@@ -1,9 +1,9 @@
 {
   "id": "olay-taiping-isyani",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:47.161Z",
+  "zaman": "2026-08-29T19:34:04.454Z",
   "govde_hash": "fb4f14333ef0",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -21,13 +21,13 @@
       "anahtar": "k1",
       "iddia": "Ordu büyüklükleri de aralıklarla verilir: Taiping Ordusu 1852'de 500.000; Taiping yanlısı birleşik kuvvetler zirvede 2–10 milyon; bütün muharipler dahil 10 mily",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
       "iddia": "Karşı tarafta 1864 için Chu Ordusu 40.000 ve 1862 için Daima Muzaffer Ordu 3.500–5.000 sayılır.",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "6 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

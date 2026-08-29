@@ -1,8 +1,8 @@
 ## kavram-sehir-devleti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.562Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:24.636Z_
 
-- [OK]      k1 → "yüzyılda uluslararası gözetim altındaki şehirler; sonuncusunun altında Danzig ve Fiume ayrı ayrı işlenir."
-- [ATOMSUZ] k1 → "yüzyıla ait örneklerin ayrı alt başlıklar taşıması, atlasın şu kuralının dayanağıdır: bu dosyada şehir devleti…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kaynak, tarihsel arka plan başlığı altında beş alt başlık tutar: antik ve ortaçağ dünyası, Orta Avrupa, İtalya…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Bir siyasi biçimin ansiklopedi maddesinde 20. yüzyıla ait örneklerin ayrı alt başlıklar taşıması, atlasın şu k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynağın Güneydoğu Asya'yı ayrı bir alt başlık olarak tutması, kavramın Akdeniz'e özgü sayılmasının kaynağın k…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k2 → "Şehirlerden oluşan bir başka siyasi biçim için tutulan kayıt, üyeliğinin Baltık ve Kuzey denizleri bölgesindek…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bir şehirler birliğinin ayrı bir kategori olarak kaydedilmesi, şehrin siyasi birim olmasının tek bir biçime ba…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

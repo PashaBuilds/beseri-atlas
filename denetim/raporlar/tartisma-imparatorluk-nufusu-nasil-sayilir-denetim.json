@@ -1,9 +1,9 @@
 {
   "id": "tartisma-imparatorluk-nufusu-nasil-sayilir",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:57.417Z",
+  "zaman": "2026-08-29T19:34:29.660Z",
   "govde_hash": "bd0aec99cb21",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k2",
@@ -19,13 +19,13 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıldan kalan on dört rakam 258.318 ile 394.736 arasındadır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Roma yurttaş sayıları, sayım dönüşlerinden derlenen bir seri halinde erken Cumhuriyet'ten MS 1. yüzyıla kadar izlenebilir; MÖ 2. yüzyıldan kalan on dört rakam 2",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıldan ise yalnızca dört rakam vardır ve seri, MÖ 70/69'daki 910.000 ile MÖ 28'deki 4.063.000 arasında büyük bir sıçrama gösterir; Augustus dönemi sayımların",
+      "iddia": "MÖ 1. yüzyıldan ise yalnızca dört rakam vardır ve seri, MÖ 70/69'daki 910.000 ile MÖ 28'deki 4.063.000 arasında büyük bir sıçrama gösterir; Augustus dönemi sayı",
       "durum": "OK",
       "not": ""
     },
@@ -37,13 +37,13 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılda İtalya yarımadasının tümüne yayılmıştı ama bu bölge imparatorluk topraklarının yüzde 5'i kadardı ve kadınların yurttaş olarak sayılıp sayılmadığı, sayı",
+      "iddia": "Üstelik sayılan şey hiçbir aşamada imparatorluğun sakinleri değildir: yurttaşlık MÖ 1. yüzyılda İtalya yarımadasının tümüne yayılmıştı ama bu bölge imparatorluk",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl başı tahminleri köleleştirilmiş payı toplamın yaklaşık yüzde 15'i olarak verir ve bu payın İtalya'da belirgin biçimde daha yüksek, Mısır ile Afrika'da da",
+      "iddia": "İmparatorluk toplamına ulaşmak, yurttaşların üzerine yurttaş olmayan eyalet halklarını ve köleleştirilmiş nüfusu eklemeyi gerektirir; 21. yüzyıl başı tahminleri",
       "durum": "OK",
       "not": ""
     },
@@ -79,13 +79,13 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıla kadar görülmemiş yoğunluklar gerektirdiği gerekçesiyle sonradan aşağı çekildi: Bruce Frier 2000 tarihli hesabında 12 milyonu daha akla yakın buldu, Kyle",
+      "iddia": "Beloch'un Anadolu ile Büyük Suriye için verdiği 19 milyon, o bölgelerde 20. yüzyıla kadar görülmemiş yoğunluklar gerektirdiği gerekçesiyle sonradan aşağı çekild",
       "durum": "OK",
-      "not": ""
+      "not": "5 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Russell'ın 1958 hesabı ise MS 350 için imparatorluk toplamını 39,3 milyona indirir.",
+      "iddia": "J. C. Russell'ın 1958 hesabı ise MS 350 için imparatorluk toplamını 39,3 milyona indirir.",
       "durum": "OK",
       "not": ""
     },
@@ -104,8 +104,8 @@
     {
       "anahtar": "k7",
       "iddia": "Han hanedanının resmi tarihi Han Shu, coğrafya bölümünün kapanışında MS 2 yılı için iki toplam verir: 12.233.062 hane ve 59.594.978 kişi.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Han, Shu"
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k7",
@@ -157,7 +157,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıllar için 1 milyon dolayında kabul edilir ve bu kabul, kentleşme oranı üzerinden toplam nüfus hesaplarına girer.",
+      "iddia": "Kent nüfusu da benzer bir göstergedir: Roma kentinin nüfusu MS 1. ve 2. yüzyıllar için 1 milyon dolayında kabul edilir ve bu kabul, kentleşme oranı üzerinden to",
       "durum": "OK",
       "not": ""
     },

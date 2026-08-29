@@ -1,21 +1,21 @@
 {
   "id": "aktor-asur-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:48.054Z",
+  "zaman": "2026-08-29T19:34:06.550Z",
   "govde_hash": "2efff7a89689",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
       "iddia": "Yeni Asur İmparatorluğu MÖ 670'te yaklaşık 1.400.000 kilometrekare alan kaplıyordu.",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılın sonlarında kaybedilmişti.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Orta Asur İmparatorluğu'nun (MÖ 1365–1050) toprakları MÖ 11. yüzyılın sonlarında kaybedilmişti.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -61,9 +61,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "yüzyıla dek varlığını sürdürdü.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Geç Tunç Çağı çöküşünden sonra bölünen Hitit devletlerinden bazıları, Yeni Asur İmparatorluğu'na yenik düşene kadar MÖ 8. yüzyıla dek varlığını sürdürdü.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k3",

@@ -1,9 +1,9 @@
 {
   "id": "tartisma-bati-neden-yukseldi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:56.732Z",
+  "zaman": "2026-08-29T19:34:27.575Z",
   "govde_hash": "c67ee068e37e",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -79,7 +79,7 @@
     },
     {
       "anahtar": "k10",
-      "iddia": "Blaut'un 1992'de Political Geography dergisinde yayımladığı tartışma açılışı soruyu 1492'nin anlamı üzerinden kurar; makale derginin on birinci cildinde 355-385",
+      "iddia": "J. M. Blaut'un 1992'de Political Geography dergisinde yayımladığı tartışma açılışı soruyu 1492'nin anlamı üzerinden kurar; makale derginin on birinci cildinde 3",
       "durum": "OK",
       "not": ""
     },

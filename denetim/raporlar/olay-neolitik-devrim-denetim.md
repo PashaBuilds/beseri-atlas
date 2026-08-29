@@ -1,13 +1,13 @@
 ## olay-neolitik-devrim
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:46.509Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:02.826Z_
 
-- [OK]      k2 → "Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı; terimi Orta Doğu tarihindeki bir diz…"
-- [OK]      k1 → "Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı; terimi Orta Doğu tarihindeki bir diz…"
+- [OK]      k2 → ""Neolitik devrim" terimini V. Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı; terimi…"
+- [OK]      k1 → ""Neolitik devrim" terimini V. Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı; terimi…"
 - [OK]      k1 → "Kaynaklar birbirinden bağımsız birkaç köken bölgesi sayar ve Bereketli Hilal bunların en erkenidir; bölgedeki …" — 1 atom doğrulandı; 4 ad ölçülemedi
-- [OK]      k1 → "Doğu Bereketli Hilal'de, İran'daki Choga Golan'da yabani bitkilerin ekimine dair kanıt günümüzden 12.000 yıl ö…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Doğu Bereketli Hilal'de, İran'daki Choga Golan'da yabani bitkilerin ekimine dair kanıt günümüzden 12.000 yıl ö…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Aswad'a yerleşenlerin evcilleştirmeyi yerinde yapmadıkları, ekim için tohumla birlikte geldikleri ileri sürülm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Neolitik Çin'de pirinç, darı ve karma tarım yerleşmelerinin mekânsal dağılımı ayrı bir araştırma alanıdır." — programatik olarak ölçülemedi (ad karşılığı yok): Çin
-- [OK]      k1 → "Mısır'da ekim kanıtı günümüzden yaklaşık 7.000 yıl öncesine uzanır, ama bu bir yalancı şafak olarak görünür: y…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Mısır'da ekim kanıtı günümüzden yaklaşık 7.000 yıl öncesine uzanır, ama bu bir yalancı şafak olarak görünür: y…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Etiyopya yaylalarında kahve, kat, ensete, noog, tef ve parmak darısı; Sahel'de sorgum ve inci darısı evcilleşt…"
 - [ATOMSUZ] k1 → "Her ikisi de ayrı tarımsal köken bölgeleri olarak sınıflandırılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Bu iki bölge köken değil, yayılma güzergâhıdır; tarımın Avrupa'ya yayılması karbon 14 ve mitokondriyal DNA kan…"

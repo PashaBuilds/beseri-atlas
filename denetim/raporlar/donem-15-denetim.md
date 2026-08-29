@@ -1,5 +1,5 @@
 ## donem-15
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:42.785Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:53.026Z_
 
 - [ATOMSUZ] k1 → "Küreselleşme, dünya çapındaki farklı ülkelerin ekonomileri, toplumları ve kültürleri arasındaki bütünleşmeyi a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Süreç, Sanayi Devrimi'nin ardından ulaşım ve iletişim teknolojilerindeki ilerlemelerle hızlandı; bu gelişmeler…" — programatik olarak ölçülemedi (ad karşılığı yok): Sanayi, Devrimi
@@ -10,8 +10,8 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:42.785Z_
 - [OK]      k1 → "Kaynak, 1990 ile 2010 arasındaki küresel eğilimleri ayrı bir çerçevede ele alır."
 - [OK]      k1 → "Küreselleşmenin kurumsal simgelerinden biri, uluslararası toprak statüsündeki Birleşmiş Milletler genel merkez…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Ticaret engellerinin azaltılması ve sermaye hareketlerinin serbestleşmesi birer teknik düzenleme gibi görünür;…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "yüzyılın çoğu döneminden daha azdır; 1990'larda çok daha düşük düzeylere inen çatışma ölümleri, izleyen on yıl…"
-- [OK]      k3 → "Çatışma ölümlerinin sayısı yıldan yıla çok değişebilir: 2005'te silahlı çatışmalarda 20.000'den az insan ölürk…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Son on yıllarda çatışmalarda ölenlerin sayısı 20. yüzyılın çoğu döneminden daha azdır; 1990'larda çok daha düş…"
+- [OK]      k3 → "Çatışma ölümlerinin sayısı yıldan yıla çok değişebilir: 2005'te silahlı çatışmalarda 20.000'den az insan ölürk…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bu dosyanın başlangıç ve bitiş tarihleri iki olaya bağlanmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k4 → "Bitiş, engellerin kaldırılması eğiliminin ilk kez toplu biçimde sorgulandığı finansal kriz olarak alınmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Atlas bu sınırın tartışmalı olduğunu ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,9 +1,9 @@
 {
   "id": "aktor-kilva",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:50.042Z",
+  "zaman": "2026-08-29T19:34:11.627Z",
   "govde_hash": "fa924ab4de50",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -32,8 +32,8 @@
     {
       "anahtar": "k3",
       "iddia": "İç bölgeden çıkan altın ve fildişi buradan Hint Okyanusu ağına girer; okyanustan gelen kumaş, seramik ve boncuk buradan iç bölgeye akar.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Hint, Okyanusu"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -45,7 +45,7 @@
       "anahtar": "k3",
       "iddia": "Kilva'yı yalnızca Afrika etiketiyle kaydetmek onu Hint Okyanusu ağından koparırdı; yalnızca ticaret ağıyla kaydetmek karadaki bağlarını görünmez kılardı.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -56,8 +56,8 @@
     {
       "anahtar": "k3",
       "iddia": "Hint Okyanusu ticareti mevsimlik rüzgârlarla işler.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Okyanusu"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",

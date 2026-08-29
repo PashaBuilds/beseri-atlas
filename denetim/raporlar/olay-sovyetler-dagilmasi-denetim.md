@@ -1,5 +1,5 @@
 ## olay-sovyetler-dagilmasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T16:19:23.168Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:04.280Z_
 
 - [OK]      k1 → "Mihail Gorbaçov 25 Aralık 1991 akşamı televizyona çıktı, Sovyet Sosyalist Cumhuriyetler Birliği başkanlığı gör…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Konuşmadan az sonra Kremlin'in üzerindeki Sovyet bayrağı 19.35'te indirildi, Rus üç renklisi 19.45'te çekildi." — 2 atom doğrulandı; 1 ad ölçülemedi
@@ -35,10 +35,10 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T16:19:23.168Z_
 - [OK]      k1 → "Baltık cumhuriyetleri bu şemanın dışında kaldı ve kendi bildirilerinin dili bunu bir tercih olarak koyar: Molo…"
 - [OK]      k1 → "Üçü de dağılma tamamlanmadan, 17 Eylül 1991'de Genel Kurul kararlarıyla Birleşmiş Milletler'e kabul edildi." — 1 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k11 → "Aynı kütüphanenin antlaşma ardıllığı notu bu ikiliği kendi diliyle kaydeder: Estonya 1978 Viyana Sözleşmesi'ne…" — 4 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k2 → "Kiva, darbeden beş hafta sonra, 27 Eylül 1991'de İzvestiya'da birliğin hiç değilse geçiş dönemi boyunca korunm…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Tarihçi A. Kiva, darbeden beş hafta sonra, 27 Eylül 1991'de İzvestiya'da birliğin hiç değilse geçiş dönemi boy…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Kiva'nın asıl kaygısı ise demografikti: tarihsel anayurtlarının dışında yaşayan 25-30 milyon Rus'un durumunun …"
 - [OK]      k3 → "Reformun mimarlarından Aleksandr Yakovlev, Gorbaçov'un istifasından iki gün sonra TRUD gazetesinde durumu bir …"
-- [OK]      k13 → "Yungblyud'un 2019'da Vyatka Devlet Üniversitesi dergisinde çıkan yazısının başlığı bu önermenin kendisidir — S…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k13 → "Soru akademik yazında doğrudan bir önerme olarak savunulur; V. T. Yungblyud'un 2019'da Vyatka Devlet Üniversit…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k9 → "Aynı soru kurumsal kayda da geçti: Kasım 2011'de Gorbaçov Vakfı'nda toplanan ve Ulusal Güvenlik Arşivi ile Car…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k9 → "Konferansın belge kitabında Gorbaçov'un kendi geriye dönük yargısı da yer alır: 1991 yazındaki G-7 toplantısın…"
 - [OK]      k6 → "Stephen Kotkin'in Oxford University Press'ten 2001'de çıkan kitabı çözülmeyi 1970-2000 aralığına yayar ve adın…"

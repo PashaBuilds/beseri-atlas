@@ -1,7 +1,7 @@
 ## dusunur-carr
-_Geçiş 2 — kaynak denetimi · 2026-08-29T16:54:09.401Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:17.082Z_
 
-- [OK]      k1 → "Carr'ın 1961'de Cambridge'de verdiği konferanslarda savunduğu buydu."
+- [OK]      k1 → "E. H. Carr'ın 1961'de Cambridge'de verdiği konferanslarda savunduğu buydu."
 - [OK]      k1 → "Katalog kayıtlarında Edward Hallett Carr, 1892-1982 olarak geçer; konferansları verdiğinde altmışlarının sonun…"
 - [OK]      k2 → "Savın en yalın hâli kitabın kendi tanıtımındadır: tarihin olguları, tarihçilerin incelemek üzere seçtiklerinde…"
 - [OK]      k2 → "Savın en yalın hâli kitabın kendi tanıtımındadır: tarihin olguları, tarihçilerin incelemek üzere seçtiklerinde…"
@@ -17,7 +17,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T16:54:09.401Z_
 - [OK]      k3 → "Listenin genişliği de anlamlıdır: aynı yirmi dört sayfada Parsons ile Shils'in toplumsal eylem kuramına ve Lor…"
 - [OK]      k9 → "Collingwood 1946'da tarihin insan eylemlerinden kurulduğunu, eylemlerin niyetli bir tartma ve seçmenin sonucu …"
 - [OK]      k4 → "1963'te Historische Zeitschrift'te yazan Andreas Hillgruber, Carr'ın muhafazakâr, liberal ve pozitivist tarihç…"
-- [OK]      k4 → "Walsh 1963'teki değerlendirmesinde ayrımı en açık örnekle sınadı: o gün kahvaltıda kızarmış ekmek yemiş olması…"
+- [OK]      k4 → "Filozof W. H. Walsh 1963'teki değerlendirmesinde ayrımı en açık örnekle sınadı: o gün kahvaltıda kızarmış ekme…"
 - [ATOMSUZ] k9 → "Çağdaş felsefe onu üçe ayırır: toplumsal eylemin değer yüklü olması, tarihçinin kendi yorumlarının değer yüklü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k4 → "Walsh, Carr'ın tarihçilerin tarihin üstünde durmadığı, kendi yer ve zamanlarının ürünü oldukları ve hangi geçm…"
 - [OK]      k4 → "Kitabın kışkırttığı yanıtlar arasında kaynağın en çok andığı Geoffrey Elton'ınkidir."
@@ -29,7 +29,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T16:54:09.401Z_
 - [ATOMSUZ] k4 → "Ona göre alternatif sonuçları düşünmek bir salon oyunu değil, tarihçinin işinin asli parçasıdır; yalnızca kaza…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k6 → "Keith Jenkins'in tartışmayı toparlayan kitabının alt başlığı yolu tek satırda çizer: Carr ve Elton'dan Rorty v…"
 - [OK]      k8 → "Bu hattın ucundaki Hayden White'ın Metahistory: The Historical Imagination in Nineteenth-Century Europe'u, tar…"
-- [OK]      k4 → "Carr: A Critical Appraisal, Palgrave, Londra."
+- [OK]      k4 → "Aynı adın 2000'de bir başka cilde de düştüğünü kaynak kaydeder: Michael Cox'un derlediği E. H. Carr: A Critica…"
 - [ATOMSUZ] k7 → "— ve kitabın bugünkü değerini yeniden düşünmeyi önerdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k7 → "Bölüm cildin 304-321 sayfaları arasındadır, yani derlemenin sonlarında durur; Tarih Nedir?" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k7 → "Jenkins'in başlığı bir soru işareti taşır ve önerdiği şey mahkûmiyet değil, yeniden değerlendirmedir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -38,10 +38,10 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T16:54:09.401Z_
 - [ATOMSUZ] k9 → "Tarihsel bilginin doğası gereği seçici olması, bilginin nesnelliğini ya da doğruya karşılık gelmesini ortadan …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k9 → "Geçmiş tam olarak olduğu biçimde olmuştur: failler eylemiş, kuraklıklar yaşanmış, ordular yenilmiştir; ve bıra…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k9 → "Ne var ki bu nesnellik yukarı doğru, Yunan kent devletinin doğuşu ya da Aydınlanma aklının icadı gibi daha soy…" — programatik olarak ölçülemedi (ad karşılığı yok): Yunan, Aydınlanma
-- [OK]      k4 → "Evans, Tarih Nedir?'in 1960'larda Britanya tarih yazımında bir devrime yol açtığını söyledi; Carr'a eleştirel …" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Richard J. Evans, Tarih Nedir?'in 1960'larda Britanya tarih yazımında bir devrime yol açtığını söyledi; Carr'a…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k4 → "Carr öldüğünde ikinci baskı için metni gözden geçiriyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Davies'in adı altında verir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k4 → "Evans'ın uzun bir eleştirel girişini taşıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Ölümünden sonraki ikinci baskı 1986'da Palgrave Macmillan'dan çıktı; üstveri kaydı birinci bölümü Carr ile R. …"
+- [OK]      k4 → "Davies cilde kendi giriş notunu ve Carr'ın dosyalarından derlediği notları ekledi; 2001 yeniden basımı ise Ric…"
 - [OK]      k4 → "Konferansların üzerinden geçen altmış beş yıl kitabı kendi kanıtına dönüştürdü: 1961'de söylenmiş sözler, 2001…"
 
-**Özet:** 23 OK · 0 ISARET · 0 HATA · 19 ATOMSUZ
+**Özet:** 25 OK · 0 ISARET · 0 HATA · 17 ATOMSUZ

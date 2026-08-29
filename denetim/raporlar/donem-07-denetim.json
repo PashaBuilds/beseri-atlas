@@ -1,9 +1,9 @@
 {
   "id": "donem-07",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:41.278Z",
+  "zaman": "2026-08-29T19:33:50.246Z",
   "govde_hash": "a82a4d7fe335",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k2",
@@ -57,7 +57,7 @@
       "anahtar": "k2",
       "iddia": "Moğol genişlemesinin Orta Asya'ya doğru itilimi Güney Asya güzergâhlarını etkiledi; Kuzey Afrika İslam dünyasının batı ucu olarak Selçuklu-Haçlı ekseninin kenar",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",

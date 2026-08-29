@@ -1,9 +1,9 @@
 {
   "id": "donem-10",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:41.824Z",
+  "zaman": "2026-08-29T19:33:51.277Z",
   "govde_hash": "1c6da4b8ce38",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -19,7 +19,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılların Bilimsel Devrimi'nden doğdu ve onun üzerine kuruldu; Bilimsel Devrim yeni yöntemler kurmuştu.",
+      "iddia": "Aydınlanma, 16. ve 17. yüzyılların Bilimsel Devrimi'nden doğdu ve onun üzerine kuruldu; Bilimsel Devrim yeni yöntemler kurmuştu.",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): Bilimsel, Devrimi, Devrim"
     },
@@ -37,7 +37,7 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "yüzyılın sonlarına doğru başlayan dönemde Osmanlı Devleti kaçınılmaz olarak yapısal değişimler içine girdi.",
+      "iddia": "18. yüzyılın sonlarına doğru başlayan dönemde Osmanlı Devleti kaçınılmaz olarak yapısal değişimler içine girdi.",
       "durum": "OK",
       "not": ""
     },

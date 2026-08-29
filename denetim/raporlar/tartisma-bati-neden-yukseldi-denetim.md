@@ -1,5 +1,5 @@
 ## tartisma-bati-neden-yukseldi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.732Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:27.575Z_
 
 - [OK]      k1 → "Büyük Ayrışma terimi 1996'da Samuel Huntington tarafından ortaya atıldı ve Kenneth Pomeranz'ın 2000 tarihli ki…" — 6 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Araştırmacılar maden yatakları, coğrafya, kültür, kurumlar ve şans dahil çok çeşitli açıklamalar önermiştir; z…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -13,7 +13,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.732Z_
 - [OK]      k2 → "Kitabı EH.Net için değerlendiren Bradford De Long'a göre Landes'in iktisat tarihi "derinden Avrupamerkezci bir…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Landes'in sıraladığı etkenlerin bir bölümü coğrafi, çoğu kültüreldir: üretimin, gücün ve saygınlığın sanayi ön…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k2 → "Ona göre Landes'in Avrasya üstünlüğünü iklime bağlayan bölümü ikna edici değildir ve tropik bölgelerdeki yükse…" — 4 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k10 → "Blaut'un 1992'de Political Geography dergisinde yayımladığı tartışma açılışı soruyu 1492'nin anlamı üzerinden …"
+- [OK]      k10 → "J. M. Blaut'un 1992'de Political Geography dergisinde yayımladığı tartışma açılışı soruyu 1492'nin anlamı üzer…"
 - [OK]      k10 → "Kayıtta özet bulunmadığı için künye düzeyinde doğrulanabilen şey bu çerçevenin adıdır: Avrupa'nın yükselişini …"
 - [OK]      k11 → "1998'de University of California Press'ten çıkan ReOrient'in alt başlığı dönemi Asya Çağı'nın küresel ekonomis…"
 - [OK]      k5 → "Kitabı değerlendiren Deepak Lal'a göre Pomeranz, on sekizinci yüzyılın dönümüne kadar "Çin ile Avrupa çekirdek…" — 3 atom doğrulandı; 1 ad ölçülemedi

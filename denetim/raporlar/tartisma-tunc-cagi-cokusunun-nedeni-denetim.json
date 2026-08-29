@@ -1,9 +1,9 @@
 {
   "id": "tartisma-tunc-cagi-cokusunun-nedeni",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:58.842Z",
+  "zaman": "2026-08-29T19:34:33.679Z",
   "govde_hash": "502291c248cf",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k4",
@@ -13,7 +13,7 @@
     },
     {
       "anahtar": "k9",
-      "iddia": "cildinde, 99–149 sayfaları arasında yayımladığı geniş inceleme, tartışmayı \"Crisis in Context\" başlığıyla yeniden açar.",
+      "iddia": "Knapp ve Manning'in 2016'da American Journal of Archaeology'nin 120. cildinde, 99–149 sayfaları arasında yayımladığı geniş inceleme, tartışmayı \"Crisis in Conte",
       "durum": "OK",
       "not": ""
     },
@@ -57,7 +57,7 @@
       "anahtar": "k2",
       "iddia": "Ammurapi'nin Alaşiya kralına yazdığı RS 18.147 numaralı mektup, düşman gemilerinin geldiğini, kentlerinin yakıldığını, askerlerinin ve savaş arabalarının Hatti ",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
@@ -147,7 +147,7 @@
       "anahtar": "k5",
       "iddia": "Demir işçiliğinin Levant ve Ege'de artmasından doğan iktisadi bozulmalar, çöküşün olası etkenleri arasında düzenli olarak sayılır; aynı listede savaş arabası dü",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k5",

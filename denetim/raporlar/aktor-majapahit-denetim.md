@@ -1,5 +1,5 @@
 ## aktor-majapahit
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:22:20.034Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:12.574Z_
 
 - [OK]      k5 → "Kenneth Hall onu yaklaşık 1293'ten 1528'e uzanan Hindu-Budist bir takımada imparatorluğu diye tanımlar; aynı m…"
 - [OK]      k1 → "Prapanca'nın 1365'te tamamladığı Nagarakertagama, kendini hükümdarın ayaklarını öven biri olarak tanıtan bir ş…"

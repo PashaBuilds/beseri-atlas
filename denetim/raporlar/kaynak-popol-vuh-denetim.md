@@ -1,5 +1,5 @@
 ## kaynak-popol-vuh
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:01.453Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:37.491Z_
 
 - [OK]      k1 → "Popol Vuh, bir topluluğun dünyanın ve kendi soyunun oluşumunu anlatan kuruluş metnidir."
 - [OK]      k2 → "Popol Vuh, bir topluluğun dünyanın ve kendi soyunun oluşumunu anlatan kuruluş metnidir."

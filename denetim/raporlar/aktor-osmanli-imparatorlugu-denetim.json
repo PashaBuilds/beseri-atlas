@@ -1,9 +1,9 @@
 {
   "id": "aktor-osmanli-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:50.974Z",
+  "zaman": "2026-08-29T19:34:13.897Z",
   "govde_hash": "713cb52f73e1",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -103,7 +103,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl başlarına kadar giden Batı Anadolu'daki denizcilik faaliyetlerine dayanır.",
+      "iddia": "Denizcilik geleneği ise 14. yüzyıl başlarına kadar giden Batı Anadolu'daki denizcilik faaliyetlerine dayanır.",
       "durum": "OK",
       "not": ""
     },
@@ -115,7 +115,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılın sonlarına doğru başlayan dönemde Osmanlı Devleti kaçınılmaz olarak yapısal değişimler içine girdi.",
+      "iddia": "18. yüzyılın sonlarına doğru başlayan dönemde Osmanlı Devleti kaçınılmaz olarak yapısal değişimler içine girdi.",
       "durum": "OK",
       "not": ""
     },

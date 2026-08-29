@@ -1,9 +1,9 @@
 {
   "id": "tartisma-sozlu-gelenek-kaynak-mi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:58.552Z",
+  "zaman": "2026-08-29T19:34:32.997Z",
   "govde_hash": "b9df050018b7",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k3",
@@ -81,13 +81,13 @@
       "anahtar": "k2",
       "iddia": "Bu ret kendi başına doğmadı; on dokuzuncu yüzyılda Leopold von Ranke'nin adıyla anılan belge merkezli tarihçilik, mesleğin ölçütünü arşivde sınanabilir kayda ba",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k6",
       "iddia": "Bu ret kendi başına doğmadı; on dokuzuncu yüzyılda Leopold von Ranke'nin adıyla anılan belge merkezli tarihçilik, mesleğin ölçütünü arşivde sınanabilir kayda ba",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k5",
@@ -111,7 +111,7 @@
       "anahtar": "k3",
       "iddia": "Belçika yönetiminin Kongo'daki ve Ruanda'daki araştırma kurumlarında çalışan Vansina kitabı 1961'de yayımladı; çalışma İngilizce yazına Oral Tradition: A Study ",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
@@ -171,7 +171,7 @@
       "anahtar": "k3",
       "iddia": "Jack Goody ile Ian Watt'ın 1963 tarihli ortak makalesi tartışmaya başka bir katman ekledi: yazı yalnızca bir kayıt tekniği değil, bilginin düzenlenme biçimini d",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k8",
@@ -183,7 +183,7 @@
       "anahtar": "k9",
       "iddia": "Goody bu tezi The Domestication of the Savage Mind ile genişletti; liste, tablo ve arşiv gibi biçimler yazıyla mümkün olur ve geçmişi bugünden bağımsız bir kayı",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k8",
@@ -327,7 +327,7 @@
       "anahtar": "k5",
       "iddia": "Djibril Tamsir Niane'nin 1960'ta bir griot'tan derleyip yayımladığı Sunjata destanı, Mali'nin ortaçağ geçmişi üzerine çalışmanın başlıca girişlerinden biri oldu",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k9",
@@ -393,13 +393,13 @@
       "anahtar": "k11",
       "iddia": "Fornander'in yararlandığı Hawaii derlemeleri, Malo ve Kamakau gibi şecereleri kendi topluluklarının içinden yazıya geçiren bilginlerin elinden çıkmıştı; Niane'n",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k5",
       "iddia": "Fornander'in yararlandığı Hawaii derlemeleri, Malo ve Kamakau gibi şecereleri kendi topluluklarının içinden yazıya geçiren bilginlerin elinden çıkmıştı; Niane'n",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k3",

@@ -1,7 +1,7 @@
 ## dusunur-han-feizi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.626Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:17.801Z_
 
-- [ATOMSUZ] k1 → "Han Feizi, hem bir kişinin hem de o kişiye atfedilen metnin adıdır." — programatik olarak ölçülemedi (ad karşılığı yok): Feizi
+- [OK]      k1 → "Han Feizi, hem bir kişinin hem de o kişiye atfedilen metnin adıdır."
 - [OK]      k3 → "Han Feizi, hem bir kişinin hem de o kişiye atfedilen metnin adıdır."
 - [ATOMSUZ] k2 → "Metin, kendisinden önceki benzer yazıların bir sentezi olarak okunur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Metin, kendisinden önceki benzer yazıların bir sentezi olarak okunur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -57,4 +57,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.626Z_
 - [ATOMSUZ] k2 → "Aynı geleneğin ikinci metni de bağlanmıştır ve iki metnin birlikte okunması önerilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Son bir hatırlatma: bu dosya metinlerin ne söylediğini ana hatlarıyla aktarır, savunmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 2 OK · 1 ISARET · 0 HATA · 52 ATOMSUZ
+**Özet:** 3 OK · 1 ISARET · 0 HATA · 51 ATOMSUZ

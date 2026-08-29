@@ -1,9 +1,9 @@
 {
   "id": "donem-05",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:41.057Z",
+  "zaman": "2026-08-29T19:33:49.587Z",
   "govde_hash": "920208217f08",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -25,9 +25,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Theodosius'un ölümü, Sasani İmparatorluğu'nun ortaya çıkışı ve yüzyıllar süren Roma-Sasani savaşlarının başlaması, Got, Vandal, Burgond ve Frank gruplarının bat",
+      "iddia": "Dönemin kırılma noktaları arasında 395'te I. Theodosius'un ölümü, Sasani İmparatorluğu'nun ortaya çıkışı ve yüzyıllar süren Roma-Sasani savaşlarının başlaması, ",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

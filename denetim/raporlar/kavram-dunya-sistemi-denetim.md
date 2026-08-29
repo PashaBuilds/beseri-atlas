@@ -1,5 +1,5 @@
 ## kavram-dunya-sistemi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:54.189Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:21.929Z_
 
 - [OK]      k1 → "Kaynak terimler ve tanımlar başlığı altında beş alt başlık tutar: kapitalist dünya sistemi, merkez ve çevre, y…"
 - [ATOMSUZ] k1 → "Merkez ve çevrenin yanına yarı çevrenin ayrı bir başlık olarak eklenmesi, ikili bir bölünme yerine üçlü bir sı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

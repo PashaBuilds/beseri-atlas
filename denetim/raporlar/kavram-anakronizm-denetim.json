@@ -1,9 +1,9 @@
 {
   "id": "kavram-anakronizm",
   "gecis": 2,
-  "zaman": "2026-08-29T19:21:38.877Z",
+  "zaman": "2026-08-29T19:34:21.212Z",
   "govde_hash": "df2ca9b6bcc8",
-  "commit": "6d7ef68",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -37,7 +37,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Paulus'un papalığına (757-767) varır — bunu bir kesinlik olarak değil, dilin işaret ettiği en olası seçenek olarak yazar.",
+      "iddia": "Coleman, satrap sözcüğünün Roma'da yüksek görevliler için ancak sekizinci yüzyılın ortasında kullanılmaya başlandığını dipnotta kaydeder; dilsel işaretlerin tüm",
       "durum": "OK",
       "not": ""
     },
@@ -49,7 +49,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Pocock'un oluşturduğu Cambridge okulu, sorunun tanımı bakımından Koselleck'e paralel durur: ikisi de kavramların zaman içindeki tarihsel evrimiyle ilgilenir.",
+      "iddia": "Skinner, John Dunn ve J. G. A. Pocock'un oluşturduğu Cambridge okulu, sorunun tanımı bakımından Koselleck'e paralel durur: ikisi de kavramların zaman içindeki t",
       "durum": "OK",
       "not": ""
     },

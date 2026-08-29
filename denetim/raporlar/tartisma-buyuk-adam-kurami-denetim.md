@@ -1,5 +1,5 @@
 ## tartisma-buyuk-adam-kurami
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.821Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:27.720Z_
 
 - [ATOMSUZ] k1 → "Bu haritanın çıkış noktası kaynağın bölüm yapısıdır: kurama ve varsayımlarına ayrı alt başlıklar, ardından yan…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bu harita, atlasın bütün aktör ve düşünür dosyalarını ilgilendirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

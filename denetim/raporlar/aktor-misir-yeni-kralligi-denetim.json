@@ -1,9 +1,9 @@
 {
   "id": "aktor-misir-yeni-kralligi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:50.652Z",
+  "zaman": "2026-08-29T19:34:13.333Z",
   "govde_hash": "fec8becf3429",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -31,9 +31,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Tutmosis'ten sonra Fırat'ı geçen ilk firavun oldu.",
+      "iddia": "I. Tutmosis'ten sonra Fırat'ı geçen ilk firavun oldu.",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Fırat"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tutmosis, Fırat"
     },
     {
       "anahtar": "k1",

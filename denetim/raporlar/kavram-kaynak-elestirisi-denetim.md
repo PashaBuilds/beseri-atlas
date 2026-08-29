@@ -1,5 +1,5 @@
 ## kavram-kaynak-elestirisi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:54.853Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:23.542Z_
 
 - [ATOMSUZ] k1 → "Kaynak, katkı sunan alanlar başlığı altında yedi alt başlık tutar: bilgi kuramı, araştırma yöntemi, bilim çalı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir doğrulama yönteminin katkı alanları arasında etiğin sayılması, atlasın şu kuralının dayanağıdır: bu atlast…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

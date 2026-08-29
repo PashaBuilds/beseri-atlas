@@ -1,5 +1,5 @@
 ## tartisma-eksen-cagi-gercek-mi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.889Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:27.863Z_
 
 - [OK]      k1 → "Karl Jaspers, 1949'da yayımlanan Vom Ursprung und Ziel der Geschichte kitabıyla MÖ 800-200 arasındaki yüzyılla…"
 - [ATOMSUZ] k1 → "Kavramı aktaran kaynak, tezin bugünkü durumunu da tek cümleyle verir: Eksen Çağı'nın tarihsel geçerliliği tart…" — programatik olarak ölçülemedi (ad karşılığı yok): Eksen, Çağı
@@ -8,7 +8,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.889Z_
 - [OK]      k1 → "Jaspers'e göre bu adların ima ettiği her şey, birkaç yüzyıl içinde Çin'de, Hindistan'da ve Batı'da neredeyse e…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Çağı, iki büyük imparatorluk çağı arasında bir ara dönem ve bir özgürlük soluğu olarak tarif eder; felsefeyi b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Stuart-Glennie ile Jaspers, bu dönüşümün dinî kaygılardan bağımsız, nesnel bir tarihsel olgu olarak görülmesi …"
-- [OK]      k1 → "yüzyıldan beri, başta Anquetil-Duperron olmak üzere birçok yazarca fark edilmişti; Jaspers, Victor von Strauß'…"
+- [OK]      k1 → "Gözlemin kendisi Jaspers'ten eskidir: farklı bölgelerde düşünürlerin eşzamanlı ortaya çıkışı 18. yüzyıldan ber…"
 - [OK]      k3 → "Kitabın İngilizce çevirisi The Origin and Goal of History adıyla 1953'te Londra'da yayımlandı." — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Jaspers'in (1883-1969) savaş sonrası yazıları, Stanford Felsefe Ansiklopedisi'nin maddesine göre açık biçimde …" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kavramın akademik ağırlığı, 1975'te Daedalus dergisinde yeniden sunulmasından sonra genişledi; dönemin eşsiz b…"

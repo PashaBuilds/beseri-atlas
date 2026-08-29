@@ -1,9 +1,9 @@
 {
   "id": "donem-13",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:42.294Z",
+  "zaman": "2026-08-29T19:33:52.177Z",
   "govde_hash": "7eb74179e754",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k3",
@@ -15,13 +15,13 @@
       "anahtar": "k1",
       "iddia": "Otuz bir yıl içinde Osmanlı Devleti sona erdi, 1929'da başlayan buhranla birlikte dünya ticareti çöktü ve demokratik rejimler birer birer yıkıldı, emperyalizm g",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",
       "iddia": "Otuz bir yıl içinde Osmanlı Devleti sona erdi, 1929'da başlayan buhranla birlikte dünya ticareti çöktü ve demokratik rejimler birer birer yıkıldı, emperyalizm g",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -139,7 +139,7 @@
     },
     {
       "anahtar": "k6",
-      "iddia": "maddesi, savaşın Almanya ve müttefiklerinin saldırganlığıyla dayatılmasının sonucu olarak uğranan bütün kayıp ve hasardan onların sorumluluğunu teyit eder ve Al",
+      "iddia": "Bölümü'nün 231. maddesi, savaşın Almanya ve müttefiklerinin saldırganlığıyla dayatılmasının sonucu olarak uğranan bütün kayıp ve hasardan onların sorumluluğunu ",
       "durum": "OK",
       "not": ""
     },

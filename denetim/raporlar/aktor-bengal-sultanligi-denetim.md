@@ -1,8 +1,8 @@
 ## aktor-bengal-sultanligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.337Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:07.615Z_
 
 - [OK]      k1 → "Bengal Sultanlığı, iki büyük nehrin denize döküldüğü delta bölgesinde kurulmuş siyasi birimdir."
-- [ATOMSUZ] k3 → "Bengal Sultanlığı, iki büyük nehrin denize döküldüğü delta bölgesinde kurulmuş siyasi birimdir." — programatik olarak ölçülemedi (ad karşılığı yok): Sultanlığı
+- [OK]      k3 → "Bengal Sultanlığı, iki büyük nehrin denize döküldüğü delta bölgesinde kurulmuş siyasi birimdir."
 - [ATOMSUZ] k1 → "Delta coğrafyası, bu dosyanın bütün mantığını belirler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bu coğrafya iki sonuç üretir: dışarıdan gelen bir gücün bölgeyi kalıcı denetim altına alması zordur, ama aynı …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Bu coğrafya iki sonuç üretir: dışarıdan gelen bir gücün bölgeyi kalıcı denetim altına alması zordur, ama aynı …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -38,7 +38,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.337Z_
 - [ATOMSUZ] k1 → "Bu, atlasın kaydettiği yaygın bir yönetim tercihidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Tercihin sınırı da vardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Sultanlık iki yüzyıldan fazla bağımsız kaldı ve bu, dönemin Güney Asya'sında olağandışıdır."
-- [OK]      k3 → "Sultanlık iki yüzyıldan fazla bağımsız kaldı ve bu, dönemin Güney Asya'sında olağandışıdır." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Sultanlık iki yüzyıldan fazla bağımsız kaldı ve bu, dönemin Güney Asya'sında olağandışıdır."
 - [ATOMSUZ] k1 → "Bağımsızlığın açıklaması üç unsurun birleşimidir: coğrafi zorluk, kendine yeten bir tarım tabanı ve ihracat ge…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Atlas bu açıklamayı bir yasa olarak ileri sürmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Sultanlığın sonu, kuzeyden gelen bir imparatorluk ordusunun bölgeyi denetim altına almasıyla geldi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -72,4 +72,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.337Z_
 - [ATOMSUZ] k3 → "Bölgenin envanterini tutan kaynak için , bölgeyi gören tanık için dosyaları uygundur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Limanların bağlı olduğu deniz ağı için , gelir kalemlerinin kavram karşılığı için dosyaları okunabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 5 OK · 1 ISARET · 0 HATA · 64 ATOMSUZ
+**Özet:** 6 OK · 1 ISARET · 0 HATA · 63 ATOMSUZ

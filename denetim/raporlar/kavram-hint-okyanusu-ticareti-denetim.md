@@ -1,7 +1,7 @@
 ## kavram-hint-okyanusu-ticareti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:54.476Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:22.765Z_
 
-- [ISARET]  k1 → "Hint Okyanusu ticareti, Doğu Afrika kıyısından Güneydoğu Asya'ya uzanan ve yüzyıllar boyunca kesintisiz işleye…" — özel isim kaynakta bulunamadı: Afrika
+- [OK]      k1 → "Hint Okyanusu ticareti, Doğu Afrika kıyısından Güneydoğu Asya'ya uzanan ve yüzyıllar boyunca kesintisiz işleye…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k3 → "Hint Okyanusu ticareti, Doğu Afrika kıyısından Güneydoğu Asya'ya uzanan ve yüzyıllar boyunca kesintisiz işleye…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "Ağın işleyişini belirleyen şey siyasi güç değil, mevsim rüzgârlarıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Öngörülebilirliğin sonucu, tüccarın limanda beklemek zorunda kalmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -32,4 +32,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:54.476Z_
 - [ATOMSUZ] k3 → "Ağın karşılıklı uçlarındaki liman devletleri için ve , donanma gücüyle ağa katılan bir örnek için dosyaları ok…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Ticaretin dünya ölçeğinde nasıl kavramlaştırıldığı için dosyası okunmalıdır; o dosyanın merkez-çevre şeması bu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 2 OK · 1 ISARET · 0 HATA · 27 ATOMSUZ
+**Özet:** 3 OK · 0 ISARET · 0 HATA · 27 ATOMSUZ

@@ -1,5 +1,5 @@
 ## olay-ispanya-ic-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:45.371Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:59.591Z_
 
 - [OK]      k2 → "Bu savaşın çağdaş kaydı iki şeyi aynı anda söyler: İspanya İç Savaşı daha büyük bir çatışmaya tırmanmadı, ama …" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k2 → "Kaynağın kurduğu karşıtlık dikkat çekicidir: askerî olarak yayılmayan bir savaş, siyasi olarak kıtasal bir böl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

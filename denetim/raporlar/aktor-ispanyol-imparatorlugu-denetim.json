@@ -1,9 +1,9 @@
 {
   "id": "aktor-ispanyol-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:49.871Z",
+  "zaman": "2026-08-29T19:34:11.305Z",
   "govde_hash": "0f1b9dbd9082",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -31,7 +31,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Felipe, hükümetin danışma niteliğindeki Polisinodyal Konseyler Sistemi'nin yerine, Fransa'da yapıldığı gibi hükümdarın yürütme gücünü güçlendirmek üzere yeniden",
+      "iddia": "Saltanatının başında ilk İspanyol Bourbon'u Kral V. Felipe, hükümetin danışma niteliğindeki Polisinodyal Konseyler Sistemi'nin yerine, Fransa'da yapıldığı gibi ",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },

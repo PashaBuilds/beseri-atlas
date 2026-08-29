@@ -1,5 +1,5 @@
 ## aktor-memluk-devleti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T16:03:50.231Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:13.216Z_
 
 - [OK]      k2 → "Memlûk sözcüğü sözlükte sahip olunan şey demektir ve çoğunlukla Kafkasya'dan ve Orta Asya bozkırlarından satın…"
 - [OK]      k1 → "Bu askerler 1250'de Mısır'da iktidarı ele geçirdi; kurdukları düzen 1517'de Osmanlı fethine kadar Mısır, Suriy…"
@@ -18,7 +18,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T16:03:50.231Z_
 - [OK]      k1 → "Kalavun'un oğulları ve torunları tahtı kuşaklar boyunca elde tuttu: oğlu el-Melikü'n-Nâsır Muhammed üç ayrı sa…"
 - [OK]      k6 → "Van Steenbergen'in 2006 tarihli bir kitap bölümü 1279-1382 arasını ayrı bir dönem sayar ve başlığında ona Kala…"
 - [ATOMSUZ] k1 → "Çocuk sultanların adı taht listesinde duruyordu, iktidar ise onları tahta çıkaran emîr gruplarındaydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Baybars, Abbâsî ailesinden birini halife ilan ederek hilafeti Kahire'de yeniden kurdu ve böylece hilafetin hâm…"
+- [OK]      k1 → "Moğolların 1258'de Bağdat Abbâsî hilafetini ortadan kaldırmasının ardından I. Baybars, Abbâsî ailesinden birin…"
 - [ATOMSUZ] k1 → "Düzenlemenin ayrıntısı, dosyasındaki makamın ne hâle geldiğini gösterir: maddeye göre halifenin otorite kaynağ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "İktâ arazileri yirmi dört parçaya ayrılmıştı: dört parça sultana, on parça emîrlere, on parça da ecnâdü'l-halk…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bu bölüşüm iktâ sahiplerini sultana bağlı tutuyor, bölgelerinde asayişi sağlamalarını ve gerektiğinde askerî h…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

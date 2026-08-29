@@ -1,19 +1,19 @@
 {
   "id": "kavram-sehir-devleti",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:55.562Z",
+  "zaman": "2026-08-29T19:34:24.636Z",
   "govde_hash": "09e73cc0624a",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyılda uluslararası gözetim altındaki şehirler; sonuncusunun altında Danzig ve Fiume ayrı ayrı işlenir.",
+      "iddia": "Kaynak, tarihsel arka plan başlığı altında beş alt başlık tutar: antik ve ortaçağ dünyası, Orta Avrupa, İtalya, Güneydoğu Asya ve 20. yüzyılda uluslararası göze",
       "durum": "OK",
-      "not": ""
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıla ait örneklerin ayrı alt başlıklar taşıması, atlasın şu kuralının dayanağıdır: bu dosyada şehir devleti, tamamlanmış bir tarihsel evre olarak anılmaz.",
+      "iddia": "Bir siyasi biçimin ansiklopedi maddesinde 20. yüzyıla ait örneklerin ayrı alt başlıklar taşıması, atlasın şu kuralının dayanağıdır: bu dosyada şehir devleti, ta",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

@@ -1,5 +1,5 @@
 ## dusunur-sima-qian
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.471Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:20.521Z_
 
 - [OK]      k1 → "Kaynak onu MÖ yaklaşık 145 - yaklaşık 86 arasında yaşamış, erken Han hanedanı döneminde bir Çinli tarihçi olar…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak, eserin tasarısını ilk kez babası Sima Tan'ın düşündüğünü ve Sima Tan'ın Bahar ve Güz Yıllıkları'nı izl…" — 2 atom doğrulandı; 2 ad ölçülemedi
@@ -11,10 +11,10 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.471Z_
 - [OK]      k1 → "Kaynak, babasının ölümünden üç yıl sonra onun eski görevi olan taishi makamını üstlendiğini ve MÖ 105'te takvi…"
 - [ATOMSUZ] k1 → "Aynı makamın babadan oğula geçmesi ile eserin de aynı yolu izlemesi, hanedan yönetiminde tarih yazımının kişis…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Hanedanın kendisi dosyasında ele alınıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "yüzyıla kadar model olduğunu kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kaynak Shiji'yi, efsanevi Sarı İmparator'un yükselişinden ve ilk Çin siyasi biriminin oluşumundan Sima'nın yaz…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kapsamın başlangıcının efsanevi olarak nitelenmesi, eserin kendi içinde efsane ile kayıt arasında bir ayrım tu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Aynı geleneğin bir başka düşünürü için tutulan kayıtta tarihler geleneksel notuyla verilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Hayatının seyri, cezalandırılması, Shiji'nin yapısı ve sonraki eleştiriler burada ayrı başlıklar altında ele a…"
 - [OK]      k4 → "Bu dosya eserin kamu malı tam metnine bağlanır: Shiji."
 
-**Özet:** 6 OK · 0 ISARET · 0 HATA · 9 ATOMSUZ
+**Özet:** 7 OK · 0 ISARET · 0 HATA · 8 ATOMSUZ

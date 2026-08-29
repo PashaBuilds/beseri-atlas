@@ -1,5 +1,5 @@
 ## olay-afyon-savaslari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T15:42:52.973Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:54.738Z_
 
 - [OK]      k1 → "Britanya Hindistan'da ürettiği afyonu Çin kıyılarına kaçırıyor, Qing devleti bu ticareti yasaklıyordu; yasağı …" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k6 → "Britanya Hindistan'da ürettiği afyonu Çin kıyılarına kaçırıyor, Qing devleti bu ticareti yasaklıyordu; yasağı …" — 4 atom doğrulandı; 2 ad ölçülemedi

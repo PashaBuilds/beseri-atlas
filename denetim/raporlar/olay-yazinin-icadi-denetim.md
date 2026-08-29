@@ -1,7 +1,7 @@
 ## olay-yazinin-icadi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.585Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:05.528Z_
 
-- [ATOMSUZ] k1 → "yüzyıldan önce yazının kökenine dair akademik kuramların çoğu bir tür monogenez varsayımı içeriyordu: yazının …" — programatik olarak ölçülemedi (ad karşılığı yok): Sümer
+- [ATOMSUZ] k1 → "20. yüzyıldan önce yazının kökenine dair akademik kuramların çoğu bir tür monogenez varsayımı içeriyordu: yazı…" — programatik olarak ölçülemedi (ad karşılığı yok): Sümer
 - [ATOMSUZ] k1 → "Bu varsayımın yalnızca kanıttan gelmediği kaydedilir: kuramlar, Tekvin kitabının değişmez bir yorumunu ve o an…" — programatik olarak ölçülemedi (ad karşılığı yok): Tekvin, Mezopotamya
 - [ATOMSUZ] k1 → "Zamanla Kolomb öncesi Mezoamerika sistemlerine dair farkındalığın artması, yazının birbirinden bağımsız olarak…" — programatik olarak ölçülemedi (ad karşılığı yok): Kolomb, Mezoamerika
 - [ATOMSUZ] k1 → "En yaygın kabul gören sayı dörttür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

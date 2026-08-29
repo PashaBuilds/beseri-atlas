@@ -1,15 +1,15 @@
 ## tartisma-demografik-donum-sonuclari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.859Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:27.809Z_
 
 - [OK]      k2 → "Phillip Longman 2004'te, düşen doğum hızlarının dünya refahını tehdit ettiğini savunan bir kitap yayımladı; ki…"
 - [OK]      k8 → "On yıl sonra Ronald Lee ile Andrew Mason, kırk ülkenin ulusal transfer hesaplarına dayanan bir incelemeyle son…"
 - [ATOMSUZ] k4 → "Ölçüler ise iki tarafa da malzeme veriyor: bağımlılık oranı yükseliyor, kişi başına tüketim hesapları düşüşü c…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k8 → "Ölçüler ise iki tarafa da malzeme veriyor: bağımlılık oranı yükseliyor, kişi başına tüketim hesapları düşüşü c…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k5 → "Ölçüler ise iki tarafa da malzeme veriyor: bağımlılık oranı yükseliyor, kişi başına tüketim hesapları düşüşü c…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgan…" — programatik olarak ölçülemedi (ad karşılığı yok): Lee, Mason, Wolfgang, Lutz
-- [OK]      k8 → "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgan…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k9 → "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgan…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k3 → "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgan…" — programatik olarak ölçülemedi (ad karşılığı yok): Lee, Mason, Wolfgang, Lutz
+- [OK]      k2 → "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgan…"
+- [OK]      k8 → "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgan…"
+- [OK]      k9 → "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgan…"
+- [OK]      k3 → "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgan…"
 - [ATOMSUZ] k4 → "Demografi nüfusu üç kümeye böler: on beş yaşın altındaki çocuklar, on beş ile altmış dört arasındaki çalışma ç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k4 → "Bağımlılık oranı birinci ve üçüncü kümenin toplamını ikinciye böler; yüz kişilik bir çalışma çağı nüfusuna kaç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k4 → "2018'de dünyada altmış dört yaşın üstündeki insanların sayısı, beş yaşın altındaki çocukların sayısını tarihte…"
@@ -57,7 +57,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.859Z_
 - [OK]      k5 → "2024 revizyonu tepeyi öne aldı: dünya nüfusu 2084'te yaklaşık 10,3 milyar ile tepe yapıyor."
 - [ATOMSUZ] k5 → "Sağlayıcının uyarısı da metnin içinde: bunlar geleceğe dair tahminler değil, projeksiyonlardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Avrupa'da 2018'de altmış dört ile yetmiş dört yaş arasındakilerin yüzde 10'undan azı çalışıyordu; bu payın değ…"
-- [ATOMSUZ] k2 → "Longman'ın yük hesabı ile Lee ve Mason'ın tüketim hesabı farklı büyüklükleri karşılaştırıyor: biri işgücü arzı…" — programatik olarak ölçülemedi (ad karşılığı yok): Lee, Mason
+- [OK]      k2 → "Longman'ın yük hesabı ile Lee ve Mason'ın tüketim hesabı farklı büyüklükleri karşılaştırıyor: biri işgücü arzı…"
 - [OK]      k8 → "Longman'ın yük hesabı ile Lee ve Mason'ın tüketim hesabı farklı büyüklükleri karşılaştırıyor: biri işgücü arzı…"
 - [ATOMSUZ] k1 → "Kanıtın ağırlığı da eşit değil: iyimser tarafın savı hakemli iki dergi makalesinden okunuyor, karamsar tarafın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Kanıtın ağırlığı da eşit değil: iyimser tarafın savı hakemli iki dergi makalesinden okunuyor, karamsar tarafın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -66,4 +66,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.859Z_
 - [ATOMSUZ] k11 → "Tuzak hipotezi ile toparlanma bulgusu arasındaki gerilim İskandinav dizisiyle çözülmedi, yalnızca yer değiştir…" — programatik olarak ölçülemedi (ad karşılığı yok): İskandinav
 - [ATOMSUZ] k12 → "Otomasyon telafisi sanayide ölçüldü; yaşlanmanın en çok emek istediği alan olan bakım hizmetlerinde aynı ikame…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 35 OK · 0 ISARET · 0 HATA · 29 ATOMSUZ
+**Özet:** 38 OK · 0 ISARET · 0 HATA · 26 ATOMSUZ

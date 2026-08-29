@@ -49,6 +49,10 @@ whitelist:
     kullanim: birincil_tercih
     kapsam: [felsefe]
     not: Aralıklı bağlantı zaman aşımı verebilir; getir.mjs 3 deneme yapar.
+    # KAPSAM SINIRI (2026-08-29 olcumu): SEP felsefi konulari isler.
+    # Zerdustculuk maddesi YOK (404). Marx maddesinde "accumulation"
+    # sozcugu HIC gecmiyor — Marx'in iktisadi kategorileri icin SEP
+    # kaynak degildir; oraya yaslanan kunye sus dipnotu olur.
   - alan: iep.utm.edu
     tur: akademik
     dogrulanabilir: true
@@ -93,6 +97,11 @@ whitelist:
       Antlasma ve anayasa metinlerinin transkripsiyonlari icin. Kunyeye
       yazilmadan once sayfanin ilgili metni gercekten icerdigi dogrulanir;
       ayni baslikta ozet veya tartisma sayfasi bulunabilir.
+    # YAZIM FARKI UYARISI (2026-08-29 olcumu): bazi baskilar Amerikan
+    # yazimi kullanir ("division of labor"); Ingiliz yazimiyla ("labour")
+    # aranan dize %67 ortusmeyle DUSER. dogrulama_dizesi'ni sayfadan
+    # kopyala, hafizadan yazma. Ayrica alt sayfalar calisir, ana sayfalar
+    # bos donebilir; bolum alt sayfalari ROMEN rakami kullanir.
   - alan: waitangitribunal.govt.nz
     tur: akademik
     dogrulanabilir: true
@@ -140,6 +149,15 @@ whitelist:
     # Sanitary Report'u (b21307313) 1.257.494 karakter; dok.mjs --tam ile
     # okunabiliyor ama kapinin gordugu pencerede hedef dizeler yok.
     # Boyle bir cilde yaslanacaksan dogrulama dizesini ILK 400k icinden sec.
+    # ODUNC KISITLI KAYIT TESPITI (2026-08-29 kavram hakemi): bir kaydin
+    # metin turevleri kilitli olabilir. /metadata/<identifier> cagirip
+    # dosyalarin `private: true` bayragina BAK; hepsi private ise kayit
+    # yalnizca KATALOGTUR ve ona yaslanan iddia en cok "kismi" olabilir.
+    # ACIK TAM METIN ARAMA YOLU (calisiyor, bot korumasi yok):
+    #   /advancedsearch.php?q=title%3A(...)&fl[]=identifier&fl[]=title
+    #     &rows=20&output=json
+    # Bir oturumda oduncu kisitli Jaspers kaydinin yerine acik tam metinli
+    # baska bir kayit bu yolla bulundu.
   # Muze koleksiyon API'leri. Muzelerin insan arayuzlu sayfalari (britishmuseum.org,
   # metmuseum.org, si.edu, europeana.eu) otomatik istekleri engelliyor — 2026-08-25'te
   # dordu de 403/429 dondurdu. API uc noktalari engellemiyor ve makine okunur
@@ -219,6 +237,18 @@ whitelist:
       programlarin kendi kaydi. DIKKAT: slavevoyages.org istemci
       tarafinda ciziliyor (16 karakter doner) ve kunyeye YAZILAMAZ;
       kole ticareti sayilari icin havuzdaki tek kurumsal kanal budur.
+  - alan: ctext.org
+    tur: birincil
+    birincil_tur: eser
+    dogrulanabilir: false
+    kapsam: [cin, klasik]
+    not: >
+      Chinese Text Project. Klasik Cince metinlerin en genis acik
+      derlemesi ama 2026-08-29 olcumu: bot dogrulamasi donuyor
+      ("Please confirm that you are human", 1.208 karakter). Kunyeye
+      YAZILAMAZ. Klasik Cince birincil metinler icin havuzda su an
+      calisan kanal yok; zh.wikisource.org bazi metinleri tasiyor
+      (Han shu ornegi dogrulandi) ve once orasi denenmeli.
   - alan: treccani.it
     tur: ansiklopedi
     dogrulanabilir: true
@@ -509,6 +539,12 @@ whitelist:
       Economic History Association'in acik ansiklopedisi. 2026-08-29 hakem
       olcumu: 200, 58k, JS gerektirmiyor. Iktisat tarihi basliklarinda
       hakem-gormus ikincil kaynak.
+    # SLUG TAHMINI CALISMIYOR (2026-08-29 olcumu): citleme, Ingiliz
+    # tarimi, Sanayi Devrimi ve yasam standardi tartismasi icin denenen
+    # slug'larin hepsi 404 verdi; /encyclopedia/english-poor-laws/ ise
+    # 200 ve 41,8k dondu. Madde listesi /encyclopedia/ sayfasindan
+    # dogrulanmali. Ayrica /book_reviews/ alt agaci imzali akademik
+    # degerlendirme yazilari tasir ve ayni kosullarda acilir.
   - alan: api.crossref.org
     tur: akademik
     dogrulanabilir: true
@@ -518,6 +554,11 @@ whitelist:
       hepsi 200, bot korumasi yok. SINIR: yalniz yazar/yil/baslik/cilt
       iddialarina dogrudan destek olur; icerik iddialarina en cok OZET
       duzeyinde kismi (abstract alani her kayitta yok).
+    # OZET SAHIPLIGI UYARISI (2026-08-29 kavram hakemi olcumu): bir
+    # kayitta baslik ve yazar bir kisiye, `abstract` alani ise BASKA bir
+    # yazarin savina ait olabilir (derleme cilt bolumlerinde gorulur).
+    # "Crossref abstract'ina bak" kurali dogru ama ozetin kaydin KENDI
+    # eserine ait oldugu ayrica sinanmali.
   - alan: api.semanticscholar.org
     tur: akademik
     dogrulanabilir: true

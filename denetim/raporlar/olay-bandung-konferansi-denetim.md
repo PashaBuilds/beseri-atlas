@@ -1,5 +1,5 @@
 ## olay-bandung-konferansi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:43.920Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:55.986Z_
 
 - [OK]      k1 → "Asya–Afrika Konferansı 18–24 Nisan 1955 tarihleri arasında Endonezya'nın Bandung şehrinde toplandı; 304 temsil…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Ev sahibi ülke Endonezya, ana mekân ise 1955'te Merdeka Binası'ydı." — 2 atom doğrulandı; 2 ad ölçülemedi

@@ -1,5 +1,5 @@
 ## aktor-oyo-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.999Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:13.945Z_
 
 - [OK]      k1 → "Oyo İmparatorluğu, Batı Afrika'nın iç kesiminde kurulmuş ve yüzyıllar boyunca geniş bir alanı denetlemiş bir d…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k2 → "Ayırt edici yanı yönetim yapısıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,12 +1,12 @@
 ## tartisma-kalkinma-neden-basarisiz
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.560Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:29.939Z_
 
 - [OK]      k1 → "Kalkınma çağına bir doğum yılı aranacaksa, kalkınma sonrası yazarlar 1949'u gösterir: Harry Truman o yıl, az g…"
 - [ATOMSUZ] k1 → "İzleyen yetmiş yılda vaat bir uzmanlık alanına, bir kurumlar ağına ve art arda gelen reçetelere dönüştü; burad…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Tarihçi Nick Cullather'a göre modernleşme ile kalkınma kavramları 1945'ten sonra kaynaştı; kalkınma böylece he…"
-- [OK]      k2 → "Maddison serisinde kişi başına gayrisafi yurt içi hasılanın dünya ortalaması 1950'de yaklaşık 3.360, 2022'de y…"
-- [OK]      k2 → "Maddison serisinde kişi başına gayrisafi yurt içi hasılanın dünya ortalaması 1950'de yaklaşık 3.360, 2022'de y…"
-- [OK]      k5 → "Rostow'un The Stages of Economic Growth başlıklı kitabı, modernleşme kuramının politika diline çevrilmiş hâli …"
+- [ISARET]  k2 → "Maddison serisinde kişi başına gayrisafi yurt içi hasılanın dünya ortalaması 1950'de yaklaşık 3.360, 2022'de y…" — kaynakta bulunamayan sayısal değer: 16.677 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)
+- [ISARET]  k2 → "Maddison serisinde kişi başına gayrisafi yurt içi hasılanın dünya ortalaması 1950'de yaklaşık 3.360, 2022'de y…" — kaynakta bulunamayan sayısal değer: 16.677 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)
+- [OK]      k5 → "W. W. Rostow'un The Stages of Economic Growth başlıklı kitabı, modernleşme kuramının politika diline çevrilmiş…"
 - [ATOMSUZ] k1 → "Bu bakışta geride kalmak bir ilişkinin değil bir gecikmenin adıdır; ülkeler aynı büyüme merdiveninin farklı ba…" — programatik olarak ölçülemedi (ad karşılığı yok): Batı
 - [ATOMSUZ] k5 → "Bu bakışta geride kalmak bir ilişkinin değil bir gecikmenin adıdır; ülkeler aynı büyüme merdiveninin farklı ba…" — programatik olarak ölçülemedi (ad karşılığı yok): Batı
 - [OK]      k7 → "Jeffrey Sachs bu iyimserliği yarım yüzyıl sonra, 2005'te The End of Poverty ile yeniden kurdu."
@@ -54,10 +54,10 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.560Z_
 - [OK]      k11 → "Pencerenin kendisi de tarafsız değildir: serinin izlediği dönem 1990 sonrasıdır ve tartışmanın erken evresi — …"
 - [OK]      k2 → "Kişi başına hasıla serisi de benzer biçimde iki yüzlüdür: dünya ortalamasının 1950 ile 2022 arasında yaklaşık …"
 - [OK]      k3 → "Ticaret hadleri aleyhine dönmüş, tek ürüne kilitlenmiş bir ihracatçının uzun durgunluğu en dolaysız karşılığın…"
-- [ATOMSUZ] k6 → "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır;…" — programatik olarak ölçülemedi (ad karşılığı yok): Sachs, Easterly, Moyo
-- [OK]      k7 → "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır;…" — 1 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k8 → "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır;…" — 1 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k9 → "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır;…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k6 → "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır;…"
+- [OK]      k7 → "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır;…"
+- [OK]      k8 → "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır;…"
+- [OK]      k9 → "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır;…"
 - [ATOMSUZ] k1 → "Başarısızlığın ölçütünü sorgulayan soru ise ancak kalkınma sonrası çerçevede sorulabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 36 OK · 0 ISARET · 0 HATA · 22 ATOMSUZ
+**Özet:** 35 OK · 2 ISARET · 0 HATA · 21 ATOMSUZ

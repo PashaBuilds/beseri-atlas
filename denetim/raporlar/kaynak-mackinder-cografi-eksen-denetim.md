@@ -1,5 +1,5 @@
 ## kaynak-mackinder-cografi-eksen
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:01.154Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:37.033Z_
 
 - [OK]      k1 → "Kaynak, yazarın 1904'te Kraliyet Coğrafya Cemiyeti'nde bir bildiri sunduğunu ve bu bildiride kuramını formüle …" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kaynak, 1903'e gelindiğinde yazarın siyasi konumunu değiştirdiğini, artık serbest ticareti desteklemediğini, L…"

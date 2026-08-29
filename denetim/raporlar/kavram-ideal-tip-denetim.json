@@ -1,9 +1,9 @@
 {
   "id": "kavram-ideal-tip",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:54.590Z",
+  "zaman": "2026-08-29T19:34:23.026Z",
   "govde_hash": "ab1fe2c9c726",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k3",
@@ -109,9 +109,9 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "Henderson ile Talcott Parsons'ın 1947'de İngilizceye çevirdiği kesim, meşru otoritenin üç saf tipini birbirinden ayırır; yasal otoritenin en saf biçimi bürokrat",
+      "iddia": "A. M. Henderson ile Talcott Parsons'ın 1947'de İngilizceye çevirdiği kesim, meşru otoritenin üç saf tipini birbirinden ayırır; yasal otoritenin en saf biçimi bü",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k5",

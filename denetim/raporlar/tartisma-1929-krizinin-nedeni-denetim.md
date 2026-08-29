@@ -1,5 +1,5 @@
 ## tartisma-1929-krizinin-nedeni
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.386Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:26.302Z_
 
 - [OK]      k1 → "Ağustos 1929'da yüzde 3 olan Amerikan işsizlik oranı Mart 1933'te yüzde 25'e çıkmıştı."
 - [OK]      k1 → "Aynı aralıkta sanayi üretimi endeksi 114'ten 54'e, yani yüzde 52,6 geriledi; para arzı yüzde 35 daraldı, fiyat…"
@@ -51,7 +51,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.386Z_
 - [ATOMSUZ] k6 → "Kitabın tanıtımı üç kavramı yan yana koyar: panik, bulaşmanın gücü ve önderlik." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k6 → "Kitabın içindekiler listesi de tartışmanın kapsamını çizer: 1929 borsa çöküşü, uçuruma kayış, 1931, dünya ikti…"
 - [OK]      k6 → "Kırkıncı yıl basımının önsözünü Barry Eichengreen ile Bradford DeLong yazdı; yani rakip çerçevenin kurucusu, b…"
-- [OK]      k10 → "Maddison Project kişi başına GSYH serisinde dünya değeri 1920'de yaklaşık 2.493, 1940'ta yaklaşık 3.413 ulusla…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k10 → "Maddison Project kişi başına GSYH serisinde dünya değeri 1920'de yaklaşık 2.493, 1940'ta yaklaşık 3.413 ulusla…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k10 → "İki çapa arasında bunalımın kendisi görünmez: dünya serisi on yıllık aralıklarla ilerlediği için 1929 zirvesi …"
 - [OK]      k1 → "Parker'ın kendi kaydı bile beklentilerin rolünü ayrı bir sav olarak ayırmadığını, çünkü 1931-1933 için ampirik…"
 

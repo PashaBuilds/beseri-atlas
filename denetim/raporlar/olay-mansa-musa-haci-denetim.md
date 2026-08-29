@@ -1,5 +1,5 @@
 ## olay-mansa-musa-haci
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:46.219Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:01.804Z_
 
 - [OK]      k1 → "Musa 1324'te Mekke'ye hacca gitti; yanında çok büyük bir maiyet ve çok miktarda altın vardı, yol üstünde Kahir…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kaynak kervanda 80 deve bulunduğunu ve her birinin 23-136 kg altın tozu taşıdığının söylendiğini aktarır; heme…"
@@ -12,7 +12,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:46.219Z_
 - [ATOMSUZ] k1 → "Aynı kaynağın hem şüpheyi hem ciddiye alınmayı kaydetmesi, atlasın hakemlik etmeme ilkesiyle birebir örtüşür: …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak, Musa'nın babasının kim olduğu konusunda kaynakların karıştığını ve bir tarihçinin Musa'yı Ebu Bekir I'…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bir hükümdarın soyunun bile çekişmeli olması, bu dosyanın genel güven düzeyinin neden tartışmalı işaretlendiği…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Musa tahta çıktığında Mali, büyük ölçüde eski Gana İmparatorluğu'nun toprağından oluşuyordu ve bu topraklar Ma…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Musa tahta çıktığında Mali, büyük ölçüde eski Gana İmparatorluğu'nun toprağından oluşuyordu ve bu topraklar Ma…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k2 → "Öncül yapı dosyasında ele alınıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyondur."
 - [OK]      k1 → "Musa'nın saltanatı, Mali'nin yönetimi, Timbuktu ve mimari burada ayrı başlıklar altında ele alınmamıştır; kayn…"

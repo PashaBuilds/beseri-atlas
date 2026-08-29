@@ -1,8 +1,8 @@
 ## dusunur-du-bois
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.388Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:17.317Z_
 
-- [OK]      k1 → "Du Bois, Amerika Birleşik Devletleri'nde doğmuş, Almanya'da ve Amerika'da eğitim görmüş ve akademik kariyeriyl…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k3 → "Du Bois, Amerika Birleşik Devletleri'nde doğmuş, Almanya'da ve Amerika'da eğitim görmüş ve akademik kariyeriyl…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "W. E. B. Du Bois, Amerika Birleşik Devletleri'nde doğmuş, Almanya'da ve Amerika'da eğitim görmüş ve akademik k…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "W. E. B. Du Bois, Amerika Birleşik Devletleri'nde doğmuş, Almanya'da ve Amerika'da eğitim görmüş ve akademik k…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Dosyanın ayırt edici yanı, düşünürün iki ayrı işi birlikte yapmış olmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bu birleşim, dönemin sosyal bilim pratiğinde seyrektir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Bu birleşim, dönemin sosyal bilim pratiğinde seyrektir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

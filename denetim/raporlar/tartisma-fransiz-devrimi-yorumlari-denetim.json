@@ -1,19 +1,19 @@
 {
   "id": "tartisma-fransiz-devrimi-yorumlari",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:57.099Z",
+  "zaman": "2026-08-29T19:34:28.624Z",
   "govde_hash": "7dc559b1fae7",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl yazıları başlıca ideolojik çizgilerde ayrışmıştı: muhafazakâr tarihçiler Devrim'i kınadı, liberaller 1789 Devrimi'ni övdü, radikaller 1793'ün demokratik ",
+      "iddia": "Kaynağın açılış bilançosuna göre çağdaş ve 19. yüzyıl yazıları başlıca ideolojik çizgilerde ayrışmıştı: muhafazakâr tarihçiler Devrim'i kınadı, liberaller 1789 ",
       "durum": "OK",
       "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılda devrim tarihi profesyonelleşti ve araştırmacılar kamu arşivlerindeki birincil kaynakların eleştirel çözümlemesine daha çok dikkat vermeye başladı.",
+      "iddia": "20. yüzyılda devrim tarihi profesyonelleşti ve araştırmacılar kamu arşivlerindeki birincil kaynakların eleştirel çözümlemesine daha çok dikkat vermeye başladı.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -31,7 +31,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl kaydına göre hiçbir tek açıklayıcı model yaygın kabul görmemiş, alan kültürel tarihler, kadınlar ve toplumsal cinsiyet, bölgesel tarihler, görsel temsill",
+      "iddia": "Aynı kaynağın 21. yüzyıl kaydına göre hiçbir tek açıklayıcı model yaygın kabul görmemiş, alan kültürel tarihler, kadınlar ve toplumsal cinsiyet, bölgesel tarihl",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -223,9 +223,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl İngilizce dünyasında etkiliydi; yazar Devrim'in pratik deneyimden yoksun düşünürlerce yönlendirildiğini ve eşitliğe özgürlükten fazla ağırlık verildiğini",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngilizce, Devrim"
+      "iddia": "Alexis de Tocqueville'in 1856 tarihli L'Ancien Régime et la Révolution çalışması, kaynağa göre 19. yüzyıl İngilizce dünyasında etkiliydi; yazar Devrim'in pratik",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -277,7 +277,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılın ikinci yarısındaki devrimci çatışmaların bir Atlantik devrimi ya da batı devrimi oluşturduğunu savundu.",
+      "iddia": "R. R. Palmer, kaynağa göre iki cilt hâlinde 1959 ile 1964 arasında yayımlanan The Age of the Democratic Revolution'da Fransız istisnacılığına karşı çıktı ve 18.",
       "durum": "OK",
       "not": ""
     },
@@ -289,7 +289,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Cox'un aktarımına göre Marksist tarihçiler Palmer'ı NATO'ya tarihsel meşruiyet sağlamakla suçladı, Fransız milliyetçileri ise tezin Devrim'in tarihsel önemini k",
+      "iddia": "Tez hem Marksistlerce hem Fransız milliyetçilerince reddedildi; Marvin R. Cox'un aktarımına göre Marksist tarihçiler Palmer'ı NATO'ya tarihsel meşruiyet sağlama",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -301,13 +301,13 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "James'in 1938 tarihli The Black Jacobins'i durur.",
+      "iddia": "Boşluğun karşı kutbunda C. L. R. James'in 1938 tarihli The Black Jacobins'i durur.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k8",
-      "iddia": "James'in 1938 tarihli The Black Jacobins'i durur.",
+      "iddia": "Boşluğun karşı kutbunda C. L. R. James'in 1938 tarihli The Black Jacobins'i durur.",
       "durum": "OK",
       "not": ""
     },
@@ -344,8 +344,8 @@
     {
       "anahtar": "k11",
       "iddia": "Tocqueville'in bölüm başlığı idari merkezîleşmeyi Devrim'den önceye koyar; Lefebvre'in bölümlenmesi ise aynı yılları aristokratik, burjuva, halk ve köylü devrim",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Devrim, Lefebvre"
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
@@ -369,23 +369,23 @@
       "anahtar": "k1",
       "iddia": "Cobban Marksçı modele ampirik bir itiraz getirir, yerine karşılaştırılabilir bir büyük anlatı önermez; Furet'nin hedefi Devrim'in önemi değil, onun bütün modern",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
       "iddia": "Cobban Marksçı modele ampirik bir itiraz getirir, yerine karşılaştırılabilir bir büyük anlatı önermez; Furet'nin hedefi Devrim'in önemi değil, onun bütün modern",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k6",
       "iddia": "Cobban Marksçı modele ampirik bir itiraz getirir, yerine karşılaştırılabilir bir büyük anlatı önermez; Furet'nin hedefi Devrim'in önemi değil, onun bütün modern",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl kaydına göre bu çizgilerden hiçbiri yaygın kabul görmüş bir model üretmedi; alanın bugünkü hâli bir uzlaşma değil bir dağılma ve bu dağılmanın kendisi de",
+      "iddia": "Kaynağın 21. yüzyıl kaydına göre bu çizgilerden hiçbiri yaygın kabul görmüş bir model üretmedi; alanın bugünkü hâli bir uzlaşma değil bir dağılma ve bu dağılman",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

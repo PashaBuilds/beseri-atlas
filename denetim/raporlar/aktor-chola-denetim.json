@@ -1,9 +1,9 @@
 {
   "id": "aktor-chola",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:48.712Z",
+  "zaman": "2026-08-29T19:34:08.398Z",
   "govde_hash": "9aa044d1aebb",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -104,8 +104,8 @@
     {
       "anahtar": "k1",
       "iddia": "Hanedanın gücünün zirvesinde Güneydoğu Asya'ya yönelik deniz seferleri düzenlendiği kaydedilir.",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Asya"
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",

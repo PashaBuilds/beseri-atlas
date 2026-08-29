@@ -1,5 +1,5 @@
 ## kavram-salgin
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.536Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:24.590Z_
 
 - [ATOMSUZ] k1 → "Kaynak ilk bölümünü tanıma ayırır ve altında parametreler diye ayrı bir alt başlık tutar; ardından önleme ve h…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Tanımın altında parametrelerin ayrı bir alt başlık olarak tutulması ve grip salgınları için ayrı çerçevelerin …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

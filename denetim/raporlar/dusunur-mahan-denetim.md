@@ -1,5 +1,5 @@
 ## dusunur-mahan
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.122Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:19.176Z_
 
 - [OK]      k1 → "Kaynak onu 27 Eylül 1840'ta New York'ta doğmuş, 1 Aralık 1914'te Washington'da ölmüş biri olarak kaydeder ve D…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kaynak etki bölümünün altında ayrı alt başlıklar tutar: Almanya, Birleşik Krallık, Fransa, Japonya ve Birleşik…" — 2 atom doğrulandı; 2 ad ölçülemedi

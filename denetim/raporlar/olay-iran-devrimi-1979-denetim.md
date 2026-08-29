@@ -1,5 +1,5 @@
 ## olay-iran-devrimi-1979
-_Geçiş 2 — kaynak denetimi · 2026-08-29T15:53:15.833Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:59.026Z_
 
 - [OK]      k1 → "Mohammed Rıza Pehlevi 16 Ocak 1979'da İran'dan ayrıldı." — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "İki hafta sonra Ruhullah Humeyni Fransa'daki sürgününden Tahran'a döndü; Şubat başındaki silahlı çatışmaların …" — 3 atom doğrulandı; 2 ad ölçülemedi

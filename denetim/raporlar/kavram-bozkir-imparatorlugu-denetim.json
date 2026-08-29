@@ -1,9 +1,9 @@
 {
   "id": "kavram-bozkir-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:54.016Z",
+  "zaman": "2026-08-29T19:34:21.657Z",
   "govde_hash": "f39355aac3dc",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -19,9 +19,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "yüzyıl için nüfusu 3 milyon olarak verir ve ortak dilleri Eski Türkçe, Soğdca ve Juan-juan dili olarak sıralar.",
+      "iddia": "Listede geçen kağanlık için tutulan ayrı kayıt, onu 552-603 arasına yerleştirir, 557 için alanı 6.000.000 km², 6. yüzyıl için nüfusu 3 milyon olarak verir ve or",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "6 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k2",

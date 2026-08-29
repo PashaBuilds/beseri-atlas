@@ -1,5 +1,5 @@
 ## tartisma-soykirim-kavrami
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.355Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:32.175Z_
 
 - [OK]      k1 → "1948 tarihli Soykırım Sözleşmesi'nin tanımı dört grup türü ve özel bir kast şartıyla sınırlıdır; akademik yazı…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k4 → "1948 tarihli Soykırım Sözleşmesi'nin tanımı dört grup türü ve özel bir kast şartıyla sınırlıdır; akademik yazı…" — 1 atom doğrulandı; 2 ad ölçülemedi
@@ -17,7 +17,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.355Z_
 - [ATOMSUZ] k3 → "Sekretarya uzmanlarının hazırladığı taslak soykırımı fiziksel, biyolojik ve kültürel olmak üzere üç kategoriye…" — programatik olarak ölçülemedi (ad karşılığı yok): Altıncı, Komite
 - [ATOMSUZ] k3 → "Grubu yerinden etmeye zorlamayı — sonradan etnik temizlik diye anılacak pratiği — fiil listesine ekleme öneris…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k3 → "Amerika Birleşik Devletleri temsilcisi Ernest Gross, Kasım 1948'deki konuşmasında sözleşmenin kapsamının siyas…" — 3 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k1 → "Amerika Birleşik Devletleri temsilcisi Ernest Gross, Kasım 1948'deki konuşmasında sözleşmenin kapsamının siyas…" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k1 → "Amerika Birleşik Devletleri temsilcisi Ernest Gross, Kasım 1948'deki konuşmasında sözleşmenin kapsamının siyas…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k4 → "Sonraki yazında bu eksik çoğu kez Sovyetler Birliği'nin itirazına bağlanır ve Stalin'in ülkesindeki siyasal kı…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k4 → "Müzakere tarihi böylece tartışmanın kendisine dahil olmuştur: tanımın neden dar olduğu sorusu da tanım kadar ç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k4 → "Dar tanımın gücü her şeyden önce fiilî yerleşikliğidir: uluslararası hukuk organlarının hemen hemen tümü soykı…" — 1 atom doğrulandı; 1 ad ölçülemedi
@@ -57,7 +57,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.355Z_
 - [OK]      k3 → "Hukuk alanında dar tanım yerleşiktir: uluslararası organların hemen hemen tümü 1948 metnine göre yargılamayı s…"
 - [ATOMSUZ] k4 → "Akademik alanda ise tanım listesi uzamaya devam eder ve hukuki tanımın hem sosyolojik tanımlardan hem kamu alg…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k4 → "Siyasi grupların dışarıda bırakılması, Kuper'den bu yana savunulan bir eksik olarak durur; kültürel yok etme, …"
-- [ATOMSUZ] k3 → "Siyasi grupların dışarıda bırakılması, Kuper'den bu yana savunulan bir eksik olarak durur; kültürel yok etme, …" — programatik olarak ölçülemedi (ad karşılığı yok): Kuper
-- [ATOMSUZ] k5 → "Siyasi grupların dışarıda bırakılması, Kuper'den bu yana savunulan bir eksik olarak durur; kültürel yok etme, …" — programatik olarak ölçülemedi (ad karşılığı yok): Kuper
+- [OK]      k3 → "Siyasi grupların dışarıda bırakılması, Kuper'den bu yana savunulan bir eksik olarak durur; kültürel yok etme, …"
+- [OK]      k5 → "Siyasi grupların dışarıda bırakılması, Kuper'den bu yana savunulan bir eksik olarak durur; kültürel yok etme, …"
 
-**Özet:** 29 OK · 0 ISARET · 0 HATA · 29 ATOMSUZ
+**Özet:** 31 OK · 0 ISARET · 0 HATA · 27 ATOMSUZ

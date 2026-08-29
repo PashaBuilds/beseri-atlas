@@ -1,9 +1,9 @@
 {
   "id": "tartisma-kesif-mi-istila-mi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:57.818Z",
+  "zaman": "2026-08-29T19:34:30.687Z",
   "govde_hash": "2694f58ce913",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k11",
@@ -97,7 +97,7 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "Crosby'nin 1972'de yayımlanan The Columbian Exchange: Biological and Cultural Consequences of 1492 kitabı, olayı iki yarımküre arasında bitki, hayvan ve hastalı",
+      "iddia": "Alfred W. Crosby'nin 1972'de yayımlanan The Columbian Exchange: Biological and Cultural Consequences of 1492 kitabı, olayı iki yarımküre arasında bitki, hayvan ",
       "durum": "OK",
       "not": ""
     },
@@ -157,9 +157,9 @@
     },
     {
       "anahtar": "k9",
-      "iddia": "M'Intosh davasında verdiği kararda, Avrupa devletlerinin kendi aralarında benimsediği ilkeyi \"discovery gave title to the government\" cümlesiyle özetler: keşif,",
+      "iddia": "Birleşik Devletler Yüksek Mahkemesi, Johnson v. M'Intosh davasında verdiği kararda, Avrupa devletlerinin kendi aralarında benimsediği ilkeyi \"discovery gave tit",
       "durum": "OK",
-      "not": ""
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k9",

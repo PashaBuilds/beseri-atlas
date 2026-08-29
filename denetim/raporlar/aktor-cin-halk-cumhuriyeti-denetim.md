@@ -1,5 +1,5 @@
 ## aktor-cin-halk-cumhuriyeti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.755Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:08.475Z_
 
 - [OK]      k1 → "Kaynak sonucu üç maddede toplar: komünist zafer, Çin Halk Cumhuriyeti'nin ilanı ve Çin Cumhuriyeti hükümetinin…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "Üçüncü maddenin ayrı yazılması belirleyicidir: yenilgiye uğrayan hükümet dağılmadı, yer değiştirdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

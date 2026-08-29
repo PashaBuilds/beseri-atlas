@@ -1,5 +1,5 @@
 ## tartisma-1914-savas-sorumlulugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.328Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:26.161Z_
 
 - [OK]      k2 → "Kavga akademik bir merakla başlamadı: 1919'da imzalanan barış antlaşması, savaşın sorumluluğunu bir hukuk madd…"
 - [ATOMSUZ] k3 → "Aynı antlaşmanın ceza bölümü sorumluluğu bir kişiye de yükledi ve eski Alman imparatorunu yargılamak için özel…" — programatik olarak ölçülemedi (ad karşılığı yok): Alman
@@ -7,13 +7,13 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.328Z_
 - [ATOMSUZ] k9 → "Savaşın yüzüncü yılında piyasanın kökenleri açıklamaya çalışan yayınlarla dolması ve kamuoyu ilgisinin beklene…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Metin, İtilaf ve ortak hükümetlerin, Almanya ve müttefiklerinin saldırganlığıyla kendilerine dayatılan savaşta…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Buna karşılık savaştan hemen sonra İtilaf tarihçileri savaşın başlamasından yalnızca Almanya'nın sorumlu olduğ…" — 1 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k2 → "madde ise Almanya'nın kaynaklarının tam tazmine yetmediğini açıkça kabul eder ve yükümlülüğü sivil halka ve mü…"
+- [OK]      k2 → "Hemen ardından gelen 232. madde ise Almanya'nın kaynaklarının tam tazmine yetmediğini açıkça kabul eder ve yük…"
 - [ATOMSUZ] k3 → "Wilhelm'i uluslararası ahlaka ve antlaşmaların dokunulmazlığına karşı ağır bir suçtan alenen itham eder; beş b…" — programatik olarak ölçülemedi (ad karşılığı yok): Hollanda
-- [ATOMSUZ] k3 → "madde de savaş hukukunu ihlal etmekle suçlanan kişilerin askerî mahkemelere çıkarılmasını düzenler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "228. madde de savaş hukukunu ihlal etmekle suçlanan kişilerin askerî mahkemelere çıkarılmasını düzenler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Almanya'nın sorumlu olduğunu savunan az sayıdaki Alman tarihçiden biri olan Hermann Kantorowicz, Dışişleri Bak…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Holger Herwig, Fritz Fischer'in kitabından önce Almanya'da bu konuda yayımlananların büyük bölümünü sözde-tari…"
 - [OK]      k1 → "İngilizce dünyada 1920'lerin sonunda ve 1930'larda üretilen akademik çalışmalar ise katılımcıları aşağı yukarı…"
-- [ATOMSUZ] k1 → "maddenin ahlaki geçersizliğini göstererek tazminatları sona erdirmekti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Versailles'ın koşullarına karşı çıkan Sidney Bradshaw Fay, Charles A. Beard ve Harry Elmer Barnes gibi Amerika…"
 - [OK]      k1 → "Alman Dışişleri Bakanlığı bu çabalara arşivlerini cömertçe açtı, Barnes'a araştırma fonu sağladı; hükümet Fay'…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Aynı hükümet, Alman eylemlerini eleştiren çalışmaların Almanya'da yayımlanmasına izin vermedi." — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k6 → "1928 tarihli önsözünde, savaş sırasında Almanya'yı ve Kayzer'i suçlayan koroya katılmayı reddettiğini, çünkü t…" — 2 atom doğrulandı; 1 ad ölçülemedi
@@ -30,7 +30,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.328Z_
 - [OK]      k8 → "Mombauer, tartışmanın belge güdümlü niteliğini inceleyen makalesinde, hem Fischer okulunun hem eleştirmenlerin…"
 - [ATOMSUZ] k8 → "Aynı makale, alanın postmodern görelileştirme girişimlerinin dışında kalmasını, onlarca yıldır savaş suçu suçl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Mombauer'e göre 1980'lere gelindiğinde yeni bir uzlaşma oluşmuştu: çok az tarihçi Fischer'in önceden tasarlanm…"
-- [OK]      k1 → "Williamson Jr., 1990 tarihli çalışmasında suçun büyük bölümünü Almanlara değil Avusturya-Macaristan seçkinleri…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Samuel R. Williamson Jr., 1990 tarihli çalışmasında suçun büyük bölümünü Almanlara değil Avusturya-Macaristan …" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Holger Herwig'in değerlendirmesinde Berchtold Temmuz boyunca Berlin ile bilgi paylaşmakta isteksizdi; çünkü Be…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Herwig'in kendi özetinde Viyana önce savaşa karar verdi, sonra Alman güvencelerini aradı ve aldıktan sonra kul…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k4 → "1914 tarihli Beyaz Kitap'a göre Berlin, Viyana'ya Sırbistan'a yönelik eyleminde "tamamen serbest bir el" tanım…" — 3 atom doğrulandı; 2 ad ölçülemedi
@@ -57,7 +57,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.328Z_
 - [ATOMSUZ] k6 → "Fay'e göre bunların en büyüğü ittifak sistemidir; sistem bir yandan barışı korur çünkü müttefikler birbirini f…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "James Joll ise seçkinlerin altta yatan inanç ve zihniyetlerini — kültürel kadercilik, militarizm ve ortak yanl…"
 - [OK]      k10 → "Taylor'ın 1969 tarihli War by Time-table kitabındaki demiryolu tezidir."
-- [OK]      k1 → "Taylor'ın 1969 tarihli War by Time-table kitabındaki demiryolu tezidir." — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Taylor'ın 1969 tarihli War by Time-table kitabındaki demiryolu tezidir."
 - [ATOMSUZ] k1 → "Taylor'a göre hiçbir büyük güç savaş istemiyordu ama hepsi göreli gücünü artırmak istiyordu; silahlanma yarışı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kriz başlayınca rakiplerden hızlı seferber olma zorunluluğu 1914'ün liderlerini kendi lojistiklerinin tutsağı …" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Zihniyet düzeyine bakan okumalar aynı soruyu başka bir katmanda sorar: Sosyal Darwinci fikirlerin payını vurgu…" — 1 atom doğrulandı; 3 ad ölçülemedi
@@ -67,4 +67,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.328Z_
 - [OK]      k1 → "Aralık 1912 toplantısının bir karar mı yoksa bir niyet beyanı mı olduğu, doğrudan kanıt bulunmadığı için tartı…"
 - [ATOMSUZ] k9 → "Mombauer'in kaydettiği gibi tartışma, savaşın yüzüncü yılında bir kez daha ve büyük bir kamuoyu ilgisiyle açıl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 51 OK · 0 ISARET · 0 HATA · 14 ATOMSUZ
+**Özet:** 52 OK · 0 ISARET · 0 HATA · 13 ATOMSUZ

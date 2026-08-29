@@ -1,8 +1,8 @@
 ## aktor-indus-vadisi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.747Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:10.709Z_
 
 - [OK]      k1 → "İndus Vadisi Uygarlığı, bugünkü Pakistan ve kuzeybatı Hindistan'ı kapsayan nehir havzasında kurulmuş bir kent …"
-- [OK]      k2 → "İndus Vadisi Uygarlığı, bugünkü Pakistan ve kuzeybatı Hindistan'ı kapsayan nehir havzasında kurulmuş bir kent …" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k2 → "İndus Vadisi Uygarlığı, bugünkü Pakistan ve kuzeybatı Hindistan'ı kapsayan nehir havzasında kurulmuş bir kent …"
 - [ATOMSUZ] k2 → "Uygarlığın yazısı bugüne kadar çözülememiştir; dolayısıyla hakkında bilinen her şey, kazılarda çıkan nesnelerd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Uygarlığın yazısı bugüne kadar çözülememiştir; dolayısıyla hakkında bilinen her şey, kazılarda çıkan nesnelerd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Kazı raporları, uygarlığın maddi kalıntılarını ayrıntılı biçimde kaydeder: yapı planları, sokak düzeni, su alt…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

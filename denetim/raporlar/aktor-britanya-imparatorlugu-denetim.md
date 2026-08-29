@@ -1,7 +1,7 @@
 ## aktor-britanya-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.511Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:07.987Z_
 
-- [ATOMSUZ] k1 → "yüzyılın sonlarında kurduğu denizaşırı mülkler ve ticaret karakollarıyla başladı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Britanya İmparatorluğu, Britanya Tacı ve seleflerince yönetilen ya da idare edilen dominyonlar, sömürgeler, hi…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Tanımın kendisi bir liste olarak verilir: dominyon, sömürge, himaye, manda ve "diğer topraklar"." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynağın tanımında beş ayrı statünün sayılması, atlasın imparatorluk gösterimi tartışmasının doğrudan malzemes…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "1857 ayaklanmasının ardından bazı prenslikler Britanya Hindistanı'na ilhak edildi, diğer prenslikler ise hâkim…"
@@ -13,4 +13,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.511Z_
 - [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1945'te yaklaşık 2,38 milyardır."
 - [ATOMSUZ] k1 → "Genişleme evreleri, sömürge yönetiminin ülke ülke biçimleri, köle ticareti ve sömürgesizleşme süreci burada ay…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 6 OK · 0 ISARET · 0 HATA · 5 ATOMSUZ
+**Özet:** 7 OK · 0 ISARET · 0 HATA · 4 ATOMSUZ

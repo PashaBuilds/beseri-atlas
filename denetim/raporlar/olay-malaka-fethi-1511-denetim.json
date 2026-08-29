@@ -1,21 +1,21 @@
 {
   "id": "olay-malaka-fethi-1511",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:46.161Z",
+  "zaman": "2026-08-29T19:34:01.736Z",
   "govde_hash": "7bde348c4804",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
       "iddia": "1511 yazında bir Avrupa donanması, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan boğazın kıyısındaki limanı kuşattı ve birkaç hafta içinde ele geçird",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Okyanusu"
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
       "iddia": "1511 yazında bir Avrupa donanması, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan boğazın kıyısındaki limanı kuşattı ve birkaç hafta içinde ele geçird",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",

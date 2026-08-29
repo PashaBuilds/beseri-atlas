@@ -1,5 +1,5 @@
 ## tartisma-kesif-mi-istila-mi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.818Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:30.687Z_
 
 - [ATOMSUZ] k11 → "Üç ad da aynı olayları anlatır ama her biri başka bir fail, başka bir mağdur ve başka bir sorumluluk önerir; s…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k9 → "Keşif sözcüğü on dokuzuncu yüzyılda tapu üreten bir hukuk ilkesine ad olmuş, fetih sözcüğü destan diliyle yerl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -16,7 +16,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.818Z_
 - [OK]      k3 → "Bartolomé de las Casas'ın 1552'de Sevilla'da basılan kitabı, Brevísima relación de la destrucción de las India…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k3 → "Metin, adaların nasıl boşaltıldığını bölge bölge anlatır ve İspanya'dan geniş on krallık büyüklüğünde toprağın…"
 - [OK]      k3 → "Las Casas'ın sayıları davasının parçasıdır: Española'da üç milyon kişinin yaşadığını, geriye üç yüz kişilik bi…"
-- [OK]      k5 → "Crosby'nin 1972'de yayımlanan The Columbian Exchange: Biological and Cultural Consequences of 1492 kitabı, ola…"
+- [OK]      k5 → "Alfred W. Crosby'nin 1972'de yayımlanan The Columbian Exchange: Biological and Cultural Consequences of 1492 k…"
 - [ATOMSUZ] k5 → "Karşılaşma ve değiş tokuş gibi ara adlar bu çerçeveden türedi; sözcüklerin ima ettiği simetrinin, yükü kimin t…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Alfred Kroeber'in 1939'da yarımkürenin tamamı için verdiği 8,4 milyonluk tahmin gibi düşük sayılar, kayda göre…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Düşük tahminler 1960'lara kadar yaygın kabul gördü; o on yılda antropolog Henry Dobyns, tarihsel ve arkeolojik…" — 5 atom doğrulandı; 2 ad ölçülemedi
@@ -26,7 +26,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.818Z_
 - [ATOMSUZ] k1 → "Düşüşün kendisi için kayıt, hastalıkları, yerleşimcilerle müttefiklerinin doğrudan şiddetini ve toplumsal düze…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Zamanlama ayrıntısı adlandırma için önemlidir: aynı kayıtta aktarıldığına göre tarihçi Andrés Reséndez, çiçek …"
 - [OK]      k1 → "Aynı kayıtta aktarılan bir tahmine göre madenlerde zorla çalıştırılan Arawak işçilerinin üçte biri her altı ay…"
-- [OK]      k9 → "M'Intosh davasında verdiği kararda, Avrupa devletlerinin kendi aralarında benimsediği ilkeyi "discovery gave t…"
+- [OK]      k9 → "Birleşik Devletler Yüksek Mahkemesi, Johnson v. M'Intosh davasında verdiği kararda, Avrupa devletlerinin kendi…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k9 → "Aynı karara göre fetih de fatihin mahkemelerinin adaletini tartışamayacağı bir tapu üretir; kararın kendi sözc…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k11 → "Stanford Felsefe Ansiklopedisi'nin sömürgecilik maddesine göre İspanyol fatihleri ve yerleşimcileri, Amerika k…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k11 → "Aynı maddeye göre eleştiri de aynı yüzyılda başladı: Las Casas ile Francisco de Vitoria, İspanyol sömürge prat…" — 3 atom doğrulandı; 1 ad ölçülemedi

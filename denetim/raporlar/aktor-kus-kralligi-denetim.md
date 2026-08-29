@@ -1,5 +1,5 @@
 ## aktor-kus-kralligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T17:40:01.066Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:12.044Z_
 
 - [OK]      k1 → "Kuş Krallığı, Nil'in Mısır'ın güneyinde kalan vadisinde, bugünkü Sudan topraklarında kurulmuş bir devletti." — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Tarihi tek bir çizgi hâlinde değil üç evre olarak okunur: Kerma kentinin çevresinde MÖ 2500-1500 arasında serp…"
@@ -33,7 +33,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T17:40:01.066Z_
 - [OK]      k1 → "MS 4. yüzyılda krallık Noba ve Blemmi topluluklarının baskısı altındaydı; bu zayıflamayı fırsat bilen Aksumlul…"
 - [OK]      k1 → "Aksum'un buradaki varlığı büyük olasılıkla kısa sürdü; ama krallık bir daha toparlanamadı ve Nobatia, Makuria …"
 - [OK]      k1 → "Sefer için kayıtlara geçen tarih MS 330'dur; krallığın sonu için verilen yaklaşık tarih ise MS 350'dir."
-- [OK]      k3 → "Wallis Budge, 1907'de yayımladığı The Egyptian Sudan'da, 1905 baharında Hartum'da yeni kurulan müzeye eser top…"
+- [OK]      k3 → "E. A. Wallis Budge, 1907'de yayımladığı The Egyptian Sudan'da, 1905 baharında Hartum'da yeni kurulan müzeye es…"
 - [ATOMSUZ] k3 → "Meroe piramitlerinde zengin gömü eşyası bulma beklentisinin boşa çıktığını, tonozlu odalardaki cesetlerin yakı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "1911 Britannica'nın Meroe maddesi aynı yılların tanığıdır: 1905'te kabartmaların taş taş sökülüp bir bölümünün…"
 - [OK]      k3 → "Budge, Sudan'ın erken tarihini "yaklaşık MÖ 4000'den" Piankhi'nin yükselişine kadar Mısır anıtlarından izlediğ…"

@@ -1,21 +1,21 @@
 {
   "id": "aktor-gana-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:49.144Z",
+  "zaman": "2026-08-29T19:34:09.305Z",
   "govde_hash": "b8c968383e12",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
       "iddia": "Gana İmparatorluğu, Batı Afrika'da Sahra'nın güney kıyısında, çöl ticaret yollarının ulaştığı kuşakta kurulmuştur.",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Sahra"
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
       "iddia": "Gana İmparatorluğu, Batı Afrika'da Sahra'nın güney kıyısında, çöl ticaret yollarının ulaştığı kuşakta kurulmuştur.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -26,8 +26,8 @@
     {
       "anahtar": "k3",
       "iddia": "Bu düzenin adı, bugünkü Gana devletinin bulunduğu coğrafyayla aynı yerde değildir.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Gana"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -38,14 +38,14 @@
     {
       "anahtar": "k1",
       "iddia": "Kaynaklar onu Wagadu olarak da kaydeder ve bugünkü Gana devletiyle karıştırılmaması gerektiğini açıkça belirtir.",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Wagadu"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
       "iddia": "Kaynaklar onu Wagadu olarak da kaydeder ve bugünkü Gana devletiyle karıştırılmaması gerektiğini açıkça belirtir.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k3",
@@ -145,9 +145,9 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "yüzyıla tarihler; kuruluştan yüzyıllar sonra gelen bir değişim, bir devletin kimliğinin kuruluş anında sabitlenmediğini gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Kaynaklar önce yerel inanç düzenini, sonra İslam'ı kaydeder ve geçişi 11. yüzyıla tarihler; kuruluştan yüzyıllar sonra gelen bir değişim, bir devletin kimliğini",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",

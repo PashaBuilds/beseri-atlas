@@ -1,9 +1,9 @@
 {
   "id": "tartisma-soguk-savasin-baslangici",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:58.210Z",
+  "zaman": "2026-08-29T19:34:31.907Z",
   "govde_hash": "aa32009a5ff4",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -37,7 +37,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Kennan'ın Foreign Affairs'te 1947'de X imzasıyla çıkan yazısı, Sovyetler'e dönük Amerikan siyasetinin özünü \"long-term, patient but firm and vigilant containmen",
+      "iddia": "George F. Kennan'ın Foreign Affairs'te 1947'de X imzasıyla çıkan yazısı, Sovyetler'e dönük Amerikan siyasetinin özünü \"long-term, patient but firm and vigilant ",
       "durum": "OK",
       "not": ""
     },
@@ -67,15 +67,15 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Bailey, 1950 tarihli America Faces Russia'da savaş sonrası barışın çöküşünü savaşı izleyen yıllardaki Sovyet yayılmacılığına bağladı: Bailey'ye göre Stalin, Yal",
+      "iddia": "Thomas A. Bailey, 1950 tarihli America Faces Russia'da savaş sonrası barışın çöküşünü savaşı izleyen yıllardaki Sovyet yayılmacılığına bağladı: Bailey'ye göre S",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k4",
-      "iddia": "Bailey, 1950 tarihli America Faces Russia'da savaş sonrası barışın çöküşünü savaşı izleyen yıllardaki Sovyet yayılmacılığına bağladı: Bailey'ye göre Stalin, Yal",
+      "iddia": "Thomas A. Bailey, 1950 tarihli America Faces Russia'da savaş sonrası barışın çöküşünü savaşı izleyen yıllardaki Sovyet yayılmacılığına bağladı: Bailey'ye göre S",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -109,9 +109,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Davies, Carr'ı Sovyetler Birliği'ni dünyadaki başlıca ilerici güç sayan ve Soğuk Savaş'ı Sovyetler'e karşı Amerikan saldırganlığı olarak okuyan Soğuk Savaş karş",
+      "iddia": "Britanya'da E. H. Carr, 1920'lere odaklanan ve 1950-1978 arasında yayımlanan on dört ciltlik bir Sovyetler Birliği tarihi yazdı; arkadaşı R. W. Davies, Carr'ı S",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -151,15 +151,15 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılda Doğu Asya'nın Amerikan ticaretine açılması üzerindeki Rus-Amerikan çekişmesine kadar geri götürdü.",
+      "iddia": "Wisconsin okulundan Walter LaFeber, America, Russia, and the Cold War başlıklı incelemesinde gerilimi 19. yüzyılda Doğu Asya'nın Amerikan ticaretine açılması üz",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k8",
-      "iddia": "yüzyılda Doğu Asya'nın Amerikan ticaretine açılması üzerindeki Rus-Amerikan çekişmesine kadar geri götürdü.",
+      "iddia": "Wisconsin okulundan Walter LaFeber, America, Russia, and the Cold War başlıklı incelemesinde gerilimi 19. yüzyılda Doğu Asya'nın Amerikan ticaretine açılması üz",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -205,9 +205,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Paterson ise 1973 tarihli Soviet-American Confrontation'da Sovyet düşmanlığı ile Birleşik Devletler'in savaş sonrası dünyaya hükmetme çabasını eşit ölçüde sorum",
+      "iddia": "Thomas G. Paterson ise 1973 tarihli Soviet-American Confrontation'da Sovyet düşmanlığı ile Birleşik Devletler'in savaş sonrası dünyaya hükmetme çabasını eşit öl",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -217,9 +217,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Leffler, Amerikan girişimlerini tetikleyenin Kremlin'in eylemlerinden çok sosyoekonomik çözülmeye, devrimci milliyetçiliğe, Britanya'nın zayıflığına ve Avrasya'",
+      "iddia": "Melvyn P. Leffler, Amerikan girişimlerini tetikleyenin Kremlin'in eylemlerinden çok sosyoekonomik çözülmeye, devrimci milliyetçiliğe, Britanya'nın zayıflığına v",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k11",

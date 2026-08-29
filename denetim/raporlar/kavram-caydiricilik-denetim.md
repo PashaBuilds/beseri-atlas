@@ -1,5 +1,5 @@
 ## kavram-caydiricilik
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:54.130Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:21.851Z_
 
 - [ATOMSUZ] k1 → "Kaynak, kavram bölümünün altında üç alt başlık tutar: orantılılık, karşılıklılık ve zorlayıcı inandırıcılık." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir askerî kavramın üç ayrı ölçütle tanımlanması, atlasın şu kuralının dayanağıdır: bu dosyada caydırıcılık, t…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

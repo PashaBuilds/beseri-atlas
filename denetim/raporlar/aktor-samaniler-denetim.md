@@ -1,5 +1,5 @@
 ## aktor-samaniler
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:51.405Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:14.996Z_
 
 - [OK]      k1 → "Sâmânîler, Mâverâünnehir ve Horasan'da hüküm süren, merkezini Buhara'ya yerleştirmiş bir hanedandır."
 - [OK]      k1 → "Hanedan, Abbasi halifeliğine bağlılığını sürdürürken fiilî bağımsızlığını korumuştur."

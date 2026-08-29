@@ -1,9 +1,9 @@
 {
   "id": "tartisma-tarim-devrimi-neden",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:58.739Z",
+  "zaman": "2026-08-29T19:34:33.452Z",
   "govde_hash": "cc18431dfb97",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -25,7 +25,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Gordon Childe 1928'de yaygınlaştırdı ve Man Makes Himself kitabında özetledi.",
+      "iddia": "Vaha kuramını 1908'de Raphael Pumpelly ortaya attı; V. Gordon Childe 1928'de yaygınlaştırdı ve Man Makes Himself kitabında özetledi.",
       "durum": "OK",
       "not": ""
     },

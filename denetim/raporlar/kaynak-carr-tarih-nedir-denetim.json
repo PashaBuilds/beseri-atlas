@@ -1,9 +1,9 @@
 {
   "id": "kaynak-carr-tarih-nedir",
   "gecis": 2,
-  "zaman": "2026-08-29T14:40:00.455Z",
+  "zaman": "2026-08-29T19:34:35.942Z",
   "govde_hash": "305c97aa0fa1",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -37,9 +37,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "yüzyıl.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Alanın bütünü için tutulan kayıt, tarih yazımının tarihini bölgelere ve geleneklere göre ayırır: antikçağ, Avrupa, Doğu Asya, Ortaçağ'dan Rönesans'a, Güneydoğu ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k3",

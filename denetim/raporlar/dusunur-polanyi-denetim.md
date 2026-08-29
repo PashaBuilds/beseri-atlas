@@ -1,5 +1,5 @@
 ## dusunur-polanyi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.404Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:20.372Z_
 
 - [ATOMSUZ] k1 → "Kaynak onun disiplinlerini iktisat toplumbilimi, iktisat tarihi, iktisadi antropoloji ve felsefe olarak sırala…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak, eski iktisatlara yaklaşımının Kolomb öncesi Amerika ve eski Mezopotamya gibi çeşitli örneklere uygulan…" — 1 atom doğrulandı; 2 ad ölçülemedi

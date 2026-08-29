@@ -1,9 +1,9 @@
 {
   "id": "veri-savas-kayiplari-1800-2023",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:59.977Z",
+  "zaman": "2026-08-29T19:34:35.289Z",
   "govde_hash": "48e7e75f44df",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -39,7 +39,7 @@
       "anahtar": "k1",
       "iddia": "Birinci Dünya Savaşı yıllarında ise 1914 değeri 1.577.016, 1918 değeri 1.630.593'tür.",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

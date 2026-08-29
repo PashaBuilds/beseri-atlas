@@ -1,9 +1,9 @@
 {
   "id": "aktor-sasani-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:51.471Z",
+  "zaman": "2026-08-29T19:34:15.114Z",
   "govde_hash": "92c49a00e45b",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -61,9 +61,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "yüzyıldaki çöküşünden sonra ayakta kalmış ve 1453'e kadar sürmüştür.",
+      "iddia": "Doğu Roma, Batı Roma İmparatorluğu'nun 5. yüzyıldaki çöküşünden sonra ayakta kalmış ve 1453'e kadar sürmüştür.",
       "durum": "OK",
-      "not": ""
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

@@ -1,8 +1,8 @@
 ## aktor-maldiv-sultanligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.313Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:12.658Z_
 
 - [OK]      k1 → "Maldiv Sultanlığı, Hint Okyanusu'nun ortasında, kıtalardan uzak bir takımadada kurulmuş siyasi birimdir."
-- [ATOMSUZ] k3 → "Maldiv Sultanlığı, Hint Okyanusu'nun ortasında, kıtalardan uzak bir takımadada kurulmuş siyasi birimdir." — programatik olarak ölçülemedi (ad karşılığı yok): Sultanlığı, Hint, Okyanusu
+- [OK]      k3 → "Maldiv Sultanlığı, Hint Okyanusu'nun ortasında, kıtalardan uzak bir takımadada kurulmuş siyasi birimdir."
 - [ATOMSUZ] k1 → "Üç bölge etiketi taşımasının sebebi coğrafya değil ekonomidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Toprağı, madeni ve tarımı olmayan bir düzenin, kendisinden çok uzaktaki ekonomilerin işleyişine doğrudan katkı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Adalarda toplanan bir deniz kabuğu, uzak bölgelerde küçük değerli ödeme aracı olarak kullanılıyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -38,7 +38,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.313Z_
 - [ATOMSUZ] k1 → "Bu, atlasın kaydettiği en açık para arzı örneklerinden biridir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Atlasın dosyası bu mekanizmayı genel biçimiyle tanımlar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Adaların İslam'ı benimsemesi, kaynaklarda belirli bir tarihe ve bir olaya bağlanır."
-- [ATOMSUZ] k3 → "Adaların İslam'ı benimsemesi, kaynaklarda belirli bir tarihe ve bir olaya bağlanır." — programatik olarak ölçülemedi (ad karşılığı yok): İslam
+- [OK]      k3 → "Adaların İslam'ı benimsemesi, kaynaklarda belirli bir tarihe ve bir olaya bağlanır."
 - [ATOMSUZ] k3 → "Atlas anlatıyı bir olgu olarak değil, adaların kendi dönüşümünü nasıl anlattığının kaydı olarak tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "En yakın büyük komşu, kuzeydoğudaki adadır ve iki düzen arasında sürekli bir alışveriş bulunuyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Küçük bir düzenin büyük bir komşuyla ilişkisi, atlasın tekrar eden konularından biridir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -61,4 +61,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.313Z_
 - [ATOMSUZ] k1 → "Bu dosya o düzeltmenin bir örneğidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ISARET]  k1 → "Adalarda görev yapmış tanık için , aynı ağın Afrika ucu için dosyaları uygundur." — özel isim kaynakta bulunamadı: Afrika
 
-**Özet:** 4 OK · 4 ISARET · 0 HATA · 51 ATOMSUZ
+**Özet:** 6 OK · 4 ISARET · 0 HATA · 49 ATOMSUZ

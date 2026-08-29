@@ -1,5 +1,5 @@
 ## olay-plassey-1757
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:46.735Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:03.259Z_
 
 - [OK]      k1 → "1757 yazında, bir Avrupa ticaret şirketinin kuvvetleri ile bir eyalet yöneticisinin ordusu karşılaştı ve muhar…"
 - [OK]      k3 → "1757 yazında, bir Avrupa ticaret şirketinin kuvvetleri ile bir eyalet yöneticisinin ordusu karşılaştı ve muhar…"

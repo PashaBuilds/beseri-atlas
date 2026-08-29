@@ -1,7 +1,7 @@
 ## kavram-bagimlilik-kurami
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.922Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:21.486Z_
 
-- [OK]      k1 → "Baran, Paul Sweezy ve Andre Gunder Frank tarafından geliştirildiğini kaydeder."
+- [OK]      k1 → "Kaynak, kuramın Latin Amerika yapısalcı okulu ile Amerikan Marksist okulu tarafından geliştirildiğini yazar ve…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak, Latin Amerika yapısalcı okulu ile Amerikan Marksist okulunun önemli farkları bulunduğunu yazar." — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak, kuramın 1960'lar ve 1970'lerde modernleşme kuramının bir eleştirisi olarak popüler olduğunu ve modernl…"
 - [ATOMSUZ] k1 → "Bir kuramın popülerliğinin bir başka kuramın gözden düşmesiyle birlikte kaydedilmesi, atlasın kavram dosyaları…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

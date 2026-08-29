@@ -1,5 +1,5 @@
 ## kavram-barut-imparatorluklari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.954Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:21.556Z_
 
 - [ATOMSUZ] k1 → "Kaynak ilk bölümünü kavramı önerenlerin adıyla açar ve ikinci bölümünü kavrama dair güncel görüşlere ayırır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak tarih bölümünü bölgelere ayırır: Müslüman dünyasının barut imparatorlukları (Osmanlı, Safevi ve Babür),…" — 1 atom doğrulandı; 3 ad ölçülemedi

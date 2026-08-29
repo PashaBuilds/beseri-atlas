@@ -1,10 +1,10 @@
 ## tartisma-sanayi-devrimi-neden-ingiltere
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.180Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:31.825Z_
 
 - [OK]      k6 → "Kenneth Pomeranz'ın 2000 tarihli kitabını değerlendiren Deepak Lal aynı soruyu, bilim insanlarını yüz yılı aşk…"
 - [OK]      k1 → "Robert Allen'ın kitabındaki merkezî bölüm tam olarak bu başlığı taşır ve Britanya'yı önce Çin'le, sonra Fransa…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "Taraflar birbirini büsbütün dışlamaz da: Allen kültürü, tüketimi ve mülkiyet haklarını gerekli ama yetersiz sa…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k4 → "Taraflar birbirini büsbütün dışlamaz da: Allen kültürü, tüketimi ve mülkiyet haklarını gerekli ama yetersiz sa…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Taraflar birbirini büsbütün dışlamaz da: Allen kültürü, tüketimi ve mülkiyet haklarını gerekli ama yetersiz sa…"
+- [OK]      k4 → "Taraflar birbirini büsbütün dışlamaz da: Allen kültürü, tüketimi ve mülkiyet haklarını gerekli ama yetersiz sa…"
 - [OK]      k1 → "Kitabı EH.Net için değerlendiren Tim Leunig bu konumu Rothbarth-Habakkuk çizgisinin devamı sayar ve Allen'ın k…"
 - [OK]      k2 → "Cambridge University Press'in 2009'da yayımladığı The British Industrial Revolution in Global Perspective 331 …"
 - [OK]      k1 → "Allen buharı, pamuğu ve demiri ayrı bölümlerde bu fiyat mantığıyla ele alır; Leunig'e göre onu salt bir fiyat …"
@@ -40,12 +40,12 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.180Z_
 - [OK]      k9 → "Başlık 1650-1800 arası Londra inşaat işlerini konu alır; gerçek sözcüğünü tırnağa alıp ücret sorusunu soru işa…"
 - [OK]      k13 → "Okumanın erken ifadesi Knick Harley'nin 1982'de Journal of Economic History dergisinde yayımladığı makaledir: …"
 - [OK]      k10 → "Nicholas Crafts ile Harley'nin 1992'de Economic History Review dergisinde yayımladığı makale bu okumanın yenid…"
-- [OK]      k12 → "Maddison serisindeki Birleşik Krallık rakamları bu okumayla uyumlu görünür: kişi başına gelir 1760'ta yaklaşık…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k12 → "Maddison serisindeki Birleşik Krallık rakamları bu okumayla uyumlu görünür: kişi başına gelir 1760'ta yaklaşık…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k12 → "Altmış yılda yüzde on beşi bulmayan bir artışın ardından sonraki elli yılda yüzde yetmişi aşan bir büyüme, hız…"
 - [OK]      k1 → "Allen'ın kitabını değerlendiren yazı da Crafts'ın 1985 tarihli çalışmasını bu tartışmanın referans noktası ola…"
-- [OK]      k1 → "Fiyat verisi ile teknoloji tarihi Allen'ın çerçevesinde en dolaysız karşılığını bulur; kurumsal değişimin zama…" — 1 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k5 → "Fiyat verisi ile teknoloji tarihi Allen'ın çerçevesinde en dolaysız karşılığını bulur; kurumsal değişimin zama…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k7 → "Fiyat verisi ile teknoloji tarihi Allen'ın çerçevesinde en dolaysız karşılığını bulur; kurumsal değişimin zama…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Fiyat verisi ile teknoloji tarihi Allen'ın çerçevesinde en dolaysız karşılığını bulur; kurumsal değişimin zama…"
+- [OK]      k5 → "Fiyat verisi ile teknoloji tarihi Allen'ın çerçevesinde en dolaysız karşılığını bulur; kurumsal değişimin zama…"
+- [OK]      k7 → "Fiyat verisi ile teknoloji tarihi Allen'ın çerçevesinde en dolaysız karşılığını bulur; kurumsal değişimin zama…"
 - [OK]      k3 → "Sanayi aydınlanmasının Britanya'ya özgülüğü, Mokyr'ı değerlendiren yazının da çözemediği noktadır."
 - [OK]      k4 → "Burjuva onurunun kökeni McCloskey'nin kitabında cevapsız kalır ve kurumların kendisinin nereden geldiği kurums…"
 - [OK]      k11 → "Kölelik kârlarının Britanya ekonomisi içindeki ağırlığı birbirinden uzak tahminlerle ölçülmeye devam eder; yük…" — 2 atom doğrulandı; 1 ad ölçülemedi

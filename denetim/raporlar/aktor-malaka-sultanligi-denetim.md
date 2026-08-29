@@ -1,8 +1,8 @@
 ## aktor-malaka-sultanligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.301Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:12.639Z_
 
-- [ISARET]  k1 → "Malaka Sultanlığı, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan dar geçidin kıyısında kurulmuş bir…" — özel isim kaynakta bulunamadı: Okyanusu
-- [OK]      k4 → "Malaka Sultanlığı, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan dar geçidin kıyısında kurulmuş bir…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Malaka Sultanlığı, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan dar geçidin kıyısında kurulmuş bir…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Malaka Sultanlığı, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan dar geçidin kıyısında kurulmuş bir…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bu dosyanın ayırt edici yanı, bir devletin toprak yerine geçit üzerine kurulabildiğini göstermesidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k4 → "Buna rağmen bir yüzyıl içinde bölgenin en büyük ticaret merkezi hâline geldi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Mevsim rüzgârlarının belirlediği takvim, bu boğazı zorunlu bir durak hâline getirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -14,7 +14,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.301Z_
 - [ATOMSUZ] k4 → "Kaynaklarda limanda farklı kökenlerden tüccar topluluklarının kendi temsilcileriyle örgütlendiği kaydedilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Burada somut hâli, bir devletin kendi hukukunu limandaki herkese dayatmaktan kaçınmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Sultanlığın kurucu hanedanının İslam'ı benimsemesi, kaynaklarda bölgedeki ticaret ağına katılmayla birlikte an…"
-- [ATOMSUZ] k2 → "Sultanlığın kurucu hanedanının İslam'ı benimsemesi, kaynaklarda bölgedeki ticaret ağına katılmayla birlikte an…" — programatik olarak ölçülemedi (ad karşılığı yok): İslam
+- [OK]      k2 → "Sultanlığın kurucu hanedanının İslam'ı benimsemesi, kaynaklarda bölgedeki ticaret ağına katılmayla birlikte an…"
 - [ATOMSUZ] k3 → "Okyanus ticaretinin baskın tüccar toplulukları aynı inanç çevresine mensuptu ve ortak hukuk, uzak mesafeli tic…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Atlas bu ilişkiyi tek yönlü kurmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Bu sultanlık, atlasın Güneydoğu Asya dosyaları arasında kendi saray anlatısını bırakmış olan tek örnektir." — 1 atom doğrulandı; 1 ad ölçülemedi
@@ -59,4 +59,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.301Z_
 - [ATOMSUZ] k3 → "Karşılaştırmanın gösterdiği şey, benzer coğrafi konumların benzer siyasi biçimler ürettiğidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k4 → "Atlas bu benzerliği bir yasa olarak ileri sürmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 5 OK · 1 ISARET · 0 HATA · 51 ATOMSUZ
+**Özet:** 7 OK · 0 ISARET · 0 HATA · 50 ATOMSUZ

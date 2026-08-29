@@ -1,5 +1,5 @@
 ## olay-boksor-isyani
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:44.207Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:56.695Z_
 
 - [ATOMSUZ] k1 → "Bu isyanın süresi gün gün verilir: 1 yıl, 11 ay, 1 hafta ve 3 gün; yeri Kuzey Çin ve Sarı Deniz'dir." — programatik olarak ölçülemedi (ad karşılığı yok): Kuzey, Çin, Sarı, Deniz
 - [ATOMSUZ] k1 → "Sonuç, Sekiz Devlet İttifakı'nın zaferi ve Boksör Protokolü'nün imzalanması olarak kaydedilir; ittifakın üyele…" — programatik olarak ölçülemedi (ad karşılığı yok): Sekiz, Devlet, İttifakı, Boksör

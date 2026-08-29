@@ -1,5 +1,5 @@
 ## kavram-apartheid
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.809Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:21.295Z_
 
 - [ATOMSUZ] k1 → "Apartheid düzeni, nüfusun tamamının resmî olarak sınıflandırıldığı ve her sınıfa ayrı yerleşim alanı, ayrı oku…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Düzen sıfırdan icat edilmedi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

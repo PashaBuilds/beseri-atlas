@@ -1,9 +1,9 @@
 {
   "id": "aktor-kanem-bornu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:49.925Z",
+  "zaman": "2026-08-29T19:34:11.414Z",
   "govde_hash": "88abbc701f3a",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -14,8 +14,8 @@
     {
       "anahtar": "k3",
       "iddia": "Kanem-Bornu, Çad Gölü çevresinde kurulan ve zamanla gölün batısına taşınan bir siyasi düzendir.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çad, Gölü"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -62,8 +62,8 @@
     {
       "anahtar": "k1",
       "iddia": "Düzenin ekonomik temeli, Sahra'yı geçen kuzey-güney ticaret yollarının denetimidir.",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Sahra"
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sahra"
     },
     {
       "anahtar": "k2",

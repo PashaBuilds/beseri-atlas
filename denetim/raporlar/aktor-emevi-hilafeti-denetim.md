@@ -1,5 +1,5 @@
 ## aktor-emevi-hilafeti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:15:15.885Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:08.806Z_
 
 - [OK]      k1 → "Ebû Süfyân'ın mensup olduğu Benî Ümeyye kabilesinden alır."
 - [ATOMSUZ] k1 → "Ayırt edici yanı, halifelik makamını mutlak verasete dayalı bir hükümdarlığa dönüştürmesi ve biat uygulamasını…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

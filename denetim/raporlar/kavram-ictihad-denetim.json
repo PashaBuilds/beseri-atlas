@@ -1,13 +1,13 @@
 {
   "id": "kavram-ictihad",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:54.519Z",
+  "zaman": "2026-08-29T19:34:22.827Z",
   "govde_hash": "e846ff773653",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Yunus Apaydın, baskı tarihi 2000 olarak kaydedilir.",
+      "iddia": "Kaynak kavramı şöyle tanımlar: nassın lafız ve mânasından hareketle, nassın bulunmadığında da çeşitli istinbat metotları kullanılarak şerʿî hüküm hakkında zannî",
       "durum": "OK",
       "not": ""
     },

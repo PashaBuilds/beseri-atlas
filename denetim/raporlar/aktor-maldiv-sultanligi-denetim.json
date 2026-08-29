@@ -1,9 +1,9 @@
 {
   "id": "aktor-maldiv-sultanligi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:50.313Z",
+  "zaman": "2026-08-29T19:34:12.658Z",
   "govde_hash": "ccfe666e1fe2",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -14,8 +14,8 @@
     {
       "anahtar": "k3",
       "iddia": "Maldiv Sultanlığı, Hint Okyanusu'nun ortasında, kıtalardan uzak bir takımadada kurulmuş siyasi birimdir.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sultanlığı, Hint, Okyanusu"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -230,8 +230,8 @@
     {
       "anahtar": "k3",
       "iddia": "Adaların İslam'ı benimsemesi, kaynaklarda belirli bir tarihe ve bir olaya bağlanır.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İslam"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",

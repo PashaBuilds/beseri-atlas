@@ -1,9 +1,9 @@
 ## dusunur-ibn-sina
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.842Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:18.389Z_
 
-- [OK]      k1 → "İbn Sînâ, Sâmânî hâkimiyetindeki Buhara çevresinde doğdu ve yetişti; hayatının büyük bölümünü İran'ın çeşitli …" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "İbn Sînâ, Sâmânî hâkimiyetindeki Buhara çevresinde doğdu ve yetişti; hayatının büyük bölümünü İran'ın çeşitli …"
 - [OK]      k2 → "İbn Sînâ, Sâmânî hâkimiyetindeki Buhara çevresinde doğdu ve yetişti; hayatının büyük bölümünü İran'ın çeşitli …"
-- [OK]      k1 → "Atlasın bölge şeması, siyasi birimleri doğdukları coğrafyaya göre ayırır; bir düşünürün hem Buhara'nın hem de …" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Atlasın bölge şeması, siyasi birimleri doğdukları coğrafyaya göre ayırır; bir düşünürün hem Buhara'nın hem de …"
 - [OK]      k2 → "Atlasın bölge şeması, siyasi birimleri doğdukları coğrafyaya göre ayırır; bir düşünürün hem Buhara'nın hem de …"
 - [OK]      k1 → "Felsefe geleneği bakımından 'nin açtığı yoldan ilerler: Aristoteles'ten gelen mantık ve metafizik çerçevesini …"
 - [ATOMSUZ] k1 → "Kaynaklar iki eserini ayrı ayrı öne çıkarır: tıp alanında el-Kânûn fi't-tıb, felsefe alanında Kitâbü'ş-Şifâ." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -31,9 +31,9 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.842Z_
 - [OK]      k1 → "Eserlerinin Latinceye çevrilmesi, İbn Sînâ'yı Batı Avrupa'daki üniversite tartışmalarının doğrudan muhatabı hâ…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Böylece aynı metinler iki ayrı gelenekte, farklı sorularla okundu: bir yanda İslam dünyasındaki kelâm tartışma…"
 - [OK]      k1 → "Varlık ile mahiyet ayrımının Latin tartışmasına geçmesi, atlasın bu dosyayı yalnızca İslam düşüncesi başlığı a…"
-- [ATOMSUZ] k1 → "Bu dosya üç kaynağa dayanır: felsefe tarafında bir akademik ansiklopedi maddesi, Türkçe akademik literatürden …" — programatik olarak ölçülemedi (ad karşılığı yok): Türkçe
+- [OK]      k1 → "Bu dosya üç kaynağa dayanır: felsefe tarafında bir akademik ansiklopedi maddesi, Türkçe akademik literatürden …"
 - [OK]      k2 → "Bu dosya üç kaynağa dayanır: felsefe tarafında bir akademik ansiklopedi maddesi, Türkçe akademik literatürden …"
-- [ATOMSUZ] k3 → "Bu dosya üç kaynağa dayanır: felsefe tarafında bir akademik ansiklopedi maddesi, Türkçe akademik literatürden …" — programatik olarak ölçülemedi (ad karşılığı yok): Türkçe
+- [OK]      k3 → "Bu dosya üç kaynağa dayanır: felsefe tarafında bir akademik ansiklopedi maddesi, Türkçe akademik literatürden …"
 - [ATOMSUZ] k2 → "Tıp eserinin içeriği ve onun tıp eğitimindeki yeri burada işlenmez; ayrı bir kaynak dosyası gerektirir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Mantık yazıları da aynı şekilde dışarıdadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Şifâ, tek bir konuyu değil bir müfredatı kapsar: mantık, doğa felsefesi, matematik bilimleri ve metafizik ayrı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -49,7 +49,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.842Z_
 - [ATOMSUZ] k1 → "Önceki makalelerin çoğu ansiklopedi maddelerine dayanıyordu; bu dosya üç ayrı alan adına dayanır ve künyesinde…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Önceki makalelerin çoğu ansiklopedi maddelerine dayanıyordu; bu dosya üç ayrı alan adına dayanır ve künyesinde…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Önceki makalelerin çoğu ansiklopedi maddelerine dayanıyordu; bu dosya üç ayrı alan adına dayanır ve künyesinde…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ISARET]  k1 → "Orta Asya bölgesinin atlastaki kapsamı bu dosya yazıldığında dar kalıyordu." — özel isim kaynakta bulunamadı: Asya
+- [OK]      k1 → "Orta Asya bölgesinin atlastaki kapsamı bu dosya yazıldığında dar kalıyordu."
 - [OK]      k2 → "Orta Asya bölgesinin atlastaki kapsamı bu dosya yazıldığında dar kalıyordu."
 - [ATOMSUZ] k1 → "Yaşadığı yıllar, atlasın kronolojik omurgasında iki dönemin kesiştiği yere düşer." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Yaşadığı yıllar, atlasın kronolojik omurgasında iki dönemin kesiştiği yere düşer." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -61,4 +61,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.842Z_
 - [ATOMSUZ] k1 → "Felsefî itirazla fıkhî yöntem tartışması aynı şey değildir; atlas ikisini ayrı tiplerde işler ve aralarındaki …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Felsefî itirazla fıkhî yöntem tartışması aynı şey değildir; atlas ikisini ayrı tiplerde işler ve aralarındaki …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 12 OK · 1 ISARET · 0 HATA · 46 ATOMSUZ
+**Özet:** 15 OK · 0 ISARET · 0 HATA · 44 ATOMSUZ

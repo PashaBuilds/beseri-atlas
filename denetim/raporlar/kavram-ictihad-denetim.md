@@ -1,7 +1,7 @@
 ## kavram-ictihad
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:54.519Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:22.827Z_
 
-- [OK]      k1 → "Yunus Apaydın, baskı tarihi 2000 olarak kaydedilir."
+- [OK]      k1 → "Kaynak kavramı şöyle tanımlar: nassın lafız ve mânasından hareketle, nassın bulunmadığında da çeşitli istinbat…"
 - [ATOMSUZ] k1 → "Bir hukuk yönteminin tanımında ulaşılan bilginin zannî olarak nitelenmesi, atlasın şu kuralının dayanağıdır: b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Tanımın, nassın bulunmadığı durumu ayrıca içermesi, yöntemin bir metin yorumundan ibaret olmadığını, metnin su…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Aynı geleneğin bir fakihi için tutulan kayıt, onu yaklaşık 1056-1111 arasında yaşamış bir filozof, kelamcı, fa…"

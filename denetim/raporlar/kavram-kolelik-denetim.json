@@ -1,9 +1,9 @@
 {
   "id": "kavram-kolelik",
   "gecis": 2,
-  "zaman": "2026-08-29T19:26:52.741Z",
-  "govde_hash": "1ec5d8aaa75f",
-  "commit": "2cf94d4",
+  "zaman": "2026-08-29T19:34:23.730Z",
+  "govde_hash": "edce2c1b5b5c",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -115,7 +115,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Bourne'un modern zamanların başlıca örneği saydığı güney ise dosyasında, antik dünyada köle emeğinin ağırlığına dair anlaşmazlık ise dosyasında ele alınıyor.",
+      "iddia": "Bourne'un modern zamanların başlıca örneği saydığı güney dosyasında, antik dünyada köle emeğinin ağırlığına dair anlaşmazlık ise dosyasında ele alınıyor.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

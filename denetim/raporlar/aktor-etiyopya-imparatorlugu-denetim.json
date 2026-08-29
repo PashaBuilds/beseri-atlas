@@ -1,9 +1,9 @@
 {
   "id": "aktor-etiyopya-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:48.979Z",
+  "zaman": "2026-08-29T19:34:08.874Z",
   "govde_hash": "6598066cdd4b",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -49,9 +49,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılın dört büyük gücünden biri sayılan Aksum Krallığı'ydı.",
+      "iddia": "Aynı coğrafyanın daha eski düzeni, 1. yüzyılda kurulup 960'ta sona eren ve Mani tarafından 3. yüzyılın dört büyük gücünden biri sayılan Aksum Krallığı'ydı.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
@@ -61,7 +61,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl modernleşmesi ve imparatorluğun sona erişi burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "iddia": "Hanedanın kuruluşu, kilise ile devlet ilişkisi, 19. yüzyıl modernleşmesi ve imparatorluğun sona erişi burada ayrı başlıklar altında ele alınmamıştır; kaynak bun",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

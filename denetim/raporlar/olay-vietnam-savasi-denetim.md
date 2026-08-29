@@ -1,5 +1,5 @@
 ## olay-vietnam-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T15:53:15.971Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:05.325Z_
 
 - [OK]      k2 → "Ho Chi Minh'in komutasındaki Viet Minh güçleri, dört ay süren bir kuşatmanın ardından 1954'te Dien Bien Phu'da…"
 - [ATOMSUZ] k5 → "Bu bolluk, savaşın en çok anılan gerekçelerinden birinin yıllar sonra devletin kendi kurumu içinden düzeltilme…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -26,7 +26,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T15:53:15.971Z_
 - [ATOMSUZ] k4 → "Üçüncü madde yetkinin sona ermesini başkanın bölgedeki barış ve güvenliğin makul ölçüde sağlandığına karar ver…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k4 → "Başkan, bölgeye dair taahhüdün ilk kez 1954'te Eisenhower tarafından verildiğini ve senatonun Şubat 1955'te on…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k5 → "İstihbaratı toplayan kurumun gizli dergisinde 2001 başında yayımlanan bir inceleme kayıtları yeniden okudu; ku…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k5 → "Hanyok'un vardığı sonuç şudur: 2 Ağustos'ta bir Amerikan muhribine yönelik saldırı — kuşkulu koşullarda da ols…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Kurum tarihçisi Robert J. Hanyok'un vardığı sonuç şudur: 2 Ağustos'ta bir Amerikan muhribine yönelik saldırı —…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k5 → "Hanyok bir örtbasın kesin kanıtını bulamadığını yazar; eldeki verinin o gecenin iddiasına uydurulması yönünde …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k5 → "Bu, dışarıdan gelen bir suçlama değil, istihbaratı rapor eden kurumun kendi tarihçisinin düzeltmesidir; kaynağ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k6 → "Nixon 1969'da göreve başlarken savaşı bir yıl içinde onurlu biçimde bitirebileceğini düşünüyordu."

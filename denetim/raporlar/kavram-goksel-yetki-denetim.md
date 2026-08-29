@@ -1,5 +1,5 @@
 ## kavram-goksel-yetki
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:24:12.140Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:22.527Z_
 
 - [ATOMSUZ] k3 → "Zhou hanedanının kurucuları bu soruya, kendi yönetimlerini gökten yetkilendirilmiş sayarak cevap verdiler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Zhou'nun kendi bildirilerinde Şao Dükü, Hsia ve Yin hanedanlarını arka arkaya sayar ve ikisi için de aynı cüml…" — 2 atom doğrulandı; 2 ad ölçülemedi

@@ -1,7 +1,7 @@
 ## aktor-gupta-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.277Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:09.543Z_
 
-- [OK]      k1 → "Chandragupta'nın taç giyme töreni 26 Şubat 320 olarak gün gün tarihlenir." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Kuruluş yaklaşık 240, dağılma yaklaşık 579 olarak verilirken I. Chandragupta'nın taç giyme töreni 26 Şubat 320…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Aynı maddede bir günün ve iki yüzyılın yan yana durması, kayıt yoğunluğunun olay türüne göre değiştiğini göste…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak üç savaş dizisini aralıklarla tarihler: Gupta-Saka savaşları yaklaşık 375-385, Gupta-Kidarit çatışmalar…"
 - [ATOMSUZ] k1 → "Üç dizinin art arda gelmesi ve sonuncusunun dağılma tarihine yaklaşması, kuzeybatıdan gelen basıncın süreklili…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

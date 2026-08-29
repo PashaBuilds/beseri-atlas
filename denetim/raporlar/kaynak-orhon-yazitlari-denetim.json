@@ -1,15 +1,15 @@
 {
   "id": "kaynak-orhon-yazitlari",
   "gecis": 2,
-  "zaman": "2026-08-29T14:40:01.359Z",
+  "zaman": "2026-08-29T19:34:37.357Z",
   "govde_hash": "d0ec2235a3c5",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
       "iddia": "Orhon Yazıtları, bir bozkır devletinin kendi dilinde ve kendi ağzından taşa yazdırdığı siyasi kayıttır.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Yazıtları"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",

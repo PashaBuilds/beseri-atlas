@@ -1,5 +1,5 @@
 ## kavram-malthus-tuzagi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.226Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:24.078Z_
 
 - [OK]      k1 → "Kaynak kuramı şöyle tanımlar: nüfus artışı Malthusçu büyüme modeline göre potansiyel olarak üsteldir, gıda arz…"
 - [OK]      k1 → "Kaynak bu olayın adlarını sıralar: Malthusçu felaket, Malthus tuzağı, nüfus tuzağı, Malthusçu denetim, Malthus…"

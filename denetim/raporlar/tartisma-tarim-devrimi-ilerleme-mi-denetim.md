@@ -1,7 +1,7 @@
 ## tartisma-tarim-devrimi-ilerleme-mi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.665Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:33.272Z_
 
-- [OK]      k1 → "Gordon Childe 1936'da süreci bir devrim diye adlandırırken ölçütünü de açıkça bildirmişti: ona göre tarihsel d…"
+- [OK]      k1 → "V. Gordon Childe 1936'da süreci bir devrim diye adlandırırken ölçütünü de açıkça bildirmişti: ona göre tarihse…"
 - [OK]      k2 → "Altmış yıla yakın bir süre sonra aynı geçiş bedenden okunan bir gerileme dizisi olarak anlatılmaya başlandı: C…"
 - [ATOMSUZ] k1 → "Childe kitabına, ilerleme fikrinin sarsıldığı bir çağ teşhisiyle başlar ve amacını gizlemez: tarih öncesini bu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Ona göre bir devrim, İngiltere'deki Industrial Revolution gibi, nüfus eğrisinde yukarı doğru bir kırılma biçim…"
@@ -10,8 +10,8 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.665Z_
 - [ATOMSUZ] k1 → "Aynı metne göre yiyecek üretmeyen uzmanları besleyen şey bu fazladır: demirciyi ancak yiyecek fazlası olan bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Ona göre büyücü, ortak yiyecek arayışına bedenen katılmadan onun fazlasında hak iddia eden kişidir; büyücünün …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Childe'a göre toplayıcı ekonomiye küçümseyici bir anlam yüklemekten kaçınmak gerekir ve tahıl yetiştiricisinin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Armelagos'un derlediği Paleopathology at the Origins of Agriculture, 1982'de Plattsburgh'da toplanan ve Wenner…"
-- [OK]      k4 → "Jacobs'un 1991'de Population and Environment dergisinde yayımladığı yazı tarımın kökenlerini "sağlığın geriled…"
+- [OK]      k3 → "Mark Nathan Cohen ile George J. Armelagos'un derlediği Paleopathology at the Origins of Agriculture, 1982'de P…"
+- [OK]      k4 → "Çizginin özeti bir makale başlığında durur: Armelagos, Alan H. Goodman ve Kenneth H. Jacobs'un 1991'de Populat…"
 - [ATOMSUZ] k2 → "Kaynağa göre tarımın benimsenmesi ağız ve genel sağlıkta bir düşüşle birlikte gitti; tarih öncesi çiftçilerde …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Aynı özet, tarımla birlikte sağlığın ve beslenmenin iyileştiği, ömrün uzadığı ve iş yükünün azaldığı yolundaki…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k6 → "Yayıncı tanıtımına göre kitap ilk tarım devletlerini birikmiş evcilleştirmelerin ürünü sayar: ateş, bitkiler, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -24,13 +24,13 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.665Z_
 - [OK]      k12 → "Aradaki basamaklar da seride durur: dünya nüfusu MÖ 8000'de yaklaşık 7,3 milyon, MÖ 5000'de yaklaşık 19,2 mily…"
 - [OK]      k4 → "Population and Environment dergisindeki Armelagos başlığı bu birlikteliği zaten adlandırır: artan nüfus ile ge…"
 - [OK]      k4 → "Armelagos ve arkadaşlarının kaynakçasında anılan Ester Boserup'un 1965 tarihli kitabı, künyesinin de belirttiğ…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k5 → "Weiss'in 1992'de Current Anthropology dergisinde yayımladığı makalenin başlığı sorunu doğrudan adlandırır: isk…"
+- [OK]      k5 → "James W. Wood, George R. Milner, Henry C. Harpending ve Kenneth M. Weiss'in 1992'de Current Anthropology dergi…"
 - [OK]      k5 → "Aynı kayda göre makale yorumlar ve bir cevapla birlikte basıldı; yorumcular arasında Mark Nathan Cohen de bulu…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k5 → "Sorunun mantığı şudur: bir mezarlık örneklemi yaşayanları değil ölenleri barındırır ve Current Anthropology sa…"
 - [OK]      k9 → "Marshall Sahlins'in 1972 tarihli Stone Age Economics kitabı, toplayıcı toplulukları bir bolluk toplumu olarak …"
 - [OK]      k4 → "Marshall Sahlins'in 1972 tarihli Stone Age Economics kitabı, toplayıcı toplulukları bir bolluk toplumu olarak …"
 - [OK]      k10 → "David Kaplan'ın 2000'de Journal of Anthropological Research dergisinde yayımladığı yazı ise aynı okumanın kara…"
-- [OK]      k11 → "Stock'un 2017'de Science Advances dergisinde yayımladığı çalışmanın özetine göre tarımın gelişi, kadınlar için…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k11 → "Alison A. Macintosh, Ron Pinhasi ve Jay T. Stock'un 2017'de Science Advances dergisinde yayımladığı çalışmanın…"
 - [OK]      k6 → "Aynı yükü siyasal düzlemde adlandıran Scott'ın çerçevesinde kadınların konumu, evcilleştirme dizisinin son hal…"
 - [OK]      k1 → "Childe'ın ölçüt beyanı 1936'ya, iskelet kanıtının toplu dökümü 1984'e, yöntemsel itiraz 1992'ye, karamsar okum…"
 - [OK]      k3 → "Childe'ın ölçüt beyanı 1936'ya, iskelet kanıtının toplu dökümü 1984'e, yöntemsel itiraz 1992'ye, karamsar okum…"

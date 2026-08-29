@@ -1,5 +1,5 @@
 ## aktor-dahomey-kralligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.778Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:08.528Z_
 
 - [OK]      k1 → "Dahomey Krallığı, Batı Afrika kıyısının hemen iç kesiminde kurulmuş, merkezî yapısı güçlü bir düzendir." — 1 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k3 → "Vasal düzen yerine doğrudan yönetim tercih edildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,9 +1,9 @@
 {
   "id": "aktor-srivijaya",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:51.713Z",
+  "zaman": "2026-08-29T19:34:15.637Z",
   "govde_hash": "d5132dc86b05",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -43,7 +43,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılda Palembang'dan başlayıp Sumatra'nın çoğuna, ardından Java'ya yayıldığı kaydedilir.",
+      "iddia": "Kaynak başkent başlığı altında Palembang, Jambi, Orta Java ve diğer yerler başlıklarını ayrı ayrı işler; 7. yüzyılda Palembang'dan başlayıp Sumatra'nın çoğuna, ",
       "durum": "OK",
       "not": ""
     },

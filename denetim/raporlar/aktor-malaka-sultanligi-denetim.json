@@ -1,21 +1,21 @@
 {
   "id": "aktor-malaka-sultanligi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:50.301Z",
+  "zaman": "2026-08-29T19:34:12.639Z",
   "govde_hash": "29a87658889c",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
       "iddia": "Malaka Sultanlığı, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan dar geçidin kıyısında kurulmuş bir liman devletidir.",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Okyanusu"
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k4",
       "iddia": "Malaka Sultanlığı, Hint Okyanusu ile Güney Çin Denizi'ni birbirine bağlayan dar geçidin kıyısında kurulmuş bir liman devletidir.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -86,8 +86,8 @@
     {
       "anahtar": "k2",
       "iddia": "Sultanlığın kurucu hanedanının İslam'ı benimsemesi, kaynaklarda bölgedeki ticaret ağına katılmayla birlikte anlatılır.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İslam"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",

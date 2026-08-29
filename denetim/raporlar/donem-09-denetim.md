@@ -1,5 +1,5 @@
 ## donem-09
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:41.689Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:50.946Z_
 
 - [OK]      k1 → "Bu dönemin başlangıcı için birden fazla dönüm noktası önerilir: Rönesans'ın sonu, 1440'larda başlayan matbaa d…" — 3 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Amerika'nın Avrupa tarafından sömürgeleştirilmesi erken modern dönemde başladı; aynı dönemde Avrupa'nın Asya v…"
@@ -146,6 +146,6 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:41.689Z_
 - [OK]      k1 → "Dönemin fikir dünyası dört büyük başlıkla tanımlanır: Protestan Reformu, Karşı-Reform ve Cizvitler, Bilimsel D…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bunlara Aydınlanma ile akıl ve hümanizm eklenir." — programatik olarak ölçülemedi (ad karşılığı yok): Aydınlanma
 - [OK]      k1 → "Matbaa devriminin 1440'larda başlaması, bu tartışmanın neden bu ölçekte yayılabildiğini açıklar."
-- [ATOMSUZ] k1 → "yüzyıl sonlarında Sanayi Devrimi'nin getirdiği büyük gelişmelerle işaretlenir; o geçiş dosyasında ele alınıyor…" — programatik olarak ölçülemedi (ad karşılığı yok): Sanayi, Devrimi
+- [ATOMSUZ] k1 → "Dönemin geç modern döneme geçişi, 18. yüzyıl sonlarında Sanayi Devrimi'nin getirdiği büyük gelişmelerle işaret…" — programatik olarak ölçülemedi (ad karşılığı yok): Sanayi, Devrimi
 
 **Özet:** 17 OK · 0 ISARET · 0 HATA · 129 ATOMSUZ

@@ -1,5 +1,5 @@
 ## kavram-vergi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.095Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:25.600Z_
 
 - [OK]      k1 → "Kaynak, tarih bölümünü dört alt başlığa ayırır: Roma ve medeni hukuk, İslam hukuku, modern tarih ve artık kull…"
 - [ATOMSUZ] k1 → "Bir maliye kavramının tarihinin iki ayrı hukuk geleneğiyle başlatılması, atlasın şu kuralının dayanağıdır: bu …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

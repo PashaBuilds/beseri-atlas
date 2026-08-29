@@ -1,9 +1,9 @@
 {
   "id": "donem-15",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:42.785Z",
+  "zaman": "2026-08-29T19:33:53.026Z",
   "govde_hash": "d6dce022d9de",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -61,7 +61,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "yüzyılın çoğu döneminden daha azdır; 1990'larda çok daha düşük düzeylere inen çatışma ölümleri, izleyen on yıllarda önceki zirvelerin altında kalmıştır.",
+      "iddia": "Son on yıllarda çatışmalarda ölenlerin sayısı 20. yüzyılın çoğu döneminden daha azdır; 1990'larda çok daha düşük düzeylere inen çatışma ölümleri, izleyen on yıl",
       "durum": "OK",
       "not": ""
     },
@@ -69,7 +69,7 @@
       "anahtar": "k3",
       "iddia": "Çatışma ölümlerinin sayısı yıldan yıla çok değişebilir: 2005'te silahlı çatışmalarda 20.000'den az insan ölürken, 1994'te Ruanda'daki soykırımın ardından bu say",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

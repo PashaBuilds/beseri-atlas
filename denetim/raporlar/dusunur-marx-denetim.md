@@ -1,5 +1,5 @@
 ## dusunur-marx
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.232Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:19.519Z_
 
 - [OK]      k7 → "Karl Marx, 5 Mayıs 1818'de Prusya'nın Trier kentinde doğdu; 14 Mart 1883'te, ömrünün son otuz dört yılını sürg…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Sıklıkla filozoftan çok bir eylemci, eserleri yirminci yüzyılda komünist rejimlerin kuruluşuna esin veren bir …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -21,21 +21,21 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.232Z_
 - [ATOMSUZ] k2 → "Önsözün şeması iki katmanlıdır: üretim ilişkilerinin toplamı toplumun iktisadi yapısını, gerçek temelini oluşt…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "En çok anılan cümle, bilinç ile varlık arasındaki ilişkiyi tersine çevirir: "İnsanların varlığını belirleyen b…" — programatik olarak ölçülemedi (ad karşılığı yok): İnsanların, Gelişimlerinin
 - [ATOMSUZ] k2 → "En çok anılan cümle, bilinç ile varlık arasındaki ilişkiyi tersine çevirir: "İnsanların varlığını belirleyen b…" — programatik olarak ölçülemedi (ad karşılığı yok): İnsanların, Gelişimlerinin
-- [ATOMSUZ] k1 → "Cohen'in savunduğu okuma önsözü işlevsel açıklamaya dayalı tutarlı bir kuram olarak kurtarmaya çalışır; başka …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Şemanın nasıl okunacağı yorumcular arasında bölünmüştür: G. A. Cohen'in savunduğu okuma önsözü işlevsel açıkla…"
 - [OK]      k7 → "Komünistler Birliği'nin görevlendirmesiyle Engels'le birlikte yazılan Komünist Manifesto 21 Şubat 1848'de yayı…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k3 → "Metin, tarih yazımının en çok alıntılanan açılışlarından biriyle başlar: "Şimdiye kadarki bütün toplumların ta…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k3 → "Metin, tarih yazımının en çok alıntılanan açılışlarından biriyle başlar: "Şimdiye kadarki bütün toplumların ta…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k3 → "Burjuvazi bu anlatıda çifte rol oynar: üretim araçlarını durmadan devrimcileştiren, görülmemiş bir üretici güç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Marx kendi konumunu, Fourier, Saint-Simon ve Owen çizgisine bağladığı ütopyacı sosyalizmden bilinçle ayırıyord…"
 - [OK]      k1 → "Devrimlerin yenilgisi Marx'ı sokaktan çalışma masasına döndürdü; sınıf mücadelesi kavramı ise sonraki bütün es…"
-- [OK]      k4 → "İktisadi çözümlemesinin başyapıtı olan Kapital'in birinci cildi 1867'de yayımlandı." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "İktisadi çözümlemesinin başyapıtı olan Kapital'in birinci cildi 1867'de yayımlandı."
 - [OK]      k7 → "İktisadi çözümlemesinin başyapıtı olan Kapital'in birinci cildi 1867'de yayımlandı."
 - [ATOMSUZ] k1 → "Çözümleme, Smith ve Ricardo'dan devralınan emek-değer kuramı üzerine kurulur: bir metanın değerini, onu üretme…" — programatik olarak ölçülemedi (ad karşılığı yok): Smith, Ricardo
 - [ATOMSUZ] k1 → "İşçinin kapitaliste sattığı şey emeği değil emek gücüdür; işçiyi yaşatmanın maliyeti ile o gücün üretimde yara…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k7 → "İşçinin kapitaliste sattığı şey emeği değil emek gücüdür; işçiyi yaşatmanın maliyeti ile o gücün üretimde yara…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Marx bu farkı emeğin sömürülmesi olarak okur: kârın nihai kaynağı ödenmemiş emektir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k7 → "Marx bu farkı emeğin sömürülmesi olarak okur: kârın nihai kaynağı ödenmemiş emektir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k7 → "Kitabın ilk büyük okur yankısı beklenmedik bir yerden geldi: Rusça çevirisine talep, kısa sürede 3.000 kopyalı…" — programatik olarak ölçülemedi (ad karşılığı yok): Rusça
+- [OK]      k7 → "Kitabın ilk büyük okur yankısı beklenmedik bir yerden geldi: Rusça çevirisine talep, kısa sürede 3.000 kopyalı…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k7 → "İkinci ve üçüncü ciltler sağlığında tamamlanmadı; Engels dağınık müsveddeleri derleyip 1885 ve 1894'te yayımla…"
 - [OK]      k6 → "Din eleştirisi, 1844'te Paris'te çıkan bir dergide yayımladığı, Hegel'in hukuk felsefesinin eleştirisine yazdı…"
 - [OK]      k6 → "Metin, Almanya için din eleştirisinin esasta tamamlandığını ve din eleştirisinin her eleştirinin ön koşulu old…"
@@ -58,4 +58,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.232Z_
 - [OK]      k1 → "Ahlaki eleştirinin Marx'ın kapitalizm eleştirisindeki rolü ise çok tartışılmıştır ve bu konularda yerleşik bir…"
 - [OK]      k1 → "Öngörülerinin aşınması ile çözümleyici kavramlarının kalıcılığı arasındaki bu açıklık yüzünden Marx okuması bu…"
 
-**Özet:** 31 OK · 0 ISARET · 0 HATA · 25 ATOMSUZ
+**Özet:** 33 OK · 0 ISARET · 0 HATA · 23 ATOMSUZ

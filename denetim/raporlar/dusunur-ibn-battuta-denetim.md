@@ -1,8 +1,8 @@
 ## dusunur-ibn-battuta
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.732Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:18.028Z_
 
 - [OK]      k1 → "İbn Battûta, Kuzey Afrika'dan yola çıkıp uzun yıllar süren yolculuklar yapmış ve dönüşünde gezdiklerini bir me…"
-- [OK]      k3 → "İbn Battûta, Kuzey Afrika'dan yola çıkıp uzun yıllar süren yolculuklar yapmış ve dönüşünde gezdiklerini bir me…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "İbn Battûta, Kuzey Afrika'dan yola çıkıp uzun yıllar süren yolculuklar yapmış ve dönüşünde gezdiklerini bir me…"
 - [ATOMSUZ] k2 → "Çoğu düşünür bir ya da iki bölge etiketi taşır; burada etiketlerin çokluğu, kişinin kendisinden çok bıraktığı …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bıraktığı metin, gezdiği bölgelerin bir kısmı için elimizdeki en ayrıntılı çağdaş kayıttır ve bu metin üzerind…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Bıraktığı metin, gezdiği bölgelerin bir kısmı için elimizdeki en ayrıntılı çağdaş kayıttır ve bu metin üzerind…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

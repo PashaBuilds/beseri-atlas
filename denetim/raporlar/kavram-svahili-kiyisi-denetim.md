@@ -1,8 +1,8 @@
 ## kavram-svahili-kiyisi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.718Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:24.903Z_
 
 - [OK]      k1 → "Svahili kıyısı, Doğu Afrika'nın okyanusa bakan şeridinde kurulmuş liman şehirleri kuşağına verilen addır."
-- [OK]      k4 → "Svahili kıyısı, Doğu Afrika'nın okyanusa bakan şeridinde kurulmuş liman şehirleri kuşağına verilen addır." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Svahili kıyısı, Doğu Afrika'nın okyanusa bakan şeridinde kurulmuş liman şehirleri kuşağına verilen addır."
 - [ATOMSUZ] k2 → "Kuşağın ayırt edici yanı, siyasi birlik olmadan kültürel birlik taşımasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k4 → "Kuşağın ayırt edici yanı, siyasi birlik olmadan kültürel birlik taşımasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Bu, atlasın dosyasında tanımlanan düzenin batı ucudur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,21 +1,21 @@
 {
   "id": "aktor-altin-orda",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:47.973Z",
+  "zaman": "2026-08-29T19:34:06.363Z",
   "govde_hash": "f92f9af8bf4f",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
       "iddia": "Altın Orda, bozkır kuşağının batı ucunda, Karadeniz'in kuzeyinden Volga havzasına uzanan bir alanda kuruldu.",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Volga"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k4",
       "iddia": "Altın Orda, bozkır kuşağının batı ucunda, Karadeniz'in kuzeyinden Volga havzasına uzanan bir alanda kuruldu.",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k4",

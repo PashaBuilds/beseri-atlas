@@ -1,9 +1,9 @@
 ## aktor-ahamenis-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.852Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:06.103Z_
 
 - [OK]      k1 → "Ahameniş İmparatorluğu, Ahameniş hanedanından Büyük Kiros tarafından MÖ 550'de kurulmuş bir eski İran imparato…" — 4 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Med mirasına geçiş MÖ 550, Lidya'nın fethi MÖ 547, Babil'in fethi MÖ 539, İndus Vadisi'nin fethi MÖ 535–518, M…" — 4 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k2 → "Aynı bölgede Yeni Asur İmparatorluğu MÖ 670'te yaklaşık 1.400.000 kilometrekare alan kaplıyordu ve Med-Babil f…" — 5 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Aynı bölgede Yeni Asur İmparatorluğu MÖ 670'te yaklaşık 1.400.000 kilometrekare alan kaplıyordu ve Med-Babil f…" — 6 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kiros'un MÖ 539'da aldığı Babil, bu tasfiyenin mirasçısıydı." — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Asur'un geliştirdiği yönetim tekniklerinin de bir kısmı devralınabilir nitelikteydi: yabancı tebaa halklarının…"
 - [OK]      k4 → "İmparatorluğun bilinen anlatısının önemli bir bölümü, ona karşı savaşan tarafın metinlerinden gelir; söz konus…" — 1 atom doğrulandı; 1 ad ölçülemedi

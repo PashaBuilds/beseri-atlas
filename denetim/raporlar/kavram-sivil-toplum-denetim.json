@@ -1,9 +1,9 @@
 {
   "id": "kavram-sivil-toplum",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:55.623Z",
+  "zaman": "2026-08-29T19:34:24.711Z",
   "govde_hash": "dbcec90be520",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -43,7 +43,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Hegel için tutulan kayıt, onu 1770-1831 arasına yerleştirir ve felsefesine dair üç ayrı okumayı alt başlıklar hâlinde sıralar.",
+      "iddia": "G. W. F. Hegel için tutulan kayıt, onu 1770-1831 arasına yerleştirir ve felsefesine dair üç ayrı okumayı alt başlıklar hâlinde sıralar.",
       "durum": "OK",
       "not": ""
     },

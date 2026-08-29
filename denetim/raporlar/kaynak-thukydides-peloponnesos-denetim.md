@@ -1,5 +1,5 @@
 ## kaynak-thukydides-peloponnesos
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:01.556Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:37.645Z_
 
 - [OK]      k1 → "Kaynak eseri Peloponez Savaşı'nın Tarihi başlığıyla işler ve yazarını batı tarih yazımının gelişimindeki kilit…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kaynak, tarihsel yöntem başlığı altında beş alt başlık tutar: kronoloji, konuşmalar, tarafsızlık, dinin rolü v…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## kavram-hegemonya
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:54.442Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:22.697Z_
 
 - [ATOMSUZ] k1 → "Hegemonya, bir devletin ya da toplumsal bir grubun ötekiler üzerindeki üstünlüğünü, önderliğinin kabul edilmes…" — programatik olarak ölçülemedi (ad karşılığı yok): Yunanca
 - [ATOMSUZ] k1 → "Uluslararası ilişkiler yazınında şu çizgiyle ayrılır: hegemon, öteki devletlerin dış ilişkilerini yönlendirir …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -15,7 +15,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:54.442Z_
 - [ATOMSUZ] k1 → "On dokuzuncu yüzyılın tarih yazımında sözcüğün anlamı, bir ülkenin öteki ülkeler üzerindeki baskınlığına geniş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Uluslararası ilişkiler bu anlamı devraldı ve en görünür önermesini hegemonik istikrar kuramında buldu: istikra…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kuram 1970'lerde Robert Gilpin ve Stephen Krasner gibi adlarca geliştirildi; arka planında Charles Kindleberge…"
-- [OK]      k5 → "Kuram 1970'lerde Robert Gilpin ve Stephen Krasner gibi adlarca geliştirildi; arka planında Charles Kindleberge…" — 3 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k5 → "Kuram 1970'lerde Robert Gilpin ve Stephen Krasner gibi adlarca geliştirildi; arka planında Charles Kindleberge…"
 - [OK]      k1 → "Bu katmanın alışıldık örnekleri de bellidir: on dokuzuncu yüzyıl için Britanya, yirminci yüzyıl için Birleşik …" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kavramın bu katmandaki ağırlığını dönemin sayıları da gösterir: 2009 verileriyle NATO ülkeleri küresel askeri …" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kuram hem kavramsal hem görgül gerekçelerle eleştirildi: Robert Keohane, önermelerinin gereksiz yinelemeler ol…"

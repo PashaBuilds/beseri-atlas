@@ -1,5 +1,5 @@
 ## olay-bretton-woods
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:44.252Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:56.776Z_
 
 - [OK]      k1 → "Bretton Woods sistemi, ülkelerin kendi para birimlerinin ABD dolarına çevrilebilirliğini güvence altına alması…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kuralın asimetrisi kaynakta açıkça belirtilir: dünyanın altınının üçte ikisini elinde tutan Amerika Birleşik D…" — 2 atom doğrulandı; 2 ad ölçülemedi

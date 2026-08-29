@@ -1,13 +1,13 @@
 {
   "id": "olay-tunc-cagi-cokusu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:47.244Z",
+  "zaman": "2026-08-29T19:34:04.582Z",
   "govde_hash": "a8d07de59270",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyıldan beri öne sürülmektedir ve çoğu şehir ile kasabaların şiddetli biçimde yıkılmasını içerir.",
+      "iddia": "Çöküşün nedenine dair rakip kuramlar 19. yüzyıldan beri öne sürülmektedir ve çoğu şehir ile kasabaların şiddetli biçimde yıkılmasını içerir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -67,7 +67,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılda Yunan tarih öncesinin ilk döneminin bu sıralarda bittiği, Troya'nın düşüşünün MÖ 1190'a tarihlenmesine dayanarak ileri sürüldü; 1826'da Mısır'ın On Dok",
+      "iddia": "19. yüzyılda Yunan tarih öncesinin ilk döneminin bu sıralarda bittiği, Troya'nın düşüşünün MÖ 1190'a tarihlenmesine dayanarak ileri sürüldü; 1826'da Mısır'ın On",
       "durum": "OK",
       "not": "3 atom doğrulandı; 3 ad ölçülemedi"
     },

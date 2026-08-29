@@ -1,9 +1,9 @@
 {
   "id": "olay-ingiliz-ic-savasi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:45.060Z",
+  "zaman": "2026-08-29T19:33:58.628Z",
   "govde_hash": "3f1e800d19db",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -14,8 +14,8 @@
     {
       "anahtar": "k1",
       "iddia": "Kaynak, kayıpları alışılmadık bir ayrımla verir: muharebe kayıplarının yanında 127.000 muharebe dışı ölüm — bunların yaklaşık 40.000'i sivil — kaydedilir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -37,13 +37,13 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Adalardaki üç savaş dizisi ile kıtadaki 1635–1648 evresinin örtüşmesi, 17.",
+      "iddia": "Adalardaki üç savaş dizisi ile kıtadaki 1635–1648 evresinin örtüşmesi, 17. yüzyılın ortasını kıta çapında bir siyasi kriz dönemi yapar; kıtadaki savaş dosyasınd",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Adalardaki üç savaş dizisi ile kıtadaki 1635–1648 evresinin örtüşmesi, 17.",
+      "iddia": "Adalardaki üç savaş dizisi ile kıtadaki 1635–1648 evresinin örtüşmesi, 17. yüzyılın ortasını kıta çapında bir siyasi kriz dönemi yapar; kıtadaki savaş dosyasınd",
       "durum": "OK",
       "not": ""
     },
@@ -56,8 +56,8 @@
     {
       "anahtar": "k1",
       "iddia": "Bu değer ile savaş için verilen 127.000 muharebe dışı ölüm farklı serilerden gelir; adaların kendi nüfusuna dair bir ölçüm kullanılan kaynaklarda bulunmadığı iç",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",

@@ -1,9 +1,9 @@
 {
   "id": "kavram-svahili-kiyisi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:55.718Z",
+  "zaman": "2026-08-29T19:34:24.903Z",
   "govde_hash": "dab524ac4711",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -15,7 +15,7 @@
       "anahtar": "k4",
       "iddia": "Svahili kıyısı, Doğu Afrika'nın okyanusa bakan şeridinde kurulmuş liman şehirleri kuşağına verilen addır.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k2",

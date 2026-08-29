@@ -1,9 +1,9 @@
 {
   "id": "olay-justinyen-vebasi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:45.602Z",
+  "zaman": "2026-08-29T19:34:00.120Z",
   "govde_hash": "089270c61fa6",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -19,13 +19,13 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "pestis DNA'sının saptanmasına dayanır.",
+      "iddia": "Justinyen vebası genellikle Yersinia pestis'in tarihsel olarak kaydedilmiş ilk salgını sayılır; bu sonuç, hastalığın klinik belirtilerine dair tarihsel tanımlar",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "pestis suşları, Tanrı Dağları'nda bulunmuş olan Justinyen veba suşunun atasıyla yakın akrabadır.",
+      "iddia": "Modern ve eski Y. pestis suşları, Tanrı Dağları'nda bulunmuş olan Justinyen veba suşunun atasıyla yakın akrabadır.",
       "durum": "OK",
       "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },

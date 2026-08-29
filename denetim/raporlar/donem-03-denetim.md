@@ -1,7 +1,7 @@
 ## donem-03
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:40.876Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:49.210Z_
 
-- [ATOMSUZ] k1 → "yüzyıldan beri öne sürülmektedir ve çoğu, şehir ile kasabaların şiddetli biçimde yıkılmasını içerir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Geç Tunç Çağı çöküşünün nedenine dair rakip kuramlar 19. yüzyıldan beri öne sürülmektedir ve çoğu, şehir ile k…" — programatik olarak ölçülemedi (ad karşılığı yok): Tunç, Çağı
 - [OK]      k1 → "Geç Tunç Çağı'nı tanımlayan Miken Yunanistanı'nın, Ege bölgesinin ve Anadolu'nun saray ekonomisi dağıldı ve ye…" — 2 atom doğrulandı; 4 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bu dönemi daha iyi bilinen Arkaik Çağ izledi." — programatik olarak ölçülemedi (ad karşılığı yok): Arkaik, Çağ
 - [ATOMSUZ] k2 → "Bölgesel kronolojiler Anadolu, Elam, Levant, Mezopotamya, Sistan ve Kenan'ı Geç Tunç Çağı çöküşünün kapsamına …" — programatik olarak ölçülemedi (ad karşılığı yok): Anadolu, Elam, Levant, Mezopotamya
@@ -14,7 +14,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:40.876Z_
 - [ATOMSUZ] k1 → "Demir işçiliğinin listede bir bozulma nedeni olarak geçmesi dikkate değerdir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k3 → "Nüfus tarafında uzun dönemli seri bu aralıkta bin yıllık çözünürlüktedir; MÖ 1000 için verilen değer yaklaşık …"
 - [ATOMSUZ] k1 → "Dönemin siyasi biçimi, öncekinin tersine çevrilmesiyle tanımlanır: merkezî saray ekonomisinin yerini küçük ve …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "yüzyılda Yunan tarih öncesinin ilk döneminin bu sıralarda bittiği, Troya'nın düşüşünün MÖ 1190'a tarihlenmesin…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "19. yüzyılda Yunan tarih öncesinin ilk döneminin bu sıralarda bittiği, Troya'nın düşüşünün MÖ 1190'a tarihlenm…" — 3 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Çoğu açıklama şehir ve kasabaların şiddetli yıkımını içerse de, arkeolojik kayıt her yerde aynı şeyi söylemez:…"
 - [OK]      k1 → "Çoğu açıklama şehir ve kasabaların şiddetli yıkımını içerse de, arkeolojik kayıt her yerde aynı şeyi söylemez:…"
 - [ATOMSUZ] k1 → "Sinda'da ise yalnızca bir miktar kül bulunmuş, yıkılmış duvar ya da yanmış moloz gibi başka bir yıkım kanıtına…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

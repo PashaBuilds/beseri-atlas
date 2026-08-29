@@ -1,9 +1,9 @@
 {
   "id": "donem-14",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:42.573Z",
+  "zaman": "2026-08-29T19:33:52.691Z",
   "govde_hash": "5c82afa208dc",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -63,7 +63,7 @@
       "anahtar": "k3",
       "iddia": "İkinci Dünya Savaşı'ndan sonraki yıllarda çatışmalarda birkaç milyon insan öldü; 1950'lerde çok daha düşük düzeylere indikten sonra çatışma ölümleri 1970'ler ve",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k3",

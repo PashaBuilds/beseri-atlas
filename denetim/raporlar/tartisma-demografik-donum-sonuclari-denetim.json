@@ -1,9 +1,9 @@
 {
   "id": "tartisma-demografik-donum-sonuclari",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:56.859Z",
+  "zaman": "2026-08-29T19:34:27.809Z",
   "govde_hash": "0c029893c9df",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k2",
@@ -38,26 +38,26 @@
     {
       "anahtar": "k2",
       "iddia": "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgang Lutz düşük doğurganlığın kendini besleyen bir tu",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Lee, Mason, Wolfgang, Lutz"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k8",
       "iddia": "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgang Lutz düşük doğurganlığın kendini besleyen bir tu",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k9",
       "iddia": "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgang Lutz düşük doğurganlığın kendini besleyen bir tu",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k3",
       "iddia": "Longman'ın çizgisi düşüşü bir yük krizi sayar; Lee ile Mason yükün yanlış ölçüyle tartıldığını söyler; Wolfgang Lutz düşük doğurganlığın kendini besleyen bir tu",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Lee, Mason, Wolfgang, Lutz"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k4",
@@ -344,8 +344,8 @@
     {
       "anahtar": "k2",
       "iddia": "Longman'ın yük hesabı ile Lee ve Mason'ın tüketim hesabı farklı büyüklükleri karşılaştırıyor: biri işgücü arzı ile yaşlanmanın maliyetinden bir refah tehdidi çı",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Lee, Mason"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k8",

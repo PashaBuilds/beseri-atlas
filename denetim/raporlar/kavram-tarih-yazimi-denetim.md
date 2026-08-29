@@ -1,5 +1,5 @@
 ## kavram-tarih-yazimi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T15:43:20.207Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:25.038Z_
 
 - [OK]      k1 → "Kaynak, tarih bölümünü bölgelere ve geleneklere göre ayırır: antikçağ, Avrupa (Yunanistan, Roma, İncil), Doğu …" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Aynı bölgenin iki ayrı dönem başlığı altında yeniden geçmesi, atlasın şu kuralının dayanağıdır: bu atlasta tar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

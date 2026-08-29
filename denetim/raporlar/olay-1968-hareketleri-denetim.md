@@ -1,5 +1,5 @@
 ## olay-1968-hareketleri
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:43.348Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:54.210Z_
 
 - [OK]      k1 → "Kaynak dalgayı 5 Ocak 1968 - 29 Mart 1969 arasına, yani bir yıl iki ay üç hafta üç güne yerleştirir; yer olara…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Olayın adı tek bir yılı gösterirken kaynağın verdiği aralık 1969 Mart'ına kadar uzanır."

@@ -1,9 +1,9 @@
 {
   "id": "kaynak-pomeranz-buyuk-ayrisma",
   "gecis": 2,
-  "zaman": "2026-08-29T14:40:01.440Z",
+  "zaman": "2026-08-29T19:34:37.474Z",
   "govde_hash": "434018a73a88",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -13,7 +13,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl başında karşılaştırılabilir iktisadi gelişme düzeylerine ulaştığını ve özellikle üretken toprak kullanımında benzer kaynak kısıtlarıyla karşılaştığını sa",
+      "iddia": "Kaynak, yazarın Avrupa ve Asya'nın en gelişmiş bölgelerinin 19. yüzyıl başında karşılaştırılabilir iktisadi gelişme düzeylerine ulaştığını ve özellikle üretken ",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },

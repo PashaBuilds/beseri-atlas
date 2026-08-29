@@ -1,15 +1,15 @@
 {
   "id": "dusunur-herodotos",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:52.682Z",
+  "zaman": "2026-08-29T19:34:17.903Z",
   "govde_hash": "e5196495d1e3",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyılda Pers denetimi altındaydı, kendisi sonradan Thurii vatandaşı oldu.",
+      "iddia": "Kaynak onu MÖ yaklaşık 484 - yaklaşık 425 arasında yaşamış, Halikarnassos'tan (bugünkü Bodrum) bir Yunan tarihçi ve coğrafyacı olarak tanımlar; şehir 5. yüzyıld",
       "durum": "OK",
-      "not": ""
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -49,9 +49,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl Bizans ansiklopedisi Suda gibi çok daha geç kaynaklarla tamamladıklarını yazar; verilerin azlığı, dayandıkları otoritenin geç ve zayıf oluşu ile birbirle",
+      "iddia": "Kaynak, araştırmacıların hayatı hakkında güvenilir bilgi için geleneksel olarak Herodotos'un kendi yazdıklarına başvurduğunu ve bunu 10. yüzyıl Bizans ansiklope",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -69,13 +69,13 @@
       "anahtar": "k3",
       "iddia": "Yüz yıl önceki bir başka ansiklopedi maddesi annesinin adını Rhaeo ya da Dryo olarak verir; bugünkü kayıt ise Dryotus yazar.",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",
       "iddia": "Yüz yıl önceki bir başka ansiklopedi maddesi annesinin adını Rhaeo ya da Dryo olarak verir; bugünkü kayıt ise Dryotus yazar.",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",

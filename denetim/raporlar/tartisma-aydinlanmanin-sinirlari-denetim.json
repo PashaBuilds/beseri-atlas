@@ -1,9 +1,9 @@
 {
   "id": "tartisma-aydinlanmanin-sinirlari",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:56.698Z",
+  "zaman": "2026-08-29T19:34:27.498Z",
   "govde_hash": "9369c4f459e5",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k11",
@@ -13,9 +13,9 @@
     },
     {
       "anahtar": "k11",
-      "iddia": "yüzyılda Avrupa'ya ve Amerika ile Okyanusya'daki Avrupa sömürgelerine yayıldı.",
+      "iddia": "Aynı kaydın coğrafyası ise Avrupa merkezlidir: 16. ve 17. yüzyılların Bilim Devrimi'nden doğan fikirler, 18. yüzyılda Avrupa'ya ve Amerika ile Okyanusya'daki Av",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k11",
@@ -79,21 +79,21 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Adorno'nun birlikte yazdığı metin önce 1944'te Philosophische Fragmente başlığıyla çoğaltıldı; kitap 1947'de Dialectic of Enlightenment adıyla tanınan biçimiyle",
+      "iddia": "Max Horkheimer ile Theodor W. Adorno'nun birlikte yazdığı metin önce 1944'te Philosophische Fragmente başlığıyla çoğaltıldı; kitap 1947'de Dialectic of Enlighte",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k4",
-      "iddia": "Adorno'nun birlikte yazdığı metin önce 1944'te Philosophische Fragmente başlığıyla çoğaltıldı; kitap 1947'de Dialectic of Enlightenment adıyla tanınan biçimiyle",
+      "iddia": "Max Horkheimer ile Theodor W. Adorno'nun birlikte yazdığı metin önce 1944'te Philosophische Fragmente başlığıyla çoğaltıldı; kitap 1947'de Dialectic of Enlighte",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Adorno'nun birlikte yazdığı metin önce 1944'te Philosophische Fragmente başlığıyla çoğaltıldı; kitap 1947'de Dialectic of Enlightenment adıyla tanınan biçimiyle",
+      "iddia": "Max Horkheimer ile Theodor W. Adorno'nun birlikte yazdığı metin önce 1944'te Philosophische Fragmente başlığıyla çoğaltıldı; kitap 1947'de Dialectic of Enlighte",
       "durum": "OK",
-      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -236,8 +236,8 @@
     {
       "anahtar": "k8",
       "iddia": "Wollstonecraft'ın itirazı akıl ve haklar diliyle yazılmıştı; Kant yazınında Kleingeld'in savunduğu okuma da Kant'ın ırk hakkındaki görüşlerini yazıları boyunca ",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kant, Kleingeld"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -291,25 +291,25 @@
       "anahtar": "k2",
       "iddia": "Kant hem 1784 tanımının hem 1775 tarihli ırk denemesinin yazarıdır ve iki metin aynı tartışmanın iki yakasında durur; Horkheimer ile Adorno'nun hedefi aklın ken",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k5",
       "iddia": "Kant hem 1784 tanımının hem 1775 tarihli ırk denemesinin yazarıdır ve iki metin aynı tartışmanın iki yakasında durur; Horkheimer ile Adorno'nun hedefi aklın ken",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",
       "iddia": "Kant hem 1784 tanımının hem 1775 tarihli ırk denemesinin yazarıdır ve iki metin aynı tartışmanın iki yakasında durur; Horkheimer ile Adorno'nun hedefi aklın ken",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k7",
       "iddia": "Kant hem 1784 tanımının hem 1775 tarihli ırk denemesinin yazarıdır ve iki metin aynı tartışmanın iki yakasında durur; Horkheimer ile Adorno'nun hedefi aklın ken",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     }
   ]
 }

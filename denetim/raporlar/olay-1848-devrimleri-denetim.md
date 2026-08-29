@@ -1,8 +1,8 @@
 ## olay-1848-devrimleri
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:43.125Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:53.657Z_
 
 - [OK]      k1 → "Kaynağa göre gıda fiyatlarındaki artış, dokuma üretimi için gerekli olan Güney Amerika Birleşik Devletleri pam…" — 2 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k1 → "İşsizlik ve yoksullaşma kentli topluluklar arasında hızla yayıldı: Christopher Clark'a göre 1847'ye gelindiğin…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "İşsizlik ve yoksullaşma kentli topluluklar arasında hızla yayıldı: Christopher Clark'a göre 1847'ye gelindiğin…" — 6 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Fransa'da geçici hükümet, ilkbaharın başında sanayi işçilerinin desteğine güvenebilmişti; çalışma hakkı ve ulu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Ancak 23 Nisan'daki Kurucu Meclis seçimlerindeki muhafazakâr zaferin ve 15 Mayıs'taki Meclis'i devirme girişim…" — programatik olarak ölçülemedi (ad karşılığı yok): Nisan, Kurucu, Meclis, Mayıs
 - [OK]      k1 → "Birinci okuma, kaynağın aktardığı biçimiyle: 1848 sonrasındaki devrim sonrası on yılda görünür biçimde çok az …"

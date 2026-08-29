@@ -1,5 +1,5 @@
 ## olay-atlantik-kole-ticareti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T16:29:09.125Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:55.795Z_
 
 - [OK]      k1 → "Avrupalı tüccarlar on beşinci yüzyılda Afrika kıyısında bir köle ticareti kurdu, Amerika'ya taşıma on altıncı …"
 - [OK]      k2 → "İktisat tarihi ansiklopedisinin verdiği toplama göre 1500 ile 1900 arasında yaklaşık 12 milyon insan evinden k…"

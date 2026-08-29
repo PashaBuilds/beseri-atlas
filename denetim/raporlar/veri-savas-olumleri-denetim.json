@@ -1,9 +1,9 @@
 {
   "id": "veri-savas-olumleri",
   "gecis": 2,
-  "zaman": "2026-08-29T14:40:00.030Z",
+  "zaman": "2026-08-29T19:34:35.363Z",
   "govde_hash": "8e9e9cf959da",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -51,7 +51,7 @@
       "anahtar": "k3",
       "iddia": "Serinin en yüksek yılını taşıyan olay için tutulan kayıt, olayı 7 Nisan – 19 Temmuz 1994 tarihleri arasına yerleştirir ve ölü sayısını yaklaşık 500.000 ile 800.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

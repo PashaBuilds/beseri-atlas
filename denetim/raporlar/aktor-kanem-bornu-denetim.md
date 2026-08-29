@@ -1,8 +1,8 @@
 ## aktor-kanem-bornu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.925Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:11.414Z_
 
 - [OK]      k1 → "Kanem-Bornu, Çad Gölü çevresinde kurulan ve zamanla gölün batısına taşınan bir siyasi düzendir."
-- [ATOMSUZ] k3 → "Kanem-Bornu, Çad Gölü çevresinde kurulan ve zamanla gölün batısına taşınan bir siyasi düzendir." — programatik olarak ölçülemedi (ad karşılığı yok): Çad, Gölü
+- [OK]      k3 → "Kanem-Bornu, Çad Gölü çevresinde kurulan ve zamanla gölün batısına taşınan bir siyasi düzendir."
 - [ATOMSUZ] k1 → "Aynı hanedan adı altında yüzyıllar boyunca varlığını sürdürmesi, atlasın aktör dosyalarında ender rastlanan bi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Aynı hanedan adı altında yüzyıllar boyunca varlığını sürdürmesi, atlasın aktör dosyalarında ender rastlanan bi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Aynı hanedan altında merkez değişmiş, coğrafya kaymış ve idari yapı dönüşmüştür; atlas bunları ayrı dosyalara …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -10,7 +10,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.925Z_
 - [ATOMSUZ] k3 → "Düzenin doğu merkezinden batıya taşınması, dışarıdan gelen baskı ve iç bölünmelerle birlikte aktarılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Sürekliliği kaydeden bir kaynak, kopukluğu kaydeden bir kaynaktan farklı bir tarih anlatısı üretir; hangisinin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Taşınmanın ardından bölgenin yeni merkezinde kurulan düzen, öncekinin kurumlarını büyük ölçüde sürdürmüştür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ISARET]  k1 → "Düzenin ekonomik temeli, Sahra'yı geçen kuzey-güney ticaret yollarının denetimidir." — özel isim kaynakta bulunamadı: Sahra
+- [ATOMSUZ] k1 → "Düzenin ekonomik temeli, Sahra'yı geçen kuzey-güney ticaret yollarının denetimidir." — programatik olarak ölçülemedi (ad karşılığı yok): Sahra
 - [ATOMSUZ] k2 → "Düzenin ekonomik temeli, Sahra'yı geçen kuzey-güney ticaret yollarının denetimidir." — programatik olarak ölçülemedi (ad karşılığı yok): Sahra
 - [ISARET]  k1 → "İki dosya birlikte okunduğunda, Sahra'nın güney kıyısında kurulan siyasi düzenlerin ortak bir ekonomik biçimi …" — özel isim kaynakta bulunamadı: Sahra
 - [ATOMSUZ] k2 → "Bu dosyanın ayrıcalığı, bölgeyi tarif eden çağdaş bir metnin erişilebilir olmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -48,4 +48,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.925Z_
 - [ATOMSUZ] k1 → "Burada anlatılanların bir bölümü ansiklopedi aktarımıdır, bir bölümü çağdaş bir metnin çevirisinden gelir; kün…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Burada anlatılanların bir bölümü ansiklopedi aktarımıdır, bir bölümü çağdaş bir metnin çevirisinden gelir; kün…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 3 OK · 2 ISARET · 0 HATA · 41 ATOMSUZ
+**Özet:** 4 OK · 1 ISARET · 0 HATA · 41 ATOMSUZ

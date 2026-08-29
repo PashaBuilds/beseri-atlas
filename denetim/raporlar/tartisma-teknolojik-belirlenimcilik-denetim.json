@@ -1,9 +1,9 @@
 {
   "id": "tartisma-teknolojik-belirlenimcilik",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:58.776Z",
+  "zaman": "2026-08-29T19:34:33.512Z",
   "govde_hash": "30a8e59660d1",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k2",
@@ -37,9 +37,9 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Cohen, kuramı işlevsel açıklamaya dayalı biçimde yeniden kurarak savundu: iktisadi yapı üretici güçleri geliştirdiği için vardır ve geliştiremez hâle geldiğinde",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Tarih kuramının felsefi bakımdan en etkili yakın dönem yorumcusu sayılan G. A. Cohen, kuramı işlevsel açıklamaya dayalı biçimde yeniden kurarak savundu: iktisad",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
@@ -157,7 +157,7 @@
     },
     {
       "anahtar": "k6",
-      "iddia": "Hughes aynı derlemede Technological Momentum başlıklı denemesiyle yer alır.",
+      "iddia": "Thomas P. Hughes aynı derlemede Technological Momentum başlıklı denemesiyle yer alır.",
       "durum": "OK",
       "not": ""
     },
@@ -169,7 +169,7 @@
     },
     {
       "anahtar": "k10",
-      "iddia": "Eisenstein'ın 1979'da yayımlanan iki ciltlik incelemesi programını başlığında taşır: matbaa bir \"değişim etkeni\"dir ve erken modern Avrupa'nın iletişim ve kültü",
+      "iddia": "Elizabeth L. Eisenstein'ın 1979'da yayımlanan iki ciltlik incelemesi programını başlığında taşır: matbaa bir \"değişim etkeni\"dir ve erken modern Avrupa'nın ilet",
       "durum": "OK",
       "not": ""
     },

@@ -1,5 +1,5 @@
 ## kavram-okuryazarlik
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.375Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:24.327Z_
 
 - [ATOMSUZ] k1 → "Okuryazarlık, atlas için bir eğitim konusu değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Bir dönemde kimlerin yazabildiği, o dönemden hangi kayıtların kalacağını doğrudan belirler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

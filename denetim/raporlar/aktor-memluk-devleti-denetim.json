@@ -1,9 +1,9 @@
 {
   "id": "aktor-memluk-devleti",
   "gecis": 2,
-  "zaman": "2026-08-29T16:03:50.231Z",
+  "zaman": "2026-08-29T19:34:13.216Z",
   "govde_hash": "f637f768c031",
-  "commit": "c634195",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k2",
@@ -109,7 +109,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Baybars, Abbâsî ailesinden birini halife ilan ederek hilafeti Kahire'de yeniden kurdu ve böylece hilafetin hâmisi sıfatını üstlendi.",
+      "iddia": "Moğolların 1258'de Bağdat Abbâsî hilafetini ortadan kaldırmasının ardından I. Baybars, Abbâsî ailesinden birini halife ilan ederek hilafeti Kahire'de yeniden ku",
       "durum": "OK",
       "not": ""
     },

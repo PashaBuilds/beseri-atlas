@@ -1,14 +1,14 @@
 ## kavram-anakronizm
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:21:38.877Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:21.212Z_
 
 - [OK]      k1 → "Reinhart Koselleck'in kavram tarihi (Begriffsgeschichte) programı tam da bunu kazımayı hedefler: geçmiş olayla…"
 - [ATOMSUZ] k2 → "Eugenius'a karşı yürüttüğü kampanyanın parçası olarak değerlendirilebileceğini yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Birincisi tarihe iner: belge Konstantinopolis'i patriklik merkezlerinden biri olarak sayar, oysa ayrıcalık bel…"
 - [OK]      k2 → "Kendi çekincesini de kayda geçirir — herhangi bir Roma satrabının anıldığını okuduğunu hatırlamadığını söyler,…"
 - [ATOMSUZ] k2 → "Coleman'ın girişi aynı sözcüğü, belgenin dilinin papalık kalemine işaret ediyor göründüğünü söylediği dilsel i…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Paulus'un papalığına (757-767) varır — bunu bir kesinlik olarak değil, dilin işaret ettiği en olası seçenek ol…"
+- [OK]      k2 → "Coleman, satrap sözcüğünün Roma'da yüksek görevliler için ancak sekizinci yüzyılın ortasında kullanılmaya başl…"
 - [OK]      k5 → "Quentin Skinner'ın Meaning and Understanding in the History of Ideas başlıklı makalesi 1969'da History and The…"
-- [OK]      k1 → "Pocock'un oluşturduğu Cambridge okulu, sorunun tanımı bakımından Koselleck'e paralel durur: ikisi de kavramlar…"
+- [OK]      k1 → "Skinner, John Dunn ve J. G. A. Pocock'un oluşturduğu Cambridge okulu, sorunun tanımı bakımından Koselleck'e pa…"
 - [OK]      k2 → "Valla 1440'ta belgeyi çürütürken anakronizm terimini kullanmaz; Coleman'ın hazırladığı ciltte, Latince metinde…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Ölçüt, geçmişin bize köklü biçimde yabancı olduğu varsayımına yaslanır ve bu varsayım tartışma konusudur: Herd…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k7 → "Andreas Körber 2019'da bu tabloyu tersinden yokluyor: geçmişin ötekiliği önermesinin de kendi tuzakları ve sın…" — 1 atom doğrulandı; 1 ad ölçülemedi

@@ -1,5 +1,5 @@
 ## aktor-tokugawa-sogunlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T16:32:34.662Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:16.255Z_
 
 - [OK]      k1 → "Tokugawa şogunluğu, Japonya'yı 1603'ten 1868'e kadar yöneten askerî hükümetti; yönetimin tepesinde Kyoto'daki …"
 - [OK]      k4 → "Tokugawa şogunluğu, Japonya'yı 1603'ten 1868'e kadar yöneten askerî hükümetti; yönetimin tepesinde Kyoto'daki …"

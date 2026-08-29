@@ -1,15 +1,15 @@
 {
   "id": "veri-co2-emisyonu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:59.155Z",
+  "zaman": "2026-08-29T19:34:34.248Z",
   "govde_hash": "f692f9ae5b61",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
       "iddia": "Seri 1750'de 9.305.937 ton ile başlar ve 2024'te 38.598.580.000 ton ile biter.",
-      "durum": "OK",
-      "not": ""
+      "durum": "ISARET",
+      "not": "kaynakta bulunamayan sayısal değer: 38.598.580.000 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)"
     },
     {
       "anahtar": "k1",

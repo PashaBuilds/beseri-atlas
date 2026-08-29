@@ -1,5 +1,5 @@
 ## kaynak-fetha-nagast
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:00.596Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:36.170Z_
 
 - [ISARET]  k1 → "Fetha Nagast, kilise düzenini ve dünyevi hukuku bir arada düzenleyen bir kanun kitabıdır." — özel isim kaynakta bulunamadı: Nagast
 - [ATOMSUZ] k2 → "Birinci bölüm ibadet, ruhban düzeni ve kilise yönetimi konularındadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

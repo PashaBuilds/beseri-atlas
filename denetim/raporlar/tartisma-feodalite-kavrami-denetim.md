@@ -1,10 +1,10 @@
 ## tartisma-feodalite-kavrami
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.992Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:28.225Z_
 
 - [OK]      k6 → "Karşılaştırmalı feodalite derlemesinin giriş denemesinde Joseph Strayer ile Rushton Coulborn bunu bir cümleyle…"
-- [ATOMSUZ] k4 → "Brown aynı saptamayı daha erken bir tarihe bağlar: kurgu on yedinci yüzyılda kurulmuş, o günden beri hukukçula…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Elizabeth A. R. Brown aynı saptamayı daha erken bir tarihe bağlar: kurgu on yedinci yüzyılda kurulmuş, o günde…"
 - [OK]      k1 → "Ders kitapları bir çağı bu adla açar; karşılaştırmalı tarih Japonya'dan Etiyopya'ya uzanan bir coğrafyada aynı…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [ISARET]  k7 → "Ders kitapları bir çağı bu adla açar; karşılaştırmalı tarih Japonya'dan Etiyopya'ya uzanan bir coğrafyada aynı…" — özel isim kaynakta bulunamadı: Japonya
+- [OK]      k7 → "Ders kitapları bir çağı bu adla açar; karşılaştırmalı tarih Japonya'dan Etiyopya'ya uzanan bir coğrafyada aynı…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Brown'un 1974 tarihli makalesi ile Susan Reynolds'un 1994 tarihli kitabından bu yana ortaçağ tarihçileri arası…"
 - [OK]      k6 → "Sonradan adlandırma, kendi başına bir suçlama sayılmaz; Strayer ile Coulborn'un hatırlattığı gibi tarihçiler R…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "kitabına aittir: feodalite, savaşçı soyluluğun karşılıklı hukuki ve askerî yükümlülüklerinden oluşan ve lord, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -17,7 +17,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.992Z_
 - [OK]      k1 → "Kitap İngilizce yazına 1961'de Feudal Society adıyla geçti." — 3 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bloch'u çağdaşlarından ayıran adım, köylüyü feodal ilişkinin bir tarafı saymasıdır: vasal karşılığında askerli…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Ganshof bir hukuk kurumunu, Bloch bir toplum tipini tanımlar; ilki ele alışını dar anlamla sınırladığını açıkç…"
-- [OK]      k4 → "Brown'un 1974'te American Historical Review'da çıkan makalesi, bir konferans gözlemiyle açılır: Thomas Bisson …" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Elizabeth A. R. Brown'un 1974'te American Historical Review'da çıkan makalesi, bir konferans gözlemiyle açılır…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k4 → "Makalenin gövdesi bir kullanım envanteridir: aynı yazarın elinde "gelişmiş", "klasik", "katı" feodaliteler yan…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k4 → "Terimin sözlükten büsbütün çıkarılamayacağını kabul eder ve hiç değilse öğrencilere feodal sözcüğünü yalnızca …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k4 → "Bir kavramı bırakmanın yerine ne konacağı sorusuna verdiği cevap ise bir başka kavram değil, geçmişte yaşamış …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -42,9 +42,9 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.992Z_
 - [ATOMSUZ] k1 → "Yarım yüzyıllık itiraz dalgasından sonra bile tartışma bir hükümle kapanmamıştır; ortaçağ tarihçileri arasında…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k4 → "Belge ölçeğinde — fief sözcüğünün gerçekten geçtiği yerel hukuk bağlamlarında — kavramın en dar kullanımını Br…"
 - [OK]      k5 → "Belge ölçeğinde — fief sözcüğünün gerçekten geçtiği yerel hukuk bağlamlarında — kavramın en dar kullanımını Br…"
-- [OK]      k5 → "Toplum tipi ölçeğinde kavram en çok işi görür ve en az denetlenebilir: Bloch'un feodal toplumu ile Reischauer'…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k6 → "Toplum tipi ölçeğinde kavram en çok işi görür ve en az denetlenebilir: Bloch'un feodal toplumu ile Reischauer'…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Toplum tipi ölçeğinde kavram en çok işi görür ve en az denetlenebilir: Bloch'un feodal toplumu ile Reischauer'…"
+- [OK]      k6 → "Toplum tipi ölçeğinde kavram en çok işi görür ve en az denetlenebilir: Bloch'un feodal toplumu ile Reischauer'…"
 - [OK]      k7 → "Çağ adı ölçeğindeki Marksist kullanım ise farklı bir soruya cevap verdiği için tartışmanın yanında, ayrı bir h…"
 - [OK]      k1 → "Taraflar üstelik aynı soruya cevap vermez — Ganshof bir kurumun ne olduğunu, Bloch bir toplumun nasıl işlediği…"
 
-**Özet:** 29 OK · 1 ISARET · 0 HATA · 15 ATOMSUZ
+**Özet:** 31 OK · 0 ISARET · 0 HATA · 14 ATOMSUZ

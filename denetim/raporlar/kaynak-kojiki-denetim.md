@@ -1,5 +1,5 @@
 ## kaynak-kojiki
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:01.047Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:36.852Z_
 
 - [ATOMSUZ] k1 → "Kojiki, evrenin oluşumundan başlayan bir anlatıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Anlatı, tanrılardan hükümdarlara kesintisiz geçer." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

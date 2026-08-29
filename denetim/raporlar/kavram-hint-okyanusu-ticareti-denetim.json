@@ -1,15 +1,15 @@
 {
   "id": "kavram-hint-okyanusu-ticareti",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:54.476Z",
+  "zaman": "2026-08-29T19:34:22.765Z",
   "govde_hash": "610a7e66455c",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
       "iddia": "Hint Okyanusu ticareti, Doğu Afrika kıyısından Güneydoğu Asya'ya uzanan ve yüzyıllar boyunca kesintisiz işleyen deniz ticareti düzenine verilen addır.",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Afrika"
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k3",

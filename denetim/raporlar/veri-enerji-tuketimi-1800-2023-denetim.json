@@ -1,9 +1,9 @@
 {
   "id": "veri-enerji-tuketimi-1800-2023",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:59.448Z",
+  "zaman": "2026-08-29T19:34:34.612Z",
   "govde_hash": "b3a8b0c70a86",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",

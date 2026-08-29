@@ -1,9 +1,9 @@
 {
   "id": "aktor-indus-vadisi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:49.747Z",
+  "zaman": "2026-08-29T19:34:10.709Z",
   "govde_hash": "65b456f96e0e",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -15,7 +15,7 @@
       "anahtar": "k2",
       "iddia": "İndus Vadisi Uygarlığı, bugünkü Pakistan ve kuzeybatı Hindistan'ı kapsayan nehir havzasında kurulmuş bir kent uygarlığıdır.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k2",

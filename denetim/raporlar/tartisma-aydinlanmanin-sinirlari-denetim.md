@@ -1,8 +1,8 @@
 ## tartisma-aydinlanmanin-sinirlari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.698Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:27.498Z_
 
 - [ATOMSUZ] k11 → "Dönemin öz-tanımı bir özgürleşme vaadidir: akla, deneysel kanıta ve bilimsel yönteme yapılan vurgu; bireysel ö…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k11 → "yüzyılda Avrupa'ya ve Amerika ile Okyanusya'daki Avrupa sömürgelerine yayıldı." — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k11 → "Aynı kaydın coğrafyası ise Avrupa merkezlidir: 16. ve 17. yüzyılların Bilim Devrimi'nden doğan fikirler, 18. y…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k11 → "Anayasal yönetimin, kilise ile devletin ayrılmasının ve akılcı ilkelerin toplumsal reforma uygulanmasının savu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "denemesinde aydınlanmayı insanın kendi suçuyla düştüğü vesayetten çıkışı olarak tanımlar; vesayet, insanın ken…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "denemesinde aydınlanmayı insanın kendi suçuyla düştüğü vesayetten çıkışı olarak tanımlar; vesayet, insanın ken…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -13,9 +13,9 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.698Z_
 - [ATOMSUZ] k2 → "Kant kendi çağını aydınlanmış bir çağ saymaz; onu bir aydınlanma çağı, hükümdarına atıfla Friedrich'in yüzyılı…" — programatik olarak ölçülemedi (ad karşılığı yok): Friedrich
 - [OK]      k1 → "Çerçeve kaynak bu öz-güveni dönemin geneline bağlar: d'Alembert içinde yaşadığı yüzyılı felsefe yüzyılı diye n…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Aynı kayıt, düşünürlerin yarattığı düşünsel mayalanmanın Fransa'da büyüyen toplumsal huzursuzluk dalgasına kat…"
-- [OK]      k3 → "Adorno'nun birlikte yazdığı metin önce 1944'te Philosophische Fragmente başlığıyla çoğaltıldı; kitap 1947'de D…"
-- [OK]      k4 → "Adorno'nun birlikte yazdığı metin önce 1944'te Philosophische Fragmente başlığıyla çoğaltıldı; kitap 1947'de D…"
-- [OK]      k1 → "Adorno'nun birlikte yazdığı metin önce 1944'te Philosophische Fragmente başlığıyla çoğaltıldı; kitap 1947'de D…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Max Horkheimer ile Theodor W. Adorno'nun birlikte yazdığı metin önce 1944'te Philosophische Fragmente başlığıy…"
+- [OK]      k4 → "Max Horkheimer ile Theodor W. Adorno'nun birlikte yazdığı metin önce 1944'te Philosophische Fragmente başlığıy…"
+- [OK]      k1 → "Max Horkheimer ile Theodor W. Adorno'nun birlikte yazdığı metin önce 1944'te Philosophische Fragmente başlığıy…"
 - [OK]      k1 → "Sav, çerçeve kaynağın aktarımıyla şudur: Adorno ile Horkheimer, Nazi ölüm kamplarını Aydınlanmanın diyalektiği…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k4 → "Akıl bu okumada doğaya ve insana egemen olmanın aracına daralır ve özgürleştirici içeriğini yitirir; kitabın b…"
 - [OK]      k3 → "Kitle kültürüne ayrılan bölüm, The Culture Industry: Enlightenment as Mass Deception başlığını taşır."
@@ -39,7 +39,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.698Z_
 - [OK]      k9 → "Bu tezde modern eşitlikçi düşüncenin kaynağı Aydınlanmanın kendisidir — özellikle Spinoza çizgisinden gelen ra…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k10 → "Enlightenment Now (2018), katalog tanıtımının aktarımıyla, yetmiş beş grafik üzerinden yaşamın, sağlığın, refa…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k10 → "Kitabın türü savununun sınırını da işaretler: alt başlık onu bir manifesto olarak sunar; savunma buradan güç d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k8 → "Wollstonecraft'ın itirazı akıl ve haklar diliyle yazılmıştı; Kant yazınında Kleingeld'in savunduğu okuma da Ka…" — programatik olarak ölçülemedi (ad karşılığı yok): Kant, Kleingeld
+- [OK]      k8 → "Wollstonecraft'ın itirazı akıl ve haklar diliyle yazılmıştı; Kant yazınında Kleingeld'in savunduğu okuma da Ka…"
 - [OK]      k1 → "Wollstonecraft'ın itirazı akıl ve haklar diliyle yazılmıştı; Kant yazınında Kleingeld'in savunduğu okuma da Ka…"
 - [OK]      k5 → "Wollstonecraft'ın itirazı akıl ve haklar diliyle yazılmıştı; Kant yazınında Kleingeld'in savunduğu okuma da Ka…"
 - [OK]      k5 → "Karşı kayıt aynı yerdedir: kimi yorumcular Kant'ın köleliği ahlaki bir sorun olarak değil, tarih felsefecisini…"
@@ -48,9 +48,9 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.698Z_
 - [ATOMSUZ] k12 → "Sayının söylemediği şey de kayda değer: seri ilkelerin samimiyetini değil erişimini ölçer; düşük değer vaadi ç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k11 → "Çerçeve kayıt ikisini aynı cümlelerde tutar — evrensel idealler ve sömürgelere yayılma — ve aralarında seçim y…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "İkincisi pay sorusudur: Wollstonecraft'ın istisna oluşu hem içeriden itirazın mümkün olduğunu hem dışlamanın y…"
-- [OK]      k2 → "Kant hem 1784 tanımının hem 1775 tarihli ırk denemesinin yazarıdır ve iki metin aynı tartışmanın iki yakasında…" — 2 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k5 → "Kant hem 1784 tanımının hem 1775 tarihli ırk denemesinin yazarıdır ve iki metin aynı tartışmanın iki yakasında…" — 2 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k1 → "Kant hem 1784 tanımının hem 1775 tarihli ırk denemesinin yazarıdır ve iki metin aynı tartışmanın iki yakasında…" — 4 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k7 → "Kant hem 1784 tanımının hem 1775 tarihli ırk denemesinin yazarıdır ve iki metin aynı tartışmanın iki yakasında…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Kant hem 1784 tanımının hem 1775 tarihli ırk denemesinin yazarıdır ve iki metin aynı tartışmanın iki yakasında…"
+- [OK]      k5 → "Kant hem 1784 tanımının hem 1775 tarihli ırk denemesinin yazarıdır ve iki metin aynı tartışmanın iki yakasında…"
+- [OK]      k1 → "Kant hem 1784 tanımının hem 1775 tarihli ırk denemesinin yazarıdır ve iki metin aynı tartışmanın iki yakasında…"
+- [OK]      k7 → "Kant hem 1784 tanımının hem 1775 tarihli ırk denemesinin yazarıdır ve iki metin aynı tartışmanın iki yakasında…"
 
-**Özet:** 33 OK · 0 ISARET · 0 HATA · 18 ATOMSUZ
+**Özet:** 34 OK · 0 ISARET · 0 HATA · 17 ATOMSUZ

@@ -1,5 +1,5 @@
 ## aktor-marathalar
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.453Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:12.982Z_
 
 - [OK]      k1 → "Marathalar, on yedinci yüzyıl sonunda Hindistan yarımadasının batı dağlarında kurulan ve on dokuzuncu yüzyıl b…"
 - [ATOMSUZ] k3 → "Düzen, bir yüzyıl içinde yarımadanın büyük bölümünde etkili hâle geldi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,26 +1,12 @@
 # Çürütücü raporu — kavram-ilkel-birikim
-_2026-08-29T19:22:49.747Z_
+_2026-08-29T19:33:23.610Z_
 
-## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
+## Zayıf bulunmayan alanlar
 
-**Cümle:** "Sermayenin nereden geldiğini açıklamak isteyen her kuram bir kısırdöngüye çarpar: birikim artı değeri, artı değer kapitalist üretimi, kapitalist üretim de meta üreticilerinin elind"
+Programatik tarama, §10'da sayılan yedi zayıflık tipinde (tek kaynaklı
+nedensellik, atıfsız kesinlik dili, üstünlük iddiası, kapsam çarpıtması,
+anakronizm, yetersiz pozisyon, ince kanıt tabanı) itiraz adayı bulamadı.
 
-**Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
-
-**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
-
-## İtiraz 2 — [ciddiyet: dusuk] ustunluk-iddiasi
-
-**Cümle:** "İkinci sorun kavramın zamanıdır: kapitalizmin önkoşulu olan tek seferlik bir tarihsel olay mı, yoksa kapitalizmin içinde süren bir işlem mi?[^k6] Marx'ın kendi yazdıkları bu noktad"
-
-**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
-
-**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
-
-## İtiraz 3 — [ciddiyet: dusuk] ustunluk-iddiasi
-
-**Cümle:** "Son olarak adın kendisi geriye dönük bir okumadır. Marx sürecin başlangıcını on beşinci yüzyılın son üçte biri ile on altıncı yüzyılın ilk on yılına koyar,[^k2] kavramı ise o yüzyı"
-
-**Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
-
-**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
+Bu, makalenin doğru olduğu anlamına gelmez; bu yedi kalıptan hiçbirinin
+tetiklenmediği anlamına gelir. Sayısal ve ad düzeyindeki doğrulama Geçiş 2,
+bağımsız yeniden türetme Geçiş 4 raporlarındadır.

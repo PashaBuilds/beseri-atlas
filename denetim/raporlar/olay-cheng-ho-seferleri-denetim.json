@@ -1,9 +1,9 @@
 {
   "id": "olay-cheng-ho-seferleri",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:44.415Z",
+  "zaman": "2026-08-29T19:33:57.261Z",
   "govde_hash": "1ee456b646ba",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -55,9 +55,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "yüzyılda yüksek fırınlarda odun kömürü yerine taş kömürü kullanımına geçilmişti.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Önceki yüzyıllarda Song ekonomisi yılda 100.000.000 kilogramdan fazla demir ürünü üretecek kadar istikrarlıydı ve 11. yüzyılda yüksek fırınlarda odun kömürü yer",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",

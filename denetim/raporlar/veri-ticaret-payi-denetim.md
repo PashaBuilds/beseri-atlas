@@ -1,5 +1,5 @@
 ## veri-ticaret-payi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:00.213Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:35.595Z_
 
 - [OK]      k1 → "Seri 1970'te yaklaşık %25,8 ile başlar ve 2024'te yaklaşık %56,7 ile biter; toplam 55 gözlem vardır."
 - [OK]      k1 → "Veri kümesinde dünya toplamı için 1970'ten önce gözlem bulunmaz."

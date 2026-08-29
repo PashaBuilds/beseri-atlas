@@ -1,5 +1,5 @@
 ## kavram-pasifik-isci-toplama
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.452Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:24.453Z_
 
 - [ATOMSUZ] k1 → "Pasifik işçi toplama düzeni, ada topluluklarından alınan kişilerin uzak plantasyonlarda çalıştırılmak üzere ta…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Varış yerleri şeker, pamuk ve hindistancevizi plantasyonlarıydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

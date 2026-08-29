@@ -1,9 +1,9 @@
 {
   "id": "tartisma-hacli-seferlerinin-nedeni",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:57.241Z",
+  "zaman": "2026-08-29T19:34:29.220Z",
   "govde_hash": "48054596d8ea",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k2",
@@ -98,8 +98,8 @@
     {
       "anahtar": "k3",
       "iddia": "Erdmann'ın hac temasını sonradan eklenmiş sayması ise kendi zayıf noktasıdır: sefere katılan din adamlarının bıraktığı metinlerde Kutsal Kabir merkezî bir yer t",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kutsal, Kabir"
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
@@ -135,13 +135,13 @@
       "anahtar": "k3",
       "iddia": "Bu okumanın gücü, kanıtını çağrının kendi metninden de alabilmesidir: Robert the Monk'ün aktardığı toprak darlığı savunusu ile Demirkent'in kuraklık ve açlık ta",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k4",
       "iddia": "Bu okumanın gücü, kanıtını çağrının kendi metninden de alabilmesidir: Robert the Monk'ün aktardığı toprak darlığı savunusu ile Demirkent'in kuraklık ve açlık ta",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Monk"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
@@ -253,7 +253,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Madden'ın değerlendirmesine göre bugünkü popüler haçlı tasavvurunu neredeyse tek başına Runciman kurdu; aynı yerde birçok araştırmacının onun eserini artık eski",
+      "iddia": "Thomas F. Madden'ın değerlendirmesine göre bugünkü popüler haçlı tasavvurunu neredeyse tek başına Runciman kurdu; aynı yerde birçok araştırmacının onun eserini ",
       "durum": "OK",
       "not": ""
     },

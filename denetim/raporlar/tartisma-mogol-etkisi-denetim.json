@@ -1,9 +1,9 @@
 {
   "id": "tartisma-mogol-etkisi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:57.958Z",
+  "zaman": "2026-08-29T19:34:31.158Z",
   "govde_hash": "14f184bc5ab0",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -290,8 +290,8 @@
     {
       "anahtar": "k4",
       "iddia": "Barışın kime yaradığı bölgeye göre değişir; Anadolu için çıkarılan bilanço, ağın merkez hattı için çıkarılan bilançodan farklı yönü gösterebilir.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Anadolu"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k6",

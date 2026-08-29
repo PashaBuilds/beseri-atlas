@@ -1,5 +1,5 @@
 ## olay-irlanda-kitligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T15:42:57.567Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:59.366Z_
 
 - [OK]      k1 → "Bugün Phytophthora infestans adıyla anılan hastalık aynı yıllarda Avrupa'nın patates tarlalarını baştan başa v…"
 - [OK]      k2 → "Sayım komiserleri, olağan doğum ve ölüm oranları sürseydi ve göçle gelen gidenle denkleşseydi 1851'de 9.018.79…"
@@ -13,7 +13,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T15:42:57.567Z_
 - [ATOMSUZ] k5 → "Aynı kaynak düşük ekimi patatese duyulan temkinle açıklar; tohumluğunu yitirenlere tohumluk patates sağlama pl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kıtlığın en ağır yılı bu yüzden hastalığın en şiddetli olduğu yıl değil, hastalığın çekildiği 1847'dir: tahliy…"
 - [OK]      k6 → "Mitchel'in aynı sayfalardaki tarifi, adanın kıtlık öncesindeki tuhaf konumunu tek cümlede toplar: ona göre İrl…"
-- [ATOMSUZ] k1 → "Lyons'a göre bu yanıt hızlı ve nispeten başarılıydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kıtlığın erken ve daha hafif evresine verilen yanıt Robert Peel'in Tory hükûmetinden geldi; tarihçi F. S. L. L…"
 - [OK]      k1 → "Kasım 1845'te hükûmet Amerika'dan gizlice 100.000 sterlinlik mısır ve mısır unu satın aldı; ilk sevkiyat hava …" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k5 → "Yardımı yürüten hazine yetkilisi Charles Edward Trevelyan, kendi anlatısında bu adımı aynı rakamla kaydeder."
 - [OK]      k1 → "Haziran 1846'da yerini Whig lideri Lord John Russell aldı."
@@ -25,7 +25,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T15:42:57.567Z_
 - [ATOMSUZ] k7 → "Gregory, sınırı önce yarım akre olarak düşündüğünü, ada koşullarını bilenlerin bunu fazla geniş bulması üzerin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k7 → "Maddeye karşı çıkan Curteis sonucun ne olacağını oturumda söyledi: çeyrek akrede patates yetiştiren bir köylü …"
 - [OK]      k7 → "Madde 117'ye karşı 7 oyla kabul edildi; tutanaktaki karşı oy listesi yedi addan ibarettir: Crawford, Scrope, E…"
-- [OK]      k1 → "Donnelly Jr., kıtlık yıllarında kaç kişinin evinden çıkarıldığını kesin olarak bilmenin mümkün olmadığını söyl…"
+- [OK]      k1 → "Tarihçi James S. Donnelly Jr., kıtlık yıllarında kaç kişinin evinden çıkarıldığını kesin olarak bilmenin mümkü…"
 - [OK]      k1 → "Donnelly bunu düşük bir sayı sayar: gönüllü görünen terkler de eklenirse 1846-1854 aralığında toplamın yarım m…"
 - [OK]      k1 → "İhracat tartışmasının en sert biçimi Mitchel'e aittir; kaynağın deyişiyle o günden bu yana ünlenmiş cümle onun…"
 - [OK]      k1 → "İhracat tartışmasının en sert biçimi Mitchel'e aittir; kaynağın deyişiyle o günden bu yana ünlenmiş cümle onun…"
@@ -33,7 +33,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T15:42:57.567Z_
 - [OK]      k4 → "Parlamentonun kendi getirimleri de aynı yöne bakar: yabancı ülkelerden ve sömürgelerden İrlanda'ya gelen tahıl…"
 - [OK]      k3 → "Eylül 1846 ile Temmuz 1847 arasını kapsayan ayrı bir getirimde tek başına mısır ithalatı 1.957.523 quarter ola…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k3 → "Aynı belgenin altındaki not, tartışmanın neden kapanmadığını açıklar: 1825'ten beri İrlanda ile Britanya arası…"
-- [OK]      k1 → "Daly'nin değerlendirmesine göre kıtlık yıllarında gıda ithalatının ihracatı belirgin biçimde aştığını gösteren…"
+- [OK]      k1 → "Mary E. Daly'nin değerlendirmesine göre kıtlık yıllarında gıda ithalatının ihracatı belirgin biçimde aştığını …"
 - [OK]      k8 → "Demografik bir yeniden kurmaya göre kıtlık döneminde adayı 1,3 milyon kişi terk etti ve bu kitlenin yolda ölen…"
 - [OK]      k1 → "En ağır yıllarda çıkış tek bir yılda 250.000'e yaklaştı; 1854'e gelindiğinde ülkeyi terk edenlerin toplamı 1,5…"
 - [OK]      k1 → "1847'de Kanada'ya giden 100.000'i aşkın yolcunun beşte birinin hastalık ve yetersiz beslenmeden öldüğü tahmin …"
@@ -43,16 +43,16 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T15:42:57.567Z_
 - [ATOMSUZ] k1 → "Sonraki tarihçiler cetvellerin gerçekten de eksik saydığında birleşir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Aynı kaynak gerçek sayının yarım milyon ile bir buçuk milyon arasında olmasını bekler ve en yaygın kabul gören…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k8 → "Aynı kaynak gerçek sayının yarım milyon ile bir buçuk milyon arasında olmasını bekler ve en yaygın kabul gören…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k8 → "Boyle ile Cormac Ó Gráda'nın 1986'da Demography dergisinde yayımladığı çalışma, kıtlık sonucu yaklaşık bir mil…"
+- [OK]      k8 → "O hesabın ayrıntısı şudur: Phelim P. Boyle ile Cormac Ó Gráda'nın 1986'da Demography dergisinde yayımladığı ça…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k8 → "Aynı çalışma kıtlığın doğurganlığı da düşürdüğünü, 300.000'den fazla doğumun hiç gerçekleşmediğini ve nüfusun …"
-- [OK]      k1 → "Rice ile Francis Boyle'dan, olayın soykırım olduğunu bildiren görüş aldı; kaynak, ikisinin de o güne dek İrlan…"
+- [OK]      k1 → "1996'da New Jersey eyaleti kıtlığı ortaokul müfredatındaki soykırım programına aldı; program kütüphaneci James…"
 - [OK]      k1 → "Karşı kanatta Ó Gráda soykırım iddiasını reddeder ve kastın bulunmadığını vurgular; Donald Akenson daha sert b…"
 - [OK]      k1 → "Robbie Mcveigh, iddianın uzun bir geçmişi olmasına rağmen soykırım çözümlemesinin araçlarının bu vakaya hiç uy…"
-- [OK]      k9 → "McGowan'ın 2017 tarihli değerlendirmesi, gazeteci Tim Pat Coogan'ın soykırım savını tarihsel kanıtın desteklem…"
+- [OK]      k9 → "Mark G. McGowan'ın 2017 tarihli değerlendirmesi, gazeteci Tim Pat Coogan'ın soykırım savını tarihsel kanıtın d…"
 - [ATOMSUZ] k1 → "Konuyu çalışan tarihçilerin çoğunluğu soykırım nitelemesini reddeder; soru kamusal tartışmada kapanmamıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Sayım komiserlerinin cetveline göre ada nüfusu 1851'de 6.552.385 iken 1856 başında 6.077.283'e inmişti; limanl…"
 - [ATOMSUZ] k1 → "Adanın nüfusu kıtlık öncesi düzeyine yirmi birinci yüzyıla kadar dönmedi; olayın en uzun süren izi budur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "1997'de Cork'ta düzenlenen anma töreninde Başbakan Tony Blair adına okunan ve Londra'daki yönetimin halkını yü…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Bir mantar hastalığının hikâyesi olarak okunursa 1845'te başlar ve 1852'de biter."
 
-**Özet:** 42 OK · 0 ISARET · 0 HATA · 11 ATOMSUZ
+**Özet:** 43 OK · 0 ISARET · 0 HATA · 10 ATOMSUZ

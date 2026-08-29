@@ -1,11 +1,11 @@
 ## dusunur-biruni
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.257Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:17.015Z_
 
 - [OK]      k1 → "Bîrûnî, Hârizm bölgesinde doğdu ve yetişti; sonraki yıllarında Gazneli sarayının çevresinde çalıştı."
 - [ATOMSUZ] k1 → "Çağdaşı ile aynı kuşaktandır ve ikisi de aynı siyasi coğrafyanın hanedan merkezlerinde çalışmıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Ama ilgi alanları ayrışır: biri metafizik ve tıp üzerinde yoğunlaşırken, öteki takvimler, ölçümler ve halkları…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, eserlerinin çokluğunu ve konu genişliğini öne çıkarır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ISARET]  k2 → "Bu dosya ikisine bağlanır: takvimler ve tarihlendirme üzerine olan Âsârü'l-bâkıye ile Hindistan üzerine olan T…" — özel isim kaynakta bulunamadı: Hindistan
+- [OK]      k2 → "Bu dosya ikisine bağlanır: takvimler ve tarihlendirme üzerine olan Âsârü'l-bâkıye ile Hindistan üzerine olan T…"
 - [OK]      k3 → "Bu dosya ikisine bağlanır: takvimler ve tarihlendirme üzerine olan Âsârü'l-bâkıye ile Hindistan üzerine olan T…"
 - [ATOMSUZ] k2 → "Âsârü'l-bâkıye, farklı halkların takvimlerini ve dönemlendirme sistemlerini yan yana koyar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Bir takvimi başka bir takvime çevirmek, o toplulukların başlangıç saydığı olayları da yan yana koymak demektir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -32,8 +32,8 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.257Z_
 - [ATOMSUZ] k1 → "Birincisi coğrafidir: yaşadığı bölgeyi etiket olarak taşıyan makale sayısı, bu dosya yazıldığında korpusun en …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Atlasın kendi kuralları — her iddianın kaynağını yanında taşıması, aktarma ile birincil metin arasındaki farkı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Bu dosya üç kaynağa dayanır: Türkçe akademik literatürden bir madde ve iki ayrı eserin kamu malı tam metni."
-- [ATOMSUZ] k2 → "Bu dosya üç kaynağa dayanır: Türkçe akademik literatürden bir madde ve iki ayrı eserin kamu malı tam metni." — programatik olarak ölçülemedi (ad karşılığı yok): Türkçe
-- [ATOMSUZ] k3 → "Bu dosya üç kaynağa dayanır: Türkçe akademik literatürden bir madde ve iki ayrı eserin kamu malı tam metni." — programatik olarak ölçülemedi (ad karşılığı yok): Türkçe
+- [OK]      k2 → "Bu dosya üç kaynağa dayanır: Türkçe akademik literatürden bir madde ve iki ayrı eserin kamu malı tam metni."
+- [OK]      k3 → "Bu dosya üç kaynağa dayanır: Türkçe akademik literatürden bir madde ve iki ayrı eserin kamu malı tam metni."
 - [ATOMSUZ] k2 → "Eserlerin kullanılan çevirileri on dokuzuncu yüzyıla aittir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Eserlerin kullanılan çevirileri on dokuzuncu yüzyıla aittir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Bu dosyanın bağlandığı iki metin de on dokuzuncu yüzyılda yapılmış çevirilerdir ve ikisi de aynı çevirmenin el…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -42,4 +42,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.257Z_
 - [ATOMSUZ] k1 → "Mineraloji ve eczacılık üzerine yazdıkları da kapsam dışıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Hindistan eserindeki din ve felsefe bölümlerinin içeriği de burada özetlenmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 3 OK · 1 ISARET · 0 HATA · 36 ATOMSUZ
+**Özet:** 6 OK · 0 ISARET · 0 HATA · 34 ATOMSUZ

@@ -1,5 +1,5 @@
 ## aktor-abbasi-hilafeti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.721Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:05.828Z_
 
 - [OK]      k1 → "Hâşim'den alır ve 750 ile 1258 yılları arasında hüküm sürmüştür; ilk atalarına nispetle bu hanedana Hâşimîler …"
 - [OK]      k1 → "Hanedanın adını doğrudan Peygamber'in amcasından alması tesadüf değil, meşruiyetin taşıyıcısıdır."

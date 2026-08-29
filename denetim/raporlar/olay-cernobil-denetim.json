@@ -1,9 +1,9 @@
 {
   "id": "olay-cernobil",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:44.329Z",
+  "zaman": "2026-08-29T19:33:57.066Z",
   "govde_hash": "d75a7c4f0fcb",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -27,7 +27,7 @@
       "anahtar": "k1",
       "iddia": "Kaynak müdahalenin 500.000'den fazla personel gerektirdiğini ve tahminen 18 milyar ruble tuttuğunu yazar; aynı paragrafta toplam maliyet için 700 milyar ABD dol",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

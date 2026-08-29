@@ -1,5 +1,5 @@
 ## olay-arap-bahari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T15:42:53.602Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:55.366Z_
 
 - [OK]      k9 → "Tunus'ta bir seyyar satıcının kendini yakmasının ardından sokağa çıkan kalabalıklar, önce kendi cumhurbaşkanla…"
 - [OK]      k9 → "Aynı aylarda Bahreyn ve Suriye'de de kitlesel gösteriler başladı; dalga boyunca ikisinde de yönetim yerinde ka…" — 1 atom doğrulandı; 4 ad ölçülemedi

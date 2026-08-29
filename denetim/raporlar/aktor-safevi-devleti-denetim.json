@@ -1,9 +1,9 @@
 {
   "id": "aktor-safevi-devleti",
   "gecis": 2,
-  "zaman": "2026-08-29T19:14:33.747Z",
+  "zaman": "2026-08-29T19:34:14.976Z",
   "govde_hash": "af43f5ac32d3",
-  "commit": "f403bfb",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k5",
@@ -157,7 +157,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Abbas köprüler ve kervansaraylar yaptırarak yol ağını güvenli kılmış, İpek yolunun güzergâhını İsfahan'dan geçirmek için Kevir çölünü kateden bir yol inşa ettir",
+      "iddia": "I. Abbas köprüler ve kervansaraylar yaptırarak yol ağını güvenli kılmış, İpek yolunun güzergâhını İsfahan'dan geçirmek için Kevir çölünü kateden bir yol inşa et",
       "durum": "OK",
       "not": ""
     },
@@ -169,7 +169,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Abbas, Ermeni tüccarların Avrupa bağlantısından yararlanmak için Azerbaycan'ın Culfa şehrindeki Ermenilerin büyük bölümünü İsfahan'a nakletti ve onlara geniş im",
+      "iddia": "I. Abbas, Ermeni tüccarların Avrupa bağlantısından yararlanmak için Azerbaycan'ın Culfa şehrindeki Ermenilerin büyük bölümünü İsfahan'a nakletti ve onlara geniş",
       "durum": "OK",
       "not": ""
     },
@@ -187,9 +187,9 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Abbas tarafından tahrip edildiğini, Culfa ve çevresindeki halkın yaşlı genç demeden İran'a sürüldüğünü yazar; verdiği sayıya göre 27.000'den fazla Ermeni ailesi",
+      "iddia": "Fransız kuyumcu Jean-Baptiste Tavernier, Erivan ile Tebriz arasındaki bütün ülkenin Osmanlı orduları geçim bulamasın diye I. Abbas tarafından tahrip edildiğini,",
       "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Culfa, İran, Ermeni"
+      "not": "özel isim kaynakta bulunamadı: Jean-Baptiste, Tebriz"
     },
     {
       "anahtar": "k3",

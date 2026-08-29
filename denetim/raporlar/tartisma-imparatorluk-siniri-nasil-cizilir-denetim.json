@@ -1,9 +1,9 @@
 {
   "id": "tartisma-imparatorluk-siniri-nasil-cizilir",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:57.492Z",
+  "zaman": "2026-08-29T19:34:29.816Z",
   "govde_hash": "604c456d52bb",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -73,7 +73,7 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "Whittaker'ın Roma sınırlarına ayırdığı 1994 tarihli kitabı, daha adında sınırı askeri bir hattan çok toplumsal ve iktisadi bir inceleme nesnesi olarak sunar.",
+      "iddia": "C. R. Whittaker'ın Roma sınırlarına ayırdığı 1994 tarihli kitabı, daha adında sınırı askeri bir hattan çok toplumsal ve iktisadi bir inceleme nesnesi olarak sun",
       "durum": "OK",
       "not": ""
     },

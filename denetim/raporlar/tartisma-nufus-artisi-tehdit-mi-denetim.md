@@ -1,13 +1,13 @@
 ## tartisma-nufus-artisi-tehdit-mi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.018Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:31.383Z_
 
 - [OK]      k2 → "Thomas Malthus 1798'de, insan sayısının geçim araçlarından daha hızlı büyüme eğiliminde olduğunu savunan bir d…"
 - [ATOMSUZ] k6 → "Sorunun iki yüzyıllık kaydı, iki tarafa da malzeme veren serilerle dolu: artış hızı yavaşlıyor, verim yükseliy…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k8 → "Sorunun iki yüzyıllık kaydı, iki tarafa da malzeme veren serilerle dolu: artış hızı yavaşlıyor, verim yükseliy…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k10 → "Sorunun iki yüzyıllık kaydı, iki tarafa da malzeme veren serilerle dolu: artış hızı yavaşlıyor, verim yükseliy…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Malthus ile Ehrlich büyümenin sınıra koştuğunu, Boserup ile Simon baskının uyarlanma ürettiğini savunur; üçünc…" — 1 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k4 → "Malthus ile Ehrlich büyümenin sınıra koştuğunu, Boserup ile Simon baskının uyarlanma ürettiğini savunur; üçünc…" — 1 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k10 → "Malthus ile Ehrlich büyümenin sınıra koştuğunu, Boserup ile Simon baskının uyarlanma ürettiğini savunur; üçünc…" — programatik olarak ölçülemedi (ad karşılığı yok): Ehrlich, Boserup, Simon
+- [OK]      k2 → "Malthus ile Ehrlich büyümenin sınıra koştuğunu, Boserup ile Simon baskının uyarlanma ürettiğini savunur; üçünc…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Malthus ile Ehrlich büyümenin sınıra koştuğunu, Boserup ile Simon baskının uyarlanma ürettiğini savunur; üçünc…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k10 → "Malthus ile Ehrlich büyümenin sınıra koştuğunu, Boserup ile Simon baskının uyarlanma ürettiğini savunur; üçünc…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Denemenin çekirdeği iki büyüme biçimi arasındaki farktır: "Nüfus, denetlenmediğinde geometrik oranda artar; ge…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Denemenin çekirdeği iki büyüme biçimi arasındaki farktır: "Nüfus, denetlenmediğinde geometrik oranda artar; ge…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k2 → "Önleyici engel doğumları kısar; geç evlilik ve evlenmeme bu sınıfa girer." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -24,7 +24,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.018Z_
 - [OK]      k6 → "Küresel artış hızı ise kitap raflara çıktığında tepe noktasını çoktan görmüştü: seri 1963'te yüzde 2,283 ile z…"
 - [OK]      k4 → "Ester Boserup 1965'te yayımlanan The Conditions of Agricultural Growth ile nedensellik okunu tersine çevirdi; …"
 - [ATOMSUZ] k4 → "Boserup'a göre artan nüfus, nadası kısaltmaya, emeği yoğunlaştırmaya ve yeni teknikleri denemeye zorlar; gıda …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Malthus'ta gıda sabittir ve nüfus ona uyar; Boserup'ta nüfus verilidir ve tarım ona uyar." — programatik olarak ölçülemedi (ad karşılığı yok): Boserup
+- [OK]      k2 → "Malthus'ta gıda sabittir ve nüfus ona uyar; Boserup'ta nüfus verilidir ve tarım ona uyar."
 - [OK]      k4 → "Malthus'ta gıda sabittir ve nüfus ona uyar; Boserup'ta nüfus verilidir ve tarım ona uyar."
 - [OK]      k5 → "The Ultimate Resource başlığındaki nihai kaynak, hammaddeler değil insan zekâsıdır; kıtlaşan her girdinin yüks…"
 - [OK]      k1 → "The Ultimate Resource başlığındaki nihai kaynak, hammaddeler değil insan zekâsıdır; kıtlaşan her girdinin yüks…"
@@ -66,4 +66,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.018Z_
 - [ATOMSUZ] k1 → "Sonradan yapılan hesap, girseydi göstergelerin on birinde kaybedeceğini gösterdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Son soru mekanizmanın kalbine dönüyor: doğurganlığın zorlamasız düşüşü, Malthus'un önleyici engelinin yumuşamı…"
 
-**Özet:** 38 OK · 0 ISARET · 0 HATA · 26 ATOMSUZ
+**Özet:** 40 OK · 0 ISARET · 0 HATA · 24 ATOMSUZ

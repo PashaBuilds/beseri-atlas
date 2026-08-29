@@ -1,7 +1,7 @@
 ## dusunur-hegel
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.663Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:17.873Z_
 
-- [OK]      k1 → "von Schelling ile birlikte anılan bir düşünür olarak kaydeder; 1770'te Stuttgart'ta doğduğu ve 1788-1793 arası…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Kaynak onu 1770-1831 arasında yaşamış, J. G. Fichte ve en azından erken eserlerinde F. W. J. von Schelling ile…" — 8 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak felsefesine dair okumaları alt başlıklar hâlinde sıralar: geleneksel metafizik görüş, kimi zaman metafi…"
 - [ATOMSUZ] k2 → "Okumalardan birinin adını aldığı düşünür dosyasında ele alınıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak, Schelling ile yakın çalıştıklarını, birlikte bir dergiyi düzenleyip ona katkıda bulunduklarını ve bu i…"

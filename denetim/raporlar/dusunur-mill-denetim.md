@@ -1,5 +1,5 @@
 ## dusunur-mill
-_Geçiş 2 — kaynak denetimi · 2026-08-29T16:56:25.977Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:19.958Z_
 
 - [ATOMSUZ] k1 → "Kişinin kendi iyiliği, ister bedensel ister ahlaki olsun, yeterli bir gerekçe sayılmaz; ona akıl verilebilir, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k7 → "Bugün zarar ilkesi denen ölçüt budur ve kask zorunluluğundan uyuşturucu politikasına kadar paternalizm tartışm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

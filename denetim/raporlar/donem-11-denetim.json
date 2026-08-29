@@ -1,9 +1,9 @@
 {
   "id": "donem-11",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:42.033Z",
+  "zaman": "2026-08-29T19:33:51.660Z",
   "govde_hash": "73315368f3f4",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -37,9 +37,9 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "yüzyılın sonlarına doğru başlayan yapısal değişim, bu dönemde II.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Osmanlı Devleti'nde 18. yüzyılın sonlarına doğru başlayan yapısal değişim, bu dönemde II.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",

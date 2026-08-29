@@ -1,32 +1,32 @@
 ## tartisma-soguk-savasin-baslangici
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.210Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:31.907Z_
 
 - [OK]      k1 → "Soğuk Savaş'ın kimin eseri olduğu sorusu, tarihçilerin yaygın olarak üç ayrı yaklaşım saydığı bir tartışmanın …" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Aynı sayımı yapan literatür bir uyarı da düşer: bu alandaki tarih yazımının çoğu, üç geniş kategoriden ikisini…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Sorunun önemi cevabının ötesindedir, çünkü her okul kendi on yılının siyasetiyle birlikte doğdu: revizyonist d…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k4 → "Şubat 1945'te Yalta'da kabul edilen Kurtarılmış Avrupa Bildirisi, üç hükümetin, kurtarılmış ülkelerde halkın i…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k5 → "Aynı yılın Ağustos'unda kabul edilen Potsdam protokolü, barış düzenlemelerini hazırlamak üzere bir Dışişleri B…" — 1 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k2 → "Kennan'ın Foreign Affairs'te 1947'de X imzasıyla çıkan yazısı, Sovyetler'e dönük Amerikan siyasetinin özünü "l…"
+- [OK]      k2 → "George F. Kennan'ın Foreign Affairs'te 1947'de X imzasıyla çıkan yazısı, Sovyetler'e dönük Amerikan siyasetini…"
 - [ATOMSUZ] k2 → "Aynı metin bu çevrelemenin nasıl işleyeceğini de anlatır: Sovyet baskısı, sürekli yer değiştiren coğrafi ve si…" — programatik olarak ölçülemedi (ad karşılığı yok): Sovyet
 - [OK]      k3 → "Aynı yılın 12 Mart'ında Truman, Yunanistan ile Türkiye'ye yardım talebi vesilesiyle Kongre önünde konuştu ve B…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Okulları ayıran, bu metinlerden hangisinin esas alınacağıdır: ortodoks okuma Yalta taahhütleri ile Doğu Avrupa…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Savaşın bitimini izleyen on yılı aşkın sürede az sayıda Amerikan tarihçisi, Soğuk Savaş'ın başlangıcına dair r…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k1 → "Bailey, 1950 tarihli America Faces Russia'da savaş sonrası barışın çöküşünü savaşı izleyen yıllardaki Sovyet y…" — 4 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k4 → "Bailey, 1950 tarihli America Faces Russia'da savaş sonrası barışın çöküşünü savaşı izleyen yıllardaki Sovyet y…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Thomas A. Bailey, 1950 tarihli America Faces Russia'da savaş sonrası barışın çöküşünü savaşı izleyen yıllardak…"
+- [OK]      k4 → "Thomas A. Bailey, 1950 tarihli America Faces Russia'da savaş sonrası barışın çöküşünü savaşı izleyen yıllardak…"
 - [OK]      k1 → "Herbert Feis de Churchill, Roosevelt, Stalin ve From Trust to Terror gibi çalışmalarında benzer bir çerçeve ku…"
 - [OK]      k1 → "Bu görüşten bakınca Truman Doktrini ile Marshall Planı, Sovyet baskısına verilmiş zorunlu cevaplardı." — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Okulun üretim koşulu, sonraki eleştirinin de kapısıdır: bu anlatı, resmî yorumun akademide neredeyse sorgusuz …"
 - [OK]      k1 → "Sovyet tarafında tablo simetrik görünür ama üretim koşulu farklıdır: Soğuk Savaş dönemine dair Sovyet tarih ya…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "Devlet eliyle yazılmış bir literatürün pozisyonu yine de kayda girer, çünkü alanda fiilen üretilmiş bir külliy…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Davies, Carr'ı Sovyetler Birliği'ni dünyadaki başlıca ilerici güç sayan ve Soğuk Savaş'ı Sovyetler'e karşı Ame…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Britanya'da E. H. Carr, 1920'lere odaklanan ve 1950-1978 arasında yayımlanan on dört ciltlik bir Sovyetler Bir…" — 6 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Vietnam Savaşı bağlamında yazan revizyonistler, Birleşik Devletler'in uluslararası rolünü imparatorluk ya da h…" — programatik olarak ölçülemedi (ad karşılığı yok): Savaşı, Birleşik, Devletler
 - [OK]      k1 → "Okulun ortak referansı, William Appleman Williams'ın 1959 tarihli The Tragedy of American Diplomacy kitabıydı:…"
 - [OK]      k6 → "Okulun ortak referansı, William Appleman Williams'ın 1959 tarihli The Tragedy of American Diplomacy kitabıydı:…"
 - [OK]      k1 → "Williams'ı izleyenler, savaş sonrası barışın bozulmasında sorumluluğun daha büyük payını Birleşik Devletler'e …" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Aynı literatür, Sovyet önderliğinin savaş sonrasında komünizmi yayma kararlılığı taşıdığı yolundaki yerleşik k…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kimi revizyonistler kökenleri Rus İç Savaşı'ndaki müttefik müdahalesine kadar geri götürdü." — 1 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "yüzyılda Doğu Asya'nın Amerikan ticaretine açılması üzerindeki Rus-Amerikan çekişmesine kadar geri götürdü." — 2 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k8 → "yüzyılda Doğu Asya'nın Amerikan ticaretine açılması üzerindeki Rus-Amerikan çekişmesine kadar geri götürdü." — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Wisconsin okulundan Walter LaFeber, America, Russia, and the Cold War başlıklı incelemesinde gerilimi 19. yüzy…"
+- [OK]      k8 → "Wisconsin okulundan Walter LaFeber, America, Russia, and the Cold War başlıklı incelemesinde gerilimi 19. yüzy…"
 - [OK]      k1 → "Gar Alperovitz'in 1965 tarihli Atomic Diplomacy: Hiroshima and Potsdam kitabı tartışmayı atom bombasına taşıdı…"
 - [OK]      k7 → "Gar Alperovitz'in 1965 tarihli Atomic Diplomacy: Hiroshima and Potsdam kitabı tartışmayı atom bombasına taşıdı…"
 - [OK]      k1 → "Joyce ve Gabriel Kolko'nun The Limits of Power çalışması ise Amerikan politikasını refleks hâlinde antikomünis…"
@@ -34,9 +34,9 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.210Z_
 - [ATOMSUZ] k1 → "Bu okumada Soğuk Savaş iki blok arasındaki rekabetten çok, her bloktaki egemen devletlerin kendi nüfuslarını v…" — programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş
 - [OK]      k1 → "John Lewis Gaddis'in 1972 tarihli The United States and the Origins of the Cold War kitabı, çeşitli yorumları …"
 - [OK]      k1 → "Gaddis yine de Amerikan karar alıcılarının iç siyaset kısıtlarını vurguladı ve revizyonistleri, özellikle Will…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "Paterson ise 1973 tarihli Soviet-American Confrontation'da Sovyet düşmanlığı ile Birleşik Devletler'in savaş s…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Thomas G. Paterson ise 1973 tarihli Soviet-American Confrontation'da Sovyet düşmanlığı ile Birleşik Devletler'…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Gaddis'in 1983'te yaptığı damıtma, sonraki Soğuk Savaş araştırmalarını yönlendiren başlıca kanallardan biri ol…" — 1 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k1 → "Leffler, Amerikan girişimlerini tetikleyenin Kremlin'in eylemlerinden çok sosyoekonomik çözülmeye, devrimci mi…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Melvyn P. Leffler, Amerikan girişimlerini tetikleyenin Kremlin'in eylemlerinden çok sosyoekonomik çözülmeye, d…"
 - [OK]      k11 → "A Preponderance of Power bu okumayı Truman yönetiminin ulusal güvenlik kavrayışı üzerinden işledi."
 - [OK]      k1 → "Bu çıkış Gaddis cephesinden sert karşılıklar gördü, Leffler itirazları isabetsiz saydı ve yine de genel post-r…"
 - [OK]      k1 → "Aynı literatürden, suçlu aramaktan çok iki tarafın algılarına bakan bir damar da çıktı: Ernest May 1984 tarihl…" — 3 atom doğrulandı; 2 ad ölçülemedi

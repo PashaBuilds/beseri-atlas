@@ -1,17 +1,41 @@
 # Çürütücü raporu — aktor-baglantisizlar-hareketi
-_2026-08-21T07:21:15.601Z_
+_2026-08-29T19:23:43.857Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 
-**Cümle:** "Hareketin kuruluşu tek bir toplantıya değil bir diziye dayanır. Kaynak zinciri şöyle verir: Eylül 1957'de Kahire'deki Afro-Asya Halkları Dayanışma Konferansı ve ardından 1961'deki "
+**Cümle:** "Hareketi kuran şey Bandung değil, altı yıl sonraki bir tanım kavgasıdır. Fikir 1961 baharında Tito, Nasır ve Sukarno arasındaki karşılıklı ziyaretlerden çıktı; CIA'nın Ağustos 1961"
 
-**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
+**Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
 
 **Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
 
 ## İtiraz 2 — [ciddiyet: dusuk] ustunluk-iddiasi
 
-**Cümle:** "Yani hareketin kuruluşu 1955'ten 1961'e uzanan altı yıla yayılır.[^k1] Bir kurumun doğuşunun bu kadar uzun sürmesi, blok dışı kalma fikrinin örgütsel bir biçime çevrilmesinin kolay"
+**Cümle:** "Beklentiler zaten aynı değildi. Tito, Yugoslavya konferanstaki tek Avrupa devleti olacağı için Avrupa ve Almanya üzerine söyleyeceklerinin özel bir ağırlık taşıyacağına inanıyordu;"
+
+**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
+
+**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
+
+## İtiraz 3 — [ciddiyet: dusuk] ustunluk-iddiasi
+
+**Cümle:** "Zirvenin bildirisi hareketin tanımını verir: bağlanmamış alanın genişlemesi, dünyanın bloklara tam olarak bölünmesi ve Soğuk Savaş siyasetlerinin yoğunlaşması karşısındaki tek mümk"
+
+**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
+
+**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
+
+## İtiraz 4 — [ciddiyet: orta] tek-kaynakli-nedensellik
+
+**Cümle:** "Hareketin ağırlığı orduda değil oylamadaydı; bunu Bandung daha 1955'te görmüştü. Konferans, [Birleşmiş Milletler](/aktor/birlesmis-milletler/) üyeliğinin evrensel olması gerektiğin"
+
+**Sorun:** Nedensellik iddiası tek kaynağa (k1) dayanıyor.
+
+**Öneri:** İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla.
+
+## İtiraz 5 — [ciddiyet: dusuk] ustunluk-iddiasi
+
+**Cümle:** "İki dosya bağlantısızlığın sınırını görünür kıldı. Hindistan'ın BM'deki ilk Afganistan tartışmasında Sovyet müdahalesinin görüşülmesine karşı çıkan açıklaması, ılımlı bağlantısız d"
 
 **Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
 

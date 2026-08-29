@@ -1,15 +1,15 @@
 ## aktor-kilva
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.042Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:11.627Z_
 
 - [OK]      k1 → "Kilva, Doğu Afrika kıyısında bir ada üzerinde kurulmuş liman şehridir ve kıyı boyunca uzanan şehir devletleri …"
 - [OK]      k2 → "Kilva, Doğu Afrika kıyısında bir ada üzerinde kurulmuş liman şehridir ve kıyı boyunca uzanan şehir devletleri …"
 - [ATOMSUZ] k1 → "Şehir, karadan gelen mal ile denizden gelen mal arasındaki değişim noktasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "İç bölgeden çıkan altın ve fildişi buradan Hint Okyanusu ağına girer; okyanustan gelen kumaş, seramik ve boncu…"
-- [ATOMSUZ] k3 → "İç bölgeden çıkan altın ve fildişi buradan Hint Okyanusu ağına girer; okyanustan gelen kumaş, seramik ve boncu…" — programatik olarak ölçülemedi (ad karşılığı yok): Hint, Okyanusu
+- [OK]      k3 → "İç bölgeden çıkan altın ve fildişi buradan Hint Okyanusu ağına girer; okyanustan gelen kumaş, seramik ve boncu…"
 - [OK]      k1 → "Kilva'yı yalnızca Afrika etiketiyle kaydetmek onu Hint Okyanusu ağından koparırdı; yalnızca ticaret ağıyla kay…"
-- [OK]      k3 → "Kilva'yı yalnızca Afrika etiketiyle kaydetmek onu Hint Okyanusu ağından koparırdı; yalnızca ticaret ağıyla kay…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Kilva'yı yalnızca Afrika etiketiyle kaydetmek onu Hint Okyanusu ağından koparırdı; yalnızca ticaret ağıyla kay…"
 - [OK]      k1 → "Hint Okyanusu ticareti mevsimlik rüzgârlarla işler."
-- [ATOMSUZ] k3 → "Hint Okyanusu ticareti mevsimlik rüzgârlarla işler." — programatik olarak ölçülemedi (ad karşılığı yok): Okyanusu
+- [OK]      k3 → "Hint Okyanusu ticareti mevsimlik rüzgârlarla işler."
 - [ATOMSUZ] k1 → "Bir tüccarın aylarca beklemesi gerekiyorsa, limanın onu barındıracak, koruyacak ve anlaşmazlığını çözecek kuru…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kıyıya gelen altının kaynağı sahil değil, iç bölgedeki yaylalardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "İki siyasi düzen ayrıdır, kayıtları ayrıdır ve biri hakkında bilinenler öbürü hakkında bilinenlerle aynı türde…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -53,4 +53,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.042Z_
 - [ATOMSUZ] k3 → "Son bir uyarı: bu dosya bir liman şehrini kaydeder ama şehrin bağlı olduğu ağın tamamını kapsamaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Ağın tamamının kaydedilmesi, atlasın kapsam planında ayrı bir iş kalemidir ve bu dosyanın bıraktığı notlarla b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 11 OK · 2 ISARET · 0 HATA · 38 ATOMSUZ
+**Özet:** 13 OK · 2 ISARET · 0 HATA · 36 ATOMSUZ

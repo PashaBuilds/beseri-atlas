@@ -1,11 +1,11 @@
 ## aktor-ace-sultanligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.800Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:05.983Z_
 
 - [OK]      k1 → "Açe Sultanlığı, büyük bir adanın kuzey ucunda, Hint Okyanusu'ndan boğaza girmeden önceki son noktada kurulmuşt…"
-- [ISARET]  k2 → "Açe Sultanlığı, büyük bir adanın kuzey ucunda, Hint Okyanusu'ndan boğaza girmeden önceki son noktada kurulmuşt…" — özel isim kaynakta bulunamadı: Okyanusu
+- [OK]      k2 → "Açe Sultanlığı, büyük bir adanın kuzey ucunda, Hint Okyanusu'ndan boğaza girmeden önceki son noktada kurulmuşt…"
 - [ATOMSUZ] k1 → "Boğazın denetimi bir başka güce geçtiğinde, buradaki liman boğaza girmeden okyanusa açılan alternatif bir güze…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Atlasın dosyası boğazın kendisini anlatır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ISARET]  k1 → "Boğazın Avrupa donanmalarınca denetim altına alınması, bölgedeki ticaretin sona ermesi anlamına gelmedi." — özel isim kaynakta bulunamadı: Avrupa
+- [OK]      k1 → "Boğazın Avrupa donanmalarınca denetim altına alınması, bölgedeki ticaretin sona ermesi anlamına gelmedi."
 - [OK]      k2 → "Boğazın Avrupa donanmalarınca denetim altına alınması, bölgedeki ticaretin sona ermesi anlamına gelmedi."
 - [ATOMSUZ] k1 → "Bu, atlasın kaydettiği en açık abluka aşma örneğidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Sonuç, denetim kuran tarafın beklediğinden farklı oldu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -53,7 +53,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.800Z_
 - [ATOMSUZ] k2 → "Sultanlık, adanın öteki liman şehirleriyle sürekli bir rekabet içindeydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ISARET]  k1 → "Bu çokluk, atlasın Doğu Afrika kıyısı için de kaydettiği yapıyla aynıdır." — özel isim kaynakta bulunamadı: Afrika
 - [ATOMSUZ] k2 → "İki bölgenin benzerliği, aynı deniz ağının iki ucunda bulunmalarıyla ilgilidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ISARET]  k1 → "Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki altıncı dosyadır ve bölgeyi Avrupa donanmalarının gelişind…" — özel isim kaynakta bulunamadı: Avrupa
+- [OK]      k1 → "Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki altıncı dosyadır ve bölgeyi Avrupa donanmalarının gelişind…"
 - [OK]      k2 → "Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki altıncı dosyadır ve bölgeyi Avrupa donanmalarının gelişind…"
 - [ATOMSUZ] k1 → "Dosyanın seçilme gerekçesi, bölgenin sömürge dönemine tek bir anlatıyla girmediğini göstermektir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Bu ayrım, atlasın sömürgecilik dosyalarını okumak için gereklidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -66,4 +66,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.800Z_
 - [ATOMSUZ] k1 → "Okur bu farkı bilerek okumalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Bölgeyi yüz elli yıl önce görmüş tanık için , sömürge döneminin bilançosunun nasıl tartışıldığı için dosyaları…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 5 OK · 4 ISARET · 0 HATA · 55 ATOMSUZ
+**Özet:** 8 OK · 1 ISARET · 0 HATA · 55 ATOMSUZ

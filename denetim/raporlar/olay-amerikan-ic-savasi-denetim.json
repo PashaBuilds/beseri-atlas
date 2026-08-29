@@ -1,15 +1,15 @@
 {
   "id": "olay-amerikan-ic-savasi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:43.670Z",
+  "zaman": "2026-08-29T19:33:54.915Z",
   "govde_hash": "3f2900ab3a84",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
       "iddia": "Kaynak, 2 Nisan 2012 tarihli bir gazete haberine dayanarak yeni bir çalışmanın ölü sayısını tahmini 650.000'den 850.000'e yükselttiğini aktarır.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -37,7 +37,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Grant ve Andrew Johnson sayılır; Lincoln suikaste kurban gitmiştir.",
+      "iddia": "Komutanlar arasında Abraham Lincoln, Ulysses S. Grant ve Andrew Johnson sayılır; Lincoln suikaste kurban gitmiştir.",
       "durum": "OK",
       "not": ""
     },

@@ -1,9 +1,9 @@
 {
   "id": "veri-kisi-basi-gsyh-1-2022",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:59.781Z",
+  "zaman": "2026-08-29T19:34:35.028Z",
   "govde_hash": "69aec4492fb3",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -49,9 +49,9 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "yüzyıl başında karşılaştırılabilir iktisadi gelişme düzeylerine ulaştığını savunan bir kitabı anlatır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Bu tür serilerin tartışıldığı bir tez için tutulan kayıt, Avrupa ve Asya'nın en gelişmiş bölgelerinin 19. yüzyıl başında karşılaştırılabilir iktisadi gelişme dü",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",

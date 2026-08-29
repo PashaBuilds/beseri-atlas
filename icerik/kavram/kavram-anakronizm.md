@@ -74,6 +74,8 @@ kaynaklar:
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "historical alterity"
     not: "Ozet alani dolu; destek ozet duzeyindedir, makalenin tam metni havuzda degil"
+kaynak_siniri: >-
+  Alanın en çok atıf alan çalışması (Skinner 1969) dosyada yalnızca künye düzeyinde anılıyor: tam metni açık erişimde yok ve üstveri kaydının özet alanı boş. Kavramın kendi tarihine dair iddialar bu yüzden ikincil literatürün taşıdığı kadarıyla kuruluyor.
 son_denetim: 2026-08-29
 denetim_durumu: onaylandi
 onarim_turu: 1

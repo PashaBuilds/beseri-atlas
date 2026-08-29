@@ -1,5 +1,5 @@
 ## olay-kirim-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T15:42:59.002Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:00.791Z_
 
 - [OK]      k1 → "Kırım Savaşı, Rusya'yı bir yanda Osmanlı Devleti, Fransa, Britanya ve Sardinya ile karşı karşıya getiren, ana …" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Görünürdeki çıkış noktası, Filistin'deki Hristiyan kutsal yerlerinin hangi kilisenin yönetiminde olacağı tartı…"

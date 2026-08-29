@@ -1,9 +1,9 @@
 ## kavram-millet-sistemi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.306Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:24.198Z_
 
 - [OK]      k1 → "Kaynak bölümlerini sıralar: terim, kavram, Osmanlı hiyerarşisi içindeki konum, belirli milletler ve tarih."
 - [ATOMSUZ] k1 → "Bir sözcüğün ve onun adlandırdığı düzenin ayrı bölümler olarak tutulması, atlasın terim kilidi kapısının kurum…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "yüzyıl için ayrı bir alt başlık ayırır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kaynak, tarih bölümünün altında terimin Sasani İmparatorluğu için kullanımını ayrı bir alt başlık olarak tutar…"
 - [OK]      k1 → "Bir Osmanlı kurumunun adının başka bir imparatorluk için de kullanılmış olarak kaydedilmesi, atlasın şu kuralı…"
 - [OK]      k1 → "Kaynak belirli milletler başlığı altında Ortodoks Hıristiyanlar, Ermeniler, Süryaniler, Yahudiler, Roma Katoli…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "Cemaatlerin ayrı ayrı sayılması, sistemin tek bir kalıp değil cemaat cemaat düzenlenmiş bir yapı olarak kayded…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -36,6 +36,6 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.306Z_
 - [ATOMSUZ] k3 → "Terimin bugünkü kullanımı, dönemin kendi kullanımıyla tam örtüşmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Atlas bu kaymayı ayrıca kaydeder." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Bir terimi bugünkü anlamıyla geçmişe uygulamak, atlasın anakronizm dosyasında tanımlanan hatadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "yüzyıldaki dönüşümü burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sistemin işleyişi, hukuki dayanakları ve 19. yüzyıldaki dönüşümü burada ayrı başlıklar altında ele alınmamıştı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 3 OK · 0 ISARET · 0 HATA · 33 ATOMSUZ
+**Özet:** 4 OK · 0 ISARET · 0 HATA · 32 ATOMSUZ

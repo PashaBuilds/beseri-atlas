@@ -1,5 +1,5 @@
 ## olay-balkan-savaslari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:43.882Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:55.934Z_
 
 - [OK]      k1 → "Balkan Savaşı, Osmanlı Devleti ile Balkan devletleri arasında iki safhada yapılan savaştır ve 8 Ekim 1912 ile …"
 - [OK]      k1 → "Rusya'nın kışkırtmaları sonunda Osmanlı Devleti'ne ait toprakların taksimi esası üzerinde bir dizi antlaşma im…"

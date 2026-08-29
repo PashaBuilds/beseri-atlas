@@ -1,7 +1,7 @@
 ## aktor-khmer-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.029Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:11.604Z_
 
-- [OK]      k1 → "yüzyıldan sonra Angkor."
+- [OK]      k1 → "Gerileme bölümü beş alt başlık taşır: Hinduizm'den Budizm'e geçiş, dış baskı, ekolojik çöküş, salgın ve 15. yü…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Listede bir din değişimi, bir askerî basınç, bir çevre olayı ve bir salgın yan yana durur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir imparatorluğun referans maddesinde çevresel bozulmanın kendi alt başlığını taşıması, atlas için kayda değe…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Jayavarman dönemi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## kaynak-konfucyus-lunyu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:01.064Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:36.880Z_
 
 - [OK]      k1 → "Kaynak eseri Lunyu adıyla anar ve tarih bölümünün altında metnin oluşumu, metin tarihi, Konfüçyüsçülük içindek…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kaynak, içerik başlığı altında toplumsal felsefe, siyaset felsefesi, eğitim ve bölümler alt başlıklarını tutar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

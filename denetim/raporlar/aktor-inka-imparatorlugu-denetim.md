@@ -1,5 +1,5 @@
 ## aktor-inka-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T16:09:54.698Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:11.233Z_
 
 - [ATOMSUZ] k1 → "İnka düzenini Avrasya'da uygarlığın ölçütü sayılan özelliklerden ayıran şeylerin bir bölümü yokluklardır: teke…" — programatik olarak ölçülemedi (ad karşılığı yok): Avrasya
 - [OK]      k1 → "Buna karşılık And dağlarının sırtı boyunca imparatorluğun her köşesine uzanan bir yol ağı, ince dokunmuş kumaş…"
@@ -44,7 +44,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T16:09:54.698Z_
 - [ATOMSUZ] k2 → "İkinci tür mitimaes, Andların doğu yamaçlarındaki orman sınırında kaptanlar altında garnizon kuranlardı." — programatik olarak ölçülemedi (ad karşılığı yok): Andların
 - [ATOMSUZ] k2 → "Üçüncüsü kaynağın kendisine daha da tuhaf görünür: fetih sırasında iklimi elverişli, toprağı verimli ama boş k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Nakledilenlere yüklenen işlerden biri de doğrudan ekolojikti: soğuk olduğu için mısır, koka ve meyve yetişmeye…" — programatik olarak ölçülemedi (ad karşılığı yok): Andların
-- [OK]      k6 → "Murra'nın dikey takımada dediği model, birbirini tamamlayan farklı yükseklik kuşaklarının tek bir toplulukça b…"
+- [OK]      k6 → "John V. Murra'nın dikey takımada dediği model, birbirini tamamlayan farklı yükseklik kuşaklarının tek bir topl…"
 - [OK]      k1 → "Sayılarının 15.000 ile 40.000 arasında olduğu, yönettikleri nüfusun ise 10 milyon dolayında bulunduğu tahmin e…"
 - [OK]      k1 → "Resmî eğitim bu dar halkanın dışına kapalıydı: merkezî soyluluğun ve kuraka denen yerel beylerin belli katmanl…"
 - [ATOMSUZ] k1 → "Miras hem anne hem baba tarafından geçiyor, akrabalık paralel bir çizgi izliyor, bir kadın toprağa ve sürüye a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

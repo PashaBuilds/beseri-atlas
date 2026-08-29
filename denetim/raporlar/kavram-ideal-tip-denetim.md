@@ -1,5 +1,5 @@
 ## kavram-ideal-tip
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:54.590Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:23.026Z_
 
 - [ATOMSUZ] k3 → "İdeal tip, 'in toplumsal gerçekliği çözümlemek için önerdiği kavramsal ölçü aracıdır: gerçekliğin belli yönler…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k3 → "Kurgu, kavramsal saflığı içinde gerçeklikte hiçbir yerde ampirik olarak bulunamaz; Weber'in kendi ifadesiyle o…"
@@ -18,7 +18,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:54.590Z_
 - [OK]      k1 → "Protestan Ahlakı ise kavramın uygulamasıdır: 1904-1905'te yayımlanan çalışma, kapitalizmin ruhu gibi tarihsel …" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Protestan Ahlakı ise kavramın uygulamasıdır: 1904-1905'te yayımlanan çalışma, kapitalizmin ruhu gibi tarihsel …" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k4 → "Ölümünden sonra derlenen Ekonomi ve Toplum, yöntemi işler hâlde gösterir: gündelik dilin feodal, patrimonyal, …" — programatik olarak ölçülemedi (ad karşılığı yok): Ekonomi, Toplum
-- [OK]      k5 → "Henderson ile Talcott Parsons'ın 1947'de İngilizceye çevirdiği kesim, meşru otoritenin üç saf tipini birbirind…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "A. M. Henderson ile Talcott Parsons'ın 1947'de İngilizceye çevirdiği kesim, meşru otoritenin üç saf tipini bir…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k5 → "Gerontokrasi, patriarkalizm ve aynı ciltte geleneksel otoritenin alt biçimleri olarak işlenir; ve üzerine bugü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "İtirazların en eskisi kurgunun keyfîliğine yönelir: vurgulanacak yönleri araştırmacının değer ilgisi seçiyorsa…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Weber'in cevabı bu suçlamayı reddetmek değil sahiplenmektir: ona göre tek yanlılık zaten kaçınılmazdır ve idea…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

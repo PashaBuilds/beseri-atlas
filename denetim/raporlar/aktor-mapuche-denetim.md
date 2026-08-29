@@ -1,5 +1,5 @@
 ## aktor-mapuche
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.423Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:12.906Z_
 
 - [OK]      k1 → "Mapuçe, Güney Amerika'nın güneybatısında yaşayan ve bugün de varlığını sürdüren bir halktır." — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Olgu şudur: bölgeye kuzeyden gelen imparatorluk da, sonradan gelen Avrupa gücü de aynı nehir hattında durdu."

@@ -1,8 +1,8 @@
 ## tartisma-milliyetcilik-ne-zaman
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.880Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:30.948Z_
 
-- [OK]      k1 → "yüzyılın başına, Amerikan Bağımsızlık Bildirgesi'ne ya da Fransız Devrimi'ne yerleştirir; aynı kayıt, milletin…" — 1 atom doğrulandı; 3 ad ölçülemedi
-- [ATOMSUZ] k1 → "yüzyıla gelindiğinde sağlamca yerleştiği kabul edilir, öncesi tartışmanın kendisidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Araştırmacılar milliyetçiliğin başlangıcını sıklıkla 18. yüzyılın sonuna ya da 19. yüzyılın başına, Amerikan B…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k1 → "Üzerinde birleşilen zemin dardır: kavramın 19. yüzyıla gelindiğinde sağlamca yerleştiği kabul edilir, öncesi t…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Milliyetçilik tarihlerinde Fransız Devrimi'nin (1789) önemli bir başlangıç noktası sayılması da bu dar zeminin…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k2 → "Milletler modern sayılırsa, ve kavramları daha erken yüzyıllara ancak geriye dönük bir okuma olduğu belirtiler…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Milletler modern sayılırsa, ve kavramları daha erken yüzyıllara ancak geriye dönük bir okuma olduğu belirtiler…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -19,9 +19,9 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.880Z_
 - [ATOMSUZ] k2 → "Konum başlangıç sorusunun kendisini değiştirir: millet her gün yenilenen bir onay ise, aranacak şey bir doğum …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k4 → "O yıl Ernest Gellner Nations and Nationalism'i yayımladı; Benedict Anderson'ın Imagined Communities'i ile Eric…"
 - [OK]      k1 → "O yıl Ernest Gellner Nations and Nationalism'i yayımladı; Benedict Anderson'ın Imagined Communities'i ile Eric…"
-- [OK]      k9 → "O yıl Ernest Gellner Nations and Nationalism'i yayımladı; Benedict Anderson'ın Imagined Communities'i ile Eric…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "yüzyılın sonundan önce aranmamalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "yüzyılın sonundan önce aranmamalıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "O yıl Ernest Gellner Nations and Nationalism'i yayımladı; Benedict Anderson'ın Imagined Communities'i ile Eric…"
+- [ATOMSUZ] k1 → "Üç kitap farklı mekanizmalar önerir ama aynı eşiği paylaşır: millet modern koşulların ürünüdür ve 18. yüzyılın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Üç kitap farklı mekanizmalar önerir ama aynı eşiği paylaşır: millet modern koşulların ürünüdür ve 18. yüzyılın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k4 → "Kitabın kayıtlı bölüm başlıkları — tarım toplumunda kültür, sanayi toplumu, milliyetçilik çağına geçiş — savın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kitabın kayıtlı bölüm başlıkları — tarım toplumunda kültür, sanayi toplumu, milliyetçilik çağına geçiş — savın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bugün alanda en yaygın kabul gören çerçeve olan modernleşme kuramı bu çizgiden türetilir: milliyetçilik, sanay…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -52,13 +52,13 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.880Z_
 - [ATOMSUZ] k1 → "Daha yumuşak sürüm ayaktadır: süreklilikçi okuma milletlerin modern olgular olduğunu kabul eder ama köklerini …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Felsefe yazını da aynı gerilimi kaydeder: milletler kendilerini çok eski bir soyun devamı olarak düşünür ve mo…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k8 → "Adrian Hastings 1997'de yayımlanan The Construction of Nationhood ile doğrudan Hobsbawm'ın 1780 eşiğine cevap …"
-- [ISARET]  k8 → "Hastings'in savunduğu çizgide milletin inşası ortaçağa kadar geriye izlenir; etnisiteyi millete dönüştüren baş…" — özel isim kaynakta bulunamadı: İngiltere
+- [OK]      k8 → "Hastings'in savunduğu çizgide milletin inşası ortaçağa kadar geriye izlenir; etnisiteyi millete dönüştüren baş…"
 - [OK]      k1 → "Hastings'in savunduğu çizgide milletin inşası ortaçağa kadar geriye izlenir; etnisiteyi millete dönüştüren baş…"
 - [OK]      k2 → "Aynı kanadın çağdaş bir devamı da kayıtlıdır: siyasal etnisitenin ve millet olmanın derin köklerini savunan ka…"
 - [ATOMSUZ] k1 → "Ortaçağ ve antikite sorusunun ansiklopedi kaydında hâlâ açık tutulması, bu kanadın kuram tarihine düşülmüş bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "İlkselciliğin bir de evrimsel yorumu vardır ve ayrı tutulması gerekir: milliyetçiliği evrim kuramına dayandıra…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k8 → "Ortaçağcı itiraz bu yüzden ilkselcilikle aynı kefeye konmamalıdır; Hastings gibi tarihçiler milletin her zaman…"
-- [ATOMSUZ] k1 → "Ortaçağcı itiraz bu yüzden ilkselcilikle aynı kefeye konmamalıdır; Hastings gibi tarihçiler milletin her zaman…" — programatik olarak ölçülemedi (ad karşılığı yok): Hastings
+- [OK]      k1 → "Ortaçağcı itiraz bu yüzden ilkselcilikle aynı kefeye konmamalıdır; Hastings gibi tarihçiler milletin her zaman…"
 - [OK]      k1 → "Ansiklopedi kaydı terimi Johann Gottfried Herder'e ve 1772 tarihli dil kökeni incelemesine kadar götürür; Herd…"
 - [OK]      k1 → "Erica Benner'a göre Herder, dile dayalı kimliklerin meşru siyasi otoritenin başlıca kaynağı sayılması gerektiğ…"
 - [ATOMSUZ] k1 → "Bu kayıt tartışmayı kapatmaz, çünkü bir fikrin yazılması, bir hareketin doğması ve bir topluluğun o fikirle ge…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -66,7 +66,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.880Z_
 - [OK]      k1 → "Kelimenin 1772'de, hareketin görünür yükselişinin ise Fransız Devrimi ertesinde tarihlenmesi, aynı kaynağın iç…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k2 → "Modernistler bir ideolojinin ve hareketin tarihini sorar; süreklilikçiler ile etno-sembolcüler bir topluluk bi…"
 - [OK]      k1 → "Modernistler bir ideolojinin ve hareketin tarihini sorar; süreklilikçiler ile etno-sembolcüler bir topluluk bi…"
-- [ATOMSUZ] k1 → "yüzyıla gelindiğinde yerleşmiş olduğundan ibarettir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sorular birbirinin yerine geçmediği için verilecek başlangıç tarihi hangi sorunun sorulduğuna göre değişir ve …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Aynı olay bile iki kampta iki ayrı şey olarak okunur: Fransız Devrimi modernist anlatıda bir başlangıç noktası…" — programatik olarak ölçülemedi (ad karşılığı yok): Fransız, Devrimi
 - [ATOMSUZ] k2 → "Aynı olay bile iki kampta iki ayrı şey olarak okunur: Fransız Devrimi modernist anlatıda bir başlangıç noktası…" — programatik olarak ölçülemedi (ad karşılığı yok): Fransız, Devrimi
 - [ATOMSUZ] k2 → "Erken dönem kimliklerinin okuryazar seçkinlerin ötesine ne kadar indiği, kaynakların doğası gereği güç ölçülür…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -74,4 +74,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.880Z_
 - [ATOMSUZ] k3 → "Renan'ın uyarısı ise tartışmanın kendisine döner: milli hatıra unutmayla kurulduysa, milletin yaşını ölçmeye ç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Renan'ın uyarısı ise tartışmanın kendisine döner: milli hatıra unutmayla kurulduysa, milletin yaşını ölçmeye ç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 18 OK · 1 ISARET · 0 HATA · 53 ATOMSUZ
+**Özet:** 20 OK · 0 ISARET · 0 HATA · 52 ATOMSUZ

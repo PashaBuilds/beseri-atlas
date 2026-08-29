@@ -1,7 +1,7 @@
 ## kavram-patrimonyalizm
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.482Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:24.494Z_
 
-- [OK]      k1 → "Bakker ve Francis Fukuyama."
+- [OK]      k1 → "Kaynak, araştırmacıların betimlemeleri başlığı altında beş alt başlık tutar: Max Weber, Schmuel Eisenstadt, Ri…"
 - [ATOMSUZ] k1 → "Kaynağın kavrama dair bir zayıflık bölümü tutması, atlasın şu kuralının dayanağıdır: bu dosyada patrimonyalizm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Listenin ilk adı için tutulan ayrı kayıt, o yazarı 1864-1920 arasına yerleştirir ve patrimonyalizmi kayda değe…"
 - [ATOMSUZ] k3 → "Devlet kuramı üzerine başka bir gelenek için tutulan kayıt, o düşünürün modern devlete dair tartışmalı bir anl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

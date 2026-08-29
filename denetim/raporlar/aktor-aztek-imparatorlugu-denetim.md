@@ -1,5 +1,5 @@
 ## aktor-aztek-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T16:08:21.720Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:07.227Z_
 
 - [OK]      k1 → "Aztek İmparatorluğu, orta Meksika'nın göller havzasındaki küçük şehir devletlerinden büyüyen ve 1428-1521 aras…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "İç eyaletler düzenli vergi ödüyor, dış eyaletler sınır bekleyen tabi devletler olarak duruyor, buna karşılık m…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

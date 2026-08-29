@@ -1,19 +1,19 @@
 {
   "id": "tartisma-milliyetcilik-ne-zaman",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:57.880Z",
+  "zaman": "2026-08-29T19:34:30.948Z",
   "govde_hash": "3c7f37765d28",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyılın başına, Amerikan Bağımsızlık Bildirgesi'ne ya da Fransız Devrimi'ne yerleştirir; aynı kayıt, milletin ortaçağda hatta antikitede farklı biçimlerde var ",
+      "iddia": "Araştırmacılar milliyetçiliğin başlangıcını sıklıkla 18. yüzyılın sonuna ya da 19. yüzyılın başına, Amerikan Bağımsızlık Bildirgesi'ne ya da Fransız Devrimi'ne ",
       "durum": "OK",
       "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıla gelindiğinde sağlamca yerleştiği kabul edilir, öncesi tartışmanın kendisidir.",
+      "iddia": "Üzerinde birleşilen zemin dardır: kavramın 19. yüzyıla gelindiğinde sağlamca yerleştiği kabul edilir, öncesi tartışmanın kendisidir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -117,17 +117,17 @@
       "anahtar": "k9",
       "iddia": "O yıl Ernest Gellner Nations and Nationalism'i yayımladı; Benedict Anderson'ın Imagined Communities'i ile Eric Hobsbawm ve Terence Ranger'ın derlediği The Inven",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılın sonundan önce aranmamalıdır.",
+      "iddia": "Üç kitap farklı mekanizmalar önerir ama aynı eşiği paylaşır: millet modern koşulların ürünüdür ve 18. yüzyılın sonundan önce aranmamalıdır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "yüzyılın sonundan önce aranmamalıdır.",
+      "iddia": "Üç kitap farklı mekanizmalar önerir ama aynı eşiği paylaşır: millet modern koşulların ürünüdür ve 18. yüzyılın sonundan önce aranmamalıdır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -314,8 +314,8 @@
     {
       "anahtar": "k8",
       "iddia": "Hastings'in savunduğu çizgide milletin inşası ortaçağa kadar geriye izlenir; etnisiteyi millete dönüştüren başlıca güç din, özellikle yerel dile çevrilmiş kutsa",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: İngiltere"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -350,8 +350,8 @@
     {
       "anahtar": "k1",
       "iddia": "Ortaçağcı itiraz bu yüzden ilkselcilikle aynı kefeye konmamalıdır; Hastings gibi tarihçiler milletin her zaman var olduğunu değil, belirli koşullarda — yazı, di",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Hastings"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -397,7 +397,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıla gelindiğinde yerleşmiş olduğundan ibarettir.",
+      "iddia": "Sorular birbirinin yerine geçmediği için verilecek başlangıç tarihi hangi sorunun sorulduğuna göre değişir ve tarafların birbirini çürütmüş sayıldığı bir an yok",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

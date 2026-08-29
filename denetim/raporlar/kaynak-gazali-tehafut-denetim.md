@@ -1,5 +1,5 @@
 ## kaynak-gazali-tehafut
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:00.621Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:36.198Z_
 
 - [OK]      k1 → "Kaynak yazarı yaklaşık 1056-1111 arasına yerleştirir ve onu Sünni İslam'ın en önde gelen ve etkili filozof, ke…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kaynak, eserden sonra yazarın belirgin biçimde okazyonalist bir kozmoloji savunduğu kitaplar yazdığını, ancak …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

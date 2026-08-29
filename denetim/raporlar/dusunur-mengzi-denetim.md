@@ -1,5 +1,5 @@
 ## dusunur-mengzi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.255Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:19.577Z_
 
 - [ATOMSUZ] k1 → "Mengzi, kendisinden yaklaşık yüz elli yıl önce yaşamış bir düşünürün çizgisini sürdüren ve o çizgiyi karşıt gö…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Mengzi, kendisinden yaklaşık yüz elli yıl önce yaşamış bir düşünürün çizgisini sürdüren ve o çizgiyi karşıt gö…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

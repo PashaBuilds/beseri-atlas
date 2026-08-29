@@ -1,5 +1,5 @@
 ## donem-07
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:41.278Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:50.246Z_
 
 - [OK]      k2 → "Bu dönemin ayırt edici özelliği, Avrasya'nın uçlarının ilk kez tek bir siyasi yapı üzerinden birbirine bağlanm…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Selçuklular, Türklerin İslami devirde kurdukları en büyük hanedanlardan biridir ve 1040-1308 yılları arasında …"
@@ -9,7 +9,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:41.278Z_
 - [OK]      k2 → "Moğol İmparatorluğu göçebe imparatorluk olarak sınıflandırılır ve birleşik dönemi 1206-1260 arasına yerleştiri…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Cengiz Han'ın ölümünün ardından Ögedey döneminde (1227-1241) genişleme sürdü; bu dönemde Kiev Rus'u ve Çin ist…"
 - [OK]      k2 → "İmparatorluk zamanla Altın Orda, Çağatay Hanlığı, İlhanlı ve Yuan hanedanı olarak ayrışan siyasi birimlere böl…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k2 → "Moğol genişlemesinin Orta Asya'ya doğru itilimi Güney Asya güzergâhlarını etkiledi; Kuzey Afrika İslam dünyası…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Moğol genişlemesinin Orta Asya'ya doğru itilimi Güney Asya güzergâhlarını etkiledi; Kuzey Afrika İslam dünyası…"
 - [OK]      k1 → "Moğol genişlemesinin Orta Asya'ya doğru itilimi Güney Asya güzergâhlarını etkiledi; Kuzey Afrika İslam dünyası…"
 - [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1000 yılında yaklaşık 323,5 milyon, 1300 yılında yaklaşık 456,2 milyondur."
 - [OK]      k2 → "Bu büyümenin bir bölümü, Avrasya'yı tek bir siyasi çatı altında birleştiren sistemin ticareti kolaylaştırmasıy…" — 2 atom doğrulandı; 1 ad ölçülemedi

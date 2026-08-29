@@ -1,9 +1,9 @@
 {
   "id": "tartisma-sanayi-devrimi-neden-ingiltere",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:58.180Z",
+  "zaman": "2026-08-29T19:34:31.825Z",
   "govde_hash": "9c8608067429",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k6",
@@ -21,13 +21,13 @@
       "anahtar": "k1",
       "iddia": "Taraflar birbirini büsbütün dışlamaz da: Allen kültürü, tüketimi ve mülkiyet haklarını gerekli ama yetersiz sayar; Deirdre McCloskey rakip açıklamaların her bir",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k4",
       "iddia": "Taraflar birbirini büsbütün dışlamaz da: Allen kültürü, tüketimi ve mülkiyet haklarını gerekli ama yetersiz sayar; Deirdre McCloskey rakip açıklamaların her bir",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -243,7 +243,7 @@
       "anahtar": "k12",
       "iddia": "Maddison serisindeki Birleşik Krallık rakamları bu okumayla uyumlu görünür: kişi başına gelir 1760'ta yaklaşık 2.915, 1820'de yaklaşık 3.306, 1870'te ise yaklaş",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k12",
@@ -261,19 +261,19 @@
       "anahtar": "k1",
       "iddia": "Fiyat verisi ile teknoloji tarihi Allen'ın çerçevesinde en dolaysız karşılığını bulur; kurumsal değişimin zamanlaması ve sermaye piyasası kayıtları North ile We",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k5",
       "iddia": "Fiyat verisi ile teknoloji tarihi Allen'ın çerçevesinde en dolaysız karşılığını bulur; kurumsal değişimin zamanlaması ve sermaye piyasası kayıtları North ile We",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k7",
       "iddia": "Fiyat verisi ile teknoloji tarihi Allen'ın çerçevesinde en dolaysız karşılığını bulur; kurumsal değişimin zamanlaması ve sermaye piyasası kayıtları North ile We",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k3",

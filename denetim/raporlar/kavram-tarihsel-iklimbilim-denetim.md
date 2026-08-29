@@ -1,5 +1,5 @@
 ## kavram-tarihsel-iklimbilim
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.807Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:25.087Z_
 
 - [ATOMSUZ] k1 → "Kaynak, okuryazar toplumlarda tarihçilerin yüzlerce ya da binlerce yıllık iklim değişimlerine dair yazılı kanı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, geçmiş nüfus düzeylerinin ve insanların ya da bitki ve hayvanların yaşanabilir alanlarının, bölgeye da…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

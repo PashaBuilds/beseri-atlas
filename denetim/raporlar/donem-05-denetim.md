@@ -1,10 +1,10 @@
 ## donem-05
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:41.057Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:49.587Z_
 
 - [OK]      k1 → "Geç antikite MS 285–700 aralığına yerleştirilir ve klasik antikite ile Erken Orta Çağ arasında durur." — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Geç antikitenin coğrafyası Roma İmparatorluğu'nun ötesine uzanır: kralları İran ve Mezopotamya'yı yöneten ve E…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Aynı çerçeveye, Güney Arabistan, kuzey Arabistan ve doğu Arabistan toplumlarının Kızıldeniz ve Basra Körfezi a…" — 1 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k1 → "Theodosius'un ölümü, Sasani İmparatorluğu'nun ortaya çıkışı ve yüzyıllar süren Roma-Sasani savaşlarının başlam…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Dönemin kırılma noktaları arasında 395'te I. Theodosius'un ölümü, Sasani İmparatorluğu'nun ortaya çıkışı ve yü…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Doğu Roma İmparatorluğu batıdaki dönüşümlerden sağ çıktı ve Konstantinopolis'ten yönetildi; bu olaylar uluslar…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Sasani İmparatorluğu dönemin iki kutbundan biriydi." — programatik olarak ölçülemedi (ad karşılığı yok): İmparatorluğu
 - [OK]      k1 → "Dönemin sonuna doğru Arabistan, geç antik dünyanın kendi başlığı altında incelenen bir bileşeni hâline gelir."

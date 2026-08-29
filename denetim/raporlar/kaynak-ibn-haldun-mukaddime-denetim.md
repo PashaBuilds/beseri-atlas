@@ -1,5 +1,5 @@
 ## kaynak-ibn-haldun-mukaddime
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:00.878Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:36.567Z_
 
 - [ATOMSUZ] k1 → "Kaynak eseri şöyle künyeler: bir dünya tarihi niteliği taşıyan bu eser, önsöz ve giriş mahiyetinde kaleme alın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Bir yedi ciltlik dünya tarihinin önsözünün kendi adıyla anılır hâle gelmesi, atlasın şu kuralının dayanağıdır:…"

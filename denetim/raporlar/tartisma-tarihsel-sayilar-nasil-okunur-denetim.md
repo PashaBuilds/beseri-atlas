@@ -1,18 +1,18 @@
 ## tartisma-tarihsel-sayilar-nasil-okunur
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.596Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:33.086Z_
 
-- [ATOMSUZ] k2 → "Herodotos, Xerxes'in Yunanistan üzerine yürüyen ordusunun nasıl sayıldığını da anlatır: on bin adam bir yere t…" — programatik olarak ölçülemedi (ad karşılığı yok): Xerxes, Yunanistan
+- [OK]      k2 → "Herodotos, Xerxes'in Yunanistan üzerine yürüyen ordusunun nasıl sayıldığını da anlatır: on bin adam bir yere t…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k3 → "Aynı kitabın ilerleyen bölümünde donanmayla gelenler ve orduyu izleyen hizmetliler de eklenir; Sepias burnu il…"
-- [OK]      k1 → "Bury kara kuvvetlerini 180.000 dolayında görür, Munro ile Macan kabaca 300.000'e varır, kimi hesap 100.000'in …"
+- [OK]      k1 → "Yirminci yüzyıldan bu yana aynı ordu için önerilen rakamlar bambaşka bir bantta durur: J. B. Bury kara kuvvetl…"
 - [ATOMSUZ] k2 → "Herodotos'un anlattığı sayım usulü, antik bir rakamın nasıl kurulduğunu gösterdiği kadar neyi göstermediğini d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Aynı sefer için çağdaş sayılan başka rakamlar da dolaşımdadır: şair Simonides dört milyondan söz eder, Ktesias…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k3 → "Kara ordusu toplamı yuvarlak bir rakamdır; buna karşılık genel toplam, hizmetliler savaşanlarla eşit sayılarak…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Aynı sefer için çağdaş sayılan başka rakamlar da dolaşımdadır: şair Simonides dört milyondan söz eder, Ktesias…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Kara ordusu toplamı yuvarlak bir rakamdır; buna karşılık genel toplam, hizmetliler savaşanlarla eşit sayılarak…"
 - [OK]      k5 → "On dördüncü yüzyılın veba yıllarında bir vakanüvis anlatısını, sağ kalan biri çıkarsa sürdürsün diye boş sayfa…"
 - [ATOMSUZ] k5 → "İktisat tarihi ansiklopedisinin değerlendirmesi açıktır: ortaçağ yazımı anlatının dramatik gücünü sayısal doğr…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "George Grote, Herodotos'un toplamını ikmal sorunu gerekçesiyle kabul edilemez bulur ama anlatıyı bütünüyle red…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bury aynı rakamları büsbütün masalsı sayar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Ardından gelen kuşakta J. B. Bury aynı rakamları büsbütün masalsı sayar."
 - [OK]      k1 → "Sir Frederick Maurice sorunu bir su meselesi olarak kurar: bölgedeki nehirlerin en fazla 200.000 insanı ve 70.…"
-- [OK]      k4 → "Herodotos'un toplamını 5.100.000 olarak aktarır ve şunu hesaplar: dağlar arasındaki çoğu kez dar yollardan ile…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Herodotos'un toplamını 5.100.000 olarak aktarır ve şunu hesaplar: dağlar arasındaki çoğu kez dar yollardan ile…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k4 → "Ölçüt artık metindeki rakam değil, arazinin izin verdiği yürüyüştür: Maraton ovasının bir Prusya tugayının tal…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Aynı metinden yola çıkan Munro ile Macan, Herodotos'un saydığı yirmi dokuz on binlik birlik komutanını esas al…"
 - [ATOMSUZ] k5 → "İktisat tarihi ansiklopedisi, ortaçağ Avrupası için bu işlemin adımlarını sıralar: sayım kaydı seyrek olduğund…" — programatik olarak ölçülemedi (ad karşılığı yok): Avrupası
@@ -35,4 +35,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.596Z_
 - [ATOMSUZ] k5 → "Kara Ölüm için kıta ölçeğinde bir toplam da karara bağlanmış değil: yerel düzeyde güvenilir sayılan oranlara g…" — programatik olarak ölçülemedi (ad karşılığı yok): Ölüm
 - [OK]      k6 → "Modern sayılar da sorunun dışında değil: 2020 ve 2021 için yayımlanan aşırı ölüm tahmini, nokta değeriyle deği…"
 
-**Özet:** 21 OK · 0 ISARET · 0 HATA · 12 ATOMSUZ
+**Özet:** 24 OK · 0 ISARET · 0 HATA · 9 ATOMSUZ

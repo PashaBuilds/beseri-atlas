@@ -1,5 +1,5 @@
 ## tartisma-iklim-ve-cokus
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.364Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:29.539Z_
 
 - [ATOMSUZ] k1 → "İklim değişimini çöküşün başlıca tetikleyicisi sayan okuma ile bu yan yanalığı kanıt türünün elverişliliğinden…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Yazı bırakmamış ya da yazısı çözülememiş toplumlar için iklim kaydı çoğu kez en kolay tarihlenen kanıttır ve a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -9,11 +9,11 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.364Z_
 - [ATOMSUZ] k8 → "Sav bu hâliyle sınırsızdı; iklim salınımları yalnızca belli başlı çöküşleri değil, uygarlığın coğrafi dağılımı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k9 → "Emmanuel Le Roy Ladurie'nin 1967'de Fransızca yayımlanan ve 1971'de Times of Feast, Times of Famine adıyla İng…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k9 → "Kitabın ünlü ihtiyat dersi de buradadır: Ladurie'ye göre iklim tarihi önce kendi verisiyle, insan olaylarına b…"
-- [OK]      k1 → "1993'te Science'ta yayımlanan ve Kuzey Mezopotamya kazılarına dayanan çalışma, Akkad İmparatorluğu'nun dağılma…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "1993'te Science'ta yayımlanan ve Kuzey Mezopotamya kazılarına dayanan çalışma, Akkad İmparatorluğu'nun dağılma…"
 - [OK]      k2 → "1993'te Science'ta yayımlanan ve Kuzey Mezopotamya kazılarına dayanan çalışma, Akkad İmparatorluğu'nun dağılma…"
 - [OK]      k2 → "Sav 2000 yılında denizden destek buldu: Cullen ve ekibinin Geology dergisinde yayımladığı inceleme, kuraklığın…"
 - [OK]      k2 → "DeMenocal'ın 2001'de Science'ta çıkan değerlendirmesi ise son binyılların iklim değişimlerine verilen kültürel…"
-- [OK]      k1 → "MÖ 2200 dolaylarında başlayan bu kurak evre bugün 4.2 kiloyıl olayı olarak adlandırılıyor ve yalnızca Akkad'la…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "MÖ 2200 dolaylarında başlayan bu kurak evre bugün 4.2 kiloyıl olayı olarak adlandırılıyor ve yalnızca Akkad'la…"
 - [OK]      k2 → "MÖ 2200 dolaylarında başlayan bu kurak evre bugün 4.2 kiloyıl olayı olarak adlandırılıyor ve yalnızca Akkad'la…"
 - [OK]      k1 → "Daha geniş ölçekte, Afrika ve Asya'da beş bin ile dört bin yıl önce arasına tarihlenen bir megakuraklık, Yeşil…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k2 → "Çizgi bugün de üretkendir: Üçüncü Ur Hanedanlığı'nın yıkılış sürecini nüfus baskısı, tuzlanma ve tahıl kıtlığı…"
@@ -26,9 +26,9 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.364Z_
 - [ATOMSUZ] k10 → "Buz karotlarında korunmuş hava örnekleri, atmosferdeki karbondioksit yoğunluğunun milyonda pay cinsinden ve yü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k11 → "Bu yöntemle kurulan seri, günümüzden sekiz yüz bin yılı aşkın bir geçmişe uzanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k5 → "Ağaç halkaları yıl yıl sayılabildiği için kurak dizileri takvime bağlar; Diamond'ın Anasazi bölümünde ağaç hal…"
-- [OK]      k1 → "Göl ve deniz çökelleri ile polen dizileri bitki örtüsünü ve yağış düzenini izler: Akkad tartışmasındaki derin …" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Göl ve deniz çökelleri ile polen dizileri bitki örtüsünü ve yağış düzenini izler: Akkad tartışmasındaki derin …"
 - [OK]      k2 → "Göl ve deniz çökelleri ile polen dizileri bitki örtüsünü ve yağış düzenini izler: Akkad tartışmasındaki derin …"
-- [ATOMSUZ] k9 → "Ladurie'nin kullandığı bağ bozumu tarihleri kilise ve kasaba kayıtlarından derlenmişti; Parker'ın on yedinci y…" — programatik olarak ölçülemedi (ad karşılığı yok): Parker
+- [OK]      k9 → "Ladurie'nin kullandığı bağ bozumu tarihleri kilise ve kasaba kayıtlarından derlenmişti; Parker'ın on yedinci y…"
 - [OK]      k3 → "Ladurie'nin kullandığı bağ bozumu tarihleri kilise ve kasaba kayıtlarından derlenmişti; Parker'ın on yedinci y…"
 - [ATOMSUZ] k1 → "Ölçek de yanıltabilir: küresel ortalamalara bakıldığında Küçük Buz Çağı'nın ayrı bir dönemden çok uzun bir soğ…" — programatik olarak ölçülemedi (ad karşılığı yok): Küçük, Buz, Çağı
 - [OK]      k1 → "Joseph Tainter 1988'de yayımlanan The Collapse of Complex Societies'te çöküşü siyasi bir süreç olarak tanımlad…"
@@ -45,4 +45,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.364Z_
 - [ATOMSUZ] k1 → "Megakuraklık okuması eşzamanlılığı, kavram eleştirisi sürekliliği, çevresel seçim anlatısı kararları, ihtiyat …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Aynı iklim olayını yaşayan toplumlardan birinin dağılıp ötekinin ayakta kalması — Yirminci Hanedan Mısırı'nın …" — programatik olarak ölçülemedi (ad karşılığı yok): Yirminci, Hanedan, Mısırı
 
-**Özet:** 31 OK · 0 ISARET · 0 HATA · 12 ATOMSUZ
+**Özet:** 32 OK · 0 ISARET · 0 HATA · 11 ATOMSUZ

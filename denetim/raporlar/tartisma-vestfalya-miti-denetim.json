@@ -1,9 +1,9 @@
 {
   "id": "tartisma-vestfalya-miti",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:58.893Z",
+  "zaman": "2026-08-29T19:34:33.825Z",
   "govde_hash": "cde91d8c3f54",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k5",
@@ -15,7 +15,7 @@
       "anahtar": "k3",
       "iddia": "Uluslararası ilişkiler öğretiminin kuruluş sahnesi çoğunlukla aynı biçimde kurulur: Otuz Yıl Savaşları 1648'de Münster ve Osnabrück'te imzalanan antlaşmalarla k",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k5",
@@ -129,13 +129,13 @@
       "anahtar": "k1",
       "iddia": "Barış iki ayrı belgeden oluşur; imparatorun Fransa ile Münster'de, İsveç ile Osnabrück'te imzaladığı antlaşmalar birbirine gönderme yapar ve mezhep hükümleri ik",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
       "iddia": "Barış iki ayrı belgeden oluşur; imparatorun Fransa ile Münster'de, İsveç ile Osnabrück'te imzaladığı antlaşmalar birbirine gönderme yapar ve mezhep hükümleri ik",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Fransa"
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

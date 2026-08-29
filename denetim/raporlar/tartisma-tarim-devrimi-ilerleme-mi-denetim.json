@@ -1,13 +1,13 @@
 {
   "id": "tartisma-tarim-devrimi-ilerleme-mi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:58.665Z",
+  "zaman": "2026-08-29T19:34:33.272Z",
   "govde_hash": "dd6423ed0a10",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Gordon Childe 1936'da süreci bir devrim diye adlandırırken ölçütünü de açıkça bildirmişti: ona göre tarihsel değişimler, türün hayatta kalmasına ve çoğalmasına ",
+      "iddia": "V. Gordon Childe 1936'da süreci bir devrim diye adlandırırken ölçütünü de açıkça bildirmişti: ona göre tarihsel değişimler, türün hayatta kalmasına ve çoğalması",
       "durum": "OK",
       "not": ""
     },
@@ -61,13 +61,13 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Armelagos'un derlediği Paleopathology at the Origins of Agriculture, 1982'de Plattsburgh'da toplanan ve Wenner-Gren Vakfı ile bir sempozyum fonunun desteklediği",
+      "iddia": "Mark Nathan Cohen ile George J. Armelagos'un derlediği Paleopathology at the Origins of Agriculture, 1982'de Plattsburgh'da toplanan ve Wenner-Gren Vakfı ile bi",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k4",
-      "iddia": "Jacobs'un 1991'de Population and Environment dergisinde yayımladığı yazı tarımın kökenlerini \"sağlığın gerilediği bir dönemde nüfus artışı\" olarak adlandırır.",
+      "iddia": "Çizginin özeti bir makale başlığında durur: Armelagos, Alan H. Goodman ve Kenneth H. Jacobs'un 1991'de Population and Environment dergisinde yayımladığı yazı ta",
       "durum": "OK",
       "not": ""
     },
@@ -145,7 +145,7 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "Weiss'in 1992'de Current Anthropology dergisinde yayımladığı makalenin başlığı sorunu doğrudan adlandırır: iskelet örneklemlerinden tarih öncesi sağlığı çıkarma",
+      "iddia": "James W. Wood, George R. Milner, Henry C. Harpending ve Kenneth M. Weiss'in 1992'de Current Anthropology dergisinde yayımladığı makalenin başlığı sorunu doğruda",
       "durum": "OK",
       "not": ""
     },
@@ -181,9 +181,9 @@
     },
     {
       "anahtar": "k11",
-      "iddia": "Stock'un 2017'de Science Advances dergisinde yayımladığı çalışmanın özetine göre tarımın gelişi, kadınlar için binlerce yıl boyunca bugün yaşayan sporcularınkin",
+      "iddia": "Alison A. Macintosh, Ron Pinhasi ve Jay T. Stock'un 2017'de Science Advances dergisinde yayımladığı çalışmanın özetine göre tarımın gelişi, kadınlar için binler",
       "durum": "OK",
-      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k6",

@@ -1,5 +1,5 @@
 ## olay-ekim-devrimi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:44.707Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:57.972Z_
 
 - [OK]      k1 → "Ekim Devrimi 7 Kasım 1917 (eski takvimle 25 Ekim) tarihine ve Rusya Cumhuriyeti'nin Petrograd şehrine yerleşti…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Kaynak sonucu tek bir cümleye sığdırmaz; art arda sıralar: Bolşevik zaferi, Sovyet Rusya'nın başlangıcı, ikili…" — 3 atom doğrulandı; 2 ad ölçülemedi

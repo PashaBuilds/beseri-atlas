@@ -1,9 +1,9 @@
 {
   "id": "aktor-ace-sultanligi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:47.800Z",
+  "zaman": "2026-08-29T19:34:05.983Z",
   "govde_hash": "07fd5874c7f1",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -14,8 +14,8 @@
     {
       "anahtar": "k2",
       "iddia": "Açe Sultanlığı, büyük bir adanın kuzey ucunda, Hint Okyanusu'ndan boğaza girmeden önceki son noktada kurulmuştur.",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Okyanusu"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -32,8 +32,8 @@
     {
       "anahtar": "k1",
       "iddia": "Boğazın Avrupa donanmalarınca denetim altına alınması, bölgedeki ticaretin sona ermesi anlamına gelmedi.",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Avrupa"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
@@ -320,8 +320,8 @@
     {
       "anahtar": "k1",
       "iddia": "Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki altıncı dosyadır ve bölgeyi Avrupa donanmalarının gelişinden sonraki yüzyıllara taşır.",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Avrupa"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",

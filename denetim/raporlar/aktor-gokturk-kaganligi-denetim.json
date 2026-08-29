@@ -1,9 +1,9 @@
 {
   "id": "aktor-gokturk-kaganligi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:49.183Z",
+  "zaman": "2026-08-29T19:34:09.376Z",
   "govde_hash": "d56fb04fa5b0",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -61,7 +61,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl için nüfus 3 milyon.",
+      "iddia": "Kaynak iki sayı verir: 557 için alan 6.000.000 km², 6. yüzyıl için nüfus 3 milyon.",
       "durum": "OK",
       "not": ""
     },

@@ -1,5 +1,5 @@
 ## olay-uzay-yarisi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T15:53:30.090Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:05.121Z_
 
 - [OK]      k3 → "Asif Siddiqi'nin saptamasıyla savaşın en gelişkin roket programı ne ABD'de ne Sovyetler Birliği'ndeydi: Peenem…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k3 → "Yörüngeye ilk uyduyu ve atmosferin dışına ilk insanı taşıyan roketler bu füzenin kopyası değildi; ama savaştan…" — 2 atom doğrulandı; 1 ad ölçülemedi

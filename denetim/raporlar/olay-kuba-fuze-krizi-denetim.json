@@ -1,9 +1,9 @@
 {
   "id": "olay-kuba-fuze-krizi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:46.018Z",
+  "zaman": "2026-08-29T19:34:01.486Z",
   "govde_hash": "c7f9b1573073",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -31,9 +31,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Kennedy, Ulusal Güvenlik Konseyi ve diğer kilit danışmanların katıldığı bir toplantı düzenleyerek Ulusal Güvenlik Konseyi Yürütme Komitesi'ni (EXCOMM) oluşturdu",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ulusal, Güvenlik, Konseyi, Yürütme"
+      "iddia": "ABD Başkanı John F. Kennedy, Ulusal Güvenlik Konseyi ve diğer kilit danışmanların katıldığı bir toplantı düzenleyerek Ulusal Güvenlik Konseyi Yürütme Komitesi'n",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

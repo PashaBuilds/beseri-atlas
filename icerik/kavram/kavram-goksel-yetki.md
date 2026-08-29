@@ -69,6 +69,8 @@ kaynaklar:
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "intrinsically unstable because it carries concrete promises"
     not: "Crossref kaydı; iddialar yayıncının özetinden alınmıştır, makalenin tam metni okunmamıştır."
+kaynak_siniri: >-
+  Kavramın sınırlarını veren karşı-argüman bölümü, tam metin yerine üstveri kayıtlarına dayanıyor. Klasik Çince birincil metinler için havuzda çalışan kanal yok: ctext.org bot doğrulaması döndürüyor ve Belgeler Kitabı'nın Wikisource çevirisi bulunamadı. Şang'ın kurucusuna atfedilen bildiri de metnin tartışmalı "eski metin" bölümlerindendir; gövde bunu ayrıca yazar.
 son_denetim: 2026-08-29
 denetim_durumu: onaylandi
 onarim_turu: 1

@@ -1,9 +1,9 @@
 {
   "id": "tartisma-kalkinma-neden-basarisiz",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:57.560Z",
+  "zaman": "2026-08-29T19:34:29.939Z",
   "govde_hash": "2d225102bd9e",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -26,18 +26,18 @@
     {
       "anahtar": "k2",
       "iddia": "Maddison serisinde kişi başına gayrisafi yurt içi hasılanın dünya ortalaması 1950'de yaklaşık 3.360, 2022'de yaklaşık 16.677 uluslararası dolardır; toplamda büy",
-      "durum": "OK",
-      "not": ""
+      "durum": "ISARET",
+      "not": "kaynakta bulunamayan sayısal değer: 16.677 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)"
     },
     {
       "anahtar": "k2",
       "iddia": "Maddison serisinde kişi başına gayrisafi yurt içi hasılanın dünya ortalaması 1950'de yaklaşık 3.360, 2022'de yaklaşık 16.677 uluslararası dolardır; toplamda büy",
-      "durum": "OK",
-      "not": ""
+      "durum": "ISARET",
+      "not": "kaynakta bulunamayan sayısal değer: 16.677 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)"
     },
     {
       "anahtar": "k5",
-      "iddia": "Rostow'un The Stages of Economic Growth başlıklı kitabı, modernleşme kuramının politika diline çevrilmiş hâli sayılır; alt başlığı Soğuk Savaş'taki adresini de ",
+      "iddia": "W. W. Rostow'un The Stages of Economic Growth başlıklı kitabı, modernleşme kuramının politika diline çevrilmiş hâli sayılır; alt başlığı Soğuk Savaş'taki adresi",
       "durum": "OK",
       "not": ""
     },
@@ -326,26 +326,26 @@
     {
       "anahtar": "k6",
       "iddia": "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır; sıtma kuşağında, denize kapalı ve pazarlara uzak ",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sachs, Easterly, Moyo"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k7",
       "iddia": "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır; sıtma kuşağında, denize kapalı ve pazarlara uzak ",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k8",
       "iddia": "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır; sıtma kuşağında, denize kapalı ve pazarlara uzak ",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k9",
       "iddia": "Kaynakları zengin olduğu hâlde gelirini dar bir seçkinin topladığı ülke, kurumsalcı anlatının örnek vakasıdır; sıtma kuşağında, denize kapalı ve pazarlara uzak ",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",

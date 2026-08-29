@@ -1,5 +1,5 @@
 ## olay-paris-iklim-anlasmasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:46.662Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:03.072Z_
 
 - [OK]      k3 → "12 Aralık 2015'te, Paris yakınlarındaki Le Bourget'de toplanan müzakere konferansının (COP21) kapanışında, çer…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k3 → "On altı giriş paragrafı ve 29 maddeden oluşan kısa bir belgedir; ağırlığı uzunluğundan değil, iki şeyi aynı me…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

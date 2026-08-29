@@ -1,9 +1,9 @@
 {
   "id": "tartisma-soykirim-kavrami",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:58.355Z",
+  "zaman": "2026-08-29T19:34:32.175Z",
   "govde_hash": "122d67d2bf29",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -105,7 +105,7 @@
       "anahtar": "k1",
       "iddia": "Amerika Birleşik Devletleri temsilcisi Ernest Gross, Kasım 1948'deki konuşmasında sözleşmenin kapsamının siyasi grupları koruyacak biçimde genişletilmesini umdu",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k4",
@@ -344,14 +344,14 @@
     {
       "anahtar": "k3",
       "iddia": "Siyasi grupların dışarıda bırakılması, Kuper'den bu yana savunulan bir eksik olarak durur; kültürel yok etme, müzakerelerde bilinçli biçimde dışarıda bırakıldığ",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kuper"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k5",
       "iddia": "Siyasi grupların dışarıda bırakılması, Kuper'den bu yana savunulan bir eksik olarak durur; kültürel yok etme, müzakerelerde bilinçli biçimde dışarıda bırakıldığ",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kuper"
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

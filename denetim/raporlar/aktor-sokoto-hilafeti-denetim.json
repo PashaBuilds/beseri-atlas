@@ -1,9 +1,9 @@
 {
   "id": "aktor-sokoto-hilafeti",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:51.551Z",
+  "zaman": "2026-08-29T19:34:15.336Z",
   "govde_hash": "365be0cbc597",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -15,7 +15,7 @@
       "anahtar": "k3",
       "iddia": "Sokoto Hilafeti, Batı Afrika'nın Sahra altı savan kuşağında, birbirinden bağımsız şehir devletlerinin bulunduğu bir bölgede kuruldu.",
       "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Hilafeti, Sahra"
+      "not": "özel isim kaynakta bulunamadı: Hilafeti"
     },
     {
       "anahtar": "k1",
@@ -152,8 +152,8 @@
     {
       "anahtar": "k3",
       "iddia": "Düzenin geliri tarım, hayvancılık ve Sahra ticaretinden geliyordu.",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Sahra"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",

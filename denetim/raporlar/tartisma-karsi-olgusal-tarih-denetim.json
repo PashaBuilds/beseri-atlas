@@ -1,9 +1,9 @@
 {
   "id": "tartisma-karsi-olgusal-tarih",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:57.725Z",
+  "zaman": "2026-08-29T19:34:30.437Z",
   "govde_hash": "9eb8eecd75b5",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -99,7 +99,7 @@
       "anahtar": "k5",
       "iddia": "Sonuç, tartışmanın en çok anılan sayısıdır: aktarılan hesaba göre 1 Ocak 1890'da ulaşılan kişi başı gelir düzeyine, demiryolu hiç icat edilmemiş olsaydı 31 Mart",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -260,8 +260,8 @@
     {
       "anahtar": "k3",
       "iddia": "kitabı hem tarih felsefesi kaydının hem de Türkçe yöntem yazınının kaynakçasında yer alır.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türkçe"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k11",

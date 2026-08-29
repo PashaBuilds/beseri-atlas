@@ -1,5 +1,5 @@
 ## olay-buyuk-buhran
-_Geçiş 2 — kaynak denetimi · 2026-08-29T15:56:47.171Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:56.982Z_
 
 - [OK]      k1 → "Amerika Birleşik Devletleri'nde işsizlik oranı Ağustos 1929'da yüzde 3'ken Mart 1933'te yüzde 25'e çıkmış, san…" — 8 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k4 → "Aynı yıllarda Almanya'da kayıtlı işsiz sayısı 5,6 milyona ulaştı."

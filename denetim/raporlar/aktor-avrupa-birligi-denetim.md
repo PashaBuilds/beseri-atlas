@@ -1,5 +1,5 @@
 ## aktor-avrupa-birligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.099Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:06.632Z_
 
 - [OK]      k1 → "Kaynağın kendi metnindeki editoryal not, birliği "Staatenverbund" olarak nitelemeye karşı uyarır: terimin yaln…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k2 → "Karşılaştırma yardımcı olur: Birleşmiş Milletler kendi maddesinde açıkça "hükümetler arası örgüt" olarak sınıf…" — 2 atom doğrulandı; 1 ad ölçülemedi

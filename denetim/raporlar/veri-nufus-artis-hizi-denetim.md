@@ -1,5 +1,5 @@
 ## veri-nufus-artis-hizi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:59.876Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:35.155Z_
 
 - [OK]      k1 → "Seri 1950'de yüzde 1,738 ile başlar ve 2023'te yüzde 0,871 ile biter."
 - [ATOMSUZ] k1 → "Veri kümesinin sütun adları iki ayrı seriyi taşır: biri tahminler, diğeri orta varyant projeksiyonu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

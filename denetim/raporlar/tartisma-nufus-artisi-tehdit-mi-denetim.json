@@ -1,9 +1,9 @@
 {
   "id": "tartisma-nufus-artisi-tehdit-mi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:58.018Z",
+  "zaman": "2026-08-29T19:34:31.383Z",
   "govde_hash": "c20aa1c15471",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k2",
@@ -33,19 +33,19 @@
       "anahtar": "k2",
       "iddia": "Malthus ile Ehrlich büyümenin sınıra koştuğunu, Boserup ile Simon baskının uyarlanma ürettiğini savunur; üçüncü çerçeve ise sorunun zeminini değiştirir: doğurga",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k4",
       "iddia": "Malthus ile Ehrlich büyümenin sınıra koştuğunu, Boserup ile Simon baskının uyarlanma ürettiğini savunur; üçüncü çerçeve ise sorunun zeminini değiştirir: doğurga",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k10",
       "iddia": "Malthus ile Ehrlich büyümenin sınıra koştuğunu, Boserup ile Simon baskının uyarlanma ürettiğini savunur; üçüncü çerçeve ise sorunun zeminini değiştirir: doğurga",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ehrlich, Boserup, Simon"
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
@@ -146,8 +146,8 @@
     {
       "anahtar": "k2",
       "iddia": "Malthus'ta gıda sabittir ve nüfus ona uyar; Boserup'ta nüfus verilidir ve tarım ona uyar.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Boserup"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k4",

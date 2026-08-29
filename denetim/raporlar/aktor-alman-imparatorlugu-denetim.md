@@ -1,5 +1,5 @@
 ## aktor-alman-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.935Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:06.236Z_
 
 - [OK]      k1 → "Kaynak, Bismarck'ın Alman devletleri boyunca Prusya hegemonyası tasavvur ettiğini ve bunun Alman devletlerinin…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Aynı kayıt, tasavvurun içeriğini de verir: muhafazakâr, Prusya'nın hâkim olduğu bir Almanya." — 1 atom doğrulandı; 1 ad ölçülemedi

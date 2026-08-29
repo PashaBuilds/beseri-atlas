@@ -1,5 +1,5 @@
 ## olay-yesil-devrim
-_Geçiş 2 — kaynak denetimi · 2026-08-29T15:43:03.779Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:05.787Z_
 
 - [OK]      k1 → "Başlangıcı 1943'te, Meksika Tarım Bakanlığı ile Rockefeller Vakfı'nın Meksika hükümetinin isteği üzerine kurdu…" — 3 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Yirmi yıl sonra aynı programın ürünü olan çeşitler Hindistan ve Pakistan tarlalarındaydı; Filipinler'de gelişt…" — 2 atom doğrulandı; 2 ad ölçülemedi

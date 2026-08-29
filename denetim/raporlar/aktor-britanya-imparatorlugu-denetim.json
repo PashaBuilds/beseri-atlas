@@ -1,15 +1,15 @@
 {
   "id": "aktor-britanya-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:48.511Z",
+  "zaman": "2026-08-29T19:34:07.987Z",
   "govde_hash": "c8836d4e3d72",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyılın sonlarında kurduğu denizaşırı mülkler ve ticaret karakollarıyla başladı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Britanya İmparatorluğu, Britanya Tacı ve seleflerince yönetilen ya da idare edilen dominyonlar, sömürgeler, himayeler, mandalar ve diğer toprakları kapsıyordu; ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

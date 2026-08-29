@@ -1,9 +1,9 @@
 {
   "id": "aktor-mali-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:50.347Z",
+  "zaman": "2026-08-29T19:34:12.707Z",
   "govde_hash": "3b834463256a",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -37,9 +37,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılda hüküm sürer.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "İlk hükümdar Mari Djata I'dir ve saltanatı 1235-1255 arasındadır; Musa I 1312-1337 arasında, son hükümdar Mahmud IV ise yaklaşık 17. yüzyılda hüküm sürer.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",

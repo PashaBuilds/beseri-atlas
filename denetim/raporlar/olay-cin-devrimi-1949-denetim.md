@@ -1,5 +1,5 @@
 ## olay-cin-devrimi-1949
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:44.472Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:57.372Z_
 
 - [OK]      k1 → "Devrimin tarihi tek bir yıl değildir: 1 Ağustos 1927 – 1 Ekim 1949 arasına yerleştirilen, 1927–1949 tarihli bi…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kaynak süreci kendi başlıklarıyla böler: ayaklanmalar ve Çin Sovyeti, İkinci Çin-Japon Savaşı ve İkinci Birleş…" — 2 atom doğrulandı; 4 ad ölçülemedi

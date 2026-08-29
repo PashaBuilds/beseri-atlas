@@ -1,9 +1,9 @@
 {
   "id": "veri-kuresel-esitsizlik",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:59.820Z",
+  "zaman": "2026-08-29T19:34:35.080Z",
   "govde_hash": "e68b0e034e51",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -69,7 +69,7 @@
       "anahtar": "k2",
       "iddia": "Yoksulluk oranının bu yıllarda düşerken Gini katsayısının 2000'de en yüksek değerine ulaşması, iki ölçünün aynı şeyi ölçmediğini gösterir: biri alt eşiğin altın",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",

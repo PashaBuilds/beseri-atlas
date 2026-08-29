@@ -1,9 +1,9 @@
 {
   "id": "kaynak-gibbon-roma",
   "gecis": 2,
-  "zaman": "2026-08-29T14:40:00.642Z",
+  "zaman": "2026-08-29T19:34:36.226Z",
   "govde_hash": "95f9f07ae19c",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -25,7 +25,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Bury'nin yedi ciltlik iki baskısı (1896-1900 ve 1909-1914), Bury'nin dört ciltlik 1914 baskısı, Hugh Trevor-Roper'ın altı ciltlik 1993-1994 baskısı ve David Wom",
+      "iddia": "Kaynak, basılı tam neşirleri sıralar: J. B. Bury'nin yedi ciltlik iki baskısı (1896-1900 ve 1909-1914), Bury'nin dört ciltlik 1914 baskısı, Hugh Trevor-Roper'ın",
       "durum": "OK",
       "not": ""
     },

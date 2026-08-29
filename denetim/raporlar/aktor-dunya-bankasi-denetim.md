@@ -1,5 +1,5 @@
 ## aktor-dunya-bankasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.860Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:08.675Z_
 
 - [OK]      k1 → "Bretton Woods Konferansı Uluslararası İmar ve Kalkınma Bankası'nı kurdu; bu kurum bugün Dünya Bankası Grubu'nu…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kuruluş adındaki sıralama dikkat çekicidir: önce imar, sonra kalkınma." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

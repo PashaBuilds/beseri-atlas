@@ -1,7 +1,7 @@
 ## dusunur-kautilya
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.920Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:18.511Z_
 
-- [ATOMSUZ] k1 → "yüzyıl olarak verilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "- MÖ 3. yüzyıl olarak verilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "yüzyıldır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "yüzyıllara ait Mudrarakshasa sürümü."
 - [OK]      k1 → "Kaynak doğum yerini tek bir satır olarak vermez: Güney Hindistan'daki Golla bölgesinde Chanaka köyü (Cayna efs…" — 3 atom doğrulandı; 1 ad ölçülemedi

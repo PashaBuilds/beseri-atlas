@@ -1,9 +1,9 @@
 {
   "id": "aktor-karahanlilar",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:49.940Z",
+  "zaman": "2026-08-29T19:34:11.455Z",
   "govde_hash": "b4ca20431193",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -98,8 +98,8 @@
     {
       "anahtar": "k2",
       "iddia": "Eserin Türkçe yazılmış olması, dönemin yazı dili tercihleri açısından ayrıca kaydedilir.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türkçe"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -110,8 +110,8 @@
     {
       "anahtar": "k3",
       "iddia": "İkinci metin bir sözlüktür ve Türk lehçelerini Arapça konuşan bir okur için derler.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türk, Arapça"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
@@ -146,14 +146,14 @@
     {
       "anahtar": "k2",
       "iddia": "Bu benimseme, yukarıdaki iki metnin de arka planıdır: ikisi de İslamî çerçeve içinde, ama Türkçe yazılmıştır.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türkçe"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
       "iddia": "Bu benimseme, yukarıdaki iki metnin de arka planıdır: ikisi de İslamî çerçeve içinde, ama Türkçe yazılmıştır.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Türkçe"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
@@ -200,8 +200,8 @@
     {
       "anahtar": "k1",
       "iddia": "Bu dosya üç kaynağa dayanır: hanedan üzerine bir ansiklopedi maddesi ve dönemin iki eserinin İngilizce çevirileri.",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: İngilizce"
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngilizce"
     },
     {
       "anahtar": "k2",

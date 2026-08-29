@@ -1,5 +1,5 @@
 ## aktor-buhara-hanligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.528Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:08.006Z_
 
 - [OK]      k1 → "Buhara Hanlığı, on altıncı yüzyıl sonunda Mâverâünnehir'de kurulan ve yirminci yüzyıl başına kadar süren devle…"
 - [ATOMSUZ] k1 → "Devlet üç yüzyıl boyunca birden çok hanedan tarafından yönetildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

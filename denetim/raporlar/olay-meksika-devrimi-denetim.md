@@ -1,10 +1,10 @@
 ## olay-meksika-devrimi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T16:16:57.230Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:02.406Z_
 
-- [OK]      k4 → "Madero seçim istiyordu; Morelos'ta Emiliano Zapata köylerin elinden alınan toprakların geri verilmesini; Panch…"
-- [OK]      k15 → "Madero seçim istiyordu; Morelos'ta Emiliano Zapata köylerin elinden alınan toprakların geri verilmesini; Panch…"
-- [OK]      k9 → "Madero seçim istiyordu; Morelos'ta Emiliano Zapata köylerin elinden alınan toprakların geri verilmesini; Panch…"
-- [OK]      k13 → "Madero seçim istiyordu; Morelos'ta Emiliano Zapata köylerin elinden alınan toprakların geri verilmesini; Panch…"
+- [OK]      k4 → "Kuzeyli varlıklı bir toprak sahibi olan Francisco I. Madero seçim istiyordu; Morelos'ta Emiliano Zapata köyler…"
+- [OK]      k15 → "Kuzeyli varlıklı bir toprak sahibi olan Francisco I. Madero seçim istiyordu; Morelos'ta Emiliano Zapata köyler…"
+- [OK]      k9 → "Kuzeyli varlıklı bir toprak sahibi olan Francisco I. Madero seçim istiyordu; Morelos'ta Emiliano Zapata köyler…"
+- [OK]      k13 → "Kuzeyli varlıklı bir toprak sahibi olan Francisco I. Madero seçim istiyordu; Morelos'ta Emiliano Zapata köyler…"
 - [OK]      k1 → "Querétaro'da yazılan 1917 Anayasası toprağın ve toprak altındaki kaynakların mülkiyetini ulusa bağladı, sekiz …" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k16 → "Querétaro'da yazılan 1917 Anayasası toprağın ve toprak altındaki kaynakların mülkiyetini ulusa bağladı, sekiz …" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k6 → "Kalıcı ikinci sonucu ise bir belirsizliktir: kaç insanın öldüğü, ölenlerin ne kadarının çarpışmada değil salgı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

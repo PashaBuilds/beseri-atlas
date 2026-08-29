@@ -1,5 +1,5 @@
 ## kaynak-braudel-akdeniz
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:00.420Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:35.894Z_
 
 - [OK]      k1 → "Kaynak eseri La Méditerranée adıyla anar ve ona ayrı bir bölüm ayırır; yazarın 1902-1985 arasında yaşadığı kay…"
 - [ATOMSUZ] k1 → "Kaynak, ikinci düzeyde iktisadi, toplumsal ve kültürel tarihin bulunduğunu ve bu düzeyde değişimin çevreninkin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

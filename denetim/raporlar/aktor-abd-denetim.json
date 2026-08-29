@@ -1,9 +1,9 @@
 {
   "id": "aktor-abd",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:47.786Z",
+  "zaman": "2026-08-29T19:34:05.968Z",
   "govde_hash": "9913057ed274",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -38,8 +38,8 @@
     {
       "anahtar": "k1",
       "iddia": "Alan sırası üçüncü olarak kaydedilir; ölçü 3.796.742 mil kare olarak verilir ve yalnızca iç sular dâhil edildiğinde 9.572.900 km² olarak ayrıca yazılır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",

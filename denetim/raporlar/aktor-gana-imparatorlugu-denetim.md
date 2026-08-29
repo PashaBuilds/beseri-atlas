@@ -1,13 +1,13 @@
 ## aktor-gana-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.144Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:09.305Z_
 
-- [ISARET]  k1 → "Gana İmparatorluğu, Batı Afrika'da Sahra'nın güney kıyısında, çöl ticaret yollarının ulaştığı kuşakta kurulmuş…" — özel isim kaynakta bulunamadı: Sahra
-- [OK]      k3 → "Gana İmparatorluğu, Batı Afrika'da Sahra'nın güney kıyısında, çöl ticaret yollarının ulaştığı kuşakta kurulmuş…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Gana İmparatorluğu, Batı Afrika'da Sahra'nın güney kıyısında, çöl ticaret yollarının ulaştığı kuşakta kurulmuş…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Gana İmparatorluğu, Batı Afrika'da Sahra'nın güney kıyısında, çöl ticaret yollarının ulaştığı kuşakta kurulmuş…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Bu düzenin adı, bugünkü Gana devletinin bulunduğu coğrafyayla aynı yerde değildir."
-- [ATOMSUZ] k3 → "Bu düzenin adı, bugünkü Gana devletinin bulunduğu coğrafyayla aynı yerde değildir." — programatik olarak ölçülemedi (ad karşılığı yok): Gana
+- [OK]      k3 → "Bu düzenin adı, bugünkü Gana devletinin bulunduğu coğrafyayla aynı yerde değildir."
 - [ATOMSUZ] k1 → "dosyası aynı bölgede sonraki siyasi düzeni anlatır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ISARET]  k1 → "Kaynaklar onu Wagadu olarak da kaydeder ve bugünkü Gana devletiyle karıştırılmaması gerektiğini açıkça belirti…" — özel isim kaynakta bulunamadı: Wagadu
-- [OK]      k3 → "Kaynaklar onu Wagadu olarak da kaydeder ve bugünkü Gana devletiyle karıştırılmaması gerektiğini açıkça belirti…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Kaynaklar onu Wagadu olarak da kaydeder ve bugünkü Gana devletiyle karıştırılmaması gerektiğini açıkça belirti…"
+- [OK]      k3 → "Kaynaklar onu Wagadu olarak da kaydeder ve bugünkü Gana devletiyle karıştırılmaması gerektiğini açıkça belirti…"
 - [OK]      k3 → "Varlık süresi geniş bir aralıkla verilir: kaynaklar 200'ler ile 1200'ler arasını işaret eder ve künyedeki tari…"
 - [ATOMSUZ] k1 → "Bu düzenin ekonomik temeli, güneyden gelen altın ile kuzeyden gelen tuzun değişimidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Bu düzenin ekonomik temeli, güneyden gelen altın ile kuzeyden gelen tuzun değişimidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -24,7 +24,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.144Z_
 - [OK]      k3 → "Kaynaklar hükümdarları tarihleriyle sıralar: 700'de Kaya Magan Cissé, 790'larda Dyabe Cisse, 1040-1062 arasınd…"
 - [OK]      k3 → "Yönetim biçimi bir monarşi olarak kaydedilir ve ortak diller Soninke, Malinke ve Mande olarak verilir."
 - [ATOMSUZ] k3 → "Dört hükümdarın beş yüzyıla yayılması, listenin eksiksiz olmadığını gösterir; atlas bu boşluğu doldurmaz, kayd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "yüzyıla tarihler; kuruluştan yüzyıllar sonra gelen bir değişim, bir devletin kimliğinin kuruluş anında sabitle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Kaynaklar önce yerel inanç düzenini, sonra İslam'ı kaydeder ve geçişi 11. yüzyıla tarihler; kuruluştan yüzyıll…"
 - [OK]      k1 → "Kaynaklar, hükümdar ailesinin ve halkın İslam'ı benimseme sürecinin kademeli olduğunu ve saray çevresiyle tücc…"
 - [OK]      k3 → "Kaynaklar, hükümdar ailesinin ve halkın İslam'ı benimseme sürecinin kademeli olduğunu ve saray çevresiyle tücc…"
 - [ATOMSUZ] k2 → "Bu tarifin kendisi de aktarımdır ve doğrulanmamıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -66,4 +66,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.144Z_
 - [ATOMSUZ] k3 → "Bu dosyayı okurken akılda tutulması gereken tek şey vardır: burada anlatılan her şey, olayları görmemiş kişile…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Sınama ancak iki yoldan yapılabilir: aynı dönemin başka kayıtlarıyla karşılaştırmak ya da arkeolojik bulgularl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 12 OK · 3 ISARET · 0 HATA · 49 ATOMSUZ
+**Özet:** 16 OK · 1 ISARET · 0 HATA · 47 ATOMSUZ

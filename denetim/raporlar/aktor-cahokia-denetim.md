@@ -1,7 +1,7 @@
 ## aktor-cahokia
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.694Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:08.357Z_
 
-- [OK]      k1 → "Louis'nin tam karşısında kurulmuş bir kentti; 1050 dolayında köy ölçeğinden kent ölçeğine sıçradı ve 1350'ye d…"
+- [OK]      k1 → "Cahokia, Mississippi ile Missouri nehirlerinin kavuştuğu yere yakın verimli bir taşkın ovasında, bugünkü St. L…"
 - [OK]      k1 → "En geniş döneminde yaklaşık on altı kilometrekareye yayılıyor, aralarında Monks Mound'un da bulunduğu yüz yirm…"
 - [OK]      k1 → "Bu ölçek kıtanın kuzeyinde tekti: Cahokia, orta ve güneydoğu bölgelere yayılan Mississippi kültürünün en büyük…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k5 → "Timothy Pauketat'ın anlatımıyla burası "Mississippi kıyısındaki büyük kent"tir; kuzeyde onunla karşılaştırılab…"
@@ -24,7 +24,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.694Z_
 - [ATOMSUZ] k1 → "İskeletlerin önemli bir bölümünün kurban edildiği düşünülür; elleri ve kafatasları alınmış genç erkekler, iki …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bu gömüler keskin bir hiyerarşinin ve örgütlü şiddetin doğrudan kanıtıdır; ama gömülenlerin kim olduğunu, hang…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k5 → "Mound 72'nin bulunuşu, kent hakkındaki modern sentezlerin de dönüm noktaları arasındadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Louis kesimindeki büyük bir yerleşim bölümü yandı ve 1175 dolayında merkezin çevresine ilk ahşap savunma duvar…"
+- [OK]      k1 → "Gerileme on ikinci yüzyılın sonunda görünür olur: 1160-1170 dolayında East St. Louis kesimindeki büyük bir yer…"
 - [OK]      k1 → "On üçüncü yüzyılın ortasında nüfus en az yarıya inmişti; 1350 dolayında kent terk edildi."
 - [OK]      k1 → "Boşalma kentle sınırlı kalmadı; araştırmacıların Boş Çeyrek dediği geniş bir bölge aynı dönemde nüfusunu yitir…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Öne sürülen nedenler arasında çevresel bozulma, iklim dalgalanması, kaynak baskısı ve içeriden ya da dışarıdan…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -32,7 +32,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.694Z_
 - [ATOMSUZ] k1 → "Cahokia halkı bölgeye kentin terk edilişinden yüzyıllar sonra gelmişti; ad, kuruculardan değil sonraki komşula…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Adı verenlerin sonradan gelmiş olması kentin torunsuz kaldığı anlamına gelmez: güncel arkeoloji ve sözlü gelen…"
 - [OK]      k1 → "Ponca sözlü geleneği ataların Cahokia'da geçirdiği dönemi anlatır ve kenti P’ahé’žíde, yani kızıl tepe adıyla …"
-- [OK]      k1 → "Louis yakasında ayakta kalan son Mississippi dönemi höyüklerinden Sugarloaf Mound'u satın alarak korumaya almı…"
+- [OK]      k1 → "Osage Ulusu bugün alan yönetiminin ve arkeolojik çalışmanın başlıca ortağıdır; nehrin St. Louis yakasında ayak…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Alan yerli topluluklar için kutsal yer olmayı sürdürüyor ve tören ile dans için ziyaret ediliyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Bu bağın bugün kurulabilmesi bir tarih yazımı onarımıdır; çünkü on dokuzuncu yüzyılın büyük bölümünde höyükler…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Höyükleri ayrıntısıyla anlatan ilk gözlemcilerden Brackenridge, 1811 sonbaharında alanı gezdi; mezar ve höyük …" — 2 atom doğrulandı; 2 ad ölçülemedi

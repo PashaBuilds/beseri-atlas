@@ -1,5 +1,5 @@
 ## kavram-arkeolojik-kanit
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.825Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:21.319Z_
 
 - [ATOMSUZ] k1 → "Kaynak, arkeolojik kaydın yerleşim, su ve toprak kullanımına dair kanıt oluşturmada aynı ölçüde önemli olduğun…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir maddi kalıntının ancak bir teknikle kanıta dönüşmesi, atlasın şu kuralının dayanağıdır: bu atlasta arkeolo…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

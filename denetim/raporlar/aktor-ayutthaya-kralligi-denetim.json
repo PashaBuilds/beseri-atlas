@@ -1,21 +1,21 @@
 {
   "id": "aktor-ayutthaya-kralligi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:48.211Z",
+  "zaman": "2026-08-29T19:34:06.951Z",
   "govde_hash": "e281f6ff04b4",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
       "iddia": "Ayutthaya Krallığı, Güneydoğu Asya'nın anakara bölümünde, denize açılan bir nehir sisteminin üzerinde kurulmuş siyasi birimdir.",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Krallığı"
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
       "iddia": "Ayutthaya Krallığı, Güneydoğu Asya'nın anakara bölümünde, denize açılan bir nehir sisteminin üzerinde kurulmuş siyasi birimdir.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -381,7 +381,7 @@
       "anahtar": "k3",
       "iddia": "Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki dördüncü dosyadır ve bölgenin anakara bölümünü ilk kez ayrıntılı biçimde ele alır.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",

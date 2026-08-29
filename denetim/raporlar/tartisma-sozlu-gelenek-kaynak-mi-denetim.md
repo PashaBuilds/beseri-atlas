@@ -1,5 +1,5 @@
 ## tartisma-sozlu-gelenek-kaynak-mi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.552Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:32.997Z_
 
 - [ATOMSUZ] k3 → "Sözlü gelenek, bir topluluğun geçmişine dair bilgiyi yazıya değil belleğe, kalıba ve tekrara emanet eden aktar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k9 → "Sözlü gelenek, bir topluluğun geçmişine dair bilgiyi yazıya değil belleğe, kalıba ve tekrara emanet eden aktar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -13,12 +13,12 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.552Z_
 - [OK]      k6 → "Robert Lowie 1915'te Amerikan antropolojisinin dergisinde yayımladığı kısa notta konumunu olabilecek yalınlıkt…"
 - [ATOMSUZ] k6 → "Gerekçesi bir ikilemdi; ona göre bir geleneğin doğruluğu ancak dil bilimi, etnoloji ya da arkeoloji gibi dış k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k6 → "Aynı notta Sidney Hartland'ın 1914'te Baganda ve Bushongo gelenekleri üzerine yürüttüğü incelemeyi kendi görüş…"
-- [OK]      k2 → "Bu ret kendi başına doğmadı; on dokuzuncu yüzyılda Leopold von Ranke'nin adıyla anılan belge merkezli tarihçil…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k6 → "Bu ret kendi başına doğmadı; on dokuzuncu yüzyılda Leopold von Ranke'nin adıyla anılan belge merkezli tarihçil…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Bu ret kendi başına doğmadı; on dokuzuncu yüzyılda Leopold von Ranke'nin adıyla anılan belge merkezli tarihçil…"
+- [OK]      k6 → "Bu ret kendi başına doğmadı; on dokuzuncu yüzyılda Leopold von Ranke'nin adıyla anılan belge merkezli tarihçil…"
 - [OK]      k5 → "Ölçütün siyasi bir gölgesi de vardı: belge yoksa tarih de yoktur çıkarımı, sömürge yönetimlerinin bazı bölgele…"
 - [OK]      k2 → "Ölçütün siyasi bir gölgesi de vardı: belge yoksa tarih de yoktur çıkarımı, sömürge yönetimlerinin bazı bölgele…"
 - [OK]      k5 → "Belçika yönetiminin Kongo'daki ve Ruanda'daki araştırma kurumlarında çalışan Vansina kitabı 1961'de yayımladı;…" — 4 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k3 → "Belçika yönetiminin Kongo'daki ve Ruanda'daki araştırma kurumlarında çalışan Vansina kitabı 1961'de yayımladı;…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k3 → "Belçika yönetiminin Kongo'daki ve Ruanda'daki araştırma kurumlarında çalışan Vansina kitabı 1961'de yayımladı;…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k3 → "Önerinin özü, yazılı sorularını aktarım zincirine uyarlamaktı: anlatan kim, kimden öğrendi, hangi ortamda ve h…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k5 → "Önerinin özü, yazılı sorularını aktarım zincirine uyarlamaktı: anlatan kim, kimden öğrendi, hangi ortamda ve h…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k5 → "Kitabın yankısını ölçmek için Genel Afrika Tarihi'nin açılış cildindeki tarih yazımı bölümüne bakmak yeter: bö…" — 4 atom doğrulandı; 2 ad ölçülemedi
@@ -28,9 +28,9 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.552Z_
 - [ATOMSUZ] k7 → "Sonraki kitap, geleneği arşivdeki belgenin sözlü bir eşdeğeri gibi görmekten uzaklaşır ve onu her kuşakta yeni…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Sonraki kitap, geleneği arşivdeki belgenin sözlü bir eşdeğeri gibi görmekten uzaklaşır ve onu her kuşakta yeni…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k9 → "Jack Goody ile Ian Watt'ın 1963 tarihli ortak makalesi tartışmaya başka bir katman ekledi: yazı yalnızca bir k…"
-- [OK]      k3 → "Jack Goody ile Ian Watt'ın 1963 tarihli ortak makalesi tartışmaya başka bir katman ekledi: yazı yalnızca bir k…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Jack Goody ile Ian Watt'ın 1963 tarihli ortak makalesi tartışmaya başka bir katman ekledi: yazı yalnızca bir k…"
 - [OK]      k8 → "Goody bu tezi The Domestication of the Savage Mind ile genişletti; liste, tablo ve arşiv gibi biçimler yazıyla…"
-- [OK]      k9 → "Goody bu tezi The Domestication of the Savage Mind ile genişletti; liste, tablo ve arşiv gibi biçimler yazıyla…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Goody bu tezi The Domestication of the Savage Mind ile genişletti; liste, tablo ve arşiv gibi biçimler yazıyla…"
 - [ATOMSUZ] k8 → "Bir yandan belgeci şüpheciliğe kuramsal bir zemin verir: yazısız aktarımda geçmiş, bugünün ihtiyaçlarına göre …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k9 → "Bir yandan belgeci şüpheciliğe kuramsal bir zemin verir: yazısız aktarımda geçmiş, bugünün ihtiyaçlarına göre …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k9 → "Öte yandan tezin kendisi bir tarih yazımı yasağı içermez; Goody'nin derdi sözlü kültürü değersizleştirmek deği…"
@@ -54,7 +54,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.552Z_
 - [ATOMSUZ] k3 → "Çalışma bugün iki şeyin birden kaydı olarak okunur; on dokuzuncu yüzyılın soy zincirine duyduğu güvenin ve o z…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k10 → "Bu şartın gücünü gösteren erken bir örnek Büyük Zimbabve'dir: kalıntılar yerleşimci yazınında Doğu'dan gelmiş …" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k10 → "Kazı burada yerli geçmişi silen bir efsaneyi çürüttü ve bölge halklarının geçmişini tarihlenebilir bir zemine …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k5 → "Djibril Tamsir Niane'nin 1960'ta bir griot'tan derleyip yayımladığı Sunjata destanı, Mali'nin ortaçağ geçmişi …" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Djibril Tamsir Niane'nin 1960'ta bir griot'tan derleyip yayımladığı Sunjata destanı, Mali'nin ortaçağ geçmişi …" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k9 → "Djibril Tamsir Niane'nin 1960'ta bir griot'tan derleyip yayımladığı Sunjata destanı, Mali'nin ortaçağ geçmişi …" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k5 → "Bu iş bölümü bir uzlaşma sayılmamalıdır; anlatının kazı bulgusuyla kesiştiği yerde iki taraf da kendini doğrul…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bu iş bölümü bir uzlaşma sayılmamalıdır; anlatının kazı bulgusuyla kesiştiği yerde iki taraf da kendini doğrul…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -65,8 +65,8 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.552Z_
 - [ATOMSUZ] k4 → "Gibb'in çeviriye yazdığı giriş bu kaydın niteliği konusunda açık sözlüdür: gezgin yol boyunca not tutan bir ya…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k4 → "Böyle bir metinde görgü tanıklığı ile yolda dinlenmiş aktarım iç içe geçer; hangi bilginin hangisine dayandığı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Böyle bir metinde görgü tanıklığı ile yolda dinlenmiş aktarım iç içe geçer; hangi bilginin hangisine dayandığı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k11 → "Fornander'in yararlandığı Hawaii derlemeleri, Malo ve Kamakau gibi şecereleri kendi topluluklarının içinden ya…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k5 → "Fornander'in yararlandığı Hawaii derlemeleri, Malo ve Kamakau gibi şecereleri kendi topluluklarının içinden ya…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k11 → "Fornander'in yararlandığı Hawaii derlemeleri, Malo ve Kamakau gibi şecereleri kendi topluluklarının içinden ya…"
+- [OK]      k5 → "Fornander'in yararlandığı Hawaii derlemeleri, Malo ve Kamakau gibi şecereleri kendi topluluklarının içinden ya…"
 - [ATOMSUZ] k3 → "Bu metinler hem yazılı hem sözlüdür; kaydın tarihi ile anlatının konu edindiği geçmiş ayrı katmanlar olarak ok…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bu metinler hem yazılı hem sözlüdür; kaydın tarihi ile anlatının konu edindiği geçmiş ayrı katmanlar olarak ok…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Aktarım kurumu bilinen gelenekler — kim aktarır, hangi eğitimle, hangi denetim altında — kurumu bilinmeyenlere…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

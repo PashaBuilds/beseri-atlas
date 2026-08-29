@@ -1,8 +1,8 @@
 ## tartisma-vestfalya-miti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.893Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:33.825Z_
 
 - [OK]      k5 → "Uluslararası ilişkiler öğretiminin kuruluş sahnesi çoğunlukla aynı biçimde kurulur: Otuz Yıl Savaşları 1648'de…" — 2 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k3 → "Uluslararası ilişkiler öğretiminin kuruluş sahnesi çoğunlukla aynı biçimde kurulur: Otuz Yıl Savaşları 1648'de…" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k3 → "Uluslararası ilişkiler öğretiminin kuruluş sahnesi çoğunlukla aynı biçimde kurulur: Otuz Yıl Savaşları 1648'de…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k5 → "Siyaset bilimcilerin bir bölümü 'nı modern uluslararası sistemin başlangıcı sayar ve Vestfalya egemenliği deyi…" — programatik olarak ölçülemedi (ad karşılığı yok): Vestfalya
 - [ATOMSUZ] k5 → "Tartışma, bu sahnenin antlaşmaların kendisinde bulunup bulunmadığı üzerinedir ve sonucu bir ayrıntı değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k5 → "Anlatının hammaddesi gerçek bir felakettir: barışın bitirdiği Otuz Yıl Savaşları, Almanya'yı kırıp geçiren ve …" — 2 atom doğrulandı; 3 ad ölçülemedi
@@ -21,8 +21,8 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.893Z_
 - [ATOMSUZ] k1 → "Devletler arası bir ilke olarak egemenlik, karışmama ya da devletlerin eşitliği dili bu metinde hiç görünmez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Karışmamanın bulunmadığı yerde ters yönde hüküm bile vardır: yüz yirmi üçüncü ve yüz yirmi dördüncü maddeler, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k5 → "Hall Gardner'ın kitabını değerlendiren bir yazının aktarımına göre Vestfalya, karışmamanın katı biçimde kutsan…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k1 → "Barış iki ayrı belgeden oluşur; imparatorun Fransa ile Münster'de, İsveç ile Osnabrück'te imzaladığı antlaşmal…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ISARET]  k2 → "Barış iki ayrı belgeden oluşur; imparatorun Fransa ile Münster'de, İsveç ile Osnabrück'te imzaladığı antlaşmal…" — özel isim kaynakta bulunamadı: Fransa
+- [OK]      k1 → "Barış iki ayrı belgeden oluşur; imparatorun Fransa ile Münster'de, İsveç ile Osnabrück'te imzaladığı antlaşmal…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Barış iki ayrı belgeden oluşur; imparatorun Fransa ile Münster'de, İsveç ile Osnabrück'te imzaladığı antlaşmal…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Münster metninin yirmi sekizinci maddesi bunun örneğidir: Augsburg İtikadı'na bağlı olanlar, Oppenheim halkı b…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "İmparator ile İsveç arasındaki Osnabrück metni, mezhep düzenini ayrıntısıyla kuran beşinci maddesiyle tartışma…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Madde, dinsel mülkiyet ve ibadet düzeni için ölçü yılı olarak 1 Ocak 1624'ü koyar: iki mezhebin seçmenleri, pr…" — 1 atom doğrulandı; 1 ad ölçülemedi
@@ -66,4 +66,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.893Z_
 - [ATOMSUZ] k7 → "Krasner'ın çerçevesi ise normun başlangıcını tarihlemeden bırakır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Krasner'ın çerçevesi ise normun başlangıcını tarihlemeden bırakır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 35 OK · 1 ISARET · 0 HATA · 28 ATOMSUZ
+**Özet:** 36 OK · 0 ISARET · 0 HATA · 28 ATOMSUZ

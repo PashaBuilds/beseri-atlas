@@ -1,5 +1,5 @@
 ## aktor-fatimi-hilafeti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T16:16:41.672Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:09.135Z_
 
 - [ATOMSUZ] k1 → "Ehl-i sünnet'te halife seçimle ya da önceki halifenin tayini ve halkın biatıyla iş başına gelirken, Fâtımîler'…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Devletin başındaki imam Allah'ın yeryüzündeki temsilcisi sayılır, her ilmin kaynağı ve şeriatın birinci müfess…"

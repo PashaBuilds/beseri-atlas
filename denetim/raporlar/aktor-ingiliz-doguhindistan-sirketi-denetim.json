@@ -1,9 +1,9 @@
 {
   "id": "aktor-ingiliz-doguhindistan-sirketi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:49.791Z",
+  "zaman": "2026-08-29T19:34:10.777Z",
   "govde_hash": "138a2df86972",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -13,15 +13,15 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılın sonlarındaki doğu tasarımının önemli bir unsurunu başlattı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Yatırımcılar yaklaşık yüzde 5.000'lik bir getiri elde etti; bu, 16. yüzyılın sonlarındaki doğu tasarımının önemli bir unsurunu başlattı.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
       "iddia": "Toplanan sermaye 30.133 sterlin — bugünkü parayla 4.000.000 sterlinin üzerinde — olarak kaydedilir; girişimciler daha sonra yatırımlarını 68.373 sterline çıkard",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -37,9 +37,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Elizabeth korsanlığa başvurdu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "İngiltere'nin 1585'te İspanya ve Portekiz'le savaş halinde olmasıyla ticaret kesilmişti ve Kraliçe I. Elizabeth korsanlığa başvurdu.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

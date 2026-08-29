@@ -1,15 +1,15 @@
 {
   "id": "aktor-gupta-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:49.277Z",
+  "zaman": "2026-08-29T19:34:09.543Z",
   "govde_hash": "59f541e1a3de",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Chandragupta'nın taç giyme töreni 26 Şubat 320 olarak gün gün tarihlenir.",
+      "iddia": "Kuruluş yaklaşık 240, dağılma yaklaşık 579 olarak verilirken I. Chandragupta'nın taç giyme töreni 26 Şubat 320 olarak gün gün tarihlenir.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

@@ -1,21 +1,21 @@
 {
   "id": "aktor-pagan-kralligi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:51.029Z",
+  "zaman": "2026-08-29T19:34:14.034Z",
   "govde_hash": "8d551ff20403",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
       "iddia": "Pagan Krallığı, Güneydoğu Asya'nın batı ucunda, büyük bir nehrin orta havzasında kurulmuş siyasi birimdir.",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Krallığı"
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
       "iddia": "Pagan Krallığı, Güneydoğu Asya'nın batı ucunda, büyük bir nehrin orta havzasında kurulmuş siyasi birimdir.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
@@ -309,7 +309,7 @@
       "anahtar": "k3",
       "iddia": "Bu dosya, atlasın Güneydoğu Asya aktör katmanındaki beşinci dosyadır ve bölgenin batı ucunu ilk kez ele alır.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k3",

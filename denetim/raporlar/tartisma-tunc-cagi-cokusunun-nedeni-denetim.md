@@ -1,15 +1,15 @@
 ## tartisma-tunc-cagi-cokusunun-nedeni
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.842Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:33.679Z_
 
 - [OK]      k4 → "Yayıncı tanıtımına göre Cline'ın 2014 tarihli kitabının çıkış noktası bile bir olumsuzdur: Deniz Kavimleri MÖ …" — 4 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k9 → "cildinde, 99–149 sayfaları arasında yayımladığı geniş inceleme, tartışmayı "Crisis in Context" başlığıyla yeni…"
+- [OK]      k9 → "Knapp ve Manning'in 2016'da American Journal of Archaeology'nin 120. cildinde, 99–149 sayfaları arasında yayım…"
 - [OK]      k1 → "Yazıtın kuzey savaşı bölümü, Breasted'ın çevirisinde kuzeydeki ülkelerin adalarında kımıldandığını, Kheta'dan …" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Breasted, 1906'da yayımladığı derlemenin kendi yorumunda olup bitenin basit bir akın değil, kendi deyişiyle bi…" — 1 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k1 → "Aynı ciltte Breasted, Peleset'in sonradan İncil'deki Filistinlilere dönüşen topluluk olabileceğini, Thekel'in …" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Yerinden olmuş toplulukların bir sebep mi yoksa bir sonuç mu olduğu yazıttan okunamaz; yazıt yalnızca bu grupl…"
 - [OK]      k2 → "Yerinden olmuş toplulukların bir sebep mi yoksa bir sonuç mu olduğu yazıttan okunamaz; yazıt yalnızca bu grupl…"
 - [OK]      k2 → "Şuppiluliuma'nın çağdaşıydı; Ammurapi'nin saltanatına ait kesin tarihler ise bilinmiyor."
-- [OK]      k2 → "Ammurapi'nin Alaşiya kralına yazdığı RS 18.147 numaralı mektup, düşman gemilerinin geldiğini, kentlerinin yakı…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Ammurapi'nin Alaşiya kralına yazdığı RS 18.147 numaralı mektup, düşman gemilerinin geldiğini, kentlerinin yakı…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Kıbrıs'taki üst düzey yönetici Eshuwara'nın RS 20.18 numaralı cevabı, saldırıyı yapanların Ugarit'in kendi hal…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Bu iki Ugarit mektubunun sözleri dosyaya birincil yayınlarından değil ansiklopedik bir aktarımdan geliyor; akt…"
 - [OK]      k2 → "İç çözülme ile dış saldırı arasındaki ayrım, kaynakların kendi düzeyinde bile bulanıktır; yayıncı tanıtımına g…"
@@ -24,7 +24,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.842Z_
 - [OK]      k8 → "Amos Nur ile Eric Cline'ın Journal of Archaeological Science'ın 2000 yılındaki cildinde yayımladığı çalışma, E…"
 - [OK]      k5 → "Bu kolun sınırı da kanıt katmanındadır; yıkılmış bir duvarın hangi kuvvetle yıkıldığı çoğu kazıda ayırt edilem…"
 - [OK]      k2 → "Demir işçiliğinin Levant ve Ege'de artmasından doğan iktisadi bozulmalar, çöküşün olası etkenleri arasında düz…"
-- [OK]      k5 → "Demir işçiliğinin Levant ve Ege'de artmasından doğan iktisadi bozulmalar, çöküşün olası etkenleri arasında düz…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Demir işçiliğinin Levant ve Ege'de artmasından doğan iktisadi bozulmalar, çöküşün olası etkenleri arasında düz…"
 - [OK]      k5 → "Kitabın 1993 tarihli içindekiler dizisi savaş arabası düzenini, aynı dönemin yaya askerlerini, Erken Demir Çağ…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k10 → "Tartışma da kapanmadı: aynı yazar 2020'de Collapse and Transformation derlemesinde "Catastrophe revisited" baş…"
 - [OK]      k2 → "Hitit başkenti bu genel dönem içinde yandı; yangının tarihi bilinmiyor ve Hattuşa'nın o noktada terk edilmiş o…"

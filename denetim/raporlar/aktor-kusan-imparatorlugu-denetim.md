@@ -1,5 +1,5 @@
 ## aktor-kusan-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.236Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:12.154Z_
 
 - [OK]      k1 → "Kuşan İmparatorluğu, bugünkü Orta Asya'nın güneyi ile Güney Asya'nın kuzeybatısını kapsayan bir alanda kuruldu…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bulunduğu yer, dört büyük kültür alanının kesiştiği noktadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

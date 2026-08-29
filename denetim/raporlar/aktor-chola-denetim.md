@@ -1,5 +1,5 @@
 ## aktor-chola
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.712Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:08.398Z_
 
 - [OK]      k1 → "Chola hanedanı, Güney Hindistan'ın Tamil bölgesinde kurulmuş ve gücünün zirvesinde deniz aşırı seferler düzenl…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k3 → "Chola hanedanı, Güney Hindistan'ın Tamil bölgesinde kurulmuş ve gücünün zirvesinde deniz aşırı seferler düzenl…" — 2 atom doğrulandı; 1 ad ölçülemedi
@@ -17,7 +17,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.712Z_
 - [ATOMSUZ] k2 → "Bir meclisin kurallarının yazılı olması, o kuralların uygulandığını göstermez; kayıt ile pratik arasındaki far…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Atlas bir yorumu benimsemez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Atlas bir yorumu benimsemez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ISARET]  k1 → "Hanedanın gücünün zirvesinde Güneydoğu Asya'ya yönelik deniz seferleri düzenlendiği kaydedilir." — özel isim kaynakta bulunamadı: Asya
+- [OK]      k1 → "Hanedanın gücünün zirvesinde Güneydoğu Asya'ya yönelik deniz seferleri düzenlendiği kaydedilir." — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k3 → "Hanedanın gücünün zirvesinde Güneydoğu Asya'ya yönelik deniz seferleri düzenlendiği kaydedilir." — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Batı yarısı için dosyası aynı okyanusun öteki ucundaki düğümü kaydeder; üç dosya birlikte, okyanusun tek bir t…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Seferlerin amacı — ticaret yollarının denetimi mi, doğrudan siyasi hâkimiyet mi — kaynaklarda net değildir ve …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -63,4 +63,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.712Z_
 - [ATOMSUZ] k2 → "Bu dosyanın bağlandığı kaynaklar tek tek kayıtlardan oluşur ve bu dosya onların hiçbirini tek tek aktarmaz." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Binlerce kayıt içeren bir külliyat özetlenemez; ancak nasıl okunacağı anlatılabilir ve okuyucu külliyata yönle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 3 OK · 3 ISARET · 0 HATA · 55 ATOMSUZ
+**Özet:** 4 OK · 2 ISARET · 0 HATA · 55 ATOMSUZ

@@ -1,9 +1,9 @@
 {
   "id": "aktor-kus-kralligi",
   "gecis": 2,
-  "zaman": "2026-08-29T17:40:01.066Z",
+  "zaman": "2026-08-29T19:34:12.044Z",
   "govde_hash": "ae0513ef0721",
-  "commit": "c7bbcdb",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -199,7 +199,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Wallis Budge, 1907'de yayımladığı The Egyptian Sudan'da, 1905 baharında Hartum'da yeni kurulan müzeye eser toplamak için Sudan'a gönderildiğini ve başlıca antik",
+      "iddia": "E. A. Wallis Budge, 1907'de yayımladığı The Egyptian Sudan'da, 1905 baharında Hartum'da yeni kurulan müzeye eser toplamak için Sudan'a gönderildiğini ve başlıca",
       "durum": "OK",
       "not": ""
     },

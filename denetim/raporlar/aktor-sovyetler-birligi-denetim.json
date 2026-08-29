@@ -1,9 +1,9 @@
 {
   "id": "aktor-sovyetler-birligi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:51.668Z",
+  "zaman": "2026-08-29T19:34:15.554Z",
   "govde_hash": "51af44782356",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -45,7 +45,7 @@
       "anahtar": "k3",
       "iddia": "İkinci Dünya Savaşı'ndan sonraki yıllarda çatışmalarda birkaç milyon insan öldü; 1950'lerde çok daha düşük düzeylere indikten sonra çatışma ölümleri 1970'ler ve",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k3",

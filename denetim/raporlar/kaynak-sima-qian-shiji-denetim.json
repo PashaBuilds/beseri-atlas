@@ -1,9 +1,9 @@
 {
   "id": "kaynak-sima-qian-shiji",
   "gecis": 2,
-  "zaman": "2026-08-29T14:40:01.475Z",
+  "zaman": "2026-08-29T19:34:37.527Z",
   "govde_hash": "ed30d51c6d25",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -31,9 +31,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıla kadar model olduğunu yazar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Kaynak, eserin antik Çinlilerin bildiği dünyanın ilk evrensel tarihi olarak sonraki hanedanların resmî tarihleri için Sinosfer boyunca 20. yüzyıla kadar model o",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

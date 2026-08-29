@@ -1,5 +1,5 @@
 ## aktor-karluklar
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.958Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:11.491Z_
 
 - [OK]      k1 → "Karluklar, yedinci yüzyıldan itibaren Orta Asya'nın kuzeydoğusunda kaydedilen ve sonraki dört yüzyıl boyunca b…"
 - [ATOMSUZ] k3 → "Karluklar bağımsız bir kağanlık kurmadı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## kavram-yasam-beklentisi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.166Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:25.681Z_
 
 - [ATOMSUZ] k1 → "Veri kümesinin sütun adı ölçünün hangi yaşta hesaplandığını taşır: sıfır yaşta yaşam beklentisi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir ölçünün adında başlangıç yaşının bulunması, atlasın şu kuralının dayanağıdır: bu dosyada yaşam beklentisi,…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## aktor-babur-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:12:47.292Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:07.379Z_
 
 - [OK]      k2 → "Kurucu metin olan Bâbürnâme'de Mughūl sözcüğü başka bir topluluğu gösterir: Bâbür, anne tarafından dedesi Yûnu…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k6 → "Ad bugün de tek başına bırakılmıyor; Moin'in bölümü düzeni Bâbürlü ya da Timurlu imparatorluğu diye anar, Türk…"

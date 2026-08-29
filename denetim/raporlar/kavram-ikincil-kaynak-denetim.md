@@ -1,5 +1,5 @@
 ## kavram-ikincil-kaynak
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:54.619Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:23.059Z_
 
 - [ATOMSUZ] k1 → "Kaynak bölümlerini sıralar: kaynakların sınıflandırılması, ikincil literatür ve bilim, teknoloji ve tıp; sonun…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynağın sınıflandırmayı alan alan bölümlemesi, atlasın şu kuralının dayanağıdır: bu atlasta bir kaynağın biri…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## aktor-safevi-devleti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:14:33.747Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:14.976Z_
 
 - [OK]      k5 → "Kathryn Babayan'ın makale künyesindeki özete göre Safevîler 1301'de bir tasavvuf tarikatı olarak başlamış, 144…"
 - [OK]      k1 → "Tebriz'de tahta oturduğunda ilk işi On İki İmam Şiîliğini resmî mezhep ilan etmek ve hutbelerde ilk üç halifey…"
@@ -26,12 +26,12 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T19:14:33.747Z_
 - [ATOMSUZ] k1 → "Eyaletlerin gelirlerini kızılbaş beylerbeyileri tasarruf ediyor, savaşta kendi kabile erkekleriyle orduya katı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Bürokrasi ise Tacik denilen Fars kökenlilerin elindeydi; askerî sınıf ile kalem sınıfı arasındaki bu ayrım dev…"
 - [OK]      k1 → "yüzyılın ortalarında saray teşkilâtına bağlı otuzdan fazla imalâthanede yaklaşık 5000 sanatkâr çalışıyordu."
-- [OK]      k1 → "Abbas köprüler ve kervansaraylar yaptırarak yol ağını güvenli kılmış, İpek yolunun güzergâhını İsfahan'dan geç…"
+- [OK]      k1 → "I. Abbas köprüler ve kervansaraylar yaptırarak yol ağını güvenli kılmış, İpek yolunun güzergâhını İsfahan'dan …"
 - [OK]      k1 → "Şehirlerdeki ticarî hayat Ermeni, yahudi ve Hintli tüccarların elindeydi; yahudilerle Hintliler kıymetli maden…"
-- [OK]      k1 → "Abbas, Ermeni tüccarların Avrupa bağlantısından yararlanmak için Azerbaycan'ın Culfa şehrindeki Ermenilerin bü…"
+- [OK]      k1 → "I. Abbas, Ermeni tüccarların Avrupa bağlantısından yararlanmak için Azerbaycan'ın Culfa şehrindeki Ermenilerin…"
 - [OK]      k7 → "Ina Baghdiantz-MacCabe'nin makale özetine göre Yeni Culfa, 1604'te Abbas tarafından sürülen Culfalı ipek tücca…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k7 → "yüzyılda yoksullaşarak başka Hristiyanların da yaşadığı bir gettoya dönüştüğünü belirtir."
-- [ISARET]  k3 → "Abbas tarafından tahrip edildiğini, Culfa ve çevresindeki halkın yaşlı genç demeden İran'a sürüldüğünü yazar; …" — özel isim kaynakta bulunamadı: Culfa, İran, Ermeni
+- [ISARET]  k3 → "Fransız kuyumcu Jean-Baptiste Tavernier, Erivan ile Tebriz arasındaki bütün ülkenin Osmanlı orduları geçim bul…" — özel isim kaynakta bulunamadı: Jean-Baptiste, Tebriz
 - [ISARET]  k3 → "En itibarlı olanlar İsfahan'a yollanmış, şah onları ipek ticaretine koymuş ve mal avans vererek satış dönüşü ö…" — özel isim kaynakta bulunamadı: İsfahan
 - [ISARET]  k3 → "Tavernier anlatıyı, yaşlılar öldükçe gençlerin genellikle Müslüman olduğu ve artık o ovalarda iki Hristiyan Er…" — özel isim kaynakta bulunamadı: Müslüman, Ermeniye
 - [ISARET]  k4 → "Jean Chardin, Culfa Ermenilerinin kethüdasına ait büyük bir elmasın şah tarafından peşin üç bin yüz elli tümen…" — özel isim kaynakta bulunamadı: Culfa

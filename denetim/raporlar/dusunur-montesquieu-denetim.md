@@ -1,5 +1,5 @@
 ## dusunur-montesquieu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T17:22:53.214Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:20.152Z_
 
 - [ATOMSUZ] k1 → "Montesquieu yasaların, yapıldıkları halka öylesine özgü olması gerektiğini yazar ki bir ulusun yasalarının bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kitabın adındaki "ruh" işte bu ilişkiler demetidir: yasaların kendisi değil, yasaların şeylerle kurduğu bağ." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

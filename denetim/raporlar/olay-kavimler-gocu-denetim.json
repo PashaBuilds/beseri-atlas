@@ -1,9 +1,9 @@
 {
   "id": "olay-kavimler-gocu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:45.701Z",
+  "zaman": "2026-08-29T19:34:00.274Z",
   "govde_hash": "4d36fd205950",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -14,14 +14,14 @@
     {
       "anahtar": "k1",
       "iddia": "Göç eden gruplar birkaç bin kişilik savaşçı bölüklerinden 100.000'i aşan tüm kabile topluluklarına kadar büyük ölçüde değişiyordu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
       "iddia": "Modern tahminler, 376'daki Got Tuna geçişinin İmparatorluğa 90.000 ile 200.000 arasında insan getirdiğini, 406'daki Ren geçişinin Vandal, Alan ve Suebi koalisyo",
       "durum": "OK",
-      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "9 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -31,7 +31,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılda İmparatorluk, çok büyük bir Got topluluğunu Roma Balkanları içine foederati olarak yerleştirmişti.",
+      "iddia": "4. yüzyılda İmparatorluk, çok büyük bir Got topluluğunu Roma Balkanları içine foederati olarak yerleştirmişti.",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -43,9 +43,9 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "yüzyıldaki çöküşünden sonra varlığını sürdürdü ve 1453'e kadar devam etti.",
+      "iddia": "Doğu kanadı ise ayakta kaldı: devlet, Batı Roma İmparatorluğu'nun 5. yüzyıldaki çöküşünden sonra varlığını sürdürdü ve 1453'e kadar devam etti.",
       "durum": "OK",
-      "not": ""
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
@@ -68,8 +68,8 @@
     {
       "anahtar": "k1",
       "iddia": "Toplam göç için verilen 500.000 ile 1.000.000 üzeri aralık bu ölçekteki bir dünyaya aittir; iki seri farklı olduğu için burada oran kurulmamıştır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

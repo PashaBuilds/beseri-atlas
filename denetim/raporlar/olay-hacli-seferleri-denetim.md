@@ -1,8 +1,8 @@
 ## olay-hacli-seferleri
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:44.815Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:58.160Z_
 
-- [OK]      k1 → "Aleksios Komnenos (1081-1118) arasında aynı konu yeniden ele alındı."
-- [OK]      k1 → "Süleyman Şah'ın 1086 yılında ölümünden sonra Türk beyleri arasındaki anlaşmazlıklar yüzünden hâkimiyet bölünmü…"
+- [OK]      k1 → "Urbanus ile Bizans İmparatoru I. Aleksios Komnenos (1081-1118) arasında aynı konu yeniden ele alındı."
+- [OK]      k1 → "Kaynağın kaydına göre Anadolu'da, I. Süleyman Şah'ın 1086 yılında ölümünden sonra Türk beyleri arasındaki anla…"
 - [OK]      k1 → "Aynı kayda göre bu sebeple Bizans imparatoru, güçlü ordularla yapılacak birkaç seferin Anadolu'daki Türk kudre…"
 - [ATOMSUZ] k2 → "Karşı taraftaki hanedan bölünmesinin mantığı dosyasında ele alınıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "İmparatorun yardım isteğini kabul eden Urbanus bu isteği farklı bir açıdan değerlendirdi: ona göre ücretli ask…"

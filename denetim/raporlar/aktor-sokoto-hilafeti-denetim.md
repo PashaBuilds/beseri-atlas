@@ -1,8 +1,8 @@
 ## aktor-sokoto-hilafeti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:51.551Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:15.336Z_
 
 - [ISARET]  k1 → "Sokoto Hilafeti, Batı Afrika'nın Sahra altı savan kuşağında, birbirinden bağımsız şehir devletlerinin bulunduğ…" — özel isim kaynakta bulunamadı: Hilafeti
-- [ISARET]  k3 → "Sokoto Hilafeti, Batı Afrika'nın Sahra altı savan kuşağında, birbirinden bağımsız şehir devletlerinin bulunduğ…" — özel isim kaynakta bulunamadı: Hilafeti, Sahra
+- [ISARET]  k3 → "Sokoto Hilafeti, Batı Afrika'nın Sahra altı savan kuşağında, birbirinden bağımsız şehir devletlerinin bulunduğ…" — özel isim kaynakta bulunamadı: Hilafeti
 - [ATOMSUZ] k1 → "Kuruluş, dışarıdan bir fetihle değil bölgenin kendi içinden bir hareketle gerçekleşti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Kuruluş, dışarıdan bir fetihle değil bölgenin kendi içinden bir hareketle gerçekleşti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bu, dosyanın ayırt edici yanıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -25,7 +25,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:51.551Z_
 - [ATOMSUZ] k1 → "Atlasın dosyası bu yapıyı kavram düzeyinde ele alır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k4 → "Bu kapasitenin sonucu, atlas açısından doğrudan bir kazançtır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Düzenin geliri tarım, hayvancılık ve Sahra ticaretinden geliyordu."
-- [ISARET]  k3 → "Düzenin geliri tarım, hayvancılık ve Sahra ticaretinden geliyordu." — özel isim kaynakta bulunamadı: Sahra
+- [OK]      k3 → "Düzenin geliri tarım, hayvancılık ve Sahra ticaretinden geliyordu."
 - [OK]      k3 → "Aynı konum, atlasın önceki Batı Afrika dosyalarında da kaydedilmiştir."
 - [ATOMSUZ] k1 → "Bu düzen ikisini birden taşıyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Düzenin ekonomisinde kölelik önemli bir yer tutuyordu ve bu, dosyada gizlenemez." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -73,4 +73,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:51.551Z_
 - [ATOMSUZ] k3 → "Bölgenin paylaşıldığı süreç için , sonrasındaki çözülme için dosyaları okunabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Kanıt tabanı bakımından karşıt bir örnek için dosyası okunabilir; orada yazılı kayıt yokluğunda nesne kanıtı b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 8 OK · 3 ISARET · 0 HATA · 60 ATOMSUZ
+**Özet:** 9 OK · 2 ISARET · 0 HATA · 60 ATOMSUZ

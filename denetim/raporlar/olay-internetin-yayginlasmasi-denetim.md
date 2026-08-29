@@ -1,5 +1,5 @@
 ## olay-internetin-yayginlasmasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:45.113Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:58.739Z_
 
 - [OK]      k1 → "ARPA, ARPANET projesinin geliştirilmesi için 1969'da sözleşmeler verdi; proje Robert Taylor'ın yönetiminde, La…"
 - [OK]      k1 → "Kaynak Paul Baran'ın 1960'ların başında mesaj bloklarındaki veriye dayalı dağıtık bir ağ önerdiğini, Donald Da…"

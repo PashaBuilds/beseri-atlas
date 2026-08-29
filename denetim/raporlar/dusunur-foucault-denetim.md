@@ -1,5 +1,5 @@
 ## dusunur-foucault
-_Geçiş 2 — kaynak denetimi · 2026-08-29T17:35:22.855Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:17.532Z_
 
 - [OK]      k1 → "Michel Foucault'nun çalışması tek bir savla özetlenecekse bu olurdu: iktidar özünde bastırıcı değil üretkendir…"
 - [ATOMSUZ] k1 → "Sav, cinselliğin tarihini yazarken iktidar kavramını baştan kurma zorunluluğundan doğdu ve Cinselliğin Tarihi'…" — programatik olarak ölçülemedi (ad karşılığı yok): Cinselliğin, Tarihi

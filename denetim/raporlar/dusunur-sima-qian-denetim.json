@@ -1,9 +1,9 @@
 {
   "id": "dusunur-sima-qian",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:53.471Z",
+  "zaman": "2026-08-29T19:34:20.521Z",
   "govde_hash": "f17e71c16c1a",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -67,9 +67,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıla kadar model olduğunu kaydeder.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Kaynak Shiji'yi, efsanevi Sarı İmparator'un yükselişinden ve ilk Çin siyasi biriminin oluşumundan Sima'nın yazdığı sırada hüküm süren Han İmparatoru Wu'nun salt",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

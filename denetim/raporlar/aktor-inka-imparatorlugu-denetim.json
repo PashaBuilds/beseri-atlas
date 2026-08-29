@@ -1,9 +1,9 @@
 {
   "id": "aktor-inka-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-29T16:09:54.698Z",
+  "zaman": "2026-08-29T19:34:11.233Z",
   "govde_hash": "8d64a8fe28bd",
-  "commit": "d0eeece",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -265,7 +265,7 @@
     },
     {
       "anahtar": "k6",
-      "iddia": "Murra'nın dikey takımada dediği model, birbirini tamamlayan farklı yükseklik kuşaklarının tek bir toplulukça birlikte kullanılmasını, bu kullanımın And topluluk",
+      "iddia": "John V. Murra'nın dikey takımada dediği model, birbirini tamamlayan farklı yükseklik kuşaklarının tek bir toplulukça birlikte kullanılmasını, bu kullanımın And ",
       "durum": "OK",
       "not": ""
     },

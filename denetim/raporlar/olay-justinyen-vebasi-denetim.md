@@ -1,10 +1,10 @@
 ## olay-justinyen-vebasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:45.602Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:00.120Z_
 
 - [OK]      k1 → "Justinyen vebası (MS 541–549), bütün Akdeniz havzasını etkileyen bir veba salgınıydı." — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "2013'te araştırmacılar, Justinyen vebasının nedeninin Kara Ölüm'den (1346–1353) sorumlu olan aynı bakteri, yan…" — 6 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "pestis DNA'sının saptanmasına dayanır."
-- [OK]      k1 → "pestis suşları, Tanrı Dağları'nda bulunmuş olan Justinyen veba suşunun atasıyla yakın akrabadır." — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Justinyen vebası genellikle Yersinia pestis'in tarihsel olarak kaydedilmiş ilk salgını sayılır; bu sonuç, hast…"
+- [OK]      k1 → "Modern ve eski Y. pestis suşları, Tanrı Dağları'nda bulunmuş olan Justinyen veba suşunun atasıyla yakın akraba…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "2019'da yayımlanan araştırma, 200 yıl süren pandeminin ölüm bilançosunun ve toplumsal etkilerinin abartıldığın…"
 - [ATOMSUZ] k1 → "Ayrıca bazı tarihçiler, hastalığa dair görgü tanığı anlatımlarının üslup olarak histerik ve bu nedenle yanıltı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Karşı taraf da kayıtlıdır: salgının Justinianos Çağı'nda Akdeniz üzerindeki etkisine dair iddialar yöntemleri …" — 1 atom doğrulandı; 2 ad ölçülemedi

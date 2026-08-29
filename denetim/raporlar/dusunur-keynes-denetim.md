@@ -1,5 +1,5 @@
 ## dusunur-keynes
-_Geçiş 2 — kaynak denetimi · 2026-08-29T16:54:28.093Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:18.894Z_
 
 - [OK]      k8 → "John Maynard Keynes'in The General Theory of Employment, Interest and Money adlı kitabı 1936'da yayımlandı." — 4 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k4 → "Kitap yapısını bu olasılığın üstüne kurar: toplam arz ile toplam talep işlevlerinin kesiştiği noktadaki değere…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

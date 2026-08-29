@@ -1,5 +1,5 @@
 ## kaynak-platon-devlet
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:01.398Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:37.425Z_
 
 - [ATOMSUZ] k1 → "Kaynak eseri Devlet adıyla anar ve ilk bölümünde eserin yazarın külliyatındaki yerini ayrıca işler." — programatik olarak ölçülemedi (ad karşılığı yok): Devlet
 - [OK]      k1 → "Kaynak kitapları konu ve satır aralığıyla birlikte sıralar: birinci kitap yaşlanma, sevgi ve adaletin tanımlar…"

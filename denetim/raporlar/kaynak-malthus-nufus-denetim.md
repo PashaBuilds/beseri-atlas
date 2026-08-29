@@ -1,5 +1,5 @@
 ## kaynak-malthus-nufus
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:01.245Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:37.201Z_
 
 - [OK]      k1 → "Kaynak eser için ayrı bir bölüm açar ve altında baskılar ile sürümler diye bir alt başlık tutar; yazarı 1766-1…"
 - [ATOMSUZ] k1 → "Kaynak, ikinci ve sonraki baskılarda alt sınıfların yoksulluğunu hafifletmenin en iyi yolu olarak ahlaki kısıt…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## kavram-eksen-cagi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:18:57.840Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:22.204Z_
 
 - [OK]      k1 → "Hegel'in formülüyle Tanrı'nın Oğlu'nun görünüşü dünya tarihinin ekseniydi; Jaspers, kullandığımız takvimin her…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Karl Jaspers'in itirazı kısaydı: böyle bir eksen yalnızca inanan Hıristiyanlar için geçerlidir, dolayısıyla he…" — 1 atom doğrulandı; 1 ad ölçülemedi

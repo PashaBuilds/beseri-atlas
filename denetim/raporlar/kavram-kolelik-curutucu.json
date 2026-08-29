@@ -1,23 +1,9 @@
 {
   "id": "kavram-kolelik",
   "gecis": 3,
-  "zaman": "2026-08-29T19:15:26.046Z",
-  "govde_hash": "b40edebcc717",
+  "zaman": "2026-08-29T19:33:23.611Z",
+  "govde_hash": "edce2c1b5b5c",
   "itirazlar": [
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Tanımın ilk yarısı olan \"statü veya durum\" ikilisi, kavramı hukuki sahiplikle sınırlamayı engeller: statü hukuki bir kategori, durum ise bir hâldir. Amerikalılar Arası İnsan Haklar",
-      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Kavramın ilk sınırı, iki tanımın aynı şeyi ölçmemesidir: hukuki ölçüt bir kişi üzerinde kullanılan yetkileri sorar, toplumbilimsel ölçüt kişinin soyundan ve topluluğundan koparılma",
-      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
     {
       "ciddiyet": "orta",
       "tip": "tek-kaynakli-nedensellik",

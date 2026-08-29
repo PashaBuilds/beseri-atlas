@@ -1,5 +1,5 @@
 ## olay-nufus-patlamasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T15:43:00.940Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:02.847Z_
 
 - [OK]      k1 → "Uzun dönemli seride dünya nüfusu 1927'de yaklaşık 2 milyar, 1974'te yaklaşık 4 milyar, 2022'de yaklaşık 8 mily…"
 - [ATOMSUZ] k1 → "İlk ikiye katlanma kırk yedi, ikincisi kırk sekiz yıl sürdü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

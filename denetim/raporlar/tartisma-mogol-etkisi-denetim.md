@@ -1,5 +1,5 @@
 ## tartisma-mogol-etkisi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.958Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:31.158Z_
 
 - [OK]      k1 → "İstilayı bizzat yaşamış kişilerle görüşen İbnü'l-Esîr'e göre Tatar istilası, Âdem'den beri insanoğlunun uğradı…"
 - [OK]      k4 → "Karşı çerçevenin adı ise kendi tezini taşır: Roma Barışı'ndan örnekle türetilmiş bir tarih yazımı terimi olan …" — 1 atom doğrulandı; 2 ad ölçülemedi
@@ -48,10 +48,10 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.958Z_
 - [ATOMSUZ] k3 → "Yıkım okuması ne kaybedildiğini sorar ve tanık kayıtlarıyla vergi düzenine işaret eder; bütünleşme okuması ney…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k3 → "Fetih ölümlerinin toplamı için elde olan malzeme, Merv örneğindeki gibi tanık tahminleridir; iki tanık arasınd…"
 - [OK]      k9 → "Barışın kime yaradığı bölgeye göre değişir; Anadolu için çıkarılan bilanço, ağın merkez hattı için çıkarılan b…"
-- [ATOMSUZ] k4 → "Barışın kime yaradığı bölgeye göre değişir; Anadolu için çıkarılan bilanço, ağın merkez hattı için çıkarılan b…" — programatik olarak ölçülemedi (ad karşılığı yok): Anadolu
+- [OK]      k4 → "Barışın kime yaradığı bölgeye göre değişir; Anadolu için çıkarılan bilanço, ağın merkez hattı için çıkarılan b…"
 - [OK]      k6 → "Cüveynî'nin tarihi, Boyle'un girişinde vurgulandığı gibi, Bağdat'ı alan hükümdarın güvenini kazanmış bir görev…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "İbnü'l-Esîr ise kaydını istilayı bizzat yaşamış kişilerle görüşerek kurdu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k3 → "Cengiz Han maddesine göre batıya dönük büyük seferin kıvılcımı, 1219'da Otrar'da bir ticaret kervanının yağmal…"
 - [ATOMSUZ] k4 → "Ticaretle açılan hesap, ticaret ağı boyunca yayılan salgınla kapandı; iki ucu da kayıtlı olan bu yay, yıkım il…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 34 OK · 0 ISARET · 0 HATA · 18 ATOMSUZ
+**Özet:** 35 OK · 0 ISARET · 0 HATA · 17 ATOMSUZ

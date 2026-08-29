@@ -1,5 +1,5 @@
 ## aktor-ryukyu-kralligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:51.352Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:14.825Z_
 
 - [ATOMSUZ] k1 → "Ryukyu Krallığı, iki büyük komşunun arasında kalan bir ada zincirinde kurulmuş bir denizci krallıktır." — programatik olarak ölçülemedi (ad karşılığı yok): Krallığı
 - [ATOMSUZ] k3 → "Ayırt edici yanı dış ilişkileridir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

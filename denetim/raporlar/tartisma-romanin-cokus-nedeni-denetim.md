@@ -1,8 +1,8 @@
 ## tartisma-romanin-cokus-nedeni
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.159Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:31.789Z_
 
 - [OK]      k1 → "Roma'nın çöküşü sorusu, cevaplarının sayısıyla tanınan bir tarih yazımı sorunudur: Alexander Demandt 1984'te, …" — 5 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k3 → "Roma'nın çöküşü sorusu, cevaplarının sayısıyla tanınan bir tarih yazımı sorunudur: Alexander Demandt 1984'te, …" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Roma'nın çöküşü sorusu, cevaplarının sayısıyla tanınan bir tarih yazımı sorunudur: Alexander Demandt 1984'te, …" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k3 → "Katalogda tanrıların terk edilişi, Bolşevikleşme, kadınların özgürleşmesi, ormansızlaşma ve gut hastalığı yan …" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Ahlaki çürüme, dış tehdit, mali tükeniş, çevresel darbe ve çöküşün aslında bir dönüşüm olduğu cevabı: modern g…"
 - [OK]      k1 → "Edward Gibbon 1776'da yayımlanmaya başlayan The History of the Decline and Fall of the Roman Empire ile soruyu…"
@@ -12,7 +12,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.159Z_
 - [ATOMSUZ] k1 → "Çöküş ona göre ölçüsüz büyüklüğün doğal ve kaçınılmaz meyvesiydi: refah çürümenin ilkesini olgunlaştırdı, feti…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Din faslını da en kısa kendisi özetlemişti: Gibbon'a göre anlattığı şey "barbarlığın ve dinin zaferi"ydi."
 - [OK]      k1 → "İki büyük kanat daha kaynak kitapta iç içeydi: Gibbon'ın kendisi hem iç çözülme fikirlerini — iç savaşları; si…"
-- [OK]      k1 → "Bury, 1889'da açılıp 1923'te genişleyen History of the Later Roman Empire'da ahlaki çürüme kuramına iki cevap …"
+- [OK]      k1 → "J. B. Bury, 1889'da açılıp 1923'te genişleyen History of the Later Roman Empire'da ahlaki çürüme kuramına iki …"
 - [OK]      k1 → "Bury'nin listesi somuttur: iktisadi gerileme, Germen yayılması, İtalya'da nüfusun seyrelmesi, orduda barbar bi…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k8 → "Got geleneğini derleyen Getica, Hunların ortaya çıkışını bir söylenceye bağlar: Jordanes'e göre Got kralı Fili…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k8 → "Aynı metin imparatorluğun ağır yenilgisini de Got tarafından anlatır: Trakya'daki savaşta yaralanan Valens, Ha…" — 3 atom doğrulandı; 1 ad ölçülemedi

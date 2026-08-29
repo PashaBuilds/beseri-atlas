@@ -1,9 +1,9 @@
 {
   "id": "olay-11-eylul",
   "gecis": 2,
-  "zaman": "2026-08-29T15:42:51.813Z",
+  "zaman": "2026-08-29T19:33:53.591Z",
   "govde_hash": "bed7267ec76c",
-  "commit": "fdab69c",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -49,21 +49,21 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Hamilton'ın yürüttüğü beş Cumhuriyetçi ve beş Demokrattan kurulu bir komisyon ile standartlar kurumu NIST, bulgularını kamuya açık raporlar hâlinde yayımladı.",
+      "iddia": "Olay ayrıca alışılmadık ölçüde iyi belgelenmiştir: başkanlığını Thomas H. Kean'in, yardımcılığını Lee H. Hamilton'ın yürüttüğü beş Cumhuriyetçi ve beş Demokratt",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k10",
-      "iddia": "Hamilton'ın yürüttüğü beş Cumhuriyetçi ve beş Demokrattan kurulu bir komisyon ile standartlar kurumu NIST, bulgularını kamuya açık raporlar hâlinde yayımladı.",
+      "iddia": "Olay ayrıca alışılmadık ölçüde iyi belgelenmiştir: başkanlığını Thomas H. Kean'in, yardımcılığını Lee H. Hamilton'ın yürüttüğü beş Cumhuriyetçi ve beş Demokratt",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Hamilton'ın yürüttüğü beş Cumhuriyetçi ve beş Demokrattan kurulu bir komisyon ile standartlar kurumu NIST, bulgularını kamuya açık raporlar hâlinde yayımladı.",
+      "iddia": "Olay ayrıca alışılmadık ölçüde iyi belgelenmiştir: başkanlığını Thomas H. Kean'in, yardımcılığını Lee H. Hamilton'ın yürüttüğü beş Cumhuriyetçi ve beş Demokratt",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k1",

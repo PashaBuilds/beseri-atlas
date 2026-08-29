@@ -1,15 +1,15 @@
 {
   "id": "olay-roma-cumhuriyetinin-sonu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:46.897Z",
+  "zaman": "2026-08-29T19:34:03.596Z",
   "govde_hash": "acc0252193c1",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k2",
       "iddia": "Roma Cumhuriyeti MÖ 509 ile MÖ 27 arasına yerleştirilir ve kaynağın kendi bölümlemesinde son evre Marius'un yükselişi, ilk iç savaşlar, Sulla cumhuriyeti, Birin",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -56,8 +56,8 @@
     {
       "anahtar": "k1",
       "iddia": "Her ay 200.000 kadar kişiye dağıtılan tayın, bu ölçekteki bir dünyada tek bir şehirde toplanmış bir kitleyi besliyordu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

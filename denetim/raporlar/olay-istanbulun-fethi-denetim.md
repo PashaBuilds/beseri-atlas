@@ -1,5 +1,5 @@
 ## olay-istanbulun-fethi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:45.414Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:59.673Z_
 
 - [OK]      k1 → "Bizans İmparatorluğu'nun başkenti Konstantinopolis, 6 Nisan'da başlayan elli üç günlük bir kuşatmanın doruk no…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Konstantinopolis, 330'da Roma İmparatoru Büyük Konstantin döneminde kutsanmasından beri bir imparatorluk başke…" — 5 atom doğrulandı; 1 ad ölçülemedi
@@ -8,7 +8,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:45.414Z_
 - [OK]      k1 → "Venedik'te Cumhuriyet'in Konstantinopolis'e ne tür bir yardım göndereceği görüşülüyordu; Senato Şubat 1453'te …" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Mehmed, Edirne'nin yerine Konstantinopolis'i yeni Osmanlı başkenti yaptı."
 - [ATOMSUZ] k2 → "Fetheden düzenin kurumsal tarihi dosyasında ele alınıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak olayın anlamını açık biçimde nitelendirir: Konstantinopolis'in ve Bizans İmparatorluğu'nun düşüşü Geç O…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k3 → "yüzyıldaki çöküşünden sonra ayakta kalmış ve 1453'e kadar sürmüştür."
+- [OK]      k1 → "Kaynak olayın anlamını açık biçimde nitelendirir: Konstantinopolis'in ve Bizans İmparatorluğu'nun düşüşü Geç O…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Aynı süreklilik Bizans kayıtlarında da görülür: devlet, Batı Roma'nın 5. yüzyıldaki çöküşünden sonra ayakta ka…"
 
 **Özet:** 8 OK · 0 ISARET · 0 HATA · 1 ATOMSUZ

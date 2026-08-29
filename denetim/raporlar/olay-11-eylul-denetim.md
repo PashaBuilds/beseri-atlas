@@ -1,5 +1,5 @@
 ## olay-11-eylul
-_Geçiş 2 — kaynak denetimi · 2026-08-29T15:42:51.813Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:53.591Z_
 
 - [OK]      k1 → "El Kaide'ye bağlı on dokuz kişi, 11 Eylül 2001 sabahı Amerika Birleşik Devletleri'nde dört yolcu uçağını kaçır…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "İki uçak Manhattan'daki Dünya Ticaret Merkezi'nin kulelerine, biri Pentagon'a çarptı; dördüncüsü, yolcuların ü…" — 1 atom doğrulandı; 3 ad ölçülemedi
@@ -8,9 +8,9 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T15:42:51.813Z_
 - [ATOMSUZ] k6 → "Saldırıdan sonraki on beş ay içinde savaş yetkisi, gözetim mevzuatı, havacılık güvenliği ve federal bürokrasin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k7 → "Saldırıdan sonraki on beş ay içinde savaş yetkisi, gözetim mevzuatı, havacılık güvenliği ve federal bürokrasin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k8 → "Saldırıdan sonraki on beş ay içinde savaş yetkisi, gözetim mevzuatı, havacılık güvenliği ve federal bürokrasin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Hamilton'ın yürüttüğü beş Cumhuriyetçi ve beş Demokrattan kurulu bir komisyon ile standartlar kurumu NIST, bul…" — 1 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k10 → "Hamilton'ın yürüttüğü beş Cumhuriyetçi ve beş Demokrattan kurulu bir komisyon ile standartlar kurumu NIST, bul…" — 1 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k3 → "Hamilton'ın yürüttüğü beş Cumhuriyetçi ve beş Demokrattan kurulu bir komisyon ile standartlar kurumu NIST, bul…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Olay ayrıca alışılmadık ölçüde iyi belgelenmiştir: başkanlığını Thomas H. Kean'in, yardımcılığını Lee H. Hamil…"
+- [OK]      k10 → "Olay ayrıca alışılmadık ölçüde iyi belgelenmiştir: başkanlığını Thomas H. Kean'in, yardımcılığını Lee H. Hamil…"
+- [OK]      k3 → "Olay ayrıca alışılmadık ölçüde iyi belgelenmiştir: başkanlığını Thomas H. Kean'in, yardımcılığını Lee H. Hamil…"
 - [OK]      k1 → "Saat 8.46'da, saatte yüzlerce kilometre hızla giden ve yaklaşık 10.000 galon jet yakıtı taşıyan bir yolcu uçağ…"
 - [OK]      k1 → "Her gün 50.000'e varan insanın çalıştığı iki kule, doksan dakika dolmadan çöktü."
 - [OK]      k1 → "9.37'de üçüncü uçak Pentagon'un batı cephesine girdi; 10.03'te dördüncü uçak, Kongre binası ya da Beyaz Saray'…" — 1 atom doğrulandı; 3 ad ölçülemedi

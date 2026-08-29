@@ -1,13 +1,13 @@
 {
   "id": "aktor-cahokia",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:48.694Z",
+  "zaman": "2026-08-29T19:34:08.357Z",
   "govde_hash": "7ce3a82fbc36",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Louis'nin tam karşısında kurulmuş bir kentti; 1050 dolayında köy ölçeğinden kent ölçeğine sıçradı ve 1350'ye doğru terk edildi.",
+      "iddia": "Cahokia, Mississippi ile Missouri nehirlerinin kavuştuğu yere yakın verimli bir taşkın ovasında, bugünkü St. Louis'nin tam karşısında kurulmuş bir kentti; 1050 ",
       "durum": "OK",
       "not": ""
     },
@@ -145,7 +145,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Louis kesimindeki büyük bir yerleşim bölümü yandı ve 1175 dolayında merkezin çevresine ilk ahşap savunma duvarı dikildi.",
+      "iddia": "Gerileme on ikinci yüzyılın sonunda görünür olur: 1160-1170 dolayında East St. Louis kesimindeki büyük bir yerleşim bölümü yandı ve 1175 dolayında merkezin çevr",
       "durum": "OK",
       "not": ""
     },
@@ -193,9 +193,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Louis yakasında ayakta kalan son Mississippi dönemi höyüklerinden Sugarloaf Mound'u satın alarak korumaya almıştır.",
+      "iddia": "Osage Ulusu bugün alan yönetiminin ve arkeolojik çalışmanın başlıca ortağıdır; nehrin St. Louis yakasında ayakta kalan son Mississippi dönemi höyüklerinden Suga",
       "durum": "OK",
-      "not": ""
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

@@ -1,14 +1,14 @@
 ## tartisma-yazinin-icadi-nerede
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.985Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:34.050Z_
 
-- [ATOMSUZ] k1 → "yüzyıldan önce bilimsel kuramların çoğu bir tür tek köken varsayımı taşıyordu: yazı yalnızca bir kez, eski Süm…" — programatik olarak ölçülemedi (ad karşılığı yok): Sümer, Tekvin, Mezopotamya
+- [ATOMSUZ] k1 → "20. yüzyıldan önce bilimsel kuramların çoğu bir tür tek köken varsayımı taşıyordu: yazı yalnızca bir kez, eski…" — programatik olarak ölçülemedi (ad karşılığı yok): Sümer, Tekvin, Mezopotamya
 - [OK]      k1 → "Kolomb öncesi Mezoamerika sistemlerine dair farkındalığın artması bu varsayımı kesin biçimde bozdu ve bugün en…" — 5 atom doğrulandı; 3 ad ölçülemedi
 - [ATOMSUZ] k1 → "Ölçütün kendisi kaynakta açıkça durur: bir işaret dizgesinin yazı sayılabilmesi için simgelerin konuşulan dili…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Yazı sistemlerinin genellikle üç ölçütü karşıladığı belirtilir: yazının bir amacı ya da anlamı olması, belirli…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Üçüncü ölçüt belirleyicidir: tabela, resim, harita ve matematiksel gösterim gibi simgesel iletişim biçimleri, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bu ayrımın öbür tarafında ön-yazı durur: ideografik ve anımsatıcı simgeler kullanan, dilin dilbilgisini ve söz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Yazının her tarihsel icadı böyle bir ön-yazı geçmişinden çıkmıştır; ama ön-yazı dizgelerinin çoğu hiçbir zaman…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "binyıla tarihlenen kaplumbağa kabuğu işaretleri, arkeologların çoğunluğunca tam yazının doğuşuna bağlanmaz; Or…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Çin'de Jiahu'daki yirmi dört Neolitik mezarda bulunan ve MÖ 7. binyıla tarihlenen kaplumbağa kabuğu işaretleri…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Mezopotamya ile Mısır sistemleri MÖ 3400 ile 3100 arasında ön-yazıdan kademeli olarak evrildi; ilk tutarlı met…"
 - [ATOMSUZ] k1 → "Mısır'ın bağımsız sayılmasının gerekçesi, iki sistem arasındaki çok erken yapı ve üslup farklarıdır; bir uyara…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Aktarımın doğrudan kanıtı bulunmadığı için hiyerogliflerin kökeni konusunda kesin bir belirleme yapılmamıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -24,18 +24,18 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.985Z_
 - [ATOMSUZ] k1 → "Kaynakların kaydettiği, dizgenin gerçek bir yazı olarak işleyip işlemediğinde uzlaşma bulunmadığıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k5 → "1994'te Cambridge University Press'ten çıkan Deciphering the Indus Script, işaretleri çözülmeyi bekleyen bir y…"
 - [ATOMSUZ] k1 → "Sonuç listedeki sayıyı doğrudan etkiler: işaretler yazıysa bağımsız icat listesi uzar, değilse dört kalemlik s…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "yüzyıla, okunabilen en erken yazıt ise MS 199'a tarihlenir."
+- [OK]      k1 → "Bölgede kullanılan simge dizgeleri arasında Maya yazısının en gelişmiş olanı olduğu belirtilir; Maya olarak ta…"
 - [OK]      k1 → "Yazı, Maya düzeninde mantıksal simgeleri hece işaretleriyle birlikte kullanıyordu."
 - [OK]      k8 → "2006'da Science'ta duyurulan Cascajal bloğu bu soruyu keskin biçimde sordu: Veracruz'da, Olmek çekirdek bölges…" — 4 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k8 → "Houston gibi bölgenin yazı araştırmasını kuran adlar vardı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k9 → "Kelker, Olmek'in yazmayı bilip bilmediğini soran bir teknik yorum yayımladı." — programatik olarak ölçülemedi (ad karşılığı yok): Olmek
+- [OK]      k8 → "Bildirinin yazarları arasında Michael D. Coe ve Stephen D. Houston gibi bölgenin yazı araştırmasını kuran adla…"
+- [OK]      k9 → "İtiraz bir yıl içinde aynı dergide geldi: Karen O. Bruhns ile Nancy L. Kelker, Olmek'in yazmayı bilip bilmediğ…"
 - [OK]      k6 → "Yuri Knorozov 1958'de American Antiquity'de yayımlanan yazısında, Amerika kıtasında Avrupa sömürgeleştirmesind…"
-- [OK]      k7 → "Thompson 1959'da aynı dergide cevap verdi; yazısı tarihsel kaynakların yeniden değerlendirilmesini ve çözüm yö…"
+- [OK]      k7 → "J. Eric S. Thompson 1959'da aynı dergide cevap verdi; yazısı tarihsel kaynakların yeniden değerlendirilmesini …"
 - [ATOMSUZ] k7 → "Aynı özette tartışmanın havasını özetleyen bir cümle de vardır: "hiç kimsede konuya tam hâkimiyet ile tarafsız…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k12 → "Thomson, levhalardaki dizgeyi doğrudan "yazılı dil" diye tanımladı ve adanın başlıca ilgi çekici yanı saydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k12 → "1886'da Hanga Roa açıklarına demirleyen Mohican gemisiyle adaya giden ve raporunu 1891'de yayımlayan William J…"
 - [OK]      k12 → "Aynı rapor, aktarım zincirinin nasıl koptuğunu da kaydeder: kaçırılanlar arasında bilgi taşıyan görevliler var…"
 - [OK]      k10 → "Geoffrey Sampson'ın 1985'te Stanford University Press'ten çıkan Writing Systems: A Linguistic Introduction kit…"
-- [OK]      k11 → "Mignolo'nun 1994'te Duke University Press'ten çıkardığı derlemede toplanmıştır; kitabın adı bile programını du…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k11 → "Karşı uçtaki genişletme önerisi, Elizabeth Hill Boone ile Walter D. Mignolo'nun 1994'te Duke University Press'…"
 - [OK]      k11 → "Derlemedeki bölümler Aztek resimli tarihlerini "sözsüz kayıtlar" başlığı altında ele alır, kolonyal dönemde ne…" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k11 → "Dile bağlı kayıt ölçüt alınırsa liste dört kalemde kalır ve çözülmemiş işaret dizgeleri dışarıda durur; kayıt …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "1977'de Denise Schmandt-Besserat, çivi yazısının gelişimini güney Mezopotamya'da yaklaşık MÖ 8000'den itibaren…" — 5 atom doğrulandı; 1 ad ölçülemedi
@@ -50,4 +50,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.985Z_
 - [ATOMSUZ] k12 → "Rongorongo için söylenebilecek en sağlam cümle, ne söylediğinin bilinmediğidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynağın kendi listesi de bu belirsizliği taşır: dört bağımsız icat, kesin bir sayım olarak değil en yaygın ka…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 25 OK · 0 ISARET · 0 HATA · 23 ATOMSUZ
+**Özet:** 28 OK · 0 ISARET · 0 HATA · 20 ATOMSUZ

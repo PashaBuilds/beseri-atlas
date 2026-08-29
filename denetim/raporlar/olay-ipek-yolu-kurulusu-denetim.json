@@ -1,9 +1,9 @@
 {
   "id": "olay-ipek-yolu-kurulusu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:45.154Z",
+  "zaman": "2026-08-29T19:33:58.814Z",
   "govde_hash": "1e632e10b19a",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -25,7 +25,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "binyıldan itibaren Yarkand ve Hotan bölgesindeki madenlerden Çin'e nefrit yeşimi ticareti yapıldığını yazar; Tarim Havzası'nda bulunan ve en erken MÖ 1600'e tar",
+      "iddia": "Kaynak MÖ 2. binyıldan itibaren Yarkand ve Hotan bölgesindeki madenlerden Çin'e nefrit yeşimi ticareti yapıldığını yazar; Tarim Havzası'nda bulunan ve en erken ",
       "durum": "OK",
       "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -37,7 +37,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıldan itibaren Asya ticareti için bir lingua franca işlevi gördüğünü yazar; Part İmparatorluğu'nun ağı Akdeniz'e bağlayan hayatî bir köprü sağladığını kayde",
+      "iddia": "Kaynak Soğdların Çin ile Orta Asya arasındaki ticareti kolaylaştırmada 10. yüzyıla kadar büyük rol oynadığını ve dillerinin en az 4. yüzyıldan itibaren Asya tic",
       "durum": "OK",
       "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },

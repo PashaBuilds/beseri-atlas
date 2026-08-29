@@ -1,5 +1,5 @@
 ## dusunur-tacitus
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.522Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:20.602Z_
 
 - [OK]      k1 → "Kaynak onu MS yaklaşık 56 - yaklaşık 120 arasında yaşamış bir tarihçi ve siyasetçi olarak kaydeder; disiplini …"
 - [OK]      k1 → "Kaynak etkilendiği kişileri sıralar: Thukydides, Fabius Rusticus, Sallustius, Livius, Marcus Cluvius Rufus, Ya…" — 3 atom doğrulandı; 1 ad ölçülemedi

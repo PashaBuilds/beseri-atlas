@@ -1,15 +1,61 @@
 ## aktor-baglantisizlar-hareketi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.308Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:07.556Z_
 
-- [OK]      k1 → "Kaynak zinciri şöyle verir: Eylül 1957'de Kahire'deki Afro-Asya Halkları Dayanışma Konferansı ve ardından 1961…" — 3 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k1 → "Zincirin başlangıcı, 18-24 Nisan 1955'te Endonezya'nın Bandung şehrinde toplanan ve 304 temsilcinin katıldığı …" — 3 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k1 → "Yani hareketin kuruluşu 1955'ten 1961'e uzanan altı yıla yayılır."
-- [OK]      k2 → "Hareketin karşısında durduğu rekabet 1947 ile 1991 arasındaki jeopolitik mücadeleyi anlatır ve kırk dört yıl d…"
-- [OK]      k2 → "Kıta iki askerî bloka bölünmüştü ve blokların 1988'deki dağılımı dönemin standart haritasıdır."
-- [ATOMSUZ] k2 → "Standart haritada üçüncü bir renk bulunmaması, hareketin görünürlük sorununu özetler: blok dışı kalmak, blok h…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Hareketin kendisi de bir rekabet alanına dönüştü: 1960'ların başında Çin, Arap ülkelerinin desteğini Cezayir'd…" — 2 atom doğrulandı; 3 ad ölçülemedi
-- [ATOMSUZ] k1 → "Blok dışı kalma arayışının blok içi bir rekabet konusu haline gelmesi, hareketin yapısal zorluğunu gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1945'te yaklaşık 2,38 milyar, 1991'de yaklaşık 5,42 milyardır."
-- [ATOMSUZ] k2 → "Hareketin üyelik ölçütleri, zirveleri, kurumsal yapısı ve rekabetin sona ermesinden sonraki dönüşümü burada ay…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Kurucu anı sayılan zirve 1961'de Yugoslavya'da yirmi beş ülkeyle toplandı; kurucuların tasarısı, ABD'nin ya da…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k4 → "Belgrad bildirisi bunu doğrudan yazar: bağlantısız ülkeler "yeni bir blok kurmak istemiyor ve blok olamaz"." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Zirveden on iki gün sonra Amerikan Büyükelçisi George Kennan'ın Yugoslav Dışişleri'yle görüşmesini aktaran tel…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Sukarno'nun açılış konuşmasıyla 18 Nisan'da başlayıp 24 Nisan'da nihai bildiriyle kapanan toplantıya yirmi dok…" — programatik olarak ölçülemedi (ad karşılığı yok): Nisan
+- [ATOMSUZ] k1 → "Sukarno katılanları birleştiren şeyi sayarken blokları anmadı: ortak olan, sömürgeciliğe ve ırkçılığa duyulan …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Beşinci ilke her ulusun tek başına ya da toplu olarak kendini savunma hakkına saygıyı buyurur; hemen ardından …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Çin Başbakanı Zhou Enlai, Siyasi Komite'ye yaptığı konuşmada Pakistan Başbakanı'yla yaptığı özel görüşmeyi akt…" — programatik olarak ölçülemedi (ad karşılığı yok): Başbakanı, Zhou, Enlai, Siyasi
+- [OK]      k1 → "Zhou açıklama için minnettar olduğunu söyledi, sonra çekincesini de kayda geçirdi: Pakistan Başbakanı Manila a…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Aynı konuşmada Zhou, delegelerin komünist yayılma ve yıkıcı faaliyetlerden söz ederken Çin'i anmayıp yalnızca …" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Filipinler delegesi Carlos Romulo aynı salonda, Filipinler Cumhurbaşkanı Magsaysay'ın kaleme aldığı Pasifik Şa…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Seylan Başbakanı John Kotelawala ise toplananların dünya nüfusunun aşağı yukarı üçte ikisini oluşturduğunu söy…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "Andrea Benvenuti'ye göre Nehru'nun konferansa razı olmasında Endonezya'nın bölgesel hesaplardaki artan ağırlığ…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Fikir 1961 baharında Tito, Nasır ve Sukarno arasındaki karşılıklı ziyaretlerden çıktı; CIA'nın Ağustos 1961 ta…"
+- [ATOMSUZ] k2 → "Muhtıraya göre fazlalık, bağlantısızlık ölçütleri ve konferansa hangi devletlerin çağrılacağı üzerine yapılan …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Muhtıranın dipnotu üzerinde anlaşılan ölçütü üç maddede özetler: bağlantısız bir devlet bağlantısızlığa dayana…" — programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş
+- [OK]      k2 → "Hindistan daha çok sayıda ılımlı tarafsızı çağırarak konferansı genişletmek isterken Küba, Gana, Gine ve Mali …" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k2 → "Kahire'de Cezayir Geçici Hükümeti listeye eklendi; Gana'nın güçlü desteğine rağmen Kongo'dan bir Gizenga deleg…" — programatik olarak ölçülemedi (ad karşılığı yok): Cezayir, Geçici, Hükümeti, Gana
+- [ATOMSUZ] k2 → "Nehru toplantıya, gerilimleri azaltmak yerine katılan devletler arasındaki farkları göstermekten öteye gitmeye…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Tito, Yugoslavya konferanstaki tek Avrupa devleti olacağı için Avrupa ve Almanya üzerine söyleyeceklerinin öze…"
+- [OK]      k2 → "Çin toplantıya kuşkuyla bakıyordu: dışlanacağı bir Afro-Asya kümelenmesinin oluşmasından çekiniyor ve Sukarno'…"
+- [OK]      k2 → "Sovyetler Birliği başlangıçta Belgrad'da bir tarafsızlar zirvesi toplanmasından hoşnut değildi, sonra Yugoslav…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k4 → "Zirvenin bildirisi hareketin tanımını verir: bağlanmamış alanın genişlemesi, dünyanın bloklara tam olarak bölü…" — programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş
+- [OK]      k4 → "Zirve, ABD Başkanı'na ve Sovyetler Birliği Bakanlar Konseyi Başkanı'na, günümüzün en güçlü iki ulusunun temsil…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k4 → "Bildiri barış ve istikrarın önemli ölçüde büyük güçlerin karşılıklı ilişkilerine bağlı olduğunu da yazıyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Nehru zirvedeki konuşmasında bunu daha da açık söyledi: durumun anahtarı ne bu konferansın ne de başka kongrel…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Senegal'in eski dışişleri bakanı Doudou Thiam'ın anımsadığına göre Nehru evrensel barış sorununu bütün öteki s…"
+- [OK]      k4 → "Bu aktarımların taşıyıcısı olan kitabın kendi konumu da kayda geçmelidir: Yuri Alimov'un incelemesi Moskova'da…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "ABD, Yugoslavya'ya zirvedeki tutumundan duyduğu kaygıyı bir muhtırayla bildirdi; Yugoslav tarafı bunu bir bask…"
+- [OK]      k3 → "Kennan bir ayrıntıyı da geçerken kaydeder: Tito zirvenin arifesinde Nehru'ya da ılımlı bir tutum alacağı izlen…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Konferans, üyeliğinin evrensel olması gerektiğini savundu, Güvenlik Konseyi'ni aralarında temsil edilen ve üye…" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k7 → "Üyelik 1950'de altmışken 1955'te yetmiş altıya çıktı; o yılın kabulleri arasında Bandung'un adını saydığı Kamb…" — 2 atom doğrulandı; 4 ad ölçülemedi
+- [ATOMSUZ] k7 → "Japonya ertesi yıl eklendi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "1960'ta üyelik on yedi eklemeyle doksan dokuza, 1961'de yüz dörde, 1974'te yüz otuz sekize çıktı."
+- [OK]      k1 → "Bildiri birincil malların uluslararası fiyatlarını ve talebini istikrara kavuşturmak için toplu eylem, iktisad…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k1 → "Aynı metin bir çekince de koyar: bu öneriler bölge dışındaki ülkelerle işbirliğinin gerekliliğini ya da isteni…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Usul tarihçesini yazan Ahmed Mahiou işin başında bir belirsizliği kaydeder: bu düzen fikrini kimin ortaya attı…"
+- [OK]      k6 → "Talep ilk kez 5-9 Eylül 1973'te Cezayir'de toplanan Dördüncü Bağlantısız Ülkeler Devlet ve Hükümet Başkanları …" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k6 → "Cezayir konferans belgelerini Bağlantısız Ülkeler Grubu adına Genel Sekreter'e iletti; Genel Kurul 17 Aralık 1…" — 2 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k6 → "Cezayir'in 30 Ocak 1974 tarihli mektubuyla usul yeniden işletildi, gereken çoğunluk sağlandı ve oturum 9 Nisan…" — 5 atom doğrulandı; 4 ad ölçülemedi
+- [ATOMSUZ] k6 → "Mahiou'nun anlatısında Güney ülkeleri bu talepleri gelişmiş ülkelerin muhalefetine çarparak ilerletti; gelişmi…" — programatik olarak ölçülemedi (ad karşılığı yok): Güney
+- [ATOMSUZ] k6 → "Taleplerin gündelik koordinasyonunu ise hareketten daha geniş bir küme, Yetmiş Yediler Grubu üstlendi." — programatik olarak ölçülemedi (ad karşılığı yok): Yetmiş, Yediler, Grubu
+- [OK]      k5 → "Mart 1983 tarihli CIA muhtırası doksan yedi üyeli hareketin üç yılda bir yapılan zirvesini 7-11 Mart'ta Yeni D…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Küba başkanlık kürsüsünü ABD'yi kınamak ve Sovyetler Birliği'ni bağlantısızların "doğal müttefiki" diye yücelt…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Muhtıraya göre bağlantısız toplantıları genellikle Küba ile on beş-yirmi kadar radikal üyeyi, hareketin ne ABD…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k5 → "Heterojen üyeliğe eklenen teamül — kararların bütün üyelerin ya katılmasını ya çekimser kalmasını gerektirmesi…" — programatik olarak ölçülemedi (ad karşılığı yok): Küba
+- [OK]      k5 → "Bazı ılımlılar Küba'nın taktiklerine, hareketi karşı çıkmaya değecek kadar önemli bulmadıkları için boyun eğmi…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Hindistan'ın BM'deki ilk Afganistan tartışmasında Sovyet müdahalesinin görüşülmesine karşı çıkan açıklaması, ı…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k5 → "Kamboçya koltuğunda da Havana zirvesinde Küba başkanlık yetkisini kullanarak Pol Pot yönetimini hareketteki ko…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k5 → "Muhtıra hareketin yapısal sınırını da yazar: hareket bir başkan ve otuz altı üyeli bir Eşgüdüm Bürosu'yla yöne…" — programatik olarak ölçülemedi (ad karşılığı yok): Eşgüdüm, Bürosu, Yetmiş, Yediler
+- [OK]      k5 → "Bu değerlendirmenin Amerikan karar alıcıları için yazıldığını, kanaat bildiren kayıtlarla ve büyükelçilik rapo…"
+- [OK]      k9 → "S. I. Keethaponcalan Soğuk Savaş'ın bitişiyle hareketin anlamını ve önemini yitirdiğini, uluslararası sistemin…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k9 → "Ona göre Güney'in ortak sorunları duruyor, kurumsal çerçeve olarak hareket hâlâ işliyor ve yeniden biçimlendir…" — programatik olarak ölçülemedi (ad karşılığı yok): Güney
+- [OK]      k1 → "Bandung'un on ilkesi toplu savunmayı yasaklamıyor, yalnızca büyük güç çıkarına koşulmasını yasaklıyordu ve sal…"
+- [ATOMSUZ] k2 → "Belgrad'ın ölçütü ittifakın varlığını değil bağlamını sınıyordu ve ölçütün kendisi dokuz günlük sert bir tartı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Hareket, on beş-yirmi kadar radikal üyeyi aşağı yukarı eşit sayıda ılımlıya karşı dizen bir başkanlık kavgasın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Blok seçmeyi reddetmek bir tutumdur; blok olmamak ise bildiride yazılı ve pratikte sürekli sınanan bir iddiadı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 7 OK · 0 ISARET · 0 HATA · 3 ATOMSUZ
+**Özet:** 34 OK · 0 ISARET · 0 HATA · 22 ATOMSUZ

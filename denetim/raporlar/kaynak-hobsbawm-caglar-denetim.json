@@ -1,9 +1,9 @@
 {
   "id": "kaynak-hobsbawm-caglar",
   "gecis": 2,
-  "zaman": "2026-08-29T14:40:00.838Z",
+  "zaman": "2026-08-29T19:34:36.515Z",
   "govde_hash": "e1d9d86ffe92",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -25,7 +25,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl üzerine bir üçlemenin ilki sayar; devamındaki ciltler The Age of Capital: 1848-1875 ve The Age of Empire: 1875-1914'tür.",
+      "iddia": "Kaynak, kitabı uzun 19. yüzyıl üzerine bir üçlemenin ilki sayar; devamındaki ciltler The Age of Capital: 1848-1875 ve The Age of Empire: 1875-1914'tür.",
       "durum": "OK",
       "not": ""
     },
@@ -43,9 +43,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "yüzyıl 1789'daki Fransız Devrimi'nin başlangıcından 1914'e uzanır.",
+      "iddia": "Kaynak, yazarın Birinci Dünya Savaşı'nın başlangıcından Sovyet blokunun çöküşüne uzanan dönemi kısa yirminci yüzyıl diye adlandırdığını ve bunun uzun 19. yüzyıl",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
     },
     {
       "anahtar": "k2",

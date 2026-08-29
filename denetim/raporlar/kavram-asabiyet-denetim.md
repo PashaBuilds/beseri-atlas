@@ -1,5 +1,5 @@
 ## kavram-asabiyet
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.852Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:21.349Z_
 
 - [ATOMSUZ] k1 → "Asabiyet, aynı soydan gelenlerin veya başka bir sebeple aralarında yakınlık bulunanların muhaliflere karşı bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Câhiliye döneminde baba tarafından kan bağı bulunan akrabaların oluşturduğu topluluğa "asabe" adı veriliyordu;…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## aktor-buyuk-selcuklu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.571Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:08.110Z_
 
 - [OK]      k1 → "Büyük Selçuklu Devleti, Horasan bölgesinden başlayarak İran ve Irak üzerinden batıya uzanan bir siyasi düzen k…"
 - [ATOMSUZ] k2 → "Bu düzenin atlas açısından ayırt edici yanı, yönetim yapısının dönemin içinden yazılmış bir metin üzerinden ok…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

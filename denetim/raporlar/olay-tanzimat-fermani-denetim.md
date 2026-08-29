@@ -1,10 +1,10 @@
 ## olay-tanzimat-fermani
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.210Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:04.532Z_
 
 - [OK]      k1 → "Mahmud ve Tanzimat devirleri, Osmanlı Devleti'nin idari, siyasi, sosyal, kültürel ve ekonomik açılardan âdeta …"
 - [ATOMSUZ] k1 → "Tanzimat'a kadarki dönemde resmî tabakalaşma, hanedan ve saray halkı dışında iki ana kategoriye dayanıyordu: v…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Tanzimat öncesinde reâyâ teriminin gayrimüslim vergi mükellefleri için de kullanılması bu mali mantığın sonucu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "yüzyılın sonlarına doğru başlayan dönemde Osmanlı Devleti kaçınılmaz olarak yapısal değişimler içine girmişti;…"
+- [OK]      k1 → "18. yüzyılın sonlarına doğru başlayan dönemde Osmanlı Devleti kaçınılmaz olarak yapısal değişimler içine girmi…"
 - [OK]      k2 → "Aynı yıllar, Avrupa'da yeni emperyalizm dalgasının yükseldiği dönemdir: büyük güçler arasındaki süregelen reka…"
 - [OK]      k1 → "Tanzimat dönemi, merkez teşkilatında somut kurumsal değişiklikler üretti; modern dönem Osmanlı siyasi ve idari…"
 - [ATOMSUZ] k1 → "Taşra tarafında, klasik dönemin tımarlı eyaletler düzeni ve özel statülü birimleri, merkezîleşme yönünde yenid…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

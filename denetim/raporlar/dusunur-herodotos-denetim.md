@@ -1,18 +1,18 @@
 ## dusunur-herodotos
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.682Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:17.903Z_
 
-- [OK]      k1 → "yüzyılda Pers denetimi altındaydı, kendisi sonradan Thurii vatandaşı oldu."
+- [OK]      k1 → "Kaynak onu MÖ yaklaşık 484 - yaklaşık 425 arasında yaşamış, Halikarnassos'tan (bugünkü Bodrum) bir Yunan tarih…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kaynak, Herodotos'un kendi zamanında eserine efsaneler ve hayalî anlatılar kattığı için eleştirildiğini yazar;…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bir tarihçinin, kendisinden sonraki değil kendi kuşağından bir meslektaşı tarafından kaynak kullanımı üzerinde…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Eleştiren taraf dosyasında ele alınıyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak, Herodotos'un buna karşı gördüğünü ve kendisine anlatılanı bildirdiğini söyleyerek karşılık verdiğini y…"
 - [ATOMSUZ] k1 → "Atlasın her paragrafa dipnot şartı koyması, aynı ayrımın modern biçimidir — kaynak gösterilen şey iddianın ken…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, Tarihler'in hatırı sayılır bir bölümünün o zamandan bu yana modern tarihçiler ve arkeologlar tarafında…" — programatik olarak ölçülemedi (ad karşılığı yok): Tarihler
-- [OK]      k1 → "yüzyıl Bizans ansiklopedisi Suda gibi çok daha geç kaynaklarla tamamladıklarını yazar; verilerin azlığı, dayan…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Kaynak, araştırmacıların hayatı hakkında güvenilir bilgi için geleneksel olarak Herodotos'un kendi yazdıkların…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bir tarihçinin hayatının, kendi eseri ve bin yıl sonraki bir derleme dışında kaynağı bulunmaması, bu dosyanın …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak Tarihler'i Yunan-Pers Savaşları'nın ayrıntılı bir anlatısı olarak tanımlar ve başka konular arasında Ky…" — programatik olarak ölçülemedi (ad karşılığı yok): Tarihler, Yunan-Pers, Savaşları, Kyros
-- [OK]      k3 → "Yüz yıl önceki bir başka ansiklopedi maddesi annesinin adını Rhaeo ya da Dryo olarak verir; bugünkü kayıt ise …" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "Yüz yıl önceki bir başka ansiklopedi maddesi annesinin adını Rhaeo ya da Dryo olarak verir; bugünkü kayıt ise …" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Yüz yıl önceki bir başka ansiklopedi maddesi annesinin adını Rhaeo ya da Dryo olarak verir; bugünkü kayıt ise …"
+- [OK]      k1 → "Yüz yıl önceki bir başka ansiklopedi maddesi annesinin adını Rhaeo ya da Dryo olarak verir; bugünkü kayıt ise …"
 - [ATOMSUZ] k1 → "Bir ansiklopedi maddesinin yüz yıl içinde tek bir özel adda değişmiş olması, kaynağın erişim tarihiyle birlikt…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Bir ansiklopedi maddesinin yüz yıl içinde tek bir özel adda değişmiş olması, kaynağın erişim tarihiyle birlikt…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k3 → "Aynı eski madde onu tarihin babası diye anılan Yunan tarihçi olarak tanıtır ve Pers tebaası olarak doğduğunu, …" — 1 atom doğrulandı; 1 ad ölçülemedi

@@ -1,9 +1,9 @@
 {
   "id": "aktor-karolenj-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:49.995Z",
+  "zaman": "2026-08-29T19:34:11.553Z",
   "govde_hash": "f0224f538823",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -44,14 +44,14 @@
     {
       "anahtar": "k2",
       "iddia": "Bu üç merkez farklı meşruiyet çözümleri üretti: Abbasi hanedanı adını Peygamber'in amcası Abbas'tan alan bir soy zincirine, Karolenj ise diriltilmiş bir unvana ",
-      "durum": "ISARET",
-      "not": "özel isim kaynakta bulunamadı: Karolenj"
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
       "iddia": "Bu üç merkez farklı meşruiyet çözümleri üretti: Abbasi hanedanı adını Peygamber'in amcası Abbas'tan alan bir soy zincirine, Karolenj ise diriltilmiş bir unvana ",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",

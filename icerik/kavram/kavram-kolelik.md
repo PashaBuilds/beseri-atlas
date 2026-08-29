@@ -72,6 +72,8 @@ kaynaklar:
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "commercial hunting of black-skins"
     not: "Kolelestirmenin ilkel birikim anlatisindaki yeri; kavramin kurucusunun kendi metni"
+kaynak_siniri: >-
+  Kavramın iki tanımından biri olan "toplumsal ölüm", Orlando Patterson'ın kendi metnine değil bir üstveri kaydının özetine dayanıyor: eser telif altında ve açık erişimde doğrulanabilir karşılığı yok (marxists.org'da arşivi yok, JSTOR ve üniversite depoları programatik erişime kapalı). Tanım burada kaynağın taşıdığı kadarıyla veriliyor.
 son_denetim: 2026-08-29
 denetim_durumu: onaylandi
 onarim_turu: 1
@@ -89,8 +91,8 @@ bağlı yetkilerin" tamamı ya da bir bölümü kullanılan kişinin statüsü v
 durumudur.[^k1]
 
 Bu tanımın ağırlığı sözlükten değil kapı görevinden gelir: kimin
-korunacağını, hangi fiilin cezalandırılacağını, neyin sayılacağını belirler. 1926 tanımı özü korunarak hem 1956 Ek
-Sözleşme'ye hem de 1998 tarihli Uluslararası Ceza Mahkemesi Statüsü'ne
+korunacağını, hangi fiilin cezalandırılacağını, neyin sayılacağını belirler.
+1926 tanımı özü korunarak hem 1956 Ek Sözleşme'ye hem de 1998 tarihli Uluslararası Ceza Mahkemesi Statüsü'ne
 aktarıldı; buna karşılık 1966 tarihli Medeni ve Siyasi Haklar Sözleşmesi
 kulluk terimini uluslararası hukuka tanımsız soktu, yani tanımlama yükü 1926
 ve 1956 metinlerinde kaldı.[^k1]
@@ -124,8 +126,8 @@ mülkiyet hakkına sahiptir ve kendi hesabına hukuki işlem yapabilir.[^k3]
 1926 tanımı gökten inmedi. Deniz üstündeki köle ticaretini bastıran ikili
 antlaşmalar ve 1890 Brüksel Genel Senedi'nin ardından karadaki köle ticareti
 Geçici Kölelik Komisyonu eliyle genelleştirildi ve 1926 Sözleşmesi'yle resmî
-zemine oturtuldu. 1926 Sözleşmesi adının düşündürdüğünden geniştir: köle ticaretinin yanında zorla çalıştırmayı da düzenler ve
-taraflara köle ticareti için önleme ve bastırma, kölelik için ise aşamalı
+zemine oturtuldu. 1926 Sözleşmesi adının düşündürdüğünden geniştir: köle
+ticaretinin yanında zorla çalıştırmayı da düzenler ve taraflara köle ticareti için önleme ve bastırma, kölelik için ise aşamalı
 biçimde ve mümkün olan en kısa sürede tam kaldırma gibi farklı ağırlıkta
 borçlar yükler.[^k1] Zorla çalıştırmanın tanımı ayrı yoldan geldi: konu
 Uluslararası Çalışma Bürosu'na havale edildi ve 1930 Zorla Çalıştırma
@@ -138,8 +140,8 @@ benzer kurum ve uygulamalar* ifadesini koydu; borç köleliği, serflik, angarya
 evlilik ve çocuk sömürüsü bu başlık altında ayrı ayrı tanımlandı. Değişikliğin
 nedeni üsluptan çok yükümlülüktü: bu uygulamalar için aşamalılık
 kaydı korunurken 1956 metni köleliğin kendisi için zaman kaydını
-kaldırıyordu.[^k1] 1926 ve 1956 ölçütleri yirminci yüzyılın ürünüdür; Roma'ya ya da on yedinci yüzyıl
-Karayipleri'ne uygulandıklarında geriye dönük bir okuma yapılır — bu,
+kaldırıyordu.[^k1] 1926 ve 1956 ölçütleri yirminci yüzyılın ürünüdür;
+Roma'ya ya da on yedinci yüzyıl Karayipleri'ne uygulandıklarında geriye dönük bir okuma yapılır — bu,
 [anakronizm](/kavram/anakronizm/) dosyasının konusudur.
 
 ## İkinci bir tanım: toplumsal ölüm
@@ -148,17 +150,16 @@ Toplumbilim aynı olguyu mülkiyetten değil aidiyetten okur. Orlando
 Patterson'ın köleliği *toplumsal ölüm* olarak kuran çözümlemesi, köle ile hür
 arasında keskin bir statü ayrımı olduğunu savunur — bu dosya Patterson'ı
 kendi kitabından değil, onu tartışan Benedetta Rossi'nin 2021 tarihli makale
-özetinden okuyor. Rossi bu ayrımı genel hatlarıyla benimserken seçkin köleleri "nihai köleler" sayan
-yorumu reddeder ve eğretilemenin bazı bağlamlara diğerlerinden daha iyi
+özetinden okuyor. Rossi bu ayrımı genel hatlarıyla benimserken seçkin
+köleleri "nihai köleler" sayan yorumu reddeder ve eğretilemenin bazı bağlamlara diğerlerinden daha iyi
 oturduğunu, köleleştirilmiş insanların tarihsel çeşitliliğini doğru
 yakalamadığını, dolayısıyla karşılaştırmalı genelleme için elverişsiz
 olduğunu ileri sürer.[^k5]
 
 Aidiyetin nasıl koparıldığı birinci ağızdan anlatılarda görünür. Frederick
-Douglass 1845 tarihli anlatısında köle kadınların çocuklarının "her durumda annelerinin durumunu izleyeceğinin" yasayla
-kurulduğunu yazar ve kaçtığı Maryland bölgesinde çocukların çoğu kez on
-ikinci ayını doldurmadan annelerinden ayrıldığını aktarır; kendi babasının kim olduğuna dair
-söylentiyi ise doğru ya da yanlış olabilir diye kaydeder.[^k4]
+Douglass 1845 tarihli anlatısında köle kadınların çocuklarının "her durumda
+annelerinin durumunu izleyeceğinin" yasayla kurulduğunu yazar ve kaçtığı Maryland bölgesinde çocukların çoğu kez on
+ikinci ayını doldurmadan annelerinden ayrıldığını aktarır; kendi babasının kim olduğuna dair söylentiyi ise doğru ya da yanlış olabilir diye kaydeder.[^k4]
 
 ## Kâr, verim ve birikim
 
@@ -175,8 +176,8 @@ kaynağın bugünkü tahminlere dayanarak verdiği orta değer, tipik bir kölen
 Marx için kölelik bir kurumdan çok bir sermaye kaynağıdır: Afrika'nın "kâr
 amaçlı insan avı sahasına" çevrilmesini, Amerika'daki madenlerde
 köleleştirmeyi ve Doğu Hint yağmasını kapitalist üretimin şafağını
-işaretleyen ve ilkel birikimin başlıca uğraklarını oluşturan
-olaylar arasında sayar.[^k7] Bu okuma [İlkel birikim](/kavram/ilkel-birikim/)
+işaretleyen ve ilkel birikimin başlıca uğraklarını
+oluşturan olaylar arasında sayar.[^k7] Bu okuma [İlkel birikim](/kavram/ilkel-birikim/)
 dosyasında, kölelikle ücret arasındaki ara biçimler ise
 [Zorunlu emek düzeni](/kavram/zorunlu-emek-duzeni/) dosyasında sürüyor.
 
@@ -184,9 +185,9 @@ dosyasında, kölelikle ücret arasındaki ara biçimler ise
 
 Kavramın ilk sınırı, iki tanımın aynı şeyi ölçmemesidir: hukuki ölçüt bir
 kişi üzerinde kullanılan yetkileri sorar, toplumbilimsel ölçüt kişinin
-soyundan ve topluluğundan koparılmasını; Rossi'nin uyardığı gibi bu
-iki soru aynı vakalarda aynı cevabı vermez.[^k5] Mülkiyet dilinin merkezde olmadığı klasik İslâm
-hukuku gibi düzenlerde ise ölçüt doğrudan uygulanamaz, ehliyet diline
+soyundan ve topluluğundan koparılmasını sorar; Rossi'nin uyardığı gibi bu
+iki soru aynı vakalarda aynı cevabı vermez.[^k5] Mülkiyet dilinin merkezde
+olmadığı klasik İslâm hukuku gibi düzenlerde ise ölçüt doğrudan uygulanamaz, ehliyet diline
 çevrilmesi gerekir.[^k3]
 
 İkinci sınır terimin şişmesidir. 1974-2006 arasında çalışan Çağdaş Kölelik
@@ -198,9 +199,10 @@ dili 1926 ve 1956 sözleşmelerinin hukuki sınırlarını fiilen gölgeledi.[^k
 Endeksi'nin üç bileşenini de inceleyip yöntem ve uygulama kalitesi
 hakkında ön bulgular ortaya koydu; ayrıca endekse yönelik eleştirel ilginin
 göze çarpacak kadar az olduğunu ve ölçüm odaklı hayırseverliğin sorunu
-tanımlama ile müdahaleyi yönlendirmedeki payının büyüdüğünü yazdı.[^k6] Atlas bu yüzden dolaşımdaki
-modern kölelik tahminlerini tek bir sayıya indirmiyor; sayıların nasıl
-okunacağı [Tarihsel sayılar nasıl okunur](/tartisma/tarihsel-sayilar-nasil-okunur/)
+tanımlama ile müdahaleyi yönlendirmedeki payının büyüdüğünü yazdı.[^k6] Atlas bu yüzden
+dolaşımdaki modern kölelik tahminlerini tek bir sayıya indirmiyor; sayıların
+nasıl okunacağı
+[Tarihsel sayılar nasıl okunur](/tartisma/tarihsel-sayilar-nasil-okunur/)
 dosyasında ele alınıyor.
 
 ::tartismali[Hukuki tanım ile toplumbilimsel tanım aynı olguyu farklı ölçer; ikisi burada birbirine indirgenmeden yan yana tutulur.]{harita=tartisma-tarihsel-sayilar-nasil-okunur}
@@ -210,7 +212,7 @@ Afrika kıtasından zorla götürülüp Amerika kıtasında meta üretimine koş
 insan sayısı tahminen 12,5 milyondur ve büyük çoğunluğu şeker
 plantasyonlarına gönderilmiştir.[^k1] Bu kayıt
 [Atlantik köle ticareti](/olay/atlantik-kole-ticareti/) dosyasındadır.
-Bourne'un modern zamanların başlıca örneği saydığı güney ise[^k2]
+Bourne'un modern zamanların başlıca örneği saydığı güney[^k2]
 [Amerika Birleşik Devletleri](/aktor/abd/) dosyasında, antik dünyada köle
 emeğinin ağırlığına dair anlaşmazlık ise
 [Antik kölelik ekonomisi](/tartisma/antik-kolelik-ekonomisi/) dosyasında

@@ -1,5 +1,5 @@
 ## dusunur-gazali
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.598Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:17.714Z_
 
 - [OK]      k1 → "Kaynak onu yaklaşık 1056-1111 arasında yaşamış, Sünni İslam'ın en önde gelen ve etkili filozof, kelamcı, fakih…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kaynak, onun ilgili konumunun ne yazık ki hiçbir yerde açıkça açıklanmadığını ve ancak birbirinden kopuk ifade…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

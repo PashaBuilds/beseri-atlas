@@ -1,15 +1,15 @@
 {
   "id": "aktor-buyuk-zimbabve",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:48.605Z",
+  "zaman": "2026-08-29T19:34:08.149Z",
   "govde_hash": "12c66ddda124",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyıldan itibaren Büyük Zimbabve Krallığı'nın başkenti olarak hizmet etti.",
+      "iddia": "Büyük Zimbabve, bugünkü Zimbabve'nin güneydoğu tepelerinde, Masvingo yakınlarında bir şehirdi; yaklaşık 1000 yılından itibaren iskân edildi ve 13. yüzyıldan iti",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -25,7 +25,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyılda terk edildi.",
+      "iddia": "Şehirdeki büyük inşa 11. yüzyılda başladı ve 15. yüzyıla kadar sürdü; şehir 16. ya da 17. yüzyılda terk edildi.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -51,7 +51,7 @@
       "anahtar": "k2",
       "iddia": "Aynı dönemde kıtanın batısında Mali İmparatorluğu yaklaşık 1235 ile 1610 arasında varlığını sürdürüyordu ve 1500 yılı için 400.000 kilometrekarelik bir alan ver",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",

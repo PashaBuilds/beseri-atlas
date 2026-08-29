@@ -1,13 +1,13 @@
 {
   "id": "dusunur-kautilya",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:52.920Z",
+  "zaman": "2026-08-29T19:34:18.511Z",
   "govde_hash": "3fbfa00f1f49",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl olarak verilir.",
+      "iddia": "- MÖ 3. yüzyıl olarak verilir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

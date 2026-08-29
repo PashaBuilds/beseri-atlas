@@ -1,5 +1,5 @@
 ## tartisma-imparatorluk-siniri-nasil-cizilir
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.492Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:29.816Z_
 
 - [OK]      k1 → "Maurya İmparatorluğu'nu anlatan güncel bir ansiklopedi maddesi ikiliği kendi içinde sergiler: madde bir yandan…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Aynı maddeye göre Aşoka'nın imparatorluğu beş parçadan oluşuyordu ve başkent Pataliputra'nın çevresindeki merk…" — 1 atom doğrulandı; 1 ad ölçülemedi
@@ -12,7 +12,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.492Z_
 - [OK]      k3 → "Owen Lattimore'un Çin'in İç Asya sınırlarına ayırdığı incelemesi, kuşak fikrini bir okuma önerisi olmaktan çık…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k9 → "Roma'nın Tuna boyundaki sınırında ordu, lejyon kaleleri, küçük kaleler ve gözetleme kulelerinden oluşan kesint…"
 - [OK]      k9 → "Kalıcı lejyon üsleri Vindobona, Carnuntum, Brigetio ve Aquincum'da birinci yüzyılın ikinci yarısında kuruldu; …"
-- [OK]      k5 → "Whittaker'ın Roma sınırlarına ayırdığı 1994 tarihli kitabı, daha adında sınırı askeri bir hattan çok toplumsal…"
+- [OK]      k5 → "C. R. Whittaker'ın Roma sınırlarına ayırdığı 1994 tarihli kitabı, daha adında sınırı askeri bir hattan çok top…"
 - [OK]      k4 → "George Nathaniel Curzon ise 1907 Romanes konferansında Çin Seddi'ni ve Hadrianus ile Antoninus Pius'un Britany…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k6 → "Osmanlı düzeninde serhad kulu, sınır boylarında ve kalelerde hizmet gören askeri zümrelerin genel adıydı; bu a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k6 → "Aynı kayda göre daha önce sınır boylarında akıncı denilen hafif süvari birlikleri hizmet görmüş, akıncılık zay…"

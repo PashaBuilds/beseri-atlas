@@ -1,5 +1,5 @@
 ## aktor-hollanda-doguhindistan-sirketi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T16:23:58.360Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:10.345Z_
 
 - [ATOMSUZ] k1 → "Kuruluş beratı ona, o güne kadar yalnızca devletlerin kullandığı yetkileri tanıdı: savaş açmak, antlaşma imzal…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Aynı berat hisselerin Hollanda Cumhuriyeti'nin herhangi bir yurttaşınca alınıp satılmasına da izin veriyordu; …" — 2 atom doğrulandı; 2 ad ölçülemedi

@@ -1,29 +1,7 @@
 {
   "id": "kavram-ilkel-birikim",
   "gecis": 3,
-  "zaman": "2026-08-29T19:22:49.747Z",
+  "zaman": "2026-08-29T19:33:23.610Z",
   "govde_hash": "2b4bc7d01aa1",
-  "itirazlar": [
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Sermayenin nereden geldiğini açıklamak isteyen her kuram bir kısırdöngüye çarpar: birikim artı değeri, artı değer kapitalist üretimi, kapitalist üretim de meta üreticilerinin elind",
-      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "İkinci sorun kavramın zamanıdır: kapitalizmin önkoşulu olan tek seferlik bir tarihsel olay mı, yoksa kapitalizmin içinde süren bir işlem mi?[^k6] Marx'ın kendi yazdıkları bu noktad",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Son olarak adın kendisi geriye dönük bir okumadır. Marx sürecin başlangıcını on beşinci yüzyılın son üçte biri ile on altıncı yüzyılın ilk on yılına koyar,[^k2] kavramı ise o yüzyı",
-      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    }
-  ]
+  "itirazlar": []
 }

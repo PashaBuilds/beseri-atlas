@@ -1,8 +1,8 @@
 ## aktor-altin-orda
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.973Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:06.363Z_
 
-- [ISARET]  k1 → "Altın Orda, bozkır kuşağının batı ucunda, Karadeniz'in kuzeyinden Volga havzasına uzanan bir alanda kuruldu." — özel isim kaynakta bulunamadı: Volga
-- [OK]      k4 → "Altın Orda, bozkır kuşağının batı ucunda, Karadeniz'in kuzeyinden Volga havzasına uzanan bir alanda kuruldu." — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Altın Orda, bozkır kuşağının batı ucunda, Karadeniz'in kuzeyinden Volga havzasına uzanan bir alanda kuruldu."
+- [OK]      k4 → "Altın Orda, bozkır kuşağının batı ucunda, Karadeniz'in kuzeyinden Volga havzasına uzanan bir alanda kuruldu."
 - [ATOMSUZ] k4 → "Üç etiket, düzenin kendisinin üç dünyaya birden değmesinden gelir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Dosyanın ayırt edici yanı, kurucu hanedanın yönettiği nüfusun dilini ve dinini benimsemiş olmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Dosyanın ayırt edici yanı, kurucu hanedanın yönettiği nüfusun dilini ve dinini benimsemiş olmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -72,4 +72,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.973Z_
 - [ATOMSUZ] k3 → "Sonuçların nasıl tartışıldığı için , yükselen ardıl güç için dosyaları okunabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k4 → "Aynı dönemde bölgeyi vuran salgın için dosyası okunabilir; iki dosya birlikte, nüfus kaybının siyasi çözülmede…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 2 OK · 3 ISARET · 0 HATA · 65 ATOMSUZ
+**Özet:** 3 OK · 2 ISARET · 0 HATA · 65 ATOMSUZ

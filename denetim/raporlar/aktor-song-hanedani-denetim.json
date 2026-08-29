@@ -1,15 +1,15 @@
 {
   "id": "aktor-song-hanedani",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:51.589Z",
+  "zaman": "2026-08-29T19:34:15.400Z",
   "govde_hash": "611e1f3798ca",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
       "iddia": "Song ekonomisi, yılda 100.000.000 kilogramdan fazla demir ürünü üretecek kadar istikrarlıydı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -31,13 +31,13 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıldaki yeniliği olmasa sürecekti.",
+      "iddia": "Büyük ölçekli ormansızlaşma, yüksek fırınlarda odun kömürü yerine taş kömürü kullanımının 11. yüzyıldaki yeniliği olmasa sürecekti.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıla yerleştirmesi atlas için önemli bir kayıttır: bir enerji geçişi, Avrupa'daki sanayileşmeden çok önce ve başka bir kıtada gerçekleşmiştir.",
+      "iddia": "Kaynağın bu yeniliği 11. yüzyıla yerleştirmesi atlas için önemli bir kayıttır: bir enerji geçişi, Avrupa'daki sanayileşmeden çok önce ve başka bir kıtada gerçek",
       "durum": "OK",
       "not": ""
     },

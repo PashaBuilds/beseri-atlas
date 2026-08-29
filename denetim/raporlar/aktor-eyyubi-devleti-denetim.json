@@ -1,9 +1,9 @@
 {
   "id": "aktor-eyyubi-devleti",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:49.025Z",
+  "zaman": "2026-08-29T19:34:08.977Z",
   "govde_hash": "f313e9097fc6",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -13,9 +13,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl sonu için 7.200.000 kişilik bir tahmin verir, ama aynı kutunun dipnotunda Eyyûbî topraklarının toplam nüfusunun bilinmediğini ve bu sayının yalnızca Mısı",
+      "iddia": "Kaynak 12. yüzyıl sonu için 7.200.000 kişilik bir tahmin verir, ama aynı kutunun dipnotunda Eyyûbî topraklarının toplam nüfusunun bilinmediğini ve bu sayının ya",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -25,13 +25,13 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl başlarına kadar yönetti.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Bitiş yılı 1260 olarak verilir, ancak dipnot şunu ekler: Eyyûbîler 1250'de Mısır'ı Memlükler'e kaptırmalarına rağmen Levant'ı 1260'a kadar denetlediler ve haned",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl başı), atlasın tek bir yıkılış yılı alanına neden temkinle yaklaştığını gösterir; burada seçilen 1260, kaynağın kutusunda yazan yıldır.",
+      "iddia": "Aynı hanedan için üç ayrı bitiş tarihi verilebilmesi (1250, 1260, 16. yüzyıl başı), atlasın tek bir yıkılış yılı alanına neden temkinle yaklaştığını gösterir; b",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

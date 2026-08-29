@@ -1,13 +1,13 @@
 {
   "id": "olay-yazinin-icadi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:47.585Z",
+  "zaman": "2026-08-29T19:34:05.528Z",
   "govde_hash": "62e98678f652",
-  "commit": "495dbec",
+  "commit": "2dc84ff",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyıldan önce yazının kökenine dair akademik kuramların çoğu bir tür monogenez varsayımı içeriyordu: yazının yalnızca bir kez, eski Sümer'de çivi yazısı olarak",
+      "iddia": "20. yüzyıldan önce yazının kökenine dair akademik kuramların çoğu bir tür monogenez varsayımı içeriyordu: yazının yalnızca bir kez, eski Sümer'de çivi yazısı ol",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sümer"
     },

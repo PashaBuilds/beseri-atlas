@@ -1,5 +1,5 @@
 ## aktor-rus-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:51.332Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:14.778Z_
 
 - [OK]      k1 → "Kaynak üç ayrı biçim kaydeder: 1721-1906 arasında üniter mutlak monarşi, 1906-1917 arasında üniter parlamenter…"
 - [OK]      k1 → "Üç evrenin süreleri arasındaki oran çarpıcıdır: mutlak monarşi 1721'den 1906'ya uzanır, yarı anayasal evre 190…"

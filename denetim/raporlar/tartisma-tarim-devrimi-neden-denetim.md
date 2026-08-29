@@ -1,10 +1,10 @@
 ## tartisma-tarim-devrimi-neden
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.739Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:33.452Z_
 
 - [OK]      k1 → "İnsan toplulukları Neolitik dönemde, Afro-Avrasya'nın birçok bölgesinde avcılık ve toplayıcılıktan tarıma ve y…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kuramları sayan kaynak bunları birbirini dışlamayan öneriler olarak sunar ve bu çerçeve sorunun kendisini deği…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Soru yüz yılı aşkın süredir açık: vaha kuramı 1908'de ortaya atıldı; 2001 tarihli bir makale ise tartışmanın z…"
-- [OK]      k1 → "Gordon Childe 1928'de yaygınlaştırdı ve Man Makes Himself kitabında özetledi."
+- [OK]      k1 → "Vaha kuramını 1908'de Raphael Pumpelly ortaya attı; V. Gordon Childe 1928'de yaygınlaştırdı ve Man Makes Himse…"
 - [OK]      k1 → "Kurama göre Atlantik alçak basınçlarının kuzeye kaymasıyla iklim kurudukça topluluklar vahalara çekildi; orada…"
 - [OK]      k2 → "Childe 1936 tarihli kitabında mekanizmayı hayvanlar üzerinden kurar: yağış birkaç yıl üst üste azaldığında "ot…"
 - [ATOMSUZ] k2 → "Aynı sayfalarda, avlarını izleyen insanların da aynı su kaynaklarına sürükleneceği anlatılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

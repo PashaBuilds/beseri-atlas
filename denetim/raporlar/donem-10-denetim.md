@@ -1,12 +1,12 @@
 ## donem-10
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:41.824Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:33:51.277Z_
 
 - [OK]      k1 → "Aydınlanma, Avrupa'da ve Batı uygarlığında düşünsel ve kültürel bir serpilme dönemiydi ve "Akıl Çağı" adıyla d…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Hareketin savunduğu ilkeler arasında kilise ile devletin ayrılması ve akılcı ilkelerin toplumsal ve siyasi ref…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "yüzyılların Bilimsel Devrimi'nden doğdu ve onun üzerine kuruldu; Bilimsel Devrim yeni yöntemler kurmuştu." — programatik olarak ölçülemedi (ad karşılığı yok): Bilimsel, Devrimi, Devrim
+- [ATOMSUZ] k1 → "Aydınlanma, 16. ve 17. yüzyılların Bilimsel Devrimi'nden doğdu ve onun üzerine kuruldu; Bilimsel Devrim yeni y…" — programatik olarak ölçülemedi (ad karşılığı yok): Bilimsel, Devrimi, Devrim
 - [OK]      k1 → "Dönemin önderleri arasında Jean-Jacques Rousseau, Voltaire, Immanuel Kant, Johann Wolfgang von Goethe, David H…"
 - [ATOMSUZ] k1 → "Stanislaus anılır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k4 → "yüzyılın sonlarına doğru başlayan dönemde Osmanlı Devleti kaçınılmaz olarak yapısal değişimler içine girdi."
+- [OK]      k4 → "18. yüzyılın sonlarına doğru başlayan dönemde Osmanlı Devleti kaçınılmaz olarak yapısal değişimler içine girdi…"
 - [OK]      k1 → "Kullanılan Aydınlanma kaynağı hareketi "Avrupa ve Batı uygarlığı" ile sınırlı tanımlar; bu üç bölge orada kend…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1600'de yaklaşık 516,1 milyon, 1790'da yaklaşık 942,3 milyondur."
 - [OK]      k2 → "Adam Smith'in Ulusların Zenginliğinin Doğası ve Nedenleri Üzerine Bir İnceleme adlı eseri 1776'da yayımlandı v…" — 2 atom doğrulandı; 3 ad ölçülemedi

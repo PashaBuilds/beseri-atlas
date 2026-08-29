@@ -1,8 +1,8 @@
 ## aktor-gucerat-sultanligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.239Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:09.484Z_
 
 - [OK]      k1 → "Gucerât Sultanlığı, Hint Okyanusu'nun kuzeybatı köşesinde, körfezin iki yakasına yayılan bir bölgede kurulmuşt…"
-- [ATOMSUZ] k3 → "Gucerât Sultanlığı, Hint Okyanusu'nun kuzeybatı köşesinde, körfezin iki yakasına yayılan bir bölgede kurulmuşt…" — programatik olarak ölçülemedi (ad karşılığı yok): Sultanlığı, Hint, Okyanusu
+- [OK]      k3 → "Gucerât Sultanlığı, Hint Okyanusu'nun kuzeybatı köşesinde, körfezin iki yakasına yayılan bir bölgede kurulmuşt…"
 - [ATOMSUZ] k1 → "Bölge, okyanus ağının kuzey ucundadır ve batıya giden güzergâhın ilk büyük durağıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Dosyanın ayırt edici yanı şudur: sultanlık, deniz ticaretinden zenginleşmiş ama kendi donanmasını kurmamıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Dosyanın ayırt edici yanı şudur: sultanlık, deniz ticaretinden zenginleşmiş ama kendi donanmasını kurmamıştır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -71,4 +71,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.239Z_
 - [ATOMSUZ] k3 → "Bölgeyi ilhak eden imparatorluk için , envanteri tutan kaynak için dosyaları uygundur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Limanların bağlı olduğu deniz ağı için , limanlardaki yabancı topluluklar için dosyaları okunabilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 2 OK · 2 ISARET · 0 HATA · 65 ATOMSUZ
+**Özet:** 3 OK · 2 ISARET · 0 HATA · 64 ATOMSUZ
