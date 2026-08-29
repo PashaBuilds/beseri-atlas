@@ -1,7 +1,7 @@
 // Matris dogrulayicisinin fikstur testleri.
 //   node testler/matris.test.mjs
 import assert from 'node:assert/strict';
-import { matrisiDogrula, sayaclariHesapla, iddiaSinifi } from '../araclar/matris.mjs';
+import { matrisiDogrula, sayaclariHesapla, iddiaSinifi, cumleSadelestir } from '../araclar/matris.mjs';
 import { govdeHash } from '../araclar/denetle.mjs';
 
 let n = 0;
@@ -76,6 +76,37 @@ test('yinelenen iddia_id HATA', () => {
 test('celisir sinifi desteksizdir', () => {
   assert.equal(iddiaSinifi({ tur: 'olgu', kaynaklar: [{ anahtar: 'k1', destek: 'celisir' }] }), 'desteksiz');
   assert.equal(iddiaSinifi({ tur: 'yorum', kaynaklar: [] }), 'olculemez');
+});
+
+
+// --- cumle sadelestirme kalibrasyonu (2026-08-29) ---
+// Iki olcum (K-6 tazelenebilirMi ve --eksik-iddia) farkli sadelestirme
+// kullaniyordu ve bir dosya ayni anda ikisini birden saglayamiyordu.
+// Bir ajan bunu olcup bildirdi; ikisi tek fonksiyona baglandi.
+
+test('sadelestirici dipnot isaretini siler', () => {
+  assert.equal(cumleSadelestir('Bir iddia.[^k3] Devami.'), 'Bir iddia. Devami.');
+});
+
+test('sadelestirici markdown vurgusunu siler', () => {
+  assert.equal(cumleSadelestir('*Cinselligin Tarihi*nin ilk cildi'), 'Cinselligin Tarihinin ilk cildi');
+  assert.equal(cumleSadelestir('`kod` ve _vurgu_'), 'kod ve vurgu');
+});
+
+test('sadelestirici markdown bagini metnine indirger', () => {
+  assert.equal(cumleSadelestir('bkz. [Sanayi Devrimi](/olay/sanayi-devrimi/) dosyasi'),
+    'bkz. Sanayi Devrimi dosyasi');
+});
+
+test('sadelestirici boslugu normallestirir', () => {
+  assert.equal(cumleSadelestir('  iki   satira\n  bolunmus  '), 'iki satira bolunmus');
+});
+
+test('markdownli matris cumlesi markdownsiz govdede bulunur', () => {
+  // Kalibrasyon hatasinin ta kendisi: matris vurgulu, govde vurgusuz.
+  const matrisCumlesi = cumleSadelestir("*Kanunlarin Ruhu*'nun XVII. kitabi");
+  const govde = cumleSadelestir("Yazar, Kanunlarin Ruhu'nun XVII. kitabinda bunu yazar.");
+  assert.ok(govde.includes(matrisCumlesi));
 });
 
 console.log(`\n${n} test gecti`);
