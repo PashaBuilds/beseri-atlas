@@ -139,11 +139,28 @@ export function matrisiDogrula(matris, makale = null) {
  * dusulerek yapilir. Tek bir cumle bile kaybolmussa tazeleme REDDEDILIR ve
  * dosya yeniden hakemlenmelidir.
  */
+/**
+ * Iddia cumlesi karsilastirmasinin TEK normallestiricisi.
+ * 2026-08-29: iki olcum (K-6 ve --eksik-iddia) farkli sadelestirme
+ * kullaniyordu ve ayni anda ikisini birden saglamak imkansizdi; bir ajan
+ * bunu olcup bildirdi. Matris cumleleri markdown vurgusu tasiyabilir
+ * (*eser adi*, ic bag), govde karsilastirmasinda ise tasimayabilir.
+ * Ikisi de burada ayni bicimde soyulur.
+ */
+export function cumleSadelestir(s) {
+  return String(s || '')
+    .replace(/\[\^k\d+\]/g, '')            // dipnot isaretleri
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1') // markdown bag -> metni
+    .replace(/[*_`]/g, '')                   // vurgu isaretleri
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 export function tazelenebilirMi(matris, makale) {
   // Dipnot isaretleri karsilastirmadan cikarilir: hakem cumleyi isaretsiz
   // kaydeder, govdede isaret cumlenin ortasinda durabilir. Bu bicimsel fark
   // iddianin degistigi anlamina gelmez.
-  const sadelestir = (s) => String(s || '').replace(/\[\^k\d+\]/g, '').replace(/\s+/g, ' ').trim();
+  const sadelestir = cumleSadelestir;
   const govde = sadelestir(makale.govde);
   const kayip = [];
   for (const i of matris.iddialar || []) {
@@ -175,7 +192,7 @@ function benzerlik(a, b) {
 }
 
 export function cumleleriOturt(matris, makale, { esik = 0.55 } = {}) {
-  const sade = (s) => String(s || '').replace(/\[\^k\d+\]/g, '').replace(/\s+/g, ' ').trim();
+  const sade = cumleSadelestir;
   const govde = sade(makale.govde);
   const adaylar = iddiaCumleleri(makale.govde);
   const rapor = { oturan: 0, belirsiz: [], bulunamayan: [] };
@@ -227,9 +244,20 @@ if (process.argv[1]?.endsWith('matris.mjs')) {
     for (const id of idler) {
       const matris = matrisOku(id); const makale = haritada.get(id);
       if (!matris || !makale) continue;
-      const sade = (s) => String(s || '').replace(/\[\^k\d+\]/g, '').replace(/\s+/g, ' ').trim();
-      const kayitli = new Set((matris.iddialar || []).map((i) => sade(i.cumle)));
-      const eksik = iddiaCumleleri(makale.govde).filter((c) => !kayitli.has(sade(c.cumle)));
+      // KALIBRASYON (2026-08-29 ajan bulgusu): bu kip ile K-6 (tazelenebilirMi)
+      // farkli olcuyordu ve ayni anda ikisini birden saglamak imkansizdi.
+      // K-6, matristeki cumlenin govdede ALT DIZE olarak durmasini arar;
+      // bu kip ise TAM CUMLE esitligi ariyordu, dolayisiyla matriste kismi
+      // cumle tutan her kayit "eksik" gorunuyordu. Iki olcum ayni tanimi
+      // kullanmali: bir govde cumlesi, matristeki herhangi bir iddia
+      // cumlesi onun icinde geciyorsa (ya da tersi) KAPSANMIS sayilir.
+      const sade = cumleSadelestir;
+      const kayitliCumleler = (matris.iddialar || []).map((i) => sade(i.cumle)).filter(Boolean);
+      const kapsanmis = (c) => {
+        const g = sade(c.cumle);
+        return kayitliCumleler.some((k) => g.includes(k) || k.includes(g));
+      };
+      const eksik = iddiaCumleleri(makale.govde).filter((c) => !kapsanmis(c));
       toplamCumle += iddiaCumleleri(makale.govde).length;
       toplamEksik += eksik.length;
       if (eksik.length) {

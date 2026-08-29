@@ -1,9 +1,9 @@
 {
   "id": "dusunur-foucault",
   "gecis": 2,
-  "zaman": "2026-08-29T17:24:56.026Z",
-  "govde_hash": "32d917791489",
-  "commit": "48bd041",
+  "zaman": "2026-08-29T17:35:22.855Z",
+  "govde_hash": "3f0c3ad07e06",
+  "commit": "21a3edb",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -79,7 +79,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Siyaset kuramının hâlâ mutlak monarşiden devralınan bir iktidar tasavvuruna — tepesinde bir kişi olan piramide, olumsuz yaptırımla işleyen bir mekanizmaya — tak",
+      "iddia": "Siyaset kuramının mutlak monarşiden devralınan bir iktidar tasavvuruna — tepesinde bir kişi olan piramide — takılı kaldığını, dolayısıyla kuramda kralın kafasın",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -103,7 +103,7 @@
     },
     {
       "anahtar": "k10",
-      "iddia": "Geriye dağılımın kendisini betimlemek kalıyordu: bir ifade kümesinde düzenlilik saptanabildiği her yerde buna — bilim, ideoloji, kuram gibi yüklü sözcüklerden k",
+      "iddia": "Geriye dağılımın kendisini betimlemek kalıyordu: bir ifade kümesinde düzenlilik saptanabildiğinde buna — bilim, ideoloji, kuram gibi yüklü sözcüklerden kaçınmak",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -169,7 +169,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Sonucu, hukukun yerine normun ağırlık kazanmasıdır; kavramının siyaset kuramındaki merkeziliği tam da bu yüzden sorgulanır.",
+      "iddia": "Sonucu, hukukun yerine normun ağırlık kazanmasıdır; kavramının siyaset kuramındaki merkeziliği tam da burada sorgulanır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -217,7 +217,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Jana Sawicki ise bu kullanımın Foucault'nun kendi sorununu miras aldığını, disiplini her yerde ve kaçınılmaz gösterdiği için etkili direnişi açıklayamadığını be",
+      "iddia": "Jana Sawicki ise bu kullanımın Foucault'nun kendi sorununu miras aldığını, disiplini her alana yayılmış ve kaçınılmaz gösterdiği için etkili direnişi açıklayama",
       "durum": "OK",
       "not": ""
     },
@@ -236,6 +236,12 @@
     {
       "anahtar": "k13",
       "iddia": "Thomas Biebricher'in okumasına göre Habermas orada Foucault'nun soykütük tasarısını temelden yanlış anlar: Foucault'nun tarihe kesinlikle bilimsel bir yaklaşım ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k14",
+      "iddia": "İtirazın yazındaki adı kripto-normativizm'dir: Foucault'nun alenen reddettiği normlara sessizce dayanma görünümü.",
       "durum": "OK",
       "not": ""
     },
@@ -325,9 +331,9 @@
     },
     {
       "anahtar": "k12",
-      "iddia": "Louis'ye suikast girişimi yüzünden Paris'te parçalanarak idam edilen Robert-François Damiens'in betimlemesiyle başlar; Spierenburg bu dramın, suçluların çoğunun",
+      "iddia": "Hapishanenin Doğuşu, 1757'de krala suikast girişiminde bulunan ve Paris'te parçalanarak idam edilen Robert-François Damiens'in betimlemesiyle başlar; Spierenbur",
       "durum": "OK",
-      "not": ""
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",

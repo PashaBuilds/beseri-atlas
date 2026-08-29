@@ -1,5 +1,5 @@
 ## dusunur-foucault
-_Geçiş 2 — kaynak denetimi · 2026-08-29T17:24:56.026Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T17:35:22.855Z_
 
 - [OK]      k1 → "Michel Foucault'nun çalışması tek bir savla özetlenecekse bu olurdu: iktidar özünde bastırıcı değil üretkendir…"
 - [ATOMSUZ] k1 → "Sav, cinselliğin tarihini yazarken iktidar kavramını baştan kurma zorunluluğundan doğdu ve Cinselliğin Tarihi'…" — programatik olarak ölçülemedi (ad karşılığı yok): Cinselliğin, Tarihi
@@ -13,11 +13,11 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T17:24:56.026Z_
 - [ATOMSUZ] k1 → "Foucault bu programı temelden yanlış buluyordu: kurtarılacak otantik bir cinsellik yoktu, çünkü cinsellik dene…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Çözümlemenin sık düşürülen çekincesi de buradadır: bir norm kümesinden kurtulmak yalnızca bir başkasını benims…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "İktidar-bilgi kavramı, bilginin sınıf iktidarınca çarpıtıldığını söyleyen ideoloji kavramının yerine kuruldu; …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Siyaset kuramının hâlâ mutlak monarşiden devralınan bir iktidar tasavvuruna — tepesinde bir kişi olan piramide…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Siyaset kuramının mutlak monarşiden devralınan bir iktidar tasavvuruna — tepesinde bir kişi olan piramide — ta…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Ayrılık göründüğü kadar temiz değildir: Foucault'nun Sartre'ı reddedişinde fazla ısrar edilmiş bir yan vardır …"
 - [ATOMSUZ] k1 → "Arkeoloji, bilgi ve düşünce dizgelerinin bireysel öznelerin bilincinin altında işleyen kurallarca yönetildiğin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k10 → "Foucault bir ifade kümesini neyin birleştirdiğine dair dört varsayımı — ortak nesne, ortak ifade biçimi, ortak…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k10 → "Geriye dağılımın kendisini betimlemek kalıyordu: bir ifade kümesinde düzenlilik saptanabildiği her yerde buna …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k10 → "Geriye dağılımın kendisini betimlemek kalıyordu: bir ifade kümesinde düzenlilik saptanabildiğinde buna — bilim…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Yöntemin işlevi açıktır: bireysel bilincin önceliğine dayanmayan bir mümkün kılar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k10 → "Foucault bu programı ilan ederken sonucunu güvence altına almadı: risklerin hatırı sayılır olduğunun farkında …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k10 → "Nesnenin nasıl kurulduğunu soruşturması da aynı ölçülüdür: on dokuzuncu yüzyıl ruh patolojisinde ortaya çıkış …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -28,7 +28,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T17:24:56.026Z_
 - [ATOMSUZ] k1 → "Modern cezalandırma dizgesinin ayırt edici yanı, yapılanla değil yapılmayanla — gerekli ölçüye ulaşamamayla — …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Sınav ise gözlemle yargıyı birleştirir: hem sınananın hakkındaki doğruyu söyler hem de davranışını yönetir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Foucault'ya göre on yedinci yüzyıldan itibaren bu iktidar tamamen ortadan kalkmadı; kısmen tamamlandı ve kısme…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Sonucu, hukukun yerine normun ağırlık kazanmasıdır; kavramının siyaset kuramındaki merkeziliği tam da bu yüzde…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sonucu, hukukun yerine normun ağırlık kazanmasıdır; kavramının siyaset kuramındaki merkeziliği tam da burada s…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Yönetmek sonunda iktidarın tercih edilen adı olur ve yönetimsellik, modern iktidarın akılsallığını, teknikleri…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Bu, kurumların akılcılaşmasını inceleyen çizgisiyle kesişir ama onunla örtüşmez: Foucault'nun sorduğu, kurumun…"
 - [ATOMSUZ] k3 → "Feminist okurların en sık dile getirdiği itirazlar iki başlıkta toplanır: öznenin iktidarca kurulmuş sayılması…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -36,10 +36,11 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T17:24:56.026Z_
 - [OK]      k3 → "Nancy Hartsock bunu genişletir ve şunu sorar: susturulmuş olanlar kendilerini adlandırma hakkını istemeye başl…"
 - [OK]      k3 → "Nancy Hartsock bunu genişletir ve şunu sorar: susturulmuş olanlar kendilerini adlandırma hakkını istemeye başl…"
 - [OK]      k3 → "Lois McNay, Foucault'nun modelinin bedenin iktidardan kurtarılmasını dışlasa da mevcut cinsellik ve cinsiyet i…"
-- [OK]      k3 → "Jana Sawicki ise bu kullanımın Foucault'nun kendi sorununu miras aldığını, disiplini her yerde ve kaçınılmaz g…"
+- [OK]      k3 → "Jana Sawicki ise bu kullanımın Foucault'nun kendi sorununu miras aldığını, disiplini her alana yayılmış ve kaç…"
 - [OK]      k8 → "Charles Taylor, Nietzsche okumasından yola çıkan eleştirmenler arasında Foucault'yu kendi kanısınca en ilginç …"
 - [OK]      k8 → "İtiraz buradan doğar: bu duruş, bilginin dayatılmış hakikat rejimlerine göreli olduğu okumasına bağlıdır ve o …" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k13 → "Thomas Biebricher'in okumasına göre Habermas orada Foucault'nun soykütük tasarısını temelden yanlış anlar: Fou…"
+- [OK]      k14 → "İtirazın yazındaki adı kripto-normativizm'dir: Foucault'nun alenen reddettiği normlara sessizce dayanma görünü…"
 - [OK]      k14 → "Niko Kolodny bu adı bir savunmaya çevirir; ona göre geç dönem Foucault normlardan çok kuramdan kuşkuluydu ve n…"
 - [OK]      k9 → "Habermas'ın kendi kaydında itiraz Foucault'ya tek başına değil, genel olarak söylendiğinde Foucault, Derrida v…"
 - [OK]      k7 → "Görelilikçi yazgıcılık suçlaması ve Foucault'nun buna verdiği karşılıklar — sonuççu akıl yürütmeye başvurması,…"
@@ -54,7 +55,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T17:24:56.026Z_
 - [ATOMSUZ] k1 → "Son dönem çalışmalarında özneye tanınan pay daha da belirgindir: özneler yalnızca iktidar tarafından kurulmaz,…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k11 → "Pieter Spierenburg'ün değerlendirmesine göre Foucault'nun ceza dizgesinde 1760 ile 1840 arasında ani ve bütüns…"
 - [OK]      k11 → "İtiraz tek yönlü değildir: aynı yazı, Foucault'nun 1975 tarihli çalışmasının desteklemediği görüşlerin ona — ö…"
-- [OK]      k12 → "Louis'ye suikast girişimi yüzünden Paris'te parçalanarak idam edilen Robert-François Damiens'in betimlemesiyle…"
+- [OK]      k12 → "Hapishanenin Doğuşu, 1757'de krala suikast girişiminde bulunan ve Paris'te parçalanarak idam edilen Robert-Fra…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Foucault ölümünden sonra hazırlamadığı yazıların yayımlanmamasını açıkça istemişti; mirasçıları Collège de Fra…"
 - [ATOMSUZ] k1 → "Sonuçta ne hazırladığı ne onayladığı el yazmaları, notlar ve söyleşiler basıldı; bu külliyat düşüncesinin yoru…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Güvenlik, Toprak, Nüfus (1977-1978) ve Biyopolitikanın Doğuşu (1978-1979) yönetimsellik kavramını getirdi; iki…" — 4 atom doğrulandı; 4 ad ölçülemedi
@@ -62,4 +63,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T17:24:56.026Z_
 - [OK]      k6 → "Bu yüzden bugün Foucault iki ayrı masada anılıyor: kendi okurlarının panoptikonu budamaya çalıştığı gözetim ta…"
 - [ATOMSUZ] k1 → "Üçünde de sorusu aynı kalıyor: bu düzenlemeyi haklı çıkaran akılsallık hangisidir ve o akılsallık sorgulanabil…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 25 OK · 0 ISARET · 0 HATA · 35 ATOMSUZ
+**Özet:** 26 OK · 0 ISARET · 0 HATA · 35 ATOMSUZ

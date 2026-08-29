@@ -50,7 +50,7 @@ kaynaklar:
     url: https://archive.org/details/disciplinepunish0000fouc_j5k6
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "Translation of: Surveiller et punir"
-    not: "Yalnizca katalog kaydidir: basim bilgisi, sayfa sayisi ve icindekiler dokumu dogrulanabilir; eserin ICERIGINE dair iddia tasimaz. Eser telifli oldugu icin tam metin kunyeye alinmadi"
+    not: "Yalnizca katalog kaydidir: basim bilgisi, sayfa sayisi ve icindekiler dokumu dogrulanabilir; eserin ICERIGINE dair iddia tasimaz. Surveiller et punir telifli oldugu icin tam metni kunyeye alinmadi; kunyedeki tek Foucault tam metni k10'daki 1969 yontem kitabidir"
   - anahtar: k5
     tur: akademik
     ad: "Crossref kaydi - Petra Gehring, The Inverted Eye. Panopticon and Panopticism, Revisited (Foucault Studies, 2017)"
@@ -196,7 +196,7 @@ dair dört varsayımı — ortak nesne, ortak ifade biçimi, ortak kavram dizges
 kalıcı izlek — sırayla denedi ve dördünü de kendi deyişiyle başarısızlık diye
 kaydetti: bulduğu, boşluklarla dolu diziler ve bağdaşmaz kavramlardı.[^k10]
 Geriye dağılımın kendisini betimlemek kalıyordu: bir ifade kümesinde düzenlilik
-saptanabildiği her yerde buna — *bilim*, *ideoloji*, *kuram* gibi yüklü
+saptanabildiğinde buna — *bilim*, *ideoloji*, *kuram* gibi yüklü
 sözcüklerden kaçınmak için — *söylemsel oluşum*, öğelerin bağlı olduğu
 koşullara da *oluşum kuralları* adını verdi.[^k10] Yöntemin
 işlevi açıktır: bireysel bilincin önceliğine dayanmayan bir [tarih
@@ -235,7 +235,7 @@ on yedinci yüzyıldan itibaren bu iktidar tamamen ortadan kalkmadı; kısmen
 tamamlandı ve kısmen yerini yaşamı yönetmeyi ve çoğaltmayı amaçlayan bir
 biçime bıraktı.[^k1] Sonucu, hukukun yerine
 normun ağırlık kazanmasıdır; [egemenlik](/kavram/egemenlik/) kavramının siyaset
-kuramındaki merkeziliği tam da bu yüzden sorgulanır.[^k1]
+kuramındaki merkeziliği tam da burada sorgulanır.[^k1]
 
 *Yönetimsellik*, ölçeği devlete taşır. *Yönetmek* sonunda iktidarın tercih
 edilen adı olur ve yönetimsellik, modern iktidarın akılsallığını, tekniklerini
@@ -267,7 +267,7 @@ cinsellik ve cinsiyet ilişkilerinin dönüştürülebileceği olasılığına y
 bıraktığını savunur; Sandra Bartky ve Susan Bordo normalleştirici disiplin
 kavramını kadın bedeninin denetimini çözümlemek için kullanır.[^k3] Jana
 Sawicki ise bu kullanımın Foucault'nun kendi sorununu miras aldığını, disiplini
-her yerde ve kaçınılmaz gösterdiği için etkili direnişi açıklayamadığını
+her alana yayılmış ve kaçınılmaz gösterdiği için etkili direnişi açıklayamadığını
 belirtir.[^k3] Kavram [toplumsal cinsiyet
 düzeni](/kavram/toplumsal-cinsiyet-duzeni/) tartışmalarına hem girdi hem itiraz
 olarak girmiştir.
@@ -301,7 +301,7 @@ Habermas'ın kendi kaydında itiraz Foucault'ya tek başına değil, genel olara
 söylendiğinde Foucault, Derrida ve Rorty kümesine atfedilir: aklın tarihsel ve
 kültürel olarak olumsal bir toplumsal biçimden ibaret sayılması, evrensel
 geçerlikte ahlak ve hakikat fikirlerinin iktidarın etnik-merkezci
-izdüşümlerine indirgenmesi.[^k9] [kamusal
+izdüşümlerine indirgenmesi.[^k9] [Kamusal
 alan](/kavram/kamusal-alan/) kavramıyla Foucault'nun söylem çözümlemesi
 arasındaki gerilim buradan doğar. Görelilikçi yazgıcılık suçlaması ve
 Foucault'nun buna verdiği karşılıklar — sonuççu akıl yürütmeye başvurması,
@@ -367,7 +367,7 @@ ortaklığı yazarın kendi önceki yayınlarına karşı, *ön sonuç* kaydıyl
 sürer.[^k11]
 
 Kitabın açılış sahnesi de aynı itirazı taşır. *Hapishanenin Doğuşu*, 1757'de
-krala suikast girişimi yüzünden Paris'te parçalanarak idam edilen
+krala suikast girişiminde bulunan ve Paris'te parçalanarak idam edilen
 Robert-François Damiens'in betimlemesiyle başlar; Spierenburg bu dramın,
 suçluların çoğunun aynı sertlikte cezalandırıldığı sanısına götürmemesi
 gerektiğini yazar, çünkü infaz tümüyle istisnaidir: Fransız makamları 1610'da

@@ -1,48 +1,20 @@
 {
   "id": "dusunur-foucault",
   "gecis": 3,
-  "zaman": "2026-08-29T16:48:43.483Z",
-  "govde_hash": "3f3c2d75692f",
+  "zaman": "2026-08-29T17:35:23.373Z",
+  "govde_hash": "3f0c3ad07e06",
   "itirazlar": [
     {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Modern iktidarın en etkili biçimi, insanı bir şeyden alıkoyan biçim değildir; ona belli bir insan olmayı öğreten biçimdir. Michel Foucault'nun çalışması tek bir savla özetlenecekse",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
       "ciddiyet": "orta",
       "tip": "kapsam-carpitmasi",
-      "cumle": "İkinci muhatap Marksist gelenekti. İktidar-bilgi kavramı, bilginin sınıf iktidarınca çarpıtıldığını söyleyen ideoloji kavramının yerine geçmek üzere kuruldu; Foucault'ya göre iktid",
-      "sorun": "Makale avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
-      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
-    },
-    {
-      "ciddiyet": "orta",
-      "tip": "tek-kaynakli-nedensellik",
-      "cumle": "*Biyoiktidar*, öldürme hakkına dayanan egemen iktidardan ayrılır. Egemen iktidar esas olarak eksiltmeyle işliyordu: ulusun servetinden pay almak, uyruğun zamanını, gücünü ve nihaye",
-      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
-      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
-    },
-    {
-      "ciddiyet": "orta",
-      "tip": "kapsam-carpitmasi",
-      "cumle": "*Yönetimsellik*, ölçeği devlete taşır. Foucault için *yönetmek* sonunda iktidarın tercih edilen adı olur ve yönetimsellik, modern dünyada iktidarın akılsallığını, tekniklerini ve u",
+      "cumle": "İkinci muhatap Marksist gelenekti. İktidar-bilgi kavramı, bilginin sınıf iktidarınca çarpıtıldığını söyleyen ideoloji kavramının yerine kuruldu; iktidardan ayrı saf bir bilgi yoktu",
       "sorun": "Makale avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
       "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
     },
     {
       "ciddiyet": "orta",
       "tip": "kapsam-carpitmasi",
-      "cumle": "İtiraz tek yönlü de değildir. Lois McNay, Foucault'nun modelinin bedenin iktidardan kurtarılmasını dışlasa da mevcut cinsellik ve cinsiyet ilişkilerinin dönüştürülebileceği olasılı",
-      "sorun": "Makale avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
-      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
-    },
-    {
-      "ciddiyet": "orta",
-      "tip": "kapsam-carpitmasi",
-      "cumle": "Felsefe tarafından gelen itiraz da adıyla kayıtlıdır. Charles Taylor'ın 1984'te *Political Theory* dergisinde yayımlanan *Foucault on Freedom and Truth* yazısı, özgürlük ve hakikat",
+      "cumle": "Jürgen Habermas'ın itirazının yeri *Modernliğin Felsefi Söylemi*'dir. Thomas Biebricher'in okumasına göre Habermas orada Foucault'nun soykütük tasarısını temelden yanlış anlar: Fou",
       "sorun": "Makale avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
       "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
     }

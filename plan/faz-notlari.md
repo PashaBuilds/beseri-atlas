@@ -4901,3 +4901,23 @@ Her kayıtsız cümle için üç seçenekten biri uygulanır — gövdedeki bire
 hâline güncelle, gövdeden çıkmışsa matristen çıkar, ya da iddia olarak
 ekle. Üçüncüsünde destek düzeyi TAHMİNLE VERİLMEZ, kaynak `dok.mjs` ile
 sınanır; "kelime örtüşmesi %100" etiketi doğrulama sayılmaz.
+
+### Kendi ölçümümün kalibrasyon hatası
+
+Matris bütünlüğünü iki yönden ölçüyordum ve bir ajan ikisinin birbiriyle
+çeliştiğini bildirdi: bir dosya aynı anda ikisini birden sağlayamıyordu.
+Neden, iki ölçümün farklı sadeleştirme kullanmasıydı. K-6
+(`tazelenebilirMi`) matristeki cümlenin gövdede ALT DİZE olarak durmasını
+arıyor; `--eksik-iddia` ise TAM CÜMLE eşitliği arıyordu. Üstelik matris
+cümleleri markdown vurgusu taşıyabiliyor (*eser adı*, iç bağ), gövde
+karşılaştırmasında ise taşımıyordu.
+
+İkisi tek bir `cumleSadelestir` fonksiyonuna bağlandı: dipnot işaretleri,
+markdown bağları ve vurgu işaretleri her iki taraftan da soyuluyor; kapsama
+ölçüsü de alt dize içermeye göre tanımlandı.
+
+**Düzeltme sonrası gerçek sayılar, benim daha önce bildirdiklerimden
+belirgin biçimde düşük:** kayan cümle 185 → **105**, kayıtsız cümle
+462 → **205**. Yani sorun gerçekti ama ben onu abartmıştım; ölçüm aracının
+kendisi hatalıydı. Bu, oturumdaki dördüncü tanım ayrışmasıdır (önce kelime
+sayımı, sonra "birincil kaynak", sonra uzunluk hedefleri).

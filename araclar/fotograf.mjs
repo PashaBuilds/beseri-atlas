@@ -10,7 +10,7 @@ import { execSync } from 'node:child_process';
 import { KOK, makaleleriTopla } from './ortak.mjs';
 import { kelimeSay, HEDEFLER } from './linter-derinlik.mjs';
 import { kalipSay } from './linter-dil.mjs';
-import { MATRIS_DIZINI, matrisOku, matrisiDogrula, sayaclariHesapla } from './matris.mjs';
+import { MATRIS_DIZINI, matrisOku, matrisiDogrula, sayaclariHesapla, cumleSadelestir } from './matris.mjs';
 import { iddiaCumleleri } from './denetle.mjs';
 import { kaynakDenetimi } from './linter-kaynak.mjs';
 
@@ -49,7 +49,7 @@ export function fotograf() {
   //   kayanCumle : matriste kayitli ama govdede bulunamayan iddia cumlesi
   //   kaydsizCumle: govdede dipnotlu ama matriste kaydi olmayan cumle
   let kayanCumle = 0, kaydsizCumle = 0, dipnotluCumle = 0;
-  const sade = (s) => String(s || '').replace(/\[\^k\d+\]/g, '').replace(/\s+/g, ' ').trim();
+  const sade = cumleSadelestir;
   for (const id of matrisler) {
     const mat = matrisOku(id);
     if (!mat) continue;
@@ -62,10 +62,17 @@ export function fotograf() {
     if (d.bayat) bayat += 1;
     if (makale) {
       kayanCumle += d.kayipCumle || 0;
-      const kayitli = new Set((mat.iddialar || []).map((i) => sade(i.cumle)));
+      // Kapsama olcusu matris.mjs --eksik-iddia ile AYNI tanimi kullanir:
+      // bir govde cumlesi, matristeki bir iddia cumlesi onun icinde geciyorsa
+      // (ya da tersi) kapsanmis sayilir. Iki olcumun ayrisması 2026-08-29'da
+      // gercek bir kalibrasyon hatasiydi.
+      const kayitliCumleler = (mat.iddialar || []).map((i) => sade(i.cumle)).filter(Boolean);
       const cumleler = iddiaCumleleri(makale.govde);
       dipnotluCumle += cumleler.length;
-      kaydsizCumle += cumleler.filter((c) => !kayitli.has(sade(c.cumle))).length;
+      kaydsizCumle += cumleler.filter((c) => {
+        const g = sade(c.cumle);
+        return !kayitliCumleler.some((k) => g.includes(k) || k.includes(g));
+      }).length;
     }
   }
 
