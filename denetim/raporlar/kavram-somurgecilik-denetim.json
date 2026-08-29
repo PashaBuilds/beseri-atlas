@@ -1,0 +1,141 @@
+{
+  "id": "kavram-somurgecilik",
+  "gecis": 2,
+  "zaman": "2026-08-29T20:57:31.188Z",
+  "govde_hash": "2f446851d4c5",
+  "commit": "7ed5c28",
+  "sonuclar": [
+    {
+      "anahtar": "k2",
+      "iddia": "26 Ekim 1891'de, Fransa Dışişleri Bakanlığı'nın talimatıyla yazan Baron d'Estournelles de Constant, Lahou ile Cavally Irmağı arasındaki bütün kıyı şeridinin Fra",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "maddesi uyarınca yapılmıştır ve amacı, Britanya hükûmetine varsa daha önceki hak iddialarını öne sürme imkânı vermektir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yazışma, antlaşmaların tarafı sayılan hükümdarlara değil rakip bir Avrupa devletine gider ve cevabı da o devlet verir; kıyıda oturanlar belgenin konusudur, tara",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sömürge (colony) sözcüğünün kökü Latince colonus, yani çiftçidir; kök, uygulamanın çoğu zaman bir nüfusun yeni bir toprağa aktarılmasını ve gelenlerin, geldikle",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Emperyalizm ise imperium'dan, buyurmaktan gelir ve bir ülkenin bir başkası üzerinde yerleşimle, egemenlikle ya da dolaylı denetim düzenekleriyle güç kullanmasın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Buradan çıkan ölçüt nüfus aktarımıdır: emperyalizm, kayda değer ve kalıcı bir Avrupalı yerleşimi olmadan, yani \"without significant permanent European settlemen",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ayrımın kendisi temiz değildir ve kaynak bunu saklamaz: iki terimi tutarlı biçimde birbirinden ayırmanın zorluğunu kaydeder ve tam bu nedenle sömürgeciliği geni",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Patrick Wolfe'un 1999 tarihli çalışmasına dayanılarak yerleşimci sömürgeciliği bir olay değil bir yapı sayılır: yerli hayatının ve toprağının bütünüyle temellük",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bağış yalnızca 1492 Noel'inde \"not in the possession of any Christian prince\" olan toprakları kapsar; dışarıda bırakılan tek şey, o tarihte başka bir Hristiyan ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Engel, orada oturanların zilyetliği değildir; başka bir Hristiyan hükümdarın önceki iddiasıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "maddesi aynı yeri korur: bildirim, öteki imzacıya önceki iddiasını hatırlatma fırsatı verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak kendi kullanımını on altıncı yüzyılın başında başlayan bir Avrupa siyasi tahakkümü projesiyle sınırlar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bartolomé de las Casas ise 1552'de basılan Brevísima relación'un girişinde iki tarihi ayırır: Indias 1492'de bulunmuş, İspanyol Hristiyanlarca iskân edilmeye 14",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı girişte verdiği ölüm sayısını kendisi de bir kanaat olarak işaretler: on iki milyondan fazla can der, hemen ardından kendi görüşüne göre sayının on beşi aş",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eve Tuck ve Wayne K. Yang, 2012 tarihli Decolonization is not a Metaphor yazısında yerleşimci dünya görüşlerini, yerleşimci sömürgeciliğinin bütünsel etkisini t",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dale Turner 2006 tarihli This Is Not a Peace Pipe'ta karşı yönü savunur: sömürgeciliğin koşullarını sürdüren güç ilişkilerini zayıflatmanın yolu, devletin hukuk",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Leanne Simpson ise yeniden inşanın içeriden başlaması gerektiğini söyler: sömürge öncesi tarihin ve dillerin yeniden kurulması yetmez, yerli örf ve yönetim biçi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birincisi sömürgeciliği emperyalizmle eş saymaktır; oysa ölçüt kalıcı yerleşimin olup olmamasıdır ve aynı bölgede iki terim aynı anda farklı şeyleri adlandırabi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "BM Genel Kurulu'nun 1514 sayılı kararı sömürgeciliğe bütün biçim ve görünümleriyle hızla ve koşulsuz son verilmesi gereğini ilan etti; metin 43 Afrika ve Asya ü",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Konu Genel Kurul gündemine SSCB Bakanlar Kurulu Başkanı Nikita Kruşçev'in 23 Eylül 1960 tarihli konuşmasıyla girmişti; isteğine eklediği açıklayıcı muhtırada sö",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kararın üçüncü maddesi kavramın en dayanıklı gerekçesini kapatır: siyasi, iktisadi, toplumsal ya da eğitsel hazırlık yetersizliği bağımsızlığın geciktirilmesi i",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı kaynak, resmî sömürgeleştirme birçok yerde sona ermişken yerli halkların hâlâ yerleşimci sömürge devletlerinde yaşadığını ve geleneksel toprakların denetim",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

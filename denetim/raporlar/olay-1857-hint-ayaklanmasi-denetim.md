@@ -1,52 +1,63 @@
 ## olay-1857-hint-ayaklanmasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T20:09:09.408Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T21:08:10.643Z_
 
-- [OK]      k9 → "Doğu Hindistan Şirketi'nin Meerut garnizonundaki sipahileri 10 Mayıs 1857'de ayaklandı ve kısa sürede kırk mil…" — 3 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k9 → "Ayaklanma kısa sürede başka garnizonlara ve sivil başkaldırılara yayıldı; isyancılar Kuzey-Batı Eyaletleri ile…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k10 → "Doğu Hindistan Şirketi'nin Meerut garnizonundaki sipahileri 10 Mayıs 1857 Pazar akşamı ayaklandı ve Delhi yolu…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k10 → "Olay sürerken derlenen çağdaş bir tarih, şehirden gelen bir tanıklığı aktarır: ertesi gün öğleden sonra impara…"
+- [OK]      k12 → "İlanı kimin yaptığı kayda göre değişir; 1911 tarihli bir başvuru ansiklopedisi Delhi'ye ulaşan isyancılara şeh…"
+- [OK]      k9 → "Seksen bir yaşındaki hükümdarı Bahadır Şah Zafer'in Hindustan imparatoru ilan edilişi ansiklopedik özette fail…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Ayaklanma başka garnizonlara ve sivil başkaldırılara yayıldı; isyancılar Kuzey-Batı Eyaletleri ile Avadh'ın (O…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k9 → "Aynı olay Sepoy Mutiny, Indian Mutiny, Great Rebellion, Revolt of 1857, Indian Insurrection ve First War of In…"
-- [OK]      k1 → "Tartışma da sonradan açılmadı; olay sürerken, 1857 yazında Avam Kamarası'nda başladı." — 1 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k1 → "27 Temmuz 1857'de muhalefetin lideri Benjamin Disraeli, Hindistan'a dair belgelerin Meclis'e sunulmasını istey…" — 3 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k1 → "27 Temmuz 1857'de muhalefetin lideri Benjamin Disraeli, Hindistan'a dair belgelerin Meclis'e sunulmasını istey…" — 3 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bu ülkeden birinin olayın kesin nedenlerini şimdiden yetkeyle ortaya koymasının küstahça ve vakitsiz olacağını…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Tartışma da sonradan açılmadı; 1857 yazında Avam Kamarası'nda başladı." — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "27 Temmuz 1857'de Benjamin Disraeli, Hindistan'a dair belgelerin Meclis'e sunulmasını isteyen bir önerge verdi…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "27 Temmuz 1857'de Benjamin Disraeli, Hindistan'a dair belgelerin Meclis'e sunulmasını isteyen bir önerge verdi…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Bu ülkeden birinin kesin nedenleri şimdiden yetkeyle ortaya koymasının küstahça ve vakitsiz olacağını söyledi;…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Enfield tüfeğinin sığır ve domuz yağıyla yağlandığı söylenen fişekleri ona göre bir bahaneydi: Avrupa'daki sav…" — 1 atom doğrulandı; 3 ad ölçülemedi
-- [ATOMSUZ] k1 → "Fişeklerin gerçekten değişip değişmediği tartışmasına girmeyi reddetti; imparatorlukların çöküşünün yağlı fişe…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İmparatorlukların çöküşünün yağlı fişek meselesi olmadığını, böyle sonuçların yeterli nedenlerin birikmesinden…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Disraeli hoşnutsuzluğun kaynaklarını üç başlıkta topladı: yerli otoritenin zorla yıkılması, mülkiyet düzeninin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Hindistan gelirinin genişlemeye elverişli olmadığını, dolayısıyla geliri artırmanın tek yolunun toprakları art…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Doğal mirasçı bırakmadan ölen racanın, ölümünden önce usulüne göre evlat edindiği, İngiliz mukimine bildirilen…" — programatik olarak ölçülemedi (ad karşılığı yok): İngiliz, Şirket
+- [ATOMSUZ] k1 → "Doğal mirasçı bırakmadan ölen racanın, usulüne göre evlat edindiği ve İngiliz mukimine bildirdiği vârisi tanın…" — programatik olarak ölçülemedi (ad karşılığı yok): İngiliz, Şirket
 - [OK]      k1 → "Disraeli'nin itirazı hukuki olmaktan çok toplumsaldı: evlat edinme Hindistan'da yalnızca bir medeni hak değil …"
 - [ATOMSUZ] k1 → "Disraeli ilhakın herhangi bir antlaşma ihlaline dayandırılmadığını, böyle bir ihlalin bir an bile öne sürülmed…" — programatik olarak ölçülemedi (ad karşılığı yok): Avadh, Müslüman
-- [OK]      k1 → "Disraeli'ye göre sonuç, o güne dek ayrı duran Müslüman ve Hindu prenslerin ilk kez ortak bir çıkar görmesiydi …" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Disraeli'ye göre sonuç, o güne dek ayrı duran Müslüman ve Hindu prenslerin ortak bir çıkar görmesiydi — ilhak,…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Disraeli, Bengal ordusunun büyük bölümünün Avadh tebaası olduğunu, güvenilir bir kaynaktan Hint ordularında ve…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bu askerler için ilhak, terhis olunca döndükleri köyde başvuracakları hükümdarın ve İngiliz mukimine itiraz ha…" — programatik olarak ölçülemedi (ad karşılığı yok): İngiliz
+- [ATOMSUZ] k1 → "Bu askerler için ilhak, terhis olunca döndükleri köyde başvuracakları hükümdarın ortadan kalkması demekti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Bu anlatının kaynağı tarafsız değildir: Disraeli o gün hükümeti sıkıştıran muhalefetin lideriydi ve önergesi b…"
-- [ATOMSUZ] k9 → "Sonraki literatür de tek bir güdü aramaz; hoşnutsuzluğun İngiliz tarzı toplumsal reformlardan, ağır toprak ver…" — programatik olarak ölçülemedi (ad karşılığı yok): İngiliz
-- [OK]      k9 → "Bengal, Bombay ve Madras başkanlıklarının Şirket denetimindeki geri kalanı büyük ölçüde sakin kaldı; Pencap'ta…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k9 → "Sonraki literatür de tek bir güdü aramaz; hoşnutsuzluğun İngiliz tarzı reformlardan, ağır toprak vergilerinden…" — programatik olarak ölçülemedi (ad karşılığı yok): İngiliz
+- [OK]      k12 → "Bombay ve Madras'ın yerli orduları sadık kaldı; Pencap'ın savaşçı halkları isyancıların yanına geçmek için seb…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Katılmayan devletler Genel Vali Canning'in deyişiyle fırtınada dalgakıran işlevi gördü." — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k9 → "Pek çok Hintli İngilizlere karşı ayaklandı, pek çoğu İngilizler için savaştı, çoğunluk ise görünürde uyumlu ka…" — programatik olarak ölçülemedi (ad karşılığı yok): Hintli, İngilizlere, İngilizler
 - [ATOMSUZ] k9 → "İsyancı önderler yeni bir siyasal düzenin habercisi olacak bir ilkeler bildirisi ilan etmediler; buna karşılık…" — programatik olarak ölçülemedi (ad karşılığı yok): Avadh, İngiliz
-- [OK]      k9 → "Takviyelerle Kanpur Temmuz 1857'nin ortasında, Delhi Eylül sonunda geri alındı; ama Jhansi'de, Lucknow'da ve ö…" — 6 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k9 → "Şiddet iki taraflıydı ve yer yer olağanüstü bir zalimlik taşıdı: isyancılar kadın ve çocuklar dahil İngiliz su…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k12 → "Aynı 1911 maddesi ise tereddüt etmez: Savarkar'ın kitabından iki yıl sonra, ayaklanmanın hiçbir anlamda ulusal…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k12 → "Havelock 16 Temmuz 1857'de Kanpur'u geri aldı, Delhi 14 Eylül'de başlayan hücumla düştü, Lucknow ancak 16 Mart…" — 5 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k9 → "Ansiklopedik özet aynı Gwalior yenilgisini 20 Haziran'a koyar." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k9 → "Şiddet iki taraflıydı ve yer yer olağanüstü bir zalimlik taşıdı: isyancılar kadın ve çocuklar dahil İngiliz su…" — programatik olarak ölçülemedi (ad karşılığı yok): İngiliz
 - [OK]      k8 → "Kanpur'daki katliamlar, 1990'da Past and Present'ta çıkan ayrı bir incelemenin konusu oldu."
-- [OK]      k3 → "Canning'in 1858 baharında Avadh için çıkardığı bildiri, Avam Kamarası'nda okunan hâliyle, metinde önceden sayı…" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k3 → "Canning'in 1858 baharında Avadh için çıkardığı bildiri, metinde önceden sayılan istisnalar dışında eyalet topr…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k3 → "Toplu cezalandırma nitelemesi tutanağa savunanların ağzından, reddetmek için özetledikleri bir okuma olarak ge…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Denetim Kurulu'nun yeni başkanı Lord Ellenborough, Canning'in işaret ettiği politikayı her anlamda onaylamadığ…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Denetim Kurulu'nun yeni başkanı Lord Ellenborough, Canning'in politikasını her anlamda onaylamadığını bildiren…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k3 → "Cardwell'in 14 Mayıs 1858'de verdiği önerge dikkatle sınırlanmıştı: Meclis'in eldeki bilgiyle bildirinin isabe…" — 1 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k2 → "12 Şubat 1858'de Palmerston, Hindistan yönetimini Şirket'ten Taç'a devredecek tasarıyı sunarken teklifini Şirk…" — 3 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k2 → "İdari yetkilerin bakanlık sorumluluğuyla birlikte yürümesi gerekirken Hindistan yönetimi Parlamento'ya karşı s…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k2 → "İdari yetkilerin bakanlık sorumluluğuyla birlikte yürümesi gerekirken Hindistan yönetimi Parlamento'ya karşı s…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k2 → "Palmerston, Hindistan huzursuzken ve isyandan tümüyle kurtulunmamışken yönetim düzeninin değiştirilmemesi itir…"
-- [OK]      k2 → "Aynı oturumda konuşan bir başka üye ise tersini savundu: 1853'te Şirket'in tasfiyesi ileri bir tarihe bırakılm…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k2 → "Aynı oturumda konuşan bir başka üye ise tersini savundu: ülkede bir ayaklanma patlak verdiğine ve yürütmenin e…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "O oturumda yapılan yalnızca tasarıyı sunma izninin istenmesiydi; oturum, tartışma ertelenerek kapandı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k9 → "Şirket'i tasfiye eden metin sonunda 1858 tarihli Hindistan'ın Yönetimi Yasası oldu; Şirket'in tasfiyesiyle bir…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k11 → "Şirket'i tasfiye eden metin 2 Ağustos 1858'de kraliyet onayını aldı ve otuz gün sonra yürürlüğe girdi." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k11 → "Yasanın birinci maddesi Şirket'in elindeki toprakların yönetimini ve Taç adına kullandığı bütün yetkileri onda…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k11 → "Devir kayıtsız değildir: elli beşinci madde Hindistan gelirlerinin sınır ötesinde yürütülen bir askerî harekât…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k11 → "Yasa metni burada, onu yeniden basan bir belge derlemesinin taranmış nüshasından okunmuştur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k4 → "Kraliçe Viktorya adına 1 Kasım 1858'de yayımlanan bildiri, devrin resmî dilini de belgeler: metin olan biteni …" — 1 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k4 → "Canning Taç adına ilk Kral Naibi ve Genel Vali olarak atanır; prenslerle Şirket adına yapılmış bütün antlaşmal…" — programatik olarak ölçülemedi (ad karşılığı yok): Taç, Kral, Naibi, Genel
 - [ATOMSUZ] k4 → "Metin din özgürlüğü güvencesini kayıtsız yazar ve yetkililere inanca karışmama emri verir; buna karşılık devle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k4 → "Af da geneldir ama istisnalıdır: İngiliz tebaasının öldürülmesine doğrudan katıldığı hükme bağlananlar dışarıd…" — programatik olarak ölçülemedi (ad karşılığı yok): İngiliz, Ocak
-- [OK]      k9 → "Oysa o gün yapılan şey cinayete karışmamış isyancılara af ilan etmekti; İngiliz yönetimi çatışmaların resmen s…" — 1 atom doğrulandı; 2 ad ölçülemedi
-- [OK]      k9 → "Ayaklanmanın erken tarihçilerinden Charles Ball başlığında mutiny sözcüğünü kullandı, ama metinde olayı bir ha…"
+- [ATOMSUZ] k4 → "Oysa o gün yapılan şey cinayete karışmamış isyancılara af ilan etmekti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "İngiliz yönetimi çatışmaların resmen sona erdiğini ancak 8 Temmuz 1859'da açıkladı." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k10 → "Ayaklanmanın erken tarihçilerinden Charles Ball başlığında mutiny sözcüğünü kullandı; ama metninde, yabancı bo…"
+- [ATOMSUZ] k9 → "Ball'ün cümlesi olayı özgürlük mücadelesi saymaz; öyle olmaktan çıktığını söyler — bu koşul, cümleyi özetleyen…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k6 → "John William Kaye'in 1870'te basılan çalışmasının başlığında ise ne isyan ne başkaldırı geçer: A History of th…"
-- [OK]      k6 → "Kaye aynı önsözde olayı Hint başkaldırısı diye de anar; kendi baskın kuramını ise tek cümleye indirir: “Becaus…"
-- [ATOMSUZ] k6 → "Kaye elindeki malzemenin çoğunun resmî belgelerden değil özel yazışmalardan geldiğini, bir önceki kitabında ya…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Kaye aynı önsözde olayı Hint başkaldırısı diye de anar; kendi baskın kuramını iki yönlü tek cümleye indirir: “…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k6 → "Kaye elindeki malzemenin çoğunun resmî belgelerden değil özel yazışmalardan geldiğini, kaynak göstermekten bu …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k5 → "1909'da Londra'da yayımlanan bir kitabın kapağında yazar adı yoktur; yerinde yalnızca bir Hint milliyetçisi ni…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k9 → "Kitabın Vinayak Damodar Savarkar'a ait olduğu, cildin kendi dışından bilinir."
+- [OK]      k13 → "Kitabın Vinayak Damodar Savarkar'a ait olduğu cildin kendi dışından bilinir: nüshayı dijitalleştiren üniversit…"
 - [OK]      k5 → "Kaynakça listesinde iki başlık yan yana durur: Kaye'in adına kayıtlı üç ciltlik A History of the Sepoy War in …"
 - [OK]      k5 → "Yazar girişte, tarihçi tutumuyla baktığında 1857 isyanının içinde “the brilliance of a War of Independence” gö…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k5 → "Savarkar, dayandığı otoritelerin neredeyse tamamının İngiliz yazarlar olduğunu, onların karşı tarafın hikâyesi…" — programatik olarak ölçülemedi (ad karşılığı yok): İngiliz
@@ -55,7 +66,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T20:09:09.408Z_
 - [ATOMSUZ] k9 → "İki rakam da aynı ansiklopedik kaydın aynı çalışmadan aktardığı tahminlerdir; birbirini doğrulayan iki ayrı öl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k7 → "Kim A. Wagner'in History Compass dergisinde 2011'de yayımlanan derlemesi, kaydın tek cümlelik özetine göre önc…"
 - [OK]      k8 → "Rudrangshu Mukherjee'nin 1990'da Past and Present'ta çıkan Kanpur incelemesi ise olayı 1857 başkaldırısı diye …"
-- [ATOMSUZ] k9 → "Kraliçe'nin bildirisinin verdiği sözler, sonraki on yıllarda karşılığı her zaman gelmeyince yeni bir milliyetç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Kraliçe'nin bildirisinin verdiği sözler, hepsi tutulmayınca yeni bir milliyetçiliğin ısrarla andığı bir dayana…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Vernon Smith'in 1857'de neyin yol açtığını şimdiden bildirmenin imkânsız olduğunu söylemesi o gün bir kaçamak …"
 
-**Özet:** 37 OK · 0 ISARET · 0 HATA · 19 ATOMSUZ
+**Özet:** 43 OK · 0 ISARET · 0 HATA · 24 ATOMSUZ

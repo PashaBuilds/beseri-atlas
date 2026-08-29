@@ -1,0 +1,55 @@
+## olay-morant-bay-ayaklanmasi
+_Geçiş 2 — kaynak denetimi · 2026-08-29T21:03:57.155Z_
+
+- [ATOMSUZ] k1 → "Taşlar atıldı, ayaklanma yasası okunduğu için ateş emri verildi, kalabalık binayı ateşe verdi; gün bittiğinde …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Taşlar atıldı, ayaklanma yasası okunduğu için ateş emri verildi, kalabalık binayı ateşe verdi; gün bittiğinde …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kalabalığın elebaşı, kasabanın yaklaşık altı mil kuzeybatısındaki Stony Gut'ta vaizlik yapan Baptist diyakoz P…"
+- [OK]      k6 → "Kalabalığın elebaşı, kasabanın yaklaşık altı mil kuzeybatısındaki Stony Gut'ta vaizlik yapan Baptist diyakoz P…"
+- [OK]      k2 → "Mill'in kendi ifadesiyle sorulan şey, sömürgelerin ve belki nihayetinde Britanya'nın kendisinin "hukukun mu yo…"
+- [ATOMSUZ] k2 → "İki yılı aşan hukuk mücadelesi bu soruya lehte bir cevap aldı ama hiçbir sanığı jüri önüne çıkaramadı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "İki yılı aşan hukuk mücadelesi bu soruya lehte bir cevap aldı ama hiçbir sanığı jüri önüne çıkaramadı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Nisan 1865'te St. Ann's bölgesinden yoksul halkın imzaladığı bir dilekçe Kraliçe'ye gönderildi; toprak isteyen…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Vali Eyre bu cevabı hemen Kraliçe'nin Öğüdü başlıklı bir duvar ilanı olarak bastırıp adaya dağıttı." — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k6 → "Bogle'ın oy verme hakkı vardı ama bu, onu St. Thomas bölgesindeki topu topu yüz dört seçmenden biri yapıyordu."
+- [OK]      k7 → "Bogle'ın siyasi dayanağı olan George William Gordon, köle bir annenin ve bir plantasyon vekilinin oğluydu, ken…"
+- [OK]      k1 → "Bogle'ın siyasi dayanağı olan George William Gordon, köle bir annenin ve bir plantasyon vekilinin oğluydu, ken…"
+- [ATOMSUZ] k4 → "Aynı grubun ertesi gün, çarşamba, bölge kuruluna geleceği haberi ulaşınca bölge amiri gönüllüleri silah altına…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Sıkıyönetim 13 Kasım 1865'e kadar yürürlükte kaldı." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Ayaklanma ise dört günde sönmüştü: adanın doğu ucunda dolaşan kalabalık 15 Ekim 1865'te dağıldı ve Buxton'ın K…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Kraliyet Komisyonu'nun dökümünü Avam Kamarası'nda okuyan Mill'e göre 439 kişi öldürüldü — silahlı direniş sıra…" — 4 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k4 → "Underhill bu 439 sayısını ikiye ayırır: 354'ü askerî mahkeme kararıyla, 85'i hiçbir yargılama olmadan; ve 147 …" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Avam Kamarası'nda önergeyi veren Charles Buxton toplamı idam ve kırbaç birlikte 1.100'e yakın kişi olarak verd…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Jamaika devletinin bugünkü resmî kaydı ise ölü sayısını 500'e yakın diye yazar."
+- [OK]      k1 → "Bastırmanın üzerinde yürüdüğü anlatı valinin kendi yazısında duruyor: Eyre 20 Ekim tarihli resmî yazısında dil…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Bastırmanın üzerinde yürüdüğü anlatı valinin kendi yazısında duruyor: Eyre 20 Ekim tarihli resmî yazısında dil…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Nelson, bir kadın hakkında merhamet tavsiyesiyle birlikte gelen idam kararını, kendisine sözlü olarak aktarıla…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Gordon sıkıyönetimin geçerli olmadığı Kingston'da tutuklandı, sıkıyönetim bölgesi olan Morant Bay'e götürüldü …" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k7 → "Gordon 23 Ekim 1865'te idam edildi; Jamaika devletinin resmî kaydı yargılamayı "illegally tried by Court Marti…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Bogle ertesi gün, 24 Ekim 1865'te yakalanıp asıldı." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Buxton'ın Avam Kamarası'na okuduğu sonuç paragrafı cezaların aşırı, idamın gereksiz sıklıkta, kırbaçlamaların …" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Aynı rapor, beyazların topluca katledilmesini amaçlayan geniş bir komplo bulunduğu iddiasını da reddediyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Ama aynı rapor Eyre'in gösterdiği hızın ve gücün adayı kurtardığını da kaydetmişti; Hume'un savunma kitabı ith…"
+- [OK]      k1 → "Komisyon üyelerinden Russell Gurney, Avam Kamarası'nda hem Gordon'ın mahkûm edildiği delilin kesinlikle yeters…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Mill derneğe adını duyar duymaz yazdırdı; başkan Charles Buxton kovuşturmayı haksız değil ama uygunsuz bulup ç…"
+- [OK]      k5 → "Karşı tarafta, Eyre'in özel kişilerce kovuşturulacağı duyulur duyulmaz Eyre Defence and Aid Fund kuruldu; Will…"
+- [ATOMSUZ] k1 → "Cezaların aşırılığını esefle karşılayan birincisi kabul edildi; sorumluların kovuşturulmasını, zararın tazmini…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Aynı oturumda Baillie Cochrane adadaki 500.000 siyah ile 15.000 beyazın oranını hatırlatıp Eyre en sert tedbir…"
+- [OK]      k4 → "6 Şubat 1867'de Bow Street'te Tuğgeneral Nelson ile Teğmen Brand hakkında tutuklama emri başvurusunu Komite ad…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "1868'de Eyre için hazırlanan iddianame Yargıç Blackburn'ün büyük jüriye hitabından sonra reddedildi; tutanağın…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Mill kendi özetinde hangi iddianameyi kastettiğini adlandırmaz; anlattığı halka Bow Street'ten çıkandır: Cockb…"
+- [OK]      k8 → "Kitap, kendini korumadan başka amaçlarla başvurulan zorlamanın en önemli üç örneğini — dini kurup sürdürmek, a…"
+- [OK]      k4 → "Kitap, kendini korumadan başka amaçlarla başvurulan zorlamanın en önemli üç örneğini — dini kurup sürdürmek, a…"
+- [OK]      k4 → "Sıkıyönetim daha altı gün sürecekken, 7 Kasım 1865'te toplanan yasama meclisine Eyre kendi anayasalarını kaldı…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Meclisi tek bir odaya indiren ve altmış dört üyeyi yarısı Kraliyet atamalı yirmi dörde düşüren tasarı 9 Kasım'…" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k1 → "Birincisi, olayı kendiliğinden patlamış bir "yerli isyanı" saymak: Bogle'ın hareketi mahkeme kararlarına, topr…"
+- [OK]      k4 → "Birincisi, olayı kendiliğinden patlamış bir "yerli isyanı" saymak: Bogle'ın hareketi mahkeme kararlarına, topr…"
+- [ATOMSUZ] k1 → "İkincisi, bunu bir kahramanlık destanına çevirmek: mahkeme binasında bölge amiri, bir din adamı, siviller ve g…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "İkincisi, bunu bir kahramanlık destanına çevirmek: mahkeme binasında bölge amiri, bir din adamı, siviller ve g…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Underhill'in anlatısı, 1865 mitinglerini tetikleyen mektubu yazan kişinin anlatısıdır; Hume'un kitabı savunma …"
+- [OK]      k5 → "Underhill'in anlatısı, 1865 mitinglerini tetikleyen mektubu yazan kişinin anlatısıdır; Hume'un kitabı savunma …"
+- [OK]      k3 → "Underhill'in anlatısı, 1865 mitinglerini tetikleyen mektubu yazan kişinin anlatısıdır; Hume'un kitabı savunma …"
+- [OK]      k6 → "Jamaika'da Bogle ile Gordon 1969'da ulusal kahraman ilan edildi."
+- [OK]      k7 → "Jamaika'da Bogle ile Gordon 1969'da ulusal kahraman ilan edildi."
+- [OK]      k2 → "Britanya'da davanın sonucu bir yenilgiydi; ama Mill'in kendi değerlendirmesine göre kazanılan şey, bundan sonr…"
+
+**Özet:** 40 OK · 0 ISARET · 0 HATA · 10 ATOMSUZ

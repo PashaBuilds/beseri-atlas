@@ -111,19 +111,21 @@ Reddin bedeli, gerçekliği betimlemeyen bir kavram takımı kurmaktır. Weber'i
 bilinçli bir kurgudur: eylem tümüyle akılcı yürüseydi alacağı seyri çizer ve
 gerçek davranışın bu çizgiden ne kadar saptığını ölçmeye yarar; sapmanın
 hesabı da duygular ve yanılgılar gibi akıl dışı etkenlerin nedensel
-ağırlığını görünür kılar.[^k1] Weber'in kendi uyarısı burada belirleyicidir: böyle
-kurulmuş saf tiplerden birine tıpatıp uyan gerçek bir olguya rastlamak pek
-seyrek, belki de hiç mümkün değildir.[^k1]
+ağırlığını görünür kılar.[^k1] Weber'in kendi uyarısı burada belirleyicidir:
+tam da bu yüzden, böyle kurulmuş saf tiplerden birine tıpatıp uyan gerçek bir
+olguya rastlanması büyük olasılıkla pek seyrektir, belki de hiç mümkün
+değildir.[^k1]
 
 ## Anlamanın sınırı da yöntemin parçasıdır
 
 Weber anlamayı ikiye ayırır. Bir kapı kolunu çeviren ya da bir hayvana nişan
 alan insanı doğrudan gözleyerek anlarız; buna karşılık birinin ikiyle ikinin
-dört ettiğini tam o anda yazmasını, defter kapattığını ya da bir kanıtlama
-yürüttüğünü bildiğimizde anlarız — ikincisi, edimi daha geniş ve anlaşılabilir
-bir bağlama yerleştiren güdü açıklamasıdır.[^k1] Yöntemin sınırını da
-saklamaz: anlamlı eylem ile hiçbir öznel anlam yüklenmemiş salt tepkisel
-davranış arasındaki çizgi ampirik olarak keskin biçimde çizilemez ve
+dört ettiğini tam o anda söylemesini ya da yazmasını, bir defteri
+denkleştirdiğini ya da bilimsel bir kanıtlama yürüttüğünü bildiğimizde
+anlarız — ikincisi, edimi daha geniş ve anlaşılabilir bir bağlama yerleştiren
+güdü açıklamasıdır.[^k1] Yöntemin sınırını da saklamaz: anlamlı eylem ile
+hiçbir öznel anlam yüklenmemiş salt tepkisel davranış arasındaki çizgi
+ampirik olarak keskin biçimde çizilemez ve
 toplumbilimi ilgilendiren davranışın hatırı sayılır bir bölümü, özellikle
 geleneksel davranış, tam da bu iki alanın sınırında durur.[^k1]
 
@@ -156,10 +158,11 @@ açıklamayı olasılık kaydıyla verir.[^k9]
 ## Kapitalizmin ruhu açgözlülük değildir
 
 *Protestan Ahlakı*'nın çözmeye çalıştığı bilmece, sanıldığı gibi insanların
-neden zengin olmak istediği değildir. Weber tersini söyler: kazanma
-içgüdüsünün eski çağlarda bilinmediği ya da gelişmemiş olduğu doğru değildir;
-altın açlığı (*auri sacra fames*) burjuva kapitalizminin dışında da en az
-onun içindeki kadar güçlüdür ve Çinli bir mandarinin, eski bir Romalı
+neden zengin olmak istediği değildir. Weber tersini söyler: kapitalizm öncesi
+tutumun nedeni, sık söylendiği gibi, kazanma içgüdüsünün o çağlarda
+bilinmemesi ya da gelişmemiş olması değildir — hiç değilse bütünüyle bu
+değildir; altın açlığı (*auri sacra fames*) burjuva kapitalizminin dışında da
+en az onun içindeki kadar güçlüdür ve Çinli bir mandarinin, eski bir Romalı
 soylunun ya da modern bir köylünün açgözlülüğü her karşılaştırmayı kaldırır —
 kapitalist ile kapitalizm öncesi ruh arasındaki fark bu noktada
 aranmamalıdır.[^k2]
@@ -176,9 +179,10 @@ hesabını.[^k2]
 
 ## Kurtuluş kaygısından iş disiplinine
 
-Savın motoru bir teoloji sorunudur. Kaderin önceden belirlenmişliği öğretisinin
-tutulduğu her yerde, insanın seçilmişler arasında sayılıp sayılmadığını
-gösterecek şaşmaz ölçütlerin bulunup bulunmadığı sorusu bastırılamaz hâle
+Savın motoru bir teoloji sorunudur. Weber'in kurduğu zincir şudur: kaderin
+önceden belirlenmişliği öğretisinin tutulduğu her yerde, insanın seçilmişler
+arasında sayılıp sayılmadığını gösterecek şaşmaz ölçütlerin bulunup
+bulunmadığı sorusu bastırılamaz hâle
 geliyordu; sıradan mümin için lütuf hâlinin tanınabilirliği anlamında kurtuluş
 güvencesi (*certitudo salutis*) belirleyici önem kazanıyordu.[^k3] Cevap
 dünyevi çalışmada bulundu: dinsel kuşkuları dağıtıp lütuf kesinliğini veren en
@@ -194,12 +198,12 @@ pratik tutumu hem eserlerinin gördüğü yaygın kabul yüzünden Richard Baxte
 koyar.[^k4] Püriten yazında zenginlik kendi başına büyük bir tehlikedir;
 ayartıları bitmez ve peşine düşülmesi ahlaken kuşkuludur.[^k4] Sonuç servetin
 yasaklanması değil, harcamanın kısılıp emeğin yöntemli bir ödeve
-dönüşmesidir — [sekülerleşme](/kavram/sekulerlesme/) tartışmasının en çok
-alıntılanan mekanizması budur.
+dönüşmesidir — [sekülerleşme](/kavram/sekulerlesme/) tartışmasının
+çekirdeğine yerleşen mekanizma budur.
 
 ## Demir kafes kimin sözcüğüdür
 
-Kitabın kapanışı, en çok anılan ve en çok çarpıtılan yeridir. Weber, Baxter'ın
+Kitabın kapanışı, sık anılan ve sık çarpıtılan bir yerdir. Weber, Baxter'ın
 dünyevi mallara duyulan kaygıyı her an omuzdan atılabilecek hafif bir pelerine
 benzetmesini anar, sonra kaderin başka türlü hükmettiğini yazar: Talcott
 Parsons'ın çevirisinde pelerinin dönüştüğü şey bir “demir kafes”tir.[^k4]
@@ -210,7 +214,7 @@ bir yükü taşımak zorunda olmadığını hemen ekler.[^k4]
 
 Sorun şu ki demir kafes Weber'in sözcüğü değildir. Almanca metinde geçen ifade
 *stahlhartes Gehäuse*'dir; Peter Baehr, Parsons'ın kanonik çevirisinin
-statüsünü, imgenin olası kaynağını — Bunyan'ın *Çilekeşin Yolculuğu* — ve
+statüsünü, imgenin olası kaynağını — Bunyan'ın *Pilgrim's Progress*'i — ve
 Weber'in çelik sertliğinde kabuk ile uyandırmak istediği daha karmaşık fikri
 ayrı ayrı inceler.[^k6] Fark maddidir: kafes insanı kapatır ama güçlerini
 olduğu gibi bırakır; kabuk ise bürokratik kapitalizmin insan öznesini yeniden
@@ -233,7 +237,9 @@ norm olarak kabul edilmesi gerekir; itaatin gerekçesi salt güç tehdidi ya da
 çıkar vaadi değil, yöneticinin otorite iddiasıdır.[^k5] Bu ayrım
 [meşruiyet](/kavram/mesruiyet/) kavramının bugünkü kullanımının çekirdeğidir.
 
-Otoriteye dayalı ilişkileri üçlü bir sınıflandırmaya göre kümeler.[^k9]
+Otoriteye dayalı bütün ilişkileri üçlü bir sınıflandırmaya göre kümeler;
+ikinci kaynak aynı şemayı karizmaya, geleneğe ve yasal akılcılığa dayanan üç
+meşru egemenlik ideal tipi diye verir.[^k5][^k9]
 Karizmatik otorite gücünü kişinin olağanüstü niteliklerinden alır; kararsızdır,
 çünkü kurumsallaşmaya direnir ve liderin başarısına bağlıdır, zamanla daha
 yapılı biçimlere rutinleşmek zorunda kalır.[^k9] Geleneksel otorite önceden
@@ -243,15 +249,32 @@ gibi görmesiyle tanımlanan bir alt türüdür.[^k9] Akılcı-yasal otorite ise
 bürokrasiye ve kuralların yasallığına duyulan inanca yaslanır; ötekilerden
 farklı olarak yavaş yavaş gelişmiştir ve modernlikte baskın tiptir.[^k9]
 
+Bu üçüncü tipin gövdesi bürokrasidir ve Weber'in toplumun bürokratikleşmesi
+üzerine yazdıkları eserinin en öne çıkan bölümlerinden biri sayılır: ona göre
+bürokrasi toplumsal örgütlenmenin en verimli yöntemi ve biçimsel bakımdan en
+akılcı düzenidir, modern toplumun işlemesi için gereklidir ve yıkılması
+güçtür.[^k9] Bürokratik görevliler bürokrat olmayanlara karşı üstünlük duyar,
+güçlü bir ödev duygusu taşır ve sabit maaşları onları para kazanma peşinde
+koşmaktan alıkoyar; açıkça keyfî karar veremez, kararlarını kişisel iltimasa
+dayandıramazlar — bu kişisizlik hem verimliliğin kaynağı hem kapitalizme
+uygunluğun nedenidir ve Weber bürokrasiyi yalnız modern kapitalizmin değil
+modern sosyalizmin de varlık koşulu sayar.[^k9] İkincil kaynağın çerçevesinde
+aynı düzenek öngörülebilirlik üretir: hukuki biçimcilik ile bürokratik yönetim,
+yurttaşlığın biçimsel eşitliğini, kurallara bağlı bir yasamayı, özerk bir
+yargıyı ve siyasetten arındırılmış bir meslek bürokrasisini getirerek sanayi
+kapitalizminin muhtaç olduğu hesaplanabilirliği kurar.[^k5]
+
 ## İtirazlar: veri, yöntem, siyaset
 
-Tezin ampirik çekirdeği doğrudan sınandı. İktisatçılar Sascha O. Becker ve
-Ludger Woessmann, 2009'da *Quarterly Journal of Economics*'te yayımladıkları
-çalışmaya "Weber yanılıyor muydu?" sorusunu başlık yaptılar ve Protestan
-iktisadi tarihi için beşerî sermayeye dayanan bir kuram önerdiler.[^k8]
-Değerden bağımsızlık ilkesi de hedef oldu: Alvin Gouldner 1962'de *Social
-Problems* dergisindeki yazısına *Değerden Bağımsız Toplumbilim Miti* başlığını
-koydu.[^k7] Weber'in kendi konumu ise sanıldığı kadar rahat değildir; onda
+Tezin ampirik çekirdeği iktisat tarihinin sınamasına açıldı. Sascha O. Becker
+ve Ludger Woessmann, 2009'da *Quarterly Journal of Economics*'te
+yayımladıkları çalışmanın başlığını "Weber yanılıyor muydu?" sorusuyla açtılar;
+başlığın ikinci yarısı Protestan iktisadi tarihi için beşerî sermayeye dayanan
+bir kuram duyurur — burada elde künye kaydından fazlası yoktur, aktarılan
+makalenin bulgusu değil başlığın kendisidir.[^k8]
+Değerden bağımsızlık ilkesi de hedef oldu: Alvin W. Gouldner 1962'de *Social
+Problems* dergisindeki yazısına *Anti-Minotaur: Değerden Bağımsız Toplumbilim
+Miti* başlığını koydu.[^k7] Weber'in kendi konumu ise sanıldığı kadar rahat değildir; onda
 nesnellik doğru yöntemle ulaşılabilecek bir hedef değil, nihai bir yerine
 gelme vaadi olmadan uğrunda çabalanması gereken bir ülküdür ve değerden
 bağımsızlık (*Wertfreiheit*) bir yöntem ilkesi olduğu kadar bilim insanından
@@ -259,13 +282,14 @@ beklenen bir erdemdir.[^k5]
 
 Siyasal miras daha sert tartışılır. Weber'in bugüne dek Bonapartçı sezarizmi,
 edilgen-devrimci Fordist ideolojiyi, yarı-faşist seçkinciliği, hatta
-proto-Nazizmi barındırdığı ya da haber verdiği ileri sürülmüştür; suçlamayı
-yöneltenler arasında Leo Strauss, Herbert Marcuse ve Wolfgang Mommsen sayılır
+proto-Nazizmi barındırdığı ya da haber verdiği ileri sürülmüştür; kaynağın andığı
+adlar arasında Leo Strauss, Marcuse ve Wolfgang Mommsen vardır
 ve gerekçe özellikle Weber'in sağlam milliyetçiliği ile güce yönelik nihilist
 övgüsüdür.[^k5] Bu siyasal itirazların yanında kuramsal bir boşluk da vardır:
 tipoloji demokrasiye kavramsal bir yer bulmakta zorlanır. Bir yerde demokrasi
 dördüncü bir meşruiyet tipi sayılır — üç ideal tipin hepsi meşruiyete
-yukarıdan bakarken demokrasi aşağıdan gelene alan açabildiği için; başka
+yukarıdan bakarken demokrasi aşağıdan gelene alan açabildiği için; kaynak bu
+okumayı kendi metnine değil Breuer'e dayandırır; başka
 yerlerde Weber demokrasiyi meşru bir egemenlik tipi değil, düpedüz
 meşru-olmayan sayar.[^k5]
 

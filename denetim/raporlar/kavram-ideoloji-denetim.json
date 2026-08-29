@@ -1,0 +1,153 @@
+{
+  "id": "kavram-ideoloji",
+  "gecis": 2,
+  "zaman": "2026-08-29T20:57:11.575Z",
+  "govde_hash": "1aa2c517258a",
+  "commit": "7ed5c28",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Antoine Destutt de Tracy 1796'da yeni bir bilime ad önerdi: idéologie, yani fikirler bilimi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı sözcük, Napoléon'un muhaliflerini ideolog diye adlandırıp damgalamasıyla bir hakarete dönüştü; Karl Mannheim'ın kavramın anlam kaymalarını yeniden kurgulay",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bugün ideoloji tek bir kavram değil, aynı adı taşıyan üç ayrı işlemdir: fikirlerin nasıl oluştuğunu araştıran bir bilim tasarısı; fikirleri sahiplerinin toplums",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kendi metninde konuyu asıl anlamıyla idéologie diye anar, fikirler biliminin yalnızca fikirlerin ifadesine ve çıkarımına ilişkin bölümüyle yetinmek zorunda kald",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak, tasarının bir siyasal programa da bağlı olduğunu kaydeder: bireysel özgürlüğü, mülkiyeti, serbest piyasaları ve devlet gücüne anayasal sınırlar konmasın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sözcüğün en genel terim sayılmasının nedeni de budur — fikirler bilimi, fikirlerin ifadesini ve çıkarımını da içine alır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sözcüğün ikinci hayatı, 1845'te yazılan ama tamamı ancak 1932'de basılan Alman İdeolojisi elyazmasında başlar.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sözcüğün ikinci hayatı, 1845'te yazılan ama tamamı ancak 1932'de basılan Alman İdeolojisi elyazmasında başlar.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Marx ve Engels'in kurduğu benzetme dikkatle okunmayı ister: ideolojide insanlar ve ilişkileri, bir camera obscura'daki gibi baş aşağı görünür; bu görünüm, nesne",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İkinci adım toplumsal konumu işin içine katar: her çağda egemen fikirler egemen sınıfın fikirleridir, çünkü maddi üretim araçlarını elinde tutan sınıf aynı anda",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bugün Marx'a mal edilen yanlış bilinç formülü, elyazmasında değil, Engels'in Marx'ın ölümünden on yıl sonra, 14 Temmuz 1893'te Franz Mehring'e yazdığı mektupta ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Engels orada ideolojiyi, düşünürün bilinçli olarak ama yanlış bir bilinçle yürüttüğü bir süreç diye tanımlar: kendisini iten gerçek nedenler ona kapalı kalır, k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mektubun tarihi kavramın kendi tarihi açısından da anlamlıdır: formül, dayandırıldığı elyazması basılmadan otuz dokuz yıl önce, bir yazışmada dile gelmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Mektubun tarihi kavramın kendi tarihi açısından da anlamlıdır: formül, dayandırıldığı elyazması basılmadan otuz dokuz yıl önce, bir yazışmada dile gelmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mannheim, Marksist geleneğin tikel ve bütünsel ideoloji anlayışından, Marksizmin kendisi de dahil her ideolojinin toplumsal hayattan doğduğunu kabul eden genel ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kavramı İngilizce okura tanıtan Ideology and Utopia (1936) tek bir kitabın çevirisi bile değildir.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "kısımları Ideologie und Utopie'yi karşılar, V. kısım Alfred Vierkandt'ın sosyoloji sözlüğü için yazılmış Wissenssoziologie maddesidir, I. kısım ise özellikle İn",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Eleştirel kuramcıların çoğu için ideoloji yalnızca yanlış bilinç değil, toplumsal pratiklere ve kimliklere gömülü bir şeydir; buna karşın işlemin kendisi aşırı ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Michel Foucault ile Bourdieu bunun yerine iktidar-bilgi ve simgesel iktidar kavramlarını koydu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yukarıdaki iki birincil metin de bunu desteklemez: biri ters görünmeyi bir yaşam sürecine bağlar, öteki kusuru kendi güdüsünü tanımamaya yerleştirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Yukarıdaki iki birincil metin de bunu desteklemez: biri ters görünmeyi bir yaşam sürecine bağlar, öteki kusuru kendi güdüsünü tanımamaya yerleştirir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Daniel Bell'in kitabı adını ve alt başlığını bu savdan alır — siyasal fikirlerin ellili yıllarda tükenmesi — ve açık erişimde bulunan nüsha 1962 baskısıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üçüncü katman, sözcüğün siyaset bilimindeki betimleyici kullanımıdır: orada ideoloji, siyasal inanç dizgelerini adlandıran bir terimdir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ama bu betimleyicilik kolay bozulur: van Dijk'in saptamasına göre sözcüğün gündelik kullanımı büyük ölçüde olumsuzdur ve tipik olarak başkalarının katı ya da ya",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

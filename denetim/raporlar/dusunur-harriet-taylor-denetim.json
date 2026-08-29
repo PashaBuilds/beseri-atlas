@@ -1,0 +1,177 @@
+{
+  "id": "dusunur-harriet-taylor",
+  "gecis": 2,
+  "zaman": "2026-08-29T21:04:49.357Z",
+  "govde_hash": "c98e1a806b85",
+  "commit": "92d1168",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "1868'de New York'ta çıkan The Revolution gazetesinin sattığı broşürlerin listesinde iki satır alt alta duruyordu: Enfranchisement of Women, yazarı Mrs. John Stu",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gazetenin editörleri Elizabeth Cady Stanton ile Parker Pillsbury, sahibi Susan B. Anthony'ydi; broşürün kapağında metnin Westminster and Foreign Quarterly Revie",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Amerikan oy hakkı hareketi, 1851 tarihli makaleyi on yedi yıl sonra bir kadının adıyla basıyor, kocasının metnini ayrı bir kalem sayıyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı makale, Mill'in adını taşıyan Dissertations and Discussions derlemesinin üçüncü cildine girdi; Mill oraya koyduğu notta metnin kendine özgü bir anlamda ona",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Konuyu tarayan Stanford maddesine göre, ağırlıklı olarak — hatta yalnızca — ona ait sayılabilecek anlamlı bir felsefi çalışma arandığında en güçlü aday o makale",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "John Taylor 1849'da öldü, Harriet 1851 baharında Mill ile evlendi ve 3 Kasım 1858'de, Mill'in Doğu Hindistan Şirketi'nden emekliliğinden kısa süre sonra çıktıkl",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Mill'in Otobiyografi'sindeki portre onu, kadınların toplumsal engelleri yüzünden en yüksek yetilerini dışarıdaki eylem alanında kullanmaktan alıkonmuş biri olar",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Talep oy pusulasıyla sınırlı değildir; erkek yurttaşlarla siyasal, medeni ve toplumsal bütün haklarda eşitliktir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sonra karşı tarafın kendi ilkeleriyle sınanması: genel oy hakkını doğal bir hak diye isteyip insan türünün yarısını dışarıda bırakan Çartist, metnin deyişiyle \"",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çartist"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Buradan çıkan sonuç yöntemseldir: yetenekler önceden değil, denemeyle bilinir, ve önceden konan sınır yalnızca haksızlık değil, yasakladığı niteliklerin hiç olu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir dipnot gerekçeyi ve sınırını birlikte yazar: emekçi nüfusun en yoksul kesiminde görülen ve gazeteleri de polis kayıtlarını da dolduran kadın dövme vakaları,",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Aynı kaynak karşı notu da düşer: Richard Krouse, makalenin kendi açtığı soruyu — evin ve çocukların bakımını kimin üstleneceğini — yanıtsız bıraktığını söyler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Derlemeye koyduğu notta Mill kendi payını editörlük ve kâtiplikle sınırlamıştı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Gertrude Himmelfarb ve M. Warnock bu kanıya katılmaz.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı bölüm hangi düşüncenin kime ait olduğunun ayrılamayacağını da söyler: iki kişi bütün konuları günlük hayatta birlikte tartışıyor ve aynı ilkelerden yola çı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Mill orada, yıllardır yazdığı her şey gibi bu kitabın da kendisine ait olduğu kadar ona ait olduğunu söyler — \"it belongs as much to her as to me\" — ama hemen a",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Mill kendi yayınlarının bibliyografyasında Ekonomi Politiğin İlkeleri için eşiyle ortak üretim ifadesini kullanır, ama Özgürlük Üzerine maddesinde Harriet Taylo",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İlkeler'e dair beyanı da iki okumaya birden açıktır: Mill, emekçi sınıfların muhtemel geleceğine ayrılmış bölümün ilk taslakta hiç bulunmadığını, gereğini onun ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Jo Ellen Jacobs bunu, bölümün esas olarak Harriet tarafından yazıldığının beyanı diye okur; aynı cümledeki yazmama sebep oldu ifadesi bu okumayı zorlaştırır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Christoph Schmidt-Petri, Michael Schefczyk ve Lilly Osburg soruya biçembilim yöntemleriyle sayısal bir cevap aradı ve Utilitas'ın 2022 tarihli otuz dördüncü cil",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Yöntemin sınırı ayrıca kaydedilmiştir: algoritmayı besleyen metinlerin kime ait olduğu konusunda uzlaşma yoktur ve çalışma, Principles of Political Economy'nin ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Stanford maddesinin kaydına göre, bilinebildiği kadarıyla onu şahsen tanıyan başka hiç kimse Mill'in kullandığı türden sözlerle anmadı; tanıdıklarının birkaçı o",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bain'in kendi hükmü daha serttir; Mill'in eşinin kişisel nitelikleri konusunda olağanüstü bir yanılsama içinde olduğunu ve onu eşsiz bir dehâ diye anlatmakla ma",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Reddin gerekçesi yine de baştan sona Harriet'in lehine değildir: Bain aynı yerde, Mill'in fikirlerinden ancak azının onun tarafından anlaşılır bir biçimde geri ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Ortada duran okumaya göre ise onun asıl katkısı, kendi yazdıklarının ötesinde, Mill'in dikkatini sosyalizme, kadın haklarına, bireysel özgürlüğe ve insanın iyil",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Biçembilim çalışması bile savını ön nitelikli sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Dördüncüsü, Bain'i çağının önyargısına indirgeyip atmak; aynı tanık, Mill'in eşini bir yankı odası olarak görmediğini de yazmıştır — o kaydın gerekçesi Harriet'",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Konuyu tarayan maddenin yazarı Dale E. Miller kendi hükmünü de kaydeder: eldeki kanıt kesin bir cevap için fazla seyrek ve fazla çelişkilidir, dolayısıyla Harri",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

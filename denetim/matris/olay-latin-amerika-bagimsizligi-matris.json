@@ -1,8 +1,8 @@
 {
   "id": "olay-latin-amerika-bagimsizligi",
-  "govde_hash": "802de104f567",
-  "commit": "5373c66",
-  "zaman": "2026-08-29",
+  "govde_hash": "0161a868db7e",
+  "commit": "92d1168",
+  "zaman": "2026-08-30",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
     {
@@ -35,7 +35,21 @@
     },
     {
       "iddia_id": "i003",
-      "cumle": "Boşluğun ilk yanıtı bağımsızlık değildi: bazı büyük kentler ve başkentler, İspanyol geleneğinin hukukuna dayanarak yerel yönetim kurulları kurdu; 1809'da Chuquisaca, La Paz ve Quito'daki kısa ömürlü juntalar Sevilla'daki Yüksek Merkez Junta'ya karşı çıktı, 1810 başında Merkez Junta Fransız işgali karşısında düşünce yeni juntalar Amerika'nın her yanında belirdi.",
+      "cumle": "Aynı kaynak tetikleyicinin önüne uzun bir bağlam zinciri koyar: denetimli bağımsızlık önerileri, idari ve iktisadi reformlar, askerî yeniden yapılandırma, Aydınlanma düşüncelerinin yayılması.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin 'Historical context' bolumunun kendi alt basliklaridir: Proposals for a controlled independence / Administrative and economic reforms / Military restructuring / Spread of Enlightenment ideals / Effects of the Napoleonic Wars. Kor hakem bu cumleyi tek nedenli anlatiyi kirmak icin ekledi."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Boşluğun ilk yanıtı bağımsızlık değildi: bazı büyük kentler İspanyol geleneğinin hukukuna dayanarak yerel yönetim kurulları kurdu; 1809'da Chuquisaca, La Paz ve Quito'daki kısa ömürlü juntalar Sevilla'daki Yüksek Merkez Junta'ya karşı çıktı, 1810 başında Merkez Junta Fransız işgali karşısında düşünce yeni juntalar Amerika'nın her yanında belirdi.",
       "onem": "destek",
       "tur": "tarih",
       "kaynaklar": [
@@ -48,7 +62,7 @@
       "inceleme": ""
     },
     {
-      "iddia_id": "i004",
+      "iddia_id": "i005",
       "cumle": "Cádiz Cortes'inin 19 Mart 1812'de ilan ettiği anayasa, ulusal temsilin dayanağının iki yarıkürede aynı olduğunu yazar.",
       "onem": "merkezi",
       "tur": "olgu",
@@ -62,8 +76,8 @@
       "inceleme": "Anayasanin 28. maddesi ulusal temsilin dayanaginin iki yarikurede ayni oldugunu yazar; 19 Mart 1812 tarihi baskinin baslik sayfasindadir."
     },
     {
-      "iddia_id": "i005",
-      "cumle": "Ne var ki metin, bu dayanağın kimlerden oluştuğunu hemen bir sonraki maddede sayar: temsil tabanı, her iki soy hattından İspanyol topraklarının yerlisi olanlar, Cortes'ten yurttaşlık belgesi almış olanlar ve yirmi birinci maddede anılanlarla — İspanyol topraklarında yerleşik yabancıların o topraklarda doğmuş, hiç izinsiz çıkmamış ve bir meslek icra eden meşru çocuklarıyla — sınırlıdır.",
+      "iddia_id": "i006",
+      "cumle": "Ne var ki metin, bu dayanağın kimlerden oluştuğunu hemen bir sonraki maddede sayar: temsil tabanı, her iki soy hattından İspanyol topraklarının yerlisi olanlar, Cortes'ten yurttaşlık belgesi almış olanlar ve İspanyol topraklarında yerleşik yabancıların orada doğmuş, hiç izinsiz çıkmamış ve bir meslek icra eden meşru çocuklarıyla sınırlıdır.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -76,7 +90,7 @@
       "inceleme": "29. madde UC kalem sayar; onceki surum ikisini yazip cumleyi '-dir' ile kapatarak tabani kaynaktakinden dar gosteriyordu (liste kirpmasi). Kor hakem ucuncu kalemi (art. 21: Ispanya'da yerlesik yabancilarin ulkede dogmus mesru cocuklari) geri koydu."
     },
     {
-      "iddia_id": "i006",
+      "iddia_id": "i007",
       "cumle": "Anayasa, herhangi bir hattan Afrika kökenli sayılan ve öyle bilinen İspanyollara yurttaşlığın kapısını erdem ve liyakat yoluyla açık bırakır; Cortes, vatana nitelikli hizmet edenlere ya da yeteneği, çalışkanlığı ve tutumuyla temayüz edenlere yurttaşlık belgesi verecektir.",
       "onem": "merkezi",
       "tur": "olgu",
@@ -90,8 +104,8 @@
       "inceleme": "22. madde: Afrika kokenli sayilan ve oyle bilinen Ispanyollara erdem ve liyakat kapisi acik birakilir."
     },
     {
-      "iddia_id": "i007",
-      "cumle": "Ama aynı madde koşulları da sayar: aday hür doğmuş anne babadan meşru evlilik içinde doğmuş olmalı, hür doğmuş bir kadınla evli olmalı, İspanyol topraklarında yerleşik bulunmalı ve bir meslek ya da sanat icra etmelidir.",
+      "iddia_id": "i008",
+      "cumle": "Ama aynı madde koşulları da sayar: aday hür doğmuş anne babadan meşru evlilik içinde doğmuş olmalı, hür doğmuş bir kadınla evli olmalı, İspanyol topraklarında yerleşik bulunmalı ve kendi sermayesiyle yararlı bir meslek, zanaat ya da iş icra etmelidir.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -101,10 +115,10 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "22. maddenin dort sinirlayicisi: 'hijos de legitimo matrimonio de padres ingenuos; de que esten casados con muger ingenua, y avecindados en los dominios de las Espanas, y de que exerzan alguna profesion'. 'Ingenuo' hur DOGMUS demektir (azatli degil); kor hakem 'hur' cevirisini 'hur dogmus'a duzeltti — azatli ile hur dogmus ayrimi bu paragrafin konusu acisindan belirleyicidir."
+      "inceleme": "22. maddenin dort sinirlayicisi: 'hijos de legitimo matrimonio de padres ingenuos; de que esten casados con muger ingenua, y avecindados en los dominios de las Espanas, y de que exerzan alguna profesion'. 'Ingenuo' hur DOGMUS demektir (azatli degil); kor hakem 'hur' cevirisini 'hur dogmus'a duzeltti — azatli ile hur dogmus ayrimi bu paragrafin konusu acisindan belirleyicidir. Kor hakem 2 (2026-08-30): art. 22'nin kosul listesi kirpilmisti. Kaynak 'de que exerzan alguna profesion, oficio, o industria util CON UN CAPITAL PROPIO' der; 'kendi sermayesiyle' kaydi dusurulmustu ve dusmesi paragrafin kendi savini (kosullar soyda ve statude olculur) zayiflatiyordu. Geri konuldu."
     },
     {
-      "iddia_id": "i008",
+      "iddia_id": "i009",
       "cumle": "Eşitlik ilan edilmiş, aynı sayfada dört koşula bağlanmıştır; ve koşulların hiçbiri yarımkürede değil, soyda ve statüde ölçülür.",
       "onem": "destek",
       "tur": "yorum",
@@ -118,7 +132,7 @@
       "inceleme": "Iki maddenin yan yana okunmasindan cikan degerlendirme. Kaynak 'yarimkure / soy ve statu' karsitligini bu sozcuklerle kurmaz; olgular dogrudan, cerceve bu dosyanindir."
     },
     {
-      "iddia_id": "i009",
+      "iddia_id": "i010",
       "cumle": "Yayıncı özeti Jaime E. Rodríguez'in kitabını, 1812 Anayasası'nın getirdiği temsilî yönetimi ve halk seçimlerini inceleyen ilk kitap diye tanıtır — niteleme yazarın değil yayıncının sözüdür.",
       "onem": "merkezi",
       "tur": "olgu",
@@ -132,7 +146,91 @@
       "inceleme": "Ozette birebir: 'It is the first book to examine the representative government and popular elections introduced by the Spanish Constitution of 1812.' Onceki surum bu ustunluk nitelemesini Rodriguez'in kendi beyani gibi veriyordu ('yazdigini soyler'); kaynak bunu yayinci ozeti olarak soyler. Kor hakem sesi duzeltti. Iddia kunyenin KENDISI hakkinda oldugu icin dogrudan kaldi."
     },
     {
-      "iddia_id": "i010",
+      "iddia_id": "i011",
+      "cumle": "Kitabın savı özette şöyle verilir: bağımsızlık, birçok araştırmacının ileri sürdüğünün aksine sömürgecilik karşıtı bir hareket oluşturmamış, daha geniş bir İspanyol siyasi devriminin parçasını meydana getirmiştir; Amerika'da bu devrime kimin yöneteceğine dair bir mücadele eşlik etmiştir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozet birebir: 'Rodriguez argues that independence did not constitute an anti-colonial movement, as many scholars assert, but rather formed part of the broader Spanish political revolution. In America, a struggle over who would govern accompanied this revolution.' Havuz kurali: crossref ustveri kaydi yazar/yil/baslik iddiasina dogrudan, makalenin bulgusuna en fazla OZET duzeyinde kismi destek verir. Ozet bulguyu birebir tasiyor ama kunye makalenin govdesi degildir; kor hakem destegi kismiye indirdi."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Kingston'dan 6 Eylül 1815'te yazdığı mektup Angostura'dan dört yıl öncedir; Amerikalıları \"ülkenin meşru sahipleri ile İspanyol gaspçılar arasında bir ara tür\" diye tanımlayan formül oradan gelir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Carta de Jamaica (Kingston, 6 Eylul 1815) bu turda kunyeye eklendi. Kaynak birebir: 'no somos indios ni europeos, sino una especie media entre los legitimos propietarios del pais y los usurpadores espanoles'. Govdedeki tirnakli aktarim bu cumlenin ikinci yarisidir. Ayni formul 1819'da Angostura'da yinelenir; dosya ikisini ayni gorus gibi degil, dort yil arayla iki ayri metin olarak kullaniyor."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "1815'te federal sistemi kusurlu bulduğu için değil, fazla kusursuz olduğu ve bizimkilerden çok üstün siyasi erdem ile yetenek istediği için kabul etmediğini yazar; aynı gerekçeyle İngiltere'ye bunca talih ve görkem sağlamış aristokrasi-demokrasi karışımı monarşiyi de reddeder.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak birebir: 'No convengo en el sistema federal entre los populares y representativos, por ser demasiado perfecto y exigir virtudes y talentos politicos muy superiores a los nuestros; por igual razon rehuso la monarquia mixta de aristocracia y democracia, que tanta fortuna y esplendor ha procurado a la Inglaterra.' Reddin gerekcesi kusur degil asirilik oldugu icin cumle bu ayrimi tasiyor. denetle.mjs 'Ingiltere' adini bulamayip ISARET verdi: kaynak Ispanyolcadir ve ad orada 'Inglaterra' bicimindedir; bu bir olcum sinir, celiski degil. Kor hakem 2 (2026-08-30): cumle 'ayni cumlede ... Amerikalilarin krallıklara cumhuriyetleri yegleyecegini soyler' diyordu. Kaynakta 'preferirian las republicas a los reinos' BIR ONCEKI cumlededir; federal sistem ve karma monarsi reddi ise 'por igual razon' ile ayni cumlededir. 'ayni gerekceyle' olarak duzeltildi, onceki cumle i050 olarak ayrildi."
+    },
+    {
+      "iddia_id": "i050",
+      "cumle": "Hemen öncesinde barış, bilim, sanat, ticaret ve tarım isteyen Amerikalıların krallıklara cumhuriyetleri yeğleyeceğini yazmıştır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem 2 (2026-08-30): kaynakta birebir 'los americanos ansiosos de paz, ciencias, artes, comercio y agricultura, preferirian las republicas a los reinos'. i013'ten ayrildi cunku kaynakta ayri cumledir."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Yeni Dünya'nın tamamından tek bir ulus kurmayı görkemli bir fikir sayar, ama uzak iklimler ve karşıt çıkarlar yüzünden bunun mümkün olmadığını ekler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak: 'Es una idea grandiosa pretender formar de todo el Mundo Nuevo una sola nacion con un solo vinculo... mas no es posible, porque climas remotos, situaciones diversas, intereses opuestos, caracteres desemejantes, dividen a la America.' Govde dort gerekceden ikisini aktardigi icin iddia destek duzeyinde tutuldu."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Dört yıl sonra Angostura'da Britanya anayasasının incelenmesini önerecek ve kalıtsal bir senato isteyecektir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ileriye donuk baglayici cumle; iddiasi ayni bolumde i017 ve i018'de aciklan ve ayni kunyeye (Angostura Soylevi) dayanan olgudur. Cerceve cumlesi kaynaksiz kalmasin diye o kunye burada da gosterildi."
+    },
+    {
+      "iddia_id": "i016",
       "cumle": "Kopan parçaların eski birliklerini yeniden kurabildiği bir dünyada Amerikalıların böyle bir geçmişi olmadığını söyler: eskiden ne olduğumuzun izlerini bile taşımıyoruz, ne Avrupalıyız ne de Yerliyiz, yerlilerle İspanyollar arasında bir ara türüz — doğuştan Amerikalı, hukukça Avrupalı.",
       "onem": "merkezi",
       "tur": "aktarim",
@@ -146,22 +244,8 @@
       "inceleme": ""
     },
     {
-      "iddia_id": "i011",
-      "cumle": "Kendi ifadesiyle bu bir konum değil bir ikilemdir; \"ne Avrupalıyız, ne de Yerliyiz\" cümlesi, sonraki bütün anayasa tartışmasının öncülüdür.",
-      "onem": "destek",
-      "tur": "yorum",
-      "kaynaklar": [
-        {
-          "anahtar": "k1",
-          "destek": "kismi"
-        }
-      ],
-      "guven": "orta",
-      "inceleme": "'dilemma' sozcugu metinde gecer (we are placed in the dilemma); ama cumlenin 'sonraki butun anayasa tartismasinin onculu' oldugu degerlendirmesi bu dosyanin okumasidir."
-    },
-    {
-      "iddia_id": "i012",
-      "cumle": "Kuzey Amerika'yı över, ama federal sistemin zayıf ve karmaşık olduğunu, o halkı bu kadar güç koşullarda yönetebilmiş olmasının bir olağanüstülük sayılması gerektiğini söyler; Anglo-Amerikan ile İspanyol-Amerikan uluslarının koşullarını ve karakterini birbirine benzetmekten uzak durduğunu belirtir ve İngiltere'nin siyasi, medeni ve dinî özgürlük kodunu İspanya'ya uygulamanın bile güç olacağını, Kuzey Amerika yasalarını Venezuela'ya uyarlamanın daha da güç olacağını ekler.",
+      "iddia_id": "i017",
+      "cumle": "Kuzey Amerika'yı över, ama federal sistemin zayıf ve karmaşık olduğunu, o halkı bu kadar güç koşullarda yönetebilmiş olmasının bir olağanüstülük sayılması gerektiğini söyler ve Anglo-Amerikan ile İspanyol-Amerikan uluslarının koşullarını birbirine benzetmekten uzak durduğunu belirtir.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -174,7 +258,7 @@
       "inceleme": "Soylev 'the Code of political, civil and religious liberty of England' der; onceki surum bunu 'siyasi kod'a indirmisti (liste kirpmasi). Kor hakem uc terimi de geri koydu."
     },
     {
-      "iddia_id": "i013",
+      "iddia_id": "i018",
       "cumle": "Roma ile Büyük Britanya'yı eskiler ve modernler arasında en çok temayüz etmiş iki ulus sayar ve temsilcilere Britanya anayasasını incelemelerini önerir; ama metin, o anayasa ne kadar kusursuz olursa olsun körü körüne taklit önermekten uzak durduğunu açıkça yazar.",
       "onem": "destek",
       "tur": "aktarim",
@@ -188,8 +272,8 @@
       "inceleme": "Metin Roma ile Buyuk Britanya'yi eskiler ve modernler arasinda en cok temayuz etmis iki ulus sayar ve 'no matter how perfect it may be, I am very far from suggesting a servile imitation' der."
     },
     {
-      "iddia_id": "i014",
-      "cumle": "Bolívar'a göre senato, hükümet ile halk arasında bu iki ezelî rakibin birbirine attığı okları körelten ara bir güç olacaktır; gerekçesi siyasi olduğu kadar minnete de dayanır: Venezuela'yı kurtaranların, varlığını onlara borçlu olan cumhuriyette her zaman yüksek bir yer tutmaya hakları vardır.",
+      "iddia_id": "i019",
+      "cumle": "Bolívar'a göre senato, hükümet ile halk arasında bu iki ezelî rakibin birbirine attığı okları körelten ara bir güç olacaktır; gerekçesi siyasi olduğu kadar minnete de dayanır — Venezuela'yı kurtaranların, varlığını onlara borçlu olan cumhuriyette yüksek bir yer tutmaya hakları vardır.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -202,7 +286,7 @@
       "inceleme": ""
     },
     {
-      "iddia_id": "i015",
+      "iddia_id": "i020",
       "cumle": "Metnin kendisi burada bir tereddüt taşır — Bolívar gelecek kuşakların bu adların silinmesine üzüleceğine inandığını söyler, kesin bir hüküm vermez.",
       "onem": "destek",
       "tur": "aktarim",
@@ -216,7 +300,7 @@
       "inceleme": "Metnin kendi tereddudu korundu: 'I believe that posterity would grieve...' Bolivar kesin hukum vermez."
     },
     {
-      "iddia_id": "i016",
+      "iddia_id": "i021",
       "cumle": "Aynı söylevde kongreden istediği tek şey bir kurum değildir: bütün kararname ve düzenlemelerini değiştirme ya da kaldırma yetkisini kongreye bıraktığını, buna karşılık kölelerin mutlak özgürlüğünün onaylanmasını kendi hayatı ve cumhuriyetin hayatı için yalvarır gibi istediğini söyler.",
       "onem": "merkezi",
       "tur": "aktarim",
@@ -230,8 +314,8 @@
       "inceleme": ""
     },
     {
-      "iddia_id": "i017",
-      "cumle": "İngilizce metin, kongrenin yüzüncü yılında Venezuela hükümetinin emriyle bastırılmış bir anma cildidir; söylevin önündeki sunuş Bolívar'ın değil 1919'daki editörlerin sesidir ve kalıtsal senatoyu anarşiyle tiranlık arasında bir denge arayışı olarak yorumlar.",
+      "iddia_id": "i022",
+      "cumle": "Elimizdeki İngilizce metin, kongrenin yüzüncü yılında Venezuela hükümetinin bastırdığı bir anma cildidir; söylevin önündeki sunuş Bolívar'ın değil 1919 editörlerinin sesidir.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -241,11 +325,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Cilt, kongrenin yuzuncu yilinda Venezuela hukumetinin emriyle bastirilmistir; kalitsal senatoyu anarsi-tiranlik dengesi olarak yorumlayan pasaj soylevin degil sunusun metnidir."
+      "inceleme": "Cilt, kongrenin yuzuncu yilinda Venezuela hukumetinin emriyle bastirilmistir; kalitsal senatoyu anarsi-tiranlik dengesi olarak yorumlayan pasaj soylevin degil sunusun metnidir. Kor hakem 2 (2026-08-30): sikistirildi, iddia degismedi. Aktarim halkasi beyani korundu."
     },
     {
-      "iddia_id": "i018",
-      "cumle": "Kaynak, Amerika'daki birliklerin her iki tarafta da neredeyse tamamının bölgeden devşirildiğini; yerli topluluklara ayrım gözetmeksizin asker toplandığını; yerlilere ve pardo ya da cholo gibi melez kastlara her iki tarafın toplumsal iyileştirmeler vaat ettiğini; hatta köleleştirilmiş insanların da her iki tarafça orduya alındığını yazar.",
+      "iddia_id": "i023",
+      "cumle": "Kaynak, Amerika'daki birliklerin her iki tarafta da neredeyse tamamının bölgeden devşirildiğini; yerli topluluklara ayrım gözetmeksizin asker toplandığını; yerlilere ve pardo ya da cholo gibi melez kastlara her iki tarafın toplumsal iyileştirmeler vaat ettiğini; köleleştirilmiş insanların da orduya alındığını yazar.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -258,21 +342,7 @@
       "inceleme": "Kaynagin saydigi ogelerin tamami tasindi: yerli topluluklardan ayrim gozetmeksizin devsirme, pardo ve cholo gibi melez kastlara vaat, kolelestirilmis insanlarin da askere alinmasi."
     },
     {
-      "iddia_id": "i019",
-      "cumle": "Esir düşenler karşı tarafın ordusuna katılıyordu; Avrupa kökenli kreol ileri gelenleri bölgelerinin ticari çıkarına göre kralcı ya da bağımsızlıkçı safa geçebiliyordu; kilise de bölünmüştü.",
-      "onem": "destek",
-      "tur": "olgu",
-      "kaynaklar": [
-        {
-          "anahtar": "k9",
-          "destek": "dogrudan"
-        }
-      ],
-      "guven": "yuksek",
-      "inceleme": ""
-    },
-    {
-      "iddia_id": "i020",
+      "iddia_id": "i024",
       "cumle": "Cristina Soriano, 18. yüzyılın son onyıllarında Venezuela'da sömürge yönetimine karşı bir dizi halk ayaklanması ve komplonun belirdiğini; bunların birçoğunun vergilerin ve yerli haracının azaltılmasını ya da kaldırılmasını, siyasi düzenin dönüşmesini, köleliğin kaldırılmasını ve farklı toplumsal-ırksal gruplar arasında eşitliğin ilan edilmesini talep ettiğini yazar.",
       "onem": "merkezi",
       "tur": "aktarim",
@@ -286,7 +356,7 @@
       "inceleme": "Ozetin saydigi dort talep de tasindi (vergilerin ve yerli haracinin azaltilmasi/kaldirilmasi, siyasi duzenin donusumu, koleligin kaldirilmasi, toplumsal-irksal esitlik). Havuz kurali: crossref ustveri kaydi yazar/yil/baslik iddiasina dogrudan, makalenin bulgusuna en fazla OZET duzeyinde kismi destek verir. Ozet bulguyu birebir tasiyor ama kunye makalenin govdesi degildir; kor hakem destegi kismiye indirdi."
     },
     {
-      "iddia_id": "i021",
+      "iddia_id": "i025",
       "cumle": "Aynı çalışmaya göre bu hareketler Amerikan, Fransız ve Haiti devrimlerinin cumhuriyetçi hak dilini yeniden üretiyordu; İspanyol Tacı ve sömürge görevlileri Fransız-Karayip cumhuriyetçi değerlerinin yerel yankılarını susturmayı ve sınırlamayı saplantı hâline getirdi, ama Soriano bunun imkânsız bir görev olduğunu belirtir — Karayipler'den gelen elle çoğaltılmış metinler Venezuela'nın kentlerini ve limanlarını doldurdu.",
       "onem": "destek",
       "tur": "aktarim",
@@ -300,21 +370,7 @@
       "inceleme": "Ozetin 'This proved to be an impossible task' kaydi metne tasindi. Havuz kurali: crossref ustveri kaydi yazar/yil/baslik iddiasina dogrudan, makalenin bulgusuna en fazla OZET duzeyinde kismi destek verir. Ozet bulguyu birebir tasiyor ama kunye makalenin govdesi degildir; kor hakem destegi kismiye indirdi."
     },
     {
-      "iddia_id": "i022",
-      "cumle": "Haiti burada aynı anda iki şeydir: dili ödünç alınan bir örnek ve Tacın istikrarsızlaştırıcı, fitneci ve son derece tehlikeli saydığı bir tehdit.",
-      "onem": "destek",
-      "tur": "yorum",
-      "kaynaklar": [
-        {
-          "anahtar": "k6",
-          "destek": "kismi"
-        }
-      ],
-      "guven": "orta",
-      "inceleme": "Ozet Haiti'yi hem odunc alinan bir siyasi dilin kaynagi hem de Tacin istikrarsizlastirici, fitneci ve son derece tehlikeli saydigi akim olarak anar; 'ayni anda iki sey' formulasyonu bu dosyanin toparlamasidir."
-    },
-    {
-      "iddia_id": "i023",
+      "iddia_id": "i026",
       "cumle": "Kaynağın bilgi kutusu toplam bir milyon ölü verir ve bunu ikiye böler: Yeni İspanya'da 600.000, Yeni Granada'da 400.000.",
       "onem": "merkezi",
       "tur": "sayi",
@@ -328,7 +384,7 @@
       "inceleme": "Sayilar maddenin bilgi kutusundadir; kutunun kendisi bir tahmin toplamidir."
     },
     {
-      "iddia_id": "i024",
+      "iddia_id": "i027",
       "cumle": "600.000 rakamı, on dokuzuncu yüzyıl savaş istatistiklerini derleyen kişisel bir web sitesine bağlanmıştır; 400.000 rakamı 1971 tarihli bir dergi cildinden alınan İspanyolca bir alıntıya dayanır ve o alıntı sayıyı Yeni Granada Genel Valiliği için değil Gran Kolombiya için verir, içinde 250.000 Venezuelalı bulunduğunu ekler.",
       "onem": "merkezi",
       "tur": "sayi",
@@ -342,7 +398,21 @@
       "inceleme": "Maddenin kendi dipnotlari incelendi: 600.000 bir kisisel istatistik sitesine, 400.000 ise 1971 tarihli Revista de historia de America cildinden alinan Ispanyolca bir alintiya baglanir; alinti sayiyi Gran Kolombiya icin verir ve icinde 250.000 Venezuelali bulundugunu ekler."
     },
     {
-      "iddia_id": "i025",
+      "iddia_id": "i028",
+      "cumle": "Dönemin içinden gelen bir tahmin karşılaştırma imkânı verir: Bolívar 1815'te Venezuela'da bir milyona yakın nüfus sayıldığını yazar ve abartmasız söylenebileceğini belirterek bu nüfusun dörtte birinin yer sarsıntısı, kılıç, açlık, veba ve göçler yüzünden feda edildiğini, deprem dışındaki her şeyin savaşın sonucu olduğunu ekler.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak: 'Cerca de un millon de habitantes se contaba en Venezuela; y, sin exageracion, se puede asegurar que una cuarta parte ha sido sacrificada por la tierra, la espada, el hambre, la peste, las peregrinaciones'. 'Sin exageracion se puede asegurar' bir teminat kalibidir, kesin sayim degil; govdeye 'abartmasiz soylenebilecegini belirterek' diye tasindi. Sayi 1815'te, savasin ortasinda, bir tarafca ve YALNIZ Venezuela icin verilir; bilgi kutusundaki kita olcekli bir milyonla ayni birimi olcmez ve govde bunu acikca yazar. Kor hakem 2 (2026-08-30): kaynagin kendi cekincesi dusurulmustu. Metin 'una cuarta parte ha sido sacrificada por la tierra, la espada, el hambre, la peste, las peregrinaciones; excepto el terremoto, todo resultado de la guerra' der. 'la tierra' burada depremdir; 'toprak' cevirisi hem opakti hem de kaynagin deprem istisnasini gizliyordu. Duzeltildi."
+    },
+    {
+      "iddia_id": "i029",
       "cumle": "Ayacucho'da birliklerin yüzde yirmisinden azının İspanyol olduğu ve bu savaşlarda ölen nativos sayısının yaklaşık 35.000 olduğu bilgisi, maddenin dipnotunda aktarılan 2006 tarihli bir metinden gelir; metin Buenos Aires merkezli bir stratejik araştırmalar enstitüsünün yayınıdır ve asıl konusu 1827'de Brezilya'ya karşı yürütülen savaştır.",
       "onem": "merkezi",
       "tur": "sayi",
@@ -356,21 +426,7 @@
       "inceleme": "Dipnottaki alintinin kaynagi Buenos Aires merkezli IEEBA'nin 2006 tarihli, asil konusu 1827 Brezilya savasi olan bir metnidir; alinti Wikipedia'da Ispanyolca aktarilir."
     },
     {
-      "iddia_id": "i026",
-      "cumle": "Aynı alıntı, bağımsızlık savaşları döneminde İbero-Amerika'da 50.000'den az İspanyol askeri bulunduğunu, bunların 20.000'inin Küba'dan hiç çıkmadığını ve savaşlar boyunca hiçbir zaman 30.000'den fazla İspanyol'un çatışmalara katılmadığını ileri sürer.",
-      "onem": "destek",
-      "tur": "sayi",
-      "kaynaklar": [
-        {
-          "anahtar": "k9",
-          "destek": "dogrudan"
-        }
-      ],
-      "guven": "yuksek",
-      "inceleme": "Ayni alintinin uc sayisi da tasindi: 50.000'den az Ispanyol asker, 20.000'i Kuba'dan hic cikmadi, hicbir zaman 30.000'den fazlasi catismalara katilmadi."
-    },
-    {
-      "iddia_id": "i027",
+      "iddia_id": "i030",
       "cumle": "Bunu yalnızca yerli halklara daraltmak, sayıyı başka bir topluluğun hanesine yazmak olur.",
       "onem": "destek",
       "tur": "yorum",
@@ -384,10 +440,10 @@
       "inceleme": "Alintida nativos, ayni cumlede espanoles'in karsisina konur; sozcugun 'yerli halk' diye daraltilmasinin yanlis oldugu uyarisi kaynakta yoktur, bu dosyanin okumasidir."
     },
     {
-      "iddia_id": "i028",
-      "cumle": "ABD 1822'de Şili'yi, Río de la Plata Birleşik Eyaletleri'ni, Peru'yu, Gran Kolombiya'yı ve Meksika'yı tanıdı; Britanya 1825'e, yani Ayacucho Muharebesi'nden sonrasına kadar bekledi ve o yıl Meksika'yı, Gran Kolombiya'yı ve Río de la Plata'yı tanıdı.",
-      "onem": "merkezi",
-      "tur": "tarih",
+      "iddia_id": "i031",
+      "cumle": "Ansiklopedi maddesi ABD'nin 1822'de Şili'yi, Río de la Plata Birleşik Eyaletleri'ni, Peru'yu, Gran Kolombiya'yı ve Meksika'yı tanıdığını, Britanya'nın ise 1825'e, yani Ayacucho Muharebesi'nden sonrasına kadar beklediğini yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
       "kaynaklar": [
         {
           "anahtar": "k9",
@@ -395,10 +451,28 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Onceki surumde bu cumle MERKEZI bir tarih iddiasiydi ve tek dayanagi ansiklopediydi. Bu turda cumle ansiklopedinin BEYANINA indirildi (onem: destek) ve resmi kayit ayri bir iddia olarak (i031) yanina konuldu; ikisi ayni tarihleri vermiyor. k9 hala dogrudan destektir, cunku iddia artik 'ansiklopedi soyle yazar' demektedir."
     },
     {
-      "iddia_id": "i029",
+      "iddia_id": "i032",
+      "cumle": "Dışişleri Bakanlığı Tarihçi Ofisi'nin ülke ülke tuttuğu resmî kayıt bu tarihleri dağıtır: Kolombiya 19 Haziran 1822'de, Başkan James Monroe'nun Manuel Torres'i maslahatgüzar olarak kabul etmesiyle tanınmıştır; Peru'nun bağımsızlığı ise 2 Mayıs 1826'da, James Cooley'in maslahatgüzar atanmasıyla tanınmıştır.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k13",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ABD Disisleri Bakanligi Tarihci Ofisi kayitlari birebir: 'The United States recognized Colombia on June 19, 1822, when President James Monroe received Manuel Torres as the Colombian Charge d'affaires' ve 'The independence of Peru was recognized by the United States by the appointment of James Cooley as Charge d'Affaires on May 2, 1826.' Ayni kilavuz Sili'yi ve Buenos Ayres'i 27 Ocak 1823'e koyar; ansiklopedideki tek '1822' tarihi resmi kayitla ortusmuyor. SINIR: kilavuz belgenin kendisi degil, bakanligin kendi kayitlarindan derledigi ozettir ve tanimanin olcutu ulkeden ulkeye degisir (elci kabulu, atama, Senato onayi) — govde bu olcutleri adiyla yaziyor."
+    },
+    {
+      "iddia_id": "i033",
       "cumle": "Aradaki yılda Monroe'nun 1823 tarihli yıllık mesajı kıtayı bir ilkeye bağlamıştı: Amerika kıtaları, üstlendikleri ve sürdürdükleri hür ve bağımsız konum gereği, bundan böyle hiçbir Avrupa gücünün gelecekteki sömürgeleştirmesine konu sayılamazdı.",
       "onem": "merkezi",
       "tur": "aktarim",
@@ -412,7 +486,7 @@
       "inceleme": ""
     },
     {
-      "iddia_id": "i030",
+      "iddia_id": "i034",
       "cumle": "Aynı mesajın ilerleyen bir paragrafı, herhangi bir Avrupa gücünün mevcut sömürgeleri ve bağımlı toprakları için \"karışmadık ve karışmayacağız\" der; koruma yalnızca bağımsızlığını ilan etmiş, sürdüren ve ABD'nin tanımış olduğu hükümetler için geçerlidir.",
       "onem": "merkezi",
       "tur": "aktarim",
@@ -426,7 +500,7 @@
       "inceleme": "Sinirlayici birebir dogrulandi. Onceki surum 'Ayni paragraf' diyordu; Avalon metninde somurgelestirme ilkesi (Rusya pasaji) ile 'we have not interfered and shall not interfere' AYRI paragraflardadir. Kor hakem 'ayni mesajin ilerleyen bir paragrafi' olarak duzeltti."
     },
     {
-      "iddia_id": "i031",
+      "iddia_id": "i035",
       "cumle": "Tarafsızlık beyanı da koşulludur: bildiri, tanıma anında ilan edilen tarafsızlığa uyulduğunu ve uyulmaya devam edileceğini, yetkili makamların yargısına göre bir değişiklik olmaması şartıyla söyler.",
       "onem": "destek",
       "tur": "aktarim",
@@ -440,8 +514,8 @@
       "inceleme": "'provided no change shall occur which, in the judgement of the competent authorities' kosulu metne tasindi."
     },
     {
-      "iddia_id": "i032",
-      "cumle": "12 Aralık 1826'da Avam Kamarası'nda Portekiz'e ilişkin kraliyet mesajı görüşülürken George Canning, hükümetinin Fransız ordusunun İspanya'yı işgal etmesine göz yumduğu suçlamasına yanıt verir: Cádiz'i abluka altına almayı seçmediğini, telafi malzemesini başka bir yarıkürede aradığını, Fransa İspanya'yı alacaksa bunun Hint'iyle birlikte bir İspanya olmamasına karar verdiğini söyler ve şu cümleyi kurar: \"Eskinin dengesini düzeltmek için Yeni Dünya'yı var ettim.\" Cümlenin bağlamı onu tanıklıktan savunmaya çevirir; Canning bunu kendi bakanlığına yöneltilmiş bir suçlamayı yanıtlarken, meclis kürsüsünde söylemektedir.",
+      "iddia_id": "i036",
+      "cumle": "12 Aralık 1826'da Avam Kamarası'nda Portekiz'e ilişkin kraliyet mesajı görüşülürken George Canning, hükümetinin Fransız ordusunun İspanya'yı işgal etmesine göz yumduğu suçlamasına yanıt verir: telafi malzemesini başka bir yarıkürede aradığını, Fransa İspanya'yı alacaksa bunun Hint'iyle birlikte bir İspanya olmamasına karar verdiğini söyler ve şu cümleyi kurar: \"Eskinin dengesini düzeltmek için Yeni Dünya'yı var ettim.\" Cümlenin bağlamı onu tanıklıktan savunmaya çevirir; Canning bunu kendi bakanlığına yöneltilmiş bir suçlamayı yanıtlarken, meclis kürsüsünde söylemektedir.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -454,7 +528,7 @@
       "inceleme": "Konusma bir savunmadir: Canning cumleyi hukumetine yoneltilmis suclamayi yanitlarken kurar. Bakanin kendi payina dair beyani taraf beyani sayildi; ama beyanin varligi ve sozleri tutanaktan dogrudan dogrulanir."
     },
     {
-      "iddia_id": "i033",
+      "iddia_id": "i037",
       "cumle": "Rafael Cariello ile Thales Zamberlan Pereira, 1822'nin tarih yazımını gözden geçirirken önceki yorumların bağımsızlık hareketinde seçkinlerin rolünü öne çıkardığını, yeni nicel kanıtların ise Portekiz İmparatorluğu'nun aşırı harcama ve enflasyonla belirginleşen mali çalkantısına işaret ettiğini yazar; bu çalkantı hem Brezilya'da hem Portekiz'de yaygın bir hoşnutsuzluk doğurmuştur.",
       "onem": "merkezi",
       "tur": "aktarim",
@@ -468,8 +542,8 @@
       "inceleme": "Ozet 'new quantitative evidence sheds light on the profound impact of the Portuguese Empire's fiscal turmoil, marked by excessive expenditures and inflation, which triggered generalized discontent in both Brazil and Portugal' der. Havuz kurali: crossref ustveri kaydi yazar/yil/baslik iddiasina dogrudan, makalenin bulgusuna en fazla OZET duzeyinde kismi destek verir. Ozet bulguyu birebir tasiyor ama kunye makalenin govdesi degildir; kor hakem destegi kismiye indirdi."
     },
     {
-      "iddia_id": "i034",
-      "cumle": "Aynı okumaya göre siyasi kopuş iki aşamada gerçekleşti: önce bir liberal devrim, ardından anayasal bir çatışma; mali krizin Avrupa'daki ve Güney Amerika'daki farklı etkileri ise ortak bir reform talebini tutuşturdu.",
+      "iddia_id": "i038",
+      "cumle": "Aynı okumaya göre siyasi kopuş iki aşamada gerçekleşti: önce bir liberal devrim, ardından anayasal bir çatışma.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -482,7 +556,7 @@
       "inceleme": "Ozetin iki asamali sema kaydi ('a liberal revolution followed by constitutional conflict') tasindi. Havuz kurali: crossref ustveri kaydi yazar/yil/baslik iddiasina dogrudan, makalenin bulgusuna en fazla OZET duzeyinde kismi destek verir. Ozet bulguyu birebir tasiyor ama kunye makalenin govdesi degildir; kor hakem destegi kismiye indirdi."
     },
     {
-      "iddia_id": "i035",
+      "iddia_id": "i039",
       "cumle": "Leslie Bethell'in 1822-1826 arası Anglo-Brezilya ilişkilerini izleyen çalışması, Brezilya'nın bağımsızlığı ile Brezilya köle ticaretinin kaldırılmasını aynı başlıkta ele alır.",
       "onem": "destek",
       "tur": "aktarim",
@@ -496,8 +570,8 @@
       "inceleme": "Iddia yalnizca kunyenin KENDISI hakkindadir: yazar (Leslie Bethell), baslik ('The Independence of Brazil and the Abolition of the Brazilian Slave Trade: Anglo-Brazilian Relations, 1822-1826') ve yil (1969) crossref kaydinda birebir bulunur. Havuz kurali geregi ustveri kaydi yazar/yil/baslik iddiasina dogrudan destektir; onceki surum bunu gereksiz yere kismiye indirmisti."
     },
     {
-      "iddia_id": "i036",
-      "cumle": "Çalışmanın kendi girişi, Atlantik köle ticaretinin on altıncı yüzyılın başından on dokuzuncunun başına kadar üç yüz yıl boyunca yasal olarak ve sürekli büyüyen bir ölçekte yürütüldüğünü; 25 Mart 1807'de, parlamento içinde ve dışında uzun bir mücadelenin ardından, İngiliz uyruklarının 1 Mayıs 1808'den sonra köle ticareti yapmasının yasa dışı ilan edildiğini kaydeder ve parantez içinde, Napolyon Savaşları'nın o noktasında ticaretin en az yarısının İngilizlerin elinde olduğunu ekler.",
+      "iddia_id": "i040",
+      "cumle": "Çalışmanın kendi girişi, 25 Mart 1807'de, parlamento içinde ve dışında uzun bir mücadelenin ardından, İngiliz uyruklarının 1 Mayıs 1808'den sonra köle ticareti yapmasının yasa dışı ilan edildiğini kaydeder ve parantez içinde, o noktada ticaretin en az yarısının İngilizlerin elinde olduğunu ekler.",
       "onem": "destek",
       "tur": "sayi",
       "kaynaklar": [
@@ -510,8 +584,8 @@
       "inceleme": "Ozetin parantez ici kaydi korundu: 'at this point during the Napoleonic Wars at least half the trade was in British hands'. Havuz kurali: crossref ustveri kaydi yazar/yil/baslik iddiasina dogrudan, makalenin bulgusuna en fazla OZET duzeyinde kismi destek verir. Ozet bulguyu birebir tasiyor ama kunye makalenin govdesi degildir; kor hakem destegi kismiye indirdi."
     },
     {
-      "iddia_id": "i037",
-      "cumle": "Yeni cumhuriyetler Engizisyon'un biçimsel düzenini ve soyluluk unvanlarını kaldırdı; ama bu ülkelerin çoğunda kölelik hemen kaldırılmadı ve tam kaldırma Latin Amerika ülkelerinin çoğunda 1850'leri buldu.",
+      "iddia_id": "i041",
+      "cumle": "Yeni cumhuriyetler Engizisyon'un biçimsel düzenini ve soyluluk unvanlarını kaldırdı; ama bu ülkelerin çoğunda kölelik hemen kaldırılmadı ve tam kaldırma Latin Amerika ülkelerinin çoğunda 1850'leri buldu; aynı kaynak tersini de kaydeder: bağımsızlık kaldırmayı başlatmış, köle emeğinin ana kaynak olmadığı Meksika, Orta Amerika ve Şili'de kurtuluş hemen gelmiştir.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -521,10 +595,10 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Kaynak 'in most of these new countries' ve 'in most of the Latin American countries' kayitlarini koyar; her ikisi de metne tasindi."
+      "inceleme": "Kaynak 'in most of these new countries' ve 'in most of the Latin American countries' kayitlarini koyar; her ikisi de metne tasindi. Kor hakem 2 (2026-08-30): kaynagin karsi kaydi gizlenmisti. k9 acikca 'Independence, however, did initiate the abolition of slavery in Spanish America... In areas where slavery was not a major source of labor (Mexico, Central America, Chile), emancipation occurred almost immediately' der. Dosyanin 'devrim degildi' tezini dengeleyen bu kayit geri konuldu."
     },
     {
-      "iddia_id": "i038",
+      "iddia_id": "i042",
       "cumle": "Avrupa kökenli kreoller ile yerli-Avrupalı karışımı mestizolar siyasi makamların çoğunda İspanya doğumlu atanmışların yerini aldı; kreoller ise, hukuken olmasa da kültürel olarak eski özelliklerinin bir kısmını koruyan toplumsal yapının tepesinde kaldı.",
       "onem": "merkezi",
       "tur": "olgu",
@@ -538,7 +612,49 @@
       "inceleme": "Kaynagin 'culturally, if not legally' kaydi metne tasindi."
     },
     {
-      "iddia_id": "i039",
+      "iddia_id": "i043",
+      "cumle": "Kolombiya Cumhuriyeti'nin 30 Ağustos 1821'de Cúcuta'da imzalanan anayasası, ulusun ödevini yurttaşların özgürlüğünü, güvenliğini, mülkiyetini ve eşitliğini bilge ve hakkaniyetli yasalarla korumak diye tanımlar; ama saydığı üç Kolombiyalı kategorisinin ilki ülke topraklarında doğmuş hür insanlar ile onların çocuklarıdır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cucuta Anayasasi (30 Agustos 1821) bu turda kunyeye eklendi ve hakemin 'toprak duzeni dosyada yok' sikayetini karsilayan asil dayanaktir. Madde 3: 'Es un deber de la nacion proteger por leyes sabias y equitativas la libertad, la seguridad, la propiedad y la igualdad de todos los colombianos.' Madde 4/1: 'Todos los hombres libres nacidos en el territorio de Colombia, y los hijos de estos'. 'Hur' sifati metnin kendisindedir ve koleleri yurttaslik disinda birakir. Kor hakem 2 (2026-08-30): liste kirpmasi. Cucuta art. 4 UC Kolombiyali kategorisi sayar (topraklarda dogmus hur insanlar ve cocuklari; siyasi donusum sirasinda ulkede yerlesik olup bagimsizlik davasina sadik kalanlar; yurttaslik belgesi alanlar). Govde ilkini tuketici gibi veriyordu; 'saydigi uc kategorinin ilki' olarak duzeltildi."
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Oy hakkını 15. madde doğrudan mülke bağlar ve okuryazarlık şartını 1840'a kadar askıya alır: mahalle seçmeni olmak için serbest değeri yüz pesoyu bulan bir gayrimenkul gerekir ve bunun yerini ancak gündelikçi ya da hizmetkâr olarak başkasına bağlı olmadan kendi evi veya atölyesi bulunan bir zanaat, meslek ya da ticaret tutabilir; 21. maddede seçici olmanın eşiği beş yüz pesoluk bir gayrimenkul ya da yılda üç yüz peso getiren bir görevdir; mülksüzlere kalan tek yol bilimsel bir derecedir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Madde 15: 'Ser dueno de alguna propiedad raiz que alcance al valor libre cien pesos. Suplira este defecto el ejercitar algun oficio, profesion, comercio o industria util, con casa o taller abierto sin dependencia de otro en clase de jornalero o sirviente'; okuryazarlik icin 'esta condicion no tendra lugar hasta el ano de 1840'. Madde 21: 'Ser dueno de una propiedad raiz que alcance el valor libre de quinientos pesos, o gozar de un empleo de trescientos pesos de renta anual'. Peso miktarlari kaynakta yaziyla yazildigi icin (cien, quinientos, trescientos) govdede de yaziyla birakildi; rakama cevrilseydi mekanik katman kaynakta bulamazdi. Olculebilir atom olarak 1840 ayni cumleye tasindi. Kor hakem 2 (2026-08-30): art. 21 dort secenek sayar (500 pesoluk gayrimenkul; 300 peso yillik gelirli gorev; 300 peso yillik gelir ureten intifa; bir bilim icra etmek ya da bilimsel derece). Govde ikisini veriyordu; mulksuzlere acik tek yol olan bilimsel derece geri konuldu."
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Jennie Purnell, Meksika'da yerli topluluklarının elindeki ortak toprakların özelleştirilmesini emreden on dokuzuncu yüzyıl liberal yasalarına karşı halk muhalefetini inceler; Michoacán'da Zacapu köylüleri repartoyu otuz beş yıl geciktirdikten sonra topraklarının çoğunu vergi memurlarına ve komşu toprak sahiplerine kaptırmış, San Juan Parangaricutiro geniş ormanlarını ortak mülk olarak tutabilmiş ama ekili toprağın en iyisini yerel mestizo seçkinler özel mülk olarak sahiplenmiştir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k14",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref kaydindaki yazarin kendi ozeti: 'Zacapu peasants managed to delay the reparto for thirty-five years but ended up losing much of their land to state tax officials and neighboring landowners. San Juan Parangaricutiro successfully retained its substantial woodlands as communal property, even as local mestizo elites appropriated the best of cultivated land as private property.' Makalenin arsiv kaniti bu uc noktadan okunamadigi icin destek KISMI ve iddia merkezi degil destek sayildi. Kapsam Meksika'nin Michoacan eyaleti ve on dokuzuncu yuzyil ortasindan sonraki desamortizasyon yasalaridir; dosyanin 1808-1833 penceresinden sonraya duser ve govde bunu 'sonraki onyillarda' diyerek beyan eder."
+    },
+    {
+      "iddia_id": "i046",
       "cumle": "Rodríguez'in okuması bu tabloyla uyumludur: kitlelerin ciddi katılımına rağmen bağımsızlık mücadelesi kreollerin, yani Yeni Dünya burjuvazisinin zaferiyle sonuçlandı; dönemin en kalıcı mirası ise bu yıllarda beliren anayasal ve temsilî yönetim geleneği ile ulus olma durumudur.",
       "onem": "merkezi",
       "tur": "aktarim",
@@ -552,21 +668,7 @@
       "inceleme": "Ozet 'Despite significant participation by the masses, the struggle for independence resulted in the triumph of the criollos, the New World bourgeoisie' ve 'constitutes the most significant heritage' der. Havuz kurali: crossref ustveri kaydi yazar/yil/baslik iddiasina dogrudan, makalenin bulgusuna en fazla OZET duzeyinde kismi destek verir. Ozet bulguyu birebir tasiyor ama kunye makalenin govdesi degildir; kor hakem destegi kismiye indirdi."
     },
     {
-      "iddia_id": "i040",
-      "cumle": "Rakip okuma, onun birçok araştırmacıya atfettiği sömürgecilik karşıtı yorumdur; Rodríguez bunu reddeder, ama reddettiği okumanın hâlâ ayakta olduğu da onun kendi kaydında görünür.",
-      "onem": "destek",
-      "tur": "yorum",
-      "kaynaklar": [
-        {
-          "anahtar": "k5",
-          "destek": "kismi"
-        }
-      ],
-      "guven": "orta",
-      "inceleme": "Ozet 'as many scholars assert' der; rakip okumanin hala ayakta oldugu degerlendirmesi bu dosyanindir."
-    },
-    {
-      "iddia_id": "i041",
+      "iddia_id": "i047",
       "cumle": "Bolívar'ın kongreden kölelerin mutlak özgürlüğünü onaylamasını istemiş olması ile kaldırmanın çoğu ülkede 1850'lere sarkması arasındaki mesafe, \"devrim\" adlandırmasının en somut sınırıdır.",
       "onem": "merkezi",
       "tur": "yorum",
@@ -584,8 +686,8 @@
       "inceleme": "Iki olgu ayri ayri dogrudan kaynaklidir (Bolivar'in talebi k1'de, kaldirmanin 1850'lere sarkmasi k9'da); aradaki mesafenin 'devrim' adlandirmasinin sinirini gosterdigi degerlendirmesi bu dosyanindir."
     },
     {
-      "iddia_id": "i042",
-      "cumle": "Veracruz, Callao ve Chiloé'deki İspanyol kıyı istihkâmları 1825-1826'ya kadar dayandı; izleyen on yılda kralcı gerillalar birçok ülkede faaliyetini sürdürdü, 1827'de Albay José Arizabalo Venezuelalı gerillalarla düzensiz bir savaş başlattı, 1829'da Tuğgeneral Isidro Barradas düzenli birliklerle Meksika'yı geri alma yönündeki son girişimi yönetti ve İspanya bu girişimde Tampico'da başarısız oldu; Pincheira kardeşler Patagonya'ya çekilip 1832'de yenilene kadar orada çok etnisiteli bir kralcı haydut çetesi olarak kaldı.",
+      "iddia_id": "i048",
+      "cumle": "Veracruz, Callao ve Chiloé'deki İspanyol kıyı istihkâmları 1825-1826'ya kadar dayandı; izleyen on yılda kralcı gerillalar birçok ülkede faaliyetini sürdürdü; 1829'da Tuğgeneral Isidro Barradas'ın düzenli birliklerle Meksika'yı geri alma girişimi Tampico'da başarısız oldu ve Pincheira kardeşler 1832'de yenilene kadar Patagonya'da çok etnisiteli bir kralcı çete olarak kaldı.",
       "onem": "destek",
       "tur": "tarih",
       "kaynaklar": [
@@ -598,7 +700,7 @@
       "inceleme": "Kaynagin listesi uc ogeliydi (Arizabalo 1827, Barradas 1829, Pincheira kardesler 1832); onceki surum ucuncuyu dusurmustu. Pincheira geri konuldu — ustelik dosyanin 1833 bitis tarihine en yakin ogedir."
     },
     {
-      "iddia_id": "i043",
+      "iddia_id": "i049",
       "cumle": "Küba ile Porto Riko 1898'e kadar İspanyol yönetiminde kaldı; yani Monroe'nun mevcut sömürgeleri dışarıda bırakan kaydı, bu iki ada için uzun süre geçerliliğini korudu.",
       "onem": "destek",
       "tur": "yorum",
@@ -608,45 +710,21 @@
           "destek": "dogrudan"
         },
         {
+          "anahtar": "k15",
+          "destek": "kismi"
+        },
+        {
           "anahtar": "k3",
           "destek": "kismi"
         }
       ],
       "guven": "orta",
-      "inceleme": "1898 tarihi k9'dan dogrudan; Monroe'nun mevcut somurgeleri disarida birakan kaydi k3'ten dogrudan. Onceki surumdeki 'kitanin en buyuk iki Ispanyol adasi' ustunluk nitelemesi hicbir kaynakta yoktu; kor hakem kaldirdi."
-    },
-    {
-      "iddia_id": "i044",
-      "cumle": "Aynı kaynak bu tetikleyicinin önüne uzun soluklu bir bağlam zinciri koyar: denetimli bağımsızlık önerileri, idari ve iktisadi reformlar, askerî yeniden yapılandırma, Aydınlanma düşüncelerinin yayılması.",
-      "onem": "merkezi",
-      "tur": "olgu",
-      "kaynaklar": [
-        {
-          "anahtar": "k9",
-          "destek": "dogrudan"
-        }
-      ],
-      "guven": "yuksek",
-      "inceleme": "Kaynagin 'Historical context' bolumunun kendi alt basliklaridir: Proposals for a controlled independence / Administrative and economic reforms / Military restructuring / Spread of Enlightenment ideals / Effects of the Napoleonic Wars. Kor hakem bu cumleyi tek nedenli anlatiyi kirmak icin ekledi."
-    },
-    {
-      "iddia_id": "i045",
-      "cumle": "Kitabın savı özette şöyle verilir: bağımsızlık, birçok araştırmacının ileri sürdüğünün aksine sömürgecilik karşıtı bir hareket oluşturmamış, daha geniş bir İspanyol siyasi devriminin parçasını meydana getirmiştir; Amerika'da bu devrime kimin yöneteceğine dair bir mücadele eşlik etmiştir.",
-      "onem": "merkezi",
-      "tur": "aktarim",
-      "kaynaklar": [
-        {
-          "anahtar": "k5",
-          "destek": "kismi"
-        }
-      ],
-      "guven": "orta",
-      "inceleme": "Ozet birebir: 'Rodriguez argues that independence did not constitute an anti-colonial movement, as many scholars assert, but rather formed part of the broader Spanish political revolution. In America, a struggle over who would govern accompanied this revolution.' Havuz kurali: crossref ustveri kaydi yazar/yil/baslik iddiasina dogrudan, makalenin bulgusuna en fazla OZET duzeyinde kismi destek verir. Ozet bulguyu birebir tasiyor ama kunye makalenin govdesi degildir; kor hakem destegi kismiye indirdi."
+      "inceleme": "1898 tarihi k9'dan dogrudan; Monroe'nun mevcut somurgeleri disarida birakan kaydi k3'ten dogrudan. Onceki surumdeki 'kitanin en buyuk iki Ispanyol adasi' ustunluk nitelemesi hicbir kaynakta yoktu; kor hakem kaldirdi. Bu turda ikinci dayanak eklendi: ABD Disisleri Bakanligi Tarihci Ofisi'nin Kuba sayfasi 'After Spain's defeat by U.S. and Cuban forces during the War of 1898, Spain relinquished sovereignty over Cuba' der. Kayit yalnizca Kuba'yi kapsar, Porto Riko icin ayri bir kayit tutmaz; destek bu yuzden KISMI."
     }
   ],
   "sayaclar": {
-    "dogrudan": 32,
-    "kismi": 13,
+    "dogrudan": 39,
+    "kismi": 11,
     "desteksiz": 0,
     "olculemez": 0
   },
@@ -668,6 +746,18 @@
       "onceki_hash": "c13fb0d0ba6c",
       "yeni_hash": "802de104f567",
       "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    },
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "802de104f567",
+      "yeni_hash": "5b5b7392ca4f",
+      "gerekce": "kaynak derinlestirme turu: Carta de Jamaica (k10), Cucuta Anayasasi (k11), ABD Disisleri Tarihci Ofisi kayitlari (k12/k13/k15) ve Purnell (k14) eklendi; toprak-mulkiyet duzeni ve tanima takvimi icin yeni iddialar acildi, bes zayif iddia govdeden dusuruldu, iddia yuzeyi degisti"
+    },
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "5b5b7392ca4f",
+      "yeni_hash": "0161a868db7e",
+      "gerekce": "Ikinci kor hakem turu: derinlestirme sonrasi sinama. k10-k15'in altisinin dogrulama dizesi ve iddia tasima gucu tek tek sinandi; yedi iddianin cumlesi duzeltildi (liste kirpmasi, dusurulen kaynak cekincesi, yanlis 'ayni cumlede' atfi), i050 eklendi, gizli 'bu dosya' oz-gonderimi kaldirildi."
     }
   ]
 }

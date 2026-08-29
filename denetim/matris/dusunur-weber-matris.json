@@ -1,9 +1,9 @@
 {
  "id": "dusunur-weber",
- "govde_hash": null,
- "commit": null,
+ "govde_hash": "da31a8bbcc22",
+ "commit": "d9e0ff7",
  "zaman": "2026-08-29",
- "hakem": "TASLAK-yazar",
+ "hakem": "kor-hakem-2026-08-29",
  "iddialar": [
   {
    "iddia_id": "i001",
@@ -49,7 +49,7 @@
   },
   {
    "iddia_id": "i004",
-   "cumle": "Weber'in kendi uyarısı burada belirleyicidir: böyle kurulmuş saf tiplerden birine tıpatıp uyan gerçek bir olguya rastlamak pek seyrek, belki de hiç mümkün değildir.[^k1]",
+   "cumle": "Weber'in kendi uyarısı burada belirleyicidir: tam da bu yüzden, böyle kurulmuş saf tiplerden birine tıpatıp uyan gerçek bir olguya rastlanması büyük olasılıkla pek seyrektir, belki de hiç mümkün değildir.[^k1]",
    "onem": "destek",
    "tur": "aktarim",
    "kaynaklar": [
@@ -59,11 +59,11 @@
     }
    ],
    "guven": "yuksek",
-   "inceleme": "Kaynagin 'seldom if ever' cekincesi metne aynen tasindi"
+   "inceleme": "Kaynagin 'probably seldom if ever' kaydi: hem 'seldom if ever' hem 'probably' korundu (hakem duzeltmesi)"
   },
   {
    "iddia_id": "i005",
-   "cumle": "Weber anlamayı ikiye ayırır. Bir kapı kolunu çeviren ya da bir hayvana nişan alan insanı doğrudan gözleyerek anlarız; buna karşılık birinin ikiyle ikinin dört ettiğini tam o anda yazmasını, defter kapattığını ya da bir kanıtlama yürüttüğünü bildiğimizde anlarız — ikincisi, edimi daha geniş ve anlaşılabilir bir bağlama yerleştiren güdü açıklamasıdır.[^k1]",
+   "cumle": "Weber anlamayı ikiye ayırır. Bir kapı kolunu çeviren ya da bir hayvana nişan alan insanı doğrudan gözleyerek anlarız; buna karşılık birinin ikiyle ikinin dört ettiğini tam o anda söylemesini ya da yazmasını, bir defteri denkleştirdiğini ya da bilimsel bir kanıtlama yürüttüğünü bildiğimizde anlarız — ikincisi, edimi daha geniş ve anlaşılabilir bir bağlama yerleştiren güdü açıklamasıdır.[^k1]",
    "onem": "destek",
    "tur": "aktarim",
    "kaynaklar": [
@@ -73,7 +73,7 @@
     }
    ],
    "guven": "yuksek",
-   "inceleme": ""
+   "inceleme": "Kaynak 'balancing a ledger or making a scientific demonstration' diyor; onceki metindeki 'defter kapatmak' duzeltildi (hakem)"
   },
   {
    "iddia_id": "i006",
@@ -161,7 +161,7 @@
   },
   {
    "iddia_id": "i012",
-   "cumle": "*Protestan Ahlakı*'nın çözmeye çalıştığı bilmece, sanıldığı gibi insanların neden zengin olmak istediği değildir. Weber tersini söyler: kazanma içgüdüsünün eski çağlarda bilinmediği ya da gelişmemiş olduğu doğru değildir; altın açlığı (*auri sacra fames*) burjuva kapitalizminin dışında da en az onun içindeki kadar güçlüdür ve Çinli bir mandarinin, eski bir Romalı soylunun ya da modern bir köylünün açgözlülüğü her karşılaştırmayı kaldırır — kapitalist ile kapitalizm öncesi ruh arasındaki fark bu noktada aranmamalıdır.[^k2]",
+   "cumle": "*Protestan Ahlakı*'nın çözmeye çalıştığı bilmece, sanıldığı gibi insanların neden zengin olmak istediği değildir. Weber tersini söyler: kapitalizm öncesi tutumun nedeni, sık söylendiği gibi, kazanma içgüdüsünün o çağlarda bilinmemesi ya da gelişmemiş olması değildir — hiç değilse bütünüyle bu değildir; altın açlığı (*auri sacra fames*) burjuva kapitalizminin dışında da en az onun içindeki kadar güçlüdür ve Çinli bir mandarinin, eski bir Romalı soylunun ya da modern bir köylünün açgözlülüğü her karşılaştırmayı kaldırır — kapitalist ile kapitalizm öncesi ruh arasındaki fark bu noktada aranmamalıdır.[^k2]",
    "onem": "merkezi",
    "tur": "aktarim",
    "kaynaklar": [
@@ -171,7 +171,7 @@
     }
    ],
    "guven": "yuksek",
-   "inceleme": ""
+   "inceleme": "Kaynagin 'not wholly because' sinirlayicisi geri kondu (hakem duzeltmesi); listedeki uc ornek kaynaktaki sirayla"
   },
   {
    "iddia_id": "i013",
@@ -203,7 +203,7 @@
   },
   {
    "iddia_id": "i015",
-   "cumle": "Savın motoru bir teoloji sorunudur. Kaderin önceden belirlenmişliği öğretisinin tutulduğu her yerde, insanın seçilmişler arasında sayılıp sayılmadığını gösterecek şaşmaz ölçütlerin bulunup bulunmadığı sorusu bastırılamaz hâle geliyordu; sıradan mümin için lütuf hâlinin tanınabilirliği anlamında kurtuluş güvencesi (*certitudo salutis*) belirleyici önem kazanıyordu.[^k3]",
+   "cumle": "Savın motoru bir teoloji sorunudur. Weber'in kurduğu zincir şudur: kaderin önceden belirlenmişliği öğretisinin tutulduğu her yerde, insanın seçilmişler arasında sayılıp sayılmadığını gösterecek şaşmaz ölçütlerin bulunup bulunmadığı sorusu bastırılamaz hâle geliyordu; sıradan mümin için lütuf hâlinin tanınabilirliği anlamında kurtuluş güvencesi (*certitudo salutis*) belirleyici önem kazanıyordu.[^k3]",
    "onem": "merkezi",
    "tur": "aktarim",
    "kaynaklar": [
@@ -213,7 +213,7 @@
     }
    ],
    "guven": "yuksek",
-   "inceleme": ""
+   "inceleme": "'her yerde' kaynagin kendi 'wherever'i; curutucunun kapsam itirazina karsi atif cercevesi eklendi (hakem)"
   },
   {
    "iddia_id": "i016",
@@ -273,7 +273,7 @@
   },
   {
    "iddia_id": "i020",
-   "cumle": "Kitabın kapanışı, en çok anılan ve en çok çarpıtılan yeridir. Weber, Baxter'ın dünyevi mallara duyulan kaygıyı her an omuzdan atılabilecek hafif bir pelerine benzetmesini anar, sonra kaderin başka türlü hükmettiğini yazar: Talcott Parsons'ın çevirisinde pelerinin dönüştüğü şey bir “demir kafes”tir.[^k4]",
+   "cumle": "Kitabın kapanışı, sık anılan ve sık çarpıtılan bir yerdir. Weber, Baxter'ın dünyevi mallara duyulan kaygıyı her an omuzdan atılabilecek hafif bir pelerine benzetmesini anar, sonra kaderin başka türlü hükmettiğini yazar: Talcott Parsons'ın çevirisinde pelerinin dönüştüğü şey bir “demir kafes”tir.[^k4]",
    "onem": "merkezi",
    "tur": "aktarim",
    "kaynaklar": [
@@ -283,7 +283,7 @@
     }
    ],
    "guven": "yuksek",
-   "inceleme": "Alinti Parsons cevirisinden; imgenin cevirmene ait oldugu ayni cumlede soyleniyor"
+   "inceleme": "Alinti Parsons cevirisinden; imgenin cevirmene ait oldugu ayni cumlede soyleniyor. Kaynaksiz 'en cok' ustunluk iddiasi kaldirildi (hakem)"
   },
   {
    "iddia_id": "i021",
@@ -301,17 +301,17 @@
   },
   {
    "iddia_id": "i022",
-   "cumle": "Sorun şu ki demir kafes Weber'in sözcüğü değildir. Almanca metinde geçen ifade *stahlhartes Gehäuse*'dir; Peter Baehr, Parsons'ın kanonik çevirisinin statüsünü, imgenin olası kaynağını — Bunyan'ın *Çilekeşin Yolculuğu* — ve Weber'in çelik sertliğinde kabuk ile uyandırmak istediği daha karmaşık fikri ayrı ayrı inceler.[^k6]",
+   "cumle": "Sorun şu ki demir kafes Weber'in sözcüğü değildir. Almanca metinde geçen ifade *stahlhartes Gehäuse*'dir; Peter Baehr, Parsons'ın kanonik çevirisinin statüsünü, imgenin olası kaynağını — Bunyan'ın *Pilgrim's Progress*'i — ve Weber'in çelik sertliğinde kabuk ile uyandırmak istediği daha karmaşık fikri ayrı ayrı inceler.[^k6]",
    "onem": "merkezi",
    "tur": "aktarim",
    "kaynaklar": [
     {
      "anahtar": "k6",
-     "destek": "dogrudan"
+     "destek": "kismi"
     }
    ],
    "guven": "yuksek",
-   "inceleme": "Crossref ozeti stahlhartes Gehause, Parsons, Bunyan ve 'shell as hard as steel' ogelerinin hepsini tasiyor"
+   "inceleme": "Crossref OZETI stahlhartes Gehause, Parsons, Bunyan ve 'shell as hard as steel' ogelerini tasiyor; tam metin erisimde degil, bu yuzden destek kismi (hakem). 'Cilekesin Yolculugu' yanlis cevirisi asil baslikla degistirildi"
   },
   {
    "iddia_id": "i023",
@@ -321,11 +321,11 @@
    "kaynaklar": [
     {
      "anahtar": "k6",
-     "destek": "dogrudan"
+     "destek": "kismi"
     }
    ],
    "guven": "yuksek",
-   "inceleme": ""
+   "inceleme": "Ozet kafes/kabuk farkini ve celigin insan yapimi olusunu birebir tasiyor; tam metin erisimde olmadigi icin destek kismi (hakem)"
   },
   {
    "iddia_id": "i024",
@@ -335,11 +335,11 @@
    "kaynaklar": [
     {
      "anahtar": "k6",
-     "destek": "dogrudan"
+     "destek": "kismi"
     }
    ],
    "guven": "yuksek",
-   "inceleme": "Ozetteki 'after examining objections' ve 'traveling idea' ogeleri korundu"
+   "inceleme": "Ozetteki 'after examining objections' ve 'traveling idea' ogeleri korundu; tam metin yok, destek kismi (hakem)"
   },
   {
    "iddia_id": "i025",
@@ -371,17 +371,21 @@
   },
   {
    "iddia_id": "i027",
-   "cumle": "Otoriteye dayalı ilişkileri üçlü bir sınıflandırmaya göre kümeler.[^k9]",
+   "cumle": "Otoriteye dayalı bütün ilişkileri üçlü bir sınıflandırmaya göre kümeler; ikinci kaynak aynı şemayı karizmaya, geleneğe ve yasal akılcılığa dayanan üç meşru egemenlik ideal tipi diye verir.[^k5][^k9]",
    "onem": "destek",
    "tur": "aktarim",
    "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    },
     {
      "anahtar": "k9",
      "destek": "dogrudan"
     }
    ],
    "guven": "yuksek",
-   "inceleme": ""
+   "inceleme": "Ansiklopedi tek dayanak kalmasin diye SEP eklendi: 'three ideal types of legitimate domination based on, respectively, charisma, tradition, and legal rationality' (hakem)"
   },
   {
    "iddia_id": "i028",
@@ -426,8 +430,50 @@
    "inceleme": ""
   },
   {
+   "iddia_id": "i045",
+   "cumle": "Bu üçüncü tipin gövdesi bürokrasidir ve Weber'in toplumun bürokratikleşmesi üzerine yazdıkları eserinin en öne çıkan bölümlerinden biri sayılır: ona göre bürokrasi toplumsal örgütlenmenin en verimli yöntemi ve biçimsel bakımdan en akılcı düzenidir, modern toplumun işlemesi için gereklidir ve yıkılması güçtür.[^k9]",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k9",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Kaynak: 'bureaucracy was the most efficient societal organisation method and the most formally rational system. It was necessary for modern society to function and would be difficult to destroy.' Ustunluk yargisi Weber'e atfedilerek verildi (hakem eklemesi: dalga notunun istedigi burokrasi boslugu)"
+  },
+  {
+   "iddia_id": "i046",
+   "cumle": "Bürokratik görevliler bürokrat olmayanlara karşı üstünlük duyar, güçlü bir ödev duygusu taşır ve sabit maaşları onları para kazanma peşinde koşmaktan alıkoyar; açıkça keyfî karar veremez, kararlarını kişisel iltimasa dayandıramazlar — bu kişisizlik hem verimliliğin kaynağı hem kapitalizme uygunluğun nedenidir ve Weber bürokrasiyi yalnız modern kapitalizmin değil modern sosyalizmin de varlık koşulu sayar.[^k9]",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k9",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Kaynak: gorevlilerin ustunluk duygusu, sabit maas, keyfi karar/iltimas yasagi, kisisizlik-verimlilik bagi ve 'a requirement for both modern capitalism and modern socialism' birebir (hakem eklemesi)"
+  },
+  {
+   "iddia_id": "i047",
+   "cumle": "İkincil kaynağın çerçevesinde aynı düzenek öngörülebilirlik üretir: hukuki biçimcilik ile bürokratik yönetim, yurttaşlığın biçimsel eşitliğini, kurallara bağlı bir yasamayı, özerk bir yargıyı ve siyasetten arındırılmış bir meslek bürokrasisini getirerek sanayi kapitalizminin muhtaç olduğu hesaplanabilirliği kurar.[^k5]",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "SEP: 'Legal formalism and bureaucratic management reinforce the elements of predictability ... formal equality of citizenship, a rule-bound legislation of legal norms, an autonomous judiciary, and a depoliticized professional bureaucracy.' Dort ogeli liste eksiksiz aktarildi (hakem eklemesi)"
+  },
+  {
    "iddia_id": "i031",
-   "cumle": "Tezin ampirik çekirdeği doğrudan sınandı. İktisatçılar Sascha O. Becker ve Ludger Woessmann, 2009'da *Quarterly Journal of Economics*'te yayımladıkları çalışmaya \"Weber yanılıyor muydu?\" sorusunu başlık yaptılar ve Protestan iktisadi tarihi için beşerî sermayeye dayanan bir kuram önerdiler.[^k8]",
+   "cumle": "Tezin ampirik çekirdeği iktisat tarihinin sınamasına açıldı. Sascha O. Becker ve Ludger Woessmann, 2009'da *Quarterly Journal of Economics*'te yayımladıkları çalışmanın başlığını \"Weber yanılıyor muydu?\" sorusuyla açtılar; başlığın ikinci yarısı Protestan iktisadi tarihi için beşerî sermayeye dayanan bir kuram duyurur — burada elde künye kaydından fazlası yoktur, aktarılan makalenin bulgusu değil başlığın kendisidir.[^k8]",
    "onem": "destek",
    "tur": "olgu",
    "kaynaklar": [
@@ -437,11 +483,11 @@
     }
    ],
    "guven": "orta",
-   "inceleme": "Kunye kaydi yazar, yil, dergi ve basligi dogrudan veriyor; Crossref kaydinda ozet yok, iddia baslikla sinirli tutuldu"
+   "inceleme": "Ustveri kunyesi: yazar/yil/dergi/baslik dogrudan. Ozet yok; iddia metinde acikca baslik duzeyine indirildi ve sinir okura bildirildi (hakem)"
   },
   {
    "iddia_id": "i032",
-   "cumle": "Değerden bağımsızlık ilkesi de hedef oldu: Alvin Gouldner 1962'de *Social Problems* dergisindeki yazısına *Değerden Bağımsız Toplumbilim Miti* başlığını koydu.[^k7]",
+   "cumle": "Değerden bağımsızlık ilkesi de hedef oldu: Alvin W. Gouldner 1962'de *Social Problems* dergisindeki yazısına *Anti-Minotaur: Değerden Bağımsız Toplumbilim Miti* başlığını koydu.[^k7]",
    "onem": "destek",
    "tur": "olgu",
    "kaynaklar": [
@@ -451,7 +497,7 @@
     }
    ],
    "guven": "orta",
-   "inceleme": "Kunye kaydi yazar, yil, dergi ve basligi dogrudan veriyor; ozet yok"
+   "inceleme": "Crossref basligi 'Anti-Minotaur: The Myth of a Value-Free Sociology'; kirpilan ana baslik geri kondu, yazar adi kayittaki 'Alvin W.' bicimine getirildi (hakem)"
   },
   {
    "iddia_id": "i033",
@@ -469,7 +515,7 @@
   },
   {
    "iddia_id": "i034",
-   "cumle": "Siyasal miras daha sert tartışılır. Weber'in bugüne dek Bonapartçı sezarizmi, edilgen-devrimci Fordist ideolojiyi, yarı-faşist seçkinciliği, hatta proto-Nazizmi barındırdığı ya da haber verdiği ileri sürülmüştür; suçlamayı yöneltenler arasında Leo Strauss, Herbert Marcuse ve Wolfgang Mommsen sayılır ve gerekçe özellikle Weber'in sağlam milliyetçiliği ile güce yönelik nihilist övgüsüdür.[^k5]",
+   "cumle": "Siyasal miras daha sert tartışılır. Weber'in bugüne dek Bonapartçı sezarizmi, edilgen-devrimci Fordist ideolojiyi, yarı-faşist seçkinciliği, hatta proto-Nazizmi barındırdığı ya da haber verdiği ileri sürülmüştür; kaynağın andığı adlar arasında Leo Strauss, Marcuse ve Wolfgang Mommsen vardır ve gerekçe özellikle Weber'in sağlam milliyetçiliği ile güce yönelik nihilist övgüsüdür.[^k5]",
    "onem": "destek",
    "tur": "yorum",
    "kaynaklar": [
@@ -479,11 +525,11 @@
     }
    ],
    "guven": "yuksek",
-   "inceleme": "Kaynak bu suclamalari 'criticized as harbouring or foreshadowing' kipinde veriyor; metin de iddia kipini koruyor"
+   "inceleme": "Kaynak suclamalari 'criticized as harbouring or foreshadowing' kipinde veriyor. Kaynak parantezde yalniz soyad+yil veriyor (Strauss 1950; Marcuse in Stammer 1971; Mommsen 1984; Rehman 2013); 'Leo Strauss' ve 'Wolfgang Mommsen' metinde birebir geciyor, 'Herbert' gecmedigi icin kaldirildi — hayalet ad (hakem)"
   },
   {
    "iddia_id": "i035",
-   "cumle": "Bu siyasal itirazların yanında kuramsal bir boşluk da vardır: tipoloji demokrasiye kavramsal bir yer bulmakta zorlanır. Bir yerde demokrasi dördüncü bir meşruiyet tipi sayılır — üç ideal tipin hepsi meşruiyete yukarıdan bakarken demokrasi aşağıdan gelene alan açabildiği için; başka yerlerde Weber demokrasiyi meşru bir egemenlik tipi değil, düpedüz meşru-olmayan sayar.[^k5]",
+   "cumle": "Bu siyasal itirazların yanında kuramsal bir boşluk da vardır: tipoloji demokrasiye kavramsal bir yer bulmakta zorlanır. Bir yerde demokrasi dördüncü bir meşruiyet tipi sayılır — üç ideal tipin hepsi meşruiyete yukarıdan bakarken demokrasi aşağıdan gelene alan açabildiği için; kaynak bu okumayı kendi metnine değil Breuer'e dayandırır; başka yerlerde Weber demokrasiyi meşru bir egemenlik tipi değil, düpedüz meşru-olmayan sayar.[^k5]",
    "onem": "destek",
    "tur": "aktarim",
    "kaynaklar": [
@@ -493,7 +539,7 @@
     }
    ],
    "guven": "yuksek",
-   "inceleme": "Kaynagin iki farkli Weber konumunu ('fourth type' / 'non-legitimate') birlikte verdigi kayit korundu"
+   "inceleme": "Kaynak 'fourth type' okumasini [Breuer in Schroeder (ed.) 1998, 2] kaydina baglar; gizlenen aktarim halkasi metne acildi (hakem)"
   },
   {
    "iddia_id": "i036",
@@ -517,11 +563,11 @@
    "kaynaklar": [
     {
      "anahtar": "k6",
-     "destek": "dogrudan"
+     "destek": "kismi"
     }
    ],
    "guven": "yuksek",
-   "inceleme": ""
+   "inceleme": "Ozet duzeyinde destek; tam metin erisimde degil (hakem)"
   },
   {
    "iddia_id": "i038",
@@ -623,8 +669,8 @@
   }
  ],
  "sayaclar": {
-  "dogrudan": 38,
-  "kismi": 6,
+  "dogrudan": 37,
+  "kismi": 10,
   "desteksiz": 0,
   "olculemez": 0
  }

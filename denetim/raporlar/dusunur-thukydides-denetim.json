@@ -1,9 +1,9 @@
 {
   "id": "dusunur-thukydides",
   "gecis": 2,
-  "zaman": "2026-08-29T20:17:21.309Z",
-  "govde_hash": "da3447be3a16",
-  "commit": "4a5044d",
+  "zaman": "2026-08-29T20:30:39.257Z",
+  "govde_hash": "c048f3d73f29",
+  "commit": "d9e0ff7",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -103,6 +103,12 @@
     },
     {
       "anahtar": "k1",
+      "iddia": "Mytilene ayaklanmasından sonra Atina meclisi, öfkenin sıcağında, yalnız elindeki tutsakları değil kentin bütün yetişkin erkeklerini öldürme ve kadınlarla çocukl",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Atina"
+    },
+    {
+      "anahtar": "k1",
       "iddia": "Kleon kararın değiştirilmemesini savunur ve savını demokrasinin imparatorluğu yönetmeye elverişsiz olduğu iddiasıyla açar.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
@@ -138,6 +144,12 @@
       "not": ""
     },
     {
+      "anahtar": "k7",
+      "iddia": "Uluslararası ilişkiler yazını gerçekçiliğin köklerini Thukydides'in tarihinde arayagelmiştir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Thukydides"
+    },
+    {
       "anahtar": "k2",
       "iddia": "Atinalı elçiler, hakkın ancak eşit güçler arasında söz konusu olduğunu, geri kalan durumda \"güçlü olan yapabildiğini yapar, güçsüz olan çekmesi gerekeni çeker\" ",
       "durum": "ATOMSUZ",
@@ -159,13 +171,19 @@
       "anahtar": "k3",
       "iddia": "Devrimin kentten kente yayıldığını, sonradan gelenlerin öncekileri aşmaya çalıştığını yazar ve ardından şu tespiti koyar: \"Sözcükler olağan anlamlarını değiştir",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sözcükler, Pervasız"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sözcükler, Ardından"
     },
     {
       "anahtar": "k3",
       "iddia": "Devrimin kentten kente yayıldığını, sonradan gelenlerin öncekileri aşmaya çalıştığını yazar ve ardından şu tespiti koyar: \"Sözcükler olağan anlamlarını değiştir",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sözcükler, Pervasız"
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sözcükler, Ardından"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bozulmanın nedenini de aynı bölümde yazar: savaş günlük ihtiyaçların kolay karşılanmasını ortadan kaldırır ve sert bir öğretmen olarak çoğu insanın karakterini ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
@@ -181,7 +199,7 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "İtirazın somut ayağı Megara kararnameleridir: Thukydides dışındaki anlatılar savaşın çıkışını bütünüyle bu kararnameler üzerinden kurar, oysa Thukydides üç kara",
+      "iddia": "İtirazın somut ayağı Megara kararnameleridir: savaşın çıkışını anlatan Thukydides dışı kaynaklar müzakereleri bütünüyle bu kararnameler üzerinden kurar, oysa Th",
       "durum": "OK",
       "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
@@ -199,31 +217,31 @@
     },
     {
       "anahtar": "k6",
-      "iddia": "Bir 2025 çalışması, Thukydides'in konuşmaların nedensel etkisi konusunda bilerek belirsiz kaldığını ve bu belirsizliğin savaşın çıkışına dair anlatının merkezin",
+      "iddia": "Daniel Sutton'un 2025 tarihli çalışması, Thukydides'in konuşmaların nedensel etkisi konusunda bilerek belirsiz kaldığını ve bu belirsizliğin savaşın çıkışına da",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k8",
-      "iddia": "Melos Diyalogu'nun anahtar cümlesi de yeniden okunuyor: bir 2026 makalesi, Atinalıların adaleti eşit zorunluluğa bağlayan sözünün uzun süredir gücün ahlaktan ön",
+      "iddia": "Melos Diyalogu'nun anahtar cümlesi de yeniden okunuyor: Mark Fisher'ın 2026 tarihli makalesi, Atinalıların adaleti eşit zorunluluğa bağlayan sözünün uzun süredi",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k7",
-      "iddia": "Cornell University Press'in bu soruya ayrılmış kitabının özeti, iki düşünürün de gerçekçiliğin sınırlarına tam oturmadığını kabul eder, Hobbes'un felsefesinin g",
-      "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k9",
-      "iddia": "2024 tarihli bir değerlendirme, benzetmenin kötü tarih ve kötü kuram olduğu suçlamasının haklı bulunduğunu ama meselenin asıl ağırlığının başka yerde durduğunu ",
+      "iddia": "Laurie M. Johnson'ın bu soruya ayrılmış kitabının Cornell University Press'te yayımlanan özeti, iki düşünürün de gerçekçiliğin sınırlarına tam oturmadığını kabu",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k9",
-      "iddia": "Öznelerinin okuyup etrafından dolaşmaya çalıştığı bir yapısal kuram, yapısal kuramların iddia ettiği işi yapmıyordur.",
+      "iddia": "Noor Saeed Khan ile Muzaffar Khan Zafar'ın 2024 tarihli değerlendirmesi, benzetmenin kötü tarih ve kötü kuram olduğu suçlamasının haklı bulunduğunu ama meseleni",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Değerlendirmenin kendi çıkardığı sonuç şudur: öznelerinin okuyup etrafından dolaşmaya çalıştığı bir yapısal kuram, yapısal kuramların iddia ettiği işi yapmıyord",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

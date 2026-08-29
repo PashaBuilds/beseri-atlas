@@ -1,8 +1,8 @@
 {
   "mod": "--lint",
-  "zaman": "2026-08-29T20:20:25.589Z",
+  "zaman": "2026-08-29T21:13:32.223Z",
   "gecti": true,
-  "makale_sayisi": 505,
+  "makale_sayisi": 517,
   "kapilar": [
     {
       "kapi": "KAPI 1 — Zod sema dogrulamasi",
@@ -29,7 +29,7 @@
       "kapi": "KAPI 5 — link butunlugu",
       "gecti": true,
       "hata": 0,
-      "uyari": 210,
+      "uyari": 301,
       "hatalar": []
     },
     {
@@ -53,8 +53,8 @@
       "uyari": 0,
       "hatalar": [],
       "olcum": {
-        "olculen": 421,
-        "hedefTutan": 256,
+        "olculen": 433,
+        "hedefTutan": 268,
         "borclu": 165,
         "eksikKelime": 119907,
         "tipOzet": {
@@ -64,8 +64,8 @@
             "eksik": 0
           },
           "olay": {
-            "n": 99,
-            "tutan": 41,
+            "n": 100,
+            "tutan": 42,
             "eksik": 47851
           },
           "aktor": {
@@ -74,13 +74,13 @@
             "eksik": 42358
           },
           "dusunur": {
-            "n": 54,
-            "tutan": 31,
+            "n": 57,
+            "tutan": 34,
             "eksik": 19024
           },
           "kavram": {
-            "n": 90,
-            "tutan": 55,
+            "n": 98,
+            "tutan": 63,
             "eksik": 10674
           },
           "tartisma": {
@@ -98,12 +98,12 @@
       "uyari": 0,
       "hatalar": [],
       "olcum": {
-        "olculen": 505,
-        "toplamKunye": 2290,
+        "olculen": 517,
+        "toplamKunye": 2387,
         "kuralIhlali": 144,
-        "birincilsiz": 172,
-        "toplamGiris": 591,
-        "birincilKunye": 641,
+        "birincilsiz": 173,
+        "toplamGiris": 594,
+        "birincilKunye": 693,
         "turlenmemis": 0
       }
     },
@@ -122,9 +122,9 @@
       "hatalar": [],
       "olcum": {
         "toplam": 301,
-        "dogrulanmis": 160,
+        "dogrulanmis": 155,
         "kismi": 58,
-        "kisiDegil": 83,
+        "kisiDegil": 88,
         "kutuk": 270,
         "olu": 1
       }
@@ -160,7 +160,7 @@
         "olculen": 287,
         "dogru": 287,
         "atlanan": 0,
-        "yuzey": 6623,
+        "yuzey": 6883,
         "seri": 9
       }
     }

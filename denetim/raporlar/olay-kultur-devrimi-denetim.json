@@ -1,9 +1,9 @@
 {
   "id": "olay-kultur-devrimi",
   "gecis": 2,
-  "zaman": "2026-08-29T19:51:22.198Z",
-  "govde_hash": "1836ca08f0ba",
-  "commit": "b8cff98",
+  "zaman": "2026-08-29T20:59:29.546Z",
+  "govde_hash": "3c554b0ed772",
+  "commit": "92d1168",
   "sonuclar": [
     {
       "anahtar": "k3",
@@ -13,9 +13,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Üç gün sonra Merkez Komite, hareketin programını on altı maddede ilan etti; amaç kapitalist yolu tutmuş iktidar sahiplerini devirmek, burjuva akademik \"otorite\"",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Merkez, Komite"
+      "iddia": "Üç gün sonra, 8 Ağustos 1966'da, Merkez Komite hareketin programını on altı maddede ilan etti; amaç kapitalist yolu tutmuş iktidar sahiplerini devirmek, burjuva",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -31,9 +31,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Aynı belge hareketin \"did not in fact constitute a revolution or social progress in any sense\" olduğunu söyler.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Aynı 1981 belgesi hareketin \"did not in fact constitute a revolution or social progress in any sense\" olduğunu söyler.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -49,9 +49,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Metin tartışmaların olguları ortaya koyarak ve akıl yürüterek yapılmasını ister, farklı görüşteki azınlığın görüşünü kabule zorlanmasını kabul edilemez sayar, a",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Ağustos 1966 metni tartışmaların olguları ortaya koyarak ve akıl yürüterek yapılmasını ister, farklı görüşteki azınlığın görüşünü kabule zorlanmasını kabul edil",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
@@ -61,9 +61,15 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Merkez Komite kararının ilk maddesi hedefi burjuvazinin ve sömürücü sınıfların eski fikirleri, kültürü, gelenekleri ve alışkanlıkları diye tanımlamıştı; \"dört e",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Komite"
+      "iddia": "Merkez Komite'nin Ağustos 1966 kararının ilk maddesi hedefi burjuvazinin ve sömürücü sınıfların eski fikirleri, kültürü, gelenekleri ve alışkanlıkları diye tanı",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Merkez Komite'nin Ağustos 1966 kararının ilk maddesi hedefi burjuvazinin ve sömürücü sınıfların eski fikirleri, kültürü, gelenekleri ve alışkanlıkları diye tanı",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k4",
@@ -73,21 +79,21 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "Aynı haber Şanghay'daki büyük mağazalardan birinin adının değiştirilmesi önerisini, fabrikalardaki benzer girişimleri ve Halk Kurtuluş Ordusu birliklerinin öğre",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Şanghay, Halk, Kurtuluş, Ordusu"
+      "iddia": "Peking Review'un 2 Eylül 1966 tarihli aynı haberi Şanghay'daki büyük mağazalardan birinin adının değiştirilmesi önerisini, fabrikalardaki benzer girişimleri ve ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k4",
-      "iddia": "Bu künye taraf bir metindir ve öyle okunmalıdır: olayı anlatan kurum, olayı düzenleyen kurumun yayın organıdır ve yıkımı bir kazanım olarak yazar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Bu haber Peking Review'un kendi yayınıdır ve taraf bir metin olarak okunmalıdır: olayı anlatan kurum, olayı düzenleyen kurumun yayın organıdır ve yıkımı bir kaz",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Aynı sürecin on beş yıl sonraki resmî değerlendirmesi ise sözde \"gerici akademik otoriteler\" eleştirisi sırasında çok sayıda yetenekli aydının saldırıya uğrayıp",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Aynı sürecin 1981'deki resmî değerlendirmesi ise sözde \"gerici akademik otoriteler\" eleştirisi sırasında çok sayıda yetenekli aydının saldırıya uğrayıp zulme uğ",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -97,9 +103,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Kararın kendi değerlendirmesi bu adımı iki yönlü kaydeder — durumu istikrara kavuşturmakta olumlu rol oynadı, ama olumsuz sonuçlar da doğurdu.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "1981 kararının kendi değerlendirmesi bu adımı iki yönlü kaydeder — durumu istikrara kavuşturmakta olumlu rol oynadı, ama olumsuz sonuçlar da doğurdu.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -114,16 +120,28 @@
       "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
+      "anahtar": "k10",
+      "iddia": "Merkez Komite ile Devlet Konseyi 13 Haziran 1966'da bir genelge yayımladı: yükseköğretime giriş sınavı ve öğrenci alma yöntemi baştan değiştirilecek, o yılın ün",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Genelgenin 13 Haziran 1966 tarihli metni gerekçeyi de yazar: kampanya kolejlerde, üniversitelerde ve lise düzeyindeki okullarda daha yeni gelişmektedir ve sonun",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
       "anahtar": "k9",
-      "iddia": "Okullar ve üniversiteler kapandı, ulusal yükseköğretim giriş sınavları iptal edildi.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Uygulama 1966'daki ertelemeyle sınırlı kalmadı: ansiklopedik başvuru kaydı okulların ve üniversitelerin kapandığını, ulusal yükseköğretim giriş sınavlarının ipt",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "On altı maddelik karar eğitimin dönüştürülmesini zaten programa yazmıştı: öğrenim süresi kısaltılacak, dersler azaltılıp iyileştirilecek, öğrenciler eğitimin ya",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "On altı maddelik 1966 kararı eğitimin dönüştürülmesini zaten programa yazmıştı: öğrenim süresi kısaltılacak, dersler azaltılıp iyileştirilecek, öğrenciler eğiti",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k9",
@@ -132,16 +150,22 @@
       "not": ""
     },
     {
-      "anahtar": "k9",
-      "iddia": "Bu sayı tek bir kaynağın içinde bile sabit değildir: aynı ansiklopedi maddesinin giriş bölümü kentli alanlardan yerinden edilenleri \"10 milyondan fazla\" diye ve",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k12",
+      "iddia": "Aynı 17 milyonluk sayı akademik yayında da geçer, ama başka bir pencereye bağlanır: Yihong Pan'ın rustikasyon hareketi üzerine kitabı bu sayıyı 1953 ile 1980 ar",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k9",
-      "iddia": "Bu kuşak sonradan kayıp kuşak diye anıldı.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Sayı tek bir kaynağın içinde bile sabit değildir: aynı ansiklopedi maddesinin giriş bölümü kentli alanlardan yerinden edilenleri 10 milyon üzeri diye verir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Bu kuşak sonradan Michel Bonnin'in kayıp kuşak dediği topluluk olarak anıldı.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -157,9 +181,27 @@
     },
     {
       "anahtar": "k9",
-      "iddia": "Bir Sovyet soruşturma ekibi kazanın nedenini belirleyemedi, yalnızca pilotun radardan kaçmak için alçaktan uçarken irtifayı yanlış hesaplamış olabileceğini vars",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sovyet"
+      "iddia": "Aynı başvuru kaydı bir Sovyet soruşturma ekibinin kazanın nedenini belirleyemediğini, Lin Biao anlatısının ise rota, yolcuların kimliği ve gerçekten bir darbe g",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Kazanın nasıl olduğu üç yıl sonra bile kapanmamıştı: Kasım 1974'te Vladivostok'ta ABD Dışişleri Bakanı Henry Kissinger, Sovyet Dışişleri Bakanı Andrei Gromyko'y",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Tarihin kendisi de kaynaktan kaynağa oynar: aynı ABD belgesinin editör dipnotu kazayı 21 Eylül 1971'e tarihler, resmî Çin anlatısını aktaran başvuru kaydı ise 1",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Tarihin kendisi de kaynaktan kaynağa oynar: aynı ABD belgesinin editör dipnotu kazayı 21 Eylül 1971'e tarihler, resmî Çin anlatısını aktaran başvuru kaydı ise 1",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k9",
@@ -169,13 +211,13 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "1987 sonrasında yayımlanmış 1.520 ilçe yıllığından çıkarılan bilgiye dayanan bir çalışma, kısa kayıtların daha az kayıp bildirme eğilimini düzelterek ve uzun ka",
+      "iddia": "1987 sonrasında yayımlanmış 1.520 ilçe yıllığından çıkarılan bilgiye dayanan Andrew G. Walder ile Yang Su'nun çalışması, kısa kayıtların daha az kayıp bildirme ",
       "durum": "OK",
-      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "9 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k6",
-      "iddia": "Aynı yazarın 2.213 ilçe ve şehir yıllığına dayanan daha geniş çalışması, yayımlanmış rakamları iç soruşturma raporlarıyla karşılaştırıp örneklem seçimi modeller",
+      "iddia": "Walder'in 2.213 ilçe ve şehir yıllığına dayanan daha geniş çalışması, yayımlanmış rakamları iç soruşturma raporlarıyla karşılaştırıp örneklem seçimi modelleriyl",
       "durum": "OK",
       "not": ""
     },
@@ -187,15 +229,27 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "Mağdur sayıları da toplanamaz: biri bir tür siyasi baskıya uğrayanları, öteki doğrudan mağdurları sayar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Bu iki aralığın atlasta doğrulanabilen dayanağı, yayıncı tarafından kapatılmış tam metinler değil, Andrew G. Walder ile Yang Su'nun kendi yayımlanmış özetleridi",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k6",
-      "iddia": "Mağdur sayıları da toplanamaz: biri bir tür siyasi baskıya uğrayanları, öteki doğrudan mağdurları sayar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Bu iki aralığın atlasta doğrulanabilen dayanağı, yayıncı tarafından kapatılmış tam metinler değil, Andrew G. Walder ile Yang Su'nun kendi yayımlanmış özetleridi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Mağdur sayıları da toplanamaz: 36 milyon rakamı bir tür siyasi baskıya uğrayanları, 22 ile 30 milyon arasındaki aralık doğrudan mağdurları sayar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Mağdur sayıları da toplanamaz: 36 milyon rakamı bir tür siyasi baskıya uğrayanları, 22 ile 30 milyon arasındaki aralık doğrudan mağdurları sayar.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k6",
@@ -211,21 +265,21 @@
     },
     {
       "anahtar": "k7",
-      "iddia": "Yazı, olayın Çin'i kargaşaya sürüklediğini, en az bir kıdemli Siyasi Büro üyesinin ve iki üst düzey parti propaganda yetkilisinin siyasi kariyerine son verdiğin",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin, Siyasi, Büro"
+      "iddia": "Değerlendirmeyi yazan Ellis Joffe, olayın Çin'i kargaşaya sürüklediğini, en az bir kıdemli Siyasi Büro üyesinin ve iki üst düzey parti propaganda yetkilisinin s",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k5",
-      "iddia": "Kampanyayı yalnız bir saray kavgası saymak, milyonlarca insanın gerçekten seferber olduğunu ve kayıpların kitlesel ölçeğini açıklamaz.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Kampanyayı yalnız bir saray kavgası saymak, Walder ile Su'nun kırsalda ölçtüğü kitlesel kaybı ve milyonlarca insanın gerçekten seferber olduğunu açıklamaz.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k6",
-      "iddia": "Onu bir kitle hareketi olarak yüceltmek ise kayıpların büyük çoğunluğunun yetkililerin baskısından doğduğu bulgusuyla çelişir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Onu bir kitle hareketi olarak yüceltmek ise Walder'in kayıpların büyük çoğunluğunu ayaklananlara değil yetkililerin baskısına bağlayan bulgusuyla çelişir.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -241,7 +295,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Beş yıl sonra kabul edilen karar hükmü verdi: hata baş sorumluluğu Mao Zedong'a aittir, ama karar bunu büyük bir proleter devrimcinin hatası diye niteler — yani",
+      "iddia": "Beş yıl sonra kabul edilen karar hükmü verdi: hata baş sorumluluğu Mao Zedong'a aittir, ama karar bunu büyük bir proleter devrimcinin hatası diye niteler ve hat",
       "durum": "OK",
       "not": ""
     },
@@ -253,9 +307,9 @@
     },
     {
       "anahtar": "k8",
-      "iddia": "Aynı değerlendirme, eski Kızıl Muhafızların ve kırsala gönderilen gençlerin her şeye rağmen eleştirel bir halk hafızası oluşturabildiğini, ama bu dağınık hafıza",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kızıl, Muhafızların"
+      "iddia": "Aynı değerlendirmede Bonnin, eski Kızıl Muhafızların ve kırsala gönderilen gençlerin her şeye rağmen eleştirel bir halk hafızası oluşturabildiğini, ama bu dağın",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     }
   ]
 }

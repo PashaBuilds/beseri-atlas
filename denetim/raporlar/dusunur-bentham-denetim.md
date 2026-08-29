@@ -1,0 +1,53 @@
+## dusunur-bentham
+_Geçiş 2 — kaynak denetimi · 2026-08-29T20:57:27.410Z_
+
+- [ATOMSUZ] k5 → "Kitabın ilk cümlesi bir tanım değil bir yerleştirmedir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Doğa insanlığı acı ile hazzın, yani "iki egemen efendi"nin yönetimi altına koymuştur; neyi yapmamız gerektiğin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Kaynağın klasik faydacılardan önce saydığı çizgi Cumberland, Shaftesbury, Hutcheson, Gay ve Hume'u kapsar; bun…"
+- [OK]      k5 → "ile arasındaki ünlü ayrım da ancak buradan sonra anlaşılır: Mill'in eklediği nitelikli haz ayrımı, kaynağın ka…"
+- [ATOMSUZ] k2 → "Birden çok kişi söz konusuysa yedinci bir ölçüt devreye girer: kapsam, yani etkilenen kişi sayısı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bentham son iki ölçüt için kendi kaydını düşer: verimlilik ile saflık, sıkı konuşulursa hazzın ya da acının ke…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Daha önemli bir çekince de metnin kendisindedir: bu yordamın her ahlaki yargıdan ya da her yasama işleminden ö…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Yine de uygulanabilirlik itirazı ayakta kalır ve ikincil kaynak da bunu sık dile getirilmiş bir itiraz olarak …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Aynı miktarda paranın, zenginin servetine eklendiğinde yoksula verildiğinden daha az mutluluk ürettiğini Benth…"
+- [OK]      k5 → "Fayda ilkesini ve ona bağlı düşünceleri 1769'da Hume, Helvétius ve Beccaria'da bulduğunu söyler."
+- [OK]      k5 → "Hutcheson'ın 1729 tarihli formülasyonundan haberi yoktu; kaynağın kaydına göre zaman zaman hatalı bellek yüzün…"
+- [OK]      k5 → "Aynı kaynak, Beccaria'ya yaptığı atfı daha akla yatkın bulur: 1764 tarihli Dei Delitti e delle Pene'de İtalyan…"
+- [OK]      k5 → "Kaynak, Bentham'ın bu sonucu yanlış saydığını ama yine de karşılanması gereken bir sonuç olarak gördüğünü ekle…"
+- [ATOMSUZ] k5 → "Kendi çözümlemesinde azınlığın duyguları hesaptan düşüldüğünde topluluğun toplam mutluluk stokunda kâr değil z…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Değiştirmenin izi ana yapıtın kendisinde de görülür: 1822'de eklediği bir dipnotta, adlandırmaya son zamanlard…"
+- [OK]      k1 → "Fayda ilkesinin tehlikeli olduğunu söyleyen kişinin, o sırada başsavcı ya da başsavcı yardımcısı olan Alexande…"
+- [ATOMSUZ] k5 → "Sonraki siyaset yazılarında sık dönen sinsi çıkar fikrinin izi buradadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Yedinci ölçüt kimin sayılacağını belirlemez; yalnızca sayılanların hepsinin sayılmasını ister." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Ceza hukukunun sınırlarını tartıştığı on yedinci bölümde, çıkarları eski hukukçuların duyarsızlığı yüzünden ih…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Yetişkin bir at ya da köpek, bir günlük hatta bir aylık bir bebekten kıyaslanamayacak ölçüde daha akıl yürüten…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Soru, akıl yürütebilirler mi ya da konuşabilirler mi değil, "acı çekebilirler mi"dir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Aynı dipnot de anar: türün büyük bölümünün köle adı altında hukuk önünde tam da hayvanların durumunda tutulduğ…" — programatik olarak ölçülemedi (ad karşılığı yok): Fransızların
+- [OK]      k5 → "Suçların yalnızca yol açtıkları zarara göre sınıflandırılması gerektiği kuralına dayanarak rızaya dayalı cinse…"
+- [OK]      k5 → "Bentham 1786-87'de Rusya'da, Potemkin'in hizmetindeki kardeşi Samuel'in yanındaydı; oradaki fikri devraldı ve …"
+- [OK]      k4 → "Metnin kendisi de bunu saklamaz: tasarım mektuplarda kardeşinin planı diye anılır ve mektupların 1787'de Rusya…"
+- [ATOMSUZ] k4 → "Bentham'ın motor dediği şey budur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Beşinci mektup bunu açıkça ayırır: özsel olan, denetçinin konumunun merkezîliği ile "görülmeden görme"nin bili…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Amaçlanan da kesintisiz gözetim değil, gözetildiğine inanmaktır — her an gerçekten görülmek imkânsız olduğuna …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "bu düzenekten yeni bir iktidar fiziği, davranışın değiştirilebildiği bir iktidar laboratuvarı çıkardı ve panop…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Kaynağın hükmü, bu okumanın Bentham'ın önerilerine yöneltilmiş bir eleştiri olarak projenin inceliklerine hakk…"
+- [ATOMSUZ] k5 → "Bentham'ın tasarımında gözetilen yalnız mahkûm değildir: halka ve parlamento üyelerine hapishaneye serbest gir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "İlkeyi okullara uygularken karşı tarafın soracaklarını sıralar: bu kesintisiz baskı zihnin gelişimine onarılma…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Verdiği cevap ölçütünü hiç terk etmez: ister asker deyin, ister keşiş, ister makine — mutlu olmaları koşuluyla…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Londra'da yeni bir hapishane yapımına 1794 tarihli yasayla izin verilmişti ve Bentham'ın planı önce Pitt yönet…"
+- [ATOMSUZ] k6 → "Bentham hukuk kuramcısı olarak yola çıktı ve ilk hedefi hukuk dilindeki kurgulardı: bir şeyin bir yönünü o şey…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Hak ona göre yasal ve belirlidir; yasanın dışında olsa olsa böyle şeyler olmasını dilemek için bir gerekçedir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Bu tutum, bugün tartışmasında hukuki pozitivizm diye anılan çizginin erken bir biçimi sayılır; kaynak bu nitel…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Benjamin Constant, Bentham'ın özgünlüğünü takdir etmekle birlikte 1810 tarihli kitabında faydanın belirsizliği…"
+- [OK]      k5 → "Bir süre Bentham'ın kiracısı olan William Hazlitt onu, hücresinde hukuku dizgeye ve insan zihnini makineye ind…"
+- [ATOMSUZ] k5 → "Marx ise faydacılığı yüzeysel ve geçici bir burjuva ideolojisi saydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "İtiraza göre toplam faydanın hesaplanması kişiler arasındaki ayrımı ciddiye almaz ve tek tek bireylerin çıkarl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "İtiraz T. H. Green'den bu yana sürüyor ve Rawls ile Nozick tarafından yeniden dile getirildi."
+- [ATOMSUZ] k5 → "Bentham'ın kendi metinlerinden verilebilecek bir cevabı vardır — birinin servetini başkalarınınkini artırmak i…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Birincisi, en büyük mutluluk formülünü Bentham'ın buluşu saymaktır; kendisi kaynağını başkalarına bağlar, bağl…"
+- [ATOMSUZ] k4 → "İkincisi, onu panoptikona indirgemektir: gözetim düzeneği, kendi metninde yöneticiyi de kapsayan bir kamuya aç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "İkincisi, onu panoptikona indirgemektir: gözetim düzeneği, kendi metninde yöneticiyi de kapsayan bir kamuya aç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Üçüncüsü, Bentham ile Mill arasındaki mesafeyi olduğundan büyük göstermektir; Warke ve Rosen gibi son dönem yo…"
+- [ATOMSUZ] k5 → "Bentham'ın cevabı, hesabın kendisinden çok hesabın açık yapılmasında düğümlenir; kendi projesinin başına gelen…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+
+**Özet:** 19 OK · 0 ISARET · 0 HATA · 29 ATOMSUZ

@@ -1,5 +1,5 @@
 # Çürütücü raporu — olay-kultur-devrimi
-_2026-08-29T20:12:07.426Z_
+_2026-08-29T20:59:29.808Z_
 
 ## Zayıf bulunmayan alanlar
 

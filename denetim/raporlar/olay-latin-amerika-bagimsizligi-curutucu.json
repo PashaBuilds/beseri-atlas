@@ -1,8 +1,8 @@
 {
   "id": "olay-latin-amerika-bagimsizligi",
   "gecis": 3,
-  "zaman": "2026-08-29T20:12:07.427Z",
-  "govde_hash": "802de104f567",
+  "zaman": "2026-08-29T21:05:13.157Z",
+  "govde_hash": "0161a868db7e",
   "itirazlar": [
     {
       "ciddiyet": "dusuk",
@@ -14,9 +14,16 @@
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Boşluğun ilk yanıtı bağımsızlık değildi: bazı büyük kentler ve başkentler, İspanyol geleneğinin hukukuna dayanarak yerel yönetim kurulları kurdu; 1809'da Chuquisaca, La Paz ve Quit",
+      "cumle": "Boşluğun ilk yanıtı bağımsızlık değildi: bazı büyük kentler İspanyol geleneğinin hukukuna dayanarak yerel yönetim kurulları kurdu; 1809'da Chuquisaca, La Paz ve Quito'daki kısa ömü",
       "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Bolívar'ın konumu sabit değildir. Kingston'dan 6 Eylül 1815'te yazdığı mektup Angostura'dan dört yıl öncedir; Amerikalıları \"ülkenin meşru sahipleri ile İspanyol gaspçılar arasında",
+      "sorun": "Makale amerika/avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
     },
     {
       "ciddiyet": "orta",
@@ -24,13 +31,6 @@
       "cumle": "Bolívar'ın 15 Şubat 1819'da Angostura Kongresi'ne yaptığı açılış konuşması, aynı soruyu bambaşka bir yerden kurar. Kopan parçaların eski birliklerini yeniden kurabildiği bir dünyad",
       "sorun": "Makale amerika/avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
       "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
-    },
-    {
-      "ciddiyet": "orta",
-      "tip": "kesinlik-dili",
-      "cumle": "İkinci sayı takımı daha da dolaylıdır. Ayacucho'da birliklerin yüzde yirmisinden azının İspanyol olduğu ve bu savaşlarda ölen *nativos* sayısının yaklaşık 35.000 olduğu bilgisi, ma",
-      "sorun": "Kesinlik ifadesi \"hiçbir zaman\" atıf çerçevesi olmadan kullanılmış.",
-      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
     },
     {
       "ciddiyet": "orta",

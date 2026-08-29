@@ -1,0 +1,135 @@
+{
+  "id": "kavram-seferberlik",
+  "gecis": 2,
+  "zaman": "2026-08-29T21:02:57.186Z",
+  "govde_hash": "49b1f3a065c3",
+  "commit": "92d1168",
+  "sonuclar": [
+    {
+      "anahtar": "k3",
+      "iddia": "27 Temmuz 1914'te Rus Harbiye Nâzırı, Alman askerî ataşesine hiçbir seferberlik emri verilmediği, yalnızca hazırlık yapıldığı konusunda namusu üzerine söz verdi",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Seferberlik ise çoktan var olan insan, hayvan, silah ve erzak yığınının hangi gün nerede bulunacağını düzenler; başvurulan tanım da işlemi askeri ve ikmali sava",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ayrımı madde madde izlenebilir kılan belge, Fransız Devrimi'nin levée en masse kararnamesidir.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Fransız, Devrimi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "23 Ağustos 1793 tarihli levée en masse kararnamesi, düşman Cumhuriyet topraklarından sürülene kadar bütün Fransızları orduların hizmeti için sürekli mükellefiye",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kamu binaları kışlaya, meydanlar silah atölyesine çevrilecek, mahzen toprağı güherçile çıkarmak için yıkanacaktı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Binek atları süvari birliklerini tamamlamak üzere, tarımda kullanılmayanların dışındaki koşum atları ise topçuyu ve erzakı taşımak üzere mükellefiyete alındı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kamu Selameti Komitesi'ne olağanüstü silah imalatı kurma yetkisi verildi; harbiye nâzırının emrine, üç anahtarlı kasada duran assignat rezervinden 30 milyon liv",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sekiz maddenin yalnızca sonuncusu kimlerin önce yürüyeceğini yaş ve medenî hâlle belirler: mükellefiyet genel olacak, evlenmemiş yurttaşlar ile çocuksuz dullar,",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Belgeyi yayımlayan derleyicinin kararnameye düştüğü not, metnin sınırını da söyler: kararnamenin her yerde yürürlüğe konmasının belki hiç amaçlanmadığını, işgal",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Giriş kapısı olarak kullanılan başvuru maddesi, seferberliğin askerî anlamda ilk kez 1850'lerde Prusya ordusunun hazırlanışı için kullanıldığını yazar; aynı mad",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Telgrafın hızlı haberleşmeyi, demiryolunun hızlı yığınak yapmayı ve zorunlu hizmetin eğitilmiş bir ihtiyat kitlesini sağlaması, işlemi yazılı bir tarifeye bağla",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Rus harbiye nâzırı aynı gün ataşeye bir ayrım daha yaptı: Avusturya-Macaristan Sırp sınırını geçerse Kiev, Odessa, Moskova ve Kazan askerî bölgeleri seferber ed",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Britanya'nın resmî derlemesi bir belge yığını değil, önsözü olan bir savaş yılı yayınıdır; Alman savını o önsözde özetler: 28 ile 31 Temmuz arasında Rus hükümet",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı önsöz savı özetler özetlemez karşısına geçer: derleyiciye göre seferberlik önceliğine dayanan bir sav hiçbir zaman güçlü bir sav değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Derlemeyi okurken bu konum hesaba katılmalıdır; ama kısmî seferberlik ile genel seferberlik arasındaki farkın yazışmaların döndüğü teknik ayrım olduğu iki taraf",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "26 Temmuz akşamı Alman hükümeti Petersburg'daki büyükelçisine, Rus hükümetine bir bildirim yapması talimatını verdi: Rusya'nın hazırlıkları Almanya'yı ordusunu ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Almanya, Rus ordu ve donanmasının seferber edilmesi üzerine verdiği ültimatomda Rus kuvvetlerinin terhis edilmesini istedi ve on iki saat içinde taahhüt gelmezs",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "3 Ağustos 1914'te Avam Kamarası'nda Edward Grey, donanmanın seferberliğinin tamamlandığını ve ordununkinin sürdüğünü bildirdi; aynı konuşmada hükümetin yurt dış",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Saatlerle ölçülen bir zaman diliminde seferberlik ölçülerinin suçlama ve tehdit bulutu içinde alındığını, nedeni sonuçtan ayırmanın olanaksız olduğunu Britanya ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1793'te sayılan şey binek ve koşum atları, mahzen toprağındaki güherçile, kışlaya çevrilebilecek kamu binaları ve üç anahtarlı kasadaki assignat idi; 1914'te bi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "1793'te sayılan şey binek ve koşum atları, mahzen toprağındaki güherçile, kışlaya çevrilebilecek kamu binaları ve üç anahtarlı kasadaki assignat idi; 1914'te bi",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 # Çürütücü raporu — olay-meksika-fethi
-_2026-08-29T20:12:07.428Z_
+_2026-08-29T21:01:33.390Z_
 
 ## Zayıf bulunmayan alanlar
 

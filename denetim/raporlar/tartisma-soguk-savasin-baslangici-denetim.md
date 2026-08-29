@@ -1,5 +1,5 @@
 ## tartisma-soguk-savasin-baslangici
-_Geçiş 2 — kaynak denetimi · 2026-08-29T19:34:31.907Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T20:46:49.462Z_
 
 - [OK]      k1 → "Soğuk Savaş'ın kimin eseri olduğu sorusu, tarihçilerin yaygın olarak üç ayrı yaklaşım saydığı bir tartışmanın …" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Aynı sayımı yapan literatür bir uyarı da düşer: bu alandaki tarih yazımının çoğu, üç geniş kategoriden ikisini…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

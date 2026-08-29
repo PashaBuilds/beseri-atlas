@@ -1,0 +1,15 @@
+{
+  "id": "dusunur-bentham",
+  "gecis": 3,
+  "zaman": "2026-08-29T20:58:32.654Z",
+  "govde_hash": "6acf2a9f33a4",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Üç kayma sık görülür. Birincisi, en büyük mutluluk formülünü Bentham'ın buluşu saymaktır; kendisi kaynağını başkalarına bağlar, bağlarken bile belleğine güvenilmeyeceğini kabul ede",
+      "sorun": "\"en büyük\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    }
+  ]
+}

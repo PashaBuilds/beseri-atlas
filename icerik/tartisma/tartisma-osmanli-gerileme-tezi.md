@@ -34,6 +34,7 @@ ilgili:
   - kavram-donemlendirme
   - kavram-burokrasi
   - kavram-patrimonyalizm
+  - kavram-devsirme
   - kavram-milliyetcilik
   - donem-09
   - donem-10

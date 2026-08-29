@@ -1,0 +1,477 @@
+{
+  "id": "kavram-zarar-ilkesi",
+  "govde_hash": "a920ab2ce83e",
+  "commit": "e42c547",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Ama ortada kesinlik değil yalnızca bir tehlike varsa hüküm döner: riski göze almanın gerekçesini kişiden başkası tartamaz; yapılacak şey uyarmaktır, zorla engellemek değil — kişi çocuk değilse, sayıklamıyorsa ya da düşünmesine engel bir taşkınlık içinde değilse.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Koprü ornegi ve 'kesinlik yoksa yalniz uyar' kaydi k1'de birebir; cocuk/sayiklama/taskinlik istisnalari ayni cumlede."
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "İfade şudur: uygar bir topluluğun bir üyesi üzerinde, iradesine karşı gücün meşru biçimde kullanılabileceği yegâne amaç başkalarına zarar verilmesini önlemektir; kişinin kendi iyiliği, ister bedensel ister ahlaki olsun, yeterli bir gerekçe değildir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ilkenin kanonik ifadesi; kunyedeki dogrulama dizesi bu cumlenin kendisinden alindi."
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Ad sonradan kondu: Mill ölçütü koyar, zarar ilkesi adını sonraki çözümleme verir.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "HAKEM EKI. k1'in tam metninde (331k karakter) 'harm principle' dizesi GECMEZ — arama ile dogrulandi; Mill olcutu koyar, adlandirmaz. k4 etiketi pasaja disaridan uygular: 'In this passage, Mill distinguishes ... restrictions of liberty based upon the harm principle'. Adin sonradan konduguna dair acik bir cumle kaynakta yok, cikarim yazarindir: kismi."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "İlke bir davayı kapatmaz, ispat yükünü dağıtır; tartışma sınırda geçer.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k4 'gerekli ama yeterli degil' ve 'toplum yetki kazanir' der; 'ispat yukunu dagitir' ile 'tartisma sinirda gecer' yazarin ozetlemesidir, kaynak bu ifadeleri kullanmaz."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Çağdaş çözümlemede özgürlüğü kısıtlama gerekçeleri dört kümeye ayrılır — rahatsızlık, ahlakçılık, paternalizm ve zararın önlenmesi — ve yalnız sonuncusu tek başına meşru sayılır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dort kume (offense, moralism, paternalism, harm prevention) k4'te birebir sayilir. HAKEM: taksonomi Mill'in kendi adlandirmasi degil kaynagin cozumlemesidir; cumleye 'cagdas cozumlemede' atif cercevesi eklendi."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Ayrım kategoriktir ama mutlak değildir: aynı yasak birden çok kümeye girebilir ve Mill, zararın önlenmesiyle de savunulabilen ahlakçı ya da babacan düzenlemelere itiraz etmez; itirazı, yalnızca bu gerekçelerle savunulabilen kısıtlamalaradır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Mill does not object to moralistic or paternalistic legislation that can also be defended by appeal to the harm principle' k4'te birebir."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Zararın önlenmesi kısıtlama için gerekli koşuldur, yeterli koşul değildir: bir davranış başkalarının çıkarlarını zedelediği anda toplum yetki kazanır, ama yetkinin kullanılıp kullanılmayacağı düzenlemenin faydasının maliyetini aşıp aşmadığına dair ayrı bir hesaba kalır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'necessary but not sufficient ground' ve fayda-maliyet hesabi kaydi k4'te birebir."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Zarar sayılan şey de her incinme değildir: eylemin, başkalarının hak sahibi olduğu önemli çıkarları çiğnemesi ya da çiğneme riski taşıması gerekir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'genuine harm' / 'mere offense' ayrimi ve 'important interests ... in which they have a right' k4'te birebir."
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "İtirazı Mill'in kendisi kurar: kimse tümüyle yalıtılmış bir varlık değildir, kendine ciddi biçimde zarar veren kişinin verdiği zarar en azından yakınlarına ulaşır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'No person is an entirely isolated being' itirazini Mill metinde kendisi kurar."
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Belirli bir hasar ya da belirli bir hasar riski varsa iş özgürlük alanından çıkar; sarhoş olduğu için kimse cezalandırılmamalıdır, ama görev başında sarhoş olan bir asker ya da polis cezalandırılmalıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'definite damage, or a definite risk of damage' esigi ve gorev basinda sarhos asker/polis ornegi k1'de birebir."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Geriye kalan varsayımsal zarar — belirli bir ödev çiğnenmemişse ve failin kendisi dışında kimse elle tutulur biçimde incinmemişse — toplumun insan özgürlüğü uğruna taşıyabileceği bir külfet sayılır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'constructive injury' pasaji; 'society can afford to bear, for the sake of the greater good of human freedom'."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Kendini köle olarak satan ya da satılmasına razı olan kişinin sözleşmesi, Mill'in kaydına göre kendi ülkesi dahil uygar ülkelerin çoğunda hükümsüzdür; o bu hükmü onaylar, çünkü kişi böyle yaparak özgürlüğünden feragat eder ve kendi durumunu belirlemesine izin vermenin gerekçesini tam da kendi örneğinde ortadan kaldırır; Mill'in deyişiyle \"özgürlük ilkesi onun özgür olmamakta özgür olmasını gerektiremez\".",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kolelik sozlesmesinin hukumsuzlugu ve 'The principle of freedom cannot require that he should be free not to be free' k1'de birebir; tirnakli alinti 9 kelime, kaynak basina tek alinti."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Yalnız failine zarar veren kimi eylemler yasaklanmamalıdır, ama aleni yapıldıklarında görgü kurallarının çiğnenmesi sayılır ve Mill bunları başkalarına karşı işlenen suçlar kümesine koyar; edebe aykırılık örneğini bu başlıkta verir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'offences against decency' pasaji: yalniz faile zarar veren eylem aleni yapildiginda baskalarina karsi suclar kumesine girer."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "En dar okumada bile açılan aralık, sonraki literatürde rahatsızlık ilkesinin gireceği yerdir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k2, Feinberg'in rahatsizlik ilkesini Mill'in resmen ifade ettigi konumun otesine gecerek ekledigini ve Feinberg'in Mill'in yazilarinda dayanak bulunduguna INANDIGINI soyler; Mill'in edep kaydi ile bu ekleme arasindaki nedensel bagi yazar kuruyor."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Çocuklar ve yasanın erginlik saydığı yaşın altındakiler kapsam dışıdır; başkalarının bakımına muhtaç olanlar dış incinmeye karşı olduğu kadar kendi eylemlerine karşı da korunmalıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cocuklar ve yasanin erginlik saydigi yas kaydi k1'de birebir."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Aynı gerekçeyle ırkın kendisinin çocukluk çağında sayılabileceği geri kalmış toplum durumları da denklem dışında bırakılır: barbarlarla uğraşırken despotizm meşru bir yönetim biçimidir, yeter ki amaç onların iyileştirilmesi olsun ve araçlar bu amacı fiilen gerçekleştirerek meşrulaşsın.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'For the same reason' baglaci, 'backward states of society ... race itself may be considered as in its nonage' ve barbarlar/despotizm kaydi k1'de birebir. Istisna atlanmadi; iki kosul (amac iyilestirme, araclarin fiilen amaci gerceklestirmesi) tasindi."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Mill'e göre özgürlük ilkesinin, insanlığın özgür ve eşit tartışmayla iyileştirilebilir hâle geldiği andan öncesine hiçbir uygulaması yoktur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Liberty, as a principle, has no application to any state of things anterior to the time when mankind have become capable of being improved by free and equal discussion' k1'de birebir."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "İlkeyi askıya alan hamle ile çocuklar kaydını kuran hamle aynıdır: ikisi de birini henüz tam özne saymamaya dayanır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki kaydin ayni hamleye dayandigi tespiti metnin KENDI baglacina yaslanir (Mill istisnayi 'For the same reason' diye kurar; 'nonage' sozcugu erginlik-oncesi demektir). Ama 'tam ozne saymama' yazarin kavramsal yeniden ifadesidir; kaynak bu terimi kullanmaz. HAKEM: dogrudan -> kismi."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Yirminci yüzyılın ikinci yarısında H. L. A. Hart, Mill'in ilkesinin belirgin biçimde değiştirilmiş bir sürümünü benimsedi; Joel Feinberg ile Joseph Raz'ın elinde başka önemli sürümler doğdu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Hart adopted a significantly modified version of Mill s principle' ve Feinberg/Raz surumleri k2'de birebir."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Feinberg, 1984 ile 1990 arasında yayımlanan dört ciltlik The Moral Limits of the Criminal Law dizisinde zararı, başkalarının haksız eylem ya da ihmallerinin sonucu olan çıkar gerilemeleri diye tanımlar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'four-volume work, the Moral Limits of the Criminal Law' ve (Feinberg 1984, 1985, 1986, 1990) k2'de; zarar tanimi 'states of set-back interest that are the consequence of wrongful acts or omissions by others' da ayni yerde."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Kaynağın çekincesi taşınmalıdır: bu tanım, belirsiz bir kavramı bir başka belirsiz kavramla açıklamaya benzer, çünkü kişinin çıkarının ne olduğu sorusunun kendisi ayrıca açıklama ister.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak elestiriyi kendi metninde tasir: tanim 'defining one unclear concept in terms of another unclear concept' sayilir ve kisinin cikarinin ne oldugu sorusunun ayrica aciklama istedigi yazilir."
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Feinberg, Mill'in resmen ifade ettiği konumun ötesine geçip rahatsızlık ilkesini ekler — ciddi rahatsızlığın önlenmesi de bir ceza yasağı için iyi bir gerekçedir — ve savunduğu liberal konum böylece zarar ile rahatsızlığın toplamı olur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'goes beyond Mill s officially stated position in adding ... the offense principle' ve 'The Liberal Position' tanimi k2'de birebir."
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Paternalizm cephesinde de aynı kayma görülür: Hart, bireylerin kendi çıkarlarını en iyi kendilerinin bildiği inancındaki genel gerilemeye dayanarak babacan önlemlere kapı açar; Raz, genel bir paternalizm yanlısı ya da karşıtı sonuç formüle etmenin anlamsız olduğunu söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hart'in 'general decline in the belief that individuals know their own interests best' gerekcesi ve Raz'in 'senseless to formulate either a general pro- or a general anti-paternalistic conclusion' hukmu k2'de birebir."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Feinberg'in yumuşak paternalizm dediği ara konum ise şudur: tam gönüllü davranmadığımız durumlarda bilgi vermek ya da akıl yürütmedeki kusuru göstermek için müdahale edilebilir, ama ardından verilen gönüllü karara saygı gösterilmelidir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'what Feinberg called soft paternalism' tanimi ve gonullu karara saygi kosulu k3'te birebir."
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "İthafı 31 Mart 1873 tarihini taşıyan Liberty, Equality, Fraternity'de Stephen, toplumsal yaptırımlarla yasal yaptırımlar arasına keskin bir çizgi çekmenin kanıtını başından sonuna aradığını ve bulamadığını yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ithaf tarihi (March 31, 1873) ve 'from one end of his essay to the other I find no proof' k5'te birebir dogrulandi. NOT: kunye yaprak sayfasi NEW YORK / HENRY HOLT AND COMPANY / 1882 verir; 1873 yayin yili degil ITHAF tarihidir, cumle de bunu boyle soyler."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Dayanak olarak kendini korumayla açıklanamayacak üç yaygın zorlama biçimini sayar: dinlerin kurulup sürdürülmesi, ahlakın kurulup fiilen sürdürülmesi ve mevcut yönetim biçimlerinin ya da toplumsal kurumların değiştirilmesi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc zorlama bicimi k5'te numarali liste halinde ve 'None of these can in the common use of language be described as cases of self-protection' cumlesiyle birlikte."
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Patrick Devlin'in savı, tanınmış bir ahlakın bir toplum için tanınmış bir yönetim kadar gerekli olduğu, yeterince zorlanmazsa toplumun dağılacağı ve toplumun kendini savunma hakkı bulunduğudur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Devlin'in (1965: 10) savi k2'de birebir aktarilir: taninmis ahlak, dagilma ve kendini savunma hakki."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Hart'ın karşılığı savın adımını hedef alır: bir miktar ortak ahlakın her toplum için zorunlu olduğu yolundaki kabul edilebilir önermeden, bir toplumun tarihinin herhangi bir anındaki ahlakıyla özdeş olduğu yolundaki kabul edilemez önermeye geçilmektedir; ikincisi doğru olsaydı ahlaktaki her değişim toplumun yok edilmesi sayılırdı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hart 1963 [1982: 51] pasaji k2'de birebir; 'kabul edilebilir onerme' / 'kabul edilemez onerme' ayrimi kaynagin kendi sozcukleridir."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Kaynak hükmü çekinceyle verir: dağılma savı bu eleştiriyle ölümcül biçimde yaralanmış görünmektedir, ama hukuki ahlakçılık yaklaşımının kendisi canlıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin cekincesi tasindi: 'appears fatally wounded' kosullu hukumdur ve ayni kaynak 'the approach is alive and well and continues to develop' der."
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Zararın varlığı tartışmayı kapatmaz, yalnızca toplumun yetkisini açar; zararın yokluğunda ise ahlakçı ya da babacan gerekçe tek başına yetmez, ama aynı yasak zararın önlenmesiyle de savunulabiliyorsa Mill ona karşı çıkmaz.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Indirgemenin kendisi kaynakta adlandirilmaz; iki yonlu yanlislik yazarin cikarimidir. Iki dayanagi (yetkinin acilmasi; zararla da savunulabilen ahlakci duzenlemeye itiraz olmamasi) k4'te dogrudandir."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Bugün ilkenin sınandığı yerler somuttur: emeklilik sistemine katkı zorunluluğu, motosiklet kaskı, cankurtaransız plajda yüzme yasağı, zararlı sayılan ilaçların satış yasağı, saldırıya rıza gösterilmesinin savunma sayılmaması, kumar borcu sözleşmelerinin icra edilememesi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alti ornegin tamami k3'un giris paragrafindaki listeden birebir. HAKEM: gövde once 'cankurtaran yokken denize girme' diyordu; kaynak 'swimming at a public beach when lifeguards are not present' der — 'plaj' geri konuldu. Kaynak listesi daha uzundur (14 kalem); gövde bunlardan altisini ornek olarak alir, tuketici oldugunu iddia etmez."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Her madde, 1859'da yayımlanan tek bir cümlenin sınır sorularına döner: ne zarar sayılır, kimin rızası geçerlidir, kim tam özne kabul edilir.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "On Liberty'nin 1859 tarihi k4'te dogrudan; uc sinir sorusunun tek listede toplanmasi yazarin toparlamasidir."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 26,
+    "kismi": 6,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "da7e6152e325",
+      "yeni_hash": "b2ef67f4db6f",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    },
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "b2ef67f4db6f",
+      "yeni_hash": "a920ab2ce83e",
+      "gerekce": "kor hakem duzeltmeleri: geriye donuk adlandirma cumlesi eklendi (i033), desteksiz aktarim yorumu (i018) kaldirildi, i017 dogrudan->kismi, i004 ve i031 cumleleri kaynaga yaklastirildi"
+    }
+  ]
+}

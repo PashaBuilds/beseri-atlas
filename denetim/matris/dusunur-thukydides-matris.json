@@ -1,9 +1,9 @@
 {
   "id": "dusunur-thukydides",
-  "govde_hash": null,
-  "commit": null,
+  "govde_hash": "c048f3d73f29",
+  "commit": "d9e0ff7",
   "zaman": "2026-08-29",
-  "hakem": "TASLAK-yazar",
+  "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
     {
       "iddia_id": "i001",
@@ -357,7 +357,7 @@
     },
     {
       "iddia_id": "i026",
-      "cumle": "Devrimin kentten kente yayıldığını, sonradan gelenlerin öncekileri aşmaya çalıştığını yazar ve ardından şu tespiti koyar: \"Sözcükler olağan anlamlarını değiştirmek zorunda kaldı.\" Pervasız atılganlık sadık müttefikin cesareti sayılmış, ölçülülük erkeksizliğin örtüsü, her yanı görebilme hiçbir yanda davranamama olmuştur.",
+      "cumle": "Devrimin kentten kente yayıldığını, sonradan gelenlerin öncekileri aşmaya çalıştığını yazar ve ardından şu tespiti koyar: \"Sözcükler olağan anlamlarını değiştirmek zorunda kaldı.\" Ardından gelen döküm uzun; buradan üçü: pervasız atılganlık sadık müttefikin cesareti sayılmış, ölçülülük erkeksizliğin örtüsü, her yanı görebilme hiçbir yanda davranamama olmuştur.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -367,7 +367,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "III.82: 'Revolution thus ran its course from city to city...' ve 'Words had to change their ordinary meaning and to take that which was now given them. Reckless audacity came to be considered the courage of a loyal ally... moderation was held to be a cloak for unmanliness; ability to see all sides of a question inaptness to act on any.'"
+      "inceleme": "III.82: 'Revolution thus ran its course from city to city...' ve 'Words had to change their ordinary meaning and to take that which was now given them. Reckless audacity came to be considered the courage of a loyal ally... moderation was held to be a cloak for unmanliness; ability to see all sides of a question inaptness to act on any.' HAKEM 2026-08-29: kaynak bu noktada ALTI karsitlik sayar (pervasiz atilganlik / tedbirli duraksama / olcululuk / her yani gorebilme / cilgin siddet / temkinli tertip); govde ucunu aliyordu ve kirpma beyan edilmemisti. 'Ardindan gelen dokum uzun; buradan ucu' ibaresi eklenerek kisaltma acikca beyan edildi."
     },
     {
       "iddia_id": "i027",
@@ -399,7 +399,7 @@
     },
     {
       "iddia_id": "i029",
-      "cumle": "İtirazın somut ayağı Megara kararnameleridir: Thukydides dışındaki anlatılar savaşın çıkışını bütünüyle bu kararnameler üzerinden kurar, oysa Thukydides üç kararnamenin hiçbirini kaydetmez, Megara ilişkilerini arka planda tutar ve Perikles'in bu işlerle bağını yazmaz.",
+      "cumle": "İtirazın somut ayağı Megara kararnameleridir: savaşın çıkışını anlatan Thukydides dışı kaynaklar müzakereleri bütünüyle bu kararnameler üzerinden kurar, oysa Thukydides üç kararnamenin hiçbirini kaydetmez, Megara ilişkilerini arka planda tutar ve Perikles'in bu işlerle bağını yazmaz.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -409,7 +409,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Cornford'un cozumlemeli icindekiler dokumu, III. bolum: 'non-Thucydidean accounts of the outbreak of war make the negotiations turn solely on the Megarian decrees. Thucydides records none of these three decrees and keeps Megarian affairs in the background, suppressing Pericles' connexion with them.' Ozetin kendisi Cornford'un savidir; kanit bolumun govdesindedir ve buradan okunmadi."
+      "inceleme": "Cornford'un cozumlemeli icindekiler dokumu, III. bolum: 'non-Thucydidean accounts of the outbreak of war make the negotiations turn solely on the Megarian decrees. Thucydides records none of these three decrees and keeps Megarian affairs in the background, suppressing Pericles' connexion with them.' Ozetin kendisi Cornford'un savidir; kanit bolumun govdesindedir ve buradan okunmadi. HAKEM 2026-08-29 DUZELTME: govde 'savasin cikisini butunuyle bu kararnameler uzerinden kurar' diyordu; kaynak 'make the NEGOTIATIONS turn solely on the Megarian decrees' der. Kapsam kaynagin dedigine indirildi (muzakereler)."
     },
     {
       "iddia_id": "i030",
@@ -441,35 +441,35 @@
     },
     {
       "iddia_id": "i032",
-      "cumle": "Bir 2025 çalışması, Thukydides'in konuşmaların nedensel etkisi konusunda bilerek belirsiz kaldığını ve bu belirsizliğin savaşın çıkışına dair anlatının merkezinde durduğunu savunur; I.23.6'daki prophasis teriminin de aynı belirsizliği taşıdığını, savaşın kendini gerçekleştiren bir kehanetle başlamış olabileceğini ileri sürer — yakın dönem çalışmalarının önerdiği kendini gerçekleştiren algı okumasının yerine.",
+      "cumle": "Daniel Sutton'un 2025 tarihli çalışması, Thukydides'in konuşmaların nedensel etkisi konusunda bilerek belirsiz kaldığını ve bu belirsizliğin savaşın çıkışına dair anlatının merkezinde durduğunu savunur; I.23.6'daki prophasis teriminin de aynı belirsizliği taşıdığını, savaşın kendini gerçekleştiren bir kehanetle başlamış olabileceğini ileri sürer — yakın dönem çalışmalarının önerdiği kendini gerçekleştiren algı okumasının yerine.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
         {
           "anahtar": "k6",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Sutton'in ozeti: 'Thucydides is deliberately enigmatic about the causal effects of his speeches, and that this enigma is central to understanding his account of the outbreak'; 'the war might have started through a process of self-fulfilling prophecy, rather than—as some recent scholarship has suggested—self-fulfilling perception'. Kaynagin 'yakin donem calismalarinin onerdigi algi okumasi yerine' karsitligi metne tasindi."
+      "inceleme": "Sutton'in ozeti: 'Thucydides is deliberately enigmatic about the causal effects of his speeches, and that this enigma is central to understanding his account of the outbreak'; 'the war might have started through a process of self-fulfilling prophecy, rather than—as some recent scholarship has suggested—self-fulfilling perception'. Kaynagin 'yakin donem calismalarinin onerdigi algi okumasi yerine' karsitligi metne tasindi. HAKEM 2026-08-29 DESTEK DUSURULDU: kaynak bir api.crossref.org USTVERI kaydidir. Kayit yazar/yil/baslik icin dogrudan destektir; makalenin BULGUSU hakkindaki iddiaya en fazla OZET duzeyinde kismi destek verir. Ozet doludur ve savi tasir, makalenin govdesi bu kayittan okunamaz — bu yuzden kismi."
     },
     {
       "iddia_id": "i033",
-      "cumle": "Melos Diyalogu'nun anahtar cümlesi de yeniden okunuyor: bir 2026 makalesi, Atinalıların adaleti eşit zorunluluğa bağlayan sözünün uzun süredir gücün ahlaktan önce geldiğinin ilanı sayıldığını ve Atinalıların böylece örnek siyasal gerçekçiler ilan edildiğini söyleyip bu okumaya itiraz eder.",
+      "cumle": "Melos Diyalogu'nun anahtar cümlesi de yeniden okunuyor: Mark Fisher'ın 2026 tarihli makalesi, Atinalıların adaleti eşit zorunluluğa bağlayan sözünün uzun süredir gücün ahlaktan önce geldiğinin ilanı sayıldığını ve Atinalıların böylece örnek siyasal gerçekçiler ilan edildiğini söyleyip bu okumaya itiraz eder.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
         {
           "anahtar": "k8",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Fisher'in ozeti: 'Interpreters have long assumed it to be a statement of power's priority over ethics, thus identifying the Athenians as prototypical political realists. In this article, however, I challenge this reading'. Makale itirazi ileri surer; metinde de uzlasi degil itiraz olarak verildi."
+      "inceleme": "Fisher'in ozeti: 'Interpreters have long assumed it to be a statement of power's priority over ethics, thus identifying the Athenians as prototypical political realists. In this article, however, I challenge this reading'. Makale itirazi ileri surer; metinde de uzlasi degil itiraz olarak verildi. HAKEM 2026-08-29 DESTEK DUSURULDU: kaynak bir api.crossref.org USTVERI kaydidir. Kayit yazar/yil/baslik icin dogrudan destektir; makalenin BULGUSU hakkindaki iddiaya en fazla OZET duzeyinde kismi destek verir. Ozet doludur ve savi tasir, makalenin govdesi bu kayittan okunamaz — bu yuzden kismi."
     },
     {
       "iddia_id": "i034",
-      "cumle": "Cornell University Press'in bu soruya ayrılmış kitabının özeti, iki düşünürün de gerçekçiliğin sınırlarına tam oturmadığını kabul eder, Hobbes'un felsefesinin gerçekçiliğe Thukydides'inkinden daha yakın durduğunu öne sürer ve Thukydides'in yanlış anlaşıldığını, aslında gerçekçiliğe alternatif bir yaklaşım sunduğunu savunur.",
+      "cumle": "Laurie M. Johnson'ın bu soruya ayrılmış kitabının Cornell University Press'te yayımlanan özeti, iki düşünürün de gerçekçiliğin sınırlarına tam oturmadığını kabul eder, Hobbes'un felsefesinin gerçekçiliğe Thukydides'inkinden daha yakın durduğunu öne sürer ve Thukydides'in yanlış anlaşıldığını, aslında gerçekçiliğe alternatif bir yaklaşım sunduğunu savunur.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -479,35 +479,35 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Johnson kitabinin ozeti: 'While acknowledging that neither thinker fits perfectly within the confines of international relations realism, the author proposes Hobbes's philosophy is more closely aligned with it than Thucydides''; 'Thucydides has been misunderstood and... he actually provides an interesting alternative approach to realism'. 'Tam oturmadigini kabul eder' ifadesi kaynagin kendi cekincesidir."
+      "inceleme": "Johnson kitabinin ozeti: 'While acknowledging that neither thinker fits perfectly within the confines of international relations realism, the author proposes Hobbes's philosophy is more closely aligned with it than Thucydides''; 'Thucydides has been misunderstood and... he actually provides an interesting alternative approach to realism'. 'Tam oturmadigini kabul eder' ifadesi kaynagin kendi cekincesidir. HAKEM 2026-08-29: govde iddiayi 'kitabinin ... yayimlanan ozeti savunur' diye kurar; iddia kaydin KENDI tasidigi ozet metni hakkindadir, makalenin dogrulanmamis bulgusu hakkinda degil — bu yuzden ustveri kunyesi kuralina ragmen dogrudan birakildi."
     },
     {
       "iddia_id": "i035",
-      "cumle": "2024 tarihli bir değerlendirme, benzetmenin kötü tarih ve kötü kuram olduğu suçlamasının haklı bulunduğunu ama meselenin asıl ağırlığının başka yerde durduğunu söyler: kalıp, tarif ettiği iki hükûmetin de söz dağarına girmiştir ve Xi Jinping kavramı 2014, 2015, 2023 ve 2024'te açıkça ele almıştır.",
+      "cumle": "Noor Saeed Khan ile Muzaffar Khan Zafar'ın 2024 tarihli değerlendirmesi, benzetmenin kötü tarih ve kötü kuram olduğu suçlamasının haklı bulunduğunu ama meselenin asıl ağırlığının başka yerde durduğunu söyler: kalıp, tarif ettiği iki hükûmetin de söz dağarına girmiştir ve Xi Jinping kavramı 2014, 2015, 2023 ve 2024'te açıkça ele almıştır.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
         {
           "anahtar": "k9",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "orta",
-      "inceleme": "Khan ve Zafar'in ozeti: 'It has been criticized as bad history and bad theory, and on both counts, the charge sticks, but this article argues that they no longer touch the most significant problem' ve 'Xi Jinping engaged the concept publicly in 2014, 2015, 2023, and 2024'. Ozetin sirasi korundu: suclama kabul edilir ama asil sorun baska yerde sayilir. SINIR: kucuk bir dergi; kunye notunda belirtildi."
+      "inceleme": "Khan ve Zafar'in ozeti: 'It has been criticized as bad history and bad theory, and on both counts, the charge sticks, but this article argues that they no longer touch the most significant problem' ve 'Xi Jinping engaged the concept publicly in 2014, 2015, 2023, and 2024'. Ozetin sirasi korundu: suclama kabul edilir ama asil sorun baska yerde sayilir. SINIR: kucuk bir dergi; kunye notunda belirtildi. HAKEM 2026-08-29 DESTEK DUSURULDU: kaynak bir api.crossref.org USTVERI kaydidir. Kayit yazar/yil/baslik icin dogrudan destektir; makalenin BULGUSU hakkindaki iddiaya en fazla OZET duzeyinde kismi destek verir. Ozet doludur ve savi tasir, makalenin govdesi bu kayittan okunamaz — bu yuzden kismi."
     },
     {
       "iddia_id": "i036",
-      "cumle": "Öznelerinin okuyup etrafından dolaşmaya çalıştığı bir yapısal kuram, yapısal kuramların iddia ettiği işi yapmıyordur.",
+      "cumle": "Değerlendirmenin kendi çıkardığı sonuç şudur: öznelerinin okuyup etrafından dolaşmaya çalıştığı bir yapısal kuram, yapısal kuramların iddia ettiği işi yapmıyordur.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
         {
           "anahtar": "k9",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "orta",
-      "inceleme": "Ayni ozet: 'A structural theory whose subjects have read it and are consciously navigating around it is not doing what structural theories claim to do.'"
+      "inceleme": "Ayni ozet: 'A structural theory whose subjects have read it and are consciously navigating around it is not doing what structural theories claim to do.' HAKEM 2026-08-29: cumle ozetin kendi son cumlesinin cevirisiydi ve govdede dosyanin kendi hukmu gibi duruyordu; 'Degerlendirmenin kendi cikardigi sonuc sudur' ibaresiyle kaynaga geri baglandi. HAKEM 2026-08-29 DESTEK DUSURULDU: kaynak bir api.crossref.org USTVERI kaydidir. Kayit yazar/yil/baslik icin dogrudan destektir; makalenin BULGUSU hakkindaki iddiaya en fazla OZET duzeyinde kismi destek verir. Ozet doludur ve savi tasir, makalenin govdesi bu kayittan okunamaz — bu yuzden kismi."
     },
     {
       "iddia_id": "i037",
@@ -544,11 +544,53 @@
       ],
       "guven": "orta",
       "inceleme": "Uc yan cumlenin kaynaklari ayri: 'kanaat yazdi' I.23.6'daki hegoumai fiiline dayanir ama 'metnin kendisi bu kullanimi tasimaz' olumsuz bir cikarimdir, bu yuzden k4 kismi; 'konusmalari kendisinin kurdugunu ilan etti' I.22'de dogrudan (k1); 'sonuclariyla birlikte gosterdi' Melos Diyalogu'nun hemen ardindan gelen V.116 anlatisina dayanir (k2)."
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Mytilene ayaklanmasından sonra Atina meclisi, öfkenin sıcağında, yalnız elindeki tutsakları değil kentin bütün yetişkin erkeklerini öldürme ve kadınlarla çocukları köleleştirme kararı alır; ertesi gün toplanıp kararı yeniden tartışır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM 2026-08-29 EKLEME: govde kararnameyi 'kentin butun erkeklerini oldurme karari' diye kirpiyordu. III.36: 'in the fury of the moment determined to put to death not only the prisoners at Athens, but the whole adult male population of Mitylene, and to make slaves of the women and children.' Eksik iki oge (Atina'daki tutsaklar; kadin ve cocuklarin kolelestirilmesi) geri konuldu ve cumle matrise alindi."
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Bozulmanın nedenini de aynı bölümde yazar: savaş günlük ihtiyaçların kolay karşılanmasını ortadan kaldırır ve sert bir öğretmen olarak çoğu insanın karakterini talihinin düzeyine indirir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM 2026-08-29 EKLEME: bu cumle, kaldirilan desteksiz alimlama iddiasinin ('metnin en cok alintilanan bolumlerinden biridir') yerine konuldu. III.82.2: 'war takes away the easy supply of daily wants, and so proves a rough master, that brings most men's characters to a level with their fortunes.'"
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Uluslararası ilişkiler yazını gerçekçiliğin köklerini Thukydides'in tarihinde arayagelmiştir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "HAKEM 2026-08-29 EKLEME: govde burada kaynaksiz bir alimlama iddiasi tasiyordu ('Bu uclu, sonraki yuzyillarda Thukydides'in kendi kurami diye alintilandi') — hangi yuzyillar, kimler tarafindan, hicbiri kaynakta yok. Cumle k7'nin ozetinin tasidigi kadarina indirildi: 'This book has been consistently cited by scholars of international relations who explore the roots of realism in Thucydides' history.' Kaynak bir Crossref ustveri kaydi oldugu ve iddia yazinin genel egilimi hakkinda oldugu icin destek kismi."
     }
   ],
   "sayaclar": {
-    "dogrudan": 34,
-    "kismi": 4,
+    "dogrudan": 32,
+    "kismi": 9,
     "desteksiz": 0,
     "olculemez": 0
   }

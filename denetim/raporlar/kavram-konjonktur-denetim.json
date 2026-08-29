@@ -1,0 +1,123 @@
+{
+  "id": "kavram-konjonktur",
+  "gecis": 2,
+  "zaman": "2026-08-29T20:54:45.390Z",
+  "govde_hash": "09907c317bbe",
+  "commit": "7ed5c28",
+  "sonuclar": [
+    {
+      "anahtar": "k6",
+      "iddia": "Amerika'da bir daralmanın ne zaman başlayıp bittiği bir kurul kararıyla saptanır: Ulusal İktisadi Araştırmalar Bürosu'nun konjonktür tarihleme komitesi, iktisad",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Aynı sözcük tarih yazımında bambaşka bir büyüklüğü adlandırır: üç katmanlı Annales şemasında konjonktür, on yıllarla — derleme kaynağın deyişiyle kimi zaman yüz",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "İki aylık bir daralmayla iki kuşak boyunca süren bir fiyat kabarması aynı sözcükle anılırsa ölçek kararı görünmez olur, dalga da her şeyi açıklayabilir hale gel",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Longue durée (uzun süre) yaklaşımı üç parçalı bir dizgenin bir ucudur: öbür uçta François Simiand'ın histoire événementielle dediği kısa vadeli olaylar, ortada ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dizgeyi tarihçilere mal eden metin, Fernand Braudel'in 1958'de Annales'in tartışmalara ve hesaplaşmalara ayrılmış bölümünde çıkan yazısıdır; yazı insan bilimler",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Akdeniz'in birinci cildinden aktarılan bir pasaja göre yapının da konjonktürün de farklı türleri vardır ve ikisinin de süresi değişebilir; tarih, bir zaman düzl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Christophe Charle'ın söyleşi sunuşuna göre Labrousse'un çıkış noktası, idari istatistiğin henüz çocukluk çağında olduğu on sekizinci yüzyıl için gerçek bir ikti",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Pierre Chaunu'nün tanımında seri tarih tekil olguyla — siyasi olduğu kadar kültürel ya da iktisadi olanıyla — değil, türdeş bir diziye sokulabilen yinelenen öğe",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Labrousse'un savına göre aylık ya da yıllık ortalama fiyatı ancak bu kayıt verebilir; hesap defterleri çoğu zaman bu tarihin yalnızca epizotlarını sunar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Labrousse'a 1974'te sunulan armağan cildinin başlığı iktisadi konjonktür ile toplumsal yapıları yan yana koyar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Labrousse'un iki büyük kitabı, katı bir iktisadi ve toplumsal tarihin sorunlarını ve kurallarını erkenden tanımlamıştı; Sorbonne'daki bilimsel yetkesi 1945'te k",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Program, katmanı adlandıran 1958 yazısından önce iş görüyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Yazının açılışına göre Labrousse'un düşüncesi, ilk ifadelerinde birbirine karşıtlığa varan değerlendirme ayrılıklarıyla, geri çekilen katılımlarla ve tereddütle",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Annales'in 1989 tarihli eleştirel dönemeç sayısında Jean-Yves Grenier ile Bernard Lepetit, iktisat tarihinin birkaç yıldır sorgulamaların belirsizliğiyle, araşt",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Karışıklık çoğunlukla iki anlamın üst üste binmesinden çıkar: aylarla tarihlenen bir daralmaya tarihsel konjonktürün açıklayıcı ağırlığını yüklemek, ya da tersi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İlkine karşı kaynak sürelerin değişebileceğini açıkça yazar; ikincisine karşı programın kendi hedefi tanıklık eder: bir fiyat dizisi bir hareketi ölçer, onu açı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İlkine karşı kaynak sürelerin değişebileceğini açıkça yazar; ikincisine karşı programın kendi hedefi tanıklık eder: bir fiyat dizisi bir hareketi ölçer, onu açı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "İktisadi anlam bir kronoloji sorusudur; dosyasında daralmanın başlangıç ayı tam da böyle bir kronolojiyle verilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Tarihsel anlam bir açıklama sorusudur: tartışmasında sınıf çatışmasıyla siyasi konjonktür arasındaki ağırlık paylaşımı açık bir sorudur ve Morineau'nun yeniden ",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

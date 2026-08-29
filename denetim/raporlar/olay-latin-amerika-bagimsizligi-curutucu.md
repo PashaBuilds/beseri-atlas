@@ -1,5 +1,5 @@
 # Çürütücü raporu — olay-latin-amerika-bagimsizligi
-_2026-08-29T20:12:07.427Z_
+_2026-08-29T21:05:13.156Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 
@@ -11,7 +11,7 @@ _2026-08-29T20:12:07.427Z_
 
 ## İtiraz 2 — [ciddiyet: dusuk] ustunluk-iddiasi
 
-**Cümle:** "Boşluğun ilk yanıtı bağımsızlık değildi: bazı büyük kentler ve başkentler, İspanyol geleneğinin hukukuna dayanarak yerel yönetim kurulları kurdu; 1809'da Chuquisaca, La Paz ve Quit"
+**Cümle:** "Boşluğun ilk yanıtı bağımsızlık değildi: bazı büyük kentler İspanyol geleneğinin hukukuna dayanarak yerel yönetim kurulları kurdu; 1809'da Chuquisaca, La Paz ve Quito'daki kısa ömü"
 
 **Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
 
@@ -19,19 +19,19 @@ _2026-08-29T20:12:07.427Z_
 
 ## İtiraz 3 — [ciddiyet: orta] kapsam-carpitmasi
 
-**Cümle:** "Bolívar'ın 15 Şubat 1819'da Angostura Kongresi'ne yaptığı açılış konuşması, aynı soruyu bambaşka bir yerden kurar. Kopan parçaların eski birliklerini yeniden kurabildiği bir dünyad"
+**Cümle:** "Bolívar'ın konumu sabit değildir. Kingston'dan 6 Eylül 1815'te yazdığı mektup Angostura'dan dört yıl öncedir; Amerikalıları "ülkenin meşru sahipleri ile İspanyol gaspçılar arasında"
 
 **Sorun:** Makale amerika/avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.
 
 **Öneri:** Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster.
 
-## İtiraz 4 — [ciddiyet: orta] kesinlik-dili
+## İtiraz 4 — [ciddiyet: orta] kapsam-carpitmasi
 
-**Cümle:** "İkinci sayı takımı daha da dolaylıdır. Ayacucho'da birliklerin yüzde yirmisinden azının İspanyol olduğu ve bu savaşlarda ölen *nativos* sayısının yaklaşık 35.000 olduğu bilgisi, ma"
+**Cümle:** "Bolívar'ın 15 Şubat 1819'da Angostura Kongresi'ne yaptığı açılış konuşması, aynı soruyu bambaşka bir yerden kurar. Kopan parçaların eski birliklerini yeniden kurabildiği bir dünyad"
 
-**Sorun:** Kesinlik ifadesi "hiçbir zaman" atıf çerçevesi olmadan kullanılmış.
+**Sorun:** Makale amerika/avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.
 
-**Öneri:** İddiayı kaynağa atfet ("X'e göre") ya da ifadeyi kaynağın gücüne indir.
+**Öneri:** Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster.
 
 ## İtiraz 5 — [ciddiyet: orta] kapsam-carpitmasi
 

@@ -1,9 +1,9 @@
 {
   "id": "olay-meksika-fethi",
   "gecis": 2,
-  "zaman": "2026-08-29T20:05:25.418Z",
-  "govde_hash": "d73b41ae9b3b",
-  "commit": "5373c66",
+  "zaman": "2026-08-29T21:01:32.804Z",
+  "govde_hash": "e17aa8b7747b",
+  "commit": "92d1168",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -19,15 +19,21 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "Matthew Restall'ın kitabının özeti fethin siyah ve yerli müttefiklere ağır biçimde dayandığını, bu müttefiklerin binlerce savaşçıyla conquistadorları sayıca kat",
+      "iddia": "Matthew Restall'ın 2003 tarihli kitabının özeti fethin siyah ve yerli müttefiklere ağır biçimde dayandığını, bu müttefiklerin binlerce savaşçıyla conquistadorla",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k7",
-      "iddia": "Aynı yıllarda askerî tarih tarafından gelen bir başka itiraz, ateşli silahların İspanyol zaferinin teknolojik belirleyeni sayılmasının artık çözüldüğünü savunur",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İspanyol"
+      "anahtar": "k10",
+      "iddia": "Bu savın yanında ittifakı sayıya döken açık erişimli bir kayıt durur: 2021 tarihli tıp tarihi makalesi arka plan bölümünde, Aztek egemenliğinin öteki yerli kült",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Askerî tarih tarafından gelen itiraz daha da açıktır: Cervera Obregón'un tam metni İspanyol teknolojisinin gerçekten üstün olduğunu kabul eder ama bunun fethin ",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -37,9 +43,15 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Motecuhzoma'yı da kendi kaydında hükümdarın hizmetine tümüyle bağlanmış biri olarak sunar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Metninde Muteczuma yazımıyla andığı Motecuhzoma'yı da hükümdarın hizmetine tümüyle bağlanmış biri olarak sunar.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Kayıtların çıkarı en açık biçimde hükümdarın ölümünde görünür: 2021 tarihli makale, anlatının ikiye ayrıldığını yazar — ölümü yerlilere yükleyen Hernan Cortés v",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
@@ -54,6 +66,24 @@
       "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
+      "anahtar": "k9",
+      "iddia": "Florentine Codex'in on ikinci kitabı, yerli aydınlarla birlikte Nahuatl dilinde yazılmış, İspanyolca çevirisi ve iki bine yakın resimle birlikte kurulmuş iki di",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "UNESCO'nun Memory of the World kütüğüne 2015'te aldığı kayıt yazmanın yapısını dışarıdan doğrular: metin iki sütun hâlinde Nahuatl ve İspanyolca yazılmıştır, üç",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Aynı kayıt Bustamante baskılarının soyunu da verir: yazmanın on sekizinci yüzyılda Diego Panes'in çıkardığı bir kopyası Yeni İspanya'ya götürülmüş, Carlos María",
+      "durum": "OK",
+      "not": ""
+    },
+    {
       "anahtar": "k6",
       "iddia": "Sahagún 1585'te bu anlatıyı yeniden yazmış, yani fethin hikâyesi yüzyılın sonuna doğru keşişin elinde değişmiştir.",
       "durum": "OK",
@@ -61,21 +91,21 @@
     },
     {
       "anahtar": "k4",
-      "iddia": "Dördüncü bir ses, Tlaxcalalı Diego Muñoz Camargo'nun kroniğidir; orada Tlaxcalalılar Cortés'in \"sadık dostları\" diye anılır ve Xicotencatl'ın oğlunun Tetzcoco'd",
+      "iddia": "Dördüncü bir ses, Tlaxcalalı Diego Muñoz Camargo'nun kroniğidir; kitabın bölüm dizini genç Xicotencatl'a karşı Cortés'in şikâyetlerini, Tlaxcala Senatosu'nun on",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Cortés kendi anlatısında Aztek yönetiminden hoşnutsuz kıyı beylerinin kendisine başvurduğunu, kendilerini ezen güçlü hükümdara karşı korunma istediklerini, oğul",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Aztek"
+      "iddia": "Cortés kendi anlatısında Aztek yönetiminden hoşnutsuz Cempoal beylerinin kendisine başvurduğunu, kendilerini ezen güçlü hükümdara karşı korunma istediklerini, o",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Tlaxcala sınırında ise savaş çıktı: Cortés kendini yüz binden fazla savaşçının ortasında bulduğunu, çarpışmanın gün boyu sürdüğünü ve tanrının kendi taraflarınd",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Tlaxcala sınırında ise 1519 sonbaharında savaş çıktı: Cortés kendini 100.000'den fazla savaşçının ortasında bulduğunu, çarpışmanın gün boyu sürdüğünü ve tanrını",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
@@ -97,9 +127,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Cortés de Tlaxcala sınırındaki ilk çatışmada, yanında noter bulunmadığı için tercümanlar üzerinden resmî bir çağrı yaptığını yazar.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tlaxcala"
+      "iddia": "Cortés de Tlaxcala sınırındaki 1519 tarihli ilk çatışmada, yanında noter bulunmadığı için tercümanlar üzerinden resmî bir çağrı yaptığını yazar.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
@@ -115,9 +145,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Cortés, Tlaxcalalı beylerin kendisini şehre girmemesi için uyardığını, Motecuhzoma'nın şehre iki fersah mesafede elli bin kişilik bir kuvvet yerleştirdiğini, yo",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tlaxcalalı, Motecuhzoma"
+      "iddia": "Cortés, Tlaxcalalı beylerin kendisini şehre girmemesi için uyardığını, Motecuhzoma'nın şehre iki fersah mesafede 50.000 kişilik bir kuvvet yerleştirdiğini, yoll",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -127,21 +157,21 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Sorguladığı tutsaklar suçu Motecuhzoma'nın adamlarına atar.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Motecuhzoma"
+      "iddia": "Sorguladığı tutsaklar suçu Culua adamlarının, yani Muteczuma'nın uyruklarının üzerine atar.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Cortés'in metni, izinsiz yürüttüğü bir seferi meşrulaştırmak zorunda olan bir adamın metnidir ve Cholula bölümü tam da meşrulaştırmaya en çok ihtiyaç duyulan ye",
+      "iddia": "Cortés'in metni, izinsiz yürüttüğü bir seferi meşrulaştırmak zorunda olan bir adamın metnidir ve Cholula bölümü bu meşrulaştırma yükünü taşıyan bölümdür.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k5",
-      "iddia": "Restall'ın kitabının özeti fethin tarihinin yanlış okunarak popüler bilgiye dönüştüğünü konu edinir ve yerlilerin conquistadorları tanrı sandığı yolundaki yaygı",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Restall'ın 2003 tarihli kitabının özeti fethin tarihinin yanlış okunarak popüler bilgiye dönüştüğünü konu edinir ve yerlilerin conquistadorları tanrı sandığı yo",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
@@ -151,9 +181,9 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Sahagún'un kaydı, Meksikalıların İspanyollara duyduğu büyük öfkeyi ileri gelenlerin ve yiğit adamların hainlikle öldürülmesine bağlar; bunun üzerine saray yapıl",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Meksikalıların, İspanyollara"
+      "iddia": "Sahagún'un kaydı, 1520'de Meksikalıların İspanyollara duyduğu büyük öfkeyi ileri gelenlerin ve yiğit adamların hainlikle öldürülmesine bağlar; bunun üzerine sar",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
@@ -169,27 +199,27 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Salgının ölümü tek başına getirmediğini de ekler: yemek yapacak kimse kalmadığı için çok sayıda kişi açlıktan ölmüştür.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Salgının ölümü tek başına getirmediğini de ekler: 1520 sonunda yemek yapacak kimse kalmadığı için çok sayıda kişi açlıktan ölmüştür.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Metin ölenler için \"sayısız insan\" der ve bir rakam yazmaz.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Metin, 1520'nin bu aylarında ölenler için \"sayısız insan\" der ve bir rakam yazmaz.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Salgının zamanlaması da önemlidir: kayıt onu kuşatmadan önceye, İspanyolların şehirden çıkışıyla geri dönüşü arasındaki araya yerleştirir.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İspanyolların"
+      "iddia": "Salgının zamanlaması da önemlidir: kayıt onu 1521 kuşatmasından önceye, İspanyolların şehirden çıkışıyla geri dönüşü arasındaki araya yerleştirir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kuşatmanın teknik aracı, göl üstünde kullanılmak üzere Tlaxcala'da yapılıp Tetzcoco'ya taşınan brigantinlerdi; Cortés'in mektuplarını taşıyan cildin içindekiler",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tlaxcala, Tetzcoco"
+      "iddia": "1521 kuşatmasının teknik aracı, göl üstünde kullanılmak üzere Tlaxcala'da yapılıp Tetzcoco'ya taşınan brigantinlerdi; Cortés'in mektuplarını taşıyan cildin için",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
@@ -217,27 +247,27 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Salgın açıklaması ise çiçek salgınının kuşatmadan önce geldiğini ve sayısız insanı öldürdüğünü söyler; dayanağı Sahagún'un metnidir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Salgın açıklaması ise çiçek salgınının 1520'de, kuşatmadan önce geldiğini ve sayısız insanı öldürdüğünü söyler; dayanağı Sahagún'un metnidir.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Cholula'daki beş saatlik harekâtın kuvvet dökümünü Cortés'in kendisi verir ve dökümde beş bin Tlaxcalalı vardır.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tlaxcalalı"
+      "iddia": "Cholula'daki beş saatlik harekâtın kuvvet dökümünü Cortés'in kendisi verir ve dökümde 5.000 Tlaxcalalı vardır.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
-      "iddia": "Salgının kuşatmadan önce geldiğini ve yemek yapacak kimse kalmayacak kadar yayıldığını Nahua kaydı söyler.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Nahua"
+      "iddia": "Salgının 1520'de, kuşatmadan önce geldiğini ve yemek yapacak kimse kalmayacak kadar yayıldığını Nahua kaydı söyler.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Silahların tek başına belirleyici olmadığını gösteren de gene Cortés'tir: yüz binden fazla savaşçının ortasında geçen o günün sonucunu toplarına değil, tanrının",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Silahların tek başına belirleyici olmadığını gösteren de gene Cortés'tir: 100.000'den fazla savaşçının ortasında geçen o günün sonucunu toplarına değil, tanrını",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -247,9 +277,9 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Sahagún'un metni ise salgın ölüleri için hiçbir rakam yazmaz.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Sahagún'un metni ise 1520 salgınının ölüleri için hiçbir rakam yazmaz.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k3",
@@ -265,9 +295,15 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "Restall'ın özetinde olay, yerli tarafın gözünde İspanyolların önemli ama ikincil bir rol oynadığı bir yerli iç savaşı olarak adlandırılır; tek bir dış gücün eyl",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İspanyolların"
+      "iddia": "Restall'ın 2003 tarihli kitabının özetinde olay, yerli tarafın gözünde İspanyolların önemli ama ikincil bir rol oynadığı bir yerli iç savaşı olarak adlandırılır",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Aynı yönde, 2021 tarihli makale de 1521 Ağustos'undaki düşüşü tek bir etkene değil, İspanyol sömürgeleştirmesinin girişi de dahil birçok etkene bağlar.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k7",
@@ -277,9 +313,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Cortés'in mektubu bir savunma metnidir ve müttefik sayılarını da o savunmanın içinde verir; beş bin Tlaxcalalıyı yazan el, Narváez'i hukuka aykırılıkla suçlayan",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tlaxcalalıyı"
+      "iddia": "Cortés'in mektubu bir savunma metnidir ve müttefik sayılarını da o savunmanın içinde verir; 5.000 Tlaxcalalıyı yazan el, Narváez'i hukuka aykırılıkla suçlayan e",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
@@ -289,9 +325,9 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Sahagún'un derlemesi bir keşişin denetiminden geçmiştir ama salgını ve açlığı içeriden anlatır ve rakam uydurmaz.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Sahagún'un derlemesi bir keşişin denetiminden geçmiştir ama 1520 salgınını ve açlığı içeriden anlatır ve rakam uydurmaz.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k4",

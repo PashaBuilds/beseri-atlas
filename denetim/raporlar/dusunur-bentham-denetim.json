@@ -1,0 +1,297 @@
+{
+  "id": "dusunur-bentham",
+  "gecis": 2,
+  "zaman": "2026-08-29T20:57:27.410Z",
+  "govde_hash": "6acf2a9f33a4",
+  "commit": "7ed5c28",
+  "sonuclar": [
+    {
+      "anahtar": "k5",
+      "iddia": "Kitabın ilk cümlesi bir tanım değil bir yerleştirmedir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Doğa insanlığı acı ile hazzın, yani \"iki egemen efendi\"nin yönetimi altına koymuştur; neyi yapmamız gerektiğini de fiilen ne yapacağımızı da yalnız onlar göster",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kaynağın klasik faydacılardan önce saydığı çizgi Cumberland, Shaftesbury, Hutcheson, Gay ve Hume'u kapsar; bunlardan Francis Hutcheson, eylem seçimi söz konusu ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "ile arasındaki ünlü ayrım da ancak buradan sonra anlaşılır: Mill'in eklediği nitelikli haz ayrımı, kaynağın kaydına göre tam da Bentham'ın kurduğu toplanabilirl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Birden çok kişi söz konusuysa yedinci bir ölçüt devreye girer: kapsam, yani etkilenen kişi sayısı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bentham son iki ölçüt için kendi kaydını düşer: verimlilik ile saflık, sıkı konuşulursa hazzın ya da acının kendi özellikleri değil, onları üreten edimin özelli",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Daha önemli bir çekince de metnin kendisindedir: bu yordamın her ahlaki yargıdan ya da her yasama işleminden önce harfiyen izlenmesi beklenmez; yalnızca göz önü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Yine de uygulanabilirlik itirazı ayakta kalır ve ikincil kaynak da bunu sık dile getirilmiş bir itiraz olarak aktarır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı miktarda paranın, zenginin servetine eklendiğinde yoksula verildiğinden daha az mutluluk ürettiğini Bentham fark etmişti; iktisatçıların sonradan azalan ma",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Fayda ilkesini ve ona bağlı düşünceleri 1769'da Hume, Helvétius ve Beccaria'da bulduğunu söyler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Hutcheson'ın 1729 tarihli formülasyonundan haberi yoktu; kaynağın kaydına göre zaman zaman hatalı bellek yüzünden formülü Priestley'nin 1768 tarihli yönetim den",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı kaynak, Beccaria'ya yaptığı atfı daha akla yatkın bulur: 1764 tarihli Dei Delitti e delle Pene'de İtalyan hukuk reformcusu, bir yasanın değerini ölçmenin t",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kaynak, Bentham'ın bu sonucu yanlış saydığını ama yine de karşılanması gereken bir sonuç olarak gördüğünü ekler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kendi çözümlemesinde azınlığın duyguları hesaptan düşüldüğünde topluluğun toplam mutluluk stokunda kâr değil zarar çıkar, ve iki küme arasındaki sayısal fark kü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Değiştirmenin izi ana yapıtın kendisinde de görülür: 1822'de eklediği bir dipnotta, adlandırmaya son zamanlarda en büyük mutluluk ilkesinin eklendiğini ya da on",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fayda ilkesinin tehlikeli olduğunu söyleyen kişinin, o sırada başsavcı ya da başsavcı yardımcısı olan Alexander Wedderburn olduğunu öğrenen Bentham, sözü doğru ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Sonraki siyaset yazılarında sık dönen sinsi çıkar fikrinin izi buradadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yedinci ölçüt kimin sayılacağını belirlemez; yalnızca sayılanların hepsinin sayılmasını ister.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ceza hukukunun sınırlarını tartıştığı on yedinci bölümde, çıkarları eski hukukçuların duyarsızlığı yüzünden ihmal edildiği için şeyler sınıfına indirilmiş olan ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Yetişkin bir at ya da köpek, bir günlük hatta bir aylık bir bebekten kıyaslanamayacak ölçüde daha akıl yürüten ve daha iletişilebilir bir hayvandır; ama sorulma",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Soru, akıl yürütebilirler mi ya da konuşabilirler mi değil, \"acı çekebilirler mi\"dir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı dipnot de anar: türün büyük bölümünün köle adı altında hukuk önünde tam da hayvanların durumunda tutulduğunu yazar, hayvanların da bir gün ancak zorbalıkla",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Fransızların"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Suçların yalnızca yol açtıkları zarara göre sınıflandırılması gerektiği kuralına dayanarak rızaya dayalı cinsel edimlerin suç sayılmasını reddetti; ölüm cezasın",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bentham 1786-87'de Rusya'da, Potemkin'in hizmetindeki kardeşi Samuel'in yanındaydı; oradaki fikri devraldı ve genişleterek yayımladı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Metnin kendisi de bunu saklamaz: tasarım mektuplarda kardeşinin planı diye anılır ve mektupların 1787'de Rusya'dan İngiltere'ye gönderildiği önsözde yazılıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bentham'ın motor dediği şey budur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Beşinci mektup bunu açıkça ayırır: özsel olan, denetçinin konumunun merkezîliği ile \"görülmeden görme\"nin bilinen ve en etkili düzenekleridir; dairesel biçim en",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Amaçlanan da kesintisiz gözetim değil, gözetildiğine inanmaktır — her an gerçekten görülmek imkânsız olduğuna göre istenen, kişinin aksini kendine kanıtlayamaya",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "bu düzenekten yeni bir iktidar fiziği, davranışın değiştirilebildiği bir iktidar laboratuvarı çıkardı ve panoptikonu baskıcı gözetim toplumunun simgesi saydı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kaynağın hükmü, bu okumanın Bentham'ın önerilerine yöneltilmiş bir eleştiri olarak projenin inceliklerine hakkını vermediği yönündedir; hüküm Semple'ın 1993 tar",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bentham'ın tasarımında gözetilen yalnız mahkûm değildir: halka ve parlamento üyelerine hapishaneye serbest giriş güvence altına alınacak, yönetici de böylece ka",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İlkeyi okullara uygularken karşı tarafın soracaklarını sıralar: bu kesintisiz baskı zihnin gelişimine onarılmaz bir ket vurmaz mı, düzenlilikte kazanılan enerji",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Verdiği cevap ölçütünü hiç terk etmez: ister asker deyin, ister keşiş, ister makine — mutlu olmaları koşuluyla umurunda olmadığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Londra'da yeni bir hapishane yapımına 1794 tarihli yasayla izin verilmişti ve Bentham'ın planı önce Pitt yönetiminin desteğini aldı; yıllarca kendi parasını har",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bentham hukuk kuramcısı olarak yola çıktı ve ilk hedefi hukuk dilindeki kurgulardı: bir şeyin bir yönünü o şeyden soyutlayarak ele almak karışıklık ya da düpedü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Hak ona göre yasal ve belirlidir; yasanın dışında olsa olsa böyle şeyler olmasını dilemek için bir gerekçedir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bu tutum, bugün tartışmasında hukuki pozitivizm diye anılan çizginin erken bir biçimi sayılır; kaynak bu nitelemeyi kesin bir tespit olarak değil, savunulabilir",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Benjamin Constant, Bentham'ın özgünlüğünü takdir etmekle birlikte 1810 tarihli kitabında faydanın belirsizliğini sorun eder: kavram pek çok farklı tanıma açıktı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bir süre Bentham'ın kiracısı olan William Hazlitt onu, hücresinde hukuku dizgeye ve insan zihnini makineye indirgeyen bir münzevi diye yerdi; Thomas Carlyle ayn",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Marx ise faydacılığı yüzeysel ve geçici bir burjuva ideolojisi saydı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "İtiraza göre toplam faydanın hesaplanması kişiler arasındaki ayrımı ciddiye almaz ve tek tek bireylerin çıkarlarını sürekli riske atar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "İtiraz T. H. Green'den bu yana sürüyor ve Rawls ile Nozick tarafından yeniden dile getirildi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bentham'ın kendi metinlerinden verilebilecek bir cevabı vardır — birinin servetini başkalarınınkini artırmak için feda etmek iyiyse ikinciyi, üçüncüyü, yüzüncüy",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Birincisi, en büyük mutluluk formülünü Bentham'ın buluşu saymaktır; kendisi kaynağını başkalarına bağlar, bağlarken bile belleğine güvenilmeyeceğini kabul eder ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İkincisi, onu panoptikona indirgemektir: gözetim düzeneği, kendi metninde yöneticiyi de kapsayan bir kamuya açıklık düzeniyle birlikte gelir ve tasarımın mimari",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "İkincisi, onu panoptikona indirgemektir: gözetim düzeneği, kendi metninde yöneticiyi de kapsayan bir kamuya açıklık düzeniyle birlikte gelir ve tasarımın mimari",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Üçüncüsü, Bentham ile Mill arasındaki mesafeyi olduğundan büyük göstermektir; Warke ve Rosen gibi son dönem yorumcular, yoğunluk ile saflığın ilkece hâlâ ölçüle",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bentham'ın cevabı, hesabın kendisinden çok hesabın açık yapılmasında düğümlenir; kendi projesinin başına gelenler de bu açıklığın ne kadar zor sağlandığını göst",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    }
+  ]
+}

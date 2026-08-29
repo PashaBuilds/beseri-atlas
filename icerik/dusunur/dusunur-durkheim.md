@@ -134,10 +134,10 @@ olduğunu söyler, çünkü toplumsal olguları, doğaları ne kadar esnek ve yo
 olursa olsun keyfe göre değiştirilemeyen şeyler olarak görür.[^k3]
 
 Toplumsal olgu, dar bir liste değildir. Bir toplumun hukuk düzeni, dinsel
-inançları, para sistemi, giyinme biçimleri ve dili bu başlık altındadır; evlenme,
-doğum ve intihar oranları gibi tek tek vakalarda görünen kanaat akımları da
-öyledir ve bunlar ancak istatistikle, yani tekil vakalar bir toplama
-dönüştürülerek incelenebilir; nüfusun sayısı, dağılımı ve iletişim araçları gibi
+inançları, güzellik kavrayışı, para sistemi, giyinme biçimleri ve dili bu başlık
+altındadır; evlenme, doğum ve intihar oranları gibi tek tek vakalarda görünen
+kanaat akımları da öyledir ve bunlar ancak istatistikle, yani tekil vakalar bir
+toplama dönüştürülerek incelenebilir; nüfusun sayısı, dağılımı ve iletişim araçları gibi
 biçimsel koşullar da aynı türdendir.[^k1] Zorlamanın anlamı da eser boyunca
 sabit kalmaz: erken metinlerde daha bastırıcı ve yükümlülük yükleyen bir
 niteliktedir, geç metinlerde bireyin belirli simgelere, kurallara ya da inançlara
@@ -213,9 +213,11 @@ dinsel terimlerle düşündü.[^k1]
 
 1912 tarihli din kitabı en yalın örneği seçer: o gün bilinen en ilkel din sayılan
 Avustralya yerlilerinin totemik dini. Seçim yöntemseldir — dinin özsel öğelerinin
-en yalın biçimde görünmesi umulur.[^k1] Tanım üç öğe taşır: kutsal, yani ayrılmış
-ve yasaklanmış şeylere ilişkin birleşik bir inançlar ve pratikler sistemi ve
-bunlara bağlanan herkesi tek bir ahlaki cemaatte birleştirme.[^k5]
+en yalın biçimde görünmesi umulur.[^k1] Tanımı şöyle kurar: din, kutsal — yani
+ayrılmış ve yasaklanmış — şeylere ilişkin birleşik bir inançlar ve pratikler
+sistemidir; bu inanç ve pratikler kendilerine bağlanan herkesi kilise denen tek
+bir ahlaki cemaatte birleştirir.[^k5] İkinci öğe birincisi kadar temeldir: din
+fikri kilise fikrinden ayrılamadığı için din, özü gereği kolektif bir şeydir.[^k5]
 
 Mekanizma şöyle kurulur: topluluk bir ayin için toplandığında ortaya kişi-dışı
 bir kolektif coşku çıkar; bu güç bir simgeye yansıtılır ve simge kutsallaşır.
@@ -280,24 +282,27 @@ siyasetsizliği sanmak. Durkheim Dreyfus'u savundu, İnsan Hakları Ligi'nin kur
 üyelerindendi ve Birinci Dünya Savaşı sırasında Almanya karşıtı propaganda
 broşürleri yazan bir konum aldı; broşürlerde kendi toplum kuramını Almanya'daki
 milliyetçiliği açıklamak için kullandı.[^k1] Marx'ı bilim dışı ve dogmatik
-bulmasına, marksizmi de gereksiz yere çatışmacı saymasına rağmen bir dizi
+bulmasına, marksizmi de gereksiz yere çatışmacı, gerici ve şiddet yanlısı saymasına rağmen bir dizi
 sosyalist reformu destekledi, ama hiçbir partiye bağlanmadı.[^k1] Savaş en umut
 verici öğrencilerinin çoğunu aldı, oğlu André cephede öldü; kendisi 1917'de öldü
 ve ahlak üzerine yazacağı son kitap bir giriş taslağıyla kaldı.[^k1]
 
 ## Bugün nerede anılıyor
 
-Durkheim'ın adı bugün birbirinden hayli uzak üç tartışmada geçiyor. Birincisi
+Hakemli bir felsefe ansiklopedisinin maddesi, Durkheim'ın adının bugün
+birbirinden hayli uzak üç tartışmada geçtiğini kaydeder.[^k1] Birincisi
 zihin felsefesi ve toplumbilim felsefesidir: onun *sui generis* kavramı,
 1960'larda ortaya çıkan beliriş (emergence) kavramına benzetiliyor ve bu alanlarda
 çalışanlar Durkheim'ın tartışmayla ilgisini yeni yeni tanıyor.[^k1] İkincisi
 ayin ve coşku çözümlemesidir: Randall Collins bunu bir mikro-toplumbilime ve bir
 çatışma kuramına dönüştürdü, Jeffrey Alexander ile Philip Smith ise geç
 dönemindeki metinlerden hareketle kültür toplumbiliminde ayrı bir araştırma
-programı kurdu.[^k1] Üçüncüsü siyaset kuramıdır: birey kişiliğinin kutsallaşması
-tezinin 1948'de kabul edilen İnsan Hakları Evrensel Bildirisi'yle ve John Rawls'un
-siyasal liberalizm ile Jürgen Habermas'ın anayasal yurtseverlik kavramlarıyla
-koşutlukları kuruluyor.[^k1]
+programı kurdu.[^k1] Üçüncüsü siyaset kuramıdır: 1948'de kabul edilen İnsan
+Hakları Evrensel Bildirisi, birey kültünün kutsal metinlerinden biri
+sayılabilecek bir belge olarak okunuyor; Durkheim'ın betimlediği akılla
+temellendirilmiş toplum ile John Rawls'un siyasal liberalizm ve Jürgen
+Habermas'ın anayasal yurtseverlik kavramları arasında ise güçlü koşutluklar
+kuruluyor.[^k1]
 
 Bu üç hattın ortak noktası, Durkheim'ın kendi savını sınadığı yerde değil, o savın
 yöntem olarak bıraktığı yerdedir. [İdeal tip](/kavram/ideal-tip/) tartışmasında

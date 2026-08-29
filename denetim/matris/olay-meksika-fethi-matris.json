@@ -1,8 +1,8 @@
 {
   "id": "olay-meksika-fethi",
-  "govde_hash": "d73b41ae9b3b",
-  "commit": "5373c66",
-  "zaman": "2026-08-29",
+  "govde_hash": "e17aa8b7747b",
+  "commit": "92d1168",
+  "zaman": "2026-08-30",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
     {
@@ -35,7 +35,7 @@
     },
     {
       "iddia_id": "i03",
-      "cumle": "Matthew Restall'ın kitabının özeti fethin siyah ve yerli müttefiklere ağır biçimde dayandığını, bu müttefiklerin binlerce savaşçıyla conquistadorları sayıca kat kat aştığını, yerli tarafın olayı büyük ölçüde İspanyolların önemli ama ikincil bir rol oynadığı bir yerli iç savaşı olarak gördüğünü söyler.",
+      "cumle": "Matthew Restall'ın 2003 tarihli kitabının özeti fethin siyah ve yerli müttefiklere ağır biçimde dayandığını, bu müttefiklerin binlerce savaşçıyla conquistadorları sayıca kat kat aştığını, yerli tarafın olayı büyük ölçüde İspanyolların önemli ama ikincil bir rol oynadığı bir yerli iç savaşı olarak gördüğünü söyler.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -49,17 +49,17 @@
     },
     {
       "iddia_id": "i04",
-      "cumle": "Aynı yıllarda askerî tarih tarafından gelen bir başka itiraz, ateşli silahların İspanyol zaferinin teknolojik belirleyeni sayılmasının artık çözüldüğünü savunur.",
+      "cumle": "Askerî tarih tarafından gelen itiraz daha da açıktır: Cervera Obregón'un tam metni İspanyol teknolojisinin gerçekten üstün olduğunu kabul eder ama bunun fethin askerî belirleyeni olmadığını, yalnız Tenochtitlan'ın düşüşünde brigantinlerin taktik olarak vazgeçilmez sayılabileceğini yazar.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
         {
-          "anahtar": "k7",
-          "destek": "kismi"
+          "anahtar": "k11",
+          "destek": "dogrudan"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Crossref ozeti: 'the use of firearms as the technological determinant for the Spanish victory over the Mexica, among other factors that are now changing' ve 'the dismantling of some positions'. Hakem: Crossref ustveri kunyesi; iddia makalenin bulgusu hakkinda oldugu icin havuz kurali geregi en fazla ozet duzeyinde destek — dogrudan yerine kismi."
+      "inceleme": "HAKEM 2 (kor-hakem-2026-08-29, ikinci tur): onceki tur bu MERKEZI iddiayi yalniz k7'nin Crossref ozetine baglamisti. Hakem, k7 Crossref kaydinin `link` dizisini kendi olctu: application/pdf ve text/html uclari var. PDF ucu ham PDF sozdizimi dondurur (metin cikmaz), ama HTML ucu (article/download/39/93) 24.957 temiz karakterlik TAM METIN dondurur ve k11 olarak kunyelendi. Tam metin: 'Una realidad es que en efecto la tecnologia militar hispana si era evidentemente superior a la indigena en diversos aspectos, pero no fue el determinante necesario de la conquista en terminos militares, pese a que, en algunos casos como la caida misma de Tenochtitlan, los bergantines fueron tacticamente indispensables.' Cumle bu cumleye gore yeniden kuruldu: kaynagin KABULU (teknoloji gercekten ustundu) ve CEKINCESI (brigantinler taktik olarak vazgecilmezdi) ikisi de metne tasindi — onceki halde ikisi de dusmustu. Destek ozet degil tam metin oldugu icin dogrudan."
     },
     {
       "iddia_id": "i05",
@@ -77,7 +77,7 @@
     },
     {
       "iddia_id": "i06",
-      "cumle": "Motecuhzoma'yı da kendi kaydında hükümdarın hizmetine tümüyle bağlanmış biri olarak sunar.",
+      "cumle": "Metninde Muteczuma yazımıyla andığı Motecuhzoma'yı da hükümdarın hizmetine tümüyle bağlanmış biri olarak sunar.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -112,10 +112,14 @@
         {
           "anahtar": "k6",
           "destek": "kismi"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Crossref ozeti: 'Book Twelve of the Florentine Codex, a bilingual manuscript written collaboratively with Indigenous intellectuals in Nahuatl with a Spanish translation and accompanied by nearly two thousand illustrations'; 'Completed in 1579, under increasing scrutiny by religious authorities, the manuscript was confiscated and sent to Europe'. Hakem: Crossref ustveri kunyesi; iddia makalenin bulgusu hakkinda oldugu icin havuz kurali geregi en fazla ozet duzeyinde destek — dogrudan yerine kismi."
+      "inceleme": "Crossref ozeti: 'Book Twelve of the Florentine Codex, a bilingual manuscript written collaboratively with Indigenous intellectuals in Nahuatl with a Spanish translation and accompanied by nearly two thousand illustrations'; 'Completed in 1579, under increasing scrutiny by religious authorities, the manuscript was confiscated and sent to Europe'. Hakem: Crossref ustveri kunyesi; iddia makalenin bulgusu hakkinda oldugu icin havuz kurali geregi en fazla ozet duzeyinde destek — dogrudan yerine kismi. KAYNAK DERINLESTIRME (2026-08-29): cumle artik yalniz Crossref ozetine dayanmiyor. UNESCO Dunya Bellegi kutuk kaydi yazmayi birebir su sozlerle tarif eder: 'The manuscript is laid out in two columns, with texts in Nahuatl and Spanish, and spans 12 books in three volumes.' k9 cumlenin iki dilli/iki sutunlu yazma cekirdegini DOGRUDAN tasir; 1579'da tamamlanma, el koyma ve iki bine yakin resim kismini tasimaz — o kisim k6'dadir. Kurumsal kutuk kaydi kaynak hiyerarsisinin en ustundedir. HAKEM 2 DUZELTMESI: k9 bu cumle icin 'dogrudan' isaretliydi; kutuk kaydi cumlenin yalniz iki-sutun/iki-dil cekirdegini tasir, '1579'da tamamlanma', 'el konulmasi', 'Avrupa'ya gonderilmesi' ve 'iki bine yakin resim' ogelerinin HICBIRINI tasimaz. Kaynak cumlenin konusunu tasiyip iddiasinin buyuk bolumunu tasimadigi icin destek kismi'ye indirildi."
     },
     {
       "iddia_id": "i09",
@@ -133,21 +137,21 @@
     },
     {
       "iddia_id": "i10",
-      "cumle": "Dördüncü bir ses, Tlaxcalalı Diego Muñoz Camargo'nun kroniğidir; orada Tlaxcalalılar Cortés'in \"sadık dostları\" diye anılır ve Xicotencatl'ın oğlunun Tetzcoco'da astırılması bu sadakat çerçevesi içinde anlatılır.",
+      "cumle": "Dördüncü bir ses, Tlaxcalalı Diego Muñoz Camargo'nun kroniğidir; kitabın bölüm dizini genç Xicotencatl'a karşı Cortés'in şikâyetlerini, Tlaxcala Senatosu'nun onu cezalandırılmak üzere teslim edişini ve Cortés'in onu astırdığını arka arkaya sayar.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
         {
           "anahtar": "k4",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "orta",
-      "inceleme": "Muñoz Camargo: 'los de Tlaxcalla sus leales amigos'; ayni pasajda Xicotencatl'in oglunun Tetzcuco'da astirilmasi anlatilir. Kronik Tlaxcala'nin kendi davasini savunur; destek dogrudan ama kaynak taraftir."
+      "inceleme": "HAKEM 2 BULGUSU — DUZELTILDI. Onceki inceleme notu kaynaktan 'los de Tlaxcalla sus leales amigos' diye bir dize aliyordu ve govde bunu tirnak icinde 'sadik dostlari' diye aktariyordu. Hakem bu dizeyi hem 400k onbellek penceresinde hem `--tam` kipinde aradi: 'leales amigos' ve 'fieles amigos' GECMIYOR (kelime ortusmesi %50; 'leales' yalniz OCR varyanti 'Reales' olarak var). 'Tetzcuco'da astirilma' da hicbir surumde bulunamadi. Yani tirnakli alinti ve yer adi kaynakta DOGRULANAMIYORDU. Cumle, cildin fetch edilen metninde BIREBIR duran bolum dizinine indirildi: 'Le sucede en el Senorio Xicotencatl el joven. — Quejas de Cortes contra el. — Sentimientos patrioticos que las motivaban. — El Senado Tlaxcalteca se lo entrega autorizando su castigo. — Lo manda ahorcar Cortes.' Bu dizin Chavero baskisinin editoryal aparatidir, kronigin kendi cumlesi degildir; govde de 'kitabin bolum dizini' diyerek bunu beyan eder. Destek kismi."
     },
     {
       "iddia_id": "i11",
-      "cumle": "Cortés kendi anlatısında Aztek yönetiminden hoşnutsuz kıyı beylerinin kendisine başvurduğunu, kendilerini ezen güçlü hükümdara karşı korunma istediklerini, oğullarının kurban için alınmasından yakındıklarını yazar.",
+      "cumle": "Cortés kendi anlatısında Aztek yönetiminden hoşnutsuz Cempoal beylerinin kendisine başvurduğunu, kendilerini ezen güçlü hükümdara karşı korunma istediklerini, oğullarının kurban için alınmasından yakındıklarını yazar.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -161,7 +165,7 @@
     },
     {
       "iddia_id": "i12",
-      "cumle": "Tlaxcala sınırında ise savaş çıktı: Cortés kendini yüz binden fazla savaşçının ortasında bulduğunu, çarpışmanın gün boyu sürdüğünü ve tanrının kendi taraflarında savaştığının göründüğünü anlatır.",
+      "cumle": "Tlaxcala sınırında ise 1519 sonbaharında savaş çıktı: Cortés kendini 100.000'den fazla savaşçının ortasında bulduğunu, çarpışmanın gün boyu sürdüğünü ve tanrının kendi taraflarında savaştığının göründüğünü anlatır.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -217,7 +221,7 @@
     },
     {
       "iddia_id": "i16",
-      "cumle": "Cortés de Tlaxcala sınırındaki ilk çatışmada, yanında noter bulunmadığı için tercümanlar üzerinden resmî bir çağrı yaptığını yazar.",
+      "cumle": "Cortés de Tlaxcala sınırındaki 1519 tarihli ilk çatışmada, yanında noter bulunmadığı için tercümanlar üzerinden resmî bir çağrı yaptığını yazar.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -259,7 +263,7 @@
     },
     {
       "iddia_id": "i19",
-      "cumle": "Cortés, Tlaxcalalı beylerin kendisini şehre girmemesi için uyardığını, Motecuhzoma'nın şehre iki fersah mesafede elli bin kişilik bir kuvvet yerleştirdiğini, yolların kazıklı çukurlarla kapatıldığını duyduğunu yazar.",
+      "cumle": "Cortés, Tlaxcalalı beylerin kendisini şehre girmemesi için uyardığını, Motecuhzoma'nın şehre iki fersah mesafede 50.000 kişilik bir kuvvet yerleştirdiğini, yolların kazıklı çukurlarla kapatıldığını duyduğunu yazar.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -287,7 +291,7 @@
     },
     {
       "iddia_id": "i21",
-      "cumle": "Sorguladığı tutsaklar suçu Motecuhzoma'nın adamlarına atar.",
+      "cumle": "Sorguladığı tutsaklar suçu Culua adamlarının, yani Muteczuma'nın uyruklarının üzerine atar.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -297,11 +301,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Cortés: 'they answered, that it was not their fault, as the men of Culua, [Mexico,] who were the vassals of Muteczuma, had urged them to it'."
+      "inceleme": "Cortés: 'they answered, that it was not their fault, as the men of Culua, [Mexico,] who were the vassals of Muteczuma, had urged them to it'. Kaynak derinlestirme turu: cumle kaynagin kendi adlandirmasina (Culua adamlari / Muteczuma'nin uyruklari) oturtuldu; onceki 'Motecuhzoma'nin adamlari' ozeti kaynagin iki katmanli ifadesini duzlestiriyordu ve mekanik katman olcemiyordu."
     },
     {
       "iddia_id": "i22",
-      "cumle": "Cortés'in metni, izinsiz yürüttüğü bir seferi meşrulaştırmak zorunda olan bir adamın metnidir ve Cholula bölümü tam da meşrulaştırmaya en çok ihtiyaç duyulan yerdir.",
+      "cumle": "Cortés'in metni, izinsiz yürüttüğü bir seferi meşrulaştırmak zorunda olan bir adamın metnidir ve Cholula bölümü bu meşrulaştırma yükünü taşıyan bölümdür.",
       "onem": "destek",
       "tur": "yorum",
       "kaynaklar": [
@@ -315,7 +319,7 @@
     },
     {
       "iddia_id": "i23",
-      "cumle": "Restall'ın kitabının özeti fethin tarihinin yanlış okunarak popüler bilgiye dönüştüğünü konu edinir ve yerlilerin conquistadorları tanrı sandığı yolundaki yaygın kabulü reddeder.",
+      "cumle": "Restall'ın 2003 tarihli kitabının özeti fethin tarihinin yanlış okunarak popüler bilgiye dönüştüğünü konu edinir ve yerlilerin conquistadorları tanrı sandığı yolundaki yaygın kabulü reddeder.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -343,7 +347,7 @@
     },
     {
       "iddia_id": "i25",
-      "cumle": "Sahagún'un kaydı, Meksikalıların İspanyollara duyduğu büyük öfkeyi ileri gelenlerin ve yiğit adamların hainlikle öldürülmesine bağlar; bunun üzerine saray yapılarını kuşattıklarını, kimseyi içeri ve dışarı bırakmadıklarını, aç kalsınlar diye erzak sokulmasına izin vermediklerini, gizlice yiyecek götürenlerin öldürüldüğünü yazar.",
+      "cumle": "Sahagún'un kaydı, 1520'de Meksikalıların İspanyollara duyduğu büyük öfkeyi ileri gelenlerin ve yiğit adamların hainlikle öldürülmesine bağlar; bunun üzerine saray yapılarını kuşattıklarını, kimseyi içeri ve dışarı bırakmadıklarını, aç kalsınlar diye erzak sokulmasına izin vermediklerini, gizlice yiyecek götürenlerin öldürüldüğünü yazar.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -371,7 +375,7 @@
     },
     {
       "iddia_id": "i27",
-      "cumle": "Salgının ölümü tek başına getirmediğini de ekler: yemek yapacak kimse kalmadığı için çok sayıda kişi açlıktan ölmüştür.",
+      "cumle": "Salgının ölümü tek başına getirmediğini de ekler: 1520 sonunda yemek yapacak kimse kalmadığı için çok sayıda kişi açlıktan ölmüştür.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -385,7 +389,7 @@
     },
     {
       "iddia_id": "i28",
-      "cumle": "Metin ölenler için \"sayısız insan\" der ve bir rakam yazmaz.",
+      "cumle": "Metin, 1520'nin bu aylarında ölenler için \"sayısız insan\" der ve bir rakam yazmaz.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -399,7 +403,7 @@
     },
     {
       "iddia_id": "i29",
-      "cumle": "Salgının zamanlaması da önemlidir: kayıt onu kuşatmadan önceye, İspanyolların şehirden çıkışıyla geri dönüşü arasındaki araya yerleştirir.",
+      "cumle": "Salgının zamanlaması da önemlidir: kayıt onu 1521 kuşatmasından önceye, İspanyolların şehirden çıkışıyla geri dönüşü arasındaki araya yerleştirir.",
       "onem": "destek",
       "tur": "tarih",
       "kaynaklar": [
@@ -413,7 +417,7 @@
     },
     {
       "iddia_id": "i30",
-      "cumle": "Kuşatmanın teknik aracı, göl üstünde kullanılmak üzere Tlaxcala'da yapılıp Tetzcoco'ya taşınan brigantinlerdi; Cortés'in mektuplarını taşıyan cildin içindekiler dizini bu taşımayı ayrı bir kalem olarak sayar.",
+      "cumle": "1521 kuşatmasının teknik aracı, göl üstünde kullanılmak üzere Tlaxcala'da yapılıp Tetzcoco'ya taşınan brigantinlerdi; Cortés'in mektuplarını taşıyan cildin içindekiler dizini bu taşımayı ayrı bir kalem olarak sayar.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -462,10 +466,14 @@
         {
           "anahtar": "k7",
           "destek": "kismi"
+        },
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Crossref ozeti: 'the emblematic use of the crested morion, the armored soldiers of Cortés, the use of firearms as the technological determinant'. Hakem: Crossref ustveri kunyesi; iddia makalenin bulgusu hakkinda oldugu icin havuz kurali geregi en fazla ozet duzeyinde destek — dogrudan yerine kismi."
+      "inceleme": "Crossref ozeti: 'the emblematic use of the crested morion, the armored soldiers of Cortés, the use of firearms as the technological determinant'. Hakem: Crossref ustveri kunyesi; iddia makalenin bulgusu hakkinda oldugu icin havuz kurali geregi en fazla ozet duzeyinde destek — dogrudan yerine kismi. HAKEM 2: ayni sav k11 tam metninde kanitiyla duruyor — 'El mito mas emblematico referente a los equipamientos militares hispanos es el uso del llamado morrion de cresta... Hoy sabemos que ese tipo de casco no era el usado por los espanoles' ve 'no se puede argumentar que fue gracias a las armas de fuego que los hispanos tuvieron la sufic[i]ente superioridad militar'. k11 eklendi, destek dogrudan."
     },
     {
       "iddia_id": "i34",
@@ -483,7 +491,7 @@
     },
     {
       "iddia_id": "i35",
-      "cumle": "Salgın açıklaması ise çiçek salgınının kuşatmadan önce geldiğini ve sayısız insanı öldürdüğünü söyler; dayanağı Sahagún'un metnidir.",
+      "cumle": "Salgın açıklaması ise çiçek salgınının 1520'de, kuşatmadan önce geldiğini ve sayısız insanı öldürdüğünü söyler; dayanağı Sahagún'un metnidir.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -497,7 +505,7 @@
     },
     {
       "iddia_id": "i36",
-      "cumle": "Cholula'daki beş saatlik harekâtın kuvvet dökümünü Cortés'in kendisi verir ve dökümde beş bin Tlaxcalalı vardır.",
+      "cumle": "Cholula'daki beş saatlik harekâtın kuvvet dökümünü Cortés'in kendisi verir ve dökümde 5.000 Tlaxcalalı vardır.",
       "onem": "destek",
       "tur": "sayi",
       "kaynaklar": [
@@ -511,7 +519,7 @@
     },
     {
       "iddia_id": "i37",
-      "cumle": "Salgının kuşatmadan önce geldiğini ve yemek yapacak kimse kalmayacak kadar yayıldığını Nahua kaydı söyler.",
+      "cumle": "Salgının 1520'de, kuşatmadan önce geldiğini ve yemek yapacak kimse kalmayacak kadar yayıldığını Nahua kaydı söyler.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -525,7 +533,7 @@
     },
     {
       "iddia_id": "i38",
-      "cumle": "Silahların tek başına belirleyici olmadığını gösteren de gene Cortés'tir: yüz binden fazla savaşçının ortasında geçen o günün sonucunu toplarına değil, tanrının kendi taraflarında savaştığı izlenimine bağlar.",
+      "cumle": "Silahların tek başına belirleyici olmadığını gösteren de gene Cortés'tir: 100.000'den fazla savaşçının ortasında geçen o günün sonucunu toplarına değil, tanrının kendi taraflarında savaştığı izlenimine bağlar.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -553,7 +561,7 @@
     },
     {
       "iddia_id": "i40",
-      "cumle": "Sahagún'un metni ise salgın ölüleri için hiçbir rakam yazmaz.",
+      "cumle": "Sahagún'un metni ise 1520 salgınının ölüleri için hiçbir rakam yazmaz.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -595,7 +603,7 @@
     },
     {
       "iddia_id": "i43",
-      "cumle": "Restall'ın özetinde olay, yerli tarafın gözünde İspanyolların önemli ama ikincil bir rol oynadığı bir yerli iç savaşı olarak adlandırılır; tek bir dış gücün eylemini ima eden fetih sözcüğü bu okumayla birlikte yerinden oynar.",
+      "cumle": "Restall'ın 2003 tarihli kitabının özetinde olay, yerli tarafın gözünde İspanyolların önemli ama ikincil bir rol oynadığı bir yerli iç savaşı olarak adlandırılır; tek bir dış gücün eylemini ima eden fetih sözcüğü bu okumayla birlikte yerinden oynar.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -616,14 +624,18 @@
         {
           "anahtar": "k7",
           "destek": "kismi"
+        },
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Crossref ozeti: 'the various military confrontations that were not only summarized in the fall of Tenochtitlan, but also in the various scenarios before and after the fall of the Mexica Empire'. Hakem: Crossref ustveri kunyesi; iddia makalenin bulgusu hakkinda oldugu icin havuz kurali geregi en fazla ozet duzeyinde destek — dogrudan yerine kismi."
+      "inceleme": "Crossref ozeti: 'the various military confrontations that were not only summarized in the fall of Tenochtitlan, but also in the various scenarios before and after the fall of the Mexica Empire'. Hakem: Crossref ustveri kunyesi; iddia makalenin bulgusu hakkinda oldugu icin havuz kurali geregi en fazla ozet duzeyinde destek — dogrudan yerine kismi. HAKEM 2: k11 tam metni ayni savi tasiyor — 'los diversos enfrentamientos militares que no solo se resumieron en la caida de Tenochtitlan, sino tambien en los diversos escenarios previos y posteriores a la caida del Imperio mexica'. k11 eklendi, destek dogrudan."
     },
     {
       "iddia_id": "i45",
-      "cumle": "Cortés'in mektubu bir savunma metnidir ve müttefik sayılarını da o savunmanın içinde verir; beş bin Tlaxcalalıyı yazan el, Narváez'i hukuka aykırılıkla suçlayan eldir.",
+      "cumle": "Cortés'in mektubu bir savunma metnidir ve müttefik sayılarını da o savunmanın içinde verir; 5.000 Tlaxcalalıyı yazan el, Narváez'i hukuka aykırılıkla suçlayan eldir.",
       "onem": "destek",
       "tur": "yorum",
       "kaynaklar": [
@@ -651,7 +663,7 @@
     },
     {
       "iddia_id": "i47",
-      "cumle": "Sahagún'un derlemesi bir keşişin denetiminden geçmiştir ama salgını ve açlığı içeriden anlatır ve rakam uydurmaz.",
+      "cumle": "Sahagún'un derlemesi bir keşişin denetiminden geçmiştir ama 1520 salgınını ve açlığı içeriden anlatır ve rakam uydurmaz.",
       "onem": "destek",
       "tur": "yorum",
       "kaynaklar": [
@@ -690,12 +702,106 @@
       ],
       "guven": "yuksek",
       "inceleme": "Hakem eklemesi: dalga notu 'La Noche Triste'yi acikca istiyordu, onarim metni geceyi yalnizca bir yan cumleyle geciyordu. Kaynak (bolum xxiv) birebir: 'despues que los espanoles y los amigos que con ellos estaban se hallaron muy apretados, asi de hambre como de guerra, una noche salieron todos de su fuerte, los espanoles delante y los indios tlaxcaltecas detras, y llevaban unas puentes hechas con que se pasaban las acequias. cuando esto acontecio llovia mansamente, pasaron cuatro acequias, y antes que pasasen las demas salio una muger a tomar agua y violos como se iban, y salio dando voces.'"
+    },
+    {
+      "iddia_id": "i50",
+      "cumle": "Bu savın yanında ittifakı sayıya döken açık erişimli bir kayıt durur: 2021 tarihli tıp tarihi makalesi arka plan bölümünde, Aztek egemenliğinin öteki yerli kültürler üzerindeki baskısının İspanyollar, Tlaxcalalılar, Huejotzincalılar, Totonaklar ve Cempoallılardan oluşan yaklaşık 70.000 kişilik bir orduyu bir araya getirdiğini yazar; sayı, kaynağın kendi kaydında da yaklaşıktır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Acik erisim TAM METIN (Crossref ozeti degil): 'the most important was the domination and oppression of the Aztec empire over other indigenous cultures, which generated alliances and an army of nearly 70,000 men, including Spaniards, Tlaxcalans, Huejotzincas, Totonacs, and Cempoaltecos'. CEKINCE: kaynagin 'nearly' sozcugu metne 'yaklasik' diye tasindi ve cumlede ayrica beyan edildi. Sayi kaynagin kendi tahminidir, bagimsiz bir sayim degildir; guven 'orta' isaretlendi. Bu kunye, muttefiklerin sayica ustunlugu savini Restall'in yayinci ozetinden (k5) bagimsiz bir tam metne baglar — hakemin 'merkezi iddia yalniz Crossref ozetine yasliyor' sikayetinin karsiligi budur. HAKEM 2 DUZELTMESI — CERCEVE: onceki cumle bu kaydi 'kanitina inen acik erisimli bir calisma' diye tanitiyordu. Bu asiri kesindi: k10 bir sinir cerrahisi dergisinde Motecuhzoma'nin olum bicimini tartisan bir makaledir; 70.000 sayisi ARKA PLAN paragrafindadir ve makalenin kendi 22 no'lu kaynagina (Leyva-Rendon, INAH 2020) dayanir — Restall'in savinin kanit bolumu DEGILDIR. Cumle 'tip tarihi makalesi arka plan bolumunde' diyerek aktarim halkasini acikca gosterecek bicimde yeniden kuruldu. Sayinin kendisi hakemce birebir dogrulandi."
+    },
+    {
+      "iddia_id": "i51",
+      "cumle": "Kayıtların çıkarı en açık biçimde hükümdarın ölümünde görünür: 2021 tarihli makale, anlatının ikiye ayrıldığını yazar — ölümü yerlilere yükleyen Hernan Cortés ve Bernal Díaz'ın karşısında, Fernando Alvarado Tezozómoc ile Francisco de San Antón Chimalpahin gibi yerli soydan tarihçiler İspanyolları tlatoani'nin ölümüyle ilişkilendirir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tam metin: 'the history of the fall of the Aztec empire diverges between two versions, the first one where the death of Montezuma is attributed to the Indians, told by Spaniards such as Hernan Cortés and Bernal Diaz del Castillo, and the second, related by historians of indigenous descent such as Fernando Alvarado Tezozómoc and Francisco de San Anton Chimalpahin, who link the Spaniards with the death of the Mexica tlatoani.' Metin hangi surumun dogru oldugu hakkinda hukum vermez; makale de vermiyor, yalnizca ayrismayi kaydediyor."
+    },
+    {
+      "iddia_id": "i52",
+      "cumle": "UNESCO'nun Memory of the World kütüğüne 2015'te aldığı kayıt yazmanın yapısını dışarıdan doğrular: metin iki sütun hâlinde Nahuatl ve İspanyolca yazılmıştır, üç cilt içinde on iki kitap tutar ve Floransa'daki Laurenziana Kütüphanesi'ndedir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kurumsal kutuk kaydi birebir: 'The Florentine Codex is held at the Laurentian Library in Florence. The manuscript is laid out in two columns, with texts in Nahuatl and Spanish, and spans 12 books in three volumes.' Kayit yili sayfada 'Registration Year: 2015' olarak duruyor. Kayit betimleyicidir; fethin seyri hakkinda yorum tasimaz ve metinde de yalnizca yazmanin yapisi icin kullanildi."
+    },
+    {
+      "iddia_id": "i53",
+      "cumle": "Aynı kayıt Bustamante baskılarının soyunu da verir: yazmanın on sekizinci yüzyılda Diego Panes'in çıkardığı bir kopyası Yeni İspanya'ya götürülmüş, Carlos María de Bustamante ilk Meksika baskısını 1830'da bu kopyadan yapmıştır — yani Nahua anlatısına ulaşan yol özgün yazmadan değil bir kopyadan geçer.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kutuk kaydi: 'Diego Panes made a copy of the manuscript in the 18th century that he later brought to New Spain. In 1830, Don Carlos María de Bustamente used this version to make the first Mexican edition of the \"General History of the things of New Spain\".' TARIH FARKI ACIKCA BIRAKILDI: bu dosyanin k3 kunyesi Bustamante'nin 12. kitabi ayri basan 1829 cildidir; UNESCO kaydi Historia general'in ilk Meksika baskisini 1830'a tarihler. Ikisi celismiyor (ayri yayinlar) ama metinde kutugun kendi tarihi yazildi, kunyeninki degil. Guven 'orta': kayit kisa ve betimleyicidir. HAKEM 2: 'bugun kullanilan Meksika baskisinin soyu' ifadesi, kutugun anlattigi 1830 Historia general baskisi ile bu dosyanin kullandigi 1829 Conquista cildini ustu kapali biçimde ayni sey saymaya yatkindi; 'Bustamante baskilarinin soyu' diye genellestirildi."
+    },
+    {
+      "iddia_id": "i54",
+      "cumle": "Aynı yönde, 2021 tarihli makale de 1521 Ağustos'undaki düşüşü tek bir etkene değil, İspanyol sömürgeleştirmesinin girişi de dahil birçok etkene bağlar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tam metin: 'The fall of the Aztec empire in august 1521 was due to many factors, including the incursion of Spanish colonization and its violent transculturation...'. Kaynak 'many factors' der ve bir siralama yapmaz; metin de siralama yapmiyor."
     }
   ],
   "sayaclar": {
-    "dogrudan": 33,
-    "kismi": 14,
+    "dogrudan": 40,
+    "kismi": 12,
     "desteksiz": 0,
     "olculemez": 2
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "22 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "c71f3dc60d96",
+      "yeni_hash": "f3a60cc28c18",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    },
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "f3a60cc28c18",
+      "yeni_hash": "f98bcf46df58",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    },
+    {
+      "zaman": "2026-08-30",
+      "onceki_hash": "f98bcf46df58",
+      "yeni_hash": "e17aa8b7747b",
+      "gerekce": "kor hakem 2. tur: k11 (Cervera Obregon acik erisim TAM METIN) eklendi; i04 ozet yerine tam metne baglandi; i10 dogrulanamayan tirnakli alintidan arindirilip bolum dizinine indirildi; i08 k9 destegi dogrudan->kismi; i50 ve i53 cerceveleri kaynagin tasidigina indirildi"
+    }
+  ]
 }

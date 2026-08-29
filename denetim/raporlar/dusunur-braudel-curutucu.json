@@ -1,28 +1,22 @@
 {
   "id": "dusunur-braudel",
   "gecis": 3,
-  "zaman": "2026-08-21T09:10:35.991Z",
+  "zaman": "2026-08-29T20:35:11.971Z",
+  "govde_hash": "a6f22671ff34",
   "itirazlar": [
     {
       "ciddiyet": "orta",
-      "tip": "kesinlik-dili",
-      "cumle": "Bir tarihçinin olayları yöntemsel olarak en az açıklayıcı katmana yerleştirmesi, [^k1] bu atlasın olay dosyalarını neden her zaman bir dönem dosyasına bağladığını gösterir: olay te",
-      "sorun": "Kesinlik ifadesi \"her zaman\" atıf çerçevesi olmadan kullanılmış.",
-      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Hayranlık yazımına karşı bir kayıt daha gerekir. Derleme kaynak, Braudel'in kendi döneminin sömürge yargılarını paylaştığı iki ifadeyi kaydeder: 1937 tarihli bir yazısında Brezilya",
+      "sorun": "Nedensellik iddiası tek kaynağa (k9) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
     },
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Bir tarihçinin olayları yöntemsel olarak en az açıklayıcı katmana yerleştirmesi, [^k1] bu atlasın olay dosyalarını neden her zaman bir dönem dosyasına bağladığını gösterir: olay te",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "cumle": "Adı kurumlarda da kaldı. Binghamton Üniversitesi'nde 2020'ye kadar bir Fernand Braudel Merkezi vardı ve 2011'de *History Today* dergisinin anketinde geçmiş altmış yılın en önemli t",
+      "sorun": "\"en önemli\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
-    },
-    {
-      "ciddiyet": "orta",
-      "tip": "tek-kaynakli-nedensellik",
-      "cumle": "Kaynak, onun kapitalistlerin genellikle varsayıldığı gibi rekabetçi piyasalarda faaliyet gösteren girişimciler değil tekelciler olduğunu savunduğunu yazar; kapitalistlerin uzmanlaş",
-      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
-      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
     }
   ]
 }

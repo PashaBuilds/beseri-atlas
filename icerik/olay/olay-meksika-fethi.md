@@ -84,28 +84,55 @@ kaynaklar:
     erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "a hypothesis of his own"
     not: "Ozet, savi yazarin kendi hipotezi olarak sunar; metinde de oyle aktarildi"
+  - anahtar: k9
+    tur: akademik
+    ad: "UNESCO Dunya Bellegi Kutugu — 'The Work of Fray Bernardino de Sahagún (1499-1590). The Madrid and Italian Codex' (2015 kaydi)"
+    url: https://www.unesco.org/en/memory-world/lac/work-fray-bernardino-de-sahagun-1499-1590-madrid-and-italian-codex
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "laid out in two columns, with texts in Nahuatl and Spanish"
+    not: "Kurumsal kutuk kaydi. Yazmanin fiziksel yapisini ve Bustamante baskisinin soyunu belgeler; betimleyicidir, fethin seyrine iliskin yorum tasimaz"
+  - anahtar: k10
+    tur: akademik
+    ad: "Rodrigo Ramos-Zúñiga vd. — 'Traumatic brain injury and the fall of the Aztec empire: 500 years of head injury diagnosis', Surgical Neurology International 12 (2021), 536"
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8571178/
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "an army of nearly 70,000 men"
+    not: "Acik erisim TAM METIN (ozet degil). Makalenin asil konusu Motecuhzoma'nin olum bicimidir; ittifak sayisi ve kaynak ayrismasi arka plan bolumundedir"
+  - anahtar: k11
+    tur: akademik
+    ad: "Marco Antonio Cervera Obregón — 'Los mitos de la conquista de México Tenochtitlan también están en su Historia Militar', Guerra Colonial 7 (2020) — acik erisimli TAM METIN (HTML surumu)"
+    url: https://guerracolonial.oa.urjc.es/index.php/gc/article/download/39/93
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "no fue el determinante necesario de la conquista"
+    not: "k7'deki Crossref kaydinin link dizisindeki acik erisim ucundan gelen tam metin (CC BY-ND). k7'de ozet duzeyinde kalan teknoloji iddiasinin kanit bolumu burada okunabiliyor"
 son_denetim: 2026-08-29
 denetim_durumu: onaylandi
 onarim_turu: 1
 ---
 Hernán Cortés'in Küba'dan yola çıkardığı filo, mektuplarını taşıyan cildin
 girişindeki kayda göre 18 Şubat 1519'da denize açıldı.[^k1] Tenochtitlan iki
-buçuk yıl sonra düştüğünde şehri alan güç yalnızca bu filo değildi.
-Cortés'in imparator V. Karl'a yazdığı mektupta Cholula'da şehri tararken yanında saydığı kuvvet beş bin
-Tlaxcalalı ve dört yüz Cempoallıdır; Tlaxcala sınırındaki ilk büyük çarpışmada
-yanında kaldığını yazdığı kuvvet ise altı top, beş altı el silahı, kırk okçu ve
-on üç atlıdır.[^k1] Yani seferi taşıyan asıl gövde, seferi anlatan adamın kendi
-rakamlarında bile İspanyol değildir.
+buçuk yıl sonra düştüğünde şehri alan güç yalnızca bu filo değildi. Cortés'in
+imparator V. Karl'a yazdığı mektupta Cholula'da şehri tararken yanında saydığı
+kuvvet beş bin Tlaxcalalı ve dört yüz Cempoallıdır; Tlaxcala sınırındaki ilk
+büyük çarpışmada yanında kaldığını yazdığı kuvvet ise altı top, beş altı el
+silahı, kırk okçu ve on üç atlıdır.[^k1] Yani seferi taşıyan asıl gövde, seferi
+anlatan adamın kendi rakamlarında bile İspanyol değildir.
 
-Bu oran, olayın nasıl okunacağını belirler. Matthew Restall'ın kitabının özeti
-fethin siyah ve yerli müttefiklere ağır biçimde dayandığını, bu müttefiklerin
-binlerce savaşçıyla conquistadorları sayıca kat kat aştığını, yerli tarafın
-olayı büyük ölçüde İspanyolların önemli ama ikincil bir rol oynadığı bir yerli
-iç savaşı olarak gördüğünü söyler.[^k5] Aynı yıllarda askerî tarih tarafından
-gelen bir başka itiraz, ateşli silahların İspanyol zaferinin teknolojik
-belirleyeni sayılmasının artık çözüldüğünü savunur.[^k7] Ateşli silah, at ve
-çelik zırh listesiyle kurulan klasik anlatı, üç ayrı yönden aynı anda aşınmış
-durumdadır.
+Bu oran, olayın nasıl okunacağını belirler. Matthew Restall'ın 2003 tarihli
+kitabının özeti fethin siyah ve yerli müttefiklere ağır biçimde dayandığını, bu
+müttefiklerin binlerce savaşçıyla conquistadorları sayıca kat kat aştığını,
+yerli tarafın olayı büyük ölçüde İspanyolların önemli ama ikincil bir rol
+oynadığı bir yerli iç savaşı olarak gördüğünü söyler.[^k5] Bu savın yanında
+ittifakı sayıya döken açık erişimli bir kayıt durur: 2021 tarihli tıp tarihi
+makalesi arka plan bölümünde, Aztek egemenliğinin öteki yerli kültürler üzerindeki baskısının
+İspanyollar, Tlaxcalalılar, Huejotzincalılar, Totonaklar ve Cempoallılardan
+oluşan yaklaşık 70.000 kişilik bir orduyu bir araya getirdiğini yazar; sayı,
+kaynağın kendi kaydında da yaklaşıktır.[^k10] Askerî tarih tarafından gelen
+itiraz daha da açıktır: Cervera Obregón'un tam metni İspanyol teknolojisinin
+gerçekten üstün olduğunu kabul eder ama bunun fethin askerî belirleyeni
+olmadığını, yalnız Tenochtitlan'ın düşüşünde brigantinlerin taktik olarak
+vazgeçilmez sayılabileceğini yazar.[^k11] Ateşli silah, at ve zırh listesiyle
+kurulan klasik anlatı üç ayrı yönden aşınmıştır.
 
 ## Üç kayıt, üç ayrı çıkar
 
@@ -116,9 +143,14 @@ kralın adına kurduğu Vera Cruz kasabasını ve oradan gönderdiği temsilcile
 anar; aynı mektubun ilerleyen bölümünde Velázquez'in gönderdiği Pánfilo de
 Narváez'i, geldiğinde kendini kaptan general ve vali yardımcısı ilan ettirmekle,
 yani hükümdarın hizmetine zarar veren ve yasalara aykırı işler yapmakla
-suçlar.[^k1] Motecuhzoma'yı da kendi kaydında hükümdarın hizmetine tümüyle
-bağlanmış biri olarak sunar.[^k1] Bunlar edebî süs değil hukuki iddialardır:
-gönüllü tabiiyet, fethedene tapu verir.
+suçlar.[^k1] Metninde Muteczuma yazımıyla andığı Motecuhzoma'yı da hükümdarın
+hizmetine tümüyle bağlanmış biri olarak sunar.[^k1] Bunlar edebî süs değil
+hukuki iddialardır: gönüllü tabiiyet, fethedene tapu verir. Kayıtların çıkarı en
+açık biçimde hükümdarın ölümünde görünür: 2021 tarihli makale, anlatının ikiye
+ayrıldığını yazar — ölümü yerlilere yükleyen Hernan Cortés ve Bernal Díaz'ın
+karşısında, Fernando Alvarado Tezozómoc ile Francisco de San Antón Chimalpahin
+gibi yerli soydan tarihçiler İspanyolları tlatoani'nin ölümüyle
+ilişkilendirir.[^k10]
 
 Bernal Díaz del Castillo'nun anıları ise onlarca yıl sonra ve bir düzeltme
 niyetiyle yazıldı. Yazar kitabın amacını Francisco de Gómara'nın yapıtındaki
@@ -131,25 +163,35 @@ unutulduğuna dair bir hak talebidir.
 Florentine Codex'in on ikinci kitabı, yerli aydınlarla birlikte Nahuatl dilinde
 yazılmış, İspanyolca çevirisi ve iki bine yakın resimle birlikte kurulmuş iki
 dilli bir yazmadır; 1579'da dinî otoritelerin artan denetimi altında
-tamamlanmış, el konulmuş ve Avrupa'ya gönderilmiştir.[^k6] Sahagún 1585'te bu
-anlatıyı yeniden yazmış, yani fethin hikâyesi yüzyılın sonuna doğru keşişin
-elinde değişmiştir.[^k6] Dördüncü bir ses, Tlaxcalalı Diego Muñoz Camargo'nun
-kroniğidir; orada Tlaxcalalılar Cortés'in "sadık dostları" diye anılır ve
-Xicotencatl'ın oğlunun Tetzcoco'da astırılması bu sadakat çerçevesi içinde
-anlatılır.[^k4] Dördü de olayın içindedir; hiçbiri dışarıdan bakmaz.
+tamamlanmış, el konulmuş ve Avrupa'ya gönderilmiştir.[^k6][^k9] UNESCO'nun
+Memory of the World kütüğüne 2015'te aldığı kayıt yazmanın yapısını dışarıdan
+doğrular: metin iki sütun hâlinde Nahuatl ve İspanyolca yazılmıştır, üç cilt
+içinde on iki kitap tutar ve Floransa'daki Laurenziana Kütüphanesi'ndedir.[^k9]
+Aynı kayıt Bustamante baskılarının soyunu da verir: yazmanın on
+sekizinci yüzyılda Diego Panes'in çıkardığı bir kopyası Yeni İspanya'ya
+götürülmüş, Carlos María de Bustamante ilk Meksika baskısını 1830'da bu
+kopyadan yapmıştır — yani Nahua anlatısına ulaşan yol özgün yazmadan değil bir
+kopyadan geçer.[^k9] Sahagún 1585'te bu anlatıyı yeniden yazmış, yani fethin
+hikâyesi yüzyılın sonuna doğru keşişin elinde değişmiştir.[^k6] Dördüncü bir
+ses, Tlaxcalalı Diego Muñoz Camargo'nun kroniğidir; kitabın bölüm dizini genç
+Xicotencatl'a karşı Cortés'in şikâyetlerini, Tlaxcala Senatosu'nun onu
+cezalandırılmak üzere teslim edişini ve Cortés'in onu astırdığını arka arkaya
+sayar.[^k4] Dördü de olayın
+içindedir; hiçbiri dışarıdan bakmaz.
 
 ## Kıyıdan Tlaxcala'ya
 
 Sefer kıyıda başladı ve ilk kazancı askerî değil siyasiydi. Cortés kendi
-anlatısında Aztek yönetiminden hoşnutsuz kıyı beylerinin kendisine başvurduğunu,
-kendilerini ezen güçlü hükümdara karşı korunma istediklerini, oğullarının kurban
-için alınmasından yakındıklarını yazar.[^k1] Tlaxcala sınırında ise savaş çıktı:
-Cortés kendini yüz binden fazla savaşçının ortasında bulduğunu, çarpışmanın gün
-boyu sürdüğünü ve tanrının kendi taraflarında savaştığının göründüğünü
-anlatır.[^k1] Sahagún'un on ikinci kitabı aynı bölgeye girişi başka bir yerden
-başlatır: Tlaxcala toprağındaki Tecoac'ta, sınırı bekleyen Otomiler İspanyollara
-karşı savaşa çıkar, atlılar mızraklar, tüfekçilerle arbaletçiler öldürür.[^k3]
-İki kayıt aynı seferi anlatır, öznesini değiştirir.
+anlatısında Aztek yönetiminden hoşnutsuz Cempoal beylerinin kendisine
+başvurduğunu, kendilerini ezen güçlü hükümdara karşı korunma istediklerini,
+oğullarının kurban için alınmasından yakındıklarını yazar.[^k1] Tlaxcala
+sınırında ise 1519 sonbaharında savaş çıktı: Cortés kendini 100.000'den fazla
+savaşçının ortasında bulduğunu, çarpışmanın gün boyu sürdüğünü ve tanrının
+kendi taraflarında savaştığının göründüğünü anlatır.[^k1] Sahagún'un on ikinci
+kitabı aynı bölgeye girişi başka bir yerden başlatır: Tlaxcala toprağındaki
+Tecoac'ta, sınırı bekleyen Otomiler İspanyollara karşı savaşa çıkar, atlılar
+mızraklar, tüfekçilerle arbaletçiler öldürür.[^k3] İki kayıt aynı seferi
+anlatır, öznesini değiştirir.
 
 Çarpışmanın sonucu tabiiyet değil ittifak oldu ve bu ittifak seferin bel
 kemiğine dönüştü. Muñoz Camargo'nun 1892 baskısını hazırlayan Chavero, kendi
@@ -159,13 +201,13 @@ Totonak bulunduğunu yazar.[^k4] Bu bir editör tahminidir, kroniğin kendi cüm
 değildir; ama ittifakın daha ilk aşamada sayıca belirleyici olduğunu gösterir.
 
 Karşılaşmaların ilk anında söylenen söz de hukuki bir formüldü. Bernal Díaz,
-kaptanının tercümanlar aracılığıyla karşıdakilere uzak bir ülkeden geldiklerini,
-Don Carlos adlı büyük bir imparatorun uyruğu olduklarını ve bu imparatoru
-efendileri olarak tanımaları gerektiğini söylediğini aktarır.[^k2] Cortés de
-Tlaxcala sınırındaki ilk çatışmada, yanında noter bulunmadığı için tercümanlar
-üzerinden resmî bir çağrı yaptığını yazar.[^k1] Çağrının biçimi önemliydi:
-tabiiyet teklifi usulünce yapılmış sayılırsa, ardından gelen şiddet hukuken
-savaş değil isyan bastırma olurdu.
+kaptanının tercümanlar aracılığıyla karşıdakilere uzak bir ülkeden
+geldiklerini, Don Carlos adlı büyük bir imparatorun uyruğu olduklarını ve bu
+imparatoru efendileri olarak tanımaları gerektiğini söylediğini aktarır.[^k2]
+Cortés de Tlaxcala sınırındaki 1519 tarihli ilk çatışmada, yanında noter
+bulunmadığı için tercümanlar üzerinden resmî bir çağrı yaptığını yazar.[^k1]
+Çağrının biçimi önemliydi: tabiiyet teklifi usulünce yapılmış sayılırsa,
+ardından gelen şiddet hukuken savaş değil isyan bastırma olurdu.
 
 Sefer boyunca konuşmayı sağlayan kişi de bir yerliydi. Bernal Díaz, Doña
 Marina'nın Painala adlı bir kasabanın beyinin kızı olarak doğduğunu, babasının
@@ -181,20 +223,20 @@ bu, kanıtlanmış bir sonuç değil, ortaya atılmış bir okumadır.
 
 Cholula, kaynakların en keskin biçimde ayrıştığı yerdir. Cortés, Tlaxcalalı
 beylerin kendisini şehre girmemesi için uyardığını, Motecuhzoma'nın şehre iki
-fersah mesafede elli bin kişilik bir kuvvet yerleştirdiğini, yolların kazıklı
+fersah mesafede 50.000 kişilik bir kuvvet yerleştirdiğini, yolların kazıklı
 çukurlarla kapatıldığını duyduğunu yazar.[^k1] Ardından kendi eylemini şöyle
 kaydeder: beyleri kapatır, işaret topunu attırır ve kendi ifadesiyle iki saatte
 üç binden fazla düşman ölür; şehri beş saat boyunca tarar, bu sırada beş bin
 Tlaxcalalı ve dört yüz Cempoallı ona yardım eder.[^k1] Sorguladığı tutsaklar
-suçu Motecuhzoma'nın adamlarına atar.[^k1]
+suçu Culua adamlarının, yani Muteczuma'nın uyruklarının üzerine atar.[^k1]
 
-Bu anlatının yapısı dikkat çekicidir: önce bir komplo ihbarı, sonra önleyici bir
-katliam, en sonunda tutsakların ağzından alınan bir gerekçe. Cortés'in metni,
-izinsiz yürüttüğü bir seferi meşrulaştırmak zorunda olan bir adamın metnidir ve
-Cholula bölümü tam da meşrulaştırmaya en çok ihtiyaç duyulan yerdir.[^k1]
-Restall'ın kitabının özeti fethin tarihinin yanlış okunarak popüler bilgiye
-dönüştüğünü konu edinir ve yerlilerin conquistadorları tanrı sandığı yolundaki
-yaygın kabulü reddeder.[^k5]
+Bu anlatının yapısı dikkat çekicidir: önce bir komplo ihbarı, sonra önleyici
+bir katliam, en sonunda tutsakların ağzından alınan bir gerekçe. Cortés'in
+metni, izinsiz yürüttüğü bir seferi meşrulaştırmak zorunda olan bir adamın
+metnidir ve Cholula bölümü bu meşrulaştırma yükünü taşıyan bölümdür.[^k1]
+Restall'ın 2003 tarihli kitabının özeti fethin tarihinin yanlış okunarak
+popüler bilgiye dönüştüğünü konu edinir ve yerlilerin conquistadorları tanrı
+sandığı yolundaki yaygın kabulü reddeder.[^k5]
 
 ## Tenochtitlan'da bir kış ve bir gece
 
@@ -206,7 +248,7 @@ aldıklarını, geri kalan düşük taşlarla tüyleri ise Tlaxcalalıların gö
 anlatır.[^k3] Yağmanın paylaşımı bile ittifak yapısını gösterir: iki taraf aynı
 sarayı, farklı ölçütlerle boşaltmıştır.
 
-Kopuş, bir bayram sırasında yapılan kıyımla geldi. Sahagún'un kaydı,
+Kopuş, bir bayram sırasında yapılan kıyımla geldi. Sahagún'un kaydı, 1520'de
 Meksikalıların İspanyollara duyduğu büyük öfkeyi ileri gelenlerin ve yiğit
 adamların hainlikle öldürülmesine bağlar; bunun üzerine saray yapılarını
 kuşattıklarını, kimseyi içeri ve dışarı bırakmadıklarını, aç kalsınlar diye
@@ -226,24 +268,25 @@ Tlaxcala'daki İspanyollar Meksika'yı almaya gelmeden önce, yerli takvimde
 Tepeilhuitl denen ve eylül sonuna denk gelen ayda büyük bir çiçek salgını
 çıktığını söyler; hastaların bedeni ve yüzü yaralarla dolduğu için
 kımıldayamadıklarını, kımıldatılınca bağırdıklarını anlatır.[^k3] Salgının ölümü
-tek başına getirmediğini de ekler: yemek yapacak kimse kalmadığı için çok sayıda
-kişi açlıktan ölmüştür.[^k3]
+tek başına getirmediğini de ekler: 1520 sonunda yemek yapacak kimse kalmadığı
+için çok sayıda kişi açlıktan ölmüştür.[^k3]
 
-Kaynağın sayı vermemesi burada bir eksiklik değil, bir veridir. Metin ölenler
-için "sayısız insan" der ve bir rakam yazmaz.[^k3] Bugün dolaşımdaki salgın ölü
-sayılarının hepsi geriye dönük tahminlerdir; olayın kendi kaydı saymamıştır.
-Salgının zamanlaması da önemlidir: kayıt onu kuşatmadan önceye, İspanyolların
-şehirden çıkışıyla geri dönüşü arasındaki araya yerleştirir.[^k3] Salgın, bu
-sıralamada kuşatmanın sonucu değil önkoşullarından biridir.
+Kaynağın sayı vermemesi burada bir eksiklik değil, bir veridir. Metin, 1520'nin
+bu aylarında ölenler için "sayısız insan" der ve bir rakam yazmaz.[^k3] Bugün
+dolaşımdaki salgın ölü sayılarının hepsi geriye dönük tahminlerdir; olayın
+kendi kaydı saymamıştır. Salgının zamanlaması da önemlidir: kayıt onu 1521
+kuşatmasından önceye, İspanyolların şehirden çıkışıyla geri dönüşü arasındaki
+araya yerleştirir.[^k3] Salgın, bu sıralamada kuşatmanın sonucu değil
+önkoşullarından biridir.
 
 ## Kuşatma ve 13 Ağustos 1521
 
 İkinci kez gelindiğinde şehir meydan muharebesiyle değil kuşatmayla alındı.
-Kuşatmanın teknik aracı, göl üstünde kullanılmak üzere Tlaxcala'da yapılıp
-Tetzcoco'ya taşınan brigantinlerdi; Cortés'in mektuplarını taşıyan cildin
-içindekiler dizini bu taşımayı ayrı bir kalem olarak sayar.[^k1] Şehri ayakta
-tutan şey su üzerindeki bağlantısıydı ve kuşatma tam olarak o bağlantıyı hedef
-aldı.
+1521 kuşatmasının teknik aracı, göl üstünde kullanılmak üzere Tlaxcala'da
+yapılıp Tetzcoco'ya taşınan brigantinlerdi; Cortés'in mektuplarını taşıyan
+cildin içindekiler dizini bu taşımayı ayrı bir kalem olarak sayar.[^k1] Şehri
+ayakta tutan şey su üzerindeki bağlantısıydı ve kuşatma tam olarak o bağlantıyı
+hedef aldı.
 
 Sahagún'un metni son evreyi içeriden anlatır: her yandan sıkıştırılan
 Meksikalılar talihlerinin bitip bitmediğini sınamak için bir kehanete başvurmaya
@@ -269,48 +312,52 @@ silahların teknolojik belirleyen sayılması gibi yerleşik kabullerin dağıld
 söyler.[^k7] İttifak açıklaması, Tlaxcala ve öteki yerli güçler olmadan seferin
 yürüyemeyeceğini savunur; Restall'ın özeti tam da bunu, müttefiklerin sayıca
 üstünlüğünü ve olayın yerli taraftan bir iç savaş olarak görülüşünü öne
-çıkarır.[^k5] Salgın açıklaması ise çiçek salgınının kuşatmadan önce geldiğini
-ve sayısız insanı öldürdüğünü söyler; dayanağı Sahagún'un metnidir.[^k3]
+çıkarır.[^k5] Salgın açıklaması ise çiçek salgınının 1520'de, kuşatmadan önce
+geldiğini ve sayısız insanı öldürdüğünü söyler; dayanağı Sahagún'un
+metnidir.[^k3]
 
-Üçünü birbirinin yerine koymak mümkün değildir, çünkü üçü de aynı kaynaklarda
-yan yana durur. Cholula'daki beş saatlik harekâtın kuvvet dökümünü Cortés'in
-kendisi verir ve dökümde beş bin Tlaxcalalı vardır.[^k1] Salgının kuşatmadan
-önce geldiğini ve yemek yapacak kimse kalmayacak kadar yayıldığını Nahua kaydı
-söyler.[^k3] Silahların tek başına belirleyici olmadığını gösteren de gene
-Cortés'tir: yüz binden fazla savaşçının ortasında geçen o günün sonucunu
-toplarına değil, tanrının kendi taraflarında savaştığı izlenimine bağlar.[^k1]
-Üç etken aynı yönde ve birlikte işlemiştir.
+Üçü birbirinin yerine konamaz; üçü de aynı kaynaklarda yan yana
+durur. Cholula'daki beş saatlik harekâtın kuvvet dökümünü Cortés'in
+kendisi verir ve dökümde 5.000 Tlaxcalalı vardır.[^k1] Salgının 1520'de,
+kuşatmadan önce geldiğini ve yemek yapacak kimse kalmayacak kadar yayıldığını
+Nahua kaydı söyler.[^k3] Silahların tek başına belirleyici olmadığını gösteren
+de gene Cortés'tir: 100.000'den fazla savaşçının ortasında geçen o günün
+sonucunu toplarına değil, tanrının kendi taraflarında savaştığı izlenimine
+bağlar.[^k1] Üç etken aynı yönde ve birlikte işlemiştir.
 
 Üç açıklamanın hiçbiri, kaynakların birbirine uymayan sayı alışkanlıklarını da
 çözmez. Cortés Cholula'da iki saatte üç binden fazla ölü sayar ve sayıyı kendi
-başarısının ölçüsü olarak verir.[^k1] Sahagún'un metni ise salgın ölüleri için
-hiçbir rakam yazmaz.[^k3] Kuşatmanın süresi ve bilançosu ancak üç yüzyıl sonra,
-1829 baskısını hazırlayan editörün dipnotunda sayıya dökülür.[^k3] Bilançoyu
-kimin, ne zaman ve neyi kanıtlamak için saydığı, sayının kendisi kadar bilgi
-taşır.
+başarısının ölçüsü olarak verir.[^k1] Sahagún'un metni ise 1520 salgınının
+ölüleri için hiçbir rakam yazmaz.[^k3] Kuşatmanın süresi ve bilançosu ancak üç
+yüzyıl sonra, 1829 baskısını hazırlayan editörün dipnotunda sayıya
+dökülür.[^k3] Bilançoyu kimin, ne zaman ve neyi kanıtlamak için saydığı,
+sayının kendisi kadar bilgi taşır.
 
 ## Beş yüz yıl sonra hangi tartışma sürüyor
 
 Bugün tartışılan şey olayın seyri değil, adlandırılışı ve kaynaklarının
-okunuşudur. Amber Brian'ın makalesi 2021'i Tenochtitlan'ın düşüşünün beş yüzüncü
-yılı olarak anar ve fethin anlatısının Sahagún'un elinde nasıl değiştiğini
-inceler: Florentine Codex'in on ikinci kitabı ile keşişin 1585'te yazdığı yeni
-metin arasındaki fark, hikâyenin yüzyıl kapanırken yeniden kurulduğunu
-gösterir.[^k6] Adlandırma da aynı yerden sarsılır. Restall'ın özetinde olay,
-yerli tarafın gözünde İspanyolların önemli ama ikincil bir rol oynadığı bir
-yerli iç savaşı olarak adlandırılır; tek bir dış gücün eylemini ima eden fetih
-sözcüğü bu okumayla birlikte yerinden oynar.[^k5] Aynı zorlama askerî tarih
-tarafından da gelir: olayı yalnızca Tenochtitlan'ın düşüşüne indirgemek,
-öncesindeki ve sonrasındaki çarpışmaları görünmez kılar.[^k7]
+okunuşudur. Amber Brian'ın makalesi 2021'i Tenochtitlan'ın düşüşünün beş
+yüzüncü yılı olarak anar ve fethin anlatısının Sahagún'un elinde nasıl
+değiştiğini inceler: Florentine Codex'in on ikinci kitabı ile keşişin 1585'te
+yazdığı yeni metin arasındaki fark, hikâyenin yüzyıl kapanırken yeniden
+kurulduğunu gösterir.[^k6] Adlandırma da aynı yerden sarsılır. Restall'ın 2003
+tarihli kitabının özetinde olay, yerli tarafın gözünde İspanyolların önemli ama
+ikincil bir rol oynadığı bir yerli iç savaşı olarak adlandırılır; tek bir dış
+gücün eylemini ima eden fetih sözcüğü bu okumayla birlikte yerinden oynar.[^k5]
+Aynı yönde, 2021 tarihli makale de 1521 Ağustos'undaki düşüşü tek bir etkene
+değil, İspanyol sömürgeleştirmesinin girişi de dahil birçok etkene
+bağlar.[^k10] Aynı zorlama askerî tarih tarafından da gelir: olayı yalnızca
+Tenochtitlan'ın düşüşüne indirgemek, öncesindeki ve sonrasındaki çarpışmaları
+görünmez kılar.[^k7]
 
 Kaynakların çıkarını görmek, onları kullanılmaz kılmaz; nasıl kullanılacağını
 belirler. Cortés'in mektubu bir savunma metnidir ve müttefik sayılarını da o
-savunmanın içinde verir; beş bin Tlaxcalalıyı yazan el, Narváez'i hukuka
+savunmanın içinde verir; 5.000 Tlaxcalalıyı yazan el, Narváez'i hukuka
 aykırılıkla suçlayan eldir.[^k1] Bernal Díaz'ın anısı geç yazılmıştır ama Doña
 Marina'nın kim olduğu gibi Cortés'in mektuplarında bulunmayan ayrıntıları
-taşır.[^k2] Sahagún'un derlemesi bir keşişin denetiminden geçmiştir ama salgını
-ve açlığı içeriden anlatır ve rakam uydurmaz.[^k3] Muñoz Camargo Tlaxcala'nın
-davasını savunur ama o davanın kendisi, fethin yerli tarafta da bir siyaset
-olduğunun kanıtıdır.[^k4] Dönemin bütünü [1500-1650](/donem/09/) dosyasında,
-tartışmanın kavramsal çerçevesi [keşif mi istila
+taşır.[^k2] Sahagún'un derlemesi bir keşişin denetiminden geçmiştir ama 1520
+salgınını ve açlığı içeriden anlatır ve rakam uydurmaz.[^k3] Muñoz Camargo
+Tlaxcala'nın davasını savunur ama o davanın kendisi, fethin yerli tarafta da
+bir siyaset olduğunun kanıtıdır.[^k4] Dönemin bütünü [1500-1650](/donem/09/)
+dosyasında, tartışmanın kavramsal çerçevesi [keşif mi istila
 mı](/tartisma/kesif-mi-istila-mi/) dosyasında ele alınıyor.

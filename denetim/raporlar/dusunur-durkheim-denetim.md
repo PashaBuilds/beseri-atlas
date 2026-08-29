@@ -1,5 +1,5 @@
 ## dusunur-durkheim
-_Geçiş 2 — kaynak denetimi · 2026-08-29T20:19:13.853Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T20:28:54.162Z_
 
 - [OK]      k2 → "Émile Durkheim'ın 1897'de yayımladığı intihar incelemesi araştırma nesnesini daha en başta daraltır: amaç, tek…"
 - [ATOMSUZ] k2 → "Aynı kitapta intiharın tanımı da kasten geniştir: "tout cas de mort qui résulte directement ou indirectement d…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -9,7 +9,7 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T20:19:13.853Z_
 - [OK]      k1 → "Buradan çıkan en çok anılan kural, toplumsal olguların şeyler gibi ele alınmasıdır: Durkheim'ın bununla kastet…"
 - [ATOMSUZ] k3 → "Aynı kitap suçu toplumsal bir hastalık değil normal bir olgu sayar, ama normalliğin koşulunu da hemen ekler: s…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Durkheim yönteminin devrimci değil bir anlamda muhafazakâr olduğunu söyler, çünkü toplumsal olguları, doğaları…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir toplumun hukuk düzeni, dinsel inançları, para sistemi, giyinme biçimleri ve dili bu başlık altındadır; evl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bir toplumun hukuk düzeni, dinsel inançları, güzellik kavrayışı, para sistemi, giyinme biçimleri ve dili bu ba…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Zorlamanın anlamı da eser boyunca sabit kalmaz: erken metinlerde daha bastırıcı ve yükümlülük yükleyen bir nit…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Toplumbilimi bilim yapma girişiminde Durkheim ilk değildi; Auguste Comte'un olguculuğundan ve Herbert Spencer'…"
 - [OK]      k1 → "Toplumun, bireylerin bir araya gelmesiyle başladığını söyleyen sözleşme kuramcılarına ve Spencer gibi faydacıl…"
@@ -26,7 +26,8 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T20:19:13.853Z_
 - [OK]      k1 → "Değişimin itici gücü, Durkheim'ın ahlaki ya da dinamik yoğunluk dediği şeydir: insanların birbiriyle anlamlı b…"
 - [ATOMSUZ] k1 → "Şu ayrıntı çoğu özette kaybolur: mekanik ve organik dayanışma terimleri yalnızca erken dönemine aittir; işbölü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Seçim yöntemseldir — dinin özsel öğelerinin en yalın biçimde görünmesi umulur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k5 → "Tanım üç öğe taşır: kutsal, yani ayrılmış ve yasaklanmış şeylere ilişkin birleşik bir inançlar ve pratikler si…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Tanımı şöyle kurar: din, kutsal — yani ayrılmış ve yasaklanmış — şeylere ilişkin birleşik bir inançlar ve prat…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "İkinci öğe birincisi kadar temeldir: din fikri kilise fikrinden ayrılamadığı için din, özü gereği kolektif bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kutsal nesne, topluluğun kendi gücünün başkalaşmış hâlidir; din, toplumun kendine tapmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k5 → "Buradan çıkan sonuç yalnızca dini ilgilendirmez: Durkheim Avrupa'nın geldiği yeri anlatırken "the old gods are…"
 - [ATOMSUZ] k1 → "Onun teşhisi bir boşluk teşhisidir: eski kurumlar dağılmış, yerlerine yenileri kurulamamıştır; bu boşluğu dold…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
@@ -40,13 +41,14 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T20:19:13.853Z_
 - [OK]      k1 → "Birincisi, toplumsal olguların bütün bireylerin dışında ve onlardan bağımsız var olduğunu, yani bir tür metafi…"
 - [OK]      k1 → "İkincisi, toplumsal değişme kuramı olmadığı iddiasıdır; oysa Avrupa'nın ortaçağ toplumundan modern sanayi topl…"
 - [OK]      k1 → "Durkheim Dreyfus'u savundu, İnsan Hakları Ligi'nin kurucu üyelerindendi ve Birinci Dünya Savaşı sırasında Alma…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "Marx'ı bilim dışı ve dogmatik bulmasına, marksizmi de gereksiz yere çatışmacı saymasına rağmen bir dizi sosyal…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Marx'ı bilim dışı ve dogmatik bulmasına, marksizmi de gereksiz yere çatışmacı, gerici ve şiddet yanlısı saymas…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Savaş en umut verici öğrencilerinin çoğunu aldı, oğlu André cephede öldü; kendisi 1917'de öldü ve ahlak üzerin…"
+- [OK]      k1 → "Hakemli bir felsefe ansiklopedisinin maddesi, Durkheim'ın adının bugün birbirinden hayli uzak üç tartışmada ge…"
 - [OK]      k1 → "Birincisi zihin felsefesi ve toplumbilim felsefesidir: onun sui generis kavramı, 1960'larda ortaya çıkan belir…"
 - [OK]      k1 → "İkincisi ayin ve coşku çözümlemesidir: Randall Collins bunu bir mikro-toplumbilime ve bir çatışma kuramına dön…"
-- [OK]      k1 → "Üçüncüsü siyaset kuramıdır: birey kişiliğinin kutsallaşması tezinin 1948'de kabul edilen İnsan Hakları Evrense…" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k1 → "Üçüncüsü siyaset kuramıdır: 1948'de kabul edilen İnsan Hakları Evrensel Bildirisi, birey kültünün kutsal metin…" — 1 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k1 → "tartışmasında Weber'in meşru otorite tipolojisiyle karşılaştırıldığında Durkheim'ın konumu farklıdır: otoriten…"
 - [OK]      k2 → "Toplumsal olguları şeyler gibi ele alma kuralı ise en çok, dayandığı sayıların nasıl üretildiği sorulduğunda s…"
 - [OK]      k9 → "Toplumsal olguları şeyler gibi ele alma kuralı ise en çok, dayandığı sayıların nasıl üretildiği sorulduğunda s…"
 
-**Özet:** 26 OK · 0 ISARET · 0 HATA · 21 ATOMSUZ
+**Özet:** 27 OK · 0 ISARET · 0 HATA · 22 ATOMSUZ

@@ -50,6 +50,7 @@ ilgili:
   - kaynak-tordesillas-antlasmasi
   - kaynak-afrika-birligi-sarti
   - aktor-majapahit
+  - kavram-vakif
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

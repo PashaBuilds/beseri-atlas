@@ -1,5 +1,5 @@
 # Çürütücü raporu — olay-kudus-fethi-1187
-_2026-08-29T20:12:07.425Z_
+_2026-08-29T20:39:42.348Z_
 
 ## İtiraz 1 — [ciddiyet: orta] kapsam-carpitmasi
 

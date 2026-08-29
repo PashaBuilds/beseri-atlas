@@ -1,0 +1,309 @@
+{
+  "id": "kavram-seferberlik",
+  "govde_hash": "49b1f3a065c3",
+  "commit": "92d1168",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i1",
+      "cumle": "27 Temmuz 1914'te Rus Harbiye Nâzırı, Alman askerî ataşesine hiçbir seferberlik emri verilmediği, yalnızca hazırlık yapıldığı konusunda namusu üzerine söz verdi; kanıt olarak tek bir atın bile toplanmadığını ve ihtiyatların çağrılmadığını gösterdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alman derlemesinde birebir: harbiye naziri hicbir seferberlik emri verilmedigine, YALNIZCA HAZIRLIK yapildigina, tek bir atin toplanmadigina ve ihtiyatlarin cagrilmadigina dair namus sozu verir. Hakem, ilk surumde dusen \"yalnizca hazirlik yapiliyordu\" kaydini geri koydu; kaynagin kendi kaydinin cekincesi budur. Kaynak TARAF metnidir, bir beyani aktardigi icin tur aktarim."
+    },
+    {
+      "iddia_id": "i2",
+      "cumle": "Seferberlik ise çoktan var olan insan, hayvan, silah ve erzak yığınının hangi gün nerede bulunacağını düzenler; başvurulan tanım da işlemi askeri ve ikmali savaşa hazır hâle getirmek diye verir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak seferberligi asker ve ikmali savasa hazir hale getirme olarak tanimlar; cumlenin takvim yani (hangi gun nerede) bu maddede acikca yazmaz. Destek kismi; takvim boyutunun dogrudan kaniti 1793 kararnamesindedir (i3-i9). Hakem, ilk surumdeki \"sozluk karsiligi\" nitelemesini kaldirdi: kaynak sozluk degil ansiklopedi maddesidir."
+    },
+    {
+      "iddia_id": "i3",
+      "cumle": "Ayrımı madde madde izlenebilir kılan belge, Fransız Devrimi'nin levée en masse kararnamesidir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kararnamenin varligi ve icerigi kaynakta 40 numarali belge olarak tam metinle duruyor; cumle belgeyi isaret eder, hakkinda nitelik iddiasi tasimaz."
+    },
+    {
+      "iddia_id": "i4",
+      "cumle": "23 Ağustos 1793 tarihli levée en masse kararnamesi, düşman Cumhuriyet topraklarından sürülene kadar bütün Fransızları orduların hizmeti için sürekli mükellefiyet altına aldı ve herkese bir iş yazdı: gençler cepheye gidecek, evli erkekler silah dövüp erzak taşıyacak, kadınlar çadır ve giysi dikip hastanelerde çalışacak, çocuklar eski keteni saçaklayacak, yaşlılar meydanlara çıkacaktı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birinci maddenin is bolumu (gencler, evli erkekler, kadinlar, cocuklar, yaslilar) kaynak metninde birebir sayilidir; tarih de belge basliginda."
+    },
+    {
+      "iddia_id": "i5",
+      "cumle": "Kamu binaları kışlaya, meydanlar silah atölyesine çevrilecek, mahzen toprağı güherçile çıkarmak için yıkanacaktı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ikinci madde: kamu binalari kisla, meydanlar silah atolyesi, mahzen topragi guhercile icin yikanir."
+    },
+    {
+      "iddia_id": "i6",
+      "cumle": "Binek atları süvari birliklerini tamamlamak üzere, tarımda kullanılmayanların dışındaki koşum atları ise topçuyu ve erzakı taşımak üzere mükellefiyete alındı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dorduncu madde: binek atlari suvariyi tamamlar, tarimda kullanilmayan kosum atlari topcu ve erzak tasir."
+    },
+    {
+      "iddia_id": "i7",
+      "cumle": "Kamu Selameti Komitesi'ne olağanüstü silah imalatı kurma yetkisi verildi; harbiye nâzırının emrine, üç anahtarlı kasada duran assignat rezervinden 30 milyon livre ayrıldı ve imalatın merkezi Paris olarak belirlendi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Besinci madde: harbiye nazirinin emrine otuz milyon livre, uc anahtarli kasadaki assignat rezervinden; imalatin merkezi Paris. Rezervin toplam tutari kaynakta rakamla degil yaziyla verildigi ve getirmenin 400k penceresinin disinda kaldigi icin metne alinmadi."
+    },
+    {
+      "iddia_id": "i8",
+      "cumle": "Sekiz maddenin yalnızca sonuncusu kimlerin önce yürüyeceğini yaş ve medenî hâlle belirler: mükellefiyet genel olacak, evlenmemiş yurttaşlar ile çocuksuz dullar, on sekiz ile yirmi beş yaş arasında, önce yürüyecek, gecikmeden kendi idarî bölgelerinin merkezinde toplanacak ve hareket saatini beklerken her gün talim yapacaktı; yedinci madde de kimsenin kendi yerine başkasını koyduramayacağını yazar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sekizinci madde (levy shall be general; 18-25 yas; evlenmemis ve cocuksuz dul; idari bolge merkezinde toplanma; gunluk talim) ve yedinci madde (yerine baskasini koyduramama) kaynakta birebir. Hakem ilk surumdeki \"yalnizca sonuncusu kimin gidecegini soyler\" ifadesini duzeltti: birinci madde de kimin ne yapacagini soyluyor, sekizinci maddeye ozgu olan yas ve medeni hal olcutudur."
+    },
+    {
+      "iddia_id": "i9",
+      "cumle": "Belgeyi yayımlayan derleyicinin kararnameye düştüğü not, metnin sınırını da söyler: kararnamenin her yerde yürürlüğe konmasının belki hiç amaçlanmadığını, işgale uğrayan departmanlarla onlara komşu olanlarda uygulandığını ve tedbirin tam etkisinin tartışmalı olduğunu kaydeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Derleyicinin belge basligina dustugu not: kararnamenin her yerde uygulanmasinin BELKI hic amaclanmadigi, isgale ugrayan ve komsu departmanlarda uygulandigi, tedbirin tam etkisinin tartismali oldugu. Kaynagin cekincesi metne oldugu gibi tasindi."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Giriş kapısı olarak kullanılan başvuru maddesi, seferberliğin askerî anlamda ilk kez 1850'lerde Prusya ordusunun hazırlanışı için kullanıldığını yazar; aynı madde kendi başında satır içi kaynak yetersizliği uyarısı taşıdığından bu tarihlendirme çekinceyle aktarılıyor.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak sozcugun 1850lerde Prusya ordusu icin kullanildigini yazar. Madde satir ici kaynak yetersizligi uyarisi tasidigi icin guven orta; niteleme metinde kaynaga ATFEDILEREK verildi, olgu gibi sunulmadi."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Telgrafın hızlı haberleşmeyi, demiryolunun hızlı yığınak yapmayı ve zorunlu hizmetin eğitilmiş bir ihtiyat kitlesini sağlaması, işlemi yazılı bir tarifeye bağladı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Telgraf, demiryolu ve zorunlu hizmetin egitilmis ihtiyat sagladigi kaynakta ayni pasajda sayilidir. Ayni maddenin kaynak uyarisi nedeniyle guven orta."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Rus harbiye nâzırı aynı gün ataşeye bir ayrım daha yaptı: Avusturya-Macaristan Sırp sınırını geçerse Kiev, Odessa, Moskova ve Kazan askerî bölgeleri seferber edilecek, Alman sınırındaki Petersburg, Vilna ve Varşova bölgeleri hiçbir koşulda edilmeyecekti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kiev, Odessa, Moskova, Kazan ile Petersburg, Vilna, Varsova ayrimi Alman derlemesinde birebir gecer; taraf metninin aktardigi bir beyandir."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Britanya'nın resmî derlemesi bir belge yığını değil, önsözü olan bir savaş yılı yayınıdır; Alman savını o önsözde özetler: 28 ile 31 Temmuz arasında Rus hükümeti seferberliğin yalnızca Galiçya'daki Avusturya hazırlıklarına karşı yürüdüğünü temin ederken, ordu gerçekte Varşova, Vilna ve başka bölgelerde Almanya'ya karşı en azından kısmen seferber ediliyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Derlemenin ONSOZU Alman savini boyle ozetler (28-31 Temmuz araligi, Galicya gerekcesi, Varsova ve Vilna); birebir. Hakem aktarim halkasini acti: pasaj diplomatik belgelerden degil, derleyicinin savas yilinda yazdigi taraf onsozunden gelir."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Aynı önsöz savı özetler özetlemez karşısına geçer: derleyiciye göre seferberlik önceliğine dayanan bir sav hiçbir zaman güçlü bir sav değildir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onsoz birebir: a case based on priority of mobilisation measures is never a strong one. Hakem ekledi: ilk surum kaynagin kendi curutmesini gizliyor, yalnizca Alman savini aktariyordu. Curutucunun kesinlik-dili itirazi uzerine atif cercevesi (derleyiciye gore) kesinlik sozcugunun yanina alindi; hukum kaynagin kendi hukmudur, yumusatilmadi."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Derlemeyi okurken bu konum hesaba katılmalıdır; ama kısmî seferberlik ile genel seferberlik arasındaki farkın yazışmaların döndüğü teknik ayrım olduğu iki taraf için de geçerlidir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Kismi/genel ayriminin yazismalarin merkezinde durdugu yazarin okuma gozlemidir; kaynak boyle bir tasnif basligi tasimaz, ama onsoz Rusyanin guneyde kismi seferberligi ile genel seferberligi ayirarak tartisir. Destek kismi, guven dusuk."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "26 Temmuz akşamı Alman hükümeti Petersburg'daki büyükelçisine, Rus hükümetine bir bildirim yapması talimatını verdi: Rusya'nın hazırlıkları Almanya'yı ordusunu seferber etmeye zorlayacaktır ve \"seferberlik savaş demektir\".",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alman hukumetinin 26 Temmuz talimati ve icindeki cumle kaynakta birebir. Cumle bir hukumetin SAVI olarak, tehdit baglamiyla birlikte verildi; olgu gibi sunulmadi."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Almanya, Rus ordu ve donanmasının seferber edilmesi üzerine verdiği ültimatomda Rus kuvvetlerinin terhis edilmesini istedi ve on iki saat içinde taahhüt gelmezse Rus ve Fransız sınırlarında kendi seferberliğini ilan edeceğini bildirdi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Britanya derlemesi: terhis talebi ve on iki saatlik sure birebir kayitli. Terhisin talep edilebilir sayilmasindan cikan sonuc ayri bir cumlede, cikarim olarak verildi."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "3 Ağustos 1914'te Avam Kamarası'nda Edward Grey, donanmanın seferberliğinin tamamlandığını ve ordununkinin sürdüğünü bildirdi; aynı konuşmada hükümetin yurt dışına bir sefer kuvveti göndermek konusunda henüz hiçbir taahhüde girmediğini söyledi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hansard tutanagi: donanma seferberligi tamamlanmis, ordununki suruyor, sefer kuvveti icin taahhut yok. Ucu de ayni konusmada gecer."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Saatlerle ölçülen bir zaman diliminde seferberlik ölçülerinin suçlama ve tehdit bulutu içinde alındığını, nedeni sonuçtan ayırmanın olanaksız olduğunu Britanya derlemesinin önsözü kendisi kaydeder.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onsoz birebir: mobilisation measures are taken in the midst of a cloud of accusations and threats, and it is impossible to separate cause from effect, in the hurried hours. Hakem ekledi: demiryolu tezi paragrafi ilk surumde dipnotsuzdu ve KAPI 2 cerceve paragrafi kuralini kiriyordu."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "1793'te sayılan şey binek ve koşum atları, mahzen toprağındaki güherçile, kışlaya çevrilebilecek kamu binaları ve üç anahtarlı kasadaki assignat idi",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kapanis paragrafi ilk surumde dipnotsuzdu ve kaynakta olmayan ogeler sayiyordu (vagon, ambarda kile tahil). Hakem paragrafi govdede zaten dogrulanmis ogelere indirdi: kararnamenin 2., 4. ve 5. maddeleri (kamu binasi/kisla, guhercile, binek ve kosum atlari, uc anahtarli kasadaki assignat)."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "1914'te bir harbiye nâzırının elindeki kanıt yine at ve ihtiyat sayısıydı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "27 Temmuz beyani (i1) ile ayni kayda dayanir: tek bir at toplanmadi, ihtiyat cagrilmadi. Kapanis paragrafi govdede zaten kaynaklanmis olguyu toplar, yeni iddia kurmaz."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 19,
+    "kismi": 2,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

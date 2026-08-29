@@ -33,6 +33,7 @@ ilgili:
   - kavram-caydiricilik
   - tartisma-ikinci-dunya-savasi-sorumlulugu
   - olay-kore-savasi
+  - kavram-ideoloji
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

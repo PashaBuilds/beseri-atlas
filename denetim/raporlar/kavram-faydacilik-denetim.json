@@ -1,0 +1,153 @@
+{
+  "id": "kavram-faydacilik",
+  "gecis": 2,
+  "zaman": "2026-08-29T20:51:02.761Z",
+  "govde_hash": "abd2a145b3d1",
+  "commit": "e42c547",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Doğrunun ve yanlışın ölçüsü de, nedenler ile sonuçlar zinciri de bu iki efendinin tahtına bağlanmıştır; Bentham'ın fayda ilkesi bu bağımlılığı reddetmek yerine ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bentham metni bir ceza hukuku kuramına giriş olarak yazdı; kitap 1780'de basıldı, eklerle 1789'da yayımlandı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "John Stuart Mill Faydacılık'ı 1861'de Fraser's Magazine'de tefrika etti, metin 1863'te kitap hâline getirildi ve sezgici ahlak anlayışıyla giriştiği hesaplaşman",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bir topluluğun çıkarları söz konusu olduğunda Bentham yedinci bir ölçüt ekler: kapsam, yani etkilenen kişi sayısı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bentham yordamın yanına kendi çekincesini de koyar: bu sürecin her ahlaki yargıdan ya da her yasama işleminden önce harfiyen izlenmesi beklenmez, yalnızca göz ö",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Metne Temmuz 1822'de eklediği iki ayrı notta bunu iki kez kaydeder: fayda ilkesi adını o sırada kendisinin kullandığını, ama başkalarının da kullanmış olduğunu ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kaynak öncülleri adıyla sayar: faydacı düşüncenin çekirdek fikirlerini ve terimlerini John Gay, Francis Hutcheson, David Hume, Claude-Adrien Helvétius ve Cesare",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Formülün kaynağına dair hüküm ise çekinceyle verilir: Bentham'ın onu Priestley'nin 1768 tarihli metninde bulduğu yolundaki anısı hatalı bellek sayılır, Beccaria",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "En büyük mutluluk ilkesini Mill şu biçimde koyar: eylemler mutluluğu artırdıkları ölçüde doğru, mutluluğun tersini ürettikleri ölçüde yanlıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Hazlar yalnız nicelikleriyle değil nitelikleriyle de karşılaştırılır ve ölçüt dışarıdan bir otorite değil, iki hazzı da yaşamış olanların hepsinin ya da neredey",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kural faydacılığı iki adımlıdır ve Stephen Nathanson'ın özetiyle bir eylem, ancak benimsenmesi başka kurallardan daha çok fayda üretecek bir ahlak kuralına uyuy",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Daha önce kimi filozoflarca fark edilmiş olsa da keskin biçimde çizilmesi 1950'lerin sonunu buldu ve terimleri Richard Brandt getirdi; ayrım keskin olmadığı içi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bentham'ın kendi çözümlemesinde azınlığın duyguları hesaptan düşüldüğünde topluluğun toplam mutluluk stokunda kâr değil zarar çıkar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kaynağın en çok tartışılan saydığı iki itirazdan ilki John Rawls'ın 1971'de ünlü biçimde dile getirdiğidir: faydacılık kişilerin birbirinden ayrı oluşunu ciddiy",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Oysa Rawls'ın çözümlemesinde tek bir hayatta fedakârlığı yapan ile kazancı devşiren aynı varlıktır ve seçim onundur; toplum ölçeğinde ise acıyı çekenler ile kaz",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Klasik biçimde her tercih hesaba aynı ağırlıkla girdiği için, ırksal bir azınlığın daha az maddi pay almasını isteyen tercih de öteki tercihler gibi sayılır; bu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Sonuççuluk, Williams'ın çözümlemesinde, olan biteni failin yapıp yapmadığına bakmaksızın onun hesabına yazan bir olumsuz sorumluluk öğretisi taşır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Ona göre failden, başkalarının projelerinin belirlediği bir hesap sonucu geldiğinde kendi kararından çekilip o sonucu benimsemesini istemek, faili eylemlerine v",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Gündelik dilde \"faydacı\" çoğu zaman çıkarcı anlamında kullanılır; oysa Bentham'ın ölçütü failin kendi çıkarı değil, kapsam boyutunun gerektirdiği gibi etkilenen",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İkinci hata geriye okumadır: nitel haz ayrımını Bentham'a, eylem ile kural ayrımını Mill'e yüklemek, iki ayrı tarihi tek bir öğreti gibi göstermektir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "İkinci hata geriye okumadır: nitel haz ayrımını Bentham'a, eylem ile kural ayrımını Mill'e yüklemek, iki ayrı tarihi tek bir öğreti gibi göstermektir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Üçüncüsü, en çok sayıda kişinin en büyük mutluluğu formülünü Bentham'ın icadı saymaktır; kaynak bu atfı temkinle ele alır ve öncülleri adıyla sayar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Birincisi Rawls'ınkidir: toplamı büyüten hesap, toplamı taşıyan kişilerin birbirinden ayrı oluşunu silmektedir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "İkincisi Williams'ınkidir: aynı hesap, onu uygulayacak failden kendi hayatını yürüten bağlılıklardan çekilmesini istemektedir.",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

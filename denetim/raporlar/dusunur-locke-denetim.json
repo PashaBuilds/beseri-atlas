@@ -1,9 +1,9 @@
 {
   "id": "dusunur-locke",
   "gecis": 2,
-  "zaman": "2026-08-29T20:14:26.680Z",
-  "govde_hash": "5ea01690b914",
-  "commit": "5373c66",
+  "zaman": "2026-08-29T20:29:05.997Z",
+  "govde_hash": "539cc24d19a2",
+  "commit": "d9e0ff7",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -14,6 +14,12 @@
     {
       "anahtar": "k1",
       "iddia": "Aynı kitabın ikinci savı da bir mekanizmadır: hiç kimse doğal eşitlik durumundan çıkarılıp bir başkasının siyasal iktidarına, kendi rızası olmadan bağlanamaz; b",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bu iki mekanizma — emekten doğan mülkiyet ve rızadan doğan iktidar — birlikte, egemenliğin halkta durduğunu söyleyen ve meşru yönetimi doğal haklarla toplum söz",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -37,9 +43,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Birinci İnceleme'nin ilk cümlesi, Sir Robert Filmer'ın Patriarcha'sını hedef alır ve köleliği insan için \"öyle aşağılık ve sefil bir durum\" sayar ki bir İngiliz",
+      "iddia": "Birinci İnceleme'nin ilk cümlesi köleliği insan için \"öyle aşağılık ve sefil bir durum\" sayar ki bir İngiliz'in, hele bir centilmenin onu savunmasının akla gele",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
@@ -49,7 +55,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "İkinci İnceleme'nin bütün kavram takımı bu iki cümleyi çürütmek için kurulmuştur; nitekim özgürlüğü tanımlarken de doğrudan Filmer'a dönüp onun canının istediği",
+      "iddia": "İkinci İnceleme'nin kavram takımı büyük ölçüde bu iki cümleyi çürütmek için kurulmuştur; nitekim özgürlüğü tanımlarken de doğrudan Filmer'a dönüp onun canının i",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -62,6 +68,12 @@
     {
       "anahtar": "k5",
       "iddia": "Locke 1683'te Hollanda'ya kaçtı, 1689 Şubatı'nda döndü ve İki İnceleme ile Hoşgörü Üzerine Mektup'u imzasız yayımladı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "İki İnceleme'nin girişi 1688'den sonra yazıldığı için kitap uzun süre Şanlı Devrim'i meşrulaştırmak üzere kaleme alınmış gibi okundu; oysa metin dışlama krizi s",
       "durum": "OK",
       "not": "3 atom doğrulandı; 3 ad ölçülemedi"
     },
@@ -97,9 +109,9 @@
     },
     {
       "anahtar": "k7",
-      "iddia": "Locke'un yorumcuları arasında bu adımı en zayıf halka sayanlar çoktur; paraya verilen rızanın bugünkü eşitsiz mülkiyeti haklı çıkarmaya yetmediği itirazı litera",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "iddia": "Bu adım, Locke yorumcularının en çok itiraz ettiği yerlerden biridir: paraya verilen rızanın bugün var olan çok eşitsiz mülkiyet paylarını haklı çıkarmaya yetme",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -145,6 +157,12 @@
     },
     {
       "anahtar": "k3",
+      "iddia": "Bu genişliğin sınırları da metinde adıyla durur ve iki taneden fazladır: toplumun korunması için gerekli ahlak kurallarına aykırı görüşler, kendilerine ve mezhe",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
       "iddia": "Yönetici, üyeleri girmekle kendilerini başka bir hükümdarın himayesine ve hizmetine teslim eden bir kiliseye hoşgörü borçlu değildir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
@@ -157,9 +175,9 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "Anthony Ashley Cooper ile ilişkisi onu sırasıyla ticaret ve sömürgeler hakkında bilgi toplayan bir devlet görevlisi, iktisat yazarı ve muhalefet eylemcisi yaptı",
+      "iddia": "Sonradan Shaftesbury kontu olan Anthony Ashley Cooper ile ilişkisi onu sırasıyla ticaret ve sömürgeler hakkında bilgi toplayan bir devlet görevlisi, iktisat yaz",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k5",
@@ -211,13 +229,13 @@
     },
     {
       "anahtar": "k6",
-      "iddia": "Buna karşı Uzgalis, maddenin yazarı olarak Lord Ashley'nin ya da Sir John Colleton'ın çok daha güçlü adaylar olduğunu ileri sürer; Colleton Carolina projesinin ",
+      "iddia": "Buna karşı Uzgalis, maddenin yazarı olarak Lord Ashley'nin — yani Shaftesbury'nin — ya da Sir John Colleton'ın çok daha güçlü adaylar olduğunu ileri sürer; Coll",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k6",
-      "iddia": "Bu okumaya göre madde onların kaygısını yatıştırmak için konmuştur ve Locke'un kişisel görüşü hakkında neredeyse hiçbir şey söylemez.",
+      "iddia": "Bu okumaya göre maddeyi önermek Colleton ya da Shaftesbury için doğal olurdu; madde onların kaygısını yatıştırmak için konmuşsa Locke'un kişisel görüşü hakkında",
       "durum": "OK",
       "not": ""
     },
@@ -316,6 +334,12 @@
       "iddia": "Dördüncüsü ters yönden gelen hatadır — Carolina Anayasası'nın 110. maddesine bakıp kuramın tamamını sömürge köleliğinin savunusu saymak, hem maddenin yazarlığın",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Bugün Locke üç ayrı tartışmada birden anılıyor: mülkiyetin gerekçesi, dinî hoşgörünün sınırı ve liberalizmin sömürgecilikle ilişkisi.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",

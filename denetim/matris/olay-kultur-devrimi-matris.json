@@ -1,7 +1,7 @@
 {
   "id": "olay-kultur-devrimi",
-  "govde_hash": "1836ca08f0ba",
-  "commit": "b8cff98",
+  "govde_hash": "3c554b0ed772",
+  "commit": "92d1168",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -21,7 +21,7 @@
     },
     {
       "iddia_id": "i002",
-      "cumle": "Üç gün sonra Merkez Komite, hareketin programını on altı maddede ilan etti; amaç kapitalist yolu tutmuş iktidar sahiplerini devirmek, burjuva akademik \"otorite\"leri eleştirmek ve eğitimi, edebiyatı, sanatı sosyalist temele uydurmaktı.",
+      "cumle": "Üç gün sonra, 8 Ağustos 1966'da, Merkez Komite hareketin programını on altı maddede ilan etti; amaç kapitalist yolu tutmuş iktidar sahiplerini devirmek, burjuva akademik \"otorite\"leri eleştirmek ve eğitimi, edebiyatı, sanatı sosyalist temele uydurmaktı.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -31,7 +31,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "8 Agustos 1966 tarihli kararin 1. maddesi hedefi aynen boyle sayar: kapitalist yolu tutmus iktidar sahiplerini devirmek, gerici burjuva akademik \"otorite\"leri elestirmek, egitim-edebiyat-sanat ve ustyapinin sosyalist temele uymayan parcalarini donusturmek."
+      "inceleme": "8 Agustos 1966 tarihli kararin 1. maddesi hedefi aynen boyle sayar. Tarih K7 uyarinca metne yazildi; 1966 atomu k2 metninde birebir gecer."
     },
     {
       "iddia_id": "i003",
@@ -63,7 +63,7 @@
     },
     {
       "iddia_id": "i005",
-      "cumle": "Aynı belge hareketin \"did not in fact constitute a revolution or social progress in any sense\" olduğunu söyler.",
+      "cumle": "Aynı 1981 belgesi hareketin \"did not in fact constitute a revolution or social progress in any sense\" olduğunu söyler.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -105,7 +105,7 @@
     },
     {
       "iddia_id": "i008",
-      "cumle": "Metin tartışmaların olguları ortaya koyarak ve akıl yürüterek yapılmasını ister, farklı görüşteki azınlığın görüşünü kabule zorlanmasını kabul edilemez sayar, azınlığın korunmasını ister ve tartışmanın \"conducted by reasoning, not by coercion or force\" yürütülmesini şart koşar.",
+      "cumle": "Ağustos 1966 metni tartışmaların olguları ortaya koyarak ve akıl yürüterek yapılmasını ister, farklı görüşteki azınlığın görüşünü kabule zorlanmasını kabul edilemez sayar, azınlığın korunmasını ister ve tartışmanın \"conducted by reasoning, not by coercion or force\" yürütülmesini şart koşar.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -133,17 +133,21 @@
     },
     {
       "iddia_id": "i010",
-      "cumle": "Merkez Komite kararının ilk maddesi hedefi burjuvazinin ve sömürücü sınıfların eski fikirleri, kültürü, gelenekleri ve alışkanlıkları diye tanımlamıştı; \"dört eski\" adı buradan gelir.",
+      "cumle": "Merkez Komite'nin Ağustos 1966 kararının ilk maddesi hedefi burjuvazinin ve sömürücü sınıfların eski fikirleri, kültürü, gelenekleri ve alışkanlıkları diye tanımlamıştı; \"dört eski\" adı buradan gelir.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
         {
           "anahtar": "k2",
-          "destek": "kismi"
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
         }
       ],
-      "guven": "orta",
-      "inceleme": "Kararin 1. maddesi somurucu siniflarin \"old ideas, culture, customs and habits\"inden soz eder; ama \"dort eski\" (four olds) adlandirmasinin kendisi bu metinde GECMEZ. Ad ile icerik arasindaki bag bu yuzden kismi sayildi."
+      "guven": "yuksek",
+      "inceleme": "Tanim k2'de birebir: \"old ideas, culture, customs and habits\". Adin kaynagi ise k4'te birebir gecer (\"Four Olds\"); ad ile tanim arasindaki bag artik cikarim degil, iki birincil metnin ortak kaydidir. Bu iddia kismi'den dogrudan'a cikti."
     },
     {
       "iddia_id": "i011",
@@ -161,7 +165,7 @@
     },
     {
       "iddia_id": "i012",
-      "cumle": "Aynı haber Şanghay'daki büyük mağazalardan birinin adının değiştirilmesi önerisini, fabrikalardaki benzer girişimleri ve Halk Kurtuluş Ordusu birliklerinin öğrencilere desteğini de kaydeder.",
+      "cumle": "Peking Review'un 2 Eylül 1966 tarihli aynı haberi Şanghay'daki büyük mağazalardan birinin adının değiştirilmesi önerisini, fabrikalardaki benzer girişimleri ve Halk Kurtuluş Ordusu birliklerinin öğrencilere desteğini de kaydeder.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -175,7 +179,7 @@
     },
     {
       "iddia_id": "i013",
-      "cumle": "Bu künye taraf bir metindir ve öyle okunmalıdır: olayı anlatan kurum, olayı düzenleyen kurumun yayın organıdır ve yıkımı bir kazanım olarak yazar.",
+      "cumle": "Bu haber Peking Review'un kendi yayınıdır ve taraf bir metin olarak okunmalıdır: olayı anlatan kurum, olayı düzenleyen kurumun yayın organıdır ve yıkımı bir kazanım olarak yazar.",
       "onem": "destek",
       "tur": "yorum",
       "kaynaklar": [
@@ -189,7 +193,7 @@
     },
     {
       "iddia_id": "i014",
-      "cumle": "Aynı sürecin on beş yıl sonraki resmî değerlendirmesi ise sözde \"gerici akademik otoriteler\" eleştirisi sırasında çok sayıda yetenekli aydının saldırıya uğrayıp zulme uğratıldığını ve halk ile düşman ayrımının bütünüyle bulandırıldığını yazar.",
+      "cumle": "Aynı sürecin 1981'deki resmî değerlendirmesi ise sözde \"gerici akademik otoriteler\" eleştirisi sırasında çok sayıda yetenekli aydının saldırıya uğrayıp zulme uğratıldığını ve halk ile düşman ayrımının bütünüyle bulandırıldığını yazar.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -203,7 +207,7 @@
     },
     {
       "iddia_id": "i015",
-      "cumle": "1981 kararı, farklı alan ve bölgelerdeki neredeyse bütün parti ve hükümet birimlerinin yetkilerinin alındığını ya da yeniden düzenlendiğini; 1967 Şubatı dolayında Tan Zhenlin, Chen Yi, Ye Jianying, Li Fuchun, Li Xiannian, Xu Xiangqian ve Nie Rongzhen adlı yedi Siyasi Büro üyesiyle Merkez Askerî Komisyon'un önde gelen üyelerinin toplantılarda kampanyayı sert biçimde eleştirdiğini, bunun Şubat ters akıntısı diye damgalanıp bastırıldığını, Zhu De ile Chen Yun'un da haksız yere eleştirildiğini kaydeder.",
+      "cumle": "1981 kararı, farklı alan ve bölgelerdeki neredeyse bütün parti ve hükümet birimlerinin yetkilerinin alındığını ya da yeniden düzenlendiğini; 1967 Şubatı dolayında Tan Zhenlin, Chen Yi, Ye Jianying, Li Fuchun, Li Xiannian, Xu Xiangqian ve Nie Rongzhen ile adı sayılmayan başka Siyasi Büro üyelerinin ve Merkez Askerî Komisyon'un önde gelen üyelerinin toplantılarda kampanyayı sert biçimde eleştirdiğini, bunun Şubat ters akıntısı diye damgalanıp bastırıldığını, Zhu De ile Chen Yun'un da haksız yere eleştirildiğini kaydeder.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -213,11 +217,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Kaynak: \"Around February 1967, at various meetings, Tan Zhenlin, Chen Yi, Ye Jianying, Li Fuchun, Li Xiannian, Xu Xiangqian, Nie Rongzhen and other Political Bureau members and leading comrades of the Military Commission ... This was labelled the 'February adverse current' ... Comrades Zhu De and Chen Yun were also wrongly criticized.\" HAKEM DUZELTMESI: onceki surum yedi addan dordunu 'gibi' diye orneklemisti; liste kirpmasi giderildi, yedi ad da yazildi ve Zhu De ile Chen Yun kaydi eklendi."
+      "inceleme": "Kaynak: \"Around February 1967, at various meetings, Tan Zhenlin, Chen Yi, Ye Jianying, Li Fuchun, Li Xiannian, Xu Xiangqian, Nie Rongzhen and other Political Bureau members and leading comrades of the Military Commission ... This was labelled the 'February adverse current' ... Comrades Zhu De and Chen Yun were also wrongly criticized.\" HAKEM DUZELTMESI (2. tur): onceki surum yedi adi sayip listeyi \"yedi Siyasi Buro uyesi\" diye KAPATIYORDU; kaynak ise \"and other Political Bureau members\" der. Kapali sayim asiri kesinlikti, acik listeye dondüruldu."
     },
     {
       "iddia_id": "i016",
-      "cumle": "Kararın kendi değerlendirmesi bu adımı iki yönlü kaydeder — durumu istikrara kavuşturmakta olumlu rol oynadı, ama olumsuz sonuçlar da doğurdu.",
+      "cumle": "1981 kararının kendi değerlendirmesi bu adımı iki yönlü kaydeder — durumu istikrara kavuşturmakta olumlu rol oynadı, ama olumsuz sonuçlar da doğurdu.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -259,7 +263,35 @@
     },
     {
       "iddia_id": "i019",
-      "cumle": "Okullar ve üniversiteler kapandı, ulusal yükseköğretim giriş sınavları iptal edildi.",
+      "cumle": "Merkez Komite ile Devlet Konseyi 13 Haziran 1966'da bir genelge yayımladı: yükseköğretime giriş sınavı ve öğrenci alma yöntemi baştan değiştirilecek, o yılın üniversite alımı yarım yıl ertelenecekti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "YENI KAYNAK (kor hakem sikayeti 2: iddia yalniz k9'a bagliydi). Peking Review 9/26'daki karar metni birincil belgedir: \"postpone for half a year the 1966 enrolment into the higher educational institutions\" birebir gecer. Genelgenin tarihi (13 Haziran) ve giris sinavi ile ogrenci alma yonteminin degistirilmesi ayni metinde."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Genelgenin 13 Haziran 1966 tarihli metni gerekçeyi de yazar: kampanya kolejlerde, üniversitelerde ve lise düzeyindeki okullarda daha yeni gelişmektedir ve sonuna kadar götürülmesi zaman ister; belgede duyurulan şey kalıcı bir kapatma değil, yarım yıllık bir ertelemedir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CEKINCE KURALI: kaynak kalici kapatma degil YARIM YILLIK erteleme ilan eder ve gerekcesini kampanyanin okullarda \"only now developing\" olmasina baglar. Bu sinirlayici kosul metne tasindi; atilsaydi kaynak, sinavlarin kaldirildigini soylemis olurdu."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Uygulama 1966'daki ertelemeyle sınırlı kalmadı: ansiklopedik başvuru kaydı okulların ve üniversitelerin kapandığını, ulusal yükseköğretim giriş sınavlarının iptal edildiğini yazar.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -269,11 +301,11 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Ansiklopedi girisinde \"Schools and universities were closed, and the National College Entrance Examinations were cancelled\" gecer. Giris kapisi kunyesi oldugu icin guven orta."
+      "inceleme": "Okullarin kapanmasi ve sinavlarin iptali k9'un giris bolumunde birebir: \"schools and universities were closed, and the national college entrance examinations were cancelled\". Belgesel dayanak artik k10'dur; k9 yalnizca ertelemenin kaliciligini aktarir. 1966 atomu k9 metninde gecer."
     },
     {
-      "iddia_id": "i020",
-      "cumle": "On altı maddelik karar eğitimin dönüştürülmesini zaten programa yazmıştı: öğrenim süresi kısaltılacak, dersler azaltılıp iyileştirilecek, öğrenciler eğitimin yanında sanayi işi, tarım ve askerlik öğrenecekti.",
+      "iddia_id": "i022",
+      "cumle": "On altı maddelik 1966 kararı eğitimin dönüştürülmesini zaten programa yazmıştı: öğrenim süresi kısaltılacak, dersler azaltılıp iyileştirilecek, öğrenciler eğitimin yanında sanayi işi, tarım ve askerlik öğrenecekti.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -286,7 +318,7 @@
       "inceleme": "10. madde: \"The period of schooling should be shortened. Courses should be fewer and better\" ve ogrencilerin sanayi isi, tarim ve askerlik ogrenmesi."
     },
     {
-      "iddia_id": "i021",
+      "iddia_id": "i023",
       "cumle": "Başlangıçta katılanların çoğu gönüllüydü, sonra taşınma zorunlu hâle getirildi; 1968 ile 1979 arasında 17 milyon kentli genç kırsala gitti ve kırsalda yaşamak onları yükseköğretimden yoksun bıraktı.",
       "onem": "merkezi",
       "tur": "sayi",
@@ -297,11 +329,25 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "\"In the initial stage ... most of the youth who took part volunteered. Later on, the government forced them to move. Between 1968 and 1979, 17 million urban youth left for the countryside.\" Kunyenin kendisi giris kapisi oldugu icin guven orta."
+      "inceleme": "Sayi k9'da birebir: \"Between 1968 and 1979, 17 million urban youth left for the countryside\". CEKINCE: ayni sayfanin giris bolumu \"over 10 million\" der. Akademik karsiligi k12'de ayri bir pencereyle durur; ucu de metinde birlikte anildi."
     },
     {
-      "iddia_id": "i022",
-      "cumle": "Bu sayı tek bir kaynağın içinde bile sabit değildir: aynı ansiklopedi maddesinin giriş bölümü kentli alanlardan yerinden edilenleri \"10 milyondan fazla\" diye verir.",
+      "iddia_id": "i024",
+      "cumle": "Aynı 17 milyonluk sayı akademik yayında da geçer, ama başka bir pencereye bağlanır: Yihong Pan'ın rustikasyon hareketi üzerine kitabı bu sayıyı 1953 ile 1980 arasında kırsala gönderilen öğrenciler için verir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "YENI KAYNAK (kor hakem sikayeti 2: 17 milyon icin akademik kayit). Yihong Pan'in kitabinin Crossref kaydindaki ozet ayni sayiyi BASKA bir pencereye baglar: \"seventeen million Chinese students sent to work in the countryside between 1953 and 1980\". Havuz kurali geregi Crossref icerik iddiasi en cok kismi'dir; sayinin pencereye gore oynadigi olgusu bu yuzden metinde acikca beyan edildi."
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Sayı tek bir kaynağın içinde bile sabit değildir: aynı ansiklopedi maddesinin giriş bölümü kentli alanlardan yerinden edilenleri 10 milyon üzeri diye verir.",
       "onem": "destek",
       "tur": "sayi",
       "kaynaklar": [
@@ -311,24 +357,24 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Ayni sayfanin giris bolumu \"Over 10 million youth from urban areas were relocated\" der; govde 17 milyon. Celiski kaynagin ICINDEDIR ve metne tasindi."
+      "inceleme": "k9'un giris bolumu \"over 10 million youth from urban areas were relocated\" der; govdedeki iki deger ayni kaynagin iki yerinden gelir ve celiski gizlenmedi."
     },
     {
-      "iddia_id": "i023",
-      "cumle": "Bu kuşak sonradan kayıp kuşak diye anıldı.",
+      "iddia_id": "i026",
+      "cumle": "Bu kuşak sonradan Michel Bonnin'in kayıp kuşak dediği topluluk olarak anıldı.",
       "onem": "renk",
       "tur": "aktarim",
       "kaynaklar": [
         {
-          "anahtar": "k9",
-          "destek": "dogrudan"
+          "anahtar": "k8",
+          "destek": "kismi"
         }
       ],
       "guven": "orta",
-      "inceleme": "\"This generation is sometimes referred to as the 'lost generation'\" — kaynak \"bazen\" der, metin de kesinlik iddia etmez."
+      "inceleme": "\"Kayip kusak\" adlandirmasi k8'in kendi basligi ve ozetidir (\"China's 'lost generation'\"). Kaynak Wikipedia'dan Bonnin'in makalesine tasindi; Crossref kaydi oldugu icin destek kismi."
     },
     {
-      "iddia_id": "i024",
+      "iddia_id": "i027",
       "cumle": "1981 kararı 1970-71'de Lin Biao'nun başında olduğu grubun yüksek iktidarı ele geçirmek için komplo kurduğunu ve silahlı bir darbe girişiminde bulunduğunu, bunun da kampanyanın kuram ve uygulamalarının nesnel olarak iflasını ilan ettiğini yazar.",
       "onem": "merkezi",
       "tur": "aktarim",
@@ -342,7 +388,7 @@
       "inceleme": "\"In 1970-71 the counter-revolutionary Lin Biao clique plotted to capture supreme power and attempted an armed counterrevolutionary coup d'etat\" ve \"Objectively, it announced the failure of the theories and practices\"."
     },
     {
-      "iddia_id": "i025",
+      "iddia_id": "i028",
       "cumle": "Resmî anlatıya göre 1971'in 13 Eylül'ünde Lin Biao, eşi Ye Qun, oğlu ve maiyeti Sovyetler Birliği'ne kaçmaya çalıştı; uçak yolda Moğolistan'da düştü ve içindekilerin hepsi öldü.",
       "onem": "merkezi",
       "tur": "olgu",
@@ -353,11 +399,11 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Kaynak cumleyi \"According to the official CCP narrative, on 13 September, Lin Biao, his wife Ye Qun, Lin Liguo, and members of his staff attempted to flee to the USSR\" diye kurar; cekince metne \"Resmi anlatiya gore\" olarak tasindi. HAKEM DUZELTMESI: yil yazilmamisti, kaynagin bolum girisindeki \"By 1971\" cercevesine dayanarak 1971 eklendi. Kaynak ayrica ucagin yakitinin bittigini soyler; metin bunu degil, Sovyet ekibinin nedeni belirleyemedigini aktarir."
+      "inceleme": "Resmi anlatinin aktarimi k9'da birebir. Anlatinin sinanmasi artik k11'e (ucuncu taraf devlet belgesi) dayaniyor; k9 yalniz resmi anlatinin ozeti olarak birakildi."
     },
     {
-      "iddia_id": "i026",
-      "cumle": "Bir Sovyet soruşturma ekibi kazanın nedenini belirleyemedi, yalnızca pilotun radardan kaçmak için alçaktan uçarken irtifayı yanlış hesaplamış olabileceğini varsaydı; anlatının kendisi de rota, yolcuların kimliği ve gerçekten bir darbe girişimi olup olmadığı yönünden sorgulanmıştır.",
+      "iddia_id": "i028b",
+      "cumle": "Aynı başvuru kaydı bir Sovyet soruşturma ekibinin kazanın nedenini belirleyemediğini, Lin Biao anlatısının ise rota, yolcuların kimliği ve gerçekten bir darbe girişimi olup olmadığı yönünden sorgulandığını da kaydeder.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -367,10 +413,42 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "\"A Soviet investigative team was not able to determine the cause of the crash but hypothesized...\" ve \"The account was questioned by those who raised doubts over Lin's choice of the USSR as a destination, the plane's route, the identity of the passengers, and whether or not a coup was actually taking place.\" Iki cekince de korundu."
+      "inceleme": "HAKEM EKLEMESI (2. tur): derinlestirme, k9'a bagli bu kaydi govdeden CIKARMIS ve yerine FRUS tutanagini koymustu; sonucta \"Ayrintilar bugun de tartismalidir\" cumlesi ayakta kalirken tartismanin ICERIGI dosyadan dusmustu. k9 birebir: \"A Soviet investigative team was not able to determine the cause of the crash\" ve \"The account was questioned by those who raised doubts over Lin's choice of the USSR as a destination, the plane's route, the identity of the passengers, and whether or not a coup was actually taking place.\" Aktarim oldugu govdede \"basvuru kaydi\" denerek acikca soylendi."
     },
     {
-      "iddia_id": "i027",
+      "iddia_id": "i029",
+      "cumle": "Kazanın nasıl olduğu üç yıl sonra bile kapanmamıştı: Kasım 1974'te Vladivostok'ta ABD Dışişleri Bakanı Henry Kissinger, Sovyet Dışişleri Bakanı Andrei Gromyko'ya Lin Biao'nun uçak düşmeden önce ölüp ölmediğini, uçağın vurulup vurulmadığını sordu; Gromyko koşulları \"quite mysterious\" diye niteledi, ama uçağın basitçe düştüğünün açık göründüğünü söyledi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "YENI KAYNAK (kor hakem sikayeti 2: Lin Biao ucusu yalniz k9'a bagliydi). FRUS 1969-1976 XVI/91, Vladivostok gorusme tutanagi: Kissinger'in sorusu ve Gromyko'nun cevabi belgede birebir. Alinti tek ve iki kelimedir. CEKINCE: Gromyko \"it seems clear\" der, kesinlik beyan etmez; bu tereddut metne tasindi."
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Tarihin kendisi de kaynaktan kaynağa oynar: aynı ABD belgesinin editör dipnotu kazayı 21 Eylül 1971'e tarihler, resmî Çin anlatısını aktaran başvuru kaydı ise 13 Eylül 1971 der.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ayni FRUS belgesinin editor dipnotu kazayi 21 Eylul 1971'e tarihler; k9 resmi Cin anlatisini aktararak 13 Eylul der. Iki tarih de kaynaklarinda birebir; celiskiyi cozmek yerine kaydetmek dogru olandir."
+    },
+    {
+      "iddia_id": "i031",
       "cumle": "Ölüm Pekin'de ancak 30 Eylül'de doğrulandı, kamuoyuna iki ay boyunca açıklanmadı.",
       "onem": "destek",
       "tur": "tarih",
@@ -384,8 +462,8 @@
       "inceleme": "\"His death was confirmed in Beijing only on 30 September\" ve \"did not release news of Lin's death to the public until two months later.\""
     },
     {
-      "iddia_id": "i028",
-      "cumle": "1987 sonrasında yayımlanmış 1.520 ilçe yıllığından çıkarılan bilgiye dayanan bir çalışma, kısa kayıtların daha az kayıp bildirme eğilimini düzelterek ve uzun kayıtlardaki eksik bildirime dair ek varsayımlar yaparak kırsal Çin için 750 bin ile 1,5 milyon arasında bir ölü sayısı, benzer sayıda kalıcı sakat ve 36 milyon siyasi baskı mağduru tahmin eder; kayıpların büyük çoğunluğu 1968-71 arasında, yani halk ayaklanması ve hizip çatışması evresi bittikten ve yerel devlet iktidarının geçici organları kurulduktan sonra olmuştur.",
+      "iddia_id": "i032",
+      "cumle": "1987 sonrasında yayımlanmış 1.520 ilçe yıllığından çıkarılan bilgiye dayanan Andrew G. Walder ile Yang Su'nun çalışması, kısa kayıtların daha az kayıp bildirme eğilimini düzelterek ve uzun kayıtlardaki eksik bildirime dair ek varsayımlar yaparak kırsal Çin için 750 bin ile 1,5 milyon arasında bir ölü sayısı, benzer sayıda kalıcı sakat ve 36 milyon siyasi baskı mağduru tahmin eder; kayıpların büyük çoğunluğu 1968-71 arasında, yani halk ayaklanması ve hizip çatışması evresi bittikten ve yerel devlet iktidarının geçici organları kurulduktan sonra olmuştur.",
       "onem": "merkezi",
       "tur": "sayi",
       "kaynaklar": [
@@ -395,11 +473,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Ozet birebir: 1.520 ilce yilligi, \"Adjusting for the tendency of shorter accounts to report fewer casualties, and with additional assumptions about under-reporting\", \"between 750,000 and 1.5 million\", \"a similar number of people permanently injured, and 36 million who suffered some form of political persecution\", \"The vast majority of these casualties occurred from 1968 to 1971\". Yontem cekinceleri metne tasindi. HAKEM DUZELTMESI (ustveri kunyesi kurali): kunye bir api.crossref.org kaydidir; iddia makalenin BULGUSU hakkindadir ve yalnizca kaydin abstract alanindan okunur, makalenin tam metninden degil — destek dogrudan'dan kismi'ye indirildi."
+      "inceleme": "Sayilar, yontem (1.520 ilce yilligi, kisa kayit duzeltmesi, eksik bildirim varsayimi) ve 1968-71 yogunlasmasi Crossref kaydindaki ozette birebir gecer. TAM METIN ARANDI VE BULUNAMADI: Crossref `link` dizisi yalniz Cambridge benzerlik-denetimi ucunu veriyor, Semantic Scholar openAccessPdf \"CLOSED\". Havuz kurali geregi Crossref icerik destegi kismi kalir; sinir govdede acikca beyan edildi. Tahmini ureten adlar K7 uyarinca metne yazildi."
     },
     {
-      "iddia_id": "i029",
-      "cumle": "Aynı yazarın 2.213 ilçe ve şehir yıllığına dayanan daha geniş çalışması, yayımlanmış rakamları iç soruşturma raporlarıyla karşılaştırıp örneklem seçimi modelleriyle tahmin ürettiğinde 1,1 ile 1,6 milyon arasında ölü ve 22 ile 30 milyon arasında doğrudan siyasi baskı mağduru bulur.",
+      "iddia_id": "i033",
+      "cumle": "Walder'in 2.213 ilçe ve şehir yıllığına dayanan daha geniş çalışması, yayımlanmış rakamları iç soruşturma raporlarıyla karşılaştırıp örneklem seçimi modelleriyle tahmin ürettiğinde 1,1 ile 1,6 milyon arasında ölü ve 22 ile 30 milyon arasında doğrudan siyasi baskı mağduru bulur.",
       "onem": "merkezi",
       "tur": "sayi",
       "kaynaklar": [
@@ -409,10 +487,10 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Ozet birebir: \"2,213 county and city annals\", \"Comparisons of published figures with internal investigation reports and statistical estimates from sample selection models\", \"range from 1.1 to 1.6 million deaths and 22 to 30 million direct victims\". HAKEM DUZELTMESI (ustveri kunyesi kurali): kunye bir api.crossref.org kaydidir; iddia makalenin BULGUSU hakkindadir ve yalnizca kaydin abstract alanindan okunur, makalenin tam metninden degil — destek dogrudan'dan kismi'ye indirildi."
+      "inceleme": "1,1-1,6 milyon araligi, 22-30 milyon dogrudan magdur, 2.213 yilligin kapsami ve ornek secim modeli ozette birebir. Tam metin ayni sekilde kapali (openAccessPdf CLOSED); destek kismi birakildi ve sinir govdede beyan edildi."
     },
     {
-      "iddia_id": "i030",
+      "iddia_id": "i034",
       "cumle": "Genel başvuru kaynaklarında dolaşan aralık ise 1 ile 2 milyon arasıdır.",
       "onem": "destek",
       "tur": "sayi",
@@ -426,8 +504,26 @@
       "inceleme": "Ansiklopedi girisi: \"Estimates of the death toll vary, ranging from 1 to 2 million\". Kaynak zaten \"vary\" der; metin de bunu aralik olarak verir."
     },
     {
-      "iddia_id": "i031",
-      "cumle": "Aralıkların birbirini tutmaması bir tutarsızlık değil, kapsam ve yöntem farkıdır: biri yalnız kırsalı, öteki ülkenin bütününü ve yalnız 1966-71'i ölçer; ikisi de yıllık kayıtlarının eksik bildirimine dair varsayımlar üzerine kuruludur. Mağdur sayıları da toplanamaz: biri bir tür siyasi baskıya uğrayanları, öteki doğrudan mağdurları sayar.",
+      "iddia_id": "i035",
+      "cumle": "Bu iki aralığın atlasta doğrulanabilen dayanağı, yayıncı tarafından kapatılmış tam metinler değil, Andrew G. Walder ile Yang Su'nun kendi yayımlanmış özetleridir; yöntem, varsayımlar ve zaman dağılımı bu özetlerin söylediği kadarıyla belgelidir ve rakamlar bir sayımın değil, bir tahmin modelinin çıktısıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "YENI CUMLE (kor hakem sikayeti 1: olu sayisi tabani ozet duzeyinde). Iddia, kaynagin epistemik konumunu okura acikca soyler: dogrulanabilen metin yayimlanmis ozettir, rakamlar bir sayimin degil bir tahmin modelinin ciktisidir. Kaynak bulunamadi, bu yuzden sinir beyan edildi."
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Mağdur sayıları da toplanamaz: 36 milyon rakamı bir tür siyasi baskıya uğrayanları, 22 ile 30 milyon arasındaki aralık doğrudan mağdurları sayar.",
       "onem": "merkezi",
       "tur": "yorum",
       "kaynaklar": [
@@ -441,10 +537,10 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Kapsam farki iki ozetten okunur (biri \"rural China\", oteki \"1966-1971\" ulke geneli). \"Eksik bildirim varsayimlari\" k5 ozetinde acikca yazilidir; k6 icin ancak \"sample selection models\" uzerinden cikarilir. HAKEM DUZELTMESI: k5 \"36 million who suffered some form of political persecution\", k6 \"22 to 30 million direct victims\" der — kirsal rakami ulke geneli rakamindan buyuk gorunur; bunun tanim farkindan geldigi metne eklendi. Cumlenin tamami cikarim oldugu icin her iki kunye de kismi."
+      "inceleme": "Iki magdur sayisinin ayri seyleri saydigi her iki ozette de yazilidir (\"36 million who suffered some form of political persecution\" / \"22 to 30 million direct victims\"). Sayilar cumleye yazilarak atom haline getirildi."
     },
     {
-      "iddia_id": "i032",
+      "iddia_id": "i037",
       "cumle": "Aynı çalışmanın iki bulgusu da anlatıyı değiştirir: kayıpların büyük çoğunluğu ayaklananların değil, yetkililerin baskısından doğmuştur ve kişi başına ölüm oranı, 1930'ların sonundaki Sovyet tasfiyeleri dahil karşılaştırılabilir vakaların bir bölümünden belirgin biçimde düşüktür.",
       "onem": "merkezi",
       "tur": "olgu",
@@ -458,7 +554,7 @@
       "inceleme": "\"The vast majority of casualties were due to repression by authorities, not the actions of insurgents\" ve \"per capita death rates were considerably lower than a range of comparable cases, including the Soviet purges\". Kaynak \"a range of comparable cases\" der; metin \"karsilastirilabilir vakalarin bir bolumunden\" diyerek bunu tum vakalara genellemedi. HAKEM DUZELTMESI (ustveri kunyesi kurali): kunye bir api.crossref.org kaydidir; iddia makalenin BULGUSU hakkindadir ve yalnizca kaydin abstract alanindan okunur, makalenin tam metninden degil — destek dogrudan'dan kismi'ye indirildi."
     },
     {
-      "iddia_id": "i033",
+      "iddia_id": "i038",
       "cumle": "The China Quarterly'nin Eylül 1966 sayısındaki bir değerlendirme başlığını doğrudan bir soru olarak kurar: kültür devrimi mi, iktidar mücadelesi mi?",
       "onem": "destek",
       "tur": "aktarim",
@@ -472,8 +568,8 @@
       "inceleme": "Baslik kaydin kendisidir: \"China in Mid-1966: Cultural Revolution or Struggle for Power?\" (Ellis Joffe, The China Quarterly, Eylul 1966). Bu iddia kaydin KENDISI (baslik/yazar/dergi/tarih) hakkindadir; ustveri kunyesi bunu dogrudan tasir."
     },
     {
-      "iddia_id": "i034",
-      "cumle": "Yazı, olayın Çin'i kargaşaya sürüklediğini, en az bir kıdemli Siyasi Büro üyesinin ve iki üst düzey parti propaganda yetkilisinin siyasi kariyerine son verdiğini ve tasfiyenin tam boyutunun henüz ortaya çıkmadığını kaydeder.",
+      "iddia_id": "i039",
+      "cumle": "Değerlendirmeyi yazan Ellis Joffe, olayın Çin'i kargaşaya sürüklediğini, en az bir kıdemli Siyasi Büro üyesinin ve iki üst düzey parti propaganda yetkilisinin siyasi kariyerine son verdiğini ve tasfiyenin tam boyutunun henüz ortaya çıkmadığını kaydeder.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -483,11 +579,11 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Ozet: \"at least one senior Politburo member, two top Party propaganda officials\" ve \"the full extent of the purge has yet to come to light\". Kaynagin \"en az\" niteleyicisi korundu. HAKEM DUZELTMESI (ustveri kunyesi kurali): kunye bir api.crossref.org kaydidir; iddia makalenin BULGUSU hakkindadir ve yalnizca kaydin abstract alanindan okunur, makalenin tam metninden degil — destek dogrudan'dan kismi'ye indirildi."
+      "inceleme": "Ozet cumlesi birebir tasiyor: \"at least one senior Politburo member, two top Party propaganda officials ... and the full extent of the purge has yet to come to light\". CEKINCE: \"at least one\" sinirlayicisi metinde korundu. Yazarin adi K7 uyarinca metne yazildi; havuz kurali geregi Crossref icerik destegi kismi kalir."
     },
     {
-      "iddia_id": "i035",
-      "cumle": "Kampanyayı yalnız bir saray kavgası saymak, milyonlarca insanın gerçekten seferber olduğunu ve kayıpların kitlesel ölçeğini açıklamaz.",
+      "iddia_id": "i040",
+      "cumle": "Kampanyayı yalnız bir saray kavgası saymak, Walder ile Su'nun kırsalda ölçtüğü kitlesel kaybı ve milyonlarca insanın gerçekten seferber olduğunu açıklamaz.",
       "onem": "destek",
       "tur": "yorum",
       "kaynaklar": [
@@ -497,11 +593,11 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Cumle bir cikarimdir; k5 yalnizca seferberligin ve magduriyetin olcegini (36 milyon siyasi baskı magduru) verir, \"saray kavgasi okumasi yetersizdir\" hukmunu vermez."
+      "inceleme": "Yorum cumlesi, k5'in kirsal kayip tahminine dayanir; tahmini ureten adlar metne yazilarak iddia denetlenebilir hale getirildi."
     },
     {
-      "iddia_id": "i036",
-      "cumle": "Onu bir kitle hareketi olarak yüceltmek ise kayıpların büyük çoğunluğunun yetkililerin baskısından doğduğu bulgusuyla çelişir.",
+      "iddia_id": "i041",
+      "cumle": "Onu bir kitle hareketi olarak yüceltmek ise Walder'in kayıpların büyük çoğunluğunu ayaklananlara değil yetkililerin baskısına bağlayan bulgusuyla çelişir.",
       "onem": "destek",
       "tur": "yorum",
       "kaynaklar": [
@@ -511,10 +607,10 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "Ayni bicimde cikarim: k6 kayiplarin cogunun yetkililerin baskisindan dogdugunu soyler, ama kitle hareketi yorumunu adiyla elestirmez."
+      "inceleme": "Yorum cumlesi k6'nin \"vast majority of casualties were due to repression by authorities, not the actions of insurgents\" bulgusuna dayanir."
     },
     {
-      "iddia_id": "i037",
+      "iddia_id": "i042",
       "cumle": "1981 kararı, kampanyanın başında katılanların büyük çoğunluğunun Mao Zedong'a ve partiye duydukları inançla hareket ettiğini, bir avuç aşırıcı dışında parti kadrolarına acımasız mücadele açılmasını onaylamadıklarını, zamanla kuşkucu ya da bekle-gör tutumuna geçtiklerini, hatta direndiklerini yazar; aynı belge bu durumun fırsatçılara ve komploculara açık kapı bıraktığını ve bunların azımsanmayacak bir bölümünün yüksek görevlere tırmandığını da ekler.",
       "onem": "destek",
       "tur": "aktarim",
@@ -528,7 +624,7 @@
       "inceleme": "\"the vast majority of participants in the movement acted out of their faith in Comrade Mao Zedong and the Party. Except for a handful of extremists...\" ve \"not a few of whom were escalated to high or even key positions\" birebir gecer."
     },
     {
-      "iddia_id": "i038",
+      "iddia_id": "i043",
       "cumle": "Kampanyanın kapanışı 1976'ya sıkışmıştır: Zhou Enlai Ocak ayında öldü, Nisan'da Tiananmen olayıyla işaretlenen ülke çapında bir yas ve protesto hareketi yükseldi, Siyasi Büro ile Mao Zedong bu hareketi yanlış değerlendirip Deng Xiaoping'i bütün görevlerinden aldı; Mao'nun Eylül'deki ölümünden hemen sonra, Ekim başında Siyasi Büro Jiang Qing çevresindeki grubu tasfiye etti.",
       "onem": "merkezi",
       "tur": "tarih",
@@ -542,8 +638,8 @@
       "inceleme": "Zhou Enlai'nin Ocak 1976'daki olumu, Nisan'daki Tiananmen olayi, Siyasi Buro ile Mao'nun olayi yanlis degerlendirip Deng'i gorevlerinden almasi ve Ekim basindaki tasfiye kaynakta sirasiyla yazilidir."
     },
     {
-      "iddia_id": "i039",
-      "cumle": "Beş yıl sonra kabul edilen karar hükmü verdi: hata baş sorumluluğu Mao Zedong'a aittir, ama karar bunu büyük bir proleter devrimcinin hatası diye niteler — yani mahkûmiyet kişiyi değil dönemin siyasetini hedefler.",
+      "iddia_id": "i044",
+      "cumle": "Beş yıl sonra kabul edilen karar hükmü verdi: hata baş sorumluluğu Mao Zedong'a aittir, ama karar bunu büyük bir proleter devrimcinin hatası diye niteler ve hatayı onun son yıllarına bağlar — aynı belge Mao'nun parti ile devlet yaşamındaki aksaklıkları gidermeye sürekli dikkat ettiğini de yazar.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -553,10 +649,10 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "\"But after all it was the error of a great proletarian revolutionary.\" Cumlenin ikinci yarisi (\"mahkumiyet kisiyi degil donemin siyasetini hedefler\") kaynagin kendi cercevesinin ozetidir; kaynak Mao Zedong Dusuncesi ile bu hatalari acikca ayirir."
+      "inceleme": "\"Chief responsibility ... does indeed lie with Comrade Mao Zedong. But after all it was the error of a great proletarian revolutionary. Comrade Mao Zedong paid constant attention to overcoming shortcomings in the life of the Party and state. In his later years, however...\" HAKEM DUZELTMESI (2. tur): onceki surum cumleyi \"mahkumiyet kisiyi degil donemin siyasetini hedefler\" diye bitiriyordu; bu, kendi cumlesinin ilk yarisiyla ve kaynagin \"chief responsibility does indeed lie with Comrade Mao Zedong\" ifadesiyle CELISIYORDU. Sentez atildi, yerine kaynagin kendi dengeleyici cumlesi kondu."
     },
     {
-      "iddia_id": "i040",
+      "iddia_id": "i045",
       "cumle": "1981'deki kısa resmî sürümün yayımlanmasından bu yana, ortodoks çizgiye sıkı sıkıya bağlı kalanlar dahil, dönemin tarihine ilişkin az sayıda çalışmanın yayımlanmasına izin verildiği kaydedilmiştir; bağımsız araştırmalar ve tanıklıklar çoğunlukla Hong Kong ve Tayvan'da, kısmen de anakarada çıkabilmiştir.",
       "onem": "merkezi",
       "tur": "aktarim",
@@ -570,8 +666,8 @@
       "inceleme": "Ozet birebir: \"few works on the history of that period have been approved for publication, even if they have kept strictly to the orthodox line\" ve \"mostly in Hong Kong and Taiwan but also on the mainland\". HAKEM DUZELTMESI (ustveri kunyesi kurali): kunye bir api.crossref.org kaydidir; iddia makalenin BULGUSU hakkindadir ve yalnizca kaydin abstract alanindan okunur, makalenin tam metninden degil — destek dogrudan'dan kismi'ye indirildi."
     },
     {
-      "iddia_id": "i041",
-      "cumle": "Aynı değerlendirme, eski Kızıl Muhafızların ve kırsala gönderilen gençlerin her şeye rağmen eleştirel bir halk hafızası oluşturabildiğini, ama bu dağınık hafıza adacıklarının sürekli bir silinme tehdidi altında olduğunu söyler.",
+      "iddia_id": "i046",
+      "cumle": "Aynı değerlendirmede Bonnin, eski Kızıl Muhafızların ve kırsala gönderilen gençlerin her şeye rağmen eleştirel bir halk hafızası oluşturabildiğini, ama bu dağınık hafıza adacıklarının sürekli bir silinme tehdidi altında olduğunu söyler.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -581,12 +677,12 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Ozet: \"some former Red Guards and educated youth have managed, against all the odds, to put together an authentic and critically aware people's memory\" ve \"under constant threat of submersion\". HAKEM DUZELTMESI (ustveri kunyesi kurali): kunye bir api.crossref.org kaydidir; iddia makalenin BULGUSU hakkindadir ve yalnizca kaydin abstract alanindan okunur, makalenin tam metninden degil — destek dogrudan'dan kismi'ye indirildi."
+      "inceleme": "Ozet birebir: \"some former Red Guards and educated youth have managed ... These scattered islands of memory ... are under constant threat of submersion\". Yazarin adi K7 uyarinca metne yazildi."
     }
   ],
   "sayaclar": {
-    "dogrudan": 30,
-    "kismi": 11,
+    "dogrudan": 34,
+    "kismi": 13,
     "desteksiz": 0,
     "olculemez": 0
   }

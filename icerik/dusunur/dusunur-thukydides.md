@@ -117,17 +117,20 @@ kaynaklar:
       kabul görmüş bir tespit olarak aktarır ve asıl sorunun başka yerde
       olduğunu savunur; metinde bu sıralama korundu.
 kaynak_siniri: >-
-  Thukydides'in metni kamu malıdır ve tam metniyle okunmuştur; sınır
-  çevirilerdedir. I.-III. ve V. kitaplar Crawley'nin İngilizce çevirisinden,
-  I.23 ayrıca Yunanca aslından okundu; Türkçe çeviri geleneği taranmadı.
+  Thukydides'in metni kamu malıdır, ama bu dosya için TAMAMI okunmadı: I.-III.
+  ve V. kitaplar Crawley'nin İngilizce çevirisinden okundu, I.23 ayrıca Yunanca
+  aslından. IV. ve VI.-VIII. kitaplar taranmadı; bu yüzden metnin bütünü
+  hakkındaki olumsuz çıkarımlar (ör. "metinde bir güç geçişi modeli yoktur")
+  okunan bölümlerle sınırlıdır ve matriste kısmi işaretlendi. Türkçe çeviri
+  geleneği taranmadı.
 son_denetim: 2026-08-29
 denetim_durumu: onaylandi
 onarim_turu: 1
 ---
 
 Bir savaş için söylenen gerekçelerle o savaşı çıkaran şeyin aynı olmadığı
-düşüncesi, Batı'da yazılı biçimini ilk kez Peloponez Savaşı'nın anlatısında
-bulur. Thukydides, Atina ile Sparta'nın otuz yıllık antlaşmayı neden bozduğunu
+düşüncesi, açık yazılı biçimini Peloponez Savaşı'nın anlatısında bulur.
+Thukydides, Atina ile Sparta'nın otuz yıllık antlaşmayı neden bozduğunu
 anlatmaya girişirken önce iki tarafın açıkça öne sürdüğü şikâyetleri ve
 anlaşmazlıkları sıralar; sonra bunları bir yana koyar ve savaşın asıl nedenini
 ayrı bir cümleye yazar: Atina'nın büyümesi ve bunun Lakedaimonlularda yarattığı
@@ -139,23 +142,23 @@ Bu, bir terim tercihi değil bir iş tarifidir. Savaş gerekçeleri kamuya açı
 biçimde tartışılır, elçilerle bildirilir, kayda geçer; neden ise hiç dile
 gelmeyebilir. İkisini birbirinden ayırdığı anda Thukydides tarihçinin işini de
 tanımlamış olur: kaydı okumak yetmez, kaydın neyi dışarıda bıraktığını sormak
-gerekir. Kendi çekincesini de düşürmez: cümledeki Yunanca fiil kanaat bildirir ve savı
-bir ölçüm olarak değil bir hüküm olarak sunar.[^k4] Crawley'nin İngilizce
-çevirisi de bu kaydı koruyup asıl nedeni *bence* diye niteler.[^k1] Nedenle
-bahaneyi ayırmak ve ayrımı bir kanaat olarak imzalamak — aşağıda izlenen şey,
-bu iki kararın neye mal olduğudur.
+gerekir. Kendi çekincesini de düşürmez: cümledeki Yunanca fiil kanaat bildirir
+ve savı bir ölçüm olarak değil bir hüküm olarak sunar.[^k4] Crawley'nin
+İngilizce çevirisi de bu kaydı koruyup asıl nedeni *bence* diye niteler.[^k1]
+Nedenle bahaneyi ayırmak ve ayrımı bir kanaat olarak imzalamak — aşağıda
+izlenen şey, bu iki kararın neye mal olduğudur.
 
 ## Kime karşı yazdı
 
 Ayrım boşlukta doğmadı. Thukydides kendinden önceki anlatı geleneğiyle açıkça
 hesaplaşır: insanların geçmişe dair aktarımları sınamadan, ellerine geçen ilk
 hikâyeyi alarak kabul ettiklerini yazar ve kendi çıkarımlarının, zanaatının
-abartısını sergileyen bir ozanın dizeleriyle ya da doğruluk pahasına çekici olan
-vakanüvis derlemeleriyle sarsılmayacağını söyler.[^k1] Gerekçesi de kayıtlıdır:
-o anlatıların konusu kanıtın erişemeyeceği yerdedir ve zaman çoğunu efsane
-bölgesine yerleştirerek tarihsel değerinden etmiştir.[^k1] Fatura hem destan geleneğine hem de düzyazı
-derleyicilerine kesilir; Thukydides burada kimseyi adlandırmaz, ama tarif
-Herodotos'un kuşağının işini de kapsar.
+abartısını sergileyen bir ozanın dizeleriyle ya da doğruluk pahasına çekici
+olan vakanüvis derlemeleriyle sarsılmayacağını söyler.[^k1] Gerekçesi de
+kayıtlıdır: o anlatıların konusu kanıtın erişemeyeceği yerdedir ve zaman çoğunu
+efsane bölgesine yerleştirerek tarihsel değerinden etmiştir.[^k1] Fatura hem
+destan geleneğine hem de düzyazı derleyicilerine kesilir; Thukydides burada
+kimseyi adlandırmaz, ama tarif Herodotos'un kuşağının işini de kapsar.
 
 Faturanın altında bir ölçüt vardır: kanıtın erişebildiği yer. Thukydides kendi
 sonuçlarına da aynı ölçütü uygular ve eskiliğin izin verdiği kadar kesin
@@ -166,24 +169,25 @@ tanıklarına ulaşabilir; Truva'yı yazamaz, çünkü ulaşamaz.
 
 ## Konuşmaları kendisinin yazdığını okura söyler
 
-Eserin en çok tartışılan yeri, savaşın anlatısı değil onun hemen öncesindeki
-yöntem paragrafıdır. Thukydides konuşmaların bir bölümünü kendisinin
-dinlediğini, bir bölümünü başkalarından aldığını, hepsini kelimesi kelimesine
-akılda tutmanın güç olduğunu yazar; bu yüzden konuşmacılara, koşulların
-kendilerinden istediğini söyletmeyi âdet edinmiştir.[^k1] Cümle burada bitseydi
-kurmaca bir tarih elde ederdik; bitmez. Aynı cümlenin ikinci yarısı, gerçekte
-söylenenlerin genel anlamına elden geldiğince sadık kalındığını da ekler ve
-kısıtı koyar.[^k1]
+Eserin en çok tartışılan yerlerinden biri savaşın anlatısı değil, onun hemen
+öncesindeki yöntem paragrafıdır. Thukydides konuşmaların bir bölümünü
+kendisinin dinlediğini, bir bölümünü başkalarından aldığını, hepsini kelimesi
+kelimesine akılda tutmanın güç olduğunu yazar; bu yüzden konuşmacılara,
+koşulların kendilerinden istediğini söyletmeyi âdet edinmiştir.[^k1] Cümle
+burada bitseydi kurmaca bir tarih elde ederdik; bitmez. Aynı cümlenin ikinci
+yarısı, gerçekte söylenenlerin genel anlamına elden geldiğince sadık
+kalındığını da ekler ve kısıtı koyar.[^k1]
 
 Olayların anlatısına gelince ölçüt daha serttir. Eline geçen ilk kaynağa
 yaslanmayı reddettiğini, kendi izlenimlerine bile güvenmediğini, anlatının bir
-bölümünün kendi gördüklerine bir bölümünün başkalarının gördüklerine dayandığını
-ve her aktarımın sınandığını söyler.[^k1] Zorluğun nedenini de yazar: aynı olayı
-gören tanıklar birbirini tutmaz, bazen hafıza eksik kaldığı için bazen de
-taraflardan birine duyulan yakınlık yüzünden.[^k1] Metnin okurunu kaybedebilecek
-olmasını da hesaba katmıştır; anlatısında masalsılık bulunmayışının ilgiyi bir
-ölçüde azaltacağından korktuğunu söyler, ama işini anın alkışını toplayacak bir
-deneme olarak değil "her zaman için bir mülk" olarak yazdığını ekler.[^k1]
+bölümünün kendi gördüklerine bir bölümünün başkalarının gördüklerine
+dayandığını ve her aktarımın sınandığını söyler.[^k1] Zorluğun nedenini de
+yazar: aynı olayı gören tanıklar birbirini tutmaz, bazen hafıza eksik kaldığı
+için bazen de taraflardan birine duyulan yakınlık yüzünden.[^k1] Metnin okurunu
+kaybedebilecek olmasını da hesaba katmıştır; anlatısında masalsılık
+bulunmayışının ilgiyi bir ölçüde azaltacağından korktuğunu söyler, ama işini
+anın alkışını toplayacak bir deneme olarak değil "her zaman için bir mülk"
+olarak yazdığını ekler.[^k1]
 
 Yöntem beyanının bugünkü değeri, kendi kusurunu ilan etmesindedir. Konuşmaları
 kimin kurduğu sorusunu okura bırakmaz, cevabı daha savaşın anlatısına
@@ -194,32 +198,35 @@ herkesi uyarmış olur.[^k1]
 
 Yazarın konumu da metnin içindedir. Thukydides savaşı baştan sona yaşadığını,
 olayları kavrayacak yaşta olduğunu ve tam olarak ne olduğunu bilmek için
-dikkatini onlara verdiğini yazar; ardından Amphipolis'teki komutanlığından sonra
-yirmi yıl yurdundan sürgün kaldığını, her iki tarafın yanında bulunduğunu ve
-sürgünü nedeniyle daha çok Peloponneslilerle birlikte olduğunu ekler.[^k2] Bu
-son cümlede de bir çekince vardır: gözlem için elde ettiği fırsatı bir ölçüde
-ayrıntılı sayar, sınırsız değil.[^k2]
+dikkatini onlara verdiğini yazar; ardından Amphipolis'teki komutanlığından
+sonra yirmi yıl yurdundan sürgün kaldığını, her iki tarafın yanında bulunduğunu
+ve sürgünü nedeniyle daha çok Peloponneslilerle birlikte olduğunu ekler.[^k2]
+Bu son cümlede de bir çekince vardır: gözlem için elde ettiği fırsatı bir
+ölçüde ayrıntılı sayar, sınırsız değil.[^k2]
 
-Aynı kişisel kayıt salgın anlatısında yeniden görünür. Hastalığın nedeni üzerine
-hüküm vermeyi başkalarına bırakır, kendi işini belirtileri kaydetmekle sınırlar
-ve bunu daha iyi yapabileceğini söyler: hastalığı kendisi geçirmiş, başkalarında
-da seyrini izlemiştir.[^k1] Tanıklık burada bir yetki değil bir gerekçedir —
-neden bu bölümü yazabildiğini açıklar, yazdığının doğru olduğunu değil.
+Aynı kişisel kayıt salgın anlatısında yeniden görünür. Hastalığın nedeni
+üzerine hüküm vermeyi başkalarına bırakır, kendi işini belirtileri kaydetmekle
+sınırlar ve bunu daha iyi yapabileceğini söyler: hastalığı kendisi geçirmiş,
+başkalarında da seyrini izlemiştir.[^k1] Tanıklık burada bir yetki değil bir
+gerekçedir — neden bu bölümü yazabildiğini açıklar, yazdığının doğru olduğunu
+değil.
 
 ## Kavramların ne işe yaradığı
 
 Thukydides soyut bir kuram bırakmaz; bıraktığı şey, aynı sorunun farklı
-ölçeklerde tekrarlandığı bir dizi sahnedir. Mytilene ayaklanmasından sonra Atina
-meclisi kentin bütün erkeklerini öldürme kararı alır, ertesi gün toplanıp kararı
-yeniden tartışır. Kleon kararın değiştirilmemesini savunur ve savını demokrasinin
-imparatorluğu yönetmeye elverişsiz olduğu iddiasıyla açar.[^k1] Karşısına çıkan
-Diodotos ise tartışmanın zeminini değiştirir: bir mahkeme salonunda değil bir
-siyasal mecliste bulunduklarını, sorunun adalet değil Mytilenelileri Atina için
-yararlı kılmanın yolu olduğunu söyler.[^k1] İkinci oylama merhametle değil
-yararla kazanılır. Kararı taşıyan ikinci gemi Mytilene'ye, komutan Paches
-buyruğu okuyup infaza hazırlanmışken varır; kıyım önlenir, ama ayaklanmanın
-elebaşı sayılıp Atina'ya gönderilenler yine öldürülür — kaynak sayıyı bin
-kişiden biraz fazla diye verir.[^k1]
+ölçeklerde tekrarlandığı bir dizi sahnedir. Mytilene ayaklanmasından sonra
+Atina meclisi, öfkenin sıcağında, yalnız elindeki tutsakları değil kentin bütün
+yetişkin erkeklerini öldürme ve kadınlarla çocukları köleleştirme kararı alır;
+ertesi gün toplanıp kararı yeniden tartışır.[^k1] Kleon kararın
+değiştirilmemesini savunur ve savını demokrasinin imparatorluğu yönetmeye
+elverişsiz olduğu iddiasıyla açar.[^k1] Karşısına çıkan Diodotos ise
+tartışmanın zeminini değiştirir: bir mahkeme salonunda değil bir siyasal
+mecliste bulunduklarını, sorunun adalet değil Mytilenelileri Atina için yararlı
+kılmanın yolu olduğunu söyler.[^k1] İkinci oylama merhametle değil yararla
+kazanılır. Kararı taşıyan ikinci gemi Mytilene'ye, komutan Paches buyruğu
+okuyup infaza hazırlanmışken varır; kıyım önlenir, ama ayaklanmanın elebaşı
+sayılıp Atina'ya gönderilenler yine öldürülür — kaynak sayıyı bin kişiden biraz
+fazla diye verir.[^k1]
 
 Kavramın işleyişi buradadır. Thukydides'in metninde *yarar*, adaletin karşıtı
 olarak değil onun yerini alan bir dil olarak iş görür; Mytilene'yi kurtaran da
@@ -232,27 +239,30 @@ alışılmış davranışına aykırı bir iş olmadığını söyler; üç gü�
 verirler: korku, onur ve çıkar.[^k1] Ardından örneği kendilerinin
 başlatmadığını, zayıfın güçlüye tabi olmasının hep kural olduğunu eklerler ve
 Spartalıları, çıkar hesapları işlerine gelmez hâle geldiği için adalet
-çağrısına sarılmakla suçlarlar.[^k1] Bu üçlü, sonraki yüzyıllarda Thukydides'in
-kendi kuramı diye alıntılandı; oysa metinde bir savunma konuşmasının içindedir
-ve o konuşmayı da — kendi beyanına göre — yazan Thukydides'tir.
+çağrısına sarılmakla suçlarlar.[^k1] Uluslararası ilişkiler yazını gerçekçiliğin
+köklerini Thukydides'in tarihinde arayagelmiştir.[^k7] Oysa bu üçlü metinde bir
+savunma konuşmasının içindedir ve o konuşmayı da — kendi beyanına göre —
+yazan Thukydides'tir.
 
-Aynı dil Melos'ta çıplak hâline gelir. Atinalı elçiler, hakkın ancak eşit güçler
-arasında söz konusu olduğunu, geri kalan durumda "güçlü olan yapabildiğini
-yapar, güçsüz olan çekmesi gerekeni çeker" diye özetlerler.[^k2] Diyalogun
-ardından gelen anlatı sonucu bildirir: kent teslim olur, yakalanan yetişkin
-erkekler öldürülür, kadınlar ve çocuklar köle olarak satılır, adaya beş yüz
-yerleşimci gönderilir.[^k2] Sayfanın editör notu bir çekince ekler — Ksenophon'a
-göre bazı Meloslular sağ kalmış ve savaşın sonunda geri getirilmiştir; aynı not
-birçok araştırmacının V.24'te bir kompozisyon kopması bulunduğunu düşündüğünü de
-kaydeder.[^k2]
+Aynı dil Melos'ta çıplak hâline gelir. Atinalı elçiler, hakkın ancak eşit
+güçler arasında söz konusu olduğunu, geri kalan durumda "güçlü olan
+yapabildiğini yapar, güçsüz olan çekmesi gerekeni çeker" diye özetlerler.[^k2]
+Diyalogun ardından gelen anlatı sonucu bildirir: kent teslim olur, yakalanan
+yetişkin erkekler öldürülür, kadınlar ve çocuklar köle olarak satılır, adaya
+beş yüz yerleşimci gönderilir.[^k2] Sayfanın editör notu bir çekince ekler —
+Ksenophon'a göre bazı Meloslular sağ kalmış ve savaşın sonunda geri
+getirilmiştir; aynı not birçok araştırmacının V.24'te bir kompozisyon kopması
+bulunduğunu düşündüğünü de kaydeder.[^k2]
 
 Kerkyra'daki iç savaşı anlatırken ise kavramların kendisini konu edinir.
 Devrimin kentten kente yayıldığını, sonradan gelenlerin öncekileri aşmaya
 çalıştığını yazar ve ardından şu tespiti koyar: "Sözcükler olağan anlamlarını
-değiştirmek zorunda kaldı."[^k3] Pervasız atılganlık sadık müttefikin cesareti
-sayılmış, ölçülülük erkeksizliğin örtüsü, her yanı görebilme hiçbir yanda
-davranamama olmuştur.[^k3] Siyasal dilin bozulmasının bir savaş sonucu olarak
-kaydedilmesi, metnin en çok alıntılanan bölümlerinden biridir.
+değiştirmek zorunda kaldı."[^k3] Ardından gelen döküm uzun; buradan üçü:
+pervasız atılganlık sadık müttefikin cesareti sayılmış, ölçülülük erkeksizliğin
+örtüsü, her yanı görebilme hiçbir yanda davranamama olmuştur.[^k3] Bozulmanın
+nedenini de aynı bölümde yazar: savaş günlük ihtiyaçların kolay karşılanmasını
+ortadan kaldırır ve sert bir öğretmen olarak çoğu insanın karakterini talihinin
+düzeyine indirir.[^k3]
 
 Aynı ölçüt Atina'nın kendi yönetimine de uygulanır. Perikles'in son yıllarını
 anlatırken, adı demokrasi olan şeyin onun elinde birinci yurttaşın yönetimine
@@ -267,49 +277,51 @@ Cornford'a göre Thukydides'in yapıtı, farkında olmadan, yazıldığından ç
 zihnine yerleşmiş sanatsal ya da felsefi bir kalıba dökülmüş bir tarihtir —
 kitabına bu yüzden *Mythistoricus* sıfatını ekler ve "bilimin işi bir sanat
 eserine dönüştü" der.[^k5] İtirazın somut ayağı Megara kararnameleridir:
-Thukydides dışındaki anlatılar savaşın çıkışını bütünüyle bu kararnameler
-üzerinden kurar, oysa Thukydides üç kararnamenin hiçbirini kaydetmez, Megara
-ilişkilerini arka planda tutar ve Perikles'in bu işlerle bağını yazmaz.[^k5]
-Cornford bunu ticari bir siyasetin gizlenmesi olarak okur; bu okuma 1907'den bu
-yana çok tartışılmıştır ve burada güncel bir uzlaşı olarak değil bir konum
-olarak durur.[^k5]
+savaşın çıkışını anlatan Thukydides dışı kaynaklar müzakereleri bütünüyle bu
+kararnameler üzerinden kurar, oysa Thukydides üç kararnamenin hiçbirini
+kaydetmez, Megara ilişkilerini arka planda tutar ve Perikles'in bu işlerle
+bağını yazmaz.[^k5] Cornford bunu ticari bir siyasetin gizlenmesi olarak okur;
+bu okuma 1907'den bu yana çok tartışılmıştır ve burada güncel bir uzlaşı olarak
+değil bir konum olarak durur.[^k5]
 
 Cornford'un okuması metnin en ünlü sahnelerine kadar uzanır. Kitabın kendi
 çözümlemeli içindekiler dökümünde Melos Diyalogu, tarafların savlarını tartan
 bir sahne olarak değil, hastalıklı bir ruh hâlini anlatmak üzere kurulmuş bir
-bölüm olarak sayılır; Alkibiades'in Thukydides'teki tasviri ise mitik sayılır ve
-Alkibiades'in bir olaydaki payının metinde atlandığı kaydedilir.[^k5] Buradaki
-itiraz, Thukydides'in yalan söylediği değil, seçtiğidir: neyi kaydettiği kadar
-neyi kaydetmediği de bir kuramın izini taşır.
+bölüm olarak sayılır; Alkibiades'in Thukydides'teki tasviri ise mitik sayılır
+ve Alkibiades'in bir olaydaki payının metinde atlandığı kaydedilir.[^k5]
+Buradaki itiraz, Thukydides'in yalan söylediği değil, seçtiğidir: neyi
+kaydettiği kadar neyi kaydetmediği de bir kuramın izini taşır.
 
-Güncel klasik filoloji itirazı başka yere taşır. Bir 2025 çalışması,
-Thukydides'in konuşmaların nedensel etkisi konusunda bilerek belirsiz kaldığını
-ve bu belirsizliğin savaşın çıkışına dair anlatının merkezinde durduğunu
-savunur; I.23.6'daki *prophasis* teriminin de aynı belirsizliği taşıdığını,
-savaşın kendini gerçekleştiren bir kehanetle başlamış olabileceğini ileri
-sürer — yakın dönem çalışmalarının önerdiği kendini gerçekleştiren algı
-okumasının yerine.[^k6] Melos Diyalogu'nun anahtar cümlesi de yeniden okunuyor:
-bir 2026 makalesi, Atinalıların adaleti eşit zorunluluğa bağlayan sözünün
-uzun süredir gücün ahlaktan önce geldiğinin ilanı sayıldığını ve Atinalıların
-böylece örnek siyasal gerçekçiler ilan edildiğini söyleyip bu okumaya itiraz
-eder.[^k8]
+Güncel klasik filoloji itirazı başka yere taşır. Daniel Sutton'un 2025 tarihli
+çalışması, Thukydides'in konuşmaların nedensel etkisi konusunda bilerek
+belirsiz kaldığını ve bu belirsizliğin savaşın çıkışına dair anlatının
+merkezinde durduğunu savunur; I.23.6'daki *prophasis* teriminin de aynı
+belirsizliği taşıdığını, savaşın kendini gerçekleştiren bir kehanetle başlamış
+olabileceğini ileri sürer — yakın dönem çalışmalarının önerdiği kendini
+gerçekleştiren algı okumasının yerine.[^k6] Melos Diyalogu'nun anahtar cümlesi
+de yeniden okunuyor: Mark Fisher'ın 2026 tarihli makalesi, Atinalıların adaleti
+eşit zorunluluğa bağlayan sözünün uzun süredir gücün ahlaktan önce geldiğinin
+ilanı sayıldığını ve Atinalıların böylece örnek siyasal gerçekçiler ilan
+edildiğini söyleyip bu okumaya itiraz eder.[^k8]
 
 ## Adına söylenenlerle yazdığı arasındaki fark
 
-Thukydides'in en yaygın çarpıtılma biçimi, onu modern uluslararası ilişkiler
-kuramının kurucusu saymaktır. Cornell University Press'in bu soruya ayrılmış
-kitabının özeti, iki düşünürün de gerçekçiliğin sınırlarına tam oturmadığını
-kabul eder, Hobbes'un felsefesinin gerçekçiliğe Thukydides'inkinden daha yakın
-durduğunu öne sürer ve Thukydides'in yanlış anlaşıldığını, aslında gerçekçiliğe
-alternatif bir yaklaşım sunduğunu savunur.[^k7]
+Thukydides'in en yaygın çarpıtılma biçimlerinden biri, onu modern uluslararası
+ilişkiler kuramının kurucusu saymaktır. Laurie M. Johnson'ın bu soruya ayrılmış
+kitabının Cornell University Press'te yayımlanan özeti, iki düşünürün de
+gerçekçiliğin sınırlarına tam oturmadığını kabul eder, Hobbes'un felsefesinin
+gerçekçiliğe Thukydides'inkinden daha yakın durduğunu öne sürer ve
+Thukydides'in yanlış anlaşıldığını, aslında gerçekçiliğe alternatif bir
+yaklaşım sunduğunu savunur.[^k7]
 
 Bugünkü tartışmada aynı adı taşıyan asıl kalıp, Atina'nın yükselişi ile
-Sparta'nın korkusunu bir güç geçişi yasasına çeviren tuzak benzetmesidir. 2024
-tarihli bir değerlendirme, benzetmenin kötü tarih ve kötü kuram olduğu
-suçlamasının haklı bulunduğunu ama meselenin asıl ağırlığının başka yerde
-durduğunu söyler: kalıp, tarif ettiği iki hükûmetin de söz dağarına girmiştir ve
-Xi Jinping kavramı 2014, 2015, 2023 ve 2024'te açıkça ele almıştır.[^k9]
-Öznelerinin okuyup etrafından dolaşmaya çalıştığı bir yapısal kuram, yapısal
+Sparta'nın korkusunu bir güç geçişi yasasına çeviren tuzak benzetmesidir. Noor
+Saeed Khan ile Muzaffar Khan Zafar'ın 2024 tarihli değerlendirmesi, benzetmenin
+kötü tarih ve kötü kuram olduğu suçlamasının haklı bulunduğunu ama meselenin
+asıl ağırlığının başka yerde durduğunu söyler: kalıp, tarif ettiği iki
+hükûmetin de söz dağarına girmiştir ve Xi Jinping kavramı 2014, 2015, 2023 ve
+2024'te açıkça ele almıştır.[^k9] Değerlendirmenin kendi çıkardığı sonuç şudur:
+öznelerinin okuyup etrafından dolaşmaya çalıştığı bir yapısal kuram, yapısal
 kuramların iddia ettiği işi yapmıyordur.[^k9]
 
 ::tartismali[Thukydides'i uluslararası ilişkiler gerçekçiliğinin kurucusu saymak, bir metin bulgusu değil bir disiplinin kuruluş anlatısıdır; aynı türden bir eşik tartışması Vestfalya için de sürüyor.]{harita=tartisma-vestfalya-miti}

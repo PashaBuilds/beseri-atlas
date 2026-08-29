@@ -1,0 +1,275 @@
+{
+  "id": "kavram-konjonktur",
+  "govde_hash": "09907c317bbe",
+  "commit": "7ed5c28",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Amerika'da bir daralmanın ne zaman başlayıp bittiği bir kurul kararıyla saptanır: Ulusal İktisadi Araştırmalar Bürosu'nun konjonktür tarihleme komitesi, iktisadi faaliyetin tepe ve dip aylarını veren bir kronoloji tutar ve o kronolojiye göre son tepe Şubat 2020'de, son dip Nisan 2020'dedir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "NBER sayfasi tepe/dip AY olarak verir; Subat 2020 tepe ve Nisan 2020 dip birebir sayfada. Yalnizca ABD kronolojisidir."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Aynı sözcük tarih yazımında bambaşka bir büyüklüğü adlandırır: üç katmanlı Annales şemasında konjonktür, on yıllarla — derleme kaynağın deyişiyle kimi zaman yüzyıllarla — ölçülen orta vadeli dalgadır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak orta katmani \"medium-term conjunctures (periods of decades or centuries)\" diye verir; cumle bu araligi tek sayiya indirmez."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "İki aylık bir daralmayla iki kuşak boyunca süren bir fiyat kabarması aynı sözcükle anılırsa ölçek kararı görünmez olur, dalga da her şeyi açıklayabilir hale gelir.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yazarin olcek uyarisi; kaynak yalnizca aylik tarihlemenin varligini tasir, uyariyi tasimaz."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Longue durée (uzun süre) yaklaşımı üç parçalı bir dizgenin bir ucudur: öbür uçta François Simiand'ın histoire événementielle dediği kısa vadeli olaylar, ortada konjonktürler durur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc parcali dizge ve Simiand kaynaklandirmasi kaynagin giris paragrafinda birebir durur."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Dizgeyi tarihçilere mal eden metin, Fernand Braudel'in 1958'de Annales'in tartışmalara ve hesaplaşmalara ayrılmış bölümünde çıkan yazısıdır; yazı insan bilimlerinde genel bir bunalım saptayarak ve komşu disiplinlerin sınır kavgalarını sayarak açar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Persee ilk sayfasinda DEBATS ET COMBATS bolum basligi, bunalim tespiti ve sinir kavgalari paragrafi acik. SINIR: ayni sayfada konjonktur sozcugu gecmez, cumle de gectigini iddia etmez."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "*Akdeniz*'in birinci cildinden aktarılan bir pasaja göre yapının da konjonktürün de farklı türleri vardır ve ikisinin de süresi değişebilir; tarih, bir zaman düzleminden ötekine dikey uzanan çok boyutlu açıklamaları kabul eder.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tomich dipnot 17, Braudel Akdeniz c.I s.16 aktarimi: yapi ve konjonktur turlerinin ve surelerinin degisebilirligi. HAKEM NOTU: cumle once 'Braudel'e gore' diye kuruluyordu; aktarim halkasi (Tomich dipnotundaki Ingilizce ceviri) yalnizca kunye notunda duruyordu. Govdeye halkayi beyan eden cumle eklendi ve atif pasajin kendisine baglandi."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Christophe Charle'ın söyleşi sunuşuna göre Labrousse'un çıkış noktası, idari istatistiğin henüz çocukluk çağında olduğu on sekizinci yüzyıl için gerçek bir iktisat tarihi kurmaktı; tasarı, Simiand'ın daha önceki çalışmalarına esin veren klasik iktisatçılıktan ayrılıyor, başlıca gelir ve fiyat biçimlerinin değişimleri üzerinden toplumsal ilişkilerin diyalektiğini yakalamayı hedefliyor ve Marksçı varsayımlardan serbestçe esinleniyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Charle sunusundaki dort ogenin (idari istatistigin cocuklugu, Simiand ayrimi, gelir-fiyat degisimleri, Marksci esin) hepsi ilk sayfada. Labrousse'un kendi sozleri degil, sunusun ozeti oldugu cumlede belirtildi."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Pierre Chaunu'nün tanımında seri tarih tekil olguyla — siyasi olduğu kadar kültürel ya da iktisadi olanıyla — değil, türdeş bir diziye sokulabilen yinelenen öğeyle ilgilenir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tomich dipnot 24, Chaunu tanimi. Kaynak Chaunu'nun 1987 Ispanyolca baskisina gonderir; aktarim ikinci elden."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Labrousse'un savına göre aylık ya da yıllık ortalama fiyatı ancak bu kayıt verebilir; hesap defterleri çoğu zaman bu tarihin yalnızca epizotlarını sunar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tomich dipnot 31, Labrousse 1944 s.12-13 aktarimi: mercuriale ve hesap defterleri karsilastirmasi. Kaynagin \"often only provide episodes\" cekincesi \"cogu zaman\" ile tasindi."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Labrousse'a 1974'te sunulan armağan cildinin başlığı iktisadi konjonktür ile toplumsal yapıları yan yana koyar.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Charle sunusunun 3 numarali dipnotu: Conjoncture economique et structures sociales, Hommage a Ernest Labrousse, 1974."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Yazının açılışına göre Labrousse'un düşüncesi, ilk ifadelerinde birbirine karşıtlığa varan değerlendirme ayrılıklarıyla, geri çekilen katılımlarla ve tereddütlerle karşılanmıştı; Morineau kendisi de üç ya da dört kez, Labrousse'un incelediği olguların başka versiyonlarını önerdiğini yazar ve yeniden okumasının amacının bu ünü lekelemek olmadığını söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Morineau ilk sayfasi. Kaynagin \"trois ou quatre reprises\" belirsizligi \"uc ya da dort kez\" olarak tasindi. Makalenin asil kronoloji/dongu elestirisi ilk sayfanin disindadir ve buraya yazilmadi."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Annales'in 1989 tarihli eleştirel dönemeç sayısında Jean-Yves Grenier ile Bernard Lepetit, iktisat tarihinin birkaç yıldır sorgulamaların belirsizliğiyle, araştırma veriminin düşüşüyle ve tarih disiplininin antropolojiye, siyasete ya da fikirlere kaymasıyla karşı karşıya olduğunu yazdılar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Grenier-Lepetit ilk sayfasi; uc ogenin ucu de acik metinde. Metin OCR olup kesme isaretlerini dusurur."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Karışıklık çoğunlukla iki anlamın üst üste binmesinden çıkar: aylarla tarihlenen bir daralmaya tarihsel konjonktürün açıklayıcı ağırlığını yüklemek, ya da tersine, iki kuşak süren bir fiyat hareketini geçici bir piyasa havası gibi anlatmak.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yanlis okuma tespiti yazara aittir; kaynak yalnizca aylik tarihleme pratigini tasir."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "İlkine karşı kaynak sürelerin değişebileceğini açıkça yazar; ikincisine karşı programın kendi hedefi tanıklık eder: bir fiyat dizisi bir hareketi ölçer, onu açıklamaz, ve Labrousse'un tasarısı zaten dizinin altındaki toplumsal ilişkileri okumaya yönelikti.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ilk yari k2'de birebir (surelerin degisebilirligi). Ikinci yari k3'ten tureyen bir cikarim: sunus programin hedefini toplumsal iliskilerin diyalektigi diye verir, ama \"dizi aciklamaz\" cumlesini kurmaz — destek kismi."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "İktisadi anlam bir kronoloji sorusudur; dosyasında daralmanın başlangıç ayı tam da böyle bir kronolojiyle verilir.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "NBER kaydi aylik tarihleme yordamini tasir; Buyuk Buhran dosyasinin kendi kronolojisi baska bir kaynaktan gelir, bu yuzden destek kismi."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Tarihsel anlam bir açıklama sorusudur: tartışmasında sınıf çatışmasıyla siyasi konjonktür arasındaki ağırlık paylaşımı açık bir sorudur ve Morineau'nun yeniden okumasını harekete geçiren şey de fiyat çözümlemelerine dönen bu ilgidir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cumlenin ikinci yarisi (fiyat cozumlemelerinin yeniden canlanmasi) k5'te birebir; ilk yarisi atlasin kendi tartisma dosyasina gonderme oldugu icin kaynak onu tasimaz."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Labrousse'un iki büyük kitabı, katı bir iktisadi ve toplumsal tarihin sorunlarını ve kurallarını erkenden tanımlamıştı; Sorbonne'daki bilimsel yetkesi 1945'te kuruldu ve iki kuşak öğrenci ile araştırmacı üzerinde yürüdü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Grenier-Lepetit ilk sayfasi: 'Deux grands livres qui ont precocement defini les problemes et les regles d'une histoire economique et sociale rigoureuse, une magistrature scientifique installee a la Sorbonne en 1945, exercee sur deux generations d'etudiants et de chercheurs'. OCR kesme isaretlerini dusurur. HAKEM EKLEMESI."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Program, katmanı adlandıran 1958 yazısından önce iş görüyordu.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Atlasin kendi cikarimi: k4 Labrousse'un kursusunu 1945'e ve iki buyuk kitabini daha erkene tarihler; k1 Braudel yazisini 1958'e tarihler. Iki tarihli kaynagin arasindaki cikarim, tek bir kaynagin cumlesi degil — bu yuzden ikisi de kismi. HAKEM EKLEMESI: dosya once orta katmani Labrousse'la eslestiriyor ama sirayi soylemiyordu; kavram dosyalarinda zorunlu olan 'geriye donuk okuma acikca soylensin' kosulu boylece karsilandi."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 13,
+    "kismi": 3,
+    "desteksiz": 0,
+    "olculemez": 2
+  }
+}

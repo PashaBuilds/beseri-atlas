@@ -1,9 +1,9 @@
 {
   "id": "dusunur-durkheim",
-  "govde_hash": null,
-  "commit": null,
+  "govde_hash": "bf06e147577a",
+  "commit": "d9e0ff7",
   "zaman": "2026-08-29",
-  "hakem": "TASLAK-yazar",
+  "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
     {
       "iddia_id": "i001",
@@ -119,7 +119,7 @@
     },
     {
       "iddia_id": "i009",
-      "cumle": "Bir toplumun hukuk düzeni, dinsel inançları, para sistemi, giyinme biçimleri ve dili bu başlık altındadır; evlenme, doğum ve intihar oranları gibi tek tek vakalarda görünen kanaat akımları da öyledir ve bunlar ancak istatistikle, yani tekil vakalar bir toplama dönüştürülerek incelenebilir; nüfusun sayısı, dağılımı ve iletişim araçları gibi biçimsel koşullar da aynı türdendir.",
+      "cumle": "Bir toplumun hukuk düzeni, dinsel inançları, güzellik kavrayışı, para sistemi, giyinme biçimleri ve dili bu başlık altındadır; evlenme, doğum ve intihar oranları gibi tek tek vakalarda görünen kanaat akımları da öyledir ve bunlar ancak istatistikle, yani tekil vakalar bir toplama dönüştürülerek incelenebilir; nüfusun sayısı, dağılımı ve iletişim araçları gibi biçimsel koşullar da aynı türdendir.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -129,7 +129,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "IEP toplumsal olgu turlerini sayar: hukuk, inanc, para, giyim, dil; kanaat akimlari; bicimsel olgular"
+      "inceleme": "IEP listesi: legal code, religious beliefs, concept of beauty, monetary system, ways of dressing, language; kanaat akimlari; morfolojik olgular. Hakem denetimi: \"guzellik kavrayisi\" ogesi govdede eksikti, kaynagin listesine gore geri konuldu"
     },
     {
       "iddia_id": "i010",
@@ -357,7 +357,7 @@
     },
     {
       "iddia_id": "i026",
-      "cumle": "Tanım üç öğe taşır: kutsal, yani ayrılmış ve yasaklanmış şeylere ilişkin birleşik bir inançlar ve pratikler sistemi ve bunlara bağlanan herkesi tek bir ahlaki cemaatte birleştirme.",
+      "cumle": "Tanımı şöyle kurar: din, kutsal — yani ayrılmış ve yasaklanmış — şeylere ilişkin birleşik bir inançlar ve pratikler sistemidir; bu inanç ve pratikler kendilerine bağlanan herkesi kilise denen tek bir ahlaki cemaatte birleştirir.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -367,7 +367,21 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Formes: din tanimi metinde birebir"
+      "inceleme": "Formes (Swain cevirisi) tanimi birebir. Hakem denetimi: onceki bicimde \"tanim uc oge tasir\" sayisi kaynakta yoktu ve \"kilise\" ogesi dusmustu; sayi kaldirildi, kilise geri konuldu"
+    },
+    {
+      "iddia_id": "i026b",
+      "cumle": "İkinci öğe birincisi kadar temeldir: din fikri kilise fikrinden ayrılamadığı için din, özü gereği kolektif bir şeydir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Swain cevirisi: \"The second element ... is no less essential than the first; for by showing that the idea of religion is inseparable from that of the church, it makes it clear that religion should be an eminently collective thing\""
     },
     {
       "iddia_id": "i027",
@@ -553,7 +567,7 @@
     },
     {
       "iddia_id": "i040",
-      "cumle": "Marx'ı bilim dışı ve dogmatik bulmasına, marksizmi de gereksiz yere çatışmacı saymasına rağmen bir dizi sosyalist reformu destekledi, ama hiçbir partiye bağlanmadı.",
+      "cumle": "Marx'ı bilim dışı ve dogmatik bulmasına, marksizmi de gereksiz yere çatışmacı, gerici ve şiddet yanlısı saymasına rağmen bir dizi sosyalist reformu destekledi, ama hiçbir partiye bağlanmadı.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -563,7 +577,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "IEP: Marx elestirisi ve sosyalist reform destegi, partiye baglanmama"
+      "inceleme": "IEP: \"needlessly conflictual, reactionary, and violent\". Hakem denetimi: govde niteleme listesinin yalnizca ilk ogesini tasiyordu, tamamlandi"
     },
     {
       "iddia_id": "i041",
@@ -580,6 +594,20 @@
       "inceleme": "IEP oglun olum yilini 1915 verir; metinde yil yazilmadi, yalnizca kaynagin kesin verdigi 1917 olum tarihi ve tamamlanmamis ahlak kitabi aktarildi"
     },
     {
+      "iddia_id": "i041b",
+      "cumle": "Hakemli bir felsefe ansiklopedisinin maddesi, Durkheim'ın adının bugün birbirinden hayli uzak üç tartışmada geçtiğini kaydeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem denetimi: curutucu \"kapsam-carpitmasi\" itirazi (avrupa kapsamli makalede kuresel dil) uzerine, ucul tasnifin kaynaga ait oldugu metinde acikca soylendi"
+    },
+    {
       "iddia_id": "i042",
       "cumle": "Birincisi zihin felsefesi ve toplumbilim felsefesidir: onun sui generis kavramı, 1960'larda ortaya çıkan beliriş (emergence) kavramına benzetiliyor ve bu alanlarda çalışanlar Durkheim'ın tartışmayla ilgisini yeni yeni tanıyor.",
       "onem": "destek",
@@ -591,7 +619,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "IEP: sui generis-emergence benzerligi ve \"have begun recognizing\" kaydi"
+      "inceleme": "IEP: sui generis-emergence benzerligi ve \"have begun recognizing\" kaydi; kapsam cercevesi paragraf basinda kaynaga baglandi"
     },
     {
       "iddia_id": "i043",
@@ -609,7 +637,7 @@
     },
     {
       "iddia_id": "i044",
-      "cumle": "Üçüncüsü siyaset kuramıdır: birey kişiliğinin kutsallaşması tezinin 1948'de kabul edilen İnsan Hakları Evrensel Bildirisi'yle ve John Rawls'un siyasal liberalizm ile Jürgen Habermas'ın anayasal yurtseverlik kavramlarıyla koşutlukları kuruluyor.",
+      "cumle": "Üçüncüsü siyaset kuramıdır: 1948'de kabul edilen İnsan Hakları Evrensel Bildirisi, birey kültünün kutsal metinlerinden biri sayılabilecek bir belge olarak okunuyor; Durkheim'ın betimlediği akılla temellendirilmiş toplum ile John Rawls'un siyasal liberalizm ve Jürgen Habermas'ın anayasal yurtseverlik kavramları arasında ise güçlü koşutluklar kuruluyor.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -618,8 +646,8 @@
           "destek": "dogrudan"
         }
       ],
-      "guven": "orta",
-      "inceleme": "IEP 1948 Bildirisi icin \"could be regarded\" der; metin \"kosutluklari kuruluyor\" diyerek cekinceyi korur"
+      "guven": "yuksek",
+      "inceleme": "IEP iki ayri cerceve kurar: Bildiri icin \"could be regarded as one of the central holy texts of the cult of the individual\", Rawls/Habermas icin \"strong parallels\". Hakem denetimi: govde ikisini tek bir \"kosutluk\" cumlesinde birlestirmisti, kaynagin ayrimi geri kuruldu"
     },
     {
       "iddia_id": "i045",
@@ -655,7 +683,7 @@
     }
   ],
   "sayaclar": {
-    "dogrudan": 43,
+    "dogrudan": 45,
     "kismi": 3,
     "desteksiz": 0,
     "olculemez": 0

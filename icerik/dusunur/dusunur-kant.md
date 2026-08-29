@@ -232,31 +232,34 @@ mekanizmasıyla ilgilidir.[^k1]
 
 Kant, 1775'te yayımlanıp 1777'de gözden geçirdiği *İnsanın Farklı Irkları
 Üzerine* denemesinde tekköken savını güçlü biçimde savundu: bütün insanlar
-ortak bir kökten gelir, ırk özelliklerini üretecek tohumları ve yatkınlıkları
-taşır, bunlar ısı ve nem bileşimleri gibi çevresel etkenlerle tetiklenir ve
-göç, coğrafi yalıtım ve iç evlilikle dört saf ırk ayrışır — kuzey Avrupa'nın
-soylu sarışını, Amerika'nın bakır kırmızısı, Senegambiya'nın siyahı ve
-Asya-Hindistan'ın zeytin sarısı.[^k7] Melez döllerin karışık özellikler
-göstermesi hem ortak türün hem ayrı ırkların kanıtı sayılır.[^k7] Aynı düşünür,
-Avrupa dışındakileri çeşitli bakımlardan aşağı görüyordu ve dünya
-ilerlemesinin, Avrupa kültürü ile hukukunun geri saydığı kültürlere ve aşağı
-saydığı ırklara yayılmasından geçtiğini düşünüyordu.[^k6]
+Avrupa'da bulunan ortak bir soy kökünden gelir, ırk özelliklerini üretecek
+tohumları ve yatkınlıkları taşır, bunlar ısı ve nem bileşimleri gibi çevresel
+etkenlerle tetiklenir ve göç, coğrafi yalıtım ve iç evlilikle dört saf ırk
+ayrışır — kuzey Avrupa'nın soylu sarışını, Amerika'nın (ve doğu Asya'nın)
+bakır kırmızısı, Afrika'da Senegambiya'nın siyahı ve Asya-Hindistan'ın zeytin
+sarısı.[^k7] Melez döllerin karışık özellikler göstermesi hem ortak türün hem
+ayrı ırkların kanıtı sayılır.[^k7] Aynı düşünür, Avrupa dışındakileri çeşitli
+bakımlardan aşağı görüyordu ve dünya ilerlemesinin, Avrupa kültürü ile
+hukukunun geri saydığı kültürlere ve aşağı saydığı ırklara yayılmasından
+geçtiğini düşünüyordu.[^k6]
 
 Buna karşılık *Ebedî Barış*'ın üçüncü kesin maddesi, on sekizinci yüzyılın en
 sert sömürgecilik yergilerinden birini taşır. Metin, uygar ulusların —
 özellikle kıtanın ticaret devletlerinin — konukseverliğe aykırı davranışını
 sayar: yabancı ülkeleri ziyaret onların gözünde fetihle eşdeğerdir; Amerika,
-Baharat Adaları ve Ümit Burnu keşfedildiklerinde kimseye ait olmayan ülkeler
-sayılmıştır, çünkü yerli halklar hiç sayılmıştır; Hindistan'da yalnızca ticaret
-deposu kurma bahanesiyle yabancı asker sokulmuş, sonuç geniş savaşlar,
-yerlilerin ezilmesi, kıtlık ve isyan olmuştur; en korkunç ve kasıtlı köleliğin
-merkezi olan şeker adaları ise gerçek bir kâr getirmez, işe yaramaları yalnızca
-Avrupa'daki savaşlara denizci yetiştirmek gibi hiç de övülesi olmayan dolaylı
-bir amaçladır.[^k1]
-
+metnin siyahların ülkeleri diye andığı yerler, Baharat Adaları ve Ümit Burnu
+keşfedildiklerinde kimseye ait olmayan ülkeler sayılmıştır, çünkü yerli
+halklar hiç sayılmıştır; Hindistan'da yalnızca ticaret deposu kurma
+bahanesiyle yabancı asker sokulmuş, sonuç geniş savaşlar, yerlilerin ezilmesi,
+kıtlık, isyan ve ihanet olmuştur; en korkunç ve kasıtlı köleliğin merkezi olan
+şeker adaları ise gerçek bir kâr getirmez, işe yaramaları yalnızca Avrupa'daki
+savaşlara denizci yetiştirmek gibi hiç de övülesi olmayan dolaylı bir
+amaçladır.[^k1]
 Aynı külliyatın iki yüzünü nasıl okuyacağı bugün açık bir tartışmadır. Pauline
 Kleingeld'in 2007'de *The Philosophical Quarterly*'nin 57. cildinde 573-592
-sayfaları arasında yayımlanan makalesi bu tartışmanın dönüm noktasıdır.[^k8]
+sayfaları arasında yayımlanan makalesi[^k8] bu tartışmanın dönüm noktasıdır;
+kaynak onu ırk konusundaki çağdaş Kant çalışmalarındaki merkezî yeri nedeniyle
+öne çıkarır.[^k7]
 Kleingeld, Kant'ın ırk hiyerarşisine dair görüşlerinin *Ebedî Barış*'ın
 1795'teki yayımından önce değiştiğini, o metinde ve *Ahlak Metafiziği*'nde
 sömürgeciliği, mal statüsündeki köleliği ve köle ticaretini reddederek ırk
@@ -273,9 +276,10 @@ mücadelelerini kötüleştirip ebedî barış ihtimalini karartmasından
 kaygılanmasıdır — yani ırka dayalı köleliği ahlaki bir sorun olarak değil, bir
 tarih felsefecisinin uzağından ele almıştır; Lu-Adler Kant'ın yazıları ve
 dersleri boyunca tutarlı biçimde eşitlik karşıtı bir konum tuttuğunu ileri
-sürer.[^k7] Alanın kendi bölünmesi de adlarıyla kayıtlıdır: Eze, Mills ve
-Bernasconi eleştirel kanadı; Louden, Hill ile Boxill, Kleingeld ve Allais
-savunan kanadı temsil eder.[^k7] Kaynağın kendi ifadesi de temkinlidir:
+sürer.[^k7] Alanın bölünmesi de adlarıyla kayıtlıdır; kaynak bu iki
+kanatlı ayrımı Lu-Adler'i izleyerek ve tüketici olmadığını belirterek kurar:
+Eze, Mills ve Bernasconi eleştirel kanadı; Louden, Hill ile Boxill, Kleingeld
+ve Allais savunan kanadı temsil eder.[^k7] Kaynağın kendi ifadesi de temkinlidir:
 1790'ların ortasına gelindiğinde Kant'ın ırksal aşağılığa dair inançlarından
 vazgeçmiş göründüğünü söyler, kesin bir saptama yapmaz; aynı kayda göre Kant
 bu konudan derslerinde artık söz etmez ve yerli halkların kendi kendini
@@ -287,11 +291,12 @@ etmek de bu kaydı değiştirmez; soru tarihlidir ve ölçülebilir.
 
 ## İtiraz edenler
 
-En erken ve en kişisel itiraz kendi öğrencisinden geldi. Johann Gottfried
+İtirazlardan biri Kant'ın kendi öğrencisinden geldi. Johann Gottfried
 Herder, Königsberg'de Kant'ın öğrencisiydi ve olağandışı yeteneği nedeniyle
 hocasından ayrıcalıklar görmüştü; sonradan eleştirel felsefeye karşı iki kitap
 yazdı, *Saf Aklın Eleştirisi*'ne karşı *Metakritik* (1799) ve *Yargı Gücünün
-Eleştirisi*'ne karşı *Calligone* (1800).[^k9] Herder'in özsel itirazı ahlak
+Eleştirisi*'ne karşı *Calligone* (1800); kaynak bu iki polemiği dağıtıcı ve
+etkisiz sayar.[^k9] Herder'in özsel itirazı ahlak
 kuramınadır: ahlak temelde bilgi değil duygu meselesidir; Platon'un, eleştirel
 dönemin Kant'ının ve G. E. Moore'un savunduğu bilişselci kuramlar bu yüzden
 yanlış bir temele oturur ve ahlaki iyileşme aracı olarak işe yaramaz — dahası
@@ -317,7 +322,11 @@ olarak sıraladı.[^k6] Ama Kant'ın metni demokrasiyi övmez: egemenliğin biç
 despotik) ayırır ve sözcüğün gerçek anlamındaki demokrasinin zorunlu olarak
 despotizm olduğunu söyler, çünkü orada herkes karar veren konumundadır ve
 bütün halk dediği aslında çoğunluktur.[^k1] Kant'ın istediği şey oy hakkının
-genişliği değil, yasama ile yürütmenin ayrılmasıdır.[^k1]
+genişliği değil, yasama ile yürütmenin ayrılmasıdır.[^k1] Nitekim hukuk
+öğretisinde tam yurttaşlığı kadınlara, çocuklara ve kendi efendisi olmayanlara
+tanımaz; onları edilgen yurttaş sayar — özgürlük ve eşitliğin getirdiği
+hakları yadsımadığını vurgular ve siyasal düzenin edilgen konumdakine
+bağımsızlığa yükselme yolunu açması gerektiğini ekler.[^k6]
 
 İkincisi, federasyon maddesinin bir dünya hükümeti tasarısı gibi okunmasıdır;
 metin dünya cumhuriyetini açıkça bir kenara koyar ve savaşı önleyen

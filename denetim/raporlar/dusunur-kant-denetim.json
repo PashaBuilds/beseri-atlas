@@ -1,9 +1,9 @@
 {
   "id": "dusunur-kant",
   "gecis": 2,
-  "zaman": "2026-08-29T20:17:17.763Z",
-  "govde_hash": "6c20a0bcd310",
-  "commit": "4a5044d",
+  "zaman": "2026-08-29T20:30:46.263Z",
+  "govde_hash": "836ee3c2e775",
+  "commit": "d9e0ff7",
   "sonuclar": [
     {
       "anahtar": "k2",
@@ -175,7 +175,7 @@
     },
     {
       "anahtar": "k7",
-      "iddia": "Kant, 1775'te yayımlanıp 1777'de gözden geçirdiği İnsanın Farklı Irkları Üzerine denemesinde tekköken savını güçlü biçimde savundu: bütün insanlar ortak bir kök",
+      "iddia": "Kant, 1775'te yayımlanıp 1777'de gözden geçirdiği İnsanın Farklı Irkları Üzerine denemesinde tekköken savını güçlü biçimde savundu: bütün insanlar Avrupa'da bul",
       "durum": "OK",
       "not": "2 atom doğrulandı; 4 ad ölçülemedi"
     },
@@ -199,7 +199,13 @@
     },
     {
       "anahtar": "k8",
-      "iddia": "Pauline Kleingeld'in 2007'de The Philosophical Quarterly'nin 57. cildinde 573-592 sayfaları arasında yayımlanan makalesi bu tartışmanın dönüm noktasıdır.",
+      "iddia": "Pauline Kleingeld'in 2007'de The Philosophical Quarterly'nin 57. cildinde 573-592 sayfaları arasında yayımlanan makalesi bu tartışmanın dönüm noktasıdır; kaynak",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Pauline Kleingeld'in 2007'de The Philosophical Quarterly'nin 57. cildinde 573-592 sayfaları arasında yayımlanan makalesi bu tartışmanın dönüm noktasıdır; kaynak",
       "durum": "OK",
       "not": ""
     },
@@ -223,7 +229,7 @@
     },
     {
       "anahtar": "k7",
-      "iddia": "Alanın kendi bölünmesi de adlarıyla kayıtlıdır: Eze, Mills ve Bernasconi eleştirel kanadı; Louden, Hill ile Boxill, Kleingeld ve Allais savunan kanadı temsil ed",
+      "iddia": "Alanın bölünmesi de adlarıyla kayıtlıdır; kaynak bu iki kanatlı ayrımı Lu-Adler'i izleyerek ve tüketici olmadığını belirterek kurar: Eze, Mills ve Bernasconi el",
       "durum": "OK",
       "not": ""
     },
@@ -272,6 +278,12 @@
     {
       "anahtar": "k1",
       "iddia": "Kant'ın istediği şey oy hakkının genişliği değil, yasama ile yürütmenin ayrılmasıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Nitekim hukuk öğretisinde tam yurttaşlığı kadınlara, çocuklara ve kendi efendisi olmayanlara tanımaz; onları edilgen yurttaş sayar — özgürlük ve eşitliğin getir",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

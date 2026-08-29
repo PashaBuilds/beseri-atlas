@@ -10,6 +10,7 @@ eksen: [siyasi, kulturel]
 guven_geneli: yaygin
 etiketler: [somurgesizlesme, kapsam, imparatorluk, bolunme, siddet]
 ilgili:
+  - kavram-somurgecilik
   - kavram-emperyalizm
   - olay-afrika-bagimsizlik-dalgasi
   - olay-hindistan-bolunmesi

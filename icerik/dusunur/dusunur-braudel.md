@@ -25,6 +25,7 @@ ilgili:
   - kavram-kapitalizm
   - dusunur-carr
   - tartisma-buyuk-adam-kurami
+  - kavram-konjonktur
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
@@ -136,10 +137,10 @@ yazısını insan bilimlerinde genel bir bunalım saptayarak açtı: bilimler ke
 ilerlemeleri altında eziliyor, yeni bilgi yığılıyor, örgütlenmesi hâlâ
 kurulamamış bir ortak çalışma zorunluluğu hepsini sarsıyordu.[^k1]
 
-Bunalım teşhisi bir giriş süsü değildi. Aynı yazıda Braudel zamanı, basit bir
-kronoloji ölçüsü olmaktan çıkarıp toplumsal bir kurgu olarak yeniden tanımlar ve
-1958'de bunu sosyal bilimlerin birbirine yaklaşması için bir çağrıya
-bağlar.[^k7]
+Bunalım teşhisi bir giriş süsü değildi. Richard E. Lee'nin özetlediği gibi aynı
+yazıda Braudel zamanı, basit bir kronoloji ölçüsü olmaktan çıkarıp toplumsal bir
+kurgu olarak yeniden tanımlar ve 1958'de bunu sosyal bilimlerin birbirine
+yaklaşması için bir çağrıya bağlar.[^k7]
 Sav tek cümleyle söylenebilir: aynı geçmişte farklı hızlarda birden çok zaman
 akar, ve tarihçinin hangi zamanda çalıştığı ne göreceğini önceden belirler.
 
@@ -156,16 +157,16 @@ gerçekliklerin yavaş açılışını görmenin aracına dönüşür.[^k6] Onun
 zaman durur. En üstte ise adı olan bireylerin tarihi vardır: Braudel için bu
 üçüncü katman yüzeylerin ve aldatıcı etkilerin zamanıdır, *courte durée*'nin
 asıl alanıdır ve [*Akdeniz*](/kaynak/braudel-akdeniz/)'in üçüncü bölümünün
-konusudur.[^k9] En derindeki katmanın adı longue durée (uzun süre), en
-üsttekinin adı ise Braudel'in sözlüğünde olay tarihidir.[^k9]
+konusudur.[^k9] Bu derin katmanda çalışmanın adı longue durée (uzun süre), en
+üstteki katmanın adı ise Braudel'in sözlüğünde olay tarihidir.[^k9]
 
-Şema soyut kalmaz, çünkü en alttaki katman toplumsal biçimi doğrudan üretir.
+Şema soyut kalmaz; en alttaki katman toplumsal biçime bağlanır.
 Akdeniz, Braudel'de denizin yanı sıra çöl ve dağlardır: çöl, bütün topluluğun
 birlikte yer değiştirdiği göçebe bir örgütlenme biçimi doğurur, dağ yaşamı ise
 yerleşiktir, ve mevsime göre dağdan ovaya inip çıkma Akdeniz varoluşunun kalıcı
 bir parçasıdır.[^k9] Coğrafyanın kendisi burada bir açıklama değil, açıklamanın
-zeminidir; bu yüzden aynı denizin kıyısında yaşayan toplulukların ritimleri
-farklıdır.
+zeminidir; kaynağın verdiği bu örneklerde aynı denizin kıyısında yaşayan
+toplulukların ritimleri birbirinden ayrılır.
 
 ## Yazı kime karşı yazılmıştı
 
@@ -181,16 +182,27 @@ saptadı; Braudel'in 1958 yazısı, *Anthropologie structurale*'in çıktığı 
 verilmiş bir manifesto-makaledir ve dergi 1960'ta Simiand'ın metnini yeniden
 bastı.[^k2]
 
-Braudel rakibini ilk sayfada adıyla anar. Yazıya göre Lévi-Strauss yapısal
-antropolojiyi dilbilimin yordamlarına, bilinçsiz tarihin ufuklarına ve nitel matematiğin genç
-emperyalizmine doğru ittiğini yazar; sınır kavgalarını da hafife almaz, çünkü
-her disiplin aslında kendi evine dönmeyi düşlemektedir.[^k1]
+Yazının basıldığı yer de savın niteliğini gösterir: metin, derginin tartışmalara
+ve hesaplaşmalara ayrılmış bölümünde çıktı ve daha ilk sayfada Lévi-Strauss'un
+*Anthropologie structurale*'ine, kitabın 829. sayfasına gönderme yapan bir
+dipnot taşıyordu.[^k1] Yani bir alan taraması değil, adresi belli bir cevaptı.
 
-## Mainz'daki kalede yazılan kitap
+Braudel muhatabını ilk sayfada adıyla anar. Yazdığına göre Lévi-Strauss yapısal
+antropolojiyi dilbilimin yordamlarına, bilinçsiz tarihin ufuklarına ve nitel
+matematiğin genç emperyalizmine doğru itmektedir; sınır kavgalarını da hafife
+almaz, çünkü her disiplin aslında kendi evinde kalmayı ya da evine
+dönmeyi düşlemektedir.[^k1] Braudel'e göre
+Lévi-Strauss antropoloji, siyasal iktisat ve dilbilimi tek bir iletişim bilimi
+adı altında bağlayacak bir bilime doğru eğilim gösterir; sorun, bu sınır
+aşımlarına ve yeniden gruplaşmalara kimin hazır olduğudur.[^k1] Braudel bir de
+uyarı düşer: kavgalar sürerse coğrafyanın kendisi bile tarihten boşanabilir.[^k1]
+
+## Esaret kampında yazılan kitap
 
 Savın nereden geldiğini Braudel'in kendisi anlatmıştır. 1940'ta Vosges'te esir
-düştü; önce Mainz'daki kalede tutuldu, orada kamp üniversitesinin rektörü oldu
-ve kent kütüphanesinden kitap ödünç alma hakkı kazandı, 1942'de Lübeck
+düştü; önce Neuf-Brisach'taki kampta, ardından Mainz'daki kalede tutuldu, orada
+kamp üniversitesinin rektörü oldu ve kent kütüphanesinden kitap ve dergi ödünç
+alma hakkı kazandı; 1942'de Direniş bağlantısından kuşkulanıldığı için Lübeck
 yakınındaki özel kategori kampına aktarıldı.[^k9] Kitabı, yani *Akdeniz*'i, Braudel kendi
 kitaplarına ve notlarına erişmeden belleğine yaslanarak yazdı.[^k9]
 
@@ -237,23 +249,34 @@ sayar.[^k9] Ayrıldığı iki gelenek [Karl Marx](/dusunur/marx/) ve
 
 ## Dağlar insanları kımıldatıyorsa insanlar ne yapıyor
 
-En sık yöneltilen itiraz, yapı vurgusunun failliği görünmez kılmasıdır.
+Bu şemaya yöneltilen itirazlardan biri, yapı vurgusunun failliği görünmez
+kılmasıdır.
 J. H. Elliott, ilk kitabı üzerine yazdığı değerlendirmede Braudel'in
 Akdeniz'ini insan denetimine kapalı bir dünya saydı ve itirazı tek satıra
 indirdi: dağlar insanları kımıldatır, "but never his men the
-mountains".[^k9] Aynı değerlendirme, insan kararları yerine nesnel açıklamaları
-yeğlemenin tartışmalı sonuçlara götürebildiğini de söyler; örnek olarak
-Yahudilerin İspanya, Portekiz ve Sicilya'dan sürülmesinin başlıca nedeni diye
-aşırı nüfusun gösterilmesini verir.[^k9] Birey ile yapı arasındaki ağırlık
+mountains". Bu satır burada değerlendirmenin kendisinden değil, onu aktaran
+derleme kaynaktan okunmuştur.[^k9] Aynı kayıt, insan kararları yerine nesnel açıklamaları
+yeğlemenin tartışmalı sonuçlara götürebildiğini de ekler; örnek olarak on
+beşinci yüzyıl dönümünde Yahudilerin İspanya, Portekiz ve Sicilya'dan
+sürülmesinin başlıca nedeni diye aşırı nüfusun gösterilmesini verir.[^k9] Birey ile yapı arasındaki ağırlık
 paylaşımı [büyük adam kuramı](/tartisma/buyuk-adam-kurami/) tartışmasının da
 konusudur.
+
+İtirazın hedefi bir kayıtsızlık değil, bilinçle savunulmuş bir konumdu. Derleme
+kaynağın verdiği tanımda Braudel'in yapıları
+— hem zihinsel hem çevresel olanlar — olayların uzun vadeli seyrini, insanlara
+ve insanlar eliyle yapılan eylemleri, failin bilincinin ötesine geçecek kadar
+uzun bir süre boyunca kısıtlayarak belirler; Annales tarihçileri de tarihin
+bilinçli failin, özellikle devrimcinin iradesinin erişemeyeceği bir yerde
+durduğunu savundu.[^k9] Faillik sorusu, bu tanımda bir ihmalin değil kuramın kendi
+kuruluşunun parçasıdır.
 
 İtiraz uzun ve teknik bir biçim de aldı. J. H. Hexter'ın 1972'de
 *The Journal of Modern History*'de yayımladığı "Fernand Braudel and the Monde
 Braudellien...", derginin sayfa kaydında 480-539 arasında durur; yani yaklaşık
 altmış sayfalık bir hesaplaşmadır.[^k8]
 
-En keskin itiraz ise Braudel'in kendi dergisinden geldi. Giovanni Levi, 1989'da
+Bir itiraz da Braudel'in kendi dergisinden geldi. Giovanni Levi, 1989'da
 *Annales*'de biyografinin tarihçilerin ilgisinin merkezine yerleştiğini yazdı ve
 sorunu tersine çevirerek kurdu: bize belki daha yakın olan öyle dönemler oldu
 ki, bir tarihsel olayı her türlü bireysel yazgıdan soyutlayarak anlatmak
@@ -265,23 +288,24 @@ Momigliano hem bu ikircikliği hem verimliliği göstermişti, Bourdieu ise ayn�
 tartışmayı bir "bilimsel saçmalık" saymıştı.[^k3] Yazı, derginin 1988'de
 yayımladığı eleştirel dönemeç çağrısına verilen yanıtlardan biridir.[^k3]
 
-Hayranlık yazımına karşı bir kayıt daha gerekir. Yapıları görmeyi öğreten bakış
-kendi döneminin sömürge yargılarından muaf değildi: Brezilya'yı toplumsal
-esnekliği ve genç bir Avrupa uygarlığı oluşu nedeniyle olumlayan Braudel,
-Cezayir'i eğitilemez bir nüfusla anılan "başarısız bir Brezilya" diye
-tanımlamıştı.[^k9]
+Hayranlık yazımına karşı bir kayıt daha gerekir. Derleme kaynak, Braudel'in
+kendi döneminin sömürge yargılarını paylaştığı iki ifadeyi kaydeder: 1937
+tarihli bir yazısında Brezilya'yı toplumsal esnekliği ve genç bir Avrupa
+uygarlığı oluşu nedeniyle hem Cezayir'e hem Birleşik Devletler'e yeğleyen
+Braudel, sonradan Cezayir'i eğitilemez bir nüfusla anılan "başarısız bir
+Brezilya" diye tanımlamıştı.[^k9]
 
 Son ve bitmemiş kitabı, aracı kendi ülkesine çevirdi. *L'Identité de la
 France*'ta ilgisi yıllar ve on yıllar değil yüzyıllar ve bin yıllardır; Fransa'yı
 siyasetinin ya da iktisadının değil coğrafyasının ve kültürünün ürünü sayar ve
-tarihin bütün çalkantılarına rağmen bozulmadan süren köylü zihniyetine dayalı
-değişmeden süren bir köylü Fransa’sının varlığını savunur.[^k9] Kitabın romantik bir özlemle
+tarihin bütün çalkantılarına rağmen bozulmadan süren bir köylü zihniyetine
+dayalı derin bir Fransa'nın varlığını savunur.[^k9] Kitabın romantik bir özlemle
 renklendiği ve Braudel'in Fransa'ya duyduğu sevgiyi gizlemediği de aynı kayıtta
 durur; ölçeğin büyümesi, bakışın yansız olduğu anlamına gelmiyordu.[^k9]
 
 ## Nasıl yanlış okunuyor
 
-En yaygın çarpıtma, uzun süreyi bir yapısalcılık ilan etmektir. Braudel yapısal
+Bir çarpıtma, uzun süreyi bir yapısalcılık ilan etmektir. Braudel yapısal
 bir zaman kavramı geliştirir — doğrudan ve anlık insan müdahalesinin ötesindeki
 tarihsel süreler — ama bir yapısalcılık önermez: uzun süre, Parsons'ın
 toplumbilimindeki ya da Althusser'in Marksçılığındaki gibi toplumsal sistemin
@@ -318,17 +342,7 @@ Braudel Merkezi vardı ve 2011'de *History Today* dergisinin anketinde geçmiş
 altmış yılın en önemli tarihçisi seçildi.[^k9] Braudel'in 1958'deki açılış teşhisi —
 insan bilimlerinin kendi ilerlemeleri altında ezilmesi — aradan geçen zamana
 rağmen tanıdık geliyor;[^k1] verdiği cevap ise bir ölçek cevabıydı ve tartışma
-o cevabın etrafında sürüyor. [E. H. Carr](/dusunur/carr/) tarihçinin seçimini
-kime ait olduğu sorusuyla çözmeyi denemişti; Braudel aynı soruyu hangi zamanda
-çalışıldığı sorusuna çevirdi, ve [tarih yazımı](/kavram/tarih-yazimi/)
-tartışması bugün de bu iki cevap arasında gidip geliyor.[^k6]
-
-[^k1]: Fernand Braudel, "Histoire et Sciences sociales : La longue durée", *Annales ESC* 13-4 (1958), s. 725-753 — Persée.
-[^k2]: François Dosse, "Les habits neufs du Président Braudel", *Espaces Temps* 34-35 (1986), s. 83-93 — Persée.
-[^k3]: Giovanni Levi, "Les usages de la biographie", *Annales ESC* 44-6 (1989), s. 1325-1336 — Persée.
-[^k4]: Jacqueline Cahen ve Jean-Pierre Rioux, "Vous avez dit Braudel ?", *Vingtième Siècle* 23 (1989), s. 95-100 — Persée.
-[^k5]: Internet Archive katalog kaydı — *The Mediterranean and the Mediterranean world in the age of Philip II* (Collins, 1972).
-[^k6]: Dale Tomich, "The Order of Historical Time: The Longue Durée and Micro-History", *Almanack* 2 (2011) — SciELO.
-[^k7]: Crossref kaydı — Richard E. Lee, "Lessons of the Longue Durée: The Legacy of Fernand Braudel", *Historia Crítica* 69 (2018), s. 69-77.
-[^k8]: Crossref kaydı — J. H. Hexter, "Fernand Braudel and the Monde Braudellien...", *The Journal of Modern History* 44-4 (1972), s. 480-539.
-[^k9]: Wikipedia (EN) — Fernand Braudel.
+o cevabın etrafında sürüyor. Aynı yöntem tartışmasının İngilizce yazan
+tarafındaki karşılığı [E. H. Carr](/dusunur/carr/) dosyasında,
+tartışmanın alan adı ise [tarih yazımı](/kavram/tarih-yazimi/) dosyasında ele
+alınıyor.

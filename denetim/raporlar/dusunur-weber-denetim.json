@@ -1,9 +1,9 @@
 {
   "id": "dusunur-weber",
   "gecis": 2,
-  "zaman": "2026-08-29T20:14:29.347Z",
-  "govde_hash": "30e21828e1f5",
-  "commit": "5373c66",
+  "zaman": "2026-08-29T20:26:31.837Z",
+  "govde_hash": "da31a8bbcc22",
+  "commit": "d9e0ff7",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -25,13 +25,13 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Weber'in kendi uyarısı burada belirleyicidir: böyle kurulmuş saf tiplerden birine tıpatıp uyan gerçek bir olguya rastlamak pek seyrek, belki de hiç mümkün değil",
+      "iddia": "Weber'in kendi uyarısı burada belirleyicidir: tam da bu yüzden, böyle kurulmuş saf tiplerden birine tıpatıp uyan gerçek bir olguya rastlanması büyük olasılıkla ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir kapı kolunu çeviren ya da bir hayvana nişan alan insanı doğrudan gözleyerek anlarız; buna karşılık birinin ikiyle ikinin dört ettiğini tam o anda yazmasını,",
+      "iddia": "Bir kapı kolunu çeviren ya da bir hayvana nişan alan insanı doğrudan gözleyerek anlarız; buna karşılık birinin ikiyle ikinin dört ettiğini tam o anda söylemesin",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -73,7 +73,7 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Weber tersini söyler: kazanma içgüdüsünün eski çağlarda bilinmediği ya da gelişmemiş olduğu doğru değildir; altın açlığı (auri sacra fames) burjuva kapitalizmin",
+      "iddia": "Weber tersini söyler: kapitalizm öncesi tutumun nedeni, sık söylendiği gibi, kazanma içgüdüsünün o çağlarda bilinmemesi ya da gelişmemiş olması değildir — hiç d",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çinli, Romalı"
     },
@@ -91,7 +91,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Kaderin önceden belirlenmişliği öğretisinin tutulduğu her yerde, insanın seçilmişler arasında sayılıp sayılmadığını gösterecek şaşmaz ölçütlerin bulunup bulunma",
+      "iddia": "Weber'in kurduğu zincir şudur: kaderin önceden belirlenmişliği öğretisinin tutulduğu her yerde, insanın seçilmişler arasında sayılıp sayılmadığını gösterecek şa",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -133,7 +133,7 @@
     },
     {
       "anahtar": "k6",
-      "iddia": "Almanca metinde geçen ifade stahlhartes Gehäuse'dir; Peter Baehr, Parsons'ın kanonik çevirisinin statüsünü, imgenin olası kaynağını — Bunyan'ın Çilekeşin Yolcul",
+      "iddia": "Almanca metinde geçen ifade stahlhartes Gehäuse'dir; Peter Baehr, Parsons'ın kanonik çevirisinin statüsünü, imgenin olası kaynağını — Bunyan'ın Pilgrim's Progre",
       "durum": "OK",
       "not": ""
     },
@@ -162,8 +162,14 @@
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
+      "anahtar": "k5",
+      "iddia": "Otoriteye dayalı bütün ilişkileri üçlü bir sınıflandırmaya göre kümeler; ikinci kaynak aynı şemayı karizmaya, geleneğe ve yasal akılcılığa dayanan üç meşru egem",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
       "anahtar": "k9",
-      "iddia": "Otoriteye dayalı ilişkileri üçlü bir sınıflandırmaya göre kümeler.",
+      "iddia": "Otoriteye dayalı bütün ilişkileri üçlü bir sınıflandırmaya göre kümeler; ikinci kaynak aynı şemayı karizmaya, geleneğe ve yasal akılcılığa dayanan üç meşru egem",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -186,14 +192,32 @@
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
+      "anahtar": "k9",
+      "iddia": "Bu üçüncü tipin gövdesi bürokrasidir ve Weber'in toplumun bürokratikleşmesi üzerine yazdıkları eserinin en öne çıkan bölümlerinden biri sayılır: ona göre bürokr",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Bürokratik görevliler bürokrat olmayanlara karşı üstünlük duyar, güçlü bir ödev duygusu taşır ve sabit maaşları onları para kazanma peşinde koşmaktan alıkoyar; ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "İkincil kaynağın çerçevesinde aynı düzenek öngörülebilirlik üretir: hukuki biçimcilik ile bürokratik yönetim, yurttaşlığın biçimsel eşitliğini, kurallara bağlı ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
       "anahtar": "k8",
-      "iddia": "İktisatçılar Sascha O. Becker ve Ludger Woessmann, 2009'da Quarterly Journal of Economics'te yayımladıkları çalışmaya \"Weber yanılıyor muydu?\" sorusunu başlık y",
+      "iddia": "Sascha O. Becker ve Ludger Woessmann, 2009'da Quarterly Journal of Economics'te yayımladıkları çalışmanın başlığını \"Weber yanılıyor muydu?\" sorusuyla açtılar; ",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k7",
-      "iddia": "Değerden bağımsızlık ilkesi de hedef oldu: Alvin Gouldner 1962'de Social Problems dergisindeki yazısına Değerden Bağımsız Toplumbilim Miti başlığını koydu.",
+      "iddia": "Değerden bağımsızlık ilkesi de hedef oldu: Alvin W. Gouldner 1962'de Social Problems dergisindeki yazısına Anti-Minotaur: Değerden Bağımsız Toplumbilim Miti baş",
       "durum": "OK",
       "not": ""
     },
@@ -211,7 +235,7 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "Bir yerde demokrasi dördüncü bir meşruiyet tipi sayılır — üç ideal tipin hepsi meşruiyete yukarıdan bakarken demokrasi aşağıdan gelene alan açabildiği için; baş",
+      "iddia": "Bir yerde demokrasi dördüncü bir meşruiyet tipi sayılır — üç ideal tipin hepsi meşruiyete yukarıdan bakarken demokrasi aşağıdan gelene alan açabildiği için; kay",
       "durum": "OK",
       "not": ""
     },

@@ -1,14 +1,36 @@
 {
   "id": "dusunur-durkheim",
   "gecis": 3,
-  "zaman": "2026-08-21T09:10:03.901Z",
+  "zaman": "2026-08-29T20:28:54.692Z",
+  "govde_hash": "bf06e147577a",
   "itirazlar": [
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Bir yöntemin ölçek kararıyla tanımlanması,[^k1] atlasın bölge ve dönem alanlarını neden ayrı ayrı tuttuğuyla aynı sorunu paylaşır: neyi tek bir birim sayacağımız bir tercih meseles",
+      "cumle": "Sav boşlukta doğmadı. Toplumbilimi bilim yapma girişiminde Durkheim ilk değildi; Auguste Comte'un olguculuğundan ve Herbert Spencer'ın işlevselci çözümlemesinden öğeler devraldı, a",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "1893 tarihli işbölümü kitabında Durkheim, dayanışmayı doğrudan ölçemeyeceğini kabul edip görünür bir gösterge arar: hukuk. Kopması suç sayılan ve cezayla karşılanan bağ, benzerlikt",
       "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "İntihar'ın yöntemsel yeniliği verisinden ayrılamaz ve veri, resmî kayıtlardır. Durkheim bunun sorunlu olabileceğini biliyordu: bir dipnotta İngiliz intihar istatistiğinin pek doğru",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Hakemli bir felsefe ansiklopedisinin maddesi, Durkheim'ın adının bugün birbirinden hayli uzak üç tartışmada geçtiğini kaydeder.[^k1] Birincisi zihin felsefesi ve toplumbilim felsef",
+      "sorun": "Makale avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
     }
   ]
 }

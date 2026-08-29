@@ -1,9 +1,9 @@
 {
   "id": "dusunur-locke",
-  "govde_hash": null,
-  "commit": null,
+  "govde_hash": "539cc24d19a2",
+  "commit": "d9e0ff7",
   "zaman": "2026-08-29",
-  "hakem": "TASLAK-yazar",
+  "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
     {
       "iddia_id": "i001",
@@ -49,15 +49,15 @@
         },
         {
           "anahtar": "k10",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Kolelik bolumu 24. kisimda \"lawful conqueror\" ile kurulur; katiplik k5te; hisse sahipligi k10un ozetinde \"slave trading companies\" olarak, sirket adi verilmeden"
+      "inceleme": "Kolelik bolumu 24. kisimda \"lawful conqueror\" ile kurulur; katiplik k5te; hisse sahipligi k10un ozetinde \"slave trading companies\" olarak, sirket adi verilmeden | Crossref ustveri kaydi: iddia makalenin BULGUSU hakkinda, destek abstract duzeyinde — havuz kurali geregi kismi (hakem indirdi)"
     },
     {
       "iddia_id": "i004",
-      "cumle": "Birinci İnceleme'nin ilk cümlesi, Sir Robert Filmer'ın Patriarcha'sını hedef alır ve köleliği insan için \"öyle aşağılık ve sefil bir durum\" sayar ki bir İngiliz'in, hele bir centilmenin onu savunmasının akla gelemeyeceğini söyler.",
+      "cumle": "Birinci İnceleme'nin ilk cümlesi köleliği insan için \"öyle aşağılık ve sefil bir durum\" sayar ki bir İngiliz'in, hele bir centilmenin onu savunmasının akla gelemeyeceğini söyler; hemen ardından gelen cümle bu nitelemenin hedefini adıyla verir: Sir Robert Filmer'ın Patriarcha'sı.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -67,7 +67,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Birinci Inceleme I.1 birebir"
+      "inceleme": "Birinci Inceleme I.1 ve I.2 birebir; ilk cumle Patriarcha'yi adlandirmaz, ad ikinci cumlededir — hakem duzeltmesi"
     },
     {
       "iddia_id": "i005",
@@ -85,7 +85,7 @@
     },
     {
       "iddia_id": "i006",
-      "cumle": "İkinci İnceleme'nin bütün kavram takımı bu iki cümleyi çürütmek için kurulmuştur; nitekim özgürlüğü tanımlarken de doğrudan Filmer'a dönüp onun canının istediğini yapma özgürlüğü tanımını reddeder ve özgürlüğü, herkes için ortak, yasama gücünce konmuş sabit bir kurala göre yaşamak diye tanımlar.",
+      "cumle": "İkinci İnceleme'nin kavram takımı büyük ölçüde bu iki cümleyi çürütmek için kurulmuştur; nitekim özgürlüğü tanımlarken de doğrudan Filmer'a dönüp onun canının istediğini yapma özgürlüğü tanımını reddeder ve özgürlüğü, herkes için ortak, yasama gücünce konmuş sabit bir kurala göre yaşamak diye tanımlar.",
       "onem": "destek",
       "tur": "yorum",
       "kaynaklar": [
@@ -95,7 +95,7 @@
         }
       ],
       "guven": "orta",
-      "inceleme": "22. kisim Filmer'in tanimini adiyla reddeder ve ozgurlugu sabit kurala baglar; \"butun kavram takimi bu iki cumleyi curutmek icin kurulmustur\" yazarin cercevelemesidir"
+      "inceleme": "22. kisim Filmer'in tanimini adiyla reddeder ve ozgurlugu sabit kurala baglar; \"butun kavram takimi\" mutlaki hakem tarafindan \"buyuk olcude\"ye indirildi"
     },
     {
       "iddia_id": "i007",
@@ -197,7 +197,7 @@
     },
     {
       "iddia_id": "i014",
-      "cumle": "Locke'un yorumcuları arasında bu adımı en zayıf halka sayanlar çoktur; paraya verilen rızanın bugünkü eşitsiz mülkiyeti haklı çıkarmaya yetmediği itirazı literatürde geniş bir koro oluşturur.",
+      "cumle": "Bu adım, Locke yorumcularının en çok itiraz ettiği yerlerden biridir: paraya verilen rızanın bugün var olan çok eşitsiz mülkiyet paylarını haklı çıkarmaya yetmediğini söyleyenler, kaynağın deyişiyle, bir koro oluşturur.",
       "onem": "destek",
       "tur": "yorum",
       "kaynaklar": [
@@ -207,7 +207,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "k7 bu itirazi bir \"chorus\" olarak kaydeder; \"gelis\" nitelemesi kaynagin kendi sozcugunun karsiligidir"
+      "inceleme": "k7: \"joins the chorus of those who find Locke's appeal to consent to the introduction of money inadequate to justify the very unequal property holdings that now exist\"; \"en zayif halka\" nitelemesi kaynakta yok, hakem kaldirdi ve koro sozcugu kaynaga atfedildi"
     },
     {
       "iddia_id": "i015",
@@ -337,7 +337,7 @@
     },
     {
       "iddia_id": "i024",
-      "cumle": "Anthony Ashley Cooper ile ilişkisi onu sırasıyla ticaret ve sömürgeler hakkında bilgi toplayan bir devlet görevlisi, iktisat yazarı ve muhalefet eylemcisi yaptı; Ticaret ve Plantasyonlar Kurulu'nun kâtipliğini ve Carolina Lord Sahiplerinin kâtipliğini yürüttü.",
+      "cumle": "Sonradan Shaftesbury kontu olan Anthony Ashley Cooper ile ilişkisi onu sırasıyla ticaret ve sömürgeler hakkında bilgi toplayan bir devlet görevlisi, iktisat yazarı, muhalefet eylemcisi ve sonunda davası 1688 Şanlı Devrimi'nde kazanan bir devrimci yaptı; Ticaret ve Plantasyonlar Kurulu'nun kâtipliğini ve Carolina Lord Sahiplerinin kâtipliğini yürüttü.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -347,7 +347,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "k5: Ashley iliskisi, Ticaret ve Plantasyonlar Kurulu katipligi, Lord Sahipleri katipligi"
+      "inceleme": "k5: \"Anthony Ashley Cooper (later the First Earl of Shaftesbury)\" ve dort halkali dizi — \"government official ... economic writer, opposition political activist, and finally a revolutionary whose cause ultimately triumphed in the Glorious Revolution of 1688\"; dorduncu halka hakem tarafindan geri kondu, Ashley=Shaftesbury ozdesligi metne yazildi"
     },
     {
       "iddia_id": "i025",
@@ -453,7 +453,7 @@
     },
     {
       "iddia_id": "i032",
-      "cumle": "Buna karşı Uzgalis, maddenin yazarı olarak Lord Ashley'nin ya da Sir John Colleton'ın çok daha güçlü adaylar olduğunu ileri sürer; Colleton Carolina projesinin asıl kurucusuydu, köle sahibi bir Barbados plantasyoncusuydu ve tasarının bir parçası, kalabalıklaşmış Barbados'tan köleleriyle birlikte göçecek yerleşimcilerdi.",
+      "cumle": "Buna karşı Uzgalis, maddenin yazarı olarak Lord Ashley'nin — yani Shaftesbury'nin — ya da Sir John Colleton'ın çok daha güçlü adaylar olduğunu ileri sürer; Colleton Carolina projesinin asıl kurucusuydu, köle sahibi bir Barbados plantasyoncusuydu ve tasarının bir parçası, kalabalıklaşmış Barbados'tan köleleriyle birlikte göçecek yerleşimcilerdi.",
       "onem": "destek",
       "tur": "yorum",
       "kaynaklar": [
@@ -467,7 +467,7 @@
     },
     {
       "iddia_id": "i033",
-      "cumle": "Bu okumaya göre madde onların kaygısını yatıştırmak için konmuştur ve Locke'un kişisel görüşü hakkında neredeyse hiçbir şey söylemez.",
+      "cumle": "Bu okumaya göre maddeyi önermek Colleton ya da Shaftesbury için doğal olurdu; madde onların kaygısını yatıştırmak için konmuşsa Locke'un kişisel görüşü hakkında neredeyse hiçbir şey söylemez.",
       "onem": "destek",
       "tur": "yorum",
       "kaynaklar": [
@@ -477,7 +477,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "k6: madde Locke'un kisisel gorusu hakkinda \"little or nothing\" soyler"
+      "inceleme": "k6: \"It would be natural for Colleton or Shaftesbury to propose such a clause\"; \"may well say little or nothing\" — kaynagin kosul kaydi hakem tarafindan geri kondu"
     },
     {
       "iddia_id": "i034",
@@ -515,11 +515,11 @@
       "kaynaklar": [
         {
           "anahtar": "k8",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Armitage'in kendi ozeti: 1682 yazi, mulkiyet bolumunun yazilmasinin \"most likely\" oldugu an; olasilik kaydi metne tasindi"
+      "inceleme": "Armitage'in kendi ozeti: 1682 yazi, mulkiyet bolumunun yazilmasinin \"most likely\" oldugu an; olasilik kaydi metne tasindi | Crossref ustveri kaydi: iddia makalenin BULGUSU hakkinda, destek abstract duzeyinde — havuz kurali geregi kismi (hakem indirdi)"
     },
     {
       "iddia_id": "i037",
@@ -529,11 +529,11 @@
       "kaynaklar": [
         {
           "anahtar": "k9",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
-      "guven": "yuksek",
-      "inceleme": "Farr ozeti: Grotiusçu haklı savaş kurami, Amerika'ya uygulanamaz kilinacak kadar sinirlanmis"
+      "guven": "orta",
+      "inceleme": "Farr ozeti: Grotiusçu haklı savaş kurami, Amerika'ya uygulanamaz kilinacak kadar sinirlanmis | Crossref ustveri kaydi: iddia makalenin BULGUSU hakkinda, destek abstract duzeyinde — havuz kurali geregi kismi (hakem indirdi)"
     },
     {
       "iddia_id": "i038",
@@ -543,11 +543,11 @@
       "kaynaklar": [
         {
           "anahtar": "k9",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Farr ozeti: somurgecilik gorevlisi, koleligi duzenleyen talimatlar, ama karsilikli belirleme yok"
+      "inceleme": "Farr ozeti: somurgecilik gorevlisi, koleligi duzenleyen talimatlar, ama karsilikli belirleme yok | Crossref ustveri kaydi: iddia makalenin BULGUSU hakkinda, destek abstract duzeyinde — havuz kurali geregi kismi (hakem indirdi)"
     },
     {
       "iddia_id": "i039",
@@ -557,11 +557,11 @@
       "kaynaklar": [
         {
           "anahtar": "k9",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Farr ozeti: irkci sifati ve \"flattering portrait\" degerlendirmesi"
+      "inceleme": "Farr ozeti: irkci sifati ve \"flattering portrait\" degerlendirmesi | Crossref ustveri kaydi: iddia makalenin BULGUSU hakkinda, destek abstract duzeyinde — havuz kurali geregi kismi (hakem indirdi)"
     },
     {
       "iddia_id": "i040",
@@ -571,11 +571,11 @@
       "kaynaklar": [
         {
           "anahtar": "k10",
-          "destek": "dogrudan"
+          "destek": "kismi"
         }
       ],
-      "guven": "yuksek",
-      "inceleme": "Uzgalis ozeti: iki kolelik kavrami ve mutlak monarsi savlariyla somurge koleligi savlarinin ozdesligi"
+      "guven": "orta",
+      "inceleme": "Uzgalis ozeti: iki kolelik kavrami ve mutlak monarsi savlariyla somurge koleligi savlarinin ozdesligi | Crossref ustveri kaydi: iddia makalenin BULGUSU hakkinda, destek abstract duzeyinde — havuz kurali geregi kismi (hakem indirdi)"
     },
     {
       "iddia_id": "i041",
@@ -700,11 +700,67 @@
       ],
       "guven": "orta",
       "inceleme": "Kapanis cercevesi: uc mekanizma k1de, disarida kalanlarin tartismasi k9un ozetinde; birlestirme yazarindir"
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Bu iki mekanizma — emekten doğan mülkiyet ve rızadan doğan iktidar — birlikte, egemenliğin halkta durduğunu söyleyen ve meşru yönetimi doğal haklarla toplum sözleşmesi üzerinden tanımlayan bir kitabın çatısını kurar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5: \"he argues that sovereignty resides in the people and explains the nature of legitimate government in terms of natural rights and the social contract\"; onceki desteksiz cerceve cumlesi (\"sonraki uc yuzyilin anayasa dilinin kaynagi\") hakem tarafindan kaynagin tasidigina indirildi"
+    },
+    {
+      "iddia_id": "i050",
+      "cumle": "İki İnceleme'nin girişi 1688'den sonra yazıldığı için kitap uzun süre Şanlı Devrim'i meşrulaştırmak üzere kaleme alınmış gibi okundu; oysa metin dışlama krizi sırasında, 1681'de yazılmıştı ve kaynağın kaydına göre kısmen Country Party önderlerinin tasarladığı genel ayaklanmayı haklı çıkarmayı amaçlamış olabilir.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5: \"The introduction of the Two Treatises was written after the Glorious Revolution of 1688, and gave the impression that the book was written to justify the Glorious Revolution. We now know that the Two Treatises of Government were written during the Exclusion crisis in 1681 and may have been intended in part to justify the general armed rising\"; kaynagin \"may have been\" kaydi metne tasindi — onceki hali dipnotsuz ve kayitsizdi"
+    },
+    {
+      "iddia_id": "i051",
+      "cumle": "Bu genişliğin sınırları da metinde adıyla durur ve iki taneden fazladır: toplumun korunması için gerekli ahlak kurallarına aykırı görüşler, kendilerine ve mezheplerine sivil hakka aykırı ayrıcalıklar tanıyanlar ve din işlerinde herkese hoşgörü borcunu tanımayanlar dışarıda kalır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mektup: \"no opinions contrary to human society, or to those moral rules which are necessary to the preservation of civil society\"; \"men arrogate to themselves ... some peculiar prerogative ... opposite to the civil right of the community\"; \"neither those that will not own and teach the duty of tolerating all men in matters of mere religion\" — govde \"iki acik istisna\" diyordu, kaynak daha uzun bir liste veriyor (liste kirpmasi, hakem geri koydu)"
+    },
+    {
+      "iddia_id": "i052",
+      "cumle": "Bugün Locke üç ayrı tartışmada birden anılıyor: mülkiyetin gerekçesi, dinî hoşgörünün sınırı ve liberalizmin sömürgecilikle ilişkisi.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k8 ozeti ucuncu kolu tasir: \"a more general interest among political theorists in the historical and theoretical relationship between liberalism and colonialism\"; ilk iki kol govdede k1/k3/k7 ile kurulmustur. Crossref ustveri kaydi oldugu icin kismi. Cumle onceden dipnotsuzdu — hakem ekledi."
     }
   ],
   "sayaclar": {
-    "dogrudan": 46,
-    "kismi": 2,
+    "dogrudan": 44,
+    "kismi": 8,
     "desteksiz": 0,
     "olculemez": 0
   }

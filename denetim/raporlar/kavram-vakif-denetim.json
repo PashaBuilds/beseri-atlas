@@ -1,0 +1,171 @@
+{
+  "id": "kavram-vakif",
+  "gecis": 2,
+  "zaman": "2026-08-29T21:04:53.257Z",
+  "govde_hash": "dc9bade6e7d4",
+  "commit": "92d1168",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Hacı Mehmet Günay'ın maddesi terimi bir malın mâliki tarafından dinî, içtimaî ve hayrî bir gayeye ebediyen tahsisi diye özetler; Ebû Yûsuf ile İmam Muhammed'in ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Vakfedilen mal kamu malı statüsündedir, kiraya verilmesi vakfiyedeki şartlara ve rayiç bedele bağlıdır, başka bir malla değiştirilmesi (istibdâl) Hanefîlerin ço",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Vakıfların başlangıçta sözlü kurulduğu anlaşılıyor; şartların yazıya geçirilmesi ihtiyacı vakfiyeleri doğurdu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Belge, harcamaların hangi gelirlerle karşılanacağını, kaç kişinin çalışıp ne kadar maaş alacağını ve kimin ne şekilde yararlanacağını vâkıfın kendi kalemiyle be",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fıkıhta bu şartların bağlayıcılığı \"Vâkıfın şartı şâriin nassı gibidir\" kaidesiyle söylenir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metin besmele ve övgüyle açılır, vakfedilen gayri menkullerin sınırları tek tek yazılır, sonunda şartları değiştirmeye kalkışacaklara beddua edilir ve şahitleri",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yönetim mütevelliye, denetim nâzıra bırakılır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Osman Gazi Özgüdenli, vakfiyelerin bir bölümünün asıl metinle değil sonradan çıkarılmış sûretlerle geldiğini, bunların hem sahteciliğe açık olduğunu hem istinsa",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Vakfın en somut çıktısı imaret ya da hayrat külliyesidir ve Bahaeddin Yediyıldız bunu üç bölümlü bir düzen olarak tarif eder: hayrat kısmı (mâbed, mektep ve med",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fâtih imaretinin akarı olarak İstanbul ve Galata'da 4250 dükkân, üç iş hanı, dört hamam, yedi köşk, dokuz bahçe, bir bedesten ve 1130 ev vakfedilmiştir; Mimar S",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Damad İbrâhim Paşa'nın Muşkara köyünü vakıflar kurup dışarıdan nüfus getirterek Nevşehir'e çevirmesi, aracın bilinçli kullanımıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Anadolu eyaletinin 1530-1540 arası gelir toplamının (79.784.960 akçe) %17'si vakıflara aitti; oran Karaman ile Halep-Şam'da %14, Rum'da %15,7, Dulkadriye'de %5,",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yapılan hesaplara göre vakıfların genel bütçesi devlet bütçesinin üçte birine ulaşıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yararlananlar açısından vakıflar hayrî ve zürrî diye ikiye ayrılır; zürrî — kaynağın adlandırmasıyla evlâtlık ya da ehlî — vakıfta yararlananlar vâkıfın hısımla",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bunu bir suistimal saymak kolaycı olur: Günay, fakihlerin büyük çoğunluğunun bu türü câiz gördüğünü, Osmanlı toplumunda meşrû sayılıp önemli oranda uygulandığın",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Memlük döneminde vakıf kurucuları artan gelirin kendilerine ve nesillerine ait olması şartını koymaya başlamış, aileler yaptıkları hayratla birlikte kendileri i",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Mahmud, Yeniçeri Ocağı'nı kaldırdıktan sonra dağılan yeniçerilerin sığındığı Bektaşî vakıflarının mal varlığına el koydurmuştur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bayezid devrinde yeniden vakfa döndürülmesi, aynı gerilimin üç perdesidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Arazi Kanunnâmesi'nin 1892 tarihli İngilizce çevirisi toprağı beş sınıfa ayırır ve üçüncü sınıfı \"Lands possessed in mortmain\" diye tanıtır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Ama kanun hemen ikinci bir ayrım koyar: mîrî araziden ayrılıp padişahın izniyle vakfedilen topraklarda vakfedilen şey mülkiyet değil yalnızca öşür ve vergi gibi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fıkıh literatürünün gayri sahih ya da irsâdî vakıf dediği tür budur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Mahmud 1826'da dağınık vakıfları tek elden yönetmek için Evkāf-ı Hümâyun Nezâreti'ni kurdu; İbnülemin Mahmud Kemal ile Hüseyin Hüsâmeddin kuruluşu 14 Ekim 1826 ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Nazif Öztürk'e göre asıl kırılma sonradan geldi: Osmanlı toprağının önemli bölümü vakıftı, rakabesi ve istimlâki mümkün değildi ve vakıflar hükümetin nüfuzunun ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Timur Kuran'ın 2001 tarihli makalesinin özetine göre vakıf, mülk sahibine toplumsal hizmet karşılığında iktisadî güvence veren inandırıcı bir bağlanma aracı ola",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yediyıldız ters yönü savunur: arşiv belgelerine dayanan araştırmalar vakıf taşınmazlarının dondurulmadığını, istibdâl ve irsâd mekanizmalarıyla piyasanın talepl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "1894'te Privy Council, Abul Fata Mahomed Ishak – Russomoy Dhur Chowdhry davasında, vakıf ifadeleri taşısa da malın büyük bölümünün hayra tahsis edilmediği bir d",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Hindistan'ın Müslüman tebaası adına genel valiye sunulan dilekçe, bu yorumun vakıf hukukunu yıkıcı olduğuna yaygın biçimde inanıldığını yazar; cildin yazarı Mah",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    }
+  ]
+}

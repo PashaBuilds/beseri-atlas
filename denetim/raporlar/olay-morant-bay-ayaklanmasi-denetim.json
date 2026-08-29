@@ -1,0 +1,309 @@
+{
+  "id": "olay-morant-bay-ayaklanmasi",
+  "gecis": 2,
+  "zaman": "2026-08-29T21:03:57.155Z",
+  "govde_hash": "831b7ffbf28e",
+  "commit": "92d1168",
+  "sonuclar": [
+    {
+      "anahtar": "k1",
+      "iddia": "Taşlar atıldı, ayaklanma yasası okunduğu için ateş emri verildi, kalabalık binayı ateşe verdi; gün bittiğinde sekiz sivil ile yedi gönüllü, ayrıca enkazda öldüğ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Taşlar atıldı, ayaklanma yasası okunduğu için ateş emri verildi, kalabalık binayı ateşe verdi; gün bittiğinde sekiz sivil ile yedi gönüllü, ayrıca enkazda öldüğ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kalabalığın elebaşı, kasabanın yaklaşık altı mil kuzeybatısındaki Stony Gut'ta vaizlik yapan Baptist diyakoz Paul Bogle'dı; adamlarıyla birlikte aynı gece kasab",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kalabalığın elebaşı, kasabanın yaklaşık altı mil kuzeybatısındaki Stony Gut'ta vaizlik yapan Baptist diyakoz Paul Bogle'dı; adamlarıyla birlikte aynı gece kasab",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mill'in kendi ifadesiyle sorulan şey, sömürgelerin ve belki nihayetinde Britanya'nın kendisinin \"hukukun mu yoksa askerî keyfîliğin mi\" yönetimi altında olacağı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İki yılı aşan hukuk mücadelesi bu soruya lehte bir cevap aldı ama hiçbir sanığı jüri önüne çıkaramadı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İki yılı aşan hukuk mücadelesi bu soruya lehte bir cevap aldı ama hiçbir sanığı jüri önüne çıkaramadı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Nisan 1865'te St. Ann's bölgesinden yoksul halkın imzaladığı bir dilekçe Kraliçe'ye gönderildi; toprak isteyen, çitleri kırılan bahçelerinden ve ağır vergilerde",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Vali Eyre bu cevabı hemen Kraliçe'nin Öğüdü başlıklı bir duvar ilanı olarak bastırıp adaya dağıttı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bogle'ın oy verme hakkı vardı ama bu, onu St. Thomas bölgesindeki topu topu yüz dört seçmenden biri yapıyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bogle'ın siyasi dayanağı olan George William Gordon, köle bir annenin ve bir plantasyon vekilinin oğluydu, kendi kendini yetiştirmişti, toprağını küçük parçalar",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bogle'ın siyasi dayanağı olan George William Gordon, köle bir annenin ve bir plantasyon vekilinin oğluydu, kendi kendini yetiştirmişti, toprağını küçük parçalar",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı grubun ertesi gün, çarşamba, bölge kuruluna geleceği haberi ulaşınca bölge amiri gönüllüleri silah altına aldı ve validen asker istedi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Sıkıyönetim 13 Kasım 1865'e kadar yürürlükte kaldı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ayaklanma ise dört günde sönmüştü: adanın doğu ucunda dolaşan kalabalık 15 Ekim 1865'te dağıldı ve Buxton'ın Komisyon delillerinden çıkardığı döküme göre kalaba",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kraliyet Komisyonu'nun dökümünü Avam Kamarası'nda okuyan Mill'e göre 439 kişi öldürüldü — silahlı direniş sırasında değil, teslim olduktan ya da yakalandıktan s",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Underhill bu 439 sayısını ikiye ayırır: 354'ü askerî mahkeme kararıyla, 85'i hiçbir yargılama olmadan; ve 147 kişi, direnişin tümüyle bittiği 25 Ekim'den sonra ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Avam Kamarası'nda önergeyi veren Charles Buxton toplamı idam ve kırbaç birlikte 1.100'e yakın kişi olarak verdi.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Jamaika devletinin bugünkü resmî kaydı ise ölü sayısını 500'e yakın diye yazar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bastırmanın üzerinde yürüdüğü anlatı valinin kendi yazısında duruyor: Eyre 20 Ekim tarihli resmî yazısında dili kesilen, derisi yüzülmeye çalışılan, diri diri y",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bastırmanın üzerinde yürüdüğü anlatı valinin kendi yazısında duruyor: Eyre 20 Ekim tarihli resmî yazısında dili kesilen, derisi yüzülmeye çalışılan, diri diri y",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Nelson, bir kadın hakkında merhamet tavsiyesiyle birlikte gelen idam kararını, kendisine sözlü olarak aktarılan bu tür söylentiler yüzünden onayladığını resmî y",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Gordon sıkıyönetimin geçerli olmadığı Kingston'da tutuklandı, sıkıyönetim bölgesi olan Morant Bay'e götürüldü ve orada, Teğmen Brand'in başkanlık ettiği, iki ge",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Gordon 23 Ekim 1865'te idam edildi; Jamaika devletinin resmî kaydı yargılamayı \"illegally tried by Court Martial\" diye niteler.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bogle ertesi gün, 24 Ekim 1865'te yakalanıp asıldı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Buxton'ın Avam Kamarası'na okuduğu sonuç paragrafı cezaların aşırı, idamın gereksiz sıklıkta, kırbaçlamaların pervasız ve Bath'ta düpedüz vahşi, 1.000 evin yakı",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı rapor, beyazların topluca katledilmesini amaçlayan geniş bir komplo bulunduğu iddiasını da reddediyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Ama aynı rapor Eyre'in gösterdiği hızın ve gücün adayı kurtardığını da kaydetmişti; Hume'un savunma kitabı ithafını doğrudan bu cümlenin üzerine kurar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Komisyon üyelerinden Russell Gurney, Avam Kamarası'nda hem Gordon'ın mahkûm edildiği delilin kesinlikle yetersiz olduğu görüşünü koruduğunu söyledi hem de Buxto",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mill derneğe adını duyar duymaz yazdırdı; başkan Charles Buxton kovuşturmayı haksız değil ama uygunsuz bulup çekilince, genel kurul kovuşturma yönünde karar ald",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Karşı tarafta, Eyre'in özel kişilerce kovuşturulacağı duyulur duyulmaz Eyre Defence and Aid Fund kuruldu; Willis's Rooms'taki toplantıda Shrewsbury Kontu, Roder",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cezaların aşırılığını esefle karşılayan birincisi kabul edildi; sorumluların kovuşturulmasını, zararın tazminini ve kalan cezaların affını isteyen öteki üçü, hü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı oturumda Baillie Cochrane adadaki 500.000 siyah ile 15.000 beyazın oranını hatırlatıp Eyre en sert tedbirleri almasaydı ne olacağını sordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "6 Şubat 1867'de Bow Street'te Tuğgeneral Nelson ile Teğmen Brand hakkında tutuklama emri başvurusunu Komite adına Fitzjames Stephen ile Home Payne yaptı; Stephe",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "1868'de Eyre için hazırlanan iddianame Yargıç Blackburn'ün büyük jüriye hitabından sonra reddedildi; tutanağın kaydı kısadır: büyük jüri \"ignored the bill\".",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mill kendi özetinde hangi iddianameyi kastettiğini adlandırmaz; anlattığı halka Bow Street'ten çıkandır: Cockburn'ün hitabı hukuku özgürlük lehine belirlemiş, a",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Kitap, kendini korumadan başka amaçlarla başvurulan zorlamanın en önemli üç örneğini — dini kurup sürdürmek, ahlakı kurup sürdürmek, mevcut yönetim biçimlerini ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kitap, kendini korumadan başka amaçlarla başvurulan zorlamanın en önemli üç örneğini — dini kurup sürdürmek, ahlakı kurup sürdürmek, mevcut yönetim biçimlerini ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Sıkıyönetim daha altı gün sürecekken, 7 Kasım 1865'te toplanan yasama meclisine Eyre kendi anayasalarını kaldırmayı önerdi; adayı ikinci bir Haiti yapma niyetin",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Meclisi tek bir odaya indiren ve altmış dört üyeyi yarısı Kraliyet atamalı yirmi dörde düşüren tasarı 9 Kasım'da okundu, 5 Aralık'ta Meclis'ten, 7 Aralık'ta Kon",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birincisi, olayı kendiliğinden patlamış bir \"yerli isyanı\" saymak: Bogle'ın hareketi mahkeme kararlarına, toprak uyuşmazlıklarına ve bir dilekçeye verilen cevab",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Birincisi, olayı kendiliğinden patlamış bir \"yerli isyanı\" saymak: Bogle'ın hareketi mahkeme kararlarına, toprak uyuşmazlıklarına ve bir dilekçeye verilen cevab",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkincisi, bunu bir kahramanlık destanına çevirmek: mahkeme binasında bölge amiri, bir din adamı, siviller ve gönüllüler öldürüldü, bu ölümler de kayıttadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İkincisi, bunu bir kahramanlık destanına çevirmek: mahkeme binasında bölge amiri, bir din adamı, siviller ve gönüllüler öldürüldü, bu ölümler de kayıttadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Underhill'in anlatısı, 1865 mitinglerini tetikleyen mektubu yazan kişinin anlatısıdır; Hume'un kitabı savunma fonunun çevresinde yazılmıştır; Eyre davasının rap",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Underhill'in anlatısı, 1865 mitinglerini tetikleyen mektubu yazan kişinin anlatısıdır; Hume'un kitabı savunma fonunun çevresinde yazılmıştır; Eyre davasının rap",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Underhill'in anlatısı, 1865 mitinglerini tetikleyen mektubu yazan kişinin anlatısıdır; Hume'un kitabı savunma fonunun çevresinde yazılmıştır; Eyre davasının rap",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Jamaika'da Bogle ile Gordon 1969'da ulusal kahraman ilan edildi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Jamaika'da Bogle ile Gordon 1969'da ulusal kahraman ilan edildi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Britanya'da davanın sonucu bir yenilgiydi; ama Mill'in kendi değerlendirmesine göre kazanılan şey, bundan sonra benzer yetkileri kullanacakların en azından bir ",
+      "durum": "OK",
+      "not": ""
+    }
+  ]
+}

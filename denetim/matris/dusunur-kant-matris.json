@@ -1,9 +1,9 @@
 {
   "id": "dusunur-kant",
-  "govde_hash": null,
-  "commit": null,
+  "govde_hash": "836ee3c2e775",
+  "commit": "d9e0ff7",
   "zaman": "2026-08-29",
-  "hakem": "TASLAK-yazar",
+  "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
     {
       "iddia_id": "i001",
@@ -379,7 +379,7 @@
     },
     {
       "iddia_id": "i027",
-      "cumle": "Kant, 1775'te yayımlanıp 1777'de gözden geçirdiği İnsanın Farklı Irkları Üzerine denemesinde tekköken savını güçlü biçimde savundu: bütün insanlar ortak bir kökten gelir, ırk özelliklerini üretecek tohumları ve yatkınlıkları taşır, bunlar ısı ve nem bileşimleri gibi çevresel etkenlerle tetiklenir ve göç, coğrafi yalıtım ve iç evlilikle dört saf ırk ayrışır — kuzey Avrupa'nın soylu sarışını, Amerika'nın bakır kırmızısı, Senegambiya'nın siyahı ve Asya-Hindistan'ın zeytin sarısı.",
+      "cumle": "Kant, 1775'te yayımlanıp 1777'de gözden geçirdiği İnsanın Farklı Irkları Üzerine denemesinde tekköken savını güçlü biçimde savundu: bütün insanlar Avrupa'da bulunan ortak bir soy kökünden gelir, ırk özelliklerini üretecek tohumları ve yatkınlıkları taşır, bunlar ısı ve nem bileşimleri gibi çevresel etkenlerle tetiklenir ve göç, coğrafi yalıtım ve iç evlilikle dört saf ırk ayrışır — kuzey Avrupa'nın soylu sarışını, Amerika'nın (ve doğu Asya'nın) bakır kırmızısı, Afrika'da Senegambiya'nın siyahı ve Asya-Hindistan'ın zeytin sarısı.",
       "onem": "merkezi",
       "tur": "olgu",
       "kaynaklar": [
@@ -389,7 +389,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "1775 yayim, 1777 gozden gecirme ve dort irk listesi k7'de birebir."
+      "inceleme": "1775 yayim, 1777 gozden gecirme ve dort irk listesi k7'de birebir. Kaynagin \"common human lineal root genus in Europe\" kaydindaki Avrupa ve \"copper red of America (and east Asia)\" parantezi ilk yazimda dusmustu, geri kondu."
     },
     {
       "iddia_id": "i028",
@@ -421,7 +421,7 @@
     },
     {
       "iddia_id": "i030",
-      "cumle": "Metin, uygar ulusların — özellikle kıtanın ticaret devletlerinin — konukseverliğe aykırı davranışını sayar: yabancı ülkeleri ziyaret onların gözünde fetihle eşdeğerdir; Amerika, Baharat Adaları ve Ümit Burnu keşfedildiklerinde kimseye ait olmayan ülkeler sayılmıştır, çünkü yerli halklar hiç sayılmıştır; Hindistan'da yalnızca ticaret deposu kurma bahanesiyle yabancı asker sokulmuş, sonuç geniş savaşlar, yerlilerin ezilmesi, kıtlık ve isyan olmuştur; en korkunç ve kasıtlı köleliğin merkezi olan şeker adaları ise gerçek bir kâr getirmez, işe yaramaları yalnızca Avrupa'daki savaşlara denizci yetiştirmek gibi hiç de övülesi olmayan dolaylı bir amaçladır.",
+      "cumle": "Metin, uygar ulusların — özellikle kıtanın ticaret devletlerinin — konukseverliğe aykırı davranışını sayar: yabancı ülkeleri ziyaret onların gözünde fetihle eşdeğerdir; Amerika, metnin siyahların ülkeleri diye andığı yerler, Baharat Adaları ve Ümit Burnu keşfedildiklerinde kimseye ait olmayan ülkeler sayılmıştır, çünkü yerli halklar hiç sayılmıştır; Hindistan'da yalnızca ticaret deposu kurma bahanesiyle yabancı asker sokulmuş, sonuç geniş savaşlar, yerlilerin ezilmesi, kıtlık, isyan ve ihanet olmuştur; en korkunç ve kasıtlı köleliğin merkezi olan şeker adaları ise gerçek bir kâr getirmez, işe yaramaları yalnızca Avrupa'daki savaşlara denizci yetiştirmek gibi hiç de övülesi olmayan dolaylı bir amaçladır.",
       "onem": "merkezi",
       "tur": "aktarim",
       "kaynaklar": [
@@ -431,21 +431,25 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Sayilan ogelerin hicbiri atilmadi; seker adalari kaydi dahil."
+      "inceleme": "Kaynak listesi \"America, the negro countries, the spice islands, the Cape\" — ilk yazimda Afrika ogesi dusmustu, geri kondu; sonuc listesindeki \"perfidy\" de eklendi."
     },
     {
       "iddia_id": "i031",
-      "cumle": "Pauline Kleingeld'in 2007'de The Philosophical Quarterly'nin 57. cildinde 573-592 sayfaları arasında yayımlanan makalesi bu tartışmanın dönüm noktasıdır.",
+      "cumle": "Pauline Kleingeld'in 2007'de The Philosophical Quarterly'nin 57. cildinde 573-592 sayfaları arasında yayımlanan makalesi bu tartışmanın dönüm noktasıdır; kaynak onu ırk konusundaki çağdaş Kant çalışmalarındaki merkezî yeri nedeniyle öne çıkarır.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
         {
           "anahtar": "k8",
           "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Yalniz kunye verisi: yazar, yil, dergi, cilt, sayfa araligi. Crossref kaydinda ozet alani yok."
+      "inceleme": "Kunye verisi (yazar, yil, dergi, cilt, sayfa) k8'de; \"donum noktasi\" degerlendirmesi ise k8'in tasiyamayacagi bir iddiaydi, k7'nin \"centrality to contemporary Kant scholarship on race\" ifadesine baglandi. Crossref kaydinda ozet alani yok; kayittaki link (OUP PDF) 403 donuyor."
     },
     {
       "iddia_id": "i032",
@@ -491,7 +495,7 @@
     },
     {
       "iddia_id": "i035",
-      "cumle": "Alanın kendi bölünmesi de adlarıyla kayıtlıdır: Eze, Mills ve Bernasconi eleştirel kanadı; Louden, Hill ile Boxill, Kleingeld ve Allais savunan kanadı temsil eder.",
+      "cumle": "Alanın bölünmesi de adlarıyla kayıtlıdır; kaynak bu iki kanatlı ayrımı Lu-Adler'i izleyerek ve tüketici olmadığını belirterek kurar: Eze, Mills ve Bernasconi eleştirel kanadı; Louden, Hill ile Boxill, Kleingeld ve Allais savunan kanadı temsil eder.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -501,7 +505,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Adlar k7'de birebir; ayrimin Lu-Adler 2023'ten alindigi ve tuketici olmadigi kaydi metne tasindi."
     },
     {
       "iddia_id": "i036",
@@ -519,7 +523,7 @@
     },
     {
       "iddia_id": "i037",
-      "cumle": "Johann Gottfried Herder, Königsberg'de Kant'ın öğrencisiydi ve olağandışı yeteneği nedeniyle hocasından ayrıcalıklar görmüştü; sonradan eleştirel felsefeye karşı iki kitap yazdı, Saf Aklın Eleştirisi'ne karşı Metakritik (1799) ve Yargı Gücünün Eleştirisi'ne karşı Calligone (1800).",
+      "cumle": "Johann Gottfried Herder, Königsberg'de Kant'ın öğrencisiydi ve olağandışı yeteneği nedeniyle hocasından ayrıcalıklar görmüştü; sonradan eleştirel felsefeye karşı iki kitap yazdı, Saf Aklın Eleştirisi'ne karşı Metakritik (1799) ve Yargı Gücünün Eleştirisi'ne karşı Calligone (1800); kaynak bu iki polemiği dağıtıcı ve etkisiz sayar.",
       "onem": "destek",
       "tur": "olgu",
       "kaynaklar": [
@@ -529,7 +533,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": ""
+      "inceleme": "Ogrencilik, ayricaliklar ve iki kitap k9'da birebir; kaynagin polemikleri \"distracting and ineffective\" sayan kendi degerlendirmesi de eklendi."
     },
     {
       "iddia_id": "i038",
@@ -670,10 +674,24 @@
       ],
       "guven": "orta",
       "inceleme": "Tartismanin surdugu k7'de gorunuyor (Lu-Adler 2022-2023 karsi savlari); \"alanin gundeminde\" nitelemesi metnin ozetidir."
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "Nitekim hukuk öğretisinde tam yurttaşlığı kadınlara, çocuklara ve kendi efendisi olmayanlara tanımaz; onları edilgen yurttaş sayar — özgürlük ve eşitliğin getirdiği hakları yadsımadığını vurgular ve siyasal düzenin edilgen konumdakine bağımsızlığa yükselme yolunu açması gerektiğini ekler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6 \"passive citizenship\" bolumu: kadinlar, cocuklar ve ekonomik bakimdan kendi efendisi olmayanlarin dislanmasi, haklarin yadsinmadigi kaydi ve edilgen konumdan bagimsizliga yukselme sarti birlikte tasindi. Evrensellik savi tartisilan bir dosyada bu dislama atlanmisti."
     }
   ],
   "sayaclar": {
-    "dogrudan": 43,
+    "dogrudan": 44,
     "kismi": 4,
     "desteksiz": 0,
     "olculemez": 0

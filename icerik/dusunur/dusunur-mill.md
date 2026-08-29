@@ -21,7 +21,13 @@ ilgili:
   - aktor-ingiliz-doguhindistan-sirketi
   - aktor-britanya-imparatorlugu
   - kavram-emperyalizm
+  - kavram-faydacilik
+  - kavram-zarar-ilkesi
   - kavram-toplumsal-cinsiyet-duzeni
+  - dusunur-stephen
+  - dusunur-bentham
+  - olay-morant-bay-ayaklanmasi
+  - dusunur-harriet-taylor
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

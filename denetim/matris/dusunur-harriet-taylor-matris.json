@@ -1,0 +1,603 @@
+{
+  "id": "dusunur-harriet-taylor",
+  "govde_hash": "c98e1a806b85",
+  "commit": "92d1168",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "1868'de New York'ta çıkan The Revolution gazetesinin sattığı broşürlerin listesinde iki satır alt alta duruyordu: Enfranchisement of Women, yazarı Mrs. John Stuart Mill; Suffrage for Women, yazarı John Stuart Mill, M.P.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1868 broşür listesindeki iki ayrı satır kaynağın arka kapağında birebir duruyor."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Gazetenin editörleri Elizabeth Cady Stanton ile Parker Pillsbury, sahibi Susan B. Anthony'ydi; broşürün kapağında metnin Westminster and Foreign Quarterly Review'ın Temmuz 1851 sayısından alındığı yazılıydı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gazete künyesi ve kapak bilgisi kaynağın kendi sayfalarında."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Amerikan oy hakkı hareketi, 1851 tarihli makaleyi on yedi yıl sonra bir kadının adıyla basıyor, kocasının metnini ayrı bir kalem sayıyordu.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak 1851 ve 1868 tarihlerini taşır; broşürü çıkaranların Amerikan oy hakkı hareketini temsil ettiği çıkarımı kaynağın künyesinden (Stanton, Pillsbury, Anthony) yapılan bir okumadır, kaynağın kendi ifadesi değildir."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Aynı makale, Mill'in adını taşıyan Dissertations and Discussions derlemesinin üçüncü cildine girdi; Mill oraya koyduğu notta metnin kendine özgü bir anlamda ona ait olduğunu, kendi payının bir editör ve kâtibinkinden biraz fazlası olmadığını, yazarlığın zamanında bilindiğini ve alenen ona atfedildiğini yazdı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Notun tam metni cildin ilgili sayfasında; ifadeler birebir karşılanıyor."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Konuyu tarayan Stanford maddesine göre, ağırlıklı olarak — hatta yalnızca — ona ait sayılabilecek anlamlı bir felsefi çalışma arandığında en güçlü aday o makaledir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak bu nitelemeyi kendi sözcükleriyle yapar (best candidate for a significant philosophical work authored primarily or even solely by Taylor Mill)."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "John Taylor 1849'da öldü, Harriet 1851 baharında Mill ile evlendi ve 3 Kasım 1858'de, Mill'in Doğu Hindistan Şirketi'nden emekliliğinden kısa süre sonra çıktıkları yolculukta Avignon'da solunum yetmezliğinden öldü.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Beş tarih de kaynakta açıkça verilmiştir; ölüm nedeni ve yer dahil."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Mill'in Otobiyografi'sindeki portre onu, kadınların toplumsal engelleri yüzünden en yüksek yetilerini dışarıdaki eylem alanında kullanmaktan alıkonmuş biri olarak tarif eder; küçük dostlar çevresinde yalnız bir kişinin dehâ sahibi olduğunu söyler ve onu o yıllardaki hâliyle Shelley'e benzetir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Üç öğe de VI. bölümün aynı paragrafında geçiyor."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Talep oy pusulasıyla sınırlı değildir; erkek yurttaşlarla siyasal, medeni ve toplumsal bütün haklarda eşitliktir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Talebin kapsamı makalenin ilk paragrafında birebir yazılı."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Sonra karşı tarafın kendi ilkeleriyle sınanması: genel oy hakkını doğal bir hak diye isteyip insan türünün yarısını dışarıda bırakan Çartist, metnin deyişiyle \"level only down to themselves\" — yalnızca kendi hizasına kadar düzleyen — bir düzleyicidir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Çartist karşılaştırması ve düzleyici benzetmesi kaynakta birebir."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Buradan çıkan sonuç yöntemseldir: yetenekler önceden değil, denemeyle bilinir, ve önceden konan sınır yalnızca haksızlık değil, yasakladığı niteliklerin hiç oluşmamasını sağlamanın en etkili yoludur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Deneme ölçütü ve önceden konan sınırın sonucu kaynakta ardışık iki cümlede."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Bir dipnot gerekçeyi ve sınırını birlikte yazar: emekçi nüfusun en yoksul kesiminde görülen ve gazeteleri de polis kayıtlarını da dolduran kadın dövme vakaları, kadınlar hem kazansa hem de aile gelirinin bir kısmına sahip olma hakkı bulunsa var olamazdı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dipnot kaynağın kendi sayfa altındaki notudur; notun sınırı (emekçi nüfusun en yoksul kesimi, çalışan erkekler) hakem geçişinde geri konuldu."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Bu sonuç, Mill'in Kadınların Köleleştirilmesi'nde evli çiftlerin çoğu için evin ve çocukların bakımını kadının üstlenmesini uygun bulan tutumundan ayrılır; ayrılığın kendisi, makalenin Harriet Taylor Mill'e atfedilmesi lehine önemli bir kanıt sayılır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak ayrılığı ve bunun atıf lehine önemli bir kanıt sayıldığını yazar; kaynağın sözü 'important piece of evidence'tir, gövdedeki 'en güçlü kanıtlardan biri' yükseltmesi hakem geçişinde indirildi."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Derlemeye koyduğu notta Mill kendi payını editörlük ve kâtiplikle sınırlamıştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Notun içeriğinin doğrudan yeniden ifadesi."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Gertrude Himmelfarb ve M. Warnock bu kanıya katılmaz.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak iki adı da muhalif örnek olarak verir; kaynakça Warnock'ı yalnız baş harfle verdiği için gövdedeki 'Mary' hakem geçişinde kaldırıldı (hayalet ad)."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Aynı bölüm hangi düşüncenin kime ait olduğunun ayrılamayacağını da söyler: iki kişi bütün konuları günlük hayatta birlikte tartışıyor ve aynı ilkelerden yola çıkıyorsa, özgünlük bakımından kalemi kimin tuttuğu önemsizdir ve ortaya çıkan yazı ikisinin ortak ürünüdür.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "VII. bölümdeki ortak ürün pasajı birebir karşılanıyor."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Mill orada, yıllardır yazdığı her şey gibi bu kitabın da kendisine ait olduğu kadar ona ait olduğunu söyler — \"it belongs as much to her as to me\" — ama hemen ardından metnin onun gözden geçirmesinden yeterince yararlanamadığını, en önemli kısımların daha dikkatli bir yeniden incelemeye bırakıldığını ve o incelemenin artık hiç yapılamayacağını kaydeder.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "İthafın hem sahiplik ifadesi hem de gözden geçirmenin yapılamadığı kaydı aynı paragrafta."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Mill kendi yayınlarının bibliyografyasında Ekonomi Politiğin İlkeleri için eşiyle ortak üretim ifadesini kullanır, ama Özgürlük Üzerine maddesinde Harriet Taylor Mill'den hiç söz etmez.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak bibliyografyadaki bu asimetriyi açıkça kaydeder."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "İlkeler'e dair beyanı da iki okumaya birden açıktır: Mill, emekçi sınıfların muhtemel geleceğine ayrılmış bölümün ilk taslakta hiç bulunmadığını, gereğini onun gösterdiğini, yazmasının sebebinin o olduğunu ve bölümün genel kısmının çoğu zaman onun ağzından çıkan sözlerle kurulmuş bir serimleme olduğunu yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bölümün oluşumuna dair Mill beyanı VII. bölümde birebir."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Jo Ellen Jacobs bunu, bölümün esas olarak Harriet tarafından yazıldığının beyanı diye okur; aynı cümledeki yazmama sebep oldu ifadesi bu okumayı zorlaştırır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Jacobs okuması ve ona yapılan itiraz kaynakta yan yana duruyor."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Christoph Schmidt-Petri, Michael Schefczyk ve Lilly Osburg soruya biçembilim yöntemleriyle sayısal bir cevap aradı ve Utilitas'ın 2022 tarihli otuz dördüncü cildinde çıkan çalışmalarında Özgürlük Üzerine'yi Mill'in tek başına yazmadığı savını kurdu; yazarlar bunu kendi özetlerinde ön nitelikli bir sav olarak sunar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yazar adları, dergi, cilt ve yıl kayıtta doğrudan (published-print 2022-06, cilt 34); çalışmanın BULGUSUNA dair kısım yalnız özet düzeyinde karşılanıyor, üstveri künyesi kuralı gereği destek kismi'ye indirildi. Üçüncü yazarın adı bu kayıtta Lilly."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Yöntemin sınırı ayrıca kaydedilmiştir: algoritmayı besleyen metinlerin kime ait olduğu konusunda uzlaşma yoktur ve çalışma, Principles of Political Economy'nin iki cildinin tamamının ortak yazıldığını varsayar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yöntemin iki sınırı da kaynakta açıkça yazılı."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Bain'in kendi hükmü daha serttir; Mill'in eşinin kişisel nitelikleri konusunda olağanüstü bir yanılsama içinde olduğunu ve onu eşsiz bir dehâ diye anlatmakla makul inandırıcılığın sınırlarını zorladığını yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yanılsama ve inandırıcılık ifadeleri kaynakta birebir."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Aynı sayfalarda Bain, Harriet'in Mill'in görüşlerini yutup kendi biçiminde geri verdiği ve Mill'in bundan hoşlandığı yolundaki yaygın izahı salt tahmin sayıp reddeder: bu izahı üretenler ikisini bir arada hiç görmemişti, üstelik Mill kendi görüşlerinin yankısına kapılacak bir egotist değildi ve konuşmadan aldığı hazzın koşulu, karşısındakinin bağımsız bir birikime sahip olmasıydı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yaygın izahın reddi ve gerekçeleri kaynakta ardışık pasajlarda."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Ortada duran okumaya göre ise onun asıl katkısı, kendi yazdıklarının ötesinde, Mill'in dikkatini sosyalizme, kadın haklarına, bireysel özgürlüğe ve insanın iyileştirilebilirliğine çevirmiş olmasıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak Bain okumasını bu dört başlıkla özetler."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Biçembilim çalışması bile savını ön nitelikli sayar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yazarların kendi özeti savı ön nitelikli sayar."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Dördüncüsü, Bain'i çağının önyargısına indirgeyip atmak; aynı tanık, Mill'in eşini bir yankı odası olarak görmediğini de yazmıştır — o kaydın gerekçesi Harriet'i yüceltmek olmasa bile.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Aynı tanığın karşı yöndeki kaydı kaynakta mevcut; Bain'in bu reddi Harriet'i yüceltmek için kurmadığı da hakem geçişinde cümleye eklendi."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Konuyu tarayan maddenin yazarı Dale E. Miller kendi hükmünü de kaydeder: eldeki kanıt kesin bir cevap için fazla seyrek ve fazla çelişkilidir, dolayısıyla Harriet Taylor Mill felsefe tarihinde \"essentially contested figure\" olarak kalmaya yazgılı olabilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Maddenin sonuç bölümü ve yazar adı kaynakta."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Stanford maddesinin kaydına göre, bilinebildiği kadarıyla onu şahsen tanıyan başka hiç kimse Mill'in kullandığı türden sözlerle anmadı; tanıdıklarının birkaçı onu tersine düşük değerlendirdi — Jane ve Thomas Carlyle önce hayrandı, sonra ikisi de fikir değiştirdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak bu olumsuzlamayı kendi çekincesiyle ('as far as we know') kurar ve Carlyle'ları adıyla verir; gövdedeki eski hâl bu evrensel yargıyı çekincesiz ve yanlış künyeye (Bain) bağlıyordu."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Aynı kaynak karşı notu da düşer: Richard Krouse, makalenin kendi açtığı soruyu — evin ve çocukların bakımını kimin üstleneceğini — yanıtsız bıraktığını söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynağın atıf lehindeki kanıta iliştirdiği çekince; hakem geçişinde geri konuldu."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Reddin gerekçesi yine de baştan sona Harriet'in lehine değildir: Bain aynı yerde, Mill'in fikirlerinden ancak azının onun tarafından anlaşılır bir biçimde geri verilebileceğini de yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bain'in yaygın izahı reddederken kullandığı ikinci gerekçe; gövde bu cümleyi düşürerek pasajın yönünü tersine çeviriyordu."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Harriet Hardy 1807 Ekim'inde Londra'da doğdu; 1826'da, on sekiz yaşındayken toptancı eczacı John Taylor ile evlendi ve üç çocukları oldu.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Doğum yeri ve ayı, evlilik yılı, yaş ve çocuk sayısı kaynakta açıkça verilmiştir."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Mill ile 1830'da, bağlı olduğu Üniteryen cemaatin önderi Rahip W. J. Fox'un düzenlediği bir buluşmada tanıştılar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tanışma yılı ve buluşmayı düzenleyen ad kaynakta birebir."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "1833'te kocasının ısrarıyla ayrı bir eve çıktı ve John Taylor'ın ömrünün büyük bölümünde ondan ayrı yaşadı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yıl, kocanın ısrarı ve ayrı yaşama süresi kaynakta aynı cümlede."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Metin, Massachusetts'te ekim ayının 23 ve 24'ünde toplanan ve başkanı bir kadın olan Kadın Hakları Kongresi'nden söz eder; New York Tribune'ün kaydına göre toplantı boyunca salonda binden fazla kişi vardı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tarihler, başkanın kadın olması ve binden fazla katılım kaynakta birebir; sayının Tribune raporundan geldiği gövdede açıkça yazılı olduğu için aktarım halkası gizlenmiyor."
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Hareketin ayırt edici yanını da tek bir cümlede toplar: bu, yalnızca kadınlar için yürütülen bir kampanya değil, kadınlar tarafından yürütülen bir harekettir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak 'not merely for women, but by them' der; gövdedeki eski hâl 'merely'yi düşürerek kaynağın kurmadığı bir karşıtlık üretiyordu, hakem geçişinde düzeltildi."
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Kadınların yerinin ev olduğunu söyleyenlere karşı metin, insan türünün bir bölümünün başka bir bölümü adına ya da bir bireyin başka bir birey adına neyin uygun olduğuna karar verme hakkını reddeder; bir insanın uygun alanı, erişebildiği en geniş ve en yüksek alandır ve bunun ne olduğu ancak tam seçim özgürlüğüyle anlaşılabilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uygun alan pasajının üç öğesi de kaynakta ardışık cümlelerde."
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "1849'da Mill, Harriet'e kadınlar üzerine yazmakta olduğu bir broşürü bitirmesi için ısrar eder; kısa süre sonra derginin editörüyle yazışırken aynı konudaki makaleden kendi elinde hazır bir metin gibi söz eder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "İki mektup da kaynağın Later Letters'tan yaptığı aktarmadır; aktarım halkası hakem geçişinde gövdede açıkça yazıldı."
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Maddenin belirsiz saydığı 1854 tarihli bir mektupta ise makale yeniden basılırken önüne konacak önsözün, sonraki yazılarının çoğunun ve o makalenin en iyi kısmının eşine ait olduğunu göstereceğini yazar — yani en güçlü savlar ona, kalemi tutan el kendisine aitmiş gibi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mektubun içeriği ve kaynağın kendi okuması ('rather ambiguously', en güçlü savlar Harriet'in ama yazan Mill) birebir karşılanıyor."
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Bugün yaygın kanı Harriet'in birincil yazar olduğu yönündedir: Mill'in Toplu Eserler editörü John Robson kanıtın çoğunun bu yönü gösterdiğini söyler ve metin Toronto basımına onun adıyla, bir ek olarak konur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Genel kanı, Robson'ın hükmü ve Toronto basımındaki ek konumu kaynakta ardışık cümlelerde."
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "H. O. Pappe, Harriet'in Mill'in düşünce örüntüsünde esaslı bir değişiklik yapıp yapmadığını sorgular ve Harriet'siz bir Mill'in yine Mill olacağını söyler; Francis Mineka, Richard Reeves ve B. Kinzer de etkiyi belirleyici saymaz.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dört asgarici yorumcu da kaynakta adıyla ve alıntısıyla veriliyor; kaynak Kinzer'i yalnız baş harfle verdiği için gövdedeki 'Bruce' hakem geçişinde kaldırıldı."
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "Himmelfarb etkiyi büyük sayar ama olumsuz bulur: ona göre Mill'in mutlak bir özgürlük ilkesine dayanan yalın liberalizmi benimsemesi, tam da Harriet'in etkisinin doruğunda olduğu döneme denk gelir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak Himmelfarb'ın azamici ama olumsuz okumasını bu sözcüklerle özetler."
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Alice Rossi ise tartışmanın kendi çarpıklığını gösterir: Mill uzmanlarında, Harriet'in payını ancak kendilerinin onaylamadığı bir öğe söz konusu olduğunda kabul etme eğilimi vardır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Rossi alıntısı kaynakta tam olarak bu yönde."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 40,
+    "kismi": 2,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

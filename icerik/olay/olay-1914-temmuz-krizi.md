@@ -17,6 +17,7 @@ ilgili:
   - aktor-alman-imparatorlugu
   - aktor-avusturya-macaristan
   - olay-birinci-dunya-savasi
+  - kavram-seferberlik
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 kaynaklar:

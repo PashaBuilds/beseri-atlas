@@ -1,0 +1,393 @@
+{
+ "id": "kavram-vakif",
+ "govde_hash": "dc9bade6e7d4",
+ "commit": "92d1168",
+ "zaman": "2026-08-30",
+ "hakem": "kor-hakem-2026-08-29",
+ "iddialar": [
+  {
+   "iddia_id": "i001",
+   "cumle": "Hacı Mehmet Günay'ın maddesi terimi bir malın mâliki tarafından dinî, içtimaî ve hayrî bir gayeye ebediyen tahsisi diye özetler; Ebû Yûsuf ile İmam Muhammed'in tarifinde işlem, mülk bir aynı Allah'ın mülkü olarak temlik ve temellükten ebediyen alıkoymaktır ve doğurduğu sonuçlar bakımından Osmanlı uygulamasında daha çok bu tarif benimsenmiştir.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Maddede birebir: 'Ebu Yusuf ve Imam Muhammed vakfi, menfaati insanlara ait olmak uzere mulk bir ayni Allah'in mulku olarak temlik ve temellukten ebediyen alikoymak seklinde tanimlar' ve 'Hanefi doktrininde ve Osmanli uygulamasinda dogurdugu sonuclar bakimindan daha cok Imameyn'in tarifi benimsenmistir'. HAKEM: taslak 'Allah'in mulku olarak' ibaresini dusurmustu — Imameyn tarifini Ebu Hanife'ninkinden ayiran tam da bu kayittir, geri kondu"
+  },
+  {
+   "iddia_id": "i002",
+   "cumle": "Vakfedilen mal kamu malı statüsündedir, kiraya verilmesi vakfiyedeki şartlara ve rayiç bedele bağlıdır, başka bir malla değiştirilmesi (istibdâl) Hanefîlerin çoğunluğuna göre ancak maldan yararlanılamaz ya da geliri masrafını karşılayamaz hâle gelmesi durumunda ve hâkim kararıyla mümkündür.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Kaynak: 'Vakfedilen mal kamu mali statusundedir ve satilamaz, hibe edilemez'; istibdal kosullari birebir 'ancak vakif konusu malin kendisinden yararlanilamaz veya masrafini gelirinin karsilayamaz duruma dusmesi halinde ve hakimin karariyla olabilir'. HAKEM: taslak iki sarttan yalnizca birini yaziyordu, ikincisi geri kondu"
+  },
+  {
+   "iddia_id": "i003",
+   "cumle": "Vakıfların başlangıçta sözlü kurulduğu anlaşılıyor; şartların yazıya geçirilmesi ihtiyacı vakfiyeleri doğurdu.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Kaynagin kendi cekincesi ('anlasilmaktadir') cumleye tasindi"
+  },
+  {
+   "iddia_id": "i004",
+   "cumle": "Belge, harcamaların hangi gelirlerle karşılanacağını, kaç kişinin çalışıp ne kadar maaş alacağını ve kimin ne şekilde yararlanacağını vâkıfın kendi kalemiyle belirler.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Ozgudenli'nin vakfiye tarifindeki oge listesi kisaltilarak aktarildi"
+  },
+  {
+   "iddia_id": "i005",
+   "cumle": "Fıkıhta bu şartların bağlayıcılığı \"Vâkıfın şartı şâriin nassı gibidir\" kaidesiyle söylenir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Kaide maddede birebir gecer"
+  },
+  {
+   "iddia_id": "i006",
+   "cumle": "Metin besmele ve övgüyle açılır, vakfedilen gayri menkullerin sınırları tek tek yazılır, sonunda şartları değiştirmeye kalkışacaklara beddua edilir ve şahitlerin adları düşülür; belge ancak kadı tescil edince hukuken geçerlilik kazanır.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Mukaddime-metin-hatime yapisi ve 'Vakfiyeler ancak kadi tarafindan tescil edilerek ser'i sicile gecirildikten sonra hukuki gecerlilik kazanir' cumlesi"
+  },
+  {
+   "iddia_id": "i007",
+   "cumle": "Yönetim mütevelliye, denetim nâzıra bırakılır.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Mutevelli/nazir ayrimi maddede acik"
+  },
+  {
+   "iddia_id": "i008",
+   "cumle": "Osman Gazi Özgüdenli, vakfiyelerin bir bölümünün asıl metinle değil sonradan çıkarılmış sûretlerle geldiğini, bunların hem sahteciliğe açık olduğunu hem istinsah hataları taşıdığını ve çok dikkatli kullanılması gerektiğini yazar.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Ozgudenli imzali bolumde birebir: sahtecilige aciklik, istinsah hatalari ve 'cok dikkatli bir sekilde kullanilmasi gerekmektedir'. HAKEM: bolum siniri olculdu — 'Vakfiye suretleri' basligi 4187, Hasan Yuksel bolumu 11840'ta basliyor; atif dogru"
+  },
+  {
+   "iddia_id": "i009",
+   "cumle": "Vakfın en somut çıktısı imaret ya da hayrat külliyesidir ve Bahaeddin Yediyıldız bunu üç bölümlü bir düzen olarak tarif eder: hayrat kısmı (mâbed, mektep ve medrese, dârüşşifâ, misafirhane, çeşme), ona gelir sağlayan dükkân, han, hamam, çarşı ve bedesten, ve bunların çevresinde kurulan meskenler.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Yediyildiz'in uc bolumlu tarifi birebir; 'en somut cikti' nitelemesi makalenin cercevesidir. HAKEM: madde iki imzalidir, Yediyildiz atfi dogru bolume yapilmis"
+  },
+  {
+   "iddia_id": "i010",
+   "cumle": "Fâtih imaretinin akarı olarak İstanbul ve Galata'da 4250 dükkân, üç iş hanı, dört hamam, yedi köşk, dokuz bahçe, bir bedesten ve 1130 ev vakfedilmiştir; Mimar Sinan'ın yaptığı on dört imaret külliyesinde toplam 2529 kişinin çalıştığı tespit edilmiştir.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Sayilar ve liste maddede birebir. HAKEM: taslak 'uc is hani' ve 'yedi kosk (burgaz)' ogelerini dusurmustu, liste tamamlandi"
+  },
+  {
+   "iddia_id": "i011",
+   "cumle": "Damad İbrâhim Paşa'nın Muşkara köyünü vakıflar kurup dışarıdan nüfus getirterek Nevşehir'e çevirmesi, aracın bilinçli kullanımıdır.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Ornek maddede birebir; ikinci yari (araclik yorumu) makalenin cikarimidir"
+  },
+  {
+   "iddia_id": "i012",
+   "cumle": "Anadolu eyaletinin 1530-1540 arası gelir toplamının (79.784.960 akçe) %17'si vakıflara aitti; oran Karaman ile Halep-Şam'da %14, Rum'da %15,7, Dulkadriye'de %5, Rumeli'de %5,4 ile 32 arasındaydı ve bunlara şehir vakıf gelirleri dahil değildir.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Kaynak: 'Bu nisbet Karaman eyaletinde %14, Rum eyaletinde %15,7, Halep ve Sam eyaletlerinde %14, Dulkadriye'de %5 ve Rumeli'de %5,4-32 idi.' HAKEM: taslak Halep-Sam ve Dulkadriye satirlarini dusurmustu (en dusuk deger olan %5 dahil), liste tamamlandi. 'Sehir mevkufatinin gelirleri bunlara dahil degildir' kaydi birebir"
+  },
+  {
+   "iddia_id": "i013",
+   "cumle": "Yapılan hesaplara göre vakıfların genel bütçesi devlet bütçesinin üçte birine ulaşıyordu.",
+   "onem": "destek",
+   "tur": "sayi",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Kaynagin 'Yapilan hesaplara gore' ifadesi korundu; kaynak ayrica hayratin tam sayisini tahmin etmenin mumkun olmadigini soyler"
+  },
+  {
+   "iddia_id": "i014",
+   "cumle": "Yararlananlar açısından vakıflar hayrî ve zürrî diye ikiye ayrılır; zürrî — kaynağın adlandırmasıyla evlâtlık ya da ehlî — vakıfta yararlananlar vâkıfın hısımlarıdır ve fakirlerin sırası ancak onlar tükendiğinde gelir.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Kaynak: 'Bu tur vakiflara evlatlik veya ehli vakif adi da verilmektedir.' HAKEM: taslak 'evladiyelik' yaziyordu; bu sozcuk maddede hic gecmiyor (yaygin Turkce kullanim ama kaynagin terimi degil). Kaynagin kendi iki adi yazildi ve atif cercevesi eklendi"
+  },
+  {
+   "iddia_id": "i015",
+   "cumle": "Günay, fakihlerin büyük çoğunluğunun bu türü câiz gördüğünü, Osmanlı toplumunda meşrû sayılıp önemli oranda uygulandığını, ama son asırlarda uzun tartışmalara yol açtığını yazar.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Uc ogenin ucu de kaynakta ayni cumlededir; 'uzun tartismalara yol acmissa da' cekincesi korundu"
+  },
+  {
+   "iddia_id": "i016",
+   "cumle": "Memlük döneminde vakıf kurucuları artan gelirin kendilerine ve nesillerine ait olması şartını koymaya başlamış, aileler yaptıkları hayratla birlikte kendileri için dokunulmaz sürekli gelir kaynakları elde etmiştir.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Yediyildiz'in Memluk vakiflari bolumunde birebir; 'dokunulmaz surekli gelir kaynaklari' kaynagin kendi ifadesidir"
+  },
+  {
+   "iddia_id": "i017",
+   "cumle": "Vakıflara ait mal ve paralar İslâm hukukuna göre müsâdere kapsamına girmiyordu; Tuncay Öğün bu kuralın çiğnendiği bir örneği ayrıca not eder: II. Mahmud, Yeniçeri Ocağı'nı kaldırdıktan sonra dağılan yeniçerilerin sığındığı Bektaşî vakıflarının mal varlığına el koydurmuştur.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Maddenin 'Osmanlilar'da' bolumu Tuncay Ogun imzalidir (ilk bolum Cengiz Tomar'indir); cumle o bolumde birebir gecer. HAKEM: bolum siniri olculdu (Ogun bolumu ~16009 karakterde basliyor, cumle 22659'da)"
+  },
+  {
+   "iddia_id": "i018",
+   "cumle": "Yıldırım Bayezid devrinde vakıf ve mülk arazilerin geniş ölçüde mîrîye çevrilmesi, Fâtih döneminde bir kısım arazinin vakfiyetinin kaldırılıp tımara tahsis edilmesi ve bu arazilerin II. Bayezid devrinde yeniden vakfa döndürülmesi, aynı gerilimin üç perdesidir.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Uc olayin ucu de kaynakta ardisik cumlelerde; 'uc perde' nitelemesi makalenin cercevelemesidir"
+  },
+  {
+   "iddia_id": "i019",
+   "cumle": "Arazi Kanunnâmesi'nin 1892 tarihli İngilizce çevirisi toprağı beş sınıfa ayırır ve üçüncü sınıfı \"Lands possessed in mortmain\" diye tanıtır.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Cevirinin onsozunde birebir: 'Land in Turkey is divided into five classes... iii. Arazi Mevkufe. Lands possessed in mortmain, but tenanted by a kind of copyhold'. HAKEM: ceviri kunyesi (Ongley/Miller, Londra 1892) baslik sayfasindan dogrulandi; kanunun kendi tarihi metinde '7. Ramazan, 1274'"
+  },
+  {
+   "iddia_id": "i020",
+   "cumle": "Ama kanun hemen ikinci bir ayrım koyar: mîrî araziden ayrılıp padişahın izniyle vakfedilen topraklarda vakfedilen şey mülkiyet değil yalnızca öşür ve vergi gibi devlet alacaklarıdır; kanun bunun gerçek vakıf sayılmadığını ve imparatorluktaki vakıf arazisinin çoğunun bu kategoriye girdiğini yazar.",
+   "onem": "merkezi",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Metinde birebir: 'this kind of Arazi Mirie is not real Vakf (Evkaf Sahiha). Most of the Arazi Mevkufe in the Imperial dominions is of this category'. HAKEM: 400k onbellek penceresi icinde (karakter ~13300), --tam ile de sinandi"
+  },
+  {
+   "iddia_id": "i021",
+   "cumle": "Fıkıh literatürünün gayri sahih ya da irsâdî vakıf dediği tür budur.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Gayri sahih / irsadi vakif tanimi maddede birebir ve kanunun tarifiyle ortusur"
+  },
+  {
+   "iddia_id": "i022",
+   "cumle": "II. Mahmud 1826'da dağınık vakıfları tek elden yönetmek için Evkāf-ı Hümâyun Nezâreti'ni kurdu; İbnülemin Mahmud Kemal ile Hüseyin Hüsâmeddin kuruluşu 14 Ekim 1826 diye tarihlese de arşivdeki imzalı bir belge tarihi biraz geriye çeker.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Kaynak ici tarih ayrismasi maddede acikca kayitlidir; iki tarafi da tasindi"
+  },
+  {
+   "iddia_id": "i023",
+   "cumle": "Nazif Öztürk'e göre asıl kırılma sonradan geldi: Osmanlı toprağının önemli bölümü vakıftı, rakabesi ve istimlâki mümkün değildi ve vakıflar hükümetin nüfuzunun tamamıyla dışındaydı; Batılı sermayedarların baskısıyla çıkarılan Tevsî-i İntikāl Kanunu ve Müsakkafât ve Müstegallât-ı Vakfiyye Nizamnâmesi vakıf mallarının satışının yolunu açtı.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Muellifin nedensel okumasidir ve makale bunu sav diye isaretler; olgu kismi (iki duzenlemenin cikarilmasi) kaynakta birebir. HAKEM: kaynak bu nedensel okumayi Engelhardt'a (s. 421-422) atifla kurar; gizli aktarim halkasi metinde acildi"
+  },
+  {
+   "iddia_id": "i024",
+   "cumle": "Timur Kuran'ın 2001 tarihli makalesinin özetine göre vakıf, mülk sahibine toplumsal hizmet karşılığında iktisadî güvence veren inandırıcı bir bağlanma aracı olarak ortaya çıkmış görünüyor; ama kurucunun şartlarına harfiyen uyma zorunluluğu uygulamada sürekli dolanılınca kurumun meşruiyeti aşındı ve esneklik eksikliği belirginleştikçe hükümetlerin kaynaklara el koyması kolaylaştı.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Kunye Crossref ustveri kaydidir; destek yalnizca ozet duzeyindedir ve cumle zaten 'makalesinin ozetine gore' diye acilir. HAKEM: kayittaki tek `link` benzerlik denetimi icin, acik erisim tam metin degil — kismi destek dogru. Ozetin kendi cekincesi ('appears to have emerged') 'ortaya cikmis gorunuyor' diye tasindi"
+  },
+  {
+   "iddia_id": "i025",
+   "cumle": "Yediyıldız ters yönü savunur: arşiv belgelerine dayanan araştırmalar vakıf taşınmazlarının dondurulmadığını, istibdâl ve irsâd mekanizmalarıyla piyasanın talepleri doğrultusunda el değiştirdiğini göstermiştir.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Yediyildiz'in bolumunde birebir: XX. yuzyilin ikinci yarisinda arsivlere dayali arastirmalar vakif tasinmazlarinin dondurulmadigini ortaya koymustur"
+  },
+  {
+   "iddia_id": "i026",
+   "cumle": "1894'te Privy Council, *Abul Fata Mahomed Ishak – Russomoy Dhur Chowdhry* davasında, vakıf ifadeleri taşısa da malın büyük bölümünün hayra tahsis edilmediği bir düzenlemenin \"in substance nothing but a family settlement in perpetuity\" olduğuna ve İslâm hukukuna aykırı düştüğüne hükmetti; karar metni dilekçeden aktarılıyor.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Dilekce, kararin ilgili paragrafini birebir aktarir (L.R. 22 I.A., s. 85): 'the settlement was, notwithstanding some expressions importing a wakf, in substance nothing but a family settlement in perpetuity, and as such contrary to Mahomedan Law'. Tarih ayni cildde iki yerde: 'decided in November-December 1894' ve '23 Kasim - 15 Aralik 1894'. HAKEM: aktarim halkasi metinde acikca soylendi. Ayrica not: alintilanan cumle Board'in onadigi Kalkuta Yuksek Mahkemesi hukmunun ifadesidir; Board bu karari onayladigi icin 'hukmetti' savunulabilir"
+  },
+  {
+   "iddia_id": "i027",
+   "cumle": "Hindistan'ın Müslüman tebaası adına genel valiye sunulan dilekçe, bu yorumun vakıf hukukunu yıkıcı olduğuna yaygın biçimde inanıldığını yazar; cildin yazarı Mahomed Yusoof ise mahkemenin ebedîliğe karşı, ticaretin çıkarına yatkın bir eğitimden gelme önyargıyla hüküm kurduğunu ileri sürer.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Dilekcenin 1. paragrafinda 'it is universally believed, is subversive of the Mahomedan Law of Wakfs'; onyargi iddiasi cildin Review bolumundedir. Dilekce tarihsizdir, muhatabi Genel Vali Curzon'dur; makale dilekceye tarih atfetmiyor"
+  }
+ ],
+ "sayaclar": {
+  "dogrudan": 26,
+  "kismi": 1,
+  "desteksiz": 0,
+  "olculemez": 0
+ }
+}

@@ -1,0 +1,603 @@
+{
+ "id": "dusunur-stephen",
+ "govde_hash": "82fe50c3a86b",
+ "commit": "7ed5c28",
+ "zaman": "2026-08-29",
+ "hakem": "kor-hakem-2026-08-29",
+ "iddialar": [
+  {
+   "iddia_id": "i001",
+   "cumle": "1867'de Jamaika Komitesi, Vali Edward Eyre ve maiyetindeki subayların aşırı sertlik suçlamasıyla tutuklanması için mahkemeye başvurdu; başvuruyu hazırlayan avukat James Fitzjames Stephen'dı.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "DNB maddesi: 1867 Jamaika Komitesi icin Eyre ve subaylarinin tutuklanmasi basvurusu Stephen tarafindan yapildi. Maddeyi kardesi Leslie Stephen yazdi; taraf kalem, ama olgu iddiasi ozel gun/gorev duzeyinde ve baska kaynakla celismiyor."
+  },
+  {
+   "iddia_id": "i002",
+   "cumle": "Komitenin başkanı, hiç beklemediği bir anda o göreve seçildiğini yazan John Stuart Mill'di.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Mill kendi anlatisinda komite baskanligina hic beklemedigi bicimde secildigini yazar."
+  },
+  {
+   "iddia_id": "i003",
+   "cumle": "Stephen'ın savı bir betimleme savıdır: zorlama toplumsal hayatın istisnası değil dokusudur; ahlak ile din zaten zorlamayla kurulan ve sürdürülen düzenlerdir; dolayısıyla Mill'in ilkesi ciddiye alınırsa ahlakın kendisini mahkûm eder, ceza hukukuyla sınırlanırsa da tartışmaya değmeyecek bir sıradanlığa iner.",
+   "onem": "merkezi",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Uc bileseni de k1 ilk bolumde birebir: zorlamanin her yerde oldugu savi, ahlak ve dinin zorlayici duzenler oldugu savi, ve ogretinin yalniz ceza hukukuna daraltilmasi halinde kaydedilmeye degmez bir siradanlik kalacagi hukmu (bkz. i020)."
+  },
+  {
+   "iddia_id": "i004",
+   "cumle": "Stephen 1829'da Kensington'da doğdu, 1854'te baroya kabul edildi ve uzun yıllar hem avukatlık hem gazetecilik yaptı; 1865'te kurulan Pall Mall Gazette'in beş yıl boyunca baş yazarıydı ve 1868'de derginin yazılarının üçte ikisini o yazdı.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Dogum yeri/yili, baroya kabul (26 Ocak 1854), Pall Mall Gazette bas yazarligi ve 1868 orani DNB maddesinde dogrudan."
+  },
+  {
+   "iddia_id": "i005",
+   "cumle": "1869'da Henry Maine'in yerine Hindistan'da hukuk üyeliği önerildi; Aralık 1869'dan Nisan 1872'ye kadar orada kaldı.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Maine'in yerine hukuk uyeligi onerisi ve Aralik 1869 - Nisan 1872 araligi maddede dogrudan."
+  },
+  {
+   "iddia_id": "i006",
+   "cumle": "Ceza kanununun taslağı Macaulay'ın işiydi — kardeşinin kaydı 1834 yılını verir — ve metin 1860'ta yürürlüğe girmişti; Stephen'ın kendisine ait olan asıl yasa Delil Yasası'ydı, aynı kayda göre 12 Mart 1872'de kabul edildi.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "DNB maddesi ceza kanununu 'drawn by Macaulay in 1834' diye verir ve Delil Yasasi icin 12 Mart 1872 tarihini yazar; her ikisi de maddede birebir. Alan bilgisinde Macaulay'in taslagi 1837'de sunulur ve Yasa'nin kabul tarihi baska yerlerde 15 Mart 1872 olarak gecer; kor hakem bu yuzden iki tarihi de kaynagin kaydi olarak isaretledi, atlasin kendi hukmu olarak degil."
+  },
+  {
+   "iddia_id": "i007",
+   "cumle": "Yasayı Yasama Konseyi'nin gündemine 5 Mart 1872'de kendisi taşıdı ve o konuşmada, delil konusunun yasa maddesiyle kapatılamayacak yanlarını ayrı bir metinde yazacağını söyledi.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k6",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Stephen'in kendi onsozu 5 Mart 1872 tarihini ve yasa maddesiyle kapatilamayacak konularin ayri bir metne birakildigi beyanini tasir."
+  },
+  {
+   "iddia_id": "i008",
+   "cumle": "Kardeşinin kaydına göre iki buçuk yılda beş yıllık iş çıkardı; bazı eleştirmenler bu hızla yapılan işin zarafet ve kesinlik bakımından geliştirilebileceğini söylemişse de değeri genel olarak kabul edildi.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Iki bucuk yilda bes yillik is ifadesi ve elestirmenlerin zarafet/kesinlik cekincesi maddede birebir; cumle kaynagin cekincesini tasiyor ve degerlendirmenin kardesine ait oldugunu isaretliyor."
+  },
+  {
+   "iddia_id": "i009",
+   "cumle": "Liberty, Equality, Fraternity dönüş yolculuğunda yazılmaya başlandı, kışın Pall Mall Gazette'te mektuplar dizisi olarak çıktı ve ardından kitap olarak toplandı.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Donus yolculugunda yazilan mektuplarin 1872-73 kisinda Pall Mall Gazette'te cikip kitap olarak toplanmasi maddede dogrudan."
+  },
+  {
+   "iddia_id": "i010",
+   "cumle": "Kitabın ithafı Mart 1873 tarihini taşır; Stephen orada kitabın Hindistan'da tasarlandığını, Hindistan hükümetinin karargâhında okuduğu 1870-71 Avrupa gazetelerindeki yaygın kanaatlerin kendisine yoksul ve sahte göründüğünü yazar.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Ithaf Sir John Strachey'e yazilmis, Mart 1873 tarihli; kitabin Hindistan'da tasarlandigi, kismen donus yolculugunda yazildigi ve 1870-71 Avrupa gazetelerinin 'peculiarly false and poor' gorundugu ifadeleri birebir. KOR HAKEM DUZELTMESI: iddia k1'e baglanmisti; k1 (1882 New York Appleton basimi) ithaf ve onsoz TASIMIYOR — Google taramasi dogrudan I. bolumle basliyor. Kunye k2'ye cevrildi."
+  },
+  {
+   "iddia_id": "i011",
+   "cumle": "Mill'in ilkesini uzun uzun alıntılar, sonra kitabın en can alıcı gözlemini yapar: Mill ilkeyi bir bütün olarak kanıtlamaya hiç girişmez.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Stephen, Mill'in ogretiyi bir butun olarak kanitlamaya hic girismedigini I. bolumde acikca yazar."
+  },
+  {
+   "iddia_id": "i012",
+   "cumle": "İlkenin metni açıktır — uygar bir topluluğun bir üyesi üzerinde iradesine karşı güç kullanmanın tek meşru amacı başkalarına zarar verilmesini önlemektir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Mill'in kendi metninden zarar ilkesinin ifadesi."
+  },
+  {
+   "iddia_id": "i013",
+   "cumle": "Bu tanım kabul edilirse Mill'in ilkesi şuna dönüşür: kendini koruma dışında hiçbir amaçla kimsenin korkusuna seslenilemez.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Stephen ilkeyi kendi eylem kuramiyla yeniden ifade eder: kendini koruma disinda korkuya seslenilemez."
+  },
+  {
+   "iddia_id": "i014",
+   "cumle": "Bir kişiyi yasadan korkusu yüzünden bir eylemden alıkoyduğumuz her durum için, komşularının hoşnutsuzluğundan, öte dünyadaki cezadan ya da kendi vicdanının yargısından korktuğu için sayısız eylemden geri duran kişi vardır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Ahlaki, dini ve vicdani yaptirim ayrimi ve ceza hukukunun bunlarin yaninda kucuk kaldigi savi I. bolumde."
+  },
+  {
+   "iddia_id": "i015",
+   "cumle": "Stephen'ın saydığına göre kendini korumadan başka amaçla yapılan zorlamanın en yaygın ve en önemli biçimleri, dinlerin kurulup sürdürülmesi, ahlakın kurulup fiilen sürdürülmesi ve mevcut yönetim biçimlerinin ya da toplumsal kurumların değiştirilmesidir; hiçbiri kendini koruma diye tarif edilemez ve üçü de Mill'in ilkesinin mahkûm ettiği şeylerdir.",
+   "onem": "merkezi",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Uc zorlama ornegi (din, ahlak, mevcut yonetim bicimlerinin degistirilmesi) I. bolumde numaralanmis liste halinde."
+  },
+  {
+   "iddia_id": "i016",
+   "cumle": "İlke daha da ileri gider: harcaması askerî, polisiye ya da adli olmayan hiçbir vergi meşru sayılamaz, çünkü istemeyen bir kişiyi British Museum'a katkıya zorlamak, ilke bakımından dinsel zulümden farksızdır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Vergi ve British Museum ornegi Stephen'in kendi ornegi; ilkenin Mill'in dusundugunden fazlasini mahkum ettigi sonucunu o cikarir."
+  },
+  {
+   "iddia_id": "i017",
+   "cumle": "İkna da bir tür güçtür, çünkü kişiye eyleminin sonuçlarını gösterir; cezadan korktuğu için davranışını değiştiren kişi de aslında bir kanıtla ikna edilmiştir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Gucun iknaya bagimliligi ve iknanin bir tur guc olmasi III. bolumde."
+  },
+  {
+   "iddia_id": "i018",
+   "cumle": "Ahlak yasaklayıcı bir düzendir ve ceza hukuku, bu düzenin kaba biçimlerine karşı yürütülen bir tür kovuşturmadır; cezanın ölçüsünü belirleyen ölçütler, cezanın yalnız suçu önlemeyi değil suça duyulan nefreti de karşıladığını gösterir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Ahlakin yasaklayici bir duzen olmasi I. bolumde, ceza hukukunun kaba kotuluk bicimlerine karsi bir tur kovusturma olmasi ve ceza olcusunun nefreti de karsiladigi savi IV. bolumde."
+  },
+  {
+   "iddia_id": "i019",
+   "cumle": "Stephen bu sakıncalar ile örgütlenmiş, tanımlanmış ve kanıt üzerine uygulanan yaptırım arasındaki ilkesel farkı göremediğini söyler.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Stephen, Mill'in kabul ettigi sakincalar ile orgutlenmis yaptirim arasindaki ilkesel farki goremedigini birebir yazar."
+  },
+  {
+   "iddia_id": "i020",
+   "cumle": "Bir kaçış yolunu da baştan kapatır: Mill birkaç satırı silip öğretiyi yalnız ceza hukukuna daraltsa geriye kaydedilmeye değmeyecek bir sıradanlık kalır, çünkü ceza hukukunun kısıtlamaları zaten azdır ve çoğu birkaç ayrı gerekçeyle savunulabilir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "IV. bolum: birkac satir silinirse geriye kaydedilmeye degmez bir siradanlik kalacagi ve ceza hukukunun kisitlamalarinin az olup cogunun birkac gerekceyle savunulabilecegi savi birebir."
+  },
+  {
+   "iddia_id": "i021",
+   "cumle": "Bütün dinleri yanlış sayan bir yönetimin yalnız medeni nikâhı tanıdığı, dinsel vakıfları kamulaştırdığı ve baştan aşağı laik bir eğitim düzeni kurduğu varsayımsal bir örnek kurar ve bunun bir zorlama olduğunu söyler; ardından örneğin olanaksız olmadığını Britanya'nın Hindistan'daki yönetiminin kanıtladığını yazar — kendi koyduğu kayıtla: Hindistan hiçbir dinin doğru olmadığı ilkesiyle değil, hiçbir yerli dinin doğru olmadığı ilkesiyle yönetilmektedir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "II. bolum: varsayimsal ornek medeni nikah, dinsel vakiflarin kamulastirilmasi ve tam laik egitimi kapsar; ardindan 'That this is not an impossible case is proved by the action of the British Empire in India, which governs, not indeed on the principle that no religion is true, but distinctly on the principle that no native religion is true.' KOR HAKEM DUZELTMESI: onceki cumle varsayimi yalniz egitime indirmis ve Stephen'in kendi 'yerli din' kaydini dusurmustu; ikisi de geri konuldu."
+  },
+  {
+   "iddia_id": "i022",
+   "cumle": "Beş örnek sayar: farklı dinden insanların birbiriyle çatışmamasının halka rağmen dayatılması; din değiştirmenin hukuki ehliyet kaybına yol açmamasını hükme bağlayan 1850 tarihli 21 sayılı Yasa — Stephen bu yasanın *Lex Loci* adıyla anılmasının pek doğru olmadığını da not düşer —; yerli inançların yanlışlığını varsayan bir eğitim düzeninin ülkeye yayılması; sati ve insan kurbanı gibi dinsel uygulamaların suç sayılıp cezalandırılması; ve yerli halkın, yerli dinlerin yerine kendi dinlerini koymayı tek amaç edinmiş misyonerlerin aralarında bulunmasına katlanmak zorunda bırakılması.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Stephen'in listesi II. bolumde 1-5 diye numaralidir; 4. madde sati ve insan kurbani, 5. madde misyonerlerin varligina katlanma zorunlulugudur. Yasa dipnotu birebir: 'Act xxi. of 1850. Commonly, though not very correctly, called the Lex Loci Act.' KOR HAKEM DUZELTMESI: govde bes ogeden ucunu sayip 'siraladigi ornekler sunlardir' demisti; eksik iki oge geri konuldu."
+  },
+  {
+   "iddia_id": "i023",
+   "cumle": "Stephen'a göre bu baskı isteyerek uygulanmamıştır; Hindistan hükümetine olağan dilde zulme benzetilebilecek hiçbir edim yüklenemez ve tarafsızlık sözü titizlikle tutulmuştur.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Baskinin istemsizligi, zulme benzetilebilecek edim bulunmadigi ve tarafsizlik sozunun titizlikle tutuldugu ifadeleri Stephen'in kendi ifadeleridir; cumle bunlari ona atfederek verir, atlasin hukmu olarak degil."
+  },
+  {
+   "iddia_id": "i024",
+   "cumle": "Onun iddiası, yasa yapmanın kendisinin bunu zorunlu kıldığıdır: ilkesiz yasa olmaz, ilke koymak da bir tarafın öteki tarafa hükmetmesi demektir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Yasa yapmanin ilke koymayi, ilke koymanin da bir tarafin hukmetmesini gerektirdigi sonucu II. bolumde birebir."
+  },
+  {
+   "iddia_id": "i025",
+   "cumle": "Mill Özgürlük Üzerine'de ilkeyi ilan ettikten hemen sonra geri kalmış toplum durumlarını dışarıda bırakır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k3",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Mill'in geri kalmis toplum durumlarina iliskin kaydi kendi metninde."
+  },
+  {
+   "iddia_id": "i026",
+   "cumle": "Stephen bu kaydı kitabın başında itirazsız aktarır; saldırısını istisnaya değil kuralın kendisine yöneltir.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Stephen kaydi I. bolumde alintilar ve tartismaya acmaz; saldirisini kuralin kendisine yoneltmesi kitabin yapisindan okunur. Ikinci yari yorum tasidigi icin guven orta."
+  },
+  {
+   "iddia_id": "i027",
+   "cumle": "Yaş ve cinsiyet ayrımlarının evrensel, ırk ayrımlarının belirli zaman ve yerlerde önemli olduğunu ileri sürer; kadınlarla erkekler yasanın yapabileceği ölçüde eşitlenirse ve koruma yükümlülüğü ortadan kalkarsa kadınların erkeklerin kölesi ve angaryacısı hâline geleceğini savunur.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "'The distinctions of age and sex are universal. Distinctions of race are at given times and places most important' ve 'The result would be that women would become men's slaves and drudges' birebir. KOR HAKEM DUZELTMESI: govde 'slaves and drudges' ifadesini 'hizmetkar' diye yumusatmisti; Stephen'in kendi sertligi geri konuldu."
+  },
+  {
+   "iddia_id": "i028",
+   "cumle": "Boyun eğme ile korunmayı birbirinin karşılığı sayar ve insanlar arasındaki ilişkiyi son tahlilde gücün belirlediğini yazar.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Boyun egme ile korumanin karsilikliligi ve iliskileri gucun belirledigi savi ayni sayfalarda."
+  },
+  {
+   "iddia_id": "i029",
+   "cumle": "Stephen ikinci baskının önsözünde bunu kendisi kaydeder: Mill'in ölümü, kitabı yanıta değer bulup bulmayacağını söylemeyi olanaksız kılmıştır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Ikinci Baskiya Onsoz: Mill'in olumu, kitabi yanita deger bulup bulmayacagini soylemeyi olanaksiz kilar. Kaynagin kendi cekincesi cumleye tasindi."
+  },
+  {
+   "iddia_id": "i030",
+   "cumle": "Morley'nin 1 Ağustos 1873 tarihli Fortnightly Review yazısını, Mill'in vereceği yanıta ulaşılabilecek en yakın metin sayar.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Onsozde Morley'nin 1 Agustos 1873 tarihli Fortnightly Review yazisi dipnotla kunyelenir ve Mill'in yanitina en yakin metin sayilir."
+  },
+  {
+   "iddia_id": "i031",
+   "cumle": "Morley, hiçbir kanaatin ya da ciddi bir davranış parçasının gerçekten ve yalnızca kişinin kendisini ilgilendirir sayılıp sayılamayacağını sorar ve Mill'in denemesinde bu çekirdek malzemenin yeterince işlenmediğini söyler.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k2",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Morley'nin sorusu ve Mill'in denemesinde bu cekirdegin yeterince islenmedigi hukmu onsozde Stephen'in alintisiyla veriliyor; aktarimin aktarimi oldugu icin cumle bunu Morley'e atfediyor."
+  },
+  {
+   "iddia_id": "i032",
+   "cumle": "1960'larda Herbert Hart, tartıştığı Patrick Devlin'e hukuki ahlakçı etiketini yapıştırdı ve etiket tuttu.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "SEP: 1960'larda Hart, Devlin'e hukuki ahlakci etiketini yapistirdi ve etiket tuttu."
+  },
+  {
+   "iddia_id": "i033",
+   "cumle": "Hart, Mill'in çizdiği çizginin aldatıcı olduğunu söyleyen eleştirmenleri özetlerken — kaynağın kendi ifadesiyle, büyük olasılıkla Stephen'ın 1873 tarihli eleştirisi de aklındaydı — hiç kimsenin bir ada olmadığını, örgütlü bir toplumda kimseye zarar vermeyen ya da yalnız edenin kendisine zarar veren edim sınıflarını ayırmanın olanaksız olduğunu aktarır.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "SEP, Hart'in cumlesini birebir aktarir: 'it is impossible to identify classes of actions which harm no one or no one but the individual who does them.' Cikarimsal kayit ('He surely had ... in mind among others') govdede aciktan tasiniyor. KOR HAKEM DUZELTMESI: cumlenin ikinci yarisi ('or no one but the individual who does them') kirpilmisti, geri konuldu."
+  },
+  {
+   "iddia_id": "i034",
+   "cumle": "Buna rağmen Hart, cinsel ahlak alanında sınırlı bir zararsız davranış alanı bulunabileceğini savunarak Mill'in ayrımını kısmen korudu.",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Hart'in cinsel ahlak alaninda sinirli bir zararsiz davranis alani kabul etmesi SEP'te dogrudan."
+  },
+  {
+   "iddia_id": "i035",
+   "cumle": "Kardeşinin kaydına göre felsefede Mill'in ve faydacıların öğrencisiydi, yasalaştırma işinde Austin ile Bentham'ın kuramlarını uyguluyordu ve siyasal uygulamada Hobbes'u izleyip güçlü yönetim yanlısı Carlyle'la aynı safta duruyordu.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Mill ve faydacilarin ogrencisi, Austin-Bentham cizgisinde yasalastirmaci, siyasette Hobbes ve Carlyle yonunde nitelemeleri DNB maddesinde birebir; ancak bunlar kardesinin degerlendirmesidir ve cumle bunu isaretler."
+  },
+  {
+   "iddia_id": "i036",
+   "cumle": "Kendisi de kitabın ilk sayfalarında Mill'e olan borcunu yazar: \"bir yere kadar onun öğrencisi olmakla övünürdüm\".",
+   "onem": "destek",
+   "tur": "aktarim",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "I. bolum: bir yere kadar Mill'in ogrencisi olmakla ovunecegi ifadesi birebir. Tek tirnakli alinti, 15 kelimenin altinda."
+  },
+  {
+   "iddia_id": "i037",
+   "cumle": "1873 yazında Dundee'den Gladstone hükümetinin destekçisi olarak adaylığını koydu ve büyük farkla yenildi.",
+   "onem": "destek",
+   "tur": "tarih",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "1873 yazinda Dundee adayligi ve buyuk farkla yenilgi maddede dogrudan."
+  },
+  {
+   "iddia_id": "i038",
+   "cumle": "İkinci hata, Hindistan malzemesini bir yan not saymaktır; oysa o malzeme kitapta kanıt yerinde durur ve itirazın gerekçesini taşır.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Hindistan malzemesinin kitapta kanit yerinde durdugu k1'in II. bolumunden dogrudan okunur; \"ikinci hata\" cercevesi yazarin hukmudur, kaynagin degil."
+  },
+  {
+   "iddia_id": "i039",
+   "cumle": "O dosyada avukat olarak görev almıştı.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k4",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Stephen'in Jamaika Komitesi'nin avukati olarak gorev almasi DNB maddesinde."
+  },
+  {
+   "iddia_id": "i040",
+   "cumle": "Mill'in kendi anlatısına göre komite iki yıldan fazla süren mücadelesinde hukuk yollarını tüketti ve Old Bailey büyük jürisi iddianameyi reddedince dava hiç görülemedi.",
+   "onem": "destek",
+   "tur": "olgu",
+   "kaynaklar": [
+    {
+     "anahtar": "k7",
+     "destek": "dogrudan"
+    }
+   ],
+   "guven": "yuksek",
+   "inceleme": "Iki yildan fazla suren mucadele ve Old Bailey buyuk jurisinin iddianameyi reddetmesi Mill'in kendi anlatisinda."
+  },
+  {
+   "iddia_id": "i041",
+   "cumle": "Stephen bugün özgürlük savunusunun tarihinde değil, sınırının tarihinde anılıyor: bir davranışın ahlaka aykırı olmasının onu cezalandırmak için başlı başına yeterli sayılıp sayılamayacağı sorusunda.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k5",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Ahlaka aykiriligin cezalandirma icin tek basina yeterli sayilip sayilamayacagi sorusu SEP'te hukuki ahlakciligin tanimi olarak dogrudan; Stephen'in bugun \"hangi tartismada anildigi\" hukmu yazarindir."
+  },
+  {
+   "iddia_id": "i042",
+   "cumle": "Ayakta kalmayan yanı ise savın uygulandığı yerlerdedir: zorlamanın yaygınlığını göstermek, belirli bir zorlamayı haklı çıkarmaz; Stephen ise Hindistan bölümünde de eşitlik bölümünde de bu adımı ayrıca atmaz, mevcut düzenin sonucunu gerekçesi yerine koyar.",
+   "onem": "destek",
+   "tur": "yorum",
+   "kaynaklar": [
+    {
+     "anahtar": "k1",
+     "destek": "kismi"
+    }
+   ],
+   "guven": "orta",
+   "inceleme": "Stephen'in Hindistan ve esitlik bolumlerinde mevcut duzenin sonucunu gerekce yerine koymasi k1'den okunur; \"ayakta kalmayan yani\" degerlendirmesi yazarin hukmudur, kaynagin degil."
+  }
+ ],
+ "sayaclar": {
+  "dogrudan": 39,
+  "kismi": 3,
+  "desteksiz": 0,
+  "olculemez": 0
+ }
+}

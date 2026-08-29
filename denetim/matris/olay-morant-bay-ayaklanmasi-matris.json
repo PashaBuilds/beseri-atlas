@@ -1,0 +1,619 @@
+{
+  "id": "olay-morant-bay-ayaklanmasi",
+  "govde_hash": "831b7ffbf28e",
+  "commit": "92d1168",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Taşlar atıldı, ayaklanma yasası okunduğu için ateş emri verildi, kalabalık binayı ateşe verdi; gün bittiğinde sekiz sivil ile yedi gönüllü, ayrıca enkazda öldüğü söylenen üç yoksul siyah, toplam on sekiz kişi ölmüştü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hansard sekiz sivil ve yedi gonullu verir, ustune \"three old pauper negroes\" ekler; Underhill mahkeme binasinda ve cevresinde olenleri on sekiz sayar. Iki kaynak birlestirildi, kirpma geri alindi."
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Kalabalığın elebaşı, kasabanın yaklaşık altı mil kuzeybatısındaki Stony Gut'ta vaizlik yapan Baptist diyakoz Paul Bogle'dı; adamlarıyla birlikte aynı gece kasabadan çekildi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hansard Bogle icin \"undoubted head of the movement\" ve Stony Gut mesafesini verir; Baptist diyakozlugu Jamaika devletinin kaydindan gelir."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Mill'in kendi ifadesiyle sorulan şey, sömürgelerin ve belki nihayetinde Britanya'nın kendisinin \"hukukun mu yoksa askerî keyfîliğin mi\" yönetimi altında olacağıydı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mill'in kendi cumlesinin cevirisi; taraf olanin kendi cercevesi oldugu govdede yaziyor."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "İki yılı aşan hukuk mücadelesi bu soruya lehte bir cevap aldı ama hiçbir sanığı jüri önüne çıkaramadı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2 sürenin ve sonucun Mill tarafindan verilen ozeti, k3 buyuk jurinin iddianameyi dusurdugunun tutanak kaydi."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Nisan 1865'te St. Ann's bölgesinden yoksul halkın imzaladığı bir dilekçe Kraliçe'ye gönderildi; toprak isteyen, çitleri kırılan bahçelerinden ve ağır vergilerden yakınan metnin altındaki yüz sekiz addan yalnızca yirmi altısı imza atabiliyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Vali Eyre bu cevabı hemen Kraliçe'nin Öğüdü başlıklı bir duvar ilanı olarak bastırıp adaya dağıttı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Bogle'ın oy verme hakkı vardı ama bu, onu St. Thomas bölgesindeki topu topu yüz dört seçmenden biri yapıyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Bogle'ın siyasi dayanağı olan George William Gordon, köle bir annenin ve bir plantasyon vekilinin oğluydu, kendi kendini yetiştirmişti, toprağını küçük parçalara bölüp ucuza satıyordu ve Jamaika Meclisi'nin üyesiydi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dogum, egitim ve toprak satisi k7'de dogrudan gecer; Meclis uyeligini yalniz k1 (Avam Kamarasi tutanagi) tasir."
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "7 Ekim 1865 Cumartesi günü yerel sulh mahkemesinde görülen bir dava, masraflara itiraz eden adamın salondan çıkarılması ve tutuklanınca kalabalıkça kurtarılmasıyla karıştı; pazartesi Bogle'lar ve başkaları için yakalama emirleri çıktı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Underhill Komisyon raporundan aktarir: ilk direnis cumartesi 7 Ekim'de sulh mahkemesinde, yakalama emirleri pazartesi. Taslak bu gunu Stony Gut'taki sapel olayiyla birlestirmisti."
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Salı sabahı polis Stony Gut'a gidince Paul Bogle direndi ve yanı başındaki şapelde toplanmış üç ile beş yüz arası adam dışarı fırlayıp polisi dağıttı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "7 Ekim mahkeme olayi ile Stony Gut'taki tutuklama girisimi Underhill'de AYRI GUNLERDIR (cumartesi ve sali); taslakta tek gune indirilmisti, ayristirildi."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Sıkıyönetim 13 Kasım 1865'e kadar yürürlükte kaldı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Ayaklanma ise dört günde sönmüştü: adanın doğu ucunda dolaşan kalabalık 15 Ekim 1865'te dağıldı ve Buxton'ın Komisyon delillerinden çıkardığı döküme göre kalabalığın bölgeye hâkim olduğu perşembe sabahından pazara kadarki günlerde iki kişi öldürüldü, ikisi de ayaklanmayı izleyen ilk gün.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Buxton'in dokumu; kaynak \"the first day after the outbreak\" der, yani 11 Ekim degil ertesi gun. Sayim yalniz kalabaligin bolgeye hakim oldugu gunleri kapsar, mahkeme binasindaki olumleri kapsamaz."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Kraliyet Komisyonu'nun dökümünü Avam Kamarası'nda okuyan Mill'e göre 439 kişi öldürüldü — silahlı direniş sırasında değil, teslim olduktan ya da yakalandıktan sonra; en az 600 kişi kırbaçlandı ve 1.000 dolayında ev yıkıldı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sayilar Komisyon cetveline atifla Mill'in konusmasindan geliyor; aktarim halkasi govdede acikca yaziliyor. Cetvelin kendisi (Kraliyet Komisyonu raporu) acik erisimde okunamadi."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Underhill bu 439 sayısını ikiye ayırır: 354'ü askerî mahkeme kararıyla, 85'i hiçbir yargılama olmadan; ve 147 kişi, direnişin tümüyle bittiği 25 Ekim'den sonra öldürüldü.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Avam Kamarası'nda önergeyi veren Charles Buxton toplamı idam ve kırbaç birlikte 1.100'e yakın kişi olarak verdi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Jamaika devletinin bugünkü resmî kaydı ise ölü sayısını 500'e yakın diye yazar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Jamaika devletinin kaydi sayinin kaynagini belirtmez; govde bunu ucuncu bir sayim olarak, sayanla birlikte veriyor."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Bastırmanın üzerinde yürüdüğü anlatı valinin kendi yazısında duruyor: Eyre 20 Ekim tarihli resmî yazısında dili kesilen, derisi yüzülmeye çalışılan, diri diri yakılan kurbanlardan söz etti; cesetleri inceleyen hekimler ise Komisyon önünde bu anlatıları tek tek çürüttü — Baron'un parmakları palayla kesilmişti ama koparılıp götürülmemiş, elinde asılı kalmıştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Valinin 20 Ekim yazisi ile hekimlerin Komisyon onundeki curutmesi k1'de birlikte gecer; kaynagin kendi cekincesi (Baron'un parmaklari palayla kesilmisti) geri konuldu. k4 yalnizca iddialarin kendisini aktarir."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Nelson, bir kadın hakkında merhamet tavsiyesiyle birlikte gelen idam kararını, kendisine sözlü olarak aktarılan bu tür söylentiler yüzünden onayladığını resmî yazıyla bildirdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Gordon sıkıyönetimin geçerli olmadığı Kingston'da tutuklandı, sıkıyönetim bölgesi olan Morant Bay'e götürüldü ve orada, Teğmen Brand'in başkanlık ettiği, iki genç subaydan oluşan bir askerî mahkemenin önüne çıkarıldı; bu mahkeme varlığını sürdürdüğü birkaç gün içinde 189 kişiyi asılmaya mahkûm etti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Gordon 23 Ekim 1865'te idam edildi; Jamaika devletinin resmî kaydı yargılamayı \"illegally tried by Court Martial\" diye niteler.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"Illegally tried\" nitelemesi Jamaika devletinin kendi hukmudur ve govdede ona atfedilerek veriliyor."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Bogle ertesi gün, 24 Ekim 1865'te yakalanıp asıldı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Buxton'ın Avam Kamarası'na okuduğu sonuç paragrafı cezaların aşırı, idamın gereksiz sıklıkta, kırbaçlamaların pervasız ve Bath'ta düpedüz vahşi, 1.000 evin yakılmasının ise keyfî ve zalimce olduğunu söylüyordu; acı çekenler arasında olaylarla ne doğrudan ne dolaylı ilgisi bulunanlar vardı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Komisyonun sonuc paragrafi Avam Kamarasi'na Buxton tarafindan okunmustur; aktarim halkasi govdede yaziliyor. Rapor metninin kendisi acik erisimde bulunamadi."
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Aynı rapor, beyazların topluca katledilmesini amaçlayan geniş bir komplo bulunduğu iddiasını da reddediyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Ama aynı rapor Eyre'in gösterdiği hızın ve gücün adayı kurtardığını da kaydetmişti; Hume'un savunma kitabı ithafını doğrudan bu cümlenin üzerine kurar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Komisyonun Eyre lehine cumlesi buraya Eyre'in savunucusunun ithafi uzerinden ulasiyor; rapor metni dogrudan okunamadigi icin destek kismi sayildi."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Komisyon üyelerinden Russell Gurney, Avam Kamarası'nda hem Gordon'ın mahkûm edildiği delilin kesinlikle yetersiz olduğu görüşünü koruduğunu söyledi hem de Buxton'ın anlatısının ayaklanmayı delilin gösterdiğinden hafif gösterdiğini belirtti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Mill derneğe adını duyar duymaz yazdırdı; başkan Charles Buxton kovuşturmayı haksız değil ama uygunsuz bulup çekilince, genel kurul kovuşturma yönünde karar aldı ve başkanlığa Mill seçildi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mill'in kendi anlatisi; taraf olanin kendi kaydidir. Mill'in Buxton hakkindaki kendi cekincesi (\"not unjust indeed, but inexpedient\") geri konuldu."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Karşı tarafta, Eyre'in özel kişilerce kovuşturulacağı duyulur duyulmaz Eyre Defence and Aid Fund kuruldu; Willis's Rooms'taki toplantıda Shrewsbury Kontu, Roderick Murchison, General Sir William Gomm ve Profesör Tyndall konuştu, Hume'un kitabının ekinde Thomas Carlyle'ın mektupları ile Alfred Tennyson'dan alıntılar yer aldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Konusmacilar kitabin kendi icindekiler dokumunde adiyla sayilidir; taslakta dusen dorduncu konusmaci (General Sir William Gomm) geri konuldu. Kaynak yalnizca \"Professor Tyndall\" yazar, on ad vermez."
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Cezaların aşırılığını esefle karşılayan birincisi kabul edildi; sorumluların kovuşturulmasını, zararın tazminini ve kalan cezaların affını isteyen öteki üçü, hükümetin sözlü güvenceleri üzerine geri çekildi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Aynı oturumda Baillie Cochrane adadaki 500.000 siyah ile 15.000 beyazın oranını hatırlatıp Eyre en sert tedbirleri almasaydı ne olacağını sordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Nufus orani Cochrane'in konusmadaki ifadesidir, bagimsiz bir sayim degildir."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "6 Şubat 1867'de Bow Street'te Tuğgeneral Nelson ile Teğmen Brand hakkında tutuklama emri başvurusunu Komite adına Fitzjames Stephen ile Home Payne yaptı; Stephen 26 Mart'ta Shropshire'da, Market Drayton'daki yerel yargıçlar önünde Eyre aleyhine de çıktı ve dava reddedildi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Underhill basvuruyu Fitzjames Stephen ile Home Payne'in birlikte yaptigini yazar; taslakta dusen ikinci ad geri konuldu. Shropshire durusmasinin tarihi (26 Mart) kaynaktan alindi."
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "1868'de Eyre için hazırlanan iddianame Yargıç Blackburn'ün büyük jüriye hitabından sonra reddedildi; tutanağın kaydı kısadır: büyük jüri \"ignored the bill\".",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Mill kendi özetinde hangi iddianameyi kastettiğini adlandırmaz; anlattığı halka Bow Street'ten çıkandır: Cockburn'ün hitabı hukuku özgürlük lehine belirlemiş, ama Old Bailey'nin büyük jürisi iddianameyi düşürerek davanın duruşmaya gelmesini engellemişti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Mill'in ozeti Bow Street'ten cikan Nelson ve Brand kovusturmasina aittir (Old Bailey, Cockburn); 1868'deki Eyre iddianamesi Queen's Bench'te Blackburn onunde reddedilmistir. Taslak ikisini tek olay gibi baglamisti; ayristirildi."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Kitap, kendini korumadan başka amaçlarla başvurulan zorlamanın en önemli üç örneğini — dini kurup sürdürmek, ahlakı kurup sürdürmek, mevcut yönetim biçimlerini değiştirmek — sayar ve Mill'in ilkesinin bunların hepsini mahkûm ettiğini savunur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kitabin savi k8'de dogrudan gecer. Komite avukati \"Mr. Fitzjames Stephen\" (k4) ile kitabin yazari James Fitzjames Stephen'in ayni kisi oldugu iki kaynagin hicbirinde yazmaz; govde artik yalnizca ad ortakligini soyluyor ve bagin kaynaklarca kurulmadigini beyan ediyor."
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Sıkıyönetim daha altı gün sürecekken, 7 Kasım 1865'te toplanan yasama meclisine Eyre kendi anayasalarını kaldırmayı önerdi; adayı ikinci bir Haiti yapma niyetinden söz eden konuşması, delil istendiğinde gizlilik gerekçesiyle karşılandı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Meclisi tek bir odaya indiren ve altmış dört üyeyi yarısı Kraliyet atamalı yirmi dörde düşüren tasarı 9 Kasım'da okundu, 5 Aralık'ta Meclis'ten, 7 Aralık'ta Konsey'den geçti; sonra Londra'nın elinin büsbütün serbest kalmasını istediği bildirilince o metin de yürürlükten kaldırıldı ve 21 Aralık 1865'te adanın bütün yönetim yetkisini Kraliçe'ye devreden kısa bir yasa kabul edildi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Birincisi, olayı kendiliğinden patlamış bir \"yerli isyanı\" saymak: Bogle'ın hareketi mahkeme kararlarına, toprak uyuşmazlıklarına ve bir dilekçeye verilen cevaba bağlanabilir, ve kalabalığın dört gün boyunca ne yaptığı ile ne yapmadığı kayıtlıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cerceve degerlendirmesi; kaynaklar tek tek olgulari tasir, cerceveyi degil."
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "İkincisi, bunu bir kahramanlık destanına çevirmek: mahkeme binasında bölge amiri, bir din adamı, siviller ve gönüllüler öldürüldü, bu ölümler de kayıttadır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mahkeme binasinda olenler arasinda bolge amiri (custos) ve bir din adami vardir; taslaktaki \"meclis uyeleri\" kaynakta yok, duzeltildi."
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Kaynakların kendileri de tarafsız değildir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc kaynagin taraf konumu kendi metinlerinden okunuyor: Underhill mitingleri tetikleyen mektubun sahibi, Hume savunma fonunun cevresinde yazan kisi, Finlason sikiyonetim savunusunun yazaridir."
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Jamaika'da Bogle ile Gordon 1969'da ulusal kahraman ilan edildi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Britanya'da davanın sonucu bir yenilgiydi; ama Mill'in kendi değerlendirmesine göre kazanılan şey, bundan sonra benzer yetkileri kullanacakların en azından bir mahkeme masrafını göze almak zorunda kalacağını göstermekti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mill'in kendi degerlendirmesi olarak atfedilmistir, bagimsiz bir olcum degildir."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 38,
+    "kismi": 2,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

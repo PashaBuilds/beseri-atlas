@@ -1,9 +1,9 @@
 {
   "id": "dusunur-durkheim",
   "gecis": 2,
-  "zaman": "2026-08-29T20:19:13.853Z",
-  "govde_hash": "3f3e41c91284",
-  "commit": "4a5044d",
+  "zaman": "2026-08-29T20:28:54.162Z",
+  "govde_hash": "bf06e147577a",
+  "commit": "d9e0ff7",
   "sonuclar": [
     {
       "anahtar": "k2",
@@ -55,7 +55,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir toplumun hukuk düzeni, dinsel inançları, para sistemi, giyinme biçimleri ve dili bu başlık altındadır; evlenme, doğum ve intihar oranları gibi tek tek vakal",
+      "iddia": "Bir toplumun hukuk düzeni, dinsel inançları, güzellik kavrayışı, para sistemi, giyinme biçimleri ve dili bu başlık altındadır; evlenme, doğum ve intihar oranlar",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -157,7 +157,13 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "Tanım üç öğe taşır: kutsal, yani ayrılmış ve yasaklanmış şeylere ilişkin birleşik bir inançlar ve pratikler sistemi ve bunlara bağlanan herkesi tek bir ahlaki c",
+      "iddia": "Tanımı şöyle kurar: din, kutsal — yani ayrılmış ve yasaklanmış — şeylere ilişkin birleşik bir inançlar ve pratikler sistemidir; bu inanç ve pratikler kendilerin",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "İkinci öğe birincisi kadar temeldir: din fikri kilise fikrinden ayrılamadığı için din, özü gereği kolektif bir şeydir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -241,13 +247,19 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Marx'ı bilim dışı ve dogmatik bulmasına, marksizmi de gereksiz yere çatışmacı saymasına rağmen bir dizi sosyalist reformu destekledi, ama hiçbir partiye bağlanm",
+      "iddia": "Marx'ı bilim dışı ve dogmatik bulmasına, marksizmi de gereksiz yere çatışmacı, gerici ve şiddet yanlısı saymasına rağmen bir dizi sosyalist reformu destekledi, ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
       "iddia": "Savaş en umut verici öğrencilerinin çoğunu aldı, oğlu André cephede öldü; kendisi 1917'de öldü ve ahlak üzerine yazacağı son kitap bir giriş taslağıyla kaldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hakemli bir felsefe ansiklopedisinin maddesi, Durkheim'ın adının bugün birbirinden hayli uzak üç tartışmada geçtiğini kaydeder.",
       "durum": "OK",
       "not": ""
     },
@@ -265,7 +277,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Üçüncüsü siyaset kuramıdır: birey kişiliğinin kutsallaşması tezinin 1948'de kabul edilen İnsan Hakları Evrensel Bildirisi'yle ve John Rawls'un siyasal liberaliz",
+      "iddia": "Üçüncüsü siyaset kuramıdır: 1948'de kabul edilen İnsan Hakları Evrensel Bildirisi, birey kültünün kutsal metinlerinden biri sayılabilecek bir belge olarak okunu",
       "durum": "OK",
       "not": "1 atom doğrulandı; 4 ad ölçülemedi"
     },

@@ -1,10 +1,10 @@
 ## dusunur-weber
-_Geçiş 2 — kaynak denetimi · 2026-08-29T20:14:29.347Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T20:26:31.837Z_
 
 - [OK]      k1 → "Max Weber'in kurduğu programda toplumbilim, toplumsal eylemi yorumlayarak anlamayı üstlenen ve bunu eylemin se…"
 - [ATOMSUZ] k5 → "Bu reddin bıraktığı alanda akılcılaşma, büyübozumu ve modern hayatın anlam sorunu üzerine bir yüzyıllık tartış…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Weber'in dediği şey bir tanım ya da ortalama değil, bilinçli bir kurgudur: eylem tümüyle akılcı yürüseydi alac…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Weber'in kendi uyarısı burada belirleyicidir: böyle kurulmuş saf tiplerden birine tıpatıp uyan gerçek bir olgu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Weber'in kendi uyarısı burada belirleyicidir: tam da bu yüzden, böyle kurulmuş saf tiplerden birine tıpatıp uy…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir kapı kolunu çeviren ya da bir hayvana nişan alan insanı doğrudan gözleyerek anlarız; buna karşılık birinin…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Yöntemin sınırını da saklamaz: anlamlı eylem ile hiçbir öznel anlam yüklenmemiş salt tepkisel davranış arasınd…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Aynı yerde, sonradan Weber'in imzası sayılacak bütün kavramların ideal tip olarak kurulduğunu söyler: aynı tar…"
@@ -12,10 +12,10 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T20:14:29.347Z_
 - [OK]      k9 → "1897'de, bir tartışmanın ardından babasının ölümü üzerine çöküntü geçirdi; öğretimi bıraktı ve 1900'lerin başı…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k9 → "Birinci Dünya Savaşı'nda önce Almanya'nın savaş çabasını destekledi, sonra eleştirel bir konuma geçip demokrat…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k9 → "Savaştan sonra Alman Demokrat Partisi'nin kurucuları arasına katıldı, aday olduğu seçimde kazanamadı, Weimar A…" — 3 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k2 → "Weber tersini söyler: kazanma içgüdüsünün eski çağlarda bilinmediği ya da gelişmemiş olduğu doğru değildir; al…" — programatik olarak ölçülemedi (ad karşılığı yok): Çinli, Romalı
+- [ATOMSUZ] k2 → "Weber tersini söyler: kapitalizm öncesi tutumun nedeni, sık söylendiği gibi, kazanma içgüdüsünün o çağlarda bi…" — programatik olarak ölçülemedi (ad karşılığı yok): Çinli, Romalı
 - [ATOMSUZ] k2 → "Weber savını önce nesnesini tanımlayarak kurar: kapitalizmin ruhu, kültürel önemleri açısından tek bir kavrams…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k2 → "Bu bütünün belgesi olarak da dinle doğrudan ilişkisi olmayan, bu yüzden ön kabullerden arınmış saydığı bir met…"
-- [ATOMSUZ] k3 → "Kaderin önceden belirlenmişliği öğretisinin tutulduğu her yerde, insanın seçilmişler arasında sayılıp sayılmad…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Weber'in kurduğu zincir şudur: kaderin önceden belirlenmişliği öğretisinin tutulduğu her yerde, insanın seçilm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Cevap dünyevi çalışmada bulundu: dinsel kuşkuları dağıtıp lütuf kesinliğini veren en uygun araç olarak yalnızc…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k3 → "Weber dört asketik Protestanlık biçimi ayırır — Kalvinizm, Pietizm, Metodizm ve Vaftizci hareketten çıkan mezh…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k4 → "Meslek (Beruf) fikrinin en tutarlı dinsel temelini İngiliz Püritenliğinin Kalvinci kolunda bulur ve tartışmanı…" — programatik olarak ölçülemedi (ad karşılığı yok): Beruf, İngiliz, Püritenliğinin, Kalvinci
@@ -27,12 +27,16 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T20:14:29.347Z_
 - [OK]      k6 → "Baehr bu yoruma yöneltilen itirazları da tarttıktan sonra ilginç bir sonuca varır: Parsons'ın buluşu, aslın ka…"
 - [OK]      k5 → "Weber'in siyaset toplumbilimi, kendi adlandırmasıyla bir egemenlik toplumbilimidir (Herrschaftssoziologie) ve …"
 - [ATOMSUZ] k5 → "Tanımın ağırlık merkezi yalnızca güç değildir: bir buyruğun yerine getirilmesi tek başına egemenlik anlamına g…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k9 → "Otoriteye dayalı ilişkileri üçlü bir sınıflandırmaya göre kümeler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Otoriteye dayalı bütün ilişkileri üçlü bir sınıflandırmaya göre kümeler; ikinci kaynak aynı şemayı karizmaya, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k9 → "Otoriteye dayalı bütün ilişkileri üçlü bir sınıflandırmaya göre kümeler; ikinci kaynak aynı şemayı karizmaya, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k9 → "Karizmatik otorite gücünü kişinin olağanüstü niteliklerinden alır; kararsızdır, çünkü kurumsallaşmaya direnir …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k9 → "Geleneksel otorite önceden yerleşmiş geleneklere ve onlar sayesinde yetki taşıyanlara duyulan bağlılığa dayanı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k9 → "Akılcı-yasal otorite ise bürokrasiye ve kuralların yasallığına duyulan inanca yaslanır; ötekilerden farklı ola…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k8 → "İktisatçılar Sascha O. Becker ve Ludger Woessmann, 2009'da Quarterly Journal of Economics'te yayımladıkları ça…"
-- [OK]      k7 → "Değerden bağımsızlık ilkesi de hedef oldu: Alvin Gouldner 1962'de Social Problems dergisindeki yazısına Değerd…"
+- [OK]      k9 → "Bu üçüncü tipin gövdesi bürokrasidir ve Weber'in toplumun bürokratikleşmesi üzerine yazdıkları eserinin en öne…"
+- [OK]      k9 → "Bürokratik görevliler bürokrat olmayanlara karşı üstünlük duyar, güçlü bir ödev duygusu taşır ve sabit maaşlar…"
+- [ATOMSUZ] k5 → "İkincil kaynağın çerçevesinde aynı düzenek öngörülebilirlik üretir: hukuki biçimcilik ile bürokratik yönetim, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k8 → "Sascha O. Becker ve Ludger Woessmann, 2009'da Quarterly Journal of Economics'te yayımladıkları çalışmanın başl…"
+- [OK]      k7 → "Değerden bağımsızlık ilkesi de hedef oldu: Alvin W. Gouldner 1962'de Social Problems dergisindeki yazısına Ant…"
 - [OK]      k5 → "Weber'in kendi konumu ise sanıldığı kadar rahat değildir; onda nesnellik doğru yöntemle ulaşılabilecek bir hed…"
 - [OK]      k5 → "Weber'in bugüne dek Bonapartçı sezarizmi, edilgen-devrimci Fordist ideolojiyi, yarı-faşist seçkinciliği, hatta…"
 - [OK]      k5 → "Bir yerde demokrasi dördüncü bir meşruiyet tipi sayılır — üç ideal tipin hepsi meşruiyete yukarıdan bakarken d…"
@@ -46,4 +50,4 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T20:14:29.347Z_
 - [ATOMSUZ] k5 → "Siyaset kuramında, devletin güç tekeli üzerinden tanımlanması ve meşruiyetin itaatin gerekçesine bağlanması, ç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k8 → "İktisat tarihinde ise Protestan iktisadi tarihi, tezin yerine beşerî sermaye gibi başka mekanizmalar koymayı d…"
 
-**Özet:** 23 OK · 0 ISARET · 0 HATA · 21 ATOMSUZ
+**Özet:** 25 OK · 0 ISARET · 0 HATA · 23 ATOMSUZ

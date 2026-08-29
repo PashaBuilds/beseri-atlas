@@ -1,52 +1,59 @@
 ## olay-latin-amerika-bagimsizligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T20:03:03.271Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T21:05:42.981Z_
 
 - [OK]      k9 → "Kaynağın kendi bölümlemesi bile aynı çatışmalar dizisini dört ayrı evreye ayırır: 1810-1814 arası tartışmalı e…"
 - [OK]      k9 → "Kaynak tetikleyiciyi Avrupa'ya koyar: meşru bir hükümdarın yokluğunda İspanyol Amerikası'ndaki çatışmaları baş…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k9 → "Aynı kaynak bu tetikleyicinin önüne uzun soluklu bir bağlam zinciri koyar: denetimli bağımsızlık önerileri, id…" — programatik olarak ölçülemedi (ad karşılığı yok): Aydınlanma
-- [OK]      k9 → "Boşluğun ilk yanıtı bağımsızlık değildi: bazı büyük kentler ve başkentler, İspanyol geleneğinin hukukuna dayan…"
+- [ATOMSUZ] k9 → "Aynı kaynak tetikleyicinin önüne uzun bir bağlam zinciri koyar: denetimli bağımsızlık önerileri, idari ve ikti…" — programatik olarak ölçülemedi (ad karşılığı yok): Aydınlanma
+- [OK]      k9 → "Boşluğun ilk yanıtı bağımsızlık değildi: bazı büyük kentler İspanyol geleneğinin hukukuna dayanarak yerel yöne…"
 - [OK]      k2 → "Cádiz Cortes'inin 19 Mart 1812'de ilan ettiği anayasa, ulusal temsilin dayanağının iki yarıkürede aynı olduğun…"
 - [OK]      k2 → "Ne var ki metin, bu dayanağın kimlerden oluştuğunu hemen bir sonraki maddede sayar: temsil tabanı, her iki soy…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Anayasa, herhangi bir hattan Afrika kökenli sayılan ve öyle bilinen İspanyollara yurttaşlığın kapısını erdem v…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k2 → "Ama aynı madde koşulları da sayar: aday hür doğmuş anne babadan meşru evlilik içinde doğmuş olmalı, hür doğmuş…" — programatik olarak ölçülemedi (ad karşılığı yok): İspanyol
 - [ATOMSUZ] k2 → "Eşitlik ilan edilmiş, aynı sayfada dört koşula bağlanmıştır; ve koşulların hiçbiri yarımkürede değil, soyda ve…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Yayıncı özeti Jaime E. Rodríguez'in kitabını, 1812 Anayasası'nın getirdiği temsilî yönetimi ve halk seçimlerin…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k5 → "Kitabın savı özette şöyle verilir: bağımsızlık, birçok araştırmacının ileri sürdüğünün aksine sömürgecilik kar…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k10 → "Kingston'dan 6 Eylül 1815'te yazdığı mektup Angostura'dan dört yıl öncedir; Amerikalıları "ülkenin meşru sahip…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k10 → "Hemen öncesinde barış, bilim, sanat, ticaret ve tarım isteyen Amerikalıların krallıklara cumhuriyetleri yeğley…"
+- [ATOMSUZ] k10 → "Yeni Dünya'nın tamamından tek bir ulus kurmayı görkemli bir fikir sayar, ama uzak iklimler ve karşıt çıkarlar …" — programatik olarak ölçülemedi (ad karşılığı yok): Dünya
+- [OK]      k1 → "Dört yıl sonra Angostura'da Britanya anayasasının incelenmesini önerecek ve kalıtsal bir senato isteyecektir."
 - [OK]      k1 → "Kopan parçaların eski birliklerini yeniden kurabildiği bir dünyada Amerikalıların böyle bir geçmişi olmadığını…" — 1 atom doğrulandı; 3 ad ölçülemedi
-- [ATOMSUZ] k1 → "Kendi ifadesiyle bu bir konum değil bir ikilemdir; "ne Avrupalıyız, ne de Yerliyiz" cümlesi, sonraki bütün ana…" — programatik olarak ölçülemedi (ad karşılığı yok): Avrupalıyız, Yerliyiz
-- [OK]      k1 → "Kuzey Amerika'yı över, ama federal sistemin zayıf ve karmaşık olduğunu, o halkı bu kadar güç koşullarda yönete…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Kuzey Amerika'yı över, ama federal sistemin zayıf ve karmaşık olduğunu, o halkı bu kadar güç koşullarda yönete…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Roma ile Büyük Britanya'yı eskiler ve modernler arasında en çok temayüz etmiş iki ulus sayar ve temsilcilere B…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Bolívar'a göre senato, hükümet ile halk arasında bu iki ezelî rakibin birbirine attığı okları körelten ara bir…"
 - [ATOMSUZ] k1 → "Metnin kendisi burada bir tereddüt taşır — Bolívar gelecek kuşakların bu adların silinmesine üzüleceğine inand…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Aynı söylevde kongreden istediği tek şey bir kurum değildir: bütün kararname ve düzenlemelerini değiştirme ya …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "İngilizce metin, kongrenin yüzüncü yılında Venezuela hükümetinin emriyle bastırılmış bir anma cildidir; söylev…"
+- [OK]      k1 → "Elimizdeki İngilizce metin, kongrenin yüzüncü yılında Venezuela hükümetinin bastırdığı bir anma cildidir; söyl…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k9 → "Kaynak, Amerika'daki birliklerin her iki tarafta da neredeyse tamamının bölgeden devşirildiğini; yerli toplulu…"
-- [OK]      k9 → "Esir düşenler karşı tarafın ordusuna katılıyordu; Avrupa kökenli kreol ileri gelenleri bölgelerinin ticari çık…"
 - [OK]      k6 → "Cristina Soriano, 18. yüzyılın son onyıllarında Venezuela'da sömürge yönetimine karşı bir dizi halk ayaklanmas…"
 - [OK]      k6 → "Aynı çalışmaya göre bu hareketler Amerikan, Fransız ve Haiti devrimlerinin cumhuriyetçi hak dilini yeniden üre…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k6 → "Haiti burada aynı anda iki şeydir: dili ödünç alınan bir örnek ve Tacın istikrarsızlaştırıcı, fitneci ve son d…" — programatik olarak ölçülemedi (ad karşılığı yok): Tacın
 - [OK]      k9 → "Kaynağın bilgi kutusu toplam bir milyon ölü verir ve bunu ikiye böler: Yeni İspanya'da 600.000, Yeni Granada'd…"
 - [OK]      k9 → "600.000 rakamı, on dokuzuncu yüzyıl savaş istatistiklerini derleyen kişisel bir web sitesine bağlanmıştır; 400…" — 7 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k10 → "Dönemin içinden gelen bir tahmin karşılaştırma imkânı verir: Bolívar 1815'te Venezuela'da bir milyona yakın nü…"
 - [OK]      k9 → "Ayacucho'da birliklerin yüzde yirmisinden azının İspanyol olduğu ve bu savaşlarda ölen nativos sayısının yakla…" — 6 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k9 → "Aynı alıntı, bağımsızlık savaşları döneminde İbero-Amerika'da 50.000'den az İspanyol askeri bulunduğunu, bunla…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k9 → "Bunu yalnızca yerli halklara daraltmak, sayıyı başka bir topluluğun hanesine yazmak olur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k9 → "ABD 1822'de Şili'yi, Río de la Plata Birleşik Eyaletleri'ni, Peru'yu, Gran Kolombiya'yı ve Meksika'yı tanıdı; …" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k9 → "Ansiklopedi maddesi ABD'nin 1822'de Şili'yi, Río de la Plata Birleşik Eyaletleri'ni, Peru'yu, Gran Kolombiya'y…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k12 → "Dışişleri Bakanlığı Tarihçi Ofisi'nin ülke ülke tuttuğu resmî kayıt bu tarihleri dağıtır: Kolombiya 19 Haziran…" — 2 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k13 → "Dışişleri Bakanlığı Tarihçi Ofisi'nin ülke ülke tuttuğu resmî kayıt bu tarihleri dağıtır: Kolombiya 19 Haziran…" — 2 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k3 → "Aradaki yılda Monroe'nun 1823 tarihli yıllık mesajı kıtayı bir ilkeye bağlamıştı: Amerika kıtaları, üstlendikl…"
 - [OK]      k3 → "Aynı mesajın ilerleyen bir paragrafı, herhangi bir Avrupa gücünün mevcut sömürgeleri ve bağımlı toprakları içi…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k3 → "Tarafsızlık beyanı da koşulludur: bildiri, tanıma anında ilan edilen tarafsızlığa uyulduğunu ve uyulmaya devam…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k4 → "12 Aralık 1826'da Avam Kamarası'nda Portekiz'e ilişkin kraliyet mesajı görüşülürken George Canning, hükümetini…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k4 → "12 Aralık 1826'da Avam Kamarası'nda Portekiz'e ilişkin kraliyet mesajı görüşülürken George Canning, hükümetini…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k7 → "Rafael Cariello ile Thales Zamberlan Pereira, 1822'nin tarih yazımını gözden geçirirken önceki yorumların bağı…"
-- [OK]      k7 → "Aynı okumaya göre siyasi kopuş iki aşamada gerçekleşti: önce bir liberal devrim, ardından anayasal bir çatışma…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k7 → "Aynı okumaya göre siyasi kopuş iki aşamada gerçekleşti: önce bir liberal devrim, ardından anayasal bir çatışma…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k8 → "Leslie Bethell'in 1822-1826 arası Anglo-Brezilya ilişkilerini izleyen çalışması, Brezilya'nın bağımsızlığı ile…" — 4 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k8 → "Çalışmanın kendi girişi, Atlantik köle ticaretinin on altıncı yüzyılın başından on dokuzuncunun başına kadar ü…" — 3 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k9 → "Yeni cumhuriyetler Engizisyon'un biçimsel düzenini ve soyluluk unvanlarını kaldırdı; ama bu ülkelerin çoğunda …" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "Çalışmanın kendi girişi, 25 Mart 1807'de, parlamento içinde ve dışında uzun bir mücadelenin ardından, İngiliz …" — 2 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k9 → "Yeni cumhuriyetler Engizisyon'un biçimsel düzenini ve soyluluk unvanlarını kaldırdı; ama bu ülkelerin çoğunda …" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k9 → "Avrupa kökenli kreoller ile yerli-Avrupalı karışımı mestizolar siyasi makamların çoğunda İspanya doğumlu atanm…"
+- [OK]      k11 → "Kolombiya Cumhuriyeti'nin 30 Ağustos 1821'de Cúcuta'da imzalanan anayasası, ulusun ödevini yurttaşların özgürl…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k11 → "Oy hakkını 15. madde doğrudan mülke bağlar ve okuryazarlık şartını 1840'a kadar askıya alır: mahalle seçmeni o…"
+- [OK]      k14 → "Jennie Purnell, Meksika'da yerli topluluklarının elindeki ortak toprakların özelleştirilmesini emreden on doku…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k5 → "Rodríguez'in okuması bu tabloyla uyumludur: kitlelerin ciddi katılımına rağmen bağımsızlık mücadelesi kreoller…" — 1 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k5 → "Rakip okuma, onun birçok araştırmacıya atfettiği sömürgecilik karşıtı yorumdur; Rodríguez bunu reddeder, ama r…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Bolívar'ın kongreden kölelerin mutlak özgürlüğünü onaylamasını istemiş olması ile kaldırmanın çoğu ülkede 1850…"
 - [OK]      k9 → "Bolívar'ın kongreden kölelerin mutlak özgürlüğünü onaylamasını istemiş olması ile kaldırmanın çoğu ülkede 1850…"
-- [OK]      k9 → "Veracruz, Callao ve Chiloé'deki İspanyol kıyı istihkâmları 1825-1826'ya kadar dayandı; izleyen on yılda kralcı…" — 8 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Veracruz, Callao ve Chiloé'deki İspanyol kıyı istihkâmları 1825-1826'ya kadar dayandı; izleyen on yılda kralcı…" — 7 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k9 → "Küba ile Porto Riko 1898'e kadar İspanyol yönetiminde kaldı; yani Monroe'nun mevcut sömürgeleri dışarıda bırak…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k15 → "Küba ile Porto Riko 1898'e kadar İspanyol yönetiminde kaldı; yani Monroe'nun mevcut sömürgeleri dışarıda bırak…" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k3 → "Küba ile Porto Riko 1898'e kadar İspanyol yönetiminde kaldı; yani Monroe'nun mevcut sömürgeleri dışarıda bırak…" — 4 atom doğrulandı; 1 ad ölçülemedi
 
-**Özet:** 37 OK · 0 ISARET · 0 HATA · 10 ATOMSUZ
+**Özet:** 45 OK · 0 ISARET · 0 HATA · 9 ATOMSUZ

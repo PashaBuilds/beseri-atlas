@@ -1,0 +1,673 @@
+{
+  "id": "dusunur-bentham",
+  "govde_hash": "6acf2a9f33a4",
+  "commit": "7ed5c28",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Hukukçu ve siyasal reformcu Jeremy Bentham'ın ana yapıtı *An Introduction to the Principles of Morals and Legislation* 1780'de basıldı, eklerle 1789'da yayımlandı; ceza hukuku kuramına hazırlık olarak klasik faydacı kuramın temel ögelerini orada serdi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5 acilis paragrafi: 'jurist and political reformer' ve '(printed 1780, published with additions 1789), as a preliminary to developing a theory of penal law he detailed the basic elements of classical utilitarian theory'. Kor hakem 2026-08-29: eserin adi ve Bentham'in mesleki konumu govdede yoktu, eklendi."
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Doğa insanlığı acı ile hazzın, yani \"iki egemen efendi\"nin yönetimi altına koymuştur; neyi yapmamız gerektiğini de fiilen ne yapacağımızı da yalnız onlar gösterir, ve doğru ile yanlışın ölçüsü de nedenler zinciri de onların tahtına bağlanmıştır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birinci bolumun acilis paragrafinin birebir aktarimi."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Kaynağın klasik faydacılardan önce saydığı çizgi Cumberland, Shaftesbury, Hutcheson, Gay ve Hume'u kapsar; bunlardan Francis Hutcheson, eylem seçimi söz konusu olduğunda açıkça faydacıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k7: 'Early precursors to the Classical Utilitarians include the British Moralists, Cumberland, Shaftesbury, Hutcheson, Gay, and Hume. Of these, Francis Hutcheson ... is explicitly utilitarian when it comes to action choice.' Kor hakem: govde once listeyi ikiye kirpmisti (Cumberland'dan Hutcheson'a), kaynaktaki bes ad geri kondu."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "ile arasındaki ünlü ayrım da ancak buradan sonra anlaşılır: Mill'in eklediği nitelikli haz ayrımı, kaynağın kaydına göre tam da Bentham'ın kurduğu toplanabilirliği zayıflatır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5, Mill'in nitelikli haz kavraminin kuramin toplanabilirlik boyutunu zayiflattigini soyler."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Birden çok kişi söz konusuysa yedinci bir ölçüt devreye girer: kapsam, yani etkilenen kişi sayısı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dorduncu bolumun IV. maddesi: yedinci olcut kapsam."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Bentham son iki ölçüt için kendi kaydını düşer: verimlilik ile saflık, sıkı konuşulursa hazzın ya da acının kendi özellikleri değil, onları üreten edimin özellikleridir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dorduncu bolum III. madde: verimlilik ve safligin edimin ozelligi oldugu kaydi."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Daha önemli bir çekince de metnin kendisindedir: bu yordamın her ahlaki yargıdan ya da her yasama işleminden önce harfiyen izlenmesi beklenmez; yalnızca göz önünde tutulur, ve fiilen izlenen süreç ona ne kadar yaklaşırsa o kadar kesin sayılır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dorduncu bolum VI. madde — Bentham'in kendi cekincesi; makalenin merkezi savini tasiyor."
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Yine de uygulanabilirlik itirazı ayakta kalır ve ikincil kaynak da bunu sık dile getirilmiş bir itiraz olarak aktarır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5: 'it has often been said that applying the felicific calculus is impractical'."
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Aynı miktarda paranın, zenginin servetine eklendiğinde yoksula verildiğinden daha az mutluluk ürettiğini Bentham fark etmişti; iktisatçıların sonradan azalan marjinal fayda diye adlandıracağı bu çözümleme, paranın neden faydanın doğrudan ölçüsü olamayacağını da açıklıyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Azalan marjinal fayda bolumu k5'te ayri bir alt basliktir."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Fayda ilkesini ve ona bağlı düşünceleri 1769'da Hume, Helvétius ve Beccaria'da bulduğunu söyler.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1769'da Hume, Helvetius ve Beccaria'da bulmasi k5'te birebir."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Hutcheson'ın 1729 tarihli formülasyonundan haberi yoktu; kaynağın kaydına göre zaman zaman hatalı bellek yüzünden formülü Priestley'nin 1768 tarihli yönetim denemesinde bulduğunu sanacak kadar yanılmıştır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "DIKKAT maddesinin dayanagi: k5 'deceived by faulty memory' ifadesiyle Priestley atfini oynak sayar; Hutcheson'in 1729 formulasyonundan habersizligi ayni cumlededir."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Aynı kaynak, Beccaria'ya yaptığı atfı daha akla yatkın bulur: 1764 tarihli Dei Delitti e delle Pene'de İtalyan hukuk reformcusu, bir yasanın değerini ölçmenin tek geçerli ölçütünü en çok sayıda kişiye bölüştürülmüş en büyük mutluluk diye ilan etmişti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5 Beccaria atfini 'more plausible' diye niteler; kaynagin cekincesi metne 'daha akla yatkin bulur' olarak tasindi."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Daha kesin bir kayıt da var: Bentham fayda ilkesinin bu biçimde ifade edilmesinde ciddi ve sakatlayıcı bir kusur gördü — böyle bir ilke, çoğunluğun mutluluğunu artırmak adına bir azınlığa ölçüsüz özveriler yükletmeyi haklı gösterebilirdi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5 4.2: 'Bentham detected a serious and potentially debilitating defect in rendering the utility principle as the greatest happiness of the greatest number. He came to see that such a principle could justify inordinate sacrifices by a minority...' KOR HAKEM DUZELTMESI: govde bu pasaji '1829 tarihli Article on Utilitarianism'a atfediyordu; k5 pasaji tarihlendirmiyor ve o esere baglamiyor (yalniz 1983a, 309 kunyesi var). Kaynakta olmayan yil ve eser adi kaldirildi. Ayrica kaynagin kendi cekincesi ('He considered this a false conclusion, but one that needed to be addressed') govdeye geri kondu; oncesinde 'Bentham sonunda formulu birakti' seklinde kaynagin tasimadigi bir terk etme iddiasi vardi."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Kendi çözümlemesinde azınlığın duyguları hesaptan düşüldüğünde topluluğun toplam mutluluk stokunda kâr değil zarar çıkar, ve iki küme arasındaki sayısal fark küçüldükçe eksik daha da belirginleşir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Azinligin duygulari disarida birakildiginda toplam mutlulukta zarar cikmasi k5'te aktarilir."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Değiştirmenin izi ana yapıtın kendisinde de görülür: 1822'de eklediği bir dipnotta, adlandırmaya son zamanlarda en büyük mutluluk ilkesinin eklendiğini ya da onun yerine geçtiğini kaydeder.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Temmuz 1822 yazar dipnotu: adlandirmaya en buyuk mutluluk ilkesinin eklendigi/yerine gectigi."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Fayda ilkesinin tehlikeli olduğunu söyleyen kişinin, o sırada başsavcı ya da başsavcı yardımcısı olan Alexander Wedderburn olduğunu öğrenen Bentham, sözü doğru bulur: yılda on beş bin sterlinlik bir başsavcılık, adaletin tamamı üzerinde veto yetkisi taşıyan bir lordlukla birlikte yirmi beş bin sterlinlik bir şansölyelik ve beş yüz kilise arpalığının dağıtımı üzerine kurulmuş bir düzen için ilke gerçekten tehlikelidir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 Temmuz 1822 dipnotu: 'Alexander Wedderburn, at that time Attorney or Solicitor General'; 'Attorney General with £15,000 a year, nor Chancellor, with a peerage with a veto upon all justice, with £25,000 a year, and with 500 sinecures at his disposal, under the name of Ecclesiastical Benefices'. KOR HAKEM: govde kaynagin kendi cekincesini ('Attorney OR Solicitor General') dusurup 'Bassavci' yaziyordu; ayrica 'sinecures ... Ecclesiastical Benefices' 'kayyumluk' diye cevrilmisti (kilise arpaligi). Ikisi de duzeltildi; para birimi £ getir.mjs'te dusuyor, tutarlar cevre metinden sterlin okundu."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Yedinci ölçüt kimin sayılacağını belirlemez; yalnızca sayılanların hepsinin sayılmasını ister.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kapsam olcutunun tanimi k2'de dogrudan; 'kimin sayilacagini belirlemez' cikarimi yazarindir."
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Ceza hukukunun sınırlarını tartıştığı on yedinci bölümde, çıkarları eski hukukçuların duyarsızlığı yüzünden ihmal edildiği için şeyler sınıfına indirilmiş olan öteki hayvanlardan söz eder ve dipnotta sınırı nerenin çizeceğini sorar: bacak sayısı, derinin tüylülüğü ya da omurga sonunun biçimi, duyarlı bir varlığı aynı yazgıya terk etmek için yetersiz gerekçelerdir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "On yedinci bolum ve dipnotu: hayvanlarin seyler sinifina indirilmesi, bacak sayisi/tuylulugu/os sacrum olcutleri."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Yetişkin bir at ya da köpek, bir günlük hatta bir aylık bir bebekten kıyaslanamayacak ölçüde daha akıl yürüten ve daha iletişilebilir bir hayvandır; ama sorulması gereken bu bile değildir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni dipnot: yetiskin at ya da kopek ile bir gunluk bebek karsilastirmasi."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Soru, akıl yürütebilirler mi ya da konuşabilirler mi değil, \"acı çekebilirler mi\"dir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'Can they suffer?' — dipnotun kapanis sorusu."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Aynı dipnot de anar: türün büyük bölümünün köle adı altında hukuk önünde tam da hayvanların durumunda tutulduğunu yazar, hayvanların da bir gün ancak zorbalıkla ellerinden tutulabilmiş hakları kazanabileceğini söyler ve hemen ardından Fransızların, deri siyahlığının bir insanı bir işkencecinin keyfine çaresizce bırakmak için gerekçe olmadığını çoktan keşfettiğini kaydeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3 dipnotu: 'the greater part of the species, under the denomination of slaves, have been treated by the law exactly upon the same footing, as ... the inferior races of animals are still. The day may come, when the rest of the animal creation may acquire those rights which never could have been witholden from them but by the hand of tyranny. The French have already discovered that the blackness of the skin is no reason...' KOR HAKEM: govde iki cumlenin sirasini ters vermisti ('ekler'), kaynagin sirasina cevrildi."
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Suçların yalnızca yol açtıkları zarara göre sınıflandırılması gerektiği kuralına dayanarak rızaya dayalı cinsel edimlerin suç sayılmasını reddetti; ölüm cezasını 1809'a gelindiğinde hiçbir suç için gerekli görmez oldu; sömürgelere karşı 1793'te açtığı çizgiyi ömrünün sonuna kadar sürdürdü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cinsel ozgurluk savunusu, 1809'da olum cezasindan tumden vazgecmesi ve 1793 Emancipate Your Colonies! ucu de k5'te."
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Bentham 1786-87'de Rusya'da, Potemkin'in hizmetindeki kardeşi Samuel'in yanındaydı; oradaki fikri devraldı ve genişleterek yayımladı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1786-87 Rusya, Potemkin'in hizmetindeki Samuel ve fikrin devralinmasi k5'te birebir; panoptigin kardesin fikri oldugu savinin ikincil dayanagi."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Metnin kendisi de bunu saklamaz: tasarım mektuplarda kardeşinin planı diye anılır ve mektupların 1787'de Rusya'dan İngiltere'ye gönderildiği önsözde yazılıdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birinci mektup 'my brother's plan'; onsoz mektuplarin 1787'de Rusya'dan gonderildigini yazar. Ayni savin birincil dayanagi."
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Önsöz iki şeyi birden vaat eder: ahlakın ıslahından yoksul yasalarının düğümüne kadar her şeyin mimarideki basit bir fikirle çözülmesini ve zihin üzerinde zihin gücü elde etmenin, o güne dek örneği görülmemiş bir nicelikte, yeni bir yolunu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4 onsoz: 'MORALS reformed ... the Gordian knot of the Poor-Laws not cut but untied — all by a simple idea in Architecture! ... A new mode of obtaining power, power of mind over mind, in a quantity hitherto without example ... Such is the engine.' KOR HAKEM DUZELTMESI: govde 'Onsozun kendi vaadi de mimari degildir' diyordu; onsoz tam tersine vaadi acikca mimarideki basit bir fikre bagliyor. Iddia kaynagin tasidigina indirildi."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Beşinci mektup bunu açıkça ayırır: özsel olan, denetçinin konumunun merkezîliği ile \"görülmeden görme\"nin bilinen ve en etkili düzenekleridir; dairesel biçim en elverişlisidir ama zorunlu değildir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Besinci mektup: planin ozu denetcinin merkeziligi ve gorulmeden gorme duzenekleri; dairesel bicim zorunlu degil."
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Amaçlanan da kesintisiz gözetim değil, gözetildiğine inanmaktır — her an gerçekten görülmek imkânsız olduğuna göre istenen, kişinin aksini kendine kanıtlayamayarak kendisini görülüyor saymasıdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birinci mektup: kisinin aksini kanitlayamayarak kendini gorulur saymasi."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "bu düzenekten yeni bir iktidar fiziği, davranışın değiştirilebildiği bir iktidar laboratuvarı çıkardı ve panoptikonu baskıcı gözetim toplumunun simgesi saydı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5, Foucault'nun 'new physics of power' ve 'experimental laboratory of power' okumasini aktarir."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Kaynağın hükmü, bu okumanın Bentham'ın önerilerine yöneltilmiş bir eleştiri olarak projenin inceliklerine hakkını vermediği yönündedir; hüküm Semple'ın 1993 tarihli çalışmasına dayandırılır.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5: Foucault'nun yaklasimi projenin inceliklerine 'hardly does justice', Semple 1993'e dayandirilir. Tasarim ile okumanin ayrildigi merkezi sav."
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Bentham'ın tasarımında gözetilen yalnız mahkûm değildir: halka ve parlamento üyelerine hapishaneye serbest giriş güvence altına alınacak, yönetici de böylece kamunun bakışı altında tutulacaktı; kamuya açıklık, yöneticinin çıkarını insanca davranma ödeviyle hizalamanın aracıydı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Halkin ve parlamento uyelerinin serbest girisi ile kamuya acikligin cikar-odev hizalamasi k5'te birebir."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "İlkeyi okullara uygularken karşı tarafın soracaklarını sıralar: bu kesintisiz baskı zihnin gelişimine onarılmaz bir ket vurmaz mı, düzenlilikte kazanılan enerjide yitirilmez mi, özgür yurttaşın atılganlığı askerin mekanik disiplinine ya da keşişin çileciliğine değişilmez mi, sonuçta insan görünümü altında bir makineler takımı kurulmuş olmaz mı?",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4 okullara dair mektup: 'irretrievable check ... may not be productive of an imbecility'; 'Whether what is thus acquired in regularity may not be lost in energy'; 'the liberal spirit and energy of a free citizen would not be exchanged for the mechanical discipline of a soldier, or the austerity of a monk'; 'constructing a set of machines under the similitude of men'. KOR HAKEM: govde listeden 'kesisin cileciligi'ni dusurmustu, geri kondu."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Verdiği cevap ölçütünü hiç terk etmez: ister asker deyin, ister keşiş, ister makine — mutlu olmaları koşuluyla umurunda olmadığını yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni mektubun cevabi: asker/kesis/makine deyin, mutlu olsunlar yeter. Bentham'in itirazi gorup olcutle karsiladigi yer."
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Londra'da yeni bir hapishane yapımına 1794 tarihli yasayla izin verilmişti ve Bentham'ın planı önce Pitt yönetiminin desteğini aldı; yıllarca kendi parasını harcadı, 1802'de yenilgiyi kabul etti ve 1812'de hükûmet dosyayı kapatarak ona yirmi üç bin sterlin tazminat ödedi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1794 Penitentiary Act, Pitt destegi, 1802 yenilgi, 1812'de 23.000 sterlin tazminat — dordu de k5'te."
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Bentham hukuk kuramcısı olarak yola çıktı ve ilk hedefi hukuk dilindeki kurgulardı: bir şeyin bir yönünü o şeyden soyutlayarak ele almak karışıklık ya da düpedüz aldatma riski taşır, ve ilişki, hak, yetki ve zilyetlik gibi terimler kimi durumda işe yarasa da çoğu kez asıl dayanakları unutulduğu için önyargının veya dikkatsizliğin ürünü olarak ayakta kalmıştır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6: 'to consider any part or aspect of a thing in abstraction from that thing is to run the risk of confusion or to cause positive deceit. While, in some cases, such fictional terms as relation, right, power, and possession were of some use, in many cases their original warrant had been forgotten, so that they survived as the product of either prejudice or inattention.' KOR HAKEM: govde dort terimden 'possession'i dusurmustu, zilyetlik geri kondu."
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Hak ona göre yasal ve belirlidir; yasanın dışında olsa olsa böyle şeyler olmasını dilemek için bir gerekçedir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "IEP: haklar yasal ve belirlidir; yasanin disinda 'reasons for wishing there were such things as rights'."
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Bu tutum, bugün tartışmasında hukuki pozitivizm diye anılan çizginin erken bir biçimi sayılır; kaynak bu nitelemeyi kesin bir tespit olarak değil, savunulabilir bir yorum olarak koyar.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "IEP nitelemeyi 'arguably ... an early form of what is now often called legal positivism' diye koyar; cekince metne tasindi."
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Benjamin Constant, Bentham'ın özgünlüğünü takdir etmekle birlikte 1810 tarihli kitabında faydanın belirsizliğini sorun eder: kavram pek çok farklı tanıma açıktır ve bir siyaset ilkesi olarak tehlike taşır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Constant'in 1810 tarihli Principles of Politics'teki belirsizlik itirazi k5'te."
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Bir süre Bentham'ın kiracısı olan William Hazlitt onu, hücresinde hukuku dizgeye ve insan zihnini makineye indirgeyen bir münzevi diye yerdi; Thomas Carlyle aynı algıyı iki sözcükte topladı ve faydacılığı \"domuz felsefesi\" diye adlandırdı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hazlitt'in kiraciligi ve yergisi ile Carlyle'in 'pig-philosophy' nitelemesi k5'te."
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Marx ise faydacılığı yüzeysel ve geçici bir burjuva ideolojisi saydı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Marx'in faydaciligi yuzeysel ve gecici bir burjuva ideolojisi saymasi k5'te."
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "İtiraza göre toplam faydanın hesaplanması kişiler arasındaki ayrımı ciddiye almaz ve tek tek bireylerin çıkarlarını sürekli riske atar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kisiler arasindaki ayrimi ciddiye almama itirazi k5'te acikca formule edilir."
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "İtiraz T. H. Green'den bu yana sürüyor ve Rawls ile Nozick tarafından yeniden dile getirildi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Green'den Rawls ve Nozick'e uzanan itiraz zinciri k5'te adlariyla sayilir."
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Bentham'ın kendi metinlerinden verilebilecek bir cevabı vardır — birinin servetini başkalarınınkini artırmak için feda etmek iyiyse ikinciyi, üçüncüyü, yüzüncüyü, bininciyi feda etmek daha da iyi olurdu, çünkü kaç kişi feda edilmiş olursa olsun bir kişi daha eklemek için hep aynı gerekçe elde kalır; sonuçta ya herkesin çıkarı dokunulmazdır ya da hiç kimseninki diye yazmıştı — ama cevabın yeterli olup olmadığı hâlâ tartışılıyor.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k5: 'If it is a good thing to sacrifice the fortune of one individual to augment that of others, it will be yet better to sacrifice a second, a third, a hundred, a thousand ...; for whatever may be the number of those you have sacrificed, you will always have the same reason to add one more. In one word, the interest of everybody is sacred, or the interest of nobody.' KOR HAKEM: govde 'varligini' (belirsiz) yaziyor, kaynak 'fortune' diyor — servet yapildi; 'a thousand' ve pasajin asil kapanisi (herkesin cikari ya kutsaldir ya da hic kimseninki) eksikti, geri kondu. 'Cevabin yeterli olup olmadigi hala tartisiliyor' degerlendirmesi yazarindir; destek bu yuzden kismi."
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Birincisi, en büyük mutluluk formülünü Bentham'ın buluşu saymaktır; kendisi kaynağını başkalarına bağlar, bağlarken bile belleğine güvenilmeyeceğini kabul eder ve sonunda o ifade biçimini azınlığı feda etmeye kapı açtığı için kusurlu bulur.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "i011-i013'un ozeti; ayni kaynaga dayanir. KOR HAKEM: 'formulu terk eder' ifadesi k5'te yok, 'kusurlu bulur'a indirildi."
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "İkincisi, onu panoptikona indirgemektir: gözetim düzeneği, kendi metninde yöneticiyi de kapsayan bir kamuya açıklık düzeniyle birlikte gelir ve tasarımın mimari çekirdeği kardeşinindir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yanlis okuma 2: kamuya aciklik duzeni k5'te, mimari cekirdegin kardese ait olusu k4 ve k5'te."
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Üçüncüsü, Bentham ile Mill arasındaki mesafeyi olduğundan büyük göstermektir; Warke ve Rosen gibi son dönem yorumcular, yoğunluk ile saflığın ilkece hâlâ ölçülebilir nitelikler olduğunu ileri sürerek mesafenin sanıldığı kadar büyük olmadığını savundu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Warke 2000 ve Rosen 2003'un Bentham-Mill mesafesini kucultun okumasi k5'te adlariyla anilir."
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Bentham'ın cevabı, hesabın kendisinden çok hesabın açık yapılmasında düğümlenir; kendi projesinin başına gelenler de bu açıklığın ne kadar zor sağlandığını gösteriyor.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kamuya aciklik ve projenin akibeti k5'te; ikisini tek soruda birlestiren kapanis degerlendirmesi yazarindir."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 43,
+    "kismi": 3,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "Kor hakem: 10 iddia cumlesi govdeye oturtuldu; kaynakta olmayan yil/eser atfi (1829 Article on Utilitarianism), ters cevrilmis onsoz vaadi, uc liste kirpmasi ve iki kaynak cekincesi duzeltildi"
+    }
+  ]
+}

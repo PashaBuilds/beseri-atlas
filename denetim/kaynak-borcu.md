@@ -11,18 +11,18 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 505 |
-| Toplam künye | 2290 |
+| Ölçülen makale | 517 |
+| Toplam künye | 2387 |
 | Giriş kapısı kuralını aşan makale | 144 |
-| Birincil kaynağı olmayan makale | 172 |
-| Giriş kapısı künyesi payı | 26% |
+| Birincil kaynağı olmayan makale | 173 |
+| Giriş kapısı künyesi payı | 25% |
 
 ## Tipe göre borçlu makale
 
 | Tip | Borçlu |
 |---|---|
 | aktor | 61 |
-| kavram | 56 |
+| kavram | 57 |
 | olay | 52 |
 | kaynak | 28 |
 | dusunur | 16 |
@@ -214,6 +214,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `kavram-ikincil-kaynak` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-kamusal-alan` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-kanit-turu` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-konjonktur` | 7 | 1 | 0 | birincil kaynak yok |
 | `kavram-kuresellesme` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-longue-duree` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-mesruiyet` | 3 | 1 | 0 | birincil kaynak yok |

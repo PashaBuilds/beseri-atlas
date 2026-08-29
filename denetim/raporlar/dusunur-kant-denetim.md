@@ -1,5 +1,5 @@
 ## dusunur-kant
-_Geçiş 2 — kaynak denetimi · 2026-08-29T20:17:17.763Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T20:30:46.263Z_
 
 - [OK]      k2 → "Yazının parolası buradan gelir: "Sapere aude!" Suçun kime ait olduğu, cümlenin bütün ağırlığını taşır — vesaye…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k5 → "Bu hamlenin adı özerkliktir ve Kant'ın üç Eleştiri'sinin ortak fikri odur: insan anlama yetisi deneyimimizi ya…" — 1 atom doğrulandı; 1 ad ölçülemedi
@@ -34,10 +34,11 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T20:17:17.763Z_
 - [OK]      k6 → "Aynı düşünür, Avrupa dışındakileri çeşitli bakımlardan aşağı görüyordu ve dünya ilerlemesinin, Avrupa kültürü …"
 - [OK]      k1 → "Metin, uygar ulusların — özellikle kıtanın ticaret devletlerinin — konukseverliğe aykırı davranışını sayar: ya…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k8 → "Pauline Kleingeld'in 2007'de The Philosophical Quarterly'nin 57. cildinde 573-592 sayfaları arasında yayımlana…"
+- [OK]      k7 → "Pauline Kleingeld'in 2007'de The Philosophical Quarterly'nin 57. cildinde 573-592 sayfaları arasında yayımlana…"
 - [OK]      k7 → "Kleingeld, Kant'ın ırk hiyerarşisine dair görüşlerinin Ebedî Barış'ın 1795'teki yayımından önce değiştiğini, o…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k7 → "Savını iki uç arasına yerleştirir: bir yanda Kant'ın ırkçılığının ahlak kuramını evrensel olmaktan çıkardığını…"
 - [OK]      k7 → "Huaping Lu-Adler'e göre Kleingeld'in makalesi alanda "narrative-shaping effect on the field" yaratmıştır ve bu…"
-- [OK]      k7 → "Alanın kendi bölünmesi de adlarıyla kayıtlıdır: Eze, Mills ve Bernasconi eleştirel kanadı; Louden, Hill ile Bo…"
+- [OK]      k7 → "Alanın bölünmesi de adlarıyla kayıtlıdır; kaynak bu iki kanatlı ayrımı Lu-Adler'i izleyerek ve tüketici olmadı…"
 - [OK]      k6 → "Kaynağın kendi ifadesi de temkinlidir: 1790'ların ortasına gelindiğinde Kant'ın ırksal aşağılığa dair inançlar…"
 - [OK]      k9 → "Johann Gottfried Herder, Königsberg'de Kant'ın öğrencisiydi ve olağandışı yeteneği nedeniyle hocasından ayrıca…" — 5 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k9 → "Herder'in özsel itirazı ahlak kuramınadır: ahlak temelde bilgi değil duygu meselesidir; Platon'un, eleştirel d…"
@@ -46,9 +47,10 @@ _Geçiş 2 — kaynak denetimi · 2026-08-29T20:17:17.763Z_
 - [OK]      k6 → "Doyle 1983'te birinci kesin maddedeki rıza savını Kant'ın barışa dair temel görüşü saydı ve liberal demokrasil…"
 - [OK]      k1 → "Ama Kant'ın metni demokrasiyi övmez: egemenliğin biçimi (otokrasi, aristokrasi, demokrasi) ile yönetimin biçim…"
 - [ATOMSUZ] k1 → "Kant'ın istediği şey oy hakkının genişliği değil, yasama ile yürütmenin ayrılmasıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k6 → "Nitekim hukuk öğretisinde tam yurttaşlığı kadınlara, çocuklara ve kendi efendisi olmayanlara tanımaz; onları e…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "İkincisi, federasyon maddesinin bir dünya hükümeti tasarısı gibi okunmasıdır; metin dünya cumhuriyetini açıkça…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Kant devrimin kişisel despotizmi ve açgözlü baskıyı sona erdirebileceğini ama düşünme biçiminde gerçek bir ref…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k6 → "Biri uluslararası hukukun temeli tartışmasıdır: kozmopolit hukuk ebedî barışın kurucu bileşenidir ve halklar b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k7 → "Öteki, felsefenin kendi kanonuyla hesaplaşmasıdır: 1775 tarihli ırk kuramının evrensellik savıyla ilişkisi, ha…"
 
-**Özet:** 21 OK · 0 ISARET · 0 HATA · 28 ATOMSUZ
+**Özet:** 22 OK · 0 ISARET · 0 HATA · 29 ATOMSUZ

@@ -1,21 +1,57 @@
 {
   "id": "dusunur-kant",
   "gecis": 3,
-  "zaman": "2026-08-21T08:56:39.052Z",
+  "zaman": "2026-08-29T20:39:42.349Z",
+  "govde_hash": "836ee3c2e775",
   "itirazlar": [
     {
-      "ciddiyet": "dusuk",
-      "tip": "ustunluk-iddiasi",
-      "cumle": "Bir külliyatın tek bir kavrama indirgenmesi,[^k1] kaynağın kendi özetleme kararıdır; atlas bu özeti bir olgu olarak değil, kaynağın yorumu olarak taşır.",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
-      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "*Ebedî Barış* 1795'te, bir barış antlaşmasının biçimini taklit ederek yazıldı. Ön maddeler yasaklar sıralar: gelecek bir savaşın malzemesini gizli kayıtla saklayan hiçbir barış ant",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Kesin maddeler üçtür: her devletin sivil anayasası cumhuriyetçi olacaktır; devletler hukuku özgür devletlerin federasyonu üzerine kurulacaktır; dünya yurttaşları olarak insanların ",
+      "sorun": "Makale avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Kant, 1775'te yayımlanıp 1777'de gözden geçirdiği *İnsanın Farklı Irkları Üzerine* denemesinde tekköken savını güçlü biçimde savundu: bütün insanlar Avrupa'da bulunan ortak bir soy",
+      "sorun": "Makale avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": ":::tartismali[Evrensel bir ahlak yasası kuran külliyatın aynı zamanda insanlığı dört ırka bölen bir sınıflandırma üretmesi, Aydınlanma'nın evrenselliği tartışmasının en çok sınanan",
+      "sorun": "Makale avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
     },
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Üç ayrı alanın tek bir temele bağlanması,[^k1] bir kuramın iddia yapısını gösterir; atlas bu yapıyı doğru ya da yanlış saymaz, aktarır.",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "cumle": "Siyasal itiraz Kant'ın kendi sisteminin içinden gelir. Kant devrim hakkını tanımaz: egemenlik paylaşılamaz, devletle halk arasında bir uyuşmazlık çıksa kimin haklı olduğuna karar v",
+      "sorun": "\"en fazla\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "İkincisi, federasyon maddesinin bir dünya hükümeti tasarısı gibi okunmasıdır; metin dünya cumhuriyetini açıkça bir kenara koyar ve savaşı önleyen federasyonu onun olumsuz ikamesi o",
+      "sorun": "Makale avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Kant bugün en çok iki tartışmada anılıyor. Biri uluslararası hukukun temeli tartışmasıdır: kozmopolit hukuk ebedî barışın kurucu bileşenidir ve halklar birbirine bağlandıkça, yeryü",
+      "sorun": "Makale avrupa kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
     }
   ]
 }

@@ -1,0 +1,335 @@
+{
+  "id": "kavram-ideoloji",
+  "govde_hash": "1aa2c517258a",
+  "commit": "7ed5c28",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Antoine Destutt de Tracy 1796'da yeni bir bilime ad önerdi: idéologie, yani fikirler bilimi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Aynı sözcük, Napoléon'un muhaliflerini ideolog diye adlandırıp damgalamasıyla bir hakarete dönüştü; Karl Mannheim'ın kavramın anlam kaymalarını yeniden kurgulayışına göre sözcüğün modern anlamı tam da orada, bir küçümsemenin içinde doğdu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ilk yazimda On yil gecmeden ibaresi vardi; k1 Napoleon'un kullanimina hicbir tarih vermez, kaynakta olmayan zaman araligi kaldirildi. Kalan cumle kaynagin kendi ifadesini ve Mannheim aktarim halkasini birebir tasiyor."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Bugün ideoloji tek bir kavram değil, aynı adı taşıyan üç ayrı işlemdir: fikirlerin nasıl oluştuğunu araştıran bir bilim tasarısı; fikirleri sahiplerinin toplumsal konumuna bağlayarak sınayan eleştirel bir işlem; ve siyasal inanç kümelerini betimleyip sınıflandıran bir terim.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak uc anlami ayri ayri kaydeder (fikirler bilimi, elestirel kullanim, siyasal inanc kumelerinin betimlenmesi); bunlari tek cumlede uc ayri ISLEM diye toplamak yazarin sentezidir, kaynakta bu bicimde yazmaz."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Kendi metninde konuyu asıl anlamıyla idéologie diye anar, fikirler biliminin yalnızca fikirlerin ifadesine ve çıkarımına ilişkin bölümüyle yetinmek zorunda kaldığını, çünkü insan zihninin eksiksiz bir tarihini yazmayı amaçlamadığını yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Kaynak, tasarının bir siyasal programa da bağlı olduğunu kaydeder: bireysel özgürlüğü, mülkiyeti, serbest piyasaları ve devlet gücüne anayasal sınırlar konmasını savunan bir felsefe.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Sözcüğün en genel terim sayılmasının nedeni de budur — fikirler bilimi, fikirlerin ifadesini ve çıkarımını da içine alır.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Sözcüğün ikinci hayatı, 1845'te yazılan ama tamamı ancak 1932'de basılan Alman İdeolojisi elyazmasında başlar.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "1932 tarihi k1 kaynakcasindaki [1845-46] 1932 kaydindan gelir; k3 yalnizca eserin 1845 tarihini tasir, basim yilini tasimaz."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "ideolojide insanlar ve ilişkileri, bir camera obscura'daki gibi baş aşağı görünür; bu görünüm, nesnelerin gözün ağ tabakasında ters düşmesinin fiziksel yaşam sürecinden doğması gibi, tarihsel yaşam sürecinden doğar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ilk yazim kaynagin tarihsel ve fiziksel yasam sureci ayrimini tek bir gercek yasam sureci ifadesine indirmisti; kaynagin kendi ayrimi geri konuldu."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "İkinci adım toplumsal konumu işin içine katar: her çağda egemen fikirler egemen sınıfın fikirleridir, çünkü maddi üretim araçlarını elinde tutan sınıf aynı anda zihinsel üretim araçlarını da denetler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Bugün Marx'a mal edilen yanlış bilinç formülü, elyazmasında değil, Engels'in Marx'ın ölümünden on yıl sonra, 14 Temmuz 1893'te Franz Mehring'e yazdığı mektupta geçer.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Engels orada ideolojiyi, düşünürün bilinçli olarak ama yanlış bir bilinçle yürüttüğü bir süreç diye tanımlar: kendisini iten gerçek nedenler ona kapalı kalır, kapalı kalmasaydı süreç zaten ideolojik olmazdı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Mektubun tarihi kavramın kendi tarihi açısından da anlamlıdır: formül, dayandırıldığı elyazması basılmadan otuz dokuz yıl önce, bir yazışmada dile gelmiştir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Otuz dokuz yillik ara iki kunyedeki tarihlerden (1893 mektup, 1932 basim) hesaplandi; hicbir kaynak bu araligi kendisi kurmuyor."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Mannheim, Marksist geleneğin tikel ve bütünsel ideoloji anlayışından, Marksizmin kendisi de dahil her ideolojinin toplumsal hayattan doğduğunu kabul eden genel ve bütünsel bir anlayışa geçer; bu çizgi sonradan Pierre Bourdieu'de geliştirilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynagin kendi ifadesi tikel/butunsel ayrimini tirnak icinde verir; Turkce karsiliklar yazara aittir."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Kavramı İngilizce okura tanıtan Ideology and Utopia (1936) tek bir kitabın çevirisi bile değildir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ilk yazim kavramin akademik bir terim haline gelmesini saglayan diyordu; hicbir kaynak bu etki iddiasini tasimiyor, cumle kaynagin tasidigina indirildi (I. kisim Ingilizce okuru icin yazilmistir; yayin yili 1936). Ceviri bile degildir hukmu katalog kaydindan cikarilan yorumdur, bu yuzden kismi."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "kısımları Ideologie und Utopie'yi karşılar, V. kısım Alfred Vierkandt'ın sosyoloji sözlüğü için yazılmış Wissenssoziologie maddesidir, I. kısım ise özellikle İngilizce okur için kaleme alınmıştır; çeviri Louis Wirth ile Edward Shils'e aittir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Eleştirel kuramcıların çoğu için ideoloji yalnızca yanlış bilinç değil, toplumsal pratiklere ve kimliklere gömülü bir şeydir; buna karşın işlemin kendisi aşırı bilişselci olmakla, alışkanlık hâline gelmiş tutumların ve kültürel pratiklerin payını hafife almakla, doğru bilinç ile çarpıtılmış bilinç arasında fazla keskin bir ayrıma yaslanmakla ve idealleştirilmiş bir özne tasavvuru varsaymakla eleştirildi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Michel Foucault ile Bourdieu bunun yerine iktidar-bilgi ve simgesel iktidar kavramlarını koydu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Yukarıdaki iki birincil metin de bunu desteklemez: biri ters görünmeyi bir yaşam sürecine bağlar, öteki kusuru kendi güdüsünü tanımamaya yerleştirir.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki birincil metin de ideoloji yalan degildir cumlesini kurmaz; metinlerin kurdugu sey ters gorunmenin yasam surecinden dogmasi ve gudunun bilinmemesidir. Cikarim yazara aittir, bu yuzden kismi."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Daniel Bell'in kitabı adını ve alt başlığını bu savdan alır — siyasal fikirlerin ellili yıllarda tükenmesi — ve açık erişimde bulunan nüsha 1962 baskısıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Üçüncü katman, sözcüğün siyaset bilimindeki betimleyici kullanımıdır: orada ideoloji, siyasal inanç dizgelerini adlandıran bir terimdir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem ekledi: acilis paragrafi uc anlam vaat ediyordu ama ucuncusunun (betimleyici siyaset bilimi terimi) govdede karsiligi yoktu."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "van Dijk'in saptamasına göre sözcüğün gündelik kullanımı büyük ölçüde olumsuzdur ve tipik olarak başkalarının katı ya da yanlı fikirlerini anar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Aktarim halkasi metinde acik: kaynak bu saptamayi van Dijk'ten aktarir, govde de oyle yazar."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 17,
+    "kismi": 4,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "Kor hakem: 4 cumle kaynaga gore duzeltildi (kaynakta olmayan zaman araligi, kaynagin kendi ayriminin dusurulmesi, desteksiz etki iddiasi), 2 yeni iddia eklendi (bos kalan ucuncu anlam + dipnotsuz kapanis paragrafi)"
+    }
+  ]
+}

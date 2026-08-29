@@ -1,9 +1,9 @@
 {
   "id": "olay-latin-amerika-bagimsizligi",
   "gecis": 2,
-  "zaman": "2026-08-29T20:03:03.271Z",
-  "govde_hash": "802de104f567",
-  "commit": "5373c66",
+  "zaman": "2026-08-29T21:05:42.981Z",
+  "govde_hash": "0161a868db7e",
+  "commit": "92d1168",
   "sonuclar": [
     {
       "anahtar": "k9",
@@ -19,13 +19,13 @@
     },
     {
       "anahtar": "k9",
-      "iddia": "Aynı kaynak bu tetikleyicinin önüne uzun soluklu bir bağlam zinciri koyar: denetimli bağımsızlık önerileri, idari ve iktisadi reformlar, askerî yeniden yapıland",
+      "iddia": "Aynı kaynak tetikleyicinin önüne uzun bir bağlam zinciri koyar: denetimli bağımsızlık önerileri, idari ve iktisadi reformlar, askerî yeniden yapılandırma, Aydın",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): Aydınlanma"
     },
     {
       "anahtar": "k9",
-      "iddia": "Boşluğun ilk yanıtı bağımsızlık değildi: bazı büyük kentler ve başkentler, İspanyol geleneğinin hukukuna dayanarak yerel yönetim kurulları kurdu; 1809'da Chuqui",
+      "iddia": "Boşluğun ilk yanıtı bağımsızlık değildi: bazı büyük kentler İspanyol geleneğinin hukukuna dayanarak yerel yönetim kurulları kurdu; 1809'da Chuquisaca, La Paz ve",
       "durum": "OK",
       "not": ""
     },
@@ -61,9 +61,39 @@
     },
     {
       "anahtar": "k5",
+      "iddia": "Yayıncı özeti Jaime E. Rodríguez'in kitabını, 1812 Anayasası'nın getirdiği temsilî yönetimi ve halk seçimlerini inceleyen ilk kitap diye tanıtır — niteleme yaza",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
       "iddia": "Kitabın savı özette şöyle verilir: bağımsızlık, birçok araştırmacının ileri sürdüğünün aksine sömürgecilik karşıtı bir hareket oluşturmamış, daha geniş bir İspa",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Kingston'dan 6 Eylül 1815'te yazdığı mektup Angostura'dan dört yıl öncedir; Amerikalıları \"ülkenin meşru sahipleri ile İspanyol gaspçılar arasında bir ara tür\" ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Hemen öncesinde barış, bilim, sanat, ticaret ve tarım isteyen Amerikalıların krallıklara cumhuriyetleri yeğleyeceğini yazmıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Yeni Dünya'nın tamamından tek bir ulus kurmayı görkemli bir fikir sayar, ama uzak iklimler ve karşıt çıkarlar yüzünden bunun mümkün olmadığını ekler.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Dünya"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dört yıl sonra Angostura'da Britanya anayasasının incelenmesini önerecek ve kalıtsal bir senato isteyecektir.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k1",
@@ -73,15 +103,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Kendi ifadesiyle bu bir konum değil bir ikilemdir; \"ne Avrupalıyız, ne de Yerliyiz\" cümlesi, sonraki bütün anayasa tartışmasının öncülüdür.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Avrupalıyız, Yerliyiz"
-    },
-    {
-      "anahtar": "k1",
       "iddia": "Kuzey Amerika'yı över, ama federal sistemin zayıf ve karmaşık olduğunu, o halkı bu kadar güç koşullarda yönetebilmiş olmasının bir olağanüstülük sayılması gerek",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
@@ -109,19 +133,13 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "İngilizce metin, kongrenin yüzüncü yılında Venezuela hükümetinin emriyle bastırılmış bir anma cildidir; söylevin önündeki sunuş Bolívar'ın değil 1919'daki editö",
+      "iddia": "Elimizdeki İngilizce metin, kongrenin yüzüncü yılında Venezuela hükümetinin bastırdığı bir anma cildidir; söylevin önündeki sunuş Bolívar'ın değil 1919 editörle",
       "durum": "OK",
-      "not": ""
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k9",
       "iddia": "Kaynak, Amerika'daki birliklerin her iki tarafta da neredeyse tamamının bölgeden devşirildiğini; yerli topluluklara ayrım gözetmeksizin asker toplandığını; yerl",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k9",
-      "iddia": "Esir düşenler karşı tarafın ordusuna katılıyordu; Avrupa kökenli kreol ileri gelenleri bölgelerinin ticari çıkarına göre kralcı ya da bağımsızlıkçı safa geçebil",
       "durum": "OK",
       "not": ""
     },
@@ -138,12 +156,6 @@
       "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k6",
-      "iddia": "Haiti burada aynı anda iki şeydir: dili ödünç alınan bir örnek ve Tacın istikrarsızlaştırıcı, fitneci ve son derece tehlikeli saydığı bir tehdit.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Tacın"
-    },
-    {
       "anahtar": "k9",
       "iddia": "Kaynağın bilgi kutusu toplam bir milyon ölü verir ve bunu ikiye böler: Yeni İspanya'da 600.000, Yeni Granada'da 400.000.",
       "durum": "OK",
@@ -156,16 +168,16 @@
       "not": "7 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
+      "anahtar": "k10",
+      "iddia": "Dönemin içinden gelen bir tahmin karşılaştırma imkânı verir: Bolívar 1815'te Venezuela'da bir milyona yakın nüfus sayıldığını yazar ve abartmasız söylenebileceğ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
       "anahtar": "k9",
       "iddia": "Ayacucho'da birliklerin yüzde yirmisinden azının İspanyol olduğu ve bu savaşlarda ölen nativos sayısının yaklaşık 35.000 olduğu bilgisi, maddenin dipnotunda akt",
       "durum": "OK",
       "not": "6 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k9",
-      "iddia": "Aynı alıntı, bağımsızlık savaşları döneminde İbero-Amerika'da 50.000'den az İspanyol askeri bulunduğunu, bunların 20.000'inin Küba'dan hiç çıkmadığını ve savaşl",
-      "durum": "OK",
-      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k9",
@@ -175,9 +187,21 @@
     },
     {
       "anahtar": "k9",
-      "iddia": "ABD 1822'de Şili'yi, Río de la Plata Birleşik Eyaletleri'ni, Peru'yu, Gran Kolombiya'yı ve Meksika'yı tanıdı; Britanya 1825'e, yani Ayacucho Muharebesi'nden son",
+      "iddia": "Ansiklopedi maddesi ABD'nin 1822'de Şili'yi, Río de la Plata Birleşik Eyaletleri'ni, Peru'yu, Gran Kolombiya'yı ve Meksika'yı tanıdığını, Britanya'nın ise 1825'",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Dışişleri Bakanlığı Tarihçi Ofisi'nin ülke ülke tuttuğu resmî kayıt bu tarihleri dağıtır: Kolombiya 19 Haziran 1822'de, Başkan James Monroe'nun Manuel Torres'i ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k13",
+      "iddia": "Dışişleri Bakanlığı Tarihçi Ofisi'nin ülke ülke tuttuğu resmî kayıt bu tarihleri dağıtır: Kolombiya 19 Haziran 1822'de, Başkan James Monroe'nun Manuel Torres'i ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
@@ -217,9 +241,9 @@
     },
     {
       "anahtar": "k7",
-      "iddia": "Aynı okumaya göre siyasi kopuş iki aşamada gerçekleşti: önce bir liberal devrim, ardından anayasal bir çatışma; mali krizin Avrupa'daki ve Güney Amerika'daki fa",
-      "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "iddia": "Aynı okumaya göre siyasi kopuş iki aşamada gerçekleşti: önce bir liberal devrim, ardından anayasal bir çatışma.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k8",
@@ -229,15 +253,15 @@
     },
     {
       "anahtar": "k8",
-      "iddia": "Çalışmanın kendi girişi, Atlantik köle ticaretinin on altıncı yüzyılın başından on dokuzuncunun başına kadar üç yüz yıl boyunca yasal olarak ve sürekli büyüyen ",
+      "iddia": "Çalışmanın kendi girişi, 25 Mart 1807'de, parlamento içinde ve dışında uzun bir mücadelenin ardından, İngiliz uyruklarının 1 Mayıs 1808'den sonra köle ticareti ",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
     },
     {
       "anahtar": "k9",
       "iddia": "Yeni cumhuriyetler Engizisyon'un biçimsel düzenini ve soyluluk unvanlarını kaldırdı; ama bu ülkelerin çoğunda kölelik hemen kaldırılmadı ve tam kaldırma Latin A",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k9",
@@ -246,16 +270,28 @@
       "not": ""
     },
     {
+      "anahtar": "k11",
+      "iddia": "Kolombiya Cumhuriyeti'nin 30 Ağustos 1821'de Cúcuta'da imzalanan anayasası, ulusun ödevini yurttaşların özgürlüğünü, güvenliğini, mülkiyetini ve eşitliğini bilg",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Oy hakkını 15. madde doğrudan mülke bağlar ve okuryazarlık şartını 1840'a kadar askıya alır: mahalle seçmeni olmak için serbest değeri yüz pesoyu bulan bir gayr",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k14",
+      "iddia": "Jennie Purnell, Meksika'da yerli topluluklarının elindeki ortak toprakların özelleştirilmesini emreden on dokuzuncu yüzyıl liberal yasalarına karşı halk muhalef",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
       "anahtar": "k5",
       "iddia": "Rodríguez'in okuması bu tabloyla uyumludur: kitlelerin ciddi katılımına rağmen bağımsızlık mücadelesi kreollerin, yani Yeni Dünya burjuvazisinin zaferiyle sonuç",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k5",
-      "iddia": "Rakip okuma, onun birçok araştırmacıya atfettiği sömürgecilik karşıtı yorumdur; Rodríguez bunu reddeder, ama reddettiği okumanın hâlâ ayakta olduğu da onun kend",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
@@ -271,12 +307,18 @@
     },
     {
       "anahtar": "k9",
-      "iddia": "Veracruz, Callao ve Chiloé'deki İspanyol kıyı istihkâmları 1825-1826'ya kadar dayandı; izleyen on yılda kralcı gerillalar birçok ülkede faaliyetini sürdürdü, 18",
+      "iddia": "Veracruz, Callao ve Chiloé'deki İspanyol kıyı istihkâmları 1825-1826'ya kadar dayandı; izleyen on yılda kralcı gerillalar birçok ülkede faaliyetini sürdürdü; 18",
       "durum": "OK",
-      "not": "8 atom doğrulandı; 1 ad ölçülemedi"
+      "not": "7 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k9",
+      "iddia": "Küba ile Porto Riko 1898'e kadar İspanyol yönetiminde kaldı; yani Monroe'nun mevcut sömürgeleri dışarıda bırakan kaydı, bu iki ada için uzun süre geçerliliğini ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k15",
       "iddia": "Küba ile Porto Riko 1898'e kadar İspanyol yönetiminde kaldı; yani Monroe'nun mevcut sömürgeleri dışarıda bırakan kaydı, bu iki ada için uzun süre geçerliliğini ",
       "durum": "OK",
       "not": "4 atom doğrulandı; 1 ad ölçülemedi"

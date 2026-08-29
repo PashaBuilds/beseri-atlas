@@ -1,0 +1,575 @@
+{
+  "id": "dusunur-braudel",
+  "govde_hash": "a6f22671ff34",
+  "commit": "c0d6846",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "1958'de Annales'de çıkan yazısını insan bilimlerinde genel bir bunalım saptayarak açtı: bilimler kendi ilerlemeleri altında eziliyor, yeni bilgi yığılıyor, örgütlenmesi hâlâ kurulamamış bir ortak çalışma zorunluluğu hepsini sarsıyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Braudelin kendi yazisinin ilk sayfasindan; acilis cumlesi insan bilimlerinde genel bir bunalim saptar. SINIR: Persee yalnizca s. 725i acik veriyor, iddia o sayfayla sinirlidir."
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Richard E. Lee'nin özetlediği gibi aynı yazıda Braudel zamanı, basit bir kronoloji ölçüsü olmaktan çıkarıp toplumsal bir kurgu olarak yeniden tanımlar ve 1958'de bunu sosyal bilimlerin birbirine yaklaşması için bir çağrıya bağlar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM: k7 bir api.crossref.org ustveri kaydidir; iddia Braudelin 1958 yazisinin ICERIGI hakkindadir ve yalnizca kaydin abstract alanindan okunur. Havuz kurali geregi destek dogrudandan KISMIye indirildi ve gövdede Leenin okumasi olarak adiyla cerceve verildi. Abstract birebir tasiyor: time as a social construct, rather than a simple chronological parameter / a plea for their rapprochement."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Yapının da konjonktürün de farklı türleri olduğunu, ikisinin de süresinin değişebileceğini Braudel'in kendisi yazar; tarih, bir zaman düzleminden ötekine dikey uzanan çok boyutlu açıklamaları kabul eder ve her düzlemde ayrıca yatay ilişkiler bulunur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tomichin dipnotunda Braudelin Akdeniz cevirisinden birebir aktarilan pasaj; yapinin ve konjonkturun turlerinin ve surelerinin degiskenligi ile dikey/yatay iliskiler oradan alindi. Aktarim Ingilizce ceviridendir, Fransizca aslindan degil."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Orada tarih, Braudel'in deyişiyle ağır çekimde ilerler; coğrafya da kendi başına bir amaç olmaktan çıkıp yapısal gerçekliklerin yavaş açılışını görmenin aracına dönüşür.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni kaynagin dipnotundaki Akdeniz alintisi: agir cekimde tarih ve cografyanin kendi basina amac olmaktan cikmasi. Ingilizce ceviri uzerinden okundu."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "En üstte ise adı olan bireylerin tarihi vardır: Braudel için bu üçüncü katman yüzeylerin ve aldatıcı etkilerin zamanıdır, courte durée'nin asıl alanıdır ve 'in üçüncü bölümünün konusudur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Giris kapisi kaynagi. Ucuncu katmanin tanimi ve Akdenizin ucuncu bolumune baglanmasi maddede birebir duruyor; ama bu bir ansiklopedi ozeti, Braudelin metni degil."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Bu derin katmanda çalışmanın adı longue durée (uzun süre), en üstteki katmanın adı ise Braudel'in sözlüğünde olay tarihidir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Terim adlari ayni maddeden. longue duree ve histoire evenementielle karsiliklari kilitli terim sozlugune uygun verildi."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Akdeniz, Braudel'de denizin yanı sıra çöl ve dağlardır: çöl, bütün topluluğun birlikte yer değiştirdiği göçebe bir örgütlenme biçimi doğurur, dağ yaşamı ise yerleşiktir, ve mevsime göre dağdan ovaya inip çıkma Akdeniz varoluşunun kalıcı bir parçasıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Col/dag/mevsimlik hareket ayrimi maddede birebir var. Bunun Braudelin savi mi yoksa maddenin ozeti mi oldugu ayrimi metinde korundu."
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Tarih ile sosyal bilimler arasındaki hesaplaşma yinelenen bir temadır ve tarihe iki büyük meydan okuma yöneltilmiştir: ilki 1903'te Durkheimci toplumbilimci F. Simiand'ın Revue de synthèse historique'te yayımladığı sert suçlamadır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dossenin ilk sayfasi 1903, Simiand ve derginin adini birebir veriyor."
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Febvre ile Bloch buna 1929'da Strasbourg'da Annales d'histoire économique et sociale'i kurarak karşılık verdi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni sayfada 1929, Strasbourg, Febvre ve Bloch birebir geciyor."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "İkinci meydan okuma savaş sonrasında geldi: Lévi-Strauss 1949 tarihli \"Histoire et Ethnologie\" yazısında, komşu bilimlerin yenilenme çağrılarına rağmen tarihin kendi mütevazı programına bağlı kaldığını saptadı; Braudel'in 1958 yazısı, Anthropologie structurale'in çıktığı yıl buna verilmiş bir manifesto-makaledir ve dergi 1960'ta Simiand'ın metnini yeniden bastı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1949 Levi-Strauss yazisi, 1958 manifesto-makale nitelemesi ve 1960ta Simiandin yeniden basilmasi Dossenin ilk sayfasinda birebir duruyor. Manifesto-makale nitelemesi Dossenindir, burada onun konumu olarak verildi."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Yazının basıldığı yer de savın niteliğini gösterir: metin, derginin tartışmalara ve hesaplaşmalara ayrılmış bölümünde çıktı ve daha ilk sayfada Lévi-Strauss'un Anthropologie structurale'ine, kitabın 829. sayfasına gönderme yapan bir dipnot taşıyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Persee sayfasindaki bolum basligi (tartisma ve hesaplasmalar bolumu) ve ilk dipnottaki 829. sayfa gondermesi birebir goruluyor."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Yazdığına göre Lévi-Strauss yapısal antropolojiyi dilbilimin yordamlarına, bilinçsiz tarihin ufuklarına ve nitel matematiğin genç emperyalizmine doğru itmektedir; sınır kavgalarını da hafife almaz, çünkü her disiplin aslında kendi evinde kalmayı ya da evine dönmeyi düşlemektedir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Braudelin kendi cumlelerinin aktarimi; dilbilim, bilincsiz tarih ve nitel matematik ucusu ile sinir kavgalari ayni sayfada. HAKEM: kaynak 'de rester ou de retourner chez elle' diyor; gövde yalniz 'donmeyi' yaziyordu, alintinin ikili yapisi geri konuldu."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Braudel'e göre Lévi-Strauss antropoloji, siyasal iktisat ve dilbilimi tek bir iletişim bilimi adı altında bağlayacak bir bilime doğru eğilim gösterir; sorun, bu sınır aşımlarına ve yeniden gruplaşmalara kimin hazır olduğudur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iletisim bilimi formulu ve kimin hazir oldugu sorusu ayni sayfada birebir."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Braudel bir de uyarı düşer: kavgalar sürerse coğrafyanın kendisi bile tarihten boşanabilir.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cografyanin tarihten bosanmasi Braudelin ironik cumlesidir; OCR metninde kesme isaretleri duzensiz, anlam korunarak aktarildi."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "1940'ta Vosges'te esir düştü; önce Neuf-Brisach'taki kampta, ardından Mainz'daki kalede tutuldu, orada kamp üniversitesinin rektörü oldu ve kent kütüphanesinden kitap ve dergi ödünç alma hakkı kazandı; 1942'de Direniş bağlantısından kuşkulanıldığı için Lübeck yakınındaki özel kategori kampına aktarıldı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "HAKEM DUZELTMESI: govde 'once Mainzdaki kalede tutuldu' diyordu; kaynak acikca 'initially held at a prisoner-of-war camp in Neuf-Brisach and then in the Oflag XII-B in the citadel of Mainz' diyor. Ilk kamp geri konuldu, 1942 nakli icin kaynagin verdigi gerekce (Gaullist/Direnis kuskusu) eklendi."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Kitabı, yani Akdeniz'i, Braudel kendi kitaplarına ve notlarına erişmeden belleğine yaslanarak yazdı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Notlarina erisemeden bellege yaslanma bilgisi ayni maddeden."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Kendi anlatımına göre Braudel'in uzun süreli bakışı, kaygı verici savaş haberlerine dolaysız ve varoluşsal bir tepkiydi: sığınak olarak Tanrı Baba'nın konumunu seçmiş, siyasal olayların geçiciliğine karşı Akdeniz'in kalıcılığını ve görkemli kımıltısızlığını öne sürmüştü.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Braudelin kendi anlatimi olarak maddede aktarilir. Kavramin dogus oykusunun savi ne dogruladigi ne curuttugu metinde ayrica soylendi."
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Kitabın İngilizce çevirisi ikinci gözden geçirilmiş baskıdan yapıldı ve 1972'de Londra'da Collins'ten iki cilt hâlinde çıktı; kütüphane kaydı onu konu başlığı olarak beşerî coğrafyaya bağlar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Internet Archive katalog kaydi: 1972, London Collins, iki cilt, ikinci gozden gecirilmis baskidan ceviri ve Human geography konu basligi. Katalogtur, icerik iddiasi tasimaz."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "bir dönemlendirme adı değil bir araştırma aracıdır ve pratikte seri tarih yoluyla işledi: Braudel'in meslektaşı Ernest Labrousse'un çalışması, yapısal süreleri yeniden kurmanın yolu olarak seri tarihin kuramsal ve yöntemsel varsayımlarını taşır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tomichin ozeti seri tarihi ve Labroussenin rolunu birebir soyler."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Richard E. Lee'nin okumasında tarihsel toplumsal sistemler, başlangıcı ve sonu olan tekil uzun süre yapıları olarak ortaya çıkar; bu yapıların yeniden üretimi seküler eğilimler ve döngüsel ritimler sergiler; süreçler sistemin çelişkilerini aşmakta asimptotlara çarptığında sistem varlığını yitirir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Leenin dunya sistemi okumasi; yazarin konumu olarak adiyla verildi, olgu gibi degil. HAKEM: k7 ustveri kaydidir, iddia makalenin BULGUSU hakkindadir ve yalnizca abstract duzeyinde okunur — destek dogrudandan KISMIye indirildi."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Braudel, Avrupa'da on ikinci yüzyılda gelişmeye başladığını gördüğü uzun vadeli kapitalist döngülerden söz eder ve merkezleri sırayla birbirini izleyen kentler ile ulus devletlerde arar: on üçüncü yüzyıldan on beşinci yüzyıla Venedik, on altıncı yüzyılda Anvers ile Cenova, ardından Amsterdam, sonra da 1733-1896 arasında Londra ve İngiltere.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Dongu merkezleri ve tarihleri giris kapisi maddesinde birebir. Madde Venedik icin 1250-1510, Londra icin 1733-1896 verir; metne yalniz ikincisi rakamla alindi."
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Bu konum onu hem liberal hem Marksçı yorumdan ayırır ve kapitalist ülkelerde devleti rekabetin koruyucusu değil tekelcilerin güvencesi sayar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tekelci kapitalist ve devletin rolu savi maddede birebir; Braudelin konumu olarak aktarildi."
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "J. H. Elliott, ilk kitabı üzerine yazdığı değerlendirmede Braudel'in Akdeniz'ini insan denetimine kapalı bir dünya saydı ve itirazı tek satıra indirdi: dağlar insanları kımıldatır, \"but never his men the mountains\". Bu satır burada değerlendirmenin kendisinden değil, onu aktaran derleme kaynaktan okunmuştur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Elliottun degerlendirmesi maddede kendi dipnotuyla aktarilir. HAKEM: aktarim halkasi govdede gorunur kilindi — degerlendirmenin kendisine erisilmedi, satir derleme kaynaktan okundu."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Aynı kayıt, insan kararları yerine nesnel açıklamaları yeğlemenin tartışmalı sonuçlara götürebildiğini de ekler; örnek olarak on beşinci yüzyıl dönümünde Yahudilerin İspanya, Portekiz ve Sicilya'dan sürülmesinin başlıca nedeni diye aşırı nüfusun gösterilmesini verir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "HAKEM: kaynakta bu cumle Elliottun degil derlemenin kendi degerlendirmesidir (dipnot Elliotta gider ama ifade derlemeye aittir); govdedeki 'ayni degerlendirme' ifadesi 'ayni kayit' olarak duzeltildi. Kaynagin verdigi 'at the turn of the fifteenth century' tarihi de geri konuldu."
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Braudel'in yapıları — hem zihinsel hem çevresel olanlar — olayların uzun vadeli seyrini, insanlara ve insanlar eliyle yapılan eylemleri, failin bilincinin ötesine geçecek kadar uzun bir süre boyunca kısıtlayarak belirler; Annales tarihçileri de tarihin bilinçli failin, özellikle devrimcinin iradesinin erişemeyeceği bir yerde durduğunu savundu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yapilarin faili bilincinin otesinden kisitlamasi ve Annales tarihcilerinin konumu maddede birebir. HAKEM: paragrafin cerceve cumlesi, curutucunun tek-kaynakli-nedensellik itirazi uzerine derleme kaynagin tanimina baglandi."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "J. H. Hexter'ın 1972'de The Journal of Modern History'de yayımladığı \"Fernand Braudel and the Monde Braudellien...\", derginin sayfa kaydında 480-539 arasında durur; yani yaklaşık altmış sayfalık bir hesaplaşmadır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref ustveri kaydi yazar, dergi, 1972 ve 480-539 sayfa araligini DOGRUDAN verir; yazinin bir hesaplasma oldugu nitelemesi kayittan cikmaz, baslik ve hacimden yapilan cikarimdir."
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Giovanni Levi, 1989'da Annales'de biyografinin tarihçilerin ilgisinin merkezine yerleştiğini yazdı ve sorunu tersine çevirerek kurdu: bize belki daha yakın olan öyle dönemler oldu ki, bir tarihsel olayı her türlü bireysel yazgıdan soyutlayarak anlatmak mümkündü.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Levinin acilis paragrafi birebir; itirazin Braudelin kendi dergisinde dile geldigi bibliyografik kayittan goruluyor."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Biyografi kimi zaman bireylerin genel normatif dizgelere indirgenemezliğini vurgulamak için, kimi zaman da toplumsal kuralların fiilî işleyişine dair bilimsel varsayımların sınandığı ideal yer olarak kullanılır; Momigliano hem bu ikircikliği hem verimliliği göstermişti, Bourdieu ise aynı tartışmayı bir \"bilimsel saçmalık\" saymıştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Momigliano ve Bourdieu gondermeleri ayni sayfada. Levinin ikircikligi bir mahkumiyete cevirmedigi cekincesi metne tasindi."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Yazı, derginin 1988'de yayımladığı eleştirel dönemeç çağrısına verilen yanıtlardan biridir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yazinin 1988 editoryal cagrisina yanit oldugu ayni sayfada yaziyor."
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Derleme kaynak, Braudel'in kendi döneminin sömürge yargılarını paylaştığı iki ifadeyi kaydeder: 1937 tarihli bir yazısında Brezilya'yı toplumsal esnekliği ve genç bir Avrupa uygarlığı oluşu nedeniyle hem Cezayir'e hem Birleşik Devletler'e yeğleyen Braudel, sonradan Cezayir'i eğitilemez bir nüfusla anılan \"başarısız bir Brezilya\" diye tanımlamıştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "HAKEM: kaynak karsilastirmayi Cezayir VE Birlesik Devletler ile kurar ve 1937 tarihli yaziyi adlandirir; govde listeyi kirpmisti, eksik oge ve tarih geri konuldu. Ayrica 'somurge yargilarindan muaf degildi' hukmu, kaynagin tasidigi kayit duzeyine indirildi."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "L'Identité de la France'ta ilgisi yıllar ve on yıllar değil yüzyıllar ve bin yıllardır; Fransa'yı siyasetinin ya da iktisadının değil coğrafyasının ve kültürünün ürünü sayar ve tarihin bütün çalkantılarına rağmen bozulmadan süren bir köylü zihniyetine dayalı derin bir Fransa'nın varlığını savunur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "L Identite de la France ozeti maddeden; olcek ve derin Fransa savi orada birebir duruyor."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Kitabın romantik bir özlemle renklendiği ve Braudel'in Fransa'ya duyduğu sevgiyi gizlemediği de aynı kayıtta durur; ölçeğin büyümesi, bakışın yansız olduğu anlamına gelmiyordu.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Romantik ozlem nitelemesi maddenin kendi degerlendirmesidir, Braudelin ifadesi degil; metinde de kayit olarak verildi."
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Braudel'in kurduğu şey az çok istikrarlı bir tarihsel ilişkidir ve büyük ölçekli değişimin kuramsal olarak yeniden kurulmasına açık, deneysel bir yaklaşım tanır.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tomichin dipnotu bunu birebir soyler: yapisal zaman evet ama yapisalcilik hayir; Parsons ve Althusser karsilastirmasi ile buyuk anlati reddi oradan."
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "1989'da Jacqueline Cahen ile Jean-Pierre Rioux, bir Fransız lise programının son kırk yılı Braudel'in yüksek himayesine yerleştirmesini sorguladılar: dünyanın yüzyıllar ölçeğindeki ritmi sayılan uzun süre, kırk yıllık bir \"gezegensel zaman\"ı betimlemek için gerçekten çağrılabilir miydi?",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cahen ve Riouxnun ilk sayfasi; lise programina yoneltilen soru birebir orada."
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Programın yazarının kendisinin de bu kadar kısa bir uzun süreden rahatsız olduğunu gösterdiler: 1960'larda beliren açıklayıcı yapılar — iki kutupluluk ve büyüme — daha belirir belirmez tehdit altındadır ve yazar dünyanın yeni bir yapısını tanımlamanın henüz mümkün olmadığını itiraf eder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Program yazarinin kendi ifadeleri ayni sayfada aktarilir; 1960lar, iki kutupluluk ve buyume ile yeni yapinin tanimlanamamasi orada."
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Aynı yazı Braudel'den bir cümleyle kapanır: tarihçi tarihin zamanından hiç çıkmaz, zaman düşüncesine \"comme la terre à la bêche du jardinier\" yapışır.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yazinin kapanisindaki Braudel cumlesi ayni sayfada; Fransizca parca on bes kelime sinirinin altinda birakildi."
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Birincisi dünya sistemi çözümlemesidir: Lee'ye göre uzun sürenin ikinci dersi dünyanın yalnızca tekilliğini değil biricikliğini de görmemizi sağlamak, üçüncüsü ise bunalımı köklü yapısal değişim imkânı olarak yorumlamaya izin vermektir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Leenin ikinci ve ucuncu ders formulasyonu abstractta birebir; yazarin konumu olarak verildi. HAKEM: k7 ustveri kaydidir — abstract duzeyinde okunan bulgu iddiasi, destek dogrudandan KISMIye indirildi."
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "İkincisi mikro tarihle kurulan gerilimdir: İtalyan mikro tarihinin epizodik ve kısa vadeli olana yönelmesi Fransız seri tarihinin egemenliğine bir tepkiydi, ama Braudel'in çoğul zaman anlayışıyla ilişkisini korudu ve farklı yaklaşımlar arasındaki diyaloğu besleyebilecek bir zemin bıraktı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tomichin ozeti mikro tarihin seri tarihe tepki oldugunu ve yine de Braudelin cogul zamaniyla iliskisini korudugunu birebir soyler."
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Binghamton Üniversitesi'nde 2020'ye kadar bir Fernand Braudel Merkezi vardı ve 2011'de History Today dergisinin anketinde geçmiş altmış yılın en önemli tarihçisi seçildi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Binghamton merkezi ve History Today anketi giris kapisi maddesinden."
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Braudel'in 1958'deki açılış teşhisi — insan bilimlerinin kendi ilerlemeleri altında ezilmesi — aradan geçen zamana rağmen tanıdık geliyor; verdiği cevap ise bir ölçek cevabıydı ve tartışma o cevabın etrafında sürüyor.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Acilis teshisi k1de birebir var; bugun de taniidk geldigi ve verilen cevabin bir olcek cevabi oldugu degerlendirmesi kaynaktan cikmaz, metnin kendi toparlamasidir."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 35,
+    "kismi": 5,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

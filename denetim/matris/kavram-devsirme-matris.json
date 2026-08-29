@@ -1,0 +1,479 @@
+{
+  "id": "kavram-devsirme",
+  "govde_hash": "5bcb980579cf",
+  "commit": "92d1168",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Devşirilen bir çocuğun köyü, kazası, ana babasının, bağlı olduğu sipahinin ya da vakfın adı, doğum tarihi ve göz rengine varıncaya kadar bütün eşkâli iki ayrı deftere yazılırdı; birini devşirme memuru, ötekini çocukları merkeze götüren sürücü saklardı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Eskal defterinin icerigi ve iki nusha usulu k1 maddesinde madde madde sayilir; hakem birebir dogruladi. Kaynak listeye 'ait oldugu ciftlik sahibinin adi'ni da ekler, govde kisaltti — kisaltma iddiayi degistirmiyor."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Abdülkadir Özcan kurumu, Osmanlı tebaası bazı hıristiyan çocuklarının başta askerlik ve saray olmak üzere çeşitli görevlerde kullanılmak üzere devlet hizmetine alınması diye tanımlar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tanim k1 maddesinin ust basligindan birebir aktarildi; muellif adiyla verildi."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Yaygın rivayete göre 1361'de Edirne'nin fethinden sonra Kara Rüstem'in tavsiyesi, Kazasker Çandarlı Kara Halil'in uygun bulması ve I. Murad'ın onayıyla devreye girmiştir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3 birebir: 'daha cok kabul goren rivayete gore bu sistem 1361'de Edirne'nin fethinden sonra ulemadan Karamanli Kara (Molla) Rustem'in tavsiyesi, Kazasker Candarli Kara Halil'in uygun bulmasi ve I. Murad'in onayi ile devreye sokulmustur'. Rivayet oldugu govdede soylendi."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Aynı madde usulün nasıl ortaya çıktığı hakkında farklı görüşler bulunduğunu söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3 kurulus rivayetinin tek olmadigini kendisi soyler; cekince tasinmis oldu."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Özcan burada bir çekince koyar: usulün Çelebi Mehmed zamanında uygulandığı, ikinci Murad devrinde ise kanunlaştığı anlaşılmaktadır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 bu ifadeyi anlasilmaktadir kaydiyla verir; cekince metne tasindi ve muellife baglandi."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Pencik savaş esirine uzanır; devşirme padişahın hür zimmî tebaasının çocuğuna.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayrimin iki yarisi iki ayri kaynakta durur: esir tarafi k3te, hur zimmi tebaa tarafi k1de."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Devşirme işi ihtiyaca göre üç, beş veya yedi yılda bir yapılırdı; sorumlusu yeniçeri ağasıydı, Fâtih'ten itibaren merkezden gönderilen memurlarca yürütüldü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Aralik, sorumlu ve merkezden memur gonderilmesi k1de acik."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Kanunun maddeleri çoğunlukla kimin alınacağını değil kimin alınmayacağını sayar: tek oğullu ailenin çocuğu, anasız babasız olanlar, aç gözlü oldukları bilinenler, köy kethüdâsının oğlu, sığırtmaç ve çoban çocukları, kel, fodul, köse ve doğuştan sünnetliler, şehir çocukları, evlenmiş ya da sanat sahibi olanlar, aşırı uzun ve kısa boylular devşirilmezdi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Eleme listesinin butun kalemleri k1de sayilir. Hakem karsilastirmasinda govdede eksik olan iki oge ('ac gozlu olduklari bilinenler', 'fodul') geri konuldu; liste artik kaynakla tam ortusuyor."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Acemi oğlanı maddesi bu listeye Türkçe bilenleri de ekler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Turkce bilenlerin disarida birakilmasi yalnizca k2de gecer."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Yaşta iki imzalı madde ayrışır: Özcan sekiz-yirmi, özellikle on dört-on sekiz arasını verir; Mücteba İlgürel on-yirmi arasındakilerin öncelikle seçildiğini yazar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki imzali maddenin yas araliklari birebir alindi; ayrisma gizlenmedi."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Her kazada kırk hâneden bir oğlan alınması âdetti, ama sayı ihtiyaca göre belirlenirdi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 kirk hane kuralini adet idiyse de kaydiyla verir; kosul cumleye tasindi."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Maliyet toplanan bölgeye yükleniyordu: çocuklara giydirilen kızıl aba ile kırmızı külâhın bedeli hil'at-bahâ adıyla o bölge reâyâsından alınır, başta çocuk başına 90-100 akçe olan miktar sonradan 300, hatta 600 akçeye çıkmıştı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hilat-baha adi ve 90-100 / 300 / 600 akce degerleri k1de birebir."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Yüz-iki yüz kişilik sürüler hâlinde İstanbul'a getirilen çocuklar sünnet edilip müslüman-Türk adı alır, cizyeleri düşerdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Suru buyuklugu, sunnet, ad verme ve cizyenin dusmesi k1de ardarda gecer."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Ardından Türk'e verme gelirdi: Rumeli'den devşirilenler Anadolu'ya, Anadolu'dan devşirilenler Rumeli'ye gönderilir, kaçmaları böyle önlenirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Turke verme uygulamasi ve carpraz sevkin gerekcesi k1de acik."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Anadolu ya da Rumeli ağasının sorumluluğundaki eğitim en az üç, en çok sekiz yıl sürer; saray için ayrılanların en kabiliyetlileri Topkapı Sarayı'na alınırdı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc-sekiz yil suresi k2de Anadolu/Rumeli agalarinin sorumlulugu kaydiyla verilir; kayit cumleye tasindi."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Özcan devşirmeyi köle düzeniyle bağdaştırmayı güç bulur: bunlar hür oldukları tereddütsüz gayri müslim tebaanın çocuklarıdır, kendilerine kul ya da gılmân denmesi padişahın hassa askeri olmalarıyla ilgilidir; bazı eserlerde bütün Osmanlı tebaası padişahın kulu sayılır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Muellifin kole okumasina itirazi k1de birebir; metinde onun konumu olarak verildi, olgu olarak degil."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Bu maddenin savunduğu konumdur; karşıtı da aynı maddede: İdrîs-i Bitlisî, Osmanlı topraklarının savaşla alındığını, dolayısıyla sakinlerinin köle sayılacağını söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bitlisinin karsit yorumu ayni maddede aktarilir."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Özcan bu görüşü tutarsız bulur; Hoca Sâdeddin'in Bitlisî'den alıntı yaparken o kısmı almamasını herhalde yoruma katılmadığı için diye açıklar — kendi kaydıyla bir çıkarım, belge değil.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 herhalde sozcugunu kendisi kullanir; cikarim oldugu metinde soylendi."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Batılı araştırmacıların tartışması da orada özetlenir: kimi zorla almayı İslâm hukukuna aykırı sayar, kimi uygulamayı eski gulâm düzeninin devamı görür; Paul Wittek'in Şâfiî gerekçesi içinse Özcan bunun Osmanlılarca dikkate alındığını söylemenin güç olduğunu yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sarkiyatci tartismasinin ozeti ve Wittek adi k1de gecer; k1 Menage ve Vryonis adlarini parantezde verir, govde onlari adsiz biraktigi icin hayalet ad riski yok."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Özcan bir mevcut verir: acemi ocaklarının mevcudu hiçbir devirde 10.000 kişiyi geçmemiştir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "10.000 tavani k1de birebir. Hakem duzeltmesi: bu bir MEVCUT (stok), Rycaut'nun verdigi ise YILLIK AKIS. Onceki kurulus ikisini karsilastirilabilir gostererek olmayan bir gerilim uretiyordu; ayrim cumleye tasindi."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "İzmir konsolosu Paul Rycaut'nun kitabı ise bir akış verir, yıllık toplananı iki bin kadar; ama cümlesine çekincesini de koyar, bu sayı ona anlatıldığı kadarıyladır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Rycaut: 'the yearly number of those thus collected amount most commonly, as I am given to understand, to about 200o' (OCR 2000'i 200o dizer). 'Consul of Smyrna' unvani kitabin kendi baslik sayfasinda gecer; hakem --tam kipiyle dogruladi."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Rycaut aynı bölümde çocukların çoğunlukla on ya da on iki yaşında ailelerinden alındığını, Mora ile Arnavutluk'un bu yüzden büyük ölçüde nüfussuzlaştığını yazar; saray anlatısını başkalarının yanı sıra orada on dokuz yıl geçirmiş birinden dinlediğini de söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "'sons of Christians taken from their parents at the age of ten or twelve years' ve 'those countries are greatly dispeopled' birebir. Bilgi verici: kaynak 'several sober persons ... and particularly by an understanding Polonian, who had spent nineteen years in the Ottoman court' der; govde tek kisiye indirmisti, 'baskalarinin yani sira' eklendi. Kisi adlandirilmadi (kaynak da adlandirmiyor)."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "İki kayıt zamanda da çakışmaz: Özcan 17. yüzyıl ortasından sonra devşirmenin pek yapılmadığını, Ahmed Cevad Paşa'ya göre sonuncusunun 1751'de olduğunu aktarır; Rycaut ise aynı yüzyılın ortasından süregiden yıllık bir toplama anlatır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k1 tarafi birebir (17. yuzyil ortasi ve 1751). k4 tarafi kismidir: Rycaut yillik ve suregiden bir toplama anlatir, ama basim yili kunyeden gelir, metnin kendisinden degil."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Habsburg elçisi Ogier Ghiselin de Busbecq, Amasya'da padişahın huzurunda gördüğü kalabalıkta konumunu yiğitliğinden ve liyakatinden başka bir şeye borçlu tek kişi bulunmadığını yazar; padişahın atamalarda servet ya da rütbeye bakmadığını, en yüksek makamları alanların çoğunlukla çoban ve sığırtmaç oğulları olduğunu ve bunu övünç saydıklarını ekler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc parca da birebir dogrulandi: 'there was not in all that great assembly a single man who owed his position to aught save his valour and his merit'; 'pays no regard to any pretensions on the score of wealth or rank'; 'the sons of shepherds or herdsmen, and so far from being ashamed of their parentage, they actually glory in it'. Sahne Amasya bolumundedir (mektubun icindekiler dizini: Amasia — Interview with Solyman — Promotion among the Turks)."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Üstelik kanunun eleme listesi tam da sığırtmaç ve çoban çocuklarını dışarıda bırakır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sigirtmac ve coban cocuklarinin devsirilmemesi k1deki eleme listesinde acik; Busbecqin mecazi bu maddeyle karsilastirildi."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Nikita V. Evstafyev'in 2024 tarihli makalesinin özetine göre 16. yüzyıl hıristiyan kaynakları devşirmeyi felaket olarak anlatır; Sofyalı Yeni Aziz Georgi menkıbesinde kahraman, yeniçeri olmamak için evini terk eder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iddia makalenin yayinci ozetinde birebir durur; tam metin Rusca PDF olarak acilir ve makine metni cikarilamadi, bu sinir metinde soylendi. Havuz kaydi api.crossref.org icerik iddialarini en cok ozet duzeyinde kismi sayar; destek buna gore kismi yazildi."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Aynı özet, Batılı seyyahların hem kaçınma çabalarını hem de bazı hıristiyanların çocuklarına ileride daha iyi bir konum için onları vermeye hazır olduğunu kaydettiğini söyler; yazar uygulamayı en zalim uygulamalardan biri sayar ve kurumu devşirme ya da kan vergisi diye anar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kacinma ile gonullu verme birlikte ozette gecer; 'one of the cruelest practices' ve 'the so-called devshirme or blood tax' yazarin kendi sozudur. Havuz kurali geregi icerik iddiasi en cok ozet duzeyinde kismi; destek kismi. Crossref kaydinin link alanindaki tam metin PDF hakem tarafindan denendi: makine metni cikmiyor, kunye notu dogru."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "16. yüzyıl sonlarından yeniçeri oğullarının kuloğlu, dışarıdan alınanların kul kardeşi ve ağa çırağı adıyla ocağa kaydedilmesi devşirme usulünü delmiş, işe rüşvet karışmıştır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kuloglu, kul kardesi, aga ciragi ve rusvet k1in cozulme bolumunde birebir."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Yeniçeri Ocağı'na asker önce pencik yoluyla sağlanırdı; pencik, savaşta ele geçirilen esirlerin şer'î humus olarak beşte birinin devlet hizmetine alınmasıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1 yeniceri ocagina once pencik kanunu geregince asker alindigini soyler; k3 tanimi birebir verir: 'humus-i ser'i olarak beste birinin devlet hizmetine alinmasini ifade eder'."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Eleme topluluk ölçüsüyle de çalışırdı: Arnavut, Boşnak, Rum, Bulgar, Sırp ve Hırvat çocukları tercih edilir; Türk, Kürt, Acem, Rus, yahudi, Gürcü ve Çingene çocukları alınmazdı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem eklemesi: k1 iki listeyi de birebir verir ve govde 'kimden toplanirdi' sorusunu hic cevaplamiyordu. Iki liste de kaynaktaki sirayla ve eksiksiz yazildi."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "İstisnası müslüman Bosnalılardı: Fâtih döneminde topluca ihtida eden Bosna halkının çocukları, babalarının ricası üzerine saray için devşirilirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem eklemesi: k1 bu istisnayi acikca kaydeder. Kavramin sinirini gosterdigi icin onemli — 'yalnizca hiristiyan cocuklari' cercevesini kaynagin kendisi kayitliyor."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Aynı özette üçüncü bir şey daha var: pek çok Avrupalı seyyah ve diplomat Osmanlı seçkininin liyakate göre kurulduğunu anlatmış, bunu 16. yüzyıl genişlemesinin başlıca nedenlerinden saymıştır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hakem eklemesi ve DUZELTME: ozetin son bulgusu ('many European travelers and diplomats talk about the meritocratic approach ... one of the main reasons for the success of the 16th-century Ottoman expansion') govdede dusurulmustu. Kaynak k6 yalnizca felaket tarafiyla kullaniliyordu; kendi karsi bulgusu geri konuldu. Havuz kurali geregi kismi."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 29,
+    "kismi": 3,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

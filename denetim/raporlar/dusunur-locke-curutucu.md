@@ -1,5 +1,5 @@
 # Çürütücü raporu — dusunur-locke
-_2026-08-29T20:19:03.615Z_
+_2026-08-29T20:39:42.350Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 

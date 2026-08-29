@@ -1,49 +1,67 @@
 {
   "id": "olay-1857-hint-ayaklanmasi",
   "gecis": 2,
-  "zaman": "2026-08-29T20:09:09.408Z",
-  "govde_hash": "95e579bdb737",
-  "commit": "5373c66",
+  "zaman": "2026-08-29T21:08:10.643Z",
+  "govde_hash": "f4d2de180dbd",
+  "commit": "92d1168",
   "sonuclar": [
     {
-      "anahtar": "k9",
-      "iddia": "Doğu Hindistan Şirketi'nin Meerut garnizonundaki sipahileri 10 Mayıs 1857'de ayaklandı ve kısa sürede kırk mil (64 km) güneybatıdaki Delhi'ye ulaştı; şehirdeki ",
+      "anahtar": "k10",
+      "iddia": "Doğu Hindistan Şirketi'nin Meerut garnizonundaki sipahileri 10 Mayıs 1857 Pazar akşamı ayaklandı ve Delhi yoluna düştü.",
       "durum": "OK",
       "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
+      "anahtar": "k10",
+      "iddia": "Olay sürerken derlenen çağdaş bir tarih, şehirden gelen bir tanıklığı aktarır: ertesi gün öğleden sonra imparatorluk Delhi kralı adına ilan edilmiş, imparatorlu",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "İlanı kimin yaptığı kayda göre değişir; 1911 tarihli bir başvuru ansiklopedisi Delhi'ye ulaşan isyancılara şehir kalabalığının ve kralın muhafızlarının katıldığ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
       "anahtar": "k9",
-      "iddia": "Ayaklanma kısa sürede başka garnizonlara ve sivil başkaldırılara yayıldı; isyancılar Kuzey-Batı Eyaletleri ile Avadh'ın (Oudh) geniş bölümlerini ele geçirdi, ça",
+      "iddia": "Seksen bir yaşındaki hükümdarı Bahadır Şah Zafer'in Hindustan imparatoru ilan edilişi ansiklopedik özette faili yazılmadan geçer.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ayaklanma başka garnizonlara ve sivil başkaldırılara yayıldı; isyancılar Kuzey-Batı Eyaletleri ile Avadh'ın (Oudh) geniş bölümlerini ele geçirdi.",
       "durum": "OK",
       "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k9",
-      "iddia": "Aynı olay Sepoy Mutiny, Indian Mutiny, Great Rebellion, Revolt of 1857, Indian Insurrection ve First War of Independence adlarıyla anılır; adın çekişmeli olduğu",
+      "iddia": "Aynı olay Sepoy Mutiny, Indian Mutiny, Great Rebellion, Revolt of 1857, Indian Insurrection ve First War of Independence adlarıyla anılır; adın çekişmeli oluşu ",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Tartışma da sonradan açılmadı; olay sürerken, 1857 yazında Avam Kamarası'nda başladı.",
+      "iddia": "Tartışma da sonradan açılmadı; 1857 yazında Avam Kamarası'nda başladı.",
       "durum": "OK",
       "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "27 Temmuz 1857'de muhalefetin lideri Benjamin Disraeli, Hindistan'a dair belgelerin Meclis'e sunulmasını isteyen bir önerge verdi ve soruyu doğrudan sordu: “Is ",
+      "iddia": "27 Temmuz 1857'de Benjamin Disraeli, Hindistan'a dair belgelerin Meclis'e sunulmasını isteyen bir önerge verdi ve soruyu doğrudan sordu: “Is it a military mutin",
       "durum": "OK",
       "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "27 Temmuz 1857'de muhalefetin lideri Benjamin Disraeli, Hindistan'a dair belgelerin Meclis'e sunulmasını isteyen bir önerge verdi ve soruyu doğrudan sordu: “Is ",
+      "iddia": "27 Temmuz 1857'de Benjamin Disraeli, Hindistan'a dair belgelerin Meclis'e sunulmasını isteyen bir önerge verdi ve soruyu doğrudan sordu: “Is it a military mutin",
       "durum": "OK",
       "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bu ülkeden birinin olayın kesin nedenlerini şimdiden yetkeyle ortaya koymasının küstahça ve vakitsiz olacağını söyledi; görüş bildirmeye zorlanırsa bunun daha ç",
+      "iddia": "Bu ülkeden birinin kesin nedenleri şimdiden yetkeyle ortaya koymasının küstahça ve vakitsiz olacağını söyledi; görüş bildirmeye zorlanırsa bunun daha çok askerî",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -55,7 +73,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Fişeklerin gerçekten değişip değişmediği tartışmasına girmeyi reddetti; imparatorlukların çöküşünün yağlı fişek meselesi olmadığını, böyle sonuçların yeterli ne",
+      "iddia": "İmparatorlukların çöküşünün yağlı fişek meselesi olmadığını, böyle sonuçların yeterli nedenlerin birikmesinden doğduğunu söyledi.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -73,13 +91,13 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Doğal mirasçı bırakmadan ölen racanın, ölümünden önce usulüne göre evlat edindiği, İngiliz mukimine bildirilen ve top atışlarıyla halka duyurulan vârisi tanınma",
+      "iddia": "Doğal mirasçı bırakmadan ölen racanın, usulüne göre evlat edindiği ve İngiliz mukimine bildirdiği vârisi tanınmadı; raclık Şirket topraklarına katıldı.",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngiliz, Şirket"
     },
     {
       "anahtar": "k1",
-      "iddia": "Disraeli'nin itirazı hukuki olmaktan çok toplumsaldı: evlat edinme Hindistan'da yalnızca bir medeni hak değil dinî bir yükümlülüktür, Hindu toplumunun temel taş",
+      "iddia": "Disraeli'nin itirazı hukuki olmaktan çok toplumsaldı: evlat edinme Hindistan'da yalnızca bir medeni hak değil dinî bir yükümlülüktür ve onu tanımamak tek bir ra",
       "durum": "OK",
       "not": ""
     },
@@ -91,7 +109,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Disraeli'ye göre sonuç, o güne dek ayrı duran Müslüman ve Hindu prenslerin ilk kez ortak bir çıkar görmesiydi — ilhak, bir hanedanın değil bir güvencenin geçers",
+      "iddia": "Disraeli'ye göre sonuç, o güne dek ayrı duran Müslüman ve Hindu prenslerin ortak bir çıkar görmesiydi — ilhak, bir hanedanın değil bir güvencenin geçersizliğini",
       "durum": "OK",
       "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -103,9 +121,9 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Bu askerler için ilhak, terhis olunca döndükleri köyde başvuracakları hükümdarın ve İngiliz mukimine itiraz hakkının birlikte ortadan kalkması demekti.",
+      "iddia": "Bu askerler için ilhak, terhis olunca döndükleri köyde başvuracakları hükümdarın ortadan kalkması demekti.",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngiliz"
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
@@ -115,15 +133,21 @@
     },
     {
       "anahtar": "k9",
-      "iddia": "Sonraki literatür de tek bir güdü aramaz; hoşnutsuzluğun İngiliz tarzı toplumsal reformlardan, ağır toprak vergilerinden, zengin toprak sahipleriyle prenslere y",
+      "iddia": "Sonraki literatür de tek bir güdü aramaz; hoşnutsuzluğun İngiliz tarzı reformlardan, ağır toprak vergilerinden, toprak sahipleriyle prenslere yönelik keyfî muam",
       "durum": "ATOMSUZ",
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngiliz"
     },
     {
-      "anahtar": "k9",
-      "iddia": "Bengal, Bombay ve Madras başkanlıklarının Şirket denetimindeki geri kalanı büyük ölçüde sakin kaldı; Pencap'ta Sih prensler İngilizlere hem asker hem destek sağ",
+      "anahtar": "k12",
+      "iddia": "Bombay ve Madras'ın yerli orduları sadık kaldı; Pencap'ın savaşçı halkları isyancıların yanına geçmek için sebep görmedi, Patiala gibi bağımsız prensler ile Ort",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Katılmayan devletler Genel Vali Canning'in deyişiyle fırtınada dalgakıran işlevi gördü.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k9",
@@ -138,16 +162,28 @@
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): Avadh, İngiliz"
     },
     {
-      "anahtar": "k9",
-      "iddia": "Takviyelerle Kanpur Temmuz 1857'nin ortasında, Delhi Eylül sonunda geri alındı; ama Jhansi'de, Lucknow'da ve özellikle Avadh kırsalında bastırma 1857'nin kalanı",
+      "anahtar": "k12",
+      "iddia": "Aynı 1911 maddesi ise tereddüt etmez: Savarkar'ın kitabından iki yıl sonra, ayaklanmanın hiçbir anlamda ulusal bir kalkışma olmadığını, girişimin birkaç hoşnuts",
       "durum": "OK",
-      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Havelock 16 Temmuz 1857'de Kanpur'u geri aldı, Delhi 14 Eylül'de başlayan hücumla düştü, Lucknow ancak 16 Mart 1858'de yeniden ele geçirilebildi; Orta Hindistan",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ansiklopedik özet aynı Gwalior yenilgisini 20 Haziran'a koyar.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k9",
       "iddia": "Şiddet iki taraflıydı ve yer yer olağanüstü bir zalimlik taşıdı: isyancılar kadın ve çocuklar dahil İngiliz subay ve sivillerini öldürdü, İngiliz misillemeleri ",
-      "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngiliz"
     },
     {
       "anahtar": "k8",
@@ -157,9 +193,9 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Canning'in 1858 baharında Avadh için çıkardığı bildiri, Avam Kamarası'nda okunan hâliyle, metinde önceden sayılan istisnalar dışında eyalet toprağındaki mülkiye",
+      "iddia": "Canning'in 1858 baharında Avadh için çıkardığı bildiri, metinde önceden sayılan istisnalar dışında eyalet toprağındaki mülkiyet hakkının İngiliz hükümetine geçt",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k3",
@@ -169,7 +205,7 @@
     },
     {
       "anahtar": "k3",
-      "iddia": "Denetim Kurulu'nun yeni başkanı Lord Ellenborough, Canning'in işaret ettiği politikayı her anlamda onaylamadığını bildiren bir talimatı Genel Vali'ye gönderdi; ",
+      "iddia": "Denetim Kurulu'nun yeni başkanı Lord Ellenborough, Canning'in politikasını her anlamda onaylamadığını bildiren bir talimat gönderdi; talimat, bildirinin kendisi",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -187,9 +223,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "İdari yetkilerin bakanlık sorumluluğuyla birlikte yürümesi gerekirken Hindistan yönetimi Parlamento'ya karşı sorumlu olmayan, Taç'ın atamadığı, yalnızca Hindist",
+      "iddia": "İdari yetkilerin bakanlık sorumluluğuyla birlikte yürümesi gerekirken Hindistan yönetimi Parlamento'ya karşı sorumlu olmayan, yalnızca Hindistan hissesi tutanla",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
@@ -199,9 +235,9 @@
     },
     {
       "anahtar": "k2",
-      "iddia": "Aynı oturumda konuşan bir başka üye ise tersini savundu: 1853'te Şirket'in tasfiyesi ileri bir tarihe bırakılmıştı, ülkede bir ayaklanma patlak verdiğine ve yür",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+      "iddia": "Aynı oturumda konuşan bir başka üye ise tersini savundu: ülkede bir ayaklanma patlak verdiğine ve yürütmenin eli güçlendirilmesi gerektiğine göre an en uygun an",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
@@ -210,10 +246,28 @@
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k9",
-      "iddia": "Şirket'i tasfiye eden metin sonunda 1858 tarihli Hindistan'ın Yönetimi Yasası oldu; Şirket'in tasfiyesiyle birlikte ordunun, maliyenin ve idarenin yeniden düzen",
+      "anahtar": "k11",
+      "iddia": "Şirket'i tasfiye eden metin 2 Ağustos 1858'de kraliyet onayını aldı ve otuz gün sonra yürürlüğe girdi.",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Yasanın birinci maddesi Şirket'in elindeki toprakların yönetimini ve Taç adına kullandığı bütün yetkileri ondan alır, üçüncü maddesi bunları Majestelerinin devl",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Devir kayıtsız değildir: elli beşinci madde Hindistan gelirlerinin sınır ötesinde yürütülen bir askerî harekâtın masrafına Parlamento'nun iki kanadının onayı ol",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Yasa metni burada, onu yeniden basan bir belge derlemesinin taranmış nüshasından okunmuştur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k4",
@@ -240,16 +294,28 @@
       "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngiliz, Ocak"
     },
     {
-      "anahtar": "k9",
-      "iddia": "Oysa o gün yapılan şey cinayete karışmamış isyancılara af ilan etmekti; İngiliz yönetimi çatışmaların resmen sona erdiğini ancak 8 Temmuz 1859'da açıkladı.",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "anahtar": "k4",
+      "iddia": "Oysa o gün yapılan şey cinayete karışmamış isyancılara af ilan etmekti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k9",
-      "iddia": "Ayaklanmanın erken tarihçilerinden Charles Ball başlığında mutiny sözcüğünü kullandı, ama metinde olayı bir halkın özgürlük ve bağımsızlık mücadelesi diye nitel",
+      "iddia": "İngiliz yönetimi çatışmaların resmen sona erdiğini ancak 8 Temmuz 1859'da açıkladı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Ayaklanmanın erken tarihçilerinden Charles Ball başlığında mutiny sözcüğünü kullandı; ama metninde, yabancı boyunduruğunu silkeleme tasarısının bir halkın özgür",
       "durum": "OK",
       "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ball'ün cümlesi olayı özgürlük mücadelesi saymaz; öyle olmaktan çıktığını söyler — bu koşul, cümleyi özetleyen ansiklopedik kayıtta düşer.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k6",
@@ -259,13 +325,13 @@
     },
     {
       "anahtar": "k6",
-      "iddia": "Kaye aynı önsözde olayı Hint başkaldırısı diye de anar; kendi baskın kuramını ise tek cümleye indirir: “Because we were too English the great crisis arose”.",
+      "iddia": "Kaye aynı önsözde olayı Hint başkaldırısı diye de anar; kendi baskın kuramını iki yönlü tek cümleye indirir: “Because we were too English the great crisis arose",
       "durum": "OK",
-      "not": ""
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k6",
-      "iddia": "Kaye elindeki malzemenin çoğunun resmî belgelerden değil özel yazışmalardan geldiğini, bir önceki kitabında yaptığı gibi kaynak göstermekten bu kez bilerek vazg",
+      "iddia": "Kaye elindeki malzemenin çoğunun resmî belgelerden değil özel yazışmalardan geldiğini, kaynak göstermekten bu kez bilerek vazgeçtiğini yazar.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
@@ -276,8 +342,8 @@
       "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
-      "anahtar": "k9",
-      "iddia": "Kitabın Vinayak Damodar Savarkar'a ait olduğu, cildin kendi dışından bilinir.",
+      "anahtar": "k13",
+      "iddia": "Kitabın Vinayak Damodar Savarkar'a ait olduğu cildin kendi dışından bilinir: nüshayı dijitalleştiren üniversite kütüphanesinin katalog kaydı eseri onun adına ya",
       "durum": "OK",
       "not": ""
     },
@@ -289,7 +355,7 @@
     },
     {
       "anahtar": "k5",
-      "iddia": "Yazar girişte, tarihçi tutumuyla baktığında 1857 isyanının içinde “the brilliance of a War of Independence” gördüğünü yazar; kitabın yayıncı önsözü Londra'da 10",
+      "iddia": "Yazar girişte, tarihçi tutumuyla baktığında 1857 isyanının içinde “the brilliance of a War of Independence” gördüğünü yazar; yayıncı önsözü Meerut'un elli ikinc",
       "durum": "OK",
       "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
@@ -331,7 +397,7 @@
     },
     {
       "anahtar": "k9",
-      "iddia": "Kraliçe'nin bildirisinin verdiği sözler, sonraki on yıllarda karşılığı her zaman gelmeyince yeni bir milliyetçiliğin ısrarla andığı bir dayanağa dönüştü; adın ç",
+      "iddia": "Kraliçe'nin bildirisinin verdiği sözler, hepsi tutulmayınca yeni bir milliyetçiliğin ısrarla andığı bir dayanağa dönüştü; adın çekişmeli olması ise sürüyor.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },

@@ -1,9 +1,9 @@
 {
   "id": "dusunur-braudel",
   "gecis": 2,
-  "zaman": "2026-08-29T20:18:31.814Z",
-  "govde_hash": "ad7c0b17e75e",
-  "commit": "4a5044d",
+  "zaman": "2026-08-29T20:46:32.812Z",
+  "govde_hash": "a6f22671ff34",
+  "commit": "9b92645",
   "sonuclar": [
     {
       "anahtar": "k1",
@@ -13,7 +13,7 @@
     },
     {
       "anahtar": "k7",
-      "iddia": "Aynı yazıda Braudel zamanı, basit bir kronoloji ölçüsü olmaktan çıkarıp toplumsal bir kurgu olarak yeniden tanımlar ve 1958'de bunu sosyal bilimlerin birbirine ",
+      "iddia": "Richard E. Lee'nin özetlediği gibi aynı yazıda Braudel zamanı, basit bir kronoloji ölçüsü olmaktan çıkarıp toplumsal bir kurgu olarak yeniden tanımlar ve 1958'd",
       "durum": "OK",
       "not": ""
     },
@@ -37,7 +37,7 @@
     },
     {
       "anahtar": "k9",
-      "iddia": "En derindeki katmanın adı longue durée (uzun süre), en üsttekinin adı ise Braudel'in sözlüğünde olay tarihidir.",
+      "iddia": "Bu derin katmanda çalışmanın adı longue durée (uzun süre), en üstteki katmanın adı ise Braudel'in sözlüğünde olay tarihidir.",
       "durum": "OK",
       "not": ""
     },
@@ -67,15 +67,33 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Yazıya göre Lévi-Strauss yapısal antropolojiyi dilbilimin yordamlarına, bilinçsiz tarihin ufuklarına ve nitel matematiğin genç emperyalizmine doğru ittiğini yaz",
+      "iddia": "Yazının basıldığı yer de savın niteliğini gösterir: metin, derginin tartışmalara ve hesaplaşmalara ayrılmış bölümünde çıktı ve daha ilk sayfada Lévi-Strauss'un ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yazdığına göre Lévi-Strauss yapısal antropolojiyi dilbilimin yordamlarına, bilinçsiz tarihin ufuklarına ve nitel matematiğin genç emperyalizmine doğru itmektedi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Braudel'e göre Lévi-Strauss antropoloji, siyasal iktisat ve dilbilimi tek bir iletişim bilimi adı altında bağlayacak bir bilime doğru eğilim gösterir; sorun, bu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Braudel bir de uyarı düşer: kavgalar sürerse coğrafyanın kendisi bile tarihten boşanabilir.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k9",
-      "iddia": "1940'ta Vosges'te esir düştü; önce Mainz'daki kalede tutuldu, orada kamp üniversitesinin rektörü oldu ve kent kütüphanesinden kitap ödünç alma hakkı kazandı, 19",
+      "iddia": "1940'ta Vosges'te esir düştü; önce Neuf-Brisach'taki kampta, ardından Mainz'daki kalede tutuldu, orada kamp üniversitesinin rektörü oldu ve kent kütüphanesinden",
       "durum": "OK",
-      "not": ""
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k9",
@@ -121,15 +139,21 @@
     },
     {
       "anahtar": "k9",
-      "iddia": "J. H. Elliott, ilk kitabı üzerine yazdığı değerlendirmede Braudel'in Akdeniz'ini insan denetimine kapalı bir dünya saydı ve itirazı tek satıra indirdi: dağlar i",
-      "durum": "OK",
-      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+      "iddia": "Bu satır burada değerlendirmenin kendisinden değil, onu aktaran derleme kaynaktan okunmuştur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k9",
-      "iddia": "Aynı değerlendirme, insan kararları yerine nesnel açıklamaları yeğlemenin tartışmalı sonuçlara götürebildiğini de söyler; örnek olarak Yahudilerin İspanya, Port",
+      "iddia": "Aynı kayıt, insan kararları yerine nesnel açıklamaları yeğlemenin tartışmalı sonuçlara götürebildiğini de ekler; örnek olarak on beşinci yüzyıl dönümünde Yahudi",
       "durum": "OK",
       "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Derleme kaynağın verdiği tanımda Braudel'in yapıları — hem zihinsel hem çevresel olanlar — olayların uzun vadeli seyrini, insanlara ve insanlar eliyle yapılan e",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k8",
@@ -157,9 +181,9 @@
     },
     {
       "anahtar": "k9",
-      "iddia": "Yapıları görmeyi öğreten bakış kendi döneminin sömürge yargılarından muaf değildi: Brezilya'yı toplumsal esnekliği ve genç bir Avrupa uygarlığı oluşu nedeniyle ",
+      "iddia": "Derleme kaynak, Braudel'in kendi döneminin sömürge yargılarını paylaştığı iki ifadeyi kaydeder: 1937 tarihli bir yazısında Brezilya'yı toplumsal esnekliği ve ge",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
       "anahtar": "k9",
@@ -218,66 +242,6 @@
     {
       "anahtar": "k1",
       "iddia": "Braudel'in 1958'deki açılış teşhisi — insan bilimlerinin kendi ilerlemeleri altında ezilmesi — aradan geçen zamana rağmen tanıdık geliyor; verdiği cevap ise bir",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k6",
-      "iddia": "tarihçinin seçimini kime ait olduğu sorusuyla çözmeyi denemişti; Braudel aynı soruyu hangi zamanda çalışıldığı sorusuna çevirdi, ve tartışması bugün de bu iki c",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": ": Fernand Braudel, \"Histoire et Sciences sociales : La longue durée\", Annales ESC 13-4 (1958), s. 725-753 — Persée.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k2",
-      "iddia": ": François Dosse, \"Les habits neufs du Président Braudel\", Espaces Temps 34-35 (1986), s. 83-93 — Persée.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k3",
-      "iddia": ": Giovanni Levi, \"Les usages de la biographie\", Annales ESC 44-6 (1989), s. 1325-1336 — Persée.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k4",
-      "iddia": ": Jacqueline Cahen ve Jean-Pierre Rioux, \"Vous avez dit Braudel ?\", Vingtième Siècle 23 (1989), s. 95-100 — Persée.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k5",
-      "iddia": ": Internet Archive katalog kaydı — The Mediterranean and the Mediterranean world in the age of Philip II (Collins, 1972).",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k6",
-      "iddia": ": Dale Tomich, \"The Order of Historical Time: The Longue Durée and Micro-History\", Almanack 2 (2011) — SciELO.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k7",
-      "iddia": ": Crossref kaydı — Richard E. Lee, \"Lessons of the Longue Durée: The Legacy of Fernand Braudel\", Historia Crítica 69 (2018), s. 69-77.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k8",
-      "iddia": ": Crossref kaydı — J. H. Hexter, \"Fernand Braudel and the Monde Braudellien...\", The Journal of Modern History 44-4 (1972), s. 480-539.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k9",
-      "iddia": ": Wikipedia (EN) — Fernand Braudel.",
       "durum": "OK",
       "not": ""
     }

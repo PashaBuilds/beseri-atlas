@@ -1,5 +1,5 @@
 # Çürütücü raporu — olay-yedi-yil-savasi
-_2026-08-29T20:12:07.428Z_
+_2026-08-29T20:39:42.349Z_
 
 ## İtiraz 1 — [ciddiyet: orta] tek-kaynakli-nedensellik
 

@@ -1,43 +1,7 @@
 {
   "id": "dusunur-thukydides",
   "gecis": 3,
-  "zaman": "2026-08-29T20:19:51.247Z",
-  "govde_hash": "da3447be3a16",
-  "itirazlar": [
-    {
-      "ciddiyet": "orta",
-      "tip": "tek-kaynakli-nedensellik",
-      "cumle": "Eserin en çok tartışılan yeri, savaşın anlatısı değil onun hemen öncesindeki yöntem paragrafıdır. Thukydides konuşmaların bir bölümünü kendisinin dinlediğini, bir bölümünü başkalar",
-      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
-      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
-    },
-    {
-      "ciddiyet": "orta",
-      "tip": "tek-kaynakli-nedensellik",
-      "cumle": "Olayların anlatısına gelince ölçüt daha serttir. Eline geçen ilk kaynağa yaslanmayı reddettiğini, kendi izlenimlerine bile güvenmediğini, anlatının bir bölümünün kendi gördüklerine",
-      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
-      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
-    },
-    {
-      "ciddiyet": "orta",
-      "tip": "tek-kaynakli-nedensellik",
-      "cumle": "Yazarın konumu da metnin içindedir. Thukydides savaşı baştan sona yaşadığını, olayları kavrayacak yaşta olduğunu ve tam olarak ne olduğunu bilmek için dikkatini onlara verdiğini ya",
-      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
-      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
-    },
-    {
-      "ciddiyet": "orta",
-      "tip": "tek-kaynakli-nedensellik",
-      "cumle": "Aynı ölçüt Atina'nın kendi yönetimine de uygulanır. Perikles'in son yıllarını anlatırken, adı demokrasi olan şeyin onun elinde birinci yurttaşın yönetimine dönüştüğünü yazar; ardın",
-      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
-      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
-    },
-    {
-      "ciddiyet": "orta",
-      "tip": "tek-kaynakli-nedensellik",
-      "cumle": "En eski ve en sert itirazlardan biri 1907'de Francis Cornford'dan geldi. Cornford'a göre Thukydides'in yapıtı, farkında olmadan, yazıldığından çok önce zihnine yerleşmiş sanatsal y",
-      "sorun": "Nedensellik iddiası tek kaynağa (k5) dayanıyor.",
-      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
-    }
-  ]
+  "zaman": "2026-08-29T20:39:29.462Z",
+  "govde_hash": "c048f3d73f29",
+  "itirazlar": []
 }
