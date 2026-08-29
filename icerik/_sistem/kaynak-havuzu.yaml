@@ -237,6 +237,18 @@ whitelist:
       Birlesmis Milletler resmi sayfalari. 2026-08-29 olcumu:
       /en/about-us/member-states 200 ve 12,2k; /en/about-us/growth-in-un-
       membership 200 ve 8,7k. Temiz metin, bot korumasi yok.
+    # 2026-08-30 BM Guvenlik Konseyi ajani olcumu:
+    # /depts/dhl/resguide/scact_veto_table_en.htm -> 200, 25.422 karakter;
+    # 1946'dan bugune HER veto satiri (tarih, tasari sembolu, tutanak,
+    # gundem maddesi, veto eden daimi uye). Veto sayilari icin havuzda
+    # esdegeri yok. Sayfa kendi cekincesini de tasiyor (1946-2004 verisi
+    # A/58/47 III. ekinden; kayitlarin cogu paragraf ya da onerge vetosu).
+    # /securitycouncil/content/{voting-system,functions-and-powers,
+    # current-members} 200 ve ~14-15k; AMA /content/repertoire/veto ve
+    # /content/elected-members 404 — yol adlari TAHMIN EDILEMEZ, once
+    # calisan bir sayfadan menu okunmali.
+    # research.un.org/en/docs/sc/quick 200 ama 4.642 karakter ve tamami
+    # gezinme menusu; veto tablosu ORADA DEGIL.
   - alan: treaties.un.org
     tur: birincil
     birincil_tur: belge
@@ -283,6 +295,19 @@ whitelist:
       iddiayi bu sayfaya dayandirmak OLGU HATASI uretir. Yasanin ozgun metni
       icin en.wikisource.org/wiki/Parliament_Act_1911 (200, 10.460 karakter,
       "three successive sessions" birebir gecer).
+  - alan: docs.un.org
+    tur: birincil
+    birincil_tur: belge
+    dogrulanabilir: false
+    kapsam: [uluslararasi, hukuk]
+    not: >
+      BM resmi belge goruntuleyicisi (undocs.org da ayni motoru kullanir).
+      2026-08-30 olcumu: /en/A/RES/377(V) her iki alanda da HTTP 200 doner
+      AMA govde 79 KARAKTERDIR — yalnizca bir dil secici. Belge metni
+      JavaScript ile yukleniyor; getir.mjs hicbir sey cikaramaz. Genel
+      Kurul karar metinleri bu kanaldan ALINAMAZ. Eski uc
+      un.org/en/ga/search/view_doc.asp da 403 doner. Calisan yol: kararin
+      metnini tasiyan kurumsal sayfa ya da en.wikisource.
   - alan: www.zeno.org
     tur: birincil
     birincil_tur: eser
