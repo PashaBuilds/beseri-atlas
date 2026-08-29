@@ -176,6 +176,21 @@ kalıcı; henüz hata değil, çünkü temizlik geçişi tamamlanmadı.
 aşıyor ya da hiç birincil kaynak taşımıyor. Sayılar KAPI 13'ün özet
 satırında her koşuda görünür.
 
+**Tırnak içindeki dizeler.** Bir kör hakem aynı dosyada iki ayrı turda aynı
+hatayı buldu: matris gerekçe notu, kaynakta sıfır kez geçen bir dizeyi tırnak
+içinde kaynağa mal ediyordu. İkisi de elle yakalandı — yani kaçırılabilirdi.
+KAPI 10 yalnızca künyenin `dogrulama_dizesi` alanını sınıyordu; okura
+GÖSTERİLEN gövde alıntısını ve matristeki gerekçe dizesini hiçbir şey
+sınamıyordu. `araclar/alinti-dogrula.mjs` bu boşluğu kapattı.
+
+Korpus ölçümü: 517 makale, 1.580 tırnaklı dize — 849 birebir, 330 Türkçe
+(yabancı kaynağın çevirisi, sınanmaz), 167 kelime örtüşmesi, 88 eser adı,
+**75 GEÇMİYOR**, 51 çevrilmiş terim, 20 önbellek penceresi dışında.
+Elde kalan 75, gerçek bir inceleme kuyruğudur ve kapanmamıştır.
+
+(Aracı işe koşan commit'in iletisinde birebir sayısı 704 yazılmıştı; doğrusu
+849'dur. Yerel geçmiş yeniden yazılmadı, düzeltme buraya kaydedildi.)
+
 **Dil borcu ve neden mekanik olarak silinemeyeceği.** Kalan en büyük ölçülü
 borç budur: 517 dosyanın 405'i en az bir şablon kalıbı taşıyor (toplam 5.415
 geçiş). Kalıpların en formülü olanı "Atlas bu X'i ayrıca kaydeder." cümlesidir
