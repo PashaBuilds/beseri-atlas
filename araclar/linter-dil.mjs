@@ -135,14 +135,41 @@ export function dilDenetimi(makaleler, { taban = dilTabanOku() } = {}) {
 }
 
 if (process.argv[1]?.endsWith('linter-dil.mjs')) {
-  const makaleler = makaleleriTopla();
+  const hepsi = makaleleriTopla();
   if (process.argv.includes('--taban-yaz')) {
-    const kayit = dilTabanYaz(makaleler);
+    const kayit = dilTabanYaz(hepsi);
     console.log(`dil borcu defteri yazildi: ${Object.keys(kayit.makaleler).length} makalede kalip var`);
   } else {
+    // DOSYA KAPSAMI (2026-08-30, kavram-ideoloji hakeminin olcumu). Arac dosya
+    // argumanini TAMAMEN yok sayiyordu: bir hakem kendi dosyasini verdiginde
+    // BASKA bir dosyanin borcunu HATA olarak goruyordu. Hakem yonergesi
+    // "kendi dosyanda calistir, KIRILDI ise DUZELT" diyor, ama duzeltilecek
+    // sey baska bir dosyada ve ona dokunmak yasak — yonergeyle arac
+    // celisiyordu. Artik arguman verilirse hatalar o dosyalara daraltilir;
+    // korpus toplami yine basilir ama BILGI olarak, hata olarak degil.
+    const secilenler = process.argv.slice(2).filter((a) => !a.startsWith('-'));
+    const makaleler = secilenler.length
+      ? hepsi.filter((m) => secilenler.some((s) => m.goreli === s || m.yol === s
+        || m.fm?.id === s || m.dosya === s || s.endsWith(`/${m.dosya}`)))
+      : hepsi;
+    if (secilenler.length && !makaleler.length) {
+      console.error(`linter-dil: eslesen makale yok — ${secilenler.join(' ')}`);
+      process.exit(2);
+    }
     const r = dilDenetimi(makaleler);
     r.yazdir();
-    for (const satir of r.ozetSatirlari || []) console.log(`   ${satir}`);
+    if (secilenler.length) {
+      // Kapsam daraltildiginda ozet satiri yaniltici olmasin: korpusun tamami
+      // ayrica olculur ve KAPSAM DISI oldugu acikca yazilir.
+      const tam = dilDenetimi(hepsi, { borcDefteriYaz: false });
+      console.log(`   [bu kosu ${makaleler.length} dosyayla sinirli]`);
+      for (const satir of tam.ozetSatirlari || []) console.log(`   korpus geneli — ${satir}`);
+      if (!tam.gecti && r.gecti) {
+        console.log(`   korpusun BASKA dosyalarinda ${tam.hatalar.length} dil hatasi var; bu kosuda hata sayilmadi`);
+      }
+    } else {
+      for (const satir of r.ozetSatirlari || []) console.log(`   ${satir}`);
+    }
     process.exit(r.gecti ? 0 : 1);
   }
 }

@@ -25,6 +25,7 @@ ilgili:
   - kavram-vesayet-yonetimi
   - olay-kongo-serbest-devleti
   - olay-cezayir-savasi
+  - kavram-somurgecilik
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
