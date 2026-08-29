@@ -1,0 +1,825 @@
+{
+  "id": "dusunur-montesquieu",
+  "govde_hash": "13553c432691",
+  "commit": "48bd041",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Montesquieu yasaların, yapıldıkları halka öylesine özgü olması gerektiğini yazar ki bir ulusun yasalarının bir başkasına uyması ancak çok büyük bir rastlantı olabilir; yasalar ülkenin fizikî koşullarına, iklimin buzlu, yakıcı ya da ılıman oluşuna, toprağın niteliğine, konumuna ve büyüklüğüne, halkın çiftçi, avcı ya da çoban oluşuna, anayasanın kaldırabileceği özgürlük derecesine, dine, halkın eğilimlerine, servete, sayıya, ticarete, göreneklere ve tavırlara göre kurulmalıdır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SL I,3'un liste cumlesi; Fransizca ozgun metinde yak. 224.500. karakter. HAKEM: liste kirpilmisti — kaynaktaki 'inclinations' ve 'manieres' ogeleri geri konuldu (12 oge tam)."
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Kitabın adındaki \"ruh\" işte bu ilişkiler demetidir: yasaların kendisi değil, yasaların şeylerle kurduğu bağ.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SL I,3 sonu: bu iliskiler butunune 'esprit des lois' denir (yak. 221.500)."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Birincisi bir yöntemdir: yönetim biçimleri hükümdarın erdemine göre değil, onları oldukları hâle getiren nedenlere göre açıklanır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "İkincisi bir uyarıdır: iktidara sahip her insan onu kötüye kullanmaya eğilimlidir, öyleyse tek güvence iktidarın iktidarı durdurmasıdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SL XI,4. Birincil pasaj 400k onbellek sinirinin otesinde (yak. 490.700); dok.mjs --tam gerekir. Editorun girisindeki erken gecisler (94.9k) eserin kendisi degildir. Curutucunun 'tek guvence' itirazi reddedildi: nitelemeyi kaynagin kendisi yapiyor ('la liberte politique ne se trouve QUE dans les gouvernements moderes' / 'il faut que ... le pouvoir arrete le pouvoir') ve cumle 'der metin' atif cercevesiyle veriliyor."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Aynı kitap üçüncü bir miras daha bıraktı ve bu mirası sahiplenen çok olmadı: Botero'dan beri işlenen, Doğu'yu sürekli bir despotizm alanı olarak kuran tasavvurun Aydınlanma'daki varış noktalarından biri de odur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynagin baslicagi 'Botero to Montesquieu' ve abstract'i kavramin Ronesans'tan Aydinlanma'ya donusumunu verir. HAKEM: 'on sekizinci yuzyildaki EN ETKILI formulasyonu' desteksiz bir ustunluk iddiasiydi, kaynakta yok; kaynagin tasidigi cizgiye indirildi."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "1689'da Bordeaux yakınlarındaki La Brède'de doğdu, 1708'de Bordeaux Üniversitesi'nden hukuk diploması aldı ve 1716'da amcasından hem unvanını hem de Bordeaux Parlamentosu'ndaki Président à Mortier görevini devraldı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP dogum gununu 19 Ocak, Wikipedia 18 Ocak verir; iki kaynak celistigi icin gun yazilmadi, yalniz yil verildi."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Bunu izleyen on bir yıl boyunca parlamentonun ceza dairesi Tournelle'e başkanlık etti: davaları dinledi, hapishaneleri denetledi ve işkence dahil çeşitli cezaların uygulanmasını yönetti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tournelle, on bir yil, hapishane denetimi ve iskence dahil cezalarin uygulanmasi kaynakta birebir."
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "1721'de yayımladığı *İran Mektupları* onu bir günde edebî ünlü yaptı; 1728'de Fransız Akademisi'ne seçildi, ardından yıllarca yollarda kaldı ve iki yılını İngiltere'de geçirdi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "1734'te *Romalıların Büyüklüğünün ve Çöküşünün Nedenleri Üzerine Düşünceler*'i, 1748'de *Kanunların Ruhu*'nu bastırdı; kitap Sorbonne'un kınamasını aldı ve 1751'de Katolik Kilisesi'nin Yasak Kitaplar Dizini'ne girdi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "1755'te Paris'te öldü.",
+      "onem": "renk",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Ayrımın ölçütü hükümdarın niteliği değildir; monarşi sabit ve yerleşik yasalarla yönetir, despotlukta ise tek kişi yasasız ve kuralsız biçimde her şeyi kendi iradesi ve kaprisiyle sürükler.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SL II,1 (yak. 222.300 civari); ayrim olcutunun hukumdarin erdemi olmadigi vurgusu SEP'ten. Curutucunun 'tek' itirazi reddedildi: 'tek kisi' burada sayi bildirir, ustunluk iddiasi degil."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Her yönetimin ayrıca bir \"ilkesi\" vardır — onu harekete geçiren insan tutkusu: cumhuriyette siyasal erdem, monarşide onur, despotlukta korku.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Korkunun ne iş gördüğünü metin açıkça söyler: despotlukta korku bütün cesaretleri kırmalı, en küçük hırs duygusunu bile söndürmelidir, çünkü kendine değer veren insanlar orada devrim yapabilecek durumdadır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SL III,9 (yak. 261.400)."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Bu tarifin örnekleri rastgele seçilmemiştir: kadılar, paşalar, Büyük Senyör'ün yemininin bağlayıcı olup olmadığı tartışması, tahtından edilen Pers hükümdarı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni bolumun ornek ve dipnotlari: cadis, pachas, Grand-Seigneur, sophi de Perse (262.300-262.800)."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Maddenin kendi vurgusuna göre despotluk, henüz despot olmayan her yönetim için sürekli bir tehlikedir; kuram belirli bir rejime değil, bir çürüme yönüne karşı kurulur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Ama iktidara sahip her insanın onu kötüye kullanmaya, sınırla karşılaşana dek gitmeye eğilimli olması bitmez bir deneyimdir — erdemin bile sınırlara ihtiyacı vardır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SL XI,4; birincil pasaj yak. 490.700-490.800, 400k sinirinin otesinde."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Sonuç tek cümleye iner: kötüye kullanım ancak \"le pouvoir arrête le pouvoir\" düzeniyle, yani şeylerin düzenlenişiyle iktidarın iktidarı durdurmasıyla engellenir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alintilanan ibare eserde yak. 490.921'de; editorun girisinde 94.917 ve 97.385'te de gecer."
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Yasama ile yürütme aynı kişide ya da aynı görevliler kurulunda birleşirse özgürlük yoktur, çünkü aynı hükümdarın zorbaca yasalar yapıp onları zorbaca uygulamasından korkulur; yargı gücü yasamadan ayrılmazsa yargıç yasa koyucu olur, yürütmeden ayrılmazsa yargıcın elinde ezicinin gücü bulunur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Nugent XI,6: 'united in the same person, or in the same body of magistrates'. HAKEM: 'ayni yargi organinda' yanlis cevirisiydi — 'corps de magistrature' yargi organi degil gorevliler kurulu; duzeltildi."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Siyasal özgürlüğün kendisi bir kurum değil bir ruh hâlidir: herkesin kendi güvenliği hakkında taşıdığı kanaatten doğan iç dinginlik.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Bu tanım gereği yargının halktan çekilen kişilerce, yılın belirli zamanlarında ve yalnızca gerek sürdüğü kadar kurulan mahkemelerde kullanılmasını ister; böylece yargı gücü görünmez hâle gelir ve insanlar makamdan korkar, yargıçtan değil.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Kuvvetler ayrılığı bölümünün başlığı *İngiltere anayasası üzerine*dir ve metin İngiltere'yi, anayasasının doğrudan amacı siyasal özgürlük olan tek ulus diye takdim eder.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bolum basligi Fransizca metinde 400k otesi; Ingilizce metinde 'One nation there is also in the world, that has for the direct end of its constitution political liberty' birebir. Curutucunun 'tek ulus' itirazi reddedildi: nitelemeyi kaynagin kendisi yapiyor ve cumle 'metin ... takdim eder' atif cercevesini tasiyor."
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Bölümün sonundaki çekince ise çoğu aktarımda düşer: İngilizlerin bu özgürlükten fiilen yararlanıp yararlanmadığını incelemek ona düşmez; onun için \"it is established by their laws\" demek yeterlidir ve ötesini aramaz.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bolumun kapanisindaki cekince; cogu aktarimda dusen kayit."
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Metin ayrıca bu uç özgürlüğün, yalnızca ılımlı bir özgürlüğe sahip olanları küçük düşürmesi gerekmediğini de ekler; insanlar genellikle uçlara değil ortalara daha kolay uyarlar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Janet basımının dipnotlarından biri Voltaire'e aittir ve İngiliz siyasal düzeninin fikrinin Germenlerden alındığı, bu güzel sistemin ormanlarda bulunduğu iddiasıyla açıkça alay eder: Lordlar Kamarası'nın, Avam Kamarası'nın, hakkaniyet mahkemesinin ve amiralik mahkemesinin gerçekten Kara Orman'dan gelmiş olması mümkün müdür?",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Not '(Note de VOLT.)' imzasiyla veriliyor; Voltaire atfi basimin kendi kaydidir. HAKEM: liste kirpilmisti — kaynak dort kurum sayiyor (chambre des pairs, communes, cour d'equite, cour de l'amiraute), govde ucunu yazmisti; 'hakkaniyet mahkemesi' geri konuldu."
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "On dördüncü kitap fizyolojik bir mekanizma kurar: soğuk hava bedenin dış liflerinin uçlarını sıkıştırır, esnekliklerini ve gücünü artırır; sıcak hava ise gevşetip uzatır ve gücü azaltır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Buradan karakter farkları türetilir — soğuk iklimlerde insanlar daha güçlü, daha cesur, daha açık sözlü; sıcak iklimlerde daha duyarlı, daha ürkek, uzun soluklu eyleme daha az yatkın.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Montesquieu iddiayı bir gözlemle destekler: bir koyun dilinin yarısını dondurup papillaları mikroskopla inceler ve dondurulmuş yarıda piramitlerin kaybolduğunu bildirir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Koyun dili deneyi ve mikroskop gozlemi XIV,2'de birebir."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Aynı kitabın beşinci bölümünün başlığı, iklimin kusurlarını besleyenlerin kötü, onlara karşı çıkanların iyi yasa koyucu olduğunu söyler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "XIV,5'in bolum basligi."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Kaynak da onu belirlenimci saymaz: etkileri yadsımaz ama karşı konulamaz görmez, yasanın gerektiğinde bu etkileri karşılamasını ve en kötü sonuçlarını dengelemesini ister.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "On yedinci kitabın akıl yürütmesi şudur: Asya'nın gerçek anlamda bir ılıman kuşağı yoktur (\"Asia has properly no temperate zone\"), çünkü orada çok soğuk yerler doğrudan çok sıcak olanlara değer; Avrupa'da ise ılıman kuşak geniştir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM SIKAYETI (Asya-Avrupa cografyasi yalniz SEP uzerinden) KAPATILDI: iddia SEP ozetinden (k5) Nugent cevirisinin XVII. kitabina (k10) tasindi; Wikisource XVII,3'te \"Asia has properly no temperate zone\" birebir gecer."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Kuvvetler ayrılığı bölümünde de üç iktidarın tek elde toplandığı örnek olarak sultanın şahsı gösterilir ve uyrukların en korkunç baskı altında inlediği söylenir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Nugent XI,6: 'In Turky, where these three powers are united in the Sultan's person, the subjects groan under the weight of a most frightful oppression.'"
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Rubiés'nin çözümlemesine göre doğu despotizmi kavramı, erken modern Avrupalıların kendilerini Osmanlı Ortadoğusu'ndan, İran'dan, Hindistan'dan ve Çin'den dinsel ya da teknolojik değil siyasal ve ahlaki bir zeminde ayırmalarını sağladı; ama bunu saf bir Avrupa fantezisi saymak yanlış olur, çünkü kavramın kendisi de kapsamı da sık sık hararetle tartışılmıştır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydinin abstract alani; makalenin tam metni gorulmedi."
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Yoon ise Montesquieu'yü yumuşatan okumaya itiraz eder: despotik rejimlerin ticaret yoluyla yavaşça dönüşebileceği yorumunun aksine, ona göre \"so strong was his physical determinism\" ki Montesquieu despotik devletlerin hiç reforme edilemeyeceğini düşünüyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydinin abstract alani; makalenin tam metni gorulmedi."
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Bu okuma, aynı düşünürü belirlenimci saymayan değerlendirmeyle açıkça çatışır; tartışma kapanmış değildir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki kaynagin acikca celistigi yer metinde celiski olarak birakildi; taraf tutulmadi."
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Metin, Afrikalıları köleleştirme hakkını savunmak zorunda kalsa hangi gerekçeleri sıralayacağını söyleyerek açılır ve uzun bir liste dizer; başlıcaları şunlardır: Avrupalılar Amerika'nın halklarını yok ettiklerine göre o toprakları açmak için Afrikalıları köleleştirmek zorundaydılar; \"Sugar would be too dear\" eğer şekeri üreten bitkiyi köleler işlemeseydi; Tanrı'nın böyle bir bedene iyi bir ruh koyduğuna inanmak güçtür; onları insan saymak, kendimizi Hristiyan saymamıza engel olurdu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Nugent XV,5. HAKEM: govde 'gerekceleri tek tek dizer' diyip sekiz gerekcenin dordunu veriyordu; kirpma acikca beyan edildi ('uzun bir liste ... baslicalari sunlardir')."
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Ama aynı kitabın başlığı köleliğin yasalarını iklimin doğasına bağlar ve birinci bölüm bir çekince taşır: kölelik doğası gereği kötüdür, ne efendiye ne köleye yararlıdır; ancak halkın zaten siyasal kölelik altında olduğu despotik ülkelerde sivil kölelik başka yönetimlerdekinden daha katlanılabilirdir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "XV. kitabin basligi ve XV,1'deki 'despotik ulkelerde daha katlanilabilir' cekincesi metne tasindi. Curutucunun 'kapsam-carpitmasi' itirazi reddedildi: kuresel dil makalenin degil, aktarilan metnin kendi dilidir ve cumle 'birinci bolum bir cekince tasir' cercevesiyle veriliyor; birincil kaynak (k4) o kuresel iddiayi birebir tasiyor."
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Metin aşırı sıcak ülkeler için de bir kapı aralar: sıcağın bedeni gevşettiği, insanı ancak ceza korkusunun çalıştırdığı yerde köleliğin akla daha yatkın geldiğini yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Nugent XV,7 birebir. HAKEM: iddia once yalniz SEP'e (k5) baglanmisti ve kunye notu k4'un 'bes bolum' tasidigini soyluyordu; k4 sayfasi XV. kitabin XVIII bolumunu birden tasiyor, yani birincil metin elde. Aktarim halkasi kisaltildi."
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Siyaset bilimci Donald Lutz'un geç on sekizinci yüzyıl yazınını taradığı çalışmaya göre Montesquieu, devrim öncesi Britanya Amerikası'nda yönetim ve siyaset konusunda en sık alıntılanan otoriteydi; kurucular onu İncil dışında her kaynaktan daha çok andı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Lutz taramasi Wikipedia uzerinden aktariliyor; taramanin aslina bakilmadi. HAKEM: aktarim halkasi gorunur kilindi — kaynagin verdigi ad (Donald Lutz) govdeye yazildi, 'bir calismaya gore' belirsizligi kaldirildi."
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Bu otoritenin tescili 1 Şubat 1788 tarihli *Federalist* 47'de görülür: Madison, konuda \"The oracle who is always consulted and cited\" diyerek onu anar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Montesquieu'nün model aldığı Britanya anayasasında yürütme, yasamanın ayrılmaz bir parçasıdır; yargıçları o atar, yasamanın bir kanadı azil davalarında yargı yetkisinin tek sahibidir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Öyleyse ayrılıktan kastedilen, organların birbirinin işlemlerinde hiçbir payı olmaması değildir; kastedilen, bir organın bütün yetkisinin başka bir organın bütün yetkisiyle aynı ellerde toplanmamasıdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Birincisi, ona katı bir organ ayrılığı doktrini yakıştırıp Amerikan modelini geriye yansıtmaktır; oysa düzeltme *Federalist* 47'de yazılıdır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Curutucunun 'tek-kaynakli-nedensellik' itirazi (k6) reddedildi: iddia dunyaya dair bir nedensellik degil, Federalist 47'nin ne dedigine dair bir aktarimdir; dogru kaynak metnin kendisidir."
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "İkincisi, iklim kitaplarını atlanabilir bir tuhaflık saymaktır; oysa köleliğin kitabı başlığından itibaren iklime bağlanmıştır ve şema çıkarıldığında geriye tutarlı bir yapı kalmaz.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kitabin basliginin koleligi iklime baglamasi dogrudan; 'sema cikarildiginda tutarli yapi kalmaz' yargisi yazarin cikarimidir."
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Kavramın kendisi ondan önce vardı, çağdaşları arasında da tartışmalıydı; bunu görmezden gelmek eleştiriyi zayıflatır, güçlendirmez.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "*Kanunların Ruhu* 1751'de yasak kitaplar listesine girdi; aynı kitap, Avrupa dışı yönetimleri tek bir korku rejimine indiren şemayı da dolaşıma soktu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "1751 Dizin kaydi dogrudan. HAKEM SONRASI: ikinci yan cumledeki 'yuzyil boyunca' suresi yazarin ozetiydi, cikarildi; semanin sonraki hayatina dair iddia ayri bir iddiaya (i056) ve onun kaynagina (k14) tasindi."
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Aynı basımın dipnotu bu örneklerden birine çağdaş bir itirazı da kaydeder: Voltaire'e göre kadılara atfedilen görüş Ricaut'da yalnızca gevşek ahlaklı bir zümreye aittir ve böyle bir tartışmanın varlığı despotluğun değil, sultanın da yasalarla sınırlı sayıldığının kanıtı olurdu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Janet basiminin C53 notu: Voltaire, Ricaut'nun yalniz 'morale relachee' bir zumreden soz ettigini, kadilarin bu sozde kararinin sultanin yasalara bagli oldugunun kaniti sayilabilecegini yazar. HAKEM EKLEMESI: kaynagin kendi cekincesi dusmustu; ornekler itirazsiz aktariliyordu. Atif basimin notuna dayanir, Voltaire'in kendi baskisi ayrica gorulmedi."
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "Ama aynı sayfa şemayı Avrupa'da da işletir: üç iktidarın birleştiği İtalya cumhuriyetlerinde de özgürlük Avrupa monarşilerindekinden azdır ve yönetim kendini ayakta tutmak için Türklerinki kadar sert yöntemlere başvurmak zorunda kalır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Nugent XI,6, sultan cumlesinin hemen ardindaki paragraf. HAKEM EKLEMESI: govde sultan ornegini alip devamini dusuruyordu; dusen kisim semanin Avrupa'ya da uygulandigini gosteriyor ve dosyanin kendi i015 savini destekliyor."
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "İki bölüm sonra aynı kapıyı kapatmaya uğraşır — doğal kölelik yeryüzünün birkaç parçasıyla sınırlıdır, geri kalan her yerde en ağır işler bile hür insanlarca görülebilir; maddenin okumasına göre kazanç umuduyla çalışan hür insan korkuyla çalışan köleden her zaman daha iyi çalışır ve Montesquieu böyle bir iklimin bulunmadığını umar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Nugent XV,8 birebir ('Natural slavery, then, is to be limited to some particular parts of the world'; 'Possibly there is not that climate upon earth...'). 'Kazanc umuduyla ... her zaman daha iyi calisir' ile 'umar' Nugent cevirisinde bu bicimde YOK, SEP'in parafrazidir; bu yuzden 'maddenin okumasina gore' kaydiyla ve k5 ile verildi."
+    },
+    {
+      "iddia_id": "i049",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Nugent XVII,3 birebir. CEKINCE: Montesquieu nedeni sunarken kendi kaydini duser -- \"a cause that I do not recollect ever to have seen remarked\"; bu tereddut metne tasindi, iddia yerlesik bir bulgu gibi verilmedi.",
+      "cumle": "Buradan savaşçı ve atılgan halkların doğrudan gevşek ve ürkek olanlara değdiği, birinin yenmek ötekinin yenilmek zorunda olduğu sonucu çıkarılır — yazar bunu, daha önce belirtildiğini anımsamadığı bir neden diye sunar."
+    },
+    {
+      "iddia_id": "i050",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Nugent XVII,6 birebir: \"In Asia they have always had great empires; in Europe these could never subsist\", \"Asia has larger plains\", \"The power in Asia ought to be always despotic\", \"we shall never see any thing there but the heroism of slavery\".",
+      "cumle": "Altıncı bölüm nedeni ikiye katlar: metne göre Asya'da her zaman büyük imparatorluklar olmuştur, Avrupa'da bunlar hiç sürmemiştir, çünkü Asya'nın ovaları daha büyüktür; oradaki iktidarın her zaman despotik olması gerekir ve o ülkenin bütün tarihlerinde hür bir ruh gösteren tek bir pasaj bulunamaz."
+    },
+    {
+      "iddia_id": "i051",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref kaydinin abstract alani; makalenin tam metni gorulmedi. CEKINCE: kaynagin kendi ifadesi \"the importance, not always recognized\"; govdeye \"her zaman kabul edilmis degildir\" olarak tasindi, kesin bir ihmal iddiasina cevrilmedi. Kitabin adi PUF basiminda virgulludur, Crossref abstract'i noktayla yazar.",
+      "cumle": "Louis Althusser ilk kitabını 1959'da ona ayırdı — *Montesquieu, la politique et l'histoire* — ve Domínguez'in okumasına göre Montesquieu'nün Althusser'in kuramsal gelişimindeki ağırlığı her zaman kabul edilmiş değildir."
+    },
+    {
+      "iddia_id": "i052",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "marxists.org, Contradiction and Overdetermination (For Marx, Brewster cevirisi). DIKKAT: Althusser indirgeme islemini HEGEL'e atfeder ve parantez icinde fikri Montesquieu'den aldigini yazar; cumle bu dolayimi koruyor, Althusser Montesquieu'nun ilkesini dogrudan ideoloji ilan etmis gibi kurulmadi. CURUTUCU: 'anakronizm — ideoloji kavrami ~1790 sonrasidir, makale 1755'te bitiyor' itirazi reddedildi. Kavram Montesquieu'ye degil, 1962 tarihli Althusser metnine aittir ve paragraf acilisinda geriye donuk okuma oldugu acikca beyan edilir ('iki yuzyil sonranin, Montesquieu'de bulunmayan kavramlariyla'). Arac paragraf duzeyinde tarar, bu beyani goremez.",
+      "cumle": "Althusser'in kendi metninde borç bir eleştiriye dönüşür: bir tarihsel dönemin bütün somut hayatını — kurumlarından ahlakına, dininden savaşlarına kadar — tek bir iç birlik ilkesine indirgeme işlemi için parantez içinde \"Hegel derived the idea from Montesquieu\" der."
+    },
+    {
+      "iddia_id": "i053",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni pasajin devami: \"only possible on the absolute condition of taking the whole concrete life of a people for the externalisation-alienation of an internal spiritual principle ... its own ideology\".",
+      "cumle": "Ona göre böyle bir indirgeme ancak bir halkın bütün somut hayatını içsel bir tinsel ilkenin dışsallaşması saymakla mümkündür ve o ilke, sonunda, dönemin kendi ideolojisinden başka bir şey olamaz."
+    },
+    {
+      "iddia_id": "i054",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k13",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "SEP Colonialism maddesinin Said bolumu; \"a structured set of concepts, assumptions, and discursive practices\" ve \"a practice that helps define Europe by creating a stable depiction of its other, its constitutive outside\" birebir.",
+      "cumle": "Edward Said'in *Oryantalizm*'i, Foucault'nun söylem çözümlemesini Avrupa dışı halklara dair bilginin üretimine uygulayarak oryantalizmi yapılandırılmış bir kavramlar, varsayımlar ve söylemsel pratikler kümesi olarak tarif etti; maddenin saydığı anlamlardan biri, oryantalizmin Avrupa'yı, ötekisinin — \"its constitutive outside\" — istikrarlı bir tasvirini üreterek tanımlamaya yarayan bir pratik olmasıdır."
+    },
+    {
+      "iddia_id": "i055",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k13",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sentez beyani. Olcum: SEP Colonialism maddesinde \"Montesquieu\" dizesi GECMIYOR (200, 60.577 karakter, kelime ortusmesi %0). Said tarifi ile Kanunlarin Ruhu arasindaki bag bu yazinin adimidir ve govdede acikca oyle soylenir.",
+      "cumle": "Bu tarifi *Kanunların Ruhu*'nun Asya kitaplarına bağlamak maddenin değil, buradaki okumanın adımıdır; madde Montesquieu'yü hiç anmaz."
+    },
+    {
+      "iddia_id": "i056",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k14",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref kaydinin abstract alani (SSRN on baskisi; ssrn.com 403 doner). CEKINCE: kaynak kendini \"speculative essay\" diye tanimlar ve \"Montesquieu himself is forced to admit\" kaydini tasir; ikisi de metne tasindi. Makalenin tam metni gorulmedi.",
+      "cumle": "Ruskola'nın çözümlemesine göre Montesquieu despotizm fikrini Fransız mutlakiyetinin eleştirisi olarak geliştirirken prototipini Doğu'ya, özellikle Çin'e yansıtır — üstelik birkaç önemli noktada Çin'in bu kategoriye uymadığını sonunda kendisi kabul etmek zorunda kalır — ve ampirik temeli çürük olmasına rağmen kategori zamanla siyaset kuramı olmaktan çıkıp bir bilimsel ırkçılık kuramının zemini hâline gelir."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 53,
+    "kismi": 3,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "4 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    },
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "1 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
+}

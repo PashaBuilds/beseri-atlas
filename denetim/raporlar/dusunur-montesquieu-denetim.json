@@ -1,87 +1,369 @@
 {
   "id": "dusunur-montesquieu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:53.309Z",
-  "govde_hash": "35df463c90ce",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T17:22:53.214Z",
+  "govde_hash": "13553c432691",
+  "commit": "48bd041",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak onu Aydınlanma'nın büyük siyaset filozoflarından biri olarak kaydeder ve çeşitli yönetim biçimlerinin, onları oldukları hâle getiren ve gelişimlerini ile",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Aydınlanma"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, onun bu açıklamayı yönetimlerin yozlaşmadan nasıl korunabileceğini açıklamak için kullandığını yazar.",
+      "iddia": "Montesquieu yasaların, yapıldıkları halka öylesine özgü olması gerektiğini yazar ki bir ulusun yasalarının bir başkasına uyması ancak çok büyük bir rastlantı ol",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir siyaset kuramının önce nedenleri açıklayıp sonra bir sonuç çıkarması, bu atlasın kendi ayrımıyla örtüşür: betimleme ile öneri ayrı işlerdir ve ayrı kaydedil",
+      "iddia": "Kitabın adındaki \"ruh\" işte bu ilişkiler demetidir: yasaların kendisi değil, yasaların şeylerle kurduğu bağ.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Birincisi bir yöntemdir: yönetim biçimleri hükümdarın erdemine göre değil, onları oldukları hâle getiren nedenlere göre açıklanır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, onun despotizmi özellikle, zaten despot olmayan her yönetim için sürekli bir tehlike olarak gördüğünü ve bunun en iyi, farklı organların yasama, yürütme",
+      "iddia": "İkincisi bir uyarıdır: iktidara sahip her insan onu kötüye kullanmaya eğilimlidir, öyleyse tek güvence iktidarın iktidarı durdurmasıdır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bir tehlikenin bütün yönetim biçimleri için geçerli sayılması, kuramın belirli bir rejime karşı değil bir yapıya karşı kurulduğunu gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k7",
+      "iddia": "Aynı kitap üçüncü bir miras daha bıraktı ve bu mirası sahiplenen çok olmadı: Botero'dan beri işlenen, Doğu'yu sürekli bir despotizm alanı olarak kuran tasavvuru",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak onu doymak bilmez biçimde meraklı ve iğneleyici biçimde komik olarak niteler.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k5",
+      "iddia": "1689'da Bordeaux yakınlarındaki La Brède'de doğdu, 1708'de Bordeaux Üniversitesi'nden hukuk diploması aldı ve 1716'da amcasından hem unvanını hem de Bordeaux Pa",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bir ansiklopedinin bir düşünürün üslubunu ayrıca kaydetmesi, metnin nasıl yazıldığının da bir veri sayıldığını gösterir; atlas bu nitelemeyi benimsemez, kime ai",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k5",
+      "iddia": "Bunu izleyen on bir yıl boyunca parlamentonun ceza dairesi Tournelle'e başkanlık etti: davaları dinledi, hapishaneleri denetledi ve işkence dahil çeşitli cezala",
+      "durum": "OK",
+      "not": ""
     },
     {
-      "anahtar": "k2",
-      "iddia": "Kuvvetler ayrılığı tartışmasının sonraki uygulama alanlarından biri için ayrı bir kayıt tutulur.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k5",
+      "iddia": "1721'de yayımladığı İran Mektupları onu bir günde edebî ünlü yaptı; 1728'de Fransız Akademisi'ne seçildi, ardından yıllarca yollarda kaldı ve iki yılını İngilte",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k9",
+      "iddia": "1734'te Romalıların Büyüklüğünün ve Çöküşünün Nedenleri Üzerine Düşünceler'i, 1748'de Kanunların Ruhu'nu bastırdı; kitap Sorbonne'un kınamasını aldı ve 1751'de ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 4 ad ölçülemedi"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Bir önceki kuşağın düşünürü için tutulan kayıt, onu Britanyalı filozof, Oxford akademisyeni ve tıp araştırmacısı olarak verir.",
+      "anahtar": "k5",
+      "iddia": "1755'te Paris'te öldü.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Kanunların Ruhu'nun içeriği, iklim kuramı, hukuk görüşleri ve sonraki alımlanması burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler o",
+      "iddia": "Ayrımın ölçütü hükümdarın niteliği değildir; monarşi sabit ve yerleşik yasalarla yönetir, despotlukta ise tek kişi yasasız ve kuralsız biçimde her şeyi kendi ir",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Ruhu"
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Ayrımın ölçütü hükümdarın niteliği değildir; monarşi sabit ve yerleşik yasalarla yönetir, despotlukta ise tek kişi yasasız ve kuralsız biçimde her şeyi kendi ir",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Her yönetimin ayrıca bir \"ilkesi\" vardır — onu harekete geçiren insan tutkusu: cumhuriyette siyasal erdem, monarşide onur, despotlukta korku.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Korkunun ne iş gördüğünü metin açıkça söyler: despotlukta korku bütün cesaretleri kırmalı, en küçük hırs duygusunu bile söndürmelidir, çünkü kendine değer veren",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu tarifin örnekleri rastgele seçilmemiştir: kadılar, paşalar, Büyük Senyör'ün yemininin bağlayıcı olup olmadığı tartışması, tahtından edilen Pers hükümdarı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı basımın dipnotu bu örneklerden birine çağdaş bir itirazı da kaydeder: Voltaire'e göre kadılara atfedilen görüş Ricaut'da yalnızca gevşek ahlaklı bir zümrey",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Maddenin kendi vurgusuna göre despotluk, henüz despot olmayan her yönetim için sürekli bir tehlikedir; kuram belirli bir rejime değil, bir çürüme yönüne karşı k",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Louis Althusser ilk kitabını 1959'da ona ayırdı — Montesquieu, la politique et l'histoire — ve Domínguez'in okumasına göre Montesquieu'nün Althusser'in kuramsal",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Althusser'in kendi metninde borç bir eleştiriye dönüşür: bir tarihsel dönemin bütün somut hayatını — kurumlarından ahlakına, dininden savaşlarına kadar — tek bi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Ona göre böyle bir indirgeme ancak bir halkın bütün somut hayatını içsel bir tinsel ilkenin dışsallaşması saymakla mümkündür ve o ilke, sonunda, dönemin kendi i",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ama iktidara sahip her insanın onu kötüye kullanmaya, sınırla karşılaşana dek gitmeye eğilimli olması bitmez bir deneyimdir — erdemin bile sınırlara ihtiyacı va",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sonuç tek cümleye iner: kötüye kullanım ancak \"le pouvoir arrête le pouvoir\" düzeniyle, yani şeylerin düzenlenişiyle iktidarın iktidarı durdurmasıyla engellenir",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yasama ile yürütme aynı kişide ya da aynı görevliler kurulunda birleşirse özgürlük yoktur, çünkü aynı hükümdarın zorbaca yasalar yapıp onları zorbaca uygulaması",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Siyasal özgürlüğün kendisi bir kurum değil bir ruh hâlidir: herkesin kendi güvenliği hakkında taşıdığı kanaatten doğan iç dinginlik.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu tanım gereği yargının halktan çekilen kişilerce, yılın belirli zamanlarında ve yalnızca gerek sürdüğü kadar kurulan mahkemelerde kullanılmasını ister; böylec",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kuvvetler ayrılığı bölümünün başlığı İngiltere anayasası üzerinedir ve metin İngiltere'yi, anayasasının doğrudan amacı siyasal özgürlük olan tek ulus diye takdi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kuvvetler ayrılığı bölümünün başlığı İngiltere anayasası üzerinedir ve metin İngiltere'yi, anayasasının doğrudan amacı siyasal özgürlük olan tek ulus diye takdi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bölümün sonundaki çekince ise çoğu aktarımda düşer: İngilizlerin bu özgürlükten fiilen yararlanıp yararlanmadığını incelemek ona düşmez; onun için \"it is establ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İngilizlerin"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Metin ayrıca bu uç özgürlüğün, yalnızca ılımlı bir özgürlüğe sahip olanları küçük düşürmesi gerekmediğini de ekler; insanlar genellikle uçlara değil ortalara da",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Janet basımının dipnotlarından biri Voltaire'e aittir ve İngiliz siyasal düzeninin fikrinin Germenlerden alındığı, bu güzel sistemin ormanlarda bulunduğu iddias",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "On dördüncü kitap fizyolojik bir mekanizma kurar: soğuk hava bedenin dış liflerinin uçlarını sıkıştırır, esnekliklerini ve gücünü artırır; sıcak hava ise gevşet",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Buradan karakter farkları türetilir — soğuk iklimlerde insanlar daha güçlü, daha cesur, daha açık sözlü; sıcak iklimlerde daha duyarlı, daha ürkek, uzun soluklu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Montesquieu iddiayı bir gözlemle destekler: bir koyun dilinin yarısını dondurup papillaları mikroskopla inceler ve dondurulmuş yarıda piramitlerin kaybolduğunu ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı kitabın beşinci bölümünün başlığı, iklimin kusurlarını besleyenlerin kötü, onlara karşı çıkanların iyi yasa koyucu olduğunu söyler.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kaynak da onu belirlenimci saymaz: etkileri yadsımaz ama karşı konulamaz görmez, yasanın gerektiğinde bu etkileri karşılamasını ve en kötü sonuçlarını dengeleme",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "On yedinci kitabın akıl yürütmesi şudur: Asya'nın gerçek anlamda bir ılıman kuşağı yoktur (\"Asia has properly no temperate zone\"), çünkü orada çok soğuk yerler ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Buradan savaşçı ve atılgan halkların doğrudan gevşek ve ürkek olanlara değdiği, birinin yenmek ötekinin yenilmek zorunda olduğu sonucu çıkarılır — yazar bunu, d",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Altıncı bölüm nedeni ikiye katlar: metne göre Asya'da her zaman büyük imparatorluklar olmuştur, Avrupa'da bunlar hiç sürmemiştir, çünkü Asya'nın ovaları daha bü",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kuvvetler ayrılığı bölümünde de üç iktidarın tek elde toplandığı örnek olarak sultanın şahsı gösterilir ve uyrukların en korkunç baskı altında inlediği söylenir",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ama aynı sayfa şemayı Avrupa'da da işletir: üç iktidarın birleştiği İtalya cumhuriyetlerinde de özgürlük Avrupa monarşilerindekinden azdır ve yönetim kendini ay",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k13",
+      "iddia": "Edward Said'in Oryantalizm'i, Foucault'nun söylem çözümlemesini Avrupa dışı halklara dair bilginin üretimine uygulayarak oryantalizmi yapılandırılmış bir kavram",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k13",
+      "iddia": "Bu tarifi Kanunların Ruhu'nun Asya kitaplarına bağlamak maddenin değil, buradaki okumanın adımıdır; madde Montesquieu'yü hiç anmaz.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Rubiés'nin çözümlemesine göre doğu despotizmi kavramı, erken modern Avrupalıların kendilerini Osmanlı Ortadoğusu'ndan, İran'dan, Hindistan'dan ve Çin'den dinsel",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Yoon ise Montesquieu'yü yumuşatan okumaya itiraz eder: despotik rejimlerin ticaret yoluyla yavaşça dönüşebileceği yorumunun aksine, ona göre \"so strong was his ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Bu okuma, aynı düşünürü belirlenimci saymayan değerlendirmeyle açıkça çatışır; tartışma kapanmış değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Bu okuma, aynı düşünürü belirlenimci saymayan değerlendirmeyle açıkça çatışır; tartışma kapanmış değildir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k4",
-      "iddia": "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Kanunlarin Ruhu.",
+      "iddia": "Metin, Afrikalıları köleleştirme hakkını savunmak zorunda kalsa hangi gerekçeleri sıralayacağını söyleyerek açılır ve uzun bir liste dizer; başlıcaları şunlardı",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ama aynı kitabın başlığı köleliğin yasalarını iklimin doğasına bağlar ve birinci bölüm bir çekince taşır: kölelik doğası gereği kötüdür, ne efendiye ne köleye y",
       "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kanunlarin, Ruhu"
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Metin aşırı sıcak ülkeler için de bir kapı aralar: sıcağın bedeni gevşettiği, insanı ancak ceza korkusunun çalıştırdığı yerde köleliğin akla daha yatkın geldiği",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İki bölüm sonra aynı kapıyı kapatmaya uğraşır — doğal kölelik yeryüzünün birkaç parçasıyla sınırlıdır, geri kalan her yerde en ağır işler bile hür insanlarca gö",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "İki bölüm sonra aynı kapıyı kapatmaya uğraşır — doğal kölelik yeryüzünün birkaç parçasıyla sınırlıdır, geri kalan her yerde en ağır işler bile hür insanlarca gö",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Siyaset bilimci Donald Lutz'un geç on sekizinci yüzyıl yazınını taradığı çalışmaya göre Montesquieu, devrim öncesi Britanya Amerikası'nda yönetim ve siyaset kon",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bu otoritenin tescili 1 Şubat 1788 tarihli Federalist 47'de görülür: Madison, konuda \"The oracle who is always consulted and cited\" diyerek onu anar.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Montesquieu'nün model aldığı Britanya anayasasında yürütme, yasamanın ayrılmaz bir parçasıdır; yargıçları o atar, yasamanın bir kanadı azil davalarında yargı ye",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Öyleyse ayrılıktan kastedilen, organların birbirinin işlemlerinde hiçbir payı olmaması değildir; kastedilen, bir organın bütün yetkisinin başka bir organın bütü",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Birincisi, ona katı bir organ ayrılığı doktrini yakıştırıp Amerikan modelini geriye yansıtmaktır; oysa düzeltme Federalist 47'de yazılıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "İkincisi, iklim kitaplarını atlanabilir bir tuhaflık saymaktır; oysa köleliğin kitabı başlığından itibaren iklime bağlanmıştır ve şema çıkarıldığında geriye tut",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kavramın kendisi ondan önce vardı, çağdaşları arasında da tartışmalıydı; bunu görmezden gelmek eleştiriyi zayıflatır, güçlendirmez.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kanunların Ruhu 1751'de yasak kitaplar listesine girdi; aynı kitap, Avrupa dışı yönetimleri tek bir korku rejimine indiren şemayı da dolaşıma soktu.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k14",
+      "iddia": "Ruskola'nın çözümlemesine göre Montesquieu despotizm fikrini Fransız mutlakiyetinin eleştirisi olarak geliştirirken prototipini Doğu'ya, özellikle Çin'e yansıtı",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     }
   ]
 }

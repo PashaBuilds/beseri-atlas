@@ -1,18 +1,65 @@
 ## dusunur-montesquieu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.309Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T17:22:53.214Z_
 
-- [ATOMSUZ] k1 → "Kaynak onu Aydınlanma'nın büyük siyaset filozoflarından biri olarak kaydeder ve çeşitli yönetim biçimlerinin, …" — programatik olarak ölçülemedi (ad karşılığı yok): Aydınlanma
-- [ATOMSUZ] k1 → "Kaynak, onun bu açıklamayı yönetimlerin yozlaşmadan nasıl korunabileceğini açıklamak için kullandığını yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir siyaset kuramının önce nedenleri açıklayıp sonra bir sonuç çıkarması, bu atlasın kendi ayrımıyla örtüşür: …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak, onun despotizmi özellikle, zaten despot olmayan her yönetim için sürekli bir tehlike olarak gördüğünü …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir tehlikenin bütün yönetim biçimleri için geçerli sayılması, kuramın belirli bir rejime karşı değil bir yapı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak onu doymak bilmez biçimde meraklı ve iğneleyici biçimde komik olarak niteler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir ansiklopedinin bir düşünürün üslubunu ayrıca kaydetmesi, metnin nasıl yazıldığının da bir veri sayıldığını…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Kuvvetler ayrılığı tartışmasının sonraki uygulama alanlarından biri için ayrı bir kayıt tutulur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Atlas iki kayıt arasında bir etki bağı kurmaz; kullanılan kaynak bölümlerinde böyle bir bağ belirtilmemiştir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Bir önceki kuşağın düşünürü için tutulan kayıt, onu Britanyalı filozof, Oxford akademisyeni ve tıp araştırmacı…"
-- [ATOMSUZ] k1 → "Kanunların Ruhu'nun içeriği, iklim kuramı, hukuk görüşleri ve sonraki alımlanması burada ayrı başlıklar altınd…" — programatik olarak ölçülemedi (ad karşılığı yok): Ruhu
-- [ATOMSUZ] k4 → "Bu dosya düşünürün başlıca eserinin kamu malı tam metnine bağlanır: Kanunlarin Ruhu." — programatik olarak ölçülemedi (ad karşılığı yok): Kanunlarin, Ruhu
+- [ATOMSUZ] k1 → "Montesquieu yasaların, yapıldıkları halka öylesine özgü olması gerektiğini yazar ki bir ulusun yasalarının bir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kitabın adındaki "ruh" işte bu ilişkiler demetidir: yasaların kendisi değil, yasaların şeylerle kurduğu bağ." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Birincisi bir yöntemdir: yönetim biçimleri hükümdarın erdemine göre değil, onları oldukları hâle getiren neden…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İkincisi bir uyarıdır: iktidara sahip her insan onu kötüye kullanmaya eğilimlidir, öyleyse tek güvence iktidar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Aynı kitap üçüncü bir miras daha bıraktı ve bu mirası sahiplenen çok olmadı: Botero'dan beri işlenen, Doğu'yu …" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "1689'da Bordeaux yakınlarındaki La Brède'de doğdu, 1708'de Bordeaux Üniversitesi'nden hukuk diploması aldı ve …" — 5 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Bunu izleyen on bir yıl boyunca parlamentonun ceza dairesi Tournelle'e başkanlık etti: davaları dinledi, hapis…"
+- [OK]      k5 → "1721'de yayımladığı İran Mektupları onu bir günde edebî ünlü yaptı; 1728'de Fransız Akademisi'ne seçildi, ardı…" — 2 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k9 → "1734'te Romalıların Büyüklüğünün ve Çöküşünün Nedenleri Üzerine Düşünceler'i, 1748'de Kanunların Ruhu'nu bastı…" — 3 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k5 → "1755'te Paris'te öldü."
+- [ATOMSUZ] k1 → "Ayrımın ölçütü hükümdarın niteliği değildir; monarşi sabit ve yerleşik yasalarla yönetir, despotlukta ise tek …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Ayrımın ölçütü hükümdarın niteliği değildir; monarşi sabit ve yerleşik yasalarla yönetir, despotlukta ise tek …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Her yönetimin ayrıca bir "ilkesi" vardır — onu harekete geçiren insan tutkusu: cumhuriyette siyasal erdem, mon…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Korkunun ne iş gördüğünü metin açıkça söyler: despotlukta korku bütün cesaretleri kırmalı, en küçük hırs duygu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Bu tarifin örnekleri rastgele seçilmemiştir: kadılar, paşalar, Büyük Senyör'ün yemininin bağlayıcı olup olmadı…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Aynı basımın dipnotu bu örneklerden birine çağdaş bir itirazı da kaydeder: Voltaire'e göre kadılara atfedilen …"
+- [ATOMSUZ] k5 → "Maddenin kendi vurgusuna göre despotluk, henüz despot olmayan her yönetim için sürekli bir tehlikedir; kuram b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k12 → "Louis Althusser ilk kitabını 1959'da ona ayırdı — Montesquieu, la politique et l'histoire — ve Domínguez'in ok…"
+- [OK]      k11 → "Althusser'in kendi metninde borç bir eleştiriye dönüşür: bir tarihsel dönemin bütün somut hayatını — kurumları…"
+- [ATOMSUZ] k11 → "Ona göre böyle bir indirgeme ancak bir halkın bütün somut hayatını içsel bir tinsel ilkenin dışsallaşması saym…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Ama iktidara sahip her insanın onu kötüye kullanmaya, sınırla karşılaşana dek gitmeye eğilimli olması bitmez b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Sonuç tek cümleye iner: kötüye kullanım ancak "le pouvoir arrête le pouvoir" düzeniyle, yani şeylerin düzenlen…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Yasama ile yürütme aynı kişide ya da aynı görevliler kurulunda birleşirse özgürlük yoktur, çünkü aynı hükümdar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Siyasal özgürlüğün kendisi bir kurum değil bir ruh hâlidir: herkesin kendi güvenliği hakkında taşıdığı kanaatt…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Bu tanım gereği yargının halktan çekilen kişilerce, yılın belirli zamanlarında ve yalnızca gerek sürdüğü kadar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kuvvetler ayrılığı bölümünün başlığı İngiltere anayasası üzerinedir ve metin İngiltere'yi, anayasasının doğrud…"
+- [OK]      k2 → "Kuvvetler ayrılığı bölümünün başlığı İngiltere anayasası üzerinedir ve metin İngiltere'yi, anayasasının doğrud…"
+- [ATOMSUZ] k2 → "Bölümün sonundaki çekince ise çoğu aktarımda düşer: İngilizlerin bu özgürlükten fiilen yararlanıp yararlanmadı…" — programatik olarak ölçülemedi (ad karşılığı yok): İngilizlerin
+- [ATOMSUZ] k2 → "Metin ayrıca bu uç özgürlüğün, yalnızca ılımlı bir özgürlüğe sahip olanları küçük düşürmesi gerekmediğini de e…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Janet basımının dipnotlarından biri Voltaire'e aittir ve İngiliz siyasal düzeninin fikrinin Germenlerden alınd…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k3 → "On dördüncü kitap fizyolojik bir mekanizma kurar: soğuk hava bedenin dış liflerinin uçlarını sıkıştırır, esnek…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Buradan karakter farkları türetilir — soğuk iklimlerde insanlar daha güçlü, daha cesur, daha açık sözlü; sıcak…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Montesquieu iddiayı bir gözlemle destekler: bir koyun dilinin yarısını dondurup papillaları mikroskopla incele…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Aynı kitabın beşinci bölümünün başlığı, iklimin kusurlarını besleyenlerin kötü, onlara karşı çıkanların iyi ya…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Kaynak da onu belirlenimci saymaz: etkileri yadsımaz ama karşı konulamaz görmez, yasanın gerektiğinde bu etkil…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k10 → "On yedinci kitabın akıl yürütmesi şudur: Asya'nın gerçek anlamda bir ılıman kuşağı yoktur ("Asia has properly …"
+- [ATOMSUZ] k10 → "Buradan savaşçı ve atılgan halkların doğrudan gevşek ve ürkek olanlara değdiği, birinin yenmek ötekinin yenilm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k10 → "Altıncı bölüm nedeni ikiye katlar: metne göre Asya'da her zaman büyük imparatorluklar olmuştur, Avrupa'da bunl…"
+- [ATOMSUZ] k2 → "Kuvvetler ayrılığı bölümünde de üç iktidarın tek elde toplandığı örnek olarak sultanın şahsı gösterilir ve uyr…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Ama aynı sayfa şemayı Avrupa'da da işletir: üç iktidarın birleştiği İtalya cumhuriyetlerinde de özgürlük Avrup…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k13 → "Edward Said'in Oryantalizm'i, Foucault'nun söylem çözümlemesini Avrupa dışı halklara dair bilginin üretimine u…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k13 → "Bu tarifi Kanunların Ruhu'nun Asya kitaplarına bağlamak maddenin değil, buradaki okumanın adımıdır; madde Mont…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k7 → "Rubiés'nin çözümlemesine göre doğu despotizmi kavramı, erken modern Avrupalıların kendilerini Osmanlı Ortadoğu…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k8 → "Yoon ise Montesquieu'yü yumuşatan okumaya itiraz eder: despotik rejimlerin ticaret yoluyla yavaşça dönüşebilec…"
+- [ATOMSUZ] k5 → "Bu okuma, aynı düşünürü belirlenimci saymayan değerlendirmeyle açıkça çatışır; tartışma kapanmış değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k8 → "Bu okuma, aynı düşünürü belirlenimci saymayan değerlendirmeyle açıkça çatışır; tartışma kapanmış değildir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Metin, Afrikalıları köleleştirme hakkını savunmak zorunda kalsa hangi gerekçeleri sıralayacağını söyleyerek aç…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k4 → "Ama aynı kitabın başlığı köleliğin yasalarını iklimin doğasına bağlar ve birinci bölüm bir çekince taşır: köle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Metin aşırı sıcak ülkeler için de bir kapı aralar: sıcağın bedeni gevşettiği, insanı ancak ceza korkusunun çal…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "İki bölüm sonra aynı kapıyı kapatmaya uğraşır — doğal kölelik yeryüzünün birkaç parçasıyla sınırlıdır, geri ka…"
+- [OK]      k5 → "İki bölüm sonra aynı kapıyı kapatmaya uğraşır — doğal kölelik yeryüzünün birkaç parçasıyla sınırlıdır, geri ka…"
+- [OK]      k9 → "Siyaset bilimci Donald Lutz'un geç on sekizinci yüzyıl yazınını taradığı çalışmaya göre Montesquieu, devrim ön…"
+- [OK]      k6 → "Bu otoritenin tescili 1 Şubat 1788 tarihli Federalist 47'de görülür: Madison, konuda "The oracle who is always…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Montesquieu'nün model aldığı Britanya anayasasında yürütme, yasamanın ayrılmaz bir parçasıdır; yargıçları o at…"
+- [ATOMSUZ] k6 → "Öyleyse ayrılıktan kastedilen, organların birbirinin işlemlerinde hiçbir payı olmaması değildir; kastedilen, b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Birincisi, ona katı bir organ ayrılığı doktrini yakıştırıp Amerikan modelini geriye yansıtmaktır; oysa düzeltm…"
+- [ATOMSUZ] k4 → "İkincisi, iklim kitaplarını atlanabilir bir tuhaflık saymaktır; oysa köleliğin kitabı başlığından itibaren ikl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Kavramın kendisi ondan önce vardı, çağdaşları arasında da tartışmalıydı; bunu görmezden gelmek eleştiriyi zayı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Kanunların Ruhu 1751'de yasak kitaplar listesine girdi; aynı kitap, Avrupa dışı yönetimleri tek bir korku reji…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k14 → "Ruskola'nın çözümlemesine göre Montesquieu despotizm fikrini Fransız mutlakiyetinin eleştirisi olarak geliştir…" — 1 atom doğrulandı; 3 ad ölçülemedi
 
-**Özet:** 1 OK · 0 ISARET · 0 HATA · 12 ATOMSUZ
+**Özet:** 29 OK · 0 ISARET · 0 HATA · 31 ATOMSUZ
