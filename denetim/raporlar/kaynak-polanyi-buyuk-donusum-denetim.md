@@ -1,5 +1,5 @@
 ## kaynak-polanyi-buyuk-donusum
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:43.632Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:01.413Z_
 
 - [OK]      k1 → "Kaynak eseri The Great Transformation adıyla anar ve onun tarihsel toplumbilim için bir model hâline geldiğini…"
 - [OK]      k1 → "Kaynak, yazarın eski iktisatlara yaklaşımının Kolomb öncesi Amerika ve eski Mezopotamya gibi çeşitli örneklere…" — 1 atom doğrulandı; 2 ad ölçülemedi

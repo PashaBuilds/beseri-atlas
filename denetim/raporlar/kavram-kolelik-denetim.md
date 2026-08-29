@@ -1,5 +1,5 @@
 ## kavram-kolelik
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:37.304Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.005Z_
 
 - [ATOMSUZ] k1 → "Kaynak, terminoloji başlığı altında altı alt başlık tutar: mal kölelik, borç emeği, bağımlılar, zorla çalıştır…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, hukuki yönler başlığı altında özel ile devlet eliyle uygulama ayrımını alt başlık olarak tutar; özelli…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

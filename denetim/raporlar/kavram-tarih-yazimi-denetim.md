@@ -1,5 +1,5 @@
 ## kavram-tarih-yazimi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:38.142Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.779Z_
 
 - [ATOMSUZ] k1 → "yüzyıl." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Aynı bölgenin iki ayrı dönem başlığı altında yeniden geçmesi, atlasın şu kuralının dayanağıdır: bu atlasta tar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

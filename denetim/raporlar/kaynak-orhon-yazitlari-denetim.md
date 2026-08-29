@@ -1,5 +1,5 @@
 ## kaynak-orhon-yazitlari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:43.574Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:01.359Z_
 
 - [ATOMSUZ] k1 → "Orhon Yazıtları, bir bozkır devletinin kendi dilinde ve kendi ağzından taşa yazdırdığı siyasi kayıttır." — programatik olarak ölçülemedi (ad karşılığı yok): Yazıtları
 - [OK]      k3 → "Orhon Yazıtları, bir bozkır devletinin kendi dilinde ve kendi ağzından taşa yazdırdığı siyasi kayıttır."

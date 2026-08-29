@@ -3,83 +3,298 @@ id: olay-berlin-duvarinin-yikilisi
 tip: olay
 baslik: Berlin Duvarı'nın yıkılışı
 ozet: >-
-  1989: iki şehir, iki devlet ve tek bir sınır; kaynağın kendisi olayı bir
-  devrimler dalgasının sonucu olarak kaydeder.
-donem: "15"
+  9 Kasım 1989 akşamı yanlış okunan bir not Berlin Duvarı'nın geçitlerini açtı;
+  gece bir kazaydı, ama kazanın zeminini Macaristan'ın sınırı açması, Leipzig
+  gösterileri, Moskova'nın müdahale etmemesi ve Doğu Alman ekonomisinin çöküşü
+  hazırlamıştı.
+donem: "14"
 tarih_baslangic: "1989-11-09"
 tarih_bitis: "1989-11-09"
 bolge: [avrupa]
-eksen: [siyasi]
+eksen: [siyasi, kulturel]
 guven_geneli: yaygin
-etiketler: [berlin-duvari, "1989", dogu-almanya, sinir, devrimler]
+etiketler: [berlin-duvari, "1989", dogu-almanya, sinir, barisci-devrim]
 ilgili:
-  - donem-15
+  - donem-14
   - olay-sovyetler-dagilmasi
   - aktor-varsova-pakti
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1
+    tur: akademik
+    ad: "Bundeszentrale für politische Bildung - Als die Mauer fiel: der 9. November 1989"
+    url: https://www.bpb.de/kurz-knapp/hintergrund-aktuell/194561/als-die-mauer-fiel-der-9-november-1989/
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "gaben die Diensthabenden am Übergang"
+    not: "Almanya federal siyasi egitim kurumunun olay kronolojisi; gecenin saat sirasi buradan"
+  - anahtar: k2
+    tur: akademik
+    ad: "Martin Sabrow, Mythos 1989 - Wem gehört die Friedliche Revolution? (Deutschland Archiv)"
+    url: https://www.bpb.de/themen/deutschlandarchiv/300737/mythos-1989/
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "Aufstand der Normalbürger"
+    not: "Tarih yazimi bolumunun dayanagi; Pollack-Kowalczuk cekismesi ve adlandirma tartismasi burada"
+  - anahtar: k3
+    tur: birincil
+    birincil_tur: belge
+    ad: "German History in Documents and Images - Opening of the Iron Curtain (August 19, 1989)"
+    url: https://germanhistorydocs.org/en/a-new-germany-1990-2023/opening-of-the-iron-curtain-august-19-1989
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "About 600 GDR citizens who had traveled to Hungary"
+    not: "Alman Tarih Enstitusu (Washington) belge koleksiyonu; Macaristan sinirinin acilmasi ve Pan-Avrupa Piknigi"
+  - anahtar: k4
+    tur: birincil
+    birincil_tur: tanik
+    ad: "Wolfgang Schneider, The Triumph of Nonviolence in Leipzig (1990) - GHDI transkripsiyonu"
+    url: https://germanhistorydocs.org/en/a-new-germany-1990-2023/the-triumph-of-nonviolence-in-leipzig-october-9-1989
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "70,000 fearful yet unyielding people"
+    not: "9 Ekim 1989 Leipzig gunune dair cagdas taniklik; guvenlik hazirligi ve geri cekilme"
+  - anahtar: k5
+    tur: birincil
+    birincil_tur: tanik
+    ad: "Kraushaar ve Riedle, taz gazetesi tanikligi (11 Kasım 1989) - GHDI transkripsiyonu"
+    url: https://germanhistorydocs.org/en/a-new-germany-1990-2023/the-fall-of-the-berlin-wall-november-9-1989
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "The Bear Is Dancing on the Border"
+    not: "Gecenin iki gun sonra yazilmis gazeteci tanikligi; geciste vize ve kimlik uygulamasi"
+  - anahtar: k6
+    tur: birincil
+    birincil_tur: belge
+    ad: "Almanya'ya İlişkin Nihai Çözüm Antlaşması (12 Eylül 1990), İngilizce metin - Wikisource transkripsiyonu"
+    url: https://en.wikisource.org/wiki/Treaty_on_the_Final_Settlement_with_Respect_to_Germany
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "hereby terminate their rights and responsibilities relating to Berlin"
+    not: "Dort gucun Berlin rejimini hukuken kapatan antlasma metni; Madde 1 ve Madde 7"
+  - anahtar: k7
     tur: ansiklopedi
     ad: "Wikipedia (EN) - Fall of the Berlin Wall"
     url: https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Fall of the Berlin Wall"
-  - anahtar: k2
-    tur: ansiklopedi
-    ad: "Wikipedia (EN) - Cold War"
-    url: https://en.wikipedia.org/wiki/Cold_War
-    erisim_tarihi: 2026-08-21
-    dogrulama_dizesi: "Cold War"
-    not: "Sona eren duzen"
-  - anahtar: k3
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "The demolition of the Wall was completed in 1994"
+    not: "Giris kapisi; basin toplantisinin dakika sirasi, sokum takvimi ve saat farkliliklari icin"
+  - anahtar: k8
+    tur: akademik
+    ad: "Gary Bruce, Sarotte'nin The Collapse kitabina dair inceleme, Central European History 48/3 (2015)"
+    url: https://api.crossref.org/works/10.1017/s0008938915000758
+    erisim_tarihi: 2026-08-29
+    dogrulama_dizesi: "The Accidental Opening of the Berlin Wall"
+    not: "Yalnizca kunye verisi: kaza tezinin kitap boyu savunusunun yazar, baslik ve yil kaydi"
+  - anahtar: k9
     tur: veri
     ad: "Our World in Data - Population, long-run with projections (CSV verisi)"
     url: https://ourworldindata.org/grapher/population-long-run-with-projections.csv?csvType=full&useColumnShortNames=true
-    erisim_tarihi: 2026-08-21
+    erisim_tarihi: 2026-08-29
     dogrulama_dizesi: "population_historical"
-son_denetim: 2026-08-21
+    not: "Olcek cumlesinin dayandigi uzun donemli nufus serisi"
+son_denetim: 2026-08-29
 denetim_durumu: onaylandi
-onarim_turu: 0
+onarim_turu: 1
 ---
 
-Kaynak olayı tek bir yıla ve dört ayrı yere birden bağlar: 1989'da duvarın
-yıkılışı, Doğu Berlin ile Doğu Almanya ve Batı Berlin ile Batı Almanya'da
-gerçekleşmiştir.[^k1]
+Günter Schabowski, 9 Kasım 1989 akşamı Doğu Berlin'de uluslararası basına
+seslenirken elindeki notu ilk kez orada okuyordu. İktidardaki Sosyalist Birlik
+Partisi'nin merkez komitesi bir gün önce üç günlük oturumuna başlamış, oturumun
+açılışında politbüro topluca istifa etmişti; enformasyondan sorumlu yeni
+sekreter olan Schabowski o günün görüşmelerinde bulunmamış, karar taslağını
+basın toplantısından hemen önce Egon Krenz'in elinden almıştı.[^k1] Yeni
+seyahat düzenlemesinin ertesi gün yürürlüğe girmesi planlanıyordu; aradaki
+saatler bütün sınır karakollarının bilgilendirilmesine ayrılmıştı.[^k1] Bir
+gazetecinin ne zaman geçerli olacağını sorması üzerine Schabowski, bildiği
+kadarıyla düzenlemenin "sofort, unverzüglich" — derhal, gecikmeksizin —
+yürürlükte olduğunu söyledi.[^k1]
 
-## Tek olay, dört idari birim
+Bu tek cümle, 1961'den beri Doğu ile Batı Berlin'i ayıran sınırı birkaç saat
+içinde işlevsiz bıraktı.[^k1] Olayın merkezinde bir yanlış anlamanın durması,
+onu tarih yazımı için zor bir vaka yapar: yanlış okunan bir not gerçekten
+dünya ölçeğinde bir dönüm noktası üretebilir mi, yoksa kaza yalnızca çoktan
+çürümüş bir yapının hangi akşam çökeceğini mi belirledi? Aşağıdaki bölümler
+önce o geceyi, sonra geceyi mümkün kılan zemini, en sonunda da olayın kimin
+hanesine yazılacağına dair otuz yıldır süren çekişmeyi izliyor.
 
-Bir sınırın yıkılışının dört ayrı idari birim altında kaydedilmesi,[^k1] bölünmenin
-yalnızca bir çizgi değil bir kurumlar dizisi olduğunu gösterir: iki şehir ve iki
-devlet.
+## Notu okuyan adam, soruyu soran gazeteci
 
-## Neden olarak bir dalga
+Basın toplantısı akşam saat 18.00'de başladı ve Doğu Alman televizyonundan
+canlı yayımlandı; Schabowski'nin yanında dış ticaret bakanı Gerhard Beil ile
+iki merkez komitesi üyesi vardı.[^k7] Schabowski yeni düzenlemenin
+tartışmalarına katılmamıştı, tam olarak bilgilendirilmemişti ve eline
+tutuşturulan notu nasıl kullanacağına dair bir talimat da almamıştı.[^k7] Saat 18.53'te,
+toplantı biterken, İtalyan haber ajansı ANSA'dan Riccardo Ehrman kasım başında
+kamuoyuna sızan seyahat yasası taslağının bir hata olup olmadığını sordu;
+taslak yalnızca son derece kısıtlı bir seyahat serbestisi vaat ettiği için
+sert tepki toplamıştı.[^k7][^k1] Schabowski önce dağınık bir cevap verdi, sonra notu
+hatırlayıp okumaya başladı; ardından gelen yürürlük sorusuna birkaç saniyelik
+duraksamanın sonunda o cümleyi kurdu.[^k7] Bir başka gazeteci düzenlemenin Batı
+Berlin geçitlerini de kapsayıp kapsamadığını sorunca notun üçüncü maddesini
+okudu ve kapsadığını doğruladı.[^k7]
 
-Kaynak olayın nedenini tekil bir karar olarak değil bir dalga olarak verir: 1989
-Devrimleri.[^k1]
+Batı haber kuruluşları saniyeler içinde harekete geçti. Alman basın ajansı
+19.04'te Doğu Almanların iç Alman sınırını derhal geçebileceğini duyurdu;
+ZDF'nin ana haberleri 19.17'de, ARD'nin Tagesschau'su 20.00'de haberi verdi.
+Bu iki kanal 1950'lerin sonundan beri Doğu Almanya'nın neredeyse tamamına
+ulaştığı ve orada da izlendiği için haberi çoğu insan Doğu Alman kanallarından
+değil onlardan duydu.[^k7]
 
-Bir olayın nedeninin, aynı yılın diğer olaylarının toplamı olarak
-kaydedilmesi,[^k1] atlas için kayda değerdir: burada neden, olayın kendisiyle aynı
-ölçekte bir olgudur.
+## Bornholmer Caddesi'nde bariyerin kalkışı
 
-## Sona eren düzen
+Haber yayıldıkça geçitlerdeki kalabalık büyüdü. Önce bir vana çözümü denendi:
+tek tek kişilerin geçmesine izin verildi.[^k1] Sınır muhafızları üstlerini
+telefona boğdu; ilk talimat, en ısrarcı olanların pasaportlarına geri dönüşü
+engelleyen bir damga vurmak, yani onları fiilen vatandaşlıktan çıkarmaktı.[^k7]
+Bu, Schabowski'nin sözüne dayanarak geçmek isteyen binlerce kişiyi yerinden
+oynatmadı; ölümcül güç kullanma emrini kimse şahsen üstlenmeyince, sayıca çok
+az kalan askerlerin kalabalığı tutacak aracı kalmadı.[^k7] Bornholmer Caddesi
+geçidindeki nöbetçi amirler sonunda baskıya boyun eğip sınırı tümüyle
+açtılar.[^k1] Gece yarısından kısa süre sonra Berlin'deki bütün geçitler
+açıktı ve sınır polisine hiçbir müdahale emri gelmedi.[^k1]
 
-Aynı yılların kapanışı, Gorbaçov'un reformları, ilişkilerde yumuşama, Doğu
-Avrupa'nın ayrılması ve Sovyet dağılması başlıklarıyla verilir; rekabetin kendisi
-1947 ile 1991 arasında kırk dört yıl dokuz ay sürmüştür.[^k2]
+Açılış, düzenli bir geçiş rejiminin devreye girmesi değildi. O saatlerde
+Invalidenstrasse geçidinde insanlar hâlâ vize ve zorunlu döviz bozdurma
+kuralına tabiydi ve sıraya girip adlarının okunmasını bekliyorlardı; Batı'dan
+gelen kalabalık ise gece bir civarında ters yönde akmaya başladı.[^k5]
+Checkpoint Charlie'de saat iki sularında ilk denetim yirmi saniyede on kişiyi
+geçiriyor, ikinci muhafız kimlik istiyor, üçüncüsü vize arıyordu.[^k5] Yani
+sınır tek bir kararla değil, geçit geçit ve saat saat çözüldü.
 
-Duvarın yıkılışının bu dört başlıktan üçüncüsüne denk gelmesi,[^k1][^k2] onu
-sürecin sonu değil ortası yapar; süreç
-[Sovyetler Birliği'nin dağılması](/olay/sovyetler-dagilmasi/) dosyasında ele
-alınıyor.
+## Duvarın açılışı ile duvarın yıkımı
+
+O gecenin görüntüsü — insanların beton bloğun üstünde durup dans etmesi —
+olaya adını verir; ama duvar o gece yıkılmadı. Perşembe gecesinden pazar
+akşamına kadar iki milyondan fazla Doğu Alman şehrin batı yakasına geçti ve
+akışı taşıyabilmek için duvarda on yeni geçit açıldı.[^k1] Çekiç ve keskiyle
+parça koparanlar ilk akşamdan başladı; bu iş haftalarca sürdü ve yer yer
+resmî olmayan geçitler açtı.[^k7]
+
+Brandenburg Kapısı'nın yanındaki bölüm 21 Aralık 1989'da bir vinçle
+kaldırıldı; kapı yirmi sekiz yıl boyunca Doğu ile Batı Berlin arasındaki
+sınırı işaretlemişti.[^k7][^k1] Doğu Alman sınır birlikleri duvarı resmen
+sökmeye 13 Haziran 1990'da Bernauer Caddesi'nden başladı; Berlin ve Brandenburg çevresindeki sınır duvarının
+sökümü Kasım 1991'de, duvarın yıkımı ise 1994'te tamamlandı.[^k7] Yalnızca
+Berlin'de 184 kilometre duvar ve 154 kilometre sınır çiti kaldırıldı, anıt
+olarak altı bölüm bırakıldı.[^k7] Dolayısıyla 9 Kasım bir yıkımın değil bir
+açılışın tarihidir; yıkım sonraki beş yıla yayıldı.
+
+## Kazanın zemini
+
+Gecenin kendisi bir kaza olsa da zemini aylar önce hazırlanmıştı. Macaristan
+Mayıs 1989'da Avusturya sınırındaki güvenlik tesislerini söktürmüştü; giderek
+daha çok Doğu Alman bu açık sınırdan Batı'ya kaçtı ve Prag, Budapeşte, Varşova
+ile Doğu Berlin'deki batılı elçilikler sığınma yerine döndü.[^k1] 19 Ağustos
+1989'da Sopron yakınında düzenlenen Pan-Avrupa Pikniği sırasında sınır
+bariyerlerinden biri simgesel olarak açıldı; Macaristan'a gitmiş yaklaşık 600
+Doğu Alman bu fırsatı kullanarak Avusturya'ya geçti.[^k3]
+
+Kalanlar sokağa çıktı. Eylülden itibaren haftalık Pazartesi gösterileri
+başladı ve ekim ortasında yalnızca Leipzig'de yetmiş bin kişi bu gösterilere
+katıldı.[^k1] 9 Ekim 1989 dizinin dönüm noktasıdır. Leipzig o gün silahlı bir
+kamp görünümündeydi: üç bin polis, bunların bin iki yüzü Halle ve
+Neubrandenburg bölgelerinden getirilmişti; beş bölük fabrika savaş grubu ve
+devlet güvenlik bakanlığından özel bir tim de görevdeydi.[^k4] Honecker'in
+eylül sonunda imzaladığı gizli emir yürürlükteydi ve beklenen kargaşanın
+baştan önlenmesini buyuruyordu.[^k4] Yine de tek kurşun atılmadı: kent
+merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler akşam
+saatlerinde geri çekildi.[^k4][^k7] O akşam atılan "we are the people"
+sloganı,[^k4] partinin ve hükümetin sonraki her tereddütlü tavizini
+hızlandıran güce dönüştü. Kurt Masur'un da aralarında olduğu altı tanınmış
+Leipzigli sakin kalma çağrısı yaptı; çağrının o günün barışçı seyrine katkısı
+tartışmasızdır, ama ona erkenden atfedilen belirleyici rol, geri çekilmeyi
+asıl zorlayan kalabalığın yerini tutmaz.[^k4]
+
+Ekim ayı bir hızlanma zinciridir. 4 Ekim'de Prag ve Budapeşte'den kalkıp Doğu
+Alman toprağından geçirilen göç trenleri Dresden garında iç savaşı andıran
+çatışmalara yol açtı; 7 ve 8 Ekim'de partinin kırkıncı yıl kutlamaları
+çevresindeki protestolar Doğu Berlin'de zorla bastırıldı; 18 Ekim'de Honecker,
+devlet otoritesini gösterişli bir tank sevkiyatıyla yeniden kurma önerisini
+kabul ettiremedikten iki gün sonra görevden alındı.[^k2]
+
+4 Kasım'da Doğu Berlin'de Alexanderplatz'ta toplanan kalabalık, Doğu Almanya
+tarihinin en büyük gösterisi oldu.[^k1] Bu zemine üç etken daha eklenir:
+Gorbaçov'un 1985'ten sonra başlattığı reform ve açılma sürecinin ortak
+devletlere yayılması, Doğu Alman ekonomisinin perişan durumu ve planlı
+ekonominin küresel rekabet baskısına cevap verememesi, bir de parti yönetiminin
+dışarıda yalnızlaşıp içeride felç olması.[^k1][^k2]
+
+## Kimin eseri: sokak mı, azınlık mı, kaza mı
+
+Olay bittikten sonra kimin hanesine yazılacağı otuz yıldır tartışılıyor ve
+tartışma sertliğini koruyor.[^k2] En keskin karşıtlık 2019'da açık bir polemiğe
+döndü. Münsterli din sosyoloğu Detlef Pollack, iktidarın yurttaş hareketi
+tarafından devrimci biçimde aşıldığı anlatısının bir efsane olduğunu, 1989'un
+asıl olarak "Aufstand der Normalbürger" yani sıradan yurttaşların ayaklanması
+olduğunu savundu.[^k2] Doğu Almanya araştırmacısı Ilko-Sascha Kowalczuk ise
+altüst oluşun azınlığın eseri olduğunu, sıradan yurttaşların beklediğini
+söyleyerek karşı çıktı.[^k2]
+
+Üçüncü okuma kazayı merkeze alır. Bu okumaya göre 9 Kasım akşamı duvarı
+umulmadık biçimde çökerten şey ne göçmenler, ne Pazartesi göstericileri, ne de
+muhaliflerdir; çifte bir yanlış anlamadır: ertesi güne tarihlenmiş bir taslağı
+derhal yürürlüğe koyan beceriksizlik ile batılı medyanın sansasyonu ilk
+yakalama yarışı.[^k2] İkinci unsur belirleyicidir, çünkü gözlemciler burada
+eyleyene dönüşmüş, gerçekliği aktarmak yerine üretmiş ve o ana kadar yalnızca
+Bornholmer Caddesi'nde oluşmuş basıncı büyütmüştür.[^k2] Bu okumanın kitap boyu
+en bilinen savunusu Mary Elise Sarotte'nin 2014'te çıkan çalışmasıdır; kitap
+duvarın açılışını daha adında kazara diye niteler.[^k8]
+
+Sonucun geriye doğru okunması da tartışmalıdır. 4 Kasım'da Alexanderplatz'ta
+kürsüye çıkanların talebi bugün varsayıldığı gibi birleşme değildi; o gün
+konuşanlar yenilenmiş bir sosyalizmden söz etti ve 26 Kasım'da bir milyon Doğu
+Almanın imzaladığı çağrı, ülkenin Federal Almanya tarafından yutulmasına karşı
+uyardı.[^k2] Duvarın açılışı, o günün ufkunda bir dönüm noktası değil,
+gecikmiş bir normalleşme adımı gibi görünüyordu; ne onu duyuran, ne aynı gece
+onu sözünde tutan kalabalık, ne de gelişmeye hazırlıksız yakalanan muhalifler
+bunu Doğu Almanya'nın sonu diye okudu.[^k2]
+
+Üç okuma birbirini dışlamaz. Kaza okuması bile sonbaharda devrimci bir durumun
+oluştuğunu varsayar ve o durumu üreten şey etkenlerin birleşmesidir: ekonomik
+çöküş, dış yalnızlık, yönetimin felci ve halk içinde kaçış ile protestonun aynı
+anda büyümesi.[^k2] Kaçışın rolü de tartışmalıdır; bir okumaya göre protestoyu
+besledi, bir başkasına göre hoşnutsuzları ülkeden çıkararak parti iktidarını
+korudu.[^k2] Dış baskı ekseni de tek yönlü değildir: Fransa cumhurbaşkanı
+François Mitterrand ile Britanya başbakanı Margaret Thatcher birleşmeye karşı
+çıktı; Thatcher Eylül 1989'da Gorbaçov'a bunu durdurmasını özel olarak
+iletti.[^k7] Adlandırma da tarafsız değildir: Egon Krenz Honecker'in düşürüldüğü
+akşam televizyonda bir dönüşün başlatılacağını duyurmuş, Christa Wolf ise 4
+Kasım'da Alexanderplatz'ta bu sözcükle sorunu olduğunu söyleyip devrimci
+yenilenmeden söz etmeyi seçmişti; muhalifler dönüş sözcüğünü, parti
+iktidarının devrilmesini sıradan bir hükümet değişikliğine indirgemekle
+suçladı.[^k2]
+
+## Çekişmeli dakikalar
+
+Olay dakika dakika belgelenmiş olsa da iki saat hâlâ oynaktır. Basın
+toplantısındaki cümlenin saati kayıtlarda 18.53 ile 18.57 arasında
+değişir.[^k7][^k2] Bornholmer Caddesi'ndeki bariyerin açılış saati için üç
+değer dolaşımdadır: 22.45, 23.20 ve 23.30.[^k7][^k2][^k1] Geceyi tek bir
+geçide bağlamak da güvenli değildir; Waltersdorf-Rudow kapısının birkaç saat
+önce, bağımsız bir kararla açıldığına dair bir tanıklık vardır ve bu, Batı
+Berlin'de daha erken görülen Doğu Berlinlileri açıklayabilir.[^k7] Bariyeri
+kaldıran subayların adları — Bornholmer'de Harald Jäger ve Edwin Görlitz —
+bilinir; ama hiçbiri anma dilinde kahraman mertebesine çıkarılmamıştır.[^k7][^k2]
 
 ## Ölçek
 
-Uzun dönemli seride dünya nüfusu 1991'de yaklaşık 5,42 milyardır.[^k3] Olayın
-doğrudan etkilediği nüfusa dair bir ölçüm kullanılan kaynak bölümünde bulunmadığı
-için bu değer içindeki pay burada hesaplanmamıştır.
+Uzun dönemli seride dünya nüfusu 1989'da yaklaşık 5,23 milyardır.[^k9] Bir
+şehrin sınır geçitleri bu nüfusun küçük bir bölümünü doğrudan ilgilendiriyordu;
+olayın ölçeği, kapsadığı insan sayısından değil, kapattığı düzenden gelir.
+Almanya'nın birleşmesi 9 Kasım'dan 339 gün sonra, 3 Ekim 1990'da
+tamamlandı.[^k7] Dört gücün Berlin ve bütün Almanya'ya ilişkin hak ve
+sorumlulukları ise 12 Eylül 1990'da imzalanan nihai çözüm antlaşmasıyla sona
+erdirildi; aynı metin birleşik Almanya'nın Federal Almanya, Doğu Almanya ve
+Berlin'in tamamından oluşacağını yazar ve ülkeye iç ve dış işlerinde tam
+egemenlik tanır.[^k6]
 
-## Bu dosyanın sınırı
+## Otuz yıl sonra kimin bayramı
 
-Duvarın inşası, sınır rejiminin işleyişi, olay gecesinin saat saat seyri[^k1] ve
-sonrasındaki birleşme burada ayrı başlıklar altında ele alınmamıştır. Dönemin
-bütünü [1991-2008](/donem/15/) dosyasında ele alınıyor.
+Bugün 9 Kasım anması beş yılda bir görkemle yapılıyor ve her seferinde
+büyüyor.[^k2] Buna karşılık anma dilinin kahramanı yok; Nikolaikirche'nin
+papazı Christian Führer de, Leipzig'in ve Bornholmer'in adı bilinen kişileri de
+teşekkür gördü ama kahraman anlatısına dönüşmedi.[^k2] Sloganın kendisi ise el
+değiştirebiliyor: sağ popülist hareketler 1989'un mirasçısı olduklarını ilan
+edip aynı sözü seçim afişlerine taşıdı, eski hak savunucuları bu sahiplenmeye
+açıkça itiraz etti.[^k2]
+
+Duvarın açılışı bu yüzden iki şeyi birden gösterir. Uzun bir yapısal çözülme,
+kendi anını bir kaza aracılığıyla bulabilir; ve o an bir kere yaşandıktan
+sonra, kimin eseri olduğu üzerinden yeniden ve yeniden kurulur.[^k2] Sürecin
+devamı [Sovyetler Birliği'nin dağılması](/olay/sovyetler-dagilmasi/)
+dosyasında, dönemin bütünü [1945-1991](/donem/14/) dosyasında ele alınıyor.

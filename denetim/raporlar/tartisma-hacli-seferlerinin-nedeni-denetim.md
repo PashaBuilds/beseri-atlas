@@ -1,5 +1,5 @@
 ## tartisma-hacli-seferlerinin-nedeni
-_Geçiş 2 — kaynak denetimi · 2026-08-29T11:11:46.531Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.241Z_
 
 - [OK]      k2 → "Giles Constable 2001 tarihli incelemesinde çağdaş haçlı araştırmalarını dört öbeğe ayırır ve dördünün farklı s…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k2 → "Yanına iki öbek daha katılır: katılanların iç hâlini merkeze alan ruhsal-ruhbilimsel okuma ile haçlı seferini …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

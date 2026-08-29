@@ -1,5 +1,5 @@
 ## kavram-donemlendirme
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:36.408Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:54.159Z_
 
 - [ATOMSUZ] k1 → "Kaynak bölümlerini sıralar: tarih, arka plan, üç çağ sistemi, tarih yazımı ve dünya tarihi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, arkeolojide uzak tarih öncesinin dönemlendirilmesinde olağan yöntemin maddi kültür ve teknolojideki de…" — programatik olarak ölçülemedi (ad karşılığı yok): Taş, Devri, Tunç, Çağı

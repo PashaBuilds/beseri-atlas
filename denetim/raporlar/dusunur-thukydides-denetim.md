@@ -1,5 +1,5 @@
 ## dusunur-thukydides
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:35.755Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.539Z_
 
 - [OK]      k1 → "Kaynak onu MÖ yaklaşık 460'ta Atina'nın Halimous demosunda doğmuş, MÖ yaklaşık 400'de ölmüş bir tarihçi ve gen…"
 - [ATOMSUZ] k1 → "Kaynak hayat bölümünü ikiye böler: klasik dönemden gelen kanıtlar ve sonraki kaynaklar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

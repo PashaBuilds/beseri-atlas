@@ -1,7 +1,7 @@
 {
   "id": "olay-covid-19-pandemisi",
-  "govde_hash": "a930f132dddd",
-  "commit": "9d53473",
+  "govde_hash": "44af745a2124",
+  "commit": "495dbec",
   "zaman": "2026-08-29",
   "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
@@ -593,5 +593,13 @@
     "kismi": 5,
     "desteksiz": 0,
     "olculemez": 0
-  }
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "a930f132dddd",
+      "yeni_hash": "44af745a2124",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
 }

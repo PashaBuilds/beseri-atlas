@@ -1,5 +1,5 @@
 ## olay-malazgirt
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:28.106Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:46.187Z_
 
 - [OK]      k1 → "Malazgirt Muharebesi, 1071'de Bizans'la yapılan ve Türkler'e Anadolu'nun kapılarını açan meydan savaşı olarak …"
 - [OK]      k1 → "Cemâziyelâhir 463 / Mayıs 1071'de Halep'i elinde tutan Mirdâsî Emîri Mahmûd'un huzura çıkıp itaat arz etmesi ü…"

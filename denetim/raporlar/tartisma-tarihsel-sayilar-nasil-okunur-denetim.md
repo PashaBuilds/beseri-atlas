@@ -1,5 +1,5 @@
 ## tartisma-tarihsel-sayilar-nasil-okunur
-_Geçiş 2 — kaynak denetimi · 2026-08-29T11:07:53.896Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.596Z_
 
 - [ATOMSUZ] k2 → "Herodotos, Xerxes'in Yunanistan üzerine yürüyen ordusunun nasıl sayıldığını da anlatır: on bin adam bir yere t…" — programatik olarak ölçülemedi (ad karşılığı yok): Xerxes, Yunanistan
 - [OK]      k3 → "Aynı kitabın ilerleyen bölümünde donanmayla gelenler ve orduyu izleyen hizmetliler de eklenir; Sepias burnu il…"

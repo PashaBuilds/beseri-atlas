@@ -1,5 +1,5 @@
 ## olay-irlanda-kitligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T13:57:41.801Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:45.245Z_
 
 - [ATOMSUZ] k1 → "Bu kıtlığın referans maddesi, bir doğa olayının değil bir yönetim sorununun bölümlemesini taşır: gıda ihracatı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir kıtlık maddesinde gıda ihracatının ayrı bir bölüm olarak yer alması, olayın yalnızca bir üretim düşüşü ola…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

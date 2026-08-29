@@ -1,5 +1,5 @@
 ## tartisma-bati-neden-yukseldi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T11:32:17.814Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.732Z_
 
 - [OK]      k1 → "Büyük Ayrışma terimi 1996'da Samuel Huntington tarafından ortaya atıldı ve Kenneth Pomeranz'ın 2000 tarihli ki…" — 6 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Araştırmacılar maden yatakları, coğrafya, kültür, kurumlar ve şans dahil çok çeşitli açıklamalar önermiştir; z…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

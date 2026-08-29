@@ -1,5 +1,5 @@
 ## aktor-gupta-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:31.292Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.277Z_
 
 - [OK]      k1 → "Chandragupta'nın taç giyme töreni 26 Şubat 320 olarak gün gün tarihlenir." — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Aynı maddede bir günün ve iki yüzyılın yan yana durması, kayıt yoğunluğunun olay türüne göre değiştiğini göste…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

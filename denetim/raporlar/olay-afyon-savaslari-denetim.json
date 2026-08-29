@@ -1,69 +1,297 @@
 {
   "id": "olay-afyon-savaslari",
   "gecis": 2,
-  "zaman": "2026-08-29T09:10:25.650Z",
-  "govde_hash": "70f3b0776cab",
-  "commit": "7549ec6",
+  "zaman": "2026-08-29T14:45:12.711Z",
+  "govde_hash": "aac2feb08b5a",
+  "commit": "495dbec",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyılda Çin ile Avrupalı güçler arasındaki çatışmalar olarak tanımlar.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin, Avrupalı"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Birinci Afyon Savaşı 4 Eylül 1839 ile 29 Ağustos 1842 arasındadır ve Nanking Antlaşması ile sonuçlanır; İkinci Afyon Savaşı ise Anglo-Fransız zaferiyle biter ve",
+      "iddia": "Britanya Hindistan'da ürettiği afyonu Çin kıyılarına kaçırıyor, Qing devleti bu ticareti yasaklıyordu; yasağı fiilen uygulama girişimi 1839'da Kanton'da bir ask",
       "durum": "OK",
-      "not": "2 atom doğrulandı; 4 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Bir savaş dizisinin sonucunun muharebelerle değil belgelerle sayılması, çatışmanın amacının toprak değil hukuki düzenleme olduğunu gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "İlk savaşta tek bir Avrupalı güç, ikincisinde iki güç kaydedilir.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Avrupalı"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Taraf sayısındaki bu artış, ilk savaşın sonucunun diğer güçler için de bir örnek oluşturduğu okumasını akla getirir; atlas bu okumayı bir iddia olarak öne sürme",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Savaşların karşı tarafı, 1644-1912 arasında Çin'i yöneten Mançu önderliğindeki Qing hanedanıydı.",
+      "anahtar": "k6",
+      "iddia": "Britanya Hindistan'da ürettiği afyonu Çin kıyılarına kaçırıyor, Qing devleti bu ticareti yasaklıyordu; yasağı fiilen uygulama girişimi 1839'da Kanton'da bir ask",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Kaynak, hanedanın ekonomisini gümüş, kentleşme, Batı ile ticaret ve gelir başlıkları altında ele alır.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Batı"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Ekonomi bölümünde Batı ile ticaretin ayrı bir başlık olması, savaşların konusunun hanedanın kendi kayıtlarında da bir başlık olduğunu gösterir; hanedan dosyasın",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Batı"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yaklaşık 1,82 milyardır.",
+      "anahtar": "k1",
+      "iddia": "Antlaşma beş limanı Britanyalı tüccarların yerleşimine açtı, Hong Kong adasını süresiz olarak Britanya'ya bıraktı, tekelci Hong tüccarları düzenini kaldırdı ve ",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Savaşların askerî seyri, antlaşmaların madde madde içeriği, afyon ticaretinin düzeni ve sonraki yüzyıla etkisi burada ayrı başlıklar altında ele alınmamıştır; k",
+      "iddia": "Nanking metninde afyon sözcüğü tek bir kez, Mart 1839'da Kanton'da teslim alınıp imha edilen stokun bedeli olarak geçer; ticaretin kendisi ne yasaklanır ne serb",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Afyonun bir gümrük kalemi hâline gelmesi için ikinci bir savaşı ve o savaşın antlaşmasına iliştirilmiş ayrı bir ticaret kuralları belgesini beklemek gerekecekti",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Çin'den Britanya'ya giden çayın hacmi on sekizinci yüzyıl boyunca büyüdü ve 1800'e gelindiğinde Doğu Hindistan Şirketi yılda 23 milyon libre çay satın alıyordu;",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Şirket 1757'de Bengal'i ele geçirdikten sonra bu boşluğu dolduracak ürünü buldu ve haşhaşı orada büyük ölçekte ektirmeye başladı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Çayın yükselişi bu bakımdan ölçülebilir: Çin'den gelen çay 1700'de 92.000 libre iken 1751'de 2,7 milyon libreye çıkmıştı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Britanya bu açığı diplomasiyle kapatmayı denedi ve başaramadı; Macartney'nin 1793'teki, Amherst'in 1816'daki elçilikleri ticaret taleplerini kabul ettiremeden d",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Hindistan'dan Çin'e giden afyon 1773'te yaklaşık bin sandıktı; 1790'da dört bine, 1828'de on sekiz bine, savaşın arifesinde 1839'da kırk bine çıktı.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Şirketin Çin ticareti üzerindeki tekelinin 1834'te sona ermesi, düzenlemeden çok rekabeti artırdı; özel tüccarlar payını büyütmek için yarıştı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Qing yasağı kâğıt üzerinde duruyor ama uygulanmıyordu: mal Lintin adasında gemiden gemiye aktarılıyor, kıyıya küçük ve hızlı Çin tekneleriyle taşınıyor, yerel g",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Daoguang imparatoru 1838'deki saray tartışmasının sonunda yasallaştırma yanlılarını değil, tam yasak isteyenleri destekledi ve Lin Zexu'yu olağanüstü yetkiyle K",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kendi bildirdiği hesaba göre tüccarlar, ticaret süperintendanı Elliot aracılığıyla 20.283 sandık afyonu teslim etti ve mal imha edildi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Lin aynı sırada İngiltere kraliçesine hitaben bir mektup kaleme aldı; metin Kanton'da yayımlandı ve 1840 başında İngilizce çevirisiyle dolaşıma girdi.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mektubun ekseni ahlaki bir karşılıklılık ilkesidir: Çin dışarıya çay, ipek ve ravent gibi yararlı mallar gönderirken karşılığında zehir almayı kabul edemez.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Lin bir de olgusal dayanak öne sürer — \"Kendi ülkenizde afyonun en büyük katılıkla yasaklandığını duyduk\" — ve kraliçeden Bengal, Patna, Malwa ve Benares'teki h",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bu dayanak yanlıştı: afyon o tarihte Britanya'da yasal biçimde satılıyordu ve tam da bu nedenle Londra, sonraki yıllarda ticareti yasaklamayı değil düzenlemeyi ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Muhalefetin hükûmeti kınama önergesi 8 Nisan 1840 oturumunda da görüşüldü ve Gladstone konuşmasında hem ticareti hem savaşı reddetti: \"Kökeninde bundan daha hak",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Gladstone'un asıl iddiası hukukiydi: Çinliler kaçakçılığı bırakmaları için uyarıda bulunmuş, bırakılmayınca kendi topraklarından kovma hakkını kullanmıştı.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çinliler"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Palmerston yanlıları 1832 tarihli parlamento komisyonunun görüşünü hatırlattı: Bengal afyon ticareti 981.283 sterlin getirdiği için, Hindistan gelirlerinin o gü",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kınama önergesi 9 Nisan gecesi oylandı ve 271'e karşı 262 oyla, yani dokuz oy farkla reddedildi.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İkinci madde Kanton, Amoy, Foochow, Ningpo ve Şanghay'ı Britanyalı tüccarların aileleriyle birlikte yerleşimine açar ve her birine konsolos atanmasını öngörür; ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Beşinci madde, Britanyalı tüccarları belirli Çinli tüccarlarla iş yapmaya zorlayan Hong düzenini kaldırır; onuncu madde ise gümrük tarifesinin ilan edilmiş ve s",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "On birinci madde ise sembolik görünse de aynı derecede ağırdır: iki tarafın görevlileri arasındaki yazışmada kullanılacak terimleri tek tek sayar ve astların eş",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "On ikinci madde Britanya kuvvetlerinin Chusan ve Koolangsoo adalarında, ödemeler tamamlanana kadar kalmasını öngörür; antlaşma yalnızca bir barış değil, bir tah",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Altı milyon dolar Mart 1839'da teslim edilen afyonun bedeli, üç milyon dolar iflas etmiş Hong tüccarlarının Britanyalılara borcu, on iki milyon dolar da seferin",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bu boşluk anlaşmazlığı çözmedi, yalnızca erteledi; 1842 antlaşmasının kurduğu düzen on dört yıl sonra aynı taraflarca yeniden pazarlık masasına taşındı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "İkinci çatışmanın kıvılcımı 8 Ekim 1856'da Kanton limanında çıktı: Çinli görevliler Britanya kaydı taşıdığı ileri sürülen Arrow adlı küçük tekneye korsanlık şüp",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Britanya bunu 1842 antlaşmasını yeniden pazarlık masasına getirmek için gerekçe saydı; bir Fransız misyonerin öldürülmesi de Fransa'yı ittifaka kattı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bu savaşta da Londra bölündü: 3 Mart 1857'de Avam Kamarası Kanton'a yapılan saldırıyı gerekçesiz bularak hükûmete karşı oy verdi, Palmerston erken seçime gitti ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Haziranda Tien-tsin'de imzalanan antlaşma, Britanya temsilcisine Pekin'de kalıcı ikamet hakkı verdi ve Çin resmî belgelerinde Britanyalılar için \"barbar\" anlamı",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Beşinci kural, daha önce kaçak sayılan mallara ilişkin kısıtlamaları gevşetir ve şunu yazar: \"Afyon bundan böyle pikul başına otuz tael ithalat resmi ödeyecek\".",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Afyon"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı kural ticareti sınırlar da: yabancı tüccar malı yalnızca limanda satabilecek, iç bölgelere yalnızca Çinliler taşıyabilecekti.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çinliler"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "25 Haziran 1859'da onay belgelerini Pekin'e götüren heyete yol açmak için istihkâmlara saldıran Britanya kuvvetleri püskürtüldü, üç gemi kaybetti ve ağır zayiat",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Ertesi yıl müttefik kuvvetler Pekin önlerine ulaştı; 18-19 Ekim 1860'ta Lord Elgin'in emriyle imparatorluk yazlık sarayı Yuanmingyuan yağmalanıp yakıldı.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "24 Ekim 1860'ta imzalanan Pekin Sözleşmesi, Taku olayı için özür ifadesiyle açılır; sekiz milyon tael tazminat, Tien-tsin limanının ticarete açılması ve Kowloon",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Sözleşmenin beşinci maddesi ayrıca Çinlilerin Britanya sömürgelerinde çalışmak üzere gemiye binmesini serbest bırakır; on dokuzuncu yüzyılın sözleşmeli işçi akı",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Qing sarayının afyona karşı en güçlü ekonomik gerekçesi, ülkeden gümüş çıkışıydı; ticaretin dengesi tersine dönmüş, bakır para ile gümüş arasındaki kur bozulmuş",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Ona göre 1820'lerden sonra değişen şey gümüşün miktarı değil ithal edilen sikkelerin niteliğiydi; Çin İspanyol Amerikası pesosunu tercih edilen ödeme aracı hâli",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Bu okumada nedensellik terse döner: afyon ithalatı gümüş çıkışını tetiklemedi, tersine gümüş kaçışı büyük afyon ithalatının sebebi oldu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Hükûmet yanlıları 1840 tartışmasında, Hindistan'daki üretim kısılsa bile arzın Türkiye, İran ya da komşu bir ülkeye kayacağını, dolayısıyla tek bir tedarikçiyi ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Ticaretin tarafları arasında Britanya'nın yanı sıra Amerika Birleşik Devletleri, Hindistan, Güneydoğu Asya ve Çin'in kendi tüccarları da vardı; Hindistan'dan ge",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Savaş arifesinde Çin'de yaklaşık on milyon afyon içicisi bulunduğu ve bunların iki milyonunun bağımlı olduğu tahmin edilir; kaynak bunu bir tahmin olarak verir,",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Çin"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ulusal aşağılanma dili 1895'teki Japonya yenilgisinin ardından güç kazandı, 1915'teki Yirmi Bir Talep ve 1919'daki Versay kararlarına tepkiyle yayıldı, 1920'ler",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Eşitsiz antlaşmaların büyük bölümü 1943'te müttefiklerce kaldırıldı, ama çerçeve hukuki ömrünü aştı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Nitekim Qing sarayı 1860 yenilgisinin ve iç isyanların ardından 1861'de dış işleri yönetecek bir daire kurmayı kabul etti; savaşın gerçek sonucu, tazminattan ço",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İkisini ayıran şey, 1840'ta Avam Kamarası'nda söylenmiş sözlerin de gösterdiği gibi, savaşın haksızlığının sonradan keşfedilmiş bir şey olmamasıdır: o hüküm, se",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     }
   ]
 }

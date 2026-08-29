@@ -1,5 +1,5 @@
 ## kavram-merkantilizm
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:37.571Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.266Z_
 
 - [ATOMSUZ] k1 → "Kaynak bölümlerini sıralar: tarih, kuram, politikalar, savaşlar ve emperyalizm, kökenler, merkantilizmin sonu …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir iktisat politikasının ansiklopedi maddesinde savaşlar ve emperyalizme ayrı bir bölüm ayrılması, atlasın ik…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

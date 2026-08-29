@@ -1,5 +1,5 @@
 ## kaynak-clausewitz-savas-uzerine
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:42.643Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:00.486Z_
 
 - [OK]      k1 → "Kaynak eseri Vom Kriege adıyla künyeler ve yazarın en dikkate değer eseri olduğunu, ölümünde tamamlanmamış olm…"
 - [OK]      k1 → "Kaynak, dul eşinin savaş felsefesi üzerine olan başyapıtı 1832'de düzenlediğini, yayımladığını ve giriş bölümü…"

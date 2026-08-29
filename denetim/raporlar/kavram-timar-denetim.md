@@ -1,5 +1,5 @@
 ## kavram-timar
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:38.311Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.937Z_
 
 - [OK]      k1 → "Kaynak sistemi şöyle tanımlar: Osmanlılar'da devlete ait toprakların askerî ve idarî gayelerle tahsisine dayal…"
 - [OK]      k1 → "Kaynak, Türkçede sözcüğün dirlik ile eş anlamlı kullanıldığını yazar."

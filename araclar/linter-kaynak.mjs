@@ -73,7 +73,7 @@ function alanAdi(url) {
   try { return new URL(url).hostname.replace(/^www\./, ''); } catch { return ''; }
 }
 
-export function kaynakDenetimi(makaleler, { havuz = null } = {}) {
+export function kaynakDenetimi(makaleler, { havuz = null, borcDefteriYaz = true } = {}) {
   const r = new Rapor('KAPI 13 — kaynak bilesimi');
   const h = havuz || yamlOku(path.join(ICERIK, '_sistem', 'kaynak-havuzu.yaml'));
   const siniflar = havuzSiniflari(h);
@@ -128,7 +128,9 @@ export function kaynakDenetimi(makaleler, { havuz = null } = {}) {
   ];
   r.olcum = { olculen, toplamKunye, kuralIhlali, birincilsiz, toplamGiris, birincilKunye, turlenmemis };
 
-  borcYaz(borclu, r.olcum);
+  // Olcum ile YAZMA ayrilir: bir arac depoyu olcerken depoyu
+  // degistirmemelidir (fikstur defteri ezme dersi).
+  if (borcDefteriYaz) borcYaz(borclu, r.olcum);
   return r;
 }
 

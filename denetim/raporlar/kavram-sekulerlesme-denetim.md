@@ -1,5 +1,5 @@
 ## kavram-sekulerlesme
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:37.938Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.590Z_
 
 - [ATOMSUZ] k1 → "Kaynak bölümlerini sıralar: genel bakış, arka plan, tanımlar, tarih, toplumbilimsel kullanım ve farklılaşma, s…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak bölgesel gelişmeler başlığı altında Birleşik Devletler, Britanya, İspanya, Almanya, Asya ve Arap dünyas…" — 6 atom doğrulandı; 2 ad ölçülemedi

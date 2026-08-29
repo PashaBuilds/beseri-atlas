@@ -1,5 +1,5 @@
 ## tartisma-karsi-olgusal-tarih
-_Geçiş 2 — kaynak denetimi · 2026-08-29T11:30:28.485Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.725Z_
 
 - [ATOMSUZ] k1 → "Alanın başvuru kaydı bunu tarih yazımının bir biçimi diye tanımlar; amacını, olanı anlamak için olmayanı ya da…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Ayrım kolay değildir, çünkü aynı uğraş kendi edebî türünü de doğurmuştur: alternatif tarih, spekülatif tarih, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

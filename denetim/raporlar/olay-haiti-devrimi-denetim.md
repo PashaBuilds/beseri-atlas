@@ -1,5 +1,5 @@
 ## olay-haiti-devrimi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:26.972Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:44.856Z_
 
 - [OK]      k1 → "Haiti Devrimi, köleleştirilmiş Afrikalıların Saint-Domingue'deki Fransız sömürge yönetimine karşı başarıya ula…" — 1 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Devrim 21 Ağustos 1791'de başladı ve 1 Ocak 1804'te sona erdi; toplam süre 12 yıl, 4 ay, 1 hafta ve 4 gündür." — 2 atom doğrulandı; 2 ad ölçülemedi

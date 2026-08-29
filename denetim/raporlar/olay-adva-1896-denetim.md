@@ -1,5 +1,5 @@
 ## olay-adva-1896
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:25.570Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:43.483Z_
 
 - [OK]      k1 → "1896 yılının mart başında, Doğu Afrika'nın kuzeyindeki dağlık bir bölgede iki ordu karşılaştı." — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Savaş bir günde sonuçlandı ve giren ordu kesin bir yenilgi aldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

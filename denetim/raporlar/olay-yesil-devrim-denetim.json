@@ -1,75 +1,285 @@
 {
   "id": "olay-yesil-devrim",
   "gecis": 2,
-  "zaman": "2026-08-29T09:10:29.628Z",
-  "govde_hash": "f47e4a156154",
-  "commit": "7549ec6",
+  "zaman": "2026-08-29T14:47:12.994Z",
+  "govde_hash": "03e8d0f9c348",
+  "commit": "495dbec",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Bu dönüşümün başlatıcıları devletler değil vakıflardır: hem Ford Vakfı hem Rockefeller Vakfı, programın Meksika'daki ilk gelişiminde yoğun biçimde yer almıştır.",
+      "iddia": "Başlangıcı 1943'te, Meksika Tarım Bakanlığı ile Rockefeller Vakfı'nın Meksika hükümetinin isteği üzerine kurduğu ortak bir araştırma ve eğitim programıdır; o sı",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yirmi yıl sonra aynı programın ürünü olan çeşitler Hindistan ve Pakistan tarlalarındaydı; Filipinler'de geliştirilen IR8 pirinci ise Güney ve Güneydoğu Asya'da ",
       "durum": "OK",
       "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     },
     {
+      "anahtar": "k4",
+      "iddia": "Dünya buğday verimi 1961'de 1,09 ton, 2023'te 3,63 tondu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Dünya tahıl verimi 1961'de hektarda 1,35 tondu; 2023'te 4,23 tona çıktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Vakfın kendi yıllık raporu, George Harrar'ın yönetiminde kurulan ilk projenin buğday ıslahı olduğunu ve programın Meksika Tarım Bakanlığı ile işbirliği içinde y",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yıl kadroya Wellhausen katıldı ve özellikle mısır ile fasulyede bitki ıslahı çalışmaları başladı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
       "anahtar": "k1",
-      "iddia": "Kıtasal ölçekli bir tarım programının iki özel vakıf tarafından başlatılması, 20.",
+      "iddia": "Bir yıl sonra, 1944'te, bitki ıslahçıları, toprak bilimciler, bitki patologları ve entomologlar birlikte çalışan bir ekip hâlinde buğday üretiminin bütün kısıtl",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Uygun koşullarda bu çeşitler, eski uzun saplı buğdayların en iyilerinin iki ya da üç katı ürün veriyordu.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak, kilit önderi tarım bilimci Norman Borlaug olarak verir; kendisi 1970'te Nobel Barış Ödülü almıştır ve bir milyardan fazla insanı kurtarmakla anılmaktadı",
+      "iddia": "Programın buğday kanadını yirmi altı yıl yürüten Norman Borlaug, sonucun bir rastlantı olmadığını vurgulamak için \"tarımsal üretimde mucize yoktur\" diye yazacak",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Meksika'da hektardan alınan buğday 1961'de 1,68 tondu; 1970'te 3,02, 1980'de 3,85 tona çıktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ülke 1943'te buğday ihtiyacının yarısını ithal ediyordu; 1956'da kendine yeterli hâle geldi, 1964'te yarım milyon ton buğday ihraç ediyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çeşitlerin ayırt edici özelliği tek başına yüksek verim değil, gübreye verdikleri tepkiydi: uzun saplı buğday ağır gübre aldığında yatıyor, kısa saplı çeşit aya",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üretimdeki büyük artış o tarihe kadar yalnızca sulanan alanlarda gerçekleşmişti; yağışa bağlı alanlar geride kalmıştı ve sulanan alanlardaki çiftçilerin hepsi d",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Etki ürün bakımından da dardı: buğday, pirinç ve mısır belirgin biçimde değişmiş, sorgum, darı ve arpada değişim küçük kalmış, tahıl tüketen nüfusların beslenme",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yalnızca 1969-1970 ekim sezonunda Hindistan'da yetmiş bin özel tüplü kuyu açıldı ve yaklaşık 1,4 milyon hektar daha kontrollü sulamaya girdi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı konuşmada, yapay besinlere bağımlılığın küçük çiftçinin üzerine bindirdiği mali yük, programı yürüten kişinin kendi kaygısı olarak dile getirilir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1965'te Pakistan'a 350, Hindistan'a 250 ton Meksika cüce buğday tohumu geniş ölçekli tarla denemeleri için getirildi; sonuç yine olumluydu ve Hindistan 1966'da ",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yeşil Devrim öncesinin rekor hasadı olan 1964-1965 yılı taban alındığında Pakistan'ın buğday üretimi 4,6 milyon tondan 1968, 1969 ve 1970 hasatlarında sırasıyla",
+      "durum": "OK",
+      "not": "8 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hindistan'ın üretimi aynı yıllarda 12,3 milyon tondan 20 milyon tona yükseldi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1969-1970 sezonunda Pakistan'ın altı milyon hektarlık buğday alanının yüzde 55'i, Hindistan'ın on dört milyon hektarının yüzde 35'i Meksika çeşitleri ya da onla",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Meksika'da geliştirilen önerilen tarım pratikleri paketinin, gübre önerileri dahil, yaklaşık yüzde 75'i Hindistan ve Pakistan'da doğrudan uygulanabilirdi; kalan",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Hindistan'da hektardan alınan buğday 1964'te 0,73 tondu; 1970'te 1,21, 1990'da 2,12, 2023'te 3,52 tona çıktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1960'ta Filipinler'in Los Baños kentinde, Ford ve Rockefeller vakıflarının ortak finansmanı ve Filipin hükümetiyle işbirliği içinde Uluslararası Pirinç Araştırm",
       "durum": "OK",
       "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir milyarı aşan bir sayının tek bir kişiye atfedilmesi, atlasın sayı okuma uyarısını gerektirir: bu, ölçülmüş bir sonuç değil bir atıf ifadesidir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak da \"anılmaktadır\" diyerek ifadeyi bir kayıt olarak sunar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Aynı yıllarda dünya nüfusu, uzun dönemli seride 1945'te yaklaşık 2,38 milyardan 1991'de yaklaşık 5,42 milyara çıkmıştır.",
+      "iddia": "Meksika'daki buğday, mısır ve patates çalışmaları 1959'da gayriresmî biçimde uluslararasılaştı, 1963'te ise ikinci uluslararası merkez olarak Uluslararası Mısır",
       "durum": "OK",
-      "not": ""
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k2",
-      "iddia": "Aynı dönemin çatışma serisi ise 1970'ler ve 1980'lerde yılda 300.000 ölümle zirve yapmıştır.",
+      "iddia": "Enstitüde 1962'de yapılan bir melezlemeden çıkan hatlardan biri 1966'da IR8 adıyla çeşit hâline geldi ve mucize pirinç diye anıldı.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Üç serinin — tarımsal dönüşüm, nüfus artışı ve çatışma bilançosu — aynı yıllara düşmesi, dönemin karakteristiğidir.",
+      "iddia": "IR8, Filipinler, Seylan, Malezya ve Batı Pakistan'da çarpıcı verim artışı üretti; muson bölgelerindeki Hindistan ve Doğu Pakistan koşullarına ise iyi uyum sağla",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Filipinler, Seylan, Malezya, Batı"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Olayın adı bir bilim insanından değil bir yöneticiden geldi: terimi 1968'de Amerikan Uluslararası Kalkınma Ajansı'nın yöneticisi William Gaud kullandı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kurduğu karşıtlık Soğuk Savaş sözlüğündendi: Sovyet tipi kızıl bir devrim de değil, Şah'ın beyaz devrimi de değil, yeşil.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş, Sovyet, Şah"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Borlaug ise terimden rahatsızdı; yaygın kullanımıyla erken, fazla iyimser ve fazla geniş kapsamlı olduğunu düşünüyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "1970-1989 arasında yayımlanmış 300'den fazla çalışmayı tarayan bir inceleme, dağılım üzerine sonuca varan çalışmaların yaklaşık yüzde 80'inin eşitsizliğin arttı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Batılı ülkelerden yazarlar, deneme yöntemiyle yazanlar ve çok ülkeli bölgelere bakanlar eşitsizliğin arttığı sonucuna varmaya daha yatkındı; Asya kökenli yazarl",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "1960-2000 arasında uluslararası araştırma merkezlerinin ulusal programlarla birlikte geliştirdiği modern çeşitlerin etkilerini derleyen bir değerlendirme, verim",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "En bilinen örneği, Vandana Shiva'nın 1989 tarihli çalışmasıdır; başlığı tezini taşır: yeşil devrimin şiddeti, Pencap'ta ekolojik bozulma ve siyasi çatışma.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "NASA'nın yerçekimi uydularıyla yapılan bir ölçüm, Racastan, Pencap ve Haryana eyaletlerinde, Delhi dahil, yeraltı suyunun yılda ortalama 4 santimetre su yüksekl",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ağustos 2002 ile Ekim 2008 arasındaki net kayıp 109 kilometreküpü buldu; bu, ülkenin en büyük yüzey su rezervuarının kapasitesinin iki katıdır ve dönem boyunca ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Pencap'ın ilk uygulama bölgesi olarak seçilme gerekçesi de zaten güvenilir su kaynağıydı.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Üç serinin — tarımsal dönüşüm, nüfus artışı ve çatışma bilançosu — aynı yıllara düşmesi, dönemin karakteristiğidir.",
+      "iddia": "Meksika ve Hindistan modellerini Afrika'ya taşımak için çok sayıda girişimde bulunuldu; bunlar genel olarak daha az başarılı sonuç verdi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Gösterilen nedenler arasında yolsuzluk, güvensizlik, altyapı eksikliği ve hükümetlerin isteksizliği kadar çevresel etkenler de sayılır: sulama suyunun bulunabil",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k3",
-      "iddia": "Üç serinin — tarımsal dönüşüm, nüfus artışı ve çatışma bilançosu — aynı yıllara düşmesi, dönemin karakteristiğidir.",
+      "anahtar": "k5",
+      "iddia": "Tahıl verimi Güney Asya'da 1961'de hektarda 1,01 tonken 2023'te 3,67 tona çıktı; Afrika'da aynı yıllar arasında 0,81 tondan 1,71 tona yükseldi.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Başka bir deyişle Afrika 2023'te hektardan 1,71 ton tahıl alıyordu; Güney Asya bu düzeyi 1980'lerin sonunda geride bırakmıştı.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Borlaug 1970'te Nobel Barış Ödülü aldı ve bugün yaygın biçimde bir milyardan fazla insanı açlıktan kurtarmakla anılır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu, ölçülmüş bir sonuç değil bir anma ifadesidir; nitekim aynı kayıt başka bir yerinde iki milyar rakamını da aktarır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "1965 sonrasındaki ürün ıslahı kazanımlarını küresel bir ekonomik modelle geri alıp dünyayı yeniden simüle eden bir çalışma, 2004 yılında ekili alanın bu kazanım",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Aynı çalışma sonucunu açıkça yorumlar: bulgular verim artışının doğal ekosistemleri tarıma dönüşmekten kurtardığı yönündeki savı genel olarak destekler, ama net",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kullanılan tohum çeşitleri, gübre ve sulama teknolojileri, ülke ülke uygulama ve çevresel eleştiriler burada ayrı başlıklar altında ele alınmamıştır; kaynak bun",
+      "iddia": "Kazanılan şey açlığa karşı savaşta geçici bir başarı, insanlığa tanınmış bir nefes alma payıydı; tam olarak uygulanırsa otuz yıl yetecek gıdayı sağlayabilirdi, ",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Gecikmenin bedelini ölçmeye çalışan bir çalışma, dönüşümün on yıl gecikmesinin kişi başına gelirin yüzde 17'sine mal olacağını tahmin eder; hiç yaşanmaması ise ",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

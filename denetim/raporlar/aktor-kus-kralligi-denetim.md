@@ -1,5 +1,5 @@
 ## aktor-kus-kralligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:32.266Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.198Z_
 
 - [OK]      k1 → "Kuş Krallığı, Nil'in Mısır'ın güneyinde kalan vadisinde, bugünkü Sudan topraklarında kurulmuş bir devletti." — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Tarihi tek bir çizgi hâlinde değil üç evre olarak okunur: Kerma kentinin çevresinde MÖ 2500-1500 arasında serp…"

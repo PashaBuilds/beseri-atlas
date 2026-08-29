@@ -1,5 +1,5 @@
 ## kaynak-carr-tarih-nedir
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:42.610Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:00.455Z_
 
 - [OK]      k1 → "Kaynak, yazarı 28 Haziran 1892'de Londra'da doğmuş, 3 Kasım 1982'de Londra'da ölmüş biri olarak kaydeder ve me…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "için ayrı bir bölüm tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

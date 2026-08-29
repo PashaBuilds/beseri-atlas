@@ -1,5 +1,5 @@
 ## aktor-mogol-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:32.808Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.717Z_
 
 - [OK]      k1 → "Moğol İmparatorluğu, 1206 ile 1368 arasında Avrasya'da varlığını sürdüren bir yapı olarak tanımlanır ve göçebe…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Başkentleri arasında Avarga sayılır."

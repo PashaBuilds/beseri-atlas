@@ -1,5 +1,5 @@
 ## tartisma-kara-olumun-sonuclari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:39.823Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.690Z_
 
 - [OK]      k1 → "Kara Ölüm, 1346 ile 1353 arasında Avrupa'yı vuran veba ; en yüksek tahminler 50 milyona varan ölümden söz eder…" — 6 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k3 → "Buradaki tartışma sonuç üzerinedir: ücret artışından serfliğin çözülüşüne uzanan büyük değişimleri salgın mı b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

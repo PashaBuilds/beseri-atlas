@@ -1,5 +1,5 @@
 ## dusunur-ibn-battuta
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:34.889Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.732Z_
 
 - [OK]      k1 → "İbn Battûta, Kuzey Afrika'dan yola çıkıp uzun yıllar süren yolculuklar yapmış ve dönüşünde gezdiklerini bir me…"
 - [OK]      k3 → "İbn Battûta, Kuzey Afrika'dan yola çıkıp uzun yıllar süren yolculuklar yapmış ve dönüşünde gezdiklerini bir me…" — 1 atom doğrulandı; 1 ad ölçülemedi

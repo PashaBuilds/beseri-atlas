@@ -1,5 +1,5 @@
 ## aktor-kanem-bornu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:31.974Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.925Z_
 
 - [OK]      k1 → "Kanem-Bornu, Çad Gölü çevresinde kurulan ve zamanla gölün batısına taşınan bir siyasi düzendir."
 - [ATOMSUZ] k3 → "Kanem-Bornu, Çad Gölü çevresinde kurulan ve zamanla gölün batısına taşınan bir siyasi düzendir." — programatik olarak ölçülemedi (ad karşılığı yok): Çad, Gölü

@@ -1,5 +1,5 @@
 ## veri-ortalama-egitim-suresi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:42.060Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:59.931Z_
 
 - [OK]      k1 → "Seri 1870'te 0,46026796 yıl ile başlar ve 2020'de 8,840671 yıl ile biter."
 - [ATOMSUZ] k1 → "Veri kümesinin sütun adı ölçünün kapsadığı yaş grubunu taşır: gençler ve yetişkinler, 15-64 yaş." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

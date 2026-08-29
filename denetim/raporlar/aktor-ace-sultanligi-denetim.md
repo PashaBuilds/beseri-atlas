@@ -1,5 +1,5 @@
 ## aktor-ace-sultanligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:29.737Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.800Z_
 
 - [OK]      k1 → "Açe Sultanlığı, büyük bir adanın kuzey ucunda, Hint Okyanusu'ndan boğaza girmeden önceki son noktada kurulmuşt…"
 - [ISARET]  k2 → "Açe Sultanlığı, büyük bir adanın kuzey ucunda, Hint Okyanusu'ndan boğaza girmeden önceki son noktada kurulmuşt…" — özel isim kaynakta bulunamadı: Okyanusu

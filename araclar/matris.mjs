@@ -25,10 +25,11 @@
 //
 //   node araclar/matris.mjs <id> [...]     matris(ler)i dogrula
 //   node araclar/matris.mjs --hepsi        var olan butun matrisleri dogrula
+//   node araclar/matris.mjs --tazele <id>  iddia cumleleri duruyorsa hash'i tazele
 import fs from 'node:fs';
 import path from 'node:path';
 import { KOK, makaleleriTopla, RENK } from './ortak.mjs';
-import { govdeHash } from './denetle.mjs';
+import { govdeHash, suankiCommit } from './denetle.mjs';
 
 export const MATRIS_DIZINI = path.join(KOK, 'denetim', 'matris');
 
@@ -114,6 +115,31 @@ export function matrisiDogrula(matris, makale = null) {
   return { gecerli: hatalar.length === 0, bayat, hatalar };
 }
 
+/**
+ * Govde hakemlendikten SONRA degistiginde matris bayat kalir. Her degisiklik
+ * yeniden hakemlemeyi gerektirmez: bicimsel bir duzeltme (baglanti metni,
+ * kelime ekleme) iddialara dokunmamis olabilir. Ama buna "sanirim dokunmadi"
+ * diyerek karar verilemez — olculmesi gerekir.
+ *
+ * Kural: matristeki HER iddia cumlesi guncel govdede birebir duruyorsa,
+ * iddia yuzeyi degismemistir ve hash tazelenebilir; tazeleme dosyaya kayit
+ * dusulerek yapilir. Tek bir cumle bile kaybolmussa tazeleme REDDEDILIR ve
+ * dosya yeniden hakemlenmelidir.
+ */
+export function tazelenebilirMi(matris, makale) {
+  // Dipnot isaretleri karsilastirmadan cikarilir: hakem cumleyi isaretsiz
+  // kaydeder, govdede isaret cumlenin ortasinda durabilir. Bu bicimsel fark
+  // iddianin degistigi anlamina gelmez.
+  const sadelestir = (s) => String(s || '').replace(/\[\^k\d+\]/g, '').replace(/\s+/g, ' ').trim();
+  const govde = sadelestir(makale.govde);
+  const kayip = [];
+  for (const i of matris.iddialar || []) {
+    const cumle = sadelestir(i.cumle);
+    if (!cumle || !govde.includes(cumle)) kayip.push(i.iddia_id || '(kimliksiz)');
+  }
+  return { tazelenebilir: kayip.length === 0, kayip };
+}
+
 export function matrisOku(id) {
   const yol = path.join(MATRIS_DIZINI, `${id}-matris.json`);
   if (!fs.existsSync(yol)) return null;
@@ -133,6 +159,36 @@ if (process.argv[1]?.endsWith('matris.mjs')) {
     idler = process.argv.slice(2).filter((a) => !a.startsWith('--'));
     if (idler.length === 0) { console.error('kullanim: node araclar/matris.mjs <id> ... | --hepsi'); process.exit(1); }
   }
+  if (process.argv.includes('--tazele')) {
+    let reddedilen = 0;
+    for (const id of idler) {
+      const matris = matrisOku(id);
+      const makale = haritada.get(id);
+      if (!matris || !makale) { console.log(`${RENK.kirmizi('YOK    ')} ${id}`); reddedilen += 1; continue; }
+      const guncel = govdeHash(makale.govde);
+      if (matris.govde_hash === guncel) { console.log(`${RENK.gri('ZATEN  ')} ${id} — hash guncel`); continue; }
+      const { tazelenebilir, kayip } = tazelenebilirMi(matris, makale);
+      if (!tazelenebilir) {
+        console.log(`${RENK.kirmizi('RED    ')} ${id} — ${kayip.length} iddia cumlesi govdede yok: ${kayip.slice(0, 5).join(', ')}`);
+        console.log(`         ${RENK.gri('iddia yuzeyi degismis — dosya yeniden hakemlenmeli, hash tazelenemez')}`);
+        reddedilen += 1;
+        continue;
+      }
+      const oncekiHash = matris.govde_hash;
+      matris.govde_hash = guncel;
+      matris.commit = suankiCommit();
+      (matris.tazeleme ||= []).push({
+        zaman: new Date().toISOString().slice(0, 10),
+        onceki_hash: oncekiHash,
+        yeni_hash: guncel,
+        gerekce: 'govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi',
+      });
+      fs.writeFileSync(path.join(MATRIS_DIZINI, `${id}-matris.json`), `${JSON.stringify(matris, null, 2)}\n`);
+      console.log(`${RENK.yesil('TAZELEN')} ${id} — ${oncekiHash} -> ${guncel} (${matris.iddialar.length} iddia cumlesi dogrulandi)`);
+    }
+    process.exit(reddedilen ? 1 : 0);
+  }
+
   let kirik = 0;
   for (const id of idler) {
     const matris = matrisOku(id);

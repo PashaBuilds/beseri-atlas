@@ -1,5 +1,5 @@
 ## kavram-birincil-kaynak
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:36.240Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:54.000Z_
 
 - [ATOMSUZ] k1 → "Kaynak bölümlerini sıralar: kaynakları sınıflandırma, kaynak sınıflandırmasının önemi, birincil kaynakları bul…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynağın güçlü ve zayıf yanları tek bir başlıkta tutması ve sahteciliklere ayrı bir bölüm ayırması, atlasın şu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## aktor-fiji-kralligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:31.112Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.106Z_
 
 - [OK]      k1 → "Fiji Krallığı, 1871'de takımadanın önde gelen şeflerinden birinin hükümdar ilan edilmesiyle kurulmuş ve üç yıl…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k2 → "Krallığın kuruluşu, adalarda çoğalan yabancı yerleşimcilerle yerel yönetim arasındaki uyuşmazlıkları çözmek üz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

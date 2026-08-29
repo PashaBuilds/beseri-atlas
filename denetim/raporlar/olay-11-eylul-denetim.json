@@ -1,67 +1,337 @@
 {
   "id": "olay-11-eylul",
   "gecis": 2,
-  "zaman": "2026-08-29T09:10:25.156Z",
-  "govde_hash": "a48b3b8c746f",
-  "commit": "7549ec6",
+  "zaman": "2026-08-29T14:45:24.796Z",
+  "govde_hash": "78fd3807584c",
+  "commit": "495dbec",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Bu olayın referans maddesi, saldırının anlatımından önce bir hazırlık bölümü taşır ve o bölümün alt başlıkları arasında planlama ile \"önceki istihbarat\" yer alı",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir saldırının referans kaydında, saldırıdan önce elde bulunan bilginin ayrı bir alt başlık olarak ele alınması, olayın yalnızca bir eylem değil bir öngörülebil",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Aynı bölümde güdüler ayrı bir alt başlık olarak verilir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak saldırıyı çarpışmalar, kayıplar, hasar ve kurtarma çalışmaları olarak dörde ayırır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kayıpların ve kurtarma çalışmalarının ayrı ayrı sayılması, olayın bilanço ile müdahalenin ayrı ölçüldüğü bir kayıt biçimine sahip olduğunu gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Tepkiler bölümü acil yanıt ve iç tepkiler alt başlıklarını taşır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir olayın tepki bölümünün coğrafi olarak bölünmesi, sonuçlarının farklı ölçeklerde ölçüldüğünü gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Olayın gerçekleştiği dönemin küresel kurumsal çerçevesi, ana organları arasında Güvenlik Konseyi bulunan ve üyeliği 193 üye devlet ile 2 gözlemci devletten oluş",
+      "iddia": "El Kaide'ye bağlı on dokuz kişi, 11 Eylül 2001 sabahı Amerika Birleşik Devletleri'nde dört yolcu uçağını kaçırdı ve uçakları hedeflerine sürdü.",
       "durum": "OK",
-      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İki uçak Manhattan'daki Dünya Ticaret Merkezi'nin kulelerine, biri Pentagon'a çarptı; dördüncüsü, yolcuların ülkenin saldırı altında olduğunu öğrenip direnmesiy",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Saldırganların yanında yalnızca küçük bıçaklar, maket bıçakları ve biber gazı kutuları vardı; uçakları güdümlü mermiye çeviren silah değil, uçağın kendisiydi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Saldırıdan sonraki on beş ay içinde savaş yetkisi, gözetim mevzuatı, havacılık güvenliği ve federal bürokrasinin yapısı arka arkaya yeniden düzenlendi; bu düzen",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Saldırıdan sonraki on beş ay içinde savaş yetkisi, gözetim mevzuatı, havacılık güvenliği ve federal bürokrasinin yapısı arka arkaya yeniden düzenlendi; bu düzen",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Saldırıdan sonraki on beş ay içinde savaş yetkisi, gözetim mevzuatı, havacılık güvenliği ve federal bürokrasinin yapısı arka arkaya yeniden düzenlendi; bu düzen",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Saldırıdan sonraki on beş ay içinde savaş yetkisi, gözetim mevzuatı, havacılık güvenliği ve federal bürokrasinin yapısı arka arkaya yeniden düzenlendi; bu düzen",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Olay ayrıca alışılmadık ölçüde iyi belgelenmiştir: hem iki partili bir komisyon hem de bir teknik soruşturma kurumu bulgularını kamuya açık raporlar hâlinde yay",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 2008'de yaklaşık 6,84 milyardır.",
+      "iddia": "Olay ayrıca alışılmadık ölçüde iyi belgelenmiştir: hem iki partili bir komisyon hem de bir teknik soruşturma kurumu bulgularını kamuya açık raporlar hâlinde yay",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Saat 8.46'da, saatte yüzlerce kilometre hızla giden ve yaklaşık 10.000 galon jet yakıtı taşıyan bir yolcu uçağı kuzey kuleye girdi; 9.03'te ikinci bir uçak güne",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Her gün 50.000'e varan insanın çalıştığı iki kule, doksan dakika dolmadan çöktü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "9.37'de üçüncü uçak Pentagon'un batı cephesine girdi; 10.03'te dördüncü uçak, Kongre binası ya da Beyaz Saray'a yöneltilmişken Pensilvanya'da düştü.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Teknik soruşturmanın kaydı dakikaları daha da keskinleştirir: kuzey kule 8.46'da vuruldu ve 10.28'de, güney kule 9.02'de vuruldu ve 9.58'de çöktü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sonra vurulan kule önce çöktü; çarpmanın yüksekliği ve hasarın dağılımı iki bina için farklı zaman çizelgeleri üretmişti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sivil havacılık idaresi ile hava savunma komutanlığı arasındaki yordamlar, kaçırılan uçağın silah olarak kullanıldığı bir saldırı için her bakımdan uygunsuzdu; ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ateş açma izni, dördüncü uçak düştükten yirmi sekiz dakika sonra hava savunma sektörüne ulaştı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı sabah, tahliyenin çarpma katlarının altında kalan binlerce kişinin neredeyse tamamını kurtardığı da kayıtlıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Komisyon raporu saldırıyı Afganistan merkezli bir örgütün planına bağlar; kaçıranların dördü pilotluk eğitimi almıştı, çoğu iyi eğitimli değildi ve İngilizceyi ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Afganistan, İngilizceyi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Raporun aktardığına göre asıl tasarı çok daha büyüktü — iki kıyıda birden on uçakla saldırı — ve ölçeği ile karmaşıklığı yüzünden örgüt lideri tarafından küçült",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Saldırının seyri, failleri, sonrasındaki askerî harekâtlar ve güvenlik mevzuatındaki değişiklikler burada ayrı başlıklar altında ele alınmamıştır; kaynak bunlar",
+      "iddia": "Saldırı öncesinde örgüt içinde itiraz da vardı: Afganistan'daki yönetimin başı Amerika'ya saldırılmasına karşı çıktı, örgüt liderinin kendi yardımcılarından bir",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Operasyonun maliyeti 400.000 ile 500.000 dolar arasında hesaplanmıştır; bu paranın 270.000 dolardan fazlası ülke içinde harcandı ve işlemler bankacılık sistemin",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Rapor, paranın kaynağını belirleyemediğini açıkça yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Örgütün lideri, Amerikan askerlerinin Suudi Arabistan'daki varlığına, Körfez Savaşı sonrası yaptırımların Irak halkında yarattığı acıya ve Amerika'nın İsrail'e ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Komisyon raporu 2004'te üç bileşen verir: Dünya Ticaret Merkezi'nde 2.600'den fazla, Pentagon'da 125, dört uçakta 256 kişi.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Teknik soruşturma daha dar bir çerçeveyi daha kesin sayar: kulelere yapılan saldırılarda ölenlerin sayısı 2.735'tir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu sayının içinde iki binada bulunan 2.184 kişi, iki uçaktaki 129 kişi (119 yolcu ve mürettebat ile 10 saldırgan), 343 New York itfaiyecisi, 71 kolluk görevlisi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Kamusal bellekte dolaşan rakam ise üçüncü bir kapsama aittir: saldırganlar hariç 2.977 ölü, saldırganlarla birlikte 2.996.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Yıkıntıdan yayılan toza maruz kalan on binlerce kişi sonraki yıllarda hastalandı; bir tahmine göre 18.000 kişide toza bağlı hastalık gelişti.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Onların kaydı başka bir yerde tutulur: 2011'de kurulan federal sağlık programının kütüğünde.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kulelerin çöküşü, 2002'de çıkarılan bir yasayla kurulan resmî teknik soruşturmanın konusu oldu; standartlar kurumunun bu yetkiyle yürüttüğü ilk soruşturmaydı ve",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sonuç iki aşamalıdır: çarpma taşıyıcı kolonları kesip yangın yalıtımını yerinden söktü ve jet yakıtını katlara yaydı; ardından çıkan çok katlı yangınlar, yalıtı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kolonların içeri bükülmesi çöküşü başlattı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı kurum, kamuoyunda dolaşan bazı iddiaları da tek tek yanıtlamıştır; örneğin çeliğin belirli bir sıcaklığa sertifikalandığı iddiasının teknik olarak karşılığ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Saldırıdan yedi gün sonra, 18 Eylül 2001'de kabul edilen kuvvet kullanma yetkisi, başkana saldırıyı planlayan, yetkilendiren, gerçekleştiren ya da destekleyen d",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Metinde hiçbir ülke adı geçmez; yetki bir coğrafyaya değil, bir sorumluluk ölçütüne bağlanmıştır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "26 Ekim 2001'de yasalaşan USA PATRIOT Act, adı bir kısaltma olacak biçimde kurulmuş uzun bir başlık taşır ve kolluk ile istihbaratın yetkilerini genişletir; yab",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Sivil özgürlük örgütleri yasayı, kolluğa yurttaşların mahremiyetine girme imkânı verdiği ve yargı denetimini zayıflattığı gerekçesiyle eleştirdi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "19 Kasım 2001'de çıkan havacılık güvenliği yasası, yolcu ve bagaj taramasını özel şirketlerden alıp devlete devretti: Ulaştırma Bakanlığı bünyesinde bir Ulaştır",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "İç Güvenlik Yasası, ana görevi ülke içinde terör saldırılarını önlemek olarak tanımlanan bir bakanlığı yürütmenin bir dairesi olarak kurdu.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Güvenlik, Yasası"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Komisyon 2004'te bu düzenlemelerin üstüne kendi yeniden yapılanma önerilerini koydu: terörle mücadelede istihbarat ile harekât planlamasını tek çatı altında bir",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı rapor, devletin yetkileri kaçınılmaz olarak genişlerken bu yetkileri elde tutmanın ispat yükünün yürütmede kaldığını ve yeni bilgi toplama düzenlerinin den",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Komisyon, örgüt ile Irak yönetimi arasında dostane temaslar ve ortak düşmanlık temaları bulunduğunu kaydeder; ama bu temasların işbirliğine dayalı bir operasyon",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Yetki metni de aynı yönü gösterir: 2001 tarihli kuvvet kullanma yetkisi gücü saldırıdan sorumlu olanlarla sınırlar.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Buna karşın 2003'te başlayan Irak Savaşı, 11 Eylül sonrası dönemin savaşları arasında sayılagelmiştir.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Komisyonun genel bulgusu serttir: 1998 ile 2001 arasında alınan hiçbir önlem planın ilerleyişini bozmadı, hatta geciktirmedi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Rapor eksikliği dört başlıkta toplar — muhayyile, siyaset, kapasite ve yönetim — ve en önemlisinin muhayyile eksikliği olduğunu söyler; liderlerin tehdidin ağır",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Birincisi bilgi eksikliğini öne çıkarır: 2001 baharı ve yazı boyunca istihbarat kurumlarına büyük bir saldırı hazırlandığına dair bir uyarı akışı geldi, merkezî",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı okumaya göre kurumlar 1997'den itibaren Afganistan yönetimini diplomatik baskıyla ikna etmeyi de denemiş, uyarılar ve yaptırımlar sonuç vermemişti.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ocak 2000'de iki operasyonel eleman Kuala Lumpur'da görüldü, Bangkok'ta izleri kaybedildi ve 15 Ocak 2000'de Los Angeles'a indiler; kurumlar bu iki kişinin ülke",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu okumanın dayanakları sıralanabilir: gelecekteki iki saldırganın izleme listesine alınmaması, bunlardan birinin vizesi ve diğerinin seyahati hakkında federal ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Komisyonun kendisi ikisini de yetersiz bulur; izleme listesi, bilgi paylaşımı ya da noktaları birleştirmek gibi etiketlerin hepsinin çok dar kaldığını söyler ve",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Toz maruziyetine bağlı hastalıklar için 2011'de kurulan federal sağlık programı, 2015'te 2090 yılına kadar uzatıldı; 2019'da yeni kayıt sınırları 25.000'den 75.",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Saldırının ardından gelen savaşların doğrudan ölü sayısı 897.000 ile 929.000 arasında, dolaylı ölümlerle birlikte toplam 4,5 ile 4,6 milyon arasında tahmin edil",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir felaketin hem siyasi hem teknik soruşturmasının kamuya açık raporlar hâlinde yayımlanması, tarihçi için alışılmadık bir zenginliktir; iki rapor da kendi sın",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bir felaketin hem siyasi hem teknik soruşturmasının kamuya açık raporlar hâlinde yayımlanması, tarihçi için alışılmadık bir zenginliktir; iki rapor da kendi sın",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

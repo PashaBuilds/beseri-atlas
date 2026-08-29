@@ -12,17 +12,17 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | Ölçüm | Değer |
 |---|---|
 | Ölçülen makale | 505 |
-| Toplam künye | 1961 |
-| Giriş kapısı kuralını aşan makale | 180 |
-| Birincil kaynağı olmayan makale | 213 |
-| Giriş kapısı künyesi payı | 33% |
+| Toplam künye | 1997 |
+| Giriş kapısı kuralını aşan makale | 175 |
+| Birincil kaynağı olmayan makale | 207 |
+| Giriş kapısı künyesi payı | 32% |
 
 ## Tipe göre borçlu makale
 
 | Tip | Borçlu |
 |---|---|
-| olay | 75 |
 | aktor | 73 |
+| olay | 69 |
 | kavram | 60 |
 | kaynak | 28 |
 | dusunur | 22 |
@@ -160,7 +160,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `kaynak-tacitus-annales` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `kaynak-tooze-felaketin-bedeli` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `kaynak-weber-protestan-ahlaki` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
-| `olay-11-eylul` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-1848-devrimleri` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-1857-hint-ayaklanmasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-1905-rus-devrimi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
@@ -168,11 +167,9 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `olay-1973-petrol-krizi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-2008-finansal-krizi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-afrika-bagimsizlik-dalgasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `olay-afyon-savaslari` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-arap-bahari` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-atlantik-kole-ticareti` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-bandung-konferansi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `olay-berlin-duvarinin-yikilisi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-birinci-dunya-savasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-bretton-woods` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-cernobil` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
@@ -190,9 +187,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `olay-islam-fetihleri` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-ispanya-ic-savasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-istanbulun-fethi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `olay-italyan-birligi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-justinyen-vebasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
-| `olay-kirim-savasi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-kore-savasi` | 4 | 2 | 1 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor |
 | `olay-kuba-fuze-krizi` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
 | `olay-kudus-fethi-1187` | 3 | 2 | 0 | 2 giris kapisi kunyesi (en.wikipedia.org, en.wikipedia.org) — havuz en fazla 1 diyor; birincil kaynak yok |
@@ -287,7 +282,6 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `olay-rus-turkistan-fethi` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-talas-savasi` | 3 | 1 | 0 | birincil kaynak yok |
 | `olay-tanzimat-fermani` | 3 | 1 | 0 | birincil kaynak yok |
-| `olay-yesil-devrim` | 3 | 1 | 0 | birincil kaynak yok |
 | `tartisma-orta-asya-neden-cekildi` | 4 | 1 | 0 | birincil kaynak yok |
 | `aktor-fatimi-hilafeti` | 3 | 0 | 0 | birincil kaynak yok |
 | `aktor-memluk-devleti` | 3 | 0 | 0 | birincil kaynak yok |

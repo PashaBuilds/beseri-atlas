@@ -1,5 +1,5 @@
 ## olay-tunc-cagi-cokusu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:29.199Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.244Z_
 
 - [ATOMSUZ] k1 → "yüzyıldan beri öne sürülmektedir ve çoğu şehir ile kasabaların şiddetli biçimde yıkılmasını içerir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Geç Tunç Çağı'nı tanımlayan Miken Yunanistanı'nın, Ege bölgesinin ve Anadolu'nun saray ekonomisi dağıldı ve ye…" — 2 atom doğrulandı; 4 ad ölçülemedi

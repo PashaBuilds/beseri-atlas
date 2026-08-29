@@ -1,5 +1,5 @@
 ## dusunur-marx
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:35.421Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.232Z_
 
 - [OK]      k7 → "Karl Marx, 5 Mayıs 1818'de Prusya'nın Trier kentinde doğdu; 14 Mart 1883'te, ömrünün son otuz dört yılını sürg…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Sıklıkla filozoftan çok bir eylemci, eserleri yirminci yüzyılda komünist rejimlerin kuruluşuna esin veren bir …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## donem-08
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:23.583Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:41.517Z_
 
 - [OK]      k1 → "Kara Ölüm, Avrupa'da 1346'dan 1353'e kadar süren bir veba pandemisiydi ve insanlık tarihinin en ölümcül pandem…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Salgının tahmini ölü sayısı 25 ile 50 milyon arasındadır."

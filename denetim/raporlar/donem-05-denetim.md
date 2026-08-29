@@ -1,5 +1,5 @@
 ## donem-05
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:23.105Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:41.057Z_
 
 - [OK]      k1 → "Geç antikite MS 285–700 aralığına yerleştirilir ve klasik antikite ile Erken Orta Çağ arasında durur." — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Geç antikitenin coğrafyası Roma İmparatorluğu'nun ötesine uzanır: kralları İran ve Mezopotamya'yı yöneten ve E…" — 2 atom doğrulandı; 2 ad ölçülemedi

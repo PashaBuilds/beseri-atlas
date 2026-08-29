@@ -1,5 +1,5 @@
 ## tartisma-tunc-cagi-cokusunun-nedeni
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:08:49.203Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.842Z_
 
 - [OK]      k4 → "Yayıncı tanıtımına göre Cline'ın 2014 tarihli kitabının çıkış noktası bile bir olumsuzdur: Deniz Kavimleri MÖ …" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k9 → "cildinde, 99–149 sayfaları arasında yayımladığı geniş inceleme, tartışmayı "Crisis in Context" başlığıyla yeni…"

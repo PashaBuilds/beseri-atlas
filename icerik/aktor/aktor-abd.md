@@ -22,6 +22,7 @@ ilgili:
   - aktor-hawai-kralligi
   - aktor-haudenosaunee
   - aktor-komance
+  - olay-11-eylul
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

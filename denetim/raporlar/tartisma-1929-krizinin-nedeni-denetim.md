@@ -1,5 +1,5 @@
 ## tartisma-1929-krizinin-nedeni
-_Geçiş 2 — kaynak denetimi · 2026-08-29T11:04:12.064Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.386Z_
 
 - [OK]      k1 → "Ağustos 1929'da yüzde 3 olan Amerikan işsizlik oranı Mart 1933'te yüzde 25'e çıkmıştı."
 - [OK]      k1 → "Aynı aralıkta sanayi üretimi endeksi 114'ten 54'e, yani yüzde 52,6 geriledi; para arzı yüzde 35 daraldı, fiyat…"

@@ -1,5 +1,5 @@
 ## dusunur-herodotos
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:34.839Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.682Z_
 
 - [OK]      k1 → "yüzyılda Pers denetimi altındaydı, kendisi sonradan Thurii vatandaşı oldu."
 - [OK]      k1 → "Kaynak, Herodotos'un kendi zamanında eserine efsaneler ve hayalî anlatılar kattığı için eleştirildiğini yazar;…" — 2 atom doğrulandı; 2 ad ölçülemedi

@@ -1,5 +1,5 @@
 ## kaynak-camiut-tevarih
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:42.586Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:00.432Z_
 
 - [ATOMSUZ] k1 → "Câmiu't-Tevârîh, bir sarayın görevlendirmesiyle ve o sarayın veziri tarafından yazılmış bir dünya tarihi derle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Câmiu't-Tevârîh, bir sarayın görevlendirmesiyle ve o sarayın veziri tarafından yazılmış bir dünya tarihi derle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

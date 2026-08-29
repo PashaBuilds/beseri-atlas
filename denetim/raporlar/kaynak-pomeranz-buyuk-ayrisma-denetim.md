@@ -1,5 +1,5 @@
 ## kaynak-pomeranz-buyuk-ayrisma
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:43.661Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:01.440Z_
 
 - [OK]      k1 → "Kaynak eseri 2000 tarihli bir kurgu dışı kitap olarak künyeler; yazarını Kenneth Pomeranz, yayıncısını Princet…"
 - [OK]      k1 → "yüzyıl başında karşılaştırılabilir iktisadi gelişme düzeylerine ulaştığını ve özellikle üretken toprak kullanı…" — 3 atom doğrulandı; 1 ad ölçülemedi

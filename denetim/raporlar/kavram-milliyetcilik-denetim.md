@@ -1,5 +1,5 @@
 ## kavram-milliyetcilik
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:37.672Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.337Z_
 
 - [ATOMSUZ] k1 → "yüzyılın başına yerleştirdiğini yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak, 1772'de yayımlanan bir dil kökeni incelemesinde ortak dilin rolünün vurgulandığını ve yazarın milliyet…"

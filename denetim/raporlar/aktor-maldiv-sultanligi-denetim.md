@@ -1,5 +1,5 @@
 ## aktor-maldiv-sultanligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:32.390Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.313Z_
 
 - [OK]      k1 → "Maldiv Sultanlığı, Hint Okyanusu'nun ortasında, kıtalardan uzak bir takımadada kurulmuş siyasi birimdir."
 - [ATOMSUZ] k3 → "Maldiv Sultanlığı, Hint Okyanusu'nun ortasında, kıtalardan uzak bir takımadada kurulmuş siyasi birimdir." — programatik olarak ölçülemedi (ad karşılığı yok): Sultanlığı, Hint, Okyanusu

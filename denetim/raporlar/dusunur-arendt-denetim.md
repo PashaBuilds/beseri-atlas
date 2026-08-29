@@ -1,5 +1,5 @@
 ## dusunur-arendt
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:34.296Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.166Z_
 
 - [OK]      k1 → "Kaynak onu 1906-1975 arasında yaşamış, yirminci yüzyılın en etkili siyaset filozoflarından biri olarak kaydede…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kaynağın nitelemesi hem bir yüzyıl kaydı hem bir çoğul kaydı taşır: yirminci yüzyıl ve en etkililerden biri." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

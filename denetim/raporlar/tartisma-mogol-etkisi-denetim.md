@@ -1,5 +1,5 @@
 ## tartisma-mogol-etkisi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:40.093Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.958Z_
 
 - [OK]      k1 → "İstilayı bizzat yaşamış kişilerle görüşen İbnü'l-Esîr'e göre Tatar istilası, Âdem'den beri insanoğlunun uğradı…"
 - [OK]      k4 → "Karşı çerçevenin adı ise kendi tezini taşır: Roma Barışı'ndan örnekle türetilmiş bir tarih yazımı terimi olan …" — 1 atom doğrulandı; 2 ad ölçülemedi

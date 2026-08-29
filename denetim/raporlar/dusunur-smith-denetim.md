@@ -1,5 +1,5 @@
 ## dusunur-smith
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:35.716Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.503Z_
 
 - [ATOMSUZ] k1 → "Kaynak onun ahlak felsefesinin kapsamlı ve alışılmadık bir sürümünü geliştirdiğini yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Kaynak, onun kitabına sempati anlatısıyla başladığını ve sempatiyi, başkalarının koşullarında nasıl hissedeceğ…"

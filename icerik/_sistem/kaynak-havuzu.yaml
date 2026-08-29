@@ -147,6 +147,112 @@ whitelist:
       asiri-olum tahmini haber sayfasi "14.9 million" dizesini birebir
       tasiyor). Modern saglik/salgin iddialarinin resmi kaynagi olarak
       Wikipedia'ya ustun tercih.
+  - alan: nobelprize.org
+    tur: birincil
+    birincil_tur: tanik
+    dogrulanabilir: true
+    kapsam: [modern, bilim]
+    not: >
+      Nobel Vakfi'nin kurumsal arsivi; odul sahiplerinin kendi konusma
+      metinleri tam olarak burada. 2026-08-29 olcumu: 200, 68k temiz metin,
+      bot korumasi yok, JS gerekmiyor. Havuzda esdegeri yok; konusmalarin
+      tam metnini tasiyan baska dogrulanabilir alan bulunamadi (savunuculuk
+      siteleri kasitli olarak kullanilmadi).
+  - alan: api.parliament.uk
+    tur: birincil
+    birincil_tur: belge
+    dogrulanabilir: true
+    kapsam: [britanya, hukuk, modern]
+    not: >
+      Birlesik Krallik Parlamentosu'nun Hansard 1803-2005 resmi tutanak
+      dizisi. DIKKAT: ana kapi hansard.parliament.uk 403 veriyor; acik olan
+      yol api.parliament.uk/historic-hansard/... 2026-08-29 olcumu: iki
+      oturum tutanagi 200 ve temiz metin dondurdu. Meclis konusmalari ve oy
+      sayilari icin havuzda esdegeri yok.
+  - alan: visualizingcultures.mit.edu
+    tur: akademik
+    dogrulanabilir: true
+    kapsam: [asya, cin, japonya, modern]
+    not: >
+      MIT Visualizing Cultures — hakemli acik akademik yayin, birimler imzali
+      (or. Peter C. Perdue), Creative Commons. 2026-08-29 olcumu: 200, temiz
+      HTML.
+  - alan: mpra.ub.uni-muenchen.de
+    tur: akademik
+    dogrulanabilir: true
+    kapsam: [iktisat, modern]
+    not: >
+      Munih LMU'nun RePEc deposu (MPRA). 2026-08-29 olcumu: 200, ozet sayfasi
+      temiz metin. Ozet sayfasi kullanilir; PDF'e yaslanan iddia "kismi"dir.
+  - alan: germanhistorydocs.org
+    tur: birincil
+    birincil_tur: belge
+    dogrulanabilir: true
+    kapsam: [almanya, modern]
+    not: >
+      German History in Documents and Images (GHDI) — Washington'daki Alman
+      Tarih Enstitusu'nun belge koleksiyonu. Birincil metin transkripsiyonlari
+      Ingilizce ceviri, kaynak kunyesi ve onerilen atif bicimiyle birlikte.
+      2026-08-29 olcumu: alti fetch, hepsi 200, temiz HTML, JS gerekmiyor.
+      Havuzda 20. yuzyil Almanya birincil metinleri icin esdegeri yok
+      (chronik-der-mauer.de istemci tarafinda ciziliyor ve hangi tarih
+      istenirse istensin ayni sayfayi donduruyor; bundesstiftung-
+      aufarbeitung.de 403).
+  - alan: bpb.de
+    tur: akademik
+    dogrulanabilir: true
+    kapsam: [almanya, modern, siyaset]
+    not: >
+      Bundeszentrale fur politische Bildung — Almanya federal siyasi egitim
+      kurumu; Deutschland Archiv'de imzali akademik yazilar yayimliyor
+      (CC BY-NC-ND). 2026-08-29 olcumu: dort fetch, hepsi 200, 11k-112k metin.
+  - alan: api.wellcomecollection.org
+    tur: kitap
+    dogrulanabilir: true
+    kapsam: [saglik, tip, modern]
+    not: >
+      Wellcome Collection katalog API'si. 2026-08-29 hakem olcumu: 200,
+      temiz JSON, bot korumasi yok. DIKKAT: katalog kaydidir — bir eserin
+      varligini, basim tarihini ve nereden yeniden basildigini dogrular;
+      eserin ICERIGINE dair iddiayi tasimaz. Icerik iddiasi ancak "kismi"
+      olabilir. Tip tarihi kunyeleri icin havuzda esdegeri yok.
+  - alan: 9-11commission.gov
+    tur: birincil
+    dogrulanabilir: true
+    kapsam: [modern, terorizm, abd]
+    not: >
+      Ulusal Komisyon'un kendi yayini; 11 Eylul saldirilarinin resmi
+      sorusturma raporunun kurumsal barindiricisi. 2026-08-29 olcumu:
+      yonetici ozeti 58k, ikinci bolum 67k, temiz HTML, bot korumasi yok.
+      Rapor metnini aktaran ikincil sayfalara ustun tercih.
+  - alan: nist.gov
+    tur: akademik
+    dogrulanabilir: true
+    kapsam: [modern, muhendislik, abd]
+    not: >
+      ABD Ulusal Standartlar ve Teknoloji Enstitusu. Dunya Ticaret Merkezi
+      cokme sorusturmasinin (NCST Act 2002 yetkisiyle) tek resmi teknik
+      kaydi. 2026-08-29 olcumu: 200, 47k metin, JS gerekmiyor.
+  - alan: cdc.gov
+    tur: akademik
+    dogrulanabilir: true
+    kapsam: [saglik, modern, abd]
+    not: >
+      ABD Hastalik Kontrol ve Onleme Merkezleri. 2026-08-29 olcumu: 200,
+      13k metin. Toz kaynakli hastalik gibi resmi bilancolara girmeyen
+      saglik kayitlarinin kurumsal kaynagi.
+  - alan: govinfo.gov
+    tur: birincil
+    birincil_tur: belge
+    dogrulanabilir: true
+    kapsam: [hukuk, modern, abd]
+    not: >
+      ABD Devlet Basimevi'nin resmi yayin sistemi; federal kanunlarin tam
+      metni. 2026-08-29 olcumu: Pub. L. 107-40 2,7k · 107-56 379k ·
+      107-71 149k · 107-296 400k penceresinde kesiliyor.
+      DIKKAT: PDF uc noktalari (/content/pkg/.../pdf/...) getir.mjs'te ham
+      ikili doner ve dize aramasi yapilamaz; HTML uc noktasi
+      (/content/pkg/.../html/....htm) kullanilmalidir.
   - alan: legal.un.org
     tur: akademik
     dogrulanabilir: true

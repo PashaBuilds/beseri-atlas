@@ -1,5 +1,5 @@
 ## aktor-cagatay-hanligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:30.601Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.623Z_
 
 - [OK]      k1 → "Çağatay Hanlığı, on üçüncü yüzyılda kurulan büyük bozkır imparatorluğunun paylaşımında ortaya çıkan dört ana b…"
 - [ATOMSUZ] k2 → "Bu bileşim, hanlığın bütün tarihini belirledi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

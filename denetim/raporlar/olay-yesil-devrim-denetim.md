@@ -1,16 +1,51 @@
 ## olay-yesil-devrim
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:29.628Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:47:12.994Z_
 
-- [OK]      k1 → "Bu dönüşümün başlatıcıları devletler değil vakıflardır: hem Ford Vakfı hem Rockefeller Vakfı, programın Meksik…" — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "Kıtasal ölçekli bir tarım programının iki özel vakıf tarafından başlatılması, 20." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak, kilit önderi tarım bilimci Norman Borlaug olarak verir; kendisi 1970'te Nobel Barış Ödülü almıştır ve …" — 4 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir milyarı aşan bir sayının tek bir kişiye atfedilmesi, atlasın sayı okuma uyarısını gerektirir: bu, ölçülmüş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kaynak da "anılmaktadır" diyerek ifadeyi bir kayıt olarak sunar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Aynı yıllarda dünya nüfusu, uzun dönemli seride 1945'te yaklaşık 2,38 milyardan 1991'de yaklaşık 5,42 milyara …"
-- [OK]      k2 → "Aynı dönemin çatışma serisi ise 1970'ler ve 1980'lerde yılda 300.000 ölümle zirve yapmıştır."
-- [ATOMSUZ] k1 → "Üç serinin — tarımsal dönüşüm, nüfus artışı ve çatışma bilançosu — aynı yıllara düşmesi, dönemin karakteristiğ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Üç serinin — tarımsal dönüşüm, nüfus artışı ve çatışma bilançosu — aynı yıllara düşmesi, dönemin karakteristiğ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k3 → "Üç serinin — tarımsal dönüşüm, nüfus artışı ve çatışma bilançosu — aynı yıllara düşmesi, dönemin karakteristiğ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Kullanılan tohum çeşitleri, gübre ve sulama teknolojileri, ülke ülke uygulama ve çevresel eleştiriler burada a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Başlangıcı 1943'te, Meksika Tarım Bakanlığı ile Rockefeller Vakfı'nın Meksika hükümetinin isteği üzerine kurdu…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Yirmi yıl sonra aynı programın ürünü olan çeşitler Hindistan ve Pakistan tarlalarındaydı; Filipinler'de gelişt…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Dünya buğday verimi 1961'de 1,09 ton, 2023'te 3,63 tondu."
+- [OK]      k5 → "Dünya tahıl verimi 1961'de hektarda 1,35 tondu; 2023'te 4,23 tona çıktı."
+- [OK]      k3 → "Vakfın kendi yıllık raporu, George Harrar'ın yönetiminde kurulan ilk projenin buğday ıslahı olduğunu ve progra…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Aynı yıl kadroya Wellhausen katıldı ve özellikle mısır ile fasulyede bitki ıslahı çalışmaları başladı."
+- [OK]      k1 → "Bir yıl sonra, 1944'te, bitki ıslahçıları, toprak bilimciler, bitki patologları ve entomologlar birlikte çalış…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Uygun koşullarda bu çeşitler, eski uzun saplı buğdayların en iyilerinin iki ya da üç katı ürün veriyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Programın buğday kanadını yirmi altı yıl yürüten Norman Borlaug, sonucun bir rastlantı olmadığını vurgulamak i…"
+- [OK]      k4 → "Meksika'da hektardan alınan buğday 1961'de 1,68 tondu; 1970'te 3,02, 1980'de 3,85 tona çıktı."
+- [OK]      k2 → "Ülke 1943'te buğday ihtiyacının yarısını ithal ediyordu; 1956'da kendine yeterli hâle geldi, 1964'te yarım mil…"
+- [ATOMSUZ] k1 → "Çeşitlerin ayırt edici özelliği tek başına yüksek verim değil, gübreye verdikleri tepkiydi: uzun saplı buğday …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Üretimdeki büyük artış o tarihe kadar yalnızca sulanan alanlarda gerçekleşmişti; yağışa bağlı alanlar geride k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Etki ürün bakımından da dardı: buğday, pirinç ve mısır belirgin biçimde değişmiş, sorgum, darı ve arpada değiş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Yalnızca 1969-1970 ekim sezonunda Hindistan'da yetmiş bin özel tüplü kuyu açıldı ve yaklaşık 1,4 milyon hektar…"
+- [ATOMSUZ] k1 → "Aynı konuşmada, yapay besinlere bağımlılığın küçük çiftçinin üzerine bindirdiği mali yük, programı yürüten kiş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "1965'te Pakistan'a 350, Hindistan'a 250 ton Meksika cüce buğday tohumu geniş ölçekli tarla denemeleri için get…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Yeşil Devrim öncesinin rekor hasadı olan 1964-1965 yılı taban alındığında Pakistan'ın buğday üretimi 4,6 milyo…" — 8 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Hindistan'ın üretimi aynı yıllarda 12,3 milyon tondan 20 milyon tona yükseldi."
+- [OK]      k1 → "1969-1970 sezonunda Pakistan'ın altı milyon hektarlık buğday alanının yüzde 55'i, Hindistan'ın on dört milyon …" — 6 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Meksika'da geliştirilen önerilen tarım pratikleri paketinin, gübre önerileri dahil, yaklaşık yüzde 75'i Hindis…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Hindistan'da hektardan alınan buğday 1964'te 0,73 tondu; 1970'te 1,21, 1990'da 2,12, 2023'te 3,52 tona çıktı."
+- [OK]      k1 → "1960'ta Filipinler'in Los Baños kentinde, Ford ve Rockefeller vakıflarının ortak finansmanı ve Filipin hükümet…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Meksika'daki buğday, mısır ve patates çalışmaları 1959'da gayriresmî biçimde uluslararasılaştı, 1963'te ise ik…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k2 → "Enstitüde 1962'de yapılan bir melezlemeden çıkan hatlardan biri 1966'da IR8 adıyla çeşit hâline geldi ve muciz…"
+- [ATOMSUZ] k1 → "IR8, Filipinler, Seylan, Malezya ve Batı Pakistan'da çarpıcı verim artışı üretti; muson bölgelerindeki Hindist…" — programatik olarak ölçülemedi (ad karşılığı yok): Filipinler, Seylan, Malezya, Batı
+- [OK]      k2 → "Olayın adı bir bilim insanından değil bir yöneticiden geldi: terimi 1968'de Amerikan Uluslararası Kalkınma Aja…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k2 → "Kurduğu karşıtlık Soğuk Savaş sözlüğündendi: Sovyet tipi kızıl bir devrim de değil, Şah'ın beyaz devrimi de de…" — programatik olarak ölçülemedi (ad karşılığı yok): Soğuk, Savaş, Sovyet, Şah
+- [ATOMSUZ] k1 → "Borlaug ise terimden rahatsızdı; yaygın kullanımıyla erken, fazla iyimser ve fazla geniş kapsamlı olduğunu düş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k8 → "1970-1989 arasında yayımlanmış 300'den fazla çalışmayı tarayan bir inceleme, dağılım üzerine sonuca varan çalı…"
+- [OK]      k8 → "Batılı ülkelerden yazarlar, deneme yöntemiyle yazanlar ve çok ülkeli bölgelere bakanlar eşitsizliğin arttığı s…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "1960-2000 arasında uluslararası araştırma merkezlerinin ulusal programlarla birlikte geliştirdiği modern çeşit…"
+- [OK]      k2 → "En bilinen örneği, Vandana Shiva'nın 1989 tarihli çalışmasıdır; başlığı tezini taşır: yeşil devrimin şiddeti, …" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "NASA'nın yerçekimi uydularıyla yapılan bir ölçüm, Racastan, Pencap ve Haryana eyaletlerinde, Delhi dahil, yera…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Ağustos 2002 ile Ekim 2008 arasındaki net kayıp 109 kilometreküpü buldu; bu, ülkenin en büyük yüzey su rezervu…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k2 → "Pencap'ın ilk uygulama bölgesi olarak seçilme gerekçesi de zaten güvenilir su kaynağıydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Meksika ve Hindistan modellerini Afrika'ya taşımak için çok sayıda girişimde bulunuldu; bunlar genel olarak da…"
+- [ATOMSUZ] k2 → "Gösterilen nedenler arasında yolsuzluk, güvensizlik, altyapı eksikliği ve hükümetlerin isteksizliği kadar çevr…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Tahıl verimi Güney Asya'da 1961'de hektarda 1,01 tonken 2023'te 3,67 tona çıktı; Afrika'da aynı yıllar arasınd…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Başka bir deyişle Afrika 2023'te hektardan 1,71 ton tahıl alıyordu; Güney Asya bu düzeyi 1980'lerin sonunda ge…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Borlaug 1970'te Nobel Barış Ödülü aldı ve bugün yaygın biçimde bir milyardan fazla insanı açlıktan kurtarmakla…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k2 → "Bu, ölçülmüş bir sonuç değil bir anma ifadesidir; nitekim aynı kayıt başka bir yerinde iki milyar rakamını da …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "1965 sonrasındaki ürün ıslahı kazanımlarını küresel bir ekonomik modelle geri alıp dünyayı yeniden simüle eden…"
+- [ATOMSUZ] k7 → "Aynı çalışma sonucunu açıkça yorumlar: bulgular verim artışının doğal ekosistemleri tarıma dönüşmekten kurtard…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kazanılan şey açlığa karşı savaşta geçici bir başarı, insanlığa tanınmış bir nefes alma payıydı; tam olarak uy…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Gecikmenin bedelini ölçmeye çalışan bir çalışma, dönüşümün on yıl gecikmesinin kişi başına gelirin yüzde 17'si…"
 
-**Özet:** 4 OK · 0 ISARET · 0 HATA · 7 ATOMSUZ
+**Özet:** 33 OK · 0 ISARET · 0 HATA · 13 ATOMSUZ

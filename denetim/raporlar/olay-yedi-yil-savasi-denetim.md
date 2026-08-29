@@ -1,5 +1,5 @@
 ## olay-yedi-yil-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:29.593Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.630Z_
 
 - [OK]      k1 → "Kaynak savaşı tek bir cümleyle tanımlar: Avrupa güçleri arasında 1756–1763 yılları arasında yürüyen küresel bi…"
 - [OK]      k1 → "Kaynağa göre savaşın Rusları kendi lojistik zayıflıklarına maruz bıraktığını ve İmparatorluk Rus Ordusu'nun lo…" — 1 atom doğrulandı; 3 ad ölçülemedi

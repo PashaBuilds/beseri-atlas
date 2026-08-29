@@ -1,5 +1,5 @@
 ## aktor-timur-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:33.975Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:51.869Z_
 
 - [OK]      k1 → "İmparatorluk 1370-1507 arasına tarihlenir; devlet biçimi emirlik, yönetim biçimi mutlak monarşi, hükümdar unva…"
 - [OK]      k1 → "Kaynak kuruluştan önce ayrı bir olay kaydeder: Timur 1363'te fetihlere başladı; imparatorluğun kurulması 1370'…"

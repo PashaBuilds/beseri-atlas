@@ -22,7 +22,7 @@ export function govdeHash(govde) {
   return crypto.createHash('sha1').update(govde).digest('hex').slice(0, 12);
 }
 
-function suankiCommit() {
+export function suankiCommit() {
   try { return execSync('git rev-parse --short HEAD', { cwd: KOK }).toString().trim(); }
   catch { return null; }
 }

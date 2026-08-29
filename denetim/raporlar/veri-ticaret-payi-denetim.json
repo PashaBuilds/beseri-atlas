@@ -1,9 +1,9 @@
 {
   "id": "veri-ticaret-payi",
   "gecis": 2,
-  "zaman": "2026-08-29T09:10:42.351Z",
+  "zaman": "2026-08-29T14:40:00.213Z",
   "govde_hash": "681700647c46",
-  "commit": "7549ec6",
+  "commit": "495dbec",
   "sonuclar": [
     {
       "anahtar": "k1",

@@ -1,5 +1,5 @@
 ## dusunur-malthus
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:35.337Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.155Z_
 
 - [ATOMSUZ] k1 → "Kaynak Nüfus İlkesi Üzerine Bir Deneme için ayrı bir bölüm açar ve altında baskılar ve sürümler diye bir alt b…" — programatik olarak ölçülemedi (ad karşılığı yok): Nüfus, İlkesi, Üzerine, Deneme
 - [ATOMSUZ] k1 → "Kaynak, ikinci ve sonraki baskılarda alt sınıfların yoksulluğunu hafifletmenin en iyi yolu olarak ahlaki kısıt…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

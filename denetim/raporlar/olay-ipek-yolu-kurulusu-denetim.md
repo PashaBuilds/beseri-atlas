@@ -1,5 +1,5 @@
 ## olay-ipek-yolu-kurulusu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:27.276Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:45.154Z_
 
 - [OK]      k1 → "Ağ, Han hanedanının MÖ 114 civarında Orta Asya'ya yayılmasıyla, Çinli saray elçisi Zhang Qian'ın görevleri ve …" — 4 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak "İpek Yolu" teriminin, Avrasya'nın iki ucundaki yerleşik ve okuryazar imparatorlukları ayrıcalıklı kıld…" — 1 atom doğrulandı; 3 ad ölçülemedi

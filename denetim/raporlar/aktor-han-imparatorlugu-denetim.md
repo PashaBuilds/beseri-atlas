@@ -1,5 +1,5 @@
 ## aktor-han-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:31.344Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.327Z_
 
 - [OK]      k1 → "Han hanedanının kuzey sınırındaki ilişki bir yenilgiyle açılır: Xiongnu, MÖ 200'de Han'ı yendi ve bu, Han'ı Xi…"
 - [OK]      k1 → "MÖ 121'de Han kuvvetleri Xiongnu'yu Hexi Koridoru'ndan Lop Nur'a uzanan geniş bir bölgeden çıkardı; MÖ 111'de …" — 5 atom doğrulandı; 1 ad ölçülemedi

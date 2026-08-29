@@ -1,5 +1,5 @@
 ## kavram-kapitalizm
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:37.092Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:54.800Z_
 
 - [ATOMSUZ] k1 → "Kaynak, kavramı tek bir cümleyle vermez: köken bilgisi ve tanım için ayrı bölümler, özellikler için ise sekiz …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir kavramın tanımına ayrı bir bölüm ayrılması, atlasın şu kuralının dayanağıdır: bu dosyada kapitalizm sözcüğ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## kavram-kamusal-alan
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:37.028Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:54.739Z_
 
 - [ATOMSUZ] k1 → "Kaynak bölümlerini sıralar: tarih, tanımlar, burjuva kamusal alanı, karşı-kamular ile feminist eleştiriler ve …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak tanımlar bölümünü çoğul başlıkla verir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

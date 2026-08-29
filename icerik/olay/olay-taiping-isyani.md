@@ -16,6 +16,7 @@ ilgili:
   - donem-12
   - aktor-qing-hanedani
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - olay-afyon-savaslari
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

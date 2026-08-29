@@ -1,5 +1,5 @@
 ## tartisma-teknolojik-belirlenimcilik
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:40.914Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.776Z_
 
 - [OK]      k2 → "Karl Marx 1847'de Proudhon'a karşı yazdığı polemikte kestirip atmıştı: "El değirmeni size feodal beyli toplumu…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Çağdaş felsefenin başvuru kaydı, bugünkü toplumu bir arada tutanın büyük ölçüde teknoloji olduğunu, bunun yaln…"

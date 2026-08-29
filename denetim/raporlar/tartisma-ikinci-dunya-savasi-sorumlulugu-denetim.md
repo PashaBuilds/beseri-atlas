@@ -1,5 +1,5 @@
 ## tartisma-ikinci-dunya-savasi-sorumlulugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:39.446Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.305Z_
 
 - [OK]      k7 → "Savaş, Almanya'nın 1 Eylül 1939'da Polonya'ya saldırmasıyla başladı ve Britanya ile Fransa iki gün sonra Alman…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Savaş sonrasında yerleşen ve Nürnberg tezi diye anılan okuma da bu zemini esas alır: Hitler savaşı istemiş, ay…" — 1 atom doğrulandı; 1 ad ölçülemedi

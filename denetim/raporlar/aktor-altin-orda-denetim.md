@@ -1,5 +1,5 @@
 ## aktor-altin-orda
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:29.918Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.973Z_
 
 - [ISARET]  k1 → "Altın Orda, bozkır kuşağının batı ucunda, Karadeniz'in kuzeyinden Volga havzasına uzanan bir alanda kuruldu." — özel isim kaynakta bulunamadı: Volga
 - [OK]      k4 → "Altın Orda, bozkır kuşağının batı ucunda, Karadeniz'in kuzeyinden Volga havzasına uzanan bir alanda kuruldu." — 2 atom doğrulandı; 1 ad ölçülemedi

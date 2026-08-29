@@ -1,5 +1,5 @@
 ## kaynak-guaman-poma-nueva-coronica
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:42.833Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:00.669Z_
 
 - [ATOMSUZ] k1 → "Nueva Corónica, fethedilen tarafın kendi kalemiyle yazıp fetheden devletin kralına gönderdiği bin sayfayı aşan…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Nueva Corónica, fethedilen tarafın kendi kalemiyle yazıp fetheden devletin kralına gönderdiği bin sayfayı aşan…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

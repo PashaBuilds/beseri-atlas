@@ -1,5 +1,5 @@
 ## tartisma-aydinlanmanin-sinirlari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:39.023Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.698Z_
 
 - [ATOMSUZ] k11 → "Dönemin öz-tanımı bir özgürleşme vaadidir: akla, deneysel kanıta ve bilimsel yönteme yapılan vurgu; bireysel ö…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k11 → "yüzyılda Avrupa'ya ve Amerika ile Okyanusya'daki Avrupa sömürgelerine yayıldı." — 2 atom doğrulandı; 1 ad ölçülemedi

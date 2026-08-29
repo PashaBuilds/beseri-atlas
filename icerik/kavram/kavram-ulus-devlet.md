@@ -18,6 +18,7 @@ ilgili:
   - veri-demokrasi-endeksi
   - tartisma-soykirim-kavrami
   - kavram-vatandaslik
+  - olay-italyan-birligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

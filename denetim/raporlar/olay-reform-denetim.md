@@ -1,5 +1,5 @@
 ## olay-reform
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:28.786Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:46.841Z_
 
 - [OK]      k1 → "Reform'un başlangıç işareti bellidir: Doksan Beş Tez, Martin Luther tarafından 1517'de yazılmıştır." — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Kaynak, Reform'un öncüllerini kendi başlığı altında sayar: Peter Waldo ve Valdocular, John Wycliffe ve Lollard…" — 3 atom doğrulandı; 1 ad ölçülemedi

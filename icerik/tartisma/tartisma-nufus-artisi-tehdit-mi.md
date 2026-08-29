@@ -35,6 +35,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - tartisma-tarim-devrimi-neden
   - tartisma-tarim-devrimi-ilerleme-mi
+  - olay-yesil-devrim
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

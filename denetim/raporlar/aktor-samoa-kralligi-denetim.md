@@ -1,5 +1,5 @@
 ## aktor-samoa-kralligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:33.504Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:51.422Z_
 
 - [ATOMSUZ] k2 → "Samoa, Pasifik'in orta kesiminde iki büyük ve birkaç küçük adadan oluşan bir takımadadır ve okyanusun ortasınd…" — programatik olarak ölçülemedi (ad karşılığı yok): Pasifik
 - [OK]      k1 → "Takımada 1900'de ikiye bölündü ve iki ayrı devletin yönetimine girdi."

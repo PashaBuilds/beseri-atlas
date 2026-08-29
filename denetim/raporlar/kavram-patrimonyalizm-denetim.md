@@ -1,5 +1,5 @@
 ## kavram-patrimonyalizm
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:37.826Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.482Z_
 
 - [OK]      k1 → "Bakker ve Francis Fukuyama."
 - [ATOMSUZ] k1 → "Kaynağın kavrama dair bir zayıflık bölümü tutması, atlasın şu kuralının dayanağıdır: bu dosyada patrimonyalizm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

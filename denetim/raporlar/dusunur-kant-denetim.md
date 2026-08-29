@@ -1,5 +1,5 @@
 ## dusunur-kant
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:35.042Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.878Z_
 
 - [OK]      k1 → "Kaynak onu 1724-1804 arasında yaşamış, modern felsefenin merkezî figürü olarak kaydeder ve erken modern akılcı…"
 - [OK]      k1 → "Kaynak üç Eleştiri'yi künyeleriyle sıralar: Saf Aklın Eleştirisi (1781, 1787), Pratik Aklın Eleştirisi (1788) …" — 4 atom doğrulandı; 3 ad ölçülemedi

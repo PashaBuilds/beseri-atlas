@@ -1,5 +1,5 @@
 ## tartisma-demografik-donum-sonuclari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T11:04:35.134Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.859Z_
 
 - [OK]      k2 → "Phillip Longman 2004'te, düşen doğum hızlarının dünya refahını tehdit ettiğini savunan bir kitap yayımladı; ki…"
 - [OK]      k8 → "On yıl sonra Ronald Lee ile Andrew Mason, kırk ülkenin ulusal transfer hesaplarına dayanan bir incelemeyle son…"

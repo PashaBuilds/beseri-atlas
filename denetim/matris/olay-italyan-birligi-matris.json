@@ -1,0 +1,709 @@
+{
+  "id": "olay-italyan-birligi",
+  "govde_hash": null,
+  "commit": null,
+  "zaman": "2026-08-29",
+  "hakem": "TASLAK-yazar",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Yüzyılın ortasında birbirini dışlayan üç proje aynı anda dolaşımdaydı: papanın başkanlığında bir devletler konfederasyonu, cumhuriyetçi bir halk ayaklanması ve Piemonte-Sardinya monarşisinin önderliğinde bir ilhak zinciri.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ucu de kaynagin \"Three ideals of unification appeared\" pasajinda adiyla sayilir"
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "17 Mart 1861'de Torino'da toplanan ilk İtalyan parlamentosu Vittorio Emanuele'yi İtalya kralı ilan etti; 27 Mart'ta da henüz krallığın sınırları dışında kalan Roma'yı başkent saydı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "O gün Venedik Avusturya'nın, Roma papanın elindeydi; Güney ise bir yıl önce silahla alınmıştı ve iki yıl sonra parlamentonun kendi soruşturma komisyonunu göndereceği bir savaşın sahnesi olacaktı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Komisyonun varligi ve Guney'deki savas raporun kendisinde; Venedik ve Roma'nin o tarihteki statusu raporda dogrudan yazmaz, cerceve cumlesidir"
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Piemonteli bir rahip olan Vincenzo Gioberti, İtalyanların ahlaki ve medeni önceliği üzerine yazdığı kitapta, yarımadaya sayılamayacak kadar çok iyilik getirecek şeyin papanın ılımlaştırıcı otoritesi altında kurulacak siyasi bir konfederasyon olduğunu savunuyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metinde: \"Indicibili sono i beni che l'Italia riceverebbe da una confederazione politica, sotto l'autorita moderatrice del Pontefice\""
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Kendi vurgusuna göre bunun için papaya yeni bir yetki vermek gerekmiyordu; kesintiye uğramış ama ortadan kalkmamış eski bir hakkın yeniden işletilmesi yeterliydi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metinde: papa yeni bir yetki almaz, \"un diritto antico, interrotto bensi, ma non annullato\""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Öneriye Pius IX önce ilgi duyar göründü; ama papa kısa sürede tersine döndü ve liberalizmle milliyetçiliğe karşı cephe aldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Aynı yıllarda Giuseppe Mazzini ile Carlo Cattaneo federal bir cumhuriyet, Cesare Balbo ise Piemonte önderliğinde bir devletler birliği öneriyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mazzini-Cattaneo federal cumhuriyeti ve Balbo'nun ara konumu kaynakta adiyla verilir"
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Dergisinin kendi alt başlığı, İtalya'nın siyasi, ahlaki ve edebi durumu üzerine, ülkenin yeniden doğuşuna yönelen yazılar dizisi olduğunu söylüyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Derginin frontispizio'daki alt basligi giris yazisinda aynen aktarilir"
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Mazzini için mesele yalnızca Avusturya'yı kovmak değildi: ayaklanmaların bölge bölge patlamasından şikâyet ediyor, tek tek eyaletlerin kıpırdanması yerine ilkelerde ve harekette bir birlik arıyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ilkelerde ve harekette birlik arayisi ile bolgesel ayaklanma elestirisi metinde dogrudan (\"Era necessaria una unita di principii e d'operazioni\"); \"yalnizca Avusturya'yi kovmak degildi\" cercevesi yazarin"
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Carlo Alberto, dergi sınırdan içeri sızmayı başarınca, dinin, ahlakın ve monarşinin ilkelerine aykırı yayınları ülkeye sokmayı bir ila üç yıl hapis ya da zincir, dağıtmak için sokulduğu anlaşılırsa iki ila beş yıl kürek cezasıyla karşılayan bir kararname çıkardı; aynı cezalar bu yayınları basana ve dolaşıma sokana da uygulanacaktı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kararnamenin 1. ve 2. maddeleri basimin dipnotunda tam metin olarak verilir"
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Ceza kâğıt üzerinde kalmadı: 1833'te Chambéry'de onbaşı Giuseppe Tamburelli, dergiyi bir askere okuttuğu ya da ödünç verdiği için kurşuna dizildi; aynı yıl avukat Scovazzi ve dava vekili Vocheri, aralarında yasak kitabı dağıtmak da bulunan suçlamalarla ölüme mahkûm edildi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tamburelli, Scovazzi ve Vocheri kararlari ayni dipnotta tarihleriyle sayilir"
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "1852'de başbakan olan Cavour, Kırım Savaşı'nda ittifaka katıldı, 1858-59'da Avusturya'ya karşı savaşta Napolyon III ile birlikte hareket etti ve 1860'ta Garibaldi'nin seferini gizlice destekledi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin konusmaci tanitim notundan; 1852 basbakanlik, Kirim ittifaki, 1858-59 ve 1860 destegi orada sayilir"
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Cavour, Roma'nın İtalya'nın başkenti olması gerektiğini söylüyor, başkent sorunu çözülmedikçe eyaletler arasında bitmeyen bir çekişme yaşanacağını, seçimin iklim ya da coğrafyayla değil ahlaki nedenlerle yapıldığını savunuyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Kendi seçim bölgesi Torino'nun bu iddiadan vazgeçmesini istemek ona acı verdiğini de açıkça söyledi.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Konusmada \"a deep grief to me to tell my native city\" ve Torino'nun fedakarliga hazir oldugu ifadesi"
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Asıl önemlisi, Roma'ya gidişe koyduğu iki şarttı: Fransa ile birlikte gidilecekti, yoksa birleşme dünya Katoliklerince kilisenin köleleştirilmesi sayılırdı; ve papanın gerçek bağımsızlığı zedelenmeyecek, sivil iktidar ruhani alana uzanmayacaktı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki sart konusmada acikca sayilir"
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Cavour bu şartlar tutulursa papalıkla devlet arasında bir barışın kurulabileceğini umuyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Konuşmasından birkaç ay sonra, 6 Haziran 1861'de öldü.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Olum tarihi kaynagin editor dipnotunda"
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Avusturya 4 Haziran'da Magenta'da yenildi, Solferino'da Fransız-Piemonte kuvvetleri karşısında müzakereye zorlandı; 12 Temmuz'daki Villafranca ateşkesi Lombardiya'yı Sardinya'ya bağladı ama Veneto ile Mantova'yı Avusturya'da bıraktı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "İki taraf da anlaşmanın dışına çıkmıştı: Napolyon III Venedik alınmadan savaştan çekilmiş, Cavour ise ayaklanmaların orta ve kuzey İtalya'ya yayılmasına göz yumarak Plombières'de kararlaştırılanı aşmıştı.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak iki tarafin da Plombieres'de kararlastirilani astigini acikca yazar"
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Sardinya, Toskana Büyük Dukalığı, Parma ve Modena dukalıkları ile papalık legasyonlarından oluşan Orta İtalya Birleşik İllerini 22 Mart 1860'ta ilhak etti; iki gün sonra Torino Antlaşması'yla Savoy ve Nice'i Fransa'ya devretti.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Seferin siyasi anlamı ilk günlerde belirlendi: Marsala'da diktatörlükten söz edildi, ertesi gün Salemi'de ilan edildi ve \"İtalya ve Vittorio Emanuele\" sözü şiar olarak doğrulandı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metinde: \"A Marsala si parlo di dittatura, che poi venne proclamata a Salemi nel giorno seguente, e si confermo il motto: Italia e Vittorio Emanuele\""
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Garibaldi kendi anlatısında bunu, cumhuriyetçi \"saflar\"ın sonradan açıkça dile getirdiği itiraza rağmen alınmış yerinde bir karar sayar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metinde: \"Savia deliberazione che, non ostante l'opinione contraria dei puri (manifestata in seguito)...\""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Garibaldi, Palermo'da Savoy monarşisinin yandaşlarının halkı Bin'e karşı kuşkuya sürüklediğini ve vaktinden önce bir ilhaka ittiğini, bunu yapanların Cavour'un ajanları olduğunu yazar; onu Volturno'daki orduyu bir savaşın arifesinde bırakıp Palermo'ya gitmek zorunda bıraktıklarını ve bunun Caiazzo yenilgisine mal olduğunu söyler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metinde \"annessione intempestiva\", \"cavouriani agenti\" ve Caiazzo yenilgisi baglantisi dogrudan gecer"
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Ekim ayında Vittorio Emanuele ordusuyla güneye indi; Garibaldi Teano'da onu İtalya kralı diye selamladı, diktatörlük yetkisini devretti ve Caprera'ya çekildi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "31 Aralık 1861'i 1 Ocak 1862'ye bağlayan gece yapılan sayımın bakan tarafından krala sunulan raporuna göre krallığın 59 ilinde fiilen bulunan nüfus 21.776.953 kişiydi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Raporda: 59 il, 21,776,953. Sayim 31 aralik 1861 gecesi/1 ocak 1862 fiili nufusudur"
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Rapor, o güne kadar nüfusun İtalya'nın neredeyse her yerinde nüfus kütüklerinden kestirildiğini ve bu yöntemin kusurlu olduğunu, kısa süre içinde ciddi sapmalar biriktirdiğini de belirtir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bakanin rapor girisinde yontem elestirisi acikca yazilir"
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Devletin kendi istatistik yıllığı, 1861 seçim rakamlarının Veneto ve Roma olmadan hesaplandığını dipnotta beyan eder.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tablonun dipnotu: \"Senza il Veneto e senza Roma\""
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Venedik 1866'daki savaşın ardından, 21-22 Ekim'de yapılan bir halk oylamasıyla katıldı: 642 binden fazla oyun yalnızca 69'u ilhaka karşı çıktı ve tarihçiler bu oylamanın askeri baskı altında yapıldığını belirtir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Sayilar ve askeri baski degerlendirmesi kaynakta var ama kaynak bunlari kendi dipnotlarina havale eder; giris kapisi kunyesi oldugu icin kismi sayildi"
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Roma ise 1870'te Fransa-Prusya Savaşı'nın açtığı boşlukta alındı; Napolyon III garnizonunu geri çekti, üç saatlik top ateşi Porta Pia'da surları deldi ve İtalyan askerleri şehre girdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Başkent Floransa'dan Roma'ya resmen ancak temmuz 1871'de taşındı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Devletin istatistik yıllığı, 1861'den 1876'ya kadarki altı genel seçimin her biri için yüz kişiye düşen seçmen sayısını tablolaştırır; 1861'de bu oran 1,92'dir, yani yaşayan her elli kişiden biri.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tablo basligi (\"numero degli elettori a cento abitanti\") ve 1861 satirindaki 1.92 degeri taramada okunur; tablonun geri kalani OCR hasarlidir, bu yuzden kismi"
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Aynı satırda seçim çevrelerinin sayısı 443 olarak verilir; tablo oranı bir de yalnızca erkek nüfusa böler, ama 1861 satırındaki bu ikinci değer taramada okunamaz durumdadır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "443 sayisi taramada okunur; erkek nufusa oranlanan ikinci sutunun 1861 degeri okunamaz ve bu cumlede zaten okunamadigi beyan edilir"
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Aynı tabloya göre seçmenlerin sandığa gitme sıklığı 1870'te en düşük, 1876'da en yüksek düzeydeydi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metinde: \"La frequenza degli elettori alle urne fu minima nel 1870, e massima nel 1876\""
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Alessandro Manzoni'nin romanının 1840 basımı, insanları öğrenmeye zorlayacak bir dil sağlamak için bilinçli olarak standartlaştırılmış Toskana lehçesini kullanıyordu — yani ortak İtalyanca birleşmeden önce miras alınan değil, üretilmesi tasarlanan bir şeydi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Manzoni cumlesi kaynakta dogrudan; \"uretilmesi tasarlanan bir sey\" cikarimi ayni cumlenin yeniden ifadesidir"
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Temsilciler Meclisi, üyelerinden bir bölümünü en çok etkilenen yerlere gönderip eşkıyalığın nedenlerini, o günkü durumunu ve onu yok etmenin en uygun araçlarını incelemekle görevlendirdi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Raporda: \"studiare le cause del brigantaggio, lo stato in cui si trova attualmente, e i mezzi piu opportuni a distruggerlo\""
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Komisyon işe Torino'da bakanlıklardan gelen belgeleri inceleyerek başladı, sonra Napoli'ye geçti; Molise, Bari ve Lecce'yi dolaşıp Potenza'da toplandı, ardından Roma sınırına giderek eşkıyalıkla papalık sarayı, Bourbon çevresi ve Fransız garnizonu arasındaki ilişkileri yerinde inceledi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Guzergah raporun giris bolumunde sirasiyla verilir"
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Abruzzo ve Calabria'ya gitmek istedi ama zaman yetmeyeceği için vazgeçti — raporun kendi beyan ettiği sınırdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Abruzzo ve Calabria'dan vazgecme karari raporda gerekcesiyle yazilir"
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Siyasi krizin tek başına yeterli sayılmasının hata olacağını söyler ve gerekçesini bir karşılaştırmaya dayandırır: kriz eski Napoli krallığının bütün illerinde aynıydı, öyleyse etkisi de aynı olmalıydı; oysa sonuçlar iller arasında birbirini tutmuyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Raporun kendi karsi-olgusal argumani: kriz butun illerde ayniysa etkileri de ayni olmaliydi"
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Komisyon bunun yerine iç içe geçmiş etkenleri sayar: topraksız tarım işçisinin yoksulluğu ve toprağa hiçbir bağının bulunmaması — ortakçılığın yürürlükte olduğu yerlerde kır proletaryasının seyrek kaldığını da not eder — ile 1860 yazında hazırlanan Bourbon karşı hareketi; Francesco II Napoli'yi terk etmeden önce hapishane kapılarını açan bir kararname çıkarmıştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mezzeria karsilastirmasi ve Francesco II'nin hapishane kararnamesi raporda ayri ayri gecer"
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "1861'in ilk sekiz ayında 365, 1862'de 591, 1863'ün ilk üç ayında 79 kişi kurşuna dizildi; çatışmada ölenlerle birlikte toplam 3.451 ölü ve 2.768 tutuklu vardır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Raporun tablosu: 365 / 591 / 79 kursuna dizilen, toplam 3451 olu ve 2768 tutuklu"
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Komisyonun önerisi, eşkıyalık suçlarında yargı yetkisinin askeri mahkemelere devredilmesiydi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Raporun onerisi: \"la giurisdizione sui reati di brigantaggio va deferita ai tribunali militari\""
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Simonetta Soldani ile Gabriele Turi'nin 1993'te yayımladığı derlemeden bu yana sözün uydurma olduğu kabul edilir hâle gelmişti; Claudio Gigante'ye göre sözü d'Azeglio'ya bağlayan Ferdinando Martini'dir ve bunu 1896'da, devlet adamının ölümünden otuz yıl sonra, dönemin Ricordi basımındaki sahte bir pasaja dayanarak yapmıştır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iddia makalenin ozetinden okunur; tam metin bu ucnoktadan gelmedigi icin destek kismi sayildi"
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Gigante'nin katkısı, cümlenin Martini'den önce de dolaştığını göstermektir: De Sanctis 1872-73'te Napoli Üniversitesi'ndeki derslerinde d'Azeglio'nun düşüncesini özetlemek için bu sözü kullanmış, Leone Capri'nin 1878 tarihli kitabında ise vecize sonradan yayılacak biçimiyle çoktan yer almıştır; üstelik benzer bir ifade d'Azeglio'nun kendi metinlerinde de geçer.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ayni ozetten; De Sanctis dersleri, Capri 1878 ve d'Azeglio metinlerindeki benzer ifade ozet duzeyinde"
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Gigante buradan, birebir aynı sözcüklerle olmasa da özü bakımından vecizenin d'Azeglio'ya iade edilebileceği sonucuna varır ve sözcüklerin kendisinin de tartışmaya açık olduğunu ekler.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Gigante'nin sonucu ozette yer alir; gerekcelendirme tam metinde olup burada okunmamistir"
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Birincisi süreci bir ulus kurma işi sayar ve son çalışmaların milliyetçiliğin merkezî önemini vurguladığını belirtir; Denis Mack Smith, Christopher Duggan ve Lucy Riall bu damarda anılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Francesco Saverio Nitti, serbest piyasa düzeninin bütün ülkeye yayılmasının Güney ekonomisini Kuzey'in ağırlığı altında çökerttiğini ve \"Güney sorunu\"nun buradan doğduğunu savundu; Gaetano Salvemini yönetimin kavrayışsızlığının yolsuzluğu ve örgütlü suçu büyüttüğünü, Antonio Gramsci ise kitlelerin siyasete katılımının sınırlı kaldığını ve modern bir toprak reformunun yapılmadığını ileri sürdü.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Nitti, Salvemini ve Gramsci konumlari kaynakta adlariyla ozetlenir"
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "1860 baharından 1861 yazına kadar Piemonte parlamentosunun önündeki soru, Kuzeyli muhabirlerin yozlaşmış ve barbar diye betimlediği güney illerini anlamak için soruşturma açmak mı yoksa esas olarak güç kullanarak düzen kurmak mı olduğuydu; bu betimlemelerin ağırlığı ikinci yolu seçtirdi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin \"Ruling and representing southern Italy\" bolumu"
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "Aynı yıllarda meclisin kendi komisyonu, çözümü askeri mahkemelerde buluyordu.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onceki bolumdeki askeri yargi onerisine geri gonderme"
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Sonucun kaçınılmaz olmadığını gösteren en sağlam kanıt ise kazananın kendi belgeleridir: Cavour Roma'ya Fransa'yla birlikte ve papanın bağımsızlığını zedelemeden gidilmesini şart koşmuştu, Garibaldi Güney'i devrettikten sonra devri hızlandıranları suçlamıştı, Mazzini'nin dergisini taşıyanlar aynı hanedan tarafından kurşuna dizilmişti.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc bilesenin her biri kendi birincil kunyesinde dogrudan gecer; birlestiren cikarim yazarindir"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 41,
+    "kismi": 8,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

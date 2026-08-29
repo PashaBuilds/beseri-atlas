@@ -1,5 +1,5 @@
 ## aktor-majapahit
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:32.352Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.278Z_
 
 - [OK]      k1 → "Bu devletin referans maddesi, olağandışı bir bölüm taşır: tarih yazımı, tarihin kendisinden önce gelir ve dört…" — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bir devletin anlatısından önce o anlatının neye dayandığının verilmesi, atlasın kendi ilkesiyle örtüşür: iddia…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## olay-waitangi-antlasmasi-1840
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:29.502Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.543Z_
 
 - [OK]      k4 → "Şubat 1840'ta, bir yerleşimin kıyısında, Britanya Kraliyeti adına hareket eden temsilciler ile bölgedeki toplu…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Belgenin iki metni vardır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

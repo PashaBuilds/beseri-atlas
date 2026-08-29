@@ -1,5 +1,5 @@
 ## aktor-delhi-sultanligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:30.814Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.820Z_
 
 - [OK]      k1 → "Sultanlık 25 Haziran 1206'da bağımsızlıkla başlar ve 1526'da Panipat Savaşı ile biter; devlet biçimi sultanlık…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kaynak sultanlığın tarihini hanedanlara böler: Memlük hanedanı 1206-1290, Halaci hanedanı 1290-1320, Tuğluk ha…" — 6 atom doğrulandı; 4 ad ölçülemedi

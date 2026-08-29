@@ -31,6 +31,7 @@ ilgili:
   - tartisma-buyuk-adam-kurami
   - tartisma-tarihsel-sayilar-nasil-okunur
   - tartisma-teknolojik-belirlenimcilik
+  - olay-11-eylul
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

@@ -1,5 +1,5 @@
 ## kaynak-sima-qian-shiji
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:43.699Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:01.475Z_
 
 - [OK]      k1 → "Kaynak eseri Shiji adıyla anar ve bazen Records of the Grand Historian diye çevrildiğini yazar; eserin MÖ 91'd…"
 - [OK]      k1 → "Kaynak, tamamlanmış eserin sonsözünde altı felsefi okul üzerine kısa bir denemenin açıkça yazarın babası Sima …"

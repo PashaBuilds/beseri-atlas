@@ -1,5 +1,5 @@
 ## aktor-gucerat-sultanligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:31.253Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.239Z_
 
 - [OK]      k1 → "Gucerât Sultanlığı, Hint Okyanusu'nun kuzeybatı köşesinde, körfezin iki yakasına yayılan bir bölgede kurulmuşt…"
 - [ATOMSUZ] k3 → "Gucerât Sultanlığı, Hint Okyanusu'nun kuzeybatı köşesinde, körfezin iki yakasına yayılan bir bölgede kurulmuşt…" — programatik olarak ölçülemedi (ad karşılığı yok): Sultanlığı, Hint, Okyanusu

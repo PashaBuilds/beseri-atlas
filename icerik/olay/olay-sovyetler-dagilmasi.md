@@ -18,6 +18,7 @@ ilgili:
   - olay-ekim-devrimi
   - olay-berlin-duvarinin-yikilisi
   - veri-askeri-harcama
+  - olay-11-eylul
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

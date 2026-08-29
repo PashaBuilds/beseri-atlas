@@ -1,5 +1,5 @@
 ## kaynak-machiavelli-prens
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:43.338Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:01.139Z_
 
 - [ATOMSUZ] k1 → "Kaynak eseri Prens başlığıyla işler ve her bölümünün yüzyıllar boyunca kapsamlı yorum çektiğini yazar; yazarın…" — programatik olarak ölçülemedi (ad karşılığı yok): Prens
 - [OK]      k1 → "Kaynak, yazarın eserini Urbino Dükü Lorenzo de' Medici'ye hitaben bir giriş mektubuyla öncelediğini yazar; mek…" — 3 atom doğrulandı; 1 ad ölçülemedi

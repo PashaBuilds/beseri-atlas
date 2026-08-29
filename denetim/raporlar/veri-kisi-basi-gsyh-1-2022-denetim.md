@@ -1,5 +1,5 @@
 ## veri-kisi-basi-gsyh-1-2022
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:41.907Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:59.781Z_
 
 - [OK]      k1 → "Seri 1820'de 1.127,73 ile başlar ve 2022'de 16.676,75 ile biter; iki yüz iki yıl için toplam 21 gözlem vardır."
 - [ATOMSUZ] k1 → "Gözlem sayısının yıl sayısına oranı yaklaşık on yılda bir noktaya karşılık gelir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

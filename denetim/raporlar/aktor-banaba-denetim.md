@@ -1,5 +1,5 @@
 ## aktor-banaba
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:30.292Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:48.325Z_
 
 - [ATOMSUZ] k1 → "Banaba, Pasifik'in orta kesiminde küçük ve yüksek bir mercan adasıdır." — programatik olarak ölçülemedi (ad karşılığı yok): Pasifik
 - [ATOMSUZ] k2 → "Bu yükseklik, adanın kaderini belirledi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## tartisma-tarim-devrimi-ilerleme-mi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T11:11:32.884Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.665Z_
 
 - [OK]      k1 → "Gordon Childe 1936'da süreci bir devrim diye adlandırırken ölçütünü de açıkça bildirmişti: ona göre tarihsel d…"
 - [OK]      k2 → "Altmış yıla yakın bir süre sonra aynı geçiş bedenden okunan bir gerileme dizisi olarak anlatılmaya başlandı: C…"

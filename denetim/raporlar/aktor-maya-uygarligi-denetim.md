@@ -1,5 +1,5 @@
 ## aktor-maya-uygarligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:32.633Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.542Z_
 
 - [OK]      k1 → "Kaynak bu uygarlığı tek bir devlet olarak değil, Mezoamerika'da var olmuş Maya şehir devletleri olarak tanımla…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Şehir devletleri çoğulunun kullanılması, Maya'yı Sümer örneğine yaklaştırır: ortak bir kültür, ortak bir yazı,…" — 1 atom doğrulandı; 1 ad ölçülemedi

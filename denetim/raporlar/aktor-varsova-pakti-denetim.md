@@ -1,5 +1,5 @@
 ## aktor-varsova-pakti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:34.119Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.005Z_
 
 - [OK]      k1 → "Bu pakt, atlasta karşıtıyla birlikte tanımlanır: kıta iki askerî bloka bölünmüştü ve NATO ile Varşova Paktı de…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kaynak, dönemin kapanışını Gorbaçov'un reformları, ilişkilerde yumuşama, Doğu Avrupa'nın ayrılması ve Sovyet d…" — 2 atom doğrulandı; 2 ad ölçülemedi

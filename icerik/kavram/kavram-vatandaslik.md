@@ -24,6 +24,7 @@ ilgili:
   - kaynak-insan-haklari-beyannamesi
   - olay-cezayir-savasi
   - kavram-esitsiz-antlasmalar
+  - olay-italyan-birligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

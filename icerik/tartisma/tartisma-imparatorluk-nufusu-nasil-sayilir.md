@@ -289,7 +289,7 @@ katsayılar birlikte kaydığında ise hata katlanır.
 
 Colin McEvedy ile Richard Jones'un 1978 tarihli dünya nüfus tarihi atlası,
 bölge bölge nüfus eğrilerini kesintisiz biçimde veren ve uzun süre başvurulan
-bir ciltlik derlemedir.[^k5] İki kuşağın araçları aynı işi yapar —
+bir ciltlik bir derlemedir.[^k5] İki kuşağın araçları aynı işi yapar —
 dağınık tahminleri kesintisiz bir eğriye bağlamak — ama tercihlerini farklı
 yerlere gömer: kitap bunları bölüm metinlerinde, veri tabanı sürüm notlarında
 taşır. Bugünün uzun serileri ise veri tabanlarında

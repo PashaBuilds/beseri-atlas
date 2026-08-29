@@ -1,5 +1,5 @@
 ## aktor-ming-hanedani
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:32.714Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.621Z_
 
 - [OK]      k1 → "Ming hanedanı, resmî adıyla Büyük Ming, Moğol önderliğindeki Yuan hanedanının çöküşünün ardından 1368'den 1644…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Başkent düzeni tekil değildir: Nanjing 1368-1644, Pekin ise 1403-1644 arası başkent olarak kaydedilir."

@@ -1,5 +1,5 @@
 ## olay-sovyetler-dagilmasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:29.019Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.067Z_
 
 - [OK]      k1 → "Soğuk Savaş'ın kapanışı 1985–1991 arasına yerleştirilir ve dört başlığı içerir: Gorbaçov'un reformları, ilişki…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kaynağın kendi bölümlemesinde reformlar dağılmadan önce gelir; bu sıralama, çözülmenin kime atfedileceği sorus…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

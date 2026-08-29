@@ -23,6 +23,7 @@ ilgili:
   - olay-hindistan-bolunmesi
   - dusunur-ambedkar
   - kavram-kaynak-elestirisi
+  - olay-yesil-devrim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

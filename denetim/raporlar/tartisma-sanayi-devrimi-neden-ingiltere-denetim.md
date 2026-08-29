@@ -1,5 +1,5 @@
 ## tartisma-sanayi-devrimi-neden-ingiltere
-_Geçiş 2 — kaynak denetimi · 2026-08-29T11:04:59.085Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.180Z_
 
 - [OK]      k6 → "Kenneth Pomeranz'ın 2000 tarihli kitabını değerlendiren Deepak Lal aynı soruyu, bilim insanlarını yüz yılı aşk…"
 - [OK]      k1 → "Robert Allen'ın kitabındaki merkezî bölüm tam olarak bu başlığı taşır ve Britanya'yı önce Çin'le, sonra Fransa…" — 3 atom doğrulandı; 1 ad ölçülemedi

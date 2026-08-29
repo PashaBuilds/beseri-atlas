@@ -14,6 +14,7 @@ ilgili:
   - dusunur-herodotos
   - olay-pers-yunan-savaslari
   - kavram-kaynak-elestirisi
+  - tartisma-tarihsel-sayilar-nasil-okunur
 okuma_onerisi: []
 yazar: "Herodotos"
 eser_adi: "Historíai (Tarihler)"

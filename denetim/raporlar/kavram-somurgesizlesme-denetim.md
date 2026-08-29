@@ -1,5 +1,5 @@
 ## kavram-somurgesizlesme
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:38.015Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.662Z_
 
 - [OK]      k1 → "Kaynak ilk bölümünü kapsam başlığına ayırır; ardından bölgelere göre başlığı altında Amerikan Devrimi, Haiti D…" — 3 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bir kavramın maddesinin kapsam başlığıyla açılması, atlasın şu kuralının dayanağıdır: bu dosyada sömürgesizleş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

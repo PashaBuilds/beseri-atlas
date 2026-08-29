@@ -1,15 +1,55 @@
 ## olay-kirim-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:27.773Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:44:04.915Z_
 
-- [OK]      k1 → "Savaşın sonu, bir askerî çöküşten çok bir yalıtılma hesabıyla gelir: diplomatik olarak yalıtılmış ve savaş sür…"
-- [OK]      k1 → "Aynı kayda göre karşı taraf da istekli değildi: Fransa ve Britanya, çatışmanın iç kamuoyundaki popülersizliği …"
-- [ATOMSUZ] k1 → "Her iki tarafın da savaşı sürdürmek istememesi, savaşın sonunu bir zafer değil bir uzlaşı yapar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "30 Mart 1856'da imzalanan Paris Antlaşması savaşı sona erdirdi ve Rusya'nın savaş gemisi bulundurmasını yasakl…" — 4 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir barış antlaşmasının yenilen tarafa donanma yasağı getirmesi, barışın askerî kapasiteyi kalıcı olarak sınır…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Savaş, Viyana Kongresi düzenlemesinin doğurduğu ve siyasi sınırların korunmasını, güç dengesini ve nüfuz alanl…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k2 → "Aynı kaynak, Viyana Kongresi'nin Kırım Savaşı'nı çözen 1856 barış konferansına ilham kaynağı olduğunu kaydeder…" — 3 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k2 → "Bir düzenin, kendi ürettiği savaşı yine kendi usulüyle kapatması, o düzenin dayanıklılığının ölçüsüdür; düzen …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yaklaşık 1,82 milyardır."
-- [ATOMSUZ] k1 → "Savaşın nedenleri, cephelerin seyri, sağlık hizmetlerindeki değişim ve antlaşmanın diğer maddeleri burada ayrı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kırım Savaşı, Rusya'yı bir yanda Osmanlı Devleti, Fransa, Britanya ve Sardinya ile karşı karşıya getiren, ana …" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Görünürdeki çıkış noktası, Filistin'deki Hristiyan kutsal yerlerinin hangi kilisenin yönetiminde olacağı tartı…"
+- [ATOMSUZ] k3 → "Birincisi, ölülerin ezici çoğunluğunu muharebe değil hastalık verdi; oran taraf raporlarının kendisinde yazılı…" — programatik olarak ölçülemedi (ad karşılığı yok): Sivastopol
+- [ATOMSUZ] k4 → "Birincisi, ölülerin ezici çoğunluğunu muharebe değil hastalık verdi; oran taraf raporlarının kendisinde yazılı…" — programatik olarak ölçülemedi (ad karşılığı yok): Sivastopol
+- [ATOMSUZ] k2 → "İkincisi, bir barış antlaşması ilk kez büyük bir gücün deniz kuvvetini kalıcı olarak kısıtladı ve o kısıtı boz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Üçüncüsü, cephenin telgrafla ve canlı muhabirlikle aktarıldığı ilk savaştır; aynı cephe fotoğrafla da belgelen…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Rusya, 1815 Viyana düzeninin kurduğu güç dengesini koruyan Avrupa polisliği rolünü Kutsal İttifak üyesi olarak…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Britanya bunu kabul etmedi: Rusya'nın Osmanlı işlerine hâkim olması, doğu Akdeniz'deki üstünlüğünü tehdit eder…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "13 Temmuz 1841'de imzalanan Londra Boğazlar Sözleşmesi, Rusya'nın savaş hâlinde savaş gemilerinin Karadeniz'e …" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Napoléon III, Fransa'nın büyüklüğünü yeniden kurma hedefiyle Filistin'deki Hristiyan nüfus üzerinde egemen bir…"
+- [OK]      k1 → "Rusya bu değişikliği 1774 tarihli Küçük Kaynarca Antlaşması'na dayanarak reddetti; Çar Birinci Nikolay ordusun…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Şubat 1853'te İstanbul'a gönderilen Prens Menşikov, Osmanlı topraklarındaki 12 milyon Ortodoks üzerinde Rus hi…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Rus tarihçi Vinogradov bu talebin daha önceki antlaşmaların sınırını aşmadığını, çarın yeni bir himaye hakkı d…"
+- [OK]      k1 → "30 Kasım 1853'te altı Rus saf gemisi ile beş küçük savaş gemisi, limanda demirlemiş on bir Osmanlı gemisini kı…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Britanya ve Fransa savaşı 27 ve 28 Mart 1854'te ilan etti."
+- [ATOMSUZ] k1 → "Taylor ise savaşı hiçbir tarafın geri adım atamadığı bir prestij kilidiyle açıklar ve nedeni "karşılıklı saldı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "The Times muhabiri William Howard Russell, 1854 yazında Gelibolu ve Varna kamplarında koleranın yüzlerle ölçül…"
+- [OK]      k5 → "Düşmanla hiçbir ciddi temas kurmayan bu harekât Fransızlara yedi binden fazla adama mal oldu; Russell'ın kaydı…" — 1 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Florence Nightingale'in kendi raporuna göre Ekim 1854 ile Nisan 1855 arasındaki yedi ayda ordunun sürekli hast…" — 5 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k3 → "Sekiz aylık ortalamada ölüm, bütün kuvvetin yıllık yüzde 60'ına denk düşüyordu."
+- [OK]      k4 → "Chenu'nün 1923 tarihli bir derlemede aktarılan tablosuna göre Fransız ordusu 20.240 ölüyü muharebede, 75.375 ö…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k4 → "Sardinya birlikleri için oran daha da keskindir: 28 muharebe ölüsüne karşılık 2.160 hastalık ölüsü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Aynı derleme, Chenu'nün Rus ölülerini 630.000, Osmanlı ölülerini 35.000 olarak tahmin ettiğini aktarır; Myrdac…"
+- [ATOMSUZ] k4 → "Bu yüksek ölümlülüğün başlıca sebebi kolera ve tifüs, özellikle de lekeli tifüstür." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Chenu'nün sayımına göre 1854-1855 kışında Britanya ordusunda 47.749 hasta ve yaralıya karşılık 10.889 ölüm gör…" — 6 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Derleme bu farkı hekimlerin bilgisine bağlamayı açıkça reddeder: Britanyalı hekimlerin Fransız meslektaşlarınd…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Aynı sayfada aktarılan Rus cerrah Pirogov'un hükmü de aynı yöne bakar: hasta ve yaralının bakımında belirleyic…"
+- [OK]      k1 → "Savaşın ardından yarımadadan yaklaşık 200 bin Kırım Tatarı yerinden oldu; bu sayı hiçbir ordunun kayıp cetveli…"
+- [OK]      k1 → "Osmanlı ölüleri için verilen aralık 45.400 ile 400.000 arasında değişir; Rus ölüleri için 450.000 ile 630.000 …"
+- [OK]      k3 → "Boğaz'daki hastanelerde hastalar bir dönem yıllık yüzde 235'lik bir hızla ölüyordu ve tedavi edilenlerin nered…"
+- [OK]      k3 → "Sanitary Commission'ın Scutari'de kanalizasyon ve havalandırma işlerine başladığı tarihte tedavi edilenlerdeki…"
+- [ATOMSUZ] k3 → "Aynı rapor kayıtlarında iskorbütün önceden beklendiği, limon suyunun ise geç ulaştığı da yazılıdır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Hemşire ekibinin Boğaz'a ulaşmasından sonraki aylarda tablo düzelmedi: aynı rapor, Britanya hastanelerinin bir…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Savaştan sonra kendi istatistiklerini, Londra'da 1858'de basılan ve ordunun sıhhi durumunu inceleyen kraliyet …"
+- [OK]      k8 → "Mirasın nasıl okunacağı tıp yazınında ayrı bir başlıktır: Gill ve Gill'in 2005'te Clinical Infectious Diseases…"
+- [OK]      k1 → "Rus cerrah Nikolay Pirogov'un cephede kurduğu sahra cerrahisi düzenine başka ordular ancak Birinci Dünya Savaş…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k6 → "Mary Seacole kendi anlatısında Savaş Bakanlığı'na, ardından ordunun ikmal dairesine ve sağlık dairesine başvur…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k6 → "Reddin gerekçesini kendisi de tam bilmez; anlatısında bunun ten rengiyle ilgili olup olmadığını açıkça sorar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Bunun üzerine yolculuğunu kendi parasıyla yaptı: sınırlı sermayesinin büyük bölümünü ilaçlara yatırdı, kalanıy…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Fransızlar 1854 sonunda telgraf hattını Karadeniz kıyısına uzattığında haberler Londra'ya iki günde, Britanya …" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Günlük haberlerin kamuoyunda yarattığı basınç, Aberdeen hükûmetini düşürüp Palmerston'ı başbakanlığa taşıdı."
+- [OK]      k7 → "Roger Fenton'ın 1855'te Kırım'da çektiği ve cam negatiften tuzlu kâğıda basılan karelerden biri, müze kaydına …" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k2 → "Paris Antlaşması'nın on birinci maddesi Karadeniz'i tarafsız ilan eder ve sularını her ulusun ticaret filosuna…" — programatik olarak ölçülemedi (ad karşılığı yok): Antlaşması, Karadeniz
+- [OK]      k2 → "Rusya 1870'te tarafsızlaştırmayı reddettiğini bildirdi; 1871 Londra Antlaşması'nın birinci maddesi Paris metni…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Yenilgiyi izleyen yıllarda İkinci Aleksandr'ın serfliği 1861'de kaldırması, hür birliklerin serflerden kurulu …" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Aynı yenilgi, ordunun teknolojik geriliğinden yol ağının yetersizliğine kadar bir dizi eksiği görünür kıldı ve…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Savaştan sonra ilan edilen 1856 tarihli Osmanlı ıslahat fermanı, gayrimüslimlerin ikinci sınıf konumunun büyük…"
+- [OK]      k1 → "Savaş sürerken geniş bir kamuoyu desteği vardı; Rusya 1870'te Karadeniz kısıtını geri aldırdıktan sonra ise sa…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Osmanlı Devleti aynı antlaşmayla Avrupa uyumuna kabul edildi ve büyük güçler bağımsızlığına ve toprak bütünlüğ…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Bir savaşın kaç kişiye mal olduğunu söylemek, hangi ordunun kaydı düzgün tuttuğuna bağlıdır; burada aynı savaş…"
 
-**Özet:** 6 OK · 0 ISARET · 0 HATA · 4 ATOMSUZ
+**Özet:** 39 OK · 0 ISARET · 0 HATA · 11 ATOMSUZ

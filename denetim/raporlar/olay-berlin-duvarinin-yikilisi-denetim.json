@@ -1,61 +1,391 @@
 {
   "id": "olay-berlin-duvarinin-yikilisi",
   "gecis": 2,
-  "zaman": "2026-08-29T09:10:26.089Z",
-  "govde_hash": "faa599bc92a3",
-  "commit": "7549ec6",
+  "zaman": "2026-08-29T14:45:02.911Z",
+  "govde_hash": "dccf10b70da4",
+  "commit": "495dbec",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Kaynak olayı tek bir yıla ve dört ayrı yere birden bağlar: 1989'da duvarın yıkılışı, Doğu Berlin ile Doğu Almanya ve Batı Berlin ile Batı Almanya'da gerçekleşmi",
+      "iddia": "İktidardaki Sosyalist Birlik Partisi'nin merkez komitesi bir gün önce üç günlük oturumuna başlamış, oturumun açılışında politbüro topluca istifa etmişti; enform",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir sınırın yıkılışının dört ayrı idari birim altında kaydedilmesi, bölünmenin yalnızca bir çizgi değil bir kurumlar dizisi olduğunu gösterir: iki şehir ve iki ",
+      "iddia": "Yeni seyahat düzenlemesinin ertesi gün yürürlüğe girmesi planlanıyordu; aradaki saatler bütün sınır karakollarının bilgilendirilmesine ayrılmıştı.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kaynak olayın nedenini tekil bir karar olarak değil bir dalga olarak verir: 1989 Devrimleri.",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir olayın nedeninin, aynı yılın diğer olaylarının toplamı olarak kaydedilmesi, atlas için kayda değerdir: burada neden, olayın kendisiyle aynı ölçekte bir olgu",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Aynı yılların kapanışı, Gorbaçov'un reformları, ilişkilerde yumuşama, Doğu Avrupa'nın ayrılması ve Sovyet dağılması başlıklarıyla verilir; rekabetin kendisi 194",
-      "durum": "OK",
-      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Duvarın yıkılışının bu dört başlıktan üçüncüsüne denk gelmesi, onu sürecin sonu değil ortası yapar; süreç dosyasında ele alınıyor.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Duvarın yıkılışının bu dört başlıktan üçüncüsüne denk gelmesi, onu sürecin sonu değil ortası yapar; süreç dosyasında ele alınıyor.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1991'de yaklaşık 5,42 milyardır.",
+      "iddia": "Bir gazetecinin ne zaman geçerli olacağını sorması üzerine Schabowski, bildiği kadarıyla düzenlemenin \"sofort, unverzüglich\" — derhal, gecikmeksizin — yürürlükt",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Duvarın inşası, sınır rejiminin işleyişi, olay gecesinin saat saat seyri ve sonrasındaki birleşme burada ayrı başlıklar altında ele alınmamıştır.",
+      "iddia": "Bu tek cümle, 1961'den beri Doğu ile Batı Berlin'i ayıran sınırı birkaç saat içinde işlevsiz bıraktı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Basın toplantısı akşam saat 18.00'de başladı ve Doğu Alman televizyonundan canlı yayımlandı; Schabowski'nin yanında dış ticaret bakanı Gerhard Beil ile iki merk",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Schabowski yeni düzenlemenin tartışmalarına katılmamıştı, tam olarak bilgilendirilmemişti ve eline tutuşturulan notu nasıl kullanacağına dair bir talimat da alm",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Saat 18.53'te, toplantı biterken, İtalyan haber ajansı ANSA'dan Riccardo Ehrman kasım başında kamuoyuna sızan seyahat yasası taslağının bir hata olup olmadığını",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Saat 18.53'te, toplantı biterken, İtalyan haber ajansı ANSA'dan Riccardo Ehrman kasım başında kamuoyuna sızan seyahat yasası taslağının bir hata olup olmadığını",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İtalyan, ANSA, Riccardo, Ehrman"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Schabowski önce dağınık bir cevap verdi, sonra notu hatırlayıp okumaya başladı; ardından gelen yürürlük sorusuna birkaç saniyelik duraksamanın sonunda o cümleyi",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bir başka gazeteci düzenlemenin Batı Berlin geçitlerini de kapsayıp kapsamadığını sorunca notun üçüncü maddesini okudu ve kapsadığını doğruladı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bu iki kanal 1950'lerin sonundan beri Doğu Almanya'nın neredeyse tamamına ulaştığı ve orada da izlendiği için haberi çoğu insan Doğu Alman kanallarından değil o",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Önce bir vana çözümü denendi: tek tek kişilerin geçmesine izin verildi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Sınır muhafızları üstlerini telefona boğdu; ilk talimat, en ısrarcı olanların pasaportlarına geri dönüşü engelleyen bir damga vurmak, yani onları fiilen vatanda",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bu, Schabowski'nin sözüne dayanarak geçmek isteyen binlerce kişiyi yerinden oynatmadı; ölümcül güç kullanma emrini kimse şahsen üstlenmeyince, sayıca çok az kal",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bornholmer Caddesi geçidindeki nöbetçi amirler sonunda baskıya boyun eğip sınırı tümüyle açtılar.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Caddesi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Gece yarısından kısa süre sonra Berlin'deki bütün geçitler açıktı ve sınır polisine hiçbir müdahale emri gelmedi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "O saatlerde Invalidenstrasse geçidinde insanlar hâlâ vize ve zorunlu döviz bozdurma kuralına tabiydi ve sıraya girip adlarının okunmasını bekliyorlardı; Batı'da",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Checkpoint Charlie'de saat iki sularında ilk denetim yirmi saniyede on kişiyi geçiriyor, ikinci muhafız kimlik istiyor, üçüncüsü vize arıyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Perşembe gecesinden pazar akşamına kadar iki milyondan fazla Doğu Alman şehrin batı yakasına geçti ve akışı taşıyabilmek için duvarda on yeni geçit açıldı.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Doğu, Alman"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Çekiç ve keskiyle parça koparanlar ilk akşamdan başladı; bu iş haftalarca sürdü ve yer yer resmî olmayan geçitler açtı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Brandenburg Kapısı'nın yanındaki bölüm 21 Aralık 1989'da bir vinçle kaldırıldı; kapı yirmi sekiz yıl boyunca Doğu ile Batı Berlin arasındaki sınırı işaretlemişt",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Brandenburg Kapısı'nın yanındaki bölüm 21 Aralık 1989'da bir vinçle kaldırıldı; kapı yirmi sekiz yıl boyunca Doğu ile Batı Berlin arasındaki sınırı işaretlemişt",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Doğu Alman sınır birlikleri duvarı resmen sökmeye 13 Haziran 1990'da Bernauer Caddesi'nden başladı; Berlin ve Brandenburg çevresindeki sınır duvarının sökümü Ka",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Yalnızca Berlin'de 184 kilometre duvar ve 154 kilometre sınır çiti kaldırıldı, anıt olarak altı bölüm bırakıldı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Macaristan Mayıs 1989'da Avusturya sınırındaki güvenlik tesislerini söktürmüştü; giderek daha çok Doğu Alman bu açık sınırdan Batı'ya kaçtı ve Prag, Budapeşte, ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 4 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "19 Ağustos 1989'da Sopron yakınında düzenlenen Pan-Avrupa Pikniği sırasında sınır bariyerlerinden biri simgesel olarak açıldı; Macaristan'a gitmiş yaklaşık 600 ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Eylülden itibaren haftalık Pazartesi gösterileri başladı ve ekim ortasında yalnızca Leipzig'de yetmiş bin kişi bu gösterilere katıldı.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Leipzig o gün silahlı bir kamp görünümündeydi: üç bin polis, bunların bin iki yüzü Halle ve Neubrandenburg bölgelerinden getirilmişti; beş bölük fabrika savaş g",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Honecker'in eylül sonunda imzaladığı gizli emir yürürlükteydi ve beklenen kargaşanın baştan önlenmesini buyuruyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Yine de tek kurşun atılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler akşam saatlerinde geri çekildi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Yine de tek kurşun atılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler akşam saatlerinde geri çekildi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "O akşam atılan \"we are the people\" sloganı, partinin ve hükümetin sonraki her tereddütlü tavizini hızlandıran güce dönüştü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Kurt Masur'un da aralarında olduğu altı tanınmış Leipzigli sakin kalma çağrısı yaptı; çağrının o günün barışçı seyrine katkısı tartışmasızdır, ama ona erkenden ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "4 Ekim'de Prag ve Budapeşte'den kalkıp Doğu Alman toprağından geçirilen göç trenleri Dresden garında iç savaşı andıran çatışmalara yol açtı; 7 ve 8 Ekim'de part",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "4 Kasım'da Doğu Berlin'de Alexanderplatz'ta toplanan kalabalık, Doğu Almanya tarihinin en büyük gösterisi oldu.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu zemine üç etken daha eklenir: Gorbaçov'un 1985'ten sonra başlattığı reform ve açılma sürecinin ortak devletlere yayılması, Doğu Alman ekonomisinin perişan du",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu zemine üç etken daha eklenir: Gorbaçov'un 1985'ten sonra başlattığı reform ve açılma sürecinin ortak devletlere yayılması, Doğu Alman ekonomisinin perişan du",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Olay bittikten sonra kimin hanesine yazılacağı otuz yıldır tartışılıyor ve tartışma sertliğini koruyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Münsterli din sosyoloğu Detlef Pollack, iktidarın yurttaş hareketi tarafından devrimci biçimde aşıldığı anlatısının bir efsane olduğunu, 1989'un asıl olarak \"Au",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Doğu Almanya araştırmacısı Ilko-Sascha Kowalczuk ise altüst oluşun azınlığın eseri olduğunu, sıradan yurttaşların beklediğini söyleyerek karşı çıktı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu okumaya göre 9 Kasım akşamı duvarı umulmadık biçimde çökerten şey ne göçmenler, ne Pazartesi göstericileri, ne de muhaliflerdir; çifte bir yanlış anlamadır: ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kasım, Pazartesi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İkinci unsur belirleyicidir, çünkü gözlemciler burada eyleyene dönüşmüş, gerçekliği aktarmak yerine üretmiş ve o ana kadar yalnızca Bornholmer Caddesi'nde oluşm",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Bu okumanın kitap boyu en bilinen savunusu Mary Elise Sarotte'nin 2014'te çıkan çalışmasıdır; kitap duvarın açılışını daha adında kazara diye niteler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "4 Kasım'da Alexanderplatz'ta kürsüye çıkanların talebi bugün varsayıldığı gibi birleşme değildi; o gün konuşanlar yenilenmiş bir sosyalizmden söz etti ve 26 Kas",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Duvarın açılışı, o günün ufkunda bir dönüm noktası değil, gecikmiş bir normalleşme adımı gibi görünüyordu; ne onu duyuran, ne aynı gece onu sözünde tutan kalaba",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaza okuması bile sonbaharda devrimci bir durumun oluştuğunu varsayar ve o durumu üreten şey etkenlerin birleşmesidir: ekonomik çöküş, dış yalnızlık, yönetimin ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaçışın rolü de tartışmalıdır; bir okumaya göre protestoyu besledi, bir başkasına göre hoşnutsuzları ülkeden çıkararak parti iktidarını korudu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Dış baskı ekseni de tek yönlü değildir: Fransa cumhurbaşkanı François Mitterrand ile Britanya başbakanı Margaret Thatcher birleşmeye karşı çıktı; Thatcher Eylül",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Adlandırma da tarafsız değildir: Egon Krenz Honecker'in düşürüldüğü akşam televizyonda bir dönüşün başlatılacağını duyurmuş, Christa Wolf ise 4 Kasım'da Alexand",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Basın toplantısındaki cümlenin saati kayıtlarda 18.53 ile 18.57 arasında değişir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Basın toplantısındaki cümlenin saati kayıtlarda 18.53 ile 18.57 arasında değişir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bornholmer Caddesi'ndeki bariyerin açılış saati için üç değer dolaşımdadır: 22.45, 23.20 ve 23.30.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Caddesi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bornholmer Caddesi'ndeki bariyerin açılış saati için üç değer dolaşımdadır: 22.45, 23.20 ve 23.30.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Caddesi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bornholmer Caddesi'ndeki bariyerin açılış saati için üç değer dolaşımdadır: 22.45, 23.20 ve 23.30.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Caddesi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Geceyi tek bir geçide bağlamak da güvenli değildir; Waltersdorf-Rudow kapısının birkaç saat önce, bağımsız bir kararla açıldığına dair bir tanıklık vardır ve bu",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bariyeri kaldıran subayların adları — Bornholmer'de Harald Jäger ve Edwin Görlitz — bilinir; ama hiçbiri anma dilinde kahraman mertebesine çıkarılmamıştır.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bariyeri kaldıran subayların adları — Bornholmer'de Harald Jäger ve Edwin Görlitz — bilinir; ama hiçbiri anma dilinde kahraman mertebesine çıkarılmamıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Uzun dönemli seride dünya nüfusu 1989'da yaklaşık 5,23 milyardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Almanya'nın birleşmesi 9 Kasım'dan 339 gün sonra, 3 Ekim 1990'da tamamlandı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Dört gücün Berlin ve bütün Almanya'ya ilişkin hak ve sorumlulukları ise 12 Eylül 1990'da imzalanan nihai çözüm antlaşmasıyla sona erdirildi; aynı metin birleşik",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bugün 9 Kasım anması beş yılda bir görkemle yapılıyor ve her seferinde büyüyor.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kasım"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Buna karşılık anma dilinin kahramanı yok; Nikolaikirche'nin papazı Christian Führer de, Leipzig'in ve Bornholmer'in adı bilinen kişileri de teşekkür gördü ama k",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sloganın kendisi ise el değiştirebiliyor: sağ popülist hareketler 1989'un mirasçısı olduklarını ilan edip aynı sözü seçim afişlerine taşıdı, eski hak savunucula",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Uzun bir yapısal çözülme, kendi anını bir kaza aracılığıyla bulabilir; ve o an bir kere yaşandıktan sonra, kimin eseri olduğu üzerinden yeniden ve yeniden kurul",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

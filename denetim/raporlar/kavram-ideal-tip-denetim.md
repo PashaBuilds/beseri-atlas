@@ -1,5 +1,5 @@
 ## kavram-ideal-tip
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:36.873Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:54.590Z_
 
 - [ATOMSUZ] k3 → "İdeal tip, 'in toplumsal gerçekliği çözümlemek için önerdiği kavramsal ölçü aracıdır: gerçekliğin belli yönler…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k3 → "Kurgu, kavramsal saflığı içinde gerçeklikte hiçbir yerde ampirik olarak bulunamaz; Weber'in kendi ifadesiyle o…"

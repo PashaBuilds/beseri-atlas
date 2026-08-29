@@ -1,5 +1,5 @@
 ## aktor-mali-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:32.426Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.347Z_
 
 - [OK]      k1 → "Mali İmparatorluğu yaklaşık 1235 ile 1610 arasına tarihlenir." — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kaynak yönetim biçimini tek bir kelimeyle vermez: kalıtsal, parlamenter ve seçimli monarşi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

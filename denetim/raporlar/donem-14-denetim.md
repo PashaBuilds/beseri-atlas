@@ -1,5 +1,5 @@
 ## donem-14
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:24.672Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:42.573Z_
 
 - [OK]      k1 → "Soğuk Savaş, 1947 ile 1991 arasında ABD ile SSCB arasındaki jeopolitik rekabeti anlatır ve kırk dört yıl dokuz…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Kıta iki askerî bloka bölündü; NATO ve Varşova Paktı devletlerinin 1988'deki dağılımı dönemin standart haritas…" — 2 atom doğrulandı; 2 ad ölçülemedi

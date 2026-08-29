@@ -1,5 +1,5 @@
 ## kavram-topyekun-savas
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:38.356Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.978Z_
 
 - [ATOMSUZ] k1 → "yüzyıl, Birinci Dünya Savaşı ve İkinci Dünya Savaşı alt başlıklarına ayrılır." — programatik olarak ölçülemedi (ad karşılığı yok): Birinci, Dünya, Savaşı, İkinci
 - [OK]      k1 → "Kaynak, İkinci Dünya Savaşı alt başlığının altında Japonya İmparatorluğu, Birleşik Krallık, Nazi Almanyası, Ka…" — 1 atom doğrulandı; 3 ad ölçülemedi

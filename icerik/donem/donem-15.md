@@ -23,7 +23,6 @@ ilgili:
   - aktor-dunya-ticaret-orgutu
   - olay-2008-finansal-krizi
   - olay-iran-devrimi-1979
-  - olay-berlin-duvarinin-yikilisi
   - olay-11-eylul
   - olay-internetin-yayginlasmasi
   - tartisma-kalkinma-yardimi-ise-yariyor-mu

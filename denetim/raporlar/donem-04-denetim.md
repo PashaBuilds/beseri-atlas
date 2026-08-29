@@ -1,5 +1,5 @@
 ## donem-04
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:23.015Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:40.972Z_
 
 - [ATOMSUZ] k1 → "yüzyıla kadar çeşitli yerlerde meydana gelen dinî ve felsefi düşüncedeki geniş değişimleri anlatır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [OK]      k1 → "Jaspers'e göre bu dönemde evrenselleştirici düşünce biçimleri Pers'te, Hindistan'da, Çin'de, Levant'ta ve Yuna…" — 3 atom doğrulandı; 1 ad ölçülemedi

@@ -1,5 +1,5 @@
 ## tartisma-kesif-mi-istila-mi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:39.947Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.818Z_
 
 - [ATOMSUZ] k11 → "Üç ad da aynı olayları anlatır ama her biri başka bir fail, başka bir mağdur ve başka bir sorumluluk önerir; s…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k9 → "Keşif sözcüğü on dokuzuncu yüzyılda tapu üreten bir hukuk ilkesine ad olmuş, fetih sözcüğü destan diliyle yerl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

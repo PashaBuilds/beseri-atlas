@@ -1,5 +1,5 @@
 ## aktor-gokturk-kaganligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:31.194Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.183Z_
 
 - [OK]      k1 → "Kağanlık 552'de kuruldu ve 603'te sona erdi; ilk kağan Bumin Kağan'dır, son kağan 599-603 arasında Tardu'dur." — 6 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k1 → "Kaynak kuruluştan önce bir olay kaydeder: Bumin Kağan 542'de Juan-juan Kağanlığı'na karşı ayaklandı; kuruluş 5…" — 3 atom doğrulandı; 3 ad ölçülemedi

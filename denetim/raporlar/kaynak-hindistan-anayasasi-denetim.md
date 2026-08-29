@@ -1,5 +1,5 @@
 ## kaynak-hindistan-anayasasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:42.963Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:00.793Z_
 
 - [OK]      k1 → "Hindistan Anayasası, 1950'de yürürlüğe giren ve bir kurucu meclis tarafından hazırlanan metindir." — 1 atom doğrulandı; 1 ad ölçülemedi
 - [ATOMSUZ] k2 → "Belge, yazılı anayasalar arasında en uzunlarındandır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

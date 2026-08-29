@@ -20,6 +20,7 @@ ilgili:
   - kaynak-montesquieu-kanunlarin-ruhu
   - veri-askeri-harcama
   - aktor-ayutthaya-kralligi
+  - olay-kirim-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

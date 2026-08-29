@@ -1,5 +1,5 @@
 ## aktor-safevi-devleti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:33.471Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:51.392Z_
 
 - [OK]      k1 → "Safevîler, İran'da 1501-1736 yılları arasında hüküm süren bir hanedandır."
 - [OK]      k1 → "Hanedan adını, merkezi Erdebil'de bulunan Safeviyye tarikatının pîri Şeyh Safiyyüddin'den almıştır."

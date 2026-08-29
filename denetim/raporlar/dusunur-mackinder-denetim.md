@@ -1,5 +1,5 @@
 ## dusunur-mackinder
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:35.285Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.106Z_
 
 - [OK]      k1 → "Kaynak, 1904'te Kraliyet Coğrafya Cemiyeti'nde bir bildiri sunduğunu ve o bildiride kuramını formüle ettiğini …" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kaynak, 1903'e gelindiğinde siyasi konumunu değiştirdiğini ve artık serbest ticareti desteklemediğini, Liberal…"

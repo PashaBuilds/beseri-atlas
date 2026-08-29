@@ -1,5 +1,5 @@
 ## dusunur-montesquieu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:35.506Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.309Z_
 
 - [ATOMSUZ] k1 → "Kaynak onu Aydınlanma'nın büyük siyaset filozoflarından biri olarak kaydeder ve çeşitli yönetim biçimlerinin, …" — programatik olarak ölçülemedi (ad karşılığı yok): Aydınlanma
 - [ATOMSUZ] k1 → "Kaynak, onun bu açıklamayı yönetimlerin yozlaşmadan nasıl korunabileceğini açıklamak için kullandığını yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

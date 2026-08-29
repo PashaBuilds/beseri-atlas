@@ -1,5 +1,5 @@
 ## tartisma-iklim-ve-cokus
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:39.505Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.364Z_
 
 - [ATOMSUZ] k1 → "İklim değişimini çöküşün başlıca tetikleyicisi sayan okuma ile bu yan yanalığı kanıt türünün elverişliliğinden…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Yazı bırakmamış ya da yazısı çözülememiş toplumlar için iklim kaydı çoğu kez en kolay tarihlenen kanıttır ve a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

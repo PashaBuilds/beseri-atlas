@@ -1,0 +1,705 @@
+{
+  "id": "olay-kirim-savasi",
+  "govde_hash": null,
+  "commit": null,
+  "zaman": "2026-08-29",
+  "hakem": "TASLAK-yazar",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Kırım Savaşı, Rusya'yı bir yanda Osmanlı Devleti, Fransa, Britanya ve Sardinya ile karşı karşıya getiren, ana muharebeleri Karadeniz'in kuzeyindeki yarımadada geçen ve 30 Mart 1856'da Paris'te imzalanan bir antlaşmayla kapanan çatışmadır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Görünürdeki çıkış noktası, Filistin'deki Hristiyan kutsal yerlerinin hangi kilisenin yönetiminde olacağı tartışmasıydı; savaşan tarafların hiçbiri sonunda o kutsal yerler için savaşmadı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kutsal yerler meselesinin bahane sayildigini kaynak soyler; taraflarin sonunda o yerler icin savasmadigi cikarimi yazarindir"
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Birincisi, ölülerin ezici çoğunluğunu muharebe değil hastalık verdi; oran taraf raporlarının kendisinde yazılıdır — Sivastopol önünde hastalıktan düşenler kılıçla düşenlerin yedi katından fazlaydı ve aynı örüntü bütün ordularda tekrarlanır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "İkincisi, bir barış antlaşması ilk kez büyük bir gücün deniz kuvvetini kalıcı olarak kısıtladı ve o kısıtı bozan da yine bir antlaşma oldu.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Antlasma metni kisiti ve 1871 kaldirilisini dogrudan verir; ilk kez nitelemesi metinden degil karsilastirmadan gelir"
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Üçüncüsü, cephenin telgrafla ve canlı muhabirlikle aktarıldığı ilk savaştır; aynı cephe fotoğrafla da belgelendi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Rusya, 1815 Viyana düzeninin kurduğu güç dengesini koruyan Avrupa polisliği rolünü Kutsal İttifak üyesi olarak üstlenmiş, 1848'de Avusturya'nın Macaristan'daki ayaklanmayı bastırmasına yardım etmiş ve karşılığında, dönemin diliyle Avrupa'nın hasta adamı sayılan devletle arasındaki meseleleri serbestçe çözmeyi ummuştu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Britanya bunu kabul etmedi: Rusya'nın Osmanlı işlerine hâkim olması, doğu Akdeniz'deki üstünlüğünü tehdit ederdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "13 Temmuz 1841'de imzalanan Londra Boğazlar Sözleşmesi, Rusya'nın savaş hâlinde savaş gemilerinin Karadeniz'e geçişini engelleme hakkını ortadan kaldırdı; böylece olası bir Rus-Osmanlı savaşında yol, Britanya ve Fransız donanmalarına da açık hâle geldi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Napoléon III, Fransa'nın büyüklüğünü yeniden kurma hedefiyle Filistin'deki Hristiyan nüfus üzerinde egemen bir yetki iddia etti ve Katolik Kilisesi'nin kutsal yerlerdeki üstünlüğünü tanıyan bir antlaşmayı Osmanlı yönetimine kabul ettirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Rusya bu değişikliği 1774 tarihli Küçük Kaynarca Antlaşması'na dayanarak reddetti; Çar Birinci Nikolay ordusunu Tuna boyuna yığdı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Şubat 1853'te İstanbul'a gönderilen Prens Menşikov, Osmanlı topraklarındaki 12 milyon Ortodoks üzerinde Rus himayesi ve kilise hiyerarşisi üzerinde denetim talep etti; kutsal yerlere erişim konusunda uzlaşma sağlandı ama en geniş talepler, Britanya elçisi Stratford de Redcliffe'in desteklediği padişah tarafından geri çevrildi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Rus tarihçi Vinogradov bu talebin daha önceki antlaşmaların sınırını aşmadığını, çarın yeni bir himaye hakkı değil 1774 metninin teyidini istediğini savunur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "30 Kasım 1853'te altı Rus saf gemisi ile beş küçük savaş gemisi, limanda demirlemiş on bir Osmanlı gemisini kıyı topçusunun koruması altındayken imha etti; Sinop, çatışmayı bir Avrupa savaşına çeviren kıvılcım oldu.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Britanya ve Fransa savaşı 27 ve 28 Mart 1854'te ilan etti.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Taylor ise savaşı hiçbir tarafın geri adım atamadığı bir prestij kilidiyle açıklar ve nedeni \"karşılıklı saldırganlık değil karşılıklı korku\" olarak koyar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "The Times muhabiri William Howard Russell, 1854 yazında Gelibolu ve Varna kamplarında koleranın yüzlerle ölçülen ölümlere yol açtığını, Fransız komutanın da bu yüzden birliklerini Dobruca'ya yürüttüğünü yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Düşmanla hiçbir ciddi temas kurmayan bu harekât Fransızlara yedi binden fazla adama mal oldu; Russell'ın kaydına göre 31 Temmuz sabahı bir tümenin kampı, yaşayanların ölüleri gömmeye yetişemediği bir hastaneye dönmüştü.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Florence Nightingale'in kendi raporuna göre Ekim 1854 ile Nisan 1855 arasındaki yedi ayda ordunun sürekli hasta oranı yüzde 38,9'a çıktı — yani Sivastopol önündeki mevcudun ancak yüzde 61'i göreve elverişliydi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Sekiz aylık ortalamada ölüm, bütün kuvvetin yıllık yüzde 60'ına denk düşüyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Chenu'nün 1923 tarihli bir derlemede aktarılan tablosuna göre Fransız ordusu 20.240 ölüyü muharebede, 75.375 ölüyü hastalıkta verdi ve toplam 95.615'e ulaştı; Britanya ordusunda muharebe kaybı 4.602, hastalık kaybı 17.580, toplam 22.182'ydi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Sardinya birlikleri için oran daha da keskindir: 28 muharebe ölüsüne karşılık 2.160 hastalık ölüsü.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Aynı derleme, Chenu'nün Rus ölülerini 630.000, Osmanlı ölülerini 35.000 olarak tahmin ettiğini aktarır; Myrdacz'ın belgelenmiş dökümü ise yalnızca Eylül 1854 ile Ekim 1855 arasını kapsar ve 35.671 muharebe ölüsüne karşılık 37.454 hastalık ölüsü verir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Bu yüksek ölümlülüğün başlıca sebebi kolera ve tifüs, özellikle de lekeli tifüstür.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Chenu'nün sayımına göre 1854-1855 kışında Britanya ordusunda 47.749 hasta ve yaralıya karşılık 10.889 ölüm görülürken, 1855-1856 kışında 27.384 hasta ve yaralıya karşılık yalnızca 606 ölüm kaydedildi; aynı iki kışta Fransız ordusunda ölüm 10.934'ten 21.190'a çıktı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Degerler kaynagin OCR ile okunmus tablosunda birebir var; satir-sutun eslestirmesi yazarin okumasidir"
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Derleme bu farkı hekimlerin bilgisine bağlamayı açıkça reddeder: Britanyalı hekimlerin Fransız meslektaşlarından daha bilgili ya da becerikli olduğunu düşündürecek bir sebep yoktur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Aynı sayfada aktarılan Rus cerrah Pirogov'un hükmü de aynı yöne bakar: hasta ve yaralının bakımında belirleyici olan tıp değil, yönetimdir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Savaşın ardından yarımadadan yaklaşık 200 bin Kırım Tatarı yerinden oldu; bu sayı hiçbir ordunun kayıp cetveline girmez.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yerinden olan Kirim Tatari sayisi kaynakta var; hicbir ordunun kayip cetveline girmedigi saptamasi yazarindir"
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Osmanlı ölüleri için verilen aralık 45.400 ile 400.000 arasında değişir; Rus ölüleri için 450.000 ile 630.000 arasında.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Boğaz'daki hastanelerde hastalar bir dönem yıllık yüzde 235'lik bir hızla ölüyordu ve tedavi edilenlerin neredeyse üçte biri hayatını kaybediyordu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Sanitary Commission'ın Scutari'de kanalizasyon ve havalandırma işlerine başladığı tarihte tedavi edilenlerdeki ölüm binde 315'ti; işler tamamlanmaya yaklaştığında aynı oran binde 22'ye indi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Aynı rapor kayıtlarında iskorbütün önceden beklendiği, limon suyunun ise geç ulaştığı da yazılıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Hemşire ekibinin Boğaz'a ulaşmasından sonraki aylarda tablo düzelmedi: aynı rapor, Britanya hastanelerinin birkaç ay boyunca hastaların neredeyse üçte birini kaybettiğini, Kulali'de ise bir ay içinde tedavi edilenlerin yarısından fazlasının öldüğünü yazar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Savaştan sonra kendi istatistiklerini, Londra'da 1858'de basılan ve ordunun sıhhi durumunu inceleyen kraliyet komisyonu raporundan yeniden üretilen, tablo ve çizelgelerle donatılmış bir çalışmada yayımladı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Mirasın nasıl okunacağı tıp yazınında ayrı bir başlıktır: Gill ve Gill'in 2005'te Clinical Infectious Diseases dergisinde yayımladığı inceleme, konuyu doğrudan \"Scutari'de Nightingale: mirasın yeniden incelenmesi\" olarak koyar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydi yalnizca ustveri tasir; makalenin ic argumani bu kunyeden okunmadi"
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Rus cerrah Nikolay Pirogov'un cephede kurduğu sahra cerrahisi düzenine başka ordular ancak Birinci Dünya Savaşı'nda ulaşabildi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Mary Seacole kendi anlatısında Savaş Bakanlığı'na, ardından ordunun ikmal dairesine ve sağlık dairesine başvurduğunu, sonunda Nightingale'in ekibine katılmayı denediğini ve hemşire kadrosunun dolduğu cevabını aldığını yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Reddin gerekçesini kendisi de tam bilmez; anlatısında bunun ten rengiyle ilgili olup olmadığını açıkça sorar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Bunun üzerine yolculuğunu kendi parasıyla yaptı: sınırlı sermayesinin büyük bölümünü ilaçlara yatırdı, kalanıyla İngiltere dışında bulunması güç olacağını düşündüğü şeyleri satın aldı ve Balaklava limanı ile Sivastopol önündeki Britanya ordusu arasındaki yol üzerinde bir dükkân ile otel işletti.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Fransızlar 1854 sonunda telgraf hattını Karadeniz kıyısına uzattığında haberler Londra'ya iki günde, Britanya 1855 Nisan'ında denizaltı kablosunu döşediğinde birkaç saatte ulaşmaya başladı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Günlük haberlerin kamuoyunda yarattığı basınç, Aberdeen hükûmetini düşürüp Palmerston'ı başbakanlığa taşıdı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Roger Fenton'ın 1855'te Kırım'da çektiği ve cam negatiften tuzlu kâğıda basılan karelerden biri, müze kaydına Balaklava'daki demiryolu depolarının çıkarma yeri adıyla girmiş bir liman sahnesidir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Paris Antlaşması'nın on birinci maddesi Karadeniz'i tarafsız ilan eder ve sularını her ulusun ticaret filosuna açık tutarken kıyıdaş olsun olmasın hiçbir gücün savaş bayrağına süresiz olarak kapatır; on üçüncü madde aynı kıyıda deniz tersanesi kurmayı ve sürdürmeyi yasaklar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Rusya 1870'te tarafsızlaştırmayı reddettiğini bildirdi; 1871 Londra Antlaşması'nın birinci maddesi Paris metninin on birinci, on üçüncü ve on dördüncü maddelerini ekli sözleşmesiyle birlikte açıkça yürürlükten kaldırdı ve Karadeniz'in ticarete açıklığı yeni metnin üçüncü maddesiyle yeniden yazıldı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Yenilgiyi izleyen yıllarda İkinci Aleksandr'ın serfliği 1861'de kaldırması, hür birliklerin serflerden kurulu bir orduyu yenmesini kurtuluşun gerekliliğine kanıt sayan bir okumaya bağlanır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Aynı yenilgi, ordunun teknolojik geriliğinden yol ağının yetersizliğine kadar bir dizi eksiği görünür kıldı ve reform gündemini biçimlendirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Savaştan sonra ilan edilen 1856 tarihli Osmanlı ıslahat fermanı, gayrimüslimlerin ikinci sınıf konumunun büyük bölümünü — en görünür biçimde yalnızca onlardan alınan vergiyi — ortadan kaldırdı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "Savaş sürerken geniş bir kamuoyu desteği vardı; Rusya 1870'te Karadeniz kısıtını geri aldırdıktan sonra ise savaşın gereksiz ve sonuçsuz olduğu görüşü yaygınlaştı ve çatışma, hükûmetlerin savaşa nasıl sürüklenebildiğinin ders kitabı örneği olarak anıldı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "Osmanlı Devleti aynı antlaşmayla Avrupa uyumuna kabul edildi ve büyük güçler bağımsızlığına ve toprak bütünlüğüne saygı sözü verdi — savaşın en somut kazanımı bu güvenceydi ve güvence, ömrü boyunca sınandı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Avrupa uyumuna kabul ve toprak butunlugu guvencesi kaynakta dogrudan; en somut kazanim degerlendirmesi yazarindir"
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Bir savaşın kaç kişiye mal olduğunu söylemek, hangi ordunun kaydı düzgün tuttuğuna bağlıdır; burada aynı savaşın ölüleri için Osmanlı tarafında 45.400 ile 400.000 arasında değişen tahminler dolaşıyorsa, bilanço bir aralık olarak bile ancak kabaca verilebilir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Osmanli tahmin araligi kaynakta dogrudan; kayit duzeni ile aralik genisligi arasindaki bag yazarin cikarimidir"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 44,
+    "kismi": 5,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

@@ -1,5 +1,5 @@
 ## dusunur-sankara
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:35.656Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.447Z_
 
 - [ATOMSUZ] k1 → "Şankara, kendi felsefi konumunu bağımsız bir kitapta değil, başkasına ait kısa bir metnin şerhinde kurdu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Bu, atlasın kaydettiği bir tür sorununu doğurur." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,0 +1,735 @@
+{
+  "id": "olay-11-eylul",
+  "govde_hash": null,
+  "commit": null,
+  "zaman": "2026-08-29",
+  "hakem": "TASLAK-yazar",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "El Kaide'ye bağlı on dokuz kişi, 11 Eylül 2001 sabahı Amerika Birleşik Devletleri'nde dört yolcu uçağını kaçırdı ve uçakları hedeflerine sürdü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "İki uçak Manhattan'daki Dünya Ticaret Merkezi'nin kulelerine, biri Pentagon'a çarptı; dördüncüsü, yolcuların ülkenin saldırı altında olduğunu öğrenip direnmesiyle Pensilvanya'da bir tarlaya düştü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Saldırganların yanında yalnızca küçük bıçaklar, maket bıçakları ve biber gazı kutuları vardı; uçakları güdümlü mermiye çeviren silah değil, uçağın kendisiydi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Saldırıdan sonraki on beş ay içinde savaş yetkisi, gözetim mevzuatı, havacılık güvenliği ve federal bürokrasinin yapısı arka arkaya yeniden düzenlendi; bu düzenlemelerin bir bölümü bugün de yürürlüktedir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Dort yasanin kabul tarihleri kunyelerdeki metinlerde dogrudan gecer; \"bir bolumu bugun de yururluktedir\" ifadesi hicbir kunyede yoktur. Bu nedenle destek kismi sayildi."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Olay ayrıca alışılmadık ölçüde iyi belgelenmiştir: hem iki partili bir komisyon hem de bir teknik soruşturma kurumu bulgularını kamuya açık raporlar hâlinde yayımladı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Saat 8.46'da, saatte yüzlerce kilometre hızla giden ve yaklaşık 10.000 galon jet yakıtı taşıyan bir yolcu uçağı kuzey kuleye girdi; 9.03'te ikinci bir uçak güney kuleye çarptı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Her gün 50.000'e varan insanın çalıştığı iki kule, doksan dakika dolmadan çöktü.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "9.37'de üçüncü uçak Pentagon'un batı cephesine girdi; 10.03'te dördüncü uçak, Kongre binası ya da Beyaz Saray'a yöneltilmişken Pensilvanya'da düştü.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Teknik soruşturmanın kaydı dakikaları daha da keskinleştirir: kuzey kule 8.46'da vuruldu ve 10.28'de, güney kule 9.02'de vuruldu ve 9.58'de çöktü.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Sonra vurulan kule önce çöktü; çarpmanın yüksekliği ve hasarın dağılımı iki bina için farklı zaman çizelgeleri üretmişti.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cokme sirasi kaynaktaki saatlerden dogrudan cikar; carpma yuksekligi ile hasar dagiliminin farkli zaman cizelgeleri uretmesi baglantisi yorumdur."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Sivil havacılık idaresi ile hava savunma komutanlığı arasındaki yordamlar, kaçırılan uçağın silah olarak kullanıldığı bir saldırı için her bakımdan uygunsuzdu; uçaklar havalandı ama nereye gideceklerini bilmiyorlardı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Ateş açma izni, dördüncü uçak düştükten yirmi sekiz dakika sonra hava savunma sektörüne ulaştı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Aynı sabah, tahliyenin çarpma katlarının altında kalan binlerce kişinin neredeyse tamamını kurtardığı da kayıtlıdır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Komisyon raporu saldırıyı Afganistan merkezli bir örgütün planına bağlar; kaçıranların dördü pilotluk eğitimi almıştı, çoğu iyi eğitimli değildi ve İngilizceyi zayıf konuşuyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Raporun aktardığına göre asıl tasarı çok daha büyüktü — iki kıyıda birden on uçakla saldırı — ve ölçeği ile karmaşıklığı yüzünden örgüt lideri tarafından küçültüldü; eğitim 1999 sonbaharında başladı, kadroya Almanya'nın Hamburg kentinde kümelenmiş bir hücreden dört kişi katıldı ve bunlardan biri operasyonun ülke içindeki taktik komutanı oldu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Komisyonun sorgu ifadelerine dayanan aktarimi; rapor bunu failin beyani olarak isaretleyerek verir."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Saldırı öncesinde örgüt içinde itiraz da vardı: Afganistan'daki yönetimin başı Amerika'ya saldırılmasına karşı çıktı, örgüt liderinin kendi yardımcılarından bir bölümü de karşı çıktı, ama itirazlar aşıldı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Operasyonun maliyeti 400.000 ile 500.000 dolar arasında hesaplanmıştır; bu paranın 270.000 dolardan fazlası ülke içinde harcandı ve işlemler bankacılık sisteminde dikkat çekmedi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Rapor, paranın kaynağını belirleyemediğini açıkça yazar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Örgütün lideri, Amerikan askerlerinin Suudi Arabistan'daki varlığına, Körfez Savaşı sonrası yaptırımların Irak halkında yarattığı acıya ve Amerika'nın İsrail'e verdiği desteğe itiraz ediyordu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Failin beyan ettigi gerekce aktarilir; dogrulugu degil, kayitli olusu iddia edilir."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Komisyon raporu 2004'te üç bileşen verir: Dünya Ticaret Merkezi'nde 2.600'den fazla, Pentagon'da 125, dört uçakta 256 kişi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Teknik soruşturma daha dar bir çerçeveyi daha kesin sayar: kulelere yapılan saldırılarda ölenlerin sayısı 2.735'tir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Bu sayının içinde iki binada bulunan 2.184 kişi, iki uçaktaki 129 kişi (119 yolcu ve mürettebat ile 10 saldırgan), 343 New York itfaiyecisi, 71 kolluk görevlisi ve 8 özel acil sağlık çalışanı vardır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Kamusal bellekte dolaşan rakam ise üçüncü bir kapsama aittir: saldırganlar hariç 2.977 ölü, saldırganlarla birlikte 2.996.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yaygin kullanilan rakam; tek kunyesi giris kapisi ansiklopedisidir. Resmi kunyeler (k1, k3) farkli kapsamlar sayar ve bu sayiyi vermez; metin uc sayimi yan yana koyarak farki acikca soyler."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Yıkıntıdan yayılan toza maruz kalan on binlerce kişi sonraki yıllarda hastalandı; bir tahmine göre 18.000 kişide toza bağlı hastalık gelişti.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Kaynak bunu bir tahmin olarak aktarir; resmi bir kayda dayanmaz."
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Onların kaydı başka bir yerde tutulur: 2011'de kurulan federal sağlık programının kütüğünde.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Kulelerin çöküşü, 2002'de çıkarılan bir yasayla kurulan resmî teknik soruşturmanın konusu oldu; standartlar kurumunun bu yetkiyle yürüttüğü ilk soruşturmaydı ve nihai rapor 26 Ekim 2005'te yayımlandı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Sonuç iki aşamalıdır: çarpma taşıyıcı kolonları kesip yangın yalıtımını yerinden söktü ve jet yakıtını katlara yaydı; ardından çıkan çok katlı yangınlar, yalıtımı kalmamış çelik döşeme ve kolonları zayıflatarak katların sarkmasına, sarkan katların da dış kolonları içeri doğru çekmesine yol açtı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Kolonların içeri bükülmesi çöküşü başlattı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Aynı kurum, kamuoyunda dolaşan bazı iddiaları da tek tek yanıtlamıştır; örneğin çeliğin belirli bir sıcaklığa sertifikalandığı iddiasının teknik olarak karşılığı olmadığını, Amerikan uygulamasında çeliğin değil yapı elemanlarının yangın dayanımı için sınandığını yazar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Saldırıdan yedi gün sonra, 18 Eylül 2001'de kabul edilen kuvvet kullanma yetkisi, başkana saldırıyı planlayan, yetkilendiren, gerçekleştiren ya da destekleyen devlet, örgüt ve kişilere — bunları barındıranlar dahil — karşı gerekli ve uygun her türlü gücü kullanma izni verdi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Metinde hiçbir ülke adı geçmez; yetki bir coğrafyaya değil, bir sorumluluk ölçütüne bağlanmıştır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yoklukla dogrulanan iddia: yetki metninin tamami kisadir ve icinde Amerika Birlesik Devletleri disinda ulke adi gecmez."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "26 Ekim 2001'de yasalaşan USA PATRIOT Act, adı bir kısaltma olacak biçimde kurulmuş uzun bir başlık taşır ve kolluk ile istihbaratın yetkilerini genişletir; yabancı istihbarat mevzuatı altında kayıt ve belgelere erişimi düzenleyen 215 numaralı madde ile arama kararının bildirilmesini geciktirmeye izin veren 213 numaralı madde bu genişlemenin iki somut maddesidir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Sivil özgürlük örgütleri yasayı, kolluğa yurttaşların mahremiyetine girme imkânı verdiği ve yargı denetimini zayıflattığı gerekçesiyle eleştirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Elestiri yasanin butunune yoneliktir; metindeki 215 ve 213 numarali maddelerle birebir eslesmez."
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "19 Kasım 2001'de çıkan havacılık güvenliği yasası, yolcu ve bagaj taramasını özel şirketlerden alıp devlete devretti: Ulaştırma Bakanlığı bünyesinde bir Ulaştırma Güvenliği İdaresi kuruldu, başına başkanın atadığı ve Senato'nun onayladığı bir müsteşar getirildi, kokpit kapılarının güçlendirilmesi ayrı bir madde olarak düzenlendi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "İç Güvenlik Yasası, ana görevi ülke içinde terör saldırılarını önlemek olarak tanımlanan bir bakanlığı yürütmenin bir dairesi olarak kurdu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Komisyon 2004'te bu düzenlemelerin üstüne kendi yeniden yapılanma önerilerini koydu: terörle mücadelede istihbarat ile harekât planlamasını tek çatı altında birleştirecek bir merkez ve bütün istihbarat kurumlarının üstünde yeni bir yönetici makam.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Aynı rapor, devletin yetkileri kaçınılmaz olarak genişlerken bu yetkileri elde tutmanın ispat yükünün yürütmede kaldığını ve yeni bilgi toplama düzenlerinin denetlenmesi için ayrı bir kurul gerektiğini de önerdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Komisyon, örgüt ile Irak yönetimi arasında dostane temaslar ve ortak düşmanlık temaları bulunduğunu kaydeder; ama bu temasların işbirliğine dayalı bir operasyonel ilişkiye dönüştüğüne dair kanıt görmediğini, Irak'ın örgütle birlikte Amerika'ya karşı saldırı geliştirdiğine ya da yürüttüğüne dair kanıt bulunmadığını açıkça yazar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Yetki metni de aynı yönü gösterir: 2001 tarihli kuvvet kullanma yetkisi gücü saldırıdan sorumlu olanlarla sınırlar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Buna karşın 2003'te başlayan Irak Savaşı, 11 Eylül sonrası dönemin savaşları arasında sayılagelmiştir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak Irak Savasi ni 11 Eylul sonrasi savaslar listesinde sayar; nedensel bag kurmaz. Cumle de kurmuyor."
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Komisyonun genel bulgusu serttir: 1998 ile 2001 arasında alınan hiçbir önlem planın ilerleyişini bozmadı, hatta geciktirmedi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Rapor eksikliği dört başlıkta toplar — muhayyile, siyaset, kapasite ve yönetim — ve en önemlisinin muhayyile eksikliği olduğunu söyler; liderlerin tehdidin ağırlığını kavradığına inanmaz.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Birincisi bilgi eksikliğini öne çıkarır: 2001 baharı ve yazı boyunca istihbarat kurumlarına büyük bir saldırı hazırlandığına dair bir uyarı akışı geldi, merkezî istihbaratın başındaki isim sistemin alarm verdiğini söyledi, ama somut bilgi yurt dışına işaret ediyordu ve iç kurumlar etkili biçimde harekete geçirilmedi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Aynı okumaya göre kurumlar 1997'den itibaren Afganistan yönetimini diplomatik baskıyla ikna etmeyi de denemiş, uyarılar ve yaptırımlar sonuç vermemişti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Ocak 2000'de iki operasyonel eleman Kuala Lumpur'da görüldü, Bangkok'ta izleri kaybedildi ve 15 Ocak 2000'de Los Angeles'a indiler; kurumlar bu iki kişinin ülkeye girdiğini ancak Ağustos 2001'de fark etti.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Bu okumanın dayanakları sıralanabilir: gelecekteki iki saldırganın izleme listesine alınmaması, bunlardan birinin vizesi ve diğerinin seyahati hakkında federal soruşturma bürosunun bilgilendirilmemesi, 16 Ağustos 2001'de göçmenlik ihlalinden tutuklanan ve büyük yolcu uçağı kullanmayı hızlandırılmış biçimde öğrenmek istediği için şüphe çeken kişinin dosyasının artan tehdit işaretleriyle birleştirilmemesi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "Komisyonun kendisi ikisini de yetersiz bulur; izleme listesi, bilgi paylaşımı ya da noktaları birleştirmek gibi etiketlerin hepsinin çok dar kaldığını söyler ve şöyle yazar: \"belirtiyi tarif ediyorlar, hastalığı değil\".",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "Toz maruziyetine bağlı hastalıklar için 2011'de kurulan federal sağlık programı, 2015'te 2090 yılına kadar uzatıldı; 2019'da yeni kayıt sınırları 25.000'den 75.000'e çıkarıldı ve 2023'te Pentagon ile Pensilvanya bölgelerinde görev yapanlar da kapsama alındı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Saldırının ardından gelen savaşların doğrudan ölü sayısı 897.000 ile 929.000 arasında, dolaylı ölümlerle birlikte toplam 4,5 ile 4,6 milyon arasında tahmin edilmiştir; aynı hesap sekiz trilyon dolarlık bir maliyet ve otuz sekiz milyon kişilik bir yerinden edilme öngörür.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Tartismali toplamlar; kaynak bunlari bir arastirma projesinin tahmini olarak aktarir. Metin de tek olaya fatura edilemeyecegini soyler."
+    },
+    {
+      "iddia_id": "i050",
+      "cumle": "Bir felaketin hem siyasi hem teknik soruşturmasının kamuya açık raporlar hâlinde yayımlanması, tarihçi için alışılmadık bir zenginliktir; iki rapor da kendi sınırlarını kaydeder — biri paranın kaynağını bulamadığını, öteki delilin büyük bölümünün çöküşte yok olduğunu.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iki raporun kendi sinirlarini kaydettigi olgular kunyelerde dogrudan gecer; tarihci icin alisilmadik zenginlik degerlendirmesi yorumdur."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 43,
+    "kismi": 7,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

@@ -1,5 +1,5 @@
 ## tartisma-yazinin-icadi-nerede
-_Geçiş 2 — kaynak denetimi · 2026-08-29T13:53:02.370Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:58.985Z_
 
 - [ATOMSUZ] k1 → "yüzyıldan önce bilimsel kuramların çoğu bir tür tek köken varsayımı taşıyordu: yazı yalnızca bir kez, eski Süm…" — programatik olarak ölçülemedi (ad karşılığı yok): Sümer, Tekvin, Mezopotamya
 - [OK]      k1 → "Kolomb öncesi Mezoamerika sistemlerine dair farkındalığın artması bu varsayımı kesin biçimde bozdu ve bugün en…" — 5 atom doğrulandı; 3 ad ölçülemedi

@@ -1,5 +1,5 @@
 ## aktor-inka-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:31.878Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.833Z_
 
 - [OK]      k1 → "yüzyıl başı için yaklaşık 12 milyon kaydedilir."
 - [ATOMSUZ] k1 → "12 milyonluk değerin verilmesi, atlasın çoğu erken dönem aktöründe yapamadığı bir karşılaştırmayı mümkün kılar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

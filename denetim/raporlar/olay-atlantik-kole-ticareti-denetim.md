@@ -1,5 +1,5 @@
 ## olay-atlantik-kole-ticareti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T13:57:41.560Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:43.813Z_
 
 - [ATOMSUZ] k1 → "yüzyıl boyunca sürdü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Üç aşamanın toplamı dört yüzyılı aşar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

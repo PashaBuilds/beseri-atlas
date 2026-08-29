@@ -1,5 +1,5 @@
 ## kavram-sivil-toplum
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:37.974Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.623Z_
 
 - [ATOMSUZ] k1 → "Kaynak bölümlerini sıralar: köken bilgisi, demokrasi, siyasi katılım, iktisat, anayasal iktisat, küresel, sivi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak tarih bölümünü Batı antikçağı, erken modern tarih, modern tarih ve post-modern tarih alt başlıklarına a…" — programatik olarak ölçülemedi (ad karşılığı yok): Batı

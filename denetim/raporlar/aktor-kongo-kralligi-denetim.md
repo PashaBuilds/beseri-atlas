@@ -1,5 +1,5 @@
 ## aktor-kongo-kralligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:32.191Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.128Z_
 
 - [OK]      k1 → "Kongo Krallığı, on dördüncü yüzyıl sonlarında Orta Afrika'nın batı kıyısına yakın bir bölgede kurulan ve on do…" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [ISARET]  k2 → "Devlet, on beşinci yüzyıl sonunda bir Avrupa devletiyle doğrudan ilişkiye girdi." — özel isim kaynakta bulunamadı: Avrupa

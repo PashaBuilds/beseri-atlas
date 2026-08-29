@@ -15,6 +15,7 @@ ilgili:
   - dusunur-montesquieu
   - kaynak-montesquieu-kanunlarin-ruhu
   - kavram-esitsiz-antlasmalar
+  - olay-11-eylul
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

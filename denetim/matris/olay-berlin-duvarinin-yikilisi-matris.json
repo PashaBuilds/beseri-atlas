@@ -1,0 +1,831 @@
+{
+  "id": "olay-berlin-duvarinin-yikilisi",
+  "govde_hash": null,
+  "commit": null,
+  "zaman": "2026-08-29",
+  "hakem": "TASLAK-yazar",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "İktidardaki Sosyalist Birlik Partisi'nin merkez komitesi bir gün önce üç günlük oturumuna başlamış, oturumun açılışında politbüro topluca istifa etmişti; enformasyondan sorumlu yeni sekreter olan Schabowski o günün görüşmelerinde bulunmamış, karar taslağını basın toplantısından hemen önce Egon Krenz'in elinden almıştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Yeni seyahat düzenlemesinin ertesi gün yürürlüğe girmesi planlanıyordu; aradaki saatler bütün sınır karakollarının bilgilendirilmesine ayrılmıştı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Bir gazetecinin ne zaman geçerli olacağını sorması üzerine Schabowski, bildiği kadarıyla düzenlemenin \"sofort, unverzüglich\" — derhal, gecikmeksizin — yürürlükte olduğunu söyledi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Bu tek cümle, 1961'den beri Doğu ile Batı Berlin'i ayıran sınırı birkaç saat içinde işlevsiz bıraktı.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "1961 tarihi ve gece yarisindan kisa sure sonra butun gecitlerin acilmasi kaynakta dogrudan; \"bu tek cumle siniri islevsiz birakti\" seklindeki nedensel sikistirma yazarindir"
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Basın toplantısı akşam saat 18.00'de başladı ve Doğu Alman televizyonundan canlı yayımlandı; Schabowski'nin yanında dış ticaret bakanı Gerhard Beil ile iki merkez komitesi üyesi vardı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Schabowski yeni düzenlemenin tartışmalarına katılmamıştı, tam olarak bilgilendirilmemişti ve eline tutuşturulan notu nasıl kullanacağına dair bir talimat da almamıştı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Saat 18.53'te, toplantı biterken, İtalyan haber ajansı ANSA'dan Riccardo Ehrman kasım başında kamuoyuna sızan seyahat yasası taslağının bir hata olup olmadığını sordu; taslak yalnızca son derece kısıtlı bir seyahat serbestisi vaat ettiği için sert tepki toplamıştı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Schabowski önce dağınık bir cevap verdi, sonra notu hatırlayıp okumaya başladı; ardından gelen yürürlük sorusuna birkaç saniyelik duraksamanın sonunda o cümleyi kurdu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Bir başka gazeteci düzenlemenin Batı Berlin geçitlerini de kapsayıp kapsamadığını sorunca notun üçüncü maddesini okudu ve kapsadığını doğruladı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Bu iki kanal 1950'lerin sonundan beri Doğu Almanya'nın neredeyse tamamına ulaştığı ve orada da izlendiği için haberi çoğu insan Doğu Alman kanallarından değil onlardan duydu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Önce bir vana çözümü denendi: tek tek kişilerin geçmesine izin verildi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Sınır muhafızları üstlerini telefona boğdu; ilk talimat, en ısrarcı olanların pasaportlarına geri dönüşü engelleyen bir damga vurmak, yani onları fiilen vatandaşlıktan çıkarmaktı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Bu, Schabowski'nin sözüne dayanarak geçmek isteyen binlerce kişiyi yerinden oynatmadı; ölümcül güç kullanma emrini kimse şahsen üstlenmeyince, sayıca çok az kalan askerlerin kalabalığı tutacak aracı kalmadı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Bornholmer Caddesi geçidindeki nöbetçi amirler sonunda baskıya boyun eğip sınırı tümüyle açtılar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Gece yarısından kısa süre sonra Berlin'deki bütün geçitler açıktı ve sınır polisine hiçbir müdahale emri gelmedi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "O saatlerde Invalidenstrasse geçidinde insanlar hâlâ vize ve zorunlu döviz bozdurma kuralına tabiydi ve sıraya girip adlarının okunmasını bekliyorlardı; Batı'dan gelen kalabalık ise gece bir civarında ters yönde akmaya başladı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Checkpoint Charlie'de saat iki sularında ilk denetim yirmi saniyede on kişiyi geçiriyor, ikinci muhafız kimlik istiyor, üçüncüsü vize arıyordu.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Perşembe gecesinden pazar akşamına kadar iki milyondan fazla Doğu Alman şehrin batı yakasına geçti ve akışı taşıyabilmek için duvarda on yeni geçit açıldı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Çekiç ve keskiyle parça koparanlar ilk akşamdan başladı; bu iş haftalarca sürdü ve yer yer resmî olmayan geçitler açtı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Brandenburg Kapısı'nın yanındaki bölüm 21 Aralık 1989'da bir vinçle kaldırıldı; kapı yirmi sekiz yıl boyunca Doğu ile Batı Berlin arasındaki sınırı işaretlemişti.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Doğu Alman sınır birlikleri duvarı resmen sökmeye 13 Haziran 1990'da Bernauer Caddesi'nden başladı; Berlin ve Brandenburg çevresindeki sınır duvarının sökümü Kasım 1991'de, duvarın yıkımı ise 1994'te tamamlandı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Yalnızca Berlin'de 184 kilometre duvar ve 154 kilometre sınır çiti kaldırıldı, anıt olarak altı bölüm bırakıldı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Macaristan Mayıs 1989'da Avusturya sınırındaki güvenlik tesislerini söktürmüştü; giderek daha çok Doğu Alman bu açık sınırdan Batı'ya kaçtı ve Prag, Budapeşte, Varşova ile Doğu Berlin'deki batılı elçilikler sığınma yerine döndü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "19 Ağustos 1989'da Sopron yakınında düzenlenen Pan-Avrupa Pikniği sırasında sınır bariyerlerinden biri simgesel olarak açıldı; Macaristan'a gitmiş yaklaşık 600 Doğu Alman bu fırsatı kullanarak Avusturya'ya geçti.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Eylülden itibaren haftalık Pazartesi gösterileri başladı ve ekim ortasında yalnızca Leipzig'de yetmiş bin kişi bu gösterilere katıldı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Leipzig o gün silahlı bir kamp görünümündeydi: üç bin polis, bunların bin iki yüzü Halle ve Neubrandenburg bölgelerinden getirilmişti; beş bölük fabrika savaş grubu ve devlet güvenlik bakanlığından özel bir tim de görevdeydi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Honecker'in eylül sonunda imzaladığı gizli emir yürürlükteydi ve beklenen kargaşanın baştan önlenmesini buyuruyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Yine de tek kurşun atılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler akşam saatlerinde geri çekildi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "O akşam atılan \"we are the people\" sloganı, partinin ve hükümetin sonraki her tereddütlü tavizini hızlandıran güce dönüştü.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Kurt Masur'un da aralarında olduğu altı tanınmış Leipzigli sakin kalma çağrısı yaptı; çağrının o günün barışçı seyrine katkısı tartışmasızdır, ama ona erkenden atfedilen belirleyici rol, geri çekilmeyi asıl zorlayan kalabalığın yerini tutmaz.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "4 Ekim'de Prag ve Budapeşte'den kalkıp Doğu Alman toprağından geçirilen göç trenleri Dresden garında iç savaşı andıran çatışmalara yol açtı; 7 ve 8 Ekim'de partinin kırkıncı yıl kutlamaları çevresindeki protestolar Doğu Berlin'de zorla bastırıldı; 18 Ekim'de Honecker, devlet otoritesini gösterişli bir tank sevkiyatıyla yeniden kurma önerisini kabul ettiremedikten iki gün sonra görevden alındı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "4 Kasım'da Doğu Berlin'de Alexanderplatz'ta toplanan kalabalık, Doğu Almanya tarihinin en büyük gösterisi oldu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Bu zemine üç etken daha eklenir: Gorbaçov'un 1985'ten sonra başlattığı reform ve açılma sürecinin ortak devletlere yayılması, Doğu Alman ekonomisinin perişan durumu ve planlı ekonominin küresel rekabet baskısına cevap verememesi, bir de parti yönetiminin dışarıda yalnızlaşıp içeride felç olması.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Olay bittikten sonra kimin hanesine yazılacağı otuz yıldır tartışılıyor ve tartışma sertliğini koruyor.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Münsterli din sosyoloğu Detlef Pollack, iktidarın yurttaş hareketi tarafından devrimci biçimde aşıldığı anlatısının bir efsane olduğunu, 1989'un asıl olarak \"Aufstand der Normalbürger\" yani sıradan yurttaşların ayaklanması olduğunu savundu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Doğu Almanya araştırmacısı Ilko-Sascha Kowalczuk ise altüst oluşun azınlığın eseri olduğunu, sıradan yurttaşların beklediğini söyleyerek karşı çıktı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Bu okumaya göre 9 Kasım akşamı duvarı umulmadık biçimde çökerten şey ne göçmenler, ne Pazartesi göstericileri, ne de muhaliflerdir; çifte bir yanlış anlamadır: ertesi güne tarihlenmiş bir taslağı derhal yürürlüğe koyan beceriksizlik ile batılı medyanın sansasyonu ilk yakalama yarışı.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "İkinci unsur belirleyicidir, çünkü gözlemciler burada eyleyene dönüşmüş, gerçekliği aktarmak yerine üretmiş ve o ana kadar yalnızca Bornholmer Caddesi'nde oluşmuş basıncı büyütmüştür.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Batili medyanin gozlemciden eyleyene donusmesi ve Bornholmer basincini buyutmesi kaynakta dogrudan; \"belirleyicidir\" vurgusu yazarin"
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Bu okumanın kitap boyu en bilinen savunusu Mary Elise Sarotte'nin 2014'te çıkan çalışmasıdır; kitap duvarın açılışını daha adında kazara diye niteler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kunye verisi yazar, baslik ve yili dogrudan verir; \"kitap boyu en bilinen savunu\" degerlendirmesi yazarindir"
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "4 Kasım'da Alexanderplatz'ta kürsüye çıkanların talebi bugün varsayıldığı gibi birleşme değildi; o gün konuşanlar yenilenmiş bir sosyalizmden söz etti ve 26 Kasım'da bir milyon Doğu Almanın imzaladığı çağrı, ülkenin Federal Almanya tarafından yutulmasına karşı uyardı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Duvarın açılışı, o günün ufkunda bir dönüm noktası değil, gecikmiş bir normalleşme adımı gibi görünüyordu; ne onu duyuran, ne aynı gece onu sözünde tutan kalabalık, ne de gelişmeye hazırlıksız yakalanan muhalifler bunu Doğu Almanya'nın sonu diye okudu.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Kaza okuması bile sonbaharda devrimci bir durumun oluştuğunu varsayar ve o durumu üreten şey etkenlerin birleşmesidir: ekonomik çöküş, dış yalnızlık, yönetimin felci ve halk içinde kaçış ile protestonun aynı anda büyümesi.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Kaçışın rolü de tartışmalıdır; bir okumaya göre protestoyu besledi, bir başkasına göre hoşnutsuzları ülkeden çıkararak parti iktidarını korudu.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Dış baskı ekseni de tek yönlü değildir: Fransa cumhurbaşkanı François Mitterrand ile Britanya başbakanı Margaret Thatcher birleşmeye karşı çıktı; Thatcher Eylül 1989'da Gorbaçov'a bunu durdurmasını özel olarak iletti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Adlandırma da tarafsız değildir: Egon Krenz Honecker'in düşürüldüğü akşam televizyonda bir dönüşün başlatılacağını duyurmuş, Christa Wolf ise 4 Kasım'da Alexanderplatz'ta bu sözcükle sorunu olduğunu söyleyip devrimci yenilenmeden söz etmeyi seçmişti; muhalifler dönüş sözcüğünü, parti iktidarının devrilmesini sıradan bir hükümet değişikliğine indirgemekle suçladı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Basın toplantısındaki cümlenin saati kayıtlarda 18.53 ile 18.57 arasında değişir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "Bornholmer Caddesi'ndeki bariyerin açılış saati için üç değer dolaşımdadır: 22.45, 23.20 ve 23.30.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "Geceyi tek bir geçide bağlamak da güvenli değildir; Waltersdorf-Rudow kapısının birkaç saat önce, bağımsız bir kararla açıldığına dair bir tanıklık vardır ve bu, Batı Berlin'de daha erken görülen Doğu Berlinlileri açıklayabilir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Bariyeri kaldıran subayların adları — Bornholmer'de Harald Jäger ve Edwin Görlitz — bilinir; ama hiçbiri anma dilinde kahraman mertebesine çıkarılmamıştır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i050",
+      "cumle": "Uzun dönemli seride dünya nüfusu 1989'da yaklaşık 5,23 milyardır.",
+      "onem": "renk",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i051",
+      "cumle": "Almanya'nın birleşmesi 9 Kasım'dan 339 gün sonra, 3 Ekim 1990'da tamamlandı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i052",
+      "cumle": "Dört gücün Berlin ve bütün Almanya'ya ilişkin hak ve sorumlulukları ise 12 Eylül 1990'da imzalanan nihai çözüm antlaşmasıyla sona erdirildi; aynı metin birleşik Almanya'nın Federal Almanya, Doğu Almanya ve Berlin'in tamamından oluşacağını yazar ve ülkeye iç ve dış işlerinde tam egemenlik tanır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i053",
+      "cumle": "Bugün 9 Kasım anması beş yılda bir görkemle yapılıyor ve her seferinde büyüyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i054",
+      "cumle": "Buna karşılık anma dilinin kahramanı yok; Nikolaikirche'nin papazı Christian Führer de, Leipzig'in ve Bornholmer'in adı bilinen kişileri de teşekkür gördü ama kahraman anlatısına dönüşmedi.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i055",
+      "cumle": "Sloganın kendisi ise el değiştirebiliyor: sağ popülist hareketler 1989'un mirasçısı olduklarını ilan edip aynı sözü seçim afişlerine taşıdı, eski hak savunucuları bu sahiplenmeye açıkça itiraz etti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i056",
+      "cumle": "Uzun bir yapısal çözülme, kendi anını bir kaza aracılığıyla bulabilir; ve o an bir kere yaşandıktan sonra, kimin eseri olduğu üzerinden yeniden ve yeniden kurulur.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kapanis degerlendirmesi kaynagin sundugu ogelerden yazarin cikardigi sentezdir"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 52,
+    "kismi": 4,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

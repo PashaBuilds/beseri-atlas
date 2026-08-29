@@ -1,5 +1,5 @@
 ## olay-covid-19-pandemisi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T13:57:41.717Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:44.664Z_
 
 - [OK]      k1 → "Salgın, Aralık 2019'da Çin'in Wuhan kentinde görülen bir vaka kümesiyle başladı; 2020 başında önce Asya'nın öt…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Dünya Sağlık Örgütü 30 Ocak 2020'de salgını uluslararası boyutta halk sağlığı acil durumu ilan etti, 11 Mart 2…" — 4 atom doğrulandı; 3 ad ölçülemedi

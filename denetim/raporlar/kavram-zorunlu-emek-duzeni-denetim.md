@@ -1,5 +1,5 @@
 ## kavram-zorunlu-emek-duzeni
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:38.605Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.211Z_
 
 - [ATOMSUZ] k1 → "Zorunlu emek düzeni, emeğin ne köle mülkiyetiyle ne de serbest sözleşmeyle sağlandığı ara biçimlerin ortak adı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k2 → "Ara biçimler farklı adlar taşır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

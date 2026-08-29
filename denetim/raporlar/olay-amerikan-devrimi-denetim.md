@@ -1,5 +1,5 @@
 ## olay-amerikan-devrimi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:25.695Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:43.628Z_
 
 - [OK]      k1 → "Grenville bakanlığı 1763 Kraliyet Bildirisi'ni yayımlayarak Apalaş Dağları ile Mississippi Nehri arasındaki to…" — 1 atom doğrulandı; 4 ad ölçülemedi
 - [OK]      k1 → "Apalaş Dağları'nın ötesine artan Britanya göçü ve General Jeffery Amherst'in politikalarına yönelik Yerli Amer…" — 5 atom doğrulandı; 1 ad ölçülemedi

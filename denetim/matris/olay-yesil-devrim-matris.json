@@ -1,0 +1,659 @@
+{
+  "id": "olay-yesil-devrim",
+  "govde_hash": null,
+  "commit": null,
+  "zaman": "2026-08-29",
+  "hakem": "TASLAK-yazar",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Başlangıcı 1943'te, Meksika Tarım Bakanlığı ile Rockefeller Vakfı'nın Meksika hükümetinin isteği üzerine kurduğu ortak bir araştırma ve eğitim programıdır; o sırada ülke tükettiği buğdayın yarısından fazlasını ithal ediyor, ulusal ortalama hektarda 750 kiloda takılı kalıyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Yirmi yıl sonra aynı programın ürünü olan çeşitler Hindistan ve Pakistan tarlalarındaydı; Filipinler'de geliştirilen IR8 pirinci ise Güney ve Güneydoğu Asya'da benzer bir sıçrama üretti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Konusma IR8 icin Filipinler, Seylan, Malezya ve Bati Pakistan diyor; \"Guney ve Guneydogu Asya\" bu listeden yapilan genellemedir."
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Dünya buğday verimi 1961'de 1,09 ton, 2023'te 3,63 tondu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV World satirlari: 1961 = 1,0889 · 2023 = 3,6325 t/ha."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Dünya tahıl verimi 1961'de hektarda 1,35 tondu; 2023'te 4,23 tona çıktı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV World satirlari: 1961 = 1,3532 · 2023 = 4,2283 t/ha."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Vakfın kendi yıllık raporu, George Harrar'ın yönetiminde kurulan ilk projenin buğday ıslahı olduğunu ve programın Meksika Tarım Bakanlığı ile işbirliği içinde yürütüldüğünü kaydeder.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Raporun MEXICAN AGRICULTURAL PROGRAM basligi altinda birebir: Mexican Department of Agriculture, wheat improvement, Dr. J. George Harrar."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Aynı yıl kadroya Wellhausen katıldı ve özellikle mısır ile fasulyede bitki ıslahı çalışmaları başladı.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Raporda: Dr. E. J. Wellhausen \"added to the staff in Mexico\", \"especially on corn and beans\"."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Bir yıl sonra, 1944'te, bitki ıslahçıları, toprak bilimciler, bitki patologları ve entomologlar birlikte çalışan bir ekip hâlinde buğday üretiminin bütün kısıtlarına aynı anda yüklendi; programa, araştırmaya katılırken yetişen Meksikalı bilimciler için bir hizmet içi eğitim bileşeni de eklendi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Uygun koşullarda bu çeşitler, eski uzun saplı buğdayların en iyilerinin iki ya da üç katı ürün veriyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Konusmada \"double or triple that of the best yielders among older, tall-strawed varieties\"."
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Programın buğday kanadını yirmi altı yıl yürüten Norman Borlaug, sonucun bir rastlantı olmadığını vurgulamak için \"tarımsal üretimde mucize yoktur\" diye yazacaktı.",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alinti konusmadaki \"There are no miracles in agricultural production\" cumlesinin cevirisidir; \"twenty-six years\" ayni paragrafta."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Meksika'da hektardan alınan buğday 1961'de 1,68 tondu; 1970'te 3,02, 1980'de 3,85 tona çıktı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV Mexico satirlari: 1961 = 1,6758 · 1970 = 3,0202 · 1980 = 3,8476."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Ülke 1943'te buğday ihtiyacının yarısını ithal ediyordu; 1956'da kendine yeterli hâle geldi, 1964'te yarım milyon ton buğday ihraç ediyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta 1943 yarisi ithal, 1956 kendine yeterli, 1964 yarim milyon ton ihracat."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Çeşitlerin ayırt edici özelliği tek başına yüksek verim değil, gübreye verdikleri tepkiydi: uzun saplı buğday ağır gübre aldığında yatıyor, kısa saplı çeşit ayakta kalıp gelen besini taneye çeviriyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Konusma kisa sapin gubreye yuksek verimli tepkisini soyler; uzun sapin yatmasi (lodging) mekanizmasi kaynakta acikca yazmaz, gubre tepkisi ile kisa sap birlikteliginden cikarilmistir."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Üretimdeki büyük artış o tarihe kadar yalnızca sulanan alanlarda gerçekleşmişti; yağışa bağlı alanlar geride kalmıştı ve sulanan alanlardaki çiftçilerin hepsi de yeni tohumu benimsememişti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Konusmada \"the great increase in production has been in irrigated areas\" ve \"Nor have all cereal farmers in the irrigated areas adopted\"."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Etki ürün bakımından da dardı: buğday, pirinç ve mısır belirgin biçimde değişmiş, sorgum, darı ve arpada değişim küçük kalmış, tahıl tüketen nüfusların beslenmesinde temel olan baklagillerde kayda değer bir artış görülmemişti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Yalnızca 1969-1970 ekim sezonunda Hindistan'da yetmiş bin özel tüplü kuyu açıldı ve yaklaşık 1,4 milyon hektar daha kontrollü sulamaya girdi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Konusmada \"seventy thousand private tube-wells\" ve \"1.4 million hectares\"; sayilar kaynakta yaziyla, metinde de yaziyla verildi."
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Aynı konuşmada, yapay besinlere bağımlılığın küçük çiftçinin üzerine bindirdiği mali yük, programı yürüten kişinin kendi kaygısı olarak dile getirilir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "1965'te Pakistan'a 350, Hindistan'a 250 ton Meksika cüce buğday tohumu geniş ölçekli tarla denemeleri için getirildi; sonuç yine olumluydu ve Hindistan 1966'da on sekiz bin ton, Pakistan ertesi yıl kırk iki bin ton tohum ithal etti.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Konusmada 350 ve 250 ton (1965), 18.000 ton (1966), 42.000 ton (bir yil sonra). 1967 yili kaynakta rakamla gecmedigi icin \"ertesi yil\" yazildi."
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Yeşil Devrim öncesinin rekor hasadı olan 1964-1965 yılı taban alındığında Pakistan'ın buğday üretimi 4,6 milyon tondan 1968, 1969 ve 1970 hasatlarında sırasıyla 6,7, 7,2 ve 8,4 milyon tona çıktı; Batı Pakistan 1968'de ilk kez kendine yeterli hâle geldi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Konusmada 4,6 -> 6,7 / 7,2 / 8,4 milyon ton ve 1968 hasadinda Bati Pakistan kendine yeterli."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Hindistan'ın üretimi aynı yıllarda 12,3 milyon tondan 20 milyon tona yükseldi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Konusmada 12,3 -> 16,5 / 18,7 / 20,0 milyon ton; metin ilk ve son degeri verir."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "1969-1970 sezonunda Pakistan'ın altı milyon hektarlık buğday alanının yüzde 55'i, Hindistan'ın on dört milyon hektarının yüzde 35'i Meksika çeşitleri ya da onların türevleriyle ekiliydi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Konusmada 1969-1970 sezonu icin yuzde 55 (6 milyon ha) ve yuzde 35 (14 milyon ha)."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Meksika'da geliştirilen önerilen tarım pratikleri paketinin, gübre önerileri dahil, yaklaşık yüzde 75'i Hindistan ve Pakistan'da doğrudan uygulanabilirdi; kalan yüzde 25'i, tohum çoğaltılırken Hintli ve Pakistanlı bilimcilerin yaptığı uyarlama araştırmasıyla yerel koşullara göre değiştirildi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Konusmada yuzde 75 dogrudan uygulanabilir, kalan yuzde 25 icin yerel uyarlama arastirmasi."
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Hindistan'da hektardan alınan buğday 1964'te 0,73 tondu; 1970'te 1,21, 1990'da 2,12, 2023'te 3,52 tona çıktı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV India satirlari: 1964 = 0,7299 · 1970 = 1,2086 · 1990 = 2,1211 · 2023 = 3,5207."
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "1960'ta Filipinler'in Los Baños kentinde, Ford ve Rockefeller vakıflarının ortak finansmanı ve Filipin hükümetiyle işbirliği içinde Uluslararası Pirinç Araştırma Enstitüsü kuruldu; bu, yalnızca tek bir ürüne çalışan ilk gerçek uluslararası araştırma ve eğitim enstitüsüydü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Meksika'daki buğday, mısır ve patates çalışmaları 1959'da gayriresmî biçimde uluslararasılaştı, 1963'te ise ikinci uluslararası merkez olarak Uluslararası Mısır ve Buğday Geliştirme Merkezi adıyla örgütlendi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Enstitüde 1962'de yapılan bir melezlemeden çıkan hatlardan biri 1966'da IR8 adıyla çeşit hâline geldi ve mucize pirinç diye anıldı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta 1962 melezlemesi (Dee-Geo-woo-gen x Peta), 1966 cesit, \"Miracle Rice\"."
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "IR8, Filipinler, Seylan, Malezya ve Batı Pakistan'da çarpıcı verim artışı üretti; muson bölgelerindeki Hindistan ve Doğu Pakistan koşullarına ise iyi uyum sağlayamadı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Olayın adı bir bilim insanından değil bir yöneticiden geldi: terimi 1968'de Amerikan Uluslararası Kalkınma Ajansı'nın yöneticisi William Gaud kullandı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta William S. Gaud, USAID yoneticisi, 8 Mart 1968."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Kurduğu karşıtlık Soğuk Savaş sözlüğündendi: Sovyet tipi kızıl bir devrim de değil, Şah'ın beyaz devrimi de değil, yeşil.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynaktaki alintida kizil ve beyaz devrim karsitligi birebir gecer."
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Borlaug ise terimden rahatsızdı; yaygın kullanımıyla erken, fazla iyimser ve fazla geniş kapsamlı olduğunu düşünüyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "1970-1989 arasında yayımlanmış 300'den fazla çalışmayı tarayan bir inceleme, dağılım üzerine sonuca varan çalışmaların yaklaşık yüzde 80'inin eşitsizliğin arttığını bulduğunu gösterdi; artış hem çiftlikler hem bölgeler arasındaydı ve bu bulgu, teknolojiyi destekleyen uygulayıcı kurumların konumundan ayrılıyordu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozette 1970-1989 arasi 300+ calisma ve yuzde 80 orani birebir; havuz kurali geregi ustveri kaydindan icerik iddiasi en cok ozet duzeyinde kismi sayilir."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Batılı ülkelerden yazarlar, deneme yöntemiyle yazanlar ve çok ülkeli bölgelere bakanlar eşitsizliğin arttığı sonucuna varmaya daha yatkındı; Asya kökenli yazarlar, Hindistan ya da Filipinler'i inceleyenler ve vaka yöntemini kullananlar ise artan eşitsizlikle yeni teknoloji arasında bağ kurmamaya daha yatkındı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozette yazar kokeni, yontem ve calisma alani genisligine gore sonuc farklilasmasi birebir; destek duzeyi ustveri kaydi kurali geregi kismi."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "1960-2000 arasında uluslararası araştırma merkezlerinin ulusal programlarla birlikte geliştirdiği modern çeşitlerin etkilerini derleyen bir değerlendirme, verim kazanımlarının ürünler ve bölgeler arasında eşitsiz dağıldığını, tüketicilerin gıda fiyatlarındaki düşüşten genel olarak yararlandığını, çiftçilerin ise yalnızca maliyet düşüşünün fiyat düşüşünü aştığı yerlerde kazançlı çıktığını kaydeder.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozette \"Productivity gains ... uneven across crops and regions\", \"Consumers generally benefited from declines in food prices\", \"Farmers benefited only where cost reductions exceeded price reductions\"; destek duzeyi ustveri kaydi kurali geregi kismi."
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "En bilinen örneği, Vandana Shiva'nın 1989 tarihli çalışmasıdır; başlığı tezini taşır: yeşil devrimin şiddeti, Pencap'ta ekolojik bozulma ve siyasi çatışma.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynagin kaynakca listesinde Shiva 1989, \"The violence of the green revolution: Ecological degradation and political conflict in Punjab\" olarak gecer; \"en bilinen ornek\" nitelemesi yazarin degerlendirmesidir ve kaynakta yoktur."
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "NASA'nın yerçekimi uydularıyla yapılan bir ölçüm, Racastan, Pencap ve Haryana eyaletlerinde, Delhi dahil, yeraltı suyunun yılda ortalama 4 santimetre su yüksekliği eşdeğerinde, yani yılda yaklaşık 17,7 kilometreküp hızla tükendiğini gösterdi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozette 4,0 +/- 1,0 cm/yil ve 17,7 +/- 4,5 km3/yil, Rajasthan-Punjab-Haryana (Delhi dahil); destek duzeyi ustveri kaydi kurali geregi kismi."
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Ağustos 2002 ile Ekim 2008 arasındaki net kayıp 109 kilometreküpü buldu; bu, ülkenin en büyük yüzey su rezervuarının kapasitesinin iki katıdır ve dönem boyunca yağış normale yakın seyretmişti.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozette Agustos 2002 - Ekim 2008 arasi 109 km3 net kayip, en buyuk yuzey rezervuarinin iki kati, yagis normale yakin."
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Pencap'ın ilk uygulama bölgesi olarak seçilme gerekçesi de zaten güvenilir su kaynağıydı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Meksika ve Hindistan modellerini Afrika'ya taşımak için çok sayıda girişimde bulunuldu; bunlar genel olarak daha az başarılı sonuç verdi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Gösterilen nedenler arasında yolsuzluk, güvensizlik, altyapı eksikliği ve hükümetlerin isteksizliği kadar çevresel etkenler de sayılır: sulama suyunun bulunabilirliği, tek bir alan içinde eğim ve toprak türlerinin yüksek çeşitliliği.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Tahıl verimi Güney Asya'da 1961'de hektarda 1,01 tonken 2023'te 3,67 tona çıktı; Afrika'da aynı yıllar arasında 0,81 tondan 1,71 tona yükseldi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CSV: Southern Asia (FAO) 1961 = 1,0118 · 2023 = 3,6684; Africa (FAO) 1961 = 0,8102 · 2023 = 1,7052."
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Başka bir deyişle Afrika 2023'te hektardan 1,71 ton tahıl alıyordu; Güney Asya bu düzeyi 1980'lerin sonunda geride bırakmıştı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Afrika 2023 = 1,7052; Southern Asia 1987 = 1,6233, 1988 = 1,7714. Esik gecisi seriden hesaplanmistir, seride yazili degildir."
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Borlaug 1970'te Nobel Barış Ödülü aldı ve bugün yaygın biçimde bir milyardan fazla insanı açlıktan kurtarmakla anılır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynakta \"credited with saving over a billion people from starvation\"."
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Bu, ölçülmüş bir sonuç değil bir anma ifadesidir; nitekim aynı kayıt başka bir yerinde iki milyar rakamını da aktarır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ayni sayfada baska bir yerde \"saving two billion people from starvation\" gecer; rakamin kayit ici oynakligi bu iki ifadenin karsilastirmasindan gelir."
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "1965 sonrasındaki ürün ıslahı kazanımlarını küresel bir ekonomik modelle geri alıp dünyayı yeniden simüle eden bir çalışma, 2004 yılında ekili alanın bu kazanımlar olmasaydı 17,9 ile 26,7 milyon hektar arasında daha geniş olacağını tahmin etti; bunun 12,0 ile 17,7 milyon hektarı gelişmekte olan ülkelerde olurdu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozette 17,9-26,7 milyon hektar (2004), bunun 12,0-17,7 milyonu gelismekte olan ulkelerde; destek duzeyi ustveri kaydi kurali geregi kismi."
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Aynı çalışma sonucunu açıkça yorumlar: bulgular verim artışının doğal ekosistemleri tarıma dönüşmekten kurtardığı yönündeki savı genel olarak destekler, ama net etki savın sahibinin öne sürdüğünden çok daha küçük bir büyüklüktedir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozette \"generally support the Borlaug hypothesis ... the net effect is of a much smaller magnitude than Borlaug proposed\"."
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Kazanılan şey açlığa karşı savaşta geçici bir başarı, insanlığa tanınmış bir nefes alma payıydı; tam olarak uygulanırsa otuz yıl yetecek gıdayı sağlayabilirdi, ama nüfus artışı dizginlenmezse başarı kalıcı olmayacaktı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Konusmada \"temporary success\", \"breathing space\", \"next three decades\" ve nufus uyarisi birebir."
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Gecikmenin bedelini ölçmeye çalışan bir çalışma, dönüşümün on yıl gecikmesinin kişi başına gelirin yüzde 17'sine mal olacağını tahmin eder; hiç yaşanmaması ise gelişmekte olan dünyada kişi başına geliri yarıya indirebilirdi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynakta 2021 tarihli bir calismaya dayanarak yuzde 17 ve \"reduced GDP per capita in the developing world by half\"; giris kapisi kaynagi bir calismayi aktarmaktadir."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 35,
+    "kismi": 11,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

@@ -1,5 +1,5 @@
 ## olay-suveys-krizi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:29.072Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.120Z_
 
 - [OK]      k1 → "Kaynak, konuyu Süveyş Kanalı'nın millîleştirilmesi başlığı altında ele alır ve Britanya, Fransa ile Milletler …" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kaynak, kararın veriliş biçimine dair bir tarihçi değerlendirmesini doğrudan aktarır: Mısırlı tarihçi Abd el-A…" — 1 atom doğrulandı; 3 ad ölçülemedi

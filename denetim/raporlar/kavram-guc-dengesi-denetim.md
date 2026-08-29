@@ -1,5 +1,5 @@
 ## kavram-guc-dengesi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:36.650Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:54.383Z_
 
 - [ATOMSUZ] k1 → "Kaynak, kavramı bölüm başlıklarıyla açar: tarih, gerçekçilik ve dengeleme, dengeleme ile yandaşlık karşılaştır…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Kaynak, tarih bölümünün altında güç dengesi kuramına karşı tarihsel kanıtlar diye ayrı bir alt başlık tutar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

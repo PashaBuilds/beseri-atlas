@@ -1,69 +1,309 @@
 {
   "id": "olay-kirim-savasi",
   "gecis": 2,
-  "zaman": "2026-08-29T09:10:27.773Z",
-  "govde_hash": "9a3d69098451",
-  "commit": "7549ec6",
+  "zaman": "2026-08-29T14:44:04.915Z",
+  "govde_hash": "35ed50b184b4",
+  "commit": "495dbec",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Savaşın sonu, bir askerî çöküşten çok bir yalıtılma hesabıyla gelir: diplomatik olarak yalıtılmış ve savaş sürerse batıdan işgal olasılığıyla karşı karşıya kala",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Aynı kayda göre karşı taraf da istekli değildi: Fransa ve Britanya, çatışmanın iç kamuoyundaki popülersizliği nedeniyle bu gelişmeyi memnuniyetle karşıladı.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Her iki tarafın da savaşı sürdürmek istememesi, savaşın sonunu bir zafer değil bir uzlaşı yapar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "30 Mart 1856'da imzalanan Paris Antlaşması savaşı sona erdirdi ve Rusya'nın savaş gemisi bulundurmasını yasakladı.",
+      "iddia": "Kırım Savaşı, Rusya'yı bir yanda Osmanlı Devleti, Fransa, Britanya ve Sardinya ile karşı karşıya getiren, ana muharebeleri Karadeniz'in kuzeyindeki yarımadada g",
       "durum": "OK",
       "not": "4 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir barış antlaşmasının yenilen tarafa donanma yasağı getirmesi, barışın askerî kapasiteyi kalıcı olarak sınırlayan bir araç olarak kullanıldığını gösterir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Savaş, Viyana Kongresi düzenlemesinin doğurduğu ve siyasi sınırların korunmasını, güç dengesini ve nüfuz alanlarına saygıyı vurgulayan Avrupa Ahengi'nin içinde ",
+      "iddia": "Görünürdeki çıkış noktası, Filistin'deki Hristiyan kutsal yerlerinin hangi kilisenin yönetiminde olacağı tartışmasıydı; savaşan tarafların hiçbiri sonunda o kut",
       "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Aynı kaynak, Viyana Kongresi'nin Kırım Savaşı'nı çözen 1856 barış konferansına ilham kaynağı olduğunu kaydeder.",
-      "durum": "OK",
-      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Bir düzenin, kendi ürettiği savaşı yine kendi usulüyle kapatması, o düzenin dayanıklılığının ölçüsüdür; düzen dosyasında ele alınıyor.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yaklaşık 1,82 milyardır.",
+      "iddia": "Birincisi, ölülerin ezici çoğunluğunu muharebe değil hastalık verdi; oran taraf raporlarının kendisinde yazılıdır — Sivastopol önünde hastalıktan düşenler kılıç",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sivastopol"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Birincisi, ölülerin ezici çoğunluğunu muharebe değil hastalık verdi; oran taraf raporlarının kendisinde yazılıdır — Sivastopol önünde hastalıktan düşenler kılıç",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Sivastopol"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İkincisi, bir barış antlaşması ilk kez büyük bir gücün deniz kuvvetini kalıcı olarak kısıtladı ve o kısıtı bozan da yine bir antlaşma oldu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Üçüncüsü, cephenin telgrafla ve canlı muhabirlikle aktarıldığı ilk savaştır; aynı cephe fotoğrafla da belgelendi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Rusya, 1815 Viyana düzeninin kurduğu güç dengesini koruyan Avrupa polisliği rolünü Kutsal İttifak üyesi olarak üstlenmiş, 1848'de Avusturya'nın Macaristan'daki ",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Britanya bunu kabul etmedi: Rusya'nın Osmanlı işlerine hâkim olması, doğu Akdeniz'deki üstünlüğünü tehdit ederdi.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "13 Temmuz 1841'de imzalanan Londra Boğazlar Sözleşmesi, Rusya'nın savaş hâlinde savaş gemilerinin Karadeniz'e geçişini engelleme hakkını ortadan kaldırdı; böyle",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Napoléon III, Fransa'nın büyüklüğünü yeniden kurma hedefiyle Filistin'deki Hristiyan nüfus üzerinde egemen bir yetki iddia etti ve Katolik Kilisesi'nin kutsal y",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Savaşın nedenleri, cephelerin seyri, sağlık hizmetlerindeki değişim ve antlaşmanın diğer maddeleri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunlar",
+      "iddia": "Rusya bu değişikliği 1774 tarihli Küçük Kaynarca Antlaşması'na dayanarak reddetti; Çar Birinci Nikolay ordusunu Tuna boyuna yığdı.",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şubat 1853'te İstanbul'a gönderilen Prens Menşikov, Osmanlı topraklarındaki 12 milyon Ortodoks üzerinde Rus himayesi ve kilise hiyerarşisi üzerinde denetim tale",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Rus tarihçi Vinogradov bu talebin daha önceki antlaşmaların sınırını aşmadığını, çarın yeni bir himaye hakkı değil 1774 metninin teyidini istediğini savunur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "30 Kasım 1853'te altı Rus saf gemisi ile beş küçük savaş gemisi, limanda demirlemiş on bir Osmanlı gemisini kıyı topçusunun koruması altındayken imha etti; Sino",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Britanya ve Fransa savaşı 27 ve 28 Mart 1854'te ilan etti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Taylor ise savaşı hiçbir tarafın geri adım atamadığı bir prestij kilidiyle açıklar ve nedeni \"karşılıklı saldırganlık değil karşılıklı korku\" olarak koyar.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "The Times muhabiri William Howard Russell, 1854 yazında Gelibolu ve Varna kamplarında koleranın yüzlerle ölçülen ölümlere yol açtığını, Fransız komutanın da bu ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Düşmanla hiçbir ciddi temas kurmayan bu harekât Fransızlara yedi binden fazla adama mal oldu; Russell'ın kaydına göre 31 Temmuz sabahı bir tümenin kampı, yaşaya",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Florence Nightingale'in kendi raporuna göre Ekim 1854 ile Nisan 1855 arasındaki yedi ayda ordunun sürekli hasta oranı yüzde 38,9'a çıktı — yani Sivastopol önünd",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sekiz aylık ortalamada ölüm, bütün kuvvetin yıllık yüzde 60'ına denk düşüyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Chenu'nün 1923 tarihli bir derlemede aktarılan tablosuna göre Fransız ordusu 20.240 ölüyü muharebede, 75.375 ölüyü hastalıkta verdi ve toplam 95.615'e ulaştı; B",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Sardinya birlikleri için oran daha da keskindir: 28 muharebe ölüsüne karşılık 2.160 hastalık ölüsü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı derleme, Chenu'nün Rus ölülerini 630.000, Osmanlı ölülerini 35.000 olarak tahmin ettiğini aktarır; Myrdacz'ın belgelenmiş dökümü ise yalnızca Eylül 1854 il",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Bu yüksek ölümlülüğün başlıca sebebi kolera ve tifüs, özellikle de lekeli tifüstür.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Chenu'nün sayımına göre 1854-1855 kışında Britanya ordusunda 47.749 hasta ve yaralıya karşılık 10.889 ölüm görülürken, 1855-1856 kışında 27.384 hasta ve yaralıy",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Derleme bu farkı hekimlerin bilgisine bağlamayı açıkça reddeder: Britanyalı hekimlerin Fransız meslektaşlarından daha bilgili ya da becerikli olduğunu düşündüre",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Aynı sayfada aktarılan Rus cerrah Pirogov'un hükmü de aynı yöne bakar: hasta ve yaralının bakımında belirleyici olan tıp değil, yönetimdir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaşın ardından yarımadadan yaklaşık 200 bin Kırım Tatarı yerinden oldu; bu sayı hiçbir ordunun kayıp cetveline girmez.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Osmanlı ölüleri için verilen aralık 45.400 ile 400.000 arasında değişir; Rus ölüleri için 450.000 ile 630.000 arasında.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Boğaz'daki hastanelerde hastalar bir dönem yıllık yüzde 235'lik bir hızla ölüyordu ve tedavi edilenlerin neredeyse üçte biri hayatını kaybediyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sanitary Commission'ın Scutari'de kanalizasyon ve havalandırma işlerine başladığı tarihte tedavi edilenlerdeki ölüm binde 315'ti; işler tamamlanmaya yaklaştığın",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı rapor kayıtlarında iskorbütün önceden beklendiği, limon suyunun ise geç ulaştığı da yazılıdır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Hemşire ekibinin Boğaz'a ulaşmasından sonraki aylarda tablo düzelmedi: aynı rapor, Britanya hastanelerinin birkaç ay boyunca hastaların neredeyse üçte birini ka",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Savaştan sonra kendi istatistiklerini, Londra'da 1858'de basılan ve ordunun sıhhi durumunu inceleyen kraliyet komisyonu raporundan yeniden üretilen, tablo ve çi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Mirasın nasıl okunacağı tıp yazınında ayrı bir başlıktır: Gill ve Gill'in 2005'te Clinical Infectious Diseases dergisinde yayımladığı inceleme, konuyu doğrudan ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Rus cerrah Nikolay Pirogov'un cephede kurduğu sahra cerrahisi düzenine başka ordular ancak Birinci Dünya Savaşı'nda ulaşabildi.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Mary Seacole kendi anlatısında Savaş Bakanlığı'na, ardından ordunun ikmal dairesine ve sağlık dairesine başvurduğunu, sonunda Nightingale'in ekibine katılmayı d",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Reddin gerekçesini kendisi de tam bilmez; anlatısında bunun ten rengiyle ilgili olup olmadığını açıkça sorar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bunun üzerine yolculuğunu kendi parasıyla yaptı: sınırlı sermayesinin büyük bölümünü ilaçlara yatırdı, kalanıyla İngiltere dışında bulunması güç olacağını düşün",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fransızlar 1854 sonunda telgraf hattını Karadeniz kıyısına uzattığında haberler Londra'ya iki günde, Britanya 1855 Nisan'ında denizaltı kablosunu döşediğinde bi",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Günlük haberlerin kamuoyunda yarattığı basınç, Aberdeen hükûmetini düşürüp Palmerston'ı başbakanlığa taşıdı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Roger Fenton'ın 1855'te Kırım'da çektiği ve cam negatiften tuzlu kâğıda basılan karelerden biri, müze kaydına Balaklava'daki demiryolu depolarının çıkarma yeri ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Paris Antlaşması'nın on birinci maddesi Karadeniz'i tarafsız ilan eder ve sularını her ulusun ticaret filosuna açık tutarken kıyıdaş olsun olmasın hiçbir gücün ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Antlaşması, Karadeniz"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Rusya 1870'te tarafsızlaştırmayı reddettiğini bildirdi; 1871 Londra Antlaşması'nın birinci maddesi Paris metninin on birinci, on üçüncü ve on dördüncü maddeleri",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yenilgiyi izleyen yıllarda İkinci Aleksandr'ın serfliği 1861'de kaldırması, hür birliklerin serflerden kurulu bir orduyu yenmesini kurtuluşun gerekliliğine kanı",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı yenilgi, ordunun teknolojik geriliğinden yol ağının yetersizliğine kadar bir dizi eksiği görünür kıldı ve reform gündemini biçimlendirdi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaştan sonra ilan edilen 1856 tarihli Osmanlı ıslahat fermanı, gayrimüslimlerin ikinci sınıf konumunun büyük bölümünü — en görünür biçimde yalnızca onlardan a",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Savaş sürerken geniş bir kamuoyu desteği vardı; Rusya 1870'te Karadeniz kısıtını geri aldırdıktan sonra ise savaşın gereksiz ve sonuçsuz olduğu görüşü yaygınlaş",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Osmanlı Devleti aynı antlaşmayla Avrupa uyumuna kabul edildi ve büyük güçler bağımsızlığına ve toprak bütünlüğüne saygı sözü verdi — savaşın en somut kazanımı b",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bir savaşın kaç kişiye mal olduğunu söylemek, hangi ordunun kaydı düzgün tuttuğuna bağlıdır; burada aynı savaşın ölüleri için Osmanlı tarafında 45.400 ile 400.0",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

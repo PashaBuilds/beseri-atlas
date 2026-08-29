@@ -1,4 +1,6 @@
 ---
+import fs from 'node:fs';
+import path from 'node:path';
 import { render } from 'astro:content';
 import Temel from '../../layouts/Temel.astro';
 import AygitRayi from '../../components/AygitRayi.astro';
@@ -33,6 +35,26 @@ export async function getStaticPaths() {
 const { girdi, korpus, donemler } = Astro.props;
 const v = girdi.data;
 const { Content, headings } = await render(girdi);
+
+// Hakem katmani: makale kor bir hakemden gectiyse iddia-kaynak matrisi vardir.
+// Bunu okura soylemek zorunludur — "denetlendi" ifadesi tek basina, mekanik
+// katmanin gordugu kadariyla denetlenmis bir dosyayla hakemden gecmis bir
+// dosyayi ayni gosterir. Matris yoksa beyan bunu da acikca soyler.
+let hakem: { dogrudan: number; kismi: number; iddia: number; zaman: string } | null = null;
+try {
+  const matrisYolu = path.join(process.cwd(), 'denetim', 'matris', `${v.id}-matris.json`);
+  if (fs.existsSync(matrisYolu)) {
+    const mat = JSON.parse(fs.readFileSync(matrisYolu, 'utf8'));
+    if (String(mat.hakem ?? '').startsWith('kor-hakem')) {
+      hakem = {
+        dogrudan: mat.sayaclar?.dogrudan ?? 0,
+        kismi: mat.sayaclar?.kismi ?? 0,
+        iddia: (mat.iddialar ?? []).length,
+        zaman: String(mat.zaman ?? '').slice(0, 10),
+      };
+    }
+  }
+} catch { /* bozuk matris beyani degistirmez */ }
 // İçindekiler: yalnızca h2 başlıklar; kısa makalede gürültü olmasın diye
 // 4'ten az bölümde gösterilmez.
 const bolumler = (headings ?? []).filter((h: { depth: number }) => h.depth === 2);
@@ -115,6 +137,19 @@ const komsu = komsular(korpus, girdi);
         Bu makale otonom olarak üretildi ve otonom olarak denetlendi
         (son denetim: {v.son_denetim}, {v.kaynaklar.length} kaynak,
         güven seviyesi: {GUVEN_ADLARI[v.guven_geneli].toLocaleLowerCase('tr')}).
+        {hakem ? (
+          <span>
+            {' '}Bu dosya ayrıca <strong>kör hakemden geçti</strong>: makaleyi yazmamış
+            bir oturum {hakem.iddia} iddianın kaynağını tek tek sınadı ({hakem.zaman}) ve
+            {' '}{hakem.dogrudan} tanesini kaynağın doğrudan taşıdığı,
+            {' '}{hakem.kismi} tanesini kısmen taşıdığı olarak kaydetti.
+          </span>
+        ) : (
+          <span>
+            {' '}Bu dosya <strong>henüz kör hakemden geçmedi</strong>; denetimi mekanik
+            katmanın gördüğü kadarıyla sınırlıdır.
+          </span>
+        )}
         Ölçülen doğrulama oranı ve bilinen sınırlar için <a href={bag("/hakkinda/")}>Hakkında</a>.
       </p>
 

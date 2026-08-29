@@ -22,6 +22,43 @@ const hamYuzde = son && typeof son.ham_skor === 'number' ? Math.round(son.ham_sk
 // olcumden sonra buyudugunde beyanin eskidigi okura acikca soylenir.
 const olcumTarihi = son?.zaman ? String(son.zaman).slice(0, 10) : null;
 const olcumKorpusu = son?.korpus_boyutu ?? null;
+// Iki katmanli dogrulamanin durumu — derleme aninda olculur, elle yazilmaz.
+// Mekanik katman her dipnotlu iddiayi kaynak metninde ARAR; bulamadigini
+// "yanlis" degil OLCULEMEDI (ATOMSUZ) sayar. Hakem katmani ise bir kor
+// hakemin iddia-kaynak matrisini kesinlestirmesidir. Ikisinin arasindaki
+// fark okurdan gizlenmemelidir: mekanik gecmek dogrulanmis olmak degildir.
+function ikiKatman() {
+  const kok = process.cwd();
+  const matrisDizini = path.join(kok, 'denetim', 'matris');
+  const raporDizini = path.join(kok, 'denetim', 'raporlar');
+  let hakemli = 0;
+  if (fs.existsSync(matrisDizini)) {
+    for (const f of fs.readdirSync(matrisDizini).filter((x) => x.endsWith('-matris.json'))) {
+      try {
+        const mat = JSON.parse(fs.readFileSync(path.join(matrisDizini, f), 'utf8'));
+        if (String(mat.hakem || '').startsWith('kor-hakem')) hakemli += 1;
+      } catch { /* bozuk matris sayilmaz */ }
+    }
+  }
+  let ok = 0; let atomsuz = 0; let hata = 0; let isaret = 0;
+  if (fs.existsSync(raporDizini)) {
+    for (const f of fs.readdirSync(raporDizini).filter((x) => x.endsWith('.json') && !x.includes('curutucu'))) {
+      try {
+        for (const s of JSON.parse(fs.readFileSync(path.join(raporDizini, f), 'utf8')).sonuclar || []) {
+          if (s.durum === 'OK') ok += 1;
+          else if (s.durum === 'ATOMSUZ') atomsuz += 1;
+          else if (s.durum === 'HATA') hata += 1;
+          else if (s.durum === 'ISARET') isaret += 1;
+        }
+      } catch { /* bozuk rapor sayilmaz */ }
+    }
+  }
+  return { hakemli, ok, atomsuz, hata, isaret, toplam: ok + atomsuz + hata + isaret };
+}
+const katman = ikiKatman();
+const atomsuzYuzde = katman.toplam ? Math.round((katman.atomsuz / katman.toplam) * 100) : 0;
+const hakemYuzde = korpus.length ? Math.round((katman.hakemli / korpus.length) * 100) : 0;
+
 const ortKaynak = korpus.length
   ? (korpus.reduce((a: number, e: any) => a + e.data.kaynaklar.length, 0) / korpus.length).toFixed(1)
   : '0';
@@ -68,6 +105,29 @@ const ortKaynak = korpus.length
         tek bir cevabı savunmaz, tarafları kaynaklarıyla aktarır ve çoğu zaman
         bir tartışma haritasına bağlanır. Etiket makalenin tamamı için genel bir
         işarettir; tek tek cümlelerin desteği dipnotlardan izlenir.
+      </p>
+      <h3 id="iki-katman">Denetimin iki katmanı</h3>
+      <p>
+        Bir iddianın dipnotlu olması doğrulanmış olduğu anlamına gelmez. Bu
+        korpusta denetim iki ayrı katmanda yürür ve ikisi farklı şeyler söyler.
+        <strong>Mekanik katman</strong> her dipnotlu cümleyi kaynağın metninde
+        arar; eşleşme bulamadığında bunu “yanlış” değil <strong>ölçülemedi</strong>
+        sayar, çünkü bir alt dize bulunamaması iddianın çürütüldüğü anlamına
+        gelmez. Şu an {katman.toplam.toLocaleString('tr')} dipnotlu iddianın
+        {' '}{katman.ok.toLocaleString('tr')} tanesi kaynak metninde bulundu,
+        {' '}<strong>{katman.atomsuz.toLocaleString('tr')} tanesi (%{atomsuzYuzde}) hiç ölçülemedi</strong>.
+        Bu oranın yüksekliği bir kusurun itirafıdır, bir başarı ölçüsü değil.
+      </p>
+      <p>
+        <strong>Hakem katmanı</strong> ayrı bir okumadır: makaleyi yazmamış,
+        yazarın gerekçelerini görmemiş bir oturum her iddianın kaynağını tek tek
+        sınar, desteğin düzeyini (doğrudan / kısmi / bağlam / çelişir) yazar ve
+        makaleye bağlanmış bir kayıt bırakır. Yazan ile denetleyenin ayrılması
+        bu katmanın tek şartıdır. Bu katmandan geçmiş makale sayısı
+        {' '}<strong>{katman.hakemli} / {korpus.length}</strong> (%{hakemYuzde});
+        geri kalanı yalnızca mekanik katmanın gördüğü kadar denetlenmiştir.
+        Bir makalenin hakemden geçip geçmediği, o makalenin künye bölümünden
+        izlenebilir.
       </p>
       <p class="beyan__vurgu">
         Site, kitapların yerine değil, <strong>onlara giden yol</strong> olarak

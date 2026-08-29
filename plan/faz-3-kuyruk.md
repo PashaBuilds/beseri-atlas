@@ -29,11 +29,56 @@ yazılır; "bitti" beyanı yalnız gerçekten biten katman için yapılır.
 9. tartisma-soykirim-kavrami (272)
 10. tartisma-imparatorluk-nufusu-nasil-sayilir (276)
 
-### P2 — tartışma kalan 24 (bütçe elverirse)
-### P3 — olay katmanı en kötü 20 (özellikle ROL bulgularıyla kesişenler:
-olay-yazinin-icadi 472, olay-neolitik-devrim, olay-kara-olum vb.)
-### P4 — düşünür boş-içerik kümesi (ROL 13'ün 29 dosyası; marx deseni şablon alınır)
-### P5+ — aktör/kavram kalanı
+### P2 — tartışma kalan 24  ✔ TAMAMLANDI
+### P3 — tartışma son 14  ✔ TAMAMLANDI (katman 40/40 hedefte, açık 0)
+
+### P4 — olay katmanı (29 Ağustos ölçümü, DÜZELTİLMİŞ)
+
+**Önce bir düzeltme.** Bu bölümün ilk hâlinde "99 olay dosyasının tamamı
+hedef altında, açık 100.020 kelime" yazıyordu. O sayılar yanlıştı: kendi
+ölçüm betiğimde elle yazdığım eşiklerden (olay 1500, kavram 1200) geliyordu.
+Kanonik eşikler KAPI 11'in tablosundadır ve şartname §3'ten birebir alınmıştır
+(olay/aktör/düşünür 1200, kavram 600; `veri` ve `kaynak` tiplerinde hedef
+YOKTUR). Ölçüm aracı artık o tabloyu içe aktarıyor. Kanonik tablo:
+
+| Tip | Adet | Hedef altı | Açık kelime |
+|---|---|---|---|
+| olay | 99 | 76 | 64.613 |
+| aktör | 122 | 61 | 53.925 |
+| düşünür | 54 | 35 | 30.038 |
+| kavram | 90 | 41 | 12.937 |
+| dönem · tartışma · veri · kaynak | 140 | 0 | 0 |
+| **toplam** | **505** | **213** | **161.513** |
+
+Bu, kendi kendine ölçen bir depoda üçüncü tanım ayrışmasıydı (öncekiler:
+kelime sayımı ve "birincil kaynak"). Ders kayda geçti: bir eşik ya da tanım
+iki yerde duruyorsa, biri er geç yanlış olur; ölçüm araçları kapıların
+tanımlarını içe aktarmalı, kopyalamamalıdır.
+
+Olay dosyalarının çoğu yine de 200-300 kelimelik taslak:
+Wikipedia'dan türetilmiş, şablon dolgusuyla şişirilmiş, konuyla ilgisiz
+"aynı dönemin çatışma serisi" tarzı bölümler taşıyor. Bu yüzden olay
+onarımı bir *genişletme* değil *yeniden yazım*dır.
+
+Dalga 1 (en kötü 6): yesil-devrim 196, berlin-duvarinin-yikilisi 202,
+italyan-birligi 212, kirim-savasi 221, 11-eylul 224, afyon-savaslari 229.
+
+### P5 — aktör (120 dosya hedef altında, açık 88.899)
+### P6 — kavram (90 dosya, açık 65.315)
+### P7 — kaynak (59 dosya, açık 63.436) · veri (25 dosya, açık 31.205)
+### P8 — düşünür (54 dosya, açık 62.121; ROL 13'ün boş-içerik kümesi burada)
+
+### Kapanan kuyruk maddeleri
+- terimler.yaml "Kavimler Göçü / Migration Period" tuzağı: kayda uyarı
+  notu düşüldü (kör hakem bulgusu).
+- Ölü kütük kayıtları: 63 yer tutucu silindi, kütük 333 → 270 ad;
+  KAPI 16 artık ölü kayıt sayısını özet satırında yazıyor.
+- tarihsel-sayilar'a giden konu dışı `::tartismali` bağları: yeniden
+  ölçüldü, 67 işaretin tamamı sayı/ölçü sözcük alanında — onarım
+  dalgaları ilgisiz olanları zaten temizlemiş. Madde kapandı.
+- KAPI 19 kör noktası: kapı tek seriye bağlıydı, seri kütüğüne
+  genişletildi (7 seri, 312 ölçülen iddia) ve ölçülemeyen sayı yüzeyi
+  (4611 sayının 4299'u) özet satırında görünür kılındı.
 
 ## Kural setleri (promptlara giren sabitler)
 - Yazım: tip hedefi; ilk iki paragraf konu+önem; KAPI 18 kalıpları 0;

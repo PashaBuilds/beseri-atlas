@@ -1,6 +1,6 @@
 {
   "mod": "--lint",
-  "zaman": "2026-08-29T14:12:17.897Z",
+  "zaman": "2026-08-29T14:48:05.865Z",
   "gecti": true,
   "makale_sayisi": 505,
   "kapilar": [
@@ -29,7 +29,7 @@
       "kapi": "KAPI 5 — link butunlugu",
       "gecti": true,
       "hata": 0,
-      "uyari": 0,
+      "uyari": 8,
       "hatalar": []
     },
     {
@@ -54,9 +54,9 @@
       "hatalar": [],
       "olcum": {
         "olculen": 421,
-        "hedefTutan": 202,
-        "borclu": 219,
-        "eksikKelime": 167429,
+        "hedefTutan": 208,
+        "borclu": 213,
+        "eksikKelime": 161513,
         "tipOzet": {
           "donem": {
             "n": 16,
@@ -65,8 +65,8 @@
           },
           "olay": {
             "n": 99,
-            "tutan": 17,
-            "eksik": 70529
+            "tutan": 23,
+            "eksik": 64613
           },
           "aktor": {
             "n": 122,
@@ -99,11 +99,11 @@
       "hatalar": [],
       "olcum": {
         "olculen": 505,
-        "toplamKunye": 1961,
-        "kuralIhlali": 180,
-        "birincilsiz": 213,
-        "toplamGiris": 651,
-        "birincilKunye": 451,
+        "toplamKunye": 1997,
+        "kuralIhlali": 175,
+        "birincilsiz": 207,
+        "toplamGiris": 646,
+        "birincilKunye": 479,
         "turlenmemis": 0
       }
     },
@@ -119,7 +119,15 @@
       "gecti": true,
       "hata": 0,
       "uyari": 0,
-      "hatalar": []
+      "hatalar": [],
+      "olcum": {
+        "toplam": 301,
+        "dogrulanmis": 160,
+        "kismi": 58,
+        "kisiDegil": 83,
+        "kutuk": 270,
+        "olu": 1
+      }
     },
     {
       "kapi": "KAPI 17 — ozet sure iddiasi",
@@ -135,22 +143,24 @@
       "uyari": 0,
       "hatalar": [],
       "olcum": {
-        "atlas_oz": 2590,
-        "bu_dosya": 1455,
+        "atlas_oz": 2587,
+        "bu_dosya": 1448,
         "ayrica_kaydeder": 1003,
-        "sablon_kapanis": 542,
-        "borclu": 446
+        "sablon_kapanis": 536,
+        "borclu": 440
       }
     },
     {
-      "kapi": "KAPI 19 — sayisal dogrulama (nufus kalip cumleleri)",
+      "kapi": "KAPI 19 — sayisal dogrulama (yerel seri kutugu)",
       "gecti": true,
       "hata": 0,
       "uyari": 0,
       "hatalar": [],
       "olcum": {
-        "olculen": 302,
-        "dogru": 302
+        "olculen": 305,
+        "dogru": 305,
+        "yuzey": 4948,
+        "seri": 7
       }
     }
   ]

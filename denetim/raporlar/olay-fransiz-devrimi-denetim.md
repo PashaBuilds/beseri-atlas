@@ -1,5 +1,5 @@
 ## olay-fransiz-devrimi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:26.860Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:44.747Z_
 
 - [OK]      k1 → "Fransız Devrimi, Fransa'da 1789'daki Etats-Généraux ile başlayan ve on yıl sonra, 9 Kasım 1799'daki 18 Brumair…" — 4 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Kaynağın kaydına göre vergi oranları bölgeden bölgeye büyük ölçüde değişiyor, çoğu zaman resmî tutarlardan far…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

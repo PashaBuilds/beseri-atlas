@@ -1,5 +1,5 @@
 ## dusunur-wang-yangming
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:35.863Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.641Z_
 
 - [OK]      k1 → "Wang Yangming, kendi zamanında resmî doğru sayılan bir metin yorumunun karşısına, aynı metin geleneğinin içind…"
 - [ATOMSUZ] k2 → "Bu, atlasın kaydettiği bir örüntünün en açık örneğidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

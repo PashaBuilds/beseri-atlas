@@ -1,5 +1,5 @@
 ## olay-buyuk-buhran
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:26.367Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:44.282Z_
 
 - [OK]      k1 → "Büyük Buhran 1929'da başladı ve dönemin diplomatik gündeminde "1929'da başlayan buhrana verilen tepkiler" ile …" — 2 atom doğrulandı; 1 ad ölçülemedi
 - [OK]      k2 → "Wecter'in klasik incelemesi de dönemi daha başlığında 1929–1941 olarak çerçeveler."

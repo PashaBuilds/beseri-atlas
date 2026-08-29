@@ -1,5 +1,5 @@
 ## donem-07
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:23.336Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:41.278Z_
 
 - [OK]      k2 → "Bu dönemin ayırt edici özelliği, Avrasya'nın uçlarının ilk kez tek bir siyasi yapı üzerinden birbirine bağlanm…" — 2 atom doğrulandı; 3 ad ölçülemedi
 - [OK]      k1 → "Selçuklular, Türklerin İslami devirde kurdukları en büyük hanedanlardan biridir ve 1040-1308 yılları arasında …"

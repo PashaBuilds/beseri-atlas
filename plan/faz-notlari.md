@@ -4665,3 +4665,53 @@ iki adın karıştırılması (iç çelişki), boş kalmış "Hattuşa'nın terk
 başlığı, Ugarit mektuplarının ansiklopedik aktarım halkasının
 gizlenmesi, ve bir süs dipnotu (özetsiz Crossref kaydına yaslanmış
 yöntem hükmü).
+
+### Kendi kural ihlalim: `git checkout --`
+
+Ölçüm aracının saflığını sınarken `git checkout -- denetim/kaynak-borcu.md`
+komutunu kullandım. Sözleşme bu komut sınıfını (reset / checkout -- / clean)
+açıkça yasaklıyor ve haklı olarak yasaklıyor: kullanıcının ya da önceki
+oturumun çalışmasını sessizce silebilir. Kayıp olup olmadığını denetledim:
+dosya `araclar/linter-kaynak.mjs` tarafından her koşuda baştan yazılan bir
+üretim çıktısı ("Elle düzenlenmez" notu dosyanın kendi başlığında duruyor)
+ve kapı yeniden koşturulunca aynı içerik üretildi. Yani bu seferlik kayıp
+yok — ama komut yine de kullanılmamalıydı; saflık sınaması dosyayı geri
+almadan, kopya üzerinden yapılabilirdi.
+
+### Ölçüm aracının kendi yan etkisi
+
+`araclar/fotograf.mjs` kaynak bileşimini KAPI 13'ten okuyor. İlk hâlinde
+kapıyı çağırmak borç defterini de yazıyordu: ölçen araç ölçtüğü şeyi
+değiştiriyordu — fikstürün gerçek dil defterini ezmesiyle aynı hata sınıfı.
+`kaynakDenetimi` artık `borcDefteriYaz` seçeneği alıyor; fotoğraf ölçer,
+yazmaz.
+
+Aynı bölümde ikinci bir ders: bileşim sayılarını kendim hesaplamıştım ve
+kapıdan farklı çıktı (251'e karşı 209), çünkü "birincil"in tanımı künyedeki
+`tur` alanı değil havuzda birincil ilan edilmiş ALAN ADI. Kendi kopyamı
+sildim; fotoğraf artık kapının ölçümünü okuyor. Tanım tek yerde durmalı.
+
+### Karşılıklı bağ kuralına hub istisnası
+
+KAPI 5, tek yönlü `ilgili` bağlarını uyarı olarak gösteriyor. Olay dalgası
+22 yeni tek yönlü bağ üretti. Hepsini karşılıklı yapmak doğru değil:
+`tartisma-tarihsel-sayilar-nasil-okunur` zaten 60, `donem-14` 40 bağ
+taşıyor. Bunlar hub sayfalar; her yeni makaleden geri bağ eklemek onların
+ilgili listesini kullanılamaz hâle getirir. Uygulanan kural: hedefin
+mevcut bağ sayısı 20'nin altındaysa geri bağ eklenir, üstündeyse
+asimetri kabul edilir. Bu dalgada 13 geri bağ eklendi, 6 hub atlandı.
+Kapı bunu hata saymıyor (uyarı düzeyinde), o yüzden kapıya dokunulmadı.
+
+### Üçüncü tanım ayrışması: uzunluk hedefleri
+
+Ölçüm aracına (`araclar/fotograf.mjs`) hedef eşiklerini elle yazmıştım.
+Kanonik eşikler KAPI 11'in `HEDEFLER` tablosundadır ve şartname §3'ten
+birebir alınmıştır. Aradaki fark küçük değildi: kendi tablomla 446 dosya
+hedef altı ve 360.601 kelime açık görünüyordu; kanonik tabloyla 213 dosya
+ve 161.513 kelime. Fark iki yerden geliyor — kanonik eşikler daha düşük
+(olay 1200, kavram 600) ve `veri` ile `kaynak` tiplerinde şartname hedef
+vermiyor, dolayısıyla o 84 dosya hiç borçlu değil.
+
+Bu, bu depoda aynı hatanın üçüncü tekrarı (önce kelime sayımı, sonra
+"birincil kaynak" tanımı). Kural: ölçüm araçları kapıların tanımlarını
+İÇE AKTARIR, kopyalamaz.

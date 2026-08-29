@@ -1,5 +1,5 @@
 ## olay-kore-savasi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:27.870Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:45.962Z_
 
 - [OK]      k1 → "paralel çevresindeki çarpışmaları Ocak-Haziran 1951'e, tıkanıklığı Temmuz 1951-Temmuz 1953'e, ateşkesi Temmuz …" — 6 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "Bölümlemenin son maddesinin bir bitiş tarihi taşımaması, savaşın hukuken kapanmadığını gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

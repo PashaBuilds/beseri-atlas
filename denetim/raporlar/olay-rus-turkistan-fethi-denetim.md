@@ -1,5 +1,5 @@
 ## olay-rus-turkistan-fethi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:28.918Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:46.969Z_
 
 - [ATOMSUZ] k1 → "On dokuzuncu yüzyılın ortasından sonuna kadar süren bir dizi seferle, bölgedeki üç hanlık kuzeyden gelen bir i…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Üç hanlığın akıbeti aynı olmadı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## kavram-vesayet-yonetimi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:38.500Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.112Z_
 
 - [ATOMSUZ] k1 → "Vesayet yönetimi, Birinci Dünya Savaşı sonunda yenilen devletlerin elinden çıkan toprakların, kazanan devletle…" — programatik olarak ölçülemedi (ad karşılığı yok): Birinci, Dünya, Savaşı
 - [ATOMSUZ] k1 → "Metin, bu toprakları "henüz kendi kendini yönetemeyecek" durumda sayar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

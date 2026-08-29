@@ -1,5 +1,5 @@
 ## dusunur-asoka
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:34.340Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:52.204Z_
 
 - [ATOMSUZ] k1 → "Aşoka, Maurya hanedanının hükümdarlarından biridir ve atlasta dosyası o siyasi birimi ayrıca ele alır." — programatik olarak ölçülemedi (ad karşılığı yok): Maurya
 - [ATOMSUZ] k1 → "Aktör dosyaları siyasi birimleri kaydeder; düşünür dosyaları, adı bir metne bağlanabilen kişileri." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

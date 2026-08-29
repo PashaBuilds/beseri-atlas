@@ -1,5 +1,5 @@
 ## dusunur-ulug-bey
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:35.805Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.588Z_
 
 - [OK]      k1 → "Uluğ Bey, on beşinci yüzyılda Semerkant ve çevresini yöneten bir hükümdardır."
 - [ATOMSUZ] k3 → "Yönetim süresi uzun, hükümdarlık süresi kısadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

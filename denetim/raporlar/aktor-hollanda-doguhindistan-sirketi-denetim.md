@@ -1,5 +1,5 @@
 ## aktor-hollanda-doguhindistan-sirketi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:31.649Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.610Z_
 
 - [OK]      k1 → "Şirket 1602-1799 arasında faaliyet gösteren bir Hollanda ticaret şirketiydi ve kuruluşundan önce sekiz yıl sür…"
 - [OK]      k1 → "Şirketin selefleri, 1594-1602 arasında faaliyet gösteren voorcompagnieën yani ön-şirketlerdir; bunlar arasında…"

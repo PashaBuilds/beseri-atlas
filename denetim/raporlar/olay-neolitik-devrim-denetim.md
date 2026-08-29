@@ -1,5 +1,5 @@
 ## olay-neolitik-devrim
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:28.442Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:46.509Z_
 
 - [OK]      k2 → "Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı; terimi Orta Doğu tarihindeki bir diz…"
 - [OK]      k1 → "Gordon Childe, 1936 tarihli Man Makes Himself adlı kitabında ortaya attı; terimi Orta Doğu tarihindeki bir diz…"

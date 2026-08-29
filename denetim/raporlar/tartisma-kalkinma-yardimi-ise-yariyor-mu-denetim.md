@@ -1,5 +1,5 @@
 ## tartisma-kalkinma-yardimi-ise-yariyor-mu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T10:52:44.791Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.604Z_
 
 - [OK]      k12 → "Ölçek küçük değildir; alıcı ülkelere ulaşan net resmî kalkınma yardımı, sabit dolarla 1960'ta yaklaşık 34 mily…"
 - [OK]      k12 → "Seri düz de yükselmez: 1990'da 90 milyara yaklaşmış, 2005'te 123 milyarı geçmiş ve 1960-2021 arasını kapsayan …"

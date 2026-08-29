@@ -1,5 +1,5 @@
 ## tartisma-imparatorluk-nufusu-nasil-sayilir
-_Geçiş 2 — kaynak denetimi · 2026-08-29T13:57:41.902Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.417Z_
 
 - [OK]      k2 → "Augustus, mezarının önüne dikilmek üzere bıraktığı yazıtta üç sayım toplamıyla övünür: MÖ 28 sayımında 4.063.0…"
 - [OK]      k1 → "Bu üç rakam, antik dünyanın en iyi belgelenmiş nüfus verileri arasındadır; yine de aynı üç rakamdan İtalya içi…"

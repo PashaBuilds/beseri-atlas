@@ -1,15 +1,56 @@
 ## olay-italyan-birligi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:27.598Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:47:41.720Z_
 
-- [OK]      k1 → "Kaynak birliği tek bir olay olarak değil bir dizi olarak bölümler: Cavour ve birleşme beklentileri, Pisacane b…" — 4 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bölümlemede bir başarısızlığın kendi başlığını taşıması, birleşme anlatısının yalnızca zaferlerden kurulmadığı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Atlas bu ayrıntıyı kaydeder: ulusal birleşme anlatıları genellikle başarısızlıkları anlatının dışında bırakır;…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Sürecin bir aşaması, var olan bir krallığın yenilgisi olarak kaydedilir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Birleşmenin, boş bir alanda kurulma değil mevcut devletlerin tasfiyesi olarak anlatılması, "ulusal birlik" kav…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Aynı dönemde bir başka birleşme yürüyordu: Prusya hegemonyası tasavvuru, Alman devletlerinin birleşmesi ile Av…" — 5 atom doğrulandı; 3 ad ölçülemedi
-- [ATOMSUZ] k1 → "İki birleşmenin aynı on yıllara düşmesi, atlasın dönem karşılaştırmalarının malzemesidir; diğeri dosyasında el…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "İki birleşmenin aynı on yıllara düşmesi, atlasın dönem karşılaştırmalarının malzemesidir; diğeri dosyasında el…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yaklaşık 1,82 milyardır."
-- [OK]      k1 → "Savaşların seyri, siyasi aktörlerin konumları, Roma sorunu ve birleşme sonrası dönem burada ayrı başlıklar alt…"
+- [OK]      k9 → "Yüzyılın ortasında birbirini dışlayan üç proje aynı anda dolaşımdaydı: papanın başkanlığında bir devletler kon…"
+- [OK]      k9 → "17 Mart 1861'de Torino'da toplanan ilk İtalyan parlamentosu Vittorio Emanuele'yi İtalya kralı ilan etti; 27 Ma…"
+- [OK]      k6 → "O gün Venedik Avusturya'nın, Roma papanın elindeydi; Güney ise bir yıl önce silahla alınmıştı ve iki yıl sonra…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Piemonteli bir rahip olan Vincenzo Gioberti, İtalyanların ahlaki ve medeni önceliği üzerine yazdığı kitapta, y…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Kendi vurgusuna göre bunun için papaya yeni bir yetki vermek gerekmiyordu; kesintiye uğramış ama ortadan kalkm…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Öneriye Pius IX önce ilgi duyar göründü; ama papa kısa sürede tersine döndü ve liberalizmle milliyetçiliğe kar…"
+- [OK]      k9 → "Aynı yıllarda Giuseppe Mazzini ile Carlo Cattaneo federal bir cumhuriyet, Cesare Balbo ise Piemonte önderliğin…"
+- [OK]      k2 → "Dergisinin kendi alt başlığı, İtalya'nın siyasi, ahlaki ve edebi durumu üzerine, ülkenin yeniden doğuşuna yöne…"
+- [ATOMSUZ] k2 → "Mazzini için mesele yalnızca Avusturya'yı kovmak değildi: ayaklanmaların bölge bölge patlamasından şikâyet edi…" — programatik olarak ölçülemedi (ad karşılığı yok): Avusturya
+- [OK]      k2 → "Carlo Alberto, dergi sınırdan içeri sızmayı başarınca, dinin, ahlakın ve monarşinin ilkelerine aykırı yayınlar…"
+- [OK]      k2 → "Ceza kâğıt üzerinde kalmadı: 1833'te Chambéry'de onbaşı Giuseppe Tamburelli, dergiyi bir askere okuttuğu ya da…"
+- [OK]      k3 → "1852'de başbakan olan Cavour, Kırım Savaşı'nda ittifaka katıldı, 1858-59'da Avusturya'ya karşı savaşta Napolyo…" — 4 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k3 → "Cavour, Roma'nın İtalya'nın başkenti olması gerektiğini söylüyor, başkent sorunu çözülmedikçe eyaletler arasın…"
+- [ATOMSUZ] k3 → "Kendi seçim bölgesi Torino'nun bu iddiadan vazgeçmesini istemek ona acı verdiğini de açıkça söyledi." — programatik olarak ölçülemedi (ad karşılığı yok): Torino
+- [OK]      k3 → "Asıl önemlisi, Roma'ya gidişe koyduğu iki şarttı: Fransa ile birlikte gidilecekti, yoksa birleşme dünya Katoli…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k3 → "Cavour bu şartlar tutulursa papalıkla devlet arasında bir barışın kurulabileceğini umuyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Konuşmasından birkaç ay sonra, 6 Haziran 1861'de öldü." — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Avusturya 4 Haziran'da Magenta'da yenildi, Solferino'da Fransız-Piemonte kuvvetleri karşısında müzakereye zorl…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "İki taraf da anlaşmanın dışına çıkmıştı: Napolyon III Venedik alınmadan savaştan çekilmiş, Cavour ise ayaklanm…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Sardinya, Toskana Büyük Dukalığı, Parma ve Modena dukalıkları ile papalık legasyonlarından oluşan Orta İtalya …" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k4 → "Seferin siyasi anlamı ilk günlerde belirlendi: Marsala'da diktatörlükten söz edildi, ertesi gün Salemi'de ilan…"
+- [ATOMSUZ] k4 → "Garibaldi kendi anlatısında bunu, cumhuriyetçi "saflar"ın sonradan açıkça dile getirdiği itiraza rağmen alınmı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Garibaldi, Palermo'da Savoy monarşisinin yandaşlarının halkı Bin'e karşı kuşkuya sürüklediğini ve vaktinden ön…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Ekim ayında Vittorio Emanuele ordusuyla güneye indi; Garibaldi Teano'da onu İtalya kralı diye selamladı, dikta…"
+- [OK]      k5 → "31 Aralık 1861'i 1 Ocak 1862'ye bağlayan gece yapılan sayımın bakan tarafından krala sunulan raporuna göre kra…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Rapor, o güne kadar nüfusun İtalya'nın neredeyse her yerinde nüfus kütüklerinden kestirildiğini ve bu yöntemin…"
+- [OK]      k7 → "Devletin kendi istatistik yıllığı, 1861 seçim rakamlarının Veneto ve Roma olmadan hesaplandığını dipnotta beya…"
+- [OK]      k9 → "Venedik 1866'daki savaşın ardından, 21-22 Ekim'de yapılan bir halk oylamasıyla katıldı: 642 binden fazla oyun …" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Roma ise 1870'te Fransa-Prusya Savaşı'nın açtığı boşlukta alındı; Napolyon III garnizonunu geri çekti, üç saat…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "Başkent Floransa'dan Roma'ya resmen ancak temmuz 1871'de taşındı."
+- [OK]      k7 → "Devletin istatistik yıllığı, 1861'den 1876'ya kadarki altı genel seçimin her biri için yüz kişiye düşen seçmen…"
+- [OK]      k7 → "Aynı satırda seçim çevrelerinin sayısı 443 olarak verilir; tablo oranı bir de yalnızca erkek nüfusa böler, ama…"
+- [OK]      k7 → "Aynı tabloya göre seçmenlerin sandığa gitme sıklığı 1870'te en düşük, 1876'da en yüksek düzeydeydi."
+- [OK]      k9 → "Alessandro Manzoni'nin romanının 1840 basımı, insanları öğrenmeye zorlayacak bir dil sağlamak için bilinçli ol…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k6 → "Temsilciler Meclisi, üyelerinden bir bölümünü en çok etkilenen yerlere gönderip eşkıyalığın nedenlerini, o gün…" — programatik olarak ölçülemedi (ad karşılığı yok): Meclisi
+- [OK]      k6 → "Komisyon işe Torino'da bakanlıklardan gelen belgeleri inceleyerek başladı, sonra Napoli'ye geçti; Molise, Bari…"
+- [OK]      k6 → "Abruzzo ve Calabria'ya gitmek istedi ama zaman yetmeyeceği için vazgeçti — raporun kendi beyan ettiği sınırdır…"
+- [OK]      k6 → "Siyasi krizin tek başına yeterli sayılmasının hata olacağını söyler ve gerekçesini bir karşılaştırmaya dayandı…"
+- [OK]      k6 → "Komisyon bunun yerine iç içe geçmiş etkenleri sayar: topraksız tarım işçisinin yoksulluğu ve toprağa hiçbir ba…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "1861'in ilk sekiz ayında 365, 1862'de 591, 1863'ün ilk üç ayında 79 kişi kurşuna dizildi; çatışmada ölenlerle …"
+- [ATOMSUZ] k6 → "Komisyonun önerisi, eşkıyalık suçlarında yargı yetkisinin askeri mahkemelere devredilmesiydi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k8 → "Simonetta Soldani ile Gabriele Turi'nin 1993'te yayımladığı derlemeden bu yana sözün uydurma olduğu kabul edil…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "Gigante'nin katkısı, cümlenin Martini'den önce de dolaştığını göstermektir: De Sanctis 1872-73'te Napoli Ünive…" — 4 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k8 → "Gigante buradan, birebir aynı sözcüklerle olmasa da özü bakımından vecizenin d'Azeglio'ya iade edilebileceği s…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k9 → "Birincisi süreci bir ulus kurma işi sayar ve son çalışmaların milliyetçiliğin merkezî önemini vurguladığını be…"
+- [OK]      k9 → "Francesco Saverio Nitti, serbest piyasa düzeninin bütün ülkeye yayılmasının Güney ekonomisini Kuzey'in ağırlığ…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k9 → "1860 baharından 1861 yazına kadar Piemonte parlamentosunun önündeki soru, Kuzeyli muhabirlerin yozlaşmış ve ba…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k6 → "Aynı yıllarda meclisin kendi komisyonu, çözümü askeri mahkemelerde buluyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Sonucun kaçınılmaz olmadığını gösteren en sağlam kanıt ise kazananın kendi belgeleridir: Cavour Roma'ya Fransa…"
+- [OK]      k4 → "Sonucun kaçınılmaz olmadığını gösteren en sağlam kanıt ise kazananın kendi belgeleridir: Cavour Roma'ya Fransa…"
+- [OK]      k2 → "Sonucun kaçınılmaz olmadığını gösteren en sağlam kanıt ise kazananın kendi belgeleridir: Cavour Roma'ya Fransa…" — 2 atom doğrulandı; 2 ad ölçülemedi
 
-**Özet:** 4 OK · 0 ISARET · 0 HATA · 6 ATOMSUZ
+**Özet:** 42 OK · 0 ISARET · 0 HATA · 9 ATOMSUZ

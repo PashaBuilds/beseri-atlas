@@ -56,6 +56,7 @@ ilgili:
   - kavram-pamuk-tek-urun
   - aktor-banaba
   - aktor-yeni-hebridler-ortak-yonetimi
+  - olay-berlin-duvarinin-yikilisi
 okuma_onerisi: []
 serit:
   - bolge: avrupa

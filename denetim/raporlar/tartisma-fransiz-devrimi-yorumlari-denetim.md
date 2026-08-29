@@ -1,5 +1,5 @@
 ## tartisma-fransiz-devrimi-yorumlari
-_Geçiş 2 — kaynak denetimi · 2026-08-29T11:01:43.772Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:57.099Z_
 
 - [OK]      k1 → "yüzyıl yazıları başlıca ideolojik çizgilerde ayrışmıştı: muhafazakâr tarihçiler Devrim'i kınadı, liberaller 17…" — 2 atom doğrulandı; 2 ad ölçülemedi
 - [ATOMSUZ] k1 → "yüzyılda devrim tarihi profesyonelleşti ve araştırmacılar kamu arşivlerindeki birincil kaynakların eleştirel ç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

@@ -1,5 +1,5 @@
 ## kavram-surtunme
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:38.058Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:55.704Z_
 
 - [ATOMSUZ] k1 → "Kaynak bölümlerini sıralar: köken, askerî kullanım ve benzetimler ile oyunlar; sonuncusunun altında video oyun…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k1 → "Bir askerî kavramın maddesinde oyun tasarımının ayrı bir bölüm taşıması, atlasın şu kuralının dayanağıdır: bu …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)

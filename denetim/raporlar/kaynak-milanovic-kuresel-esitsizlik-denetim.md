@@ -1,5 +1,5 @@
 ## kaynak-milanovic-kuresel-esitsizlik
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:43.534Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:40:01.323Z_
 
 - [OK]      k1 → "Kaynak yazarı Sırp-Amerikalı bir iktisatçı olarak künyeler; 24 Ekim 1953'te Yugoslavya, Sırbistan Halk Cumhuri…" — 3 atom doğrulandı; 2 ad ölçülemedi
 - [OK]      k1 → "Kaynak yazarın alanını iktisadi eşitsizlik ve iktisadi büyüme olarak verir; Luxembourg Income Study ile ilişki…"

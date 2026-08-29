@@ -1,5 +1,5 @@
 ## tartisma-1914-savas-sorumlulugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T13:53:01.432Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:56.328Z_
 
 - [OK]      k2 → "Kavga akademik bir merakla başlamadı: 1919'da imzalanan barış antlaşması, savaşın sorumluluğunu bir hukuk madd…"
 - [ATOMSUZ] k3 → "Aynı antlaşmanın ceza bölümü sorumluluğu bir kişiye de yükledi ve eski Alman imparatorunu yargılamak için özel…" — programatik olarak ölçülemedi (ad karşılığı yok): Alman

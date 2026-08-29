@@ -1,69 +1,315 @@
 {
   "id": "olay-italyan-birligi",
   "gecis": 2,
-  "zaman": "2026-08-29T09:10:27.598Z",
-  "govde_hash": "5b72ef5f8747",
-  "commit": "7549ec6",
+  "zaman": "2026-08-29T14:47:41.720Z",
+  "govde_hash": "37036bfc419e",
+  "commit": "495dbec",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak birliği tek bir olay olarak değil bir dizi olarak bölümler: Cavour ve birleşme beklentileri, Pisacane başarısızlığı, 1859'daki İkinci İtalyan Bağımsızlık",
+      "anahtar": "k9",
+      "iddia": "Yüzyılın ortasında birbirini dışlayan üç proje aynı anda dolaşımdaydı: papanın başkanlığında bir devletler konfederasyonu, cumhuriyetçi bir halk ayaklanması ve ",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "17 Mart 1861'de Torino'da toplanan ilk İtalyan parlamentosu Vittorio Emanuele'yi İtalya kralı ilan etti; 27 Mart'ta da henüz krallığın sınırları dışında kalan R",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "O gün Venedik Avusturya'nın, Roma papanın elindeydi; Güney ise bir yıl önce silahla alınmıştı ve iki yıl sonra parlamentonun kendi soruşturma komisyonunu gönder",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Bölümlemede bir başarısızlığın kendi başlığını taşıması, birleşme anlatısının yalnızca zaferlerden kurulmadığını gösterir.",
+      "iddia": "Piemonteli bir rahip olan Vincenzo Gioberti, İtalyanların ahlaki ve medeni önceliği üzerine yazdığı kitapta, yarımadaya sayılamayacak kadar çok iyilik getirecek",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kendi vurgusuna göre bunun için papaya yeni bir yetki vermek gerekmiyordu; kesintiye uğramış ama ortadan kalkmamış eski bir hakkın yeniden işletilmesi yeterliyd",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k1",
-      "iddia": "Atlas bu ayrıntıyı kaydeder: ulusal birleşme anlatıları genellikle başarısızlıkları anlatının dışında bırakır; bu kaynak bırakmamıştır.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k9",
+      "iddia": "Öneriye Pius IX önce ilgi duyar göründü; ama papa kısa sürede tersine döndü ve liberalizmle milliyetçiliğe karşı cephe aldı.",
+      "durum": "OK",
+      "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Sürecin bir aşaması, var olan bir krallığın yenilgisi olarak kaydedilir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Birleşmenin, boş bir alanda kurulma değil mevcut devletlerin tasfiyesi olarak anlatılması, \"ulusal birlik\" kavramının içerdiği zoru görünür kılar.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "anahtar": "k9",
+      "iddia": "Aynı yıllarda Giuseppe Mazzini ile Carlo Cattaneo federal bir cumhuriyet, Cesare Balbo ise Piemonte önderliğinde bir devletler birliği öneriyordu.",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Aynı dönemde bir başka birleşme yürüyordu: Prusya hegemonyası tasavvuru, Alman devletlerinin birleşmesi ile Avusturya'nın dışlanması anlamına geliyordu ve 1864'",
+      "iddia": "Dergisinin kendi alt başlığı, İtalya'nın siyasi, ahlaki ve edebi durumu üzerine, ülkenin yeniden doğuşuna yönelen yazılar dizisi olduğunu söylüyordu.",
       "durum": "OK",
-      "not": "5 atom doğrulandı; 3 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "İki birleşmenin aynı on yıllara düşmesi, atlasın dönem karşılaştırmalarının malzemesidir; diğeri dosyasında ele alınıyor.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+      "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "İki birleşmenin aynı on yıllara düşmesi, atlasın dönem karşılaştırmalarının malzemesidir; diğeri dosyasında ele alınıyor.",
+      "iddia": "Mazzini için mesele yalnızca Avusturya'yı kovmak değildi: ayaklanmaların bölge bölge patlamasından şikâyet ediyor, tek tek eyaletlerin kıpırdanması yerine ilkel",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Avusturya"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Carlo Alberto, dergi sınırdan içeri sızmayı başarınca, dinin, ahlakın ve monarşinin ilkelerine aykırı yayınları ülkeye sokmayı bir ila üç yıl hapis ya da zincir",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ceza kâğıt üzerinde kalmadı: 1833'te Chambéry'de onbaşı Giuseppe Tamburelli, dergiyi bir askere okuttuğu ya da ödünç verdiği için kurşuna dizildi; aynı yıl avuk",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "1852'de başbakan olan Cavour, Kırım Savaşı'nda ittifaka katıldı, 1858-59'da Avusturya'ya karşı savaşta Napolyon III ile birlikte hareket etti ve 1860'ta Garibal",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Cavour, Roma'nın İtalya'nın başkenti olması gerektiğini söylüyor, başkent sorunu çözülmedikçe eyaletler arasında bitmeyen bir çekişme yaşanacağını, seçimin ikli",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kendi seçim bölgesi Torino'nun bu iddiadan vazgeçmesini istemek ona acı verdiğini de açıkça söyledi.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Torino"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Asıl önemlisi, Roma'ya gidişe koyduğu iki şarttı: Fransa ile birlikte gidilecekti, yoksa birleşme dünya Katoliklerince kilisenin köleleştirilmesi sayılırdı; ve ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Cavour bu şartlar tutulursa papalıkla devlet arasında bir barışın kurulabileceğini umuyordu.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1848'de yaklaşık 1,27 milyar, 1914'te yaklaşık 1,82 milyardır.",
+      "iddia": "Konuşmasından birkaç ay sonra, 6 Haziran 1861'de öldü.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Avusturya 4 Haziran'da Magenta'da yenildi, Solferino'da Fransız-Piemonte kuvvetleri karşısında müzakereye zorlandı; 12 Temmuz'daki Villafranca ateşkesi Lombardi",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "İki taraf da anlaşmanın dışına çıkmıştı: Napolyon III Venedik alınmadan savaştan çekilmiş, Cavour ise ayaklanmaların orta ve kuzey İtalya'ya yayılmasına göz yum",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Sardinya, Toskana Büyük Dukalığı, Parma ve Modena dukalıkları ile papalık legasyonlarından oluşan Orta İtalya Birleşik İllerini 22 Mart 1860'ta ilhak etti; iki ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Seferin siyasi anlamı ilk günlerde belirlendi: Marsala'da diktatörlükten söz edildi, ertesi gün Salemi'de ilan edildi ve \"İtalya ve Vittorio Emanuele\" sözü şiar",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Savaşların seyri, siyasi aktörlerin konumları, Roma sorunu ve birleşme sonrası dönem burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümle",
+      "anahtar": "k4",
+      "iddia": "Garibaldi kendi anlatısında bunu, cumhuriyetçi \"saflar\"ın sonradan açıkça dile getirdiği itiraza rağmen alınmış yerinde bir karar sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Garibaldi, Palermo'da Savoy monarşisinin yandaşlarının halkı Bin'e karşı kuşkuya sürüklediğini ve vaktinden önce bir ilhaka ittiğini, bunu yapanların Cavour'un ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Ekim ayında Vittorio Emanuele ordusuyla güneye indi; Garibaldi Teano'da onu İtalya kralı diye selamladı, diktatörlük yetkisini devretti ve Caprera'ya çekildi.",
       "durum": "OK",
       "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "31 Aralık 1861'i 1 Ocak 1862'ye bağlayan gece yapılan sayımın bakan tarafından krala sunulan raporuna göre krallığın 59 ilinde fiilen bulunan nüfus 21.776.953 k",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Rapor, o güne kadar nüfusun İtalya'nın neredeyse her yerinde nüfus kütüklerinden kestirildiğini ve bu yöntemin kusurlu olduğunu, kısa süre içinde ciddi sapmalar",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Devletin kendi istatistik yıllığı, 1861 seçim rakamlarının Veneto ve Roma olmadan hesaplandığını dipnotta beyan eder.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Venedik 1866'daki savaşın ardından, 21-22 Ekim'de yapılan bir halk oylamasıyla katıldı: 642 binden fazla oyun yalnızca 69'u ilhaka karşı çıktı ve tarihçiler bu ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Roma ise 1870'te Fransa-Prusya Savaşı'nın açtığı boşlukta alındı; Napolyon III garnizonunu geri çekti, üç saatlik top ateşi Porta Pia'da surları deldi ve İtalya",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Başkent Floransa'dan Roma'ya resmen ancak temmuz 1871'de taşındı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Devletin istatistik yıllığı, 1861'den 1876'ya kadarki altı genel seçimin her biri için yüz kişiye düşen seçmen sayısını tablolaştırır; 1861'de bu oran 1,92'dir,",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Aynı satırda seçim çevrelerinin sayısı 443 olarak verilir; tablo oranı bir de yalnızca erkek nüfusa böler, ama 1861 satırındaki bu ikinci değer taramada okunama",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Aynı tabloya göre seçmenlerin sandığa gitme sıklığı 1870'te en düşük, 1876'da en yüksek düzeydeydi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Alessandro Manzoni'nin romanının 1840 basımı, insanları öğrenmeye zorlayacak bir dil sağlamak için bilinçli olarak standartlaştırılmış Toskana lehçesini kullanı",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Temsilciler Meclisi, üyelerinden bir bölümünü en çok etkilenen yerlere gönderip eşkıyalığın nedenlerini, o günkü durumunu ve onu yok etmenin en uygun araçlarını",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Meclisi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Komisyon işe Torino'da bakanlıklardan gelen belgeleri inceleyerek başladı, sonra Napoli'ye geçti; Molise, Bari ve Lecce'yi dolaşıp Potenza'da toplandı, ardından",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Abruzzo ve Calabria'ya gitmek istedi ama zaman yetmeyeceği için vazgeçti — raporun kendi beyan ettiği sınırdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Siyasi krizin tek başına yeterli sayılmasının hata olacağını söyler ve gerekçesini bir karşılaştırmaya dayandırır: kriz eski Napoli krallığının bütün illerinde ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Komisyon bunun yerine iç içe geçmiş etkenleri sayar: topraksız tarım işçisinin yoksulluğu ve toprağa hiçbir bağının bulunmaması — ortakçılığın yürürlükte olduğu",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "1861'in ilk sekiz ayında 365, 1862'de 591, 1863'ün ilk üç ayında 79 kişi kurşuna dizildi; çatışmada ölenlerle birlikte toplam 3.451 ölü ve 2.768 tutuklu vardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Komisyonun önerisi, eşkıyalık suçlarında yargı yetkisinin askeri mahkemelere devredilmesiydi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Simonetta Soldani ile Gabriele Turi'nin 1993'te yayımladığı derlemeden bu yana sözün uydurma olduğu kabul edilir hâle gelmişti; Claudio Gigante'ye göre sözü d'A",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Gigante'nin katkısı, cümlenin Martini'den önce de dolaştığını göstermektir: De Sanctis 1872-73'te Napoli Üniversitesi'ndeki derslerinde d'Azeglio'nun düşüncesin",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Gigante buradan, birebir aynı sözcüklerle olmasa da özü bakımından vecizenin d'Azeglio'ya iade edilebileceği sonucuna varır ve sözcüklerin kendisinin de tartışm",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Birincisi süreci bir ulus kurma işi sayar ve son çalışmaların milliyetçiliğin merkezî önemini vurguladığını belirtir; Denis Mack Smith, Christopher Duggan ve Lu",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Francesco Saverio Nitti, serbest piyasa düzeninin bütün ülkeye yayılmasının Güney ekonomisini Kuzey'in ağırlığı altında çökerttiğini ve \"Güney sorunu\"nun burada",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "1860 baharından 1861 yazına kadar Piemonte parlamentosunun önündeki soru, Kuzeyli muhabirlerin yozlaşmış ve barbar diye betimlediği güney illerini anlamak için ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı yıllarda meclisin kendi komisyonu, çözümü askeri mahkemelerde buluyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sonucun kaçınılmaz olmadığını gösteren en sağlam kanıt ise kazananın kendi belgeleridir: Cavour Roma'ya Fransa'yla birlikte ve papanın bağımsızlığını zedelemede",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Sonucun kaçınılmaz olmadığını gösteren en sağlam kanıt ise kazananın kendi belgeleridir: Cavour Roma'ya Fransa'yla birlikte ve papanın bağımsızlığını zedelemede",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sonucun kaçınılmaz olmadığını gösteren en sağlam kanıt ise kazananın kendi belgeleridir: Cavour Roma'ya Fransa'yla birlikte ve papanın bağımsızlığını zedelemede",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
     }
   ]
 }

@@ -1,0 +1,677 @@
+{
+  "id": "olay-afyon-savaslari",
+  "govde_hash": null,
+  "commit": null,
+  "zaman": "2026-08-29",
+  "hakem": "TASLAK-yazar",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Britanya Hindistan'da ürettiği afyonu Çin kıyılarına kaçırıyor, Qing devleti bu ticareti yasaklıyordu; yasağı fiilen uygulama girişimi 1839'da Kanton'da bir askerî harekâta dönüştü ve 29 Ağustos 1842'de Cornwallis adlı savaş gemisinin güvertesinde imzalanan Nanking Antlaşması'yla kapandı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Antlaşma beş limanı Britanyalı tüccarların yerleşimine açtı, Hong Kong adasını süresiz olarak Britanya'ya bıraktı, tekelci Hong tüccarları düzenini kaldırdı ve imparatora üç kalemde ödenecek büyük bir tazminat yükledi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Bes liman, Hong Kong, Hong tekelinin kaldirilmasi ve uc kalemlik tazminat antlasmanin 2., 3., 5., 6. ve 7. maddelerinde"
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Nanking metninde afyon sözcüğü tek bir kez, Mart 1839'da Kanton'da teslim alınıp imha edilen stokun bedeli olarak geçer; ticaretin kendisi ne yasaklanır ne serbest bırakılır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sayim yazarin belgeyi kendi taramasidir: tam metinde \"opium\" yalnizca 4. maddede geciyor; ticaretin durumuna dair hukum metinde yok"
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Afyonun bir gümrük kalemi hâline gelmesi için ikinci bir savaşı ve o savaşın antlaşmasına iliştirilmiş ayrı bir ticaret kuralları belgesini beklemek gerekecekti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kunyedeki cilt tam da o ayri belgeyi (Sanghay Ticaret Kurallari) tasiyor"
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Çin'den Britanya'ya giden çayın hacmi on sekizinci yüzyıl boyunca büyüdü ve 1800'e gelindiğinde Doğu Hindistan Şirketi yılda 23 milyon libre çay satın alıyordu; bunun bedeli 3,6 milyon libre gümüştü.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Şirket 1757'de Bengal'i ele geçirdikten sonra bu boşluğu dolduracak ürünü buldu ve haşhaşı orada büyük ölçekte ektirmeye başladı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Çayın yükselişi bu bakımdan ölçülebilir: Çin'den gelen çay 1700'de 92.000 libre iken 1751'de 2,7 milyon libreye çıkmıştı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Britanya bu açığı diplomasiyle kapatmayı denedi ve başaramadı; Macartney'nin 1793'teki, Amherst'in 1816'daki elçilikleri ticaret taleplerini kabul ettiremeden döndü ve bu iki başarısızlık Londra'da limanların ancak zorla açılacağı kanısını güçlendirdi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Hindistan'dan Çin'e giden afyon 1773'te yaklaşık bin sandıktı; 1790'da dört bine, 1828'de on sekiz bine, savaşın arifesinde 1839'da kırk bine çıktı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Seri kaynakta Jonathan Spence, Chinese Roundabout (1992), s. 233-35 kunyesine dayandirilmis; tek bir tahmin serisidir"
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Şirketin Çin ticareti üzerindeki tekelinin 1834'te sona ermesi, düzenlemeden çok rekabeti artırdı; özel tüccarlar payını büyütmek için yarıştı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Qing yasağı kâğıt üzerinde duruyor ama uygulanmıyordu: mal Lintin adasında gemiden gemiye aktarılıyor, kıyıya küçük ve hızlı Çin tekneleriyle taşınıyor, yerel görevliler rüşvetle susuyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Daoguang imparatoru 1838'deki saray tartışmasının sonunda yasallaştırma yanlılarını değil, tam yasak isteyenleri destekledi ve Lin Zexu'yu olağanüstü yetkiyle Kanton'a gönderdi; Lin Mart 1839'da göreve başladı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Kendi bildirdiği hesaba göre tüccarlar, ticaret süperintendanı Elliot aracılığıyla 20.283 sandık afyonu teslim etti ve mal imha edildi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Sayi Lin Zexu ve meslektaslarinin kendi beyanidir; bagimsiz bir sayim degil, taraf belgesidir"
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Lin aynı sırada İngiltere kraliçesine hitaben bir mektup kaleme aldı; metin Kanton'da yayımlandı ve 1840 başında İngilizce çevirisiyle dolaşıma girdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Derginin kendi kunye satiri metni \"From the Canton Press\" diye niteliyor; sayi Subat 1840 tarihli"
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Mektubun ekseni ahlaki bir karşılıklılık ilkesidir: Çin dışarıya çay, ipek ve ravent gibi yararlı mallar gönderirken karşılığında zehir almayı kabul edemez.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Lin bir de olgusal dayanak öne sürer — \"Kendi ülkenizde afyonun en büyük katılıkla yasaklandığını duyduk\" — ve kraliçeden Bengal, Patna, Malwa ve Benares'teki haşhaş tarlalarını kökünden söktürmesini ister.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alinti, derginin 1840 Ingilizce cevirisinden Turkceye aktarilmistir"
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Bu dayanak yanlıştı: afyon o tarihte Britanya'da yasal biçimde satılıyordu ve tam da bu nedenle Londra, sonraki yıllarda ticareti yasaklamayı değil düzenlemeyi savunacaktı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak hem afyonun o donemde Britanya'da yasal satildigini hem de Londra'nin yasallastirmayi destekledigini soyluyor"
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Muhalefetin hükûmeti kınama önergesi 8 Nisan 1840 oturumunda da görüşüldü ve Gladstone konuşmasında hem ticareti hem savaşı reddetti: \"Kökeninde bundan daha haksız bir savaş ne biliyorum ne de okudum\".",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tutanak 8 Nisan 1840 oturumunun tamamidir; alinti Gladstone'un konusmasindan Turkceye aktarilmistir"
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Gladstone'un asıl iddiası hukukiydi: Çinliler kaçakçılığı bırakmaları için uyarıda bulunmuş, bırakılmayınca kendi topraklarından kovma hakkını kullanmıştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Palmerston yanlıları 1832 tarihli parlamento komisyonunun görüşünü hatırlattı: Bengal afyon ticareti 981.283 sterlin getirdiği için, Hindistan gelirlerinin o günkü durumunda ticarete son vermek arzu edilir değildi; üstelik \"verginin yükü esasen yabancı tüketicinin üstüne düşüyordu\".",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1832 komisyonu gorusu tutanakta hukumet yanlisi konusmacinin agzindan aktariliyor; rakam da oradan"
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Kınama önergesi 9 Nisan gecesi oylandı ve 271'e karşı 262 oyla, yani dokuz oy farkla reddedildi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "İkinci madde Kanton, Amoy, Foochow, Ningpo ve Şanghay'ı Britanyalı tüccarların aileleriyle birlikte yerleşimine açar ve her birine konsolos atanmasını öngörür; üçüncü madde Hong Kong adasını süresiz olarak devreder.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Beşinci madde, Britanyalı tüccarları belirli Çinli tüccarlarla iş yapmaya zorlayan Hong düzenini kaldırır; onuncu madde ise gümrük tarifesinin ilan edilmiş ve sabit olmasını şart koşar — Qing'in kendi gümrük oranını tek başına belirleme yetkisini elinden alan hüküm budur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Maddelerin icerigi belgede dogrudan; \"gumruk oranini tek basina belirleme yetkisini elinden alan hukum budur\" degerlendirmesi yazarin cikarimidir"
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "On birinci madde ise sembolik görünse de aynı derecede ağırdır: iki tarafın görevlileri arasındaki yazışmada kullanılacak terimleri tek tek sayar ve astların eşit düzeyde muhatap sayılmasını hükme bağlar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "On ikinci madde Britanya kuvvetlerinin Chusan ve Koolangsoo adalarında, ödemeler tamamlanana kadar kalmasını öngörür; antlaşma yalnızca bir barış değil, bir tahsilat takvimidir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Chusan ve Koolangsoo hukmu 12. maddede dogrudan; \"tahsilat takvimi\" nitelemesi yazarin ozetidir"
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Altı milyon dolar Mart 1839'da teslim edilen afyonun bedeli, üç milyon dolar iflas etmiş Hong tüccarlarının Britanyalılara borcu, on iki milyon dolar da seferin masrafı olarak yazılmıştır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc kalem 4., 5. ve 6. maddelerde ayri ayri yaziyor"
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Bu boşluk anlaşmazlığı çözmedi, yalnızca erteledi; 1842 antlaşmasının kurduğu düzen on dört yıl sonra aynı taraflarca yeniden pazarlık masasına taşındı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ikinci savasin 1856'da 1842 antlasmasinin yeniden pazarligi icin acildigi kaynakta var; \"bosluk erteledi\" nedenselligi yazarin baglantisidir"
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "İkinci çatışmanın kıvılcımı 8 Ekim 1856'da Kanton limanında çıktı: Çinli görevliler Britanya kaydı taşıdığı ileri sürülen Arrow adlı küçük tekneye korsanlık şüphesiyle el koydu ve mürettebatı tutukladı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Britanya bunu 1842 antlaşmasını yeniden pazarlık masasına getirmek için gerekçe saydı; bir Fransız misyonerin öldürülmesi de Fransa'yı ittifaka kattı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Bu savaşta da Londra bölündü: 3 Mart 1857'de Avam Kamarası Kanton'a yapılan saldırıyı gerekçesiz bularak hükûmete karşı oy verdi, Palmerston erken seçime gitti ve ancak seçimden sonra savaşı sürdürecek çoğunluğu buldu.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Haziranda Tien-tsin'de imzalanan antlaşma, Britanya temsilcisine Pekin'de kalıcı ikamet hakkı verdi ve Çin resmî belgelerinde Britanyalılar için \"barbar\" anlamına gelen karakterin kullanılmasını yasakladı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ikamet hakki 3. maddede, \"barbar\" karakterinin yasaklanmasi 51. maddede"
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Beşinci kural, daha önce kaçak sayılan mallara ilişkin kısıtlamaları gevşetir ve şunu yazar: \"Afyon bundan böyle pikul başına otuz tael ithalat resmi ödeyecek\".",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Alinti Sanghay Ticaret Kurallari'nin 5. kuralindan Turkceye aktarilmistir"
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Aynı kural ticareti sınırlar da: yabancı tüccar malı yalnızca limanda satabilecek, iç bölgelere yalnızca Çinliler taşıyabilecekti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "25 Haziran 1859'da onay belgelerini Pekin'e götüren heyete yol açmak için istihkâmlara saldıran Britanya kuvvetleri püskürtüldü, üç gemi kaybetti ve ağır zayiat verdi; savaşın tek büyük Çin galibiyeti budur ve sarayın direncini sertleştirmiştir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Tarih, puskurtme ve uc gemi kaybi kaynakta dogrudan; \"savasin tek buyuk Cin galibiyeti\" nitelemesi yazarin degerlendirmesidir"
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Ertesi yıl müttefik kuvvetler Pekin önlerine ulaştı; 18-19 Ekim 1860'ta Lord Elgin'in emriyle imparatorluk yazlık sarayı Yuanmingyuan yağmalanıp yakıldı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "24 Ekim 1860'ta imzalanan Pekin Sözleşmesi, Taku olayı için özür ifadesiyle açılır; sekiz milyon tael tazminat, Tien-tsin limanının ticarete açılması ve Kowloon'un Hong Kong'a bağlı olarak devri bunun üzerine gelir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozur ifadesi 1., tazminat 3., Tien-tsin limani 4., Kowloon 6. maddede"
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Sözleşmenin beşinci maddesi ayrıca Çinlilerin Britanya sömürgelerinde çalışmak üzere gemiye binmesini serbest bırakır; on dokuzuncu yüzyılın sözleşmeli işçi akımının hukuki dayanaklarından biri buradadır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Sozlesmenin 5. maddesi kaynakta dogrudan; maddenin sozlesmeli isci akiminin hukuki dayanaklarindan biri oldugu degerlendirmesi yazarindir"
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Qing sarayının afyona karşı en güçlü ekonomik gerekçesi, ülkeden gümüş çıkışıydı; ticaretin dengesi tersine dönmüş, bakır para ile gümüş arasındaki kur bozulmuştu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Ona göre 1820'lerden sonra değişen şey gümüşün miktarı değil ithal edilen sikkelerin niteliğiydi; Çin İspanyol Amerikası pesosunu tercih edilen ödeme aracı hâline getirdiği için bu sikke ile külçe gümüş arasında büyük bir kur farkı doğdu ve arbitraj gümüşü dışarı çekti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Iddia calismanin yayimlanmis ozetinden alinmistir; ozetin arkasindaki kanit bu kunyeyle olculmemistir"
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Bu okumada nedensellik terse döner: afyon ithalatı gümüş çıkışını tetiklemedi, tersine gümüş kaçışı büyük afyon ithalatının sebebi oldu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ayni ozet cumlesi; rakip aciklama olarak sunulmustur, hakem karari degildir"
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Hükûmet yanlıları 1840 tartışmasında, Hindistan'daki üretim kısılsa bile arzın Türkiye, İran ya da komşu bir ülkeye kayacağını, dolayısıyla tek bir tedarikçiyi durdurmanın tüketimi durdurmayacağını savundu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Ticaretin tarafları arasında Britanya'nın yanı sıra Amerika Birleşik Devletleri, Hindistan, Güneydoğu Asya ve Çin'in kendi tüccarları da vardı; Hindistan'dan gelen sandık sayısı ise savaşlardan çok sonra, 1884'te zirvesine ulaştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Savaş arifesinde Çin'de yaklaşık on milyon afyon içicisi bulunduğu ve bunların iki milyonunun bağımlı olduğu tahmin edilir; kaynak bunu bir tahmin olarak verir, sayım olarak değil.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "Kaynak sayiyi acikca tahmin olarak veriyor; donemin tuketim tahminleri genis araliklidir ve govde de bunu boyle soyluyor"
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Ulusal aşağılanma dili 1895'teki Japonya yenilgisinin ardından güç kazandı, 1915'teki Yirmi Bir Talep ve 1919'daki Versay kararlarına tepkiyle yayıldı, 1920'lerde hem Kuomintang hem Çin Komünist Partisi tarafından yaygınlaştırıldı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Eşitsiz antlaşmaların büyük bölümü 1943'te müttefiklerce kaldırıldı, ama çerçeve hukuki ömrünü aştı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "1943 tarihi ve antlasmalarin kaldirilmasi kaynakta dogrudan; \"cerceve hukuki omrunu asti\" degerlendirmesi yazarin ozetidir"
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Nitekim Qing sarayı 1860 yenilgisinin ve iç isyanların ardından 1861'de dış işleri yönetecek bir daire kurmayı kabul etti; savaşın gerçek sonucu, tazminattan çok bu kurumsal teslimiyettir.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "1861 dairesinin kurulusu kaynakta dogrudan; \"savasin gercek sonucu tazminattan cok bu kurumsal teslimiyet\" hukmu yazarindir"
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "İkisini ayıran şey, 1840'ta Avam Kamarası'nda söylenmiş sözlerin de gösterdiği gibi, savaşın haksızlığının sonradan keşfedilmiş bir şey olmamasıdır: o hüküm, seferi finanse eden meclisin kendi içinde ve savaşın daha ilk yılında verilmişti.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Gladstone konusmasi kaynakta dogrudan; savasin haksizliginin sonradan kesfedilmedigi genellemesi yazarin sentezidir"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 39,
+    "kismi": 8,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

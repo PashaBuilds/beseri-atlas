@@ -1,14 +1,69 @@
 ## olay-berlin-duvarinin-yikilisi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:26.089Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:45:02.911Z_
 
-- [OK]      k1 → "Kaynak olayı tek bir yıla ve dört ayrı yere birden bağlar: 1989'da duvarın yıkılışı, Doğu Berlin ile Doğu Alma…" — 3 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir sınırın yıkılışının dört ayrı idari birim altında kaydedilmesi, bölünmenin yalnızca bir çizgi değil bir ku…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak olayın nedenini tekil bir karar olarak değil bir dalga olarak verir: 1989 Devrimleri." — 1 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir olayın nedeninin, aynı yılın diğer olaylarının toplamı olarak kaydedilmesi, atlas için kayda değerdir: bur…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Aynı yılların kapanışı, Gorbaçov'un reformları, ilişkilerde yumuşama, Doğu Avrupa'nın ayrılması ve Sovyet dağı…" — 4 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "Duvarın yıkılışının bu dört başlıktan üçüncüsüne denk gelmesi, onu sürecin sonu değil ortası yapar; süreç dosy…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Duvarın yıkılışının bu dört başlıktan üçüncüsüne denk gelmesi, onu sürecin sonu değil ortası yapar; süreç dosy…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1991'de yaklaşık 5,42 milyardır."
-- [ATOMSUZ] k1 → "Duvarın inşası, sınır rejiminin işleyişi, olay gecesinin saat saat seyri ve sonrasındaki birleşme burada ayrı …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "İktidardaki Sosyalist Birlik Partisi'nin merkez komitesi bir gün önce üç günlük oturumuna başlamış, oturumun a…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [ATOMSUZ] k1 → "Yeni seyahat düzenlemesinin ertesi gün yürürlüğe girmesi planlanıyordu; aradaki saatler bütün sınır karakollar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Bir gazetecinin ne zaman geçerli olacağını sorması üzerine Schabowski, bildiği kadarıyla düzenlemenin "sofort,…"
+- [OK]      k1 → "Bu tek cümle, 1961'den beri Doğu ile Batı Berlin'i ayıran sınırı birkaç saat içinde işlevsiz bıraktı." — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k7 → "Basın toplantısı akşam saat 18.00'de başladı ve Doğu Alman televizyonundan canlı yayımlandı; Schabowski'nin ya…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k7 → "Schabowski yeni düzenlemenin tartışmalarına katılmamıştı, tam olarak bilgilendirilmemişti ve eline tutuşturula…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Saat 18.53'te, toplantı biterken, İtalyan haber ajansı ANSA'dan Riccardo Ehrman kasım başında kamuoyuna sızan …"
+- [ATOMSUZ] k1 → "Saat 18.53'te, toplantı biterken, İtalyan haber ajansı ANSA'dan Riccardo Ehrman kasım başında kamuoyuna sızan …" — programatik olarak ölçülemedi (ad karşılığı yok): İtalyan, ANSA, Riccardo, Ehrman
+- [ATOMSUZ] k7 → "Schabowski önce dağınık bir cevap verdi, sonra notu hatırlayıp okumaya başladı; ardından gelen yürürlük sorusu…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Bir başka gazeteci düzenlemenin Batı Berlin geçitlerini de kapsayıp kapsamadığını sorunca notun üçüncü maddesi…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k7 → "Bu iki kanal 1950'lerin sonundan beri Doğu Almanya'nın neredeyse tamamına ulaştığı ve orada da izlendiği için …" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k1 → "Önce bir vana çözümü denendi: tek tek kişilerin geçmesine izin verildi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Sınır muhafızları üstlerini telefona boğdu; ilk talimat, en ısrarcı olanların pasaportlarına geri dönüşü engel…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Bu, Schabowski'nin sözüne dayanarak geçmek isteyen binlerce kişiyi yerinden oynatmadı; ölümcül güç kullanma em…"
+- [ATOMSUZ] k1 → "Bornholmer Caddesi geçidindeki nöbetçi amirler sonunda baskıya boyun eğip sınırı tümüyle açtılar." — programatik olarak ölçülemedi (ad karşılığı yok): Caddesi
+- [OK]      k1 → "Gece yarısından kısa süre sonra Berlin'deki bütün geçitler açıktı ve sınır polisine hiçbir müdahale emri gelme…"
+- [OK]      k5 → "O saatlerde Invalidenstrasse geçidinde insanlar hâlâ vize ve zorunlu döviz bozdurma kuralına tabiydi ve sıraya…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Checkpoint Charlie'de saat iki sularında ilk denetim yirmi saniyede on kişiyi geçiriyor, ikinci muhafız kimlik…"
+- [ATOMSUZ] k1 → "Perşembe gecesinden pazar akşamına kadar iki milyondan fazla Doğu Alman şehrin batı yakasına geçti ve akışı ta…" — programatik olarak ölçülemedi (ad karşılığı yok): Doğu, Alman
+- [ATOMSUZ] k7 → "Çekiç ve keskiyle parça koparanlar ilk akşamdan başladı; bu iş haftalarca sürdü ve yer yer resmî olmayan geçit…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Brandenburg Kapısı'nın yanındaki bölüm 21 Aralık 1989'da bir vinçle kaldırıldı; kapı yirmi sekiz yıl boyunca D…" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k1 → "Brandenburg Kapısı'nın yanındaki bölüm 21 Aralık 1989'da bir vinçle kaldırıldı; kapı yirmi sekiz yıl boyunca D…" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k7 → "Doğu Alman sınır birlikleri duvarı resmen sökmeye 13 Haziran 1990'da Bernauer Caddesi'nden başladı; Berlin ve …" — 4 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k7 → "Yalnızca Berlin'de 184 kilometre duvar ve 154 kilometre sınır çiti kaldırıldı, anıt olarak altı bölüm bırakıld…"
+- [OK]      k1 → "Macaristan Mayıs 1989'da Avusturya sınırındaki güvenlik tesislerini söktürmüştü; giderek daha çok Doğu Alman b…" — 1 atom doğrulandı; 4 ad ölçülemedi
+- [OK]      k3 → "19 Ağustos 1989'da Sopron yakınında düzenlenen Pan-Avrupa Pikniği sırasında sınır bariyerlerinden biri simgese…" — 3 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Eylülden itibaren haftalık Pazartesi gösterileri başladı ve ekim ortasında yalnızca Leipzig'de yetmiş bin kişi…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Leipzig o gün silahlı bir kamp görünümündeydi: üç bin polis, bunların bin iki yüzü Halle ve Neubrandenburg böl…"
+- [ATOMSUZ] k4 → "Honecker'in eylül sonunda imzaladığı gizli emir yürürlükteydi ve beklenen kargaşanın baştan önlenmesini buyuru…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "Yine de tek kurşun atılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler akşam saa…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Yine de tek kurşun atılmadı: kent merkezini dolduran yetmiş bin kişinin karşısında silahlı birlikler akşam saa…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k4 → "O akşam atılan "we are the people" sloganı, partinin ve hükümetin sonraki her tereddütlü tavizini hızlandıran …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Kurt Masur'un da aralarında olduğu altı tanınmış Leipzigli sakin kalma çağrısı yaptı; çağrının o günün barışçı…"
+- [OK]      k2 → "4 Ekim'de Prag ve Budapeşte'den kalkıp Doğu Alman toprağından geçirilen göç trenleri Dresden garında iç savaşı…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "4 Kasım'da Doğu Berlin'de Alexanderplatz'ta toplanan kalabalık, Doğu Almanya tarihinin en büyük gösterisi oldu…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Bu zemine üç etken daha eklenir: Gorbaçov'un 1985'ten sonra başlattığı reform ve açılma sürecinin ortak devlet…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Bu zemine üç etken daha eklenir: Gorbaçov'un 1985'ten sonra başlattığı reform ve açılma sürecinin ortak devlet…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k2 → "Olay bittikten sonra kimin hanesine yazılacağı otuz yıldır tartışılıyor ve tartışma sertliğini koruyor." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Münsterli din sosyoloğu Detlef Pollack, iktidarın yurttaş hareketi tarafından devrimci biçimde aşıldığı anlatı…"
+- [OK]      k2 → "Doğu Almanya araştırmacısı Ilko-Sascha Kowalczuk ise altüst oluşun azınlığın eseri olduğunu, sıradan yurttaşla…"
+- [ATOMSUZ] k2 → "Bu okumaya göre 9 Kasım akşamı duvarı umulmadık biçimde çökerten şey ne göçmenler, ne Pazartesi göstericileri,…" — programatik olarak ölçülemedi (ad karşılığı yok): Kasım, Pazartesi
+- [OK]      k2 → "İkinci unsur belirleyicidir, çünkü gözlemciler burada eyleyene dönüşmüş, gerçekliği aktarmak yerine üretmiş ve…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "Bu okumanın kitap boyu en bilinen savunusu Mary Elise Sarotte'nin 2014'te çıkan çalışmasıdır; kitap duvarın aç…"
+- [OK]      k2 → "4 Kasım'da Alexanderplatz'ta kürsüye çıkanların talebi bugün varsayıldığı gibi birleşme değildi; o gün konuşan…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k2 → "Duvarın açılışı, o günün ufkunda bir dönüm noktası değil, gecikmiş bir normalleşme adımı gibi görünüyordu; ne …" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k2 → "Kaza okuması bile sonbaharda devrimci bir durumun oluştuğunu varsayar ve o durumu üreten şey etkenlerin birleş…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Kaçışın rolü de tartışmalıdır; bir okumaya göre protestoyu besledi, bir başkasına göre hoşnutsuzları ülkeden ç…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Dış baskı ekseni de tek yönlü değildir: Fransa cumhurbaşkanı François Mitterrand ile Britanya başbakanı Margar…"
+- [OK]      k2 → "Adlandırma da tarafsız değildir: Egon Krenz Honecker'in düşürüldüğü akşam televizyonda bir dönüşün başlatılaca…"
+- [ATOMSUZ] k7 → "Basın toplantısındaki cümlenin saati kayıtlarda 18.53 ile 18.57 arasında değişir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Basın toplantısındaki cümlenin saati kayıtlarda 18.53 ile 18.57 arasında değişir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Bornholmer Caddesi'ndeki bariyerin açılış saati için üç değer dolaşımdadır: 22.45, 23.20 ve 23.30." — programatik olarak ölçülemedi (ad karşılığı yok): Caddesi
+- [ATOMSUZ] k2 → "Bornholmer Caddesi'ndeki bariyerin açılış saati için üç değer dolaşımdadır: 22.45, 23.20 ve 23.30." — programatik olarak ölçülemedi (ad karşılığı yok): Caddesi
+- [ATOMSUZ] k1 → "Bornholmer Caddesi'ndeki bariyerin açılış saati için üç değer dolaşımdadır: 22.45, 23.20 ve 23.30." — programatik olarak ölçülemedi (ad karşılığı yok): Caddesi
+- [OK]      k7 → "Geceyi tek bir geçide bağlamak da güvenli değildir; Waltersdorf-Rudow kapısının birkaç saat önce, bağımsız bir…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k7 → "Bariyeri kaldıran subayların adları — Bornholmer'de Harald Jäger ve Edwin Görlitz — bilinir; ama hiçbiri anma …" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Bariyeri kaldıran subayların adları — Bornholmer'de Harald Jäger ve Edwin Görlitz — bilinir; ama hiçbiri anma …"
+- [OK]      k9 → "Uzun dönemli seride dünya nüfusu 1989'da yaklaşık 5,23 milyardır."
+- [OK]      k7 → "Almanya'nın birleşmesi 9 Kasım'dan 339 gün sonra, 3 Ekim 1990'da tamamlandı." — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k6 → "Dört gücün Berlin ve bütün Almanya'ya ilişkin hak ve sorumlulukları ise 12 Eylül 1990'da imzalanan nihai çözüm…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k2 → "Bugün 9 Kasım anması beş yılda bir görkemle yapılıyor ve her seferinde büyüyor." — programatik olarak ölçülemedi (ad karşılığı yok): Kasım
+- [OK]      k2 → "Buna karşılık anma dilinin kahramanı yok; Nikolaikirche'nin papazı Christian Führer de, Leipzig'in ve Bornholm…"
+- [OK]      k2 → "Sloganın kendisi ise el değiştirebiliyor: sağ popülist hareketler 1989'un mirasçısı olduklarını ilan edip aynı…"
+- [ATOMSUZ] k2 → "Uzun bir yapısal çözülme, kendi anını bir kaza aracılığıyla bulabilir; ve o an bir kere yaşandıktan sonra, kim…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 4 OK · 0 ISARET · 0 HATA · 5 ATOMSUZ
+**Özet:** 40 OK · 0 ISARET · 0 HATA · 24 ATOMSUZ

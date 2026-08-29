@@ -16,6 +16,7 @@ ilgili:
   - kaynak-malthus-nufus
   - veri-tarimsal-verim
   - tartisma-nufus-artisi-tehdit-mi
+  - olay-yesil-devrim
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

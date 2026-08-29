@@ -1,5 +1,5 @@
 ## olay-kongo-serbest-devleti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:27.808Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:45.902Z_
 
 - [ATOMSUZ] k1 → "On dokuzuncu yüzyılın sonunda, kıtanın orta kesiminde geniş bir alan tek bir kişinin kişisel mülkü olarak yöne…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 - [ATOMSUZ] k3 → "Düzen, uluslararası bir konferansta tanındı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)

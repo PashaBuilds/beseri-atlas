@@ -1,5 +1,5 @@
 ## kavram-bagimlilik-kurami
-_Geçiş 2 — kaynak denetimi · 2026-08-29T09:10:36.159Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:53.922Z_
 
 - [OK]      k1 → "Baran, Paul Sweezy ve Andre Gunder Frank tarafından geliştirildiğini kaydeder."
 - [OK]      k1 → "Kaynak, Latin Amerika yapısalcı okulu ile Amerikan Marksist okulunun önemli farkları bulunduğunu yazar." — 3 atom doğrulandı; 1 ad ölçülemedi

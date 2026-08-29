@@ -29,6 +29,7 @@ ilgili:
   - kavram-topyekun-savas
   - donem-13
   - tartisma-soguk-savasin-baslangici
+  - kaynak-tooze-felaketin-bedeli
 okuma_onerisi:
   - kaynak-tooze-felaketin-bedeli
 hakem_yok: true

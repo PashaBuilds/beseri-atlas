@@ -26,6 +26,7 @@ ilgili:
   - donem-13
   - olay-versailles-antlasmasi
   - tartisma-ikinci-dunya-savasi-sorumlulugu
+  - kaynak-clark-uyurgezerler
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 hakem_yok: true
