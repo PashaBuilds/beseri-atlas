@@ -1,19 +1,34 @@
 {
   "id": "aktor-aztek-imparatorlugu",
   "gecis": 3,
-  "zaman": "2026-08-21T07:12:24.212Z",
+  "zaman": "2026-08-29T16:08:22.237Z",
+  "govde_hash": "1ecc37f7f4af",
   "itirazlar": [
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Üç şehir devletinin birlikte anılması,[^k1] merkezî bir başkent varsayımını zorlaştırır. Burada egemenlik tek bir şehirde toplanmamış, üç ortak arasında paylaşılmıştır.",
+      "cumle": "İletişim menzil sistemiyle yürüyordu. Büyük yollar üzerinde birbirinden yaklaşık iki fersah uzaklıkta konak yerleri vardı; kurye resim-yazıyla hazırlanmış belgeyi ilk istasyona koş",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "19. yüzyıl derlemesinin anlattığı biçimiyle kölelik, Avrupa'nın ve Amerika'nın sonraki yüzyıllarda tanıdığı biçimden farklı işliyordu. Köleler savaş esirlerinden, suçlulardan, kamu",
+      "sorun": "Nedensellik iddiası tek kaynağa (k5) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Adlandırma bugün bile tek biçimli değil: müze kaydı kültürü önce Mexica diye anıyor, Aztek'i parantez içinde veriyor ve nesnenin yapımcısını Mexica sanatçıları olarak kaydediyor.[^",
       "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     },
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Bu, atlasın imparatorluk gösterimi tartışmasına bir örnek daha ekler: haritada tek bir başkent işaretlemek, kaynağın verdiği yapıyı yanlış gösterir.[^k1]",
+      "cumle": "Çöküşün nedeni de benzer biçimde tek cümleye indirgenmiştir. 19. yüzyıl anlatısı yükümlülüklerin ağırlaşmasının ülkede hoşnutsuzluk yarattığını ve bunun İspanyol fethine zemin hazı",
       "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     }

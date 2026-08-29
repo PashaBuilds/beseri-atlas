@@ -1,15 +1,56 @@
 ## aktor-fatimi-hilafeti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.057Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T16:16:41.672Z_
 
-- [OK]      k1 → "Fâtımîler, 909-1171 yılları arasında Kuzey Afrika, Mısır ve Suriye'de hüküm süren bir Şiî devletidir."
-- [OK]      k1 → "Fâtımî devletinin 909-1171 arasındaki ömrü, 750 ile 1258 arasında hüküm süren Abbâsî hanedanının ömrüyle büyük…"
-- [OK]      k2 → "Fâtımî devletinin 909-1171 arasındaki ömrü, 750 ile 1258 arasında hüküm süren Abbâsî hanedanının ömrüyle büyük…"
-- [OK]      k1 → "İki hilafet iddiasının aynı yüzyılları paylaşması, İslam dünyasını tek bir siyasi merkez olarak düşünmeyi enge…"
-- [OK]      k2 → "İki hilafet iddiasının aynı yüzyılları paylaşması, İslam dünyasını tek bir siyasi merkez olarak düşünmeyi enge…"
-- [ATOMSUZ] k1 → "Peygamber'e nesep bağı ileri sürerler." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Adın bir soy iddiası taşıması, meşruiyetin nesep üzerinden kurulduğunu gösterir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Devletin üç bölgede birden hüküm sürmesi, Akdeniz'in güney ve doğu kıyısını tek bir siyasi çatı altında toplar…"
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1000 yılı için yaklaşık 323,5 milyon, 1300 yılı için yaklaşık 456,2 milyon ol…"
-- [ATOMSUZ] k1 → "Devletin siyasi tarihi, halife sıralaması, mezhep siyaseti ve başkentinin kuruluşu burada ayrı başlıklar altın…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Ehl-i sünnet'te halife seçimle ya da önceki halifenin tayini ve halkın biatıyla iş başına gelirken, Fâtımîler'…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Devletin başındaki imam Allah'ın yeryüzündeki temsilcisi sayılır, her ilmin kaynağı ve şeriatın birinci müfess…"
+- [OK]      k1 → "Hânedan adını Peygamber'in kızı Fâtıma'dan alır; kurucuları Fâtıma ve Ali yoluyla Peygamber'in soyundan geldik…"
+- [OK]      k1 → "Dâî Ebû Abdullah eş-Şiî, Berberî Kutâme kabilesinin desteğiyle Ağlebî başşehri Rakkāde'yi ele geçirdi (296/909…"
+- [OK]      k1 → "Altmış yıl sonra kumandan Cevher es-Sıkıllî Mısır'ı neredeyse direnişsiz aldı (Şâban 358 / Temmuz 969); madden…"
+- [OK]      k1 → "Fâtımî halifeleri, Şîa'nın Allah'ın gizlediğini açığa çıkarmama ilkesine dayanarak resmî bir soy kütüğü açıkla…"
+- [OK]      k1 → "Kendi kaynaklarında silsile Ubeydullah el-Mehdî'yi İsmâil bin Ca'fer es-Sâdık'a bağlar; ama Mehdî'nin Yemen'e …"
+- [OK]      k1 → "Abbâsîler 402 (1011) yılında Fâtımîler'in soyunu çürütmek için Bağdat'ta bir tutanak (mahzar) yayımlattı; 444'…"
+- [OK]      k1 → "Bu belgenin kimin imzasını taşıdığı bile çekişmelidir: TDV maddesi tutanağı Şerîf el-Murtazâ'nın imzaladığını …"
+- [OK]      k6 → "Bu belgenin kimin imzasını taşıdığı bile çekişmelidir: TDV maddesi tutanağı Şerîf el-Murtazâ'nın imzaladığını …"
+- [ATOMSUZ] k6 → "O'Leary'nin kendi uyarısı şudur: mesele o kadar güncel bir siyasi çekişme konusuydu ki tarafsız bir kanaate ul…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k6 → "Aynı kitap iki tarafı da işaretler: Makrîzî Fâtımî yanlısıdır, çünkü seyyidlik iddiasını onların üzerinden kur…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k5 → "On dördüncü yüzyılda Kuzey Afrikalı Mâlikî İbn Haldûn, Mukaddime'nin üçüncü cüzünde hânedanı baştan sona "Fâtı…" — programatik olarak ölçülemedi (ad karşılığı yok): Kuzey, Afrikalı, İbn, Mukaddime
+- [ATOMSUZ] k1 → "Kurduğu merkeziyetçi sistemde yapı üçe ayrılıyordu: idare vezirin, din ve yasama işleri kadının, propaganda is…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Askerî grupların çatışması ve Selçuklular karşısındaki kayıplar Mısır'ı anarşiye sürükleyince elli dört vezir …"
+- [ATOMSUZ] k1 → "Bundan sonra vezir aynı anda başkumandan, kādılkudât ve dâi'd-duât oldu; kadılar ve dâîler onun nâibi durumuna…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Makam artık kalemin değil kılıcın makamıydı: İbnü'l-Esîr'in ifadesiyle, "Mısır'da vezirlik galip gelen kişinin…"
+- [OK]      k1 → "Mısır'ı alan kuvvetin en büyük bölümünü Berberî Kutâme oluşturuyordu; Azîz-Billâh döneminde Bizans ve Büveyhî …"
+- [OK]      k1 → "Her grubun Kahire'de ayrı bir mahallesi vardı ve gruplar arası çatışma, hanedanın son yüzyılında devlet krizle…"
+- [ATOMSUZ] k1 → "Mısır'ın gelirleri ikiye ayrılmıştı: hububat, hurma, üzüm ve meyve yetiştiricilerinden alınan yıllık haracî ma…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bunların üstünde devletin en önemli gelir kaynağı, zimmîlerden alınan ve "cevâlî" ya da cizye denilen vergiydi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Makrîzî'ye göre Mısır'da ilk zekât toplayan kişi Selâhaddin'dir; Fâtımîler'in bunun yerine İsmâilî mezhebinin …"
+- [ATOMSUZ] k1 → "Toprak vergisi iltizamla toplanırdı: açık artırmaya devlet görevlileri ve kumandanlar dahil herkes girebilir, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Cevher'in Mısır'daki iktisadî düzenlemeleri arasında feddân (4200 m²) başına alınan haracı 3,5 dinardan 7 dina…"
+- [OK]      k1 → "Yükün ağırlığı dolaylı ölçülebilir: kaynağa göre Fâtımîler döneminde hiçbir ürün, sanat ve meslek vergiden mua…"
+- [OK]      k1 → "Fustat, İskenderiye'den ve Kızıldeniz'den gelen malların boşaltıldığı dağıtım merkezi olarak kaldı; Amalfi'den…"
+- [OK]      k7 → "Bu maliyenin ve bu ticaretin ürettiği nesnelerden bugüne kalanların bir bölümü dokumadır: New York'taki Metrop…"
+- [OK]      k2 → "Bugün Sünnî öğretimin başlıca kurumlarından biri olan Ezher, Kahire'yi kuran Cevher es-Sıkıllî tarafından şehr…"
+- [OK]      k1 → "İsmâilî da'vet burada yoğunlaştı: ilk ders halkası 365 (975) yılında Kadı Ali bin Nu'mân'ın, babası Kadı Nu'mâ…"
+- [OK]      k1 → "378'de (988) Vezir İbn Killis otuz yedi fakihi Ezher'e tayin etti, onlara maaş ve cami civarında ev tahsis ett…"
+- [OK]      k1 → "Aynı ansiklopedinin Fâtımîler maddesi kurumu 395 (1004) yılında ve Ehl-i sünnet'e yakınlaşma maksadıyla kurulm…"
+- [OK]      k3 → "Aynı ansiklopedinin Fâtımîler maddesi kurumu 395 (1004) yılında ve Ehl-i sünnet'e yakınlaşma maksadıyla kurulm…"
+- [OK]      k1 → "Kurumun sonraki seyri de dalgalıdır: 400'den (1010) itibaren Fâtımî propagandasının merkezi oldu, 513'te (1119…"
+- [OK]      k2 → "Selâhaddin, iki ayrı cuma hutbesinin aynı şehirde okunamayacağı fetvasına dayanarak Ezher'de cuma namazını yas…"
+- [ATOMSUZ] k1 → "Saray kütüphanesi de satıldı: haftanın iki gününde yapılan satışlar tam on yıl sürdü." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Devlet, zimmîlerin tecrübesinden ve özellikle malî konularda Kıptîler'den yararlandı; bu görevlere onlar getir…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Yahudiler de önemli mevkiler tuttu, ama vezirlik makamına gelebilmeleri için müslüman olmaları gerekiyordu; İb…"
+- [OK]      k1 → "Behrâm'ın Tel Bâşir ve Ermenistan'dan getirttiği ve sayıları 30.000'i bulan ırktaşları Mısır'a yerleşip kilise…"
+- [OK]      k1 → "Kadılar bütün dönem boyunca İsmâilî fakihler arasından seçildi ve devletin mezhebinden başkasıyla hüküm vermel…"
+- [OK]      k1 → "Mahkemenin şahit sayısı da büyümüştü: daha önce otuz civarındayken 524'te (1130) yüz yirmiye ulaşmıştı."
+- [OK]      k8 → "Kahire Genizası'ndan çıkan ve İbranîce yazılmış bir megilla parçası, cemaatin bir cenazeden dönerken kalabalık…"
+- [OK]      k8 → "Mann bunu, ünlü zulümlerin henüz başlamamış olmasına yorar; ama aynı kitapta Lane-Poole'dan aktarılan kilise y…"
+- [OK]      k3 → "TDV maddesi onun kişilik portresini "İttifakla belirtildiğine göre Hâkim sert mizaçlı, merhametsiz…" diye açar…"
+- [OK]      k3 → "Aynı madde halifenin 395'te (1005) Ebû Bekir, Ömer ve Osman gibi sahâbîlere sövülmesini emrettiğini ve iki yıl…"
+- [OK]      k3 → "Aynı kayıt, kolay anlatıyı bozan bir çekince de taşır: 396-401 (1006-1010) arasında Hâkim'in Sünnîler ve gayri…"
+- [OK]      k3 → "Kayboluşu da tek bir anlatıya bağlanmaz: tarihçilerin çoğu kız kardeşi Sittülmülk'ün öldürttüğü kanaatindedir,…"
+- [ATOMSUZ] k6 → "Makrîzî'nin kendi açıklamasına göre eski cezaî hükümlerin yeniden yürürlüğe konması, Fâtımîler'in aşırı kayırd…" — programatik olarak ölçülemedi (ad karşılığı yok): Kilisesi
+- [OK]      k1 → "Müstansır-Billâh'ın 487'de (1094) ölümü üzerine Vezir Efdal, meşrû hak sahibi büyük oğul Nizâr'ı uzaklaştırıp …"
+- [OK]      k4 → "Nizâr yakalanıp İskenderiye hapishanesinde öldürüldü (488/1095), fakat 483'te (1090) Alamut Kalesi'ni ele geçi…"
+- [OK]      k4 → "Nizârî imâmeti Hülâgû'nun 654 (1256) yılında Alamut'u zaptetmesiyle büyük bir kesintiye uğradı; sonraki imamla…"
+- [OK]      k1 → "Esedüddin Şîrkûh'un yeğeni Selâhaddîn-i Eyyûbî vezirliğe getirildikten sonra hutbeler Fâtımîler adına kesilip …"
 
-**Özet:** 7 OK · 0 ISARET · 0 HATA · 3 ATOMSUZ
+**Özet:** 40 OK · 0 ISARET · 0 HATA · 11 ATOMSUZ

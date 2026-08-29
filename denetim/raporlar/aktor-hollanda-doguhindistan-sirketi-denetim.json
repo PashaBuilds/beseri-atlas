@@ -1,63 +1,327 @@
 {
   "id": "aktor-hollanda-doguhindistan-sirketi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:49.610Z",
-  "govde_hash": "94d64b703385",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T16:23:58.360Z",
+  "govde_hash": "5c6081a2baa6",
+  "commit": "99160de",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Şirket 1602-1799 arasında faaliyet gösteren bir Hollanda ticaret şirketiydi ve kuruluşundan önce sekiz yıl süren bir ön-şirketler dönemi vardı.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Şirketin selefleri, 1594-1602 arasında faaliyet gösteren voorcompagnieën yani ön-şirketlerdir; bunlar arasında Compagnie van Verre, Brabantsche Compagnie ve Com",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynağın ön-şirketleri 1594-1602 arasına yerleştirmesi 1602'nin bir kuruluş değil bir birleşme olduğunu gösterir: birbiriyle rekabet eden şirketler tek bir yapı",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak şirketin akıbetini açıkça kaydeder: feshedildi ve Hollanda Doğu Hint Adaları olarak millîleştirildi.",
-      "durum": "OK",
-      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Aynı yıllarda kurulan rakip şirketin girişimcileri 31 Aralık 1600'de toplanmıştı ve yatırımcılar yaklaşık yüzde 5.000'lik bir getiri elde etmişti.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Kaynak, rakip şirketin tarihini tekel kurma, tekelin dayanağı ve tasfiye başlıkları altında ele alır.",
+      "iddia": "Kuruluş beratı ona, o güne kadar yalnızca devletlerin kullandığı yetkileri tanıdı: savaş açmak, antlaşma imzalamak, hükümlüleri hapsetmek ve idam etmek, kendi p",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Rakibin 1600'de, bu şirketin 1602'de kurulması, dönemin denizaşırı ticaretinin neden bir şirketler yarışı biçiminde örgütlendiğini gösterir; rakip dosyasında el",
+      "anahtar": "k1",
+      "iddia": "Aynı berat hisselerin Hollanda Cumhuriyeti'nin herhangi bir yurttaşınca alınıp satılmasına da izin veriyordu; bu ikinci el alışverişin yapıldığı açık hava piyas",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu yetkiyi kullananlar seçilmiş bir meclise değil hissedarlara hesap veriyordu ve yetkinin sonuna kadar kullanıldığı yer bellidir: 1621'de Banda adaları.",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Rakibin 1600'de, bu şirketin 1602'de kurulması, dönemin denizaşırı ticaretinin neden bir şirketler yarışı biçiminde örgütlendiğini gösterir; rakip dosyasında el",
+      "anahtar": "k7",
+      "iddia": "Bu yetkiyi kullananlar seçilmiş bir meclise değil hissedarlara hesap veriyordu ve yetkinin sonuna kadar kullanıldığı yer bellidir: 1621'de Banda adaları.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1600'de yaklaşık 516,1 milyon, 1790'da yaklaşık 942,3 milyondur.",
+      "iddia": "O olayın en ayrıntılı kaydını tutan da kurbanların bir tanığı değil, emri veren genel valinin kendisidir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Asya'ya giden ilk Hollanda seferleri şirketin kendisinden önce geldi ve birbiriyle yarışan tüccarların fiyatları bozmasına yol açtı; devleti birleşmeye zorlayan",
       "durum": "OK",
       "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1602'de Genel Meclis'ten alınan berat, Asya ticaretinde yirmi bir yıllık bir tekel tanıdı.",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sermaye yaklaşık 6,5 milyon florindi ve çoğu tüccar olan 1.800'den fazla yatırımcıdan toplanmıştı; yönetim, en büyük hissedarlar arasından seçilen 17 yöneticini",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Şirket tek bir merkez değil, altı odanın birliğiydi: Amsterdam, Zeeland, Delft, Rotterdam, Hoorn ve Enkhuizen.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Amsterdam odası ile Heren XVII'nin kayıtları birbirine öylesine karışmıştır ki arşivde bugün bile ayrılmış değildir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı yıllarda kurulan mali altyapı bu yapıyı taşıdı: 1609'da Amsterdam'da açılan takas bankasının mevduatı 1611'de bir milyon guldenin altındayken 1700'de on al",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Heren XVII kazancı hissedarların hoşnutsuzluğuna rağmen şirkete geri yatırdı; 1644 dolaylarına kadar temettü ayni olarak, yani mal olarak ödendi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Uzun vadede şirket yaklaşık iki yüzyıl boyunca sermayenin ortalama yüzde 18'i kadar yıllık temettü dağıttı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu çoğu zaman Portekizlileri Asya'da savaşarak yerinden etmek, Avrupa'da ise barışı korumaya çalışmak anlamına geliyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Portekizliler Afrika çevresindeki rotayı sıkı biçimde koruyordu; Hollandalıların kendi seferlerini düzenleyebilmesi, Goa piskoposunun hizmetinde bulunmuş Jan Hu",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1602-1796 arasında şirket Asya ticaretinde çalıştırmak üzere 4.785 gemiyle bir milyona yakın Avrupalıyı yola çıkardı; en yakın rakibi olan 2.690 gemide kaldı.",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1619'da Jayakarta limanı ele geçirildi ve adı Batavia olarak değiştirildi; genel valinin oturduğu bu kent, Asya'daki asıl karar merkezi hâline geldi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İlk üç genel valinin görev yıllarında (1610-1619) merkez Ambon'daydı; baharat üretim alanlarının ortasında olmasına karşın Asya ticaret yollarına ve Afrika'dan ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Despot bir genel valinin doğuracağı riski sınırlamak için Hindistan Konseyi (Raad van Indië) kuruldu; buna karşın genel vali, şirketin Asya'daki işlerinin fiilî",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Banda adaları hindistan cevizi tekelinin kaynağıydı; adalıların tekele direnmesi 1609-1621 arasına yayılan bir fetih dizisi doğurdu ve şirketin cezalandırma sef",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ana ada Lontor 1621'de işgal edildi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Seferin başında genel vali Jan Pieterszoon Coen vardı; 6 Mayıs 1621 tarihli mektup Banda'daki Nera adasının önünde demirli Nieuw Hollandia gemisinden yazıldı ve",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu mektup, seferi yönetenlerin kendi kaleminden çıkmış raporudur ve olağanüstü bir cümle taşır: ele geçirilen Lontor halkının \"haer met wil off onwil vant landt",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Dragon adlı gemiyle Batavia'ya 789 kişi gönderildi: 287 erkek, 256 kadın, 246 çocuk.",
+      "durum": "ISARET",
+      "not": "kaynakta bulunamayan sayısal değer: 287 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Adanın dağlarında yaklaşık 2.000 kişinin kaldığı, bunların 600 kadarının erkek olduğu, sağladıkları yiyeceğin yetmeyeceği ve kaçakların arasında çıkan kanlı ish",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Coen bütün bunları yazdıktan sonra zaferi kan dökülmeden kazandıklarını söyler; kendi kayıplarını 5 ölü ve yaklaşık 20 yaralı olarak verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Tutuklanan orangkaya'ların — adaların ileri gelenlerinin — sorgusu işkence altında yapıldı ve mektup önce 45 kişinin tutuklandığını, sonra tutukluların tümünün ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Batavia'ya gönderilenlerin 176'sı ölmüştü, geriye 650 kişi kalmıştı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı mektup dağlardaki direnişin sonunu da sayar: Slamma'dan 1.200 kişi gemiye alındı, sonraki taramalarda 476 kişi daha ele geçirildi, yaklaşık 2.500 kişi açlı",
+      "durum": "ISARET",
+      "not": "kaynakta bulunamayan sayısal değer: 476 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Coen aynı mektupta Heren XVII'den adaları yeniden şenlendirmek için aile ve genç kızlar göndermesini istiyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Pulau Ai adası Hollandalı hür yerleşimciler arasında paylaştırıldı ve adalarda kalan yaklaşık 1.800 kişilik nüfus artık hür yerleşimciler ile onların köleleştir",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Pulau Run'daki 200 kadar Bandalı erkek için Coen tek bir ifade kullanır: geriye kalanların hepsi onlardır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fetih öncesi ada nüfusu yaklaşık 15.000 olarak tahmin edilir; kesin sayının bilinmediği kaydıyla, yaklaşık 14.000 kişinin öldürüldüğü, köleleştirildiği ya da ba",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Colenbrander'in 1919 basımında bu bölüme düşülen Banda'nın nüfusunu boşaltma kararı başlığı Coen'in kendi sözü değil, üç yüzyıl sonraki bir editörün özetidir; k",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "1680 dolaylarında ada nüfusunun yaklaşık yüzde 55,6'sı köleleştirilmiş işçilerden oluşuyordu; Batavia için 17. yüzyıl sonuna dair bildirilen oran yüzde 52,4'tür",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Şirketin kendisi 1687-1688'de yaklaşık 40.000 çalışanının 6.000'ini köleleştirilmiş insanlardan sağlıyordu — ancak bu rakam şirketin köle emeğine bağımlılığını ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Siau adasının halkı daha 1615-1616'da şirket eliyle Banda adalarına sürülmüştü.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Yalnızca Avrupa şirketlerinin resmî kayıtlarına dayanan bir sayım, Asya'daki köle ticaretinin ölçeğini önemli ölçüde eksik gösterir: ticaretin büyük bölümü, ara",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Kaynağa göre Asya'daki köle ticareti ve kölelik uzun süre ihmal edildi, ölçeği küçültüldü ya da Atlantik'tekinden daha hafif diye nitelendi; bu anlatı son yılla",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1602-1796 arasında Asya ticaretine gönderdiği Avrupalı sayısı bir milyona yaklaşırken, Avrupa'nın geri kalanı 1500-1795 arasında toplam 882.412 kişi göndermişti",
+      "durum": "OK",
+      "not": "8 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "17. yüzyıl boyunca İran, Bengal, Malakka, Siyam, Formoza ile Hindistan'ın Malabar ve Koromandel kıyılarında ticaret merkezleri kuruldu; 1652'de Jan van Riebeeck",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1620'de Avrupa'da varılan diplomatik anlaşmalar Hollanda ve İngiliz baharat ticaretinde bir işbirliği dönemi açtı; bu dönem, 1623'te Ambon'da on İngiliz Doğu Hi",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Şirketin 18. yüzyıldaki gerilemesi ise Asya'daki hacminin düşmesinden değil, rakiplerinin büyümesinden geldi: Asya ticaretindeki payı özellikle İngiliz Doğu Hin",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Şirket kendi gemilerinin, yüklerinin ve rakiplerinin sayımını bitmez tükenmez biçimde tuttu; Gommans bu bürokrasiyi \"panoptik\" bir aygıt olarak niteler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Sonuç, bugün Asya tarihçilerinin kendi ülkelerinin iktisat tarihi için başvurduğu bir kaynak yığınıdır — bazı Güney Hindistan hanedanlarının temel kronolojisi b",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Aynı yazı, bu raporların çarpıtılmış olduğunu ve yalnızca başka Avrupa ve mümkün olduğunda Asya dillerindeki kaynaklarla birlikte okunması gerektiğini de söyler",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Jacob van Leur seksen yıl önce tarihçileri şirketin gemilerinden, kalelerinden ve ticarethanelerinden bakmayı bırakmaya çağırmıştı; çağrının karşılık bulması, s",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Zorla göç, mürettebatın çok etnikli bileşimi ve şirketin kölelik ile köle ticaretindeki payı da aynı dönemde görünür hâle geldi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Lahey'deki envanter, 1700 öncesine ait mali evrakın, gemi jurnallerinin, mürettebat listelerinin ve Avrupa içi yazışmanın tamamen ya da büyük ölçüde kaybolduğun",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Şirket sık sık dünyanın ilk çokuluslu şirketi sayılır; kaynaklar bu nitelemeyi de temkinli bir \"bazen\" ile verir.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Karşı adlandırma da vardır ve akademik başvuru raflarına girmiştir: Cambridge Üniversitesi Yayınları'nın 2023 tarihli soykırım tarihi cildinde Frank Dhont'un ya",
+      "durum": "OK",
+      "not": "6 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı yılların bir başka açık erişim çalışması ise 1621 seferini doğrudan \"genocidal conquest of the Banda Islands\" olarak adlandırır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "18. yüzyıl sonunda kaçakçılık, yolsuzluk ve büyüyen idari masrafların altında kalan şirket iflas etti ve 1799'da resmen feshedildi; sahip olduğu topraklar ve bo",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     }
   ]
 }

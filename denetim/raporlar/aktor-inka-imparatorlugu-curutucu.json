@@ -1,19 +1,20 @@
 {
   "id": "aktor-inka-imparatorlugu",
   "gecis": 3,
-  "zaman": "2026-08-21T07:12:52.359Z",
+  "zaman": "2026-08-29T16:09:55.212Z",
+  "govde_hash": "8d64a8fe28bd",
   "itirazlar": [
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Yaygın diller listesi tek bir dile indirgenemez: Keçuva dilleri, Aymara dilleri, Puquina, Mochica, Barbacoan ve daha küçük onlarca dil sayılır.[^k1]",
+      "cumle": "Listenin en rahatsız edici kalemi insandı. Maden çıkaramayan bazı eyaletler yükümlülüklerini kadın ve oğlan çocuklarıyla ödüyordu; kaynak bunu, tek çocuklu ailelerin muaf tutulduğu",
       "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     },
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Bu liste, imparatorluğun tek bir dil topluluğu üzerine kurulmadığını gösterir; resmî dil, konuşulanların yalnızca biridir.[^k1]",
+      "cumle": "Dilin durumu da yerleşik anlatıdan farklıdır. Keçuva İnkalarla başlamadı; İnka genişlemesinden önce birçok bölgede ortak dil olarak kullanılıyordu ve o zaman bile tek parça değildi",
       "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     }

@@ -1,0 +1,779 @@
+{
+  "id": "olay-sanayi-devrimi",
+  "govde_hash": "7e3d21196a16",
+  "commit": "d0eeece",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Kullanılan seride Ada'nın kömür üretimi 1760 için yılda 46 teravatsaatlik enerjiye denk düşer; aynı seri 1840 için 295, 1870 için 802 teravatsaat verir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Uc deger de seride birebir var (46.399994 / 295.29794 / 801.82074). Kor hakem yuvarladi. 1760 degeri olculmus degil ara degerdir; bu, izleyen cumlede (i044) acikca beyan ediliyor."
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Kişi başına düşen üretim ise çok daha ölçülü arttı: aynı veri kümesinde kişi başına gelir 1760'ta 2915, 1840'ta 4018 uluslararası dolardır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Britanya'nın uzun dönemli büyümesini ulusal gelir hesabı çerçevesine oturtan kurucu çalışma, Phyllis Deane ile W. A. Cole imzalı ve 1962'de yayımlanıp 1967'de gözden geçirilen kitaptır; değerlendirme yazarı onu bir kuşağın temel metni sayar, ama kendilerinin de Clapham'ın izinden gittiğini not eder.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onceki surumdeki 'ilk kez sistemli bicimde sayilastiran' ifadesi kaynakta yok; kaynak 'seminal work' der ve Clapham'in izinden gidildigini soyler. Oncelik iddiasi kaldirildi."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "O kitap, geleneksel anlatının kilit gördüğü 1760'lar ve 1770'lerde bir kopuş bulamadı; hızlanmayı 1740'larda ve 18. yüzyılın son yirmi yılında saptadı. Sanayi devrimi bu tahminlerde yok olmadı, gecikerek de olsa ayakta kaldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin kendi cekincesi ('An industrial revolution, although somewhat delayed, survived in their estimates') onceki surumde dusurulmustu; geri kondu."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Knick Harley, Nick Crafts ile yürüttükleri çalışmanın Deane ve Cole'un 1840 öncesi büyüme resmini esaslı biçimde değiştirdiğini, ama onların 19. yüzyıl ortası cari fiyat tahminlerine temelden bağlı kaldığını kendi kalemiyle yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Harley kendi calismasini tarif ediyor; duzeltmenin YONU bu metinde acikca yazmiyor, yalnizca Deane-Cole resminin esasli bicimde degistigi soyleniyor."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Kitabın kendi sektör tahminleri zaten toplam seriyle çelişiyordu: 1770-1800 arasında tekstil üretimi üçte bir artarken imalat endeksi iki katından fazlasına çıkmıştı; 1800-1840 için karşılaştırma ters işler, bu kez tekstil kabaca altı kat, imalatın reel üretimi beş kat büyür.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onceki surum yalniz kendi savini destekleyen 1770-1800 karsilastirmasini aliyordu; kaynagin hemen ardindan verdigi ve yonu tersine ceviren 1800-1840 parantezi geri kondu."
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Sermaye birikimi de 1770-1840 arasında yedi on yıla yayılan kademeli bir hızlanma gösteriyordu; asıl kopuş pamuk eğirmede değil demiryolu çağındaydı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Deane ve Cole'un 18. yüzyıl endeksi beş bileşeni birleştiriyordu ve büyük bölümü vekil göstergeydi: tarım ile hizmetlerin eğilimini nüfus tahminleri, ticarete konu imalatı ithalat ve ihracatın resmî değerleri veriyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Bu iki vekil gösterge endeksin 1700'deki ağırlığının dörtte üçüne yakınını kaplıyordu; endeks 1740'larda nüfus, yüzyıl sonunda dış ticaret hızlandığı için yükselir. Değerlendirme yazarına göre büyümeyi nüfusla ve ticaretle açıklamak bu yüzden dairesel bir akıl yürütmeye tehlikeli biçimde yaklaşır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak bunu Harley'nin kendi kanaati olarak yazar ('At times here, I feel...'); atif cercevesi eklendi. 'Dortte ucune yakin' kaynakta birebir ('together nearly three-quarters of the index in 1700')."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "Britanya'da kişi başına gelir seksen yılda üçte birden biraz fazla artarken aynı veri kümesinde Çin'de bu değer 1760'ta 1022, 1840'ta 849 uluslararası dolardır; Hindistan'da 1700'de 1162, 1850'de 947'dir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cin ve Hindistan degerleri seride birebir var; ucte birden biraz fazla ifadesi Britanya serisinden hesaplandi, kaynakta yazili degil."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "1833 temmuzunda Lord Althorp, önündeki tasarının seçilmiş bir komiteye gönderilmesini ve komiteye üç talimat verilmesini önerdi: on dördüncü yaşına girmemiş hiçbir çocuk günde sekiz saatten fazla çalıştırılmasın, çalışmadıkları saatlerde eğitim görmelerinin yolu açılsın ve fabrikalar boyunca bir teftiş düzeni kurulsun.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "Komisyonun hazırladığı hacimli rapor, oylama yapıldığı sırada üyelerin eline henüz ulaşmamıştı.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Ashley sekiz saatlik sınırın yalnızca on dördüncü yaşa bağlanmasına itiraz etti: on üç yaşını bir gün geçen çocuk ertesi sabah korumasız mı kalacaktı? İtirazının merkezinde kızlar vardı; yasanın kapsadığı çocukların büyük bölümü kızdı ve koruma tam da en çok gerektiği yaşta kesiliyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ashley'nin itirazinin cinsiyet ekseni ('a great portion of the children for whom they were about to legislate were females') onceki surumde tumden dusmustu; tutanaktan geri kondu."
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Althorp ise yetişkinin kendi zamanının efendisi olduğunu, korumanın yalnızca gerçek anlamda çocuk olanlara uygulanması gerektiğini savunuyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onceki surum bunu adsiz 'karsi taraf'a atfediyordu; tutanakta bu sozler onerinin sahibi Althorp'un kendisine ait."
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Oylama Althorp'un değişikliğini 141'e karşı 104 oyla kabul etti.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "1847 mayısında Fielden tasarının üçüncü okumasını önerdiğinde Trelawny yasanın üç yılla sınırlanmasını istedi ve tasarıyı bir deney olarak nitelendirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Yünlü sanayisinden Stansfield, fabrikalarda 650.000 kişinin çalıştığını ve yılda 12 milyon sterlin ücret aldığını, on iki yerine on saat çalışılırsa bu ücretlerden yılda 2 milyon sterlinin eksileceğini hesapladı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Sayilar bir milletvekilinin kendi hesabidir; tutanak onu aynen kaydeder, dogrulugunu onaylamaz."
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Tasarı üçüncü okumayı 151'e karşı 88 oyla geçti.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "1819 tarihli pamuk fabrikaları düzenlemesi asgari çalışma yaşını dokuza, azami süreyi on iki saate bağladı; 1833 düzenlemesi yasaları uygulatmak üzere maaşlı denetçiler görevlendirdi; 1847 tarihli on saat yasası ise çocuklar ve kadınlar için süreyi on saate indirdi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onceki surumdeki 'uygulamayi ilk kez bir kuruma bagladi' kaynakta yok; kaynagin ifadesine ('established paid inspectors to enforce the laws') cekildi."
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Cezaların düşük, denetimin gevşek kalması yüzünden bu yasaların işverene ya da aileye bindirdiği örtük yük, çocukların ürettiği ücret ve kâra kıyasla küçük kaldı; yine de kimi araştırmacı yasaların küçük yaştaki çocukların sayısını ve çalışma sürelerini azalttığını savunur.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Kırdaki ilk tekstil fabrikalarının 1769'da kurulmasıyla birlikte çocuk emeği ifadesinin anlamı değişti; bu fabrikaların ilk işgücü, yetimhanelerden ve düşkünevlerinden alınan çırak çocuklardı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Kaynağın ihtiyatlı saydığı bir tahmine göre 1784 dolayında kır fabrikalarındaki işçilerin üçte biri çıraktı; bazı fabrikalarda oran yüzde 80-90'a çıkıyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynagin kendi cekincesi ('A conservative estimate is that...') govdeye geri kondu; kaynak orani Collier 1964'e baglar."
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "1819 tarihli bir parlamento raporundan hesaplanan oranlara göre pamuk işçilerinin yalnızca yüzde 4,5'i on yaşın altındaydı; buna karşılık yüzde 54,5'i on dokuz yaşın altındaydı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "1833 verileriyle çalışan Tuttle, on üç yaşın altındaki çocukların pamuk, yün, keten ve ipek fabrikalarındaki işgücünün kabaca yüzde 10 ile 20'sini, on üç ile on sekiz yaş arasındakilerin ise yüzde 23 ile 57'sini oluşturduğunu hesapladı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Madenlerde pay daha yüksekti: 1842'de kömür madenlerinin yeraltı işgücünün üçte biri on sekiz yaşın altındaydı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Çocukların işini soran ilk güvenilir nüfus sayımı 1841'dir; bu tarihten öncesi için tarladaki, evdeki ve fabrikadaki çocuk sayısı karşılaştırılamaz.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Kötümserler — Alfred, Engels, Marx, Webb çifti — çocukların sanayiciler eliyle sömürüldüğünü savundu; iyimserler, Ure ve Clapham, işin çocuk için hafif olduğunu ve ailenin gelirine gerekli katkıyı sağladığını ileri sürdü.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin kotumser listesi dort ogeli (Alfred 1857, Engels, Marx, Webb ve Webb); eksik oge geri kondu. Kaynak Alfred'i yalniz bu adla verir (Samuel Kydd takma adi), o yuzden govdede de tek ad birakildi."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "Ivy Pinchbeck ise çalışma saatlerinin ve koşullarının eski ev sanayilerinde de en az fabrikadaki kadar kötü olduğunu gösterdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "Arz yanını savunanlar yoksulluğu ve çalışmanın sıradan insanın hayatındaki geleneksel yerini öne çıkarır: aile geliri buna muhtaçtı ve işçi sınıfının çocukluk tasavvurunda çocuk küçük bir yetişkindi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Talep yanını savunanlar ise fabrikatörün ucuz, itaatkâr ve sendikalaşması olası olmayan bir işgücü aradığını, makinelerin pek çok işlemi tek adımlık hâle getirip vasıfsız işçiyi vasıflının yerine geçirdiğini vurgular; kimi araştırmacı çocuk bedeninin alçak makinelere ve dar maden galerilerine uygun düştüğünü ekler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Booth'un derlediği sayılara göre on beş yaşın altındakilerin tekstil ve boyama işgücündeki payı düz bir çizgi izlemez: 1851'de yüzde 15, 1861'de yüzde 19, 1871'de yüzde 14, 1881'de yüzde 11'dir. Madencilikte düşüş kesintisizdir; aynı yıllarda yüzde 13'ten sırasıyla 12, 10 ve 6'ya iner.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Onceki surum yalniz uc ve son yili aliyor, tekstil serisinin 1861'de yuzde 19'a cikan tepesini gizliyordu; Booth tablosunun dort degeri de kondu."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Düşüşü kimi araştırmacı babanın ekmek kazandığı, annenin ev kadını olduğu aile modelinin işçi sınıfına yayılmasına, kimi yaşam standardının yükselmesine, kimi ailelerin okula gönüllü yönelmesine, kimi de daha ağır makinelerin vasıflı yetişkin erkek gücünü gerektirmesine bağlar; zorunlu eğitim yasaları 1876'ya kadar çıkmadığı için bu düşüşü onlar açıklayamaz.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin ilk sirada verdigi aciklama (toplumsal tarihcilerin 'domestic ideology' tezi) onceki surumde dusmustu; geri kondu."
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Robert Allen'ın yanıtı fiyatlara dayanır ve kendi kaleminden şöyle özetlenir: Britanya'da ücretler sermaye fiyatlarına kıyasla olağanüstü yüksekti, eğirme makinesini kullanmak bu yüzden yalnızca orada kârlıydı; kurumların niteliği ya da kültürün ilericiliği ne olursa olsun ne Fransızlar ne Hintliler 18. yüzyılda pamuğu makineleştirmeyi kârlı bulurdu.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k10",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem 1. maddesi. Allen'in tezi artik degerlendirme yazisindan degil Allen'in kendi ozetinden okunuyor (Crossref abstract, JEH 2009: 'Wages were exceptionally high relative to capital prices in Britain'). Destek ozet duzeyinde kaldigi icin kismi."
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Hikâyeye iki beklenmedik kazanç ekler: yeni pazarlar açan ve servetinin bir bölümü Afrikalıların zorla köleleştirilmesinden gelen deniz seferleri, iki yüzyıl sonra da kolay erişilir kömürün bulunması. Allen ikisini de sonraki büyümenin gerekli koşulu sayar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin 'Both of these windfalls are taken to be necessary conditions' ifadesi geri kondu."
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Sermayenin neden Asya'ya taşınıp ucuz emeği oracıkta çalıştırmadığını açıklarken emeğin fiyatı kadar niteliğini de sayar: 19. yüzyıl başında Britanyalı işçilerin yaklaşık yarısı okuryazarken Hintli işçiler okuma yazma bilmiyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Onceki surum soruyu tersine cevirmisti ('ucuz emegin neden Asya'ya tasinmadigi'); kaynakta soru sermayenin Asya'ya tasinip tasinamayacagidir. Kaynagin Hintli isciler karsilastirmasi da geri kondu."
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Offer bu çerçeveye toprağı geri koymayı önerir; ona göre fosil yakıt yalnızca ucuz enerji değil, kas gücünü bir büyüklük mertebesinden fazla çarpan bir kaldıraçtır ve kömürün getirdiği enerji akışı olmasa teknik yenilik tek başına pek işe yaramazdı.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Sorunun neden böyle kurulduğu kaynağın çerçevesinde açıktır: 18. yüzyıla kadar Çin ile Hindistan dünya imalatına egemendi ve Avrupa'ya porselen ile kumaş ihraç ediyorlardı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Kenneth Pomeranz ve Prasannan Parthasarathi gibi dünya tarihçileri, 1800 öncesinde Asya'nın müreffeh bölgeleriyle Avrupa'nın kuzeybatısı arasında belirgin bir fark bulunmadığını savunur. Bu konum burada kendi metinlerinden değil, kendilerine karşı çıkan Stephen Broadberry ile Bishnupriya Gupta'nın 2006 tarihli makalesinin yazar özetinden okunuyor; künye o özeti taşıyan üstveri kaydıdır, tam metin değil.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kor hakem 2. maddesi. Crossref kaydinin abstract alani DOLU cikti ve makalenin kendi SUMMARY'sini tasiyor; iddia o ozetin tasidigina indirildi ve kunye buna gore yeniden adlandirildi. Tam metin acik erisimde yok (Semantic Scholar openAccessPdf: CLOSED; MPRA'da kayit yok)."
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Broadberry ile Gupta'ya göre Asya'nın müreffeh bölgeleri kuzeybatı Avrupa'ya değil, Avrupa'nın duraklayan güney, orta ve doğu kesimlerine benziyordu: Hindistan ve Çin'in gelişmiş bölgelerinde tahıl cinsinden ücretler kuzeybatı Avrupa'yla karşılaştırılabilirdi, ama alım gücünü ticarete konu mallar üzerinde belirleyen gümüş ücretler belirgin biçimde düşüktü. Onlara göre fark parasal değil üretkenlik kaynaklıydı ve büyük ayrışma çoktan başlamıştı.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kor hakem 2. maddesi. Iki cekirdek oge de kayittaki yazar ozetinde birebir gecer ('look similar to the stagnating southern, central, and eastern parts of Europe'; 'not simply a monetary phenomenon'). Destek ozet duzeyindedir: tam metin kunyede degil ve acik erisimde bulunamadi."
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Nicholas Crafts kendi çalışmasını özetlerken buharın üretkenlik artışına etkisini, sermaye derinleşmesi hesaba katıldığında bile, görece küçük ve uzun gecikmeli bulur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k11",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem 1. maddesi. Buharin gec etkisi artik Nuvolari'nin degerlendirme yazisindan degil Crafts'in kendi ozetinden okunuyor (Crossref abstract, JEH 2004). Ozet takvim vermez, yalnizca etkinin 'relatively small and long-delayed' oldugunu soyler; destek ozet duzeyinde."
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "1624 tarihli Tekeller Yasası'nın kurduğu düzeni sanayileşmenin temel itici gücü sayan anlatıya karşı Christine MacLeod, dönemin yenilikçi sanayilerinin sistemli olarak düşük patent eğilimi gösterdiğini saptamıştı.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Petra Moser'in sayımına göre 1851 Kristal Saray sergisinde gösterilen 6.377 Britanya buluşunun yalnızca yüzde 11,1'i patentliydi.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Britanya patent sisteminin yüksek harçları ve hantal işlemleri düşünüldüğünde, buluş sahiplerinin önemli bir bölümünün koruma yerine öncelik, gizlilik ve itibarı seçmesi şaşırtıcı değildir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak 'cogu' demez; 'a significant volume of inventive activities' ve 'highly likely' der. 'Cogunun' ifadesi 'onemli bir bolumunun'a cekildi."
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Serinin 18. yüzyıl bölümü doğrusal ara değerdir: yıllık artış 1700-1750 arasında sabit 0,312, 1750-1775 arasında sabit 1,006 teravatsaattir. 1760 değeri bu yüzden ölçüm değil ara değerdir; güvenilebilecek olan büyüklük mertebesidir, ondalık değil.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem uyarisi dogrulandi: CSV'de 1700-1750 arasi ardisik yil farki sabit 0,311973, 1750-1775 arasi sabit 1,006096 TWh. Seri bu araliklarda dogrusal ara deger uretiyor; govde artik olcumu yaziyor, 'sabit artislarla ilerler' ifadesiyle yetinmiyor."
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Ayrışma bu seride iki yönlü işler: Britanya'nın değeri yükselirken Çin ile Hindistan'ınki geriler, ve seksen yıllık aralıkta Britanya'nın artışı Asya'nın gerilemesinden büyüktür.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kor hakem duzeltmesi. Onceki surum 'ayrisma Britanya'nin yukselisinden cok Asya'nin duran degerlerinden dogar' diyordu; bu, kendi alintiladigi sayilarla celisiyordu (Britanya %38 artis, Cin %17 gerileme). Karsilastirma seriden hesaplandi, kaynakta yazili degil."
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Labouchere yetişkinin çalışma süresine karışmaya itiraz ediyor, ama aynı konuşmada fabrikadan çıkarılan çocukların fitilli kumaş kesme ve toplu iğne yapımı gibi daha ağır işlere gittiğini, Ulster'de bir papazın cemaatinden aktardığı hesaba göre el dokumacılarının haftada üç gece uykusuz çalıştığını anlatıyordu; ona göre fabrikaya karışmak, denetim ulaşmayan yerlere itmek olabilirdi.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem eklemesi. Onceki surum 88 karsi oyun tamamina tek bir gerekce ('cocuklarin korunmasi degil devletin karismasi') atfediyor, tutanagin en uzun karsi konusmasini gizliyordu. Papazin hesabi tutanakta blok alinti olarak gecer: aktarim halkasi iki katli (milletvekili -> papaz)."
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "Cunningham 1834 tarihli yoksul yasaları raporuna bakarak cemaat cemaat çocuğa neredeyse hiç iş bulunmadığını, asıl sorunun sömürü değil aylaklık olduğunu savunur; karşı taraf tekstil fabrikalarında çok sayıda çocuk çalıştığını gösterir. Kaynak ikisini çocuk emeğinin bölgesel bir olgu oluşuyla uzlaştırır: imalat bölgelerinde yoğun, kırda seyrek.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem eklemesi. Kaynagin one cikardigi bu tartisma ve uzlastirma onceki surumde tumden yoktu; olcek sorusu boylece tek yandan sunuluyordu."
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "Ülke ölçeğinde ise 1841 sayımında yirmi yaş altı oğlanların en yaygın üç işi tarım işçiliği (196.640), ev hizmetçiliği (90.464) ve pamuk imalatıydı (44.833); kızların 346.079'u ev hizmetçisi, 62.131'i pamuk imalatındaydı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem eklemesi. Bes rakam da kaynakta birebir. Onceki surum fabrikayi cocuk emeginin merkezi gibi sunuyor, kaynagin kendi sayim verisinin fabrikayi azinlikta biraktigini atliyordu; kizlar da metinde hic gorunmuyordu."
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Bölümün geri kalanı Allen'ın kitabından değil, kitabı değerlendiren Avner Offer'ın aktarımından okunuyor: sermayeyi ucuzlatan ticaret kârları ile toprak rantlarıydı, bileşim emek tasarrufuna güçlü teşvik yarattı; ellerin ucuz olduğu yerlerde onları pahalı makineyle değiştirmek için neden yoktu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem 1. maddesi. Aktarim halkasi artik kunye notunda degil govdenin kendisinde yazili: bu cumleler Allen'in kitabindan degil Offer'in degerlendirme yazisindan geliyor."
+    },
+    {
+      "iddia_id": "i050",
+      "cumle": "Katkının ancak 1840'lardan itibaren belirginleştiği ifadesi ise Crafts'ın kendi metninden değil, onu von Tunzelmann ile birlikte okuyan Alessandro Nuvolari'nin değerlendirme yazısından geliyor.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem 1. maddesi. Takvim iddiasinin degerlendirme yazisina ait oldugu govdede beyan edildi; Nuvolari'nin cumlesi kunyedeki dogrulama dizesidir."
+    },
+    {
+      "iddia_id": "i051",
+      "cumle": "1847 martında Viscount Morpeth, kentlerin sağlığına dair tasarı için izin isterken hekim Dr. Guy'ın Kayıt Genel Müdürlüğü raporlarından derlediği tabloyu okudu: milyon kişide yıllık ölüm kırda 19.300, kentte 27.073'tü; ölüm oranı kırda elli ikide bir, kentte otuz yedide birdi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kor hakem 3. maddesi. Dalga notunun istedigi kentsel olum orani govdede yoktu ve hicbir kunye tasimiyordu. Sayilar tutanakta birebir gecer ('Annual deaths in 1,000,000 19,300 27,073', 'Rate of mortality 1 in 52 1 in 37'). Tablo Dr. Guy'in derlemesidir; tutanak onu kaydeder, dogrulugunu onaylamaz."
+    },
+    {
+      "iddia_id": "i052",
+      "cumle": "Bin kişideki ölüm Liverpool'da 35, Manchester'da 32, Halifax ile Kidderminster'da 21'di.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tutanakta 'Liverpool, deaths per 1,000, 35; Manchester, 32; ... Halifax and Kidderminster, 21 in 1,000' olarak gecer. Ayni konusmadaki 'England 1 in 15' degeri metnin kendi icinde tutarsiz oldugu (ilerideki pasaj 1 in 46 der) icin govdeye alinmadi."
+    },
+    {
+      "iddia_id": "i053",
+      "cumle": "Farkı yoksullukla açıklamanın önünde bir engel vardı: Morpeth'in Lord Ebrington'ın Plymouth dersinden aktardığına göre ücretlerin en düşük olduğu Wiltshire'da ölüm kırk dokuzda bir, Lancashire'da otuz altıda birdi; 1841'de ortalama ölüm yaşı Wiltshire'da 35, Lancashire'da 22, Liverpool'da 17, Liverpool işçilerinde 15'ti.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Sayilar tutanakta birebir ('in Wiltshire, the county of lowest wages, the deaths are 1 in 49; in Lancashire, 1 in 36'; 'The average age at death in 1841 was, in Wiltshire, 35 years, in Lancashire, 22; at Liverpool, 17 ... operatives in Liverpool, 15'). Aktarim halkasi iki katlidir: Ebrington'in Plymouth dersinden Morpeth'in konusmasina; guven bu yuzden orta."
+    },
+    {
+      "iddia_id": "i054",
+      "cumle": "Konuşmacının çekincesi de kayıtlıdır: aralık çeyreğinin daha ağır tablosunu, gıda arzındaki azalma ile ücretlerdeki düşüş de artışı açıklayabileceği için okumadığını söyler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k12",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin kendi sinir beyani: 'I only refrain from quoting it because it might be said that the diminished supply of food, the decrease in wages ... might account for the increase of mortality as well as the unhealthy state of the towns.'"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 48,
+    "kismi": 6,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "ec7703532440",
+      "yeni_hash": "7e3d21196a16",
+      "gerekce": "kaynak derinlestirme turu: k10 (Allen kendi ozeti), k11 (Crafts kendi ozeti) ve k12 (Hansard, Health of Towns 1847) kunyeye eklendi; i033 ve i040 birinci el ozete tasindi, i049-i054 eklendi, degisen cumleler govdeye oturtuldu. Hakem alani degismedi."
+    }
+  ]
+}

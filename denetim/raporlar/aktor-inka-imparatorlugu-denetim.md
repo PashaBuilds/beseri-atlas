@@ -1,17 +1,72 @@
 ## aktor-inka-imparatorlugu
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.833Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T16:09:54.698Z_
 
-- [OK]      k1 → "yüzyıl başı için yaklaşık 12 milyon kaydedilir."
-- [ATOMSUZ] k1 → "12 milyonluk değerin verilmesi, atlasın çoğu erken dönem aktöründe yapamadığı bir karşılaştırmayı mümkün kılar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1500 yılında yaklaşık 503,1 milyondur."
-- [OK]      k1 → "Kaynak resmî dili Klasik Keçuva olarak verir ve ekler: Huayna Capac'ın saltanatından önce muhtemelen Aymara." — 2 atom doğrulandı; 2 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bir imparatorluğun resmî dilinin, hanedanın son kuşaklarında değişmiş olabileceğinin kaydedilmesi dikkat çekic…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Yaygın diller listesi tek bir dile indirgenemez: Keçuva dilleri, Aymara dilleri, Puquina, Mochica, Barbacoan v…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Bu liste, imparatorluğun tek bir dil topluluğu üzerine kurulmadığını gösterir; resmî dil, konuşulanların yalnı…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak yönetim biçimini "ilahi, mutlak monarşi" olarak sınıflandırır; hükümdar unvanı Sapa İnka'dır ve hanedan…"
-- [OK]      k1 → "Başkent Cusco'dur ve imparatorluk en geniş sınırlarına yaklaşık 1525'te ulaşmıştır."
-- [ATOMSUZ] k1 → "En geniş sınıra ulaşma tarihi ile düzenin sonu arasındaki kısa aralık, çöküşün zirve noktasının hemen ardından…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Düzeni sona erdiren imparatorluk, en geniş noktasında 13,7 milyon kilometrekare alan kaplayan İspanyol İmparat…" — 2 atom doğrulandı; 1 ad ölçülemedi
-- [ATOMSUZ] k1 → "Yol ağı, kayıt tutma yöntemi, tarım düzeni ve fethin seyri burada ayrı başlıklar altında ele alınmamıştır; kay…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İnka düzenini Avrasya'da uygarlığın ölçütü sayılan özelliklerden ayıran şeylerin bir bölümü yokluklardır: teke…" — programatik olarak ölçülemedi (ad karşılığı yok): Avrasya
+- [OK]      k1 → "Buna karşılık And dağlarının sırtı boyunca imparatorluğun her köşesine uzanan bir yol ağı, ince dokunmuş kumaş…"
+- [ATOMSUZ] k1 → "Düzen büyük ölçüde parasız ve pazarsız işliyordu; alışverişin yerini karşılıklılık alıyor, vergi denen yükümlü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kural imparatorluğun tamamında aynı işlemiyordu: karşılıklılık geleneğinin yerleşmediği kuzey kıyısında balta …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Düzenin kendi yazı sistemi yoktu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Bu yüzden hakkındaki erken yazılı kayıtların hemen tamamı onu yıkanların kaleminden çıkmıştır; bunların en az …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Düzenin kendi adı Tawantinsuyu, yani dört parçalı ülkeydi."
+- [OK]      k1 → "Merkezî yönetimin çevresinde Chinchaysuyu, Antisuyu, Kuntisuyu ve Qullasuyu diye adlandırılan dört taşra yönet…"
+- [OK]      k1 → "Bugün kullanılan İnka İmparatorluğu adı ise düzenin kendi adı değildir; on altıncı yüzyıl vakayinamelerinden g…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Keçuvada inka sözcüğü de yalnızca hükümdarı karşılamaz, soylu tabakanın tamamına uzanır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Wari, Cusco bölgesini yaklaşık dört yüz yıl elinde tuttu ve İnkalara mal edilen başarıların bir bölümü — binle…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Yükümlülüğün adı mit'a idi ve para değil emek istiyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Cieza de León'un Cusco'da derlediği anlatıya göre yük eyalet eyalet farklılaşıyordu: madeni olan yerler gümüş …" — programatik olarak ölçülemedi (ad karşılığı yok): Cusco
+- [ATOMSUZ] k2 → "Maden çıkaramayan bazı eyaletler yükümlülüklerini kadın ve oğlan çocuklarıyla ödüyordu; kaynak bunu, tek çocuk…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Böyle bir çekince, anlatının kimden geldiğini hatırlatır: Cieza'ya bilgi verenler Cusco'nun orejones denen soy…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k2 → "Eyaletlerin verdiği kadınlar hükümdarın hizmetiyle Güneş tapınakları arasında bölüştürülüyordu." — programatik olarak ölçülemedi (ad karşılığı yok): Güneş
+- [ATOMSUZ] k2 → "Her eyalette sefer için erzak ve donanım tutan depolar vardı; savaş yoksa bu birikim yoksullara ve dul kadınla…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Yoksul sayılanlar çalışamayacak kadar yaşlı, sakat ya da hasta olanlardı; sağlıklı ve çalışabilir olan hiçbir …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Kayıt, khipu denen düğümlü iplerle tutuluyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "İplikler pamuktan ya da lama ve alpaka yününden eğriliyor, üç ayrı düğüm türü katmanlı kümeler hâlinde diziliy…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Guamán Poma'nın çizimlerinden biri khipu tutucusunu doğrudan sarayın yazmanı ve muhasebecisi olarak gösterir."
+- [ATOMSUZ] k2 → "Her eyalet yöneticisinin yanında quipucamayo denen muhasebeciler bulunuyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Düğümler birden ona, ondan yüze, yüzden bine sayıyor, bir ipte birler, ötekinde onlar duruyordu; bölgeye düşen…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Aynı düzen nüfus sayımını da taşıyordu: her yıl sonunda her eyaletteki ölümler ve doğumlar düğümlere işleniyor…" — programatik olarak ölçülemedi (ad karşılığı yok): Cusco
+- [OK]      k2 → "Xauxa eyaletindeki Marcavillca'da yerel bey Guacarapora'dan sistemi göstermesini istedi; adam khipuları getirt…"
+- [ATOMSUZ] k2 → ""Bu sayma sistemine kuşkuyla bakıyordum" diye açar bölümü ve gördükten sonra şaşırdığını yazar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Kaydın canlılığı fetihten sonra da sürdü: İspanyol birliklerinin geçtiği vadilerde uğranılan zarar khipularla …"
+- [OK]      k1 → "Ama iplerin okunma bilgisi kayboldu; khipuların hemen tamamı kullanımdan düştü, zamanla çürüdü ya da İspanyoll…"
+- [ATOMSUZ] k1 → "Sonucu bugün hâlâ ödenmektedir: düzen kendi nüfusunu düzenli olarak sayıyordu, ama sayımın taşıyıcısı okunamaz…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Tahminler 4 milyonla 37 milyon arasında değişir; çoğunluğu 6 ile 14 milyon aralığında toplanır."
+- [ATOMSUZ] k2 → "İmparatorluğun iki ucu arasındaki mesafe, bir haberin insan hızıyla taşınmasını yönetim açısından işe yaramaz …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Çözüm, kraliyet yolları boyunca yarım fersahta bir kurulan küçük evlerdi; her evde komşu köylerin dönüşümlü ol…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Koşucu bir sonraki eve yaklaşırken haberi bağırarak aktarıyor, kendisi dinlenmeye giriyor, öteki hemen yola çı…"
+- [ATOMSUZ] k2 → "Cieza bu düzeni atlı ulakla karşılaştırır ve yaya menzilin daha hızlı olduğunu söyler; koşucuların taşıdıkları…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Mitimaes, bir ülkeden başkasına nakledilenlerin adıydı ve kaynak üç ayrı türünü sayar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Yeni fethedilen bir eyaletten belli sayıda insan, iklimi ve koşulları kendi ülkelerine benzeyen başka bir bölg…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Sürgünün gönüllü görünmesi için nakledilenlere altın ve gümüş bilezikler, kadınlara kumaş ve tüyden giysiler v…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Yerleşimcilerin arasında casuslar vardı; yerlilerin konuşmalarını ve tasarılarını valilere bildiriyor, bilgi g…" — programatik olarak ölçülemedi (ad karşılığı yok): Cusco
+- [ATOMSUZ] k2 → "Kaynak sonucu açıkça söyler: yerliler mitimaesten korkuyor, mitimaes yerlilerden kuşkulanıyordu." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Aynı kaynak, İnkalar arasında ölçüsüz ve büyük bir zulümle cezalandıranların bulunduğunu da not eder." — programatik olarak ölçülemedi (ad karşılığı yok): İnkalar
+- [ATOMSUZ] k2 → "İkinci tür mitimaes, Andların doğu yamaçlarındaki orman sınırında kaptanlar altında garnizon kuranlardı." — programatik olarak ölçülemedi (ad karşılığı yok): Andların
+- [ATOMSUZ] k2 → "Üçüncüsü kaynağın kendisine daha da tuhaf görünür: fetih sırasında iklimi elverişli, toprağı verimli ama boş k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Nakledilenlere yüklenen işlerden biri de doğrudan ekolojikti: soğuk olduğu için mısır, koka ve meyve yetişmeye…" — programatik olarak ölçülemedi (ad karşılığı yok): Andların
+- [OK]      k6 → "Murra'nın dikey takımada dediği model, birbirini tamamlayan farklı yükseklik kuşaklarının tek bir toplulukça b…"
+- [OK]      k1 → "Sayılarının 15.000 ile 40.000 arasında olduğu, yönettikleri nüfusun ise 10 milyon dolayında bulunduğu tahmin e…"
+- [OK]      k1 → "Resmî eğitim bu dar halkanın dışına kapalıydı: merkezî soyluluğun ve kuraka denen yerel beylerin belli katmanl…"
+- [ATOMSUZ] k1 → "Miras hem anne hem baba tarafından geçiyor, akrabalık paralel bir çizgi izliyor, bir kadın toprağa ve sürüye a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Tarlada çalışan kadınları gören İspanyollar bunu kölelik sandılar; kendi toplumlarında kadınlar aynı ölçüde ça…"
+- [OK]      k1 → "Keçuva İnkalarla başlamadı; İnka genişlemesinden önce birçok bölgede ortak dil olarak kullanılıyordu ve o zama…" — 1 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "İnka beyleri onu imparatorluk dili olarak yaydılar, ama topluluklar kendi dillerini de büyük ölçüde korudular." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k2 → "Cieza kuralın nasıl uygulandığını anlatır: Cusco'da konuşulan dili öğrenmek ağır ceza tehdidiyle zorunlu kılın…" — programatik olarak ölçülemedi (ad karşılığı yok): Cusco
+- [OK]      k3 → "Sömürge kaydının niyetini en açık gösteren metin, 1572'de tamamlanan bir kitaptır."
+- [OK]      k3 → "Pedro Sarmiento de Gamboa'nın İnka tarihi, Peru genel valisi Francisco de Toledo'nun buyruğuyla yazıldı; Sarmi…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "İnkalar iktidarı fetihle gasp etmiş ve zulümle yönetmiş sayıldığına göre, İspanya kralı Peru'nun asıl meşru hü…"
+- [OK]      k3 → "Metnin İngilizce çevirisini hazırlayan editör iki şeyi not eder: kitap Las Casas'ın Amerika'daki İspanyol zulm…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k4 → "Felipe Guamán Poma de Ayala'nın krala gönderdiği uzun şikâyetname, yol üzerindeki tanbolara ayrı bir bölüm aça…"
+- [ATOMSUZ] k4 → "Yazarın kendi cümlesi doğrudandır: mit'a kılıfıyla yoksul yerlinin elindeki ne varsa alınmaktadır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Sömürge görevlileri İnka mit'a düzenini kendi amaçları için, zaman zaman acımasız biçimde kullandı; her ailede…"
+- [ATOMSUZ] k1 → "Ölen kişinin yerine ailenin bir başkasını göndermesi gerekiyordu ve ölüm çoğu zaman bir iki yıl içinde geliyor…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Yerleşik anlatı düzenin 1533'te bittiğini söyler ve tarih aralıkları çoğu zaman öyle verilir."
+- [OK]      k1 → "Manco İnka 1536'da kenti geri aldı, İspanyollar kısa süre sonra yeniden ele geçirdi; Manco Vilcabamba dağların…"
+- [OK]      k1 → "Son kale 1572'de düştü; Manco'nun oğlu Tupac Amaru yakalandı ve idam edildi."
+- [OK]      k1 → "Pizarro 1532'de döndüğünde Huayna Capac'ın oğulları Huáscar ile Atahualpa arasındaki taht savaşı sürüyor, yeni…"
+- [OK]      k1 → "Kaynağın belki daha da önemli saydığı etken salgındır: çiçek, grip, tifüs ve kızamığın Orta Amerika'dan yayılm…"
+- [OK]      k1 → "Yayılmayı büyük olasılıkla İnka yol düzeninin kendi verimliliği kolaylaştırmıştır."
+- [OK]      k1 → "Ne var ki bu iddia tartışmalıdır: Huayna Capac'ın ölümüne ilişkin en erken yazılı anlatılar ölüm nedeni konusu…"
+- [ATOMSUZ] k3 → "Geriye kalan yazılı anlatının önemli bir bölümü ise fethi meşrulaştırmak için sipariş edilmişti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 7 OK · 0 ISARET · 0 HATA · 5 ATOMSUZ
+**Özet:** 30 OK · 0 ISARET · 0 HATA · 37 ATOMSUZ

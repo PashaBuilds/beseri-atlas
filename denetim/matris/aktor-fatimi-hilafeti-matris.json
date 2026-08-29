@@ -1,0 +1,723 @@
+{
+  "id": "aktor-fatimi-hilafeti",
+  "govde_hash": "f3b329d98f78",
+  "commit": "d0eeece",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i001",
+      "cumle": "Ehl-i sünnet'te halife seçimle ya da önceki halifenin tayini ve halkın biatıyla iş başına gelirken, Fâtımîler'de imam ilâhî bir hak olarak kendinden öncekinin halefi olur; aranan tek şart, önceki imamdan gelen bir vasiyet ya da nastır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CURUTUCU ITIRAZI REDDEDILDI (\"tek\" turu ustunluk-iddiasi): \"aranan tek sart\" ifadesi kaynagin kendi cumlesidir -- k1: \"Imamda aranan tek sart 'vasiyet' veya onceki imamdan gelen bir 'nass'in bulunmasidir.\" Bir oncelik/ustunluk iddiasi degil, bir sart sayimidir; mekanik suzgec yanlis yakalamistir."
+    },
+    {
+      "iddia_id": "i002",
+      "cumle": "Devletin başındaki imam Allah'ın yeryüzündeki temsilcisi sayılır, her ilmin kaynağı ve şeriatın birinci müfessiri kabul edilirdi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i003",
+      "cumle": "Hânedan adını Peygamber'in kızı Fâtıma'dan alır; kurucuları Fâtıma ve Ali yoluyla Peygamber'in soyundan geldiklerini ileri sürerler ve bu iddianın doğruluğu eski ve yeni âlimler arasında tartışma konusu olmuştur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV metni iddiayi hanedanin kendi iddiasi olarak verir ve \"bu iddianin dogrulugu eski ve yeni alimler arasinda tartisma konusu olmustur\" cekincesini ayni cumlede tasir; cekince metne aynen tasindi."
+    },
+    {
+      "iddia_id": "i004",
+      "cumle": "Dâî Ebû Abdullah eş-Şiî, Berberî Kutâme kabilesinin desteğiyle Ağlebî başşehri Rakkāde'yi ele geçirdi (296/909); Ubeydullah, 29 Rebîülâhir 297'de (15 Ocak 910) şehre girip Mehdî-Lidînillâh ve emîrü'l-mü'minîn lakaplarıyla halife ilân edildi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "ESKI GOVDE DUZELTMESI: onceki surum \"909-1171 arasinda hukum suren devlet\" diyip kurulusu 909 diye tek tarihe baglamisti. TDV: Rakkade 296 (909) yilinda alindi, halifelik ilani 29 Rebiulahir 297 / 15 Ocak 910'dadir. Hicri 297 = miladi 909-910; iki tarih ayri yazildi."
+    },
+    {
+      "iddia_id": "i005",
+      "cumle": "Altmış yıl sonra kumandan Cevher es-Sıkıllî Mısır'ı neredeyse direnişsiz aldı (Şâban 358 / Temmuz 969); maddenin kendi değerlendirmesiyle, İslam tarihinde ilk defa Bağdat'a ismen bile bağlı olmayan bir yönetim Mısır'a hâkim oluyordu.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM: TDV metninde bir dizgi hatasi var (ordunun teftisi \"14 Rebiulevvel'de (5 Subat 960)\" yaziliyor, yil 358/969 olmali); metin bu bozuk tarihi kullanmadi. HAKEM DUZELTMESI: \"ilk defa\" onceligi kaynagin kendi hukmu -- k1: \"Islam tarihinde ilk defa ismen bile olsa Bagdat'a bagli olmayan bir hukumet Misir'a hakim oluyordu\" -- ama gorunur bir atif cercevesi yoktu; \"maddenin kendi degerlendirmesiyle\" eklendi. Curutucunun \"ustunluk-iddiasi\" itirazi bu yolla karsilandi, kaldirilmadi: kaynak onceligi acikca soyluyor."
+    },
+    {
+      "iddia_id": "i006",
+      "cumle": "Fâtımî halifeleri, Şîa'nın Allah'ın gizlediğini açığa çıkarmama ilkesine dayanarak resmî bir soy kütüğü açıklamamakta ısrar ettiler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i007",
+      "cumle": "Kendi kaynaklarında silsile Ubeydullah el-Mehdî'yi İsmâil bin Ca'fer es-Sâdık'a bağlar; ama Mehdî'nin Yemen'e gönderdiği bir mektupta soyunun İsmâil'e değil, onun büyük kardeşi Abdullah'a dayandığını söylemesi kayıtlardaki en ciddi çatlaktır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mektubun kendisi elimizde degil; TDV maddesi aktariyor. Iddia \"Mehdi soyle demistir\" degil \"kaynak boyle kaydeder\" duzeyinde tutuldu."
+    },
+    {
+      "iddia_id": "i008",
+      "cumle": "Abbâsîler 402 (1011) yılında Fâtımîler'in soyunu çürütmek için Bağdat'ta bir tutanak (mahzar) yayımlattı; 444'te (1052) benzeri bir şecere düzenlendi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i009",
+      "cumle": "Bu belgenin kimin imzasını taşıdığı bile çekişmelidir: TDV maddesi tutanağı Şerîf el-Murtazâ'nın imzaladığını yazar, O'Leary ise Alevî nesep kayıtlarının resmî sorumlusu olan ve 359'da doğup 406'da ölen Şerîf er-Radî'nin, kendi divanında Fâtımîler'in Ali soyundan gelişini açıkça kabul ettikten sonra 402'de bu ilânnâmeye katıldığını aktarır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "IKI KAYNAK AYRILIYOR: TDV 402 (1011) mahzarini Serif el-Murtaza'nin imzaladigini yazar; O'Leary ayni ilannameyi Alevi nesep kayitlarinin resmi sorumlusu Serif er-Radi'ye (359-406) baglar ve onun daha once divaninda nesebi kabul ettigini ekler. Cumle iki atfi da ayri ayri, sahiplerine baglayarak verir; hangisinin dogru oldugu burada kararlastirilmadi."
+    },
+    {
+      "iddia_id": "i010",
+      "cumle": "O'Leary'nin kendi uyarısı şudur: mesele o kadar güncel bir siyasi çekişme konusuydu ki tarafsız bir kanaate ulaşmak neredeyse imkânsızdı; nesep, incelendiğinde dokuzdan az olmayan birbirinden farklı biçimde ortaya çıkıyordu.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "O'Leary'nin kendi cekincesi: \"the whole question was so much a matter of current political controversy that it was practically impossible to get anything like an unbiassed opinion\" ve nesebin \"no less than nine divergent forms\" halinde gorundugu. Ikisi de metne tasindi."
+    },
+    {
+      "iddia_id": "i011",
+      "cumle": "Aynı kitap iki tarafı da işaretler: Makrîzî Fâtımî yanlısıdır, çünkü seyyidlik iddiasını onların üzerinden kurar; İbn Hallikân ise açıkça Fâtımî karşıtıdır ve Muiz'in kılıcını çekip şeceresinin kılıcı olduğunu söylediği meşhur hikâyeyi, tarih uyuşmadığı için bizzat kendisi reddeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "O'Leary iki tarafi da tarafli sayar: Makrizi'nin seyyidligini Fatimiler uzerinden kurdugunu, Ibn Hallikan'in \"strongly anti-Fatimid\" oldugunu yazar. Ikinci ayrinti onemli: karsit yazar bile kilic-secere hikayesini tarih uyusmadigi icin reddeder."
+    },
+    {
+      "iddia_id": "i012",
+      "cumle": "On dördüncü yüzyılda Kuzey Afrikalı Mâlikî İbn Haldûn, Mukaddime'nin üçüncü cüzünde hânedanı baştan sona \"Fâtımîler\" değil \"Ubeydîler\" diye anar ve İsmâilî imam silsilesini aktarırken mezhebi \"Bâtıniyye\" ve \"Melâhide\" adlarıyla verir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Arapca metin elle dogrulandi: ucuncu cuzde hanedan \"العبيديّين\" biciminde gecer, \"الفاطميون\" hic gecmez; mezhep \"الباطنيّة\" (sedde ile) ve \"الملحدة\" adlariyla verilir -- sedde/hareke dize esitlemesini bozdugu icin kunye dizesi olarak harekesiz bolum basligi secildi. Mekanik katman Turkce adlari Arapca metinde bulamaz; bu yuzden guven \"orta\"."
+    },
+    {
+      "iddia_id": "i013",
+      "cumle": "Kurduğu merkeziyetçi sistemde yapı üçe ayrılıyordu: idare vezirin, din ve yasama işleri kadının, propaganda ise dâi'd-duâtın elindeydi; ordu doğrudan imama bağlıydı ve emrini ondan alırdı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i014",
+      "cumle": "Askerî grupların çatışması ve Selçuklular karşısındaki kayıplar Mısır'ı anarşiye sürükleyince elli dört vezir ve kırk iki kadı görevden uzaklaştırıldı; halife Müstansır, Akkâ valisi Bedr el-Cemâlî'yi yardıma çağırdı ve 466'da (1074) Mısır'a gelen Bedr düzeni kurunca bütün yetkilerini ona devretti.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i015",
+      "cumle": "Bundan sonra vezir aynı anda başkumandan, kādılkudât ve dâi'd-duât oldu; kadılar ve dâîler onun nâibi durumuna düştü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i016",
+      "cumle": "Makam artık kalemin değil kılıcın makamıydı: İbnü'l-Esîr'in ifadesiyle, \"Mısır'da vezirlik galip gelen kişinindi\".",
+      "onem": "renk",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV, Ibnu'l-Esir'in el-Kamil'inden aktariyor; alinti aktarimin aktarimidir ve oyle sunuldu."
+    },
+    {
+      "iddia_id": "i017",
+      "cumle": "Mısır'ı alan kuvvetin en büyük bölümünü Berberî Kutâme oluşturuyordu; Azîz-Billâh döneminde Bizans ve Büveyhî orduları karşısında yetersiz kalınca Türkler ve Deylemliler alındı, Bedr el-Cemâlî Ermeniler'den bir ordu kurdu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CURUTUCU ITIRAZI REDDEDILDI (\"en buyuk\" turu ustunluk-iddiasi): kaynagin kendi cumlesi -- k1: \"Kutameliler Cevher'in kumandasindaki ordunun en buyuk bolumunu olusturmaktaydi.\" Iddia kaynakta oldugu icin kaldirilmadi; atif zaten [^k1] ile duruyor."
+    },
+    {
+      "iddia_id": "i018",
+      "cumle": "Her grubun Kahire'de ayrı bir mahallesi vardı ve gruplar arası çatışma, hanedanın son yüzyılında devlet krizlerinin düzenli kaynağı oldu.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak her grubun ayri mahallesi oldugunu ve gruplar arasi catismalarin surekliligini kaydeder; \"hanedanin son yuzyilinda devlet krizlerinin duzenli kaynagi\" nitelemesi metnin kendi ozetidir, kaynakta bu ifadeyle yer almaz."
+    },
+    {
+      "iddia_id": "i019",
+      "cumle": "Mısır'ın gelirleri ikiye ayrılmıştı: hububat, hurma, üzüm ve meyve yetiştiricilerinden alınan yıllık haracî mal ile iş yeri, dükkân, hamam, fırın ve değirmenlerden aylık alınan hilâlî mal.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i020",
+      "cumle": "Bunların üstünde devletin en önemli gelir kaynağı, zimmîlerden alınan ve \"cevâlî\" ya da cizye denilen vergiydi; yıllık olmasına rağmen aylık tahsil ediliyor, tahsil sırasında müslüman olan ya da ölen kişi geçen süre kadar borçlandırılıyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tahsil sirasinda musluman olan ya da olen kisinin gecmis sure kadar borclandirilmasi kaynakta acikca yazilidir (Makrizi, el-Hitat I, 107 aktarimiyla)."
+    },
+    {
+      "iddia_id": "i021",
+      "cumle": "Makrîzî'ye göre Mısır'da ilk zekât toplayan kişi Selâhaddin'dir; Fâtımîler'in bunun yerine İsmâilî mezhebinin esaslarını öğrenenlerden alınan necvâyı koymuş olmaları muhtemeldir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin kendi kosullu dili korundu: zekatin yerine necvanin konmus \"olmasi muhtemeldir\" denir, kesin bir ikame iddiasi yoktur."
+    },
+    {
+      "iddia_id": "i022",
+      "cumle": "Toprak vergisi iltizamla toplanırdı: açık artırmaya devlet görevlileri ve kumandanlar dahil herkes girebilir, hak mültezimin çocuklarına geçer, böylece bölge zamanla iktâa dönüşürdü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i023",
+      "cumle": "Cevher'in Mısır'daki iktisadî düzenlemeleri arasında feddân (4200 m²) başına alınan haracı 3,5 dinardan 7 dinara çıkarması ve para ayarını yükselterek Muizzî dinar diye tanınan yeni sikkeyi bastırması vardır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI: onceki surum \"Cevher, Misir'a girer girmez\" diyordu; k1 boyle bir es zamanlilik soylemez, yalnizca \"Ekonomik alanda ise Cevher...\" der. Uydurulmus kesinlik kaldirildi. Rakamlar (feddan 4200 m2, 3,5 -> 7 dinar) k1'de birebir gecer; Muizzi dinar adi da oyle."
+    },
+    {
+      "iddia_id": "i024",
+      "cumle": "Yükün ağırlığı dolaylı ölçülebilir: kaynağa göre Fâtımîler döneminde hiçbir ürün, sanat ve meslek vergiden muaf tutulmamıştı ve Selâhaddin, yıllık tutarı 100.000 dinara ulaşan bu ürün ve meslek vergilerinin birçoğunu kaldırmıştır.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "HAKEM DUZELTMESI -- KAPSAM KAYMASI: k1'de cumle sudur: \"Fatimiler doneminde hicbir urun, sanat ve meslek vergiden muaf tutulmamistir. Selahaddin-i Eyyubi yillik tutari 100.000 dinara ulasan BU vergilerin bircogunu kaldirmistir (el-Hitat I, 104-105).\" Rakam butun vergi yukunu degil, urun/sanat/meslek vergilerini olcer. Onceki surum \"vergilerin bircogu\" deyip bunu bir onceki cumledeki toprak haraciyla ayni paragrafa koydugu icin okuyucuyu toplam yuk sanisina goturebilirdi; kapsam kaynagin verdigi kadarina daraltildi. Rakam yine bir sayimdan degil Makrizi aktarimindan gelir ve metin bunu ayrica soyler."
+    },
+    {
+      "iddia_id": "i025",
+      "cumle": "Fustat, İskenderiye'den ve Kızıldeniz'den gelen malların boşaltıldığı dağıtım merkezi olarak kaldı; Amalfi'den gelen İtalyan tüccarların Dâru Mânik adlı kendi konaklama yerleri vardı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i026",
+      "cumle": "Bu maliyenin ve bu ticaretin ürettiği nesnelerden bugüne kalanların bir bölümü dokumadır: New York'taki Metropolitan Museum of Art kataloğunda Mısır'a atfedilen keten ve ipek bir parça 450 (1058-59) tarihiyle kayıtlıdır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Muze katalog kaydi (accessionNumber 31.106.28a) parcanin varligini, malzemesini (\"Linen, silk; plain weave, tapestry weave\"), Misir'a atfini (geographyType \"Attributed to\", country \"Egypt\") ve tarihini (\"dated 450 AH/1058-59 CE\") dogrudan tasir; kayitta ne \"tiraz\" sozcugu ne de bir halife adi gecer. HAKEM DUZELTMESI: onceki surum \"Yonetimin kendi uretiminden bugune kalanlar cogunlukla dokumadir\" ve \"tarih atilmis devlet dokumalari idarenin kendi elinden cikmis sayili kayitlar arasindadir\" diyerek kaydin tasimadigi bir devlet atolyesi cercevesini kayda yuklemisti (sus dipnotu riski). Cerceve govdeden cikarildi ve kaydin siniri metinde acikca beyan edildi; destek \"kismi\" kaldi."
+    },
+    {
+      "iddia_id": "i027",
+      "cumle": "Bugün Sünnî öğretimin başlıca kurumlarından biri olan Ezher, Kahire'yi kuran Cevher es-Sıkıllî tarafından şehrin cuma camii olarak yaptırıldı; inşaat Cemâziyelevvel 359'da (Mart 970) başlayıp Ramazan 361'de (Haziran 972) bitti.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Insa tarihleri k2'de birebir: \"Insaatin Cemaziyelevvel 359'da (Mart 970) baslayip Ramazan 361'de (Haziran 972) bittigi... bilinmektedir.\" HAKEM DUZELTMESI: onceki surum \"Bugun Sunni dunyanin EN TANINMIS ogretim kurumu\" diyordu; bu, hicbir kunyenin tasimadigi kuresel bir ustunluk iddiasiydi (curutucu hem \"ustunluk-iddiasi\" hem \"kapsam-carpitmasi\" olarak isaretledi). \"baslica kurumlarindan biri\" ile degistirildi. Ayni cumleye takilan ikinci \"ilk\" itirazi REDDEDILDI: paragraftaki \"ilk dersler\" ifadesi Makrizi'ye acikca atfedilmis durumda."
+    },
+    {
+      "iddia_id": "i028",
+      "cumle": "İsmâilî da'vet burada yoğunlaştı: ilk ders halkası 365 (975) yılında Kadı Ali bin Nu'mân'ın, babası Kadı Nu'mân'ın fıkıh kitabını imlâ ettirmesiyle kuruldu.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i029",
+      "cumle": "378'de (988) Vezir İbn Killis otuz yedi fakihi Ezher'e tayin etti, onlara maaş ve cami civarında ev tahsis etti; Makrîzî Mısır'da sultan tarafından maaş ödenerek verdirilen ilk derslerin bunlar olduğunu söyler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Sayilar yaziyla verildi (otuz yedi fakih), cunku kaynak da yaziyla yaziyor."
+    },
+    {
+      "iddia_id": "i030",
+      "cumle": "Aynı ansiklopedinin Fâtımîler maddesi kurumu 395 (1004) yılında ve Ehl-i sünnet'e yakınlaşma maksadıyla kurulmuş gösterirken, Hâkim-Biemrillâh maddesi kuruluşu 391 (1001) yahut 395 (1005) diye verir ve amacı Sünnîlik'le mücadele etmek ve İsmâilî propagandasını geliştirmek olarak yazar.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "AYNI ANSIKLOPEDININ IKI MADDESI CELISIYOR: Fatimiler maddesi Darulilim'i 395 (1004) ve \"Ehl-i sunnet'e yakinlasma maksadiyla\", Hakim-Biemrillah maddesi 391 (1001) yahut 395 (1005) ve \"Sunnilik'le mucadele etmek ve Ismaili propagandasini gelistirmek amaciyla\" der. Celiski gizlenmedi, cumlenin konusu yapildi; iki maddeye de kendi ifadesiyle destek verildi."
+    },
+    {
+      "iddia_id": "i031",
+      "cumle": "Kurumun sonraki seyri de dalgalıdır: 400'den (1010) itibaren Fâtımî propagandasının merkezi oldu, 513'te (1119) devletin dinî siyasetine aykırı faaliyetler yüzünden geçici olarak kapatıldı, 517'de (1123) başka bir yerde ve İsmâilî bir müessese olarak yeniden açıldı ve 567 (1171) yılına kadar sürdü.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI: k1 \"gecici olarak kapatilmis\" ve \"BASKA BIR YERDE ve Ismaili bir muessese olarak acilmistir\" der; onceki surum iki niteligi de dusurmustu. Geri kondu. Kurumun ikinci adi (Darulhikme) de govdeye eklendi -- k1 ve k3 ikisini es tutar."
+    },
+    {
+      "iddia_id": "i032",
+      "cumle": "Selâhaddin, iki ayrı cuma hutbesinin aynı şehirde okunamayacağı fetvasına dayanarak Ezher'de cuma namazını yasakladı ve burayı Sünnî bir eğitim merkezi hâline getirdi; cuma namazı ancak 1266'da Memlük sultanı Baybars'ın emriyle geri geldi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i033",
+      "cumle": "Saray kütüphanesi de satıldı: haftanın iki gününde yapılan satışlar tam on yıl sürdü.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i034",
+      "cumle": "Devlet, zimmîlerin tecrübesinden ve özellikle malî konularda Kıptîler'den yararlandı; bu görevlere onlar getirildi ve Sünnî müslümanlar buralardan uzaklaştırıldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i035",
+      "cumle": "Aynı madde vezirlerin çoğunun hıristiyan olduğunu yazar; Ermeni Behrâm seyfü'l-İslâm lakabıyla vezîrü's-seyf olduğu hâlde hıristiyanlığını korudu ve maddenin başka bir yerinde 529'da (1135) geniş yetkili tefvîz vezirliğine getirilen ilk hıristiyan olarak kaydedilir — iki ifade tam olarak uyuşmaz.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "HAKEM BULGUSU -- KAYNAK ICI CELISKI: k1 bir yerde \"Fatimiler donemindeki vezirlerin cogu hiristiyandi. Ermeni vezir Behram 'seyfu'l-Islam' lakabini alip vezirü's-seyf oldugu halde Hiristiyanligini korudu\" der; baska bir yerde ise \"Boylece ILK DEFA bir hiristiyan Fatimiler'in cok genis yetkilere sahip tefviz vezirligine getirilmis oldu\" (16 Cemaziyelahir 529 / 13 Mart 1135) der. Iki ifade ayni maddede yan yana durur ve tam olarak uyusmaz. Onceki surum yalnizca ilkini alip \"genis yetkili tefviz vezirligine getirildigi halde\" diye ikisini birlestirmisti; celiski gorunmez oluyordu. Simdi ikisi de yazili ve uyusmazlik beyan edilmis durumda. Guven bu yuzden \"yuksek\"ten \"orta\"ya dusuruldu."
+    },
+    {
+      "iddia_id": "i036",
+      "cumle": "Behrâm'ın Tel Bâşir ve Ermenistan'dan getirttiği ve sayıları 30.000'i bulan ırktaşları Mısır'a yerleşip kiliseler inşa edince yerli halk tedirgin oldu; yerine gelen Sünnî vezir Rıdvân bin Velahşî Kahire'de hıristiyanlara karşı cihad ilân etti ve halkının çoğunluğu Sünnî olan İskenderiye'de Mısır'ın ilk İslâm medresesini kurdu (532/1138).",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "30.000 sayisi k1'de gecer ama bir sayima degil kronik aktarimina dayanir. HAKEM DUZELTMESI (iki tane): (1) k1 \"halkinin COGUNLUGU Sunni olan Iskenderiye\" der; onceki surum \"halkinin TAMAMI Sunni olan\" yaziyordu -- kaynagin kendi cekincesi dusurulmustu, geri kondu. (2) Kaynak Ermenilerin \"Tel Basir VE Ermenistan'dan\" getirtildigini yazar; onceki surum listeyi kirpmisti, tamamlandi. \"Sunni vezir Ridvan\" nitelemesi kaynagin kendi ifadesidir."
+    },
+    {
+      "iddia_id": "i037",
+      "cumle": "Kadılar bütün dönem boyunca İsmâilî fakihler arasından seçildi ve devletin mezhebinden başkasıyla hüküm vermeleri yasaklandı; tek istisna 525 (1131) yılında Ebû Ali Küteyfât'ın Şâfiî, Mâlikî, İsmâilî ve İmâmiyye mezheplerinden dört kadıyı aynı anda görevlendirmesidir ve İbn Müyesser bunun daha önce hiç duyulmamış bir şey olduğunu kaydeder.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i038",
+      "cumle": "Mahkemenin şahit sayısı da büyümüştü: daha önce otuz civarındayken 524'te (1130) yüz yirmiye ulaşmıştı.",
+      "onem": "renk",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM DUZELTMESI: k1'in cumlesi \"Daha once otuz civarinda olan sahitlerin sayisi 524 (1130) yilinda 120'ye ulasmisti\"dir. Onceki surum yalniz varis noktasini aliyordu; taban olmadan sayi hicbir sey olcmez. Taban geri kondu."
+    },
+    {
+      "iddia_id": "i039",
+      "cumle": "Kahire Genizası'ndan çıkan ve İbranîce yazılmış bir megilla parçası, cemaatin bir cenazeden dönerken kalabalık tarafından taşlanmasını, yirmi üç kişinin tutuklanıp ertesi sabah idam yerine götürülmesini, sonra saraya çıkarılıp serbest bırakılmasını anlatırken halifenin devlet yönetimini ve idaresinin adaletini övmektedir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Mann'in iki nushayi birlestirerek verdigi anlati: Semarya'nin cenazesinden donerken \"the Muslim mob abused the Jews and pelted them with stones\"; vali kolluk gonderdi; \"Twenty-three people were caught\"; ertesi sabah \"the prisoners were led to the place of execution\", ancak \"They would have been summarily executed had not meanwhile the order been given to lead the prisoners to the Caliph's court\" ve \"subsequently they were released in honour\". Kunye dizesi: \"The Caliph al-Hakim is greatly praised in both versions for his management of the state and the equity of his rule\". HAKEM DUZELTMESI -- ANLAM DEGISTIREN KIRPMA: onceki surum idam yerine goturulmede duruyor, SERBEST BIRAKILMAYI atliyordu; oysa cemaatin ovgusunu anlasilir kilan tam da o son halkadir. Halka geri kondu ve metin bunu ayrica soyluyor."
+    },
+    {
+      "iddia_id": "i040",
+      "cumle": "Mann bunu, ünlü zulümlerin henüz başlamamış olmasına yorar; ama aynı kitapta Lane-Poole'dan aktarılan kilise yıkımları takvimi bu yorumu rahat bırakmaz.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "CEKINCE KORUNDU: Mann'in cikarimi kendi cumlesidir -- \"Evidently the notorious persecutions of the Jews had not begun yet\" -- ve hemen ardindan Lane-Poole'dan (126-7) aktardigi takvimle gerilim icindedir. HAKEM DUZELTMESI: aktarim halkasi gorunur kilindi (takvim Mann'in kendi arastirmasi degil, Lane-Poole aktarimidir). Mann 1920 dilinde halifeyi \"the mad Caliph\" diye anar; kunyede beyan edildi."
+    },
+    {
+      "iddia_id": "i041",
+      "cumle": "Aynı madde halifenin 395'te (1005) Ebû Bekir, Ömer ve Osman gibi sahâbîlere sövülmesini emrettiğini ve iki yıl sonra bundan vazgeçtiğini, aynı yıl gayrimüslimlere özel kıyafet, zünnar ve ayrı hamam-gemi zorunluluğu getirdiğini, 399'da (1009) dokuz yıl sürecek bir teravih yasağı koyup Kahire'deki kiliselerle Kudüs'teki Kıyâme Kilisesi'ni yıktırdığını, ertesi yıl hıristiyan bayramlarını yasaklayıp sonra çıkardığı fermanlarla bunları tamamen serbest bıraktığını, hıristiyanları müslüman olmaya zorladığını ve 404'te (1013) eski dinlerine dönmelerine izin verdiğini yazar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Maddenin dayanaklari Makrizi, Ibn Tagriberdi ve Melkit hiristiyan Yahya el-Antaki'dir; portre metinde bir tespit degil bir aktarim gelenegi olarak sunuldu. HAKEM DUZELTMESI -- UC AYRI KIRPMA GERI ALINDI: (1) k3 \"Ertesi yil da hiristiyanlarin bayram kutlamalarini YASAKLADI; daha sonra ise cikardigi fermanlarla bunlari tamamen serbest birakti\" der; onceki surum yalniz serbest birakmayi aliyor, yasagi dusuruyordu -- hosgoru gibi okunuyordu. (2) k3 \"HIRISTIYANLARI MUSLUMAN OLMAYA ZORLADI; 404'te ise (1013) tekrar eski dinlerine donmelerine izin verdi\" der; onceki surum zorla ihtidayi atlamisti, izin tek basina yine hosgoru gibi okunuyordu. (3) k3 \"Kahire'de bulunan kiliselerle Kudus'teki Kiyame Kilisesi'ni\" der; onceki surum yalniz Kudus'u aniyordu. Ayrica teravih yasaginin dokuz yil surdugu ve sovgu emrinin hedefi (Ebu Bekir, Omer, Osman) kaynaktan geri kondu."
+    },
+    {
+      "iddia_id": "i042",
+      "cumle": "Aynı kayıt, kolay anlatıyı bozan bir çekince de taşır: 396-401 (1006-1010) arasında Hâkim'in Sünnîler ve gayrimüslimlere karşı siyasetini değiştirdiği, mezhep taassubundan uzaklaşıp bir Sünnî gibi hareket ettiği görülür ve bunun sebebi büyük ihtimalle isyanlar ile Nil'in çekilmesinden doğan kıtlık karşısında halkı kendine yaklaştırma ihtiyacıdır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CEKINCE KORUNDU: kaynagin kendi kaydettigi 396-401 donusu ve bunun muhtemel sebebi (isyanlar + Nil kitligi) metne aynen tasindi; tutarli bir \"zulum donemi\" anlatisi kurulmadi. CURUTUCU ITIRAZI (\"tek-kaynakli-nedensellik\", k3) KARSILANDI, KALDIRILMADI: 396-401 donusunun sebebi olarak isyanlar ve Nil kitligi kaynagin kendi kosullu hukmudur (\"buyuk bir ihtimalle\") ve metin bunu k3'e atfederek, kosullu kipiyle veriyor -- kendi nedensellik iddiasi kurulmus degil. Ayrica ayni bolumdeki O'Leary okumasi (i044, k6) ayni olaylar icin bagimsiz ikinci bir cerceve koyuyor; bolumun savi zaten tek nedenli anlatinin kaynaklarin duzenlenisinden geldigidir."
+    },
+    {
+      "iddia_id": "i043",
+      "cumle": "Kayboluşu da tek bir anlatıya bağlanmaz: tarihçilerin çoğu kız kardeşi Sittülmülk'ün öldürttüğü kanaatindedir, Makrîzî ise bunu reddeder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CEKINCE KORUNDU: kaynak \"tarihcilerin cogu\" der ve Makrizi'nin bunu reddettigini ekler; ikisi de yazildi."
+    },
+    {
+      "iddia_id": "i044",
+      "cumle": "Makrîzî'nin kendi açıklamasına göre eski cezaî hükümlerin yeniden yürürlüğe konması, Fâtımîler'in aşırı kayırdığı hıristiyan ve yahudilerin serveti ve devlet kadrolarındaki ağırlığıyla ilgiliydi; O'Leary bunun büyük ölçüde kamuoyu baskısına verilmiş bir karşılık olduğunu düşünür; Kıyâme Kilisesi'nin yıkımdan kısa süre sonra yeniden inşa edildiğini ve zulmün münferit bir olay olarak kaldığını yazar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "O'Leary'nin okumasi Makrizi'nin kendi gerekcesini (zimmilerin servet ve kadro agirligi) aktarir, ardindan kendi yorumunu ekler; \"munferit olay\" degerlendirmesi 1923 tarihli yazarin kendi hukmudur ve oyle isaretlendi. HAKEM DOGRULAMASI: O'Leary'de birebir -- \"Maqrizi tells us that it was due to the arrogance and wealth of those Christians and Jews who had been unduly favoured by the Fatimids. The greater part of the civil service was filled by them... To a large extent we may ascribe al-Hakim's treatment of Christians and Jews as due to the pressure of public opinion\" ve \"this was re-built soon afterwards: the persecution was an isolated incident\". Bu son hukum 1923 tarihli yazarin kendi degerlendirmesidir ve govdede oyle isaretli. Metin 400k onbellek sinirinda kesildigi icin bu pasajlar dok.mjs --tam kipiyle dogrulandi."
+    },
+    {
+      "iddia_id": "i045",
+      "cumle": "Müstansır-Billâh'ın 487'de (1094) ölümü üzerine Vezir Efdal, meşrû hak sahibi büyük oğul Nizâr'ı uzaklaştırıp küçük oğlu Müsta'lî'yi halifeliğe getirdi; İsmâilîler böylece Müsta'liyye ve Nizâriyye olarak ikiye bölündü.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i046",
+      "cumle": "Nizâr yakalanıp İskenderiye hapishanesinde öldürüldü (488/1095), fakat 483'te (1090) Alamut Kalesi'ni ele geçirmiş olan Hasan Sabbâh'ın şahsında güçlü bir destekçi bulmuştu.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i047",
+      "cumle": "Nizârî imâmeti Hülâgû'nun 654 (1256) yılında Alamut'u zaptetmesiyle büyük bir kesintiye uğradı; sonraki imamlar hakkında güvenilir bilgi yoktur ve Ağa Hanlar kolunun bugün kabul ettiği imâmet silsilesi ancak on dokuzuncu yüzyılın sonlarında benimsenmiştir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "CEKINCE KORUNDU: kaynak Hursah sonrasi imamlar hakkinda \"guvenilir bilgi bulunmadigini\" ve silsilelerin birbirinden farkli oldugunu, Aga Hanlar kolunun silsilesinin ancak 19. yuzyil sonlarinda benimsendigini yazar."
+    },
+    {
+      "iddia_id": "i048",
+      "cumle": "Esedüddin Şîrkûh'un yeğeni Selâhaddîn-i Eyyûbî vezirliğe getirildikten sonra hutbeler Fâtımîler adına kesilip Abbâsîler adına okunmaya başlandı ve bütün bu değişiklikler büyük bir sükûnet içinde gerçekleşti; TDV maddesinin değerlendirmesine göre Mısır halkı, hilafetle iş birliği içindeki bir zümre dışında İsmâilî mezhebine kesinlikle inanmış değildi ve 569'da (1174) bazı dâîlerin hilafeti canlandırma çabaları sonuçsuz kaldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"Misir halki Ismaili mezhebine kesinlikle inanmis degildi\" hukmu maddenin kendi degerlendirmesidir; metin bunu TDV'ye atfederek verdi, kendi hukmu yapmadi."
+    },
+    {
+      "iddia_id": "i049",
+      "cumle": "Yahudiler de önemli mevkiler tuttu, ama vezirlik makamına gelebilmeleri için müslüman olmaları gerekiyordu; İbn Killis, Ebû Sa'd et-Tüsterî ve Sadaka bin Yûsuf el-Fellâhî bu yolun örnekleridir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM EKLEMESI -- LISTE GERI KONDU: k1 \"Yahudiler de Fatimiler zamaninda onemli mevkiler isgal etmekle beraber onlarin vezirlik makamina getirilmeleri icin musluman olmalari gerekiyordu. Ibn Killis, Ebu Sa'd et-Tusteri ve Sadaka b. Yusuf el-Fellahi bu vezirlere ornek gosterilebilir\" der. Onceki surum kurali yaziyor, kaynagin verdigi uc ornegi dusuruyordu; ornekler kurali somutlastirdigi icin geri kondu."
+    },
+    {
+      "iddia_id": "i050",
+      "cumle": "TDV maddesi onun kişilik portresini \"İttifakla belirtildiğine göre Hâkim sert mizaçlı, merhametsiz…\" diye açar",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM EKLEMESI: k3'te birebir \"Ittifakla belirtildigine gore Hakim sert mizacli, merhametsiz, insanlari oldurmekten zevk alan... bir kimse idi\". Onceki surum bolumu \"Hicbir Fatimi halifesi Hakim-Biemrillah kadar keskin bir portreye oturtulmamistir ve hicbiri onun kadar tarafli kayitla anilmaz\" diye aciyordu: iki ayri, hicbir kunyenin tasimadigi ustunluk iddiasi (curutucu \"kesinlik-dili\" ile yuksek ciddiyette isaretledi). Yerine kaynagin kendi 'ittifak' dili alintilandi -- ittifakin kimler arasinda oldugu ise hemen ardindan kaynak listesiyle veriliyor."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 48,
+    "kismi": 2,
+    "desteksiz": 0,
+    "olculemez": 0
+  }
+}

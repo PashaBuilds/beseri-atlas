@@ -1,14 +1,58 @@
 ## aktor-memluk-devleti
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:50.582Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T16:03:50.231Z_
 
-- [OK]      k1 → "Bu devletin kuruluş biçimi, atlastaki başka hiçbir aktörde görülmez: Mısır'da Eyyûbî ordusundaki Türk asıllı â…"
-- [OK]      k1 → "Devlet 1250-1517 arasına tarihlenir."
-- [ATOMSUZ] k1 → "Kaynağın âzatlı emîrler ifadesi, devletin kurucularının önceki düzende askerî köle statüsünden gelme kişiler o…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k1 → "Bir devletin, önceki devletin ordusundaki bu statüden doğması, siyasi meşruiyetin soy ya da seçim dışında üçün…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Dönemin tarihçilerinin bu devleti Türk Devleti olarak adlandırması, atlas için değerli bir kayıttır: bu, sonra…"
-- [OK]      k1 → "Aynı kayıt sanat tarafında da sürer: hanedan Türk soyundan geldiği için Mısır ve Suriye'de oluşturdukları sana…"
-- [OK]      k2 → "Devleti sona erdiren düzen, Batı Anadolu'nun kuzeyinde bir Türkmen beyliği olarak ortaya çıkıp üç kıtaya yayıl…"
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1500 yılında yaklaşık 503,1 milyondur."
-- [ATOMSUZ] k1 → "Devletin siyasi tarihi, sultan sıralaması, askerî örgütlenmesi ve mimarisi burada ayrı başlıklar altında ele a…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Memlûk sözcüğü sözlükte sahip olunan şey demektir ve çoğunlukla Kafkasya'dan ve Orta Asya bozkırlarından satın…"
+- [OK]      k1 → "Bu askerler 1250'de Mısır'da iktidarı ele geçirdi; kurdukları düzen 1517'de Osmanlı fethine kadar Mısır, Suriy…"
+- [OK]      k2 → "Memlükler Mısır toplumunda ayrı bir üst sınıf oluşturdu, ama bu, kaynağın deyişiyle "tek nesilli bir soyluluk"…"
+- [OK]      k2 → "Devlet köle ticaretini cazip kılmak için tâcirleri diğer tüccarların ödediği vergilerden muaf tutmuştu; toplan…"
+- [OK]      k2 → "Ödenen fiyat bazen kişinin adına yapışırdı: Sultan Kalavun'un taşıdığı "Elfî" lakabının 1000 dinara satın alın…"
+- [OK]      k2 → "Satın alınan memlük, Kahire Kalesi'ndeki kışlalarda yer alan ve "tabaka" denilen okula yerleştirilir, önce Sün…"
+- [ATOMSUZ] k2 → "Öğrenimi biten memlük âzat edilir, teçhizatını alır ve hassa birliğine katılırdı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Kural kurumsaldı, kişisel değildi: bir sultan öldüğünde ya da tahttan indiğinde eğitimini tamamlamamış olduğu …"
+- [ATOMSUZ] k2 → "Aynı efendinin âzat ettiği memlükler "huşdaşiye" adıyla birbirine bağlanır, aralarında sıkı bir dayanışma yürü…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Memlükler daima Türk adları taşırdı ve Türk asıllı olmayanların da Türk adı alması zorunluydu; ad değişikliği …"
+- [ATOMSUZ] k1 → "Memlük sultanlığında saltanatın verasetle geçmesi bir kural olarak kabul edilmedi ve genellikle uygulanmadı; g…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Devletin iki dönemi de kışla adlarıyla anılır: Nil nehrine izâfetle Bahriyye denilen ilk birlikler Ravza adası…"
+- [OK]      k3 → "Makrîzî'nin 1253 yılı için verdiği anlatıya göre Sultan Aybek'in Bahrî emîrleri üzerinde ne gücü ne yetkisi ne…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Bu kaydı okurken iki katmanı ayırmak gerekir: Makrîzî anlattığı olaylardan yaklaşık bir buçuk yüzyıl sonra, Bu…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Kalavun'un oğulları ve torunları tahtı kuşaklar boyunca elde tuttu: oğlu el-Melikü'n-Nâsır Muhammed üç ayrı sa…"
+- [OK]      k6 → "Van Steenbergen'in 2006 tarihli bir kitap bölümü 1279-1382 arasını ayrı bir dönem sayar ve başlığında ona Kala…"
+- [ATOMSUZ] k1 → "Çocuk sultanların adı taht listesinde duruyordu, iktidar ise onları tahta çıkaran emîr gruplarındaydı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Baybars, Abbâsî ailesinden birini halife ilan ederek hilafeti Kahire'de yeniden kurdu ve böylece hilafetin hâm…"
+- [ATOMSUZ] k1 → "Düzenlemenin ayrıntısı, dosyasındaki makamın ne hâle geldiğini gösterir: maddeye göre halifenin otorite kaynağ…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "İktâ arazileri yirmi dört parçaya ayrılmıştı: dört parça sultana, on parça emîrlere, on parça da ecnâdü'l-halk…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Bu bölüşüm iktâ sahiplerini sultana bağlı tutuyor, bölgelerinde asayişi sağlamalarını ve gerektiğinde askerî h…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Toprak imtiyazlı askerî sınıfın mülkiyetindeydi ve iktisadi hayata bu sınıf hâkimdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Ordu kütükleri, Mısır ve Suriye askerleri için iki ayrı şubesi bulunan Dîvân-ı Ceyş'te emîrlerin adlarına göre…"
+- [ATOMSUZ] k1 → "Devlet yazışmalarını yürüten Dîvân-ı İnşâ aynı zamanda istihbarat ve posta işlerini de görürdü; bu göreve üslû…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Adlî yapıda Baybars, Eyyûbîler'den devraldığı tek başkadılık yerine dört Sünnî mezhepten birer kādılkudât tayi…"
+- [OK]      k1 → "Kaynağın değerlendirmesine göre Memlük ekonomisinin en önemli gelir kaynağı ülkeler arası ticaretti."
+- [OK]      k1 → "Moğol istilası sırasında Doğu ile Batı arasında güvenli tek yol olarak Kızıldeniz ve Mısır üzerinden geçen hat…"
+- [ATOMSUZ] k1 → "Toplum müslümanlar, hıristiyanlar ve yahudilerden oluşuyordu; müslümanlar ise yönetici askerî sınıf ile halk k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Nüfusun çoğunluğunu, timarlı askerlerin topraklarında çalışan ve genelde maddî sıkıntı içindeki çiftçiler, küç…"
+- [ATOMSUZ] k1 → "Âlimler halk ile askerî sınıf arasında aracılık ederdi." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Memlüklerin oğulları anlamına gelen evlâdü'n-nâs orduda belirli rütbelerin üstüne çıkamıyor, sonraki kuşakları…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Çerkes sultanlığı üzerine yapılan bir çalışma, evlâdü'n-nâsı askerî sınıf dışında kalıp memlük dünyasına erişi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Kadınlar çarşılara çıkabiliyor, ilim tahsili için mescidlere devam edebiliyordu ve aralarından hadis alanında …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Tahtta bir kadının oturması ise başka meseleydi: Şecerüddür, tahta çıkmasını sağlayan Bahrî emîrlerinin tavsiy…"
+- [ATOMSUZ] k1 → "Gayrimüslimler divanlarda, bilhassa muhasebe işlerinde görevlendirilirdi ve vakıf kurabiliyorlardı; kaynak bun…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Dönemin tarihçileri bu devleti Türk Devleti olarak adlandırmıştı ve Devletü'l-Etrâk adı da kullanılıyordu."
+- [OK]      k2 → "Dönemin tarihçileri bu devleti Türk Devleti olarak adlandırmıştı ve Devletü'l-Etrâk adı da kullanılıyordu."
+- [OK]      k2 → "Adlandırmanın dayanağı etnik değil onomastik ve dilseldir: memlükler Türk adları taşıyor ve Türkçe konuşuyordu…"
+- [OK]      k5 → "Van Steenbergen'in 2021 tarihli çalışmasının başlığı şudur: "Nomen Est Omen: David Ayalon, the Mamluk Sultanat…"
+- [OK]      k1 → "Kutuz, 1260'ta Filistin'deki Aynicâlût mevkiinde Moğol ordusunu yendi ve Suriye'nin büyük kısmı Memlüklerin el…"
+- [OK]      k4 → "Ama tek savaşla biten bir mesele değildi: Memlük devleti ile İran merkezli İlhanlılar arasındaki savaş, alanda…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "Ekonomi 1347 veba salgını yüzünden büyük bir kriz yaşadı."
+- [OK]      k9 → "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1400 yılında yaklaşık 442,3 milyondur."
+- [OK]      k1 → "Sıkıntı 15. yüzyıl başında Timur'un Suriye'yi tahrip etmesiyle derinleşti; ağır vergiler iç ve dış ticareti vu…"
+- [ATOMSUZ] k1 → "Memlükler barutu kuruluş yıllarından beri biliyorlardı ve kaynağa göre muhtemelen topu ilk kullanan devletti; …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kansu Gavri bu konuda bir reform denedi, fakat ateşli silahları kullanacak birlikleri birinci sınıf sayılan me…"
+- [ATOMSUZ] k1 → "Topu ilk kullanma önceliği kaynağın kendi ihtiyat kaydını taşır: madde bunu bir tarihe, bir kayda ya da bir ar…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Osmanlı topçusunun kaynağa göre önemli rol oynadığı Mercidâbık'ta 1516'da Memlük ordusu ağır bir yenilgi aldı;…"
+- [OK]      k1 → "Tomanbay, Avrupa'dan aldığı 200 civarında büyük topu Osmanlı ordusunun geleceğini düşündüğü yöne yerleştirmişt…"
+- [OK]      k2 → "Toprakların eline geçmesi memlük beylerinin ortadan kalkması demek değildi: nüfuzları 1811'de Kavalalı Mehmed …"
+- [OK]      k1 → "Biri devleti Moğolları durduran ve Haçlı varlığına son veren kurtarıcı güç olarak okur; öteki, sultanların sui…"
+- [OK]      k1 → "İkisi de aynı kaynaklardan çıkarılabilir, çünkü Memlük tarihçiliği bu dönemde olağanüstü üretkendi: Makrîzî ve…"
+- [OK]      k8 → "Metropolitan Museum koleksiyonundaki bir çift minber kanadı, kayıtta 1325-30 dolaylarına tarihlenir ve Kahire'…" — 2 atom doğrulandı; 1 ad ölçülemedi
 
-**Özet:** 6 OK · 0 ISARET · 0 HATA · 3 ATOMSUZ
+**Özet:** 36 OK · 0 ISARET · 0 HATA · 17 ATOMSUZ

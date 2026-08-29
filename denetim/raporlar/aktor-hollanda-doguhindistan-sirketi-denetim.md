@@ -1,14 +1,58 @@
 ## aktor-hollanda-doguhindistan-sirketi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:49.610Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T16:23:58.360Z_
 
-- [OK]      k1 → "Şirket 1602-1799 arasında faaliyet gösteren bir Hollanda ticaret şirketiydi ve kuruluşundan önce sekiz yıl sür…"
-- [OK]      k1 → "Şirketin selefleri, 1594-1602 arasında faaliyet gösteren voorcompagnieën yani ön-şirketlerdir; bunlar arasında…"
-- [OK]      k1 → "Kaynağın ön-şirketleri 1594-1602 arasına yerleştirmesi 1602'nin bir kuruluş değil bir birleşme olduğunu göster…"
-- [OK]      k1 → "Kaynak şirketin akıbetini açıkça kaydeder: feshedildi ve Hollanda Doğu Hint Adaları olarak millîleştirildi." — 1 atom doğrulandı; 3 ad ölçülemedi
-- [OK]      k2 → "Aynı yıllarda kurulan rakip şirketin girişimcileri 31 Aralık 1600'de toplanmıştı ve yatırımcılar yaklaşık yüzd…"
-- [ATOMSUZ] k2 → "Kaynak, rakip şirketin tarihini tekel kurma, tekelin dayanağı ve tasfiye başlıkları altında ele alır." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k2 → "Rakibin 1600'de, bu şirketin 1602'de kurulması, dönemin denizaşırı ticaretinin neden bir şirketler yarışı biçi…"
-- [OK]      k1 → "Rakibin 1600'de, bu şirketin 1602'de kurulması, dönemin denizaşırı ticaretinin neden bir şirketler yarışı biçi…"
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1600'de yaklaşık 516,1 milyon, 1790'da yaklaşık 942,3 milyondur."
+- [ATOMSUZ] k1 → "Kuruluş beratı ona, o güne kadar yalnızca devletlerin kullandığı yetkileri tanıdı: savaş açmak, antlaşma imzal…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Aynı berat hisselerin Hollanda Cumhuriyeti'nin herhangi bir yurttaşınca alınıp satılmasına da izin veriyordu; …" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k1 → "Bu yetkiyi kullananlar seçilmiş bir meclise değil hissedarlara hesap veriyordu ve yetkinin sonuna kadar kullan…"
+- [OK]      k7 → "Bu yetkiyi kullananlar seçilmiş bir meclise değil hissedarlara hesap veriyordu ve yetkinin sonuna kadar kullan…"
+- [ATOMSUZ] k3 → "O olayın en ayrıntılı kaydını tutan da kurbanların bir tanığı değil, emri veren genel valinin kendisidir." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Asya'ya giden ilk Hollanda seferleri şirketin kendisinden önce geldi ve birbiriyle yarışan tüccarların fiyatla…"
+- [OK]      k1 → "1602'de Genel Meclis'ten alınan berat, Asya ticaretinde yirmi bir yıllık bir tekel tanıdı." — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k2 → "Sermaye yaklaşık 6,5 milyon florindi ve çoğu tüccar olan 1.800'den fazla yatırımcıdan toplanmıştı; yönetim, en…"
+- [OK]      k4 → "Şirket tek bir merkez değil, altı odanın birliğiydi: Amsterdam, Zeeland, Delft, Rotterdam, Hoorn ve Enkhuizen."
+- [OK]      k4 → "Amsterdam odası ile Heren XVII'nin kayıtları birbirine öylesine karışmıştır ki arşivde bugün bile ayrılmış değ…"
+- [OK]      k2 → "Aynı yıllarda kurulan mali altyapı bu yapıyı taşıdı: 1609'da Amsterdam'da açılan takas bankasının mevduatı 161…"
+- [OK]      k2 → "Heren XVII kazancı hissedarların hoşnutsuzluğuna rağmen şirkete geri yatırdı; 1644 dolaylarına kadar temettü a…"
+- [OK]      k1 → "Uzun vadede şirket yaklaşık iki yüzyıl boyunca sermayenin ortalama yüzde 18'i kadar yıllık temettü dağıttı."
+- [OK]      k2 → "Bu çoğu zaman Portekizlileri Asya'da savaşarak yerinden etmek, Avrupa'da ise barışı korumaya çalışmak anlamına…"
+- [OK]      k2 → "Portekizliler Afrika çevresindeki rotayı sıkı biçimde koruyordu; Hollandalıların kendi seferlerini düzenleyebi…"
+- [OK]      k1 → "1602-1796 arasında şirket Asya ticaretinde çalıştırmak üzere 4.785 gemiyle bir milyona yakın Avrupalıyı yola ç…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "1619'da Jayakarta limanı ele geçirildi ve adı Batavia olarak değiştirildi; genel valinin oturduğu bu kent, Asy…"
+- [OK]      k1 → "İlk üç genel valinin görev yıllarında (1610-1619) merkez Ambon'daydı; baharat üretim alanlarının ortasında olm…"
+- [OK]      k1 → "Despot bir genel valinin doğuracağı riski sınırlamak için Hindistan Konseyi (Raad van Indië) kuruldu; buna kar…" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "Banda adaları hindistan cevizi tekelinin kaynağıydı; adalıların tekele direnmesi 1609-1621 arasına yayılan bir…"
+- [OK]      k1 → "Ana ada Lontor 1621'de işgal edildi."
+- [OK]      k3 → "Seferin başında genel vali Jan Pieterszoon Coen vardı; 6 Mayıs 1621 tarihli mektup Banda'daki Nera adasının ön…" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k3 → "Bu mektup, seferi yönetenlerin kendi kaleminden çıkmış raporudur ve olağanüstü bir cümle taşır: ele geçirilen …"
+- [ISARET]  k3 → "Dragon adlı gemiyle Batavia'ya 789 kişi gönderildi: 287 erkek, 256 kadın, 246 çocuk." — kaynakta bulunamayan sayısal değer: 287 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)
+- [OK]      k3 → "Adanın dağlarında yaklaşık 2.000 kişinin kaldığı, bunların 600 kadarının erkek olduğu, sağladıkları yiyeceğin …"
+- [ATOMSUZ] k3 → "Coen bütün bunları yazdıktan sonra zaferi kan dökülmeden kazandıklarını söyler; kendi kayıplarını 5 ölü ve yak…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k3 → "Tutuklanan orangkaya'ların — adaların ileri gelenlerinin — sorgusu işkence altında yapıldı ve mektup önce 45 k…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Batavia'ya gönderilenlerin 176'sı ölmüştü, geriye 650 kişi kalmıştı."
+- [ISARET]  k3 → "Aynı mektup dağlardaki direnişin sonunu da sayar: Slamma'dan 1.200 kişi gemiye alındı, sonraki taramalarda 476…" — kaynakta bulunamayan sayısal değer: 476 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)
+- [OK]      k3 → "Coen aynı mektupta Heren XVII'den adaları yeniden şenlendirmek için aile ve genç kızlar göndermesini istiyordu…"
+- [OK]      k3 → "Pulau Ai adası Hollandalı hür yerleşimciler arasında paylaştırıldı ve adalarda kalan yaklaşık 1.800 kişilik nü…"
+- [OK]      k3 → "Pulau Run'daki 200 kadar Bandalı erkek için Coen tek bir ifade kullanır: geriye kalanların hepsi onlardır."
+- [OK]      k1 → "Fetih öncesi ada nüfusu yaklaşık 15.000 olarak tahmin edilir; kesin sayının bilinmediği kaydıyla, yaklaşık 14.…"
+- [OK]      k3 → "Colenbrander'in 1919 basımında bu bölüme düşülen Banda'nın nüfusunu boşaltma kararı başlığı Coen'in kendi sözü…"
+- [OK]      k6 → "1680 dolaylarında ada nüfusunun yaklaşık yüzde 55,6'sı köleleştirilmiş işçilerden oluşuyordu; Batavia için 17.…"
+- [OK]      k6 → "Şirketin kendisi 1687-1688'de yaklaşık 40.000 çalışanının 6.000'ini köleleştirilmiş insanlardan sağlıyordu — a…"
+- [OK]      k6 → "Siau adasının halkı daha 1615-1616'da şirket eliyle Banda adalarına sürülmüştü."
+- [OK]      k6 → "Yalnızca Avrupa şirketlerinin resmî kayıtlarına dayanan bir sayım, Asya'daki köle ticaretinin ölçeğini önemli …" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k6 → "Kaynağa göre Asya'daki köle ticareti ve kölelik uzun süre ihmal edildi, ölçeği küçültüldü ya da Atlantik'tekin…"
+- [OK]      k1 → "1602-1796 arasında Asya ticaretine gönderdiği Avrupalı sayısı bir milyona yaklaşırken, Avrupa'nın geri kalanı …" — 8 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k1 → "17. yüzyıl boyunca İran, Bengal, Malakka, Siyam, Formoza ile Hindistan'ın Malabar ve Koromandel kıyılarında ti…" — 2 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k1 → "1620'de Avrupa'da varılan diplomatik anlaşmalar Hollanda ve İngiliz baharat ticaretinde bir işbirliği dönemi a…" — 5 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k2 → "Şirketin 18. yüzyıldaki gerilemesi ise Asya'daki hacminin düşmesinden değil, rakiplerinin büyümesinden geldi: …" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k5 → "Şirket kendi gemilerinin, yüklerinin ve rakiplerinin sayımını bitmez tükenmez biçimde tuttu; Gommans bu bürokr…"
+- [OK]      k5 → "Sonuç, bugün Asya tarihçilerinin kendi ülkelerinin iktisat tarihi için başvurduğu bir kaynak yığınıdır — bazı …" — 3 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "Aynı yazı, bu raporların çarpıtılmış olduğunu ve yalnızca başka Avrupa ve mümkün olduğunda Asya dillerindeki k…"
+- [OK]      k5 → "Jacob van Leur seksen yıl önce tarihçileri şirketin gemilerinden, kalelerinden ve ticarethanelerinden bakmayı …" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k5 → "Zorla göç, mürettebatın çok etnikli bileşimi ve şirketin kölelik ile köle ticaretindeki payı da aynı dönemde g…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k4 → "Lahey'deki envanter, 1700 öncesine ait mali evrakın, gemi jurnallerinin, mürettebat listelerinin ve Avrupa içi…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k1 → "Şirket sık sık dünyanın ilk çokuluslu şirketi sayılır; kaynaklar bu nitelemeyi de temkinli bir "bazen" ile ver…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Karşı adlandırma da vardır ve akademik başvuru raflarına girmiştir: Cambridge Üniversitesi Yayınları'nın 2023 …" — 6 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k6 → "Aynı yılların bir başka açık erişim çalışması ise 1621 seferini doğrudan "genocidal conquest of the Banda Isla…"
+- [OK]      k1 → "18. yüzyıl sonunda kaçakçılık, yolsuzluk ve büyüyen idari masrafların altında kalan şirket iflas etti ve 1799'…" — 2 atom doğrulandı; 1 ad ölçülemedi
 
-**Özet:** 8 OK · 0 ISARET · 0 HATA · 1 ATOMSUZ
+**Özet:** 45 OK · 2 ISARET · 0 HATA · 6 ATOMSUZ

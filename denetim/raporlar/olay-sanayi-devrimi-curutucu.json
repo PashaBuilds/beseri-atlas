@@ -1,19 +1,34 @@
 {
   "id": "olay-sanayi-devrimi",
   "gecis": 3,
-  "zaman": "2026-08-21T07:29:24.896Z",
+  "zaman": "2026-08-29T16:23:30.071Z",
+  "govde_hash": "7e3d21196a16",
   "itirazlar": [
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Sayının nereden geldiği de tartışmanın parçasıdır. Deane ve Cole'un 18. yüzyıl endeksi beş bileşeni birleştiriyordu ve büyük bölümü vekil göstergeydi: tarım ile hizmetlerin eğilimi",
+      "sorun": "Nedensellik iddiası tek kaynağa (k2) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "tek-kaynakli-nedensellik",
+      "cumle": "Üç yasa bu alanı biçimlendirdi. 1819 tarihli pamuk fabrikaları düzenlemesi asgari çalışma yaşını dokuza, azami süreyi on iki saate bağladı; 1833 düzenlemesi yasaları uygulatmak üze",
+      "sorun": "Nedensellik iddiası tek kaynağa (k1) dayanıyor.",
+      "oneri": "İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla."
+    },
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Üç bölgenin birlikte verilmesi,[^k1] olgunun tek bir ülkeye ait olmadığını gösterir; ancak sıralamada Britanya'nın önce gelmesi, başlangıç noktasına dair bir tercih taşır.",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "cumle": "1833 verileriyle çalışan Tuttle, on üç yaşın altındaki çocukların pamuk, yün, keten ve ipek fabrikalarındaki işgücünün kabaca yüzde 10 ile 20'sini, on üç ile on sekiz yaş arasındak",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     },
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Teknolojik yeniliklerin tek tek tarihi, çalışma koşulları, kentleşme ve çevresel sonuçlar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "cumle": "Nedeni açıklarken de iki yön ayrışır. Arz yanını savunanlar yoksulluğu ve çalışmanın sıradan insanın hayatındaki geleneksel yerini öne çıkarır: aile geliri buna muhtaçtı ve işçi sı",
       "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     }

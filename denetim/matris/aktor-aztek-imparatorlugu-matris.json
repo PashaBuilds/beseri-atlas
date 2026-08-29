@@ -1,0 +1,611 @@
+{
+  "id": "aktor-aztek-imparatorlugu",
+  "govde_hash": "1ecc37f7f4af",
+  "commit": "d0eeece",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Aztek İmparatorluğu, orta Meksika'nın göller havzasındaki küçük şehir devletlerinden büyüyen ve 1428-1521 arasında bugünkü orta ve güney Meksika'da beş yüzü aşkın siyasi birimi kendine bağlayan bir düzendi; başkenti Tenochtitlan, yaklaşık iki yüz bin nüfuslu büyük ve varlıklı bir kentti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Tarih araligi, 500+ siyasi birim ve 200.000 nufus yayinci ozetinden gelir; tam metin bu kanaldan okunamadigi icin destek kismi."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "İç eyaletler düzenli vergi ödüyor, dış eyaletler sınır bekleyen tabi devletler olarak duruyor, buna karşılık merkez taşrada neredeyse hiçbir hizmet üstlenmiyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Dolayli denetim ve \"tasrada hizmet yok\" ifadesi ozetin kendi cumlesidir."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Yönetimi ucuzlatan bu düzenek onu kırılgan da kılar: tabi halklar merkezin zayıfladığını her hissettiklerinde ayaklandı, başkent ayaklanmaları hızla bastırdı ve bu döngü 1519'a kadar sürdü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozet isyanlarin merkezin zayifladigi anlarda ciktigini ve hep bastirildigini soyler; \"1519a kadar\" siniri ozetin kendi siralamasindan."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Bunun ardından Meksika, Tezcuco ve komşu küçük Tlacopan krallığı arasında karşılıklı askerî destek ve ganimet paylaşımı üzerine kurulu bir birlik yapıldı: ganimetin beşte biri Tlacopan'a, kalanı öbür iki ortağa ayrıldı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Prescott 1843 tam metninde birebir; 19. yuzyil derlemesi oldugu icin guven orta."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Tezcucalı yazarlar kendi devletleri için Azteklerle eşit pay talep eder; anlatıyı 19. yüzyılda derleyen tarihçi ise Meksika'nın topraklarının sonradan çok daha hızlı büyümüş olmasını gerekçe göstererek bu talebi kabul etmez ve paylaşımın gerçekte hangi oranlarda yapıldığını bilmediğini söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cekince korundu: kaynak paylasim oranlarinin bilinmedigini kendisi soyler."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Bu birimler 12. yüzyıldan itibaren orta Meksika'yı kaplamıştı; 1400'e gelindiğinde fetihle kurulmuş birkaç küçük imparatorluk zaten vardı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "altepetl, tlatoani ve 1400 esigi ozette gecer."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Yöntem çok sürdürülebilirdi ve merkezî siyasi denetime bağlı değildi — ayakta kalması için bir imparatorluk maliyesine ihtiyaç duymuyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozetin kendi ifadesi; havuz kurali geregi Crossref icerik iddiasi kismi sayildi."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Xaltocan çevresindeki geniş yükseltilmiş tarla alanı, kent 14. yüzyılda güçlü komşularından oluşan bir ittifak tarafından fethedilince terk edildi; sistemin hem yükselişi hem bırakılışı doğrudan şehir devletinin siyasi iktisadına bağlanır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Xaltocan ornegi havzanin KUZEYINE aittir; genelleme yapilmadi."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Aztek döneminde bu tarlaların canlandırılamamış olması ise tek bir nedene değil, siyasi, iktisadi ve ekolojik etkenlerin birlikte etkisine yorulur.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ozet uc etkeni birlikte sayar; tek nedene indirgenmedi."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "19. yüzyılda derlenen dökümde pamuklu giysiler, tüy işlemeli mantolar, süslü zırh, altın tabak ve vazolar, altın tozu, bilezikler, cilalı kaplar, bakırdan çan, silah ve alet, top top kâğıt, tahıl, meyve, kopal, amber, koşnil, kakao, yabani hayvanlar ve kuşlar, kereste, kireç ve hasır sayılır; aynı derleme, ülkenin sonraki yüzyıllardaki başlıca madeni olan gümüşün listede hiç geçmemesini tuhaf bulur.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Liste Prescottun dokumunden birebir alindi, kisaltilmadi; gumus notu da kaynagin kendi cekincesi."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Sarayda oturan bir genel alıcı hesabı tutuyor ve elinde, imparatorluğun her parçasına düşen yükü tek tek gösteren bir harita bulunduruyordu; borcunu ödemeyenin köle olarak satılması da aynı düzenin parçasıydı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Aynı kayıt, eski bir vakanüvisin verdiği saatte dört-beş fersahlık hızı inanılmaz bulup reddeder ve günde yüz ile iki yüz mil arasında bir menzil verir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynagin kendi reddi korundu: saatte dort-bes fersah rakamini inanilmaz bulur."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Kaydın taşıyıcısı resim-yazıydı: yasalar, ev ekonomisine dair düzenlemeler, kasabaların yükümlülüğünü tek tek gösteren haraç ruloları, mitoloji, takvimler, ayin metinleri ve siyasi yıllıklar bu yazıyla tutuluyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Aztek kurumlarına en çok ışık tutan belge sayılan Mendoza Kodeksi, bir yüzyıldan uzun süre ortadan kaybolduktan sonra Oxford'daki Bodleian Kütüphanesi'nde yeniden göründü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Bu resimli belgelerin ancak bir kısmına, fetihten sonra yerlilerden alınmış yorumlar eklenmiştir; büyük bölümü yorumsuzdur ve okunamaz durumdadır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak \"bir kismina\" der; metin de kismi tutuldu."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Köle kendi ailesini kurabilir, mal edinebilir, hatta kendi kölesi olabilirdi; çocukları özgür doğardı ve hiç kimse köle olarak doğmuyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Prescottun kendi degerlendirici dili (\"onurlu bir ayricalik\") aktarilmadi, yalnizca kurumsal betim alindi."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Aynı kayıt boyun eğmeyen kölenin boynuna halka takılıp pazarda satılabildiğini ve ikinci satışta kurban için ayrılabildiğini de söyler; yumuşaklıkla sertlik aynı sayfada duruyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ayni sayfadaki karsi ornek atlanmadi."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Taşranın konumu sade bir denklemdi: eyalet ödüyor, merkez karşılığında pek bir şey vermiyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Bağlılığı satın alacak bir hizmet ağı bulunmadığı için bağlılık, yalnızca güç dengesi sürdüğü sürece sürüyordu; ayaklanmaların hükümdar değişimi gibi zayıflık anlarına denk gelmesi bunun sonucudur.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yorum cumlesi; ozetin hukumdar degisimi ornegine yaslanir."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "New York'taki Metropolitan Museum koleksiyonunda taş ve sıvadan yapılmış, 1325-1521 aralığına tarihlenen bir Chicomecoatl heykeli bulunuyor; müze kaydı yapımcıyı Mexica sanatçıları, kültürü de Mexica (Aztek) diye adlandırır ve nesneyi tanrılar başlığı altında sınıflandırır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Muze API kaydinda kultur, tarih araligi, malzeme ve etiket alanlari birebir."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "19. yüzyılın standart anlatısı sayıları şöyle verir: imparatorluk genelinde yıllık kurban sayısını yirmi binin altında tahmin eden yazar neredeyse yoktur, kimileri elli bine kadar çıkar; büyük tapınağın 1486'daki açılışında yetmiş bin tutsağın öldürüldüğü söylenir; Cortés'in adamları bir kafatası yapısında yüz otuz altı bin kafatası saymıştır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Sayilar Prescottun 1843 metninden birebir; iddia sayilarin dogrulugu degil, 19. yuzyil anlatisinin bu sayilari verdigidir."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Bu kadar kalabalık bir topluluğun direnmeden kesime götürülmesinin nasıl mümkün olduğunu ve cesetlerin başkentte salgın çıkarmadan nasıl yok edildiğini sorar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynagin kendi kuskusu tasindi; hemen ardindan gelen i38 kaynagin kendi karsi-cekincesini de tasir."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "ithaf yazısı Moctezuma'nın imparatorluğunda her yıl kurban edilen sayısız kurbanı andığı cümleyi, İncil ışığının putperestliğin korkunç karanlığını dağıttığı anı kutsayarak bağlar",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1829 ithaf metni birebir; hakem duzeltmesi: onceki surum bu cumlenin ithafin SONU oldugunu soyluyordu, oysa ithaf papadan yardim dilegiyle biter (bkz. i39)."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Tenochtitlan'daki kazının bulgusunu duyuran Science haberinin başlığı, ortaya çıkan kafatası sayısını yüzlerle verir ve bunu insan kurbanının büyük ölçekli olduğunun kanıtı sayar.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref kaydinda yalnizca BASLIK duzeyinde destek var; haber sayfasi hakemli makale degil ve metinde bu soylendi."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Cortés, Tenochtitlan kuşatmasını anlattığı mektupta göl kıyısındaki kentlere kanolarıyla gelmelerini emrettiğini ve o gün kampında dostları dediği yüz binden fazla adam bulunduğunu yazar; şehre girişleri bu kalabalıkla, bölük bölük yapar.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cortesin kendi raporundan; taraf beyani oldugu ama kendi aleyhine oldugu metinde belirtildi."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Aynı mektup yıkılmış köprüleri, gölde yüzen brigantinleri ve esir düşen İspanyolların anında kurban edildiğini de kaydeder.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "1519'da İspanyolların gelişi, tabi halkların bir bölümü için yeni bir ayaklanma fırsatıydı ve bu kez ayaklananlar güçlüydü; imparatorluk 13 Ağustos 1521'de İspanyol ve yerli düşmanlarının elinde düştü.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "13 Agustos 1521 ve yerli dusmanlar ifadesi ozette birebir."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Bir salgın tarihi incelemesi, 1519-1520 çiçek salgınında beş ila sekiz milyon kişinin öldüğünü, 1545 ve 1576'da başlayan cocoliztli salgınlarının ise Meksika yaylalarında yedi ila on yedi milyon kişiyi daha öldürdüğünü aktarır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Araliklar korundu; kaynak bunlari Cook ve Simpson tahminlerine dayandirir. Hakem duzeltmesi: kaynagin \"in the highlands of Mexico\" sinirlamasi geri konuldu."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Bu araştırma cocoliztli'nin kemirgenlerle taşınan yerli kanamalı ateşler olabileceğini ve aşırı kuraklığın etkiyi ağırlaştırdığını öne sürer; ifade öneri kipindedir ve sayılar başka araştırmacıların tahmin aralıklarından alınmıştır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Oneri kipi metne tasindi."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Adlandırma bugün bile tek biçimli değil: müze kaydı kültürü önce Mexica diye anıyor, Aztek'i parantez içinde veriyor ve nesnenin yapımcısını Mexica sanatçıları olarak kaydediyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "İmparatorluk sözcüğü akademik yazında kullanılmayı sürdürüyor, ama içeriği değişti: bugün onunla kastedilen doğrudan yönetim değil, iç eyaletlerin düzenli vergi ödediği, dış eyaletlerin sınır bekleyen tabi devletler olduğu dolaylı bir denetim düzenidir.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Adlandirma tartismasinin guncel ucu; ozetin dolayli denetim tanimina yaslanir."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "19. yüzyıl derlemesi merkeze akan şeyi zorla alınan yükümlülük diliyle anlatır: dehşet saçan tahsildarlar, ödemeyeni köleleştiren yasa, hanedanın sonuna doğru dayanılmaz hâle gelen yükler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Güncel özet aynı akışı düzenli vergi olarak adlandırır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "\"regular taxes\" ifadesi ozette birebir gecer."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "19. yüzyıl anlatısı yükümlülüklerin ağırlaşmasının ülkede hoşnutsuzluk yarattığını ve bunun İspanyol fethine zemin hazırladığını söyler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "19. yuzyil nedenselligi kaynagin kendi hukmu olarak aktarildi."
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Güncel yorum ayaklanmaları merkezin zayıflamış görünmesine bağlar ve bunları 1519 öncesinde de tekrarlanan bir düzenek sayar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": ""
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Bugün yerleşik olan görüntü — kanlı sunak, tek bir despot, birkaç İspanyol'un mucizevi zaferi — üç kaynaktan besleniyor: fatihin kendini haklı çıkarma ihtiyacı, misyoner derlemelerini yayına hazırlayanların din değiştirmeyi gerekçelendirme ihtiyacı ve 19. yüzyılın bu iki katmanı romana yakın bir anlatıya dönüştürmesi.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k7",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Uc katmanli yorum; kaynaklar baglam saglar, iddiayi birebir tasimaz."
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Kazı bulgusu ve yükümlülük listeleriyle karşılaştırıldığında geriye daha az gösterişli ama daha anlaşılır bir şey kalıyor: gölün üstüne kurulmuş, taşradan mal ve emek toplayıp karşılığında neredeyse hiçbir şey vermeyen, bu yüzden de ilk ciddi sarsıntıda tabi ortaklarını kaybeden bir düzen.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kapanis yorumu; olculemez sayilir."
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Ama aynı sayfada olayın yakın tarihli olduğunu ve en iyi bilgilendirilmiş tarihçilerce doğrulandığını, kendi ifadesiyle bu noktada tartışılacak bir şey bulunmadığını da yazar: kuşkusunu sayıya yöneltir, olayın kendisine değil.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem eklemesi: kaynak \"the event was of recent date, and is unequivocally attested by the best-informed historians\" der. Onceki surum kaynagin bu karsi-cekincesini dusurmustu."
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "metnin kendisi ise papadan Meksika kilisesine yardım dilemekle ve yardım gecikirse halkın eski hatalarına dönüp dağlarda yeniden insan kurban edebileceği uyarısıyla biter.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "1829 ithafinin kapanisi birebir: \"se habian ofrecido nuevamente sacrificios de victimas humanas a sus antiguos numenes\"."
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "aynı kayıt savaş esirlerinin neredeyse istisnasız kurban edilmek üzere ayrıldığını da söyler",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hakem eklemesi: kaynak \"prisoners taken in war, who were almost always reserved for the dreadful doom of sacrifice\" der; onceki surum bu cekinceyi dusurmustu ve kolelik tablosunu haksiz yere yumusatiyordu."
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "aynı mektup bir saldırıda suyu geçenleri, mektubun kendi yazımıyla, Tascaltecal, Guajocingo, Calco ve Tesaico'dan gelen seksen binden fazla adam diye sayar; bir bölük komutanına yirmi beş binden fazla Tascaltecal savaşçısı verildiğini de yazar.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Hakem eklemesi (liste kirpmasi duzeltmesi): Cortes'in kendi metni muttefikleri adlandirir. Yazimlar mektubun kendi yazimidir; modern karsiliklarina cevrilmedi. Sayilar fatihin tahminidir, gövdede boyle isaretlendi."
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Güncel özet bu biçime dolaylı denetim adını verir; sözcüğün altındaki düzeneğin — eyalet yönetiminin fiilen kime bırakıldığının — ne olduğunu ise elimizdeki künye düzeyindeki kayıt açmıyor, bu dosya da açmış gibi yapmıyor.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Hakem duzeltmesi: onceki surum \"Ordu gectikten sonra yerel hanedan yerinde kaliyor\" diyordu; bu cumle k1 ve k2 ozetlerinin hicbirinde yok. Iddia kaldirildi, yerine bilgi sinirinin beyani konuldu."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 26,
+    "kismi": 13,
+    "desteksiz": 0,
+    "olculemez": 3
+  }
+}

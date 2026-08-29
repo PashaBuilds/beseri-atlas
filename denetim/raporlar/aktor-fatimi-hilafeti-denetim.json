@@ -1,69 +1,315 @@
 {
   "id": "aktor-fatimi-hilafeti",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:49.057Z",
-  "govde_hash": "eeafa9395986",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T16:16:41.672Z",
+  "govde_hash": "f3b329d98f78",
+  "commit": "d0eeece",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "Fâtımîler, 909-1171 yılları arasında Kuzey Afrika, Mısır ve Suriye'de hüküm süren bir Şiî devletidir.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Fâtımî devletinin 909-1171 arasındaki ömrü, 750 ile 1258 arasında hüküm süren Abbâsî hanedanının ömrüyle büyük ölçüde örtüşür.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "Fâtımî devletinin 909-1171 arasındaki ömrü, 750 ile 1258 arasında hüküm süren Abbâsî hanedanının ömrüyle büyük ölçüde örtüşür.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "İki hilafet iddiasının aynı yüzyılları paylaşması, İslam dünyasını tek bir siyasi merkez olarak düşünmeyi engeller.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k2",
-      "iddia": "İki hilafet iddiasının aynı yüzyılları paylaşması, İslam dünyasını tek bir siyasi merkez olarak düşünmeyi engeller.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Peygamber'e nesep bağı ileri sürerler.",
+      "iddia": "Ehl-i sünnet'te halife seçimle ya da önceki halifenin tayini ve halkın biatıyla iş başına gelirken, Fâtımîler'de imam ilâhî bir hak olarak kendinden öncekinin h",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Adın bir soy iddiası taşıması, meşruiyetin nesep üzerinden kurulduğunu gösterir.",
+      "iddia": "Devletin başındaki imam Allah'ın yeryüzündeki temsilcisi sayılır, her ilmin kaynağı ve şeriatın birinci müfessiri kabul edilirdi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Hânedan adını Peygamber'in kızı Fâtıma'dan alır; kurucuları Fâtıma ve Ali yoluyla Peygamber'in soyundan geldiklerini ileri sürerler ve bu iddianın doğruluğu esk",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Dâî Ebû Abdullah eş-Şiî, Berberî Kutâme kabilesinin desteğiyle Ağlebî başşehri Rakkāde'yi ele geçirdi (296/909); Ubeydullah, 29 Rebîülâhir 297'de (15 Ocak 910) ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Altmış yıl sonra kumandan Cevher es-Sıkıllî Mısır'ı neredeyse direnişsiz aldı (Şâban 358 / Temmuz 969); maddenin kendi değerlendirmesiyle, İslam tarihinde ilk d",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fâtımî halifeleri, Şîa'nın Allah'ın gizlediğini açığa çıkarmama ilkesine dayanarak resmî bir soy kütüğü açıklamamakta ısrar ettiler.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kendi kaynaklarında silsile Ubeydullah el-Mehdî'yi İsmâil bin Ca'fer es-Sâdık'a bağlar; ama Mehdî'nin Yemen'e gönderdiği bir mektupta soyunun İsmâil'e değil, on",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Abbâsîler 402 (1011) yılında Fâtımîler'in soyunu çürütmek için Bağdat'ta bir tutanak (mahzar) yayımlattı; 444'te (1052) benzeri bir şecere düzenlendi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bu belgenin kimin imzasını taşıdığı bile çekişmelidir: TDV maddesi tutanağı Şerîf el-Murtazâ'nın imzaladığını yazar, O'Leary ise Alevî nesep kayıtlarının resmî ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bu belgenin kimin imzasını taşıdığı bile çekişmelidir: TDV maddesi tutanağı Şerîf el-Murtazâ'nın imzaladığını yazar, O'Leary ise Alevî nesep kayıtlarının resmî ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "O'Leary'nin kendi uyarısı şudur: mesele o kadar güncel bir siyasi çekişme konusuydu ki tarafsız bir kanaate ulaşmak neredeyse imkânsızdı; nesep, incelendiğinde ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı kitap iki tarafı da işaretler: Makrîzî Fâtımî yanlısıdır, çünkü seyyidlik iddiasını onların üzerinden kurar; İbn Hallikân ise açıkça Fâtımî karşıtıdır ve M",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "On dördüncü yüzyılda Kuzey Afrikalı Mâlikî İbn Haldûn, Mukaddime'nin üçüncü cüzünde hânedanı baştan sona \"Fâtımîler\" değil \"Ubeydîler\" diye anar ve İsmâilî imam",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kuzey, Afrikalı, İbn, Mukaddime"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kurduğu merkeziyetçi sistemde yapı üçe ayrılıyordu: idare vezirin, din ve yasama işleri kadının, propaganda ise dâi'd-duâtın elindeydi; ordu doğrudan imama bağl",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Devletin üç bölgede birden hüküm sürmesi, Akdeniz'in güney ve doğu kıyısını tek bir siyasi çatı altında toplar.",
+      "iddia": "Askerî grupların çatışması ve Selçuklular karşısındaki kayıplar Mısır'ı anarşiye sürükleyince elli dört vezir ve kırk iki kadı görevden uzaklaştırıldı; halife M",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bundan sonra vezir aynı anda başkumandan, kādılkudât ve dâi'd-duât oldu; kadılar ve dâîler onun nâibi durumuna düştü.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Makam artık kalemin değil kılıcın makamıydı: İbnü'l-Esîr'in ifadesiyle, \"Mısır'da vezirlik galip gelen kişinindi\".",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mısır'ı alan kuvvetin en büyük bölümünü Berberî Kutâme oluşturuyordu; Azîz-Billâh döneminde Bizans ve Büveyhî orduları karşısında yetersiz kalınca Türkler ve De",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Her grubun Kahire'de ayrı bir mahallesi vardı ve gruplar arası çatışma, hanedanın son yüzyılında devlet krizlerinin düzenli kaynağı oldu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mısır'ın gelirleri ikiye ayrılmıştı: hububat, hurma, üzüm ve meyve yetiştiricilerinden alınan yıllık haracî mal ile iş yeri, dükkân, hamam, fırın ve değirmenler",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bunların üstünde devletin en önemli gelir kaynağı, zimmîlerden alınan ve \"cevâlî\" ya da cizye denilen vergiydi; yıllık olmasına rağmen aylık tahsil ediliyor, ta",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Makrîzî'ye göre Mısır'da ilk zekât toplayan kişi Selâhaddin'dir; Fâtımîler'in bunun yerine İsmâilî mezhebinin esaslarını öğrenenlerden alınan necvâyı koymuş olm",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Toprak vergisi iltizamla toplanırdı: açık artırmaya devlet görevlileri ve kumandanlar dahil herkes girebilir, hak mültezimin çocuklarına geçer, böylece bölge za",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cevher'in Mısır'daki iktisadî düzenlemeleri arasında feddân (4200 m²) başına alınan haracı 3,5 dinardan 7 dinara çıkarması ve para ayarını yükselterek Muizzî di",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yükün ağırlığı dolaylı ölçülebilir: kaynağa göre Fâtımîler döneminde hiçbir ürün, sanat ve meslek vergiden muaf tutulmamıştı ve Selâhaddin, yıllık tutarı 100.00",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Fustat, İskenderiye'den ve Kızıldeniz'den gelen malların boşaltıldığı dağıtım merkezi olarak kaldı; Amalfi'den gelen İtalyan tüccarların Dâru Mânik adlı kendi k",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Bu maliyenin ve bu ticaretin ürettiği nesnelerden bugüne kalanların bir bölümü dokumadır: New York'taki Metropolitan Museum of Art kataloğunda Mısır'a atfedilen",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bugün Sünnî öğretimin başlıca kurumlarından biri olan Ezher, Kahire'yi kuran Cevher es-Sıkıllî tarafından şehrin cuma camii olarak yaptırıldı; inşaat Cemâziyele",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İsmâilî da'vet burada yoğunlaştı: ilk ders halkası 365 (975) yılında Kadı Ali bin Nu'mân'ın, babası Kadı Nu'mân'ın fıkıh kitabını imlâ ettirmesiyle kuruldu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "378'de (988) Vezir İbn Killis otuz yedi fakihi Ezher'e tayin etti, onlara maaş ve cami civarında ev tahsis etti; Makrîzî Mısır'da sultan tarafından maaş ödenere",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Aynı ansiklopedinin Fâtımîler maddesi kurumu 395 (1004) yılında ve Ehl-i sünnet'e yakınlaşma maksadıyla kurulmuş gösterirken, Hâkim-Biemrillâh maddesi kuruluşu ",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1000 yılı için yaklaşık 323,5 milyon, 1300 yılı için yaklaşık 456,2 milyon olarak verilir.",
+      "iddia": "Aynı ansiklopedinin Fâtımîler maddesi kurumu 395 (1004) yılında ve Ehl-i sünnet'e yakınlaşma maksadıyla kurulmuş gösterirken, Hâkim-Biemrillâh maddesi kuruluşu ",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Devletin siyasi tarihi, halife sıralaması, mezhep siyaseti ve başkentinin kuruluşu burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler ",
+      "iddia": "Kurumun sonraki seyri de dalgalıdır: 400'den (1010) itibaren Fâtımî propagandasının merkezi oldu, 513'te (1119) devletin dinî siyasetine aykırı faaliyetler yüzü",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Selâhaddin, iki ayrı cuma hutbesinin aynı şehirde okunamayacağı fetvasına dayanarak Ezher'de cuma namazını yasakladı ve burayı Sünnî bir eğitim merkezi hâline g",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Saray kütüphanesi de satıldı: haftanın iki gününde yapılan satışlar tam on yıl sürdü.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Devlet, zimmîlerin tecrübesinden ve özellikle malî konularda Kıptîler'den yararlandı; bu görevlere onlar getirildi ve Sünnî müslümanlar buralardan uzaklaştırıld",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yahudiler de önemli mevkiler tuttu, ama vezirlik makamına gelebilmeleri için müslüman olmaları gerekiyordu; İbn Killis, Ebû Sa'd et-Tüsterî ve Sadaka bin Yûsuf ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Behrâm'ın Tel Bâşir ve Ermenistan'dan getirttiği ve sayıları 30.000'i bulan ırktaşları Mısır'a yerleşip kiliseler inşa edince yerli halk tedirgin oldu; yerine g",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kadılar bütün dönem boyunca İsmâilî fakihler arasından seçildi ve devletin mezhebinden başkasıyla hüküm vermeleri yasaklandı; tek istisna 525 (1131) yılında Ebû",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Mahkemenin şahit sayısı da büyümüştü: daha önce otuz civarındayken 524'te (1130) yüz yirmiye ulaşmıştı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Kahire Genizası'ndan çıkan ve İbranîce yazılmış bir megilla parçası, cemaatin bir cenazeden dönerken kalabalık tarafından taşlanmasını, yirmi üç kişinin tutukla",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Mann bunu, ünlü zulümlerin henüz başlamamış olmasına yorar; ama aynı kitapta Lane-Poole'dan aktarılan kilise yıkımları takvimi bu yorumu rahat bırakmaz.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "TDV maddesi onun kişilik portresini \"İttifakla belirtildiğine göre Hâkim sert mizaçlı, merhametsiz…\" diye açar; o ittifakın kimler arasında kurulduğu ise kaynak",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı madde halifenin 395'te (1005) Ebû Bekir, Ömer ve Osman gibi sahâbîlere sövülmesini emrettiğini ve iki yıl sonra bundan vazgeçtiğini, aynı yıl gayrimüslimle",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı kayıt, kolay anlatıyı bozan bir çekince de taşır: 396-401 (1006-1010) arasında Hâkim'in Sünnîler ve gayrimüslimlere karşı siyasetini değiştirdiği, mezhep t",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kayboluşu da tek bir anlatıya bağlanmaz: tarihçilerin çoğu kız kardeşi Sittülmülk'ün öldürttüğü kanaatindedir, Makrîzî ise bunu reddeder.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Makrîzî'nin kendi açıklamasına göre eski cezaî hükümlerin yeniden yürürlüğe konması, Fâtımîler'in aşırı kayırdığı hıristiyan ve yahudilerin serveti ve devlet ka",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Kilisesi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Müstansır-Billâh'ın 487'de (1094) ölümü üzerine Vezir Efdal, meşrû hak sahibi büyük oğul Nizâr'ı uzaklaştırıp küçük oğlu Müsta'lî'yi halifeliğe getirdi; İsmâilî",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Nizâr yakalanıp İskenderiye hapishanesinde öldürüldü (488/1095), fakat 483'te (1090) Alamut Kalesi'ni ele geçirmiş olan Hasan Sabbâh'ın şahsında güçlü bir deste",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Nizârî imâmeti Hülâgû'nun 654 (1256) yılında Alamut'u zaptetmesiyle büyük bir kesintiye uğradı; sonraki imamlar hakkında güvenilir bilgi yoktur ve Ağa Hanlar ko",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Esedüddin Şîrkûh'un yeğeni Selâhaddîn-i Eyyûbî vezirliğe getirildikten sonra hutbeler Fâtımîler adına kesilip Abbâsîler adına okunmaya başlandı ve bütün bu deği",
+      "durum": "OK",
+      "not": ""
     }
   ]
 }

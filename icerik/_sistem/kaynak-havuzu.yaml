@@ -118,6 +118,13 @@ whitelist:
   - alan: archive.org
     tur: birincil
     dogrulanabilir: true
+    # BIREBIR DOGRULAMA SINIRI (2026-08-29 ajan olcumu): getir.mjs metni
+    # 400k karakterde keser. 400k'yi asan ciltlerde dogrulama dizesi
+    # sinirin otesinde kalabilir ve kunye yalnizca "kelime ortusmesi %100"
+    # ile gecer — bu BIREBIR dogrulama DEGILDIR. Ornek: Chadwick'in 1842
+    # Sanitary Report'u (b21307313) 1.257.494 karakter; dok.mjs --tam ile
+    # okunabiliyor ama kapinin gordugu pencerede hedef dizeler yok.
+    # Boyle bir cilde yaslanacaksan dogrulama dizesini ILK 400k icinden sec.
   # Muze koleksiyon API'leri. Muzelerin insan arayuzlu sayfalari (britishmuseum.org,
   # metmuseum.org, si.edu, europeana.eu) otomatik istekleri engelliyor — 2026-08-25'te
   # dordu de 403/429 dondurdu. API uc noktalari engellemiyor ve makine okunur

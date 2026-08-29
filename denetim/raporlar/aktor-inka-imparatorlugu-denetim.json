@@ -1,79 +1,409 @@
 {
   "id": "aktor-inka-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:49.833Z",
-  "govde_hash": "936460081acc",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T16:09:54.698Z",
+  "govde_hash": "8d64a8fe28bd",
+  "commit": "d0eeece",
   "sonuclar": [
     {
       "anahtar": "k1",
-      "iddia": "yüzyıl başı için yaklaşık 12 milyon kaydedilir.",
+      "iddia": "İnka düzenini Avrasya'da uygarlığın ölçütü sayılan özelliklerden ayıran şeylerin bir bölümü yokluklardır: tekerlek, yük çeken hayvan, demir ve çelik, yazı.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Avrasya"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Buna karşılık And dağlarının sırtı boyunca imparatorluğun her köşesine uzanan bir yol ağı, ince dokunmuş kumaşlar, düğümlü iplerle tutulan bir kayıt düzeni ve z",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "12 milyonluk değerin verilmesi, atlasın çoğu erken dönem aktöründe yapamadığı bir karşılaştırmayı mümkün kılar.",
+      "iddia": "Düzen büyük ölçüde parasız ve pazarsız işliyordu; alışverişin yerini karşılıklılık alıyor, vergi denen yükümlülük mal olarak değil emek olarak ödeniyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kural imparatorluğun tamamında aynı işlemiyordu: karşılıklılık geleneğinin yerleşmediği kuzey kıyısında balta biçiminde madenî parçalar dolaşımdaydı ve bazı böl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düzenin kendi yazı sistemi yoktu.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1500 yılında yaklaşık 503,1 milyondur.",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak resmî dili Klasik Keçuva olarak verir ve ekler: Huayna Capac'ın saltanatından önce muhtemelen Aymara.",
-      "durum": "OK",
-      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir imparatorluğun resmî dilinin, hanedanın son kuşaklarında değişmiş olabileceğinin kaydedilmesi dikkat çekicidir: dil politikası, fetihten sonra da sürmektedi",
+      "iddia": "Bu yüzden hakkındaki erken yazılı kayıtların hemen tamamı onu yıkanların kaleminden çıkmıştır; bunların en az biri, fethi haklı çıkarmak üzere özellikle sipariş",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Yaygın diller listesi tek bir dile indirgenemez: Keçuva dilleri, Aymara dilleri, Puquina, Mochica, Barbacoan ve daha küçük onlarca dil sayılır.",
-      "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bu liste, imparatorluğun tek bir dil topluluğu üzerine kurulmadığını gösterir; resmî dil, konuşulanların yalnızca biridir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak yönetim biçimini \"ilahi, mutlak monarşi\" olarak sınıflandırır; hükümdar unvanı Sapa İnka'dır ve hanedan listesi 1438'de başlar.",
+      "iddia": "Düzenin kendi adı Tawantinsuyu, yani dört parçalı ülkeydi.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Başkent Cusco'dur ve imparatorluk en geniş sınırlarına yaklaşık 1525'te ulaşmıştır.",
+      "iddia": "Merkezî yönetimin çevresinde Chinchaysuyu, Antisuyu, Kuntisuyu ve Qullasuyu diye adlandırılan dört taşra yönetimi duruyordu; bu düzenlemenin Pachacuti'nin Cusco",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "En geniş sınıra ulaşma tarihi ile düzenin sonu arasındaki kısa aralık, çöküşün zirve noktasının hemen ardından geldiğini gösterir.",
+      "iddia": "Bugün kullanılan İnka İmparatorluğu adı ise düzenin kendi adı değildir; on altıncı yüzyıl vakayinamelerinden gelir.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Keçuvada inka sözcüğü de yalnızca hükümdarı karşılamaz, soylu tabakanın tamamına uzanır.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
-      "anahtar": "k2",
-      "iddia": "Düzeni sona erdiren imparatorluk, en geniş noktasında 13,7 milyon kilometrekare alan kaplayan İspanyol İmparatorluğu'ydu.",
+      "anahtar": "k1",
+      "iddia": "Wari, Cusco bölgesini yaklaşık dört yüz yıl elinde tuttu ve İnkalara mal edilen başarıların bir bölümü — binlerce kilometrelik yollar, taş işçiliğiyle kurulmuş ",
       "durum": "OK",
       "not": "2 atom doğrulandı; 1 ad ölçülemedi"
     },
     {
       "anahtar": "k1",
-      "iddia": "Yol ağı, kayıt tutma yöntemi, tarım düzeni ve fethin seyri burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler.",
+      "iddia": "Yükümlülüğün adı mit'a idi ve para değil emek istiyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Cieza de León'un Cusco'da derlediği anlatıya göre yük eyalet eyalet farklılaşıyordu: madeni olan yerler gümüş ve altın veriyor, olmayanlar mısır, kurutulmuş chu",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Cusco"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Maden çıkaramayan bazı eyaletler yükümlülüklerini kadın ve oğlan çocuklarıyla ödüyordu; kaynak bunu, tek çocuklu ailelerin muaf tutulduğunu ve alımın hoşnutsuzl",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Böyle bir çekince, anlatının kimden geldiğini hatırlatır: Cieza'ya bilgi verenler Cusco'nun orejones denen soylularıydı, yani fetihten sonra konumunu yitirmiş v",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Eyaletlerin verdiği kadınlar hükümdarın hizmetiyle Güneş tapınakları arasında bölüştürülüyordu.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Güneş"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Her eyalette sefer için erzak ve donanım tutan depolar vardı; savaş yoksa bu birikim yoksullara ve dul kadınlara dağıtılıyor, kıtlık yılında depolar açılıyor, b",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yoksul sayılanlar çalışamayacak kadar yaşlı, sakat ya da hasta olanlardı; sağlıklı ve çalışabilir olan hiçbir şey almıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kayıt, khipu denen düğümlü iplerle tutuluyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "İplikler pamuktan ya da lama ve alpaka yününden eğriliyor, üç ayrı düğüm türü katmanlı kümeler hâlinde diziliyordu; sayı düzeni ondalıktı ve yazının yokluğunda ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Guamán Poma'nın çizimlerinden biri khipu tutucusunu doğrudan sarayın yazmanı ve muhasebecisi olarak gösterir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Her eyalet yöneticisinin yanında quipucamayo denen muhasebeciler bulunuyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Düğümler birden ona, ondan yüze, yüzden bine sayıyor, bir ipte birler, ötekinde onlar duruyordu; bölgeye düşen gümüş, altın, kumaş ve sürü yükümlülüğü, odun gib",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı düzen nüfus sayımını da taşıyordu: her yıl sonunda her eyaletteki ölümler ve doğumlar düğümlere işleniyor, ipler yılbaşında Cusco'ya götürülüyor ve imparat",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Cusco"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Xauxa eyaletindeki Marcavillca'da yerel bey Guacarapora'dan sistemi göstermesini istedi; adam khipuları getirtti ve Pizarro'nun vadiye gelişinden bu yana İspany",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "\"Bu sayma sistemine kuşkuyla bakıyordum\" diye açar bölümü ve gördükten sonra şaşırdığını yazar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaydın canlılığı fetihten sonra da sürdü: İspanyol birliklerinin geçtiği vadilerde uğranılan zarar khipularla ölçülüyor, yük eyaletler arasında eşitleniyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ama iplerin okunma bilgisi kayboldu; khipuların hemen tamamı kullanımdan düştü, zamanla çürüdü ya da İspanyollarca yok edildi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sonucu bugün hâlâ ödenmektedir: düzen kendi nüfusunu düzenli olarak sayıyordu, ama sayımın taşıyıcısı okunamaz hâle geldiği için doruk nüfus bilinmiyor.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tahminler 4 milyonla 37 milyon arasında değişir; çoğunluğu 6 ile 14 milyon aralığında toplanır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İmparatorluğun iki ucu arasındaki mesafe, bir haberin insan hızıyla taşınmasını yönetim açısından işe yaramaz kılacak kadar uzundu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Çözüm, kraliyet yolları boyunca yarım fersahta bir kurulan küçük evlerdi; her evde komşu köylerin dönüşümlü olarak yerleştirdiği iki koşucu erzakla birlikte bek",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Koşucu bir sonraki eve yaklaşırken haberi bağırarak aktarıyor, kendisi dinlenmeye giriyor, öteki hemen yola çıkıyordu; böylece 300, 500, hatta 800 fersah ötede ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Cieza bu düzeni atlı ulakla karşılaştırır ve yaya menzilin daha hızlı olduğunu söyler; koşucuların taşıdıkları haberi ne yalvarmayla ne tehditle ele verdiklerin",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Mitimaes, bir ülkeden başkasına nakledilenlerin adıydı ve kaynak üç ayrı türünü sayar.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yeni fethedilen bir eyaletten belli sayıda insan, iklimi ve koşulları kendi ülkelerine benzeyen başka bir bölgeye gönderiliyor — soğuktan soğuğa, sıcaktan sıcağ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sürgünün gönüllü görünmesi için nakledilenlere altın ve gümüş bilezikler, kadınlara kumaş ve tüyden giysiler verilirdi.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Yerleşimcilerin arasında casuslar vardı; yerlilerin konuşmalarını ve tasarılarını valilere bildiriyor, bilgi gecikmeden Cusco'ya gidiyordu.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Cusco"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kaynak sonucu açıkça söyler: yerliler mitimaesten korkuyor, mitimaes yerlilerden kuşkulanıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Aynı kaynak, İnkalar arasında ölçüsüz ve büyük bir zulümle cezalandıranların bulunduğunu da not eder.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İnkalar"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "İkinci tür mitimaes, Andların doğu yamaçlarındaki orman sınırında kaptanlar altında garnizon kuranlardı.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Andların"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Üçüncüsü kaynağın kendisine daha da tuhaf görünür: fetih sırasında iklimi elverişli, toprağı verimli ama boş kalmış bir bölge bulunduğunda, benzer iklimli komşu",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Nakledilenlere yüklenen işlerden biri de doğrudan ekolojikti: soğuk olduğu için mısır, koka ve meyve yetişmeyen bölgelerin ihtiyacını karşılamak üzere mitimaes ",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Andların"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Murra'nın dikey takımada dediği model, birbirini tamamlayan farklı yükseklik kuşaklarının tek bir toplulukça birlikte kullanılmasını, bu kullanımın And topluluk",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sayılarının 15.000 ile 40.000 arasında olduğu, yönettikleri nüfusun ise 10 milyon dolayında bulunduğu tahmin edilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Resmî eğitim bu dar halkanın dışına kapalıydı: merkezî soyluluğun ve kuraka denen yerel beylerin belli katmanlarının çocuklarıyla sınırlıydı, onlar da Cusco'dak",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Miras hem anne hem baba tarafından geçiyor, akrabalık paralel bir çizgi izliyor, bir kadın toprağa ve sürüye annesi üzerinden erişebiliyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Tarlada çalışan kadınları gören İspanyollar bunu kölelik sandılar; kendi toplumlarında kadınlar aynı ölçüde çalışmıyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Keçuva İnkalarla başlamadı; İnka genişlemesinden önce birçok bölgede ortak dil olarak kullanılıyordu ve o zaman bile tek parça değildi.",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "İnka beyleri onu imparatorluk dili olarak yaydılar, ama topluluklar kendi dillerini de büyük ölçüde korudular.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Cieza kuralın nasıl uygulandığını anlatır: Cusco'da konuşulan dili öğrenmek ağır ceza tehdidiyle zorunlu kılınmıştı ve çocuğa daha memeden kesilir kesilmez öğre",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Cusco"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sömürge kaydının niyetini en açık gösteren metin, 1572'de tamamlanan bir kitaptır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Pedro Sarmiento de Gamboa'nın İnka tarihi, Peru genel valisi Francisco de Toledo'nun buyruğuyla yazıldı; Sarmiento krala sunduğu mektupta amacı kendisi söyler: ",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "İnkalar iktidarı fetihle gasp etmiş ve zulümle yönetmiş sayıldığına göre, İspanya kralı Peru'nun asıl meşru hükümdarıdır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Metnin İngilizce çevirisini hazırlayan editör iki şeyi not eder: kitap Las Casas'ın Amerika'daki İspanyol zulmü üzerine yazdıklarına verilmiş bir karşılık olara",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Felipe Guamán Poma de Ayala'nın krala gönderdiği uzun şikâyetname, yol üzerindeki tanbolara ayrı bir bölüm açar ve İnka düzeninde emek yükümlülüğünün yalnızca h",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Yazarın kendi cümlesi doğrudandır: mit'a kılıfıyla yoksul yerlinin elindeki ne varsa alınmaktadır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Sömürge görevlileri İnka mit'a düzenini kendi amaçları için, zaman zaman acımasız biçimde kullandı; her aileden bir kişi altın ve gümüş madenlerinde, en başta P",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ölen kişinin yerine ailenin bir başkasını göndermesi gerekiyordu ve ölüm çoğu zaman bir iki yıl içinde geliyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yerleşik anlatı düzenin 1533'te bittiğini söyler ve tarih aralıkları çoğu zaman öyle verilir.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Manco İnka 1536'da kenti geri aldı, İspanyollar kısa süre sonra yeniden ele geçirdi; Manco Vilcabamba dağlarına çekilip küçük bir İnka devleti kurdu ve o devlet",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Son kale 1572'de düştü; Manco'nun oğlu Tupac Amaru yakalandı ve idam edildi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Pizarro 1532'de döndüğünde Huayna Capac'ın oğulları Huáscar ile Atahualpa arasındaki taht savaşı sürüyor, yeni alınmış bölgelerde huzursuzluk devam ediyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın belki daha da önemli saydığı etken salgındır: çiçek, grip, tifüs ve kızamığın Orta Amerika'dan yayılmış olması muhtemeldir; ilk salgının 1520'lerde gel",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Yayılmayı büyük olasılıkla İnka yol düzeninin kendi verimliliği kolaylaştırmıştır.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ne var ki bu iddia tartışmalıdır: Huayna Capac'ın ölümüne ilişkin en erken yazılı anlatılar ölüm nedeni konusunda birbirini tutmaz.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Geriye kalan yazılı anlatının önemli bir bölümü ise fethi meşrulaştırmak için sipariş edilmişti.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

@@ -1,6 +1,57 @@
 {
   "id": "aktor-memluk-devleti",
   "gecis": 3,
-  "zaman": "2026-08-21T07:26:08.611Z",
-  "itirazlar": []
+  "zaman": "2026-08-29T16:03:50.745Z",
+  "govde_hash": "f637f768c031",
+  "itirazlar": [
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sıra dışı olan, bu sınıfın kendini yeniden üretme biçimidir. Memlükler Mısır toplumunda ayrı bir üst sınıf oluşturdu, ama bu, kaynağın deyişiyle \"tek nesilli bir soyluluk\"tu: memlü",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Zincirin ilk halkası tüccardı. Devlet köle ticaretini cazip kılmak için tâcirleri diğer tüccarların ödediği vergilerden muaf tutmuştu; toplanan köleler önce Fustat ve Bağdat gibi k",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sınıfın iç bağı satın alma anında kurulurdu. Aynı efendinin âzat ettiği memlükler \"huşdaşiye\" adıyla birbirine bağlanır, aralarında sıkı bir dayanışma yürürdü; gruba sonradan katıl",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Memlük sultanlığında saltanatın verasetle geçmesi bir kural olarak kabul edilmedi ve genellikle uygulanmadı; güçlü sultanların önemli bir kısmı muhafız birliklerinde yetişmiş âzatl",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Sınıfın kapalılığından yalnızca bir grup pay alabildi. Memlüklerin oğulları anlamına gelen evlâdü'n-nâs orduda belirli rütbelerin üstüne çıkamıyor, sonraki kuşakları halka karışıp ",
+      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Sınıfın kapalılığından yalnızca bir grup pay alabildi. Memlüklerin oğulları anlamına gelen evlâdü'n-nâs orduda belirli rütbelerin üstüne çıkamıyor, sonraki kuşakları halka karışıp ",
+      "sorun": "Makale islam-dunyasi/afrika kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    },
+    {
+      "ciddiyet": "orta",
+      "tip": "kapsam-carpitmasi",
+      "cumle": "Düzenin çözülmesinde birden çok etken üst üste bindi. Ekonomi 1347 veba salgını yüzünden büyük bir kriz yaşadı.[^k1] Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 mi",
+      "sorun": "Makale islam-dunyasi/afrika kapsamlı ama cümle küresel/evrensel dil kullanıyor.",
+      "oneri": "Kapsamı bölgeye daralt ya da küresel iddia için küresel kaynak göster."
+    }
+  ]
 }

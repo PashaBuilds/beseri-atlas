@@ -40,6 +40,7 @@ ilgili:
   - dusunur-las-casas
   - tartisma-hacli-seferlerinin-nedeni
   - tartisma-tarihsel-sayilar-nasil-okunur
+  - aktor-inka-imparatorlugu
 okuma_onerisi: []
 hakem_yok: true
 pozisyonlar:

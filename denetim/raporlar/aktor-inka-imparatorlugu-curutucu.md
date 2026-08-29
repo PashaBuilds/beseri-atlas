@@ -1,9 +1,9 @@
 # Çürütücü raporu — aktor-inka-imparatorlugu
-_2026-08-21T07:12:52.358Z_
+_2026-08-29T16:09:55.211Z_
 
 ## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
 
-**Cümle:** "Yaygın diller listesi tek bir dile indirgenemez: Keçuva dilleri, Aymara dilleri, Puquina, Mochica, Barbacoan ve daha küçük onlarca dil sayılır.[^k1]"
+**Cümle:** "Listenin en rahatsız edici kalemi insandı. Maden çıkaramayan bazı eyaletler yükümlülüklerini kadın ve oğlan çocuklarıyla ödüyordu; kaynak bunu, tek çocuklu ailelerin muaf tutulduğu"
 
 **Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
 
@@ -11,7 +11,7 @@ _2026-08-21T07:12:52.358Z_
 
 ## İtiraz 2 — [ciddiyet: dusuk] ustunluk-iddiasi
 
-**Cümle:** "Bu liste, imparatorluğun tek bir dil topluluğu üzerine kurulmadığını gösterir; resmî dil, konuşulanların yalnızca biridir.[^k1]"
+**Cümle:** "Dilin durumu da yerleşik anlatıdan farklıdır. Keçuva İnkalarla başlamadı; İnka genişlemesinden önce birçok bölgede ortak dil olarak kullanılıyordu ve o zaman bile tek parça değildi"
 
 **Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
 

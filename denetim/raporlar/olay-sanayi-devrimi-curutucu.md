@@ -1,17 +1,33 @@
 # Çürütücü raporu — olay-sanayi-devrimi
-_2026-08-21T07:29:24.895Z_
+_2026-08-29T16:23:30.070Z_
 
-## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
+## İtiraz 1 — [ciddiyet: orta] tek-kaynakli-nedensellik
 
-**Cümle:** "Üç bölgenin birlikte verilmesi,[^k1] olgunun tek bir ülkeye ait olmadığını gösterir; ancak sıralamada Britanya'nın önce gelmesi, başlangıç noktasına dair bir tercih taşır."
+**Cümle:** "Sayının nereden geldiği de tartışmanın parçasıdır. Deane ve Cole'un 18. yüzyıl endeksi beş bileşeni birleştiriyordu ve büyük bölümü vekil göstergeydi: tarım ile hizmetlerin eğilimi"
 
-**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
+**Sorun:** Nedensellik iddiası tek kaynağa (k2) dayanıyor.
+
+**Öneri:** İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla.
+
+## İtiraz 2 — [ciddiyet: orta] tek-kaynakli-nedensellik
+
+**Cümle:** "Üç yasa bu alanı biçimlendirdi. 1819 tarihli pamuk fabrikaları düzenlemesi asgari çalışma yaşını dokuza, azami süreyi on iki saate bağladı; 1833 düzenlemesi yasaları uygulatmak üze"
+
+**Sorun:** Nedensellik iddiası tek kaynağa (k1) dayanıyor.
+
+**Öneri:** İkinci bağımsız kaynak ekle ya da iddiayı kaynağın söylediğiyle sınırla.
+
+## İtiraz 3 — [ciddiyet: dusuk] ustunluk-iddiasi
+
+**Cümle:** "1833 verileriyle çalışan Tuttle, on üç yaşın altındaki çocukların pamuk, yün, keten ve ipek fabrikalarındaki işgücünün kabaca yüzde 10 ile 20'sini, on üç ile on sekiz yaş arasındak"
+
+**Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
 
 **Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
 
-## İtiraz 2 — [ciddiyet: dusuk] ustunluk-iddiasi
+## İtiraz 4 — [ciddiyet: dusuk] ustunluk-iddiasi
 
-**Cümle:** "Teknolojik yeniliklerin tek tek tarihi, çalışma koşulları, kentleşme ve çevresel sonuçlar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bölümler olarak işler."
+**Cümle:** "Nedeni açıklarken de iki yön ayrışır. Arz yanını savunanlar yoksulluğu ve çalışmanın sıradan insanın hayatındaki geleneksel yerini öne çıkarır: aile geliri buna muhtaçtı ve işçi sı"
 
 **Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
 

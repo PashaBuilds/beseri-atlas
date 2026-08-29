@@ -1,0 +1,753 @@
+{
+  "id": "aktor-memluk-devleti",
+  "govde_hash": "f637f768c031",
+  "commit": "c634195",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Memlûk sözcüğü sözlükte sahip olunan şey demektir ve çoğunlukla Kafkasya'dan ve Orta Asya bozkırlarından satın alınıp Mısır'a getirilip kışlada yetiştirilen, âzat edildikten sonra sultanın hassa birliğine katılan askeri anlatırdı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUK: 'memlûk mâlik olunan şey demektir'; 'genellikle Kafkaslar'dan ve Orta Asya steplerinden ... seçilirdi'; 'Öğrenimini bitiren memlük âzat edildikten sonra askerî teçhizatını alır ve sultanın hassa birliğine katılırdı.'"
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Bu askerler 1250'de Mısır'da iktidarı ele geçirdi; kurdukları düzen 1517'de Osmanlı fethine kadar Mısır, Suriye ve Hicaz'da hüküm sürdü.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER alt basligi: 'Mısır, Suriye ve Hicaz'da hüküm süren müslüman Türk devleti (1250-1517)'; Ridaniye sonrasi 'toprakları Osmanlılar'ın eline geçti'."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Memlükler Mısır toplumunda ayrı bir üst sınıf oluşturdu, ama bu, kaynağın deyişiyle \"tek nesilli bir soyluluk\"tu: memlükün memlük olmasıyla başlıyor, ölümüyle bitiyor, çocuklarına geçmiyordu; çünkü bir memlükün oğlu kölelikten gelmediği için memlük sayılamıyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUK: 'Ancak bu tek nesilli bir soyluluktu; yani memlükün memlük olmasıyla başlayıp ölümüyle sona eriyordu ve çocuklarına intikal etmiyordu. Çünkü bir memlükün oğlu kölelik veya esirlikten gelmediği için memlük olamıyor'."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Devlet köle ticaretini cazip kılmak için tâcirleri diğer tüccarların ödediği vergilerden muaf tutmuştu; toplanan köleler önce Fustat ve Bağdat gibi kentlerdeki pazarlara götürülüyor, sultan için alınanların bedeli beytülmâlden ödeniyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUK: 'köle tâcirleri diğer tâcirlerin tâbi olduğu vergilerden muaftı'; 'Fustat ve Bağdat'taki dârü'r-rakīk denilen pazarlardı'; 'Memlük sultanı için satın alınan kölelerin bedeli beytülmâl tarafından ödenirdi.'"
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Ödenen fiyat bazen kişinin adına yapışırdı: Sultan Kalavun'un taşıdığı \"Elfî\" lakabının 1000 dinara satın alınmış olmasından geldiğini ansiklopedi maddesi 15. yüzyıl tarihçisi İbn Tağrîberdî'nin en-Nücûmü'z-zâhire'sine dayanarak aktarır; rakam çağdaş bir belgeden değil, iki halkalı bir aktarımdan gelir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "TDV MEMLUK: \"Kaynaklar, Sultan Kalavun'un taşıdığı Elfî lakabının kendisine 1000 dinara satın alınması sebebiyle takılmış olduğunu belirtir (İbn Tağrîberdî, en-Nücûmü'z-zâhire, VII, 325).\" Kor hakem: maddenin kendi birincil atfi gizli birakilmisti, gövdeye acikca kondu; aktarim halkasi (madde -> 15. yy kronik) artik gorunuyor."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Satın alınan memlük, Kahire Kalesi'ndeki kışlalarda yer alan ve \"tabaka\" denilen okula yerleştirilir, önce Sünnî esaslara göre din eğitimi alır, ardından bir emîrle konuşmasına bile izin verilmeyen bir disiplin içinde askerî eğitimden geçerdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUK: 'Kahire Kalesi'nin kışlalarında yer alan ve tabaka denilen askerî okula yerleştirilirdi'; 'Sünnî esaslara göre İslâm dini öğretilir, ardından bir emîrle dahi konuşmasına müsaade edilmeyen katı disiplin kuralları içinde askerî bilgiler verilirdi.'"
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Öğrenimi biten memlük âzat edilir, teçhizatını alır ve hassa birliğine katılırdı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUK: 'Öğrenimini bitiren memlük âzat edildikten sonra askerî teçhizatını alır ve sultanın hassa birliğine katılırdı.'"
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Kural kurumsaldı, kişisel değildi: bir sultan öldüğünde ya da tahttan indiğinde eğitimini tamamlamamış olduğu için henüz âzat edilmemiş memlükler beytülmâle geri gönderilir ve yeni sultan onları baştan satın alırdı; maddenin Makrîzî'nin es-Sülûk'una ve İbn İyâs'a dayanarak verdiği ayrıntıya göre bu işlem sırasında kadılar da hazır bulunurdu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUK: \"...tekrar beytülmâle gönderilir ve gelenek gereği yeni sultan onları bir daha satın alırdı (Makrîzî, es-Sülûk, I, 584); bu sırada kadılar da hazır bulunurdu (İbn İyâs, III, 16).\" Kor hakem: maddenin birincil atiflari goruntulendi."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Aynı efendinin âzat ettiği memlükler \"huşdaşiye\" adıyla birbirine bağlanır, aralarında sıkı bir dayanışma yürürdü; gruba sonradan katılana bir süre yabancı gibi davranılırdı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUK: 'Memlükün kölelik ve âzatlık arkadaşlarına huşdaşiye denirdi. Huşdaşlar tam bir dayanışma içindeydi; ... sonradan katılanlara ecnebi denir ve kendilerine bir süre yabancı gibi davranılırdı.'"
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Memlükler daima Türk adları taşırdı ve Türk asıllı olmayanların da Türk adı alması zorunluydu; ad değişikliği çoğunlukla tüccarın köleyi ilk efendisine satışı sırasında yapılırdı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUK: 'Memlükler daima Türk isimleri kullanmışlardır'; 'Türk asıllı olmayanlar da Türk adı almak zorundaydı ve bu isim değişikliği genellikle kölenin tüccar tarafından ilk efendisine satışı sırasında yapılırdı.'"
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Memlük sultanlığında saltanatın verasetle geçmesi bir kural olarak kabul edilmedi ve genellikle uygulanmadı; güçlü sultanların önemli bir kısmı muhafız birliklerinde yetişmiş âzatlı emîrler arasından çıktı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'Memlükler'de saltanatta veraset prensibi bir kural olarak kabul edilmedi ve genellikle uygulanmadı. Güçlü sultanlarının önemli bir kısmı muhafız birliklerinde yetişen âzatlı emîrler arasından çıktı.'"
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Devletin iki dönemi de kışla adlarıyla anılır: Nil nehrine izâfetle Bahriyye denilen ilk birlikler Ravza adasındaki kışlalara yerleştirilmişti; Kalavun'un Kal'atülcebel'in burçlarına yerleştirdiği birlikler ise Burcî adını aldı ve 1382'den sonraki sultanların çoğu bu koldan geldi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'Ravza adasındaki kışlalara yerleştirdiği ... Bahrü'n-nîl'e izâfetle el-Memâlîkü'l-Bahriyye adını alan özel birlikler'; 'Kal'atülcebel'deki kale burçlarına yerleştirerek ... Burçlara nisbetle Burcî olarak adlandırılan bu birlikler'; Burci donemi 1382-1517."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Makrîzî'nin 1253 yılı için verdiği anlatıya göre Sultan Aybek'in Bahrî emîrleri üzerinde ne gücü ne yetkisi ne de buyurma hakkı kalmıştı; emirlerine uymaya kimse tenezzül etmiyor, herkes emîr Aktay'ın konağında toplanıyor ve yönetimin bütünü fiilen onun elinde bulunuyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Quatremere cevirisi, AH 651 (1253) yili: sultanin Bahriler uzerinde 'ni pouvoir, ni autorité, ni droit de commandement ou de répression' kalmadigi; 'Aucun d'eux ne daignait obéir à ses ordres'; herkesin Aktay'in konaginda toplandigi ve Aktay'in 'à la tête de toute l'administration' bulundugu. Cumle Makrizi'nin aktarimidir, cagdas taniklik degildir."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Bu kaydı okurken iki katmanı ayırmak gerekir: Makrîzî anlattığı olaylardan yaklaşık bir buçuk yüzyıl sonra, Burcî yönetimi altında yazıyordu; elimizdeki metin ise Oriental Translation Fund adına basılmış bir Fransızca aktarımdır ve çevirmenin notları dönemin Avrupa şarkiyatçılığının çerçevesini taşır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Metnin baslik sayfasi 'PRINTED FOR THE ORIENTAL TRANSLATION FUND OF GREAT BRITAIN AND IRELAND' ve 'TRADUITE EN FRANÇAIS ... PAR M. QUATREMÈRE' kayitlarini tasir; Makrizi'nin 15. yuzyilda ve Burci yonetimi altinda yazdigi bilgisi metnin kendisinden degil kunye/baglam bilgisinden gelir, bu yuzden destek kismi sayildi."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Kalavun'un oğulları ve torunları tahtı kuşaklar boyunca elde tuttu: oğlu el-Melikü'n-Nâsır Muhammed üç ayrı saltanat sürdü ve onun ardından gelen kırk iki yılda sekiz oğlu ile dört torunu sultanlık yaptı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'Üç defa sultanlık tahtına oturan (1293-1294, 1299-1309, 1310-1341) el-Melikü'n-Nâsır Muhammed'; 'Bahrî Memlükleri'nin sona ermesine kadar geçen kırk iki yıllık sürede sekiz oğlu ve dört torunu sultanlık yaptı.'"
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Van Steenbergen'in 2006 tarihli bir kitap bölümü 1279-1382 arasını ayrı bir dönem sayar ve başlığında ona Kalavunî Sultanlığı adını verir; elimizdeki kayıt bölümün metni değil künyesidir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydi: title [\"The Qalawunid Sultanate, 1279-1382\"], author Jo van Steenbergen, published-print 2006, type book-chapter, container \"Order Out of Chaos\". Kor hakem: \"alandaki calismalar\" cogulu tek bir bolum kunyesine dayaniyordu, tekile cekildi ve kunye-duzeyi acikca beyan edildi."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Çocuk sultanların adı taht listesinde duruyordu, iktidar ise onları tahta çıkaran emîr gruplarındaydı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "TDV MEMLUKLER cocuk sultanlarin tahta cikarilisini ve 'Çocuk sultanlar döneminde devlet üst rütbeli kumandanlar tarafından yönetilirdi' kaydini tasir; 'adi taht listesinde duruyordu' formulasyonu kaynagin degil ozetin kendisidir."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Baybars, Abbâsî ailesinden birini halife ilan ederek hilafeti Kahire'de yeniden kurdu ve böylece hilafetin hâmisi sıfatını üstlendi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'Baybars, Abbâsî ailesinden birini halife ilân ederek Abbâsî hilâfetini Mısır'da yeniden kurdu. Böylece hilâfetin hâmisi sıfatıyla bütün İslâm ülkeleri üzerinde nüfuz sahibi oldu.'"
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Düzenlemenin ayrıntısı, [Abbâsî Hilafeti](/aktor/abbasi-hilafeti/) dosyasındaki makamın ne hâle geldiğini gösterir: maddeye göre halifenin otorite kaynağı sayılması yalnızca biçimseldi, ülke yönetiminde hiçbir yetkisi yoktu, uygulamada sultanın maiyetinde bir memur konumundaydı ve her yeni sultana menşur vermek, onun emirlerine uymak zorundaydı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: \"Fakat halifenin otorite kaynağı kabul edilmesi tamamen şeklî olup onun ülke yönetiminde herhangi bir yetkisi yoktu. Uygulamada sultanın maiyetinde bir memur durumunda olan halife her yeni sultana menşur vermek ve onun emirlerine uymak zorundaydı.\" Kor hakem: curutucunun yuksek siddetli \"kesinlik-dili\" itirazi karsilandi; \"tamamen sekli\" artik maddenin nitelemesi olarak tirnak icinde ve atifli veriliyor."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "İktâ arazileri yirmi dört parçaya ayrılmıştı: dört parça sultana, on parça emîrlere, on parça da ecnâdü'l-halka denilen süvari birliğine ayrılırdı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'iktâ arazileri yirmi dört parçaya ayrılmış, dört parçası sultana, on parçası emîrlere, on parçası da ecnâdü'l-halkaya tahsis edilmişti.'"
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Bu bölüşüm iktâ sahiplerini sultana bağlı tutuyor, bölgelerinde asayişi sağlamalarını ve gerektiğinde askerî hizmeti yerine getirmelerini güvenceye alıyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'Bu uygulama, iktâ sahiplerinin sultana bağlı kalmaları ve bölgelerinde asayişi temin etmeleri yanında gerektiği zaman askerî hizmeti yerine getirmelerini sağlıyordu.'"
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Toprak imtiyazlı askerî sınıfın mülkiyetindeydi ve iktisadi hayata bu sınıf hâkimdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'Toprak imtiyazlı askerî sınıfın mülkiyetindeydi ve iktisadî hayata da onlar hâkimdi.'"
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Ordu kütükleri, Mısır ve Suriye askerleri için iki ayrı şubesi bulunan Dîvân-ı Ceyş'te emîrlerin adlarına göre düzenlenip saklanırdı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'Emîrlerin isimlerine göre düzenlenen kütükler Mısır ve Suriye askerlerine ait iki şubesi bulunan Dîvân-ı Ceyş'te muhafaza edilirdi.'"
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Devlet yazışmalarını yürüten Dîvân-ı İnşâ aynı zamanda istihbarat ve posta işlerini de görürdü; bu göreve üslûbu güzel edipler seçilirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'devlet yazışmalarını yürüten Dîvân-ı İnşâ kâtibüssır başkanlığında çalışır, bu göreve ulemâ sınıfına mensup, üslûbu güzel edipler seçilirdi. Devletin istihbarat ve posta işleri de aynı divan tarafından yürütülürdü.'"
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Adlî yapıda Baybars, Eyyûbîler'den devraldığı tek başkadılık yerine dört Sünnî mezhepten birer kādılkudât tayin etti; devlet memurları ve sultan aleyhine açılan davalar ise haftada iki gün toplanan mezâlim mahkemesinde görülürdü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'Eyyûbîler'de Şâfiî mezhebinden olan bir kādılkudât görev yaparken Baybars dört Sünnî mezhepten birer kādılkudât tayin etti'; 'mezâlim mahkemesi haftada iki gün dârüladlde toplanırdı ... devlet memurları ve sultan aleyhinde açılan davalara bakılırdı.'"
+    },
+    {
+      "iddia_id": "i52",
+      "cumle": "Kaynağın değerlendirmesine göre Memlük ekonomisinin en önemli gelir kaynağı ülkeler arası ticaretti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "TDV MEMLUKLER: \"Memlük ekonomisinin en önemli gelir kaynağı ülkeler arası ticaretti.\" Kor hakem: curutucunun \"en buyuk gelir\" ustunluk itirazi, nitelemenin kaynagin kendi degerlendirmesi oldugu beyan edilerek karsilandi."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Moğol istilası sırasında Doğu ile Batı arasında güvenli tek yol olarak Kızıldeniz ve Mısır üzerinden geçen hat kaldığı için Memlük yöneticileri dış ticareti geliştirmeye yöneldi; büyük kentlerde yabancı tüccarlar için hanlar ve temsilcilik büroları kuruldu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'Moğol istilâsı sırasında Doğu-Batı arasındaki ticarette tek emniyetli yol olarak Kızıldeniz ve Mısır üzerinden geçip deniz yoluyla Avrupa'ya ulaşan ticaret yolu kalmıştı'; 'yabancı tüccarlar için hanlar, oteller, temsilcilik büroları kuruldu.'"
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Toplum müslümanlar, hıristiyanlar ve yahudilerden oluşuyordu; müslümanlar ise yönetici askerî sınıf ile halk kesimi olarak ikiye ayrılıyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'Müslümanlar, hıristiyanlar ve yahudilerden meydana gelen Memlük toplumunda çoğunluğu oluşturan müslümanlar statü bakımından yönetici askerî sınıf ve halk kesimi olarak ikiye ayrılıyordu.'"
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Nüfusun çoğunluğunu, timarlı askerlerin topraklarında çalışan ve genelde maddî sıkıntı içindeki çiftçiler, küçük tâcirler, sanatkârlar ve göçebe Araplar oluşturuyordu; bu kesim son dönemde büyük ölçüde yoksullaştı ve çoğunlukla çobanlıkla geçinen göçebeler sık sık isyana kalkıştı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'Ülkede nüfusun çoğunluğunu genelde maddî sıkıntı içinde olan ve timarlı askerlerin topraklarında çalışan çiftçiler, küçük tâcirler, sanatkârlar, küçük esnaf ve göçebe Araplar teşkil ederdi. Bu kesim bilhassa son zamanlarda büyük ölçüde yoksullaştı. Ekseriyeti çobanlıkla geçinen göçebeler bu yüzden sık sık isyanlara teşebbüs ettiler.'"
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Âlimler halk ile askerî sınıf arasında aracılık ederdi.",
+      "onem": "renk",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'Âlimler halk tabakası ile yönetici asker sınıfı arasında bir aracı rolü oynar, sosyal hayatta önemli bir fonksiyon icra ederlerdi.'"
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Memlüklerin oğulları anlamına gelen evlâdü'n-nâs orduda belirli rütbelerin üstüne çıkamıyor, sonraki kuşakları halka karışıp sivilleşiyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'Memlük ordusunda sultan ve subay çocuklarının teşkil ettiği, evlâdü'n-nâs diye isimlendirilen bir ihtiyat grubu daha vardı. Belirli rütbelerin üstüne çıkamayan evlâdü'n-nâsın daha sonra gelen nesilleri halka karışıp sivilleşti.'"
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Çerkes sultanlığı üzerine yapılan bir çalışma, evlâdü'n-nâsı askerî sınıf dışında kalıp memlük dünyasına erişimi olan tek grup olarak tanımlar ve bu dünyanın oraya ait olmayan herkese kapalı olduğunu vurgular.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Semantic Scholar kaydindaki ozet: 'The awlād al-nās ... were the only group outside the military class in the Circassian Sultanate that had access to the Mamluk world, otherwise closed to all who did not belong to it.' Makalenin tam metni okunmadigi icin destek ozet duzeyinde kismi sayildi."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Kadınlar çarşılara çıkabiliyor, ilim tahsili için mescidlere devam edebiliyordu ve aralarından hadis alanında çok sayıda âlim yetişti.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "TDV MEMLUKLER: 'Çarşılara çıkan ve ilim tahsili için mescidlere devam edebilen kadınlar Memlük toplumunda saygı görüyordu'; 'Bu dönemde çok sayıda kadın hadisçi de yetişmiştir.' Kaynagin 'saygi goruyordu' degerlendirmesi cumleye tasinmadi, yalniz olgu kismi alindi."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Tahtta bir kadının oturması ise başka meseleydi: Şecerüddür, tahta çıkmasını sağlayan Bahrî emîrlerinin tavsiyesine uyarak İzzeddin Aybek'le evlendi ve seksen gün oturduğu tahtı ona devretti; kaynak sultanlığının kadın olması dolayısıyla yadırgandığını da kaydeder.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: \"Ayrıca onun sultanlığı kadın olması dolayısıyla da yadırganmıştı. ... tahta çıkmasını sağlayan Bahrî emîrlerinin tavsiyesine uyan Şecerüddür, İzzeddin Aybek'le evlendi ve seksen gün oturduğu tahtını ona devretti.\" Kor hakem: devir mekanizmasinin halkasi (evlilik) kirpilmisti, geri konuldu."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Gayrimüslimler divanlarda, bilhassa muhasebe işlerinde görevlendirilirdi ve vakıf kurabiliyorlardı; kaynak bunu tam bir inanç özgürlüğü çerçevesinde aktarır, ancak bu niteleme kaynağın kendi değerlendirmesidir ve dönemin gayrimüslimlere dönük vergi ve kılık düzenlemeleriyle birlikte tartılması gerekir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "dusuk",
+      "inceleme": "TDV MEMLUKLER: 'Yahudiler ve hıristiyanlar tam bir inanç özgürlüğüne sahipti'; 'Divanlarda bilhassa muhasebe işlerinde gayri müslimler de görevlendirilirdi'; 'Eğitim ve öğretim kurumlarına sahip olan gayri müslimler vakıflar kurabiliyordu.' Cumledeki cekince (nitelemenin kaynagin kendi degerlendirmesi olusu, vergi ve kilik duzenlemeleriyle tartilmasi gerektigi) kaynakta yoktur; bu yuzden destek kismi ve guven dusuk. Hakem, donemin gayrimuslim duzenlemelerine dair ayri bir kaynak aramali."
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Dönemin tarihçileri bu devleti Türk Devleti olarak adlandırmıştı ve Devletü'l-Etrâk adı da kullanılıyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'dönemin tarihçilerinin Türk Devleti olarak adlandırdığı Memlükler'. TDV MEMLUK: 'Kurdukları devlete Memlükler'in yanı sıra Devletü Türk veya Devletü'l-Etrâk de deniliyordu.'"
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Adlandırmanın dayanağı etnik değil onomastik ve dilseldir: memlükler Türk adları taşıyor ve Türkçe konuşuyordu, ama Türk asıllı olmayanların da Türk adı alması zorunluydu, yani ad ırkî kökenin göstergesi değildi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUK: 'Memlüklerin ırken Türk menşeli olup olmamasının Türk ismi taşımalarına etkisi yoktu; Türk asıllı olmayanlar da Türk adı almak zorundaydı'; 'Çeşitli kavimlere mensup olan ve Türk adları taşıyan memlüklerin konuştukları dil de Türkçe idi; dolayısıyla Türk veya Etrâk diye çağrılıyorlardı.'"
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Van Steenbergen'in 2021 tarihli çalışmasının başlığı şudur: \"Nomen Est Omen: David Ayalon, the Mamluk Sultanate, and the Reign of the Turks\".",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref kaydi: title 'Nomen Est Omen: David Ayalon, the Mamluk Sultanate, and the Reign of the Turks', author Jo Van Steenbergen, issued 2021-11-30, container 'Egypt and Syria under Mamluk Rule', publisher BRILL. Kayitta ozet alani yoktur; iddia baslik-duzeyinde birakildi."
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Kutuz, 1260'ta Filistin'deki Aynicâlût mevkiinde Moğol ordusunu yendi ve Suriye'nin büyük kısmı Memlüklerin eline geçti; kaynak bu savaşı \"tarihin akışını değiştiren savaşlardan\" sayar.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'Filistin'deki Aynicâlût mevkiine kadar geldi. Burada Moğollar'a karşı, tarihin akışını değiştiren savaşlardan sayılan Aynicâlût Savaşı'nı kazandı (25 Ramazan 658 / 3 Eylül 1260) ve Suriye'nin büyük kısmı Memlükler'in eline geçti.' Kaynagin nitelemesi ona atfedilerek aktarildi."
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Ama tek savaşla biten bir mesele değildi: Memlük devleti ile İran merkezli İlhanlılar arasındaki savaş, alandaki başlıca incelemenin özetine göre 1260'tan 1323'e kadar altmış yıl sürdü ve büyük muharebelerin arasında sınır çatışmaları, diplomatik manevralar ve casuslukla yürütüldü.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref kaydindaki ozet: 'For sixty years, from 1260 to 1323, the Mamluk state in Egypt and Syria was at war with the Ilkhanid Mongols based in Persia'; 'the Mamluk-Ilkhanid struggle was continued in the manner of a cold war with both sides involved in border skirmishes, diplomatic manoeuvres, and espionage.' Kitabin tam metni okunmadi; destek ozet duzeyinde kismi."
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "Ekonomi 1347 veba salgını yüzünden büyük bir kriz yaşadı.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'Memlük ekonomisi 748 (1347) yılındaki veba salgını yüzünden büyük bir kriz yaşadı.'"
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "Uzun dönemli seride dünya nüfusu 1300 yılında yaklaşık 456,2 milyon, 1400 yılında yaklaşık 442,3 milyondur.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "OWID uzun donem serisi: World,OWID_WRL,1300,,456248096 ve World,OWID_WRL,1400,,442309216. Seri dunya toplamidir; Misir ve Suriye icin ayri olcum icermez, bu sinir cumlenin devaminda soylendi."
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Sıkıntı 15. yüzyıl başında Timur'un Suriye'yi tahrip etmesiyle derinleşti; ağır vergiler iç ve dış ticareti vurdu ve Ümitburnu yolunun açılmasının ardından Mısır ile Suriye'nin dış ticareti çöktü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'Ekonomik sıkıntılar, XV. yüzyılın başında Suriye'yi bir harabeye çeviren Timur işgaliyle iyice şiddetlendi. Ağır vergiler iç ve dış ticaret için büyük bir darbe oldu'; 'Ümitburnu'nun keşfiyle sonuçlanınca Mısır ve Suriye'nin dış ticareti bütünüyle çöktü.'"
+    },
+    {
+      "iddia_id": "i43",
+      "cumle": "Memlükler barutu kuruluş yıllarından beri biliyorlardı ve kaynağa göre muhtemelen topu ilk kullanan devletti; yeni ateşli silahlardan geniş çapta yararlanmaları ise ancak 15. yüzyılın sonlarında oldu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "TDV MEMLUKLER: \"Kuruluş yıllarından itibaren barutu bilmelerine ve muhtemelen topu ilk kullanan devlet olmalarına rağmen yeni ateşli silâhlardan geniş çapta ancak XV. yüzyılın sonlarında faydalanmaya başladılar.\" Kor hakem: ustunluk iddiasi kaynagin agzina verildi."
+    },
+    {
+      "iddia_id": "i44",
+      "cumle": "Kansu Gavri bu konuda bir reform denedi, fakat ateşli silahları kullanacak birlikleri birinci sınıf sayılan memlüklerden değil, evlâdü'n-nâs ile siyahî kölelerden kurdu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: 'Bu konuda bir reform teşebbüsünde bulunan Kansu Gavri dahi bu silâhları kullanmak üzere oluşturduğu birlikleri, birinci sınıf askerler olan memlükler yerine bir nevi ihtiyat askeri olan evlâdü'n-nâs ve siyahî kölelerden teşkil etmişti.'"
+    },
+    {
+      "iddia_id": "i45",
+      "cumle": "Topu ilk kullanma önceliği kaynağın kendi ihtiyat kaydını taşır: madde bunu bir tarihe, bir kayda ya da bir araştırmacıya bağlamaz, dolayısıyla ölçülmüş bir öncelik değil kaynağın tahminidir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kor hakem bulgusu: onceki cumle kaynaga OLMAYAN bir degerlendirme (\"baruttan baska toplumlardan yuzyillar once yararlanildigi\", \"tek bir arastirmaciya dayandirilir\") atfediyordu; TDV maddesinin ilgili pasaji tam metin uzerinde tarandi, boyle bir ifade de bir arastirmaci atfi da YOK. Cumle, maddenin fiilen tasidigi tek ihtiyat olan \"muhtemelen\" kaydina indirildi."
+    },
+    {
+      "iddia_id": "i46",
+      "cumle": "Osmanlı topçusunun kaynağa göre önemli rol oynadığı Mercidâbık'ta 1516'da Memlük ordusu ağır bir yenilgi aldı; Ridâniye 1517'de Osmanlı zaferiyle bitti ve son sultan Tomanbay yakalanıp Bâbüzüveyle'de idam edildi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: \"Osmanlı topçusunun önemli rol oynadığı Mercidâbık Savaşı'nda Memlük ordusunu ağır bir hezimete uğrattı (24 Ağustos 1516)\"; \"İki gün süren Ridâniye Savaşı Osmanlılar'ın kesin zaferiyle sonuçlandı (23 Ocak 1517)\"; \"Tomanbay nihayet yakalanıp Bâbüzüveyle'de asılarak idam edildi.\" Kor hakem: govde \"belirleyici rol\" yaziyordu, kaynak \"onemli rol\" diyor; kaynagin gucune indirildi."
+    },
+    {
+      "iddia_id": "i47",
+      "cumle": "Tomanbay, Avrupa'dan aldığı 200 civarında büyük topu Osmanlı ordusunun geleceğini düşündüğü yöne yerleştirmişti; ordu yandan ve geriden saldırınca toplar kullanılamadı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "TDV MEMLUKLER: 'Avrupa'dan almış olduğu 200 civarındaki büyük topu Osmanlı ordusunun geleceği istikamete yönelik olarak yerleştirdi. Ancak ... Mukattam dağını dolaşıp yandan ve geriden saldıran Yavuz Sultan Selim karşısında topları kullanamadı.' Kaynagin 'civarinda' ihtiyati korundu."
+    },
+    {
+      "iddia_id": "i48",
+      "cumle": "Toprakların [Osmanlı İmparatorluğu](/aktor/osmanli-imparatorlugu/) eline geçmesi memlük beylerinin ortadan kalkması demek değildi: nüfuzları 1811'de Kavalalı Mehmed Ali Paşa'nın önde gelen beyleri tasfiye etmesine kadar sürdü.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUK: 'yıkılıştan sonra da 1811 yılında Kavalalı Mehmed Ali Paşa'nın önde gelen beylerini ortadan kaldırmasına kadar nüfuzlarını korudular.'"
+    },
+    {
+      "iddia_id": "i49",
+      "cumle": "Biri devleti Moğolları durduran ve Haçlı varlığına son veren kurtarıcı güç olarak okur; öteki, sultanların suikastla devrildiği bir istikrarsızlık tarihi görür; ikinci okumanın en sık anılan dayanağı, Hoşkadem'in 1467'deki ölümünün ardından tahtın dört ay içinde dört defa el değiştirmesidir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "TDV MEMLUKLER: \"Hoşkadem'in ölümünün ardından taht dört ay içinde dört defa el değiştirdi. Emîr Yelbay ve halefi Temürboğa bu makamda yaklaşık ikişer ay oturabilmişken üçüncüleri Hayır Bey ... ancak bir gece kalabildi.\" Hoskadem 1461-1467. Kor hakem: sayi dogru ama govdede donemin genel niteligi gibi okunuyordu, 1467 olayina baglandi."
+    },
+    {
+      "iddia_id": "i50",
+      "cumle": "İkisi de aynı kaynaklardan çıkarılabilir, çünkü Memlük tarihçiliği bu dönemde olağanüstü üretkendi: Makrîzî ve onun yolunu izleyen İbn Tağrîberdî, Sehâvî ve İbn İyâs Mısır'ın siyasi, içtimai ve iktisadi durumunu ayrıntısıyla yazdı; dönemin ansiklopediler çağı diye anılmasını sağlayanlar ise Nüveyrî, İbn Fazlullah el-Ömerî ve Kalkaşendî'nin ansiklopedileridir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV MEMLUKLER: \"Mahallî tarih çalışmalarında Makrîzî ve onun yolunu takip eden İbn Tağrîberdî, Sehâvî ve İbn İyâs eserlerinde Mısır'ın siyasî, içtimaî ve iktisadî durumunu geniş bir şekilde anlatmışlardır\"; \"Nüveyrî, İbn Fazlullah el-Ömerî ve Kalkaşendî ansiklopedileriyle Memlükler döneminin ansiklopediler çağı olarak tanınmasını sağlamışlardır.\" Kor hakem: govde iki ayri grubu birlestirip ansiklopediler cagi nitelemesini yanlis dort isme baglamisti; duzeltildi."
+    },
+    {
+      "iddia_id": "i51",
+      "cumle": "Metropolitan Museum koleksiyonundaki bir çift minber kanadı, kayıtta 1325-30 dolaylarına tarihlenir ve Kahire'ye atfedilir; gül ağacı ile dut ağacından oyulmuş; fildişi, abanoz ve başka ağaçlarla kakılmıştır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Met API 444812: title \"Pair of Minbar Doors\", objectDate \"ca. 1325-30\", geographyType \"Attributed to\", city \"Cairo\", country \"Egypt\", medium \"Wood (rosewood and mulberry); carved and inlaid with carved ivory, ebony, and other woods\". Kor hakem: \"and other woods\" kirpilmisti, geri konuldu. Ayrica: gövdedeki \"sultanlarin ortalama saltanat suresi birkac ayla olculur\" cumlesi kaynaksiz ve yanlisti (1250-1517 arasi ~50 sultan; ortalama yillarla olculur) — \"kimi sultanin tahtta kalisi aylarla olculurken\" seklinde duzeltildi."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 45,
+    "kismi": 7,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "gerekce": "2 iddia cumlesi govdedeki karsiligina oturtuldu (dipnot imzasi + benzerlik esigi ile)"
+    }
+  ]
+}

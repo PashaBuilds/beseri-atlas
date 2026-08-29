@@ -1,15 +1,63 @@
 ## olay-sanayi-devrimi
-_Geçiş 2 — kaynak denetimi · 2026-08-29T14:39:47.017Z_
+_Geçiş 2 — kaynak denetimi · 2026-08-29T16:23:58.183Z_
 
-- [OK]      k1 → "Kaynak bu olguyu bir olay olarak değil bir kayma olarak tanımlar: yaklaşık 1760-1840 arasında tarımsal çağdan …"
-- [ATOMSUZ] k1 → "Adı "devrim" olan bir olgunun kendi tanımında "kayma" kelimesinin geçmesi, sürenin uzunluğuyla ilgilidir: seks…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k1 → "Kaynak konumu Büyük Britanya, Batı Avrupa ve Kuzey Amerika olarak verir; anahtar olay olarak mekanikleşmiş dok…" — 3 atom doğrulandı; 1 ad ölçülemedi
-- [OK]      k1 → "Üç bölgenin birlikte verilmesi, olgunun tek bir ülkeye ait olmadığını gösterir; ancak sıralamada Britanya'nın …"
-- [ATOMSUZ] k1 → "Kaynak, olguyu proto-sanayileşme ve İkinci Sanayi Devrimi ile birlikte konumlandırır." — programatik olarak ölçülemedi (ad karşılığı yok): İkinci, Sanayi, Devrimi
-- [OK]      k1 → "Bir sürecin hem öncesine hem sonrasına ayrı ad verilmesi, 1760-1840 aralığının bir başlangıç değil bir orta ev…"
-- [ATOMSUZ] k2 → "yüzyıldaki yeniliği olmasa sürecekti." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [ATOMSUZ] k2 → "Aynı teknik geçişin çok daha erken ve başka bir kıtada gerçekleşmiş olması, "neden burada ve neden o zaman" so…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
-- [OK]      k3 → "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 1848'de yaklaşık 1,27 milyardır."
-- [ATOMSUZ] k1 → "Teknolojik yeniliklerin tek tek tarihi, çalışma koşulları, kentleşme ve çevresel sonuçlar burada ayrı başlıkla…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k8 → "Kullanılan seride Ada'nın kömür üretimi 1760 için yılda 46 teravatsaatlik enerjiye denk düşer; aynı seri 1840 …" — 4 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k8 → "1760 değeri bu yüzden ölçüm değil ara değerdir; güvenilebilecek olan büyüklük mertebesidir, ondalık değil."
+- [OK]      k7 → "Kişi başına düşen üretim ise çok daha ölçülü arttı: aynı veri kümesinde kişi başına gelir 1760'ta 2915, 1840't…"
+- [OK]      k2 → "Cole imzalı ve 1962'de yayımlanıp 1967'de gözden geçirilen kitaptır; değerlendirme yazarı onu bir kuşağın teme…"
+- [ATOMSUZ] k2 → "Sanayi devrimi bu tahminlerde yok olmadı, gecikerek de olsa ayakta kaldı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k2 → "Knick Harley, Nick Crafts ile yürüttükleri çalışmanın Deane ve Cole'un 1840 öncesi büyüme resmini esaslı biçim…"
+- [OK]      k2 → "Kitabın kendi sektör tahminleri zaten toplam seriyle çelişiyordu: 1770-1800 arasında tekstil üretimi üçte bir …"
+- [OK]      k2 → "Sermaye birikimi de 1770-1840 arasında yedi on yıla yayılan kademeli bir hızlanma gösteriyordu; asıl kopuş pam…"
+- [OK]      k2 → "Deane ve Cole'un 18. yüzyıl endeksi beş bileşeni birleştiriyordu ve büyük bölümü vekil göstergeydi: tarım ile …"
+- [ATOMSUZ] k2 → "Değerlendirme yazarına göre büyümeyi nüfusla ve ticaretle açıklamak bu yüzden dairesel bir akıl yürütmeye tehl…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k7 → "Britanya'da kişi başına gelir seksen yılda üçte birden biraz fazla artarken aynı veri kümesinde Çin'de bu değe…" — 7 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k5 → "1833 temmuzunda Lord Althorp, önündeki tasarının seçilmiş bir komiteye gönderilmesini ve komiteye üç talimat v…"
+- [ATOMSUZ] k5 → "Komisyonun hazırladığı hacimli rapor, oylama yapıldığı sırada üyelerin eline henüz ulaşmamıştı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "İtirazının merkezinde kızlar vardı; yasanın kapsadığı çocukların büyük bölümü kızdı ve koruma tam da en çok ge…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Althorp ise yetişkinin kendi zamanının efendisi olduğunu, korumanın yalnızca gerçek anlamda çocuk olanlara uyg…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k5 → "Oylama Althorp'un değişikliğini 141'e karşı 104 oyla kabul etti."
+- [OK]      k6 → "1847 mayısında Fielden tasarının üçüncü okumasını önerdiğinde Trelawny yasanın üç yılla sınırlanmasını istedi …"
+- [OK]      k6 → "Yünlü sanayisinden Stansfield, fabrikalarda 650.000 kişinin çalıştığını ve yılda 12 milyon sterlin ücret aldığ…"
+- [OK]      k6 → "Tasarı üçüncü okumayı 151'e karşı 88 oyla geçti."
+- [OK]      k6 → "Labouchere yetişkinin çalışma süresine karışmaya itiraz ediyor, ama aynı konuşmada fabrikadan çıkarılan çocukl…"
+- [OK]      k1 → "1819 tarihli pamuk fabrikaları düzenlemesi asgari çalışma yaşını dokuza, azami süreyi on iki saate bağladı; 18…"
+- [ATOMSUZ] k1 → "Cezaların düşük, denetimin gevşek kalması yüzünden bu yasaların işverene ya da aileye bindirdiği örtük yük, ço…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Kırdaki ilk tekstil fabrikalarının 1769'da kurulmasıyla birlikte çocuk emeği ifadesinin anlamı değişti; bu fab…"
+- [OK]      k1 → "Kaynağın ihtiyatlı saydığı bir tahmine göre 1784 dolayında kır fabrikalarındaki işçilerin üçte biri çıraktı; b…"
+- [OK]      k1 → "1819 tarihli bir parlamento raporundan hesaplanan oranlara göre pamuk işçilerinin yalnızca yüzde 4,5'i on yaşı…"
+- [ATOMSUZ] k1 → "Kaynak ikisini çocuk emeğinin bölgesel bir olgu oluşuyla uzlaştırır: imalat bölgelerinde yoğun, kırda seyrek." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Ülke ölçeğinde ise 1841 sayımında yirmi yaş altı oğlanların en yaygın üç işi tarım işçiliği (196.640), ev hizm…"
+- [OK]      k1 → "1833 verileriyle çalışan Tuttle, on üç yaşın altındaki çocukların pamuk, yün, keten ve ipek fabrikalarındaki i…"
+- [OK]      k1 → "Madenlerde pay daha yüksekti: 1842'de kömür madenlerinin yeraltı işgücünün üçte biri on sekiz yaşın altındaydı…"
+- [OK]      k1 → "Çocukların işini soran ilk güvenilir nüfus sayımı 1841'dir; bu tarihten öncesi için tarladaki, evdeki ve fabri…"
+- [OK]      k1 → "Kötümserler — Alfred, Engels, Marx, Webb çifti — çocukların sanayiciler eliyle sömürüldüğünü savundu; iyimserl…"
+- [OK]      k1 → "Ivy Pinchbeck ise çalışma saatlerinin ve koşullarının eski ev sanayilerinde de en az fabrikadaki kadar kötü ol…"
+- [ATOMSUZ] k1 → "Arz yanını savunanlar yoksulluğu ve çalışmanın sıradan insanın hayatındaki geleneksel yerini öne çıkarır: aile…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k1 → "Talep yanını savunanlar ise fabrikatörün ucuz, itaatkâr ve sendikalaşması olası olmayan bir işgücü aradığını, …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k1 → "Madencilikte düşüş kesintisizdir; aynı yıllarda yüzde 13'ten sırasıyla 12, 10 ve 6'ya iner."
+- [OK]      k1 → "Düşüşü kimi araştırmacı babanın ekmek kazandığı, annenin ev kadını olduğu aile modelinin işçi sınıfına yayılma…"
+- [OK]      k12 → "Guy'ın Kayıt Genel Müdürlüğü raporlarından derlediği tabloyu okudu: milyon kişide yıllık ölüm kırda 19.300, ke…" — 1 atom doğrulandı; 3 ad ölçülemedi
+- [OK]      k12 → "Bin kişideki ölüm Liverpool'da 35, Manchester'da 32, Halifax ile Kidderminster'da 21'di."
+- [OK]      k12 → "Farkı yoksullukla açıklamanın önünde bir engel vardı: Morpeth'in Lord Ebrington'ın Plymouth dersinden aktardığ…"
+- [ATOMSUZ] k12 → "Konuşmacının çekincesi de kayıtlıdır: aralık çeyreğinin daha ağır tablosunu, gıda arzındaki azalma ile ücretle…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k10 → "Robert Allen'ın yanıtı fiyatlara dayanır ve kendi kaleminden şöyle özetlenir: Britanya'da ücretler sermaye fiy…" — 2 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k3 → "Bölümün geri kalanı Allen'ın kitabından değil, kitabı değerlendiren Avner Offer'ın aktarımından okunuyor: serm…"
+- [ATOMSUZ] k3 → "Allen ikisini de sonraki büyümenin gerekli koşulu sayar." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Sermayenin neden Asya'ya taşınıp ucuz emeği oracıkta çalıştırmadığını açıklarken emeğin fiyatı kadar niteliğin…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [ATOMSUZ] k3 → "Offer bu çerçeveye toprağı geri koymayı önerir; ona göre fosil yakıt yalnızca ucuz enerji değil, kas gücünü bi…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k3 → "Sorunun neden böyle kurulduğu kaynağın çerçevesinde açıktır: 18. yüzyıla kadar Çin ile Hindistan dünya imalatı…" — 2 atom doğrulandı; 1 ad ölçülemedi
+- [OK]      k9 → "Bu konum burada kendi metinlerinden değil, kendilerine karşı çıkan Stephen Broadberry ile Bishnupriya Gupta'nı…"
+- [ATOMSUZ] k9 → "Onlara göre fark parasal değil üretkenlik kaynaklıydı ve büyük ayrışma çoktan başlamıştı." — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [OK]      k11 → "Nicholas Crafts kendi çalışmasını özetlerken buharın üretkenlik artışına etkisini, sermaye derinleşmesi hesaba…"
+- [OK]      k4 → "Katkının ancak 1840'lardan itibaren belirginleştiği ifadesi ise Crafts'ın kendi metninden değil, onu von Tunze…"
+- [OK]      k4 → "1624 tarihli Tekeller Yasası'nın kurduğu düzeni sanayileşmenin temel itici gücü sayan anlatıya karşı Christine…" — 3 atom doğrulandı; 2 ad ölçülemedi
+- [OK]      k4 → "Petra Moser'in sayımına göre 1851 Kristal Saray sergisinde gösterilen 6.377 Britanya buluşunun yalnızca yüzde …" — 5 atom doğrulandı; 2 ad ölçülemedi
+- [ATOMSUZ] k4 → "Britanya patent sisteminin yüksek harçları ve hantal işlemleri düşünüldüğünde, buluş sahiplerinin önemli bir b…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k11 → "Bugünün iktisat tarihi adı terk etmez; ama vaat ettiği ani kopuşu ölçümde bulamadığı için tartışmayı ne zaman …" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k7 → "Kömür üretiminin eğrisi ile kişi başına gelirin eğrisi aynı yıllarda çok farklı hızlarda yükselir; fabrikadaki…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k8 → "Kömür üretiminin eğrisi ile kişi başına gelirin eğrisi aynı yıllarda çok farklı hızlarda yükselir; fabrikadaki…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k5 → "Kömür üretiminin eğrisi ile kişi başına gelirin eğrisi aynı yıllarda çok farklı hızlarda yükselir; fabrikadaki…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
+- [ATOMSUZ] k12 → "Kömür üretiminin eğrisi ile kişi başına gelirin eğrisi aynı yıllarda çok farklı hızlarda yükselir; fabrikadaki…" — denetlenebilir atom yok (yorum/bağlantı cümlesi)
 
-**Özet:** 5 OK · 0 ISARET · 0 HATA · 5 ATOMSUZ
+**Özet:** 39 OK · 0 ISARET · 0 HATA · 19 ATOMSUZ

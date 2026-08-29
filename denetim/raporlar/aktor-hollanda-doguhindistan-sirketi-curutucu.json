@@ -1,13 +1,42 @@
 {
   "id": "aktor-hollanda-doguhindistan-sirketi",
   "gecis": 3,
-  "zaman": "2026-08-21T07:00:50.307Z",
+  "zaman": "2026-08-29T16:13:23.627Z",
+  "govde_hash": "a98fe96cc786",
   "itirazlar": [
     {
       "ciddiyet": "dusuk",
       "tip": "ustunluk-iddiasi",
-      "cumle": "Kaynağın ön-şirketleri 1594-1602 arasına yerleştirmesi[^k1] 1602'nin bir kuruluş değil bir birleşme olduğunu gösterir: birbiriyle rekabet eden şirketler tek bir yapıda toplanmıştır",
-      "sorun": "\"tek\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "cumle": "Asya'ya giden ilk Hollanda seferleri şirketin kendisinden önce geldi ve birbiriyle yarışan tüccarların fiyatları bozmasına yol açtı; devleti birleşmeye zorlayan da bu istikrarsızlı",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Asya'ya girişin ilk anahtarı gemi değil bilgiydi. Portekizliler Afrika çevresindeki rotayı sıkı biçimde koruyordu; Hollandalıların kendi seferlerini düzenleyebilmesi, Goa piskoposu",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "yuksek",
+      "tip": "kesinlik-dili",
+      "cumle": "Arşivin sessizlikleri de kayıtlıdır. Lahey'deki envanter, 1700 öncesine ait mali evrakın, gemi jurnallerinin, mürettebat listelerinin ve Avrupa içi yazışmanın tamamen ya da büyük ö",
+      "sorun": "Kesinlik ifadesi \"tamamen\" atıf çerçevesi olmadan kullanılmış.",
+      "oneri": "İddiayı kaynağa atfet (\"X'e göre\") ya da ifadeyi kaynağın gücüne indir."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Arşivin sessizlikleri de kayıtlıdır. Lahey'deki envanter, 1700 öncesine ait mali evrakın, gemi jurnallerinin, mürettebat listelerinin ve Avrupa içi yazışmanın tamamen ya da büyük ö",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
+      "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
+    },
+    {
+      "ciddiyet": "dusuk",
+      "tip": "ustunluk-iddiasi",
+      "cumle": "Şirket sık sık dünyanın ilk çokuluslu şirketi sayılır; kaynaklar bu nitelemeyi de temkinli bir \"bazen\" ile verir.[^k1] Nitelemenin sorunu, bugünkü şirket kavramını geriye taşımasıd",
+      "sorun": "\"ilk\" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.",
       "oneri": "Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır."
     }
   ]

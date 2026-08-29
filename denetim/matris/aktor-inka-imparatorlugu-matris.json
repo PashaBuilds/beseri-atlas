@@ -1,0 +1,953 @@
+{
+  "id": "aktor-inka-imparatorlugu",
+  "govde_hash": "8d64a8fe28bd",
+  "commit": "d0eeece",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "İnka düzenini Avrasya'da uygarlığın ölçütü sayılan özelliklerden ayıran şeylerin bir bölümü yokluklardır: tekerlek, yük çeken hayvan, demir ve çelik, yazı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: imparatorluk \"forming a state comparable to the historical empires of Eurasia\" ve \"lacked many of the features associated with civilization in the Old World\"; McEwan'dan aktarilan dize \"without the use of the wheel, draft animals, knowledge of iron or steel, or even a system of writing\". Karsilastirma cercevesi kaynagin kendi cercevesidir; onceki surumdeki cercevesiz \"cagdaslarindan ayiran\" ifadesi hakem tarafindan kaynagin kapsamina cekildi. Kaynagin \"unique\" nitelemesi metne tasinmadi."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Buna karşılık And dağlarının sırtı boyunca imparatorluğun her köşesine uzanan bir yol ağı, ince dokunmuş kumaşlar, düğümlü iplerle tutulan bir kayıt düzeni ve zorlu bir çevrede yüksek verim veren bir tarım vardı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: monumental architecture, extensive road network (Qhapaq Nan), finely-woven textiles, knotted strings for record keeping, agricultural innovations."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Düzen büyük ölçüde parasız ve pazarsız işliyordu; alışverişin yerini karşılıklılık alıyor, vergi denen yükümlülük mal olarak değil emek olarak ödeniyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"functioned largely without money and without markets ... exchange ... based on reciprocity\"; \"Taxes consisted of a labour obligation of a person to the Empire\"."
+    },
+    {
+      "iddia_id": "i03b",
+      "cumle": "Kural imparatorluğun tamamında aynı işlemiyordu: karşılıklılık geleneğinin yerleşmediği kuzey kıyısında balta biçiminde madenî parçalar dolaşımdaydı ve bazı bölgelerde takas sürüyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"While axe-monies were used along the northern coast, where the custom of reciprocity was not in place ... most households in the empire lived in a traditional economy ... though barter (or trueque) was present in some areas.\" Kaynagin kendi cekincesi onceki surumde yoktu; hakem ekledi."
+    },
+    {
+      "iddia_id": "i04b",
+      "cumle": "Düzenin kendi yazı sistemi yoktu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"without the use of the wheel, draft animals, knowledge of iron or steel, or even a system of writing\". Curutucunun \"tek-kaynakli-nedensellik\" itirazini karsilamak icin nedensellik iki onermeye ayrildi; oncul k1'e, sonuc k3'e baglandi."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Bu yüzden hakkındaki erken yazılı kayıtların hemen tamamı onu yıkanların kaleminden çıkmıştır; bunların en az biri, fethi haklı çıkarmak üzere özellikle sipariş edilmiştir.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k3 (Markham'in 1907 onsozu) yalnizca ikinci onermeyi tasir: \"Sarmiento's book was written ... with an object ... Under his instructions Sarmiento stated the Viceroy's argument\". Birinci onermenin dayanagi olan yazisizlik ayri bir iddiaya (i04b) ve k1'e baglandi; boylece nedensellik tek kaynaga yaslanmaktan cikti. Genelleme (\"hemen tamami\") kaynagin soylediginden genis oldugu icin destek kismi birakildi."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Düzenin kendi adı Tawantinsuyu, yani dört parçalı ülkeydi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak kutusu: \"Realm of the Four Parts / Tawantinsuyu (Quechua)\"."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Merkezî yönetimin çevresinde Chinchaysuyu, Antisuyu, Kuntisuyu ve Qullasuyu diye adlandırılan dört taşra yönetimi duruyordu; bu düzenlemenin Pachacuti'nin Cusco krallığını yeniden örgütlemesiyle kurulduğu aktarılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"Pachacuti reorganised the kingdom of Cusco into the Tahuantinsuyu ... Chinchaysuyu (NW), Antisuyu (NE), Kuntisuyu (SW), and Qullasuyu (SE)\"."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Bugün kullanılan İnka İmparatorluğu adı ise düzenin kendi adı değildir; on altıncı yüzyıl vakayinamelerinden gelir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"The name Inca Empire originated from the Chronicles of the 16th century\"."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Keçuvada inka sözcüğü de yalnızca hükümdarı karşılamaz, soylu tabakanın tamamına uzanır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: inka terimi \"does not simply refer to the king ... but also to the Inca nobles\"."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Wari, Cusco bölgesini yaklaşık dört yüz yıl elinde tuttu ve İnkalara mal edilen başarıların bir bölümü — binlerce kilometrelik yollar, taş işçiliğiyle kurulmuş büyük idari merkezler, teraslanmış yamaçlar — daha eski ve çok etnili And düzenlerine borçlu olabilir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak: \"The Wari occupied the Cuzco area for about 400 years\" ve \"To those earlier civilizations MAY BE OWED some of the accomplishments cited for the Inca Empire\". Kaynagin \"may be owed\" cekincesi metne \"borclu olabilir\" olarak tasindi."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Yükümlülüğün adı mit'a idi ve para değil emek istiyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"tributes, usually in the form of the mit'a corvee labor\"."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Cieza de León'un Cusco'da derlediği anlatıya göre yük eyalet eyalet farklılaşıyordu: madeni olan yerler gümüş ve altın veriyor, olmayanlar mısır, kurutulmuş chuño, kinoa yükleri, dokuma manto ve gömlek, mızrak ve sapan yükleri, büyük taşları çekmeye yarayan halatlar, koka ya da Cusco'daki yapı işlerinde çalışacak işçi gönderiyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cieza, Bolum XVIII: gumus ve altin, misir, chunus, quinna, cloth mantles, shirts, lances, slings, cables to move the great stones, coca, Cuzco'daki yapi isleri icin isci."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Maden çıkaramayan bazı eyaletler yükümlülüklerini kadın ve oğlan çocuklarıyla ödüyordu; kaynak bunu, tek çocuklu ailelerin muaf tutulduğunu ve alımın hoşnutsuzluk yaratmadığını söyleyerek yumuşatır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cieza: \"the people paid taxes in smaller things, and in women and boys, who were taken from the villages without causing any discontent. For if a man had an only child it was not taken\". Kaynagin yumusatici ifadesi metinde kaynaga atfedilerek verildi."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Böyle bir çekince, anlatının kimden geldiğini hatırlatır: Cieza'ya bilgi verenler Cusco'nun orejones denen soylularıydı, yani fetihten sonra konumunu yitirmiş ve kendi dönemini İspanyol yönetimiyle karşılaştırarak anlatan bir tabaka.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cieza'nin \"The Orejones who gave me information at Cuzco\" ifadesi dogrudan; bilgi verenlerin fetihten sonra konum yitirmis bir tabaka oldugu degerlendirmesi kaynakta yoktur, yorumdur."
+    },
+    {
+      "iddia_id": "i12b",
+      "cumle": "Eyaletlerin verdiği kadınlar hükümdarın hizmetiyle Güneş tapınakları arasında bölüştürülüyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak (Cieza, bol. XVIII sonu): \"The women contributed by the provinces were divided between the service of the kings, and that of the temples of the Sun.\" Vergi olarak alinan insanlarin nereye gittigi onceki surumde bos birakilmisti."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Her eyalette sefer için erzak ve donanım tutan depolar vardı; savaş yoksa bu birikim yoksullara ve dul kadınlara dağıtılıyor, kıtlık yılında depolar açılıyor, bolluk gelince yeniden dolduruluyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cieza, Bolum XIX: her eyalette depolar; savas yoksa \"all the great store of provisions was divided amongst the poor and the widows\"; kitlik yilinda depolar aciliyor, bolluk yilinda acik kapatiliyor."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Yoksul sayılanlar çalışamayacak kadar yaşlı, sakat ya da hasta olanlardı; sağlıklı ve çalışabilir olan hiçbir şey almıyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cieza: \"The poor consisted of those who were too old to work, or who were maimed, lame, or infirm; but those who were well and able to work received nothing\"."
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Kayıt, khipu denen düğümlü iplerle tutuluyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozeti: \"Khipu are sets of knotted strings used by the pre-Colombian Inkan Empire for record keeping\". Ustveri/ozet duzeyinde oldugu icin destek kismi."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "İplikler pamuktan ya da lama ve alpaka yününden eğriliyor, üç ayrı düğüm türü katmanlı kümeler hâlinde diziliyordu; sayı düzeni ondalıktı ve yazının yokluğunda imparatorluğu yöneten araç buydu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Ayni ozet: pamuk ya da lama/alpaka lifi, \"three types of knots organized in complex arrangements of tiered clusters\", ondalik sayi duzeni, \"The Inka did not possess writing\". Ozet duzeyi."
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Guamán Poma'nın çizimlerinden biri khipu tutucusunu doğrudan sarayın yazmanı ve muhasebecisi olarak gösterir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kopenhag kopyasi s. 360 altyazisi: \"the Inka's secretary and accountant who records the dispositions of the royal lords\"."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Her eyalet yöneticisinin yanında quipucamayo denen muhasebeciler bulunuyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cieza: \"Each ruler of a province was provided with accountants who were called quipucamayos\"."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Düğümler birden ona, ondan yüze, yüzden bine sayıyor, bir ipte birler, ötekinde onlar duruyordu; bölgeye düşen gümüş, altın, kumaş ve sürü yükümlülüğü, odun gibi en küçük kalemlere kadar bu iplerle tutuluyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cieza: \"they counted from one to ten, and from ten to a hundred, and from a hundred to a thousand. On one of the ropes are the units, on another the tens\"; kalemler: silver, gold, cloth, flocks, \"down to fire-wood\"."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Aynı düzen nüfus sayımını da taşıyordu: her yıl sonunda her eyaletteki ölümler ve doğumlar düğümlere işleniyor, ipler yılbaşında Cusco'ya götürülüyor ve imparatorluk ölçeğinde bir hesap çıkarılıyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cieza, Bolum XIX: her eyalet yil sonunda olum ve dogumlari quipuslara isliyor, ipler yilbasinda Cuzco'ya goturuluyor."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Xauxa eyaletindeki Marcavillca'da yerel bey Guacarapora'dan sistemi göstermesini istedi; adam khipuları getirtti ve Pizarro'nun vadiye gelişinden bu yana İspanyollara teslim ettiği altın, gümüş, kumaş, tahıl ve hayvanın dökümünü okudu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cieza: Marcavillca (Xauxa), \"the lord Guacarapora\"; khipular getiriliyor ve Pizarro'nun vadiye gelisinden beri Ispanyollara verilenlerin dokumu okunuyor."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "\"Bu sayma sistemine kuşkuyla bakıyordum\" diye açar bölümü ve gördükten sonra şaşırdığını yazar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cieza: \"I was incredulous respecting this system of counting\" ve gordukten sonra \"I was quite astonished\". Tek tirnakli alinti; kaynak basina bir siniri korunuyor."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Kaydın canlılığı fetihten sonra da sürdü: İspanyol birliklerinin geçtiği vadilerde uğranılan zarar khipularla ölçülüyor, yük eyaletler arasında eşitleniyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cieza: Ispanyol ordularinin gectigi eyaletlerde zarar quipularla olculuyor ve \"the burden was shared equally by all\". Yazarin kendi tanikligi; bagimsiz kayitla capraz sinanmadi."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Ama iplerin okunma bilgisi kayboldu; khipuların hemen tamamı kullanımdan düştü, zamanla çürüdü ya da İspanyollarca yok edildi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"knowledge of how to read them was lost as almost all fell into disuse and disintegrated over time or were destroyed by the Spaniards\". Onceki surumde failin (Ispanyollar) dusurulmus olmasi hakem tarafindan geri konuldu."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Sonucu bugün hâlâ ödenmektedir: düzen kendi nüfusunu düzenli olarak sayıyordu, ama sayımın taşıyıcısı okunamaz hâle geldiği için doruk nüfus bilinmiyor.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Sayimin varligi k2'den, okuma bilgisinin kaybi k1'den dogrudan gelir; ikisini nedensel olarak baglayan cumle yorumdur."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Tahminler 4 milyonla 37 milyon arasında değişir; çoğunluğu 6 ile 14 milyon aralığında toplanır.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"estimates ranging from 4 to 37 million. Most population estimates are in the range of 6 to 14 million\". Eski govdedeki tek deger (12 milyon) bu aralikla degistirildi."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "İmparatorluğun iki ucu arasındaki mesafe, bir haberin insan hızıyla taşınmasını yönetim açısından işe yaramaz kılacak kadar uzundu.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cieza mesafeyi ve haberin gec kalmasi sorununu boyle gerekcelendirir; cumle onun gerekcesinin ozetidir."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Çözüm, kraliyet yolları boyunca yarım fersahta bir kurulan küçük evlerdi; her evde komşu köylerin dönüşümlü olarak yerleştirdiği iki koşucu erzakla birlikte bekliyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cieza, Bolum XXI: \"from half-league to half-league ... small houses\"; her evde komsu koylerin yerlestirdigi iki yerli, donusumlu olarak."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Koşucu bir sonraki eve yaklaşırken haberi bağırarak aktarıyor, kendisi dinlenmeye giriyor, öteki hemen yola çıkıyordu; böylece 300, 500, hatta 800 fersah ötede olup biten kısa sürede biliniyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cieza: \"in a short time they knew, at a distance of 300 leagues, 500, and even 800, what had passed\". Sayilar yazarin beyanidir, olcum degil."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Cieza bu düzeni atlı ulakla karşılaştırır ve yaya menzilin daha hızlı olduğunu söyler; koşucuların taşıdıkları haberi ne yalvarmayla ne tehditle ele verdiklerini de ekler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cieza yaya menzili atli/katirli ulakla karsilastirir ve daha hizli bulur; kosucularin \"neither entreaty nor menace\" ile haberi ele vermedigini yazar. Ovgu tonu yazara aittir."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Mitimaes, bir ülkeden başkasına nakledilenlerin adıydı ve kaynak üç ayrı türünü sayar.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cieza, Bolum XXII: \"Mitimaes is the name of those who are transported from one land to another\"; \"there were three classes of them\"."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Yeni fethedilen bir eyaletten belli sayıda insan, iklimi ve koşulları kendi ülkelerine benzeyen başka bir bölgeye gönderiliyor — soğuktan soğuğa, sıcaktan sıcağa — orada geride bıraktıklarına denk toprak ve ev veriliyordu; aynı anda uzun süredir itaat eden bir bölgeden aynı sayıda yerleşimci yeni fethedilmiş eyalete yollanıyordu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cieza: fethedilen halktan bir bolumu ayni iklimli baska bir ulkeye; ayni anda uzun suredir itaat eden bir bolgeden esit sayida yerlesimci yeni eyalete."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Sürgünün gönüllü görünmesi için nakledilenlere altın ve gümüş bilezikler, kadınlara kumaş ve tüyden giysiler verilirdi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cieza: \"gave bracelets of gold and silver to many of them, and clothes of cloth and feathers to the women\"."
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "Yerleşimcilerin arasında casuslar vardı; yerlilerin konuşmalarını ve tasarılarını valilere bildiriyor, bilgi gecikmeden Cusco'ya gidiyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cieza: \"Among the colonists there were spies, who took note of the conversations and schemes of the natives\" ve bilgi gecikmeden Cuzco'ya gonderiliyor."
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "Kaynak sonucu açıkça söyler: yerliler mitimaesten korkuyor, mitimaes yerlilerden kuşkulanıyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cieza: \"the natives feared the mitimaes, while the mitimaes suspected the natives\"."
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "Aynı kaynak, İnkalar arasında ölçüsüz ve büyük bir zulümle cezalandıranların bulunduğunu da not eder.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cieza: \"Among the Incas there were some who were revengeful, and who punished without moderation and with great cruelty\". Kaynagin ovgu tonunu dengeleyen kendi cekincesi metne tasindi."
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "İkinci tür mitimaes, Andların doğu yamaçlarındaki orman sınırında kaptanlar altında garnizon kuranlardı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cieza: ikinci sinif mitimaes, Andlarin dogusundaki ormanlarda kaptanlar altinda garnizon kuranlardir."
+    },
+    {
+      "iddia_id": "i39b",
+      "cumle": "Üçüncüsü kaynağın kendisine daha da tuhaf görünür: fetih sırasında iklimi elverişli, toprağı verimli ama boş kalmış bir bölge bulunduğunda, benzer iklimli komşu bir eyaletten oraya yetecek kadar yerleşimci getiriliyor, toprak aralarında bölüştürülüyor, sürü ve erzak veriliyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak (Cieza, bol. XXII): \"The other manner of stationing mitimaes was more strange ... where a district appeared to be suitable for cultivation, with a good climate and fertile soil, which was still desert and uninhabited, orders were at once given that as many colonists as would be sufficient to people it should be brought from a neighbouring province with a similar climate. The land was then divided amongst them, and they were provided with flocks and all the provisions they needed.\" Kaynagin ucuncu turu onceki surumde hic yoktu; hakem geri koydu."
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Nakledilenlere yüklenen işlerden biri de doğrudan ekolojikti: soğuk olduğu için mısır, koka ve meyve yetişmeyen bölgelerin ihtiyacını karşılamak üzere mitimaes Andların ormanlarına ekim yapmaya gönderiliyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak (Cieza, bol. XXII): \"Orders were also given that mitimaes should go into the forests of the Andes to sow maize and to cultivate coca and fruit-trees. In this way the people of the regions where it was too cold to grow these things were supplied with them.\" Bu is birinci turun hizmetleri arasinda sayilir; onceki surum bunu \"ucuncu tur\" diye sunup kaynagin gercek ucuncu turunu atliyordu. Duzeltildi ve gercek ucuncu tur i39b olarak eklendi."
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "Murra'nın dikey takımada dediği model, birbirini tamamlayan farklı yükseklik kuşaklarının tek bir toplulukça birlikte kullanılmasını, bu kullanımın And toplulukları arasındaki değişen tarihsel ilişkilerle ve devlet oluşumuyla bağını anlatır; model bugün de alan çalışmalarında sınanmaktadır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Crossref ozeti: \"John V. Murra's theory of the vertical archipelago - a dynamic model of the changing historical relations between Andean societies, the complementary ecologies they inhabit, and emergent State-formations\". Ustveri/ozet duzeyi."
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "Sayılarının 15.000 ile 40.000 arasında olduğu, yönettikleri nüfusun ise 10 milyon dolayında bulunduğu tahmin edilir.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak: soylularin sayisi \"probably numbering only 15,000 to 40,000, but ruling a population of around 10 million people\". Kaynagin \"probably\" cekincesi metinde \"tahmin edilir\" ile karsilandi."
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Resmî eğitim bu dar halkanın dışına kapalıydı: merkezî soyluluğun ve kuraka denen yerel beylerin belli katmanlarının çocuklarıyla sınırlıydı, onlar da Cusco'daki yachaywasi'de amautalardan ders alıyorlardı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"Access to formal education in Incan society was limited to children of the central nobility and certain levels of the curacal (hatun curaca). They attended the yachaywasi (house of knowledge) in Cusco to learn from the amautas\". Onceki surum hem kuraka katmanini dusuruyor hem de cumleyi anlami tersine cevirecek bicimde kuruyordu (\"bu dar halkaya kapaliydi\"); ikisi de duzeltildi."
+    },
+    {
+      "iddia_id": "i43",
+      "cumle": "Miras hem anne hem baba tarafından geçiyor, akrabalık paralel bir çizgi izliyor, bir kadın toprağa ve sürüye annesi üzerinden erişebiliyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: miras hem anne hem baba tarafindan; \"Kinship ... followed a parallel line of descent\"; kadin toprak ve varliga annesi uzerinden erisiyor."
+    },
+    {
+      "iddia_id": "i44",
+      "cumle": "Tarlada çalışan kadınları gören İspanyollar bunu kölelik sandılar; kendi toplumlarında kadınlar aynı ölçüde çalışmıyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak: \"Onlooking Spaniards believed women were treated like slaves, because women did not work in Spanish society to the same extent\". Ispanyol algisi olarak aktarildi."
+    },
+    {
+      "iddia_id": "i45",
+      "cumle": "Keçuva İnkalarla başlamadı; İnka genişlemesinden önce birçok bölgede ortak dil olarak kullanılıyordu ve o zaman bile tek parça değildi.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"Quechua did not originate with the Incas, had been a lingua franca in multiple areas before the Inca expansions, was diverse before the rise of the Incas\". Eski govdedeki \"resmi dil\" vurgusunu duzeltir."
+    },
+    {
+      "iddia_id": "i46",
+      "cumle": "İnka beyleri onu imparatorluk dili olarak yaydılar, ama topluluklar kendi dillerini de büyük ölçüde korudular.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: Inka beyleri Kecuvayi ortak dil olarak yaydi; topluluklar \"largely retained their native languages as well\"."
+    },
+    {
+      "iddia_id": "i47",
+      "cumle": "Cieza kuralın nasıl uygulandığını anlatır: Cusco'da konuşulan dili öğrenmek ağır ceza tehdidiyle zorunlu kılınmıştı ve çocuğa daha memeden kesilir kesilmez öğretilmeye başlanıyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cieza, Bolum XXIV: Cuzco dilini bilmek \"on pain of serious punishment\" zorunlu kilindi; cocuga memeden kesilir kesilmez ogretilmeye baslaniyordu."
+    },
+    {
+      "iddia_id": "i48",
+      "cumle": "Sömürge kaydının niyetini en açık gösteren metin, 1572'de tamamlanan bir kitaptır.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Metin 1572 tarihlidir; Gottingen elyazmasi ve Hakluyt Society baskisi bu tarihi tasir."
+    },
+    {
+      "iddia_id": "i49",
+      "cumle": "Pedro Sarmiento de Gamboa'nın İnka tarihi, Peru genel valisi Francisco de Toledo'nun buyruğuyla yazıldı; Sarmiento krala sunduğu mektupta amacı kendisi söyler: İnkaların meşru hükümdar olduğunu sananları yanılgıdan kurtarmak, kurakaların da toprağın doğal beyleri olmadığını göstermek.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak (Sarmiento'nun Philip II'ye mektubu): \"This will undeceive all those in the world who think that the Incas were legitimate sovereigns, and that the curacas were natural lords of the land\"; \"I was ordered by the Viceroy Don Francisco de Toledo ... to ... write a history of the deeds of the twelve Incas\". Onceki surum listenin kuraka yarisini dusurmustu; geri konuldu."
+    },
+    {
+      "iddia_id": "i50",
+      "cumle": "İnkalar iktidarı fetihle gasp etmiş ve zulümle yönetmiş sayıldığına göre, İspanya kralı Peru'nun asıl meşru hükümdarıdır.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cevirmenin girisi: Toledo'nun savi, Ispanya kralinin Peru'nun mesru hukumdari oldugu, cunku Inkalar iktidari fetihle gasp etmis ve zulum islemistir. Savin kendisi metne sav olarak aktarildi, olgu olarak degil."
+    },
+    {
+      "iddia_id": "i51",
+      "cumle": "Metnin İngilizce çevirisini hazırlayan editör iki şeyi not eder: kitap Las Casas'ın Amerika'daki İspanyol zulmü üzerine yazdıklarına verilmiş bir karşılık olarak kullanılmıştır ve valinin metne kendi eklediği yerler ayırt edilebilecek kadar bariz olduğu için ayraç içine alınmıştır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cevirmenin girisi: kitap Las Casas'a karsi kullanildi; \"the numerous interpolations of the Viceroy himself are so obvious that I have put them in italics within brackets\"."
+    },
+    {
+      "iddia_id": "i52",
+      "cumle": "Felipe Guamán Poma de Ayala'nın krala gönderdiği uzun şikâyetname, yol üzerindeki tanbolara ayrı bir bölüm açar ve İnka düzeninde emek yükümlülüğünün yalnızca hükümdara, yerel beylere ve onların hanımlarına ödendiğini, oysa sömürge yönetiminde herkesin mit'a adı altında talepte bulunduğunu söyler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak (s. 1092): \"en este rreyno no tubieron mitayo ni mitaya ninguna persona, cino el rrey capac apo Ynga y los caciques prencipales y señores príncipes y señoras principalas y no otro nenguno\". Onceki surum \"señoras principalas\" ogesini dusurmustu; geri konuldu."
+    },
+    {
+      "iddia_id": "i53",
+      "cumle": "Yazarın kendi cümlesi doğrudandır: mit'a kılıfıyla yoksul yerlinin elindeki ne varsa alınmaktadır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Guaman Poma s. 1092: \"Con color de la mita, rroba y le quita quanto tiene a los pobres yndios\". Alinti degil, dolayli aktarim olarak verildi."
+    },
+    {
+      "iddia_id": "i54",
+      "cumle": "Sömürge görevlileri İnka mit'a düzenini kendi amaçları için, zaman zaman acımasız biçimde kullandı; her aileden bir kişi altın ve gümüş madenlerinde, en başta Potosí'deki gümüş madeninde çalışmaya zorlandı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"Spanish colonial officials used the Inca mita corvee labor system for colonial aims, sometimes brutally. One member of each family was forced to work in the gold and silver mines, the foremost of which was the titanic silver mine at Potosi\"."
+    },
+    {
+      "iddia_id": "i55",
+      "cumle": "Ölen kişinin yerine ailenin bir başkasını göndermesi gerekiyordu ve ölüm çoğu zaman bir iki yıl içinde geliyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak: \"When a family member died, which would usually happen within a year or two, the family was required to send a replacement\". Kaynagin \"usually\" cekincesi metinde \"cogu zaman\" ile karsilandi."
+    },
+    {
+      "iddia_id": "i56",
+      "cumle": "Yerleşik anlatı düzenin 1533'te bittiğini söyler ve tarih aralıkları çoğu zaman öyle verilir.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Yerlesik anlatinin 1533'e baglandigi degerlendirmesi hakemin kendi gozlemidir; k1 kutusundaki \"1438-1533/1572\" araligi bunu ancak baglam olarak destekler. Sinif: olculemez."
+    },
+    {
+      "iddia_id": "i57",
+      "cumle": "Manco İnka 1536'da kenti geri aldı, İspanyollar kısa süre sonra yeniden ele geçirdi; Manco Vilcabamba dağlarına çekilip küçük bir İnka devleti kurdu ve o devlet otuz altı yıl daha sürdü.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: Manco 1536'da Cuzco'yu geri aliyor, Ispanyollar kenti geri aliyor; Manco Vilcabamba'ya cekilip Neo-Inca State kuruyor, \"he and his successors ruled for another 36 years\"."
+    },
+    {
+      "iddia_id": "i58",
+      "cumle": "Son kale 1572'de düştü; Manco'nun oğlu Tupac Amaru yakalandı ve idam edildi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"In 1572 the last Inca stronghold was conquered and the last ruler, Topa Amaru, Manco's son, was captured and executed\". Eski govdenin 1533 bitisini duzeltir."
+    },
+    {
+      "iddia_id": "i59",
+      "cumle": "Pizarro 1532'de döndüğünde Huayna Capac'ın oğulları Huáscar ile Atahualpa arasındaki taht savaşı sürüyor, yeni alınmış bölgelerde huzursuzluk devam ediyordu.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"When the conquistadors returned to Peru in 1532, a war of succession between the sons of Sapa Inca Huayna Capac, Huascar and Atahualpa, and unrest among newly conquered territories weakened the empire\"."
+    },
+    {
+      "iddia_id": "i60",
+      "cumle": "Kaynağın belki daha da önemli saydığı etken salgındır: çiçek, grip, tifüs ve kızamığın Orta Amerika'dan yayılmış olması muhtemeldir; ilk salgının 1520'lerde geldiği, Huayna Capac'ı, veliaht ilan ettiği oğlu Ninan Cuyochi'yi ve sayısı bilinmeyen ama büyük olması muhtemel bir uyruk kitlesini öldürdüğü ileri sürülür.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak: \"Perhaps more importantly smallpox, influenza, typhus, and measles had potentially spread from Central America. The first epidemic of European disease in the Inca Empire possibly happened in the 1520s, killing Huayna Capac, his designated heir Ninan Cuyochi, and an unknown, probably large, number of other Inca subjects.\" Onceki surum kaynagin \"perhaps\" cekincesini \"ihtimali daha da agir basar\" diye yukseltiyor ve olenlerin kitle kismini dusuruyordu; ikisi de duzeltildi. Ninan Cuyochi adi kaynakta birebir gecer, hayalet ad degildir."
+    },
+    {
+      "iddia_id": "i60b",
+      "cumle": "Yayılmayı büyük olasılıkla İnka yol düzeninin kendi verimliliği kolaylaştırmıştır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"The spread was probably aided by the efficient Inca road system.\" Dosyanin kendi yol bolumuyle salgin bolumu arasindaki mekanizma baglantisi eksikti."
+    },
+    {
+      "iddia_id": "i61",
+      "cumle": "Ne var ki bu iddia tartışmalıdır: Huayna Capac'ın ölümüne ilişkin en erken yazılı anlatılar ölüm nedeni konusunda birbirini tutmaz.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynak: \"This claim has been disputed, with the earliest written accounts of Huayan Capac's death not fully agreeing on the cause\"."
+    },
+    {
+      "iddia_id": "i62",
+      "cumle": "Geriye kalan yazılı anlatının önemli bir bölümü ise fethi meşrulaştırmak için sipariş edilmişti.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k3 tek bir ornektir; \"onemli bir bolumu\" nicelemesi kaynaktan cikmaz. Hakem baska kroniklerin siparis kosullariyla sinamali."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 58,
+    "kismi": 8,
+    "desteksiz": 0,
+    "olculemez": 1
+  }
+}

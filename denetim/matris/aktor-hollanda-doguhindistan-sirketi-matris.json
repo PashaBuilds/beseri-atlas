@@ -1,0 +1,723 @@
+{
+  "id": "aktor-hollanda-doguhindistan-sirketi",
+  "govde_hash": "5c6081a2baa6",
+  "commit": "99160de",
+  "zaman": "2026-08-29",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Kuruluş beratı ona, o güne kadar yalnızca devletlerin kullandığı yetkileri tanıdı: savaş açmak, antlaşma imzalamak, hükümlüleri hapsetmek ve idam etmek, kendi parasını bastırmak, sömürge kurmak.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'quasi-governmental powers, including the ability to wage war, imprison and execute convicts, negotiate treaties, strike its own coins, and establish colonies'."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Aynı berat hisselerin Hollanda Cumhuriyeti'nin herhangi bir yurttaşınca alınıp satılmasına da izin veriyordu; bu ikinci el alışverişin yapıldığı açık hava piyasalarından biri sonradan Amsterdam Borsası oldu.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'Shares ... could be purchased by any citizen of the Dutch Republic and bought and sold in open-air secondary markets, one of which became the Amsterdam Stock Exchange'."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Asya'ya giden ilk Hollanda seferleri şirketin kendisinden önce geldi ve birbiriyle yarışan tüccarların fiyatları bozmasına yol açtı; devleti birleşmeye zorlayan da bu istikrarsızlıktı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2: 'This intense competition among various Dutch merchants had a destabilizing effect on prices driving the government to insist on consolidation in order to avoid commercial ruin.'"
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "1602'de Genel Meclis'ten alınan berat, Asya ticaretinde yirmi bir yıllık bir tekel tanıdı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'Established on 20 March 1602 by the States General of the Netherlands ... granted a 21-year monopoly to carry out trade activities in Asia.'"
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Sermaye yaklaşık 6,5 milyon florindi ve çoğu tüccar olan 1.800'den fazla yatırımcıdan toplanmıştı; yönetim, en büyük hissedarlar arasından seçilen 17 yöneticinin (Heren XVII) elindeydi.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2: 'roughly 6.5 million florins in initial capitalization from over 1,800 investors, most of whom were merchants. Management ... vested in 17 directors (Heren XVII) chosen from among the largest shareholders.'"
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Şirket tek bir merkez değil, altı odanın birliğiydi: Amsterdam, Zeeland, Delft, Rotterdam, Hoorn ve Enkhuizen.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4 envanteri odalari birebir sayar: 'de kamers Zeeland, Delft, Rotterdam, Hoorn en Enkhuizen' + Heren XVII ve kamer Amsterdam."
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Amsterdam odası ile Heren XVII'nin kayıtları birbirine öylesine karışmıştır ki arşivde bugün bile ayrılmış değildir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4: 'Bevat archieven van de Heren XVII en de kamer Amsterdam (onderling sterk vermengd)'."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Aynı yıllarda kurulan mali altyapı bu yapıyı taşıdı: 1609'da Amsterdam'da açılan takas bankasının mevduatı 1611'de bir milyon guldenin altındayken 1700'de on altı milyonu aştı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2: 'the exchange bank founded in Amsterdam in 1609' ve 'deposits increasing from just less than one million guilders in 1611 to over sixteen million by 1700'."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Heren XVII kazancı hissedarların hoşnutsuzluğuna rağmen şirkete geri yatırdı; 1644 dolaylarına kadar temettü ayni olarak, yani mal olarak ödendi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2: 'the company's reluctance to pay cash dividends in first few decades (the company paid dividends in kind until about 1644)'. Kaynagin 'about' cekincesi metne 'dolaylarina kadar' olarak tasindi."
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Uzun vadede şirket yaklaşık iki yüzyıl boyunca sermayenin ortalama yüzde 18'i kadar yıllık temettü dağıttı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'paid annual dividends that averaged about 18% of the capital for almost 200 years'. 'about/almost' cekincesi 'yaklasik/ortalama' ile tasindi."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Bu çoğu zaman Portekizlileri Asya'da savaşarak yerinden etmek, Avrupa'da ise barışı korumaya çalışmak anlamına geliyordu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2: 'This often meant displacing the Portuguese by waging war in Asia, while trying to maintain peaceful relations within Europe.' Kaynagin 'often' kaydi 'cogu zaman' olarak korundu."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Portekizliler Afrika çevresindeki rotayı sıkı biçimde koruyordu; Hollandalıların kendi seferlerini düzenleyebilmesi, Goa piskoposunun hizmetinde bulunmuş Jan Huyghen van Linschoten'in 1596'da yayımlanan seyahatnamesiyle mümkün oldu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k2: 'The Portuguese closely guarded the route around Africa ... Thanks to the travelogue of Jan Huyghen van Linschoten, which was published in 1596 ... Linschoten had been in the service of the Bishop of Goa'."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "1602-1796 arasında şirket Asya ticaretinde çalıştırmak üzere 4.785 gemiyle bir milyona yakın Avrupalıyı yola çıkardı; en yakın rakibi olan [İngiliz Doğu Hindistan Şirketi](/aktor/ingiliz-doguhindistan-sirketi/) 2.690 gemide kaldı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'Between 1602 and 1796, the VOC sent nearly a million Europeans ... on 4,785 ships' ve rakip icin '2,690 ships'."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "1619'da Jayakarta limanı ele geçirildi ve adı Batavia olarak değiştirildi; genel valinin oturduğu bu kent, Asya'daki asıl karar merkezi hâline geldi.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'the VOC established a capital in the port city of Jayakarta in 1619 and changed its name to Batavia'. 'Asya'daki asil karar merkezi' nitelemesi ayni kaynaktaki 'The governor-general effectively became the main administrator of the VOC's activities in Asia' cumlesine dayanir."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "İlk üç genel valinin görev yıllarında (1610-1619) merkez Ambon'daydı; baharat üretim alanlarının ortasında olmasına karşın Asya ticaret yollarına ve Afrika'dan Japonya'ya uzanan öteki faaliyet alanlarına uzak kaldığı için burası yeterli görülmedi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'The VOC headquarters were located in Ambon during the tenures of the first three governors-general (1610-1619) ... it was far from the Asian trade routes and other VOC areas of activity ranging from Africa to India to Japan.'"
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Despot bir genel valinin doğuracağı riski sınırlamak için Hindistan Konseyi (Raad van Indië) kuruldu; buna karşın genel vali, şirketin Asya'daki işlerinin fiilî yöneticisi olmayı sürdürdü ve resmî denetim, farklı odaları temsil eden on yedi hissedarın elinde kaldı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'To advise and control the risk of despotic governors-general, a Council of the Indies (Raad van Indie) was created ... The Heeren XVII, a body of 17 shareholders representing different chambers, continued to officially have overall control.'"
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Banda adaları hindistan cevizi tekelinin kaynağıydı; adalıların tekele direnmesi 1609-1621 arasına yayılan bir fetih dizisi doğurdu ve şirketin cezalandırma seferleri Banda toplumunu neredeyse yok etti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'the Dutch conquest of the Banda Islands, between 1609 and 1621, after the islands resisted the nutmeg monopoly. The Dutch launched punitive expeditions that resulted in the near-destruction of Bandanese society.'"
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Ana ada Lontor 1621'de işgal edildi.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'They invaded the main Bandanese island of Lontor in 1621.'"
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Seferin başında genel vali Jan Pieterszoon Coen vardı; 6 Mayıs 1621 tarihli mektup Banda'daki Nera adasının önünde demirli Nieuw Hollandia gemisinden yazıldı ve altında Coen ile Martinus Sonck'un imzası duruyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3, 6 Mayis 1621 mektubunun imza satiri: 'Int schip Nieuw Hollandia, geanckert leggende by de vlote op de rede voor 't fort Nassouw op 't eylandt Nera, in Banda, adi 6 Mayo anno 1621. U.E. dienstwillige J. P. Coen. Martinus Sonck.' — kor hakem dok.mjs --tam ile dogruladi (~1,53M karakter). Mektup TEK IMZALI DEGILDIR; ikinci imza Martinus Sonck'undur, govde bunu artik soyluyor."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Bu mektup, seferi yönetenlerin kendi kaleminden çıkmış raporudur ve olağanüstü bir cümle taşır: ele geçirilen Lontor halkının \"haer met wil off onwil vant landt\", yani istekleriyle ya da istekleri dışında topraktan gemiye bindirilip Jacatra'ya götürülmesine karar verilmiştir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3, 6 Mayis 1621 mektubu (~1,50M karakter): 'waerover goet vonden, haer met wil off onwil vant landt scheep ... gaen, omme tot Jacatra vervoert te worden'. DIKKAT: OCR metninde bu cumlenin ortasina kenar basligi ('besluit, Banda te ontvolken') karismis ve 'te doen' okunamaz hale gelmistir; bu yuzden govdedeki alinti, birebir geri getirilebilen parcaya ('haer met wil off onwil vant landt') kirpildi, gerisi Turkce anlatildi. Onceki surum kaynakta alt-dize olarak BULUNMAYAN daha uzun bir dize tirnak icinde veriyordu."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "Dragon adlı gemiyle Batavia'ya 789 kişi gönderildi: 287 erkek, 256 kadın, 246 çocuk.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: 'Met het schip den Dragon senden wy na Jacatra 789 zielen, te weten 287 mannen, 256 vrouwen, 246 kinderen.' 287 sayisi getir.mjs'in 400k penceresinin disinda kaldigi icin mekanik katmanda ISARET dondu; --tam ile birebir gecer. KOR HAKEM: denetle.mjs bu satira ISARET dusuyor (287 bulunamadi) — nedeni araç kusuru degil onbellek: getir.mjs metni 400k'da kesiyor, sayi ~1,536M karakterde. dok.mjs --tam ile birebir dogrulandi: 'met het schip den dragon senden wy na jacatra 789 zielen, te weten 287 mannen, 256 vrouwen, 246 kinderen'."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Adanın dağlarında yaklaşık 2.000 kişinin kaldığı, bunların 600 kadarının erkek olduğu, sağladıkları yiyeceğin yetmeyeceği ve kaçakların arasında çıkan kanlı ishalden o güne kadar yaklaşık 150 kişinin öldüğü bildirilir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: 'resteren opt groote eylant van Banda int geberchte ontrent twee duysent zielen, daeronder ongeveerlijck 600 mannen ... 't lant selve can haer niet voeden' ve 'de bloetganck ... ontrent 150 persoonen ... gestorven zijn'. Kaynagin 'ontrent/ongeveerlijck' (yaklasik) kayitlari metne tasindi."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Coen bütün bunları yazdıktan sonra zaferi *kan dökülmeden* kazandıklarını söyler; kendi kayıplarını 5 ölü ve yaklaşık 20 yaralı olarak verir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: 'hebben wy ... de moetwillige, trotse Bandanesen ... sonder bloetstortinge ... overwonnen' ve 'hebben 5 mannen verlooren ende ontrent 20 gequeste gecregen'. Bu bir olgu degil failin beyanidir; metin de beyan olarak verir."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Tutuklanan orangkaya'ların — adaların ileri gelenlerinin — sorgusu işkence altında yapıldı ve mektup önce 45 kişinin tutuklandığını, sonra tutukluların tümünün ölüme mahkûm edildiğini, 44'ünün kılıçla idam edildiğini, ikisinin işkencede öldüğünü, birinin denize atlayıp boğulduğunu yazar; son üç sayı toplandığında tutuklu sayısını aşar, yani kaydın kendisi tutarlı değildir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: '45 Orangkays ... geaprehendeert', 'scherp ondersoeck gedaen zijnde', 'zijn alle de gevangen orangkays ter doot verwesen ende 44 met den swaerde gerecht. Twee hebben haer selven in torture verstiet, ende een isser over boort gesprongen ende verdroncken.' 44+2+1=47 > 45 tutarsizligi kaynagin kendisindedir ve metinde acikca soylenir."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Batavia'ya gönderilenlerin 176'sı ölmüştü, geriye 650 kişi kalmıştı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: 'Van de Bandanesen met den Dragon van Banda na Batavia gesonden zijn 176 overleden. De resterende, wesende 650 persoonen, houden haer stil.'"
+    },
+    {
+      "iddia_id": "i25b",
+      "cumle": "Aynı mektup dağlardaki direnişin sonunu da sayar: Slamma'dan 1.200 kişi gemiye alındı, sonraki taramalarda 476 kişi daha ele geçirildi, yaklaşık 2.500 kişi açlıktan ve sefaletten ya da kılıçla telef oldu ve Coen bütün Banda'dan kaçabilenlerin ancak 300 kadar olduğunu duyduklarını yazar.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3, 16 Kasim 1621 mektubu (~1,537M karakter): \"'t sedert ons vertreck van daer, hebben d'onse becomen 476 persoenen. te vooren hadden wy van slamma gelicht 1200 sielen. ontrent 2500 sijnder soo van honger ende ellende als met den swaerde vergaen. alsnoch hebben niet gehoort, datter van gants banda meer dan ontrent 300 bandanesen ontcomen zijn.\" Kor hakem ekledi: failin kendi topluca verdigi olu sayisi ve kacabilenlerin sayisi govdede hic yoktu; bu, notun 'yumusatma' uyarisina karsi en agir eksikti. denetle.mjs 476'yi 'bulunamadi' diye isaretler; bu da 400k onbellek kesmesidir, dok.mjs --tam ile birebir gorulur."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Coen aynı mektupta Heren XVII'den adaları yeniden şenlendirmek için aile ve *genç kızlar* göndermesini istiyordu.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: 'sent dan met den aldereersten een goede quantiteyt eerlijcke huysgesinnen, mannen, vrouwen, kinderen ende vooral menichte van jonge meyskens'."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Pulau Ai adası Hollandalı hür yerleşimciler arasında paylaştırıldı ve adalarda kalan yaklaşık 1.800 kişilik nüfus artık hür yerleşimciler ile onların köleleştirdiği insanlardan oluşuyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: 'Daerenboven sijn in Banda ontrent 1800 zielen vryelieden ende slaven ... Het eylant Puloay hebben onder de burgerye verdeylt'."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Pulau Run'daki 200 kadar Bandalı erkek için Coen tek bir ifade kullanır: geriye kalanların hepsi onlardır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k3: 'De Bandanesen van Puloron sijn ontrent 200 mannen stercq. Zy zijn d'eenige overgeblevene'."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Fetih öncesi ada nüfusu yaklaşık 15.000 olarak tahmin edilir; kesin sayının bilinmediği kaydıyla, yaklaşık 14.000 kişinin öldürüldüğü, köleleştirildiği ya da başka yere kaçtığı, adalarda yalnızca 1.000 kadar Bandalının kaldığı ve bunların hindistan cevizi bahçelerine zorunlu işçi olarak dağıtıldığı tahmin edilmektedir.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'The total population of the islands was estimated at 15,000 people before the conquest. Although the exact number remains uncertain, it is estimated that around 14,000 people were killed, enslaved or fled elsewhere, with only 1,000 Bandanese surviving in the islands, and were spread throughout the nutmeg groves as forced labourers.' Kaynagin belirsizlik cekincesi metne birebir tasindi."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Colenbrander'in 1919 basımında bu bölüme düşülen *Banda'nın nüfusunu boşaltma kararı* başlığı Coen'in kendi sözü değil, üç yüzyıl sonraki bir editörün özetidir; kararın kendisi ise mektubun içindedir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "k3'te 'Besluit, Banda te ontvolken' ibaresi mektubun kenar basligi olarak durur; kararin kendisi mektup govdesindedir. Basligin Colenbrander'e (1919) ait oldugu, cildin editorlu basim olmasindan cikarilir — kaynak bunu ayrica beyan etmez, bu yuzden destek kismi sayildi."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "1680 dolaylarında ada nüfusunun yaklaşık yüzde 55,6'sı köleleştirilmiş işçilerden oluşuyordu; Batavia için 17. yüzyıl sonuna dair bildirilen oran yüzde 52,4'tür.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6: 'around 1680, approximately 55.6 percent of the Bandanese population was made up of enslaved labourers. A similar figure (52.4 percent) has been reported for late seventeenth-century Batavia'. Kor hakem: onceki surum 52,4'u 'yuzde 52'dir' diye kesinlestirerek yuvarliyordu; kaynagin ondalikli degerleri geri konuldu."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Şirketin kendisi 1687-1688'de yaklaşık 40.000 çalışanının 6.000'ini köleleştirilmiş insanlardan sağlıyordu — ancak bu rakam şirketin köle emeğine bağımlılığını olduğundan az gösterir, çünkü özel kişilere ait köleler de çeşitli yollarla şirket için çalıştırılıyordu.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6: 'In 1687/1688, the VOC itself employed around 6,000 enslaved labourers, out of a total of 40,000 employees. While these figures are by no means insignificant, they underestimate the extent to which the Company relied on slave labour'. Kaynagin eksik-gosterme uyarisi metne tasindi."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Siau adasının halkı daha 1615-1616'da şirket eliyle Banda adalarına sürülmüştü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6: 'as the population of Siau Island experienced when they were forcibly moved to the Banda Islands by the VOC in 1615/1616'."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Yalnızca Avrupa şirketlerinin resmî kayıtlarına dayanan bir sayım, Asya'daki köle ticaretinin ölçeğini önemli ölçüde eksik gösterir: ticaretin büyük bölümü, aralarında Asyalı tüccarların ve şirket çalışanlarının da bulunduğu özel tacirlerin elindeydi ve Atlantik'in aksine burada insanlar küçük gruplar hâlinde, başka \"mal\"larla birlikte de taşınıyordu.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6: 'the intra-Asian slave trade was not only conducted by large European companies, but to a large extent by private traders - including Asian merchants as well as employees of European companies' ve 'A database based exclusively on the extensive official records of European companies would therefore strongly underestimate the scale of the trade in enslaved people'. Kor hakem: 'exclusively' ('yalnizca') ve ozel tacir gerekcesi eksikti, geri konuldu."
+    },
+    {
+      "iddia_id": "i34b",
+      "cumle": "Kaynağa göre Asya'daki köle ticareti ve kölelik uzun süre ihmal edildi, ölçeği küçültüldü ya da Atlantik'tekinden *daha hafif* diye nitelendi; bu anlatı son yıllarda hem eldeki verilerin yeniden değerlendirilmesiyle hem de ihmal edilmiş kaynakların incelenmesiyle giderek sorgulanmaktadır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6: 'While the (European) slave trade and slavery in Asia have long been neglected, downplayed in scale, or characterized as \"less harsh\" than their Atlantic counterparts, this narrative is being challenged increasingly - partly through re-evaluations of existing data, partly through studies of previously neglected source material.' Kor hakem duzeltti: onceki surum bu cumleyi dipnotsuz veriyor ve 'daha hafif' nitelemesini olcum boslugunun URETTIGI bir yanilsama diye nedenselleştiriyordu; kaynak boyle bir neden-sonuc kurmuyor, uc ayri tarih yazimi aliskanligini yan yana sayiyor."
+    },
+    {
+      "iddia_id": "i35",
+      "cumle": "1602-1796 arasında Asya ticaretine gönderdiği Avrupalı sayısı bir milyona yaklaşırken, Avrupa'nın geri kalanı 1500-1795 arasında toplam 882.412 kişi göndermişti; aynı dönemde Asya'dan taşınan mal ve köle 2,5 milyon tonu aştı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'nearly a million Europeans ... 2.5 million tonnes of Asian trade goods and slaves. By contrast, the rest of Europe combined sent 882,412 people from 1500 to 1795.'"
+    },
+    {
+      "iddia_id": "i36",
+      "cumle": "17. yüzyıl boyunca İran, Bengal, Malakka, Siyam, Formoza ile Hindistan'ın Malabar ve Koromandel kıyılarında ticaret merkezleri kuruldu; 1652'de Jan van Riebeeck'in Afrika'nın güney ucunda açtığı ikmal istasyonu sonradan Kap Kolonisi'ne dönüştü.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'trading posts were also established in Persia, Bengal, Malacca, Siam, Formosa ... Malabar and Coromandel coasts' ve 'In 1652, Jan van Riebeeck established a resupply outpost ... This post later became a full-fledged colony, the Cape Colony'."
+    },
+    {
+      "iddia_id": "i37",
+      "cumle": "1620'de Avrupa'da varılan diplomatik anlaşmalar Hollanda ve İngiliz baharat ticaretinde bir işbirliği dönemi açtı; bu dönem, 1623'te Ambon'da on İngiliz Doğu Hindistan Şirketi çalışanının — yanlarındaki Japon ve Portekizli yardımcılarla birlikte — iddia edilen bir komplo yüzünden tutuklanıp işkence görerek idam edildiği Amboyna olayıyla kapandı; İngilizler Banten dışındaki Endonezya faaliyetlerinden sessizce çekildi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'In 1620, diplomatic agreements in Europe ushered in a period of collaboration between the Dutch and English spice trades' ve 'In 1623 on Ambon (Amboina), VOC officials arrested, tortured, and executed ten English East India Company employees along with Japanese and Portuguese auxiliaries for an alleged conspiracy'. Kor hakem: onceki surum yalnizca 'on Ingiliz' yaziyor, kaynagin saydigi Japon ve Portekizli kurbanlari ve 'alleged' cekincesini dusuruyordu."
+    },
+    {
+      "iddia_id": "i38",
+      "cumle": "Şirketin 18. yüzyıldaki gerilemesi ise Asya'daki hacminin düşmesinden değil, rakiplerinin büyümesinden geldi: Asya ticaretindeki payı özellikle İngiliz Doğu Hindistan Şirketi karşısında belirgin biçimde geriledi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'nearly a million Europeans ... 2.5 million tonnes of Asian trade goods and slaves. By contrast, the rest of Europe combined sent 882,412 people from 1500 to 1795.'"
+    },
+    {
+      "iddia_id": "i39",
+      "cumle": "Şirket kendi gemilerinin, yüklerinin ve rakiplerinin sayımını bitmez tükenmez biçimde tuttu; Gommans bu bürokrasiyi \"panoptik\" bir aygıt olarak niteler.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5: 'The Company generated endless statistics of its own ships and cargoes and those of their European and Asian competitors' ve 'the VOC's panoptic bureaucratic apparatus'."
+    },
+    {
+      "iddia_id": "i40",
+      "cumle": "Sonuç, bugün Asya tarihçilerinin kendi ülkelerinin iktisat tarihi için başvurduğu bir kaynak yığınıdır — bazı Güney Hindistan hanedanlarının temel kronolojisi bile ancak VOC belgeleriyle kurulabilmektedir.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5: 'In some cases, even the basic chronology of regional dynasties can only be established with the help of VOC sources, as in the case of the many small South Indian states'."
+    },
+    {
+      "iddia_id": "i41",
+      "cumle": "Aynı yazı, bu raporların çarpıtılmış olduğunu ve yalnızca başka Avrupa ve mümkün olduğunda Asya dillerindeki kaynaklarla birlikte okunması gerektiğini de söyler; mahkeme kayıtlarındaki yerli sesler ancak metne ters yönde bakılarak duyulabilir.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5: 'they are obviously also distorted and as such should always be considered only in combination with additional sources in other European and, when available, Asian languages' ve 'by reading them against the grain ... the voices of the local subaltern ... can be heard'."
+    },
+    {
+      "iddia_id": "i42",
+      "cumle": "Jacob van Leur seksen yıl önce tarihçileri şirketin gemilerinden, kalelerinden ve ticarethanelerinden bakmayı bırakmaya çağırmıştı; çağrının karşılık bulması, son yirmi yılda özellikle Asyalı tarihçilerin katkısıyla oldu ve Tayland sarayından Sri Lanka köylülüğüne uzanan bölgesel çalışmalar bu arşivden çıktı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5: 'Jacob van Leur who eighty years ago ... urged historians of the VOC to abandon the perspective of the company's ships, forts and factories' ve 'regional studies on the Thai court, the peasantry of Sri Lanka'."
+    },
+    {
+      "iddia_id": "i43",
+      "cumle": "Zorla göç, mürettebatın çok etnikli bileşimi ve şirketin kölelik ile köle ticaretindeki payı da aynı dönemde görünür hâle geldi.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k5: 'growing attention for transcultural phenomena: the global ingredients of VOC operations, such as forced migration, the multi-ethnic background of VOC crews and personnel and, of course, the VOC's involvement in slavery and the slave trade'."
+    },
+    {
+      "iddia_id": "i44",
+      "cumle": "Lahey'deki envanter, 1700 öncesine ait mali evrakın, gemi jurnallerinin, mürettebat listelerinin ve Avrupa içi yazışmanın tamamen ya da büyük ölçüde kaybolduğunu yazar; sömürgelerle yapılan yazışmanın bir bölümünün Cakarta'daki ulusal arşivde saklanan belgelerle yeniden kurulabileceğini de ekler.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k4: 'De briefwisseling binnen Europa, scheepsjournalen, financiele stukken voor 1700, monsterrollen en scheepssoldijboeken voor 1700 ... zijn geheel of voor een groot gedeelte verloren gegaan' ve 'Een deel van de briefwisseling met de kolonien zou te reconstrueren zijn m.b.v. de in het Arsip National in Jakarta bewaarde stukken'."
+    },
+    {
+      "iddia_id": "i45",
+      "cumle": "Şirket sık sık dünyanın ilk çokuluslu şirketi sayılır; kaynaklar bu nitelemeyi de temkinli bir \"bazen\" ile verir.",
+      "onem": "merkezi",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'the VOC is sometimes considered to have been the world's first multinational corporation'. Kaynagin 'sometimes' cekincesi metne 'temkinli bir bazen' olarak tasindi."
+    },
+    {
+      "iddia_id": "i46",
+      "cumle": "Karşı adlandırma da vardır ve akademik başvuru raflarına girmiştir: Cambridge Üniversitesi Yayınları'nın 2023 tarihli soykırım tarihi cildinde Frank Dhont'un yazdığı bölümün başlığı \"Genocide in the Spice Islands\", alt başlığı ise \"The Dutch East India Company and the Destruction of the Banda Archipelago Civilisation in 1621\"dir; bölüm kitapta 186-214 sayfaları arasında yer alır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k7 Crossref kaydi: title 'Genocide in the Spice Islands', subtitle 'The Dutch East India Company and the Destruction of the Banda Archipelago Civilisation in 1621', author Frank Dhont, container-title 'The Cambridge World History of Genocide', publisher Cambridge University Press, published-print 2023-05-04, page '186-214'. Yalnizca ustveri; bolumun icerigine dair iddia tasimaz."
+    },
+    {
+      "iddia_id": "i47",
+      "cumle": "Aynı yılların bir başka açık erişim çalışması ise 1621 seferini doğrudan \"genocidal conquest of the Banda Islands\" olarak adlandırır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6: 'beginning with the VOC's genocidal conquest of the Banda Islands in 1621'."
+    },
+    {
+      "iddia_id": "i48",
+      "cumle": "18. yüzyıl sonunda kaçakçılık, yolsuzluk ve büyüyen idari masrafların altında kalan şirket iflas etti ve 1799'da resmen feshedildi; sahip olduğu topraklar ve borcu Batavya Cumhuriyeti hükümetine geçti.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k1: 'Weighed down by smuggling, corruption and growing administrative costs in the late 18th century, the company went bankrupt and was formally dissolved in 1799. Its possessions and debt were taken over by the government of the Dutch Batavian Republic.'"
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 49,
+    "kismi": 1,
+    "desteksiz": 0,
+    "olculemez": 0
+  },
+  "tazeleme": [
+    {
+      "zaman": "2026-08-29",
+      "onceki_hash": "de327737587b",
+      "yeni_hash": "5c6081a2baa6",
+      "gerekce": "govde degisti ama matristeki iddia cumlelerinin tamami birebir duruyor; iddia yuzeyi degismedi"
+    }
+  ]
+}

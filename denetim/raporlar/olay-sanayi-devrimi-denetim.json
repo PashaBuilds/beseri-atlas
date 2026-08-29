@@ -1,67 +1,355 @@
 {
   "id": "olay-sanayi-devrimi",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:47.017Z",
-  "govde_hash": "cc73f88049fa",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T16:23:58.183Z",
+  "govde_hash": "66a9ca0d3fd0",
+  "commit": "99160de",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Kaynak bu olguyu bir olay olarak değil bir kayma olarak tanımlar: yaklaşık 1760-1840 arasında tarımsal çağdan sanayi çağına geçiş.",
+      "anahtar": "k8",
+      "iddia": "Kullanılan seride Ada'nın kömür üretimi 1760 için yılda 46 teravatsaatlik enerjiye denk düşer; aynı seri 1840 için 295, 1870 için 802 teravatsaat verir.",
+      "durum": "OK",
+      "not": "4 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "1760 değeri bu yüzden ölçüm değil ara değerdir; güvenilebilecek olan büyüklük mertebesidir, ondalık değil.",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Adı \"devrim\" olan bir olgunun kendi tanımında \"kayma\" kelimesinin geçmesi, sürenin uzunluğuyla ilgilidir: seksen yıla yayılan bir dönüşüm, bir olayın zaman ölçe",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak konumu Büyük Britanya, Batı Avrupa ve Kuzey Amerika olarak verir; anahtar olay olarak mekanikleşmiş dokuma üretimini sayar.",
-      "durum": "OK",
-      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Üç bölgenin birlikte verilmesi, olgunun tek bir ülkeye ait olmadığını gösterir; ancak sıralamada Britanya'nın önce gelmesi, başlangıç noktasına dair bir tercih ",
-      "durum": "OK",
-      "not": ""
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Kaynak, olguyu proto-sanayileşme ve İkinci Sanayi Devrimi ile birlikte konumlandırır.",
-      "durum": "ATOMSUZ",
-      "not": "programatik olarak ölçülemedi (ad karşılığı yok): İkinci, Sanayi, Devrimi"
-    },
-    {
-      "anahtar": "k1",
-      "iddia": "Bir sürecin hem öncesine hem sonrasına ayrı ad verilmesi, 1760-1840 aralığının bir başlangıç değil bir orta evre olduğunu düşündürür.",
+      "anahtar": "k7",
+      "iddia": "Kişi başına düşen üretim ise çok daha ölçülü arttı: aynı veri kümesinde kişi başına gelir 1760'ta 2915, 1840'ta 4018 uluslararası dolardır.",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "yüzyıldaki yeniliği olmasa sürecekti.",
+      "iddia": "Cole imzalı ve 1962'de yayımlanıp 1967'de gözden geçirilen kitaptır; değerlendirme yazarı onu bir kuşağın temel metni sayar, ama kendilerinin de Clapham'ın izin",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sanayi devrimi bu tahminlerde yok olmadı, gecikerek de olsa ayakta kaldı.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k2",
-      "iddia": "Aynı teknik geçişin çok daha erken ve başka bir kıtada gerçekleşmiş olması, \"neden burada ve neden o zaman\" sorusunu doğurur; soru haritasında ele alınıyor.",
+      "iddia": "Knick Harley, Nick Crafts ile yürüttükleri çalışmanın Deane ve Cole'un 1840 öncesi büyüme resmini esaslı biçimde değiştirdiğini, ama onların 19. yüzyıl ortası c",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Kitabın kendi sektör tahminleri zaten toplam seriyle çelişiyordu: 1770-1800 arasında tekstil üretimi üçte bir artarken imalat endeksi iki katından fazlasına çık",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sermaye birikimi de 1770-1840 arasında yedi on yıla yayılan kademeli bir hızlanma gösteriyordu; asıl kopuş pamuk eğirmede değil demiryolu çağındaydı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Deane ve Cole'un 18. yüzyıl endeksi beş bileşeni birleştiriyordu ve büyük bölümü vekil göstergeydi: tarım ile hizmetlerin eğilimini nüfus tahminleri, ticarete k",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Değerlendirme yazarına göre büyümeyi nüfusla ve ticaretle açıklamak bu yüzden dairesel bir akıl yürütmeye tehlikeli biçimde yaklaşır.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Britanya'da kişi başına gelir seksen yılda üçte birden biraz fazla artarken aynı veri kümesinde Çin'de bu değer 1760'ta 1022, 1840'ta 849 uluslararası dolardır;",
+      "durum": "OK",
+      "not": "7 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "1833 temmuzunda Lord Althorp, önündeki tasarının seçilmiş bir komiteye gönderilmesini ve komiteye üç talimat verilmesini önerdi: on dördüncü yaşına girmemiş hiç",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Komisyonun hazırladığı hacimli rapor, oylama yapıldığı sırada üyelerin eline henüz ulaşmamıştı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "İtirazının merkezinde kızlar vardı; yasanın kapsadığı çocukların büyük bölümü kızdı ve koruma tam da en çok gerektiği yaşta kesiliyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Althorp ise yetişkinin kendi zamanının efendisi olduğunu, korumanın yalnızca gerçek anlamda çocuk olanlara uygulanması gerektiğini savunuyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Oylama Althorp'un değişikliğini 141'e karşı 104 oyla kabul etti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "1847 mayısında Fielden tasarının üçüncü okumasını önerdiğinde Trelawny yasanın üç yılla sınırlanmasını istedi ve tasarıyı bir deney olarak nitelendirdi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Yünlü sanayisinden Stansfield, fabrikalarda 650.000 kişinin çalıştığını ve yılda 12 milyon sterlin ücret aldığını, on iki yerine on saat çalışılırsa bu ücretler",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Tasarı üçüncü okumayı 151'e karşı 88 oyla geçti.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Labouchere yetişkinin çalışma süresine karışmaya itiraz ediyor, ama aynı konuşmada fabrikadan çıkarılan çocukların fitilli kumaş kesme ve toplu iğne yapımı gibi",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1819 tarihli pamuk fabrikaları düzenlemesi asgari çalışma yaşını dokuza, azami süreyi on iki saate bağladı; 1833 düzenlemesi yasaları uygulatmak üzere maaşlı de",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Cezaların düşük, denetimin gevşek kalması yüzünden bu yasaların işverene ya da aileye bindirdiği örtük yük, çocukların ürettiği ücret ve kâra kıyasla küçük kald",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kırdaki ilk tekstil fabrikalarının 1769'da kurulmasıyla birlikte çocuk emeği ifadesinin anlamı değişti; bu fabrikaların ilk işgücü, yetimhanelerden ve düşkünevl",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynağın ihtiyatlı saydığı bir tahmine göre 1784 dolayında kır fabrikalarındaki işçilerin üçte biri çıraktı; bazı fabrikalarda oran yüzde 80-90'a çıkıyordu.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1819 tarihli bir parlamento raporundan hesaplanan oranlara göre pamuk işçilerinin yalnızca yüzde 4,5'i on yaşın altındaydı; buna karşılık yüzde 54,5'i on dokuz ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kaynak ikisini çocuk emeğinin bölgesel bir olgu oluşuyla uzlaştırır: imalat bölgelerinde yoğun, kırda seyrek.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ülke ölçeğinde ise 1841 sayımında yirmi yaş altı oğlanların en yaygın üç işi tarım işçiliği (196.640), ev hizmetçiliği (90.464) ve pamuk imalatıydı (44.833); kı",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "1833 verileriyle çalışan Tuttle, on üç yaşın altındaki çocukların pamuk, yün, keten ve ipek fabrikalarındaki işgücünün kabaca yüzde 10 ile 20'sini, on üç ile on",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Madenlerde pay daha yüksekti: 1842'de kömür madenlerinin yeraltı işgücünün üçte biri on sekiz yaşın altındaydı.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Çocukların işini soran ilk güvenilir nüfus sayımı 1841'dir; bu tarihten öncesi için tarladaki, evdeki ve fabrikadaki çocuk sayısı karşılaştırılamaz.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kötümserler — Alfred, Engels, Marx, Webb çifti — çocukların sanayiciler eliyle sömürüldüğünü savundu; iyimserler, Ure ve Clapham, işin çocuk için hafif olduğunu",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Ivy Pinchbeck ise çalışma saatlerinin ve koşullarının eski ev sanayilerinde de en az fabrikadaki kadar kötü olduğunu gösterdi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Arz yanını savunanlar yoksulluğu ve çalışmanın sıradan insanın hayatındaki geleneksel yerini öne çıkarır: aile geliri buna muhtaçtı ve işçi sınıfının çocukluk t",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Talep yanını savunanlar ise fabrikatörün ucuz, itaatkâr ve sendikalaşması olası olmayan bir işgücü aradığını, makinelerin pek çok işlemi tek adımlık hâle getiri",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Madencilikte düşüş kesintisizdir; aynı yıllarda yüzde 13'ten sırasıyla 12, 10 ve 6'ya iner.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Düşüşü kimi araştırmacı babanın ekmek kazandığı, annenin ev kadını olduğu aile modelinin işçi sınıfına yayılmasına, kimi yaşam standardının yükselmesine, kimi a",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Guy'ın Kayıt Genel Müdürlüğü raporlarından derlediği tabloyu okudu: milyon kişide yıllık ölüm kırda 19.300, kentte 27.073'tü; ölüm oranı kırda elli ikide bir, k",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 3 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Bin kişideki ölüm Liverpool'da 35, Manchester'da 32, Halifax ile Kidderminster'da 21'di.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Farkı yoksullukla açıklamanın önünde bir engel vardı: Morpeth'in Lord Ebrington'ın Plymouth dersinden aktardığına göre ücretlerin en düşük olduğu Wiltshire'da ö",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Konuşmacının çekincesi de kayıtlıdır: aralık çeyreğinin daha ağır tablosunu, gıda arzındaki azalma ile ücretlerdeki düşüş de artışı açıklayabileceği için okumad",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k10",
+      "iddia": "Robert Allen'ın yanıtı fiyatlara dayanır ve kendi kaleminden şöyle özetlenir: Britanya'da ücretler sermaye fiyatlarına kıyasla olağanüstü yüksekti, eğirme makin",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bölümün geri kalanı Allen'ın kitabından değil, kitabı değerlendiren Avner Offer'ın aktarımından okunuyor: sermayeyi ucuzlatan ticaret kârları ile toprak rantlar",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Allen ikisini de sonraki büyümenin gerekli koşulu sayar.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k3",
-      "iddia": "Uzun dönemli seride dünya nüfusu 1790'da yaklaşık 942,3 milyon, 1848'de yaklaşık 1,27 milyardır.",
+      "iddia": "Sermayenin neden Asya'ya taşınıp ucuz emeği oracıkta çalıştırmadığını açıklarken emeğin fiyatı kadar niteliğini de sayar: 19. yüzyıl başında Britanyalı işçileri",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Offer bu çerçeveye toprağı geri koymayı önerir; ona göre fosil yakıt yalnızca ucuz enerji değil, kas gücünü bir büyüklük mertebesinden fazla çarpan bir kaldıraç",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sorunun neden böyle kurulduğu kaynağın çerçevesinde açıktır: 18. yüzyıla kadar Çin ile Hindistan dünya imalatına egemendi ve Avrupa'ya porselen ile kumaş ihraç ",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Bu konum burada kendi metinlerinden değil, kendilerine karşı çıkan Stephen Broadberry ile Bishnupriya Gupta'nın 2006 tarihli makalesinin yazar özetinden okunuyo",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k1",
-      "iddia": "Teknolojik yeniliklerin tek tek tarihi, çalışma koşulları, kentleşme ve çevresel sonuçlar burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları ayrı bö",
+      "anahtar": "k9",
+      "iddia": "Onlara göre fark parasal değil üretkenlik kaynaklıydı ve büyük ayrışma çoktan başlamıştı.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Nicholas Crafts kendi çalışmasını özetlerken buharın üretkenlik artışına etkisini, sermaye derinleşmesi hesaba katıldığında bile, görece küçük ve uzun gecikmeli",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Katkının ancak 1840'lardan itibaren belirginleştiği ifadesi ise Crafts'ın kendi metninden değil, onu von Tunzelmann ile birlikte okuyan Alessandro Nuvolari'nin ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "1624 tarihli Tekeller Yasası'nın kurduğu düzeni sanayileşmenin temel itici gücü sayan anlatıya karşı Christine MacLeod, dönemin yenilikçi sanayilerinin sistemli",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Petra Moser'in sayımına göre 1851 Kristal Saray sergisinde gösterilen 6.377 Britanya buluşunun yalnızca yüzde 11,1'i patentliydi.",
+      "durum": "OK",
+      "not": "5 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Britanya patent sisteminin yüksek harçları ve hantal işlemleri düşünüldüğünde, buluş sahiplerinin önemli bir bölümünün koruma yerine öncelik, gizlilik ve itibar",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k11",
+      "iddia": "Bugünün iktisat tarihi adı terk etmez; ama vaat ettiği ani kopuşu ölçümde bulamadığı için tartışmayı ne zaman olduğu sorusundan neyin ölçüldüğü sorusuna kaydırı",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Kömür üretiminin eğrisi ile kişi başına gelirin eğrisi aynı yıllarda çok farklı hızlarda yükselir; fabrikadaki çocuğun payı ile kentin ölüm oranı da aynı parlam",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Kömür üretiminin eğrisi ile kişi başına gelirin eğrisi aynı yıllarda çok farklı hızlarda yükselir; fabrikadaki çocuğun payı ile kentin ölüm oranı da aynı parlam",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "Kömür üretiminin eğrisi ile kişi başına gelirin eğrisi aynı yıllarda çok farklı hızlarda yükselir; fabrikadaki çocuğun payı ile kentin ölüm oranı da aynı parlam",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k12",
+      "iddia": "Kömür üretiminin eğrisi ile kişi başına gelirin eğrisi aynı yıllarda çok farklı hızlarda yükselir; fabrikadaki çocuğun payı ile kentin ölüm oranı da aynı parlam",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }
