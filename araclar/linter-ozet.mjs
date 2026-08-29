@@ -18,7 +18,7 @@
 // Kapsam disi: veri dosyalari (ozetleri seri degerlerini alintilar) ve
 // "bir"/"iki" (belirsiz artikel ve ikili karsilastirma olarak surekli gecer).
 
-import { Rapor } from './ortak.mjs';
+import { Rapor, linterCli } from './ortak.mjs';
 
 const SAYI_SOZCUKLERI = [
   'uc', 'dort', 'bes', 'alti', 'yedi', 'sekiz', 'dokuz',
@@ -92,3 +92,5 @@ export function ozetDenetimi(makaleler) {
   r.ozetSatirlari = [`taranan ${taranan} makale · ozette sure iddiasi ${iddia}`];
   return r;
 }
+
+if (process.argv[1]?.endsWith('linter-ozet.mjs')) linterCli('linter-ozet', ozetDenetimi);

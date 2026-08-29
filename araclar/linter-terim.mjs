@@ -1,7 +1,7 @@
 // KAPI 4 — Terim linteri. icerik/_sistem/terimler.yaml kilitli sozluktur;
 // yasak_varyantlar'dan biri govdede gecerse build kirilir.
 import path from 'node:path';
-import { Rapor, yamlOku, ICERIK } from './ortak.mjs';
+import { Rapor, yamlOku, ICERIK, linterCli } from './ortak.mjs';
 
 const HARF = 'a-zA-ZçğıöşüÇĞİÖŞÜ';
 
@@ -49,3 +49,5 @@ export function terimDenetimi(makaleler, terimler) {
   }
   return r;
 }
+
+if (process.argv[1]?.endsWith('linter-terim.mjs')) linterCli('linter-terim', terimDenetimi);

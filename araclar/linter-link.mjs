@@ -1,7 +1,7 @@
 // KAPI 5 — Link butunlugu. Kirik ic link yok.
 // `ilgili`, `okuma_onerisi`, ::tartismali{harita=...} ve gövdedeki /tip/slug
 // linklerinin tamami var olan bir makaleye cozulmek zorundadir.
-import { Rapor } from './ortak.mjs';
+import { Rapor, linterCli } from './ortak.mjs';
 
 export function linkDenetimi(makaleler) {
   const r = new Rapor('KAPI 5 — link butunlugu');
@@ -84,3 +84,5 @@ export function linkDenetimi(makaleler) {
   }
   return r;
 }
+
+if (process.argv[1]?.endsWith('linter-link.mjs')) linterCli('linter-link', linkDenetimi);

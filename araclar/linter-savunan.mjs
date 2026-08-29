@@ -15,7 +15,7 @@
 
 import fs from 'node:fs';
 import path from 'node:path';
-import { Rapor, KOK } from './ortak.mjs';
+import { Rapor, KOK, linterCli } from './ortak.mjs';
 
 export function kutuguOku() {
   const yol = path.join(KOK, 'icerik', '_sistem', 'savunanlar.yaml');
@@ -76,3 +76,5 @@ export function savunanDenetimi(makaleler) {
   r.olcum = { toplam, dogrulanmis, kismi, kisiDegil, kutuk: kutuk.size, olu: oluKayitlar.length };
   return r;
 }
+
+if (process.argv[1]?.endsWith('linter-savunan.mjs')) linterCli('linter-savunan', savunanDenetimi);

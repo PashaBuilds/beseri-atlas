@@ -1,7 +1,7 @@
 // KAPI 2 + KAPI 3 — Dipnot linteri ve kaynak anahtari butunlugu.
 // Ilke 1'in teknik karsiligi: tarih, sayi, ozel isim veya nedensellik iceren
 // her paragraf en az bir [^k] referansi tasimak zorundadir.
-import { Rapor, paragraflar, dipnotlar } from './ortak.mjs';
+import { Rapor, paragraflar, dipnotlar, linterCli } from './ortak.mjs';
 
 const BUYUK = 'A-ZÇĞİÖŞÜ';
 const KUCUK = 'a-zçğıiöşü';
@@ -112,3 +112,5 @@ export function dipnotDenetimi(makaleler) {
   }
   return r;
 }
+
+if (process.argv[1]?.endsWith('linter-dipnot.mjs')) linterCli('linter-dipnot', dipnotDenetimi);

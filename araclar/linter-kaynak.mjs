@@ -34,7 +34,7 @@
 //   indiğinde bu kapı hataya çevrilir — o karar `plan/faz-notlari.md`de kayıtlı.
 import fs from 'node:fs';
 import path from 'node:path';
-import { Rapor, yamlOku, yaz, ICERIK, KOK } from './ortak.mjs';
+import { Rapor, yamlOku, yaz, ICERIK, KOK, linterCli } from './ortak.mjs';
 
 const BORC_YOLU = path.join(KOK, 'denetim', 'kaynak-borcu.md');
 
@@ -228,3 +228,5 @@ function borcYaz(borclu, olcum) {
   ];
   yaz(BORC_YOLU, satirlar.join('\n'));
 }
+
+if (process.argv[1]?.endsWith('linter-kaynak.mjs')) linterCli('linter-kaynak', kaynakDenetimi);

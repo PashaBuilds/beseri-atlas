@@ -78,3 +78,69 @@ export class Rapor {
     for (const u of this.uyarilar) console.log(`   ${RENK.sari('UYARI')} ${u.dosya}: ${u.mesaj}`);
   }
 }
+
+/**
+ * Tek dosyalik linter CLI'si — YEDI ayri linterde tekrarlanmasin diye burada.
+ *
+ * Gerekce olculmus bir olaydir. 2026-08-30'da Avam Kamarasi hakemi
+ * linter-dipnot, linter-kaynak, linter-ozet, linter-terim, linter-tekrar,
+ * linter-savunan ve linter-link araclarini kendi dosyasiyla calistirdi ve
+ * HICBIRI cikti vermedi: yedisinde de CLI blogu yoktu. Ajan "sessizce gecti"
+ * ile "hic calismadi"yi ayirt edemiyordu. Ayni kusur daha once telif
+ * linterinde de vardi ve orada bir hakemin telif denetimi sessizce
+ * yapilmamisti.
+ *
+ * Ortak bir yardimci kullanilmasinin nedeni de bu depoda olculmus bir ders:
+ * bir tanim iki yerde duruyorsa biri er gec yanlis olur. Yedi kopya yerine
+ * tek bir tanim.
+ */
+export function linterCli(ad, denetimFn, { ozet } = {}) {
+  const hepsi = makaleleriTopla();
+  const secim = process.argv.slice(2).filter((a) => !a.startsWith('--'));
+  const secilen = secim.length
+    ? hepsi.filter((m) => secim.some((s) => s === m.fm?.id || m.goreli.endsWith(s)
+      || s.endsWith(`${m.fm?.id}.md`) || m.dosya === s))
+    : hepsi;
+  if (secim.length && secilen.length === 0) {
+    console.error(`${ad}: eslesen makale yok — ${secim.join(', ')}`);
+    process.exit(2);
+  }
+
+  // DENETIM HER ZAMAN KORPUSUN TAMAMINDA KOSAR; yalnizca RAPOR daraltilir.
+  //
+  // Ilk surumde girdiyi daraltmistim ve bu, tam olarak duzeltmeye calistigim
+  // kusurun aynisini uretti: linter-link kimlik dizinini kendisine verilen
+  // listeden kuruyor, tek dosyayla cagrilinca kavram-lonca'nin ON bagini
+  // birden "kirik ic link" ilan etti — oysa kavram-timar da otekiler de
+  // korpusta duruyordu. Ayni tuzak borc defteri yazan denetimlerde daha da
+  // agirdi: daraltilmis kosu defteri tek dosyayla yeniden kurardi.
+  //
+  // Anlami girdisine bagli olan bir olcume dar bir girdi vermek, olcumu
+  // bozmaktir. Dogrusu tam girdiyle olcup ciktiyi suzmektir.
+  const tam = denetimFn(hepsi);
+  const uyar = (secilen.length !== hepsi.length);
+  const suz = (liste) => (uyar
+    ? liste.filter((x) => secilen.some((m) => m.goreli === x.dosya || m.fm?.id === x.dosya
+      || String(x.dosya || '').endsWith(m.dosya)))
+    : liste);
+
+  const r = new Rapor(tam.kapi);
+  for (const h of suz(tam.hatalar)) r.hata(h.dosya, h.mesaj);
+  for (const u of suz(tam.uyarilar)) r.uyari(u.dosya, u.mesaj);
+  r.yazdir();
+
+  if (uyar) {
+    console.log(`   [rapor ${secilen.length} dosyaya daraltildi; olcum korpusun tamaminda kostu]`);
+    for (const satir of tam.ozetSatirlari || []) console.log(`   korpus geneli — ${satir}`);
+    const disarida = tam.hatalar.length - r.hatalar.length;
+    if (disarida > 0) {
+      console.log(`   korpusun BASKA dosyalarinda ${disarida} hata var; bu kosuda sayilmadi`);
+    }
+  } else {
+    for (const satir of tam.ozetSatirlari || []) console.log(`   ${satir}`);
+    if (ozet) console.log(`   ${ozet(hepsi, tam)}`);
+    console.log(`   olculen ${hepsi.length} makale`);
+  }
+  process.exit(r.gecti ? 0 : 1);
+}
+

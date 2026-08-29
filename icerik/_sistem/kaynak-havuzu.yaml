@@ -262,13 +262,27 @@ whitelist:
     dogrulanabilir: false
     kapsam: [britanya, hukuk]
     not: >
-      UK yasa arsivi. 2026-08-29 olcumu (Government of India Act 1858,
-      ukpga/Vict/21-22/106): HTTP 200 doner, 4.724 karakter — ama govdenin
-      TAMAMI gezinme menusudur ("All Primary Legislation", "UK Public
-      General Acts"...); yasanin maddeleri sayfada YOK. 1988 oncesi
-      yasalar bu arsivde cogu zaman yalnizca kunye duzeyindedir.
-      1858 Yasasi icin calisan yol: hansard.parliament.uk (sunus ve
-      goruse) ya da archive.org'daki Statutes at Large cildi.
+      UK yasa arsivi. IKI AYRI OLCUM, ve ikincisi birincisinin genellemesini
+      YALANLIYOR — kayit bilerek ikisini birden tasiyor.
+
+      2026-08-29: Government of India Act 1858 (ukpga/Vict/21-22/106) HTTP 200
+      doner ve 4.724 karakter verir, ama govdenin TAMAMI gezinme menusudur;
+      yasanin maddeleri sayfada YOK. Bundan "1988 oncesi yasalar bu arsivde
+      yalnizca kunye duzeyindedir" diye genellenmisti.
+
+      2026-08-30 (Avam Kamarasi hakemi): O GENELLEME YANLIS. Parliament Act
+      1911 (ukpga/Geo5/1-2/13) HTTP 200 ve 14.250 karakter doner ve govde
+      GERCEKTEN yasa metnidir ("Money Bill", "Speaker of the House of
+      Commons", 1. ve 2. maddelerin tam metni). Sinir yasadan yasaya degisir;
+      denemeden karar verilmemeli.
+
+      ASIL TUZAK BASKA VE DAHA AGIR: donen metin YURURLUKTEKI (revize) surumdur,
+      yasanin ASLI degil. 1911 sayfasi "in two successive sessions" ve "one year
+      has elapsed" yazar; 1911 aslinda "three successive sessions" ve "two years
+      have elapsed" yaziyordu — degisiklik 1949 Yasasi'yla geldi. Tarihsel bir
+      iddiayi bu sayfaya dayandirmak OLGU HATASI uretir. Yasanin ozgun metni
+      icin en.wikisource.org/wiki/Parliament_Act_1911 (200, 10.460 karakter,
+      "three successive sessions" birebir gecer).
   - alan: www.zeno.org
     tur: birincil
     birincil_tur: eser

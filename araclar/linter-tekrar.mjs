@@ -16,7 +16,7 @@
 // Kapsam disi: donem dosyalari (tasarim geregi bitisik yil dilimleridir) ve
 // veri dosyalari (ayni seriye birden cok dosya bagli olabilir).
 
-import { Rapor } from './ortak.mjs';
+import { Rapor, linterCli } from './ortak.mjs';
 
 // Ayirt edici olmayan sozcukler. Bunlarin cogu ayni konunun iki farkli
 // adlandirilmasinin sebebidir, dolayisiyla cekirdege girmezler.
@@ -112,3 +112,5 @@ export function tekrarDenetimi(makaleler) {
   r.ozetSatirlari = [`olculen ${makaleler.length} makale · cakisan cift ${cift}`];
   return r;
 }
+
+if (process.argv[1]?.endsWith('linter-tekrar.mjs')) linterCli('linter-tekrar', tekrarDenetimi);

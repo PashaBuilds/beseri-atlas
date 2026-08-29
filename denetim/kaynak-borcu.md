@@ -11,18 +11,18 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 
 | Ölçüm | Değer |
 |---|---|
-| Ölçülen makale | 517 |
-| Toplam künye | 2387 |
+| Ölçülen makale | 530 |
+| Toplam künye | 2475 |
 | Giriş kapısı kuralını aşan makale | 144 |
-| Birincil kaynağı olmayan makale | 173 |
-| Giriş kapısı künyesi payı | 25% |
+| Birincil kaynağı olmayan makale | 175 |
+| Giriş kapısı künyesi payı | 24% |
 
 ## Tipe göre borçlu makale
 
 | Tip | Borçlu |
 |---|---|
 | aktor | 61 |
-| kavram | 57 |
+| kavram | 59 |
 | olay | 52 |
 | kaynak | 28 |
 | dusunur | 16 |
@@ -210,6 +210,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `kavram-akrabalik` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-barut-imparatorluklari` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-buyuk-ayrisma` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-canak-comleksiz-neolitik` | 6 | 1 | 0 | birincil kaynak yok |
 | `kavram-demografik-gecis` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-ikincil-kaynak` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-kamusal-alan` | 3 | 1 | 0 | birincil kaynak yok |
@@ -220,6 +221,7 @@ olarak zaten onaylıyor — izin vardı, kullanılmadı.
 | `kavram-mesruiyet` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-millet-sistemi` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-okuryazarlik` | 3 | 1 | 0 | birincil kaynak yok |
+| `kavram-olay-tarihi` | 7 | 1 | 0 | birincil kaynak yok |
 | `kavram-patrimonyalizm` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-silahli-ticaret` | 3 | 1 | 0 | birincil kaynak yok |
 | `kavram-takvim` | 3 | 1 | 0 | birincil kaynak yok |
