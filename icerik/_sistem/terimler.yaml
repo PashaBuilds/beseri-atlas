@@ -439,6 +439,12 @@ terimler:
     en: Migration Period
     kullanim: tercih_edilen
     yasak_varyantlar: [Barbar İstilaları, Halklar Göçü]
+    # UYARI (2026-08-29, kor hakem bulgusu): bu ad YALNIZCA gec antik cagdaki
+    # Germen goc donemi (Migration Period, ~MS 300-600) icindir. MO 12. yuzyil
+    # Tunc Cagi cokusundeki topluluk hareketlerine bu ad VERILEMEZ; oraya
+    # uygulanmasi yanlis donem referansi uretir. Kapi "halklar gocu" varyantini
+    # yasaklarken yanlislikla bu adi dayatabilir; boyle bir durumda kaynagin
+    # kendi sozcugu (or. Breasted'in "Volkerwanderung"u) tercih edilmelidir.
   - tr: Neolitik Devrim
     en: Neolithic Revolution
     kullanim: tercih_edilen

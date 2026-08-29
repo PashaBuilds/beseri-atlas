@@ -1,9 +1,9 @@
 {
   "id": "tartisma-tunc-cagi-cokusunun-nedeni",
-  "govde_hash": "199a37bcfbd2",
-  "commit": null,
+  "govde_hash": "502291c248cf",
+  "commit": "b79cb4d",
   "zaman": "2026-08-29",
-  "hakem": "TASLAK-yazar",
+  "hakem": "kor-hakem-2026-08-29",
   "iddialar": [
     {
       "iddia_id": "i01",
@@ -31,7 +31,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Crossref ustveri kaydi: title 'Crisis in Context: The End of the Late Bronze Age in the Eastern Mediterranean', container 'American Journal of Archaeology', volume 120, page 99-149, issued 2016, yazarlar Knapp ve Manning. Iddia yazar/yil/dergi/cilt/sayfa duzeyinde kaldigi icin ustveri kaydi DOGRUDAN yeter."
+      "inceleme": "Crossref ustveri kaydi: title 'Crisis in Context: The End of the Late Bronze Age in the Eastern Mediterranean', container 'American Journal of Archaeology', volume 120, page 99-149, issued 2016, yazarlar Knapp ve Manning. Iddia yazar/yil/dergi/cilt/sayfa duzeyinde kaldigi icin ustveri kaydi DOGRUDAN yeter. HAKEM NOTU (2026-08-29): k9 govdede ikinci kez, sonuc paragrafindaki 'Tartismanin kapanmamasinin sebebi kanit yoklugu degil, kanit turlerinin birbirine cevrilememesidir' cumlesine de bagliydi. Crossref kaydi baslik/yazar/dergi disinda hicbir sey tasimaz (ozet alani yok); o cumle makalenin kendi yontem hukmudur ve kunye onu tasiyamaz. SUS DIPNOTU sayilip govdeden cikarildi; cumle artik kaynaksiz bir sonuc hukmu olarak duruyor ve matriste iddia karsiligi yok. k9 govdede yalnizca i02'de kaliyor."
     },
     {
       "iddia_id": "i03",
@@ -49,7 +49,7 @@
     },
     {
       "iddia_id": "i04",
-      "cumle": "Breasted, 1906'da yayımladığı derlemenin kendi yorumunda olup bitenin basit bir akın değil bir halklar göçü olduğunu ileri sürer; kadınları, çocukları ve öküz arabalarıyla yola çıkmış toplulukların Anadolu kıyısı boyunca doğuya ilerlediğini ve kuzey Suriye'yi Karkamış'tan Arvad'a kadar yağmaladığını anlatır.",
+      "cumle": "Breasted, 1906'da yayımladığı derlemenin kendi yorumunda olup bitenin basit bir akın değil, kendi deyişiyle bir Völkerwanderung — toplu bir göç dalgası — olduğunu ileri sürer; kadınları, çocukları ve öküz arabalarıyla yola çıkmış toplulukların Anadolu kıyısı boyunca doğuya ilerlediğini ve kuzey Suriye'yi Karkamış'tan Arvad'a kadar yağmaladığını anlatır.",
       "onem": "destek",
       "tur": "aktarim",
       "kaynaklar": [
@@ -59,7 +59,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "§59-60 (imleç ~101.000): 'accompanied by their wives, children, and belongings, in clumsy ox carts, left their homes, and moving eastward along the coast of Asia Minor, penetrated Syria'; 'In the author's opinion, this movement was really a \"Volkerwanderung,\" not merely an invasion'; 'from Carchemish ... as far south as Arvad ... they plundered the country.' Cevirmenin YORUMU oldugu govdede acikca isaretli."
+      "inceleme": "§59-60 (imleç ~101.000): 'accompanied by their wives, children, and belongings, in clumsy ox carts, left their homes, and moving eastward along the coast of Asia Minor, penetrated Syria'; 'In the author's opinion, this movement was really a \"Volkerwanderung,\" not merely an invasion'; 'from Carchemish ... as far south as Arvad ... they plundered the country.' Cevirmenin YORUMU oldugu govdede acikca isaretli. HAKEM NOTU (2026-08-29) — TERIM TUZAGI: govde bir ara 'bir Kavimler Gocu' diyordu; icerik/_sistem/terimler.yaml'da 'Kavimler Gocu' teriminin Ingilizce karsiligi 'Migration Period', yani gec antik cagdaki Germen goc donemidir — MO 12. yuzyil olayina bu adi vermek yanlis referans uretir. Ayni tablo 'Halklar Gocu'nu da yasak varyant sayar. Iki tuzak da Breasted'in kendi sozcugu (Volkerwanderung) kullanilarak asildi; sozcuk tirnaksiz/italik verildi ki KAPI 7'de k1'in ikinci alintisi sayilmasin."
     },
     {
       "iddia_id": "i05",
@@ -77,7 +77,7 @@
     },
     {
       "iddia_id": "i06",
-      "cumle": "Yerinden olmuş toplulukların bir sebep mi yoksa bir sonuç mu olduğu yazıttan okunamaz; yazıt yalnızca Peleset ile Denyen'in geldiğini ve püskürtüldüğünü söyler.",
+      "cumle": "Yerinden olmuş toplulukların bir sebep mi yoksa bir sonuç mu olduğu yazıttan okunamaz; yazıt yalnızca bu grupların geldiğini ve püskürtüldüğünü söyler — esirleri gösteren kabartmalarda yenilenler arasında Denyen ile Peleset adlandırılır.",
       "onem": "merkezi",
       "tur": "yorum",
       "kaynaklar": [
@@ -91,7 +91,7 @@
         }
       ],
       "guven": "yuksek",
-      "inceleme": "Cumlenin olculebilir yarisi k1'de birebir: §64 Peleset ile Denyen'i saldiranlar arasinda sayar, kabartma yazitlari 'Utterance of the vanquished of Denyen' ve 'the vanquished of Peleset' der (imleç ~134.800) — yani gelis ve puskurtulme. k2 ayni olayi 'A second attack ... involved Peleset, Tjeker, Shardana, and Denyen' ve 'the defeat of the invading Sea Peoples' diye ozetler, ama sebep/sonuc hukmu k2'de yok; o hukum makalenin kendi yontem cikarimi, bu yuzden k2 KISMI."
+      "inceleme": "Cumlenin olculebilir yarisi k1'de birebir: §64 saldiranlari 'Peleset, Thekel, Shekelesh, Denyen, and Weshesh' diye sayar; esir kabartmalarinin yazitlari ise yalnizca iki adi tasir — 'Utterance of the vanquished of Denyen' ve 'Utterance of the vanquished of Peleset' (imleç ~134.800), yani gelis ve puskurtulme. HAKEM DUZELTMESI (2026-08-29): govde onceki halinde 'yazit yalnizca Peleset ile Denyen'in geldigini soyler' diyordu; ayni makale iki paragraf once ayni yazittan bes ad sayiyordu ve bu ic celiskiydi. Cumle kaynagin ayrimini (yazit metni bes ad, kabartma yazitlari iki ad) yansitacak sekilde duzeltildi. k2 ayni olayi 'A second attack ... involved Peleset, Tjeker, Shardana, and Denyen' ve 'the defeat of the invading Sea Peoples' diye ozetler, ama sebep/sonuc hukmu k2'de yok; o hukum makalenin kendi yontem cikarimi, bu yuzden k2 KISMI."
     },
     {
       "iddia_id": "i07",
@@ -380,10 +380,38 @@
       ],
       "guven": "yuksek",
       "inceleme": "CSV'nin tam hâlinde deger dogrulandi: 'World,OWID_WRL,-1000,,110530464' (~110,5 milyon) ve komsu satirlar -3000/-2000/-1000/0, yani bin yillik adim. ANCAK getir/denetle 400k penceresinde kesiyor ve dosya alfabetik siralandigi icin 'World' satirlari pencerenin DISINDA kaliyor; pencerede yalnizca 'population_historical' sutun basligi gorunuyor. Mekanik yeniden dogrulama pencere icinde mumkun olmadigi icin DOGRUDAN degil KISMI. (Ayni sinir araclar/owid-indir.mjs basliginda da kayitli.)"
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "Hitit başkenti bu genel dönem içinde yandı; yangının tarihi bilinmiyor ve Hattuşa'nın o noktada terk edilmiş olması da mümkün görülüyor.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM EKLEMESI (2026-08-29): bolum basligi 'Hattusa'nin terki' idi ama govde terki hic anmiyordu; kontrol noktasi bos kaliyordu. k2 birebir: 'The Hittite capital of Hattusa was burned at an unknown date in this general period, though it may in fact have been abandoned at that point.' Cumle bu aktarimin sinirlarinda kaliyor (tarih bilinmiyor + terk 'mumkun'), yani basligin karsiligi artik govdede var ve asiri kesinlik yok."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Bu iki Ugarit mektubunun sözleri dosyaya birincil yayınlarından değil ansiklopedik bir aktarımdan geliyor; aktarım RS 18.147 künyesini kendi içinde eksik işaretler.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "HAKEM EKLEMESI (2026-08-29): RS 18.147 ve RS 20.18 paragraflari yalnizca k2'ye (ansiklopedi) yasliniyordu ama govde bu aktarim halkasini okura soylemiyordu. k2'de mektup kunyesi birebir su isaretle geciyor: 'in letter RS 18.147: [ 55 ] [ full citation needed ]' — yani aktarimin kendisi kunyeyi eksik ilan ediyor. Iddia tam olarak bunu soyluyor; k2 metninde dogrudan gorunur."
     }
   ],
   "sayaclar": {
-    "dogrudan": 14,
+    "dogrudan": 16,
     "kismi": 12,
     "desteksiz": 0,
     "olculemez": 0

@@ -4648,3 +4648,20 @@ Pilot bütçe ölçümü: 12 dosya ≈ 3,9M jeton (onarım+hakem; dosya başına
   (benim bağ düzeltmemin düşürdüğü 5 kelime) telafi edildi.
 - KAPI 18 defteri 446 dosyaya indi. 13/13 kapı 0 hata 0 uyarı;
   44 matris GEÇERLİ; 505/505 rapor güncel.
+
+### Tunç Çağı hakemi: orkestratörün kendi hatasını yakaladı
+
+Kapı ihlalini kapatmak için yaptığım "halklar göçü" → "Kavimler Göçü"
+düzeltmesi YANLIŞTI: terimler.yaml'da o adın İngilizce karşılığı
+"Migration Period", yani geç antik Germen göç dönemi (~MS 300-600).
+MÖ 12. yüzyıl olayına bu adı vermek yanlış dönem referansı üretir.
+Hakem bunu yakaladı ve Breasted'ın kendi sözcüğüyle (Völkerwanderung)
+çözdü. terimler.yaml'daki kayda uyarı notu eklendi: kapı bir yasak
+varyantı reddederken yanlış dönemin özel adını dayatabilir; böyle
+durumda kaynağın kendi sözcüğü kullanılır.
+
+Hakemin diğer bulguları: yazıttaki beş ad ile esir kabartmalarındaki
+iki adın karıştırılması (iç çelişki), boş kalmış "Hattuşa'nın terki"
+başlığı, Ugarit mektuplarının ansiklopedik aktarım halkasının
+gizlenmesi, ve bir süs dipnotu (özetsiz Crossref kaydına yaslanmış
+yöntem hükmü).

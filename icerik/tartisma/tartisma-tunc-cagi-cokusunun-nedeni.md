@@ -229,10 +229,11 @@ before their hands" der.[^k1]
 
 Belgenin türü kendi kanıt değerini sınırlar: bu bir zafer anıtıdır ve yenilen
 tarafı saymak için yazılmıştır. Breasted, 1906'da yayımladığı derlemenin kendi
-yorumunda olup bitenin basit bir akın değil bir Kavimler Göçü olduğunu ileri
-sürer; kadınları, çocukları ve öküz arabalarıyla yola çıkmış toplulukların
-Anadolu kıyısı boyunca doğuya ilerlediğini ve kuzey Suriye'yi Karkamış'tan
-Arvad'a kadar yağmaladığını anlatır.[^k1]
+yorumunda olup bitenin basit bir akın değil, kendi deyişiyle bir
+*Völkerwanderung* — toplu bir göç dalgası — olduğunu ileri sürer; kadınları,
+çocukları ve öküz arabalarıyla yola çıkmış toplulukların Anadolu kıyısı boyunca
+doğuya ilerlediğini ve kuzey Suriye'yi Karkamış'tan Arvad'a kadar yağmaladığını
+anlatır.[^k1]
 
 Adların karşılıkları da sabit değildir. Aynı ciltte Breasted, Peleset'in
 sonradan İncil'deki Filistinlilere dönüşen topluluk olabileceğini, Thekel'in
@@ -245,23 +246,26 @@ Buradan doğan itiraz, açıklamanın yönüne ilişkindir. Deniz Kavimleri nere
 bütünüyle Mısır kaynaklarından tanınır; onları çöküşün nedeni saymak, ayakta
 kalmayı başarmış bir devletin kendi anlatısını herkesin çöküşünün açıklaması
 hâline getirmek demektir. Yerinden olmuş toplulukların bir sebep mi yoksa bir
-sonuç mu olduğu yazıttan okunamaz; yazıt yalnızca Peleset ile Denyen'in geldiğini
-ve püskürtüldüğünü söyler.[^k1][^k2]
+sonuç mu olduğu yazıttan okunamaz; yazıt yalnızca bu grupların geldiğini ve
+püskürtüldüğünü söyler — esirleri gösteren kabartmalarda yenilenler arasında
+Denyen ile Peleset adlandırılır.[^k1][^k2]
 
 ## Ugarit'ten gelen mektuplar
 
 İkinci tanıklık, kentin yangınında pişerek korunmuş kil tabletlerden gelir.
 Ugarit'in son kralı Ammurapi, bilinen son Hitit kralı II. Şuppiluliuma'nın
-çağdaşıydı; Ammurapi'nin saltanatına ait kesin tarihler ise bilinmiyor.[^k2] Ammurapi'nin Alaşiya
-kralına yazdığı RS 18.147 numaralı
-mektup, düşman gemilerinin geldiğini, kentlerinin yakıldığını, askerlerinin ve
-savaş arabalarının Hatti ülkesinde, gemilerinin ise Lukka'da olduğunu
-bildirir.[^k2]
+çağdaşıydı; Ammurapi'nin saltanatına ait kesin tarihler ise bilinmiyor.[^k2]
+Ammurapi'nin Alaşiya kralına yazdığı RS 18.147 numaralı mektup, düşman
+gemilerinin geldiğini, kentlerinin yakıldığını, askerlerinin ve savaş
+arabalarının Hatti ülkesinde, gemilerinin ise Lukka'da olduğunu bildirir.[^k2]
 
 Mektuplaşmanın öbür ucu tabloyu karmaşıklaştırır. Kıbrıs'taki üst düzey yönetici
 Eshuwara'nın RS 20.18 numaralı cevabı, saldırıyı yapanların Ugarit'in kendi
 halkı ve kendi gemileri olduğunu söyler; Karkamış'tan gönderilen yardım ise kent
-yağmalandıktan sonra ulaşır.[^k2]
+yağmalandıktan sonra ulaşır.[^k2] Bu iki Ugarit mektubunun sözleri dosyaya
+birincil yayınlarından değil ansiklopedik bir aktarımdan geliyor; aktarım
+RS 18.147 künyesini kendi içinde eksik işaretler.[^k2] Tanıklık zinciri burada bir
+halka fazladır.
 
 İki mektup birlikte okunduğunda ortaya çıkan şey, faile dair çağdaş bir mutabakat
 değil çağdaş bir anlaşmazlıktır. Ugarit kralı düşmanı dışarıdan gelen gemilerle
@@ -359,7 +363,9 @@ döndü.[^k10]
 
 ## Anadolu: Hattuşa'nın terki
 
-Anadolu tarafında tabloyu değiştiren şey tarihlemedir. Schachner'in 2024'te
+Anadolu tarafında tabloyu değiştiren şey tarihlemedir. Hitit başkenti bu genel
+dönem içinde yandı; yangının tarihi bilinmiyor ve Hattuşa'nın o noktada terk
+edilmiş olması da mümkün görülüyor.[^k2] Schachner'in 2024'te
 Anatolian Studies'te yayımladığı inceleme, son otuz yılda biriken bilimsel
 tarihleme ile Hattuşa'nın topografik olarak dağınık kesimlerini birbirine
 bağlamanın mümkün hâle geldiğini bildirir; yerleşme, üçüncü binyılın sonundan
@@ -391,13 +397,13 @@ yayılan bir olaylar dizisini onar yıllık adımlara bölemedikçe, hangi etken
 hangisini öncelediği sorusu cevapsız kalır.
 
 Tartışmanın kapanmamasının sebebi kanıt yokluğu değil, kanıt türlerinin
-birbirine çevrilememesidir.[^k9] Yazıt bir fail adlandırır ama olayı yıla indiremez; çökel bir
-iklim eğrisi verir ama fail göstermez; yıkım katmanı bir olay verir ama nedenini
-taşımaz. Bir açıklamanın öbürüne üstünlüğü ancak bu üç kaydın ortak bir zaman
-ölçeğinde buluştuğu yerlerde sınanabilir ve bugün o buluşma noktaları sayılıdır.
-Dört pozisyon arasındaki tercih de büyük ölçüde hangi kaydın belirleyici
-sayıldığına bağlıdır. Açık kalan asıl soru şudur: radyokarbon dizileri ile yazılı
-kayıt aynı onyıla oturtulabildiğinde, bugün yan yana duran açıklamalardan
-hangileri sıraya girecek, hangileri listeden düşecek. Sonuç bir hüküm değil bir
-sınav listesidir: her açıklama, belirleyici saydığı kaydın ötekilerle nerede
-çakıştığını göstermek zorundadır.
+birbirine çevrilememesidir. Yazıt bir fail adlandırır ama olayı yıla indiremez;
+çökel bir iklim eğrisi verir ama fail göstermez; yıkım katmanı bir olay verir
+ama nedenini taşımaz. Bir açıklamanın öbürüne üstünlüğü ancak yazıt, çökel ve
+yıkım katmanının ortak bir zaman ölçeğinde buluştuğu yerlerde sınanabilir ve
+bugün o buluşma noktaları sayılıdır. Dört pozisyon arasındaki tercih de büyük
+ölçüde hangi kaydın belirleyici sayıldığına bağlıdır. Açık kalan asıl soru
+şudur: radyokarbon dizileri ile yazılı kayıt aynı onyıla oturtulabildiğinde,
+bugün yan yana duran açıklamalardan hangileri sıraya girecek, hangileri listeden
+düşecek. Sonuç bir hüküm değil bir sınav listesidir: her açıklama, belirleyici
+saydığı kaydın ötekilerle nerede çakıştığını göstermek zorundadır.

@@ -1,9 +1,9 @@
 {
   "id": "tartisma-tunc-cagi-cokusunun-nedeni",
   "gecis": 2,
-  "zaman": "2026-08-29T13:57:41.964Z",
-  "govde_hash": "199a37bcfbd2",
-  "commit": "7549ec6",
+  "zaman": "2026-08-29T14:08:49.203Z",
+  "govde_hash": "502291c248cf",
+  "commit": "b79cb4d",
   "sonuclar": [
     {
       "anahtar": "k4",
@@ -25,7 +25,7 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Breasted, 1906'da yayımladığı derlemenin kendi yorumunda olup bitenin basit bir akın değil bir Kavimler Göçü olduğunu ileri sürer; kadınları, çocukları ve öküz ",
+      "iddia": "Breasted, 1906'da yayımladığı derlemenin kendi yorumunda olup bitenin basit bir akın değil, kendi deyişiyle bir Völkerwanderung — toplu bir göç dalgası — olduğu",
       "durum": "OK",
       "not": "1 atom doğrulandı; 4 ad ölçülemedi"
     },
@@ -37,13 +37,13 @@
     },
     {
       "anahtar": "k1",
-      "iddia": "Yerinden olmuş toplulukların bir sebep mi yoksa bir sonuç mu olduğu yazıttan okunamaz; yazıt yalnızca Peleset ile Denyen'in geldiğini ve püskürtüldüğünü söyler.",
+      "iddia": "Yerinden olmuş toplulukların bir sebep mi yoksa bir sonuç mu olduğu yazıttan okunamaz; yazıt yalnızca bu grupların geldiğini ve püskürtüldüğünü söyler — esirler",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k2",
-      "iddia": "Yerinden olmuş toplulukların bir sebep mi yoksa bir sonuç mu olduğu yazıttan okunamaz; yazıt yalnızca Peleset ile Denyen'in geldiğini ve püskürtüldüğünü söyler.",
+      "iddia": "Yerinden olmuş toplulukların bir sebep mi yoksa bir sonuç mu olduğu yazıttan okunamaz; yazıt yalnızca bu grupların geldiğini ve püskürtüldüğünü söyler — esirler",
       "durum": "OK",
       "not": ""
     },
@@ -64,6 +64,12 @@
       "iddia": "Kıbrıs'taki üst düzey yönetici Eshuwara'nın RS 20.18 numaralı cevabı, saldırıyı yapanların Ugarit'in kendi halkı ve kendi gemileri olduğunu söyler; Karkamış'tan",
       "durum": "OK",
       "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Bu iki Ugarit mektubunun sözleri dosyaya birincil yayınlarından değil ansiklopedik bir aktarımdan geliyor; aktarım RS 18.147 künyesini kendi içinde eksik işaret",
+      "durum": "OK",
+      "not": ""
     },
     {
       "anahtar": "k2",
@@ -156,6 +162,12 @@
       "not": ""
     },
     {
+      "anahtar": "k2",
+      "iddia": "Hitit başkenti bu genel dönem içinde yandı; yangının tarihi bilinmiyor ve Hattuşa'nın o noktada terk edilmiş olması da mümkün görülüyor.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
       "anahtar": "k11",
       "iddia": "Schachner'in 2024'te Anatolian Studies'te yayımladığı inceleme, son otuz yılda biriken bilimsel tarihleme ile Hattuşa'nın topografik olarak dağınık kesimlerini ",
       "durum": "OK",
@@ -178,12 +190,6 @@
       "iddia": "Uzun dönemli seride dünya nüfusu MÖ 1000 için yaklaşık 110,5 milyon verilir ve seri bu aralıkta bin yıllık adımlarla ilerler.",
       "durum": "OK",
       "not": ""
-    },
-    {
-      "anahtar": "k9",
-      "iddia": "Tartışmanın kapanmamasının sebebi kanıt yokluğu değil, kanıt türlerinin birbirine çevrilememesidir.",
-      "durum": "ATOMSUZ",
-      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }
   ]
 }
