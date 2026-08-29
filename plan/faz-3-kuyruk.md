@@ -97,3 +97,16 @@ Karar K8 uyarınca "toplumsal" ekseni, ancak korpus genelinde bir yeniden
 sınıflandırma geçişiyle birlikte eklenebilir. Bu geçiş, 505 makalenin
 eksen alanlarının tek tek gözden geçirilmesini gerektirir ve tek başına
 bir dalga işidir.
+
+### Kuyruğa eklenen: `birincil_tur` sözlüğünde "kronik" boşluğu
+İki aktör ajanı bağımsız olarak şemada olmayan değerler yazdı
+(`kronik`, `metin`). Boşluk gerçek: bir tarih atlasında kronik
+(İbn Tağrîberdî, Makrizî, Anna Komnena, Sima Qian) başlı başına bir
+birincil kaynak sınıfıdır ve şu an "eser" ya da "belge" altında
+duruyor. Karar K8'in gerekçesi burada da geçerli — sözlüğe yeni değer
+eklemek, ancak var olan künyelerin yeniden sınıflandırılmasıyla
+birlikte anlamlı olur. Farkı da kayda geçirmek gerekir: `eksen` bir
+gezinme yüzüdür (kısmi benimseme okuru yanıltır), `birincil_tur` ise
+künye içinde gösterilen bir niteleyicidir (kısmi benimseme yanıltmaz,
+yalnız kesinliği düşürür). Bu yüzden bu maddenin önceliği K8'den
+düşüktür ama aynı geçişte ele alınmalıdır.
