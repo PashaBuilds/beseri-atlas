@@ -1,55 +1,229 @@
 {
   "id": "aktor-babur-imparatorlugu",
   "gecis": 2,
-  "zaman": "2026-08-29T14:39:48.267Z",
-  "govde_hash": "65904b3cbb1c",
-  "commit": "495dbec",
+  "zaman": "2026-08-29T19:12:47.292Z",
+  "govde_hash": "c6aba2fbbaa6",
+  "commit": "f403bfb",
   "sonuclar": [
     {
-      "anahtar": "k1",
-      "iddia": "Bâbürlüler, 1526-1858 yılları arasında Hindistan'da hüküm süren bir Türk devletidir.",
+      "anahtar": "k2",
+      "iddia": "Kurucu metin olan Bâbürnâme'de Mughūl sözcüğü başka bir topluluğu gösterir: Bâbür, anne tarafından dedesi Yûnus Han'ı, Cengiz Han'ın ikinci oğlu Çağatay Han'ın ",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 2 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Ad bugün de tek başına bırakılmıyor; Moin'in bölümü düzeni Bâbürlü ya da Timurlu imparatorluğu diye anar, Türkçe ansiklopedi maddesi ise Bâbürlüler adını kullan",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Ad bugün de tek başına bırakılmıyor; Moin'in bölümü düzeni Bâbürlü ya da Timurlu imparatorluğu diye anar, Türkçe ansiklopedi maddesi ise Bâbürlüler adını kullan",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bu düzeni okumanın bir yolu, kapladığı alana değil defterine bakmaktır: rütbe maiyetteki süvari sayısıyla ölçülür, gelir hizmet karşılığı verilen toprakla ödeni",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Bu düzeni okumanın bir yolu, kapladığı alana değil defterine bakmaktır: rütbe maiyetteki süvari sayısıyla ölçülür, gelir hizmet karşılığı verilen toprakla ödeni",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Pirbhai'nin özeti, Bâbürlü devletinden bir devlet arşivi kalmamasını ve dönem derlemelerinin Britanya sömürgeciliğiyle birlikte oluşmuş olmasını, İslam hukuku ç",
+      "durum": "OK",
+      "not": "3 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Kuruluş tek bir meydan savaşına bağlanır: Bâbür 1526'da Pânîpet'te Lûdî Sultanlığı'nı ortadan kaldırdı, ertesi yıl Kânvâ'da Racpûtları yenerek Hindistan'daki ko",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Hanedanın kurucusu ve ilk hükümdarı Çağatay Türkleri'nden Bâbür'dür; Bâbür Şah 1526'da Pânîpet Meydan Savaşı'nı kazanarak Lûdî Sultanlığı'nı ortadan kaldırdı ve",
+      "iddia": "Ustad Ali-kulî'ye verilen emir, arabaların Osmanlı usulünce birbirine bağlanması, ancak zincir yerine ham deri halat kullanılmasıdır; her iki araba arasına beşe",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Mart 1527'de Kânvâ'da bir başka karşılaşma gerçekleşti.",
+      "iddia": "Erskine arabaları top arabası diye çevirmişti; Beveridge, Bâbür'ün elinde top bulunduğunu varsaymak için ne metinde ne koşullarda dayanak olduğu itirazını koyar",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Bir devletin kuruluşunun tek bir meydan savaşına bağlanabilmesi, o savaşın öncesindeki siyasi yapının kırılganlığını da anlatır: mevcut sultanlık, bir yenilgiyi",
+      "iddia": "Ardından maddi eksikler gelir: iyi at ve köpekten üzüm, kavun ve iyi meyveye, buz ve soğuk sudan çarşıdaki iyi ekmeğe, hamamdan medreseye ve mumdan şamdana kada",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     },
     {
       "anahtar": "k1",
-      "iddia": "Kuruluş ile son arasındaki aralık 1526-1858'dir.",
+      "iddia": "Aynı bölümde ülkenin zenginliğini de kaydeder: yüz bini lak, yüz lakı krûr, yüz krûru arb diye adlandırıp daha da yukarı çıkan Hint sayı düzenini, Hindistan'dak",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Ölçek farkı kendi kayıtlarında görünür — Fergana'nın gelirinin, adaletle davranılırsa üç dört bin adamı besleyebileceğini yazmıştı.",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Fergana"
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Bâbürnâme'yi 1826'da yayımlayan Erskine, Bâbür'ün Hindistan gelirinin sterlin karşılığını yaklaşık bir buçuk milyon olarak tahmin etmiş; 1854'te Hint para değer",
+      "durum": "ISARET",
+      "not": "kaynakta bulunamayan sayısal değer: 4.212.000 (kaynak metni 400k sınırında kesildi; kesin sayılmaz)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Orduyu yöneten kumandanlara mansabdâr denir; heft hezârî, penç hezârî, deh başı gibi adlarla belirli sayıdaki askerin kumandanı sayılır, hem Türkçe hem Farsça u",
       "durum": "OK",
       "not": ""
     },
     {
-      "anahtar": "k2",
-      "iddia": "10 Mayıs 1857 – 1 Kasım 1858 arasındaki ayaklanmada Bâbür İmparatorluğu ve sipahi isyancıları karşı tarafta yer alıyordu; sonuç Britanya zaferiydi ve bazı prens",
+      "anahtar": "k3",
+      "iddia": "Hizmet karşılığı verilen toprağa câgîr denir ve bu topraklarla Dîvân-ı Ten ilgilenirdi; doğrudan merkezden idare edilen topraklar ve maaşlar Dîvân-ı Hâlise'ye, ",
       "durum": "OK",
-      "not": "4 atom doğrulandı; 2 ad ölçülemedi"
+      "not": ""
     },
     {
       "anahtar": "k3",
-      "iddia": "Aynı yüzyıllarda batıdaki düzen, İran'da 1501-1736 yılları arasında hüküm süren Safevî hanedanıydı.",
+      "iddia": "Toprak sahipleri belirli sayıda askeri savaşa hazır tutmak zorundaydı; ücretlerini kendileri tespit eder, tutarın yüzde beşini kendilerine ayırır, kalanını aske",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Birincisi askerî erkânın terfi ve tayin işlerini kendi sorumluluğuna alması, ikincisi asker ile sivil arasındaki eski ayrımı kaldırıp sivillere de mansabdâr rüt",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Tamamlayıcısı damga usulüdür: Ekber damgayı sağlam esaslara bağlayarak askerlerin bakmakla yükümlü oldukları at sayısını gerçek rakamlarla tespit ettirdi, fazla",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Ekber ülkeyi sûbe denen eyaletlere ayırdı; sûbedarın yanına yıllık hâsılatı denetleyip hesapları doğrudan kendisine bildiren sivil bir yönetici koydu ve bu maka",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Sûbelerin sayısı on beş ile yirmi arasında değişiyor, her sûbe serkâr denen birimlere, her serkâr pergene denen daha küçük birimlere ayrılıyordu.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Şehirlerde asayişten sorumlu kûtvâlın görevleri arasında giriş çıkışların denetimi, pazar yerlerindeki fiyat kontrolü, ölçü aletlerinin denetimi, çevre temizliğ",
       "durum": "OK",
       "not": ""
     },
     {
       "anahtar": "k1",
-      "iddia": "Hanedanın hükümdar sıralaması, idari düzeni, mimarisi ve din politikası burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları tek bir uzun bölümde işle",
+      "iddia": "Bâbür Hindistan halkının çoğunun Hindu olduğunu yazarken bir de idari gözlem kaydeder: bütün zanaatkârlar, ücretle çalışanlar ve memurlar Hindudur.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "1562'de Câypûr Racası Bhar Mel kızını Ekber'e verdi; TDV maddesi bu evliliğin Racpûtlar başta olmak üzere gayrimüslimlerin devlette görev almasına ve sarayda Or",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Moin'in özeti, Bâbürlü hükümdarlarının en güçlülerinden birkaçının kendilerini yalnızca dünyevi hükümdar değil kutsal varlık olarak da sunduğunu ve din işlerind",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k6",
+      "iddia": "Aynı özet karşılaştırmayı da yapar: Safevîler Hindistan'daki Bâbürlülerden daha az hoşgörülüydü ve İran'ı zorla Şiîleştirdi.",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Enver Konukçu, Ekber'in muhtemelen Hindularla Müslümanlar arasındaki çatışmalara son verme niyetiyle İslâmiyet, Hıristiyanlık, Zerdüştîlik, Hinduizm ve Budizm'i",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k4",
+      "iddia": "Maddede Dîn-i İlâhî'nin kayda değer yanı olarak, kocası ölen kadınların cesetle birlikte diri diri yakılması ve çocukların evlendirilmesi gibi bazı Hindu gelene",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Aynı yasağın idari karşılığı, şehirdeki kûtvâlın görev listesinde durur.",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k5",
+      "iddia": "TDV maddesini yazan Khaliq Ahmad Nizami, Evrengzîb'in sık sık cizye tahakkuk ettirdiği Hindulara adaletsiz davranmakla itham edildiğini yazar; hemen ardından ka",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Faruqui'nin kitabının tanıtım özeti tartışmayı iki uçlu tarif eder: Evrengzîb kimilerince dinî hoşgörüsüzlükle suçlanıp Bâbürlü çöküşü anlatısının merkezine yer",
+      "durum": "ATOMSUZ",
+      "not": "programatik olarak ölçülemedi (ad karşılığı yok): Müslüman"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Curley'in özeti üç konumu üst üste koyar: 20. yüzyıl ortasının Hintli tarihçileri dağılmayı yüksek toprak vergilerine ve köylü ayaklanmalarına ya da hazine üzer",
+      "durum": "OK",
+      "not": "1 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k8",
+      "iddia": "Aynı özet ikinci bir revizyonist savı da kaydeder: sömürge kökenli çöküş ve yozlaşma fikri bir kenara bırakılınca, 18. yüzyıl Bengal'inde hem Müslüman hem Hindu",
+      "durum": "OK",
+      "not": "2 atom doğrulandı; 1 ad ölçülemedi"
+    },
+    {
+      "anahtar": "k3",
+      "iddia": "Bahadır Şah, 1857'de Delhi'de patlak veren ayaklanmaya zoraki ön ayak olduğu için İngilizler tarafından sert biçimde cezalandırıldı, Aralık 1858'de Birmanya'da ",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k7",
+      "iddia": "Pirbhai'nin özeti, devletin kendi arşivinin bulunmamasını ve dönem derlemelerinin Britanya sömürgeciliğiyle oluşmasını İslam hukuku çalışmaları için tarif eder;",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k9",
+      "iddia": "Pirbhai'nin özeti, devletin kendi arşivinin bulunmamasını ve dönem derlemelerinin Britanya sömürgeciliğiyle oluşmasını İslam hukuku çalışmaları için tarif eder;",
+      "durum": "OK",
+      "not": ""
+    },
+    {
+      "anahtar": "k1",
+      "iddia": "Kurucu metne dönüldüğünde geriye daha az gösterişli bir şey kalıyor: yedi yüz arabayı ham deri halatla bağlayan, geldiği ülkeyi beğenmeyen ama servetini sayan, ",
+      "durum": "ATOMSUZ",
+      "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
+    },
+    {
+      "anahtar": "k2",
+      "iddia": "Sonradan taşıyacağı adı, kendi metninde başka bir halk için kullanmıştı.",
       "durum": "ATOMSUZ",
       "not": "denetlenebilir atom yok (yorum/bağlantı cümlesi)"
     }

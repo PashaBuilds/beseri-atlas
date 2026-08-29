@@ -1,26 +1,12 @@
 # Çürütücü raporu — aktor-babur-imparatorlugu
-_2026-08-21T06:42:15.015Z_
+_2026-08-29T19:14:47.788Z_
 
-## İtiraz 1 — [ciddiyet: dusuk] ustunluk-iddiasi
+## Zayıf bulunmayan alanlar
 
-**Cümle:** "Hanedanın kurucusu ve ilk hükümdarı Çağatay Türkleri'nden Bâbür'dür; Bâbür Şah 1526'da Pânîpet Meydan Savaşı'nı kazanarak Lûdî Sultanlığı'nı ortadan kaldırdı ve Bâbürlü hanedanını "
+Programatik tarama, §10'da sayılan yedi zayıflık tipinde (tek kaynaklı
+nedensellik, atıfsız kesinlik dili, üstünlük iddiası, kapsam çarpıtması,
+anakronizm, yetersiz pozisyon, ince kanıt tabanı) itiraz adayı bulamadı.
 
-**Sorun:** "ilk" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
-
-**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
-
-## İtiraz 2 — [ciddiyet: dusuk] ustunluk-iddiasi
-
-**Cümle:** "Bir devletin kuruluşunun tek bir meydan savaşına bağlanabilmesi,[^k1] o savaşın öncesindeki siyasi yapının kırılganlığını da anlatır: mevcut sultanlık, bir yenilgiyi taşıyamamıştır"
-
-**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
-
-**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
-
-## İtiraz 3 — [ciddiyet: dusuk] ustunluk-iddiasi
-
-**Cümle:** "Hanedanın hükümdar sıralaması, idari düzeni, mimarisi ve din politikası burada ayrı başlıklar altında ele alınmamıştır; kaynak bunları tek bir uzun bölümde işler.[^k1] Dönemin bütü"
-
-**Sorun:** "tek" türü öncelik/üstünlük iddiası atıf çerçevesi olmadan.
-
-**Öneri:** Kaynağın bu nitelemeyi yapıp yapmadığını doğrula; yapmıyorsa kaldır.
+Bu, makalenin doğru olduğu anlamına gelmez; bu yedi kalıptan hiçbirinin
+tetiklenmediği anlamına gelir. Sayısal ve ad düzeyindeki doğrulama Geçiş 2,
+bağımsız yeniden türetme Geçiş 4 raporlarındadır.

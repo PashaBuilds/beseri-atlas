@@ -1,0 +1,503 @@
+{
+  "id": "aktor-babur-imparatorlugu",
+  "govde_hash": "c6aba2fbbaa6",
+  "commit": "f403bfb",
+  "zaman": "2026-08-29T19:12:46.681Z",
+  "hakem": "kor-hakem-2026-08-29",
+  "iddialar": [
+    {
+      "iddia_id": "i01",
+      "cumle": "Kurucu metin olan Bâbürnâme'de Mughūl sözcüğü başka bir topluluğu gösterir: Bâbür, anne tarafından dedesi Yûnus Han'ı, Cengiz Han'ın ikinci oğlu Çağatay Han'ın yurdunda oturan Mughūlların hanı diye tanıtır.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gutenberg tam metninde (2.695.578 karakter, --tam) birebir: 'my grandfather, Yunas Khan, the then Khan of the Mughuls in the camping ground (yurt) of his ancestor, Chaghatai Khan, the second son of Chingiz Khan'. Yunus Han metinde Umar Seyh Mirza'nin kayinpederidir; 'anne tarafindan dede' dogru. Dosyanin adlandirma tezinin tasiyici iddiasi budur."
+    },
+    {
+      "iddia_id": "i02",
+      "cumle": "Ad bugün de tek başına bırakılmıyor; Moin'in bölümü düzeni Bâbürlü ya da Timurlu imparatorluğu diye anar, Türkçe ansiklopedi maddesi ise Bâbürlüler adını kullanıp Moğol sözcüğünü başka bir halk için saklar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "k6 ozetinde ikili adlandirma birebir gecer: 'the Mughal (or Timurid) Empire'. k3'te adlandirma TARTISILMAZ; madde hanedani Baburluler diye anar ve 'Mogollar'i Hindal'in savastigi baska bir halk icin kullanir — destek maddenin kullanimindan cikarilir, bir beyanindan degil, bu yuzden kismi."
+    },
+    {
+      "iddia_id": "i03",
+      "cumle": "Bu düzeni okumanın bir yolu, kapladığı alana değil defterine bakmaktır: rütbe maiyetteki süvari sayısıyla ölçülür, gelir hizmet karşılığı verilen toprakla ödenir, meşruiyet ise tek bir mezhebe değil hükümdarın bütün mezheplerin üstünde kutsal bir konum iddiasına bağlanır.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        },
+        {
+          "anahtar": "k6",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Cerceve cumlesi. Rutbe-suvari ve cagir baglantisi k3'te, kutsal konum iddiasi k6 ozetinde birebir var; 'kapladigi alana degil defterine bakmak' ile 'sayica kucuk ve baska dil konusan seckin' ifadeleri kaynaklarda yok. Onarim govdesi bunu kaynaklara yikiyordu; hakem gecisinde dipnotlar tasidiklari parcalara ayrildi ve sentez oldugu metinde beyan edildi."
+    },
+    {
+      "iddia_id": "i04",
+      "cumle": "Pirbhai'nin özeti, Bâbürlü devletinden bir devlet arşivi kalmamasını ve dönem derlemelerinin Britanya sömürgeciliğiyle birlikte oluşmuş olmasını, İslam hukuku çalışmalarındaki boşluğun iki nedeninden biri sayar; ikincisi Güney Asya tarihçilerinin yaklaşımıdır.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Crossref ozetinde birebir: 'two factors are primarily responsible: 1) the qualitative and quantitative paucity of extant documentation as a consequence of no Mughal state archives and the fact that contemporary collections originated with British colonialism; 2) the approach too often taken by historians of South Asia.' Govde birinci etkeni 'belge kitligi' yerine dogrudan nedenleriyle veriyor — kucuk sadelestirme. Ozetin kapsami Islam hukuku calismalaridir ve govde bu siniri koruyor."
+    },
+    {
+      "iddia_id": "i05",
+      "cumle": "Kuruluş tek bir meydan savaşına bağlanır: Bâbür 1526'da Pânîpet'te Lûdî Sultanlığı'nı ortadan kaldırdı, ertesi yıl Kânvâ'da Racpûtları yenerek Hindistan'daki konumunu sağlamlaştırdı.",
+      "onem": "merkezi",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "TDV maddesinde birebir: 1526 Panipet, Ludi Sultanligi'nin ortadan kaldirilmasi, Mart 1527 Kanva, Racputlarin maglubiyeti. Maddenin ifadesi 'Baburluler'in Hindistan'daki hakimiyetini iyice saglamlastirdi'; govde bunu 'Hindistan'daki konumunu' diye daraltiyor — anlam degismiyor."
+    },
+    {
+      "iddia_id": "i06",
+      "cumle": "Ustad Ali-kulî'ye verilen emir, arabaların Osmanlı usulünce birbirine bağlanması, ancak zincir yerine ham deri halat kullanılmasıdır; her iki araba arasına beşer altışar siper yerleştirilecek, tüfekliler bunların arkasından ateş edecektir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Cilt II tam metninde (1.132.054 karakter, --tam) birebir: 'these carts should be joined together in Ottoman fashion, but using ropes of raw hide instead of chains, and that between every two carts 5 or 6 mantelets should be fixed, behind which the matchlockmen were to stand to fire.' Ayni sayfada dipnotsuz gecen 'yedi yuz araba' ve 'ordu sayildiginda tahminin altinda kaldi' de dogrulandi: 'the army was numbered; it did not count up to what had been estimated... Seven hundred carts (araba) were brought in.'"
+    },
+    {
+      "iddia_id": "i07",
+      "cumle": "Erskine arabaları top arabası diye çevirmişti; Beveridge, Bâbür'ün elinde top bulunduğunu varsaymak için ne metinde ne koşullarda dayanak olduğu itirazını koyar ve arabaların ordunun yük arabaları olabileceğini söyler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Beveridge'in dipnotu birebir: 'these araba may have been the baggage-carts of the army and also carts procured on the spot... there is no textual or circumstantial warrant for supposing Babur to have had guns'. Bu bir CEVIRMEN katmanidir, Babur'un kendi sozu degil; govde Beveridge'i adiyla anarak aktarim halkasini gosteriyor. Barut imparatorluklari kategorisine karsi kaynagin kendi cekincesi dusurulmemis."
+    },
+    {
+      "iddia_id": "i08",
+      "cumle": "Ardından maddi eksikler gelir: iyi at ve köpekten üzüm, kavun ve iyi meyveye, buz ve soğuk sudan çarşıdaki iyi ekmeğe, hamamdan medreseye ve mumdan şamdana kadar.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin listesi once insanlara sonra maddi eksiklere gider: 'its people have no good looks; of social intercourse... none; of genius and capacity none; of manners none; in handicraft and work there is no form or symmetry, method or quality; there are no good horses, no good dogs, no grapes, musk-melons or first-rate fruits, no ice or cold water, no good bread or cooked food in the bazars, no hot-baths, no colleges, no candles, torches or candlesticks.' Onarim govdesi yalniz maddi yariyi veriyordu — bu, fatihin hukmunu yumusatan sessiz bir liste kirpmasiydi; hakem gecisinde listenin ilk yarisi geri kondu."
+    },
+    {
+      "iddia_id": "i09",
+      "cumle": "Aynı bölümde ülkenin zenginliğini de kaydeder: yüz bini lak, yüz lakı krûr, yüz krûru arb diye adlandırıp daha da yukarı çıkan Hint sayı düzenini, Hindistan'daki servetin büyüklüğünün kanıtı sayar.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: '100,000 they call a lak; 100 laks, a krur; 100 krurs, an arb' ve 'The fixing of such high reckonings as these is proof of the great amount of wealth in Hindustan.'"
+    },
+    {
+      "iddia_id": "i10",
+      "cumle": "Ölçek farkı kendi kayıtlarında görünür — Fergana'nın gelirinin, adaletle davranılırsa üç dört bin adamı besleyebileceğini yazmıştı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Gutenberg tam metninde birebir: 'If people do justly, three or four thousand men may be maintained by the revenues of Farghana.' denetle.mjs bu satiri ATOMSUZ sayiyor (Fergana icin ad karsiligi bulamiyor); bu bir arac sinirlamasidir, olcum sonucu degil."
+    },
+    {
+      "iddia_id": "i11",
+      "cumle": "Bâbürnâme'yi 1826'da yayımlayan Erskine, Bâbür'ün Hindistan gelirinin sterlin karşılığını yaklaşık bir buçuk milyon olarak tahmin etmiş; 1854'te Hint para değerleri üzerine daha fazla araştırma yaptıktan sonra aynı geliri 4.212.000 sterlin diye yeniden hesaplamıştı.",
+      "onem": "merkezi",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "denetle.mjs bu satira ISARET koydu (4.212.000 400k onbellek penceresinde yok). --tam ile tam metinde Beveridge'in dipnotu bulundu: 'When Erskine published the Memoirs in 1826 ad. he estimated this sum at 1 1/2 millions Sterling, but when he published his History of India in 1854, he had made further research into the problem of Indian money values, and judged then that Babur's revenue was £4,212,000' (OCR'de '£ 4, 2 12,000'). Dipnot 'Revenues of Hindustan' bolumune baglidir, yani 'Hindistan geliri' dogru. ISARET arac sinirindan doguyor; iddia dogrulandi."
+    },
+    {
+      "iddia_id": "i12",
+      "cumle": "Orduyu yöneten kumandanlara mansabdâr denir; heft hezârî, penç hezârî, deh başı gibi adlarla belirli sayıdaki askerin kumandanı sayılır, hem Türkçe hem Farsça unvan taşırlardı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'Askeri idare eden kumandanlara bey karsiligi olarak mansabdar denilirdi. Bunlar heft hezari, penc hezari ve deh basi adlariyla belirli sayidaki askerin kumandani durumundaydilar. Mansabdarlar hem Turkce hem de Farsca unvanlar kullanmislardi.' Kunye dogrulama dizesi de bu satirdan geliyor."
+    },
+    {
+      "iddia_id": "i13",
+      "cumle": "Hizmet karşılığı verilen toprağa câgîr denir ve bu topraklarla Dîvân-ı Ten ilgilenirdi; doğrudan merkezden idare edilen topraklar ve maaşlar Dîvân-ı Hâlise'ye, ordunun malî ve idarî işleri mîr bahşıya, vakıflar ve zekât sadrü's-sudûra bağlıydı.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'Divan-i Halise dogrudan merkezden idare edilen topraklar ve maas isleriyle, Divan-i Ten ise cagir denilen ve hizmet karsiligi verilen topraklarla mesgul olurdu. Ordunun mali ve idari islerinden sorumlu olan memura mir bahsi adi verilirdi... din islerine sadru's-sudur bakardi ve ulkedeki vakiflarla zekat ve hayir islerini yurutmek onun baslica gorevi idi.' Govde 'din isleri' ve 'hayir isleri' ogelerini dusuruyor — anlam tasiyan bir kirpma degil, ama tam liste kaynaktadir."
+    },
+    {
+      "iddia_id": "i14",
+      "cumle": "Toprak sahipleri belirli sayıda askeri savaşa hazır tutmak zorundaydı; ücretlerini kendileri tespit eder, tutarın yüzde beşini kendilerine ayırır, kalanını askerî hizmete harcarlardı.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kaynak iki ayri cumle kurar: 'Timar sahipleri belirli sayida askere bakmak ve onlari savasa hazir bulundurmak mecburiyetindeydiler' ve 'Timar sahibi ve kumandanlar ucretlerini kendileri tesbit ederler, bunun %5 tutarini kendilerine ayirirlar, geri kalanini da askeri hizmetlere harcarlardi.' Govde ikisini 'toprak sahipleri' altinda birlestiriyor ve ikinci cumledeki 'kumandanlar' oznesini dusuruyor; yuzde bes rakami ve harcama kuralı birebir. Ozne genislemesi yuzunden kismi."
+    },
+    {
+      "iddia_id": "i15",
+      "cumle": "Birincisi askerî erkânın terfi ve tayin işlerini kendi sorumluluğuna alması, ikincisi asker ile sivil arasındaki eski ayrımı kaldırıp sivillere de mansabdâr rütbesi vermesidir; böylece rütbe ve yetki maiyetteki süvari sayısıyla orantılı hâle gelir.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'Bunlardan biri, askeri erkanin terfi ve tayin islerini kendi sorumluluguna almasi, digeri ise asker ve sivil arasindaki eski geleneklere dayanan ayirimi ortadan kaldirarak sivillere de mansabdar rutbesi vermesidir ki boylece asker ve siviller, maiyetlerindeki suvari sayisiyla orantili rutbe ve yetkilere sahip olmuslardir.'"
+    },
+    {
+      "iddia_id": "i16",
+      "cumle": "Tamamlayıcısı damga usulüdür: Ekber damgayı sağlam esaslara bağlayarak askerlerin bakmakla yükümlü oldukları at sayısını gerçek rakamlarla tespit ettirdi, fazla tahsisat almalarını önledi ve maddenin kaydına göre bu yolla hazineye önemli bir gelir sağladı.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'damga usulunu saglam esaslara bagladi. Bu sayede askerlerin bakmakla yukumlu olduklari at sayisini gercek rakamlarla tesbit ettirerek fazla tahsisat almalarini onledi ve bu yolla hazineye onemli bir gelir temin etti.' Govde 'maddenin kaydina gore' diyerek olculmemis 'onemli gelir' ifadesini kaynaga birakiyor — dogru cerceve."
+    },
+    {
+      "iddia_id": "i17",
+      "cumle": "Ekber ülkeyi sûbe denen eyaletlere ayırdı; sûbedarın yanına yıllık hâsılatı denetleyip hesapları doğrudan kendisine bildiren sivil bir yönetici koydu ve bu makamın suistimalini önlemek için gizli bir haber alma teşkilatı kurdu.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'Ekber Sah bu topraklari sube denilen eyaletlere ayirdi. Subedarin yaninda yillik hasilati kontrol eden ve bununla ilgili hesaplari hazirlayarak dogrudan kendisine bilgi veren sivil bir yonetici gorevlendirdi; bu makamin suistimalini onlemek icin de gizli bir haber alma teskilati kurdu.'"
+    },
+    {
+      "iddia_id": "i18",
+      "cumle": "Sûbelerin sayısı on beş ile yirmi arasında değişiyor, her sûbe serkâr denen birimlere, her serkâr pergene denen daha küçük birimlere ayrılıyordu.",
+      "onem": "destek",
+      "tur": "sayi",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'bunlarin sayilari on bes yirmi arasinda degisiyordu... Subeler serkar denilen kazalara bolunmustu, idarecisi ise fevcdar idi. Her serkar pergene adi verilen nahiyelere ayrilmisti.' Govde kaza/nahiye karsiliklarini 'birim' diye notrlestiriyor; carpitma degil."
+    },
+    {
+      "iddia_id": "i19",
+      "cumle": "Şehirlerde asayişten sorumlu kûtvâlın görevleri arasında giriş çıkışların denetimi, pazar yerlerindeki fiyat kontrolü, ölçü aletlerinin denetimi, çevre temizliği ve Hindu kadınların yakılmasının önlenmesi sayılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kaynagin bes ogesinin besi de govdede: 'Giris cikislari kontrol etmeleri yaninda pazar yerlerindeki fiyat kontrolleri, olcu aletlerinin denetimi, cevre temizligi ve Hindu kadinlarin yakilmasini onlemek baslica gorevleriydi.' Liste kirpmasi yok."
+    },
+    {
+      "iddia_id": "i20",
+      "cumle": "Bâbür Hindistan halkının çoğunun Hindu olduğunu yazarken bir de idari gözlem kaydeder: bütün zanaatkârlar, ücretle çalışanlar ve memurlar Hindudur.",
+      "onem": "merkezi",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Kunye dogrulama dizesi burada: 'All artisans, wage-earners, and officials are Hindus.' Ayni pasajda 'Most of the inhabitants of Hindustan are pagans; they call a pagan a Hindu.' Govde 'pagan/kafir' hukmunu 'Hindu' diye yumusatiyor; fatihin kendi dilindeki asagilama burada aktarilmiyor, ama bir sonraki paragrafta ulke hukmu tam veriliyor."
+    },
+    {
+      "iddia_id": "i21",
+      "cumle": "1562'de Câypûr Racası Bhar Mel kızını Ekber'e verdi; TDV maddesi bu evliliğin Racpûtlar başta olmak üzere gayrimüslimlerin devlette görev almasına ve sarayda Orta Asya kökenlilerden çok Hinduların istihdam edilmesine yol açtığını yazar.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'Caypur Racasi Bhar Mel 1562'de Ekber Sah'a itaat arzederek kizini ona verdi... Bu evlilik, Racputlar basta olmak uzere gayri muslimlerin Baburlu Devleti'nde gorev almalarina ve sarayda Orta Asya menselilerden cok Hindular'in istihdam edilmesine yol acti.' Ad yazimi kaynaktakiyle ayni (Bhar Mel); hayalet ad yok."
+    },
+    {
+      "iddia_id": "i22",
+      "cumle": "Moin'in özeti, Bâbürlü hükümdarlarının en güçlülerinden birkaçının kendilerini yalnızca dünyevi hükümdar değil kutsal varlık olarak da sunduğunu ve din işlerinde yetki iddia ettiğini söyler; Ekber bunu birinci İslam bininin dönümüne yakın bir tarihte manevi efendiliğini alenen ilan ederek kurumsallaştırmış, bütün din ve mezhepleri sulh-ı küll adı verilen evrensel barış altında korumuştur.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozette birebir: 'several of its most powerful rulers styled themselves not only as temporal sovereigns but also as sacred beings, and claimed authority over matters of religion. This aspect... was institutionalized by Emperor Akbar when he publicly proclaimed his spiritual lordship close to the turn of the first Islamic millennium and protected all religions and sects under a universal peace (sulh-i kull).' Onarim govdesi 'en guclulerinden' kaydini dusurmustu, hakem gecisinde geri kondu. curut.mjs bu paragrafa 'kapsam-carpitmasi' itirazi yazdi; itiraz REDDEDILDI — 'evrensel baris' kaynagin kendi teriminin cevirisidir, kuresel kapsam iddiasi degil."
+    },
+    {
+      "iddia_id": "i23",
+      "cumle": "Aynı özet karşılaştırmayı da yapar: Safevîler Hindistan'daki Bâbürlülerden daha az hoşgörülüydü ve İran'ı zorla Şiîleştirdi.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k6",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'Less tolerant than the Mughals in India, the Safavids forcibly converted Iran to Shi'ism.' Onarim govdesi 'in India' kaydini dusurmustu; hakem gecisinde 'Hindistan'daki Baburluler' diye geri kondu."
+    },
+    {
+      "iddia_id": "i24",
+      "cumle": "Enver Konukçu, Ekber'in muhtemelen Hindularla Müslümanlar arasındaki çatışmalara son verme niyetiyle İslâmiyet, Hıristiyanlık, Zerdüştîlik, Hinduizm ve Budizm'in meziyet saydığı ilkeleri birleştirerek Dîn-i İlâhî adıyla yeni bir din kurduğunu yazar; maddenin kendi kaydına göre bu dinin taraftar sayısı hiçbir zaman yirmiyi aşmamış, hükümdarın 1579'da kendisini ilahi mertebeye yücelten bir hutbe okuması ise Müslümanların tepkisini çekmiştir.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'Ekber Sah, muhtemelen Hindular'la muslumanlar arasindaki catismalara son vermek niyetiyle Islamiyet, Hiristiyanlik, Zerdustilik, Hinduizm, Budizm gibi cesitli din ve inanc sistemlerinin meziyet olarak kabul ettigi prensiplerini birlestirerek Din-i Ilahi adiyla yeni bir din kurmustur' ve 'sayilari hicbir zaman yirmiyi asmayan taraftar' ve 9 Mayis 1579 hutbesi. Onarim govdesi bes inanc sistemini 'cesitli din ve inanc sistemleri' diye kirpiyordu; hakem gecisinde liste geri kondu. Din-i Ilahi'yi kurulmus bir din sayan cerceve maddenin kendi yorumudur ve govde bunu boyle isaretliyor."
+    },
+    {
+      "iddia_id": "i25",
+      "cumle": "Maddede Dîn-i İlâhî'nin kayda değer yanı olarak, kocası ölen kadınların cesetle birlikte diri diri yakılması ve çocukların evlendirilmesi gibi bazı Hindu geleneklerinin yasaklanması sayılır.",
+      "onem": "destek",
+      "tur": "olgu",
+      "kaynaklar": [
+        {
+          "anahtar": "k4",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'Bu yeni dinin kayda deger tarafi, kocasi olen kadinlarin kocalarinin cesediyle birlikte diri diri yakilmasi ve cocuklarin evlendirilmesi gibi bazi Hindu geleneklerini yasaklamis olmasidir.' Onarim govdesi 'bazi Hindu gelenekleri' cercevesini dusurmustu; paragrafin savi tam bu cerceveye dayandigi icin hakem gecisinde geri kondu."
+    },
+    {
+      "iddia_id": "i26",
+      "cumle": "Aynı yasağın idari karşılığı, şehirdeki kûtvâlın görev listesinde durur.",
+      "onem": "renk",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "baglam"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Sus dipnotu degil ama dogrudan destek de degil: k3 kutvalin gorev listesini tasir (iddia i19) ve o listede Hindu kadinlarin yakilmasinin onlenmesi gecer; bu cumle iki kaydi birbirine baglayan yazar hamlesidir. Kaynak 'ayni yasagin idari karsiligi' diye bir sey soylemez — 'baglam' olarak isaretlendi ve iddia RENK sayildi."
+    },
+    {
+      "iddia_id": "i27",
+      "cumle": "TDV maddesini yazan Khaliq Ahmad Nizami, Evrengzîb'in sık sık cizye tahakkuk ettirdiği Hindulara adaletsiz davranmakla itham edildiğini yazar; hemen ardından kaynakların genelde bu verginin sadece kâğıt üzerinde kaldığını ve çok defa toplanamadığını bildirdiğini ekler, bazı fermanların onun Hindu mabetlerine bağışta bulunduğunu gösterdiğini de söyler.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k5",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'Evrengzib, sik sik cizye tahakkuk ettirdigi Hindular'a adaletsiz davranmakla itham edilmistir. Fakat kaynaklar genelde bu verginin sadece kagit uzerinde kaldigini ve cok defa toplanamadigini bildirmektedir. Evrengzib'in bazi fermanlari onun Hindu mabedlerine bagista bulundugunu gostermektedir.' Govde bunu maddenin SAVUNMASI diye isaretliyor — dogru. Maddenin kendisi de 'Evrengzib'in tarihteki rolu ve karakteri uzerinde farkli degerlendirmeler yapilagelmistir' der; gizlenen tartisma yok. Kaynakta 1679 yili ve mabet yikimi GECMIYOR — govde bu bosluğu artik acikca beyan ediyor."
+    },
+    {
+      "iddia_id": "i28",
+      "cumle": "Faruqui'nin kitabının tanıtım özeti tartışmayı iki uçlu tarif eder: Evrengzîb kimilerince dinî hoşgörüsüzlükle suçlanıp Bâbürlü çöküşü anlatısının merkezine yerleştirilir, kimilerince büyük bir Müslüman kahraman sayılır; kitap bu basitleştirmelerin ikisine de karşı çıkar.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Yayincinin tanitim ozetinde birebir: 'castigated for religious intolerance and placed at the centre of a narrative of Mughal decline by some; considered a great Muslim hero by others... Faruqui contests such simplistic understandings'. Bu bir TANITIM metnidir; yazarin kaniti bu kanaldan okunamaz ve kunye notu bunu beyan ediyor. Ozet 'by some' der — govde de 'kimilerince' diyerek genelleme yapmiyor."
+    },
+    {
+      "iddia_id": "i29",
+      "cumle": "Curley'in özeti üç konumu üst üste koyar: 20. yüzyıl ortasının Hintli tarihçileri dağılmayı yüksek toprak vergilerine ve köylü ayaklanmalarına ya da hazine üzerindeki taleplerin denetimsiz büyümesine bağlıyordu; sonraki revizyonist tarih, birçok özerk bölgesel devletin malî krizden değil canlanan bölgesel iktisatlardan doğduğunu savundu; buna karşı çıkanlar ise Bengal'in eski rejim tarım iktisadında büyümenin önünde sistemik engeller bulunduğunu ileri sürer.",
+      "onem": "merkezi",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Ozetin uc konumu birebir: 'Mid-twentieth-century Indian historians blamed the break-up... on high land taxes and peasant rebellions or the unchecked growth in claims on the imperial treasury. Later revisionist history has argued that many autonomous regional states emerged in the context of newly buoyant regional economies rather than in fiscal crisis... Counterarguments suggest systemic barriers to growth in the larger context of Bengal's old regime agrarian economy.' Govde ortadaki halkayi (Hollanda ve Ingiliz tekstil ihracatinin uyarici sayilmasi) atliyor; savin yonu degismiyor. Cokusun tek nedene indirgenmedigi, uc konumun ust uste konmasiyla saglaniyor."
+    },
+    {
+      "iddia_id": "i30",
+      "cumle": "Aynı özet ikinci bir revizyonist savı da kaydeder: sömürge kökenli çöküş ve yozlaşma fikri bir kenara bırakılınca, 18. yüzyıl Bengal'inde hem Müslüman hem Hindu dinî kimliklerinin yaratıcı ve karşılıklı bir süreçte pekiştiği görülür.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k8",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'A second revisionist argument discards the colonial idea of decadence. Using vernacular histories and literature, historians have argued that in eighteenth-century Bengal both Muslim and Hindu religious identities were being consolidated in a creative and dialogic process.' Govde kaynagin tirnaklarini (Musluman/Hindu kimliklerinin insa edilmisligine isaret eden) dusuruyor; kucuk bir sertlestirme."
+    },
+    {
+      "iddia_id": "i31",
+      "cumle": "Bahadır Şah, 1857'de Delhi'de patlak veren ayaklanmaya zoraki ön ayak olduğu için İngilizler tarafından sert biçimde cezalandırıldı, Aralık 1858'de Birmanya'da Rangun'a sürüldü ve 1862'de orada öldü.",
+      "onem": "destek",
+      "tur": "tarih",
+      "kaynaklar": [
+        {
+          "anahtar": "k3",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Birebir: 'Bahadir Sah 1857'de Delhi'de patlak veren ayaklanmaya zoraki on ayak oldugu icin Ingilizler tarafindan sert bir sekilde cezalandirildi. Aralik 1858'de Birmanya'ya Rangun'a suruldu ve 6 Kasim 1862'de orada oldu.' Onarim govdesi failı ('Ingilizler tarafindan') dusurmustu ve 1837-1858'i 'hukum surdugu yillar' diye veriyordu; kaynak bu tarihleri 'ulkede Baburluler'in eski buyuklugunden hicbir eser kalmamisti' cumlesine baglar. Ikisi de hakem gecisinde duzeltildi."
+    },
+    {
+      "iddia_id": "i32",
+      "cumle": "Pirbhai'nin özeti, devletin kendi arşivinin bulunmamasını ve dönem derlemelerinin Britanya sömürgeciliğiyle oluşmasını İslam hukuku çalışmaları için tarif eder; Faruqui'nin özeti ise Evrengzîb okumasının iki ucunun bugün de canlı olduğunu bildirir.",
+      "onem": "destek",
+      "tur": "aktarim",
+      "kaynaklar": [
+        {
+          "anahtar": "k7",
+          "destek": "dogrudan"
+        },
+        {
+          "anahtar": "k9",
+          "destek": "dogrudan"
+        }
+      ],
+      "guven": "yuksek",
+      "inceleme": "Iki ozet de kendi payina birebir tasir (bkz. i04 ve i28). Onarim govdesi bu iki kaydi 'bugun yerlesik olan goruntu ... urunudur' diye tek bir nedensel iddiaya bagliyor ve bunu kaynaklara yikiyordu; hakem gecisinde iddia iki atifa bolundu ve genellemenin dosyaya ait bir cikarim oldugu ayri bir cumlede beyan edildi."
+    },
+    {
+      "iddia_id": "i33",
+      "cumle": "Kurucu metne dönüldüğünde geriye daha az gösterişli bir şey kalıyor: yedi yüz arabayı ham deri halatla bağlayan, geldiği ülkeyi beğenmeyen ama servetini sayan, kaydı ve tahsilatı zaten yürüten bir kadronun üstüne oturan bir askerî seçkin.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k1",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Kapanis ozeti; her ogesi govdede ayri ayri k1'e baglanmis durumda (yedi yuz araba ve ham deri halat, 'a country of few charms', 'proof of the great amount of wealth', 'All artisans, wage-earners, and officials are Hindus'). Yeni iddia tasimadigi icin kismi; cerceve paragrafi kurali geregi dipnot zaten kaynaklanmis olgulari gosteriyor."
+    },
+    {
+      "iddia_id": "i34",
+      "cumle": "Sonradan taşıyacağı adı, kendi metninde başka bir halk için kullanmıştı.",
+      "onem": "destek",
+      "tur": "yorum",
+      "kaynaklar": [
+        {
+          "anahtar": "k2",
+          "destek": "kismi"
+        }
+      ],
+      "guven": "orta",
+      "inceleme": "Onarim govdesinde bu cumle 'Adini bile kendisi koymamisti' idi — kaynagin tasimadigi bir cikarim (hicbir kunye adin sonradan nasil yerlestigini soylemez). Hakem gecisinde kaynagin tasidigina indirildi: Babur, Mughul adini kendi metninde annesinin halki icin kullanir (i01). Acilis paragrafi da ayni sekilde duzeltildi."
+    }
+  ],
+  "sayaclar": {
+    "dogrudan": 29,
+    "kismi": 4,
+    "desteksiz": 0,
+    "olculemez": 1
+  }
+}

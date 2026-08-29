@@ -106,7 +106,13 @@ export function itirazAdaylari(m) {
       // "kapsam-carpitmasi" itirazi uretiyordu.
       .replace(/Dünya\s+(Bankası|Sağlık\s+Örgütü|Ticaret\s+Örgütü|Gıda\s+Programı|Ekonomik\s+Forumu|Kupası|Mirası)\w*/gi, ' ')
       .replace(/Dünya\s+Değerler\s+Araştırması/gi, ' ');
-    if (KAPSAM.test(kapsamTemiz) && Array.isArray(m.fm.bolge)
+    // ATIF CERCEVESI MUAFIYETI (2026-08-29 hakem bulgusu): bir cumle
+    // kaynaga acikca atfediliyorsa (YUMUSATMA kaliplari) icindeki
+    // "evrensel/kuresel" sozcugu makalenin kendi kapsam iddiasi degil,
+    // KAYNAGIN KENDI TERIMIDIR. Ornek: Ekber'in "sulh-i kull" siyaseti
+    // icin kaynagin kullandigi "universal peace" ifadesinin cevirisi
+    // bolgesel bir makalede sahte kapsam-carpitmasi itirazi uretiyordu.
+    if (KAPSAM.test(kapsamTemiz) && !YUMUSATMA.test(t) && Array.isArray(m.fm.bolge)
         && !m.fm.bolge.includes('kuresel') && m.fm.bolge.length <= 2) {
       ekle('orta', 'kapsam-carpitmasi', t,
         `Makale ${m.fm.bolge.join('/')} kapsamlı ama cümle küresel/evrensel dil kullanıyor.`,
