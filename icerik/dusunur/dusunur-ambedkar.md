@@ -6,7 +6,7 @@ ozet: >-
   Dışlandığı düzenin kurucu metnini yazan hukukçu; atlasta bir toplumsal
   kuralın, onu değiştiremeyenler tarafından sınanması gerektiği
   ölçütünün örneği.
-donem: "15"
+donem: "14"
 tarih_baslangic: "1891"
 tarih_bitis: "1956"
 bolge: [guney-asya, avrupa, amerika]
@@ -14,7 +14,7 @@ eksen: [siyasi, felsefi, kulturel, ekonomik, dini]
 guven_geneli: yaygin
 etiketler: [ambedkar, kast, anayasa, hindistan, temsil, esitlik]
 ilgili:
-  - donem-15
+  - donem-14
   - kavram-kast
   - kaynak-hindistan-anayasasi
   - dusunur-gandhi

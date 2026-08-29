@@ -6,7 +6,7 @@ ozet: >-
   Bir kralın kişisel mülkü olarak yönetilen ve adında "serbest" geçen
   düzen; atlasta bir adın hangi itirazları karşılamak üzere seçildiğinin
   örneği.
-donem: "13"
+donem: "12"
 tarih_baslangic: "1885"
 tarih_bitis: "1908"
 bolge: [afrika, avrupa]
@@ -14,7 +14,7 @@ eksen: [siyasi, ekonomik, demografik, askeri]
 guven_geneli: yaygin
 etiketler: [kongo, kaucuk, kota, konsolosluk-raporu, somurge-idaresi]
 ilgili:
-  - donem-13
+  - donem-12
   - olay-berlin-konferansi
   - aktor-kongo-kralligi
   - kavram-zorunlu-emek-duzeni

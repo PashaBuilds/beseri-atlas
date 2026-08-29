@@ -34,10 +34,9 @@ ilgili:
   - kaynak-tooze-felaketin-bedeli
   - aktor-nauru
   - kavram-pasifik-isci-toplama
-  - olay-rus-turkistan-fethi
   - kavram-pamuk-tek-urun
-  - olay-kongo-serbest-devleti
-  - olay-herero-nama-1904
+  - olay-bengal-kitligi-1943
+  - dusunur-gandhi
 okuma_onerisi:
   - kaynak-clark-uyurgezerler
 serit:

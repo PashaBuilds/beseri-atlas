@@ -19,8 +19,8 @@ neden_onemli: >
   okunacağına dair bu genel soruya yaslanır; bugünün iklim kaygısı da geçmiş
   okumalarını görünür biçimde etkiler.
 donem: "02"
-tarih_baslangic: "1915"
-tarih_bitis: "2026"
+tarih_baslangic: "-2200"
+tarih_bitis: "-2100"
 bolge: [kuresel]
 eksen: [demografik, ekonomik, kulturel, siyasi]
 guven_geneli: tartismali

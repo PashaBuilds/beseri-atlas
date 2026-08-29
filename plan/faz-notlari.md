@@ -4821,3 +4821,54 @@ olduğunu da ölçtü: gövdede dipnotsuz kalmış dokuz olgusal pasaj vardı ve
 KAPI 2 bunları görmüyordu (her paragrafta en az bir dipnot olduğu için).
 Sekizi kaynağa bağlandı, biri gövdeden çıkarıldı; matris 25'ten 38 iddiaya
 çıktı.
+
+### Çapraz tutarlılık geçişi (Geçiş 5) koşturuldu
+
+64 makale yeniden yazıldıktan sonra `araclar/capraz-kontrol.mjs`
+koşturuldu: 87 çelişki, 135 incelenecek ayrışma. Sonuç iki sınıfa
+ayrıldı.
+
+**Gerçek borç:** tek yönlü `ilgili` bağları. Hub kuralı (hedefin mevcut
+bağ sayısı 20'nin altındaysa geri bağ eklenir) uygulanabilir olan 19
+tanesi kapatıldı; çelişki 87'den 68'e indi. Kalanların 50'si hâlâ
+onarımda olan dosyalarda, 9'u hub sayfalarda.
+
+**Araç yanlış pozitifi:** "varlık-yıl ayrışması" sınıfı, aynı kişinin
+farklı eserleriyle farklı yıllarda anılmasını çelişki sanıyor. İki
+örneği elle sınadım, ikisi de doğruydu: V. Gordon Childe'ın 1928'i
+*The Most Ancient East*, 1936'sı *Man Makes Himself*; Jaspers'ın 1949'u
+Almanca özgün, 1953'ü İngilizce çeviri. Ayrıca "Avrupa", "İngilizce"
+gibi özel ad olmayan sözcükler de varlık sayılıyor ve gürültünün büyük
+bölümünü onlar üretiyor. Sınıf zaten "İNCELE" etiketli (hata değil), o
+yüzden araca dokunulmadı — ama raporda bu oranın ne anlama geldiği
+yazılmalı: 135 ayrışmanın çoğu çelişki değil, aynı kişinin iki ayrı
+eseridir.
+
+### Dokuz dönem ataması hatası (çapraz tutarlılık geçişinin bulduğu)
+
+Berlin Duvarı dosyasında bulunan hatanın aynısı sekiz dosyada daha vardı;
+üstelik çoğu en son eklenen makalelerdi:
+
+| Dosya | Yanlış | Doğru | Gerekçe |
+|---|---|---|---|
+| olay-bengal-kitligi-1943 | 15 (1991-2008) | 13 | olay 1943-44 |
+| olay-cezayir-savasi | 16 (2008-) | 14 | 1954-62 |
+| olay-herero-nama-1904 | 13 (1914-45) | 12 | 1904-08 |
+| olay-kongo-serbest-devleti | 13 | 12 | 1885-1908 |
+| olay-rus-turkistan-fethi | 13 | 12 | 1853-95 |
+| dusunur-ambedkar | 15 | 14 | anayasa 1947-50 |
+| dusunur-gandhi | 15 | 13 | etkin dönem 1915-48 |
+| dusunur-ulug-bey | 09 (1500-1650) | 08 | 1394-1449 |
+
+Dokuzuncusu farklı bir hata sınıfıydı: `tartisma-iklim-ve-cokus`
+kendini 1915-2026 diye tarihlendiriyordu — yani ARAŞTIRMANIN dönemine
+göre. Öteki tartışmalar (Roma'nın çöküşü 376-476, Tunç Çağı -1200/-1150,
+Eksen Çağı -800/-200) konunun dönemine göre tarihleniyor. Aralık,
+dosyanın kendi dönem atamasıyla (02) tutarlı biçimde Akkad çöküşüne
+çekildi.
+
+Düzeltme üç yerde birden yapılmalıydı: makalenin `donem` alanı, eski ve
+yeni dönem dosyalarının `ilgili` listeleri, ve makalenin kendi `ilgili`
+listesindeki dönem bağı. İlk turda yalnız birincisini yapınca çelişki
+sayısı 68'den 74'e ÇIKTI — üçü birlikte yapılınca 59'a indi. Bu, atlasın
+bağ yapısının tek yönlü düzeltmeyi affetmediğinin ölçülebilir örneği.

@@ -6,7 +6,7 @@ ozet: >-
   Yönetilenin iş birliğini çekerek yönetimin maliyetini görünür kılan
   yöntemin kuramcısı; atlasta bir düşünürün kendi metnini sonradan
   aşmasının da örneği.
-donem: "15"
+donem: "13"
 tarih_baslangic: "1869"
 tarih_bitis: "1948"
 bolge: [guney-asya, afrika, avrupa]
@@ -14,7 +14,7 @@ eksen: [siyasi, felsefi, dini, ekonomik, kulturel]
 guven_geneli: yaygin
 etiketler: [gandhi, satyagraha, sivil-itaatsizlik, hindistan, guney-afrika]
 ilgili:
-  - donem-15
+  - donem-13
   - dusunur-ambedkar
   - aktor-britanya-imparatorlugu
   - kavram-somurgesizlesme

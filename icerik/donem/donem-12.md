@@ -61,6 +61,9 @@ ilgili:
   - kaynak-cook-guney-seyir-defteri
   - aktor-dahomey-kralligi
   - aktor-oyo-imparatorlugu
+  - olay-herero-nama-1904
+  - olay-kongo-serbest-devleti
+  - olay-rus-turkistan-fethi
 okuma_onerisi: []
 serit:
   - bolge: afrika

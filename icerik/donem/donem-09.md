@@ -44,7 +44,6 @@ ilgili:
   - kaynak-tordesillas-antlasmasi
   - dusunur-katib-celebi
   - kaynak-piri-reis-kitab-i-bahriye
-  - dusunur-ulug-bey
   - aktor-portekiz-imparatorlugu
   - aktor-ryukyu-kralligi
 okuma_onerisi: []

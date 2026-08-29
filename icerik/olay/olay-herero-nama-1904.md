@@ -6,7 +6,7 @@ ozet: >-
   Yazılı bir emrin bulunduğu, kaydı bir devlet tarafından tutulup
   sonra aynı devletçe geri çekilen olay; atlasta bir raporun varlığının
   neye bağlı olduğunun örneği.
-donem: "13"
+donem: "12"
 tarih_baslangic: "1904"
 tarih_bitis: "1908"
 bolge: [afrika, avrupa]
@@ -14,7 +14,7 @@ eksen: [askeri, siyasi, demografik, ekonomik]
 guven_geneli: yaygin
 etiketler: [herero, nama, namibya, yazili-emir, rapor, tanima]
 ilgili:
-  - donem-13
+  - donem-12
   - aktor-alman-imparatorlugu
   - olay-berlin-konferansi
   - tartisma-soykirim-kavrami

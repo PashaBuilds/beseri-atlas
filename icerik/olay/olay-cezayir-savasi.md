@@ -6,7 +6,7 @@ ozet: >-
   Hukuken ülkenin parçası sayılan bir toprakta yürütülen ve otuz yedi
   yıl boyunca "savaş" denmeyen çatışma; atlasta adlandırmanın hukuki
   konum belirlediğinin örneği.
-donem: "16"
+donem: "14"
 tarih_baslangic: "1954"
 tarih_bitis: "1962"
 bolge: [afrika, avrupa, islam-dunyasi]
@@ -14,7 +14,7 @@ eksen: [askeri, siyasi, demografik, kulturel]
 guven_geneli: yaygin
 etiketler: [cezayir, somurgesizlesme, adlandirma, vatandaslik, yerinden-etme]
 ilgili:
-  - donem-16
+  - donem-14
   - kavram-somurgesizlesme
   - kavram-vatandaslik
   - dusunur-fanon
@@ -23,6 +23,7 @@ ilgili:
   - tartisma-tarihsel-sayilar-nasil-okunur
   - olay-suveys-krizi
   - kavram-belge-okumasi
+  - olay-vietnam-savasi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

@@ -6,7 +6,7 @@ ozet: >-
   Üretim düşüşüyle açıklanamayan, satın alma gücünün çökmesiyle
   yayılan kıtlık; atlasta bir felaketin resmî soruşturmasının kendi
   birincil belgesi olduğu örnek.
-donem: "15"
+donem: "13"
 tarih_baslangic: "1943"
 tarih_bitis: "1944"
 bolge: [guney-asya, avrupa, kuresel]
@@ -14,7 +14,7 @@ eksen: [ekonomik, siyasi, demografik, askeri]
 guven_geneli: yaygin
 etiketler: [bengal, kitlik, pirinc, savas-ekonomisi, hindistan, fiyat]
 ilgili:
-  - donem-15
+  - donem-13
   - aktor-britanya-imparatorlugu
   - kavram-pamuk-tek-urun
   - tartisma-somurgeciligin-ekonomik-bilancosu
@@ -24,6 +24,7 @@ ilgili:
   - dusunur-ambedkar
   - kavram-kaynak-elestirisi
   - olay-yesil-devrim
+  - olay-irlanda-kitligi
 okuma_onerisi: []
 kaynaklar:
   - anahtar: k1

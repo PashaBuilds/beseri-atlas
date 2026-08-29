@@ -7,7 +7,7 @@ ozet: >-
   geçirilmesi;
   atlasta bir bölgenin kendi kaydını tutan düzenleri kaybedişinin
   belgelenmiş örneği.
-donem: "13"
+donem: "12"
 tarih_baslangic: "1853"
 tarih_bitis: "1895"
 bolge: [orta-asya, avrupa]
@@ -15,7 +15,7 @@ eksen: [askeri, siyasi, ekonomik, demografik]
 guven_geneli: yaygin
 etiketler: [turkistan, hokand, buhara, hive, rusya, fetih]
 ilgili:
-  - donem-13
+  - donem-12
   - aktor-hokand-hanligi
   - aktor-buhara-hanligi
   - aktor-hive-hanligi

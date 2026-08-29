@@ -57,6 +57,8 @@ ilgili:
   - aktor-banaba
   - aktor-yeni-hebridler-ortak-yonetimi
   - olay-berlin-duvarinin-yikilisi
+  - olay-cezayir-savasi
+  - dusunur-ambedkar
 okuma_onerisi: []
 serit:
   - bolge: avrupa

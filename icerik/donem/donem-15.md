@@ -30,9 +30,6 @@ ilgili:
   - olay-pasifik-nukleer-denemeleri
   - aktor-banaba
   - aktor-yeni-hebridler-ortak-yonetimi
-  - olay-bengal-kitligi-1943
-  - dusunur-ambedkar
-  - dusunur-gandhi
   - tartisma-soguk-savasin-baslangici
 okuma_onerisi: []
 serit:

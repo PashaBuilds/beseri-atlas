@@ -6,7 +6,7 @@ ozet: >-
   Semerkant'ta bir rasathane kurdurup yeni gözlemlere dayanan bir yıldız
   kataloğu ürettiren hükümdar; atlasta bir ölçümün onu yaptıran düzenden
   uzun yaşadığı örnek.
-donem: "09"
+donem: "08"
 tarih_baslangic: "1394"
 tarih_bitis: "1449"
 bolge: [orta-asya, islam-dunyasi, avrupa]
@@ -15,7 +15,7 @@ guven_geneli: yaygin
 etiketler: [ulug-bey, semerkant, rasathane, zic, timurlu, astronomi]
 ilgili:
   - donem-08
-  - donem-09
+  - donem-08
   - aktor-timur-imparatorlugu
   - dusunur-biruni
   - dusunur-katib-celebi

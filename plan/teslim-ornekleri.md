@@ -326,3 +326,52 @@ demek değildir. Ölçememeyi ölçmüş gibi göstermek ne kadar ağır bir hat
 Fikstür testleri 37'den **51**'e çıktı; iki çevirici de kendi test
 dosyasıyla korunuyor (Han shu ve Herodotos sayıları test verisi olarak
 kayıtlı).
+
+## J. Matris katmanının kendi bütünlük açığı
+
+53. **İddia cümlesi izlenebilirliği.** İki dosyayı düzeltirken matrislerin
+    bayatladığını gördüm ve nedenini ölçtüm: matristeki `cumle` alanı,
+    gövdedeki cümlenin eski bir hâli olabiliyor. Gövde hash'i (K-3) bunu
+    göstermez, çünkü hakem hash'i en son yazar — kendi düzeltmesinden
+    sonraki gövdeyle damgalar, ama matrise daha önce yazdığı cümle
+    metnini güncellemez.
+
+    Korpus ölçümü: **68 matrisin 43'ünde toplam 283 cümle (%9,5) gövdede
+    bulunamıyordu**; ikisinde (Kuş Krallığı, Rapa Nui) hiçbir cümle
+    tutmuyordu. Bu, iddia-kaynak matrisinin değerini doğrudan aşındırır:
+    matrisin tek işi bir iddiayı metinde izlenebilir kılmaktır.
+
+    Çözüm iki parçalı. Ölçüm, `matris.mjs --hepsi` özet satırına kalıcı
+    olarak eklendi (henüz hata değil, ratchet mantığı). Onarım için
+    `--cumle-oturt` kipi yazıldı: her matris iddiası, gövdede AYNI DİPNOT
+    İMZASINI taşıyan cümlelerle karşılaştırılır ve benzerlik eşiğini tek
+    başına geçen aday varsa oraya oturtulur; birden fazla aday yakınsa ya
+    da hiçbiri eşiği geçmiyorsa DOKUNULMAZ — yanlış cümleye oturtmak,
+    kaymanın kendisinden daha kötüdür.
+
+    Sonuç: 192 cümle yerine oturdu, kayma 283'ten 194'e indi. Kalan 88
+    iddianın gövdede aynı dipnot imzalı karşılığı yok; bunlar mekanik
+    olarak çözülemez ve hakem turuna bırakıldı.
+
+54. **Çerçeve paragrafı deseni.** İki dosyada (İran Devrimi, Büyük Buhran)
+    ikinci paragraf — makalenin tezini kuran çerçeve paragrafı — dipnotsuz
+    kalıyordu ve KAPI 2 haklı olarak kaynaksız iddia veriyordu. Bu, hakem
+    turunun kaçırdığı bir sınıf: hakem içeriği doğru buluyor, kapı ise
+    desteği arıyor. İkisi de dosyada ZATEN bulunan künyelere bağlandı ve
+    eklenen iddialar matriste `ORKESTRATOR EKLEMESI` notuyla işaretlendi
+    — kimin eklediği ve neden eklendiği görünür; bir sonraki hakem turunda
+    doğrulanacak.
+
+55. **Kaynak hiyerarşisini hakemler uyguladı.** Üçüncü dalganın altı
+    dosyasından dördüne KOŞULLU hüküm verildi ve gerekçe hep aynıydı:
+    gövde iyi ama omurga ansiklopedide ya da yalnız üstveri taşıyan
+    Crossref kayıtlarında. Örnekler: Sovyetler'in dağılması dosyasında
+    45 iddianın 28'i tek bir Wikipedia maddesine bağlıydı; Sanayi Devrimi
+    dosyasında Allen'ın tezi asıl çalışmadan değil bir KİTAP DEĞERLENDİRME
+    YAZISINDAN okunuyordu; Atlantik köle ticaretinde sayısal omurganın
+    tamamı tek ansiklopedi maddesindeydi. Hiçbiri "yanlış" değildi —
+    hakemler hepsini kaynakta birebir doğruladı — ama sözleşmenin kaynak
+    hiyerarşisini karşılamıyordu. Dördü için hedefli bir kaynak
+    derinleştirme turu açıldı. Bu, hattın sayı uğruna kaliteden ödün
+    vermediğinin ölçülebilir kanıtı: dosyalar 200 kelimeden 1500'e çıkmış
+    olmasına rağmen yayına alınmadı.
