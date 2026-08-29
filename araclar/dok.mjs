@@ -135,6 +135,24 @@ if (satirDeseni) {
 if (ara) {
   const e = etiket(metin, ara);
   bas(`# --ara → ${e.yazi}`);
+  // --tam ILE ONBELLEK FARKLI METIN DONDUREBILIR (2026-08-29 hakem olcumu):
+  // archive.org'da onbellek kopyasinda kitabin onsozu varken --tam ile agdan
+  // gelen OCR onsozsuz basliyordu; kunye dizesi orada "bulunamadi" donuyordu.
+  // --tam "siniri asar" diye guvenilirse saglam bir kunye haksiz yere
+  // dusurulur. Bu yuzden --tam kipinde ONBELLEK SURUMU DE sinanir ve iki
+  // hukum birlikte basilir. KAPININ GORDUGU SURUM ONBELLEKTEKIDIR.
+  if (tam) {
+    try {
+      const o = await getir(url);
+      const oe = etiket(String(o.metin ?? ''), ara);
+      bas(`# --ara (onbellek surumu, KAPININ GORDUGU) → ${oe.yazi}`);
+      if (oe.ok !== e.ok) {
+        bas('# UYARI: tam metin ile onbellek AYNI SONUCU VERMIYOR. Iki surum');
+        bas('#        farkli olabilir (OCR, yonlendirme, onsoz). Kunye kararini');
+        bas('#        kapinin gordugu surume gore ver.');
+      }
+    } catch { bas('# (onbellek surumu okunamadi)'); }
+  }
   // BAGLAM PENCERESI HUKUMLE AYNI ESLESMEDEN GELMELI (2026-08-29 ajan
   // bulgusu): onceki surum hukmu normalize edilmis metinden veriyor, baglami
   // ise HAM metinde bir parca arayarak buluyordu. Ikisi ayrildiginda arac

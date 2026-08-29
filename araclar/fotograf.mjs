@@ -49,6 +49,15 @@ export function fotograf() {
   //   kayanCumle : matriste kayitli ama govdede bulunamayan iddia cumlesi
   //   kaydsizCumle: govdede dipnotlu ama matriste kaydi olmayan cumle
   let kayanCumle = 0, kaydsizCumle = 0, dipnotluCumle = 0;
+  // USTVERI KUNYESINE BAGLI DOGRUDAN DESTEK. Havuz kurali acik:
+  // api.crossref.org ve api.semanticscholar.org kayitlari yazar/yil/baslik
+  // iddialarina dogrudan destek olur; makalenin ICERIGI hakkindaki iddiaya
+  // en fazla ozet duzeyinde KISMI. Bir hakem 2026-08-29'da bu kuralin
+  // korpus capinda uygulanmadigini olctu ve bir dosyada 18 destegi
+  // indirdi. Sayi mekanik olarak "ihlal" demek DEGILDIR — kunyenin kendisi
+  // hakkindaki iddialar mesru sekilde dogrudan olabilir — ama gorunur
+  // olmasi hakem turunun bakmasi gereken yeri isaret eder.
+  let ustveriDogrudan = 0, ustveriToplam = 0;
   const sade = cumleSadelestir;
   for (const id of matrisler) {
     const mat = matrisOku(id);
@@ -62,6 +71,21 @@ export function fotograf() {
     if (d.bayat) bayat += 1;
     if (makale) {
       kayanCumle += d.kayipCumle || 0;
+      const ustveriAnahtar = new Set();
+      for (const k of makale.fm.kaynaklar || []) {
+        let h = '';
+        try { h = new URL(k.url).hostname.replace(/^www\./, ''); } catch { /* url yok */ }
+        if (h === 'api.crossref.org' || h === 'api.semanticscholar.org') ustveriAnahtar.add(k.anahtar);
+      }
+      if (ustveriAnahtar.size) {
+        for (const i of mat.iddialar || []) {
+          for (const kk of i.kaynaklar || []) {
+            if (!ustveriAnahtar.has(kk.anahtar)) continue;
+            ustveriToplam += 1;
+            if (kk.destek === 'dogrudan') ustveriDogrudan += 1;
+          }
+        }
+      }
       // Kapsama olcusu matris.mjs --eksik-iddia ile AYNI tanimi kullanir:
       // bir govde cumlesi, matristeki bir iddia cumlesi onun icinde geciyorsa
       // (ya da tersi) kapsanmis sayilir. Iki olcumun ayrisması 2026-08-29'da
@@ -114,7 +138,7 @@ export function fotograf() {
     hedefAlti: Object.values(tipler).reduce((a, g) => a + g.hedefAlti, 0),
     toplamAcik: Object.values(tipler).reduce((a, g) => a + g.acik, 0),
     dil: { kalipToplam, kalipliDosya },
-    matris: { dosya: matrisler.length, gecerli, bayat, korHakemli: hakemli, sayac, kayanCumle, kaydsizCumle, dipnotluCumle },
+    matris: { dosya: matrisler.length, gecerli, bayat, korHakemli: hakemli, sayac, kayanCumle, kaydsizCumle, dipnotluCumle, ustveriDogrudan, ustveriToplam },
     atom: { raporlu, ok, hata, isaret, atomsuz },
     kaynak: kaynakOlcum,
   };
@@ -134,6 +158,8 @@ if (process.argv[1]?.endsWith('fotograf.mjs')) {
   console.log(`hakem katmani iddialari: ${s.dogrudan} dogrudan · ${s.kismi} kismi · ${s.desteksiz} desteksiz · ${s.olculemez} olculemez`);
   console.log(`matris butunlugu: ${f.matris.kayanCumle} kayan cumle (matriste var, govdede yok) · `
     + `${f.matris.kaydsizCumle}/${f.matris.dipnotluCumle} dipnotlu cumle matriste kaydsiz`);
+  console.log(`ustveri kunyesi (crossref/s2) destegi: ${f.matris.ustveriDogrudan}/${f.matris.ustveriToplam} `
+    + 'dogrudan isaretli — kunye hakkindaki iddia dogrudan olabilir, ICERIK iddiasi en fazla kismi');
   console.log(`mekanik atom katmani: ${f.atom.ok} OK · ${f.atom.hata} HATA · ${f.atom.isaret} ISARET · ${f.atom.atomsuz} ATOMSUZ (${f.atom.raporlu} rapor)`);
   console.log(`dil borcu: ${f.dil.kalipToplam} kalip gecisi / ${f.dil.kalipliDosya} dosya`);
   const kk = f.kaynak;

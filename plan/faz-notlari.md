@@ -4946,3 +4946,45 @@ tartışma haritası taşımaması. Ardından 13/13 kapı 0 hatayla geçti.
 Beş dosyanın gövdesi hazır ama matrisi yoktu; hakemler matrisi de
 kuracak biçimde yeniden başlatıldı. Gövdeyi onlar yazmadığı için
 yazar≠hakem şartı korunuyor.
+
+### Aktör hakemlerinin bulduğu dört araç kusuru
+
+1. **İç bağ kalibrasyonu (iki hakem bağımsız olarak bildirdi).**
+   `iddiaCumleleri` site içi bağları (`[metin](/yol/)`) TÜMÜYLE siliyor —
+   haklı bir gerekçeyle: bağ metni çoğu zaman bir başlıktır ("1650-1789")
+   ve içindeki yıl cümlenin iddiası sanılıyordu. Ama `cumleSadelestir`
+   bağ metnini koruyordu. Sonuç: iç bağ taşıyan bir cümle K-6 ile
+   `--eksik-iddia` ölçümlerini AYNI ANDA geçemiyordu ve korpus genelinde
+   sessiz "kayan cümle" üretiyordu. Sadeleştirici aynı kurala getirildi.
+2. **`--tam` ile önbellek farklı metin döndürebiliyor.** Bir hakem
+   archive.org'da önbellek kopyasında kitabın önsözü varken `--tam` ile
+   ağdan gelen OCR'ın önsözsüz başladığını ve künye dizesinin orada
+   "bulunamadı" döndüğünü ölçtü. `--tam` "sınırı aşar" diye güvenilirse
+   sağlam bir künye haksız yere düşürülür. `--ara` artık `--tam` kipinde
+   ÖNBELLEK SÜRÜMÜNÜ DE sınıyor ve iki hükmü birlikte basıyor; ayrışma
+   varsa açık uyarı veriyor. Kapının gördüğü sürüm önbellektekidir.
+3. **Bilinmeyen bayrak tam koşuya düşüyordu.** Bir hakem
+   `denetle.mjs --yardim` yazdı; araç `--`'li argümanları süzüp hedef
+   listesini boş bıraktığı için bu ARGÜMANSIZ TAM KOŞUYA döndü ve 1024
+   rapor dosyasını yeniden yazdı — paralel oturumların dosyalarına da
+   dokunarak. Yasak listesindeki bir işlem bir yazım hatasıyla
+   tetiklenebiliyordu. Bilinmeyen bayrak artık hata verip çıkıyor.
+4. **`curut.mjs` kapsam süzgeci atıf çerçevesini görmüyordu.** Kaynağa
+   açıkça atfedilmiş bir cümledeki "evrensel" sözcüğü makalenin kendi
+   kapsam iddiası değil kaynağın terimidir (Ekber'in sulh-i küll siyaseti
+   için "universal peace"). Muafiyet eklendi; bir dosyada itiraz 4'ten
+   0'a indi.
+
+### Korpus çapında ölçülen bir tutarsızlık
+
+Varşova hakemi havuz kuralının uygulanmadığını bildirdi ve ölçtüm:
+`api.crossref.org` ve `api.semanticscholar.org` künyelerine bağlı 327
+destek kaydının **161'i `dogrudan`** işaretli. Havuz kuralı bu kayıtların
+yazar/yıl/başlık iddialarına doğrudan, makalenin İÇERİĞİNE en fazla özet
+düzeyinde `kismi` destek olabileceğini söylüyor.
+
+Sayı mekanik olarak "161 ihlal" demek DEĞİL — künyenin kendisi hakkındaki
+iddialar meşru biçimde doğrudan olabilir. Bu yüzden otomatik düzeltme
+yapılmadı. Bunun yerine ölçüm `fotograf.mjs` çıktısına kalıcı olarak
+eklendi ve beş hakem çekirdeğine tek tek karar verdiren bir denetim
+maddesi yazıldı.

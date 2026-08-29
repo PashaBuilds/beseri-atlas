@@ -149,9 +149,17 @@ export function matrisiDogrula(matris, makale = null) {
  */
 export function cumleSadelestir(s) {
   return String(s || '')
-    .replace(/\[\^k\d+\]/g, '')            // dipnot isaretleri
-    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1') // markdown bag -> metni
-    .replace(/[*_`]/g, '')                   // vurgu isaretleri
+    .replace(/\[\^k\d+\]/g, '')                // dipnot isaretleri
+    // SITE ICI BAG TUMUYLE SILINIR — denetle.mjs'teki iddiaCumleleri ile
+    // AYNI kural. 2026-08-29: iki hakem bagimsiz olarak, ic bag tasiyan bir
+    // cumlenin K-6 ile --eksik-iddia'yi AYNI ANDA gecemedigini olctu; bu
+    // korpus genelinde sessiz "kayan cumle" uretiyordu. iddiaCumleleri ic
+    // baglari siliyor (bag metni cogu zaman bir baslik oldugu icin
+    // icindeki yil cumlenin iddiasi saniliyordu); sadelestirici de ayni
+    // seyi yapmali, yoksa iki taraf farkli metinleri karsilastirir.
+    .replace(/\[[^\]]*\]\(\/[^)]*\)/g, ' ')    // site ici bag: tumuyle sil
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')   // dis bag: metnini birak
+    .replace(/[*_`]/g, '')                      // vurgu isaretleri
     .replace(/\s+/g, ' ')
     .trim();
 }

@@ -376,6 +376,21 @@ if (process.argv[1]?.endsWith('denetle.mjs') && process.argv.includes('--bayat')
 }
 
 if (process.argv[1]?.endsWith('denetle.mjs')) {
+  // BILINMEYEN BAYRAK TAM KOSUYA DUSMEZ (2026-08-29 hakem bulgusu).
+  // Onceki surumde `--` ile baslayan her argüman sessizce suzuluyordu;
+  // bir hakem `--yardim` yazdi, hedef listesi bos kaldi ve komut ARGUMANSIZ
+  // TAM KOSUYA dondu: 1024 rapor dosyasi yeniden yazildi ve paralel
+  // oturumlarin dosyalarina da dokunuldu. Yasak listesindeki bir islem,
+  // bir yazim hatasiyla tetiklenebiliyordu.
+  const BILINEN = new Set(['--bayat', '--sessiz']);
+  const bilinmeyen = process.argv.slice(2).filter((a) => a.startsWith('--') && !BILINEN.has(a));
+  if (bilinmeyen.length) {
+    console.error(`denetle: bilinmeyen bayrak: ${bilinmeyen.join(', ')}`);
+    console.error('kullanim: node araclar/denetle.mjs <id> [...]   belirtilen makaleleri denetler');
+    console.error('          node araclar/denetle.mjs              TUM korpus (uzun surer, butun raporlari yeniden yazar)');
+    console.error('          node araclar/denetle.mjs --bayat      raporu govdesinden eski kalan makaleleri listeler');
+    process.exit(2);
+  }
   const hedefler = process.argv.slice(2).filter((a) => !a.startsWith('--'));
   const makaleler = makaleleriTopla().filter((m) => hedefler.length === 0 || hedefler.includes(m.fm.id));
   let toplamHata = 0, toplamIsaret = 0, toplamOk = 0, toplamAtomsuz = 0;
