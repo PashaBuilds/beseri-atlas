@@ -97,6 +97,20 @@ function turkceMetinMi(metin) {
 
 const TIRNAK = /"([^"\n]{4,400})"|“([^”\n]{4,400})”|«([^»\n]{4,400})»/g;
 
+// TEK SAYIDA TIRNAK ARTIGI. Bir notta uc tirnak varsa (birinin esi
+// dusmusse), desen ikinci alintinin KAPANISI ile ucuncunun ACILISI
+// arasindaki metni "alinti" sanir. Gercek ornek:
+//   ") kismen kabul edildi: kaynak nitelemeyi yapiyor ("
+// Bunlar dengesiz noktalamayla ele verir; alinti sayilmazlar.
+function tirnakArtigiMi(dize) {
+  const s = dize.trim();
+  if (/^[),\];:.]/.test(s)) return true;      // kapanisla basliyor
+  if (/[([]$/.test(s)) return true;           // acilisla bitiyor
+  const ac = (s.match(/[([]/g) || []).length;
+  const kapa = (s.match(/[)\]]/g) || []).length;
+  return Math.abs(ac - kapa) > 1;             // agir dengesiz parantez
+}
+
 // DIYAKRITIK KATLAMA. Ajanlar not yazarken cogu zaman diyakritikleri
 // dusuruyor ("verbluffend" / "verbluffend einseitig"), kaynak metninde ise
 // "verbluffend" umlautlu duruyor. Katlamadan karsilastirmak, saglam bir
@@ -128,6 +142,7 @@ export function govdeAlintilari(govde) {
     for (const e of p.matchAll(TIRNAK)) {
       const dize = (e[1] || e[2] || e[3] || '').trim();
       if (dize.length < EN_KISA || dize.length > EN_UZUN) continue;
+      if (tirnakArtigiMi(dize)) continue;
       const bitis = (e.index || 0) + e[0].length;
       // ADLANDIRMA CERCEVESI. `"X" olarak adlandirilmasi`, `"X" adi verilir`
       // kaliplarinda tirnak bir ALINTI degil bir ADDIR; kaynak metninde
@@ -162,6 +177,7 @@ export function matrisAlintilari(matris) {
     for (const e of not.matchAll(TIRNAK)) {
       const dize = (e[1] || e[2] || e[3] || '').trim();
       if (dize.length < EN_KISA || dize.length > EN_UZUN) continue;
+      if (tirnakArtigiMi(dize)) continue;
       cikti.push({ nerede: `matris:${i.iddia_id}`, dize, anahtar: anahtarlar[0], adaylar: anahtarlar });
     }
   }
@@ -180,8 +196,17 @@ function parcala(dize) {
     .filter((s) => s.length >= 8);
 }
 
+// BOSLUK ARTIGI. HTML'den metin cikarirken etiket siniri sozcugun ortasina
+// bosluk sokabiliyor: TDV maddesi ekranda "zimmilerdi" gorunurken cikarilan
+// metinde "zimmi lerdi" duruyor. Boslugu tumuyle atarak yapilan karsilastirma
+// bu artigi ayirir; ayni metin oldugu icin BIREBIR sayilir ama nedeni yazilir.
+const boslugsuz = (s) => normal(s).replace(/\s+/g, '');
+
 async function sinaParca(parca, metin, kesildi) {
   if (normal(metin).includes(normal(parca))) return { sinif: 'BIREBIR', oran: 1 };
+  if (boslugsuz(metin).includes(boslugsuz(parca))) {
+    return { sinif: 'BIREBIR', oran: 1, artik: 'yalnizca bosluk farki (metin cikarma artigi)' };
+  }
   const k = dizeGeciyorMu(metin, parca);
   if (k.ok) return { sinif: 'ORTUSME', oran: k.oran };
   if (kesildi) return { sinif: 'PENCERE', oran: k.oran };
@@ -201,7 +226,7 @@ async function sina(dize, url) {
   if (parcalar.length <= 1) {
     const s = await sinaParca(dize, metin, r.kesildi);
     const yuzde = `kelime ortusmesi %${Math.round(s.oran * 100)}`;
-    if (s.sinif === 'BIREBIR') return { sinif: 'BIREBIR', not: '', kaynakTurkce };
+    if (s.sinif === 'BIREBIR') return { sinif: 'BIREBIR', not: s.artik || '', kaynakTurkce };
     if (s.sinif === 'ORTUSME') return { sinif: 'ORTUSME', not: `${yuzde} ama ardisik degil`, kaynakTurkce };
     if (s.sinif === 'PENCERE') return { sinif: 'PENCERE', not: `400k penceresinde yok; --tam ile sina (${yuzde})`, kaynakTurkce };
     return { sinif: 'GECMIYOR', not: yuzde, kaynakTurkce };
