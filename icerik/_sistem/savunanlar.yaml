@@ -124,7 +124,7 @@ adlar:
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Great_Divergence
     gectigi: [tartisma-bati-neden-yukseldi]
   - ad: "anlatı çözümlemesi yaklaşımı"
-    durum: dogrulandi
+    durum: kisi-degil
     gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
   - ad: "Anlatı temelli tarih yazımı"
     durum: kisi-degil
@@ -139,7 +139,7 @@ adlar:
     durum: kisi-degil
     gectigi: [tartisma-kalkinma-neden-basarisiz]
   - ad: "Belge merkezli tarihçilik geleneği"
-    durum: dogrulandi
+    durum: kisi-degil
     gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
   - ad: "Beslenme ve iskelet patolojisi literatürü"
     durum: kisi-degil
@@ -202,7 +202,7 @@ adlar:
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Fernand_Braudel
     gectigi: [tartisma-buyuk-adam-kurami]
   - ad: "Folklor ve edebiyat incelemesi çizgisi"
-    durum: dogrulandi
+    durum: kisi-degil
     gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
   - ad: "François Furet"
     durum: tartismada-dogrulandi
@@ -314,14 +314,14 @@ adlar:
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Neolithic_Revolution
     gectigi: [tartisma-tarim-devrimi-neden]
   - ad: "Leopold von Ranke çizgisi"
-    durum: dogrulandi
+    durum: kisi-degil
     gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
   - ad: "Lewis Binford"
     durum: tartismada-dogrulandi
     dogrulama_kaynagi: https://en.wikipedia.org/wiki/Neolithic_Revolution
     gectigi: [tartisma-tarim-devrimi-neden]
   - ad: "maddi kanıt önceliği yaklaşımı"
-    durum: dogrulandi
+    durum: kisi-degil
     gectigi: [tartisma-sozlu-gelenek-kaynak-mi]
   - ad: "Marc Bloch"
     durum: tartismada-dogrulandi
