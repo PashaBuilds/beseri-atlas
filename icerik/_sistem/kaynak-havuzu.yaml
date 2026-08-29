@@ -615,6 +615,13 @@ whitelist:
     # 200 ve 41,8k dondu. Madde listesi /encyclopedia/ sayfasindan
     # dogrulanmali. Ayrica /book_reviews/ alt agaci imzali akademik
     # degerlendirme yazilari tasir ve ayni kosullarda acilir.
+    # 2026-08-30 serflik ajani olcumu: SEKIZ ayri slug denendi, hepsi 404
+    # (serfdom, serfdom-in-russia, manorialism, russian-serfdom, slavery-and-
+    # serfdom, the-economic-history-of-serfdom, an-economic-history-of-serfdom,
+    # the-economic-history-of-russia). /encyclopedia/ dizini sayfalanmis ve
+    # icinde 'serf' gecmiyor; site aramasi yalnizca kitap degerlendirmesi
+    # donduruyor. eh.net'te serflik maddesi YOKTUR; iktisat tarihi konularinda
+    # bu alan varsayilan kaynak sayilmamali.
   - alan: api.crossref.org
     tur: akademik
     dogrulanabilir: true
@@ -642,6 +649,10 @@ whitelist:
       # yayinci ailelerinde Semantic Scholar da Crossref gibi yalniz
       # ustveri verir; icerik iddiasi kurulamaz. Ayrica arka arkaya
       # cagrilarda 429 doner; Crossref'e gec.
+    # 2026-08-30 iki ayri ajan olcumu: anahtarsiz katmanda HTTP 429 KALICI
+    # olabiliyor — 4 ve 8 saniyelik beklemelerle yapilan ard arda cagrilarin
+    # hepsi 429 dondu. 'Bekleyip yeniden dene' yetmiyor; dogrudan
+    # api.crossref.org'a gecmek daha guvenilir (ayni oturumda 4 cagrinin 4'u 200).
   - alan: rug.nl
     tur: veri
     dogrulanabilir: true
